@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/24 16:49:34
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/24 17:29:24
 </p>
 </blockquote>
 <p>
@@ -4053,6 +4053,12 @@ Sakee Asen（热度：556725）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%A4%E4%B8%AA%E6%B6%88%E5%A4%B1%E7%9A%84%E9%A1%B6%E6%B5%81%E6%AD%8C%E6%89%8B%E9%83%BD%E5%9B%9E%E5%BD%92%E4%BA%86%23" target="weibo">
+两个消失的顶流歌手都回归了（热度：544738）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BD%A6%E5%8E%98%E5%AD%90%23" target="weibo">
 车厘子（热度：544117）
 </a>
@@ -4541,12 +4547,6 @@ TVB颁奖典礼（热度：518643）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AA%84%E9%98%B3%E4%BC%BC%E6%88%91%E7%9B%B4%E6%92%AD%23" target="weibo">
 骄阳似我直播（热度：517385）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%A4%E4%B8%AA%E6%B6%88%E5%A4%B1%E7%9A%84%E9%A1%B6%E6%B5%81%E6%AD%8C%E6%89%8B%E9%83%BD%E5%9B%9E%E5%BD%92%E4%BA%86%23" target="weibo">
-两个消失的顶流歌手都回归了（热度：517368）
 </a>
 </li>
 

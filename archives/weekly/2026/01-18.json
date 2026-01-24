@@ -1,6 +1,6 @@
 {
   "startTime": 1768667567906,
-  "endTime": 1769244574514,
+  "endTime": 1769246964205,
   "band_list": [
     {
       "raw_hot": 9430476,
@@ -1651,6 +1651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 544738,
+      "num": 1438984,
+      "word": "两个消失的顶流歌手都回归了",
+      "onboard_time": 1769242282,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 540756,
       "num": 196890,
       "word": "iPhone18Pro宣传片曝光",
@@ -1873,14 +1881,6 @@
       "onboard_time": 1768727301,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 517368,
-      "num": 1438984,
-      "word": "两个消失的顶流歌手都回归了",
-      "onboard_time": 1769242282,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 516466,
@@ -3235,6 +3235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 365595,
+      "num": 365595,
+      "word": "刘强东章泽天手牵手出席达沃斯年会",
+      "onboard_time": 1769246121,
+      "rank": 3,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 364411,
       "num": 335380,
       "word": "王鹤棣演唱会",
@@ -3475,6 +3483,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 344472,
+      "num": 239611,
+      "word": "女子在胖东来花100多万买金条",
+      "onboard_time": 1769242582,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 344248,
       "num": 195439,
       "word": "A股",
@@ -3641,6 +3657,14 @@
       "onboard_time": 1768814481,
       "rank": 6,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 331924,
+      "num": 171920,
+      "word": "近看张凌赫远看宋威龙",
+      "onboard_time": 1769243063,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 331574,
@@ -5131,14 +5155,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 245494,
-      "num": 171920,
-      "word": "近看张凌赫远看宋威龙",
-      "onboard_time": 1769243063,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 245173,
       "num": 245173,
       "word": "张信哲问邓佳鑫谈过几次恋爱",
@@ -5211,6 +5227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 241258,
+      "num": 212285,
+      "word": "原来毛衣起球刷刷就好了",
+      "onboard_time": 1769241201,
+      "rank": 8,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 241230,
       "num": 241230,
       "word": "专家称日本想打的不是一般小仗",
@@ -5241,14 +5265,6 @@
       "onboard_time": 1768926558,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 239611,
-      "num": 239611,
-      "word": "女子在胖东来花100多万买金条",
-      "onboard_time": 1769242582,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 239464,
@@ -7003,6 +7019,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 187358,
+      "num": 187358,
+      "word": "林孝埈给中国短道的礼物",
+      "onboard_time": 1769243242,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 187355,
       "num": 187355,
       "word": "刘宇宁出镜了但出镜了",
@@ -7451,6 +7475,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 175838,
+      "num": 115916,
+      "word": "医生确诊黄子韬亲密关系中很粘人",
+      "onboard_time": 1769241561,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 175712,
       "num": 175712,
       "word": "沈梦辰一套又一套眼前一亮又一亮",
@@ -7657,14 +7689,6 @@
       "onboard_time": 1769152700,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 171563,
-      "num": 184215,
-      "word": "原来毛衣起球刷刷就好了",
-      "onboard_time": 1769241201,
-      "rank": 8,
-      "category": "休闲"
     },
     {
       "raw_hot": 171121,
@@ -7931,6 +7955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 166444,
+      "num": 140682,
+      "word": "杨幂12年后的退休计划",
+      "onboard_time": 1769242701,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 166267,
       "num": 124007,
       "word": "骄阳似我庆功宴内场",
@@ -7977,14 +8009,6 @@
       "onboard_time": 1768714339,
       "rank": 21,
       "category": "电影"
-    },
-    {
-      "raw_hot": 165018,
-      "num": 165018,
-      "word": "林孝埈给中国短道的礼物",
-      "onboard_time": 1769243242,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 164968,
@@ -9131,14 +9155,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 144544,
-      "num": 140682,
-      "word": "杨幂12年后的退休计划",
-      "onboard_time": 1769242701,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 144369,
       "num": 144369,
       "word": "长生复刻水母合照",
@@ -9265,14 +9281,6 @@
       "onboard_time": 1768648160,
       "rank": 14,
       "category": "网红,运动健身"
-    },
-    {
-      "raw_hot": 142636,
-      "num": 115916,
-      "word": "医生确诊黄子韬亲密关系中很粘人",
-      "onboard_time": 1769241561,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 142566,
@@ -9641,6 +9649,14 @@
       "onboard_time": 1769094921,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 137634,
+      "num": 121720,
+      "word": "喵娲娲连送五天微博之夜门票",
+      "onboard_time": 1769246600,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 137609,
@@ -10699,6 +10715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124761,
+      "num": 112460,
+      "word": "网红办杀猪宴和村民产生纠纷",
+      "onboard_time": 1769244142,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 124734,
       "num": 121154,
       "word": "结婚20年丈夫连个碗都没洗过",
@@ -10817,6 +10841,14 @@
       "onboard_time": 1768703720,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 123188,
+      "num": 123188,
+      "word": "小象被砸动物园道歉网友不买账",
+      "onboard_time": 1769245220,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 123109,
@@ -11153,6 +11185,14 @@
       "onboard_time": 1768915282,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119930,
+      "num": 114565,
+      "word": "沈腾 什么是伸出圆手",
+      "onboard_time": 1769246360,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 119912,
@@ -11659,6 +11699,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 116135,
+      "num": 116135,
+      "word": "电视剧拿错包的情节真发生了",
+      "onboard_time": 1769244082,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115992,
       "num": 204979,
       "word": "杨紫生命树敬礼转场",
@@ -11689,6 +11737,14 @@
       "onboard_time": 1768712299,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 115692,
+      "num": 115692,
+      "word": "U23亚洲杯国足赛前喊话太燃了",
+      "onboard_time": 1769245281,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 115681,
@@ -12179,8 +12235,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 111001,
-      "num": 111001,
+      "raw_hot": 111057,
+      "num": 111057,
       "word": "无锡一工程因挖到7000年遗址延期",
       "onboard_time": 1769241983,
       "rank": 27,
@@ -12611,6 +12667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 108003,
+      "num": 108003,
+      "word": "张泽禹直播粉丝点歌清唱",
+      "onboard_time": 1769246780,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 108000,
       "num": 108000,
       "word": "为何国产剧再难诞生孟宴臣",
@@ -12673,6 +12737,14 @@
       "onboard_time": 1769173340,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 107285,
+      "num": 113155,
+      "word": "VaVa说艾福杰尼国内第一男装",
+      "onboard_time": 1769245582,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 107206,
@@ -13281,6 +13353,14 @@
       "onboard_time": 1768826181,
       "rank": 19,
       "category": "数码"
+    },
+    {
+      "raw_hot": 103786,
+      "num": 103786,
+      "word": "美国数十万人严寒中高喊ICE滚蛋",
+      "onboard_time": 1769240781,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 103718,
@@ -13915,6 +13995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99927,
+      "num": 99927,
+      "word": "王欣瑜vs诺斯科娃",
+      "onboard_time": 1769245641,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 99895,
       "num": 194897,
       "word": "最不能接受苹果手机的缺点",
@@ -13977,6 +14065,14 @@
       "onboard_time": 1769063541,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 99541,
+      "num": 99541,
+      "word": "诗幂再同框 惊蛰无声你好事做尽",
+      "onboard_time": 1769245401,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 99486,
@@ -14193,6 +14289,14 @@
       "onboard_time": 1768719560,
       "rank": 35,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 98347,
+      "num": 98347,
+      "word": "何广智一开口又杀疯了",
+      "onboard_time": 1769246541,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 98306,
@@ -14657,6 +14761,14 @@
       "onboard_time": 1769151320,
       "rank": 42,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 95715,
+      "num": 95715,
+      "word": "王玉雯 古早言情最严厉的母亲",
+      "onboard_time": 1769246481,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 95703,
@@ -16315,14 +16427,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 87637,
-      "num": 87637,
-      "word": "网红办杀猪宴和村民产生纠纷",
-      "onboard_time": 1769244142,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 87635,
       "num": 87635,
       "word": "深圳的烧烤已经进化成这样了吗",
@@ -16467,6 +16571,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 87067,
+      "num": 86078,
+      "word": "张真源高音唱出屏幕了",
+      "onboard_time": 1769246722,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 87059,
       "num": 87059,
       "word": "山上彻也母亲盲目信教捐款1亿日元",
@@ -16497,6 +16609,14 @@
       "onboard_time": 1769094742,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 87019,
+      "num": 87019,
+      "word": "出门旅游摔到后脑勺失忆了",
+      "onboard_time": 1769244501,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 87016,
@@ -16739,14 +16859,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 86220,
-      "num": 86220,
-      "word": "出门旅游摔到后脑勺失忆了",
-      "onboard_time": 1769244501,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 86206,
       "num": 86206,
       "word": "新研究可防止婴儿时期记忆消失",
@@ -16817,14 +16929,6 @@
       "onboard_time": 1768797323,
       "rank": 39,
       "category": "财经"
-    },
-    {
-      "raw_hot": 85813,
-      "num": 85813,
-      "word": "美国数十万人严寒中高喊ICE滚蛋",
-      "onboard_time": 1769240781,
-      "rank": 43,
-      "category": "国际时政"
     },
     {
       "raw_hot": 85794,
@@ -17795,6 +17899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 81213,
+      "num": 81213,
+      "word": "美国居民涌入超市抢购物资",
+      "onboard_time": 1769245941,
+      "rank": 44,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 81105,
       "num": 134435,
       "word": "中方回应特朗普称联合国或被取代",
@@ -17873,6 +17985,14 @@
       "onboard_time": 1768749323,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 80563,
+      "num": 80563,
+      "word": "苏新皓问什么是年糕条",
+      "onboard_time": 1769245641,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 80542,
@@ -18099,6 +18219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 79581,
+      "num": 79581,
+      "word": "长得非常标准的东西",
+      "onboard_time": 1769243840,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 79553,
       "num": 79553,
       "word": "英雄联盟龙马烈焰皮肤",
@@ -18273,6 +18401,14 @@
       "onboard_time": 1768712299,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 78673,
+      "num": 78673,
+      "word": "河北省肯定孙颖莎十四五期佳绩",
+      "onboard_time": 1769246061,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 78542,
@@ -18505,14 +18641,6 @@
       "onboard_time": 1769010861,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 76759,
-      "num": 76759,
-      "word": "电视剧拿错包的情节真发生了",
-      "onboard_time": 1769244082,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 76756,
@@ -18859,14 +18987,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 74780,
-      "num": 77784,
-      "word": "长得非常标准的东西",
-      "onboard_time": 1769243840,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 74732,
       "num": 74732,
       "word": "颁奖礼已经进化成这样了吗",
@@ -18931,6 +19051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 74187,
+      "num": 74187,
+      "word": "肖战的翻唱又一次带火了老歌",
+      "onboard_time": 1769244562,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 74051,
       "num": 215782,
       "word": "陈星旭 晚安某只装睡的兔子",
@@ -18960,6 +19088,14 @@
       "word": "谷爱凌我自己翻译自己",
       "onboard_time": 1768717700,
       "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 73687,
+      "num": 73687,
+      "word": "金博洋说坚持需要很大勇气",
+      "onboard_time": 1769245821,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -22467,6 +22603,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 23974,
+      "num": 113750,
+      "word": "鳌太线好爬是互联网最大幻觉",
+      "onboard_time": 1769245702,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23789,
       "num": 126640,
       "word": "火锅店回应饲养企鹅鲨鱼",
@@ -22641,6 +22785,14 @@
       "onboard_time": 1768901719,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21666,
+      "num": 123485,
+      "word": "infp里来了只喵娲娲",
+      "onboard_time": 1769245521,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 21657,
