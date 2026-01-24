@@ -1,6 +1,6 @@
 {
   "startTime": 1769186467234,
-  "endTime": 1769251546071,
+  "endTime": 1769253908358,
   "band_list": [
     {
       "raw_hot": 7888209,
@@ -17,6 +17,14 @@
       "onboard_time": 1769226080,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1775880,
+      "num": 229890,
+      "word": "大三男生涉嫌强奸强制侮辱大一女友",
+      "onboard_time": 1769250741,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1219011,
@@ -59,14 +67,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 719053,
-      "num": 169527,
-      "word": "大三男生涉嫌强奸强制侮辱大一女友",
-      "onboard_time": 1769250741,
-      "rank": 10,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 710331,
       "num": 710331,
       "word": "刘强东章泽天手牵手出席达沃斯年会",
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 652089,
-      "num": 126816,
+      "num": 202321,
       "word": "angelababy直发烟熏妆造型",
       "onboard_time": 1769247321,
       "rank": 24,
@@ -144,6 +144,14 @@
       "word": "夫妻同进ICU怀疑网购的蔬菜",
       "onboard_time": 1769220138,
       "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 520698,
+      "num": 1083311,
+      "word": "被5岁儿子强忍恐惧施救妈妈发声",
+      "onboard_time": 1769251040,
+      "rank": 15,
       "category": "民生新闻"
     },
     {
@@ -291,12 +299,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 341962,
+      "num": 791732,
+      "word": "亚洲杯",
+      "onboard_time": 1769250080,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 340016,
-      "num": 125592,
+      "num": 198520,
       "word": "时代少年团直播",
       "onboard_time": 1769249602,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 339415,
+      "num": 244378,
+      "word": "结一次婚大概需要多少钱",
+      "onboard_time": 1769248582,
+      "rank": 7,
+      "category": "情感"
     },
     {
       "raw_hot": 339319,
@@ -372,7 +396,7 @@
     },
     {
       "raw_hot": 300220,
-      "num": 205507,
+      "num": 219456,
       "word": "iPhone Air官方价格暴跌2000元",
       "onboard_time": 1769237000,
       "rank": 12,
@@ -411,6 +435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 280415,
+      "num": 280415,
+      "word": "无限暖暖",
+      "onboard_time": 1769252840,
+      "rank": 3,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 275987,
       "num": 271689,
       "word": "眼睛小戴大直径美瞳的后果",
@@ -425,6 +457,14 @@
       "onboard_time": 1769221700,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 269702,
+      "num": 225012,
+      "word": "EXO退场像AI一样诡异的消失了",
+      "onboard_time": 1769251101,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 268201,
@@ -460,7 +500,7 @@
     },
     {
       "raw_hot": 257812,
-      "num": 179030,
+      "num": 212224,
       "word": "沈腾 什么是伸出圆手",
       "onboard_time": 1769246360,
       "rank": 22,
@@ -497,6 +537,14 @@
       "onboard_time": 1769229319,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 246139,
+      "num": 246139,
+      "word": "美国退群加州进群",
+      "onboard_time": 1769251522,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 242171,
@@ -553,14 +601,6 @@
       "onboard_time": 1769224400,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 228552,
-      "num": 212091,
-      "word": "结一次婚大概需要多少钱",
-      "onboard_time": 1769248582,
-      "rank": 7,
-      "category": "情感"
     },
     {
       "raw_hot": 225215,
@@ -627,6 +667,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 198256,
+      "num": 198256,
+      "word": "第一批爱熬夜的受害者出现了",
+      "onboard_time": 1769250080,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 197852,
       "num": 247373,
       "word": "买钻戒送银杯如今身价被反超",
@@ -683,12 +731,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 189017,
-      "num": 189017,
-      "word": "EXO退场像AI一样诡异的消失了",
-      "onboard_time": 1769251101,
-      "rank": 7,
-      "category": "综艺"
+      "raw_hot": 190260,
+      "num": 190260,
+      "word": "左航睡着了",
+      "onboard_time": 1769253442,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 188191,
@@ -764,19 +812,11 @@
     },
     {
       "raw_hot": 170170,
-      "num": 170170,
+      "num": 212676,
       "word": "刘浩存马年春晚彩排",
       "onboard_time": 1769247321,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 169616,
-      "num": 169616,
-      "word": "亚洲杯",
-      "onboard_time": 1769250080,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 168001,
@@ -883,6 +923,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 152317,
+      "num": 137466,
+      "word": "白鹿疲惫漂亮菠萝妹妹",
+      "onboard_time": 1769252660,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 150332,
       "num": 150332,
       "word": "不建议个人用SIM卡提炼黄金",
@@ -907,14 +955,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 147475,
-      "num": 124958,
-      "word": "第一批爱熬夜的受害者出现了",
-      "onboard_time": 1769250080,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 146783,
       "num": 112460,
       "word": "网红办杀猪宴和村民产生纠纷",
@@ -931,19 +971,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 145392,
+      "num": 145392,
+      "word": "iPhone17官方电池充电建议",
+      "onboard_time": 1769252180,
+      "rank": 25,
+      "category": "数码"
+    },
+    {
       "raw_hot": 145076,
       "num": 145076,
       "word": "广州一家三口住桥洞靠拾荒为生",
       "onboard_time": 1769180721,
       "rank": 17,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 143194,
-      "num": 143194,
-      "word": "被5岁儿子强忍恐惧施救妈妈发声",
-      "onboard_time": 1769251040,
-      "rank": 15,
       "category": "民生新闻"
     },
     {
@@ -1043,6 +1083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 135051,
+      "num": 222846,
+      "word": "长大了揣两万才敢进肯德基",
+      "onboard_time": 1769251761,
+      "rank": 13,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 135001,
       "num": 127311,
       "word": "不知道 寂静岭的护士很曼妙",
@@ -1107,11 +1155,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 128733,
+      "num": 104741,
+      "word": "九尾收到长生转账",
+      "onboard_time": 1769253681,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 128644,
       "num": 128644,
       "word": "专家确诊刘耀文对颜值超在意",
       "onboard_time": 1769231540,
       "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 128121,
+      "num": 128121,
+      "word": "黄小蕾成内娱真夫妻的电灯泡了",
+      "onboard_time": 1769251700,
+      "rank": 27,
       "category": "综艺"
     },
     {
@@ -1153,6 +1217,22 @@
       "onboard_time": 1769217500,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 122235,
+      "num": 215406,
+      "word": "范志毅谈U23国足对战日本队",
+      "onboard_time": 1769251761,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 122162,
+      "num": 122162,
+      "word": "丈夫回应妻子洗手洗进医院",
+      "onboard_time": 1769251821,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 121853,
@@ -1395,6 +1475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 105088,
+      "num": 105088,
+      "word": "林诗栋黄友政男双夺冠",
+      "onboard_time": 1769253442,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 104322,
       "num": 104322,
       "word": "范志毅谈U23制胜关键点",
@@ -1553,6 +1641,14 @@
       "onboard_time": 1769247921,
       "rank": 35,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 97357,
+      "num": 97357,
+      "word": "AI预测U23国足决赛胜率",
+      "onboard_time": 1769252121,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 96829,
@@ -1915,6 +2011,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 85109,
+      "num": 103074,
+      "word": "U23国足迎战卫冕冠军日本",
+      "onboard_time": 1769252540,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 84836,
       "num": 84836,
       "word": "白鹿沈月互动",
@@ -2091,6 +2195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 80292,
+      "num": 80292,
+      "word": "云初令",
+      "onboard_time": 1769253800,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 79975,
       "num": 195607,
       "word": "邓琳琳老公是射箭世界冠军",
@@ -2179,6 +2291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 77594,
+      "num": 77594,
+      "word": "美国男子购买等比例兵马俑发现撞脸",
+      "onboard_time": 1769253140,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 77495,
       "num": 77495,
       "word": "助理吃黄誉博做的饭吐了",
@@ -2193,6 +2313,22 @@
       "onboard_time": 1769226380,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 76932,
+      "num": 76802,
+      "word": "马嘉祺 居家男友",
+      "onboard_time": 1769253861,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 76869,
+      "num": 76869,
+      "word": "TES对战AL",
+      "onboard_time": 1769253561,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 76498,
@@ -2313,14 +2449,6 @@
       "onboard_time": 1769184140,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 71149,
-      "num": 116049,
-      "word": "美国退群加州进群",
-      "onboard_time": 1769251522,
-      "rank": 35,
-      "category": "国际时政"
     },
     {
       "raw_hot": 70703,
@@ -2491,6 +2619,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 55685,
+      "num": 204535,
+      "word": "北方最该买的新能源",
+      "onboard_time": 1769251222,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 54066,
       "num": 78152,
       "word": "碧血蝉",
@@ -2635,14 +2771,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 38689,
-      "num": 128936,
-      "word": "北方最该买的新能源",
-      "onboard_time": 1769251222,
-      "rank": 17,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 38586,
       "num": 104614,
       "word": "假期越长终末地越爽",
@@ -2681,6 +2809,14 @@
       "onboard_time": 1769178741,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 33980,
+      "num": 233765,
+      "word": "中国足球需要这样的夜晚",
+      "onboard_time": 1769253200,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 33103,
@@ -2992,6 +3128,14 @@
       "word": "精神中国人为什么火了",
       "onboard_time": 1769221700,
       "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 7407,
+      "num": 89263,
+      "word": "电子工牌解决的只有管理者的焦虑",
+      "onboard_time": 1769253742,
+      "rank": 36,
       "category": "民生新闻"
     },
     {

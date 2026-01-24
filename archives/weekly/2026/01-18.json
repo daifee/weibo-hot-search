@@ -1,6 +1,6 @@
 {
   "startTime": 1768667567906,
-  "endTime": 1769251546071,
+  "endTime": 1769253908358,
   "band_list": [
     {
       "raw_hot": 9430476,
@@ -112,6 +112,14 @@
       "word": "肯德基崩了",
       "onboard_time": 1769079320,
       "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1775880,
+      "num": 229890,
+      "word": "大三男生涉嫌强奸强制侮辱大一女友",
+      "onboard_time": 1769250741,
+      "rank": 10,
       "category": "民生新闻"
     },
     {
@@ -915,14 +923,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 719053,
-      "num": 169527,
-      "word": "大三男生涉嫌强奸强制侮辱大一女友",
-      "onboard_time": 1769250741,
-      "rank": 10,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 710331,
       "num": 710331,
       "word": "刘强东章泽天手牵手出席达沃斯年会",
@@ -1156,7 +1156,7 @@
     },
     {
       "raw_hot": 652089,
-      "num": 126816,
+      "num": 202321,
       "word": "angelababy直发烟熏妆造型",
       "onboard_time": 1769247321,
       "rank": 24,
@@ -1880,6 +1880,14 @@
       "word": "26岁工程师家里熟睡中猝死",
       "onboard_time": 1769175561,
       "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 520698,
+      "num": 1083311,
+      "word": "被5岁儿子强忍恐惧施救妈妈发声",
+      "onboard_time": 1769251040,
+      "rank": 15,
       "category": "民生新闻"
     },
     {
@@ -3555,6 +3563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 341962,
+      "num": 791732,
+      "word": "亚洲杯",
+      "onboard_time": 1768951037,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 341585,
       "num": 223843,
       "word": "邓超 我能签鹿晗的签名照吗",
@@ -3572,7 +3588,7 @@
     },
     {
       "raw_hot": 340016,
-      "num": 125592,
+      "num": 198520,
       "word": "时代少年团直播",
       "onboard_time": 1769249602,
       "rank": 21,
@@ -3585,6 +3601,14 @@
       "onboard_time": 1769178203,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 339415,
+      "num": 244378,
+      "word": "结一次婚大概需要多少钱",
+      "onboard_time": 1769248582,
+      "rank": 7,
+      "category": "情感"
     },
     {
       "raw_hot": 339279,
@@ -4116,7 +4140,7 @@
     },
     {
       "raw_hot": 300220,
-      "num": 205507,
+      "num": 219456,
       "word": "iPhone Air官方价格暴跌2000元",
       "onboard_time": 1769237000,
       "rank": 12,
@@ -4739,6 +4763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 269702,
+      "num": 225012,
+      "word": "EXO退场像AI一样诡异的消失了",
+      "onboard_time": 1769251101,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 269167,
       "num": 178208,
       "word": "哥哥回应失踪13年女硕士现状",
@@ -4948,7 +4980,7 @@
     },
     {
       "raw_hot": 257812,
-      "num": 179030,
+      "num": 212224,
       "word": "沈腾 什么是伸出圆手",
       "onboard_time": 1769246360,
       "rank": 22,
@@ -5185,6 +5217,14 @@
       "onboard_time": 1769229319,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 246139,
+      "num": 246139,
+      "word": "美国退群加州进群",
+      "onboard_time": 1769251522,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 246085,
@@ -5569,14 +5609,6 @@
       "onboard_time": 1768784419,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 228552,
-      "num": 212091,
-      "word": "结一次婚大概需要多少钱",
-      "onboard_time": 1769248582,
-      "rank": 7,
-      "category": "情感"
     },
     {
       "raw_hot": 228384,
@@ -6579,6 +6611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 198256,
+      "num": 198256,
+      "word": "第一批爱熬夜的受害者出现了",
+      "onboard_time": 1769250080,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 198045,
       "num": 198045,
       "word": "脑综史上最窒息45分钟",
@@ -6963,6 +7003,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 190260,
+      "num": 190260,
+      "word": "左航睡着了",
+      "onboard_time": 1769253442,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 189741,
       "num": 878292,
       "word": "北京为何这次雪花这么大",
@@ -7001,14 +7049,6 @@
       "onboard_time": 1768973361,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 189017,
-      "num": 189017,
-      "word": "EXO退场像AI一样诡异的消失了",
-      "onboard_time": 1769251101,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 188956,
@@ -7820,7 +7860,7 @@
     },
     {
       "raw_hot": 170170,
-      "num": 170170,
+      "num": 212676,
       "word": "刘浩存马年春晚彩排",
       "onboard_time": 1769247321,
       "rank": 34,
@@ -7857,14 +7897,6 @@
       "onboard_time": 1768824201,
       "rank": 28,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 169616,
-      "num": 169616,
-      "word": "亚洲杯",
-      "onboard_time": 1768951037,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 169601,
@@ -8723,6 +8755,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 152317,
+      "num": 137466,
+      "word": "白鹿疲惫漂亮菠萝妹妹",
+      "onboard_time": 1769252660,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 152060,
       "num": 146884,
       "word": "财务看演唱会通病",
@@ -9035,14 +9075,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 147475,
-      "num": 124958,
-      "word": "第一批爱熬夜的受害者出现了",
-      "onboard_time": 1769250080,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 147371,
       "num": 91405,
       "word": "向华强说娱乐圈明星美女他看不上眼",
@@ -9203,6 +9235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145392,
+      "num": 145392,
+      "word": "iPhone17官方电池充电建议",
+      "onboard_time": 1769252180,
+      "rank": 25,
+      "category": "数码"
+    },
+    {
       "raw_hot": 145355,
       "num": 145355,
       "word": "章昊 爽文也不爽啊",
@@ -9337,14 +9377,6 @@
       "onboard_time": 1769172921,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 143194,
-      "num": 143194,
-      "word": "被5岁儿子强忍恐惧施救妈妈发声",
-      "onboard_time": 1769251040,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 143002,
@@ -9889,6 +9921,14 @@
       "onboard_time": 1768831523,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 135051,
+      "num": 222846,
+      "word": "长大了揣两万才敢进肯德基",
+      "onboard_time": 1769251761,
+      "rank": 13,
+      "category": "幽默"
     },
     {
       "raw_hot": 135045,
@@ -10467,6 +10507,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 128733,
+      "num": 104741,
+      "word": "九尾收到长生转账",
+      "onboard_time": 1769253681,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 128717,
       "num": 128717,
       "word": "浙江人均存款超17万元",
@@ -10497,6 +10545,14 @@
       "onboard_time": 1769080160,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 128121,
+      "num": 128121,
+      "word": "黄小蕾成内娱真夫妻的电灯泡了",
+      "onboard_time": 1769251700,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 128012,
@@ -11057,6 +11113,22 @@
       "onboard_time": 1769038157,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 122235,
+      "num": 215406,
+      "word": "范志毅谈U23国足对战日本队",
+      "onboard_time": 1769251761,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 122162,
+      "num": 122162,
+      "word": "丈夫回应妻子洗手洗进医院",
+      "onboard_time": 1769251821,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 122089,
@@ -13251,6 +13323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 105088,
+      "num": 105088,
+      "word": "林诗栋黄友政男双夺冠",
+      "onboard_time": 1769253442,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 105078,
       "num": 105078,
       "word": "王源不爱吃辣白菜",
@@ -14625,6 +14705,14 @@
       "onboard_time": 1768977560,
       "rank": 36,
       "category": "财经"
+    },
+    {
+      "raw_hot": 97357,
+      "num": 97357,
+      "word": "AI预测U23国足决赛胜率",
+      "onboard_time": 1769252121,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 97293,
@@ -17323,6 +17411,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 85109,
+      "num": 103074,
+      "word": "U23国足迎战卫冕冠军日本",
+      "onboard_time": 1769252540,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 85035,
       "num": 85711,
       "word": "肖战严知度戏里戏外反差太好哭",
@@ -18731,6 +18827,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 77594,
+      "num": 77594,
+      "word": "美国男子购买等比例兵马俑发现撞脸",
+      "onboard_time": 1769253140,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 77578,
       "num": 77578,
       "word": "博主称美国朋友4月失业失联后去世",
@@ -18825,6 +18929,22 @@
       "onboard_time": 1768836500,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 76932,
+      "num": 76802,
+      "word": "马嘉祺 居家男友",
+      "onboard_time": 1769253861,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 76869,
+      "num": 76869,
+      "word": "TES对战AL",
+      "onboard_time": 1769253561,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 76861,
@@ -19577,14 +19697,6 @@
       "onboard_time": 1768823780,
       "rank": 48,
       "category": "数码"
-    },
-    {
-      "raw_hot": 71149,
-      "num": 116049,
-      "word": "美国退群加州进群",
-      "onboard_time": 1769251522,
-      "rank": 35,
-      "category": "国际时政"
     },
     {
       "raw_hot": 71074,
@@ -20827,6 +20939,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 55685,
+      "num": 204535,
+      "word": "北方最该买的新能源",
+      "onboard_time": 1769251222,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 55680,
       "num": 55680,
       "word": "马克龙炮轰美国",
@@ -21883,14 +22003,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 38689,
-      "num": 128936,
-      "word": "北方最该买的新能源",
-      "onboard_time": 1769251222,
-      "rank": 17,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 38663,
       "num": 152783,
       "word": "老板回应要顾客带走垃圾被怼格局小",
@@ -22177,6 +22289,14 @@
       "onboard_time": 1769140821,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33980,
+      "num": 233765,
+      "word": "中国足球需要这样的夜晚",
+      "onboard_time": 1769253200,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 33886,
@@ -23928,6 +24048,14 @@
       "word": "多品牌儿童洞洞鞋化学物质超标",
       "onboard_time": 1768914201,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 7407,
+      "num": 89263,
+      "word": "电子工牌解决的只有管理者的焦虑",
+      "onboard_time": 1769253742,
+      "rank": 36,
       "category": "民生新闻"
     },
     {

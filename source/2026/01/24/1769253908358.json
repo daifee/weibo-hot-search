@@ -1,0 +1,410 @@
+{
+  "runTime": 1769253908358,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 520698,
+        "num": 1083311,
+        "word": "被5岁儿子强忍恐惧施救妈妈发声",
+        "onboard_time": 1769251040,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 341962,
+        "num": 791732,
+        "word": "亚洲杯",
+        "onboard_time": 1769250080,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 3430,
+        "num": 649930,
+        "word": "冰雪春天",
+        "onboard_time": 1769142382,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 280415,
+        "num": 280415,
+        "word": "无限暖暖",
+        "onboard_time": 1769252840,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 246139,
+        "num": 246139,
+        "word": "美国退群加州进群",
+        "onboard_time": 1769251522,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 339415,
+        "num": 244378,
+        "word": "结一次婚大概需要多少钱",
+        "onboard_time": 1769248582,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1481460,
+        "num": 242037,
+        "word": "张又侠刘振立被立案调查",
+        "onboard_time": 1769238981,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 148731,
+        "num": 238908,
+        "word": "U23亚洲杯国足赛前喊话太燃了",
+        "onboard_time": 1769245281,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145469,
+        "num": 236944,
+        "word": "女子在胖东来花100多万买金条",
+        "onboard_time": 1769242582,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33980,
+        "num": 233765,
+        "word": "中国足球需要这样的夜晚",
+        "onboard_time": 1769253200,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1775880,
+        "num": 229890,
+        "word": "大三男生涉嫌强奸强制侮辱大一女友",
+        "onboard_time": 1769250741,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 291976,
+        "num": 227667,
+        "word": "两个消失的顶流歌手都回归了",
+        "onboard_time": 1769242282,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 269702,
+        "num": 225012,
+        "word": "EXO退场像AI一样诡异的消失了",
+        "onboard_time": 1769251101,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135051,
+        "num": 222846,
+        "word": "长大了揣两万才敢进肯德基",
+        "onboard_time": 1769251761,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131337,
+        "num": 219456,
+        "word": "iPhone Air官方价格暴跌2000元",
+        "onboard_time": 1769237000,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 122235,
+        "num": 215406,
+        "word": "范志毅谈U23国足对战日本队",
+        "onboard_time": 1769251761,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117694,
+        "num": 212676,
+        "word": "刘浩存马年春晚彩排",
+        "onboard_time": 1769247321,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107370,
+        "num": 212224,
+        "word": "沈腾 什么是伸出圆手",
+        "onboard_time": 1769246360,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 105420,
+        "num": 209025,
+        "word": "猫 真有那么臭吗",
+        "onboard_time": 1769236101,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 55685,
+        "num": 204535,
+        "word": "北方最该买的新能源",
+        "onboard_time": 1769251222,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 448203,
+        "num": 202321,
+        "word": "angelababy直发烟熏妆造型",
+        "onboard_time": 1769247321,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 319518,
+        "num": 198520,
+        "word": "时代少年团直播",
+        "onboard_time": 1769249602,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198256,
+        "num": 198256,
+        "word": "第一批爱熬夜的受害者出现了",
+        "onboard_time": 1769250080,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 190260,
+        "num": 190260,
+        "word": "左航睡着了",
+        "onboard_time": 1769253442,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165834,
+        "num": 165834,
+        "word": "车银优或被判刑",
+        "onboard_time": 1769230579,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145392,
+        "num": 145392,
+        "word": "iPhone17官方电池充电建议",
+        "onboard_time": 1769252180,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 152317,
+        "num": 137466,
+        "word": "白鹿疲惫漂亮菠萝妹妹",
+        "onboard_time": 1769252660,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128121,
+        "num": 128121,
+        "word": "黄小蕾成内娱真夫妻的电灯泡了",
+        "onboard_time": 1769251700,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122162,
+        "num": 122162,
+        "word": "丈夫回应妻子洗手洗进医院",
+        "onboard_time": 1769251821,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27583,
+        "num": 108299,
+        "word": "今晚来咪咕为U23国足加加油",
+        "onboard_time": 1769251222,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105088,
+        "num": 105088,
+        "word": "林诗栋黄友政男双夺冠",
+        "onboard_time": 1769253442,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128733,
+        "num": 104741,
+        "word": "九尾收到长生转账",
+        "onboard_time": 1769253681,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 85109,
+        "num": 103074,
+        "word": "U23国足迎战卫冕冠军日本",
+        "onboard_time": 1769252540,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102940,
+        "num": 102940,
+        "word": "近看张凌赫远看宋威龙",
+        "onboard_time": 1769243063,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99958,
+        "num": 99958,
+        "word": "专家称日本想打的不是一般小仗",
+        "onboard_time": 1769239640,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 97357,
+        "num": 97357,
+        "word": "AI预测U23国足决赛胜率",
+        "onboard_time": 1769252121,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 7407,
+        "num": 89263,
+        "word": "电子工牌解决的只有管理者的焦虑",
+        "onboard_time": 1769253742,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83246,
+        "num": 83246,
+        "word": "时代峰峻严正声明",
+        "onboard_time": 1769238919,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80440,
+        "num": 80440,
+        "word": "云南三只小象遭虐待已求助三年",
+        "onboard_time": 1769237840,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80292,
+        "num": 80292,
+        "word": "云初令",
+        "onboard_time": 1769253800,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 79381,
+        "num": 79381,
+        "word": "白鹿说自己身体大不如之前了",
+        "onboard_time": 1769238621,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78305,
+        "num": 78305,
+        "word": "U23",
+        "onboard_time": 1769250741,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 79288,
+        "num": 78002,
+        "word": "卢昱晓10个月瘦了一大圈",
+        "onboard_time": 1769232440,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77594,
+        "num": 77594,
+        "word": "美国男子购买等比例兵马俑发现撞脸",
+        "onboard_time": 1769253140,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 75192,
+        "num": 77228,
+        "word": "喵娲娲连送五天微博之夜门票",
+        "onboard_time": 1769246600,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 77170,
+        "num": 77170,
+        "word": "以为是山没想到是她的裙子",
+        "onboard_time": 1769240000,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 76869,
+        "num": 76869,
+        "word": "TES对战AL",
+        "onboard_time": 1769253561,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 76932,
+        "num": 76802,
+        "word": "马嘉祺 居家男友",
+        "onboard_time": 1769253861,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76469,
+        "num": 76469,
+        "word": "国足",
+        "onboard_time": 1769245101,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 76096,
+        "num": 76096,
+        "word": "怕堵车可以拿一只口红在手里",
+        "onboard_time": 1769250500,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#科技赋能冰雪经济#"
+    }
+  }
+}
