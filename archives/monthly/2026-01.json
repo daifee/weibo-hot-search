@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769259319061,
+  "endTime": 1769260157466,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -2620,7 +2620,7 @@
     },
     {
       "raw_hot": 782520,
-      "num": 188698,
+      "num": 214768,
       "word": "陈建斌曝李亚鹏晚上睡觉没有被子",
       "onboard_time": 1769254281,
       "rank": 23,
@@ -4131,6 +4131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 618221,
+      "num": 206086,
+      "word": "Angelababy26年首套高定造型",
+      "onboard_time": 1769258361,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 616135,
       "num": 204448,
       "word": "杨幂穿Prada的女王",
@@ -5345,6 +5353,14 @@
       "onboard_time": 1768973962,
       "rank": 16,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 548672,
+      "num": 1087787,
+      "word": "亚洲杯",
+      "onboard_time": 1768951037,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 548609,
@@ -7563,14 +7579,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 460339,
-      "num": 1073654,
-      "word": "亚洲杯",
-      "onboard_time": 1768951037,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 460124,
       "num": 245422,
       "word": "唐嫣扛住了死亡芭比粉",
@@ -9700,7 +9708,7 @@
     },
     {
       "raw_hot": 394909,
-      "num": 190260,
+      "num": 202570,
       "word": "左航睡着了",
       "onboard_time": 1769253442,
       "rank": 23,
@@ -12211,6 +12219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 332366,
+      "num": 297786,
+      "word": "被雪豹咬伤女子已从急诊转出",
+      "onboard_time": 1769254822,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 332128,
       "num": 332128,
       "word": "郑钦文退出澳网",
@@ -14019,14 +14035,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 297786,
-      "num": 297786,
-      "word": "被雪豹咬伤女子已从急诊转出",
-      "onboard_time": 1769254822,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 297541,
       "num": 321200,
       "word": "深圳坪山突发山火",
@@ -14689,14 +14697,6 @@
       "onboard_time": 1767229520,
       "rank": 4,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 285382,
-      "num": 179315,
-      "word": "Angelababy26年首套高定造型",
-      "onboard_time": 1769258361,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 284795,
@@ -19051,6 +19051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 225057,
+      "num": 161582,
+      "word": "女生滑雪时摔倒手链断得满雪场都是",
+      "onboard_time": 1769257401,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 224922,
       "num": 160309,
       "word": "曝成毅和欢瑞解约后片酬翻了一倍",
@@ -20787,14 +20795,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 207647,
-      "num": 146380,
-      "word": "女生滑雪时摔倒手链断得满雪场都是",
-      "onboard_time": 1769257401,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 207555,
       "num": 218493,
       "word": "格陵兰岛各政党领导人发表联合声明",
@@ -21169,6 +21169,14 @@
       "onboard_time": 1768542022,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 205030,
+      "num": 117534,
+      "word": "美国网友提问9000万遗体去向",
+      "onboard_time": 1769258782,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 204859,
@@ -24627,6 +24635,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 183831,
+      "num": 183831,
+      "word": "邢菲出道十年后首档常驻综艺",
+      "onboard_time": 1769255781,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 183815,
       "num": 183815,
       "word": "史上最牛毕业设计",
@@ -27107,14 +27123,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 167933,
-      "num": 167933,
-      "word": "邢菲出道十年后首档常驻综艺",
-      "onboard_time": 1769255781,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 167844,
       "num": 167844,
       "word": "王俊凯中传映后感言",
@@ -28496,6 +28504,14 @@
       "word": "只有有洁癖的人才懂维嘉的含金量",
       "onboard_time": 1768801282,
       "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 160856,
+      "num": 160856,
+      "word": "宋妍霏0度穿短袖冻到脸通红",
+      "onboard_time": 1769259082,
+      "rank": 35,
       "category": "艺人"
     },
     {
@@ -31489,14 +31505,6 @@
       "onboard_time": 1767423145,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 147109,
-      "num": 103640,
-      "word": "美国网友提问9000万遗体去向",
-      "onboard_time": 1769258782,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 147027,
@@ -36011,6 +36019,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 130861,
+      "num": 130861,
+      "word": "国防科大教授周末晚在教室磨课",
+      "onboard_time": 1769256620,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
       "raw_hot": 130850,
       "num": 130850,
       "word": "内娱女打星赛道上新了",
@@ -37657,6 +37673,14 @@
       "onboard_time": 1767676881,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 126080,
+      "num": 126080,
+      "word": "真正的粉丝就是认出你也会保持距离",
+      "onboard_time": 1769259441,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 126061,
@@ -40043,14 +40067,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 119711,
-      "num": 119711,
-      "word": "国防科大教授周末晚在教室磨课",
-      "onboard_time": 1769256620,
-      "rank": 24,
-      "category": "教育"
-    },
-    {
       "raw_hot": 119699,
       "num": 102705,
       "word": "步惊云 洗牌都是半夜洗",
@@ -41907,6 +41923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 115142,
+      "num": 115142,
+      "word": "导演说彭昱畅哭的很漂亮",
+      "onboard_time": 1769259441,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 115123,
       "num": 115123,
       "word": "23岁女孩疑因被逼婚喝农药轻生",
@@ -43012,7 +43036,7 @@
     },
     {
       "raw_hot": 112753,
-      "num": 103302,
+      "num": 109137,
       "word": "网剧炽热吸引",
       "onboard_time": 1769256501,
       "rank": 31,
@@ -48859,6 +48883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 100623,
+      "num": 100623,
+      "word": "突然的喜欢 拒绝月经羞耻",
+      "onboard_time": 1769257341,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 100616,
       "num": 206760,
       "word": "u23国足决赛加油",
@@ -49153,6 +49185,14 @@
       "onboard_time": 1768728741,
       "rank": 37,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 100227,
+      "num": 100227,
+      "word": "62岁张曼玉晒退休生活",
+      "onboard_time": 1769258541,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 100220,
@@ -52257,6 +52297,14 @@
       "onboard_time": 1768898721,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 95243,
+      "num": 109985,
+      "word": "平台已下架涉事娃娃菜商家商品",
+      "onboard_time": 1769258721,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 95230,
@@ -55499,14 +55547,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 90193,
-      "num": 90193,
-      "word": "宋妍霏0度穿短袖冻到脸通红",
-      "onboard_time": 1769259082,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 90191,
       "num": 90191,
       "word": "上海打雷",
@@ -55769,14 +55809,6 @@
       "onboard_time": 1767766821,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 89745,
-      "num": 89745,
-      "word": "62岁张曼玉晒退休生活",
-      "onboard_time": 1769258541,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 89726,
@@ -56513,6 +56545,14 @@
       "onboard_time": 1768606397,
       "rank": 17,
       "category": "情感"
+    },
+    {
+      "raw_hot": 88443,
+      "num": 100360,
+      "word": "EDG对阵TYL",
+      "onboard_time": 1769259801,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 88436,
@@ -60691,14 +60731,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 82170,
-      "num": 82170,
-      "word": "突然的喜欢 拒绝月经羞耻",
-      "onboard_time": 1769257341,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 82167,
       "num": 82167,
       "word": "银价狂飙",
@@ -60753,6 +60785,14 @@
       "onboard_time": 1767337580,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 82049,
+      "num": 81226,
+      "word": "终于有电影科普男性HPV了",
+      "onboard_time": 1769260040,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 82045,
@@ -61113,6 +61153,14 @@
       "onboard_time": 1767955940,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 81425,
+      "num": 81425,
+      "word": "5招帮大脑找回元气",
+      "onboard_time": 1769259921,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 81409,
@@ -64137,6 +64185,14 @@
       "onboard_time": 1767592222,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 75374,
+      "num": 75374,
+      "word": "人和人之间是一场骤雨",
+      "onboard_time": 1769259681,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 75355,
@@ -69312,14 +69368,6 @@
       "word": "金粒门致歉",
       "onboard_time": 1768303702,
       "rank": 36,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 59249,
-      "num": 89764,
-      "word": "平台已下架涉事娃娃菜商家商品",
-      "onboard_time": 1769258721,
-      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -76523,6 +76571,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 28362,
+      "num": 163244,
+      "word": "没有美国App在丹麦火了",
+      "onboard_time": 1769259384,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 28358,
       "num": 233155,
       "word": "暖阳时隔五年再获FMVP",
@@ -79315,6 +79371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 17524,
+      "num": 97914,
+      "word": "花3000买净水器4个半月就爆炸",
+      "onboard_time": 1769259321,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 17518,
       "num": 227519,
       "word": "老人看到过世7年老伴照片嚎啕大哭",
@@ -79409,6 +79473,14 @@
       "onboard_time": 1768845018,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 17070,
+      "num": 651096,
+      "word": "太空月季回来了",
+      "onboard_time": 1769259621,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17042,

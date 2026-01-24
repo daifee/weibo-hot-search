@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/24 20:55:19
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/24 21:09:17
 </p>
 </blockquote>
 <p>
@@ -3111,6 +3111,12 @@ iPhone18Pro渲染视频曝光（热度：621333）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23Angelababy26%E5%B9%B4%E9%A6%96%E5%A5%97%E9%AB%98%E5%AE%9A%E9%80%A0%E5%9E%8B%23" target="weibo">
+Angelababy26年首套高定造型（热度：618221）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E7%A9%BFPrada%E7%9A%84%E5%A5%B3%E7%8E%8B%23" target="weibo">
 杨幂穿Prada的女王（热度：616135）
 </a>
@@ -4019,6 +4025,12 @@ Sakee Asen（热度：556725）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%8A%E5%BD%BB%E4%B9%9F%E5%93%A5%E5%93%A5%E8%87%AA%E6%9D%80%E5%90%8E%E8%90%8C%E7%94%9F%E6%8A%A5%E5%A4%8D%E5%BF%B5%E5%A4%B4%23" target="weibo">
 山上彻也哥哥自杀后萌生报复念头（热度：549397）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%9A%E6%B4%B2%E6%9D%AF%23" target="weibo">
+亚洲杯（热度：548672）
 </a>
 </li>
 
@@ -5685,12 +5697,6 @@ iPhone千万别删的自带软件（热度：474519）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%9A%E6%B4%B2%E6%9D%AF%23" target="weibo">
-亚洲杯（热度：460339）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E5%AB%A3%E6%89%9B%E4%BD%8F%E4%BA%86%E6%AD%BB%E4%BA%A1%E8%8A%AD%E6%AF%94%E7%B2%89%23" target="weibo">
 唐嫣扛住了死亡芭比粉（热度：460124）
 </a>
@@ -6005,12 +6011,6 @@ VOGUE发了王橹杰穆祉丞（热度：459240）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B3%8C%E5%A4%AA%E7%BA%BF%E5%A4%B1%E8%81%944%E4%BA%BA1%E4%BA%BA%E8%8E%B7%E6%95%912%E6%AD%BB1%E5%9D%A0%E5%B4%96%23" target="weibo">
 鳌太线失联4人1人获救2死1坠崖（热度：448150）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%9F%AD%E5%89%A7%E7%89%88%E7%B4%AB%E8%90%B1%23" target="weibo">
-短剧版紫萱（热度：447918）
 </a>
 </li>
 
