@@ -1,6 +1,6 @@
 {
   "startTime": 1769186467234,
-  "endTime": 1769243770203,
+  "endTime": 1769244574514,
   "band_list": [
     {
       "raw_hot": 7888209,
@@ -91,6 +91,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 538679,
+      "num": 279403,
+      "word": "沈梦辰科普奢侈品尾单货都是假的",
+      "onboard_time": 1769239280,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 534446,
       "num": 1085511,
       "word": "QQ秀宣布回归",
@@ -105,6 +113,14 @@
       "onboard_time": 1769220138,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 517368,
+      "num": 1438984,
+      "word": "两个消失的顶流歌手都回归了",
+      "onboard_time": 1769242282,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 516466,
@@ -129,22 +145,6 @@
       "onboard_time": 1769237661,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 449459,
-      "num": 1409590,
-      "word": "两个消失的顶流歌手都回归了",
-      "onboard_time": 1769242282,
-      "rank": 1,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 447687,
-      "num": 279403,
-      "word": "沈梦辰科普奢侈品尾单货都是假的",
-      "onboard_time": 1769239280,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 447616,
@@ -435,12 +435,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 245494,
+      "num": 171920,
+      "word": "近看张凌赫远看宋威龙",
+      "onboard_time": 1769243063,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 242171,
       "num": 242171,
       "word": "王鹤棣曝范丞丞放节目组鸽子",
       "onboard_time": 1769233879,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 241230,
+      "num": 241230,
+      "word": "专家称日本想打的不是一般小仗",
+      "onboard_time": 1769239640,
+      "rank": 7,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 239611,
+      "num": 239611,
+      "word": "女子在胖东来花100多万买金条",
+      "onboard_time": 1769242582,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 238788,
@@ -451,20 +475,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 236647,
+      "num": 199229,
+      "word": "时代峰峻严正声明",
+      "onboard_time": 1769238919,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 233446,
       "num": 145306,
       "word": "26岁工程师家里熟睡中猝死",
       "onboard_time": 1769175561,
       "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 231310,
-      "num": 199229,
-      "word": "时代峰峻严正声明",
-      "onboard_time": 1769238919,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 231232,
@@ -481,14 +505,6 @@
       "onboard_time": 1769213959,
       "rank": 10,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 223243,
-      "num": 234286,
-      "word": "专家称日本想打的不是一般小仗",
-      "onboard_time": 1769239640,
-      "rank": 7,
-      "category": "国际时政"
     },
     {
       "raw_hot": 220063,
@@ -643,12 +659,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 171920,
-      "num": 171920,
-      "word": "近看张凌赫远看宋威龙",
-      "onboard_time": 1769243063,
-      "rank": 15,
-      "category": "艺人"
+      "raw_hot": 171563,
+      "num": 184215,
+      "word": "原来毛衣起球刷刷就好了",
+      "onboard_time": 1769241201,
+      "rank": 8,
+      "category": "休闲"
     },
     {
       "raw_hot": 168001,
@@ -673,6 +689,14 @@
       "onboard_time": 1769227580,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 165018,
+      "num": 165018,
+      "word": "林孝埈给中国短道的礼物",
+      "onboard_time": 1769243242,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 162855,
@@ -715,27 +739,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 155775,
-      "num": 184215,
-      "word": "原来毛衣起球刷刷就好了",
-      "onboard_time": 1769241201,
-      "rank": 8,
-      "category": "休闲"
-    },
-    {
       "raw_hot": 155369,
       "num": 129715,
       "word": "岳父代理女婿与女儿打离婚官司",
       "onboard_time": 1769180721,
       "rank": 44,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 155290,
-      "num": 182473,
-      "word": "女子在胖东来花100多万买金条",
-      "onboard_time": 1769242582,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -779,8 +787,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 144090,
-      "num": 119120,
+      "raw_hot": 144544,
+      "num": 140682,
       "word": "杨幂12年后的退休计划",
       "onboard_time": 1769242701,
       "rank": 24,
@@ -793,6 +801,14 @@
       "onboard_time": 1769225421,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 142636,
+      "num": 115916,
+      "word": "医生确诊黄子韬亲密关系中很粘人",
+      "onboard_time": 1769241561,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 142280,
@@ -819,6 +835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 141511,
+      "num": 141511,
+      "word": "21岁白血病女大学生疑似生父出现",
+      "onboard_time": 1769240901,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 140113,
       "num": 107169,
       "word": "邱莹莹制服小包总",
@@ -833,14 +857,6 @@
       "onboard_time": 1769174900,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 138784,
-      "num": 115916,
-      "word": "医生确诊黄子韬亲密关系中很粘人",
-      "onboard_time": 1769241561,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 138148,
@@ -896,14 +912,6 @@
       "word": "成人英语网络性感教学引争议",
       "onboard_time": 1769182224,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 132333,
-      "num": 132333,
-      "word": "21岁白血病女大学生疑似生父出现",
-      "onboard_time": 1769240901,
-      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -1171,12 +1179,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 103251,
-      "num": 103251,
-      "word": "林孝埈给中国短道的礼物",
-      "onboard_time": 1769243242,
-      "rank": 31,
-      "category": "体育"
+      "raw_hot": 103668,
+      "num": 103668,
+      "word": "年轻人喜欢点外卖的原因",
+      "onboard_time": 1769244321,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 102902,
@@ -1185,6 +1193,14 @@
       "onboard_time": 1769241802,
       "rank": 32,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 102201,
+      "num": 95181,
+      "word": "曾舜晞长得baby穿得daddy",
+      "onboard_time": 1769243902,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 102055,
@@ -1467,6 +1483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 87637,
+      "num": 87637,
+      "word": "网红办杀猪宴和村民产生纠纷",
+      "onboard_time": 1769244142,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87383,
       "num": 87383,
       "word": "家里装了两个厨房",
@@ -1529,6 +1553,14 @@
       "onboard_time": 1769224878,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 86220,
+      "num": 86220,
+      "word": "出门旅游摔到后脑勺失忆了",
+      "onboard_time": 1769244501,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 85813,
@@ -1641,6 +1673,14 @@
       "onboard_time": 1769226861,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 82814,
+      "num": 82814,
+      "word": "发现熬夜的人都有这几个优点",
+      "onboard_time": 1769242521,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 82743,
@@ -1763,6 +1803,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 77666,
+      "num": 77666,
+      "word": "官方回应无锡一施工地挖到7000年遗址",
+      "onboard_time": 1769244321,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77495,
       "num": 77495,
       "word": "助理吃黄誉博做的饭吐了",
@@ -1777,6 +1825,14 @@
       "onboard_time": 1769226380,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 76759,
+      "num": 76759,
+      "word": "电视剧拿错包的情节真发生了",
+      "onboard_time": 1769244082,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 76498,
@@ -1803,6 +1859,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 75464,
+      "num": 75464,
+      "word": "U23亚洲杯射手榜",
+      "onboard_time": 1769244441,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 75355,
       "num": 82676,
       "word": "雪豹咬人是人兽相处界限带血警告",
@@ -1817,6 +1881,14 @@
       "onboard_time": 1769233340,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 74780,
+      "num": 77784,
+      "word": "长得非常标准的东西",
+      "onboard_time": 1769243840,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 73562,
@@ -1995,6 +2067,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 58905,
+      "num": 128581,
+      "word": "贵州山体滑坡19人死亡失踪调查报告",
+      "onboard_time": 1769243302,
+      "rank": 19,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 58846,
       "num": 78198,
       "word": "韩国最大在野党党首张东赫绝食8天",
@@ -2097,14 +2177,6 @@
       "onboard_time": 1769173582,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 45358,
-      "num": 128581,
-      "word": "贵州山体滑坡19人死亡失踪调查报告",
-      "onboard_time": 1769243302,
-      "rank": 19,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 43150,
@@ -2363,6 +2435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 18916,
+      "num": 92538,
+      "word": "3万买到大理石店家说是自身好赌",
+      "onboard_time": 1769243423,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18810,
       "num": 78406,
       "word": "5名00后赶到杭州赏雪被冻在山上",
@@ -2401,6 +2481,14 @@
       "onboard_time": 1769196435,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 15341,
+      "num": 78883,
+      "word": "年轻人为何爱上菜市场",
+      "onboard_time": 1769244501,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15077,
@@ -2443,14 +2531,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 11705,
-      "num": 92538,
-      "word": "3万买到大理石店家说是自身好赌",
-      "onboard_time": 1769243423,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 5734,
       "num": 1151755,
       "word": "我国船舶工业提质扩容领跑全球",
@@ -2460,7 +2540,7 @@
     },
     {
       "raw_hot": 4550,
-      "num": 635461,
+      "num": 1141828,
       "word": "冰雪春天",
       "onboard_time": 1769142382,
       "rank": 2,

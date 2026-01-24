@@ -1,0 +1,410 @@
+{
+  "runTime": 1769244574514,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5771874,
+        "num": 5771874,
+        "word": "张又侠刘振立被立案调查",
+        "onboard_time": 1769238981,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 517368,
+        "num": 1438984,
+        "word": "两个消失的顶流歌手都回归了",
+        "onboard_time": 1769242282,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2601,
+        "num": 1141828,
+        "word": "冰雪春天",
+        "onboard_time": 1769142382,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 251942,
+        "num": 251942,
+        "word": "以为是山没想到是她的裙子",
+        "onboard_time": 1769240000,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 241230,
+        "num": 241230,
+        "word": "专家称日本想打的不是一般小仗",
+        "onboard_time": 1769239640,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 411679,
+        "num": 240864,
+        "word": "事业单位出纳6年贪4289万公款",
+        "onboard_time": 1769237661,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 239611,
+        "num": 239611,
+        "word": "女子在胖东来花100多万买金条",
+        "onboard_time": 1769242582,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171563,
+        "num": 171563,
+        "word": "原来毛衣起球刷刷就好了",
+        "onboard_time": 1769241201,
+        "rank": 7,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 165018,
+        "num": 165018,
+        "word": "林孝埈给中国短道的礼物",
+        "onboard_time": 1769243242,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163349,
+        "num": 163349,
+        "word": "猫 真有那么臭吗",
+        "onboard_time": 1769236101,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 538679,
+        "num": 161834,
+        "word": "沈梦辰科普奢侈品尾单货都是假的",
+        "onboard_time": 1769239280,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245494,
+        "num": 157987,
+        "word": "近看张凌赫远看宋威龙",
+        "onboard_time": 1769243063,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215077,
+        "num": 152474,
+        "word": "iPhone Air官方价格暴跌2000元",
+        "onboard_time": 1769237000,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 236647,
+        "num": 145890,
+        "word": "时代峰峻严正声明",
+        "onboard_time": 1769238919,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176831,
+        "num": 145793,
+        "word": "叶一茜森碟簪花照",
+        "onboard_time": 1769239040,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141511,
+        "num": 141511,
+        "word": "21岁白血病女大学生疑似生父出现",
+        "onboard_time": 1769240901,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153350,
+        "num": 141214,
+        "word": "总裁当店长卖9千送5千",
+        "onboard_time": 1769242641,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144544,
+        "num": 140682,
+        "word": "杨幂12年后的退休计划",
+        "onboard_time": 1769242701,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137621,
+        "num": 137621,
+        "word": "云南三只小象遭虐待已求助三年",
+        "onboard_time": 1769237840,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109676,
+        "num": 109676,
+        "word": "无锡一工程因挖到7000年遗址延期",
+        "onboard_time": 1769241983,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 298109,
+        "num": 109140,
+        "word": "车银优或被判刑",
+        "onboard_time": 1769230579,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202190,
+        "num": 108369,
+        "word": "卢昱晓10个月瘦了一大圈",
+        "onboard_time": 1769232440,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122595,
+        "num": 107489,
+        "word": "谷爱凌说美国已经有代表了",
+        "onboard_time": 1769231240,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 58905,
+        "num": 105729,
+        "word": "贵州山体滑坡19人死亡失踪调查报告",
+        "onboard_time": 1769243302,
+        "rank": 23,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 142636,
+        "num": 105027,
+        "word": "医生确诊黄子韬亲密关系中很粘人",
+        "onboard_time": 1769241561,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139177,
+        "num": 104212,
+        "word": "佘诗曼公布遗嘱细节",
+        "onboard_time": 1769232860,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103668,
+        "num": 103668,
+        "word": "年轻人喜欢点外卖的原因",
+        "onboard_time": 1769244321,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138981,
+        "num": 100976,
+        "word": "黄景瑜已开始接受相关训练",
+        "onboard_time": 1769232800,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117680,
+        "num": 98313,
+        "word": "白鹿说自己身体大不如之前了",
+        "onboard_time": 1769238621,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95267,
+        "num": 95267,
+        "word": "女子为治病卖劳力士账户被冻结",
+        "onboard_time": 1769235860,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113769,
+        "num": 95252,
+        "word": "车银优或被封杀",
+        "onboard_time": 1769239040,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102201,
+        "num": 95181,
+        "word": "曾舜晞长得baby穿得daddy",
+        "onboard_time": 1769243902,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89353,
+        "num": 95112,
+        "word": "长生本月即将进入沉睡",
+        "onboard_time": 1769243121,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 95097,
+        "num": 95097,
+        "word": "Angelababy好久没录综艺了",
+        "onboard_time": 1769232740,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89552,
+        "num": 89552,
+        "word": "刘耀文找妈妈这段",
+        "onboard_time": 1769243182,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87637,
+        "num": 87637,
+        "word": "网红办杀猪宴和村民产生纠纷",
+        "onboard_time": 1769244142,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88198,
+        "num": 87461,
+        "word": "卢凌风你的大唐完了",
+        "onboard_time": 1769231481,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86220,
+        "num": 86220,
+        "word": "出门旅游摔到后脑勺失忆了",
+        "onboard_time": 1769244501,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 85531,
+        "num": 85531,
+        "word": "女孩确诊白血病才发现自己非亲生",
+        "onboard_time": 1769233759,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18916,
+        "num": 83432,
+        "word": "3万买到大理石店家说是自身好赌",
+        "onboard_time": 1769243423,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82814,
+        "num": 82814,
+        "word": "发现熬夜的人都有这几个优点",
+        "onboard_time": 1769242521,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 79172,
+        "num": 79172,
+        "word": "网购金戒指一年多就变色生锈",
+        "onboard_time": 1769242042,
+        "rank": 41,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 15341,
+        "num": 78883,
+        "word": "年轻人为何爱上菜市场",
+        "onboard_time": 1769244501,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78875,
+        "num": 78875,
+        "word": "美国数十万人严寒中高喊ICE滚蛋",
+        "onboard_time": 1769240781,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 74780,
+        "num": 77784,
+        "word": "长得非常标准的东西",
+        "onboard_time": 1769243840,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 77666,
+        "num": 77666,
+        "word": "官方回应无锡一施工地挖到7000年遗址",
+        "onboard_time": 1769244321,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77495,
+        "num": 77495,
+        "word": "金博洋回应短节目第五",
+        "onboard_time": 1769243423,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 76879,
+        "num": 76879,
+        "word": "00后真的是各过各的",
+        "onboard_time": 1769224878,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 76759,
+        "num": 76759,
+        "word": "电视剧拿错包的情节真发生了",
+        "onboard_time": 1769244082,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75464,
+        "num": 75464,
+        "word": "U23亚洲杯射手榜",
+        "onboard_time": 1769244441,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#科技赋能冰雪经济#"
+    }
+  }
+}

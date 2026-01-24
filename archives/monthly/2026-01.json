@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769243770203,
+  "endTime": 1769244574514,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -5475,6 +5475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 538679,
+      "num": 279403,
+      "word": "沈梦辰科普奢侈品尾单货都是假的",
+      "onboard_time": 1769239280,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 538152,
       "num": 199884,
       "word": "徐佳莹 我要再生一个",
@@ -6033,6 +6041,14 @@
       "onboard_time": 1768727301,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 517368,
+      "num": 1438984,
+      "word": "两个消失的顶流歌手都回归了",
+      "onboard_time": 1769242282,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 517269,
@@ -7883,14 +7899,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 449459,
-      "num": 1409590,
-      "word": "两个消失的顶流歌手都回归了",
-      "onboard_time": 1769242282,
-      "rank": 1,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 449226,
       "num": 449226,
       "word": "鳌太线",
@@ -7953,14 +7961,6 @@
       "onboard_time": 1768707678,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 447687,
-      "num": 279403,
-      "word": "沈梦辰科普奢侈品尾单货都是假的",
-      "onboard_time": 1769239280,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 447616,
@@ -17355,6 +17355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 245494,
+      "num": 171920,
+      "word": "近看张凌赫远看宋威龙",
+      "onboard_time": 1769243063,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 245492,
       "num": 230489,
       "word": "不要在车里放小玩偶了",
@@ -17627,6 +17635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 241230,
+      "num": 241230,
+      "word": "专家称日本想打的不是一般小仗",
+      "onboard_time": 1769239640,
+      "rank": 7,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 241078,
       "num": 176521,
       "word": "死了么APP征名奖励666元",
@@ -17721,6 +17737,14 @@
       "onboard_time": 1767445765,
       "rank": 8,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 239611,
+      "num": 239611,
+      "word": "女子在胖东来花100多万买金条",
+      "onboard_time": 1769242582,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 239607,
@@ -17865,6 +17889,14 @@
       "onboard_time": 1768020680,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 236647,
+      "num": 199229,
+      "word": "时代峰峻严正声明",
+      "onboard_time": 1769238919,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 236574,
@@ -18281,14 +18313,6 @@
       "onboard_time": 1768042041,
       "rank": 6,
       "category": "美食"
-    },
-    {
-      "raw_hot": 231310,
-      "num": 199229,
-      "word": "时代峰峻严正声明",
-      "onboard_time": 1769238919,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 231305,
@@ -18969,14 +18993,6 @@
       "onboard_time": 1768472241,
       "rank": 17,
       "category": "民生新闻,互联网"
-    },
-    {
-      "raw_hot": 223243,
-      "num": 234286,
-      "word": "专家称日本想打的不是一般小仗",
-      "onboard_time": 1769239640,
-      "rank": 7,
-      "category": "国际时政"
     },
     {
       "raw_hot": 223101,
@@ -26243,14 +26259,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 171920,
-      "num": 171920,
-      "word": "近看张凌赫远看宋威龙",
-      "onboard_time": 1769243063,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 171886,
       "num": 251640,
       "word": "清融直播",
@@ -26305,6 +26313,14 @@
       "onboard_time": 1768663163,
       "rank": 22,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 171563,
+      "num": 184215,
+      "word": "原来毛衣起球刷刷就好了",
+      "onboard_time": 1769241201,
+      "rank": 8,
+      "category": "休闲"
     },
     {
       "raw_hot": 171544,
@@ -27505,6 +27521,14 @@
       "onboard_time": 1767767901,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 165018,
+      "num": 165018,
+      "word": "林孝埈给中国短道的礼物",
+      "onboard_time": 1769243242,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 164968,
@@ -29371,14 +29395,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 155775,
-      "num": 184215,
-      "word": "原来毛衣起球刷刷就好了",
-      "onboard_time": 1769241201,
-      "rank": 8,
-      "category": "休闲"
-    },
-    {
       "raw_hot": 155752,
       "num": 155752,
       "word": "章若楠 自拍界来了个天才",
@@ -29465,14 +29481,6 @@
       "onboard_time": 1768779379,
       "rank": 28,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 155290,
-      "num": 182473,
-      "word": "女子在胖东来花100多万买金条",
-      "onboard_time": 1769242582,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 155018,
@@ -31915,6 +31923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 144544,
+      "num": 140682,
+      "word": "杨幂12年后的退休计划",
+      "onboard_time": 1769242701,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 144522,
       "num": 451374,
       "word": "星穹铁道火花",
@@ -31993,14 +32009,6 @@
       "onboard_time": 1769127500,
       "rank": 13,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 144090,
-      "num": 119120,
-      "word": "杨幂12年后的退休计划",
-      "onboard_time": 1769242701,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 144059,
@@ -32331,6 +32339,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 142636,
+      "num": 115916,
+      "word": "医生确诊黄子韬亲密关系中很粘人",
+      "onboard_time": 1769241561,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 142566,
       "num": 142566,
       "word": "范丞丞长发",
@@ -32641,6 +32657,14 @@
       "onboard_time": 1768887261,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 141511,
+      "num": 141511,
+      "word": "21岁白血病女大学生疑似生父出现",
+      "onboard_time": 1769240901,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 141486,
@@ -33473,14 +33497,6 @@
       "onboard_time": 1767439645,
       "rank": 31,
       "category": "演出"
-    },
-    {
-      "raw_hot": 138784,
-      "num": 115916,
-      "word": "医生确诊黄子韬亲密关系中很粘人",
-      "onboard_time": 1769241561,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 138730,
@@ -35321,14 +35337,6 @@
       "onboard_time": 1767949881,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 132333,
-      "num": 132333,
-      "word": "21岁白血病女大学生疑似生父出现",
-      "onboard_time": 1769240901,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 132328,
@@ -46779,6 +46787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 103668,
+      "num": 103668,
+      "word": "年轻人喜欢点外卖的原因",
+      "onboard_time": 1769244321,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 103665,
       "num": 97044,
       "word": "网友喊话章泽天对话刘强东",
@@ -47081,14 +47097,6 @@
       "onboard_time": 1768145900,
       "rank": 29,
       "category": "情感,民生新闻"
-    },
-    {
-      "raw_hot": 103251,
-      "num": 103251,
-      "word": "林孝埈给中国短道的礼物",
-      "onboard_time": 1769243242,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 103234,
@@ -47537,6 +47545,14 @@
       "onboard_time": 1768282161,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102201,
+      "num": 95181,
+      "word": "曾舜晞长得baby穿得daddy",
+      "onboard_time": 1769243902,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 102176,
@@ -56507,6 +56523,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 87637,
+      "num": 87637,
+      "word": "网红办杀猪宴和村民产生纠纷",
+      "onboard_time": 1769244142,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87635,
       "num": 87635,
       "word": "深圳的烧烤已经进化成这样了吗",
@@ -57649,6 +57673,14 @@
       "onboard_time": 1769046741,
       "rank": 39,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 86220,
+      "num": 86220,
+      "word": "出门旅游摔到后脑勺失忆了",
+      "onboard_time": 1769244501,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 86219,
@@ -59641,6 +59673,14 @@
       "onboard_time": 1768119980,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 82814,
+      "num": 82814,
+      "word": "发现熬夜的人都有这几个优点",
+      "onboard_time": 1769242521,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 82777,
@@ -62499,6 +62539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 77666,
+      "num": 77666,
+      "word": "官方回应无锡一施工地挖到7000年遗址",
+      "onboard_time": 1769244321,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77618,
       "num": 95640,
       "word": "胡连馨以后上综艺你就长点心吧",
@@ -62889,6 +62937,14 @@
       "onboard_time": 1769010861,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 76759,
+      "num": 76759,
+      "word": "电视剧拿错包的情节真发生了",
+      "onboard_time": 1769244082,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 76756,
@@ -63411,6 +63467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 75464,
+      "num": 75464,
+      "word": "U23亚洲杯射手榜",
+      "onboard_time": 1769244441,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 75462,
       "num": 972135,
       "word": "王者中阵亡次数最多的英雄",
@@ -63753,6 +63817,14 @@
       "onboard_time": 1768553480,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 74780,
+      "num": 77784,
+      "word": "长得非常标准的东西",
+      "onboard_time": 1769243840,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 74778,
@@ -68715,6 +68787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 58905,
+      "num": 128581,
+      "word": "贵州山体滑坡19人死亡失踪调查报告",
+      "onboard_time": 1769243302,
+      "rank": 19,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 58834,
       "num": 79927,
       "word": "肯德基客服也崩了",
@@ -71609,14 +71689,6 @@
       "onboard_time": 1768065858,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 45358,
-      "num": 128581,
-      "word": "贵州山体滑坡19人死亡失踪调查报告",
-      "onboard_time": 1769243302,
-      "rank": 19,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 45248,
@@ -78259,6 +78331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 18916,
+      "num": 92538,
+      "word": "3万买到大理石店家说是自身好赌",
+      "onboard_time": 1769243423,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18907,
       "num": 24611,
       "word": "冯建宇新歌chemical",
@@ -78716,7 +78796,7 @@
     },
     {
       "raw_hot": 16100,
-      "num": 761241,
+      "num": 1141828,
       "word": "冰雪春天",
       "onboard_time": 1769142382,
       "rank": 2,
@@ -78857,6 +78937,14 @@
       "onboard_time": 1767383715,
       "rank": 46,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 15341,
+      "num": 78883,
+      "word": "年轻人为何爱上菜市场",
+      "onboard_time": 1769244501,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15312,
@@ -79360,14 +79448,6 @@
       "word": "尔滨的风吹到东南亚了",
       "onboard_time": 1768201641,
       "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 11705,
-      "num": 92538,
-      "word": "3万买到大理石店家说是自身好赌",
-      "onboard_time": 1769243423,
-      "rank": 39,
       "category": "民生新闻"
     },
     {
