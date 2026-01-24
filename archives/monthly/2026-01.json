@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769275548508,
+  "endTime": 1769276543361,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -15371,6 +15371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 278025,
+      "num": 278025,
+      "word": "国足 2030世界杯",
+      "onboard_time": 1769274860,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 278021,
       "num": 207890,
       "word": "花少导游穆穆和张晚意聚餐了",
@@ -27347,14 +27355,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 168355,
-      "num": 168355,
-      "word": "国足 2030世界杯",
-      "onboard_time": 1769274860,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 168309,
       "num": 168309,
       "word": "刘宇宁欧阳娣娣欧阳娜娜画像",
@@ -30065,6 +30065,14 @@
       "onboard_time": 1767406048,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 154992,
+      "num": 156219,
+      "word": "李昊无缘最佳门将",
+      "onboard_time": 1769275578,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 154957,
@@ -53939,6 +53947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 93492,
+      "num": 93492,
+      "word": "国足进步了",
+      "onboard_time": 1769274800,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 93480,
       "num": 93480,
       "word": "张含韵分享减肥心得",
@@ -58945,14 +58961,6 @@
       "onboard_time": 1767703042,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 86123,
-      "num": 86123,
-      "word": "国足进步了",
-      "onboard_time": 1769274800,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 86115,
@@ -69059,6 +69067,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 63251,
+      "num": 63251,
+      "word": "继续陪中国足球走下去",
+      "onboard_time": 1769275877,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 63221,
       "num": 251683,
       "word": "唐仁健生日成收割老板的盛会",
@@ -70617,6 +70633,14 @@
       "onboard_time": 1769146461,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 57256,
+      "num": 67053,
+      "word": "詹俊解说",
+      "onboard_time": 1769275099,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 57229,
@@ -73571,14 +73595,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 43479,
-      "num": 67053,
-      "word": "詹俊解说",
-      "onboard_time": 1769275099,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 43448,
       "num": 91074,
       "word": "U23国足成本届唯一0丢球球队",
@@ -75091,6 +75107,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 37772,
+      "num": 58357,
+      "word": "丁程鑫既过了嘴瘾又过了手瘾",
+      "onboard_time": 1769275698,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 37638,
       "num": 768169,
       "word": "还有不到30天过年",
@@ -76449,6 +76473,14 @@
       "onboard_time": 1769188038,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 31828,
+      "num": 58337,
+      "word": "警方回应郑州一26岁女子失联",
+      "onboard_time": 1769276178,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 31820,
@@ -80547,6 +80579,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 15557,
+      "num": 1464542,
+      "word": "奋进中国",
+      "onboard_time": 1769258901,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 15537,
       "num": 36913,
       "word": "村委回应呆呆家杀猪宴最后一天",
@@ -80561,14 +80601,6 @@
       "onboard_time": 1767552375,
       "rank": 47,
       "category": "演出"
-    },
-    {
-      "raw_hot": 15511,
-      "num": 1464542,
-      "word": "奋进中国",
-      "onboard_time": 1769258901,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 15488,
