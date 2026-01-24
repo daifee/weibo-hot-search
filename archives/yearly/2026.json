@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769232584183,
+  "endTime": 1769233522300,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -891,6 +891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1219011,
+      "num": 193687,
+      "word": "车银优或被判刑",
+      "onboard_time": 1769230579,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1215104,
       "num": 313426,
       "word": "妻子曾多次九十点催程序员丈夫下班",
@@ -913,14 +921,6 @@
       "onboard_time": 1767420926,
       "rank": 30,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1206047,
-      "num": 125689,
-      "word": "车银优或被判刑",
-      "onboard_time": 1769230579,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 1203665,

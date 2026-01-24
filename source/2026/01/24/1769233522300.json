@@ -1,0 +1,410 @@
+{
+  "runTime": 1769233522300,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 406390,
+        "num": 1065022,
+        "word": "白宫晒特朗普格陵兰牵企鹅照翻车",
+        "onboard_time": 1769223379,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 243837,
+        "num": 788675,
+        "word": "卢凌风你的大唐完了",
+        "onboard_time": 1769231481,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32102,
+        "num": 637456,
+        "word": "中国专利的含金量满满",
+        "onboard_time": 1769226619,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 403943,
+        "num": 403943,
+        "word": "白鹿说这是自己最后一部打戏了",
+        "onboard_time": 1769229862,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150572,
+        "num": 326913,
+        "word": "QQ秀宣布回归",
+        "onboard_time": 1769223500,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 262778,
+        "num": 262778,
+        "word": "00后真的是各过各的",
+        "onboard_time": 1769224878,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 197852,
+        "num": 247373,
+        "word": "买钻戒送银杯如今身价被反超",
+        "onboard_time": 1769230579,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 234646,
+        "num": 234646,
+        "word": "夫妻同进ICU怀疑网购的蔬菜",
+        "onboard_time": 1769220138,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130688,
+        "num": 226940,
+        "word": "外卖发展成这样了",
+        "onboard_time": 1769223979,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 104205,
+        "num": 220869,
+        "word": "生命树央八定档",
+        "onboard_time": 1769224400,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1458609,
+        "num": 220433,
+        "word": "曝鹿晗商务归零",
+        "onboard_time": 1769226080,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219769,
+        "num": 219769,
+        "word": "猝死工程师月收入7000元左右",
+        "onboard_time": 1769229200,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 321451,
+        "num": 216384,
+        "word": "张杰送黄金",
+        "onboard_time": 1769228900,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 320711,
+        "num": 214430,
+        "word": "佘诗曼不婚原因",
+        "onboard_time": 1769229559,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122437,
+        "num": 209594,
+        "word": "今年的春晚我可能上不了了",
+        "onboard_time": 1769222480,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 311839,
+        "num": 204972,
+        "word": "TOP8小时直播",
+        "onboard_time": 1769231599,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200622,
+        "num": 200622,
+        "word": "黄景瑜已开始接受相关训练",
+        "onboard_time": 1769232800,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114023,
+        "num": 200253,
+        "word": "J人和P人吃外卖的差别",
+        "onboard_time": 1769224940,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 89052,
+        "num": 197445,
+        "word": "顾客在爱心面馆吃1碗存5碗",
+        "onboard_time": 1769232020,
+        "rank": 18,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 79975,
+        "num": 195607,
+        "word": "邓琳琳老公是射箭世界冠军",
+        "onboard_time": 1769231121,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1219011,
+        "num": 193687,
+        "word": "车银优或被判刑",
+        "onboard_time": 1769230579,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 347735,
+        "num": 192367,
+        "word": "卢昱晓10个月瘦了一大圈",
+        "onboard_time": 1769232440,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191455,
+        "num": 191455,
+        "word": "谷爱凌说美国已经有代表了",
+        "onboard_time": 1769231240,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118682,
+        "num": 181997,
+        "word": "时代少年团pick的至珍七虾堡回归",
+        "onboard_time": 1769231540,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91536,
+        "num": 173642,
+        "word": "爱与不爱真的很明显",
+        "onboard_time": 1769220798,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 365764,
+        "num": 162301,
+        "word": "D社曝车银优至少赚了1000亿韩元",
+        "onboard_time": 1769229739,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225299,
+        "num": 142124,
+        "word": "花儿与少年8",
+        "onboard_time": 1769217378,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141607,
+        "num": 141607,
+        "word": "白银彻底涨疯",
+        "onboard_time": 1769211557,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 134910,
+        "num": 134910,
+        "word": "佘诗曼公布遗嘱细节",
+        "onboard_time": 1769232860,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107714,
+        "num": 128673,
+        "word": "夫妻俩吃网购娃娃菜中毒全身出血",
+        "onboard_time": 1769226919,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233800,
+        "num": 127290,
+        "word": "梓渝工作室vlog",
+        "onboard_time": 1769230821,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125542,
+        "num": 125542,
+        "word": "女主大大方方男主羞羞答答",
+        "onboard_time": 1769229319,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117476,
+        "num": 117476,
+        "word": "原来草莓是控糖隐藏高手",
+        "onboard_time": 1769230579,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 123379,
+        "num": 117336,
+        "word": "Angelababy好久没录综艺了",
+        "onboard_time": 1769232740,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107190,
+        "num": 107190,
+        "word": "建议长期久坐的人这样吃饭",
+        "onboard_time": 1769229200,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 103197,
+        "num": 103197,
+        "word": "邱莹莹制服小包总",
+        "onboard_time": 1769231599,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93270,
+        "num": 93270,
+        "word": "贵金属都杀疯了",
+        "onboard_time": 1769232140,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 91408,
+        "num": 91408,
+        "word": "庞博的学历再一次得到证实",
+        "onboard_time": 1769227340,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89910,
+        "num": 89910,
+        "word": "重返寂静岭",
+        "onboard_time": 1769233040,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 50635,
+        "num": 88125,
+        "word": "乘客13分钟内2次开门杀",
+        "onboard_time": 1769232320,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87383,
+        "num": 87383,
+        "word": "家里装了两个厨房",
+        "onboard_time": 1769232500,
+        "rank": 40,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 87115,
+        "num": 87115,
+        "word": "王橹杰时代峰峻耐冻王",
+        "onboard_time": 1769233399,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84530,
+        "num": 84530,
+        "word": "106岁太姥爷与刚出生的重孙相见",
+        "onboard_time": 1769226021,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80384,
+        "num": 80384,
+        "word": "专家确诊刘耀文对颜值超在意",
+        "onboard_time": 1769231540,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 711,
+        "num": 79271,
+        "word": "冬日羽绒服fitcheck",
+        "onboard_time": 1769165241,
+        "rank": 44,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 78580,
+        "num": 78580,
+        "word": "人 咪会找到床的最中间睡觉",
+        "onboard_time": 1769229920,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 76774,
+        "num": 76774,
+        "word": "彩票一等奖1亿元封顶",
+        "onboard_time": 1769229621,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76156,
+        "num": 76156,
+        "word": "官方通报女子一次性拔12颗牙休克",
+        "onboard_time": 1769231779,
+        "rank": 47,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 252709,
+        "num": 75665,
+        "word": "蔡徐坤被鼓励 不说我走了是我出发了",
+        "onboard_time": 1769228659,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75132,
+        "num": 75132,
+        "word": "李现说摄影爱好者到香港像老鼠进米缸",
+        "onboard_time": 1769233340,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#赓续中华文脉谱写时代华章#"
+    }
+  }
+}
