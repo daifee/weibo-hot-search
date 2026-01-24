@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769279979690,
+  "endTime": 1769280813084,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -79435,6 +79435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 20845,
+      "num": 36092,
+      "word": "白鹿录制亲爱的客栈",
+      "onboard_time": 1769278695,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 20844,
       "num": 207784,
       "word": "趴地菠菜爆单大娘铲子抡冒烟了",
@@ -79521,14 +79529,6 @@
       "onboard_time": 1768382901,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 20647,
-      "num": 36092,
-      "word": "白鹿录制亲爱的客栈",
-      "onboard_time": 1769278695,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 20614,
