@@ -1,6 +1,6 @@
 {
   "startTime": 1769186467234,
-  "endTime": 1769264863747,
+  "endTime": 1769265855023,
   "band_list": [
     {
       "raw_hot": 7888209,
@@ -67,6 +67,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 783452,
+      "num": 1125352,
+      "word": "U23国足vs日本",
+      "onboard_time": 1769191934,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 782520,
       "num": 695954,
       "word": "陈建斌曝李亚鹏晚上睡觉没有被子",
@@ -113,6 +121,14 @@
       "onboard_time": 1769258361,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 669159,
+      "num": 669159,
+      "word": "U23国足vs日本U23首发",
+      "onboard_time": 1769263582,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 652089,
@@ -323,6 +339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 377905,
+      "num": 750147,
+      "word": "平台已下架涉事娃娃菜商家商品",
+      "onboard_time": 1769258721,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 376336,
       "num": 376336,
       "word": "新疆雪豹伤人事发画面曝光",
@@ -347,8 +371,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 358613,
-      "num": 358613,
+      "raw_hot": 361244,
+      "num": 361244,
       "word": "南京工业大学一黑天鹅被撞后死亡",
       "onboard_time": 1769263102,
       "rank": 3,
@@ -369,6 +393,14 @@
       "onboard_time": 1769252840,
       "rank": 3,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 350972,
+      "num": 208435,
+      "word": "张元英直播",
+      "onboard_time": 1769263582,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 344472,
@@ -451,14 +483,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 325592,
-      "num": 750147,
-      "word": "平台已下架涉事娃娃菜商家商品",
-      "onboard_time": 1769258721,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 318730,
       "num": 146799,
       "word": "黄景瑜上太空 王一博天塌了",
@@ -531,20 +555,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 290362,
+      "num": 290362,
+      "word": "女教师校内宿舍病亡两天后被发现",
+      "onboard_time": 1769264362,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 286193,
       "num": 788675,
       "word": "卢凌风你的大唐完了",
       "onboard_time": 1769231481,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 283969,
-      "num": 283969,
-      "word": "U23国足vs日本U23首发",
-      "onboard_time": 1769263582,
-      "rank": 6,
-      "category": "体育"
     },
     {
       "raw_hot": 279883,
@@ -603,6 +627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 260413,
+      "num": 260413,
+      "word": "薛凯琪春晚彩排戴了白云的帽子",
+      "onboard_time": 1769263102,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 259547,
       "num": 259547,
       "word": "女子戴透视隐形眼镜打麻将被抓",
@@ -635,12 +667,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 254086,
-      "num": 254086,
-      "word": "薛凯琪春晚彩排戴了白云的帽子",
-      "onboard_time": 1769263102,
-      "rank": 8,
-      "category": "综艺"
+      "raw_hot": 253576,
+      "num": 253576,
+      "word": "太平年 牵羊礼",
+      "onboard_time": 1769264063,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 252709,
@@ -665,14 +697,6 @@
       "onboard_time": 1769228900,
       "rank": 4,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 249794,
-      "num": 208435,
-      "word": "张元英直播",
-      "onboard_time": 1769263582,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 248059,
@@ -883,6 +907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 191908,
+      "num": 253202,
+      "word": "医院保洁扫地扫出40克金饰",
+      "onboard_time": 1769264121,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 191099,
       "num": 132740,
       "word": "女孩确诊白血病才发现自己非亲生",
@@ -979,14 +1011,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 173796,
-      "num": 500463,
-      "word": "U23国足vs日本",
-      "onboard_time": 1769191934,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 173159,
       "num": 297094,
       "word": "日本妄图把导弹瞄准中国军舰",
@@ -1009,6 +1033,22 @@
       "onboard_time": 1769251821,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 172203,
+      "num": 172203,
+      "word": "QQ飞车手游",
+      "onboard_time": 1769265682,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 170324,
+      "num": 170324,
+      "word": "WBG战胜JDG",
+      "onboard_time": 1769265203,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 170170,
@@ -1043,12 +1083,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 167503,
-      "num": 167503,
-      "word": "太平年 牵羊礼",
-      "onboard_time": 1769264063,
-      "rank": 31,
-      "category": "剧集"
+      "raw_hot": 166324,
+      "num": 166324,
+      "word": "霸总的我养你是养生的养",
+      "onboard_time": 1769265501,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 165665,
@@ -1251,6 +1291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 144662,
+      "num": 133442,
+      "word": "段艺璇 财阀家的小女儿",
+      "onboard_time": 1769264723,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 143002,
       "num": 123728,
       "word": "白鹿沈月秦岚你们仨聊什么呢",
@@ -1379,12 +1427,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 133546,
+      "num": 133546,
+      "word": "病亡女教师曾发文让花成花",
+      "onboard_time": 1769265203,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132994,
       "num": 132994,
       "word": "成人英语网络性感教学引争议",
       "onboard_time": 1769182224,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132617,
+      "num": 132617,
+      "word": "美国涉中俄战略出现重大转变",
+      "onboard_time": 1769265501,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 131726,
@@ -1425,6 +1489,14 @@
       "onboard_time": 1769256620,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 129559,
+      "num": 129559,
+      "word": "杀猪宴风波索要2000场地费老人发声",
+      "onboard_time": 1769262501,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128836,
@@ -1499,6 +1571,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125168,
+      "num": 125168,
+      "word": "狼队十二冠",
+      "onboard_time": 1769265263,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 123871,
+      "num": 123871,
+      "word": "CBA",
+      "onboard_time": 1769264782,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 123057,
       "num": 123057,
       "word": "遛狗起冲突女子在警局被对方死亡威胁",
@@ -1563,14 +1651,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 120299,
-      "num": 253202,
-      "word": "医院保洁扫地扫出40克金饰",
-      "onboard_time": 1769264121,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 120129,
       "num": 117457,
       "word": "突然的喜欢 拒绝月经羞耻",
@@ -1625,14 +1705,6 @@
       "onboard_time": 1769230579,
       "rank": 29,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 116468,
-      "num": 116468,
-      "word": "杀猪宴风波索要2000场地费老人发声",
-      "onboard_time": 1769262501,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 116297,
@@ -1795,6 +1867,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 110344,
+      "num": 110344,
+      "word": "太平年 五代十国",
+      "onboard_time": 1769265622,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 110154,
       "num": 119719,
       "word": "范志毅吐槽说唱歌手",
@@ -1897,6 +1977,14 @@
       "onboard_time": 1769244321,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 103362,
+      "num": 103362,
+      "word": "王心凌你裙子闪到我了",
+      "onboard_time": 1769265802,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 102922,
@@ -2161,14 +2249,6 @@
       "onboard_time": 1769182580,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 93862,
-      "num": 93862,
-      "word": "段艺璇 财阀家的小女儿",
-      "onboard_time": 1769264723,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 93684,
@@ -2472,14 +2552,6 @@
       "word": "U23国足迎战卫冕冠军日本",
       "onboard_time": 1769252540,
       "rank": 32,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 84940,
-      "num": 93632,
-      "word": "CBA",
-      "onboard_time": 1769264782,
-      "rank": 49,
       "category": "体育"
     },
     {
@@ -3171,6 +3243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 56993,
+      "num": 191069,
+      "word": "原来我们都有盖被基因",
+      "onboard_time": 1769265321,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 56007,
       "num": 56007,
       "word": "儿子打视频要钱女友现身父亲秒变脸",
@@ -3539,14 +3619,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 24647,
-      "num": 212598,
-      "word": "女教师校内宿舍病亡两天后被发现",
-      "onboard_time": 1769264362,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 24061,
       "num": 128975,
       "word": "期待U23国足今晚争冠",
@@ -3707,6 +3779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 17320,
+      "num": 128010,
+      "word": "AI霸总骗八旬老太花2000元买课",
+      "onboard_time": 1769265143,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 15747,
       "num": 22567,
       "word": "日本国会一开幕就解散众议院",
@@ -3768,6 +3848,14 @@
       "word": "精神中国人为什么火了",
       "onboard_time": 1769221700,
       "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11744,
+      "num": 183414,
+      "word": "出租车机场提前1小时计费收267元",
+      "onboard_time": 1769265562,
+      "rank": 24,
       "category": "民生新闻"
     },
     {
