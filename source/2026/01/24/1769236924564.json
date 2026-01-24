@@ -1,0 +1,410 @@
+{
+  "runTime": 1769236924564,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 281365,
+        "num": 1045018,
+        "word": "白宫晒特朗普格陵兰牵企鹅照翻车",
+        "onboard_time": 1769223379,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 102614,
+        "num": 783062,
+        "word": "女子为治病卖劳力士账户被冻结",
+        "onboard_time": 1769235860,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29439,
+        "num": 607939,
+        "word": "中国专利的含金量满满",
+        "onboard_time": 1769226619,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 364878,
+        "num": 364878,
+        "word": "新疆雪豹伤人事发画面曝光",
+        "onboard_time": 1769234481,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 286193,
+        "num": 286193,
+        "word": "卢凌风你的大唐完了",
+        "onboard_time": 1769231481,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 225105,
+        "num": 225105,
+        "word": "王鹤棣曝范丞丞放节目组鸽子",
+        "onboard_time": 1769233879,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185731,
+        "num": 185731,
+        "word": "00后真的是各过各的",
+        "onboard_time": 1769224878,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 214121,
+        "num": 178554,
+        "word": "白鹿说这是自己最后一部打戏了",
+        "onboard_time": 1769229862,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130086,
+        "num": 130086,
+        "word": "买钻戒送银杯如今身价被反超",
+        "onboard_time": 1769230579,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 24061,
+        "num": 128975,
+        "word": "期待U23国足今晚争冠",
+        "onboard_time": 1769235919,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 878214,
+        "num": 128041,
+        "word": "佘诗曼公布遗嘱细节",
+        "onboard_time": 1769232860,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 423596,
+        "num": 126208,
+        "word": "黄景瑜已开始接受相关训练",
+        "onboard_time": 1769232800,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148552,
+        "num": 123760,
+        "word": "爱与不爱真的很明显",
+        "onboard_time": 1769220798,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 123212,
+        "num": 123212,
+        "word": "外卖发展成这样了",
+        "onboard_time": 1769223979,
+        "rank": 13,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 268114,
+        "num": 121620,
+        "word": "Angelababy好久没录综艺了",
+        "onboard_time": 1769232740,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241480,
+        "num": 118955,
+        "word": "TOP8小时直播",
+        "onboard_time": 1769231599,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116243,
+        "num": 116243,
+        "word": "狼队处罚邹云辉",
+        "onboard_time": 1769235440,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 197665,
+        "num": 115786,
+        "word": "庾澄庆说有幸被肖战重新演绎",
+        "onboard_time": 1769234661,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115194,
+        "num": 115194,
+        "word": "抄近道回家带了一个车队",
+        "onboard_time": 1769236221,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 21176,
+        "num": 115112,
+        "word": "天冷请到抖音商城年货节加衣",
+        "onboard_time": 1769234601,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 636557,
+        "num": 114924,
+        "word": "车银优或被判刑",
+        "onboard_time": 1769230579,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 634377,
+        "num": 114661,
+        "word": "卢昱晓10个月瘦了一大圈",
+        "onboard_time": 1769232440,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220063,
+        "num": 114462,
+        "word": "谷爱凌说美国已经有代表了",
+        "onboard_time": 1769231240,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114241,
+        "num": 114241,
+        "word": "夫妻同进ICU怀疑网购的蔬菜",
+        "onboard_time": 1769220138,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191099,
+        "num": 112047,
+        "word": "女孩确诊白血病才发现自己非亲生",
+        "onboard_time": 1769233759,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171841,
+        "num": 108501,
+        "word": "D社曝车银优至少赚了1000亿韩元",
+        "onboard_time": 1769229739,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137139,
+        "num": 106653,
+        "word": "白银彻底涨疯",
+        "onboard_time": 1769211557,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 38586,
+        "num": 103365,
+        "word": "假期越长终末地越爽",
+        "onboard_time": 1769234661,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 132860,
+        "num": 99570,
+        "word": "花儿与少年8",
+        "onboard_time": 1769217378,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97264,
+        "num": 97264,
+        "word": "原来草莓是控糖隐藏高手",
+        "onboard_time": 1769230579,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 235610,
+        "num": 97209,
+        "word": "梓渝工作室vlog",
+        "onboard_time": 1769230821,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98242,
+        "num": 96652,
+        "word": "猫 真有那么臭吗",
+        "onboard_time": 1769236101,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 94598,
+        "num": 94598,
+        "word": "于洋把白鹿认成徐艺洋",
+        "onboard_time": 1769236338,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92931,
+        "num": 92931,
+        "word": "王心凌这段真没剧本吗",
+        "onboard_time": 1769233820,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 89732,
+        "num": 89732,
+        "word": "J人和P人吃外卖的差别",
+        "onboard_time": 1769224940,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 89369,
+        "num": 89369,
+        "word": "美国网友被白宫气笑了",
+        "onboard_time": 1769236520,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 87780,
+        "num": 87780,
+        "word": "叶童没想到乘风还有后续",
+        "onboard_time": 1769235200,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85530,
+        "num": 85530,
+        "word": "肖战刘宇宁檀健次北京卫视春晚彩排",
+        "onboard_time": 1769235740,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83854,
+        "num": 83854,
+        "word": "市民彻夜排队抢购黄金",
+        "onboard_time": 1769234899,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 83269,
+        "num": 83269,
+        "word": "这些都是抗炎饮食",
+        "onboard_time": 1769233639,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 82636,
+        "num": 82636,
+        "word": "顾客在爱心面馆吃1碗存5碗",
+        "onboard_time": 1769232020,
+        "rank": 40,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 79418,
+        "num": 79418,
+        "word": "建议长期久坐的人这样吃饭",
+        "onboard_time": 1769229200,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 77532,
+        "num": 77532,
+        "word": "QQ秀宣布回归",
+        "onboard_time": 1769223500,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 77495,
+        "num": 77495,
+        "word": "助理吃黄誉博做的饭吐了",
+        "onboard_time": 1769236700,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76498,
+        "num": 76498,
+        "word": "王嘉尔 怎么照顾它啊",
+        "onboard_time": 1769235980,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72758,
+        "num": 75669,
+        "word": "夫妻俩吃网购娃娃菜中毒全身出血",
+        "onboard_time": 1769226919,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75612,
+        "num": 75612,
+        "word": "佘诗曼不婚原因",
+        "onboard_time": 1769229559,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72825,
+        "num": 72825,
+        "word": "周雨彤新剧完全可爱来的",
+        "onboard_time": 1769236820,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68362,
+        "num": 68362,
+        "word": "正式被确诊为饺子型人格",
+        "onboard_time": 1769235679,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 70703,
+        "num": 68138,
+        "word": "春节档电影太顶了",
+        "onboard_time": 1769235260,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#赓续中华文脉谱写时代华章#"
+    }
+  }
+}
