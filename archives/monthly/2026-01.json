@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769273342374,
+  "endTime": 1769275548508,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -185,6 +185,14 @@
       "onboard_time": 1768654162,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2760241,
+      "num": 2760241,
+      "word": "U23国足亚军",
+      "onboard_time": 1769273663,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 2732817,
@@ -1481,6 +1489,14 @@
       "onboard_time": 1768654460,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1020803,
+      "num": 1020803,
+      "word": "拜合拉木上了",
+      "onboard_time": 1769272822,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 1016864,
@@ -4027,6 +4043,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 631249,
+      "num": 605445,
+      "word": "日本队6号",
+      "onboard_time": 1769270902,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 631040,
       "num": 1100966,
       "word": "中国男足等了整整22年",
@@ -4377,14 +4401,6 @@
       "onboard_time": 1767851720,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 605445,
-      "num": 605445,
-      "word": "日本队6号",
-      "onboard_time": 1769270902,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 604894,
@@ -5419,6 +5435,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 549766,
+      "num": 549766,
+      "word": "李昊 look my eyes",
+      "onboard_time": 1769273301,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 549404,
       "num": 1087904,
       "word": "留学生揭穿9层楼积雪骗局",
@@ -5449,14 +5473,6 @@
       "onboard_time": 1767579021,
       "rank": 13,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 547597,
-      "num": 547597,
-      "word": "拜合拉木上了",
-      "onboard_time": 1769272822,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 547088,
@@ -6681,6 +6697,14 @@
       "onboard_time": 1769152222,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 501628,
+      "num": 501628,
+      "word": "U23国足0比4日本队",
+      "onboard_time": 1769274381,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 501594,
@@ -18651,6 +18675,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 231771,
+      "num": 231771,
+      "word": "折射破门",
+      "onboard_time": 1769271862,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 231686,
       "num": 183319,
       "word": "偶遇贾玲张小斐崇礼滑雪",
@@ -21209,14 +21241,6 @@
       "onboard_time": 1768612880,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 206349,
-      "num": 206349,
-      "word": "折射破门",
-      "onboard_time": 1769271862,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 206236,
@@ -27323,6 +27347,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 168355,
+      "num": 168355,
+      "word": "国足 2030世界杯",
+      "onboard_time": 1769274860,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 168309,
       "num": 168309,
       "word": "刘宇宁欧阳娣娣欧阳娜娜画像",
@@ -32113,6 +32145,14 @@
       "onboard_time": 1767943159,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 146181,
+      "num": 146181,
+      "word": "中国足球",
+      "onboard_time": 1769274440,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 146172,
@@ -58907,6 +58947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 86123,
+      "num": 86123,
+      "word": "国足进步了",
+      "onboard_time": 1769274800,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 86115,
       "num": 86115,
       "word": "侯明昊代旭这段晋江味太浓了",
@@ -59432,6 +59480,14 @@
       "word": "樊振东16比14高茨",
       "onboard_time": 1768778779,
       "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 85419,
+      "num": 85419,
+      "word": "U23国足小伙子们配得上喝彩",
+      "onboard_time": 1769274501,
+      "rank": 25,
       "category": "体育"
     },
     {
@@ -60737,6 +60793,14 @@
       "onboard_time": 1769182100,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 83026,
+      "num": 73962,
+      "word": "国足U23亚洲杯亚军",
+      "onboard_time": 1769275218,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 83023,
@@ -64515,6 +64579,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 76091,
+      "num": 73487,
+      "word": "亚足联官方发布罚单",
+      "onboard_time": 1769270185,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 76056,
       "num": 1002780,
       "word": "奥迪销量重回燃油豪华车第一名",
@@ -65273,6 +65345,14 @@
       "onboard_time": 1768539801,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 74299,
+      "num": 74299,
+      "word": "U23国足已经创造历史",
+      "onboard_time": 1769274321,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 74294,
@@ -69403,14 +69483,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 61806,
-      "num": 120714,
-      "word": "李昊 look my eyes",
-      "onboard_time": 1769273301,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 61799,
       "num": 61799,
       "word": "U23国足出线形势",
@@ -72931,6 +73003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 46113,
+      "num": 67058,
+      "word": "U23国足对日本U23战绩2胜1负",
+      "onboard_time": 1769274679,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 46105,
       "num": 85049,
       "word": "医保个人账户跨省共济提速",
@@ -73489,6 +73569,14 @@
       "onboard_time": 1768387400,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 43479,
+      "num": 67053,
+      "word": "詹俊解说",
+      "onboard_time": 1769275099,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 43448,
@@ -74873,6 +74961,14 @@
       "onboard_time": 1769006542,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 38193,
+      "num": 66989,
+      "word": "张碧晨带病飙高音",
+      "onboard_time": 1769273724,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 38114,
@@ -80467,6 +80563,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 15511,
+      "num": 1464542,
+      "word": "奋进中国",
+      "onboard_time": 1769258901,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 15488,
       "num": 95324,
       "word": "卫星图揭露日本驱逐舰航母化改造",
@@ -80545,14 +80649,6 @@
       "onboard_time": 1769007382,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 15184,
-      "num": 635393,
-      "word": "奋进中国",
-      "onboard_time": 1769258901,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 15077,

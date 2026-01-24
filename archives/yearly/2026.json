@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769273342374,
+  "endTime": 1769275548508,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -185,6 +185,14 @@
       "onboard_time": 1768654162,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2760241,
+      "num": 2760241,
+      "word": "U23国足亚军",
+      "onboard_time": 1769273663,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 2732817,
@@ -1483,6 +1491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1020803,
+      "num": 1020803,
+      "word": "拜合拉木上了",
+      "onboard_time": 1769272822,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1016864,
       "num": 2828039,
       "word": "日本队 小动作",
@@ -2385,22 +2401,6 @@
       "onboard_time": 1768712779,
       "rank": 0,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 821415,
-      "num": 1663351,
-      "word": "5个影后有4个都选了财富自由",
-      "onboard_time": 1767407007,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 820529,
-      "num": 1131284,
-      "word": "12306购票页面出现雪字",
-      "onboard_time": 1768712420,
-      "rank": 3,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

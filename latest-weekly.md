@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/25 00:34:24 ~ 2026/01/25 00:49:02
+本榜单时间：2026/01/25 00:34:24 ~ 2026/01/25 01:25:48
 </p>
 </blockquote>
 <p>
@@ -17,6 +17,18 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23U23%E5%9B%BD%E8%B6%B3vs%E6%97%A5%E6%9C%AC%23" target="weibo">
 U23国足vs日本（热度：16741456）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23U23%E5%9B%BD%E8%B6%B3%E4%BA%9A%E5%86%9B%23" target="weibo">
+U23国足亚军（热度：2760241）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8B%9C%E5%90%88%E6%8B%89%E6%9C%A8%E4%B8%8A%E4%BA%86%23" target="weibo">
+拜合拉木上了（热度：1020803）
 </a>
 </li>
 
@@ -40,19 +52,25 @@ U23国足进球被吹（热度：748716）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E9%98%9F6%E5%8F%B7%23" target="weibo">
-日本队6号（热度：605445）
+日本队6号（热度：631249）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%8B%9C%E5%90%88%E6%8B%89%E6%9C%A8%E4%B8%8A%E4%BA%86%23" target="weibo">
-拜合拉木上了（热度：547597）
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%98%8A%20look%20my%20eyes%23" target="weibo">
+李昊 look my eyes（热度：549766）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%95%99%E5%B8%88%E6%A0%A1%E5%86%85%E5%AE%BF%E8%88%8D%E7%97%85%E4%BA%A1%E4%B8%A4%E5%A4%A9%E5%90%8E%E8%A2%AB%E5%8F%91%E7%8E%B0%23" target="weibo">
 女教师校内宿舍病亡两天后被发现（热度：535480）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23U23%E5%9B%BD%E8%B6%B30%E6%AF%944%E6%97%A5%E6%9C%AC%E9%98%9F%23" target="weibo">
+U23国足0比4日本队（热度：501628）
 </a>
 </li>
 
@@ -135,20 +153,26 @@ U23男足0比2落后（热度：292202）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8A%98%E5%B0%84%E7%A0%B4%E9%97%A8%23" target="weibo">
+折射破门（热度：231771）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%85%83%E8%8B%B1%E7%9B%B4%E6%92%AD%23" target="weibo">
 张元英直播（热度：222876）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%8A%98%E5%B0%84%E7%A0%B4%E9%97%A8%23" target="weibo">
-折射破门（热度：206349）
+<a href="https://s.weibo.com/weibo?q=%23U23%23" target="weibo">
+U23（热度：198150）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23U23%23" target="weibo">
-U23（热度：198150）
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B3%202030%E4%B8%96%E7%95%8C%E6%9D%AF%23" target="weibo">
+国足 2030世界杯（热度：168355）
 </a>
 </li>
 
@@ -161,6 +185,12 @@ U23（热度：198150）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E7%BD%91%E5%8F%8B%E6%8F%90%E9%97%AE9000%E4%B8%87%E9%81%97%E4%BD%93%E5%8E%BB%E5%90%91%23" target="weibo">
 美国网友提问9000万遗体去向（热度：162416）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%B6%B3%E7%90%83%23" target="weibo">
+中国足球（热度：146181）
 </a>
 </li>
 
@@ -203,6 +233,12 @@ U23（热度：198150）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6%E4%B8%80%E9%BB%91%E5%A4%A9%E9%B9%85%E8%A2%AB%E6%92%9E%E5%90%8E%E6%AD%BB%E4%BA%A1%23" target="weibo">
 南京工业大学一黑天鹅被撞后死亡（热度：109249）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8C%83%E5%BF%97%E6%AF%85%E8%B0%88U23%E5%9B%BD%E8%B6%B3%E5%AF%B9%E6%88%98%E6%97%A5%E6%9C%AC%E9%98%9F%23" target="weibo">
+范志毅谈U23国足对战日本队（热度：102124）
 </a>
 </li>
 
@@ -261,14 +297,26 @@ u23国足首发身价高于日本（热度：93807）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8C%83%E5%BF%97%E6%AF%85%E8%B0%88U23%E5%9B%BD%E8%B6%B3%E5%AF%B9%E6%88%98%E6%97%A5%E6%9C%AC%E9%98%9F%23" target="weibo">
-范志毅谈U23国足对战日本队（热度：90626）
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B3%E8%BF%9B%E6%AD%A5%E4%BA%86%23" target="weibo">
+国足进步了（热度：86123）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23U23%E5%9B%BD%E8%B6%B3%E5%B0%8F%E4%BC%99%E5%AD%90%E4%BB%AC%E9%85%8D%E5%BE%97%E4%B8%8A%E5%96%9D%E5%BD%A9%23" target="weibo">
+U23国足小伙子们配得上喝彩（热度：85419）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%99%E7%89%B9%E6%9C%BA%E5%9C%BA%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%A4%9A%E5%88%B0%E5%8C%85%E6%9C%BA%23" target="weibo">
 沙特机场中国人多到包机（热度：85151）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B3U23%E4%BA%9A%E6%B4%B2%E6%9D%AF%E4%BA%9A%E5%86%9B%23" target="weibo">
+国足U23亚洲杯亚军（热度：83026）
 </a>
 </li>
 
@@ -291,6 +339,12 @@ u23国足首发身价高于日本（热度：93807）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%9A%E8%B6%B3%E8%81%94%E5%AE%98%E6%96%B9%E5%8F%91%E5%B8%83%E7%BD%9A%E5%8D%95%23" target="weibo">
+亚足联官方发布罚单（热度：76091）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A5%9D%E7%BB%AA%E4%B8%B9%20%E9%87%91%E6%9E%9D%E7%8E%89%E5%8F%B6%E5%85%B7%E8%B1%A1%E5%8C%96%23" target="weibo">
 祝绪丹 金枝玉叶具象化（热度：75994）
 </a>
@@ -299,6 +353,12 @@ u23国足首发身价高于日本（热度：93807）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23U23%E5%9B%BD%E8%B6%B3%E4%B8%8D%E6%94%BE%E5%BC%83%23" target="weibo">
 U23国足不放弃（热度：75739）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23U23%E5%9B%BD%E8%B6%B3%E5%B7%B2%E7%BB%8F%E5%88%9B%E9%80%A0%E5%8E%86%E5%8F%B2%23" target="weibo">
+U23国足已经创造历史（热度：74299）
 </a>
 </li>
 
@@ -327,14 +387,56 @@ AI预测U23国足或爆冷夺冠（热度：68601）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%98%8A%20look%20my%20eyes%23" target="weibo">
-李昊 look my eyes（热度：61806）
+<a href="https://s.weibo.com/weibo?q=%23%E7%AA%81%E7%84%B6%E7%9A%84%E5%96%9C%E6%AC%A2%23" target="weibo">
+突然的喜欢（热度：49451）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%AA%E7%A9%BA%E6%9C%88%E5%AD%A3%E5%9B%9E%E6%9D%A5%E4%BA%86%23" target="weibo">
 太空月季回来了（热度：47193）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23U23%E5%9B%BD%E8%B6%B3%E5%AF%B9%E6%97%A5%E6%9C%ACU23%E6%88%98%E7%BB%A92%E8%83%9C1%E8%B4%9F%23" target="weibo">
+U23国足对日本U23战绩2胜1负（热度：46113）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A9%B9%E4%BF%8A%E8%A7%A3%E8%AF%B4%23" target="weibo">
+詹俊解说（热度：43479）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%9F%8E%E5%A4%A7%E4%BA%8B%23" target="weibo">
+小城大事（热度：43170）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%A2%A7%E6%99%A8%E5%B8%A6%E7%97%85%E9%A3%99%E9%AB%98%E9%9F%B3%23" target="weibo">
+张碧晨带病飙高音（热度：38193）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A0%E9%99%90%E6%9A%96%E6%9A%96%23" target="weibo">
+无限暖暖（热度：37702）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%B2%E7%88%B1%E7%9A%84%E5%AE%A2%E6%A0%88%E4%BC%97%E4%BA%BA%E9%80%81%E5%88%AB%E7%99%BD%E9%B9%BF%23" target="weibo">
+亲爱的客栈众人送别白鹿（热度：37074）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%8B%E8%BF%9B%E4%B8%AD%E5%9B%BD%23" target="weibo">
+奋进中国（热度：15511）
 </a>
 </li>
 

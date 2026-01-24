@@ -1,6 +1,6 @@
 {
   "startTime": 1769272464158,
-  "endTime": 1769273342374,
+  "endTime": 1769275548508,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -8,6 +8,22 @@
       "word": "U23国足vs日本",
       "onboard_time": 1769265382,
       "rank": 0,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2760241,
+      "num": 2760241,
+      "word": "U23国足亚军",
+      "onboard_time": 1769273663,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1020803,
+      "num": 1020803,
+      "word": "拜合拉木上了",
+      "onboard_time": 1769272822,
+      "rank": 5,
       "category": "体育"
     },
     {
@@ -35,7 +51,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 605445,
+      "raw_hot": 631249,
       "num": 605445,
       "word": "日本队6号",
       "onboard_time": 1769270902,
@@ -43,11 +59,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 547597,
-      "num": 547597,
-      "word": "拜合拉木上了",
-      "onboard_time": 1769272822,
-      "rank": 5,
+      "raw_hot": 549766,
+      "num": 549766,
+      "word": "李昊 look my eyes",
+      "onboard_time": 1769273301,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -57,6 +73,14 @@
       "onboard_time": 1769264362,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 501628,
+      "num": 501628,
+      "word": "U23国足0比4日本队",
+      "onboard_time": 1769274381,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 458681,
@@ -163,6 +187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 231771,
+      "num": 231771,
+      "word": "折射破门",
+      "onboard_time": 1769271862,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 222876,
       "num": 165603,
       "word": "张元英直播",
@@ -171,19 +203,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 206349,
-      "num": 206349,
-      "word": "折射破门",
-      "onboard_time": 1769271862,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 198150,
       "num": 198150,
       "word": "U23",
       "onboard_time": 1769269284,
       "rank": 17,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 168355,
+      "num": 168355,
+      "word": "国足 2030世界杯",
+      "onboard_time": 1769274860,
+      "rank": 9,
       "category": "体育"
     },
     {
@@ -201,6 +233,14 @@
       "onboard_time": 1769258782,
       "rank": 21,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 146181,
+      "num": 146181,
+      "word": "中国足球",
+      "onboard_time": 1769274440,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 141127,
@@ -257,6 +297,14 @@
       "onboard_time": 1769263102,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102124,
+      "num": 122155,
+      "word": "范志毅谈U23国足对战日本队",
+      "onboard_time": 1769251761,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 102003,
@@ -331,11 +379,19 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 90626,
-      "num": 122155,
-      "word": "范志毅谈U23国足对战日本队",
-      "onboard_time": 1769251761,
-      "rank": 40,
+      "raw_hot": 86123,
+      "num": 86123,
+      "word": "国足进步了",
+      "onboard_time": 1769274800,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 85419,
+      "num": 85419,
+      "word": "U23国足小伙子们配得上喝彩",
+      "onboard_time": 1769274501,
+      "rank": 25,
       "category": "体育"
     },
     {
@@ -344,6 +400,14 @@
       "word": "沙特机场中国人多到包机",
       "onboard_time": 1769271623,
       "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 83026,
+      "num": 73962,
+      "word": "国足U23亚洲杯亚军",
+      "onboard_time": 1769275218,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -371,6 +435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 76091,
+      "num": 73487,
+      "word": "亚足联官方发布罚单",
+      "onboard_time": 1769270185,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 75994,
       "num": 81436,
       "word": "祝绪丹 金枝玉叶具象化",
@@ -384,6 +456,14 @@
       "word": "U23国足不放弃",
       "onboard_time": 1769272102,
       "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 74299,
+      "num": 74299,
+      "word": "U23国足已经创造历史",
+      "onboard_time": 1769274321,
+      "rank": 29,
       "category": "体育"
     },
     {
@@ -419,18 +499,74 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 61806,
-      "num": 120714,
-      "word": "李昊 look my eyes",
-      "onboard_time": 1769273301,
-      "rank": 48,
-      "category": "体育"
+      "raw_hot": 49451,
+      "num": 67092,
+      "word": "突然的喜欢",
+      "onboard_time": 1769249960,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 47193,
       "num": 2174663,
       "word": "太空月季回来了",
       "onboard_time": 1769259621,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 46113,
+      "num": 67058,
+      "word": "U23国足对日本U23战绩2胜1负",
+      "onboard_time": 1769274679,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 43479,
+      "num": 67053,
+      "word": "詹俊解说",
+      "onboard_time": 1769275099,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 43170,
+      "num": 67040,
+      "word": "小城大事",
+      "onboard_time": 1769274800,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 38193,
+      "num": 66989,
+      "word": "张碧晨带病飙高音",
+      "onboard_time": 1769273724,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 37702,
+      "num": 66976,
+      "word": "无限暖暖",
+      "onboard_time": 1769252840,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 37074,
+      "num": 66973,
+      "word": "亲爱的客栈众人送别白鹿",
+      "onboard_time": 1769257401,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 15511,
+      "num": 1464542,
+      "word": "奋进中国",
+      "onboard_time": 1769258901,
       "rank": 2,
       "category": "民生新闻"
     },
