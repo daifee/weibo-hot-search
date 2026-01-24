@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769289968182,
+  "endTime": 1769290818811,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -80931,6 +80931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 13829,
+      "num": 19621,
+      "word": "U23亚洲杯中国队赛前喊话",
+      "onboard_time": 1769285715,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 13825,
       "num": 33961,
       "word": "周深期末补作业",
@@ -80961,6 +80969,14 @@
       "onboard_time": 1769276537,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 13688,
+      "num": 19504,
+      "word": "肖战耐心听讲解",
+      "onboard_time": 1769290454,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 13624,
@@ -81001,14 +81017,6 @@
       "onboard_time": 1767170841,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 13244,
-      "num": 19621,
-      "word": "U23亚洲杯中国队赛前喊话",
-      "onboard_time": 1769285715,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 13184,

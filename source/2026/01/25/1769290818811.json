@@ -1,0 +1,410 @@
+{
+  "runTime": 1769290818811,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 356478,
+        "num": 356478,
+        "word": "U23国足vs日本",
+        "onboard_time": 1769265382,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 227438,
+        "num": 227438,
+        "word": "U23国足亚军",
+        "onboard_time": 1769273663,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 8211,
+        "num": 135120,
+        "word": "奋进中国",
+        "onboard_time": 1769258901,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47824,
+        "num": 47824,
+        "word": "李昊无缘最佳门将",
+        "onboard_time": 1769275578,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34033,
+        "num": 34033,
+        "word": "U23国足0比4日本队",
+        "onboard_time": 1769274381,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32428,
+        "num": 32428,
+        "word": "国足进步了",
+        "onboard_time": 1769274800,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31244,
+        "num": 31244,
+        "word": "两个消失的顶流歌手都回归了",
+        "onboard_time": 1769242282,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30497,
+        "num": 30497,
+        "word": "我们的少年时代2拍摄周期",
+        "onboard_time": 1769270544,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30453,
+        "num": 30453,
+        "word": "李昊 look my eyes",
+        "onboard_time": 1769273301,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27373,
+        "num": 27373,
+        "word": "国足 2030世界杯",
+        "onboard_time": 1769274860,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 57984,
+        "num": 27351,
+        "word": "林允 速效救心丸",
+        "onboard_time": 1769260942,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47671,
+        "num": 27201,
+        "word": "女教师校内宿舍病亡两天后被发现",
+        "onboard_time": 1769264362,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35701,
+        "num": 26994,
+        "word": "美国网友提问9000万遗体去向",
+        "onboard_time": 1769258782,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 29699,
+        "num": 26885,
+        "word": "太平年 牵羊礼",
+        "onboard_time": 1769264063,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28650,
+        "num": 26734,
+        "word": "日本队6号",
+        "onboard_time": 1769270902,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27956,
+        "num": 26581,
+        "word": "40岁男子吃鱼生后胆管爬满虫子",
+        "onboard_time": 1769266882,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27721,
+        "num": 26365,
+        "word": "陈建斌曝李亚鹏晚上睡觉没有被子",
+        "onboard_time": 1769254281,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26355,
+        "num": 26355,
+        "word": "U23国足进球被吹",
+        "onboard_time": 1769272340,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24983,
+        "num": 24983,
+        "word": "日本队点球破门",
+        "onboard_time": 1769271983,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23333,
+        "num": 23333,
+        "word": "突然的喜欢",
+        "onboard_time": 1769249960,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25136,
+        "num": 23284,
+        "word": "周震南演唱会没有舞台",
+        "onboard_time": 1769254100,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 23216,
+        "num": 23216,
+        "word": "第一批爱熬夜的受害者出现了",
+        "onboard_time": 1769250080,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 22524,
+        "num": 22524,
+        "word": "U23",
+        "onboard_time": 1769269284,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22343,
+        "num": 22343,
+        "word": "拜合拉木上了",
+        "onboard_time": 1769272822,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22127,
+        "num": 22127,
+        "word": "中国足球",
+        "onboard_time": 1769274440,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21366,
+        "num": 21366,
+        "word": "U23国足已经创造历史",
+        "onboard_time": 1769274321,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21357,
+        "num": 21357,
+        "word": "太平年",
+        "onboard_time": 1769260701,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20925,
+        "num": 20925,
+        "word": "老虎在雪地睡觉把一片热化了",
+        "onboard_time": 1769266282,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 20365,
+        "num": 20365,
+        "word": "U23男足亚洲杯亚军",
+        "onboard_time": 1769277736,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19818,
+        "num": 19818,
+        "word": "母亲称3岁女儿洗浴中心泡澡后染病",
+        "onboard_time": 1769267543,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20299,
+        "num": 19806,
+        "word": "国足U23亚洲杯亚军",
+        "onboard_time": 1769275218,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19585,
+        "num": 19585,
+        "word": "何不同舟渡",
+        "onboard_time": 1769259921,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18117,
+        "num": 19583,
+        "word": "警方回应郑州一26岁女子失联",
+        "onboard_time": 1769276178,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17850,
+        "num": 19579,
+        "word": "无限暖暖",
+        "onboard_time": 1769252840,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 17840,
+        "num": 19572,
+        "word": "张元英直播",
+        "onboard_time": 1769263582,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17839,
+        "num": 19563,
+        "word": "U23国足小伙子们配得上喝彩",
+        "onboard_time": 1769274501,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16715,
+        "num": 19557,
+        "word": "俄罗斯最新涉华表态",
+        "onboard_time": 1769254100,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 16623,
+        "num": 19555,
+        "word": "折射破门",
+        "onboard_time": 1769271862,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16074,
+        "num": 19546,
+        "word": "张又侠刘振立被立案调查",
+        "onboard_time": 1769238981,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 15984,
+        "num": 19538,
+        "word": "隋文静韩聪亚军",
+        "onboard_time": 1769270602,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15688,
+        "num": 19533,
+        "word": "亚洲杯",
+        "onboard_time": 1769250080,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15224,
+        "num": 19532,
+        "word": "沙特机场中国人多到包机",
+        "onboard_time": 1769271623,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15143,
+        "num": 19521,
+        "word": "太平年改了台词",
+        "onboard_time": 1769269827,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14127,
+        "num": 19518,
+        "word": "日本进球",
+        "onboard_time": 1769268204,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13829,
+        "num": 19513,
+        "word": "U23亚洲杯中国队赛前喊话",
+        "onboard_time": 1769285715,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13688,
+        "num": 19504,
+        "word": "肖战耐心听讲解",
+        "onboard_time": 1769290454,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13678,
+        "num": 19502,
+        "word": "范志毅谈U23国足对战日本队",
+        "onboard_time": 1769251761,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12985,
+        "num": 19494,
+        "word": "国足",
+        "onboard_time": 1769245101,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12918,
+        "num": 19488,
+        "word": "周震南演唱会",
+        "onboard_time": 1769276537,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 12901,
+        "num": 19482,
+        "word": "归鸾",
+        "onboard_time": 1769266762,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的12次开年第一课#"
+    }
+  }
+}
