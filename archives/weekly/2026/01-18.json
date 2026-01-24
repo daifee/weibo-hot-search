@@ -1,6 +1,6 @@
 {
   "startTime": 1768667567906,
-  "endTime": 1769254788035,
+  "endTime": 1769259319061,
   "band_list": [
     {
       "raw_hot": 9430476,
@@ -785,6 +785,14 @@
       "onboard_time": 1769068341,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 782520,
+      "num": 188698,
+      "word": "陈建斌曝李亚鹏晚上睡觉没有被子",
+      "onboard_time": 1769254281,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 782430,
@@ -2275,6 +2283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 460339,
+      "num": 1073654,
+      "word": "亚洲杯",
+      "onboard_time": 1768951037,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 459240,
       "num": 161354,
       "word": "VOGUE发了王橹杰穆祉丞",
@@ -2433,6 +2449,14 @@
       "onboard_time": 1769009361,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 441820,
+      "num": 441820,
+      "word": "俄罗斯最新涉华表态",
+      "onboard_time": 1769254100,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 441695,
@@ -3275,6 +3299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 364854,
+      "num": 364854,
+      "word": "周震南演唱会没有舞台",
+      "onboard_time": 1769254100,
+      "rank": 16,
+      "category": "演出"
+    },
+    {
       "raw_hot": 364411,
       "num": 335380,
       "word": "王鹤棣演唱会",
@@ -3416,14 +3448,6 @@
       "word": "贝克汉姆长子称婚礼是最屈辱的时刻",
       "onboard_time": 1768893980,
       "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 353059,
-      "num": 791732,
-      "word": "亚洲杯",
-      "onboard_time": 1768951037,
-      "rank": 24,
       "category": "体育"
     },
     {
@@ -4195,6 +4219,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 297786,
+      "num": 297786,
+      "word": "被雪豹咬伤女子已从急诊转出",
+      "onboard_time": 1769254822,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 297527,
       "num": 191762,
       "word": "彭小苒镂空连体衣辣成啥了",
@@ -4273,14 +4305,6 @@
       "onboard_time": 1768659743,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 294259,
-      "num": 111567,
-      "word": "陈建斌曝李亚鹏晚上睡觉没有被子",
-      "onboard_time": 1769254281,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 293968,
@@ -4416,6 +4440,14 @@
       "word": "刘诗诗工作室进高人了",
       "onboard_time": 1769127201,
       "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 285382,
+      "num": 179315,
+      "word": "Angelababy26年首套高定造型",
+      "onboard_time": 1769258361,
+      "rank": 13,
       "category": "艺人"
     },
     {
@@ -5467,6 +5499,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 234065,
+      "num": 234065,
+      "word": "长大了揣两万才敢进肯德基",
+      "onboard_time": 1769251761,
+      "rank": 13,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 234008,
       "num": 142643,
       "word": "女生怀孕后体重暴涨45斤",
@@ -5844,6 +5884,14 @@
     },
     {
       "raw_hot": 220828,
+      "num": 220828,
+      "word": "云初令",
+      "onboard_time": 1768812261,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 220828,
       "num": 487459,
       "word": "夫妻吵架将俩年幼孩子留酒店后失联",
       "onboard_time": 1769160801,
@@ -6211,14 +6259,6 @@
       "category": "综艺,时尚"
     },
     {
-      "raw_hot": 209552,
-      "num": 222846,
-      "word": "长大了揣两万才敢进肯德基",
-      "onboard_time": 1769251761,
-      "rank": 13,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 209479,
       "num": 190688,
       "word": "春节前瘦10斤突击法",
@@ -6265,6 +6305,14 @@
       "onboard_time": 1768802543,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 207647,
+      "num": 146380,
+      "word": "女生滑雪时摔倒手链断得满雪场都是",
+      "onboard_time": 1769257401,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 207513,
@@ -7755,6 +7803,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 172632,
+      "num": 276476,
+      "word": "丈夫回应妻子洗手洗进医院",
+      "onboard_time": 1769251821,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 172610,
       "num": 156994,
       "word": "汤唯认领了2026的第一个妈咪",
@@ -7891,14 +7947,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 169971,
-      "num": 169971,
-      "word": "云初令",
-      "onboard_time": 1768812261,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 169791,
       "num": 169791,
       "word": "HLE对战NS",
@@ -7993,6 +8041,14 @@
       "onboard_time": 1768961899,
       "rank": 15,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 167933,
+      "num": 167933,
+      "word": "邢菲出道十年后首档常驻综艺",
+      "onboard_time": 1769255781,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 167839,
@@ -8635,14 +8691,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 154930,
-      "num": 93270,
-      "word": "俄罗斯最新涉华表态",
-      "onboard_time": 1769254100,
-      "rank": 30,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 154658,
       "num": 154658,
       "word": "快乐老友记3",
@@ -8785,14 +8833,6 @@
       "onboard_time": 1769047399,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 152456,
-      "num": 276476,
-      "word": "丈夫回应妻子洗手洗进医院",
-      "onboard_time": 1769251821,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 152337,
@@ -9145,6 +9185,14 @@
       "onboard_time": 1769149220,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 147109,
+      "num": 103640,
+      "word": "美国网友提问9000万遗体去向",
+      "onboard_time": 1769258782,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 146960,
@@ -9676,7 +9724,7 @@
     },
     {
       "raw_hot": 140374,
-      "num": 104741,
+      "num": 116157,
       "word": "九尾收到长生转账",
       "onboard_time": 1769253681,
       "rank": 31,
@@ -10505,14 +10553,6 @@
       "onboard_time": 1768710680,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 129085,
-      "num": 129085,
-      "word": "周震南演唱会没有舞台",
-      "onboard_time": 1769254100,
-      "rank": 16,
-      "category": "演出"
     },
     {
       "raw_hot": 128999,
@@ -11459,6 +11499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 119711,
+      "num": 119711,
+      "word": "国防科大教授周末晚在教室磨课",
+      "onboard_time": 1769256620,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
       "raw_hot": 119699,
       "num": 102705,
       "word": "步惊云 洗牌都是半夜洗",
@@ -12195,6 +12243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 114210,
+      "num": 114210,
+      "word": "亲爱的客栈众人送别白鹿",
+      "onboard_time": 1769257401,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 114100,
       "num": 114100,
       "word": "江宁婆婆科普糖霜苹果",
@@ -12241,6 +12297,14 @@
       "onboard_time": 1768985481,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 113586,
+      "num": 113586,
+      "word": "王鹤棣 背头届最严厉的父亲",
+      "onboard_time": 1769258182,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 113456,
@@ -12337,6 +12401,14 @@
       "onboard_time": 1768880421,
       "rank": 44,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 112753,
+      "num": 103302,
+      "word": "网剧炽热吸引",
+      "onboard_time": 1769256501,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 112740,
@@ -14699,6 +14771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 97661,
+      "num": 97661,
+      "word": "无限暖暖九色万相生",
+      "onboard_time": 1768976300,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 97627,
       "num": 97627,
       "word": "JackeyLove队危何时归",
@@ -14737,6 +14817,14 @@
       "onboard_time": 1768823061,
       "rank": 42,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 97579,
+      "num": 97579,
+      "word": "云旗直播",
+      "onboard_time": 1769258662,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 97545,
@@ -16299,6 +16387,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 90193,
+      "num": 90193,
+      "word": "宋妍霏0度穿短袖冻到脸通红",
+      "onboard_time": 1769259082,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 90173,
       "num": 86892,
       "word": "迪丽热巴黑粉被限高",
@@ -16385,6 +16481,14 @@
       "onboard_time": 1769149101,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 89745,
+      "num": 89745,
+      "word": "62岁张曼玉晒退休生活",
+      "onboard_time": 1769258541,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 89669,
@@ -16545,14 +16649,6 @@
       "onboard_time": 1768974140,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 88763,
-      "num": 88763,
-      "word": "无限暖暖九色万相生",
-      "onboard_time": 1768976300,
-      "rank": 43,
-      "category": "游戏"
     },
     {
       "raw_hot": 88709,
@@ -18091,6 +18187,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 82170,
+      "num": 82170,
+      "word": "突然的喜欢 拒绝月经羞耻",
+      "onboard_time": 1769257341,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 82108,
       "num": 96780,
       "word": "云南的冬天被染成粉红色",
@@ -19003,6 +19107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 76942,
+      "num": 76942,
+      "word": "周震南直播求粉丝",
+      "onboard_time": 1769255481,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 76861,
       "num": 76861,
       "word": "DFYG出征M7纪录片",
@@ -19097,6 +19209,14 @@
       "onboard_time": 1768951457,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 76427,
+      "num": 76427,
+      "word": "南通Hero久竞对战JDG",
+      "onboard_time": 1769258422,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 76378,
@@ -19355,6 +19475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 74977,
+      "num": 74977,
+      "word": "小学强制老师排练年会节目被投诉",
+      "onboard_time": 1769257941,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 74803,
       "num": 74803,
       "word": "冬季冻伤皮肤发白发麻",
@@ -19467,6 +19595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 73736,
+      "num": 73736,
+      "word": "钎九 同担是杨幂怎么办",
+      "onboard_time": 1769255901,
+      "rank": 46,
+      "category": "艺人,电竞"
+    },
+    {
       "raw_hot": 73687,
       "num": 73687,
       "word": "金博洋说坚持需要很大勇气",
@@ -19481,6 +19617,14 @@
       "onboard_time": 1768667301,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 73650,
+      "num": 73650,
+      "word": "高中的一些事是经不起细想的",
+      "onboard_time": 1769257101,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 73562,
@@ -19505,6 +19649,14 @@
       "onboard_time": 1768804040,
       "rank": 40,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 73346,
+      "num": 73346,
+      "word": "7分钟重启全身能量",
+      "onboard_time": 1769257582,
+      "rank": 49,
+      "category": "运动健身"
     },
     {
       "raw_hot": 73259,
@@ -20729,6 +20881,14 @@
       "onboard_time": 1768664241,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 59249,
+      "num": 89764,
+      "word": "平台已下架涉事娃娃菜商家商品",
+      "onboard_time": 1769258721,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 59241,
@@ -23715,6 +23875,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 17549,
+      "num": 1151755,
+      "word": "我国船舶工业提质扩容领跑全球",
+      "onboard_time": 1769243662,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 17332,
       "num": 167058,
       "word": "800一颗粉菠萝甜度和普通菠萝没区别",
@@ -23881,6 +24049,14 @@
       "onboard_time": 1769007382,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 15184,
+      "num": 635393,
+      "word": "奋进中国",
+      "onboard_time": 1769258901,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15077,
@@ -24145,14 +24321,6 @@
       "onboard_time": 1768898423,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 5734,
-      "num": 1151755,
-      "word": "我国船舶工业提质扩容领跑全球",
-      "onboard_time": 1769243662,
-      "rank": 2,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
@@ -24212,6 +24380,9 @@
     },
     {
       "word": "#科技赋能冰雪经济#"
+    },
+    {
+      "word": "#总书记的12次开年第一课#"
     }
   ]
 }

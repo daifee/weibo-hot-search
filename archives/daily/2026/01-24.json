@@ -1,6 +1,6 @@
 {
   "startTime": 1769186467234,
-  "endTime": 1769254788035,
+  "endTime": 1769259319061,
   "band_list": [
     {
       "raw_hot": 7888209,
@@ -49,6 +49,14 @@
       "onboard_time": 1769178741,
       "rank": 3,
       "category": "演出"
+    },
+    {
+      "raw_hot": 782520,
+      "num": 188698,
+      "word": "陈建斌曝李亚鹏晚上睡觉没有被子",
+      "onboard_time": 1769254281,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 781319,
@@ -179,6 +187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 460339,
+      "num": 1073654,
+      "word": "亚洲杯",
+      "onboard_time": 1769250080,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 447616,
       "num": 549277,
       "word": "骑手随手拍曝光幽灵外卖",
@@ -193,6 +209,14 @@
       "onboard_time": 1769229862,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 441820,
+      "num": 441820,
+      "word": "俄罗斯最新涉华表态",
+      "onboard_time": 1769254100,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 423660,
@@ -283,12 +307,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 353059,
-      "num": 791732,
-      "word": "亚洲杯",
-      "onboard_time": 1769250080,
-      "rank": 18,
-      "category": "体育"
+      "raw_hot": 364854,
+      "num": 364854,
+      "word": "周震南演唱会没有舞台",
+      "onboard_time": 1769254100,
+      "rank": 16,
+      "category": "演出"
     },
     {
       "raw_hot": 352873,
@@ -427,20 +451,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 297786,
+      "num": 297786,
+      "word": "被雪豹咬伤女子已从急诊转出",
+      "onboard_time": 1769254822,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 294379,
       "num": 242113,
       "word": "猫 真有那么臭吗",
       "onboard_time": 1769236101,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 294259,
-      "num": 111567,
-      "word": "陈建斌曝李亚鹏晚上睡觉没有被子",
-      "onboard_time": 1769254281,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 293968,
@@ -457,6 +481,14 @@
       "onboard_time": 1769231481,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 285382,
+      "num": 179315,
+      "word": "Angelababy26年首套高定造型",
+      "onboard_time": 1769258361,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 277879,
@@ -603,6 +635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 234065,
+      "num": 234065,
+      "word": "长大了揣两万才敢进肯德基",
+      "onboard_time": 1769251761,
+      "rank": 13,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 233446,
       "num": 145306,
       "word": "26岁工程师家里熟睡中猝死",
@@ -633,6 +673,14 @@
       "onboard_time": 1769213959,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 220828,
+      "num": 220828,
+      "word": "云初令",
+      "onboard_time": 1769253800,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 220063,
@@ -667,12 +715,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 209552,
-      "num": 222846,
-      "word": "长大了揣两万才敢进肯德基",
-      "onboard_time": 1769251761,
-      "rank": 13,
-      "category": "幽默"
+      "raw_hot": 207647,
+      "num": 146380,
+      "word": "女生滑雪时摔倒手链断得满雪场都是",
+      "onboard_time": 1769257401,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 207406,
@@ -827,6 +875,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 172632,
+      "num": 276476,
+      "word": "丈夫回应妻子洗手洗进医院",
+      "onboard_time": 1769251821,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 170170,
       "num": 212676,
       "word": "刘浩存马年春晚彩排",
@@ -835,20 +891,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 169971,
-      "num": 169971,
-      "word": "云初令",
-      "onboard_time": 1769253800,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 168001,
       "num": 168001,
       "word": "央视转播U23国足与日本比赛",
       "onboard_time": 1769176642,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 167933,
+      "num": 167933,
+      "word": "邢菲出道十年后首档常驻综艺",
+      "onboard_time": 1769255781,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 167776,
@@ -931,14 +987,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 154930,
-      "num": 93270,
-      "word": "俄罗斯最新涉华表态",
-      "onboard_time": 1769254100,
-      "rank": 30,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 154458,
       "num": 142221,
       "word": "106岁太姥爷与刚出生的重孙相见",
@@ -953,14 +1001,6 @@
       "onboard_time": 1769173582,
       "rank": 22,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 152456,
-      "num": 276476,
-      "word": "丈夫回应妻子洗手洗进医院",
-      "onboard_time": 1769251821,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 152337,
@@ -1001,6 +1041,14 @@
       "onboard_time": 1769245101,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 147109,
+      "num": 103640,
+      "word": "美国网友提问9000万遗体去向",
+      "onboard_time": 1769258782,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 146783,
@@ -1092,7 +1140,7 @@
     },
     {
       "raw_hot": 140374,
-      "num": 104741,
+      "num": 116157,
       "word": "九尾收到长生转账",
       "onboard_time": 1769253681,
       "rank": 31,
@@ -1203,14 +1251,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 129085,
-      "num": 129085,
-      "word": "周震南演唱会没有舞台",
-      "onboard_time": 1769254100,
-      "rank": 16,
-      "category": "演出"
-    },
-    {
       "raw_hot": 128836,
       "num": 280857,
       "word": "花少8网传名单",
@@ -1315,6 +1355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 119711,
+      "num": 119711,
+      "word": "国防科大教授周末晚在教室磨课",
+      "onboard_time": 1769256620,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
       "raw_hot": 119699,
       "num": 102705,
       "word": "步惊云 洗牌都是半夜洗",
@@ -1411,6 +1459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 114210,
+      "num": 114210,
+      "word": "亲爱的客栈众人送别白鹿",
+      "onboard_time": 1769257401,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 114090,
       "num": 114090,
       "word": "因给孩子涂药争吵男子用砖砸死岳母",
@@ -1425,6 +1481,14 @@
       "onboard_time": 1769179643,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 113586,
+      "num": 113586,
+      "word": "王鹤棣 背头届最严厉的父亲",
+      "onboard_time": 1769258182,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 113232,
@@ -1449,6 +1513,14 @@
       "onboard_time": 1769228779,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 112753,
+      "num": 103302,
+      "word": "网剧炽热吸引",
+      "onboard_time": 1769256501,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 111057,
@@ -1683,12 +1755,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 97661,
+      "num": 97661,
+      "word": "无限暖暖九色万相生",
+      "onboard_time": 1769257941,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 97601,
       "num": 97601,
       "word": "为什么睡觉时想把脚伸出被子",
       "onboard_time": 1769247921,
       "rank": 35,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 97579,
+      "num": 97579,
+      "word": "云旗直播",
+      "onboard_time": 1769258662,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 97357,
@@ -1875,6 +1963,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 90193,
+      "num": 90193,
+      "word": "宋妍霏0度穿短袖冻到脸通红",
+      "onboard_time": 1769259082,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 89911,
       "num": 114097,
       "word": "建议买水果都按这个标准来",
@@ -1897,6 +1993,14 @@
       "onboard_time": 1769228838,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 89745,
+      "num": 89745,
+      "word": "62岁张曼玉晒退休生活",
+      "onboard_time": 1769258541,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 89669,
@@ -2187,6 +2291,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 82170,
+      "num": 82170,
+      "word": "突然的喜欢 拒绝月经羞耻",
+      "onboard_time": 1769257341,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 82022,
       "num": 82022,
       "word": "张泽禹课表",
@@ -2387,12 +2499,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 76942,
+      "num": 76942,
+      "word": "周震南直播求粉丝",
+      "onboard_time": 1769255481,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 76498,
       "num": 76498,
       "word": "王嘉尔 怎么照顾它啊",
       "onboard_time": 1769235980,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 76427,
+      "num": 76427,
+      "word": "南通Hero久竞对战JDG",
+      "onboard_time": 1769258422,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 76156,
@@ -2443,12 +2571,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 74977,
+      "num": 74977,
+      "word": "小学强制老师排练年会节目被投诉",
+      "onboard_time": 1769257941,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 74187,
       "num": 74187,
       "word": "肖战的翻唱又一次带火了老歌",
       "onboard_time": 1769244562,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 73736,
+      "num": 73736,
+      "word": "钎九 同担是杨幂怎么办",
+      "onboard_time": 1769255901,
+      "rank": 46,
+      "category": "艺人,电竞"
     },
     {
       "raw_hot": 73687,
@@ -2459,12 +2603,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 73650,
+      "num": 73650,
+      "word": "高中的一些事是经不起细想的",
+      "onboard_time": 1769257101,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 73562,
       "num": 73562,
       "word": "权志龙免签场的含金量还在上升",
       "onboard_time": 1769241742,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 73346,
+      "num": 73346,
+      "word": "7分钟重启全身能量",
+      "onboard_time": 1769257582,
+      "rank": 49,
+      "category": "运动健身"
     },
     {
       "raw_hot": 72614,
@@ -2624,6 +2784,14 @@
       "word": "32岁程序员猝死后所有荣誉变成了垃圾",
       "onboard_time": 1769180603,
       "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 59249,
+      "num": 89764,
+      "word": "平台已下架涉事娃娃菜商家商品",
+      "onboard_time": 1769258721,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -3147,6 +3315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 17549,
+      "num": 1151755,
+      "word": "我国船舶工业提质扩容领跑全球",
+      "onboard_time": 1769243662,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 15747,
       "num": 22567,
       "word": "日本国会一开幕就解散众议院",
@@ -3160,6 +3336,14 @@
       "word": "年轻人为何爱上菜市场",
       "onboard_time": 1769244501,
       "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15184,
+      "num": 635393,
+      "word": "奋进中国",
+      "onboard_time": 1769258901,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -3203,14 +3387,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 5734,
-      "num": 1151755,
-      "word": "我国船舶工业提质扩容领跑全球",
-      "onboard_time": 1769243662,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 4932,
       "num": 1141828,
       "word": "冰雪春天",
@@ -3236,6 +3412,9 @@
     },
     {
       "word": "#科技赋能冰雪经济#"
+    },
+    {
+      "word": "#总书记的12次开年第一课#"
     }
   ]
 }
