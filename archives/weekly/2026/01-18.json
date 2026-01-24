@@ -1,7 +1,15 @@
 {
   "startTime": 1768667567906,
-  "endTime": 1769265855023,
+  "endTime": 1769268508422,
   "band_list": [
+    {
+      "raw_hot": 15020348,
+      "num": 15020348,
+      "word": "U23国足vs日本",
+      "onboard_time": 1769191934,
+      "rank": 8,
+      "category": "体育"
+    },
     {
       "raw_hot": 9430476,
       "num": 9430476,
@@ -803,14 +811,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 783452,
-      "num": 1125352,
-      "word": "U23国足vs日本",
-      "onboard_time": 1769191934,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 782520,
       "num": 695954,
       "word": "陈建斌曝李亚鹏晚上睡觉没有被子",
@@ -865,6 +865,14 @@
       "onboard_time": 1769209576,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 767879,
+      "num": 297686,
+      "word": "女教师校内宿舍病亡两天后被发现",
+      "onboard_time": 1769264362,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 762911,
@@ -1636,7 +1644,7 @@
     },
     {
       "raw_hot": 561774,
-      "num": 1438984,
+      "num": 2498524,
       "word": "两个消失的顶流歌手都回归了",
       "onboard_time": 1769242282,
       "rank": 1,
@@ -2747,6 +2755,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 413276,
+      "num": 208435,
+      "word": "张元英直播",
+      "onboard_time": 1769263582,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 412245,
       "num": 178014,
       "word": "鞠婧祎犯困都有人仿妆模仿了",
@@ -3507,6 +3523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 354816,
+      "num": 253576,
+      "word": "太平年 牵羊礼",
+      "onboard_time": 1769264063,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 353862,
       "num": 212890,
       "word": "贝克汉姆长子称婚礼是最屈辱的时刻",
@@ -3529,14 +3553,6 @@
       "onboard_time": 1768970480,
       "rank": 8,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 350972,
-      "num": 208435,
-      "word": "张元英直播",
-      "onboard_time": 1769263582,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 350526,
@@ -4475,14 +4491,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 290362,
-      "num": 290362,
-      "word": "女教师校内宿舍病亡两天后被发现",
-      "onboard_time": 1769264362,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 289183,
       "num": 789889,
       "word": "商家回应半年被1人薅了4万4",
@@ -5233,14 +5241,6 @@
       "onboard_time": 1768706301,
       "rank": 12,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 253576,
-      "num": 253576,
-      "word": "太平年 牵羊礼",
-      "onboard_time": 1769264063,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 253407,
@@ -7563,6 +7563,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 181396,
+      "num": 172679,
+      "word": "刘宇宁直播",
+      "onboard_time": 1768998620,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 181170,
       "num": 626493,
       "word": "最强大脑",
@@ -7601,6 +7609,14 @@
       "onboard_time": 1769139980,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 180069,
+      "num": 180069,
+      "word": "美国涉中俄战略出现重大转变",
+      "onboard_time": 1769265501,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 179909,
@@ -7737,6 +7753,14 @@
       "onboard_time": 1769144481,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 176635,
+      "num": 176635,
+      "word": "日本进球",
+      "onboard_time": 1769268204,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 176561,
@@ -7888,6 +7912,14 @@
       "word": "牢A详解糖霜苹果",
       "onboard_time": 1769055861,
       "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 173423,
+      "num": 173423,
+      "word": "40岁男子吃鱼生后胆管爬满虫子",
+      "onboard_time": 1769266882,
+      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -9547,6 +9579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 145293,
+      "num": 145293,
+      "word": "归鸾",
+      "onboard_time": 1768974379,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 145170,
       "num": 145170,
       "word": "陈妍希 比完你的比你的",
@@ -10467,14 +10507,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 132617,
-      "num": 132617,
-      "word": "美国涉中俄战略出现重大转变",
-      "onboard_time": 1769265501,
-      "rank": 36,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 132312,
       "num": 132312,
       "word": "全网最听劝妈妈1分钟视频报价3万",
@@ -10561,6 +10593,14 @@
       "onboard_time": 1769061980,
       "rank": 18,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 131162,
+      "num": 131162,
+      "word": "老虎在雪地睡觉把一片热化了",
+      "onboard_time": 1769266282,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 131132,
@@ -10961,6 +11001,14 @@
       "onboard_time": 1769040439,
       "rank": 29,
       "category": "财经"
+    },
+    {
+      "raw_hot": 127099,
+      "num": 127099,
+      "word": "空气炸锅垫纸别非要挑大的买",
+      "onboard_time": 1769266762,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 126841,
@@ -11465,6 +11513,14 @@
       "onboard_time": 1769051840,
       "rank": 40,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 122685,
+      "num": 122685,
+      "word": "王心凌你裙子闪到我了",
+      "onboard_time": 1769265802,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 122660,
@@ -13307,6 +13363,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 108076,
+      "num": 108076,
+      "word": "祝绪丹 金枝玉叶具象化",
+      "onboard_time": 1769267964,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 108068,
       "num": 108068,
       "word": "突然的喜欢女主就这样狮子小开口",
@@ -13393,6 +13457,14 @@
       "onboard_time": 1769245582,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 107211,
+      "num": 107211,
+      "word": "熬夜看U23国足",
+      "onboard_time": 1769267122,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 107206,
@@ -13771,6 +13843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 105230,
+      "num": 105230,
+      "word": "朱志鑫给左航盖毯子",
+      "onboard_time": 1769267665,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 105108,
       "num": 105108,
       "word": "无限暖暖琳琅奇谭",
@@ -14019,6 +14099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 103906,
+      "num": 103906,
+      "word": "拜合拉木身体不适替补",
+      "onboard_time": 1769265922,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 103865,
       "num": 174456,
       "word": "Air手机界来了个真Pro",
@@ -14121,14 +14209,6 @@
       "onboard_time": 1768731262,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 103362,
-      "num": 103362,
-      "word": "王心凌你裙子闪到我了",
-      "onboard_time": 1769265802,
-      "rank": 47,
-      "category": "演出"
     },
     {
       "raw_hot": 103210,
@@ -15443,6 +15523,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 96076,
+      "num": 96076,
+      "word": "张栋梁40岁甜男界顶流返场",
+      "onboard_time": 1769268146,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 95947,
       "num": 95947,
       "word": "金博洋回应短节目第五",
@@ -15609,14 +15697,6 @@
       "onboard_time": 1768898721,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 95230,
-      "num": 95230,
-      "word": "刘宇宁直播",
-      "onboard_time": 1768998620,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 95199,
@@ -17259,6 +17339,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 87306,
+      "num": 87306,
+      "word": "WTT新加坡大满贯",
+      "onboard_time": 1769268146,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 87219,
       "num": 87219,
       "word": "意大利时尚界三杰均已离世",
@@ -17649,6 +17737,14 @@
       "onboard_time": 1769080941,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 86154,
+      "num": 86154,
+      "word": "深圳医生为5岁西藏女孩修复容颜",
+      "onboard_time": 1769267665,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 86096,
@@ -18281,14 +18377,6 @@
       "onboard_time": 1769173582,
       "rank": 47,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 83602,
-      "num": 83602,
-      "word": "归鸾",
-      "onboard_time": 1768974379,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 83585,
@@ -19097,6 +19185,14 @@
       "onboard_time": 1768893980,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 79394,
+      "num": 131620,
+      "word": "俄美乌三方谈完了",
+      "onboard_time": 1769267063,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 79376,
@@ -21004,7 +21100,7 @@
     },
     {
       "raw_hot": 62824,
-      "num": 781549,
+      "num": 1959270,
       "word": "太空月季回来了",
       "onboard_time": 1769259621,
       "rank": 2,
@@ -22587,6 +22683,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 39458,
+      "num": 106091,
+      "word": "母亲称3岁女儿洗浴中心泡澡后染病",
+      "onboard_time": 1769267543,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39298,
       "num": 116559,
       "word": "永辉超市去年预亏21.4亿",
@@ -23167,6 +23271,14 @@
       "num": 205829,
       "word": "婴儿出生不到一周被遗弃福利院门口",
       "onboard_time": 1769054961,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30468,
+      "num": 152894,
+      "word": "26岁国企出纳赌掉千万公款",
+      "onboard_time": 1769268024,
       "rank": 19,
       "category": "民生新闻"
     },
@@ -24657,6 +24769,14 @@
       "onboard_time": 1768655001,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 12107,
+      "num": 143999,
+      "word": "直击U23亚洲杯中日决赛",
+      "onboard_time": 1769268266,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 11835,

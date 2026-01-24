@@ -1,0 +1,410 @@
+{
+  "runTime": 1769268508422,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 15020348,
+        "num": 15020348,
+        "word": "U23国足vs日本",
+        "onboard_time": 1769265382,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 470888,
+        "num": 2498524,
+        "word": "两个消失的顶流歌手都回归了",
+        "onboard_time": 1769242282,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 57846,
+        "num": 1959270,
+        "word": "太空月季回来了",
+        "onboard_time": 1769259621,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 301232,
+        "num": 301232,
+        "word": "亚洲杯",
+        "onboard_time": 1769250080,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 767879,
+        "num": 297686,
+        "word": "女教师校内宿舍病亡两天后被发现",
+        "onboard_time": 1769264362,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 291922,
+        "num": 291922,
+        "word": "U23国足vs日本U23首发",
+        "onboard_time": 1769263582,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 288248,
+        "num": 288248,
+        "word": "南京工业大学一黑天鹅被撞后死亡",
+        "onboard_time": 1769263102,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 258972,
+        "num": 258972,
+        "word": "平台已下架涉事娃娃菜商家商品",
+        "onboard_time": 1769258721,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180069,
+        "num": 180069,
+        "word": "美国涉中俄战略出现重大转变",
+        "onboard_time": 1769265501,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 176635,
+        "num": 176635,
+        "word": "日本进球",
+        "onboard_time": 1769268204,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1077530,
+        "num": 176152,
+        "word": "林允 速效救心丸",
+        "onboard_time": 1769260942,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 354816,
+        "num": 175792,
+        "word": "太平年 牵羊礼",
+        "onboard_time": 1769264063,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 318623,
+        "num": 175710,
+        "word": "张又侠刘振立被立案调查",
+        "onboard_time": 1769238981,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 173423,
+        "num": 173423,
+        "word": "40岁男子吃鱼生后胆管爬满虫子",
+        "onboard_time": 1769266882,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 342296,
+        "num": 173007,
+        "word": "陈建斌曝李亚鹏晚上睡觉没有被子",
+        "onboard_time": 1769254281,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248536,
+        "num": 172908,
+        "word": "美国网友提问9000万遗体去向",
+        "onboard_time": 1769258782,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 181396,
+        "num": 172679,
+        "word": "刘宇宁直播",
+        "onboard_time": 1769268204,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171901,
+        "num": 171901,
+        "word": "温瑞博男单夺冠",
+        "onboard_time": 1769262501,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155227,
+        "num": 155227,
+        "word": "俄罗斯最新涉华表态",
+        "onboard_time": 1769254100,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 30468,
+        "num": 152894,
+        "word": "26岁国企出纳赌掉千万公款",
+        "onboard_time": 1769268024,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 413276,
+        "num": 150595,
+        "word": "张元英直播",
+        "onboard_time": 1769263582,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202041,
+        "num": 148465,
+        "word": "国足",
+        "onboard_time": 1769245101,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175058,
+        "num": 146627,
+        "word": "太平年",
+        "onboard_time": 1769260701,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145293,
+        "num": 145293,
+        "word": "归鸾",
+        "onboard_time": 1769266762,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12107,
+        "num": 143999,
+        "word": "直击U23亚洲杯中日决赛",
+        "onboard_time": 1769268266,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143937,
+        "num": 143937,
+        "word": "被5岁儿子强忍恐惧施救妈妈发声",
+        "onboard_time": 1769251040,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132865,
+        "num": 132865,
+        "word": "薛凯琪春晚彩排戴了白云的帽子",
+        "onboard_time": 1769263102,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132609,
+        "num": 132609,
+        "word": "医院保洁扫地扫出40克金饰",
+        "onboard_time": 1769264121,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79394,
+        "num": 131620,
+        "word": "俄美乌三方谈完了",
+        "onboard_time": 1769267063,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 131162,
+        "num": 131162,
+        "word": "老虎在雪地睡觉把一片热化了",
+        "onboard_time": 1769266282,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 127099,
+        "num": 127099,
+        "word": "空气炸锅垫纸别非要挑大的买",
+        "onboard_time": 1769266762,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123274,
+        "num": 123274,
+        "word": "第一批爱熬夜的受害者出现了",
+        "onboard_time": 1769250080,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 122685,
+        "num": 122685,
+        "word": "王心凌你裙子闪到我了",
+        "onboard_time": 1769265802,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 119666,
+        "num": 119666,
+        "word": "周震南演唱会没有舞台",
+        "onboard_time": 1769254100,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 115615,
+        "num": 115615,
+        "word": "长大了揣两万才敢进肯德基",
+        "onboard_time": 1769251761,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112913,
+        "num": 112913,
+        "word": "张杰演唱会有常驻观众了",
+        "onboard_time": 1769263822,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 108174,
+        "num": 108174,
+        "word": "杀猪宴风波索要2000场地费老人发声",
+        "onboard_time": 1769262501,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108076,
+        "num": 108076,
+        "word": "祝绪丹 金枝玉叶具象化",
+        "onboard_time": 1769267964,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107211,
+        "num": 107211,
+        "word": "熬夜看U23国足",
+        "onboard_time": 1769267122,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39458,
+        "num": 106091,
+        "word": "母亲称3岁女儿洗浴中心泡澡后染病",
+        "onboard_time": 1769267543,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105230,
+        "num": 105230,
+        "word": "朱志鑫给左航盖毯子",
+        "onboard_time": 1769267665,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104753,
+        "num": 104753,
+        "word": "何不同舟渡",
+        "onboard_time": 1769259921,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103906,
+        "num": 103906,
+        "word": "拜合拉木身体不适替补",
+        "onboard_time": 1769265922,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97584,
+        "num": 97584,
+        "word": "你好星期六下期四周年团建",
+        "onboard_time": 1769263342,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96076,
+        "num": 96076,
+        "word": "张栋梁40岁甜男界顶流返场",
+        "onboard_time": 1769268146,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96054,
+        "num": 96054,
+        "word": "病亡女教师曾发文让花成花",
+        "onboard_time": 1769265203,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94352,
+        "num": 94352,
+        "word": "TWS中文歌舞台",
+        "onboard_time": 1769262624,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 91805,
+        "num": 91805,
+        "word": "亲爱的客栈众人送别白鹿",
+        "onboard_time": 1769257401,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87306,
+        "num": 87306,
+        "word": "WTT新加坡大满贯",
+        "onboard_time": 1769268146,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86154,
+        "num": 86154,
+        "word": "深圳医生为5岁西藏女孩修复容颜",
+        "onboard_time": 1769267665,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的12次开年第一课#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769265855023,
+  "endTime": 1769268508422,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -9,6 +9,14 @@
       "onboard_time": 1767195447,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15020348,
+      "num": 15020348,
+      "word": "U23国足vs日本",
+      "onboard_time": 1769191934,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 13350510,
@@ -2635,14 +2643,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 783452,
-      "num": 1125352,
-      "word": "U23国足vs日本",
-      "onboard_time": 1769191934,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 782520,
       "num": 695954,
       "word": "陈建斌曝李亚鹏晚上睡觉没有被子",
@@ -2761,6 +2761,14 @@
       "onboard_time": 1767483558,
       "rank": 40,
       "category": "美食"
+    },
+    {
+      "raw_hot": 767879,
+      "num": 297686,
+      "word": "女教师校内宿舍病亡两天后被发现",
+      "onboard_time": 1769264362,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 766973,
@@ -5092,7 +5100,7 @@
     },
     {
       "raw_hot": 561774,
-      "num": 1438984,
+      "num": 2498524,
       "word": "两个消失的顶流歌手都回归了",
       "onboard_time": 1769242282,
       "rank": 1,
@@ -9083,6 +9091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 413276,
+      "num": 208435,
+      "word": "张元英直播",
+      "onboard_time": 1769263582,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 412510,
       "num": 340856,
       "word": "iPhone18Pro灵动岛或变小",
@@ -11331,6 +11347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 354816,
+      "num": 253576,
+      "word": "太平年 牵羊礼",
+      "onboard_time": 1769264063,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 354737,
       "num": 790521,
       "word": "贺娇龙已安葬于昭苏公墓",
@@ -11521,14 +11545,6 @@
       "onboard_time": 1767931642,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 350972,
-      "num": 208435,
-      "word": "张元英直播",
-      "onboard_time": 1769263582,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 350526,
@@ -14523,14 +14539,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 290362,
-      "num": 290362,
-      "word": "女教师校内宿舍病亡两天后被发现",
-      "onboard_time": 1769264362,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 290136,
       "num": 290136,
       "word": "子阳道歉",
@@ -17065,14 +17073,6 @@
       "onboard_time": 1767600080,
       "rank": 8,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 253576,
-      "num": 253576,
-      "word": "太平年 牵羊礼",
-      "onboard_time": 1769264063,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 253407,
@@ -25139,6 +25139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 181396,
+      "num": 172679,
+      "word": "刘宇宁直播",
+      "onboard_time": 1767702081,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 181213,
       "num": 181213,
       "word": "李雪琴贴脸开大林更新",
@@ -25305,6 +25313,14 @@
       "onboard_time": 1767516803,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 180069,
+      "num": 180069,
+      "word": "美国涉中俄战略出现重大转变",
+      "onboard_time": 1769265501,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 179909,
@@ -25819,6 +25835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 176635,
+      "num": 176635,
+      "word": "日本进球",
+      "onboard_time": 1769268204,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 176611,
       "num": 167966,
       "word": "崩坏星穹铁道超话",
@@ -26297,6 +26321,14 @@
       "onboard_time": 1768279882,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 173423,
+      "num": 173423,
+      "word": "40岁男子吃鱼生后胆管爬满虫子",
+      "onboard_time": 1769266882,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 173372,
@@ -35763,14 +35795,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 132617,
-      "num": 132617,
-      "word": "美国涉中俄战略出现重大转变",
-      "onboard_time": 1769265501,
-      "rank": 36,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 132591,
       "num": 132591,
       "word": "你是彭于晏那我是谁",
@@ -36097,6 +36121,14 @@
       "onboard_time": 1768389141,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131162,
+      "num": 131162,
+      "word": "老虎在雪地睡觉把一片热化了",
+      "onboard_time": 1769266282,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 131156,
@@ -37497,6 +37529,14 @@
       "onboard_time": 1768017500,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 127099,
+      "num": 127099,
+      "word": "空气炸锅垫纸别非要挑大的买",
+      "onboard_time": 1769266762,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 127093,
@@ -39081,6 +39121,14 @@
       "onboard_time": 1769051840,
       "rank": 40,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 122685,
+      "num": 122685,
+      "word": "王心凌你裙子闪到我了",
+      "onboard_time": 1769265802,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 122667,
@@ -45219,6 +45267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 108076,
+      "num": 108076,
+      "word": "祝绪丹 金枝玉叶具象化",
+      "onboard_time": 1769267964,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 108068,
       "num": 108068,
       "word": "突然的喜欢女主就这样狮子小开口",
@@ -45569,6 +45625,14 @@
       "onboard_time": 1768145361,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 107211,
+      "num": 107211,
+      "word": "熬夜看U23国足",
+      "onboard_time": 1769267122,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 107207,
@@ -46675,6 +46739,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 105230,
+      "num": 105230,
+      "word": "朱志鑫给左航盖毯子",
+      "onboard_time": 1769267665,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 105227,
       "num": 105227,
       "word": "二月日历 强迫症狂喜",
@@ -47411,6 +47483,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 103906,
+      "num": 103906,
+      "word": "拜合拉木身体不适替补",
+      "onboard_time": 1769265922,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 103865,
       "num": 174456,
       "word": "Air手机界来了个真Pro",
@@ -47753,14 +47833,6 @@
       "onboard_time": 1768185139,
       "rank": 34,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 103362,
-      "num": 103362,
-      "word": "王心凌你裙子闪到我了",
-      "onboard_time": 1769265802,
-      "rank": 47,
-      "category": "演出"
     },
     {
       "raw_hot": 103360,
@@ -52067,6 +52139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 96076,
+      "num": 96076,
+      "word": "张栋梁40岁甜男界顶流返场",
+      "onboard_time": 1769268146,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 96052,
       "num": 136962,
       "word": "丁程鑫跳我是李飞的表情",
@@ -52609,14 +52689,6 @@
       "onboard_time": 1768898721,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 95230,
-      "num": 95230,
-      "word": "刘宇宁直播",
-      "onboard_time": 1767702081,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 95199,
@@ -58619,6 +58691,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 86154,
+      "num": 86154,
+      "word": "深圳医生为5岁西藏女孩修复容颜",
+      "onboard_time": 1769267665,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86147,
       "num": 87536,
       "word": "上海大雾",
@@ -62673,6 +62753,14 @@
       "onboard_time": 1768461860,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 79394,
+      "num": 131620,
+      "word": "俄美乌三方谈完了",
+      "onboard_time": 1769267063,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 79376,
@@ -68828,7 +68916,7 @@
     },
     {
       "raw_hot": 62824,
-      "num": 781549,
+      "num": 1959270,
       "word": "太空月季回来了",
       "onboard_time": 1769259621,
       "rank": 2,
@@ -74187,6 +74275,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 39458,
+      "num": 106091,
+      "word": "母亲称3岁女儿洗浴中心泡澡后染病",
+      "onboard_time": 1769267543,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39455,
       "num": 75333,
       "word": "钱芳萍坏但得到别墅",
@@ -76385,6 +76481,14 @@
       "onboard_time": 1768498576,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 30468,
+      "num": 152894,
+      "word": "26岁国企出纳赌掉千万公款",
+      "onboard_time": 1769268024,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30455,
@@ -80633,6 +80737,14 @@
       "onboard_time": 1768304362,
       "rank": 39,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 12107,
+      "num": 143999,
+      "word": "直击U23亚洲杯中日决赛",
+      "onboard_time": 1769268266,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 12088,
