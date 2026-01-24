@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769262576549,
+  "endTime": 1769264863747,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -417,6 +417,14 @@
       "onboard_time": 1767748102,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1878190,
+      "num": 448448,
+      "word": "林允 速效救心丸",
+      "onboard_time": 1769260942,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 1875992,
@@ -1176,14 +1184,6 @@
       "word": "白鹿给闺蜜呵呵买车",
       "onboard_time": 1767711022,
       "rank": 20,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1096640,
-      "num": 448448,
-      "word": "林允 速效救心丸",
-      "onboard_time": 1769260942,
-      "rank": 13,
       "category": "艺人"
     },
     {
@@ -2217,6 +2217,14 @@
       "onboard_time": 1769037497,
       "rank": 3,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 839506,
+      "num": 1134321,
+      "word": "亚洲杯",
+      "onboard_time": 1768951037,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 839474,
@@ -3697,14 +3705,6 @@
       "onboard_time": 1767843800,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 655700,
-      "num": 1104912,
-      "word": "亚洲杯",
-      "onboard_time": 1768951037,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 654030,
@@ -5953,6 +5953,14 @@
       "onboard_time": 1767953900,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 523122,
+      "num": 821121,
+      "word": "温瑞博男单夺冠",
+      "onboard_time": 1769262501,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 522400,
@@ -11075,6 +11083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 358613,
+      "num": 358613,
+      "word": "南京工业大学一黑天鹅被撞后死亡",
+      "onboard_time": 1769263102,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 358567,
       "num": 333151,
       "word": "管晨辰演短剧了",
@@ -12563,6 +12579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 325592,
+      "num": 750147,
+      "word": "平台已下架涉事娃娃菜商家商品",
+      "onboard_time": 1769258721,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 325248,
       "num": 325248,
       "word": "奔跑吧14要去很久没去的地方",
@@ -13707,14 +13731,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 304318,
-      "num": 750147,
-      "word": "平台已下架涉事娃娃菜商家商品",
-      "onboard_time": 1769258721,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 304212,
       "num": 304212,
       "word": "汉堡王就崩溃道歉",
@@ -14787,6 +14803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 283969,
+      "num": 283969,
+      "word": "U23国足vs日本U23首发",
+      "onboard_time": 1769263582,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 283940,
       "num": 283940,
       "word": "上班第一天被工位震惊了",
@@ -15057,6 +15081,14 @@
       "onboard_time": 1767258681,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 279883,
+      "num": 279883,
+      "word": "秦彻最受喜爱男角色",
+      "onboard_time": 1769263223,
+      "rank": 7,
+      "category": "游戏"
     },
     {
       "raw_hot": 279745,
@@ -16979,6 +17011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 254086,
+      "num": 254086,
+      "word": "薛凯琪春晚彩排戴了白云的帽子",
+      "onboard_time": 1769263102,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 253717,
       "num": 253717,
       "word": "李微漪发声",
@@ -17225,6 +17265,14 @@
       "onboard_time": 1769165781,
       "rank": 13,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 249794,
+      "num": 208435,
+      "word": "张元英直播",
+      "onboard_time": 1769263582,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 249685,
@@ -17633,6 +17681,14 @@
       "onboard_time": 1769162419,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 243713,
+      "num": 252545,
+      "word": "u23国足前往决赛球场",
+      "onboard_time": 1769261782,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 243636,
@@ -19873,6 +19929,14 @@
       "onboard_time": 1767926301,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 216917,
+      "num": 216917,
+      "word": "黄晓明新剧为艺术献身了",
+      "onboard_time": 1769262262,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 216857,
@@ -23955,6 +24019,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 187567,
+      "num": 185106,
+      "word": "张杰演唱会有常驻观众了",
+      "onboard_time": 1769263822,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 187542,
       "num": 160519,
       "word": "王铮亮参加快男被评委劝退",
@@ -24145,6 +24217,14 @@
       "onboard_time": 1767591622,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 186533,
+      "num": 186533,
+      "word": "浙ba",
+      "onboard_time": 1769263641,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 186517,
@@ -25081,6 +25161,14 @@
       "onboard_time": 1767662121,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 180817,
+      "num": 180817,
+      "word": "王赫野吉隆坡演唱会上座率",
+      "onboard_time": 1769264063,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 180802,
@@ -27123,6 +27211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 168042,
+      "num": 168042,
+      "word": "TWS中文歌舞台",
+      "onboard_time": 1769262624,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 168003,
       "num": 168003,
       "word": "什么是捂热病",
@@ -27201,6 +27297,14 @@
       "onboard_time": 1767198149,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 167503,
+      "num": 167503,
+      "word": "太平年 牵羊礼",
+      "onboard_time": 1769264063,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 167498,
@@ -30297,6 +30401,14 @@
       "onboard_time": 1768389982,
       "rank": 26,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 152240,
+      "num": 141255,
+      "word": "你好星期六下期四周年团建",
+      "onboard_time": 1769263342,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 152188,
@@ -34819,6 +34931,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 135204,
+      "num": 135204,
+      "word": "王钰栋首发出战",
+      "onboard_time": 1769264362,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 135197,
       "num": 135197,
       "word": "曝ShowMaker与女友就餐",
@@ -38267,14 +38387,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 124477,
-      "num": 124477,
-      "word": "黄晓明新剧为艺术献身了",
-      "onboard_time": 1769262262,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 124472,
       "num": 124472,
       "word": "xg",
@@ -39939,6 +40051,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 120299,
+      "num": 253202,
+      "word": "医院保洁扫地扫出40克金饰",
+      "onboard_time": 1769264121,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 120284,
       "num": 175810,
       "word": "iPhone18Pro系列影像测试配置",
@@ -41411,6 +41531,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 116468,
+      "num": 116468,
+      "word": "杀猪宴风波索要2000场地费老人发声",
+      "onboard_time": 1769262501,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116464,
       "num": 116464,
       "word": "DNF打团热身神曲来了",
@@ -41609,6 +41737,14 @@
       "onboard_time": 1768127780,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115886,
+      "num": 115886,
+      "word": "穆祉丞发开箱视频",
+      "onboard_time": 1769263881,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 115878,
@@ -46571,14 +46707,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 105067,
-      "num": 105067,
-      "word": "温瑞博男单夺冠",
-      "onboard_time": 1769262501,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 105066,
       "num": 105066,
       "word": "逆战未来开服直播",
@@ -49857,6 +49985,14 @@
       "onboard_time": 1768837999,
       "rank": 33,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 99204,
+      "num": 99204,
+      "word": "狼队飞车再夺冠",
+      "onboard_time": 1769264782,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 99202,
@@ -53216,6 +53352,14 @@
       "word": "十年前的宋威龙",
       "onboard_time": 1767870381,
       "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 93862,
+      "num": 93862,
+      "word": "段艺璇 财阀家的小女儿",
+      "onboard_time": 1769264723,
+      "rank": 48,
       "category": "艺人"
     },
     {
@@ -58489,6 +58633,14 @@
       "onboard_time": 1767312678,
       "rank": 6,
       "category": "数码"
+    },
+    {
+      "raw_hot": 86056,
+      "num": 95395,
+      "word": "温瑞博4比3弗朗西斯卡",
+      "onboard_time": 1769263161,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 86054,
@@ -65835,14 +65987,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 71517,
-      "num": 252545,
-      "word": "u23国足前往决赛球场",
-      "onboard_time": 1769261782,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 71483,
       "num": 205986,
       "word": "我是脱口秀演员蔡文静",
@@ -68611,6 +68755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 62824,
+      "num": 781549,
+      "word": "太空月季回来了",
+      "onboard_time": 1769259621,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 62715,
       "num": 429481,
       "word": "A股4100点",
@@ -69457,14 +69609,6 @@
       "onboard_time": 1767415947,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 59489,
-      "num": 781549,
-      "word": "太空月季回来了",
-      "onboard_time": 1769259621,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 59463,
@@ -75539,14 +75683,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 33261,
-      "num": 107865,
-      "word": "杀猪宴风波索要2000场地费老人发声",
-      "onboard_time": 1769262501,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 33229,
       "num": 104402,
       "word": "差点被美国的酒店斩杀了",
@@ -77649,6 +77785,14 @@
       "onboard_time": 1768239916,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 24647,
+      "num": 212598,
+      "word": "女教师校内宿舍病亡两天后被发现",
+      "onboard_time": 1769264362,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24580,

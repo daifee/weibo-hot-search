@@ -1,6 +1,6 @@
 {
   "startTime": 1769186467234,
-  "endTime": 1769262576549,
+  "endTime": 1769264863747,
   "band_list": [
     {
       "raw_hot": 7888209,
@@ -9,6 +9,14 @@
       "onboard_time": 1769238981,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1878190,
+      "num": 448448,
+      "word": "林允 速效救心丸",
+      "onboard_time": 1769260942,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 1875992,
@@ -35,14 +43,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1096640,
-      "num": 448448,
-      "word": "林允 速效救心丸",
-      "onboard_time": 1769260942,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 878214,
       "num": 216610,
       "word": "佘诗曼公布遗嘱细节",
@@ -57,6 +57,14 @@
       "onboard_time": 1769178741,
       "rank": 3,
       "category": "演出"
+    },
+    {
+      "raw_hot": 839506,
+      "num": 1134321,
+      "word": "亚洲杯",
+      "onboard_time": 1769250080,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 782520,
@@ -105,14 +113,6 @@
       "onboard_time": 1769258361,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 655700,
-      "num": 1104912,
-      "word": "亚洲杯",
-      "onboard_time": 1769250080,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 652089,
@@ -177,6 +177,14 @@
       "onboard_time": 1769223500,
       "rank": 0,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 523122,
+      "num": 821121,
+      "word": "温瑞博男单夺冠",
+      "onboard_time": 1769262501,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 521137,
@@ -339,6 +347,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 358613,
+      "num": 358613,
+      "word": "南京工业大学一黑天鹅被撞后死亡",
+      "onboard_time": 1769263102,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 352873,
       "num": 294499,
       "word": "孙千工作室向粉丝道歉",
@@ -435,6 +451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 325592,
+      "num": 750147,
+      "word": "平台已下架涉事娃娃菜商家商品",
+      "onboard_time": 1769258721,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 318730,
       "num": 146799,
       "word": "黄景瑜上太空 王一博天塌了",
@@ -464,14 +488,6 @@
       "word": "海底捞 点炮制度",
       "onboard_time": 1769172802,
       "rank": 4,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 304318,
-      "num": 750147,
-      "word": "平台已下架涉事娃娃菜商家商品",
-      "onboard_time": 1769258721,
-      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -521,6 +537,22 @@
       "onboard_time": 1769231481,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 283969,
+      "num": 283969,
+      "word": "U23国足vs日本U23首发",
+      "onboard_time": 1769263582,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 279883,
+      "num": 279883,
+      "word": "秦彻最受喜爱男角色",
+      "onboard_time": 1769263223,
+      "rank": 7,
+      "category": "游戏"
     },
     {
       "raw_hot": 277879,
@@ -603,6 +635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 254086,
+      "num": 254086,
+      "word": "薛凯琪春晚彩排戴了白云的帽子",
+      "onboard_time": 1769263102,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 252709,
       "num": 148518,
       "word": "蔡徐坤被鼓励 不说我走了是我出发了",
@@ -627,12 +667,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 249794,
+      "num": 208435,
+      "word": "张元英直播",
+      "onboard_time": 1769263582,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 248059,
       "num": 129950,
       "word": "女主大大方方男主羞羞答答",
       "onboard_time": 1769229319,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 243713,
+      "num": 252545,
+      "word": "u23国足前往决赛球场",
+      "onboard_time": 1769261782,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 242171,
@@ -737,6 +793,14 @@
       "onboard_time": 1769210177,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 216917,
+      "num": 216917,
+      "word": "黄晓明新剧为艺术献身了",
+      "onboard_time": 1769262262,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 214195,
@@ -851,6 +915,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 187567,
+      "num": 185106,
+      "word": "张杰演唱会有常驻观众了",
+      "onboard_time": 1769263822,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 186533,
+      "num": 186533,
+      "word": "浙ba",
+      "onboard_time": 1769263641,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 184638,
       "num": 130303,
       "word": "医生称淋巴瘤和恶性癌症是等同的",
@@ -873,6 +953,14 @@
       "onboard_time": 1769255781,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 180817,
+      "num": 180817,
+      "word": "王赫野吉隆坡演唱会上座率",
+      "onboard_time": 1769264063,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 177476,
@@ -931,6 +1019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 168042,
+      "num": 168042,
+      "word": "TWS中文歌舞台",
+      "onboard_time": 1769262624,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 168001,
       "num": 168001,
       "word": "央视转播U23国足与日本比赛",
@@ -945,6 +1041,14 @@
       "onboard_time": 1769209936,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 167503,
+      "num": 167503,
+      "word": "太平年 牵羊礼",
+      "onboard_time": 1769264063,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 165665,
@@ -1057,6 +1161,14 @@
       "onboard_time": 1769252660,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 152240,
+      "num": 141255,
+      "word": "你好星期六下期四周年团建",
+      "onboard_time": 1769263342,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 150332,
@@ -1243,6 +1355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 135204,
+      "num": 135204,
+      "word": "王钰栋首发出战",
+      "onboard_time": 1769264362,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 135001,
       "num": 127311,
       "word": "不知道 寂静岭的护士很曼妙",
@@ -1379,14 +1499,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 124477,
-      "num": 124477,
-      "word": "黄晓明新剧为艺术献身了",
-      "onboard_time": 1769262262,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 123057,
       "num": 123057,
       "word": "遛狗起冲突女子在警局被对方死亡威胁",
@@ -1451,6 +1563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 120299,
+      "num": 253202,
+      "word": "医院保洁扫地扫出40克金饰",
+      "onboard_time": 1769264121,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 120129,
       "num": 117457,
       "word": "突然的喜欢 拒绝月经羞耻",
@@ -1507,6 +1627,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 116468,
+      "num": 116468,
+      "word": "杀猪宴风波索要2000场地费老人发声",
+      "onboard_time": 1769262501,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116297,
       "num": 116297,
       "word": "北京台春晚幕后直播",
@@ -1528,6 +1656,14 @@
       "word": "朱志鑫05后霸总整顿职场",
       "onboard_time": 1769249182,
       "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 115886,
+      "num": 115886,
+      "word": "穆祉丞发开箱视频",
+      "onboard_time": 1769263881,
+      "rank": 38,
       "category": "艺人"
     },
     {
@@ -1739,14 +1875,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 105067,
-      "num": 105067,
-      "word": "温瑞博男单夺冠",
-      "onboard_time": 1769262501,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 104322,
       "num": 104322,
       "word": "范志毅谈U23制胜关键点",
@@ -1881,6 +2009,14 @@
       "onboard_time": 1769245401,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 99204,
+      "num": 99204,
+      "word": "狼队飞车再夺冠",
+      "onboard_time": 1769264782,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 99051,
@@ -2025,6 +2161,14 @@
       "onboard_time": 1769182580,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 93862,
+      "num": 93862,
+      "word": "段艺璇 财阀家的小女儿",
+      "onboard_time": 1769264723,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 93684,
@@ -2283,6 +2427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 86056,
+      "num": 95395,
+      "word": "温瑞博4比3弗朗西斯卡",
+      "onboard_time": 1769263161,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 86020,
       "num": 88682,
       "word": "U23国足主帅说相信自己很重要",
@@ -2320,6 +2472,14 @@
       "word": "U23国足迎战卫冕冠军日本",
       "onboard_time": 1769252540,
       "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 84940,
+      "num": 93632,
+      "word": "CBA",
+      "onboard_time": 1769264782,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -2835,14 +2995,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 71517,
-      "num": 252545,
-      "word": "u23国足前往决赛球场",
-      "onboard_time": 1769261782,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 70703,
       "num": 68138,
       "word": "春节档电影太顶了",
@@ -2931,6 +3083,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 62824,
+      "num": 781549,
+      "word": "太空月季回来了",
+      "onboard_time": 1769259621,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 62032,
       "num": 62032,
       "word": "张继科祝樊振东越来越好",
@@ -2953,14 +3113,6 @@
       "onboard_time": 1769219000,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 59489,
-      "num": 781549,
-      "word": "太空月季回来了",
-      "onboard_time": 1769259621,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 59448,
@@ -3251,14 +3403,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 33261,
-      "num": 107865,
-      "word": "杀猪宴风波索要2000场地费老人发声",
-      "onboard_time": 1769262501,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 33103,
       "num": 91176,
       "word": "日本四位前首相同框",
@@ -3393,6 +3537,14 @@
       "onboard_time": 1769249840,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 24647,
+      "num": 212598,
+      "word": "女教师校内宿舍病亡两天后被发现",
+      "onboard_time": 1769264362,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24061,
