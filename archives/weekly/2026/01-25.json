@@ -1,6 +1,6 @@
 {
   "startTime": 1769272464158,
-  "endTime": 1769294652706,
+  "endTime": 1769297274210,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -35,6 +35,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 774613,
+      "num": 774613,
+      "word": "U23国足0比4日本队",
+      "onboard_time": 1769274381,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 748716,
       "num": 748716,
       "word": "U23国足进球被吹",
@@ -49,6 +57,14 @@
       "onboard_time": 1769270666,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 679756,
+      "num": 61818,
+      "word": "王玉雯方停止突然的喜欢一切宣传工作",
+      "onboard_time": 1769296396,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 631249,
@@ -73,14 +89,6 @@
       "onboard_time": 1769264362,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 501628,
-      "num": 501628,
-      "word": "U23国足0比4日本队",
-      "onboard_time": 1769274381,
-      "rank": 6,
-      "category": "体育"
     },
     {
       "raw_hot": 458681,
@@ -515,6 +523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 60667,
+      "num": 60667,
+      "word": "300万元太空船票预售牵出学历风波",
+      "onboard_time": 1769294414,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57256,
       "num": 67053,
       "word": "詹俊解说",
@@ -529,6 +545,22 @@
       "onboard_time": 1769249960,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 49221,
+      "num": 49221,
+      "word": "爱一个人身体会有4个表现",
+      "onboard_time": 1769296996,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 47407,
+      "num": 47407,
+      "word": "为什么江浙沪吃的都很清淡",
+      "onboard_time": 1769296996,
+      "rank": 22,
+      "category": "美食"
     },
     {
       "raw_hot": 47193,
@@ -547,6 +579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 43339,
+      "num": 43339,
+      "word": "女生滑雪时摔倒手链断得满雪场都是",
+      "onboard_time": 1769257401,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43170,
       "num": 67040,
       "word": "小城大事",
@@ -555,12 +595,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 41556,
+      "num": 36551,
+      "word": "美国移民执法行动又致1人死亡",
+      "onboard_time": 1769296996,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 38193,
       "num": 66989,
       "word": "张碧晨带病飙高音",
       "onboard_time": 1769273724,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 37813,
+      "num": 36546,
+      "word": "保时捷女销冠称顾客超6成是女性",
+      "onboard_time": 1769297236,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37772,
@@ -595,6 +651,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 33761,
+      "num": 33761,
+      "word": "日本U23为U23国足列队鼓掌",
+      "onboard_time": 1769297117,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 33158,
+      "num": 33158,
+      "word": "把金毛舔到生气的耶耶",
+      "onboard_time": 1769297236,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 33002,
+      "num": 33002,
+      "word": "中国奥委会祝贺U23国足夺亚",
+      "onboard_time": 1769297117,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 30210,
       "num": 58332,
       "word": "TWS中文歌舞台",
@@ -603,8 +683,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 27947,
-      "num": 27947,
+      "raw_hot": 29645,
+      "num": 32973,
       "word": "肖战耐心听讲解",
       "onboard_time": 1769290454,
       "rank": 45,
@@ -617,6 +697,22 @@
       "onboard_time": 1769277736,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 26249,
+      "num": 32964,
+      "word": "迪丽热巴被圣光照拂的猫",
+      "onboard_time": 1769297177,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 25490,
+      "num": 32954,
+      "word": "太平年的口碑",
+      "onboard_time": 1769297117,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 25204,
@@ -635,6 +731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 22507,
+      "num": 32919,
+      "word": "只要拼了我就爱你",
+      "onboard_time": 1769297236,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 22441,
       "num": 36135,
       "word": "张桂源杨博文双人challenge",
@@ -651,28 +755,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 16864,
+      "num": 1464542,
+      "word": "奋进中国",
+      "onboard_time": 1769258901,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 16616,
       "num": 23456,
       "word": "归鸾",
       "onboard_time": 1769266762,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 16482,
-      "num": 20807,
-      "word": "300万元太空船票预售牵出学历风波",
-      "onboard_time": 1769294414,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 15557,
-      "num": 1464542,
-      "word": "奋进中国",
-      "onboard_time": 1769258901,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 15019,
