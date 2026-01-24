@@ -1,6 +1,6 @@
 {
   "startTime": 1768667567906,
-  "endTime": 1769237757644,
+  "endTime": 1769239655960,
   "band_list": [
     {
       "raw_hot": 9430476,
@@ -9,6 +9,14 @@
       "onboard_time": 1768729460,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 4658633,
+      "num": 4658633,
+      "word": "张又侠刘振立被立案调查",
+      "onboard_time": 1769238981,
+      "rank": 0,
+      "category": "国内时政"
     },
     {
       "raw_hot": 2732817,
@@ -2387,6 +2395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 441276,
+      "num": 1236580,
+      "word": "事业单位出纳6年贪4289万公款",
+      "onboard_time": 1769237661,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 441125,
       "num": 441125,
       "word": "影视项目 全男戏",
@@ -3995,6 +4011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 301766,
+      "num": 783062,
+      "word": "女子为治病卖劳力士账户被冻结",
+      "onboard_time": 1769235860,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 301625,
       "num": 301625,
       "word": "愤怒的小鸟重返中国",
@@ -4683,6 +4707,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 266578,
+      "num": 167766,
+      "word": "iPhone Air官方价格暴跌2000元",
+      "onboard_time": 1769237000,
+      "rank": 12,
+      "category": "数码"
+    },
+    {
       "raw_hot": 266300,
       "num": 219411,
       "word": "大学时期的卢昱晓",
@@ -4873,6 +4905,14 @@
       "onboard_time": 1768810822,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 255690,
+      "num": 155805,
+      "word": "猫 真有那么臭吗",
+      "onboard_time": 1769236101,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 255349,
@@ -6483,28 +6523,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 196710,
-      "num": 167766,
-      "word": "iPhone Air官方价格暴跌2000元",
-      "onboard_time": 1769237000,
-      "rank": 12,
-      "category": "数码"
-    },
-    {
       "raw_hot": 196311,
       "num": 196311,
       "word": "梁小龙离世前一天还与友人聚会",
       "onboard_time": 1768733482,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 196114,
-      "num": 783062,
-      "word": "女子为治病卖劳力士账户被冻结",
-      "onboard_time": 1769235860,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 196078,
@@ -6724,7 +6748,7 @@
     },
     {
       "raw_hot": 191099,
-      "num": 130929,
+      "num": 132740,
       "word": "女孩确诊白血病才发现自己非亲生",
       "onboard_time": 1769233759,
       "rank": 24,
@@ -8043,6 +8067,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 161189,
+      "num": 135240,
+      "word": "白鹿说自己身体大不如之前了",
+      "onboard_time": 1769238621,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 160993,
       "num": 110727,
       "word": "刘诗诗活动路透",
@@ -8268,7 +8300,7 @@
     },
     {
       "raw_hot": 156419,
-      "num": 120948,
+      "num": 136679,
       "word": "黄子韬宋祖儿居然合作过",
       "onboard_time": 1769237540,
       "rank": 24,
@@ -8313,14 +8345,6 @@
       "onboard_time": 1769068878,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 155805,
-      "num": 155805,
-      "word": "猫 真有那么臭吗",
-      "onboard_time": 1769236101,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 155369,
@@ -9907,6 +9931,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 131028,
+      "num": 131028,
+      "word": "邵子恒 素颜战神",
+      "onboard_time": 1769238621,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 130919,
       "num": 130919,
       "word": "iPhoneAir2新爆料",
@@ -9929,6 +9961,14 @@
       "onboard_time": 1768800862,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 130737,
+      "num": 130737,
+      "word": "时代峰峻严正声明",
+      "onboard_time": 1769238919,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 130626,
@@ -10603,6 +10643,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 123873,
+      "num": 107467,
+      "word": "叶一茜森碟簪花照",
+      "onboard_time": 1769239040,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 123828,
       "num": 140170,
       "word": "选美甲思路",
@@ -10648,6 +10696,14 @@
       "word": "日本最后2只大熊猫下周一回中国",
       "onboard_time": 1768796122,
       "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 123266,
+      "num": 132422,
+      "word": "云南三只小象遭虐待已求助三年",
+      "onboard_time": 1769237840,
+      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -11483,6 +11539,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 116062,
+      "num": 131258,
+      "word": "正式被确诊为饺子型人格",
+      "onboard_time": 1769235679,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 115992,
       "num": 204979,
       "word": "杨紫生命树敬礼转场",
@@ -11617,6 +11681,14 @@
       "onboard_time": 1768973600,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 114956,
+      "num": 105801,
+      "word": "车银优或被封杀",
+      "onboard_time": 1769239040,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 114928,
@@ -12739,6 +12811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105885,
+      "num": 105885,
+      "word": "金博洋短节目暂列第一",
+      "onboard_time": 1769239399,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 105582,
       "num": 119060,
       "word": "斩杀线获得许多美国网民的认同",
@@ -13211,6 +13291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 102724,
+      "num": 134556,
+      "word": "沈梦辰科普奢侈品尾单货都是假的",
+      "onboard_time": 1769239280,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 102630,
       "num": 102630,
       "word": "AL战胜WBG",
@@ -13433,6 +13521,14 @@
       "onboard_time": 1769067078,
       "rank": 47,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 101210,
+      "num": 101210,
+      "word": "做饭的人才知道汉尼拔多辛苦",
+      "onboard_time": 1769239340,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 101064,
@@ -14339,6 +14435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 96313,
+      "num": 136419,
+      "word": "TTG对战eStar",
+      "onboard_time": 1769238680,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 96274,
       "num": 190753,
       "word": "王楚钦的思归与坚守",
@@ -14937,6 +15041,14 @@
       "onboard_time": 1768782621,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93116,
+      "num": 93116,
+      "word": "JackeyLove看Bin双眼皮",
+      "onboard_time": 1769238800,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 93030,
@@ -16379,6 +16491,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 86536,
+      "num": 86536,
+      "word": "这些都是抗炎饮食",
+      "onboard_time": 1769233639,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 86394,
       "num": 86394,
       "word": "陶喆武汉站抢票",
@@ -17027,6 +17147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 83731,
+      "num": 83731,
+      "word": "这么小就懂行有行规了",
+      "onboard_time": 1769239340,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 83721,
       "num": 111197,
       "word": "男子见义勇为被杀儿子起诉被救女子",
@@ -17121,14 +17249,6 @@
       "onboard_time": 1769135479,
       "rank": 39,
       "category": "电影"
-    },
-    {
-      "raw_hot": 83269,
-      "num": 83269,
-      "word": "这些都是抗炎饮食",
-      "onboard_time": 1769233639,
-      "rank": 39,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 83249,
@@ -18731,6 +18851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 72250,
+      "num": 72250,
+      "word": "朱志鑫 倒立直播很简单",
+      "onboard_time": 1769239579,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 72249,
       "num": 83445,
       "word": "四川男篮vs广东男篮",
@@ -19081,14 +19209,6 @@
       "onboard_time": 1768921280,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 68362,
-      "num": 68362,
-      "word": "正式被确诊为饺子型人格",
-      "onboard_time": 1769235679,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 68350,
@@ -21292,7 +21412,7 @@
     },
     {
       "raw_hot": 35344,
-      "num": 637456,
+      "num": 1011575,
       "word": "中国专利的含金量满满",
       "onboard_time": 1769226619,
       "rank": 2,
@@ -22691,6 +22811,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 16588,
+      "num": 93758,
+      "word": "12306回应空气清洁问题",
+      "onboard_time": 1769239520,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 16579,
       "num": 27582,
       "word": "地磁暴会影响人的生物钟吗",
@@ -22955,19 +23083,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 11172,
+      "num": 105617,
+      "word": "专家澄清网传高铁车厢二氧化碳超标",
+      "onboard_time": 1769239520,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 10935,
       "num": 650827,
       "word": "2025年我国农业现代化水平持续提升",
       "onboard_time": 1769070381,
       "rank": 42,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 10656,
-      "num": 97683,
-      "word": "事业单位出纳6年贪4289万公款",
-      "onboard_time": 1769237661,
-      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -23009,6 +23137,14 @@
       "onboard_time": 1768799781,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 9187,
+      "num": 93326,
+      "word": "供水公司通报凤阳小区水质浑浊",
+      "onboard_time": 1769239520,
+      "rank": 39,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 8813,

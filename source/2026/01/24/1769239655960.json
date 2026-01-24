@@ -1,0 +1,410 @@
+{
+  "runTime": 1769239655960,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4658633,
+        "num": 4658633,
+        "word": "张又侠刘振立被立案调查",
+        "onboard_time": 1769238981,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 441276,
+        "num": 1236580,
+        "word": "事业单位出纳6年贪4289万公款",
+        "onboard_time": 1769237661,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25698,
+        "num": 1011575,
+        "word": "中国专利的含金量满满",
+        "onboard_time": 1769226619,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 301766,
+        "num": 301766,
+        "word": "女子为治病卖劳力士账户被冻结",
+        "onboard_time": 1769235860,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150753,
+        "num": 150753,
+        "word": "庾澄庆说有幸被肖战重新演绎",
+        "onboard_time": 1769234661,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 255690,
+        "num": 149980,
+        "word": "猫 真有那么臭吗",
+        "onboard_time": 1769236101,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 148644,
+        "num": 148644,
+        "word": "白宫晒特朗普格陵兰牵企鹅照翻车",
+        "onboard_time": 1769223379,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 136679,
+        "num": 136679,
+        "word": "黄子韬宋祖儿居然合作过",
+        "onboard_time": 1769237540,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112074,
+        "num": 136583,
+        "word": "外卖发展成这样了",
+        "onboard_time": 1769223979,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 96313,
+        "num": 136419,
+        "word": "TTG对战eStar",
+        "onboard_time": 1769238680,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 393193,
+        "num": 136301,
+        "word": "佘诗曼公布遗嘱细节",
+        "onboard_time": 1769232860,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 344110,
+        "num": 136182,
+        "word": "新疆雪豹伤人事发画面曝光",
+        "onboard_time": 1769234481,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 266578,
+        "num": 135958,
+        "word": "iPhone Air官方价格暴跌2000元",
+        "onboard_time": 1769237000,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 235778,
+        "num": 135826,
+        "word": "黄景瑜已开始接受相关训练",
+        "onboard_time": 1769232800,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22279,
+        "num": 135627,
+        "word": "天冷请到抖音商城年货节加衣",
+        "onboard_time": 1769234601,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 173556,
+        "num": 135508,
+        "word": "王鹤棣曝范丞丞放节目组鸽子",
+        "onboard_time": 1769233879,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161809,
+        "num": 135417,
+        "word": "Angelababy好久没录综艺了",
+        "onboard_time": 1769232740,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135284,
+        "num": 135284,
+        "word": "00后真的是各过各的",
+        "onboard_time": 1769224878,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 161189,
+        "num": 135240,
+        "word": "白鹿说自己身体大不如之前了",
+        "onboard_time": 1769238621,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102724,
+        "num": 134556,
+        "word": "沈梦辰科普奢侈品尾单货都是假的",
+        "onboard_time": 1769239280,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148733,
+        "num": 134154,
+        "word": "谷爱凌说美国已经有代表了",
+        "onboard_time": 1769231240,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 433522,
+        "num": 133789,
+        "word": "车银优或被判刑",
+        "onboard_time": 1769230579,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 430857,
+        "num": 133352,
+        "word": "卢昱晓10个月瘦了一大圈",
+        "onboard_time": 1769232440,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139705,
+        "num": 132740,
+        "word": "女孩确诊白血病才发现自己非亲生",
+        "onboard_time": 1769233759,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123266,
+        "num": 132422,
+        "word": "云南三只小象遭虐待已求助三年",
+        "onboard_time": 1769237840,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179404,
+        "num": 131649,
+        "word": "卢凌风你的大唐完了",
+        "onboard_time": 1769231481,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131637,
+        "num": 131637,
+        "word": "TOP8小时直播",
+        "onboard_time": 1769231599,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116062,
+        "num": 131258,
+        "word": "正式被确诊为饺子型人格",
+        "onboard_time": 1769235679,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 131028,
+        "num": 131028,
+        "word": "邵子恒 素颜战神",
+        "onboard_time": 1769238621,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130737,
+        "num": 130737,
+        "word": "时代峰峻严正声明",
+        "onboard_time": 1769238919,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109219,
+        "num": 109219,
+        "word": "美国网友被白宫气笑了",
+        "onboard_time": 1769236520,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 186099,
+        "num": 107999,
+        "word": "梓渝工作室vlog",
+        "onboard_time": 1769230821,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123873,
+        "num": 107467,
+        "word": "叶一茜森碟簪花照",
+        "onboard_time": 1769239040,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105885,
+        "num": 105885,
+        "word": "金博洋短节目暂列第一",
+        "onboard_time": 1769239399,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114956,
+        "num": 105801,
+        "word": "车银优或被封杀",
+        "onboard_time": 1769239040,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 11172,
+        "num": 105617,
+        "word": "专家澄清网传高铁车厢二氧化碳超标",
+        "onboard_time": 1769239520,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105557,
+        "num": 105557,
+        "word": "爱与不爱真的很明显",
+        "onboard_time": 1769220798,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 101210,
+        "num": 101210,
+        "word": "做饭的人才知道汉尼拔多辛苦",
+        "onboard_time": 1769239340,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 16588,
+        "num": 93758,
+        "word": "12306回应空气清洁问题",
+        "onboard_time": 1769239520,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 9187,
+        "num": 93326,
+        "word": "供水公司通报凤阳小区水质浑浊",
+        "onboard_time": 1769239520,
+        "rank": 39,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 93116,
+        "num": 93116,
+        "word": "JackeyLove看Bin双眼皮",
+        "onboard_time": 1769238800,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 91643,
+        "num": 91643,
+        "word": "花儿与少年8",
+        "onboard_time": 1769217378,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88055,
+        "num": 88055,
+        "word": "狼队处罚邹云辉",
+        "onboard_time": 1769235440,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 86536,
+        "num": 86536,
+        "word": "这些都是抗炎饮食",
+        "onboard_time": 1769233639,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 83731,
+        "num": 83731,
+        "word": "这么小就懂行有行规了",
+        "onboard_time": 1769239340,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 83340,
+        "num": 83340,
+        "word": "肖战刘宇宁檀健次北京卫视春晚彩排",
+        "onboard_time": 1769235740,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74413,
+        "num": 74413,
+        "word": "叶童没想到乘风还有后续",
+        "onboard_time": 1769235200,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 73559,
+        "num": 73559,
+        "word": "买钻戒送银杯如今身价被反超",
+        "onboard_time": 1769230579,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 72488,
+        "num": 72488,
+        "word": "建议长期久坐的人这样吃饭",
+        "onboard_time": 1769229200,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 72250,
+        "num": 72250,
+        "word": "朱志鑫 倒立直播很简单",
+        "onboard_time": 1769239579,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#赓续中华文脉谱写时代华章#"
+    }
+  }
+}
