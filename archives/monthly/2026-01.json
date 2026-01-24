@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769269362314,
+  "endTime": 1769272464158,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -2635,6 +2635,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 789132,
+      "num": 2323529,
+      "word": "日本队 小动作",
+      "onboard_time": 1769270426,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 788948,
       "num": 1126231,
       "word": "住房公积金制度改革",
@@ -3281,6 +3289,14 @@
       "onboard_time": 1769229200,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 704278,
+      "num": 287890,
+      "word": "拜合拉木",
+      "onboard_time": 1769270666,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 704277,
@@ -8515,6 +8531,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 433705,
+      "num": 433705,
+      "word": "u23国足半场0比2日本",
+      "onboard_time": 1769270843,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 433651,
       "num": 424869,
       "word": "创造营卡位选手自曝长期无收入",
@@ -10475,6 +10499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 374588,
+      "num": 374588,
+      "word": "我们的少年时代2拍摄周期",
+      "onboard_time": 1769270544,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 374238,
       "num": 323071,
       "word": "英国人在中国暴食后喜提急诊",
@@ -12272,6 +12304,14 @@
       "word": "请1400万网红带货成交4单男子发声",
       "onboard_time": 1767841640,
       "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 332785,
+      "num": 332785,
+      "word": "40岁男子吃鱼生后胆管爬满虫子",
+      "onboard_time": 1769266882,
+      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -14475,12 +14515,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 292202,
+      "num": 292202,
+      "word": "U23男足0比2落后",
+      "onboard_time": 1769268864,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 291960,
       "num": 213142,
       "word": "嫣然天使基金预算已筹满",
       "onboard_time": 1768810581,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 291931,
+      "num": 291931,
+      "word": "日本队6号",
+      "onboard_time": 1769270902,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 291866,
@@ -17507,6 +17563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 247751,
+      "num": 247751,
+      "word": "拜合拉木 上不了",
+      "onboard_time": 1769271683,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 247621,
       "num": 1005141,
       "word": "2026年生娃基本不花钱",
@@ -19219,6 +19283,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 224034,
+      "num": 224034,
+      "word": "u23国足稳住",
+      "onboard_time": 1769269463,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 223867,
       "num": 208517,
       "word": "五哈6",
@@ -19768,14 +19840,6 @@
       "word": "女子撞见闺蜜和前男友后难接受跳楼",
       "onboard_time": 1768434019,
       "rank": 22,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 219039,
-      "num": 219039,
-      "word": "40岁男子吃鱼生后胆管爬满虫子",
-      "onboard_time": 1769266882,
-      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -20961,14 +21025,6 @@
       "onboard_time": 1767589643,
       "rank": 20,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 207338,
-      "num": 207338,
-      "word": "U23男足0比2落后",
-      "onboard_time": 1769268864,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 207254,
@@ -26147,6 +26203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 174823,
+      "num": 174823,
+      "word": "日本队点球破门",
+      "onboard_time": 1769271983,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 174822,
       "num": 174822,
       "word": "宋威龙 雷霆泳姿",
@@ -29945,6 +30009,14 @@
       "onboard_time": 1768103420,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 154951,
+      "num": 154951,
+      "word": "U23国足进球被吹",
+      "onboard_time": 1769272340,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 154907,
@@ -40675,6 +40747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 118946,
+      "num": 118946,
+      "word": "折射破门",
+      "onboard_time": 1769271862,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 118928,
       "num": 109905,
       "word": "李现报名金像奖最佳男配",
@@ -41361,6 +41441,14 @@
       "onboard_time": 1768460360,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 117206,
+      "num": 117206,
+      "word": "太平年改了台词",
+      "onboard_time": 1769269827,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 117197,
@@ -53419,6 +53507,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 94066,
+      "num": 106091,
+      "word": "母亲称3岁女儿洗浴中心泡澡后染病",
+      "onboard_time": 1769267543,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94040,
       "num": 94040,
       "word": "贺娇龙被质疑想当网红时突然哽塞",
@@ -53569,6 +53665,14 @@
       "onboard_time": 1768834222,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93807,
+      "num": 93807,
+      "word": "u23国足首发身价高于日本",
+      "onboard_time": 1769270006,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 93803,
@@ -54905,6 +55009,14 @@
       "onboard_time": 1768794620,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 91800,
+      "num": 91800,
+      "word": "隋文静韩聪亚军",
+      "onboard_time": 1769270602,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 91778,
@@ -64451,6 +64563,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 75739,
+      "num": 81435,
+      "word": "U23国足不放弃",
+      "onboard_time": 1769272102,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 75709,
       "num": 225026,
       "word": "全球重申一个中国原则",
@@ -66179,6 +66299,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 71517,
+      "num": 90712,
+      "word": "沙特机场中国人多到包机",
+      "onboard_time": 1769271623,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 71483,
       "num": 205986,
       "word": "我是脱口秀演员蔡文静",
@@ -67113,6 +67241,14 @@
       "onboard_time": 1768114401,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 68601,
+      "num": 81433,
+      "word": "AI预测U23国足或爆冷夺冠",
+      "onboard_time": 1769270245,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 68569,
@@ -74313,14 +74449,6 @@
       "onboard_time": 1769124019,
       "rank": 44,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 39458,
-      "num": 106091,
-      "word": "母亲称3岁女儿洗浴中心泡澡后染病",
-      "onboard_time": 1769267543,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 39455,
