@@ -1,6 +1,6 @@
 {
   "startTime": 1769272464158,
-  "endTime": 1769297274210,
+  "endTime": 1769298109528,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -17,6 +17,14 @@
       "onboard_time": 1769273663,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1208306,
+      "num": 73579,
+      "word": "王玉雯方停止突然的喜欢一切宣传工作",
+      "onboard_time": 1769296396,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 1020803,
@@ -36,7 +44,7 @@
     },
     {
       "raw_hot": 774613,
-      "num": 774613,
+      "num": 794901,
       "word": "U23国足0比4日本队",
       "onboard_time": 1769274381,
       "rank": 6,
@@ -57,14 +65,6 @@
       "onboard_time": 1769270666,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 679756,
-      "num": 61818,
-      "word": "王玉雯方停止突然的喜欢一切宣传工作",
-      "onboard_time": 1769296396,
-      "rank": 10,
-      "category": "剧集"
     },
     {
       "raw_hot": 631249,
@@ -243,6 +243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 163927,
+      "num": 72525,
+      "word": "周雨彤 观众缘",
+      "onboard_time": 1769297658,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 162416,
       "num": 162416,
       "word": "美国网友提问9000万遗体去向",
@@ -281,6 +289,14 @@
       "onboard_time": 1769250080,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 129627,
+      "num": 54200,
+      "word": "中国对日本提出越来越高的惩戒",
+      "onboard_time": 1769297837,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 126561,
@@ -435,6 +451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 78053,
+      "num": 69741,
+      "word": "女生滑雪时摔倒手链断得满雪场都是",
+      "onboard_time": 1769257401,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 76589,
       "num": 120955,
       "word": "亚洲杯",
@@ -483,6 +507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 74034,
+      "num": 74034,
+      "word": "300万元太空船票预售牵出学历风波",
+      "onboard_time": 1769294414,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 72832,
       "num": 81435,
       "word": "张杰演唱会有常驻观众了",
@@ -499,12 +531,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 68726,
+      "num": 68726,
+      "word": "U23国足球员向球迷致歉",
+      "onboard_time": 1769297837,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 68601,
       "num": 81433,
       "word": "AI预测U23国足或爆冷夺冠",
       "onboard_time": 1769270245,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 67945,
+      "num": 67945,
+      "word": "睡眠小于6小时炎症和癌症风险双升高",
+      "onboard_time": 1769297718,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 67691,
@@ -515,6 +563,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 67332,
+      "num": 53256,
+      "word": "保时捷女销冠称顾客超6成是女性",
+      "onboard_time": 1769297236,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 66710,
+      "num": 66710,
+      "word": "被劝退歌手拿了全场最高分",
+      "onboard_time": 1769297777,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 63251,
       "num": 63251,
       "word": "继续陪中国足球走下去",
@@ -523,12 +587,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 60667,
-      "num": 60667,
-      "word": "300万元太空船票预售牵出学历风波",
-      "onboard_time": 1769294414,
-      "rank": 47,
-      "category": "民生新闻"
+      "raw_hot": 60738,
+      "num": 60738,
+      "word": "爱一个人身体会有4个表现",
+      "onboard_time": 1769296996,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 60346,
+      "num": 60346,
+      "word": "为什么江浙沪吃的都很清淡",
+      "onboard_time": 1769296996,
+      "rank": 22,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 58921,
+      "num": 58921,
+      "word": "相信下一届国足会更好",
+      "onboard_time": 1769298018,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 57256,
@@ -539,28 +619,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 56829,
+      "num": 56829,
+      "word": "杀猪宴风波索要2000场地费老人发声",
+      "onboard_time": 1769262501,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 54723,
+      "num": 54723,
+      "word": "胡荷韬向球迷说抱歉",
+      "onboard_time": 1769297837,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 49451,
       "num": 67092,
       "word": "突然的喜欢",
       "onboard_time": 1769249960,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 49221,
-      "num": 49221,
-      "word": "爱一个人身体会有4个表现",
-      "onboard_time": 1769296996,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 47407,
-      "num": 47407,
-      "word": "为什么江浙沪吃的都很清淡",
-      "onboard_time": 1769296996,
-      "rank": 22,
-      "category": "美食"
     },
     {
       "raw_hot": 47193,
@@ -579,12 +659,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 43339,
-      "num": 43339,
-      "word": "女生滑雪时摔倒手链断得满雪场都是",
-      "onboard_time": 1769257401,
-      "rank": 24,
-      "category": "民生新闻"
+      "raw_hot": 43587,
+      "num": 43587,
+      "word": "日本U23为U23国足列队鼓掌",
+      "onboard_time": 1769297117,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 43558,
+      "num": 43558,
+      "word": "把金毛舔到生气的耶耶",
+      "onboard_time": 1769297236,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 43170,
@@ -596,11 +684,35 @@
     },
     {
       "raw_hot": 41556,
-      "num": 36551,
+      "num": 40473,
       "word": "美国移民执法行动又致1人死亡",
       "onboard_time": 1769296996,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 41121,
+      "num": 41121,
+      "word": "曝林允在归鸾剧组冻了十几个小时",
+      "onboard_time": 1769297777,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 39310,
+      "num": 39310,
+      "word": "迪丽热巴被圣光照拂的猫",
+      "onboard_time": 1769297177,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 39221,
+      "num": 39221,
+      "word": "太平年的口碑",
+      "onboard_time": 1769297117,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 38193,
@@ -609,14 +721,6 @@
       "onboard_time": 1769273724,
       "rank": 47,
       "category": "演出"
-    },
-    {
-      "raw_hot": 37813,
-      "num": 36546,
-      "word": "保时捷女销冠称顾客超6成是女性",
-      "onboard_time": 1769297236,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 37772,
@@ -651,20 +755,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 33761,
-      "num": 33761,
-      "word": "日本U23为U23国足列队鼓掌",
-      "onboard_time": 1769297117,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 33158,
-      "num": 33158,
-      "word": "把金毛舔到生气的耶耶",
-      "onboard_time": 1769297236,
-      "rank": 35,
-      "category": "幽默"
+      "raw_hot": 33008,
+      "num": 33008,
+      "word": "肖战耐心听讲解",
+      "onboard_time": 1769290454,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 33002,
@@ -672,6 +768,14 @@
       "word": "中国奥委会祝贺U23国足夺亚",
       "onboard_time": 1769297117,
       "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 32957,
+      "num": 32957,
+      "word": "越位",
+      "onboard_time": 1769298077,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -683,14 +787,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 29645,
-      "num": 32973,
-      "word": "肖战耐心听讲解",
-      "onboard_time": 1769290454,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 27944,
       "num": 36276,
       "word": "U23男足亚洲杯亚军",
@@ -699,20 +795,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 26249,
-      "num": 32964,
-      "word": "迪丽热巴被圣光照拂的猫",
-      "onboard_time": 1769297177,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 25490,
-      "num": 32954,
-      "word": "太平年的口碑",
-      "onboard_time": 1769297117,
-      "rank": 43,
-      "category": "剧集"
+      "raw_hot": 27629,
+      "num": 73902,
+      "word": "国家体育总局向U23国足致贺信",
+      "onboard_time": 1769297297,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 25204,
@@ -755,7 +843,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 16864,
+      "raw_hot": 16907,
       "num": 1464542,
       "word": "奋进中国",
       "onboard_time": 1769258901,
