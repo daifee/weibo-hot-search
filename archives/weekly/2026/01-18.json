@@ -1,6 +1,6 @@
 {
   "startTime": 1768667567906,
-  "endTime": 1769247765523,
+  "endTime": 1769250610429,
   "band_list": [
     {
       "raw_hot": 9430476,
@@ -1145,6 +1145,14 @@
       "onboard_time": 1768706059,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 652089,
+      "num": 109879,
+      "word": "angelababy直发烟熏妆造型",
+      "onboard_time": 1769247321,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 647931,
@@ -3803,6 +3811,14 @@
       "category": "民生新闻,剧集"
     },
     {
+      "raw_hot": 318702,
+      "num": 109614,
+      "word": "时代少年团直播",
+      "onboard_time": 1769249602,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 318297,
       "num": 318297,
       "word": "去年全国人均可支配收入43377元",
@@ -4907,12 +4923,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 259380,
+      "num": 259380,
+      "word": "U23亚洲杯国足赛前喊话太燃了",
+      "onboard_time": 1769245281,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 259373,
       "num": 226943,
       "word": "骄阳似我庆功宴是婚礼的场地",
       "onboard_time": 1768713980,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 257812,
+      "num": 179030,
+      "word": "沈腾 什么是伸出圆手",
+      "onboard_time": 1769246360,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 257128,
@@ -5184,14 +5216,6 @@
       "word": "代旭居然是宋轶张睿陈小芸同班同学",
       "onboard_time": 1769162419,
       "rank": 30,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 242827,
-      "num": 102565,
-      "word": "angelababy直发烟熏妆造型",
-      "onboard_time": 1769247321,
-      "rank": 24,
       "category": "艺人"
     },
     {
@@ -5641,6 +5665,14 @@
       "onboard_time": 1769048840,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 225215,
+      "num": 108837,
+      "word": "谁把张极的鸡偷了",
+      "onboard_time": 1769249662,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 224922,
@@ -7323,14 +7355,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 179030,
-      "num": 179030,
-      "word": "沈腾 什么是伸出圆手",
-      "onboard_time": 1769246360,
-      "rank": 22,
-      "category": "电影"
-    },
-    {
       "raw_hot": 178849,
       "num": 178849,
       "word": "赵今麦miumiu活动出图",
@@ -7771,6 +7795,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 170170,
+      "num": 170170,
+      "word": "刘浩存马年春晚彩排",
+      "onboard_time": 1769247321,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 169989,
       "num": 169989,
       "word": "张杰未live巡回演唱会",
@@ -8073,6 +8105,14 @@
       "onboard_time": 1768893261,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 163781,
+      "num": 163781,
+      "word": "结一次婚大概需要多少钱",
+      "onboard_time": 1769248582,
+      "rank": 7,
+      "category": "情感"
     },
     {
       "raw_hot": 163509,
@@ -9091,6 +9131,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 145754,
+      "num": 145754,
+      "word": "王欣瑜vs诺斯科娃",
+      "onboard_time": 1769245641,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 145698,
       "num": 212317,
       "word": "金价还能涨多少",
@@ -9233,14 +9281,6 @@
       "onboard_time": 1768727600,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 143898,
-      "num": 143898,
-      "word": "U23亚洲杯国足赛前喊话太燃了",
-      "onboard_time": 1769245281,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 143681,
@@ -11723,12 +11763,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 116297,
+      "num": 116297,
+      "word": "北京台春晚幕后直播",
+      "onboard_time": 1769248341,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 116243,
       "num": 182106,
       "word": "狼队处罚邹云辉",
       "onboard_time": 1769235440,
       "rank": 16,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 116224,
+      "num": 104472,
+      "word": "朱志鑫05后霸总整顿职场",
+      "onboard_time": 1769249182,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 116101,
+      "num": 104111,
+      "word": "第一批爱熬夜的受害者出现了",
+      "onboard_time": 1769250080,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 115992,
@@ -12395,6 +12459,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 110270,
+      "num": 110270,
+      "word": "亚洲杯",
+      "onboard_time": 1768951037,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 110256,
       "num": 137124,
       "word": "包钢板材厂爆炸致2死5失联66送医",
@@ -13051,14 +13123,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 105493,
-      "num": 105493,
-      "word": "王欣瑜vs诺斯科娃",
-      "onboard_time": 1769245641,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 105460,
       "num": 98222,
       "word": "黄景瑜你是真的要上天啊",
@@ -13161,14 +13225,6 @@
       "onboard_time": 1768872260,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 104985,
-      "num": 93117,
-      "word": "刘浩存马年春晚彩排",
-      "onboard_time": 1769247321,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 104956,
@@ -13505,6 +13561,14 @@
       "onboard_time": 1768988782,
       "rank": 37,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 102922,
+      "num": 102922,
+      "word": "直观感受到女生的钱都花在哪了",
+      "onboard_time": 1769247620,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 102902,
@@ -14483,6 +14547,14 @@
       "category": "体育,互联网"
     },
     {
+      "raw_hot": 97601,
+      "num": 97601,
+      "word": "为什么睡觉时想把脚伸出被子",
+      "onboard_time": 1769247921,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 97593,
       "num": 97593,
       "word": "金饰克价一夜跌3元",
@@ -14768,6 +14840,14 @@
       "word": "第一次见会跳绳的小猫",
       "onboard_time": 1768826902,
       "rank": 35,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 95890,
+      "num": 95890,
+      "word": "怕堵车可以拿一只口红在手里",
+      "onboard_time": 1769250500,
+      "rank": 40,
       "category": "幽默"
     },
     {
@@ -16123,6 +16203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 89669,
+      "num": 89669,
+      "word": "王欣瑜将迎战阿尼西莫娃",
+      "onboard_time": 1769250380,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 89598,
       "num": 89598,
       "word": "金银大涨后下一个会是铜吗",
@@ -16379,6 +16467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 88128,
+      "num": 88128,
+      "word": "王欣瑜首进澳网女单16强",
+      "onboard_time": 1769250500,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 88122,
       "num": 134719,
       "word": "代旭在拍秦谜",
@@ -16625,6 +16721,14 @@
       "onboard_time": 1768990101,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 87030,
+      "num": 87030,
+      "word": "王欣瑜澳网最佳战绩",
+      "onboard_time": 1769249901,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 87025,
@@ -17363,14 +17467,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 84157,
-      "num": 88267,
-      "word": "直观感受到女生的钱都花在哪了",
-      "onboard_time": 1769247620,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 84077,
       "num": 84077,
       "word": "蔡徐坤新专辑",
@@ -17555,6 +17651,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 83382,
+      "num": 83382,
+      "word": "iOS26.4前瞻",
+      "onboard_time": 1769247141,
+      "rank": 47,
+      "category": "数码"
+    },
+    {
       "raw_hot": 83355,
       "num": 81691,
       "word": "申浩男新剧阴湿男味太对了",
@@ -17593,6 +17697,14 @@
       "onboard_time": 1768916122,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 83203,
+      "num": 83203,
+      "word": "王欣瑜2比0诺斯科娃",
+      "onboard_time": 1769250560,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 83111,
@@ -18867,14 +18979,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 75723,
-      "num": 75723,
-      "word": "亚洲杯",
-      "onboard_time": 1768951037,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 75684,
       "num": 92758,
       "word": "近3000架次航班被取消在美华人发声",
@@ -19961,6 +20065,14 @@
       "onboard_time": 1768779439,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 64800,
+      "num": 97321,
+      "word": "范志毅吐槽说唱歌手",
+      "onboard_time": 1769250322,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 64786,
@@ -21219,6 +21331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 45981,
+      "num": 96504,
+      "word": "美国三分之二人口面临极寒",
+      "onboard_time": 1769249719,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 45796,
       "num": 91103,
       "word": "电影马腾你别走",
@@ -21593,6 +21713,14 @@
       "onboard_time": 1768692976,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 39840,
+      "num": 155162,
+      "word": "U23国足决赛前最后一练",
+      "onboard_time": 1769249422,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 39734,
@@ -22531,6 +22659,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 25640,
+      "num": 110195,
+      "word": "美官员披露美航母打击群抵达印度洋",
+      "onboard_time": 1769249840,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 25557,
       "num": 236033,
       "word": "猝死程序员备忘录曾写要体谅下属",
@@ -23211,6 +23347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 18813,
+      "num": 97082,
+      "word": "全网犬子犬女都在看重返狼群",
+      "onboard_time": 1769250441,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 18810,
       "num": 78406,
       "word": "5名00后赶到杭州赏雪被冻在山上",
@@ -23225,6 +23369,14 @@
       "onboard_time": 1769239520,
       "rank": 39,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 18569,
+      "num": 96309,
+      "word": "我没招了我需要一个喵娲娲",
+      "onboard_time": 1769248820,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 18401,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1769250610429,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1906431,
+        "num": 1906431,
+        "word": "张又侠刘振立被立案调查",
+        "onboard_time": 1769238981,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 462834,
+        "num": 936807,
+        "word": "两个消失的顶流歌手都回归了",
+        "onboard_time": 1769242282,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 4205,
+        "num": 748179,
+        "word": "冰雪春天",
+        "onboard_time": 1769142382,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 259380,
+        "num": 259380,
+        "word": "U23亚洲杯国足赛前喊话太燃了",
+        "onboard_time": 1769245281,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 226396,
+        "num": 226396,
+        "word": "以为是山没想到是她的裙子",
+        "onboard_time": 1769240000,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207028,
+        "num": 207028,
+        "word": "女子在胖东来花100多万买金条",
+        "onboard_time": 1769242582,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170170,
+        "num": 170170,
+        "word": "刘浩存马年春晚彩排",
+        "onboard_time": 1769247321,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163781,
+        "num": 163781,
+        "word": "结一次婚大概需要多少钱",
+        "onboard_time": 1769248582,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161783,
+        "num": 161783,
+        "word": "专家称日本想打的不是一般小仗",
+        "onboard_time": 1769239640,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 39840,
+        "num": 155162,
+        "word": "U23国足决赛前最后一练",
+        "onboard_time": 1769249422,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 257812,
+        "num": 155090,
+        "word": "沈腾 什么是伸出圆手",
+        "onboard_time": 1769246360,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 181149,
+        "num": 155049,
+        "word": "iPhone Air官方价格暴跌2000元",
+        "onboard_time": 1769237000,
+        "rank": 11,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 154836,
+        "num": 154836,
+        "word": "原来毛衣起球刷刷就好了",
+        "onboard_time": 1769241201,
+        "rank": 12,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 145754,
+        "num": 145754,
+        "word": "王欣瑜vs诺斯科娃",
+        "onboard_time": 1769245641,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142955,
+        "num": 142955,
+        "word": "猫 真有那么臭吗",
+        "onboard_time": 1769236101,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 133251,
+        "num": 133251,
+        "word": "林孝埈给中国短道的礼物",
+        "onboard_time": 1769243242,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127021,
+        "num": 127021,
+        "word": "云南三只小象遭虐待已求助三年",
+        "onboard_time": 1769237840,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116297,
+        "num": 116297,
+        "word": "北京台春晚幕后直播",
+        "onboard_time": 1769248341,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110270,
+        "num": 110270,
+        "word": "亚洲杯",
+        "onboard_time": 1769250080,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25640,
+        "num": 110195,
+        "word": "美官员披露美航母打击群抵达印度洋",
+        "onboard_time": 1769249840,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 652089,
+        "num": 109879,
+        "word": "angelababy直发烟熏妆造型",
+        "onboard_time": 1769247321,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 318702,
+        "num": 109614,
+        "word": "时代少年团直播",
+        "onboard_time": 1769249602,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148026,
+        "num": 109413,
+        "word": "国足",
+        "onboard_time": 1769245101,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 267892,
+        "num": 108991,
+        "word": "车银优或被判刑",
+        "onboard_time": 1769230579,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225215,
+        "num": 108837,
+        "word": "谁把张极的鸡偷了",
+        "onboard_time": 1769249662,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145891,
+        "num": 108587,
+        "word": "事业单位出纳6年贪4289万公款",
+        "onboard_time": 1769237661,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213717,
+        "num": 108223,
+        "word": "近看张凌赫远看宋威龙",
+        "onboard_time": 1769243063,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165278,
+        "num": 108119,
+        "word": "时代峰峻严正声明",
+        "onboard_time": 1769238919,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107943,
+        "num": 107943,
+        "word": "小象被砸动物园道歉网友不买账",
+        "onboard_time": 1769245220,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142405,
+        "num": 105525,
+        "word": "卢昱晓10个月瘦了一大圈",
+        "onboard_time": 1769232440,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116224,
+        "num": 104472,
+        "word": "朱志鑫05后霸总整顿职场",
+        "onboard_time": 1769249182,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116101,
+        "num": 104111,
+        "word": "第一批爱熬夜的受害者出现了",
+        "onboard_time": 1769250080,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 102922,
+        "num": 102922,
+        "word": "直观感受到女生的钱都花在哪了",
+        "onboard_time": 1769247620,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 102483,
+        "num": 102483,
+        "word": "何广智一开口又杀疯了",
+        "onboard_time": 1769246541,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97952,
+        "num": 97952,
+        "word": "突然的喜欢",
+        "onboard_time": 1769249960,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97601,
+        "num": 97601,
+        "word": "为什么睡觉时想把脚伸出被子",
+        "onboard_time": 1769247921,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 64800,
+        "num": 97321,
+        "word": "范志毅吐槽说唱歌手",
+        "onboard_time": 1769250322,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18813,
+        "num": 97082,
+        "word": "全网犬子犬女都在看重返狼群",
+        "onboard_time": 1769250441,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 45981,
+        "num": 96504,
+        "word": "美国三分之二人口面临极寒",
+        "onboard_time": 1769249719,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 18569,
+        "num": 96309,
+        "word": "我没招了我需要一个喵娲娲",
+        "onboard_time": 1769248820,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 95890,
+        "num": 95890,
+        "word": "怕堵车可以拿一只口红在手里",
+        "onboard_time": 1769250500,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 94104,
+        "num": 94104,
+        "word": "电视剧拿错包的情节真发生了",
+        "onboard_time": 1769244082,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90402,
+        "num": 90402,
+        "word": "谷爱凌说美国已经有代表了",
+        "onboard_time": 1769231240,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89669,
+        "num": 89669,
+        "word": "王欣瑜将迎战阿尼西莫娃",
+        "onboard_time": 1769250380,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88128,
+        "num": 88128,
+        "word": "王欣瑜首进澳网女单16强",
+        "onboard_time": 1769250500,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87541,
+        "num": 87541,
+        "word": "网红办杀猪宴和村民产生纠纷",
+        "onboard_time": 1769244142,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87030,
+        "num": 87030,
+        "word": "王欣瑜澳网最佳战绩",
+        "onboard_time": 1769249901,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83382,
+        "num": 83382,
+        "word": "iOS26.4前瞻",
+        "onboard_time": 1769247141,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 83203,
+        "num": 83203,
+        "word": "王欣瑜2比0诺斯科娃",
+        "onboard_time": 1769250560,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82803,
+        "num": 82803,
+        "word": "杨幂12年后的退休计划",
+        "onboard_time": 1769242701,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#科技赋能冰雪经济#"
+    }
+  }
+}
