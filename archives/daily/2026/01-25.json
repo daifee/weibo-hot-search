@@ -1,42 +1,74 @@
 {
   "startTime": 1769272464158,
-  "endTime": 1769272464158,
+  "endTime": 1769273342374,
   "band_list": [
     {
-      "raw_hot": 14005205,
-      "num": 14005205,
+      "raw_hot": 16741456,
+      "num": 16741456,
       "word": "U23国足vs日本",
       "onboard_time": 1769265382,
       "rank": 0,
       "category": "体育"
     },
     {
-      "raw_hot": 789132,
-      "num": 2323529,
+      "raw_hot": 1016864,
+      "num": 2828039,
       "word": "日本队 小动作",
       "onboard_time": 1769270426,
       "rank": 1,
       "category": "体育"
     },
     {
+      "raw_hot": 748716,
+      "num": 748716,
+      "word": "U23国足进球被吹",
+      "onboard_time": 1769272340,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 704278,
-      "num": 287890,
+      "num": 330755,
       "word": "拜合拉木",
       "onboard_time": 1769270666,
       "rank": 9,
       "category": "体育"
     },
     {
+      "raw_hot": 605445,
+      "num": 605445,
+      "word": "日本队6号",
+      "onboard_time": 1769270902,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 547597,
+      "num": 547597,
+      "word": "拜合拉木上了",
+      "onboard_time": 1769272822,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 535480,
-      "num": 287112,
+      "num": 326901,
       "word": "女教师校内宿舍病亡两天后被发现",
       "onboard_time": 1769264362,
       "rank": 10,
       "category": "民生新闻"
     },
     {
+      "raw_hot": 458681,
+      "num": 458681,
+      "word": "U23国足0比4日本U23",
+      "onboard_time": 1769272822,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 435162,
-      "num": 275832,
+      "num": 307831,
       "word": "林允 速效救心丸",
       "onboard_time": 1769260942,
       "rank": 11,
@@ -51,12 +83,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 374588,
-      "num": 374588,
+      "raw_hot": 379815,
+      "num": 379815,
       "word": "我们的少年时代2拍摄周期",
       "onboard_time": 1769270544,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 351214,
+      "num": 351214,
+      "word": "日本队点球破门",
+      "onboard_time": 1769271983,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 332785,
@@ -75,19 +115,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 317971,
+      "num": 317971,
+      "word": "u23国足稳住",
+      "onboard_time": 1769269463,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 292202,
       "num": 292202,
       "word": "U23男足0比2落后",
       "onboard_time": 1769268864,
       "rank": 7,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 291931,
-      "num": 291931,
-      "word": "日本队6号",
-      "onboard_time": 1769270902,
-      "rank": 8,
       "category": "体育"
     },
     {
@@ -123,14 +163,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 224034,
-      "num": 224034,
-      "word": "u23国足稳住",
-      "onboard_time": 1769269463,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 222876,
       "num": 165603,
       "word": "张元英直播",
@@ -139,19 +171,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 206349,
+      "num": 206349,
+      "word": "折射破门",
+      "onboard_time": 1769271862,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 198150,
       "num": 198150,
       "word": "U23",
       "onboard_time": 1769269284,
       "rank": 17,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 174823,
-      "num": 174823,
-      "word": "日本队点球破门",
-      "onboard_time": 1769271983,
-      "rank": 18,
       "category": "体育"
     },
     {
@@ -171,11 +203,11 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 154951,
-      "num": 154951,
-      "word": "U23国足进球被吹",
-      "onboard_time": 1769272340,
-      "rank": 22,
+      "raw_hot": 141127,
+      "num": 141127,
+      "word": "国足",
+      "onboard_time": 1769245101,
+      "rank": 25,
       "category": "体育"
     },
     {
@@ -195,14 +227,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 128574,
-      "num": 128574,
-      "word": "国足",
-      "onboard_time": 1769245101,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 126561,
       "num": 126561,
       "word": "美国涉中俄战略出现重大转变",
@@ -212,23 +236,15 @@
     },
     {
       "raw_hot": 122539,
-      "num": 122539,
+      "num": 124793,
       "word": "太平年",
       "onboard_time": 1769260701,
       "rank": 27,
       "category": "剧集"
     },
     {
-      "raw_hot": 118946,
-      "num": 118946,
-      "word": "折射破门",
-      "onboard_time": 1769271862,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 117206,
-      "num": 117206,
+      "num": 123224,
       "word": "太平年改了台词",
       "onboard_time": 1769269827,
       "rank": 29,
@@ -236,7 +252,7 @@
     },
     {
       "raw_hot": 109249,
-      "num": 109249,
+      "num": 121720,
       "word": "南京工业大学一黑天鹅被撞后死亡",
       "onboard_time": 1769263102,
       "rank": 30,
@@ -244,15 +260,23 @@
     },
     {
       "raw_hot": 102003,
-      "num": 102003,
+      "num": 122617,
       "word": "周震南演唱会没有舞台",
       "onboard_time": 1769254100,
       "rank": 31,
       "category": "演出"
     },
     {
+      "raw_hot": 99611,
+      "num": 122827,
+      "word": "半场u23国足2次射门1次射正",
+      "onboard_time": 1769273002,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 95763,
-      "num": 95763,
+      "num": 121564,
       "word": "老虎在雪地睡觉把一片热化了",
       "onboard_time": 1769266282,
       "rank": 32,
@@ -260,7 +284,7 @@
     },
     {
       "raw_hot": 94066,
-      "num": 94066,
+      "num": 122536,
       "word": "母亲称3岁女儿洗浴中心泡澡后染病",
       "onboard_time": 1769267543,
       "rank": 33,
@@ -268,7 +292,7 @@
     },
     {
       "raw_hot": 93807,
-      "num": 93807,
+      "num": 122410,
       "word": "u23国足首发身价高于日本",
       "onboard_time": 1769270006,
       "rank": 34,
@@ -276,7 +300,7 @@
     },
     {
       "raw_hot": 93410,
-      "num": 93410,
+      "num": 121985,
       "word": "边伯贤ins更新",
       "onboard_time": 1769268744,
       "rank": 35,
@@ -284,7 +308,7 @@
     },
     {
       "raw_hot": 92197,
-      "num": 92197,
+      "num": 121136,
       "word": "平台已下架涉事娃娃菜商家商品",
       "onboard_time": 1769258721,
       "rank": 36,
@@ -292,7 +316,7 @@
     },
     {
       "raw_hot": 91800,
-      "num": 91800,
+      "num": 121336,
       "word": "隋文静韩聪亚军",
       "onboard_time": 1769270602,
       "rank": 37,
@@ -300,7 +324,7 @@
     },
     {
       "raw_hot": 91424,
-      "num": 91424,
+      "num": 120873,
       "word": "俄罗斯最新涉华表态",
       "onboard_time": 1769254100,
       "rank": 38,
@@ -308,15 +332,23 @@
     },
     {
       "raw_hot": 90626,
-      "num": 90626,
+      "num": 122155,
       "word": "范志毅谈U23国足对战日本队",
       "onboard_time": 1769251761,
       "rank": 40,
       "category": "体育"
     },
     {
+      "raw_hot": 85151,
+      "num": 122211,
+      "word": "沙特机场中国人多到包机",
+      "onboard_time": 1769271623,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 81438,
-      "num": 81438,
+      "num": 121309,
       "word": "何不同舟渡",
       "onboard_time": 1769259921,
       "rank": 41,
@@ -324,7 +356,7 @@
     },
     {
       "raw_hot": 76589,
-      "num": 81437,
+      "num": 120955,
       "word": "亚洲杯",
       "onboard_time": 1769250080,
       "rank": 42,
@@ -332,7 +364,7 @@
     },
     {
       "raw_hot": 76583,
-      "num": 81437,
+      "num": 120589,
       "word": "被5岁儿子强忍恐惧施救妈妈发声",
       "onboard_time": 1769251040,
       "rank": 43,
@@ -348,7 +380,7 @@
     },
     {
       "raw_hot": 75739,
-      "num": 81435,
+      "num": 121491,
       "word": "U23国足不放弃",
       "onboard_time": 1769272102,
       "rank": 45,
@@ -361,14 +393,6 @@
       "onboard_time": 1769263822,
       "rank": 46,
       "category": "演出"
-    },
-    {
-      "raw_hot": 71517,
-      "num": 90712,
-      "word": "沙特机场中国人多到包机",
-      "onboard_time": 1769271623,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 69952,
@@ -395,12 +419,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 61806,
+      "num": 120714,
+      "word": "李昊 look my eyes",
+      "onboard_time": 1769273301,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 47193,
-      "num": 1748381,
+      "num": 2174663,
       "word": "太空月季回来了",
       "onboard_time": 1769259621,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15019,
+      "num": 121910,
+      "word": "美国退群目的是建新群",
+      "onboard_time": 1769272822,
+      "rank": 39,
+      "category": "国际时政"
     }
   ],
   "hotgov_list": [

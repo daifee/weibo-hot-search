@@ -1,7 +1,15 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769272464158,
+  "endTime": 1769273342374,
   "band_list": [
+    {
+      "raw_hot": 16741456,
+      "num": 16741456,
+      "word": "U23国足vs日本",
+      "onboard_time": 1769191934,
+      "rank": 8,
+      "category": "体育"
+    },
     {
       "raw_hot": 16082398,
       "num": 16082398,
@@ -9,14 +17,6 @@
       "onboard_time": 1767195447,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 15603533,
-      "num": 15603533,
-      "word": "U23国足vs日本",
-      "onboard_time": 1769191934,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 13350510,
@@ -1483,6 +1483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1016864,
+      "num": 2828039,
+      "word": "日本队 小动作",
+      "onboard_time": 1769270426,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1014473,
       "num": 507210,
       "word": "TF家族荣耀之战演唱会官宣",
@@ -2140,7 +2148,7 @@
     },
     {
       "raw_hot": 853847,
-      "num": 297686,
+      "num": 326901,
       "word": "女教师校内宿舍病亡两天后被发现",
       "onboard_time": 1769264362,
       "rank": 19,
@@ -2635,14 +2643,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 789132,
-      "num": 2323529,
-      "word": "日本队 小动作",
-      "onboard_time": 1769270426,
-      "rank": 1,
-      "category": "体育"
-    },
-    {
       "raw_hot": 788948,
       "num": 1126231,
       "word": "住房公积金制度改革",
@@ -2857,6 +2857,14 @@
       "onboard_time": 1767772461,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 748716,
+      "num": 748716,
+      "word": "U23国足进球被吹",
+      "onboard_time": 1769272340,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 748084,
@@ -3292,7 +3300,7 @@
     },
     {
       "raw_hot": 704278,
-      "num": 287890,
+      "num": 330755,
       "word": "拜合拉木",
       "onboard_time": 1769270666,
       "rank": 9,
@@ -4371,6 +4379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 605445,
+      "num": 605445,
+      "word": "日本队6号",
+      "onboard_time": 1769270902,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 604894,
       "num": 922370,
       "word": "考研失败情侣辞职回村7年后翻盘",
@@ -5433,6 +5449,14 @@
       "onboard_time": 1767579021,
       "rank": 13,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 547597,
+      "num": 547597,
+      "word": "拜合拉木上了",
+      "onboard_time": 1769272822,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 547088,
@@ -7697,6 +7721,14 @@
       "onboard_time": 1768117460,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 458681,
+      "num": 458681,
+      "word": "U23国足0比4日本U23",
+      "onboard_time": 1769272822,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 458663,
@@ -10283,6 +10315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 379815,
+      "num": 379815,
+      "word": "我们的少年时代2拍摄周期",
+      "onboard_time": 1769270544,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 379813,
       "num": 229939,
       "word": "陈哲远 三个人的婚礼有点拥挤",
@@ -10497,14 +10537,6 @@
       "onboard_time": 1768968921,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 374588,
-      "num": 374588,
-      "word": "我们的少年时代2拍摄周期",
-      "onboard_time": 1769270544,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 374238,
@@ -11569,6 +11601,14 @@
       "onboard_time": 1767868701,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 351214,
+      "num": 351214,
+      "word": "日本队点球破门",
+      "onboard_time": 1769271983,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 351190,
@@ -13123,6 +13163,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 317971,
+      "num": 317971,
+      "word": "u23国足稳住",
+      "onboard_time": 1769269463,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 317640,
       "num": 124810,
       "word": "张凌赫首个千万赞视频",
@@ -14529,14 +14577,6 @@
       "onboard_time": 1768810581,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 291931,
-      "num": 291931,
-      "word": "日本队6号",
-      "onboard_time": 1769270902,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 291866,
@@ -19283,14 +19323,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 224034,
-      "num": 224034,
-      "word": "u23国足稳住",
-      "onboard_time": 1769269463,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 223867,
       "num": 208517,
       "word": "五哈6",
@@ -21177,6 +21209,14 @@
       "onboard_time": 1768612880,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 206349,
+      "num": 206349,
+      "word": "折射破门",
+      "onboard_time": 1769271862,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 206236,
@@ -26203,14 +26243,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 174823,
-      "num": 174823,
-      "word": "日本队点球破门",
-      "onboard_time": 1769271983,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 174822,
       "num": 174822,
       "word": "宋威龙 雷霆泳姿",
@@ -30009,14 +30041,6 @@
       "onboard_time": 1768103420,
       "rank": 31,
       "category": "演出"
-    },
-    {
-      "raw_hot": 154951,
-      "num": 154951,
-      "word": "U23国足进球被吹",
-      "onboard_time": 1769272340,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 154907,
@@ -40747,14 +40771,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 118946,
-      "num": 118946,
-      "word": "折射破门",
-      "onboard_time": 1769271862,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 118928,
       "num": 109905,
       "word": "李现报名金像奖最佳男配",
@@ -41444,7 +41460,7 @@
     },
     {
       "raw_hot": 117206,
-      "num": 117206,
+      "num": 123224,
       "word": "太平年改了台词",
       "onboard_time": 1769269827,
       "rank": 29,
@@ -50011,6 +50027,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 99611,
+      "num": 122827,
+      "word": "半场u23国足2次射门1次射正",
+      "onboard_time": 1769273002,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 99571,
       "num": 122423,
       "word": "嫣然天使儿童医院患儿家属发声",
@@ -53508,7 +53532,7 @@
     },
     {
       "raw_hot": 94066,
-      "num": 106091,
+      "num": 122536,
       "word": "母亲称3岁女儿洗浴中心泡澡后染病",
       "onboard_time": 1769267543,
       "rank": 39,
@@ -53668,7 +53692,7 @@
     },
     {
       "raw_hot": 93807,
-      "num": 93807,
+      "num": 122410,
       "word": "u23国足首发身价高于日本",
       "onboard_time": 1769270006,
       "rank": 34,
@@ -55012,7 +55036,7 @@
     },
     {
       "raw_hot": 91800,
-      "num": 91800,
+      "num": 121336,
       "word": "隋文静韩聪亚军",
       "onboard_time": 1769270602,
       "rank": 37,
@@ -59601,6 +59625,14 @@
       "onboard_time": 1768034901,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 85151,
+      "num": 122211,
+      "word": "沙特机场中国人多到包机",
+      "onboard_time": 1769271623,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 85137,
@@ -64564,7 +64596,7 @@
     },
     {
       "raw_hot": 75739,
-      "num": 81435,
+      "num": 121491,
       "word": "U23国足不放弃",
       "onboard_time": 1769272102,
       "rank": 45,
@@ -66297,14 +66329,6 @@
       "onboard_time": 1768010360,
       "rank": 49,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 71517,
-      "num": 90712,
-      "word": "沙特机场中国人多到包机",
-      "onboard_time": 1769271623,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 71483,
@@ -69092,7 +69116,7 @@
     },
     {
       "raw_hot": 62824,
-      "num": 1996658,
+      "num": 2174663,
       "word": "太空月季回来了",
       "onboard_time": 1769259621,
       "rank": 2,
@@ -69377,6 +69401,14 @@
       "onboard_time": 1768607177,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 61806,
+      "num": 120714,
+      "word": "李昊 look my eyes",
+      "onboard_time": 1769273301,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 61799,
@@ -80545,6 +80577,14 @@
       "onboard_time": 1769111594,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 15019,
+      "num": 121910,
+      "word": "美国退群目的是建新群",
+      "onboard_time": 1769272822,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 14917,
