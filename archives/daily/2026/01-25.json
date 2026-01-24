@@ -1,6 +1,6 @@
 {
   "startTime": 1769272464158,
-  "endTime": 1769282632129,
+  "endTime": 1769283475377,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -657,6 +657,14 @@
       "onboard_time": 1769272822,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 14906,
+      "num": 23456,
+      "word": "归鸾",
+      "onboard_time": 1769266762,
+      "rank": 48,
+      "category": "剧集"
     }
   ],
   "hotgov_list": [

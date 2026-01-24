@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/25 00:34:24 ~ 2026/01/25 03:23:52
+本榜单时间：2026/01/25 00:34:24 ~ 2026/01/25 03:37:55
 </p>
 </blockquote>
 <p>
@@ -503,6 +503,12 @@ U23男足亚洲杯亚军（热度：27944）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E9%80%80%E7%BE%A4%E7%9B%AE%E7%9A%84%E6%98%AF%E5%BB%BA%E6%96%B0%E7%BE%A4%23" target="weibo">
 美国退群目的是建新群（热度：15019）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BD%92%E9%B8%BE%23" target="weibo">
+归鸾（热度：14906）
 </a>
 </li>
 
