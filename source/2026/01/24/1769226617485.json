@@ -1,0 +1,410 @@
+{
+  "runTime": 1769226617485,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 534446,
+        "num": 1085511,
+        "word": "QQ秀宣布回归",
+        "onboard_time": 1769223500,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 521137,
+        "num": 760630,
+        "word": "夫妻同进ICU怀疑网购的蔬菜",
+        "onboard_time": 1769220138,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21753,
+        "num": 621011,
+        "word": "全国多地景区推出马年限定福利",
+        "onboard_time": 1769226260,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 473962,
+        "num": 473962,
+        "word": "被雪豹咬伤女游客系躲避不及",
+        "onboard_time": 1769222298,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 414987,
+        "num": 414987,
+        "word": "外卖发展成这样了",
+        "onboard_time": 1769223979,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 397223,
+        "num": 397223,
+        "word": "短剧拍了豪门围剿小镇做题家",
+        "onboard_time": 1769223259,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 342929,
+        "num": 342929,
+        "word": "爱与不爱真的很明显",
+        "onboard_time": 1769220798,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 231232,
+        "num": 231232,
+        "word": "生命树央八定档",
+        "onboard_time": 1769224400,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172482,
+        "num": 172482,
+        "word": "日本妄图把导弹瞄准中国军舰",
+        "onboard_time": 1769221759,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 130384,
+        "num": 130384,
+        "word": "英首相说特朗普言论极具侮辱性",
+        "onboard_time": 1769218879,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 827978,
+        "num": 129790,
+        "word": "曝鹿晗商务归零",
+        "onboard_time": 1769226080,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 352873,
+        "num": 129313,
+        "word": "孙千工作室向粉丝道歉",
+        "onboard_time": 1769222599,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275987,
+        "num": 129078,
+        "word": "眼睛小戴大直径美瞳的后果",
+        "onboard_time": 1769223919,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 128836,
+        "num": 128836,
+        "word": "花少8网传名单",
+        "onboard_time": 1769223860,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204859,
+        "num": 128636,
+        "word": "尽快改掉会诱发猝死的习惯",
+        "onboard_time": 1769216239,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 194864,
+        "num": 127831,
+        "word": "王珞丹黄宗泽吻戏张力",
+        "onboard_time": 1769223080,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167061,
+        "num": 127330,
+        "word": "今年的春晚我可能上不了了",
+        "onboard_time": 1769222480,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 99221,
+        "num": 126698,
+        "word": "白银彻底涨疯",
+        "onboard_time": 1769211557,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 95646,
+        "num": 126311,
+        "word": "U23越南9比8韩国U23",
+        "onboard_time": 1769210716,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 59056,
+        "num": 125456,
+        "word": "周末外卖半价狂欢",
+        "onboard_time": 1769223797,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 682615,
+        "num": 125041,
+        "word": "花儿与少年8",
+        "onboard_time": 1769217378,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165784,
+        "num": 124688,
+        "word": "00后真的是各过各的",
+        "onboard_time": 1769224878,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 143002,
+        "num": 123728,
+        "word": "白鹿沈月秦岚你们仨聊什么呢",
+        "onboard_time": 1769225421,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129900,
+        "num": 123497,
+        "word": "106岁太姥爷与刚出生的重孙相见",
+        "onboard_time": 1769226021,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123140,
+        "num": 123140,
+        "word": "李昊身价暴涨至2000万级别",
+        "onboard_time": 1769218879,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115076,
+        "num": 115076,
+        "word": "你好星期六街晚提前过年了",
+        "onboard_time": 1769223320,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113813,
+        "num": 113813,
+        "word": "杨紫胡歌从未否认自己是舒克贝塔",
+        "onboard_time": 1769223979,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104255,
+        "num": 104255,
+        "word": "因给孩子涂药争吵男子用砖砸死岳母",
+        "onboard_time": 1769223080,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99562,
+        "num": 99562,
+        "word": "遛狗起冲突女子在警局被对方死亡威胁",
+        "onboard_time": 1769226440,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95934,
+        "num": 95934,
+        "word": "苏翊鸣官宣入驻咪咕社区",
+        "onboard_time": 1769224940,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108453,
+        "num": 94705,
+        "word": "原来孩子可以请睡眠假",
+        "onboard_time": 1769225299,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 100569,
+        "num": 94475,
+        "word": "J人和P人吃外卖的差别",
+        "onboard_time": 1769224940,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 93465,
+        "num": 93465,
+        "word": "金饰克价涨到1551元",
+        "onboard_time": 1769220919,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 92661,
+        "num": 92661,
+        "word": "李行亮 2010快男麦琳最火",
+        "onboard_time": 1769226138,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 4420,
+        "num": 90664,
+        "word": "冰雪春天",
+        "onboard_time": 1769142382,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89782,
+        "num": 89782,
+        "word": "小说里的总统套房长这样啊",
+        "onboard_time": 1769225900,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 86473,
+        "num": 86473,
+        "word": "澳网",
+        "onboard_time": 1769224878,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86469,
+        "num": 86469,
+        "word": "女子戴透视隐形眼镜打麻将被抓",
+        "onboard_time": 1769209995,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86348,
+        "num": 86348,
+        "word": "偶像剧为什么不拍研究生恋爱",
+        "onboard_time": 1769217079,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 84258,
+        "num": 84258,
+        "word": "易烊千玺刘耀文同门师兄首次合作",
+        "onboard_time": 1769223619,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 79792,
+        "num": 83334,
+        "word": "王心凌红裙",
+        "onboard_time": 1769225119,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 83278,
+        "num": 83278,
+        "word": "一下就对青春期男生祛魅了",
+        "onboard_time": 1769209815,
+        "rank": 41,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 80064,
+        "num": 80064,
+        "word": "医生称淋巴瘤不是幸福癌",
+        "onboard_time": 1769225599,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 273487,
+        "num": 79915,
+        "word": "蔡徐坤街采",
+        "onboard_time": 1769221700,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136344,
+        "num": 79158,
+        "word": "买彩票再也成不了亿万富翁",
+        "onboard_time": 1769222898,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77823,
+        "num": 77823,
+        "word": "妈妈突然晕倒5岁儿子强忍恐惧施救",
+        "onboard_time": 1769220861,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87423,
+        "num": 77771,
+        "word": "程潇三条簪造型好飒",
+        "onboard_time": 1769216239,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 76692,
+        "num": 76692,
+        "word": "又可以看奥运了",
+        "onboard_time": 1769226200,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 74260,
+        "num": 74260,
+        "word": "U23国足平均身高",
+        "onboard_time": 1769226499,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 73362,
+        "num": 73362,
+        "word": "何炅 让新的声音被听到很重要",
+        "onboard_time": 1769226380,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#赓续中华文脉谱写时代华章#"
+    }
+  }
+}
