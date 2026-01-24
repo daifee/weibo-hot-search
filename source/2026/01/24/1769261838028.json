@@ -1,0 +1,410 @@
+{
+  "runTime": 1769261838028,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 641916,
+        "num": 1102706,
+        "word": "亚洲杯",
+        "onboard_time": 1769250080,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 411510,
+        "num": 790228,
+        "word": "两个消失的顶流歌手都回归了",
+        "onboard_time": 1769242282,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53718,
+        "num": 781549,
+        "word": "太空月季回来了",
+        "onboard_time": 1769259621,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 292209,
+        "num": 774940,
+        "word": "俄罗斯最新涉华表态",
+        "onboard_time": 1769254100,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 246403,
+        "num": 763923,
+        "word": "何不同舟渡",
+        "onboard_time": 1769259921,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212259,
+        "num": 750147,
+        "word": "平台已下架涉事娃娃菜商家商品",
+        "onboard_time": 1769258721,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208890,
+        "num": 737697,
+        "word": "长大了揣两万才敢进肯德基",
+        "onboard_time": 1769251761,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 162314,
+        "num": 722586,
+        "word": "邢菲出道十年后首档常驻综艺",
+        "onboard_time": 1769255781,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154569,
+        "num": 715730,
+        "word": "无限暖暖",
+        "onboard_time": 1769252840,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 148291,
+        "num": 698223,
+        "word": "范志毅谈U23国足对战日本队",
+        "onboard_time": 1769251761,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 695954,
+        "num": 695954,
+        "word": "陈建斌曝李亚鹏晚上睡觉没有被子",
+        "onboard_time": 1769254281,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 689622,
+        "num": 689622,
+        "word": "Angelababy26年首套高定造型",
+        "onboard_time": 1769258361,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 665758,
+        "num": 665758,
+        "word": "张又侠刘振立被立案调查",
+        "onboard_time": 1769238981,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 448448,
+        "num": 448448,
+        "word": "林允 速效救心丸",
+        "onboard_time": 1769260942,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 371514,
+        "num": 371514,
+        "word": "美国网友提问9000万遗体去向",
+        "onboard_time": 1769258782,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 302706,
+        "num": 302706,
+        "word": "被雪豹咬伤女子已从急诊转出",
+        "onboard_time": 1769254822,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 286988,
+        "num": 286988,
+        "word": "被5岁儿子强忍恐惧施救妈妈发声",
+        "onboard_time": 1769251040,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 253105,
+        "num": 253105,
+        "word": "周震南演唱会没有舞台",
+        "onboard_time": 1769254100,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 142995,
+        "num": 251928,
+        "word": "结一次婚大概需要多少钱",
+        "onboard_time": 1769248582,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 54106,
+        "num": 251381,
+        "word": "大魔王为拼搏喝彩",
+        "onboard_time": 1769260581,
+        "rank": 19,
+        "category": "美食,体育"
+      },
+      {
+        "raw_hot": 250882,
+        "num": 250882,
+        "word": "女生滑雪时摔倒手链断得满雪场都是",
+        "onboard_time": 1769257401,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194369,
+        "num": 194369,
+        "word": "太平年",
+        "onboard_time": 1769260701,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141064,
+        "num": 141064,
+        "word": "春晚人最多的舞台来了",
+        "onboard_time": 1769260461,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124525,
+        "num": 139376,
+        "word": "第一批爱熬夜的受害者出现了",
+        "onboard_time": 1769250080,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 139142,
+        "num": 139142,
+        "word": "左航睡着了",
+        "onboard_time": 1769253442,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133226,
+        "num": 133226,
+        "word": "angelababy直发烟熏妆造型",
+        "onboard_time": 1769247321,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122352,
+        "num": 122352,
+        "word": "iPhone17官方电池充电建议",
+        "onboard_time": 1769252180,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 122405,
+        "num": 120364,
+        "word": "62岁张曼玉晒退休生活",
+        "onboard_time": 1769258541,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117599,
+        "num": 117599,
+        "word": "美国退群加州进群",
+        "onboard_time": 1769251522,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 105856,
+        "num": 117469,
+        "word": "用国风为U23国足助威",
+        "onboard_time": 1769260400,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120129,
+        "num": 117457,
+        "word": "突然的喜欢 拒绝月经羞耻",
+        "onboard_time": 1769257341,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117375,
+        "num": 117375,
+        "word": "喵娲娲连送五天微博之夜门票",
+        "onboard_time": 1769246600,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 116438,
+        "num": 116438,
+        "word": "丈夫回应妻子洗手洗进医院",
+        "onboard_time": 1769251821,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116038,
+        "num": 116038,
+        "word": "EXO退场像AI一样诡异的消失了",
+        "onboard_time": 1769251101,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114895,
+        "num": 114895,
+        "word": "云初令",
+        "onboard_time": 1769253800,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111850,
+        "num": 111850,
+        "word": "2025TapTap年度游戏大赏",
+        "onboard_time": 1769261422,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 28795,
+        "num": 111136,
+        "word": "2026年第一批回家过年的人",
+        "onboard_time": 1769261182,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86240,
+        "num": 105713,
+        "word": "郑州一26岁女子失联5日仍未找到",
+        "onboard_time": 1769261182,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64822,
+        "num": 104953,
+        "word": "u23国足前往决赛球场",
+        "onboard_time": 1769261782,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 73190,
+        "num": 99275,
+        "word": "70岁走失老人遗体在冰河下被发现",
+        "onboard_time": 1769261182,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98829,
+        "num": 98829,
+        "word": "时代少年团直播",
+        "onboard_time": 1769249602,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98546,
+        "num": 98546,
+        "word": "U23国足决赛心情belike",
+        "onboard_time": 1769260882,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97665,
+        "num": 97665,
+        "word": "亲爱的客栈众人送别白鹿",
+        "onboard_time": 1769257401,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94156,
+        "num": 94156,
+        "word": "国防科大教授周末晚在教室磨课",
+        "onboard_time": 1769256620,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 94019,
+        "num": 94019,
+        "word": "云旗直播",
+        "onboard_time": 1769258662,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93488,
+        "num": 93488,
+        "word": "宋妍霏0度穿短袖冻到脸通红",
+        "onboard_time": 1769259082,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90501,
+        "num": 92796,
+        "word": "门神李昊此门咱不开",
+        "onboard_time": 1769261782,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92619,
+        "num": 92619,
+        "word": "真正的粉丝就是认出你也会保持距离",
+        "onboard_time": 1769259441,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90928,
+        "num": 90928,
+        "word": "网剧炽热吸引",
+        "onboard_time": 1769256501,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86020,
+        "num": 88682,
+        "word": "U23国足主帅说相信自己很重要",
+        "onboard_time": 1769261482,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的12次开年第一课#"
+    }
+  }
+}
