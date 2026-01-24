@@ -1,6 +1,6 @@
 {
   "startTime": 1768667567906,
-  "endTime": 1769246964205,
+  "endTime": 1769247765523,
   "band_list": [
     {
       "raw_hot": 9430476,
@@ -915,6 +915,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 710331,
+      "num": 710331,
+      "word": "刘强东章泽天手牵手出席达沃斯年会",
+      "onboard_time": 1769246121,
+      "rank": 3,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 708767,
       "num": 1113402,
       "word": "老鼠干火到美国了",
@@ -1555,6 +1563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 561774,
+      "num": 1438984,
+      "word": "两个消失的顶流歌手都回归了",
+      "onboard_time": 1769242282,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 561269,
       "num": 561269,
       "word": "男子右脑出血被医生错开左脑",
@@ -1649,14 +1665,6 @@
       "onboard_time": 1768990341,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 544738,
-      "num": 1438984,
-      "word": "两个消失的顶流歌手都回归了",
-      "onboard_time": 1769242282,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 540756,
@@ -3233,14 +3241,6 @@
       "onboard_time": 1769139501,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 365595,
-      "num": 365595,
-      "word": "刘强东章泽天手牵手出席达沃斯年会",
-      "onboard_time": 1769246121,
-      "rank": 3,
-      "category": "互联网"
     },
     {
       "raw_hot": 364411,
@@ -5187,6 +5187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 242827,
+      "num": 102565,
+      "word": "angelababy直发烟熏妆造型",
+      "onboard_time": 1769247321,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 242327,
       "num": 540830,
       "word": "牢A称没见过美国底层成功逆袭",
@@ -6011,6 +6019,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 211782,
+      "num": 211782,
+      "word": "林孝埈给中国短道的礼物",
+      "onboard_time": 1769243242,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 211548,
       "num": 151227,
       "word": "彭小苒 我救了你一命",
@@ -6603,6 +6619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196307,
+      "num": 140682,
+      "word": "杨幂12年后的退休计划",
+      "onboard_time": 1769242701,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 196078,
       "num": 186956,
       "word": "广州一家三口住桥洞靠拾荒为生",
@@ -7019,14 +7043,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 187358,
-      "num": 187358,
-      "word": "林孝埈给中国短道的礼物",
-      "onboard_time": 1769243242,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 187355,
       "num": 187355,
       "word": "刘宇宁出镜了但出镜了",
@@ -7305,6 +7321,14 @@
       "onboard_time": 1768790422,
       "rank": 14,
       "category": "财经"
+    },
+    {
+      "raw_hot": 179030,
+      "num": 179030,
+      "word": "沈腾 什么是伸出圆手",
+      "onboard_time": 1769246360,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 178849,
@@ -7955,14 +7979,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 166444,
-      "num": 140682,
-      "word": "杨幂12年后的退休计划",
-      "onboard_time": 1769242701,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 166267,
       "num": 124007,
       "word": "骄阳似我庆功宴内场",
@@ -7993,6 +8009,14 @@
       "onboard_time": 1768798402,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 165174,
+      "num": 165174,
+      "word": "何广智一开口又杀疯了",
+      "onboard_time": 1769246541,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 165166,
@@ -8995,6 +9019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 146783,
+      "num": 112460,
+      "word": "网红办杀猪宴和村民产生纠纷",
+      "onboard_time": 1769244142,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 146623,
       "num": 119413,
       "word": "朱志鑫课间休息收到一个快递",
@@ -9203,6 +9235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 143898,
+      "num": 143898,
+      "word": "U23亚洲杯国足赛前喊话太燃了",
+      "onboard_time": 1769245281,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 143681,
       "num": 198244,
       "word": "政府背书的惠民保为啥卖不动了",
@@ -9369,6 +9409,14 @@
       "onboard_time": 1768893980,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 141591,
+      "num": 121720,
+      "word": "喵娲娲连送五天微博之夜门票",
+      "onboard_time": 1769246600,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 141515,
@@ -9649,14 +9697,6 @@
       "onboard_time": 1769094921,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 137634,
-      "num": 121720,
-      "word": "喵娲娲连送五天微博之夜门票",
-      "onboard_time": 1769246600,
-      "rank": 17,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 137609,
@@ -10075,6 +10115,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 131132,
+      "num": 131132,
+      "word": "电视剧拿错包的情节真发生了",
+      "onboard_time": 1769244082,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 131028,
       "num": 131028,
       "word": "邵子恒 素颜战神",
@@ -10377,6 +10425,14 @@
       "onboard_time": 1768823541,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127795,
+      "num": 127795,
+      "word": "小象被砸动物园道歉网友不买账",
+      "onboard_time": 1769245220,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 127762,
@@ -10715,14 +10771,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 124761,
-      "num": 112460,
-      "word": "网红办杀猪宴和村民产生纠纷",
-      "onboard_time": 1769244142,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 124734,
       "num": 121154,
       "word": "结婚20年丈夫连个碗都没洗过",
@@ -10841,14 +10889,6 @@
       "onboard_time": 1768703720,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 123188,
-      "num": 123188,
-      "word": "小象被砸动物园道歉网友不买账",
-      "onboard_time": 1769245220,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 123109,
@@ -11185,14 +11225,6 @@
       "onboard_time": 1768915282,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 119930,
-      "num": 114565,
-      "word": "沈腾 什么是伸出圆手",
-      "onboard_time": 1769246360,
-      "rank": 22,
-      "category": "电影"
     },
     {
       "raw_hot": 119912,
@@ -11699,14 +11731,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 116135,
-      "num": 116135,
-      "word": "电视剧拿错包的情节真发生了",
-      "onboard_time": 1769244082,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 115992,
       "num": 204979,
       "word": "杨紫生命树敬礼转场",
@@ -11737,14 +11761,6 @@
       "onboard_time": 1768712299,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 115692,
-      "num": 115692,
-      "word": "U23亚洲杯国足赛前喊话太燃了",
-      "onboard_time": 1769245281,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 115681,
@@ -13035,6 +13051,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 105493,
+      "num": 105493,
+      "word": "王欣瑜vs诺斯科娃",
+      "onboard_time": 1769245641,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 105460,
       "num": 98222,
       "word": "黄景瑜你是真的要上天啊",
@@ -13137,6 +13161,14 @@
       "onboard_time": 1768872260,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104985,
+      "num": 93117,
+      "word": "刘浩存马年春晚彩排",
+      "onboard_time": 1769247321,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 104956,
@@ -13497,6 +13529,14 @@
       "onboard_time": 1768745124,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102649,
+      "num": 102649,
+      "word": "U23国足对日本U23战绩",
+      "onboard_time": 1769247441,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 102630,
@@ -13995,14 +14035,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 99927,
-      "num": 99927,
-      "word": "王欣瑜vs诺斯科娃",
-      "onboard_time": 1769245641,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 99895,
       "num": 194897,
       "word": "最不能接受苹果手机的缺点",
@@ -14289,14 +14321,6 @@
       "onboard_time": 1768719560,
       "rank": 35,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 98347,
-      "num": 98347,
-      "word": "何广智一开口又杀疯了",
-      "onboard_time": 1769246541,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 98306,
@@ -14945,6 +14969,14 @@
       "onboard_time": 1768649424,
       "rank": 25,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 94937,
+      "num": 89301,
+      "word": "张真源高音唱出屏幕了",
+      "onboard_time": 1769246722,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 94903,
@@ -16571,14 +16603,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 87067,
-      "num": 86078,
-      "word": "张真源高音唱出屏幕了",
-      "onboard_time": 1769246722,
-      "rank": 41,
-      "category": "演出"
-    },
-    {
       "raw_hot": 87059,
       "num": 87059,
       "word": "山上彻也母亲盲目信教捐款1亿日元",
@@ -16612,7 +16636,7 @@
     },
     {
       "raw_hot": 87019,
-      "num": 87019,
+      "num": 89253,
       "word": "出门旅游摔到后脑勺失忆了",
       "onboard_time": 1769244501,
       "rank": 37,
@@ -17337,6 +17361,14 @@
       "onboard_time": 1768707199,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 84157,
+      "num": 88267,
+      "word": "直观感受到女生的钱都花在哪了",
+      "onboard_time": 1769247620,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 84077,
@@ -18897,6 +18929,14 @@
       "onboard_time": 1768914082,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 75390,
+      "num": 75390,
+      "word": "大坂直美退赛",
+      "onboard_time": 1769247560,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 75355,
@@ -22195,6 +22235,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 29933,
+      "num": 136306,
+      "word": "infp里来了只喵娲娲",
+      "onboard_time": 1769245521,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 29890,
       "num": 67811,
       "word": "鹅毛大雪中的丁禹兮",
@@ -22785,14 +22833,6 @@
       "onboard_time": 1768901719,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 21666,
-      "num": 123485,
-      "word": "infp里来了只喵娲娲",
-      "onboard_time": 1769245521,
-      "rank": 14,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 21657,

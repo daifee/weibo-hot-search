@@ -1,6 +1,6 @@
 {
   "startTime": 1769186467234,
-  "endTime": 1769246964205,
+  "endTime": 1769247765523,
   "band_list": [
     {
       "raw_hot": 7888209,
@@ -59,6 +59,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 710331,
+      "num": 710331,
+      "word": "刘强东章泽天手牵手出席达沃斯年会",
+      "onboard_time": 1769246121,
+      "rank": 3,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 704789,
       "num": 225791,
       "word": "猝死工程师月收入7000元左右",
@@ -75,6 +83,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 561774,
+      "num": 1438984,
+      "word": "两个消失的顶流歌手都回归了",
+      "onboard_time": 1769242282,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 550661,
       "num": 148453,
       "word": "苹果用户的天塌了",
@@ -89,14 +105,6 @@
       "onboard_time": 1769170460,
       "rank": 0,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 544738,
-      "num": 1438984,
-      "word": "两个消失的顶流歌手都回归了",
-      "onboard_time": 1769242282,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 538679,
@@ -241,14 +249,6 @@
       "onboard_time": 1769228900,
       "rank": 16,
       "category": "演出"
-    },
-    {
-      "raw_hot": 365595,
-      "num": 365595,
-      "word": "刘强东章泽天手牵手出席达沃斯年会",
-      "onboard_time": 1769246121,
-      "rank": 3,
-      "category": "互联网"
     },
     {
       "raw_hot": 352873,
@@ -459,6 +459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 242827,
+      "num": 102565,
+      "word": "angelababy直发烟熏妆造型",
+      "onboard_time": 1769247321,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 242171,
       "num": 242171,
       "word": "王鹤棣曝范丞丞放节目组鸽子",
@@ -547,6 +555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 211782,
+      "num": 211782,
+      "word": "林孝埈给中国短道的礼物",
+      "onboard_time": 1769243242,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 206702,
       "num": 206702,
       "word": "一下就对青春期男生祛魅了",
@@ -569,6 +585,14 @@
       "onboard_time": 1769230579,
       "rank": 7,
       "category": "财经"
+    },
+    {
+      "raw_hot": 196307,
+      "num": 140682,
+      "word": "杨幂12年后的退休计划",
+      "onboard_time": 1769242701,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 194889,
@@ -627,14 +651,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 187358,
-      "num": 187358,
-      "word": "林孝埈给中国短道的礼物",
-      "onboard_time": 1769243242,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 184638,
       "num": 130303,
       "word": "医生称淋巴瘤和恶性癌症是等同的",
@@ -649,6 +665,14 @@
       "onboard_time": 1769218879,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 179030,
+      "num": 179030,
+      "word": "沈腾 什么是伸出圆手",
+      "onboard_time": 1769246360,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 177476,
@@ -707,19 +731,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 166444,
-      "num": 140682,
-      "word": "杨幂12年后的退休计划",
-      "onboard_time": 1769242701,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 165665,
       "num": 236877,
       "word": "第一次见歌手把和声唱哭",
       "onboard_time": 1769227580,
       "rank": 8,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 165174,
+      "num": 165174,
+      "word": "何广智一开口又杀疯了",
+      "onboard_time": 1769246541,
+      "rank": 38,
       "category": "综艺"
     },
     {
@@ -803,12 +827,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 146783,
+      "num": 112460,
+      "word": "网红办杀猪宴和村民产生纠纷",
+      "onboard_time": 1769244142,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 145076,
       "num": 145076,
       "word": "广州一家三口住桥洞靠拾荒为生",
       "onboard_time": 1769180721,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 143898,
+      "num": 143898,
+      "word": "U23亚洲杯国足赛前喊话太燃了",
+      "onboard_time": 1769245281,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 143002,
@@ -843,6 +883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 141591,
+      "num": 121720,
+      "word": "喵娲娲连送五天微博之夜门票",
+      "onboard_time": 1769246600,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 141511,
       "num": 141511,
       "word": "21岁白血病女大学生疑似生父出现",
@@ -873,14 +921,6 @@
       "onboard_time": 1769185100,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 137634,
-      "num": 121720,
-      "word": "喵娲娲连送五天微博之夜门票",
-      "onboard_time": 1769246600,
-      "rank": 17,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 136502,
@@ -947,6 +987,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 131132,
+      "num": 131132,
+      "word": "电视剧拿错包的情节真发生了",
+      "onboard_time": 1769244082,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 131028,
       "num": 131028,
       "word": "邵子恒 素颜战神",
@@ -971,6 +1019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 127795,
+      "num": 127795,
+      "word": "小象被砸动物园道歉网友不买账",
+      "onboard_time": 1769245220,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 125234,
       "num": 128673,
       "word": "夫妻俩吃网购娃娃菜中毒全身出血",
@@ -985,22 +1041,6 @@
       "onboard_time": 1769210297,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 124761,
-      "num": 112460,
-      "word": "网红办杀猪宴和村民产生纠纷",
-      "onboard_time": 1769244142,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 123188,
-      "num": 123188,
-      "word": "小象被砸动物园道歉网友不买账",
-      "onboard_time": 1769245220,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 123057,
@@ -1059,14 +1099,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 119930,
-      "num": 114565,
-      "word": "沈腾 什么是伸出圆手",
-      "onboard_time": 1769246360,
-      "rank": 22,
-      "category": "电影"
-    },
-    {
       "raw_hot": 119699,
       "num": 102705,
       "word": "步惊云 洗牌都是半夜洗",
@@ -1105,22 +1137,6 @@
       "onboard_time": 1769235440,
       "rank": 16,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 116135,
-      "num": 116135,
-      "word": "电视剧拿错包的情节真发生了",
-      "onboard_time": 1769244082,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 115692,
-      "num": 115692,
-      "word": "U23亚洲杯国足赛前喊话太燃了",
-      "onboard_time": 1769245281,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 115427,
@@ -1243,6 +1259,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 105493,
+      "num": 105493,
+      "word": "王欣瑜vs诺斯科娃",
+      "onboard_time": 1769245641,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 104985,
+      "num": 93117,
+      "word": "刘浩存马年春晚彩排",
+      "onboard_time": 1769247321,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 104322,
       "num": 104322,
       "word": "范志毅谈U23制胜关键点",
@@ -1273,6 +1305,14 @@
       "onboard_time": 1769241802,
       "rank": 32,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 102649,
+      "num": 102649,
+      "word": "U23国足对日本U23战绩",
+      "onboard_time": 1769247441,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 102201,
@@ -1355,14 +1395,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 99927,
-      "num": 99927,
-      "word": "王欣瑜vs诺斯科娃",
-      "onboard_time": 1769245641,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 99541,
       "num": 99541,
       "word": "诗幂再同框 惊蛰无声你好事做尽",
@@ -1379,12 +1411,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 98347,
-      "num": 98347,
-      "word": "何广智一开口又杀疯了",
-      "onboard_time": 1769246541,
-      "rank": 38,
-      "category": "综艺"
+      "raw_hot": 97927,
+      "num": 97927,
+      "word": "国足",
+      "onboard_time": 1769245101,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 96829,
@@ -1457,6 +1489,14 @@
       "onboard_time": 1769228239,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 94937,
+      "num": 89301,
+      "word": "张真源高音唱出屏幕了",
+      "onboard_time": 1769246722,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 94598,
@@ -1611,16 +1651,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 87067,
-      "num": 86078,
-      "word": "张真源高音唱出屏幕了",
-      "onboard_time": 1769246722,
-      "rank": 41,
-      "category": "演出"
-    },
-    {
       "raw_hot": 87019,
-      "num": 87019,
+      "num": 89253,
       "word": "出门旅游摔到后脑勺失忆了",
       "onboard_time": 1769244501,
       "rank": 37,
@@ -1713,6 +1745,14 @@
       "onboard_time": 1769223619,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 84157,
+      "num": 88267,
+      "word": "直观感受到女生的钱都花在哪了",
+      "onboard_time": 1769247620,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 84077,
@@ -1992,6 +2032,14 @@
       "word": "U23亚洲杯射手榜",
       "onboard_time": 1769244441,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 75390,
+      "num": 75390,
+      "word": "大坂直美退赛",
+      "onboard_time": 1769247560,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -2459,6 +2507,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 29933,
+      "num": 136306,
+      "word": "infp里来了只喵娲娲",
+      "onboard_time": 1769245521,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 29265,
       "num": 155826,
       "word": "天冷请到抖音商城年货节加衣",
@@ -2545,14 +2601,6 @@
       "onboard_time": 1769226260,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 21666,
-      "num": 123485,
-      "word": "infp里来了只喵娲娲",
-      "onboard_time": 1769245521,
-      "rank": 14,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 19959,
