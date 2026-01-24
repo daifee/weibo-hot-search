@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/24 19:25:08
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/24 19:39:48
 </p>
 </blockquote>
 <p>
@@ -3759,6 +3759,12 @@ iPhone18Pro渲染视频曝光（热度：621333）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB5%E5%B2%81%E5%84%BF%E5%AD%90%E5%BC%BA%E5%BF%8D%E6%81%90%E6%83%A7%E6%96%BD%E6%95%91%E5%A6%88%E5%A6%88%E5%8F%91%E5%A3%B0%23" target="weibo">
+被5岁儿子强忍恐惧施救妈妈发声（热度：565586）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E6%9C%80%E7%83%82%E5%A4%A7%E8%A1%97%E7%9A%84%E7%A9%BF%E6%90%AD%23" target="weibo">
 今年最烂大街的穿搭（热度：565209）
 </a>
@@ -4499,12 +4505,6 @@ ICE枪杀（热度：522348）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2326%E5%B2%81%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%AE%B6%E9%87%8C%E7%86%9F%E7%9D%A1%E4%B8%AD%E7%8C%9D%E6%AD%BB%23" target="weibo">
 26岁工程师家里熟睡中猝死（热度：520710）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB5%E5%B2%81%E5%84%BF%E5%AD%90%E5%BC%BA%E5%BF%8D%E6%81%90%E6%83%A7%E6%96%BD%E6%95%91%E5%A6%88%E5%A6%88%E5%8F%91%E5%A3%B0%23" target="weibo">
-被5岁儿子强忍恐惧施救妈妈发声（热度：520698）
 </a>
 </li>
 
