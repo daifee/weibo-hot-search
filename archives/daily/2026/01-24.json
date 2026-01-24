@@ -1,6 +1,6 @@
 {
   "startTime": 1769186467234,
-  "endTime": 1769236924564,
+  "endTime": 1769237757644,
   "band_list": [
     {
       "raw_hot": 1875992,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 878214,
-      "num": 134910,
+      "num": 174504,
       "word": "佘诗曼公布遗嘱细节",
       "onboard_time": 1769232860,
       "rank": 28,
@@ -195,20 +195,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 376336,
+      "num": 376336,
+      "word": "新疆雪豹伤人事发画面曝光",
+      "onboard_time": 1769234481,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 375558,
       "num": 216384,
       "word": "张杰送黄金",
       "onboard_time": 1769228900,
       "rank": 16,
       "category": "演出"
-    },
-    {
-      "raw_hot": 364878,
-      "num": 364878,
-      "word": "新疆雪豹伤人事发画面曝光",
-      "onboard_time": 1769234481,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 352873,
@@ -324,7 +324,7 @@
     },
     {
       "raw_hot": 268114,
-      "num": 121620,
+      "num": 160599,
       "word": "Angelababy好久没录综艺了",
       "onboard_time": 1769232740,
       "rank": 33,
@@ -371,6 +371,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 242171,
+      "num": 242171,
+      "word": "王鹤棣曝范丞丞放节目组鸽子",
+      "onboard_time": 1769233879,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 238788,
+      "num": 238788,
+      "word": "庾澄庆说有幸被肖战重新演绎",
+      "onboard_time": 1769234661,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 233446,
       "num": 145306,
       "word": "26岁工程师家里熟睡中猝死",
@@ -385,14 +401,6 @@
       "onboard_time": 1769224400,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 225105,
-      "num": 225105,
-      "word": "王鹤棣曝范丞丞放节目组鸽子",
-      "onboard_time": 1769233879,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 224257,
@@ -451,12 +459,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 197665,
-      "num": 115786,
-      "word": "庾澄庆说有幸被肖战重新演绎",
-      "onboard_time": 1769234661,
-      "rank": 17,
-      "category": "综艺"
+      "raw_hot": 196710,
+      "num": 167766,
+      "word": "iPhone Air官方价格暴跌2000元",
+      "onboard_time": 1769237000,
+      "rank": 12,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 196114,
+      "num": 783062,
+      "word": "女子为治病卖劳力士账户被冻结",
+      "onboard_time": 1769235860,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 194889,
@@ -476,7 +492,7 @@
     },
     {
       "raw_hot": 191099,
-      "num": 112047,
+      "num": 130929,
       "word": "女孩确诊白血病才发现自己非亲生",
       "onboard_time": 1769233759,
       "rank": 24,
@@ -585,6 +601,22 @@
       "onboard_time": 1769179341,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 156419,
+      "num": 120948,
+      "word": "黄子韬宋祖儿居然合作过",
+      "onboard_time": 1769237540,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 155805,
+      "num": 155805,
+      "word": "猫 真有那么臭吗",
+      "onboard_time": 1769236101,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 155369,
@@ -852,7 +884,7 @@
     },
     {
       "raw_hot": 116243,
-      "num": 116243,
+      "num": 182106,
       "word": "狼队处罚邹云辉",
       "onboard_time": 1769235440,
       "rank": 16,
@@ -915,6 +947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 110787,
+      "num": 110787,
+      "word": "美国网友被白宫气笑了",
+      "onboard_time": 1769236520,
+      "rank": 35,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 109893,
       "num": 109893,
       "word": "金饰克价涨到1551元",
@@ -939,12 +979,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 102614,
-      "num": 783062,
-      "word": "女子为治病卖劳力士账户被冻结",
-      "onboard_time": 1769235860,
-      "rank": 1,
-      "category": "民生新闻"
+      "raw_hot": 104322,
+      "num": 104322,
+      "word": "范志毅谈U23制胜关键点",
+      "onboard_time": 1769237299,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 102055,
@@ -1003,14 +1043,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 98242,
-      "num": 96652,
-      "word": "猫 真有那么臭吗",
-      "onboard_time": 1769236101,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 96829,
       "num": 96829,
       "word": "短剧里的婚礼比偶像剧还会拍",
@@ -1033,6 +1065,14 @@
       "onboard_time": 1769218220,
       "rank": 28,
       "category": "财经"
+    },
+    {
+      "raw_hot": 95456,
+      "num": 95456,
+      "word": "周雨彤新剧完全可爱来的",
+      "onboard_time": 1769236820,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 95131,
@@ -1137,14 +1177,6 @@
       "onboard_time": 1769228838,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 89369,
-      "num": 89369,
-      "word": "美国网友被白宫气笑了",
-      "onboard_time": 1769236520,
-      "rank": 35,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 89192,
@@ -1289,6 +1321,14 @@
       "onboard_time": 1769234899,
       "rank": 38,
       "category": "财经"
+    },
+    {
+      "raw_hot": 83784,
+      "num": 79546,
+      "word": "成都这么冷钟汉良短裤短袖跑步",
+      "onboard_time": 1769237240,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 83746,
@@ -1467,14 +1507,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 72825,
-      "num": 72825,
-      "word": "周雨彤新剧完全可爱来的",
-      "onboard_time": 1769236820,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 72614,
       "num": 72614,
       "word": "微博之夜抢座101",
@@ -1505,6 +1537,14 @@
       "onboard_time": 1769235260,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 70334,
+      "num": 70334,
+      "word": "国足今晚将对阵日本",
+      "onboard_time": 1769237181,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 69644,
@@ -1764,7 +1804,7 @@
     },
     {
       "raw_hot": 38586,
-      "num": 103365,
+      "num": 104614,
       "word": "假期越长终末地越爽",
       "onboard_time": 1769234661,
       "rank": 27,
@@ -1859,6 +1899,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 29265,
+      "num": 155826,
+      "word": "天冷请到抖音商城年货节加衣",
+      "onboard_time": 1769234601,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 28333,
       "num": 32990,
       "word": "最强大脑",
@@ -1899,6 +1947,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 23082,
+      "num": 80320,
+      "word": "谁懂刘宇宁整理围巾的这一下",
+      "onboard_time": 1769237540,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 22757,
       "num": 83112,
       "word": "31岁民警执行任务遭袭牺牲",
@@ -1913,14 +1969,6 @@
       "onboard_time": 1769226260,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 21176,
-      "num": 115112,
-      "word": "天冷请到抖音商城年货节加衣",
-      "onboard_time": 1769234601,
-      "rank": 19,
-      "category": "互联网"
     },
     {
       "raw_hot": 19959,
@@ -2016,6 +2064,14 @@
       "word": "精神中国人为什么火了",
       "onboard_time": 1769221700,
       "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10656,
+      "num": 97683,
+      "word": "事业单位出纳6年贪4289万公款",
+      "onboard_time": 1769237661,
+      "rank": 34,
       "category": "民生新闻"
     },
     {

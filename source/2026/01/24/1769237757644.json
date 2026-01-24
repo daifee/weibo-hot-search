@@ -1,0 +1,410 @@
+{
+  "runTime": 1769237757644,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 274516,
+        "num": 1043922,
+        "word": "白宫晒特朗普格陵兰牵企鹅照翻车",
+        "onboard_time": 1769223379,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 196114,
+        "num": 732927,
+        "word": "女子为治病卖劳力士账户被冻结",
+        "onboard_time": 1769235860,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28233,
+        "num": 615303,
+        "word": "中国专利的含金量满满",
+        "onboard_time": 1769226619,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 376336,
+        "num": 376336,
+        "word": "新疆雪豹伤人事发画面曝光",
+        "onboard_time": 1769234481,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 242171,
+        "num": 242171,
+        "word": "王鹤棣曝范丞丞放节目组鸽子",
+        "onboard_time": 1769233879,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238788,
+        "num": 238788,
+        "word": "庾澄庆说有幸被肖战重新演绎",
+        "onboard_time": 1769234661,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192053,
+        "num": 192053,
+        "word": "00后真的是各过各的",
+        "onboard_time": 1769224878,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121758,
+        "num": 191194,
+        "word": "买钻戒送银杯如今身价被反超",
+        "onboard_time": 1769230579,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 110036,
+        "num": 187101,
+        "word": "外卖发展成这样了",
+        "onboard_time": 1769223979,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 81405,
+        "num": 182106,
+        "word": "狼队处罚邹云辉",
+        "onboard_time": 1769235440,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 797865,
+        "num": 174504,
+        "word": "佘诗曼公布遗嘱细节",
+        "onboard_time": 1769232860,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 399691,
+        "num": 170134,
+        "word": "黄景瑜已开始接受相关训练",
+        "onboard_time": 1769232800,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196710,
+        "num": 167766,
+        "word": "iPhone Air官方价格暴跌2000元",
+        "onboard_time": 1769237000,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 253189,
+        "num": 160599,
+        "word": "Angelababy好久没录综艺了",
+        "onboard_time": 1769232740,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237113,
+        "num": 158612,
+        "word": "卢凌风你的大唐完了",
+        "onboard_time": 1769231481,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155877,
+        "num": 155877,
+        "word": "爱与不爱真的很明显",
+        "onboard_time": 1769220798,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 213285,
+        "num": 155859,
+        "word": "白鹿说这是自己最后一部打戏了",
+        "onboard_time": 1769229862,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29265,
+        "num": 155826,
+        "word": "天冷请到抖音商城年货节加衣",
+        "onboard_time": 1769234601,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 194833,
+        "num": 155820,
+        "word": "TOP8小时直播",
+        "onboard_time": 1769231599,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155805,
+        "num": 155805,
+        "word": "猫 真有那么臭吗",
+        "onboard_time": 1769236101,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 585346,
+        "num": 155676,
+        "word": "卢昱晓10个月瘦了一大圈",
+        "onboard_time": 1769232440,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 568192,
+        "num": 145120,
+        "word": "车银优或被判刑",
+        "onboard_time": 1769230579,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193524,
+        "num": 133266,
+        "word": "谷爱凌说美国已经有代表了",
+        "onboard_time": 1769231240,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180253,
+        "num": 130929,
+        "word": "女孩确诊白血病才发现自己非亲生",
+        "onboard_time": 1769233759,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156419,
+        "num": 120948,
+        "word": "黄子韬宋祖儿居然合作过",
+        "onboard_time": 1769237540,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115784,
+        "num": 115784,
+        "word": "花儿与少年8",
+        "onboard_time": 1769217378,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110787,
+        "num": 110787,
+        "word": "美国网友被白宫气笑了",
+        "onboard_time": 1769236520,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 144300,
+        "num": 108457,
+        "word": "D社曝车银优至少赚了1000亿韩元",
+        "onboard_time": 1769229739,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25151,
+        "num": 104614,
+        "word": "假期越长终末地越爽",
+        "onboard_time": 1769234661,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 104605,
+        "num": 104605,
+        "word": "抄近道回家带了一个车队",
+        "onboard_time": 1769236221,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 243754,
+        "num": 104556,
+        "word": "梓渝工作室vlog",
+        "onboard_time": 1769230821,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104322,
+        "num": 104322,
+        "word": "范志毅谈U23制胜关键点",
+        "onboard_time": 1769237299,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101333,
+        "num": 101333,
+        "word": "白银彻底涨疯",
+        "onboard_time": 1769211557,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 100580,
+        "num": 100580,
+        "word": "夫妻同进ICU怀疑网购的蔬菜",
+        "onboard_time": 1769220138,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10656,
+        "num": 97683,
+        "word": "事业单位出纳6年贪4289万公款",
+        "onboard_time": 1769237661,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95456,
+        "num": 95456,
+        "word": "周雨彤新剧完全可爱来的",
+        "onboard_time": 1769236820,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85924,
+        "num": 85924,
+        "word": "于洋把白鹿认成徐艺洋",
+        "onboard_time": 1769236338,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81455,
+        "num": 81455,
+        "word": "原来草莓是控糖隐藏高手",
+        "onboard_time": 1769230579,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 23082,
+        "num": 80320,
+        "word": "谁懂刘宇宁整理围巾的这一下",
+        "onboard_time": 1769237540,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84363,
+        "num": 80158,
+        "word": "叶童没想到乘风还有后续",
+        "onboard_time": 1769235200,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79862,
+        "num": 79862,
+        "word": "这些都是抗炎饮食",
+        "onboard_time": 1769233639,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 83784,
+        "num": 79546,
+        "word": "成都这么冷钟汉良短裤短袖跑步",
+        "onboard_time": 1769237240,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75606,
+        "num": 75606,
+        "word": "J人和P人吃外卖的差别",
+        "onboard_time": 1769224940,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 75184,
+        "num": 75184,
+        "word": "建议长期久坐的人这样吃饭",
+        "onboard_time": 1769229200,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 72760,
+        "num": 72760,
+        "word": "市民彻夜排队抢购黄金",
+        "onboard_time": 1769234899,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 72507,
+        "num": 72507,
+        "word": "王心凌这段真没剧本吗",
+        "onboard_time": 1769233820,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 71577,
+        "num": 71577,
+        "word": "王嘉尔 怎么照顾它啊",
+        "onboard_time": 1769235980,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70784,
+        "num": 70784,
+        "word": "顾客在爱心面馆吃1碗存5碗",
+        "onboard_time": 1769232020,
+        "rank": 47,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 70334,
+        "num": 70334,
+        "word": "国足今晚将对阵日本",
+        "onboard_time": 1769237181,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 69956,
+        "num": 69956,
+        "word": "肖战刘宇宁檀健次北京卫视春晚彩排",
+        "onboard_time": 1769235740,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#赓续中华文脉谱写时代华章#"
+    }
+  }
+}
