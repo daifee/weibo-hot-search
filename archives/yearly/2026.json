@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769268508422,
+  "endTime": 1769269362314,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -11,8 +11,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 15020348,
-      "num": 15020348,
+      "raw_hot": 15603533,
+      "num": 15603533,
       "word": "U23国足vs日本",
       "onboard_time": 1769191934,
       "rank": 8,
@@ -2139,6 +2139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 853847,
+      "num": 297686,
+      "word": "女教师校内宿舍病亡两天后被发现",
+      "onboard_time": 1769264362,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 853809,
       "num": 316523,
       "word": "佟丽娅连续三年收到苏翊鸣的滑板",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1767963080,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 820085,
-      "num": 622494,
-      "word": "朱媛媛出场",
-      "onboard_time": 1768052243,
-      "rank": 5,
-      "category": "剧集"
     }
   ],
   "hotgov_list": [

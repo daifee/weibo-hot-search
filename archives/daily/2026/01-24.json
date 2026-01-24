@@ -1,10 +1,10 @@
 {
   "startTime": 1769186467234,
-  "endTime": 1769268508422,
+  "endTime": 1769269362314,
   "band_list": [
     {
-      "raw_hot": 15020348,
-      "num": 15020348,
+      "raw_hot": 15603533,
+      "num": 15603533,
       "word": "U23国足vs日本",
       "onboard_time": 1769191934,
       "rank": 8,
@@ -59,6 +59,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 853847,
+      "num": 297686,
+      "word": "女教师校内宿舍病亡两天后被发现",
+      "onboard_time": 1769264362,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 850051,
       "num": 475748,
       "word": "张杰不再参加任何需要投票的活动",
@@ -97,14 +105,6 @@
       "onboard_time": 1769209576,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 767879,
-      "num": 297686,
-      "word": "女教师校内宿舍病亡两天后被发现",
-      "onboard_time": 1769264362,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 710331,
@@ -153,6 +153,14 @@
       "onboard_time": 1769232440,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 577289,
+      "num": 2619490,
+      "word": "日本进球",
+      "onboard_time": 1769268204,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 565586,
@@ -323,6 +331,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 402785,
+      "num": 253576,
+      "word": "太平年 牵羊礼",
+      "onboard_time": 1769264063,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 397223,
       "num": 397223,
       "word": "短剧拍了豪门围剿小镇做题家",
@@ -393,14 +409,6 @@
       "onboard_time": 1769263102,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 354816,
-      "num": 253576,
-      "word": "太平年 牵羊礼",
-      "onboard_time": 1769264063,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 352873,
@@ -811,6 +819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 219039,
+      "num": 219039,
+      "word": "40岁男子吃鱼生后胆管爬满虫子",
+      "onboard_time": 1769266882,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 217859,
       "num": 86875,
       "word": "中方回应8国将加入和平委员会",
@@ -851,6 +867,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 207338,
+      "num": 207338,
+      "word": "U23男足0比2落后",
+      "onboard_time": 1769268864,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 206702,
       "num": 206702,
       "word": "一下就对青春期男生祛魅了",
@@ -865,6 +889,14 @@
       "onboard_time": 1769216239,
       "rank": 19,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 204360,
+      "num": 204360,
+      "word": "刘宇宁直播",
+      "onboard_time": 1769268204,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 202041,
@@ -995,14 +1027,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 181396,
-      "num": 172679,
-      "word": "刘宇宁直播",
-      "onboard_time": 1769268204,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 180817,
       "num": 180817,
       "word": "王赫野吉隆坡演唱会上座率",
@@ -1019,19 +1043,19 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 177667,
+      "num": 146139,
+      "word": "U23国足落后日本",
+      "onboard_time": 1769269104,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 177476,
       "num": 123140,
       "word": "李昊身价暴涨至2000万级别",
       "onboard_time": 1769218879,
       "rank": 21,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 176635,
-      "num": 176635,
-      "word": "日本进球",
-      "onboard_time": 1769268204,
-      "rank": 9,
       "category": "体育"
     },
     {
@@ -1041,14 +1065,6 @@
       "onboard_time": 1769241561,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 173423,
-      "num": 173423,
-      "word": "40岁男子吃鱼生后胆管爬满虫子",
-      "onboard_time": 1769266882,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 173159,
@@ -1227,6 +1243,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 152533,
+      "num": 142372,
+      "word": "边伯贤ins更新",
+      "onboard_time": 1769268744,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 152337,
       "num": 295545,
       "word": "白银彻底涨疯",
@@ -1387,6 +1411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 140925,
+      "num": 140925,
+      "word": "张栋梁40岁甜男界顶流返场",
+      "onboard_time": 1769268146,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 140374,
       "num": 116157,
       "word": "九尾收到长生转账",
@@ -1409,6 +1441,14 @@
       "onboard_time": 1769174900,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 139531,
+      "num": 139531,
+      "word": "空气炸锅垫纸别非要挑大的买",
+      "onboard_time": 1769266762,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 138148,
@@ -1576,14 +1616,6 @@
       "word": "小象被砸动物园道歉网友不买账",
       "onboard_time": 1769245220,
       "rank": 15,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 127099,
-      "num": 127099,
-      "word": "空气炸锅垫纸别非要挑大的买",
-      "onboard_time": 1769266762,
-      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -1761,6 +1793,14 @@
       "onboard_time": 1769230579,
       "rank": 29,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 117475,
+      "num": 117475,
+      "word": "祝绪丹 金枝玉叶具象化",
+      "onboard_time": 1769267964,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 116297,
@@ -1945,14 +1985,6 @@
       "onboard_time": 1769220919,
       "rank": 24,
       "category": "财经"
-    },
-    {
-      "raw_hot": 108076,
-      "num": 108076,
-      "word": "祝绪丹 金枝玉叶具象化",
-      "onboard_time": 1769267964,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 108003,
@@ -2235,6 +2267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 96963,
+      "num": 131620,
+      "word": "俄美乌三方谈完了",
+      "onboard_time": 1769267063,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 96829,
       "num": 96829,
       "word": "短剧里的婚礼比偶像剧还会拍",
@@ -2257,14 +2297,6 @@
       "onboard_time": 1769238800,
       "rank": 40,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 96076,
-      "num": 96076,
-      "word": "张栋梁40岁甜男界顶流返场",
-      "onboard_time": 1769268146,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 95947,
@@ -2448,6 +2480,14 @@
       "word": "澳网因高温暂停",
       "onboard_time": 1769228838,
       "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 89853,
+      "num": 89853,
+      "word": "王欣瑜澳网收获230万奖金",
+      "onboard_time": 1769268504,
+      "rank": 45,
       "category": "体育"
     },
     {
@@ -2907,14 +2947,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 79394,
-      "num": 131620,
-      "word": "俄美乌三方谈完了",
-      "onboard_time": 1769267063,
-      "rank": 28,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 79180,
       "num": 79180,
       "word": "德约科维奇进澳网16强",
@@ -3251,6 +3283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 65266,
+      "num": 152894,
+      "word": "26岁国企出纳赌掉千万公款",
+      "onboard_time": 1769268024,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 64903,
       "num": 78231,
       "word": "Lululemon新款瑜伽裤太透明被下架",
@@ -3268,7 +3308,7 @@
     },
     {
       "raw_hot": 62824,
-      "num": 1959270,
+      "num": 1996658,
       "word": "太空月季回来了",
       "onboard_time": 1769259621,
       "rank": 2,
@@ -3651,11 +3691,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 30468,
-      "num": 152894,
-      "word": "26岁国企出纳赌掉千万公款",
-      "onboard_time": 1769268024,
-      "rank": 19,
+      "raw_hot": 30490,
+      "num": 98414,
+      "word": "小区1520个车位宁可空着也不让临停",
+      "onboard_time": 1769268744,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -3745,6 +3785,14 @@
       "onboard_time": 1769249840,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 25264,
+      "num": 207107,
+      "word": "直击U23亚洲杯中日决赛",
+      "onboard_time": 1769268266,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 24061,
@@ -3977,14 +4025,6 @@
       "onboard_time": 1769221700,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 12107,
-      "num": 143999,
-      "word": "直击U23亚洲杯中日决赛",
-      "onboard_time": 1769268266,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 11744,
