@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/25 00:34:24 ~ 2026/01/25 06:28:10
+本榜单时间：2026/01/25 00:34:24 ~ 2026/01/25 06:44:12
 </p>
 </blockquote>
 <p>
@@ -465,6 +465,12 @@ TWS中文歌舞台（热度：30210）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E8%80%90%E5%BF%83%E5%90%AC%E8%AE%B2%E8%A7%A3%23" target="weibo">
+肖战耐心听讲解（热度：27947）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23U23%E7%94%B7%E8%B6%B3%E4%BA%9A%E6%B4%B2%E6%9D%AF%E4%BA%9A%E5%86%9B%23" target="weibo">
 U23男足亚洲杯亚军（热度：27944）
 </a>
@@ -495,14 +501,14 @@ U23男足亚洲杯亚军（热度：27944）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E8%80%90%E5%BF%83%E5%90%AC%E8%AE%B2%E8%A7%A3%23" target="weibo">
-肖战耐心听讲解（热度：20213）
+<a href="https://s.weibo.com/weibo?q=%23%E5%BD%92%E9%B8%BE%23" target="weibo">
+归鸾（热度：16616）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BD%92%E9%B8%BE%23" target="weibo">
-归鸾（热度：15597）
+<a href="https://s.weibo.com/weibo?q=%23300%E4%B8%87%E5%85%83%E5%A4%AA%E7%A9%BA%E8%88%B9%E7%A5%A8%E9%A2%84%E5%94%AE%E7%89%B5%E5%87%BA%E5%AD%A6%E5%8E%86%E9%A3%8E%E6%B3%A2%23" target="weibo">
+300万元太空船票预售牵出学历风波（热度：16482）
 </a>
 </li>
 
