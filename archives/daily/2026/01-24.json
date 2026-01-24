@@ -1,6 +1,6 @@
 {
   "startTime": 1769186467234,
-  "endTime": 1769229920029,
+  "endTime": 1769230486821,
   "band_list": [
     {
       "raw_hot": 1875992,
@@ -35,6 +35,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 704789,
+      "num": 225791,
+      "word": "猝死工程师月收入7000元左右",
+      "onboard_time": 1769229200,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 550661,
       "num": 148453,
       "word": "苹果用户的天塌了",
@@ -60,14 +68,14 @@
     },
     {
       "raw_hot": 521137,
-      "num": 1045381,
+      "num": 1045528,
       "word": "夫妻同进ICU怀疑网购的蔬菜",
       "onboard_time": 1769220138,
       "rank": 31,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 503104,
+      "raw_hot": 516466,
       "num": 297707,
       "word": "00后真的是各过各的",
       "onboard_time": 1769224878,
@@ -131,14 +139,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 369753,
-      "num": 225791,
-      "word": "猝死工程师月收入7000元左右",
-      "onboard_time": 1769229200,
-      "rank": 11,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 352873,
       "num": 294499,
       "word": "孙千工作室向粉丝道歉",
@@ -177,6 +177,14 @@
       "onboard_time": 1769174481,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 307892,
+      "num": 212097,
+      "word": "张杰送黄金",
+      "onboard_time": 1769228900,
+      "rank": 16,
+      "category": "演出"
     },
     {
       "raw_hot": 306274,
@@ -227,7 +235,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 252084,
+      "raw_hot": 254797,
       "num": 223062,
       "word": "李行亮 2010快男麦琳最火",
       "onboard_time": 1769226138,
@@ -251,6 +259,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 248059,
+      "num": 129950,
+      "word": "女主大大方方男主羞羞答答",
+      "onboard_time": 1769229319,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 233446,
       "num": 145306,
       "word": "26岁工程师家里熟睡中猝死",
@@ -265,6 +281,14 @@
       "onboard_time": 1769224400,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 228636,
+      "num": 197511,
+      "word": "佘诗曼不婚原因",
+      "onboard_time": 1769229559,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 224257,
@@ -291,14 +315,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 212097,
-      "num": 212097,
-      "word": "张杰送黄金",
-      "onboard_time": 1769228900,
-      "rank": 16,
-      "category": "演出"
-    },
-    {
       "raw_hot": 206702,
       "num": 206702,
       "word": "一下就对青春期男生祛魅了",
@@ -315,6 +331,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 198016,
+      "num": 127033,
+      "word": "D社曝车银优至少赚了1000亿韩元",
+      "onboard_time": 1769229739,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 194889,
       "num": 129493,
       "word": "庞博的学历再一次得到证实",
@@ -328,14 +352,6 @@
       "word": "王珞丹黄宗泽吻戏张力",
       "onboard_time": 1769223080,
       "rank": 15,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 190786,
-      "num": 127486,
-      "word": "女主大大方方男主羞羞答答",
-      "onboard_time": 1769229319,
-      "rank": 24,
       "category": "剧集"
     },
     {
@@ -369,6 +385,14 @@
       "onboard_time": 1769218879,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 183747,
+      "num": 210805,
+      "word": "白鹿说这是自己最后一部打戏了",
+      "onboard_time": 1769229862,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 177476,
@@ -435,6 +459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 159896,
+      "num": 148518,
+      "word": "蔡徐坤被鼓励 不说我走了是我出发了",
+      "onboard_time": 1769228659,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 159084,
       "num": 132719,
       "word": "黄景瑜签约航天公司仅4项发明专利",
@@ -467,28 +499,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 152337,
+      "num": 295545,
+      "word": "白银彻底涨疯",
+      "onboard_time": 1769211557,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
       "raw_hot": 150332,
       "num": 150332,
       "word": "不建议个人用SIM卡提炼黄金",
       "onboard_time": 1769178203,
       "rank": 6,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 148518,
-      "num": 148518,
-      "word": "蔡徐坤被鼓励 不说我走了是我出发了",
-      "onboard_time": 1769228659,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 147834,
-      "num": 295545,
-      "word": "白银彻底涨疯",
-      "onboard_time": 1769211557,
-      "rank": 40,
-      "category": "财经"
     },
     {
       "raw_hot": 145076,
@@ -571,6 +595,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 134714,
+      "num": 129519,
+      "word": "谷爱凌回应再代表中国参加冬奥",
+      "onboard_time": 1769227280,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132994,
       "num": 132994,
       "word": "成人英语网络性感教学引争议",
@@ -587,16 +619,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 130695,
-      "num": 126165,
-      "word": "佘诗曼不婚原因",
-      "onboard_time": 1769229559,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 129598,
-      "num": 129598,
+      "raw_hot": 131439,
+      "num": 131439,
       "word": "J人和P人吃外卖的差别",
       "onboard_time": 1769224940,
       "rank": 31,
@@ -616,14 +640,6 @@
       "word": "邓琳琳回应在芜湖产子",
       "onboard_time": 1769210297,
       "rank": 25,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 123975,
-      "num": 123975,
-      "word": "谷爱凌回应再代表中国参加冬奥",
-      "onboard_time": 1769227280,
-      "rank": 39,
       "category": "体育"
     },
     {
@@ -747,16 +763,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 103492,
-      "num": 103492,
-      "word": "白鹿说这是自己最后一部打戏了",
-      "onboard_time": 1769229862,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 102930,
-      "num": 102930,
+      "raw_hot": 105854,
+      "num": 105854,
       "word": "建议长期久坐的人这样吃饭",
       "onboard_time": 1769229200,
       "rank": 38,
@@ -793,14 +801,6 @@
       "onboard_time": 1769221399,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 100951,
-      "num": 100951,
-      "word": "D社曝车银优至少赚了1000亿韩元",
-      "onboard_time": 1769229739,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 100005,
@@ -1035,12 +1035,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 82743,
+      "num": 82743,
+      "word": "人 咪会找到床的最中间睡觉",
+      "onboard_time": 1769229920,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 82022,
       "num": 82022,
       "word": "张泽禹课表",
       "onboard_time": 1769217139,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 81704,
+      "num": 81704,
+      "word": "出现这些症状说明你太累了",
+      "onboard_time": 1769226980,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 80928,
@@ -1137,6 +1153,14 @@
       "onboard_time": 1769184140,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 71274,
+      "num": 215954,
+      "word": "日本U23男足实力分析",
+      "onboard_time": 1769229501,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 69644,
@@ -1339,14 +1363,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 44970,
-      "num": 215954,
-      "word": "日本U23男足实力分析",
-      "onboard_time": 1769229501,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
       "raw_hot": 43150,
       "num": 52250,
       "word": "张杰写给粉丝的信",
@@ -1409,6 +1425,14 @@
       "onboard_time": 1769178741,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 33103,
+      "num": 91176,
+      "word": "日本四位前首相同框",
+      "onboard_time": 1769230340,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 32927,
@@ -1577,6 +1601,14 @@
       "onboard_time": 1769196435,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 15077,
+      "num": 92020,
+      "word": "4人因遛狗起冲突致3伤",
+      "onboard_time": 1769230340,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14012,

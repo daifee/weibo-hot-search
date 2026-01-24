@@ -1,6 +1,6 @@
 {
   "startTime": 1768667567906,
-  "endTime": 1769229920029,
+  "endTime": 1769230486821,
   "band_list": [
     {
       "raw_hot": 9430476,
@@ -939,6 +939,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 704789,
+      "num": 225791,
+      "word": "猝死工程师月收入7000元左右",
+      "onboard_time": 1769229200,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 700782,
       "num": 213760,
       "word": "棣爸透露棣妈油炸经营情况",
@@ -1788,7 +1796,7 @@
     },
     {
       "raw_hot": 521137,
-      "num": 1045381,
+      "num": 1045528,
       "word": "夫妻同进ICU怀疑网购的蔬菜",
       "onboard_time": 1769220138,
       "rank": 31,
@@ -1825,6 +1833,14 @@
       "onboard_time": 1768727301,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 516466,
+      "num": 297707,
+      "word": "00后真的是各过各的",
+      "onboard_time": 1769224878,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 515519,
@@ -1905,14 +1921,6 @@
       "onboard_time": 1769074222,
       "rank": 31,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 503104,
-      "num": 297707,
-      "word": "00后真的是各过各的",
-      "onboard_time": 1769224878,
-      "rank": 21,
-      "category": "幽默"
     },
     {
       "raw_hot": 502412,
@@ -3051,14 +3059,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 369753,
-      "num": 225791,
-      "word": "猝死工程师月收入7000元左右",
-      "onboard_time": 1769229200,
-      "rank": 11,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 369429,
       "num": 312455,
       "word": "猝死程序员妻子不想他连死都没有价值",
@@ -3801,6 +3801,14 @@
       "onboard_time": 1768822942,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 307892,
+      "num": 212097,
+      "word": "张杰送黄金",
+      "onboard_time": 1769228900,
+      "rank": 16,
+      "category": "演出"
     },
     {
       "raw_hot": 307443,
@@ -4795,6 +4803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 254797,
+      "num": 223062,
+      "word": "李行亮 2010快男麦琳最火",
+      "onboard_time": 1769226138,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 253717,
       "num": 253717,
       "word": "李微漪发声",
@@ -4848,14 +4864,6 @@
       "word": "奚梦瑶晒当妈后的幸福变化",
       "onboard_time": 1768804881,
       "rank": 23,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 252084,
-      "num": 223062,
-      "word": "李行亮 2010快男麦琳最火",
-      "onboard_time": 1769226138,
-      "rank": 33,
       "category": "艺人"
     },
     {
@@ -4937,6 +4945,14 @@
       "onboard_time": 1768660882,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 248059,
+      "num": 129950,
+      "word": "女主大大方方男主羞羞答答",
+      "onboard_time": 1769229319,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 246085,
@@ -5281,6 +5297,14 @@
       "onboard_time": 1768784419,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 228636,
+      "num": 197511,
+      "word": "佘诗曼不婚原因",
+      "onboard_time": 1769229559,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 228384,
@@ -5752,14 +5776,6 @@
       "word": "徐良官宣巡演",
       "onboard_time": 1768807942,
       "rank": 8,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 212097,
-      "num": 212097,
-      "word": "张杰送黄金",
-      "onboard_time": 1769228900,
-      "rank": 16,
       "category": "演出"
     },
     {
@@ -6275,6 +6291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 198016,
+      "num": 127033,
+      "word": "D社曝车银优至少赚了1000亿韩元",
+      "onboard_time": 1769229739,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 197978,
       "num": 636609,
       "word": "神20舷窗裂纹维修细节披露",
@@ -6587,14 +6611,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 190786,
-      "num": 127486,
-      "word": "女主大大方方男主羞羞答答",
-      "onboard_time": 1769229319,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 190695,
       "num": 190695,
       "word": "小芒APP道歉",
@@ -6897,6 +6913,14 @@
       "onboard_time": 1768692255,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 183747,
+      "num": 210805,
+      "word": "白鹿说这是自己最后一部打戏了",
+      "onboard_time": 1769229862,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 183484,
@@ -7947,6 +7971,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 159896,
+      "num": 148518,
+      "word": "蔡徐坤被鼓励 不说我走了是我出发了",
+      "onboard_time": 1769228659,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 159771,
       "num": 230216,
       "word": "dyg对战rngm",
@@ -8307,6 +8339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 152337,
+      "num": 295545,
+      "word": "白银彻底涨疯",
+      "onboard_time": 1769211557,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
       "raw_hot": 152060,
       "num": 146884,
       "word": "财务看演唱会通病",
@@ -8539,14 +8579,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 148518,
-      "num": 148518,
-      "word": "蔡徐坤被鼓励 不说我走了是我出发了",
-      "onboard_time": 1769228659,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 148486,
       "num": 146767,
       "word": "王安宇 人不可手相",
@@ -8617,14 +8649,6 @@
       "onboard_time": 1768881441,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 147834,
-      "num": 295545,
-      "word": "白银彻底涨疯",
-      "onboard_time": 1769211557,
-      "rank": 40,
-      "category": "财经"
     },
     {
       "raw_hot": 147644,
@@ -9483,6 +9507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 134714,
+      "num": 129519,
+      "word": "谷爱凌回应再代表中国参加冬奥",
+      "onboard_time": 1769227280,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134693,
       "num": 207316,
       "word": "长生王昭君并肩作战的伙伴",
@@ -9699,6 +9731,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 131439,
+      "num": 131439,
+      "word": "J人和P人吃外卖的差别",
+      "onboard_time": 1769224940,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 131421,
       "num": 201802,
       "word": "枪杀安倍自制枪支被定性为手枪",
@@ -9737,14 +9777,6 @@
       "onboard_time": 1768800862,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 130695,
-      "num": 126165,
-      "word": "佘诗曼不婚原因",
-      "onboard_time": 1769229559,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 130626,
@@ -9865,14 +9897,6 @@
       "onboard_time": 1768813580,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 129598,
-      "num": 129598,
-      "word": "J人和P人吃外卖的差别",
-      "onboard_time": 1769224940,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 129509,
@@ -10401,14 +10425,6 @@
       "onboard_time": 1768728921,
       "rank": 33,
       "category": "电影"
-    },
-    {
-      "raw_hot": 123975,
-      "num": 123975,
-      "word": "谷爱凌回应再代表中国参加冬奥",
-      "onboard_time": 1769227280,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 123968,
@@ -12507,6 +12523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105854,
+      "num": 105854,
+      "word": "建议长期久坐的人这样吃饭",
+      "onboard_time": 1769229200,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 105582,
       "num": 119060,
       "word": "斩杀线获得许多美国网民的认同",
@@ -12899,14 +12923,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 103492,
-      "num": 103492,
-      "word": "白鹿说这是自己最后一部打戏了",
-      "onboard_time": 1769229862,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 103481,
       "num": 103481,
       "word": "高一女生带手机被停课1个月",
@@ -12961,14 +12977,6 @@
       "onboard_time": 1768988782,
       "rank": 37,
       "category": "财经,民生新闻"
-    },
-    {
-      "raw_hot": 102930,
-      "num": 102930,
-      "word": "建议长期久坐的人这样吃饭",
-      "onboard_time": 1769229200,
-      "rank": 38,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 102878,
@@ -13225,14 +13233,6 @@
       "onboard_time": 1768921280,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 100951,
-      "num": 100951,
-      "word": "D社曝车银优至少赚了1000亿韩元",
-      "onboard_time": 1769229739,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 100949,
@@ -16867,6 +16867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 82743,
+      "num": 82743,
+      "word": "人 咪会找到床的最中间睡觉",
+      "onboard_time": 1769229920,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 82713,
       "num": 94334,
       "word": "香港发生外籍女佣虐婴案",
@@ -17081,6 +17089,14 @@
       "onboard_time": 1768812920,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 81704,
+      "num": 81704,
+      "word": "出现这些症状说明你太累了",
+      "onboard_time": 1769226980,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 81669,
@@ -18441,6 +18457,14 @@
       "onboard_time": 1768823780,
       "rank": 48,
       "category": "数码"
+    },
+    {
+      "raw_hot": 71274,
+      "num": 215954,
+      "word": "日本U23男足实力分析",
+      "onboard_time": 1769229501,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 71074,
@@ -20243,14 +20267,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 44970,
-      "num": 215954,
-      "word": "日本U23男足实力分析",
-      "onboard_time": 1769229501,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
       "raw_hot": 44915,
       "num": 112498,
       "word": "天女在漫天大雪中散花网友直呼心疼",
@@ -20985,6 +21001,14 @@
       "onboard_time": 1769102775,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 33103,
+      "num": 91176,
+      "word": "日本四位前首相同框",
+      "onboard_time": 1769230340,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 33086,
@@ -22337,6 +22361,14 @@
       "onboard_time": 1769007382,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 15077,
+      "num": 92020,
+      "word": "4人因遛狗起冲突致3伤",
+      "onboard_time": 1769230340,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15027,
