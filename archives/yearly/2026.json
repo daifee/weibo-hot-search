@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769226617485,
+  "endTime": 1769227404383,
   "band_list": [
     {
       "raw_hot": 16082398,
@@ -521,6 +521,14 @@
       "onboard_time": 1768378881,
       "rank": 10,
       "category": "网红,民生新闻"
+    },
+    {
+      "raw_hot": 1597764,
+      "num": 294605,
+      "word": "曝鹿晗商务归零",
+      "onboard_time": 1769226080,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1588138,
@@ -2248,14 +2256,6 @@
       "word": "赵今麦这个背",
       "onboard_time": 1768210760,
       "rank": 46,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 827978,
-      "num": 129790,
-      "word": "曝鹿晗商务归零",
-      "onboard_time": 1769226080,
-      "rank": 10,
       "category": "艺人"
     },
     {
