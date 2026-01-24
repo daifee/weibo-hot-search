@@ -1,6 +1,6 @@
 {
   "startTime": 1768667567906,
-  "endTime": 1769211802432,
+  "endTime": 1769220427939,
   "band_list": [
     {
       "raw_hot": 9430476,
@@ -779,6 +779,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 771798,
+      "num": 100880,
+      "word": "李行亮说很后悔参加再见爱人",
+      "onboard_time": 1769209576,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 762911,
       "num": 646826,
       "word": "香港发生离奇夺命车祸",
@@ -825,6 +833,14 @@
       "onboard_time": 1768699639,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 741837,
+      "num": 1118693,
+      "word": "花儿与少年8",
+      "onboard_time": 1769217378,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 738765,
@@ -1793,14 +1809,6 @@
       "onboard_time": 1768784419,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 514172,
-      "num": 100880,
-      "word": "李行亮说很后悔参加再见爱人",
-      "onboard_time": 1769209576,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 513459,
@@ -3459,6 +3467,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 329448,
+      "num": 86830,
+      "word": "人生第一次穿Prada是以这种方式",
+      "onboard_time": 1769210778,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 328885,
       "num": 216496,
       "word": "卢昱晓想认识赵今麦",
@@ -4387,6 +4403,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 271108,
+      "num": 271108,
+      "word": "新疆阿勒泰一滑雪场游客被雪豹咬伤",
+      "onboard_time": 1769218400,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 271052,
       "num": 172205,
       "word": "蔡徐坤 快来了",
@@ -4568,6 +4592,14 @@
       "word": "母亲在柬埔寨寻子儿子在园区诈骗",
       "onboard_time": 1769079441,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 259547,
+      "num": 259547,
+      "word": "女子戴透视隐形眼镜打麻将被抓",
+      "onboard_time": 1769209995,
+      "rank": 6,
       "category": "民生新闻"
     },
     {
@@ -5427,6 +5459,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 217859,
+      "num": 86875,
+      "word": "中方回应8国将加入和平委员会",
+      "onboard_time": 1769210177,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 217155,
       "num": 252264,
       "word": "90后体育生卖饺子年入25亿",
@@ -5497,6 +5537,14 @@
       "onboard_time": 1768895303,
       "rank": 25,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 214195,
+      "num": 818636,
+      "word": "U23越南9比8韩国U23",
+      "onboard_time": 1769210716,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 214166,
@@ -5729,6 +5777,14 @@
       "onboard_time": 1768950617,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 206702,
+      "num": 206702,
+      "word": "一下就对青春期男生祛魅了",
+      "onboard_time": 1769209815,
+      "rank": 32,
+      "category": "休闲"
     },
     {
       "raw_hot": 206129,
@@ -6339,14 +6395,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 191406,
-      "num": 191406,
-      "word": "女子戴透视隐形眼镜打麻将被抓",
-      "onboard_time": 1769209995,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 190883,
       "num": 125010,
       "word": "牛骏峰 以为是跨界结果是老本行",
@@ -6393,6 +6441,14 @@
       "onboard_time": 1768720399,
       "rank": 9,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 190269,
+      "num": 190269,
+      "word": "你以为的松弛vs真正的松弛",
+      "onboard_time": 1769215099,
+      "rank": 7,
+      "category": "情感"
     },
     {
       "raw_hot": 189741,
@@ -6620,7 +6676,7 @@
     },
     {
       "raw_hot": 184638,
-      "num": 97769,
+      "num": 130303,
       "word": "医生称淋巴瘤和恶性癌症是等同的",
       "onboard_time": 1769207534,
       "rank": 30,
@@ -7041,6 +7097,14 @@
       "onboard_time": 1769178262,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 172827,
+      "num": 86953,
+      "word": "网红施梦露官宣结婚",
+      "onboard_time": 1769213418,
+      "rank": 30,
+      "category": "网红"
     },
     {
       "raw_hot": 172811,
@@ -7532,7 +7596,7 @@
     },
     {
       "raw_hot": 162855,
-      "num": 97319,
+      "num": 125799,
       "word": "制片人姜莹莹被解聘永不录用",
       "onboard_time": 1769187259,
       "rank": 46,
@@ -7747,14 +7811,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 157638,
-      "num": 59253,
-      "word": "中方回应8国将加入和平委员会",
-      "onboard_time": 1769210177,
-      "rank": 30,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 157609,
       "num": 157609,
       "word": "明日方舟终末地公测",
@@ -7873,6 +7929,14 @@
       "onboard_time": 1769068878,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 155369,
+      "num": 128954,
+      "word": "岳父代理女婿与女儿打离婚官司",
+      "onboard_time": 1769180721,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 155341,
@@ -9283,6 +9347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 132722,
+      "num": 99375,
+      "word": "李昊身价暴涨至2000万级别",
+      "onboard_time": 1769218879,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132632,
       "num": 132632,
       "word": "西安一烤鱼店开业有人排队11小时",
@@ -9915,6 +9987,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 125198,
+      "num": 125198,
+      "word": "邓琳琳回应在芜湖产子",
+      "onboard_time": 1769210297,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 125184,
       "num": 125184,
       "word": "孔雪儿满分女人",
@@ -10155,6 +10235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 122522,
+      "num": 96102,
+      "word": "建议尝试把睡觉当成一天的开始",
+      "onboard_time": 1769217500,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 122396,
       "num": 122396,
       "word": "梁朝伟看着刘嘉玲和刘宪华social",
@@ -10179,14 +10267,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 121957,
-      "num": 95150,
-      "word": "岳父代理女婿与女儿打离婚官司",
-      "onboard_time": 1769180721,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 121946,
       "num": 91978,
       "word": "陈乔恩躺地上给武大靖拍照",
@@ -10209,6 +10289,14 @@
       "onboard_time": 1768988481,
       "rank": 18,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 121853,
+      "num": 121853,
+      "word": "斩杀线下美国建疯人院关流浪汉",
+      "onboard_time": 1769214738,
+      "rank": 15,
+      "category": "国际时政"
     },
     {
       "raw_hot": 121771,
@@ -10971,6 +11059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114890,
+      "num": 114890,
+      "word": "偶像剧为什么不拍研究生恋爱",
+      "onboard_time": 1769217079,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 114814,
       "num": 114814,
       "word": "毒皇后的苹果传给了王子奇",
@@ -11145,6 +11241,14 @@
       "onboard_time": 1768977860,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 113246,
+      "num": 94862,
+      "word": "白银彻底涨疯",
+      "onboard_time": 1769211557,
+      "rank": 40,
+      "category": "财经"
     },
     {
       "raw_hot": 113077,
@@ -11787,6 +11891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 107415,
+      "num": 86920,
+      "word": "夫妻同进ICU怀疑网购的蔬菜",
+      "onboard_time": 1769220138,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107299,
       "num": 107299,
       "word": "吴彦祖有女儿后家庭发生很大改变",
@@ -11801,6 +11913,14 @@
       "onboard_time": 1768885761,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 107052,
+      "num": 107052,
+      "word": "英首相说特朗普言论极具侮辱性",
+      "onboard_time": 1769218879,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 107046,
@@ -12697,6 +12817,14 @@
       "onboard_time": 1768904240,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 101275,
+      "num": 101275,
+      "word": "尽快改掉会诱发猝死的习惯",
+      "onboard_time": 1769216239,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 101234,
@@ -13899,6 +14027,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 94218,
+      "num": 94218,
+      "word": "程潇三条簪造型好飒",
+      "onboard_time": 1769216239,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 94192,
       "num": 94192,
       "word": "中央厨房制作的菜肴不是预制菜",
@@ -14129,14 +14265,6 @@
       "onboard_time": 1768782621,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 93192,
-      "num": 59116,
-      "word": "一下就对青春期男生祛魅了",
-      "onboard_time": 1769209815,
-      "rank": 32,
-      "category": "休闲"
     },
     {
       "raw_hot": 93030,
@@ -14635,6 +14763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 90936,
+      "num": 90936,
+      "word": "不要让灵动岛变成废岛",
+      "onboard_time": 1769215039,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 90918,
       "num": 90918,
       "word": "滑雪偶遇蒋敦豪和万妮达",
@@ -14969,14 +15105,6 @@
       "onboard_time": 1768987702,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 88876,
-      "num": 88876,
-      "word": "邓琳琳回应在芜湖产子",
-      "onboard_time": 1769210297,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 88866,
@@ -15361,6 +15489,22 @@
       "onboard_time": 1768978040,
       "rank": 44,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 86969,
+      "num": 86969,
+      "word": "白银疯涨原因",
+      "onboard_time": 1769218220,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 86963,
+      "num": 86963,
+      "word": "一栗小莎子20秒视频报价25万",
+      "onboard_time": 1769213358,
+      "rank": 29,
+      "category": "网红"
     },
     {
       "raw_hot": 86954,
@@ -16363,6 +16507,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 82022,
+      "num": 82022,
+      "word": "张泽禹课表",
+      "onboard_time": 1769217139,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 82021,
       "num": 82021,
       "word": "做到5件事冬天瘦得更快",
@@ -16521,6 +16673,14 @@
       "onboard_time": 1769183240,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 80752,
+      "num": 80752,
+      "word": "经常久坐的人都去踮踮脚",
+      "onboard_time": 1769215819,
+      "rank": 42,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 80743,
@@ -16731,6 +16891,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 79513,
+      "num": 79513,
+      "word": "两广的回南天要来了",
+      "onboard_time": 1769216419,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 79511,
       "num": 79511,
       "word": "玉龙雪山冷暖撞色有多美",
@@ -16889,6 +17057,14 @@
       "onboard_time": 1768712299,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 78542,
+      "num": 78542,
+      "word": "减肥的好处或可持续35年",
+      "onboard_time": 1769218761,
+      "rank": 44,
+      "category": "运动健身"
     },
     {
       "raw_hot": 78390,
@@ -17281,14 +17457,6 @@
       "onboard_time": 1768876459,
       "rank": 47,
       "category": "财经"
-    },
-    {
-      "raw_hot": 75655,
-      "num": 59072,
-      "word": "U23越南9比8韩国U23",
-      "onboard_time": 1769210716,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 75590,
@@ -17899,6 +18067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 69020,
+      "num": 69020,
+      "word": "韩国u23输球让韩媒破防了",
+      "onboard_time": 1769215699,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 69014,
       "num": 100869,
       "word": "成毅 哀求系艺人",
@@ -17952,6 +18128,14 @@
       "word": "快乐老友记你是真听劝",
       "onboard_time": 1768921280,
       "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 68350,
+      "num": 68350,
+      "word": "白鹿做黑板报是专业选手吧",
+      "onboard_time": 1769216239,
+      "rank": 46,
       "category": "综艺"
     },
     {
@@ -18129,6 +18313,14 @@
       "onboard_time": 1768659923,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 66008,
+      "num": 66008,
+      "word": "奥运冠军邓琳琳官宣生子",
+      "onboard_time": 1769214140,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 65985,
@@ -18507,14 +18699,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 61243,
-      "num": 61243,
-      "word": "人生第一次穿Prada是以这种方式",
-      "onboard_time": 1769210778,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 61184,
       "num": 61184,
       "word": "英雄联盟",
@@ -18593,6 +18777,14 @@
       "onboard_time": 1769089280,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 60386,
+      "num": 60386,
+      "word": "U23国足要再再再再创历史",
+      "onboard_time": 1769219000,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 60377,
@@ -19099,6 +19291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 52027,
+      "num": 82676,
+      "word": "雪豹咬人是人兽相处界限带血警告",
+      "onboard_time": 1769219479,
+      "rank": 38,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 52007,
       "num": 52007,
       "word": "大寒是二十四节气最后一个节气",
@@ -19313,6 +19513,14 @@
       "onboard_time": 1768660103,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 48294,
+      "num": 135845,
+      "word": "U23国足说没什么包袱就是想赢",
+      "onboard_time": 1769219359,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 48203,
@@ -19681,14 +19889,6 @@
       "onboard_time": 1768982719,
       "rank": 18,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 42556,
-      "num": 42556,
-      "word": "白银彻底涨疯",
-      "onboard_time": 1769211557,
-      "rank": 40,
-      "category": "财经"
     },
     {
       "raw_hot": 42543,
@@ -20241,6 +20441,14 @@
       "onboard_time": 1769097321,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 32566,
+      "num": 82655,
+      "word": "县委回应薯农用高毒农药种红薯",
+      "onboard_time": 1769219599,
+      "rank": 39,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 32497,
@@ -21560,6 +21768,14 @@
       "word": "知情者称柬埔寨部分电诈园区打开大门",
       "onboard_time": 1768836381,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14012,
+      "num": 83300,
+      "word": "内蒙古满洲里现上千只野生黄羊",
+      "onboard_time": 1769219479,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
