@@ -1,0 +1,410 @@
+{
+  "runTime": 1769221845403,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 781319,
+        "num": 1125011,
+        "word": "花儿与少年8",
+        "onboard_time": 1769217378,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197070,
+        "num": 824944,
+        "word": "U23越南9比8韩国U23",
+        "onboard_time": 1769210716,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 4550,
+        "num": 635461,
+        "word": "冰雪春天",
+        "onboard_time": 1769142382,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 384513,
+        "num": 384513,
+        "word": "新疆阿勒泰一滑雪场游客被雪豹咬伤",
+        "onboard_time": 1769218400,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 288664,
+        "num": 288664,
+        "word": "夫妻同进ICU怀疑网购的蔬菜",
+        "onboard_time": 1769220138,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 304756,
+        "num": 282482,
+        "word": "爱与不爱真的很明显",
+        "onboard_time": 1769220798,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 204015,
+        "num": 204015,
+        "word": "女子戴透视隐形眼镜打麻将被抓",
+        "onboard_time": 1769209995,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203126,
+        "num": 203126,
+        "word": "一下就对青春期男生祛魅了",
+        "onboard_time": 1769209815,
+        "rank": 7,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 184269,
+        "num": 184269,
+        "word": "英首相说特朗普言论极具侮辱性",
+        "onboard_time": 1769218879,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 141707,
+        "num": 141707,
+        "word": "程潇三条簪造型好飒",
+        "onboard_time": 1769216239,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187823,
+        "num": 141089,
+        "word": "偶像剧为什么不拍研究生恋爱",
+        "onboard_time": 1769217079,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 173398,
+        "num": 136137,
+        "word": "海底捞 点炮制度",
+        "onboard_time": 1769172802,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172687,
+        "num": 132998,
+        "word": "微博之夜",
+        "onboard_time": 1769213959,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 149767,
+        "num": 130495,
+        "word": "尽快改掉会诱发猝死的习惯",
+        "onboard_time": 1769216239,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 129715,
+        "num": 129715,
+        "word": "岳父代理女婿与女儿打离婚官司",
+        "onboard_time": 1769180721,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127906,
+        "num": 127906,
+        "word": "你以为的松弛vs真正的松弛",
+        "onboard_time": 1769215099,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 124180,
+        "num": 124180,
+        "word": "郝帅说林高远退出国家队了",
+        "onboard_time": 1769209936,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120093,
+        "num": 120093,
+        "word": "医生称淋巴瘤和恶性癌症是等同的",
+        "onboard_time": 1769207534,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 115840,
+        "num": 115840,
+        "word": "制片人姜莹莹被解聘永不录用",
+        "onboard_time": 1769187259,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19939,
+        "num": 114494,
+        "word": "少年扶摔倒老人反驳路人劝阻",
+        "onboard_time": 1769221159,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177476,
+        "num": 114082,
+        "word": "李昊身价暴涨至2000万级别",
+        "onboard_time": 1769218879,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116607,
+        "num": 113931,
+        "word": "黄景瑜签约航天公司仅4项发明专利",
+        "onboard_time": 1769179341,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113232,
+        "num": 113232,
+        "word": "妈妈突然晕倒5岁儿子强忍恐惧施救",
+        "onboard_time": 1769220861,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109930,
+        "num": 109930,
+        "word": "蔡徐坤街采",
+        "onboard_time": 1769221700,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109893,
+        "num": 109893,
+        "word": "金饰克价涨到1551元",
+        "onboard_time": 1769220919,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 13432,
+        "num": 107991,
+        "word": "精神中国人为什么火了",
+        "onboard_time": 1769221700,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107714,
+        "num": 107714,
+        "word": "建议尝试把睡觉当成一天的开始",
+        "onboard_time": 1769217500,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 108915,
+        "num": 106043,
+        "word": "白银彻底涨疯",
+        "onboard_time": 1769211557,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 101329,
+        "num": 101329,
+        "word": "U23国足决赛前剪了新发型",
+        "onboard_time": 1769221399,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95536,
+        "num": 95536,
+        "word": "白银疯涨原因",
+        "onboard_time": 1769218220,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 93348,
+        "num": 93348,
+        "word": "一栗小莎子20秒视频报价25万",
+        "onboard_time": 1769213358,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 90476,
+        "num": 90476,
+        "word": "太平年",
+        "onboard_time": 1769170460,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89401,
+        "num": 89401,
+        "word": "斩杀线下美国建疯人院关流浪汉",
+        "onboard_time": 1769214738,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 86799,
+        "num": 86799,
+        "word": "经常久坐的人都去踮踮脚",
+        "onboard_time": 1769215819,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 85366,
+        "num": 85366,
+        "word": "邓琳琳回应在芜湖产子",
+        "onboard_time": 1769210297,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84836,
+        "num": 84836,
+        "word": "白鹿沈月互动",
+        "onboard_time": 1769220620,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22757,
+        "num": 83112,
+        "word": "31岁民警执行任务遭袭牺牲",
+        "onboard_time": 1769221219,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23638,
+        "num": 80931,
+        "word": "和平委员会还没开始就拆伙",
+        "onboard_time": 1769220679,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 18810,
+        "num": 78406,
+        "word": "5名00后赶到杭州赏雪被冻在山上",
+        "onboard_time": 1769221159,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30024,
+        "num": 76410,
+        "word": "俄载353人客机起飞时冲出跑道",
+        "onboard_time": 1769221099,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 75355,
+        "num": 75355,
+        "word": "雪豹咬人是人兽相处界限带血警告",
+        "onboard_time": 1769219479,
+        "rank": 40,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 75783,
+        "num": 74668,
+        "word": "苹果用户的天塌了",
+        "onboard_time": 1769155100,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 71090,
+        "num": 71090,
+        "word": "不建议个人用SIM卡提炼黄金",
+        "onboard_time": 1769178203,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69901,
+        "num": 69901,
+        "word": "不要让灵动岛变成废岛",
+        "onboard_time": 1769215039,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 69485,
+        "num": 69485,
+        "word": "民宿主回应女子被雪豹咬伤面部",
+        "onboard_time": 1769218699,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69192,
+        "num": 69192,
+        "word": "日本妄图把导弹瞄准中国军舰",
+        "onboard_time": 1769221759,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 69161,
+        "num": 69161,
+        "word": "两广的回南天要来了",
+        "onboard_time": 1769216419,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65458,
+        "num": 65458,
+        "word": "太平年 吃人",
+        "onboard_time": 1769175200,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 64786,
+        "num": 64786,
+        "word": "当狗狗看完重返狼群后",
+        "onboard_time": 1769218821,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 64486,
+        "num": 64486,
+        "word": "减肥的好处或可持续35年",
+        "onboard_time": 1769218761,
+        "rank": 49,
+        "category": "运动健身"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平致电祝贺苏林#"
+    }
+  }
+}

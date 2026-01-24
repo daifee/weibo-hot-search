@@ -1,6 +1,6 @@
 {
   "startTime": 1768667567906,
-  "endTime": 1769220427939,
+  "endTime": 1769221845403,
   "band_list": [
     {
       "raw_hot": 9430476,
@@ -755,6 +755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 781319,
+      "num": 1125011,
+      "word": "花儿与少年8",
+      "onboard_time": 1769217378,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 780766,
       "num": 221781,
       "word": "章昊 对不起我是中国人听不懂",
@@ -833,14 +841,6 @@
       "onboard_time": 1768699639,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 741837,
-      "num": 1118693,
-      "word": "花儿与少年8",
-      "onboard_time": 1769217378,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 738765,
@@ -2819,6 +2819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 384513,
+      "num": 384513,
+      "word": "新疆阿勒泰一滑雪场游客被雪豹咬伤",
+      "onboard_time": 1769218400,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 383202,
       "num": 223260,
       "word": "窦骁何超莲向徐帆敬酒",
@@ -3795,6 +3803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 304756,
+      "num": 282482,
+      "word": "爱与不爱真的很明显",
+      "onboard_time": 1769220798,
+      "rank": 5,
+      "category": "情感"
+    },
+    {
       "raw_hot": 304137,
       "num": 1048661,
       "word": "亲爱的客栈",
@@ -4049,6 +4065,14 @@
       "onboard_time": 1768870282,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 288664,
+      "num": 288664,
+      "word": "夫妻同进ICU怀疑网购的蔬菜",
+      "onboard_time": 1769220138,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 287584,
@@ -4401,14 +4425,6 @@
       "onboard_time": 1768876459,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 271108,
-      "num": 271108,
-      "word": "新疆阿勒泰一滑雪场游客被雪豹咬伤",
-      "onboard_time": 1769218400,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 271052,
@@ -5540,7 +5556,7 @@
     },
     {
       "raw_hot": 214195,
-      "num": 818636,
+      "num": 824944,
       "word": "U23越南9比8韩国U23",
       "onboard_time": 1769210716,
       "rank": 34,
@@ -6555,6 +6571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 187823,
+      "num": 141089,
+      "word": "偶像剧为什么不拍研究生恋爱",
+      "onboard_time": 1769217079,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 187685,
       "num": 187685,
       "word": "周星驰三次邀请梁小龙演火云邪神",
@@ -6697,6 +6721,14 @@
       "onboard_time": 1769159540,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 184269,
+      "num": 184269,
+      "word": "英首相说特朗普言论极具侮辱性",
+      "onboard_time": 1769218879,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 183994,
@@ -6889,6 +6921,14 @@
       "onboard_time": 1768918822,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 177476,
+      "num": 114082,
+      "word": "李昊身价暴涨至2000万级别",
+      "onboard_time": 1769218879,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 177385,
@@ -7932,7 +7972,7 @@
     },
     {
       "raw_hot": 155369,
-      "num": 128954,
+      "num": 129715,
       "word": "岳父代理女婿与女儿打离婚官司",
       "onboard_time": 1769180721,
       "rank": 46,
@@ -8265,6 +8305,14 @@
       "onboard_time": 1769008582,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149767,
+      "num": 130495,
+      "word": "尽快改掉会诱发猝死的习惯",
+      "onboard_time": 1769216239,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 149440,
@@ -8785,6 +8833,14 @@
       "onboard_time": 1768789279,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 141707,
+      "num": 141707,
+      "word": "程潇三条簪造型好飒",
+      "onboard_time": 1769216239,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 141697,
@@ -9345,14 +9401,6 @@
       "onboard_time": 1768742602,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 132722,
-      "num": 99375,
-      "word": "李昊身价暴涨至2000万级别",
-      "onboard_time": 1769218879,
-      "rank": 21,
-      "category": "体育"
     },
     {
       "raw_hot": 132632,
@@ -10236,7 +10284,7 @@
     },
     {
       "raw_hot": 122522,
-      "num": 96102,
+      "num": 107714,
       "word": "建议尝试把睡觉当成一天的开始",
       "onboard_time": 1769217500,
       "rank": 23,
@@ -11059,14 +11107,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 114890,
-      "num": 114890,
-      "word": "偶像剧为什么不拍研究生恋爱",
-      "onboard_time": 1769217079,
-      "rank": 16,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 114814,
       "num": 114814,
       "word": "毒皇后的苹果传给了王子奇",
@@ -11244,11 +11284,19 @@
     },
     {
       "raw_hot": 113246,
-      "num": 94862,
+      "num": 106043,
       "word": "白银彻底涨疯",
       "onboard_time": 1769211557,
       "rank": 40,
       "category": "财经"
+    },
+    {
+      "raw_hot": 113232,
+      "num": 113232,
+      "word": "妈妈突然晕倒5岁儿子强忍恐惧施救",
+      "onboard_time": 1769220861,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 113077,
@@ -11635,12 +11683,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 109930,
+      "num": 109930,
+      "word": "蔡徐坤街采",
+      "onboard_time": 1769221700,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 109908,
       "num": 109908,
       "word": "快乐老友有风季",
       "onboard_time": 1768908440,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 109893,
+      "num": 109893,
+      "word": "金饰克价涨到1551元",
+      "onboard_time": 1769220919,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 109891,
@@ -11891,14 +11955,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 107415,
-      "num": 86920,
-      "word": "夫妻同进ICU怀疑网购的蔬菜",
-      "onboard_time": 1769220138,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 107299,
       "num": 107299,
       "word": "吴彦祖有女儿后家庭发生很大改变",
@@ -11913,14 +11969,6 @@
       "onboard_time": 1768885761,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 107052,
-      "num": 107052,
-      "word": "英首相说特朗普言论极具侮辱性",
-      "onboard_time": 1769218879,
-      "rank": 18,
-      "category": "国际时政"
     },
     {
       "raw_hot": 107046,
@@ -12811,20 +12859,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 101329,
+      "num": 101329,
+      "word": "U23国足决赛前剪了新发型",
+      "onboard_time": 1769221399,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 101319,
       "num": 108345,
       "word": "于子洋担任女一队教练",
       "onboard_time": 1768904240,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 101275,
-      "num": 101275,
-      "word": "尽快改掉会诱发猝死的习惯",
-      "onboard_time": 1769216239,
-      "rank": 19,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 101234,
@@ -13819,6 +13867,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 95536,
+      "num": 95536,
+      "word": "白银疯涨原因",
+      "onboard_time": 1769218220,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 95517,
       "num": 95517,
       "word": "美利坚警察的爆料丝毫不逊色牢A",
@@ -14027,14 +14083,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 94218,
-      "num": 94218,
-      "word": "程潇三条簪造型好飒",
-      "onboard_time": 1769216239,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 94192,
       "num": 94192,
       "word": "中央厨房制作的菜肴不是预制菜",
@@ -14225,6 +14273,14 @@
       "onboard_time": 1769081960,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 93348,
+      "num": 93348,
+      "word": "一栗小莎子20秒视频报价25万",
+      "onboard_time": 1769213358,
+      "rank": 29,
+      "category": "网红"
     },
     {
       "raw_hot": 93314,
@@ -15491,22 +15547,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 86969,
-      "num": 86969,
-      "word": "白银疯涨原因",
-      "onboard_time": 1769218220,
-      "rank": 28,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 86963,
-      "num": 86963,
-      "word": "一栗小莎子20秒视频报价25万",
-      "onboard_time": 1769213358,
-      "rank": 29,
-      "category": "网红"
-    },
-    {
       "raw_hot": 86954,
       "num": 86954,
       "word": "iPhoneFold模型曝光",
@@ -15561,6 +15601,14 @@
       "onboard_time": 1769173941,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 86799,
+      "num": 86799,
+      "word": "经常久坐的人都去踮踮脚",
+      "onboard_time": 1769215819,
+      "rank": 42,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 86687,
@@ -15977,6 +16025,14 @@
       "onboard_time": 1769085622,
       "rank": 18,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 84836,
+      "num": 84836,
+      "word": "白鹿沈月互动",
+      "onboard_time": 1769220620,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 84831,
@@ -16673,14 +16729,6 @@
       "onboard_time": 1769183240,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 80752,
-      "num": 80752,
-      "word": "经常久坐的人都去踮踮脚",
-      "onboard_time": 1769215819,
-      "rank": 42,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 80743,
@@ -17483,6 +17531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 75355,
+      "num": 82676,
+      "word": "雪豹咬人是人兽相处界限带血警告",
+      "onboard_time": 1769219479,
+      "rank": 38,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 75328,
       "num": 219302,
       "word": "独生子女到了给父母养老的时刻",
@@ -18035,6 +18091,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 69485,
+      "num": 69485,
+      "word": "民宿主回应女子被雪豹咬伤面部",
+      "onboard_time": 1769218699,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69464,
       "num": 167854,
       "word": "一觉醒来连洗衣机都被冰冻上了",
@@ -18057,6 +18121,14 @@
       "onboard_time": 1768899920,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 69192,
+      "num": 69192,
+      "word": "日本妄图把导弹瞄准中国军舰",
+      "onboard_time": 1769221759,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 69028,
@@ -18417,6 +18489,14 @@
       "onboard_time": 1768779439,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 64786,
+      "num": 64786,
+      "word": "当狗狗看完重返狼群后",
+      "onboard_time": 1769218821,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 64762,
@@ -19289,14 +19369,6 @@
       "onboard_time": 1769062760,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 52027,
-      "num": 82676,
-      "word": "雪豹咬人是人兽相处界限带血警告",
-      "onboard_time": 1769219479,
-      "rank": 38,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 52007,
@@ -20627,6 +20699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 30024,
+      "num": 76410,
+      "word": "俄载353人客机起飞时冲出跑道",
+      "onboard_time": 1769221099,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 29890,
       "num": 67811,
       "word": "鹅毛大雪中的丁禹兮",
@@ -21019,6 +21099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23638,
+      "num": 80931,
+      "word": "和平委员会还没开始就拆伙",
+      "onboard_time": 1769220679,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 23580,
       "num": 91984,
       "word": "牧民称近两月已有6匹马被狼群咬死",
@@ -21088,6 +21176,14 @@
       "word": "今天可买春运第1天火车票",
       "onboard_time": 1768783220,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22757,
+      "num": 83112,
+      "word": "31岁民警执行任务遭袭牺牲",
+      "onboard_time": 1769221219,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -21355,6 +21451,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 19939,
+      "num": 114494,
+      "word": "少年扶摔倒老人反驳路人劝阻",
+      "onboard_time": 1769221159,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19876,
       "num": 117542,
       "word": "揭开直播间孝顺剧本",
@@ -21512,6 +21616,14 @@
       "word": "误食燃料7岁男孩情况好转恢复意识",
       "onboard_time": 1768745663,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18810,
+      "num": 78406,
+      "word": "5名00后赶到杭州赏雪被冻在山上",
+      "onboard_time": 1769221159,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -21800,6 +21912,14 @@
       "word": "90后老板对品质有多执着",
       "onboard_time": 1768911742,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13432,
+      "num": 107991,
+      "word": "精神中国人为什么火了",
+      "onboard_time": 1769221700,
+      "rank": 25,
       "category": "民生新闻"
     },
     {
