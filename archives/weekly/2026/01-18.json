@@ -1,6 +1,6 @@
 {
   "startTime": 1768667567906,
-  "endTime": 1769261838028,
+  "endTime": 1769262576549,
   "band_list": [
     {
       "raw_hot": 9430476,
@@ -337,6 +337,14 @@
       "onboard_time": 1768892842,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1096640,
+      "num": 448448,
+      "word": "林允 速效救心丸",
+      "onboard_time": 1769260942,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 1084806,
@@ -1155,6 +1163,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 655700,
+      "num": 1104912,
+      "word": "亚洲杯",
+      "onboard_time": 1768951037,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 654030,
       "num": 447762,
       "word": "男孩凌晨5点起床写作业突然晕倒",
@@ -1209,14 +1225,6 @@
       "onboard_time": 1768821561,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 641916,
-      "num": 1102706,
-      "word": "亚洲杯",
-      "onboard_time": 1768951037,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 641833,
@@ -2395,14 +2403,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 448448,
-      "num": 448448,
-      "word": "林允 速效救心丸",
-      "onboard_time": 1769260942,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 447822,
       "num": 167904,
       "word": "香港床底藏尸案凶手连宠物也没放过",
@@ -3027,6 +3027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 385834,
+      "num": 371514,
+      "word": "美国网友提问9000万遗体去向",
+      "onboard_time": 1769258782,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 385373,
       "num": 346482,
       "word": "4部影片定档2026春节档",
@@ -3233,14 +3241,6 @@
       "onboard_time": 1768880302,
       "rank": 15,
       "category": "数码"
-    },
-    {
-      "raw_hot": 371514,
-      "num": 371514,
-      "word": "美国网友提问9000万遗体去向",
-      "onboard_time": 1769258782,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 369835,
@@ -3819,6 +3819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 328699,
+      "num": 763923,
+      "word": "何不同舟渡",
+      "onboard_time": 1769074699,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 327946,
       "num": 765184,
       "word": "下雪",
@@ -4153,6 +4161,14 @@
       "onboard_time": 1769123537,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 304318,
+      "num": 750147,
+      "word": "平台已下架涉事娃娃菜商家商品",
+      "onboard_time": 1769258721,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 304137,
@@ -5057,14 +5073,6 @@
       "onboard_time": 1769246360,
       "rank": 22,
       "category": "电影"
-    },
-    {
-      "raw_hot": 257128,
-      "num": 763923,
-      "word": "何不同舟渡",
-      "onboard_time": 1769074699,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 257124,
@@ -6177,14 +6185,6 @@
       "onboard_time": 1768795822,
       "rank": 36,
       "category": "情感,休闲"
-    },
-    {
-      "raw_hot": 212259,
-      "num": 750147,
-      "word": "平台已下架涉事娃娃菜商家商品",
-      "onboard_time": 1769258721,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 212107,
@@ -9115,6 +9115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 148745,
+      "num": 148745,
+      "word": "三角洲行动",
+      "onboard_time": 1769261902,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 148486,
       "num": 146767,
       "word": "王安宇 人不可手相",
@@ -9241,6 +9249,14 @@
       "onboard_time": 1768977020,
       "rank": 22,
       "category": "艺人,互联网"
+    },
+    {
+      "raw_hot": 146909,
+      "num": 256572,
+      "word": "春晚人最多的舞台来了",
+      "onboard_time": 1769260461,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 146821,
@@ -9681,14 +9697,6 @@
       "onboard_time": 1768806802,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 141064,
-      "num": 141064,
-      "word": "春晚人最多的舞台来了",
-      "onboard_time": 1769260461,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 140935,
@@ -10643,6 +10651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 128782,
+      "num": 128782,
+      "word": "70岁走失老人遗体在冰河下被发现",
+      "onboard_time": 1769261182,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 128761,
       "num": 215253,
       "word": "贾玲马龙看秀同框",
@@ -10857,6 +10873,14 @@
       "onboard_time": 1768701259,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 126000,
+      "num": 126000,
+      "word": "郑州一26岁女子失联5日仍未找到",
+      "onboard_time": 1769261182,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 125978,
@@ -11081,6 +11105,14 @@
       "onboard_time": 1768895001,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124477,
+      "num": 124477,
+      "word": "黄晓明新剧为艺术献身了",
+      "onboard_time": 1769262262,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 124454,
@@ -11425,6 +11457,14 @@
       "onboard_time": 1769175922,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120611,
+      "num": 120611,
+      "word": "云旗直播",
+      "onboard_time": 1769258662,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 120609,
@@ -12419,6 +12459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 113175,
+      "num": 113175,
+      "word": "2025TapTap年度游戏大赏",
+      "onboard_time": 1769261422,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 113077,
       "num": 113077,
       "word": "吕严护食跟黄晓明急了",
@@ -12545,14 +12593,6 @@
       "onboard_time": 1768800261,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 111850,
-      "num": 111850,
-      "word": "2025TapTap年度游戏大赏",
-      "onboard_time": 1769261422,
-      "rank": 35,
-      "category": "游戏"
     },
     {
       "raw_hot": 111786,
@@ -13355,6 +13395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 106129,
+      "num": 106129,
+      "word": "王欣瑜冠军排名进入世界前十",
+      "onboard_time": 1769261902,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106081,
       "num": 106081,
       "word": "你说烂人真心那我就要品一品了",
@@ -13537,6 +13585,14 @@
       "onboard_time": 1768826301,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 105067,
+      "num": 105067,
+      "word": "温瑞博男单夺冠",
+      "onboard_time": 1769262501,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 105031,
@@ -14905,14 +14961,6 @@
       "onboard_time": 1768823061,
       "rank": 42,
       "category": "时尚,作品衍生"
-    },
-    {
-      "raw_hot": 97579,
-      "num": 97579,
-      "word": "云旗直播",
-      "onboard_time": 1769258662,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 97545,
@@ -17337,14 +17385,6 @@
       "onboard_time": 1768973721,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 86240,
-      "num": 105713,
-      "word": "郑州一26岁女子失联5日仍未找到",
-      "onboard_time": 1769261182,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 86225,
@@ -19787,14 +19827,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 73190,
-      "num": 99275,
-      "word": "70岁走失老人遗体在冰河下被发现",
-      "onboard_time": 1769261182,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 73067,
       "num": 73067,
       "word": "黄金再度直拉",
@@ -20009,6 +20041,14 @@
       "onboard_time": 1768911560,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 71517,
+      "num": 252545,
+      "word": "u23国足前往决赛球场",
+      "onboard_time": 1769261782,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 71409,
@@ -20571,14 +20611,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 64822,
-      "num": 104953,
-      "word": "u23国足前往决赛球场",
-      "onboard_time": 1769261782,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 64804,
       "num": 64804,
       "word": "女子向出轨丈夫道歉新进展",
@@ -21011,6 +21043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 59489,
+      "num": 781549,
+      "word": "太空月季回来了",
+      "onboard_time": 1769259621,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 59327,
       "num": 91259,
       "word": "宋威龙这完全报备视频",
@@ -21049,6 +21089,14 @@
       "onboard_time": 1769124558,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 59131,
+      "num": 106608,
+      "word": "美官方因移民争议不让用冰字",
+      "onboard_time": 1769262382,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 59056,
@@ -21233,6 +21281,14 @@
       "onboard_time": 1769148322,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 57079,
+      "num": 107197,
+      "word": "内娱小孩哥赛道又上新了",
+      "onboard_time": 1769262382,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 57053,
@@ -21425,14 +21481,6 @@
       "onboard_time": 1769181561,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 53718,
-      "num": 781549,
-      "word": "太空月季回来了",
-      "onboard_time": 1769259621,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 53616,
@@ -22713,6 +22761,14 @@
       "onboard_time": 1769102775,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 33261,
+      "num": 107865,
+      "word": "杀猪宴风波索要2000场地费老人发声",
+      "onboard_time": 1769262501,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 33103,
