@@ -1,0 +1,410 @@
+{
+  "runTime": 1769240475958,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7888209,
+        "num": 7888209,
+        "word": "张又侠刘振立被立案调查",
+        "onboard_time": 1769238981,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 425392,
+        "num": 1661009,
+        "word": "事业单位出纳6年贪4289万公款",
+        "onboard_time": 1769237661,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25603,
+        "num": 1304481,
+        "word": "中国专利的含金量满满",
+        "onboard_time": 1769226619,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 279403,
+        "num": 279403,
+        "word": "沈梦辰科普奢侈品尾单货都是假的",
+        "onboard_time": 1769239280,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 244643,
+        "num": 244643,
+        "word": "女子为治病卖劳力士账户被冻结",
+        "onboard_time": 1769235860,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 294379,
+        "num": 242113,
+        "word": "猫 真有那么臭吗",
+        "onboard_time": 1769236101,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 128896,
+        "num": 238573,
+        "word": "庾澄庆说有幸被肖战重新演绎",
+        "onboard_time": 1769234661,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123776,
+        "num": 234286,
+        "word": "专家称日本想打的不是一般小仗",
+        "onboard_time": 1769239640,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 96161,
+        "num": 225701,
+        "word": "JackeyLove看Bin双眼皮",
+        "onboard_time": 1769238800,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 37607,
+        "num": 223750,
+        "word": "12306回应空气清洁问题",
+        "onboard_time": 1769239520,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 303178,
+        "num": 216610,
+        "word": "佘诗曼公布遗嘱细节",
+        "onboard_time": 1769232860,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301681,
+        "num": 214545,
+        "word": "新疆雪豹伤人事发画面曝光",
+        "onboard_time": 1769234481,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 300220,
+        "num": 205507,
+        "word": "iPhone Air官方价格暴跌2000元",
+        "onboard_time": 1769237000,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 205446,
+        "num": 205446,
+        "word": "黄景瑜已开始接受相关训练",
+        "onboard_time": 1769232800,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199229,
+        "num": 199229,
+        "word": "时代峰峻严正声明",
+        "onboard_time": 1769238919,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133561,
+        "num": 169606,
+        "word": "00后真的是各过各的",
+        "onboard_time": 1769224878,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 162027,
+        "num": 162027,
+        "word": "王鹤棣曝范丞丞放节目组鸽子",
+        "onboard_time": 1769233879,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122774,
+        "num": 161440,
+        "word": "黄子韬宋祖儿居然合作过",
+        "onboard_time": 1769237540,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112588,
+        "num": 157865,
+        "word": "白宫晒特朗普格陵兰牵企鹅照翻车",
+        "onboard_time": 1769223379,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 27605,
+        "num": 155868,
+        "word": "专家澄清网传高铁车厢二氧化碳超标",
+        "onboard_time": 1769239520,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93934,
+        "num": 152622,
+        "word": "外卖发展成这样了",
+        "onboard_time": 1769223979,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 406034,
+        "num": 148635,
+        "word": "车银优或被判刑",
+        "onboard_time": 1769230579,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 385746,
+        "num": 146937,
+        "word": "卢昱晓10个月瘦了一大圈",
+        "onboard_time": 1769232440,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145131,
+        "num": 145131,
+        "word": "谷爱凌说美国已经有代表了",
+        "onboard_time": 1769231240,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184310,
+        "num": 144659,
+        "word": "卢凌风你的大唐完了",
+        "onboard_time": 1769231481,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156659,
+        "num": 143371,
+        "word": "叶一茜森碟簪花照",
+        "onboard_time": 1769239040,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122389,
+        "num": 141252,
+        "word": "云南三只小象遭虐待已求助三年",
+        "onboard_time": 1769237840,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140047,
+        "num": 140047,
+        "word": "白鹿说自己身体大不如之前了",
+        "onboard_time": 1769238621,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124912,
+        "num": 124912,
+        "word": "Angelababy好久没录综艺了",
+        "onboard_time": 1769232740,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121277,
+        "num": 121277,
+        "word": "正式被确诊为饺子型人格",
+        "onboard_time": 1769235679,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 168595,
+        "num": 121153,
+        "word": "梓渝工作室vlog",
+        "onboard_time": 1769230821,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119953,
+        "num": 119953,
+        "word": "车银优或被封杀",
+        "onboard_time": 1769239040,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110467,
+        "num": 119428,
+        "word": "女孩确诊白血病才发现自己非亲生",
+        "onboard_time": 1769233759,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118960,
+        "num": 118960,
+        "word": "以为是山没想到是她的裙子",
+        "onboard_time": 1769240000,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112384,
+        "num": 112384,
+        "word": "TOP8小时直播",
+        "onboard_time": 1769231599,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97435,
+        "num": 97435,
+        "word": "金博洋短节目暂列第一",
+        "onboard_time": 1769239399,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100495,
+        "num": 97297,
+        "word": "朱志鑫 倒立直播很简单",
+        "onboard_time": 1769239579,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96196,
+        "num": 96196,
+        "word": "美国网友被白宫气笑了",
+        "onboard_time": 1769236520,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 94246,
+        "num": 94246,
+        "word": "做饭的人才知道汉尼拔多辛苦",
+        "onboard_time": 1769239340,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 18757,
+        "num": 93198,
+        "word": "供水公司通报凤阳小区水质浑浊",
+        "onboard_time": 1769239520,
+        "rank": 39,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 93020,
+        "num": 93020,
+        "word": "邵子恒 素颜战神",
+        "onboard_time": 1769238621,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85287,
+        "num": 85287,
+        "word": "爱与不爱真的很明显",
+        "onboard_time": 1769220798,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 83225,
+        "num": 83225,
+        "word": "肖战刘宇宁檀健次北京卫视春晚彩排",
+        "onboard_time": 1769235740,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83135,
+        "num": 83135,
+        "word": "这些都是抗炎饮食",
+        "onboard_time": 1769233639,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 80718,
+        "num": 80718,
+        "word": "泡泡玛特王宁曾经历员工集体辞职",
+        "onboard_time": 1769238500,
+        "rank": 44,
+        "category": "民生新闻,休闲"
+      },
+      {
+        "raw_hot": 80542,
+        "num": 80542,
+        "word": "iPhone18标准版前瞻",
+        "onboard_time": 1769236939,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 79750,
+        "num": 79750,
+        "word": "花儿与少年8",
+        "onboard_time": 1769217378,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79223,
+        "num": 79223,
+        "word": "叶童没想到乘风还有后续",
+        "onboard_time": 1769235200,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77700,
+        "num": 77700,
+        "word": "黄仁勋现身上海菜市场",
+        "onboard_time": 1769239640,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 75635,
+        "num": 75635,
+        "word": "建议长期久坐的人这样吃饭",
+        "onboard_time": 1769229200,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#赓续中华文脉谱写时代华章#"
+    }
+  }
+}

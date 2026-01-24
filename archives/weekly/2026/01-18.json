@@ -1,6 +1,6 @@
 {
   "startTime": 1768667567906,
-  "endTime": 1769239655960,
+  "endTime": 1769240475958,
   "band_list": [
     {
       "raw_hot": 9430476,
@@ -11,8 +11,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 4658633,
-      "num": 4658633,
+      "raw_hot": 7888209,
+      "num": 7888209,
       "word": "张又侠刘振立被立案调查",
       "onboard_time": 1769238981,
       "rank": 0,
@@ -588,7 +588,7 @@
     },
     {
       "raw_hot": 878214,
-      "num": 174504,
+      "num": 216610,
       "word": "佘诗曼公布遗嘱细节",
       "onboard_time": 1769232860,
       "rank": 28,
@@ -2396,7 +2396,7 @@
     },
     {
       "raw_hot": 441276,
-      "num": 1236580,
+      "num": 1661009,
       "word": "事业单位出纳6年贪4289万公款",
       "onboard_time": 1769237661,
       "rank": 34,
@@ -2524,7 +2524,7 @@
     },
     {
       "raw_hot": 423596,
-      "num": 200622,
+      "num": 205446,
       "word": "黄景瑜已开始接受相关训练",
       "onboard_time": 1769232800,
       "rank": 16,
@@ -4043,6 +4043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 300220,
+      "num": 205507,
+      "word": "iPhone Air官方价格暴跌2000元",
+      "onboard_time": 1769237000,
+      "rank": 12,
+      "category": "数码"
+    },
+    {
       "raw_hot": 299469,
       "num": 265667,
       "word": "火锅最后一个吃什么菜收尾",
@@ -4145,6 +4153,14 @@
       "onboard_time": 1768691655,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 294379,
+      "num": 242113,
+      "word": "猫 真有那么臭吗",
+      "onboard_time": 1769236101,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 294341,
@@ -4435,6 +4451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 279403,
+      "num": 279403,
+      "word": "沈梦辰科普奢侈品尾单货都是假的",
+      "onboard_time": 1769239280,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 279311,
       "num": 164680,
       "word": "惊蛰无声打响全民反间谍",
@@ -4707,14 +4731,6 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 266578,
-      "num": 167766,
-      "word": "iPhone Air官方价格暴跌2000元",
-      "onboard_time": 1769237000,
-      "rank": 12,
-      "category": "数码"
-    },
-    {
       "raw_hot": 266300,
       "num": 219411,
       "word": "大学时期的卢昱晓",
@@ -4905,14 +4921,6 @@
       "onboard_time": 1768810822,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 255690,
-      "num": 155805,
-      "word": "猫 真有那么臭吗",
-      "onboard_time": 1769236101,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 255349,
@@ -6433,6 +6441,14 @@
       "onboard_time": 1768882461,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 199229,
+      "num": 199229,
+      "word": "时代峰峻严正声明",
+      "onboard_time": 1769238919,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 199121,
@@ -8068,7 +8084,7 @@
     },
     {
       "raw_hot": 161189,
-      "num": 135240,
+      "num": 140047,
       "word": "白鹿说自己身体大不如之前了",
       "onboard_time": 1769238621,
       "rank": 18,
@@ -8283,6 +8299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 156659,
+      "num": 143371,
+      "word": "叶一茜森碟簪花照",
+      "onboard_time": 1769239040,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 156570,
       "num": 156570,
       "word": "早期王一博 内娱魔丸",
@@ -8300,7 +8324,7 @@
     },
     {
       "raw_hot": 156419,
-      "num": 136679,
+      "num": 161440,
       "word": "黄子韬宋祖儿居然合作过",
       "onboard_time": 1769237540,
       "rank": 24,
@@ -9963,14 +9987,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 130737,
-      "num": 130737,
-      "word": "时代峰峻严正声明",
-      "onboard_time": 1769238919,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 130626,
       "num": 241189,
       "word": "京东推出黄金手机壳11299元起售",
@@ -10643,20 +10659,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 123873,
-      "num": 107467,
-      "word": "叶一茜森碟簪花照",
-      "onboard_time": 1769239040,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 123828,
       "num": 140170,
       "word": "选美甲思路",
       "onboard_time": 1769153900,
       "rank": 28,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 123776,
+      "num": 234286,
+      "word": "专家称日本想打的不是一般小仗",
+      "onboard_time": 1769239640,
+      "rank": 7,
+      "category": "国际时政"
     },
     {
       "raw_hot": 123722,
@@ -10700,7 +10716,7 @@
     },
     {
       "raw_hot": 123266,
-      "num": 132422,
+      "num": 141252,
       "word": "云南三只小象遭虐待已求助三年",
       "onboard_time": 1769237840,
       "rank": 24,
@@ -10891,6 +10907,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 121277,
+      "num": 131258,
+      "word": "正式被确诊为饺子型人格",
+      "onboard_time": 1769235679,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 121156,
       "num": 86495,
       "word": "肖战恐雪症人设",
@@ -11027,6 +11051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 119953,
+      "num": 119953,
+      "word": "车银优或被封杀",
+      "onboard_time": 1769239040,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 119937,
       "num": 164223,
       "word": "12岁女孩被3人性侵陷入抑郁",
@@ -11144,6 +11176,14 @@
       "word": "选秀鼻祖李宇春来给内娱上课了",
       "onboard_time": 1768904659,
       "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 118960,
+      "num": 118960,
+      "word": "以为是山没想到是她的裙子",
+      "onboard_time": 1769240000,
+      "rank": 33,
       "category": "综艺"
     },
     {
@@ -11539,14 +11579,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 116062,
-      "num": 131258,
-      "word": "正式被确诊为饺子型人格",
-      "onboard_time": 1769235679,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
       "raw_hot": 115992,
       "num": 204979,
       "word": "杨紫生命树敬礼转场",
@@ -11681,14 +11713,6 @@
       "onboard_time": 1768973600,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 114956,
-      "num": 105801,
-      "word": "车银优或被封杀",
-      "onboard_time": 1769239040,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 114928,
@@ -13291,14 +13315,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 102724,
-      "num": 134556,
-      "word": "沈梦辰科普奢侈品尾单货都是假的",
-      "onboard_time": 1769239280,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 102630,
       "num": 102630,
       "word": "AL战胜WBG",
@@ -13649,6 +13665,14 @@
       "onboard_time": 1768820601,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100495,
+      "num": 97297,
+      "word": "朱志鑫 倒立直播很简单",
+      "onboard_time": 1769239579,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 100436,
@@ -14451,6 +14475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 96161,
+      "num": 225701,
+      "word": "JackeyLove看Bin双眼皮",
+      "onboard_time": 1769238800,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 96100,
       "num": 96100,
       "word": "Viper谈LPL和LCK区别",
@@ -15041,14 +15073,6 @@
       "onboard_time": 1768782621,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 93116,
-      "num": 93116,
-      "word": "JackeyLove看Bin双眼皮",
-      "onboard_time": 1769238800,
-      "rank": 40,
-      "category": "电竞"
     },
     {
       "raw_hot": 93030,
@@ -17659,6 +17683,14 @@
       "category": "民生新闻,体育"
     },
     {
+      "raw_hot": 80718,
+      "num": 80718,
+      "word": "泡泡玛特王宁曾经历员工集体辞职",
+      "onboard_time": 1769238500,
+      "rank": 44,
+      "category": "民生新闻,休闲"
+    },
+    {
       "raw_hot": 80696,
       "num": 179716,
       "word": "享界量价齐飞突破豪华轿车核心区",
@@ -17673,6 +17705,14 @@
       "onboard_time": 1768749323,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 80542,
+      "num": 80542,
+      "word": "iPhone18标准版前瞻",
+      "onboard_time": 1769236939,
+      "rank": 45,
+      "category": "数码"
     },
     {
       "raw_hot": 80502,
@@ -18145,6 +18185,14 @@
       "onboard_time": 1769170281,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 77700,
+      "num": 77700,
+      "word": "黄仁勋现身上海菜市场",
+      "onboard_time": 1769239640,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 77668,
@@ -18849,14 +18897,6 @@
       "onboard_time": 1769135540,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 72250,
-      "num": 72250,
-      "word": "朱志鑫 倒立直播很简单",
-      "onboard_time": 1769239579,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 72249,
@@ -21307,6 +21347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 37607,
+      "num": 223750,
+      "word": "12306回应空气清洁问题",
+      "onboard_time": 1769239520,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37496,
       "num": 65093,
       "word": "王源实体专辑在星穹下狂奔",
@@ -21412,7 +21460,7 @@
     },
     {
       "raw_hot": 35344,
-      "num": 1011575,
+      "num": 1304481,
       "word": "中国专利的含金量满满",
       "onboard_time": 1769226619,
       "rank": 2,
@@ -21913,6 +21961,14 @@
       "onboard_time": 1769054841,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 27605,
+      "num": 155868,
+      "word": "专家澄清网传高铁车厢二氧化碳超标",
+      "onboard_time": 1769239520,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27433,
@@ -22707,6 +22763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 18757,
+      "num": 93326,
+      "word": "供水公司通报凤阳小区水质浑浊",
+      "onboard_time": 1769239520,
+      "rank": 39,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 18401,
       "num": 22547,
       "word": "刘宇宁录制北京春晚",
@@ -22809,14 +22873,6 @@
       "onboard_time": 1769087960,
       "rank": 19,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 16588,
-      "num": 93758,
-      "word": "12306回应空气清洁问题",
-      "onboard_time": 1769239520,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 16579,
@@ -23083,14 +23139,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 11172,
-      "num": 105617,
-      "word": "专家澄清网传高铁车厢二氧化碳超标",
-      "onboard_time": 1769239520,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 10935,
       "num": 650827,
       "word": "2025年我国农业现代化水平持续提升",
@@ -23137,14 +23185,6 @@
       "onboard_time": 1768799781,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 9187,
-      "num": 93326,
-      "word": "供水公司通报凤阳小区水质浑浊",
-      "onboard_time": 1769239520,
-      "rank": 39,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 8813,
