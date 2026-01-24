@@ -1,0 +1,410 @@
+{
+  "runTime": 1769232584183,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 352233,
+        "num": 1056357,
+        "word": "白宫晒特朗普格陵兰牵企鹅照翻车",
+        "onboard_time": 1769223379,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 182894,
+        "num": 757085,
+        "word": "QQ秀宣布回归",
+        "onboard_time": 1769223500,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 35344,
+        "num": 617635,
+        "word": "中国专利的含金量满满",
+        "onboard_time": 1769226619,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 444689,
+        "num": 444689,
+        "word": "白鹿说这是自己最后一部打戏了",
+        "onboard_time": 1769229862,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160940,
+        "num": 160940,
+        "word": "卢凌风你的大唐完了",
+        "onboard_time": 1769231481,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 314633,
+        "num": 158916,
+        "word": "00后真的是各过各的",
+        "onboard_time": 1769224878,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 277234,
+        "num": 158154,
+        "word": "夫妻同进ICU怀疑网购的蔬菜",
+        "onboard_time": 1769220138,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162690,
+        "num": 157734,
+        "word": "买钻戒送银杯如今身价被反超",
+        "onboard_time": 1769230579,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 156096,
+        "num": 156096,
+        "word": "外卖发展成这样了",
+        "onboard_time": 1769223979,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 54895,
+        "num": 155759,
+        "word": "顾客在爱心面馆吃1碗存5碗",
+        "onboard_time": 1769232020,
+        "rank": 9,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 1381844,
+        "num": 152302,
+        "word": "曝鹿晗商务归零",
+        "onboard_time": 1769226080,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 572183,
+        "num": 149121,
+        "word": "猝死工程师月收入7000元左右",
+        "onboard_time": 1769229200,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 375558,
+        "num": 145016,
+        "word": "张杰送黄金",
+        "onboard_time": 1769228900,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 327123,
+        "num": 143835,
+        "word": "佘诗曼不婚原因",
+        "onboard_time": 1769229559,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141599,
+        "num": 141599,
+        "word": "今年的春晚我可能上不了了",
+        "onboard_time": 1769222480,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 237802,
+        "num": 136770,
+        "word": "蔡徐坤被鼓励 不说我走了是我出发了",
+        "onboard_time": 1769228659,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215949,
+        "num": 135711,
+        "word": "李行亮 2010快男麦琳最火",
+        "onboard_time": 1769226138,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129790,
+        "num": 129790,
+        "word": "白银彻底涨疯",
+        "onboard_time": 1769211557,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 128644,
+        "num": 128644,
+        "word": "专家确诊刘耀文对颜值超在意",
+        "onboard_time": 1769231540,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 72790,
+        "num": 126078,
+        "word": "官方通报女子一次性拔12颗牙休克",
+        "onboard_time": 1769231779,
+        "rank": 19,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 1206047,
+        "num": 125689,
+        "word": "车银优或被判刑",
+        "onboard_time": 1769230579,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275809,
+        "num": 125584,
+        "word": "花儿与少年8",
+        "onboard_time": 1769217378,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125234,
+        "num": 125234,
+        "word": "夫妻俩吃网购娃娃菜中毒全身出血",
+        "onboard_time": 1769226919,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103874,
+        "num": 117962,
+        "word": "时代少年团pick的至珍七虾堡回归",
+        "onboard_time": 1769231540,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206403,
+        "num": 117894,
+        "word": "TOP8小时直播",
+        "onboard_time": 1769231599,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144565,
+        "num": 117656,
+        "word": "生命树央八定档",
+        "onboard_time": 1769224400,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117376,
+        "num": 117376,
+        "word": "J人和P人吃外卖的差别",
+        "onboard_time": 1769224940,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 423660,
+        "num": 115571,
+        "word": "D社曝车银优至少赚了1000亿韩元",
+        "onboard_time": 1769229739,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160611,
+        "num": 115425,
+        "word": "女主大大方方男主羞羞答答",
+        "onboard_time": 1769229319,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111621,
+        "num": 111621,
+        "word": "原来草莓是控糖隐藏高手",
+        "onboard_time": 1769230579,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 268201,
+        "num": 110429,
+        "word": "梓渝工作室vlog",
+        "onboard_time": 1769230821,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140113,
+        "num": 107169,
+        "word": "邱莹莹制服小包总",
+        "onboard_time": 1769231599,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125401,
+        "num": 103755,
+        "word": "谷爱凌说美国已经有代表了",
+        "onboard_time": 1769231240,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119699,
+        "num": 102705,
+        "word": "步惊云 洗牌都是半夜洗",
+        "onboard_time": 1769231720,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100337,
+        "num": 100337,
+        "word": "贵金属都杀疯了",
+        "onboard_time": 1769232140,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 115789,
+        "num": 100224,
+        "word": "庞博的学历再一次得到证实",
+        "onboard_time": 1769227340,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98743,
+        "num": 98743,
+        "word": "爱与不爱真的很明显",
+        "onboard_time": 1769220798,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 95833,
+        "num": 95833,
+        "word": "建议长期久坐的人这样吃饭",
+        "onboard_time": 1769229200,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 94287,
+        "num": 94287,
+        "word": "眼睛小戴大直径美瞳的后果",
+        "onboard_time": 1769223919,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 25807,
+        "num": 92923,
+        "word": "乘客13分钟内2次开门杀",
+        "onboard_time": 1769232320,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114021,
+        "num": 92745,
+        "word": "孙千工作室向粉丝道歉",
+        "onboard_time": 1769222599,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94837,
+        "num": 92718,
+        "word": "卢昱晓10个月瘦了一大圈",
+        "onboard_time": 1769232440,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92506,
+        "num": 92506,
+        "word": "许愿许出电视剧",
+        "onboard_time": 1769231420,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 91204,
+        "num": 91204,
+        "word": "谷爱凌回应再代表中国参加冬奥",
+        "onboard_time": 1769227280,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87553,
+        "num": 87553,
+        "word": "因给孩子涂药争吵男子用砖砸死岳母",
+        "onboard_time": 1769223080,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86914,
+        "num": 86914,
+        "word": "106岁太姥爷与刚出生的重孙相见",
+        "onboard_time": 1769226021,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86303,
+        "num": 86303,
+        "word": "光与夜之恋",
+        "onboard_time": 1769228900,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 83746,
+        "num": 83746,
+        "word": "彩票一等奖1亿元封顶",
+        "onboard_time": 1769229621,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80502,
+        "num": 80502,
+        "word": "日本U23男足实力分析",
+        "onboard_time": 1769229501,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 79505,
+        "num": 79505,
+        "word": "家里装了两个厨房",
+        "onboard_time": 1769232500,
+        "rank": 49,
+        "category": "休闲"
+      }
+    ],
+    "hotgov": {
+      "word": "#赓续中华文脉谱写时代华章#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1769186467234,
-  "endTime": 1769230486821,
+  "endTime": 1769232584183,
   "band_list": [
     {
       "raw_hot": 1875992,
@@ -8,6 +8,14 @@
       "word": "曝鹿晗商务归零",
       "onboard_time": 1769226080,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1206047,
+      "num": 125689,
+      "word": "车银优或被判刑",
+      "onboard_time": 1769230579,
+      "rank": 20,
       "category": "艺人"
     },
     {
@@ -99,6 +107,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 444689,
+      "num": 444689,
+      "word": "白鹿说这是自己最后一部打戏了",
+      "onboard_time": 1769229862,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 423660,
+      "num": 127033,
+      "word": "D社曝车银优至少赚了1000亿韩元",
+      "onboard_time": 1769229739,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 422055,
       "num": 148077,
       "word": "太平年 吃人",
@@ -139,12 +163,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 375558,
+      "num": 212097,
+      "word": "张杰送黄金",
+      "onboard_time": 1769228900,
+      "rank": 16,
+      "category": "演出"
+    },
+    {
       "raw_hot": 352873,
       "num": 294499,
       "word": "孙千工作室向粉丝道歉",
       "onboard_time": 1769222599,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 352233,
+      "num": 1056357,
+      "word": "白宫晒特朗普格陵兰牵企鹅照翻车",
+      "onboard_time": 1769223379,
+      "rank": 3,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 342929,
@@ -171,20 +211,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 327123,
+      "num": 197511,
+      "word": "佘诗曼不婚原因",
+      "onboard_time": 1769229559,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 318730,
       "num": 146799,
       "word": "黄景瑜上太空 王一博天塌了",
       "onboard_time": 1769174481,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 307892,
-      "num": 212097,
-      "word": "张杰送黄金",
-      "onboard_time": 1769228900,
-      "rank": 16,
-      "category": "演出"
     },
     {
       "raw_hot": 306274,
@@ -227,6 +267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 268201,
+      "num": 110429,
+      "word": "梓渝工作室vlog",
+      "onboard_time": 1769230821,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 259547,
       "num": 259547,
       "word": "女子戴透视隐形眼镜打麻将被抓",
@@ -241,14 +289,6 @@
       "onboard_time": 1769226138,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 251291,
-      "num": 251291,
-      "word": "白宫晒特朗普格陵兰牵企鹅照翻车",
-      "onboard_time": 1769223379,
-      "rank": 3,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 250090,
@@ -267,6 +307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 237802,
+      "num": 148518,
+      "word": "蔡徐坤被鼓励 不说我走了是我出发了",
+      "onboard_time": 1769228659,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 233446,
       "num": 145306,
       "word": "26岁工程师家里熟睡中猝死",
@@ -281,14 +329,6 @@
       "onboard_time": 1769224400,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 228636,
-      "num": 197511,
-      "word": "佘诗曼不婚原因",
-      "onboard_time": 1769229559,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 224257,
@@ -323,20 +363,20 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 206403,
+      "num": 117894,
+      "word": "TOP8小时直播",
+      "onboard_time": 1769231599,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 204859,
       "num": 150719,
       "word": "尽快改掉会诱发猝死的习惯",
       "onboard_time": 1769216239,
       "rank": 19,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 198016,
-      "num": 127033,
-      "word": "D社曝车银优至少赚了1000亿韩元",
-      "onboard_time": 1769229739,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 194889,
@@ -385,14 +425,6 @@
       "onboard_time": 1769218879,
       "rank": 18,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 183747,
-      "num": 210805,
-      "word": "白鹿说这是自己最后一部打戏了",
-      "onboard_time": 1769229862,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 177476,
@@ -459,12 +491,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 159896,
-      "num": 148518,
-      "word": "蔡徐坤被鼓励 不说我走了是我出发了",
-      "onboard_time": 1769228659,
-      "rank": 18,
-      "category": "艺人"
+      "raw_hot": 162690,
+      "num": 157734,
+      "word": "买钻戒送银杯如今身价被反超",
+      "onboard_time": 1769230579,
+      "rank": 7,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 160940,
+      "num": 160940,
+      "word": "卢凌风你的大唐完了",
+      "onboard_time": 1769231481,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 159084,
@@ -545,6 +585,14 @@
       "onboard_time": 1769216239,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 140113,
+      "num": 107169,
+      "word": "邱莹莹制服小包总",
+      "onboard_time": 1769231599,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 140029,
@@ -635,20 +683,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 128644,
+      "num": 128644,
+      "word": "专家确诊刘耀文对颜值超在意",
+      "onboard_time": 1769231540,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 125401,
+      "num": 103755,
+      "word": "谷爱凌说美国已经有代表了",
+      "onboard_time": 1769231240,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 125234,
+      "num": 125234,
+      "word": "夫妻俩吃网购娃娃菜中毒全身出血",
+      "onboard_time": 1769226919,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 125198,
       "num": 125198,
       "word": "邓琳琳回应在芜湖产子",
       "onboard_time": 1769210297,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 123373,
-      "num": 123373,
-      "word": "夫妻俩吃网购娃娃菜中毒全身出血",
-      "onboard_time": 1769226919,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 123057,
@@ -689,6 +753,14 @@
       "onboard_time": 1769227100,
       "rank": 31,
       "category": "教育"
+    },
+    {
+      "raw_hot": 119699,
+      "num": 102705,
+      "word": "步惊云 洗牌都是半夜洗",
+      "onboard_time": 1769231720,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 118429,
@@ -747,6 +819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 111621,
+      "num": 111621,
+      "word": "原来草莓是控糖隐藏高手",
+      "onboard_time": 1769230579,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 109893,
       "num": 109893,
       "word": "金饰克价涨到1551元",
@@ -769,6 +849,14 @@
       "onboard_time": 1769229200,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 103874,
+      "num": 117962,
+      "word": "时代少年团pick的至珍七虾堡回归",
+      "onboard_time": 1769231540,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 102055,
@@ -801,6 +889,14 @@
       "onboard_time": 1769221399,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 100337,
+      "num": 100337,
+      "word": "贵金属都杀疯了",
+      "onboard_time": 1769232140,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 100005,
@@ -851,6 +947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 94837,
+      "num": 92718,
+      "word": "卢昱晓10个月瘦了一大圈",
+      "onboard_time": 1769232440,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 93886,
       "num": 93886,
       "word": "周雨彤古装",
@@ -881,6 +985,14 @@
       "onboard_time": 1769219120,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 92506,
+      "num": 92506,
+      "word": "许愿许出电视剧",
+      "onboard_time": 1769231420,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 91766,
@@ -1011,6 +1123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 83746,
+      "num": 83746,
+      "word": "彩票一等奖1亿元封顶",
+      "onboard_time": 1769229621,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83551,
       "num": 83551,
       "word": "女硕士失踪生子孩子父亲不构成强奸罪",
@@ -1025,14 +1145,6 @@
       "onboard_time": 1769226861,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 83102,
-      "num": 83102,
-      "word": "彩票一等奖1亿元封顶",
-      "onboard_time": 1769229621,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 82743,
@@ -1067,6 +1179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 80502,
+      "num": 215954,
+      "word": "日本U23男足实力分析",
+      "onboard_time": 1769229501,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 80473,
       "num": 80473,
       "word": "王欣瑜冲击澳网女单16强",
@@ -1089,6 +1209,14 @@
       "onboard_time": 1769216419,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 79505,
+      "num": 79505,
+      "word": "家里装了两个厨房",
+      "onboard_time": 1769232500,
+      "rank": 49,
+      "category": "休闲"
     },
     {
       "raw_hot": 78542,
@@ -1131,6 +1259,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 72790,
+      "num": 126078,
+      "word": "官方通报女子一次性拔12颗牙休克",
+      "onboard_time": 1769231779,
+      "rank": 19,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 72614,
       "num": 72614,
       "word": "微博之夜抢座101",
@@ -1153,14 +1289,6 @@
       "onboard_time": 1769184140,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 71274,
-      "num": 215954,
-      "word": "日本U23男足实力分析",
-      "onboard_time": 1769229501,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 69644,
@@ -1299,6 +1427,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 54895,
+      "num": 155759,
+      "word": "顾客在爱心面馆吃1碗存5碗",
+      "onboard_time": 1769232020,
+      "rank": 9,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 54066,
       "num": 78152,
       "word": "碧血蝉",
@@ -1411,8 +1547,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 35285,
-      "num": 593701,
+      "raw_hot": 35344,
+      "num": 617635,
       "word": "中国专利的含金量满满",
       "onboard_time": 1769226619,
       "rank": 2,
@@ -1505,6 +1641,14 @@
       "onboard_time": 1769190436,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 25807,
+      "num": 92923,
+      "word": "乘客13分钟内2次开门杀",
+      "onboard_time": 1769232320,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23890,
