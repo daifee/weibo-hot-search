@@ -1,9 +1,9 @@
 {
   "startTime": 1769186467234,
-  "endTime": 1769227404383,
+  "endTime": 1769229920029,
   "band_list": [
     {
-      "raw_hot": 1597764,
+      "raw_hot": 1875992,
       "num": 294605,
       "word": "曝鹿晗商务归零",
       "onboard_time": 1769226080,
@@ -60,11 +60,19 @@
     },
     {
       "raw_hot": 521137,
-      "num": 760630,
+      "num": 1045381,
       "word": "夫妻同进ICU怀疑网购的蔬菜",
       "onboard_time": 1769220138,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 503104,
+      "num": 297707,
+      "word": "00后真的是各过各的",
+      "onboard_time": 1769224878,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 473962,
@@ -123,12 +131,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 359585,
-      "num": 297707,
-      "word": "00后真的是各过各的",
-      "onboard_time": 1769224878,
-      "rank": 21,
-      "category": "幽默"
+      "raw_hot": 369753,
+      "num": 225791,
+      "word": "猝死工程师月收入7000元左右",
+      "onboard_time": 1769229200,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 352873,
@@ -219,6 +227,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 252084,
+      "num": 223062,
+      "word": "李行亮 2010快男麦琳最火",
+      "onboard_time": 1769226138,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 251291,
+      "num": 251291,
+      "word": "白宫晒特朗普格陵兰牵企鹅照翻车",
+      "onboard_time": 1769223379,
+      "rank": 3,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 250090,
+      "num": 250090,
+      "word": "光与夜之恋",
+      "onboard_time": 1769228900,
+      "rank": 4,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 233446,
       "num": 145306,
       "word": "26岁工程师家里熟睡中猝死",
@@ -259,6 +291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 212097,
+      "num": 212097,
+      "word": "张杰送黄金",
+      "onboard_time": 1769228900,
+      "rank": 16,
+      "category": "演出"
+    },
+    {
       "raw_hot": 206702,
       "num": 206702,
       "word": "一下就对青春期男生祛魅了",
@@ -275,11 +315,27 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 194889,
+      "num": 129493,
+      "word": "庞博的学历再一次得到证实",
+      "onboard_time": 1769227340,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194864,
       "num": 169321,
       "word": "王珞丹黄宗泽吻戏张力",
       "onboard_time": 1769223080,
       "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 190786,
+      "num": 127486,
+      "word": "女主大大方方男主羞羞答答",
+      "onboard_time": 1769229319,
+      "rank": 24,
       "category": "剧集"
     },
     {
@@ -363,6 +419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 165665,
+      "num": 236877,
+      "word": "第一次见歌手把和声唱哭",
+      "onboard_time": 1769227580,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 162855,
       "num": 125799,
       "word": "制片人姜莹莹被解聘永不录用",
@@ -411,6 +475,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 148518,
+      "num": 148518,
+      "word": "蔡徐坤被鼓励 不说我走了是我出发了",
+      "onboard_time": 1769228659,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 147834,
+      "num": 295545,
+      "word": "白银彻底涨疯",
+      "onboard_time": 1769211557,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
       "raw_hot": 145076,
       "num": 145076,
       "word": "广州一家三口住桥洞靠拾荒为生",
@@ -425,6 +505,14 @@
       "onboard_time": 1769225421,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 141979,
+      "num": 141979,
+      "word": "荣耀之战",
+      "onboard_time": 1769228719,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 141707,
@@ -475,6 +563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 135001,
+      "num": 127311,
+      "word": "不知道 寂静岭的护士很曼妙",
+      "onboard_time": 1769227940,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 132994,
       "num": 132994,
       "word": "成人英语网络性感教学引争议",
@@ -489,6 +585,22 @@
       "onboard_time": 1769181321,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 130695,
+      "num": 126165,
+      "word": "佘诗曼不婚原因",
+      "onboard_time": 1769229559,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 129598,
+      "num": 129598,
+      "word": "J人和P人吃外卖的差别",
+      "onboard_time": 1769224940,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 128836,
@@ -507,12 +619,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 124997,
-      "num": 124997,
-      "word": "李行亮 2010快男麦琳最火",
-      "onboard_time": 1769226138,
-      "rank": 33,
-      "category": "艺人"
+      "raw_hot": 123975,
+      "num": 123975,
+      "word": "谷爱凌回应再代表中国参加冬奥",
+      "onboard_time": 1769227280,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 123373,
+      "num": 123373,
+      "word": "夫妻俩吃网购娃娃菜中毒全身出血",
+      "onboard_time": 1769226919,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 123057,
@@ -555,14 +675,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 119076,
-      "num": 119076,
-      "word": "庞博的学历再一次得到证实",
-      "onboard_time": 1769227340,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 118429,
       "num": 118429,
       "word": "原来孩子可以请睡眠假",
@@ -587,14 +699,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 114961,
-      "num": 114961,
-      "word": "J人和P人吃外卖的差别",
-      "onboard_time": 1769224940,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 114090,
       "num": 114090,
       "word": "因给孩子涂药争吵男子用砖砸死岳母",
@@ -611,20 +715,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 113246,
-      "num": 295545,
-      "word": "白银彻底涨疯",
-      "onboard_time": 1769211557,
-      "rank": 40,
-      "category": "财经"
-    },
-    {
       "raw_hot": 113232,
       "num": 113232,
       "word": "妈妈突然晕倒5岁儿子强忍恐惧施救",
       "onboard_time": 1769220861,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 113055,
+      "num": 113055,
+      "word": "陈孝良蒋林伶官宣结婚",
+      "onboard_time": 1769228779,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 109893,
@@ -640,6 +744,30 @@
       "word": "卢昱晓战国袍造型",
       "onboard_time": 1769169981,
       "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 103492,
+      "num": 103492,
+      "word": "白鹿说这是自己最后一部打戏了",
+      "onboard_time": 1769229862,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 102930,
+      "num": 102930,
+      "word": "建议长期久坐的人这样吃饭",
+      "onboard_time": 1769229200,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 102055,
+      "num": 102055,
+      "word": "TF四代荣耀之战路透",
+      "onboard_time": 1769226740,
+      "rank": 37,
       "category": "艺人"
     },
     {
@@ -667,6 +795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 100951,
+      "num": 100951,
+      "word": "D社曝车银优至少赚了1000亿韩元",
+      "onboard_time": 1769229739,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 100005,
       "num": 100005,
       "word": "誓约 陪玩",
@@ -683,16 +819,16 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 96246,
-      "num": 96246,
-      "word": "TF四代荣耀之战路透",
-      "onboard_time": 1769226740,
-      "rank": 37,
-      "category": "艺人"
+      "raw_hot": 96829,
+      "num": 96829,
+      "word": "短剧里的婚礼比偶像剧还会拍",
+      "onboard_time": 1769229081,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 95934,
-      "num": 117844,
+      "num": 124162,
       "word": "苏翊鸣官宣入驻咪咕社区",
       "onboard_time": 1769224940,
       "rank": 29,
@@ -705,6 +841,14 @@
       "onboard_time": 1769218220,
       "rank": 28,
       "category": "财经"
+    },
+    {
+      "raw_hot": 95131,
+      "num": 95131,
+      "word": "林允披麻袋都美具像化",
+      "onboard_time": 1769228239,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 93886,
@@ -755,14 +899,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 90717,
-      "num": 90717,
-      "word": "谷爱凌回应再代表中国参加冬奥",
-      "onboard_time": 1769227280,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 90259,
       "num": 90259,
       "word": "医生称淋巴瘤不是幸福癌",
@@ -771,20 +907,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 89868,
+      "num": 103015,
+      "word": "澳网因高温暂停",
+      "onboard_time": 1769228838,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 89192,
       "num": 89192,
       "word": "QQ秀23年纪念日",
       "onboard_time": 1769226799,
       "rank": 42,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 86803,
-      "num": 86803,
-      "word": "夫妻俩吃网购娃娃菜中毒全身出血",
-      "onboard_time": 1769226919,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 86799,
@@ -843,12 +979,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 84474,
+      "num": 84474,
+      "word": "三十岁是抗衰关键期",
+      "onboard_time": 1769227580,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 84258,
       "num": 84258,
       "word": "易烊千玺刘耀文同门师兄首次合作",
       "onboard_time": 1769223619,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 84077,
+      "num": 84077,
+      "word": "蔡徐坤新专辑",
+      "onboard_time": 1769228599,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 83905,
@@ -873,6 +1025,14 @@
       "onboard_time": 1769226861,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 83102,
+      "num": 83102,
+      "word": "彩票一等奖1亿元封顶",
+      "onboard_time": 1769229621,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 82022,
@@ -1179,6 +1339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 44970,
+      "num": 215954,
+      "word": "日本U23男足实力分析",
+      "onboard_time": 1769229501,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 43150,
       "num": 52250,
       "word": "张杰写给粉丝的信",
@@ -1225,6 +1393,14 @@
       "onboard_time": 1769189357,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 35285,
+      "num": 593701,
+      "word": "中国专利的含金量满满",
+      "onboard_time": 1769226619,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 34837,
@@ -1377,14 +1553,6 @@
       "onboard_time": 1769221159,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 18645,
-      "num": 593701,
-      "word": "中国专利的含金量满满",
-      "onboard_time": 1769226619,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 18401,
