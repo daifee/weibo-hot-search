@@ -1,6 +1,6 @@
 {
   "startTime": 1769272464158,
-  "endTime": 1769330220783,
+  "endTime": 1769330997443,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -147,6 +147,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 559416,
+      "num": 147324,
+      "word": "今天必须去世一个吗宝贝",
+      "onboard_time": 1769326280,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 554469,
       "num": 784280,
       "word": "被雪豹咬伤女游客否认跟雪豹拍照",
@@ -193,14 +201,6 @@
       "onboard_time": 1769310919,
       "rank": 5,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 497834,
-      "num": 147324,
-      "word": "今天必须去世一个吗宝贝",
-      "onboard_time": 1769326280,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 495910,
@@ -435,6 +435,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 304210,
+      "num": 143839,
+      "word": "退脏衣服被拒骂哭商家女子道歉",
+      "onboard_time": 1769325080,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 301701,
+      "num": 142921,
+      "word": "胡锡进",
+      "onboard_time": 1769326220,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 295383,
       "num": 197950,
       "word": "李昊无缘最佳门将",
@@ -449,14 +465,6 @@
       "onboard_time": 1769268864,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 279136,
-      "num": 143839,
-      "word": "退脏衣服被拒骂哭商家女子道歉",
-      "onboard_time": 1769325080,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 278025,
@@ -523,14 +531,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 256221,
-      "num": 142921,
-      "word": "胡锡进",
-      "onboard_time": 1769326220,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 256064,
       "num": 242674,
       "word": "何不同舟渡",
@@ -588,7 +588,7 @@
     },
     {
       "raw_hot": 226344,
-      "num": 796335,
+      "num": 802086,
       "word": "金博洋自由滑169.40分",
       "onboard_time": 1769327600,
       "rank": 1,
@@ -689,6 +689,14 @@
       "onboard_time": 1769318001,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 172443,
+      "num": 126397,
+      "word": "高会L销号",
+      "onboard_time": 1769330299,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 169838,
@@ -1011,6 +1019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 115033,
+      "num": 115033,
+      "word": "丁禹兮白西装",
+      "onboard_time": 1769330180,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 114451,
       "num": 141041,
       "word": "狼队对战RNGM",
@@ -1033,6 +1049,14 @@
       "onboard_time": 1769313021,
       "rank": 25,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 112054,
+      "num": 112054,
+      "word": "李亚鹏谈自己不再做演员的原因",
+      "onboard_time": 1769329759,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 111318,
@@ -1068,7 +1092,7 @@
     },
     {
       "raw_hot": 108511,
-      "num": 108511,
+      "num": 112292,
       "word": "台军宣称解放军26架次军机巡台",
       "onboard_time": 1769327000,
       "rank": 26,
@@ -1145,6 +1169,22 @@
       "onboard_time": 1769319022,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103704,
+      "num": 130361,
+      "word": "花样滑冰四大洲锦标赛",
+      "onboard_time": 1769330541,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 103273,
+      "num": 149186,
+      "word": "近30万网民联署支持丹麦买下加州",
+      "onboard_time": 1769329222,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 102844,
@@ -1251,20 +1291,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 98498,
-      "num": 98498,
-      "word": "李亚鹏谈自己不再做演员的原因",
-      "onboard_time": 1769329759,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 97951,
       "num": 97951,
       "word": "陈卓璇音综遇到了七年前的导师",
       "onboard_time": 1769311700,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 96641,
+      "num": 96641,
+      "word": "景瓷 内娱电影圈00后打女上新",
+      "onboard_time": 1769329821,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 96403,
@@ -1281,6 +1321,14 @@
       "onboard_time": 1769317821,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 96032,
+      "num": 128665,
+      "word": "多国加强监测应对印度疫情",
+      "onboard_time": 1769328799,
+      "rank": 41,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 95763,
@@ -1555,14 +1603,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 84591,
-      "num": 84591,
-      "word": "景瓷 内娱电影圈00后打女上新",
-      "onboard_time": 1769329821,
-      "rank": 42,
-      "category": "电影"
-    },
-    {
       "raw_hot": 83593,
       "num": 83593,
       "word": "拜合拉木发烧39度",
@@ -1585,6 +1625,14 @@
       "onboard_time": 1769304440,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 82148,
+      "num": 82148,
+      "word": "以为的淡妆vs实际上的淡妆",
+      "onboard_time": 1769330720,
+      "rank": 39,
+      "category": "美妆"
     },
     {
       "raw_hot": 80966,
@@ -1635,12 +1683,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 79060,
-      "num": 79060,
+      "raw_hot": 79144,
+      "num": 79144,
       "word": "不考虑成本最爱吃的水果",
       "onboard_time": 1769330000,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 79124,
+      "num": 79124,
+      "word": "狼队战胜RNGM",
+      "onboard_time": 1769330899,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 78661,
@@ -1763,6 +1819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 75059,
+      "num": 75059,
+      "word": "何炅实至名归的全员定心丸",
+      "onboard_time": 1769330659,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 74404,
       "num": 74404,
       "word": "美国已有超7000架次航班被取消",
@@ -1801,6 +1865,14 @@
       "onboard_time": 1769325682,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 73453,
+      "num": 137147,
+      "word": "20余人秦岭翠峰山徒步1人坠崖身亡",
+      "onboard_time": 1769329400,
+      "rank": 18,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 72832,
@@ -1867,14 +1939,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 71097,
-      "num": 137147,
-      "word": "20余人秦岭翠峰山徒步1人坠崖身亡",
-      "onboard_time": 1769329400,
-      "rank": 18,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 71088,
       "num": 71088,
       "word": "檀健次说让大家破费了",
@@ -1888,14 +1952,6 @@
       "word": "张栋梁40岁甜男界顶流返场",
       "onboard_time": 1769268146,
       "rank": 47,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 68853,
-      "num": 68853,
-      "word": "丁禹兮白西装",
-      "onboard_time": 1769330180,
-      "rank": 48,
       "category": "艺人"
     },
     {
@@ -1977,14 +2033,6 @@
       "onboard_time": 1769329222,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 63448,
-      "num": 84657,
-      "word": "多国加强监测应对印度疫情",
-      "onboard_time": 1769328799,
-      "rank": 41,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 63251,
@@ -2155,14 +2203,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 41029,
-      "num": 149186,
-      "word": "近30万网民联署支持丹麦买下加州",
-      "onboard_time": 1769329222,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 39809,
       "num": 140984,
       "word": "旅日大熊猫最后1天上班",
@@ -2275,6 +2315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 30469,
+      "num": 127568,
+      "word": "共享充电宝门店分成涨至30%",
+      "onboard_time": 1769330000,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30210,
       "num": 58332,
       "word": "TWS中文歌舞台",
@@ -2331,14 +2379,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 22673,
-      "num": 105164,
-      "word": "共享充电宝门店分成涨至30%",
-      "onboard_time": 1769330000,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 22615,
       "num": 257289,
       "word": "回顾李昊U23亚洲杯表现",
@@ -2361,6 +2401,14 @@
       "onboard_time": 1769278637,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 21620,
+      "num": 127058,
+      "word": "雪后神州美不胜收",
+      "onboard_time": 1769330541,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20845,
@@ -2403,6 +2451,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 11388,
+      "num": 130453,
+      "word": "太空视角看神二十撤离好震撼",
+      "onboard_time": 1769310020,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10555,
+      "num": 600720,
+      "word": "又一轮雨雪天气来了",
+      "onboard_time": 1769311101,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 6701,
       "num": 90298,
       "word": "檀健次古装界最严厉的父亲",
@@ -2417,6 +2481,9 @@
     },
     {
       "word": "#一步一步坚定走#"
+    },
+    {
+      "word": "#开局之年习近平强调落地见效#"
     }
   ]
 }

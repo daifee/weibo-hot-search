@@ -1,0 +1,410 @@
+{
+  "runTime": 1769330997443,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 489324,
+        "num": 1078291,
+        "word": "经常熬夜 身体发臭",
+        "onboard_time": 1769323101,
+        "rank": 0,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 219104,
+        "num": 802086,
+        "word": "金博洋自由滑169.40分",
+        "onboard_time": 1769327600,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 10555,
+        "num": 600720,
+        "word": "又一轮雨雪天气来了",
+        "onboard_time": 1769311101,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174354,
+        "num": 174354,
+        "word": "在卢昱晓这里吃到古偶顶级细糠了",
+        "onboard_time": 1769325320,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154506,
+        "num": 154506,
+        "word": "马年春晚北斗七行凑齐四个了",
+        "onboard_time": 1769323459,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 482907,
+        "num": 149833,
+        "word": "再也不敢单删同学",
+        "onboard_time": 1769325080,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144699,
+        "num": 144699,
+        "word": "檀健次开机上哭了",
+        "onboard_time": 1769314459,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130678,
+        "num": 130678,
+        "word": "永辉学习胖东来结果每天亏600万",
+        "onboard_time": 1769319199,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11388,
+        "num": 130453,
+        "word": "太空视角看神二十撤离好震撼",
+        "onboard_time": 1769310020,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103704,
+        "num": 130361,
+        "word": "花样滑冰四大洲锦标赛",
+        "onboard_time": 1769330541,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 559416,
+        "num": 130012,
+        "word": "今天必须去世一个吗宝贝",
+        "onboard_time": 1769326280,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 326649,
+        "num": 129607,
+        "word": "彭小苒称该道歉的是我",
+        "onboard_time": 1769324000,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 304210,
+        "num": 129382,
+        "word": "退脏衣服被拒骂哭商家女子道歉",
+        "onboard_time": 1769325080,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 301701,
+        "num": 129314,
+        "word": "胡锡进",
+        "onboard_time": 1769326220,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103273,
+        "num": 128935,
+        "word": "近30万网民联署支持丹麦买下加州",
+        "onboard_time": 1769329222,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 96032,
+        "num": 128665,
+        "word": "多国加强监测应对印度疫情",
+        "onboard_time": 1769328799,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 294795,
+        "num": 128409,
+        "word": "穆祉丞高会评论区",
+        "onboard_time": 1769327060,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271352,
+        "num": 127987,
+        "word": "金价",
+        "onboard_time": 1769320160,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 34174,
+        "num": 127885,
+        "word": "终末地做国风有多权威",
+        "onboard_time": 1769327781,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 30469,
+        "num": 127568,
+        "word": "共享充电宝门店分成涨至30%",
+        "onboard_time": 1769330000,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 492866,
+        "num": 127307,
+        "word": "癌症晚期老人出售30年前买的黄金",
+        "onboard_time": 1769318180,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21620,
+        "num": 127058,
+        "word": "雪后神州美不胜收",
+        "onboard_time": 1769330541,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218548,
+        "num": 126777,
+        "word": "不发朋友圈vs不看朋友圈",
+        "onboard_time": 1769313800,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 172443,
+        "num": 126397,
+        "word": "高会L销号",
+        "onboard_time": 1769330299,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126338,
+        "num": 126338,
+        "word": "TVB演员被内地短剧整顿",
+        "onboard_time": 1769322920,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 113315,
+        "num": 124869,
+        "word": "买童装退货辱骂商家女子离职",
+        "onboard_time": 1769320639,
+        "rank": 25,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 123783,
+        "num": 123783,
+        "word": "白鹿说已无法负荷高强度动作戏",
+        "onboard_time": 1769321842,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115033,
+        "num": 115033,
+        "word": "丁禹兮白西装",
+        "onboard_time": 1769330180,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101789,
+        "num": 112292,
+        "word": "台军宣称解放军26架次军机巡台",
+        "onboard_time": 1769327000,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 112054,
+        "num": 112054,
+        "word": "李亚鹏谈自己不再做演员的原因",
+        "onboard_time": 1769329759,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105810,
+        "num": 105810,
+        "word": "张凌赫 兰蔻",
+        "onboard_time": 1769315239,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105196,
+        "num": 105196,
+        "word": "金价波动",
+        "onboard_time": 1769316500,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 96641,
+        "num": 96641,
+        "word": "景瓷 内娱电影圈00后打女上新",
+        "onboard_time": 1769329821,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 87818,
+        "num": 95444,
+        "word": "张本美和获全日女单冠军",
+        "onboard_time": 1769322801,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95125,
+        "num": 95125,
+        "word": "小海绵说不蹦",
+        "onboard_time": 1769324240,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92814,
+        "num": 92814,
+        "word": "张元英广州见面会道歉",
+        "onboard_time": 1769323160,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87548,
+        "num": 87548,
+        "word": "男子借钱付彩礼被女方告强奸",
+        "onboard_time": 1769319980,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91435,
+        "num": 85341,
+        "word": "欧阳娣娣 这是音综还是选秀",
+        "onboard_time": 1769327359,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83122,
+        "num": 83122,
+        "word": "童锦程说鹿晗人很好",
+        "onboard_time": 1769329280,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82148,
+        "num": 82148,
+        "word": "以为的淡妆vs实际上的淡妆",
+        "onboard_time": 1769330720,
+        "rank": 39,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 81419,
+        "num": 81419,
+        "word": "前台笑了半小时才决定救人",
+        "onboard_time": 1769327721,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 79144,
+        "num": 79144,
+        "word": "不考虑成本最爱吃的水果",
+        "onboard_time": 1769330000,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 79124,
+        "num": 79124,
+        "word": "狼队战胜RNGM",
+        "onboard_time": 1769330899,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 76280,
+        "num": 76280,
+        "word": "这和直接扑曹骏怀里有什么区别",
+        "onboard_time": 1769328620,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26912,
+        "num": 76094,
+        "word": "万亿城市再扩容",
+        "onboard_time": 1769309299,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75909,
+        "num": 75909,
+        "word": "王橹杰高会",
+        "onboard_time": 1769320940,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75059,
+        "num": 75059,
+        "word": "何炅实至名归的全员定心丸",
+        "onboard_time": 1769330659,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 73453,
+        "num": 74764,
+        "word": "20余人秦岭翠峰山徒步1人坠崖身亡",
+        "onboard_time": 1769329400,
+        "rank": 47,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 74626,
+        "num": 74626,
+        "word": "黄子弘凡央视春晚第二次联排",
+        "onboard_time": 1769329520,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74202,
+        "num": 74202,
+        "word": "御赐小仵作2",
+        "onboard_time": 1769324720,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#开局之年习近平强调落地见效#"
+    }
+  }
+}
