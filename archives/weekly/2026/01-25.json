@@ -1,6 +1,6 @@
 {
   "startTime": 1769272464158,
-  "endTime": 1769355773549,
+  "endTime": 1769358907478,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -89,6 +89,14 @@
       "onboard_time": 1769318180,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 839881,
+      "num": 91312,
+      "word": "Angelababy高定设计师称未授权",
+      "onboard_time": 1769356341,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 835126,
@@ -203,6 +211,14 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 624773,
+      "num": 836699,
+      "word": "印度疫情感染者死亡率超7成",
+      "onboard_time": 1769355620,
+      "rank": 32,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 624729,
       "num": 624729,
       "word": "猫的树 升咖",
@@ -307,12 +323,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 499083,
+      "num": 91245,
+      "word": "陈幸同 周启豪",
+      "onboard_time": 1769355860,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 495910,
       "num": 246684,
       "word": "再也不敢单删同学",
       "onboard_time": 1769325080,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 494874,
+      "num": 412787,
+      "word": "何炅 终于要结束了",
+      "onboard_time": 1769355920,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 489024,
@@ -353,6 +385,14 @@
       "onboard_time": 1769338820,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 465208,
+      "num": 1065383,
+      "word": "杨鸣 辞职",
+      "onboard_time": 1769354002,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 458681,
@@ -425,14 +465,6 @@
       "onboard_time": 1769338579,
       "rank": 10,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 408649,
-      "num": 1065383,
-      "word": "杨鸣 辞职",
-      "onboard_time": 1769354002,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 408551,
@@ -1267,6 +1299,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 152893,
+      "num": 152893,
+      "word": "华晨宇弃票",
+      "onboard_time": 1769354603,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 152612,
       "num": 152612,
       "word": "这是金瀚那他是谁",
@@ -1443,14 +1483,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 135040,
-      "num": 135040,
-      "word": "华晨宇弃票",
-      "onboard_time": 1769354603,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 134651,
       "num": 124982,
       "word": "梓渝几张没发的库存",
@@ -1595,6 +1627,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 121416,
+      "num": 117049,
+      "word": "看懂陈星旭收官文的都哭了",
+      "onboard_time": 1769354603,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 121042,
       "num": 121042,
       "word": "中方营救菲律宾船员后遭反咬一口",
@@ -1643,14 +1683,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 117049,
-      "num": 117049,
-      "word": "看懂陈星旭收官文的都哭了",
-      "onboard_time": 1769354603,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 116018,
       "num": 116018,
       "word": "牢A最新直播",
@@ -1689,6 +1721,14 @@
       "onboard_time": 1769325682,
       "rank": 8,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 114408,
+      "num": 86797,
+      "word": "感染尼帕病毒早期症状类似流感",
+      "onboard_time": 1769355201,
+      "rank": 23,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 113851,
@@ -1961,6 +2001,14 @@
       "onboard_time": 1769307500,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 102604,
+      "num": 86288,
+      "word": "宝宝误嚼金锁医生称黄金已到大肠",
+      "onboard_time": 1769355201,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 102124,
@@ -2387,6 +2435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 90013,
+      "num": 86170,
+      "word": "浪姐4姐姐们来看Ella演唱会",
+      "onboard_time": 1769356220,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 88968,
       "num": 88968,
       "word": "父亲说乔任梁曾长期失眠",
@@ -2483,6 +2539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 85800,
+      "num": 85800,
+      "word": "四代第一匍匐陆兵陈思罕",
+      "onboard_time": 1769357661,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 85745,
       "num": 85745,
       "word": "美国男子被ICE先缴械后击毙",
@@ -2548,11 +2612,27 @@
     },
     {
       "raw_hot": 84752,
-      "num": 84752,
+      "num": 88359,
       "word": "11岁小孩哥为还债创业2月赚6000元",
       "onboard_time": 1769352022,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84625,
+      "num": 84625,
+      "word": "EXO吴世勋签售会饭拍",
+      "onboard_time": 1769356101,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 84540,
+      "num": 84540,
+      "word": "麦琳何美延都开始直播带货了",
+      "onboard_time": 1769355443,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 84332,
@@ -2624,14 +2704,6 @@
       "word": "丁禹兮往那一站就是金字招牌",
       "onboard_time": 1769335581,
       "rank": 29,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 82145,
-      "num": 82145,
-      "word": "麦琳何美延都开始直播带货了",
-      "onboard_time": 1769355443,
-      "rank": 40,
       "category": "艺人"
     },
     {
@@ -2721,22 +2793,6 @@
       "onboard_time": 1769330899,
       "rank": 42,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 78910,
-      "num": 96031,
-      "word": "印度疫情感染者死亡率超7成",
-      "onboard_time": 1769355620,
-      "rank": 32,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 78695,
-      "num": 82568,
-      "word": "宝宝误嚼金锁医生称黄金已到大肠",
-      "onboard_time": 1769355201,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 78686,
@@ -3099,6 +3155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 70120,
+      "num": 70120,
+      "word": "王嘉尔唱中文情歌",
+      "onboard_time": 1769357900,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 69969,
       "num": 79587,
       "word": "太原舰训练遭外军军舰高速接近",
@@ -3113,6 +3177,14 @@
       "onboard_time": 1769268146,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 69794,
+      "num": 69794,
+      "word": "生命树",
+      "onboard_time": 1769355501,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 69763,
@@ -3403,6 +3475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 43868,
+      "num": 61442,
+      "word": "澳网2026",
+      "onboard_time": 1769356462,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 43587,
       "num": 43587,
       "word": "日本U23为U23国足列队鼓掌",
@@ -3483,6 +3563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39394,
+      "num": 56720,
+      "word": "嵊泗县取消中考选拔功能",
+      "onboard_time": 1769354184,
+      "rank": 48,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 39221,
       "num": 39221,
       "word": "太平年的口碑",
@@ -3537,6 +3625,14 @@
       "onboard_time": 1769342660,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37388,
+      "num": 55955,
+      "word": "矿业股或开启新一轮超级周期",
+      "onboard_time": 1769355980,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 37167,
