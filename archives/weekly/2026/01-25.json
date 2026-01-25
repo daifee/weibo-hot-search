@@ -1,6 +1,6 @@
 {
   "startTime": 1769272464158,
-  "endTime": 1769358907478,
+  "endTime": 1769359776351,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 839881,
-      "num": 91312,
+      "num": 92824,
       "word": "Angelababy高定设计师称未授权",
       "onboard_time": 1769356341,
       "rank": 11,
@@ -155,6 +155,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 665901,
+      "num": 836699,
+      "word": "印度疫情感染者死亡率超7成",
+      "onboard_time": 1769355620,
+      "rank": 32,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 662805,
       "num": 588167,
       "word": "张凌赫 兰蔻",
@@ -209,14 +217,6 @@
       "onboard_time": 1769335160,
       "rank": 5,
       "category": "美食,幽默"
-    },
-    {
-      "raw_hot": 624773,
-      "num": 836699,
-      "word": "印度疫情感染者死亡率超7成",
-      "onboard_time": 1769355620,
-      "rank": 32,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 624729,
@@ -323,8 +323,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 501884,
+      "num": 412787,
+      "word": "何炅 终于要结束了",
+      "onboard_time": 1769355920,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 499083,
-      "num": 91245,
+      "num": 92734,
       "word": "陈幸同 周启豪",
       "onboard_time": 1769355860,
       "rank": 12,
@@ -337,14 +345,6 @@
       "onboard_time": 1769325080,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 494874,
-      "num": 412787,
-      "word": "何炅 终于要结束了",
-      "onboard_time": 1769355920,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 489024,
@@ -1724,7 +1724,7 @@
     },
     {
       "raw_hot": 114408,
-      "num": 86797,
+      "num": 91702,
       "word": "感染尼帕病毒早期症状类似流感",
       "onboard_time": 1769355201,
       "rank": 23,
@@ -2323,6 +2323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 93094,
+      "num": 93094,
+      "word": "惊蛰无声",
+      "onboard_time": 1769358919,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 92459,
       "num": 87816,
       "word": "轧戏",
@@ -2612,7 +2620,7 @@
     },
     {
       "raw_hot": 84752,
-      "num": 88359,
+      "num": 92091,
       "word": "11岁小孩哥为还债创业2月赚6000元",
       "onboard_time": 1769352022,
       "rank": 48,
@@ -3120,6 +3128,14 @@
       "word": "拿了冠军归来仍是素人",
       "onboard_time": 1769320099,
       "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 71167,
+      "num": 71167,
+      "word": "尚雯婕 直播最严厉的母亲",
+      "onboard_time": 1769359278,
+      "rank": 30,
       "category": "综艺"
     },
     {
@@ -3697,6 +3713,14 @@
       "onboard_time": 1769322020,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31052,
+      "num": 49874,
+      "word": "郭艾伦复出两场都赢了",
+      "onboard_time": 1769358500,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 30469,
