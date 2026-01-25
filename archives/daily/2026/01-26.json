@@ -1,6 +1,6 @@
 {
   "startTime": 1769358907478,
-  "endTime": 1769369928916,
+  "endTime": 1769373177530,
   "band_list": [
     {
       "raw_hot": 1023500,
@@ -475,6 +475,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 18205,
+      "num": 28428,
+      "word": "美明尼苏达州男子遭补枪画面曝光",
+      "onboard_time": 1769370374,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 17674,
       "num": 48769,
       "word": "张杰新春场唱了好多遗珠",
@@ -491,7 +499,15 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 12614,
+      "raw_hot": 13099,
+      "num": 48764,
+      "word": "格陵兰岛首府全城一片漆黑",
+      "onboard_time": 1769341221,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 13086,
       "num": 48763,
       "word": "妈妈回应11岁儿子创业2月赚6000",
       "onboard_time": 1769355920,
@@ -505,14 +521,6 @@
       "onboard_time": 1769367195,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 12419,
-      "num": 48764,
-      "word": "格陵兰岛首府全城一片漆黑",
-      "onboard_time": 1769341221,
-      "rank": 49,
-      "category": "国际时政"
     },
     {
       "raw_hot": 11725,

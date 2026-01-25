@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/26 00:35:07 ~ 2026/01/26 03:38:48
+本榜单时间：2026/01/26 00:35:07 ~ 2026/01/26 04:32:57
 </p>
 </blockquote>
 <p>
@@ -369,6 +369,12 @@ IVE回归预告（热度：68713）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E6%98%8E%E5%B0%BC%E8%8B%8F%E8%BE%BE%E5%B7%9E%E7%94%B7%E5%AD%90%E9%81%AD%E8%A1%A5%E6%9E%AA%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89%23" target="weibo">
+美明尼苏达州男子遭补枪画面曝光（热度：18205）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E6%96%B0%E6%98%A5%E5%9C%BA%E5%94%B1%E4%BA%86%E5%A5%BD%E5%A4%9A%E9%81%97%E7%8F%A0%23" target="weibo">
 张杰新春场唱了好多遗珠（热度：17674）
 </a>
@@ -381,20 +387,20 @@ woojin tory（热度：13176）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E9%A6%96%E5%BA%9C%E5%85%A8%E5%9F%8E%E4%B8%80%E7%89%87%E6%BC%86%E9%BB%91%23" target="weibo">
+格陵兰岛首府全城一片漆黑（热度：13099）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E5%9B%9E%E5%BA%9411%E5%B2%81%E5%84%BF%E5%AD%90%E5%88%9B%E4%B8%9A2%E6%9C%88%E8%B5%9A6000%23" target="weibo">
-妈妈回应11岁儿子创业2月赚6000（热度：12614）
+妈妈回应11岁儿子创业2月赚6000（热度：13086）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A3%B0%E9%B8%A3%E8%BF%9C%E6%89%AC%E7%9B%B4%E6%92%AD%23" target="weibo">
 声鸣远扬直播（热度：12542）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E9%A6%96%E5%BA%9C%E5%85%A8%E5%9F%8E%E4%B8%80%E7%89%87%E6%BC%86%E9%BB%91%23" target="weibo">
-格陵兰岛首府全城一片漆黑（热度：12419）
 </a>
 </li>
 
