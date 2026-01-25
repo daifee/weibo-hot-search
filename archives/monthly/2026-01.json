@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769366383161,
+  "endTime": 1769367200151,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -79579,6 +79579,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 31336,
+      "num": 190375,
+      "word": "阿森纳vs曼联",
+      "onboard_time": 1769361257,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 31326,
       "num": 721272,
       "word": "憧憬十五五",
@@ -80073,14 +80081,6 @@
       "onboard_time": 1767893418,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 29538,
-      "num": 190375,
-      "word": "阿森纳vs曼联",
-      "onboard_time": 1769361257,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 29537,

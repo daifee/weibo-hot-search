@@ -1,6 +1,6 @@
 {
   "startTime": 1769358907478,
-  "endTime": 1769366383161,
+  "endTime": 1769367200151,
   "band_list": [
     {
       "raw_hot": 1023500,
@@ -443,19 +443,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 31336,
+      "num": 190375,
+      "word": "阿森纳vs曼联",
+      "onboard_time": 1769361257,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 31052,
       "num": 49874,
       "word": "郭艾伦复出两场都赢了",
       "onboard_time": 1769358500,
       "rank": 49,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 29538,
-      "num": 190375,
-      "word": "阿森纳vs曼联",
-      "onboard_time": 1769361257,
-      "rank": 41,
       "category": "体育"
     },
     {
