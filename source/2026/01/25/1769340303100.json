@@ -1,0 +1,410 @@
+{
+  "runTime": 1769340303100,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 546415,
+        "num": 1087426,
+        "word": "印度一邦暴发疫情",
+        "onboard_time": 1769334739,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 334908,
+        "num": 812214,
+        "word": "江西唇腭裂女童引全网关注",
+        "onboard_time": 1769332161,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31568,
+        "num": 641513,
+        "word": "又一轮雨雪天气来了",
+        "onboard_time": 1769311101,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 275962,
+        "num": 628128,
+        "word": "可可托海雪豹咬人全过程",
+        "onboard_time": 1769338820,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233573,
+        "num": 628118,
+        "word": "小偷入室盗窃不识黄金反偷水龙头",
+        "onboard_time": 1769334381,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 628117,
+        "num": 628117,
+        "word": "建议喜糖都按这个标准来",
+        "onboard_time": 1769335160,
+        "rank": 5,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 344679,
+        "num": 344679,
+        "word": "雨伞羞耻症",
+        "onboard_time": 1769338880,
+        "rank": 6,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 200397,
+        "num": 200397,
+        "word": "过度独立 心理创伤",
+        "onboard_time": 1769331141,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 160628,
+        "num": 160628,
+        "word": "仙逆",
+        "onboard_time": 1769338521,
+        "rank": 8,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 155465,
+        "num": 160577,
+        "word": "王楚钦留言闫安",
+        "onboard_time": 1769337441,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 411263,
+        "num": 160384,
+        "word": "钎九拥抱",
+        "onboard_time": 1769338579,
+        "rank": 10,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 330504,
+        "num": 160254,
+        "word": "金价",
+        "onboard_time": 1769320160,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 263470,
+        "num": 160221,
+        "word": "钎九 导播",
+        "onboard_time": 1769337200,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 232626,
+        "num": 159995,
+        "word": "钎九",
+        "onboard_time": 1769332999,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 170750,
+        "num": 159858,
+        "word": "经常熬夜 身体发臭",
+        "onboard_time": 1769323101,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 159821,
+        "num": 159821,
+        "word": "肖战王鹤棣杨紫吴磊新剧被业内看好",
+        "onboard_time": 1769340260,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137197,
+        "num": 137197,
+        "word": "DYG战胜LGDNBW",
+        "onboard_time": 1769337200,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 131298,
+        "num": 131298,
+        "word": "以为的淡妆vs实际上的淡妆",
+        "onboard_time": 1769330720,
+        "rank": 17,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 123790,
+        "num": 123790,
+        "word": "易烊千玺十年前的愿望实现了",
+        "onboard_time": 1769339660,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 38357,
+        "num": 122261,
+        "word": "空军歼10空中加油直飞新加坡",
+        "onboard_time": 1769339779,
+        "rank": 19,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 374825,
+        "num": 122213,
+        "word": "原来他才是牢A",
+        "onboard_time": 1769337441,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 358950,
+        "num": 122172,
+        "word": "鞠婧祎 你可以慢慢吃东西",
+        "onboard_time": 1769334021,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122051,
+        "num": 122051,
+        "word": "今天必须去世一个吗宝贝",
+        "onboard_time": 1769326280,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 224363,
+        "num": 119528,
+        "word": "张元英说她是安宥真女朋友",
+        "onboard_time": 1769340081,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164190,
+        "num": 118261,
+        "word": "姑娘连吃半年利尿剂被送进急诊",
+        "onboard_time": 1769336900,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152552,
+        "num": 114692,
+        "word": "邓超鹿晗打闹路透",
+        "onboard_time": 1769339779,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209667,
+        "num": 111215,
+        "word": "张元英喝奶茶",
+        "onboard_time": 1769331079,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110305,
+        "num": 110305,
+        "word": "退脏衣服被拒骂哭商家女子道歉",
+        "onboard_time": 1769325080,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150220,
+        "num": 110180,
+        "word": "白鹿春晚联排公主头造型",
+        "onboard_time": 1769337622,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134109,
+        "num": 109982,
+        "word": "李亚鹏以前经纪人是胡歌现在的经纪人",
+        "onboard_time": 1769335880,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109356,
+        "num": 109356,
+        "word": "T1对战BFX",
+        "onboard_time": 1769339960,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 104881,
+        "num": 104881,
+        "word": "央视春晚第二次联排众星路透",
+        "onboard_time": 1769336660,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101859,
+        "num": 101859,
+        "word": "癌症晚期老人出售30年前买的黄金",
+        "onboard_time": 1769318180,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100376,
+        "num": 100376,
+        "word": "泡泡玛特王宁拒绝快速消耗LABUBU",
+        "onboard_time": 1769338579,
+        "rank": 33,
+        "category": "休闲,民生新闻"
+      },
+      {
+        "raw_hot": 99223,
+        "num": 99223,
+        "word": "爱情怎么翻译",
+        "onboard_time": 1769337740,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98612,
+        "num": 98612,
+        "word": "易烊千玺4年前的表情包显化了",
+        "onboard_time": 1769332881,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 89301,
+        "num": 89301,
+        "word": "台湾民众说我们是台湾人也是中国人",
+        "onboard_time": 1769339540,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94588,
+        "num": 89232,
+        "word": "可是妈妈张杰不是别的黄毛",
+        "onboard_time": 1769332519,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 92350,
+        "num": 89126,
+        "word": "林志玲玉兰花开君再来路透",
+        "onboard_time": 1769337380,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21565,
+        "num": 88743,
+        "word": "扎哈罗娃大口炫北京烤鸭",
+        "onboard_time": 1769339960,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 88460,
+        "num": 88460,
+        "word": "再也不敢单删同学",
+        "onboard_time": 1769325080,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 87256,
+        "num": 87256,
+        "word": "ICE又当街处决暴徒连开十枪",
+        "onboard_time": 1769339720,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 86329,
+        "num": 86329,
+        "word": "TWS手写中文歌词",
+        "onboard_time": 1769339480,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85888,
+        "num": 85888,
+        "word": "梓渝几张没发的库存",
+        "onboard_time": 1769334021,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85517,
+        "num": 85517,
+        "word": "游客称在衡山景区丢失80克金吊坠",
+        "onboard_time": 1769338160,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20833,
+        "num": 79866,
+        "word": "刘宇宁腊八在京东唱歌",
+        "onboard_time": 1769335581,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78554,
+        "num": 78554,
+        "word": "沈腾的兵没有一个吃素的",
+        "onboard_time": 1769337920,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 77521,
+        "num": 77521,
+        "word": "DYG闪电战",
+        "onboard_time": 1769339180,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 78360,
+        "num": 76991,
+        "word": "白鹿说已无法负荷高强度动作戏",
+        "onboard_time": 1769321842,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72266,
+        "num": 76530,
+        "word": "八级焊工看见后天塌了",
+        "onboard_time": 1769336180,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#开局之年习近平强调落地见效#"
+    }
+  }
+}
