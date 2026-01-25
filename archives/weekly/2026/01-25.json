@@ -1,6 +1,6 @@
 {
   "startTime": 1769272464158,
-  "endTime": 1769323347201,
+  "endTime": 1769324175832,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 635685,
-      "num": 159761,
+      "num": 332967,
       "word": "金价",
       "onboard_time": 1769320160,
       "rank": 34,
@@ -243,6 +243,14 @@
       "category": "幽默,民生新闻"
     },
     {
+      "raw_hot": 408551,
+      "num": 315830,
+      "word": "王橹杰高会",
+      "onboard_time": 1769320940,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 402928,
       "num": 843498,
       "word": "成都涉事小学取消育人故事分享",
@@ -257,6 +265,14 @@
       "onboard_time": 1769297658,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 399323,
+      "num": 304345,
+      "word": "买童装退货辱骂商家女子离职",
+      "onboard_time": 1769320639,
+      "rank": 13,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 397352,
@@ -281,14 +297,6 @@
       "onboard_time": 1769306660,
       "rank": 6,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 380206,
-      "num": 155722,
-      "word": "王橹杰高会",
-      "onboard_time": 1769320940,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 379815,
@@ -395,14 +403,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 272656,
-      "num": 150014,
-      "word": "买童装退货辱骂商家女子离职",
-      "onboard_time": 1769320639,
-      "rank": 13,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 270774,
       "num": 256568,
       "word": "2026央视春晚第二次联排",
@@ -507,6 +507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 227292,
+      "num": 104601,
+      "word": "张本美和获全日女单冠军",
+      "onboard_time": 1769322801,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 222876,
       "num": 165603,
       "word": "张元英直播",
@@ -540,7 +548,7 @@
     },
     {
       "raw_hot": 207550,
-      "num": 139880,
+      "num": 147193,
       "word": "白鹿说已无法负荷高强度动作戏",
       "onboard_time": 1769321842,
       "rank": 20,
@@ -548,7 +556,7 @@
     },
     {
       "raw_hot": 199978,
-      "num": 147067,
+      "num": 184954,
       "word": "男子借钱付彩礼被女方告强奸",
       "onboard_time": 1769319980,
       "rank": 33,
@@ -572,19 +580,19 @@
     },
     {
       "raw_hot": 195341,
-      "num": 143878,
+      "num": 146902,
       "word": "叶祖新惊喜主演何不同舟渡",
       "onboard_time": 1769317400,
       "rank": 27,
       "category": "剧集"
     },
     {
-      "raw_hot": 186442,
-      "num": 104601,
-      "word": "张本美和获全日女单冠军",
-      "onboard_time": 1769322801,
-      "rank": 31,
-      "category": "体育"
+      "raw_hot": 191967,
+      "num": 184079,
+      "word": "TVB演员被内地短剧整顿",
+      "onboard_time": 1769322920,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 186305,
@@ -593,6 +601,14 @@
       "onboard_time": 1769305340,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 185776,
+      "num": 358267,
+      "word": "马年春晚北斗七行凑齐四个了",
+      "onboard_time": 1769323459,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 178952,
@@ -617,6 +633,14 @@
       "onboard_time": 1769254281,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 167407,
+      "num": 340296,
+      "word": "经常熬夜 身体发臭",
+      "onboard_time": 1769323101,
+      "rank": 9,
+      "category": "科学科普"
     },
     {
       "raw_hot": 164470,
@@ -737,6 +761,14 @@
       "onboard_time": 1769322801,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 138382,
+      "num": 139869,
+      "word": "年轻人猝死大多由三个原因导致",
+      "onboard_time": 1769320760,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 135422,
@@ -875,14 +907,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 114109,
-      "num": 139869,
-      "word": "年轻人猝死大多由三个原因导致",
-      "onboard_time": 1769320760,
-      "rank": 21,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 112476,
       "num": 112476,
       "word": "突然明白了同学录的意思",
@@ -969,14 +993,6 @@
       "onboard_time": 1769319022,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 104083,
-      "num": 104083,
-      "word": "TVB演员被内地短剧整顿",
-      "onboard_time": 1769322920,
-      "rank": 32,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 102844,
@@ -1123,6 +1139,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 94610,
+      "num": 94610,
+      "word": "张元英广州见面会道歉",
+      "onboard_time": 1769323160,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 94439,
       "num": 94439,
       "word": "宋亚东VS奥马利",
@@ -1235,12 +1259,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 88519,
+      "num": 88519,
+      "word": "彭小苒称该道歉的是我",
+      "onboard_time": 1769324000,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 87835,
       "num": 87835,
       "word": "谁懂这碗泡面的含金量",
       "onboard_time": 1769314521,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 87474,
+      "num": 87474,
+      "word": "太平年梅婷拿的是爽文剧本吧",
+      "onboard_time": 1769323700,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 87281,
@@ -1339,6 +1379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 80966,
+      "num": 80966,
+      "word": "闪存也开始大涨",
+      "onboard_time": 1769323880,
+      "rank": 38,
+      "category": "财经,数码"
+    },
+    {
       "raw_hot": 80703,
       "num": 80703,
       "word": "胡先煦26年第一次路透是春晚",
@@ -1427,6 +1475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 76162,
+      "num": 76162,
+      "word": "曹骏何不同舟渡开机应援",
+      "onboard_time": 1769320940,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 76091,
       "num": 73487,
       "word": "亚足联官方发布罚单",
@@ -1441,6 +1497,14 @@
       "onboard_time": 1769267964,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 75946,
+      "num": 75946,
+      "word": "发动机降噪就像张飞绣花",
+      "onboard_time": 1769323639,
+      "rank": 43,
+      "category": "汽车"
     },
     {
       "raw_hot": 75843,
@@ -1521,14 +1585,6 @@
       "onboard_time": 1769314941,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 72105,
-      "num": 72105,
-      "word": "曹骏何不同舟渡开机应援",
-      "onboard_time": 1769320940,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 71740,
@@ -1891,6 +1947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 26420,
+      "num": 147399,
+      "word": "直击旅日大熊猫最终参观日",
+      "onboard_time": 1769323221,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25525,
       "num": 104367,
       "word": "俄美乌三方首轮会谈细节披露",
@@ -1937,14 +2001,6 @@
       "onboard_time": 1769278637,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 21107,
-      "num": 93758,
-      "word": "直击旅日大熊猫最终参观日",
-      "onboard_time": 1769323221,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 20845,
