@@ -1,6 +1,6 @@
 {
   "startTime": 1769272464158,
-  "endTime": 1769346667212,
+  "endTime": 1769348306711,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -11,6 +11,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 3441714,
+      "num": 191665,
+      "word": "前女友实名举报何健麒涉毒",
+      "onboard_time": 1769345120,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2760241,
       "num": 2760241,
       "word": "U23国足亚军",
@@ -19,20 +27,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 2519211,
-      "num": 178660,
-      "word": "前女友实名举报何健麒涉毒",
-      "onboard_time": 1769345120,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1643112,
       "num": 238372,
       "word": "王玉雯方停止突然的喜欢一切宣传工作",
       "onboard_time": 1769296396,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1146238,
+      "num": 143040,
+      "word": "woojin 塌房",
+      "onboard_time": 1769344641,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 1020803,
@@ -107,16 +115,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 696903,
-      "num": 118483,
-      "word": "woojin 塌房",
-      "onboard_time": 1769344641,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 675141,
-      "num": 119528,
+      "num": 142062,
       "word": "张元英说她是安宥真女朋友",
       "onboard_time": 1769340081,
       "rank": 23,
@@ -185,6 +185,14 @@
       "onboard_time": 1769299520,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 603694,
+      "num": 180562,
+      "word": "黄景瑜未来两年将大幅减少工作",
+      "onboard_time": 1769345902,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 577716,
@@ -283,6 +291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 486878,
+      "num": 1077900,
+      "word": "羽绒服这样洗可能会爆炸",
+      "onboard_time": 1769342060,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 483061,
       "num": 206243,
       "word": "造谣王玉雯涉事人员已被开除",
@@ -297,14 +313,6 @@
       "onboard_time": 1769320639,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 479321,
-      "num": 1076691,
-      "word": "羽绒服这样洗可能会爆炸",
-      "onboard_time": 1769342060,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 478850,
@@ -460,7 +468,7 @@
     },
     {
       "raw_hot": 377510,
-      "num": 123660,
+      "num": 136577,
       "word": "原来他才是牢A",
       "onboard_time": 1769337441,
       "rank": 30,
@@ -481,6 +489,14 @@
       "onboard_time": 1769340320,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 353892,
+      "num": 284926,
+      "word": "双胞胎吵架差点把爷爷奶奶吵离婚",
+      "onboard_time": 1769343800,
+      "rank": 7,
+      "category": "幽默"
     },
     {
       "raw_hot": 351214,
@@ -547,14 +563,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 328536,
-      "num": 276153,
-      "word": "双胞胎吵架差点把爷爷奶奶吵离婚",
-      "onboard_time": 1769343800,
-      "rank": 7,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 317971,
       "num": 317971,
       "word": "u23国足稳住",
@@ -611,14 +619,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 298981,
-      "num": 174024,
-      "word": "黄景瑜未来两年将大幅减少工作",
-      "onboard_time": 1769345902,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 295383,
       "num": 197950,
       "word": "李昊无缘最佳门将",
@@ -636,7 +636,7 @@
     },
     {
       "raw_hot": 286686,
-      "num": 117212,
+      "num": 134703,
       "word": "女神蒙上眼原配手摘小三子宫",
       "onboard_time": 1769340320,
       "rank": 25,
@@ -652,7 +652,7 @@
     },
     {
       "raw_hot": 273085,
-      "num": 117840,
+      "num": 138027,
       "word": "沈佳润找好自己的赛道",
       "onboard_time": 1769343260,
       "rank": 24,
@@ -684,11 +684,19 @@
     },
     {
       "raw_hot": 265247,
-      "num": 118090,
+      "num": 140904,
       "word": "女子怀孕收男友15万彩礼后不和要退婚",
       "onboard_time": 1769342481,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 262480,
+      "num": 262480,
+      "word": "以为张凌赫又来走秀了",
+      "onboard_time": 1769344701,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 262011,
@@ -748,7 +756,7 @@
     },
     {
       "raw_hot": 251098,
-      "num": 172230,
+      "num": 188883,
       "word": "胡锡进就牢A斩杀线发评论",
       "onboard_time": 1769341221,
       "rank": 11,
@@ -785,14 +793,6 @@
       "onboard_time": 1769328799,
       "rank": 41,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 236625,
-      "num": 236625,
-      "word": "以为张凌赫又来走秀了",
-      "onboard_time": 1769344701,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 236495,
@@ -883,12 +883,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 212847,
+      "num": 175437,
+      "word": "微博之夜",
+      "onboard_time": 1769344401,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 209623,
       "num": 209623,
       "word": "iPhone长截屏的3种方式",
       "onboard_time": 1769303001,
       "rank": 14,
       "category": "数码"
+    },
+    {
+      "raw_hot": 209207,
+      "num": 158155,
+      "word": "何炅周考上岸",
+      "onboard_time": 1769346623,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 207550,
@@ -932,7 +948,7 @@
     },
     {
       "raw_hot": 195673,
-      "num": 134606,
+      "num": 164006,
       "word": "姑娘连吃半年利尿剂被送进急诊",
       "onboard_time": 1769336900,
       "rank": 21,
@@ -963,6 +979,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 191826,
+      "num": 191826,
+      "word": "春晚",
+      "onboard_time": 1769346021,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 187650,
+      "num": 165967,
+      "word": "孔雪儿你让我有点不得劲",
+      "onboard_time": 1769345662,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186305,
       "num": 135756,
       "word": "林允方报平安",
@@ -977,6 +1009,14 @@
       "onboard_time": 1769337441,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 181771,
+      "num": 140184,
+      "word": "何健麒 造谣你都得有个谱啊",
+      "onboard_time": 1769348181,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 180582,
@@ -1043,14 +1083,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 165967,
-      "num": 165967,
-      "word": "孔雪儿你让我有点不得劲",
-      "onboard_time": 1769345662,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 164470,
       "num": 160252,
       "word": "普通但赚钱的工作",
@@ -1068,7 +1100,7 @@
     },
     {
       "raw_hot": 163587,
-      "num": 116585,
+      "num": 135247,
       "word": "皇后杀了皇后天子跪了天子",
       "onboard_time": 1769344161,
       "rank": 31,
@@ -1105,6 +1137,14 @@
       "onboard_time": 1769308821,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 157762,
+      "num": 137279,
+      "word": "太平年",
+      "onboard_time": 1769260701,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 154679,
@@ -1160,6 +1200,14 @@
       "word": "白鹿春晚联排公主头造型",
       "onboard_time": 1769337622,
       "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 151170,
+      "num": 135559,
+      "word": "何老师像个小手办",
+      "onboard_time": 1769346743,
+      "rank": 29,
       "category": "综艺"
     },
     {
@@ -1276,7 +1324,7 @@
     },
     {
       "raw_hot": 135781,
-      "num": 116020,
+      "num": 121438,
       "word": "虞书欣遇见了小时候的自己",
       "onboard_time": 1769345300,
       "rank": 36,
@@ -1324,7 +1372,7 @@
     },
     {
       "raw_hot": 132669,
-      "num": 116007,
+      "num": 134895,
       "word": "两种水果很适合冬天热着吃",
       "onboard_time": 1769344641,
       "rank": 32,
@@ -1427,14 +1475,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 122539,
-      "num": 124793,
-      "word": "太平年",
-      "onboard_time": 1769260701,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 121042,
       "num": 121042,
       "word": "中方营救菲律宾船员后遭反咬一口",
@@ -1489,14 +1529,6 @@
       "onboard_time": 1769308340,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 115997,
-      "num": 115997,
-      "word": "微博之夜",
-      "onboard_time": 1769344401,
-      "rank": 18,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 115455,
@@ -1643,6 +1675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 106332,
+      "num": 144878,
+      "word": "江西唇腭裂女童生怕被抛弃",
+      "onboard_time": 1769344221,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105283,
       "num": 105283,
       "word": "辛芷蕾又在going女孩子了",
@@ -1691,14 +1731,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 103525,
-      "num": 116915,
-      "word": "江西唇腭裂女童生怕被抛弃",
-      "onboard_time": 1769344221,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 103405,
       "num": 103405,
       "word": "周翊然飞去巴黎吃火锅",
@@ -1745,14 +1777,6 @@
       "onboard_time": 1769307500,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 102451,
-      "num": 93296,
-      "word": "春晚",
-      "onboard_time": 1769346021,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 102124,
@@ -1851,6 +1875,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 99874,
+      "num": 120504,
+      "word": "洛阳钼业拿下海外3个金矿",
+      "onboard_time": 1769345962,
+      "rank": 41,
+      "category": "财经"
+    },
+    {
       "raw_hot": 99611,
       "num": 122827,
       "word": "半场u23国足2次射门1次射正",
@@ -1881,6 +1913,14 @@
       "onboard_time": 1769311700,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 96728,
+      "num": 90850,
+      "word": "赵樱子自曝改名原因",
+      "onboard_time": 1769346982,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 96675,
@@ -2019,14 +2059,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 93413,
-      "num": 93413,
-      "word": "洛阳钼业拿下海外3个金矿",
-      "onboard_time": 1769345962,
-      "rank": 41,
-      "category": "财经"
-    },
-    {
       "raw_hot": 93410,
       "num": 121985,
       "word": "边伯贤ins更新",
@@ -2073,6 +2105,14 @@
       "onboard_time": 1769254100,
       "rank": 38,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 91272,
+      "num": 91272,
+      "word": "AG对战情久",
+      "onboard_time": 1769347283,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 91264,
@@ -2289,6 +2329,14 @@
       "onboard_time": 1769306961,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 83528,
+      "num": 83528,
+      "word": "脱口秀演员王越术后报平安",
+      "onboard_time": 1769347883,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 83269,
@@ -2715,12 +2763,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 69969,
+      "num": 79587,
+      "word": "太原舰训练遭外军军舰高速接近",
+      "onboard_time": 1769346802,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 69952,
       "num": 81434,
       "word": "张栋梁40岁甜男界顶流返场",
       "onboard_time": 1769268146,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 69763,
+      "num": 69763,
+      "word": "2026亚足联U23亚洲杯",
+      "onboard_time": 1769348001,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 68601,
@@ -2987,14 +3051,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 44364,
-      "num": 96091,
-      "word": "何炅周考上岸",
-      "onboard_time": 1769346623,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 43587,
       "num": 43587,
       "word": "日本U23为U23国足列队鼓掌",
@@ -3227,6 +3283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 26759,
+      "num": 139537,
+      "word": "被丈夫闺蜜背叛女子回应白头",
+      "onboard_time": 1769348063,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26420,
       "num": 147399,
       "word": "直击旅日大熊猫最终参观日",
@@ -3393,6 +3457,14 @@
       "onboard_time": 1769310020,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11357,
+      "num": 90331,
+      "word": "被陌生人救过后他也变成了拖车侠",
+      "onboard_time": 1769348242,
+      "rank": 39,
+      "category": "正能量"
     },
     {
       "raw_hot": 9069,
