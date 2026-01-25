@@ -1,0 +1,410 @@
+{
+  "runTime": 1769338043712,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 501655,
+        "num": 1080264,
+        "word": "江西唇腭裂女童引全网关注",
+        "onboard_time": 1769332161,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 406012,
+        "num": 790737,
+        "word": "印度一邦暴发疫情",
+        "onboard_time": 1769334739,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 35761,
+        "num": 619972,
+        "word": "又一轮雨雪天气来了",
+        "onboard_time": 1769311101,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 248471,
+        "num": 248471,
+        "word": "DYG战胜LGDNBW",
+        "onboard_time": 1769337200,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 236495,
+        "num": 236495,
+        "word": "小偷入室盗窃不识黄金反偷水龙头",
+        "onboard_time": 1769334381,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 628989,
+        "num": 230500,
+        "word": "建议喜糖都按这个标准来",
+        "onboard_time": 1769335160,
+        "rank": 5,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 269806,
+        "num": 229537,
+        "word": "过度独立 心理创伤",
+        "onboard_time": 1769331141,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 184808,
+        "num": 184808,
+        "word": "可是妈妈张杰不是别的黄毛",
+        "onboard_time": 1769332519,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 176015,
+        "num": 176015,
+        "word": "易烊千玺4年前的表情包显化了",
+        "onboard_time": 1769332881,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 159084,
+        "num": 159084,
+        "word": "以为的淡妆vs实际上的淡妆",
+        "onboard_time": 1769330720,
+        "rank": 9,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 671795,
+        "num": 158804,
+        "word": "钎九",
+        "onboard_time": 1769332999,
+        "rank": 10,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 397102,
+        "num": 156752,
+        "word": "金价",
+        "onboard_time": 1769320160,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 394292,
+        "num": 155979,
+        "word": "钎九 导播",
+        "onboard_time": 1769337200,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 233923,
+        "num": 155178,
+        "word": "高允真韩剧95大爆花",
+        "onboard_time": 1769332881,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183868,
+        "num": 154243,
+        "word": "今天必须去世一个吗宝贝",
+        "onboard_time": 1769326280,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 153090,
+        "num": 153090,
+        "word": "经常熬夜 身体发臭",
+        "onboard_time": 1769323101,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 144749,
+        "num": 144749,
+        "word": "LGD 醒醒",
+        "onboard_time": 1769337021,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 140131,
+        "num": 140131,
+        "word": "退脏衣服被拒骂哭商家女子道歉",
+        "onboard_time": 1769325080,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32563,
+        "num": 139149,
+        "word": "刘宇宁腊八在京东唱歌",
+        "onboard_time": 1769335581,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13270,
+        "num": 137988,
+        "word": "官方通报领队绕道上山救人遇难细节",
+        "onboard_time": 1769337380,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 457443,
+        "num": 137469,
+        "word": "鞠婧祎 你可以慢慢吃东西",
+        "onboard_time": 1769334021,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 286819,
+        "num": 136583,
+        "word": "张元英喝奶茶",
+        "onboard_time": 1769331079,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179866,
+        "num": 134606,
+        "word": "姑娘连吃半年利尿剂被送进急诊",
+        "onboard_time": 1769336900,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153836,
+        "num": 133424,
+        "word": "央视春晚第二次联排众星路透",
+        "onboard_time": 1769336660,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140522,
+        "num": 132873,
+        "word": "林志玲玉兰花开君再来路透",
+        "onboard_time": 1769337380,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131929,
+        "num": 131929,
+        "word": "多国加强监测应对印度疫情",
+        "onboard_time": 1769328799,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 129964,
+        "num": 129964,
+        "word": "黎深引导型爱人",
+        "onboard_time": 1769336960,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 127227,
+        "num": 127227,
+        "word": "再也不敢单删同学",
+        "onboard_time": 1769325080,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 82147,
+        "num": 125377,
+        "word": "丁禹兮往那一站就是金字招牌",
+        "onboard_time": 1769335581,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123700,
+        "num": 123700,
+        "word": "癌症晚期老人出售30年前买的黄金",
+        "onboard_time": 1769318180,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173555,
+        "num": 123660,
+        "word": "原来他才是牢A",
+        "onboard_time": 1769337441,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129633,
+        "num": 123651,
+        "word": "李亚鹏以前经纪人是胡歌现在的经纪人",
+        "onboard_time": 1769335880,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121520,
+        "num": 121520,
+        "word": "梓渝几张没发的库存",
+        "onboard_time": 1769334021,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113540,
+        "num": 113540,
+        "word": "全红婵让樊振东请吃广东美食叉烧肉",
+        "onboard_time": 1769333481,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110153,
+        "num": 110153,
+        "word": "白鹿说已无法负荷高强度动作戏",
+        "onboard_time": 1769321842,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105235,
+        "num": 105235,
+        "word": "王楚钦留言闫安",
+        "onboard_time": 1769337441,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103516,
+        "num": 103516,
+        "word": "不发朋友圈vs不看朋友圈",
+        "onboard_time": 1769313800,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 103000,
+        "num": 103000,
+        "word": "八级焊工看见后天塌了",
+        "onboard_time": 1769336180,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102154,
+        "num": 102154,
+        "word": "爱情怎么翻译",
+        "onboard_time": 1769337740,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 8752,
+        "num": 96640,
+        "word": "喵娲娲的精神状态领先人类一万年",
+        "onboard_time": 1769335220,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 95588,
+        "num": 95588,
+        "word": "电竞七夕",
+        "onboard_time": 1769337500,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 95450,
+        "num": 95450,
+        "word": "白鹿春晚联排公主头造型",
+        "onboard_time": 1769337622,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92715,
+        "num": 92715,
+        "word": "李亚鹏谈自己不再做演员的原因",
+        "onboard_time": 1769329759,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83269,
+        "num": 89427,
+        "word": "官方通报女子网购童装穿脏后退货",
+        "onboard_time": 1769336960,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87472,
+        "num": 87472,
+        "word": "张凌赫 兰蔻",
+        "onboard_time": 1769315239,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84332,
+        "num": 84332,
+        "word": "沈腾的兵没有一个吃素的",
+        "onboard_time": 1769337920,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 75005,
+        "num": 83917,
+        "word": "3个月就干了我一辈子的工作",
+        "onboard_time": 1769334560,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 83850,
+        "num": 83850,
+        "word": "彭小苒称该道歉的是我",
+        "onboard_time": 1769324000,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80417,
+        "num": 80417,
+        "word": "张学友婉拒四大天王合体",
+        "onboard_time": 1769334560,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70451,
+        "num": 79367,
+        "word": "不考虑成本最爱吃的水果",
+        "onboard_time": 1769330000,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#开局之年习近平强调落地见效#"
+    }
+  }
+}
