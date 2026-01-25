@@ -1,6 +1,6 @@
 {
   "startTime": 1769272464158,
-  "endTime": 1769348306711,
+  "endTime": 1769349048462,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -35,8 +35,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1146238,
-      "num": 143040,
+      "raw_hot": 1279260,
+      "num": 169152,
       "word": "woojin 塌房",
       "onboard_time": 1769344641,
       "rank": 21,
@@ -57,6 +57,14 @@
       "onboard_time": 1769270426,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 971892,
+      "num": 171857,
+      "word": "何健麒 造谣你都得有个谱啊",
+      "onboard_time": 1769348181,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 955627,
@@ -116,7 +124,7 @@
     },
     {
       "raw_hot": 675141,
-      "num": 142062,
+      "num": 168046,
       "word": "张元英说她是安宥真女朋友",
       "onboard_time": 1769340081,
       "rank": 23,
@@ -163,6 +171,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 634852,
+      "num": 180562,
+      "word": "黄景瑜未来两年将大幅减少工作",
+      "onboard_time": 1769345902,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 631249,
       "num": 605445,
       "word": "日本队6号",
@@ -185,14 +201,6 @@
       "onboard_time": 1769299520,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 603694,
-      "num": 180562,
-      "word": "黄景瑜未来两年将大幅减少工作",
-      "onboard_time": 1769345902,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 577716,
@@ -283,20 +291,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 489024,
+      "num": 1078243,
+      "word": "羽绒服这样洗可能会爆炸",
+      "onboard_time": 1769342060,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 488547,
       "num": 222023,
       "word": "张元英喝奶茶",
       "onboard_time": 1769331079,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 486878,
-      "num": 1077900,
-      "word": "羽绒服这样洗可能会爆炸",
-      "onboard_time": 1769342060,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 483061,
@@ -468,7 +476,7 @@
     },
     {
       "raw_hot": 377510,
-      "num": 136577,
+      "num": 136958,
       "word": "原来他才是牢A",
       "onboard_time": 1769337441,
       "rank": 30,
@@ -603,6 +611,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 310699,
+      "num": 174566,
+      "word": "乔任梁父亲回忆儿子出事当天",
+      "onboard_time": 1769348544,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 304210,
       "num": 234572,
       "word": "退脏衣服被拒骂哭商家女子道歉",
@@ -643,6 +659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 282367,
+      "num": 282367,
+      "word": "何炅周考上岸",
+      "onboard_time": 1769346623,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 278025,
       "num": 278025,
       "word": "国足 2030世界杯",
@@ -652,11 +676,19 @@
     },
     {
       "raw_hot": 273085,
-      "num": 138027,
+      "num": 149935,
       "word": "沈佳润找好自己的赛道",
       "onboard_time": 1769343260,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 272539,
+      "num": 175437,
+      "word": "微博之夜",
+      "onboard_time": 1769344401,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 270774,
@@ -684,7 +716,7 @@
     },
     {
       "raw_hot": 265247,
-      "num": 140904,
+      "num": 167808,
       "word": "女子怀孕收男友15万彩礼后不和要退婚",
       "onboard_time": 1769342481,
       "rank": 22,
@@ -883,28 +915,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 212847,
-      "num": 175437,
-      "word": "微博之夜",
-      "onboard_time": 1769344401,
-      "rank": 18,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 209623,
       "num": 209623,
       "word": "iPhone长截屏的3种方式",
       "onboard_time": 1769303001,
       "rank": 14,
       "category": "数码"
-    },
-    {
-      "raw_hot": 209207,
-      "num": 158155,
-      "word": "何炅周考上岸",
-      "onboard_time": 1769346623,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 207550,
@@ -948,7 +964,7 @@
     },
     {
       "raw_hot": 195673,
-      "num": 164006,
+      "num": 171542,
       "word": "姑娘连吃半年利尿剂被送进急诊",
       "onboard_time": 1769336900,
       "rank": 21,
@@ -1009,14 +1025,6 @@
       "onboard_time": 1769337441,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 181771,
-      "num": 140184,
-      "word": "何健麒 造谣你都得有个谱啊",
-      "onboard_time": 1769348181,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 180582,
@@ -1140,7 +1148,7 @@
     },
     {
       "raw_hot": 157762,
-      "num": 137279,
+      "num": 146710,
       "word": "太平年",
       "onboard_time": 1769260701,
       "rank": 27,
@@ -1225,6 +1233,14 @@
       "onboard_time": 1769297777,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 146347,
+      "num": 146347,
+      "word": "建议优先睡好这4个小时",
+      "onboard_time": 1769348544,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 146181,
@@ -1491,6 +1507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 119084,
+      "num": 170795,
+      "word": "江西唇腭裂女童生怕被抛弃",
+      "onboard_time": 1769344221,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119082,
       "num": 119082,
       "word": "白鹿谈身体状况",
@@ -1611,6 +1635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 109423,
+      "num": 109423,
+      "word": "AG对战情久",
+      "onboard_time": 1769347283,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 109356,
       "num": 109356,
       "word": "T1对战BFX",
@@ -1672,14 +1704,6 @@
       "word": "女教师宿舍病亡校方建议家属起诉",
       "onboard_time": 1769325619,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 106332,
-      "num": 144878,
-      "word": "江西唇腭裂女童生怕被抛弃",
-      "onboard_time": 1769344221,
-      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -2107,14 +2131,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 91272,
-      "num": 91272,
-      "word": "AG对战情久",
-      "onboard_time": 1769347283,
-      "rank": 37,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 91264,
       "num": 91264,
       "word": "TF四代花式对答爱你老己",
@@ -2363,6 +2379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 82484,
+      "num": 82484,
+      "word": "美国ICE行刑式处决",
+      "onboard_time": 1769348721,
+      "rank": 45,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 82179,
       "num": 82179,
       "word": "赵匡胤这里不让装监控",
@@ -2515,6 +2539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 76462,
+      "num": 95352,
+      "word": "阿云嘎的衬衫多余了",
+      "onboard_time": 1769348303,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 76162,
       "num": 76162,
       "word": "曹骏何不同舟渡开机应援",
@@ -2553,6 +2585,14 @@
       "onboard_time": 1769323639,
       "rank": 43,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 75898,
+      "num": 75898,
+      "word": "被斩杀的美国人民",
+      "onboard_time": 1769349023,
+      "rank": 48,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 75843,
@@ -3019,6 +3059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 48351,
+      "num": 169357,
+      "word": "被丈夫闺蜜背叛女子回应白头",
+      "onboard_time": 1769348063,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 47961,
       "num": 122261,
       "word": "空军歼10空中加油直飞新加坡",
@@ -3283,14 +3331,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 26759,
-      "num": 139537,
-      "word": "被丈夫闺蜜背叛女子回应白头",
-      "onboard_time": 1769348063,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 26420,
       "num": 147399,
       "word": "直击旅日大熊猫最终参观日",
@@ -3387,6 +3427,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 20959,
+      "num": 137087,
+      "word": "遭签收50天后仅退款商家发声",
+      "onboard_time": 1769348962,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20845,
       "num": 36092,
       "word": "白鹿录制亲爱的客栈",
@@ -3451,20 +3499,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 12037,
+      "num": 94716,
+      "word": "被陌生人救过后他也变成了拖车侠",
+      "onboard_time": 1769348242,
+      "rank": 39,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 11388,
       "num": 130453,
       "word": "太空视角看神二十撤离好震撼",
       "onboard_time": 1769310020,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 11357,
-      "num": 90331,
-      "word": "被陌生人救过后他也变成了拖车侠",
-      "onboard_time": 1769348242,
-      "rank": 39,
-      "category": "正能量"
     },
     {
       "raw_hot": 9069,
