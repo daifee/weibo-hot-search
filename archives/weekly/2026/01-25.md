@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/25 00:34:24 ~ 2026/01/26 01:43:27
+本榜单时间：2026/01/25 00:34:24 ~ 2026/01/26 02:39:43
 </p>
 </blockquote>
 <p>
@@ -2830,7 +2830,7 @@ TWS中文歌舞台（热度：30210）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A3%AE%E7%BA%B3vs%E6%9B%BC%E8%81%94%23" target="weibo">
-阿森纳vs曼联（热度：28484）
+阿森纳vs曼联（热度：29538）
 </a>
 </li>
 
@@ -2945,6 +2945,12 @@ U23男足亚洲杯亚军（热度：27944）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%87%E5%B9%B4%E4%B8%89%E4%BB%B6%E5%A5%97%E5%BC%80%E5%90%AF%E9%A2%84%E7%BA%A6%E6%A8%A1%E5%BC%8F%23" target="weibo">
 过年三件套开启预约模式（热度：18087）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E6%96%B0%E6%98%A5%E5%9C%BA%E5%94%B1%E4%BA%86%E5%A5%BD%E5%A4%9A%E9%81%97%E7%8F%A0%23" target="weibo">
+张杰新春场唱了好多遗珠（热度：17674）
 </a>
 </li>
 

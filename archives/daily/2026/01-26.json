@@ -1,6 +1,6 @@
 {
   "startTime": 1769358907478,
-  "endTime": 1769363007816,
+  "endTime": 1769366383161,
   "band_list": [
     {
       "raw_hot": 1023500,
@@ -251,6 +251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 73905,
+      "num": 257916,
+      "word": "炽热吸引",
+      "onboard_time": 1769349323,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 73186,
       "num": 190476,
       "word": "11岁小孩哥为还债创业2月赚6000元",
@@ -329,14 +337,6 @@
       "onboard_time": 1769352441,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 59764,
-      "num": 257916,
-      "word": "炽热吸引",
-      "onboard_time": 1769349323,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 59547,
@@ -451,7 +451,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 28484,
+      "raw_hot": 29538,
       "num": 190375,
       "word": "阿森纳vs曼联",
       "onboard_time": 1769361257,
@@ -473,6 +473,22 @@
       "onboard_time": 1769349023,
       "rank": 46,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 17674,
+      "num": 33848,
+      "word": "张杰新春场唱了好多遗珠",
+      "onboard_time": 1769364975,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 12182,
+      "num": 33621,
+      "word": "格陵兰岛首府全城一片漆黑",
+      "onboard_time": 1769341221,
+      "rank": 49,
+      "category": "国际时政"
     }
   ],
   "hotgov_list": [

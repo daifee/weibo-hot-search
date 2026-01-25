@@ -1,6 +1,6 @@
 {
   "startTime": 1769272464158,
-  "endTime": 1769363007816,
+  "endTime": 1769366383161,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -3755,7 +3755,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 28484,
+      "raw_hot": 29538,
       "num": 190375,
       "word": "阿森纳vs曼联",
       "onboard_time": 1769361257,
@@ -3913,6 +3913,14 @@
       "onboard_time": 1769346261,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17674,
+      "num": 33848,
+      "word": "张杰新春场唱了好多遗珠",
+      "onboard_time": 1769364975,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 16616,

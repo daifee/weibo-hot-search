@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769363007816,
+  "endTime": 1769366383161,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -80075,6 +80075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 29538,
+      "num": 190375,
+      "word": "阿森纳vs曼联",
+      "onboard_time": 1769361257,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 29537,
       "num": 100955,
       "word": "檀健次开沙滩车",
@@ -80321,14 +80329,6 @@
       "onboard_time": 1768017621,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 28484,
-      "num": 190375,
-      "word": "阿森纳vs曼联",
-      "onboard_time": 1769361257,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 28481,
@@ -83297,6 +83297,14 @@
       "onboard_time": 1768933815,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 17674,
+      "num": 33848,
+      "word": "张杰新春场唱了好多遗珠",
+      "onboard_time": 1769364975,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 17665,
