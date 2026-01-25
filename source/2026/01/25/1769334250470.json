@@ -1,0 +1,410 @@
+{
+  "runTime": 1769334250470,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 719215,
+        "num": 1115074,
+        "word": "江西唇腭裂女童引全网关注",
+        "onboard_time": 1769332161,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 241186,
+        "num": 834655,
+        "word": "多国加强监测应对印度疫情",
+        "onboard_time": 1769328799,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 40344,
+        "num": 654731,
+        "word": "又一轮雨雪天气来了",
+        "onboard_time": 1769311101,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172569,
+        "num": 341085,
+        "word": "易烊千玺4年前的表情包显化了",
+        "onboard_time": 1769332881,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 126090,
+        "num": 276561,
+        "word": "金博洋自由滑169.40分",
+        "onboard_time": 1769327600,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 256527,
+        "num": 256527,
+        "word": "以为的淡妆vs实际上的淡妆",
+        "onboard_time": 1769330720,
+        "rank": 5,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 246684,
+        "num": 246684,
+        "word": "再也不敢单删同学",
+        "onboard_time": 1769325080,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 124884,
+        "num": 246203,
+        "word": "可是妈妈张杰不是别的黄毛",
+        "onboard_time": 1769332519,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 107709,
+        "num": 245539,
+        "word": "永辉学习胖东来结果每天亏600万",
+        "onboard_time": 1769319199,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94247,
+        "num": 244506,
+        "word": "马年春晚北斗七行凑齐四个了",
+        "onboard_time": 1769323459,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 370072,
+        "num": 243711,
+        "word": "经常熬夜 身体发臭",
+        "onboard_time": 1769323101,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 366980,
+        "num": 243440,
+        "word": "今天必须去世一个吗宝贝",
+        "onboard_time": 1769326280,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 358861,
+        "num": 242021,
+        "word": "金价",
+        "onboard_time": 1769320160,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 241982,
+        "num": 241982,
+        "word": "钎九",
+        "onboard_time": 1769332999,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 22052,
+        "num": 240953,
+        "word": "喵娲娲很高兴你也喜欢手搓",
+        "onboard_time": 1769331620,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 164771,
+        "num": 238678,
+        "word": "不发朋友圈vs不看朋友圈",
+        "onboard_time": 1769313800,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 158259,
+        "num": 234572,
+        "word": "退脏衣服被拒骂哭商家女子道歉",
+        "onboard_time": 1769325080,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151683,
+        "num": 230993,
+        "word": "过度独立 心理创伤",
+        "onboard_time": 1769331141,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113093,
+        "num": 226335,
+        "word": "檀健次开机上哭了",
+        "onboard_time": 1769314459,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102865,
+        "num": 225571,
+        "word": "先吃烂苹果最后吃的全是烂苹果",
+        "onboard_time": 1769329941,
+        "rank": 19,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 488547,
+        "num": 222023,
+        "word": "张元英喝奶茶",
+        "onboard_time": 1769331079,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219495,
+        "num": 219495,
+        "word": "李亚鹏谈自己不再做演员的原因",
+        "onboard_time": 1769329759,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183958,
+        "num": 183958,
+        "word": "癌症晚期老人出售30年前买的黄金",
+        "onboard_time": 1769318180,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189523,
+        "num": 176423,
+        "word": "彭小苒称该道歉的是我",
+        "onboard_time": 1769324000,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154381,
+        "num": 154381,
+        "word": "穆祉丞高会评论区",
+        "onboard_time": 1769327060,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96299,
+        "num": 153265,
+        "word": "不考虑成本最爱吃的水果",
+        "onboard_time": 1769330000,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 152866,
+        "num": 152866,
+        "word": "高会L销号",
+        "onboard_time": 1769330299,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130573,
+        "num": 130573,
+        "word": "这是金瀚那他是谁",
+        "onboard_time": 1769331980,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65951,
+        "num": 127018,
+        "word": "国乒19岁队员带来惊喜",
+        "onboard_time": 1769332098,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 63966,
+        "num": 125436,
+        "word": "台军宣称解放军26架次军机巡台",
+        "onboard_time": 1769327000,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 124982,
+        "num": 124982,
+        "word": "梓渝几张没发的库存",
+        "onboard_time": 1769334021,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21602,
+        "num": 121181,
+        "word": "俄副外长说俄美关系正回归正常",
+        "onboard_time": 1769332939,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 117618,
+        "num": 117618,
+        "word": "陈丽君自曝因干农活长冻疮",
+        "onboard_time": 1769331441,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113331,
+        "num": 113331,
+        "word": "张凌赫 兰蔻",
+        "onboard_time": 1769315239,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75137,
+        "num": 109524,
+        "word": "固体腊八粥",
+        "onboard_time": 1769333661,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 108004,
+        "num": 108004,
+        "word": "高允真韩剧95大爆花",
+        "onboard_time": 1769332881,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98189,
+        "num": 98189,
+        "word": "白鹿说已无法负荷高强度动作戏",
+        "onboard_time": 1769321842,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71272,
+        "num": 85201,
+        "word": "真正的外耗型人格",
+        "onboard_time": 1769333180,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 72809,
+        "num": 72809,
+        "word": "童锦程说鹿晗人很好",
+        "onboard_time": 1769329280,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56405,
+        "num": 71678,
+        "word": "中国足球请昂起头向前走",
+        "onboard_time": 1769333840,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71506,
+        "num": 71506,
+        "word": "在卢昱晓这里吃到古偶顶级细糠了",
+        "onboard_time": 1769325320,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67977,
+        "num": 67977,
+        "word": "丁禹兮白西装",
+        "onboard_time": 1769330180,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65302,
+        "num": 67934,
+        "word": "金价波动",
+        "onboard_time": 1769316500,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 67907,
+        "num": 67907,
+        "word": "鞠婧祎 你可以慢慢吃东西",
+        "onboard_time": 1769334021,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66558,
+        "num": 66558,
+        "word": "赵匡胤这里不让装监控",
+        "onboard_time": 1769331801,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63320,
+        "num": 63320,
+        "word": "第一次见到会吐口水的猫",
+        "onboard_time": 1769333720,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 66353,
+        "num": 63223,
+        "word": "御赐小仵作2",
+        "onboard_time": 1769324720,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 61891,
+        "num": 61891,
+        "word": "买童装退货辱骂商家女子离职",
+        "onboard_time": 1769320639,
+        "rank": 47,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 58371,
+        "num": 58371,
+        "word": "身体的6个求救信号千万别忽视",
+        "onboard_time": 1769332819,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 51188,
+        "num": 57821,
+        "word": "松岛辉空获全日男单冠军",
+        "onboard_time": 1769332819,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#开局之年习近平强调落地见效#"
+    }
+  }
+}
