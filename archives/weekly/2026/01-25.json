@@ -1,6 +1,6 @@
 {
   "startTime": 1769272464158,
-  "endTime": 1769351247573,
+  "endTime": 1769352266374,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -51,7 +51,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1157600,
+      "raw_hot": 1183970,
       "num": 174566,
       "word": "乔任梁父亲回忆儿子出事当天",
       "onboard_time": 1769348544,
@@ -387,6 +387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 429385,
+      "num": 131828,
+      "word": "外网热议华裔二代破防了",
+      "onboard_time": 1769350222,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 416108,
       "num": 176423,
       "word": "彭小苒称该道歉的是我",
@@ -537,6 +545,14 @@
       "onboard_time": 1769304920,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 337678,
+      "num": 337678,
+      "word": "何炅说沈梦辰今天美到值得上热搜",
+      "onboard_time": 1769350644,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 337277,
@@ -763,14 +779,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 258000,
-      "num": 122222,
-      "word": "外网热议华裔二代破防了",
-      "onboard_time": 1769350222,
-      "rank": 30,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 256527,
       "num": 256527,
       "word": "以为的淡妆vs实际上的淡妆",
@@ -835,6 +843,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 237055,
+      "num": 237055,
+      "word": "炽热吸引",
+      "onboard_time": 1769349323,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 236495,
       "num": 632080,
       "word": "小偷入室盗窃不识黄金反偷水龙头",
@@ -897,14 +913,6 @@
       "onboard_time": 1769327600,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 225115,
-      "num": 225115,
-      "word": "炽热吸引",
-      "onboard_time": 1769349323,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 222876,
@@ -1003,6 +1011,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 194686,
+      "num": 161066,
+      "word": "陈星旭轧戏收官文",
+      "onboard_time": 1769351604,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194126,
       "num": 194126,
       "word": "肖战王鹤棣杨紫吴磊新剧被业内看好",
@@ -1067,8 +1083,16 @@
       "category": "电影"
     },
     {
+      "raw_hot": 175745,
+      "num": 146347,
+      "word": "建议优先睡好这4个小时",
+      "onboard_time": 1769348544,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 175093,
-      "num": 123707,
+      "num": 128727,
       "word": "内娱你再不努力就要被短剧打败了",
       "onboard_time": 1769350282,
       "rank": 25,
@@ -1187,6 +1211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 154396,
+      "num": 129228,
+      "word": "声鸣远扬总决赛",
+      "onboard_time": 1769345542,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154043,
       "num": 118427,
       "word": "何不同舟渡妆造",
@@ -1243,20 +1275,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 150893,
-      "num": 146347,
-      "word": "建议优先睡好这4个小时",
-      "onboard_time": 1769348544,
-      "rank": 28,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 148568,
       "num": 138723,
       "word": "易烊千玺十年前的愿望实现了",
       "onboard_time": 1769339660,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 147201,
+      "num": 147201,
+      "word": "美国ICE行刑式处决",
+      "onboard_time": 1769348721,
+      "rank": 45,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 147187,
@@ -1419,14 +1451,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 132388,
-      "num": 122297,
-      "word": "声鸣远扬总决赛",
-      "onboard_time": 1769345542,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 129964,
       "num": 129964,
       "word": "黎深引导型爱人",
@@ -1449,6 +1473,14 @@
       "onboard_time": 1769324720,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 128414,
+      "num": 127726,
+      "word": "被斩杀的美国人民",
+      "onboard_time": 1769349023,
+      "rank": 48,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 126613,
@@ -1521,14 +1553,6 @@
       "onboard_time": 1769314640,
       "rank": 18,
       "category": "财经"
-    },
-    {
-      "raw_hot": 121289,
-      "num": 121289,
-      "word": "被斩杀的美国人民",
-      "onboard_time": 1769349023,
-      "rank": 48,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 121042,
@@ -1619,6 +1643,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 113851,
+      "num": 133245,
+      "word": "TES战胜IG",
+      "onboard_time": 1769351422,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 113698,
       "num": 113698,
       "word": "全红婵让樊振东请吃广东美食叉烧肉",
@@ -1649,6 +1681,14 @@
       "onboard_time": 1769313200,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110695,
+      "num": 108900,
+      "word": "那英华晨宇始终如一的魔丸味",
+      "onboard_time": 1769351483,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 110306,
@@ -1753,6 +1793,14 @@
       "onboard_time": 1769325619,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 106524,
+      "num": 106524,
+      "word": "蔡国庆说张艺兴太厉害了",
+      "onboard_time": 1769351661,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 105283,
@@ -1899,6 +1947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 100761,
+      "num": 107051,
+      "word": "40岁假肢妈妈廖智说生四胎很幸运",
+      "onboard_time": 1769350644,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100585,
       "num": 127396,
       "word": "云冈石窟保洁员厕所坐地休息引争议",
@@ -1987,6 +2043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 97895,
+      "num": 97895,
+      "word": "张真源染回了黑发",
+      "onboard_time": 1769351541,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 96728,
       "num": 90850,
       "word": "赵樱子自曝改名原因",
@@ -2049,6 +2113,14 @@
       "onboard_time": 1769317821,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 96033,
+      "num": 100655,
+      "word": "被丈夫和闺蜜背叛女子回应白头",
+      "onboard_time": 1769350161,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 95763,
@@ -2243,6 +2315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 88951,
+      "num": 107446,
+      "word": "国投白银LOF将临时停牌",
+      "onboard_time": 1769348663,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 88607,
       "num": 88607,
       "word": "白鹿酒店管理我是专业的",
@@ -2291,14 +2371,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 87049,
-      "num": 125883,
-      "word": "美国ICE行刑式处决",
-      "onboard_time": 1769348721,
-      "rank": 45,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 86681,
       "num": 86681,
       "word": "王珞丹淡颜的含金量还在上升",
@@ -2345,14 +2417,6 @@
       "onboard_time": 1769313140,
       "rank": 43,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 85659,
-      "num": 107446,
-      "word": "国投白银LOF将临时停牌",
-      "onboard_time": 1769348663,
-      "rank": 37,
-      "category": "财经"
     },
     {
       "raw_hot": 85601,
@@ -2467,14 +2531,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 82533,
-      "num": 100655,
-      "word": "被丈夫和闺蜜背叛女子回应白头",
-      "onboard_time": 1769350161,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 82179,
       "num": 82179,
       "word": "赵匡胤这里不让装监控",
@@ -2496,14 +2552,6 @@
       "word": "何炅要为这件T恤办个演唱会",
       "onboard_time": 1769331920,
       "rank": 40,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 81649,
-      "num": 125661,
-      "word": "何炅说沈梦辰今天美到值得上热搜",
-      "onboard_time": 1769350644,
-      "rank": 19,
       "category": "综艺"
     },
     {
@@ -2553,6 +2601,14 @@
       "onboard_time": 1769334560,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 80144,
+      "num": 80144,
+      "word": "11岁小孩哥为还债创业2月赚6000元",
+      "onboard_time": 1769352022,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 79913,
@@ -2625,6 +2681,14 @@
       "onboard_time": 1769315842,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 77070,
+      "num": 77070,
+      "word": "陌生老人尾随进家男孩拿菜刀自卫",
+      "onboard_time": 1769351483,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 76589,
@@ -2889,14 +2953,6 @@
       "onboard_time": 1769334320,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 70772,
-      "num": 107051,
-      "word": "40岁假肢妈妈廖智说生四胎很幸运",
-      "onboard_time": 1769350644,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 70567,
@@ -3364,7 +3420,7 @@
     },
     {
       "raw_hot": 36649,
-      "num": 615472,
+      "num": 625623,
       "word": "彩灯一亮年味就有了",
       "onboard_time": 1769345602,
       "rank": 2,

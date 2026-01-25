@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/25 22:27:27
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/25 22:44:26
 </p>
 </blockquote>
 <p>
@@ -795,6 +795,12 @@ MRC对战Gr（热度：1190595）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%94%E4%BB%BB%E6%A2%81%E7%88%B6%E4%BA%B2%E5%9B%9E%E5%BF%86%E5%84%BF%E5%AD%90%E5%87%BA%E4%BA%8B%E5%BD%93%E5%A4%A9%23" target="weibo">
+乔任梁父亲回忆儿子出事当天（热度：1183970）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B7%A8%E5%B9%B4%23" target="weibo">
 跨年（热度：1183637）
 </a>
@@ -827,12 +833,6 @@ MRC对战Gr（热度：1190595）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AB%A0%E6%B3%BD%E5%A4%A9%E5%AE%8C%E5%85%A8%E4%B8%8D%E7%BB%99%E5%AD%A9%E5%AD%90%E7%9C%8B%E7%A4%BE%E5%AA%92%23" target="weibo">
 章泽天完全不给孩子看社媒（热度：1170739）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B9%94%E4%BB%BB%E6%A2%81%E7%88%B6%E4%BA%B2%E5%9B%9E%E5%BF%86%E5%84%BF%E5%AD%90%E5%87%BA%E4%BA%8B%E5%BD%93%E5%A4%A9%23" target="weibo">
-乔任梁父亲回忆儿子出事当天（热度：1157600）
 </a>
 </li>
 
