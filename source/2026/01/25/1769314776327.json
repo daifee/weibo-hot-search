@@ -1,0 +1,410 @@
+{
+  "runTime": 1769314776327,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 560322,
+        "num": 1089651,
+        "word": "台北101",
+        "onboard_time": 1769312660,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 404421,
+        "num": 764932,
+        "word": "U23国足0比4日本队",
+        "onboard_time": 1769274381,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 65169,
+        "num": 649359,
+        "word": "我的工位在大海上方178米",
+        "onboard_time": 1769310020,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 539475,
+        "num": 539475,
+        "word": "猫的树 升咖",
+        "onboard_time": 1769299520,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 402928,
+        "num": 402928,
+        "word": "成都涉事小学取消育人故事分享",
+        "onboard_time": 1769309900,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 511620,
+        "num": 385172,
+        "word": "领衔主演檀健次和卢昱晓",
+        "onboard_time": 1769310919,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 415188,
+        "num": 370359,
+        "word": "谁能管管现在的商场厕所",
+        "onboard_time": 1769311400,
+        "rank": 6,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 337277,
+        "num": 337277,
+        "word": "雷军称小米汽车熔岩橙配色敢买的人太少",
+        "onboard_time": 1769311521,
+        "rank": 7,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 260446,
+        "num": 260446,
+        "word": "美国男子大喊别拍照了快救我",
+        "onboard_time": 1769310200,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 22615,
+        "num": 257289,
+        "word": "回顾李昊U23亚洲杯表现",
+        "onboard_time": 1769313920,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 553434,
+        "num": 257274,
+        "word": "彭小苒 祝你天天加班",
+        "onboard_time": 1769311459,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270774,
+        "num": 256568,
+        "word": "2026央视春晚第二次联排",
+        "onboard_time": 1769308761,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 255464,
+        "num": 255464,
+        "word": "印度男子倒奶入河避开接奶贫困儿童",
+        "onboard_time": 1769304440,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 231527,
+        "num": 231527,
+        "word": "周雨彤 观众缘",
+        "onboard_time": 1769297658,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231342,
+        "num": 231342,
+        "word": "angelababy能打破花少单双季魔咒吗",
+        "onboard_time": 1769306660,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216120,
+        "num": 216120,
+        "word": "U23国足vs日本",
+        "onboard_time": 1769265382,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208541,
+        "num": 208541,
+        "word": "檀健次开机上哭了",
+        "onboard_time": 1769314459,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206236,
+        "num": 206236,
+        "word": "我奶奶好心跟你爷爷结婚",
+        "onboard_time": 1769311220,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 123305,
+        "num": 123305,
+        "word": "白银价格跟随黄金狂飙",
+        "onboard_time": 1769314640,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 121042,
+        "num": 121042,
+        "word": "中方营救菲律宾船员后遭反咬一口",
+        "onboard_time": 1769308879,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 487465,
+        "num": 119445,
+        "word": "女子买60克黄金轮胎手镯后悔买晚了",
+        "onboard_time": 1769310860,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210994,
+        "num": 119051,
+        "word": "买1块银砖3个月赚26万",
+        "onboard_time": 1769306660,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164470,
+        "num": 117201,
+        "word": "普通但赚钱的工作",
+        "onboard_time": 1769313920,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154679,
+        "num": 114103,
+        "word": "陈百祥谈老婆不能生育的原因",
+        "onboard_time": 1769307620,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154043,
+        "num": 112739,
+        "word": "何不同舟渡妆造",
+        "onboard_time": 1769310680,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112306,
+        "num": 112306,
+        "word": "雷军回应下架小米汽车熔岩橙配色",
+        "onboard_time": 1769313021,
+        "rank": 25,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 140060,
+        "num": 112301,
+        "word": "直井怜把茄皇拎回韩国了",
+        "onboard_time": 1769309840,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125882,
+        "num": 112293,
+        "word": "何不同舟渡",
+        "onboard_time": 1769259921,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112282,
+        "num": 112282,
+        "word": "不发朋友圈vs不看朋友圈",
+        "onboard_time": 1769313800,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 120271,
+        "num": 111694,
+        "word": "辛芷蕾在芒果身份查重率为0",
+        "onboard_time": 1769314459,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 55070,
+        "num": 111201,
+        "word": "81岁退休老人自费修天梯",
+        "onboard_time": 1769313439,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125848,
+        "num": 110258,
+        "word": "总裁做店长被员工吐槽不靠谱",
+        "onboard_time": 1769313439,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101683,
+        "num": 109313,
+        "word": "成何体统2开播",
+        "onboard_time": 1769310619,
+        "rank": 32,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 113016,
+        "num": 107830,
+        "word": "时代少年团挪威",
+        "onboard_time": 1769302640,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107659,
+        "num": 107659,
+        "word": "怪不得叫米老头",
+        "onboard_time": 1769313678,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 106256,
+        "num": 106256,
+        "word": "校方回应女教师病亡2天才发现",
+        "onboard_time": 1769313200,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100129,
+        "num": 100129,
+        "word": "燕云十六声获年度最佳游戏",
+        "onboard_time": 1769312480,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 97951,
+        "num": 97951,
+        "word": "陈卓璇音综遇到了七年前的导师",
+        "onboard_time": 1769311700,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95374,
+        "num": 95374,
+        "word": "曝猫的树手上现在全是现偶大项目",
+        "onboard_time": 1769304920,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94102,
+        "num": 94102,
+        "word": "这一次终于不是换乘恋爱了",
+        "onboard_time": 1769313740,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90472,
+        "num": 90472,
+        "word": "这才叫精通Excel",
+        "onboard_time": 1769314280,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 87430,
+        "num": 87430,
+        "word": "被东北人囤年货震撼到了",
+        "onboard_time": 1769314521,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 87219,
+        "num": 87219,
+        "word": "谢娜嘴上不理解脸上哭唧唧",
+        "onboard_time": 1769308821,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85745,
+        "num": 85745,
+        "word": "美国男子被ICE先缴械后击毙",
+        "onboard_time": 1769313140,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 82912,
+        "num": 82912,
+        "word": "好睡眠的4个黄金标准",
+        "onboard_time": 1769299879,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 82359,
+        "num": 82359,
+        "word": "白鹿谈身体状况",
+        "onboard_time": 1769304201,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80627,
+        "num": 80627,
+        "word": "UFC",
+        "onboard_time": 1769312780,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 78661,
+        "num": 78661,
+        "word": "居然有药会引发病理性赌博",
+        "onboard_time": 1769310200,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 77033,
+        "num": 77033,
+        "word": "谁懂这碗泡面的含金量",
+        "onboard_time": 1769314521,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 75751,
+        "num": 75751,
+        "word": "太平年第6集41分02秒",
+        "onboard_time": 1769310619,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#一步一步坚定走#"
+    }
+  }
+}

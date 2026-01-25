@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769309243205,
+  "endTime": 1769314776327,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -5227,6 +5227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 560322,
+      "num": 1089651,
+      "word": "台北101",
+      "onboard_time": 1769312660,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 560007,
       "num": 262215,
       "word": "女子回应怀孕暴涨45斤被迫辞职",
@@ -5401,6 +5409,14 @@
       "onboard_time": 1767840020,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 553434,
+      "num": 257274,
+      "word": "彭小苒 祝你天天加班",
+      "onboard_time": 1769311459,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 553135,
@@ -6387,6 +6403,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 511620,
+      "num": 385172,
+      "word": "领衔主演檀健次和卢昱晓",
+      "onboard_time": 1769310919,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 511362,
       "num": 796697,
       "word": "李在明发文",
@@ -6985,6 +7009,14 @@
       "onboard_time": 1768816881,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 487465,
+      "num": 119445,
+      "word": "女子买60克黄金轮胎手镯后悔买晚了",
+      "onboard_time": 1769310860,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 487139,
@@ -9163,6 +9195,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 415188,
+      "num": 370359,
+      "word": "谁能管管现在的商场厕所",
+      "onboard_time": 1769311400,
+      "rank": 6,
+      "category": "幽默,民生新闻"
+    },
+    {
       "raw_hot": 414987,
       "num": 414987,
       "word": "外卖发展成这样了",
@@ -9561,6 +9601,14 @@
       "onboard_time": 1767801801,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 402928,
+      "num": 402928,
+      "word": "成都涉事小学取消育人故事分享",
+      "onboard_time": 1769309900,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 402792,
@@ -12265,6 +12313,14 @@
       "onboard_time": 1767583461,
       "rank": 6,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 337277,
+      "num": 337277,
+      "word": "雷军称小米汽车熔岩橙配色敢买的人太少",
+      "onboard_time": 1769311521,
+      "rank": 7,
+      "category": "汽车"
     },
     {
       "raw_hot": 336078,
@@ -16051,6 +16107,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 270774,
+      "num": 256568,
+      "word": "2026央视春晚第二次联排",
+      "onboard_time": 1769308761,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 270691,
       "num": 440686,
       "word": "2026年第一个闯大祸的人出现了",
@@ -16793,6 +16857,14 @@
       "onboard_time": 1768731621,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 260446,
+      "num": 260446,
+      "word": "美国男子大喊别拍照了快救我",
+      "onboard_time": 1769310200,
+      "rank": 8,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 260427,
@@ -18811,6 +18883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 231342,
+      "num": 231342,
+      "word": "angelababy能打破花少单双季魔咒吗",
+      "onboard_time": 1769306660,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 231328,
       "num": 231328,
       "word": "蒸苹果蒸出了果冻",
@@ -19721,14 +19801,6 @@
       "onboard_time": 1769089041,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 221415,
-      "num": 136926,
-      "word": "angelababy能打破花少单双季魔咒吗",
-      "onboard_time": 1769306660,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 221376,
@@ -21027,6 +21099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 208541,
+      "num": 208541,
+      "word": "檀健次开机上哭了",
+      "onboard_time": 1769314459,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 208470,
       "num": 736271,
       "word": "委内瑞拉内政部长呼吁民众冷静",
@@ -21369,6 +21449,14 @@
       "onboard_time": 1767769641,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 206236,
+      "num": 206236,
+      "word": "我奶奶好心跟你爷爷结婚",
+      "onboard_time": 1769311220,
+      "rank": 17,
+      "category": "幽默"
     },
     {
       "raw_hot": 206211,
@@ -28307,6 +28395,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 164470,
+      "num": 117201,
+      "word": "普通但赚钱的工作",
+      "onboard_time": 1769313920,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 164380,
       "num": 164380,
       "word": "有史以来最神经的恋综出现了",
@@ -30235,6 +30331,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 154679,
+      "num": 117060,
+      "word": "陈百祥谈老婆不能生育的原因",
+      "onboard_time": 1769307620,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 154658,
       "num": 154658,
       "word": "快乐老友记3",
@@ -30345,6 +30449,14 @@
       "onboard_time": 1768265600,
       "rank": 6,
       "category": "财经"
+    },
+    {
+      "raw_hot": 154043,
+      "num": 112739,
+      "word": "何不同舟渡妆造",
+      "onboard_time": 1769310680,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 154037,
@@ -30609,14 +30721,6 @@
       "onboard_time": 1768828042,
       "rank": 24,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 152863,
-      "num": 117060,
-      "word": "陈百祥谈老婆不能生育的原因",
-      "onboard_time": 1769307620,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 152843,
@@ -32145,14 +32249,6 @@
       "onboard_time": 1768452741,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 146515,
-      "num": 116776,
-      "word": "2026央视春晚第二次联排",
-      "onboard_time": 1769308761,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 146510,
@@ -33993,6 +34089,14 @@
       "onboard_time": 1768797083,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 140060,
+      "num": 112301,
+      "word": "直井怜把茄皇拎回韩国了",
+      "onboard_time": 1769309840,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 140055,
@@ -38403,6 +38507,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 125848,
+      "num": 110258,
+      "word": "总裁做店长被员工吐槽不靠谱",
+      "onboard_time": 1769313439,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 125832,
       "num": 353168,
       "word": "王一博被赞完全不一样了",
@@ -39273,6 +39385,14 @@
       "onboard_time": 1767450626,
       "rank": 26,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 123305,
+      "num": 123305,
+      "word": "白银价格跟随黄金狂飙",
+      "onboard_time": 1769314640,
+      "rank": 18,
+      "category": "财经"
     },
     {
       "raw_hot": 123301,
@@ -40195,6 +40315,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 121042,
+      "num": 121042,
+      "word": "中方营救菲律宾船员后遭反咬一口",
+      "onboard_time": 1769308879,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 121031,
       "num": 465084,
       "word": "蔡磊透露已进入疾病终末期",
@@ -40561,6 +40689,14 @@
       "onboard_time": 1767888859,
       "rank": 29,
       "category": "数码"
+    },
+    {
+      "raw_hot": 120271,
+      "num": 111694,
+      "word": "辛芷蕾在芒果身份查重率为0",
+      "onboard_time": 1769314459,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 120258,
@@ -43987,6 +44123,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 112306,
+      "num": 112306,
+      "word": "雷军回应下架小米汽车熔岩橙配色",
+      "onboard_time": 1769313021,
+      "rank": 25,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 112301,
       "num": 112301,
       "word": "TF家族荣耀之战演唱会",
@@ -44009,6 +44153,14 @@
       "onboard_time": 1768644680,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 112282,
+      "num": 112282,
+      "word": "不发朋友圈vs不看朋友圈",
+      "onboard_time": 1769313800,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 112279,
@@ -45867,6 +46019,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 107659,
+      "num": 107659,
+      "word": "怪不得叫米老头",
+      "onboard_time": 1769313678,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 107646,
       "num": 107646,
       "word": "你觉得不好看其实超健康的特点",
@@ -46585,6 +46745,14 @@
       "onboard_time": 1767929241,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 106256,
+      "num": 106256,
+      "word": "校方回应女教师病亡2天才发现",
+      "onboard_time": 1769313200,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 106247,
@@ -49091,6 +49259,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 101683,
+      "num": 109313,
+      "word": "成何体统2开播",
+      "onboard_time": 1769310619,
+      "rank": 32,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 101670,
       "num": 250992,
       "word": "河北村民预计今冬取暖费要8000元",
@@ -50033,6 +50209,14 @@
       "onboard_time": 1768968921,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 100129,
+      "num": 100129,
+      "word": "燕云十六声获年度最佳游戏",
+      "onboard_time": 1769312480,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 100064,
@@ -51329,6 +51513,14 @@
       "onboard_time": 1768104261,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 97951,
+      "num": 97951,
+      "word": "陈卓璇音综遇到了七年前的导师",
+      "onboard_time": 1769311700,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 97944,
@@ -53811,6 +54003,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 94102,
+      "num": 94102,
+      "word": "这一次终于不是换乘恋爱了",
+      "onboard_time": 1769313740,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 94088,
       "num": 94088,
       "word": "猫咖的下沉市场",
@@ -56291,6 +56491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 90472,
+      "num": 90472,
+      "word": "这才叫精通Excel",
+      "onboard_time": 1769314280,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 90470,
       "num": 420464,
       "word": "五角大楼披萨订单又升高了",
@@ -58147,6 +58355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 87430,
+      "num": 87430,
+      "word": "被东北人囤年货震撼到了",
+      "onboard_time": 1769314521,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 87405,
       "num": 87405,
       "word": "其实这3类主食真的巨减肥",
@@ -59521,6 +59737,14 @@
       "onboard_time": 1768702399,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 85745,
+      "num": 85745,
+      "word": "美国男子被ICE先缴械后击毙",
+      "onboard_time": 1769313140,
+      "rank": 43,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 85739,
@@ -62571,6 +62795,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 80627,
+      "num": 80627,
+      "word": "UFC",
+      "onboard_time": 1769312780,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 80579,
       "num": 80579,
       "word": "鸿蒙智行尚界Z7实车动态视频首曝",
@@ -63771,6 +64003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 78661,
+      "num": 78661,
+      "word": "居然有药会引发病理性赌博",
+      "onboard_time": 1769310200,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 78646,
       "num": 402142,
       "word": "反诈意识最强的老人出现了",
@@ -64483,6 +64723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 77033,
+      "num": 77033,
+      "word": "谁懂这碗泡面的含金量",
+      "onboard_time": 1769314521,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 77029,
       "num": 110434,
       "word": "除冰机器人在线吃冰",
@@ -65025,6 +65273,14 @@
       "onboard_time": 1768638440,
       "rank": 49,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 75751,
+      "num": 75751,
+      "word": "太平年第6集41分02秒",
+      "onboard_time": 1769310619,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 75739,
@@ -68859,6 +69115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 65169,
+      "num": 649359,
+      "word": "我的工位在大海上方178米",
+      "onboard_time": 1769310020,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 65139,
       "num": 93531,
       "word": "鲁班七号班班快跑新皮肤",
@@ -71608,6 +71872,14 @@
       "word": "2026春运火车票明天开售",
       "onboard_time": 1768711820,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 55070,
+      "num": 111201,
+      "word": "81岁退休老人自费修天梯",
+      "onboard_time": 1769313439,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -79403,6 +79675,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 22615,
+      "num": 257289,
+      "word": "回顾李昊U23亚洲杯表现",
+      "onboard_time": 1769313920,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 22594,
       "num": 97795,
       "word": "一条音频告别2025",
@@ -81721,14 +82001,6 @@
       "onboard_time": 1768056142,
       "rank": 29,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 11641,
-      "num": 117570,
-      "word": "中方营救菲律宾船员后遭反咬一口",
-      "onboard_time": 1769308879,
-      "rank": 21,
-      "category": "国际时政"
     },
     {
       "raw_hot": 11639,
