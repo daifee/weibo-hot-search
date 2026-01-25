@@ -1,6 +1,6 @@
 {
   "startTime": 1769272464158,
-  "endTime": 1769314776327,
+  "endTime": 1769315870099,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -51,6 +51,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 835126,
+      "num": 1133620,
+      "word": "台北101",
+      "onboard_time": 1769312660,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 748716,
       "num": 748716,
       "word": "U23国足进球被吹",
@@ -75,6 +83,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 648892,
+      "num": 257274,
+      "word": "彭小苒 祝你天天加班",
+      "onboard_time": 1769311459,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 631249,
       "num": 605445,
       "word": "日本队6号",
@@ -89,22 +105,6 @@
       "onboard_time": 1769299520,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 560322,
-      "num": 1089651,
-      "word": "台北101",
-      "onboard_time": 1769312660,
-      "rank": 0,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 553434,
-      "num": 257274,
-      "word": "彭小苒 祝你天天加班",
-      "onboard_time": 1769311459,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 549766,
@@ -123,20 +123,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 515560,
+      "num": 170897,
+      "word": "女子买60克黄金轮胎手镯后悔买晚了",
+      "onboard_time": 1769310860,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 511620,
       "num": 385172,
       "word": "领衔主演檀健次和卢昱晓",
       "onboard_time": 1769310919,
       "rank": 5,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 487465,
-      "num": 119445,
-      "word": "女子买60克黄金轮胎手镯后悔买晚了",
-      "onboard_time": 1769310860,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 483061,
@@ -188,7 +188,7 @@
     },
     {
       "raw_hot": 402928,
-      "num": 402928,
+      "num": 843498,
       "word": "成都涉事小学取消育人故事分享",
       "onboard_time": 1769309900,
       "rank": 4,
@@ -216,6 +216,14 @@
       "word": "我们的少年时代2拍摄周期",
       "onboard_time": 1769270544,
       "rank": 4,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 354194,
+      "num": 222249,
+      "word": "檀健次开机上哭了",
+      "onboard_time": 1769314459,
+      "rank": 16,
       "category": "剧集"
     },
     {
@@ -331,6 +339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 256459,
+      "num": 170689,
+      "word": "被雪豹咬伤女游客否认跟雪豹拍照",
+      "onboard_time": 1769315300,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 256423,
       "num": 256423,
       "word": "U23国足球员向球迷致歉",
@@ -387,6 +403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 215108,
+      "num": 215108,
+      "word": "我奶奶好心跟你爷爷结婚",
+      "onboard_time": 1769311220,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 213505,
       "num": 138546,
       "word": "夜市偶遇虞书欣",
@@ -403,20 +427,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 208541,
-      "num": 208541,
-      "word": "檀健次开机上哭了",
-      "onboard_time": 1769314459,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 206236,
-      "num": 206236,
-      "word": "我奶奶好心跟你爷爷结婚",
-      "onboard_time": 1769311220,
-      "rank": 17,
-      "category": "幽默"
+      "raw_hot": 200403,
+      "num": 170347,
+      "word": "张凌赫 兰蔻",
+      "onboard_time": 1769315239,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 198150,
@@ -427,12 +443,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 196917,
+      "num": 171731,
+      "word": "辛芷蕾在芒果身份查重率为0",
+      "onboard_time": 1769314459,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186305,
       "num": 135756,
       "word": "林允方报平安",
       "onboard_time": 1769305340,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 171785,
+      "num": 171785,
+      "word": "不发朋友圈vs不看朋友圈",
+      "onboard_time": 1769313800,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 169838,
+      "num": 169838,
+      "word": "黄子韬已经开始不在意颜值了",
+      "onboard_time": 1769315300,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 168027,
@@ -444,7 +484,7 @@
     },
     {
       "raw_hot": 164470,
-      "num": 117201,
+      "num": 147708,
       "word": "普通但赚钱的工作",
       "onboard_time": 1769313920,
       "rank": 22,
@@ -484,7 +524,7 @@
     },
     {
       "raw_hot": 154043,
-      "num": 112739,
+      "num": 118427,
       "word": "何不同舟渡妆造",
       "onboard_time": 1769310680,
       "rank": 24,
@@ -540,7 +580,7 @@
     },
     {
       "raw_hot": 140060,
-      "num": 112301,
+      "num": 116034,
       "word": "直井怜把茄皇拎回韩国了",
       "onboard_time": 1769309840,
       "rank": 26,
@@ -579,6 +619,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 129006,
+      "num": 129006,
+      "word": "李昊赛后痛哭离场",
+      "onboard_time": 1769315121,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 126561,
       "num": 126561,
       "word": "美国涉中俄战略出现重大转变",
@@ -592,6 +640,14 @@
       "word": "总裁做店长被员工吐槽不靠谱",
       "onboard_time": 1769313439,
       "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 125404,
+      "num": 125404,
+      "word": "王安宇第二次春晚联排",
+      "onboard_time": 1769315360,
+      "rank": 28,
       "category": "综艺"
     },
     {
@@ -625,14 +681,6 @@
       "onboard_time": 1769308879,
       "rank": 21,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 120271,
-      "num": 111694,
-      "word": "辛芷蕾在芒果身份查重率为0",
-      "onboard_time": 1769314459,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 119082,
@@ -675,12 +723,28 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 112282,
-      "num": 112282,
-      "word": "不发朋友圈vs不看朋友圈",
-      "onboard_time": 1769313800,
-      "rank": 28,
-      "category": "情感"
+      "raw_hot": 111318,
+      "num": 111318,
+      "word": "校方回应女教师病亡2天才发现",
+      "onboard_time": 1769313200,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110306,
+      "num": 110306,
+      "word": "被东北人囤年货震撼到了",
+      "onboard_time": 1769314521,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 110092,
+      "num": 110092,
+      "word": "林允否认被冻十几小时",
+      "onboard_time": 1769314762,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 109249,
@@ -697,14 +761,6 @@
       "onboard_time": 1769313678,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 106256,
-      "num": 106256,
-      "word": "校方回应女教师病亡2天才发现",
-      "onboard_time": 1769313200,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 104843,
@@ -753,6 +809,14 @@
       "onboard_time": 1769305580,
       "rank": 31,
       "category": "军事"
+    },
+    {
+      "raw_hot": 101222,
+      "num": 101222,
+      "word": "突然明白了同学录的意思",
+      "onboard_time": 1769314821,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 100929,
@@ -811,6 +875,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 94439,
+      "num": 94439,
+      "word": "宋亚东VS奥马利",
+      "onboard_time": 1769315779,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 94102,
       "num": 94102,
       "word": "这一次终于不是换乘恋爱了",
@@ -849,6 +921,14 @@
       "onboard_time": 1769268744,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 92459,
+      "num": 87816,
+      "word": "轧戏",
+      "onboard_time": 1769315000,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 92197,
@@ -899,12 +979,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 87430,
-      "num": 87430,
-      "word": "被东北人囤年货震撼到了",
+      "raw_hot": 87835,
+      "num": 87835,
+      "word": "谁懂这碗泡面的含金量",
       "onboard_time": 1769314521,
-      "rank": 41,
-      "category": "幽默"
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 86148,
@@ -1027,14 +1107,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 77033,
-      "num": 77033,
-      "word": "谁懂这碗泡面的含金量",
-      "onboard_time": 1769314521,
-      "rank": 48,
-      "category": "美食"
-    },
-    {
       "raw_hot": 76589,
       "num": 120955,
       "word": "亚洲杯",
@@ -1065,6 +1137,14 @@
       "onboard_time": 1769267964,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 75803,
+      "num": 88467,
+      "word": "一觉醒来内娱新梗又诞生了",
+      "onboard_time": 1769315842,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 75751,
@@ -1121,6 +1201,14 @@
       "onboard_time": 1769263822,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 72174,
+      "num": 171126,
+      "word": "无人机运猪挂电线上村庄停电10小时",
+      "onboard_time": 1769314941,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 71740,
@@ -1353,6 +1441,14 @@
       "onboard_time": 1769252840,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 37622,
+      "num": 171352,
+      "word": "男子生病怕拖累家人留下遗书后出走",
+      "onboard_time": 1769315000,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37167,
