@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769326154949,
+  "endTime": 1769326967833,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -4987,6 +4987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 575946,
+      "num": 1092151,
+      "word": "经常熬夜 身体发臭",
+      "onboard_time": 1769323101,
+      "rank": 9,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 574856,
       "num": 236395,
       "word": "罗永浩于谦拒领终身成就奖",
@@ -7595,14 +7603,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 470191,
-      "num": 1075230,
-      "word": "经常熬夜 身体发臭",
-      "onboard_time": 1769323101,
-      "rank": 9,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 469854,
       "num": 773209,
       "word": "盒马客服回应虾煮熟后渗出蓝色液体",
@@ -9219,6 +9219,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 416108,
+      "num": 140818,
+      "word": "彭小苒称该道歉的是我",
+      "onboard_time": 1769324000,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 415599,
       "num": 1066495,
       "word": "威海暴雪",
@@ -9409,14 +9417,6 @@
       "onboard_time": 1767627802,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 410564,
-      "num": 128032,
-      "word": "彭小苒称该道歉的是我",
-      "onboard_time": 1769324000,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 410541,
@@ -13667,6 +13667,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 313489,
+      "num": 783476,
+      "word": "马年春晚北斗七行凑齐四个了",
+      "onboard_time": 1769323459,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 313364,
       "num": 253044,
       "word": "腾讯回应元宝AI辱骂用户",
@@ -14441,14 +14449,6 @@
       "onboard_time": 1768969221,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 297977,
-      "num": 780509,
-      "word": "马年春晚北斗七行凑齐四个了",
-      "onboard_time": 1769323459,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 297960,
@@ -17457,6 +17457,14 @@
       "onboard_time": 1767776482,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 254265,
+      "num": 140421,
+      "word": "再也不敢单删同学",
+      "onboard_time": 1769325080,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 254203,
@@ -29923,14 +29931,6 @@
       "category": "健康医疗,运动健身"
     },
     {
-      "raw_hot": 157507,
-      "num": 122982,
-      "word": "再也不敢单删同学",
-      "onboard_time": 1769325080,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 157492,
       "num": 228374,
       "word": "宋威龙现偶偶爸",
@@ -30888,6 +30888,14 @@
       "word": "69岁断臂奶奶替亡子还债",
       "onboard_time": 1768385242,
       "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 152909,
+      "num": 140169,
+      "word": "退脏衣服被拒骂哭商家女子道歉",
+      "onboard_time": 1769325080,
+      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -36291,6 +36299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133484,
+      "num": 133484,
+      "word": "小海绵说不蹦",
+      "onboard_time": 1769324240,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 133455,
       "num": 133455,
       "word": "ChatGPT发布美国版蚂蚁阿福",
@@ -36433,6 +36449,14 @@
       "onboard_time": 1768137023,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 132862,
+      "num": 141144,
+      "word": "在卢昱晓这里吃到古偶顶级细糠了",
+      "onboard_time": 1769325320,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 132832,
@@ -38587,14 +38611,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 126247,
-      "num": 126247,
-      "word": "小海绵说不蹦",
-      "onboard_time": 1769324240,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 126194,
       "num": 117839,
       "word": "刘耀文少年将军裴行俨",
@@ -40099,14 +40115,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 122156,
-      "num": 122156,
-      "word": "在卢昱晓这里吃到古偶顶级细糠了",
-      "onboard_time": 1769325320,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 122089,
       "num": 122089,
       "word": "怎么一下雪到处都是波司登",
@@ -41329,6 +41337,14 @@
       "onboard_time": 1768291762,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 119123,
+      "num": 119123,
+      "word": "胡锡进称中国人需要集体沉住气",
+      "onboard_time": 1769326280,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 119085,
@@ -43219,14 +43235,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 114852,
-      "num": 122378,
-      "word": "退脏衣服被拒骂哭商家女子道歉",
-      "onboard_time": 1769325080,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 114814,
       "num": 114814,
       "word": "毒皇后的苹果传给了王子奇",
@@ -43380,7 +43388,7 @@
     },
     {
       "raw_hot": 114451,
-      "num": 128718,
+      "num": 141041,
       "word": "狼队对战RNGM",
       "onboard_time": 1769325682,
       "rank": 8,
@@ -46763,6 +46771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 106664,
+      "num": 127154,
+      "word": "女教师宿舍病亡校方建议家属起诉",
+      "onboard_time": 1769325619,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106663,
       "num": 106663,
       "word": "长期碎片化睡眠大脑会加速衰老",
@@ -47585,6 +47601,14 @@
       "onboard_time": 1768982002,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 105283,
+      "num": 105283,
+      "word": "辛芷蕾又在going女孩子了",
+      "onboard_time": 1769325561,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 105265,
@@ -51656,6 +51680,14 @@
       "word": "巨型墙画所在村有商贩日入超2万元",
       "onboard_time": 1767359481,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 98258,
+      "num": 98258,
+      "word": "胡锡进",
+      "onboard_time": 1769326220,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -57163,14 +57195,6 @@
       "category": "时尚,作品衍生"
     },
     {
-      "raw_hot": 89920,
-      "num": 89920,
-      "word": "辛芷蕾又在going女孩子了",
-      "onboard_time": 1769325561,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 89911,
       "num": 114097,
       "word": "建议买水果都按这个标准来",
@@ -57977,6 +58001,14 @@
       "onboard_time": 1768802002,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 88595,
+      "num": 88595,
+      "word": "今天必须去世一个吗宝贝",
+      "onboard_time": 1769326280,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 88593,
@@ -59393,6 +59425,14 @@
       "onboard_time": 1768648461,
       "rank": 46,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 86681,
+      "num": 86681,
+      "word": "王珞丹淡颜的含金量还在上升",
+      "onboard_time": 1769326519,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 86676,
@@ -60849,6 +60889,14 @@
       "onboard_time": 1769076739,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 84826,
+      "num": 124574,
+      "word": "官方通报秦岭翠峰山徒步者坠崖事故",
+      "onboard_time": 1769325919,
+      "rank": 29,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 84787,
@@ -67323,6 +67371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 72082,
+      "num": 72082,
+      "word": "魏大勋我都拜成这样了",
+      "onboard_time": 1769326819,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 72055,
       "num": 72055,
       "word": "马杜罗被美国强行控制一周后",
@@ -69553,14 +69609,6 @@
       "onboard_time": 1768702280,
       "rank": 45,
       "category": "电影"
-    },
-    {
-      "raw_hot": 65396,
-      "num": 124574,
-      "word": "官方通报秦岭翠峰山徒步者坠崖事故",
-      "onboard_time": 1769325919,
-      "rank": 29,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 65376,
@@ -72473,6 +72521,14 @@
       "onboard_time": 1767952999,
       "rank": 18,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 54791,
+      "num": 87452,
+      "word": "丁程鑫还有更体面的表演吗",
+      "onboard_time": 1769326760,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 54723,
@@ -75435,6 +75491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41270,
+      "num": 140056,
+      "word": "香港掀起买银热潮",
+      "onboard_time": 1769326040,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41227,
       "num": 43692,
       "word": "谢谢骄阳似我剧粉",
@@ -75793,6 +75857,14 @@
       "onboard_time": 1767354140,
       "rank": 27,
       "category": "财经"
+    },
+    {
+      "raw_hot": 39809,
+      "num": 140984,
+      "word": "旅日大熊猫最后1天上班",
+      "onboard_time": 1769326040,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 39775,
@@ -77451,6 +77523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 33501,
+      "num": 617924,
+      "word": "万亿城市再扩容",
+      "onboard_time": 1769309299,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33487,
       "num": 62032,
       "word": "黄子弘凡演唱会",
@@ -78147,14 +78227,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 30661,
-      "num": 124052,
-      "word": "香港掀起买银热潮",
-      "onboard_time": 1769326040,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 30616,
       "num": 73567,
       "word": "雷军称新SU7做不到加量不加价",
@@ -78473,14 +78545,6 @@
       "onboard_time": 1767893418,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 29577,
-      "num": 617924,
-      "word": "万亿城市再扩容",
-      "onboard_time": 1769309299,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 29537,
@@ -80177,14 +80241,6 @@
       "onboard_time": 1769237540,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 23044,
-      "num": 127154,
-      "word": "女教师宿舍病亡校方建议家属起诉",
-      "onboard_time": 1769325619,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 23040,
@@ -82208,14 +82264,6 @@
       "word": "警方回应针扎男婴母亲精神状况",
       "onboard_time": 1768990942,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 14654,
-      "num": 123350,
-      "word": "旅日大熊猫最后1天上班",
-      "onboard_time": 1769326040,
-      "rank": 31,
       "category": "民生新闻"
     },
     {
