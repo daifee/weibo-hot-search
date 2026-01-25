@@ -1,0 +1,410 @@
+{
+  "runTime": 1769363007816,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 366627,
+        "num": 389285,
+        "word": "印度疫情感染者死亡率超7成",
+        "onboard_time": 1769355620,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 182805,
+        "num": 274825,
+        "word": "杨鸣 辞职",
+        "onboard_time": 1769354002,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17270,
+        "num": 221610,
+        "word": "彩灯一亮年味就有了",
+        "onboard_time": 1769345602,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 304119,
+        "num": 187665,
+        "word": "何炅 终于要结束了",
+        "onboard_time": 1769355920,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85156,
+        "num": 85156,
+        "word": "惊蛰无声",
+        "onboard_time": 1769358919,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 61304,
+        "num": 85154,
+        "word": "羽绒服这样洗可能会爆炸",
+        "onboard_time": 1769342060,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59442,
+        "num": 85152,
+        "word": "女子怀孕收男友15万彩礼后不和要退婚",
+        "onboard_time": 1769342481,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55946,
+        "num": 85150,
+        "word": "江西唇腭裂女童引全网关注",
+        "onboard_time": 1769332161,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50192,
+        "num": 85150,
+        "word": "炽热吸引",
+        "onboard_time": 1769349323,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45522,
+        "num": 85148,
+        "word": "美国ICE行刑式处决",
+        "onboard_time": 1769348721,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 451118,
+        "num": 85146,
+        "word": "Angelababy高定设计师称未授权",
+        "onboard_time": 1769356341,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 389290,
+        "num": 85144,
+        "word": "前女友实名举报何健麒涉毒",
+        "onboard_time": 1769345120,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214661,
+        "num": 85142,
+        "word": "乔任梁父亲回忆儿子出事当天",
+        "onboard_time": 1769348544,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135989,
+        "num": 85139,
+        "word": "陈幸同 周启豪",
+        "onboard_time": 1769355860,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 52887,
+        "num": 85137,
+        "word": "麦琳何美延都开始直播带货了",
+        "onboard_time": 1769355443,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48856,
+        "num": 85135,
+        "word": "微博之夜",
+        "onboard_time": 1769344401,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 45051,
+        "num": 85134,
+        "word": "双胞胎吵架差点把爷爷奶奶吵离婚",
+        "onboard_time": 1769343800,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 34370,
+        "num": 85131,
+        "word": "11岁小孩哥为还债创业2月赚6000元",
+        "onboard_time": 1769352022,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29548,
+        "num": 85130,
+        "word": "建议喜糖都按这个标准来",
+        "onboard_time": 1769335160,
+        "rank": 18,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 43546,
+        "num": 85128,
+        "word": "何炅说沈梦辰今天美到值得上热搜",
+        "onboard_time": 1769350644,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235130,
+        "num": 85124,
+        "word": "woojin 塌房",
+        "onboard_time": 1769344641,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115745,
+        "num": 85123,
+        "word": "外网热议华裔二代破防了",
+        "onboard_time": 1769350222,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 100917,
+        "num": 85121,
+        "word": "何健麒 造谣你都得有个谱啊",
+        "onboard_time": 1769348181,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27277,
+        "num": 85119,
+        "word": "印度一邦暴发疫情",
+        "onboard_time": 1769334739,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 66108,
+        "num": 85117,
+        "word": "张元英说她是安宥真女朋友",
+        "onboard_time": 1769340081,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55617,
+        "num": 85114,
+        "word": "尚雯婕 直播最严厉的母亲",
+        "onboard_time": 1769359278,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44576,
+        "num": 85114,
+        "word": "建议优先睡好这4个小时",
+        "onboard_time": 1769348544,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 43330,
+        "num": 85112,
+        "word": "华晨宇弃票",
+        "onboard_time": 1769354603,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 42411,
+        "num": 85108,
+        "word": "看懂陈星旭收官文的都哭了",
+        "onboard_time": 1769354603,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37864,
+        "num": 85107,
+        "word": "感染尼帕病毒早期症状类似流感",
+        "onboard_time": 1769355201,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 39243,
+        "num": 85104,
+        "word": "生命树",
+        "onboard_time": 1769355501,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34012,
+        "num": 85104,
+        "word": "四代第一匍匐陆兵陈思罕",
+        "onboard_time": 1769357661,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33745,
+        "num": 85101,
+        "word": "代旭千字长文告别裴轸",
+        "onboard_time": 1769344221,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32922,
+        "num": 85100,
+        "word": "宝宝误嚼金锁医生称黄金已到大肠",
+        "onboard_time": 1769355201,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28111,
+        "num": 85098,
+        "word": "原来他才是牢A",
+        "onboard_time": 1769337441,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33476,
+        "num": 85096,
+        "word": "EXO吴世勋签售会饭拍",
+        "onboard_time": 1769356101,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32661,
+        "num": 85092,
+        "word": "浪姐4姐姐们来看Ella演唱会",
+        "onboard_time": 1769356220,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 26355,
+        "num": 85092,
+        "word": "两种水果很适合冬天热着吃",
+        "onboard_time": 1769344641,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 25336,
+        "num": 85090,
+        "word": "国投白银LOF将临时停牌",
+        "onboard_time": 1769348663,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 23227,
+        "num": 85087,
+        "word": "台湾民众说我们是台湾人也是中国人",
+        "onboard_time": 1769339540,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30857,
+        "num": 85086,
+        "word": "太平年",
+        "onboard_time": 1769346682,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30577,
+        "num": 85084,
+        "word": "沈佳润找好自己的赛道",
+        "onboard_time": 1769343260,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28607,
+        "num": 85081,
+        "word": "陈星旭轧戏收官文",
+        "onboard_time": 1769351604,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27634,
+        "num": 85080,
+        "word": "女神蒙上眼原配手摘小三子宫",
+        "onboard_time": 1769340320,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27262,
+        "num": 85076,
+        "word": "王嘉尔唱中文情歌",
+        "onboard_time": 1769357900,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 22903,
+        "num": 85074,
+        "word": "全球矿业股狂飙",
+        "onboard_time": 1769352503,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 21671,
+        "num": 85073,
+        "word": "被斩杀的美国人民",
+        "onboard_time": 1769349023,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 21438,
+        "num": 85072,
+        "word": "澳网2026",
+        "onboard_time": 1769356462,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27208,
+        "num": 85068,
+        "word": "IVE回归预告",
+        "onboard_time": 1769354902,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 21333,
+        "num": 85066,
+        "word": "辽宁男篮末节4分",
+        "onboard_time": 1769355741,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#生活好一个很重要的内涵是生态#"
+    }
+  }
+}

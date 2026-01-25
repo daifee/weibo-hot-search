@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/26 00:35:07 ~ 2026/01/26 01:25:37
+本榜单时间：2026/01/26 00:35:07 ~ 2026/01/26 01:43:27
 </p>
 </blockquote>
 <p>
@@ -359,6 +359,12 @@ IVE回归预告（热度：68713）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BD%A9%E7%81%AF%E4%B8%80%E4%BA%AE%E5%B9%B4%E5%91%B3%E5%B0%B1%E6%9C%89%E4%BA%86%23" target="weibo">
 彩灯一亮年味就有了（热度：22614）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%96%A9%E6%9D%80%E7%9A%84%E7%BE%8E%E5%9B%BD%E4%BA%BA%E6%B0%91%23" target="weibo">
+被斩杀的美国人民（热度：21671）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1769358907478,
-  "endTime": 1769361937323,
+  "endTime": 1769363007816,
   "band_list": [
     {
       "raw_hot": 1023500,
@@ -268,7 +268,7 @@
     },
     {
       "raw_hot": 70120,
-      "num": 70120,
+      "num": 85076,
       "word": "王嘉尔唱中文情歌",
       "onboard_time": 1769357900,
       "rank": 34,
@@ -300,7 +300,7 @@
     },
     {
       "raw_hot": 66562,
-      "num": 66562,
+      "num": 85081,
       "word": "陈星旭轧戏收官文",
       "onboard_time": 1769351604,
       "rank": 40,
@@ -465,6 +465,14 @@
       "onboard_time": 1769345602,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21671,
+      "num": 85073,
+      "word": "被斩杀的美国人民",
+      "onboard_time": 1769349023,
+      "rank": 46,
+      "category": "海外新闻"
     }
   ],
   "hotgov_list": [
