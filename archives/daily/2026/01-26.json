@@ -1,6 +1,6 @@
 {
   "startTime": 1769358907478,
-  "endTime": 1769377303948,
+  "endTime": 1769380130992,
   "band_list": [
     {
       "raw_hot": 1023500,
@@ -411,6 +411,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 40416,
+      "num": 85073,
+      "word": "被斩杀的美国人民",
+      "onboard_time": 1769349023,
+      "rank": 46,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 39493,
       "num": 190375,
       "word": "杨童舒综艺感藏不住了",
@@ -433,6 +441,14 @@
       "onboard_time": 1769355980,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 35731,
+      "num": 35731,
+      "word": "美明尼苏达州男子遭补枪画面曝光",
+      "onboard_time": 1769370374,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 31922,
@@ -459,28 +475,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 30593,
-      "num": 28428,
-      "word": "美明尼苏达州男子遭补枪画面曝光",
-      "onboard_time": 1769370374,
-      "rank": 31,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 25688,
-      "num": 85073,
-      "word": "被斩杀的美国人民",
-      "onboard_time": 1769349023,
-      "rank": 46,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 22614,
       "num": 482029,
       "word": "彩灯一亮年味就有了",
       "onboard_time": 1769345602,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22234,
+      "num": 22234,
+      "word": "北京卫视春晚",
+      "onboard_time": 1769379194,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 17912,
+      "num": 48764,
+      "word": "格陵兰岛首府全城一片漆黑",
+      "onboard_time": 1769341221,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 17674,
@@ -491,12 +507,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 16550,
+      "num": 48763,
+      "word": "妈妈回应11岁儿子创业2月赚6000",
+      "onboard_time": 1769355920,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 15981,
       "num": 20381,
       "word": "小城大事",
       "onboard_time": 1769342060,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 13830,
+      "num": 48763,
+      "word": "40岁假肢妈妈廖智说生四胎很幸运",
+      "onboard_time": 1769350644,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13176,
@@ -507,36 +539,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 13138,
-      "num": 48764,
-      "word": "格陵兰岛首府全城一片漆黑",
-      "onboard_time": 1769341221,
-      "rank": 49,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 13086,
-      "num": 48763,
-      "word": "妈妈回应11岁儿子创业2月赚6000",
-      "onboard_time": 1769355920,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 12542,
       "num": 48766,
       "word": "声鸣远扬直播",
       "onboard_time": 1769367195,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 11725,
-      "num": 48763,
-      "word": "40岁假肢妈妈廖智说生四胎很幸运",
-      "onboard_time": 1769350644,
-      "rank": 49,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

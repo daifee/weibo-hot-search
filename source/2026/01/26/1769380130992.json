@@ -1,0 +1,410 @@
+{
+  "runTime": 1769380130992,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 241029,
+        "num": 418842,
+        "word": "印度疫情感染者死亡率超7成",
+        "onboard_time": 1769355620,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 110116,
+        "num": 294627,
+        "word": "杨鸣 辞职",
+        "onboard_time": 1769354002,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13510,
+        "num": 232799,
+        "word": "彩灯一亮年味就有了",
+        "onboard_time": 1769345602,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134852,
+        "num": 134852,
+        "word": "何炅 终于要结束了",
+        "onboard_time": 1769355920,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 55835,
+        "num": 55835,
+        "word": "惊蛰无声",
+        "onboard_time": 1769358919,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 45787,
+        "num": 45787,
+        "word": "生命树",
+        "onboard_time": 1769355501,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45525,
+        "num": 45525,
+        "word": "女子怀孕收男友15万彩礼后不和要退婚",
+        "onboard_time": 1769342481,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37181,
+        "num": 37181,
+        "word": "双胞胎吵架差点把爷爷奶奶吵离婚",
+        "onboard_time": 1769343800,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 35731,
+        "num": 35731,
+        "word": "美明尼苏达州男子遭补枪画面曝光",
+        "onboard_time": 1769370374,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 32366,
+        "num": 32366,
+        "word": "美国ICE行刑式处决",
+        "onboard_time": 1769348721,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 188195,
+        "num": 31629,
+        "word": "前女友实名举报何健麒涉毒",
+        "onboard_time": 1769345120,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147475,
+        "num": 30580,
+        "word": "Angelababy高定设计师称未授权",
+        "onboard_time": 1769356341,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103939,
+        "num": 29946,
+        "word": "乔任梁父亲回忆儿子出事当天",
+        "onboard_time": 1769348544,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70557,
+        "num": 29044,
+        "word": "陈幸同 周启豪",
+        "onboard_time": 1769355860,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 40662,
+        "num": 27677,
+        "word": "何炅说沈梦辰今天美到值得上热搜",
+        "onboard_time": 1769350644,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45322,
+        "num": 27168,
+        "word": "何健麒 造谣你都得有个谱啊",
+        "onboard_time": 1769348181,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26242,
+        "num": 26242,
+        "word": "11岁小孩哥为还债创业2月赚6000元",
+        "onboard_time": 1769352022,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23875,
+        "num": 26185,
+        "word": "羽绒服这样洗可能会爆炸",
+        "onboard_time": 1769342060,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22000,
+        "num": 26147,
+        "word": "两种水果很适合冬天热着吃",
+        "onboard_time": 1769344641,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 21141,
+        "num": 26074,
+        "word": "印度一邦暴发疫情",
+        "onboard_time": 1769334739,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 115722,
+        "num": 26039,
+        "word": "外网热议华裔二代破防了",
+        "onboard_time": 1769350222,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 46934,
+        "num": 25958,
+        "word": "woojin 塌房",
+        "onboard_time": 1769344641,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40416,
+        "num": 25919,
+        "word": "被斩杀的美国人民",
+        "onboard_time": 1769349023,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 33188,
+        "num": 25883,
+        "word": "建议优先睡好这4个小时",
+        "onboard_time": 1769348544,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 28173,
+        "num": 25775,
+        "word": "麦琳何美延都开始直播带货了",
+        "onboard_time": 1769355443,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25763,
+        "num": 25763,
+        "word": "宝宝误嚼金锁医生称黄金已到大肠",
+        "onboard_time": 1769355201,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24493,
+        "num": 24493,
+        "word": "沈佳润找好自己的赛道",
+        "onboard_time": 1769343260,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23184,
+        "num": 23184,
+        "word": "感染尼帕病毒早期症状类似流感",
+        "onboard_time": 1769355201,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 22234,
+        "num": 22234,
+        "word": "北京卫视春晚",
+        "onboard_time": 1769379194,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18387,
+        "num": 18387,
+        "word": "浪姐4姐姐们来看Ella演唱会",
+        "onboard_time": 1769356220,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 18284,
+        "num": 18284,
+        "word": "蔡国庆说张艺兴太厉害了",
+        "onboard_time": 1769351661,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17912,
+        "num": 17912,
+        "word": "格陵兰岛首府全城一片漆黑",
+        "onboard_time": 1769341221,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 17908,
+        "num": 17908,
+        "word": "台湾民众说我们是台湾人也是中国人",
+        "onboard_time": 1769339540,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17900,
+        "num": 17900,
+        "word": "阿森纳vs曼联",
+        "onboard_time": 1769361257,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17501,
+        "num": 17501,
+        "word": "原来他才是牢A",
+        "onboard_time": 1769337441,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16550,
+        "num": 16550,
+        "word": "妈妈回应11岁儿子创业2月赚6000",
+        "onboard_time": 1769355920,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16522,
+        "num": 16522,
+        "word": "太平年",
+        "onboard_time": 1769346682,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16369,
+        "num": 16369,
+        "word": "澳网2026",
+        "onboard_time": 1769356462,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16027,
+        "num": 16027,
+        "word": "四代第一匍匐陆兵陈思罕",
+        "onboard_time": 1769357661,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15794,
+        "num": 15794,
+        "word": "微博之夜",
+        "onboard_time": 1769344401,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 15469,
+        "num": 15469,
+        "word": "危晋宇声鸣远扬全国总冠军",
+        "onboard_time": 1769352563,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15402,
+        "num": 15402,
+        "word": "江西唇腭裂女童引全网关注",
+        "onboard_time": 1769332161,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15290,
+        "num": 15290,
+        "word": "国投白银LOF将临时停牌",
+        "onboard_time": 1769348663,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 15267,
+        "num": 15267,
+        "word": "张元英说她是安宥真女朋友",
+        "onboard_time": 1769340081,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14564,
+        "num": 15248,
+        "word": "张杰新春场唱了好多遗珠",
+        "onboard_time": 1769364975,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 14243,
+        "num": 15241,
+        "word": "看懂陈星旭收官文的都哭了",
+        "onboard_time": 1769354603,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13830,
+        "num": 15229,
+        "word": "40岁假肢妈妈廖智说生四胎很幸运",
+        "onboard_time": 1769350644,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13488,
+        "num": 15210,
+        "word": "辽宁男篮末节4分",
+        "onboard_time": 1769355741,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 11975,
+        "num": 15191,
+        "word": "声鸣远扬直播",
+        "onboard_time": 1769367195,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 11659,
+        "num": 15169,
+        "word": "woojin tory",
+        "onboard_time": 1769349983,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#生活好一个很重要的内涵是生态#"
+    }
+  }
+}
