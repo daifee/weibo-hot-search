@@ -1,0 +1,410 @@
+{
+  "runTime": 1769355773549,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 408649,
+        "num": 1065383,
+        "word": "杨鸣 辞职",
+        "onboard_time": 1769354002,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 390189,
+        "num": 789166,
+        "word": "羽绒服这样洗可能会爆炸",
+        "onboard_time": 1769342060,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30770,
+        "num": 623760,
+        "word": "彩灯一亮年味就有了",
+        "onboard_time": 1769345602,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 525819,
+        "num": 525819,
+        "word": "何炅说沈梦辰今天美到值得上热搜",
+        "onboard_time": 1769350644,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 320140,
+        "num": 320140,
+        "word": "印度一邦暴发疫情",
+        "onboard_time": 1769334739,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 188790,
+        "num": 188790,
+        "word": "危晋宇声鸣远扬全国总冠军",
+        "onboard_time": 1769352563,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186020,
+        "num": 186020,
+        "word": "江西唇腭裂女童引全网关注",
+        "onboard_time": 1769332161,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177274,
+        "num": 177274,
+        "word": "建议喜糖都按这个标准来",
+        "onboard_time": 1769335160,
+        "rank": 7,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 177159,
+        "num": 177159,
+        "word": "女子怀孕收男友15万彩礼后不和要退婚",
+        "onboard_time": 1769342481,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168605,
+        "num": 168605,
+        "word": "双胞胎吵架差点把爷爷奶奶吵离婚",
+        "onboard_time": 1769343800,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1506199,
+        "num": 166322,
+        "word": "前女友实名举报何健麒涉毒",
+        "onboard_time": 1769345120,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 750002,
+        "num": 161136,
+        "word": "乔任梁父亲回忆儿子出事当天",
+        "onboard_time": 1769348544,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146425,
+        "num": 146425,
+        "word": "美国ICE行刑式处决",
+        "onboard_time": 1769348721,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 165789,
+        "num": 146262,
+        "word": "陈星旭轧戏收官文",
+        "onboard_time": 1769351604,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138073,
+        "num": 138073,
+        "word": "炽热吸引",
+        "onboard_time": 1769349323,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108826,
+        "num": 137401,
+        "word": "台湾民众说我们是台湾人也是中国人",
+        "onboard_time": 1769339540,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 571240,
+        "num": 136651,
+        "word": "何健麒 造谣你都得有个谱啊",
+        "onboard_time": 1769348181,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105580,
+        "num": 136272,
+        "word": "AG对战情久",
+        "onboard_time": 1769347283,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 95679,
+        "num": 135300,
+        "word": "两种水果很适合冬天热着吃",
+        "onboard_time": 1769344641,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 135040,
+        "num": 135040,
+        "word": "华晨宇弃票",
+        "onboard_time": 1769354603,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 651969,
+        "num": 134584,
+        "word": "woojin 塌房",
+        "onboard_time": 1769344641,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 489103,
+        "num": 132632,
+        "word": "外网热议华裔二代破防了",
+        "onboard_time": 1769350222,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 189908,
+        "num": 129984,
+        "word": "张元英说她是安宥真女朋友",
+        "onboard_time": 1769340081,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136128,
+        "num": 128130,
+        "word": "建议优先睡好这4个小时",
+        "onboard_time": 1769348544,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 127906,
+        "num": 127906,
+        "word": "麦琳7场直播销售额近百万",
+        "onboard_time": 1769352441,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120478,
+        "num": 120478,
+        "word": "太平年",
+        "onboard_time": 1769346682,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103475,
+        "num": 118985,
+        "word": "原来他才是牢A",
+        "onboard_time": 1769337441,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118448,
+        "num": 118448,
+        "word": "内娱你再不努力就要被短剧打败了",
+        "onboard_time": 1769350282,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117049,
+        "num": 117049,
+        "word": "看懂陈星旭收官文的都哭了",
+        "onboard_time": 1769354603,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82733,
+        "num": 109684,
+        "word": "胡锡进就牢A斩杀线发评论",
+        "onboard_time": 1769341221,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107321,
+        "num": 107321,
+        "word": "IVE回归预告",
+        "onboard_time": 1769354902,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 96241,
+        "num": 96241,
+        "word": "蔡国庆说张艺兴太厉害了",
+        "onboard_time": 1769351661,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 78910,
+        "num": 96031,
+        "word": "印度疫情感染者死亡率超7成",
+        "onboard_time": 1769355620,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 96020,
+        "num": 96020,
+        "word": "代旭千字长文告别裴轸",
+        "onboard_time": 1769344221,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91942,
+        "num": 91942,
+        "word": "女神蒙上眼原配手摘小三子宫",
+        "onboard_time": 1769340320,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27286,
+        "num": 88819,
+        "word": "买秒回服务是孤独税吗",
+        "onboard_time": 1769354421,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86272,
+        "num": 86272,
+        "word": "何炅周考上岸",
+        "onboard_time": 1769346623,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 80707,
+        "num": 83261,
+        "word": "姑娘连吃半年利尿剂被送进急诊",
+        "onboard_time": 1769336900,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78695,
+        "num": 82568,
+        "word": "宝宝误嚼金锁医生称黄金已到大肠",
+        "onboard_time": 1769355201,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75537,
+        "num": 82161,
+        "word": "御赐小仵作第二十集绝了",
+        "onboard_time": 1769354661,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82145,
+        "num": 82145,
+        "word": "麦琳何美延都开始直播带货了",
+        "onboard_time": 1769355443,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80659,
+        "num": 81722,
+        "word": "11岁小孩哥为还债创业2月赚6000元",
+        "onboard_time": 1769352022,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81463,
+        "num": 81463,
+        "word": "何浩楠直播",
+        "onboard_time": 1769355620,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81401,
+        "num": 81401,
+        "word": "沈佳润找好自己的赛道",
+        "onboard_time": 1769343260,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77905,
+        "num": 80182,
+        "word": "危晋宇来给檀健次交作业了",
+        "onboard_time": 1769354540,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 80016,
+        "num": 80016,
+        "word": "被丈夫和闺蜜背叛女子回应白头",
+        "onboard_time": 1769350161,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78686,
+        "num": 78686,
+        "word": "主持人口误把黄星叫成邱邱",
+        "onboard_time": 1769355682,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77999,
+        "num": 77999,
+        "word": "国投白银LOF将临时停牌",
+        "onboard_time": 1769348663,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 75608,
+        "num": 75608,
+        "word": "辽宁男篮末节4分",
+        "onboard_time": 1769355741,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 78639,
+        "num": 75360,
+        "word": "宋威龙下班拍成现偶了",
+        "onboard_time": 1769350462,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#生活好一个很重要的内涵是生态#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1769272464158,
-  "endTime": 1769354949044,
+  "endTime": 1769355773549,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -228,7 +228,7 @@
     },
     {
       "raw_hot": 573971,
-      "num": 131828,
+      "num": 132632,
       "word": "外网热议华裔二代破防了",
       "onboard_time": 1769350222,
       "rank": 30,
@@ -425,6 +425,14 @@
       "onboard_time": 1769338579,
       "rank": 10,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 408649,
+      "num": 1065383,
+      "word": "杨鸣 辞职",
+      "onboard_time": 1769354002,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 408551,
@@ -732,7 +740,7 @@
     },
     {
       "raw_hot": 265247,
-      "num": 173661,
+      "num": 177159,
       "word": "女子怀孕收男友15万彩礼后不和要退婚",
       "onboard_time": 1769342481,
       "rank": 22,
@@ -1083,14 +1091,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 177699,
-      "num": 177699,
-      "word": "杨鸣 辞职",
-      "onboard_time": 1769354002,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 176015,
       "num": 341085,
       "word": "易烊千玺4年前的表情包显化了",
@@ -1420,7 +1420,7 @@
     },
     {
       "raw_hot": 135474,
-      "num": 135474,
+      "num": 136272,
       "word": "AG对战情久",
       "onboard_time": 1769347283,
       "rank": 37,
@@ -1441,6 +1441,14 @@
       "onboard_time": 1769250080,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 135040,
+      "num": 135040,
+      "word": "华晨宇弃票",
+      "onboard_time": 1769354603,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 134651,
@@ -1468,7 +1476,7 @@
     },
     {
       "raw_hot": 132669,
-      "num": 134895,
+      "num": 135300,
       "word": "两种水果很适合冬天热着吃",
       "onboard_time": 1769344641,
       "rank": 32,
@@ -1505,6 +1513,14 @@
       "onboard_time": 1769349023,
       "rank": 48,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 127906,
+      "num": 127906,
+      "word": "麦琳7场直播销售额近百万",
+      "onboard_time": 1769352441,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 126613,
@@ -1619,19 +1635,19 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 117245,
-      "num": 117245,
-      "word": "麦琳7场直播销售额近百万",
-      "onboard_time": 1769352441,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 117206,
       "num": 123224,
       "word": "太平年改了台词",
       "onboard_time": 1769269827,
       "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 117049,
+      "num": 117049,
+      "word": "看懂陈星旭收官文的都哭了",
+      "onboard_time": 1769354603,
+      "rank": 31,
       "category": "剧集"
     },
     {
@@ -1795,14 +1811,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 108262,
-      "num": 108262,
-      "word": "看懂陈星旭收官文的都哭了",
-      "onboard_time": 1769354603,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 107659,
       "num": 107659,
       "word": "怪不得叫米老头",
@@ -1817,6 +1825,14 @@
       "onboard_time": 1769327359,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 107321,
+      "num": 107321,
+      "word": "IVE回归预告",
+      "onboard_time": 1769354902,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 107157,
@@ -2539,14 +2555,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 84735,
-      "num": 84735,
-      "word": "IVE回归预告",
-      "onboard_time": 1769354902,
-      "rank": 43,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 84332,
       "num": 84332,
       "word": "沈腾的兵没有一个吃素的",
@@ -2619,6 +2627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 82145,
+      "num": 82145,
+      "word": "麦琳何美延都开始直播带货了",
+      "onboard_time": 1769355443,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 82095,
       "num": 75075,
       "word": "何炅要为这件T恤办个演唱会",
@@ -2633,6 +2649,14 @@
       "onboard_time": 1769349803,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 81463,
+      "num": 81463,
+      "word": "何浩楠直播",
+      "onboard_time": 1769355620,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 80966,
@@ -2697,6 +2721,30 @@
       "onboard_time": 1769330899,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 78910,
+      "num": 96031,
+      "word": "印度疫情感染者死亡率超7成",
+      "onboard_time": 1769355620,
+      "rank": 32,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 78695,
+      "num": 82568,
+      "word": "宝宝误嚼金锁医生称黄金已到大肠",
+      "onboard_time": 1769355201,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 78686,
+      "num": 78686,
+      "word": "主持人口误把黄星叫成邱邱",
+      "onboard_time": 1769355682,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 78661,
@@ -2857,6 +2905,22 @@
       "onboard_time": 1769272102,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 75608,
+      "num": 75608,
+      "word": "辽宁男篮末节4分",
+      "onboard_time": 1769355741,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 75537,
+      "num": 90450,
+      "word": "御赐小仵作第二十集绝了",
+      "onboard_time": 1769354661,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 75137,
@@ -3499,14 +3563,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 34424,
-      "num": 90450,
-      "word": "御赐小仵作第二十集绝了",
-      "onboard_time": 1769354661,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 33501,
       "num": 626063,
       "word": "万亿城市再扩容",
@@ -3577,6 +3633,14 @@
       "onboard_time": 1769277736,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 27286,
+      "num": 122868,
+      "word": "买秒回服务是孤独税吗",
+      "onboard_time": 1769354421,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26420,
@@ -3696,14 +3760,6 @@
       "word": "江西唇腭裂女童6岁才20斤",
       "onboard_time": 1769350824,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 19489,
-      "num": 122868,
-      "word": "买秒回服务是孤独税吗",
-      "onboard_time": 1769354421,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
