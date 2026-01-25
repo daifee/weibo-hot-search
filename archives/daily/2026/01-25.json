@@ -1,6 +1,6 @@
 {
   "startTime": 1769272464158,
-  "endTime": 1769324175832,
+  "endTime": 1769326154949,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -195,12 +195,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 465840,
+      "raw_hot": 480015,
       "num": 465840,
       "word": "范志毅说这样输球我能接受",
       "onboard_time": 1769320639,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 470191,
+      "num": 1075230,
+      "word": "经常熬夜 身体发臭",
+      "onboard_time": 1769323101,
+      "rank": 9,
+      "category": "科学科普"
     },
     {
       "raw_hot": 458681,
@@ -241,6 +249,14 @@
       "onboard_time": 1769311400,
       "rank": 6,
       "category": "幽默,民生新闻"
+    },
+    {
+      "raw_hot": 410564,
+      "num": 128032,
+      "word": "彭小苒称该道歉的是我",
+      "onboard_time": 1769324000,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 408551,
@@ -379,6 +395,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 316412,
+      "num": 184079,
+      "word": "TVB演员被内地短剧整顿",
+      "onboard_time": 1769322920,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 297977,
+      "num": 780509,
+      "word": "马年春晚北斗七行凑齐四个了",
+      "onboard_time": 1769323459,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 295383,
       "num": 197950,
       "word": "李昊无缘最佳门将",
@@ -508,7 +540,7 @@
     },
     {
       "raw_hot": 227292,
-      "num": 104601,
+      "num": 165709,
       "word": "张本美和获全日女单冠军",
       "onboard_time": 1769322801,
       "rank": 31,
@@ -587,28 +619,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 191967,
-      "num": 184079,
-      "word": "TVB演员被内地短剧整顿",
-      "onboard_time": 1769322920,
-      "rank": 32,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 186305,
       "num": 135756,
       "word": "林允方报平安",
       "onboard_time": 1769305340,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 185776,
-      "num": 358267,
-      "word": "马年春晚北斗七行凑齐四个了",
-      "onboard_time": 1769323459,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 178952,
@@ -633,14 +649,6 @@
       "onboard_time": 1769254281,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 167407,
-      "num": 340296,
-      "word": "经常熬夜 身体发臭",
-      "onboard_time": 1769323101,
-      "rank": 9,
-      "category": "科学科普"
     },
     {
       "raw_hot": 164470,
@@ -673,6 +681,14 @@
       "onboard_time": 1769308821,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 157507,
+      "num": 122982,
+      "word": "再也不敢单删同学",
+      "onboard_time": 1769325080,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 154679,
@@ -803,12 +819,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 128861,
+      "num": 128861,
+      "word": "御赐小仵作2",
+      "onboard_time": 1769324720,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 126561,
       "num": 126561,
       "word": "美国涉中俄战略出现重大转变",
       "onboard_time": 1769265501,
       "rank": 26,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 126247,
+      "num": 126247,
+      "word": "小海绵说不蹦",
+      "onboard_time": 1769324240,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 125848,
@@ -867,6 +899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 122156,
+      "num": 122156,
+      "word": "在卢昱晓这里吃到古偶顶级细糠了",
+      "onboard_time": 1769325320,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 121042,
       "num": 121042,
       "word": "中方营救菲律宾船员后遭反咬一口",
@@ -881,6 +921,14 @@
       "onboard_time": 1769304201,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 117603,
+      "num": 117603,
+      "word": "第一次见冷血动物被气成这样",
+      "onboard_time": 1769324840,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 117206,
@@ -905,6 +953,30 @@
       "onboard_time": 1769308519,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 115274,
+      "num": 115274,
+      "word": "Angelababy请粉丝喝热奶茶",
+      "onboard_time": 1769324780,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 114852,
+      "num": 122378,
+      "word": "退脏衣服被拒骂哭商家女子道歉",
+      "onboard_time": 1769325080,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 114451,
+      "num": 128718,
+      "word": "狼队对战RNGM",
+      "onboard_time": 1769325682,
+      "rank": 8,
+      "category": "电竞"
     },
     {
       "raw_hot": 112476,
@@ -1044,7 +1116,7 @@
     },
     {
       "raw_hot": 100585,
-      "num": 100585,
+      "num": 127396,
       "word": "云冈石窟保洁员厕所坐地休息引争议",
       "onboard_time": 1769320820,
       "rank": 34,
@@ -1131,20 +1203,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 94764,
+      "num": 94764,
+      "word": "张元英广州见面会道歉",
+      "onboard_time": 1769323160,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 94624,
       "num": 94624,
       "word": "睡眠小于6小时炎症和癌症风险双升高",
       "onboard_time": 1769297718,
       "rank": 22,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 94610,
-      "num": 94610,
-      "word": "张元英广州见面会道歉",
-      "onboard_time": 1769323160,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 94439,
@@ -1251,20 +1323,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 89920,
+      "num": 89920,
+      "word": "辛芷蕾又在going女孩子了",
+      "onboard_time": 1769325561,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 88607,
       "num": 88607,
       "word": "白鹿酒店管理我是专业的",
       "onboard_time": 1769308222,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 88519,
-      "num": 88519,
-      "word": "彭小苒称该道歉的是我",
-      "onboard_time": 1769324000,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 87835,
@@ -1571,12 +1643,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 73783,
+      "num": 125452,
+      "word": "詹姆斯末节之王",
+      "onboard_time": 1769325682,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 72832,
       "num": 81435,
       "word": "张杰演唱会有常驻观众了",
       "onboard_time": 1769263822,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 72325,
+      "num": 72325,
+      "word": "张学友回应四大天王合体",
+      "onboard_time": 1769325980,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 72174,
@@ -1667,6 +1755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 65396,
+      "num": 124574,
+      "word": "官方通报秦岭翠峰山徒步者坠崖事故",
+      "onboard_time": 1769325919,
+      "rank": 29,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 65288,
       "num": 64602,
       "word": "迪丽热巴被圣光照拂的猫",
@@ -1704,6 +1800,14 @@
       "word": "继续陪中国足球走下去",
       "onboard_time": 1769275877,
       "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 61543,
+      "num": 75747,
+      "word": "中国足球正在翻越高山",
+      "onboard_time": 1769325619,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -1753,6 +1857,14 @@
       "onboard_time": 1769297837,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 53705,
+      "num": 73119,
+      "word": "为这口菌子等了寒露又等雨",
+      "onboard_time": 1769324780,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 49451,
@@ -1923,6 +2035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 30661,
+      "num": 124052,
+      "word": "香港掀起买银热潮",
+      "onboard_time": 1769326040,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30210,
       "num": 58332,
       "word": "TWS中文歌舞台",
@@ -1935,6 +2055,14 @@
       "num": 1464542,
       "word": "奋进中国",
       "onboard_time": 1769258901,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29577,
+      "num": 617924,
+      "word": "万亿城市再扩容",
+      "onboard_time": 1769309299,
       "rank": 2,
       "category": "民生新闻"
     },
@@ -1977,6 +2105,14 @@
       "onboard_time": 1769279056,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 23044,
+      "num": 127154,
+      "word": "女教师宿舍病亡校方建议家属起诉",
+      "onboard_time": 1769325619,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 22615,
@@ -2035,12 +2171,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 14654,
+      "num": 123350,
+      "word": "旅日大熊猫最后1天上班",
+      "onboard_time": 1769326040,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 13829,
       "num": 19621,
       "word": "U23亚洲杯中国队赛前喊话",
       "onboard_time": 1769285715,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 6701,
+      "num": 90298,
+      "word": "檀健次古装界最严厉的父亲",
+      "onboard_time": 1769325440,
+      "rank": 39,
+      "category": "剧集"
     }
   ],
   "hotgov_list": [

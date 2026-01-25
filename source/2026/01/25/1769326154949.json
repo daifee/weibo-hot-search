@@ -1,0 +1,410 @@
+{
+  "runTime": 1769326154949,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 470191,
+        "num": 1075230,
+        "word": "经常熬夜 身体发臭",
+        "onboard_time": 1769323101,
+        "rank": 0,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 297977,
+        "num": 780509,
+        "word": "马年春晚北斗七行凑齐四个了",
+        "onboard_time": 1769323459,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29577,
+        "num": 617924,
+        "word": "万亿城市再扩容",
+        "onboard_time": 1769309299,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179514,
+        "num": 179514,
+        "word": "永辉学习胖东来结果每天亏600万",
+        "onboard_time": 1769319199,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165709,
+        "num": 165709,
+        "word": "张本美和获全日女单冠军",
+        "onboard_time": 1769322801,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 296558,
+        "num": 153853,
+        "word": "不发朋友圈vs不看朋友圈",
+        "onboard_time": 1769313800,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 132115,
+        "num": 132115,
+        "word": "檀健次开机上哭了",
+        "onboard_time": 1769314459,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128861,
+        "num": 128861,
+        "word": "御赐小仵作2",
+        "onboard_time": 1769324720,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114451,
+        "num": 128718,
+        "word": "狼队对战RNGM",
+        "onboard_time": 1769325682,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 80227,
+        "num": 128603,
+        "word": "外国游客被东北厕所折服的一天",
+        "onboard_time": 1769316741,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 599609,
+        "num": 128472,
+        "word": "癌症晚期老人出售30年前买的黄金",
+        "onboard_time": 1769318180,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 528290,
+        "num": 128404,
+        "word": "金价",
+        "onboard_time": 1769320160,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 480015,
+        "num": 128250,
+        "word": "范志毅说这样输球我能接受",
+        "onboard_time": 1769320639,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 410564,
+        "num": 128032,
+        "word": "彭小苒称该道歉的是我",
+        "onboard_time": 1769324000,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 393581,
+        "num": 127985,
+        "word": "王鹤棣当黄子韬面说徐艺洋不好看",
+        "onboard_time": 1769317160,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 370162,
+        "num": 127787,
+        "word": "买童装退货辱骂商家女子离职",
+        "onboard_time": 1769320639,
+        "rank": 15,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 316412,
+        "num": 127625,
+        "word": "TVB演员被内地短剧整顿",
+        "onboard_time": 1769322920,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 308750,
+        "num": 127520,
+        "word": "王橹杰高会",
+        "onboard_time": 1769320940,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75452,
+        "num": 127396,
+        "word": "云冈石窟保洁员厕所坐地休息引争议",
+        "onboard_time": 1769320820,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23044,
+        "num": 127154,
+        "word": "女教师宿舍病亡校方建议家属起诉",
+        "onboard_time": 1769325619,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 280405,
+        "num": 127094,
+        "word": "被雪豹咬伤女游客否认跟雪豹拍照",
+        "onboard_time": 1769315300,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 251842,
+        "num": 126836,
+        "word": "金价波动",
+        "onboard_time": 1769316500,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 222384,
+        "num": 126755,
+        "word": "张凌赫 兰蔻",
+        "onboard_time": 1769315239,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187290,
+        "num": 126621,
+        "word": "彭小苒 祝你天天加班",
+        "onboard_time": 1769311459,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177085,
+        "num": 126519,
+        "word": "男子借钱付彩礼被女方告强奸",
+        "onboard_time": 1769319980,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164504,
+        "num": 126250,
+        "word": "白鹿说已无法负荷高强度动作戏",
+        "onboard_time": 1769321842,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126247,
+        "num": 126247,
+        "word": "小海绵说不蹦",
+        "onboard_time": 1769324240,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106383,
+        "num": 125744,
+        "word": "年轻人猝死大多由三个原因导致",
+        "onboard_time": 1769320760,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 73783,
+        "num": 125452,
+        "word": "詹姆斯末节之王",
+        "onboard_time": 1769325682,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 65396,
+        "num": 124574,
+        "word": "官方通报秦岭翠峰山徒步者坠崖事故",
+        "onboard_time": 1769325919,
+        "rank": 29,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 30661,
+        "num": 124052,
+        "word": "香港掀起买银热潮",
+        "onboard_time": 1769326040,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14654,
+        "num": 123350,
+        "word": "旅日大熊猫最后1天上班",
+        "onboard_time": 1769326040,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157507,
+        "num": 122982,
+        "word": "再也不敢单删同学",
+        "onboard_time": 1769325080,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 114852,
+        "num": 122378,
+        "word": "退脏衣服被拒骂哭商家女子道歉",
+        "onboard_time": 1769325080,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122156,
+        "num": 122156,
+        "word": "在卢昱晓这里吃到古偶顶级细糠了",
+        "onboard_time": 1769325320,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117603,
+        "num": 117603,
+        "word": "第一次见冷血动物被气成这样",
+        "onboard_time": 1769324840,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 115274,
+        "num": 115274,
+        "word": "Angelababy请粉丝喝热奶茶",
+        "onboard_time": 1769324780,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94764,
+        "num": 94764,
+        "word": "张元英广州见面会道歉",
+        "onboard_time": 1769323160,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92096,
+        "num": 92096,
+        "word": "谁能管管现在的商场厕所",
+        "onboard_time": 1769311400,
+        "rank": 38,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 6701,
+        "num": 90298,
+        "word": "檀健次古装界最严厉的父亲",
+        "onboard_time": 1769325440,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89920,
+        "num": 89920,
+        "word": "辛芷蕾又在going女孩子了",
+        "onboard_time": 1769325561,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87926,
+        "num": 87926,
+        "word": "伊媒曝哈梅内伊已藏身地堡避险",
+        "onboard_time": 1769323280,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 89794,
+        "num": 86742,
+        "word": "猫的树 升咖",
+        "onboard_time": 1769299520,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80589,
+        "num": 80589,
+        "word": "张凌赫后援会呼吁粉丝停止攻击兰蔻",
+        "onboard_time": 1769319860,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61543,
+        "num": 75747,
+        "word": "中国足球正在翻越高山",
+        "onboard_time": 1769325619,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 73789,
+        "num": 73789,
+        "word": "以为是情郎结果是色郎",
+        "onboard_time": 1769317220,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 53705,
+        "num": 73119,
+        "word": "为这口菌子等了寒露又等雨",
+        "onboard_time": 1769324780,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72905,
+        "num": 72905,
+        "word": "雷军称小米汽车熔岩橙配色敢买的人太少",
+        "onboard_time": 1769311521,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 72484,
+        "num": 72484,
+        "word": "普通但赚钱的工作",
+        "onboard_time": 1769313920,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 72325,
+        "num": 72325,
+        "word": "张学友回应四大天王合体",
+        "onboard_time": 1769325980,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#一步一步坚定走#"
+    }
+  }
+}
