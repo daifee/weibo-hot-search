@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769345799739,
+  "endTime": 1769346667212,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -256,6 +256,14 @@
       "word": "阿Sa官宣恋情",
       "onboard_time": 1768303462,
       "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2519211,
+      "num": 178660,
+      "word": "前女友实名举报何健麒涉毒",
+      "onboard_time": 1769345120,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -1121,14 +1129,6 @@
       "onboard_time": 1768128381,
       "rank": 20,
       "category": "网红,民生新闻"
-    },
-    {
-      "raw_hot": 1128424,
-      "num": 163927,
-      "word": "前女友实名举报何健麒涉毒",
-      "onboard_time": 1769345120,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1127372,

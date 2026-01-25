@@ -1,0 +1,410 @@
+{
+  "runTime": 1769346667212,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 479321,
+        "num": 1076691,
+        "word": "羽绒服这样洗可能会爆炸",
+        "onboard_time": 1769342060,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 336601,
+        "num": 771874,
+        "word": "印度一邦暴发疫情",
+        "onboard_time": 1769334739,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 36649,
+        "num": 615472,
+        "word": "彩灯一亮年味就有了",
+        "onboard_time": 1769345602,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 414788,
+        "num": 414788,
+        "word": "代旭千字长文告别裴轸",
+        "onboard_time": 1769344221,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 277028,
+        "num": 277028,
+        "word": "建议喜糖都按这个标准来",
+        "onboard_time": 1769335160,
+        "rank": 4,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 328536,
+        "num": 276153,
+        "word": "双胞胎吵架差点把爷爷奶奶吵离婚",
+        "onboard_time": 1769343800,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 269836,
+        "num": 269836,
+        "word": "格陵兰岛首府全城一片漆黑",
+        "onboard_time": 1769341221,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 236625,
+        "num": 236625,
+        "word": "以为张凌赫又来走秀了",
+        "onboard_time": 1769344701,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183826,
+        "num": 183826,
+        "word": "江西唇腭裂女童引全网关注",
+        "onboard_time": 1769332161,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147203,
+        "num": 180372,
+        "word": "台湾民众说我们是台湾人也是中国人",
+        "onboard_time": 1769339540,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2519211,
+        "num": 178660,
+        "word": "前女友实名举报何健麒涉毒",
+        "onboard_time": 1769345120,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298981,
+        "num": 174024,
+        "word": "黄景瑜未来两年将大幅减少工作",
+        "onboard_time": 1769345902,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251098,
+        "num": 172230,
+        "word": "胡锡进就牢A斩杀线发评论",
+        "onboard_time": 1769341221,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228135,
+        "num": 168179,
+        "word": "刘涛连春晚路透都是妈咪级别",
+        "onboard_time": 1769341341,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165967,
+        "num": 165967,
+        "word": "孔雪儿你让我有点不得劲",
+        "onboard_time": 1769345662,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134337,
+        "num": 134337,
+        "word": "姑娘连吃半年利尿剂被送进急诊",
+        "onboard_time": 1769336900,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122489,
+        "num": 122489,
+        "word": "钎九拥抱",
+        "onboard_time": 1769338579,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 122348,
+        "num": 122348,
+        "word": "易烊千玺十年前的愿望实现了",
+        "onboard_time": 1769339660,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 118808,
+        "num": 118808,
+        "word": "声鸣远扬总决赛",
+        "onboard_time": 1769345542,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18087,
+        "num": 118756,
+        "word": "过年三件套开启预约模式",
+        "onboard_time": 1769346261,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 696903,
+        "num": 118483,
+        "word": "woojin 塌房",
+        "onboard_time": 1769344641,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 525685,
+        "num": 118421,
+        "word": "张元英说她是安宥真女朋友",
+        "onboard_time": 1769340081,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222798,
+        "num": 118090,
+        "word": "女子怀孕收男友15万彩礼后不和要退婚",
+        "onboard_time": 1769342481,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 270939,
+        "num": 118020,
+        "word": "陈汉典lulu婚礼",
+        "onboard_time": 1769340320,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263168,
+        "num": 117840,
+        "word": "沈佳润找好自己的赛道",
+        "onboard_time": 1769343260,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206546,
+        "num": 117554,
+        "word": "金价",
+        "onboard_time": 1769320160,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 192036,
+        "num": 117470,
+        "word": "原来他才是牢A",
+        "onboard_time": 1769337441,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172932,
+        "num": 117212,
+        "word": "女神蒙上眼原配手摘小三子宫",
+        "onboard_time": 1769340320,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27047,
+        "num": 117098,
+        "word": "看新年烟花秀打开一个很新的年",
+        "onboard_time": 1769342660,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103525,
+        "num": 116915,
+        "word": "江西唇腭裂女童生怕被抛弃",
+        "onboard_time": 1769344221,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157092,
+        "num": 116585,
+        "word": "皇后杀了皇后天子跪了天子",
+        "onboard_time": 1769344161,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136879,
+        "num": 116421,
+        "word": "白鹿春晚联排公主头造型",
+        "onboard_time": 1769337622,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126255,
+        "num": 116341,
+        "word": "这13天上班 3倍工资",
+        "onboard_time": 1769343800,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135781,
+        "num": 116020,
+        "word": "虞书欣遇见了小时候的自己",
+        "onboard_time": 1769345300,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116007,
+        "num": 116007,
+        "word": "两种水果很适合冬天热着吃",
+        "onboard_time": 1769344641,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 111346,
+        "num": 111346,
+        "word": "爱情怎么翻译",
+        "onboard_time": 1769337740,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103730,
+        "num": 103730,
+        "word": "李晟强吻黄英",
+        "onboard_time": 1769342000,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 101541,
+        "num": 101541,
+        "word": "为什么美国人不节约水电",
+        "onboard_time": 1769341341,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 103036,
+        "num": 100139,
+        "word": "还以为猫的树又出新作品了",
+        "onboard_time": 1769346323,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44364,
+        "num": 96091,
+        "word": "何炅周考上岸",
+        "onboard_time": 1769346623,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79723,
+        "num": 94594,
+        "word": "微博之夜",
+        "onboard_time": 1769344401,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 93413,
+        "num": 93413,
+        "word": "洛阳钼业拿下海外3个金矿",
+        "onboard_time": 1769345962,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 102451,
+        "num": 93296,
+        "word": "春晚",
+        "onboard_time": 1769346021,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92825,
+        "num": 92825,
+        "word": "张元英喝奶茶",
+        "onboard_time": 1769331079,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90037,
+        "num": 90037,
+        "word": "仙逆",
+        "onboard_time": 1769338521,
+        "rank": 44,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 88132,
+        "num": 88132,
+        "word": "张峻豪高还没富但帅",
+        "onboard_time": 1769346382,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86238,
+        "num": 86238,
+        "word": "过度独立 心理创伤",
+        "onboard_time": 1769331141,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 83523,
+        "num": 83523,
+        "word": "经常熬夜 身体发臭",
+        "onboard_time": 1769323101,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 81891,
+        "num": 81891,
+        "word": "以为的淡妆vs实际上的淡妆",
+        "onboard_time": 1769330720,
+        "rank": 48,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 80830,
+        "num": 81809,
+        "word": "肖战王鹤棣杨紫吴磊新剧被业内看好",
+        "onboard_time": 1769340260,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#生活好一个很重要的内涵是生态#"
+    }
+  }
+}
