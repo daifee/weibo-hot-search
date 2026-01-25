@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/26 06:45:23
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/26 07:29:00
 </p>
 </blockquote>
 <p>
@@ -1991,6 +1991,12 @@ iPhone18Pro新爆料（热度：826962）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E8%B6%85%E7%98%A6%E6%88%90%E7%94%B7%E5%A4%A7%E4%BA%86%23" target="weibo">
 邓超瘦成男大了（热度：803581）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%8F%91%E7%8E%B0%E5%A6%BB%E5%AD%90%E6%AF%8F%E5%A4%A9%E4%B8%8A%E5%8E%95%E6%89%80%E9%A1%BA%E8%B7%AF%E5%AD%981000%23" target="weibo">
+男子发现妻子每天上厕所顺路存1000（热度：801449）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ iPhone千万别删的自带软件（热度：474519）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9B%9B%E4%B8%96%E5%A4%A9%E4%B8%8B%23" target="weibo">
 盛世天下（热度：460358）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E5%AB%A3%E6%89%9B%E4%BD%8F%E4%BA%86%E6%AD%BB%E4%BA%A1%E8%8A%AD%E6%AF%94%E7%B2%89%23" target="weibo">
-唐嫣扛住了死亡芭比粉（热度：460124）
 </a>
 </li>
 

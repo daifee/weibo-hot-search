@@ -1,0 +1,410 @@
+{
+  "runTime": 1769383740960,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 476858,
+        "num": 827408,
+        "word": "印度疫情感染者死亡率超7成",
+        "onboard_time": 1769355620,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 250824,
+        "num": 611563,
+        "word": "杨鸣 辞职",
+        "onboard_time": 1769354002,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24930,
+        "num": 471199,
+        "word": "彩灯一亮年味就有了",
+        "onboard_time": 1769345602,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 801449,
+        "num": 463623,
+        "word": "男子发现妻子每天上厕所顺路存1000",
+        "onboard_time": 1769382617,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 232418,
+        "num": 232418,
+        "word": "腊八",
+        "onboard_time": 1769382677,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205379,
+        "num": 205379,
+        "word": "何炅 终于要结束了",
+        "onboard_time": 1769355920,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152477,
+        "num": 152477,
+        "word": "菲律宾一载350多人渡轮沉没",
+        "onboard_time": 1769382376,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 108784,
+        "num": 108784,
+        "word": "生命树",
+        "onboard_time": 1769355501,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93552,
+        "num": 93552,
+        "word": "女子怀孕收男友15万彩礼后不和要退婚",
+        "onboard_time": 1769342481,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91388,
+        "num": 91388,
+        "word": "阿森纳2比3曼联",
+        "onboard_time": 1769382558,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 541626,
+        "num": 90189,
+        "word": "前女友实名举报何健麒涉毒",
+        "onboard_time": 1769345120,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 303249,
+        "num": 89472,
+        "word": "乔任梁父亲回忆儿子出事当天",
+        "onboard_time": 1769348544,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160108,
+        "num": 88461,
+        "word": "陈幸同 周启豪",
+        "onboard_time": 1769355860,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 298453,
+        "num": 86332,
+        "word": "Angelababy高定设计师称未授权",
+        "onboard_time": 1769356341,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154393,
+        "num": 85197,
+        "word": "原来英语本身就是一道斩杀线",
+        "onboard_time": 1769383037,
+        "rank": 14,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 136431,
+        "num": 84040,
+        "word": "何健麒 造谣你都得有个谱啊",
+        "onboard_time": 1769348181,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83532,
+        "num": 83532,
+        "word": "双胞胎吵架差点把爷爷奶奶吵离婚",
+        "onboard_time": 1769343800,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 82780,
+        "num": 82780,
+        "word": "惊蛰无声",
+        "onboard_time": 1769358919,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 81335,
+        "num": 81335,
+        "word": "美明尼苏达州男子遭补枪画面曝光",
+        "onboard_time": 1769370374,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 72875,
+        "num": 72875,
+        "word": "美国ICE行刑式处决",
+        "onboard_time": 1769348721,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 214545,
+        "num": 71955,
+        "word": "外网热议华裔二代破防了",
+        "onboard_time": 1769350222,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 99622,
+        "num": 71639,
+        "word": "建议优先睡好这4个小时",
+        "onboard_time": 1769348544,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 83373,
+        "num": 70775,
+        "word": "woojin 塌房",
+        "onboard_time": 1769344641,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67685,
+        "num": 67685,
+        "word": "这些体态问题都是屁股引发的",
+        "onboard_time": 1769383037,
+        "rank": 23,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 66075,
+        "num": 66075,
+        "word": "11岁小孩哥为还债创业2月赚6000元",
+        "onboard_time": 1769352022,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64190,
+        "num": 64190,
+        "word": "姑父棒杀侄女作案细节披露",
+        "onboard_time": 1769383037,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63686,
+        "num": 63686,
+        "word": "宝宝误嚼金锁医生称黄金已到大肠",
+        "onboard_time": 1769355201,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63230,
+        "num": 63230,
+        "word": "沈佳润找好自己的赛道",
+        "onboard_time": 1769343260,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62489,
+        "num": 62489,
+        "word": "被斩杀的美国人民",
+        "onboard_time": 1769349023,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 57890,
+        "num": 57890,
+        "word": "朱婷意大利女排杯冠军",
+        "onboard_time": 1769382977,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 55584,
+        "num": 55584,
+        "word": "上海人均收入首破9万",
+        "onboard_time": 1769383579,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52727,
+        "num": 52727,
+        "word": "感染尼帕病毒早期症状类似流感",
+        "onboard_time": 1769355201,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 48749,
+        "num": 48749,
+        "word": "声鸣远扬",
+        "onboard_time": 1769382497,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48450,
+        "num": 48450,
+        "word": "羽绒服这样洗可能会爆炸",
+        "onboard_time": 1769342060,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43308,
+        "num": 43308,
+        "word": "国投白银LOF将临时停牌",
+        "onboard_time": 1769348663,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 41667,
+        "num": 41667,
+        "word": "父亲说乔任梁曾长期失眠",
+        "onboard_time": 1769350581,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40467,
+        "num": 40467,
+        "word": "马年春晚",
+        "onboard_time": 1769382497,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37960,
+        "num": 37960,
+        "word": "台湾民众说我们是台湾人也是中国人",
+        "onboard_time": 1769339540,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37546,
+        "num": 37546,
+        "word": "原来他才是牢A",
+        "onboard_time": 1769337441,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37089,
+        "num": 37089,
+        "word": "女神蒙上眼原配手摘小三子宫",
+        "onboard_time": 1769340320,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36884,
+        "num": 36884,
+        "word": "浪姐4姐姐们来看Ella演唱会",
+        "onboard_time": 1769356220,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 36376,
+        "num": 36376,
+        "word": "敌机恶意绕飞我驱逐舰全程瞄准",
+        "onboard_time": 1769383698,
+        "rank": 41,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 34724,
+        "num": 34724,
+        "word": "40岁假肢妈妈廖智说生四胎很幸运",
+        "onboard_time": 1769350644,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33533,
+        "num": 33533,
+        "word": "两种水果很适合冬天热着吃",
+        "onboard_time": 1769344641,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 33516,
+        "num": 33516,
+        "word": "格陵兰岛首府全城一片漆黑",
+        "onboard_time": 1769341221,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 32341,
+        "num": 32341,
+        "word": "阿森纳vs曼联",
+        "onboard_time": 1769361257,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32117,
+        "num": 32117,
+        "word": "春晚路透",
+        "onboard_time": 1769383458,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31702,
+        "num": 31702,
+        "word": "看懂陈星旭收官文的都哭了",
+        "onboard_time": 1769354603,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25946,
+        "num": 31641,
+        "word": "江西唇腭裂女童引全网关注",
+        "onboard_time": 1769332161,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28203,
+        "num": 31493,
+        "word": "何炅说沈梦辰今天美到值得上热搜",
+        "onboard_time": 1769350644,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#生活好一个很重要的内涵是生态#"
+    }
+  }
+}

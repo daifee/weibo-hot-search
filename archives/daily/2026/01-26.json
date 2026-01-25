@@ -1,6 +1,6 @@
 {
   "startTime": 1769358907478,
-  "endTime": 1769381123496,
+  "endTime": 1769383740960,
   "band_list": [
     {
       "raw_hot": 1023500,
@@ -17,6 +17,14 @@
       "onboard_time": 1769356341,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 801449,
+      "num": 463623,
+      "word": "男子发现妻子每天上厕所顺路存1000",
+      "onboard_time": 1769382617,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 665901,
@@ -91,6 +99,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 232418,
+      "num": 232418,
+      "word": "腊八",
+      "onboard_time": 1769382677,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 161569,
       "num": 266922,
       "word": "羽绒服这样洗可能会爆炸",
@@ -99,12 +115,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 154393,
+      "num": 85197,
+      "word": "原来英语本身就是一道斩杀线",
+      "onboard_time": 1769383037,
+      "rank": 14,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 152893,
       "num": 190458,
       "word": "华晨宇弃票",
       "onboard_time": 1769354603,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 152477,
+      "num": 152477,
+      "word": "菲律宾一载350多人渡轮沉没",
+      "onboard_time": 1769382376,
+      "rank": 6,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 132377,
@@ -155,12 +187,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 108784,
+      "num": 190401,
+      "word": "生命树",
+      "onboard_time": 1769355501,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 102604,
       "num": 190411,
       "word": "宝宝误嚼金锁医生称黄金已到大肠",
       "onboard_time": 1769355201,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 99622,
+      "num": 190435,
+      "word": "建议优先睡好这4个小时",
+      "onboard_time": 1769348544,
+      "rank": 27,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 93094,
@@ -177,6 +225,14 @@
       "onboard_time": 1769343800,
       "rank": 9,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 91388,
+      "num": 91388,
+      "word": "阿森纳2比3曼联",
+      "onboard_time": 1769382558,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 90549,
@@ -227,12 +283,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 84518,
-      "num": 190435,
-      "word": "建议优先睡好这4个小时",
-      "onboard_time": 1769348544,
-      "rank": 27,
-      "category": "健康医疗"
+      "raw_hot": 81335,
+      "num": 81335,
+      "word": "美明尼苏达州男子遭补枪画面曝光",
+      "onboard_time": 1769370374,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 80398,
@@ -275,14 +331,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 70214,
-      "num": 190401,
-      "word": "生命树",
-      "onboard_time": 1769355501,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 70120,
       "num": 85076,
       "word": "王嘉尔唱中文情歌",
@@ -297,6 +345,14 @@
       "onboard_time": 1769354902,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 67685,
+      "num": 67685,
+      "word": "这些体态问题都是屁股引发的",
+      "onboard_time": 1769383037,
+      "rank": 23,
+      "category": "运动健身"
     },
     {
       "raw_hot": 66711,
@@ -323,12 +379,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 64190,
+      "num": 64190,
+      "word": "姑父棒杀侄女作案细节披露",
+      "onboard_time": 1769383037,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 63230,
+      "num": 190341,
+      "word": "沈佳润找好自己的赛道",
+      "onboard_time": 1769343260,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 62988,
       "num": 62988,
       "word": "内娱你再不努力就要被短剧打败了",
       "onboard_time": 1769350282,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 62489,
+      "num": 85073,
+      "word": "被斩杀的美国人民",
+      "onboard_time": 1769349023,
+      "rank": 46,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 60807,
@@ -355,12 +435,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 57890,
+      "num": 57890,
+      "word": "朱婷意大利女排杯冠军",
+      "onboard_time": 1769382977,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 57714,
       "num": 57714,
       "word": "蔡国庆说张艺兴太厉害了",
       "onboard_time": 1769351661,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 55584,
+      "num": 55584,
+      "word": "上海人均收入首破9万",
+      "onboard_time": 1769383579,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 55219,
@@ -371,14 +467,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 52936,
-      "num": 52936,
-      "word": "美明尼苏达州男子遭补枪画面曝光",
-      "onboard_time": 1769370374,
-      "rank": 31,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 50107,
       "num": 190364,
       "word": "女神蒙上眼原配手摘小三子宫",
@@ -387,12 +475,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 46916,
-      "num": 85073,
-      "word": "被斩杀的美国人民",
-      "onboard_time": 1769349023,
-      "rank": 46,
-      "category": "海外新闻"
+      "raw_hot": 48749,
+      "num": 48749,
+      "word": "声鸣远扬",
+      "onboard_time": 1769382497,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 45008,
@@ -419,12 +507,28 @@
       "category": "财经"
     },
     {
-      "raw_hot": 43305,
+      "raw_hot": 43308,
       "num": 190387,
       "word": "国投白银LOF将临时停牌",
       "onboard_time": 1769348663,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 41667,
+      "num": 41667,
+      "word": "父亲说乔任梁曾长期失眠",
+      "onboard_time": 1769350581,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 40467,
+      "num": 40467,
+      "word": "马年春晚",
+      "onboard_time": 1769382497,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 39493,
@@ -451,20 +555,44 @@
       "category": "财经"
     },
     {
-      "raw_hot": 33343,
-      "num": 190341,
-      "word": "沈佳润找好自己的赛道",
-      "onboard_time": 1769343260,
-      "rank": 48,
-      "category": "艺人"
+      "raw_hot": 36376,
+      "num": 36376,
+      "word": "敌机恶意绕飞我驱逐舰全程瞄准",
+      "onboard_time": 1769383698,
+      "rank": 41,
+      "category": "军事"
     },
     {
-      "raw_hot": 31336,
+      "raw_hot": 34724,
+      "num": 48763,
+      "word": "40岁假肢妈妈廖智说生四胎很幸运",
+      "onboard_time": 1769350644,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33516,
+      "num": 48764,
+      "word": "格陵兰岛首府全城一片漆黑",
+      "onboard_time": 1769341221,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 32341,
       "num": 190375,
       "word": "阿森纳vs曼联",
       "onboard_time": 1769361257,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 32117,
+      "num": 32117,
+      "word": "春晚路透",
+      "onboard_time": 1769383458,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 31052,
@@ -475,15 +603,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 24673,
-      "num": 33331,
-      "word": "北京卫视春晚",
-      "onboard_time": 1769379194,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 22614,
+      "raw_hot": 24930,
       "num": 482029,
       "word": "彩灯一亮年味就有了",
       "onboard_time": 1769345602,
@@ -491,12 +611,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 21575,
-      "num": 48764,
-      "word": "格陵兰岛首府全城一片漆黑",
-      "onboard_time": 1769341221,
-      "rank": 49,
-      "category": "国际时政"
+      "raw_hot": 24673,
+      "num": 33331,
+      "word": "北京卫视春晚",
+      "onboard_time": 1769379194,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 18291,
@@ -513,14 +633,6 @@
       "onboard_time": 1769364975,
       "rank": 42,
       "category": "演出"
-    },
-    {
-      "raw_hot": 16370,
-      "num": 48763,
-      "word": "40岁假肢妈妈廖智说生四胎很幸运",
-      "onboard_time": 1769350644,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 15981,

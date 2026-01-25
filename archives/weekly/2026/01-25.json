@@ -1,6 +1,6 @@
 {
   "startTime": 1769272464158,
-  "endTime": 1769381123496,
+  "endTime": 1769383740960,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -105,6 +105,14 @@
       "onboard_time": 1769312660,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 801449,
+      "num": 463623,
+      "word": "男子发现妻子每天上厕所顺路存1000",
+      "onboard_time": 1769382617,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 784185,
@@ -915,6 +923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 232418,
+      "num": 232418,
+      "word": "腊八",
+      "onboard_time": 1769382677,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 232405,
       "num": 232405,
       "word": "太平年 牵羊礼",
@@ -1275,6 +1291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 154393,
+      "num": 85197,
+      "word": "原来英语本身就是一道斩杀线",
+      "onboard_time": 1769383037,
+      "rank": 14,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 154043,
       "num": 118427,
       "word": "何不同舟渡妆造",
@@ -1321,6 +1345,14 @@
       "onboard_time": 1769339779,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 152477,
+      "num": 152477,
+      "word": "菲律宾一载350多人渡轮沉没",
+      "onboard_time": 1769382376,
+      "rank": 6,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 151735,
@@ -1825,6 +1857,14 @@
       "onboard_time": 1769339720,
       "rank": 41,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 108784,
+      "num": 190401,
+      "word": "生命树",
+      "onboard_time": 1769355501,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 108668,
@@ -2379,6 +2419,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 91388,
+      "num": 91388,
+      "word": "阿森纳2比3曼联",
+      "onboard_time": 1769382558,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 91264,
       "num": 91264,
       "word": "TF四代花式对答爱你老己",
@@ -2737,6 +2785,14 @@
       "onboard_time": 1769355620,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 81335,
+      "num": 81335,
+      "word": "美明尼苏达州男子遭补枪画面曝光",
+      "onboard_time": 1769370374,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 80966,
@@ -3171,14 +3227,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 70214,
-      "num": 190401,
-      "word": "生命树",
-      "onboard_time": 1769355501,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 70120,
       "num": 85076,
       "word": "王嘉尔唱中文情歌",
@@ -3233,6 +3281,14 @@
       "onboard_time": 1769268204,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 67685,
+      "num": 67685,
+      "word": "这些体态问题都是屁股引发的",
+      "onboard_time": 1769383037,
+      "rank": 23,
+      "category": "运动健身"
     },
     {
       "raw_hot": 67332,
@@ -3299,6 +3355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 64190,
+      "num": 64190,
+      "word": "姑父棒杀侄女作案细节披露",
+      "onboard_time": 1769383037,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 63779,
       "num": 68798,
       "word": "退钱哥发文感谢U23国家队",
@@ -3363,6 +3427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 57890,
+      "num": 57890,
+      "word": "朱婷意大利女排杯冠军",
+      "onboard_time": 1769382977,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 57455,
       "num": 75271,
       "word": "张帅组合0比5落后连赢7局",
@@ -3393,6 +3465,14 @@
       "onboard_time": 1769333840,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 55584,
+      "num": 55584,
+      "word": "上海人均收入首破9万",
+      "onboard_time": 1769383579,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 55392,
@@ -3435,14 +3515,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 52936,
-      "num": 52936,
-      "word": "美明尼苏达州男子遭补枪画面曝光",
-      "onboard_time": 1769370374,
-      "rank": 31,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 51188,
       "num": 57821,
       "word": "松岛辉空获全日男单冠军",
@@ -3457,6 +3529,14 @@
       "onboard_time": 1769249960,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 48749,
+      "num": 48749,
+      "word": "声鸣远扬",
+      "onboard_time": 1769382497,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 48351,
@@ -3569,6 +3649,14 @@
       "onboard_time": 1769297777,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 40467,
+      "num": 40467,
+      "word": "马年春晚",
+      "onboard_time": 1769382497,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 40344,
@@ -3691,6 +3779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 36376,
+      "num": 36376,
+      "word": "敌机恶意绕飞我驱逐舰全程瞄准",
+      "onboard_time": 1769383698,
+      "rank": 41,
+      "category": "军事"
+    },
+    {
       "raw_hot": 33501,
       "num": 626063,
       "word": "万亿城市再扩容",
@@ -3723,20 +3819,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 32341,
+      "num": 190375,
+      "word": "阿森纳vs曼联",
+      "onboard_time": 1769361257,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 32117,
+      "num": 32117,
+      "word": "春晚路透",
+      "onboard_time": 1769383458,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 31791,
       "num": 104860,
       "word": "新一轮冷空气已取号",
       "onboard_time": 1769322020,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 31336,
-      "num": 190375,
-      "word": "阿森纳vs曼联",
-      "onboard_time": 1769361257,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 31052,

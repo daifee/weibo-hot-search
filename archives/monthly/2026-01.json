@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769381123496,
+  "endTime": 1769383740960,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -2641,6 +2641,14 @@
       "onboard_time": 1768806380,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 801449,
+      "num": 463623,
+      "word": "男子发现妻子每天上厕所顺路存1000",
+      "onboard_time": 1769382617,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 798459,
@@ -19323,6 +19331,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 232418,
+      "num": 232418,
+      "word": "腊八",
+      "onboard_time": 1769382677,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 232308,
       "num": 232308,
       "word": "体面人的体面一生",
@@ -31131,6 +31147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 154393,
+      "num": 85197,
+      "word": "原来英语本身就是一道斩杀线",
+      "onboard_time": 1769383037,
+      "rank": 14,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 154287,
       "num": 154287,
       "word": "明白小说里的富家千金长什么样了",
@@ -31585,6 +31609,14 @@
       "onboard_time": 1769268744,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 152477,
+      "num": 152477,
+      "word": "菲律宾一载350多人渡轮沉没",
+      "onboard_time": 1769382376,
+      "rank": 6,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 152476,
@@ -57219,6 +57251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 91388,
+      "num": 91388,
+      "word": "阿森纳2比3曼联",
+      "onboard_time": 1769382558,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 91377,
       "num": 103283,
       "word": "奶茶会偷偷升高你的尿酸",
@@ -64059,6 +64099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 81335,
+      "num": 81335,
+      "word": "美明尼苏达州男子遭补枪画面曝光",
+      "onboard_time": 1769370374,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 81328,
       "num": 81328,
       "word": "赵今麦新剧会说敢说",
@@ -70243,6 +70291,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 67685,
+      "num": 67685,
+      "word": "这些体态问题都是屁股引发的",
+      "onboard_time": 1769383037,
+      "rank": 23,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 67599,
       "num": 213743,
       "word": "男子32天AA制旅行擅自离队判赔2600",
@@ -71401,6 +71457,14 @@
       "onboard_time": 1767922279,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 64190,
+      "num": 64190,
+      "word": "姑父棒杀侄女作案细节披露",
+      "onboard_time": 1769383037,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 64181,
@@ -73195,6 +73259,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 57890,
+      "num": 57890,
+      "word": "朱婷意大利女排杯冠军",
+      "onboard_time": 1769382977,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 57870,
       "num": 112003,
       "word": "王力宏唱shallow其实很deep",
@@ -73787,6 +73859,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 55584,
+      "num": 55584,
+      "word": "上海人均收入首破9万",
+      "onboard_time": 1769383579,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55545,
       "num": 94300,
       "word": "90年代的刘亦菲",
@@ -74329,14 +74409,6 @@
       "onboard_time": 1767225798,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 52936,
-      "num": 52936,
-      "word": "美明尼苏达州男子遭补枪画面曝光",
-      "onboard_time": 1769370374,
-      "rank": 31,
-      "category": "国际时政"
     },
     {
       "raw_hot": 52918,
@@ -78283,6 +78355,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 36376,
+      "num": 36376,
+      "word": "敌机恶意绕飞我驱逐舰全程瞄准",
+      "onboard_time": 1769383698,
+      "rank": 41,
+      "category": "军事"
+    },
+    {
       "raw_hot": 36351,
       "num": 36351,
       "word": "U23国足vs日本U23",
@@ -79339,6 +79419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 32341,
+      "num": 190375,
+      "word": "阿森纳vs曼联",
+      "onboard_time": 1769361257,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 32292,
       "num": 74721,
       "word": "中国该怎么粉碎日本的卡脖子",
@@ -79417,6 +79505,14 @@
       "onboard_time": 1769009000,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 32117,
+      "num": 32117,
+      "word": "春晚路透",
+      "onboard_time": 1769383458,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 32116,
@@ -79585,14 +79681,6 @@
       "onboard_time": 1768066157,
       "rank": 46,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 31336,
-      "num": 190375,
-      "word": "阿森纳vs曼联",
-      "onboard_time": 1769361257,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 31326,
