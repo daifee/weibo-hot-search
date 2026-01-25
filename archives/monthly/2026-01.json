@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769298109528,
+  "endTime": 1769308095601,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -547,6 +547,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1643112,
+      "num": 238372,
+      "word": "王玉雯方停止突然的喜欢一切宣传工作",
+      "onboard_time": 1769296396,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1631134,
       "num": 272735,
       "word": "汉堡王崩了",
@@ -961,14 +969,6 @@
       "onboard_time": 1767420926,
       "rank": 30,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1208306,
-      "num": 73579,
-      "word": "王玉雯方停止突然的喜欢一切宣传工作",
-      "onboard_time": 1769296396,
-      "rank": 10,
-      "category": "剧集"
     },
     {
       "raw_hot": 1203665,
@@ -1737,6 +1737,14 @@
       "onboard_time": 1767595222,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 955627,
+      "num": 1152900,
+      "word": "U23国足0比4日本队",
+      "onboard_time": 1769274381,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 954519,
@@ -2761,14 +2769,6 @@
       "onboard_time": 1767338359,
       "rank": 20,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 774613,
-      "num": 794901,
-      "word": "U23国足0比4日本队",
-      "onboard_time": 1769274381,
-      "rank": 6,
-      "category": "体育"
     },
     {
       "raw_hot": 772814,
@@ -3859,6 +3859,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 648993,
+      "num": 853713,
+      "word": "印度男子倒奶入河避开接奶贫困儿童",
+      "onboard_time": 1769304440,
+      "rank": 1,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 647931,
       "num": 605528,
       "word": "短剧演员吐槽剧组让孩子一直淋雨",
@@ -4233,6 +4241,14 @@
       "onboard_time": 1768694538,
       "rank": 40,
       "category": "数码"
+    },
+    {
+      "raw_hot": 621162,
+      "num": 621162,
+      "word": "猫的树 升咖",
+      "onboard_time": 1769299520,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 619036,
@@ -7123,6 +7139,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 483061,
+      "num": 206243,
+      "word": "造谣王玉雯涉事人员已被开除",
+      "onboard_time": 1769303179,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 482457,
       "num": 818352,
       "word": "美媒称马杜罗夫妇熟睡中被拖出卧室",
@@ -8387,6 +8411,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 441216,
+      "num": 441216,
+      "word": "檀健次卢昱晓新剧开机照",
+      "onboard_time": 1769305222,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 441125,
       "num": 441125,
       "word": "影视项目 全男戏",
@@ -9635,6 +9667,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 400600,
+      "num": 236308,
+      "word": "周雨彤 观众缘",
+      "onboard_time": 1769297658,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 400438,
       "num": 400438,
       "word": "ALin哭着说对不起",
@@ -10321,6 +10361,14 @@
       "onboard_time": 1768976540,
       "rank": 14,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 380448,
+      "num": 380448,
+      "word": "买1块银砖3个月赚26万",
+      "onboard_time": 1769306660,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 380349,
@@ -12425,6 +12473,14 @@
       "onboard_time": 1769254822,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 332262,
+      "num": 233988,
+      "word": "外媒曝贝克汉姆家庭矛盾原因",
+      "onboard_time": 1769298438,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 332128,
@@ -17003,6 +17059,14 @@
       "category": "国内时政,财经"
     },
     {
+      "raw_hot": 256423,
+      "num": 256423,
+      "word": "U23国足球员向球迷致歉",
+      "onboard_time": 1769297837,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 256266,
       "num": 471743,
       "word": "王楚钦LV品牌大使",
@@ -20459,6 +20523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 213505,
+      "num": 138546,
+      "word": "夜市偶遇虞书欣",
+      "onboard_time": 1769302882,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 213363,
       "num": 198648,
       "word": "脂包骨身材是什么",
@@ -20865,6 +20937,14 @@
       "onboard_time": 1768568182,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 209623,
+      "num": 209623,
+      "word": "iPhone长截屏的3种方式",
+      "onboard_time": 1769303001,
+      "rank": 14,
+      "category": "数码"
     },
     {
       "raw_hot": 209591,
@@ -24489,6 +24569,14 @@
       "onboard_time": 1767832221,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 186305,
+      "num": 135756,
+      "word": "林允方报平安",
+      "onboard_time": 1769305340,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 186247,
@@ -28267,14 +28355,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 163927,
-      "num": 72525,
-      "word": "周雨彤 观众缘",
-      "onboard_time": 1769297658,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 163909,
       "num": 556601,
       "word": "慢跑时器官在忙什么",
@@ -28739,6 +28819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 161445,
+      "num": 161445,
+      "word": "曝猫的树手上现在全是现偶大项目",
+      "onboard_time": 1769304920,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 161413,
       "num": 161413,
       "word": "中国科学家发现基因封条",
@@ -29009,6 +29097,14 @@
       "onboard_time": 1767419125,
       "rank": 33,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 160442,
+      "num": 133729,
+      "word": "假肢舞者廖智第四胎女儿出生",
+      "onboard_time": 1769306660,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 160386,
@@ -30571,6 +30667,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 152569,
+      "num": 129131,
+      "word": "angelababy能打破花少单双季魔咒吗",
+      "onboard_time": 1769306660,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 152558,
       "num": 152558,
       "word": "赵今麦 擦擦西瓜汁",
@@ -31883,6 +31987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 147187,
+      "num": 128255,
+      "word": "被劝退歌手拿了全场最高分",
+      "onboard_time": 1769297777,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 147182,
       "num": 257439,
       "word": "realme宣布回归OPPO",
@@ -32449,6 +32561,14 @@
       "onboard_time": 1767602121,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 145062,
+      "num": 145062,
+      "word": "原来滑雪也可以这么有仪式感",
+      "onboard_time": 1769307620,
+      "rank": 17,
+      "category": "运动健身"
     },
     {
       "raw_hot": 145053,
@@ -33387,6 +33507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 141336,
+      "num": 122941,
+      "word": "好睡眠的4个黄金标准",
+      "onboard_time": 1769299879,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 141298,
       "num": 136770,
       "word": "第一次见价值4万的黄金美甲",
@@ -33457,6 +33585,14 @@
       "onboard_time": 1767420686,
       "rank": 25,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 141076,
+      "num": 141076,
+      "word": "国家体育总局向U23国足致贺信",
+      "onboard_time": 1769297297,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 141040,
@@ -39507,6 +39643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 122281,
+      "num": 122281,
+      "word": "时代少年团挪威",
+      "onboard_time": 1769302640,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 122271,
       "num": 122271,
       "word": "柯淳领衔主演黎明前他会归来",
@@ -40776,6 +40920,14 @@
       "word": "陈思罕露额头",
       "onboard_time": 1767630679,
       "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 119082,
+      "num": 119082,
+      "word": "白鹿谈身体状况",
+      "onboard_time": 1769304201,
+      "rank": 27,
       "category": "艺人"
     },
     {
@@ -47155,6 +47307,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 104843,
+      "num": 104843,
+      "word": "女孩出生4天面容受损5年求医终修复",
+      "onboard_time": 1769298617,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104839,
       "num": 84887,
       "word": "董璇靠纯蒙打败了北大教授",
@@ -48195,6 +48355,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 103044,
+      "num": 103044,
+      "word": "陈百祥谈老婆不能生育的原因",
+      "onboard_time": 1769307620,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 102970,
       "num": 72086,
       "word": "鞠婧祎断更",
@@ -48985,6 +49153,14 @@
       "onboard_time": 1768895901,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 101468,
+      "num": 101468,
+      "word": "解放军演练实弹打爆敌机画面",
+      "onboard_time": 1769305580,
+      "rank": 31,
+      "category": "军事"
     },
     {
       "raw_hot": 101453,
@@ -52555,6 +52731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 95734,
+      "num": 95734,
+      "word": "为什么江浙沪吃的都很清淡",
+      "onboard_time": 1769296996,
+      "rank": 22,
+      "category": "美食"
+    },
+    {
       "raw_hot": 95727,
       "num": 95727,
       "word": "樊振东德甲赛程预告",
@@ -55051,6 +55235,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 91954,
+      "num": 91954,
+      "word": "睡眠小于6小时炎症和癌症风险双升高",
+      "onboard_time": 1769297718,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 91936,
       "num": 103553,
       "word": "A股超3500股上涨",
@@ -55977,6 +56169,14 @@
       "onboard_time": 1768174157,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 90573,
+      "num": 90573,
+      "word": "夫妻吃娃娃菜中毒商家否认用老鼠药",
+      "onboard_time": 1769305459,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90566,
@@ -59523,6 +59723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 85411,
+      "num": 85411,
+      "word": "华裔男女救助前车司机时被撞身亡",
+      "onboard_time": 1769305459,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85397,
       "num": 85397,
       "word": "平台回应女童舞蹈服宣传图像孕肚",
@@ -59761,6 +59969,14 @@
       "onboard_time": 1769252540,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 85106,
+      "num": 85106,
+      "word": "他和贞娘有了真感情",
+      "onboard_time": 1769301199,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 85092,
@@ -60611,6 +60827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 83593,
+      "num": 83593,
+      "word": "拜合拉木发烧39度",
+      "onboard_time": 1769306961,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 83589,
       "num": 83589,
       "word": "超6成中国人下一辆车预算30万元以上",
@@ -61017,6 +61241,14 @@
       "onboard_time": 1767781643,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 82718,
+      "num": 82718,
+      "word": "成都通报小学强制教师参与年会表演",
+      "onboard_time": 1769304440,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 82713,
@@ -62721,6 +62953,14 @@
       "onboard_time": 1768647622,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 79913,
+      "num": 79913,
+      "word": "晚安代表暧昧 言语霸凌",
+      "onboard_time": 1769300000,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 79892,
@@ -65315,6 +65555,14 @@
       "category": "幽默,休闲"
     },
     {
+      "raw_hot": 74404,
+      "num": 74404,
+      "word": "美国已有超7000架次航班被取消",
+      "onboard_time": 1769303660,
+      "rank": 43,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 74402,
       "num": 74402,
       "word": "汪苏泷 后悔来了",
@@ -66363,6 +66611,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 71740,
+      "num": 71740,
+      "word": "明日就是腊八节",
+      "onboard_time": 1769302762,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 71699,
       "num": 71699,
       "word": "内娱需要这样养眼的古装扮相",
@@ -66489,6 +66745,14 @@
       "onboard_time": 1768715419,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 71347,
+      "num": 71347,
+      "word": "猫的树的男女主衣服从来没丑过",
+      "onboard_time": 1769307861,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 71325,
@@ -67347,14 +67611,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 68726,
-      "num": 68726,
-      "word": "U23国足球员向球迷致歉",
-      "onboard_time": 1769297837,
-      "rank": 21,
-      "category": "体育"
-    },
-    {
       "raw_hot": 68724,
       "num": 68724,
       "word": "卖家回应鹅鸭杀ID炒到上千元",
@@ -67617,14 +67873,6 @@
       "onboard_time": 1767265280,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 67945,
-      "num": 67945,
-      "word": "睡眠小于6小时炎症和癌症风险双升高",
-      "onboard_time": 1769297718,
-      "rank": 22,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 67939,
@@ -68043,14 +68291,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 66710,
-      "num": 66710,
-      "word": "被劝退歌手拿了全场最高分",
-      "onboard_time": 1769297777,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 66708,
       "num": 121708,
       "word": "特朗普索赔50亿美元",
@@ -68467,6 +68707,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 65288,
+      "num": 64602,
+      "word": "迪丽热巴被圣光照拂的猫",
+      "onboard_time": 1769297177,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 65284,
       "num": 100738,
       "word": "救护车打滑4个校服少年出手了",
@@ -68697,6 +68945,22 @@
       "onboard_time": 1767418406,
       "rank": 43,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 64639,
+      "num": 64639,
+      "word": "一个春节能胖多少",
+      "onboard_time": 1769307980,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 64610,
+      "num": 242013,
+      "word": "美或出售5000万桶委内瑞拉原油",
+      "onboard_time": 1769307500,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 64551,
@@ -69961,14 +70225,6 @@
       "onboard_time": 1768750881,
       "rank": 43,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 60346,
-      "num": 60346,
-      "word": "为什么江浙沪吃的都很清淡",
-      "onboard_time": 1769296996,
-      "rank": 22,
-      "category": "美食"
     },
     {
       "raw_hot": 60320,
@@ -74739,14 +74995,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 39310,
-      "num": 39310,
-      "word": "迪丽热巴被圣光照拂的猫",
-      "onboard_time": 1769297177,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 39298,
       "num": 116559,
       "word": "永辉超市去年预亏21.4亿",
@@ -77723,14 +77971,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 27629,
-      "num": 73902,
-      "word": "国家体育总局向U23国足致贺信",
-      "onboard_time": 1769297297,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 27628,
       "num": 139554,
       "word": "刘宇宁想把十首歌拍一个小短剧",
@@ -79243,6 +79483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 21893,
+      "num": 1464542,
+      "word": "奋进中国",
+      "onboard_time": 1769258901,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21844,
       "num": 101562,
       "word": "18名假工人流窜多地敲诈施工方",
@@ -80537,14 +80785,6 @@
       "onboard_time": 1768416314,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 16907,
-      "num": 1464542,
-      "word": "奋进中国",
-      "onboard_time": 1769258901,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 16808,

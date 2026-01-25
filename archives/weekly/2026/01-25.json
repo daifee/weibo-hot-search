@@ -1,6 +1,6 @@
 {
   "startTime": 1769272464158,
-  "endTime": 1769298109528,
+  "endTime": 1769308095601,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -19,8 +19,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1208306,
-      "num": 73579,
+      "raw_hot": 1643112,
+      "num": 238372,
       "word": "王玉雯方停止突然的喜欢一切宣传工作",
       "onboard_time": 1769296396,
       "rank": 10,
@@ -43,8 +43,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 774613,
-      "num": 794901,
+      "raw_hot": 955627,
+      "num": 1152900,
       "word": "U23国足0比4日本队",
       "onboard_time": 1769274381,
       "rank": 6,
@@ -67,12 +67,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 648993,
+      "num": 853713,
+      "word": "印度男子倒奶入河避开接奶贫困儿童",
+      "onboard_time": 1769304440,
+      "rank": 1,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 631249,
       "num": 605445,
       "word": "日本队6号",
       "onboard_time": 1769270902,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 621162,
+      "num": 621162,
+      "word": "猫的树 升咖",
+      "onboard_time": 1769299520,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 549766,
@@ -91,12 +107,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 483061,
+      "num": 206243,
+      "word": "造谣王玉雯涉事人员已被开除",
+      "onboard_time": 1769303179,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 458681,
       "num": 458681,
       "word": "U23国足0比4日本U23",
       "onboard_time": 1769272822,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 441216,
+      "num": 441216,
+      "word": "檀健次卢昱晓新剧开机照",
+      "onboard_time": 1769305222,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 435162,
@@ -113,6 +145,22 @@
       "onboard_time": 1769270843,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 400600,
+      "num": 236308,
+      "word": "周雨彤 观众缘",
+      "onboard_time": 1769297658,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 380448,
+      "num": 380448,
+      "word": "买1块银砖3个月赚26万",
+      "onboard_time": 1769306660,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 379815,
@@ -137,6 +185,14 @@
       "onboard_time": 1769266882,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 332262,
+      "num": 233988,
+      "word": "外媒曝贝克汉姆家庭矛盾原因",
+      "onboard_time": 1769298438,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 331954,
@@ -195,12 +251,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 256423,
+      "num": 256423,
+      "word": "U23国足球员向球迷致歉",
+      "onboard_time": 1769297837,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 247751,
       "num": 247751,
       "word": "拜合拉木 上不了",
       "onboard_time": 1769271683,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 242674,
+      "num": 242674,
+      "word": "何不同舟渡",
+      "onboard_time": 1769259921,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 232405,
@@ -227,12 +299,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 213505,
+      "num": 138546,
+      "word": "夜市偶遇虞书欣",
+      "onboard_time": 1769302882,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 209623,
+      "num": 209623,
+      "word": "iPhone长截屏的3种方式",
+      "onboard_time": 1769303001,
+      "rank": 14,
+      "category": "数码"
+    },
+    {
       "raw_hot": 198150,
       "num": 198150,
       "word": "U23",
       "onboard_time": 1769269284,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 186305,
+      "num": 135756,
+      "word": "林允方报平安",
+      "onboard_time": 1769305340,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 168027,
@@ -243,20 +339,44 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 163927,
-      "num": 72525,
-      "word": "周雨彤 观众缘",
-      "onboard_time": 1769297658,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 162416,
       "num": 162416,
       "word": "美国网友提问9000万遗体去向",
       "onboard_time": 1769258782,
       "rank": 21,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 161445,
+      "num": 161445,
+      "word": "曝猫的树手上现在全是现偶大项目",
+      "onboard_time": 1769304920,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 160442,
+      "num": 133729,
+      "word": "假肢舞者廖智第四胎女儿出生",
+      "onboard_time": 1769306660,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 152569,
+      "num": 129131,
+      "word": "angelababy能打破花少单双季魔咒吗",
+      "onboard_time": 1769306660,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 147187,
+      "num": 128255,
+      "word": "被劝退歌手拿了全场最高分",
+      "onboard_time": 1769297777,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 146181,
@@ -267,11 +387,35 @@
       "category": "体育"
     },
     {
+      "raw_hot": 145062,
+      "num": 145062,
+      "word": "原来滑雪也可以这么有仪式感",
+      "onboard_time": 1769307620,
+      "rank": 17,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 141336,
+      "num": 122941,
+      "word": "好睡眠的4个黄金标准",
+      "onboard_time": 1769299879,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 141127,
       "num": 141127,
       "word": "国足",
       "onboard_time": 1769245101,
       "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 141076,
+      "num": 141076,
+      "word": "国家体育总局向U23国足致贺信",
+      "onboard_time": 1769297297,
+      "rank": 9,
       "category": "体育"
     },
     {
@@ -315,6 +459,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 122281,
+      "num": 122281,
+      "word": "时代少年团挪威",
+      "onboard_time": 1769302640,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 119082,
+      "num": 119082,
+      "word": "白鹿谈身体状况",
+      "onboard_time": 1769304201,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 117206,
       "num": 123224,
       "word": "太平年改了台词",
@@ -329,6 +489,22 @@
       "onboard_time": 1769263102,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104843,
+      "num": 104843,
+      "word": "女孩出生4天面容受损5年求医终修复",
+      "onboard_time": 1769298617,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103044,
+      "num": 103044,
+      "word": "陈百祥谈老婆不能生育的原因",
+      "onboard_time": 1769307620,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 102124,
@@ -347,6 +523,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 101468,
+      "num": 101468,
+      "word": "解放军演练实弹打爆敌机画面",
+      "onboard_time": 1769305580,
+      "rank": 31,
+      "category": "军事"
+    },
+    {
       "raw_hot": 99611,
       "num": 122827,
       "word": "半场u23国足2次射门1次射正",
@@ -361,6 +545,14 @@
       "onboard_time": 1769266282,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 95734,
+      "num": 95734,
+      "word": "为什么江浙沪吃的都很清淡",
+      "onboard_time": 1769296996,
+      "rank": 22,
+      "category": "美食"
     },
     {
       "raw_hot": 94066,
@@ -403,6 +595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 91954,
+      "num": 91954,
+      "word": "睡眠小于6小时炎症和癌症风险双升高",
+      "onboard_time": 1769297718,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 91800,
       "num": 121336,
       "word": "隋文静韩聪亚军",
@@ -419,6 +619,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 90573,
+      "num": 90573,
+      "word": "夫妻吃娃娃菜中毒商家否认用老鼠药",
+      "onboard_time": 1769305459,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85419,
       "num": 85419,
       "word": "U23国足小伙子们配得上喝彩",
@@ -427,11 +635,35 @@
       "category": "体育"
     },
     {
+      "raw_hot": 85411,
+      "num": 85411,
+      "word": "华裔男女救助前车司机时被撞身亡",
+      "onboard_time": 1769305459,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85151,
       "num": 122211,
       "word": "沙特机场中国人多到包机",
       "onboard_time": 1769271623,
       "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 85106,
+      "num": 85106,
+      "word": "他和贞娘有了真感情",
+      "onboard_time": 1769301199,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 83593,
+      "num": 83593,
+      "word": "拜合拉木发烧39度",
+      "onboard_time": 1769306961,
+      "rank": 38,
       "category": "体育"
     },
     {
@@ -443,12 +675,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 81438,
-      "num": 121309,
-      "word": "何不同舟渡",
-      "onboard_time": 1769259921,
-      "rank": 41,
-      "category": "剧集"
+      "raw_hot": 82718,
+      "num": 82718,
+      "word": "成都通报小学强制教师参与年会表演",
+      "onboard_time": 1769304440,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 79913,
+      "num": 79913,
+      "word": "晚安代表暧昧 言语霸凌",
+      "onboard_time": 1769300000,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 78053,
@@ -499,6 +739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 74404,
+      "num": 74404,
+      "word": "美国已有超7000架次航班被取消",
+      "onboard_time": 1769303660,
+      "rank": 43,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 74299,
       "num": 74299,
       "word": "U23国足已经创造历史",
@@ -523,6 +771,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 71740,
+      "num": 71740,
+      "word": "明日就是腊八节",
+      "onboard_time": 1769302762,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 71347,
+      "num": 71347,
+      "word": "猫的树的男女主衣服从来没丑过",
+      "onboard_time": 1769307861,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 69952,
       "num": 81434,
       "word": "张栋梁40岁甜男界顶流返场",
@@ -531,28 +795,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 68726,
-      "num": 68726,
-      "word": "U23国足球员向球迷致歉",
-      "onboard_time": 1769297837,
-      "rank": 21,
-      "category": "体育"
-    },
-    {
       "raw_hot": 68601,
       "num": 81433,
       "word": "AI预测U23国足或爆冷夺冠",
       "onboard_time": 1769270245,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 67945,
-      "num": 67945,
-      "word": "睡眠小于6小时炎症和癌症风险双升高",
-      "onboard_time": 1769297718,
-      "rank": 22,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 67691,
@@ -571,12 +819,36 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 66710,
-      "num": 66710,
-      "word": "被劝退歌手拿了全场最高分",
-      "onboard_time": 1769297777,
-      "rank": 23,
-      "category": "综艺"
+      "raw_hot": 65288,
+      "num": 64602,
+      "word": "迪丽热巴被圣光照拂的猫",
+      "onboard_time": 1769297177,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 64639,
+      "num": 64639,
+      "word": "一个春节能胖多少",
+      "onboard_time": 1769307980,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 64610,
+      "num": 242013,
+      "word": "美或出售5000万桶委内瑞拉原油",
+      "onboard_time": 1769307500,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 64553,
+      "num": 64553,
+      "word": "我们的少年时代2",
+      "onboard_time": 1769307921,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 63251,
@@ -593,14 +865,6 @@
       "onboard_time": 1769296996,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 60346,
-      "num": 60346,
-      "word": "为什么江浙沪吃的都很清淡",
-      "onboard_time": 1769296996,
-      "rank": 22,
-      "category": "美食"
     },
     {
       "raw_hot": 58921,
@@ -699,14 +963,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 39310,
-      "num": 39310,
-      "word": "迪丽热巴被圣光照拂的猫",
-      "onboard_time": 1769297177,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 39221,
       "num": 39221,
       "word": "太平年的口碑",
@@ -795,14 +1051,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 27629,
-      "num": 73902,
-      "word": "国家体育总局向U23国足致贺信",
-      "onboard_time": 1769297297,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 25204,
       "num": 36211,
       "word": "镖人",
@@ -835,20 +1083,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 21893,
+      "num": 1464542,
+      "word": "奋进中国",
+      "onboard_time": 1769258901,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20845,
       "num": 36092,
       "word": "白鹿录制亲爱的客栈",
       "onboard_time": 1769278695,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 16907,
-      "num": 1464542,
-      "word": "奋进中国",
-      "onboard_time": 1769258901,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 16616,
