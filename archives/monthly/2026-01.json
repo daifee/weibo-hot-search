@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769352266374,
+  "endTime": 1769354949044,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -1044,7 +1044,7 @@
     },
     {
       "raw_hot": 1183970,
-      "num": 174566,
+      "num": 174806,
       "word": "乔任梁父亲回忆儿子出事当天",
       "onboard_time": 1769348544,
       "rank": 13,
@@ -5091,6 +5091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 573971,
+      "num": 131828,
+      "word": "外网热议华裔二代破防了",
+      "onboard_time": 1769350222,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 573912,
       "num": 240745,
       "word": "黄磊孙莉小儿子颜值",
@@ -5849,6 +5857,14 @@
       "onboard_time": 1769056580,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 537412,
+      "num": 537412,
+      "word": "何炅说沈梦辰今天美到值得上热搜",
+      "onboard_time": 1769350644,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 537062,
@@ -8945,14 +8961,6 @@
       "onboard_time": 1768893980,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 429385,
-      "num": 131828,
-      "word": "外网热议华裔二代破防了",
-      "onboard_time": 1769350222,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 429317,
@@ -12593,14 +12601,6 @@
       "onboard_time": 1768015402,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 337678,
-      "num": 337678,
-      "word": "何炅说沈梦辰今天美到值得上热搜",
-      "onboard_time": 1769350644,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 337304,
@@ -16908,7 +16908,7 @@
     },
     {
       "raw_hot": 265247,
-      "num": 167808,
+      "num": 173661,
       "word": "女子怀孕收男友15万彩礼后不和要退婚",
       "onboard_time": 1769342481,
       "rank": 22,
@@ -17945,6 +17945,14 @@
       "onboard_time": 1767604401,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 251111,
+      "num": 204230,
+      "word": "危晋宇声鸣远扬全国总冠军",
+      "onboard_time": 1769352563,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 251098,
@@ -26627,6 +26635,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 177699,
+      "num": 177699,
+      "word": "杨鸣 辞职",
+      "onboard_time": 1769354002,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 177672,
       "num": 98608,
       "word": "何老师你没宠错人",
@@ -26985,6 +27001,14 @@
       "onboard_time": 1768817841,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 175651,
+      "num": 175651,
+      "word": "美国ICE行刑式处决",
+      "onboard_time": 1769348721,
+      "rank": 45,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 175645,
@@ -32827,14 +32851,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 147201,
-      "num": 147201,
-      "word": "美国ICE行刑式处决",
-      "onboard_time": 1769348721,
-      "rank": 45,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 147197,
       "num": 147197,
       "word": "歌手不红干什么都是错吗",
@@ -36073,6 +36089,14 @@
       "onboard_time": 1768357161,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 135474,
+      "num": 135474,
+      "word": "AG对战情久",
+      "onboard_time": 1769347283,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 135471,
@@ -42723,6 +42747,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 117245,
+      "num": 117245,
+      "word": "麦琳7场直播销售额近百万",
+      "onboard_time": 1769352441,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 117230,
       "num": 117230,
       "word": "这孩子有两个妈你惹他干嘛",
@@ -46091,6 +46123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 109861,
+      "num": 109861,
+      "word": "何不同舟渡改编自番茄小说作品",
+      "onboard_time": 1769353881,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 109805,
       "num": 240993,
       "word": "再见爱人5",
@@ -46241,14 +46281,6 @@
       "onboard_time": 1768215320,
       "rank": 40,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 109423,
-      "num": 126119,
-      "word": "AG对战情久",
-      "onboard_time": 1769347283,
-      "rank": 37,
-      "category": "电竞"
     },
     {
       "raw_hot": 109421,
@@ -46587,6 +46619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 108639,
+      "num": 108639,
+      "word": "沈梦辰又来爆料了",
+      "onboard_time": 1769354061,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 108607,
       "num": 106448,
       "word": "张翅工作室发长文否认网传恋情",
@@ -46776,6 +46816,14 @@
       "word": "小城大事这段封神",
       "onboard_time": 1768538242,
       "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 108262,
+      "num": 108262,
+      "word": "看懂陈星旭收官文的都哭了",
+      "onboard_time": 1769354603,
+      "rank": 31,
       "category": "剧集"
     },
     {
@@ -57091,6 +57139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 91431,
+      "num": 91431,
+      "word": "危晋宇来给檀健次交作业了",
+      "onboard_time": 1769354540,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 91403,
       "num": 828690,
       "word": "看完这集买保险受益人只敢填父母",
@@ -57449,6 +57505,14 @@
       "onboard_time": 1767839961,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 90879,
+      "num": 107446,
+      "word": "国投白银LOF将临时停牌",
+      "onboard_time": 1769348663,
+      "rank": 37,
+      "category": "财经"
     },
     {
       "raw_hot": 90878,
@@ -58689,14 +58753,6 @@
       "onboard_time": 1768987702,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 88951,
-      "num": 107446,
-      "word": "国投白银LOF将临时停牌",
-      "onboard_time": 1769348663,
-      "rank": 37,
-      "category": "财经"
     },
     {
       "raw_hot": 88911,
@@ -61883,6 +61939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 84752,
+      "num": 84752,
+      "word": "11岁小孩哥为还债创业2月赚6000元",
+      "onboard_time": 1769352022,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84746,
       "num": 84746,
       "word": "相亲和自谈最大的区别",
@@ -61897,6 +61961,14 @@
       "onboard_time": 1769253982,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 84735,
+      "num": 84735,
+      "word": "IVE回归预告",
+      "onboard_time": 1769354902,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 84715,
@@ -64627,14 +64699,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 80144,
-      "num": 80144,
-      "word": "11岁小孩哥为还债创业2月赚6000元",
-      "onboard_time": 1769352022,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 80110,
       "num": 80110,
       "word": "高一女生带手机被停课1个月后续",
@@ -65593,6 +65657,14 @@
       "onboard_time": 1769309000,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 78461,
+      "num": 78461,
+      "word": "全球矿业股狂飙",
+      "onboard_time": 1769352503,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 78435,
@@ -78563,6 +78635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 34424,
+      "num": 90450,
+      "word": "御赐小仵作第二十集绝了",
+      "onboard_time": 1769354661,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 34376,
       "num": 169163,
       "word": "美国曾公开讨论食人法案",
@@ -82691,6 +82771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 19489,
+      "num": 122868,
+      "word": "买秒回服务是孤独税吗",
+      "onboard_time": 1769354421,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19449,
       "num": 100298,
       "word": "多地瓜子二手车代驾司机垫款遭拖欠",
@@ -83641,6 +83729,14 @@
       "onboard_time": 1768184960,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 14577,
+      "num": 90449,
+      "word": "官方通报1油罐车停车场内着火",
+      "onboard_time": 1769354362,
+      "rank": 39,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 14572,
