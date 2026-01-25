@@ -1,6 +1,6 @@
 {
   "startTime": 1769272464158,
-  "endTime": 1769330997443,
+  "endTime": 1769333426524,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -91,6 +91,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 665664,
+      "num": 1106506,
+      "word": "江西唇腭裂女童引全网关注",
+      "onboard_time": 1769332161,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 662805,
       "num": 588167,
       "word": "张凌赫 兰蔻",
@@ -139,20 +147,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 577716,
+      "num": 174995,
+      "word": "今天必须去世一个吗宝贝",
+      "onboard_time": 1769326280,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 575946,
       "num": 1092151,
       "word": "经常熬夜 身体发臭",
       "onboard_time": 1769323101,
       "rank": 9,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 559416,
-      "num": 147324,
-      "word": "今天必须去世一个吗宝贝",
-      "onboard_time": 1769326280,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 554469,
@@ -204,7 +212,7 @@
     },
     {
       "raw_hot": 495910,
-      "num": 177316,
+      "num": 180755,
       "word": "再也不敢单删同学",
       "onboard_time": 1769325080,
       "rank": 32,
@@ -260,7 +268,7 @@
     },
     {
       "raw_hot": 416108,
-      "num": 146302,
+      "num": 173650,
       "word": "彭小苒称该道歉的是我",
       "onboard_time": 1769324000,
       "rank": 35,
@@ -355,6 +363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 349551,
+      "num": 167514,
+      "word": "张元英喝奶茶",
+      "onboard_time": 1769331079,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 340935,
       "num": 340935,
       "word": "曝猫的树手上现在全是现偶大项目",
@@ -420,7 +436,7 @@
     },
     {
       "raw_hot": 315023,
-      "num": 145003,
+      "num": 172110,
       "word": "穆祉丞高会评论区",
       "onboard_time": 1769327060,
       "rank": 12,
@@ -436,7 +452,7 @@
     },
     {
       "raw_hot": 304210,
-      "num": 143839,
+      "num": 172205,
       "word": "退脏衣服被拒骂哭商家女子道歉",
       "onboard_time": 1769325080,
       "rank": 33,
@@ -579,6 +595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 230629,
+      "num": 174188,
+      "word": "李亚鹏谈自己不再做演员的原因",
+      "onboard_time": 1769329759,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 227292,
       "num": 165709,
       "word": "张本美和获全日女单冠军",
@@ -643,6 +667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 199359,
+      "num": 199359,
+      "word": "多国加强监测应对印度疫情",
+      "onboard_time": 1769328799,
+      "rank": 41,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 198150,
       "num": 198150,
       "word": "U23",
@@ -691,8 +723,16 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 177160,
+      "num": 177160,
+      "word": "以为的淡妆vs实际上的淡妆",
+      "onboard_time": 1769330720,
+      "rank": 39,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 172443,
-      "num": 126397,
+      "num": 163348,
       "word": "高会L销号",
       "onboard_time": 1769330299,
       "rank": 23,
@@ -721,6 +761,14 @@
       "onboard_time": 1769313920,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 163737,
+      "num": 163737,
+      "word": "陈丽君自曝因干农活长冻疮",
+      "onboard_time": 1769331441,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 162416,
@@ -761,6 +809,22 @@
       "onboard_time": 1769310680,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 153094,
+      "num": 153094,
+      "word": "钎九",
+      "onboard_time": 1769332999,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 152612,
+      "num": 152612,
+      "word": "这是金瀚那他是谁",
+      "onboard_time": 1769331980,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 147187,
@@ -843,6 +907,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 136602,
+      "num": 170748,
+      "word": "过度独立 心理创伤",
+      "onboard_time": 1769331141,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 135422,
       "num": 135422,
       "word": "空气炸锅垫纸别非要挑大的买",
@@ -873,6 +945,22 @@
       "onboard_time": 1769308641,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129949,
+      "num": 176142,
+      "word": "可是妈妈张杰不是别的黄毛",
+      "onboard_time": 1769332519,
+      "rank": 8,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 129878,
+      "num": 129878,
+      "word": "易烊千玺4年前的表情包显化了",
+      "onboard_time": 1769332881,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 129627,
@@ -1049,14 +1137,6 @@
       "onboard_time": 1769313021,
       "rank": 25,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 112054,
-      "num": 112054,
-      "word": "李亚鹏谈自己不再做演员的原因",
-      "onboard_time": 1769329759,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 111318,
@@ -1299,6 +1379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 97167,
+      "num": 97167,
+      "word": "先吃烂苹果最后吃的全是烂苹果",
+      "onboard_time": 1769329941,
+      "rank": 27,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 96641,
       "num": 96641,
       "word": "景瓷 内娱电影圈00后打女上新",
@@ -1323,14 +1411,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 96032,
-      "num": 128665,
-      "word": "多国加强监测应对印度疫情",
-      "onboard_time": 1769328799,
-      "rank": 41,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 95763,
       "num": 121564,
       "word": "老虎在雪地睡觉把一片热化了",
@@ -1347,12 +1427,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 95099,
+      "num": 95099,
+      "word": "国乒19岁队员带来惊喜",
+      "onboard_time": 1769332098,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 94624,
       "num": 94624,
       "word": "睡眠小于6小时炎症和癌症风险双升高",
       "onboard_time": 1769297718,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 94620,
+      "num": 94620,
+      "word": "不考虑成本最爱吃的水果",
+      "onboard_time": 1769330000,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 94439,
@@ -1627,12 +1723,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 82148,
-      "num": 82148,
-      "word": "以为的淡妆vs实际上的淡妆",
-      "onboard_time": 1769330720,
-      "rank": 39,
-      "category": "美妆"
+      "raw_hot": 82179,
+      "num": 82179,
+      "word": "赵匡胤这里不让装监控",
+      "onboard_time": 1769331801,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 82168,
+      "num": 82168,
+      "word": "高允真韩剧95大爆花",
+      "onboard_time": 1769332881,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 82095,
+      "num": 75075,
+      "word": "何炅要为这件T恤办个演唱会",
+      "onboard_time": 1769331920,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 80966,
@@ -1681,14 +1793,6 @@
       "onboard_time": 1769308100,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 79144,
-      "num": 79144,
-      "word": "不考虑成本最爱吃的水果",
-      "onboard_time": 1769330000,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 79124,
@@ -1769,6 +1873,14 @@
       "onboard_time": 1769270185,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 76030,
+      "num": 76030,
+      "word": "真正的外耗型人格",
+      "onboard_time": 1769333180,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 75994,
@@ -1963,6 +2075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 68356,
+      "num": 68356,
+      "word": "身体的6个求救信号千万别忽视",
+      "onboard_time": 1769332819,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 67691,
       "num": 81432,
       "word": "刘宇宁直播",
@@ -2067,6 +2187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 57455,
+      "num": 75271,
+      "word": "张帅组合0比5落后连赢7局",
+      "onboard_time": 1769332580,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 57256,
       "num": 67053,
       "word": "詹俊解说",
@@ -2081,6 +2209,14 @@
       "onboard_time": 1769262501,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 55392,
+      "num": 60019,
+      "word": "罗斯为何戒糖了",
+      "onboard_time": 1769333360,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 55070,
@@ -2267,6 +2403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 37100,
+      "num": 626672,
+      "word": "又一轮雨雪天气来了",
+      "onboard_time": 1769311101,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37074,
       "num": 66973,
       "word": "亲爱的客栈众人送别白鹿",
@@ -2411,6 +2555,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 21073,
+      "num": 173185,
+      "word": "喵娲娲很高兴你也喜欢手搓",
+      "onboard_time": 1769331620,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 20903,
+      "num": 168044,
+      "word": "俄副外长说俄美关系正回归正常",
+      "onboard_time": 1769332939,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 20845,
       "num": 36092,
       "word": "白鹿录制亲爱的客栈",
@@ -2456,14 +2616,6 @@
       "word": "太空视角看神二十撤离好震撼",
       "onboard_time": 1769310020,
       "rank": 8,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 10555,
-      "num": 600720,
-      "word": "又一轮雨雪天气来了",
-      "onboard_time": 1769311101,
-      "rank": 2,
       "category": "民生新闻"
     },
     {
