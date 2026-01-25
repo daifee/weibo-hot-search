@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769308095601,
+  "endTime": 1769309243205,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -4195,6 +4195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 624729,
+      "num": 624729,
+      "word": "猫的树 升咖",
+      "onboard_time": 1769299520,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 623954,
       "num": 247553,
       "word": "马杜罗戴脚镣走下飞机",
@@ -4241,14 +4249,6 @@
       "onboard_time": 1768694538,
       "rank": 40,
       "category": "数码"
-    },
-    {
-      "raw_hot": 621162,
-      "num": 621162,
-      "word": "猫的树 升咖",
-      "onboard_time": 1769299520,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 619036,
@@ -9587,6 +9587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 402417,
+      "num": 236308,
+      "word": "周雨彤 观众缘",
+      "onboard_time": 1769297658,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 402017,
       "num": 271149,
       "word": "你以为的双胞胎vs实际上的双胞胎",
@@ -9665,14 +9673,6 @@
       "onboard_time": 1767796284,
       "rank": 6,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 400600,
-      "num": 236308,
-      "word": "周雨彤 观众缘",
-      "onboard_time": 1769297658,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 400438,
@@ -12121,6 +12121,14 @@
       "onboard_time": 1769075600,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 340935,
+      "num": 340935,
+      "word": "曝猫的树手上现在全是现偶大项目",
+      "onboard_time": 1769304920,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 340722,
@@ -19713,6 +19721,14 @@
       "onboard_time": 1769089041,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 221415,
+      "num": 136926,
+      "word": "angelababy能打破花少单双季魔咒吗",
+      "onboard_time": 1769306660,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 221376,
@@ -28819,14 +28835,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 161445,
-      "num": 161445,
-      "word": "曝猫的树手上现在全是现偶大项目",
-      "onboard_time": 1769304920,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 161413,
       "num": 161413,
       "word": "中国科学家发现基因封条",
@@ -29465,6 +29473,14 @@
       "onboard_time": 1768563380,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 158495,
+      "num": 117356,
+      "word": "谢娜嘴上不理解脸上哭唧唧",
+      "onboard_time": 1769308821,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 158443,
@@ -30595,6 +30611,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 152863,
+      "num": 117060,
+      "word": "陈百祥谈老婆不能生育的原因",
+      "onboard_time": 1769307620,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 152843,
       "num": 1022868,
       "word": "海军052D型导弹驱逐舰又上新",
@@ -30665,14 +30689,6 @@
       "onboard_time": 1768199241,
       "rank": 24,
       "category": "电影"
-    },
-    {
-      "raw_hot": 152569,
-      "num": 129131,
-      "word": "angelababy能打破花少单双季魔咒吗",
-      "onboard_time": 1769306660,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 152558,
@@ -32129,6 +32145,14 @@
       "onboard_time": 1768452741,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 146515,
+      "num": 116776,
+      "word": "2026央视春晚第二次联排",
+      "onboard_time": 1769308761,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 146510,
@@ -36107,6 +36131,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 132794,
+      "num": 132794,
+      "word": "李昊说没有拿到冠军最遗憾",
+      "onboard_time": 1769308641,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132783,
       "num": 132783,
       "word": "黑色马蹄莲卖爆了",
@@ -38995,6 +39027,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 123991,
+      "num": 122281,
+      "word": "时代少年团挪威",
+      "onboard_time": 1769302640,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 123968,
       "num": 135731,
       "word": "美国掀起争当中国人热潮",
@@ -39641,14 +39681,6 @@
       "onboard_time": 1768395800,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 122281,
-      "num": 122281,
-      "word": "时代少年团挪威",
-      "onboard_time": 1769302640,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 122271,
@@ -42195,6 +42227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 116018,
+      "num": 116018,
+      "word": "牢A最新直播",
+      "onboard_time": 1769308340,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115992,
       "num": 204979,
       "word": "杨紫生命树敬礼转场",
@@ -42465,6 +42505,14 @@
       "onboard_time": 1768033701,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 115455,
+      "num": 115455,
+      "word": "第一次见这么真实的托孤",
+      "onboard_time": 1769308519,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 115427,
@@ -48355,14 +48403,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 103044,
-      "num": 103044,
-      "word": "陈百祥谈老婆不能生育的原因",
-      "onboard_time": 1769307620,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 102970,
       "num": 72086,
       "word": "鞠婧祎断更",
@@ -48432,6 +48472,14 @@
       "word": "伊朗全境已恢复互联网服务",
       "onboard_time": 1768630880,
       "rank": 32,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 102844,
+      "num": 242013,
+      "word": "美或出售5000万桶委内瑞拉原油",
+      "onboard_time": 1769307500,
+      "rank": 9,
       "category": "国际时政"
     },
     {
@@ -49425,6 +49473,14 @@
       "onboard_time": 1769148439,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100929,
+      "num": 100929,
+      "word": "猫的树的男女主衣服从来没丑过",
+      "onboard_time": 1769307861,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 100917,
@@ -53427,6 +53483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94624,
+      "num": 94624,
+      "word": "睡眠小于6小时炎症和癌症风险双升高",
+      "onboard_time": 1769297718,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 94618,
       "num": 94618,
       "word": "马龙时尚表现力纯享版",
@@ -55233,14 +55297,6 @@
       "onboard_time": 1767940822,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 91954,
-      "num": 91954,
-      "word": "睡眠小于6小时炎症和癌症风险双升高",
-      "onboard_time": 1769297718,
-      "rank": 22,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 91936,
@@ -57307,6 +57363,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 88607,
+      "num": 88607,
+      "word": "白鹿酒店管理我是专业的",
+      "onboard_time": 1769308222,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 88605,
       "num": 87752,
       "word": "终于有剧拍了最燃的那30年",
@@ -59153,6 +59217,14 @@
       "onboard_time": 1769267665,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86148,
+      "num": 85724,
+      "word": "猫的树12部核心作品",
+      "onboard_time": 1769309059,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 86147,
@@ -63003,6 +63075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 79844,
+      "num": 79844,
+      "word": "海霞哽咽回应担任河南大学学术副校长",
+      "onboard_time": 1769308100,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 79812,
       "num": 79812,
       "word": "杨瀚森7分钟3篮板",
@@ -63729,6 +63809,14 @@
       "onboard_time": 1768462401,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 78483,
+      "num": 78483,
+      "word": "曾黎复刻40年前老照片",
+      "onboard_time": 1769309000,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 78435,
@@ -65851,6 +65939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 73893,
+      "num": 73893,
+      "word": "lgdnbw对战DYG",
+      "onboard_time": 1769308879,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 73876,
       "num": 73876,
       "word": "居然有人能把我的感受完美描述出来",
@@ -66747,12 +66843,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 71347,
-      "num": 71347,
-      "word": "猫的树的男女主衣服从来没丑过",
-      "onboard_time": 1769307861,
-      "rank": 45,
-      "category": "剧集"
+      "raw_hot": 71372,
+      "num": 71372,
+      "word": "无法翻译成普通话的粤语",
+      "onboard_time": 1769309120,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 71325,
@@ -68953,14 +69049,6 @@
       "onboard_time": 1769307980,
       "rank": 47,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 64610,
-      "num": 242013,
-      "word": "美或出售5000万桶委内瑞拉原油",
-      "onboard_time": 1769307500,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 64551,
@@ -77395,6 +77483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 29866,
+      "num": 1464542,
+      "word": "奋进中国",
+      "onboard_time": 1769258901,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29864,
       "num": 90914,
       "word": "夏威夷果价格便宜近40%",
@@ -79480,14 +79576,6 @@
       "word": "县公安局原副局长举报信访局局长",
       "onboard_time": 1769070860,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 21893,
-      "num": 1464542,
-      "word": "奋进中国",
-      "onboard_time": 1769258901,
-      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -81635,6 +81723,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 11641,
+      "num": 117570,
+      "word": "中方营救菲律宾船员后遭反咬一口",
+      "onboard_time": 1769308879,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 11639,
       "num": 25380,
       "word": "苏新皓超话达成钻三成就",
@@ -82221,6 +82317,9 @@
     },
     {
       "word": "#总书记的12次开年第一课#"
+    },
+    {
+      "word": "#一步一步坚定走#"
     }
   ]
 }

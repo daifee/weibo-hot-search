@@ -1,0 +1,410 @@
+{
+  "runTime": 1769309243205,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 829264,
+        "num": 1132682,
+        "word": "U23国足0比4日本队",
+        "onboard_time": 1769274381,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 601025,
+        "num": 809143,
+        "word": "印度男子倒奶入河避开接奶贫困儿童",
+        "onboard_time": 1769304440,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 29866,
+        "num": 658965,
+        "word": "奋进中国",
+        "onboard_time": 1769258901,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 624729,
+        "num": 624729,
+        "word": "猫的树 升咖",
+        "onboard_time": 1769299520,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 471217,
+        "num": 471217,
+        "word": "U23国足vs日本",
+        "onboard_time": 1769265382,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 437209,
+        "num": 437209,
+        "word": "檀健次卢昱晓新剧开机照",
+        "onboard_time": 1769305222,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 379291,
+        "num": 379291,
+        "word": "买1块银砖3个月赚26万",
+        "onboard_time": 1769306660,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 340935,
+        "num": 340935,
+        "word": "曝猫的树手上现在全是现偶大项目",
+        "onboard_time": 1769304920,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 234474,
+        "num": 234474,
+        "word": "U23国足球员向球迷致歉",
+        "onboard_time": 1769297837,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143556,
+        "num": 143556,
+        "word": "李昊无缘最佳门将",
+        "onboard_time": 1769275578,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 406573,
+        "num": 143274,
+        "word": "造谣王玉雯涉事人员已被开除",
+        "onboard_time": 1769303179,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 402417,
+        "num": 140610,
+        "word": "周雨彤 观众缘",
+        "onboard_time": 1769297658,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 297924,
+        "num": 140284,
+        "word": "外媒曝贝克汉姆家庭矛盾原因",
+        "onboard_time": 1769298438,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 256064,
+        "num": 138171,
+        "word": "何不同舟渡",
+        "onboard_time": 1769259921,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221415,
+        "num": 136926,
+        "word": "angelababy能打破花少单双季魔咒吗",
+        "onboard_time": 1769306660,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174268,
+        "num": 135696,
+        "word": "iPhone长截屏的3种方式",
+        "onboard_time": 1769303001,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 165821,
+        "num": 133501,
+        "word": "林允 速效救心丸",
+        "onboard_time": 1769260942,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132794,
+        "num": 132794,
+        "word": "李昊说没有拿到冠军最遗憾",
+        "onboard_time": 1769308641,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117976,
+        "num": 117976,
+        "word": "国家体育总局向U23国足致贺信",
+        "onboard_time": 1769297297,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102844,
+        "num": 117964,
+        "word": "美或出售5000万桶委内瑞拉原油",
+        "onboard_time": 1769307500,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 178480,
+        "num": 117623,
+        "word": "夜市偶遇虞书欣",
+        "onboard_time": 1769302882,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 11641,
+        "num": 117570,
+        "word": "中方营救菲律宾船员后遭反咬一口",
+        "onboard_time": 1769308879,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 158495,
+        "num": 117356,
+        "word": "谢娜嘴上不理解脸上哭唧唧",
+        "onboard_time": 1769308821,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152863,
+        "num": 117060,
+        "word": "陈百祥谈老婆不能生育的原因",
+        "onboard_time": 1769307620,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135491,
+        "num": 116901,
+        "word": "假肢舞者廖智第四胎女儿出生",
+        "onboard_time": 1769306660,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146515,
+        "num": 116776,
+        "word": "2026央视春晚第二次联排",
+        "onboard_time": 1769308761,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132158,
+        "num": 116448,
+        "word": "好睡眠的4个黄金标准",
+        "onboard_time": 1769299879,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 131458,
+        "num": 116321,
+        "word": "林允方报平安",
+        "onboard_time": 1769305340,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123991,
+        "num": 116149,
+        "word": "时代少年团挪威",
+        "onboard_time": 1769302640,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116018,
+        "num": 116018,
+        "word": "牢A最新直播",
+        "onboard_time": 1769308340,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115455,
+        "num": 115455,
+        "word": "第一次见这么真实的托孤",
+        "onboard_time": 1769308519,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108604,
+        "num": 108604,
+        "word": "白鹿谈身体状况",
+        "onboard_time": 1769304201,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96256,
+        "num": 106761,
+        "word": "女教师校内宿舍病亡两天后被发现",
+        "onboard_time": 1769264362,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105723,
+        "num": 105723,
+        "word": "被劝退歌手拿了全场最高分",
+        "onboard_time": 1769297777,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100929,
+        "num": 100929,
+        "word": "猫的树的男女主衣服从来没丑过",
+        "onboard_time": 1769307861,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87436,
+        "num": 96973,
+        "word": "原来滑雪也可以这么有仪式感",
+        "onboard_time": 1769307620,
+        "rank": 35,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 94624,
+        "num": 94624,
+        "word": "睡眠小于6小时炎症和癌症风险双升高",
+        "onboard_time": 1769297718,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 88607,
+        "num": 88607,
+        "word": "白鹿酒店管理我是专业的",
+        "onboard_time": 1769308222,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88148,
+        "num": 88148,
+        "word": "解放军演练实弹打爆敌机画面",
+        "onboard_time": 1769305580,
+        "rank": 38,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 85884,
+        "num": 85884,
+        "word": "女孩出生4天面容受损5年求医终修复",
+        "onboard_time": 1769298617,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86148,
+        "num": 85724,
+        "word": "猫的树12部核心作品",
+        "onboard_time": 1769309059,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85053,
+        "num": 85053,
+        "word": "40岁男子吃鱼生后胆管爬满虫子",
+        "onboard_time": 1769266882,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82736,
+        "num": 82736,
+        "word": "为什么江浙沪吃的都很清淡",
+        "onboard_time": 1769296996,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 80794,
+        "num": 80794,
+        "word": "他和贞娘有了真感情",
+        "onboard_time": 1769301199,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 79844,
+        "num": 79844,
+        "word": "海霞哽咽回应担任河南大学学术副校长",
+        "onboard_time": 1769308100,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78483,
+        "num": 78483,
+        "word": "曾黎复刻40年前老照片",
+        "onboard_time": 1769309000,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73893,
+        "num": 73893,
+        "word": "lgdnbw对战DYG",
+        "onboard_time": 1769308879,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 73739,
+        "num": 73739,
+        "word": "成都通报小学强制教师参与年会表演",
+        "onboard_time": 1769304440,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71372,
+        "num": 71372,
+        "word": "无法翻译成普通话的粤语",
+        "onboard_time": 1769309120,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 69171,
+        "num": 69171,
+        "word": "晚安代表暧昧 言语霸凌",
+        "onboard_time": 1769300000,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#一步一步坚定走#"
+    }
+  }
+}

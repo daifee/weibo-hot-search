@@ -1,6 +1,6 @@
 {
   "startTime": 1769272464158,
-  "endTime": 1769308095601,
+  "endTime": 1769309243205,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -83,8 +83,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 621162,
-      "num": 621162,
+      "raw_hot": 624729,
+      "num": 624729,
       "word": "猫的树 升咖",
       "onboard_time": 1769299520,
       "rank": 3,
@@ -147,7 +147,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 400600,
+      "raw_hot": 402417,
       "num": 236308,
       "word": "周雨彤 观众缘",
       "onboard_time": 1769297658,
@@ -177,6 +177,14 @@
       "onboard_time": 1769271983,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 340935,
+      "num": 340935,
+      "word": "曝猫的树手上现在全是现偶大项目",
+      "onboard_time": 1769304920,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 332785,
@@ -259,20 +267,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 256064,
+      "num": 242674,
+      "word": "何不同舟渡",
+      "onboard_time": 1769259921,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 247751,
       "num": 247751,
       "word": "拜合拉木 上不了",
       "onboard_time": 1769271683,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 242674,
-      "num": 242674,
-      "word": "何不同舟渡",
-      "onboard_time": 1769259921,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 232405,
@@ -297,6 +305,14 @@
       "onboard_time": 1769263582,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 221415,
+      "num": 136926,
+      "word": "angelababy能打破花少单双季魔咒吗",
+      "onboard_time": 1769306660,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 213505,
@@ -347,14 +363,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 161445,
-      "num": 161445,
-      "word": "曝猫的树手上现在全是现偶大项目",
-      "onboard_time": 1769304920,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 160442,
       "num": 133729,
       "word": "假肢舞者廖智第四胎女儿出生",
@@ -363,12 +371,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 152569,
-      "num": 129131,
-      "word": "angelababy能打破花少单双季魔咒吗",
-      "onboard_time": 1769306660,
-      "rank": 23,
+      "raw_hot": 158495,
+      "num": 117356,
+      "word": "谢娜嘴上不理解脸上哭唧唧",
+      "onboard_time": 1769308821,
+      "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 152863,
+      "num": 117060,
+      "word": "陈百祥谈老婆不能生育的原因",
+      "onboard_time": 1769307620,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 147187,
@@ -376,6 +392,14 @@
       "word": "被劝退歌手拿了全场最高分",
       "onboard_time": 1769297777,
       "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 146515,
+      "num": 116776,
+      "word": "2026央视春晚第二次联排",
+      "onboard_time": 1769308761,
+      "rank": 25,
       "category": "综艺"
     },
     {
@@ -435,6 +459,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 132794,
+      "num": 132794,
+      "word": "李昊说没有拿到冠军最遗憾",
+      "onboard_time": 1769308641,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 129627,
       "num": 54200,
       "word": "中国对日本提出越来越高的惩戒",
@@ -451,20 +483,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 123991,
+      "num": 122281,
+      "word": "时代少年团挪威",
+      "onboard_time": 1769302640,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 122539,
       "num": 124793,
       "word": "太平年",
       "onboard_time": 1769260701,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 122281,
-      "num": 122281,
-      "word": "时代少年团挪威",
-      "onboard_time": 1769302640,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 119082,
@@ -480,6 +512,22 @@
       "word": "太平年改了台词",
       "onboard_time": 1769269827,
       "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 116018,
+      "num": 116018,
+      "word": "牢A最新直播",
+      "onboard_time": 1769308340,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115455,
+      "num": 115455,
+      "word": "第一次见这么真实的托孤",
+      "onboard_time": 1769308519,
+      "rank": 30,
       "category": "剧集"
     },
     {
@@ -499,12 +547,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 103044,
-      "num": 103044,
-      "word": "陈百祥谈老婆不能生育的原因",
-      "onboard_time": 1769307620,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 102844,
+      "num": 242013,
+      "word": "美或出售5000万桶委内瑞拉原油",
+      "onboard_time": 1769307500,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 102124,
@@ -531,6 +579,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 100929,
+      "num": 100929,
+      "word": "猫的树的男女主衣服从来没丑过",
+      "onboard_time": 1769307861,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 99611,
       "num": 122827,
       "word": "半场u23国足2次射门1次射正",
@@ -553,6 +609,14 @@
       "onboard_time": 1769296996,
       "rank": 22,
       "category": "美食"
+    },
+    {
+      "raw_hot": 94624,
+      "num": 94624,
+      "word": "睡眠小于6小时炎症和癌症风险双升高",
+      "onboard_time": 1769297718,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 94066,
@@ -595,14 +659,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 91954,
-      "num": 91954,
-      "word": "睡眠小于6小时炎症和癌症风险双升高",
-      "onboard_time": 1769297718,
-      "rank": 22,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 91800,
       "num": 121336,
       "word": "隋文静韩聪亚军",
@@ -625,6 +681,22 @@
       "onboard_time": 1769305459,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 88607,
+      "num": 88607,
+      "word": "白鹿酒店管理我是专业的",
+      "onboard_time": 1769308222,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 86148,
+      "num": 85724,
+      "word": "猫的树12部核心作品",
+      "onboard_time": 1769309059,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 85419,
@@ -689,6 +761,22 @@
       "onboard_time": 1769300000,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 79844,
+      "num": 79844,
+      "word": "海霞哽咽回应担任河南大学学术副校长",
+      "onboard_time": 1769308100,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 78483,
+      "num": 78483,
+      "word": "曾黎复刻40年前老照片",
+      "onboard_time": 1769309000,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 78053,
@@ -763,6 +851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 73893,
+      "num": 73893,
+      "word": "lgdnbw对战DYG",
+      "onboard_time": 1769308879,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 72832,
       "num": 81435,
       "word": "张杰演唱会有常驻观众了",
@@ -779,12 +875,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 71347,
-      "num": 71347,
-      "word": "猫的树的男女主衣服从来没丑过",
-      "onboard_time": 1769307861,
-      "rank": 45,
-      "category": "剧集"
+      "raw_hot": 71372,
+      "num": 71372,
+      "word": "无法翻译成普通话的粤语",
+      "onboard_time": 1769309120,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 69952,
@@ -833,14 +929,6 @@
       "onboard_time": 1769307980,
       "rank": 47,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 64610,
-      "num": 242013,
-      "word": "美或出售5000万桶委内瑞拉原油",
-      "onboard_time": 1769307500,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 64553,
@@ -1043,6 +1131,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 29866,
+      "num": 1464542,
+      "word": "奋进中国",
+      "onboard_time": 1769258901,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27944,
       "num": 36276,
       "word": "U23男足亚洲杯亚军",
@@ -1083,14 +1179,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 21893,
-      "num": 1464542,
-      "word": "奋进中国",
-      "onboard_time": 1769258901,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 20845,
       "num": 36092,
       "word": "白鹿录制亲爱的客栈",
@@ -1129,11 +1217,22 @@
       "onboard_time": 1769285715,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 11641,
+      "num": 117570,
+      "word": "中方营救菲律宾船员后遭反咬一口",
+      "onboard_time": 1769308879,
+      "rank": 21,
+      "category": "国际时政"
     }
   ],
   "hotgov_list": [
     {
       "word": "#总书记的12次开年第一课#"
+    },
+    {
+      "word": "#一步一步坚定走#"
     }
   ]
 }
