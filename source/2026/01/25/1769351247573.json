@@ -1,0 +1,410 @@
+{
+  "runTime": 1769351247573,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 460631,
+        "num": 1073701,
+        "word": "羽绒服这样洗可能会爆炸",
+        "onboard_time": 1769342060,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 345766,
+        "num": 791351,
+        "word": "印度一邦暴发疫情",
+        "onboard_time": 1769334739,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 32950,
+        "num": 600588,
+        "word": "彩灯一亮年味就有了",
+        "onboard_time": 1769345602,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 381874,
+        "num": 381874,
+        "word": "何炅周考上岸",
+        "onboard_time": 1769346623,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 267009,
+        "num": 267009,
+        "word": "建议喜糖都按这个标准来",
+        "onboard_time": 1769335160,
+        "rank": 4,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 245078,
+        "num": 245078,
+        "word": "江西唇腭裂女童引全网关注",
+        "onboard_time": 1769332161,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 225115,
+        "num": 225115,
+        "word": "炽热吸引",
+        "onboard_time": 1769349323,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190331,
+        "num": 190331,
+        "word": "双胞胎吵架差点把爷爷奶奶吵离婚",
+        "onboard_time": 1769343800,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 172865,
+        "num": 172865,
+        "word": "以为张凌赫又来走秀了",
+        "onboard_time": 1769344701,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153263,
+        "num": 153263,
+        "word": "台湾民众说我们是台湾人也是中国人",
+        "onboard_time": 1769339540,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2443906,
+        "num": 150059,
+        "word": "前女友实名举报何健麒涉毒",
+        "onboard_time": 1769345120,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1157600,
+        "num": 146375,
+        "word": "乔任梁父亲回忆儿子出事当天",
+        "onboard_time": 1769348544,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162597,
+        "num": 142188,
+        "word": "胡锡进就牢A斩杀线发评论",
+        "onboard_time": 1769341221,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 507431,
+        "num": 138059,
+        "word": "黄景瑜未来两年将大幅减少工作",
+        "onboard_time": 1769345902,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245128,
+        "num": 133107,
+        "word": "微博之夜",
+        "onboard_time": 1769344401,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 131941,
+        "num": 131941,
+        "word": "姑娘连吃半年利尿剂被送进急诊",
+        "onboard_time": 1769336900,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126384,
+        "num": 126384,
+        "word": "格陵兰岛首府全城一片漆黑",
+        "onboard_time": 1769341221,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 102847,
+        "num": 126119,
+        "word": "AG对战情久",
+        "onboard_time": 1769347283,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 87049,
+        "num": 125883,
+        "word": "美国ICE行刑式处决",
+        "onboard_time": 1769348721,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 81649,
+        "num": 125661,
+        "word": "何炅说沈梦辰今天美到值得上热搜",
+        "onboard_time": 1769350644,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1516621,
+        "num": 125167,
+        "word": "何健麒 造谣你都得有个谱啊",
+        "onboard_time": 1769348181,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150893,
+        "num": 125035,
+        "word": "建议优先睡好这4个小时",
+        "onboard_time": 1769348544,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 946459,
+        "num": 124820,
+        "word": "woojin 塌房",
+        "onboard_time": 1769344641,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258364,
+        "num": 124483,
+        "word": "张元英说她是安宥真女朋友",
+        "onboard_time": 1769340081,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145843,
+        "num": 123987,
+        "word": "女子怀孕收男友15万彩礼后不和要退婚",
+        "onboard_time": 1769342481,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175093,
+        "num": 123707,
+        "word": "内娱你再不努力就要被短剧打败了",
+        "onboard_time": 1769350282,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162037,
+        "num": 123431,
+        "word": "春晚",
+        "onboard_time": 1769346021,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123333,
+        "num": 123333,
+        "word": "原来他才是牢A",
+        "onboard_time": 1769337441,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150125,
+        "num": 123098,
+        "word": "代旭千字长文告别裴轸",
+        "onboard_time": 1769344221,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132388,
+        "num": 122297,
+        "word": "声鸣远扬总决赛",
+        "onboard_time": 1769345542,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258000,
+        "num": 122222,
+        "word": "外网热议华裔二代破防了",
+        "onboard_time": 1769350222,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 121289,
+        "num": 121289,
+        "word": "被斩杀的美国人民",
+        "onboard_time": 1769349023,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 119311,
+        "num": 119311,
+        "word": "女神蒙上眼原配手摘小三子宫",
+        "onboard_time": 1769340320,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118217,
+        "num": 118217,
+        "word": "金价",
+        "onboard_time": 1769320160,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 117430,
+        "num": 117430,
+        "word": "两种水果很适合冬天热着吃",
+        "onboard_time": 1769344641,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 113522,
+        "num": 113522,
+        "word": "沈佳润找好自己的赛道",
+        "onboard_time": 1769343260,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108668,
+        "num": 108668,
+        "word": "宋威龙下班拍成现偶了",
+        "onboard_time": 1769350462,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85659,
+        "num": 107446,
+        "word": "国投白银LOF将临时停牌",
+        "onboard_time": 1769348663,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 70772,
+        "num": 107051,
+        "word": "40岁假肢妈妈廖智说生四胎很幸运",
+        "onboard_time": 1769350644,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19636,
+        "num": 106841,
+        "word": "江西唇腭裂女童6岁才20斤",
+        "onboard_time": 1769350824,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106832,
+        "num": 106832,
+        "word": "檀健次发开机照",
+        "onboard_time": 1769350403,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102614,
+        "num": 102614,
+        "word": "白鹿春晚联排公主头造型",
+        "onboard_time": 1769337622,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82533,
+        "num": 100655,
+        "word": "被丈夫和闺蜜背叛女子回应白头",
+        "onboard_time": 1769350161,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100479,
+        "num": 100479,
+        "word": "太平年",
+        "onboard_time": 1769346682,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88968,
+        "num": 88968,
+        "word": "父亲说乔任梁曾长期失眠",
+        "onboard_time": 1769350581,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62372,
+        "num": 88523,
+        "word": "美政府或将再次停摆",
+        "onboard_time": 1769349624,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 88459,
+        "num": 88459,
+        "word": "孔雪儿你让我有点不得劲",
+        "onboard_time": 1769345662,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85863,
+        "num": 85863,
+        "word": "白鹿李昀锐又演上小节目了",
+        "onboard_time": 1769350042,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81543,
+        "num": 81543,
+        "word": "李玮锋说王钰栋太飘了",
+        "onboard_time": 1769349803,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84323,
+        "num": 81330,
+        "word": "woojin tory",
+        "onboard_time": 1769349983,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#生活好一个很重要的内涵是生态#"
+    }
+  }
+}

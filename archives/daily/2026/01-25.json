@@ -1,6 +1,6 @@
 {
   "startTime": 1769272464158,
-  "endTime": 1769349048462,
+  "endTime": 1769351247573,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -35,11 +35,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1516621,
+      "num": 171857,
+      "word": "何健麒 造谣你都得有个谱啊",
+      "onboard_time": 1769348181,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1279260,
       "num": 169152,
       "word": "woojin 塌房",
       "onboard_time": 1769344641,
       "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1157600,
+      "num": 174566,
+      "word": "乔任梁父亲回忆儿子出事当天",
+      "onboard_time": 1769348544,
+      "rank": 13,
       "category": "艺人"
     },
     {
@@ -57,14 +73,6 @@
       "onboard_time": 1769270426,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 971892,
-      "num": 171857,
-      "word": "何健麒 造谣你都得有个谱啊",
-      "onboard_time": 1769348181,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 955627,
@@ -459,6 +467,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 381874,
+      "num": 381874,
+      "word": "何炅周考上岸",
+      "onboard_time": 1769346623,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 380448,
       "num": 380448,
       "word": "买1块银砖3个月赚26万",
@@ -611,14 +627,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 310699,
-      "num": 174566,
-      "word": "乔任梁父亲回忆儿子出事当天",
-      "onboard_time": 1769348544,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 304210,
       "num": 234572,
       "word": "退脏衣服被拒骂哭商家女子道歉",
@@ -657,14 +665,6 @@
       "onboard_time": 1769340320,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 282367,
-      "num": 282367,
-      "word": "何炅周考上岸",
-      "onboard_time": 1769346623,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 278025,
@@ -761,6 +761,14 @@
       "onboard_time": 1769315121,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 258000,
+      "num": 122222,
+      "word": "外网热议华裔二代破防了",
+      "onboard_time": 1769350222,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 256527,
@@ -889,6 +897,14 @@
       "onboard_time": 1769327600,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 225115,
+      "num": 225115,
+      "word": "炽热吸引",
+      "onboard_time": 1769349323,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 222876,
@@ -1049,6 +1065,14 @@
       "onboard_time": 1769332881,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 175093,
+      "num": 123707,
+      "word": "内娱你再不努力就要被短剧打败了",
+      "onboard_time": 1769350282,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 172443,
@@ -1219,6 +1243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 150893,
+      "num": 146347,
+      "word": "建议优先睡好这4个小时",
+      "onboard_time": 1769348544,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 148568,
       "num": 138723,
       "word": "易烊千玺十年前的愿望实现了",
@@ -1233,14 +1265,6 @@
       "onboard_time": 1769297777,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 146347,
-      "num": 146347,
-      "word": "建议优先睡好这4个小时",
-      "onboard_time": 1769348544,
-      "rank": 28,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 146181,
@@ -1395,6 +1419,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 132388,
+      "num": 122297,
+      "word": "声鸣远扬总决赛",
+      "onboard_time": 1769345542,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 129964,
       "num": 129964,
       "word": "黎深引导型爱人",
@@ -1491,6 +1523,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 121289,
+      "num": 121289,
+      "word": "被斩杀的美国人民",
+      "onboard_time": 1769349023,
+      "rank": 48,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 121042,
       "num": 121042,
       "word": "中方营救菲律宾船员后遭反咬一口",
@@ -1521,14 +1561,6 @@
       "onboard_time": 1769304201,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 118808,
-      "num": 118808,
-      "word": "声鸣远扬总决赛",
-      "onboard_time": 1769345542,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 117603,
@@ -1636,7 +1668,7 @@
     },
     {
       "raw_hot": 109423,
-      "num": 109423,
+      "num": 126119,
       "word": "AG对战情久",
       "onboard_time": 1769347283,
       "rank": 37,
@@ -1665,6 +1697,14 @@
       "onboard_time": 1769339720,
       "rank": 41,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 108668,
+      "num": 108668,
+      "word": "宋威龙下班拍成现偶了",
+      "onboard_time": 1769350462,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 108511,
@@ -1696,6 +1736,14 @@
       "word": "张子枫新剧葬礼后迎来新生",
       "onboard_time": 1769322499,
       "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 106832,
+      "num": 106832,
+      "word": "檀健次发开机照",
+      "onboard_time": 1769350403,
+      "rank": 40,
       "category": "剧集"
     },
     {
@@ -2187,6 +2235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 88968,
+      "num": 88968,
+      "word": "父亲说乔任梁曾长期失眠",
+      "onboard_time": 1769350581,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 88607,
       "num": 88607,
       "word": "白鹿酒店管理我是专业的",
@@ -2235,6 +2291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 87049,
+      "num": 125883,
+      "word": "美国ICE行刑式处决",
+      "onboard_time": 1769348721,
+      "rank": 45,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 86681,
       "num": 86681,
       "word": "王珞丹淡颜的含金量还在上升",
@@ -2267,12 +2331,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 85863,
+      "num": 85863,
+      "word": "白鹿李昀锐又演上小节目了",
+      "onboard_time": 1769350042,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 85745,
       "num": 85745,
       "word": "美国男子被ICE先缴械后击毙",
       "onboard_time": 1769313140,
       "rank": 43,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 85659,
+      "num": 107446,
+      "word": "国投白银LOF将临时停牌",
+      "onboard_time": 1769348663,
+      "rank": 37,
+      "category": "财经"
     },
     {
       "raw_hot": 85601,
@@ -2339,6 +2419,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 84323,
+      "num": 81330,
+      "word": "woojin tory",
+      "onboard_time": 1769349983,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 83593,
       "num": 83593,
       "word": "拜合拉木发烧39度",
@@ -2379,12 +2467,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 82484,
-      "num": 82484,
-      "word": "美国ICE行刑式处决",
-      "onboard_time": 1769348721,
-      "rank": 45,
-      "category": "海外新闻"
+      "raw_hot": 82533,
+      "num": 100655,
+      "word": "被丈夫和闺蜜背叛女子回应白头",
+      "onboard_time": 1769350161,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 82179,
@@ -2409,6 +2497,22 @@
       "onboard_time": 1769331920,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 81649,
+      "num": 125661,
+      "word": "何炅说沈梦辰今天美到值得上热搜",
+      "onboard_time": 1769350644,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 81543,
+      "num": 81543,
+      "word": "李玮锋说王钰栋太飘了",
+      "onboard_time": 1769349803,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 80966,
@@ -2585,14 +2689,6 @@
       "onboard_time": 1769323639,
       "rank": 43,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 75898,
-      "num": 75898,
-      "word": "被斩杀的美国人民",
-      "onboard_time": 1769349023,
-      "rank": 48,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 75843,
@@ -2795,6 +2891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 70772,
+      "num": 107051,
+      "word": "40岁假肢妈妈廖智说生四胎很幸运",
+      "onboard_time": 1769350644,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 70567,
       "num": 107934,
       "word": "范志毅谈U23国足不敌日本",
@@ -2937,6 +3041,14 @@
       "onboard_time": 1769275877,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 62372,
+      "num": 88523,
+      "word": "美政府或将再次停摆",
+      "onboard_time": 1769349624,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 62011,
@@ -3441,6 +3553,14 @@
       "onboard_time": 1769278695,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 19636,
+      "num": 106841,
+      "word": "江西唇腭裂女童6岁才20斤",
+      "onboard_time": 1769350824,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18117,
