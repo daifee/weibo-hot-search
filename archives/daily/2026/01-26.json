@@ -1,6 +1,6 @@
 {
   "startTime": 1769358907478,
-  "endTime": 1769376441019,
+  "endTime": 1769377303948,
   "band_list": [
     {
       "raw_hot": 1023500,
@@ -467,6 +467,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 25688,
+      "num": 85073,
+      "word": "被斩杀的美国人民",
+      "onboard_time": 1769349023,
+      "rank": 46,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 22614,
       "num": 482029,
       "word": "彩灯一亮年味就有了",
@@ -475,20 +483,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 21671,
-      "num": 85073,
-      "word": "被斩杀的美国人民",
-      "onboard_time": 1769349023,
-      "rank": 46,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 17674,
       "num": 48769,
       "word": "张杰新春场唱了好多遗珠",
       "onboard_time": 1769364975,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 15981,
+      "num": 20381,
+      "word": "小城大事",
+      "onboard_time": 1769342060,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 13176,
