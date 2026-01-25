@@ -1,0 +1,410 @@
+{
+  "runTime": 1769323347201,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 658674,
+        "num": 1105387,
+        "word": "癌症晚期老人出售30年前买的黄金",
+        "onboard_time": 1769318180,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 333040,
+        "num": 827444,
+        "word": "永辉学习胖东来结果每天亏600万",
+        "onboard_time": 1769319199,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40564,
+        "num": 624691,
+        "word": "我的工位在大海上方178米",
+        "onboard_time": 1769310020,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 465840,
+        "num": 465840,
+        "word": "范志毅说这样输球我能接受",
+        "onboard_time": 1769320639,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 407204,
+        "num": 463813,
+        "word": "被雪豹咬伤女游客否认跟雪豹拍照",
+        "onboard_time": 1769315300,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 463364,
+        "num": 463364,
+        "word": "王鹤棣当黄子韬面说徐艺洋不好看",
+        "onboard_time": 1769317160,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 424667,
+        "num": 424667,
+        "word": "不发朋友圈vs不看朋友圈",
+        "onboard_time": 1769313800,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 282896,
+        "num": 282896,
+        "word": "金价波动",
+        "onboard_time": 1769316500,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 180041,
+        "num": 180041,
+        "word": "外国游客被东北厕所折服的一天",
+        "onboard_time": 1769316741,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160044,
+        "num": 160044,
+        "word": "猫的树 升咖",
+        "onboard_time": 1769299520,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 635685,
+        "num": 159761,
+        "word": "金价",
+        "onboard_time": 1769320160,
+        "rank": 10,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 380206,
+        "num": 155722,
+        "word": "王橹杰高会",
+        "onboard_time": 1769320940,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 326583,
+        "num": 154768,
+        "word": "张凌赫 兰蔻",
+        "onboard_time": 1769315239,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272656,
+        "num": 150014,
+        "word": "买童装退货辱骂商家女子离职",
+        "onboard_time": 1769320639,
+        "rank": 13,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 212212,
+        "num": 149534,
+        "word": "彭小苒 祝你天天加班",
+        "onboard_time": 1769311459,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199978,
+        "num": 147067,
+        "word": "男子借钱付彩礼被女方告强奸",
+        "onboard_time": 1769319980,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195341,
+        "num": 143878,
+        "word": "叶祖新惊喜主演何不同舟渡",
+        "onboard_time": 1769317400,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178406,
+        "num": 141681,
+        "word": "以为是情郎结果是色郎",
+        "onboard_time": 1769317220,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139902,
+        "num": 139902,
+        "word": "谁能管管现在的商场厕所",
+        "onboard_time": 1769311400,
+        "rank": 18,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 186678,
+        "num": 139890,
+        "word": "檀健次开机上哭了",
+        "onboard_time": 1769314459,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207550,
+        "num": 139880,
+        "word": "白鹿说已无法负荷高强度动作戏",
+        "onboard_time": 1769321842,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114109,
+        "num": 139869,
+        "word": "年轻人猝死大多由三个原因导致",
+        "onboard_time": 1769320760,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 145085,
+        "num": 139847,
+        "word": "王鹤棣隔空向徐艺洋道歉",
+        "onboard_time": 1769322199,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139838,
+        "num": 139838,
+        "word": "刘宇宁现身马年第二次联排",
+        "onboard_time": 1769322801,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109814,
+        "num": 139604,
+        "word": "女子买60克黄金轮胎手镯后悔买晚了",
+        "onboard_time": 1769310860,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139529,
+        "num": 139529,
+        "word": "黄晓明蹦极前给小海绵打电话壮胆",
+        "onboard_time": 1769316081,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125199,
+        "num": 125199,
+        "word": "张凌赫后援会呼吁粉丝停止攻击兰蔻",
+        "onboard_time": 1769319860,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104161,
+        "num": 124222,
+        "word": "女子网购童装穿脏后6次申请退款",
+        "onboard_time": 1769319022,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123704,
+        "num": 123704,
+        "word": "卢昱晓何不同舟渡南衣妆造",
+        "onboard_time": 1769322319,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107157,
+        "num": 107157,
+        "word": "张子枫新剧葬礼后迎来新生",
+        "onboard_time": 1769322499,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31791,
+        "num": 104860,
+        "word": "新一轮冷空气已取号",
+        "onboard_time": 1769322020,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186442,
+        "num": 104601,
+        "word": "张本美和获全日女单冠军",
+        "onboard_time": 1769322801,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104083,
+        "num": 104083,
+        "word": "TVB演员被内地短剧整顿",
+        "onboard_time": 1769322920,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 102766,
+        "num": 102766,
+        "word": "雷军称小米汽车熔岩橙配色敢买的人太少",
+        "onboard_time": 1769311521,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 100585,
+        "num": 100585,
+        "word": "云冈石窟保洁员厕所坐地休息引争议",
+        "onboard_time": 1769320820,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99596,
+        "num": 99596,
+        "word": "张本美和4比3早田希娜",
+        "onboard_time": 1769322801,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96403,
+        "num": 96403,
+        "word": "伊媒曝哈梅内伊已藏身地堡避险",
+        "onboard_time": 1769323280,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 21107,
+        "num": 93758,
+        "word": "直击旅日大熊猫最终参观日",
+        "onboard_time": 1769323221,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93692,
+        "num": 93692,
+        "word": "最爱吃的水果前三名",
+        "onboard_time": 1769316320,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 90653,
+        "num": 90653,
+        "word": "印度男子倒奶入河避开接奶贫困儿童",
+        "onboard_time": 1769304440,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 90396,
+        "num": 90396,
+        "word": "普通但赚钱的工作",
+        "onboard_time": 1769313920,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 85601,
+        "num": 85601,
+        "word": "李现比广东走地鸡还能走",
+        "onboard_time": 1769321842,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84200,
+        "num": 84200,
+        "word": "李昊赛后痛哭离场",
+        "onboard_time": 1769315121,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 78499,
+        "num": 78499,
+        "word": "2026央视春晚第二次联排",
+        "onboard_time": 1769308761,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 76345,
+        "num": 76345,
+        "word": "angelababy能打破花少单双季魔咒吗",
+        "onboard_time": 1769306660,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 75814,
+        "num": 75814,
+        "word": "CMG动漫盛典阵容官宣",
+        "onboard_time": 1769323041,
+        "rank": 45,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 74985,
+        "num": 74985,
+        "word": "突然明白了同学录的意思",
+        "onboard_time": 1769314821,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 72105,
+        "num": 72105,
+        "word": "曹骏何不同舟渡开机应援",
+        "onboard_time": 1769320940,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 71088,
+        "num": 71088,
+        "word": "檀健次说让大家破费了",
+        "onboard_time": 1769322621,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67099,
+        "num": 67099,
+        "word": "男子称好利来玫瑰酱打开布满霉菌",
+        "onboard_time": 1769323221,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#一步一步坚定走#"
+    }
+  }
+}

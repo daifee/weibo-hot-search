@@ -1,6 +1,6 @@
 {
   "startTime": 1769272464158,
-  "endTime": 1769320244389,
+  "endTime": 1769323347201,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -115,6 +115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 635685,
+      "num": 159761,
+      "word": "金价",
+      "onboard_time": 1769320160,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 631249,
       "num": 605445,
       "word": "日本队6号",
@@ -185,6 +193,14 @@
       "onboard_time": 1769303179,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 465840,
+      "num": 465840,
+      "word": "范志毅说这样输球我能接受",
+      "onboard_time": 1769320639,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 458681,
@@ -267,6 +283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 380206,
+      "num": 155722,
+      "word": "王橹杰高会",
+      "onboard_time": 1769320940,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 379815,
       "num": 379815,
       "word": "我们的少年时代2拍摄周期",
@@ -305,6 +329,14 @@
       "onboard_time": 1769311521,
       "rank": 7,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 333040,
+      "num": 827444,
+      "word": "永辉学习胖东来结果每天亏600万",
+      "onboard_time": 1769319199,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 332785,
@@ -361,6 +393,14 @@
       "onboard_time": 1769274860,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 272656,
+      "num": 150014,
+      "word": "买童装退货辱骂商家女子离职",
+      "onboard_time": 1769320639,
+      "rank": 13,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 270774,
@@ -491,20 +531,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 211185,
-      "num": 211185,
-      "word": "永辉学习胖东来结果每天亏600万",
-      "onboard_time": 1769319199,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 209623,
       "num": 209623,
       "word": "iPhone长截屏的3种方式",
       "onboard_time": 1769303001,
       "rank": 14,
       "category": "数码"
+    },
+    {
+      "raw_hot": 207550,
+      "num": 139880,
+      "word": "白鹿说已无法负荷高强度动作戏",
+      "onboard_time": 1769321842,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 199978,
+      "num": 147067,
+      "word": "男子借钱付彩礼被女方告强奸",
+      "onboard_time": 1769319980,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 198150,
@@ -521,6 +569,22 @@
       "onboard_time": 1769314459,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 195341,
+      "num": 143878,
+      "word": "叶祖新惊喜主演何不同舟渡",
+      "onboard_time": 1769317400,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 186442,
+      "num": 104601,
+      "word": "张本美和获全日女单冠军",
+      "onboard_time": 1769322801,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 186305,
@@ -619,6 +683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 145085,
+      "num": 139847,
+      "word": "王鹤棣隔空向徐艺洋道歉",
+      "onboard_time": 1769322199,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 145062,
       "num": 145062,
       "word": "原来滑雪也可以这么有仪式感",
@@ -659,12 +731,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 135778,
-      "num": 135778,
-      "word": "叶祖新惊喜主演何不同舟渡",
-      "onboard_time": 1769317400,
-      "rank": 27,
-      "category": "剧集"
+      "raw_hot": 139838,
+      "num": 139838,
+      "word": "刘宇宁现身马年第二次联排",
+      "onboard_time": 1769322801,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 135422,
@@ -723,12 +795,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 125199,
+      "num": 125199,
+      "word": "张凌赫后援会呼吁粉丝停止攻击兰蔻",
+      "onboard_time": 1769319860,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 123991,
       "num": 122281,
       "word": "时代少年团挪威",
       "onboard_time": 1769302640,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 123704,
+      "num": 123704,
+      "word": "卢昱晓何不同舟渡南衣妆造",
+      "onboard_time": 1769322319,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 123305,
@@ -763,14 +851,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 117840,
-      "num": 117840,
-      "word": "张凌赫后援会呼吁粉丝停止攻击兰蔻",
-      "onboard_time": 1769319860,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 117206,
       "num": 123224,
       "word": "太平年改了台词",
@@ -793,6 +873,14 @@
       "onboard_time": 1769308519,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 114109,
+      "num": 139869,
+      "word": "年轻人猝死大多由三个原因导致",
+      "onboard_time": 1769320760,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 112476,
@@ -851,6 +939,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 107157,
+      "num": 107157,
+      "word": "张子枫新剧葬礼后迎来新生",
+      "onboard_time": 1769322499,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 104843,
       "num": 104843,
       "word": "女孩出生4天面容受损5年求医终修复",
@@ -867,6 +963,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 104161,
+      "num": 124222,
+      "word": "女子网购童装穿脏后6次申请退款",
+      "onboard_time": 1769319022,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104083,
+      "num": 104083,
+      "word": "TVB演员被内地短剧整顿",
+      "onboard_time": 1769322920,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 102844,
       "num": 242013,
       "word": "美或出售5000万桶委内瑞拉原油",
@@ -881,14 +993,6 @@
       "onboard_time": 1769251761,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 102028,
-      "num": 102028,
-      "word": "女子网购童装穿脏后6次申请退款",
-      "onboard_time": 1769319022,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 102003,
@@ -923,6 +1027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 100585,
+      "num": 100585,
+      "word": "云冈石窟保洁员厕所坐地休息引争议",
+      "onboard_time": 1769320820,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100191,
       "num": 100191,
       "word": "以为徐梦洁拍上韩剧了",
@@ -947,6 +1059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 99596,
+      "num": 99596,
+      "word": "张本美和4比3早田希娜",
+      "onboard_time": 1769322801,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 98634,
       "num": 98634,
       "word": "最爱吃的水果前三名",
@@ -955,20 +1075,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 98557,
-      "num": 98557,
-      "word": "男子借钱付彩礼被女方告强奸",
-      "onboard_time": 1769319980,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 97951,
       "num": 97951,
       "word": "陈卓璇音综遇到了七年前的导师",
       "onboard_time": 1769311700,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 96403,
+      "num": 96403,
+      "word": "伊媒曝哈梅内伊已藏身地堡避险",
+      "onboard_time": 1769323280,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 96144,
@@ -1033,14 +1153,6 @@
       "onboard_time": 1769270006,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 93672,
-      "num": 93672,
-      "word": "金价",
-      "onboard_time": 1769320160,
-      "rank": 34,
-      "category": "财经"
     },
     {
       "raw_hot": 93492,
@@ -1153,6 +1265,14 @@
       "onboard_time": 1769313140,
       "rank": 43,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 85601,
+      "num": 85601,
+      "word": "李现比广东走地鸡还能走",
+      "onboard_time": 1769321842,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 85419,
@@ -1331,6 +1451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 75814,
+      "num": 75814,
+      "word": "CMG动漫盛典阵容官宣",
+      "onboard_time": 1769323041,
+      "rank": 45,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 75751,
       "num": 75751,
       "word": "太平年第6集41分02秒",
@@ -1395,6 +1523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 72105,
+      "num": 72105,
+      "word": "曹骏何不同舟渡开机应援",
+      "onboard_time": 1769320940,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 71740,
       "num": 71740,
       "word": "明日就是腊八节",
@@ -1417,6 +1553,14 @@
       "onboard_time": 1769320099,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 71088,
+      "num": 71088,
+      "word": "檀健次说让大家破费了",
+      "onboard_time": 1769322621,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 69952,
@@ -1448,6 +1592,14 @@
       "word": "保时捷女销冠称顾客超6成是女性",
       "onboard_time": 1769297236,
       "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 67099,
+      "num": 67099,
+      "word": "男子称好利来玫瑰酱打开布满霉菌",
+      "onboard_time": 1769323221,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -1707,6 +1859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 31791,
+      "num": 104860,
+      "word": "新一轮冷空气已取号",
+      "onboard_time": 1769322020,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30210,
       "num": 58332,
       "word": "TWS中文歌舞台",
@@ -1777,6 +1937,14 @@
       "onboard_time": 1769278637,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 21107,
+      "num": 93758,
+      "word": "直击旅日大熊猫最终参观日",
+      "onboard_time": 1769323221,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20845,
