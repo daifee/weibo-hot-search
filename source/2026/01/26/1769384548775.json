@@ -1,0 +1,410 @@
+{
+  "runTime": 1769384548775,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 533972,
+        "num": 933369,
+        "word": "印度疫情感染者死亡率超7成",
+        "onboard_time": 1769355620,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 285159,
+        "num": 691808,
+        "word": "杨鸣 辞职",
+        "onboard_time": 1769354002,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27438,
+        "num": 559088,
+        "word": "彩灯一亮年味就有了",
+        "onboard_time": 1769345602,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 844567,
+        "num": 446465,
+        "word": "男子发现妻子每天上厕所顺路存1000",
+        "onboard_time": 1769382617,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 261669,
+        "num": 261669,
+        "word": "腊八",
+        "onboard_time": 1769382677,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 240925,
+        "num": 240925,
+        "word": "菲律宾一载350多人渡轮沉没",
+        "onboard_time": 1769382376,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 210771,
+        "num": 210771,
+        "word": "何炅 终于要结束了",
+        "onboard_time": 1769355920,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141974,
+        "num": 141974,
+        "word": "生命树",
+        "onboard_time": 1769355501,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112325,
+        "num": 112325,
+        "word": "女子怀孕收男友15万彩礼后不和要退婚",
+        "onboard_time": 1769342481,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76330,
+        "num": 112081,
+        "word": "美明尼苏达州男子遭补枪画面曝光",
+        "onboard_time": 1769370374,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 627137,
+        "num": 109065,
+        "word": "前女友实名举报何健麒涉毒",
+        "onboard_time": 1769345120,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 314878,
+        "num": 105188,
+        "word": "Angelababy高定设计师称未授权",
+        "onboard_time": 1769356341,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231911,
+        "num": 100585,
+        "word": "原来英语本身就是一道斩杀线",
+        "onboard_time": 1769383037,
+        "rank": 12,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 300458,
+        "num": 99060,
+        "word": "乔任梁父亲回忆儿子出事当天",
+        "onboard_time": 1769348544,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185421,
+        "num": 93364,
+        "word": "陈幸同 周启豪",
+        "onboard_time": 1769355860,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204118,
+        "num": 92708,
+        "word": "前女友回应何健麒",
+        "onboard_time": 1769384239,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89925,
+        "num": 89925,
+        "word": "何炅说沈梦辰今天美到值得上热搜",
+        "onboard_time": 1769350644,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87385,
+        "num": 87385,
+        "word": "这些体态问题都是屁股引发的",
+        "onboard_time": 1769383037,
+        "rank": 17,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 72029,
+        "num": 72029,
+        "word": "朱婷意大利女排杯冠军",
+        "onboard_time": 1769382977,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71948,
+        "num": 71948,
+        "word": "阿森纳2比3曼联",
+        "onboard_time": 1769382558,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 239677,
+        "num": 71524,
+        "word": "外网热议华裔二代破防了",
+        "onboard_time": 1769350222,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 118385,
+        "num": 70903,
+        "word": "建议优先睡好这4个小时",
+        "onboard_time": 1769348544,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 107051,
+        "num": 69749,
+        "word": "woojin 塌房",
+        "onboard_time": 1769344641,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90616,
+        "num": 68356,
+        "word": "姑父棒杀侄女作案细节披露",
+        "onboard_time": 1769383037,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75732,
+        "num": 67669,
+        "word": "上海人均收入首破9万",
+        "onboard_time": 1769383579,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67424,
+        "num": 67424,
+        "word": "美国ICE行刑式处决",
+        "onboard_time": 1769348721,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 65228,
+        "num": 65228,
+        "word": "宝宝误嚼金锁医生称黄金已到大肠",
+        "onboard_time": 1769355201,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63608,
+        "num": 63608,
+        "word": "马年春晚",
+        "onboard_time": 1769382497,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 62805,
+        "num": 62805,
+        "word": "11岁小孩哥为还债创业2月赚6000元",
+        "onboard_time": 1769352022,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62336,
+        "num": 62336,
+        "word": "沈佳润找好自己的赛道",
+        "onboard_time": 1769343260,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60072,
+        "num": 60072,
+        "word": "感染尼帕病毒早期症状类似流感",
+        "onboard_time": 1769355201,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 56646,
+        "num": 56646,
+        "word": "惊蛰无声",
+        "onboard_time": 1769358919,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 55139,
+        "num": 55139,
+        "word": "被斩杀的美国人民",
+        "onboard_time": 1769349023,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 54786,
+        "num": 54786,
+        "word": "麦琳何美延都开始直播带货了",
+        "onboard_time": 1769355443,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52742,
+        "num": 52742,
+        "word": "台湾人到上海后认知被颠覆",
+        "onboard_time": 1769383756,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52531,
+        "num": 52531,
+        "word": "双胞胎吵架差点把爷爷奶奶吵离婚",
+        "onboard_time": 1769343800,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 50837,
+        "num": 50837,
+        "word": "羽绒服这样洗可能会爆炸",
+        "onboard_time": 1769342060,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47594,
+        "num": 47594,
+        "word": "国投白银LOF将临时停牌",
+        "onboard_time": 1769348663,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 46483,
+        "num": 46483,
+        "word": "女神蒙上眼原配手摘小三子宫",
+        "onboard_time": 1769340320,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45420,
+        "num": 45420,
+        "word": "父亲说乔任梁曾长期失眠",
+        "onboard_time": 1769350581,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41127,
+        "num": 41127,
+        "word": "敌机恶意绕飞我驱逐舰全程瞄准",
+        "onboard_time": 1769383698,
+        "rank": 40,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 42532,
+        "num": 41059,
+        "word": "浪姐4姐姐们来看Ella演唱会",
+        "onboard_time": 1769356220,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 40795,
+        "num": 40795,
+        "word": "销售回应男子交70万买保时捷遇提车难",
+        "onboard_time": 1769384059,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39536,
+        "num": 39536,
+        "word": "3家娱乐场所长期招未成年人陪侍",
+        "onboard_time": 1769384180,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37998,
+        "num": 37998,
+        "word": "过年三件套你安排上了吗",
+        "onboard_time": 1769383939,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37052,
+        "num": 37052,
+        "word": "菲律宾客船倾覆事故已有7人死亡",
+        "onboard_time": 1769383821,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 36675,
+        "num": 36675,
+        "word": "声鸣远扬",
+        "onboard_time": 1769382497,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36611,
+        "num": 36611,
+        "word": "两种水果很适合冬天热着吃",
+        "onboard_time": 1769344641,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 36594,
+        "num": 36594,
+        "word": "春晚路透",
+        "onboard_time": 1769383458,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35564,
+        "num": 35564,
+        "word": "阿森纳vs曼联",
+        "onboard_time": 1769361257,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#生活好一个很重要的内涵是生态#"
+    }
+  }
+}

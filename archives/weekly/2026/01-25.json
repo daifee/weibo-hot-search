@@ -1,6 +1,6 @@
 {
   "startTime": 1769272464158,
-  "endTime": 1769383740960,
+  "endTime": 1769384548775,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -91,6 +91,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 844567,
+      "num": 463623,
+      "word": "男子发现妻子每天上厕所顺路存1000",
+      "onboard_time": 1769382617,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 839881,
       "num": 257173,
       "word": "Angelababy高定设计师称未授权",
@@ -105,14 +113,6 @@
       "onboard_time": 1769312660,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 801449,
-      "num": 463623,
-      "word": "男子发现妻子每天上厕所顺路存1000",
-      "onboard_time": 1769382617,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 784185,
@@ -164,7 +164,7 @@
     },
     {
       "raw_hot": 665901,
-      "num": 836699,
+      "num": 933369,
       "word": "印度疫情感染者死亡率超7成",
       "onboard_time": 1769355620,
       "rank": 32,
@@ -803,6 +803,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 261669,
+      "num": 261669,
+      "word": "腊八",
+      "onboard_time": 1769382677,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 260446,
       "num": 260446,
       "word": "美国男子大喊别拍照了快救我",
@@ -899,6 +907,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 240925,
+      "num": 240925,
+      "word": "菲律宾一载350多人渡轮沉没",
+      "onboard_time": 1769382376,
+      "rank": 6,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 237055,
       "num": 257916,
       "word": "炽热吸引",
@@ -923,20 +939,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 232418,
-      "num": 232418,
-      "word": "腊八",
-      "onboard_time": 1769382677,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 232405,
       "num": 232405,
       "word": "太平年 牵羊礼",
       "onboard_time": 1769264063,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 231911,
+      "num": 100585,
+      "word": "原来英语本身就是一道斩杀线",
+      "onboard_time": 1769383037,
+      "rank": 14,
+      "category": "休闲"
     },
     {
       "raw_hot": 231771,
@@ -1016,6 +1032,14 @@
       "word": "白鹿说已无法负荷高强度动作戏",
       "onboard_time": 1769321842,
       "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 204118,
+      "num": 92708,
+      "word": "前女友回应何健麒",
+      "onboard_time": 1769384239,
+      "rank": 15,
       "category": "艺人"
     },
     {
@@ -1291,14 +1315,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 154393,
-      "num": 85197,
-      "word": "原来英语本身就是一道斩杀线",
-      "onboard_time": 1769383037,
-      "rank": 14,
-      "category": "休闲"
-    },
-    {
       "raw_hot": 154043,
       "num": 118427,
       "word": "何不同舟渡妆造",
@@ -1345,14 +1361,6 @@
       "onboard_time": 1769339779,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 152477,
-      "num": 152477,
-      "word": "菲律宾一载350多人渡轮沉没",
-      "onboard_time": 1769382376,
-      "rank": 6,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 151735,
@@ -1417,6 +1425,14 @@
       "onboard_time": 1769337021,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 141974,
+      "num": 190401,
+      "word": "生命树",
+      "onboard_time": 1769355501,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 141336,
@@ -1857,14 +1873,6 @@
       "onboard_time": 1769339720,
       "rank": 41,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 108784,
-      "num": 190401,
-      "word": "生命树",
-      "onboard_time": 1769355501,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 108668,
@@ -2451,6 +2459,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 90616,
+      "num": 68356,
+      "word": "姑父棒杀侄女作案细节披露",
+      "onboard_time": 1769383037,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90573,
       "num": 90573,
       "word": "夫妻吃娃娃菜中毒商家否认用老鼠药",
@@ -2545,6 +2561,14 @@
       "onboard_time": 1769323700,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 87385,
+      "num": 87385,
+      "word": "这些体态问题都是屁股引发的",
+      "onboard_time": 1769383037,
+      "rank": 23,
+      "category": "运动健身"
     },
     {
       "raw_hot": 87281,
@@ -2788,7 +2812,7 @@
     },
     {
       "raw_hot": 81335,
-      "num": 81335,
+      "num": 112081,
       "word": "美明尼苏达州男子遭补枪画面曝光",
       "onboard_time": 1769370374,
       "rank": 31,
@@ -3027,6 +3051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 75732,
+      "num": 67669,
+      "word": "上海人均收入首破9万",
+      "onboard_time": 1769383579,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75608,
       "num": 190344,
       "word": "辽宁男篮末节4分",
@@ -3153,6 +3185,14 @@
       "onboard_time": 1769326819,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 72029,
+      "num": 72029,
+      "word": "朱婷意大利女排杯冠军",
+      "onboard_time": 1769382977,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 71927,
@@ -3283,14 +3323,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 67685,
-      "num": 67685,
-      "word": "这些体态问题都是屁股引发的",
-      "onboard_time": 1769383037,
-      "rank": 23,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 67332,
       "num": 53256,
       "word": "保时捷女销冠称顾客超6成是女性",
@@ -3355,20 +3387,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 64190,
-      "num": 64190,
-      "word": "姑父棒杀侄女作案细节披露",
-      "onboard_time": 1769383037,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 63779,
       "num": 68798,
       "word": "退钱哥发文感谢U23国家队",
       "onboard_time": 1769329222,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 63608,
+      "num": 63608,
+      "word": "马年春晚",
+      "onboard_time": 1769382497,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 63320,
@@ -3427,14 +3459,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 57890,
-      "num": 57890,
-      "word": "朱婷意大利女排杯冠军",
-      "onboard_time": 1769382977,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 57455,
       "num": 75271,
       "word": "张帅组合0比5落后连赢7局",
@@ -3465,14 +3489,6 @@
       "onboard_time": 1769333840,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 55584,
-      "num": 55584,
-      "word": "上海人均收入首破9万",
-      "onboard_time": 1769383579,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 55392,
@@ -3512,6 +3528,14 @@
       "word": "为这口菌子等了寒露又等雨",
       "onboard_time": 1769324780,
       "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 52742,
+      "num": 52742,
+      "word": "台湾人到上海后认知被颠覆",
+      "onboard_time": 1769383756,
+      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -3643,6 +3667,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 41127,
+      "num": 41127,
+      "word": "敌机恶意绕飞我驱逐舰全程瞄准",
+      "onboard_time": 1769383698,
+      "rank": 41,
+      "category": "军事"
+    },
+    {
       "raw_hot": 41121,
       "num": 41121,
       "word": "曝林允在归鸾剧组冻了十几个小时",
@@ -3651,12 +3683,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 40467,
-      "num": 40467,
-      "word": "马年春晚",
-      "onboard_time": 1769382497,
-      "rank": 36,
-      "category": "综艺"
+      "raw_hot": 40795,
+      "num": 40795,
+      "word": "销售回应男子交70万买保时捷遇提车难",
+      "onboard_time": 1769384059,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 40344,
@@ -3672,6 +3704,14 @@
       "word": "旅日大熊猫最后1天上班",
       "onboard_time": 1769326040,
       "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39536,
+      "num": 39536,
+      "word": "3家娱乐场所长期招未成年人陪侍",
+      "onboard_time": 1769384180,
+      "rank": 43,
       "category": "民生新闻"
     },
     {
@@ -3705,6 +3745,14 @@
       "onboard_time": 1769273724,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 37998,
+      "num": 37998,
+      "word": "过年三件套你安排上了吗",
+      "onboard_time": 1769383939,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37780,
@@ -3771,6 +3819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 37052,
+      "num": 37052,
+      "word": "菲律宾客船倾覆事故已有7人死亡",
+      "onboard_time": 1769383821,
+      "rank": 45,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 36649,
       "num": 625623,
       "word": "彩灯一亮年味就有了",
@@ -3779,12 +3835,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 36376,
-      "num": 36376,
-      "word": "敌机恶意绕飞我驱逐舰全程瞄准",
-      "onboard_time": 1769383698,
+      "raw_hot": 36594,
+      "num": 36594,
+      "word": "春晚路透",
+      "onboard_time": 1769383458,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 35564,
+      "num": 190375,
+      "word": "阿森纳vs曼联",
+      "onboard_time": 1769361257,
       "rank": 41,
-      "category": "军事"
+      "category": "体育"
     },
     {
       "raw_hot": 33501,
@@ -3817,22 +3881,6 @@
       "onboard_time": 1769298077,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 32341,
-      "num": 190375,
-      "word": "阿森纳vs曼联",
-      "onboard_time": 1769361257,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 32117,
-      "num": 32117,
-      "word": "春晚路透",
-      "onboard_time": 1769383458,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 31791,

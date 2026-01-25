@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/26 07:29:00
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/26 07:42:28
 </p>
 </blockquote>
 <p>
@@ -1725,6 +1725,12 @@ DYG战胜狼队（热度：867183）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%8F%91%E7%8E%B0%E5%A6%BB%E5%AD%90%E6%AF%8F%E5%A4%A9%E4%B8%8A%E5%8E%95%E6%89%80%E9%A1%BA%E8%B7%AF%E5%AD%981000%23" target="weibo">
+男子发现妻子每天上厕所顺路存1000（热度：844567）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%88%E8%96%AA%E4%B8%80%E4%B8%87%E7%9A%84%E5%B7%A5%E4%BD%9C%E5%BC%BA%E5%BA%A6%23" target="weibo">
 月薪一万的工作强度（热度：844462）
 </a>
@@ -1991,12 +1997,6 @@ iPhone18Pro新爆料（热度：826962）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E8%B6%85%E7%98%A6%E6%88%90%E7%94%B7%E5%A4%A7%E4%BA%86%23" target="weibo">
 邓超瘦成男大了（热度：803581）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%8F%91%E7%8E%B0%E5%A6%BB%E5%AD%90%E6%AF%8F%E5%A4%A9%E4%B8%8A%E5%8E%95%E6%89%80%E9%A1%BA%E8%B7%AF%E5%AD%981000%23" target="weibo">
-男子发现妻子每天上厕所顺路存1000（热度：801449）
 </a>
 </li>
 

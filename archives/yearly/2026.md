@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/26 07:29:00
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/26 07:42:28
 </p>
 </blockquote>
 <p>
@@ -1725,6 +1725,12 @@ DYG战胜狼队（热度：867183）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%8F%91%E7%8E%B0%E5%A6%BB%E5%AD%90%E6%AF%8F%E5%A4%A9%E4%B8%8A%E5%8E%95%E6%89%80%E9%A1%BA%E8%B7%AF%E5%AD%981000%23" target="weibo">
+男子发现妻子每天上厕所顺路存1000（热度：844567）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%88%E8%96%AA%E4%B8%80%E4%B8%87%E7%9A%84%E5%B7%A5%E4%BD%9C%E5%BC%BA%E5%BA%A6%23" target="weibo">
 月薪一万的工作强度（热度：844462）
 </a>
@@ -1805,12 +1811,6 @@ oner败诉（热度：838604）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%BE%88%E8%BF%98%E5%9C%A8%E6%96%B9%E5%9C%86%E5%AE%B6%E4%BD%8F%E5%8D%8A%E4%B8%AA%E6%9C%88%23" target="weibo">
 小澈还在方圆家住半个月（热度：831841）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2327%E5%B2%81%E7%94%B7%E5%AD%90%E8%AE%A2%E5%A9%9A%E5%90%8E%E6%89%8D%E7%9F%A5%E5%A5%B3%E5%8F%8B%E5%BF%AB40%E5%B2%81%23" target="weibo">
-27岁男子订婚后才知女友快40岁（热度：831518）
 </a>
 </li>
 
