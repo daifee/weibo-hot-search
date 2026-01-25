@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/25 00:34:24 ~ 2026/01/26 04:45:52
+本榜单时间：2026/01/25 00:34:24 ~ 2026/01/26 05:27:21
 </p>
 </blockquote>
 <p>
@@ -2817,6 +2817,12 @@ U23国足对日本U23战绩2胜1负（热度：46113）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E6%98%8E%E5%B0%BC%E8%8B%8F%E8%BE%BE%E5%B7%9E%E7%94%B7%E5%AD%90%E9%81%AD%E8%A1%A5%E6%9E%AA%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89%23" target="weibo">
+美明尼苏达州男子遭补枪画面曝光（热度：30593）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%B1%E4%BA%AB%E5%85%85%E7%94%B5%E5%AE%9D%E9%97%A8%E5%BA%97%E5%88%86%E6%88%90%E6%B6%A8%E8%87%B330%25%23" target="weibo">
 共享充电宝门店分成涨至30%（热度：30469）
 </a>
@@ -2933,12 +2939,6 @@ U23男足亚洲杯亚军（热度：27944）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%A5%BF%E5%94%87%E8%85%AD%E8%A3%82%E5%A5%B3%E7%AB%A56%E5%B2%81%E6%89%8D20%E6%96%A4%23" target="weibo">
 江西唇腭裂女童6岁才20斤（热度：19636）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E6%98%8E%E5%B0%BC%E8%8B%8F%E8%BE%BE%E5%B7%9E%E7%94%B7%E5%AD%90%E9%81%AD%E8%A1%A5%E6%9E%AA%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89%23" target="weibo">
-美明尼苏达州男子遭补枪画面曝光（热度：18818）
 </a>
 </li>
 
