@@ -1,6 +1,6 @@
 {
   "startTime": 1769272464158,
-  "endTime": 1769319311244,
+  "endTime": 1769320244389,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -51,20 +51,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 865729,
+      "num": 1138516,
+      "word": "癌症晚期老人出售30年前买的黄金",
+      "onboard_time": 1769318180,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 835126,
       "num": 1133620,
       "word": "台北101",
       "onboard_time": 1769312660,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 785763,
-      "num": 1125722,
-      "word": "癌症晚期老人出售30年前买的黄金",
-      "onboard_time": 1769318180,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 784185,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 662805,
-      "num": 249908,
+      "num": 588167,
       "word": "张凌赫 兰蔻",
       "onboard_time": 1769315239,
       "rank": 22,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 648892,
-      "num": 257274,
+      "num": 339179,
       "word": "彭小苒 祝你天天加班",
       "onboard_time": 1769311459,
       "rank": 10,
@@ -131,6 +131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 554469,
+      "num": 784280,
+      "word": "被雪豹咬伤女游客否认跟雪豹拍照",
+      "onboard_time": 1769315300,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 549766,
       "num": 549766,
       "word": "李昊 look my eyes",
@@ -139,20 +147,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 538345,
+      "num": 785080,
+      "word": "王鹤棣当黄子韬面说徐艺洋不好看",
+      "onboard_time": 1769317160,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 535480,
       "num": 326901,
       "word": "女教师校内宿舍病亡两天后被发现",
       "onboard_time": 1769264362,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 531676,
-      "num": 785080,
-      "word": "王鹤棣当黄子韬面说徐艺洋不好看",
-      "onboard_time": 1769317160,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 515560,
@@ -236,11 +244,19 @@
     },
     {
       "raw_hot": 397352,
-      "num": 397352,
+      "num": 619845,
       "word": "檀健次开机上哭了",
       "onboard_time": 1769314459,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 382227,
+      "num": 628438,
+      "word": "金价波动",
+      "onboard_time": 1769316500,
+      "rank": 7,
+      "category": "财经"
     },
     {
       "raw_hot": 380448,
@@ -259,12 +275,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 355194,
-      "num": 355194,
-      "word": "金价波动",
-      "onboard_time": 1769316500,
-      "rank": 7,
-      "category": "财经"
+      "raw_hot": 362901,
+      "num": 362901,
+      "word": "以为是情郎结果是色郎",
+      "onboard_time": 1769317220,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 351214,
@@ -273,14 +289,6 @@
       "onboard_time": 1769271983,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 347981,
-      "num": 235809,
-      "word": "以为是情郎结果是色郎",
-      "onboard_time": 1769317220,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 340935,
@@ -355,20 +363,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 276520,
-      "num": 784280,
-      "word": "被雪豹咬伤女游客否认跟雪豹拍照",
-      "onboard_time": 1769315300,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 270774,
       "num": 256568,
       "word": "2026央视春晚第二次联排",
       "onboard_time": 1769308761,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 269815,
+      "num": 820860,
+      "word": "外国游客被东北厕所折服的一天",
+      "onboard_time": 1769316741,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 262011,
@@ -395,16 +403,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 260288,
-      "num": 820860,
-      "word": "外国游客被东北厕所折服的一天",
-      "onboard_time": 1769316741,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 260153,
-      "num": 250371,
+      "num": 347244,
       "word": "李昊赛后痛哭离场",
       "onboard_time": 1769315121,
       "rank": 27,
@@ -425,6 +425,14 @@
       "onboard_time": 1769259921,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 249803,
+      "num": 249803,
+      "word": "黄晓明蹦极前给小海绵打电话壮胆",
+      "onboard_time": 1769316081,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 247751,
@@ -483,20 +491,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 211185,
+      "num": 211185,
+      "word": "永辉学习胖东来结果每天亏600万",
+      "onboard_time": 1769319199,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 209623,
       "num": 209623,
       "word": "iPhone长截屏的3种方式",
       "onboard_time": 1769303001,
       "rank": 14,
       "category": "数码"
-    },
-    {
-      "raw_hot": 204167,
-      "num": 204167,
-      "word": "黄晓明蹦极前给小海绵打电话壮胆",
-      "onboard_time": 1769316081,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 198150,
@@ -651,6 +659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 135778,
+      "num": 135778,
+      "word": "叶祖新惊喜主演何不同舟渡",
+      "onboard_time": 1769317400,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 135422,
       "num": 135422,
       "word": "空气炸锅垫纸别非要挑大的买",
@@ -747,6 +763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 117840,
+      "num": 117840,
+      "word": "张凌赫后援会呼吁粉丝停止攻击兰蔻",
+      "onboard_time": 1769319860,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 117206,
       "num": 123224,
       "word": "太平年改了台词",
@@ -827,14 +851,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 106842,
-      "num": 106842,
-      "word": "叶祖新惊喜主演何不同舟渡",
-      "onboard_time": 1769317400,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 104843,
       "num": 104843,
       "word": "女孩出生4天面容受损5年求医终修复",
@@ -865,6 +881,14 @@
       "onboard_time": 1769251761,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 102028,
+      "num": 102028,
+      "word": "女子网购童装穿脏后6次申请退款",
+      "onboard_time": 1769319022,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 102003,
@@ -899,6 +923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 100191,
+      "num": 100191,
+      "word": "以为徐梦洁拍上韩剧了",
+      "onboard_time": 1769317821,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 100129,
       "num": 100129,
       "word": "燕云十六声获年度最佳游戏",
@@ -915,20 +947,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 98634,
+      "num": 98634,
+      "word": "最爱吃的水果前三名",
+      "onboard_time": 1769316320,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 98557,
+      "num": 98557,
+      "word": "男子借钱付彩礼被女方告强奸",
+      "onboard_time": 1769319980,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97951,
       "num": 97951,
       "word": "陈卓璇音综遇到了七年前的导师",
       "onboard_time": 1769311700,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 96210,
-      "num": 95727,
-      "word": "以为徐梦洁拍上韩剧了",
-      "onboard_time": 1769317821,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 96144,
@@ -993,6 +1033,14 @@
       "onboard_time": 1769270006,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 93672,
+      "num": 93672,
+      "word": "金价",
+      "onboard_time": 1769320160,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 93492,
@@ -1091,14 +1139,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 86564,
-      "num": 86564,
-      "word": "最爱吃的水果前三名",
-      "onboard_time": 1769316320,
-      "rank": 39,
-      "category": "美食"
-    },
-    {
       "raw_hot": 86148,
       "num": 85724,
       "word": "猫的树12部核心作品",
@@ -1179,12 +1219,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 80787,
-      "num": 80787,
-      "word": "女子网购童装穿脏后6次申请退款",
-      "onboard_time": 1769319022,
-      "rank": 45,
-      "category": "民生新闻"
+      "raw_hot": 80703,
+      "num": 80703,
+      "word": "胡先煦26年第一次路透是春晚",
+      "onboard_time": 1769317400,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 80627,
@@ -1235,6 +1275,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 77593,
+      "num": 77593,
+      "word": "点外卖时记得检查一下备注",
+      "onboard_time": 1769319799,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 77070,
+      "num": 88467,
+      "word": "一觉醒来内娱新梗又诞生了",
+      "onboard_time": 1769315842,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 76589,
       "num": 120955,
       "word": "亚洲杯",
@@ -1275,14 +1331,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 75803,
-      "num": 88467,
-      "word": "一觉醒来内娱新梗又诞生了",
-      "onboard_time": 1769315842,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 75751,
       "num": 75751,
       "word": "太平年第6集41分02秒",
@@ -1297,14 +1345,6 @@
       "onboard_time": 1769272102,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 75529,
-      "num": 75529,
-      "word": "胡先煦26年第一次路透是春晚",
-      "onboard_time": 1769317400,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 74404,
@@ -1371,6 +1411,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 71299,
+      "num": 71299,
+      "word": "拿了冠军归来仍是素人",
+      "onboard_time": 1769320099,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 69952,
       "num": 81434,
       "word": "张栋梁40岁甜男界顶流返场",
@@ -1401,6 +1449,14 @@
       "onboard_time": 1769297236,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 66159,
+      "num": 77319,
+      "word": "黄子韬又哭了",
+      "onboard_time": 1769320160,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 65288,
@@ -1491,14 +1547,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 51934,
-      "num": 91181,
-      "word": "永辉学习胖东来结果每天亏600万",
-      "onboard_time": 1769319199,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 49451,
       "num": 67092,
       "word": "突然的喜欢",
@@ -1545,6 +1593,14 @@
       "onboard_time": 1769274800,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 42880,
+      "num": 593620,
+      "word": "美国运动员成功徒手攀爬台北101",
+      "onboard_time": 1769319440,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 41556,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/25 13:35:11
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/25 13:50:44
 </p>
 </blockquote>
 <p>
@@ -1623,6 +1623,12 @@ DYG战胜狼队（热度：867183）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%99%8C%E7%97%87%E6%99%9A%E6%9C%9F%E8%80%81%E4%BA%BA%E5%87%BA%E5%94%AE30%E5%B9%B4%E5%89%8D%E4%B9%B0%E7%9A%84%E9%BB%84%E9%87%91%23" target="weibo">
+癌症晚期老人出售30年前买的黄金（热度：865729）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%8F%AF%E8%83%BD%E5%8F%88%E8%A6%81%E6%8D%A2%E9%A6%96%E7%9B%B8%E4%BA%86%23" target="weibo">
 日本可能又要换首相了（热度：861518）
 </a>
@@ -1805,12 +1811,6 @@ iPhone18Pro新爆料（热度：826962）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%B0%E6%B0%B4%E6%9E%9C%E5%8F%91%E7%8E%B0%E5%BC%82%E5%B8%B8%E6%8F%90%E9%86%92%E5%BA%97%E5%91%98%E5%90%8E%E4%B8%8D%E6%94%BE%E5%BF%83%23" target="weibo">
 买水果发现异常提醒店员后不放心（热度：826044）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%91%98%E5%85%B3%E5%87%8C%E5%9B%A0%E6%8C%A4%E7%97%98%E4%BA%8B%E4%BB%B6%E4%B8%8A%E7%81%AB%E7%83%82%E5%98%B4%E8%A7%92%23" target="weibo">
-演员关凌因挤痘事件上火烂嘴角（热度：822931）
 </a>
 </li>
 
