@@ -1,0 +1,410 @@
+{
+  "runTime": 1769319311244,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 785763,
+        "num": 1125722,
+        "word": "癌症晚期老人出售30年前买的黄金",
+        "onboard_time": 1769318180,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 260288,
+        "num": 820860,
+        "word": "外国游客被东北厕所折服的一天",
+        "onboard_time": 1769316741,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43426,
+        "num": 787597,
+        "word": "我的工位在大海上方178米",
+        "onboard_time": 1769310020,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 531676,
+        "num": 785080,
+        "word": "王鹤棣当黄子韬面说徐艺洋不好看",
+        "onboard_time": 1769317160,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 276520,
+        "num": 784280,
+        "word": "被雪豹咬伤女游客否认跟雪豹拍照",
+        "onboard_time": 1769315300,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 784185,
+        "num": 784185,
+        "word": "不发朋友圈vs不看朋友圈",
+        "onboard_time": 1769313800,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 397352,
+        "num": 397352,
+        "word": "檀健次开机上哭了",
+        "onboard_time": 1769314459,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 355194,
+        "num": 355194,
+        "word": "金价波动",
+        "onboard_time": 1769316500,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 255091,
+        "num": 255091,
+        "word": "雷军称小米汽车熔岩橙配色敢买的人太少",
+        "onboard_time": 1769311521,
+        "rank": 8,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 252361,
+        "num": 252361,
+        "word": "猫的树 升咖",
+        "onboard_time": 1769299520,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 807636,
+        "num": 251460,
+        "word": "台北101",
+        "onboard_time": 1769312660,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260153,
+        "num": 250371,
+        "word": "李昊赛后痛哭离场",
+        "onboard_time": 1769315121,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 662805,
+        "num": 249908,
+        "word": "张凌赫 兰蔻",
+        "onboard_time": 1769315239,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 451175,
+        "num": 247928,
+        "word": "彭小苒 祝你天天加班",
+        "onboard_time": 1769311459,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247607,
+        "num": 247607,
+        "word": "谁能管管现在的商场厕所",
+        "onboard_time": 1769311400,
+        "rank": 14,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 347981,
+        "num": 235809,
+        "word": "以为是情郎结果是色郎",
+        "onboard_time": 1769317220,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204167,
+        "num": 204167,
+        "word": "黄晓明蹦极前给小海绵打电话壮胆",
+        "onboard_time": 1769316081,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169545,
+        "num": 169545,
+        "word": "成都涉事小学取消育人故事分享",
+        "onboard_time": 1769309900,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167688,
+        "num": 167688,
+        "word": "印度男子倒奶入河避开接奶贫困儿童",
+        "onboard_time": 1769304440,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 37780,
+        "num": 160747,
+        "word": "普通人什么时候能去太空旅游",
+        "onboard_time": 1769318001,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 330413,
+        "num": 160592,
+        "word": "女子买60克黄金轮胎手镯后悔买晚了",
+        "onboard_time": 1769310860,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178952,
+        "num": 160494,
+        "word": "谁家男星30年从童星熬成男一",
+        "onboard_time": 1769318001,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 160252,
+        "num": 160252,
+        "word": "普通但赚钱的工作",
+        "onboard_time": 1769313920,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138402,
+        "num": 138402,
+        "word": "angelababy能打破花少单双季魔咒吗",
+        "onboard_time": 1769306660,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136460,
+        "num": 136460,
+        "word": "领衔主演檀健次和卢昱晓",
+        "onboard_time": 1769310919,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129423,
+        "num": 129423,
+        "word": "美国男子大喊别拍照了快救我",
+        "onboard_time": 1769310200,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 112476,
+        "num": 112476,
+        "word": "突然明白了同学录的意思",
+        "onboard_time": 1769314821,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 106842,
+        "num": 106842,
+        "word": "叶祖新惊喜主演何不同舟渡",
+        "onboard_time": 1769317400,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105042,
+        "num": 105042,
+        "word": "U23国足0比4日本队",
+        "onboard_time": 1769274381,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25525,
+        "num": 104367,
+        "word": "俄美乌三方首轮会谈细节披露",
+        "onboard_time": 1769318001,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 104197,
+        "num": 104197,
+        "word": "徐正溪何不同舟渡开机",
+        "onboard_time": 1769317821,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99896,
+        "num": 99896,
+        "word": "2026央视春晚第二次联排",
+        "onboard_time": 1769308761,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96144,
+        "num": 96144,
+        "word": "闪耀暖暖",
+        "onboard_time": 1769317821,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 96210,
+        "num": 95727,
+        "word": "以为徐梦洁拍上韩剧了",
+        "onboard_time": 1769317821,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93402,
+        "num": 93402,
+        "word": "黄子韬已经开始不在意颜值了",
+        "onboard_time": 1769315300,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93195,
+        "num": 93195,
+        "word": "买1块银砖3个月赚26万",
+        "onboard_time": 1769306660,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51934,
+        "num": 91181,
+        "word": "永辉学习胖东来结果每天亏600万",
+        "onboard_time": 1769319199,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90974,
+        "num": 90974,
+        "word": "贾冰范丞丞再演父子",
+        "onboard_time": 1769317879,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 87733,
+        "num": 87733,
+        "word": "林允否认被冻十几小时",
+        "onboard_time": 1769314762,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86564,
+        "num": 86564,
+        "word": "最爱吃的水果前三名",
+        "onboard_time": 1769316320,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 87281,
+        "num": 86187,
+        "word": "北京春晚为了时团有多拼",
+        "onboard_time": 1769317041,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85668,
+        "num": 85668,
+        "word": "周雨彤 观众缘",
+        "onboard_time": 1769297658,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84895,
+        "num": 84895,
+        "word": "婴儿期太胖青春期也会胖",
+        "onboard_time": 1769319022,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 84011,
+        "num": 84011,
+        "word": "怪不得叫米老头",
+        "onboard_time": 1769313678,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 83265,
+        "num": 83265,
+        "word": "U23国足vs日本",
+        "onboard_time": 1769265382,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 80787,
+        "num": 80787,
+        "word": "女子网购童装穿脏后6次申请退款",
+        "onboard_time": 1769319022,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77855,
+        "num": 77855,
+        "word": "我奶奶好心跟你爷爷结婚",
+        "onboard_time": 1769311220,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 76777,
+        "num": 76777,
+        "word": "何不同舟渡",
+        "onboard_time": 1769259921,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75843,
+        "num": 75843,
+        "word": "湖人战胜独行侠",
+        "onboard_time": 1769318600,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75529,
+        "num": 75529,
+        "word": "胡先煦26年第一次路透是春晚",
+        "onboard_time": 1769317400,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#一步一步坚定走#"
+    }
+  }
+}

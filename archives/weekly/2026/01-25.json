@@ -1,6 +1,6 @@
 {
   "startTime": 1769272464158,
-  "endTime": 1769315870099,
+  "endTime": 1769319311244,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -59,6 +59,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 785763,
+      "num": 1125722,
+      "word": "癌症晚期老人出售30年前买的黄金",
+      "onboard_time": 1769318180,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 784185,
+      "num": 784185,
+      "word": "不发朋友圈vs不看朋友圈",
+      "onboard_time": 1769313800,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 748716,
       "num": 748716,
       "word": "U23国足进球被吹",
@@ -73,6 +89,14 @@
       "onboard_time": 1769270666,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 662805,
+      "num": 249908,
+      "word": "张凌赫 兰蔻",
+      "onboard_time": 1769315239,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 648993,
@@ -121,6 +145,14 @@
       "onboard_time": 1769264362,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 531676,
+      "num": 785080,
+      "word": "王鹤棣当黄子韬面说徐艺洋不好看",
+      "onboard_time": 1769317160,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 515560,
@@ -203,6 +235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 397352,
+      "num": 397352,
+      "word": "檀健次开机上哭了",
+      "onboard_time": 1769314459,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 380448,
       "num": 380448,
       "word": "买1块银砖3个月赚26万",
@@ -219,12 +259,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 354194,
-      "num": 222249,
-      "word": "檀健次开机上哭了",
-      "onboard_time": 1769314459,
-      "rank": 16,
-      "category": "剧集"
+      "raw_hot": 355194,
+      "num": 355194,
+      "word": "金价波动",
+      "onboard_time": 1769316500,
+      "rank": 7,
+      "category": "财经"
     },
     {
       "raw_hot": 351214,
@@ -233,6 +273,14 @@
       "onboard_time": 1769271983,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 347981,
+      "num": 235809,
+      "word": "以为是情郎结果是色郎",
+      "onboard_time": 1769317220,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 340935,
@@ -307,6 +355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 276520,
+      "num": 784280,
+      "word": "被雪豹咬伤女游客否认跟雪豹拍照",
+      "onboard_time": 1769315300,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 270774,
       "num": 256568,
       "word": "2026央视春晚第二次联排",
@@ -339,12 +395,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 256459,
-      "num": 170689,
-      "word": "被雪豹咬伤女游客否认跟雪豹拍照",
-      "onboard_time": 1769315300,
-      "rank": 21,
+      "raw_hot": 260288,
+      "num": 820860,
+      "word": "外国游客被东北厕所折服的一天",
+      "onboard_time": 1769316741,
+      "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 260153,
+      "num": 250371,
+      "word": "李昊赛后痛哭离场",
+      "onboard_time": 1769315121,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 256423,
@@ -427,12 +491,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 200403,
-      "num": 170347,
-      "word": "张凌赫 兰蔻",
-      "onboard_time": 1769315239,
-      "rank": 22,
-      "category": "艺人"
+      "raw_hot": 204167,
+      "num": 204167,
+      "word": "黄晓明蹦极前给小海绵打电话壮胆",
+      "onboard_time": 1769316081,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 198150,
@@ -459,12 +523,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 171785,
-      "num": 171785,
-      "word": "不发朋友圈vs不看朋友圈",
-      "onboard_time": 1769313800,
-      "rank": 28,
-      "category": "情感"
+      "raw_hot": 178952,
+      "num": 160494,
+      "word": "谁家男星30年从童星熬成男一",
+      "onboard_time": 1769318001,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 169838,
@@ -484,7 +548,7 @@
     },
     {
       "raw_hot": 164470,
-      "num": 147708,
+      "num": 160252,
       "word": "普通但赚钱的工作",
       "onboard_time": 1769313920,
       "rank": 22,
@@ -619,14 +683,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 129006,
-      "num": 129006,
-      "word": "李昊赛后痛哭离场",
-      "onboard_time": 1769315121,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 126561,
       "num": 126561,
       "word": "美国涉中俄战略出现重大转变",
@@ -715,6 +771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 112476,
+      "num": 112476,
+      "word": "突然明白了同学录的意思",
+      "onboard_time": 1769314821,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 112306,
       "num": 112306,
       "word": "雷军回应下架小米汽车熔岩橙配色",
@@ -763,12 +827,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 106842,
+      "num": 106842,
+      "word": "叶祖新惊喜主演何不同舟渡",
+      "onboard_time": 1769317400,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 104843,
       "num": 104843,
       "word": "女孩出生4天面容受损5年求医终修复",
       "onboard_time": 1769298617,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104197,
+      "num": 104197,
+      "word": "徐正溪何不同舟渡开机",
+      "onboard_time": 1769317821,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 102844,
@@ -811,14 +891,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 101222,
-      "num": 101222,
-      "word": "突然明白了同学录的意思",
-      "onboard_time": 1769314821,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 100929,
       "num": 100929,
       "word": "猫的树的男女主衣服从来没丑过",
@@ -849,6 +921,22 @@
       "onboard_time": 1769311700,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 96210,
+      "num": 95727,
+      "word": "以为徐梦洁拍上韩剧了",
+      "onboard_time": 1769317821,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 96144,
+      "num": 96144,
+      "word": "闪耀暖暖",
+      "onboard_time": 1769317821,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 95763,
@@ -955,6 +1043,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 90974,
+      "num": 90974,
+      "word": "贾冰范丞丞再演父子",
+      "onboard_time": 1769317879,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 90573,
       "num": 90573,
       "word": "夫妻吃娃娃菜中毒商家否认用老鼠药",
@@ -984,6 +1080,22 @@
       "word": "谁懂这碗泡面的含金量",
       "onboard_time": 1769314521,
       "rank": 48,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 87281,
+      "num": 86187,
+      "word": "北京春晚为了时团有多拼",
+      "onboard_time": 1769317041,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 86564,
+      "num": 86564,
+      "word": "最爱吃的水果前三名",
+      "onboard_time": 1769316320,
+      "rank": 39,
       "category": "美食"
     },
     {
@@ -1035,6 +1147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 84895,
+      "num": 84895,
+      "word": "婴儿期太胖青春期也会胖",
+      "onboard_time": 1769319022,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 83593,
       "num": 83593,
       "word": "拜合拉木发烧39度",
@@ -1056,6 +1176,14 @@
       "word": "成都通报小学强制教师参与年会表演",
       "onboard_time": 1769304440,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 80787,
+      "num": 80787,
+      "word": "女子网购童装穿脏后6次申请退款",
+      "onboard_time": 1769319022,
+      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -1139,6 +1267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 75843,
+      "num": 75843,
+      "word": "湖人战胜独行侠",
+      "onboard_time": 1769318600,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 75803,
       "num": 88467,
       "word": "一觉醒来内娱新梗又诞生了",
@@ -1161,6 +1297,14 @@
       "onboard_time": 1769272102,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 75529,
+      "num": 75529,
+      "word": "胡先煦26年第一次路透是春晚",
+      "onboard_time": 1769317400,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 74404,
@@ -1268,7 +1412,7 @@
     },
     {
       "raw_hot": 65169,
-      "num": 649359,
+      "num": 787597,
       "word": "我的工位在大海上方178米",
       "onboard_time": 1769310020,
       "rank": 2,
@@ -1345,6 +1489,14 @@
       "onboard_time": 1769297837,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 51934,
+      "num": 91181,
+      "word": "永辉学习胖东来结果每天亏600万",
+      "onboard_time": 1769319199,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 49451,
@@ -1425,6 +1577,14 @@
       "onboard_time": 1769273724,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 37780,
+      "num": 160747,
+      "word": "普通人什么时候能去太空旅游",
+      "onboard_time": 1769318001,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37772,
@@ -1513,6 +1673,14 @@
       "onboard_time": 1769277736,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 25525,
+      "num": 104367,
+      "word": "俄美乌三方首轮会谈细节披露",
+      "onboard_time": 1769318001,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 25204,
