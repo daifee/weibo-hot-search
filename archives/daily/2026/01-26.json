@@ -1,6 +1,6 @@
 {
   "startTime": 1769358907478,
-  "endTime": 1769420578270,
+  "endTime": 1769421414695,
   "band_list": [
     {
       "raw_hot": 9558023,
@@ -259,6 +259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 332878,
+      "num": 243840,
+      "word": "TFBOYS三人六字 TWS六人三字",
+      "onboard_time": 1769418862,
+      "rank": 3,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 329629,
       "num": 197520,
       "word": "张学友捐款130万元",
@@ -379,6 +387,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 272235,
+      "num": 120308,
+      "word": "中方坚决反对将疫情甩锅中国",
+      "onboard_time": 1769418922,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 271743,
       "num": 775519,
       "word": "美国派出重兵合围伊朗",
@@ -387,11 +403,11 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 266593,
-      "num": 107712,
-      "word": "中方坚决反对将疫情甩锅中国",
-      "onboard_time": 1769418922,
-      "rank": 30,
+      "raw_hot": 266612,
+      "num": 266612,
+      "word": "靖国神社前的石狮掠自中国",
+      "onboard_time": 1769417841,
+      "rank": 46,
       "category": "国内时政"
     },
     {
@@ -443,14 +459,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 243840,
-      "num": 243840,
-      "word": "TFBOYS三人六字 TWS六人三字",
-      "onboard_time": 1769418862,
-      "rank": 3,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 243147,
       "num": 243147,
       "word": "十日终焉",
@@ -473,6 +481,14 @@
       "onboard_time": 1769403742,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 240941,
+      "num": 117460,
+      "word": "董卿发型 隆重又松弛",
+      "onboard_time": 1769419703,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 240925,
@@ -587,14 +603,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 200542,
-      "num": 200542,
-      "word": "靖国神社前的石狮掠自中国",
-      "onboard_time": 1769417841,
-      "rank": 46,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 200143,
       "num": 200143,
       "word": "张杰鸟巢演唱会审批通过",
@@ -608,6 +616,14 @@
       "word": "何健麒曾说玉茗茶骨里有他的角色",
       "onboard_time": 1769389401,
       "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 199153,
+      "num": 199153,
+      "word": "十日终焉大男主",
+      "onboard_time": 1769419821,
+      "rank": 27,
       "category": "剧集"
     },
     {
@@ -643,20 +659,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 185655,
-      "num": 107982,
-      "word": "董卿发型 隆重又松弛",
-      "onboard_time": 1769419703,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 185527,
       "num": 185527,
       "word": "微博抓马",
       "onboard_time": 1769410639,
       "rank": 9,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 181541,
+      "num": 181541,
+      "word": "紫金矿业卖一挂单40.7亿元",
+      "onboard_time": 1769419703,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 181439,
@@ -731,14 +747,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 162342,
-      "num": 177941,
-      "word": "紫金矿业卖一挂单40.7亿元",
-      "onboard_time": 1769419703,
-      "rank": 9,
-      "category": "财经"
-    },
-    {
       "raw_hot": 161569,
       "num": 266922,
       "word": "羽绒服这样洗可能会爆炸",
@@ -769,6 +777,14 @@
       "onboard_time": 1769416041,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 154012,
+      "num": 115336,
+      "word": "弟弟弟妹上下铺姐姐姐夫上高速",
+      "onboard_time": 1769419103,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 152979,
@@ -899,14 +915,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 137382,
-      "num": 109585,
-      "word": "弟弟弟妹上下铺姐姐姐夫上高速",
-      "onboard_time": 1769419103,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 136901,
       "num": 136901,
       "word": "王橹杰 羚羊王子",
@@ -963,6 +971,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 130342,
+      "num": 130342,
+      "word": "中国公民春节期间避免前往日本",
+      "onboard_time": 1769420241,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 128149,
       "num": 128149,
       "word": "黄金不到一个月涨了700美元",
@@ -1001,14 +1017,6 @@
       "onboard_time": 1769403983,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 126244,
-      "num": 107920,
-      "word": "十日终焉大男主",
-      "onboard_time": 1769419821,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 124599,
@@ -1155,6 +1163,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 115213,
+      "num": 115213,
+      "word": "女子打麻将戴特殊隐形眼镜被拆穿",
+      "onboard_time": 1769420122,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 114749,
+      "num": 114749,
+      "word": "长期缺爱的人一眼就看出来了",
+      "onboard_time": 1769420901,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 114408,
       "num": 190427,
       "word": "感染尼帕病毒早期症状类似流感",
@@ -1177,6 +1201,14 @@
       "onboard_time": 1769416580,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 111480,
+      "num": 111480,
+      "word": "超过25岁就不适合劝分了",
+      "onboard_time": 1769417181,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 108767,
@@ -1211,22 +1243,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 107999,
-      "num": 107999,
-      "word": "女子打麻将戴特殊隐形眼镜被拆穿",
-      "onboard_time": 1769420122,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 107649,
-      "num": 107649,
-      "word": "超过25岁就不适合劝分了",
-      "onboard_time": 1769417181,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
       "raw_hot": 107143,
       "num": 107143,
       "word": "建议住五星酒店带行李箱",
@@ -1251,6 +1267,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 106543,
+      "num": 106543,
+      "word": "有中国游客亏5000元取消赴泰行程",
+      "onboard_time": 1769419402,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106023,
       "num": 136673,
       "word": "头一次见国漫全明星走红毯",
@@ -1265,6 +1289,14 @@
       "onboard_time": 1769413282,
       "rank": 44,
       "category": "财经"
+    },
+    {
+      "raw_hot": 105004,
+      "num": 105004,
+      "word": "杨鸣回应辞去主教练职务",
+      "onboard_time": 1769420541,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 104663,
@@ -1403,11 +1435,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 97024,
-      "num": 94077,
-      "word": "杨鸣回应辞去主教练职务",
-      "onboard_time": 1769420541,
-      "rank": 47,
+      "raw_hot": 97064,
+      "num": 97064,
+      "word": "杨鸣发博回应",
+      "onboard_time": 1769420730,
+      "rank": 40,
       "category": "体育"
     },
     {
@@ -1459,6 +1491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 95963,
+      "num": 95963,
+      "word": "理解为什么有同学觉得食堂好吃了",
+      "onboard_time": 1769420662,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 95832,
       "num": 95832,
       "word": "甜腊八粥 咸腊八粥",
@@ -1473,14 +1513,6 @@
       "onboard_time": 1769419402,
       "rank": 40,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 95153,
-      "num": 95153,
-      "word": "中国公民春节期间避免前往日本",
-      "onboard_time": 1769420241,
-      "rank": 41,
-      "category": "国内时政"
     },
     {
       "raw_hot": 95102,
@@ -1723,6 +1755,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 83785,
+      "num": 97516,
+      "word": "蒋欣 上炕都费劲",
+      "onboard_time": 1769420301,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 83641,
       "num": 83641,
       "word": "金饰克价逼近1600元",
@@ -1811,6 +1851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 78368,
+      "num": 78368,
+      "word": "kiiikiii新歌",
+      "onboard_time": 1769420841,
+      "rank": 48,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 77408,
       "num": 77408,
       "word": "美国严寒天气已致多人死亡",
@@ -1889,6 +1937,14 @@
       "onboard_time": 1769359278,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 70674,
+      "num": 97986,
+      "word": "林志玲拍戏了",
+      "onboard_time": 1769421143,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 70294,
@@ -2099,6 +2155,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 59516,
+      "num": 123251,
+      "word": "甘南州启动地震灾害应急三级响应",
+      "onboard_time": 1769420901,
+      "rank": 19,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 58837,
       "num": 58837,
       "word": "周渝民一家三口看王心凌演唱会",
@@ -2113,6 +2177,14 @@
       "onboard_time": 1769339540,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 57902,
+      "num": 642534,
+      "word": "中国为何被称全球首个重要电力国家",
+      "onboard_time": 1769419162,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 57714,
@@ -2179,14 +2251,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 54326,
-      "num": 97180,
-      "word": "蒋欣 上炕都费劲",
-      "onboard_time": 1769420301,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 53455,
       "num": 100383,
       "word": "王橹杰摔跤还有直拍",
@@ -2225,14 +2289,6 @@
       "onboard_time": 1769340320,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 48945,
-      "num": 642534,
-      "word": "中国为何被称全球首个重要电力国家",
-      "onboard_time": 1769419162,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 48749,
@@ -2289,14 +2345,6 @@
       "onboard_time": 1769356462,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 43696,
-      "num": 95689,
-      "word": "有中国游客亏5000元取消赴泰行程",
-      "onboard_time": 1769419402,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 43446,
@@ -2499,6 +2547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26003,
+      "num": 159211,
+      "word": "在喵娲娲的世界里不说爱说什么",
+      "onboard_time": 1769418022,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 25890,
       "num": 108841,
       "word": "外国网民掀起成为中国人潮流",
@@ -2531,14 +2587,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 23514,
-      "num": 159211,
-      "word": "在喵娲娲的世界里不说爱说什么",
-      "onboard_time": 1769418022,
-      "rank": 14,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 21122,
       "num": 111312,
       "word": "菲律宾渡轮沉没已救起300余人",
@@ -2553,6 +2601,14 @@
       "onboard_time": 1769411061,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 18745,
+      "num": 97140,
+      "word": "甘肃5.5级地震有建筑受损",
+      "onboard_time": 1769420601,
+      "rank": 39,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 18634,

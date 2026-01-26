@@ -1,0 +1,410 @@
+{
+  "runTime": 1769421414695,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 586359,
+        "num": 1093817,
+        "word": "甘肃地震",
+        "onboard_time": 1769410940,
+        "rank": 0,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 356109,
+        "num": 798423,
+        "word": "我国已将尼帕病毒纳入检测范围",
+        "onboard_time": 1769408420,
+        "rank": 1,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 57902,
+        "num": 617813,
+        "word": "中国为何被称全球首个重要电力国家",
+        "onboard_time": 1769419162,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 266612,
+        "num": 266612,
+        "word": "靖国神社前的石狮掠自中国",
+        "onboard_time": 1769417841,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 242431,
+        "num": 242431,
+        "word": "全球已进入水资源破产时代",
+        "onboard_time": 1769409560,
+        "rank": 4,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 284386,
+        "num": 227770,
+        "word": "空姐笑了半小时才把橙汁倒下去",
+        "onboard_time": 1769408901,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 199153,
+        "num": 199153,
+        "word": "十日终焉大男主",
+        "onboard_time": 1769419821,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181541,
+        "num": 181541,
+        "word": "紫金矿业卖一挂单40.7亿元",
+        "onboard_time": 1769419703,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 173403,
+        "num": 173403,
+        "word": "第一个发明首位淘汰制的国产剧",
+        "onboard_time": 1769416942,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142876,
+        "num": 172074,
+        "word": "大爷2万买宝马5天趴窝4次拉断绳",
+        "onboard_time": 1769406620,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 359095,
+        "num": 171357,
+        "word": "尼帕病毒",
+        "onboard_time": 1769402422,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 212693,
+        "num": 169473,
+        "word": "印度现尼帕病毒疫情在泰留学生发声",
+        "onboard_time": 1769414001,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 193384,
+        "num": 167743,
+        "word": "程序员27岁去美国35岁流落街头",
+        "onboard_time": 1769404402,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 166507,
+        "num": 166507,
+        "word": "马化腾希望重现当年微信红包盛况",
+        "onboard_time": 1769411722,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 26003,
+        "num": 149436,
+        "word": "在喵娲娲的世界里不说爱说什么",
+        "onboard_time": 1769418022,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 145574,
+        "num": 145574,
+        "word": "运动对小孩有多重要",
+        "onboard_time": 1769412561,
+        "rank": 15,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 130342,
+        "num": 130342,
+        "word": "中国公民春节期间避免前往日本",
+        "onboard_time": 1769420241,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 127261,
+        "num": 127261,
+        "word": "西安震感",
+        "onboard_time": 1769414001,
+        "rank": 17,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 123639,
+        "num": 123639,
+        "word": "尼帕病毒目前尚无疫苗",
+        "onboard_time": 1769420362,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 59516,
+        "num": 123251,
+        "word": "甘南州启动地震灾害应急三级响应",
+        "onboard_time": 1769420901,
+        "rank": 19,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 457426,
+        "num": 123251,
+        "word": "周涛董卿 恨她像块冰恨她太聪明",
+        "onboard_time": 1769416102,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 332878,
+        "num": 123219,
+        "word": "TFBOYS三人六字 TWS六人三字",
+        "onboard_time": 1769418862,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 123091,
+        "num": 123091,
+        "word": "甘肃迭部5.5级地震",
+        "onboard_time": 1769411423,
+        "rank": 22,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 272235,
+        "num": 120308,
+        "word": "中方坚决反对将疫情甩锅中国",
+        "onboard_time": 1769418922,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 250935,
+        "num": 119275,
+        "word": "张凌赫 做惠英红的宝贝这么难吗",
+        "onboard_time": 1769417662,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240941,
+        "num": 117460,
+        "word": "董卿发型 隆重又松弛",
+        "onboard_time": 1769419703,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115400,
+        "num": 115400,
+        "word": "黄金",
+        "onboard_time": 1769386880,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 154012,
+        "num": 115336,
+        "word": "弟弟弟妹上下铺姐姐姐夫上高速",
+        "onboard_time": 1769419103,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146161,
+        "num": 115278,
+        "word": "鲁豫范晓萱拒绝浪姐的理由",
+        "onboard_time": 1769413941,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115213,
+        "num": 115213,
+        "word": "女子打麻将戴特殊隐形眼镜被拆穿",
+        "onboard_time": 1769420122,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114749,
+        "num": 114749,
+        "word": "长期缺爱的人一眼就看出来了",
+        "onboard_time": 1769420901,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 111480,
+        "num": 111480,
+        "word": "超过25岁就不适合劝分了",
+        "onboard_time": 1769417181,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 106543,
+        "num": 106543,
+        "word": "有中国游客亏5000元取消赴泰行程",
+        "onboard_time": 1769419402,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105004,
+        "num": 105004,
+        "word": "杨鸣回应辞去主教练职务",
+        "onboard_time": 1769420541,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100829,
+        "num": 100829,
+        "word": "两室一厅住阳台",
+        "onboard_time": 1769411602,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 100598,
+        "num": 100598,
+        "word": "第一次见拿自己小孩打窝",
+        "onboard_time": 1769418922,
+        "rank": 35,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 99288,
+        "num": 99288,
+        "word": "网友迪士尼照片里的Angelababy",
+        "onboard_time": 1769418621,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70674,
+        "num": 97986,
+        "word": "林志玲拍戏了",
+        "onboard_time": 1769421143,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83785,
+        "num": 97516,
+        "word": "蒋欣 上炕都费劲",
+        "onboard_time": 1769420301,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18745,
+        "num": 97140,
+        "word": "甘肃5.5级地震有建筑受损",
+        "onboard_time": 1769420601,
+        "rank": 39,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 97064,
+        "num": 97064,
+        "word": "杨鸣发博回应",
+        "onboard_time": 1769420730,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98885,
+        "num": 96991,
+        "word": "惠英红张凌赫 句句都是一把刀",
+        "onboard_time": 1769416041,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96219,
+        "num": 96219,
+        "word": "分析称金价急剧回调可能性正在增加",
+        "onboard_time": 1769415562,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 95963,
+        "num": 95963,
+        "word": "理解为什么有同学觉得食堂好吃了",
+        "onboard_time": 1769420662,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 91285,
+        "num": 91285,
+        "word": "Angelababy 像素模糊但建模清晰",
+        "onboard_time": 1769416401,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90769,
+        "num": 90769,
+        "word": "田栩宁工作室发告黑进展",
+        "onboard_time": 1769409320,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82741,
+        "num": 82741,
+        "word": "黄金不到一个月涨了700美元",
+        "onboard_time": 1769413941,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 79364,
+        "num": 79364,
+        "word": "白银",
+        "onboard_time": 1769395879,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 78368,
+        "num": 78368,
+        "word": "kiiikiii新歌",
+        "onboard_time": 1769420841,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 75979,
+        "num": 75979,
+        "word": "宋威龙新加坡vlog",
+        "onboard_time": 1769419402,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#士兵始终是习近平主席心头的牵挂#"
+    }
+  }
+}
