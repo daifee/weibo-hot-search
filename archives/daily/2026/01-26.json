@@ -1,6 +1,6 @@
 {
   "startTime": 1769358907478,
-  "endTime": 1769435666113,
+  "endTime": 1769436118999,
   "band_list": [
     {
       "raw_hot": 9558023,
@@ -275,7 +275,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 461681,
+      "raw_hot": 463696,
       "num": 241396,
       "word": "金价飙升原因找到了",
       "onboard_time": 1769423241,
@@ -308,7 +308,7 @@
     },
     {
       "raw_hot": 408779,
-      "num": 159588,
+      "num": 160601,
       "word": "车银优发长文道歉",
       "onboard_time": 1769427980,
       "rank": 20,
@@ -459,8 +459,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 307140,
+      "num": 179868,
+      "word": "TOP xr手机",
+      "onboard_time": 1769434163,
+      "rank": 19,
+      "category": "艺人,数码"
+    },
+    {
       "raw_hot": 305701,
-      "num": 147141,
+      "num": 155366,
       "word": "男子彩票中800余万交妻子淡定上班",
       "onboard_time": 1769435481,
       "rank": 21,
@@ -611,6 +619,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 262042,
+      "num": 158817,
+      "word": "车厘子包装袋不要丢",
+      "onboard_time": 1769433262,
+      "rank": 24,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 261669,
       "num": 261669,
       "word": "腊八",
@@ -633,14 +649,6 @@
       "onboard_time": 1769397559,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 256754,
-      "num": 158817,
-      "word": "车厘子包装袋不要丢",
-      "onboard_time": 1769433262,
-      "rank": 24,
-      "category": "科学科普"
     },
     {
       "raw_hot": 255898,
@@ -705,6 +713,14 @@
       "onboard_time": 1769409560,
       "rank": 40,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 242752,
+      "num": 185678,
+      "word": "台湾省314人因冷空气去世",
+      "onboard_time": 1769433983,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 241423,
@@ -779,14 +795,6 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 230589,
-      "num": 147831,
-      "word": "TOP xr手机",
-      "onboard_time": 1769434163,
-      "rank": 19,
-      "category": "艺人,数码"
-    },
-    {
       "raw_hot": 227834,
       "num": 173822,
       "word": "你是林雨申那他是谁",
@@ -841,14 +849,6 @@
       "onboard_time": 1769384239,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 201140,
-      "num": 185678,
-      "word": "台湾省314人因冷空气去世",
-      "onboard_time": 1769433983,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 200760,
@@ -1555,6 +1555,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 107375,
+      "num": 107375,
+      "word": "李亚鹏为女儿李嫣费尽心血",
+      "onboard_time": 1769435541,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 107143,
       "num": 107143,
       "word": "建议住五星酒店带行李箱",
@@ -1801,6 +1809,14 @@
       "onboard_time": 1769425582,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 96977,
+      "num": 96977,
+      "word": "国投白银LOF将暂停申购",
+      "onboard_time": 1769435841,
+      "rank": 33,
+      "category": "财经"
     },
     {
       "raw_hot": 96938,
@@ -2299,14 +2315,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 79470,
-      "num": 79470,
-      "word": "李亚鹏为女儿李嫣费尽心血",
-      "onboard_time": 1769435541,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 79130,
       "num": 168604,
       "word": "外国游客被雍和宫祈福机器人惊呆",
@@ -2401,6 +2409,14 @@
       "onboard_time": 1769434761,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 76184,
+      "num": 76184,
+      "word": "西高地papi妈妈被威胁杀光你全家",
+      "onboard_time": 1769435721,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 75732,
@@ -2601,6 +2617,14 @@
       "onboard_time": 1769395218,
       "rank": 42,
       "category": "财经"
+    },
+    {
+      "raw_hot": 67970,
+      "num": 67970,
+      "word": "何猷君称投资海南就是投资未来",
+      "onboard_time": 1769435962,
+      "rank": 48,
+      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 67820,
@@ -3043,6 +3067,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 39792,
+      "num": 634938,
+      "word": "大数据看我国消费新亮点",
+      "onboard_time": 1769434642,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 39536,
       "num": 39536,
       "word": "3家娱乐场所长期招未成年人陪侍",
@@ -3193,14 +3225,6 @@
       "onboard_time": 1769419942,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 26631,
-      "num": 594296,
-      "word": "大数据看我国消费新亮点",
-      "onboard_time": 1769434642,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 26003,

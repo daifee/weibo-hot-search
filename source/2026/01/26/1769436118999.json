@@ -1,0 +1,410 @@
+{
+  "runTime": 1769436118999,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 490031,
+        "num": 1078405,
+        "word": "92岁老人每天睡超20小时身体倍棒",
+        "onboard_time": 1769426541,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 344427,
+        "num": 785080,
+        "word": "6名中国男子日本滑雪被困死亡谷",
+        "onboard_time": 1769429183,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 39792,
+        "num": 634938,
+        "word": "大数据看我国消费新亮点",
+        "onboard_time": 1769434642,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 237391,
+        "num": 237391,
+        "word": "灵隐寺免票预约后38万人爽约",
+        "onboard_time": 1769429782,
+        "rank": 3,
+        "category": "民生新闻,旅游"
+      },
+      {
+        "raw_hot": 228905,
+        "num": 228905,
+        "word": "中国公民春节期间避免前往日本",
+        "onboard_time": 1769420241,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 463696,
+        "num": 214045,
+        "word": "金价飙升原因找到了",
+        "onboard_time": 1769423241,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 189297,
+        "num": 189297,
+        "word": "山姆499元羽绒服羽绒成本约为186元",
+        "onboard_time": 1769425882,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188262,
+        "num": 188262,
+        "word": "顾客试吃后退货包裹里塞两元钱",
+        "onboard_time": 1769423721,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162221,
+        "num": 187690,
+        "word": "王楚钦参加首都院士专家新春联谊会",
+        "onboard_time": 1769429782,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104015,
+        "num": 186736,
+        "word": "紫金矿业卖一挂单40.7亿元",
+        "onboard_time": 1769419703,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1286149,
+        "num": 185063,
+        "word": "微博之夜猜阵容",
+        "onboard_time": 1769434761,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 876062,
+        "num": 184232,
+        "word": "何健麒尿检",
+        "onboard_time": 1769428941,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242752,
+        "num": 182150,
+        "word": "台湾省314人因冷空气去世",
+        "onboard_time": 1769433983,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 647890,
+        "num": 180765,
+        "word": "车银优承认逃税",
+        "onboard_time": 1769427921,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 307140,
+        "num": 179868,
+        "word": "TOP xr手机",
+        "onboard_time": 1769434163,
+        "rank": 14,
+        "category": "艺人,数码"
+      },
+      {
+        "raw_hot": 179501,
+        "num": 179501,
+        "word": "尼帕病毒",
+        "onboard_time": 1769402422,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 286697,
+        "num": 178602,
+        "word": "童锦程自曝想和林志玲牵手",
+        "onboard_time": 1769429482,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240147,
+        "num": 172506,
+        "word": "内娱喵系男艺人",
+        "onboard_time": 1769425940,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123890,
+        "num": 169423,
+        "word": "女子打麻将戴特殊隐形眼镜被拆穿",
+        "onboard_time": 1769420122,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 240115,
+        "num": 164689,
+        "word": "赵樱子直播间发飙怼助理",
+        "onboard_time": 1769426302,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 387600,
+        "num": 160601,
+        "word": "车银优发长文道歉",
+        "onboard_time": 1769427980,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 289477,
+        "num": 155366,
+        "word": "男子彩票中800余万交妻子淡定上班",
+        "onboard_time": 1769435481,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 262042,
+        "num": 151296,
+        "word": "车厘子包装袋不要丢",
+        "onboard_time": 1769433262,
+        "rank": 22,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 197541,
+        "num": 145007,
+        "word": "花儿与少年8",
+        "onboard_time": 1769423841,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194480,
+        "num": 141064,
+        "word": "长期缺爱的人一眼就看出来了",
+        "onboard_time": 1769420901,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140427,
+        "num": 140427,
+        "word": "新郎新娘坐马车意外翻进沟里",
+        "onboard_time": 1769432541,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130175,
+        "num": 130175,
+        "word": "左航发的花絮图",
+        "onboard_time": 1769434401,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116710,
+        "num": 116710,
+        "word": "卢昱晓轧戏收官千字长文",
+        "onboard_time": 1769424921,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113124,
+        "num": 113124,
+        "word": "中方坚决反对将疫情甩锅中国",
+        "onboard_time": 1769418922,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 109263,
+        "num": 109263,
+        "word": "银价疯涨有银饰店干不下去了",
+        "onboard_time": 1769423542,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 107375,
+        "num": 107375,
+        "word": "李亚鹏为女儿李嫣费尽心血",
+        "onboard_time": 1769435541,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102665,
+        "num": 102665,
+        "word": "iPhoneAir暴降后卖断货",
+        "onboard_time": 1769426663,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 100191,
+        "num": 100191,
+        "word": "在巴厘岛确诊了脏水病",
+        "onboard_time": 1769424562,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96977,
+        "num": 96977,
+        "word": "国投白银LOF将暂停申购",
+        "onboard_time": 1769435841,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 96478,
+        "num": 96478,
+        "word": "董卿发型 隆重又松弛",
+        "onboard_time": 1769419703,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91176,
+        "num": 91176,
+        "word": "太平年",
+        "onboard_time": 1769432902,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 81578,
+        "num": 81578,
+        "word": "甘肃迭部5.5级地震",
+        "onboard_time": 1769411423,
+        "rank": 36,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 85338,
+        "num": 81558,
+        "word": "左奇函晒新疆游合照",
+        "onboard_time": 1769429842,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81310,
+        "num": 81310,
+        "word": "甘肃地震",
+        "onboard_time": 1769410940,
+        "rank": 38,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 85586,
+        "num": 80871,
+        "word": "周涛董卿 恨她像块冰恨她太聪明",
+        "onboard_time": 1769416102,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76184,
+        "num": 76184,
+        "word": "西高地papi妈妈被威胁杀光你全家",
+        "onboard_time": 1769435721,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75410,
+        "num": 75410,
+        "word": "BLG又被JDG翻盘了",
+        "onboard_time": 1769434041,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 74809,
+        "num": 74809,
+        "word": "王楚钦又幽默了",
+        "onboard_time": 1769433983,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 74632,
+        "num": 74632,
+        "word": "贺峻霖画技",
+        "onboard_time": 1769424861,
+        "rank": 43,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 72609,
+        "num": 72609,
+        "word": "眼睛近视到底可不可逆",
+        "onboard_time": 1769421682,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 72304,
+        "num": 72304,
+        "word": "49条中日航线取消全部航班",
+        "onboard_time": 1769427562,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 69413,
+        "num": 69413,
+        "word": "BLG对战JDG",
+        "onboard_time": 1769434761,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 68755,
+        "num": 68755,
+        "word": "李想临时召开线上公司全员会",
+        "onboard_time": 1769434761,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 67970,
+        "num": 67970,
+        "word": "何猷君称投资海南就是投资未来",
+        "onboard_time": 1769435962,
+        "rank": 48,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 66959,
+        "num": 66959,
+        "word": "印度阅兵式",
+        "onboard_time": 1769435062,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#士兵始终是习近平主席心头的牵挂#"
+    }
+  }
+}

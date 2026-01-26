@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769435666113,
+  "endTime": 1769436118999,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -8107,6 +8107,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 463696,
+      "num": 894509,
+      "word": "金价飙升原因找到了",
+      "onboard_time": 1767357261,
+      "rank": 25,
+      "category": "财经"
+    },
+    {
       "raw_hot": 463580,
       "num": 203370,
       "word": "死了么APP创始人称没想到这么火",
@@ -8169,14 +8177,6 @@
       "onboard_time": 1768746683,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 461681,
-      "num": 894509,
-      "word": "金价飙升原因找到了",
-      "onboard_time": 1767357261,
-      "rank": 25,
-      "category": "财经"
     },
     {
       "raw_hot": 461396,
@@ -9916,7 +9916,7 @@
     },
     {
       "raw_hot": 408779,
-      "num": 159588,
+      "num": 160601,
       "word": "车银优发长文道歉",
       "onboard_time": 1769427980,
       "rank": 20,
@@ -14571,6 +14571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 307140,
+      "num": 179868,
+      "word": "TOP xr手机",
+      "onboard_time": 1769434163,
+      "rank": 19,
+      "category": "艺人,数码"
+    },
+    {
       "raw_hot": 306586,
       "num": 761124,
       "word": "盲目施救致伤亡扩大4人窒息死亡",
@@ -14644,7 +14652,7 @@
     },
     {
       "raw_hot": 305701,
-      "num": 147141,
+      "num": 155366,
       "word": "男子彩票中800余万交妻子淡定上班",
       "onboard_time": 1769435481,
       "rank": 21,
@@ -17715,6 +17723,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 262042,
+      "num": 158817,
+      "word": "车厘子包装袋不要丢",
+      "onboard_time": 1769433262,
+      "rank": 24,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 261771,
       "num": 1002527,
       "word": "TE对战北京WBG",
@@ -18089,14 +18105,6 @@
       "onboard_time": 1768833921,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 256754,
-      "num": 158817,
-      "word": "车厘子包装袋不要丢",
-      "onboard_time": 1769433262,
-      "rank": 24,
-      "category": "科学科普"
     },
     {
       "raw_hot": 256749,
@@ -19113,6 +19121,14 @@
       "onboard_time": 1769409560,
       "rank": 40,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 242752,
+      "num": 185678,
+      "word": "台湾省314人因冷空气去世",
+      "onboard_time": 1769433983,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 242741,
@@ -20193,14 +20209,6 @@
       "onboard_time": 1767742700,
       "rank": 11,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 230589,
-      "num": 147831,
-      "word": "TOP xr手机",
-      "onboard_time": 1769434163,
-      "rank": 19,
-      "category": "艺人,数码"
     },
     {
       "raw_hot": 230571,
@@ -23392,14 +23400,6 @@
       "word": "82岁外婆翻3米高围栏出门",
       "onboard_time": 1767836539,
       "rank": 11,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 201140,
-      "num": 185678,
-      "word": "台湾省314人因冷空气去世",
-      "onboard_time": 1769433983,
-      "rank": 12,
       "category": "民生新闻"
     },
     {
@@ -48523,6 +48523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 107375,
+      "num": 107375,
+      "word": "李亚鹏为女儿李嫣费尽心血",
+      "onboard_time": 1769435541,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 107337,
       "num": 107337,
       "word": "白鹿十八宫格",
@@ -55057,6 +55065,14 @@
       "onboard_time": 1768902140,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 96977,
+      "num": 96977,
+      "word": "国投白银LOF将暂停申购",
+      "onboard_time": 1769435841,
+      "rank": 33,
+      "category": "财经"
     },
     {
       "raw_hot": 96968,
@@ -67163,14 +67179,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 79470,
-      "num": 79470,
-      "word": "李亚鹏为女儿李嫣费尽心血",
-      "onboard_time": 1769435541,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 79455,
       "num": 100463,
       "word": "如何靠首饰拯救穿搭",
@@ -68881,6 +68889,14 @@
       "onboard_time": 1767617002,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 76184,
+      "num": 76184,
+      "word": "西高地papi妈妈被威胁杀光你全家",
+      "onboard_time": 1769435721,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 76162,
@@ -72329,6 +72345,14 @@
       "onboard_time": 1768623320,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 67970,
+      "num": 67970,
+      "word": "何猷君称投资海南就是投资未来",
+      "onboard_time": 1769435962,
+      "rank": 48,
+      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 67955,
@@ -79811,6 +79835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39792,
+      "num": 634938,
+      "word": "大数据看我国消费新亮点",
+      "onboard_time": 1769434642,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 39775,
       "num": 81473,
       "word": "商场客服回应洗手台酷似小便池",
@@ -83423,14 +83455,6 @@
       "num": 649142,
       "word": "中国农民种地科技感拉满",
       "onboard_time": 1768138883,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 26631,
-      "num": 594296,
-      "word": "大数据看我国消费新亮点",
-      "onboard_time": 1769434642,
       "rank": 2,
       "category": "国内时政"
     },
