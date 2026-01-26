@@ -1,6 +1,6 @@
 {
   "startTime": 1769358907478,
-  "endTime": 1769439328833,
+  "endTime": 1769441903673,
   "band_list": [
     {
       "raw_hot": 9558023,
@@ -59,6 +59,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1045065,
+      "num": 106611,
+      "word": "梓渝不参加微博之夜",
+      "onboard_time": 1769439262,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1023500,
       "num": 250987,
       "word": "前女友实名举报何健麒涉毒",
@@ -113,6 +121,14 @@
       "onboard_time": 1769395159,
       "rank": 12,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 738940,
+      "num": 1118230,
+      "word": "男子彩票中800余万交妻子淡定上班",
+      "onboard_time": 1769435481,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 728425,
@@ -363,14 +379,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 361085,
-      "num": 778674,
-      "word": "男子彩票中800余万交妻子淡定上班",
-      "onboard_time": 1769435481,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 356287,
       "num": 560518,
       "word": "成毅新片定档春节档",
@@ -612,7 +620,7 @@
     },
     {
       "raw_hot": 272235,
-      "num": 207705,
+      "num": 220631,
       "word": "中方坚决反对将疫情甩锅中国",
       "onboard_time": 1769418922,
       "rank": 30,
@@ -723,6 +731,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 243762,
+      "num": 125814,
+      "word": "Angelababy高定品牌创始人回应争议",
+      "onboard_time": 1769441302,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 243147,
       "num": 243147,
       "word": "十日终焉",
@@ -811,6 +827,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 230296,
+      "num": 206664,
+      "word": "张艺兴孙红雷同框跳手势舞",
+      "onboard_time": 1769437702,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 227834,
       "num": 173822,
       "word": "你是林雨申那他是谁",
@@ -851,20 +875,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 211740,
-      "num": 206664,
-      "word": "张艺兴孙红雷同框跳手势舞",
-      "onboard_time": 1769437702,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 210375,
       "num": 210375,
       "word": "王欣瑜vs阿尼西莫娃",
       "onboard_time": 1769398461,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 206998,
+      "num": 123440,
+      "word": "罗云熙工作室声明",
+      "onboard_time": 1769438602,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 206661,
@@ -881,6 +905,14 @@
       "onboard_time": 1769397742,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 204996,
+      "num": 204996,
+      "word": "好利来蛋糕店店员将掉地面包捡起售卖",
+      "onboard_time": 1769440103,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 204118,
@@ -1331,6 +1363,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 129444,
+      "num": 129444,
+      "word": "DIOR大秀",
+      "onboard_time": 1769440524,
+      "rank": 9,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 128974,
       "num": 95500,
       "word": "我过年回家要是被逼相亲就这样",
@@ -1619,14 +1659,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 110913,
-      "num": 110913,
-      "word": "罗云熙工作室声明",
-      "onboard_time": 1769438602,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 108767,
       "num": 108767,
       "word": "U23国足载誉而归",
@@ -1681,14 +1713,6 @@
       "onboard_time": 1769410761,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 106611,
-      "num": 106611,
-      "word": "梓渝不参加微博之夜",
-      "onboard_time": 1769439262,
-      "rank": 42,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 106543,
@@ -2059,6 +2083,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 93803,
+      "num": 93803,
+      "word": "谁家女演员从剧里气到剧外啊",
+      "onboard_time": 1769439381,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 93620,
       "num": 93620,
       "word": "我对做饭的耐心就这样",
@@ -2105,6 +2137,14 @@
       "onboard_time": 1769419402,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 92001,
+      "num": 96979,
+      "word": "伦敦世乒赛团体赛",
+      "onboard_time": 1769441661,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 91719,
@@ -2177,6 +2217,14 @@
       "onboard_time": 1769356220,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 89992,
+      "num": 89992,
+      "word": "入职体检被要求补做妊娠测试",
+      "onboard_time": 1769440222,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89558,
@@ -2323,6 +2371,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 83918,
+      "num": 83918,
+      "word": "我国狂犬病死亡数创2020年来新高",
+      "onboard_time": 1769440881,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 83641,
       "num": 83641,
       "word": "金饰克价逼近1600元",
@@ -2395,6 +2451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 81412,
+      "num": 111209,
+      "word": "男子连杀两名19岁女子被枪决",
+      "onboard_time": 1769439143,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 81335,
       "num": 112081,
       "word": "美明尼苏达州男子遭补枪画面曝光",
@@ -2417,6 +2481,14 @@
       "onboard_time": 1769421920,
       "rank": 42,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 80433,
+      "num": 80433,
+      "word": "如果你睡觉前这样做",
+      "onboard_time": 1769440702,
+      "rank": 44,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 80398,
@@ -2544,6 +2616,22 @@
       "word": "九肥一瘦香肠被调侃可以当蜡烛用",
       "onboard_time": 1769401823,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76672,
+      "num": 76672,
+      "word": "白银有色预计2025年净亏损超4.5亿",
+      "onboard_time": 1769440222,
+      "rank": 46,
+      "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 76099,
+      "num": 76099,
+      "word": "多款爆款鱼油实为植物油",
+      "onboard_time": 1769440341,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -3003,6 +3091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 56557,
+      "num": 87254,
+      "word": "陈妍希周柯宇将出席微博之夜",
+      "onboard_time": 1769441181,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 56479,
       "num": 140947,
       "word": "郭涛说家不是打分的地方",
@@ -3059,20 +3155,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 53440,
-      "num": 111209,
-      "word": "男子连杀两名19岁女子被枪决",
-      "onboard_time": 1769439143,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 52742,
       "num": 52742,
       "word": "台湾人到上海后认知被颠覆",
       "onboard_time": 1769383756,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 51511,
+      "num": 207469,
+      "word": "刘宇宁化身心愿办事员",
+      "onboard_time": 1769436503,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 50992,
@@ -3225,14 +3321,6 @@
       "onboard_time": 1769410822,
       "rank": 27,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 40345,
-      "num": 207469,
-      "word": "刘宇宁化身心愿办事员",
-      "onboard_time": 1769436503,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 39792,
@@ -3456,6 +3544,14 @@
       "word": "肯德基回应汉堡堂食外卖差3.5元",
       "onboard_time": 1769438182,
       "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22501,
+      "num": 87081,
+      "word": "1车辆超员133%还载了16个孩子",
+      "onboard_time": 1769441540,
+      "rank": 39,
       "category": "民生新闻"
     },
     {

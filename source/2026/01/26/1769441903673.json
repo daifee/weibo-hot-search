@@ -1,0 +1,410 @@
+{
+  "runTime": 1769441903673,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 738940,
+        "num": 1118230,
+        "word": "男子彩票中800余万交妻子淡定上班",
+        "onboard_time": 1769435481,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 273720,
+        "num": 793109,
+        "word": "92岁老人每天睡超20小时身体倍棒",
+        "onboard_time": 1769426541,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39451,
+        "num": 624677,
+        "word": "2025年国内居民出游人次65.22亿",
+        "onboard_time": 1769436983,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 220631,
+        "num": 220631,
+        "word": "中方坚决反对将疫情甩锅中国",
+        "onboard_time": 1769418922,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 204996,
+        "num": 204996,
+        "word": "好利来蛋糕店店员将掉地面包捡起售卖",
+        "onboard_time": 1769440103,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 246946,
+        "num": 200124,
+        "word": "国投白银LOF将暂停申购",
+        "onboard_time": 1769435841,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 170227,
+        "num": 170227,
+        "word": "6名中国男子日本滑雪被困死亡谷",
+        "onboard_time": 1769429183,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 163312,
+        "num": 163312,
+        "word": "山姆499元羽绒服羽绒成本约为186元",
+        "onboard_time": 1769425882,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133742,
+        "num": 133742,
+        "word": "灵隐寺免票预约后38万人爽约",
+        "onboard_time": 1769429782,
+        "rank": 8,
+        "category": "民生新闻,旅游"
+      },
+      {
+        "raw_hot": 129444,
+        "num": 129444,
+        "word": "DIOR大秀",
+        "onboard_time": 1769440524,
+        "rank": 9,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 681378,
+        "num": 128768,
+        "word": "微博之夜猜阵容",
+        "onboard_time": 1769434761,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 526558,
+        "num": 127795,
+        "word": "车银优承认逃税",
+        "onboard_time": 1769427921,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258752,
+        "num": 127355,
+        "word": "西高地papi妈妈被威胁杀光你全家",
+        "onboard_time": 1769435721,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 444749,
+        "num": 126517,
+        "word": "何健麒尿检",
+        "onboard_time": 1769428941,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126119,
+        "num": 126119,
+        "word": "中国公民春节期间避免前往日本",
+        "onboard_time": 1769420241,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 243762,
+        "num": 125814,
+        "word": "Angelababy高定品牌创始人回应争议",
+        "onboard_time": 1769441302,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230296,
+        "num": 125350,
+        "word": "张艺兴孙红雷同框跳手势舞",
+        "onboard_time": 1769437702,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172886,
+        "num": 124823,
+        "word": "台湾省314人因冷空气去世",
+        "onboard_time": 1769433983,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209134,
+        "num": 123961,
+        "word": "TOP xr手机",
+        "onboard_time": 1769434163,
+        "rank": 18,
+        "category": "艺人,数码"
+      },
+      {
+        "raw_hot": 206998,
+        "num": 123440,
+        "word": "罗云熙工作室声明",
+        "onboard_time": 1769438602,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 476549,
+        "num": 122461,
+        "word": "金价飙升原因找到了",
+        "onboard_time": 1769423241,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 167352,
+        "num": 122197,
+        "word": "车厘子包装袋不要丢",
+        "onboard_time": 1769433262,
+        "rank": 21,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 166512,
+        "num": 121308,
+        "word": "内娱喵系男艺人",
+        "onboard_time": 1769425940,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136108,
+        "num": 120484,
+        "word": "车银优发长文道歉",
+        "onboard_time": 1769427980,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120361,
+        "num": 120361,
+        "word": "JDG战胜BLG",
+        "onboard_time": 1769436923,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 123784,
+        "num": 116470,
+        "word": "李亚鹏为女儿李嫣费尽心血",
+        "onboard_time": 1769435541,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51511,
+        "num": 111799,
+        "word": "刘宇宁化身心愿办事员",
+        "onboard_time": 1769436503,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110221,
+        "num": 110221,
+        "word": "尼帕病毒",
+        "onboard_time": 1769402422,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 106683,
+        "num": 106683,
+        "word": "周也 内娱免检大光明",
+        "onboard_time": 1769436923,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102053,
+        "num": 102053,
+        "word": "太平年",
+        "onboard_time": 1769432902,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92001,
+        "num": 96979,
+        "word": "伦敦世乒赛团体赛",
+        "onboard_time": 1769441661,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1045065,
+        "num": 95759,
+        "word": "梓渝不参加微博之夜",
+        "onboard_time": 1769439262,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 93803,
+        "num": 93803,
+        "word": "谁家女演员从剧里气到剧外啊",
+        "onboard_time": 1769439381,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91143,
+        "num": 93577,
+        "word": "长期缺爱的人一眼就看出来了",
+        "onboard_time": 1769420901,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 93393,
+        "num": 93393,
+        "word": "赵樱子直播间发飙怼助理",
+        "onboard_time": 1769426302,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92561,
+        "num": 92561,
+        "word": "花儿与少年8",
+        "onboard_time": 1769423841,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89992,
+        "num": 89992,
+        "word": "入职体检被要求补做妊娠测试",
+        "onboard_time": 1769440222,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89316,
+        "num": 89316,
+        "word": "顾客试吃后退货包裹里塞两元钱",
+        "onboard_time": 1769423721,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56557,
+        "num": 87254,
+        "word": "陈妍希周柯宇将出席微博之夜",
+        "onboard_time": 1769441181,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 22501,
+        "num": 87081,
+        "word": "1车辆超员133%还载了16个孩子",
+        "onboard_time": 1769441540,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87063,
+        "num": 87063,
+        "word": "女子孕33周同步剖宫产和肝切除手术",
+        "onboard_time": 1769436983,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85292,
+        "num": 85292,
+        "word": "人最好的状态就是销声匿迹",
+        "onboard_time": 1769437822,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 83918,
+        "num": 83918,
+        "word": "我国狂犬病死亡数创2020年来新高",
+        "onboard_time": 1769440881,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 81412,
+        "num": 81412,
+        "word": "男子连杀两名19岁女子被枪决",
+        "onboard_time": 1769439143,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80433,
+        "num": 80433,
+        "word": "如果你睡觉前这样做",
+        "onboard_time": 1769440702,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 79521,
+        "num": 79521,
+        "word": "李沁一身干净利落造型亮相Prada活动",
+        "onboard_time": 1769438602,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 76672,
+        "num": 76672,
+        "word": "白银有色预计2025年净亏损超4.5亿",
+        "onboard_time": 1769440222,
+        "rank": 46,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 76269,
+        "num": 76269,
+        "word": "卢昱晓轧戏收官千字长文",
+        "onboard_time": 1769424921,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76099,
+        "num": 76099,
+        "word": "多款爆款鱼油实为植物油",
+        "onboard_time": 1769440341,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74398,
+        "num": 74398,
+        "word": "甘肃迭部5.5级地震",
+        "onboard_time": 1769411423,
+        "rank": 49,
+        "category": "突发/灾害"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同苏林通电话#"
+    }
+  }
+}
