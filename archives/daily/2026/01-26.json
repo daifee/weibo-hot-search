@@ -1,6 +1,6 @@
 {
   "startTime": 1769358907478,
-  "endTime": 1769406899405,
+  "endTime": 1769410168815,
   "band_list": [
     {
       "raw_hot": 1195687,
@@ -91,6 +91,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 590722,
+      "num": 255615,
+      "word": "忘记结婚了习惯性回自己家",
+      "onboard_time": 1769406501,
+      "rank": 41,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 565837,
       "num": 861643,
       "word": "警方查明夫妻网购娃娃菜中毒毒源",
@@ -108,7 +116,7 @@
     },
     {
       "raw_hot": 550123,
-      "num": 137248,
+      "num": 175046,
       "word": "程序员27岁去美国35岁流落街头",
       "onboard_time": 1769404402,
       "rank": 30,
@@ -179,6 +187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 373093,
+      "num": 1059694,
+      "word": "我国已将尼帕病毒纳入检测范围",
+      "onboard_time": 1769408420,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 356287,
       "num": 560518,
       "word": "成毅新片定档春节档",
@@ -193,6 +209,22 @@
       "onboard_time": 1769350644,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 329629,
+      "num": 174354,
+      "word": "张学友捐款130万元",
+      "onboard_time": 1769406620,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 328148,
+      "num": 174099,
+      "word": "空姐笑了半小时才把橙汁倒下去",
+      "onboard_time": 1769408901,
+      "rank": 13,
+      "category": "幽默"
     },
     {
       "raw_hot": 322359,
@@ -219,6 +251,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 290340,
+      "num": 290340,
+      "word": "大爷2万买宝马5天趴窝4次拉断绳",
+      "onboard_time": 1769406620,
+      "rank": 48,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 290109,
       "num": 163327,
       "word": "卡姿兰 云旗郝熠然",
@@ -243,6 +283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 271743,
+      "num": 775519,
+      "word": "美国派出重兵合围伊朗",
+      "onboard_time": 1769403623,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 261669,
       "num": 261669,
       "word": "腊八",
@@ -265,6 +313,14 @@
       "onboard_time": 1769350222,
       "rank": 21,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 250257,
+      "num": 171589,
+      "word": "李子柒时隔半年视频露面",
+      "onboard_time": 1769407821,
+      "rank": 16,
+      "category": "网红"
     },
     {
       "raw_hot": 243147,
@@ -305,6 +361,14 @@
       "onboard_time": 1769394138,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 235948,
+      "num": 322376,
+      "word": "娱乐圈文被拍成短剧了",
+      "onboard_time": 1769406022,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 235105,
@@ -379,6 +443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 197599,
+      "num": 111350,
+      "word": "田栩宁工作室发告黑进展",
+      "onboard_time": 1769409320,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 189686,
       "num": 148005,
       "word": "白嫖辱骂童装店铺的女子已辞职",
@@ -395,12 +467,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 182849,
+      "num": 182849,
+      "word": "A股又突然跳水了",
+      "onboard_time": 1769408001,
+      "rank": 8,
+      "category": "财经"
+    },
+    {
       "raw_hot": 181439,
       "num": 150039,
       "word": "张艺凡这次是101不是303了",
       "onboard_time": 1769395639,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 176550,
+      "num": 176550,
+      "word": "张杰鸟巢演唱会审批通过",
+      "onboard_time": 1769409560,
+      "rank": 9,
+      "category": "演出"
     },
     {
       "raw_hot": 175314,
@@ -425,6 +513,14 @@
       "onboard_time": 1769384539,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 167932,
+      "num": 167932,
+      "word": "田曦薇美人嗔怒这一下",
+      "onboard_time": 1769408542,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 166633,
@@ -465,22 +561,6 @@
       "onboard_time": 1769392580,
       "rank": 22,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 155695,
-      "num": 775519,
-      "word": "美国派出重兵合围伊朗",
-      "onboard_time": 1769403623,
-      "rank": 18,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 155214,
-      "num": 322376,
-      "word": "娱乐圈文被拍成短剧了",
-      "onboard_time": 1769406022,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 152893,
@@ -595,6 +675,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 127609,
+      "num": 127609,
+      "word": "克林顿奥巴马发声",
+      "onboard_time": 1769408300,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 126279,
       "num": 299448,
       "word": "Fakeme和迪丽热巴双向奔赴",
@@ -659,6 +747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 119262,
+      "num": 119262,
+      "word": "腾讯神秘AI项目曝光",
+      "onboard_time": 1769408719,
+      "rank": 27,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 118658,
       "num": 266057,
       "word": "江西唇腭裂女童引全网关注",
@@ -673,6 +769,14 @@
       "onboard_time": 1769348544,
       "rank": 27,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 118223,
+      "num": 118223,
+      "word": "百草味回应958克坚果礼盒坚果33克",
+      "onboard_time": 1769406441,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 116964,
@@ -705,6 +809,14 @@
       "onboard_time": 1769398581,
       "rank": 36,
       "category": "财经"
+    },
+    {
+      "raw_hot": 109486,
+      "num": 109486,
+      "word": "谷爱凌自我加压卷到哭",
+      "onboard_time": 1769410101,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 108766,
@@ -803,14 +915,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 100089,
-      "num": 100089,
-      "word": "张学友捐款130万元",
-      "onboard_time": 1769406620,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 99323,
       "num": 99323,
       "word": "成功减掉了30天",
@@ -833,14 +937,6 @@
       "onboard_time": 1769397742,
       "rank": 44,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 97682,
-      "num": 97682,
-      "word": "忘记结婚了习惯性回自己家",
-      "onboard_time": 1769406501,
-      "rank": 41,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 96914,
@@ -923,6 +1019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 91164,
+      "num": 91164,
+      "word": "全球已进入水资源破产时代",
+      "onboard_time": 1769409560,
+      "rank": 40,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 90616,
       "num": 68356,
       "word": "姑父棒杀侄女作案细节披露",
@@ -947,12 +1051,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 89589,
-      "num": 89589,
-      "word": "百草味回应958克坚果礼盒坚果33克",
-      "onboard_time": 1769406441,
-      "rank": 43,
-      "category": "民生新闻"
+      "raw_hot": 89072,
+      "num": 169134,
+      "word": "伊朗警告美国勿发动军事打击",
+      "onboard_time": 1769409440,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 88498,
@@ -961,6 +1065,14 @@
       "onboard_time": 1769335160,
       "rank": 18,
       "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 88412,
+      "num": 92731,
+      "word": "宋威龙 全球少女的梦",
+      "onboard_time": 1769409440,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 87223,
@@ -1011,6 +1123,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 84073,
+      "num": 80344,
+      "word": "在高铁上实现了咖啡自由",
+      "onboard_time": 1769409800,
+      "rank": 43,
+      "category": "幽默,休闲"
+    },
+    {
       "raw_hot": 84003,
       "num": 84003,
       "word": "光与夜之恋",
@@ -1033,14 +1153,6 @@
       "onboard_time": 1769402362,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 82921,
-      "num": 82921,
-      "word": "大爷2万买宝马5天趴窝4次拉断绳",
-      "onboard_time": 1769406620,
-      "rank": 48,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 81828,
@@ -1113,6 +1225,14 @@
       "onboard_time": 1769383579,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 75185,
+      "num": 75185,
+      "word": "剩米饭变冰淇淋",
+      "onboard_time": 1769410040,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 74199,
@@ -1312,6 +1432,14 @@
       "word": "麦琳7场直播销售额近百万",
       "onboard_time": 1769352441,
       "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 60203,
+      "num": 170790,
+      "word": "马年春联起点太高了",
+      "onboard_time": 1769407642,
+      "rank": 17,
       "category": "艺人"
     },
     {
@@ -1667,6 +1795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 24501,
+      "num": 112991,
+      "word": "最强大脑扎堆接招马年春联",
+      "onboard_time": 1769407701,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 21122,
       "num": 111312,
       "word": "菲律宾渡轮沉没已救起300余人",
@@ -1697,6 +1833,14 @@
       "onboard_time": 1769342060,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 15063,
+      "num": 91674,
+      "word": "宋亚轩在这个视频里起到什么作用",
+      "onboard_time": 1769409921,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 14200,
