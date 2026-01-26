@@ -1,0 +1,410 @@
+{
+  "runTime": 1769427789572,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 524569,
+        "num": 1083931,
+        "word": "中国公民春节期间避免前往日本",
+        "onboard_time": 1769420241,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 334777,
+        "num": 793674,
+        "word": "顾客试吃后退货包裹里塞两元钱",
+        "onboard_time": 1769423721,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43596,
+        "num": 645118,
+        "word": "中国为何被称全球首个重要电力国家",
+        "onboard_time": 1769419162,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 287422,
+        "num": 287422,
+        "word": "网购娃娃菜致夫妻中毒毒源是旧报纸",
+        "onboard_time": 1769424380,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 238530,
+        "num": 238530,
+        "word": "甘肃地震",
+        "onboard_time": 1769410940,
+        "rank": 4,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 206090,
+        "num": 206090,
+        "word": "紫金矿业卖一挂单40.7亿元",
+        "onboard_time": 1769419703,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 179070,
+        "num": 205699,
+        "word": "杨鸣发博回应",
+        "onboard_time": 1769420730,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139153,
+        "num": 203135,
+        "word": "山姆499元羽绒服羽绒成本约为186元",
+        "onboard_time": 1769425882,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119423,
+        "num": 201426,
+        "word": "靖国神社前的石狮掠自中国",
+        "onboard_time": 1769417841,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 184288,
+        "num": 200428,
+        "word": "我国已将尼帕病毒纳入检测范围",
+        "onboard_time": 1769408420,
+        "rank": 9,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 323619,
+        "num": 198407,
+        "word": "眼睛近视到底可不可逆",
+        "onboard_time": 1769421682,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 319060,
+        "num": 197547,
+        "word": "花儿与少年8",
+        "onboard_time": 1769423841,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 276300,
+        "num": 195390,
+        "word": "尼帕病毒",
+        "onboard_time": 1769402422,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 194995,
+        "num": 194995,
+        "word": "贺峻霖画技",
+        "onboard_time": 1769424861,
+        "rank": 13,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 184595,
+        "num": 184595,
+        "word": "在巴厘岛确诊了脏水病",
+        "onboard_time": 1769424562,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178403,
+        "num": 178403,
+        "word": "女子打麻将戴特殊隐形眼镜被拆穿",
+        "onboard_time": 1769420122,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175375,
+        "num": 175375,
+        "word": "卢昱晓轧戏收官千字长文",
+        "onboard_time": 1769424921,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117180,
+        "num": 174062,
+        "word": "92岁老人每天睡超20小时身体倍棒",
+        "onboard_time": 1769426541,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107972,
+        "num": 171139,
+        "word": "终于有影视剧拍出李煜了",
+        "onboard_time": 1769424861,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 79130,
+        "num": 168604,
+        "word": "外国游客被雍和宫祈福机器人惊呆",
+        "onboard_time": 1769426181,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102441,
+        "num": 164706,
+        "word": "山西的便利店能有多万能",
+        "onboard_time": 1769427140,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 277523,
+        "num": 162314,
+        "word": "董卿发型 隆重又松弛",
+        "onboard_time": 1769419703,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 58233,
+        "num": 159958,
+        "word": "49条中日航线取消全部航班",
+        "onboard_time": 1769427562,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 184769,
+        "num": 157379,
+        "word": "空姐笑了半小时才把橙汁倒下去",
+        "onboard_time": 1769408901,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 274259,
+        "num": 154432,
+        "word": "李嘉格 喊父王气死对面",
+        "onboard_time": 1769425882,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218850,
+        "num": 149506,
+        "word": "长期缺爱的人一眼就看出来了",
+        "onboard_time": 1769420901,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 198637,
+        "num": 146306,
+        "word": "金价飙升原因找到了",
+        "onboard_time": 1769423241,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 146081,
+        "num": 146081,
+        "word": "赵樱子直播间发飙怼助理",
+        "onboard_time": 1769426302,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143798,
+        "num": 143798,
+        "word": "中方坚决反对将疫情甩锅中国",
+        "onboard_time": 1769418922,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 135142,
+        "num": 135142,
+        "word": "内娱喵系男艺人",
+        "onboard_time": 1769425940,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127834,
+        "num": 127834,
+        "word": "银价疯涨有银饰店干不下去了",
+        "onboard_time": 1769423542,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 108540,
+        "num": 108540,
+        "word": "周涛董卿 恨她像块冰恨她太聪明",
+        "onboard_time": 1769416102,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104173,
+        "num": 104173,
+        "word": "iPhoneAir暴降后卖断货",
+        "onboard_time": 1769426663,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 96525,
+        "num": 96525,
+        "word": "甘肃迭部5.5级地震",
+        "onboard_time": 1769411423,
+        "rank": 33,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 94626,
+        "num": 94626,
+        "word": "张凌赫宋威龙 为什么不加上余承东",
+        "onboard_time": 1769423121,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93975,
+        "num": 93975,
+        "word": "马化腾希望重现当年微信红包盛况",
+        "onboard_time": 1769411722,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 91615,
+        "num": 91615,
+        "word": "化了100次妆才会知道的",
+        "onboard_time": 1769423961,
+        "rank": 36,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 90155,
+        "num": 90155,
+        "word": "句号侧脸",
+        "onboard_time": 1769426663,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 84071,
+        "num": 84071,
+        "word": "请假没有告知同事的义务",
+        "onboard_time": 1769425102,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 9024,
+        "num": 83851,
+        "word": "喵娲娲爱你老喵",
+        "onboard_time": 1769425282,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 83779,
+        "num": 83779,
+        "word": "微博之夜",
+        "onboard_time": 1769425760,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 82295,
+        "num": 82295,
+        "word": "阴阳师",
+        "onboard_time": 1769426060,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 80575,
+        "num": 80575,
+        "word": "李沁陈昊宇Prada活动",
+        "onboard_time": 1769424981,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 79789,
+        "num": 79789,
+        "word": "小城大事大结局",
+        "onboard_time": 1769425582,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 79053,
+        "num": 79053,
+        "word": "山东一银行经理借2000多万后跑路",
+        "onboard_time": 1769425161,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78571,
+        "num": 78571,
+        "word": "马龙腊八节带孩子游玩",
+        "onboard_time": 1769427263,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77842,
+        "num": 77842,
+        "word": "美国出现大麻抢购潮",
+        "onboard_time": 1769425222,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 69573,
+        "num": 69573,
+        "word": "妙可蓝多创始人柴琇被免职",
+        "onboard_time": 1769427202,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 67975,
+        "num": 67975,
+        "word": "程序员27岁去美国35岁流落街头",
+        "onboard_time": 1769404402,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 67820,
+        "num": 67820,
+        "word": "巴黎高定时装周",
+        "onboard_time": 1769425161,
+        "rank": 49,
+        "category": "时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#士兵始终是习近平主席心头的牵挂#"
+    }
+  }
+}

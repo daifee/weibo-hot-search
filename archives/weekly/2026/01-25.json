@@ -1,6 +1,6 @@
 {
   "startTime": 1769272464158,
-  "endTime": 1769426942499,
+  "endTime": 1769427789572,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -804,7 +804,7 @@
     },
     {
       "raw_hot": 354848,
-      "num": 127052,
+      "num": 162314,
       "word": "董卿发型 隆重又松弛",
       "onboard_time": 1769419703,
       "rank": 26,
@@ -841,6 +841,14 @@
       "onboard_time": 1769311521,
       "rank": 7,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 334777,
+      "num": 793674,
+      "word": "顾客试吃后退货包裹里塞两元钱",
+      "onboard_time": 1769423721,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 333040,
@@ -892,7 +900,7 @@
     },
     {
       "raw_hot": 329337,
-      "num": 189475,
+      "num": 198407,
       "word": "眼睛近视到底可不可逆",
       "onboard_time": 1769421682,
       "rank": 15,
@@ -929,6 +937,14 @@
       "onboard_time": 1769414242,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 319060,
+      "num": 197547,
+      "word": "花儿与少年8",
+      "onboard_time": 1769423841,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 317971,
@@ -1019,14 +1035,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 299800,
-      "num": 789842,
-      "word": "顾客试吃后退货包裹里塞两元钱",
-      "onboard_time": 1769423721,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 295383,
       "num": 197950,
       "word": "李昊无缘最佳门将",
@@ -1044,7 +1052,7 @@
     },
     {
       "raw_hot": 290360,
-      "num": 127046,
+      "num": 149506,
       "word": "长期缺爱的人一眼就看出来了",
       "onboard_time": 1769420901,
       "rank": 30,
@@ -1057,6 +1065,14 @@
       "onboard_time": 1769398401,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 287422,
+      "num": 287422,
+      "word": "网购娃娃菜致夫妻中毒毒源是旧报纸",
+      "onboard_time": 1769424380,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 286686,
@@ -1099,6 +1115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 274259,
+      "num": 154432,
+      "word": "李嘉格 喊父王气死对面",
+      "onboard_time": 1769425882,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 273799,
       "num": 179985,
       "word": "两室一厅住阳台",
@@ -1124,7 +1148,7 @@
     },
     {
       "raw_hot": 272235,
-      "num": 127032,
+      "num": 143798,
       "word": "中方坚决反对将疫情甩锅中国",
       "onboard_time": 1769418922,
       "rank": 30,
@@ -1265,14 +1289,6 @@
       "onboard_time": 1769259921,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 251784,
-      "num": 145945,
-      "word": "花儿与少年8",
-      "onboard_time": 1769423841,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 251272,
@@ -1604,7 +1620,7 @@
     },
     {
       "raw_hot": 200519,
-      "num": 127039,
+      "num": 146306,
       "word": "金价飙升原因找到了",
       "onboard_time": 1769423241,
       "rank": 27,
@@ -1673,6 +1689,14 @@
       "onboard_time": 1769317400,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 194995,
+      "num": 194995,
+      "word": "贺峻霖画技",
+      "onboard_time": 1769424861,
+      "rank": 14,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 194795,
@@ -1771,12 +1795,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 182211,
-      "num": 127036,
-      "word": "李嘉格 喊父王气死对面",
-      "onboard_time": 1769425882,
-      "rank": 23,
-      "category": "艺人"
+      "raw_hot": 184595,
+      "num": 184595,
+      "word": "在巴厘岛确诊了脏水病",
+      "onboard_time": 1769424562,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 181439,
@@ -1833,6 +1857,14 @@
       "onboard_time": 1769348721,
       "rank": 45,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 175375,
+      "num": 175375,
+      "word": "卢昱晓轧戏收官千字长文",
+      "onboard_time": 1769424921,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 175314,
@@ -1961,14 +1993,6 @@
       "onboard_time": 1769344161,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 162811,
-      "num": 162811,
-      "word": "网购娃娃菜致夫妻中毒毒源是旧报纸",
-      "onboard_time": 1769424380,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 162416,
@@ -2179,6 +2203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 146081,
+      "num": 146081,
+      "word": "赵樱子直播间发飙怼助理",
+      "onboard_time": 1769426302,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 145450,
       "num": 145450,
       "word": "Angelababy 像素模糊但建模清晰",
@@ -2299,14 +2331,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 139853,
-      "num": 139853,
-      "word": "贺峻霖画技",
-      "onboard_time": 1769424861,
-      "rank": 14,
-      "category": "综艺,艺人"
-    },
-    {
       "raw_hot": 139838,
       "num": 139838,
       "word": "刘宇宁现身马年第二次联排",
@@ -2329,6 +2353,14 @@
       "onboard_time": 1769399362,
       "rank": 28,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 139153,
+      "num": 203135,
+      "word": "山姆499元羽绒服羽绒成本约为186元",
+      "onboard_time": 1769425882,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 138957,
@@ -2409,6 +2441,14 @@
       "onboard_time": 1769250080,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 135142,
+      "num": 135142,
+      "word": "内娱喵系男艺人",
+      "onboard_time": 1769425940,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 134651,
@@ -2531,6 +2571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 127834,
+      "num": 127834,
+      "word": "银价疯涨有银饰店干不下去了",
+      "onboard_time": 1769423542,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 127609,
       "num": 127609,
       "word": "克林顿奥巴马发声",
@@ -2547,28 +2595,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 127079,
-      "num": 127079,
-      "word": "卢昱晓轧戏收官千字长文",
-      "onboard_time": 1769424921,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 127071,
       "num": 127071,
       "word": "一部剧骂醒我的恋爱脑和事业心",
       "onboard_time": 1769422701,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 127020,
-      "num": 127020,
-      "word": "内娱喵系男艺人",
-      "onboard_time": 1769425940,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 126613,
@@ -2619,28 +2651,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 125796,
-      "num": 127078,
-      "word": "在巴厘岛确诊了脏水病",
-      "onboard_time": 1769424562,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 125404,
       "num": 125404,
       "word": "王安宇第二次春晚联排",
       "onboard_time": 1769315360,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 125261,
-      "num": 125261,
-      "word": "银价疯涨有银饰店干不下去了",
-      "onboard_time": 1769423542,
-      "rank": 45,
-      "category": "财经"
     },
     {
       "raw_hot": 125199,
@@ -2827,6 +2843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 117180,
+      "num": 174062,
+      "word": "92岁老人每天睡超20小时身体倍棒",
+      "onboard_time": 1769426541,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116964,
       "num": 116964,
       "word": "陈星旭工作室严正声明",
@@ -2836,7 +2860,7 @@
     },
     {
       "raw_hot": 116079,
-      "num": 101618,
+      "num": 171139,
       "word": "终于有影视剧拍出李煜了",
       "onboard_time": 1769424861,
       "rank": 32,
@@ -2929,14 +2953,6 @@
       "onboard_time": 1769398581,
       "rank": 36,
       "category": "财经"
-    },
-    {
-      "raw_hot": 112542,
-      "num": 101156,
-      "word": "赵樱子直播间发飙怼助理",
-      "onboard_time": 1769426302,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 112476,
@@ -3251,6 +3267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 104173,
+      "num": 104173,
+      "word": "iPhoneAir暴降后卖断货",
+      "onboard_time": 1769426663,
+      "rank": 41,
+      "category": "数码"
+    },
+    {
       "raw_hot": 104161,
       "num": 124222,
       "word": "女子网购童装穿脏后6次申请退款",
@@ -3377,6 +3401,14 @@
       "onboard_time": 1769355201,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102441,
+      "num": 164706,
+      "word": "山西的便利店能有多万能",
+      "onboard_time": 1769427140,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 102124,
@@ -3971,14 +4003,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 91591,
-      "num": 127056,
-      "word": "山姆499元羽绒服羽绒成本约为186元",
-      "onboard_time": 1769425882,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 91431,
       "num": 91431,
       "word": "危晋宇来给檀健次交作业了",
@@ -4083,6 +4107,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 90155,
+      "num": 90155,
+      "word": "句号侧脸",
+      "onboard_time": 1769426663,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 90150,
       "num": 90150,
       "word": "这和直接扑曹骏怀里有什么区别",
@@ -4097,14 +4129,6 @@
       "onboard_time": 1769356220,
       "rank": 25,
       "category": "演出"
-    },
-    {
-      "raw_hot": 89731,
-      "num": 89731,
-      "word": "iPhoneAir暴降后卖断货",
-      "onboard_time": 1769426663,
-      "rank": 41,
-      "category": "数码"
     },
     {
       "raw_hot": 89072,
@@ -4233,14 +4257,6 @@
       "onboard_time": 1769339480,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 86261,
-      "num": 86261,
-      "word": "句号侧脸",
-      "onboard_time": 1769426663,
-      "rank": 43,
-      "category": "电竞"
     },
     {
       "raw_hot": 86148,
@@ -4635,12 +4651,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 79130,
+      "num": 168604,
+      "word": "外国游客被雍和宫祈福机器人惊呆",
+      "onboard_time": 1769426181,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 79124,
       "num": 79124,
       "word": "狼队战胜RNGM",
       "onboard_time": 1769330899,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 79053,
+      "num": 79053,
+      "word": "山东一银行经理借2000多万后跑路",
+      "onboard_time": 1769425161,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 78743,
@@ -4673,6 +4705,14 @@
       "onboard_time": 1769395279,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 78571,
+      "num": 78571,
+      "word": "马龙腊八节带孩子游玩",
+      "onboard_time": 1769427263,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 78483,
@@ -5195,6 +5235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 69573,
+      "num": 69573,
+      "word": "妙可蓝多创始人柴琇被免职",
+      "onboard_time": 1769427202,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 68682,
       "num": 68682,
       "word": "樊振东去看科隆大教堂了",
@@ -5233,6 +5281,14 @@
       "onboard_time": 1769332819,
       "rank": 44,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 67820,
+      "num": 67820,
+      "word": "巴黎高定时装周",
+      "onboard_time": 1769425161,
+      "rank": 49,
+      "category": "时尚"
     },
     {
       "raw_hot": 67691,
@@ -5459,14 +5515,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 59737,
-      "num": 96230,
-      "word": "92岁老人每天睡超20小时身体倍棒",
-      "onboard_time": 1769426541,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 59677,
       "num": 59677,
       "word": "狗 啥事交给我你就闹心去吧",
@@ -5497,6 +5545,14 @@
       "onboard_time": 1769387180,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 58233,
+      "num": 159958,
+      "word": "49条中日航线取消全部航班",
+      "onboard_time": 1769427562,
+      "rank": 22,
+      "category": "国内时政"
     },
     {
       "raw_hot": 57455,
@@ -5729,14 +5785,6 @@
       "onboard_time": 1769274679,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 45419,
-      "num": 127066,
-      "word": "外国游客被雍和宫祈福机器人惊呆",
-      "onboard_time": 1769426181,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 43868,
