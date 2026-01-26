@@ -1,6 +1,6 @@
 {
   "startTime": 1769358907478,
-  "endTime": 1769436118999,
+  "endTime": 1769438245571,
   "band_list": [
     {
       "raw_hot": 9558023,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1562420,
-      "num": 185369,
+      "num": 195122,
       "word": "车银优承认逃税",
       "onboard_time": 1769427921,
       "rank": 10,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1379281,
-      "num": 186180,
+      "num": 195593,
       "word": "微博之夜猜阵容",
       "onboard_time": 1769434761,
       "rank": 10,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1210515,
-      "num": 187890,
+      "num": 195414,
       "word": "何健麒尿检",
       "onboard_time": 1769428941,
       "rank": 11,
@@ -145,6 +145,14 @@
       "onboard_time": 1769420241,
       "rank": 41,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 596249,
+      "num": 241396,
+      "word": "金价飙升原因找到了",
+      "onboard_time": 1769423241,
+      "rank": 27,
+      "category": "财经"
     },
     {
       "raw_hot": 590722,
@@ -275,14 +283,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 463696,
-      "num": 241396,
-      "word": "金价飙升原因找到了",
-      "onboard_time": 1769423241,
-      "rank": 27,
-      "category": "财经"
-    },
-    {
       "raw_hot": 451975,
       "num": 784925,
       "word": "芒果新签女艺人做梦都想去花少8",
@@ -308,7 +308,7 @@
     },
     {
       "raw_hot": 408779,
-      "num": 160601,
+      "num": 194001,
       "word": "车银优发长文道歉",
       "onboard_time": 1769427980,
       "rank": 20,
@@ -321,6 +321,22 @@
       "onboard_time": 1769344641,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 405907,
+      "num": 195041,
+      "word": "台湾省314人因冷空气去世",
+      "onboard_time": 1769433983,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 400102,
+      "num": 194859,
+      "word": "TOP xr手机",
+      "onboard_time": 1769434163,
+      "rank": 19,
+      "category": "艺人,数码"
     },
     {
       "raw_hot": 397909,
@@ -337,6 +353,14 @@
       "onboard_time": 1769413941,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 361085,
+      "num": 194203,
+      "word": "男子彩票中800余万交妻子淡定上班",
+      "onboard_time": 1769435481,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 356287,
@@ -361,6 +385,14 @@
       "onboard_time": 1769419703,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 350513,
+      "num": 202352,
+      "word": "国投白银LOF将暂停申购",
+      "onboard_time": 1769435841,
+      "rank": 33,
+      "category": "财经"
     },
     {
       "raw_hot": 339257,
@@ -451,28 +483,20 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 316285,
+      "num": 194754,
+      "word": "西高地papi妈妈被威胁杀光你全家",
+      "onboard_time": 1769435721,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 308025,
       "num": 142417,
       "word": "田栩宁工作室发告黑进展",
       "onboard_time": 1769409320,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 307140,
-      "num": 179868,
-      "word": "TOP xr手机",
-      "onboard_time": 1769434163,
-      "rank": 19,
-      "category": "艺人,数码"
-    },
-    {
-      "raw_hot": 305701,
-      "num": 155366,
-      "word": "男子彩票中800余万交妻子淡定上班",
-      "onboard_time": 1769435481,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 305514,
@@ -500,7 +524,7 @@
     },
     {
       "raw_hot": 290360,
-      "num": 159309,
+      "num": 165937,
       "word": "长期缺爱的人一眼就看出来了",
       "onboard_time": 1769420901,
       "rank": 30,
@@ -516,7 +540,7 @@
     },
     {
       "raw_hot": 287447,
-      "num": 184545,
+      "num": 193680,
       "word": "赵樱子直播间发飙怼助理",
       "onboard_time": 1769426302,
       "rank": 33,
@@ -620,7 +644,7 @@
     },
     {
       "raw_hot": 262042,
-      "num": 158817,
+      "num": 193924,
       "word": "车厘子包装袋不要丢",
       "onboard_time": 1769433262,
       "rank": 24,
@@ -636,7 +660,7 @@
     },
     {
       "raw_hot": 261462,
-      "num": 175545,
+      "num": 193740,
       "word": "内娱喵系男艺人",
       "onboard_time": 1769425940,
       "rank": 26,
@@ -713,14 +737,6 @@
       "onboard_time": 1769409560,
       "rank": 40,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 242752,
-      "num": 185678,
-      "word": "台湾省314人因冷空气去世",
-      "onboard_time": 1769433983,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 241423,
@@ -827,6 +843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 212003,
+      "num": 212003,
+      "word": "JDG战胜BLG",
+      "onboard_time": 1769436923,
+      "rank": 3,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 210375,
       "num": 210375,
       "word": "王欣瑜vs阿尼西莫娃",
@@ -929,6 +953,14 @@
       "onboard_time": 1769424562,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 184283,
+      "num": 165361,
+      "word": "李亚鹏为女儿李嫣费尽心血",
+      "onboard_time": 1769435541,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 181439,
@@ -1035,12 +1067,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 157393,
+      "num": 195803,
+      "word": "BLG对战JDG",
+      "onboard_time": 1769434761,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 155579,
       "num": 155579,
       "word": "惠英红张凌赫 句句都是一把刀",
       "onboard_time": 1769416041,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 154700,
+      "num": 154700,
+      "word": "人最好的状态就是销声匿迹",
+      "onboard_time": 1769437822,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 154012,
@@ -1112,6 +1160,14 @@
       "word": "不知道 肖战的比例很曼妙",
       "onboard_time": 1769403502,
       "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 144032,
+      "num": 144032,
+      "word": "周也 内娱免检大光明",
+      "onboard_time": 1769436923,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -1299,6 +1355,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 127320,
+      "num": 121487,
+      "word": "张艺兴孙红雷同框跳手势舞",
+      "onboard_time": 1769437702,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127130,
       "num": 127130,
       "word": "中国足协秘书长接机U23国足",
@@ -1451,6 +1515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 117805,
+      "num": 117805,
+      "word": "女子孕33周同步剖宫产和肝切除手术",
+      "onboard_time": 1769436983,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116964,
       "num": 116964,
       "word": "陈星旭工作室严正声明",
@@ -1555,14 +1627,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 107375,
-      "num": 107375,
-      "word": "李亚鹏为女儿李嫣费尽心血",
-      "onboard_time": 1769435541,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 107143,
       "num": 107143,
       "word": "建议住五星酒店带行李箱",
@@ -1585,6 +1649,14 @@
       "onboard_time": 1769410761,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 106844,
+      "num": 190393,
+      "word": "太平年",
+      "onboard_time": 1769346682,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 106543,
@@ -1649,14 +1721,6 @@
       "onboard_time": 1769393480,
       "rank": 29,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 103581,
-      "num": 190393,
-      "word": "太平年",
-      "onboard_time": 1769346682,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 103511,
@@ -1811,14 +1875,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 96977,
-      "num": 96977,
-      "word": "国投白银LOF将暂停申购",
-      "onboard_time": 1769435841,
-      "rank": 33,
-      "category": "财经"
-    },
-    {
       "raw_hot": 96938,
       "num": 96938,
       "word": "欢迎U23国足回家",
@@ -1867,6 +1923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 96283,
+      "num": 96283,
+      "word": "紫金矿业拟280亿收购联合黄金",
+      "onboard_time": 1769436622,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
       "raw_hot": 95963,
       "num": 95963,
       "word": "理解为什么有同学觉得食堂好吃了",
@@ -1913,6 +1977,14 @@
       "onboard_time": 1769405061,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 95027,
+      "num": 95027,
+      "word": "曝TFING将出席微博之夜",
+      "onboard_time": 1769437763,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 94298,
@@ -2019,6 +2091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 90772,
+      "num": 90772,
+      "word": "王楚钦仿佛过年给长辈们表演节目",
+      "onboard_time": 1769437942,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 90616,
       "num": 68356,
       "word": "姑父棒杀侄女作案细节披露",
@@ -2081,6 +2161,14 @@
       "onboard_time": 1769417601,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 87663,
+      "num": 87663,
+      "word": "小猫主动愿意被收养",
+      "onboard_time": 1769438063,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 87223,
@@ -2400,22 +2488,6 @@
       "word": "九肥一瘦香肠被调侃可以当蜡烛用",
       "onboard_time": 1769401823,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 76864,
-      "num": 76864,
-      "word": "BLG对战JDG",
-      "onboard_time": 1769434761,
-      "rank": 43,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 76184,
-      "num": 76184,
-      "word": "西高地papi妈妈被威胁杀光你全家",
-      "onboard_time": 1769435721,
-      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -3011,6 +3083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 44309,
+      "num": 629524,
+      "word": "2025年国内居民出游人次65.22亿",
+      "onboard_time": 1769436983,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 43868,
       "num": 190349,
       "word": "澳网2026",
@@ -3065,6 +3145,14 @@
       "onboard_time": 1769410822,
       "rank": 27,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 40345,
+      "num": 194632,
+      "word": "刘宇宁化身心愿办事员",
+      "onboard_time": 1769436503,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 39792,
@@ -3145,6 +3233,14 @@
       "onboard_time": 1769361257,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 35556,
+      "num": 194511,
+      "word": "无人机吊猪致停电多部门介入",
+      "onboard_time": 1769437882,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 34724,
@@ -3291,6 +3387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 19422,
+      "num": 194252,
+      "word": "尼帕病毒曾导致百万只猪被扑杀",
+      "onboard_time": 1769437582,
+      "rank": 19,
+      "category": "海外新闻,健康医疗"
+    },
+    {
       "raw_hot": 18745,
       "num": 97140,
       "word": "甘肃5.5级地震有建筑受损",
@@ -3369,6 +3473,14 @@
       "onboard_time": 1769425282,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 4653,
+      "num": 96978,
+      "word": "肯德基回应汉堡堂食外卖差3.5元",
+      "onboard_time": 1769438182,
+      "rank": 42,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
@@ -3380,6 +3492,9 @@
     },
     {
       "word": "#士兵始终是习近平主席心头的牵挂#"
+    },
+    {
+      "word": "#习近平同苏林通电话#"
     }
   ]
 }
