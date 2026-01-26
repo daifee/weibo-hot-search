@@ -1,0 +1,410 @@
+{
+  "runTime": 1769412976692,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9558023,
+        "num": 9558023,
+        "word": "甘肃地震",
+        "onboard_time": 1769410940,
+        "rank": 0,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 5334101,
+        "num": 5334101,
+        "word": "甘肃迭部5.5级地震",
+        "onboard_time": 1769411423,
+        "rank": 1,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 51599,
+        "num": 1801618,
+        "word": "这份新规为未成年人织密防护网",
+        "onboard_time": 1769403801,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 537785,
+        "num": 537785,
+        "word": "我国已将尼帕病毒纳入检测范围",
+        "onboard_time": 1769408420,
+        "rank": 3,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 317688,
+        "num": 317688,
+        "word": "大爷2万买宝马5天趴窝4次拉断绳",
+        "onboard_time": 1769406620,
+        "rank": 4,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 785841,
+        "num": 310032,
+        "word": "空姐笑了半小时才把橙汁倒下去",
+        "onboard_time": 1769408901,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 265853,
+        "num": 265853,
+        "word": "A股又突然跳水了",
+        "onboard_time": 1769408001,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 197554,
+        "num": 197554,
+        "word": "张杰鸟巢演唱会审批通过",
+        "onboard_time": 1769409560,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 170238,
+        "num": 197551,
+        "word": "尼帕病毒感染死亡率可达40%以上",
+        "onboard_time": 1769395159,
+        "rank": 8,
+        "category": "海外新闻,健康医疗"
+      },
+      {
+        "raw_hot": 142274,
+        "num": 197548,
+        "word": "TF家族荣耀之战舞台关键词",
+        "onboard_time": 1769410639,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 427949,
+        "num": 197538,
+        "word": "尼帕病毒",
+        "onboard_time": 1769402422,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 301478,
+        "num": 197532,
+        "word": "忘记结婚了习惯性回自己家",
+        "onboard_time": 1769406501,
+        "rank": 11,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 234056,
+        "num": 197529,
+        "word": "程序员27岁去美国35岁流落街头",
+        "onboard_time": 1769404402,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 229825,
+        "num": 197520,
+        "word": "张学友捐款130万元",
+        "onboard_time": 1769406620,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197518,
+        "num": 197518,
+        "word": "马化腾希望重现当年微信红包盛况",
+        "onboard_time": 1769411722,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 192587,
+        "num": 192587,
+        "word": "武汉理工毕业生当保安被母校约谈",
+        "onboard_time": 1769403263,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186362,
+        "num": 186362,
+        "word": "李子柒时隔半年视频露面",
+        "onboard_time": 1769407821,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 67270,
+        "num": 185959,
+        "word": "张杰过来这一下就值回票钱了",
+        "onboard_time": 1769412381,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 120312,
+        "num": 185322,
+        "word": "黄子韬下季宇闪想邀请鹿晗",
+        "onboard_time": 1769412501,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47163,
+        "num": 183902,
+        "word": "我国目前尚未报告尼帕病毒相关病例",
+        "onboard_time": 1769412022,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224277,
+        "num": 183038,
+        "word": "黄金",
+        "onboard_time": 1769386880,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 182913,
+        "num": 182913,
+        "word": "田曦薇美人嗔怒这一下",
+        "onboard_time": 1769408542,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176513,
+        "num": 176513,
+        "word": "第一次在内娱见男女主是太监和宫女",
+        "onboard_time": 1769403922,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170011,
+        "num": 170011,
+        "word": "全球已进入水资源破产时代",
+        "onboard_time": 1769409560,
+        "rank": 23,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 165989,
+        "num": 165989,
+        "word": "宋威龙 全球少女的梦",
+        "onboard_time": 1769409440,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163086,
+        "num": 163086,
+        "word": "冯提莫公开甲状腺手术疤痕",
+        "onboard_time": 1769412082,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147484,
+        "num": 147484,
+        "word": "正缘的力量有多强大",
+        "onboard_time": 1769397619,
+        "rank": 26,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 158053,
+        "num": 145458,
+        "word": "辽宁春晚回应张雨绮争议",
+        "onboard_time": 1769397501,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143373,
+        "num": 143373,
+        "word": "白银",
+        "onboard_time": 1769395879,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 136034,
+        "num": 136034,
+        "word": "美国派出重兵合围伊朗",
+        "onboard_time": 1769403623,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 252595,
+        "num": 135414,
+        "word": "田栩宁工作室发告黑进展",
+        "onboard_time": 1769409320,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136908,
+        "num": 135351,
+        "word": "两室一厅住阳台",
+        "onboard_time": 1769411602,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 133958,
+        "num": 133958,
+        "word": "甘肃地震多地震感",
+        "onboard_time": 1769412620,
+        "rank": 32,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 131558,
+        "num": 131558,
+        "word": "陈飞宇 阿瑟这次真的很不一样",
+        "onboard_time": 1769411545,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129424,
+        "num": 129424,
+        "word": "运动对小孩有多重要",
+        "onboard_time": 1769412561,
+        "rank": 34,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 128906,
+        "num": 128906,
+        "word": "两个00后刮腻子一年营收100多万",
+        "onboard_time": 1769395041,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127771,
+        "num": 127771,
+        "word": "BLACKPINK香港演唱会巨型粉锤",
+        "onboard_time": 1769412381,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 120043,
+        "num": 120043,
+        "word": "荣耀之战",
+        "onboard_time": 1769411961,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 64067,
+        "num": 111792,
+        "word": "为什么德国没有斩杀线",
+        "onboard_time": 1769412322,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 79843,
+        "num": 110583,
+        "word": "去相亲被安利三小时刘浩存",
+        "onboard_time": 1769411842,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110483,
+        "num": 110483,
+        "word": "中国足协秘书长接机U23国足",
+        "onboard_time": 1769412561,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107011,
+        "num": 107011,
+        "word": "已经到了鼠标都看不清的地步了",
+        "onboard_time": 1769410761,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 102447,
+        "num": 102447,
+        "word": "成毅新片定档春节档",
+        "onboard_time": 1769400023,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 96074,
+        "num": 96074,
+        "word": "克林顿奥巴马发声",
+        "onboard_time": 1769408300,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 95108,
+        "num": 95108,
+        "word": "印度尼帕病毒疫情或来自医院",
+        "onboard_time": 1769410580,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 93620,
+        "num": 93620,
+        "word": "我对做饭的耐心就这样",
+        "onboard_time": 1769412862,
+        "rank": 45,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 93522,
+        "num": 93522,
+        "word": "叠纸心意定价",
+        "onboard_time": 1769411961,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 92530,
+        "num": 92530,
+        "word": "娱乐圈文被拍成短剧了",
+        "onboard_time": 1769406022,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91426,
+        "num": 91426,
+        "word": "尼帕病毒如何预防",
+        "onboard_time": 1769410281,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 90814,
+        "num": 90814,
+        "word": "老胡考虑改名牢胡",
+        "onboard_time": 1769411662,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#让更多人参与到冰雪运动中来#"
+    }
+  }
+}
