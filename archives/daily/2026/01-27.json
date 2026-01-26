@@ -1,6 +1,6 @@
 {
   "startTime": 1769445836222,
-  "endTime": 1769455857606,
+  "endTime": 1769456746110,
   "band_list": [
     {
       "raw_hot": 657477,
@@ -491,20 +491,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 14074,
+      "num": 21713,
+      "word": "49条中日航线取消全部航班",
+      "onboard_time": 1769427562,
+      "rank": 48,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 12700,
       "num": 21728,
       "word": "巴黎高定时装周",
       "onboard_time": 1769425161,
       "rank": 46,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 12304,
-      "num": 21713,
-      "word": "49条中日航线取消全部航班",
-      "onboard_time": 1769427562,
-      "rank": 48,
-      "category": "国内时政"
     },
     {
       "raw_hot": 12017,
