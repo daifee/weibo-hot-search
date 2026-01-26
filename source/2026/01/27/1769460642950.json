@@ -1,0 +1,410 @@
+{
+  "runTime": 1769460642950,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 70017,
+        "num": 70017,
+        "word": "牵羊礼 屈辱",
+        "onboard_time": 1769442201,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48307,
+        "num": 48307,
+        "word": "男子彩票中800余万交妻子淡定上班",
+        "onboard_time": 1769435481,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 8481,
+        "num": 31598,
+        "word": "2025中国十大科技进展新闻",
+        "onboard_time": 1769436802,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 30030,
+        "num": 30030,
+        "word": "好利来蛋糕店店员将掉地面包捡起售卖",
+        "onboard_time": 1769440103,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26872,
+        "num": 26872,
+        "word": "美军航母进入印度洋",
+        "onboard_time": 1769451314,
+        "rank": 4,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 26344,
+        "num": 26344,
+        "word": "中方坚决反对将疫情甩锅中国",
+        "onboard_time": 1769418922,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 24825,
+        "num": 24825,
+        "word": "云初令",
+        "onboard_time": 1769449516,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21986,
+        "num": 21986,
+        "word": "起诉王者荣耀公开匹配机制案进展",
+        "onboard_time": 1769445259,
+        "rank": 7,
+        "category": "民生新闻,游戏"
+      },
+      {
+        "raw_hot": 21249,
+        "num": 21249,
+        "word": "12306回应带小孩被分静音车厢",
+        "onboard_time": 1769442799,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18823,
+        "num": 21175,
+        "word": "中国公民春节期间避免前往日本",
+        "onboard_time": 1769420241,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 44983,
+        "num": 21003,
+        "word": "Angelababy高定品牌创始人回应争议",
+        "onboard_time": 1769441302,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27753,
+        "num": 20921,
+        "word": "何健麒尿检",
+        "onboard_time": 1769428941,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26037,
+        "num": 20693,
+        "word": "我国狂犬病死亡数创2020年来新高",
+        "onboard_time": 1769440881,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 24042,
+        "num": 20572,
+        "word": "90后女子存20万私房钱被丈夫发现",
+        "onboard_time": 1769443340,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23267,
+        "num": 20392,
+        "word": "车银优承认逃税",
+        "onboard_time": 1769427921,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20362,
+        "num": 20362,
+        "word": "赵樱子直播间发飙怼助理",
+        "onboard_time": 1769426302,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19964,
+        "num": 19964,
+        "word": "台湾省314人因冷空气去世",
+        "onboard_time": 1769433983,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18308,
+        "num": 18308,
+        "word": "西高地papi妈妈被威胁杀光你全家",
+        "onboard_time": 1769435721,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18264,
+        "num": 18264,
+        "word": "49条中日航线取消全部航班",
+        "onboard_time": 1769427562,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 16533,
+        "num": 18264,
+        "word": "男子回应彩票中836万淡定上班",
+        "onboard_time": 1769442860,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21060,
+        "num": 18260,
+        "word": "车厘子包装袋不要丢",
+        "onboard_time": 1769433262,
+        "rank": 20,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 19066,
+        "num": 18256,
+        "word": "金价飙升原因找到了",
+        "onboard_time": 1769423241,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 18679,
+        "num": 18251,
+        "word": "太平年",
+        "onboard_time": 1769432902,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15350,
+        "num": 18246,
+        "word": "人最好的状态就是销声匿迹",
+        "onboard_time": 1769437822,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 15232,
+        "num": 18243,
+        "word": "国投白银LOF将暂停申购",
+        "onboard_time": 1769435841,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 15207,
+        "num": 18239,
+        "word": "微博之夜猜阵容",
+        "onboard_time": 1769434761,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 15111,
+        "num": 18234,
+        "word": "BLACKPINK三巡",
+        "onboard_time": 1769441961,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 15033,
+        "num": 18232,
+        "word": "轧戏",
+        "onboard_time": 1769448676,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14581,
+        "num": 18230,
+        "word": "18岁男生看合影照伤感竟把肺哭破",
+        "onboard_time": 1769442500,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13831,
+        "num": 18225,
+        "word": "长期缺爱的人一眼就看出来了",
+        "onboard_time": 1769420901,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 39334,
+        "num": 18218,
+        "word": "梓渝不参加微博之夜",
+        "onboard_time": 1769439262,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 14033,
+        "num": 18218,
+        "word": "豆包手机助手处理内容不存储不训练",
+        "onboard_time": 1769457553,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 13663,
+        "num": 18213,
+        "word": "92岁老人每天睡超20小时身体倍棒",
+        "onboard_time": 1769426541,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13527,
+        "num": 18211,
+        "word": "盘发之后脸会小一圈",
+        "onboard_time": 1769445918,
+        "rank": 33,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 12940,
+        "num": 18205,
+        "word": "李亚鹏为女儿李嫣费尽心血",
+        "onboard_time": 1769435541,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12860,
+        "num": 18200,
+        "word": "好利来事发门店回应掉地面包捡起售卖",
+        "onboard_time": 1769442741,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12621,
+        "num": 18199,
+        "word": "突然的喜欢",
+        "onboard_time": 1769422821,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12115,
+        "num": 18195,
+        "word": "男子连杀两名19岁女子被枪决",
+        "onboard_time": 1769439143,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12110,
+        "num": 18191,
+        "word": "刘宇宁好事马上发生",
+        "onboard_time": 1769446937,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 12023,
+        "num": 18184,
+        "word": "银价疯涨有银饰店干不下去了",
+        "onboard_time": 1769423542,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 11848,
+        "num": 18182,
+        "word": "DIOR大秀",
+        "onboard_time": 1769440524,
+        "rank": 40,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 11767,
+        "num": 18178,
+        "word": "灵隐寺免票预约后38万人爽约",
+        "onboard_time": 1769429782,
+        "rank": 41,
+        "category": "民生新闻,旅游"
+      },
+      {
+        "raw_hot": 11466,
+        "num": 18176,
+        "word": "花儿与少年8",
+        "onboard_time": 1769423841,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 10898,
+        "num": 18170,
+        "word": "甘肃迭部5.5级地震",
+        "onboard_time": 1769411423,
+        "rank": 43,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 10554,
+        "num": 18167,
+        "word": "2025年国内居民出游人次65.22亿",
+        "onboard_time": 1769436983,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 10248,
+        "num": 18163,
+        "word": "张艺兴孙红雷同框跳手势舞",
+        "onboard_time": 1769437702,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 10168,
+        "num": 18159,
+        "word": "陈妍希周柯宇将出席微博之夜",
+        "onboard_time": 1769441181,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 10094,
+        "num": 18157,
+        "word": "TOP xr手机",
+        "onboard_time": 1769434163,
+        "rank": 47,
+        "category": "艺人,数码"
+      },
+      {
+        "raw_hot": 9786,
+        "num": 18154,
+        "word": "JDG战胜BLG",
+        "onboard_time": 1769436923,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 9656,
+        "num": 18147,
+        "word": "车银优发长文道歉",
+        "onboard_time": 1769427980,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同苏林通电话#"
+    }
+  }
+}
