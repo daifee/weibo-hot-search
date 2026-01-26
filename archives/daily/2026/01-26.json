@@ -1,6 +1,6 @@
 {
   "startTime": 1769358907478,
-  "endTime": 1769417000681,
+  "endTime": 1769417899312,
   "band_list": [
     {
       "raw_hot": 9558023,
@@ -121,6 +121,14 @@
       "onboard_time": 1769406501,
       "rank": 41,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 572476,
+      "num": 178114,
+      "word": "周涛董卿 恨她像块冰恨她太聪明",
+      "onboard_time": 1769416102,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 565837,
@@ -259,6 +267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 327281,
+      "num": 172446,
+      "word": "王宝强 不想拍艳情片",
+      "onboard_time": 1769416222,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 322359,
       "num": 322359,
       "word": "一岁宝宝把爷爷锁阳台了",
@@ -323,6 +339,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 285624,
+      "num": 192238,
+      "word": "运动对小孩有多重要",
+      "onboard_time": 1769412561,
+      "rank": 34,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 285522,
+      "num": 172830,
+      "word": "戚薇眼里是娜扎 娜扎眼里是辣条",
+      "onboard_time": 1769415981,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 282058,
       "num": 797047,
       "word": "英首相将携最高级别官员访华",
@@ -337,6 +369,14 @@
       "onboard_time": 1769348181,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 273799,
+      "num": 179985,
+      "word": "两室一厅住阳台",
+      "onboard_time": 1769411602,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 271743,
@@ -395,6 +435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 243036,
+      "num": 243036,
+      "word": "全球已进入水资源破产时代",
+      "onboard_time": 1769409560,
+      "rank": 40,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 241423,
       "num": 316911,
       "word": "大张伟替我骂了领导整整两分半",
@@ -409,14 +457,6 @@
       "onboard_time": 1769382376,
       "rank": 6,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 238949,
-      "num": 179985,
-      "word": "两室一厅住阳台",
-      "onboard_time": 1769411602,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 237670,
@@ -451,14 +491,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 232740,
-      "num": 178114,
-      "word": "周涛董卿 恨她像块冰恨她太聪明",
-      "onboard_time": 1769416102,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 231911,
       "num": 148332,
       "word": "原来英语本身就是一道斩杀线",
@@ -473,14 +505,6 @@
       "onboard_time": 1769397140,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 226808,
-      "num": 192238,
-      "word": "运动对小孩有多重要",
-      "onboard_time": 1769412561,
-      "rank": 34,
-      "category": "运动健身"
     },
     {
       "raw_hot": 216484,
@@ -515,14 +539,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 201993,
-      "num": 172830,
-      "word": "戚薇眼里是娜扎 娜扎眼里是辣条",
-      "onboard_time": 1769415981,
-      "rank": 17,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 200760,
       "num": 200760,
       "word": "网友刚买iPhoneAir第二天就降价2000元",
@@ -545,14 +561,6 @@
       "onboard_time": 1769389401,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 194588,
-      "num": 197129,
-      "word": "全球已进入水资源破产时代",
-      "onboard_time": 1769409560,
-      "rank": 40,
-      "category": "科学科普"
     },
     {
       "raw_hot": 190202,
@@ -619,14 +627,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 172446,
-      "num": 172446,
-      "word": "王宝强 不想拍艳情片",
-      "onboard_time": 1769416222,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 171300,
       "num": 171300,
       "word": "冯提莫公开甲状腺手术疤痕",
@@ -675,6 +675,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 162364,
+      "num": 191957,
+      "word": "印度现尼帕病毒疫情在泰留学生发声",
+      "onboard_time": 1769414001,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 161569,
       "num": 266922,
       "word": "羽绒服这样洗可能会爆炸",
@@ -699,6 +707,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 155579,
+      "num": 155579,
+      "word": "惠英红张凌赫 句句都是一把刀",
+      "onboard_time": 1769416041,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 152979,
       "num": 197548,
       "word": "TF家族荣耀之战舞台关键词",
@@ -713,6 +729,14 @@
       "onboard_time": 1769354603,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 152700,
+      "num": 157817,
+      "word": "第一个发明首位淘汰制的国产剧",
+      "onboard_time": 1769416942,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 149436,
@@ -739,12 +763,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 145450,
+      "num": 145450,
+      "word": "Angelababy 像素模糊但建模清晰",
+      "onboard_time": 1769416401,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 145406,
       "num": 145406,
       "word": "不知道 肖战的比例很曼妙",
       "onboard_time": 1769403502,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 142009,
+      "num": 157047,
+      "word": "CBA",
+      "onboard_time": 1769417241,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 141974,
@@ -859,6 +899,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 129911,
+      "num": 129911,
+      "word": "张凌赫 做惠英红的宝贝这么难吗",
+      "onboard_time": 1769417662,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 128149,
       "num": 128149,
       "word": "黄金不到一个月涨了700美元",
@@ -897,14 +945,6 @@
       "onboard_time": 1769403983,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 125758,
-      "num": 191957,
-      "word": "印度现尼帕病毒疫情在泰留学生发声",
-      "onboard_time": 1769414001,
-      "rank": 9,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 124599,
@@ -968,14 +1008,6 @@
       "word": "看懂陈星旭收官文的都哭了",
       "onboard_time": 1769354603,
       "rank": 17,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 120686,
-      "num": 120686,
-      "word": "第一个发明首位淘汰制的国产剧",
-      "onboard_time": 1769416942,
-      "rank": 28,
       "category": "剧集"
     },
     {
@@ -1067,12 +1099,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 110925,
-      "num": 110925,
-      "word": "惠英红张凌赫 句句都是一把刀",
-      "onboard_time": 1769416041,
-      "rank": 32,
-      "category": "艺人"
+      "raw_hot": 112088,
+      "num": 112088,
+      "word": "赵今麦这跟骑鸵鸟有什么区别",
+      "onboard_time": 1769416580,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 108767,
@@ -1147,12 +1179,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 104822,
-      "num": 104822,
-      "word": "赵今麦这跟骑鸵鸟有什么区别",
-      "onboard_time": 1769416580,
-      "rank": 36,
-      "category": "剧集"
+      "raw_hot": 104663,
+      "num": 104663,
+      "word": "199元与张凌赫共处21天",
+      "onboard_time": 1769416401,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 104403,
@@ -1177,14 +1209,6 @@
       "onboard_time": 1769393480,
       "rank": 29,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 103697,
-      "num": 98818,
-      "word": "Angelababy 像素模糊但建模清晰",
-      "onboard_time": 1769416401,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 103244,
@@ -1331,6 +1355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94298,
+      "num": 94298,
+      "word": "左奇函未公开照片",
+      "onboard_time": 1769417662,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 93986,
       "num": 93986,
       "word": "易烊千玺严迪歪头这一下",
@@ -1443,6 +1475,22 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 88354,
+      "num": 88354,
+      "word": "俱乐部回应杨鸣离职",
+      "onboard_time": 1769415081,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 88026,
+      "num": 88026,
+      "word": "宋威龙夜游植物园但一无所获",
+      "onboard_time": 1769417601,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 87223,
       "num": 87223,
       "word": "双高胎LOADING大片",
@@ -1457,6 +1505,14 @@
       "onboard_time": 1769415081,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 86547,
+      "num": 102232,
+      "word": "刘敏涛越来越美",
+      "onboard_time": 1769416820,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 85800,
@@ -1515,12 +1571,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 83641,
+      "num": 83641,
+      "word": "金饰克价逼近1600元",
+      "onboard_time": 1769415921,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
       "raw_hot": 83340,
       "num": 83340,
       "word": "今天腊八",
       "onboard_time": 1769402362,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 83221,
+      "num": 83221,
+      "word": "超过25岁就不适合劝分了",
+      "onboard_time": 1769417181,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 82986,
@@ -1537,6 +1609,22 @@
       "onboard_time": 1769386040,
       "rank": 37,
       "category": "美食"
+    },
+    {
+      "raw_hot": 81782,
+      "num": 81782,
+      "word": "靖国神社前的石狮掠自中国",
+      "onboard_time": 1769417841,
+      "rank": 46,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 81706,
+      "num": 81706,
+      "word": "王一博深情歌唱无名",
+      "onboard_time": 1769417782,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 81335,
@@ -1675,6 +1763,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 70152,
+      "num": 871773,
+      "word": "全国汽车驾驶人5.25亿人",
+      "onboard_time": 1769416704,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 70120,
       "num": 85076,
       "word": "王嘉尔唱中文情歌",
@@ -1689,22 +1785,6 @@
       "onboard_time": 1769389941,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 69937,
-      "num": 98855,
-      "word": "199元与张凌赫共处21天",
-      "onboard_time": 1769416401,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 69742,
-      "num": 102232,
-      "word": "刘敏涛越来越美",
-      "onboard_time": 1769416820,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 68713,
@@ -1793,6 +1873,14 @@
       "onboard_time": 1769382497,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 63512,
+      "num": 170201,
+      "word": "过年回家穿暖点",
+      "onboard_time": 1769415081,
+      "rank": 19,
+      "category": "时尚"
     },
     {
       "raw_hot": 63230,
@@ -1891,14 +1979,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 58081,
-      "num": 170201,
-      "word": "过年回家穿暖点",
-      "onboard_time": 1769415081,
-      "rank": 19,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 57714,
       "num": 57714,
       "word": "蔡国庆说张艺兴太厉害了",
@@ -1961,6 +2041,14 @@
       "onboard_time": 1769403801,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 53455,
+      "num": 100383,
+      "word": "王橹杰摔跤还有直拍",
+      "onboard_time": 1769417662,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 52742,
@@ -2313,14 +2401,6 @@
       "onboard_time": 1769342060,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 14801,
-      "num": 871773,
-      "word": "全国汽车驾驶人5.25亿人",
-      "onboard_time": 1769416704,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 14200,
