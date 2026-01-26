@@ -1,0 +1,410 @@
+{
+  "runTime": 1769454200809,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 136385,
+        "num": 136385,
+        "word": "牵羊礼 屈辱",
+        "onboard_time": 1769442201,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 56862,
+        "num": 58053,
+        "word": "起诉王者荣耀公开匹配机制案进展",
+        "onboard_time": 1769445259,
+        "rank": 1,
+        "category": "民生新闻,游戏"
+      },
+      {
+        "raw_hot": 9968,
+        "num": 57782,
+        "word": "2025中国十大科技进展新闻",
+        "onboard_time": 1769436802,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 57662,
+        "num": 57662,
+        "word": "云初令",
+        "onboard_time": 1769449516,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 55918,
+        "num": 55918,
+        "word": "男子彩票中800余万交妻子淡定上班",
+        "onboard_time": 1769435481,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45753,
+        "num": 45753,
+        "word": "好利来蛋糕店店员将掉地面包捡起售卖",
+        "onboard_time": 1769440103,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38804,
+        "num": 38804,
+        "word": "美军航母进入印度洋",
+        "onboard_time": 1769451314,
+        "rank": 6,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 29774,
+        "num": 29774,
+        "word": "12306回应带小孩被分静音车厢",
+        "onboard_time": 1769442799,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29135,
+        "num": 29135,
+        "word": "中方坚决反对将疫情甩锅中国",
+        "onboard_time": 1769418922,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 23996,
+        "num": 29088,
+        "word": "国投白银LOF将暂停申购",
+        "onboard_time": 1769435841,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 70273,
+        "num": 28864,
+        "word": "Angelababy高定品牌创始人回应争议",
+        "onboard_time": 1769441302,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56215,
+        "num": 28781,
+        "word": "车银优承认逃税",
+        "onboard_time": 1769427921,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49461,
+        "num": 28613,
+        "word": "何健麒尿检",
+        "onboard_time": 1769428941,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45499,
+        "num": 28438,
+        "word": "微博之夜猜阵容",
+        "onboard_time": 1769434761,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 37530,
+        "num": 28266,
+        "word": "赵樱子直播间发飙怼助理",
+        "onboard_time": 1769426302,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33406,
+        "num": 27977,
+        "word": "我国狂犬病死亡数创2020年来新高",
+        "onboard_time": 1769440881,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 27955,
+        "num": 27955,
+        "word": "90后女子存20万私房钱被丈夫发现",
+        "onboard_time": 1769443340,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27881,
+        "num": 27881,
+        "word": "西高地papi妈妈被威胁杀光你全家",
+        "onboard_time": 1769435721,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25510,
+        "num": 25510,
+        "word": "台湾省314人因冷空气去世",
+        "onboard_time": 1769433983,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25135,
+        "num": 25135,
+        "word": "BLACKPINK三巡",
+        "onboard_time": 1769441961,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 26993,
+        "num": 25131,
+        "word": "金价飙升原因找到了",
+        "onboard_time": 1769423241,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 23544,
+        "num": 25130,
+        "word": "车厘子包装袋不要丢",
+        "onboard_time": 1769433262,
+        "rank": 21,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 22787,
+        "num": 25127,
+        "word": "太平年",
+        "onboard_time": 1769432902,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19920,
+        "num": 25120,
+        "word": "92岁老人每天睡超20小时身体倍棒",
+        "onboard_time": 1769426541,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19597,
+        "num": 25117,
+        "word": "长期缺爱的人一眼就看出来了",
+        "onboard_time": 1769420901,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 19222,
+        "num": 25113,
+        "word": "刘宇宁好事马上发生",
+        "onboard_time": 1769446937,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18534,
+        "num": 25106,
+        "word": "银价疯涨有银饰店干不下去了",
+        "onboard_time": 1769423542,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 17606,
+        "num": 25104,
+        "word": "人最好的状态就是销声匿迹",
+        "onboard_time": 1769437822,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 17544,
+        "num": 25098,
+        "word": "车银优发长文道歉",
+        "onboard_time": 1769427980,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17179,
+        "num": 25093,
+        "word": "章昊将出席微博之夜",
+        "onboard_time": 1769450057,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 77014,
+        "num": 25090,
+        "word": "梓渝不参加微博之夜",
+        "onboard_time": 1769439262,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 20929,
+        "num": 25086,
+        "word": "盘发之后脸会小一圈",
+        "onboard_time": 1769445918,
+        "rank": 31,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 17143,
+        "num": 25081,
+        "word": "男子回应彩票中836万淡定上班",
+        "onboard_time": 1769442860,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17093,
+        "num": 25078,
+        "word": "内娱喵系男艺人",
+        "onboard_time": 1769425940,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17024,
+        "num": 25077,
+        "word": "管乐被cue家里的花开富贵墙",
+        "onboard_time": 1769449215,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16616,
+        "num": 25069,
+        "word": "TOP xr手机",
+        "onboard_time": 1769434163,
+        "rank": 35,
+        "category": "艺人,数码"
+      },
+      {
+        "raw_hot": 16532,
+        "num": 25065,
+        "word": "灵隐寺免票预约后38万人爽约",
+        "onboard_time": 1769429782,
+        "rank": 36,
+        "category": "民生新闻,旅游"
+      },
+      {
+        "raw_hot": 16034,
+        "num": 25063,
+        "word": "轧戏",
+        "onboard_time": 1769448676,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15658,
+        "num": 25059,
+        "word": "好利来事发门店回应掉地面包捡起售卖",
+        "onboard_time": 1769442741,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15576,
+        "num": 25056,
+        "word": "花儿与少年8",
+        "onboard_time": 1769423841,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14984,
+        "num": 25047,
+        "word": "中国公民春节期间避免前往日本",
+        "onboard_time": 1769420241,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 14554,
+        "num": 25046,
+        "word": "张艺兴孙红雷同框跳手势舞",
+        "onboard_time": 1769437702,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14538,
+        "num": 25040,
+        "word": "陈妍希周柯宇将出席微博之夜",
+        "onboard_time": 1769441181,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 14511,
+        "num": 25037,
+        "word": "JDG战胜BLG",
+        "onboard_time": 1769436923,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 14503,
+        "num": 25032,
+        "word": "李亚鹏为女儿李嫣费尽心血",
+        "onboard_time": 1769435541,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14393,
+        "num": 25026,
+        "word": "DIOR大秀",
+        "onboard_time": 1769440524,
+        "rank": 45,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 14279,
+        "num": 25023,
+        "word": "女神蒙上眼",
+        "onboard_time": 1769448077,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14232,
+        "num": 25021,
+        "word": "曝TFING将出席微博之夜",
+        "onboard_time": 1769437763,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 13907,
+        "num": 25015,
+        "word": "18岁男生看合影照伤感竟把肺哭破",
+        "onboard_time": 1769442500,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13691,
+        "num": 25013,
+        "word": "微博画室",
+        "onboard_time": 1769449396,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同苏林通电话#"
+    }
+  }
+}

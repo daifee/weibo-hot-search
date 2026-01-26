@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/27 00:43:56 ~ 2026/01/27 02:47:10
+本榜单时间：2026/01/27 00:43:56 ~ 2026/01/27 03:03:20
 </p>
 </blockquote>
 <p>
@@ -309,6 +309,12 @@ JDG战胜BLG（热度：49079）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%86%9B%E8%88%AA%E6%AF%8D%E8%BF%9B%E5%85%A5%E5%8D%B0%E5%BA%A6%E6%B4%8B%23" target="weibo">
+美军航母进入印度洋（热度：38804）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%A2%E6%98%B1%E6%99%93%E8%BD%A7%E6%88%8F%E6%94%B6%E5%AE%98%E5%8D%83%E5%AD%97%E9%95%BF%E6%96%87%23" target="weibo">
 卢昱晓轧戏收官千字长文（热度：38163）
 </a>
@@ -329,12 +335,6 @@ JDG战胜BLG（热度：49079）
 <li>
 <a href="https://s.weibo.com/weibo?q=%232025%E5%B9%B4%E5%9B%BD%E5%86%85%E5%B1%85%E6%B0%91%E5%87%BA%E6%B8%B8%E4%BA%BA%E6%AC%A165.22%E4%BA%BF%23" target="weibo">
 2025年国内居民出游人次65.22亿（热度：28598）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%86%9B%E8%88%AA%E6%AF%8D%E8%BF%9B%E5%85%A5%E5%8D%B0%E5%BA%A6%E6%B4%8B%23" target="weibo">
-美军航母进入印度洋（热度：27270）
 </a>
 </li>
 
@@ -370,7 +370,7 @@ JDG战胜BLG（热度：49079）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E5%A5%BD%E4%BA%8B%E9%A9%AC%E4%B8%8A%E5%8F%91%E7%94%9F%23" target="weibo">
-刘宇宁好事马上发生（热度：18677）
+刘宇宁好事马上发生（热度：19222）
 </a>
 </li>
 

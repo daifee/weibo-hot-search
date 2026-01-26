@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/25 00:34:24 ~ 2026/01/27 02:47:10
+本榜单时间：2026/01/25 00:34:24 ~ 2026/01/27 03:03:20
 </p>
 </blockquote>
 <p>
@@ -4959,6 +4959,12 @@ U23国足对日本U23战绩2胜1负（热度：46113）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%86%9B%E8%88%AA%E6%AF%8D%E8%BF%9B%E5%85%A5%E5%8D%B0%E5%BA%A6%E6%B4%8B%23" target="weibo">
+美军航母进入印度洋（热度：38804）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%A2%A7%E6%99%A8%E5%B8%A6%E7%97%85%E9%A3%99%E9%AB%98%E9%9F%B3%23" target="weibo">
 张碧晨带病飙高音（热度：38193）
 </a>
@@ -5145,12 +5151,6 @@ U23男足亚洲杯亚军（热度：27944）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%86%9B%E8%88%AA%E6%AF%8D%E8%BF%9B%E5%85%A5%E5%8D%B0%E5%BA%A6%E6%B4%8B%23" target="weibo">
-美军航母进入印度洋（热度：27270）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%231%E8%BD%A6%E8%BE%86%E8%B6%85%E5%91%98133%25%E8%BF%98%E8%BD%BD%E4%BA%8616%E4%B8%AA%E5%AD%A9%E5%AD%90%23" target="weibo">
 1车辆超员133%还载了16个孩子（热度：27239）
 </a>
@@ -5331,14 +5331,14 @@ U23男足亚洲杯亚军（热度：27944）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%835.5%E7%BA%A7%E5%9C%B0%E9%9C%87%E6%9C%89%E5%BB%BA%E7%AD%91%E5%8F%97%E6%8D%9F%23" target="weibo">
-甘肃5.5级地震有建筑受损（热度：18745）
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E5%A5%BD%E4%BA%8B%E9%A9%AC%E4%B8%8A%E5%8F%91%E7%94%9F%23" target="weibo">
+刘宇宁好事马上发生（热度：19222）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E5%A5%BD%E4%BA%8B%E9%A9%AC%E4%B8%8A%E5%8F%91%E7%94%9F%23" target="weibo">
-刘宇宁好事马上发生（热度：18677）
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%835.5%E7%BA%A7%E5%9C%B0%E9%9C%87%E6%9C%89%E5%BB%BA%E7%AD%91%E5%8F%97%E6%8D%9F%23" target="weibo">
+甘肃5.5级地震有建筑受损（热度：18745）
 </a>
 </li>
 
