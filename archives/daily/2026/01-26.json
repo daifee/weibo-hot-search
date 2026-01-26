@@ -1,6 +1,6 @@
 {
   "startTime": 1769358907478,
-  "endTime": 1769441903673,
+  "endTime": 1769442825222,
   "band_list": [
     {
       "raw_hot": 9558023,
@@ -339,6 +339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 407616,
+      "num": 125814,
+      "word": "Angelababy高定品牌创始人回应争议",
+      "onboard_time": 1769441302,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 405907,
       "num": 207446,
       "word": "台湾省314人因冷空气去世",
@@ -531,6 +539,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 290414,
+      "num": 816620,
+      "word": "好利来蛋糕店店员将掉地面包捡起售卖",
+      "onboard_time": 1769440103,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 290360,
       "num": 197611,
       "word": "长期缺爱的人一眼就看出来了",
@@ -620,7 +636,7 @@
     },
     {
       "raw_hot": 272235,
-      "num": 220631,
+      "num": 240431,
       "word": "中方坚决反对将疫情甩锅中国",
       "onboard_time": 1769418922,
       "rank": 30,
@@ -729,14 +745,6 @@
       "onboard_time": 1769419703,
       "rank": 9,
       "category": "财经"
-    },
-    {
-      "raw_hot": 243762,
-      "num": 125814,
-      "word": "Angelababy高定品牌创始人回应争议",
-      "onboard_time": 1769441302,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 243147,
@@ -859,6 +867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 216077,
+      "num": 123440,
+      "word": "罗云熙工作室声明",
+      "onboard_time": 1769438602,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 212270,
       "num": 212270,
       "word": "第一个发明首位淘汰制的国产剧",
@@ -883,14 +899,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 206998,
-      "num": 123440,
-      "word": "罗云熙工作室声明",
-      "onboard_time": 1769438602,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 206661,
       "num": 206661,
       "word": "李亚鹏为女儿李嫣费尽心血",
@@ -905,14 +913,6 @@
       "onboard_time": 1769397742,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 204996,
-      "num": 204996,
-      "word": "好利来蛋糕店店员将掉地面包捡起售卖",
-      "onboard_time": 1769440103,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 204118,
@@ -1219,6 +1219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 145105,
+      "num": 145105,
+      "word": "DIOR大秀",
+      "onboard_time": 1769440524,
+      "rank": 9,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 142872,
       "num": 190442,
       "word": "微博之夜",
@@ -1347,6 +1355,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 131828,
+      "num": 131828,
+      "word": "牵羊礼 屈辱",
+      "onboard_time": 1769442201,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 131558,
       "num": 131558,
       "word": "陈飞宇 阿瑟这次真的很不一样",
@@ -1361,14 +1377,6 @@
       "onboard_time": 1769412381,
       "rank": 17,
       "category": "演出"
-    },
-    {
-      "raw_hot": 129444,
-      "num": 129444,
-      "word": "DIOR大秀",
-      "onboard_time": 1769440524,
-      "rank": 9,
-      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 128974,
@@ -1851,6 +1859,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 101864,
+      "num": 101864,
+      "word": "我国狂犬病死亡数创2020年来新高",
+      "onboard_time": 1769440881,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 101682,
       "num": 101682,
       "word": "银价波动",
@@ -1897,6 +1913,14 @@
       "onboard_time": 1769423961,
       "rank": 31,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 98834,
+      "num": 98834,
+      "word": "BLACKPINK三巡",
+      "onboard_time": 1769441961,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 98748,
@@ -2371,14 +2395,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 83918,
-      "num": 83918,
-      "word": "我国狂犬病死亡数创2020年来新高",
-      "onboard_time": 1769440881,
-      "rank": 42,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 83641,
       "num": 83641,
       "word": "金饰克价逼近1600元",
@@ -2401,6 +2417,14 @@
       "onboard_time": 1769402362,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 82604,
+      "num": 82604,
+      "word": "18岁男生看合影照伤感竟把肺哭破",
+      "onboard_time": 1769442500,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 82433,
@@ -2579,12 +2603,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 78038,
+      "num": 78038,
+      "word": "多款爆款鱼油实为植物油",
+      "onboard_time": 1769440341,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77666,
       "num": 77666,
       "word": "小猫离家出走到广州",
       "onboard_time": 1769426721,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 77592,
+      "num": 77592,
+      "word": "好利来事发门店回应掉地面包捡起售卖",
+      "onboard_time": 1769442741,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 77408,
@@ -2627,14 +2667,6 @@
       "category": "财经,民生新闻"
     },
     {
-      "raw_hot": 76099,
-      "num": 76099,
-      "word": "多款爆款鱼油实为植物油",
-      "onboard_time": 1769440341,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 75732,
       "num": 67669,
       "word": "上海人均收入首破9万",
@@ -2657,6 +2689,14 @@
       "onboard_time": 1769424261,
       "rank": 37,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 75104,
+      "num": 129916,
+      "word": "车厘子海运1个月不坏是咋回事",
+      "onboard_time": 1769439143,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 73905,
@@ -3371,14 +3411,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 37531,
-      "num": 129916,
-      "word": "车厘子海运1个月不坏是咋回事",
-      "onboard_time": 1769439143,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 37388,
       "num": 55955,
       "word": "矿业股或开启新一轮超级周期",
@@ -3483,6 +3515,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 27239,
+      "num": 87081,
+      "word": "1车辆超员133%还载了16个孩子",
+      "onboard_time": 1769441540,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27208,
       "num": 96223,
       "word": "男子去世后账户被保姆转走50万",
@@ -3544,14 +3584,6 @@
       "word": "肯德基回应汉堡堂食外卖差3.5元",
       "onboard_time": 1769438182,
       "rank": 42,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 22501,
-      "num": 87081,
-      "word": "1车辆超员133%还载了16个孩子",
-      "onboard_time": 1769441540,
-      "rank": 39,
       "category": "民生新闻"
     },
     {
