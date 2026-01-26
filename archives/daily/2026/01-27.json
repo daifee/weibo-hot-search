@@ -1,6 +1,6 @@
 {
   "startTime": 1769445836222,
-  "endTime": 1769463154696,
+  "endTime": 1769464023239,
   "band_list": [
     {
       "raw_hot": 657477,
@@ -427,19 +427,19 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 36315,
+      "num": 36315,
+      "word": "49条中日航线取消全部航班",
+      "onboard_time": 1769427562,
+      "rank": 48,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 28598,
       "num": 431404,
       "word": "2025年国内居民出游人次65.22亿",
       "onboard_time": 1769436983,
       "rank": 2,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 25781,
-      "num": 25781,
-      "word": "49条中日航线取消全部航班",
-      "onboard_time": 1769427562,
-      "rank": 48,
       "category": "国内时政"
     },
     {
@@ -532,11 +532,19 @@
     },
     {
       "raw_hot": 10124,
-      "num": 89797,
+      "num": 115590,
       "word": "2025中国十大科技进展新闻",
       "onboard_time": 1769436802,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 9838,
+      "num": 11165,
+      "word": "印度阅兵式",
+      "onboard_time": 1769435062,
+      "rank": 49,
+      "category": "国际时政"
     }
   ],
   "hotgov_list": [
