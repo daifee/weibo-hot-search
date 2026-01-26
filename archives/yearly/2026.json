@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769427789572,
+  "endTime": 1769432613287,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -635,6 +635,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1562420,
+      "num": 156287,
+      "word": "车银优承认逃税",
+      "onboard_time": 1769427921,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1559147,
       "num": 599118,
       "word": "女孩晕倒离世前妈妈疑已哄了一小时",
@@ -1009,6 +1017,14 @@
       "onboard_time": 1767420926,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1210515,
+      "num": 155992,
+      "word": "何健麒尿检",
+      "onboard_time": 1769428941,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1203665,
@@ -2385,22 +2401,6 @@
       "onboard_time": 1768951037,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 839474,
-      "num": 240160,
-      "word": "女医学生遭前男友杀害临终遗言曝光",
-      "onboard_time": 1768183579,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 839039,
-      "num": 279380,
-      "word": "林屿森都显怀了庄序还没释怀",
-      "onboard_time": 1767663142,
-      "rank": 10,
-      "category": "剧集"
     }
   ],
   "hotgov_list": [

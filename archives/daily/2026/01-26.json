@@ -1,6 +1,6 @@
 {
   "startTime": 1769358907478,
-  "endTime": 1769427789572,
+  "endTime": 1769432613287,
   "band_list": [
     {
       "raw_hot": 9558023,
@@ -17,6 +17,22 @@
       "onboard_time": 1769411423,
       "rank": 1,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 1562420,
+      "num": 156287,
+      "word": "车银优承认逃税",
+      "onboard_time": 1769427921,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1210515,
+      "num": 155992,
+      "word": "何健麒尿检",
+      "onboard_time": 1769428941,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1195687,
@@ -179,6 +195,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 520258,
+      "num": 1083241,
+      "word": "92岁老人每天睡超20小时身体倍棒",
+      "onboard_time": 1769426541,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 509847,
       "num": 302671,
       "word": "武汉理工毕业生当保安被母校约谈",
@@ -273,6 +297,14 @@
       "onboard_time": 1769403922,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 372052,
+      "num": 152673,
+      "word": "车银优发长文道歉",
+      "onboard_time": 1769427980,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 361765,
@@ -411,8 +443,16 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 293086,
+      "num": 293086,
+      "word": "6名中国男子日本滑雪被困死亡谷",
+      "onboard_time": 1769429183,
+      "rank": 3,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 290360,
-      "num": 149506,
+      "num": 152053,
       "word": "长期缺爱的人一眼就看出来了",
       "onboard_time": 1769420901,
       "rank": 30,
@@ -465,6 +505,14 @@
       "onboard_time": 1769348181,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 277522,
+      "num": 155694,
+      "word": "尼帕病毒被列为最危险的病原体之一",
+      "onboard_time": 1769428462,
+      "rank": 12,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 274259,
@@ -537,6 +585,22 @@
       "onboard_time": 1769350222,
       "rank": 21,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 252750,
+      "num": 252750,
+      "word": "山姆499元羽绒服羽绒成本约为186元",
+      "onboard_time": 1769425882,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 251291,
+      "num": 251291,
+      "word": "王楚钦参加首都院士专家新春联谊会",
+      "onboard_time": 1769429782,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 251272,
@@ -635,6 +699,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 234147,
+      "num": 155101,
+      "word": "iPhoneAir暴降后卖断货",
+      "onboard_time": 1769426663,
+      "rank": 41,
+      "category": "数码"
+    },
+    {
       "raw_hot": 231911,
       "num": 148332,
       "word": "原来英语本身就是一道斩杀线",
@@ -657,6 +729,14 @@
       "onboard_time": 1769420730,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 217606,
+      "num": 154689,
+      "word": "内娱喵系男艺人",
+      "onboard_time": 1769425940,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 216484,
@@ -699,6 +779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 203591,
+      "num": 153546,
+      "word": "赵樱子直播间发飙怼助理",
+      "onboard_time": 1769426302,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200760,
       "num": 200760,
       "word": "网友刚买iPhoneAir第二天就降价2000元",
@@ -708,7 +796,7 @@
     },
     {
       "raw_hot": 200519,
-      "num": 146306,
+      "num": 157045,
       "word": "金价飙升原因找到了",
       "onboard_time": 1769423241,
       "rank": 27,
@@ -883,6 +971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 158281,
+      "num": 158281,
+      "word": "灵隐寺免票预约后38万人爽约",
+      "onboard_time": 1769429782,
+      "rank": 7,
+      "category": "民生新闻,旅游"
+    },
+    {
       "raw_hot": 157898,
       "num": 130959,
       "word": "问界M6或将成为下一个爆款",
@@ -923,6 +1019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 151577,
+      "num": 151577,
+      "word": "童锦程自曝想和林志玲牵手",
+      "onboard_time": 1769429482,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 149436,
       "num": 149436,
       "word": "微博集卡",
@@ -945,14 +1049,6 @@
       "onboard_time": 1769398642,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 146081,
-      "num": 146081,
-      "word": "赵樱子直播间发飙怼助理",
-      "onboard_time": 1769426302,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 145450,
@@ -1035,14 +1131,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 139153,
-      "num": 203135,
-      "word": "山姆499元羽绒服羽绒成本约为186元",
-      "onboard_time": 1769425882,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 138957,
       "num": 132980,
       "word": "丁禹兮韩推 追中男送金子",
@@ -1073,14 +1161,6 @@
       "onboard_time": 1769395041,
       "rank": 24,
       "category": "财经"
-    },
-    {
-      "raw_hot": 135142,
-      "num": 135142,
-      "word": "内娱喵系男艺人",
-      "onboard_time": 1769425940,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 133476,
@@ -1315,14 +1395,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 117180,
-      "num": 174062,
-      "word": "92岁老人每天睡超20小时身体倍棒",
-      "onboard_time": 1769426541,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 116964,
       "num": 116964,
       "word": "陈星旭工作室严正声明",
@@ -1499,14 +1571,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 104173,
-      "num": 104173,
-      "word": "iPhoneAir暴降后卖断货",
-      "onboard_time": 1769426663,
-      "rank": 41,
-      "category": "数码"
-    },
-    {
       "raw_hot": 103937,
       "num": 103937,
       "word": "A股超3700只个股下跌",
@@ -1569,6 +1633,14 @@
       "onboard_time": 1769355201,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102516,
+      "num": 159958,
+      "word": "49条中日航线取消全部航班",
+      "onboard_time": 1769427562,
+      "rank": 22,
+      "category": "国内时政"
     },
     {
       "raw_hot": 102441,
@@ -1923,6 +1995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 87364,
+      "num": 87364,
+      "word": "左奇函晒新疆游合照",
+      "onboard_time": 1769429842,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 87223,
       "num": 87223,
       "word": "双高胎LOADING大片",
@@ -2035,6 +2115,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 81949,
+      "num": 81949,
+      "word": "林孝埈为米兰冬奥会第九次手术",
+      "onboard_time": 1769431823,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 81828,
       "num": 81828,
       "word": "腊八粥",
@@ -2097,6 +2185,14 @@
       "onboard_time": 1769394261,
       "rank": 33,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 80048,
+      "num": 80048,
+      "word": "时团真不把我们当外人",
+      "onboard_time": 1769430741,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 79843,
@@ -2185,6 +2281,14 @@
       "onboard_time": 1769401823,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76032,
+      "num": 76032,
+      "word": "檀健次这衣服怎么穿的好潮",
+      "onboard_time": 1769428101,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 75732,
@@ -2299,6 +2403,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 70241,
+      "num": 70241,
+      "word": "大帅感觉最近有点胖了",
+      "onboard_time": 1769431823,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 70152,
       "num": 871773,
       "word": "全国汽车驾驶人5.25亿人",
@@ -2323,12 +2435,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 69838,
+      "num": 69838,
+      "word": "海口亚洲杯梁靖崑退赛",
+      "onboard_time": 1769430862,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 69573,
       "num": 69573,
       "word": "妙可蓝多创始人柴琇被免职",
       "onboard_time": 1769427202,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 69078,
+      "num": 69078,
+      "word": "小猫穿戴聪明毛",
+      "onboard_time": 1769428641,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 68824,
+      "num": 68824,
+      "word": "Bin说要稳稳拿下JDG",
+      "onboard_time": 1769432302,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 68713,
@@ -2371,6 +2507,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 67037,
+      "num": 67037,
+      "word": "毛利兰破窗救园子爆火",
+      "onboard_time": 1769429782,
+      "rank": 47,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 66711,
       "num": 190414,
       "word": "代旭千字长文告别裴轸",
@@ -2385,6 +2529,14 @@
       "onboard_time": 1769351604,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 66049,
+      "num": 66049,
+      "word": "新郎新娘坐马车意外翻进沟里",
+      "onboard_time": 1769432541,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 65263,
@@ -2553,14 +2705,6 @@
       "onboard_time": 1769339540,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 58233,
-      "num": 159958,
-      "word": "49条中日航线取消全部航班",
-      "onboard_time": 1769427562,
-      "rank": 22,
-      "category": "国内时政"
     },
     {
       "raw_hot": 57714,
@@ -2833,6 +2977,14 @@
       "onboard_time": 1769383821,
       "rank": 45,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 36617,
+      "num": 153160,
+      "word": "期待Jonathan的Dior高订首秀",
+      "onboard_time": 1769429721,
+      "rank": 18,
+      "category": "时尚"
     },
     {
       "raw_hot": 36594,
