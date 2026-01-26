@@ -1,6 +1,6 @@
 {
   "startTime": 1769272464158,
-  "endTime": 1769421414695,
+  "endTime": 1769423757381,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -307,6 +307,14 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 628252,
+      "num": 1100520,
+      "word": "中国公民春节期间避免前往日本",
+      "onboard_time": 1769420241,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 624729,
       "num": 624729,
       "word": "猫的树 升咖",
@@ -523,6 +531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 479362,
+      "num": 167465,
+      "word": "女子打麻将戴特殊隐形眼镜被拆穿",
+      "onboard_time": 1769420122,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 478850,
       "num": 628128,
       "word": "可可托海雪豹咬人全过程",
@@ -571,6 +587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 451975,
+      "num": 451975,
+      "word": "芒果新签女艺人做梦都想去花少8",
+      "onboard_time": 1769421980,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 441216,
       "num": 441216,
       "word": "檀健次卢昱晓新剧开机照",
@@ -617,6 +641,14 @@
       "onboard_time": 1769311400,
       "rank": 6,
       "category": "幽默,民生新闻"
+    },
+    {
+      "raw_hot": 414491,
+      "num": 243840,
+      "word": "TFBOYS三人六字 TWS六人三字",
+      "onboard_time": 1769418862,
+      "rank": 3,
+      "category": "音乐"
     },
     {
       "raw_hot": 411263,
@@ -755,6 +787,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 355763,
+      "num": 355763,
+      "word": "十日终焉大男主",
+      "onboard_time": 1769419821,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 354848,
+      "num": 117460,
+      "word": "董卿发型 隆重又松弛",
+      "onboard_time": 1769419703,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 353892,
       "num": 284926,
       "word": "双胞胎吵架差点把爷爷奶奶吵离婚",
@@ -793,14 +841,6 @@
       "onboard_time": 1769319199,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 332878,
-      "num": 243840,
-      "word": "TFBOYS三人六字 TWS六人三字",
-      "onboard_time": 1769418862,
-      "rank": 3,
-      "category": "音乐"
     },
     {
       "raw_hot": 332859,
@@ -1195,6 +1235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 256032,
+      "num": 114749,
+      "word": "长期缺爱的人一眼就看出来了",
+      "onboard_time": 1769420901,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 251272,
       "num": 129911,
       "word": "张凌赫 做惠英红的宝贝这么难吗",
@@ -1251,6 +1299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 247233,
+      "num": 247233,
+      "word": "紫金矿业卖一挂单40.7亿元",
+      "onboard_time": 1769419703,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 243147,
       "num": 243147,
       "word": "十日终焉",
@@ -1281,14 +1337,6 @@
       "onboard_time": 1769328799,
       "rank": 41,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 240941,
-      "num": 117460,
-      "word": "董卿发型 隆重又松弛",
-      "onboard_time": 1769419703,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 240925,
@@ -1539,14 +1587,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 199153,
-      "num": 199153,
-      "word": "十日终焉大男主",
-      "onboard_time": 1769419821,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 199106,
       "num": 111557,
       "word": "太平年10.9%",
@@ -1683,11 +1723,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 181541,
-      "num": 181541,
-      "word": "紫金矿业卖一挂单40.7亿元",
-      "onboard_time": 1769419703,
-      "rank": 9,
+      "raw_hot": 184111,
+      "num": 95530,
+      "word": "金价飙升原因找到了",
+      "onboard_time": 1769423241,
+      "rank": 27,
       "category": "财经"
     },
     {
@@ -1817,6 +1857,14 @@
       "onboard_time": 1769254281,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 167951,
+      "num": 167951,
+      "word": "杨鸣发博回应",
+      "onboard_time": 1769420730,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 166963,
@@ -2123,6 +2171,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 142069,
+      "num": 142069,
+      "word": "眼睛近视到底可不可逆",
+      "onboard_time": 1769421682,
+      "rank": 15,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 142009,
       "num": 157047,
       "word": "CBA",
@@ -2371,14 +2427,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 130342,
-      "num": 130342,
-      "word": "中国公民春节期间避免前往日本",
-      "onboard_time": 1769420241,
-      "rank": 41,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 129964,
       "num": 129964,
       "word": "黎深引导型爱人",
@@ -2393,6 +2441,14 @@
       "onboard_time": 1769297837,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 128974,
+      "num": 95500,
+      "word": "我过年回家要是被逼相亲就这样",
+      "onboard_time": 1769423182,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 128861,
@@ -2441,6 +2497,14 @@
       "onboard_time": 1769412561,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127071,
+      "num": 127071,
+      "word": "一部剧骂醒我的恋爱脑和事业心",
+      "onboard_time": 1769422701,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 126613,
@@ -2611,6 +2675,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 119619,
+      "num": 119619,
+      "word": "痞幼自曝叫跑腿上门开生蚝",
+      "onboard_time": 1769423241,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 119547,
       "num": 119547,
       "word": "腊八蒜起源于催款",
@@ -2715,28 +2787,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 115213,
-      "num": 115213,
-      "word": "女子打麻将戴特殊隐形眼镜被拆穿",
-      "onboard_time": 1769420122,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 115033,
       "num": 115033,
       "word": "丁禹兮白西装",
       "onboard_time": 1769330180,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 114749,
-      "num": 114749,
-      "word": "长期缺爱的人一眼就看出来了",
-      "onboard_time": 1769420901,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 114451,
@@ -3427,14 +3483,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 97064,
-      "num": 97064,
-      "word": "杨鸣发博回应",
-      "onboard_time": 1769420730,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 96938,
       "num": 96938,
       "word": "欢迎U23国足回家",
@@ -3595,6 +3643,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 95495,
+      "num": 97516,
+      "word": "蒋欣 上炕都费劲",
+      "onboard_time": 1769420301,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 95321,
       "num": 95321,
       "word": "刘强东连续多年给老家送年货",
@@ -3731,6 +3787,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 92906,
+      "num": 92906,
+      "word": "玉兰花开君再来",
+      "onboard_time": 1769423481,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 92850,
       "num": 94523,
       "word": "宋威龙新加坡vlog",
@@ -3857,6 +3921,14 @@
       "onboard_time": 1769314280,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 90457,
+      "num": 87477,
+      "word": "张凌赫宋威龙 为什么不加上余承东",
+      "onboard_time": 1769423121,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 90414,
@@ -4179,14 +4251,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 83785,
-      "num": 97516,
-      "word": "蒋欣 上炕都费劲",
-      "onboard_time": 1769420301,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 83641,
       "num": 83641,
       "word": "金饰克价逼近1600元",
@@ -4307,6 +4371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 81430,
+      "num": 81430,
+      "word": "突然的喜欢",
+      "onboard_time": 1769249960,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 81335,
       "num": 112081,
       "word": "美明尼苏达州男子遭补枪画面曝光",
@@ -4355,6 +4427,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 80461,
+      "num": 79651,
+      "word": "一代人有一代人的年货",
+      "onboard_time": 1769421920,
+      "rank": 42,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 80417,
       "num": 80417,
       "word": "张学友婉拒四大天王合体",
@@ -4401,6 +4481,14 @@
       "onboard_time": 1769330899,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 78743,
+      "num": 78743,
+      "word": "孙颖莎腊八节在训练场馆度过",
+      "onboard_time": 1769422881,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 78686,
@@ -4627,6 +4715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 75271,
+      "num": 75271,
+      "word": "银价疯涨有银饰店干不下去了",
+      "onboard_time": 1769423542,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 75185,
       "num": 75185,
       "word": "剩米饭变冰淇淋",
@@ -4713,6 +4809,14 @@
       "onboard_time": 1769329400,
       "rank": 18,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 73077,
+      "num": 73077,
+      "word": "顾客试吃后退货包裹里塞两元钱",
+      "onboard_time": 1769423721,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 72832,
@@ -5075,6 +5179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 63232,
+      "num": 642534,
+      "word": "中国为何被称全球首个重要电力国家",
+      "onboard_time": 1769419162,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 62655,
       "num": 62655,
       "word": "深圳知名古镇藏违建别墅和月子中心",
@@ -5169,14 +5281,6 @@
       "onboard_time": 1769387180,
       "rank": 46,
       "category": "演出"
-    },
-    {
-      "raw_hot": 57902,
-      "num": 642534,
-      "word": "中国为何被称全球首个重要电力国家",
-      "onboard_time": 1769419162,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 57455,
@@ -5291,6 +5395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 54442,
+      "num": 93980,
+      "word": "武汉理工回应约谈当保安毕业生",
+      "onboard_time": 1769422401,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 53705,
       "num": 73119,
       "word": "为这口菌子等了寒露又等雨",
@@ -5337,14 +5449,6 @@
       "onboard_time": 1769394379,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 49451,
-      "num": 67092,
-      "word": "突然的喜欢",
-      "onboard_time": 1769249960,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 48749,
@@ -5915,6 +6019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 22618,
+      "num": 82162,
+      "word": "老人称充值10万网聊未能拿到女生电话",
+      "onboard_time": 1769423060,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22615,
       "num": 257289,
       "word": "回顾李昊U23亚洲杯表现",
@@ -6121,6 +6233,14 @@
       "onboard_time": 1769348242,
       "rank": 39,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 11570,
+      "num": 81779,
+      "word": "名校毕业当保安男子否认抹黑母校",
+      "onboard_time": 1769423601,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11388,
