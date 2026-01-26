@@ -1,7 +1,23 @@
 {
   "startTime": 1769358907478,
-  "endTime": 1769384548775,
+  "endTime": 1769394438656,
   "band_list": [
+    {
+      "raw_hot": 1195687,
+      "num": 1195687,
+      "word": "印度疫情",
+      "onboard_time": 1769390540,
+      "rank": 0,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1071912,
+      "num": 140500,
+      "word": "黄金",
+      "onboard_time": 1769386880,
+      "rank": 20,
+      "category": "财经"
+    },
     {
       "raw_hot": 1023500,
       "num": 250987,
@@ -33,6 +49,14 @@
       "onboard_time": 1769355620,
       "rank": 0,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 565837,
+      "num": 861643,
+      "word": "警方查明夫妻网购娃娃菜中毒毒源",
+      "onboard_time": 1769391919,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 501884,
@@ -83,6 +107,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 301801,
+      "num": 154352,
+      "word": "短剧女主全年无休拍了48部戏",
+      "onboard_time": 1769393719,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 301571,
+      "num": 242824,
+      "word": "原来网吧是可以没有电脑的",
+      "onboard_time": 1769389820,
+      "rank": 5,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 281709,
       "num": 190449,
       "word": "何健麒 造谣你都得有个谱啊",
@@ -107,6 +147,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 243147,
+      "num": 243147,
+      "word": "十日终焉",
+      "onboard_time": 1769385980,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 240925,
       "num": 240925,
       "word": "菲律宾一载350多人渡轮沉没",
@@ -115,8 +163,16 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 237670,
+      "num": 154178,
+      "word": "商家在我的豆浆里放了个杯子",
+      "onboard_time": 1769389279,
+      "rank": 13,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 231911,
-      "num": 100585,
+      "num": 148332,
       "word": "原来英语本身就是一道斩杀线",
       "onboard_time": 1769383037,
       "rank": 14,
@@ -129,6 +185,30 @@
       "onboard_time": 1769384239,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 199957,
+      "num": 153142,
+      "word": "何健麒曾说玉茗茶骨里有他的角色",
+      "onboard_time": 1769389401,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 181118,
+      "num": 181118,
+      "word": "田曦薇张凌赫hi6上班路透",
+      "onboard_time": 1769394138,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 164483,
+      "num": 154138,
+      "word": "22岁的我们终于读懂了邱莹莹",
+      "onboard_time": 1769384539,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 161569,
@@ -147,6 +227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 151246,
+      "num": 130959,
+      "word": "问界M6或将成为下一个爆款",
+      "onboard_time": 1769392580,
+      "rank": 22,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 141974,
       "num": 190401,
       "word": "生命树",
@@ -163,6 +251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 128243,
+      "num": 128243,
+      "word": "国际金价疯涨原因",
+      "onboard_time": 1769390661,
+      "rank": 23,
+      "category": "财经"
+    },
+    {
       "raw_hot": 127710,
       "num": 190469,
       "word": "印度一邦暴发疫情",
@@ -171,12 +267,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 121801,
+      "num": 121801,
+      "word": "这些体态问题都是屁股引发的",
+      "onboard_time": 1769383037,
+      "rank": 23,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 121416,
       "num": 254815,
       "word": "看懂陈星旭收官文的都哭了",
       "onboard_time": 1769354603,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 119547,
+      "num": 119547,
+      "word": "腊八蒜起源于催款",
+      "onboard_time": 1769393420,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 118658,
@@ -195,6 +307,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 116964,
+      "num": 116964,
+      "word": "陈星旭工作室严正声明",
+      "onboard_time": 1769385077,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 115443,
       "num": 263375,
       "word": "女子怀孕收男友15万彩礼后不和要退婚",
@@ -211,12 +331,36 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 103727,
+      "num": 103727,
+      "word": "剑网3",
+      "onboard_time": 1769393480,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 102604,
       "num": 190411,
       "word": "宝宝误嚼金锁医生称黄金已到大肠",
       "onboard_time": 1769355201,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 99542,
+      "num": 99542,
+      "word": "张元英用中文说等一下",
+      "onboard_time": 1769393900,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 98748,
+      "num": 98748,
+      "word": "君心似疾",
+      "onboard_time": 1769392099,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 93094,
@@ -275,14 +419,6 @@
       "category": "美食,幽默"
     },
     {
-      "raw_hot": 87385,
-      "num": 87385,
-      "word": "这些体态问题都是屁股引发的",
-      "onboard_time": 1769383037,
-      "rank": 23,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 85800,
       "num": 190369,
       "word": "四代第一匍匐陆兵陈思罕",
@@ -321,6 +457,22 @@
       "onboard_time": 1769352563,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 80348,
+      "num": 80348,
+      "word": "冬季风暴纽约5人死在室外",
+      "onboard_time": 1769394261,
+      "rank": 33,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 77408,
+      "num": 77408,
+      "word": "美国严寒天气已致多人死亡",
+      "onboard_time": 1769388559,
+      "rank": 35,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 75732,
@@ -379,12 +531,36 @@
       "category": "演出"
     },
     {
+      "raw_hot": 70002,
+      "num": 70002,
+      "word": "梅得福去面试十日终焉了",
+      "onboard_time": 1769389941,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 69107,
+      "num": 69107,
+      "word": "腊八粥",
+      "onboard_time": 1769386040,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
       "raw_hot": 68713,
       "num": 190356,
       "word": "IVE回归预告",
       "onboard_time": 1769354902,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 68682,
+      "num": 68682,
+      "word": "樊振东去看科隆大教堂了",
+      "onboard_time": 1769394319,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 66711,
@@ -401,6 +577,14 @@
       "onboard_time": 1769351604,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 65263,
+      "num": 65263,
+      "word": "勇士战胜森林狼",
+      "onboard_time": 1769393420,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 65034,
@@ -435,6 +619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 62655,
+      "num": 62655,
+      "word": "深圳知名古镇藏违建别墅和月子中心",
+      "onboard_time": 1769392940,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 62489,
       "num": 85073,
       "word": "被斩杀的美国人民",
@@ -451,12 +643,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 59677,
+      "num": 59677,
+      "word": "狗 啥事交给我你就闹心去吧",
+      "onboard_time": 1769390661,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 59547,
       "num": 190442,
       "word": "微博之夜",
       "onboard_time": 1769344401,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 58837,
+      "num": 58837,
+      "word": "周渝民一家三口看王心凌演唱会",
+      "onboard_time": 1769387180,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 58589,
@@ -473,6 +681,14 @@
       "onboard_time": 1769351661,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 55436,
+      "num": 57913,
+      "word": "山西大叔做炒指一天要挖俩山头",
+      "onboard_time": 1769386279,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 55219,
@@ -643,6 +859,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 32797,
+      "num": 65711,
+      "word": "叶童推荐王濛去浪姐7",
+      "onboard_time": 1769394379,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 31052,
       "num": 49874,
       "word": "郭艾伦复出两场都赢了",
@@ -652,7 +876,7 @@
     },
     {
       "raw_hot": 27438,
-      "num": 559088,
+      "num": 714510,
       "word": "彩灯一亮年味就有了",
       "onboard_time": 1769345602,
       "rank": 2,
@@ -667,11 +891,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 21621,
+      "num": 154291,
+      "word": "美执法人员枪杀男子后数枪眼",
+      "onboard_time": 1769394020,
+      "rank": 11,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 18291,
       "num": 48763,
       "word": "妈妈回应11岁儿子创业2月赚6000",
       "onboard_time": 1769355920,
       "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17710,
+      "num": 68009,
+      "word": "3次挂号3次请假才真正看上病",
+      "onboard_time": 1769394020,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -689,6 +929,14 @@
       "onboard_time": 1769342060,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 14200,
+      "num": 144488,
+      "word": "特大冬季风暴美国多地超市抢空",
+      "onboard_time": 1769394020,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 13176,

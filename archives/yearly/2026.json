@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769384548775,
+  "endTime": 1769394438656,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -1011,6 +1011,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1195687,
+      "num": 1195687,
+      "word": "印度疫情",
+      "onboard_time": 1769390540,
+      "rank": 0,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1195104,
       "num": 120989,
       "word": "呆呆哭诉大家都在直播只有妈妈清扫",
@@ -1347,6 +1355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1071912,
+      "num": 593000,
+      "word": "黄金",
+      "onboard_time": 1767579621,
+      "rank": 17,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1070936,
       "num": 496434,
       "word": "李在镕在北京买了100个labubu",
@@ -1657,14 +1673,6 @@
       "onboard_time": 1768469360,
       "rank": 18,
       "category": "民生新闻,互联网"
-    },
-    {
-      "raw_hot": 987620,
-      "num": 593000,
-      "word": "黄金",
-      "onboard_time": 1767579621,
-      "rank": 17,
-      "category": "财经"
     },
     {
       "raw_hot": 986767,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1768554200,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 831841,
-      "num": 204497,
-      "word": "小澈还在方圆家住半个月",
-      "onboard_time": 1768055902,
-      "rank": 26,
-      "category": "网红"
     }
   ],
   "hotgov_list": [
