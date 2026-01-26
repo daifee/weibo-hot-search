@@ -1,6 +1,6 @@
 {
   "startTime": 1769358907478,
-  "endTime": 1769423757381,
+  "endTime": 1769424801589,
   "band_list": [
     {
       "raw_hot": 9558023,
@@ -115,8 +115,8 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 628252,
-      "num": 1100520,
+      "raw_hot": 657130,
+      "num": 1105140,
       "word": "中国公民春节期间避免前往日本",
       "onboard_time": 1769420241,
       "rank": 41,
@@ -204,7 +204,7 @@
     },
     {
       "raw_hot": 479362,
-      "num": 167465,
+      "num": 213322,
       "word": "女子打麻将戴特殊隐形眼镜被拆穿",
       "onboard_time": 1769420122,
       "rank": 25,
@@ -236,7 +236,7 @@
     },
     {
       "raw_hot": 451975,
-      "num": 451975,
+      "num": 784925,
       "word": "芒果新签女艺人做梦都想去花少8",
       "onboard_time": 1769421980,
       "rank": 3,
@@ -265,6 +265,14 @@
       "onboard_time": 1769403922,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 367938,
+      "num": 367938,
+      "word": "痞幼自曝叫跑腿上门开生蚝",
+      "onboard_time": 1769423241,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 361765,
@@ -387,6 +395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 287541,
+      "num": 114749,
+      "word": "长期缺爱的人一眼就看出来了",
+      "onboard_time": 1769420901,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 285624,
       "num": 192238,
       "word": "运动对小孩有多重要",
@@ -473,14 +489,6 @@
       "onboard_time": 1769397559,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 256032,
-      "num": 114749,
-      "word": "长期缺爱的人一眼就看出来了",
-      "onboard_time": 1769420901,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 255898,
@@ -587,6 +595,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 233083,
+      "num": 189475,
+      "word": "眼睛近视到底可不可逆",
+      "onboard_time": 1769421682,
+      "rank": 15,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 231911,
       "num": 148332,
       "word": "原来英语本身就是一道斩杀线",
@@ -601,6 +617,14 @@
       "onboard_time": 1769397140,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 223852,
+      "num": 223852,
+      "word": "杨鸣发博回应",
+      "onboard_time": 1769420730,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 216484,
@@ -763,14 +787,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 167951,
-      "num": 167951,
-      "word": "杨鸣发博回应",
-      "onboard_time": 1769420730,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 166633,
       "num": 314883,
       "word": "王欣瑜止步澳网十六强",
@@ -891,14 +907,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 142069,
-      "num": 142069,
-      "word": "眼睛近视到底可不可逆",
-      "onboard_time": 1769421682,
-      "rank": 15,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 142009,
       "num": 157047,
       "word": "CBA",
@@ -1001,6 +1009,14 @@
       "onboard_time": 1769340081,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 132306,
+      "num": 132306,
+      "word": "花儿与少年8",
+      "onboard_time": 1769423841,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 132128,
@@ -1163,14 +1179,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 119619,
-      "num": 119619,
-      "word": "痞幼自曝叫跑腿上门开生蚝",
-      "onboard_time": 1769423241,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 119547,
       "num": 119547,
       "word": "腊八蒜起源于催款",
@@ -1233,6 +1241,14 @@
       "onboard_time": 1769342481,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115185,
+      "num": 87883,
+      "word": "张凌赫宋威龙 为什么不加上余承东",
+      "onboard_time": 1769423121,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 114408,
@@ -1457,6 +1473,14 @@
       "onboard_time": 1769402481,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 100027,
+      "num": 89538,
+      "word": "银价疯涨有银饰店干不下去了",
+      "onboard_time": 1769423542,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 99323,
@@ -1699,12 +1723,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 90457,
-      "num": 87477,
-      "word": "张凌赫宋威龙 为什么不加上余承东",
-      "onboard_time": 1769423121,
-      "rank": 36,
-      "category": "艺人"
+      "raw_hot": 90461,
+      "num": 90461,
+      "word": "顾客试吃后退货包裹里塞两元钱",
+      "onboard_time": 1769423721,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90013,
@@ -1713,6 +1737,14 @@
       "onboard_time": 1769356220,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 89264,
+      "num": 87588,
+      "word": "化了100次妆才会知道的",
+      "onboard_time": 1769423961,
+      "rank": 31,
+      "category": "美妆"
     },
     {
       "raw_hot": 89072,
@@ -1939,6 +1971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 78540,
+      "num": 78540,
+      "word": "网购娃娃菜致夫妻中毒毒源是旧报纸",
+      "onboard_time": 1769424380,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 78368,
       "num": 78368,
       "word": "kiiikiii新歌",
@@ -1963,6 +2003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 75939,
+      "num": 75939,
+      "word": "何健麒事件不能任由两人互撕",
+      "onboard_time": 1769424323,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 75732,
       "num": 67669,
       "word": "上海人均收入首破9万",
@@ -1971,20 +2019,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 75271,
-      "num": 75271,
-      "word": "银价疯涨有银饰店干不下去了",
-      "onboard_time": 1769423542,
-      "rank": 45,
-      "category": "财经"
-    },
-    {
       "raw_hot": 75185,
       "num": 75185,
       "word": "剩米饭变冰淇淋",
       "onboard_time": 1769410040,
       "rank": 47,
       "category": "美食"
+    },
+    {
+      "raw_hot": 75145,
+      "num": 75145,
+      "word": "奶龙变成奶皮子了",
+      "onboard_time": 1769424261,
+      "rank": 37,
+      "category": "动漫"
     },
     {
       "raw_hot": 74199,
@@ -2011,20 +2059,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 73077,
-      "num": 73077,
-      "word": "顾客试吃后退货包裹里塞两元钱",
-      "onboard_time": 1769423721,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 72029,
       "num": 72029,
       "word": "朱婷意大利女排杯冠军",
       "onboard_time": 1769382977,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 71814,
+      "num": 71814,
+      "word": "有我一口吃的就有我妈一口吃的",
+      "onboard_time": 1769424201,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 71470,
@@ -2041,6 +2089,14 @@
       "onboard_time": 1769359278,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 71045,
+      "num": 71045,
+      "word": "马化腾内部员工大会安利AI新品",
+      "onboard_time": 1769424741,
+      "rank": 40,
+      "category": "互联网"
     },
     {
       "raw_hot": 70674,
@@ -2195,6 +2251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 63206,
+      "num": 63206,
+      "word": "写字烂也能成为一种天赋",
+      "onboard_time": 1769424682,
+      "rank": 46,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 62988,
       "num": 62988,
       "word": "内娱你再不努力就要被短剧打败了",
@@ -2209,6 +2273,14 @@
       "onboard_time": 1769392940,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 62591,
+      "num": 62591,
+      "word": "狗 光严选我忘严选你了",
+      "onboard_time": 1769424622,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 62489,
@@ -2755,6 +2827,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 16471,
+      "num": 81779,
+      "word": "名校毕业当保安男子否认抹黑母校",
+      "onboard_time": 1769423601,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 15981,
       "num": 20381,
       "word": "小城大事",
@@ -2785,14 +2865,6 @@
       "onboard_time": 1769367195,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 11570,
-      "num": 81779,
-      "word": "名校毕业当保安男子否认抹黑母校",
-      "onboard_time": 1769423601,
-      "rank": 39,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
