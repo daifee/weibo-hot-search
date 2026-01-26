@@ -1,7 +1,15 @@
 {
   "startTime": 1769358907478,
-  "endTime": 1769410168815,
+  "endTime": 1769410986187,
   "band_list": [
+    {
+      "raw_hot": 2688472,
+      "num": 2688472,
+      "word": "甘肃地震",
+      "onboard_time": 1769410940,
+      "rank": 0,
+      "category": "突发/灾害"
+    },
     {
       "raw_hot": 1195687,
       "num": 1195687,
@@ -12,7 +20,7 @@
     },
     {
       "raw_hot": 1084863,
-      "num": 174961,
+      "num": 180518,
       "word": "黄金",
       "onboard_time": 1769386880,
       "rank": 20,
@@ -41,6 +49,14 @@
       "onboard_time": 1769395879,
       "rank": 20,
       "category": "财经"
+    },
+    {
+      "raw_hot": 845845,
+      "num": 256930,
+      "word": "空姐笑了半小时才把橙汁倒下去",
+      "onboard_time": 1769408901,
+      "rank": 13,
+      "category": "幽默"
     },
     {
       "raw_hot": 844567,
@@ -115,8 +131,16 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 553237,
+      "num": 1060515,
+      "word": "我国已将尼帕病毒纳入检测范围",
+      "onboard_time": 1769408420,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 550123,
-      "num": 175046,
+      "num": 183638,
       "word": "程序员27岁去美国35岁流落街头",
       "onboard_time": 1769404402,
       "rank": 30,
@@ -187,14 +211,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 373093,
-      "num": 1059694,
-      "word": "我国已将尼帕病毒纳入检测范围",
-      "onboard_time": 1769408420,
-      "rank": 0,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 356287,
       "num": 560518,
       "word": "成毅新片定档春节档",
@@ -212,19 +228,11 @@
     },
     {
       "raw_hot": 329629,
-      "num": 174354,
+      "num": 183420,
       "word": "张学友捐款130万元",
       "onboard_time": 1769406620,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 328148,
-      "num": 174099,
-      "word": "空姐笑了半小时才把橙汁倒下去",
-      "onboard_time": 1769408901,
-      "rank": 13,
-      "category": "幽默"
     },
     {
       "raw_hot": 322359,
@@ -235,6 +243,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 308025,
+      "num": 123227,
+      "word": "田栩宁工作室发告黑进展",
+      "onboard_time": 1769409320,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 305514,
       "num": 208779,
       "word": "黄子韬名下公司欠税14万被公告",
@@ -243,20 +259,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 303574,
+      "num": 303574,
+      "word": "大爷2万买宝马5天趴窝4次拉断绳",
+      "onboard_time": 1769406620,
+      "rank": 48,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 301571,
       "num": 247823,
       "word": "原来网吧是可以没有电脑的",
       "onboard_time": 1769389820,
       "rank": 5,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 290340,
-      "num": 290340,
-      "word": "大爷2万买宝马5天趴窝4次拉断绳",
-      "onboard_time": 1769406620,
-      "rank": 48,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 290109,
@@ -316,7 +332,7 @@
     },
     {
       "raw_hot": 250257,
-      "num": 171589,
+      "num": 180948,
       "word": "李子柒时隔半年视频露面",
       "onboard_time": 1769407821,
       "rank": 16,
@@ -435,6 +451,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 200143,
+      "num": 200143,
+      "word": "张杰鸟巢演唱会审批通过",
+      "onboard_time": 1769409560,
+      "rank": 9,
+      "category": "演出"
+    },
+    {
       "raw_hot": 199957,
       "num": 153142,
       "word": "何健麒曾说玉茗茶骨里有他的角色",
@@ -443,12 +467,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 197599,
-      "num": 111350,
-      "word": "田栩宁工作室发告黑进展",
-      "onboard_time": 1769409320,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 196691,
+      "num": 196691,
+      "word": "A股又突然跳水了",
+      "onboard_time": 1769408001,
+      "rank": 8,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 190202,
+      "num": 179348,
+      "word": "田曦薇美人嗔怒这一下",
+      "onboard_time": 1769408542,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 189686,
@@ -467,12 +499,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 182849,
-      "num": 182849,
-      "word": "A股又突然跳水了",
-      "onboard_time": 1769408001,
-      "rank": 8,
-      "category": "财经"
+      "raw_hot": 185527,
+      "num": 185527,
+      "word": "微博抓马",
+      "onboard_time": 1769410639,
+      "rank": 9,
+      "category": "互联网"
     },
     {
       "raw_hot": 181439,
@@ -481,14 +513,6 @@
       "onboard_time": 1769395639,
       "rank": 16,
       "category": "电影"
-    },
-    {
-      "raw_hot": 176550,
-      "num": 176550,
-      "word": "张杰鸟巢演唱会审批通过",
-      "onboard_time": 1769409560,
-      "rank": 9,
-      "category": "演出"
     },
     {
       "raw_hot": 175314,
@@ -513,14 +537,6 @@
       "onboard_time": 1769384539,
       "rank": 14,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 167932,
-      "num": 167932,
-      "word": "田曦薇美人嗔怒这一下",
-      "onboard_time": 1769408542,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 166633,
@@ -561,6 +577,14 @@
       "onboard_time": 1769392580,
       "rank": 22,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 152979,
+      "num": 152979,
+      "word": "TF家族荣耀之战舞台关键词",
+      "onboard_time": 1769410639,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 152893,
@@ -624,6 +648,14 @@
       "word": "丁禹兮韩推 追中男送金子",
       "onboard_time": 1769404942,
       "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 138822,
+      "num": 138822,
+      "word": "宋威龙 全球少女的梦",
+      "onboard_time": 1769409440,
+      "rank": 38,
       "category": "艺人"
     },
     {
@@ -705,6 +737,22 @@
       "onboard_time": 1769400142,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 123312,
+      "num": 123312,
+      "word": "印度尼帕病毒疫情或来自医院",
+      "onboard_time": 1769410580,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 123075,
+      "num": 123075,
+      "word": "谷爱凌自我加压卷到哭",
+      "onboard_time": 1769410101,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 122437,
@@ -811,14 +859,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 109486,
-      "num": 109486,
-      "word": "谷爱凌自我加压卷到哭",
-      "onboard_time": 1769410101,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 108766,
       "num": 108766,
       "word": "陈小群概念股炒作利益链调查",
@@ -875,6 +915,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 103287,
+      "num": 103287,
+      "word": "全球已进入水资源破产时代",
+      "onboard_time": 1769409560,
+      "rank": 40,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 103244,
       "num": 103244,
       "word": "张元英用中文说等一下",
@@ -905,6 +953,14 @@
       "onboard_time": 1769394680,
       "rank": 28,
       "category": "财经"
+    },
+    {
+      "raw_hot": 101164,
+      "num": 101164,
+      "word": "杨蓉小宫女把我干哪一年了",
+      "onboard_time": 1769410340,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 100936,
@@ -1019,14 +1075,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 91164,
-      "num": 91164,
-      "word": "全球已进入水资源破产时代",
-      "onboard_time": 1769409560,
-      "rank": 40,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 90616,
       "num": 68356,
       "word": "姑父棒杀侄女作案细节披露",
@@ -1043,12 +1091,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 90447,
+      "num": 90447,
+      "word": "王玉雯 我也是个女生我有点害羞",
+      "onboard_time": 1769410822,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 90013,
       "num": 190421,
       "word": "浪姐4姐姐们来看Ella演唱会",
       "onboard_time": 1769356220,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 89464,
+      "num": 89464,
+      "word": "尼帕病毒如何预防",
+      "onboard_time": 1769410281,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 89072,
@@ -1065,14 +1129,6 @@
       "onboard_time": 1769335160,
       "rank": 18,
       "category": "美食,幽默"
-    },
-    {
-      "raw_hot": 88412,
-      "num": 92731,
-      "word": "宋威龙 全球少女的梦",
-      "onboard_time": 1769409440,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 87223,
@@ -1267,6 +1323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 71470,
+      "num": 103690,
+      "word": "早期马嘉祺 小野马",
+      "onboard_time": 1769410639,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 71167,
       "num": 190431,
       "word": "尚雯婕 直播最严厉的母亲",
@@ -1436,7 +1500,7 @@
     },
     {
       "raw_hot": 60203,
-      "num": 170790,
+      "num": 181245,
       "word": "马年春联起点太高了",
       "onboard_time": 1769407642,
       "rank": 17,
@@ -1571,6 +1635,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 46887,
+      "num": 181641,
+      "word": "腊八节中国奥林匹克发了王楚钦",
+      "onboard_time": 1769410639,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 45420,
       "num": 45420,
       "word": "父亲说乔任梁曾长期失眠",
@@ -1604,7 +1676,7 @@
     },
     {
       "raw_hot": 42706,
-      "num": 641751,
+      "num": 831426,
       "word": "这份新规为未成年人织密防护网",
       "onboard_time": 1769403801,
       "rank": 2,
@@ -1643,6 +1715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 40355,
+      "num": 143892,
+      "word": "泰国全面筛查尼帕病毒风险航班",
+      "onboard_time": 1769410822,
+      "rank": 27,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 39536,
       "num": 39536,
       "word": "3家娱乐场所长期招未成年人陪侍",
@@ -1673,6 +1753,14 @@
       "onboard_time": 1769383939,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37668,
+      "num": 103473,
+      "word": "宋亚轩在这个视频里起到什么作用",
+      "onboard_time": 1769409921,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 37388,
@@ -1796,7 +1884,7 @@
     },
     {
       "raw_hot": 24501,
-      "num": 112991,
+      "num": 127667,
       "word": "最强大脑扎堆接招马年春联",
       "onboard_time": 1769407701,
       "rank": 29,
@@ -1833,14 +1921,6 @@
       "onboard_time": 1769342060,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 15063,
-      "num": 91674,
-      "word": "宋亚轩在这个视频里起到什么作用",
-      "onboard_time": 1769409921,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 14200,
