@@ -1,6 +1,6 @@
 {
   "startTime": 1769445836222,
-  "endTime": 1769446900085,
+  "endTime": 1769449056130,
   "band_list": [
     {
       "raw_hot": 657477,
@@ -81,6 +81,14 @@
       "onboard_time": 1769443340,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 139741,
+      "num": 139741,
+      "word": "起诉王者荣耀公开匹配机制案进展",
+      "onboard_time": 1769445259,
+      "rank": 40,
+      "category": "民生新闻,游戏"
     },
     {
       "raw_hot": 134422,
@@ -235,14 +243,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 63838,
-      "num": 86917,
-      "word": "起诉王者荣耀公开匹配机制案进展",
-      "onboard_time": 1769445259,
-      "rank": 40,
-      "category": "民生新闻,游戏"
-    },
-    {
       "raw_hot": 61522,
       "num": 66636,
       "word": "太平年",
@@ -265,6 +265,14 @@
       "onboard_time": 1769402422,
       "rank": 32,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 59694,
+      "num": 47785,
+      "word": "盘发之后脸会小一圈",
+      "onboard_time": 1769445918,
+      "rank": 32,
+      "category": "美妆"
     },
     {
       "raw_hot": 59625,
@@ -321,14 +329,6 @@
       "onboard_time": 1769436923,
       "rank": 39,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 47785,
-      "num": 47785,
-      "word": "盘发之后脸会小一圈",
-      "onboard_time": 1769445918,
-      "rank": 32,
-      "category": "美妆"
     },
     {
       "raw_hot": 45970,
@@ -409,6 +409,30 @@
       "onboard_time": 1769436983,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 23264,
+      "num": 47151,
+      "word": "轧戏",
+      "onboard_time": 1769448676,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 22463,
+      "num": 46983,
+      "word": "车厘子海运1个月不坏是咋回事",
+      "onboard_time": 1769439143,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21814,
+      "num": 46937,
+      "word": "女神蒙上眼",
+      "onboard_time": 1769448077,
+      "rank": 49,
+      "category": "剧集"
     }
   ],
   "hotgov_list": [

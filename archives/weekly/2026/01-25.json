@@ -1,6 +1,6 @@
 {
   "startTime": 1769272464158,
-  "endTime": 1769446900085,
+  "endTime": 1769449056130,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -2625,6 +2625,14 @@
       "onboard_time": 1769322801,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 139741,
+      "num": 139741,
+      "word": "起诉王者荣耀公开匹配机制案进展",
+      "onboard_time": 1769445259,
+      "rank": 40,
+      "category": "民生新闻,游戏"
     },
     {
       "raw_hot": 139482,
@@ -5955,14 +5963,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 63838,
-      "num": 86917,
-      "word": "起诉王者荣耀公开匹配机制案进展",
-      "onboard_time": 1769445259,
-      "rank": 40,
-      "category": "民生新闻,游戏"
-    },
-    {
       "raw_hot": 63779,
       "num": 68798,
       "word": "退钱哥发文感谢U23国家队",
@@ -6089,6 +6089,14 @@
       "onboard_time": 1769407642,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 59694,
+      "num": 47785,
+      "word": "盘发之后脸会小一圈",
+      "onboard_time": 1769445918,
+      "rank": 32,
+      "category": "美妆"
     },
     {
       "raw_hot": 59677,
@@ -6337,14 +6345,6 @@
       "onboard_time": 1769339779,
       "rank": 19,
       "category": "军事"
-    },
-    {
-      "raw_hot": 47785,
-      "num": 47785,
-      "word": "盘发之后脸会小一圈",
-      "onboard_time": 1769445918,
-      "rank": 32,
-      "category": "美妆"
     },
     {
       "raw_hot": 47193,
@@ -6985,6 +6985,14 @@
       "onboard_time": 1769331620,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 21814,
+      "num": 46937,
+      "word": "女神蒙上眼",
+      "onboard_time": 1769448077,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 21620,

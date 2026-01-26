@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769446900085,
+  "endTime": 1769449056130,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -36161,6 +36161,14 @@
       "onboard_time": 1768887500,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 139741,
+      "num": 139741,
+      "word": "起诉王者荣耀公开匹配机制案进展",
+      "onboard_time": 1769445259,
+      "rank": 40,
+      "category": "民生新闻,游戏"
     },
     {
       "raw_hot": 139728,
@@ -74091,14 +74099,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 63838,
-      "num": 86917,
-      "word": "起诉王者荣耀公开匹配机制案进展",
-      "onboard_time": 1769445259,
-      "rank": 40,
-      "category": "民生新闻,游戏"
-    },
-    {
       "raw_hot": 63803,
       "num": 145783,
       "word": "美财长就斩杀线甩锅拜登",
@@ -75305,6 +75305,14 @@
       "onboard_time": 1768147880,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 59694,
+      "num": 47785,
+      "word": "盘发之后脸会小一圈",
+      "onboard_time": 1769445918,
+      "rank": 32,
+      "category": "美妆"
     },
     {
       "raw_hot": 59689,
@@ -78169,14 +78177,6 @@
       "onboard_time": 1768927098,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 47785,
-      "num": 47785,
-      "word": "盘发之后脸会小一圈",
-      "onboard_time": 1769445918,
-      "rank": 32,
-      "category": "美妆"
     },
     {
       "raw_hot": 47776,
@@ -85121,6 +85121,14 @@
       "onboard_time": 1767381555,
       "rank": 47,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 21814,
+      "num": 46937,
+      "word": "女神蒙上眼",
+      "onboard_time": 1769448077,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 21803,
