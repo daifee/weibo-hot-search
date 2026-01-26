@@ -1,6 +1,6 @@
 {
   "startTime": 1769272464158,
-  "endTime": 1769466698756,
+  "endTime": 1769467695602,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -3195,6 +3195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 114701,
+      "num": 114701,
+      "word": "云初令",
+      "onboard_time": 1769449516,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 114451,
       "num": 141041,
       "word": "狼队对战RNGM",
@@ -5475,14 +5483,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 74793,
-      "num": 74793,
-      "word": "云初令",
-      "onboard_time": 1769449516,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 74404,
       "num": 74404,
       "word": "美国已有超7000架次航班被取消",
@@ -5817,6 +5817,14 @@
       "onboard_time": 1769270245,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 68569,
+      "num": 68569,
+      "word": "邵氏兄弟拟收购正午阳光等资产",
+      "onboard_time": 1769464994,
+      "rank": 17,
+      "category": "财经,作品衍生"
     },
     {
       "raw_hot": 68381,
@@ -6267,6 +6275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 53841,
+      "num": 53841,
+      "word": "美军航母进入印度洋",
+      "onboard_time": 1769451314,
+      "rank": 9,
+      "category": "军事"
+    },
+    {
       "raw_hot": 53705,
       "num": 73119,
       "word": "为这口菌子等了寒露又等雨",
@@ -6352,14 +6368,6 @@
       "word": "空军歼10空中加油直飞新加坡",
       "onboard_time": 1769339779,
       "rank": 19,
-      "category": "军事"
-    },
-    {
-      "raw_hot": 47454,
-      "num": 47454,
-      "word": "美军航母进入印度洋",
-      "onboard_time": 1769451314,
-      "rank": 9,
       "category": "军事"
     },
     {
@@ -6803,14 +6811,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 30431,
-      "num": 30431,
-      "word": "邵氏兄弟拟收购正午阳光等资产",
-      "onboard_time": 1769464994,
-      "rank": 17,
-      "category": "财经,作品衍生"
-    },
-    {
       "raw_hot": 30210,
       "num": 58332,
       "word": "TWS中文歌舞台",
@@ -6907,6 +6907,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 25778,
+      "num": 25778,
+      "word": "刘宇宁好事马上发生",
+      "onboard_time": 1769446937,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 25525,
       "num": 104367,
       "word": "俄美乌三方首轮会谈细节披露",
@@ -6968,14 +6976,6 @@
       "word": "小奇的嘴能不能借我用用",
       "onboard_time": 1769279056,
       "rank": 42,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 22637,
-      "num": 25113,
-      "word": "刘宇宁好事马上发生",
-      "onboard_time": 1769446937,
-      "rank": 33,
       "category": "综艺"
     },
     {
@@ -7251,20 +7251,20 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 11451,
+      "num": 289825,
+      "word": "2025中国十大科技进展新闻",
+      "onboard_time": 1769436802,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 11388,
       "num": 130453,
       "word": "太空视角看神二十撤离好震撼",
       "onboard_time": 1769310020,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 10124,
-      "num": 235730,
-      "word": "2025中国十大科技进展新闻",
-      "onboard_time": 1769436802,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 9167,

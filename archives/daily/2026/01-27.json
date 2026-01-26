@@ -1,6 +1,6 @@
 {
   "startTime": 1769445836222,
-  "endTime": 1769466698756,
+  "endTime": 1769467695602,
   "band_list": [
     {
       "raw_hot": 657477,
@@ -123,6 +123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 114701,
+      "num": 114701,
+      "word": "云初令",
+      "onboard_time": 1769449516,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 110430,
       "num": 110430,
       "word": "国投白银LOF将暂停申购",
@@ -195,6 +203,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 78276,
+      "num": 78276,
+      "word": "49条中日航线取消全部航班",
+      "onboard_time": 1769427562,
+      "rank": 48,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 77576,
       "num": 77576,
       "word": "TOP xr手机",
@@ -219,20 +235,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 74793,
-      "num": 74793,
-      "word": "云初令",
-      "onboard_time": 1769449516,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 69827,
       "num": 69827,
       "word": "山姆499元羽绒服羽绒成本约为186元",
       "onboard_time": 1769425882,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 68569,
+      "num": 68569,
+      "word": "邵氏兄弟拟收购正午阳光等资产",
+      "onboard_time": 1769464994,
+      "rank": 17,
+      "category": "财经,作品衍生"
     },
     {
       "raw_hot": 66951,
@@ -249,14 +265,6 @@
       "onboard_time": 1769441181,
       "rank": 28,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 62024,
-      "num": 62024,
-      "word": "49条中日航线取消全部航班",
-      "onboard_time": 1769427562,
-      "rank": 48,
-      "category": "国内时政"
     },
     {
       "raw_hot": 61522,
@@ -323,6 +331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 53841,
+      "num": 53841,
+      "word": "美军航母进入印度洋",
+      "onboard_time": 1769451314,
+      "rank": 9,
+      "category": "军事"
+    },
+    {
       "raw_hot": 53720,
       "num": 66550,
       "word": "灵隐寺免票预约后38万人爽约",
@@ -345,14 +361,6 @@
       "onboard_time": 1769436923,
       "rank": 39,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 47454,
-      "num": 47454,
-      "word": "美军航母进入印度洋",
-      "onboard_time": 1769451314,
-      "rank": 9,
-      "category": "军事"
     },
     {
       "raw_hot": 45970,
@@ -435,20 +443,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 30431,
-      "num": 30431,
-      "word": "邵氏兄弟拟收购正午阳光等资产",
-      "onboard_time": 1769464994,
-      "rank": 17,
-      "category": "财经,作品衍生"
-    },
-    {
       "raw_hot": 28598,
       "num": 431404,
       "word": "2025年国内居民出游人次65.22亿",
       "onboard_time": 1769436983,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 25778,
+      "num": 25778,
+      "word": "刘宇宁好事马上发生",
+      "onboard_time": 1769446937,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 23394,
@@ -475,14 +483,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 22637,
-      "num": 25113,
-      "word": "刘宇宁好事马上发生",
-      "onboard_time": 1769446937,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 21827,
       "num": 46937,
       "word": "女神蒙上眼",
@@ -507,6 +507,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 15498,
+      "num": 22847,
+      "word": "突然的喜欢",
+      "onboard_time": 1769422821,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 15192,
       "num": 18218,
       "word": "豆包手机助手处理内容不存储不训练",
@@ -515,12 +523,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 14481,
-      "num": 22008,
-      "word": "突然的喜欢",
-      "onboard_time": 1769422821,
+      "raw_hot": 14692,
+      "num": 22847,
+      "word": "印度阅兵式",
+      "onboard_time": 1769435062,
       "rank": 49,
-      "category": "剧集"
+      "category": "国际时政"
     },
     {
       "raw_hot": 12700,
@@ -531,20 +539,20 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 12208,
-      "num": 22007,
-      "word": "印度阅兵式",
-      "onboard_time": 1769435062,
-      "rank": 49,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 11123,
-      "num": 22005,
+      "raw_hot": 12051,
+      "num": 22847,
       "word": "甘肃迭部5.5级地震",
       "onboard_time": 1769411423,
       "rank": 44,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 11451,
+      "num": 289825,
+      "word": "2025中国十大科技进展新闻",
+      "onboard_time": 1769436802,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 11059,
@@ -553,14 +561,6 @@
       "onboard_time": 1769436503,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 10124,
-      "num": 235730,
-      "word": "2025中国十大科技进展新闻",
-      "onboard_time": 1769436802,
-      "rank": 2,
-      "category": "国内时政"
     }
   ],
   "hotgov_list": [
