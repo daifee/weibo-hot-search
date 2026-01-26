@@ -1,6 +1,6 @@
 {
   "startTime": 1769272464158,
-  "endTime": 1769413709373,
+  "endTime": 1769417000681,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -372,7 +372,7 @@
     },
     {
       "raw_hot": 553237,
-      "num": 1060515,
+      "num": 1062031,
       "word": "我国已将尼帕病毒纳入检测范围",
       "onboard_time": 1769408420,
       "rank": 0,
@@ -523,6 +523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 474380,
+      "num": 197518,
+      "word": "马化腾希望重现当年微信红包盛况",
+      "onboard_time": 1769411722,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 465228,
       "num": 589722,
       "word": "两个00后刮腻子一年营收100多万",
@@ -561,14 +569,6 @@
       "onboard_time": 1769305222,
       "rank": 5,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 437524,
-      "num": 197518,
-      "word": "马化腾希望重现当年微信红包盛况",
-      "onboard_time": 1769411722,
-      "rank": 14,
-      "category": "互联网"
     },
     {
       "raw_hot": 435162,
@@ -723,6 +723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 361765,
+      "num": 185799,
+      "word": "鲁豫范晓萱拒绝浪姐的理由",
+      "onboard_time": 1769413941,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 361176,
       "num": 154818,
       "word": "陈汉典lulu婚礼",
@@ -825,6 +833,22 @@
       "onboard_time": 1769401462,
       "rank": 14,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 321926,
+      "num": 321926,
+      "word": "西安震感",
+      "onboard_time": 1769414001,
+      "rank": 3,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 320289,
+      "num": 170029,
+      "word": "一家三口聊天男子突然怒砸妻子",
+      "onboard_time": 1769414242,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 317971,
@@ -1187,6 +1211,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 238949,
+      "num": 179985,
+      "word": "两室一厅住阳台",
+      "onboard_time": 1769411602,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 237670,
       "num": 154178,
       "word": "商家在我的豆浆里放了个杯子",
@@ -1243,6 +1275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 232740,
+      "num": 178114,
+      "word": "周涛董卿 恨她像块冰恨她太聪明",
+      "onboard_time": 1769416102,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 232405,
       "num": 232405,
       "word": "太平年 牵羊礼",
@@ -1297,6 +1337,14 @@
       "onboard_time": 1769322801,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 226808,
+      "num": 192238,
+      "word": "运动对小孩有多重要",
+      "onboard_time": 1769412561,
+      "rank": 34,
+      "category": "运动健身"
     },
     {
       "raw_hot": 226344,
@@ -1377,6 +1425,14 @@
       "onboard_time": 1769384239,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 201993,
+      "num": 172830,
+      "word": "戚薇眼里是娜扎 娜扎眼里是辣条",
+      "onboard_time": 1769415981,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 200760,
@@ -1468,7 +1524,7 @@
     },
     {
       "raw_hot": 194588,
-      "num": 194588,
+      "num": 197129,
       "word": "全球已进入水资源破产时代",
       "onboard_time": 1769409560,
       "rank": 40,
@@ -1481,14 +1537,6 @@
       "onboard_time": 1769340260,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 192238,
-      "num": 192238,
-      "word": "运动对小孩有多重要",
-      "onboard_time": 1769412561,
-      "rank": 34,
-      "category": "运动健身"
     },
     {
       "raw_hot": 191826,
@@ -1633,6 +1681,14 @@
       "onboard_time": 1769350282,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 172446,
+      "num": 172446,
+      "word": "王宝强 不想拍艳情片",
+      "onboard_time": 1769416222,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 172443,
@@ -1801,14 +1857,6 @@
       "onboard_time": 1769260701,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 156585,
-      "num": 142725,
-      "word": "两室一厅住阳台",
-      "onboard_time": 1769411602,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 154679,
@@ -1985,6 +2033,14 @@
       "onboard_time": 1769355501,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 141723,
+      "num": 141723,
+      "word": "过节的马年梗还能有多离谱",
+      "onboard_time": 1769416281,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 141336,
@@ -2235,6 +2291,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 128149,
+      "num": 128149,
+      "word": "黄金不到一个月涨了700美元",
+      "onboard_time": 1769413941,
+      "rank": 26,
+      "category": "财经"
+    },
+    {
       "raw_hot": 127906,
       "num": 127906,
       "word": "麦琳7场直播销售额近百万",
@@ -2297,6 +2361,14 @@
       "onboard_time": 1769337740,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 125758,
+      "num": 191957,
+      "word": "印度现尼帕病毒疫情在泰留学生发声",
+      "onboard_time": 1769414001,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 125404,
@@ -2409,6 +2481,14 @@
       "onboard_time": 1769308879,
       "rank": 21,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 120686,
+      "num": 120686,
+      "word": "第一个发明首位淘汰制的国产剧",
+      "onboard_time": 1769416942,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 120043,
@@ -2595,6 +2675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 110925,
+      "num": 110925,
+      "word": "惠英红张凌赫 句句都是一把刀",
+      "onboard_time": 1769416041,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 110695,
       "num": 108900,
       "word": "那英华晨宇始终如一的魔丸味",
@@ -2651,6 +2739,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 108767,
+      "num": 108767,
+      "word": "U23国足载誉而归",
+      "onboard_time": 1769415621,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 108766,
       "num": 108766,
       "word": "陈小群概念股炒作利益链调查",
@@ -2691,6 +2787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 108253,
+      "num": 114461,
+      "word": "分析称金价急剧回调可能性正在增加",
+      "onboard_time": 1769415562,
+      "rank": 29,
+      "category": "财经"
+    },
+    {
       "raw_hot": 107659,
       "num": 107659,
       "word": "怪不得叫米老头",
@@ -2729,6 +2833,14 @@
       "onboard_time": 1769405661,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 107046,
+      "num": 107046,
+      "word": "穆祉丞说荣耀之战弥补了遗憾",
+      "onboard_time": 1769416640,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 107011,
@@ -2803,6 +2915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 104822,
+      "num": 104822,
+      "word": "赵今麦这跟骑鸵鸟有什么区别",
+      "onboard_time": 1769416580,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 104403,
       "num": 104403,
       "word": "德国总理想亲吻意大利总理遭拒",
@@ -2849,6 +2969,14 @@
       "onboard_time": 1769330541,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 103697,
+      "num": 98818,
+      "word": "Angelababy 像素模糊但建模清晰",
+      "onboard_time": 1769416401,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 103405,
@@ -2977,6 +3105,14 @@
       "onboard_time": 1769410340,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 101135,
+      "num": 101135,
+      "word": "当当网公司因员工超长加班被罚",
+      "onboard_time": 1769414961,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 100936,
@@ -3121,6 +3257,14 @@
       "onboard_time": 1769351541,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 97406,
+      "num": 94641,
+      "word": "王玉雯 我也是个女生我有点害羞",
+      "onboard_time": 1769410822,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 96938,
@@ -3363,6 +3507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 93244,
+      "num": 93244,
+      "word": "奶茶腊八粥",
+      "onboard_time": 1769416463,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
       "raw_hot": 93094,
       "num": 270056,
       "word": "惊蛰无声",
@@ -3491,14 +3643,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 90447,
-      "num": 90447,
-      "word": "王玉雯 我也是个女生我有点害羞",
-      "onboard_time": 1769410822,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 90414,
       "num": 90414,
       "word": "何运晨一句话让微博主持人汗流浃背",
@@ -3601,6 +3745,14 @@
       "onboard_time": 1769406501,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 86966,
+      "num": 86966,
+      "word": "以色列暗示即将对伊朗发动军事打击",
+      "onboard_time": 1769415081,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 86681,
@@ -4451,12 +4603,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 69937,
+      "num": 98855,
+      "word": "199元与张凌赫共处21天",
+      "onboard_time": 1769416401,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 69763,
       "num": 69763,
       "word": "2026亚足联U23亚洲杯",
       "onboard_time": 1769348001,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 69742,
+      "num": 102232,
+      "word": "刘敏涛越来越美",
+      "onboard_time": 1769416820,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 68682,
@@ -4713,6 +4881,14 @@
       "onboard_time": 1769387180,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 58081,
+      "num": 170201,
+      "word": "过年回家穿暖点",
+      "onboard_time": 1769415081,
+      "rank": 19,
+      "category": "时尚"
     },
     {
       "raw_hot": 57455,
@@ -5571,6 +5747,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 14801,
+      "num": 871773,
+      "word": "全国汽车驾驶人5.25亿人",
+      "onboard_time": 1769416704,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 14577,
       "num": 90449,
       "word": "官方通报1油罐车停车场内着火",
@@ -5666,6 +5850,9 @@
     },
     {
       "word": "#让更多人参与到冰雪运动中来#"
+    },
+    {
+      "word": "#士兵始终是习近平主席心头的牵挂#"
     }
   ]
 }

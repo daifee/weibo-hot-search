@@ -1,0 +1,410 @@
+{
+  "runTime": 1769417000681,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3153353,
+        "num": 3153353,
+        "word": "甘肃地震",
+        "onboard_time": 1769410940,
+        "rank": 0,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 382969,
+        "num": 1062031,
+        "word": "我国已将尼帕病毒纳入检测范围",
+        "onboard_time": 1769408420,
+        "rank": 1,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 14801,
+        "num": 871773,
+        "word": "全国汽车驾驶人5.25亿人",
+        "onboard_time": 1769416704,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 321926,
+        "num": 321926,
+        "word": "西安震感",
+        "onboard_time": 1769414001,
+        "rank": 3,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 201746,
+        "num": 201746,
+        "word": "甘肃迭部5.5级地震",
+        "onboard_time": 1769411423,
+        "rank": 4,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 423399,
+        "num": 200049,
+        "word": "空姐笑了半小时才把橙汁倒下去",
+        "onboard_time": 1769408901,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 169151,
+        "num": 198442,
+        "word": "大爷2万买宝马5天趴窝4次拉断绳",
+        "onboard_time": 1769406620,
+        "rank": 6,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 137736,
+        "num": 197129,
+        "word": "全球已进入水资源破产时代",
+        "onboard_time": 1769409560,
+        "rank": 7,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 128805,
+        "num": 194488,
+        "word": "A股又突然跳水了",
+        "onboard_time": 1769408001,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 125758,
+        "num": 191957,
+        "word": "印度现尼帕病毒疫情在泰留学生发声",
+        "onboard_time": 1769414001,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 474380,
+        "num": 190119,
+        "word": "马化腾希望重现当年微信红包盛况",
+        "onboard_time": 1769411722,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 375341,
+        "num": 186902,
+        "word": "尼帕病毒",
+        "onboard_time": 1769402422,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 361765,
+        "num": 185799,
+        "word": "鲁豫范晓萱拒绝浪姐的理由",
+        "onboard_time": 1769413941,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 250652,
+        "num": 183058,
+        "word": "程序员27岁去美国35岁流落街头",
+        "onboard_time": 1769404402,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 238949,
+        "num": 179985,
+        "word": "两室一厅住阳台",
+        "onboard_time": 1769411602,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 232740,
+        "num": 178114,
+        "word": "周涛董卿 恨她像块冰恨她太聪明",
+        "onboard_time": 1769416102,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226808,
+        "num": 175747,
+        "word": "运动对小孩有多重要",
+        "onboard_time": 1769412561,
+        "rank": 16,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 201993,
+        "num": 172830,
+        "word": "戚薇眼里是娜扎 娜扎眼里是辣条",
+        "onboard_time": 1769415981,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 172446,
+        "num": 172446,
+        "word": "王宝强 不想拍艳情片",
+        "onboard_time": 1769416222,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 58081,
+        "num": 170201,
+        "word": "过年回家穿暖点",
+        "onboard_time": 1769415081,
+        "rank": 19,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 320289,
+        "num": 170029,
+        "word": "一家三口聊天男子突然怒砸妻子",
+        "onboard_time": 1769414242,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169373,
+        "num": 169373,
+        "word": "黄金",
+        "onboard_time": 1769386880,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 148009,
+        "num": 148009,
+        "word": "冯提莫公开甲状腺手术疤痕",
+        "onboard_time": 1769412082,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141723,
+        "num": 141723,
+        "word": "过节的马年梗还能有多离谱",
+        "onboard_time": 1769416281,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 136259,
+        "num": 136259,
+        "word": "田曦薇美人嗔怒这一下",
+        "onboard_time": 1769408542,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132282,
+        "num": 132282,
+        "word": "忘记结婚了习惯性回自己家",
+        "onboard_time": 1769406501,
+        "rank": 25,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 128149,
+        "num": 128149,
+        "word": "黄金不到一个月涨了700美元",
+        "onboard_time": 1769413941,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 122017,
+        "num": 122017,
+        "word": "武汉理工毕业生当保安被母校约谈",
+        "onboard_time": 1769403263,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120686,
+        "num": 120686,
+        "word": "第一个发明首位淘汰制的国产剧",
+        "onboard_time": 1769416942,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108253,
+        "num": 114461,
+        "word": "分析称金价急剧回调可能性正在增加",
+        "onboard_time": 1769415562,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 37201,
+        "num": 112366,
+        "word": "这份新规为未成年人织密防护网",
+        "onboard_time": 1769403801,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140039,
+        "num": 112309,
+        "word": "田栩宁工作室发告黑进展",
+        "onboard_time": 1769409320,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110925,
+        "num": 110925,
+        "word": "惠英红张凌赫 句句都是一把刀",
+        "onboard_time": 1769416041,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108767,
+        "num": 108767,
+        "word": "U23国足载誉而归",
+        "onboard_time": 1769415621,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107771,
+        "num": 107771,
+        "word": "白银",
+        "onboard_time": 1769395879,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 107046,
+        "num": 107046,
+        "word": "穆祉丞说荣耀之战弥补了遗憾",
+        "onboard_time": 1769416640,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 104822,
+        "num": 104822,
+        "word": "赵今麦这跟骑鸵鸟有什么区别",
+        "onboard_time": 1769416580,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 69742,
+        "num": 102232,
+        "word": "刘敏涛越来越美",
+        "onboard_time": 1769416820,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101135,
+        "num": 101135,
+        "word": "当当网公司因员工超长加班被罚",
+        "onboard_time": 1769414961,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69937,
+        "num": 98855,
+        "word": "199元与张凌赫共处21天",
+        "onboard_time": 1769416401,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103697,
+        "num": 98818,
+        "word": "Angelababy 像素模糊但建模清晰",
+        "onboard_time": 1769416401,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96847,
+        "num": 96847,
+        "word": "正缘的力量有多强大",
+        "onboard_time": 1769397619,
+        "rank": 41,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 99271,
+        "num": 95264,
+        "word": "TF家族荣耀之战舞台关键词",
+        "onboard_time": 1769410639,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 97406,
+        "num": 94641,
+        "word": "王玉雯 我也是个女生我有点害羞",
+        "onboard_time": 1769410822,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93244,
+        "num": 93244,
+        "word": "奶茶腊八粥",
+        "onboard_time": 1769416463,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 92340,
+        "num": 92340,
+        "word": "宋威龙 全球少女的梦",
+        "onboard_time": 1769409440,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89326,
+        "num": 89326,
+        "word": "张学友捐款130万元",
+        "onboard_time": 1769406620,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86966,
+        "num": 86966,
+        "word": "以色列暗示即将对伊朗发动军事打击",
+        "onboard_time": 1769415081,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 87562,
+        "num": 86912,
+        "word": "十日终焉",
+        "onboard_time": 1769385980,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86822,
+        "num": 86822,
+        "word": "BLACKPINK香港演唱会巨型粉锤",
+        "onboard_time": 1769412381,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#士兵始终是习近平主席心头的牵挂#"
+    }
+  }
+}
