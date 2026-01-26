@@ -1,6 +1,6 @@
 {
   "startTime": 1769272464158,
-  "endTime": 1769412976692,
+  "endTime": 1769413709373,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -563,6 +563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 437524,
+      "num": 197518,
+      "word": "马化腾希望重现当年微信红包盛况",
+      "onboard_time": 1769411722,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 435162,
       "num": 307831,
       "word": "林允 速效救心丸",
@@ -868,7 +876,7 @@
     },
     {
       "raw_hot": 308025,
-      "num": 135414,
+      "num": 142417,
       "word": "田栩宁工作室发告黑进展",
       "onboard_time": 1769409320,
       "rank": 30,
@@ -1419,14 +1427,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 197518,
-      "num": 197518,
-      "word": "马化腾希望重现当年微信红包盛况",
-      "onboard_time": 1769411722,
-      "rank": 14,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 196917,
       "num": 171731,
       "word": "辛芷蕾在芒果身份查重率为0",
@@ -1467,12 +1467,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194588,
+      "num": 194588,
+      "word": "全球已进入水资源破产时代",
+      "onboard_time": 1769409560,
+      "rank": 40,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 194126,
       "num": 194126,
       "word": "肖战王鹤棣杨紫吴磊新剧被业内看好",
       "onboard_time": 1769340260,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 192238,
+      "num": 192238,
+      "word": "运动对小孩有多重要",
+      "onboard_time": 1769412561,
+      "rank": 34,
+      "category": "运动健身"
     },
     {
       "raw_hot": 191826,
@@ -1497,6 +1513,14 @@
       "onboard_time": 1769400740,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 189072,
+      "num": 163277,
+      "word": "小米第三座智能工厂来了",
+      "onboard_time": 1769413342,
+      "rank": 21,
+      "category": "数码"
     },
     {
       "raw_hot": 188410,
@@ -1545,6 +1569,14 @@
       "onboard_time": 1769395639,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 180903,
+      "num": 194578,
+      "word": "甘肃地震多地震感",
+      "onboard_time": 1769412620,
+      "rank": 32,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 180582,
@@ -1619,20 +1651,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 171300,
+      "num": 171300,
+      "word": "冯提莫公开甲状腺手术疤痕",
+      "onboard_time": 1769412082,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 170623,
       "num": 170623,
       "word": "王安宇明侦凶手的救星来了",
       "onboard_time": 1769401942,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 170011,
-      "num": 170011,
-      "word": "全球已进入水资源破产时代",
-      "onboard_time": 1769409560,
-      "rank": 40,
-      "category": "科学科普"
     },
     {
       "raw_hot": 169838,
@@ -1715,14 +1747,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 163086,
-      "num": 163086,
-      "word": "冯提莫公开甲状腺手术疤痕",
-      "onboard_time": 1769412082,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 162416,
       "num": 162416,
       "word": "美国网友提问9000万遗体去向",
@@ -1777,6 +1801,14 @@
       "onboard_time": 1769260701,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 156585,
+      "num": 142725,
+      "word": "两室一厅住阳台",
+      "onboard_time": 1769411602,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 154679,
@@ -1865,6 +1897,14 @@
       "onboard_time": 1769346743,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 149436,
+      "num": 149436,
+      "word": "微博集卡",
+      "onboard_time": 1769413282,
+      "rank": 24,
+      "category": "互联网"
     },
     {
       "raw_hot": 148568,
@@ -1971,6 +2011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 141033,
+      "num": 141033,
+      "word": "BLACKPINK香港演唱会巨型粉锤",
+      "onboard_time": 1769412381,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 140522,
       "num": 132873,
       "word": "林志玲玉兰花开君再来路透",
@@ -1985,6 +2033,14 @@
       "onboard_time": 1769309840,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 140030,
+      "num": 185322,
+      "word": "黄子韬下季宇闪想邀请鹿晗",
+      "onboard_time": 1769412501,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 139838,
@@ -2033,14 +2089,6 @@
       "onboard_time": 1769320760,
       "rank": 21,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 136908,
-      "num": 135351,
-      "word": "两室一厅住阳台",
-      "onboard_time": 1769411602,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 136901,
@@ -2107,14 +2155,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 133958,
-      "num": 133958,
-      "word": "甘肃地震多地震感",
-      "onboard_time": 1769412620,
-      "rank": 32,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 133484,
       "num": 133484,
       "word": "小海绵说不蹦",
@@ -2155,6 +2195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131383,
+      "num": 185959,
+      "word": "张杰过来这一下就值回票钱了",
+      "onboard_time": 1769412381,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 129964,
       "num": 129964,
       "word": "黎深引导型爱人",
@@ -2169,14 +2217,6 @@
       "onboard_time": 1769297837,
       "rank": 30,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 129424,
-      "num": 129424,
-      "word": "运动对小孩有多重要",
-      "onboard_time": 1769412561,
-      "rank": 34,
-      "category": "运动健身"
     },
     {
       "raw_hot": 128861,
@@ -2203,20 +2243,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 127771,
-      "num": 127771,
-      "word": "BLACKPINK香港演唱会巨型粉锤",
-      "onboard_time": 1769412381,
-      "rank": 36,
-      "category": "演出"
-    },
-    {
       "raw_hot": 127609,
       "num": 127609,
       "word": "克林顿奥巴马发声",
       "onboard_time": 1769408300,
       "rank": 26,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 127130,
+      "num": 127130,
+      "word": "中国足协秘书长接机U23国足",
+      "onboard_time": 1769412561,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 126613,
@@ -2371,14 +2411,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 120312,
-      "num": 185322,
-      "word": "黄子韬下季宇闪想邀请鹿晗",
-      "onboard_time": 1769412501,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 120043,
       "num": 120043,
       "word": "荣耀之战",
@@ -2465,6 +2497,14 @@
       "onboard_time": 1769308340,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115525,
+      "num": 115525,
+      "word": "在泰留学生称戴口罩的人越来越多",
+      "onboard_time": 1769413342,
+      "rank": 37,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 115455,
@@ -2561,14 +2601,6 @@
       "onboard_time": 1769351483,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 110483,
-      "num": 110483,
-      "word": "中国足协秘书长接机U23国足",
-      "onboard_time": 1769412561,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 110306,
@@ -2737,6 +2769,14 @@
       "onboard_time": 1769398999,
       "rank": 30,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 105466,
+      "num": 105466,
+      "word": "部分权重股现大额压单",
+      "onboard_time": 1769413282,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 105283,
@@ -3081,6 +3121,14 @@
       "onboard_time": 1769351541,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 96938,
+      "num": 96938,
+      "word": "欢迎U23国足回家",
+      "onboard_time": 1769413042,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 96914,
@@ -4467,14 +4515,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 67270,
-      "num": 185959,
-      "word": "张杰过来这一下就值回票钱了",
-      "onboard_time": 1769412381,
-      "rank": 17,
-      "category": "演出"
-    },
-    {
       "raw_hot": 67099,
       "num": 67099,
       "word": "男子称好利来玫瑰酱打开布满霉菌",
@@ -4763,6 +4803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 54957,
+      "num": 1801618,
+      "word": "这份新规为未成年人织密防护网",
+      "onboard_time": 1769403801,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 54791,
       "num": 87452,
       "word": "丁程鑫还有更体面的表演吗",
@@ -4795,20 +4843,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 51599,
-      "num": 1801618,
-      "word": "这份新规为未成年人织密防护网",
-      "onboard_time": 1769403801,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 51188,
       "num": 57821,
       "word": "松岛辉空获全日男单冠军",
       "onboard_time": 1769332819,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 50992,
+      "num": 114788,
+      "word": "曾志伟感谢张学友捐款130万元",
+      "onboard_time": 1769413042,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 50238,
@@ -5443,12 +5491,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 20662,
+      "num": 85736,
+      "word": "李柯以万事都可以",
+      "onboard_time": 1769411061,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 19636,
       "num": 106841,
       "word": "江西唇腭裂女童6岁才20斤",
       "onboard_time": 1769350824,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18634,
+      "num": 114212,
+      "word": "刘诗诗惊蛰无声哭戏",
+      "onboard_time": 1769413521,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 18291,

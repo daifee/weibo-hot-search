@@ -1,0 +1,410 @@
+{
+  "runTime": 1769413709373,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9124765,
+        "num": 9124765,
+        "word": "甘肃地震",
+        "onboard_time": 1769410940,
+        "rank": 0,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 2114386,
+        "num": 2114386,
+        "word": "甘肃迭部5.5级地震",
+        "onboard_time": 1769411423,
+        "rank": 1,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 54957,
+        "num": 1385829,
+        "word": "这份新规为未成年人织密防护网",
+        "onboard_time": 1769403801,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 518574,
+        "num": 518574,
+        "word": "我国已将尼帕病毒纳入检测范围",
+        "onboard_time": 1769408420,
+        "rank": 3,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 281124,
+        "num": 281124,
+        "word": "大爷2万买宝马5天趴窝4次拉断绳",
+        "onboard_time": 1769406620,
+        "rank": 4,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 617084,
+        "num": 275775,
+        "word": "空姐笑了半小时才把橙汁倒下去",
+        "onboard_time": 1769408901,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 240875,
+        "num": 240875,
+        "word": "A股又突然跳水了",
+        "onboard_time": 1769408001,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 194588,
+        "num": 194588,
+        "word": "全球已进入水资源破产时代",
+        "onboard_time": 1769409560,
+        "rank": 7,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 180903,
+        "num": 194578,
+        "word": "甘肃地震多地震感",
+        "onboard_time": 1769412620,
+        "rank": 8,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 178236,
+        "num": 194159,
+        "word": "张杰鸟巢演唱会审批通过",
+        "onboard_time": 1769409560,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 456385,
+        "num": 193889,
+        "word": "尼帕病毒",
+        "onboard_time": 1769402422,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 437524,
+        "num": 193380,
+        "word": "马化腾希望重现当年微信红包盛况",
+        "onboard_time": 1769411722,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 246663,
+        "num": 193148,
+        "word": "忘记结婚了习惯性回自己家",
+        "onboard_time": 1769406501,
+        "rank": 12,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 234855,
+        "num": 192821,
+        "word": "程序员27岁去美国35岁流落街头",
+        "onboard_time": 1769404402,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 210544,
+        "num": 192256,
+        "word": "张学友捐款130万元",
+        "onboard_time": 1769406620,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192238,
+        "num": 192238,
+        "word": "运动对小孩有多重要",
+        "onboard_time": 1769412561,
+        "rank": 15,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 177840,
+        "num": 177840,
+        "word": "田曦薇美人嗔怒这一下",
+        "onboard_time": 1769408542,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175999,
+        "num": 175999,
+        "word": "武汉理工毕业生当保安被母校约谈",
+        "onboard_time": 1769403263,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171300,
+        "num": 171300,
+        "word": "冯提莫公开甲状腺手术疤痕",
+        "onboard_time": 1769412082,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140030,
+        "num": 164860,
+        "word": "黄子韬下季宇闪想邀请鹿晗",
+        "onboard_time": 1769412501,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228447,
+        "num": 164023,
+        "word": "黄金",
+        "onboard_time": 1769386880,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 189072,
+        "num": 163277,
+        "word": "小米第三座智能工厂来了",
+        "onboard_time": 1769413342,
+        "rank": 21,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 162115,
+        "num": 162115,
+        "word": "宋威龙 全球少女的梦",
+        "onboard_time": 1769409440,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156792,
+        "num": 156792,
+        "word": "李子柒时隔半年视频露面",
+        "onboard_time": 1769407821,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 149436,
+        "num": 149436,
+        "word": "微博集卡",
+        "onboard_time": 1769413282,
+        "rank": 24,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 151899,
+        "num": 147571,
+        "word": "辽宁春晚回应张雨绮争议",
+        "onboard_time": 1769397501,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149620,
+        "num": 147308,
+        "word": "第一次在内娱见男女主是太监和宫女",
+        "onboard_time": 1769403922,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144596,
+        "num": 144596,
+        "word": "白银",
+        "onboard_time": 1769395879,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 144588,
+        "num": 144588,
+        "word": "TF家族荣耀之战舞台关键词",
+        "onboard_time": 1769410639,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 131383,
+        "num": 142780,
+        "word": "张杰过来这一下就值回票钱了",
+        "onboard_time": 1769412381,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 156585,
+        "num": 142725,
+        "word": "两室一厅住阳台",
+        "onboard_time": 1769411602,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 224339,
+        "num": 142417,
+        "word": "田栩宁工作室发告黑进展",
+        "onboard_time": 1769409320,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142069,
+        "num": 142069,
+        "word": "尼帕病毒感染死亡率可达40%以上",
+        "onboard_time": 1769395159,
+        "rank": 32,
+        "category": "海外新闻,健康医疗"
+      },
+      {
+        "raw_hot": 141033,
+        "num": 141033,
+        "word": "BLACKPINK香港演唱会巨型粉锤",
+        "onboard_time": 1769412381,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 135803,
+        "num": 135803,
+        "word": "正缘的力量有多强大",
+        "onboard_time": 1769397619,
+        "rank": 34,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 127130,
+        "num": 127130,
+        "word": "中国足协秘书长接机U23国足",
+        "onboard_time": 1769412561,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117184,
+        "num": 117184,
+        "word": "陈飞宇 阿瑟这次真的很不一样",
+        "onboard_time": 1769411545,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115525,
+        "num": 115525,
+        "word": "在泰留学生称戴口罩的人越来越多",
+        "onboard_time": 1769413342,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 50992,
+        "num": 114788,
+        "word": "曾志伟感谢张学友捐款130万元",
+        "onboard_time": 1769413042,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18634,
+        "num": 114212,
+        "word": "刘诗诗惊蛰无声哭戏",
+        "onboard_time": 1769413521,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 114152,
+        "num": 114152,
+        "word": "美国派出重兵合围伊朗",
+        "onboard_time": 1769403623,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 108961,
+        "num": 108961,
+        "word": "两个00后刮腻子一年营收100多万",
+        "onboard_time": 1769395041,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106783,
+        "num": 106783,
+        "word": "成毅新片定档春节档",
+        "onboard_time": 1769400023,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 106677,
+        "num": 106677,
+        "word": "已经到了鼠标都看不清的地步了",
+        "onboard_time": 1769410761,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 105466,
+        "num": 105466,
+        "word": "部分权重股现大额压单",
+        "onboard_time": 1769413282,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 96938,
+        "num": 96938,
+        "word": "欢迎U23国足回家",
+        "onboard_time": 1769413042,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91010,
+        "num": 91010,
+        "word": "尼帕病毒如何预防",
+        "onboard_time": 1769410281,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 86889,
+        "num": 86889,
+        "word": "十日终焉",
+        "onboard_time": 1769385980,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86737,
+        "num": 86737,
+        "word": "印度尼帕病毒疫情或来自医院",
+        "onboard_time": 1769410580,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 20662,
+        "num": 85736,
+        "word": "李柯以万事都可以",
+        "onboard_time": 1769411061,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#让更多人参与到冰雪运动中来#"
+    }
+  }
+}

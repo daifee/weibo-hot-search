@@ -1,6 +1,6 @@
 {
   "startTime": 1769358907478,
-  "endTime": 1769412976692,
+  "endTime": 1769413709373,
   "band_list": [
     {
       "raw_hot": 9558023,
@@ -203,6 +203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 437524,
+      "num": 197518,
+      "word": "马化腾希望重现当年微信红包盛况",
+      "onboard_time": 1769411722,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 408524,
       "num": 190466,
       "word": "woojin 塌房",
@@ -260,7 +268,7 @@
     },
     {
       "raw_hot": 308025,
-      "num": 135414,
+      "num": 142417,
       "word": "田栩宁工作室发告黑进展",
       "onboard_time": 1769409320,
       "rank": 30,
@@ -483,12 +491,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 197518,
-      "num": 197518,
-      "word": "马化腾希望重现当年微信红包盛况",
-      "onboard_time": 1769411722,
-      "rank": 14,
-      "category": "互联网"
+      "raw_hot": 194588,
+      "num": 194588,
+      "word": "全球已进入水资源破产时代",
+      "onboard_time": 1769409560,
+      "rank": 40,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 192238,
+      "num": 192238,
+      "word": "运动对小孩有多重要",
+      "onboard_time": 1769412561,
+      "rank": 34,
+      "category": "运动健身"
     },
     {
       "raw_hot": 190202,
@@ -505,6 +521,14 @@
       "onboard_time": 1769400740,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 189072,
+      "num": 163277,
+      "word": "小米第三座智能工厂来了",
+      "onboard_time": 1769413342,
+      "rank": 21,
+      "category": "数码"
     },
     {
       "raw_hot": 188410,
@@ -531,6 +555,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 180903,
+      "num": 194578,
+      "word": "甘肃地震多地震感",
+      "onboard_time": 1769412620,
+      "rank": 32,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 175314,
       "num": 175314,
       "word": "国漫比格犬男友上桌了",
@@ -539,20 +571,20 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 171300,
+      "num": 171300,
+      "word": "冯提莫公开甲状腺手术疤痕",
+      "onboard_time": 1769412082,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 170623,
       "num": 170623,
       "word": "王安宇明侦凶手的救星来了",
       "onboard_time": 1769401942,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 170011,
-      "num": 170011,
-      "word": "全球已进入水资源破产时代",
-      "onboard_time": 1769409560,
-      "rank": 40,
-      "category": "科学科普"
     },
     {
       "raw_hot": 169221,
@@ -587,14 +619,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 163086,
-      "num": 163086,
-      "word": "冯提莫公开甲状腺手术疤痕",
-      "onboard_time": 1769412082,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 161569,
       "num": 266922,
       "word": "羽绒服这样洗可能会爆炸",
@@ -619,6 +643,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 156585,
+      "num": 142725,
+      "word": "两室一厅住阳台",
+      "onboard_time": 1769411602,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 152979,
       "num": 197548,
       "word": "TF家族荣耀之战舞台关键词",
@@ -633,6 +665,14 @@
       "onboard_time": 1769354603,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 149436,
+      "num": 149436,
+      "word": "微博集卡",
+      "onboard_time": 1769413282,
+      "rank": 24,
+      "category": "互联网"
     },
     {
       "raw_hot": 148521,
@@ -667,6 +707,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141033,
+      "num": 141033,
+      "word": "BLACKPINK香港演唱会巨型粉锤",
+      "onboard_time": 1769412381,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 140030,
+      "num": 185322,
+      "word": "黄子韬下季宇闪想邀请鹿晗",
+      "onboard_time": 1769412501,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 139482,
       "num": 128243,
       "word": "国际金价疯涨原因",
@@ -699,14 +755,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 136908,
-      "num": 135351,
-      "word": "两室一厅住阳台",
-      "onboard_time": 1769411602,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 136901,
       "num": 136901,
       "word": "王橹杰 羚羊王子",
@@ -721,14 +769,6 @@
       "onboard_time": 1769395041,
       "rank": 24,
       "category": "财经"
-    },
-    {
-      "raw_hot": 133958,
-      "num": 133958,
-      "word": "甘肃地震多地震感",
-      "onboard_time": 1769412620,
-      "rank": 32,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 133476,
@@ -755,19 +795,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 129424,
-      "num": 129424,
-      "word": "运动对小孩有多重要",
-      "onboard_time": 1769412561,
-      "rank": 34,
-      "category": "运动健身"
-    },
-    {
-      "raw_hot": 127771,
-      "num": 127771,
-      "word": "BLACKPINK香港演唱会巨型粉锤",
+      "raw_hot": 131383,
+      "num": 185959,
+      "word": "张杰过来这一下就值回票钱了",
       "onboard_time": 1769412381,
-      "rank": 36,
+      "rank": 17,
       "category": "演出"
     },
     {
@@ -785,6 +817,14 @@
       "onboard_time": 1769408300,
       "rank": 26,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 127130,
+      "num": 127130,
+      "word": "中国足协秘书长接机U23国足",
+      "onboard_time": 1769412561,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 126279,
@@ -859,14 +899,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 120312,
-      "num": 185322,
-      "word": "黄子韬下季宇闪想邀请鹿晗",
-      "onboard_time": 1769412501,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 120043,
       "num": 120043,
       "word": "荣耀之战",
@@ -923,6 +955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 115525,
+      "num": 115525,
+      "word": "在泰留学生称戴口罩的人越来越多",
+      "onboard_time": 1769413342,
+      "rank": 37,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 115443,
       "num": 263375,
       "word": "女子怀孕收男友15万彩礼后不和要退婚",
@@ -945,14 +985,6 @@
       "onboard_time": 1769398581,
       "rank": 36,
       "category": "财经"
-    },
-    {
-      "raw_hot": 110483,
-      "num": 110483,
-      "word": "中国足协秘书长接机U23国足",
-      "onboard_time": 1769412561,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 108766,
@@ -993,6 +1025,14 @@
       "onboard_time": 1769398999,
       "rank": 30,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 105466,
+      "num": 105466,
+      "word": "部分权重股现大额压单",
+      "onboard_time": 1769413282,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 104403,
@@ -1089,6 +1129,14 @@
       "onboard_time": 1769397742,
       "rank": 44,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 96938,
+      "num": 96938,
+      "word": "欢迎U23国足回家",
+      "onboard_time": 1769413042,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 96914,
@@ -1523,14 +1571,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 67270,
-      "num": 185959,
-      "word": "张杰过来这一下就值回票钱了",
-      "onboard_time": 1769412381,
-      "rank": 17,
-      "category": "演出"
-    },
-    {
       "raw_hot": 66711,
       "num": 190414,
       "word": "代旭千字长文告别裴轸",
@@ -1739,6 +1779,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 54957,
+      "num": 1801618,
+      "word": "这份新规为未成年人织密防护网",
+      "onboard_time": 1769403801,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 52742,
       "num": 52742,
       "word": "台湾人到上海后认知被颠覆",
@@ -1747,12 +1795,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 51599,
-      "num": 1801618,
-      "word": "这份新规为未成年人织密防护网",
-      "onboard_time": 1769403801,
-      "rank": 2,
-      "category": "民生新闻"
+      "raw_hot": 50992,
+      "num": 114788,
+      "word": "曾志伟感谢张学友捐款130万元",
+      "onboard_time": 1769413042,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 50238,
@@ -2049,6 +2097,22 @@
       "onboard_time": 1769395218,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 20662,
+      "num": 85736,
+      "word": "李柯以万事都可以",
+      "onboard_time": 1769411061,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 18634,
+      "num": 114212,
+      "word": "刘诗诗惊蛰无声哭戏",
+      "onboard_time": 1769413521,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 18291,
