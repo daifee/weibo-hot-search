@@ -1,6 +1,6 @@
 {
   "startTime": 1769272464158,
-  "endTime": 1769456746110,
+  "endTime": 1769459787383,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -7169,6 +7169,14 @@
       "onboard_time": 1769423601,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15192,
+      "num": 14885,
+      "word": "豆包手机助手处理内容不存储不训练",
+      "onboard_time": 1769457553,
+      "rank": 31,
+      "category": "互联网"
     },
     {
       "raw_hot": 15019,
