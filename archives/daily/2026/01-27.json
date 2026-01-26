@@ -1,6 +1,6 @@
 {
   "startTime": 1769445836222,
-  "endTime": 1769449056130,
+  "endTime": 1769450054078,
   "band_list": [
     {
       "raw_hot": 657477,
@@ -83,8 +83,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 139741,
-      "num": 139741,
+      "raw_hot": 154043,
+      "num": 227366,
       "word": "起诉王者荣耀公开匹配机制案进展",
       "onboard_time": 1769445259,
       "rank": 40,
@@ -379,6 +379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 38869,
+      "num": 38869,
+      "word": "管乐被cue家里的花开富贵墙",
+      "onboard_time": 1769449215,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 38163,
       "num": 66399,
       "word": "卢昱晓轧戏收官千字长文",
@@ -411,6 +419,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 23394,
+      "num": 46983,
+      "word": "车厘子海运1个月不坏是咋回事",
+      "onboard_time": 1769439143,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23334,
+      "num": 38794,
+      "word": "微博画室",
+      "onboard_time": 1769449396,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 23264,
       "num": 47151,
       "word": "轧戏",
@@ -419,20 +443,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 22463,
-      "num": 46983,
-      "word": "车厘子海运1个月不坏是咋回事",
-      "onboard_time": 1769439143,
-      "rank": 48,
-      "category": "民生新闻"
+      "raw_hot": 22555,
+      "num": 38790,
+      "word": "云初令",
+      "onboard_time": 1769449516,
+      "rank": 43,
+      "category": "剧集"
     },
     {
-      "raw_hot": 21814,
+      "raw_hot": 21827,
       "num": 46937,
       "word": "女神蒙上眼",
       "onboard_time": 1769448077,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 21040,
+      "num": 38767,
+      "word": "好利来事发门店回应掉地面包捡起售卖",
+      "onboard_time": 1769442741,
+      "rank": 48,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
