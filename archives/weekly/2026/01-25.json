@@ -1,6 +1,6 @@
 {
   "startTime": 1769272464158,
-  "endTime": 1769454200809,
+  "endTime": 1769455857606,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -6523,6 +6523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 40731,
+      "num": 40731,
+      "word": "美军航母进入印度洋",
+      "onboard_time": 1769451314,
+      "rank": 9,
+      "category": "军事"
+    },
+    {
       "raw_hot": 40355,
       "num": 143892,
       "word": "泰国全面筛查尼帕病毒风险航班",
@@ -6593,14 +6601,6 @@
       "onboard_time": 1769449215,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 38804,
-      "num": 38804,
-      "word": "美军航母进入印度洋",
-      "onboard_time": 1769451314,
-      "rank": 9,
-      "category": "军事"
     },
     {
       "raw_hot": 38193,

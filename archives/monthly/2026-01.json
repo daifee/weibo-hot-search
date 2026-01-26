@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769454200809,
+  "endTime": 1769455857606,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -79891,6 +79891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 40731,
+      "num": 40731,
+      "word": "美军航母进入印度洋",
+      "onboard_time": 1769451314,
+      "rank": 9,
+      "category": "军事"
+    },
+    {
       "raw_hot": 40727,
       "num": 224809,
       "word": "2026年元旦宝宝",
@@ -80529,14 +80537,6 @@
       "onboard_time": 1769158521,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 38804,
-      "num": 38804,
-      "word": "美军航母进入印度洋",
-      "onboard_time": 1769451314,
-      "rank": 9,
-      "category": "军事"
     },
     {
       "raw_hot": 38788,

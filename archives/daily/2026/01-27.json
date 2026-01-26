@@ -1,6 +1,6 @@
 {
   "startTime": 1769445836222,
-  "endTime": 1769454200809,
+  "endTime": 1769455857606,
   "band_list": [
     {
       "raw_hot": 657477,
@@ -379,6 +379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 40731,
+      "num": 40731,
+      "word": "美军航母进入印度洋",
+      "onboard_time": 1769451314,
+      "rank": 9,
+      "category": "军事"
+    },
+    {
       "raw_hot": 40288,
       "num": 66423,
       "word": "李亚鹏为女儿李嫣费尽心血",
@@ -393,14 +401,6 @@
       "onboard_time": 1769449215,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 38804,
-      "num": 38804,
-      "word": "美军航母进入印度洋",
-      "onboard_time": 1769451314,
-      "rank": 9,
-      "category": "军事"
     },
     {
       "raw_hot": 38163,
@@ -489,6 +489,30 @@
       "onboard_time": 1769450057,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 12700,
+      "num": 21728,
+      "word": "巴黎高定时装周",
+      "onboard_time": 1769425161,
+      "rank": 46,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 12304,
+      "num": 21713,
+      "word": "49条中日航线取消全部航班",
+      "onboard_time": 1769427562,
+      "rank": 48,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 12017,
+      "num": 21711,
+      "word": "突然的喜欢",
+      "onboard_time": 1769422821,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 10124,
