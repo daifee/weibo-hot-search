@@ -1,6 +1,6 @@
 {
   "startTime": 1769358907478,
-  "endTime": 1769417899312,
+  "endTime": 1769420578270,
   "band_list": [
     {
       "raw_hot": 9558023,
@@ -387,6 +387,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 266593,
+      "num": 107712,
+      "word": "中方坚决反对将疫情甩锅中国",
+      "onboard_time": 1769418922,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 265853,
       "num": 265853,
       "word": "A股又突然跳水了",
@@ -419,12 +427,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 251272,
+      "num": 129911,
+      "word": "张凌赫 做惠英红的宝贝这么难吗",
+      "onboard_time": 1769417662,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 250257,
       "num": 186362,
       "word": "李子柒时隔半年视频露面",
       "onboard_time": 1769407821,
       "rank": 16,
       "category": "网红"
+    },
+    {
+      "raw_hot": 243840,
+      "num": 243840,
+      "word": "TFBOYS三人六字 TWS六人三字",
+      "onboard_time": 1769418862,
+      "rank": 3,
+      "category": "音乐"
     },
     {
       "raw_hot": 243147,
@@ -475,6 +499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 236476,
+      "num": 218613,
+      "word": "印度现尼帕病毒疫情在泰留学生发声",
+      "onboard_time": 1769414001,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 235948,
       "num": 322376,
       "word": "娱乐圈文被拍成短剧了",
@@ -515,6 +547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 212270,
+      "num": 212270,
+      "word": "第一个发明首位淘汰制的国产剧",
+      "onboard_time": 1769416942,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 210375,
       "num": 210375,
       "word": "王欣瑜vs阿尼西莫娃",
@@ -545,6 +585,14 @@
       "onboard_time": 1769400622,
       "rank": 18,
       "category": "数码"
+    },
+    {
+      "raw_hot": 200542,
+      "num": 200542,
+      "word": "靖国神社前的石狮掠自中国",
+      "onboard_time": 1769417841,
+      "rank": 46,
+      "category": "国内时政"
     },
     {
       "raw_hot": 200143,
@@ -593,6 +641,14 @@
       "onboard_time": 1769401585,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 185655,
+      "num": 107982,
+      "word": "董卿发型 隆重又松弛",
+      "onboard_time": 1769419703,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 185527,
@@ -675,12 +731,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 162364,
-      "num": 191957,
-      "word": "印度现尼帕病毒疫情在泰留学生发声",
-      "onboard_time": 1769414001,
+      "raw_hot": 162342,
+      "num": 177941,
+      "word": "紫金矿业卖一挂单40.7亿元",
+      "onboard_time": 1769419703,
       "rank": 9,
-      "category": "海外新闻"
+      "category": "财经"
     },
     {
       "raw_hot": 161569,
@@ -729,14 +785,6 @@
       "onboard_time": 1769354603,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 152700,
-      "num": 157817,
-      "word": "第一个发明首位淘汰制的国产剧",
-      "onboard_time": 1769416942,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 149436,
@@ -851,6 +899,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 137382,
+      "num": 109585,
+      "word": "弟弟弟妹上下铺姐姐姐夫上高速",
+      "onboard_time": 1769419103,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 136901,
       "num": 136901,
       "word": "王橹杰 羚羊王子",
@@ -883,6 +939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 132128,
+      "num": 132128,
+      "word": "尼帕病毒目前尚无疫苗",
+      "onboard_time": 1769420362,
+      "rank": 18,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 131558,
       "num": 131558,
       "word": "陈飞宇 阿瑟这次真的很不一样",
@@ -897,14 +961,6 @@
       "onboard_time": 1769412381,
       "rank": 17,
       "category": "演出"
-    },
-    {
-      "raw_hot": 129911,
-      "num": 129911,
-      "word": "张凌赫 做惠英红的宝贝这么难吗",
-      "onboard_time": 1769417662,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 128149,
@@ -947,6 +1003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 126244,
+      "num": 107920,
+      "word": "十日终焉大男主",
+      "onboard_time": 1769419821,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 124599,
       "num": 124599,
       "word": "学猫叫把猫恶心吐了",
@@ -969,6 +1033,14 @@
       "onboard_time": 1769410580,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 123279,
+      "num": 107202,
+      "word": "网友迪士尼照片里的Angelababy",
+      "onboard_time": 1769418621,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 123075,
@@ -1139,6 +1211,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 107999,
+      "num": 107999,
+      "word": "女子打麻将戴特殊隐形眼镜被拆穿",
+      "onboard_time": 1769420122,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107649,
+      "num": 107649,
+      "word": "超过25岁就不适合劝分了",
+      "onboard_time": 1769417181,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 107143,
       "num": 107143,
       "word": "建议住五星酒店带行李箱",
@@ -1211,6 +1299,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 103471,
+      "num": 103471,
+      "word": "印度疫情尚无疫苗和有效疗法",
+      "onboard_time": 1769420181,
+      "rank": 35,
+      "category": "海外新闻,健康医疗"
+    },
+    {
       "raw_hot": 103244,
       "num": 103244,
       "word": "张元英用中文说等一下",
@@ -1225,6 +1321,14 @@
       "onboard_time": 1769405001,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 102864,
+      "num": 102864,
+      "word": "第一次见拿自己小孩打窝",
+      "onboard_time": 1769418922,
+      "rank": 36,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 102604,
@@ -1299,6 +1403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 97024,
+      "num": 94077,
+      "word": "杨鸣回应辞去主教练职务",
+      "onboard_time": 1769420541,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 96938,
       "num": 96938,
       "word": "欢迎U23国足回家",
@@ -1313,6 +1425,14 @@
       "onboard_time": 1769395879,
       "rank": 45,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 96881,
+      "num": 94572,
+      "word": "U23国足抵达北京",
+      "onboard_time": 1769419821,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 96782,
@@ -1347,6 +1467,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 95321,
+      "num": 95321,
+      "word": "刘强东连续多年给老家送年货",
+      "onboard_time": 1769419402,
+      "rank": 40,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 95153,
+      "num": 95153,
+      "word": "中国公民春节期间避免前往日本",
+      "onboard_time": 1769420241,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 95102,
       "num": 118868,
       "word": "国企董事长上门打人被拘3日",
@@ -1369,6 +1505,14 @@
       "onboard_time": 1769403863,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 93957,
+      "num": 93957,
+      "word": "雷军回应小米第三座智能工厂",
+      "onboard_time": 1769418802,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 93620,
@@ -1401,6 +1545,14 @@
       "onboard_time": 1769358919,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 92850,
+      "num": 94523,
+      "word": "宋威龙新加坡vlog",
+      "onboard_time": 1769419402,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 91719,
@@ -1587,14 +1739,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 83221,
-      "num": 83221,
-      "word": "超过25岁就不适合劝分了",
-      "onboard_time": 1769417181,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
       "raw_hot": 82986,
       "num": 82986,
       "word": "摔炮都发展成这样了",
@@ -1609,14 +1753,6 @@
       "onboard_time": 1769386040,
       "rank": 37,
       "category": "美食"
-    },
-    {
-      "raw_hot": 81782,
-      "num": 81782,
-      "word": "靖国神社前的石狮掠自中国",
-      "onboard_time": 1769417841,
-      "rank": 46,
-      "category": "国内时政"
     },
     {
       "raw_hot": 81706,
@@ -2043,6 +2179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 54326,
+      "num": 97180,
+      "word": "蒋欣 上炕都费劲",
+      "onboard_time": 1769420301,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 53455,
       "num": 100383,
       "word": "王橹杰摔跤还有直拍",
@@ -2081,6 +2225,14 @@
       "onboard_time": 1769340320,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 48945,
+      "num": 642534,
+      "word": "中国为何被称全球首个重要电力国家",
+      "onboard_time": 1769419162,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 48749,
@@ -2137,6 +2289,14 @@
       "onboard_time": 1769356462,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 43696,
+      "num": 95689,
+      "word": "有中国游客亏5000元取消赴泰行程",
+      "onboard_time": 1769419402,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 43446,
@@ -2331,6 +2491,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 27208,
+      "num": 96223,
+      "word": "男子去世后账户被保姆转走50万",
+      "onboard_time": 1769419942,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25890,
       "num": 108841,
       "word": "外国网民掀起成为中国人潮流",
@@ -2353,6 +2521,22 @@
       "onboard_time": 1769407701,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 23722,
+      "num": 107837,
+      "word": "甘肃地震亲历者称当时感觉摇摇晃晃",
+      "onboard_time": 1769419282,
+      "rank": 28,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 23514,
+      "num": 159211,
+      "word": "在喵娲娲的世界里不说爱说什么",
+      "onboard_time": 1769418022,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 21122,
