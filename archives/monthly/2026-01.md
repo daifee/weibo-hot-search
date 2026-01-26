@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/26 23:53:45
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/27 00:43:56
 </p>
 </blockquote>
 <p>
@@ -5451,6 +5451,12 @@ iPhone4需求激增近1000%（热度：506886）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B5%E7%BE%8A%E7%A4%BC%20%E5%B1%88%E8%BE%B1%23" target="weibo">
+牵羊礼 屈辱（热度：496564）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%8D%E4%B9%9F%E4%B8%8D%E6%95%A2%E5%8D%95%E5%88%A0%E5%90%8C%E5%AD%A6%23" target="weibo">
 再也不敢单删同学（热度：495910）
 </a>
@@ -6005,12 +6011,6 @@ iPhone千万别删的自带软件（热度：474519）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%20%E6%B2%A1%E6%9C%89%E7%83%82%E9%A5%BC%E9%83%BD%E6%98%AF%E5%A5%BD%E9%A5%BC%23" target="weibo">
 金晨 没有烂饼都是好饼（热度：470266）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A9%9A%E7%A4%BC%E7%94%B5%E5%AD%90%E8%AF%B7%E6%9F%AC%20%E8%AE%BF%E5%AE%A2%E8%AE%B0%E5%BD%95%23" target="weibo">
-婚礼电子请柬 访客记录（热度：470247）
 </a>
 </li>
 
