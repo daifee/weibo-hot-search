@@ -1,0 +1,410 @@
+{
+  "runTime": 1769471097544,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 492095,
+        "num": 949846,
+        "word": "曝车王舒马赫已经可以借助轮椅活动",
+        "onboard_time": 1769469138,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 385617,
+        "num": 673911,
+        "word": "男子彩票中800余万交妻子淡定上班",
+        "onboard_time": 1769435481,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24646,
+        "num": 558219,
+        "word": "2025中国十大科技进展新闻",
+        "onboard_time": 1769436802,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 353098,
+        "num": 353098,
+        "word": "牵羊礼 屈辱",
+        "onboard_time": 1769442201,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 242703,
+        "num": 242703,
+        "word": "中方坚决反对将疫情甩锅中国",
+        "onboard_time": 1769418922,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 204543,
+        "num": 204543,
+        "word": "邵氏兄弟拟收购正午阳光等资产",
+        "onboard_time": 1769464994,
+        "rank": 5,
+        "category": "财经,作品衍生"
+      },
+      {
+        "raw_hot": 185781,
+        "num": 185781,
+        "word": "云初令",
+        "onboard_time": 1769449516,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175560,
+        "num": 175560,
+        "word": "好利来蛋糕店店员将掉地面包捡起售卖",
+        "onboard_time": 1769440103,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124287,
+        "num": 124287,
+        "word": "终于看到霉豆腐的前半生了",
+        "onboard_time": 1769469378,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 123274,
+        "num": 123274,
+        "word": "49条中日航线取消全部航班",
+        "onboard_time": 1769427562,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 321498,
+        "num": 123189,
+        "word": "感染尼帕病毒的标志性特征",
+        "onboard_time": 1769468837,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 282390,
+        "num": 121749,
+        "word": "刘宇宁说不去录花少",
+        "onboard_time": 1769469017,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269179,
+        "num": 120771,
+        "word": "Angelababy高定品牌创始人回应争议",
+        "onboard_time": 1769441302,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147070,
+        "num": 119471,
+        "word": "黄金白银大回调",
+        "onboard_time": 1769469197,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 239846,
+        "num": 118561,
+        "word": "黄晓明妈妈夸赵丽颖",
+        "onboard_time": 1769468957,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 152996,
+        "num": 117586,
+        "word": "何健麒尿检",
+        "onboard_time": 1769428941,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116655,
+        "num": 116655,
+        "word": "我国狂犬病死亡数创2020年来新高",
+        "onboard_time": 1769440881,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 111679,
+        "num": 111679,
+        "word": "女子15岁时妈妈去世产后爸爸照顾月子",
+        "onboard_time": 1769469438,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92231,
+        "num": 92231,
+        "word": "12306回应带小孩被分静音车厢",
+        "onboard_time": 1769442799,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87295,
+        "num": 87295,
+        "word": "车银优承认逃税",
+        "onboard_time": 1769427921,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150137,
+        "num": 87013,
+        "word": "美国发现围堵中国的网开始漏风",
+        "onboard_time": 1769469438,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 122343,
+        "num": 86269,
+        "word": "金价飙升原因找到了",
+        "onboard_time": 1769423241,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 118159,
+        "num": 86121,
+        "word": "日本竟将大唐国宝列为其专有财产",
+        "onboard_time": 1769469679,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 109243,
+        "num": 85500,
+        "word": "车厘子包装袋不要丢",
+        "onboard_time": 1769433262,
+        "rank": 23,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 85059,
+        "num": 85059,
+        "word": "90后女子存20万私房钱被丈夫发现",
+        "onboard_time": 1769443340,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81559,
+        "num": 81559,
+        "word": "92岁老人每天睡超20小时身体倍棒",
+        "onboard_time": 1769426541,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81314,
+        "num": 81314,
+        "word": "倪大红被调成啥了",
+        "onboard_time": 1769469799,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78327,
+        "num": 78327,
+        "word": "现货白银抹去14%涨幅",
+        "onboard_time": 1769469857,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 73437,
+        "num": 73437,
+        "word": "Angelababy晒高定照",
+        "onboard_time": 1769470699,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71177,
+        "num": 71177,
+        "word": "美军航母进入印度洋",
+        "onboard_time": 1769451314,
+        "rank": 29,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 165995,
+        "num": 71163,
+        "word": "田栩宁把梓渝粉丝告了",
+        "onboard_time": 1769469197,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156106,
+        "num": 71159,
+        "word": "梓渝不参加微博之夜",
+        "onboard_time": 1769439262,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 116682,
+        "num": 71159,
+        "word": "特朗普态度原地后空翻",
+        "onboard_time": 1769469318,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 71126,
+        "num": 71126,
+        "word": "金价波动",
+        "onboard_time": 1769470398,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 69992,
+        "num": 69992,
+        "word": "李嘉格 喊父王气死对面",
+        "onboard_time": 1769425882,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17899,
+        "num": 63905,
+        "word": "甘肃震后第一夜村民怎么样了",
+        "onboard_time": 1769471000,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71110,
+        "num": 63776,
+        "word": "50万亿天量存款将到期",
+        "onboard_time": 1769469378,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 63177,
+        "num": 63177,
+        "word": "台湾省314人因冷空气去世",
+        "onboard_time": 1769433983,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60096,
+        "num": 60096,
+        "word": "特朗普称将提高对韩关税税率",
+        "onboard_time": 1769469378,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 59713,
+        "num": 59713,
+        "word": "男子回应彩票中836万淡定上班",
+        "onboard_time": 1769442860,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58574,
+        "num": 58574,
+        "word": "旅客带近4斤黄金被海关查获",
+        "onboard_time": 1769470638,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53989,
+        "num": 53989,
+        "word": "印度暴发尼帕病毒疫情",
+        "onboard_time": 1769470940,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 51809,
+        "num": 51809,
+        "word": "中国公民春节期间避免前往日本",
+        "onboard_time": 1769420241,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 51586,
+        "num": 51586,
+        "word": "西高地papi妈妈被威胁杀光你全家",
+        "onboard_time": 1769435721,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50003,
+        "num": 50003,
+        "word": "张艺兴孙红雷同框跳手势舞",
+        "onboard_time": 1769437702,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49100,
+        "num": 49100,
+        "word": "男子连杀两名19岁女子被枪决",
+        "onboard_time": 1769439143,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48615,
+        "num": 48615,
+        "word": "人最好的状态就是销声匿迹",
+        "onboard_time": 1769437822,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 46505,
+        "num": 46505,
+        "word": "18岁男生看合影照伤感竟把肺哭破",
+        "onboard_time": 1769442500,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43913,
+        "num": 43913,
+        "word": "灵隐寺免票预约后38万人爽约",
+        "onboard_time": 1769429782,
+        "rank": 48,
+        "category": "民生新闻,旅游"
+      },
+      {
+        "raw_hot": 40580,
+        "num": 40580,
+        "word": "吃这碗腊八粥得从春秋战国开始减肥",
+        "onboard_time": 1769471059,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同苏林通电话#"
+    }
+  }
+}
