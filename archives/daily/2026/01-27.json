@@ -1,6 +1,6 @@
 {
   "startTime": 1769445836222,
-  "endTime": 1769445836222,
+  "endTime": 1769446900085,
   "band_list": [
     {
       "raw_hot": 657477,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 318605,
-      "num": 318605,
+      "num": 451000,
       "word": "好利来蛋糕店店员将掉地面包捡起售卖",
       "onboard_time": 1769440103,
       "rank": 3,
@@ -75,6 +75,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 192607,
+      "num": 95705,
+      "word": "90后女子存20万私房钱被丈夫发现",
+      "onboard_time": 1769443340,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 134422,
       "num": 89257,
       "word": "金价飙升原因找到了",
@@ -107,20 +115,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 116051,
-      "num": 95705,
-      "word": "90后女子存20万私房钱被丈夫发现",
-      "onboard_time": 1769443340,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 110430,
       "num": 110430,
       "word": "国投白银LOF将暂停申购",
       "onboard_time": 1769435841,
       "rank": 6,
       "category": "财经"
+    },
+    {
+      "raw_hot": 105330,
+      "num": 105330,
+      "word": "12306回应带小孩被分静音车厢",
+      "onboard_time": 1769442799,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104325,
@@ -145,14 +153,6 @@
       "onboard_time": 1769425940,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 90784,
-      "num": 103187,
-      "word": "12306回应带小孩被分静音车厢",
-      "onboard_time": 1769442799,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 89280,
@@ -235,6 +235,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 63838,
+      "num": 86917,
+      "word": "起诉王者荣耀公开匹配机制案进展",
+      "onboard_time": 1769445259,
+      "rank": 40,
+      "category": "民生新闻,游戏"
+    },
+    {
       "raw_hot": 61522,
       "num": 66636,
       "word": "太平年",
@@ -315,12 +323,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 46614,
-      "num": 66510,
-      "word": "起诉王者荣耀公开匹配机制案进展",
-      "onboard_time": 1769445259,
-      "rank": 40,
-      "category": "民生新闻,游戏"
+      "raw_hot": 47785,
+      "num": 47785,
+      "word": "盘发之后脸会小一圈",
+      "onboard_time": 1769445918,
+      "rank": 32,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 45970,
+      "num": 66419,
+      "word": "男子回应彩票中836万淡定上班",
+      "onboard_time": 1769442860,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 45943,
@@ -361,14 +377,6 @@
       "onboard_time": 1769435541,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 39896,
-      "num": 66419,
-      "word": "男子回应彩票中836万淡定上班",
-      "onboard_time": 1769442860,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 38163,
