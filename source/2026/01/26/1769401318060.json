@@ -1,0 +1,410 @@
+{
+  "runTime": 1769401318060,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 804379,
+        "num": 1128700,
+        "word": "尼帕病毒感染死亡率可达40%以上",
+        "onboard_time": 1769395159,
+        "rank": 0,
+        "category": "海外新闻,健康医疗"
+      },
+      {
+        "raw_hot": 334773,
+        "num": 797888,
+        "word": "印度疫情",
+        "onboard_time": 1769390540,
+        "rank": 1,
+        "category": "海外新闻,健康医疗"
+      },
+      {
+        "raw_hot": 28592,
+        "num": 624120,
+        "word": "彩灯一亮年味就有了",
+        "onboard_time": 1769345602,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 465228,
+        "num": 541868,
+        "word": "两个00后刮腻子一年营收100多万",
+        "onboard_time": 1769395041,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 330521,
+        "num": 538983,
+        "word": "男子发现妻子每天上厕所顺路存1000",
+        "onboard_time": 1769382617,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 537423,
+        "num": 537423,
+        "word": "正缘的力量有多强大",
+        "onboard_time": 1769397619,
+        "rank": 5,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 263072,
+        "num": 263072,
+        "word": "英首相将携最高级别官员访华",
+        "onboard_time": 1769397981,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 253075,
+        "num": 253075,
+        "word": "成毅新片定档春节档",
+        "onboard_time": 1769400023,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 232148,
+        "num": 232148,
+        "word": "警方查明夫妻网购娃娃菜中毒毒源",
+        "onboard_time": 1769391919,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197355,
+        "num": 197355,
+        "word": "王欣瑜vs阿尼西莫娃",
+        "onboard_time": 1769398461,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 337099,
+        "num": 193592,
+        "word": "短剧女主全年无休拍了48部戏",
+        "onboard_time": 1769393719,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 305514,
+        "num": 190436,
+        "word": "黄子韬名下公司欠税14万被公告",
+        "onboard_time": 1769399420,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178119,
+        "num": 178119,
+        "word": "中国版萨莉亚火了",
+        "onboard_time": 1769397559,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 227834,
+        "num": 167342,
+        "word": "你是林雨申那他是谁",
+        "onboard_time": 1769397140,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 290109,
+        "num": 163327,
+        "word": "卡姿兰 云旗郝熠然",
+        "onboard_time": 1769398401,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151637,
+        "num": 151637,
+        "word": "腊八",
+        "onboard_time": 1769382677,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181439,
+        "num": 150039,
+        "word": "张艺凡这次是101不是303了",
+        "onboard_time": 1769395639,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 138300,
+        "num": 138300,
+        "word": "沈腾这段是现挂",
+        "onboard_time": 1769399841,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 121019,
+        "num": 138234,
+        "word": "网友刚买iPhoneAir第二天就降价2000元",
+        "onboard_time": 1769400622,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 118640,
+        "num": 138113,
+        "word": "原来网吧是可以没有电脑的",
+        "onboard_time": 1769389820,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 868024,
+        "num": 137901,
+        "word": "白银",
+        "onboard_time": 1769395879,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 728425,
+        "num": 137799,
+        "word": "辽宁春晚回应张雨绮争议",
+        "onboard_time": 1769397501,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96295,
+        "num": 137650,
+        "word": "孙颖莎2026鲨骑马新形象",
+        "onboard_time": 1769400261,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 40987,
+        "num": 137542,
+        "word": "更适合中国宝宝的年夜饭",
+        "onboard_time": 1769396719,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 317464,
+        "num": 137447,
+        "word": "黄金",
+        "onboard_time": 1769386880,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 235105,
+        "num": 137246,
+        "word": "牢A谈美国ICE暴力执法争议",
+        "onboard_time": 1769396480,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 172153,
+        "num": 137133,
+        "word": "金宇彬申敏儿蜜月照",
+        "onboard_time": 1769397742,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157815,
+        "num": 136992,
+        "word": "白嫖辱骂童装店铺的女子已辞职",
+        "onboard_time": 1769400740,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139365,
+        "num": 136890,
+        "word": "印度男女杀人犯狱中恋爱并结婚",
+        "onboard_time": 1769399362,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 56479,
+        "num": 136768,
+        "word": "郭涛说家不是打分的地方",
+        "onboard_time": 1769398822,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106023,
+        "num": 136673,
+        "word": "头一次见国漫全明星走红毯",
+        "onboard_time": 1769398999,
+        "rank": 30,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 136563,
+        "num": 136563,
+        "word": "最差一届的学生被学校请回去了",
+        "onboard_time": 1769398642,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 133476,
+        "num": 133476,
+        "word": "尼帕病毒症状有什么",
+        "onboard_time": 1769400923,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 124599,
+        "num": 124599,
+        "word": "学猫叫把猫恶心吐了",
+        "onboard_time": 1769397320,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 124070,
+        "num": 124070,
+        "word": "演员周澄奥爬山掉坑里进医院",
+        "onboard_time": 1769400142,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115997,
+        "num": 115997,
+        "word": "田曦薇张凌赫hi6上班路透",
+        "onboard_time": 1769394138,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113651,
+        "num": 113651,
+        "word": "黄金白银猛涨原因",
+        "onboard_time": 1769398581,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 115304,
+        "num": 113300,
+        "word": "杨迪晒和网友的聊天记录",
+        "onboard_time": 1769400923,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26113,
+        "num": 111823,
+        "word": "十日终焉配角竞争激烈",
+        "onboard_time": 1769401281,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 55992,
+        "num": 110785,
+        "word": "这里居然是洛杉矶的市中心",
+        "onboard_time": 1769400622,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 110369,
+        "num": 110369,
+        "word": "杨鸣 辞职",
+        "onboard_time": 1769354002,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108308,
+        "num": 108308,
+        "word": "尚雯婕又帮出一个冠军",
+        "onboard_time": 1769396121,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103853,
+        "num": 103853,
+        "word": "德国总理想亲吻意大利总理遭拒",
+        "onboard_time": 1769400862,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 100970,
+        "num": 100970,
+        "word": "问界M6或将成为下一个爆款",
+        "onboard_time": 1769392580,
+        "rank": 43,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 98149,
+        "num": 98149,
+        "word": "凡人修仙传又上央视了",
+        "onboard_time": 1769397742,
+        "rank": 44,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 96914,
+        "num": 96914,
+        "word": "日本民众含泪与大熊猫再见",
+        "onboard_time": 1769395879,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 96796,
+        "num": 96796,
+        "word": "十日终焉",
+        "onboard_time": 1769385980,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96782,
+        "num": 96782,
+        "word": "女子瞒老公带俩孩子开车8小时见面",
+        "onboard_time": 1769395218,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95832,
+        "num": 95832,
+        "word": "甜腊八粥 咸腊八粥",
+        "onboard_time": 1769400202,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 94601,
+        "num": 94601,
+        "word": "终于懂什么叫社交圣母症了",
+        "onboard_time": 1769401281,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#生活好一个很重要的内涵是生态#"
+    }
+  }
+}
