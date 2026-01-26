@@ -1,0 +1,410 @@
+{
+  "runTime": 1769395589727,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 939505,
+        "num": 1150320,
+        "word": "印度疫情",
+        "onboard_time": 1769390540,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 556252,
+        "num": 808974,
+        "word": "警方查明夫妻网购娃娃菜中毒毒源",
+        "onboard_time": 1769391919,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25679,
+        "num": 686505,
+        "word": "彩灯一亮年味就有了",
+        "onboard_time": 1769345602,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 381182,
+        "num": 381182,
+        "word": "男子发现妻子每天上厕所顺路存1000",
+        "onboard_time": 1769382617,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 261218,
+        "num": 261218,
+        "word": "两个00后刮腻子一年营收100多万",
+        "onboard_time": 1769395041,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 247823,
+        "num": 247823,
+        "word": "原来网吧是可以没有电脑的",
+        "onboard_time": 1769389820,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 240148,
+        "num": 240148,
+        "word": "十日终焉",
+        "onboard_time": 1769385980,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 236598,
+        "num": 236598,
+        "word": "田曦薇张凌赫hi6上班路透",
+        "onboard_time": 1769394138,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222771,
+        "num": 222771,
+        "word": "腊八",
+        "onboard_time": 1769382677,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148974,
+        "num": 148974,
+        "word": "杨鸣 辞职",
+        "onboard_time": 1769354002,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 677215,
+        "num": 148098,
+        "word": "短剧女主全年无休拍了48部戏",
+        "onboard_time": 1769393719,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194394,
+        "num": 145928,
+        "word": "商家在我的豆浆里放了个杯子",
+        "onboard_time": 1769389279,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 174583,
+        "num": 144560,
+        "word": "尼帕病毒感染死亡率可达40%以上",
+        "onboard_time": 1769395159,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 169221,
+        "num": 143084,
+        "word": "22岁的我们终于读懂了邱莹莹",
+        "onboard_time": 1769384539,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 168096,
+        "num": 141565,
+        "word": "何健麒曾说玉茗茶骨里有他的角色",
+        "onboard_time": 1769389401,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140034,
+        "num": 140034,
+        "word": "陈幸同 周启豪",
+        "onboard_time": 1769355860,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213738,
+        "num": 139005,
+        "word": "前女友实名举报何健麒涉毒",
+        "onboard_time": 1769345120,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123878,
+        "num": 123878,
+        "word": "原来英语本身就是一道斩杀线",
+        "onboard_time": 1769383037,
+        "rank": 17,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 111460,
+        "num": 111460,
+        "word": "印度疫情感染者死亡率超7成",
+        "onboard_time": 1769355620,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 21122,
+        "num": 111312,
+        "word": "菲律宾渡轮沉没已救起300余人",
+        "onboard_time": 1769395218,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1084863,
+        "num": 110959,
+        "word": "黄金",
+        "onboard_time": 1769386880,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 160753,
+        "num": 110228,
+        "word": "何炅 终于要结束了",
+        "onboard_time": 1769355920,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157898,
+        "num": 110039,
+        "word": "问界M6或将成为下一个爆款",
+        "onboard_time": 1769392580,
+        "rank": 22,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 139482,
+        "num": 109665,
+        "word": "国际金价疯涨原因",
+        "onboard_time": 1769390661,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 135916,
+        "num": 108909,
+        "word": "A股",
+        "onboard_time": 1769395041,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 125595,
+        "num": 108348,
+        "word": "Angelababy高定设计师称未授权",
+        "onboard_time": 1769356341,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108347,
+        "num": 108347,
+        "word": "菲律宾一载350多人渡轮沉没",
+        "onboard_time": 1769382376,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 103244,
+        "num": 103244,
+        "word": "张元英用中文说等一下",
+        "onboard_time": 1769393900,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101682,
+        "num": 101682,
+        "word": "银价波动",
+        "onboard_time": 1769394680,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 93747,
+        "num": 93747,
+        "word": "乔任梁父亲回忆儿子出事当天",
+        "onboard_time": 1769348544,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92383,
+        "num": 92383,
+        "word": "这些体态问题都是屁股引发的",
+        "onboard_time": 1769383037,
+        "rank": 30,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 88735,
+        "num": 88735,
+        "word": "陈星旭工作室严正声明",
+        "onboard_time": 1769385077,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81828,
+        "num": 81828,
+        "word": "腊八粥",
+        "onboard_time": 1769386040,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 81634,
+        "num": 81634,
+        "word": "君心似疾",
+        "onboard_time": 1769392099,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80522,
+        "num": 80522,
+        "word": "美执法人员枪杀男子后数枪眼",
+        "onboard_time": 1769394020,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 78975,
+        "num": 78975,
+        "word": "剑网3",
+        "onboard_time": 1769393480,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 78589,
+        "num": 78589,
+        "word": "肯德基回应外送产品涨价",
+        "onboard_time": 1769395279,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70294,
+        "num": 70294,
+        "word": "QQ音乐超级巅峰之夜",
+        "onboard_time": 1769395520,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 50238,
+        "num": 68697,
+        "word": "叶童推荐王濛去浪姐7",
+        "onboard_time": 1769394379,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 41325,
+        "num": 68636,
+        "word": "11斤多澳龙被收13斤的钱",
+        "onboard_time": 1769395279,
+        "rank": 39,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 68634,
+        "num": 68634,
+        "word": "3次挂号3次请假才真正看上病",
+        "onboard_time": 1769394020,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66587,
+        "num": 66587,
+        "word": "冬季风暴纽约5人死在室外",
+        "onboard_time": 1769394261,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 68381,
+        "num": 65853,
+        "word": "机构看好黄金后市表现",
+        "onboard_time": 1769395218,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 64076,
+        "num": 64076,
+        "word": "外网热议华裔二代破防了",
+        "onboard_time": 1769350222,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 64066,
+        "num": 64066,
+        "word": "官方通报煤场残障人不听话就被打",
+        "onboard_time": 1769394979,
+        "rank": 44,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 61808,
+        "num": 61808,
+        "word": "现货白银突破106美元",
+        "onboard_time": 1769392519,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 61800,
+        "num": 61800,
+        "word": "女子怀孕收男友15万彩礼后不和要退婚",
+        "onboard_time": 1769342481,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61516,
+        "num": 61516,
+        "word": "女子瞒老公带俩孩子开车8小时见面",
+        "onboard_time": 1769395218,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61138,
+        "num": 61138,
+        "word": "足金饰品每克突破1500元",
+        "onboard_time": 1769394619,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 60719,
+        "num": 60719,
+        "word": "美国严寒天气已致多人死亡",
+        "onboard_time": 1769388559,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#生活好一个很重要的内涵是生态#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769394438656,
+  "endTime": 1769395589727,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -1275,6 +1275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1084863,
+      "num": 593000,
+      "word": "黄金",
+      "onboard_time": 1767579621,
+      "rank": 17,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1084806,
       "num": 614145,
       "word": "太平年 吃人",
@@ -1353,14 +1361,6 @@
       "onboard_time": 1767583461,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1071912,
-      "num": 593000,
-      "word": "黄金",
-      "onboard_time": 1767579621,
-      "rank": 17,
-      "category": "财经"
     },
     {
       "raw_hot": 1070936,
@@ -3625,6 +3625,14 @@
       "onboard_time": 1768748062,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 677215,
+      "num": 154352,
+      "word": "短剧女主全年无休拍了48部戏",
+      "onboard_time": 1769393719,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 676926,
@@ -14555,14 +14563,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 301801,
-      "num": 154352,
-      "word": "短剧女主全年无休拍了48部戏",
-      "onboard_time": 1769393719,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 301766,
       "num": 783062,
       "word": "女子为治病卖劳力士账户被冻结",
@@ -14604,7 +14604,7 @@
     },
     {
       "raw_hot": 301571,
-      "num": 242824,
+      "num": 247823,
       "word": "原来网吧是可以没有电脑的",
       "onboard_time": 1769389820,
       "rank": 5,
@@ -17283,6 +17283,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 261218,
+      "num": 261218,
+      "word": "两个00后刮腻子一年营收100多万",
+      "onboard_time": 1769395041,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 261187,
       "num": 305175,
       "word": "邓佳鑫简历没提来自时代峰峻",
@@ -19033,6 +19041,14 @@
       "onboard_time": 1769238919,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 236598,
+      "num": 236598,
+      "word": "田曦薇张凌赫hi6上班路透",
+      "onboard_time": 1769394138,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 236574,
@@ -26259,14 +26275,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 181118,
-      "num": 181118,
-      "word": "田曦薇张凌赫hi6上班路透",
-      "onboard_time": 1769394138,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 181110,
       "num": 165642,
       "word": "TOP 荣耀之战都不知道怎么输",
@@ -27307,6 +27315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 174583,
+      "num": 144560,
+      "word": "尼帕病毒感染死亡率可达40%以上",
+      "onboard_time": 1769395159,
+      "rank": 12,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 174429,
       "num": 174429,
       "word": "周冠宇回应凯迪拉克官宣",
@@ -28249,6 +28265,14 @@
       "onboard_time": 1767269062,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 169221,
+      "num": 154138,
+      "word": "22岁的我们终于读懂了邱莹莹",
+      "onboard_time": 1769384539,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 169131,
@@ -29201,14 +29225,6 @@
       "onboard_time": 1767487342,
       "rank": 40,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 164483,
-      "num": 154138,
-      "word": "22岁的我们终于读懂了邱莹莹",
-      "onboard_time": 1769384539,
-      "rank": 14,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 164470,
@@ -30496,6 +30512,14 @@
       "word": "华为系高端轿跑打出组合拳",
       "onboard_time": 1768445300,
       "rank": 29,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 157898,
+      "num": 130959,
+      "word": "问界M6或将成为下一个爆款",
+      "onboard_time": 1769392580,
+      "rank": 22,
       "category": "汽车"
     },
     {
@@ -31961,14 +31985,6 @@
       "onboard_time": 1768538900,
       "rank": 27,
       "category": "电影"
-    },
-    {
-      "raw_hot": 151246,
-      "num": 130959,
-      "word": "问界M6或将成为下一个爆款",
-      "onboard_time": 1769392580,
-      "rank": 22,
-      "category": "汽车"
     },
     {
       "raw_hot": 151228,
@@ -35217,6 +35233,14 @@
       "onboard_time": 1769266762,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 139482,
+      "num": 128243,
+      "word": "国际金价疯涨原因",
+      "onboard_time": 1769390661,
+      "rank": 23,
+      "category": "财经"
     },
     {
       "raw_hot": 139450,
@@ -38617,14 +38641,6 @@
       "onboard_time": 1767882322,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 128243,
-      "num": 128243,
-      "word": "国际金价疯涨原因",
-      "onboard_time": 1769390661,
-      "rank": 23,
-      "category": "财经"
     },
     {
       "raw_hot": 128175,
@@ -49827,6 +49843,14 @@
       "category": "情感,民生新闻"
     },
     {
+      "raw_hot": 103244,
+      "num": 103244,
+      "word": "张元英用中文说等一下",
+      "onboard_time": 1769393900,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 103234,
       "num": 103234,
       "word": "这届年轻人是懂去哪打卡景点的",
@@ -50633,6 +50657,14 @@
       "onboard_time": 1769310619,
       "rank": 32,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 101682,
+      "num": 101682,
+      "word": "银价波动",
+      "onboard_time": 1768913841,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 101670,
@@ -52001,14 +52033,6 @@
       "onboard_time": 1767589164,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 99542,
-      "num": 99542,
-      "word": "张元英用中文说等一下",
-      "onboard_time": 1769393900,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 99541,
@@ -63955,6 +63979,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 81828,
+      "num": 81828,
+      "word": "腊八粥",
+      "onboard_time": 1769386040,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
       "raw_hot": 81805,
       "num": 81805,
       "word": "鹅鸭杀鸭子失宠了",
@@ -64697,6 +64729,14 @@
       "onboard_time": 1769236939,
       "rank": 45,
       "category": "数码"
+    },
+    {
+      "raw_hot": 80522,
+      "num": 154291,
+      "word": "美执法人员枪杀男子后数枪眼",
+      "onboard_time": 1769394020,
+      "rank": 11,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 80520,
@@ -65923,6 +65963,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 78589,
+      "num": 78589,
+      "word": "肯德基回应外送产品涨价",
+      "onboard_time": 1769395279,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 78558,
       "num": 78558,
       "word": "大爷被热水袋烫伤自行治疗致截肢",
@@ -66897,14 +66945,6 @@
       "onboard_time": 1768995081,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 76512,
-      "num": 76512,
-      "word": "银价波动",
-      "onboard_time": 1768913841,
-      "rank": 45,
-      "category": "财经"
     },
     {
       "raw_hot": 76498,
@@ -69579,6 +69619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 70294,
+      "num": 70294,
+      "word": "QQ音乐超级巅峰之夜",
+      "onboard_time": 1769395520,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 70284,
       "num": 85538,
       "word": "老师才是真拿了无限流剧本的人",
@@ -69987,14 +70035,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 69107,
-      "num": 69107,
-      "word": "腊八粥",
-      "onboard_time": 1769386040,
-      "rank": 37,
-      "category": "美食"
-    },
-    {
       "raw_hot": 69028,
       "num": 69028,
       "word": "小月亮挂了八个小时",
@@ -70171,6 +70211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 68634,
+      "num": 68634,
+      "word": "3次挂号3次请假才真正看上病",
+      "onboard_time": 1769394020,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 68602,
       "num": 83938,
       "word": "让我睡满十个小时再去爱这个世界",
@@ -70233,6 +70281,14 @@
       "onboard_time": 1767747682,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 68381,
+      "num": 65853,
+      "word": "机构看好黄金后市表现",
+      "onboard_time": 1769395218,
+      "rank": 42,
+      "category": "财经"
     },
     {
       "raw_hot": 68364,
@@ -71723,6 +71779,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 64066,
+      "num": 64066,
+      "word": "官方通报煤场残障人不听话就被打",
+      "onboard_time": 1769394979,
+      "rank": 44,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 64051,
       "num": 64051,
       "word": "轧戏 剧本杀",
@@ -72435,6 +72499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 61808,
+      "num": 61808,
+      "word": "现货白银突破106美元",
+      "onboard_time": 1769392519,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 61799,
       "num": 61799,
       "word": "U23国足出线形势",
@@ -72513,6 +72585,14 @@
       "onboard_time": 1768270579,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 61516,
+      "num": 61516,
+      "word": "女子瞒老公带俩孩子开车8小时见面",
+      "onboard_time": 1769395218,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 61500,
@@ -72601,6 +72681,14 @@
       "onboard_time": 1769127201,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 61138,
+      "num": 61138,
+      "word": "足金饰品每克突破1500元",
+      "onboard_time": 1769394619,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 61120,
@@ -75203,6 +75291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 50238,
+      "num": 68697,
+      "word": "叶童推荐王濛去浪姐7",
+      "onboard_time": 1769394379,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 50166,
       "num": 142150,
       "word": "高速上一男子爬上他人车辆喊救命",
@@ -77225,6 +77321,14 @@
       "onboard_time": 1769181561,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41325,
+      "num": 68636,
+      "word": "11斤多澳龙被收13斤的钱",
+      "onboard_time": 1769395279,
+      "rank": 39,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 41297,
@@ -79585,14 +79689,6 @@
       "onboard_time": 1769097321,
       "rank": 49,
       "category": "财经"
-    },
-    {
-      "raw_hot": 32797,
-      "num": 65711,
-      "word": "叶童推荐王濛去浪姐7",
-      "onboard_time": 1769394379,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 32668,
@@ -82571,14 +82667,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 21621,
-      "num": 154291,
-      "word": "美执法人员枪杀男子后数枪眼",
-      "onboard_time": 1769394020,
-      "rank": 11,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 21620,
       "num": 127058,
       "word": "雪后神州美不胜收",
@@ -82737,6 +82825,14 @@
       "onboard_time": 1768812861,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 21122,
+      "num": 111312,
+      "word": "菲律宾渡轮沉没已救起300余人",
+      "onboard_time": 1769395218,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 21116,
@@ -83665,14 +83761,6 @@
       "onboard_time": 1768933815,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 17710,
-      "num": 68009,
-      "word": "3次挂号3次请假才真正看上病",
-      "onboard_time": 1769394020,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 17674,

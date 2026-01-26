@@ -1,6 +1,6 @@
 {
   "startTime": 1769358907478,
-  "endTime": 1769394438656,
+  "endTime": 1769395589727,
   "band_list": [
     {
       "raw_hot": 1195687,
@@ -11,7 +11,7 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 1071912,
+      "raw_hot": 1084863,
       "num": 140500,
       "word": "黄金",
       "onboard_time": 1769386880,
@@ -40,6 +40,14 @@
       "word": "Angelababy高定设计师称未授权",
       "onboard_time": 1769356341,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 677215,
+      "num": 154352,
+      "word": "短剧女主全年无休拍了48部戏",
+      "onboard_time": 1769393719,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -107,16 +115,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 301801,
-      "num": 154352,
-      "word": "短剧女主全年无休拍了48部戏",
-      "onboard_time": 1769393719,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 301571,
-      "num": 242824,
+      "num": 247823,
       "word": "原来网吧是可以没有电脑的",
       "onboard_time": 1769389820,
       "rank": 5,
@@ -135,6 +135,14 @@
       "num": 261669,
       "word": "腊八",
       "onboard_time": 1769382677,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 261218,
+      "num": 261218,
+      "word": "两个00后刮腻子一年营收100多万",
+      "onboard_time": 1769395041,
       "rank": 4,
       "category": "民生新闻"
     },
@@ -171,6 +179,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 236598,
+      "num": 236598,
+      "word": "田曦薇张凌赫hi6上班路透",
+      "onboard_time": 1769394138,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 231911,
       "num": 148332,
       "word": "原来英语本身就是一道斩杀线",
@@ -195,15 +211,15 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 181118,
-      "num": 181118,
-      "word": "田曦薇张凌赫hi6上班路透",
-      "onboard_time": 1769394138,
-      "rank": 8,
-      "category": "综艺"
+      "raw_hot": 174583,
+      "num": 144560,
+      "word": "尼帕病毒感染死亡率可达40%以上",
+      "onboard_time": 1769395159,
+      "rank": 12,
+      "category": "海外新闻"
     },
     {
-      "raw_hot": 164483,
+      "raw_hot": 169221,
       "num": 154138,
       "word": "22岁的我们终于读懂了邱莹莹",
       "onboard_time": 1769384539,
@@ -219,20 +235,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 157898,
+      "num": 130959,
+      "word": "问界M6或将成为下一个爆款",
+      "onboard_time": 1769392580,
+      "rank": 22,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 152893,
       "num": 190458,
       "word": "华晨宇弃票",
       "onboard_time": 1769354603,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 151246,
-      "num": 130959,
-      "word": "问界M6或将成为下一个爆款",
-      "onboard_time": 1769392580,
-      "rank": 22,
-      "category": "汽车"
     },
     {
       "raw_hot": 141974,
@@ -243,20 +259,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 139482,
+      "num": 128243,
+      "word": "国际金价疯涨原因",
+      "onboard_time": 1769390661,
+      "rank": 23,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 135916,
+      "num": 108909,
+      "word": "A股",
+      "onboard_time": 1769395041,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 132377,
       "num": 190449,
       "word": "张元英说她是安宥真女朋友",
       "onboard_time": 1769340081,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 128243,
-      "num": 128243,
-      "word": "国际金价疯涨原因",
-      "onboard_time": 1769390661,
-      "rank": 23,
-      "category": "财经"
     },
     {
       "raw_hot": 127710,
@@ -339,6 +363,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 103244,
+      "num": 103244,
+      "word": "张元英用中文说等一下",
+      "onboard_time": 1769393900,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 102604,
       "num": 190411,
       "word": "宝宝误嚼金锁医生称黄金已到大肠",
@@ -347,12 +379,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 99542,
-      "num": 99542,
-      "word": "张元英用中文说等一下",
-      "onboard_time": 1769393900,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 101682,
+      "num": 101682,
+      "word": "银价波动",
+      "onboard_time": 1769394680,
+      "rank": 28,
+      "category": "财经"
     },
     {
       "raw_hot": 98748,
@@ -443,12 +475,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 81828,
+      "num": 81828,
+      "word": "腊八粥",
+      "onboard_time": 1769386040,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
       "raw_hot": 81335,
       "num": 112081,
       "word": "美明尼苏达州男子遭补枪画面曝光",
       "onboard_time": 1769370374,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 80522,
+      "num": 154291,
+      "word": "美执法人员枪杀男子后数枪眼",
+      "onboard_time": 1769394020,
+      "rank": 11,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 80398,
@@ -465,6 +513,14 @@
       "onboard_time": 1769394261,
       "rank": 33,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 78589,
+      "num": 78589,
+      "word": "肯德基回应外送产品涨价",
+      "onboard_time": 1769395279,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 77408,
@@ -523,6 +579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 70294,
+      "num": 70294,
+      "word": "QQ音乐超级巅峰之夜",
+      "onboard_time": 1769395520,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 70120,
       "num": 85076,
       "word": "王嘉尔唱中文情歌",
@@ -539,14 +603,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 69107,
-      "num": 69107,
-      "word": "腊八粥",
-      "onboard_time": 1769386040,
-      "rank": 37,
-      "category": "美食"
-    },
-    {
       "raw_hot": 68713,
       "num": 190356,
       "word": "IVE回归预告",
@@ -561,6 +617,22 @@
       "onboard_time": 1769394319,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 68634,
+      "num": 68634,
+      "word": "3次挂号3次请假才真正看上病",
+      "onboard_time": 1769394020,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 68381,
+      "num": 65853,
+      "word": "机构看好黄金后市表现",
+      "onboard_time": 1769395218,
+      "rank": 42,
+      "category": "财经"
     },
     {
       "raw_hot": 66711,
@@ -593,6 +665,14 @@
       "onboard_time": 1769337441,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 64066,
+      "num": 64066,
+      "word": "官方通报煤场残障人不听话就被打",
+      "onboard_time": 1769394979,
+      "rank": 44,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 63608,
@@ -633,6 +713,30 @@
       "onboard_time": 1769349023,
       "rank": 46,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 61808,
+      "num": 61808,
+      "word": "现货白银突破106美元",
+      "onboard_time": 1769392519,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 61516,
+      "num": 61516,
+      "word": "女子瞒老公带俩孩子开车8小时见面",
+      "onboard_time": 1769395218,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 61138,
+      "num": 61138,
+      "word": "足金饰品每克突破1500元",
+      "onboard_time": 1769394619,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 60807,
@@ -707,6 +811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 50238,
+      "num": 68697,
+      "word": "叶童推荐王濛去浪姐7",
+      "onboard_time": 1769394379,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 50107,
       "num": 190364,
       "word": "女神蒙上眼原配手摘小三子宫",
@@ -761,6 +873,14 @@
       "onboard_time": 1769352503,
       "rank": 45,
       "category": "财经"
+    },
+    {
+      "raw_hot": 41325,
+      "num": 68636,
+      "word": "11斤多澳龙被收13斤的钱",
+      "onboard_time": 1769395279,
+      "rank": 39,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 41127,
@@ -859,14 +979,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 32797,
-      "num": 65711,
-      "word": "叶童推荐王濛去浪姐7",
-      "onboard_time": 1769394379,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 31052,
       "num": 49874,
       "word": "郭艾伦复出两场都赢了",
@@ -891,11 +1003,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 21621,
-      "num": 154291,
-      "word": "美执法人员枪杀男子后数枪眼",
-      "onboard_time": 1769394020,
-      "rank": 11,
+      "raw_hot": 21122,
+      "num": 111312,
+      "word": "菲律宾渡轮沉没已救起300余人",
+      "onboard_time": 1769395218,
+      "rank": 19,
       "category": "海外新闻"
     },
     {
@@ -904,14 +1016,6 @@
       "word": "妈妈回应11岁儿子创业2月赚6000",
       "onboard_time": 1769355920,
       "rank": 48,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 17710,
-      "num": 68009,
-      "word": "3次挂号3次请假才真正看上病",
-      "onboard_time": 1769394020,
-      "rank": 39,
       "category": "民生新闻"
     },
     {
