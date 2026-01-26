@@ -1,0 +1,410 @@
+{
+  "runTime": 1769402434796,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 693725,
+        "num": 1110996,
+        "word": "尼帕病毒感染死亡率可达40%以上",
+        "onboard_time": 1769395159,
+        "rank": 0,
+        "category": "海外新闻,健康医疗"
+      },
+      {
+        "raw_hot": 282058,
+        "num": 797047,
+        "word": "英首相将携最高级别官员访华",
+        "onboard_time": 1769397981,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 30999,
+        "num": 661342,
+        "word": "品牌新势力助力大国品牌",
+        "onboard_time": 1769401520,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 401911,
+        "num": 589722,
+        "word": "两个00后刮腻子一年营收100多万",
+        "onboard_time": 1769395041,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 356287,
+        "num": 560518,
+        "word": "成毅新片定档春节档",
+        "onboard_time": 1769400023,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 556900,
+        "num": 556900,
+        "word": "正缘的力量有多强大",
+        "onboard_time": 1769397619,
+        "rank": 5,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 303984,
+        "num": 303984,
+        "word": "男子发现妻子每天上厕所顺路存1000",
+        "onboard_time": 1769382617,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 258282,
+        "num": 258282,
+        "word": "中国版萨莉亚火了",
+        "onboard_time": 1769397559,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234663,
+        "num": 234663,
+        "word": "印度疫情",
+        "onboard_time": 1769390540,
+        "rank": 8,
+        "category": "海外新闻,健康医疗"
+      },
+      {
+        "raw_hot": 210375,
+        "num": 210375,
+        "word": "王欣瑜vs阿尼西莫娃",
+        "onboard_time": 1769398461,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 300739,
+        "num": 209376,
+        "word": "短剧女主全年无休拍了48部戏",
+        "onboard_time": 1769393719,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278319,
+        "num": 208779,
+        "word": "黄子韬名下公司欠税14万被公告",
+        "onboard_time": 1769399420,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206319,
+        "num": 206319,
+        "word": "警方查明夫妻网购娃娃菜中毒毒源",
+        "onboard_time": 1769391919,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186316,
+        "num": 186316,
+        "word": "杨迪晒和网友的聊天记录",
+        "onboard_time": 1769400923,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178742,
+        "num": 178742,
+        "word": "一岁宝宝把爷爷锁阳台了",
+        "onboard_time": 1769401462,
+        "rank": 14,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 173822,
+        "num": 173822,
+        "word": "你是林雨申那他是谁",
+        "onboard_time": 1769397140,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170877,
+        "num": 170877,
+        "word": "网友刚买iPhoneAir第二天就降价2000元",
+        "onboard_time": 1769400622,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 163661,
+        "num": 163661,
+        "word": "沈腾这段是现挂",
+        "onboard_time": 1769399841,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 80433,
+        "num": 150987,
+        "word": "孙颖莎2026鲨骑马新形象",
+        "onboard_time": 1769400261,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149962,
+        "num": 149962,
+        "word": "腊八",
+        "onboard_time": 1769382677,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 790125,
+        "num": 149627,
+        "word": "白银",
+        "onboard_time": 1769395879,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 629200,
+        "num": 149389,
+        "word": "辽宁春晚回应张雨绮争议",
+        "onboard_time": 1769397501,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243574,
+        "num": 148947,
+        "word": "黄金",
+        "onboard_time": 1769386880,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 205366,
+        "num": 148541,
+        "word": "金宇彬申敏儿蜜月照",
+        "onboard_time": 1769397742,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57115,
+        "num": 148200,
+        "word": "温瑞博开通微博",
+        "onboard_time": 1769402182,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189686,
+        "num": 148005,
+        "word": "白嫖辱骂童装店铺的女子已辞职",
+        "onboard_time": 1769400740,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169783,
+        "num": 147663,
+        "word": "牢A谈美国ICE暴力执法争议",
+        "onboard_time": 1769396480,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 147474,
+        "num": 147474,
+        "word": "最差一届的学生被学校请回去了",
+        "onboard_time": 1769398642,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 146638,
+        "num": 146638,
+        "word": "做美甲已经进化成这样了",
+        "onboard_time": 1769401585,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 39631,
+        "num": 140947,
+        "word": "郭涛说家不是打分的地方",
+        "onboard_time": 1769398822,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139654,
+        "num": 139654,
+        "word": "王安宇明侦凶手的救星来了",
+        "onboard_time": 1769401942,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133893,
+        "num": 133893,
+        "word": "印度男女杀人犯狱中恋爱并结婚",
+        "onboard_time": 1769399362,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 139177,
+        "num": 125855,
+        "word": "张艺凡这次是101不是303了",
+        "onboard_time": 1769395639,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 117133,
+        "num": 117133,
+        "word": "田曦薇张凌赫hi6上班路透",
+        "onboard_time": 1769394138,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116346,
+        "num": 116346,
+        "word": "终于懂什么叫社交圣母症了",
+        "onboard_time": 1769401281,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 116840,
+        "num": 116067,
+        "word": "演员周澄奥爬山掉坑里进医院",
+        "onboard_time": 1769400142,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112345,
+        "num": 112345,
+        "word": "学猫叫把猫恶心吐了",
+        "onboard_time": 1769397320,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 66609,
+        "num": 109694,
+        "word": "十日终焉配角竞争激烈",
+        "onboard_time": 1769401281,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 57001,
+        "num": 109678,
+        "word": "被丈夫闺蜜背叛女子是远嫁",
+        "onboard_time": 1769401882,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76878,
+        "num": 109668,
+        "word": "九肥一瘦香肠被调侃可以当蜡烛用",
+        "onboard_time": 1769401823,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109667,
+        "num": 109667,
+        "word": "尼帕病毒症状有什么",
+        "onboard_time": 1769400923,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 108766,
+        "num": 108766,
+        "word": "陈小群概念股炒作利益链调查",
+        "onboard_time": 1769401462,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 106365,
+        "num": 106365,
+        "word": "黄金白银猛涨原因",
+        "onboard_time": 1769398581,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 104403,
+        "num": 104403,
+        "word": "德国总理想亲吻意大利总理遭拒",
+        "onboard_time": 1769400862,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 98314,
+        "num": 98314,
+        "word": "原来网吧是可以没有电脑的",
+        "onboard_time": 1769389820,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 92902,
+        "num": 92902,
+        "word": "杨鸣 辞职",
+        "onboard_time": 1769354002,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89242,
+        "num": 89242,
+        "word": "陈幸同 周启豪",
+        "onboard_time": 1769355860,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84155,
+        "num": 84155,
+        "word": "经常熬夜真的很伤肝",
+        "onboard_time": 1769402063,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 83340,
+        "num": 83340,
+        "word": "今天腊八",
+        "onboard_time": 1769402362,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82986,
+        "num": 82986,
+        "word": "摔炮都发展成这样了",
+        "onboard_time": 1769402362,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#生活好一个很重要的内涵是生态#"
+    }
+  }
+}

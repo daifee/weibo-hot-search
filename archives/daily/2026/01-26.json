@@ -1,6 +1,6 @@
 {
   "startTime": 1769358907478,
-  "endTime": 1769401318060,
+  "endTime": 1769402434796,
   "band_list": [
     {
       "raw_hot": 1195687,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1084863,
-      "num": 140500,
+      "num": 148947,
       "word": "黄金",
       "onboard_time": 1769386880,
       "rank": 20,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 868024,
-      "num": 137901,
+      "num": 149627,
       "word": "白银",
       "onboard_time": 1769395879,
       "rank": 20,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 728425,
-      "num": 137799,
+      "num": 149389,
       "word": "辽宁春晚回应张雨绮争议",
       "onboard_time": 1769397501,
       "rank": 21,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 677215,
-      "num": 193592,
+      "num": 209376,
       "word": "短剧女主全年无休拍了48部戏",
       "onboard_time": 1769393719,
       "rank": 10,
@@ -91,8 +91,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 537423,
-      "num": 537423,
+      "raw_hot": 556900,
+      "num": 556900,
       "word": "正缘的力量有多强大",
       "onboard_time": 1769397619,
       "rank": 5,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 465228,
-      "num": 541868,
+      "num": 589722,
       "word": "两个00后刮腻子一年营收100多万",
       "onboard_time": 1769395041,
       "rank": 4,
@@ -147,6 +147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 356287,
+      "num": 560518,
+      "word": "成毅新片定档春节档",
+      "onboard_time": 1769400023,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 339257,
       "num": 260275,
       "word": "何炅说沈梦辰今天美到值得上热搜",
@@ -156,7 +164,7 @@
     },
     {
       "raw_hot": 305514,
-      "num": 190436,
+      "num": 208779,
       "word": "黄子韬名下公司欠税14万被公告",
       "onboard_time": 1769399420,
       "rank": 11,
@@ -179,20 +187,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 282058,
+      "num": 797047,
+      "word": "英首相将携最高级别官员访华",
+      "onboard_time": 1769397981,
+      "rank": 6,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 281709,
       "num": 190449,
       "word": "何健麒 造谣你都得有个谱啊",
       "onboard_time": 1769348181,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 263072,
-      "num": 263072,
-      "word": "英首相将携最高级别官员访华",
-      "onboard_time": 1769397981,
-      "rank": 6,
-      "category": "国际时政"
     },
     {
       "raw_hot": 261669,
@@ -203,20 +211,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 258282,
+      "num": 258282,
+      "word": "中国版萨莉亚火了",
+      "onboard_time": 1769397559,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 255898,
       "num": 190460,
       "word": "外网热议华裔二代破防了",
       "onboard_time": 1769350222,
       "rank": 21,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 253075,
-      "num": 253075,
-      "word": "成毅新片定档春节档",
-      "onboard_time": 1769400023,
-      "rank": 7,
-      "category": "电影"
     },
     {
       "raw_hot": 243147,
@@ -252,7 +260,7 @@
     },
     {
       "raw_hot": 235105,
-      "num": 137246,
+      "num": 147663,
       "word": "牢A谈美国ICE暴力执法争议",
       "onboard_time": 1769396480,
       "rank": 25,
@@ -268,11 +276,27 @@
     },
     {
       "raw_hot": 227834,
-      "num": 167342,
+      "num": 173822,
       "word": "你是林雨申那他是谁",
       "onboard_time": 1769397140,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 210375,
+      "num": 210375,
+      "word": "王欣瑜vs阿尼西莫娃",
+      "onboard_time": 1769398461,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 205366,
+      "num": 148541,
+      "word": "金宇彬申敏儿蜜月照",
+      "onboard_time": 1769397742,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 204118,
@@ -291,12 +315,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 197355,
-      "num": 197355,
-      "word": "王欣瑜vs阿尼西莫娃",
-      "onboard_time": 1769398461,
-      "rank": 9,
-      "category": "体育"
+      "raw_hot": 189686,
+      "num": 148005,
+      "word": "白嫖辱骂童装店铺的女子已辞职",
+      "onboard_time": 1769400740,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 186316,
+      "num": 186316,
+      "word": "杨迪晒和网友的聊天记录",
+      "onboard_time": 1769400923,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 181439,
@@ -307,20 +339,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 178119,
-      "num": 178119,
-      "word": "中国版萨莉亚火了",
-      "onboard_time": 1769397559,
-      "rank": 12,
-      "category": "民生新闻"
+      "raw_hot": 178742,
+      "num": 178742,
+      "word": "一岁宝宝把爷爷锁阳台了",
+      "onboard_time": 1769401462,
+      "rank": 14,
+      "category": "幽默,情感"
     },
     {
-      "raw_hot": 172153,
-      "num": 137133,
-      "word": "金宇彬申敏儿蜜月照",
-      "onboard_time": 1769397742,
-      "rank": 26,
-      "category": "艺人"
+      "raw_hot": 170877,
+      "num": 170877,
+      "word": "网友刚买iPhoneAir第二天就降价2000元",
+      "onboard_time": 1769400622,
+      "rank": 18,
+      "category": "数码"
     },
     {
       "raw_hot": 169221,
@@ -329,6 +361,14 @@
       "onboard_time": 1769384539,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 163661,
+      "num": 163661,
+      "word": "沈腾这段是现挂",
+      "onboard_time": 1769399841,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 161569,
@@ -347,14 +387,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 157815,
-      "num": 136992,
-      "word": "白嫖辱骂童装店铺的女子已辞职",
-      "onboard_time": 1769400740,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 152893,
       "num": 190458,
       "word": "华晨宇弃票",
@@ -363,12 +395,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 147474,
+      "num": 147474,
+      "word": "最差一届的学生被学校请回去了",
+      "onboard_time": 1769398642,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 146638,
+      "num": 146638,
+      "word": "做美甲已经进化成这样了",
+      "onboard_time": 1769401585,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 141974,
       "num": 190401,
       "word": "生命树",
       "onboard_time": 1769355501,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 139654,
+      "num": 139654,
+      "word": "王安宇明侦凶手的救星来了",
+      "onboard_time": 1769401942,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 139482,
@@ -385,22 +441,6 @@
       "onboard_time": 1769399362,
       "rank": 28,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 138300,
-      "num": 138300,
-      "word": "沈腾这段是现挂",
-      "onboard_time": 1769399841,
-      "rank": 17,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 136563,
-      "num": 136563,
-      "word": "最差一届的学生被学校请回去了",
-      "onboard_time": 1769398642,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 135916,
@@ -467,14 +507,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 121019,
-      "num": 138234,
-      "word": "网友刚买iPhoneAir第二天就降价2000元",
-      "onboard_time": 1769400622,
-      "rank": 18,
-      "category": "数码"
-    },
-    {
       "raw_hot": 119547,
       "num": 119547,
       "word": "腊八蒜起源于催款",
@@ -507,20 +539,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 116346,
+      "num": 116346,
+      "word": "终于懂什么叫社交圣母症了",
+      "onboard_time": 1769401281,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 115443,
       "num": 263375,
       "word": "女子怀孕收男友15万彩礼后不和要退婚",
       "onboard_time": 1769342481,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 115304,
-      "num": 113300,
-      "word": "杨迪晒和网友的聊天记录",
-      "onboard_time": 1769400923,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 114408,
@@ -536,6 +568,14 @@
       "word": "黄金白银猛涨原因",
       "onboard_time": 1769398581,
       "rank": 36,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 108766,
+      "num": 108766,
+      "word": "陈小群概念股炒作利益链调查",
+      "onboard_time": 1769401462,
+      "rank": 41,
       "category": "财经"
     },
     {
@@ -555,8 +595,8 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 103853,
-      "num": 103853,
+      "raw_hot": 104403,
+      "num": 104403,
       "word": "德国总理想亲吻意大利总理遭拒",
       "onboard_time": 1769400862,
       "rank": 42,
@@ -628,7 +668,7 @@
     },
     {
       "raw_hot": 96295,
-      "num": 137650,
+      "num": 150987,
       "word": "孙颖莎2026鲨骑马新形象",
       "onboard_time": 1769400261,
       "rank": 22,
@@ -641,14 +681,6 @@
       "onboard_time": 1769400202,
       "rank": 48,
       "category": "美食"
-    },
-    {
-      "raw_hot": 94601,
-      "num": 94601,
-      "word": "终于懂什么叫社交圣母症了",
-      "onboard_time": 1769401281,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 93094,
@@ -731,6 +763,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 84155,
+      "num": 84155,
+      "word": "经常熬夜真的很伤肝",
+      "onboard_time": 1769402063,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 83340,
+      "num": 83340,
+      "word": "今天腊八",
+      "onboard_time": 1769402362,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 82986,
+      "num": 82986,
+      "word": "摔炮都发展成这样了",
+      "onboard_time": 1769402362,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 81828,
       "num": 81828,
       "word": "腊八粥",
@@ -785,6 +841,14 @@
       "onboard_time": 1769388559,
       "rank": 35,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 76878,
+      "num": 109668,
+      "word": "九肥一瘦香肠被调侃可以当蜡烛用",
+      "onboard_time": 1769401823,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 75732,
@@ -895,6 +959,14 @@
       "num": 190414,
       "word": "代旭千字长文告别裴轸",
       "onboard_time": 1769344221,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 66609,
+      "num": 111823,
+      "word": "十日终焉配角竞争激烈",
+      "onboard_time": 1769401281,
       "rank": 38,
       "category": "剧集"
     },
@@ -1035,8 +1107,24 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 57115,
+      "num": 148200,
+      "word": "温瑞博开通微博",
+      "onboard_time": 1769402182,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 57001,
+      "num": 109678,
+      "word": "被丈夫闺蜜背叛女子是远嫁",
+      "onboard_time": 1769401882,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 56479,
-      "num": 136768,
+      "num": 140947,
       "word": "郭涛说家不是打分的地方",
       "onboard_time": 1769398822,
       "rank": 29,
@@ -1259,20 +1347,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 30999,
+      "num": 661342,
+      "word": "品牌新势力助力大国品牌",
+      "onboard_time": 1769401520,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28592,
       "num": 714510,
       "word": "彩灯一亮年味就有了",
       "onboard_time": 1769345602,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 26113,
-      "num": 111823,
-      "word": "十日终焉配角竞争激烈",
-      "onboard_time": 1769401281,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 24673,
