@@ -1,6 +1,6 @@
 {
   "startTime": 1769358907478,
-  "endTime": 1769402434796,
+  "endTime": 1769405930079,
   "band_list": [
     {
       "raw_hot": 1195687,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1084863,
-      "num": 148947,
+      "num": 174961,
       "word": "黄金",
       "onboard_time": 1769386880,
       "rank": 20,
@@ -27,8 +27,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1006853,
+      "num": 308015,
+      "word": "尼帕病毒",
+      "onboard_time": 1769402422,
+      "rank": 10,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 868024,
-      "num": 149627,
+      "num": 178000,
       "word": "白银",
       "onboard_time": 1769395879,
       "rank": 20,
@@ -60,7 +68,7 @@
     },
     {
       "raw_hot": 728425,
-      "num": 149389,
+      "num": 179443,
       "word": "辽宁春晚回应张雨绮争议",
       "onboard_time": 1769397501,
       "rank": 21,
@@ -99,6 +107,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 545502,
+      "num": 134166,
+      "word": "程序员27岁去美国35岁流落街头",
+      "onboard_time": 1769404402,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 501884,
       "num": 412787,
       "word": "何炅 终于要结束了",
@@ -113,6 +129,14 @@
       "onboard_time": 1769355860,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 489159,
+      "num": 302671,
+      "word": "武汉理工毕业生当保安被母校约谈",
+      "onboard_time": 1769403263,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 486568,
@@ -163,6 +187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 319562,
+      "num": 319562,
+      "word": "一岁宝宝把爷爷锁阳台了",
+      "onboard_time": 1769401462,
+      "rank": 14,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 305514,
       "num": 208779,
       "word": "黄子韬名下公司欠税14万被公告",
@@ -177,6 +209,14 @@
       "onboard_time": 1769389820,
       "rank": 5,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 299369,
+      "num": 299369,
+      "word": "第一次在内娱见男女主是太监和宫女",
+      "onboard_time": 1769403922,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 290109,
@@ -232,6 +272,14 @@
       "word": "十日终焉",
       "onboard_time": 1769385980,
       "rank": 4,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 241423,
+      "num": 316911,
+      "word": "大张伟替我骂了领导整整两分半",
+      "onboard_time": 1769403742,
+      "rank": 6,
       "category": "剧集"
     },
     {
@@ -307,12 +355,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 200760,
+      "num": 200760,
+      "word": "网友刚买iPhoneAir第二天就降价2000元",
+      "onboard_time": 1769400622,
+      "rank": 18,
+      "category": "数码"
+    },
+    {
       "raw_hot": 199957,
       "num": 153142,
       "word": "何健麒曾说玉茗茶骨里有他的角色",
       "onboard_time": 1769389401,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 196839,
+      "num": 196839,
+      "word": "杨迪晒和网友的聊天记录",
+      "onboard_time": 1769400923,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 189686,
@@ -323,12 +387,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 186316,
-      "num": 186316,
-      "word": "杨迪晒和网友的聊天记录",
-      "onboard_time": 1769400923,
-      "rank": 37,
-      "category": "艺人"
+      "raw_hot": 188410,
+      "num": 172025,
+      "word": "做美甲已经进化成这样了",
+      "onboard_time": 1769401585,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 181439,
@@ -339,20 +403,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 178742,
-      "num": 178742,
-      "word": "一岁宝宝把爷爷锁阳台了",
-      "onboard_time": 1769401462,
-      "rank": 14,
-      "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 170877,
-      "num": 170877,
-      "word": "网友刚买iPhoneAir第二天就降价2000元",
-      "onboard_time": 1769400622,
-      "rank": 18,
-      "category": "数码"
+      "raw_hot": 170623,
+      "num": 170623,
+      "word": "王安宇明侦凶手的救星来了",
+      "onboard_time": 1769401942,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 169221,
@@ -361,6 +417,14 @@
       "onboard_time": 1769384539,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 166633,
+      "num": 314883,
+      "word": "王欣瑜止步澳网十六强",
+      "onboard_time": 1769405302,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 163661,
@@ -395,6 +459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 148521,
+      "num": 148521,
+      "word": "牢A的普及国人终于后知后觉了很多事",
+      "onboard_time": 1769402721,
+      "rank": 26,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 147474,
       "num": 147474,
       "word": "最差一届的学生被学校请回去了",
@@ -403,12 +475,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 146638,
-      "num": 146638,
-      "word": "做美甲已经进化成这样了",
-      "onboard_time": 1769401585,
+      "raw_hot": 145406,
+      "num": 145406,
+      "word": "不知道 肖战的比例很曼妙",
+      "onboard_time": 1769403502,
       "rank": 28,
-      "category": "幽默"
+      "category": "艺人"
     },
     {
       "raw_hot": 141974,
@@ -417,14 +489,6 @@
       "onboard_time": 1769355501,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 139654,
-      "num": 139654,
-      "word": "王安宇明侦凶手的救星来了",
-      "onboard_time": 1769401942,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 139482,
@@ -441,6 +505,22 @@
       "onboard_time": 1769399362,
       "rank": 28,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 138957,
+      "num": 132980,
+      "word": "丁禹兮韩推 追中男送金子",
+      "onboard_time": 1769404942,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 138671,
+      "num": 138671,
+      "word": "终于懂什么叫社交圣母症了",
+      "onboard_time": 1769401281,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 135916,
@@ -475,6 +555,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 126522,
+      "num": 126522,
+      "word": "车银优聘请NewJeans案律师",
+      "onboard_time": 1769404463,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 124599,
       "num": 124599,
       "word": "学猫叫把猫恶心吐了",
@@ -489,6 +577,22 @@
       "onboard_time": 1769400142,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 122437,
+      "num": 122437,
+      "word": "陈飞宇孙千新剧酒窝吻",
+      "onboard_time": 1769404760,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 122209,
+      "num": 122209,
+      "word": "十日终焉配角竞争激烈",
+      "onboard_time": 1769401281,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 121801,
@@ -507,6 +611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 120693,
+      "num": 184429,
+      "word": "美国派出重兵合围伊朗",
+      "onboard_time": 1769403623,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 119547,
       "num": 119547,
       "word": "腊八蒜起源于催款",
@@ -523,6 +635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 118519,
+      "num": 299448,
+      "word": "Fakeme和迪丽热巴双向奔赴",
+      "onboard_time": 1769403983,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 118385,
       "num": 190435,
       "word": "建议优先睡好这4个小时",
@@ -537,14 +657,6 @@
       "onboard_time": 1769385077,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 116346,
-      "num": 116346,
-      "word": "终于懂什么叫社交圣母症了",
-      "onboard_time": 1769401281,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 115443,
@@ -619,6 +731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 103043,
+      "num": 103043,
+      "word": "当外国人第一次吃饺子",
+      "onboard_time": 1769405001,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 102604,
       "num": 190411,
       "word": "宝宝误嚼金锁医生称黄金已到大肠",
@@ -633,6 +753,22 @@
       "onboard_time": 1769394680,
       "rank": 28,
       "category": "财经"
+    },
+    {
+      "raw_hot": 100936,
+      "num": 100936,
+      "word": "齐思钧罗予彤六年前还是NPC",
+      "onboard_time": 1769402481,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 99323,
+      "num": 99323,
+      "word": "成功减掉了30天",
+      "onboard_time": 1769402902,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 98748,
@@ -667,6 +803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 96492,
+      "num": 96492,
+      "word": "王欣瑜不敌阿尼西莫娃",
+      "onboard_time": 1769405902,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 96295,
       "num": 150987,
       "word": "孙颖莎2026鲨骑马新形象",
@@ -675,12 +819,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 96080,
+      "num": 96080,
+      "word": "建议住五星酒店带行李箱",
+      "onboard_time": 1769405661,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 95832,
       "num": 95832,
       "word": "甜腊八粥 咸腊八粥",
       "onboard_time": 1769400202,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 93986,
+      "num": 93986,
+      "word": "易烊千玺严迪歪头这一下",
+      "onboard_time": 1769403863,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 93094,
@@ -851,6 +1011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 76677,
+      "num": 118868,
+      "word": "国企董事长上门打人被拘3日",
+      "onboard_time": 1769405061,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75732,
       "num": 67669,
       "word": "上海人均收入首破9万",
@@ -959,14 +1127,6 @@
       "num": 190414,
       "word": "代旭千字长文告别裴轸",
       "onboard_time": 1769344221,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 66609,
-      "num": 111823,
-      "word": "十日终焉配角竞争激烈",
-      "onboard_time": 1769401281,
       "rank": 38,
       "category": "剧集"
     },
@@ -1251,6 +1411,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 40975,
+      "num": 641751,
+      "word": "这份新规为未成年人织密防护网",
+      "onboard_time": 1769403801,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40795,
       "num": 40795,
       "word": "销售回应男子交70万买保时捷遇提车难",
@@ -1339,6 +1507,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 33256,
+      "num": 182666,
+      "word": "美执法人员向被害人开了至少10枪",
+      "onboard_time": 1769404821,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 32773,
+      "num": 115400,
+      "word": "2026年这13天上班可拿3倍工资",
+      "onboard_time": 1769405120,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31052,
       "num": 49874,
       "word": "郭艾伦复出两场都赢了",
@@ -1355,12 +1539,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29086,
+      "num": 106865,
+      "word": "在印华人回应印度尼帕病毒疫情",
+      "onboard_time": 1769405061,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 28592,
       "num": 714510,
       "word": "彩灯一亮年味就有了",
       "onboard_time": 1769345602,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25890,
+      "num": 108841,
+      "word": "外国网民掀起成为中国人潮流",
+      "onboard_time": 1769405120,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 24673,
@@ -1430,6 +1630,9 @@
   "hotgov_list": [
     {
       "word": "#生活好一个很重要的内涵是生态#"
+    },
+    {
+      "word": "#让更多人参与到冰雪运动中来#"
     }
   ]
 }
