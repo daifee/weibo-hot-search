@@ -1,6 +1,6 @@
 {
   "startTime": 1769445836222,
-  "endTime": 1769464023239,
+  "endTime": 1769466698756,
   "band_list": [
     {
       "raw_hot": 657477,
@@ -219,6 +219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 74793,
+      "num": 74793,
+      "word": "云初令",
+      "onboard_time": 1769449516,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 69827,
       "num": 69827,
       "word": "山姆499元羽绒服羽绒成本约为186元",
@@ -243,12 +251,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 62767,
-      "num": 62767,
-      "word": "云初令",
-      "onboard_time": 1769449516,
-      "rank": 43,
-      "category": "剧集"
+      "raw_hot": 62024,
+      "num": 62024,
+      "word": "49条中日航线取消全部航班",
+      "onboard_time": 1769427562,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 61522,
@@ -339,6 +347,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 47454,
+      "num": 47454,
+      "word": "美军航母进入印度洋",
+      "onboard_time": 1769451314,
+      "rank": 9,
+      "category": "军事"
+    },
+    {
       "raw_hot": 45970,
       "num": 66419,
       "word": "男子回应彩票中836万淡定上班",
@@ -377,14 +393,6 @@
       "onboard_time": 1769439143,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 40731,
-      "num": 40731,
-      "word": "美军航母进入印度洋",
-      "onboard_time": 1769451314,
-      "rank": 9,
-      "category": "军事"
     },
     {
       "raw_hot": 40288,
@@ -427,12 +435,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 36315,
-      "num": 36315,
-      "word": "49条中日航线取消全部航班",
-      "onboard_time": 1769427562,
-      "rank": 48,
-      "category": "国内时政"
+      "raw_hot": 30431,
+      "num": 30431,
+      "word": "邵氏兄弟拟收购正午阳光等资产",
+      "onboard_time": 1769464994,
+      "rank": 17,
+      "category": "财经,作品衍生"
     },
     {
       "raw_hot": 28598,
@@ -467,6 +475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 22637,
+      "num": 25113,
+      "word": "刘宇宁好事马上发生",
+      "onboard_time": 1769446937,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 21827,
       "num": 46937,
       "word": "女神蒙上眼",
@@ -481,14 +497,6 @@
       "onboard_time": 1769442741,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 19222,
-      "num": 25113,
-      "word": "刘宇宁好事马上发生",
-      "onboard_time": 1769446937,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 17287,
@@ -507,8 +515,8 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 13390,
-      "num": 21711,
+      "raw_hot": 14481,
+      "num": 22008,
       "word": "突然的喜欢",
       "onboard_time": 1769422821,
       "rank": 49,
@@ -523,28 +531,36 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 11105,
-      "num": 18170,
+      "raw_hot": 12208,
+      "num": 22007,
+      "word": "印度阅兵式",
+      "onboard_time": 1769435062,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 11123,
+      "num": 22005,
       "word": "甘肃迭部5.5级地震",
       "onboard_time": 1769411423,
       "rank": 44,
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 11059,
+      "num": 22005,
+      "word": "刘宇宁化身心愿办事员",
+      "onboard_time": 1769436503,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 10124,
-      "num": 115590,
+      "num": 235730,
       "word": "2025中国十大科技进展新闻",
       "onboard_time": 1769436802,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 9838,
-      "num": 11165,
-      "word": "印度阅兵式",
-      "onboard_time": 1769435062,
-      "rank": 49,
-      "category": "国际时政"
     }
   ],
   "hotgov_list": [
