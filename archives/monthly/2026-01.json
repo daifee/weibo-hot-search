@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769432613287,
+  "endTime": 1769433995600,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -636,7 +636,7 @@
     },
     {
       "raw_hot": 1562420,
-      "num": 156287,
+      "num": 172910,
       "word": "车银优承认逃税",
       "onboard_time": 1769427921,
       "rank": 10,
@@ -1020,7 +1020,7 @@
     },
     {
       "raw_hot": 1210515,
-      "num": 155992,
+      "num": 187890,
       "word": "何健麒尿检",
       "onboard_time": 1769428941,
       "rank": 11,
@@ -9491,6 +9491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 420568,
+      "num": 764478,
+      "word": "6名中国男子日本滑雪被困死亡谷",
+      "onboard_time": 1769429183,
+      "rank": 3,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 420534,
       "num": 372114,
       "word": "iPhone没有一个按键是多余的",
@@ -9889,6 +9897,14 @@
       "onboard_time": 1769149280,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 408779,
+      "num": 159588,
+      "word": "车银优发长文道歉",
+      "onboard_time": 1769427980,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 408500,
@@ -11305,14 +11321,6 @@
       "onboard_time": 1768363821,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 372052,
-      "num": 152673,
-      "word": "车银优发长文道歉",
-      "onboard_time": 1769427980,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 371840,
@@ -14411,6 +14419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 310104,
+      "num": 894509,
+      "word": "金价飙升原因找到了",
+      "onboard_time": 1767357261,
+      "rank": 25,
+      "category": "财经"
+    },
+    {
       "raw_hot": 309810,
       "num": 309810,
       "word": "何炅情商",
@@ -15435,14 +15451,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 293086,
-      "num": 293086,
-      "word": "6名中国男子日本滑雪被困死亡谷",
-      "onboard_time": 1769429183,
-      "rank": 3,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 293052,
       "num": 223112,
       "word": "八个月瘦了120斤的身体变化",
@@ -15531,6 +15539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 291021,
+      "num": 160288,
+      "word": "尼帕病毒被列为最危险的病原体之一",
+      "onboard_time": 1769428462,
+      "rank": 12,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 290993,
       "num": 228450,
       "word": "被清华大学食堂的物价震惊到了",
@@ -15556,7 +15572,7 @@
     },
     {
       "raw_hot": 290360,
-      "num": 152053,
+      "num": 159309,
       "word": "长期缺爱的人一眼就看出来了",
       "onboard_time": 1769420901,
       "rank": 30,
@@ -15713,6 +15729,14 @@
       "onboard_time": 1768800502,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 287447,
+      "num": 171343,
+      "word": "赵樱子直播间发飙怼助理",
+      "onboard_time": 1769426302,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 287432,
@@ -15873,6 +15897,14 @@
       "onboard_time": 1767703101,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 284543,
+      "num": 284543,
+      "word": "灵隐寺免票预约后38万人爽约",
+      "onboard_time": 1769429782,
+      "rank": 7,
+      "category": "民生新闻,旅游"
     },
     {
       "raw_hot": 284316,
@@ -16369,14 +16401,6 @@
       "onboard_time": 1767514642,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 277522,
-      "num": 155694,
-      "word": "尼帕病毒被列为最危险的病原体之一",
-      "onboard_time": 1769428462,
-      "rank": 12,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 277492,
@@ -17697,6 +17721,14 @@
       "onboard_time": 1769058622,
       "rank": 13,
       "category": "电影"
+    },
+    {
+      "raw_hot": 261462,
+      "num": 167716,
+      "word": "内娱喵系男艺人",
+      "onboard_time": 1769425940,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 261187,
@@ -19756,7 +19788,7 @@
     },
     {
       "raw_hot": 234147,
-      "num": 155101,
+      "num": 160485,
       "word": "iPhoneAir暴降后卖断货",
       "onboard_time": 1769426663,
       "rank": 41,
@@ -20153,6 +20185,14 @@
       "onboard_time": 1768617200,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 230337,
+      "num": 160172,
+      "word": "童锦程自曝想和林志玲牵手",
+      "onboard_time": 1769429482,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 230328,
@@ -21363,14 +21403,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 217606,
-      "num": 154689,
-      "word": "内娱喵系男艺人",
-      "onboard_time": 1769425940,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 217601,
       "num": 152703,
       "word": "将门毒后书粉",
@@ -21585,14 +21617,6 @@
       "onboard_time": 1769151201,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 215268,
-      "num": 894509,
-      "word": "金价飙升原因找到了",
-      "onboard_time": 1767357261,
-      "rank": 25,
-      "category": "财经"
     },
     {
       "raw_hot": 215145,
@@ -23025,14 +23049,6 @@
       "onboard_time": 1768361602,
       "rank": 17,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 203591,
-      "num": 153546,
-      "word": "赵樱子直播间发飙怼助理",
-      "onboard_time": 1769426302,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 203563,
@@ -31059,6 +31075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 158817,
+      "num": 158817,
+      "word": "车厘子包装袋不要丢",
+      "onboard_time": 1769433262,
+      "rank": 24,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 158802,
       "num": 158802,
       "word": "最佳睡眠到底是几个小时",
@@ -31153,14 +31177,6 @@
       "onboard_time": 1768364542,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 158281,
-      "num": 158281,
-      "word": "灵隐寺免票预约后38万人爽约",
-      "onboard_time": 1769429782,
-      "rank": 7,
-      "category": "民生新闻,旅游"
     },
     {
       "raw_hot": 158273,
@@ -32617,14 +32633,6 @@
       "onboard_time": 1767587423,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 151577,
-      "num": 151577,
-      "word": "童锦程自曝想和林志玲牵手",
-      "onboard_time": 1769429482,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 151551,
@@ -46755,6 +46763,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 111002,
+      "num": 111002,
+      "word": "新郎新娘坐马车意外翻进沟里",
+      "onboard_time": 1769432541,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 110999,
       "num": 95347,
       "word": "蒲熠星巡演",
@@ -53840,6 +53856,14 @@
       "word": "刘昊然 内娱好抱系男主具象化",
       "onboard_time": 1769081061,
       "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 98584,
+      "num": 98584,
+      "word": "左奇函晒新疆游合照",
+      "onboard_time": 1769429842,
+      "rank": 31,
       "category": "艺人"
     },
     {
@@ -61571,14 +61595,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 87364,
-      "num": 87364,
-      "word": "左奇函晒新疆游合照",
-      "onboard_time": 1769429842,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 87353,
       "num": 87353,
       "word": "小英否认怀孕",
@@ -62424,6 +62440,14 @@
       "word": "邓恩熙姐感",
       "onboard_time": 1768405280,
       "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 86437,
+      "num": 86437,
+      "word": "时团真不把我们当外人",
+      "onboard_time": 1769430741,
+      "rank": 35,
       "category": "艺人"
     },
     {
@@ -65723,6 +65747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 81526,
+      "num": 81526,
+      "word": "檀健次这衣服怎么穿的好潮",
+      "onboard_time": 1769428101,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 81523,
       "num": 81523,
       "word": "导演夸赵丽颖太像李秋萍了",
@@ -66657,14 +66689,6 @@
       "onboard_time": 1768040722,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 80048,
-      "num": 80048,
-      "word": "时团真不把我们当外人",
-      "onboard_time": 1769430741,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 80047,
@@ -68865,14 +68889,6 @@
       "onboard_time": 1767762923,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 76032,
-      "num": 76032,
-      "word": "檀健次这衣服怎么穿的好潮",
-      "onboard_time": 1769428101,
-      "rank": 37,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 76030,
@@ -72843,14 +72859,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 66049,
-      "num": 66049,
-      "word": "新郎新娘坐马车意外翻进沟里",
-      "onboard_time": 1769432541,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 66038,
       "num": 172820,
       "word": "白银50天涨逾80%",
@@ -75427,6 +75435,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 57760,
+      "num": 101712,
+      "word": "100元从广东坐公交回东北男子发声",
+      "onboard_time": 1769432661,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57757,
       "num": 134440,
       "word": "委代总统宣誓将解救马杜罗",
@@ -77065,6 +77081,14 @@
       "onboard_time": 1768882822,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 50922,
+      "num": 159114,
+      "word": "期待Jonathan的Dior高订首秀",
+      "onboard_time": 1769429721,
+      "rank": 18,
+      "category": "时尚"
     },
     {
       "raw_hot": 50833,
@@ -80641,14 +80665,6 @@
       "onboard_time": 1769038278,
       "rank": 48,
       "category": "财经"
-    },
-    {
-      "raw_hot": 36617,
-      "num": 153160,
-      "word": "期待Jonathan的Dior高订首秀",
-      "onboard_time": 1769429721,
-      "rank": 18,
-      "category": "时尚"
     },
     {
       "raw_hot": 36610,
