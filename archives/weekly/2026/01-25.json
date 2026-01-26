@@ -1,6 +1,6 @@
 {
   "startTime": 1769272464158,
-  "endTime": 1769405930079,
+  "endTime": 1769406899405,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -339,6 +339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 550123,
+      "num": 137248,
+      "word": "程序员27岁去美国35岁流落街头",
+      "onboard_time": 1769404402,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 549766,
       "num": 549766,
       "word": "李昊 look my eyes",
@@ -352,14 +360,6 @@
       "word": "印度一邦暴发疫情",
       "onboard_time": 1769334739,
       "rank": 1,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 545502,
-      "num": 134166,
-      "word": "程序员27岁去美国35岁流落街头",
-      "onboard_time": 1769404402,
-      "rank": 30,
       "category": "海外新闻"
     },
     {
@@ -411,6 +411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 509847,
+      "num": 302671,
+      "word": "武汉理工毕业生当保安被母校约谈",
+      "onboard_time": 1769403263,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 501884,
       "num": 412787,
       "word": "何炅 终于要结束了",
@@ -433,14 +441,6 @@
       "onboard_time": 1769325080,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 489159,
-      "num": 302671,
-      "word": "武汉理工毕业生当保安被母校约谈",
-      "onboard_time": 1769403263,
-      "rank": 11,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 489024,
@@ -603,6 +603,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 397909,
+      "num": 299369,
+      "word": "第一次在内娱见男女主是太监和宫女",
+      "onboard_time": 1769403922,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 397352,
       "num": 619845,
       "word": "檀健次开机上哭了",
@@ -755,8 +763,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 319562,
-      "num": 319562,
+      "raw_hot": 322359,
+      "num": 322359,
       "word": "一岁宝宝把爷爷锁阳台了",
       "onboard_time": 1769401462,
       "rank": 14,
@@ -833,14 +841,6 @@
       "onboard_time": 1769389820,
       "rank": 5,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 299369,
-      "num": 299369,
-      "word": "第一次在内娱见男女主是太监和宫女",
-      "onboard_time": 1769403922,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 295383,
@@ -1211,6 +1211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 216484,
+      "num": 196839,
+      "word": "杨迪晒和网友的聊天记录",
+      "onboard_time": 1769400923,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 215108,
       "num": 215108,
       "word": "我奶奶好心跟你爷爷结婚",
@@ -1313,14 +1321,6 @@
       "onboard_time": 1769314459,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 196839,
-      "num": 196839,
-      "word": "杨迪晒和网友的聊天记录",
-      "onboard_time": 1769400923,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 195673,
@@ -1459,6 +1459,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 175314,
+      "num": 175314,
+      "word": "国漫比格犬男友上桌了",
+      "onboard_time": 1769406441,
+      "rank": 8,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 175093,
       "num": 128727,
       "word": "内娱你再不努力就要被短剧打败了",
@@ -1587,6 +1595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 159313,
+      "num": 159313,
+      "word": "车银优聘请NewJeans案律师",
+      "onboard_time": 1769404463,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 158495,
       "num": 117356,
       "word": "谢娜嘴上不理解脸上哭唧唧",
@@ -1608,6 +1624,22 @@
       "word": "太平年",
       "onboard_time": 1769260701,
       "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 155695,
+      "num": 775519,
+      "word": "美国派出重兵合围伊朗",
+      "onboard_time": 1769403623,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 155214,
+      "num": 322376,
+      "word": "娱乐圈文被拍成短剧了",
+      "onboard_time": 1769406022,
+      "rank": 5,
       "category": "剧集"
     },
     {
@@ -1859,6 +1891,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 136901,
+      "num": 136901,
+      "word": "王橹杰 羚羊王子",
+      "onboard_time": 1769406141,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 136846,
       "num": 104045,
       "word": "李晟强吻黄英",
@@ -2003,11 +2043,11 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 126522,
-      "num": 126522,
-      "word": "车银优聘请NewJeans案律师",
-      "onboard_time": 1769404463,
-      "rank": 32,
+      "raw_hot": 126279,
+      "num": 299448,
+      "word": "Fakeme和迪丽热巴双向奔赴",
+      "onboard_time": 1769403983,
+      "rank": 12,
       "category": "艺人"
     },
     {
@@ -2123,14 +2163,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 120693,
-      "num": 184429,
-      "word": "美国派出重兵合围伊朗",
-      "onboard_time": 1769403623,
-      "rank": 18,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 119547,
       "num": 119547,
       "word": "腊八蒜起源于催款",
@@ -2160,14 +2192,6 @@
       "word": "白鹿谈身体状况",
       "onboard_time": 1769304201,
       "rank": 27,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 118519,
-      "num": 299448,
-      "word": "Fakeme和迪丽热巴双向奔赴",
-      "onboard_time": 1769403983,
-      "rank": 12,
       "category": "艺人"
     },
     {
@@ -2419,6 +2443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 107143,
+      "num": 107143,
+      "word": "建议住五星酒店带行李箱",
+      "onboard_time": 1769405661,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 106832,
       "num": 106832,
       "word": "檀健次发开机照",
@@ -2497,6 +2529,14 @@
       "onboard_time": 1769319022,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103937,
+      "num": 103937,
+      "word": "A股超3700只个股下跌",
+      "onboard_time": 1769403202,
+      "rank": 38,
+      "category": "财经"
     },
     {
       "raw_hot": 103727,
@@ -2707,6 +2747,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 100089,
+      "num": 100089,
+      "word": "张学友捐款130万元",
+      "onboard_time": 1769406620,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 99874,
       "num": 120504,
       "word": "洛阳钼业拿下海外3个金矿",
@@ -2777,6 +2825,14 @@
       "onboard_time": 1769351541,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 97682,
+      "num": 97682,
+      "word": "忘记结婚了习惯性回自己家",
+      "onboard_time": 1769406501,
+      "rank": 41,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 96914,
@@ -2875,14 +2931,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 96080,
-      "num": 96080,
-      "word": "建议住五星酒店带行李箱",
-      "onboard_time": 1769405661,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 96033,
       "num": 100655,
       "word": "被丈夫和闺蜜背叛女子回应白头",
@@ -2921,6 +2969,14 @@
       "onboard_time": 1769337500,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 95102,
+      "num": 118868,
+      "word": "国企董事长上门打人被拘3日",
+      "onboard_time": 1769405061,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 95099,
@@ -3139,6 +3195,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 89589,
+      "num": 89589,
+      "word": "百草味回应958克坚果礼盒坚果33克",
+      "onboard_time": 1769406441,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 88968,
       "num": 88968,
       "word": "父亲说乔任梁曾长期失眠",
@@ -3193,6 +3257,14 @@
       "onboard_time": 1769317041,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 87223,
+      "num": 87223,
+      "word": "双高胎LOADING大片",
+      "onboard_time": 1769406501,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 86681,
@@ -3355,6 +3427,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 84082,
+      "num": 83949,
+      "word": "苹果自营店和授权店有什么区别",
+      "onboard_time": 1769406800,
+      "rank": 47,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 84003,
+      "num": 84003,
+      "word": "光与夜之恋",
+      "onboard_time": 1769405781,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 83593,
       "num": 83593,
       "word": "拜合拉木发烧39度",
@@ -3401,6 +3489,14 @@
       "onboard_time": 1769402362,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 82921,
+      "num": 82921,
+      "word": "大爷2万买宝马5天趴窝4次拉断绳",
+      "onboard_time": 1769406620,
+      "rank": 48,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 82718,
@@ -3640,14 +3736,6 @@
       "word": "九肥一瘦香肠被调侃可以当蜡烛用",
       "onboard_time": 1769401823,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 76677,
-      "num": 118868,
-      "word": "国企董事长上门打人被拘3日",
-      "onboard_time": 1769405061,
-      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -4483,6 +4571,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 42706,
+      "num": 641751,
+      "word": "这份新规为未成年人织密防护网",
+      "onboard_time": 1769403801,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41556,
       "num": 40473,
       "word": "美国移民执法行动又致1人死亡",
@@ -4537,14 +4633,6 @@
       "onboard_time": 1769396719,
       "rank": 23,
       "category": "美食"
-    },
-    {
-      "raw_hot": 40975,
-      "num": 641751,
-      "word": "这份新规为未成年人织密防护网",
-      "onboard_time": 1769403801,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 40795,
@@ -4817,6 +4905,14 @@
       "onboard_time": 1769405061,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 28254,
+      "num": 168034,
+      "word": "高市内阁支持率大幅下跌10%",
+      "onboard_time": 1769406022,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 27944,

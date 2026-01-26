@@ -1,0 +1,410 @@
+{
+  "runTime": 1769406899405,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 420515,
+        "num": 1067282,
+        "word": "尼帕病毒感染死亡率可达40%以上",
+        "onboard_time": 1769395159,
+        "rank": 0,
+        "category": "海外新闻,健康医疗"
+      },
+      {
+        "raw_hot": 155695,
+        "num": 775519,
+        "word": "美国派出重兵合围伊朗",
+        "onboard_time": 1769403623,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 42706,
+        "num": 615240,
+        "word": "这份新规为未成年人织密防护网",
+        "onboard_time": 1769403801,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 241134,
+        "num": 327259,
+        "word": "两个00后刮腻子一年营收100多万",
+        "onboard_time": 1769395041,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 226491,
+        "num": 322430,
+        "word": "成毅新片定档春节档",
+        "onboard_time": 1769400023,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 155214,
+        "num": 322376,
+        "word": "娱乐圈文被拍成短剧了",
+        "onboard_time": 1769406022,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 322359,
+        "num": 322359,
+        "word": "一岁宝宝把爷爷锁阳台了",
+        "onboard_time": 1769401462,
+        "rank": 6,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 188423,
+        "num": 188423,
+        "word": "大张伟替我骂了领导整整两分半",
+        "onboard_time": 1769403742,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175314,
+        "num": 175314,
+        "word": "国漫比格犬男友上桌了",
+        "onboard_time": 1769406441,
+        "rank": 8,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 149666,
+        "num": 174683,
+        "word": "英首相将携最高级别官员访华",
+        "onboard_time": 1769397981,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 931588,
+        "num": 174014,
+        "word": "尼帕病毒",
+        "onboard_time": 1769402422,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 509847,
+        "num": 173379,
+        "word": "武汉理工毕业生当保安被母校约谈",
+        "onboard_time": 1769403263,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 397909,
+        "num": 172942,
+        "word": "第一次在内娱见男女主是太监和宫女",
+        "onboard_time": 1769403922,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 243066,
+        "num": 172006,
+        "word": "正缘的力量有多强大",
+        "onboard_time": 1769397619,
+        "rank": 13,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 126279,
+        "num": 171508,
+        "word": "Fakeme和迪丽热巴双向奔赴",
+        "onboard_time": 1769403983,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216484,
+        "num": 170867,
+        "word": "杨迪晒和网友的聊天记录",
+        "onboard_time": 1769400923,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161709,
+        "num": 170220,
+        "word": "网友刚买iPhoneAir第二天就降价2000元",
+        "onboard_time": 1769400622,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 139338,
+        "num": 169395,
+        "word": "警方查明夫妻网购娃娃菜中毒毒源",
+        "onboard_time": 1769391919,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109397,
+        "num": 168551,
+        "word": "男子发现妻子每天上厕所顺路存1000",
+        "onboard_time": 1769382617,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28254,
+        "num": 168034,
+        "word": "高市内阁支持率大幅下跌10%",
+        "onboard_time": 1769406022,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 167650,
+        "num": 167650,
+        "word": "短剧女主全年无休拍了48部戏",
+        "onboard_time": 1769393719,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 296853,
+        "num": 167191,
+        "word": "辽宁春晚回应张雨绮争议",
+        "onboard_time": 1769397501,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196099,
+        "num": 166728,
+        "word": "白银",
+        "onboard_time": 1769395879,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 181147,
+        "num": 166342,
+        "word": "做美甲已经进化成这样了",
+        "onboard_time": 1769401585,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 165140,
+        "num": 165140,
+        "word": "黄金",
+        "onboard_time": 1769386880,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 159313,
+        "num": 159313,
+        "word": "车银优聘请NewJeans案律师",
+        "onboard_time": 1769404463,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143844,
+        "num": 143844,
+        "word": "牢A的普及国人终于后知后觉了很多事",
+        "onboard_time": 1769402721,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 141734,
+        "num": 141734,
+        "word": "不知道 肖战的比例很曼妙",
+        "onboard_time": 1769403502,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138129,
+        "num": 138129,
+        "word": "王安宇明侦凶手的救星来了",
+        "onboard_time": 1769401942,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95343,
+        "num": 137499,
+        "word": "腊八",
+        "onboard_time": 1769382677,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 550123,
+        "num": 137248,
+        "word": "程序员27岁去美国35岁流落街头",
+        "onboard_time": 1769404402,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 136901,
+        "num": 136901,
+        "word": "王橹杰 羚羊王子",
+        "onboard_time": 1769406141,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89709,
+        "num": 119221,
+        "word": "王欣瑜止步澳网十六强",
+        "onboard_time": 1769405302,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119122,
+        "num": 119122,
+        "word": "终于懂什么叫社交圣母症了",
+        "onboard_time": 1769401281,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 95102,
+        "num": 118364,
+        "word": "国企董事长上门打人被拘3日",
+        "onboard_time": 1769405061,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117904,
+        "num": 117904,
+        "word": "十日终焉配角竞争激烈",
+        "onboard_time": 1769401281,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107143,
+        "num": 107143,
+        "word": "建议住五星酒店带行李箱",
+        "onboard_time": 1769405661,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113900,
+        "num": 105864,
+        "word": "十日终焉",
+        "onboard_time": 1769385980,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103937,
+        "num": 103937,
+        "word": "A股超3700只个股下跌",
+        "onboard_time": 1769403202,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 100605,
+        "num": 100605,
+        "word": "丁禹兮韩推 追中男送金子",
+        "onboard_time": 1769404942,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100089,
+        "num": 100089,
+        "word": "张学友捐款130万元",
+        "onboard_time": 1769406620,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97682,
+        "num": 97682,
+        "word": "忘记结婚了习惯性回自己家",
+        "onboard_time": 1769406501,
+        "rank": 41,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 92466,
+        "num": 92466,
+        "word": "黄子韬名下公司欠税14万被公告",
+        "onboard_time": 1769399420,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89589,
+        "num": 89589,
+        "word": "百草味回应958克坚果礼盒坚果33克",
+        "onboard_time": 1769406441,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87223,
+        "num": 87223,
+        "word": "双高胎LOADING大片",
+        "onboard_time": 1769406501,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 84602,
+        "num": 84602,
+        "word": "齐思钧罗予彤六年前还是NPC",
+        "onboard_time": 1769402481,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84003,
+        "num": 84003,
+        "word": "光与夜之恋",
+        "onboard_time": 1769405781,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 84082,
+        "num": 83949,
+        "word": "苹果自营店和授权店有什么区别",
+        "onboard_time": 1769406800,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 82921,
+        "num": 82921,
+        "word": "大爷2万买宝马5天趴窝4次拉断绳",
+        "onboard_time": 1769406620,
+        "rank": 48,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 76376,
+        "num": 76376,
+        "word": "印度男女杀人犯狱中恋爱并结婚",
+        "onboard_time": 1769399362,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#让更多人参与到冰雪运动中来#"
+    }
+  }
+}

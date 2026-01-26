@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769405930079,
+  "endTime": 1769406899405,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -5699,6 +5699,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 550123,
+      "num": 137248,
+      "word": "程序员27岁去美国35岁流落街头",
+      "onboard_time": 1769404402,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 549766,
       "num": 549766,
       "word": "李昊 look my eyes",
@@ -5793,14 +5801,6 @@
       "onboard_time": 1769160141,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 545502,
-      "num": 134166,
-      "word": "程序员27岁去美国35岁流落街头",
-      "onboard_time": 1769404402,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 545432,
@@ -6755,6 +6755,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 509847,
+      "num": 302671,
+      "word": "武汉理工毕业生当保安被母校约谈",
+      "onboard_time": 1769403263,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 509642,
       "num": 1005432,
       "word": "29岁渐冻症女孩重生感谢蔡磊",
@@ -7257,14 +7265,6 @@
       "onboard_time": 1767708083,
       "rank": 14,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 489159,
-      "num": 302671,
-      "word": "武汉理工毕业生当保安被母校约谈",
-      "onboard_time": 1769403263,
-      "rank": 11,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 489024,
@@ -10193,6 +10193,14 @@
       "onboard_time": 1768740024,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 397909,
+      "num": 299369,
+      "word": "第一次在内娱见男女主是太监和宫女",
+      "onboard_time": 1769403922,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 397587,
@@ -13531,6 +13539,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 322359,
+      "num": 322359,
+      "word": "一岁宝宝把爷爷锁阳台了",
+      "onboard_time": 1769401462,
+      "rank": 14,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 321689,
       "num": 194433,
       "word": "千万网红出镜四年衣服都是自己做的",
@@ -13657,14 +13673,6 @@
       "onboard_time": 1767415767,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 319562,
-      "num": 319562,
-      "word": "一岁宝宝把爷爷锁阳台了",
-      "onboard_time": 1769401462,
-      "rank": 14,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 319479,
@@ -14833,14 +14841,6 @@
       "onboard_time": 1768981880,
       "rank": 27,
       "category": "美食"
-    },
-    {
-      "raw_hot": 299369,
-      "num": 299369,
-      "word": "第一次在内娱见男女主是太监和宫女",
-      "onboard_time": 1769403922,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 299362,
@@ -21099,6 +21099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 216484,
+      "num": 196839,
+      "word": "杨迪晒和网友的聊天记录",
+      "onboard_time": 1769400923,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 216386,
       "num": 216386,
       "word": "又一省份取消12345热线语音导航",
@@ -23633,14 +23641,6 @@
       "onboard_time": 1768059742,
       "rank": 6,
       "category": "民生新闻,体育"
-    },
-    {
-      "raw_hot": 196839,
-      "num": 196839,
-      "word": "杨迪晒和网友的聊天记录",
-      "onboard_time": 1769400923,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 196836,
@@ -27387,6 +27387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 175314,
+      "num": 175314,
+      "word": "国漫比格犬男友上桌了",
+      "onboard_time": 1769406441,
+      "rank": 8,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 175293,
       "num": 191736,
       "word": "女子向出轨丈夫道歉当地工作组介入",
@@ -30451,6 +30459,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 159313,
+      "num": 159313,
+      "word": "车银优聘请NewJeans案律师",
+      "onboard_time": 1769404463,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 159292,
       "num": 137262,
       "word": "陈都灵好有冲击力的美貌",
@@ -31283,6 +31299,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 155695,
+      "num": 775519,
+      "word": "美国派出重兵合围伊朗",
+      "onboard_time": 1769403623,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 155584,
       "num": 126332,
       "word": "蒋奇明长得东南西北的",
@@ -31353,6 +31377,14 @@
       "onboard_time": 1768779379,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 155214,
+      "num": 322376,
+      "word": "娱乐圈文被拍成短剧了",
+      "onboard_time": 1769406022,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 155018,
@@ -36123,6 +36155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 136901,
+      "num": 136901,
+      "word": "王橹杰 羚羊王子",
+      "onboard_time": 1769406141,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 136846,
       "num": 104045,
       "word": "李晟强吻黄英",
@@ -39571,14 +39611,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 126522,
-      "num": 126522,
-      "word": "车银优聘请NewJeans案律师",
-      "onboard_time": 1769404463,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 126521,
       "num": 203538,
       "word": "LOLM新春第一课是修仙",
@@ -39673,6 +39705,14 @@
       "onboard_time": 1768299262,
       "rank": 45,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 126279,
+      "num": 299448,
+      "word": "Fakeme和迪丽热巴双向奔赴",
+      "onboard_time": 1769403983,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 126261,
@@ -41923,14 +41963,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 120693,
-      "num": 184429,
-      "word": "美国派出重兵合围伊朗",
-      "onboard_time": 1769403623,
-      "rank": 18,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 120653,
       "num": 120653,
       "word": "赖伟明请假原因是去拍戏",
@@ -42785,14 +42817,6 @@
       "onboard_time": 1768952839,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 118519,
-      "num": 299448,
-      "word": "Fakeme和迪丽热巴双向奔赴",
-      "onboard_time": 1769403983,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 118480,
@@ -47859,6 +47883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 107143,
+      "num": 107143,
+      "word": "建议住五星酒店带行李箱",
+      "onboard_time": 1769405661,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 107125,
       "num": 187994,
       "word": "山区学校获捐拍立得因相纸贵想退回",
@@ -49736,6 +49768,14 @@
       "word": "央行称降准降息还有一定空间",
       "onboard_time": 1768468821,
       "rank": 44,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 103937,
+      "num": 103937,
+      "word": "A股超3700只个股下跌",
+      "onboard_time": 1769403202,
+      "rank": 38,
       "category": "财经"
     },
     {
@@ -52051,6 +52091,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 100089,
+      "num": 100089,
+      "word": "张学友捐款130万元",
+      "onboard_time": 1769406620,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 100064,
       "num": 135082,
       "word": "新年第一刀是三条蛇给的",
@@ -53579,6 +53627,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 97682,
+      "num": 97682,
+      "word": "忘记结婚了习惯性回自己家",
+      "onboard_time": 1769406501,
+      "rank": 41,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 97681,
       "num": 97681,
       "word": "肖战维权案二审新进展",
@@ -54739,14 +54795,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 96080,
-      "num": 96080,
-      "word": "建议住五星酒店带行李箱",
-      "onboard_time": 1769405661,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 96079,
       "num": 96079,
       "word": "曝苹果买OPPO折叠屏拆机",
@@ -55401,6 +55449,14 @@
       "onboard_time": 1768972223,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 95102,
+      "num": 118868,
+      "word": "国企董事长上门打人被拘3日",
+      "onboard_time": 1769405061,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 95099,
@@ -59115,6 +59171,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 89589,
+      "num": 89589,
+      "word": "百草味回应958克坚果礼盒坚果33克",
+      "onboard_time": 1769406441,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89583,
       "num": 1383396,
       "word": "上迪10岁生日庆典logo细节拉满",
@@ -60665,6 +60729,14 @@
       "onboard_time": 1768644680,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 87223,
+      "num": 87223,
+      "word": "双高胎LOADING大片",
+      "onboard_time": 1769406501,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 87219,
@@ -63075,6 +63147,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 84082,
+      "num": 83949,
+      "word": "苹果自营店和授权店有什么区别",
+      "onboard_time": 1769406800,
+      "rank": 47,
+      "category": "数码"
+    },
+    {
       "raw_hot": 84077,
       "num": 84077,
       "word": "蔡徐坤新专辑",
@@ -63713,6 +63793,14 @@
       "onboard_time": 1767233302,
       "rank": 24,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 82921,
+      "num": 82921,
+      "word": "大爷2万买宝马5天趴窝4次拉断绳",
+      "onboard_time": 1769406620,
+      "rank": 48,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 82914,
@@ -67368,14 +67456,6 @@
       "word": "猝死程序员曾开源项目反996",
       "onboard_time": 1769161761,
       "rank": 24,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 76677,
-      "num": 118868,
-      "word": "国企董事长上门打人被拘3日",
-      "onboard_time": 1769405061,
-      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -77483,6 +77563,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 42706,
+      "num": 641751,
+      "word": "这份新规为未成年人织密防护网",
+      "onboard_time": 1769403801,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42700,
       "num": 53453,
       "word": "伊朗111名安全人员丧生",
@@ -77961,14 +78049,6 @@
       "onboard_time": 1769396719,
       "rank": 23,
       "category": "美食"
-    },
-    {
-      "raw_hot": 40975,
-      "num": 641751,
-      "word": "这份新规为未成年人织密防护网",
-      "onboard_time": 1769403801,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 40949,
@@ -81425,6 +81505,14 @@
       "onboard_time": 1768584077,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 28254,
+      "num": 168034,
+      "word": "高市内阁支持率大幅下跌10%",
+      "onboard_time": 1769406022,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 28243,

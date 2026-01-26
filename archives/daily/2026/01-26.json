@@ -1,6 +1,6 @@
 {
   "startTime": 1769358907478,
-  "endTime": 1769405930079,
+  "endTime": 1769406899405,
   "band_list": [
     {
       "raw_hot": 1195687,
@@ -107,12 +107,20 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 545502,
-      "num": 134166,
+      "raw_hot": 550123,
+      "num": 137248,
       "word": "程序员27岁去美国35岁流落街头",
       "onboard_time": 1769404402,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 509847,
+      "num": 302671,
+      "word": "武汉理工毕业生当保安被母校约谈",
+      "onboard_time": 1769403263,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 501884,
@@ -129,14 +137,6 @@
       "onboard_time": 1769355860,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 489159,
-      "num": 302671,
-      "word": "武汉理工毕业生当保安被母校约谈",
-      "onboard_time": 1769403263,
-      "rank": 11,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 486568,
@@ -171,6 +171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 397909,
+      "num": 299369,
+      "word": "第一次在内娱见男女主是太监和宫女",
+      "onboard_time": 1769403922,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 356287,
       "num": 560518,
       "word": "成毅新片定档春节档",
@@ -187,8 +195,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 319562,
-      "num": 319562,
+      "raw_hot": 322359,
+      "num": 322359,
       "word": "一岁宝宝把爷爷锁阳台了",
       "onboard_time": 1769401462,
       "rank": 14,
@@ -209,14 +217,6 @@
       "onboard_time": 1769389820,
       "rank": 5,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 299369,
-      "num": 299369,
-      "word": "第一次在内娱见男女主是太监和宫女",
-      "onboard_time": 1769403922,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 290109,
@@ -331,6 +331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 216484,
+      "num": 196839,
+      "word": "杨迪晒和网友的聊天记录",
+      "onboard_time": 1769400923,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 210375,
       "num": 210375,
       "word": "王欣瑜vs阿尼西莫娃",
@@ -371,14 +379,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 196839,
-      "num": 196839,
-      "word": "杨迪晒和网友的聊天记录",
-      "onboard_time": 1769400923,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 189686,
       "num": 148005,
       "word": "白嫖辱骂童装店铺的女子已辞职",
@@ -401,6 +401,14 @@
       "onboard_time": 1769395639,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 175314,
+      "num": 175314,
+      "word": "国漫比格犬男友上桌了",
+      "onboard_time": 1769406441,
+      "rank": 8,
+      "category": "动漫"
     },
     {
       "raw_hot": 170623,
@@ -443,12 +451,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 159313,
+      "num": 159313,
+      "word": "车银优聘请NewJeans案律师",
+      "onboard_time": 1769404463,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 157898,
       "num": 130959,
       "word": "问界M6或将成为下一个爆款",
       "onboard_time": 1769392580,
       "rank": 22,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 155695,
+      "num": 775519,
+      "word": "美国派出重兵合围伊朗",
+      "onboard_time": 1769403623,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 155214,
+      "num": 322376,
+      "word": "娱乐圈文被拍成短剧了",
+      "onboard_time": 1769406022,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 152893,
@@ -523,6 +555,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 136901,
+      "num": 136901,
+      "word": "王橹杰 羚羊王子",
+      "onboard_time": 1769406141,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 135916,
       "num": 108909,
       "word": "A股",
@@ -555,11 +595,11 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 126522,
-      "num": 126522,
-      "word": "车银优聘请NewJeans案律师",
-      "onboard_time": 1769404463,
-      "rank": 32,
+      "raw_hot": 126279,
+      "num": 299448,
+      "word": "Fakeme和迪丽热巴双向奔赴",
+      "onboard_time": 1769403983,
+      "rank": 12,
       "category": "艺人"
     },
     {
@@ -611,14 +651,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 120693,
-      "num": 184429,
-      "word": "美国派出重兵合围伊朗",
-      "onboard_time": 1769403623,
-      "rank": 18,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 119547,
       "num": 119547,
       "word": "腊八蒜起源于催款",
@@ -633,14 +665,6 @@
       "onboard_time": 1769332161,
       "rank": 7,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 118519,
-      "num": 299448,
-      "word": "Fakeme和迪丽热巴双向奔赴",
-      "onboard_time": 1769403983,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 118385,
@@ -699,6 +723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 107143,
+      "num": 107143,
+      "word": "建议住五星酒店带行李箱",
+      "onboard_time": 1769405661,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 106023,
       "num": 136673,
       "word": "头一次见国漫全明星走红毯",
@@ -713,6 +745,14 @@
       "onboard_time": 1769400862,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 103937,
+      "num": 103937,
+      "word": "A股超3700只个股下跌",
+      "onboard_time": 1769403202,
+      "rank": 38,
+      "category": "财经"
     },
     {
       "raw_hot": 103727,
@@ -763,6 +803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 100089,
+      "num": 100089,
+      "word": "张学友捐款130万元",
+      "onboard_time": 1769406620,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 99323,
       "num": 99323,
       "word": "成功减掉了30天",
@@ -785,6 +833,14 @@
       "onboard_time": 1769397742,
       "rank": 44,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 97682,
+      "num": 97682,
+      "word": "忘记结婚了习惯性回自己家",
+      "onboard_time": 1769406501,
+      "rank": 41,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 96914,
@@ -819,20 +875,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 96080,
-      "num": 96080,
-      "word": "建议住五星酒店带行李箱",
-      "onboard_time": 1769405661,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 95832,
       "num": 95832,
       "word": "甜腊八粥 咸腊八粥",
       "onboard_time": 1769400202,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 95102,
+      "num": 118868,
+      "word": "国企董事长上门打人被拘3日",
+      "onboard_time": 1769405061,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 93986,
@@ -891,12 +947,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 89589,
+      "num": 89589,
+      "word": "百草味回应958克坚果礼盒坚果33克",
+      "onboard_time": 1769406441,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 88498,
       "num": 190474,
       "word": "建议喜糖都按这个标准来",
       "onboard_time": 1769335160,
       "rank": 18,
       "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 87223,
+      "num": 87223,
+      "word": "双高胎LOADING大片",
+      "onboard_time": 1769406501,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 85800,
@@ -931,6 +1003,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 84082,
+      "num": 83949,
+      "word": "苹果自营店和授权店有什么区别",
+      "onboard_time": 1769406800,
+      "rank": 47,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 84003,
+      "num": 84003,
+      "word": "光与夜之恋",
+      "onboard_time": 1769405781,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 83340,
       "num": 83340,
       "word": "今天腊八",
@@ -945,6 +1033,14 @@
       "onboard_time": 1769402362,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 82921,
+      "num": 82921,
+      "word": "大爷2万买宝马5天趴窝4次拉断绳",
+      "onboard_time": 1769406620,
+      "rank": 48,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 81828,
@@ -1008,14 +1104,6 @@
       "word": "九肥一瘦香肠被调侃可以当蜡烛用",
       "onboard_time": 1769401823,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 76677,
-      "num": 118868,
-      "word": "国企董事长上门打人被拘3日",
-      "onboard_time": 1769405061,
-      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -1387,6 +1475,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 42706,
+      "num": 641751,
+      "word": "这份新规为未成年人织密防护网",
+      "onboard_time": 1769403801,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41325,
       "num": 68636,
       "word": "11斤多澳龙被收13斤的钱",
@@ -1409,14 +1505,6 @@
       "onboard_time": 1769396719,
       "rank": 23,
       "category": "美食"
-    },
-    {
-      "raw_hot": 40975,
-      "num": 641751,
-      "word": "这份新规为未成年人织密防护网",
-      "onboard_time": 1769403801,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 40795,
@@ -1553,6 +1641,14 @@
       "onboard_time": 1769345602,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28254,
+      "num": 168034,
+      "word": "高市内阁支持率大幅下跌10%",
+      "onboard_time": 1769406022,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 25890,
