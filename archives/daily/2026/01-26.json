@@ -1,6 +1,6 @@
 {
   "startTime": 1769358907478,
-  "endTime": 1769433995600,
+  "endTime": 1769435666113,
   "band_list": [
     {
       "raw_hot": 9558023,
@@ -20,11 +20,19 @@
     },
     {
       "raw_hot": 1562420,
-      "num": 172910,
+      "num": 185369,
       "word": "车银优承认逃税",
       "onboard_time": 1769427921,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1379281,
+      "num": 186180,
+      "word": "微博之夜猜阵容",
+      "onboard_time": 1769434761,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1210515,
@@ -267,6 +275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 461681,
+      "num": 241396,
+      "word": "金价飙升原因找到了",
+      "onboard_time": 1769423241,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 451975,
       "num": 784925,
       "word": "芒果新签女艺人做梦都想去花少8",
@@ -276,7 +292,7 @@
     },
     {
       "raw_hot": 420568,
-      "num": 764478,
+      "num": 804133,
       "word": "6名中国男子日本滑雪被困死亡谷",
       "onboard_time": 1769429183,
       "rank": 3,
@@ -419,6 +435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 318533,
+      "num": 185135,
+      "word": "童锦程自曝想和林志玲牵手",
+      "onboard_time": 1769429482,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 317688,
       "num": 317688,
       "word": "大爷2万买宝马5天趴窝4次拉断绳",
@@ -427,20 +451,20 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 310104,
-      "num": 241396,
-      "word": "金价飙升原因找到了",
-      "onboard_time": 1769423241,
-      "rank": 27,
-      "category": "财经"
-    },
-    {
       "raw_hot": 308025,
       "num": 142417,
       "word": "田栩宁工作室发告黑进展",
       "onboard_time": 1769409320,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 305701,
+      "num": 147141,
+      "word": "男子彩票中800余万交妻子淡定上班",
+      "onboard_time": 1769435481,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 305514,
@@ -484,7 +508,7 @@
     },
     {
       "raw_hot": 287447,
-      "num": 171343,
+      "num": 184545,
       "word": "赵樱子直播间发飙怼助理",
       "onboard_time": 1769426302,
       "rank": 33,
@@ -596,7 +620,7 @@
     },
     {
       "raw_hot": 261462,
-      "num": 167716,
+      "num": 175545,
       "word": "内娱喵系男艺人",
       "onboard_time": 1769425940,
       "rank": 26,
@@ -609,6 +633,14 @@
       "onboard_time": 1769397559,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 256754,
+      "num": 158817,
+      "word": "车厘子包装袋不要丢",
+      "onboard_time": 1769433262,
+      "rank": 24,
+      "category": "科学科普"
     },
     {
       "raw_hot": 255898,
@@ -747,12 +779,12 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 230337,
-      "num": 160172,
-      "word": "童锦程自曝想和林志玲牵手",
-      "onboard_time": 1769429482,
-      "rank": 23,
-      "category": "艺人"
+      "raw_hot": 230589,
+      "num": 147831,
+      "word": "TOP xr手机",
+      "onboard_time": 1769434163,
+      "rank": 19,
+      "category": "艺人,数码"
     },
     {
       "raw_hot": 227834,
@@ -809,6 +841,14 @@
       "onboard_time": 1769384239,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 201140,
+      "num": 185678,
+      "word": "台湾省314人因冷空气去世",
+      "onboard_time": 1769433983,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 200760,
@@ -987,14 +1027,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 158817,
-      "num": 158817,
-      "word": "车厘子包装袋不要丢",
-      "onboard_time": 1769433262,
-      "rank": 24,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 157898,
       "num": 130959,
       "word": "问界M6或将成为下一个爆款",
@@ -1059,6 +1091,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 146376,
+      "num": 146376,
+      "word": "左航发的花絮图",
+      "onboard_time": 1769434401,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 145450,
       "num": 145450,
       "word": "Angelababy 像素模糊但建模清晰",
@@ -1105,6 +1145,14 @@
       "onboard_time": 1769416281,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 141370,
+      "num": 141370,
+      "word": "新郎新娘坐马车意外翻进沟里",
+      "onboard_time": 1769432541,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 141033,
@@ -1475,14 +1523,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 111002,
-      "num": 111002,
-      "word": "新郎新娘坐马车意外翻进沟里",
-      "onboard_time": 1769432541,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 108767,
       "num": 108767,
       "word": "U23国足载誉而归",
@@ -1603,6 +1643,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 103581,
+      "num": 190393,
+      "word": "太平年",
+      "onboard_time": 1769346682,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 103511,
       "num": 103511,
       "word": "美国出现大麻抢购潮",
@@ -1697,14 +1745,6 @@
       "onboard_time": 1769402481,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 100254,
-      "num": 190393,
-      "word": "太平年",
-      "onboard_time": 1769346682,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 99323,
@@ -2147,6 +2187,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 82433,
+      "num": 82433,
+      "word": "李想临时召开线上公司全员会",
+      "onboard_time": 1769434761,
+      "rank": 36,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 81949,
       "num": 81949,
       "word": "林孝埈为米兰冬奥会第九次手术",
@@ -2227,11 +2275,35 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 79908,
+      "num": 79908,
+      "word": "王楚钦又幽默了",
+      "onboard_time": 1769433983,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 79843,
       "num": 110583,
       "word": "去相亲被安利三小时刘浩存",
       "onboard_time": 1769411842,
       "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 79547,
+      "num": 79547,
+      "word": "BLG又被JDG翻盘了",
+      "onboard_time": 1769434041,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 79470,
+      "num": 79470,
+      "word": "李亚鹏为女儿李嫣费尽心血",
+      "onboard_time": 1769435541,
+      "rank": 41,
       "category": "艺人"
     },
     {
@@ -2321,6 +2393,14 @@
       "onboard_time": 1769401823,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76864,
+      "num": 76864,
+      "word": "BLG对战JDG",
+      "onboard_time": 1769434761,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 75732,
@@ -2529,6 +2609,14 @@
       "onboard_time": 1769425161,
       "rank": 49,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 67415,
+      "num": 67415,
+      "word": "印度阅兵式",
+      "onboard_time": 1769435062,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 67037,
@@ -3105,6 +3193,14 @@
       "onboard_time": 1769419942,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26631,
+      "num": 594296,
+      "word": "大数据看我国消费新亮点",
+      "onboard_time": 1769434642,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 26003,
