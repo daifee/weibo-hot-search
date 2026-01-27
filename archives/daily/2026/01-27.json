@@ -1,6 +1,6 @@
 {
   "startTime": 1769445836222,
-  "endTime": 1769522618739,
+  "endTime": 1769524732102,
   "band_list": [
     {
       "raw_hot": 3419891,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1258823,
-      "num": 194201,
+      "num": 262654,
       "word": "张雨绮多个商务被取消",
       "onboard_time": 1769505682,
       "rank": 21,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1117646,
-      "num": 195021,
+      "num": 239507,
       "word": "何健麒公开无犯罪记录证明",
       "onboard_time": 1769515701,
       "rank": 20,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1077806,
-      "num": 196244,
+      "num": 319519,
       "word": "小酒窝去天津找亲爸了",
       "onboard_time": 1769517860,
       "rank": 22,
@@ -91,6 +91,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 764631,
+      "num": 295428,
+      "word": "黄金",
+      "onboard_time": 1769517320,
+      "rank": 23,
+      "category": "财经"
+    },
+    {
       "raw_hot": 750844,
       "num": 268808,
       "word": "刘亦菲 祖玛珑",
@@ -113,14 +121,6 @@
       "onboard_time": 1769495060,
       "rank": 15,
       "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 688116,
-      "num": 195206,
-      "word": "黄金",
-      "onboard_time": 1769517320,
-      "rank": 23,
-      "category": "财经"
     },
     {
       "raw_hot": 680038,
@@ -179,6 +179,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 571055,
+      "num": 571055,
+      "word": "娱乐圈四大不倒人设",
+      "onboard_time": 1769519721,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 569143,
+      "num": 569143,
+      "word": "大批中成药将退出市场",
+      "onboard_time": 1769521101,
+      "rank": 16,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 561258,
       "num": 561258,
       "word": "李蓓清仓黄金",
@@ -217,6 +233,14 @@
       "onboard_time": 1769500281,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 534779,
+      "num": 799095,
+      "word": "50万亿存款",
+      "onboard_time": 1769505502,
+      "rank": 13,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 529193,
@@ -275,16 +299,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 494276,
-      "num": 799095,
-      "word": "50万亿存款",
-      "onboard_time": 1769505502,
-      "rank": 13,
-      "category": "财经,民生新闻"
-    },
-    {
       "raw_hot": 492302,
-      "num": 795075,
+      "num": 797322,
       "word": "多地对国企近亲繁殖出手了",
       "onboard_time": 1769510421,
       "rank": 15,
@@ -379,6 +395,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 402340,
+      "num": 402340,
+      "word": "伊能静剪了十年没剪的斜刘海",
+      "onboard_time": 1769522063,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 392260,
       "num": 392260,
       "word": "王橹杰出演顾晨阳",
@@ -411,6 +435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 372725,
+      "num": 634400,
+      "word": "我们的少年时代2",
+      "onboard_time": 1769517800,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 367868,
       "num": 367868,
       "word": "美国多地暴雪无家可归者仍露宿街头",
@@ -420,7 +452,7 @@
     },
     {
       "raw_hot": 364396,
-      "num": 193389,
+      "num": 217565,
       "word": "孕妇吃了一块冷藏蛋糕导致胎儿早产",
       "onboard_time": 1769518281,
       "rank": 26,
@@ -507,8 +539,16 @@
       "category": "财经"
     },
     {
+      "raw_hot": 325697,
+      "num": 325697,
+      "word": "马化腾称腾讯已从美团京东投资中退出",
+      "onboard_time": 1769521224,
+      "rank": 13,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 324762,
-      "num": 524770,
+      "num": 593001,
       "word": "为什么教师行业没有起床气",
       "onboard_time": 1769503521,
       "rank": 25,
@@ -595,14 +635,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 302369,
-      "num": 302369,
-      "word": "马化腾称腾讯已从美团京东投资中退出",
-      "onboard_time": 1769521224,
-      "rank": 13,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 299572,
       "num": 188770,
       "word": "徐冬冬尹子维结婚线下排面",
@@ -612,7 +644,7 @@
     },
     {
       "raw_hot": 295119,
-      "num": 584253,
+      "num": 600638,
       "word": "周大生店员反问顾客买得起吗",
       "onboard_time": 1769515881,
       "rank": 6,
@@ -668,7 +700,7 @@
     },
     {
       "raw_hot": 280913,
-      "num": 198291,
+      "num": 201958,
       "word": "易烊千玺 造型",
       "onboard_time": 1769511081,
       "rank": 36,
@@ -803,12 +835,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 223034,
-      "num": 551822,
-      "word": "我们的少年时代2",
-      "onboard_time": 1769517800,
-      "rank": 34,
-      "category": "剧集"
+      "raw_hot": 224182,
+      "num": 224182,
+      "word": "姜丹尼尔赖冠霖不参加wannaone重聚",
+      "onboard_time": 1769522662,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 222723,
@@ -843,20 +875,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 217597,
-      "num": 217597,
-      "word": "大批中成药将退出市场",
-      "onboard_time": 1769521101,
-      "rank": 16,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 217357,
       "num": 217357,
       "word": "时代峰峻最著名的一滴泪",
       "onboard_time": 1769488582,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 213091,
+      "num": 207620,
+      "word": "鹿晗五哈坐囚车路透",
+      "onboard_time": 1769523862,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 212386,
@@ -907,14 +939,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 191970,
-      "num": 191970,
-      "word": "娱乐圈四大不倒人设",
-      "onboard_time": 1769519721,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 186641,
       "num": 186641,
       "word": "第五人格",
@@ -947,12 +971,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 179579,
+      "num": 202103,
+      "word": "2026年房价会涨还是跌",
+      "onboard_time": 1769523742,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 179045,
       "num": 173530,
       "word": "好利来涉事产品已全部销毁",
       "onboard_time": 1769495120,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 171755,
+      "num": 171755,
+      "word": "娜扎好六上班美成啥样了",
+      "onboard_time": 1769521521,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 171617,
@@ -969,6 +1009,14 @@
       "onboard_time": 1769469197,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 161473,
+      "num": 618912,
+      "word": "中方回应加拿大出售白鲸给美国",
+      "onboard_time": 1769522542,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 158611,
@@ -1089,6 +1137,14 @@
       "onboard_time": 1769483301,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 143284,
+      "num": 581672,
+      "word": "王者荣耀",
+      "onboard_time": 1769523621,
+      "rank": 8,
+      "category": "电竞"
     },
     {
       "raw_hot": 141688,
@@ -1243,14 +1299,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 125141,
-      "num": 125141,
-      "word": "伊能静剪了十年没剪的斜刘海",
-      "onboard_time": 1769522063,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 125113,
       "num": 125113,
       "word": "姚冠宇新短剧三榜冠军",
@@ -1289,6 +1337,14 @@
       "onboard_time": 1769486481,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 121648,
+      "num": 184300,
+      "word": "猫箱崩了",
+      "onboard_time": 1769523502,
+      "rank": 32,
+      "category": "互联网,动漫"
     },
     {
       "raw_hot": 121528,
@@ -1363,7 +1419,15 @@
       "category": "演出"
     },
     {
-      "raw_hot": 118215,
+      "raw_hot": 118780,
+      "num": 149591,
+      "word": "公司称猝死程序员未按要求做体检",
+      "onboard_time": 1769522842,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118434,
       "num": 139427,
       "word": "桃黑黑打王者",
       "onboard_time": 1769520260,
@@ -1377,14 +1441,6 @@
       "onboard_time": 1769469679,
       "rank": 25,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 118058,
-      "num": 118058,
-      "word": "娜扎好六上班美成啥样了",
-      "onboard_time": 1769521521,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 116682,
@@ -1465,6 +1521,14 @@
       "onboard_time": 1769486180,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 113382,
+      "num": 113382,
+      "word": "店主在穿脏退回的衣服掏出100元",
+      "onboard_time": 1769523142,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 113054,
@@ -1851,6 +1915,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 95564,
+      "num": 95564,
+      "word": "新疆有看不完的梦幻仙境",
+      "onboard_time": 1769524521,
+      "rank": 48,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 95489,
       "num": 95489,
       "word": "过年我就这样送礼",
@@ -2065,6 +2137,14 @@
       "onboard_time": 1769497280,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 88213,
+      "num": 580146,
+      "word": "天地无察但我在乎",
+      "onboard_time": 1769523382,
+      "rank": 9,
+      "category": "旅游"
     },
     {
       "raw_hot": 88034,
@@ -2539,19 +2619,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 69905,
-      "num": 84735,
-      "word": "中方回应加拿大出售白鲸给美国",
-      "onboard_time": 1769522542,
-      "rank": 47,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 69827,
       "num": 69827,
       "word": "山姆499元羽绒服羽绒成本约为186元",
       "onboard_time": 1769425882,
       "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 68764,
+      "num": 338686,
+      "word": "MUJI门店做家务的模特是男的",
+      "onboard_time": 1769523802,
+      "rank": 15,
       "category": "民生新闻"
     },
     {
@@ -2739,6 +2819,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 54548,
+      "num": 334693,
+      "word": "湖南省考多地监狱岗位仅招艺术类",
+      "onboard_time": 1769524043,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 53989,
       "num": 53989,
       "word": "印度暴发尼帕病毒疫情",
@@ -2841,6 +2929,14 @@
       "onboard_time": 1769498960,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 47057,
+      "num": 120146,
+      "word": "女子机洗羽绒服脸被炸伤",
+      "onboard_time": 1769524461,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 46078,
@@ -3179,6 +3275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 21453,
+      "num": 635833,
+      "word": "2026逐梦中国",
+      "onboard_time": 1769519663,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21040,
       "num": 38767,
       "word": "好利来事发门店回应掉地面包捡起售卖",
@@ -3211,12 +3315,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 19104,
-      "num": 635190,
-      "word": "2026逐梦中国",
-      "onboard_time": 1769519663,
-      "rank": 2,
-      "category": "民生新闻"
+      "raw_hot": 19146,
+      "num": 119001,
+      "word": "以色列女子看电视发现自己死在伊朗",
+      "onboard_time": 1769524342,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 17899,
@@ -3265,6 +3369,14 @@
       "onboard_time": 1769457553,
       "rank": 31,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 14714,
+      "num": 331532,
+      "word": "1克黄金竟能打造一张完整黄金婚书",
+      "onboard_time": 1769524342,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14692,
