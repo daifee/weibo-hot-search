@@ -1,6 +1,6 @@
 {
   "startTime": 1769531989527,
-  "endTime": 1769533106531,
+  "endTime": 1769535396695,
   "band_list": [
     {
       "raw_hot": 739079,
@@ -147,6 +147,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 126052,
+      "num": 126052,
+      "word": "运毒车逃逸时坠河470万颗冰毒落水",
+      "onboard_time": 1769531599,
+      "rank": 33,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 125965,
+      "num": 125965,
+      "word": "团播不得浓妆艳抹过度磨皮美颜",
+      "onboard_time": 1769529081,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 124893,
       "num": 124893,
       "word": "姜丹尼尔赖冠霖不参加wannaone重聚",
@@ -203,14 +219,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 100650,
-      "num": 73189,
-      "word": "运毒车逃逸时坠河470万颗冰毒落水",
-      "onboard_time": 1769531599,
-      "rank": 33,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 100318,
       "num": 74027,
       "word": "孕妇吃了一块冷藏蛋糕导致胎儿早产",
@@ -233,14 +241,6 @@
       "onboard_time": 1769528120,
       "rank": 19,
       "category": "数码"
-    },
-    {
-      "raw_hot": 86707,
-      "num": 100632,
-      "word": "团播不得浓妆艳抹过度磨皮美颜",
-      "onboard_time": 1769529081,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 84899,
@@ -268,7 +268,7 @@
     },
     {
       "raw_hot": 70955,
-      "num": 70955,
+      "num": 72424,
       "word": "微博之夜",
       "onboard_time": 1769487741,
       "rank": 35,
@@ -387,12 +387,44 @@
       "category": "情感"
     },
     {
+      "raw_hot": 36996,
+      "num": 36996,
+      "word": "山崎贤人近况",
+      "onboard_time": 1769532798,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 32339,
+      "num": 32339,
+      "word": "你好星期六",
+      "onboard_time": 1769534956,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 31255,
+      "num": 31255,
+      "word": "声生不息华流季",
+      "onboard_time": 1769534837,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 31178,
       "num": 43620,
       "word": "多地对国企近亲繁殖出手了",
       "onboard_time": 1769510421,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30114,
+      "num": 30114,
+      "word": "那英说沈梦辰嫁给杜海涛眼光好",
+      "onboard_time": 1769519781,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 29325,
@@ -403,12 +435,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 28250,
+      "num": 28250,
+      "word": "太平年",
+      "onboard_time": 1769519541,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 27524,
       "num": 43602,
       "word": "Dior的鲜花一直盛开",
       "onboard_time": 1769517140,
       "rank": 49,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 26746,
+      "num": 26746,
+      "word": "QQ音乐超级巅峰之夜",
+      "onboard_time": 1769534176,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 26239,
+      "num": 26239,
+      "word": "团播不得诱导消费和组织排名攀比",
+      "onboard_time": 1769535376,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24489,
