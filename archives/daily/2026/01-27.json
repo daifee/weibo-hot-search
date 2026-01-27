@@ -1,7 +1,15 @@
 {
   "startTime": 1769445836222,
-  "endTime": 1769480635841,
+  "endTime": 1769481699506,
   "band_list": [
+    {
+      "raw_hot": 1006911,
+      "num": 179228,
+      "word": "金价",
+      "onboard_time": 1769475263,
+      "rank": 20,
+      "category": "财经"
+    },
     {
       "raw_hot": 657477,
       "num": 71159,
@@ -11,16 +19,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 657351,
-      "num": 112096,
-      "word": "金价",
-      "onboard_time": 1769475263,
-      "rank": 20,
-      "category": "财经"
-    },
-    {
       "raw_hot": 653834,
-      "num": 232119,
+      "num": 237874,
       "word": "爸爸怀疑女儿用纸巾擦头发暴力打砸",
       "onboard_time": 1769471300,
       "rank": 10,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 614076,
-      "num": 111935,
+      "num": 174914,
       "word": "一家三口被撞身亡案家属抗诉被驳回",
       "onboard_time": 1769475081,
       "rank": 21,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 506688,
-      "num": 228905,
+      "num": 236060,
       "word": "丁禹兮 钱在哪爱就在哪",
       "onboard_time": 1769476041,
       "rank": 11,
@@ -68,11 +68,19 @@
     },
     {
       "raw_hot": 485394,
-      "num": 271476,
+      "num": 364090,
       "word": "女子免疫系统攻击胚胎8年反复流产",
       "onboard_time": 1769477961,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 421571,
+      "num": 790589,
+      "word": "生命树定档",
+      "onboard_time": 1769480302,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 417841,
@@ -81,6 +89,14 @@
       "onboard_time": 1769478920,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 386238,
+      "num": 386238,
+      "word": "50万亿存款将到期用户寻找存款贵替",
+      "onboard_time": 1769476219,
+      "rank": 29,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 385617,
@@ -92,7 +108,7 @@
     },
     {
       "raw_hot": 353947,
-      "num": 222952,
+      "num": 230154,
       "word": "睡得少和睡得晚哪个更伤身体",
       "onboard_time": 1769472561,
       "rank": 12,
@@ -108,7 +124,7 @@
     },
     {
       "raw_hot": 342398,
-      "num": 111813,
+      "num": 173493,
       "word": "金价银价巨震",
       "onboard_time": 1769476880,
       "rank": 22,
@@ -116,7 +132,7 @@
     },
     {
       "raw_hot": 333670,
-      "num": 111602,
+      "num": 170828,
       "word": "李登科建议赖冠霖先找个班上",
       "onboard_time": 1769474602,
       "rank": 23,
@@ -155,12 +171,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 313456,
+      "num": 232842,
+      "word": "向佐为郭碧婷买了个巨型猪公仔",
+      "onboard_time": 1769480839,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 308598,
-      "num": 262099,
+      "num": 268617,
       "word": "两个弟弟出门买的年货",
       "onboard_time": 1769477540,
       "rank": 6,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 293638,
+      "num": 293638,
+      "word": "星河入梦定档春节",
+      "onboard_time": 1769479939,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 282390,
@@ -180,7 +212,7 @@
     },
     {
       "raw_hot": 274504,
-      "num": 211943,
+      "num": 225123,
       "word": "A股",
       "onboard_time": 1769479760,
       "rank": 13,
@@ -219,11 +251,27 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 239914,
+      "num": 239914,
+      "word": "香港4名公务员表现欠佳被着令退休",
+      "onboard_time": 1769480120,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 234155,
       "num": 117586,
       "word": "何健麒尿检",
       "onboard_time": 1769428941,
       "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 224061,
+      "num": 224061,
+      "word": "刘亦菲 祖玛珑",
+      "onboard_time": 1769481081,
+      "rank": 16,
       "category": "艺人"
     },
     {
@@ -259,6 +307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 180235,
+      "num": 180235,
+      "word": "每一个近视眼都应该少吃糖",
+      "onboard_time": 1769477240,
+      "rank": 27,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 165995,
       "num": 71163,
       "word": "田栩宁把梓渝粉丝告了",
@@ -284,7 +340,7 @@
     },
     {
       "raw_hot": 148560,
-      "num": 111407,
+      "num": 126851,
       "word": "黄金涨到水贝商家都害怕",
       "onboard_time": 1769474061,
       "rank": 25,
@@ -297,14 +353,6 @@
       "onboard_time": 1769469197,
       "rank": 19,
       "category": "财经"
-    },
-    {
-      "raw_hot": 146143,
-      "num": 111057,
-      "word": "每一个近视眼都应该少吃糖",
-      "onboard_time": 1769477240,
-      "rank": 27,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 134422,
@@ -323,22 +371,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 128553,
-      "num": 128553,
-      "word": "星河入梦定档春节",
-      "onboard_time": 1769479939,
-      "rank": 16,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 127669,
-      "num": 127669,
-      "word": "生命树定档",
-      "onboard_time": 1769480302,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 127194,
       "num": 127194,
       "word": "DIOR大秀",
@@ -355,12 +387,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 123435,
+      "num": 123435,
+      "word": "成年人的睡眠有2个底线",
+      "onboard_time": 1769476939,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 123274,
       "num": 123274,
       "word": "49条中日航线取消全部航班",
       "onboard_time": 1769427562,
       "rank": 48,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 121220,
+      "num": 121220,
+      "word": "传染尼帕病毒的生枣椰汁是什么",
+      "onboard_time": 1769479460,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 118159,
@@ -387,28 +435,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 116190,
-      "num": 110893,
-      "word": "成年人的睡眠有2个底线",
-      "onboard_time": 1769476939,
-      "rank": 28,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 111679,
       "num": 111679,
       "word": "女子15岁时妈妈去世产后爸爸照顾月子",
       "onboard_time": 1769469438,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 110832,
-      "num": 110832,
-      "word": "50万亿存款将到期用户寻找存款贵替",
-      "onboard_time": 1769476219,
-      "rank": 29,
-      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 110430,
@@ -435,20 +467,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 106152,
-      "num": 106152,
-      "word": "传染尼帕病毒的生枣椰汁是什么",
-      "onboard_time": 1769479460,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 105330,
       "num": 105330,
       "word": "12306回应带小孩被分静音车厢",
       "onboard_time": 1769442799,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104388,
+      "num": 104388,
+      "word": "唐宫奇案之青雾风鸣",
+      "onboard_time": 1769481200,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 104325,
@@ -464,14 +496,6 @@
       "word": "92岁老人每天睡超20小时身体倍棒",
       "onboard_time": 1769426541,
       "rank": 7,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 101071,
-      "num": 101071,
-      "word": "香港4名公务员表现欠佳被着令退休",
-      "onboard_time": 1769480120,
-      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -499,6 +523,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 94344,
+      "num": 94344,
+      "word": "电影镖人还原武侠本色",
+      "onboard_time": 1769481081,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 93541,
+      "num": 93541,
+      "word": "iOS26.2.1正式版来了",
+      "onboard_time": 1769480660,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
       "raw_hot": 92538,
       "num": 92538,
       "word": "50万亿天量存款将到期",
@@ -523,12 +563,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 88722,
+      "num": 88722,
+      "word": "林孝埈参加成团仪式",
+      "onboard_time": 1769481440,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 88034,
       "num": 88034,
       "word": "王玉雯扛住了G社镜头",
       "onboard_time": 1769471359,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 87618,
+      "num": 87618,
+      "word": "现在自己做饭已经不能省钱了",
+      "onboard_time": 1769478501,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 86923,
@@ -539,12 +595,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 84155,
-      "num": 84155,
-      "word": "现在自己做饭已经不能省钱了",
-      "onboard_time": 1769478501,
-      "rank": 44,
-      "category": "幽默"
+      "raw_hot": 85536,
+      "num": 85536,
+      "word": "安踏体育收购彪马公司29.06%股权",
+      "onboard_time": 1769480241,
+      "rank": 43,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 84099,
@@ -595,6 +651,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 78581,
+      "num": 76821,
+      "word": "陈卓璇回应化雪争议",
+      "onboard_time": 1769481501,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 78327,
       "num": 78327,
       "word": "现货白银抹去14%涨幅",
@@ -617,6 +681,14 @@
       "onboard_time": 1769442500,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76251,
+      "num": 111239,
+      "word": "孟加拉国尼帕病毒源于果蝠污染饮料",
+      "onboard_time": 1769480360,
+      "rank": 26,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 75494,
@@ -907,14 +979,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 27845,
-      "num": 111239,
-      "word": "孟加拉国尼帕病毒源于果蝠污染饮料",
-      "onboard_time": 1769480360,
-      "rank": 26,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 25778,
       "num": 25778,
       "word": "刘宇宁好事马上发生",
@@ -923,8 +987,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 25313,
+      "num": 88690,
+      "word": "吉林有村民称自家狗被老虎叼走吃掉",
+      "onboard_time": 1769480839,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24646,
-      "num": 630313,
+      "num": 652742,
       "word": "2025中国十大科技进展新闻",
       "onboard_time": 1769436802,
       "rank": 2,
