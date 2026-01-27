@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769529181759,
+  "endTime": 1769531989527,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -12251,6 +12251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 362169,
+      "num": 150616,
+      "word": "日本一女性在同一家公司上班近70年",
+      "onboard_time": 1769527222,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 361961,
       "num": 361961,
       "word": "申论",
@@ -13929,6 +13937,14 @@
       "onboard_time": 1768560023,
       "rank": 9,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 328316,
+      "num": 80835,
+      "word": "多品牌紧急删除张雨绮相关代言内容",
+      "onboard_time": 1769530280,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 328307,
@@ -33987,14 +34003,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 150616,
-      "num": 150616,
-      "word": "日本一女性在同一家公司上班近70年",
-      "onboard_time": 1769527222,
-      "rank": 39,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 150576,
       "num": 185415,
       "word": "心有林曦初吻",
@@ -39259,6 +39267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 133269,
+      "num": 131832,
+      "word": "孙颖莎王曼昱蒯曼聚餐",
+      "onboard_time": 1769529501,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 133264,
       "num": 133264,
       "word": "百万博主曝餐馆死亡男孩常遭打骂",
@@ -39481,6 +39497,14 @@
       "onboard_time": 1768273819,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 132401,
+      "num": 269227,
+      "word": "澳大利亚多地逼近50℃",
+      "onboard_time": 1769527040,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 132363,
@@ -40361,14 +40385,6 @@
       "onboard_time": 1767431004,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 129531,
-      "num": 269227,
-      "word": "澳大利亚多地逼近50℃",
-      "onboard_time": 1769527040,
-      "rank": 9,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 129509,
@@ -52385,6 +52401,14 @@
       "onboard_time": 1769240781,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 103777,
+      "num": 75827,
+      "word": "女子买100克黄金轮胎手镯赚4万多",
+      "onboard_time": 1769528721,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 103754,
@@ -68099,6 +68123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 81710,
+      "num": 81710,
+      "word": "iPhone4S为何突然迎来第二春",
+      "onboard_time": 1769528120,
+      "rank": 47,
+      "category": "数码"
+    },
+    {
       "raw_hot": 81706,
       "num": 81706,
       "word": "王一博深情歌唱无名",
@@ -69379,6 +69411,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 79849,
+      "num": 73189,
+      "word": "运毒车逃逸时坠河470万颗冰毒落水",
+      "onboard_time": 1769531599,
+      "rank": 33,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 79847,
       "num": 79847,
       "word": "女子买裤子穿50天后申请仅退款",
@@ -69705,14 +69745,6 @@
       "onboard_time": 1768822461,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 79373,
-      "num": 79373,
-      "word": "iPhone4S为何突然迎来第二春",
-      "onboard_time": 1769528120,
-      "rank": 47,
-      "category": "数码"
     },
     {
       "raw_hot": 79366,
@@ -70907,6 +70939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 77246,
+      "num": 79038,
+      "word": "团播不得浓妆艳抹过度磨皮美颜",
+      "onboard_time": 1769529081,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77244,
       "num": 77244,
       "word": "TF家族新年音乐会",
@@ -71657,14 +71697,6 @@
       "onboard_time": 1767868161,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 75827,
-      "num": 75827,
-      "word": "女子买100克黄金轮胎手镯赚4万多",
-      "onboard_time": 1769528721,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 75814,
@@ -77587,14 +77619,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 60646,
-      "num": 79038,
-      "word": "团播不得浓妆艳抹过度磨皮美颜",
-      "onboard_time": 1769529081,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 60637,
       "num": 371104,
       "word": "日本失控将给日本人民造成毁灭性灾难",
@@ -80971,6 +80995,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 47143,
+      "num": 47143,
+      "word": "提到iPhoneAir销量卖手机的笑了",
+      "onboard_time": 1769530939,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
       "raw_hot": 47129,
       "num": 245828,
       "word": "一路繁花第二季群像封神",
@@ -81177,6 +81209,14 @@
       "onboard_time": 1767256460,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 46314,
+      "num": 46314,
+      "word": "王橹杰练习室花絮照",
+      "onboard_time": 1769531298,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 46240,
@@ -88400,6 +88440,14 @@
       "word": "我国搭建了星辰大海攻坚站",
       "onboard_time": 1769503640,
       "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20908,
+      "num": 61194,
+      "word": "重庆合川刨猪汤要申非遗了",
+      "onboard_time": 1769530819,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
