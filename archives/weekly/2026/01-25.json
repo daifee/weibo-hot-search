@@ -1,6 +1,6 @@
 {
   "startTime": 1769272464158,
-  "endTime": 1769481699506,
+  "endTime": 1769487237669,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -227,6 +227,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 750844,
+      "num": 268808,
+      "word": "刘亦菲 祖玛珑",
+      "onboard_time": 1769481081,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 748716,
       "num": 748716,
       "word": "U23国足进球被吹",
@@ -249,6 +257,14 @@
       "onboard_time": 1769397501,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 723216,
+      "num": 1115714,
+      "word": "50万亿存款将到期用户寻找存款贵替",
+      "onboard_time": 1769476219,
+      "rank": 29,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 719215,
@@ -316,7 +332,7 @@
     },
     {
       "raw_hot": 653834,
-      "num": 237874,
+      "num": 264388,
       "word": "爸爸怀疑女儿用纸巾擦头发暴力打砸",
       "onboard_time": 1769471300,
       "rank": 10,
@@ -531,6 +547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 527816,
+      "num": 259609,
+      "word": "向佐为郭碧婷买了个巨型猪公仔",
+      "onboard_time": 1769480839,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 520258,
       "num": 1083241,
       "word": "92岁老人每天睡超20小时身体倍棒",
@@ -673,6 +697,14 @@
       "onboard_time": 1769411722,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 473598,
+      "num": 255880,
+      "word": "丁真名下工作室欠税3.4万被公告",
+      "onboard_time": 1769485940,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 465228,
@@ -867,6 +899,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 399080,
+      "num": 804409,
+      "word": "支付宝集福",
+      "onboard_time": 1769483781,
+      "rank": 1,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 397909,
       "num": 299369,
       "word": "第一次在内娱见男女主是太监和宫女",
@@ -897,14 +937,6 @@
       "onboard_time": 1769337200,
       "rank": 12,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 386238,
-      "num": 386238,
-      "word": "50万亿存款将到期用户寻找存款贵替",
-      "onboard_time": 1769476219,
-      "rank": 29,
-      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 382227,
@@ -945,6 +977,14 @@
       "onboard_time": 1769337441,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 367868,
+      "num": 367868,
+      "word": "美国多地暴雪无家可归者仍露宿街头",
+      "onboard_time": 1769484140,
+      "rank": 3,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 362901,
@@ -1028,7 +1068,7 @@
     },
     {
       "raw_hot": 342398,
-      "num": 173493,
+      "num": 229503,
       "word": "金价银价巨震",
       "onboard_time": 1769476880,
       "rank": 22,
@@ -1065,6 +1105,14 @@
       "onboard_time": 1769474602,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 333219,
+      "num": 333219,
+      "word": "银行打响存款争夺战",
+      "onboard_time": 1769485041,
+      "rank": 4,
+      "category": "财经"
     },
     {
       "raw_hot": 333040,
@@ -1235,14 +1283,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 313456,
-      "num": 232842,
-      "word": "向佐为郭碧婷买了个巨型猪公仔",
-      "onboard_time": 1769480839,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 312055,
       "num": 312055,
       "word": "格陵兰岛首府全城一片漆黑",
@@ -1411,6 +1451,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 281133,
+      "num": 281133,
+      "word": "香港4名公务员表现欠佳被着令退休",
+      "onboard_time": 1769480120,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 278025,
       "num": 278025,
       "word": "国足 2030世界杯",
@@ -1497,6 +1545,14 @@
       "onboard_time": 1769316741,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 269243,
+      "num": 269243,
+      "word": "办公室奶茶文化",
+      "onboard_time": 1769485882,
+      "rank": 9,
+      "category": "幽默"
     },
     {
       "raw_hot": 267524,
@@ -1763,14 +1819,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 239914,
-      "num": 239914,
-      "word": "香港4名公务员表现欠佳被着令退休",
-      "onboard_time": 1769480120,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 237670,
       "num": 154178,
       "word": "商家在我的豆浆里放了个杯子",
@@ -1867,6 +1915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 231738,
+      "num": 231738,
+      "word": "好利来道歉",
+      "onboard_time": 1769484801,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 231342,
       "num": 231342,
       "word": "angelababy能打破花少单双季魔咒吗",
@@ -1921,14 +1977,6 @@
       "onboard_time": 1769420730,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 224061,
-      "num": 224061,
-      "word": "刘亦菲 祖玛珑",
-      "onboard_time": 1769481081,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 222876,
@@ -2531,12 +2579,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 157576,
+      "num": 157576,
+      "word": "QQ音乐超级巅峰之夜全阵容",
+      "onboard_time": 1769485281,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 157393,
       "num": 207310,
       "word": "BLG对战JDG",
       "onboard_time": 1769434761,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 156575,
+      "num": 156575,
+      "word": "日本进入无大熊猫时代",
+      "onboard_time": 1769482939,
+      "rank": 28,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 155579,
@@ -2699,6 +2763,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 147802,
+      "num": 147802,
+      "word": "中国团队对尼帕病毒药物有新发现",
+      "onboard_time": 1769485221,
+      "rank": 29,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 147474,
       "num": 147474,
       "word": "最差一届的学生被学校请回去了",
@@ -2785,6 +2857,14 @@
       "onboard_time": 1769337021,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 143520,
+      "num": 143520,
+      "word": "印度感染护士误饮被蝙蝠污染椰枣汁",
+      "onboard_time": 1769483301,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 142009,
@@ -3347,6 +3427,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 119943,
+      "num": 119943,
+      "word": "疑似王赫野尺度最大的一次",
+      "onboard_time": 1769481920,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 119722,
+      "num": 119722,
+      "word": "坏了真让杨玏演上天了",
+      "onboard_time": 1769484919,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 119547,
       "num": 119547,
       "word": "腊八蒜起源于催款",
@@ -3537,6 +3633,14 @@
       "onboard_time": 1769398581,
       "rank": 36,
       "category": "财经"
+    },
+    {
+      "raw_hot": 113429,
+      "num": 113429,
+      "word": "猫 没吃的你咪什么咪",
+      "onboard_time": 1769486180,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 112476,
@@ -3811,6 +3915,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 105454,
+      "num": 105454,
+      "word": "什么工作下班不会再找你",
+      "onboard_time": 1769486781,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 105330,
       "num": 105330,
       "word": "12306回应带小孩被分静音车厢",
@@ -3963,6 +4075,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 103098,
+      "num": 103098,
+      "word": "安踏体育收购彪马公司29.06%股权",
+      "onboard_time": 1769480241,
+      "rank": 43,
+      "category": "财经,民生新闻"
+    },
+    {
       "raw_hot": 103043,
       "num": 103043,
       "word": "当外国人第一次吃饺子",
@@ -4105,6 +4225,14 @@
       "onboard_time": 1769307861,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 100863,
+      "num": 100863,
+      "word": "头一次见炮轰的咖啡",
+      "onboard_time": 1769487081,
+      "rank": 41,
+      "category": "美食"
     },
     {
       "raw_hot": 100761,
@@ -4275,6 +4403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 97194,
+      "num": 103402,
+      "word": "王鹤棣宋茜 奇迹暖暖",
+      "onboard_time": 1769486060,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 97078,
       "num": 97078,
       "word": "小城大事大结局",
@@ -4361,6 +4497,14 @@
       "onboard_time": 1769341040,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 96580,
+      "num": 96580,
+      "word": "王俊凯官宣超级巅峰之夜",
+      "onboard_time": 1769487081,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 96492,
@@ -4787,6 +4931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 90705,
+      "num": 90705,
+      "word": "人不能太闲的含金量",
+      "onboard_time": 1769485702,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 90616,
       "num": 68356,
       "word": "姑父棒杀侄女作案细节披露",
@@ -4817,6 +4969,14 @@
       "onboard_time": 1769342359,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 90388,
+      "num": 244389,
+      "word": "杨紫生命树微表情演技",
+      "onboard_time": 1769486481,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 90330,
@@ -4856,6 +5016,14 @@
       "word": "入职体检被要求补做妊娠测试",
       "onboard_time": 1769440222,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 89734,
+      "num": 89734,
+      "word": "太原国资委情况通报",
+      "onboard_time": 1769482880,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -4971,6 +5139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 87353,
+      "num": 87353,
+      "word": "湖南白银开盘跌停",
+      "onboard_time": 1769485882,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 87281,
       "num": 86187,
       "word": "北京春晚为了时团有多拼",
@@ -4985,6 +5161,14 @@
       "onboard_time": 1769406501,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 87100,
+      "num": 86609,
+      "word": "唐宫奇案预告真的杀疯了",
+      "onboard_time": 1769487201,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 86966,
@@ -5009,6 +5193,14 @@
       "onboard_time": 1769326519,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 86643,
+      "num": 86643,
+      "word": "剧圈来了个影帝金巴",
+      "onboard_time": 1769483480,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 86631,
@@ -5089,14 +5281,6 @@
       "onboard_time": 1769424981,
       "rank": 44,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 85536,
-      "num": 85536,
-      "word": "安踏体育收购彪马公司29.06%股权",
-      "onboard_time": 1769480241,
-      "rank": 43,
-      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 85419,
@@ -6811,6 +6995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 49681,
+      "num": 246178,
+      "word": "Dior高订花海秀场",
+      "onboard_time": 1769483841,
+      "rank": 16,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 48749,
       "num": 48749,
       "word": "声鸣远扬",
@@ -6889,6 +7081,14 @@
       "onboard_time": 1769274679,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 46078,
+      "num": 239514,
+      "word": "英国承认特朗普有一票否决权",
+      "onboard_time": 1769486421,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 44309,
@@ -7073,6 +7273,14 @@
       "onboard_time": 1769297117,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 39179,
+      "num": 251793,
+      "word": "马年春联已进入AI时代",
+      "onboard_time": 1769483180,
+      "rank": 15,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 38869,
@@ -7323,6 +7531,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 28374,
+      "num": 103180,
+      "word": "炽热吸引哥嫂cp",
+      "onboard_time": 1769486781,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 28254,
       "num": 168034,
       "word": "高市内阁支持率大幅下跌10%",
@@ -7435,6 +7651,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 24603,
+      "num": 253040,
+      "word": "别克至境L7包高铁送你回家",
+      "onboard_time": 1769485940,
+      "rank": 14,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 24501,
       "num": 127667,
       "word": "最强大脑扎堆接招马年春联",
@@ -7465,6 +7689,14 @@
       "onboard_time": 1769449396,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 23132,
+      "num": 236425,
+      "word": "张文宏称二代测序足够检测尼帕病毒",
+      "onboard_time": 1769486421,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 23088,
@@ -7769,6 +8001,14 @@
       "onboard_time": 1769310020,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11052,
+      "num": 106029,
+      "word": "章若楠的新年好运风向",
+      "onboard_time": 1769487201,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 9167,
