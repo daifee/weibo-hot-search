@@ -1,0 +1,410 @@
+{
+  "runTime": 1769503352655,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1071675,
+        "num": 1171468,
+        "word": "微博之夜阵容官宣",
+        "onboard_time": 1769487682,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 406727,
+        "num": 857711,
+        "word": "小伙救人按断女子6根肋骨收到谢谢",
+        "onboard_time": 1769494881,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61106,
+        "num": 686765,
+        "word": "我国全超导磁体有重大突破",
+        "onboard_time": 1769491701,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 396906,
+        "num": 396906,
+        "word": "桃黑黑12个小时上了5颗星",
+        "onboard_time": 1769495060,
+        "rank": 3,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 391761,
+        "num": 391761,
+        "word": "高市早苗破防了",
+        "onboard_time": 1769493199,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1037375,
+        "num": 391119,
+        "word": "导师一直叫我微信名怎么办",
+        "onboard_time": 1769497399,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 387637,
+        "num": 387637,
+        "word": "50万亿存款将到期用户寻找存款贵替",
+        "onboard_time": 1769476219,
+        "rank": 6,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 375819,
+        "num": 375819,
+        "word": "微博之夜",
+        "onboard_time": 1769487741,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 267345,
+        "num": 267345,
+        "word": "印度疫情会失控吗",
+        "onboard_time": 1769499921,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 245917,
+        "num": 245917,
+        "word": "支付宝集福",
+        "onboard_time": 1769483781,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1016384,
+        "num": 244783,
+        "word": "周雨彤工作室道歉",
+        "onboard_time": 1769498000,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 559010,
+        "num": 244034,
+        "word": "入殓师称逝者化妆时偶尔会睁眼",
+        "onboard_time": 1769499321,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 469129,
+        "num": 243025,
+        "word": "对不起第一次结婚有点好笑",
+        "onboard_time": 1769499441,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 335855,
+        "num": 241854,
+        "word": "贺峻霖 研究生的脑子就是不一样",
+        "onboard_time": 1769501541,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240618,
+        "num": 240618,
+        "word": "韩国人还在睡梦中特朗普突然下手",
+        "onboard_time": 1769494640,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 240330,
+        "num": 240330,
+        "word": "李蓓清仓黄金",
+        "onboard_time": 1769493980,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 383531,
+        "num": 239923,
+        "word": "张雨绮巴黎时装周行程或被取消",
+        "onboard_time": 1769501061,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238837,
+        "num": 238837,
+        "word": "戚薇撞脸金晨",
+        "onboard_time": 1769492720,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55117,
+        "num": 200261,
+        "word": "游戏玩家把抢头福加入日常任务",
+        "onboard_time": 1769501780,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 66502,
+        "num": 190286,
+        "word": "新年旺自己的方式",
+        "onboard_time": 1769501780,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 538222,
+        "num": 189920,
+        "word": "霍建华签名 冷脸洗内裤",
+        "onboard_time": 1769500281,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188770,
+        "num": 188770,
+        "word": "徐冬冬尹子维结婚线下排面",
+        "onboard_time": 1769497700,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161111,
+        "num": 161111,
+        "word": "中国游客巴厘岛患脏水病致喷射性吐",
+        "onboard_time": 1769501480,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 187526,
+        "num": 156177,
+        "word": "黄杨钿甜官宣微博之夜",
+        "onboard_time": 1769502201,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 171617,
+        "num": 130919,
+        "word": "曝朱志鑫左航要上北电国际班",
+        "onboard_time": 1769500100,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99830,
+        "num": 99830,
+        "word": "高市有关台湾谬论粗暴干涉中国内政",
+        "onboard_time": 1769499441,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 134300,
+        "num": 99370,
+        "word": "丁真名下工作室欠税3.4万被公告",
+        "onboard_time": 1769485940,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133313,
+        "num": 99295,
+        "word": "生命树发布会",
+        "onboard_time": 1769495660,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93448,
+        "num": 93448,
+        "word": "会旅游和不会旅游的区别",
+        "onboard_time": 1769491581,
+        "rank": 28,
+        "category": "幽默,旅游"
+      },
+      {
+        "raw_hot": 89719,
+        "num": 89719,
+        "word": "罗马仕被处罚",
+        "onboard_time": 1769501361,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123920,
+        "num": 88516,
+        "word": "短剧圈真不把我们当外人",
+        "onboard_time": 1769501541,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118921,
+        "num": 87840,
+        "word": "张艺谋 体重管理最严厉的父亲",
+        "onboard_time": 1769494160,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 86606,
+        "num": 86606,
+        "word": "印度捕获9蝙蝠1只有尼帕病毒抗体",
+        "onboard_time": 1769500699,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 110036,
+        "num": 86575,
+        "word": "冯提莫直播关美颜",
+        "onboard_time": 1769501241,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107172,
+        "num": 86541,
+        "word": "谢霆锋 九十年代留子",
+        "onboard_time": 1769502139,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86384,
+        "num": 86384,
+        "word": "降价2000元iPhoneAir疑为库存机",
+        "onboard_time": 1769500699,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 107136,
+        "num": 86380,
+        "word": "刘亦菲 祖玛珑",
+        "onboard_time": 1769481081,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105154,
+        "num": 86374,
+        "word": "曝听泉鉴宝送前女友房子",
+        "onboard_time": 1769503160,
+        "rank": 37,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 23270,
+        "num": 86363,
+        "word": "徐艺洋给路人让座",
+        "onboard_time": 1769502681,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73693,
+        "num": 86350,
+        "word": "没有体面点的衣服给王晶吗",
+        "onboard_time": 1769502681,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86177,
+        "num": 86338,
+        "word": "婴儿期记忆能不消失吗",
+        "onboard_time": 1769495962,
+        "rank": 40,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 86337,
+        "num": 86337,
+        "word": "山西过年还是太超前了",
+        "onboard_time": 1769503160,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 84331,
+        "num": 84331,
+        "word": "周也王玉雯 从胸口聊到巴黎",
+        "onboard_time": 1769489301,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84280,
+        "num": 84280,
+        "word": "半糖青梅",
+        "onboard_time": 1769492780,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84077,
+        "num": 84077,
+        "word": "A股中国黄金涨停",
+        "onboard_time": 1769498180,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 83023,
+        "num": 83023,
+        "word": "白鹿王星越内娱cp最强售后",
+        "onboard_time": 1769500340,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77956,
+        "num": 77956,
+        "word": "时代峰峻最著名的一滴泪",
+        "onboard_time": 1769488582,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77917,
+        "num": 77917,
+        "word": "王者荣耀你坏事做尽",
+        "onboard_time": 1769503281,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 62333,
+        "num": 74713,
+        "word": "投资铜条走红",
+        "onboard_time": 1769502023,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 61637,
+        "num": 72653,
+        "word": "罗马仕充电宝被处罚",
+        "onboard_time": 1769503281,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中越应当坚持道不变志不改#"
+    }
+  }
+}

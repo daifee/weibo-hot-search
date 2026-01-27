@@ -1,6 +1,6 @@
 {
   "startTime": 1769445836222,
-  "endTime": 1769500196838,
+  "endTime": 1769503352655,
   "band_list": [
     {
       "raw_hot": 3419891,
@@ -139,6 +139,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 559010,
+      "num": 283818,
+      "word": "入殓师称逝者化妆时偶尔会睁眼",
+      "onboard_time": 1769499321,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 548659,
       "num": 255880,
       "word": "丁真名下工作室欠税3.4万被公告",
@@ -153,6 +161,14 @@
       "onboard_time": 1769485882,
       "rank": 9,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 538222,
+      "num": 189920,
+      "word": "霍建华签名 冷脸洗内裤",
+      "onboard_time": 1769500281,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 527816,
@@ -211,6 +227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 469129,
+      "num": 243025,
+      "word": "对不起第一次结婚有点好笑",
+      "onboard_time": 1769499441,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 421571,
       "num": 790589,
       "word": "生命树定档",
@@ -233,6 +257,14 @@
       "onboard_time": 1769491281,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 391761,
+      "num": 391761,
+      "word": "高市早苗破防了",
+      "onboard_time": 1769493199,
+      "rank": 20,
+      "category": "国际时政"
     },
     {
       "raw_hot": 390165,
@@ -259,20 +291,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 383531,
+      "num": 239923,
+      "word": "张雨绮巴黎时装周行程或被取消",
+      "onboard_time": 1769501061,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 367868,
       "num": 367868,
       "word": "美国多地暴雪无家可归者仍露宿街头",
       "onboard_time": 1769484140,
       "rank": 3,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 364987,
-      "num": 322928,
-      "word": "高市早苗破防了",
-      "onboard_time": 1769493199,
-      "rank": 20,
-      "category": "国际时政"
     },
     {
       "raw_hot": 353947,
@@ -299,6 +331,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 335855,
+      "num": 241854,
+      "word": "贺峻霖 研究生的脑子就是不一样",
+      "onboard_time": 1769501541,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 333670,
       "num": 170828,
       "word": "李登科建议赖冠霖先找个班上",
@@ -313,14 +353,6 @@
       "onboard_time": 1769485041,
       "rank": 4,
       "category": "财经"
-    },
-    {
-      "raw_hot": 324915,
-      "num": 283818,
-      "word": "入殓师称逝者化妆时偶尔会睁眼",
-      "onboard_time": 1769499321,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 321498,
@@ -372,7 +404,7 @@
     },
     {
       "raw_hot": 299572,
-      "num": 168846,
+      "num": 188770,
       "word": "徐冬冬尹子维结婚线下排面",
       "onboard_time": 1769497700,
       "rank": 20,
@@ -457,6 +489,14 @@
       "onboard_time": 1769468957,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 267345,
+      "num": 267345,
+      "word": "印度疫情会失控吗",
+      "onboard_time": 1769499921,
+      "rank": 21,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 264527,
@@ -571,6 +611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 187526,
+      "num": 156177,
+      "word": "黄杨钿甜官宣微博之夜",
+      "onboard_time": 1769502201,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 182318,
       "num": 173493,
       "word": "刘宇宁谈配角掀桌",
@@ -603,12 +651,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 171617,
+      "num": 137453,
+      "word": "曝朱志鑫左航要上北电国际班",
+      "onboard_time": 1769500100,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 165995,
       "num": 71163,
       "word": "田栩宁把梓渝粉丝告了",
       "onboard_time": 1769469197,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 161111,
+      "num": 161111,
+      "word": "中国游客巴厘岛患脏水病致喷射性吐",
+      "onboard_time": 1769501480,
+      "rank": 22,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 158611,
@@ -707,14 +771,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 137453,
-      "num": 137453,
-      "word": "曝朱志鑫左航要上北电国际班",
-      "onboard_time": 1769500100,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 135748,
       "num": 135748,
       "word": "章若楠 我这样的一抓一大把",
@@ -800,6 +856,14 @@
       "word": "姚冠宇新短剧三榜冠军",
       "onboard_time": 1769490979,
       "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 123920,
+      "num": 88516,
+      "word": "短剧圈真不把我们当外人",
+      "onboard_time": 1769501541,
+      "rank": 30,
       "category": "剧集"
     },
     {
@@ -979,6 +1043,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 110036,
+      "num": 86575,
+      "word": "冯提莫直播关美颜",
+      "onboard_time": 1769501241,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 109243,
       "num": 88886,
       "word": "车厘子包装袋不要丢",
@@ -1003,6 +1075,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 107172,
+      "num": 86541,
+      "word": "谢霆锋 九十年代留子",
+      "onboard_time": 1769502139,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 106714,
       "num": 106714,
       "word": "镖人",
@@ -1025,6 +1105,14 @@
       "onboard_time": 1769442799,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105154,
+      "num": 86374,
+      "word": "曝听泉鉴宝送前女友房子",
+      "onboard_time": 1769503160,
+      "rank": 37,
+      "category": "网红"
     },
     {
       "raw_hot": 104959,
@@ -1091,14 +1179,6 @@
       "category": "财经,民生新闻"
     },
     {
-      "raw_hot": 102274,
-      "num": 102329,
-      "word": "对不起第一次结婚有点好笑",
-      "onboard_time": 1769499441,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 102273,
       "num": 102273,
       "word": "生命树和繁花是同一时代",
@@ -1121,6 +1201,14 @@
       "onboard_time": 1769489243,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 99830,
+      "num": 169035,
+      "word": "高市有关台湾谬论粗暴干涉中国内政",
+      "onboard_time": 1769499441,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 99526,
@@ -1339,6 +1427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 89719,
+      "num": 89719,
+      "word": "罗马仕被处罚",
+      "onboard_time": 1769501361,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89280,
       "num": 89280,
       "word": "台湾省314人因冷空气去世",
@@ -1403,6 +1499,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 86606,
+      "num": 86606,
+      "word": "印度捕获9蝙蝠1只有尼帕病毒抗体",
+      "onboard_time": 1769500699,
+      "rank": 32,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 86384,
+      "num": 86384,
+      "word": "降价2000元iPhoneAir疑为库存机",
+      "onboard_time": 1769500699,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 86337,
+      "num": 86337,
+      "word": "山西过年还是太超前了",
+      "onboard_time": 1769503160,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 84259,
       "num": 84259,
       "word": "张艺谋夸易烊千玺演技进步",
@@ -1417,6 +1537,14 @@
       "onboard_time": 1769478859,
       "rank": 46,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 83023,
+      "num": 83023,
+      "word": "白鹿王星越内娱cp最强售后",
+      "onboard_time": 1769500340,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 82831,
@@ -1491,6 +1619,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 77917,
+      "num": 77917,
+      "word": "王者荣耀你坏事做尽",
+      "onboard_time": 1769503281,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 77869,
       "num": 102381,
       "word": "优酷连更52条评论白鹿王星越",
@@ -1544,6 +1680,14 @@
       "word": "张艺兴孙红雷同框跳手势舞",
       "onboard_time": 1769437702,
       "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 73693,
+      "num": 86350,
+      "word": "没有体面点的衣服给王晶吗",
+      "onboard_time": 1769502681,
+      "rank": 39,
       "category": "艺人"
     },
     {
@@ -1603,6 +1747,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 66502,
+      "num": 190286,
+      "word": "新年旺自己的方式",
+      "onboard_time": 1769501780,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 64363,
       "num": 64363,
       "word": "收到2元试吃费的粉条店主回应",
@@ -1619,20 +1771,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 62333,
+      "num": 74713,
+      "word": "投资铜条走红",
+      "onboard_time": 1769502023,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 61637,
+      "num": 72653,
+      "word": "罗马仕充电宝被处罚",
+      "onboard_time": 1769503281,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 61522,
       "num": 66636,
       "word": "太平年",
       "onboard_time": 1769432902,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 61351,
-      "num": 168785,
-      "word": "印度疫情会失控吗",
-      "onboard_time": 1769499921,
-      "rank": 21,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 60532,
@@ -1713,6 +1873,14 @@
       "onboard_time": 1769423841,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 55117,
+      "num": 200261,
+      "word": "游戏玩家把抢头福加入日常任务",
+      "onboard_time": 1769501780,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 53989,
@@ -1987,14 +2155,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 27200,
-      "num": 169035,
-      "word": "高市有关台湾谬论粗暴干涉中国内政",
-      "onboard_time": 1769499441,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 27033,
       "num": 102793,
       "word": "4岁女儿贴心照料生病的妈妈",
@@ -2057,6 +2217,14 @@
       "onboard_time": 1769449396,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 23270,
+      "num": 86363,
+      "word": "徐艺洋给路人让座",
+      "onboard_time": 1769502681,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 23264,
