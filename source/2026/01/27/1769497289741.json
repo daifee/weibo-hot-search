@@ -1,0 +1,410 @@
+{
+  "runTime": 1769497289741,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 740968,
+        "num": 1118555,
+        "word": "微博之夜阵容官宣",
+        "onboard_time": 1769487682,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 658401,
+        "num": 833232,
+        "word": "50万亿存款将到期用户寻找存款贵替",
+        "onboard_time": 1769476219,
+        "rank": 1,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 74446,
+        "num": 639170,
+        "word": "我国全超导磁体有重大突破",
+        "onboard_time": 1769491701,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 561258,
+        "num": 561258,
+        "word": "李蓓清仓黄金",
+        "onboard_time": 1769493980,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 528680,
+        "num": 528680,
+        "word": "桃黑黑12个小时上了5颗星",
+        "onboard_time": 1769495060,
+        "rank": 4,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 512080,
+        "num": 512080,
+        "word": "张艺谋 体重管理最严厉的父亲",
+        "onboard_time": 1769494160,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 369572,
+        "num": 369572,
+        "word": "小伙救人按断女子6根肋骨收到谢谢",
+        "onboard_time": 1769494881,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 349808,
+        "num": 349808,
+        "word": "微博之夜",
+        "onboard_time": 1769487741,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 310384,
+        "num": 310384,
+        "word": "男子电诈园区跳楼逃生险被活埋",
+        "onboard_time": 1769491281,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 293318,
+        "num": 293318,
+        "word": "支付宝集福",
+        "onboard_time": 1769483781,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 734711,
+        "num": 291937,
+        "word": "韩国人还在睡梦中特朗普突然下手",
+        "onboard_time": 1769494640,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 632135,
+        "num": 283949,
+        "word": "戚薇撞脸金晨",
+        "onboard_time": 1769492720,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244027,
+        "num": 244027,
+        "word": "12306回应女子买到单人独座",
+        "onboard_time": 1769493261,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33145,
+        "num": 229671,
+        "word": "刘宇宁京东新衣",
+        "onboard_time": 1769494041,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217723,
+        "num": 217723,
+        "word": "会旅游和不会旅游的区别",
+        "onboard_time": 1769491581,
+        "rank": 14,
+        "category": "幽默,旅游"
+      },
+      {
+        "raw_hot": 217357,
+        "num": 217357,
+        "word": "时代峰峻最著名的一滴泪",
+        "onboard_time": 1769488582,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212870,
+        "num": 212870,
+        "word": "周也王玉雯 从胸口聊到巴黎",
+        "onboard_time": 1769489301,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174609,
+        "num": 174609,
+        "word": "什么工作下班不会再找你",
+        "onboard_time": 1769486781,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 201705,
+        "num": 174455,
+        "word": "丁真名下工作室欠税3.4万被公告",
+        "onboard_time": 1769485940,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35341,
+        "num": 174351,
+        "word": "美航母已抵中东",
+        "onboard_time": 1769496560,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 364987,
+        "num": 174115,
+        "word": "高市早苗破防了",
+        "onboard_time": 1769493199,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 274280,
+        "num": 173779,
+        "word": "刘亦菲 祖玛珑",
+        "onboard_time": 1769481081,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179045,
+        "num": 173530,
+        "word": "好利来涉事产品已全部销毁",
+        "onboard_time": 1769495120,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173493,
+        "num": 173493,
+        "word": "刘宇宁谈配角掀桌",
+        "onboard_time": 1769494279,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139171,
+        "num": 139171,
+        "word": "内娱眼熟的短剧演员全来了",
+        "onboard_time": 1769496139,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133508,
+        "num": 133508,
+        "word": "金价银价巨震",
+        "onboard_time": 1769476880,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 138735,
+        "num": 131123,
+        "word": "让白鹿戴抹额的人真是个天才",
+        "onboard_time": 1769493561,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125897,
+        "num": 125897,
+        "word": "章若楠 我这样的一抓一大把",
+        "onboard_time": 1769493680,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116380,
+        "num": 116380,
+        "word": "年轻人血脉觉醒的表现",
+        "onboard_time": 1769496260,
+        "rank": 28,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 84337,
+        "num": 112431,
+        "word": "马年春联开始文武双全了",
+        "onboard_time": 1769495780,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125168,
+        "num": 112035,
+        "word": "文淇 我是学生能小刀吗",
+        "onboard_time": 1769496980,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122643,
+        "num": 111934,
+        "word": "杨紫这段完播率1000%",
+        "onboard_time": 1769488642,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110895,
+        "num": 110895,
+        "word": "办公室奶茶文化",
+        "onboard_time": 1769485882,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 118349,
+        "num": 110616,
+        "word": "MBC演唱会取消",
+        "onboard_time": 1769494940,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 111517,
+        "num": 110327,
+        "word": "生命树发布会",
+        "onboard_time": 1769495660,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105927,
+        "num": 109988,
+        "word": "婴儿期记忆能不消失吗",
+        "onboard_time": 1769495962,
+        "rank": 35,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 109806,
+        "num": 109806,
+        "word": "半糖青梅",
+        "onboard_time": 1769492780,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99526,
+        "num": 108560,
+        "word": "南方装地暖受害者",
+        "onboard_time": 1769496081,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 108405,
+        "num": 108405,
+        "word": "谁家女主开局就配冥婚啊",
+        "onboard_time": 1769494759,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20009,
+        "num": 105517,
+        "word": "北大女生硅谷创业被指网络贩毒",
+        "onboard_time": 1769496501,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 104959,
+        "num": 104959,
+        "word": "张杰 这首歌也要我们来吗",
+        "onboard_time": 1769496139,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 98766,
+        "num": 98766,
+        "word": "82岁退休语文老师的人生遗嘱",
+        "onboard_time": 1769496380,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 104357,
+        "num": 98148,
+        "word": "海涛自曝朋友圈的置顶",
+        "onboard_time": 1769497040,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97286,
+        "num": 97286,
+        "word": "月薪3千过出1万的生活质量",
+        "onboard_time": 1769492241,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 94903,
+        "num": 94903,
+        "word": "迪丽热巴 一个人当然可以拍婚纱照",
+        "onboard_time": 1769488462,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92696,
+        "num": 92696,
+        "word": "周雨彤回复了章若楠粉丝",
+        "onboard_time": 1769491701,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89241,
+        "num": 89241,
+        "word": "王楚钦最近的停停走走",
+        "onboard_time": 1769494279,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90485,
+        "num": 87836,
+        "word": "生命树",
+        "onboard_time": 1769485041,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84259,
+        "num": 84259,
+        "word": "张艺谋夸易烊千玺演技进步",
+        "onboard_time": 1769494940,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 81336,
+        "num": 81336,
+        "word": "女子免疫系统攻击胚胎8年反复流产",
+        "onboard_time": 1769477961,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中越应当坚持道不变志不改#"
+    }
+  }
+}

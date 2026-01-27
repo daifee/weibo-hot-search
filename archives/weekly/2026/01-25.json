@@ -1,6 +1,6 @@
 {
   "startTime": 1769272464158,
-  "endTime": 1769496421745,
+  "endTime": 1769497289741,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -275,6 +275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 734711,
+      "num": 291937,
+      "word": "韩国人还在睡梦中特朗普突然下手",
+      "onboard_time": 1769494640,
+      "rank": 11,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 728425,
       "num": 179443,
       "word": "辽宁春晚回应张雨绮争议",
@@ -300,7 +308,7 @@
     },
     {
       "raw_hot": 680038,
-      "num": 250412,
+      "num": 283949,
       "word": "戚薇撞脸金晨",
       "onboard_time": 1769492720,
       "rank": 11,
@@ -435,14 +443,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 599849,
-      "num": 247466,
-      "word": "韩国人还在睡梦中特朗普突然下手",
-      "onboard_time": 1769494640,
-      "rank": 11,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 596249,
       "num": 241396,
       "word": "金价飙升原因找到了",
@@ -505,6 +505,14 @@
       "onboard_time": 1769391919,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 561258,
+      "num": 561258,
+      "word": "李蓓清仓黄金",
+      "onboard_time": 1769493980,
+      "rank": 3,
+      "category": "财经"
     },
     {
       "raw_hot": 556900,
@@ -603,20 +611,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 528680,
+      "num": 528680,
+      "word": "桃黑黑12个小时上了5颗星",
+      "onboard_time": 1769495060,
+      "rank": 15,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 527816,
       "num": 259609,
       "word": "向佐为郭碧婷买了个巨型猪公仔",
       "onboard_time": 1769480839,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 521233,
-      "num": 521233,
-      "word": "李蓓清仓黄金",
-      "onboard_time": 1769493980,
-      "rank": 3,
-      "category": "财经"
     },
     {
       "raw_hot": 520258,
@@ -633,6 +641,14 @@
       "onboard_time": 1769310860,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 512080,
+      "num": 512080,
+      "word": "张艺谋 体重管理最严厉的父亲",
+      "onboard_time": 1769494160,
+      "rank": 5,
+      "category": "电影"
     },
     {
       "raw_hot": 511620,
@@ -801,14 +817,6 @@
       "onboard_time": 1769334021,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 455125,
-      "num": 455125,
-      "word": "张艺谋 体重管理最严厉的父亲",
-      "onboard_time": 1769494160,
-      "rank": 5,
-      "category": "电影"
     },
     {
       "raw_hot": 451975,
@@ -1067,12 +1075,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 369572,
+      "num": 369572,
+      "word": "小伙救人按断女子6根肋骨收到谢谢",
+      "onboard_time": 1769494881,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 367868,
       "num": 367868,
       "word": "美国多地暴雪无家可归者仍露宿街头",
       "onboard_time": 1769484140,
       "rank": 3,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 364987,
+      "num": 174115,
+      "word": "高市早苗破防了",
+      "onboard_time": 1769493199,
+      "rank": 20,
+      "category": "国际时政"
     },
     {
       "raw_hot": 362901,
@@ -1153,14 +1177,6 @@
       "onboard_time": 1769435841,
       "rank": 33,
       "category": "财经"
-    },
-    {
-      "raw_hot": 347881,
-      "num": 173893,
-      "word": "高市早苗破防了",
-      "onboard_time": 1769493199,
-      "rank": 20,
-      "category": "国际时政"
     },
     {
       "raw_hot": 342398,
@@ -1787,14 +1803,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 259279,
-      "num": 259279,
-      "word": "小伙救人按断女子6根肋骨收到谢谢",
-      "onboard_time": 1769494881,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 258282,
       "num": 258282,
       "word": "中国版萨莉亚火了",
@@ -1913,6 +1921,14 @@
       "onboard_time": 1769449516,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 244027,
+      "num": 244027,
+      "word": "12306回应女子买到单人独座",
+      "onboard_time": 1769493261,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 243147,
@@ -2131,6 +2147,14 @@
       "category": "财经,作品衍生"
     },
     {
+      "raw_hot": 217357,
+      "num": 217357,
+      "word": "时代峰峻最著名的一滴泪",
+      "onboard_time": 1769488582,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 216484,
       "num": 196839,
       "word": "杨迪晒和网友的聊天记录",
@@ -2153,14 +2177,6 @@
       "onboard_time": 1769311220,
       "rank": 17,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 215015,
-      "num": 215015,
-      "word": "桃黑黑12个小时上了5颗星",
-      "onboard_time": 1769495060,
-      "rank": 15,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 213505,
@@ -2193,14 +2209,6 @@
       "onboard_time": 1769436923,
       "rank": 3,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 211948,
-      "num": 211948,
-      "word": "时代峰峻最著名的一滴泪",
-      "onboard_time": 1769488582,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 210375,
@@ -2387,14 +2395,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 191424,
-      "num": 191424,
-      "word": "12306回应女子买到单人独座",
-      "onboard_time": 1769493261,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 190202,
       "num": 182913,
       "word": "田曦薇美人嗔怒这一下",
@@ -2468,7 +2468,7 @@
     },
     {
       "raw_hot": 182318,
-      "num": 169928,
+      "num": 173493,
       "word": "刘宇宁谈配角掀桌",
       "onboard_time": 1769494279,
       "rank": 22,
@@ -2513,6 +2513,14 @@
       "onboard_time": 1769477240,
       "rank": 27,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 179045,
+      "num": 173530,
+      "word": "好利来涉事产品已全部销毁",
+      "onboard_time": 1769495120,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 178952,
@@ -3523,6 +3531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 125168,
+      "num": 112035,
+      "word": "文淇 我是学生能小刀吗",
+      "onboard_time": 1769496980,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 125113,
       "num": 125113,
       "word": "姚冠宇新短剧三榜冠军",
@@ -3691,14 +3707,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 120664,
-      "num": 152101,
-      "word": "好利来涉事产品已全部销毁",
-      "onboard_time": 1769495120,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 120043,
       "num": 120043,
       "word": "荣耀之战",
@@ -3764,7 +3772,7 @@
     },
     {
       "raw_hot": 118814,
-      "num": 97595,
+      "num": 110616,
       "word": "MBC演唱会取消",
       "onboard_time": 1769494940,
       "rank": 40,
@@ -3817,6 +3825,14 @@
       "onboard_time": 1769469318,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 116380,
+      "num": 116380,
+      "word": "年轻人血脉觉醒的表现",
+      "onboard_time": 1769496260,
+      "rank": 42,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 116079,
@@ -4243,6 +4259,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 105927,
+      "num": 109988,
+      "word": "婴儿期记忆能不消失吗",
+      "onboard_time": 1769495962,
+      "rank": 36,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 105466,
       "num": 105466,
       "word": "部分权重股现大额压单",
@@ -4283,6 +4307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104959,
+      "num": 104959,
+      "word": "张杰 这首歌也要我们来吗",
+      "onboard_time": 1769496139,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 104916,
       "num": 104916,
       "word": "童锦程说鹿晗人很好",
@@ -4321,6 +4353,14 @@
       "onboard_time": 1769481200,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 104357,
+      "num": 98148,
+      "word": "海涛自曝朋友圈的置顶",
+      "onboard_time": 1769497040,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 104197,
@@ -4393,14 +4433,6 @@
       "onboard_time": 1769336119,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 103405,
-      "num": 103405,
-      "word": "婴儿期记忆能不消失吗",
-      "onboard_time": 1769495962,
-      "rank": 36,
-      "category": "科学科普"
     },
     {
       "raw_hot": 103273,
@@ -4683,6 +4715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 99526,
+      "num": 108560,
+      "word": "南方装地暖受害者",
+      "onboard_time": 1769496081,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 99323,
       "num": 99323,
       "word": "成功减掉了30天",
@@ -4705,6 +4745,14 @@
       "onboard_time": 1769441961,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 98766,
+      "num": 98766,
+      "word": "82岁退休语文老师的人生遗嘱",
+      "onboard_time": 1769496380,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 98748,
@@ -4763,20 +4811,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 97476,
-      "num": 97476,
-      "word": "年轻人血脉觉醒的表现",
-      "onboard_time": 1769496260,
-      "rank": 42,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 97406,
       "num": 94641,
       "word": "王玉雯 我也是个女生我有点害羞",
       "onboard_time": 1769410822,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 97286,
+      "num": 97286,
+      "word": "月薪3千过出1万的生活质量",
+      "onboard_time": 1769492241,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 97194,
@@ -5059,14 +5107,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 95070,
-      "num": 95070,
-      "word": "张杰 这首歌也要我们来吗",
-      "onboard_time": 1769496139,
-      "rank": 44,
-      "category": "演出"
-    },
-    {
       "raw_hot": 95027,
       "num": 95027,
       "word": "曝TFING将出席微博之夜",
@@ -5080,14 +5120,6 @@
       "word": "摸凹猫 摸凸猫",
       "onboard_time": 1769491342,
       "rank": 37,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 94836,
-      "num": 94836,
-      "word": "南方装地暖受害者",
-      "onboard_time": 1769496081,
-      "rank": 45,
       "category": "幽默"
     },
     {
@@ -5233,14 +5265,6 @@
       "onboard_time": 1769416463,
       "rank": 44,
       "category": "美食"
-    },
-    {
-      "raw_hot": 93217,
-      "num": 93217,
-      "word": "月薪3千过出1万的生活质量",
-      "onboard_time": 1769492241,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 93094,
@@ -5691,14 +5715,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 85891,
-      "num": 85891,
-      "word": "82岁退休语文老师的人生遗嘱",
-      "onboard_time": 1769496380,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 85863,
       "num": 85863,
       "word": "白鹿李昀锐又演上小节目了",
@@ -5825,6 +5841,14 @@
       "onboard_time": 1769349983,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 84259,
+      "num": 84259,
+      "word": "张艺谋夸易烊千玺演技进步",
+      "onboard_time": 1769494940,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 84155,
@@ -7963,6 +7987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 35341,
+      "num": 174351,
+      "word": "美航母已抵中东",
+      "onboard_time": 1769496560,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 34920,
       "num": 97030,
       "word": "被限高人员25次飞境外高消费获刑",
@@ -7993,6 +8025,14 @@
       "onboard_time": 1769404821,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 33145,
+      "num": 229671,
+      "word": "刘宇宁京东新衣",
+      "onboard_time": 1769494041,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 33008,
@@ -8275,14 +8315,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 23026,
-      "num": 220262,
-      "word": "刘宇宁京东新衣",
-      "onboard_time": 1769494041,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 22618,
       "num": 82162,
       "word": "老人称充值10万网聊未能拿到女生电话",
@@ -8401,6 +8433,14 @@
       "onboard_time": 1769411061,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 20009,
+      "num": 105517,
+      "word": "北大女生硅谷创业被指网络贩毒",
+      "onboard_time": 1769496501,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 19636,
