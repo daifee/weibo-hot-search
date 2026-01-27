@@ -1,0 +1,410 @@
+{
+  "runTime": 1769510276801,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 986717,
+        "num": 1157874,
+        "word": "内娱至今无一人塌房的全女综艺",
+        "onboard_time": 1769508680,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 466251,
+        "num": 812993,
+        "word": "1g黄金的区别有多大",
+        "onboard_time": 1769503761,
+        "rank": 1,
+        "category": "科学科普,休闲"
+      },
+      {
+        "raw_hot": 28939,
+        "num": 651345,
+        "word": "2026全国两会",
+        "onboard_time": 1769504121,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 875141,
+        "num": 549976,
+        "word": "微博之夜阵容官宣",
+        "onboard_time": 1769487682,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 290984,
+        "num": 290984,
+        "word": "50万亿存款将到期用户寻找存款贵替",
+        "onboard_time": 1769476219,
+        "rank": 4,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 454177,
+        "num": 285879,
+        "word": "微博之夜",
+        "onboard_time": 1769487741,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 336538,
+        "num": 272800,
+        "word": "导师一直叫我微信名怎么办",
+        "onboard_time": 1769497399,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 324762,
+        "num": 271539,
+        "word": "为什么教师行业没有起床气",
+        "onboard_time": 1769503521,
+        "rank": 7,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 252277,
+        "num": 252277,
+        "word": "王者荣耀你坏事做尽",
+        "onboard_time": 1769503281,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 215104,
+        "num": 215104,
+        "word": "桃黑黑12个小时上了5颗星",
+        "onboard_time": 1769495060,
+        "rank": 9,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 412217,
+        "num": 206752,
+        "word": "Jennie最后突然哭不行了",
+        "onboard_time": 1769506701,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 339098,
+        "num": 203666,
+        "word": "香港蔡天凤碎尸案新进展",
+        "onboard_time": 1769503700,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 250508,
+        "num": 190498,
+        "word": "入殓师称逝者化妆时偶尔会睁眼",
+        "onboard_time": 1769499321,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219115,
+        "num": 175536,
+        "word": "荣耀之战演唱会 澳门银河",
+        "onboard_time": 1769508740,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 48879,
+        "num": 170739,
+        "word": "余额宝真帮文旅把明星摇来了",
+        "onboard_time": 1769508021,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163039,
+        "num": 163039,
+        "word": "50万亿存款",
+        "onboard_time": 1769505502,
+        "rank": 15,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 147096,
+        "num": 147096,
+        "word": "小伙救人按断女子6根肋骨收到谢谢",
+        "onboard_time": 1769494881,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127732,
+        "num": 147005,
+        "word": "中国游客巴厘岛患脏水病致喷射性吐",
+        "onboard_time": 1769501480,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 64455,
+        "num": 146360,
+        "word": "加总理卡尼叹气回应被特朗普叫州长",
+        "onboard_time": 1769509342,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 44557,
+        "num": 145193,
+        "word": "滞留北海道游客花3000元才拼到车",
+        "onboard_time": 1769509220,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1258823,
+        "num": 144997,
+        "word": "张雨绮多个商务被取消",
+        "onboard_time": 1769505682,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 734007,
+        "num": 144241,
+        "word": "曝听泉鉴宝送前女友房子",
+        "onboard_time": 1769503160,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 143721,
+        "num": 143721,
+        "word": "支付宝集福",
+        "onboard_time": 1769483781,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 421135,
+        "num": 137906,
+        "word": "周雨彤工作室道歉",
+        "onboard_time": 1769498000,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229573,
+        "num": 135638,
+        "word": "贺峻霖 研究生的脑子就是不一样",
+        "onboard_time": 1769501541,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130551,
+        "num": 130551,
+        "word": "1岁半宝宝装睡逃避医生检查",
+        "onboard_time": 1769507541,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195588,
+        "num": 124336,
+        "word": "杨紫突然笑的这一下好明媚",
+        "onboard_time": 1769508260,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177480,
+        "num": 120623,
+        "word": "idle单曲MV",
+        "onboard_time": 1769505921,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 113222,
+        "num": 113222,
+        "word": "对不起第一次结婚有点好笑",
+        "onboard_time": 1769499441,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 86654,
+        "num": 102212,
+        "word": "美国流浪汉睡在雪地里",
+        "onboard_time": 1769508141,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 172819,
+        "num": 101877,
+        "word": "黄杨钿甜官宣微博之夜",
+        "onboard_time": 1769502201,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 119207,
+        "num": 99599,
+        "word": "丁真工作室已缴3.4万税款",
+        "onboard_time": 1769507001,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96799,
+        "num": 96799,
+        "word": "第五人格",
+        "onboard_time": 1769505021,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 108802,
+        "num": 95547,
+        "word": "霍建华签名 冷脸洗内裤",
+        "onboard_time": 1769500281,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107103,
+        "num": 92923,
+        "word": "沈梦辰带婆婆追星",
+        "onboard_time": 1769505442,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89907,
+        "num": 89907,
+        "word": "孙颖莎准备出发的仪式感",
+        "onboard_time": 1769505200,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 73076,
+        "num": 89864,
+        "word": "9地取消固定分时电价",
+        "onboard_time": 1769508801,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64322,
+        "num": 89827,
+        "word": "张艺谋说希望刘耀文再瘦一点",
+        "onboard_time": 1769509701,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 51926,
+        "num": 89797,
+        "word": "渐冻人李小中称遭男护工猥亵报案",
+        "onboard_time": 1769510000,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35107,
+        "num": 89718,
+        "word": "30岁男子被催婚致情绪抑郁",
+        "onboard_time": 1769510061,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100572,
+        "num": 89696,
+        "word": "内娱喵系女艺人",
+        "onboard_time": 1769504842,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68384,
+        "num": 89617,
+        "word": "罗马仕被处罚",
+        "onboard_time": 1769501361,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98325,
+        "num": 89574,
+        "word": "我们的少年时代2角色",
+        "onboard_time": 1769506341,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96846,
+        "num": 89509,
+        "word": "电视剧生命树",
+        "onboard_time": 1769509761,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80540,
+        "num": 89451,
+        "word": "闪婚后妻子总忘记自己已婚",
+        "onboard_time": 1769509761,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 89440,
+        "num": 89440,
+        "word": "丁真名下工作室欠税3.4万被公告",
+        "onboard_time": 1769485940,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86202,
+        "num": 86202,
+        "word": "第一次见皇帝继位被架着受拜",
+        "onboard_time": 1769508981,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 79250,
+        "num": 79250,
+        "word": "月之暗面发布Kimi迄今最智能模型",
+        "onboard_time": 1769509642,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 81693,
+        "num": 79087,
+        "word": "杨紫胡歌亮相生命树发布会",
+        "onboard_time": 1769507361,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80082,
+        "num": 78895,
+        "word": "谢霆锋 九十年代留子",
+        "onboard_time": 1769502139,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见芬兰总理奥尔波#"
+    }
+  }
+}
