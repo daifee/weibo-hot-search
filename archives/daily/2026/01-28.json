@@ -1,6 +1,6 @@
 {
   "startTime": 1769531989527,
-  "endTime": 1769535396695,
+  "endTime": 1769536446648,
   "band_list": [
     {
       "raw_hot": 739079,
@@ -156,7 +156,7 @@
     },
     {
       "raw_hot": 125965,
-      "num": 125965,
+      "num": 297306,
       "word": "团播不得浓妆艳抹过度磨皮美颜",
       "onboard_time": 1769529081,
       "rank": 28,
@@ -355,6 +355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 49265,
+      "num": 49265,
+      "word": "杨紫化妆金鹤龙",
+      "onboard_time": 1769536336,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 47143,
       "num": 47143,
       "word": "提到iPhoneAir销量卖手机的笑了",
@@ -387,8 +395,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 36996,
-      "num": 36996,
+      "raw_hot": 37479,
+      "num": 37479,
       "word": "山崎贤人近况",
       "onboard_time": 1769532798,
       "rank": 35,
@@ -427,6 +435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 29523,
+      "num": 29523,
+      "word": "团播不得诱导消费和组织排名攀比",
+      "onboard_time": 1769535376,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29325,
       "num": 43609,
       "word": "手办厂遭纵火致多款游戏周边延期",
@@ -459,12 +475,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 26239,
-      "num": 26239,
-      "word": "团播不得诱导消费和组织排名攀比",
-      "onboard_time": 1769535376,
-      "rank": 47,
-      "category": "民生新闻"
+      "raw_hot": 25233,
+      "num": 25233,
+      "word": "赵丽颖请全国戏迷吃满汉全席",
+      "onboard_time": 1769535196,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 25045,
+      "num": 25045,
+      "word": "王橹杰出演顾晨阳",
+      "onboard_time": 1769516301,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 24489,
@@ -489,6 +513,14 @@
       "onboard_time": 1769519663,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15817,
+      "num": 23857,
+      "word": "勤奋上进的普通中路玩家",
+      "onboard_time": 1769535975,
+      "rank": 49,
+      "category": "游戏"
     }
   ],
   "hotgov_list": [
