@@ -1,0 +1,410 @@
+{
+  "runTime": 1769519128581,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 643877,
+        "num": 1103020,
+        "word": "微博之夜阵容官宣",
+        "onboard_time": 1769487682,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 494276,
+        "num": 799095,
+        "word": "50万亿存款",
+        "onboard_time": 1769505502,
+        "rank": 1,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 25292,
+        "num": 640238,
+        "word": "2026全国两会",
+        "onboard_time": 1769504121,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 363955,
+        "num": 363955,
+        "word": "王橹杰出演顾晨阳",
+        "onboard_time": 1769516301,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 251901,
+        "num": 251901,
+        "word": "多地对国企近亲繁殖出手了",
+        "onboard_time": 1769510421,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 270459,
+        "num": 247981,
+        "word": "微博之夜",
+        "onboard_time": 1769487741,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 237043,
+        "num": 237043,
+        "word": "周大生店员反问顾客买得起吗",
+        "onboard_time": 1769515881,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153144,
+        "num": 153144,
+        "word": "为什么教师行业没有起床气",
+        "onboard_time": 1769503521,
+        "rank": 7,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 139819,
+        "num": 152996,
+        "word": "导师一直叫我微信名怎么办",
+        "onboard_time": 1769497399,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 103822,
+        "num": 152409,
+        "word": "12306托运汽车订单火爆",
+        "onboard_time": 1769510421,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 350273,
+        "num": 151763,
+        "word": "妈妈辅导作业崩溃吞下整罐安眠药",
+        "onboard_time": 1769514741,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 316919,
+        "num": 150748,
+        "word": "章子怡偶遇老同学曾黎",
+        "onboard_time": 1769516422,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258580,
+        "num": 150541,
+        "word": "易烊千玺 造型",
+        "onboard_time": 1769511081,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173064,
+        "num": 149893,
+        "word": "再跳你爸妈要退学费了",
+        "onboard_time": 1769510839,
+        "rank": 13,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 176643,
+        "num": 149036,
+        "word": "张艺谋说希望刘耀文再瘦一点",
+        "onboard_time": 1769509701,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 163367,
+        "num": 148538,
+        "word": "周雨彤工作室道歉",
+        "onboard_time": 1769498000,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148318,
+        "num": 148318,
+        "word": "渐冻人李小中称遭男护工猥亵报案",
+        "onboard_time": 1769510000,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147843,
+        "num": 147843,
+        "word": "入殓师称逝者化妆时偶尔会睁眼",
+        "onboard_time": 1769499321,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31419,
+        "num": 140610,
+        "word": "马年春联卷到乐子人了",
+        "onboard_time": 1769515641,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133691,
+        "num": 133691,
+        "word": "妈妈称学习太卷决定让女儿不上高中",
+        "onboard_time": 1769511500,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1117646,
+        "num": 127512,
+        "word": "何健麒公开无犯罪记录证明",
+        "onboard_time": 1769515701,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98602,
+        "num": 98602,
+        "word": "香奈儿大秀",
+        "onboard_time": 1769513600,
+        "rank": 21,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 785966,
+        "num": 98048,
+        "word": "小酒窝去天津找亲爸了",
+        "onboard_time": 1769517860,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 667381,
+        "num": 97912,
+        "word": "黄金",
+        "onboard_time": 1769517320,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 652643,
+        "num": 96833,
+        "word": "内娱至今无一人塌房的全女综艺",
+        "onboard_time": 1769508680,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 562109,
+        "num": 96273,
+        "word": "张雨绮多个商务被取消",
+        "onboard_time": 1769505682,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284911,
+        "num": 95921,
+        "word": "孕妇吃了一块冷藏蛋糕导致胎儿早产",
+        "onboard_time": 1769518281,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188363,
+        "num": 95092,
+        "word": "1g黄金的区别有多大",
+        "onboard_time": 1769503761,
+        "rank": 27,
+        "category": "科学科普,休闲"
+      },
+      {
+        "raw_hot": 111728,
+        "num": 94463,
+        "word": "年轻人用新三金对抗利率下调",
+        "onboard_time": 1769516001,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 91748,
+        "num": 94193,
+        "word": "阿尔卡拉斯首进澳网男单四强",
+        "onboard_time": 1769518281,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173943,
+        "num": 93381,
+        "word": "难怪考试不让上厕所",
+        "onboard_time": 1769516061,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 149215,
+        "num": 92750,
+        "word": "Jennie最后突然哭不行了",
+        "onboard_time": 1769506701,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 122369,
+        "num": 92266,
+        "word": "杨紫突然笑的这一下好明媚",
+        "onboard_time": 1769508260,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91997,
+        "num": 91997,
+        "word": "LPL第一赛段",
+        "onboard_time": 1769518401,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 100422,
+        "num": 91862,
+        "word": "我们的少年时代2",
+        "onboard_time": 1769517800,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99711,
+        "num": 91546,
+        "word": "曝听泉鉴宝送前女友房子",
+        "onboard_time": 1769503160,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 89212,
+        "num": 89212,
+        "word": "零食界的苹果",
+        "onboard_time": 1769515881,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 86070,
+        "num": 86070,
+        "word": "午睡正在悄悄拉开大脑年龄差",
+        "onboard_time": 1769519061,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 84679,
+        "num": 84679,
+        "word": "四川绵阳市长李云被查",
+        "onboard_time": 1769514020,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 83929,
+        "num": 83929,
+        "word": "为关闭扣费下载软件18万没了",
+        "onboard_time": 1769515941,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79776,
+        "num": 79776,
+        "word": "我终于理解为啥人老了会被骗了",
+        "onboard_time": 1769515041,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 78441,
+        "num": 78441,
+        "word": "香港蔡天凤碎尸案新进展",
+        "onboard_time": 1769503700,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78182,
+        "num": 78182,
+        "word": "杨紫实在是太稳了",
+        "onboard_time": 1769514202,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 77450,
+        "num": 77450,
+        "word": "网红小胖已结婚生子",
+        "onboard_time": 1769513062,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77024,
+        "num": 77024,
+        "word": "2岁萌娃公园玩耍捡70克金项链",
+        "onboard_time": 1769519001,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75976,
+        "num": 75976,
+        "word": "谷爱凌备战米兰每天崩溃每天哭",
+        "onboard_time": 1769518281,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75773,
+        "num": 75773,
+        "word": "贺峻霖 研究生的脑子就是不一样",
+        "onboard_time": 1769501541,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73520,
+        "num": 73520,
+        "word": "TOP空降",
+        "onboard_time": 1769517320,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 70688,
+        "num": 70688,
+        "word": "桃黑黑12个小时上了5颗星",
+        "onboard_time": 1769495060,
+        "rank": 48,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 26585,
+        "num": 70181,
+        "word": "奥迪E5连夺两大年度车桂冠",
+        "onboard_time": 1769514501,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见芬兰总理奥尔波#"
+    }
+  }
+}

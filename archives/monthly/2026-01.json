@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769514370144,
+  "endTime": 1769519128581,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -1280,6 +1280,14 @@
       "word": "王橹杰 这次不是草莓蛋糕了",
       "onboard_time": 1767886341,
       "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1117646,
+      "num": 127512,
+      "word": "何健麒公开无犯罪记录证明",
+      "onboard_time": 1769515701,
+      "rank": 20,
       "category": "艺人"
     },
     {
@@ -2897,6 +2905,14 @@
       "onboard_time": 1767943340,
       "rank": 4,
       "category": "财经"
+    },
+    {
+      "raw_hot": 785966,
+      "num": 98048,
+      "word": "小酒窝去天津找亲爸了",
+      "onboard_time": 1769517860,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 785912,
@@ -7539,6 +7555,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 494276,
+      "num": 799095,
+      "word": "50万亿存款",
+      "onboard_time": 1769505502,
+      "rank": 13,
+      "category": "财经,民生新闻"
+    },
+    {
       "raw_hot": 493980,
       "num": 1093193,
       "word": "长期戴眼镜导致的面部变化",
@@ -12051,6 +12075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 363955,
+      "num": 363955,
+      "word": "王橹杰出演顾晨阳",
+      "onboard_time": 1769516301,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 363412,
       "num": 263565,
       "word": "eStarPro Fly",
@@ -12793,6 +12825,14 @@
       "onboard_time": 1768899622,
       "rank": 24,
       "category": "网红"
+    },
+    {
+      "raw_hot": 350273,
+      "num": 151763,
+      "word": "妈妈辅导作业崩溃吞下整罐安眠药",
+      "onboard_time": 1769514741,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 349847,
@@ -14545,6 +14585,14 @@
       "onboard_time": 1767408509,
       "rank": 1,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 316919,
+      "num": 150748,
+      "word": "章子怡偶遇老同学曾黎",
+      "onboard_time": 1769516422,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 316700,
@@ -16419,6 +16467,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 284911,
+      "num": 95921,
+      "word": "孕妇吃了一块冷藏蛋糕导致胎儿早产",
+      "onboard_time": 1769518281,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 284795,
       "num": 284795,
       "word": "雷军回应1300km只充一次电",
@@ -16732,7 +16788,7 @@
     },
     {
       "raw_hot": 280913,
-      "num": 141512,
+      "num": 150541,
       "word": "易烊千玺 造型",
       "onboard_time": 1769511081,
       "rank": 36,
@@ -20203,6 +20259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 237043,
+      "num": 237043,
+      "word": "周大生店员反问顾客买得起吗",
+      "onboard_time": 1769515881,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 236700,
       "num": 365181,
       "word": "刘耀文说在四代面前自己算老了",
@@ -21385,14 +21449,6 @@
       "onboard_time": 1769420730,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 224656,
-      "num": 224656,
-      "word": "50万亿存款",
-      "onboard_time": 1769505502,
-      "rank": 13,
-      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 224345,
@@ -28913,6 +28969,14 @@
       "onboard_time": 1768519157,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 173943,
+      "num": 93381,
+      "word": "难怪考试不让上厕所",
+      "onboard_time": 1769516061,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 173912,
@@ -47883,6 +47947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 111728,
+      "num": 94463,
+      "word": "年轻人用新三金对抗利率下调",
+      "onboard_time": 1769516001,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 111724,
       "num": 122030,
       "word": "小马闻到去世母马尾毛悄悄流眼泪",
@@ -55387,6 +55459,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 98602,
+      "num": 98602,
+      "word": "香奈儿大秀",
+      "onboard_time": 1769513600,
+      "rank": 33,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 98596,
       "num": 98596,
       "word": "芒果新人人均撞脸杰克逊",
@@ -59323,14 +59403,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 93264,
-      "num": 93264,
-      "word": "香奈儿大秀",
-      "onboard_time": 1769513600,
-      "rank": 33,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 93250,
       "num": 93250,
       "word": "idle回归",
@@ -60251,6 +60323,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 91997,
+      "num": 91997,
+      "word": "LPL第一赛段",
+      "onboard_time": 1769518401,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 91986,
       "num": 91986,
       "word": "女到中年祛魅的三件事",
@@ -60385,6 +60465,14 @@
       "onboard_time": 1767346521,
       "rank": 31,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 91748,
+      "num": 94193,
+      "word": "阿尔卡拉斯首进澳网男单四强",
+      "onboard_time": 1769518281,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 91746,
@@ -62225,6 +62313,14 @@
       "onboard_time": 1769006002,
       "rank": 21,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 89212,
+      "num": 89212,
+      "word": "零食界的苹果",
+      "onboard_time": 1769515881,
+      "rank": 36,
+      "category": "美食"
     },
     {
       "raw_hot": 89193,
@@ -64707,6 +64803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 86070,
+      "num": 86070,
+      "word": "午睡正在悄悄拉开大脑年龄差",
+      "onboard_time": 1769519061,
+      "rank": 37,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 86067,
       "num": 256959,
       "word": "男患者腰痛病历现否认怀孕字样",
@@ -65731,6 +65835,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 84679,
+      "num": 84679,
+      "word": "四川绵阳市长李云被查",
+      "onboard_time": 1769514020,
+      "rank": 48,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 84675,
       "num": 84675,
       "word": "宋雨琦直播",
@@ -66208,6 +66320,14 @@
       "word": "村里专门给柚子铺了60多条铁轨",
       "onboard_time": 1768051283,
       "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 83929,
+      "num": 83929,
+      "word": "为关闭扣费下载软件18万没了",
+      "onboard_time": 1769515941,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -68971,6 +69091,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 79776,
+      "num": 79776,
+      "word": "我终于理解为啥人老了会被骗了",
+      "onboard_time": 1769515041,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 79762,
       "num": 79762,
       "word": "代旭 一直爱女才是苏男的最高境界",
@@ -70571,6 +70699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 77024,
+      "num": 77024,
+      "word": "2岁萌娃公园玩耍捡70克金项链",
+      "onboard_time": 1769519001,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77005,
       "num": 130634,
       "word": "邓莎说如果没有孩子婚姻会更短",
@@ -71113,6 +71249,14 @@
       "onboard_time": 1768364301,
       "rank": 39,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 75976,
+      "num": 75976,
+      "word": "谷爱凌备战米兰每天崩溃每天哭",
+      "onboard_time": 1769518281,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 75946,
@@ -72417,6 +72561,14 @@
       "onboard_time": 1768993761,
       "rank": 46,
       "category": "幽默,美食"
+    },
+    {
+      "raw_hot": 73520,
+      "num": 73520,
+      "word": "TOP空降",
+      "onboard_time": 1769517320,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 73453,
@@ -77425,14 +77577,6 @@
       "onboard_time": 1769103736,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 59241,
-      "num": 71511,
-      "word": "四川绵阳市长李云被查",
-      "onboard_time": 1769514020,
-      "rank": 48,
-      "category": "国内时政"
     },
     {
       "raw_hot": 59236,
@@ -84651,6 +84795,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 31419,
+      "num": 140610,
+      "word": "马年春联卷到乐子人了",
+      "onboard_time": 1769515641,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 31412,
       "num": 182943,
       "word": "员工拒绝出差后被安装一对一摄像头",
@@ -86081,6 +86233,14 @@
       "onboard_time": 1768811421,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26585,
+      "num": 70181,
+      "word": "奥迪E5连夺两大年度车桂冠",
+      "onboard_time": 1769514501,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 26581,
