@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769497289741,
+  "endTime": 1769499380358,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -1755,6 +1755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 985683,
+      "num": 490535,
+      "word": "导师一直叫我微信名怎么办",
+      "onboard_time": 1769497399,
+      "rank": 5,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 985682,
       "num": 293064,
       "word": "白百何还回来当女明星吗",
@@ -2099,6 +2107,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 903856,
+      "num": 281788,
+      "word": "周雨彤工作室道歉",
+      "onboard_time": 1769498000,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 903109,
       "num": 149975,
       "word": "刘一诺直播回应和檀健次的恋情",
@@ -2385,22 +2401,6 @@
       "onboard_time": 1769382617,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 844462,
-      "num": 303981,
-      "word": "月薪一万的工作强度",
-      "onboard_time": 1767692300,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 842481,
-      "num": 490115,
-      "word": "贾国龙让罗永浩千万别忍",
-      "onboard_time": 1768564642,
-      "rank": 11,
-      "category": "民生新闻,互联网"
     }
   ],
   "hotgov_list": [

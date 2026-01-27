@@ -1,6 +1,6 @@
 {
   "startTime": 1769272464158,
-  "endTime": 1769497289741,
+  "endTime": 1769499380358,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -171,12 +171,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 985683,
+      "num": 490535,
+      "word": "导师一直叫我微信名怎么办",
+      "onboard_time": 1769497399,
+      "rank": 5,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 955627,
       "num": 1152900,
       "word": "U23国足0比4日本队",
       "onboard_time": 1769274381,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 903856,
+      "num": 281788,
+      "word": "周雨彤工作室道歉",
+      "onboard_time": 1769498000,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 868024,
@@ -299,6 +315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 704301,
+      "num": 704301,
+      "word": "桃黑黑12个小时上了5颗星",
+      "onboard_time": 1769495060,
+      "rank": 15,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 704278,
       "num": 330755,
       "word": "拜合拉木",
@@ -393,6 +417,14 @@
       "onboard_time": 1769474480,
       "rank": 0,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 641322,
+      "num": 1102611,
+      "word": "小伙救人按断女子6根肋骨收到谢谢",
+      "onboard_time": 1769494881,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 634852,
@@ -609,14 +641,6 @@
       "onboard_time": 1769264362,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 528680,
-      "num": 528680,
-      "word": "桃黑黑12个小时上了5颗星",
-      "onboard_time": 1769495060,
-      "rank": 15,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 527816,
@@ -1075,14 +1099,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 369572,
-      "num": 369572,
-      "word": "小伙救人按断女子6根肋骨收到谢谢",
-      "onboard_time": 1769494881,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 367868,
       "num": 367868,
       "word": "美国多地暴雪无家可归者仍露宿街头",
@@ -1092,7 +1108,7 @@
     },
     {
       "raw_hot": 364987,
-      "num": 174115,
+      "num": 256469,
       "word": "高市早苗破防了",
       "onboard_time": 1769493199,
       "rank": 20,
@@ -2267,6 +2283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 201285,
+      "num": 139322,
+      "word": "徐冬冬尹子维结婚线下排面",
+      "onboard_time": 1769497700,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200760,
       "num": 200760,
       "word": "网友刚买iPhoneAir第二天就降价2000元",
@@ -2625,6 +2649,14 @@
       "onboard_time": 1769315300,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 169495,
+      "num": 169495,
+      "word": "生命树发布会",
+      "onboard_time": 1769495660,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 169221,
@@ -3331,6 +3363,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 132363,
+      "num": 132363,
+      "word": "婴儿期记忆能不消失吗",
+      "onboard_time": 1769495962,
+      "rank": 36,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 132128,
       "num": 132128,
       "word": "尼帕病毒目前尚无疫苗",
@@ -3361,6 +3401,14 @@
       "onboard_time": 1769336960,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 129759,
+      "num": 129759,
+      "word": "入殓师称逝者化妆时偶尔会睁眼",
+      "onboard_time": 1769499321,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129627,
@@ -3401,6 +3449,14 @@
       "onboard_time": 1769413941,
       "rank": 26,
       "category": "财经"
+    },
+    {
+      "raw_hot": 127972,
+      "num": 127972,
+      "word": "海涛自曝朋友圈的置顶",
+      "onboard_time": 1769497040,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 127906,
@@ -3465,6 +3521,14 @@
       "onboard_time": 1769470699,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 126657,
+      "num": 126657,
+      "word": "被问及邪教文件高市早苗笑容消失",
+      "onboard_time": 1769497760,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 126613,
@@ -3657,14 +3721,6 @@
       "onboard_time": 1769383037,
       "rank": 23,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 121659,
-      "num": 121659,
-      "word": "生命树发布会",
-      "onboard_time": 1769495660,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 121528,
@@ -3979,6 +4035,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 112638,
+      "num": 112638,
+      "word": "A股中国黄金涨停",
+      "onboard_time": 1769498180,
+      "rank": 32,
+      "category": "财经"
+    },
+    {
       "raw_hot": 112476,
       "num": 112476,
       "word": "突然明白了同学录的意思",
@@ -4259,14 +4323,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 105927,
-      "num": 109988,
-      "word": "婴儿期记忆能不消失吗",
-      "onboard_time": 1769495962,
-      "rank": 36,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 105466,
       "num": 105466,
       "word": "部分权重股现大额压单",
@@ -4353,14 +4409,6 @@
       "onboard_time": 1769481200,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 104357,
-      "num": 98148,
-      "word": "海涛自曝朋友圈的置顶",
-      "onboard_time": 1769497040,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 104197,
@@ -4787,6 +4835,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 98231,
+      "num": 96915,
+      "word": "现偶拍成这样子真牛",
+      "onboard_time": 1769497760,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 98149,
       "num": 98149,
       "word": "凡人修仙传又上央视了",
@@ -4809,6 +4865,14 @@
       "onboard_time": 1769351541,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 97610,
+      "num": 97610,
+      "word": "iPhone17系列销量快破2000万",
+      "onboard_time": 1769497459,
+      "rank": 36,
+      "category": "数码"
     },
     {
       "raw_hot": 97406,
@@ -5035,6 +5099,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 95831,
+      "num": 95831,
+      "word": "白血病男孩离世爸爸发声",
+      "onboard_time": 1769495421,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 95763,
       "num": 121564,
       "word": "老虎在雪地睡觉把一片热化了",
@@ -5089,6 +5161,14 @@
       "onboard_time": 1769419402,
       "rank": 40,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 95210,
+      "num": 95210,
+      "word": "A股芯片产业链集体走强",
+      "onboard_time": 1769499321,
+      "rank": 41,
+      "category": "财经"
     },
     {
       "raw_hot": 95102,
@@ -5545,6 +5625,14 @@
       "onboard_time": 1769308222,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 88361,
+      "num": 88361,
+      "word": "客人走后店员单独笑了半小时",
+      "onboard_time": 1769497280,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 88354,
@@ -6081,6 +6169,14 @@
       "onboard_time": 1769469799,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 81062,
+      "num": 81062,
+      "word": "DeepSeek开源OCR2",
+      "onboard_time": 1769499261,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 80966,
@@ -8187,6 +8283,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26529,
+      "num": 140644,
+      "word": "北海道暴雪约7000人滞留机场",
+      "onboard_time": 1769498960,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 26519,
+      "num": 96283,
+      "word": "4岁女儿贴心照料生病的妈妈",
+      "onboard_time": 1769499080,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26420,
       "num": 147399,
       "word": "直击旅日大熊猫最终参观日",
@@ -8249,6 +8361,14 @@
       "onboard_time": 1769480839,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25300,
+      "num": 190987,
+      "word": "英首相斯塔默将访华",
+      "onboard_time": 1769498900,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 24673,
@@ -8447,6 +8567,14 @@
       "num": 106841,
       "word": "江西唇腭裂女童6岁才20斤",
       "onboard_time": 1769350824,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19509,
+      "num": 95976,
+      "word": "香港公务员表现欠佳可被着令退休",
+      "onboard_time": 1769498960,
       "rank": 39,
       "category": "民生新闻"
     },

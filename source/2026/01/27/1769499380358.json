@@ -1,0 +1,410 @@
+{
+  "runTime": 1769499380358,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 641322,
+        "num": 1102611,
+        "word": "小伙救人按断女子6根肋骨收到谢谢",
+        "onboard_time": 1769494881,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 518202,
+        "num": 800522,
+        "word": "微博之夜阵容官宣",
+        "onboard_time": 1769487682,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 62939,
+        "num": 727755,
+        "word": "我国全超导磁体有重大突破",
+        "onboard_time": 1769491701,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 704301,
+        "num": 704301,
+        "word": "桃黑黑12个小时上了5颗星",
+        "onboard_time": 1769495060,
+        "rank": 3,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 494353,
+        "num": 494353,
+        "word": "李蓓清仓黄金",
+        "onboard_time": 1769493980,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 985683,
+        "num": 490535,
+        "word": "导师一直叫我微信名怎么办",
+        "onboard_time": 1769497399,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 485362,
+        "num": 485362,
+        "word": "50万亿存款将到期用户寻找存款贵替",
+        "onboard_time": 1769476219,
+        "rank": 6,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 476820,
+        "num": 476820,
+        "word": "微博之夜",
+        "onboard_time": 1769487741,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 346090,
+        "num": 346090,
+        "word": "张艺谋 体重管理最严厉的父亲",
+        "onboard_time": 1769494160,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 284831,
+        "num": 284831,
+        "word": "支付宝集福",
+        "onboard_time": 1769483781,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 903856,
+        "num": 281788,
+        "word": "周雨彤工作室道歉",
+        "onboard_time": 1769498000,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 615843,
+        "num": 270623,
+        "word": "韩国人还在睡梦中特朗普突然下手",
+        "onboard_time": 1769494640,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 476873,
+        "num": 269712,
+        "word": "戚薇撞脸金晨",
+        "onboard_time": 1769492720,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256469,
+        "num": 256469,
+        "word": "高市早苗破防了",
+        "onboard_time": 1769493199,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 25300,
+        "num": 190987,
+        "word": "英首相斯塔默将访华",
+        "onboard_time": 1769498900,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 180289,
+        "num": 180289,
+        "word": "时代峰峻最著名的一滴泪",
+        "onboard_time": 1769488582,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169862,
+        "num": 169862,
+        "word": "会旅游和不会旅游的区别",
+        "onboard_time": 1769491581,
+        "rank": 16,
+        "category": "幽默,旅游"
+      },
+      {
+        "raw_hot": 169495,
+        "num": 169495,
+        "word": "生命树发布会",
+        "onboard_time": 1769495660,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159641,
+        "num": 159641,
+        "word": "丁真名下工作室欠税3.4万被公告",
+        "onboard_time": 1769485940,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26529,
+        "num": 140644,
+        "word": "北海道暴雪约7000人滞留机场",
+        "onboard_time": 1769498960,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 201285,
+        "num": 139322,
+        "word": "徐冬冬尹子维结婚线下排面",
+        "onboard_time": 1769497700,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190849,
+        "num": 139090,
+        "word": "刘亦菲 祖玛珑",
+        "onboard_time": 1769481081,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134434,
+        "num": 134434,
+        "word": "什么工作下班不会再找你",
+        "onboard_time": 1769486781,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 139568,
+        "num": 133534,
+        "word": "刘宇宁谈配角掀桌",
+        "onboard_time": 1769494279,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 132363,
+        "num": 132363,
+        "word": "婴儿期记忆能不消失吗",
+        "onboard_time": 1769495962,
+        "rank": 24,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 129759,
+        "num": 129759,
+        "word": "入殓师称逝者化妆时偶尔会睁眼",
+        "onboard_time": 1769499321,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127972,
+        "num": 127972,
+        "word": "海涛自曝朋友圈的置顶",
+        "onboard_time": 1769497040,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127816,
+        "num": 127816,
+        "word": "12306回应女子买到单人独座",
+        "onboard_time": 1769493261,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53533,
+        "num": 126764,
+        "word": "马年春联开始文武双全了",
+        "onboard_time": 1769495780,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126657,
+        "num": 126657,
+        "word": "被问及邪教文件高市早苗笑容消失",
+        "onboard_time": 1769497760,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 125866,
+        "num": 125866,
+        "word": "好利来涉事产品已全部销毁",
+        "onboard_time": 1769495120,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121838,
+        "num": 121838,
+        "word": "周也王玉雯 从胸口聊到巴黎",
+        "onboard_time": 1769489301,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112638,
+        "num": 112638,
+        "word": "A股中国黄金涨停",
+        "onboard_time": 1769498180,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 106635,
+        "num": 106635,
+        "word": "金价银价巨震",
+        "onboard_time": 1769476880,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 104249,
+        "num": 104249,
+        "word": "章若楠 我这样的一抓一大把",
+        "onboard_time": 1769493680,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99142,
+        "num": 99142,
+        "word": "生命树",
+        "onboard_time": 1769485041,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97610,
+        "num": 97610,
+        "word": "iPhone17系列销量快破2000万",
+        "onboard_time": 1769497459,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 98231,
+        "num": 96915,
+        "word": "现偶拍成这样子真牛",
+        "onboard_time": 1769497760,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26519,
+        "num": 96283,
+        "word": "4岁女儿贴心照料生病的妈妈",
+        "onboard_time": 1769499080,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19509,
+        "num": 95976,
+        "word": "香港公务员表现欠佳可被着令退休",
+        "onboard_time": 1769498960,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95831,
+        "num": 95831,
+        "word": "白血病男孩离世爸爸发声",
+        "onboard_time": 1769495421,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95210,
+        "num": 95210,
+        "word": "A股芯片产业链集体走强",
+        "onboard_time": 1769499321,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 94585,
+        "num": 94585,
+        "word": "让白鹿戴抹额的人真是个天才",
+        "onboard_time": 1769493561,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92739,
+        "num": 92739,
+        "word": "文淇 我是学生能小刀吗",
+        "onboard_time": 1769496980,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90913,
+        "num": 90913,
+        "word": "办公室奶茶文化",
+        "onboard_time": 1769485882,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 88361,
+        "num": 88361,
+        "word": "客人走后店员单独笑了半小时",
+        "onboard_time": 1769497280,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 86428,
+        "num": 86428,
+        "word": "男子电诈园区跳楼逃生险被活埋",
+        "onboard_time": 1769491281,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85365,
+        "num": 85365,
+        "word": "杨紫这段完播率1000%",
+        "onboard_time": 1769488642,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85063,
+        "num": 85063,
+        "word": "内娱眼熟的短剧演员全来了",
+        "onboard_time": 1769496139,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 81062,
+        "num": 81062,
+        "word": "DeepSeek开源OCR2",
+        "onboard_time": 1769499261,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#中越应当坚持道不变志不改#"
+    }
+  }
+}
