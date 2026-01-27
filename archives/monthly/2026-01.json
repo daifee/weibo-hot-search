@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769493112519,
+  "endTime": 1769496421745,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -3731,6 +3731,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 680038,
+      "num": 250412,
+      "word": "戚薇撞脸金晨",
+      "onboard_time": 1769492720,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 679440,
       "num": 260769,
       "word": "女子哭诉带2岁儿子去女浴室遭拒",
@@ -4849,6 +4857,14 @@
       "onboard_time": 1768724060,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 599849,
+      "num": 247466,
+      "word": "韩国人还在睡梦中特朗普突然下手",
+      "onboard_time": 1769494640,
+      "rank": 11,
+      "category": "国际时政"
     },
     {
       "raw_hot": 599391,
@@ -6585,6 +6601,14 @@
       "onboard_time": 1769091741,
       "rank": 5,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 521233,
+      "num": 521233,
+      "word": "李蓓清仓黄金",
+      "onboard_time": 1769493980,
+      "rank": 3,
+      "category": "财经"
     },
     {
       "raw_hot": 521137,
@@ -8563,6 +8587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 455125,
+      "num": 455125,
+      "word": "张艺谋 体重管理最严厉的父亲",
+      "onboard_time": 1769494160,
+      "rank": 5,
+      "category": "电影"
+    },
+    {
       "raw_hot": 455080,
       "num": 172553,
       "word": "唐嫣粉裙",
@@ -9921,6 +9953,14 @@
       "onboard_time": 1768366341,
       "rank": 7,
       "category": "数码"
+    },
+    {
+      "raw_hot": 412345,
+      "num": 412345,
+      "word": "男子电诈园区跳楼逃生险被活埋",
+      "onboard_time": 1769491281,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 412245,
@@ -12707,6 +12747,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 347881,
+      "num": 173893,
+      "word": "高市早苗破防了",
+      "onboard_time": 1769493199,
+      "rank": 20,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 347833,
       "num": 280253,
       "word": "谢娜 女本位",
@@ -12953,14 +13001,6 @@
       "onboard_time": 1768876939,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 342153,
-      "num": 233908,
-      "word": "戚薇撞脸金晨",
-      "onboard_time": 1769492720,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 342127,
@@ -16315,6 +16355,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 283321,
+      "num": 283321,
+      "word": "会旅游和不会旅游的区别",
+      "onboard_time": 1769491581,
+      "rank": 17,
+      "category": "幽默,旅游"
+    },
+    {
       "raw_hot": 283293,
       "num": 607935,
       "word": "解放军演练斩首行动台独慌了",
@@ -18321,6 +18369,14 @@
       "onboard_time": 1767323899,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 259279,
+      "num": 259279,
+      "word": "小伙救人按断女子6根肋骨收到谢谢",
+      "onboard_time": 1769494881,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 259165,
@@ -21347,14 +21403,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 221910,
-      "num": 221910,
-      "word": "会旅游和不会旅游的区别",
-      "onboard_time": 1769491581,
-      "rank": 17,
-      "category": "幽默,旅游"
-    },
-    {
       "raw_hot": 221788,
       "num": 169583,
       "word": "苏新皓我听到啦",
@@ -22051,6 +22099,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 215015,
+      "num": 215015,
+      "word": "桃黑黑12个小时上了5颗星",
+      "onboard_time": 1769495060,
+      "rank": 15,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 214961,
       "num": 214961,
       "word": "花千骨二番依旧出圈",
@@ -22459,6 +22515,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 211948,
+      "num": 211948,
+      "word": "时代峰峻最著名的一滴泪",
+      "onboard_time": 1769488582,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 211832,
       "num": 760367,
       "word": "夫妻卖10元盒饭20年挣2套房",
@@ -22545,14 +22609,6 @@
       "onboard_time": 1768735462,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 210909,
-      "num": 210909,
-      "word": "时代峰峻最著名的一滴泪",
-      "onboard_time": 1769488582,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 210906,
@@ -25507,6 +25563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 191424,
+      "num": 191424,
+      "word": "12306回应女子买到单人独座",
+      "onboard_time": 1769493261,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 191346,
       "num": 191346,
       "word": "王俊凯QQ音乐装扮",
@@ -27233,6 +27297,14 @@
       "onboard_time": 1767878901,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 182318,
+      "num": 169928,
+      "word": "刘宇宁谈配角掀桌",
+      "onboard_time": 1769494279,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 182218,
@@ -31611,6 +31683,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 158611,
+      "num": 158611,
+      "word": "让白鹿戴抹额的人真是个天才",
+      "onboard_time": 1769493561,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 158582,
       "num": 1403714,
       "word": "马航MH370搜寻船抵达目标海域",
@@ -33809,6 +33889,14 @@
       "onboard_time": 1768312584,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 149006,
+      "num": 149006,
+      "word": "内娱眼熟的短剧演员全来了",
+      "onboard_time": 1769496139,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 148966,
@@ -36939,6 +37027,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 138449,
+      "num": 138449,
+      "word": "半糖青梅",
+      "onboard_time": 1769492780,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 138440,
       "num": 138440,
       "word": "医生提醒肾脏疾病注意这些征兆",
@@ -37689,6 +37785,14 @@
       "onboard_time": 1768218861,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 135748,
+      "num": 135748,
+      "word": "章若楠 我这样的一抓一大把",
+      "onboard_time": 1769493680,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 135717,
@@ -40507,6 +40611,14 @@
       "category": "民生新闻,体育"
     },
     {
+      "raw_hot": 127333,
+      "num": 127333,
+      "word": "谁家女主开局就配冥婚啊",
+      "onboard_time": 1769494759,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 127312,
       "num": 127312,
       "word": "银价大跳水",
@@ -42819,6 +42931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121659,
+      "num": 121659,
+      "word": "生命树发布会",
+      "onboard_time": 1769495660,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 121627,
       "num": 121627,
       "word": "向出轨丈夫道歉女子称自己多次住院",
@@ -43009,14 +43129,6 @@
       "onboard_time": 1768648761,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 121257,
-      "num": 134958,
-      "word": "男子电诈园区跳楼逃生险被活埋",
-      "onboard_time": 1769491281,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 121220,
@@ -43321,6 +43433,14 @@
       "onboard_time": 1768216581,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 120664,
+      "num": 152101,
+      "word": "好利来涉事产品已全部销毁",
+      "onboard_time": 1769495120,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 120653,
@@ -44081,6 +44201,14 @@
       "onboard_time": 1767861740,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 118814,
+      "num": 97595,
+      "word": "MBC演唱会取消",
+      "onboard_time": 1769494940,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 118796,
@@ -51771,6 +51899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 103405,
+      "num": 103405,
+      "word": "婴儿期记忆能不消失吗",
+      "onboard_time": 1769495962,
+      "rank": 36,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 103381,
       "num": 193128,
       "word": "TES对战BLG",
@@ -55035,14 +55171,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 98090,
-      "num": 91969,
-      "word": "半糖青梅",
-      "onboard_time": 1769492780,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 98083,
       "num": 98083,
       "word": "网红被前男友PUA导致容貌焦虑",
@@ -55569,6 +55697,14 @@
       "onboard_time": 1767932061,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 97476,
+      "num": 97476,
+      "word": "年轻人血脉觉醒的表现",
+      "onboard_time": 1769496260,
+      "rank": 42,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 97424,
@@ -56467,6 +56603,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 96253,
+      "num": 96253,
+      "word": "王楚钦最近的停停走走",
+      "onboard_time": 1769494279,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 96252,
       "num": 70873,
       "word": "为保护马杜罗古巴警卫激烈抵抗",
@@ -57315,6 +57459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 95070,
+      "num": 95070,
+      "word": "张杰 这首歌也要我们来吗",
+      "onboard_time": 1769496139,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 95068,
       "num": 95068,
       "word": "4199元一瓶的茅台上线首日被秒空",
@@ -57449,6 +57601,14 @@
       "onboard_time": 1767455723,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 94836,
+      "num": 94836,
+      "word": "南方装地暖受害者",
+      "onboard_time": 1769496081,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 94834,
@@ -58649,6 +58809,14 @@
       "onboard_time": 1768782621,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93217,
+      "num": 93217,
+      "word": "月薪3千过出1万的生活质量",
+      "onboard_time": 1769492241,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 93195,
@@ -60689,6 +60857,14 @@
       "onboard_time": 1768568000,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 90358,
+      "num": 135839,
+      "word": "马年春联开始文武双全了",
+      "onboard_time": 1769495780,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 90349,
@@ -64027,6 +64203,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 85891,
+      "num": 85891,
+      "word": "82岁退休语文老师的人生遗嘱",
+      "onboard_time": 1769496380,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 85881,
       "num": 253665,
       "word": "468元一个龙虾尾",
@@ -66761,14 +66945,6 @@
       "onboard_time": 1768631120,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 81749,
-      "num": 81749,
-      "word": "月薪3千过出1万的生活质量",
-      "onboard_time": 1769492241,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 81734,
@@ -69761,6 +69937,14 @@
       "onboard_time": 1767590123,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 76813,
+      "num": 875068,
+      "word": "我国全超导磁体有重大突破",
+      "onboard_time": 1769491701,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 76801,
@@ -77243,14 +77427,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 56211,
-      "num": 875068,
-      "word": "我国全超导磁体有重大突破",
-      "onboard_time": 1769491701,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 56180,
       "num": 108687,
       "word": "安徽省应急广播深夜误播5分钟节目",
@@ -82643,6 +82819,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 34774,
+      "num": 101396,
+      "word": "TFING微博之夜官宣图",
+      "onboard_time": 1769495540,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 34763,
       "num": 198251,
       "word": "张家界 猴子监工",
@@ -85915,6 +86099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23026,
+      "num": 220262,
+      "word": "刘宇宁京东新衣",
+      "onboard_time": 1769494041,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 22998,
       "num": 22998,
       "word": "期待肖战小城良方",
@@ -86728,6 +86920,14 @@
       "word": "多地新年第一会释放重要信号",
       "onboard_time": 1767845482,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20708,
+      "num": 97631,
+      "word": "卖炸鸡的摇奶茶的集体盯上轻食",
+      "onboard_time": 1769495240,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -88200,6 +88400,14 @@
       "word": "知情者称柬埔寨部分电诈园区打开大门",
       "onboard_time": 1768836381,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14430,
+      "num": 175329,
+      "word": "宝利德阴阳账本套牢浙商老钱新贵",
+      "onboard_time": 1769495360,
+      "rank": 19,
       "category": "民生新闻"
     },
     {

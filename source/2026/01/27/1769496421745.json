@@ -1,0 +1,410 @@
+{
+  "runTime": 1769496421745,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1154564,
+        "num": 1184730,
+        "word": "微博之夜阵容官宣",
+        "onboard_time": 1769487682,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 570980,
+        "num": 852775,
+        "word": "50万亿存款将到期用户寻找存款贵替",
+        "onboard_time": 1769476219,
+        "rank": 1,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 76813,
+        "num": 657418,
+        "word": "我国全超导磁体有重大突破",
+        "onboard_time": 1769491701,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 521233,
+        "num": 521233,
+        "word": "李蓓清仓黄金",
+        "onboard_time": 1769493980,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 470994,
+        "num": 470994,
+        "word": "微博之夜",
+        "onboard_time": 1769487741,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 455125,
+        "num": 455125,
+        "word": "张艺谋 体重管理最严厉的父亲",
+        "onboard_time": 1769494160,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 412345,
+        "num": 412345,
+        "word": "男子电诈园区跳楼逃生险被活埋",
+        "onboard_time": 1769491281,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 307067,
+        "num": 307067,
+        "word": "支付宝集福",
+        "onboard_time": 1769483781,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 283321,
+        "num": 283321,
+        "word": "会旅游和不会旅游的区别",
+        "onboard_time": 1769491581,
+        "rank": 8,
+        "category": "幽默,旅游"
+      },
+      {
+        "raw_hot": 259279,
+        "num": 259279,
+        "word": "小伙救人按断女子6根肋骨收到谢谢",
+        "onboard_time": 1769494881,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 680038,
+        "num": 250412,
+        "word": "戚薇撞脸金晨",
+        "onboard_time": 1769492720,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 599849,
+        "num": 247466,
+        "word": "韩国人还在睡梦中特朗普突然下手",
+        "onboard_time": 1769494640,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 234433,
+        "num": 234433,
+        "word": "周也王玉雯 从胸口聊到巴黎",
+        "onboard_time": 1769489301,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227992,
+        "num": 227992,
+        "word": "什么工作下班不会再找你",
+        "onboard_time": 1769486781,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 23026,
+        "num": 220262,
+        "word": "刘宇宁京东新衣",
+        "onboard_time": 1769494041,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215015,
+        "num": 215015,
+        "word": "桃黑黑12个小时上了5颗星",
+        "onboard_time": 1769495060,
+        "rank": 15,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 211948,
+        "num": 211948,
+        "word": "时代峰峻最著名的一滴泪",
+        "onboard_time": 1769488582,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191424,
+        "num": 191424,
+        "word": "12306回应女子买到单人独座",
+        "onboard_time": 1769493261,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176328,
+        "num": 176328,
+        "word": "丁真名下工作室欠税3.4万被公告",
+        "onboard_time": 1769485940,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14430,
+        "num": 175329,
+        "word": "宝利德阴阳账本套牢浙商老钱新贵",
+        "onboard_time": 1769495360,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 347881,
+        "num": 173893,
+        "word": "高市早苗破防了",
+        "onboard_time": 1769493199,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 346585,
+        "num": 171485,
+        "word": "刘亦菲 祖玛珑",
+        "onboard_time": 1769481081,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182318,
+        "num": 169928,
+        "word": "刘宇宁谈配角掀桌",
+        "onboard_time": 1769494279,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138012,
+        "num": 167584,
+        "word": "金价银价巨震",
+        "onboard_time": 1769476880,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 166928,
+        "num": 166928,
+        "word": "杨紫这段完播率1000%",
+        "onboard_time": 1769488642,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158611,
+        "num": 158611,
+        "word": "让白鹿戴抹额的人真是个天才",
+        "onboard_time": 1769493561,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120664,
+        "num": 152101,
+        "word": "好利来涉事产品已全部销毁",
+        "onboard_time": 1769495120,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149006,
+        "num": 149006,
+        "word": "内娱眼熟的短剧演员全来了",
+        "onboard_time": 1769496139,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138449,
+        "num": 138449,
+        "word": "半糖青梅",
+        "onboard_time": 1769492780,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90358,
+        "num": 135839,
+        "word": "马年春联开始文武双全了",
+        "onboard_time": 1769495780,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135748,
+        "num": 135748,
+        "word": "章若楠 我这样的一抓一大把",
+        "onboard_time": 1769493680,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127333,
+        "num": 127333,
+        "word": "谁家女主开局就配冥婚啊",
+        "onboard_time": 1769494759,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116691,
+        "num": 122072,
+        "word": "办公室奶茶文化",
+        "onboard_time": 1769485882,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121659,
+        "num": 121659,
+        "word": "生命树发布会",
+        "onboard_time": 1769495660,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119914,
+        "num": 119914,
+        "word": "迪丽热巴 一个人当然可以拍婚纱照",
+        "onboard_time": 1769488462,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103898,
+        "num": 103898,
+        "word": "外网AI视频假如中国替代了美国",
+        "onboard_time": 1769488342,
+        "rank": 35,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 103405,
+        "num": 103405,
+        "word": "婴儿期记忆能不消失吗",
+        "onboard_time": 1769495962,
+        "rank": 36,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 34774,
+        "num": 101396,
+        "word": "TFING微博之夜官宣图",
+        "onboard_time": 1769495540,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 99742,
+        "num": 99742,
+        "word": "女子免疫系统攻击胚胎8年反复流产",
+        "onboard_time": 1769477961,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20708,
+        "num": 97631,
+        "word": "卖炸鸡的摇奶茶的集体盯上轻食",
+        "onboard_time": 1769495240,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118814,
+        "num": 97595,
+        "word": "MBC演唱会取消",
+        "onboard_time": 1769494940,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 114323,
+        "num": 97539,
+        "word": "周雨彤回复了章若楠粉丝",
+        "onboard_time": 1769491701,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97476,
+        "num": 97476,
+        "word": "年轻人血脉觉醒的表现",
+        "onboard_time": 1769496260,
+        "rank": 42,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 96253,
+        "num": 96253,
+        "word": "王楚钦最近的停停走走",
+        "onboard_time": 1769494279,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95070,
+        "num": 95070,
+        "word": "张杰 这首歌也要我们来吗",
+        "onboard_time": 1769496139,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 94836,
+        "num": 94836,
+        "word": "南方装地暖受害者",
+        "onboard_time": 1769496081,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 93217,
+        "num": 93217,
+        "word": "月薪3千过出1万的生活质量",
+        "onboard_time": 1769492241,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 93216,
+        "num": 93216,
+        "word": "日本警方逮捕一名三刀流男子",
+        "onboard_time": 1769487561,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 91564,
+        "num": 91564,
+        "word": "女性睡眠不足危害更大",
+        "onboard_time": 1769489841,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 85891,
+        "num": 85891,
+        "word": "82岁退休语文老师的人生遗嘱",
+        "onboard_time": 1769496380,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#中越应当坚持道不变志不改#"
+    }
+  }
+}
