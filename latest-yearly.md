@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/27 16:58:38
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/27 17:41:43
 </p>
 </blockquote>
 <p>
@@ -945,6 +945,12 @@ MRC对战Gr（热度：1190595）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E5%90%AC%E6%B3%89%E9%89%B4%E5%AE%9D%E9%80%81%E5%89%8D%E5%A5%B3%E5%8F%8B%E6%88%BF%E5%AD%90%23" target="weibo">
+曝听泉鉴宝送前女友房子（热度：1121542）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%9C%A8%E7%BA%A2%E6%AF%AF%E6%88%B4%E5%B8%BD%E5%AD%90%23" target="weibo">
 关晓彤第一次在红毯戴帽子（热度：1118693）
 </a>
@@ -1805,12 +1811,6 @@ DYG战胜狼队（热度：867183）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A9%BA%E5%A7%90%E7%AC%91%E4%BA%86%E5%8D%8A%E5%B0%8F%E6%97%B6%E6%89%8D%E6%8A%8A%E6%A9%99%E6%B1%81%E5%80%92%E4%B8%8B%E5%8E%BB%23" target="weibo">
 空姐笑了半小时才把橙汁倒下去（热度：845845）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%8F%91%E7%8E%B0%E5%A6%BB%E5%AD%90%E6%AF%8F%E5%A4%A9%E4%B8%8A%E5%8E%95%E6%89%80%E9%A1%BA%E8%B7%AF%E5%AD%981000%23" target="weibo">
-男子发现妻子每天上厕所顺路存1000（热度：844567）
 </a>
 </li>
 

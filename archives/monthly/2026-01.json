@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769504318238,
+  "endTime": 1769506903950,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -1241,6 +1241,14 @@
       "onboard_time": 1767654558,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1121542,
+      "num": 212467,
+      "word": "曝听泉鉴宝送前女友房子",
+      "onboard_time": 1769503160,
+      "rank": 37,
+      "category": "网红"
     },
     {
       "raw_hot": 1118693,
@@ -4121,6 +4129,14 @@
       "onboard_time": 1768527919,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 652124,
+      "num": 156208,
+      "word": "张雨绮多个商务被取消",
+      "onboard_time": 1769505682,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 652089,
@@ -8243,6 +8259,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 468610,
+      "num": 836570,
+      "word": "1g黄金的区别有多大",
+      "onboard_time": 1769503761,
+      "rank": 31,
+      "category": "科学科普,休闲"
+    },
+    {
       "raw_hot": 467932,
       "num": 467932,
       "word": "英雄联盟",
@@ -10067,14 +10091,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 411841,
-      "num": 212467,
-      "word": "曝听泉鉴宝送前女友房子",
-      "onboard_time": 1769503160,
-      "rank": 37,
-      "category": "网红"
-    },
-    {
       "raw_hot": 411792,
       "num": 328391,
       "word": "三九天喝苹果水",
@@ -10945,6 +10961,14 @@
       "onboard_time": 1769489301,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 390159,
+      "num": 336310,
+      "word": "香港蔡天凤碎尸案新进展",
+      "onboard_time": 1769503700,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 389420,
@@ -13385,6 +13409,14 @@
       "onboard_time": 1768478060,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 334676,
+      "num": 334676,
+      "word": "黄杨钿甜官宣微博之夜",
+      "onboard_time": 1769502201,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 334407,
@@ -21259,6 +21291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 224656,
+      "num": 224656,
+      "word": "50万亿存款",
+      "onboard_time": 1769505502,
+      "rank": 13,
+      "category": "财经,民生新闻"
+    },
+    {
       "raw_hot": 224345,
       "num": 224345,
       "word": "LGDNBW对战WE",
@@ -22473,14 +22513,6 @@
       "onboard_time": 1768908623,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 213060,
-      "num": 213060,
-      "word": "香港蔡天凤碎尸案新进展",
-      "onboard_time": 1769503700,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 212979,
@@ -24827,6 +24859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 196060,
+      "num": 196060,
+      "word": "idle单曲MV",
+      "onboard_time": 1769505921,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 196039,
       "num": 163334,
       "word": "黄金涨飞了",
@@ -25225,6 +25265,14 @@
       "onboard_time": 1768735403,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 193968,
+      "num": 193968,
+      "word": "罗马仕被处罚",
+      "onboard_time": 1769501361,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 193955,
@@ -26297,14 +26345,6 @@
       "onboard_time": 1767885321,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 188351,
-      "num": 188351,
-      "word": "黄杨钿甜官宣微博之夜",
-      "onboard_time": 1769502201,
-      "rank": 23,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 188335,
@@ -28337,6 +28377,14 @@
       "onboard_time": 1768011620,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 176440,
+      "num": 176440,
+      "word": "王者荣耀你坏事做尽",
+      "onboard_time": 1769503281,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 176437,
@@ -30457,6 +30505,14 @@
       "onboard_time": 1768620980,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 165255,
+      "num": 191802,
+      "word": "为什么教师行业没有起床气",
+      "onboard_time": 1769503521,
+      "rank": 25,
+      "category": "休闲"
     },
     {
       "raw_hot": 165234,
@@ -33611,6 +33667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 150675,
+      "num": 150675,
+      "word": "孙颖莎准备出发的仪式感",
+      "onboard_time": 1769505200,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 150657,
       "num": 150657,
       "word": "59岁女子回应高龄产子",
@@ -36427,6 +36491,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 140748,
+      "num": 109663,
+      "word": "沈梦辰带婆婆追星",
+      "onboard_time": 1769505442,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 140737,
       "num": 140737,
       "word": "刘冲偏爱杨幂的样子像极我和闺蜜",
@@ -38121,14 +38193,6 @@
       "onboard_time": 1769081661,
       "rank": 27,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 135276,
-      "num": 191802,
-      "word": "为什么教师行业没有起床气",
-      "onboard_time": 1769503521,
-      "rank": 25,
-      "category": "休闲"
     },
     {
       "raw_hot": 135271,
@@ -39915,14 +39979,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 129559,
-      "num": 129559,
-      "word": "罗马仕被处罚",
-      "onboard_time": 1769501361,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 129547,
       "num": 557419,
       "word": "一诺花朵飘带黑色西装",
@@ -40961,14 +41017,6 @@
       "onboard_time": 1767504082,
       "rank": 43,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 126893,
-      "num": 126893,
-      "word": "1g黄金的区别有多大",
-      "onboard_time": 1769503761,
-      "rank": 31,
-      "category": "科学科普,休闲"
     },
     {
       "raw_hot": 126874,
@@ -42521,6 +42569,14 @@
       "onboard_time": 1768284321,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 122991,
+      "num": 93798,
+      "word": "Jennie最后突然哭不行了",
+      "onboard_time": 1769506701,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 122971,
@@ -46889,14 +46945,6 @@
       "onboard_time": 1768633462,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 113496,
-      "num": 113496,
-      "word": "王者荣耀你坏事做尽",
-      "onboard_time": 1769503281,
-      "rank": 47,
-      "category": "电竞"
     },
     {
       "raw_hot": 113484,
@@ -53561,6 +53609,14 @@
       "onboard_time": 1769307861,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 100920,
+      "num": 87290,
+      "word": "内娱喵系女艺人",
+      "onboard_time": 1769504842,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 100917,
@@ -61427,6 +61483,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 89950,
+      "num": 89950,
+      "word": "高芙VS斯维托丽娜",
+      "onboard_time": 1769505862,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 89921,
       "num": 89921,
       "word": "巴黎男装周",
@@ -65649,6 +65713,14 @@
       "onboard_time": 1769337920,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 84330,
+      "num": 104852,
+      "word": "15岁男生打人称记错拘留年龄",
+      "onboard_time": 1769503700,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 84327,
@@ -70019,6 +70091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 77278,
+      "num": 76550,
+      "word": "刘宇宁 是我想的那种双男主吗",
+      "onboard_time": 1769505021,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 77247,
       "num": 83991,
       "word": "阿森纳利物浦冲突",
@@ -70251,6 +70331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 76867,
+      "num": 76867,
+      "word": "曝iPhoneAir2首发定制超薄FaceID",
+      "onboard_time": 1769506641,
+      "rank": 41,
+      "category": "数码"
+    },
+    {
       "raw_hot": 76863,
       "num": 147574,
       "word": "男子带女朋友跨年送帕拉梅拉",
@@ -70392,14 +70480,6 @@
       "word": "无人机吹雪吹完橘林吹大棚",
       "onboard_time": 1769054720,
       "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 76605,
-      "num": 104852,
-      "word": "15岁男生打人称记错拘留年龄",
-      "onboard_time": 1769503700,
-      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -71465,6 +71545,14 @@
       "onboard_time": 1768917622,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 74605,
+      "num": 74605,
+      "word": "印度尼帕病毒疫情对我国影响较小",
+      "onboard_time": 1769506341,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 74532,
@@ -72811,6 +72899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 71222,
+      "num": 71222,
+      "word": "张凌赫金色西装",
+      "onboard_time": 1769506761,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 71167,
       "num": 190431,
       "word": "尚雯婕 直播最严厉的母亲",
@@ -73065,6 +73161,14 @@
       "onboard_time": 1767964342,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 70531,
+      "num": 70531,
+      "word": "阿里发布旗舰推理模型",
+      "onboard_time": 1769506880,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 70522,
@@ -80259,6 +80363,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 45913,
+      "num": 77959,
+      "word": "我们的少年时代2角色",
+      "onboard_time": 1769506341,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 45873,
       "num": 100490,
       "word": "哭哭马走红老板速开十多条生产线",
@@ -80729,6 +80841,14 @@
       "onboard_time": 1768375821,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 43721,
+      "num": 95386,
+      "word": "蔡天凤前夫父子3人被控谋杀",
+      "onboard_time": 1769505622,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 43673,
@@ -85067,6 +85187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 28212,
+      "num": 688628,
+      "word": "2026全国两会",
+      "onboard_time": 1769504121,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 28178,
       "num": 64985,
       "word": "于适梁朝伟刘嘉玲同框",
@@ -87513,14 +87641,6 @@
       "onboard_time": 1768894941,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 20184,
-      "num": 664300,
-      "word": "2026全国两会",
-      "onboard_time": 1769504121,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 20121,

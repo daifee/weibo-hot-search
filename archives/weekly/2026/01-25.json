@@ -1,6 +1,6 @@
 {
   "startTime": 1769272464158,
-  "endTime": 1769504318238,
+  "endTime": 1769506903950,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -129,6 +129,14 @@
       "onboard_time": 1769476219,
       "rank": 29,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 1121542,
+      "num": 212467,
+      "word": "曝听泉鉴宝送前女友房子",
+      "onboard_time": 1769503160,
+      "rank": 37,
+      "category": "网红"
     },
     {
       "raw_hot": 1084863,
@@ -393,6 +401,14 @@
       "onboard_time": 1769471300,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 652124,
+      "num": 156208,
+      "word": "张雨绮多个商务被取消",
+      "onboard_time": 1769505682,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 648993,
@@ -843,6 +859,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 468610,
+      "num": 836570,
+      "word": "1g黄金的区别有多大",
+      "onboard_time": 1769503761,
+      "rank": 31,
+      "category": "科学科普,休闲"
+    },
+    {
       "raw_hot": 465228,
       "num": 589722,
       "word": "两个00后刮腻子一年营收100多万",
@@ -987,14 +1011,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 411841,
-      "num": 212467,
-      "word": "曝听泉鉴宝送前女友房子",
-      "onboard_time": 1769503160,
-      "rank": 37,
-      "category": "网红"
-    },
-    {
       "raw_hot": 411263,
       "num": 200184,
       "word": "钎九拥抱",
@@ -1105,6 +1121,14 @@
       "onboard_time": 1769489301,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 390159,
+      "num": 336310,
+      "word": "香港蔡天凤碎尸案新进展",
+      "onboard_time": 1769503700,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 388493,
@@ -1281,6 +1305,14 @@
       "onboard_time": 1769423721,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 334676,
+      "num": 334676,
+      "word": "黄杨钿甜官宣微博之夜",
+      "onboard_time": 1769502201,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 333670,
@@ -2219,6 +2251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 224656,
+      "num": 224656,
+      "word": "50万亿存款",
+      "onboard_time": 1769505502,
+      "rank": 13,
+      "category": "财经,民生新闻"
+    },
+    {
       "raw_hot": 222876,
       "num": 165603,
       "word": "张元英直播",
@@ -2281,14 +2321,6 @@
       "onboard_time": 1769302882,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 213060,
-      "num": 213060,
-      "word": "香港蔡天凤碎尸案新进展",
-      "onboard_time": 1769503700,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 212386,
@@ -2435,6 +2467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 196060,
+      "num": 196060,
+      "word": "idle单曲MV",
+      "onboard_time": 1769505921,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 195673,
       "num": 171542,
       "word": "姑娘连吃半年利尿剂被送进急诊",
@@ -2481,6 +2521,14 @@
       "onboard_time": 1769340260,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 193968,
+      "num": 193968,
+      "word": "罗马仕被处罚",
+      "onboard_time": 1769501361,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 192607,
@@ -2531,20 +2579,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 188351,
-      "num": 188351,
-      "word": "黄杨钿甜官宣微博之夜",
-      "onboard_time": 1769502201,
-      "rank": 23,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 187650,
       "num": 165967,
       "word": "孔雪儿你让我有点不得劲",
       "onboard_time": 1769345662,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 186641,
+      "num": 186641,
+      "word": "第五人格",
+      "onboard_time": 1769505021,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 186305,
@@ -2649,6 +2697,14 @@
       "onboard_time": 1769439202,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 176440,
+      "num": 176440,
+      "word": "王者荣耀你坏事做尽",
+      "onboard_time": 1769503281,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 176015,
@@ -2793,6 +2849,14 @@
       "onboard_time": 1769409440,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 165255,
+      "num": 191802,
+      "word": "为什么教师行业没有起床气",
+      "onboard_time": 1769503521,
+      "rank": 25,
+      "category": "休闲"
     },
     {
       "raw_hot": 164470,
@@ -3051,6 +3115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 150675,
+      "num": 150675,
+      "word": "孙颖莎准备出发的仪式感",
+      "onboard_time": 1769505200,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 150137,
       "num": 87013,
       "word": "美国发现围堵中国的网开始漏风",
@@ -3267,6 +3339,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 140748,
+      "num": 109663,
+      "word": "沈梦辰带婆婆追星",
+      "onboard_time": 1769505442,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 140522,
       "num": 132873,
       "word": "林志玲玉兰花开君再来路透",
@@ -3395,14 +3475,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 135276,
-      "num": 191802,
-      "word": "为什么教师行业没有起床气",
-      "onboard_time": 1769503521,
-      "rank": 25,
-      "category": "休闲"
-    },
-    {
       "raw_hot": 135216,
       "num": 135216,
       "word": "第一批爱熬夜的受害者出现了",
@@ -3505,14 +3577,6 @@
       "onboard_time": 1769297837,
       "rank": 30,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 129559,
-      "num": 129559,
-      "word": "罗马仕被处罚",
-      "onboard_time": 1769501361,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 128974,
@@ -3625,14 +3689,6 @@
       "onboard_time": 1769470699,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 126893,
-      "num": 126893,
-      "word": "1g黄金的区别有多大",
-      "onboard_time": 1769503761,
-      "rank": 31,
-      "category": "科学科普,休闲"
     },
     {
       "raw_hot": 126657,
@@ -3801,6 +3857,14 @@
       "onboard_time": 1769410101,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 122991,
+      "num": 93798,
+      "word": "Jennie最后突然哭不行了",
+      "onboard_time": 1769506701,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 122437,
@@ -4153,14 +4217,6 @@
       "onboard_time": 1769398581,
       "rank": 36,
       "category": "财经"
-    },
-    {
-      "raw_hot": 113496,
-      "num": 113496,
-      "word": "王者荣耀你坏事做尽",
-      "onboard_time": 1769503281,
-      "rank": 47,
-      "category": "电竞"
     },
     {
       "raw_hot": 113429,
@@ -4849,6 +4905,14 @@
       "onboard_time": 1769307861,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 100920,
+      "num": 87290,
+      "word": "内娱喵系女艺人",
+      "onboard_time": 1769504842,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 100863,
@@ -5779,6 +5843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 89950,
+      "num": 89950,
+      "word": "高芙VS斯维托丽娜",
+      "onboard_time": 1769505862,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 89734,
       "num": 89734,
       "word": "太原国资委情况通报",
@@ -6137,6 +6209,14 @@
       "onboard_time": 1769337920,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 84330,
+      "num": 104852,
+      "word": "15岁男生打人称记错拘留年龄",
+      "onboard_time": 1769503700,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 84323,
@@ -6699,6 +6779,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 77278,
+      "num": 76550,
+      "word": "刘宇宁 是我想的那种双男主吗",
+      "onboard_time": 1769505021,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 77070,
       "num": 88467,
       "word": "一觉醒来内娱新梗又诞生了",
@@ -6739,6 +6827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 76867,
+      "num": 76867,
+      "word": "曝iPhoneAir2首发定制超薄FaceID",
+      "onboard_time": 1769506641,
+      "rank": 41,
+      "category": "数码"
+    },
+    {
       "raw_hot": 76813,
       "num": 875068,
       "word": "我国全超导磁体有重大突破",
@@ -6753,14 +6849,6 @@
       "onboard_time": 1769440222,
       "rank": 46,
       "category": "财经,民生新闻"
-    },
-    {
-      "raw_hot": 76605,
-      "num": 104852,
-      "word": "15岁男生打人称记错拘留年龄",
-      "onboard_time": 1769503700,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 76589,
@@ -6947,6 +7035,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 74605,
+      "num": 74605,
+      "word": "印度尼帕病毒疫情对我国影响较小",
+      "onboard_time": 1769506341,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 74404,
       "num": 74404,
       "word": "美国已有超7000架次航班被取消",
@@ -7099,6 +7195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 71222,
+      "num": 71222,
+      "word": "张凌赫金色西装",
+      "onboard_time": 1769506761,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 71167,
       "num": 190431,
       "word": "尚雯婕 直播最严厉的母亲",
@@ -7153,6 +7257,14 @@
       "onboard_time": 1769340440,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 70531,
+      "num": 70531,
+      "word": "阿里发布旗舰推理模型",
+      "onboard_time": 1769506880,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 70321,
@@ -8027,6 +8139,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 45913,
+      "num": 77959,
+      "word": "我们的少年时代2角色",
+      "onboard_time": 1769506341,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 44309,
       "num": 629524,
       "word": "2025年国内居民出游人次65.22亿",
@@ -8041,6 +8161,14 @@
       "onboard_time": 1769356462,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 43721,
+      "num": 95386,
+      "word": "蔡天凤前夫父子3人被控谋杀",
+      "onboard_time": 1769505622,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 43587,
@@ -8563,6 +8691,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 28212,
+      "num": 688628,
+      "word": "2026全国两会",
+      "onboard_time": 1769504121,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 27944,
       "num": 36276,
       "word": "U23男足亚洲杯亚军",
@@ -8873,14 +9009,6 @@
       "onboard_time": 1769411061,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 20184,
-      "num": 664300,
-      "word": "2026全国两会",
-      "onboard_time": 1769504121,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 20009,
