@@ -1,6 +1,6 @@
 {
   "startTime": 1769272464158,
-  "endTime": 1769471097544,
+  "endTime": 1769480635841,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -299,12 +299,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 657351,
+      "num": 332967,
+      "word": "金价",
+      "onboard_time": 1769320160,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 657130,
       "num": 1105140,
       "word": "中国公民春节期间避免前往日本",
       "onboard_time": 1769420241,
       "rank": 41,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 653834,
+      "num": 232119,
+      "word": "爸爸怀疑女儿用纸巾擦头发暴力打砸",
+      "onboard_time": 1769471300,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 648993,
@@ -323,12 +339,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 635685,
-      "num": 332967,
-      "word": "金价",
-      "onboard_time": 1769320160,
-      "rank": 34,
-      "category": "财经"
+      "raw_hot": 644301,
+      "num": 1103088,
+      "word": "世卫称尼帕病毒或引发全球大流行",
+      "onboard_time": 1769474480,
+      "rank": 0,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 634852,
@@ -361,6 +377,14 @@
       "onboard_time": 1769299520,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 614076,
+      "num": 111935,
+      "word": "一家三口被撞身亡案家属抗诉被驳回",
+      "onboard_time": 1769475081,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 596249,
@@ -539,6 +563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 506688,
+      "num": 228905,
+      "word": "丁禹兮 钱在哪爱就在哪",
+      "onboard_time": 1769476041,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 501884,
       "num": 412787,
       "word": "何炅 终于要结束了",
@@ -593,6 +625,14 @@
       "onboard_time": 1769331079,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 485394,
+      "num": 271476,
+      "word": "女子免疫系统攻击胚胎8年反复流产",
+      "onboard_time": 1769477961,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 483061,
@@ -713,6 +753,14 @@
       "onboard_time": 1769429183,
       "rank": 3,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 417841,
+      "num": 417841,
+      "word": "唐宫奇案",
+      "onboard_time": 1769478920,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 416108,
@@ -931,6 +979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 353947,
+      "num": 222952,
+      "word": "睡得少和睡得晚哪个更伤身体",
+      "onboard_time": 1769472561,
+      "rank": 12,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 353892,
       "num": 284926,
       "word": "双胞胎吵架差点把爷爷奶奶吵离婚",
@@ -952,6 +1008,14 @@
       "word": "国投白银LOF将暂停申购",
       "onboard_time": 1769435841,
       "rank": 33,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 342398,
+      "num": 111813,
+      "word": "金价银价巨震",
+      "onboard_time": 1769476880,
+      "rank": 22,
       "category": "财经"
     },
     {
@@ -977,6 +1041,14 @@
       "onboard_time": 1769423721,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 333670,
+      "num": 111602,
+      "word": "李登科建议赖冠霖先找个班上",
+      "onboard_time": 1769474602,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 333040,
@@ -1075,6 +1147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 319721,
+      "num": 824003,
+      "word": "退货包裹里的2元钱让尊重具象化了",
+      "onboard_time": 1769472860,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 319060,
       "num": 197547,
       "word": "花儿与少年8",
@@ -1145,6 +1225,14 @@
       "onboard_time": 1769341221,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 308598,
+      "num": 262099,
+      "word": "两个弟弟出门买的年货",
+      "onboard_time": 1769477540,
+      "rank": 6,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 308025,
@@ -1297,6 +1385,14 @@
       "onboard_time": 1769274860,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 274504,
+      "num": 211943,
+      "word": "A股",
+      "onboard_time": 1769395041,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 274259,
@@ -1587,6 +1683,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 245060,
+      "num": 245060,
+      "word": "云初令",
+      "onboard_time": 1769449516,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 243147,
       "num": 243147,
       "word": "十日终焉",
@@ -1859,6 +1963,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 209561,
+      "num": 209561,
+      "word": "王玉雯 A爆了",
+      "onboard_time": 1769473462,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 207550,
       "num": 147193,
       "word": "白鹿说已无法负荷高强度动作戏",
@@ -1937,6 +2049,14 @@
       "onboard_time": 1769269284,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 197230,
+      "num": 197230,
+      "word": "日本最后2只大熊猫今天回国",
+      "onboard_time": 1769475021,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 196917,
@@ -2057,14 +2177,6 @@
       "onboard_time": 1769305340,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 185781,
-      "num": 185781,
-      "word": "云初令",
-      "onboard_time": 1769449516,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 185527,
@@ -2515,6 +2627,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 148560,
+      "num": 111407,
+      "word": "黄金涨到水贝商家都害怕",
+      "onboard_time": 1769474061,
+      "rank": 25,
+      "category": "财经,民生新闻"
+    },
+    {
       "raw_hot": 148521,
       "num": 148521,
       "word": "牢A的普及国人终于后知后觉了很多事",
@@ -2561,6 +2681,14 @@
       "onboard_time": 1769274440,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 146143,
+      "num": 111057,
+      "word": "每一个近视眼都应该少吃糖",
+      "onboard_time": 1769477240,
+      "rank": 27,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 145450,
@@ -2763,14 +2891,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 135916,
-      "num": 108909,
-      "word": "A股",
-      "onboard_time": 1769395041,
-      "rank": 24,
-      "category": "财经"
-    },
-    {
       "raw_hot": 135781,
       "num": 121438,
       "word": "虞书欣遇见了小时候的自己",
@@ -2809,6 +2929,14 @@
       "onboard_time": 1769334021,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 134137,
+      "num": 243495,
+      "word": "终于看到霉豆腐的前半生了",
+      "onboard_time": 1769469378,
+      "rank": 16,
+      "category": "美食"
     },
     {
       "raw_hot": 133484,
@@ -2899,6 +3027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 128553,
+      "num": 128553,
+      "word": "星河入梦定档春节",
+      "onboard_time": 1769479939,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 128414,
       "num": 127726,
       "word": "被斩杀的美国人民",
@@ -2931,6 +3067,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 127669,
+      "num": 127669,
+      "word": "生命树定档",
+      "onboard_time": 1769480302,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 127609,
       "num": 127609,
       "word": "克林顿奥巴马发声",
@@ -2961,6 +3105,14 @@
       "onboard_time": 1769422701,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127022,
+      "num": 112313,
+      "word": "Angelababy晒高定照",
+      "onboard_time": 1769470699,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 126613,
@@ -3033,14 +3185,6 @@
       "onboard_time": 1769397320,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 124287,
-      "num": 124287,
-      "word": "终于看到霉豆腐的前半生了",
-      "onboard_time": 1769469378,
-      "rank": 16,
-      "category": "美食"
     },
     {
       "raw_hot": 124070,
@@ -3243,6 +3387,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 116190,
+      "num": 110893,
+      "word": "成年人的睡眠有2个底线",
+      "onboard_time": 1769476939,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 116079,
       "num": 171139,
       "word": "终于有影视剧拍出李煜了",
@@ -3393,6 +3545,14 @@
       "onboard_time": 1769313200,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110832,
+      "num": 110832,
+      "word": "50万亿存款将到期用户寻找存款贵替",
+      "onboard_time": 1769476219,
+      "rank": 29,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 110695,
@@ -3571,6 +3731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 106714,
+      "num": 106714,
+      "word": "镖人",
+      "onboard_time": 1769250920,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 106664,
       "num": 127154,
       "word": "女教师宿舍病亡校方建议家属起诉",
@@ -3593,6 +3761,14 @@
       "onboard_time": 1769351661,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 106152,
+      "num": 106152,
+      "word": "传染尼帕病毒的生枣椰汁是什么",
+      "onboard_time": 1769479460,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 106023,
@@ -3883,6 +4059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 101071,
+      "num": 101071,
+      "word": "香港4名公务员表现欠佳被着令退休",
+      "onboard_time": 1769480120,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100936,
       "num": 100936,
       "word": "齐思钧罗予彤六年前还是NPC",
@@ -4027,6 +4211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 98489,
+      "num": 98489,
+      "word": "建议大家千万不要一边做一边怀疑",
+      "onboard_time": 1769471419,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 98149,
       "num": 98149,
       "word": "凡人修仙传又上央视了",
@@ -4065,6 +4257,14 @@
       "onboard_time": 1769425582,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 96991,
+      "num": 96991,
+      "word": "雪纳瑞不许当模特",
+      "onboard_time": 1769478560,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 96938,
@@ -4427,6 +4627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 92538,
+      "num": 92538,
+      "word": "50万亿天量存款将到期",
+      "onboard_time": 1769469378,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 92459,
       "num": 87816,
       "word": "轧戏",
@@ -4659,6 +4867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 88034,
+      "num": 88034,
+      "word": "王玉雯扛住了G社镜头",
+      "onboard_time": 1769471359,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 88026,
       "num": 88026,
       "word": "宋威龙夜游植物园但一无所获",
@@ -4721,6 +4937,14 @@
       "onboard_time": 1769415081,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 86923,
+      "num": 86923,
+      "word": "微博之夜抢座101前十",
+      "onboard_time": 1769473881,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 86681,
@@ -4907,6 +5131,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 84155,
+      "num": 84155,
+      "word": "现在自己做饭已经不能省钱了",
+      "onboard_time": 1769478501,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 84099,
+      "num": 84099,
+      "word": "王楚钦吴刚夫妇腊八同框",
+      "onboard_time": 1769478859,
+      "rank": 46,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 84082,
       "num": 83949,
       "word": "苹果自营店和授权店有什么区别",
@@ -5051,6 +5291,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 81715,
+      "num": 80195,
+      "word": "井迪辟谣普拉提能瘦身",
+      "onboard_time": 1769477900,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 81706,
       "num": 81706,
       "word": "王一博深情歌唱无名",
@@ -5177,6 +5425,14 @@
       "onboard_time": 1769334560,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 80408,
+      "num": 80408,
+      "word": "杨瀚森入选NBA全明星新秀赛",
+      "onboard_time": 1769477479,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 80348,
@@ -5659,14 +5915,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 73437,
-      "num": 73437,
-      "word": "Angelababy晒高定照",
-      "onboard_time": 1769470699,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 72832,
       "num": 81435,
       "word": "张杰演唱会有常驻观众了",
@@ -5761,14 +6009,6 @@
       "onboard_time": 1769359278,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 71110,
-      "num": 63776,
-      "word": "50万亿天量存款将到期",
-      "onboard_time": 1769469378,
-      "rank": 34,
-      "category": "财经"
     },
     {
       "raw_hot": 71105,
@@ -6523,6 +6763,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 47394,
+      "num": 97211,
+      "word": "泰国将实施全面减糖国策",
+      "onboard_time": 1769480060,
+      "rank": 37,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 47193,
       "num": 2174663,
       "word": "太空月季回来了",
@@ -6883,6 +7131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 34920,
+      "num": 97030,
+      "word": "被限高人员25次飞境外高消费获刑",
+      "onboard_time": 1769480120,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33501,
       "num": 626063,
       "word": "万亿城市再扩容",
@@ -6937,6 +7193,14 @@
       "onboard_time": 1769322020,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31424,
+      "num": 79926,
+      "word": "美冬季风暴造成至少30人死",
+      "onboard_time": 1769479159,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 31052,
@@ -7001,6 +7265,14 @@
       "onboard_time": 1769277736,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 27845,
+      "num": 111239,
+      "word": "孟加拉国尼帕病毒源于果蝠污染饮料",
+      "onboard_time": 1769480360,
+      "rank": 26,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 27286,
@@ -7075,14 +7347,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 25204,
-      "num": 36211,
-      "word": "镖人",
-      "onboard_time": 1769250920,
-      "rank": 37,
-      "category": "电影"
-    },
-    {
       "raw_hot": 24673,
       "num": 33331,
       "word": "北京卫视春晚",
@@ -7092,7 +7356,7 @@
     },
     {
       "raw_hot": 24646,
-      "num": 558219,
+      "num": 630313,
       "word": "2025中国十大科技进展新闻",
       "onboard_time": 1769436802,
       "rank": 2,
@@ -7417,6 +7681,14 @@
       "onboard_time": 1769348242,
       "rank": 39,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 11783,
+      "num": 97006,
+      "word": "高市早苗称若执政党选举未过半将辞职",
+      "onboard_time": 1769480179,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 11388,
