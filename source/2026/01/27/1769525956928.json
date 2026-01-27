@@ -1,0 +1,410 @@
+{
+  "runTime": 1769525956928,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 445163,
+        "num": 1071226,
+        "word": "微博之夜阵容官宣",
+        "onboard_time": 1769487682,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 279786,
+        "num": 783099,
+        "word": "湖南省考多地监狱岗位仅招艺术类",
+        "onboard_time": 1769524043,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25081,
+        "num": 603002,
+        "word": "2026逐梦中国",
+        "onboard_time": 1769519663,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 410164,
+        "num": 597903,
+        "word": "我们的少年时代2",
+        "onboard_time": 1769517800,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 223411,
+        "num": 594656,
+        "word": "中方回应加拿大出售白鲸给美国",
+        "onboard_time": 1769522542,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 255772,
+        "num": 589675,
+        "word": "鹿晗五哈坐囚车路透",
+        "onboard_time": 1769523862,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205246,
+        "num": 582574,
+        "word": "1克黄金竟能打造一张完整黄金婚书",
+        "onboard_time": 1769524342,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201177,
+        "num": 573190,
+        "word": "多地对国企近亲繁殖出手了",
+        "onboard_time": 1769510421,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168471,
+        "num": 569956,
+        "word": "以色列女子看电视发现自己死在伊朗",
+        "onboard_time": 1769524342,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 128893,
+        "num": 562124,
+        "word": "王者荣耀",
+        "onboard_time": 1769523621,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 560356,
+        "num": 560356,
+        "word": "娱乐圈四大不倒人设",
+        "onboard_time": 1769519721,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 483786,
+        "num": 483786,
+        "word": "大批中成药将退出市场",
+        "onboard_time": 1769521101,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 358873,
+        "num": 358873,
+        "word": "伊能静剪了十年没剪的斜刘海",
+        "onboard_time": 1769522063,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 304489,
+        "num": 304489,
+        "word": "姜丹尼尔赖冠霖不参加wannaone重聚",
+        "onboard_time": 1769522662,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279713,
+        "num": 279713,
+        "word": "2026年房价会涨还是跌",
+        "onboard_time": 1769523742,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 302636,
+        "num": 275150,
+        "word": "那英说沈梦辰嫁给杜海涛眼光好",
+        "onboard_time": 1769519781,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257488,
+        "num": 257488,
+        "word": "店主在穿脏退回的衣服掏出100元",
+        "onboard_time": 1769523142,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 252348,
+        "num": 252348,
+        "word": "马化腾称腾讯已从美团京东投资中退出",
+        "onboard_time": 1769521224,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 209091,
+        "num": 209091,
+        "word": "微博之夜第二波阵容解密",
+        "onboard_time": 1769519663,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 154486,
+        "num": 208277,
+        "word": "周大生店员反问顾客买得起吗",
+        "onboard_time": 1769515881,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123123,
+        "num": 207841,
+        "word": "为什么教师行业没有起床气",
+        "onboard_time": 1769503521,
+        "rank": 20,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 739016,
+        "num": 207065,
+        "word": "小酒窝去天津找亲爸了",
+        "onboard_time": 1769517860,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 688283,
+        "num": 205480,
+        "word": "黄金",
+        "onboard_time": 1769517320,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 656002,
+        "num": 204792,
+        "word": "张雨绮多个商务被取消",
+        "onboard_time": 1769505682,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 634848,
+        "num": 203724,
+        "word": "50万亿存款",
+        "onboard_time": 1769505502,
+        "rank": 24,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 400273,
+        "num": 203231,
+        "word": "何健麒公开无犯罪记录证明",
+        "onboard_time": 1769515701,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 310976,
+        "num": 201886,
+        "word": "内娱至今无一人塌房的全女综艺",
+        "onboard_time": 1769508680,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258227,
+        "num": 201090,
+        "word": "孕妇吃了一块冷藏蛋糕导致胎儿早产",
+        "onboard_time": 1769518281,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200633,
+        "num": 200633,
+        "word": "苹果煮水竟有这么多妙用",
+        "onboard_time": 1769525061,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 165892,
+        "num": 165892,
+        "word": "娜扎好六上班美成啥样了",
+        "onboard_time": 1769521521,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162432,
+        "num": 162432,
+        "word": "7000人滞留日本机场称再不来了",
+        "onboard_time": 1769515760,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 156955,
+        "num": 156955,
+        "word": "易烊千玺 造型",
+        "onboard_time": 1769511081,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145498,
+        "num": 145498,
+        "word": "原来TFBOYS以前这么苦",
+        "onboard_time": 1769525422,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123418,
+        "num": 123418,
+        "word": "公司称猝死程序员未按要求做体检",
+        "onboard_time": 1769522842,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140540,
+        "num": 120655,
+        "word": "王橹杰出演顾晨阳",
+        "onboard_time": 1769516301,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117411,
+        "num": 117411,
+        "word": "微博之夜",
+        "onboard_time": 1769487741,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 113087,
+        "num": 113087,
+        "word": "桃黑黑打王者",
+        "onboard_time": 1769520260,
+        "rank": 36,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 114668,
+        "num": 112973,
+        "word": "冶勒湖偶遇鞠婧祎",
+        "onboard_time": 1769519121,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112842,
+        "num": 112842,
+        "word": "张艺谋说希望刘耀文再瘦一点",
+        "onboard_time": 1769509701,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 90963,
+        "num": 112602,
+        "word": "深铁向万科提供不超23.6亿元借款",
+        "onboard_time": 1769524943,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 112529,
+        "num": 112529,
+        "word": "章子怡偶遇老同学曾黎",
+        "onboard_time": 1769516422,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100102,
+        "num": 100102,
+        "word": "女子看到妈妈被训斥像个犯错的孩子",
+        "onboard_time": 1769524883,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97183,
+        "num": 97183,
+        "word": "Jennie最后突然哭不行了",
+        "onboard_time": 1769506701,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 95993,
+        "num": 95993,
+        "word": "游戏美术天花板AI化了",
+        "onboard_time": 1769525363,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 95915,
+        "num": 95915,
+        "word": "难怪考试不让上厕所",
+        "onboard_time": 1769516061,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 93949,
+        "num": 93949,
+        "word": "玄彬没对儿子发过火",
+        "onboard_time": 1769520502,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92131,
+        "num": 92131,
+        "word": "入殓师称逝者化妆时偶尔会睁眼",
+        "onboard_time": 1769499321,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89001,
+        "num": 89001,
+        "word": "贾玲张小斐 最理想人生搭档",
+        "onboard_time": 1769525783,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81585,
+        "num": 87796,
+        "word": "600年前的牡丹簪子有多美",
+        "onboard_time": 1769525662,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81259,
+        "num": 87751,
+        "word": "MUJI门店做家务的模特是男的",
+        "onboard_time": 1769523802,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#冷资源带动热经济#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1769445836222,
-  "endTime": 1769524732102,
+  "endTime": 1769525956928,
   "band_list": [
     {
       "raw_hot": 3419891,
@@ -163,6 +163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 634848,
+      "num": 799095,
+      "word": "50万亿存款",
+      "onboard_time": 1769505502,
+      "rank": 13,
+      "category": "财经,民生新闻"
+    },
+    {
       "raw_hot": 614076,
       "num": 174914,
       "word": "一家三口被撞身亡案家属抗诉被驳回",
@@ -233,14 +241,6 @@
       "onboard_time": 1769500281,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 534779,
-      "num": 799095,
-      "word": "50万亿存款",
-      "onboard_time": 1769505502,
-      "rank": 13,
-      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 529193,
@@ -395,6 +395,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 410164,
+      "num": 634400,
+      "word": "我们的少年时代2",
+      "onboard_time": 1769517800,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 402340,
       "num": 402340,
       "word": "伊能静剪了十年没剪的斜刘海",
@@ -433,14 +441,6 @@
       "onboard_time": 1769435481,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 372725,
-      "num": 634400,
-      "word": "我们的少年时代2",
-      "onboard_time": 1769517800,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 367868,
@@ -627,6 +627,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 304489,
+      "num": 304489,
+      "word": "姜丹尼尔赖冠霖不参加wannaone重聚",
+      "onboard_time": 1769522662,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 303099,
       "num": 224476,
       "word": "迪丽热巴 一个人当然可以拍婚纱照",
@@ -707,6 +715,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 279786,
+      "num": 783099,
+      "word": "湖南省考多地监狱岗位仅招艺术类",
+      "onboard_time": 1769524043,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 279713,
+      "num": 279713,
+      "word": "2026年房价会涨还是跌",
+      "onboard_time": 1769523742,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 278051,
       "num": 278051,
       "word": "好利来道歉",
@@ -769,6 +793,22 @@
       "onboard_time": 1769487262,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 257488,
+      "num": 257488,
+      "word": "店主在穿脏退回的衣服掏出100元",
+      "onboard_time": 1769523142,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 255772,
+      "num": 589675,
+      "word": "鹿晗五哈坐囚车路透",
+      "onboard_time": 1769523862,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 252699,
@@ -835,12 +875,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 224182,
-      "num": 224182,
-      "word": "姜丹尼尔赖冠霖不参加wannaone重聚",
-      "onboard_time": 1769522662,
-      "rank": 24,
-      "category": "艺人"
+      "raw_hot": 223411,
+      "num": 618912,
+      "word": "中方回应加拿大出售白鲸给美国",
+      "onboard_time": 1769522542,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 222723,
@@ -883,14 +923,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 213091,
-      "num": 207620,
-      "word": "鹿晗五哈坐囚车路透",
-      "onboard_time": 1769523862,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 212386,
       "num": 212386,
       "word": "10岁白血病男孩豪豪离世",
@@ -907,12 +939,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 205246,
+      "num": 582574,
+      "word": "1克黄金竟能打造一张完整黄金婚书",
+      "onboard_time": 1769524342,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 200820,
       "num": 163526,
       "word": "难怪考试不让上厕所",
       "onboard_time": 1769516061,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 200633,
+      "num": 200633,
+      "word": "苹果煮水竟有这么多妙用",
+      "onboard_time": 1769525061,
+      "rank": 28,
+      "category": "美食"
     },
     {
       "raw_hot": 197230,
@@ -971,14 +1019,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 179579,
-      "num": 202103,
-      "word": "2026年房价会涨还是跌",
-      "onboard_time": 1769523742,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 179045,
       "num": 173530,
       "word": "好利来涉事产品已全部销毁",
@@ -1003,20 +1043,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 168471,
+      "num": 569956,
+      "word": "以色列女子看电视发现自己死在伊朗",
+      "onboard_time": 1769524342,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 165995,
       "num": 71163,
       "word": "田栩宁把梓渝粉丝告了",
       "onboard_time": 1769469197,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 161473,
-      "num": 618912,
-      "word": "中方回应加拿大出售白鲸给美国",
-      "onboard_time": 1769522542,
-      "rank": 47,
-      "category": "国内时政"
     },
     {
       "raw_hot": 158611,
@@ -1121,6 +1161,14 @@
       "onboard_time": 1769469197,
       "rank": 19,
       "category": "财经"
+    },
+    {
+      "raw_hot": 145498,
+      "num": 145498,
+      "word": "原来TFBOYS以前这么苦",
+      "onboard_time": 1769525422,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 145006,
@@ -1315,6 +1363,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 123418,
+      "num": 149591,
+      "word": "公司称猝死程序员未按要求做体检",
+      "onboard_time": 1769522842,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 123274,
       "num": 123274,
       "word": "49条中日航线取消全部航班",
@@ -1419,14 +1475,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 118780,
-      "num": 149591,
-      "word": "公司称猝死程序员未按要求做体检",
-      "onboard_time": 1769522842,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 118434,
       "num": 139427,
       "word": "桃黑黑打王者",
@@ -1521,14 +1569,6 @@
       "onboard_time": 1769486180,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 113382,
-      "num": 113382,
-      "word": "店主在穿脏退回的衣服掏出100元",
-      "onboard_time": 1769523142,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 113054,
@@ -1771,6 +1811,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 100102,
+      "num": 100102,
+      "word": "女子看到妈妈被训斥像个犯错的孩子",
+      "onboard_time": 1769524883,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100031,
       "num": 100031,
       "word": "LCK杯总决赛落地香港",
@@ -1897,6 +1945,14 @@
       "onboard_time": 1769494279,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 95993,
+      "num": 95993,
+      "word": "游戏美术天花板AI化了",
+      "onboard_time": 1769525363,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 95973,
@@ -2035,6 +2091,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 90963,
+      "num": 112602,
+      "word": "深铁向万科提供不超23.6亿元借款",
+      "onboard_time": 1769524943,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 90705,
       "num": 90705,
       "word": "人不能太闲的含金量",
@@ -2121,6 +2185,14 @@
       "onboard_time": 1769515881,
       "rank": 36,
       "category": "美食"
+    },
+    {
+      "raw_hot": 89001,
+      "num": 89001,
+      "word": "贾玲张小斐 最理想人生搭档",
+      "onboard_time": 1769525783,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 88722,
@@ -2331,12 +2403,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 81585,
+      "num": 87796,
+      "word": "600年前的牡丹簪子有多美",
+      "onboard_time": 1769525662,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 81314,
       "num": 81314,
       "word": "倪大红被调成啥了",
       "onboard_time": 1769469799,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 81259,
+      "num": 338686,
+      "word": "MUJI门店做家务的模特是男的",
+      "onboard_time": 1769523802,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 81222,
@@ -2627,14 +2715,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 68764,
-      "num": 338686,
-      "word": "MUJI门店做家务的模特是男的",
-      "onboard_time": 1769523802,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 68098,
       "num": 104592,
       "word": "微博之夜好权威的一张张脸",
@@ -2817,14 +2897,6 @@
       "onboard_time": 1769501780,
       "rank": 18,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 54548,
-      "num": 334693,
-      "word": "湖南省考多地监狱岗位仅招艺术类",
-      "onboard_time": 1769524043,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 53989,
@@ -3219,6 +3291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25081,
+      "num": 635833,
+      "word": "2026逐梦中国",
+      "onboard_time": 1769519663,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24646,
       "num": 862715,
       "word": "2025中国十大科技进展新闻",
@@ -3275,14 +3355,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 21453,
-      "num": 635833,
-      "word": "2026逐梦中国",
-      "onboard_time": 1769519663,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 21040,
       "num": 38767,
       "word": "好利来事发门店回应掉地面包捡起售卖",
@@ -3311,14 +3383,6 @@
       "num": 105517,
       "word": "北大女生硅谷创业被指网络贩毒",
       "onboard_time": 1769496501,
-      "rank": 39,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 19146,
-      "num": 119001,
-      "word": "以色列女子看电视发现自己死在伊朗",
-      "onboard_time": 1769524342,
       "rank": 39,
       "category": "海外新闻"
     },
@@ -3369,14 +3433,6 @@
       "onboard_time": 1769457553,
       "rank": 31,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 14714,
-      "num": 331532,
-      "word": "1克黄金竟能打造一张完整黄金婚书",
-      "onboard_time": 1769524342,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 14692,
