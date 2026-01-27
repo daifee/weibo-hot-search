@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769536446648,
+  "endTime": 1769539930595,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -74555,6 +74555,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 69407,
+      "num": 69407,
+      "word": "杨紫化妆金鹤龙",
+      "onboard_time": 1769536336,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 69392,
       "num": 163038,
       "word": "张凌赫老公级别的代言人",
@@ -80449,14 +80457,6 @@
       "onboard_time": 1767412288,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 49265,
-      "num": 49265,
-      "word": "杨紫化妆金鹤龙",
-      "onboard_time": 1769536336,
-      "rank": 16,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 49250,
@@ -88001,6 +88001,14 @@
       "onboard_time": 1768547540,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22223,
+      "num": 22223,
+      "word": "以色列女子称照片被以媒当死者播出",
+      "onboard_time": 1769531179,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 22197,

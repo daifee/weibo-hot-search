@@ -1,0 +1,410 @@
+{
+  "runTime": 1769539930595,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 75441,
+        "num": 94726,
+        "word": "团播不得浓妆艳抹过度磨皮美颜",
+        "onboard_time": 1769529081,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39038,
+        "num": 93438,
+        "word": "微博之夜阵容官宣",
+        "onboard_time": 1769487682,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 10796,
+        "num": 91621,
+        "word": "2026逐梦中国",
+        "onboard_time": 1769519663,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68487,
+        "num": 86843,
+        "word": "运毒车逃逸时坠河470万颗冰毒落水",
+        "onboard_time": 1769531599,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 58898,
+        "num": 86212,
+        "word": "以色列女子看电视发现自己死在伊朗",
+        "onboard_time": 1769524342,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 37616,
+        "num": 81703,
+        "word": "微博之夜",
+        "onboard_time": 1769487741,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 36892,
+        "num": 80529,
+        "word": "1克黄金竟能打造一张完整黄金婚书",
+        "onboard_time": 1769524342,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32378,
+        "num": 76388,
+        "word": "湖南省考多地监狱岗位仅招艺术类",
+        "onboard_time": 1769524043,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25038,
+        "num": 73821,
+        "word": "澳大利亚多地逼近50℃",
+        "onboard_time": 1769527040,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 23238,
+        "num": 71516,
+        "word": "王者荣耀",
+        "onboard_time": 1769523621,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 69407,
+        "num": 69407,
+        "word": "杨紫化妆金鹤龙",
+        "onboard_time": 1769536336,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 67091,
+        "num": 67091,
+        "word": "日本一女性在同一家公司上班近70年",
+        "onboard_time": 1769527222,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 48210,
+        "num": 48210,
+        "word": "原来TFBOYS以前这么苦",
+        "onboard_time": 1769525422,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40159,
+        "num": 40159,
+        "word": "娱乐圈四大不倒人设",
+        "onboard_time": 1769519721,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39139,
+        "num": 39139,
+        "word": "店主在穿脏退回的衣服掏出100元",
+        "onboard_time": 1769523142,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38698,
+        "num": 38698,
+        "word": "iPhone4S为何突然迎来第二春",
+        "onboard_time": 1769528120,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 37008,
+        "num": 37008,
+        "word": "大批中成药将退出市场",
+        "onboard_time": 1769521101,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 30069,
+        "num": 30069,
+        "word": "桃黑黑打王者",
+        "onboard_time": 1769520260,
+        "rank": 17,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 26425,
+        "num": 26425,
+        "word": "伊能静剪了十年没剪的斜刘海",
+        "onboard_time": 1769522063,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25961,
+        "num": 25961,
+        "word": "孙颖莎王曼昱蒯曼聚餐",
+        "onboard_time": 1769529501,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 267756,
+        "num": 25846,
+        "word": "多品牌紧急删除张雨绮相关代言内容",
+        "onboard_time": 1769530280,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88566,
+        "num": 25486,
+        "word": "内娱至今无一人塌房的全女综艺",
+        "onboard_time": 1769508680,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87207,
+        "num": 25397,
+        "word": "白银",
+        "onboard_time": 1769526860,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 55865,
+        "num": 24922,
+        "word": "小酒窝去天津找亲爸了",
+        "onboard_time": 1769517860,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44306,
+        "num": 24826,
+        "word": "黄金",
+        "onboard_time": 1769517320,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 34746,
+        "num": 24539,
+        "word": "何健麒公开无犯罪记录证明",
+        "onboard_time": 1769515701,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28527,
+        "num": 24337,
+        "word": "孕妇吃了一块冷藏蛋糕导致胎儿早产",
+        "onboard_time": 1769518281,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24124,
+        "num": 24124,
+        "word": "姜丹尼尔赖冠霖不参加wannaone重聚",
+        "onboard_time": 1769522662,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23987,
+        "num": 23987,
+        "word": "我们的少年时代2",
+        "onboard_time": 1769517800,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22921,
+        "num": 22921,
+        "word": "苹果煮水竟有这么多妙用",
+        "onboard_time": 1769525061,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 22793,
+        "num": 22793,
+        "word": "难怪考试不让上厕所",
+        "onboard_time": 1769516061,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 22223,
+        "num": 22223,
+        "word": "以色列女子称照片被以媒当死者播出",
+        "onboard_time": 1769531179,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 21956,
+        "num": 21956,
+        "word": "7000人滞留日本机场称再不来了",
+        "onboard_time": 1769515760,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 21910,
+        "num": 21910,
+        "word": "女子买100克黄金轮胎手镯赚4万多",
+        "onboard_time": 1769528721,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21311,
+        "num": 21311,
+        "word": "团播不得诱导消费和组织排名攀比",
+        "onboard_time": 1769535376,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21000,
+        "num": 21000,
+        "word": "你好星期六",
+        "onboard_time": 1769534956,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20625,
+        "num": 20625,
+        "word": "中方回应加拿大出售白鲸给美国",
+        "onboard_time": 1769522542,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 20205,
+        "num": 20205,
+        "word": "冶勒湖偶遇鞠婧祎",
+        "onboard_time": 1769519121,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20178,
+        "num": 20178,
+        "word": "50万亿存款",
+        "onboard_time": 1769505502,
+        "rank": 38,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 19727,
+        "num": 19727,
+        "word": "娜扎好六上班美成啥样了",
+        "onboard_time": 1769521521,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18625,
+        "num": 18625,
+        "word": "声生不息华流季",
+        "onboard_time": 1769534837,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18386,
+        "num": 18386,
+        "word": "山崎贤人近况",
+        "onboard_time": 1769532798,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18289,
+        "num": 18289,
+        "word": "突然的喜欢",
+        "onboard_time": 1769510782,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18084,
+        "num": 18084,
+        "word": "太平年",
+        "onboard_time": 1769519541,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18037,
+        "num": 18037,
+        "word": "鹿晗五哈坐囚车路透",
+        "onboard_time": 1769523862,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17857,
+        "num": 17857,
+        "word": "QQ音乐超级巅峰之夜",
+        "onboard_time": 1769534176,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 17377,
+        "num": 17377,
+        "word": "马化腾称腾讯已从美团京东投资中退出",
+        "onboard_time": 1769521224,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 17362,
+        "num": 17362,
+        "word": "王橹杰出演顾晨阳",
+        "onboard_time": 1769516301,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15337,
+        "num": 17241,
+        "word": "Dior的鲜花一直盛开",
+        "onboard_time": 1769517140,
+        "rank": 48,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 12035,
+        "num": 17191,
+        "word": "手办厂遭纵火致多款游戏周边延期",
+        "onboard_time": 1769527581,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#冷资源带动热经济#"
+    }
+  }
+}
