@@ -1,6 +1,6 @@
 {
   "startTime": 1769272464158,
-  "endTime": 1769540678977,
+  "endTime": 1769542462153,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -10235,6 +10235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 15293,
+      "num": 15293,
+      "word": "檀健次看粉丝应援落泪",
+      "onboard_time": 1769540714,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 15192,
       "num": 18218,
       "word": "豆包手机助手处理内容不存储不训练",
@@ -10257,6 +10265,14 @@
       "onboard_time": 1769276537,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 14740,
+      "num": 14740,
+      "word": "杨紫今日生命树发布会路透",
+      "onboard_time": 1769536155,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 14650,
