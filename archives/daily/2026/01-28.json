@@ -1,6 +1,6 @@
 {
   "startTime": 1769531989527,
-  "endTime": 1769553022518,
+  "endTime": 1769554044769,
   "band_list": [
     {
       "raw_hot": 739079,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 149696,
-      "num": 293822,
+      "num": 352301,
       "word": "1克黄金竟能打造一张完整黄金婚书",
       "onboard_time": 1769524342,
       "rank": 4,
@@ -156,7 +156,7 @@
     },
     {
       "raw_hot": 125965,
-      "num": 395199,
+      "num": 492540,
       "word": "团播不得浓妆艳抹过度磨皮美颜",
       "onboard_time": 1769529081,
       "rank": 28,
@@ -379,6 +379,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 44473,
+      "num": 44473,
+      "word": "那英说沈梦辰嫁给杜海涛眼光好",
+      "onboard_time": 1769519781,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 44454,
       "num": 44454,
       "word": "微博之夜第二波阵容解密",
@@ -404,7 +412,7 @@
     },
     {
       "raw_hot": 32339,
-      "num": 32339,
+      "num": 34313,
       "word": "你好星期六",
       "onboard_time": 1769534956,
       "rank": 40,
@@ -412,7 +420,7 @@
     },
     {
       "raw_hot": 31255,
-      "num": 31255,
+      "num": 34311,
       "word": "声生不息华流季",
       "onboard_time": 1769534837,
       "rank": 42,
@@ -427,16 +435,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 30114,
-      "num": 30114,
-      "word": "那英说沈梦辰嫁给杜海涛眼光好",
-      "onboard_time": 1769519781,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 29523,
-      "num": 29523,
+      "num": 34318,
       "word": "团播不得诱导消费和组织排名攀比",
       "onboard_time": 1769535376,
       "rank": 47,
@@ -452,7 +452,7 @@
     },
     {
       "raw_hot": 28250,
-      "num": 28250,
+      "num": 34310,
       "word": "太平年",
       "onboard_time": 1769519541,
       "rank": 45,
@@ -467,8 +467,16 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 26825,
+      "num": 34319,
+      "word": "以色列女子称照片被以媒当死者播出",
+      "onboard_time": 1769531179,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 26746,
-      "num": 26746,
+      "num": 34316,
       "word": "QQ音乐超级巅峰之夜",
       "onboard_time": 1769534176,
       "rank": 46,
@@ -491,14 +499,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 24605,
-      "num": 24605,
-      "word": "以色列女子称照片被以媒当死者播出",
-      "onboard_time": 1769531179,
-      "rank": 31,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 24489,
       "num": 42252,
       "word": "中微半导发布涨价通知函",
@@ -515,28 +515,36 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 18289,
-      "num": 21591,
-      "word": "突然的喜欢",
-      "onboard_time": 1769510782,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 18279,
-      "num": 21604,
+      "raw_hot": 20826,
+      "num": 34316,
       "word": "檀健次看粉丝应援落泪",
       "onboard_time": 1769540714,
       "rank": 41,
       "category": "艺人"
     },
     {
-      "raw_hot": 16920,
-      "num": 21562,
+      "raw_hot": 19262,
+      "num": 34315,
       "word": "马年春晚",
       "onboard_time": 1769541134,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 18289,
+      "num": 34314,
+      "word": "突然的喜欢",
+      "onboard_time": 1769510782,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 17981,
+      "num": 34312,
+      "word": "杨紫今日生命树发布会路透",
+      "onboard_time": 1769536155,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 16857,
@@ -548,19 +556,11 @@
     },
     {
       "raw_hot": 15817,
-      "num": 23857,
+      "num": 34308,
       "word": "勤奋上进的普通中路玩家",
       "onboard_time": 1769535975,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 14740,
-      "num": 21535,
-      "word": "杨紫今日生命树发布会路透",
-      "onboard_time": 1769536155,
-      "rank": 45,
-      "category": "剧集"
     }
   ],
   "hotgov_list": [
