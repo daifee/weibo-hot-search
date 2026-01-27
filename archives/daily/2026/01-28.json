@@ -1,9 +1,9 @@
 {
   "startTime": 1769531989527,
-  "endTime": 1769554044769,
+  "endTime": 1769556666306,
   "band_list": [
     {
-      "raw_hot": 739079,
+      "raw_hot": 927199,
       "num": 80835,
       "word": "多品牌紧急删除张雨绮相关代言内容",
       "onboard_time": 1769530280,
@@ -35,7 +35,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 287121,
+      "raw_hot": 295139,
       "num": 80038,
       "word": "小酒窝去天津找亲爸了",
       "onboard_time": 1769517860,
@@ -51,11 +51,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 240581,
-      "num": 240581,
+      "raw_hot": 244897,
+      "num": 244897,
       "word": "以色列女子看电视发现自己死在伊朗",
       "onboard_time": 1769524342,
       "rank": 3,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 240865,
+      "num": 240865,
+      "word": "运毒车逃逸时坠河470万颗冰毒落水",
+      "onboard_time": 1769531599,
+      "rank": 33,
       "category": "海外新闻"
     },
     {
@@ -75,6 +83,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 181969,
+      "num": 794740,
+      "word": "团播不得浓妆艳抹过度磨皮美颜",
+      "onboard_time": 1769529081,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 179390,
       "num": 517229,
       "word": "微博之夜阵容官宣",
@@ -91,6 +107,14 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 157281,
+      "num": 111449,
+      "word": "店主在穿脏退回的衣服掏出100元",
+      "onboard_time": 1769523142,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 154852,
       "num": 78505,
       "word": "黄金",
@@ -100,7 +124,7 @@
     },
     {
       "raw_hot": 149696,
-      "num": 352301,
+      "num": 573307,
       "word": "1克黄金竟能打造一张完整黄金婚书",
       "onboard_time": 1769524342,
       "rank": 4,
@@ -121,6 +145,14 @@
       "onboard_time": 1769515701,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 133625,
+      "num": 95386,
+      "word": "iPhone4S为何突然迎来第二春",
+      "onboard_time": 1769528120,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 133269,
@@ -147,22 +179,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 126052,
-      "num": 126052,
-      "word": "运毒车逃逸时坠河470万颗冰毒落水",
-      "onboard_time": 1769531599,
-      "rank": 33,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 125965,
-      "num": 492540,
-      "word": "团播不得浓妆艳抹过度磨皮美颜",
-      "onboard_time": 1769529081,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 124893,
       "num": 124893,
       "word": "姜丹尼尔赖冠霖不参加wannaone重聚",
@@ -187,12 +203,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 111449,
-      "num": 111449,
-      "word": "店主在穿脏退回的衣服掏出100元",
-      "onboard_time": 1769523142,
-      "rank": 16,
+      "raw_hot": 112343,
+      "num": 74027,
+      "word": "孕妇吃了一块冷藏蛋糕导致胎儿早产",
+      "onboard_time": 1769518281,
+      "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108759,
+      "num": 132209,
+      "word": "中方回应加拿大出售白鲸给美国",
+      "onboard_time": 1769522542,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 106305,
@@ -219,14 +243,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 100318,
-      "num": 74027,
-      "word": "孕妇吃了一块冷藏蛋糕导致胎儿早产",
-      "onboard_time": 1769518281,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 94716,
       "num": 94716,
       "word": "马化腾称腾讯已从美团京东投资中退出",
@@ -235,12 +251,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 93976,
-      "num": 93976,
-      "word": "iPhone4S为何突然迎来第二春",
-      "onboard_time": 1769528120,
-      "rank": 19,
-      "category": "数码"
+      "raw_hot": 87494,
+      "num": 87494,
+      "word": "杨紫化妆金鹤龙",
+      "onboard_time": 1769536336,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 84899,
@@ -251,12 +267,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 81835,
-      "num": 132209,
-      "word": "中方回应加拿大出售白鲸给美国",
-      "onboard_time": 1769522542,
-      "rank": 9,
-      "category": "国内时政"
+      "raw_hot": 81464,
+      "num": 81464,
+      "word": "7000人滞留日本机场称再不来了",
+      "onboard_time": 1769515760,
+      "rank": 43,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 72849,
@@ -291,14 +307,6 @@
       "category": "游戏,网红"
     },
     {
-      "raw_hot": 69407,
-      "num": 69407,
-      "word": "杨紫化妆金鹤龙",
-      "onboard_time": 1769536336,
-      "rank": 16,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 69108,
       "num": 69108,
       "word": "2026年房价会涨还是跌",
@@ -331,6 +339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 58212,
+      "num": 55162,
+      "word": "难怪考试不让上厕所",
+      "onboard_time": 1769516061,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 57725,
       "num": 57725,
       "word": "娜扎好六上班美成啥样了",
@@ -347,12 +363,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 51962,
-      "num": 51962,
-      "word": "7000人滞留日本机场称再不来了",
-      "onboard_time": 1769515760,
-      "rank": 43,
-      "category": "海外新闻"
+      "raw_hot": 51365,
+      "num": 74757,
+      "word": "王楚钦把眼镜P掉了",
+      "onboard_time": 1769556317,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 50366,
+      "num": 100237,
+      "word": "崩坏星穹铁道",
+      "onboard_time": 1769556317,
+      "rank": 8,
+      "category": "游戏"
     },
     {
       "raw_hot": 49546,
@@ -369,6 +393,14 @@
       "onboard_time": 1769530939,
       "rank": 45,
       "category": "数码"
+    },
+    {
+      "raw_hot": 46786,
+      "num": 46786,
+      "word": "河南夫妻36万枚鸡蛋卖出36万元",
+      "onboard_time": 1769556438,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 46314,
@@ -395,12 +427,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 43644,
-      "num": 43644,
-      "word": "难怪考试不让上厕所",
-      "onboard_time": 1769516061,
-      "rank": 43,
-      "category": "情感"
+      "raw_hot": 43967,
+      "num": 43967,
+      "word": "北海道罕见暴雪游客称这辈子再也不来",
+      "onboard_time": 1769556438,
+      "rank": 32,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 41440,
+      "num": 41440,
+      "word": "公司称猝死程序员未按要求做体检",
+      "onboard_time": 1769522842,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37479,
@@ -411,12 +451,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 35709,
+      "num": 35709,
+      "word": "檀健次看粉丝应援落泪",
+      "onboard_time": 1769540714,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 34829,
+      "num": 34829,
+      "word": "广州市市长喊话来广州过年",
+      "onboard_time": 1769556618,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32339,
       "num": 34313,
       "word": "你好星期六",
       "onboard_time": 1769534956,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 31411,
+      "num": 31411,
+      "word": "拍打腹股沟可以排泄腹部痰湿水饮",
+      "onboard_time": 1769556438,
+      "rank": 41,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 31255,
@@ -433,6 +497,22 @@
       "onboard_time": 1769510421,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30963,
+      "num": 30963,
+      "word": "泽连斯基称乌克兰计划加入欧盟",
+      "onboard_time": 1769555837,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 30682,
+      "num": 30682,
+      "word": "黄金白银急涨又急跌原因",
+      "onboard_time": 1769556618,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 29523,
@@ -465,6 +545,14 @@
       "onboard_time": 1769517140,
       "rank": 49,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 27428,
+      "num": 34315,
+      "word": "马年春晚",
+      "onboard_time": 1769541134,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 26825,
@@ -515,22 +603,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 20826,
-      "num": 34316,
-      "word": "檀健次看粉丝应援落泪",
-      "onboard_time": 1769540714,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 19262,
-      "num": 34315,
-      "word": "马年春晚",
-      "onboard_time": 1769541134,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 18289,
       "num": 34314,
       "word": "突然的喜欢",
@@ -548,7 +620,7 @@
     },
     {
       "raw_hot": 16857,
-      "num": 410160,
+      "num": 456157,
       "word": "2026逐梦中国",
       "onboard_time": 1769519663,
       "rank": 2,

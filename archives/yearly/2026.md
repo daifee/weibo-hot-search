@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/28 06:47:24
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/28 07:31:06
 </p>
 </blockquote>
 <p>
@@ -1545,6 +1545,12 @@ U23国足2比0越南（热度：940028）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%93%81%E7%89%8C%E7%B4%A7%E6%80%A5%E5%88%A0%E9%99%A4%E5%BC%A0%E9%9B%A8%E7%BB%AE%E7%9B%B8%E5%85%B3%E4%BB%A3%E8%A8%80%E5%86%85%E5%AE%B9%23" target="weibo">
+多品牌紧急删除张雨绮相关代言内容（热度：927199）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B4%BA%E5%A8%87%E9%BE%99%E6%89%80%E6%9C%89%E7%9B%B4%E6%92%AD%E6%89%93%E8%B5%8F%E5%9D%87%E7%94%A8%E4%BA%8E%E5%85%AC%E7%9B%8A%E4%BA%8B%E4%B8%9A%23" target="weibo">
 贺娇龙所有直播打赏均用于公益事业（热度：925148）
 </a>
@@ -1805,12 +1811,6 @@ DYG战胜狼队（热度：867183）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%89%E5%AE%87%E6%B2%A1%E5%8F%82%E5%8A%A0%E6%98%A5%E6%99%9A%E8%81%94%E6%8E%92%23" target="weibo">
 王安宇没参加春晚联排（热度：852117）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E7%88%86%E7%A7%81%E5%AF%86%E8%B4%A6%E5%8F%B7%23" target="weibo">
-阿爆私密账号（热度：850511）
 </a>
 </li>
 

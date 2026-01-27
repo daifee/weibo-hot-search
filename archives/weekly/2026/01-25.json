@@ -1,6 +1,6 @@
 {
   "startTime": 1769272464158,
-  "endTime": 1769554044769,
+  "endTime": 1769556666306,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -235,6 +235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 927199,
+      "num": 80835,
+      "word": "多品牌紧急删除张雨绮相关代言内容",
+      "onboard_time": 1769530280,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 868024,
       "num": 178000,
       "word": "白银",
@@ -321,14 +329,6 @@
       "onboard_time": 1769272340,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 739079,
-      "num": 80835,
-      "word": "多品牌紧急删除张雨绮相关代言内容",
-      "onboard_time": 1769530280,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 738940,
@@ -2387,6 +2387,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 240865,
+      "num": 240865,
+      "word": "运毒车逃逸时坠河470万颗冰毒落水",
+      "onboard_time": 1769531599,
+      "rank": 33,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 237670,
       "num": 154178,
       "word": "商家在我的豆浆里放了个杯子",
@@ -2969,6 +2977,14 @@
       "onboard_time": 1769491701,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 181969,
+      "num": 794740,
+      "word": "团播不得浓妆艳抹过度磨皮美颜",
+      "onboard_time": 1769529081,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 181439,
@@ -3875,6 +3891,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 133625,
+      "num": 95386,
+      "word": "iPhone4S为何突然迎来第二春",
+      "onboard_time": 1769528120,
+      "rank": 47,
+      "category": "数码"
+    },
+    {
       "raw_hot": 133484,
       "num": 133484,
       "word": "小海绵说不蹦",
@@ -4153,22 +4177,6 @@
       "onboard_time": 1769403983,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 126052,
-      "num": 126052,
-      "word": "运毒车逃逸时坠河470万颗冰毒落水",
-      "onboard_time": 1769531599,
-      "rank": 33,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 125965,
-      "num": 492540,
-      "word": "团播不得浓妆艳抹过度磨皮美颜",
-      "onboard_time": 1769529081,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 125848,
@@ -6115,14 +6123,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 93976,
-      "num": 93976,
-      "word": "iPhone4S为何突然迎来第二春",
-      "onboard_time": 1769528120,
-      "rank": 47,
-      "category": "数码"
-    },
-    {
       "raw_hot": 93957,
       "num": 93957,
       "word": "雷军回应小米第三座智能工厂",
@@ -6673,6 +6673,14 @@
       "onboard_time": 1769478501,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 87494,
+      "num": 87494,
+      "word": "杨紫化妆金鹤龙",
+      "onboard_time": 1769536336,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 87474,
@@ -8283,14 +8291,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 69407,
-      "num": 69407,
-      "word": "杨紫化妆金鹤龙",
-      "onboard_time": 1769536336,
-      "rank": 16,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 69078,
       "num": 69078,
       "word": "小猫穿戴聪明毛",
@@ -8955,6 +8955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 51365,
+      "num": 74757,
+      "word": "王楚钦把眼镜P掉了",
+      "onboard_time": 1769556317,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 51188,
       "num": 57821,
       "word": "松岛辉空获全日男单冠军",
@@ -8993,6 +9001,14 @@
       "onboard_time": 1769514261,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 50366,
+      "num": 100237,
+      "word": "崩坏星穹铁道",
+      "onboard_time": 1769556317,
+      "rank": 8,
+      "category": "游戏"
     },
     {
       "raw_hot": 50238,
@@ -9115,6 +9131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 46786,
+      "num": 46786,
+      "word": "河南夫妻36万枚鸡蛋卖出36万元",
+      "onboard_time": 1769556438,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46727,
       "num": 116048,
       "word": "伊朗军方称已做好迎战准备",
@@ -9153,6 +9177,14 @@
       "onboard_time": 1769436983,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 43967,
+      "num": 43967,
+      "word": "北海道罕见暴雪游客称这辈子再也不来",
+      "onboard_time": 1769556438,
+      "rank": 32,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 43868,
@@ -9515,6 +9547,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 35709,
+      "num": 35709,
+      "word": "檀健次看粉丝应援落泪",
+      "onboard_time": 1769540714,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 35564,
       "num": 190375,
       "word": "阿森纳vs曼联",
@@ -9536,6 +9576,14 @@
       "word": "被限高人员25次飞境外高消费获刑",
       "onboard_time": 1769480120,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34829,
+      "num": 34829,
+      "word": "广州市市长喊话来广州过年",
+      "onboard_time": 1769556618,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -9651,6 +9699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 31411,
+      "num": 31411,
+      "word": "拍打腹股沟可以排泄腹部痰湿水饮",
+      "onboard_time": 1769556438,
+      "rank": 41,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 31255,
       "num": 34311,
       "word": "声生不息华流季",
@@ -9675,6 +9731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 30963,
+      "num": 30963,
+      "word": "泽连斯基称乌克兰计划加入欧盟",
+      "onboard_time": 1769555837,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 30935,
       "num": 253040,
       "word": "别克至境L7包高铁送你回家",
@@ -9689,6 +9753,14 @@
       "onboard_time": 1769499560,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 30682,
+      "num": 30682,
+      "word": "黄金白银急涨又急跌原因",
+      "onboard_time": 1769556618,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 30469,
@@ -10080,14 +10152,6 @@
       "word": "白鹿录制亲爱的客栈",
       "onboard_time": 1769278695,
       "rank": 49,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 20826,
-      "num": 34316,
-      "word": "檀健次看粉丝应援落泪",
-      "onboard_time": 1769540714,
-      "rank": 41,
       "category": "艺人"
     },
     {
