@@ -1,6 +1,6 @@
 {
   "startTime": 1769445836222,
-  "endTime": 1769492143188,
+  "endTime": 1769493112519,
   "band_list": [
     {
       "raw_hot": 3419891,
@@ -163,6 +163,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 390165,
+      "num": 239119,
+      "word": "周也王玉雯 从胸口聊到巴黎",
+      "onboard_time": 1769489301,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 388493,
+      "num": 303032,
+      "word": "什么工作下班不会再找你",
+      "onboard_time": 1769486781,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 385617,
       "num": 827081,
       "word": "男子彩票中800余万交妻子淡定上班",
@@ -203,19 +219,19 @@
       "category": "财经"
     },
     {
+      "raw_hot": 342153,
+      "num": 233908,
+      "word": "戚薇撞脸金晨",
+      "onboard_time": 1769492720,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 333670,
       "num": 170828,
       "word": "李登科建议赖冠霖先找个班上",
       "onboard_time": 1769474602,
       "rank": 23,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 333459,
-      "num": 221981,
-      "word": "周也王玉雯 从胸口聊到巴黎",
-      "onboard_time": 1769489301,
-      "rank": 15,
       "category": "艺人"
     },
     {
@@ -347,14 +363,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 273407,
-      "num": 184596,
-      "word": "什么工作下班不会再找你",
-      "onboard_time": 1769486781,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 264527,
       "num": 116655,
       "word": "我国狂犬病死亡数创2020年来新高",
@@ -411,12 +419,28 @@
       "category": "财经,作品衍生"
     },
     {
+      "raw_hot": 221910,
+      "num": 221910,
+      "word": "会旅游和不会旅游的区别",
+      "onboard_time": 1769491581,
+      "rank": 17,
+      "category": "幽默,旅游"
+    },
+    {
       "raw_hot": 212386,
       "num": 212386,
       "word": "10岁白血病男孩豪豪离世",
       "onboard_time": 1769487502,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 210909,
+      "num": 210909,
+      "word": "时代峰峻最著名的一滴泪",
+      "onboard_time": 1769488582,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 209561,
@@ -443,20 +467,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 182157,
+      "num": 126838,
+      "word": "周雨彤回复了章若楠粉丝",
+      "onboard_time": 1769491701,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 180235,
       "num": 180235,
       "word": "每一个近视眼都应该少吃糖",
       "onboard_time": 1769477240,
       "rank": 27,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 173501,
-      "num": 173501,
-      "word": "时代峰峻最著名的一滴泪",
-      "onboard_time": 1769488582,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 165995,
@@ -480,6 +504,14 @@
       "word": "日本进入无大熊猫时代",
       "onboard_time": 1769482939,
       "rank": 28,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 154334,
+      "num": 154334,
+      "word": "美国美食节目称用人肉做香肠",
+      "onboard_time": 1769491042,
+      "rank": 30,
       "category": "海外新闻"
     },
     {
@@ -527,30 +559,6 @@
       "num": 143520,
       "word": "印度感染护士误饮被蝙蝠污染椰枣汁",
       "onboard_time": 1769483301,
-      "rank": 30,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 143156,
-      "num": 126838,
-      "word": "周雨彤回复了章若楠粉丝",
-      "onboard_time": 1769491701,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 137642,
-      "num": 137642,
-      "word": "会旅游和不会旅游的区别",
-      "onboard_time": 1769491581,
-      "rank": 17,
-      "category": "幽默,旅游"
-    },
-    {
-      "raw_hot": 137228,
-      "num": 114855,
-      "word": "美国美食节目称用人肉做香肠",
-      "onboard_time": 1769491042,
       "rank": 30,
       "category": "海外新闻"
     },
@@ -625,6 +633,14 @@
       "onboard_time": 1769490202,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 121257,
+      "num": 134958,
+      "word": "男子电诈园区跳楼逃生险被活埋",
+      "onboard_time": 1769491281,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 121220,
@@ -755,12 +771,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 107463,
+      "num": 107463,
+      "word": "iPhone5S更新系统",
+      "onboard_time": 1769489961,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
       "raw_hot": 106714,
       "num": 106714,
       "word": "镖人",
       "onboard_time": 1769480241,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 105419,
+      "num": 105419,
+      "word": "女性睡眠不足危害更大",
+      "onboard_time": 1769489841,
+      "rank": 42,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 105330,
@@ -843,6 +875,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 98090,
+      "num": 91969,
+      "word": "半糖青梅",
+      "onboard_time": 1769492780,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 97194,
       "num": 103402,
       "word": "王鹤棣宋茜 奇迹暖暖",
@@ -867,20 +907,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 96418,
-      "num": 96418,
-      "word": "iPhone5S更新系统",
-      "onboard_time": 1769489961,
-      "rank": 49,
-      "category": "数码"
-    },
-    {
       "raw_hot": 95973,
       "num": 95973,
       "word": "檀健次就是这么官宣我的吗",
       "onboard_time": 1769490202,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 95722,
+      "num": 91488,
+      "word": "5部电影定档2026春节档",
+      "onboard_time": 1769492360,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 95489,
@@ -995,14 +1035,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 88106,
-      "num": 88106,
-      "word": "女性睡眠不足危害更大",
-      "onboard_time": 1769489841,
-      "rank": 42,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 88034,
       "num": 88034,
       "word": "王玉雯扛住了G社镜头",
@@ -1059,6 +1091,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 81749,
+      "num": 81749,
+      "word": "月薪3千过出1万的生活质量",
+      "onboard_time": 1769492241,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 81715,
       "num": 80195,
       "word": "井迪辟谣普拉提能瘦身",
@@ -1081,6 +1121,14 @@
       "onboard_time": 1769477479,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 79762,
+      "num": 79762,
+      "word": "代旭 一直爱女才是苏男的最高境界",
+      "onboard_time": 1769492720,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 79374,
@@ -1187,6 +1235,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 67857,
+      "num": 81226,
+      "word": "陈都灵 来了都是灵",
+      "onboard_time": 1769492360,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 67511,
+      "num": 67511,
+      "word": "中国公司推出尼帕病毒核酸检测盒",
+      "onboard_time": 1769489600,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 66951,
       "num": 66951,
       "word": "赵樱子直播间发飙怼助理",
@@ -1201,6 +1265,14 @@
       "onboard_time": 1769441181,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 64363,
+      "num": 64363,
+      "word": "收到2元试吃费的粉条店主回应",
+      "onboard_time": 1769493080,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 63470,
@@ -1283,6 +1355,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 56211,
+      "num": 875068,
+      "word": "我国全超导磁体有重大突破",
+      "onboard_time": 1769491701,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 55982,
       "num": 66586,
       "word": "花儿与少年8",
@@ -1329,6 +1409,14 @@
       "onboard_time": 1769420241,
       "rank": 38,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 50598,
+      "num": 80943,
+      "word": "谁家音综导师快把选手得罪完了",
+      "onboard_time": 1769492181,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 49100,
@@ -1401,14 +1489,6 @@
       "onboard_time": 1769435541,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 39453,
-      "num": 134958,
-      "word": "男子电诈园区跳楼逃生险被活埋",
-      "onboard_time": 1769491281,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 39179,
@@ -1585,14 +1665,6 @@
       "onboard_time": 1769448077,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 21099,
-      "num": 875068,
-      "word": "我国全超导磁体有重大突破",
-      "onboard_time": 1769491701,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 21040,

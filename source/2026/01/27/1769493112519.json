@@ -1,0 +1,410 @@
+{
+  "runTime": 1769493112519,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2563037,
+        "num": 2563037,
+        "word": "微博之夜阵容官宣",
+        "onboard_time": 1769487682,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 659444,
+        "num": 996094,
+        "word": "50万亿存款将到期用户寻找存款贵替",
+        "onboard_time": 1769476219,
+        "rank": 1,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 56211,
+        "num": 822861,
+        "word": "我国全超导磁体有重大突破",
+        "onboard_time": 1769491701,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 519524,
+        "num": 519524,
+        "word": "微博之夜",
+        "onboard_time": 1769487741,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 304936,
+        "num": 304936,
+        "word": "支付宝集福",
+        "onboard_time": 1769483781,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 388493,
+        "num": 303032,
+        "word": "什么工作下班不会再找你",
+        "onboard_time": 1769486781,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 289378,
+        "num": 289378,
+        "word": "杨紫这段完播率1000%",
+        "onboard_time": 1769488642,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 246913,
+        "num": 246913,
+        "word": "日本警方逮捕一名三刀流男子",
+        "onboard_time": 1769487561,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 156400,
+        "num": 246895,
+        "word": "好利来道歉",
+        "onboard_time": 1769484801,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155188,
+        "num": 242133,
+        "word": "女子免疫系统攻击胚胎8年反复流产",
+        "onboard_time": 1769477961,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 390165,
+        "num": 239119,
+        "word": "周也王玉雯 从胸口聊到巴黎",
+        "onboard_time": 1769489301,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 342153,
+        "num": 233908,
+        "word": "戚薇撞脸金晨",
+        "onboard_time": 1769492720,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233475,
+        "num": 233475,
+        "word": "办公室奶茶文化",
+        "onboard_time": 1769485882,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 253426,
+        "num": 232177,
+        "word": "丁真名下工作室欠税3.4万被公告",
+        "onboard_time": 1769485940,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223188,
+        "num": 223188,
+        "word": "迪丽热巴 一个人当然可以拍婚纱照",
+        "onboard_time": 1769488462,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221910,
+        "num": 221910,
+        "word": "会旅游和不会旅游的区别",
+        "onboard_time": 1769491581,
+        "rank": 15,
+        "category": "幽默,旅游"
+      },
+      {
+        "raw_hot": 210909,
+        "num": 210909,
+        "word": "时代峰峻最著名的一滴泪",
+        "onboard_time": 1769488582,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198953,
+        "num": 198953,
+        "word": "外网AI视频假如中国替代了美国",
+        "onboard_time": 1769488342,
+        "rank": 17,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 154334,
+        "num": 154334,
+        "word": "美国美食节目称用人肉做香肠",
+        "onboard_time": 1769491042,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 121257,
+        "num": 121257,
+        "word": "男子电诈园区跳楼逃生险被活埋",
+        "onboard_time": 1769491281,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 369397,
+        "num": 119464,
+        "word": "刘亦菲 祖玛珑",
+        "onboard_time": 1769481081,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233695,
+        "num": 117905,
+        "word": "牵羊礼 屈辱",
+        "onboard_time": 1769442201,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170087,
+        "num": 115534,
+        "word": "金价银价巨震",
+        "onboard_time": 1769476880,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 182157,
+        "num": 111636,
+        "word": "周雨彤回复了章若楠粉丝",
+        "onboard_time": 1769491701,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155658,
+        "num": 107779,
+        "word": "辛芷蕾 观众缘",
+        "onboard_time": 1769487262,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107463,
+        "num": 107463,
+        "word": "iPhone5S更新系统",
+        "onboard_time": 1769489961,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 109624,
+        "num": 107428,
+        "word": "尹子维教孩子说英语面相都变了",
+        "onboard_time": 1769490202,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107203,
+        "num": 107203,
+        "word": "金价",
+        "onboard_time": 1769475263,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 105419,
+        "num": 105419,
+        "word": "女性睡眠不足危害更大",
+        "onboard_time": 1769489841,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 104909,
+        "num": 104909,
+        "word": "姚冠宇新短剧三榜冠军",
+        "onboard_time": 1769490979,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97103,
+        "num": 97103,
+        "word": "你是詹青云那她是谁",
+        "onboard_time": 1769490741,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92567,
+        "num": 92567,
+        "word": "摸凹猫 摸凸猫",
+        "onboard_time": 1769491342,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 98090,
+        "num": 91969,
+        "word": "半糖青梅",
+        "onboard_time": 1769492780,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95722,
+        "num": 91488,
+        "word": "5部电影定档2026春节档",
+        "onboard_time": 1769492360,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 90587,
+        "num": 90587,
+        "word": "银行打响存款争夺战",
+        "onboard_time": 1769485041,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 93552,
+        "num": 88084,
+        "word": "成毅旧片重映被指硬蹭流量",
+        "onboard_time": 1769489001,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 84966,
+        "num": 84966,
+        "word": "东契奇夯爆了",
+        "onboard_time": 1769488642,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81749,
+        "num": 81749,
+        "word": "月薪3千过出1万的生活质量",
+        "onboard_time": 1769492241,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 67857,
+        "num": 81226,
+        "word": "陈都灵 来了都是灵",
+        "onboard_time": 1769492360,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50598,
+        "num": 80943,
+        "word": "谁家音综导师快把选手得罪完了",
+        "onboard_time": 1769492181,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 80776,
+        "num": 80776,
+        "word": "婚恋是人生的终极课题吗",
+        "onboard_time": 1769490979,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 84170,
+        "num": 80655,
+        "word": "生命树定档",
+        "onboard_time": 1769480302,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83763,
+        "num": 80642,
+        "word": "怎么会有cp刚结束二搭就想着三搭",
+        "onboard_time": 1769490741,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73871,
+        "num": 79995,
+        "word": "iOS26.2.1正式版来了",
+        "onboard_time": 1769480660,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 79762,
+        "num": 79762,
+        "word": "代旭 一直爱女才是苏男的最高境界",
+        "onboard_time": 1769492720,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77613,
+        "num": 77613,
+        "word": "唐宫奇案",
+        "onboard_time": 1769478920,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 69480,
+        "num": 69480,
+        "word": "退货包裹里的2元钱让尊重具象化了",
+        "onboard_time": 1769472860,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67511,
+        "num": 67511,
+        "word": "中国公司推出尼帕病毒核酸检测盒",
+        "onboard_time": 1769489600,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 65204,
+        "num": 65204,
+        "word": "黄金涨到水贝商家都害怕",
+        "onboard_time": 1769474061,
+        "rank": 48,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 64363,
+        "num": 64363,
+        "word": "收到2元试吃费的粉条店主回应",
+        "onboard_time": 1769493080,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中越应当坚持道不变志不改#"
+    }
+  }
+}

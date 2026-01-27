@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769492143188,
+  "endTime": 1769493112519,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -10811,6 +10811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 390165,
+      "num": 239119,
+      "word": "周也王玉雯 从胸口聊到巴黎",
+      "onboard_time": 1769489301,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 389420,
       "num": 1062307,
       "word": "河南省考报名延期2天",
@@ -10849,6 +10857,14 @@
       "onboard_time": 1768274360,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 388493,
+      "num": 303032,
+      "word": "什么工作下班不会再找你",
+      "onboard_time": 1769486781,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 388351,
@@ -12939,6 +12955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 342153,
+      "num": 233908,
+      "word": "戚薇撞脸金晨",
+      "onboard_time": 1769492720,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 342127,
       "num": 175694,
       "word": "宋威龙赵今麦明天合体",
@@ -13289,14 +13313,6 @@
       "onboard_time": 1767272301,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 333459,
-      "num": 221981,
-      "word": "周也王玉雯 从胸口聊到巴黎",
-      "onboard_time": 1769489301,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 333408,
@@ -17121,14 +17137,6 @@
       "onboard_time": 1769221700,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 273407,
-      "num": 184596,
-      "word": "什么工作下班不会再找你",
-      "onboard_time": 1769486781,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 273085,
@@ -21339,6 +21347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 221910,
+      "num": 221910,
+      "word": "会旅游和不会旅游的区别",
+      "onboard_time": 1769491581,
+      "rank": 17,
+      "category": "幽默,旅游"
+    },
+    {
       "raw_hot": 221788,
       "num": 169583,
       "word": "苏新皓我听到啦",
@@ -22529,6 +22545,14 @@
       "onboard_time": 1768735462,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 210909,
+      "num": 210909,
+      "word": "时代峰峻最著名的一滴泪",
+      "onboard_time": 1769488582,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 210906,
@@ -27243,6 +27267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 182157,
+      "num": 126838,
+      "word": "周雨彤回复了章若楠粉丝",
+      "onboard_time": 1769491701,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 182078,
       "num": 166588,
       "word": "我的做法是很爱你但不在乎你",
@@ -28601,14 +28633,6 @@
       "onboard_time": 1769055861,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 173501,
-      "num": 173501,
-      "word": "时代峰峻最著名的一滴泪",
-      "onboard_time": 1769488582,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 173430,
@@ -32507,6 +32531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 154334,
+      "num": 154334,
+      "word": "美国美食节目称用人肉做香肠",
+      "onboard_time": 1769491042,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 154287,
       "num": 154287,
       "word": "明白小说里的富家千金长什么样了",
@@ -35403,14 +35435,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 143156,
-      "num": 126838,
-      "word": "周雨彤回复了章若楠粉丝",
-      "onboard_time": 1769491701,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 143129,
       "num": 143129,
       "word": "贵州辣椒",
@@ -37139,14 +37163,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 137642,
-      "num": 137642,
-      "word": "会旅游和不会旅游的区别",
-      "onboard_time": 1769491581,
-      "rank": 17,
-      "category": "幽默,旅游"
-    },
-    {
       "raw_hot": 137609,
       "num": 201775,
       "word": "冰咖啡和热咖啡差别居然这么大",
@@ -37193,14 +37209,6 @@
       "onboard_time": 1767421587,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 137228,
-      "num": 114855,
-      "word": "美国美食节目称用人肉做香肠",
-      "onboard_time": 1769491042,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 137199,
@@ -43001,6 +43009,14 @@
       "onboard_time": 1768648761,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 121257,
+      "num": 134958,
+      "word": "男子电诈园区跳楼逃生险被活埋",
+      "onboard_time": 1769491281,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 121220,
@@ -49243,6 +49259,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 107463,
+      "num": 107463,
+      "word": "iPhone5S更新系统",
+      "onboard_time": 1769489961,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
       "raw_hot": 107407,
       "num": 107407,
       "word": "展轩首套高定",
@@ -50401,6 +50425,14 @@
       "onboard_time": 1768444222,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 105419,
+      "num": 105419,
+      "word": "女性睡眠不足危害更大",
+      "onboard_time": 1769489841,
+      "rank": 42,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 105405,
@@ -55003,6 +55035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 98090,
+      "num": 91969,
+      "word": "半糖青梅",
+      "onboard_time": 1769492780,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 98083,
       "num": 98083,
       "word": "网红被前男友PUA导致容貌焦虑",
@@ -56283,14 +56323,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 96418,
-      "num": 96418,
-      "word": "iPhone5S更新系统",
-      "onboard_time": 1769489961,
-      "rank": 49,
-      "category": "数码"
-    },
-    {
       "raw_hot": 96403,
       "num": 96403,
       "word": "伊媒曝哈梅内伊已藏身地堡避险",
@@ -56817,6 +56849,14 @@
       "onboard_time": 1768104139,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 95722,
+      "num": 91488,
+      "word": "5部电影定档2026春节档",
+      "onboard_time": 1769492360,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 95717,
@@ -62107,14 +62147,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 88106,
-      "num": 88106,
-      "word": "女性睡眠不足危害更大",
-      "onboard_time": 1769489841,
-      "rank": 42,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 88098,
       "num": 88098,
       "word": "刘耀文 回忆会惩罚每个念旧的人",
@@ -66731,6 +66763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 81749,
+      "num": 81749,
+      "word": "月薪3千过出1万的生活质量",
+      "onboard_time": 1769492241,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 81734,
       "num": 81734,
       "word": "布云朝克特澳网止步首轮",
@@ -68041,6 +68081,14 @@
       "onboard_time": 1769225119,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 79762,
+      "num": 79762,
+      "word": "代旭 一直爱女才是苏男的最高境界",
+      "onboard_time": 1769492720,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 79761,
@@ -73547,6 +73595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 67857,
+      "num": 81226,
+      "word": "陈都灵 来了都是灵",
+      "onboard_time": 1769492360,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 67846,
       "num": 65456,
       "word": "鞠婧祎真是好权威的一张脸",
@@ -73649,6 +73705,14 @@
       "onboard_time": 1768214121,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 67511,
+      "num": 67511,
+      "word": "中国公司推出尼帕病毒核酸检测盒",
+      "onboard_time": 1769489600,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 67486,
@@ -74721,6 +74785,14 @@
       "onboard_time": 1768109061,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 64363,
+      "num": 64363,
+      "word": "收到2元试吃费的粉条店主回应",
+      "onboard_time": 1769493080,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 64354,
@@ -77171,6 +77243,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 56211,
+      "num": 875068,
+      "word": "我国全超导磁体有重大突破",
+      "onboard_time": 1769491701,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 56180,
       "num": 108687,
       "word": "安徽省应急广播深夜误播5分钟节目",
@@ -78465,6 +78545,14 @@
       "onboard_time": 1767409469,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 50598,
+      "num": 80943,
+      "word": "谁家音综导师快把选手得罪完了",
+      "onboard_time": 1769492181,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 50593,
@@ -81233,14 +81321,6 @@
       "onboard_time": 1767782303,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 39453,
-      "num": 134958,
-      "word": "男子电诈园区跳楼逃生险被活埋",
-      "onboard_time": 1769491281,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 39394,
@@ -86473,14 +86553,6 @@
       "onboard_time": 1767327140,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 21099,
-      "num": 875068,
-      "word": "我国全超导磁体有重大突破",
-      "onboard_time": 1769491701,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 21057,
