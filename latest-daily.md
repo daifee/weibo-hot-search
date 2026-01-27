@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/28 00:39:49 ~ 2026/01/28 03:48:40
+本榜单时间：2026/01/28 00:39:49 ~ 2026/01/28 04:32:20
 </p>
 </blockquote>
 <p>
@@ -225,6 +225,12 @@ iPhone4S为何突然迎来第二春（热度：93976）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A1%83%E9%BB%91%E9%BB%91%E6%89%93%E7%8E%8B%E8%80%85%23" target="weibo">
+桃黑黑打王者（热度：70353）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%8C%96%E5%A6%86%E9%87%91%E9%B9%A4%E9%BE%99%23" target="weibo">
 杨紫化妆金鹤龙（热度：69407）
 </a>
@@ -269,12 +275,6 @@ iPhone4S为何突然迎来第二春（热度：93976）
 <li>
 <a href="https://s.weibo.com/weibo?q=%237000%E4%BA%BA%E6%BB%9E%E7%95%99%E6%97%A5%E6%9C%AC%E6%9C%BA%E5%9C%BA%E7%A7%B0%E5%86%8D%E4%B8%8D%E6%9D%A5%E4%BA%86%23" target="weibo">
 7000人滞留日本机场称再不来了（热度：51962）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A1%83%E9%BB%91%E9%BB%91%E6%89%93%E7%8E%8B%E8%80%85%23" target="weibo">
-桃黑黑打王者（热度：51497）
 </a>
 </li>
 

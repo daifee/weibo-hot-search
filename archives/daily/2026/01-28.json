@@ -1,6 +1,6 @@
 {
   "startTime": 1769531989527,
-  "endTime": 1769543320467,
+  "endTime": 1769545940583,
   "band_list": [
     {
       "raw_hot": 739079,
@@ -283,6 +283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 70353,
+      "num": 51497,
+      "word": "桃黑黑打王者",
+      "onboard_time": 1769520260,
+      "rank": 48,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 69407,
       "num": 69407,
       "word": "杨紫化妆金鹤龙",
@@ -345,14 +353,6 @@
       "onboard_time": 1769515760,
       "rank": 43,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 51497,
-      "num": 51497,
-      "word": "桃黑黑打王者",
-      "onboard_time": 1769520260,
-      "rank": 48,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 49546,
