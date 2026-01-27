@@ -1,0 +1,410 @@
+{
+  "runTime": 1769504318238,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1129514,
+        "num": 1180722,
+        "word": "微博之夜阵容官宣",
+        "onboard_time": 1769487682,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 425857,
+        "num": 865883,
+        "word": "50万亿存款将到期用户寻找存款贵替",
+        "onboard_time": 1769476219,
+        "rank": 1,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 20184,
+        "num": 664300,
+        "word": "2026全国两会",
+        "onboard_time": 1769504121,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 353100,
+        "num": 353100,
+        "word": "中国游客巴厘岛患脏水病致喷射性吐",
+        "onboard_time": 1769501480,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 351410,
+        "num": 351410,
+        "word": "桃黑黑12个小时上了5颗星",
+        "onboard_time": 1769495060,
+        "rank": 4,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 843224,
+        "num": 342273,
+        "word": "导师一直叫我微信名怎么办",
+        "onboard_time": 1769497399,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 330427,
+        "num": 330427,
+        "word": "小伙救人按断女子6根肋骨收到谢谢",
+        "onboard_time": 1769494881,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 322282,
+        "num": 322282,
+        "word": "微博之夜",
+        "onboard_time": 1769487741,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 245812,
+        "num": 245812,
+        "word": "支付宝集福",
+        "onboard_time": 1769483781,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 232915,
+        "num": 232915,
+        "word": "印度疫情会失控吗",
+        "onboard_time": 1769499921,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 893090,
+        "num": 231318,
+        "word": "周雨彤工作室道歉",
+        "onboard_time": 1769498000,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 528796,
+        "num": 228383,
+        "word": "入殓师称逝者化妆时偶尔会睁眼",
+        "onboard_time": 1769499321,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 519501,
+        "num": 225446,
+        "word": "贺峻霖 研究生的脑子就是不一样",
+        "onboard_time": 1769501541,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 473806,
+        "num": 224123,
+        "word": "对不起第一次结婚有点好笑",
+        "onboard_time": 1769499441,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 460392,
+        "num": 220982,
+        "word": "高市早苗破防了",
+        "onboard_time": 1769493199,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 220146,
+        "num": 220146,
+        "word": "李蓓清仓黄金",
+        "onboard_time": 1769493980,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 39094,
+        "num": 219356,
+        "word": "社保基金累计结余超10万亿元",
+        "onboard_time": 1769503821,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36938,
+        "num": 217852,
+        "word": "游戏玩家把抢头福加入日常任务",
+        "onboard_time": 1769501780,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 42590,
+        "num": 217635,
+        "word": "新年旺自己的方式",
+        "onboard_time": 1769501780,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 246926,
+        "num": 216217,
+        "word": "韩国人还在睡梦中特朗普突然下手",
+        "onboard_time": 1769494640,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 536494,
+        "num": 214895,
+        "word": "霍建华签名 冷脸洗内裤",
+        "onboard_time": 1769500281,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 430052,
+        "num": 213307,
+        "word": "张雨绮巴黎时装周行程或被取消",
+        "onboard_time": 1769501061,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213060,
+        "num": 213060,
+        "word": "香港蔡天凤碎尸案新进展",
+        "onboard_time": 1769503700,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 411841,
+        "num": 212467,
+        "word": "曝听泉鉴宝送前女友房子",
+        "onboard_time": 1769503160,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 209981,
+        "num": 209981,
+        "word": "戚薇撞脸金晨",
+        "onboard_time": 1769492720,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135276,
+        "num": 191802,
+        "word": "为什么教师行业没有起床气",
+        "onboard_time": 1769503521,
+        "rank": 25,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 188351,
+        "num": 188351,
+        "word": "黄杨钿甜官宣微博之夜",
+        "onboard_time": 1769502201,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 151686,
+        "num": 151686,
+        "word": "丁真名下工作室欠税3.4万被公告",
+        "onboard_time": 1769485940,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129559,
+        "num": 129559,
+        "word": "罗马仕被处罚",
+        "onboard_time": 1769501361,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136553,
+        "num": 129302,
+        "word": "徐冬冬尹子维结婚线下排面",
+        "onboard_time": 1769497700,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128141,
+        "num": 128141,
+        "word": "短剧圈真不把我们当外人",
+        "onboard_time": 1769501541,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126893,
+        "num": 126893,
+        "word": "1g黄金的区别有多大",
+        "onboard_time": 1769503761,
+        "rank": 31,
+        "category": "科学科普,休闲"
+      },
+      {
+        "raw_hot": 119899,
+        "num": 119899,
+        "word": "曝朱志鑫左航要上北电国际班",
+        "onboard_time": 1769500100,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119082,
+        "num": 119082,
+        "word": "没有体面点的衣服给王晶吗",
+        "onboard_time": 1769502681,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113496,
+        "num": 113496,
+        "word": "王者荣耀你坏事做尽",
+        "onboard_time": 1769503281,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 106464,
+        "num": 106464,
+        "word": "生命树发布会",
+        "onboard_time": 1769495660,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105756,
+        "num": 105756,
+        "word": "冯提莫直播关美颜",
+        "onboard_time": 1769501241,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76605,
+        "num": 104852,
+        "word": "15岁男生打人称记错拘留年龄",
+        "onboard_time": 1769503700,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68098,
+        "num": 104592,
+        "word": "微博之夜好权威的一张张脸",
+        "onboard_time": 1769503941,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 16774,
+        "num": 104493,
+        "word": "刘耀文看黄子韬脱裤子的表情",
+        "onboard_time": 1769503880,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104404,
+        "num": 104404,
+        "word": "山西过年还是太超前了",
+        "onboard_time": 1769503160,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 75045,
+        "num": 99523,
+        "word": "印度捕获9蝙蝠1只有尼帕病毒抗体",
+        "onboard_time": 1769500699,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 105158,
+        "num": 98283,
+        "word": "杨紫生命树上星多卫视播出",
+        "onboard_time": 1769503402,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97021,
+        "num": 97021,
+        "word": "张艺谋 体重管理最严厉的父亲",
+        "onboard_time": 1769494160,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 20915,
+        "num": 94477,
+        "word": "我国搭建了星辰大海攻坚站",
+        "onboard_time": 1769503640,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92954,
+        "num": 92954,
+        "word": "谢霆锋 九十年代留子",
+        "onboard_time": 1769502139,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92048,
+        "num": 92048,
+        "word": "刘亦菲 祖玛珑",
+        "onboard_time": 1769481081,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90186,
+        "num": 90186,
+        "word": "腾讯2026年会",
+        "onboard_time": 1769504180,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 80344,
+        "num": 80344,
+        "word": "会旅游和不会旅游的区别",
+        "onboard_time": 1769491581,
+        "rank": 48,
+        "category": "幽默,旅游"
+      },
+      {
+        "raw_hot": 72989,
+        "num": 79944,
+        "word": "马年纪念钞为啥能这么火",
+        "onboard_time": 1769503460,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见芬兰总理奥尔波#"
+    }
+  }
+}
