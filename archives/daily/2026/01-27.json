@@ -1,6 +1,6 @@
 {
   "startTime": 1769445836222,
-  "endTime": 1769519128581,
+  "endTime": 1769520551672,
   "band_list": [
     {
       "raw_hot": 3419891,
@@ -52,10 +52,18 @@
     },
     {
       "raw_hot": 1117646,
-      "num": 127512,
+      "num": 143555,
       "word": "何健麒公开无犯罪记录证明",
       "onboard_time": 1769515701,
       "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1077806,
+      "num": 143657,
+      "word": "小酒窝去天津找亲爸了",
+      "onboard_time": 1769517860,
+      "rank": 22,
       "category": "艺人"
     },
     {
@@ -83,14 +91,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 785966,
-      "num": 98048,
-      "word": "小酒窝去天津找亲爸了",
-      "onboard_time": 1769517860,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 750844,
       "num": 268808,
       "word": "刘亦菲 祖玛珑",
@@ -115,20 +115,20 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 684930,
+      "num": 143257,
+      "word": "黄金",
+      "onboard_time": 1769517320,
+      "rank": 23,
+      "category": "财经"
+    },
+    {
       "raw_hot": 680038,
       "num": 285420,
       "word": "戚薇撞脸金晨",
       "onboard_time": 1769492720,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 667381,
-      "num": 97912,
-      "word": "黄金",
-      "onboard_time": 1769517320,
-      "rank": 23,
-      "category": "财经"
     },
     {
       "raw_hot": 657477,
@@ -371,6 +371,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 392260,
+      "num": 392260,
+      "word": "王橹杰出演顾晨阳",
+      "onboard_time": 1769516301,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 390165,
       "num": 239119,
       "word": "周也王玉雯 从胸口聊到巴黎",
@@ -403,19 +411,19 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 363955,
-      "num": 363955,
-      "word": "王橹杰出演顾晨阳",
-      "onboard_time": 1769516301,
-      "rank": 3,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 363036,
       "num": 215129,
       "word": "渐冻人李小中称遭男护工猥亵报案",
       "onboard_time": 1769510000,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 358191,
+      "num": 151763,
+      "word": "妈妈辅导作业崩溃吞下整罐安眠药",
+      "onboard_time": 1769514741,
+      "rank": 10,
       "category": "民生新闻"
     },
     {
@@ -435,20 +443,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 350273,
-      "num": 151763,
-      "word": "妈妈辅导作业崩溃吞下整罐安眠药",
-      "onboard_time": 1769514741,
-      "rank": 10,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 344692,
       "num": 120771,
       "word": "Angelababy高定品牌创始人回应争议",
       "onboard_time": 1769441302,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 343757,
+      "num": 142429,
+      "word": "孕妇吃了一块冷藏蛋糕导致胎儿早产",
+      "onboard_time": 1769518281,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 342398,
@@ -531,8 +539,8 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 316919,
-      "num": 150748,
+      "raw_hot": 317059,
+      "num": 166477,
       "word": "章子怡偶遇老同学曾黎",
       "onboard_time": 1769516422,
       "rank": 11,
@@ -571,6 +579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 295119,
+      "num": 237043,
+      "word": "周大生店员反问顾客买得起吗",
+      "onboard_time": 1769515881,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 293638,
       "num": 293638,
       "word": "星河入梦定档春节",
@@ -593,14 +609,6 @@
       "onboard_time": 1769488642,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 284911,
-      "num": 95921,
-      "word": "孕妇吃了一块冷藏蛋糕导致胎儿早产",
-      "onboard_time": 1769518281,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 283321,
@@ -628,7 +636,7 @@
     },
     {
       "raw_hot": 280913,
-      "num": 150541,
+      "num": 165933,
       "word": "易烊千玺 造型",
       "onboard_time": 1769511081,
       "rank": 36,
@@ -747,14 +755,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 237043,
-      "num": 237043,
-      "word": "周大生店员反问顾客买得起吗",
-      "onboard_time": 1769515881,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 234155,
       "num": 117586,
       "word": "何健麒尿检",
@@ -827,6 +827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 200820,
+      "num": 141772,
+      "word": "难怪考试不让上厕所",
+      "onboard_time": 1769516061,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 197230,
       "num": 197230,
       "word": "日本最后2只大熊猫今天回国",
@@ -875,6 +883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 181312,
+      "num": 165348,
+      "word": "7000人滞留日本机场称再不来了",
+      "onboard_time": 1769515760,
+      "rank": 12,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 180235,
       "num": 180235,
       "word": "每一个近视眼都应该少吃糖",
@@ -891,12 +907,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 173943,
-      "num": 93381,
-      "word": "难怪考试不让上厕所",
-      "onboard_time": 1769516061,
-      "rank": 30,
-      "category": "情感"
+      "raw_hot": 175432,
+      "num": 164507,
+      "word": "那英说沈梦辰嫁给杜海涛眼光好",
+      "onboard_time": 1769519781,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 175038,
+      "num": 161970,
+      "word": "微博之夜第二波阵容解密",
+      "onboard_time": 1769519663,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 171617,
@@ -1027,6 +1051,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 141688,
+      "num": 141688,
+      "word": "冶勒湖偶遇鞠婧祎",
+      "onboard_time": 1769519121,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 140748,
       "num": 109663,
       "word": "沈梦辰带婆婆追星",
@@ -1081,6 +1113,14 @@
       "onboard_time": 1769495962,
       "rank": 36,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 132037,
+      "num": 132037,
+      "word": "我们的少年时代2",
+      "onboard_time": 1769517800,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 130284,
@@ -1187,6 +1227,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 122429,
+      "num": 142215,
+      "word": "年轻人用新三金对抗利率下调",
+      "onboard_time": 1769516001,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 122309,
       "num": 244389,
       "word": "杨紫生命树微表情演技",
@@ -1273,6 +1321,14 @@
       "onboard_time": 1769469679,
       "rank": 25,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 117078,
+      "num": 117078,
+      "word": "娱乐圈四大不倒人设",
+      "onboard_time": 1769519721,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 116682,
@@ -1371,14 +1427,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 111728,
-      "num": 94463,
-      "word": "年轻人用新三金对抗利率下调",
-      "onboard_time": 1769516001,
-      "rank": 28,
-      "category": "财经"
-    },
-    {
       "raw_hot": 111679,
       "num": 111679,
       "word": "女子15岁时妈妈去世产后爸爸照顾月子",
@@ -1465,6 +1513,14 @@
       "onboard_time": 1769480241,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 106293,
+      "num": 82283,
+      "word": "太平年",
+      "onboard_time": 1769432902,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 105419,
@@ -1579,20 +1635,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 100913,
+      "num": 130468,
+      "word": "桃黑黑打王者",
+      "onboard_time": 1769520260,
+      "rank": 35,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 100863,
       "num": 100863,
       "word": "头一次见炮轰的咖啡",
       "onboard_time": 1769487081,
       "rank": 41,
       "category": "美食"
-    },
-    {
-      "raw_hot": 100422,
-      "num": 91862,
-      "word": "我们的少年时代2",
-      "onboard_time": 1769517800,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 100031,
@@ -1644,7 +1700,7 @@
     },
     {
       "raw_hot": 98602,
-      "num": 98602,
+      "num": 142490,
       "word": "香奈儿大秀",
       "onboard_time": 1769513600,
       "rank": 33,
@@ -1729,6 +1785,14 @@
       "onboard_time": 1769490202,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 95874,
+      "num": 77870,
+      "word": "鹿晗跳草裙舞",
+      "onboard_time": 1769520202,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 95722,
@@ -1833,6 +1897,14 @@
       "onboard_time": 1769518401,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 91783,
+      "num": 91783,
+      "word": "2岁萌娃公园玩耍捡70克金项链",
+      "onboard_time": 1769519001,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 91748,
@@ -2051,6 +2123,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 84220,
+      "num": 77237,
+      "word": "百花迎春晚会",
+      "onboard_time": 1769519182,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 84099,
       "num": 84099,
       "word": "王楚钦吴刚夫妇腊八同框",
@@ -2060,7 +2140,7 @@
     },
     {
       "raw_hot": 83929,
-      "num": 83929,
+      "num": 141996,
       "word": "为关闭扣费下载软件18万没了",
       "onboard_time": 1769515941,
       "rank": 39,
@@ -2097,6 +2177,14 @@
       "onboard_time": 1769511141,
       "rank": 48,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 82397,
+      "num": 82397,
+      "word": "Dior的鲜花一直盛开",
+      "onboard_time": 1769517140,
+      "rank": 40,
+      "category": "时尚"
     },
     {
       "raw_hot": 82354,
@@ -2251,12 +2339,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 77024,
-      "num": 77024,
-      "word": "2岁萌娃公园玩耍捡70克金项链",
-      "onboard_time": 1769519001,
-      "rank": 44,
-      "category": "民生新闻"
+      "raw_hot": 77229,
+      "num": 77229,
+      "word": "玄彬没对儿子发过火",
+      "onboard_time": 1769520502,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 77006,
@@ -2467,6 +2555,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 66247,
+      "num": 76647,
+      "word": "易方达黄金主题LOF将暂停申购",
+      "onboard_time": 1769520442,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 64363,
       "num": 64363,
       "word": "收到2元试吃费的粉条店主回应",
@@ -2497,14 +2593,6 @@
       "onboard_time": 1769503281,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 61522,
-      "num": 66636,
-      "word": "太平年",
-      "onboard_time": 1769432902,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 60600,
@@ -2657,6 +2745,14 @@
       "onboard_time": 1769514261,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 49462,
+      "num": 144187,
+      "word": "2025微博年度车型揭晓",
+      "onboard_time": 1769519182,
+      "rank": 18,
+      "category": "汽车"
     },
     {
       "raw_hot": 49100,
@@ -3185,6 +3281,14 @@
       "onboard_time": 1769436503,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 9953,
+      "num": 621422,
+      "word": "2026逐梦中国",
+      "onboard_time": 1769519663,
+      "rank": 2,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
@@ -3196,6 +3300,9 @@
     },
     {
       "word": "#习近平会见芬兰总理奥尔波#"
+    },
+    {
+      "word": "#冷资源带动热经济#"
     }
   ]
 }

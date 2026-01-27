@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769519128581,
+  "endTime": 1769520551672,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -1284,7 +1284,7 @@
     },
     {
       "raw_hot": 1117646,
-      "num": 127512,
+      "num": 143555,
       "word": "何健麒公开无犯罪记录证明",
       "onboard_time": 1769515701,
       "rank": 20,
@@ -1393,6 +1393,14 @@
       "onboard_time": 1768283660,
       "rank": 5,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1077806,
+      "num": 143657,
+      "word": "小酒窝去天津找亲爸了",
+      "onboard_time": 1769517860,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 1076314,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1768879882,
       "rank": 13,
       "category": "网红"
-    },
-    {
-      "raw_hot": 848525,
-      "num": 198659,
-      "word": "吴昕七八年不看朋友圈",
-      "onboard_time": 1768287620,
-      "rank": 10,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [

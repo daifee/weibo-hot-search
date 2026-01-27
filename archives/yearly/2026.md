@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/27 21:05:28
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/27 21:29:11
 </p>
 </blockquote>
 <p>
@@ -1059,6 +1059,12 @@ MRC对战Gr（热度：1190595）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%85%92%E7%AA%9D%E5%8E%BB%E5%A4%A9%E6%B4%A5%E6%89%BE%E4%BA%B2%E7%88%B8%E4%BA%86%23" target="weibo">
+小酒窝去天津找亲爸了（热度：1077806）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AA%E4%BA%BA%E5%AD%98%E5%8F%96%E6%AC%BE%E8%B6%855%E4%B8%87%E5%85%83%E4%B8%8D%E5%86%8D%E7%99%BB%E8%AE%B0%23" target="weibo">
 个人存取款超5万元不再登记（热度：1076314）
 </a>
@@ -1805,12 +1811,6 @@ DYG战胜狼队（热度：867183）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E7%88%86%E7%A7%81%E5%AF%86%E8%B4%A6%E5%8F%B7%23" target="weibo">
 阿爆私密账号（热度：850511）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E6%98%95%E4%B8%83%E5%85%AB%E5%B9%B4%E4%B8%8D%E7%9C%8B%E6%9C%8B%E5%8F%8B%E5%9C%88%23" target="weibo">
-吴昕七八年不看朋友圈（热度：848525）
 </a>
 </li>
 
