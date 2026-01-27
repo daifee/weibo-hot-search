@@ -1,6 +1,6 @@
 {
   "startTime": 1769272464158,
-  "endTime": 1769525956928,
+  "endTime": 1769528324429,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -883,6 +883,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 481051,
+      "num": 267219,
+      "word": "原来TFBOYS以前这么苦",
+      "onboard_time": 1769525422,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 480571,
+      "num": 569956,
+      "word": "以色列女子看电视发现自己死在伊朗",
+      "onboard_time": 1769524342,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 480015,
       "num": 465840,
       "word": "范志毅说这样输球我能接受",
@@ -1027,6 +1043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 423421,
+      "num": 1067747,
+      "word": "湖南省考多地监狱岗位仅招艺术类",
+      "onboard_time": 1769524043,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 421571,
       "num": 790589,
       "word": "生命树定档",
@@ -1100,7 +1124,7 @@
     },
     {
       "raw_hot": 410164,
-      "num": 634400,
+      "num": 784586,
       "word": "我们的少年时代2",
       "onboard_time": 1769307921,
       "rank": 49,
@@ -1419,6 +1443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 339348,
+      "num": 304489,
+      "word": "姜丹尼尔赖冠霖不参加wannaone重聚",
+      "onboard_time": 1769522662,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 337277,
       "num": 337277,
       "word": "雷军称小米汽车熔岩橙配色敢买的人太少",
@@ -1707,14 +1739,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 304489,
-      "num": 304489,
-      "word": "姜丹尼尔赖冠霖不参加wannaone重聚",
-      "onboard_time": 1769522662,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 304210,
       "num": 234572,
       "word": "退脏衣服被拒骂哭商家女子道歉",
@@ -1867,6 +1891,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 284978,
+      "num": 257488,
+      "word": "店主在穿脏退回的衣服掏出100元",
+      "onboard_time": 1769523142,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 284543,
       "num": 284543,
       "word": "灵隐寺免票预约后38万人爽约",
@@ -1915,14 +1947,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 279786,
-      "num": 783099,
-      "word": "湖南省考多地监狱岗位仅招艺术类",
-      "onboard_time": 1769524043,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 279713,
       "num": 279713,
       "word": "2026年房价会涨还是跌",
@@ -1945,6 +1969,22 @@
       "onboard_time": 1769274860,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 277730,
+      "num": 582574,
+      "word": "1克黄金竟能打造一张完整黄金婚书",
+      "onboard_time": 1769524342,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 276503,
+      "num": 589675,
+      "word": "鹿晗五哈坐囚车路透",
+      "onboard_time": 1769523862,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 274504,
@@ -2155,14 +2195,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 257488,
-      "num": 257488,
-      "word": "店主在穿脏退回的衣服掏出100元",
-      "onboard_time": 1769523142,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 256527,
       "num": 256527,
       "word": "以为的淡妆vs实际上的淡妆",
@@ -2185,14 +2217,6 @@
       "onboard_time": 1769259921,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 255772,
-      "num": 589675,
-      "word": "鹿晗五哈坐囚车路透",
-      "onboard_time": 1769523862,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 252750,
@@ -2675,14 +2699,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 205246,
-      "num": 582574,
-      "word": "1克黄金竟能打造一张完整黄金婚书",
-      "onboard_time": 1769524342,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 204118,
       "num": 92708,
       "word": "前女友回应何健麒",
@@ -3107,14 +3123,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 168471,
-      "num": 569956,
-      "word": "以色列女子看电视发现自己死在伊朗",
-      "onboard_time": 1769524342,
-      "rank": 39,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 168027,
       "num": 168027,
       "word": "陈建斌曝李亚鹏晚上睡觉没有被子",
@@ -3491,6 +3499,14 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 147743,
+      "num": 581672,
+      "word": "王者荣耀",
+      "onboard_time": 1769523621,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 147474,
       "num": 147474,
       "word": "最差一届的学生被学校请回去了",
@@ -3529,14 +3545,6 @@
       "onboard_time": 1769274440,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 145498,
-      "num": 145498,
-      "word": "原来TFBOYS以前这么苦",
-      "onboard_time": 1769525422,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 145450,
@@ -3601,14 +3609,6 @@
       "onboard_time": 1769483301,
       "rank": 30,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 143284,
-      "num": 581672,
-      "word": "王者荣耀",
-      "onboard_time": 1769523621,
-      "rank": 8,
-      "category": "电竞"
     },
     {
       "raw_hot": 142009,
@@ -3705,6 +3705,14 @@
       "onboard_time": 1769337380,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 140432,
+      "num": 140432,
+      "word": "男子要求错认16年的假父一家道歉",
+      "onboard_time": 1769526022,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 140060,
@@ -4427,6 +4435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 119070,
+      "num": 269227,
+      "word": "澳大利亚多地逼近50℃",
+      "onboard_time": 1769527040,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 118814,
       "num": 110616,
       "word": "MBC演唱会取消",
@@ -4481,6 +4497,14 @@
       "onboard_time": 1769385077,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 116958,
+      "num": 116958,
+      "word": "3岁男童小区内遭送货三轮撞倒身亡",
+      "onboard_time": 1769527342,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 116682,
@@ -4865,6 +4889,14 @@
       "onboard_time": 1769415562,
       "rank": 29,
       "category": "财经"
+    },
+    {
+      "raw_hot": 107789,
+      "num": 107789,
+      "word": "孙子患白血病奶奶忍泪谎称肚子疼",
+      "onboard_time": 1769526381,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 107659,
@@ -5811,6 +5843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 96199,
+      "num": 96199,
+      "word": "太平年编剧",
+      "onboard_time": 1769526681,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 96144,
       "num": 96144,
       "word": "闪耀暖暖",
@@ -6755,6 +6795,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 85637,
+      "num": 85637,
+      "word": "降价后的苹果Air和国产Air选哪个",
+      "onboard_time": 1769527161,
+      "rank": 42,
+      "category": "数码"
+    },
+    {
       "raw_hot": 85601,
       "num": 85601,
       "word": "李现比广东走地鸡还能走",
@@ -7491,6 +7539,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 77632,
+      "num": 77632,
+      "word": "iPhone4S为何突然迎来第二春",
+      "onboard_time": 1769528120,
+      "rank": 47,
+      "category": "数码"
+    },
+    {
       "raw_hot": 77593,
       "num": 77593,
       "word": "点外卖时记得检查一下备注",
@@ -8051,6 +8107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 70796,
+      "num": 74135,
+      "word": "手办厂遭纵火致多款游戏周边延期",
+      "onboard_time": 1769527581,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 70674,
       "num": 97986,
       "word": "林志玲拍戏了",
@@ -8481,6 +8545,14 @@
       "onboard_time": 1769424622,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 62548,
+      "num": 96239,
+      "word": "日本一女性在同一家公司上班近70年",
+      "onboard_time": 1769527222,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 62372,

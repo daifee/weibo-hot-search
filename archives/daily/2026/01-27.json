@@ -1,6 +1,6 @@
 {
   "startTime": 1769445836222,
-  "endTime": 1769525956928,
+  "endTime": 1769528324429,
   "band_list": [
     {
       "raw_hot": 3419891,
@@ -323,6 +323,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 481051,
+      "num": 267219,
+      "word": "原来TFBOYS以前这么苦",
+      "onboard_time": 1769525422,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 480571,
+      "num": 569956,
+      "word": "以色列女子看电视发现自己死在伊朗",
+      "onboard_time": 1769524342,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 477016,
       "num": 477016,
       "word": "那英说沈梦辰嫁给杜海涛眼光好",
@@ -363,6 +379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 423421,
+      "num": 1067747,
+      "word": "湖南省考多地监狱岗位仅招艺术类",
+      "onboard_time": 1769524043,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 421571,
       "num": 790589,
       "word": "生命树定档",
@@ -396,7 +420,7 @@
     },
     {
       "raw_hot": 410164,
-      "num": 634400,
+      "num": 784586,
       "word": "我们的少年时代2",
       "onboard_time": 1769517800,
       "rank": 34,
@@ -515,6 +539,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 339348,
+      "num": 304489,
+      "word": "姜丹尼尔赖冠霖不参加wannaone重聚",
+      "onboard_time": 1769522662,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 334676,
       "num": 334676,
       "word": "黄杨钿甜官宣微博之夜",
@@ -627,14 +659,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 304489,
-      "num": 304489,
-      "word": "姜丹尼尔赖冠霖不参加wannaone重聚",
-      "onboard_time": 1769522662,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 303099,
       "num": 224476,
       "word": "迪丽热巴 一个人当然可以拍婚纱照",
@@ -683,6 +707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 284978,
+      "num": 257488,
+      "word": "店主在穿脏退回的衣服掏出100元",
+      "onboard_time": 1769523142,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 283321,
       "num": 283321,
       "word": "会旅游和不会旅游的区别",
@@ -715,14 +747,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 279786,
-      "num": 783099,
-      "word": "湖南省考多地监狱岗位仅招艺术类",
-      "onboard_time": 1769524043,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 279713,
       "num": 279713,
       "word": "2026年房价会涨还是跌",
@@ -739,12 +763,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 277730,
+      "num": 582574,
+      "word": "1克黄金竟能打造一张完整黄金婚书",
+      "onboard_time": 1769524342,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 277100,
       "num": 97110,
       "word": "车银优承认逃税",
       "onboard_time": 1769427921,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 276503,
+      "num": 589675,
+      "word": "鹿晗五哈坐囚车路透",
+      "onboard_time": 1769523862,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 274504,
@@ -761,6 +801,14 @@
       "onboard_time": 1769468957,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 270881,
+      "num": 129414,
+      "word": "白银",
+      "onboard_time": 1769526860,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 267345,
@@ -793,22 +841,6 @@
       "onboard_time": 1769487262,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 257488,
-      "num": 257488,
-      "word": "店主在穿脏退回的衣服掏出100元",
-      "onboard_time": 1769523142,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 255772,
-      "num": 589675,
-      "word": "鹿晗五哈坐囚车路透",
-      "onboard_time": 1769523862,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 252699,
@@ -939,14 +971,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 205246,
-      "num": 582574,
-      "word": "1克黄金竟能打造一张完整黄金婚书",
-      "onboard_time": 1769524342,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 200820,
       "num": 163526,
       "word": "难怪考试不让上厕所",
@@ -1041,14 +1065,6 @@
       "onboard_time": 1769500100,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 168471,
-      "num": 569956,
-      "word": "以色列女子看电视发现自己死在伊朗",
-      "onboard_time": 1769524342,
-      "rank": 39,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 165995,
@@ -1155,20 +1171,20 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 147743,
+      "num": 581672,
+      "word": "王者荣耀",
+      "onboard_time": 1769523621,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 147070,
       "num": 119471,
       "word": "黄金白银大回调",
       "onboard_time": 1769469197,
       "rank": 19,
       "category": "财经"
-    },
-    {
-      "raw_hot": 145498,
-      "num": 145498,
-      "word": "原来TFBOYS以前这么苦",
-      "onboard_time": 1769525422,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 145006,
@@ -1185,14 +1201,6 @@
       "onboard_time": 1769483301,
       "rank": 30,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 143284,
-      "num": 581672,
-      "word": "王者荣耀",
-      "onboard_time": 1769523621,
-      "rank": 8,
-      "category": "电竞"
     },
     {
       "raw_hot": 141688,
@@ -1216,6 +1224,14 @@
       "word": "网红小胖已结婚生子",
       "onboard_time": 1769513062,
       "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 140432,
+      "num": 140432,
+      "word": "男子要求错认16年的假父一家道歉",
+      "onboard_time": 1769526022,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -1467,6 +1483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 119070,
+      "num": 269227,
+      "word": "澳大利亚多地逼近50℃",
+      "onboard_time": 1769527040,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 118814,
       "num": 110616,
       "word": "MBC演唱会取消",
@@ -1489,6 +1513,14 @@
       "onboard_time": 1769469679,
       "rank": 25,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 116958,
+      "num": 116958,
+      "word": "3岁男童小区内遭送货三轮撞倒身亡",
+      "onboard_time": 1769527342,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 116682,
@@ -1640,6 +1672,14 @@
       "word": "2岁萌娃公园玩耍捡70克金项链",
       "onboard_time": 1769519001,
       "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107789,
+      "num": 107789,
+      "word": "孙子患白血病奶奶忍泪谎称肚子疼",
+      "onboard_time": 1769526381,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -1945,6 +1985,14 @@
       "onboard_time": 1769494279,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 96199,
+      "num": 96199,
+      "word": "太平年编剧",
+      "onboard_time": 1769526681,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 95993,
@@ -2307,6 +2355,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 85637,
+      "num": 85637,
+      "word": "降价后的苹果Air和国产Air选哪个",
+      "onboard_time": 1769527161,
+      "rank": 42,
+      "category": "数码"
+    },
+    {
       "raw_hot": 84679,
       "num": 84679,
       "word": "四川绵阳市长李云被查",
@@ -2531,6 +2587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 77632,
+      "num": 77632,
+      "word": "iPhone4S为何突然迎来第二春",
+      "onboard_time": 1769528120,
+      "rank": 47,
+      "category": "数码"
+    },
+    {
       "raw_hot": 77576,
       "num": 77576,
       "word": "TOP xr手机",
@@ -2691,6 +2755,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 70796,
+      "num": 74135,
+      "word": "手办厂遭纵火致多款游戏周边延期",
+      "onboard_time": 1769527581,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 70531,
       "num": 70531,
       "word": "阿里发布旗舰推理模型",
@@ -2785,6 +2857,14 @@
       "onboard_time": 1769489781,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 62548,
+      "num": 96239,
+      "word": "日本一女性在同一家公司上班近70年",
+      "onboard_time": 1769527222,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 62333,
