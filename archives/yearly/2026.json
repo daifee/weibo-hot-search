@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769511346415,
+  "endTime": 1769513448365,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -571,20 +571,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1694750,
+      "num": 1650539,
+      "word": "内娱至今无一人塌房的全女综艺",
+      "onboard_time": 1769508680,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1664569,
       "num": 1128012,
       "word": "国考",
       "onboard_time": 1768288881,
       "rank": 23,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1650539,
-      "num": 1650539,
-      "word": "内娱至今无一人塌房的全女综艺",
-      "onboard_time": 1769508680,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 1643112,
@@ -980,7 +980,7 @@
     },
     {
       "raw_hot": 1258823,
-      "num": 156208,
+      "num": 175720,
       "word": "张雨绮多个商务被取消",
       "onboard_time": 1769505682,
       "rank": 21,
