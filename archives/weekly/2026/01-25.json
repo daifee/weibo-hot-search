@@ -1,6 +1,6 @@
 {
   "startTime": 1769272464158,
-  "endTime": 1769506903950,
+  "endTime": 1769507814363,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -137,6 +137,14 @@
       "onboard_time": 1769503160,
       "rank": 37,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1098334,
+      "num": 156208,
+      "word": "张雨绮多个商务被取消",
+      "onboard_time": 1769505682,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 1084863,
@@ -403,14 +411,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 652124,
-      "num": 156208,
-      "word": "张雨绮多个商务被取消",
-      "onboard_time": 1769505682,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 648993,
       "num": 853713,
       "word": "印度男子倒奶入河避开接奶贫困儿童",
@@ -675,6 +675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 529193,
+      "num": 836570,
+      "word": "1g黄金的区别有多大",
+      "onboard_time": 1769503761,
+      "rank": 31,
+      "category": "科学科普,休闲"
+    },
+    {
       "raw_hot": 527816,
       "num": 259609,
       "word": "向佐为郭碧婷买了个巨型猪公仔",
@@ -859,14 +867,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 468610,
-      "num": 836570,
-      "word": "1g黄金的区别有多大",
-      "onboard_time": 1769503761,
-      "rank": 31,
-      "category": "科学科普,休闲"
-    },
-    {
       "raw_hot": 465228,
       "num": 589722,
       "word": "两个00后刮腻子一年营收100多万",
@@ -921,6 +921,14 @@
       "onboard_time": 1769305222,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 438507,
+      "num": 359223,
+      "word": "香港蔡天凤碎尸案新进展",
+      "onboard_time": 1769503700,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 435162,
@@ -1121,14 +1129,6 @@
       "onboard_time": 1769489301,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 390159,
-      "num": 336310,
-      "word": "香港蔡天凤碎尸案新进展",
-      "onboard_time": 1769503700,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 388493,
@@ -1643,6 +1643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 287427,
+      "num": 287427,
+      "word": "为什么教师行业没有起床气",
+      "onboard_time": 1769503521,
+      "rank": 25,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 287422,
       "num": 287422,
       "word": "网购娃娃菜致夫妻中毒毒源是旧报纸",
@@ -1963,6 +1971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 252699,
+      "num": 252699,
+      "word": "王者荣耀你坏事做尽",
+      "onboard_time": 1769503281,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 251291,
       "num": 251291,
       "word": "王楚钦参加首都院士专家新春联谊会",
@@ -2105,6 +2121,14 @@
       "onboard_time": 1769389279,
       "rank": 13,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 237099,
+      "num": 237099,
+      "word": "idle单曲MV",
+      "onboard_time": 1769505921,
+      "rank": 15,
+      "category": "音乐"
     },
     {
       "raw_hot": 237055,
@@ -2403,6 +2427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202043,
+      "num": 202043,
+      "word": "Jennie最后突然哭不行了",
+      "onboard_time": 1769506701,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 200760,
       "num": 200760,
       "word": "网友刚买iPhoneAir第二天就降价2000元",
@@ -2465,14 +2497,6 @@
       "onboard_time": 1769314459,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 196060,
-      "num": 196060,
-      "word": "idle单曲MV",
-      "onboard_time": 1769505921,
-      "rank": 15,
-      "category": "音乐"
     },
     {
       "raw_hot": 195673,
@@ -2699,14 +2723,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 176440,
-      "num": 176440,
-      "word": "王者荣耀你坏事做尽",
-      "onboard_time": 1769503281,
-      "rank": 47,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 176015,
       "num": 341085,
       "word": "易烊千玺4年前的表情包显化了",
@@ -2849,14 +2865,6 @@
       "onboard_time": 1769409440,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 165255,
-      "num": 191802,
-      "word": "为什么教师行业没有起床气",
-      "onboard_time": 1769503521,
-      "rank": 25,
-      "category": "休闲"
     },
     {
       "raw_hot": 164470,
@@ -3859,14 +3867,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 122991,
-      "num": 93798,
-      "word": "Jennie最后突然哭不行了",
-      "onboard_time": 1769506701,
-      "rank": 31,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 122437,
       "num": 122437,
       "word": "陈飞宇孙千新剧酒窝吻",
@@ -3937,6 +3937,14 @@
       "onboard_time": 1769308879,
       "rank": 21,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 120863,
+      "num": 102383,
+      "word": "杨紫胡歌亮相生命树发布会",
+      "onboard_time": 1769507361,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 120043,
@@ -4227,6 +4235,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 113054,
+      "num": 98904,
+      "word": "内娱喵系女艺人",
+      "onboard_time": 1769504842,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 112775,
       "num": 102595,
       "word": "何小鹏坐飞行汽车降落年会现场",
@@ -4435,6 +4451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 107367,
+      "num": 100663,
+      "word": "国家疾控局回应印度尼帕病毒疫情",
+      "onboard_time": 1769507420,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 107321,
       "num": 190356,
       "word": "IVE回归预告",
@@ -4444,7 +4468,7 @@
     },
     {
       "raw_hot": 107172,
-      "num": 92954,
+      "num": 96589,
       "word": "谢霆锋 九十年代留子",
       "onboard_time": 1769502139,
       "rank": 34,
@@ -4521,6 +4545,14 @@
       "onboard_time": 1769351661,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 106202,
+      "num": 97633,
+      "word": "丁真工作室已缴3.4万税款",
+      "onboard_time": 1769507001,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 106023,
@@ -4907,14 +4939,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 100920,
-      "num": 87290,
-      "word": "内娱喵系女艺人",
-      "onboard_time": 1769504842,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 100863,
       "num": 100863,
       "word": "头一次见炮轰的咖啡",
@@ -5113,6 +5137,14 @@
       "onboard_time": 1769311700,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 97950,
+      "num": 97950,
+      "word": "1岁半宝宝装睡逃避医生检查",
+      "onboard_time": 1769507541,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 97895,
@@ -5619,6 +5651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 92689,
+      "num": 92689,
+      "word": "我们的少年时代2角色",
+      "onboard_time": 1769506341,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 92538,
       "num": 92538,
       "word": "50万亿天量存款将到期",
@@ -5856,6 +5896,14 @@
       "word": "太原国资委情况通报",
       "onboard_time": 1769482880,
       "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 89693,
+      "num": 104852,
+      "word": "15岁男生打人称记错拘留年龄",
+      "onboard_time": 1769503700,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -6211,14 +6259,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 84330,
-      "num": 104852,
-      "word": "15岁男生打人称记错拘留年龄",
-      "onboard_time": 1769503700,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 84323,
       "num": 81330,
       "word": "woojin tory",
@@ -6347,6 +6387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 82718,
+      "num": 82718,
+      "word": "曝iPhoneAir2首发定制超薄FaceID",
+      "onboard_time": 1769506641,
+      "rank": 41,
+      "category": "数码"
+    },
+    {
       "raw_hot": 82604,
       "num": 82604,
       "word": "18岁男生看合影照伤感竟把肺哭破",
@@ -6361,6 +6409,14 @@
       "onboard_time": 1769434761,
       "rank": 36,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 82354,
+      "num": 82354,
+      "word": "张凌赫金色西装",
+      "onboard_time": 1769506761,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 82179,
@@ -6473,6 +6529,14 @@
       "onboard_time": 1769469799,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 81222,
+      "num": 81222,
+      "word": "斯维托丽娜将迎战萨巴伦卡",
+      "onboard_time": 1769507660,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 80966,
@@ -6827,14 +6891,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 76867,
-      "num": 76867,
-      "word": "曝iPhoneAir2首发定制超薄FaceID",
-      "onboard_time": 1769506641,
-      "rank": 41,
-      "category": "数码"
-    },
-    {
       "raw_hot": 76813,
       "num": 875068,
       "word": "我国全超导磁体有重大突破",
@@ -6923,6 +6979,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 75924,
+      "num": 75924,
+      "word": "2026PEL春季赛售票",
+      "onboard_time": 1769507120,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 75843,
       "num": 75843,
       "word": "湖人战胜独行侠",
@@ -6985,6 +7049,14 @@
       "onboard_time": 1769451314,
       "rank": 9,
       "category": "军事"
+    },
+    {
+      "raw_hot": 75186,
+      "num": 75186,
+      "word": "金银铜集体大涨原因",
+      "onboard_time": 1769507120,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 75185,
@@ -7107,6 +7179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 72966,
+      "num": 72966,
+      "word": "人生回报率超高的40件小事",
+      "onboard_time": 1769507301,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 72832,
       "num": 81435,
       "word": "张杰演唱会有常驻观众了",
@@ -7193,14 +7273,6 @@
       "onboard_time": 1769320099,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 71222,
-      "num": 71222,
-      "word": "张凌赫金色西装",
-      "onboard_time": 1769506761,
-      "rank": 47,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 71167,
@@ -8139,14 +8211,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 45913,
-      "num": 77959,
-      "word": "我们的少年时代2角色",
-      "onboard_time": 1769506341,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 44309,
       "num": 629524,
       "word": "2025年国内居民出游人次65.22亿",
@@ -8539,6 +8603,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 33923,
+      "num": 89791,
+      "word": "亲爱的客栈能不能边拍边播",
+      "onboard_time": 1769507541,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 33705,
+      "num": 688628,
+      "word": "2026全国两会",
+      "onboard_time": 1769504121,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 33501,
       "num": 626063,
       "word": "万亿城市再扩容",
@@ -8689,14 +8769,6 @@
       "onboard_time": 1769406022,
       "rank": 19,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 28212,
-      "num": 688628,
-      "word": "2026全国两会",
-      "onboard_time": 1769504121,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 27944,

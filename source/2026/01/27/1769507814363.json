@@ -1,0 +1,410 @@
+{
+  "runTime": 1769507814363,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 984305,
+        "num": 1157488,
+        "word": "微博之夜阵容官宣",
+        "onboard_time": 1769487682,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 529193,
+        "num": 835328,
+        "word": "1g黄金的区别有多大",
+        "onboard_time": 1769503761,
+        "rank": 1,
+        "category": "科学科普,休闲"
+      },
+      {
+        "raw_hot": 33705,
+        "num": 662659,
+        "word": "2026全国两会",
+        "onboard_time": 1769504121,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 546217,
+        "num": 546217,
+        "word": "微博之夜",
+        "onboard_time": 1769487741,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 383613,
+        "num": 383613,
+        "word": "50万亿存款将到期用户寻找存款贵替",
+        "onboard_time": 1769476219,
+        "rank": 4,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 470664,
+        "num": 366969,
+        "word": "导师一直叫我微信名怎么办",
+        "onboard_time": 1769497399,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 438507,
+        "num": 359223,
+        "word": "香港蔡天凤碎尸案新进展",
+        "onboard_time": 1769503700,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 287427,
+        "num": 287427,
+        "word": "为什么教师行业没有起床气",
+        "onboard_time": 1769503521,
+        "rank": 7,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 252699,
+        "num": 252699,
+        "word": "王者荣耀你坏事做尽",
+        "onboard_time": 1769503281,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 239124,
+        "num": 239124,
+        "word": "中国游客巴厘岛患脏水病致喷射性吐",
+        "onboard_time": 1769501480,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 268802,
+        "num": 238608,
+        "word": "入殓师称逝者化妆时偶尔会睁眼",
+        "onboard_time": 1769499321,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 237099,
+        "num": 237099,
+        "word": "idle单曲MV",
+        "onboard_time": 1769505921,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 235689,
+        "num": 235689,
+        "word": "桃黑黑12个小时上了5颗星",
+        "onboard_time": 1769495060,
+        "rank": 12,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 222173,
+        "num": 222173,
+        "word": "50万亿存款",
+        "onboard_time": 1769505502,
+        "rank": 13,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 212172,
+        "num": 212172,
+        "word": "支付宝集福",
+        "onboard_time": 1769483781,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 208871,
+        "num": 208871,
+        "word": "小伙救人按断女子6根肋骨收到谢谢",
+        "onboard_time": 1769494881,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202043,
+        "num": 202043,
+        "word": "Jennie最后突然哭不行了",
+        "onboard_time": 1769506701,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 199298,
+        "num": 199298,
+        "word": "对不起第一次结婚有点好笑",
+        "onboard_time": 1769499441,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158591,
+        "num": 158591,
+        "word": "罗马仕被处罚",
+        "onboard_time": 1769501361,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 287771,
+        "num": 148896,
+        "word": "黄杨钿甜官宣微博之夜",
+        "onboard_time": 1769502201,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1102045,
+        "num": 142728,
+        "word": "曝听泉鉴宝送前女友房子",
+        "onboard_time": 1769503160,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 135737,
+        "num": 135737,
+        "word": "孙颖莎准备出发的仪式感",
+        "onboard_time": 1769505200,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1098334,
+        "num": 129194,
+        "word": "张雨绮多个商务被取消",
+        "onboard_time": 1769505682,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 522849,
+        "num": 125360,
+        "word": "周雨彤工作室道歉",
+        "onboard_time": 1769498000,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111572,
+        "num": 111572,
+        "word": "第五人格",
+        "onboard_time": 1769505021,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 375027,
+        "num": 108795,
+        "word": "贺峻霖 研究生的脑子就是不一样",
+        "onboard_time": 1769501541,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212156,
+        "num": 107529,
+        "word": "霍建华签名 冷脸洗内裤",
+        "onboard_time": 1769500281,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103784,
+        "num": 103784,
+        "word": "李蓓清仓黄金",
+        "onboard_time": 1769493980,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 132327,
+        "num": 102963,
+        "word": "沈梦辰带婆婆追星",
+        "onboard_time": 1769505442,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120863,
+        "num": 102383,
+        "word": "杨紫胡歌亮相生命树发布会",
+        "onboard_time": 1769507361,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107367,
+        "num": 100663,
+        "word": "国家疾控局回应印度尼帕病毒疫情",
+        "onboard_time": 1769507420,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 115999,
+        "num": 100151,
+        "word": "戚薇撞脸金晨",
+        "onboard_time": 1769492720,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113054,
+        "num": 98904,
+        "word": "内娱喵系女艺人",
+        "onboard_time": 1769504842,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97950,
+        "num": 97950,
+        "word": "1岁半宝宝装睡逃避医生检查",
+        "onboard_time": 1769507541,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106202,
+        "num": 97633,
+        "word": "丁真工作室已缴3.4万税款",
+        "onboard_time": 1769507001,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104562,
+        "num": 96589,
+        "word": "谢霆锋 九十年代留子",
+        "onboard_time": 1769502139,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94891,
+        "num": 94891,
+        "word": "印度疫情会失控吗",
+        "onboard_time": 1769499921,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 92689,
+        "num": 92689,
+        "word": "我们的少年时代2角色",
+        "onboard_time": 1769506341,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33923,
+        "num": 89791,
+        "word": "亲爱的客栈能不能边拍边播",
+        "onboard_time": 1769507541,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89693,
+        "num": 89693,
+        "word": "15岁男生打人称记错拘留年龄",
+        "onboard_time": 1769503700,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102363,
+        "num": 87783,
+        "word": "丁真名下工作室欠税3.4万被公告",
+        "onboard_time": 1769485940,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91029,
+        "num": 87566,
+        "word": "杨紫生命树上星多卫视播出",
+        "onboard_time": 1769503402,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82718,
+        "num": 82718,
+        "word": "曝iPhoneAir2首发定制超薄FaceID",
+        "onboard_time": 1769506641,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 82598,
+        "num": 82598,
+        "word": "腾讯2026年会",
+        "onboard_time": 1769504180,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 82354,
+        "num": 82354,
+        "word": "张凌赫金色西装",
+        "onboard_time": 1769506761,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 81222,
+        "num": 81222,
+        "word": "斯维托丽娜将迎战萨巴伦卡",
+        "onboard_time": 1769507660,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75924,
+        "num": 75924,
+        "word": "2026PEL春季赛售票",
+        "onboard_time": 1769507120,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 75898,
+        "num": 75898,
+        "word": "半糖青梅",
+        "onboard_time": 1769492780,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75186,
+        "num": 75186,
+        "word": "金银铜集体大涨原因",
+        "onboard_time": 1769507120,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 72966,
+        "num": 72966,
+        "word": "人生回报率超高的40件小事",
+        "onboard_time": 1769507301,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见芬兰总理奥尔波#"
+    }
+  }
+}

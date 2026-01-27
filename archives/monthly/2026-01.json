@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769506903950,
+  "endTime": 1769507814363,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -1320,6 +1320,14 @@
       "word": "白鹿给闺蜜呵呵买车",
       "onboard_time": 1767711022,
       "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1098334,
+      "num": 156208,
+      "word": "张雨绮多个商务被取消",
+      "onboard_time": 1769505682,
+      "rank": 21,
       "category": "艺人"
     },
     {
@@ -4131,14 +4139,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 652124,
-      "num": 156208,
-      "word": "张雨绮多个商务被取消",
-      "onboard_time": 1769505682,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 652089,
       "num": 202321,
       "word": "angelababy直发烟熏妆造型",
@@ -6475,6 +6475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 529193,
+      "num": 836570,
+      "word": "1g黄金的区别有多大",
+      "onboard_time": 1769503761,
+      "rank": 31,
+      "category": "科学科普,休闲"
+    },
+    {
       "raw_hot": 528286,
       "num": 528286,
       "word": "黄子韬哭了",
@@ -8259,14 +8267,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 468610,
-      "num": 836570,
-      "word": "1g黄金的区别有多大",
-      "onboard_time": 1769503761,
-      "rank": 31,
-      "category": "科学科普,休闲"
-    },
-    {
       "raw_hot": 467932,
       "num": 467932,
       "word": "英雄联盟",
@@ -9249,6 +9249,14 @@
       "onboard_time": 1768308322,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 438507,
+      "num": 359223,
+      "word": "香港蔡天凤碎尸案新进展",
+      "onboard_time": 1769503700,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 438215,
@@ -10961,14 +10969,6 @@
       "onboard_time": 1769489301,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 390159,
-      "num": 336310,
-      "word": "香港蔡天凤碎尸案新进展",
-      "onboard_time": 1769503700,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 389420,
@@ -16243,6 +16243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 287427,
+      "num": 287427,
+      "word": "为什么教师行业没有起床气",
+      "onboard_time": 1769503521,
+      "rank": 25,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 287422,
       "num": 287422,
       "word": "网购娃娃菜致夫妻中毒毒源是旧报纸",
@@ -19003,6 +19011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 252699,
+      "num": 252699,
+      "word": "王者荣耀你坏事做尽",
+      "onboard_time": 1769503281,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 252643,
       "num": 1397167,
       "word": "红包分组",
@@ -20105,6 +20121,14 @@
       "onboard_time": 1768636459,
       "rank": 17,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 237099,
+      "num": 237099,
+      "word": "idle单曲MV",
+      "onboard_time": 1769505921,
+      "rank": 15,
+      "category": "音乐"
     },
     {
       "raw_hot": 237055,
@@ -23931,6 +23955,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 202043,
+      "num": 202043,
+      "word": "Jennie最后突然哭不行了",
+      "onboard_time": 1769506701,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 201924,
       "num": 120033,
       "word": "三只羊复播大小杨哥未现身",
@@ -24857,14 +24889,6 @@
       "onboard_time": 1769180721,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 196060,
-      "num": 196060,
-      "word": "idle单曲MV",
-      "onboard_time": 1769505921,
-      "rank": 15,
-      "category": "音乐"
     },
     {
       "raw_hot": 196039,
@@ -28379,14 +28403,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 176440,
-      "num": 176440,
-      "word": "王者荣耀你坏事做尽",
-      "onboard_time": 1769503281,
-      "rank": 47,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 176437,
       "num": 563129,
       "word": "女子被开房门起诉酒店反遭索赔35万",
@@ -30505,14 +30521,6 @@
       "onboard_time": 1768620980,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 165255,
-      "num": 191802,
-      "word": "为什么教师行业没有起床气",
-      "onboard_time": 1769503521,
-      "rank": 25,
-      "category": "休闲"
     },
     {
       "raw_hot": 165234,
@@ -42571,14 +42579,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 122991,
-      "num": 93798,
-      "word": "Jennie最后突然哭不行了",
-      "onboard_time": 1769506701,
-      "rank": 31,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 122971,
       "num": 122971,
       "word": "经常生闷气会掏空人的气血",
@@ -43585,6 +43585,14 @@
       "onboard_time": 1768037421,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 120863,
+      "num": 102383,
+      "word": "杨紫胡歌亮相生命树发布会",
+      "onboard_time": 1769507361,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 120860,
@@ -47203,6 +47211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 113054,
+      "num": 98904,
+      "word": "内娱喵系女艺人",
+      "onboard_time": 1769504842,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 113021,
       "num": 113021,
       "word": "真正爱你的人是不会心疼运费的",
@@ -49683,6 +49699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 107367,
+      "num": 100663,
+      "word": "国家疾控局回应印度尼帕病毒疫情",
+      "onboard_time": 1769507420,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 107337,
       "num": 107337,
       "word": "白鹿十八宫格",
@@ -49804,7 +49828,7 @@
     },
     {
       "raw_hot": 107172,
-      "num": 92954,
+      "num": 96589,
       "word": "谢霆锋 九十年代留子",
       "onboard_time": 1769502139,
       "rank": 34,
@@ -50409,6 +50433,14 @@
       "onboard_time": 1768195820,
       "rank": 42,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 106202,
+      "num": 97633,
+      "word": "丁真工作室已缴3.4万税款",
+      "onboard_time": 1769507001,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 106169,
@@ -53611,14 +53643,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 100920,
-      "num": 87290,
-      "word": "内娱喵系女艺人",
-      "onboard_time": 1769504842,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 100917,
       "num": 100917,
       "word": "薯片虾滑",
@@ -55657,6 +55681,14 @@
       "onboard_time": 1769311700,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 97950,
+      "num": 97950,
+      "word": "1岁半宝宝装睡逃避医生检查",
+      "onboard_time": 1769507541,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 97944,
@@ -59499,6 +59531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 92689,
+      "num": 92689,
+      "word": "我们的少年时代2角色",
+      "onboard_time": 1769506341,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 92687,
       "num": 92687,
       "word": "玉茗茶骨也没放过何老师",
@@ -61689,6 +61729,14 @@
       "onboard_time": 1768620139,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 89693,
+      "num": 104852,
+      "word": "15岁男生打人称记错拘留年龄",
+      "onboard_time": 1769503700,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89671,
@@ -65715,14 +65763,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 84330,
-      "num": 104852,
-      "word": "15岁男生打人称记错拘留年龄",
-      "onboard_time": 1769503700,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 84327,
       "num": 84327,
       "word": "中方回应特朗普成立和平委员会",
@@ -66667,6 +66707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 82718,
+      "num": 82718,
+      "word": "曝iPhoneAir2首发定制超薄FaceID",
+      "onboard_time": 1769506641,
+      "rank": 41,
+      "category": "数码"
+    },
+    {
       "raw_hot": 82713,
       "num": 94334,
       "word": "香港发生外籍女佣虐婴案",
@@ -66945,6 +66993,14 @@
       "onboard_time": 1768625359,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 82354,
+      "num": 82354,
+      "word": "张凌赫金色西装",
+      "onboard_time": 1769506761,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 82335,
@@ -67697,6 +67753,14 @@
       "onboard_time": 1768631961,
       "rank": 47,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 81222,
+      "num": 81222,
+      "word": "斯维托丽娜将迎战萨巴伦卡",
+      "onboard_time": 1769507660,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 81219,
@@ -70331,14 +70395,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 76867,
-      "num": 76867,
-      "word": "曝iPhoneAir2首发定制超薄FaceID",
-      "onboard_time": 1769506641,
-      "rank": 41,
-      "category": "数码"
-    },
-    {
       "raw_hot": 76863,
       "num": 147574,
       "word": "男子带女朋友跨年送帕拉梅拉",
@@ -70835,6 +70891,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 75924,
+      "num": 75924,
+      "word": "2026PEL春季赛售票",
+      "onboard_time": 1769507120,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 75843,
       "num": 75843,
       "word": "湖人战胜独行侠",
@@ -71233,6 +71297,14 @@
       "onboard_time": 1769003425,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 75186,
+      "num": 75186,
+      "word": "金银铜集体大涨原因",
+      "onboard_time": 1769507120,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 75185,
@@ -72211,6 +72283,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 72966,
+      "num": 72966,
+      "word": "人生回报率超高的40件小事",
+      "onboard_time": 1769507301,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 72952,
       "num": 76351,
       "word": "裴轸爱到最后身后空无一物",
@@ -72897,14 +72977,6 @@
       "onboard_time": 1769320099,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 71222,
-      "num": 71222,
-      "word": "张凌赫金色西装",
-      "onboard_time": 1769506761,
-      "rank": 47,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 71167,
@@ -80363,14 +80435,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 45913,
-      "num": 77959,
-      "word": "我们的少年时代2角色",
-      "onboard_time": 1769506341,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 45873,
       "num": 100490,
       "word": "哭哭马走红老板速开十多条生产线",
@@ -83587,6 +83651,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 33923,
+      "num": 89791,
+      "word": "亲爱的客栈能不能边拍边播",
+      "onboard_time": 1769507541,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 33886,
       "num": 78950,
       "word": "喻言缪斯女王超级演唱会",
@@ -83665,6 +83737,14 @@
       "onboard_time": 1767590061,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 33705,
+      "num": 688628,
+      "word": "2026全国两会",
+      "onboard_time": 1769504121,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 33700,
@@ -85185,14 +85265,6 @@
       "onboard_time": 1767609861,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 28212,
-      "num": 688628,
-      "word": "2026全国两会",
-      "onboard_time": 1769504121,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 28178,

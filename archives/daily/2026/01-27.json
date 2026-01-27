@@ -1,6 +1,6 @@
 {
   "startTime": 1769445836222,
-  "endTime": 1769506903950,
+  "endTime": 1769507814363,
   "band_list": [
     {
       "raw_hot": 3419891,
@@ -33,6 +33,14 @@
       "onboard_time": 1769503160,
       "rank": 37,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1098334,
+      "num": 156208,
+      "word": "张雨绮多个商务被取消",
+      "onboard_time": 1769505682,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 1027219,
@@ -107,14 +115,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 652124,
-      "num": 156208,
-      "word": "张雨绮多个商务被取消",
-      "onboard_time": 1769505682,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 644301,
       "num": 1103088,
       "word": "世卫称尼帕病毒或引发全球大流行",
@@ -185,6 +185,14 @@
       "onboard_time": 1769500281,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 529193,
+      "num": 836570,
+      "word": "1g黄金的区别有多大",
+      "onboard_time": 1769503761,
+      "rank": 31,
+      "category": "科学科普,休闲"
     },
     {
       "raw_hot": 527816,
@@ -259,20 +267,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 468610,
-      "num": 836570,
-      "word": "1g黄金的区别有多大",
-      "onboard_time": 1769503761,
-      "rank": 31,
-      "category": "科学科普,休闲"
-    },
-    {
       "raw_hot": 460392,
       "num": 391761,
       "word": "高市早苗破防了",
       "onboard_time": 1769493199,
       "rank": 20,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 438507,
+      "num": 359223,
+      "word": "香港蔡天凤碎尸案新进展",
+      "onboard_time": 1769503700,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 430052,
@@ -313,14 +321,6 @@
       "onboard_time": 1769489301,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 390159,
-      "num": 336310,
-      "word": "香港蔡天凤碎尸案新进展",
-      "onboard_time": 1769503700,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 388493,
@@ -483,6 +483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 287427,
+      "num": 287427,
+      "word": "为什么教师行业没有起床气",
+      "onboard_time": 1769503521,
+      "rank": 25,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 283321,
       "num": 283321,
       "word": "会旅游和不会旅游的区别",
@@ -563,6 +571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 252699,
+      "num": 252699,
+      "word": "王者荣耀你坏事做尽",
+      "onboard_time": 1769503281,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 245060,
       "num": 245060,
       "word": "云初令",
@@ -593,6 +609,14 @@
       "onboard_time": 1769488342,
       "rank": 30,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 237099,
+      "num": 237099,
+      "word": "idle单曲MV",
+      "onboard_time": 1769505921,
+      "rank": 15,
+      "category": "音乐"
     },
     {
       "raw_hot": 234155,
@@ -651,20 +675,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202043,
+      "num": 202043,
+      "word": "Jennie最后突然哭不行了",
+      "onboard_time": 1769506701,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 197230,
       "num": 197230,
       "word": "日本最后2只大熊猫今天回国",
       "onboard_time": 1769475021,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 196060,
-      "num": 196060,
-      "word": "idle单曲MV",
-      "onboard_time": 1769505921,
-      "rank": 15,
-      "category": "音乐"
     },
     {
       "raw_hot": 193968,
@@ -723,14 +747,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 176440,
-      "num": 176440,
-      "word": "王者荣耀你坏事做尽",
-      "onboard_time": 1769503281,
-      "rank": 47,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 171617,
       "num": 137453,
       "word": "曝朱志鑫左航要上北电国际班",
@@ -745,14 +761,6 @@
       "onboard_time": 1769469197,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 165255,
-      "num": 191802,
-      "word": "为什么教师行业没有起床气",
-      "onboard_time": 1769503521,
-      "rank": 25,
-      "category": "休闲"
     },
     {
       "raw_hot": 158611,
@@ -979,14 +987,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 122991,
-      "num": 93798,
-      "word": "Jennie最后突然哭不行了",
-      "onboard_time": 1769506701,
-      "rank": 31,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 122309,
       "num": 244389,
       "word": "杨紫生命树微表情演技",
@@ -1017,6 +1017,14 @@
       "onboard_time": 1769487442,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120863,
+      "num": 102383,
+      "word": "杨紫胡歌亮相生命树发布会",
+      "onboard_time": 1769507361,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 119943,
@@ -1131,6 +1139,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 113054,
+      "num": 98904,
+      "word": "内娱喵系女艺人",
+      "onboard_time": 1769504842,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 112775,
       "num": 102595,
       "word": "何小鹏坐飞行汽车降落年会现场",
@@ -1187,8 +1203,16 @@
       "category": "数码"
     },
     {
+      "raw_hot": 107367,
+      "num": 100663,
+      "word": "国家疾控局回应印度尼帕病毒疫情",
+      "onboard_time": 1769507420,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 107172,
-      "num": 92954,
+      "num": 96589,
       "word": "谢霆锋 九十年代留子",
       "onboard_time": 1769502139,
       "rank": 34,
@@ -1201,6 +1225,14 @@
       "onboard_time": 1769480241,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 106202,
+      "num": 97633,
+      "word": "丁真工作室已缴3.4万税款",
+      "onboard_time": 1769507001,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 105419,
@@ -1307,14 +1339,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 100920,
-      "num": 87290,
-      "word": "内娱喵系女艺人",
-      "onboard_time": 1769504842,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 100863,
       "num": 100863,
       "word": "头一次见炮轰的咖啡",
@@ -1377,6 +1401,14 @@
       "onboard_time": 1769497760,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 97950,
+      "num": 97950,
+      "word": "1岁半宝宝装睡逃避医生检查",
+      "onboard_time": 1769507541,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 97610,
@@ -1507,6 +1539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 92689,
+      "num": 92689,
+      "word": "我们的少年时代2角色",
+      "onboard_time": 1769506341,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 92538,
       "num": 92538,
       "word": "50万亿天量存款将到期",
@@ -1568,6 +1608,14 @@
       "word": "太原国资委情况通报",
       "onboard_time": 1769482880,
       "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 89693,
+      "num": 104852,
+      "word": "15岁男生打人称记错拘留年龄",
+      "onboard_time": 1769503700,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -1651,14 +1699,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 84330,
-      "num": 104852,
-      "word": "15岁男生打人称记错拘留年龄",
-      "onboard_time": 1769503700,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 84259,
       "num": 84259,
       "word": "张艺谋夸易烊千玺演技进步",
@@ -1691,6 +1731,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 82718,
+      "num": 82718,
+      "word": "曝iPhoneAir2首发定制超薄FaceID",
+      "onboard_time": 1769506641,
+      "rank": 41,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 82354,
+      "num": 82354,
+      "word": "张凌赫金色西装",
+      "onboard_time": 1769506761,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 81715,
       "num": 80195,
       "word": "井迪辟谣普拉提能瘦身",
@@ -1705,6 +1761,14 @@
       "onboard_time": 1769469799,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 81222,
+      "num": 81222,
+      "word": "斯维托丽娜将迎战萨巴伦卡",
+      "onboard_time": 1769507660,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 80408,
@@ -1787,14 +1851,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 76867,
-      "num": 76867,
-      "word": "曝iPhoneAir2首发定制超薄FaceID",
-      "onboard_time": 1769506641,
-      "rank": 41,
-      "category": "数码"
-    },
-    {
       "raw_hot": 76813,
       "num": 875068,
       "word": "我国全超导磁体有重大突破",
@@ -1811,12 +1867,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 75924,
+      "num": 75924,
+      "word": "2026PEL春季赛售票",
+      "onboard_time": 1769507120,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 75494,
       "num": 75494,
       "word": "美军航母进入印度洋",
       "onboard_time": 1769451314,
       "rank": 9,
       "category": "军事"
+    },
+    {
+      "raw_hot": 75186,
+      "num": 75186,
+      "word": "金银铜集体大涨原因",
+      "onboard_time": 1769507120,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 75098,
@@ -1843,12 +1915,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 71222,
-      "num": 71222,
-      "word": "张凌赫金色西装",
-      "onboard_time": 1769506761,
-      "rank": 47,
-      "category": "作品衍生"
+      "raw_hot": 72966,
+      "num": 72966,
+      "word": "人生回报率超高的40件小事",
+      "onboard_time": 1769507301,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 71126,
@@ -2155,14 +2227,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 45913,
-      "num": 77959,
-      "word": "我们的少年时代2角色",
-      "onboard_time": 1769506341,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 45744,
       "num": 66480,
       "word": "周也 内娱免检大光明",
@@ -2307,6 +2371,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 33923,
+      "num": 89791,
+      "word": "亲爱的客栈能不能边拍边播",
+      "onboard_time": 1769507541,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 33705,
+      "num": 688628,
+      "word": "2026全国两会",
+      "onboard_time": 1769504121,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 33145,
       "num": 229671,
       "word": "刘宇宁京东新衣",
@@ -2353,14 +2433,6 @@
       "onboard_time": 1769486781,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 28212,
-      "num": 688628,
-      "word": "2026全国两会",
-      "onboard_time": 1769504121,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 27033,
