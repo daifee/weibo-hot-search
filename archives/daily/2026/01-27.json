@@ -1,6 +1,6 @@
 {
   "startTime": 1769445836222,
-  "endTime": 1769528324429,
+  "endTime": 1769529181759,
   "band_list": [
     {
       "raw_hot": 3419891,
@@ -187,6 +187,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 574684,
+      "num": 267219,
+      "word": "原来TFBOYS以前这么苦",
+      "onboard_time": 1769525422,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 571055,
       "num": 571055,
       "word": "娱乐圈四大不倒人设",
@@ -259,6 +267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 521028,
+      "num": 141750,
+      "word": "白银",
+      "onboard_time": 1769526860,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 519501,
       "num": 241854,
       "word": "贺峻霖 研究生的脑子就是不一样",
@@ -321,14 +337,6 @@
       "onboard_time": 1769477961,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 481051,
-      "num": 267219,
-      "word": "原来TFBOYS以前这么苦",
-      "onboard_time": 1769525422,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 480571,
@@ -420,7 +428,7 @@
     },
     {
       "raw_hot": 410164,
-      "num": 784586,
+      "num": 791412,
       "word": "我们的少年时代2",
       "onboard_time": 1769517800,
       "rank": 34,
@@ -803,14 +811,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 270881,
-      "num": 129414,
-      "word": "白银",
-      "onboard_time": 1769526860,
-      "rank": 24,
-      "category": "财经"
-    },
-    {
       "raw_hot": 267345,
       "num": 267345,
       "word": "印度疫情会失控吗",
@@ -1131,6 +1131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 150616,
+      "num": 150616,
+      "word": "日本一女性在同一家公司上班近70年",
+      "onboard_time": 1769527222,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 150137,
       "num": 87013,
       "word": "美国发现围堵中国的网开始漏风",
@@ -1228,7 +1236,7 @@
     },
     {
       "raw_hot": 140432,
-      "num": 140432,
+      "num": 144313,
       "word": "男子要求错认16年的假父一家道歉",
       "onboard_time": 1769526022,
       "rank": 19,
@@ -1275,6 +1283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 132902,
+      "num": 132902,
+      "word": "3岁男童小区内遭送货三轮撞倒身亡",
+      "onboard_time": 1769527342,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132363,
       "num": 132363,
       "word": "婴儿期记忆能不消失吗",
@@ -1289,6 +1305,14 @@
       "onboard_time": 1769511141,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 129531,
+      "num": 269227,
+      "word": "澳大利亚多地逼近50℃",
+      "onboard_time": 1769527040,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 129293,
@@ -1483,14 +1507,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 119070,
-      "num": 269227,
-      "word": "澳大利亚多地逼近50℃",
-      "onboard_time": 1769527040,
-      "rank": 9,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 118814,
       "num": 110616,
       "word": "MBC演唱会取消",
@@ -1513,14 +1529,6 @@
       "onboard_time": 1769469679,
       "rank": 25,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 116958,
-      "num": 116958,
-      "word": "3岁男童小区内遭送货三轮撞倒身亡",
-      "onboard_time": 1769527342,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 116682,
@@ -1835,6 +1843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 101882,
+      "num": 96199,
+      "word": "太平年编剧",
+      "onboard_time": 1769526681,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 101808,
       "num": 145193,
       "word": "滞留北海道游客花3000元才拼到车",
@@ -1985,14 +2001,6 @@
       "onboard_time": 1769494279,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 96199,
-      "num": 96199,
-      "word": "太平年编剧",
-      "onboard_time": 1769526681,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 95993,
@@ -2547,6 +2555,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 79373,
+      "num": 79373,
+      "word": "iPhone4S为何突然迎来第二春",
+      "onboard_time": 1769528120,
+      "rank": 47,
+      "category": "数码"
+    },
+    {
       "raw_hot": 79254,
       "num": 79254,
       "word": "90万个iCloud账户数据遭泄露",
@@ -2585,14 +2601,6 @@
       "onboard_time": 1769490082,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 77632,
-      "num": 77632,
-      "word": "iPhone4S为何突然迎来第二春",
-      "onboard_time": 1769528120,
-      "rank": 47,
-      "category": "数码"
     },
     {
       "raw_hot": 77576,
@@ -2657,6 +2665,14 @@
       "onboard_time": 1769507120,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 75827,
+      "num": 75827,
+      "word": "女子买100克黄金轮胎手镯赚4万多",
+      "onboard_time": 1769528721,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 75804,
@@ -2859,14 +2875,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 62548,
-      "num": 96239,
-      "word": "日本一女性在同一家公司上班近70年",
-      "onboard_time": 1769527222,
-      "rank": 39,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 62333,
       "num": 74713,
       "word": "投资铜条走红",
@@ -2880,6 +2888,14 @@
       "word": "罗马仕充电宝被处罚",
       "onboard_time": 1769503281,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 60646,
+      "num": 79038,
+      "word": "团播不得浓妆艳抹过度磨皮美颜",
+      "onboard_time": 1769529081,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -2963,6 +2979,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 56943,
+      "num": 75648,
+      "word": "中微半导发布涨价通知函",
+      "onboard_time": 1769525363,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 55982,
       "num": 66586,
       "word": "花儿与少年8",
@@ -3009,6 +3033,14 @@
       "onboard_time": 1769483841,
       "rank": 16,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 52029,
+      "num": 78875,
+      "word": "男子自学组装锂电引发爆燃烧死室友",
+      "onboard_time": 1769528419,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 51809,
