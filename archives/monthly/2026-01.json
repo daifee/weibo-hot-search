@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769531989527,
+  "endTime": 1769533106531,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -3257,6 +3257,14 @@
       "onboard_time": 1767355581,
       "rank": 12,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 739079,
+      "num": 80835,
+      "word": "多品牌紧急删除张雨绮相关代言内容",
+      "onboard_time": 1769530280,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 738940,
@@ -13937,14 +13945,6 @@
       "onboard_time": 1768560023,
       "rank": 9,
       "category": "休闲"
-    },
-    {
-      "raw_hot": 328316,
-      "num": 80835,
-      "word": "多品牌紧急删除张雨绮相关代言内容",
-      "onboard_time": 1769530280,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 328307,
@@ -54371,6 +54371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 100650,
+      "num": 73189,
+      "word": "运毒车逃逸时坠河470万颗冰毒落水",
+      "onboard_time": 1769531599,
+      "rank": 33,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 100640,
       "num": 100640,
       "word": "韩国一公交车撞向大楼致13人受伤",
@@ -59129,6 +59137,14 @@
       "onboard_time": 1769403863,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 93976,
+      "num": 93976,
+      "word": "iPhone4S为何突然迎来第二春",
+      "onboard_time": 1769528120,
+      "rank": 47,
+      "category": "数码"
     },
     {
       "raw_hot": 93957,
@@ -64475,6 +64491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 86707,
+      "num": 100632,
+      "word": "团播不得浓妆艳抹过度磨皮美颜",
+      "onboard_time": 1769529081,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86691,
       "num": 86691,
       "word": "原神少女角色预告",
@@ -68123,14 +68147,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 81710,
-      "num": 81710,
-      "word": "iPhone4S为何突然迎来第二春",
-      "onboard_time": 1769528120,
-      "rank": 47,
-      "category": "数码"
-    },
-    {
       "raw_hot": 81706,
       "num": 81706,
       "word": "王一博深情歌唱无名",
@@ -69409,14 +69425,6 @@
       "onboard_time": 1768640420,
       "rank": 29,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 79849,
-      "num": 73189,
-      "word": "运毒车逃逸时坠河470万颗冰毒落水",
-      "onboard_time": 1769531599,
-      "rank": 33,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 79847,
@@ -70937,14 +70945,6 @@
       "onboard_time": 1767941841,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 77246,
-      "num": 79038,
-      "word": "团播不得浓妆艳抹过度磨皮美颜",
-      "onboard_time": 1769529081,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 77244,

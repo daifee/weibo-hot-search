@@ -1,7 +1,15 @@
 {
   "startTime": 1769531989527,
-  "endTime": 1769531989527,
+  "endTime": 1769533106531,
   "band_list": [
+    {
+      "raw_hot": 739079,
+      "num": 80835,
+      "word": "多品牌紧急删除张雨绮相关代言内容",
+      "onboard_time": 1769530280,
+      "rank": 21,
+      "category": "艺人"
+    },
     {
       "raw_hot": 606535,
       "num": 81502,
@@ -24,14 +32,6 @@
       "word": "原来TFBOYS以前这么苦",
       "onboard_time": 1769525422,
       "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 328316,
-      "num": 80835,
-      "word": "多品牌紧急删除张雨绮相关代言内容",
-      "onboard_time": 1769530280,
-      "rank": 21,
       "category": "艺人"
     },
     {
@@ -203,6 +203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 100650,
+      "num": 73189,
+      "word": "运毒车逃逸时坠河470万颗冰毒落水",
+      "onboard_time": 1769531599,
+      "rank": 33,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 100318,
       "num": 74027,
       "word": "孕妇吃了一块冷藏蛋糕导致胎儿早产",
@@ -219,6 +227,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 93976,
+      "num": 93976,
+      "word": "iPhone4S为何突然迎来第二春",
+      "onboard_time": 1769528120,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 86707,
+      "num": 100632,
+      "word": "团播不得浓妆艳抹过度磨皮美颜",
+      "onboard_time": 1769529081,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84899,
       "num": 132251,
       "word": "王者荣耀",
@@ -233,30 +257,6 @@
       "onboard_time": 1769522542,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 81710,
-      "num": 81710,
-      "word": "iPhone4S为何突然迎来第二春",
-      "onboard_time": 1769528120,
-      "rank": 19,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 79849,
-      "num": 73189,
-      "word": "运毒车逃逸时坠河470万颗冰毒落水",
-      "onboard_time": 1769531599,
-      "rank": 33,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 77246,
-      "num": 77246,
-      "word": "团播不得浓妆艳抹过度磨皮美颜",
-      "onboard_time": 1769529081,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 72849,
@@ -339,6 +339,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 51497,
+      "num": 51497,
+      "word": "桃黑黑打王者",
+      "onboard_time": 1769520260,
+      "rank": 48,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 49546,
       "num": 49546,
       "word": "哈哈哈哈哈6",
@@ -371,12 +379,36 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 43120,
-      "num": 43120,
-      "word": "桃黑黑打王者",
-      "onboard_time": 1769520260,
+      "raw_hot": 43644,
+      "num": 43644,
+      "word": "难怪考试不让上厕所",
+      "onboard_time": 1769516061,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 31178,
+      "num": 43620,
+      "word": "多地对国企近亲繁殖出手了",
+      "onboard_time": 1769510421,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29325,
+      "num": 43609,
+      "word": "手办厂遭纵火致多款游戏周边延期",
+      "onboard_time": 1769527581,
       "rank": 48,
-      "category": "游戏,网红"
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27524,
+      "num": 43602,
+      "word": "Dior的鲜花一直盛开",
+      "onboard_time": 1769517140,
+      "rank": 49,
+      "category": "时尚"
     },
     {
       "raw_hot": 24489,

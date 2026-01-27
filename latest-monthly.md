@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/28 00:39:49
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/28 00:58:26
 </p>
 </blockquote>
 <p>
@@ -2453,6 +2453,12 @@ U23国足进球被吹（热度：748716）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A2%93%E5%A2%A8%E6%84%9F%E8%B0%A2%E6%9C%B1%E5%A4%A9%E5%A4%A9%23" target="weibo">
 梓墨感谢朱天天（热度：740663）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%93%81%E7%89%8C%E7%B4%A7%E6%80%A5%E5%88%A0%E9%99%A4%E5%BC%A0%E9%9B%A8%E7%BB%AE%E7%9B%B8%E5%85%B3%E4%BB%A3%E8%A8%80%E5%86%85%E5%AE%B9%23" target="weibo">
+多品牌紧急删除张雨绮相关代言内容（热度：739079）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ B站崩了（热度：480074）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AA%84%E9%98%B3%E4%BC%BC%E6%88%91%E8%BF%9E%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%E9%83%BD%E5%B0%8A%E9%87%8D%E8%A7%82%E4%BC%97%23" target="weibo">
 骄阳似我连聊天记录都尊重观众（热度：479487）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E8%BE%9F%E8%B0%A3%E7%97%94%E7%96%AE%E8%86%8F%E8%83%BD%E5%8E%BB%E9%99%A4%E9%BB%91%E7%9C%BC%E5%9C%88%23" target="weibo">
-金晨辟谣痔疮膏能去除黑眼圈（热度：479395）
 </a>
 </li>
 
