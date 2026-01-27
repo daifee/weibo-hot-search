@@ -1,6 +1,6 @@
 {
   "startTime": 1769445836222,
-  "endTime": 1769490315327,
+  "endTime": 1769492143188,
   "band_list": [
     {
       "raw_hot": 3419891,
@@ -27,20 +27,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 790100,
+      "num": 723964,
+      "word": "山西失踪女硕士毕业论文",
+      "onboard_time": 1769487620,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 750844,
       "num": 268808,
       "word": "刘亦菲 祖玛珑",
       "onboard_time": 1769481081,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 723964,
-      "num": 723964,
-      "word": "山西失踪女硕士毕业论文",
-      "onboard_time": 1769487620,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 657477,
@@ -211,6 +211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 333459,
+      "num": 221981,
+      "word": "周也王玉雯 从胸口聊到巴黎",
+      "onboard_time": 1769489301,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 333219,
       "num": 333219,
       "word": "银行打响存款争夺战",
@@ -275,6 +283,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 290516,
+      "num": 290516,
+      "word": "日本警方逮捕一名三刀流男子",
+      "onboard_time": 1769487561,
+      "rank": 49,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 290498,
+      "num": 290498,
+      "word": "杨紫这段完播率1000%",
+      "onboard_time": 1769488642,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 282390,
       "num": 121749,
       "word": "刘宇宁说不去录花少",
@@ -323,12 +347,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 266425,
-      "num": 221981,
-      "word": "周也王玉雯 从胸口聊到巴黎",
-      "onboard_time": 1769489301,
-      "rank": 15,
-      "category": "艺人"
+      "raw_hot": 273407,
+      "num": 184596,
+      "word": "什么工作下班不会再找你",
+      "onboard_time": 1769486781,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 264527,
@@ -363,6 +387,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 240977,
+      "num": 221158,
+      "word": "外网AI视频假如中国替代了美国",
+      "onboard_time": 1769488342,
+      "rank": 30,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 234155,
       "num": 117586,
       "word": "何健麒尿检",
@@ -371,28 +403,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 226817,
-      "num": 221735,
-      "word": "杨紫这段完播率1000%",
-      "onboard_time": 1769488642,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 222723,
       "num": 222723,
       "word": "邵氏兄弟拟收购正午阳光等资产",
       "onboard_time": 1769464994,
       "rank": 17,
       "category": "财经,作品衍生"
-    },
-    {
-      "raw_hot": 221158,
-      "num": 221158,
-      "word": "外网AI视频假如中国替代了美国",
-      "onboard_time": 1769488342,
-      "rank": 30,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 212386,
@@ -435,27 +451,19 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 173501,
+      "num": 173501,
+      "word": "时代峰峻最著名的一滴泪",
+      "onboard_time": 1769488582,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 165995,
       "num": 71163,
       "word": "田栩宁把梓渝粉丝告了",
       "onboard_time": 1769469197,
       "rank": 32,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 160487,
-      "num": 160487,
-      "word": "什么工作下班不会再找你",
-      "onboard_time": 1769486781,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 159606,
-      "num": 159606,
-      "word": "时代峰峻最著名的一滴泪",
-      "onboard_time": 1769488582,
-      "rank": 25,
       "category": "艺人"
     },
     {
@@ -523,6 +531,30 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 143156,
+      "num": 126838,
+      "word": "周雨彤回复了章若楠粉丝",
+      "onboard_time": 1769491701,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 137642,
+      "num": 137642,
+      "word": "会旅游和不会旅游的区别",
+      "onboard_time": 1769491581,
+      "rank": 17,
+      "category": "幽默,旅游"
+    },
+    {
+      "raw_hot": 137228,
+      "num": 114855,
+      "word": "美国美食节目称用人肉做香肠",
+      "onboard_time": 1769491042,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 134422,
       "num": 89257,
       "word": "金价飙升原因找到了",
@@ -555,6 +587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 125113,
+      "num": 125113,
+      "word": "姚冠宇新短剧三榜冠军",
+      "onboard_time": 1769490979,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 123435,
       "num": 123435,
       "word": "成年人的睡眠有2个底线",
@@ -577,6 +617,14 @@
       "onboard_time": 1769486481,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 121528,
+      "num": 121528,
+      "word": "尹子维教孩子说英语面相都变了",
+      "onboard_time": 1769490202,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 121220,
@@ -643,6 +691,14 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 115300,
+      "num": 115300,
+      "word": "你是詹青云那她是谁",
+      "onboard_time": 1769490741,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 114789,
       "num": 114789,
       "word": "成毅旧片重映被指硬蹭流量",
@@ -651,12 +707,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 113848,
-      "num": 113848,
-      "word": "日本警方逮捕一名三刀流男子",
-      "onboard_time": 1769487561,
-      "rank": 49,
-      "category": "海外新闻"
+      "raw_hot": 113670,
+      "num": 113670,
+      "word": "怎么会有cp刚结束二搭就想着三搭",
+      "onboard_time": 1769490741,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 113429,
@@ -689,6 +745,14 @@
       "onboard_time": 1769433262,
       "rank": 21,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 109030,
+      "num": 123220,
+      "word": "婚恋是人生的终极课题吗",
+      "onboard_time": 1769490979,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 106714,
@@ -803,6 +867,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 96418,
+      "num": 96418,
+      "word": "iPhone5S更新系统",
+      "onboard_time": 1769489961,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
       "raw_hot": 95973,
       "num": 95973,
       "word": "檀健次就是这么官宣我的吗",
@@ -827,6 +899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 94907,
+      "num": 94907,
+      "word": "摸凹猫 摸凸猫",
+      "onboard_time": 1769491342,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 94528,
       "num": 98630,
       "word": "炽热吸引",
@@ -843,12 +923,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 93715,
-      "num": 93715,
-      "word": "尹子维教孩子说英语面相都变了",
-      "onboard_time": 1769490202,
-      "rank": 47,
-      "category": "艺人"
+      "raw_hot": 93787,
+      "num": 93787,
+      "word": "东契奇夯爆了",
+      "onboard_time": 1769488642,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 93541,
@@ -883,14 +963,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 90887,
-      "num": 90887,
-      "word": "iPhone5S更新系统",
-      "onboard_time": 1769489961,
-      "rank": 49,
-      "category": "数码"
-    },
-    {
       "raw_hot": 90705,
       "num": 90705,
       "word": "人不能太闲的含金量",
@@ -921,6 +993,14 @@
       "onboard_time": 1769481440,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 88106,
+      "num": 88106,
+      "word": "女性睡眠不足危害更大",
+      "onboard_time": 1769489841,
+      "rank": 42,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 88034,
@@ -1009,6 +1089,14 @@
       "onboard_time": 1769429183,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 79254,
+      "num": 79254,
+      "word": "90万个iCloud账户数据遭泄露",
+      "onboard_time": 1769491219,
+      "rank": 47,
+      "category": "数码,民生新闻"
     },
     {
       "raw_hot": 78581,
@@ -1315,6 +1403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 39453,
+      "num": 134958,
+      "word": "男子电诈园区跳楼逃生险被活埋",
+      "onboard_time": 1769491281,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39179,
       "num": 251793,
       "word": "马年春联已进入AI时代",
@@ -1491,6 +1587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 21099,
+      "num": 875068,
+      "word": "我国全超导磁体有重大突破",
+      "onboard_time": 1769491701,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 21040,
       "num": 38767,
       "word": "好利来事发门店回应掉地面包捡起售卖",
@@ -1513,6 +1617,14 @@
       "onboard_time": 1769450057,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 16996,
+      "num": 80187,
+      "word": "全国滑雪场实现开门红",
+      "onboard_time": 1769491519,
+      "rank": 45,
+      "category": "国内时政"
     },
     {
       "raw_hot": 15526,
@@ -1571,6 +1683,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 11310,
+      "num": 93343,
+      "word": "美财长用愚蠢一词羞辱欧洲",
+      "onboard_time": 1769491159,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 11059,
       "num": 22005,
       "word": "刘宇宁化身心愿办事员",
@@ -1582,6 +1702,9 @@
   "hotgov_list": [
     {
       "word": "#习近平同苏林通电话#"
+    },
+    {
+      "word": "#中越应当坚持道不变志不改#"
     }
   ]
 }
