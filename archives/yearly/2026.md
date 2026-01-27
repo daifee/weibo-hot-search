@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/27 12:32:56
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/27 13:05:15
 </p>
 </blockquote>
 <p>
@@ -149,6 +149,12 @@ WB冠军（热度：3566119）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%89%8D%E5%A5%B3%E5%8F%8B%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5%E4%BD%95%E5%81%A5%E9%BA%92%E6%B6%89%E6%AF%92%23" target="weibo">
 前女友实名举报何健麒涉毒（热度：3441714）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%E9%98%B5%E5%AE%B9%E5%AE%98%E5%AE%A3%23" target="weibo">
+微博之夜阵容官宣（热度：3419891）
 </a>
 </li>
 
@@ -1403,12 +1409,6 @@ U23国足0比4日本队（热度：955627）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E8%92%99%E5%8F%A4%E5%8C%85%E5%A4%B4%E4%B8%80%E5%8E%82%E5%8C%BA%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8%23" target="weibo">
 内蒙古包头一厂区发生爆炸（热度：954519）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%E9%98%B5%E5%AE%B9%E5%AE%98%E5%AE%A3%23" target="weibo">
-微博之夜阵容官宣（热度：948999）
 </a>
 </li>
 

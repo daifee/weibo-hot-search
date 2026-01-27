@@ -1,7 +1,15 @@
 {
   "startTime": 1769445836222,
-  "endTime": 1769488376622,
+  "endTime": 1769490315327,
   "band_list": [
+    {
+      "raw_hot": 3419891,
+      "num": 3419891,
+      "word": "微博之夜阵容官宣",
+      "onboard_time": 1769487682,
+      "rank": 10,
+      "category": "作品衍生"
+    },
     {
       "raw_hot": 1151892,
       "num": 1184302,
@@ -19,20 +27,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 948999,
-      "num": 235228,
-      "word": "微博之夜阵容官宣",
-      "onboard_time": 1769487682,
-      "rank": 10,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 750844,
       "num": 268808,
       "word": "刘亦菲 祖玛珑",
       "onboard_time": 1769481081,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 723964,
+      "num": 723964,
+      "word": "山西失踪女硕士毕业论文",
+      "onboard_time": 1769487620,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 657477,
@@ -68,7 +76,7 @@
     },
     {
       "raw_hot": 601628,
-      "num": 217161,
+      "num": 587927,
       "word": "微博之夜",
       "onboard_time": 1769487741,
       "rank": 14,
@@ -84,7 +92,7 @@
     },
     {
       "raw_hot": 542938,
-      "num": 288821,
+      "num": 530710,
       "word": "办公室奶茶文化",
       "onboard_time": 1769485882,
       "rank": 9,
@@ -251,6 +259,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 303099,
+      "num": 224476,
+      "word": "迪丽热巴 一个人当然可以拍婚纱照",
+      "onboard_time": 1769488462,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 293638,
       "num": 293638,
       "word": "星河入梦定档春节",
@@ -272,6 +288,14 @@
       "word": "香港4名公务员表现欠佳被着令退休",
       "onboard_time": 1769480120,
       "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 278051,
+      "num": 278051,
+      "word": "好利来道歉",
+      "onboard_time": 1769484801,
+      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -299,6 +323,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 266425,
+      "num": 221981,
+      "word": "周也王玉雯 从胸口聊到巴黎",
+      "onboard_time": 1769489301,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 264527,
       "num": 116655,
       "word": "我国狂犬病死亡数创2020年来新高",
@@ -307,8 +339,8 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 255697,
-      "num": 255697,
+      "raw_hot": 263301,
+      "num": 263301,
       "word": "辛芷蕾 观众缘",
       "onboard_time": 1769487262,
       "rank": 8,
@@ -331,20 +363,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 236978,
-      "num": 236978,
-      "word": "好利来道歉",
-      "onboard_time": 1769484801,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 234155,
       "num": 117586,
       "word": "何健麒尿检",
       "onboard_time": 1769428941,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 226817,
+      "num": 221735,
+      "word": "杨紫这段完播率1000%",
+      "onboard_time": 1769488642,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 222723,
@@ -355,20 +387,28 @@
       "category": "财经,作品衍生"
     },
     {
+      "raw_hot": 221158,
+      "num": 221158,
+      "word": "外网AI视频假如中国替代了美国",
+      "onboard_time": 1769488342,
+      "rank": 30,
+      "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 212386,
+      "num": 212386,
+      "word": "10岁白血病男孩豪豪离世",
+      "onboard_time": 1769487502,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 209561,
       "num": 209561,
       "word": "王玉雯 A爆了",
       "onboard_time": 1769473462,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 208610,
-      "num": 208610,
-      "word": "山西失踪女硕士毕业论文",
-      "onboard_time": 1769487620,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 197230,
@@ -395,19 +435,27 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 166842,
-      "num": 135075,
-      "word": "外网AI视频假如中国替代了美国",
-      "onboard_time": 1769488342,
-      "rank": 30,
-      "category": "民生新闻,互联网"
-    },
-    {
       "raw_hot": 165995,
       "num": 71163,
       "word": "田栩宁把梓渝粉丝告了",
       "onboard_time": 1769469197,
       "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 160487,
+      "num": 160487,
+      "word": "什么工作下班不会再找你",
+      "onboard_time": 1769486781,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 159606,
+      "num": 159606,
+      "word": "时代峰峻最著名的一滴泪",
+      "onboard_time": 1769488582,
+      "rank": 25,
       "category": "艺人"
     },
     {
@@ -491,14 +539,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 131497,
-      "num": 131497,
-      "word": "10岁白血病男孩豪豪离世",
-      "onboard_time": 1769487502,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 127194,
       "num": 127194,
       "word": "DIOR大秀",
@@ -537,14 +577,6 @@
       "onboard_time": 1769486481,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 121457,
-      "num": 121457,
-      "word": "什么工作下班不会再找你",
-      "onboard_time": 1769486781,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 121220,
@@ -601,6 +633,30 @@
       "onboard_time": 1769438602,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 115820,
+      "num": 115820,
+      "word": "中国从未发生一例尼帕病毒感染",
+      "onboard_time": 1769488823,
+      "rank": 31,
+      "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 114789,
+      "num": 114789,
+      "word": "成毅旧片重映被指硬蹭流量",
+      "onboard_time": 1769489001,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 113848,
+      "num": 113848,
+      "word": "日本警方逮捕一名三刀流男子",
+      "onboard_time": 1769487561,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 113429,
@@ -675,6 +731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 103863,
+      "num": 103863,
+      "word": "女装网店被女子白嫖近500单",
+      "onboard_time": 1769488462,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103098,
       "num": 103098,
       "word": "安踏体育收购彪马公司29.06%股权",
@@ -683,12 +747,28 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 102273,
+      "num": 102273,
+      "word": "生命树和繁花是同一时代",
+      "onboard_time": 1769489543,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 100863,
       "num": 100863,
       "word": "头一次见炮轰的咖啡",
       "onboard_time": 1769487081,
       "rank": 41,
       "category": "美食"
+    },
+    {
+      "raw_hot": 100031,
+      "num": 100031,
+      "word": "LCK杯总决赛落地香港",
+      "onboard_time": 1769489243,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 98489,
@@ -720,6 +800,14 @@
       "word": "王俊凯官宣超级巅峰之夜",
       "onboard_time": 1769487081,
       "rank": 43,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 95973,
+      "num": 95973,
+      "word": "檀健次就是这么官宣我的吗",
+      "onboard_time": 1769490202,
+      "rank": 44,
       "category": "音乐"
     },
     {
@@ -755,6 +843,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 93715,
+      "num": 93715,
+      "word": "尹子维教孩子说英语面相都变了",
+      "onboard_time": 1769490202,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 93541,
       "num": 93541,
       "word": "iOS26.2.1正式版来了",
@@ -787,12 +883,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 90864,
-      "num": 90864,
-      "word": "日本警方逮捕一名三刀流男子",
-      "onboard_time": 1769487561,
+      "raw_hot": 90887,
+      "num": 90887,
+      "word": "iPhone5S更新系统",
+      "onboard_time": 1769489961,
       "rank": 49,
-      "category": "海外新闻"
+      "category": "数码"
     },
     {
       "raw_hot": 90705,
@@ -931,6 +1027,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 77869,
+      "num": 102381,
+      "word": "优酷连更52条评论白鹿王星越",
+      "onboard_time": 1769490082,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 77576,
       "num": 77576,
       "word": "TOP xr手机",
@@ -1009,6 +1113,14 @@
       "onboard_time": 1769441181,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 63470,
+      "num": 102510,
+      "word": "丁程鑫早期唱大舌头",
+      "onboard_time": 1769489781,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 61522,
@@ -1219,6 +1331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 38351,
+      "num": 136999,
+      "word": "章若楠的新年好运风向",
+      "onboard_time": 1769487201,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 38163,
       "num": 66399,
       "word": "卢昱晓轧戏收官千字长文",
@@ -1251,6 +1371,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 36143,
+      "num": 116275,
+      "word": "印度尼帕病毒疫情01年来暴发9次",
+      "onboard_time": 1769490022,
+      "rank": 28,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 34920,
       "num": 97030,
       "word": "被限高人员25次飞境外高消费获刑",
@@ -1273,14 +1401,6 @@
       "onboard_time": 1769485940,
       "rank": 14,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 29552,
-      "num": 136999,
-      "word": "章若楠的新年好运风向",
-      "onboard_time": 1769487201,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 28598,
@@ -1324,7 +1444,7 @@
     },
     {
       "raw_hot": 24646,
-      "num": 685130,
+      "num": 862715,
       "word": "2025中国十大科技进展新闻",
       "onboard_time": 1769436802,
       "rank": 2,
