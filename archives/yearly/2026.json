@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769510276801,
+  "endTime": 1769511346415,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -577,6 +577,14 @@
       "onboard_time": 1768288881,
       "rank": 23,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1650539,
+      "num": 1650539,
+      "word": "内娱至今无一人塌房的全女综艺",
+      "onboard_time": 1769508680,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 1643112,
@@ -1785,14 +1793,6 @@
       "onboard_time": 1767668421,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 986717,
-      "num": 1157874,
-      "word": "内娱至今无一人塌房的全女综艺",
-      "onboard_time": 1769508680,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 985682,

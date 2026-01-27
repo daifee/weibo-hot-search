@@ -1,6 +1,6 @@
 {
   "startTime": 1769272464158,
-  "endTime": 1769510276801,
+  "endTime": 1769511346415,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -49,6 +49,14 @@
       "onboard_time": 1769273663,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1650539,
+      "num": 1650539,
+      "word": "内娱至今无一人塌房的全女综艺",
+      "onboard_time": 1769508680,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 1643112,
@@ -201,14 +209,6 @@
       "onboard_time": 1769402422,
       "rank": 10,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 986717,
-      "num": 1157874,
-      "word": "内娱至今无一人塌房的全女综艺",
-      "onboard_time": 1769508680,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 955627,
@@ -684,7 +684,7 @@
     },
     {
       "raw_hot": 529193,
-      "num": 836570,
+      "num": 886478,
       "word": "1g黄金的区别有多大",
       "onboard_time": 1769503761,
       "rank": 31,
@@ -2075,6 +2075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 244600,
+      "num": 189549,
+      "word": "杨紫突然笑的这一下好明媚",
+      "onboard_time": 1769508260,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 244027,
       "num": 244027,
       "word": "12306回应女子买到单人独座",
@@ -2243,6 +2251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 230807,
+      "num": 178428,
+      "word": "荣耀之战演唱会 澳门银河",
+      "onboard_time": 1769508740,
+      "rank": 13,
+      "category": "演出"
+    },
+    {
       "raw_hot": 230629,
       "num": 219495,
       "word": "李亚鹏谈自己不再做演员的原因",
@@ -2313,14 +2329,6 @@
       "onboard_time": 1769464994,
       "rank": 17,
       "category": "财经,作品衍生"
-    },
-    {
-      "raw_hot": 219115,
-      "num": 175536,
-      "word": "荣耀之战演唱会 澳门银河",
-      "onboard_time": 1769508740,
-      "rank": 13,
-      "category": "演出"
     },
     {
       "raw_hot": 218624,
@@ -2523,14 +2531,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 195588,
-      "num": 124336,
-      "word": "杨紫突然笑的这一下好明媚",
-      "onboard_time": 1769508260,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 195341,
       "num": 146902,
       "word": "叶祖新惊喜主演何不同舟渡",
@@ -2672,6 +2672,14 @@
       "word": "在巴厘岛确诊了脏水病",
       "onboard_time": 1769424562,
       "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 182614,
+      "num": 182614,
+      "word": "多地对国企近亲繁殖出手了",
+      "onboard_time": 1769510421,
+      "rank": 15,
       "category": "民生新闻"
     },
     {
@@ -3291,6 +3299,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 145006,
+      "num": 145006,
+      "word": "1岁半宝宝装睡逃避医生检查",
+      "onboard_time": 1769507541,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 144749,
       "num": 144749,
       "word": "LGD 醒醒",
@@ -3433,6 +3449,14 @@
       "onboard_time": 1769404942,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 138708,
+      "num": 138708,
+      "word": "渐冻人李小中称遭男护工猥亵报案",
+      "onboard_time": 1769510000,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 138671,
@@ -3595,14 +3619,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 130551,
-      "num": 130551,
-      "word": "1岁半宝宝装睡逃避医生检查",
-      "onboard_time": 1769507541,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 129964,
       "num": 129964,
       "word": "黎深引导型爱人",
@@ -3617,6 +3633,14 @@
       "onboard_time": 1769297837,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 129293,
+      "num": 129293,
+      "word": "丁真工作室已缴3.4万税款",
+      "onboard_time": 1769507001,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 128974,
@@ -3963,6 +3987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121090,
+      "num": 121090,
+      "word": "尼帕病毒核酸检测方法已建立",
+      "onboard_time": 1769511141,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 121042,
       "num": 121042,
       "word": "中方营救菲律宾船员后遭反咬一口",
@@ -4017,14 +4049,6 @@
       "onboard_time": 1769408719,
       "rank": 27,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 119207,
-      "num": 99599,
-      "word": "丁真工作室已缴3.4万税款",
-      "onboard_time": 1769507001,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 119123,
@@ -4107,6 +4131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 116893,
+      "num": 116893,
+      "word": "张艺谋说希望刘耀文再瘦一点",
+      "onboard_time": 1769509701,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 116682,
       "num": 71159,
       "word": "特朗普态度原地后空翻",
@@ -4121,6 +4153,14 @@
       "onboard_time": 1769496260,
       "rank": 42,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 116280,
+      "num": 116280,
+      "word": "谁教王赫野这样跳舞的",
+      "onboard_time": 1769510661,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 116079,
@@ -4403,6 +4443,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 108955,
+      "num": 107404,
+      "word": "章子怡体制内姐感",
+      "onboard_time": 1769511200,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 108833,
       "num": 108133,
       "word": "ICE又当街处决暴徒连开十枪",
@@ -4465,6 +4513,14 @@
       "onboard_time": 1769415562,
       "rank": 29,
       "category": "财经"
+    },
+    {
+      "raw_hot": 108128,
+      "num": 108128,
+      "word": "再跳你爸妈要退学费了",
+      "onboard_time": 1769510839,
+      "rank": 33,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 107659,
@@ -4883,6 +4939,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 102321,
+      "num": 102321,
+      "word": "易烊千玺 造型",
+      "onboard_time": 1769511081,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 102273,
       "num": 102273,
       "word": "生命树和繁花是同一时代",
@@ -4905,6 +4969,14 @@
       "onboard_time": 1769254100,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 101808,
+      "num": 145193,
+      "word": "滞留北海道游客花3000元才拼到车",
+      "onboard_time": 1769509220,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 101683,
@@ -5059,6 +5131,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 99820,
+      "num": 99820,
+      "word": "电视剧生命树",
+      "onboard_time": 1769509761,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 99611,
       "num": 122827,
       "word": "半场u23国足2次射门1次射正",
@@ -5148,7 +5228,7 @@
     },
     {
       "raw_hot": 98325,
-      "num": 92689,
+      "num": 94592,
       "word": "我们的少年时代2角色",
       "onboard_time": 1769506341,
       "rank": 39,
@@ -5257,14 +5337,6 @@
       "onboard_time": 1769419821,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 96846,
-      "num": 89509,
-      "word": "电视剧生命树",
-      "onboard_time": 1769509761,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 96782,
@@ -5691,6 +5763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 92717,
+      "num": 95552,
+      "word": "包惠被查",
+      "onboard_time": 1769510361,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 92538,
       "num": 92538,
       "word": "50万亿天量存款将到期",
@@ -5737,6 +5817,14 @@
       "onboard_time": 1769270602,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 91713,
+      "num": 146360,
+      "word": "加总理卡尼叹气回应被特朗普叫州长",
+      "onboard_time": 1769509342,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 91431,
@@ -5827,12 +5915,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 90591,
+      "num": 90591,
+      "word": "王一博东方卫视春晚版无名MV",
+      "onboard_time": 1769510901,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 90573,
       "num": 90573,
       "word": "夫妻吃娃娃菜中毒商家否认用老鼠药",
       "onboard_time": 1769305459,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 90569,
+      "num": 90569,
+      "word": "突然的喜欢",
+      "onboard_time": 1769249960,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 90472,
@@ -6507,6 +6611,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 81808,
+      "num": 81808,
+      "word": "相亲相到熟人是什么体验",
+      "onboard_time": 1769511141,
+      "rank": 48,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 81715,
       "num": 80195,
       "word": "井迪辟谣普拉提能瘦身",
@@ -6545,14 +6657,6 @@
       "onboard_time": 1769355620,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 81430,
-      "num": 81430,
-      "word": "突然的喜欢",
-      "onboard_time": 1769249960,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 81412,
@@ -6760,6 +6864,14 @@
       "word": "山东一银行经理借2000多万后跑路",
       "onboard_time": 1769425161,
       "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 79005,
+      "num": 147054,
+      "word": "12306托运汽车订单火爆",
+      "onboard_time": 1769510421,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -7715,28 +7827,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 64455,
-      "num": 146360,
-      "word": "加总理卡尼叹气回应被特朗普叫州长",
-      "onboard_time": 1769509342,
-      "rank": 18,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 64363,
       "num": 64363,
       "word": "收到2元试吃费的粉条店主回应",
       "onboard_time": 1769493080,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 64322,
-      "num": 89827,
-      "word": "张艺谋说希望刘耀文再瘦一点",
-      "onboard_time": 1769509701,
-      "rank": 37,
-      "category": "电影"
     },
     {
       "raw_hot": 64067,
@@ -7897,6 +7993,14 @@
       "onboard_time": 1769296996,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 60600,
+      "num": 92410,
+      "word": "30岁男子被催婚致情绪抑郁",
+      "onboard_time": 1769510061,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 60203,
@@ -8155,14 +8259,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 51926,
-      "num": 89797,
-      "word": "渐冻人李小中称遭男护工猥亵报案",
-      "onboard_time": 1769510000,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 51511,
       "num": 207469,
       "word": "刘宇宁化身心愿办事员",
@@ -8211,8 +8307,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 48879,
-      "num": 170739,
+      "raw_hot": 49034,
+      "num": 186144,
       "word": "余额宝真帮文旅把明星摇来了",
       "onboard_time": 1769508021,
       "rank": 14,
@@ -8313,14 +8409,6 @@
       "onboard_time": 1769486421,
       "rank": 18,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 44557,
-      "num": 145193,
-      "word": "滞留北海道游客花3000元才拼到车",
-      "onboard_time": 1769509220,
-      "rank": 19,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 44309,
@@ -8699,14 +8787,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 35107,
-      "num": 89718,
-      "word": "30岁男子被催婚致情绪抑郁",
-      "onboard_time": 1769510061,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 34920,
       "num": 97030,
       "word": "被限高人员25次飞境外高消费获刑",
@@ -8732,7 +8812,7 @@
     },
     {
       "raw_hot": 33705,
-      "num": 688628,
+      "num": 757269,
       "word": "2026全国两会",
       "onboard_time": 1769504121,
       "rank": 2,
