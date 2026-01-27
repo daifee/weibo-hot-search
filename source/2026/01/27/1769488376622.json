@@ -1,0 +1,410 @@
+{
+  "runTime": 1769488376622,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1151892,
+        "num": 1184302,
+        "word": "50万亿存款将到期用户寻找存款贵替",
+        "onboard_time": 1769476219,
+        "rank": 0,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 503947,
+        "num": 885488,
+        "word": "支付宝集福",
+        "onboard_time": 1769483781,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 14687,
+        "num": 685130,
+        "word": "2025中国十大科技进展新闻",
+        "onboard_time": 1769436802,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 331438,
+        "num": 331438,
+        "word": "银行打响存款争夺战",
+        "onboard_time": 1769485041,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 291723,
+        "num": 291723,
+        "word": "美国多地暴雪无家可归者仍露宿街头",
+        "onboard_time": 1769484140,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 542938,
+        "num": 288821,
+        "word": "办公室奶茶文化",
+        "onboard_time": 1769485882,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 261748,
+        "num": 261748,
+        "word": "女子免疫系统攻击胚胎8年反复流产",
+        "onboard_time": 1769477961,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 261022,
+        "num": 261022,
+        "word": "牵羊礼 屈辱",
+        "onboard_time": 1769442201,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 255697,
+        "num": 255697,
+        "word": "辛芷蕾 观众缘",
+        "onboard_time": 1769487262,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 236978,
+        "num": 236978,
+        "word": "好利来道歉",
+        "onboard_time": 1769484801,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 948999,
+        "num": 235228,
+        "word": "微博之夜阵容官宣",
+        "onboard_time": 1769487682,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 702851,
+        "num": 230538,
+        "word": "刘亦菲 祖玛珑",
+        "onboard_time": 1769481081,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253091,
+        "num": 224236,
+        "word": "生命树定档",
+        "onboard_time": 1769480302,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 459288,
+        "num": 219734,
+        "word": "爸爸怀疑女儿用纸巾擦头发暴力打砸",
+        "onboard_time": 1769471300,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 601628,
+        "num": 217161,
+        "word": "微博之夜",
+        "onboard_time": 1769487741,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 548659,
+        "num": 212413,
+        "word": "丁真名下工作室欠税3.4万被公告",
+        "onboard_time": 1769485940,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208610,
+        "num": 208610,
+        "word": "山西失踪女硕士毕业论文",
+        "onboard_time": 1769487620,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 482621,
+        "num": 208048,
+        "word": "向佐为郭碧婷买了个巨型猪公仔",
+        "onboard_time": 1769480839,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30935,
+        "num": 207481,
+        "word": "别克至境L7包高铁送你回家",
+        "onboard_time": 1769485940,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 25772,
+        "num": 206830,
+        "word": "送别旅日大熊猫的民众排了半条街",
+        "onboard_time": 1769487620,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 426047,
+        "num": 205824,
+        "word": "金价",
+        "onboard_time": 1769475263,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 205124,
+        "num": 205124,
+        "word": "香港4名公务员表现欠佳被着令退休",
+        "onboard_time": 1769480120,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204873,
+        "num": 204873,
+        "word": "金价银价巨震",
+        "onboard_time": 1769476880,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 184358,
+        "num": 184358,
+        "word": "唐宫奇案",
+        "onboard_time": 1769478920,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155740,
+        "num": 155740,
+        "word": "睡得少和睡得晚哪个更伤身体",
+        "onboard_time": 1769472561,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 155441,
+        "num": 155441,
+        "word": "退货包裹里的2元钱让尊重具象化了",
+        "onboard_time": 1769472860,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151951,
+        "num": 151951,
+        "word": "QQ音乐超级巅峰之夜全阵容",
+        "onboard_time": 1769485281,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 146733,
+        "num": 146733,
+        "word": "星河入梦定档春节",
+        "onboard_time": 1769479939,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 142840,
+        "num": 142840,
+        "word": "黄金涨到水贝商家都害怕",
+        "onboard_time": 1769474061,
+        "rank": 28,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 29552,
+        "num": 136999,
+        "word": "章若楠的新年好运风向",
+        "onboard_time": 1769487201,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166842,
+        "num": 135075,
+        "word": "外网AI视频假如中国替代了美国",
+        "onboard_time": 1769488342,
+        "rank": 30,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 131683,
+        "num": 131683,
+        "word": "中国团队对尼帕病毒药物有新发现",
+        "onboard_time": 1769485221,
+        "rank": 31,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 131497,
+        "num": 131497,
+        "word": "10岁白血病男孩豪豪离世",
+        "onboard_time": 1769487502,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52555,
+        "num": 128528,
+        "word": "Dior高订花海秀场",
+        "onboard_time": 1769483841,
+        "rank": 33,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 127844,
+        "num": 127844,
+        "word": "印度感染护士误饮被蝙蝠污染椰枣汁",
+        "onboard_time": 1769483301,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 122309,
+        "num": 122309,
+        "word": "杨紫生命树微表情演技",
+        "onboard_time": 1769486481,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121457,
+        "num": 121457,
+        "word": "什么工作下班不会再找你",
+        "onboard_time": 1769486781,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 15526,
+        "num": 121188,
+        "word": "这六位换乘恋爱的话我真不挑了",
+        "onboard_time": 1769488040,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121167,
+        "num": 121167,
+        "word": "妻子回应一家三口聊天丈夫怒砸东西",
+        "onboard_time": 1769487442,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37962,
+        "num": 107132,
+        "word": "韩国派高官紧急赴美",
+        "onboard_time": 1769487381,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 105113,
+        "num": 105113,
+        "word": "猫 没吃的你咪什么咪",
+        "onboard_time": 1769486180,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 95489,
+        "num": 95489,
+        "word": "过年我就这样送礼",
+        "onboard_time": 1769488040,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 95467,
+        "num": 95467,
+        "word": "生命树",
+        "onboard_time": 1769485041,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95378,
+        "num": 95378,
+        "word": "安踏体育收购彪马公司29.06%股权",
+        "onboard_time": 1769480241,
+        "rank": 43,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 94631,
+        "num": 94631,
+        "word": "每一个近视眼都应该少吃糖",
+        "onboard_time": 1769477240,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 94438,
+        "num": 94438,
+        "word": "坏了真让杨玏演上天了",
+        "onboard_time": 1769484919,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93295,
+        "num": 93295,
+        "word": "唐宫奇案预告真的杀疯了",
+        "onboard_time": 1769487201,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91610,
+        "num": 91610,
+        "word": "日本进入无大熊猫时代",
+        "onboard_time": 1769482939,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 92122,
+        "num": 91600,
+        "word": "王俊凯官宣超级巅峰之夜",
+        "onboard_time": 1769487081,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 90864,
+        "num": 90864,
+        "word": "日本警方逮捕一名三刀流男子",
+        "onboard_time": 1769487561,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同苏林通电话#"
+    }
+  }
+}

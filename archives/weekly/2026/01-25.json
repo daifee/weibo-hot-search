@@ -1,6 +1,6 @@
 {
   "startTime": 1769272464158,
-  "endTime": 1769487237669,
+  "endTime": 1769488376622,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -107,6 +107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1151892,
+      "num": 1184302,
+      "word": "50万亿存款将到期用户寻找存款贵替",
+      "onboard_time": 1769476219,
+      "rank": 29,
+      "category": "财经,民生新闻"
+    },
+    {
       "raw_hot": 1084863,
       "num": 183038,
       "word": "黄金",
@@ -161,6 +169,14 @@
       "onboard_time": 1769274381,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 948999,
+      "num": 235228,
+      "word": "微博之夜阵容官宣",
+      "onboard_time": 1769487682,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 868024,
@@ -257,14 +273,6 @@
       "onboard_time": 1769397501,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 723216,
-      "num": 1115714,
-      "word": "50万亿存款将到期用户寻找存款贵替",
-      "onboard_time": 1769476219,
-      "rank": 29,
-      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 719215,
@@ -403,6 +411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 601628,
+      "num": 217161,
+      "word": "微博之夜",
+      "onboard_time": 1769344401,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 596249,
       "num": 241396,
       "word": "金价飙升原因找到了",
@@ -507,12 +523,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 548659,
+      "num": 255880,
+      "word": "丁真名下工作室欠税3.4万被公告",
+      "onboard_time": 1769485940,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 546415,
       "num": 1087426,
       "word": "印度一邦暴发疫情",
       "onboard_time": 1769334739,
       "rank": 1,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 542938,
+      "num": 288821,
+      "word": "办公室奶茶文化",
+      "onboard_time": 1769485882,
+      "rank": 9,
+      "category": "幽默"
     },
     {
       "raw_hot": 538345,
@@ -593,6 +625,14 @@
       "onboard_time": 1769476041,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 503947,
+      "num": 885488,
+      "word": "支付宝集福",
+      "onboard_time": 1769483781,
+      "rank": 1,
+      "category": "互联网"
     },
     {
       "raw_hot": 501884,
@@ -697,14 +737,6 @@
       "onboard_time": 1769411722,
       "rank": 14,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 473598,
-      "num": 255880,
-      "word": "丁真名下工作室欠税3.4万被公告",
-      "onboard_time": 1769485940,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 465228,
@@ -897,14 +929,6 @@
       "onboard_time": 1769320639,
       "rank": 13,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 399080,
-      "num": 804409,
-      "word": "支付宝集福",
-      "onboard_time": 1769483781,
-      "rank": 1,
-      "category": "互联网"
     },
     {
       "raw_hot": 397909,
@@ -1507,14 +1531,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 272539,
-      "num": 190442,
-      "word": "微博之夜",
-      "onboard_time": 1769344401,
-      "rank": 18,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 272235,
       "num": 242703,
       "word": "中方坚决反对将疫情甩锅中国",
@@ -1545,14 +1561,6 @@
       "onboard_time": 1769316741,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 269243,
-      "num": 269243,
-      "word": "办公室奶茶文化",
-      "onboard_time": 1769485882,
-      "rank": 9,
-      "category": "幽默"
     },
     {
       "raw_hot": 267524,
@@ -1688,6 +1696,14 @@
       "word": "何不同舟渡",
       "onboard_time": 1769259921,
       "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 255697,
+      "num": 255697,
+      "word": "辛芷蕾 观众缘",
+      "onboard_time": 1769487262,
+      "rank": 8,
       "category": "剧集"
     },
     {
@@ -1835,6 +1851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 236978,
+      "num": 236978,
+      "word": "好利来道歉",
+      "onboard_time": 1769484801,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 236598,
       "num": 236598,
       "word": "田曦薇张凌赫hi6上班路透",
@@ -1913,14 +1937,6 @@
       "onboard_time": 1769271862,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 231738,
-      "num": 231738,
-      "word": "好利来道歉",
-      "onboard_time": 1769484801,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 231342,
@@ -2065,6 +2081,14 @@
       "onboard_time": 1769473462,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 208610,
+      "num": 208610,
+      "word": "山西失踪女硕士毕业论文",
+      "onboard_time": 1769487620,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 207550,
@@ -2459,6 +2483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 166842,
+      "num": 135075,
+      "word": "外网AI视频假如中国替代了美国",
+      "onboard_time": 1769488342,
+      "rank": 30,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 166633,
       "num": 314883,
       "word": "王欣瑜止步澳网十六强",
@@ -2748,7 +2780,7 @@
     },
     {
       "raw_hot": 148560,
-      "num": 126851,
+      "num": 142840,
       "word": "黄金涨到水贝商家都害怕",
       "onboard_time": 1769474061,
       "rank": 25,
@@ -3115,6 +3147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131497,
+      "num": 131497,
+      "word": "10岁白血病男孩豪豪离世",
+      "onboard_time": 1769487502,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 131383,
       "num": 185959,
       "word": "张杰过来这一下就值回票钱了",
@@ -3379,6 +3419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 122309,
+      "num": 244389,
+      "word": "杨紫生命树微表情演技",
+      "onboard_time": 1769486481,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 122209,
       "num": 122209,
       "word": "十日终焉配角竞争激烈",
@@ -3395,6 +3443,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 121457,
+      "num": 121457,
+      "word": "什么工作下班不会再找你",
+      "onboard_time": 1769486781,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 121416,
       "num": 254815,
       "word": "看懂陈星旭收官文的都哭了",
@@ -3408,6 +3464,14 @@
       "word": "传染尼帕病毒的生枣椰汁是什么",
       "onboard_time": 1769479460,
       "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 121167,
+      "num": 121167,
+      "word": "妻子回应一家三口聊天丈夫怒砸东西",
+      "onboard_time": 1769487442,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -3913,14 +3977,6 @@
       "onboard_time": 1769413282,
       "rank": 44,
       "category": "财经"
-    },
-    {
-      "raw_hot": 105454,
-      "num": 105454,
-      "word": "什么工作下班不会再找你",
-      "onboard_time": 1769486781,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 105330,
@@ -4627,6 +4683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 95489,
+      "num": 95489,
+      "word": "过年我就这样送礼",
+      "onboard_time": 1769488040,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 95321,
       "num": 95321,
       "word": "刘强东连续多年给老家送年货",
@@ -4779,6 +4843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 93295,
+      "num": 93295,
+      "word": "唐宫奇案预告真的杀疯了",
+      "onboard_time": 1769487201,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 93244,
       "num": 93244,
       "word": "奶茶腊八粥",
@@ -4915,6 +4987,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 90864,
+      "num": 90864,
+      "word": "日本警方逮捕一名三刀流男子",
+      "onboard_time": 1769487561,
+      "rank": 49,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 90814,
       "num": 90814,
       "word": "老胡考虑改名牢胡",
@@ -4969,14 +5049,6 @@
       "onboard_time": 1769342359,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 90388,
-      "num": 244389,
-      "word": "杨紫生命树微表情演技",
-      "onboard_time": 1769486481,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 90330,
@@ -5161,14 +5233,6 @@
       "onboard_time": 1769406501,
       "rank": 44,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 87100,
-      "num": 86609,
-      "word": "唐宫奇案预告真的杀疯了",
-      "onboard_time": 1769487201,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 86966,
@@ -6955,6 +7019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 52555,
+      "num": 246178,
+      "word": "Dior高订花海秀场",
+      "onboard_time": 1769483841,
+      "rank": 16,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 51511,
       "num": 207469,
       "word": "刘宇宁化身心愿办事员",
@@ -6993,14 +7065,6 @@
       "onboard_time": 1769394379,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 49681,
-      "num": 246178,
-      "word": "Dior高订花海秀场",
-      "onboard_time": 1769483841,
-      "rank": 16,
-      "category": "时尚"
     },
     {
       "raw_hot": 48749,
@@ -7307,6 +7371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 37962,
+      "num": 107132,
+      "word": "韩国派高官紧急赴美",
+      "onboard_time": 1769487381,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 37780,
       "num": 160747,
       "word": "普通人什么时候能去太空旅游",
@@ -7499,6 +7571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 30935,
+      "num": 253040,
+      "word": "别克至境L7包高铁送你回家",
+      "onboard_time": 1769485940,
+      "rank": 14,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 30469,
       "num": 127568,
       "word": "共享充电宝门店分成涨至30%",
@@ -7521,6 +7601,14 @@
       "onboard_time": 1769258901,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29552,
+      "num": 136999,
+      "word": "章若楠的新年好运风向",
+      "onboard_time": 1769487201,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 29086,
@@ -7619,6 +7707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 25772,
+      "num": 206830,
+      "word": "送别旅日大熊猫的民众排了半条街",
+      "onboard_time": 1769487620,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25525,
       "num": 104367,
       "word": "俄美乌三方首轮会谈细节披露",
@@ -7644,19 +7740,11 @@
     },
     {
       "raw_hot": 24646,
-      "num": 652742,
+      "num": 685130,
       "word": "2025中国十大科技进展新闻",
       "onboard_time": 1769436802,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 24603,
-      "num": 253040,
-      "word": "别克至境L7包高铁送你回家",
-      "onboard_time": 1769485940,
-      "rank": 14,
-      "category": "汽车"
     },
     {
       "raw_hot": 24501,
@@ -7915,6 +8003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 15526,
+      "num": 121188,
+      "word": "这六位换乘恋爱的话我真不挑了",
+      "onboard_time": 1769488040,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 15192,
       "num": 18218,
       "word": "豆包手机助手处理内容不存储不训练",
@@ -8001,14 +8097,6 @@
       "onboard_time": 1769310020,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 11052,
-      "num": 106029,
-      "word": "章若楠的新年好运风向",
-      "onboard_time": 1769487201,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 9167,
