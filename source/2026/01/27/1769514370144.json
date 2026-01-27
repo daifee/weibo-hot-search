@@ -1,0 +1,410 @@
+{
+  "runTime": 1769514370144,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 747778,
+        "num": 1119644,
+        "word": "微博之夜阵容官宣",
+        "onboard_time": 1769487682,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 492302,
+        "num": 794796,
+        "word": "多地对国企近亲繁殖出手了",
+        "onboard_time": 1769510421,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27656,
+        "num": 656935,
+        "word": "2026全国两会",
+        "onboard_time": 1769504121,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 221482,
+        "num": 221482,
+        "word": "12306托运汽车订单火爆",
+        "onboard_time": 1769510421,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159886,
+        "num": 218828,
+        "word": "50万亿存款将到期用户寻找存款贵替",
+        "onboard_time": 1769476219,
+        "rank": 4,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 257384,
+        "num": 218679,
+        "word": "微博之夜",
+        "onboard_time": 1769487741,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 255039,
+        "num": 218547,
+        "word": "导师一直叫我微信名怎么办",
+        "onboard_time": 1769497399,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 217225,
+        "num": 217225,
+        "word": "为什么教师行业没有起床气",
+        "onboard_time": 1769503521,
+        "rank": 7,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 125365,
+        "num": 215062,
+        "word": "包惠被查",
+        "onboard_time": 1769510361,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 111443,
+        "num": 209839,
+        "word": "1岁半宝宝装睡逃避医生检查",
+        "onboard_time": 1769507541,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 317756,
+        "num": 204027,
+        "word": "再跳你爸妈要退学费了",
+        "onboard_time": 1769510839,
+        "rank": 10,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 312286,
+        "num": 199730,
+        "word": "渐冻人李小中称遭男护工猥亵报案",
+        "onboard_time": 1769510000,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 311810,
+        "num": 192371,
+        "word": "张艺谋说希望刘耀文再瘦一点",
+        "onboard_time": 1769509701,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 256721,
+        "num": 187329,
+        "word": "1g黄金的区别有多大",
+        "onboard_time": 1769503761,
+        "rank": 13,
+        "category": "科学科普,休闲"
+      },
+      {
+        "raw_hot": 231846,
+        "num": 184328,
+        "word": "杨紫突然笑的这一下好明媚",
+        "onboard_time": 1769508260,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221694,
+        "num": 177038,
+        "word": "妈妈称学习太卷决定让女儿不上高中",
+        "onboard_time": 1769511500,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218366,
+        "num": 174343,
+        "word": "Jennie最后突然哭不行了",
+        "onboard_time": 1769506701,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 171119,
+        "num": 171119,
+        "word": "入殓师称逝者化妆时偶尔会睁眼",
+        "onboard_time": 1769499321,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170562,
+        "num": 170562,
+        "word": "香港蔡天凤碎尸案新进展",
+        "onboard_time": 1769503700,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144524,
+        "num": 144524,
+        "word": "荣耀之战演唱会 澳门银河",
+        "onboard_time": 1769508740,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1493106,
+        "num": 143895,
+        "word": "内娱至今无一人塌房的全女综艺",
+        "onboard_time": 1769508680,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152702,
+        "num": 143297,
+        "word": "高市称若台湾有事美日或联合行动",
+        "onboard_time": 1769511500,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 744298,
+        "num": 142717,
+        "word": "张雨绮多个商务被取消",
+        "onboard_time": 1769505682,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283854,
+        "num": 141963,
+        "word": "曝听泉鉴宝送前女友房子",
+        "onboard_time": 1769503160,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 141583,
+        "num": 141583,
+        "word": "王者荣耀你坏事做尽",
+        "onboard_time": 1769503281,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 278491,
+        "num": 141572,
+        "word": "周雨彤工作室道歉",
+        "onboard_time": 1769498000,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247346,
+        "num": 141512,
+        "word": "易烊千玺 造型",
+        "onboard_time": 1769511081,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140691,
+        "num": 140691,
+        "word": "网红小胖已结婚生子",
+        "onboard_time": 1769513062,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119021,
+        "num": 119021,
+        "word": "章子怡体制内姐感",
+        "onboard_time": 1769511200,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84561,
+        "num": 117355,
+        "word": "小伙救人按断女子6根肋骨收到谢谢",
+        "onboard_time": 1769494881,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116059,
+        "num": 116059,
+        "word": "贺峻霖 研究生的脑子就是不一样",
+        "onboard_time": 1769501541,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108377,
+        "num": 108377,
+        "word": "桃黑黑12个小时上了5颗星",
+        "onboard_time": 1769495060,
+        "rank": 31,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 102869,
+        "num": 102869,
+        "word": "盲猜春晚导演审节目",
+        "onboard_time": 1769512580,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 93264,
+        "num": 93264,
+        "word": "香奈儿大秀",
+        "onboard_time": 1769513600,
+        "rank": 33,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 91720,
+        "num": 91720,
+        "word": "丁真工作室已缴3.4万税款",
+        "onboard_time": 1769507001,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90780,
+        "num": 90780,
+        "word": "支付宝集福",
+        "onboard_time": 1769483781,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 88568,
+        "num": 88568,
+        "word": "FMVP选手全员集结",
+        "onboard_time": 1769511799,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 87911,
+        "num": 87911,
+        "word": "王一博东方卫视春晚版无名MV",
+        "onboard_time": 1769510901,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86497,
+        "num": 86497,
+        "word": "idle回归",
+        "onboard_time": 1769511380,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 62993,
+        "num": 85330,
+        "word": "50万亿存款",
+        "onboard_time": 1769505502,
+        "rank": 39,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 84810,
+        "num": 84810,
+        "word": "idle单曲MV",
+        "onboard_time": 1769505921,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 81172,
+        "num": 81172,
+        "word": "杨紫实在是太稳了",
+        "onboard_time": 1769514202,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78990,
+        "num": 78990,
+        "word": "相亲相到熟人是什么体验",
+        "onboard_time": 1769511141,
+        "rank": 42,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 78757,
+        "num": 78757,
+        "word": "突然的喜欢",
+        "onboard_time": 1769510782,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74023,
+        "num": 74023,
+        "word": "第五人格",
+        "onboard_time": 1769505021,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 73947,
+        "num": 73947,
+        "word": "霍建华签名 冷脸洗内裤",
+        "onboard_time": 1769500281,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71584,
+        "num": 71584,
+        "word": "雷军回应小米SU7保值率第一名",
+        "onboard_time": 1769512041,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 71550,
+        "num": 71550,
+        "word": "尼帕病毒核酸检测方法已建立",
+        "onboard_time": 1769511141,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 59241,
+        "num": 71511,
+        "word": "四川绵阳市长李云被查",
+        "onboard_time": 1769514020,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 50405,
+        "num": 71502,
+        "word": "民警果断拔卡关机保住670万",
+        "onboard_time": 1769514261,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见芬兰总理奥尔波#"
+    }
+  }
+}
