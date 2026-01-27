@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769499380358,
+  "endTime": 1769500196838,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -907,6 +907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1298438,
+      "num": 490535,
+      "word": "导师一直叫我微信名怎么办",
+      "onboard_time": 1769497399,
+      "rank": 5,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1295224,
       "num": 220306,
       "word": "陈雪凝结婚了",
@@ -1587,6 +1595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1027219,
+      "num": 302965,
+      "word": "周雨彤工作室道歉",
+      "onboard_time": 1769498000,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1024669,
       "num": 361713,
       "word": "车银优宋慧乔被称为逃税情侣",
@@ -1753,14 +1769,6 @@
       "onboard_time": 1767668421,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 985683,
-      "num": 490535,
-      "word": "导师一直叫我微信名怎么办",
-      "onboard_time": 1769497399,
-      "rank": 5,
-      "category": "幽默"
     },
     {
       "raw_hot": 985682,
@@ -2105,14 +2113,6 @@
       "onboard_time": 1768735822,
       "rank": 21,
       "category": "财经"
-    },
-    {
-      "raw_hot": 903856,
-      "num": 281788,
-      "word": "周雨彤工作室道歉",
-      "onboard_time": 1769498000,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 903109,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1769500196838,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 614666,
+        "num": 1098346,
+        "word": "小伙救人按断女子6根肋骨收到谢谢",
+        "onboard_time": 1769494881,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 504594,
+        "num": 797500,
+        "word": "微博之夜",
+        "onboard_time": 1769487741,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 67772,
+        "num": 718156,
+        "word": "我国全超导磁体有重大突破",
+        "onboard_time": 1769491701,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 672379,
+        "num": 672379,
+        "word": "桃黑黑12个小时上了5颗星",
+        "onboard_time": 1769495060,
+        "rank": 3,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 466701,
+        "num": 466701,
+        "word": "李蓓清仓黄金",
+        "onboard_time": 1769493980,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1298438,
+        "num": 466693,
+        "word": "导师一直叫我微信名怎么办",
+        "onboard_time": 1769497399,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 466511,
+        "num": 466511,
+        "word": "微博之夜阵容官宣",
+        "onboard_time": 1769487682,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 438965,
+        "num": 438965,
+        "word": "50万亿存款将到期用户寻找存款贵替",
+        "onboard_time": 1769476219,
+        "rank": 7,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 322928,
+        "num": 322928,
+        "word": "高市早苗破防了",
+        "onboard_time": 1769493199,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 306121,
+        "num": 306121,
+        "word": "张艺谋 体重管理最严厉的父亲",
+        "onboard_time": 1769494160,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1027219,
+        "num": 302965,
+        "word": "周雨彤工作室道歉",
+        "onboard_time": 1769498000,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 515285,
+        "num": 296220,
+        "word": "韩国人还在睡梦中特朗普突然下手",
+        "onboard_time": 1769494640,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 443438,
+        "num": 285420,
+        "word": "戚薇撞脸金晨",
+        "onboard_time": 1769492720,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 324915,
+        "num": 283818,
+        "word": "入殓师称逝者化妆时偶尔会睁眼",
+        "onboard_time": 1769499321,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 277345,
+        "num": 277345,
+        "word": "支付宝集福",
+        "onboard_time": 1769483781,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 218624,
+        "num": 218624,
+        "word": "生命树发布会",
+        "onboard_time": 1769495660,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171917,
+        "num": 171917,
+        "word": "丁真名下工作室欠税3.4万被公告",
+        "onboard_time": 1769485940,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41004,
+        "num": 170076,
+        "word": "英首相斯塔默将访华",
+        "onboard_time": 1769498900,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 169080,
+        "num": 169080,
+        "word": "会旅游和不会旅游的区别",
+        "onboard_time": 1769491581,
+        "rank": 18,
+        "category": "幽默,旅游"
+      },
+      {
+        "raw_hot": 27200,
+        "num": 169035,
+        "word": "高市有关台湾谬论粗暴干涉中国内政",
+        "onboard_time": 1769499441,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 299572,
+        "num": 168846,
+        "word": "徐冬冬尹子维结婚线下排面",
+        "onboard_time": 1769497700,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61351,
+        "num": 168785,
+        "word": "印度疫情会失控吗",
+        "onboard_time": 1769499921,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 183634,
+        "num": 168647,
+        "word": "刘亦菲 祖玛珑",
+        "onboard_time": 1769481081,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47258,
+        "num": 168541,
+        "word": "北海道暴雪约7000人滞留机场",
+        "onboard_time": 1769498960,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 168475,
+        "num": 168475,
+        "word": "时代峰峻最著名的一滴泪",
+        "onboard_time": 1769488582,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137453,
+        "num": 137453,
+        "word": "曝朱志鑫左航要上北电国际班",
+        "onboard_time": 1769500100,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129991,
+        "num": 129991,
+        "word": "婴儿期记忆能不消失吗",
+        "onboard_time": 1769495962,
+        "rank": 26,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 136118,
+        "num": 128569,
+        "word": "刘宇宁谈配角掀桌",
+        "onboard_time": 1769494279,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 106978,
+        "num": 122366,
+        "word": "好利来涉事产品已全部销毁",
+        "onboard_time": 1769495120,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105265,
+        "num": 117611,
+        "word": "12306回应女子买到单人独座",
+        "onboard_time": 1769493261,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116428,
+        "num": 116428,
+        "word": "被问及邪教文件高市早苗笑容消失",
+        "onboard_time": 1769497760,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 115841,
+        "num": 115841,
+        "word": "海涛自曝朋友圈的置顶",
+        "onboard_time": 1769497040,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114175,
+        "num": 114175,
+        "word": "A股中国黄金涨停",
+        "onboard_time": 1769498180,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 106536,
+        "num": 106536,
+        "word": "周也王玉雯 从胸口聊到巴黎",
+        "onboard_time": 1769489301,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 58002,
+        "num": 105104,
+        "word": "外交部回应高市早苗涉台最新言论",
+        "onboard_time": 1769500100,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 104850,
+        "num": 104850,
+        "word": "投资银条走红水贝",
+        "onboard_time": 1769500040,
+        "rank": 35,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 103137,
+        "num": 103137,
+        "word": "白血病男孩离世爸爸发声",
+        "onboard_time": 1769495421,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14650,
+        "num": 103119,
+        "word": "曾国卫被免去政制及内地事务局局长",
+        "onboard_time": 1769500161,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 30685,
+        "num": 102923,
+        "word": "40岁三毛回应拍短剧",
+        "onboard_time": 1769499560,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27033,
+        "num": 102793,
+        "word": "4岁女儿贴心照料生病的妈妈",
+        "onboard_time": 1769499080,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112775,
+        "num": 102595,
+        "word": "何小鹏坐飞行汽车降落年会现场",
+        "onboard_time": 1769499801,
+        "rank": 40,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 102274,
+        "num": 102329,
+        "word": "对不起第一次结婚有点好笑",
+        "onboard_time": 1769499441,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 102300,
+        "num": 102300,
+        "word": "章若楠 我这样的一抓一大把",
+        "onboard_time": 1769493680,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26688,
+        "num": 100861,
+        "word": "香港公务员表现欠佳可被着令退休",
+        "onboard_time": 1769498960,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99617,
+        "num": 99617,
+        "word": "什么工作下班不会再找你",
+        "onboard_time": 1769486781,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 96518,
+        "num": 96518,
+        "word": "文淇 我是学生能小刀吗",
+        "onboard_time": 1769496980,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97121,
+        "num": 95011,
+        "word": "金价银价巨震",
+        "onboard_time": 1769476880,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 93068,
+        "num": 93068,
+        "word": "现偶拍成这样子真牛",
+        "onboard_time": 1769497760,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91174,
+        "num": 91174,
+        "word": "办公室奶茶文化",
+        "onboard_time": 1769485882,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 90275,
+        "num": 90275,
+        "word": "DeepSeek开源OCR2",
+        "onboard_time": 1769499261,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#中越应当坚持道不变志不改#"
+    }
+  }
+}

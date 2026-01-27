@@ -1,6 +1,6 @@
 {
   "startTime": 1769445836222,
-  "endTime": 1769499380358,
+  "endTime": 1769500196838,
   "band_list": [
     {
       "raw_hot": 3419891,
@@ -11,6 +11,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1298438,
+      "num": 490535,
+      "word": "导师一直叫我微信名怎么办",
+      "onboard_time": 1769497399,
+      "rank": 5,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1151892,
       "num": 1184302,
       "word": "50万亿存款将到期用户寻找存款贵替",
@@ -19,28 +27,20 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 1027219,
+      "num": 302965,
+      "word": "周雨彤工作室道歉",
+      "onboard_time": 1769498000,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1006911,
       "num": 233868,
       "word": "金价",
       "onboard_time": 1769475263,
       "rank": 20,
       "category": "财经"
-    },
-    {
-      "raw_hot": 985683,
-      "num": 490535,
-      "word": "导师一直叫我微信名怎么办",
-      "onboard_time": 1769497399,
-      "rank": 5,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 903856,
-      "num": 281788,
-      "word": "周雨彤工作室道歉",
-      "onboard_time": 1769498000,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 790100,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 734711,
-      "num": 291937,
+      "num": 296220,
       "word": "韩国人还在睡梦中特朗普突然下手",
       "onboard_time": 1769494640,
       "rank": 11,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 680038,
-      "num": 283949,
+      "num": 285420,
       "word": "戚薇撞脸金晨",
       "onboard_time": 1769492720,
       "rank": 11,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 601628,
-      "num": 587927,
+      "num": 797500,
       "word": "微博之夜",
       "onboard_time": 1769487741,
       "rank": 14,
@@ -268,7 +268,7 @@
     },
     {
       "raw_hot": 364987,
-      "num": 256469,
+      "num": 322928,
       "word": "高市早苗破防了",
       "onboard_time": 1769493199,
       "rank": 20,
@@ -313,6 +313,14 @@
       "onboard_time": 1769485041,
       "rank": 4,
       "category": "财经"
+    },
+    {
+      "raw_hot": 324915,
+      "num": 283818,
+      "word": "入殓师称逝者化妆时偶尔会睁眼",
+      "onboard_time": 1769499321,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 321498,
@@ -360,6 +368,14 @@
       "word": "迪丽热巴 一个人当然可以拍婚纱照",
       "onboard_time": 1769488462,
       "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 299572,
+      "num": 168846,
+      "word": "徐冬冬尹子维结婚线下排面",
+      "onboard_time": 1769497700,
+      "rank": 20,
       "category": "艺人"
     },
     {
@@ -507,6 +523,14 @@
       "category": "财经,作品衍生"
     },
     {
+      "raw_hot": 218624,
+      "num": 218624,
+      "word": "生命树发布会",
+      "onboard_time": 1769495660,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 217357,
       "num": 217357,
       "word": "时代峰峻最著名的一滴泪",
@@ -528,14 +552,6 @@
       "word": "王玉雯 A爆了",
       "onboard_time": 1769473462,
       "rank": 14,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 201285,
-      "num": 139322,
-      "word": "徐冬冬尹子维结婚线下排面",
-      "onboard_time": 1769497700,
-      "rank": 20,
       "category": "艺人"
     },
     {
@@ -585,14 +601,6 @@
       "onboard_time": 1769495120,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 169495,
-      "num": 169495,
-      "word": "生命树发布会",
-      "onboard_time": 1769495660,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 165995,
@@ -699,6 +707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 137453,
+      "num": 137453,
+      "word": "曝朱志鑫左航要上北电国际班",
+      "onboard_time": 1769500100,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 135748,
       "num": 135748,
       "word": "章若楠 我这样的一抓一大把",
@@ -729,14 +745,6 @@
       "onboard_time": 1769495962,
       "rank": 36,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 129759,
-      "num": 129759,
-      "word": "入殓师称逝者化妆时偶尔会睁眼",
-      "onboard_time": 1769499321,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 127972,
@@ -923,6 +931,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 114175,
+      "num": 114175,
+      "word": "A股中国黄金涨停",
+      "onboard_time": 1769498180,
+      "rank": 32,
+      "category": "财经"
+    },
+    {
       "raw_hot": 113670,
       "num": 113670,
       "word": "怎么会有cp刚结束二搭就想着三搭",
@@ -939,12 +955,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 112638,
-      "num": 112638,
-      "word": "A股中国黄金涨停",
-      "onboard_time": 1769498180,
-      "rank": 32,
-      "category": "财经"
+      "raw_hot": 112775,
+      "num": 102595,
+      "word": "何小鹏坐飞行汽车降落年会现场",
+      "onboard_time": 1769499801,
+      "rank": 40,
+      "category": "汽车"
     },
     {
       "raw_hot": 111679,
@@ -1019,6 +1035,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 104850,
+      "num": 104850,
+      "word": "投资银条走红水贝",
+      "onboard_time": 1769500040,
+      "rank": 35,
+      "category": "财经,民生新闻"
+    },
+    {
       "raw_hot": 104388,
       "num": 104388,
       "word": "唐宫奇案之青雾风鸣",
@@ -1051,12 +1075,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 103137,
+      "num": 103137,
+      "word": "白血病男孩离世爸爸发声",
+      "onboard_time": 1769495421,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103098,
       "num": 103098,
       "word": "安踏体育收购彪马公司29.06%股权",
       "onboard_time": 1769480241,
       "rank": 43,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 102274,
+      "num": 102329,
+      "word": "对不起第一次结婚有点好笑",
+      "onboard_time": 1769499441,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 102273,
@@ -1179,14 +1219,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 95831,
-      "num": 95831,
-      "word": "白血病男孩离世爸爸发声",
-      "onboard_time": 1769495421,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 95722,
       "num": 91488,
       "word": "5部电影定档2026春节档",
@@ -1289,6 +1321,14 @@
       "onboard_time": 1769495780,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 90275,
+      "num": 90275,
+      "word": "DeepSeek开源OCR2",
+      "onboard_time": 1769499261,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 89734,
@@ -1401,14 +1441,6 @@
       "onboard_time": 1769469799,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 81062,
-      "num": 81062,
-      "word": "DeepSeek开源OCR2",
-      "onboard_time": 1769499261,
-      "rank": 49,
-      "category": "互联网"
     },
     {
       "raw_hot": 80408,
@@ -1595,6 +1627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 61351,
+      "num": 168785,
+      "word": "印度疫情会失控吗",
+      "onboard_time": 1769499921,
+      "rank": 21,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 60532,
       "num": 66669,
       "word": "入职体检被要求补做妊娠测试",
@@ -1649,6 +1689,14 @@
       "onboard_time": 1769470638,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 58002,
+      "num": 105104,
+      "word": "外交部回应高市早苗涉台最新言论",
+      "onboard_time": 1769500100,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 57565,
@@ -1739,6 +1787,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 47258,
+      "num": 168541,
+      "word": "北海道暴雪约7000人滞留机场",
+      "onboard_time": 1769498960,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 46078,
       "num": 239514,
       "word": "英国承认特朗普有一票否决权",
@@ -1769,6 +1825,14 @@
       "onboard_time": 1769434401,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 41004,
+      "num": 190987,
+      "word": "英首相斯塔默将访华",
+      "onboard_time": 1769498900,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 40580,
@@ -1899,6 +1963,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 30685,
+      "num": 102923,
+      "word": "40岁三毛回应拍短剧",
+      "onboard_time": 1769499560,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 28598,
       "num": 431404,
       "word": "2025年国内居民出游人次65.22亿",
@@ -1915,19 +1987,27 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 26529,
-      "num": 140644,
-      "word": "北海道暴雪约7000人滞留机场",
-      "onboard_time": 1769498960,
+      "raw_hot": 27200,
+      "num": 169035,
+      "word": "高市有关台湾谬论粗暴干涉中国内政",
+      "onboard_time": 1769499441,
       "rank": 19,
-      "category": "海外新闻"
+      "category": "国际时政"
     },
     {
-      "raw_hot": 26519,
-      "num": 96283,
+      "raw_hot": 27033,
+      "num": 102793,
       "word": "4岁女儿贴心照料生病的妈妈",
       "onboard_time": 1769499080,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26688,
+      "num": 100861,
+      "word": "香港公务员表现欠佳可被着令退休",
+      "onboard_time": 1769498960,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -1953,14 +2033,6 @@
       "onboard_time": 1769480839,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 25300,
-      "num": 190987,
-      "word": "英首相斯塔默将访华",
-      "onboard_time": 1769498900,
-      "rank": 14,
-      "category": "国际时政"
     },
     {
       "raw_hot": 24646,
@@ -2035,14 +2107,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 19509,
-      "num": 95976,
-      "word": "香港公务员表现欠佳可被着令退休",
-      "onboard_time": 1769498960,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 17899,
       "num": 63905,
       "word": "甘肃震后第一夜村民怎么样了",
@@ -2097,6 +2161,14 @@
       "onboard_time": 1769435062,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 14650,
+      "num": 103119,
+      "word": "曾国卫被免去政制及内地事务局局长",
+      "onboard_time": 1769500161,
+      "rank": 37,
+      "category": "国内时政"
     },
     {
       "raw_hot": 14430,
