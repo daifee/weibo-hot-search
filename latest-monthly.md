@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/28 15:01:24
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/28 15:35:16
 </p>
 </blockquote>
 <p>
@@ -3699,6 +3699,12 @@ iPhone18Pro渲染视频曝光（热度：621333）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%B4%A0%E5%AA%9B%E6%A1%88%E7%BD%AA%E7%8A%AF%E8%BF%9D%E4%BB%A4%E5%A4%96%E5%87%BA%E5%86%8D%E8%A2%AB%E5%88%A4%E5%88%91%23" target="weibo">
+素媛案罪犯违令外出再被判刑（热度：604889）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%9F%8E%E5%A4%A7%E4%BA%8B%E5%AE%9A%E6%A1%A3%23" target="weibo">
 小城大事定档（热度：604867）
 </a>
@@ -6005,12 +6011,6 @@ TF二代吻戏第一人（热度：484726）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A9%E6%98%AF%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E6%98%8E%E5%A4%A9%E5%8F%AF%E8%83%BD%E6%98%AF%E4%BB%BB%E4%BD%95%E5%9B%BD%E5%AE%B6%23" target="weibo">
 今天是委内瑞拉明天可能是任何国家（热度：484404）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%9C%A8%E7%BA%A6%E5%8D%8A%E5%B0%8F%E6%97%B6%E5%86%85%E5%AE%A3%E7%A7%B0%E6%89%A3%E6%8A%BC%E4%B8%A4%E8%89%98%E6%B2%B9%E8%BD%AE%23" target="weibo">
-美国在约半小时内宣称扣押两艘油轮（热度：483754）
 </a>
 </li>
 
