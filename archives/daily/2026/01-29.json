@@ -1,6 +1,6 @@
 {
   "startTime": 1769616009567,
-  "endTime": 1769640872378,
+  "endTime": 1769643251784,
   "band_list": [
     {
       "raw_hot": 1779996,
@@ -28,10 +28,18 @@
     },
     {
       "raw_hot": 580836,
-      "num": 130993,
+      "num": 136849,
       "word": "胎儿一脚踢破妈妈子宫致羊水流失",
       "onboard_time": 1769612608,
       "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 545187,
+      "num": 874886,
+      "word": "女子考编第1政审不合格第2名递补",
+      "onboard_time": 1769612486,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -67,6 +75,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 423525,
+      "num": 70181,
+      "word": "金价",
+      "onboard_time": 1769605460,
+      "rank": 20,
+      "category": "财经"
+    },
+    {
       "raw_hot": 390971,
       "num": 762450,
       "word": "微博之夜",
@@ -84,11 +100,19 @@
     },
     {
       "raw_hot": 280591,
-      "num": 121082,
+      "num": 132512,
       "word": "杨紫为上镜暴瘦15斤",
       "onboard_time": 1769608282,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 265737,
+      "num": 265737,
+      "word": "美联储",
+      "onboard_time": 1769642839,
+      "rank": 3,
+      "category": "财经"
     },
     {
       "raw_hot": 264617,
@@ -96,14 +120,6 @@
       "word": "南通发现1例罕见恐龙血",
       "onboard_time": 1769612131,
       "rank": 4,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 235667,
-      "num": 563331,
-      "word": "女子考编第1政审不合格第2名递补",
-      "onboard_time": 1769612486,
-      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -115,12 +131,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 196725,
+      "num": 147958,
+      "word": "黄金",
+      "onboard_time": 1769642958,
+      "rank": 6,
+      "category": "财经"
+    },
+    {
       "raw_hot": 177397,
       "num": 120728,
       "word": "阿富汗女性教育到小学为止",
       "onboard_time": 1769611950,
       "rank": 14,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 165506,
+      "num": 129174,
+      "word": "女子下车摔倒被丈夫开车碾过",
+      "onboard_time": 1769643140,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 161218,
@@ -155,6 +187,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 148640,
+      "num": 148640,
+      "word": "崩坏星穹铁道",
+      "onboard_time": 1769642897,
+      "rank": 4,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 146779,
       "num": 207782,
       "word": "东北人发现飞俄罗斯坐船回家更便宜",
@@ -177,6 +217,14 @@
       "onboard_time": 1769614401,
       "rank": 31,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 118494,
+      "num": 118494,
+      "word": "美国超级暴风雪大量流浪汉冻死街头",
+      "onboard_time": 1769617997,
+      "rank": 34,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 115967,
@@ -203,12 +251,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 110403,
+      "raw_hot": 113785,
       "num": 145549,
       "word": "贝加尔湖车祸75岁中国籍女性死亡",
       "onboard_time": 1769604082,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 111909,
+      "num": 68961,
+      "word": "欧冠",
+      "onboard_time": 1769642598,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 105635,
@@ -243,20 +299,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 94720,
+      "num": 94720,
+      "word": "女子随夫姓30余年想改回原名遇阻",
+      "onboard_time": 1769620397,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85174,
       "num": 198057,
       "word": "尘白禁区 扭蛋机",
       "onboard_time": 1769611524,
       "rank": 32,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 84630,
-      "num": 94297,
-      "word": "美国超级暴风雪大量流浪汉冻死街头",
-      "onboard_time": 1769617997,
-      "rank": 34,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 84579,
@@ -281,6 +337,22 @@
       "onboard_time": 1769614102,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 82254,
+      "num": 92903,
+      "word": "金价波动",
+      "onboard_time": 1769602582,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 78198,
+      "num": 67908,
+      "word": "宝马所有车型将启用新logo",
+      "onboard_time": 1769643140,
+      "rank": 25,
+      "category": "汽车"
     },
     {
       "raw_hot": 72995,
@@ -331,7 +403,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 63926,
+      "raw_hot": 66846,
       "num": 92274,
       "word": "精神压力维生素D缺乏等易催生白发",
       "onboard_time": 1769613982,
@@ -395,6 +467,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 56698,
+      "num": 56698,
+      "word": "本菲卡vs皇马",
+      "onboard_time": 1769642417,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 56464,
       "num": 92262,
       "word": "中方回应朝鲜向东部海域发射导弹",
@@ -419,14 +499,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 53623,
-      "num": 94578,
-      "word": "女子随夫姓30余年想改回原名遇阻",
-      "onboard_time": 1769620397,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 53553,
       "num": 53553,
       "word": "机构看涨黄金到7100美元",
@@ -443,20 +515,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 52498,
+      "num": 92272,
+      "word": "金巧巧说宋威龙是亚洲第二帅",
+      "onboard_time": 1769620937,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 51466,
       "num": 51466,
       "word": "李兰迪 耳环消失术",
       "onboard_time": 1769609002,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 49736,
-      "num": 92903,
-      "word": "金价波动",
-      "onboard_time": 1769602582,
-      "rank": 48,
-      "category": "财经"
     },
     {
       "raw_hot": 49689,
@@ -499,12 +571,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 33419,
+      "num": 81383,
+      "word": "卢旺达严重交通事故致中国公民伤亡",
+      "onboard_time": 1769626095,
+      "rank": 44,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 31615,
+      "num": 44428,
+      "word": "胖东来回应金条库存",
+      "onboard_time": 1769641217,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31582,
       "num": 31582,
       "word": "创新药加速背后是更多的安心",
       "onboard_time": 1769619916,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 30921,
+      "num": 92270,
+      "word": "突然的喜欢",
+      "onboard_time": 1769603001,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 30843,
@@ -515,20 +611,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 30696,
-      "num": 92272,
-      "word": "金巧巧说宋威龙是亚洲第二帅",
-      "onboard_time": 1769620937,
-      "rank": 35,
-      "category": "艺人"
+      "raw_hot": 29218,
+      "num": 44423,
+      "word": "三角洲",
+      "onboard_time": 1769642598,
+      "rank": 45,
+      "category": "游戏"
     },
     {
-      "raw_hot": 24708,
-      "num": 92270,
-      "word": "突然的喜欢",
-      "onboard_time": 1769603001,
+      "raw_hot": 28461,
+      "num": 44422,
+      "word": "本菲卡4比2皇马",
+      "onboard_time": 1769642477,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 27537,
+      "num": 63628,
+      "word": "孩子去年才知道李娜是干嘛的",
+      "onboard_time": 1769609062,
       "rank": 49,
-      "category": "剧集"
+      "category": "体育"
     },
     {
       "raw_hot": 21505,
@@ -537,14 +641,6 @@
       "onboard_time": 1769621776,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 20346,
-      "num": 81383,
-      "word": "卢旺达严重交通事故致中国公民伤亡",
-      "onboard_time": 1769626095,
-      "rank": 44,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 20328,
@@ -563,16 +659,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 16398,
-      "num": 63628,
-      "word": "孩子去年才知道李娜是干嘛的",
-      "onboard_time": 1769609062,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 15230,
-      "num": 316810,
+      "raw_hot": 15391,
+      "num": 497217,
       "word": "当冰雪大地邂逅璀璨星空",
       "onboard_time": 1769604501,
       "rank": 2,
