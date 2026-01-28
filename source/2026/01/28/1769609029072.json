@@ -1,0 +1,410 @@
+{
+  "runTime": 1769609029072,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 598266,
+        "num": 1095722,
+        "word": "微博之夜",
+        "onboard_time": 1769601681,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 499905,
+        "num": 796077,
+        "word": "男子买15元彩票中1404万",
+        "onboard_time": 1769606842,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47189,
+        "num": 610881,
+        "word": "政务应用程序管理新规发布",
+        "onboard_time": 1769604981,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 280318,
+        "num": 280318,
+        "word": "微博之夜简笔画",
+        "onboard_time": 1769599881,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 254845,
+        "num": 254845,
+        "word": "贝加尔湖车祸75岁中国籍女性死亡",
+        "onboard_time": 1769604082,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 250747,
+        "num": 250747,
+        "word": "李川居然是因为裸辞而出道的",
+        "onboard_time": 1769603841,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233857,
+        "num": 233857,
+        "word": "美国打了美国",
+        "onboard_time": 1769606061,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 227199,
+        "num": 227199,
+        "word": "银价波动",
+        "onboard_time": 1769606902,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 192590,
+        "num": 192590,
+        "word": "胖东来金条只剩十来块了",
+        "onboard_time": 1769603120,
+        "rank": 8,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 189063,
+        "num": 189063,
+        "word": "生育津贴到手3万却被申领10万元",
+        "onboard_time": 1769590820,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 256580,
+        "num": 188212,
+        "word": "杨紫为上镜暴瘦15斤",
+        "onboard_time": 1769608282,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 248531,
+        "num": 185098,
+        "word": "张子墨 计划有变准备登陆日2026",
+        "onboard_time": 1769602101,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200227,
+        "num": 181335,
+        "word": "韩国素媛案凶手再入狱",
+        "onboard_time": 1769589981,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 228735,
+        "num": 176795,
+        "word": "阚清子近照状态",
+        "onboard_time": 1769608162,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175603,
+        "num": 175603,
+        "word": "伊朗总统宣布启动紧急状态",
+        "onboard_time": 1769606002,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 170163,
+        "num": 170163,
+        "word": "盒马错发水仙女子索赔375万降至48万",
+        "onboard_time": 1769596641,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154713,
+        "num": 154713,
+        "word": "年少有为定档",
+        "onboard_time": 1769602401,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134467,
+        "num": 134467,
+        "word": "别告诉我这是最近的Angelababy",
+        "onboard_time": 1769601321,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126608,
+        "num": 126608,
+        "word": "假如方圆脸减肥成功",
+        "onboard_time": 1769605521,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 109853,
+        "num": 109853,
+        "word": "TTG对战KSG",
+        "onboard_time": 1769606242,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 4915367,
+        "num": 109834,
+        "word": "金子涵拉黑蔡徐坤",
+        "onboard_time": 1769598862,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 484169,
+        "num": 109827,
+        "word": "女网红回应与买超恋情",
+        "onboard_time": 1769607381,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183706,
+        "num": 109788,
+        "word": "金价波动",
+        "onboard_time": 1769602582,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 109700,
+        "num": 109700,
+        "word": "银行取消5年期存款意味着什么",
+        "onboard_time": 1769590761,
+        "rank": 23,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 169050,
+        "num": 107948,
+        "word": "小海绵长到我刚认识baby的年纪了",
+        "onboard_time": 1769574742,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123034,
+        "num": 107552,
+        "word": "朴彩英曾扮成老奶奶去约会",
+        "onboard_time": 1769608881,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101463,
+        "num": 104466,
+        "word": "1名中国籍游客俄罗斯死亡",
+        "onboard_time": 1769592802,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104093,
+        "num": 104093,
+        "word": "生命树未播热度",
+        "onboard_time": 1769608521,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103853,
+        "num": 103853,
+        "word": "微博之夜抢票",
+        "onboard_time": 1769585239,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 90381,
+        "num": 103108,
+        "word": "多家三甲医院推出外卖",
+        "onboard_time": 1769606002,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102902,
+        "num": 102902,
+        "word": "爱情公寓真的是太超前了",
+        "onboard_time": 1769595921,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99256,
+        "num": 99256,
+        "word": "虞书欣断层领跑亿屏之选人气女演员",
+        "onboard_time": 1769597902,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87375,
+        "num": 99089,
+        "word": "贝克汉姆大儿子风波后首更新ins",
+        "onboard_time": 1769604201,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98936,
+        "num": 99063,
+        "word": "朴彩英自曝多段恋情",
+        "onboard_time": 1769608881,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99039,
+        "num": 99039,
+        "word": "张艺兴不齐舞团一起跳大花轿",
+        "onboard_time": 1769601801,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86257,
+        "num": 99017,
+        "word": "人生就是尽可能健康地活着",
+        "onboard_time": 1769609002,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 99009,
+        "num": 99009,
+        "word": "迪丽热巴陈飞宇将录你好星期六",
+        "onboard_time": 1769607202,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95566,
+        "num": 95566,
+        "word": "展轩问胡一天你多高啊",
+        "onboard_time": 1769607022,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79399,
+        "num": 79399,
+        "word": "谷爱凌说世界不会原谅我了",
+        "onboard_time": 1769588480,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77071,
+        "num": 77071,
+        "word": "6件事养回消耗的气血",
+        "onboard_time": 1769607923,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 94466,
+        "num": 77070,
+        "word": "太平年",
+        "onboard_time": 1769606122,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76995,
+        "num": 76995,
+        "word": "杨博文憋笑快把自己憋哭了",
+        "onboard_time": 1769607322,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74735,
+        "num": 74735,
+        "word": "这些信号提示免疫力正在下降",
+        "onboard_time": 1769605221,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 76261,
+        "num": 73335,
+        "word": "王玉雯回复陈星旭",
+        "onboard_time": 1769607625,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 71183,
+        "num": 71183,
+        "word": "李兰迪 耳环消失术",
+        "onboard_time": 1769609002,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71079,
+        "num": 71079,
+        "word": "冬天吃着吃着就瘦了的食谱",
+        "onboard_time": 1769606422,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 65907,
+        "num": 65907,
+        "word": "金价",
+        "onboard_time": 1769605460,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 66913,
+        "num": 65736,
+        "word": "男子中1404万大奖一夜没睡",
+        "onboard_time": 1769607742,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65499,
+        "num": 65499,
+        "word": "免费续面到底限几次",
+        "onboard_time": 1769605402,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69521,
+        "num": 65469,
+        "word": "媒体说李兰迪完全不用P图",
+        "onboard_time": 1769604442,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#冰雪春天#"
+    }
+  }
+}

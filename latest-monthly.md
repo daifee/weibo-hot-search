@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/28 21:30:45
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/28 22:03:49
 </p>
 </blockquote>
 <p>
@@ -5733,6 +5733,12 @@ iPhone4需求激增近1000%（热度：506886）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B9%B015%E5%85%83%E5%BD%A9%E7%A5%A8%E4%B8%AD1404%E4%B8%87%23" target="weibo">
+男子买15元彩票中1404万（热度：499905）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%B9%B8%E5%90%8C%20%E5%91%A8%E5%90%AF%E8%B1%AA%23" target="weibo">
 陈幸同 周启豪（热度：499083）
 </a>
@@ -6005,12 +6011,6 @@ iPhone4需求激增近1000%（热度：506886）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E8%B4%A8%E7%96%91%E5%B0%8F%E6%BE%88%E6%A3%80%E6%B5%8B%E6%8A%A5%E5%91%8A%23" target="weibo">
 网友质疑小澈检测报告（热度：486298）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A7%9F%E5%AE%A2%E6%B7%B1%E5%A4%9C%E5%8F%91%E6%95%91%E5%91%BD%E6%88%BF%E4%B8%9C%E9%86%92%E6%9D%A5%E6%BB%A1%E6%A5%BC%E8%A1%80%E8%BF%B9%23" target="weibo">
-租客深夜发救命房东醒来满楼血迹（热度：486293）
 </a>
 </li>
 

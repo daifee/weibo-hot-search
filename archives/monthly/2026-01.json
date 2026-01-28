@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769607045224,
+  "endTime": 1769609029072,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -3148,7 +3148,7 @@
     },
     {
       "raw_hot": 762482,
-      "num": 1079600,
+      "num": 1095722,
       "word": "微博之夜",
       "onboard_time": 1767249260,
       "rank": 31,
@@ -7627,6 +7627,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 499905,
+      "num": 796077,
+      "word": "男子买15元彩票中1404万",
+      "onboard_time": 1769606842,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 499083,
       "num": 190488,
       "word": "陈幸同 周启豪",
@@ -8097,6 +8105,14 @@
       "onboard_time": 1767510502,
       "rank": 23,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 484169,
+      "num": 109827,
+      "word": "女网红回应与买超恋情",
+      "onboard_time": 1769607381,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 483754,
@@ -19443,6 +19459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 256580,
+      "num": 188212,
+      "word": "杨紫为上镜暴瘦15斤",
+      "onboard_time": 1769608282,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 256527,
       "num": 256527,
       "word": "以为的淡妆vs实际上的淡妆",
@@ -21299,6 +21323,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 233857,
+      "num": 233857,
+      "word": "美国打了美国",
+      "onboard_time": 1769606061,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 233828,
       "num": 206461,
       "word": "白鹿敖瑞鹏白月梵星一周年售后",
@@ -21779,6 +21811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 228735,
+      "num": 176795,
+      "word": "阚清子近照状态",
+      "onboard_time": 1769608162,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 228635,
       "num": 634237,
       "word": "张子枫时隔四年回归剧圈",
@@ -21897,6 +21937,14 @@
       "onboard_time": 1769322801,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 227199,
+      "num": 227199,
+      "word": "银价波动",
+      "onboard_time": 1768913841,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 227021,
@@ -26539,6 +26587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 192590,
+      "num": 254354,
+      "word": "胖东来金条只剩十来块了",
+      "onboard_time": 1769603120,
+      "rank": 8,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 192567,
       "num": 150561,
       "word": "王一博看到小猫偷吃的反应",
@@ -29579,6 +29635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175603,
+      "num": 175603,
+      "word": "伊朗总统宣布启动紧急状态",
+      "onboard_time": 1769606002,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 175546,
       "num": 175546,
       "word": "宋轶的裙子上有99朵玫瑰花",
@@ -30801,14 +30865,6 @@
       "onboard_time": 1767839480,
       "rank": 30,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 168962,
-      "num": 254354,
-      "word": "胖东来金条只剩十来块了",
-      "onboard_time": 1769603120,
-      "rank": 8,
-      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 168889,
@@ -42627,6 +42683,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 126608,
+      "num": 126608,
+      "word": "假如方圆脸减肥成功",
+      "onboard_time": 1769605521,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 126600,
       "num": 126600,
       "word": "七七赵钰琪1分钟视频报价1万",
@@ -44048,6 +44112,14 @@
       "word": "周震南是不是忘切小号了",
       "onboard_time": 1768534101,
       "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 123034,
+      "num": 107552,
+      "word": "朴彩英曾扮成老奶奶去约会",
+      "onboard_time": 1769608881,
+      "rank": 25,
       "category": "艺人"
     },
     {
@@ -48379,14 +48451,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 113895,
-      "num": 113895,
-      "word": "假如方圆脸减肥成功",
-      "onboard_time": 1769605521,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 113878,
       "num": 113878,
       "word": "聂曦光舅妈中了风腾集团的设计标",
@@ -50329,6 +50393,14 @@
       "onboard_time": 1769353881,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 109853,
+      "num": 109853,
+      "word": "TTG对战KSG",
+      "onboard_time": 1769606242,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 109805,
@@ -53555,6 +53627,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 104093,
+      "num": 104093,
+      "word": "生命树未播热度",
+      "onboard_time": 1769608521,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 104092,
       "num": 104092,
       "word": "Scout想和Faker中野组合被拒",
@@ -54049,14 +54129,6 @@
       "onboard_time": 1768280180,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 103431,
-      "num": 101427,
-      "word": "美国打了美国",
-      "onboard_time": 1769606061,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 103422,
@@ -55107,14 +55179,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 101682,
-      "num": 101682,
-      "word": "银价波动",
-      "onboard_time": 1768913841,
-      "rank": 45,
-      "category": "财经"
-    },
-    {
       "raw_hot": 101670,
       "num": 250992,
       "word": "河北村民预计今冬取暖费要8000元",
@@ -55521,14 +55585,6 @@
       "onboard_time": 1768190660,
       "rank": 43,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 100982,
-      "num": 100982,
-      "word": "男子买15元彩票中1404万",
-      "onboard_time": 1769606842,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 100949,
@@ -56883,6 +56939,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 99009,
+      "num": 99009,
+      "word": "迪丽热巴陈飞宇将录你好星期六",
+      "onboard_time": 1769607202,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 99006,
       "num": 99006,
       "word": "静音车厢列车将增至超8000列",
@@ -56945,6 +57009,14 @@
       "onboard_time": 1767798385,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 98936,
+      "num": 99063,
+      "word": "朴彩英自曝多段恋情",
+      "onboard_time": 1769608881,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 98934,
@@ -59547,6 +59619,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 95566,
+      "num": 95566,
+      "word": "展轩问胡一天你多高啊",
+      "onboard_time": 1769607022,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 95564,
       "num": 95564,
       "word": "新疆有看不完的梦幻仙境",
@@ -61441,14 +61521,6 @@
       "onboard_time": 1768367602,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 92935,
-      "num": 109697,
-      "word": "伊朗总统宣布启动紧急状态",
-      "onboard_time": 1769606002,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 92931,
@@ -63499,6 +63571,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 90381,
+      "num": 103108,
+      "word": "多家三甲医院推出外卖",
+      "onboard_time": 1769606002,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90370,
       "num": 90370,
       "word": "原来拍立得白边下还有图",
@@ -64241,14 +64321,6 @@
       "onboard_time": 1768620620,
       "rank": 29,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 89433,
-      "num": 89433,
-      "word": "多家三甲医院推出外卖",
-      "onboard_time": 1769606002,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 89393,
@@ -66769,6 +66841,14 @@
       "onboard_time": 1768104498,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 86257,
+      "num": 99017,
+      "word": "人生就是尽可能健康地活着",
+      "onboard_time": 1769609002,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 86225,
@@ -73067,6 +73147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 77071,
+      "num": 77071,
+      "word": "6件事养回消耗的气血",
+      "onboard_time": 1769607923,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 77070,
       "num": 88467,
       "word": "一觉醒来内娱新梗又诞生了",
@@ -73128,6 +73216,14 @@
       "word": "站张凌赫身边很难不亲上去",
       "onboard_time": 1769574681,
       "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 76995,
+      "num": 76995,
+      "word": "杨博文憋笑快把自己憋哭了",
+      "onboard_time": 1769607322,
+      "rank": 41,
       "category": "艺人"
     },
     {
@@ -73545,6 +73641,14 @@
       "onboard_time": 1769593521,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 76261,
+      "num": 73335,
+      "word": "王玉雯回复陈星旭",
+      "onboard_time": 1769607625,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 76257,
@@ -74547,14 +74651,6 @@
       "category": "幽默,休闲"
     },
     {
-      "raw_hot": 74448,
-      "num": 73907,
-      "word": "TTG对战KSG",
-      "onboard_time": 1769606242,
-      "rank": 48,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 74404,
       "num": 74404,
       "word": "美国已有超7000架次航班被取消",
@@ -74905,14 +75001,6 @@
       "onboard_time": 1769594361,
       "rank": 45,
       "category": "财经"
-    },
-    {
-      "raw_hot": 73825,
-      "num": 73825,
-      "word": "展轩问胡一天你多高啊",
-      "onboard_time": 1769607022,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 73813,
@@ -76001,6 +76089,14 @@
       "onboard_time": 1769320099,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 71183,
+      "num": 71183,
+      "word": "李兰迪 耳环消失术",
+      "onboard_time": 1769609002,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 71167,
@@ -77792,6 +77888,14 @@
       "word": "张小泉非一体式剪刀被疑设计问题",
       "onboard_time": 1768979479,
       "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 66913,
+      "num": 65736,
+      "word": "男子中1404万大奖一夜没睡",
+      "onboard_time": 1769607742,
+      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -83387,6 +83491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 47189,
+      "num": 619287,
+      "word": "政务应用程序管理新规发布",
+      "onboard_time": 1769604981,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 47171,
       "num": 272000,
       "word": "张晚意元旦跟谁过",
@@ -85817,14 +85929,6 @@
       "onboard_time": 1767349280,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 38524,
-      "num": 619287,
-      "word": "政务应用程序管理新规发布",
-      "onboard_time": 1769604981,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 38507,

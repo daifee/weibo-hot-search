@@ -1,6 +1,6 @@
 {
   "startTime": 1769531989527,
-  "endTime": 1769607045224,
+  "endTime": 1769609029072,
   "band_list": [
     {
       "raw_hot": 11494198,
@@ -155,6 +155,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 598266,
+      "num": 1095722,
+      "word": "微博之夜",
+      "onboard_time": 1769487741,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 559447,
       "num": 1089511,
       "word": "印度坠毁飞机机上人员全遇难",
@@ -195,12 +203,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 497503,
-      "num": 1079600,
-      "word": "微博之夜",
-      "onboard_time": 1769487741,
-      "rank": 35,
-      "category": "作品衍生"
+      "raw_hot": 499905,
+      "num": 796077,
+      "word": "男子买15元彩票中1404万",
+      "onboard_time": 1769606842,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 495995,
@@ -233,6 +241,14 @@
       "onboard_time": 1769585239,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 484169,
+      "num": 109827,
+      "word": "女网红回应与买超恋情",
+      "onboard_time": 1769607381,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 483073,
@@ -579,6 +595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 256580,
+      "num": 188212,
+      "word": "杨紫为上镜暴瘦15斤",
+      "onboard_time": 1769608282,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 253755,
       "num": 87675,
       "word": "内娱至今无一人塌房的全女综艺",
@@ -651,6 +675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 233857,
+      "num": 233857,
+      "word": "美国打了美国",
+      "onboard_time": 1769606061,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 231468,
       "num": 231468,
       "word": "那英 何老师我又来了",
@@ -665,6 +697,22 @@
       "onboard_time": 1769588120,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 228735,
+      "num": 176795,
+      "word": "阚清子近照状态",
+      "onboard_time": 1769608162,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 227199,
+      "num": 227199,
+      "word": "银价波动",
+      "onboard_time": 1769606902,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 226992,
@@ -787,6 +835,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 192590,
+      "num": 254354,
+      "word": "胖东来金条只剩十来块了",
+      "onboard_time": 1769603120,
+      "rank": 8,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 189416,
       "num": 114909,
       "word": "虞书欣断层领跑亿屏之选人气女演员",
@@ -827,6 +883,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 175603,
+      "num": 175603,
+      "word": "伊朗总统宣布启动紧急状态",
+      "onboard_time": 1769606002,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 173732,
       "num": 167195,
       "word": "高市早苗拉票边哭边诉苦",
@@ -865,14 +929,6 @@
       "onboard_time": 1769595921,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 168962,
-      "num": 254354,
-      "word": "胖东来金条只剩十来块了",
-      "onboard_time": 1769603120,
-      "rank": 8,
-      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 167606,
@@ -1211,6 +1267,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 126608,
+      "num": 126608,
+      "word": "假如方圆脸减肥成功",
+      "onboard_time": 1769605521,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 126001,
       "num": 126001,
       "word": "穆塞蒂vs德约科维奇",
@@ -1273,6 +1337,14 @@
       "onboard_time": 1769519541,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 123034,
+      "num": 107552,
+      "word": "朴彩英曾扮成老奶奶去约会",
+      "onboard_time": 1769608881,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 122964,
@@ -1403,14 +1475,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 113895,
-      "num": 113895,
-      "word": "假如方圆脸减肥成功",
-      "onboard_time": 1769605521,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 113531,
       "num": 113531,
       "word": "江疏影 野心是我最好的医美",
@@ -1497,6 +1561,14 @@
       "onboard_time": 1769582960,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 109853,
+      "num": 109853,
+      "word": "TTG对战KSG",
+      "onboard_time": 1769606242,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 109507,
@@ -1611,20 +1683,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 104093,
+      "num": 104093,
+      "word": "生命树未播热度",
+      "onboard_time": 1769608521,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 103904,
       "num": 103904,
       "word": "王楚钦孙逊肖指导备战亚洲杯",
       "onboard_time": 1769578041,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 103431,
-      "num": 101427,
-      "word": "美国打了美国",
-      "onboard_time": 1769606061,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 103339,
@@ -1691,14 +1763,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 100982,
-      "num": 100982,
-      "word": "男子买15元彩票中1404万",
-      "onboard_time": 1769606842,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 100454,
       "num": 100191,
       "word": "冰雨火大舅哥吐槽cp粉",
@@ -1728,6 +1792,22 @@
       "word": "秦牛正威转行酒吧主理人",
       "onboard_time": 1769600422,
       "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 99009,
+      "num": 99009,
+      "word": "迪丽热巴陈飞宇将录你好星期六",
+      "onboard_time": 1769607202,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 98936,
+      "num": 99063,
+      "word": "朴彩英自曝多段恋情",
+      "onboard_time": 1769608881,
+      "rank": 33,
       "category": "艺人"
     },
     {
@@ -1793,6 +1873,14 @@
       "onboard_time": 1769595562,
       "rank": 30,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 95566,
+      "num": 95566,
+      "word": "展轩问胡一天你多高啊",
+      "onboard_time": 1769607022,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 95201,
@@ -1881,14 +1969,6 @@
       "onboard_time": 1769589259,
       "rank": 42,
       "category": "财经"
-    },
-    {
-      "raw_hot": 92935,
-      "num": 109697,
-      "word": "伊朗总统宣布启动紧急状态",
-      "onboard_time": 1769606002,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 92700,
@@ -1995,6 +2075,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 90381,
+      "num": 103108,
+      "word": "多家三甲医院推出外卖",
+      "onboard_time": 1769606002,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90251,
       "num": 90251,
       "word": "RW发文用野草形容我吧",
@@ -2059,14 +2147,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 89433,
-      "num": 89433,
-      "word": "多家三甲医院推出外卖",
-      "onboard_time": 1769606002,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 89301,
       "num": 89301,
       "word": "RW战胜RNGM",
@@ -2129,6 +2209,14 @@
       "onboard_time": 1769571200,
       "rank": 27,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 86257,
+      "num": 99017,
+      "word": "人生就是尽可能健康地活着",
+      "onboard_time": 1769609002,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 86195,
@@ -2371,11 +2459,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 77071,
+      "num": 77071,
+      "word": "6件事养回消耗的气血",
+      "onboard_time": 1769607923,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 76995,
       "num": 104669,
       "word": "站张凌赫身边很难不亲上去",
       "onboard_time": 1769574681,
       "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 76995,
+      "num": 76995,
+      "word": "杨博文憋笑快把自己憋哭了",
+      "onboard_time": 1769607322,
+      "rank": 41,
       "category": "艺人"
     },
     {
@@ -2411,12 +2515,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 76152,
-      "num": 76152,
-      "word": "银价波动",
-      "onboard_time": 1769606902,
-      "rank": 45,
-      "category": "财经"
+      "raw_hot": 76261,
+      "num": 73335,
+      "word": "王玉雯回复陈星旭",
+      "onboard_time": 1769607625,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 75818,
@@ -2467,14 +2571,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 74448,
-      "num": 73907,
-      "word": "TTG对战KSG",
-      "onboard_time": 1769606242,
-      "rank": 48,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 73948,
       "num": 73948,
       "word": "苹果和山楂放在一起",
@@ -2489,14 +2585,6 @@
       "onboard_time": 1769594361,
       "rank": 45,
       "category": "财经"
-    },
-    {
-      "raw_hot": 73825,
-      "num": 73825,
-      "word": "展轩问胡一天你多高啊",
-      "onboard_time": 1769607022,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 73676,
@@ -2569,6 +2657,14 @@
       "onboard_time": 1769566459,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 71183,
+      "num": 71183,
+      "word": "李兰迪 耳环消失术",
+      "onboard_time": 1769609002,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 70989,
@@ -2657,6 +2753,14 @@
       "onboard_time": 1769525061,
       "rank": 29,
       "category": "美食"
+    },
+    {
+      "raw_hot": 66913,
+      "num": 65736,
+      "word": "男子中1404万大奖一夜没睡",
+      "onboard_time": 1769607742,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 66797,
@@ -2883,6 +2987,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 47189,
+      "num": 619287,
+      "word": "政务应用程序管理新规发布",
+      "onboard_time": 1769604981,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 47143,
       "num": 47143,
       "word": "提到iPhoneAir销量卖手机的笑了",
@@ -2977,14 +3089,6 @@
       "onboard_time": 1769606301,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 38524,
-      "num": 619287,
-      "word": "政务应用程序管理新规发布",
-      "onboard_time": 1769604981,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 37764,
