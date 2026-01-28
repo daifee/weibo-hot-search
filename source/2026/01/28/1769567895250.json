@@ -1,0 +1,410 @@
+{
+  "runTime": 1769567895250,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 287006,
+        "num": 1045921,
+        "word": "团播不得浓妆艳抹过度磨皮美颜",
+        "onboard_time": 1769529081,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 267540,
+        "num": 775382,
+        "word": "1克黄金竟能打造一张完整黄金婚书",
+        "onboard_time": 1769524342,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 9170,
+        "num": 624782,
+        "word": "2026逐梦中国",
+        "onboard_time": 1769519663,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158259,
+        "num": 158259,
+        "word": "美向以色列通报对伊朗军事行动准备",
+        "onboard_time": 1769565078,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 148868,
+        "num": 148868,
+        "word": "旅日大熊猫回国走出快乐步伐",
+        "onboard_time": 1769565920,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 760517,
+        "num": 148427,
+        "word": "拒绝暗示性求助",
+        "onboard_time": 1769565259,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 179397,
+        "num": 147993,
+        "word": "金饰克价突破1620元",
+        "onboard_time": 1769567239,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 130040,
+        "num": 147594,
+        "word": "杨瀚森勾手",
+        "onboard_time": 1769567299,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121407,
+        "num": 147143,
+        "word": "崩坏星穹铁道",
+        "onboard_time": 1769556317,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 120214,
+        "num": 146471,
+        "word": "6岁男孩高烧5天查出白血病",
+        "onboard_time": 1769557578,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 483073,
+        "num": 146249,
+        "word": "肖战会去救马云",
+        "onboard_time": 1769566338,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 446392,
+        "num": 145833,
+        "word": "邓超减掉40斤时连嚼的力气都没有",
+        "onboard_time": 1769566399,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 359247,
+        "num": 145366,
+        "word": "盒马误送有毒水仙球致老人孩子中毒",
+        "onboard_time": 1769557160,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 226291,
+        "num": 144829,
+        "word": "杨紫Duang的一下就坐下去了",
+        "onboard_time": 1769563819,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209322,
+        "num": 143941,
+        "word": "结了婚才知道纸有那么多种类型",
+        "onboard_time": 1769565438,
+        "rank": 14,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 188387,
+        "num": 143442,
+        "word": "张译上过的所有学校都倒闭了",
+        "onboard_time": 1769564840,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143424,
+        "num": 143424,
+        "word": "原来TFBOYS以前这么苦",
+        "onboard_time": 1769525422,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114711,
+        "num": 114711,
+        "word": "iPhone4S为何突然迎来第二春",
+        "onboard_time": 1769528120,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 114910,
+        "num": 113316,
+        "word": "鞠婧祎彝族服饰路透",
+        "onboard_time": 1769565438,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107610,
+        "num": 107610,
+        "word": "澳网",
+        "onboard_time": 1769567422,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203943,
+        "num": 107279,
+        "word": "周深自曝身高1.61米",
+        "onboard_time": 1769557819,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185705,
+        "num": 106254,
+        "word": "黄金",
+        "onboard_time": 1769517320,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 161674,
+        "num": 105056,
+        "word": "黄金白银再涨爆",
+        "onboard_time": 1769563639,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 9367,
+        "num": 104132,
+        "word": "人民日报评幽灵外卖无良作坊",
+        "onboard_time": 1769567659,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149591,
+        "num": 103714,
+        "word": "虞书欣起诉多方侵犯肖像权",
+        "onboard_time": 1769567720,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103145,
+        "num": 103145,
+        "word": "北海道罕见暴雪游客称这辈子再也不来",
+        "onboard_time": 1769556438,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 138350,
+        "num": 101817,
+        "word": "白银",
+        "onboard_time": 1769526860,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 132562,
+        "num": 101746,
+        "word": "金饰克价一夜大涨37元",
+        "onboard_time": 1769566459,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 107448,
+        "num": 101404,
+        "word": "店主在穿脏退回的衣服掏出100元",
+        "onboard_time": 1769523142,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99900,
+        "num": 99900,
+        "word": "澳大利亚多地逼近50℃",
+        "onboard_time": 1769527040,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 195891,
+        "num": 99597,
+        "word": "科比大女儿发文缅怀",
+        "onboard_time": 1769566338,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98603,
+        "num": 98603,
+        "word": "河南夫妻36万枚鸡蛋卖出36万元",
+        "onboard_time": 1769556438,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90889,
+        "num": 90889,
+        "word": "一种很新的旅行方式",
+        "onboard_time": 1769565199,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 87841,
+        "num": 87841,
+        "word": "大批中成药将退出市场",
+        "onboard_time": 1769521101,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 86674,
+        "num": 86674,
+        "word": "运毒车逃逸时坠河470万颗冰毒落水",
+        "onboard_time": 1769531599,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 85246,
+        "num": 85246,
+        "word": "女子买100克黄金轮胎手镯赚4万多",
+        "onboard_time": 1769528721,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83674,
+        "num": 83674,
+        "word": "身体进入缺觉模式的表现",
+        "onboard_time": 1769559740,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 80666,
+        "num": 80666,
+        "word": "金饰克价涨到1614元",
+        "onboard_time": 1769567299,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 30131,
+        "num": 80592,
+        "word": "金莎孙丞潇求婚后首次上恋综",
+        "onboard_time": 1769567059,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 8234,
+        "num": 80572,
+        "word": "市政道路竣工2年多未交付",
+        "onboard_time": 1769567659,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80556,
+        "num": 80556,
+        "word": "Mike聚餐穿了何与送的衣服",
+        "onboard_time": 1769565979,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80412,
+        "num": 80412,
+        "word": "女子充完电扔充电枪开车碾压",
+        "onboard_time": 1769556798,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76459,
+        "num": 76459,
+        "word": "黄仁勋现身深圳吃牛肉火锅",
+        "onboard_time": 1769566459,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 76143,
+        "num": 76143,
+        "word": "美国前总统反对美国现政府",
+        "onboard_time": 1769560640,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 75801,
+        "num": 75801,
+        "word": "曝TFBOYS小时候没钱吃饭",
+        "onboard_time": 1769565499,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75184,
+        "num": 75184,
+        "word": "雷军问大家玩过鹅鸭杀吗",
+        "onboard_time": 1769567840,
+        "rank": 45,
+        "category": "互联网,游戏"
+      },
+      {
+        "raw_hot": 73676,
+        "num": 73676,
+        "word": "美利云一字涨停",
+        "onboard_time": 1769567239,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 73157,
+        "num": 73157,
+        "word": "通勤包越来越抽象了",
+        "onboard_time": 1769565739,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 72261,
+        "num": 72261,
+        "word": "iPhone18有望不涨价",
+        "onboard_time": 1769567059,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 71514,
+        "num": 71514,
+        "word": "尼帕病毒致死率高",
+        "onboard_time": 1769566459,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#冷资源带动热经济#"
+    }
+  }
+}
