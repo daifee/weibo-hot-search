@@ -1,6 +1,6 @@
 {
   "startTime": 1769531989527,
-  "endTime": 1769582863334,
+  "endTime": 1769583684842,
   "band_list": [
     {
       "raw_hot": 1146034,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 770862,
-      "num": 518128,
+      "num": 552767,
       "word": "女子考编第1政审不合格后续",
       "onboard_time": 1769579300,
       "rank": 5,
@@ -115,6 +115,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 493738,
+      "num": 1078998,
+      "word": "银价疯涨后银饰一口价变克重计价",
+      "onboard_time": 1769579181,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
       "raw_hot": 483073,
       "num": 175109,
       "word": "肖战会去救马云",
@@ -153,14 +161,6 @@
       "onboard_time": 1769569040,
       "rank": 6,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 395632,
-      "num": 395632,
-      "word": "银价疯涨后银饰一口价变克重计价",
-      "onboard_time": 1769579181,
-      "rank": 30,
-      "category": "财经"
     },
     {
       "raw_hot": 377495,
@@ -209,6 +209,14 @@
       "onboard_time": 1769575102,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 330768,
+      "num": 330768,
+      "word": "烤鱼店老板投喂流浪猫躲过一劫",
+      "onboard_time": 1769577381,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 318292,
@@ -267,12 +275,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 280770,
-      "num": 280770,
-      "word": "烤鱼店老板投喂流浪猫躲过一劫",
-      "onboard_time": 1769577381,
-      "rank": 25,
-      "category": "民生新闻"
+      "raw_hot": 276077,
+      "num": 276077,
+      "word": "阚清子乔海伦打卡上班第一天",
+      "onboard_time": 1769583019,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 271201,
@@ -347,19 +355,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 226992,
+      "num": 226992,
+      "word": "男子卖金条借朋友14万要求还30万",
+      "onboard_time": 1769575222,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 214228,
       "num": 735682,
       "word": "湖南省考多地监狱岗位仅招艺术类",
       "onboard_time": 1769524043,
       "rank": 0,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 212214,
-      "num": 212214,
-      "word": "男子卖金条借朋友14万要求还30万",
-      "onboard_time": 1769575222,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -427,6 +435,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 198837,
+      "num": 198837,
+      "word": "素媛案罪犯违令外出再被判刑",
+      "onboard_time": 1769582600,
+      "rank": 24,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 188387,
       "num": 174044,
       "word": "张译上过的所有学校都倒闭了",
@@ -451,6 +467,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 173732,
+      "num": 167195,
+      "word": "高市早苗拉票边哭边诉苦",
+      "onboard_time": 1769582840,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 171733,
       "num": 356414,
       "word": "崩坏星穹铁道",
@@ -459,8 +483,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 170964,
-      "num": 131481,
+      "raw_hot": 171674,
+      "num": 171674,
       "word": "台退役军人想比照解放军免费进景区",
       "onboard_time": 1769581340,
       "rank": 30,
@@ -481,6 +505,14 @@
       "onboard_time": 1769528120,
       "rank": 19,
       "category": "数码"
+    },
+    {
+      "raw_hot": 162847,
+      "num": 162847,
+      "word": "谁给戚薇选的紫色丝袜",
+      "onboard_time": 1769582539,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 161674,
@@ -699,6 +731,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 126001,
+      "num": 126001,
+      "word": "穆塞蒂vs德约科维奇",
+      "onboard_time": 1769583079,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124893,
       "num": 124893,
       "word": "姜丹尼尔赖冠霖不参加wannaone重聚",
@@ -803,6 +843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 115660,
+      "num": 115660,
+      "word": "我做梦都不敢梦这样的公司",
+      "onboard_time": 1769582780,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 114910,
       "num": 113316,
       "word": "鞠婧祎彝族服饰路透",
@@ -824,6 +872,14 @@
       "word": "身体进入缺觉模式的表现",
       "onboard_time": 1769559740,
       "rank": 24,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 113451,
+      "num": 113451,
+      "word": "3种不健康的早餐搭配别再吃了",
+      "onboard_time": 1769579481,
+      "rank": 42,
       "category": "健康医疗"
     },
     {
@@ -883,20 +939,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 110099,
+      "num": 110099,
+      "word": "终于有人把我乱七八糟的梦拍出来了",
+      "onboard_time": 1769582960,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 109507,
       "num": 109507,
       "word": "宋威龙媒体好感度艺人TOP5",
       "onboard_time": 1769574202,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 108971,
-      "num": 108971,
-      "word": "3种不健康的早餐搭配别再吃了",
-      "onboard_time": 1769579481,
-      "rank": 42,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 108107,
@@ -1009,14 +1065,6 @@
       "onboard_time": 1769564538,
       "rank": 19,
       "category": "互联网,游戏"
-    },
-    {
-      "raw_hot": 102064,
-      "num": 94298,
-      "word": "谁给戚薇选的紫色丝袜",
-      "onboard_time": 1769582539,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 98603,
@@ -1139,6 +1187,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 90903,
+      "num": 90903,
+      "word": "本轮黄金上涨的核心支撑",
+      "onboard_time": 1769582900,
+      "rank": 41,
+      "category": "财经"
+    },
+    {
       "raw_hot": 90089,
       "num": 71964,
       "word": "女子在卫生间发现不雅标语引热议",
@@ -1161,6 +1217,14 @@
       "onboard_time": 1769577741,
       "rank": 37,
       "category": "游戏,互联网"
+    },
+    {
+      "raw_hot": 88956,
+      "num": 88956,
+      "word": "按摩按到王嘉尔了",
+      "onboard_time": 1769583440,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 87676,
@@ -1203,6 +1267,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 85044,
+      "num": 85044,
+      "word": "为什么年轻人要逃离朋友圈",
+      "onboard_time": 1769580682,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 85036,
       "num": 85036,
       "word": "才知道干电池可以直接扔了",
@@ -1243,20 +1315,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 80473,
+      "num": 80473,
+      "word": "原神兹白",
+      "onboard_time": 1769581940,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 80412,
       "num": 80412,
       "word": "女子充完电扔充电枪开车碾压",
       "onboard_time": 1769556798,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 80295,
-      "num": 80295,
-      "word": "高市早苗拉票边哭边诉苦",
-      "onboard_time": 1769582840,
-      "rank": 49,
-      "category": "国际时政"
     },
     {
       "raw_hot": 76995,
@@ -1273,14 +1345,6 @@
       "onboard_time": 1769562621,
       "rank": 35,
       "category": "财经"
-    },
-    {
-      "raw_hot": 76837,
-      "num": 158288,
-      "word": "素媛案罪犯违令外出再被判刑",
-      "onboard_time": 1769582600,
-      "rank": 24,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 76459,
@@ -1387,14 +1451,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 68672,
-      "num": 94761,
-      "word": "我做梦都不敢梦这样的公司",
-      "onboard_time": 1769582780,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 68593,
       "num": 68593,
       "word": "易烊千玺 造型",
@@ -1475,6 +1531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 57195,
+      "num": 187071,
+      "word": "男生可以接种HPV疫苗",
+      "onboard_time": 1769580381,
+      "rank": 17,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 55176,
       "num": 55176,
       "word": "男子要求错认16年的假父一家道歉",
@@ -1529,14 +1593,6 @@
       "onboard_time": 1769531780,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 48961,
-      "num": 187071,
-      "word": "男生可以接种HPV疫苗",
-      "onboard_time": 1769580381,
-      "rank": 17,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 48749,
@@ -1603,6 +1659,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 41137,
+      "num": 180177,
+      "word": "全家的偶像都被美团安排了",
+      "onboard_time": 1769580441,
+      "rank": 19,
+      "category": "艺人,互联网"
+    },
+    {
       "raw_hot": 37764,
       "num": 188127,
       "word": "喵娲娲开启微博之夜星空毯",
@@ -1657,6 +1721,14 @@
       "onboard_time": 1769569880,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 34840,
+      "num": 201449,
+      "word": "金建希首案被判20个月",
+      "onboard_time": 1769582059,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 33426,
@@ -1731,22 +1803,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 28171,
-      "num": 180177,
-      "word": "全家的偶像都被美团安排了",
-      "onboard_time": 1769580441,
-      "rank": 19,
-      "category": "艺人,互联网"
-    },
-    {
-      "raw_hot": 28129,
-      "num": 201449,
-      "word": "金建希首案被判20个月",
-      "onboard_time": 1769582059,
-      "rank": 9,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 27524,
       "num": 43602,
       "word": "Dior的鲜花一直盛开",
@@ -1817,6 +1873,14 @@
       "onboard_time": 1769566399,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 18308,
+      "num": 98312,
+      "word": "投资者称杰我睿平台涉资超百亿",
+      "onboard_time": 1769583620,
+      "rank": 38,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 18289,

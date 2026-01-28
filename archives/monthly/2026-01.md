@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/28 14:47:43
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/28 15:01:24
 </p>
 </blockquote>
 <p>
@@ -5787,6 +5787,12 @@ iPhone4需求激增近1000%（热度：506886）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%93%B6%E4%BB%B7%E7%96%AF%E6%B6%A8%E5%90%8E%E9%93%B6%E9%A5%B0%E4%B8%80%E5%8F%A3%E4%BB%B7%E5%8F%98%E5%85%8B%E9%87%8D%E8%AE%A1%E4%BB%B7%23" target="weibo">
+银价疯涨后银饰一口价变克重计价（热度：493738）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%99%E7%89%B9%E5%8F%88%E5%AE%A3%E5%B8%83%E5%8F%91%E7%8E%B0%E9%BB%84%E9%87%91%E8%B5%84%E6%BA%90%23" target="weibo">
 沙特又宣布发现黄金资源（热度：493562）
 </a>
@@ -6005,12 +6011,6 @@ TF二代吻戏第一人（热度：484726）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%9C%A8%E7%BA%A6%E5%8D%8A%E5%B0%8F%E6%97%B6%E5%86%85%E5%AE%A3%E7%A7%B0%E6%89%A3%E6%8A%BC%E4%B8%A4%E8%89%98%E6%B2%B9%E8%BD%AE%23" target="weibo">
 美国在约半小时内宣称扣押两艘油轮（热度：483754）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E4%BC%9A%E5%8E%BB%E6%95%91%E9%A9%AC%E4%BA%91%23" target="weibo">
-肖战会去救马云（热度：483073）
 </a>
 </li>
 
