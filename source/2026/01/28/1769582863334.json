@@ -1,0 +1,410 @@
+{
+  "runTime": 1769582863334,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 508045,
+        "num": 1081287,
+        "word": "印度坠毁飞机机上人员全遇难",
+        "onboard_time": 1769575940,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 396897,
+        "num": 757844,
+        "word": "微博之夜 星空毯",
+        "onboard_time": 1769575521,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 34430,
+        "num": 623514,
+        "word": "超8000列动车组提供静音车厢服务",
+        "onboard_time": 1769575700,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 770862,
+        "num": 518128,
+        "word": "女子考编第1政审不合格后续",
+        "onboard_time": 1769579300,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 395632,
+        "num": 395632,
+        "word": "银价疯涨后银饰一口价变克重计价",
+        "onboard_time": 1769579181,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 280770,
+        "num": 280770,
+        "word": "烤鱼店老板投喂流浪猫躲过一劫",
+        "onboard_time": 1769577381,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223015,
+        "num": 223015,
+        "word": "EXO官宣巡演",
+        "onboard_time": 1769577021,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 212214,
+        "num": 212214,
+        "word": "男子卖金条借朋友14万要求还30万",
+        "onboard_time": 1769575222,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202065,
+        "num": 202065,
+        "word": "女子考编第1政审不合格复核仍不合格",
+        "onboard_time": 1769580921,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28129,
+        "num": 201449,
+        "word": "金建希首案被判20个月",
+        "onboard_time": 1769582059,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1146034,
+        "num": 198640,
+        "word": "4.5天工作制",
+        "onboard_time": 1769576303,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 278189,
+        "num": 194780,
+        "word": "张晚意 个体户辟谣就是快",
+        "onboard_time": 1769575521,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210917,
+        "num": 193673,
+        "word": "玄彬回应儿子催孙艺珍吹蜡烛",
+        "onboard_time": 1769573179,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191869,
+        "num": 191869,
+        "word": "市长被查前刚就副市长被查主持会议",
+        "onboard_time": 1769574261,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 203279,
+        "num": 189728,
+        "word": "iPhone18标准版或明年发布",
+        "onboard_time": 1769577561,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 202828,
+        "num": 189552,
+        "word": "王者荣耀 白鹿",
+        "onboard_time": 1769571800,
+        "rank": 15,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 187448,
+        "num": 187448,
+        "word": "第一次给艺人穿鞋时我哭了",
+        "onboard_time": 1769575102,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48961,
+        "num": 187071,
+        "word": "男生可以接种HPV疫苗",
+        "onboard_time": 1769580381,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 50268,
+        "num": 181899,
+        "word": "跨越140年的热爱",
+        "onboard_time": 1769582120,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 28171,
+        "num": 180177,
+        "word": "全家的偶像都被美团安排了",
+        "onboard_time": 1769580441,
+        "rank": 19,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 701442,
+        "num": 173776,
+        "word": "小海绵长到我刚认识baby的年纪了",
+        "onboard_time": 1769574742,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236674,
+        "num": 171750,
+        "word": "金价暴涨女子卖300克黄金变现30万",
+        "onboard_time": 1769569040,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169329,
+        "num": 169329,
+        "word": "台湾退役军人能否免费进入大陆景区",
+        "onboard_time": 1769581220,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 168385,
+        "num": 168385,
+        "word": "白血病的征兆",
+        "onboard_time": 1769575461,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 76837,
+        "num": 158288,
+        "word": "素媛案罪犯违令外出再被判刑",
+        "onboard_time": 1769582600,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 61297,
+        "num": 152810,
+        "word": "杨紫家有儿女胡歌仙剑是同一年播的",
+        "onboard_time": 1769581640,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 148733,
+        "num": 148733,
+        "word": "杰我睿",
+        "onboard_time": 1769575700,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 143005,
+        "num": 143005,
+        "word": "大侦探",
+        "onboard_time": 1769574861,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134406,
+        "num": 134406,
+        "word": "不建议马桶使用蓝泡泡",
+        "onboard_time": 1769570361,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132705,
+        "num": 132705,
+        "word": "魏晨王鸥八生八世全BE",
+        "onboard_time": 1769581760,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170964,
+        "num": 131481,
+        "word": "台退役军人想比照解放军免费进景区",
+        "onboard_time": 1769581340,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 123687,
+        "num": 123687,
+        "word": "闵熙珍控诉NewJeans某成员家人操控股价",
+        "onboard_time": 1769579840,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123179,
+        "num": 123179,
+        "word": "阚清子特邀主演夜色正浓",
+        "onboard_time": 1769574861,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119916,
+        "num": 119916,
+        "word": "刘强东将拿下第7家上市公司",
+        "onboard_time": 1769579661,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 121896,
+        "num": 119336,
+        "word": "突然的喜欢水下吻居然是实拍",
+        "onboard_time": 1769581220,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108971,
+        "num": 108971,
+        "word": "3种不健康的早餐搭配别再吃了",
+        "onboard_time": 1769579481,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 107228,
+        "num": 107228,
+        "word": "金建希被判1年8个月",
+        "onboard_time": 1769581579,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 103861,
+        "num": 103861,
+        "word": "虞书欣进行曲",
+        "onboard_time": 1769578641,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 29584,
+        "num": 96899,
+        "word": "魏大勋出个国帅成这样",
+        "onboard_time": 1769582180,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68672,
+        "num": 94761,
+        "word": "我做梦都不敢梦这样的公司",
+        "onboard_time": 1769582780,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94337,
+        "num": 94337,
+        "word": "王楚钦孙逊肖指导备战亚洲杯",
+        "onboard_time": 1769578041,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102064,
+        "num": 94298,
+        "word": "谁给戚薇选的紫色丝袜",
+        "onboard_time": 1769582539,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94004,
+        "num": 94004,
+        "word": "因为戏瘾犯了才结的这个婚",
+        "onboard_time": 1769580801,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 91504,
+        "num": 91504,
+        "word": "邓超减掉40斤时连嚼的力气都没有",
+        "onboard_time": 1769566399,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 85085,
+        "num": 85085,
+        "word": "中国铝业涨停",
+        "onboard_time": 1769581880,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 84389,
+        "num": 84389,
+        "word": "凤舞九天",
+        "onboard_time": 1769578461,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80685,
+        "num": 80685,
+        "word": "黄金",
+        "onboard_time": 1769517320,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 80301,
+        "num": 80301,
+        "word": "金饰克价突破1620元",
+        "onboard_time": 1769567239,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 62887,
+        "num": 80298,
+        "word": "卢昱晓微博之夜海报",
+        "onboard_time": 1769581579,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 80295,
+        "num": 80295,
+        "word": "高市早苗拉票边哭边诉苦",
+        "onboard_time": 1769582840,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平复信津巴布韦老战士#"
+    }
+  }
+}

@@ -1,7 +1,15 @@
 {
   "startTime": 1769531989527,
-  "endTime": 1769579568811,
+  "endTime": 1769582863334,
   "band_list": [
+    {
+      "raw_hot": 1146034,
+      "num": 591406,
+      "word": "4.5天工作制",
+      "onboard_time": 1769576303,
+      "rank": 39,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 929204,
       "num": 173783,
@@ -19,11 +27,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 808293,
-      "num": 591406,
-      "word": "4.5天工作制",
-      "onboard_time": 1769576303,
-      "rank": 39,
+      "raw_hot": 770862,
+      "num": 518128,
+      "word": "女子考编第1政审不合格后续",
+      "onboard_time": 1769579300,
+      "rank": 5,
       "category": "民生新闻"
     },
     {
@@ -76,7 +84,7 @@
     },
     {
       "raw_hot": 526319,
-      "num": 187039,
+      "num": 189552,
       "word": "王者荣耀 白鹿",
       "onboard_time": 1769571800,
       "rank": 12,
@@ -147,6 +155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 395632,
+      "num": 395632,
+      "word": "银价疯涨后银饰一口价变克重计价",
+      "onboard_time": 1769579181,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
       "raw_hot": 377495,
       "num": 762368,
       "word": "王牌对王牌",
@@ -188,7 +204,7 @@
     },
     {
       "raw_hot": 333723,
-      "num": 181187,
+      "num": 187448,
       "word": "第一次给艺人穿鞋时我哭了",
       "onboard_time": 1769575102,
       "rank": 17,
@@ -204,7 +220,7 @@
     },
     {
       "raw_hot": 313555,
-      "num": 163611,
+      "num": 168385,
       "word": "白血病的征兆",
       "onboard_time": 1769575461,
       "rank": 30,
@@ -251,11 +267,11 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 275638,
-      "num": 275638,
-      "word": "女子考编第1政审不合格后续",
-      "onboard_time": 1769579300,
-      "rank": 5,
+      "raw_hot": 280770,
+      "num": 280770,
+      "word": "烤鱼店老板投喂流浪猫躲过一劫",
+      "onboard_time": 1769577381,
+      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -339,20 +355,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 212214,
+      "num": 212214,
+      "word": "男子卖金条借朋友14万要求还30万",
+      "onboard_time": 1769575222,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 209322,
       "num": 163387,
       "word": "结了婚才知道纸有那么多种类型",
       "onboard_time": 1769565438,
       "rank": 40,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 208309,
-      "num": 182967,
-      "word": "男子卖金条借朋友14万要求还30万",
-      "onboard_time": 1769575222,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 206820,
@@ -377,6 +393,22 @@
       "onboard_time": 1769569580,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 203279,
+      "num": 189728,
+      "word": "iPhone18标准版或明年发布",
+      "onboard_time": 1769577561,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 202065,
+      "num": 202065,
+      "word": "女子考编第1政审不合格复核仍不合格",
+      "onboard_time": 1769580921,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 199816,
@@ -427,6 +459,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 170964,
+      "num": 131481,
+      "word": "台退役军人想比照解放军免费进景区",
+      "onboard_time": 1769581340,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 169329,
+      "num": 169329,
+      "word": "台湾退役军人能否免费进入大陆景区",
+      "onboard_time": 1769581220,
+      "rank": 22,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 167606,
       "num": 167606,
       "word": "iPhone4S为何突然迎来第二春",
@@ -475,14 +523,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 156942,
-      "num": 156942,
-      "word": "烤鱼店老板投喂流浪猫躲过一劫",
-      "onboard_time": 1769577381,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 155933,
       "num": 155933,
       "word": "王者荣耀",
@@ -515,14 +555,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 148118,
-      "num": 148118,
-      "word": "iPhone18标准版或明年发布",
-      "onboard_time": 1769577561,
-      "rank": 30,
-      "category": "数码"
-    },
-    {
       "raw_hot": 139942,
       "num": 113371,
       "word": "丁程鑫朱志鑫左航 已争气争气再争气",
@@ -547,14 +579,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 135782,
-      "num": 126551,
-      "word": "银价疯涨后银饰一口价变克重计价",
-      "onboard_time": 1769579181,
-      "rank": 30,
-      "category": "财经"
-    },
-    {
       "raw_hot": 135558,
       "num": 78254,
       "word": "何健麒公开无犯罪记录证明",
@@ -569,6 +593,14 @@
       "onboard_time": 1769529501,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 132705,
+      "num": 132705,
+      "word": "魏晨王鸥八生八世全BE",
+      "onboard_time": 1769581760,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 132562,
@@ -691,6 +723,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 123687,
+      "num": 123687,
+      "word": "闵熙珍控诉NewJeans某成员家人操控股价",
+      "onboard_time": 1769579840,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 123433,
       "num": 117823,
       "word": "夜色正浓今日开播",
@@ -721,6 +761,22 @@
       "onboard_time": 1769505682,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 121896,
+      "num": 119336,
+      "word": "突然的喜欢水下吻居然是实拍",
+      "onboard_time": 1769581220,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 119916,
+      "num": 119916,
+      "word": "刘强东将拿下第7家上市公司",
+      "onboard_time": 1769579661,
+      "rank": 33,
+      "category": "互联网"
     },
     {
       "raw_hot": 119051,
@@ -835,6 +891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 108971,
+      "num": 108971,
+      "word": "3种不健康的早餐搭配别再吃了",
+      "onboard_time": 1769579481,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 108107,
       "num": 129041,
       "word": "刘宇宁也太会摇了吧",
@@ -881,6 +945,14 @@
       "onboard_time": 1769567422,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 107228,
+      "num": 107228,
+      "word": "金建希被判1年8个月",
+      "onboard_time": 1769581579,
+      "rank": 36,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 106305,
@@ -937,6 +1009,14 @@
       "onboard_time": 1769564538,
       "rank": 19,
       "category": "互联网,游戏"
+    },
+    {
+      "raw_hot": 102064,
+      "num": 94298,
+      "word": "谁给戚薇选的紫色丝袜",
+      "onboard_time": 1769582539,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 98603,
@@ -1019,6 +1099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 94004,
+      "num": 94004,
+      "word": "因为戏瘾犯了才结的这个婚",
+      "onboard_time": 1769580801,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 92700,
       "num": 92700,
       "word": "只在小地方当过小孩",
@@ -1083,14 +1171,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 87664,
-      "num": 87664,
-      "word": "3种不健康的早餐搭配别再吃了",
-      "onboard_time": 1769579481,
-      "rank": 42,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 86646,
       "num": 86646,
       "word": "曾舜晞 丈夫的容貌妻子的荣耀",
@@ -1113,6 +1193,14 @@
       "onboard_time": 1769571200,
       "rank": 27,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 85085,
+      "num": 85085,
+      "word": "中国铝业涨停",
+      "onboard_time": 1769581880,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 85036,
@@ -1163,6 +1251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 80295,
+      "num": 80295,
+      "word": "高市早苗拉票边哭边诉苦",
+      "onboard_time": 1769582840,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 76995,
       "num": 104669,
       "word": "站张凌赫身边很难不亲上去",
@@ -1177,6 +1273,14 @@
       "onboard_time": 1769562621,
       "rank": 35,
       "category": "财经"
+    },
+    {
+      "raw_hot": 76837,
+      "num": 158288,
+      "word": "素媛案罪犯违令外出再被判刑",
+      "onboard_time": 1769582600,
+      "rank": 24,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 76459,
@@ -1283,6 +1387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 68672,
+      "num": 94761,
+      "word": "我做梦都不敢梦这样的公司",
+      "onboard_time": 1769582780,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 68593,
       "num": 68593,
       "word": "易烊千玺 造型",
@@ -1315,12 +1427,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 62887,
+      "num": 80298,
+      "word": "卢昱晓微博之夜海报",
+      "onboard_time": 1769581579,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 62486,
       "num": 62486,
       "word": "难怪考试不让上厕所",
       "onboard_time": 1769516061,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 61297,
+      "num": 152810,
+      "word": "杨紫家有儿女胡歌仙剑是同一年播的",
+      "onboard_time": 1769581640,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 60539,
@@ -1379,6 +1507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 50268,
+      "num": 181899,
+      "word": "跨越140年的热爱",
+      "onboard_time": 1769582120,
+      "rank": 18,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 49949,
       "num": 176958,
       "word": "文旅都在玩余额宝谐音梗祝福上分",
@@ -1393,6 +1529,14 @@
       "onboard_time": 1769531780,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 48961,
+      "num": 187071,
+      "word": "男生可以接种HPV疫苗",
+      "onboard_time": 1769580381,
+      "rank": 17,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 48749,
@@ -1555,6 +1699,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 29584,
+      "num": 96899,
+      "word": "魏大勋出个国帅成这样",
+      "onboard_time": 1769582180,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 29523,
       "num": 34318,
       "word": "团播不得诱导消费和组织排名攀比",
@@ -1577,6 +1729,22 @@
       "onboard_time": 1769519541,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 28171,
+      "num": 180177,
+      "word": "全家的偶像都被美团安排了",
+      "onboard_time": 1769580441,
+      "rank": 19,
+      "category": "艺人,互联网"
+    },
+    {
+      "raw_hot": 28129,
+      "num": 201449,
+      "word": "金建希首案被判20个月",
+      "onboard_time": 1769582059,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 27524,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/28 13:52:48
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/28 14:47:43
 </p>
 </blockquote>
 <p>
@@ -921,6 +921,12 @@ MRC对战Gr（热度：1190595）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%234.5%E5%A4%A9%E5%B7%A5%E4%BD%9C%E5%88%B6%23" target="weibo">
+4.5天工作制（热度：1146034）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%9F%E7%88%B6%E5%B8%AE%E7%BB%A7%E6%AF%8D%E4%B9%B01600%E7%89%87%E6%B3%BB%E8%8D%AF%E6%8C%81%E7%BB%AD%E5%96%82%E5%A5%B3%E5%84%BF%23" target="weibo">
 生父帮继母买1600片泻药持续喂女儿（热度：1136675）
 </a>
@@ -1805,12 +1811,6 @@ DYG战胜狼队（热度：867183）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%9F%E4%B8%BD%E5%A8%85%E8%BF%9E%E7%BB%AD%E4%B8%89%E5%B9%B4%E6%94%B6%E5%88%B0%E8%8B%8F%E7%BF%8A%E9%B8%A3%E7%9A%84%E6%BB%91%E6%9D%BF%23" target="weibo">
 佟丽娅连续三年收到苏翊鸣的滑板（热度：853809）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%A2%E6%98%B1%E6%99%93%E5%8F%B0%E8%AF%8D%23" target="weibo">
-卢昱晓台词（热度：853653）
 </a>
 </li>
 
