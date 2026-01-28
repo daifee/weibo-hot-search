@@ -1,0 +1,410 @@
+{
+  "runTime": 1769596694256,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 633368,
+        "num": 1101338,
+        "word": "生育津贴到手3万却被申领10万元",
+        "onboard_time": 1769590820,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 475046,
+        "num": 807457,
+        "word": "1名中国籍游客俄罗斯死亡",
+        "onboard_time": 1769592802,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64627,
+        "num": 654444,
+        "word": "1.45万吨桥梁空中转体有多震撼",
+        "onboard_time": 1769589801,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 336419,
+        "num": 336419,
+        "word": "银行取消5年期存款意味着什么",
+        "onboard_time": 1769590761,
+        "rank": 3,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 240915,
+        "num": 312046,
+        "word": "重庆一火锅店收1人20元辛苦费",
+        "onboard_time": 1769590161,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 308889,
+        "num": 308889,
+        "word": "姜母鸭",
+        "onboard_time": 1769591721,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 236290,
+        "num": 236290,
+        "word": "烤鱼店老板投喂流浪猫躲过一劫",
+        "onboard_time": 1769577381,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 231468,
+        "num": 231468,
+        "word": "那英 何老师我又来了",
+        "onboard_time": 1769594660,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221862,
+        "num": 221862,
+        "word": "谷爱凌说世界不会原谅我了",
+        "onboard_time": 1769588480,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137192,
+        "num": 187912,
+        "word": "业内说生命树肯定会拿奖",
+        "onboard_time": 1769595140,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 824258,
+        "num": 186816,
+        "word": "韩国素媛案凶手再入狱",
+        "onboard_time": 1769589981,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 185130,
+        "num": 185130,
+        "word": "当你离职减了40斤但又去上班了",
+        "onboard_time": 1769587580,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 175981,
+        "num": 175981,
+        "word": "4.5天工作制",
+        "onboard_time": 1769576303,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127798,
+        "num": 152048,
+        "word": "一公司15名员工13人生育",
+        "onboard_time": 1769588120,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149136,
+        "num": 149136,
+        "word": "苟姓爸爸怕女儿尴尬一起改姓敬",
+        "onboard_time": 1769593764,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139748,
+        "num": 139748,
+        "word": "金莎说自己备婚超级忙",
+        "onboard_time": 1769590102,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125532,
+        "num": 125532,
+        "word": "MBC澳门取消",
+        "onboard_time": 1769591542,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 114834,
+        "num": 114834,
+        "word": "银价疯涨后银饰一口价变克重计价",
+        "onboard_time": 1769579181,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 113531,
+        "num": 113531,
+        "word": "江疏影 野心是我最好的医美",
+        "onboard_time": 1769596520,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 65429,
+        "num": 113513,
+        "word": "抗流感小青盒纳入新医保目录",
+        "onboard_time": 1769595441,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 337236,
+        "num": 113304,
+        "word": "2025搜狐黑榜艺人",
+        "onboard_time": 1769592562,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 306104,
+        "num": 113092,
+        "word": "小海绵长到我刚认识baby的年纪了",
+        "onboard_time": 1769574742,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15936,
+        "num": 112928,
+        "word": "魏大勋与圣罗兰巴黎再聚",
+        "onboard_time": 1769594600,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101723,
+        "num": 112572,
+        "word": "JDG对战DRG",
+        "onboard_time": 1769594841,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 244160,
+        "num": 112474,
+        "word": "秦牛正威开酒馆客单价200元",
+        "onboard_time": 1769593582,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190107,
+        "num": 112268,
+        "word": "微博之夜抢票",
+        "onboard_time": 1769585239,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 140936,
+        "num": 111963,
+        "word": "黄金再暴涨原因",
+        "onboard_time": 1769583679,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 104081,
+        "num": 111862,
+        "word": "面试官最爱听的离职原因",
+        "onboard_time": 1769585901,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 172021,
+        "num": 111652,
+        "word": "高片酬糊弄姐 傲慢罢工姐",
+        "onboard_time": 1769593880,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125762,
+        "num": 111440,
+        "word": "阚清子乔海伦打卡上班第一天",
+        "onboard_time": 1769583019,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95779,
+        "num": 111242,
+        "word": "银价疯涨CT废胶片也涨价了",
+        "onboard_time": 1769595562,
+        "rank": 30,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 111144,
+        "num": 111144,
+        "word": "王者荣耀 白鹿",
+        "onboard_time": 1769571800,
+        "rank": 31,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 109156,
+        "num": 109156,
+        "word": "宋威龙赵今麦杂志",
+        "onboard_time": 1769594481,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 91121,
+        "num": 102983,
+        "word": "郁亮被爆失联",
+        "onboard_time": 1769593341,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101320,
+        "num": 101320,
+        "word": "汪东城我不会再帮你说一句话",
+        "onboard_time": 1769587760,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101182,
+        "num": 101182,
+        "word": "秦牛正威转行开酒馆",
+        "onboard_time": 1769594841,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86732,
+        "num": 94992,
+        "word": "无限暖暖",
+        "onboard_time": 1769593462,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 93335,
+        "num": 93335,
+        "word": "女子吃辣条吃出1根金条",
+        "onboard_time": 1769596641,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91642,
+        "num": 91642,
+        "word": "黄金暴涨来不及报盘了",
+        "onboard_time": 1769591301,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 72653,
+        "num": 87277,
+        "word": "爱情公寓真的是太超前了",
+        "onboard_time": 1769595921,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86812,
+        "num": 86812,
+        "word": "易烊千玺到底像谁",
+        "onboard_time": 1769591121,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80766,
+        "num": 86133,
+        "word": "朱易送冬奥花滑队员出征礼物",
+        "onboard_time": 1769596101,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13385,
+        "num": 85680,
+        "word": "盒马错发水仙女子索赔375万降至48万",
+        "onboard_time": 1769596641,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85529,
+        "num": 85529,
+        "word": "宋威龙开年刊销量",
+        "onboard_time": 1769595982,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 76716,
+        "num": 84818,
+        "word": "金价暴涨让南非老矿区焕发生机",
+        "onboard_time": 1769594540,
+        "rank": 44,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 84717,
+        "num": 84717,
+        "word": "张萌说孟子义太红了",
+        "onboard_time": 1769585660,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83985,
+        "num": 83985,
+        "word": "王俊凯到澳大利亚了",
+        "onboard_time": 1769584582,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80514,
+        "num": 80514,
+        "word": "樊振东将出战德甲第18轮",
+        "onboard_time": 1769596582,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 80067,
+        "num": 80067,
+        "word": "村民还留着刘强东去年发的酒",
+        "onboard_time": 1769596162,
+        "rank": 48,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 75952,
+        "num": 75952,
+        "word": "冰雨火大舅哥吐槽cp粉",
+        "onboard_time": 1769589321,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#欢迎各国人民搭乘中国发展的快车便车#"
+    }
+  }
+}
