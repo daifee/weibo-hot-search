@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769626905637,
+  "endTime": 1769629025015,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -92555,6 +92555,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 17612,
+      "num": 81383,
+      "word": "卢旺达严重交通事故致中国公民伤亡",
+      "onboard_time": 1769626095,
+      "rank": 44,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 17585,
       "num": 119643,
       "word": "百余只羊被烧死残疾主人救火被烧伤",
@@ -92587,20 +92595,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 17392,
+      "num": 92260,
+      "word": "林欢儿 怕他不爱又怕他太爱",
+      "onboard_time": 1769623514,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 17372,
       "num": 37616,
       "word": "檀健次新歌外网上线",
       "onboard_time": 1767723315,
       "rank": 28,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 17371,
-      "num": 92260,
-      "word": "林欢儿 怕他不爱又怕他太爱",
-      "onboard_time": 1769623514,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 17365,
@@ -93161,14 +93169,6 @@
       "onboard_time": 1769007382,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 15186,
-      "num": 81383,
-      "word": "卢旺达严重交通事故致中国公民伤亡",
-      "onboard_time": 1769626095,
-      "rank": 44,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 15077,
@@ -93881,6 +93881,14 @@
       "onboard_time": 1767277822,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10554,
+      "num": 63628,
+      "word": "孩子去年才知道李娜是干嘛的",
+      "onboard_time": 1769609062,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 10233,

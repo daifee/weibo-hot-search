@@ -1,6 +1,6 @@
 {
   "startTime": 1769616009567,
-  "endTime": 1769626905637,
+  "endTime": 1769629025015,
   "band_list": [
     {
       "raw_hot": 1779996,
@@ -547,20 +547,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 17371,
-      "num": 92260,
-      "word": "林欢儿 怕他不爱又怕他太爱",
-      "onboard_time": 1769623514,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 15186,
+      "raw_hot": 17612,
       "num": 81383,
       "word": "卢旺达严重交通事故致中国公民伤亡",
       "onboard_time": 1769626095,
       "rank": 44,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 17392,
+      "num": 92260,
+      "word": "林欢儿 怕他不爱又怕他太爱",
+      "onboard_time": 1769623514,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 13683,
@@ -569,6 +569,14 @@
       "onboard_time": 1769604682,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 10554,
+      "num": 63628,
+      "word": "孩子去年才知道李娜是干嘛的",
+      "onboard_time": 1769609062,
+      "rank": 49,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
