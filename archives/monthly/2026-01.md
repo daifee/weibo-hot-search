@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/28 16:58:25
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/28 17:42:56
 </p>
 </blockquote>
 <p>
@@ -29,6 +29,12 @@ U23国足vs日本（热度：16741456）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B7%B2%E6%8A%93%E8%8E%B7%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E6%80%BB%E7%BB%9F%23" target="weibo">
 特朗普称已抓获委内瑞拉总统（热度：13350510）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E5%AF%8C%E6%B1%97%E6%B0%B8%E4%B9%85%E7%A6%81%E6%AD%A2%E5%A5%B3%E6%80%A7%E4%B8%8A%E5%AD%A6%23" target="weibo">
+阿富汗永久禁止女性上学（热度：9564584）
 </a>
 </li>
 
@@ -107,12 +113,6 @@ U23国足vs日本（热度：16741456）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%80%83%E6%88%90%E7%BB%A9%23" target="weibo">
 国考成绩（热度：4128569）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E5%AF%8C%E6%B1%97%E6%B0%B8%E4%B9%85%E7%A6%81%E6%AD%A2%E5%A5%B3%E6%80%A7%E4%B8%8A%E5%AD%A6%23" target="weibo">
-阿富汗永久禁止女性上学（热度：3770861）
 </a>
 </li>
 
@@ -1985,6 +1985,12 @@ iPhone18Pro新爆料（热度：826962）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%B0%E6%B0%B4%E6%9E%9C%E5%8F%91%E7%8E%B0%E5%BC%82%E5%B8%B8%E6%8F%90%E9%86%92%E5%BA%97%E5%91%98%E5%90%8E%E4%B8%8D%E6%94%BE%E5%BF%83%23" target="weibo">
 买水果发现异常提醒店员后不放心（热度：826044）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%B4%A0%E5%AA%9B%E6%A1%88%E5%87%B6%E6%89%8B%E5%86%8D%E5%85%A5%E7%8B%B1%23" target="weibo">
+韩国素媛案凶手再入狱（热度：825578）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ iPhone4需求激增近1000%（热度：506886）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%85%8D%E7%96%AB%E7%B3%BB%E7%BB%9F%E6%94%BB%E5%87%BB%E8%83%9A%E8%83%8E8%E5%B9%B4%E5%8F%8D%E5%A4%8D%E6%B5%81%E4%BA%A7%23" target="weibo">
 女子免疫系统攻击胚胎8年反复流产（热度：485394）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23101%E5%B2%81%E5%A5%B6%E5%A5%B6%E6%AF%8F%E5%A4%A9%E7%86%AC%E5%A4%9C%E8%BF%BD%E5%89%A7%E5%88%B0%E5%87%8C%E6%99%A82%E7%82%B9%23" target="weibo">
-101岁奶奶每天熬夜追剧到凌晨2点（热度：485213）
 </a>
 </li>
 

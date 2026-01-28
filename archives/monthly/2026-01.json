@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769590705804,
+  "endTime": 1769593376467,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -25,6 +25,14 @@
       "onboard_time": 1767432625,
       "rank": 0,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 9564584,
+      "num": 9564584,
+      "word": "阿富汗永久禁止女性上学",
+      "onboard_time": 1769588241,
+      "rank": 11,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 9558023,
@@ -129,14 +137,6 @@
       "onboard_time": 1768394242,
       "rank": 0,
       "category": "教育"
-    },
-    {
-      "raw_hot": 3770861,
-      "num": 233203,
-      "word": "阿富汗永久禁止女性上学",
-      "onboard_time": 1769588241,
-      "rank": 11,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 3680249,
@@ -2633,6 +2633,14 @@
       "onboard_time": 1768701199,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 825578,
+      "num": 216742,
+      "word": "韩国素媛案凶手再入狱",
+      "onboard_time": 1769589981,
+      "rank": 14,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 822931,
@@ -8171,6 +8179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 478990,
+      "num": 1856580,
+      "word": "谷爱凌说世界不会原谅我了",
+      "onboard_time": 1769588480,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 478850,
       "num": 628128,
       "word": "可可托海雪豹咬人全过程",
@@ -9017,14 +9033,6 @@
       "onboard_time": 1767700341,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 452404,
-      "num": 788798,
-      "word": "谷爱凌说世界不会原谅我了",
-      "onboard_time": 1769588480,
-      "rank": 3,
-      "category": "体育"
     },
     {
       "raw_hot": 452335,
@@ -11504,6 +11512,14 @@
       "word": "二楼直排粪水扬言弄死报警的一楼",
       "onboard_time": 1768708940,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 384632,
+      "num": 384632,
+      "word": "生育津贴到手3万却被申领10万元",
+      "onboard_time": 1769590820,
+      "rank": 3,
       "category": "民生新闻"
     },
     {
@@ -15025,14 +15041,6 @@
       "onboard_time": 1768716319,
       "rank": 23,
       "category": "美食"
-    },
-    {
-      "raw_hot": 315670,
-      "num": 216742,
-      "word": "韩国素媛案凶手再入狱",
-      "onboard_time": 1769589981,
-      "rank": 14,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 315624,
@@ -19945,6 +19953,14 @@
       "onboard_time": 1769574861,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 249028,
+      "num": 249028,
+      "word": "银行取消5年期存款意味着什么",
+      "onboard_time": 1769590761,
+      "rank": 5,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 248862,
@@ -35995,6 +36011,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 145789,
+      "num": 99119,
+      "word": "易烊千玺到底像谁",
+      "onboard_time": 1769591121,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 145775,
       "num": 145775,
       "word": "李亚鹏称嫣然天使儿童医院或成历史",
@@ -36353,6 +36377,14 @@
       "onboard_time": 1769337021,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 144728,
+      "num": 144728,
+      "word": "MBC澳门取消",
+      "onboard_time": 1769591542,
+      "rank": 8,
+      "category": "演出"
     },
     {
       "raw_hot": 144671,
@@ -37417,6 +37449,14 @@
       "onboard_time": 1768743202,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 140792,
+      "num": 93257,
+      "word": "2025搜狐黑榜艺人",
+      "onboard_time": 1769592562,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 140786,
@@ -39835,6 +39875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133489,
+      "num": 133489,
+      "word": "鹅鸭杀首个原创角色锦鸡",
+      "onboard_time": 1769592263,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 133484,
       "num": 133484,
       "word": "小海绵说不蹦",
@@ -42017,6 +42065,14 @@
       "onboard_time": 1767415467,
       "rank": 25,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 127146,
+      "num": 143223,
+      "word": "重庆一火锅店收1人20元辛苦费",
+      "onboard_time": 1769590161,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 127145,
@@ -48827,6 +48883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 112458,
+      "num": 112458,
+      "word": "姜母鸭",
+      "onboard_time": 1769591721,
+      "rank": 17,
+      "category": "美食"
+    },
+    {
       "raw_hot": 112390,
       "num": 111472,
       "word": "肖战一口流利的东北话",
@@ -54467,6 +54531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 102094,
+      "num": 102094,
+      "word": "金莎说自己备婚超级忙",
+      "onboard_time": 1769590102,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 102090,
       "num": 98168,
       "word": "此人活商极高",
@@ -58419,14 +58491,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 96434,
-      "num": 96434,
-      "word": "重庆一火锅店收1人20元辛苦费",
-      "onboard_time": 1769590161,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 96429,
       "num": 96429,
       "word": "追觅CEO称打造首个百万亿美金生态",
@@ -61283,6 +61347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 92610,
+      "num": 92610,
+      "word": "一有点时间就往床上躺",
+      "onboard_time": 1769592921,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 92589,
       "num": 92589,
       "word": "张函瑞膝盖走路",
@@ -63291,6 +63363,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 90007,
+      "num": 89221,
+      "word": "鲁豫范晓萱 你知道你的影响力吗",
+      "onboard_time": 1769593043,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 90004,
       "num": 191219,
       "word": "WBG晋级总决赛",
@@ -63803,6 +63883,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 89301,
+      "num": 89301,
+      "word": "RW战胜RNGM",
+      "onboard_time": 1769591481,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 89298,
       "num": 132958,
       "word": "霸王茶姬涉事门店店长降职处分",
@@ -63865,6 +63953,14 @@
       "onboard_time": 1767530423,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 89180,
+      "num": 89180,
+      "word": "1名中国籍游客俄罗斯死亡",
+      "onboard_time": 1769592802,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89147,
@@ -68363,6 +68459,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 83367,
+      "num": 83367,
+      "word": "微博之夜官宣十个勤天",
+      "onboard_time": 1769592562,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 83355,
       "num": 81691,
       "word": "申浩男新剧阴湿男味太对了",
@@ -70059,6 +70163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 80812,
+      "num": 80812,
+      "word": "小英说要给孩子打生长激素",
+      "onboard_time": 1769593223,
+      "rank": 42,
+      "category": "网红"
+    },
+    {
       "raw_hot": 80811,
       "num": 80811,
       "word": "恨海情天的鼻祖她来了",
@@ -70969,6 +71081,14 @@
       "onboard_time": 1767588441,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 79557,
+      "num": 1419395,
+      "word": "1.45万吨桥梁空中转体有多震撼",
+      "onboard_time": 1769589801,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 79553,
@@ -75107,6 +75227,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 71606,
+      "num": 78617,
+      "word": "双人魔方意念合一",
+      "onboard_time": 1769592142,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 71567,
       "num": 140845,
       "word": "为什么有个人懂我是件悲伤的事",
@@ -75280,6 +75408,14 @@
       "word": "马化腾内部员工大会安利AI新品",
       "onboard_time": 1769424741,
       "rank": 40,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 70989,
+      "num": 70989,
+      "word": "支付宝集福规则",
+      "onboard_time": 1769593281,
+      "rank": 47,
       "category": "互联网"
     },
     {
@@ -75995,6 +76131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 69389,
+      "num": 69389,
+      "word": "郁亮被爆失联",
+      "onboard_time": 1769593341,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69361,
       "num": 635214,
       "word": "中方呼吁美国放下武力执念",
@@ -76625,14 +76769,6 @@
       "onboard_time": 1769425161,
       "rank": 49,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 67811,
-      "num": 640676,
-      "word": "1.45万吨桥梁空中转体有多震撼",
-      "onboard_time": 1769589801,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 67770,
@@ -79401,14 +79537,6 @@
       "onboard_time": 1769420901,
       "rank": 19,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 59505,
-      "num": 97862,
-      "word": "金莎说自己备婚超级忙",
-      "onboard_time": 1769590102,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 59501,
@@ -86801,6 +86929,14 @@
       "onboard_time": 1767964941,
       "rank": 49,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 32014,
+      "num": 106852,
+      "word": "豪华电动超跑教父最新力作",
+      "onboard_time": 1769591362,
+      "rank": 18,
+      "category": "汽车"
     },
     {
       "raw_hot": 31998,

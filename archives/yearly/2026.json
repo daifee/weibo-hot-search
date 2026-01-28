@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769590705804,
+  "endTime": 1769593376467,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -25,6 +25,14 @@
       "onboard_time": 1767432625,
       "rank": 0,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 9564584,
+      "num": 9564584,
+      "word": "阿富汗永久禁止女性上学",
+      "onboard_time": 1769588241,
+      "rank": 11,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 9558023,
@@ -129,14 +137,6 @@
       "onboard_time": 1768394242,
       "rank": 0,
       "category": "教育"
-    },
-    {
-      "raw_hot": 3770861,
-      "num": 233203,
-      "word": "阿富汗永久禁止女性上学",
-      "onboard_time": 1769588241,
-      "rank": 11,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 3680249,
