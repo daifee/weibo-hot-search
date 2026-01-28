@@ -1,6 +1,6 @@
 {
   "startTime": 1769616009567,
-  "endTime": 1769616009567,
+  "endTime": 1769618910210,
   "band_list": [
     {
       "raw_hot": 1779996,
@@ -59,7 +59,15 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 336022,
+      "raw_hot": 455238,
+      "num": 66794,
+      "word": "蔡徐坤 金子涵",
+      "onboard_time": 1769598082,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 390971,
       "num": 762450,
       "word": "微博之夜",
       "onboard_time": 1769601681,
@@ -88,6 +96,14 @@
       "word": "南通发现1例罕见恐龙血",
       "onboard_time": 1769612131,
       "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 203756,
+      "num": 203756,
+      "word": "女子考编第1政审不合格第2名递补",
+      "onboard_time": 1769612486,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -131,6 +147,14 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 121717,
+      "num": 121717,
+      "word": "深圳小学期末考被称堪比公务员行测",
+      "onboard_time": 1769616441,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115967,
       "num": 115967,
       "word": "任权要求薛小婉带妆睡觉",
@@ -155,6 +179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 111494,
+      "num": 109359,
+      "word": "桃黑黑为王者荣耀燃尽了",
+      "onboard_time": 1769614401,
+      "rank": 31,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 110403,
       "num": 145549,
       "word": "贝加尔湖车祸75岁中国籍女性死亡",
@@ -163,19 +195,19 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 108790,
+      "num": 108790,
+      "word": "东北人发现飞俄罗斯坐船回家更便宜",
+      "onboard_time": 1769616380,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105635,
       "num": 105635,
       "word": "盒马错发水仙女子索赔375万降至48万",
       "onboard_time": 1769596641,
       "rank": 17,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 102329,
-      "num": 102329,
-      "word": "女子考编第1政审不合格第2名递补",
-      "onboard_time": 1769612486,
-      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -201,6 +233,14 @@
       "onboard_time": 1769602101,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 87428,
+      "num": 74959,
+      "word": "生命树",
+      "onboard_time": 1769616202,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 84579,
@@ -243,14 +283,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 72236,
-      "num": 72236,
-      "word": "桃黑黑为王者荣耀燃尽了",
-      "onboard_time": 1769614401,
-      "rank": 31,
-      "category": "游戏,网红"
-    },
-    {
       "raw_hot": 71042,
       "num": 71042,
       "word": "尘白禁区 扭蛋机",
@@ -275,6 +307,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 67545,
+      "num": 63265,
+      "word": "王橹杰穆祉丞刷新时代峰峻最快纪录",
+      "onboard_time": 1769616202,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 67286,
+      "num": 62194,
+      "word": "胖东来未上市新品火锅底料遭曝光",
+      "onboard_time": 1769616320,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 63926,
+      "num": 63926,
+      "word": "精神压力维生素D缺乏等易催生白发",
+      "onboard_time": 1769613982,
+      "rank": 41,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 63745,
       "num": 63745,
       "word": "辽宁救人牺牲大学生女友发声",
@@ -289,6 +345,14 @@
       "onboard_time": 1769613682,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 62532,
+      "num": 62532,
+      "word": "水贝杰我睿涉嫌黄金高杠杆对赌",
+      "onboard_time": 1769616681,
+      "rank": 29,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 60530,
@@ -323,14 +387,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 57981,
-      "num": 57981,
-      "word": "精神压力维生素D缺乏等易催生白发",
-      "onboard_time": 1769613982,
-      "rank": 41,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 56464,
       "num": 56464,
       "word": "中方回应朝鲜向东部海域发射导弹",
@@ -353,6 +409,14 @@
       "onboard_time": 1769615480,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 54743,
+      "num": 54743,
+      "word": "美国超级暴风雪大量流浪汉冻死街头",
+      "onboard_time": 1769617997,
+      "rank": 34,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 53553,
@@ -393,6 +457,22 @@
       "onboard_time": 1769615960,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 48326,
+      "num": 48326,
+      "word": "网友吐槽巴厘岛用自来水刷牙都不行",
+      "onboard_time": 1769617821,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 43712,
+      "num": 43712,
+      "word": "金饰克价一天涨40元",
+      "onboard_time": 1769613382,
+      "rank": 41,
+      "category": "财经"
     },
     {
       "raw_hot": 42281,
