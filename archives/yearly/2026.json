@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769586480946,
+  "endTime": 1769589768704,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -217,6 +217,14 @@
       "onboard_time": 1768654162,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2847854,
+      "num": 233203,
+      "word": "阿富汗永久禁止女性上学",
+      "onboard_time": 1769588241,
+      "rank": 11,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 2760241,
@@ -2044,7 +2052,7 @@
     },
     {
       "raw_hot": 929204,
-      "num": 173783,
+      "num": 173784,
       "word": "小海绵长到我刚认识baby的年纪了",
       "onboard_time": 1769574742,
       "rank": 20,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1769264362,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 853809,
-      "num": 316523,
-      "word": "佟丽娅连续三年收到苏翊鸣的滑板",
-      "onboard_time": 1768396701,
-      "rank": 13,
-      "category": "艺人,体育"
     }
   ],
   "hotgov_list": [

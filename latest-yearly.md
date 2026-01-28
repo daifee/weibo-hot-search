@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/28 15:48:00
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/28 16:42:48
 </p>
 </blockquote>
 <p>
@@ -173,6 +173,12 @@ WB冠军（热度：3566119）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A3%A3%E6%AC%A3%E5%BC%95%E5%8A%9B%23" target="weibo">
 棣欣引力（热度：2901090）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E5%AF%8C%E6%B1%97%E6%B0%B8%E4%B9%85%E7%A6%81%E6%AD%A2%E5%A5%B3%E6%80%A7%E4%B8%8A%E5%AD%A6%23" target="weibo">
+阿富汗永久禁止女性上学（热度：2847854）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ DYG战胜狼队（热度：867183）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%95%99%E5%B8%88%E6%A0%A1%E5%86%85%E5%AE%BF%E8%88%8D%E7%97%85%E4%BA%A1%E4%B8%A4%E5%A4%A9%E5%90%8E%E8%A2%AB%E5%8F%91%E7%8E%B0%23" target="weibo">
 女教师校内宿舍病亡两天后被发现（热度：853847）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%9F%E4%B8%BD%E5%A8%85%E8%BF%9E%E7%BB%AD%E4%B8%89%E5%B9%B4%E6%94%B6%E5%88%B0%E8%8B%8F%E7%BF%8A%E9%B8%A3%E7%9A%84%E6%BB%91%E6%9D%BF%23" target="weibo">
-佟丽娅连续三年收到苏翊鸣的滑板（热度：853809）
 </a>
 </li>
 

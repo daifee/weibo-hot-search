@@ -1,7 +1,15 @@
 {
   "startTime": 1769531989527,
-  "endTime": 1769586480946,
+  "endTime": 1769589768704,
   "band_list": [
+    {
+      "raw_hot": 2847854,
+      "num": 233203,
+      "word": "阿富汗永久禁止女性上学",
+      "onboard_time": 1769588241,
+      "rank": 11,
+      "category": "海外新闻"
+    },
     {
       "raw_hot": 1146034,
       "num": 591406,
@@ -12,7 +20,7 @@
     },
     {
       "raw_hot": 929204,
-      "num": 173783,
+      "num": 173784,
       "word": "小海绵长到我刚认识baby的年纪了",
       "onboard_time": 1769574742,
       "rank": 20,
@@ -43,6 +51,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 695326,
+      "num": 231049,
+      "word": "致命毒红薯已流遍20多省",
+      "onboard_time": 1769587520,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 675970,
       "num": 1108155,
       "word": "素媛案罪犯违令外出再被判刑",
@@ -65,6 +81,14 @@
       "onboard_time": 1769567239,
       "rank": 6,
       "category": "财经"
+    },
+    {
+      "raw_hot": 612852,
+      "num": 1098056,
+      "word": "烤鱼店老板投喂流浪猫躲过一劫",
+      "onboard_time": 1769577381,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 606996,
@@ -131,6 +155,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 487814,
+      "num": 227525,
+      "word": "微博之夜抢票",
+      "onboard_time": 1769585239,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 483073,
       "num": 175109,
       "word": "肖战会去救马云",
@@ -163,28 +195,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 416084,
-      "num": 782665,
-      "word": "烤鱼店老板投喂流浪猫躲过一劫",
-      "onboard_time": 1769577381,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 411151,
       "num": 233386,
       "word": "金价暴涨女子卖300克黄金变现30万",
       "onboard_time": 1769569040,
       "rank": 6,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 409133,
-      "num": 213091,
-      "word": "微博之夜抢票",
-      "onboard_time": 1769585239,
-      "rank": 28,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 377495,
@@ -251,12 +267,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 324847,
+      "raw_hot": 327953,
       "num": 324847,
       "word": "黄金再暴涨原因",
       "onboard_time": 1769583679,
       "rank": 9,
       "category": "财经"
+    },
+    {
+      "raw_hot": 324466,
+      "num": 324466,
+      "word": "谷爱凌说世界不会原谅我了",
+      "onboard_time": 1769588480,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 323498,
@@ -273,6 +297,14 @@
       "onboard_time": 1769566338,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 318186,
+      "num": 318186,
+      "word": "女子考编第1政审不合格复核仍不合格",
+      "onboard_time": 1769580921,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 313555,
@@ -315,6 +347,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 289591,
+      "num": 289591,
+      "word": "张萌说孟子义太红了",
+      "onboard_time": 1769585660,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 287973,
       "num": 287973,
       "word": "EXO官宣巡演",
@@ -345,6 +385,14 @@
       "onboard_time": 1769524342,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 264942,
+      "num": 221789,
+      "word": "被指张雨绮事件涉事律师律所回应",
+      "onboard_time": 1769589021,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 262351,
@@ -393,6 +441,22 @@
       "onboard_time": 1769574861,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 247591,
+      "num": 247591,
+      "word": "面试官最爱听的离职原因",
+      "onboard_time": 1769585901,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 244561,
+      "num": 219193,
+      "word": "当你离职减了40斤但又去上班了",
+      "onboard_time": 1769587580,
+      "rank": 16,
+      "category": "幽默"
     },
     {
       "raw_hot": 241987,
@@ -475,14 +539,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 202065,
-      "num": 202065,
-      "word": "女子考编第1政审不合格复核仍不合格",
-      "onboard_time": 1769580921,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 199816,
       "num": 199816,
       "word": "老人狱中病亡14年后获宣告无罪",
@@ -497,6 +553,14 @@
       "onboard_time": 1769575700,
       "rank": 18,
       "category": "财经"
+    },
+    {
+      "raw_hot": 192404,
+      "num": 142431,
+      "word": "一公司15名员工13人生育",
+      "onboard_time": 1769588120,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 188387,
@@ -515,12 +579,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 186762,
-      "num": 186762,
-      "word": "张萌说孟子义太红了",
-      "onboard_time": 1769585660,
-      "rank": 42,
-      "category": "综艺"
+      "raw_hot": 179673,
+      "num": 163217,
+      "word": "汪东城我不会再帮你说一句话",
+      "onboard_time": 1769587760,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 179390,
@@ -635,6 +699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 150039,
+      "num": 150039,
+      "word": "只有一个指纹大小的娃娃",
+      "onboard_time": 1769587641,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 148868,
       "num": 148868,
       "word": "旅日大熊猫回国走出快乐步伐",
@@ -649,6 +721,14 @@
       "onboard_time": 1769575822,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 142063,
+      "num": 142063,
+      "word": "王嘉尔疑似直男被吓麻了",
+      "onboard_time": 1769586441,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 139942,
@@ -1203,6 +1283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 95201,
+      "num": 95201,
+      "word": "林一签售会 非粉但眼红",
+      "onboard_time": 1769588420,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 94873,
       "num": 94873,
       "word": "睡眠差可能是吃出来的",
@@ -1217,6 +1305,14 @@
       "onboard_time": 1769521224,
       "rank": 18,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 94563,
+      "num": 94563,
+      "word": "金价突破5300美元",
+      "onboard_time": 1769589201,
+      "rank": 41,
+      "category": "财经"
     },
     {
       "raw_hot": 94465,
@@ -1259,6 +1355,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 93592,
+      "num": 93592,
+      "word": "中国铝业涨停创16年新高",
+      "onboard_time": 1769589259,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 93128,
+      "num": 93128,
+      "word": "冰雨火大舅哥吐槽cp粉",
+      "onboard_time": 1769589321,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 92700,
       "num": 92700,
       "word": "只在小地方当过小孩",
@@ -1297,6 +1409,14 @@
       "onboard_time": 1769582900,
       "rank": 41,
       "category": "财经"
+    },
+    {
+      "raw_hot": 90712,
+      "num": 90712,
+      "word": "闵熙珍听了李大伯录音当场晕倒",
+      "onboard_time": 1769587880,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 90089,
@@ -1345,14 +1465,6 @@
       "onboard_time": 1769577500,
       "rank": 40,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 87333,
-      "num": 87333,
-      "word": "面试官最爱听的离职原因",
-      "onboard_time": 1769585901,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 86646,
@@ -1419,12 +1531,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 82048,
-      "num": 82048,
-      "word": "王嘉尔疑似直男被吓麻了",
-      "onboard_time": 1769586441,
-      "rank": 47,
+      "raw_hot": 84622,
+      "num": 84622,
+      "word": "网友偶遇张艺谋周深",
+      "onboard_time": 1769588480,
+      "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 84612,
+      "num": 90132,
+      "word": "翻出了毕业学校发的10g白银",
+      "onboard_time": 1769588659,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 81464,
@@ -1489,6 +1609,14 @@
       "onboard_time": 1769562621,
       "rank": 35,
       "category": "财经"
+    },
+    {
+      "raw_hot": 76840,
+      "num": 151921,
+      "word": "每天一问健康福来了吗",
+      "onboard_time": 1769588301,
+      "rank": 27,
+      "category": "互联网"
     },
     {
       "raw_hot": 76459,
@@ -1683,6 +1811,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 55179,
+      "num": 175857,
+      "word": "吹头不烫头才是真上头",
+      "onboard_time": 1769588241,
+      "rank": 18,
+      "category": "数码"
+    },
+    {
       "raw_hot": 55176,
       "num": 55176,
       "word": "男子要求错认16年的假父一家道歉",
@@ -1712,6 +1848,14 @@
       "word": "那英说沈梦辰嫁给杜海涛眼光好",
       "onboard_time": 1769519781,
       "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 50453,
+      "num": 174157,
+      "word": "宋威龙穿Gucci迷人又危险",
+      "onboard_time": 1769588301,
+      "rank": 19,
       "category": "艺人"
     },
     {
@@ -1825,6 +1969,14 @@
       "onboard_time": 1769580441,
       "rank": 19,
       "category": "艺人,互联网"
+    },
+    {
+      "raw_hot": 38775,
+      "num": 165345,
+      "word": "杰我睿老板近期成被执行人",
+      "onboard_time": 1769588541,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37764,
@@ -2083,6 +2235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 16874,
+      "num": 98397,
+      "word": "国台办回应两岸恢复观光旅游问题",
+      "onboard_time": 1769588900,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 16857,
       "num": 624782,
       "word": "2026逐梦中国",
@@ -2115,6 +2275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 14699,
+      "num": 235122,
+      "word": "冰雪冷资源催生热制造",
+      "onboard_time": 1769589501,
+      "rank": 10,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 9367,
       "num": 104132,
       "word": "人民日报评幽灵外卖无良作坊",
@@ -2129,6 +2297,14 @@
       "onboard_time": 1769567659,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 6943,
+      "num": 657221,
+      "word": "2025年出入境人次创新高",
+      "onboard_time": 1769589741,
+      "rank": 2,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
@@ -2137,6 +2313,9 @@
     },
     {
       "word": "#习近平复信津巴布韦老战士#"
+    },
+    {
+      "word": "#欢迎各国人民搭乘中国发展的快车便车#"
     }
   ]
 }
