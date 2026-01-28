@@ -1,6 +1,6 @@
 {
   "startTime": 1769531989527,
-  "endTime": 1769596694256,
+  "endTime": 1769597741522,
   "band_list": [
     {
       "raw_hot": 10607824,
@@ -403,6 +403,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 295718,
+      "num": 295718,
+      "word": "女子吃辣条吃出1根金条",
+      "onboard_time": 1769596641,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 294265,
       "num": 219193,
       "word": "当你离职减了40斤但又去上班了",
@@ -577,6 +585,14 @@
       "onboard_time": 1769584161,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 217118,
+      "num": 149136,
+      "word": "苟姓爸爸怕女儿尴尬一起改姓敬",
+      "onboard_time": 1769593764,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 214228,
@@ -795,12 +811,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 149136,
-      "num": 149136,
-      "word": "苟姓爸爸怕女儿尴尬一起改姓敬",
-      "onboard_time": 1769593764,
-      "rank": 47,
-      "category": "民生新闻"
+      "raw_hot": 151211,
+      "num": 187912,
+      "word": "业内说生命树肯定会拿奖",
+      "onboard_time": 1769595140,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 148868,
@@ -825,6 +841,14 @@
       "onboard_time": 1769591121,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 144697,
+      "num": 144697,
+      "word": "日本电视全军覆没了",
+      "onboard_time": 1769596822,
+      "rank": 14,
+      "category": "财经"
     },
     {
       "raw_hot": 142063,
@@ -857,14 +881,6 @@
       "onboard_time": 1769521101,
       "rank": 14,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 137192,
-      "num": 187912,
-      "word": "业内说生命树肯定会拿奖",
-      "onboard_time": 1769595140,
-      "rank": 9,
-      "category": "剧集"
     },
     {
       "raw_hot": 137095,
@@ -1025,6 +1041,14 @@
       "onboard_time": 1769583079,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125249,
+      "num": 125249,
+      "word": "肥娟小吃或因经营不善面临解散",
+      "onboard_time": 1769596701,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 124893,
@@ -1339,6 +1363,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 105766,
+      "num": 105766,
+      "word": "爱情公寓真的是太超前了",
+      "onboard_time": 1769595921,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 105697,
       "num": 259899,
       "word": "美国前总统反对美国现政府",
@@ -1569,14 +1601,6 @@
       "onboard_time": 1769589259,
       "rank": 42,
       "category": "财经"
-    },
-    {
-      "raw_hot": 93335,
-      "num": 93335,
-      "word": "女子吃辣条吃出1根金条",
-      "onboard_time": 1769596641,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 92700,
@@ -1827,6 +1851,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 82620,
+      "num": 82620,
+      "word": "过年美甲",
+      "onboard_time": 1769594721,
+      "rank": 37,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 81464,
       "num": 81464,
       "word": "7000人滞留日本机场称再不来了",
@@ -1849,6 +1881,14 @@
       "onboard_time": 1769567299,
       "rank": 37,
       "category": "财经"
+    },
+    {
+      "raw_hot": 80617,
+      "num": 80617,
+      "word": "警察出警回应3元还不够油费",
+      "onboard_time": 1769596822,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 80556,
@@ -1905,6 +1945,14 @@
       "onboard_time": 1769589801,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 78999,
+      "num": 104229,
+      "word": "盒马错发水仙女子索赔375万降至48万",
+      "onboard_time": 1769596641,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 78155,
@@ -1987,6 +2035,14 @@
       "category": "互联网,游戏"
     },
     {
+      "raw_hot": 73825,
+      "num": 73825,
+      "word": "仅19天黄金涨20%白银涨50%",
+      "onboard_time": 1769594361,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 73676,
       "num": 73676,
       "word": "美利云一字涨停",
@@ -2017,14 +2073,6 @@
       "onboard_time": 1769525783,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 72653,
-      "num": 87277,
-      "word": "爱情公寓真的是太超前了",
-      "onboard_time": 1769595921,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 72470,
@@ -2081,6 +2129,14 @@
       "onboard_time": 1769487741,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 70715,
+      "num": 70715,
+      "word": "魏晨吴昕把何老师唱哭了",
+      "onboard_time": 1769597661,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 70576,
@@ -2208,6 +2264,14 @@
       "word": "娜扎好六上班美成啥样了",
       "onboard_time": 1769521521,
       "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 57515,
+      "num": 104497,
+      "word": "刘耀文 跳完奖励李飞拖鞋",
+      "onboard_time": 1769597240,
+      "rank": 18,
       "category": "综艺"
     },
     {
@@ -2377,6 +2441,14 @@
       "onboard_time": 1769580441,
       "rank": 19,
       "category": "艺人,互联网"
+    },
+    {
+      "raw_hot": 41042,
+      "num": 81034,
+      "word": "外嫁女户口未迁出征地补偿款被剥夺",
+      "onboard_time": 1769597721,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 38775,
@@ -2619,6 +2691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 19011,
+      "num": 112928,
+      "word": "魏大勋与圣罗兰巴黎再聚",
+      "onboard_time": 1769594600,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 18308,
       "num": 98312,
       "word": "投资者称杰我睿平台涉资超百亿",
@@ -2675,14 +2755,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 15936,
-      "num": 112928,
-      "word": "魏大勋与圣罗兰巴黎再聚",
-      "onboard_time": 1769594600,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 15817,
       "num": 34308,
       "word": "勤奋上进的普通中路玩家",
@@ -2713,14 +2785,6 @@
       "onboard_time": 1769589501,
       "rank": 10,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 13385,
-      "num": 85680,
-      "word": "盒马错发水仙女子索赔375万降至48万",
-      "onboard_time": 1769596641,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 11105,
