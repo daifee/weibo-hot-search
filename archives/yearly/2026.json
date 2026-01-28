@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769600707581,
+  "endTime": 1769605566943,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -280,6 +280,14 @@
       "word": "梁小龙去世",
       "onboard_time": 1768723519,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2620230,
+      "num": 117019,
+      "word": "蔡徐坤方回应金子涵",
+      "onboard_time": 1769603661,
+      "rank": 25,
       "category": "艺人"
     },
     {
@@ -2392,14 +2400,6 @@
       "word": "党员烧香算违纪吗官方释疑",
       "onboard_time": 1767858380,
       "rank": 0,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 857288,
-      "num": 219386,
-      "word": "90后医生强奸2幼女父亲曾为其辩护",
-      "onboard_time": 1768386681,
-      "rank": 32,
       "category": "民生新闻"
     }
   ],

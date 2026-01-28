@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/28 19:45:07
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/28 21:06:06
 </p>
 </blockquote>
 <p>
@@ -221,6 +221,12 @@ Asen回应Sakee（热度：2704539）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A2%81%E5%B0%8F%E9%BE%99%E5%8E%BB%E4%B8%96%23" target="weibo">
 梁小龙去世（热度：2670618）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E6%96%B9%E5%9B%9E%E5%BA%94%E9%87%91%E5%AD%90%E6%B6%B5%23" target="weibo">
+蔡徐坤方回应金子涵（热度：2620230）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ DYG战胜狼队（热度：867183）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%9A%E5%91%98%E7%83%A7%E9%A6%99%E7%AE%97%E8%BF%9D%E7%BA%AA%E5%90%97%E5%AE%98%E6%96%B9%E9%87%8A%E7%96%91%23" target="weibo">
 党员烧香算违纪吗官方释疑（热度：860920）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2390%E5%90%8E%E5%8C%BB%E7%94%9F%E5%BC%BA%E5%A5%B82%E5%B9%BC%E5%A5%B3%E7%88%B6%E4%BA%B2%E6%9B%BE%E4%B8%BA%E5%85%B6%E8%BE%A9%E6%8A%A4%23" target="weibo">
-90后医生强奸2幼女父亲曾为其辩护（热度：857288）
 </a>
 </li>
 

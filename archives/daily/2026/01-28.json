@@ -1,6 +1,6 @@
 {
   "startTime": 1769531989527,
-  "endTime": 1769600707581,
+  "endTime": 1769605566943,
   "band_list": [
     {
       "raw_hot": 11494198,
@@ -17,6 +17,14 @@
       "onboard_time": 1769588241,
       "rank": 11,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 2620230,
+      "num": 117019,
+      "word": "蔡徐坤方回应金子涵",
+      "onboard_time": 1769603661,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 1431972,
@@ -179,6 +187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 510804,
+      "num": 140276,
+      "word": "张子墨 计划有变准备登陆日2026",
+      "onboard_time": 1769602101,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 495995,
       "num": 1076351,
       "word": "微博之夜 星空毯",
@@ -196,7 +212,7 @@
     },
     {
       "raw_hot": 488058,
-      "num": 801764,
+      "num": 1070999,
       "word": "微博之夜简笔画",
       "onboard_time": 1769599881,
       "rank": 1,
@@ -337,6 +353,14 @@
       "onboard_time": 1769529081,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 340026,
+      "num": 340026,
+      "word": "微博之夜",
+      "onboard_time": 1769487741,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 337236,
@@ -483,6 +507,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 280134,
+      "num": 193446,
+      "word": "李川居然是因为裸辞而出道的",
+      "onboard_time": 1769603841,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 271201,
       "num": 166314,
       "word": "虞书欣起诉多方侵犯肖像权",
@@ -595,6 +627,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 234802,
+      "num": 135306,
+      "word": "年少有为定档",
+      "onboard_time": 1769602401,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 231468,
       "num": 231468,
       "word": "那英 何老师我又来了",
@@ -684,7 +724,7 @@
     },
     {
       "raw_hot": 201220,
-      "num": 104907,
+      "num": 116283,
       "word": "江疏影瘦了",
       "onboard_time": 1769599220,
       "rank": 29,
@@ -715,8 +755,16 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 191604,
+      "num": 191604,
+      "word": "金价波动",
+      "onboard_time": 1769602582,
+      "rank": 6,
+      "category": "财经"
+    },
+    {
       "raw_hot": 189416,
-      "num": 102406,
+      "num": 114909,
       "word": "虞书欣断层领跑亿屏之选人气女演员",
       "onboard_time": 1769597902,
       "rank": 27,
@@ -788,7 +836,7 @@
     },
     {
       "raw_hot": 170234,
-      "num": 126139,
+      "num": 131607,
       "word": "爱情公寓真的是太超前了",
       "onboard_time": 1769595921,
       "rank": 39,
@@ -851,6 +899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 158450,
+      "num": 158450,
+      "word": "贝加尔湖车祸75岁中国籍女性死亡",
+      "onboard_time": 1769604082,
+      "rank": 7,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 158259,
       "num": 260832,
       "word": "美向以色列通报对伊朗军事行动准备",
@@ -875,6 +931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 156032,
+      "num": 117980,
+      "word": "宋祖儿手臂和话筒一样细",
+      "onboard_time": 1769603782,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 155933,
       "num": 155933,
       "word": "王者荣耀",
@@ -889,6 +953,14 @@
       "onboard_time": 1769572460,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 151458,
+      "num": 129455,
+      "word": "特朗普左手戴手套",
+      "onboard_time": 1769602221,
+      "rank": 15,
+      "category": "国际时政"
     },
     {
       "raw_hot": 151211,
@@ -913,6 +985,14 @@
       "onboard_time": 1769575822,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 148144,
+      "num": 148144,
+      "word": "胖东来金条只剩十来块了",
+      "onboard_time": 1769603120,
+      "rank": 8,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 145789,
@@ -1073,6 +1153,14 @@
       "onboard_time": 1769570180,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 128421,
+      "num": 128421,
+      "word": "别告诉我这是最近的Angelababy",
+      "onboard_time": 1769601321,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 128388,
@@ -1251,6 +1339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 117276,
+      "num": 117276,
+      "word": "樊振东感谢上海代表团的理解与支持",
+      "onboard_time": 1769600361,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115711,
       "num": 115711,
       "word": "3种不健康的早餐搭配别再吃了",
@@ -1281,6 +1377,14 @@
       "onboard_time": 1769569520,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 114137,
+      "num": 114137,
+      "word": "张艺兴不齐舞团一起跳大花轿",
+      "onboard_time": 1769601801,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 113531,
@@ -1531,14 +1635,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 102267,
-      "num": 105344,
-      "word": "樊振东感谢上海代表团的理解与支持",
-      "onboard_time": 1769600361,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
       "raw_hot": 101182,
       "num": 101182,
       "word": "秦牛正威转行开酒馆",
@@ -1572,7 +1668,7 @@
     },
     {
       "raw_hot": 99025,
-      "num": 91174,
+      "num": 98163,
       "word": "秦牛正威转行酒吧主理人",
       "onboard_time": 1769600422,
       "rank": 35,
@@ -1585,6 +1681,14 @@
       "onboard_time": 1769556438,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 97726,
+      "num": 97726,
+      "word": "贝克汉姆大儿子风波后首更新ins",
+      "onboard_time": 1769604201,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 97659,
@@ -1609,6 +1713,14 @@
       "onboard_time": 1769569639,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 96248,
+      "num": 96248,
+      "word": "太平年登顶云合",
+      "onboard_time": 1769604022,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 95921,
@@ -1867,6 +1979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 89530,
+      "num": 89530,
+      "word": "媒体说李兰迪完全不用P图",
+      "onboard_time": 1769604442,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 89498,
       "num": 89498,
       "word": "钎城冰尘合照",
@@ -1907,6 +2027,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 86836,
+      "num": 86836,
+      "word": "假如方圆脸减肥成功",
+      "onboard_time": 1769605521,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 86646,
       "num": 86646,
       "word": "曾舜晞 丈夫的容貌妻子的荣耀",
@@ -1945,6 +2073,14 @@
       "onboard_time": 1769600242,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 85872,
+      "num": 85872,
+      "word": "TF荣耀之战已知歌单",
+      "onboard_time": 1769604621,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 85529,
@@ -2003,6 +2139,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 83560,
+      "num": 75907,
+      "word": "张凌赫宋威龙都要来微博之夜",
+      "onboard_time": 1769602462,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 83367,
       "num": 83367,
       "word": "微博之夜官宣十个勤天",
@@ -2017,6 +2161,14 @@
       "onboard_time": 1769594721,
       "rank": 37,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 81634,
+      "num": 97730,
+      "word": "剑来",
+      "onboard_time": 1769601801,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 81464,
@@ -2115,6 +2267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 77757,
+      "num": 87454,
+      "word": "无畏 天下无双",
+      "onboard_time": 1769603061,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 77319,
       "num": 77319,
       "word": "绝意摇旗",
@@ -2161,6 +2321,14 @@
       "onboard_time": 1769593521,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 75818,
+      "num": 75818,
+      "word": "金价又飙升的原因",
+      "onboard_time": 1769605101,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 75796,
@@ -2211,6 +2379,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 73663,
+      "num": 73663,
+      "word": "金价",
+      "onboard_time": 1769605460,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 73157,
       "num": 73157,
       "word": "通勤包越来越抽象了",
@@ -2233,6 +2409,14 @@
       "onboard_time": 1769525783,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 72830,
+      "num": 75824,
+      "word": "盒马就误送有毒水仙事件再致歉",
+      "onboard_time": 1769604501,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 72470,
@@ -2283,20 +2467,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 70955,
-      "num": 81703,
-      "word": "微博之夜",
-      "onboard_time": 1769487741,
-      "rank": 35,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 70715,
       "num": 70715,
       "word": "魏晨吴昕把何老师唱哭了",
       "onboard_time": 1769597661,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 70613,
+      "num": 70613,
+      "word": "宝蠊灯",
+      "onboard_time": 1769602701,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 70576,
@@ -2323,6 +2507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 68685,
+      "num": 68685,
+      "word": "真正长大了好像就是这样",
+      "onboard_time": 1769604682,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 68671,
       "num": 68671,
       "word": "曝古偶男主将缩头坚持到底",
@@ -2337,6 +2529,14 @@
       "onboard_time": 1769511081,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 68220,
+      "num": 68220,
+      "word": "这些信号提示免疫力正在下降",
+      "onboard_time": 1769605221,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 68052,
@@ -2355,12 +2555,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 66797,
+      "num": 66797,
+      "word": "免费续面到底限几次",
+      "onboard_time": 1769605402,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 65429,
       "num": 113513,
       "word": "抗流感小青盒纳入新医保目录",
       "onboard_time": 1769595441,
       "rank": 19,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 65230,
+      "num": 68317,
+      "word": "小猫急得想把小狗抱出来",
+      "onboard_time": 1769601801,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 65058,
@@ -2457,6 +2673,14 @@
       "onboard_time": 1769588301,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 56265,
+      "num": 122824,
+      "word": "特朗普称一支庞大的舰队正前往伊朗",
+      "onboard_time": 1769604801,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 55179,
@@ -2803,6 +3027,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 26831,
+      "num": 612303,
+      "word": "政务应用程序管理新规发布",
+      "onboard_time": 1769604981,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 26825,
       "num": 34319,
       "word": "以色列女子称照片被以媒当死者播出",
@@ -2819,12 +3051,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 26607,
+      "num": 123021,
+      "word": "来抖音商城买每代人都爱的年货",
+      "onboard_time": 1769601860,
+      "rank": 18,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 26397,
       "num": 100859,
       "word": "肖战王彦霖片场眼睛笑成一条缝",
       "onboard_time": 1769573361,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 26159,
+      "num": 114703,
+      "word": "网友把对对联玩出名场面",
+      "onboard_time": 1769601860,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25654,
@@ -2873,6 +3121,14 @@
       "onboard_time": 1769530819,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20239,
+      "num": 76386,
+      "word": "TOP登陆少年将出席微博之夜",
+      "onboard_time": 1769605402,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 20154,
@@ -3020,6 +3276,9 @@
     },
     {
       "word": "#欢迎各国人民搭乘中国发展的快车便车#"
+    },
+    {
+      "word": "#冰雪春天#"
     }
   ]
 }
