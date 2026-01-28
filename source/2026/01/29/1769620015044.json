@@ -1,0 +1,410 @@
+{
+  "runTime": 1769620015044,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 277659,
+        "num": 570050,
+        "word": "男子买15元彩票中1404万",
+        "onboard_time": 1769606842,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 247207,
+        "num": 404814,
+        "word": "微博之夜",
+        "onboard_time": 1769601681,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 12740,
+        "num": 334228,
+        "word": "十四五新增减税降费退税超10万亿元",
+        "onboard_time": 1769604682,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 263958,
+        "num": 263958,
+        "word": "迪丽热巴 春晚分会场",
+        "onboard_time": 1769613144,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160257,
+        "num": 160257,
+        "word": "深圳小学期末考被称堪比公务员行测",
+        "onboard_time": 1769616441,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182516,
+        "num": 158147,
+        "word": "黄金白银基金暂停申购",
+        "onboard_time": 1769611286,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 146779,
+        "num": 146779,
+        "word": "东北人发现飞俄罗斯坐船回家更便宜",
+        "onboard_time": 1769616380,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127954,
+        "num": 127954,
+        "word": "女子考编第1政审不合格第2名递补",
+        "onboard_time": 1769612486,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112024,
+        "num": 112024,
+        "word": "南通发现1例罕见恐龙血",
+        "onboard_time": 1769612131,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90069,
+        "num": 90069,
+        "word": "微博之夜简笔画",
+        "onboard_time": 1769599881,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 446434,
+        "num": 89624,
+        "word": "阚清子近照状态",
+        "onboard_time": 1769608162,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 301073,
+        "num": 88377,
+        "word": "胎儿一脚踢破妈妈子宫致羊水流失",
+        "onboard_time": 1769612608,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173905,
+        "num": 87995,
+        "word": "穆祉丞比2",
+        "onboard_time": 1769612549,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135581,
+        "num": 86750,
+        "word": "杨紫为上镜暴瘦15斤",
+        "onboard_time": 1769608282,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132853,
+        "num": 86186,
+        "word": "桃黑黑为王者荣耀燃尽了",
+        "onboard_time": 1769614401,
+        "rank": 14,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 85738,
+        "num": 85738,
+        "word": "任权要求薛小婉带妆睡觉",
+        "onboard_time": 1769611645,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 85174,
+        "num": 85174,
+        "word": "尘白禁区 扭蛋机",
+        "onboard_time": 1769611524,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 82025,
+        "num": 82025,
+        "word": "假如方圆脸减肥成功",
+        "onboard_time": 1769605521,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 74478,
+        "num": 74478,
+        "word": "阿富汗女性教育到小学为止",
+        "onboard_time": 1769611950,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 72901,
+        "num": 72901,
+        "word": "生命树",
+        "onboard_time": 1769616202,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 932061,
+        "num": 72787,
+        "word": "金子涵拉黑蔡徐坤",
+        "onboard_time": 1769598862,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83511,
+        "num": 72314,
+        "word": "42岁女子吃紧急避孕药大出血险丢命",
+        "onboard_time": 1769611406,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71310,
+        "num": 71310,
+        "word": "有罪之身开播反馈",
+        "onboard_time": 1769614102,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 69955,
+        "num": 69955,
+        "word": "别告诉我这是最近的Angelababy",
+        "onboard_time": 1769601321,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68274,
+        "num": 68274,
+        "word": "迪丽热巴毛茸茸兔耳",
+        "onboard_time": 1769614520,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 355324,
+        "num": 67584,
+        "word": "蔡徐坤 金子涵",
+        "onboard_time": 1769598082,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66854,
+        "num": 66854,
+        "word": "王橹杰穆祉丞刷新时代峰峻最快纪录",
+        "onboard_time": 1769616202,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 64135,
+        "num": 64135,
+        "word": "银行取消5年期存款意味着什么",
+        "onboard_time": 1769590761,
+        "rank": 27,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 58964,
+        "num": 58964,
+        "word": "精神压力维生素D缺乏等易催生白发",
+        "onboard_time": 1769613982,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 55832,
+        "num": 55832,
+        "word": "水贝杰我睿涉嫌黄金高杠杆对赌",
+        "onboard_time": 1769616681,
+        "rank": 29,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 58987,
+        "num": 54887,
+        "word": "胖东来未上市新品火锅底料遭曝光",
+        "onboard_time": 1769616320,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51048,
+        "num": 51048,
+        "word": "美国超级暴风雪大量流浪汉冻死街头",
+        "onboard_time": 1769617997,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 45412,
+        "num": 45412,
+        "word": "虞书欣断层领跑亿屏之选人气女演员",
+        "onboard_time": 1769597902,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42965,
+        "num": 42965,
+        "word": "伊朗总统宣布启动紧急状态",
+        "onboard_time": 1769606002,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 41857,
+        "num": 41857,
+        "word": "盒马错发水仙女子索赔375万降至48万",
+        "onboard_time": 1769596641,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41214,
+        "num": 41214,
+        "word": "张子墨 计划有变准备登陆日2026",
+        "onboard_time": 1769602101,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39376,
+        "num": 39376,
+        "word": "朴彩英这是能说的吗",
+        "onboard_time": 1769619377,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37421,
+        "num": 37421,
+        "word": "辽宁救人牺牲大学生女友发声",
+        "onboard_time": 1769613742,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36162,
+        "num": 36162,
+        "word": "生命树未播热度",
+        "onboard_time": 1769608521,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35542,
+        "num": 35542,
+        "word": "网友吐槽巴厘岛用自来水刷牙都不行",
+        "onboard_time": 1769617821,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35282,
+        "num": 35282,
+        "word": "那英官宣披荆斩棘2026召集人",
+        "onboard_time": 1769613322,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36173,
+        "num": 35206,
+        "word": "朴彩英曾扮成老奶奶去约会",
+        "onboard_time": 1769608881,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34539,
+        "num": 34539,
+        "word": "小海绵长到我刚认识baby的年纪了",
+        "onboard_time": 1769574742,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33787,
+        "num": 33787,
+        "word": "汪苏泷回应给宋亚轩写代表作",
+        "onboard_time": 1769609483,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33425,
+        "num": 33425,
+        "word": "金饰克价一天涨40元",
+        "onboard_time": 1769613382,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 33341,
+        "num": 33341,
+        "word": "贝加尔湖车祸75岁中国籍女性死亡",
+        "onboard_time": 1769604082,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 33132,
+        "num": 33132,
+        "word": "微博之夜抢票",
+        "onboard_time": 1769585239,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 31967,
+        "num": 31967,
+        "word": "中方回应朝鲜向东部海域发射导弹",
+        "onboard_time": 1769609062,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 32447,
+        "num": 31794,
+        "word": "孙楠认出了宋亚轩没认出马嘉祺",
+        "onboard_time": 1769611286,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31582,
+        "num": 31582,
+        "word": "创新药加速背后是更多的安心",
+        "onboard_time": 1769619916,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#冰雪春天#"
+    }
+  }
+}
