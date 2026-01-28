@@ -1,6 +1,6 @@
 {
   "startTime": 1769272464158,
-  "endTime": 1769614895913,
+  "endTime": 1769616009567,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -659,6 +659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 617053,
+      "num": 617053,
+      "word": "迪丽热巴 春晚分会场",
+      "onboard_time": 1769613144,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 614076,
       "num": 174914,
       "word": "一家三口被撞身亡案家属抗诉被驳回",
@@ -971,14 +979,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 515533,
-      "num": 515533,
-      "word": "迪丽热巴 春晚分会场",
-      "onboard_time": 1769613144,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 512080,
       "num": 512080,
       "word": "张艺谋 体重管理最严厉的父亲",
@@ -1089,6 +1089,14 @@
       "onboard_time": 1769469138,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 490676,
+      "num": 460105,
+      "word": "黄金白银基金暂停申购",
+      "onboard_time": 1769611286,
+      "rank": 13,
+      "category": "财经"
     },
     {
       "raw_hot": 489024,
@@ -1257,14 +1265,6 @@
       "onboard_time": 1769493199,
       "rank": 20,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 460105,
-      "num": 460105,
-      "word": "黄金白银基金暂停申购",
-      "onboard_time": 1769611286,
-      "rank": 13,
-      "category": "财经"
     },
     {
       "raw_hot": 458681,
@@ -2688,6 +2688,14 @@
       "word": "女子怀孕收男友15万彩礼后不和要退婚",
       "onboard_time": 1769342481,
       "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 264617,
+      "num": 431921,
+      "word": "南通发现1例罕见恐龙血",
+      "onboard_time": 1769612131,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -4185,14 +4193,6 @@
       "onboard_time": 1769583440,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 159540,
-      "num": 431921,
-      "word": "南通发现1例罕见恐龙血",
-      "onboard_time": 1769612131,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 159313,
@@ -5931,6 +5931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 115967,
+      "num": 115967,
+      "word": "任权要求薛小婉带妆睡觉",
+      "onboard_time": 1769611645,
+      "rank": 41,
+      "category": "网红"
+    },
+    {
       "raw_hot": 115820,
       "num": 115820,
       "word": "中国从未发生一例尼帕病毒感染",
@@ -6265,14 +6273,6 @@
       "onboard_time": 1769314521,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 110254,
-      "num": 104045,
-      "word": "任权要求薛小婉带妆睡觉",
-      "onboard_time": 1769611645,
-      "rank": 41,
-      "category": "网红"
     },
     {
       "raw_hot": 110099,
@@ -7009,6 +7009,14 @@
       "onboard_time": 1769584760,
       "rank": 43,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 102329,
+      "num": 102329,
+      "word": "女子考编第1政审不合格第2名递补",
+      "onboard_time": 1769612486,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 102273,
@@ -9299,12 +9307,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 82576,
-      "num": 82576,
-      "word": "女子考编第1政审不合格第2名递补",
-      "onboard_time": 1769612486,
-      "rank": 32,
-      "category": "民生新闻"
+      "raw_hot": 82571,
+      "num": 74982,
+      "word": "有罪之身开播反馈",
+      "onboard_time": 1769614102,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 82433,
@@ -10347,14 +10355,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 74982,
-      "num": 74982,
-      "word": "有罪之身开播反馈",
-      "onboard_time": 1769614102,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 74733,
       "num": 74733,
       "word": "冬天吃着吃着就瘦了的食谱",
@@ -10569,6 +10569,14 @@
       "onboard_time": 1769567059,
       "rank": 48,
       "category": "数码"
+    },
+    {
+      "raw_hot": 72236,
+      "num": 72236,
+      "word": "桃黑黑为王者荣耀燃尽了",
+      "onboard_time": 1769614401,
+      "rank": 47,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 72174,
@@ -11083,14 +11091,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 66443,
-      "num": 66443,
-      "word": "桃黑黑为王者荣耀燃尽了",
-      "onboard_time": 1769614401,
-      "rank": 47,
-      "category": "游戏,网红"
-    },
-    {
       "raw_hot": 66225,
       "num": 91151,
       "word": "砂糖橘价格是往年的60%",
@@ -11201,6 +11201,14 @@
       "onboard_time": 1769329222,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 63745,
+      "num": 63745,
+      "word": "辽宁救人牺牲大学生女友发声",
+      "onboard_time": 1769613742,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 63608,
@@ -11627,6 +11635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 54762,
+      "num": 54762,
+      "word": "29年前青岛一起轮奸案将再审",
+      "onboard_time": 1769615480,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 54723,
       "num": 54723,
       "word": "胡荷韬向球迷说抱歉",
@@ -11785,6 +11801,14 @@
       "onboard_time": 1769572880,
       "rank": 14,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 49689,
+      "num": 49689,
+      "word": "男子中1404万大奖妻子压根不信",
+      "onboard_time": 1769615960,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 49546,
