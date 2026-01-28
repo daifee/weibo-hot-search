@@ -1,0 +1,410 @@
+{
+  "runTime": 1769574721057,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 270123,
+        "num": 1043219,
+        "word": "科比大女儿发文缅怀",
+        "onboard_time": 1769566338,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 228027,
+        "num": 762368,
+        "word": "王牌对王牌",
+        "onboard_time": 1769573840,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 4369,
+        "num": 600149,
+        "word": "2026逐梦中国",
+        "onboard_time": 1769519663,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 286922,
+        "num": 286922,
+        "word": "蔡文姬新皮肤奇遇梦乡",
+        "onboard_time": 1769572281,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 259536,
+        "num": 259536,
+        "word": "张维伊回应小城大事造型",
+        "onboard_time": 1769570361,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 606996,
+        "num": 240877,
+        "word": "不建议马桶使用蓝泡泡",
+        "onboard_time": 1769570361,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 294808,
+        "num": 233386,
+        "word": "金价暴涨女子卖300克黄金变现30万",
+        "onboard_time": 1769569040,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222036,
+        "num": 222036,
+        "word": "支付宝集福卡",
+        "onboard_time": 1769568320,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 186093,
+        "num": 186093,
+        "word": "魏大勋孙千有罪之身空降",
+        "onboard_time": 1769569340,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156628,
+        "num": 185202,
+        "word": "市长被查前刚就副市长被查主持会议",
+        "onboard_time": 1769574261,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 661685,
+        "num": 183063,
+        "word": "玄彬回应儿子催孙艺珍吹蜡烛",
+        "onboard_time": 1769573179,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 526319,
+        "num": 181658,
+        "word": "王者荣耀 白鹿",
+        "onboard_time": 1769571800,
+        "rank": 11,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 382137,
+        "num": 181037,
+        "word": "拒绝暗示性求助",
+        "onboard_time": 1769565259,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 155452,
+        "num": 178633,
+        "word": "1克黄金竟能打造一张完整黄金婚书",
+        "onboard_time": 1769524342,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42783,
+        "num": 176958,
+        "word": "文旅都在玩余额宝谐音梗祝福上分",
+        "onboard_time": 1769572880,
+        "rank": 14,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 276012,
+        "num": 175109,
+        "word": "肖战会去救马云",
+        "onboard_time": 1769566338,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44707,
+        "num": 174010,
+        "word": "政协委员建议推行每周四天半工作日",
+        "onboard_time": 1769573719,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 26398,
+        "num": 172543,
+        "word": "苏翊鸣健康备战蓄势待发",
+        "onboard_time": 1769571321,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 70690,
+        "num": 170179,
+        "word": "王一博控温也控场",
+        "onboard_time": 1769572999,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263229,
+        "num": 169614,
+        "word": "邓超减掉40斤时连嚼的力气都没有",
+        "onboard_time": 1769566399,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 596585,
+        "num": 166775,
+        "word": "金饰克价突破1620元",
+        "onboard_time": 1769567239,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 202067,
+        "num": 166314,
+        "word": "虞书欣起诉多方侵犯肖像权",
+        "onboard_time": 1769567720,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164729,
+        "num": 164729,
+        "word": "魏大勋扛住了外媒镜头",
+        "onboard_time": 1769569580,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163387,
+        "num": 163387,
+        "word": "结了婚才知道纸有那么多种类型",
+        "onboard_time": 1769565438,
+        "rank": 23,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 152245,
+        "num": 152245,
+        "word": "王真儿有罪之身是一番",
+        "onboard_time": 1769572460,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135245,
+        "num": 135245,
+        "word": "盒马误送有毒水仙球致老人孩子中毒",
+        "onboard_time": 1769557160,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130359,
+        "num": 130359,
+        "word": "张凌赫非常感谢闺蜜",
+        "onboard_time": 1769568141,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66848,
+        "num": 129041,
+        "word": "刘宇宁也太会摇了吧",
+        "onboard_time": 1769573179,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 58902,
+        "num": 128391,
+        "word": "吉利3款9系车获年度车型大奖",
+        "onboard_time": 1769571200,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 128388,
+        "num": 128388,
+        "word": "沙特不许其领空领土被用于打击伊朗",
+        "onboard_time": 1769571620,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 127924,
+        "num": 127924,
+        "word": "白鹿连续三年成为媒体好感艺人",
+        "onboard_time": 1769570900,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124291,
+        "num": 124291,
+        "word": "原来一万大卡的食物早就研究出来了",
+        "onboard_time": 1769571981,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 122726,
+        "num": 122726,
+        "word": "这些症状可能是白血病信号",
+        "onboard_time": 1769570120,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 120650,
+        "num": 120650,
+        "word": "原来天上掉下个林妹妹是掉机场了",
+        "onboard_time": 1769570660,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 119051,
+        "num": 119051,
+        "word": "再也不说爱人如养花了",
+        "onboard_time": 1769571501,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117114,
+        "num": 117114,
+        "word": "白银",
+        "onboard_time": 1769526860,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 111076,
+        "num": 111076,
+        "word": "金饰克价短短10天涨了185元",
+        "onboard_time": 1769571679,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 109507,
+        "num": 109507,
+        "word": "宋威龙媒体好感度艺人TOP5",
+        "onboard_time": 1769574202,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107775,
+        "num": 107775,
+        "word": "微博之夜集齐了内娱抽象TOP5",
+        "onboard_time": 1769573781,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 37455,
+        "num": 104912,
+        "word": "老外开始流行把病攒到中国看",
+        "onboard_time": 1769574321,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35514,
+        "num": 104669,
+        "word": "站张凌赫身边很难不亲上去",
+        "onboard_time": 1769574681,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104456,
+        "num": 104456,
+        "word": "王者荣耀",
+        "onboard_time": 1769523621,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 100613,
+        "num": 102916,
+        "word": "黄金",
+        "onboard_time": 1769517320,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 101635,
+        "num": 101635,
+        "word": "旅日大熊猫回国走出快乐步伐",
+        "onboard_time": 1769565920,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99016,
+        "num": 99016,
+        "word": "俞灏明 端木家族怎么没有我",
+        "onboard_time": 1769570180,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97659,
+        "num": 97659,
+        "word": "胡歌金巴肤色差了十个度",
+        "onboard_time": 1769574321,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94873,
+        "num": 94873,
+        "word": "睡眠差可能是吃出来的",
+        "onboard_time": 1769572401,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 97554,
+        "num": 94868,
+        "word": "杨紫Duang的一下就坐下去了",
+        "onboard_time": 1769563819,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94799,
+        "num": 94799,
+        "word": "夜色正浓今日开播",
+        "onboard_time": 1769572581,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92415,
+        "num": 92415,
+        "word": "杰我睿被曝经营异常深圳通报",
+        "onboard_time": 1769572161,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平复信津巴布韦老战士#"
+    }
+  }
+}
