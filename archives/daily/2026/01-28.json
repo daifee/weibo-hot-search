@@ -1,6 +1,6 @@
 {
   "startTime": 1769531989527,
-  "endTime": 1769605566943,
+  "endTime": 1769607045224,
   "band_list": [
     {
       "raw_hot": 11494198,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 825578,
-      "num": 216742,
+      "num": 231203,
       "word": "韩国素媛案凶手再入狱",
       "onboard_time": 1769589981,
       "rank": 14,
@@ -188,11 +188,19 @@
     },
     {
       "raw_hot": 510804,
-      "num": 140276,
+      "num": 237902,
       "word": "张子墨 计划有变准备登陆日2026",
       "onboard_time": 1769602101,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 497503,
+      "num": 1079600,
+      "word": "微博之夜",
+      "onboard_time": 1769487741,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 495995,
@@ -355,14 +363,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 340026,
-      "num": 340026,
-      "word": "微博之夜",
-      "onboard_time": 1769487741,
-      "rank": 35,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 337236,
       "num": 113304,
       "word": "2025搜狐黑榜艺人",
@@ -425,6 +425,14 @@
       "onboard_time": 1769580921,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 315373,
+      "num": 117980,
+      "word": "宋祖儿手臂和话筒一样细",
+      "onboard_time": 1769603782,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 313555,
@@ -508,7 +516,7 @@
     },
     {
       "raw_hot": 280134,
-      "num": 193446,
+      "num": 257120,
       "word": "李川居然是因为裸辞而出道的",
       "onboard_time": 1769603841,
       "rank": 5,
@@ -537,6 +545,14 @@
       "onboard_time": 1769557819,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 260667,
+      "num": 260667,
+      "word": "贝加尔湖车祸75岁中国籍女性死亡",
+      "onboard_time": 1769604082,
+      "rank": 7,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 259536,
@@ -628,7 +644,7 @@
     },
     {
       "raw_hot": 234802,
-      "num": 135306,
+      "num": 219916,
       "word": "年少有为定档",
       "onboard_time": 1769602401,
       "rank": 12,
@@ -667,6 +683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 220199,
+      "num": 220199,
+      "word": "男子强吻女同事遭辞退后索赔16万",
+      "onboard_time": 1769605580,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 217118,
       "num": 149136,
       "word": "苟姓爸爸怕女儿尴尬一起改姓敬",
@@ -696,6 +720,14 @@
       "word": "黄金",
       "onboard_time": 1769517320,
       "rank": 25,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 205219,
+      "num": 248091,
+      "word": "金价波动",
+      "onboard_time": 1769602582,
+      "rank": 6,
       "category": "财经"
     },
     {
@@ -753,14 +785,6 @@
       "onboard_time": 1769587641,
       "rank": 28,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 191604,
-      "num": 191604,
-      "word": "金价波动",
-      "onboard_time": 1769602582,
-      "rank": 6,
-      "category": "财经"
     },
     {
       "raw_hot": 189416,
@@ -843,6 +867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 168962,
+      "num": 254354,
+      "word": "胖东来金条只剩十来块了",
+      "onboard_time": 1769603120,
+      "rank": 8,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 167606,
       "num": 167606,
       "word": "iPhone4S为何突然迎来第二春",
@@ -899,14 +931,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 158450,
-      "num": 158450,
-      "word": "贝加尔湖车祸75岁中国籍女性死亡",
-      "onboard_time": 1769604082,
-      "rank": 7,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 158259,
       "num": 260832,
       "word": "美向以色列通报对伊朗军事行动准备",
@@ -931,20 +955,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 156032,
-      "num": 117980,
-      "word": "宋祖儿手臂和话筒一样细",
-      "onboard_time": 1769603782,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 155933,
       "num": 155933,
       "word": "王者荣耀",
       "onboard_time": 1769523621,
       "rank": 8,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 153618,
+      "num": 153618,
+      "word": "别告诉我这是最近的Angelababy",
+      "onboard_time": 1769601321,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 152245,
@@ -985,14 +1009,6 @@
       "onboard_time": 1769575822,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 148144,
-      "num": 148144,
-      "word": "胖东来金条只剩十来块了",
-      "onboard_time": 1769603120,
-      "rank": 8,
-      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 145789,
@@ -1155,14 +1171,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 128421,
-      "num": 128421,
-      "word": "别告诉我这是最近的Angelababy",
-      "onboard_time": 1769601321,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 128388,
       "num": 128388,
       "word": "沙特不许其领空领土被用于打击伊朗",
@@ -1256,6 +1264,14 @@
       "word": "夜色正浓今日开播",
       "onboard_time": 1769572581,
       "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 123340,
+      "num": 102581,
+      "word": "太平年",
+      "onboard_time": 1769519541,
+      "rank": 45,
       "category": "剧集"
     },
     {
@@ -1385,6 +1401,14 @@
       "onboard_time": 1769601801,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 113895,
+      "num": 113895,
+      "word": "假如方圆脸减肥成功",
+      "onboard_time": 1769605521,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 113531,
@@ -1595,6 +1619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 103431,
+      "num": 101427,
+      "word": "美国打了美国",
+      "onboard_time": 1769606061,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 103339,
       "num": 103339,
       "word": "伊能静剪了十年没剪的斜刘海",
@@ -1627,6 +1659,14 @@
       "category": "互联网,游戏"
     },
     {
+      "raw_hot": 102885,
+      "num": 102885,
+      "word": "贝克汉姆大儿子风波后首更新ins",
+      "onboard_time": 1769604201,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 102373,
       "num": 102373,
       "word": "国外母亲控诉14岁女儿吸毒过量去世",
@@ -1635,12 +1675,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 101443,
+      "num": 101443,
+      "word": "金价",
+      "onboard_time": 1769605460,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 101182,
       "num": 101182,
       "word": "秦牛正威转行开酒馆",
       "onboard_time": 1769594841,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 100982,
+      "num": 100982,
+      "word": "男子买15元彩票中1404万",
+      "onboard_time": 1769606842,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 100454,
@@ -1683,14 +1739,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 97726,
-      "num": 97726,
-      "word": "贝克汉姆大儿子风波后首更新ins",
-      "onboard_time": 1769604201,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 97659,
       "num": 97659,
       "word": "胡歌金巴肤色差了十个度",
@@ -1705,6 +1753,14 @@
       "onboard_time": 1769572102,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 97093,
+      "num": 97093,
+      "word": "银价狂飙为啥白银基金这么少",
+      "onboard_time": 1769606601,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 96682,
@@ -1825,6 +1881,14 @@
       "onboard_time": 1769589259,
       "rank": 42,
       "category": "财经"
+    },
+    {
+      "raw_hot": 92935,
+      "num": 109697,
+      "word": "伊朗总统宣布启动紧急状态",
+      "onboard_time": 1769606002,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 92700,
@@ -1995,6 +2059,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 89433,
+      "num": 89433,
+      "word": "多家三甲医院推出外卖",
+      "onboard_time": 1769606002,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89301,
       "num": 89301,
       "word": "RW战胜RNGM",
@@ -2025,14 +2097,6 @@
       "onboard_time": 1769577500,
       "rank": 40,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 86836,
-      "num": 86836,
-      "word": "假如方圆脸减肥成功",
-      "onboard_time": 1769605521,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 86646,
@@ -2140,7 +2204,7 @@
     },
     {
       "raw_hot": 83560,
-      "num": 75907,
+      "num": 77768,
       "word": "张凌赫宋威龙都要来微博之夜",
       "onboard_time": 1769602462,
       "rank": 41,
@@ -2177,6 +2241,14 @@
       "onboard_time": 1769515760,
       "rank": 43,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 80915,
+      "num": 80915,
+      "word": "追觅科技抽奖",
+      "onboard_time": 1769605761,
+      "rank": 40,
+      "category": "互联网"
     },
     {
       "raw_hot": 80766,
@@ -2251,6 +2323,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 78778,
+      "num": 78778,
+      "word": "这些信号提示免疫力正在下降",
+      "onboard_time": 1769605221,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 78155,
       "num": 153801,
       "word": "每天一问健康福来了吗",
@@ -2281,6 +2361,14 @@
       "onboard_time": 1769598743,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 77112,
+      "num": 77112,
+      "word": "盒马就误送有毒水仙事件再致歉",
+      "onboard_time": 1769604501,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 76995,
@@ -2323,6 +2411,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 76152,
+      "num": 76152,
+      "word": "银价波动",
+      "onboard_time": 1769606902,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 75818,
       "num": 75818,
       "word": "金价又飙升的原因",
@@ -2363,6 +2459,30 @@
       "category": "互联网,游戏"
     },
     {
+      "raw_hot": 74733,
+      "num": 74733,
+      "word": "冬天吃着吃着就瘦了的食谱",
+      "onboard_time": 1769606422,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 74448,
+      "num": 73907,
+      "word": "TTG对战KSG",
+      "onboard_time": 1769606242,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 73948,
+      "num": 73948,
+      "word": "苹果和山楂放在一起",
+      "onboard_time": 1769603363,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 73825,
       "num": 73825,
       "word": "仅19天黄金涨20%白银涨50%",
@@ -2371,19 +2491,19 @@
       "category": "财经"
     },
     {
+      "raw_hot": 73825,
+      "num": 73825,
+      "word": "展轩问胡一天你多高啊",
+      "onboard_time": 1769607022,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 73676,
       "num": 73676,
       "word": "美利云一字涨停",
       "onboard_time": 1769567239,
       "rank": 46,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 73663,
-      "num": 73663,
-      "word": "金价",
-      "onboard_time": 1769605460,
-      "rank": 44,
       "category": "财经"
     },
     {
@@ -2409,14 +2529,6 @@
       "onboard_time": 1769525783,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 72830,
-      "num": 75824,
-      "word": "盒马就误送有毒水仙事件再致歉",
-      "onboard_time": 1769604501,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 72470,
@@ -2529,14 +2641,6 @@
       "onboard_time": 1769511081,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 68220,
-      "num": 68220,
-      "word": "这些信号提示免疫力正在下降",
-      "onboard_time": 1769605221,
-      "rank": 48,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 68052,
@@ -2867,6 +2971,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 38700,
+      "num": 112341,
+      "word": "私人影院想看电影必须点女孩陪看",
+      "onboard_time": 1769606301,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 38524,
+      "num": 619287,
+      "word": "政务应用程序管理新规发布",
+      "onboard_time": 1769604981,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 37764,
       "num": 188127,
       "word": "喵娲娲开启微博之夜星空毯",
@@ -2987,6 +3107,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 30251,
+      "num": 111885,
+      "word": "河南矿山回应36万元买36万枚鸡蛋",
+      "onboard_time": 1769606722,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29584,
       "num": 96899,
       "word": "魏大勋出个国帅成这样",
@@ -3011,28 +3139,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 28250,
-      "num": 34310,
-      "word": "太平年",
-      "onboard_time": 1769519541,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 27524,
       "num": 43602,
       "word": "Dior的鲜花一直盛开",
       "onboard_time": 1769517140,
       "rank": 49,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 26831,
-      "num": 612303,
-      "word": "政务应用程序管理新规发布",
-      "onboard_time": 1769604981,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 26825,

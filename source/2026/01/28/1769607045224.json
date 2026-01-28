@@ -1,0 +1,410 @@
+{
+  "runTime": 1769607045224,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 497503,
+        "num": 1079600,
+        "word": "微博之夜",
+        "onboard_time": 1769601681,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 264696,
+        "num": 771204,
+        "word": "生育津贴到手3万却被申领10万元",
+        "onboard_time": 1769590820,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38524,
+        "num": 619287,
+        "word": "政务应用程序管理新规发布",
+        "onboard_time": 1769604981,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 401609,
+        "num": 401609,
+        "word": "微博之夜简笔画",
+        "onboard_time": 1769599881,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 260667,
+        "num": 260667,
+        "word": "贝加尔湖车祸75岁中国籍女性死亡",
+        "onboard_time": 1769604082,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 262422,
+        "num": 257120,
+        "word": "李川居然是因为裸辞而出道的",
+        "onboard_time": 1769603841,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168962,
+        "num": 254354,
+        "word": "胖东来金条只剩十来块了",
+        "onboard_time": 1769603120,
+        "rank": 6,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 205219,
+        "num": 248091,
+        "word": "金价波动",
+        "onboard_time": 1769602582,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 152182,
+        "num": 247641,
+        "word": "1名中国籍游客俄罗斯死亡",
+        "onboard_time": 1769592802,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135730,
+        "num": 239777,
+        "word": "银行取消5年期存款意味着什么",
+        "onboard_time": 1769590761,
+        "rank": 9,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 417608,
+        "num": 237902,
+        "word": "张子墨 计划有变准备登陆日2026",
+        "onboard_time": 1769602101,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261478,
+        "num": 232498,
+        "word": "盒马错发水仙女子索赔375万降至48万",
+        "onboard_time": 1769596641,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 231203,
+        "num": 231203,
+        "word": "韩国素媛案凶手再入狱",
+        "onboard_time": 1769589981,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 220199,
+        "num": 220199,
+        "word": "男子强吻女同事遭辞退后索赔16万",
+        "onboard_time": 1769605580,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219916,
+        "num": 219916,
+        "word": "年少有为定档",
+        "onboard_time": 1769602401,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153618,
+        "num": 153618,
+        "word": "别告诉我这是最近的Angelababy",
+        "onboard_time": 1769601321,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113895,
+        "num": 113895,
+        "word": "假如方圆脸减肥成功",
+        "onboard_time": 1769605521,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 38700,
+        "num": 112341,
+        "word": "私人影院想看电影必须点女孩陪看",
+        "onboard_time": 1769606301,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30251,
+        "num": 111885,
+        "word": "河南矿山回应36万元买36万枚鸡蛋",
+        "onboard_time": 1769606722,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92935,
+        "num": 109697,
+        "word": "伊朗总统宣布启动紧急状态",
+        "onboard_time": 1769606002,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 5843643,
+        "num": 5843643,
+        "word": "金子涵拉黑蔡徐坤",
+        "onboard_time": 1769598862,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315373,
+        "num": 106399,
+        "word": "宋祖儿手臂和话筒一样细",
+        "onboard_time": 1769603782,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148264,
+        "num": 105630,
+        "word": "爱情公寓真的是太超前了",
+        "onboard_time": 1769595921,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104240,
+        "num": 104240,
+        "word": "谷爱凌说世界不会原谅我了",
+        "onboard_time": 1769588480,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169148,
+        "num": 103777,
+        "word": "小海绵长到我刚认识baby的年纪了",
+        "onboard_time": 1769574742,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1217583,
+        "num": 103633,
+        "word": "蔡徐坤方回应金子涵",
+        "onboard_time": 1769603661,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102885,
+        "num": 102885,
+        "word": "贝克汉姆大儿子风波后首更新ins",
+        "onboard_time": 1769604201,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123340,
+        "num": 102581,
+        "word": "太平年",
+        "onboard_time": 1769606122,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105267,
+        "num": 102491,
+        "word": "张艺兴不齐舞团一起跳大花轿",
+        "onboard_time": 1769601801,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101443,
+        "num": 101443,
+        "word": "金价",
+        "onboard_time": 1769605460,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 103431,
+        "num": 101427,
+        "word": "美国打了美国",
+        "onboard_time": 1769606061,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 100982,
+        "num": 100982,
+        "word": "男子买15元彩票中1404万",
+        "onboard_time": 1769606842,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100916,
+        "num": 100916,
+        "word": "江疏影瘦了",
+        "onboard_time": 1769599220,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100401,
+        "num": 100401,
+        "word": "虞书欣断层领跑亿屏之选人气女演员",
+        "onboard_time": 1769597902,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97093,
+        "num": 97093,
+        "word": "银价狂飙为啥白银基金这么少",
+        "onboard_time": 1769606601,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 99761,
+        "num": 96002,
+        "word": "微博之夜抢票",
+        "onboard_time": 1769585239,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 89435,
+        "num": 89435,
+        "word": "媒体说李兰迪完全不用P图",
+        "onboard_time": 1769604442,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89433,
+        "num": 89433,
+        "word": "多家三甲医院推出外卖",
+        "onboard_time": 1769606002,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83379,
+        "num": 83379,
+        "word": "樊振东感谢上海代表团的理解与支持",
+        "onboard_time": 1769600361,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83065,
+        "num": 83065,
+        "word": "太平年登顶云合",
+        "onboard_time": 1769604022,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80915,
+        "num": 80915,
+        "word": "追觅科技抽奖",
+        "onboard_time": 1769605761,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 78778,
+        "num": 78778,
+        "word": "这些信号提示免疫力正在下降",
+        "onboard_time": 1769605221,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 77768,
+        "num": 77768,
+        "word": "张凌赫宋威龙都要来微博之夜",
+        "onboard_time": 1769602462,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 77602,
+        "num": 77602,
+        "word": "当你离职减了40斤但又去上班了",
+        "onboard_time": 1769587580,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 77112,
+        "num": 77112,
+        "word": "盒马就误送有毒水仙事件再致歉",
+        "onboard_time": 1769604501,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76152,
+        "num": 76152,
+        "word": "银价波动",
+        "onboard_time": 1769606902,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 74733,
+        "num": 74733,
+        "word": "冬天吃着吃着就瘦了的食谱",
+        "onboard_time": 1769606422,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 73948,
+        "num": 73948,
+        "word": "苹果和山楂放在一起",
+        "onboard_time": 1769603363,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 74448,
+        "num": 73907,
+        "word": "TTG对战KSG",
+        "onboard_time": 1769606242,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 73825,
+        "num": 73825,
+        "word": "展轩问胡一天你多高啊",
+        "onboard_time": 1769607022,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#冰雪春天#"
+    }
+  }
+}

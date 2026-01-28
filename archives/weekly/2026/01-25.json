@@ -1,6 +1,6 @@
 {
   "startTime": 1769272464158,
-  "endTime": 1769605566943,
+  "endTime": 1769607045224,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -348,7 +348,7 @@
     },
     {
       "raw_hot": 825578,
-      "num": 216742,
+      "num": 231203,
       "word": "韩国素媛案凶手再入狱",
       "onboard_time": 1769589981,
       "rank": 14,
@@ -660,7 +660,7 @@
     },
     {
       "raw_hot": 601628,
-      "num": 797500,
+      "num": 1079600,
       "word": "微博之夜",
       "onboard_time": 1769344401,
       "rank": 18,
@@ -964,7 +964,7 @@
     },
     {
       "raw_hot": 510804,
-      "num": 140276,
+      "num": 237902,
       "word": "张子墨 计划有变准备登陆日2026",
       "onboard_time": 1769602101,
       "rank": 10,
@@ -2075,6 +2075,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 315373,
+      "num": 117980,
+      "word": "宋祖儿手臂和话筒一样细",
+      "onboard_time": 1769603782,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 315023,
       "num": 172110,
       "word": "穆祉丞高会评论区",
@@ -2412,7 +2420,7 @@
     },
     {
       "raw_hot": 280134,
-      "num": 193446,
+      "num": 257120,
       "word": "李川居然是因为裸辞而出道的",
       "onboard_time": 1769603841,
       "rank": 5,
@@ -2649,6 +2657,14 @@
       "onboard_time": 1769425940,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 260667,
+      "num": 260667,
+      "word": "贝加尔湖车祸75岁中国籍女性死亡",
+      "onboard_time": 1769604082,
+      "rank": 7,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 260446,
@@ -3004,7 +3020,7 @@
     },
     {
       "raw_hot": 234802,
-      "num": 135306,
+      "num": 219916,
       "word": "年少有为定档",
       "onboard_time": 1769602401,
       "rank": 12,
@@ -3185,6 +3201,14 @@
       "onboard_time": 1769584161,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 220199,
+      "num": 220199,
+      "word": "男子强吻女同事遭辞退后索赔16万",
+      "onboard_time": 1769605580,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 218624,
@@ -3867,6 +3891,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 168962,
+      "num": 254354,
+      "word": "胖东来金条只剩十来块了",
+      "onboard_time": 1769603120,
+      "rank": 8,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 168027,
       "num": 168027,
       "word": "陈建斌曝李亚鹏晚上睡觉没有被子",
@@ -4035,14 +4067,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 158450,
-      "num": 158450,
-      "word": "贝加尔湖车祸75岁中国籍女性死亡",
-      "onboard_time": 1769604082,
-      "rank": 7,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 158354,
       "num": 158354,
       "word": "周也 内娱免检大光明",
@@ -4105,14 +4129,6 @@
       "onboard_time": 1769482939,
       "rank": 28,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 156032,
-      "num": 117980,
-      "word": "宋祖儿手臂和话筒一样细",
-      "onboard_time": 1769603782,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 155933,
@@ -4193,6 +4209,14 @@
       "onboard_time": 1769336660,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 153618,
+      "num": 153618,
+      "word": "别告诉我这是最近的Angelababy",
+      "onboard_time": 1769601321,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 153494,
@@ -4361,14 +4385,6 @@
       "onboard_time": 1769520202,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 148144,
-      "num": 148144,
-      "word": "胖东来金条只剩十来块了",
-      "onboard_time": 1769603120,
-      "rank": 8,
-      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 147802,
@@ -4993,14 +5009,6 @@
       "onboard_time": 1769324720,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 128421,
-      "num": 128421,
-      "word": "别告诉我这是最近的Angelababy",
-      "onboard_time": 1769601321,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 128414,
@@ -5851,6 +5859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 113895,
+      "num": 113895,
+      "word": "假如方圆脸减肥成功",
+      "onboard_time": 1769605521,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 113851,
       "num": 133245,
       "word": "TES战胜IG",
@@ -6595,6 +6611,14 @@
       "category": "海外新闻,健康医疗"
     },
     {
+      "raw_hot": 103431,
+      "num": 101427,
+      "word": "美国打了美国",
+      "onboard_time": 1769606061,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 103405,
       "num": 103405,
       "word": "周翊然飞去巴黎吃火锅",
@@ -6689,6 +6713,14 @@
       "onboard_time": 1769336180,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102885,
+      "num": 102885,
+      "word": "贝克汉姆大儿子风波后首更新ins",
+      "onboard_time": 1769604201,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 102865,
@@ -6832,6 +6864,14 @@
       "word": "当当网公司因员工超长加班被罚",
       "onboard_time": 1769414961,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100982,
+      "num": 100982,
+      "word": "男子买15元彩票中1404万",
+      "onboard_time": 1769606842,
+      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -7131,14 +7171,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 97726,
-      "num": 97726,
-      "word": "贝克汉姆大儿子风波后首更新ins",
-      "onboard_time": 1769604201,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 97659,
       "num": 97659,
       "word": "胡歌金巴肤色差了十个度",
@@ -7185,6 +7217,14 @@
       "onboard_time": 1769486060,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 97093,
+      "num": 97093,
+      "word": "银价狂飙为啥白银基金这么少",
+      "onboard_time": 1769606601,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 97078,
@@ -7763,6 +7803,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 92935,
+      "num": 109697,
+      "word": "伊朗总统宣布启动紧急状态",
+      "onboard_time": 1769606002,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 92906,
       "num": 92906,
       "word": "玉兰花开君再来",
@@ -8251,6 +8299,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 89433,
+      "num": 89433,
+      "word": "多家三甲医院推出外卖",
+      "onboard_time": 1769606002,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89301,
       "num": 89301,
       "word": "RW战胜RNGM",
@@ -8465,14 +8521,6 @@
       "onboard_time": 1769473881,
       "rank": 43,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 86836,
-      "num": 86836,
-      "word": "假如方圆脸减肥成功",
-      "onboard_time": 1769605521,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 86681,
@@ -8900,7 +8948,7 @@
     },
     {
       "raw_hot": 83560,
-      "num": 75907,
+      "num": 77768,
       "word": "张凌赫宋威龙都要来微博之夜",
       "onboard_time": 1769602462,
       "rank": 41,
@@ -9179,6 +9227,14 @@
       "category": "财经,数码"
     },
     {
+      "raw_hot": 80915,
+      "num": 80915,
+      "word": "追觅科技抽奖",
+      "onboard_time": 1769605761,
+      "rank": 40,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 80890,
       "num": 80890,
       "word": "周迅 高定女王看高定秀",
@@ -9435,6 +9491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 78778,
+      "num": 78778,
+      "word": "这些信号提示免疫力正在下降",
+      "onboard_time": 1769605221,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 78743,
       "num": 78743,
       "word": "孙颖莎腊八节在训练场馆度过",
@@ -9625,6 +9689,14 @@
       "onboard_time": 1769505021,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 77112,
+      "num": 77112,
+      "word": "盒马就误送有毒水仙事件再致歉",
+      "onboard_time": 1769604501,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 77070,
@@ -9979,12 +10051,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 74733,
+      "num": 74733,
+      "word": "冬天吃着吃着就瘦了的食谱",
+      "onboard_time": 1769606422,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 74605,
       "num": 74605,
       "word": "印度尼帕病毒疫情对我国影响较小",
       "onboard_time": 1769506341,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 74448,
+      "num": 73907,
+      "word": "TTG对战KSG",
+      "onboard_time": 1769606242,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 74404,
@@ -10019,6 +10107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 73948,
+      "num": 73948,
+      "word": "苹果和山楂放在一起",
+      "onboard_time": 1769603363,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 73893,
       "num": 73893,
       "word": "lgdnbw对战DYG",
@@ -10033,6 +10129,14 @@
       "onboard_time": 1769594361,
       "rank": 45,
       "category": "财经"
+    },
+    {
+      "raw_hot": 73825,
+      "num": 73825,
+      "word": "展轩问胡一天你多高啊",
+      "onboard_time": 1769607022,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 73783,
@@ -10121,14 +10225,6 @@
       "onboard_time": 1769263822,
       "rank": 46,
       "category": "演出"
-    },
-    {
-      "raw_hot": 72830,
-      "num": 75824,
-      "word": "盒马就误送有毒水仙事件再致歉",
-      "onboard_time": 1769604501,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 72470,
@@ -10520,14 +10616,6 @@
       "word": "身体的6个求救信号千万别忽视",
       "onboard_time": 1769332819,
       "rank": 44,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 68220,
-      "num": 68220,
-      "word": "这些信号提示免疫力正在下降",
-      "onboard_time": 1769605221,
-      "rank": 48,
       "category": "健康医疗"
     },
     {
@@ -11795,6 +11883,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 38700,
+      "num": 112341,
+      "word": "私人影院想看电影必须点女孩陪看",
+      "onboard_time": 1769606301,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 38524,
+      "num": 619287,
+      "word": "政务应用程序管理新规发布",
+      "onboard_time": 1769604981,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 38351,
       "num": 136999,
       "word": "章若楠的新年好运风向",
@@ -12195,6 +12299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 30251,
+      "num": 111885,
+      "word": "河南矿山回应36万元买36万枚鸡蛋",
+      "onboard_time": 1769606722,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30210,
       "num": 58332,
       "word": "TWS中文歌舞台",
@@ -12289,14 +12401,6 @@
       "onboard_time": 1769499080,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 26831,
-      "num": 612303,
-      "word": "政务应用程序管理新规发布",
-      "onboard_time": 1769604981,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 26825,
