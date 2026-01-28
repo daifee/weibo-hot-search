@@ -1,6 +1,6 @@
 {
   "startTime": 1769272464158,
-  "endTime": 1769557495297,
+  "endTime": 1769566423042,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -755,6 +755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 521527,
+      "num": 253890,
+      "word": "盒马误送有毒水仙球致老人孩子中毒",
+      "onboard_time": 1769557160,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 520258,
       "num": 1083241,
       "word": "92岁老人每天睡超20小时身体倍棒",
@@ -1459,6 +1467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 340507,
+      "num": 1054481,
+      "word": "团播不得浓妆艳抹过度磨皮美颜",
+      "onboard_time": 1769529081,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 339348,
       "num": 304489,
       "word": "姜丹尼尔赖冠霖不参加wannaone重聚",
@@ -1996,7 +2012,7 @@
     },
     {
       "raw_hot": 277730,
-      "num": 667636,
+      "num": 739102,
       "word": "1克黄金竟能打造一张完整黄金婚书",
       "onboard_time": 1769524342,
       "rank": 17,
@@ -2049,6 +2065,14 @@
       "onboard_time": 1769343260,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 272876,
+      "num": 272876,
+      "word": "拒绝暗示性求助",
+      "onboard_time": 1769565259,
+      "rank": 5,
+      "category": "情感"
     },
     {
       "raw_hot": 272235,
@@ -2155,6 +2179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 262351,
+      "num": 103062,
+      "word": "周深自曝身高1.61米",
+      "onboard_time": 1769557819,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 262042,
       "num": 206823,
       "word": "车厘子包装袋不要丢",
@@ -2257,6 +2289,14 @@
       "onboard_time": 1769503281,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 252506,
+      "num": 252506,
+      "word": "杨紫Duang的一下就坐下去了",
+      "onboard_time": 1769563819,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 251291,
@@ -2723,14 +2763,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 205172,
-      "num": 903938,
-      "word": "团播不得浓妆艳抹过度磨皮美颜",
-      "onboard_time": 1769529081,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 204118,
       "num": 92708,
       "word": "前女友回应何健麒",
@@ -3091,6 +3123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 174044,
+      "num": 174044,
+      "word": "张译上过的所有学校都倒闭了",
+      "onboard_time": 1769564840,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 172443,
       "num": 163348,
       "word": "高会L销号",
@@ -3116,7 +3156,7 @@
     },
     {
       "raw_hot": 171733,
-      "num": 171733,
+      "num": 356414,
       "word": "崩坏星穹铁道",
       "onboard_time": 1769556317,
       "rank": 8,
@@ -3169,6 +3209,14 @@
       "onboard_time": 1769254281,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 167606,
+      "num": 167606,
+      "word": "iPhone4S为何突然迎来第二春",
+      "onboard_time": 1769528120,
+      "rank": 47,
+      "category": "数码"
     },
     {
       "raw_hot": 166963,
@@ -3321,6 +3369,22 @@
       "onboard_time": 1769434761,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 157233,
+      "num": 157233,
+      "word": "肖战会去救马云",
+      "onboard_time": 1769566338,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 156967,
+      "num": 103041,
+      "word": "蔡天凤被害原因疑为房产纠纷",
+      "onboard_time": 1769561900,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 156575,
@@ -3899,14 +3963,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 133625,
-      "num": 95386,
-      "word": "iPhone4S为何突然迎来第二春",
-      "onboard_time": 1769528120,
-      "rank": 47,
-      "category": "数码"
-    },
-    {
       "raw_hot": 133484,
       "num": 133484,
       "word": "小海绵说不蹦",
@@ -4107,6 +4163,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 127657,
+      "num": 273406,
+      "word": "6岁男孩高烧5天查出白血病",
+      "onboard_time": 1769557578,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127609,
       "num": 127609,
       "word": "克林顿奥巴马发声",
@@ -4273,6 +4337,14 @@
       "onboard_time": 1769302640,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 123868,
+      "num": 269652,
+      "word": "北海道罕见暴雪游客称这辈子再也不来",
+      "onboard_time": 1769556438,
+      "rank": 32,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 123704,
@@ -4747,12 +4819,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 113468,
+      "num": 103025,
+      "word": "身体进入缺觉模式的表现",
+      "onboard_time": 1769559740,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 113429,
       "num": 113429,
       "word": "猫 没吃的你咪什么咪",
       "onboard_time": 1769486180,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 113160,
+      "num": 103021,
+      "word": "曝TFBOYS小时候没钱吃饭",
+      "onboard_time": 1769565499,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 113054,
@@ -4819,6 +4907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 110880,
+      "num": 110880,
+      "word": "女子买100克黄金轮胎手镯赚4万多",
+      "onboard_time": 1769528721,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 110695,
       "num": 108900,
       "word": "那英华晨宇始终如一的魔丸味",
@@ -4873,6 +4969,14 @@
       "onboard_time": 1769339960,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 109270,
+      "num": 260832,
+      "word": "美向以色列通报对伊朗军事行动准备",
+      "onboard_time": 1769565078,
+      "rank": 8,
+      "category": "国际时政"
     },
     {
       "raw_hot": 109249,
@@ -4969,6 +5073,14 @@
       "onboard_time": 1769526381,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107760,
+      "num": 107760,
+      "word": "一种很新的旅行方式",
+      "onboard_time": 1769565199,
+      "rank": 18,
+      "category": "幽默"
     },
     {
       "raw_hot": 107659,
@@ -5105,6 +5217,14 @@
       "onboard_time": 1769398999,
       "rank": 30,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 105697,
+      "num": 259899,
+      "word": "美国前总统反对美国现政府",
+      "onboard_time": 1769560640,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 105466,
@@ -5251,14 +5371,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 103777,
-      "num": 75827,
-      "word": "女子买100克黄金轮胎手镯赚4万多",
-      "onboard_time": 1769528721,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 103727,
       "num": 103727,
       "word": "剑网3",
@@ -5347,6 +5459,14 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 103065,
+      "num": 103065,
+      "word": "假如玩鹅鸭杀遇到雷军",
+      "onboard_time": 1769564538,
+      "rank": 19,
+      "category": "互联网,游戏"
+    },
+    {
       "raw_hot": 103043,
       "num": 103043,
       "word": "当外国人第一次吃饺子",
@@ -5361,6 +5481,14 @@
       "onboard_time": 1769346323,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 103016,
+      "num": 103016,
+      "word": "黄金白银再涨爆",
+      "onboard_time": 1769563639,
+      "rank": 26,
+      "category": "财经"
     },
     {
       "raw_hot": 103000,
@@ -5763,6 +5891,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 97605,
+      "num": 97605,
+      "word": "河南夫妻36万枚鸡蛋卖出36万元",
+      "onboard_time": 1769556438,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97406,
       "num": 94641,
       "word": "王玉雯 我也是个女生我有点害羞",
@@ -5793,14 +5929,6 @@
       "onboard_time": 1769425582,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 97078,
-      "num": 97078,
-      "word": "盒马误送有毒水仙球致老人孩子中毒",
-      "onboard_time": 1769557160,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 96991,
@@ -5905,6 +6033,14 @@
       "onboard_time": 1769323280,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 96350,
+      "num": 96350,
+      "word": "旅日大熊猫回国走出快乐步伐",
+      "onboard_time": 1769565920,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96327,
@@ -6131,6 +6267,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 94302,
+      "num": 94302,
+      "word": "李清明 漂亮",
+      "onboard_time": 1769563400,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 94298,
       "num": 94298,
       "word": "左奇函未公开照片",
@@ -6267,14 +6411,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 93085,
-      "num": 93085,
-      "word": "北海道罕见暴雪游客称这辈子再也不来",
-      "onboard_time": 1769556438,
-      "rank": 32,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 92906,
       "num": 92906,
       "word": "玉兰花开君再来",
@@ -6347,6 +6483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 91772,
+      "num": 91772,
+      "word": "冷空气又返场了",
+      "onboard_time": 1769563459,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91748,
       "num": 94193,
       "word": "阿尔卡拉斯首进澳网男单四强",
@@ -6417,14 +6561,6 @@
       "onboard_time": 1769524943,
       "rank": 39,
       "category": "财经"
-    },
-    {
-      "raw_hot": 90955,
-      "num": 73672,
-      "word": "河南夫妻36万枚鸡蛋卖出36万元",
-      "onboard_time": 1769556438,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 90879,
@@ -6793,6 +6929,14 @@
       "onboard_time": 1769473881,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 86730,
+      "num": 86730,
+      "word": "鞠婧祎彝族服饰路透",
+      "onboard_time": 1769565438,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 86681,
@@ -7643,6 +7787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 77906,
+      "num": 77906,
+      "word": "女子充完电扔充电枪开车碾压",
+      "onboard_time": 1769556798,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77869,
       "num": 102381,
       "word": "优酷连更52条评论白鹿王星越",
@@ -7737,6 +7889,14 @@
       "onboard_time": 1769424323,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 76919,
+      "num": 76919,
+      "word": "黄金白银再度巨震",
+      "onboard_time": 1769562621,
+      "rank": 35,
+      "category": "财经"
     },
     {
       "raw_hot": 76878,
@@ -7849,6 +8009,14 @@
       "onboard_time": 1769507120,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 75920,
+      "num": 75920,
+      "word": "科比大女儿发文缅怀",
+      "onboard_time": 1769566338,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 75843,
@@ -8097,6 +8265,14 @@
       "onboard_time": 1769263822,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 72470,
+      "num": 72470,
+      "word": "马云和肖战同时掉水里你救谁",
+      "onboard_time": 1769564959,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 72325,
@@ -8539,6 +8715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 65988,
+      "num": 65988,
+      "word": "结了婚才知道纸有那么多种类型",
+      "onboard_time": 1769565438,
+      "rank": 40,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 65288,
       "num": 64602,
       "word": "迪丽热巴被圣光照拂的猫",
@@ -8561,6 +8745,14 @@
       "onboard_time": 1769310020,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 65058,
+      "num": 65058,
+      "word": "拍打腹股沟可以排泄腹部痰湿水饮",
+      "onboard_time": 1769556438,
+      "rank": 41,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 64639,
@@ -8747,6 +8939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 60539,
+      "num": 60539,
+      "word": "马马马义乌马马马",
+      "onboard_time": 1769558000,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 60203,
       "num": 181245,
       "word": "马年春联起点太高了",
@@ -8843,6 +9043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 57446,
+      "num": 57446,
+      "word": "Mike聚餐穿了何与送的衣服",
+      "onboard_time": 1769565979,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 57256,
       "num": 67053,
       "word": "詹俊解说",
@@ -8923,6 +9131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 55173,
+      "num": 55173,
+      "word": "通勤包越来越抽象了",
+      "onboard_time": 1769565739,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 55117,
       "num": 217852,
       "word": "游戏玩家把抢头福加入日常任务",
@@ -8993,14 +9209,6 @@
       "onboard_time": 1769417662,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 53354,
-      "num": 53354,
-      "word": "女子充完电扔充电枪开车碾压",
-      "onboard_time": 1769556798,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 52788,
@@ -9249,14 +9457,6 @@
       "onboard_time": 1769486421,
       "rank": 18,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 45709,
-      "num": 45709,
-      "word": "拍打腹股沟可以排泄腹部痰湿水饮",
-      "onboard_time": 1769556438,
-      "rank": 41,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 44309,
@@ -9665,6 +9865,14 @@
       "onboard_time": 1769480120,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34884,
+      "num": 64722,
+      "word": "邓超减掉40斤时连嚼的力气都没有",
+      "onboard_time": 1769566399,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 34774,
@@ -10232,6 +10440,14 @@
       "word": "李柯以万事都可以",
       "onboard_time": 1769411061,
       "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 20154,
+      "num": 64860,
+      "word": "papi酱想象中的春晚导演",
+      "onboard_time": 1769566399,
+      "rank": 43,
       "category": "艺人"
     },
     {
