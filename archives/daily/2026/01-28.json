@@ -1,6 +1,6 @@
 {
   "startTime": 1769531989527,
-  "endTime": 1769585716259,
+  "endTime": 1769586480946,
   "band_list": [
     {
       "raw_hot": 1146034,
@@ -43,6 +43,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 675970,
+      "num": 1108155,
+      "word": "素媛案罪犯违令外出再被判刑",
+      "onboard_time": 1769582600,
+      "rank": 24,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 661685,
       "num": 195671,
       "word": "玄彬回应儿子催孙艺珍吹蜡烛",
@@ -73,14 +81,6 @@
       "onboard_time": 1769526860,
       "rank": 20,
       "category": "财经"
-    },
-    {
-      "raw_hot": 604889,
-      "num": 1096782,
-      "word": "素媛案罪犯违令外出再被判刑",
-      "onboard_time": 1769582600,
-      "rank": 24,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 559447,
@@ -163,6 +163,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 416084,
+      "num": 782665,
+      "word": "烤鱼店老板投喂流浪猫躲过一劫",
+      "onboard_time": 1769577381,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 411151,
       "num": 233386,
       "word": "金价暴涨女子卖300克黄金变现30万",
@@ -171,12 +179,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 404327,
-      "num": 404327,
-      "word": "烤鱼店老板投喂流浪猫躲过一劫",
-      "onboard_time": 1769577381,
-      "rank": 25,
-      "category": "民生新闻"
+      "raw_hot": 409133,
+      "num": 213091,
+      "word": "微博之夜抢票",
+      "onboard_time": 1769585239,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 377495,
@@ -227,11 +235,35 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 336922,
+      "num": 241067,
+      "word": "小S给陈汉典的婚后建议",
+      "onboard_time": 1769583801,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 333723,
       "num": 187448,
       "word": "第一次给艺人穿鞋时我哭了",
       "onboard_time": 1769575102,
       "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 324847,
+      "num": 324847,
+      "word": "黄金再暴涨原因",
+      "onboard_time": 1769583679,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 323498,
+      "num": 239987,
+      "word": "王俊凯到澳大利亚了",
+      "onboard_time": 1769584582,
+      "rank": 12,
       "category": "艺人"
     },
     {
@@ -249,14 +281,6 @@
       "onboard_time": 1769575461,
       "rank": 30,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 308242,
-      "num": 241067,
-      "word": "小S给陈汉典的婚后建议",
-      "onboard_time": 1769583801,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 306348,
@@ -379,22 +403,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 241965,
-      "num": 241965,
-      "word": "黄金再暴涨原因",
-      "onboard_time": 1769583679,
-      "rank": 9,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 239987,
-      "num": 239987,
-      "word": "王俊凯到澳大利亚了",
-      "onboard_time": 1769584582,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 236323,
       "num": 236323,
       "word": "台湾退役军人能否免费进入大陆景区",
@@ -507,6 +515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 186762,
+      "num": 186762,
+      "word": "张萌说孟子义太红了",
+      "onboard_time": 1769585660,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 179390,
       "num": 517229,
       "word": "微博之夜阵容官宣",
@@ -537,6 +553,14 @@
       "onboard_time": 1769528120,
       "rank": 19,
       "category": "数码"
+    },
+    {
+      "raw_hot": 167512,
+      "num": 167512,
+      "word": "德约科维奇晋级澳网男单四强",
+      "onboard_time": 1769585060,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 162847,
@@ -603,14 +627,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 155559,
-      "num": 155559,
-      "word": "德约科维奇晋级澳网男单四强",
-      "onboard_time": 1769585060,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 152245,
       "num": 152245,
       "word": "王真儿有罪之身是一番",
@@ -657,6 +673,14 @@
       "onboard_time": 1769517800,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 135766,
+      "num": 135766,
+      "word": "程潇8年后和偶练选手在芒果重聚",
+      "onboard_time": 1769585121,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 135558,
@@ -843,14 +867,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 122498,
-      "num": 122498,
-      "word": "微博之夜抢票",
-      "onboard_time": 1769585239,
-      "rank": 28,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 122016,
       "num": 77647,
       "word": "张雨绮多个商务被取消",
@@ -865,6 +881,14 @@
       "onboard_time": 1769581220,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 120361,
+      "num": 120361,
+      "word": "不要有破防羞耻症",
+      "onboard_time": 1769585960,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 119916,
@@ -1075,14 +1099,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 106162,
-      "num": 101176,
-      "word": "程潇8年后和偶练选手在芒果重聚",
-      "onboard_time": 1769585121,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 105697,
       "num": 259899,
       "word": "美国前总统反对美国现政府",
@@ -1129,6 +1145,22 @@
       "onboard_time": 1769564538,
       "rank": 19,
       "category": "互联网,游戏"
+    },
+    {
+      "raw_hot": 102373,
+      "num": 102373,
+      "word": "国外母亲控诉14岁女儿吸毒过量去世",
+      "onboard_time": 1769584760,
+      "rank": 43,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 100380,
+      "num": 100380,
+      "word": "叶祖新 这是猪这也是猪",
+      "onboard_time": 1769585360,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 98603,
@@ -1267,14 +1299,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 90139,
-      "num": 90139,
-      "word": "张萌说孟子义太红了",
-      "onboard_time": 1769585660,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 90089,
       "num": 71964,
       "word": "女子在卫生间发现不雅标语引热议",
@@ -1307,6 +1331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 88460,
+      "num": 92645,
+      "word": "真的很不理解老一辈的体面",
+      "onboard_time": 1769585901,
+      "rank": 41,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 87676,
       "num": 89830,
       "word": "男生是HPV高风险人群吗",
@@ -1315,12 +1347,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 86912,
-      "num": 86912,
-      "word": "国外母亲控诉14岁女儿吸毒过量去世",
-      "onboard_time": 1769584760,
-      "rank": 43,
-      "category": "海外新闻"
+      "raw_hot": 87333,
+      "num": 87333,
+      "word": "面试官最爱听的离职原因",
+      "onboard_time": 1769585901,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 86646,
@@ -1385,6 +1417,14 @@
       "onboard_time": 1769584819,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 82048,
+      "num": 82048,
+      "word": "王嘉尔疑似直男被吓麻了",
+      "onboard_time": 1769586441,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 81464,
@@ -1457,14 +1497,6 @@
       "onboard_time": 1769566459,
       "rank": 42,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 75459,
-      "num": 96968,
-      "word": "叶祖新 这是猪这也是猪",
-      "onboard_time": 1769585360,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 75404,
@@ -1691,6 +1723,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 49955,
+      "num": 99069,
+      "word": "外国人与中国网约车司机争执",
+      "onboard_time": 1769585239,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49949,
       "num": 176958,
       "word": "文旅都在玩余额宝谐音梗祝福上分",
@@ -1740,7 +1780,7 @@
     },
     {
       "raw_hot": 45486,
-      "num": 640417,
+      "num": 647972,
       "word": "超8000列动车组提供静音车厢服务",
       "onboard_time": 1769575700,
       "rank": 2,
@@ -1819,14 +1859,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 36321,
-      "num": 99069,
-      "word": "外国人与中国网约车司机争执",
-      "onboard_time": 1769585239,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 35709,
       "num": 35709,
       "word": "檀健次看粉丝应援落泪",
@@ -1857,6 +1889,14 @@
       "onboard_time": 1769582059,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 34355,
+      "num": 94974,
+      "word": "喂流浪猫男子称无意的善举换来福报",
+      "onboard_time": 1769585780,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 33426,
@@ -1963,7 +2003,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 25417,
+      "raw_hot": 25654,
       "num": 95471,
       "word": "喵娲娲再送7张微博之夜门票",
       "onboard_time": 1769583679,
