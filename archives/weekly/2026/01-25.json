@@ -1,6 +1,6 @@
 {
   "startTime": 1769272464158,
-  "endTime": 1769593376467,
+  "endTime": 1769594220141,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -11,8 +11,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 9564584,
-      "num": 9564584,
+      "raw_hot": 10607824,
+      "num": 10607824,
       "word": "阿富汗永久禁止女性上学",
       "onboard_time": 1769588241,
       "rank": 11,
@@ -1155,6 +1155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 458510,
+      "num": 1073361,
+      "word": "生育津贴到手3万却被申领10万元",
+      "onboard_time": 1769590820,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 457481,
       "num": 224722,
       "word": "被指张雨绮事件涉事律师律所回应",
@@ -1473,14 +1481,6 @@
       "onboard_time": 1769486781,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 384632,
-      "num": 384632,
-      "word": "生育津贴到手3万却被申领10万元",
-      "onboard_time": 1769590820,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 382227,
@@ -2459,6 +2459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 267179,
+      "num": 267179,
+      "word": "银行取消5年期存款意味着什么",
+      "onboard_time": 1769590761,
+      "rank": 5,
+      "category": "财经,民生新闻"
+    },
+    {
       "raw_hot": 266612,
       "num": 266612,
       "word": "靖国神社前的石狮掠自中国",
@@ -2705,14 +2713,6 @@
       "onboard_time": 1769574861,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 249028,
-      "num": 249028,
-      "word": "银行取消5年期存款意味着什么",
-      "onboard_time": 1769590761,
-      "rank": 5,
-      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 248471,
@@ -3371,6 +3371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 193505,
+      "num": 93257,
+      "word": "2025搜狐黑榜艺人",
+      "onboard_time": 1769592562,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 192607,
       "num": 95705,
       "word": "90后女子存20万私房钱被丈夫发现",
@@ -3659,6 +3667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 170641,
+      "num": 170641,
+      "word": "MBC澳门取消",
+      "onboard_time": 1769591542,
+      "rank": 8,
+      "category": "演出"
+    },
+    {
       "raw_hot": 170623,
       "num": 170623,
       "word": "王安宇明侦凶手的救星来了",
@@ -3873,6 +3889,14 @@
       "onboard_time": 1769260701,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 157721,
+      "num": 157721,
+      "word": "重庆一火锅店收1人20元辛苦费",
+      "onboard_time": 1769590161,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 157576,
@@ -4251,14 +4275,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 144728,
-      "num": 144728,
-      "word": "MBC澳门取消",
-      "onboard_time": 1769591542,
-      "rank": 8,
-      "category": "演出"
-    },
-    {
       "raw_hot": 143520,
       "num": 143520,
       "word": "印度感染护士误饮被蝙蝠污染椰枣汁",
@@ -4347,14 +4363,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 140792,
-      "num": 93257,
-      "word": "2025搜狐黑榜艺人",
-      "onboard_time": 1769592562,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 140748,
       "num": 109663,
       "word": "沈梦辰带婆婆追星",
@@ -4369,6 +4377,14 @@
       "onboard_time": 1769513062,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 140655,
+      "num": 140655,
+      "word": "姜母鸭",
+      "onboard_time": 1769591721,
+      "rank": 17,
+      "category": "美食"
     },
     {
       "raw_hot": 140522,
@@ -4465,6 +4481,14 @@
       "onboard_time": 1769320760,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 137095,
+      "num": 137095,
+      "word": "无限暖暖",
+      "onboard_time": 1769252840,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 136901,
@@ -4857,14 +4881,6 @@
       "onboard_time": 1769494759,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 127146,
-      "num": 143223,
-      "word": "重庆一火锅店收1人20元辛苦费",
-      "onboard_time": 1769590161,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 127130,
@@ -5459,6 +5475,14 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 115810,
+      "num": 85575,
+      "word": "秦牛正威开酒馆客单价200元",
+      "onboard_time": 1769593582,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 115711,
       "num": 115711,
       "word": "3种不健康的早餐搭配别再吃了",
@@ -5635,6 +5659,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 113248,
+      "num": 113248,
+      "word": "金莎说自己备婚超级忙",
+      "onboard_time": 1769590102,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 113160,
       "num": 103021,
       "word": "曝TFBOYS小时候没钱吃饭",
@@ -5673,14 +5705,6 @@
       "onboard_time": 1769314821,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 112458,
-      "num": 112458,
-      "word": "姜母鸭",
-      "onboard_time": 1769591721,
-      "rank": 17,
-      "category": "美食"
     },
     {
       "raw_hot": 112306,
@@ -6459,14 +6483,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 102094,
-      "num": 102094,
-      "word": "金莎说自己备婚超级忙",
-      "onboard_time": 1769590102,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 102003,
       "num": 122617,
       "word": "周震南演唱会没有舞台",
@@ -6595,6 +6611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 100454,
+      "num": 100191,
+      "word": "冰雨火大舅哥吐槽cp粉",
+      "onboard_time": 1769589321,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 100380,
       "num": 100380,
       "word": "叶祖新 这是猪这也是猪",
@@ -6617,14 +6641,6 @@
       "onboard_time": 1769317821,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 100191,
-      "num": 100191,
-      "word": "冰雨火大舅哥吐槽cp粉",
-      "onboard_time": 1769589321,
-      "rank": 43,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 100129,
@@ -6665,6 +6681,14 @@
       "onboard_time": 1769499441,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 99825,
+      "num": 89221,
+      "word": "鲁豫范晓萱 你知道你的影响力吗",
+      "onboard_time": 1769593043,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 99820,
@@ -7065,6 +7089,14 @@
       "onboard_time": 1769420662,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 95932,
+      "num": 95932,
+      "word": "1名中国籍游客俄罗斯死亡",
+      "onboard_time": 1769592802,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 95860,
@@ -7523,6 +7555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 91740,
+      "num": 80812,
+      "word": "小英说要给孩子打生长激素",
+      "onboard_time": 1769593223,
+      "rank": 42,
+      "category": "网红"
+    },
+    {
       "raw_hot": 91713,
       "num": 146360,
       "word": "加总理卡尼叹气回应被特朗普叫州长",
@@ -7731,6 +7771,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 90251,
+      "num": 90251,
+      "word": "RW发文用野草形容我吧",
+      "onboard_time": 1769594122,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 90186,
       "num": 90186,
       "word": "腾讯2026年会",
@@ -7777,14 +7825,6 @@
       "onboard_time": 1769577080,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 90007,
-      "num": 89221,
-      "word": "鲁豫范晓萱 你知道你的影响力吗",
-      "onboard_time": 1769593043,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 89992,
@@ -7843,20 +7883,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 89298,
+      "num": 92763,
+      "word": "黄金暴涨来不及报盘了",
+      "onboard_time": 1769591301,
+      "rank": 26,
+      "category": "财经"
+    },
+    {
       "raw_hot": 89212,
       "num": 89212,
       "word": "零食界的苹果",
       "onboard_time": 1769515881,
       "rank": 36,
       "category": "美食"
-    },
-    {
-      "raw_hot": 89180,
-      "num": 89180,
-      "word": "1名中国籍游客俄罗斯死亡",
-      "onboard_time": 1769592802,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 89072,
@@ -8041,6 +8081,14 @@
       "onboard_time": 1769406501,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 87131,
+      "num": 76566,
+      "word": "高片酬糊弄姐 傲慢罢工姐",
+      "onboard_time": 1769593880,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 86966,
@@ -8531,6 +8579,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 82668,
+      "num": 82668,
+      "word": "郁亮被爆失联",
+      "onboard_time": 1769593341,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 82615,
       "num": 82615,
       "word": "相亲相到熟人是什么体验",
@@ -8721,14 +8777,6 @@
       "onboard_time": 1769511920,
       "rank": 42,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 80812,
-      "num": 80812,
-      "word": "小英说要给孩子打生长激素",
-      "onboard_time": 1769593223,
-      "rank": 42,
-      "category": "网红"
     },
     {
       "raw_hot": 80703,
@@ -9059,6 +9107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 77910,
+      "num": 74953,
+      "word": "肖战是媒体眼中的满分男",
+      "onboard_time": 1769593821,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 77869,
       "num": 102381,
       "word": "优酷连更52条评论白鹿王星越",
@@ -9227,6 +9283,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 76263,
+      "num": 82310,
+      "word": "比小猫还大的舌头正在舔小猫",
+      "onboard_time": 1769593521,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 76251,
       "num": 111239,
       "word": "孟加拉国尼帕病毒源于果蝠污染饮料",
@@ -9241,6 +9305,14 @@
       "onboard_time": 1769320940,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 76129,
+      "num": 76129,
+      "word": "苟姓爸爸怕女儿尴尬一起改姓敬",
+      "onboard_time": 1769593764,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 76091,
@@ -9535,6 +9607,14 @@
       "num": 73157,
       "word": "通勤包越来越抽象了",
       "onboard_time": 1769565739,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 73093,
+      "num": 73093,
+      "word": "人怎么可以社牛的如此自然",
+      "onboard_time": 1769594181,
       "rank": 49,
       "category": "幽默"
     },
@@ -9875,14 +9955,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 69389,
-      "num": 69389,
-      "word": "郁亮被爆失联",
-      "onboard_time": 1769593341,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 69078,
       "num": 69078,
       "word": "小猫穿戴聪明毛",
@@ -10115,6 +10187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 64239,
+      "num": 81537,
+      "word": "ICE擅闯他国领事馆",
+      "onboard_time": 1769593462,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 64067,
       "num": 111792,
       "word": "为什么德国没有斩杀线",
@@ -10273,6 +10353,14 @@
       "onboard_time": 1769581640,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 61180,
+      "num": 80236,
+      "word": "婆婆妈妈撞脸酷似双胞胎",
+      "onboard_time": 1769594122,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 61138,
@@ -11177,14 +11265,6 @@
       "onboard_time": 1769576421,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 37702,
-      "num": 66976,
-      "word": "无限暖暖",
-      "onboard_time": 1769252840,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 37668,
