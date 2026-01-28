@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/28 10:38:15
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/28 12:11:38
 </p>
 </blockquote>
 <p>
@@ -3297,6 +3297,12 @@ B站百大UP主（热度：640857）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E9%A5%B0%E5%85%8B%E4%BB%B7%E7%AA%81%E7%A0%B41620%E5%85%83%23" target="weibo">
+金饰克价突破1620元（热度：638789）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%9D%9C%E7%BD%97%E5%8F%8A%E5%85%B6%E5%A4%AB%E4%BA%BA%E5%B7%B2%E5%9C%A8%E7%BE%8E%E5%9B%BD%E8%A2%AB%E8%B5%B7%E8%AF%89%23" target="weibo">
 马杜罗及其夫人已在美国被起诉（热度：638474）
 </a>
@@ -3845,6 +3851,12 @@ iPhone18Pro渲染视频曝光（热度：621333）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%97%E6%B0%B8%E6%B5%A9%E5%A5%96%E6%9D%AF%E6%96%AD%E6%88%90%E4%B8%A4%E5%8D%8A%23" target="weibo">
 罗永浩奖杯断成两半（热度：589918）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E5%BB%BA%E8%AE%AE%E9%A9%AC%E6%A1%B6%E4%BD%BF%E7%94%A8%E8%93%9D%E6%B3%A1%E6%B3%A1%23" target="weibo">
+不建议马桶使用蓝泡泡（热度：589916）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ TF二代吻戏第一人（热度：484726）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E5%A5%B3%E5%AD%90%E7%9C%8B%E7%94%B5%E8%A7%86%E5%8F%91%E7%8E%B0%E8%87%AA%E5%B7%B1%E6%AD%BB%E5%9C%A8%E4%BC%8A%E6%9C%97%23" target="weibo">
 以色列女子看电视发现自己死在伊朗（热度：480571）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2327%E5%B2%81%E5%81%A5%E8%BA%AB%E6%95%99%E7%BB%83%E7%B2%BE%E5%AD%90%E7%95%B8%E5%BD%A2%E7%8E%87%E8%B6%8590%25%23" target="weibo">
-27岁健身教练精子畸形率超90%（热度：480295）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23B%E7%AB%99%E5%B4%A9%E4%BA%86%23" target="weibo">
-B站崩了（热度：480074）
 </a>
 </li>
 
