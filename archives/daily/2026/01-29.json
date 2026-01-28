@@ -1,6 +1,6 @@
 {
   "startTime": 1769616009567,
-  "endTime": 1769632860578,
+  "endTime": 1769633872472,
   "band_list": [
     {
       "raw_hot": 1779996,
@@ -580,11 +580,19 @@
     },
     {
       "raw_hot": 9889,
-      "num": 13263,
+      "num": 22434,
       "word": "KPL",
       "onboard_time": 1769592980,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 6591,
+      "num": 38365,
+      "word": "当冰雪大地邂逅璀璨星空",
+      "onboard_time": 1769604501,
+      "rank": 2,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

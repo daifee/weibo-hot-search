@@ -1,0 +1,410 @@
+{
+  "runTime": 1769633872472,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 72510,
+        "num": 72510,
+        "word": "生命树",
+        "onboard_time": 1769616202,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42159,
+        "num": 49710,
+        "word": "男子买15元彩票中1404万",
+        "onboard_time": 1769606842,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 6591,
+        "num": 38365,
+        "word": "当冰雪大地邂逅璀璨星空",
+        "onboard_time": 1769604501,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48687,
+        "num": 37380,
+        "word": "微博之夜",
+        "onboard_time": 1769601681,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 35779,
+        "num": 35779,
+        "word": "女子考编第1政审不合格第2名递补",
+        "onboard_time": 1769612486,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37106,
+        "num": 34768,
+        "word": "黄金白银基金暂停申购",
+        "onboard_time": 1769611286,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 29942,
+        "num": 29942,
+        "word": "贝加尔湖车祸75岁中国籍女性死亡",
+        "onboard_time": 1769604082,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 29179,
+        "num": 29179,
+        "word": "南通发现1例罕见恐龙血",
+        "onboard_time": 1769612131,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23240,
+        "num": 23240,
+        "word": "东北人发现飞俄罗斯坐船回家更便宜",
+        "onboard_time": 1769616380,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22003,
+        "num": 23171,
+        "word": "迪丽热巴 春晚分会场",
+        "onboard_time": 1769613144,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 71718,
+        "num": 23112,
+        "word": "阚清子近照状态",
+        "onboard_time": 1769608162,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 68982,
+        "num": 23044,
+        "word": "胎儿一脚踢破妈妈子宫致羊水流失",
+        "onboard_time": 1769612608,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33858,
+        "num": 22963,
+        "word": "穆祉丞比2",
+        "onboard_time": 1769612549,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25224,
+        "num": 22902,
+        "word": "杨紫为上镜暴瘦15斤",
+        "onboard_time": 1769608282,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22861,
+        "num": 22861,
+        "word": "美国超级暴风雪大量流浪汉冻死街头",
+        "onboard_time": 1769617997,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 20716,
+        "num": 22846,
+        "word": "深圳小学期末考被称堪比公务员行测",
+        "onboard_time": 1769616441,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19555,
+        "num": 22807,
+        "word": "阿富汗女性教育到小学为止",
+        "onboard_time": 1769611950,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 18833,
+        "num": 22785,
+        "word": "别告诉我这是最近的Angelababy",
+        "onboard_time": 1769601321,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17159,
+        "num": 22767,
+        "word": "突然的喜欢",
+        "onboard_time": 1769603001,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16863,
+        "num": 22739,
+        "word": "女子随夫姓30余年想改回原名遇阻",
+        "onboard_time": 1769620397,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104549,
+        "num": 22700,
+        "word": "金子涵拉黑蔡徐坤",
+        "onboard_time": 1769598862,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22685,
+        "num": 22685,
+        "word": "金价波动",
+        "onboard_time": 1769602582,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 22602,
+        "num": 22602,
+        "word": "42岁女子吃紧急避孕药大出血险丢命",
+        "onboard_time": 1769611406,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15929,
+        "num": 22600,
+        "word": "精神压力维生素D缺乏等易催生白发",
+        "onboard_time": 1769613982,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 15570,
+        "num": 22588,
+        "word": "胖东来未上市新品火锅底料遭曝光",
+        "onboard_time": 1769616320,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41936,
+        "num": 22583,
+        "word": "蔡徐坤 金子涵",
+        "onboard_time": 1769598082,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15020,
+        "num": 22573,
+        "word": "任权要求薛小婉带妆睡觉",
+        "onboard_time": 1769611645,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 14782,
+        "num": 22569,
+        "word": "中方回应朝鲜向东部海域发射导弹",
+        "onboard_time": 1769609062,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 14043,
+        "num": 22562,
+        "word": "29年前青岛一起轮奸案将再审",
+        "onboard_time": 1769615480,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13616,
+        "num": 22557,
+        "word": "迪丽热巴毛茸茸兔耳",
+        "onboard_time": 1769614520,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14845,
+        "num": 22543,
+        "word": "太平年",
+        "onboard_time": 1769606122,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13478,
+        "num": 22541,
+        "word": "伊朗总统宣布启动紧急状态",
+        "onboard_time": 1769606002,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 13011,
+        "num": 22531,
+        "word": "朴彩英曾扮成老奶奶去约会",
+        "onboard_time": 1769608881,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12981,
+        "num": 22528,
+        "word": "假如方圆脸减肥成功",
+        "onboard_time": 1769605521,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 12820,
+        "num": 22520,
+        "word": "银行取消5年期存款意味着什么",
+        "onboard_time": 1769590761,
+        "rank": 34,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 12467,
+        "num": 22510,
+        "word": "盒马错发水仙女子索赔375万降至48万",
+        "onboard_time": 1769596641,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10227,
+        "num": 22498,
+        "word": "十四五新增减税降费退税超10万亿元",
+        "onboard_time": 1769604682,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 12262,
+        "num": 22494,
+        "word": "银价波动",
+        "onboard_time": 1769606902,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 11138,
+        "num": 22485,
+        "word": "金巧巧说宋威龙是亚洲第二帅",
+        "onboard_time": 1769620937,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 10627,
+        "num": 22478,
+        "word": "卢旺达严重交通事故致中国公民伤亡",
+        "onboard_time": 1769626095,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 10414,
+        "num": 22474,
+        "word": "水贝杰我睿涉嫌黄金高杠杆对赌",
+        "onboard_time": 1769616681,
+        "rank": 40,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 10310,
+        "num": 22468,
+        "word": "女子退租被扣3千多空调费起诉平台",
+        "onboard_time": 1769619257,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10261,
+        "num": 22454,
+        "word": "韩国素媛案凶手再入狱",
+        "onboard_time": 1769589981,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 10087,
+        "num": 22447,
+        "word": "微博之夜简笔画",
+        "onboard_time": 1769599881,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 10013,
+        "num": 22442,
+        "word": "王橹杰穆祉丞刷新时代峰峻最快纪录",
+        "onboard_time": 1769616202,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 9750,
+        "num": 22434,
+        "word": "KPL",
+        "onboard_time": 1769592980,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 9417,
+        "num": 22430,
+        "word": "孩子去年才知道李娜是干嘛的",
+        "onboard_time": 1769609062,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 9171,
+        "num": 22416,
+        "word": "桃黑黑为王者荣耀燃尽了",
+        "onboard_time": 1769614401,
+        "rank": 47,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 9026,
+        "num": 22415,
+        "word": "朴彩英这是能说的吗",
+        "onboard_time": 1769619377,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 9020,
+        "num": 22407,
+        "word": "有罪之身开播反馈",
+        "onboard_time": 1769614102,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#冰雪春天#"
+    }
+  }
+}
