@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769576603151,
+  "endTime": 1769578595455,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -2035,6 +2035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 929204,
+      "num": 121518,
+      "word": "小海绵长到我刚认识baby的年纪了",
+      "onboard_time": 1769574742,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 928546,
       "num": 324790,
       "word": "偶遇霍建华他还给我买单了",
@@ -2337,14 +2345,6 @@
       "onboard_time": 1769318180,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 862830,
-      "num": 113712,
-      "word": "小海绵长到我刚认识baby的年纪了",
-      "onboard_time": 1769574742,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 861518,

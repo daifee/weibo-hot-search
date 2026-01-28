@@ -1,6 +1,6 @@
 {
   "startTime": 1769272464158,
-  "endTime": 1769576603151,
+  "endTime": 1769578595455,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -235,6 +235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 929204,
+      "num": 121518,
+      "word": "小海绵长到我刚认识baby的年纪了",
+      "onboard_time": 1769574742,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 927199,
       "num": 92657,
       "word": "多品牌紧急删除张雨绮相关代言内容",
@@ -257,14 +265,6 @@
       "onboard_time": 1769318180,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 862830,
-      "num": 113712,
-      "word": "小海绵长到我刚认识baby的年纪了",
-      "onboard_time": 1769574742,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 845845,
@@ -395,6 +395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 681830,
+      "num": 591406,
+      "word": "4.5天工作制",
+      "onboard_time": 1769576303,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 680038,
       "num": 285420,
       "word": "戚薇撞脸金晨",
@@ -444,7 +452,7 @@
     },
     {
       "raw_hot": 661685,
-      "num": 183063,
+      "num": 185762,
       "word": "玄彬回应儿子催孙艺珍吹蜡烛",
       "onboard_time": 1769573179,
       "rank": 31,
@@ -827,6 +835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 515584,
+      "num": 185808,
+      "word": "张晚意 个体户辟谣就是快",
+      "onboard_time": 1769575521,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 515560,
       "num": 170897,
       "word": "女子买60克黄金轮胎手镯后悔买晚了",
@@ -900,7 +916,7 @@
     },
     {
       "raw_hot": 495995,
-      "num": 170361,
+      "num": 1076351,
       "word": "微博之夜 星空毯",
       "onboard_time": 1769575521,
       "rank": 11,
@@ -1115,6 +1131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 431263,
+      "num": 1060874,
+      "word": "印度一飞机失事",
+      "onboard_time": 1769574801,
+      "rank": 0,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 430052,
       "num": 239923,
       "word": "张雨绮巴黎时装周行程或被取消",
@@ -1131,12 +1155,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 427396,
+      "num": 427396,
+      "word": "市长被查前刚就副市长被查主持会议",
+      "onboard_time": 1769574261,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 423421,
       "num": 1067747,
       "word": "湖南省考多地监狱岗位仅招艺术类",
       "onboard_time": 1769524043,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 422695,
+      "num": 422695,
+      "word": "印度坠毁飞机机上人员全遇难",
+      "onboard_time": 1769575940,
+      "rank": 6,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 421571,
@@ -1291,14 +1331,6 @@
       "category": "艺人,数码"
     },
     {
-      "raw_hot": 399433,
-      "num": 419356,
-      "word": "市长被查前刚就副市长被查主持会议",
-      "onboard_time": 1769574261,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 399323,
       "num": 304345,
       "word": "买童装退货辱骂商家女子离职",
@@ -1377,14 +1409,6 @@
       "onboard_time": 1769346623,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 380468,
-      "num": 1060874,
-      "word": "印度一飞机失事",
-      "onboard_time": 1769574801,
-      "rank": 0,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 380448,
@@ -1595,14 +1619,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 335854,
-      "num": 154218,
-      "word": "张晚意 个体户辟谣就是快",
-      "onboard_time": 1769575521,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 334777,
       "num": 793674,
       "word": "顾客试吃后退货包裹里塞两元钱",
@@ -1620,7 +1636,7 @@
     },
     {
       "raw_hot": 333723,
-      "num": 134236,
+      "num": 181065,
       "word": "第一次给艺人穿鞋时我哭了",
       "onboard_time": 1769575102,
       "rank": 17,
@@ -1849,6 +1865,14 @@
       "onboard_time": 1769327060,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 313555,
+      "num": 118468,
+      "word": "白血病的征兆",
+      "onboard_time": 1769575461,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 313489,
@@ -2187,6 +2211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 273979,
+      "num": 273979,
+      "word": "EXO官宣巡演",
+      "onboard_time": 1769577021,
+      "rank": 6,
+      "category": "演出"
+    },
+    {
       "raw_hot": 273799,
       "num": 179985,
       "word": "两室一厅住阳台",
@@ -2507,6 +2539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 249030,
+      "num": 404597,
+      "word": "阚清子特邀主演夜色正浓",
+      "onboard_time": 1769574861,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 248471,
       "num": 248471,
       "word": "DYG战胜LGDNBW",
@@ -2536,14 +2576,6 @@
       "word": "云初令",
       "onboard_time": 1769449516,
       "rank": 43,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 244959,
-      "num": 404597,
-      "word": "阚清子特邀主演夜色正浓",
-      "onboard_time": 1769574861,
-      "rank": 4,
       "category": "剧集"
     },
     {
@@ -2755,14 +2787,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 227164,
-      "num": 113046,
-      "word": "白血病的征兆",
-      "onboard_time": 1769575461,
-      "rank": 30,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 226344,
       "num": 802086,
       "word": "金博洋自由滑169.40分",
@@ -2825,6 +2849,14 @@
       "onboard_time": 1769495660,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 217956,
+      "num": 176872,
+      "word": "大侦探",
+      "onboard_time": 1769574861,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 217357,
@@ -2921,14 +2953,6 @@
       "onboard_time": 1769565438,
       "rank": 40,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 208932,
-      "num": 208932,
-      "word": "印度坠毁飞机机上人员全遇难",
-      "onboard_time": 1769575940,
-      "rank": 6,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 207550,
@@ -3171,6 +3195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 187824,
+      "num": 187824,
+      "word": "杰我睿",
+      "onboard_time": 1769575700,
+      "rank": 18,
+      "category": "财经"
+    },
+    {
       "raw_hot": 187650,
       "num": 165967,
       "word": "孔雪儿你让我有点不得劲",
@@ -3297,14 +3329,6 @@
       "onboard_time": 1769439202,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 176872,
-      "num": 176872,
-      "word": "大侦探",
-      "onboard_time": 1769574861,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 176015,
@@ -3841,6 +3865,14 @@
       "onboard_time": 1769402721,
       "rank": 26,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 148424,
+      "num": 148424,
+      "word": "卖400克金条借钱后按黄金现值索还",
+      "onboard_time": 1769575822,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 148211,
@@ -4771,6 +4803,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 122426,
+      "num": 122426,
+      "word": "男子卖金条借朋友14万要求还30万",
+      "onboard_time": 1769575222,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122309,
       "num": 244389,
       "word": "杨紫生命树微表情演技",
@@ -4987,14 +5027,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 117817,
-      "num": 117817,
-      "word": "杰我睿",
-      "onboard_time": 1769575700,
-      "rank": 18,
-      "category": "财经"
-    },
-    {
       "raw_hot": 117603,
       "num": 117603,
       "word": "第一次见冷血动物被气成这样",
@@ -5009,6 +5041,14 @@
       "onboard_time": 1769269827,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 117197,
+      "num": 117197,
+      "word": "烤鱼店老板投喂流浪猫躲过一劫",
+      "onboard_time": 1769577381,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 116964,
@@ -5659,14 +5699,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 105719,
-      "num": 105719,
-      "word": "卖400克金条借钱后按黄金现值索还",
-      "onboard_time": 1769575822,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 105697,
       "num": 259899,
       "word": "美国前总统反对美国现政府",
@@ -5977,6 +6009,14 @@
       "onboard_time": 1769355201,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102575,
+      "num": 102575,
+      "word": "iPhone18标准版或明年发布",
+      "onboard_time": 1769577561,
+      "rank": 30,
+      "category": "数码"
     },
     {
       "raw_hot": 102441,
@@ -6443,14 +6483,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 96714,
-      "num": 96714,
-      "word": "4.5天工作制",
-      "onboard_time": 1769576303,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 96697,
       "num": 96697,
       "word": "本周做什么都顺的星座",
@@ -6915,6 +6947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 92700,
+      "num": 92700,
+      "word": "只在小地方当过小孩",
+      "onboard_time": 1769577200,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 92538,
       "num": 92538,
       "word": "50万亿天量存款将到期",
@@ -7219,6 +7259,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 90012,
+      "num": 90012,
+      "word": "消费者称杰我睿珠宝充值后无法提货",
+      "onboard_time": 1769577080,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89992,
       "num": 89992,
       "word": "入职体检被要求补做妊娠测试",
@@ -7233,6 +7281,14 @@
       "onboard_time": 1769505862,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 89839,
+      "num": 89839,
+      "word": "鹅鸭杀回应雷军",
+      "onboard_time": 1769577741,
+      "rank": 37,
+      "category": "游戏,互联网"
     },
     {
       "raw_hot": 89734,
@@ -7369,6 +7425,14 @@
       "onboard_time": 1769314521,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 87676,
+      "num": 87676,
+      "word": "男生是HPV高风险人群吗",
+      "onboard_time": 1769577500,
+      "rank": 40,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 87663,
@@ -7635,6 +7699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 85036,
+      "num": 85036,
+      "word": "才知道干电池可以直接扔了",
+      "onboard_time": 1769577200,
+      "rank": 42,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 84895,
       "num": 84895,
       "word": "婴儿期太胖青春期也会胖",
@@ -7849,6 +7921,14 @@
       "onboard_time": 1769506641,
       "rank": 41,
       "category": "数码"
+    },
+    {
+      "raw_hot": 82708,
+      "num": 82708,
+      "word": "王楚钦孙逊肖指导备战亚洲杯",
+      "onboard_time": 1769578041,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 82615,
@@ -8083,6 +8163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 80554,
+      "num": 80554,
+      "word": "网剧繁华落尽定档",
+      "onboard_time": 1769578280,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 80540,
       "num": 89451,
       "word": "闪婚后妻子总忘记自己已婚",
@@ -8241,6 +8329,14 @@
       "onboard_time": 1769425161,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 78999,
+      "num": 78999,
+      "word": "凤舞九天",
+      "onboard_time": 1769578461,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 78743,
@@ -8432,6 +8528,14 @@
       "word": "何健麒事件不能任由两人互撕",
       "onboard_time": 1769424323,
       "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 76995,
+      "num": 104669,
+      "word": "站张凌赫身边很难不亲上去",
+      "onboard_time": 1769574681,
+      "rank": 40,
       "category": "艺人"
     },
     {
@@ -10027,8 +10131,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 45273,
-      "num": 589133,
+      "raw_hot": 45486,
+      "num": 600529,
       "word": "超8000列动车组提供静音车厢服务",
       "onboard_time": 1769575700,
       "rank": 2,
@@ -10324,7 +10428,7 @@
     },
     {
       "raw_hot": 37764,
-      "num": 112890,
+      "num": 181228,
       "word": "喵娲娲开启微博之夜星空毯",
       "onboard_time": 1769576421,
       "rank": 31,
@@ -10457,14 +10561,6 @@
       "onboard_time": 1769361257,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 35514,
-      "num": 104669,
-      "word": "站张凌赫身边很难不亲上去",
-      "onboard_time": 1769574681,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 35341,
