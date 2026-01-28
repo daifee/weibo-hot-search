@@ -1,0 +1,410 @@
+{
+  "runTime": 1769626068389,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 126342,
+        "num": 126342,
+        "word": "生命树",
+        "onboard_time": 1769616202,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97248,
+        "num": 97248,
+        "word": "男子买15元彩票中1404万",
+        "onboard_time": 1769606842,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10800,
+        "num": 97051,
+        "word": "十四五新增减税降费退税超10万亿元",
+        "onboard_time": 1769604682,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 76379,
+        "num": 96938,
+        "word": "微博之夜",
+        "onboard_time": 1769601681,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 38001,
+        "num": 96655,
+        "word": "东北人发现飞俄罗斯坐船回家更便宜",
+        "onboard_time": 1769616380,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55880,
+        "num": 96588,
+        "word": "迪丽热巴 春晚分会场",
+        "onboard_time": 1769613144,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 52460,
+        "num": 96238,
+        "word": "黄金白银基金暂停申购",
+        "onboard_time": 1769611286,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 36410,
+        "num": 96014,
+        "word": "尘白禁区 扭蛋机",
+        "onboard_time": 1769611524,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 36308,
+        "num": 95917,
+        "word": "女子考编第1政审不合格第2名递补",
+        "onboard_time": 1769612486,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29643,
+        "num": 95628,
+        "word": "南通发现1例罕见恐龙血",
+        "onboard_time": 1769612131,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172023,
+        "num": 95447,
+        "word": "穆祉丞比2",
+        "onboard_time": 1769612549,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132209,
+        "num": 95245,
+        "word": "阚清子近照状态",
+        "onboard_time": 1769608162,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 70814,
+        "num": 94882,
+        "word": "胎儿一脚踢破妈妈子宫致羊水流失",
+        "onboard_time": 1769612608,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47832,
+        "num": 94849,
+        "word": "杨紫为上镜暴瘦15斤",
+        "onboard_time": 1769608282,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41676,
+        "num": 94578,
+        "word": "女子随夫姓30余年想改回原名遇阻",
+        "onboard_time": 1769620397,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41133,
+        "num": 94297,
+        "word": "美国超级暴风雪大量流浪汉冻死街头",
+        "onboard_time": 1769617997,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 31230,
+        "num": 94029,
+        "word": "别告诉我这是最近的Angelababy",
+        "onboard_time": 1769601321,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28574,
+        "num": 94014,
+        "word": "深圳小学期末考被称堪比公务员行测",
+        "onboard_time": 1769616441,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30841,
+        "num": 93763,
+        "word": "迪丽热巴毛茸茸兔耳",
+        "onboard_time": 1769614520,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25587,
+        "num": 93460,
+        "word": "阿富汗女性教育到小学为止",
+        "onboard_time": 1769611950,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 287585,
+        "num": 93155,
+        "word": "金子涵拉黑蔡徐坤",
+        "onboard_time": 1769598862,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29214,
+        "num": 92964,
+        "word": "42岁女子吃紧急避孕药大出血险丢命",
+        "onboard_time": 1769611406,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24442,
+        "num": 92903,
+        "word": "金价波动",
+        "onboard_time": 1769602582,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 24207,
+        "num": 92719,
+        "word": "任权要求薛小婉带妆睡觉",
+        "onboard_time": 1769611645,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 23835,
+        "num": 92467,
+        "word": "假如方圆脸减肥成功",
+        "onboard_time": 1769605521,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 92290,
+        "num": 92290,
+        "word": "蔡徐坤 金子涵",
+        "onboard_time": 1769598082,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23288,
+        "num": 92290,
+        "word": "朴彩英这是能说的吗",
+        "onboard_time": 1769619377,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23070,
+        "num": 92288,
+        "word": "虞书欣断层领跑亿屏之选人气女演员",
+        "onboard_time": 1769597902,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21490,
+        "num": 92287,
+        "word": "桃黑黑为王者荣耀燃尽了",
+        "onboard_time": 1769614401,
+        "rank": 28,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 21086,
+        "num": 92284,
+        "word": "伊朗总统宣布启动紧急状态",
+        "onboard_time": 1769606002,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 21415,
+        "num": 92282,
+        "word": "王橹杰穆祉丞刷新时代峰峻最快纪录",
+        "onboard_time": 1769616202,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 20036,
+        "num": 92282,
+        "word": "微博之夜简笔画",
+        "onboard_time": 1769599881,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 19946,
+        "num": 92279,
+        "word": "有罪之身开播反馈",
+        "onboard_time": 1769614102,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19483,
+        "num": 92278,
+        "word": "太平年",
+        "onboard_time": 1769606122,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19145,
+        "num": 92275,
+        "word": "胖东来未上市新品火锅底料遭曝光",
+        "onboard_time": 1769616320,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18275,
+        "num": 92274,
+        "word": "精神压力维生素D缺乏等易催生白发",
+        "onboard_time": 1769613982,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 18233,
+        "num": 92273,
+        "word": "贝加尔湖车祸75岁中国籍女性死亡",
+        "onboard_time": 1769604082,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 17499,
+        "num": 92272,
+        "word": "金巧巧说宋威龙是亚洲第二帅",
+        "onboard_time": 1769620937,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17240,
+        "num": 92270,
+        "word": "突然的喜欢",
+        "onboard_time": 1769603001,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17067,
+        "num": 92268,
+        "word": "韩国素媛案凶手再入狱",
+        "onboard_time": 1769589981,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 17047,
+        "num": 92266,
+        "word": "女子退租被扣3千多空调费起诉平台",
+        "onboard_time": 1769619257,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16875,
+        "num": 92265,
+        "word": "盒马错发水仙女子索赔375万降至48万",
+        "onboard_time": 1769596641,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16831,
+        "num": 92262,
+        "word": "朴彩英曾扮成老奶奶去约会",
+        "onboard_time": 1769608881,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16697,
+        "num": 92262,
+        "word": "中方回应朝鲜向东部海域发射导弹",
+        "onboard_time": 1769609062,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 16276,
+        "num": 92260,
+        "word": "林欢儿 怕他不爱又怕他太爱",
+        "onboard_time": 1769623514,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16118,
+        "num": 92258,
+        "word": "29年前青岛一起轮奸案将再审",
+        "onboard_time": 1769615480,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15930,
+        "num": 92257,
+        "word": "银行取消5年期存款意味着什么",
+        "onboard_time": 1769590761,
+        "rank": 46,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 15864,
+        "num": 92256,
+        "word": "水贝杰我睿涉嫌黄金高杠杆对赌",
+        "onboard_time": 1769616681,
+        "rank": 47,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 15621,
+        "num": 92253,
+        "word": "张子墨 计划有变准备登陆日2026",
+        "onboard_time": 1769602101,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12803,
+        "num": 92251,
+        "word": "生命树未播热度",
+        "onboard_time": 1769608521,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#冰雪春天#"
+    }
+  }
+}
