@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769643251784,
+  "endTime": 1769644157104,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -5833,6 +5833,14 @@
       "onboard_time": 1768314263,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 564762,
+      "num": 992862,
+      "word": "美联储",
+      "onboard_time": 1769642839,
+      "rank": 3,
+      "category": "财经"
     },
     {
       "raw_hot": 564003,
@@ -17131,6 +17139,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 285455,
+      "num": 149895,
+      "word": "女子下车摔倒被丈夫开车碾过",
+      "onboard_time": 1769643140,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 284978,
       "num": 257488,
       "word": "店主在穿脏退回的衣服掏出100元",
@@ -18776,14 +18792,6 @@
       "word": "A股又突然跳水了",
       "onboard_time": 1769408001,
       "rank": 8,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 265737,
-      "num": 265737,
-      "word": "美联储",
-      "onboard_time": 1769642839,
-      "rank": 3,
       "category": "财经"
     },
     {
@@ -31731,14 +31739,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 165506,
-      "num": 129174,
-      "word": "女子下车摔倒被丈夫开车碾过",
-      "onboard_time": 1769643140,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 165500,
       "num": 165500,
       "word": "老人玩手机孩子脱手坠地仍不撒手",
@@ -34835,6 +34835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151412,
+      "num": 151412,
+      "word": "美联储决定暂停降息",
+      "onboard_time": 1769643559,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 151403,
       "num": 425341,
       "word": "马斯克机器人涉色情被法国调查",
@@ -35435,6 +35443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 149037,
+      "num": 149037,
+      "word": "黄金变现业务爆了",
+      "onboard_time": 1769643318,
+      "rank": 14,
+      "category": "财经"
+    },
+    {
       "raw_hot": 149011,
       "num": 149011,
       "word": "原来羽绒服可以这么洗",
@@ -35465,6 +35481,14 @@
       "onboard_time": 1767956122,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 148931,
+      "num": 80106,
+      "word": "宝马所有车型将启用新logo",
+      "onboard_time": 1769643140,
+      "rank": 25,
+      "category": "汽车"
     },
     {
       "raw_hot": 148915,
@@ -49644,7 +49668,7 @@
     },
     {
       "raw_hot": 111909,
-      "num": 68961,
+      "num": 74763,
       "word": "欧冠",
       "onboard_time": 1769642598,
       "rank": 23,
@@ -72755,14 +72779,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 78198,
-      "num": 67908,
-      "word": "宝马所有车型将启用新logo",
-      "onboard_time": 1769643140,
-      "rank": 25,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 78194,
       "num": 78194,
       "word": "老一辈砍价没轻没重的",
@@ -77403,6 +77419,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 68821,
+      "num": 68821,
+      "word": "出生6天婴儿被月嫂摔至颅内出血",
+      "onboard_time": 1769643559,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 68756,
       "num": 925080,
       "word": "天宫与神州同框的中国式浪漫",
@@ -81579,6 +81603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 56464,
+      "num": 92272,
+      "word": "金巧巧说宋威龙是亚洲第二帅",
+      "onboard_time": 1769620937,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 56441,
       "num": 728978,
       "word": "剑来动画2",
@@ -81851,6 +81883,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 55597,
+      "num": 55597,
+      "word": "A股黄金概念股大涨",
+      "onboard_time": 1769643318,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 55572,
+      "num": 55572,
+      "word": "美联储或将在6月降息",
+      "onboard_time": 1769643860,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 55545,
       "num": 94300,
       "word": "90年代的刘亦菲",
@@ -81977,6 +82025,14 @@
       "onboard_time": 1769501780,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 55084,
+      "num": 55084,
+      "word": "美联储议息会议",
+      "onboard_time": 1769643258,
+      "rank": 35,
+      "category": "财经"
     },
     {
       "raw_hot": 55079,
@@ -82609,14 +82665,6 @@
       "onboard_time": 1768655720,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 52498,
-      "num": 92272,
-      "word": "金巧巧说宋威龙是亚洲第二帅",
-      "onboard_time": 1769620937,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 52457,
@@ -83971,6 +84019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 46896,
+      "num": 46896,
+      "word": "本菲卡4比2皇马",
+      "onboard_time": 1769642477,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 46887,
       "num": 181641,
       "word": "腊八节中国奥林匹克发了王楚钦",
@@ -84001,6 +84057,14 @@
       "onboard_time": 1768979902,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 46821,
+      "num": 46821,
+      "word": "哥伦比亚客机坠毁15人遇难",
+      "onboard_time": 1769643559,
+      "rank": 40,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 46791,
@@ -89259,14 +89323,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 28461,
-      "num": 44422,
-      "word": "本菲卡4比2皇马",
-      "onboard_time": 1769642477,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 28449,
       "num": 154435,
       "word": "冬泳舞台 伟大",
@@ -92243,6 +92299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 19363,
+      "num": 570766,
+      "word": "当冰雪大地邂逅璀璨星空",
+      "onboard_time": 1769604501,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19312,
       "num": 42003,
       "word": "金像奖",
@@ -93169,14 +93233,6 @@
       "onboard_time": 1767383715,
       "rank": 46,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 15391,
-      "num": 497217,
-      "word": "当冰雪大地邂逅璀璨星空",
-      "onboard_time": 1769604501,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 15341,
