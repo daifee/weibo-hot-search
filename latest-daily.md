@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/29 00:00:09 ~ 2026/01/29 02:47:48
+本榜单时间：2026/01/29 00:00:09 ~ 2026/01/29 03:01:45
 </p>
 </blockquote>
 <p>
@@ -412,7 +412,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%AA%E5%B9%B3%E5%B9%B4%23" target="weibo">
-太平年（热度：19483）
+太平年（热度：20328）
 </a>
 </li>
 
@@ -424,7 +424,13 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E6%AC%A2%E5%84%BF%20%E6%80%95%E4%BB%96%E4%B8%8D%E7%88%B1%E5%8F%88%E6%80%95%E4%BB%96%E5%A4%AA%E7%88%B1%23" target="weibo">
-林欢儿 怕他不爱又怕他太爱（热度：16276）
+林欢儿 怕他不爱又怕他太爱（热度：17371）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%A2%E6%97%BA%E8%BE%BE%E4%B8%A5%E9%87%8D%E4%BA%A4%E9%80%9A%E4%BA%8B%E6%95%85%E8%87%B4%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E4%BC%A4%E4%BA%A1%23" target="weibo">
+卢旺达严重交通事故致中国公民伤亡（热度：15186）
 </a>
 </li>
 
