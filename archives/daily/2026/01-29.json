@@ -1,6 +1,6 @@
 {
   "startTime": 1769616009567,
-  "endTime": 1769629888835,
+  "endTime": 1769632860578,
   "band_list": [
     {
       "raw_hot": 1779996,
@@ -577,6 +577,14 @@
       "onboard_time": 1769609062,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 9889,
+      "num": 13263,
+      "word": "KPL",
+      "onboard_time": 1769592980,
+      "rank": 42,
+      "category": "电竞"
     }
   ],
   "hotgov_list": [
