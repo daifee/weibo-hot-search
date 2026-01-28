@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/28 18:55:41
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/28 19:30:58
 </p>
 </blockquote>
 <p>
@@ -29,6 +29,12 @@ U23国足vs日本（热度：16741456）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B7%B2%E6%8A%93%E8%8E%B7%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E6%80%BB%E7%BB%9F%23" target="weibo">
 特朗普称已抓获委内瑞拉总统（热度：13350510）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E5%AD%90%E6%B6%B5%E6%8B%89%E9%BB%91%E8%94%A1%E5%BE%90%E5%9D%A4%23" target="weibo">
+金子涵拉黑蔡徐坤（热度：11494198）
 </a>
 </li>
 
@@ -623,6 +629,12 @@ U23国足vs乌兹别克斯坦（热度：1464712）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E6%8B%9F%E9%80%80%E5%AD%A62%E5%90%8D%E5%8D%9A%E5%A3%AB%23" target="weibo">
 清华大学拟退学2名博士（热度：1461666）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%20%E9%87%91%E5%AD%90%E6%B6%B5%23" target="weibo">
+蔡徐坤 金子涵（热度：1431972）
 </a>
 </li>
 
@@ -2423,6 +2435,12 @@ U23国足进球被吹（热度：748716）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%90%8D%E5%8D%8A%E8%A3%B8%E7%94%B7%E6%A8%A1%E5%9C%A8%E5%95%86%E5%9C%BA%E8%B5%B0%E7%A7%80%E8%A2%AB%E8%B4%A8%E7%96%91%E6%93%A6%E8%BE%B9%23" target="weibo">
 多名半裸男模在商场走秀被质疑擦边（热度：748073）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%90%83%E8%BE%A3%E6%9D%A1%E5%90%83%E5%87%BA1%E6%A0%B9%E9%87%91%E6%9D%A1%23" target="weibo">
+女子吃辣条吃出1根金条（热度：747257）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ iPhone4需求激增近1000%（热度：506886）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AB%A5%E9%94%A6%E7%A8%8B%E5%AD%A9%E5%AD%90%E5%A6%88%E5%9B%9E%E5%BA%94%E8%A6%81220%E4%B8%87%23" target="weibo">
 童锦程孩子妈回应要220万（热度：485940）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8D%89%E8%8E%93%E5%89%A5%E7%9A%AE%23" target="weibo">
-草莓剥皮（热度：485908）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%BF%8E%E6%8E%A5%E6%9D%8E%E5%9C%A8%E6%98%8E%E7%94%BB%E9%9D%A2%23" target="weibo">
-高市早苗迎接李在明画面（热度：485891）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2393%E5%B9%B4%E5%B7%B2%E7%BB%8F%E5%BD%93%E7%88%B7%E7%88%B7%E4%BA%86%E5%90%97%23" target="weibo">
-93年已经当爷爷了吗（热度：485454）
 </a>
 </li>
 

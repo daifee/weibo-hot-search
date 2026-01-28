@@ -1,6 +1,6 @@
 {
   "startTime": 1769272464158,
-  "endTime": 1769597741522,
+  "endTime": 1769599858767,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -9,6 +9,14 @@
       "onboard_time": 1769265382,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 11494198,
+      "num": 11494198,
+      "word": "金子涵拉黑蔡徐坤",
+      "onboard_time": 1769598862,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 10607824,
@@ -88,6 +96,14 @@
       "word": "何健麒 造谣你都得有个谱啊",
       "onboard_time": 1769348181,
       "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1431972,
+      "num": 102919,
+      "word": "蔡徐坤 金子涵",
+      "onboard_time": 1769598082,
+      "rank": 26,
       "category": "艺人"
     },
     {
@@ -377,6 +393,14 @@
       "onboard_time": 1769272340,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 747257,
+      "num": 1119561,
+      "word": "女子吃辣条吃出1根金条",
+      "onboard_time": 1769596641,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 738940,
@@ -1539,6 +1563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 377143,
+      "num": 806285,
+      "word": "盒马错发水仙女子索赔375万降至48万",
+      "onboard_time": 1769596641,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 375477,
       "num": 150616,
       "word": "日本一女性在同一家公司上班近70年",
@@ -2145,14 +2177,6 @@
       "onboard_time": 1769581340,
       "rank": 30,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 295718,
-      "num": 295718,
-      "word": "女子吃辣条吃出1根金条",
-      "onboard_time": 1769596641,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 295383,
@@ -3443,6 +3467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 192597,
+      "num": 127509,
+      "word": "英伟达员工晒年会最牛年终奖",
+      "onboard_time": 1769598142,
+      "rank": 11,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 191826,
       "num": 191826,
       "word": "春晚",
@@ -3545,6 +3577,22 @@
       "onboard_time": 1769424562,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 183613,
+      "num": 183613,
+      "word": "JDG战胜DRG",
+      "onboard_time": 1769599582,
+      "rank": 6,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 183610,
+      "num": 102406,
+      "word": "虞书欣断层领跑亿屏之选人气女演员",
+      "onboard_time": 1769597902,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 182318,
@@ -3875,6 +3923,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 161546,
+      "num": 161546,
+      "word": "JDG对战DRG",
+      "onboard_time": 1769594841,
+      "rank": 23,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 160628,
       "num": 633110,
       "word": "仙逆",
@@ -4017,6 +4073,14 @@
       "onboard_time": 1769307620,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 154526,
+      "num": 126139,
+      "word": "爱情公寓真的是太超前了",
+      "onboard_time": 1769595921,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 154396,
@@ -4449,6 +4513,14 @@
       "onboard_time": 1769513062,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 140594,
+      "num": 101231,
+      "word": "江疏影瘦了",
+      "onboard_time": 1769599220,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 140522,
@@ -5475,6 +5547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 117876,
+      "num": 117876,
+      "word": "英国首相斯塔默抵达北京",
+      "onboard_time": 1769597842,
+      "rank": 16,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 117837,
       "num": 170179,
       "word": "王一博控温也控场",
@@ -6203,14 +6283,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 105766,
-      "num": 105766,
-      "word": "爱情公寓真的是太超前了",
-      "onboard_time": 1769595921,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 105697,
       "num": 259899,
       "word": "美国前总统反对美国现政府",
@@ -6451,6 +6523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 103166,
+      "num": 103166,
+      "word": "3.6万亿增量资金料流入中国股市",
+      "onboard_time": 1769599521,
+      "rank": 25,
+      "category": "财经"
+    },
+    {
       "raw_hot": 103160,
       "num": 103160,
       "word": "金饰克价一夜再涨25元",
@@ -6593,14 +6673,6 @@
       "onboard_time": 1769509220,
       "rank": 19,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 101723,
-      "num": 112572,
-      "word": "JDG对战DRG",
-      "onboard_time": 1769594841,
-      "rank": 23,
-      "category": "电竞"
     },
     {
       "raw_hot": 101683,
@@ -7611,6 +7683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 92300,
+      "num": 92300,
+      "word": "徐冬冬回应网友让尹子维换老婆",
+      "onboard_time": 1769598983,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 92197,
       "num": 121136,
       "word": "平台已下架涉事娃娃菜商家商品",
@@ -7971,6 +8051,14 @@
       "category": "游戏,互联网"
     },
     {
+      "raw_hot": 89802,
+      "num": 89802,
+      "word": "老式大学生手搓的踏实感",
+      "onboard_time": 1769599341,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 89734,
       "num": 89734,
       "word": "太原国资委情况通报",
@@ -7993,6 +8081,22 @@
       "onboard_time": 1769438602,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 89498,
+      "num": 89498,
+      "word": "钎城冰尘合照",
+      "onboard_time": 1769598202,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 89436,
+      "num": 89436,
+      "word": "警察出警回应3元还不够油费",
+      "onboard_time": 1769596822,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89301,
@@ -8715,6 +8819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 82451,
+      "num": 82451,
+      "word": "智障女子将18万遗产充值游戏币",
+      "onboard_time": 1769598023,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 82433,
       "num": 82433,
       "word": "李想临时召开线上公司全员会",
@@ -8931,14 +9043,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 80617,
-      "num": 80617,
-      "word": "警察出警回应3元还不够油费",
-      "onboard_time": 1769596822,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 80556,
       "num": 80556,
       "word": "Mike聚餐穿了何与送的衣服",
@@ -9147,14 +9251,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 78999,
-      "num": 104229,
-      "word": "盒马错发水仙女子索赔375万降至48万",
-      "onboard_time": 1769596641,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 78743,
       "num": 78743,
       "word": "孙颖莎腊八节在训练场馆度过",
@@ -9315,6 +9411,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 77319,
+      "num": 77319,
+      "word": "绝意摇旗",
+      "onboard_time": 1769598743,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 77311,
       "num": 77311,
       "word": "雷军回应小米SU7保值率第一名",
@@ -9443,6 +9547,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 76312,
+      "num": 76312,
+      "word": "张凌赫和舞蹈老师都有cp感",
+      "onboard_time": 1769599702,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 76263,
       "num": 82310,
       "word": "比小猫还大的舌头正在舔小猫",
@@ -9537,6 +9649,14 @@
       "onboard_time": 1769511861,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 75796,
+      "num": 75796,
+      "word": "白银还能涨多久",
+      "onboard_time": 1769599582,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 75751,
@@ -10827,6 +10947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 54307,
+      "num": 109215,
+      "word": "大国排队访华G7来了4个",
+      "onboard_time": 1769599042,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 53989,
       "num": 53989,
       "word": "印度暴发尼帕病毒疫情",
@@ -12049,6 +12177,14 @@
       "onboard_time": 1769340440,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 23768,
+      "num": 89580,
+      "word": "4岁女儿重病父亲穿着拖鞋下跪求救",
+      "onboard_time": 1769599220,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23722,

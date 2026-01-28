@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769597741522,
+  "endTime": 1769599858767,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -25,6 +25,14 @@
       "onboard_time": 1767432625,
       "rank": 0,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 11494198,
+      "num": 11494198,
+      "word": "金子涵拉黑蔡徐坤",
+      "onboard_time": 1769598862,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 10607824,
@@ -817,6 +825,14 @@
       "onboard_time": 1769089161,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1431972,
+      "num": 102919,
+      "word": "蔡徐坤 金子涵",
+      "onboard_time": 1769598082,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 1430098,
@@ -3216,6 +3232,14 @@
       "word": "多名半裸男模在商场走秀被质疑擦边",
       "onboard_time": 1767869181,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 747257,
+      "num": 1119561,
+      "word": "女子吃辣条吃出1根金条",
+      "onboard_time": 1769596641,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -11819,6 +11843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 377143,
+      "num": 806285,
+      "word": "盒马错发水仙女子索赔375万降至48万",
+      "onboard_time": 1769596641,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 377034,
       "num": 377034,
       "word": "香奈儿官宣单依纯",
@@ -16281,14 +16313,6 @@
       "onboard_time": 1768026802,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 295718,
-      "num": 295718,
-      "word": "女子吃辣条吃出1根金条",
-      "onboard_time": 1769596641,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 295654,
@@ -26435,6 +26459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 192597,
+      "num": 127509,
+      "word": "英伟达员工晒年会最牛年终奖",
+      "onboard_time": 1769598142,
+      "rank": 11,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 192567,
       "num": 150561,
       "word": "王一博看到小猫偷吃的反应",
@@ -28177,6 +28209,22 @@
       "onboard_time": 1768347798,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 183613,
+      "num": 183613,
+      "word": "JDG战胜DRG",
+      "onboard_time": 1769599582,
+      "rank": 6,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 183610,
+      "num": 102406,
+      "word": "虞书欣断层领跑亿屏之选人气女演员",
+      "onboard_time": 1769597902,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 183568,
@@ -32179,6 +32227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 161546,
+      "num": 161546,
+      "word": "JDG对战DRG",
+      "onboard_time": 1769594841,
+      "rank": 23,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 161517,
       "num": 161517,
       "word": "十日终焉男主肖战没变过",
@@ -33745,6 +33801,14 @@
       "onboard_time": 1768304423,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 154526,
+      "num": 126139,
+      "word": "爱情公寓真的是太超前了",
+      "onboard_time": 1769595921,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 154516,
@@ -37633,6 +37697,14 @@
       "onboard_time": 1767684919,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 140594,
+      "num": 101231,
+      "word": "江疏影瘦了",
+      "onboard_time": 1769599220,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 140522,
@@ -46187,6 +46259,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 117876,
+      "num": 117876,
+      "word": "英国首相斯塔默抵达北京",
+      "onboard_time": 1769597842,
+      "rank": 16,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 117863,
       "num": 164211,
       "word": "受害人轻信买坦克准备打仗被骗42万",
@@ -52299,14 +52379,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 105766,
-      "num": 105766,
-      "word": "爱情公寓真的是太超前了",
-      "onboard_time": 1769595921,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 105764,
       "num": 746439,
       "word": "退休老人回应3年演200多部短剧",
@@ -54035,6 +54107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 103166,
+      "num": 103166,
+      "word": "3.6万亿增量资金料流入中国股市",
+      "onboard_time": 1769599521,
+      "rank": 25,
+      "category": "财经"
+    },
+    {
       "raw_hot": 103160,
       "num": 103160,
       "word": "金饰克价一夜再涨25元",
@@ -54833,14 +54913,6 @@
       "onboard_time": 1769138420,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 101723,
-      "num": 112572,
-      "word": "JDG对战DRG",
-      "onboard_time": 1769594841,
-      "rank": 23,
-      "category": "电竞"
     },
     {
       "raw_hot": 101722,
@@ -61747,6 +61819,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 92300,
+      "num": 92300,
+      "word": "徐冬冬回应网友让尹子维换老婆",
+      "onboard_time": 1769598983,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 92293,
       "num": 92293,
       "word": "谷爱凌苏翊鸣徐梦桃将参加米兰冬奥",
@@ -63675,6 +63755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 89802,
+      "num": 89802,
+      "word": "老式大学生手搓的踏实感",
+      "onboard_time": 1769599341,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 89801,
       "num": 89801,
       "word": "相恋十年情侣因一张报纸吵架",
@@ -63907,6 +63995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 89498,
+      "num": 89498,
+      "word": "钎城冰尘合照",
+      "onboard_time": 1769598202,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 89487,
       "num": 89487,
       "word": "刘世芳郑英耀列为台独顽固分子",
@@ -63937,6 +64033,14 @@
       "onboard_time": 1768620620,
       "rank": 29,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 89436,
+      "num": 89436,
+      "word": "警察出警回应3元还不够油费",
+      "onboard_time": 1769596822,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89393,
@@ -69179,6 +69283,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 82451,
+      "num": 82451,
+      "word": "智障女子将18万遗产充值游戏币",
+      "onboard_time": 1769598023,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 82444,
       "num": 86901,
       "word": "Hero对战KSG",
@@ -70443,14 +70555,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 80617,
-      "num": 80617,
-      "word": "警察出警回应3元还不够油费",
-      "onboard_time": 1769596822,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 80579,
       "num": 80579,
       "word": "鸿蒙智行尚界Z7实车动态视频首曝",
@@ -71675,14 +71779,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 78999,
-      "num": 104229,
-      "word": "盒马错发水仙女子索赔375万降至48万",
-      "onboard_time": 1769596641,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 78979,
       "num": 833147,
       "word": "为给老婆拍照跑了个越野跑",
@@ -72563,6 +72659,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 77319,
+      "num": 77319,
+      "word": "绝意摇旗",
+      "onboard_time": 1769598743,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 77311,
       "num": 77311,
       "word": "雷军回应小米SU7保值率第一名",
@@ -73163,6 +73267,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 76312,
+      "num": 76312,
+      "word": "张凌赫和舞蹈老师都有cp感",
+      "onboard_time": 1769599702,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 76307,
       "num": 76307,
       "word": "代旭红秀采访",
@@ -73417,6 +73529,14 @@
       "onboard_time": 1769511861,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 75796,
+      "num": 75796,
+      "word": "白银还能涨多久",
+      "onboard_time": 1769599582,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 75790,
@@ -81249,6 +81369,14 @@
       "onboard_time": 1768691956,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 54307,
+      "num": 109215,
+      "word": "大国排队访华G7来了4个",
+      "onboard_time": 1769599042,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 54292,
@@ -89569,6 +89697,14 @@
       "onboard_time": 1767963921,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 23768,
+      "num": 89580,
+      "word": "4岁女儿重病父亲穿着拖鞋下跪求救",
+      "onboard_time": 1769599220,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23754,
