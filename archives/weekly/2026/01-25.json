@@ -1,6 +1,6 @@
 {
   "startTime": 1769272464158,
-  "endTime": 1769574721057,
+  "endTime": 1769576603151,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -257,6 +257,14 @@
       "onboard_time": 1769318180,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 862830,
+      "num": 113712,
+      "word": "小海绵长到我刚认识baby的年纪了",
+      "onboard_time": 1769574742,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 845845,
@@ -548,7 +556,7 @@
     },
     {
       "raw_hot": 606996,
-      "num": 240877,
+      "num": 404058,
       "word": "不建议马桶使用蓝泡泡",
       "onboard_time": 1769570361,
       "rank": 5,
@@ -891,6 +899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 495995,
+      "num": 170361,
+      "word": "微博之夜 星空毯",
+      "onboard_time": 1769575521,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 495910,
       "num": 246684,
       "word": "再也不敢单删同学",
@@ -1195,6 +1211,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 411151,
+      "num": 233386,
+      "word": "金价暴涨女子卖300克黄金变现30万",
+      "onboard_time": 1769569040,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 410164,
       "num": 791412,
       "word": "我们的少年时代2",
@@ -1265,6 +1289,14 @@
       "onboard_time": 1769434163,
       "rank": 19,
       "category": "艺人,数码"
+    },
+    {
+      "raw_hot": 399433,
+      "num": 419356,
+      "word": "市长被查前刚就副市长被查主持会议",
+      "onboard_time": 1769574261,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 399323,
@@ -1347,6 +1379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 380468,
+      "num": 1060874,
+      "word": "印度一飞机失事",
+      "onboard_time": 1769574801,
+      "rank": 0,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 380448,
       "num": 380448,
       "word": "买1块银砖3个月赚26万",
@@ -1369,6 +1409,14 @@
       "onboard_time": 1769337441,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 377495,
+      "num": 762368,
+      "word": "王牌对王牌",
+      "onboard_time": 1769573840,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 375477,
@@ -1499,14 +1547,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 347945,
-      "num": 233386,
-      "word": "金价暴涨女子卖300克黄金变现30万",
-      "onboard_time": 1769569040,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 343320,
       "num": 613806,
       "word": "微博之夜第二波阵容解密",
@@ -1555,6 +1595,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 335854,
+      "num": 154218,
+      "word": "张晚意 个体户辟谣就是快",
+      "onboard_time": 1769575521,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 334777,
       "num": 793674,
       "word": "顾客试吃后退货包裹里塞两元钱",
@@ -1569,6 +1617,14 @@
       "onboard_time": 1769502201,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 333723,
+      "num": 134236,
+      "word": "第一次给艺人穿鞋时我哭了",
+      "onboard_time": 1769575102,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 333670,
@@ -2483,6 +2539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 244959,
+      "num": 404597,
+      "word": "阚清子特邀主演夜色正浓",
+      "onboard_time": 1769574861,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 244027,
       "num": 244027,
       "word": "12306回应女子买到单人独座",
@@ -2675,14 +2739,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 228027,
-      "num": 762368,
-      "word": "王牌对王牌",
-      "onboard_time": 1769573840,
-      "rank": 1,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 227834,
       "num": 173822,
       "word": "你是林雨申那他是谁",
@@ -2697,6 +2753,14 @@
       "onboard_time": 1769322801,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 227164,
+      "num": 113046,
+      "word": "白血病的征兆",
+      "onboard_time": 1769575461,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 226344,
@@ -2859,6 +2923,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 208932,
+      "num": 208932,
+      "word": "印度坠毁飞机机上人员全遇难",
+      "onboard_time": 1769575940,
+      "rank": 6,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 207550,
       "num": 147193,
       "word": "白鹿说已无法负荷高强度动作戏",
@@ -2945,6 +3017,14 @@
       "onboard_time": 1769389401,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 199816,
+      "num": 199816,
+      "word": "老人狱中病亡14年后获宣告无罪",
+      "onboard_time": 1769574742,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 199106,
@@ -3217,6 +3297,14 @@
       "onboard_time": 1769439202,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 176872,
+      "num": 176872,
+      "word": "大侦探",
+      "onboard_time": 1769574861,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 176015,
@@ -3529,14 +3617,6 @@
       "onboard_time": 1769561900,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 156628,
-      "num": 185202,
-      "word": "市长被查前刚就副市长被查主持会议",
-      "onboard_time": 1769574261,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 156575,
@@ -4003,6 +4083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 139942,
+      "num": 113371,
+      "word": "丁程鑫朱志鑫左航 已争气争气再争气",
+      "onboard_time": 1769575882,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 139838,
       "num": 139838,
       "word": "刘宇宁现身马年第二次联排",
@@ -4353,6 +4441,14 @@
       "onboard_time": 1769501541,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 128029,
+      "num": 111893,
+      "word": "王牌对王牌的承重墙回来了",
+      "onboard_time": 1769575521,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 127972,
@@ -4883,6 +4979,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 117837,
+      "num": 170179,
+      "word": "王一博控温也控场",
+      "onboard_time": 1769572999,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 117817,
+      "num": 117817,
+      "word": "杰我睿",
+      "onboard_time": 1769575700,
+      "rank": 18,
+      "category": "财经"
+    },
+    {
       "raw_hot": 117603,
       "num": 117603,
       "word": "第一次见冷血动物被气成这样",
@@ -5099,6 +5211,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 113444,
+      "num": 113444,
+      "word": "水贝租金饰每克30到50元",
+      "onboard_time": 1769575282,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 113429,
       "num": 113429,
       "word": "猫 没吃的你咪什么咪",
@@ -5129,6 +5249,14 @@
       "onboard_time": 1769499801,
       "rank": 40,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 112647,
+      "num": 112647,
+      "word": "豆包崩了",
+      "onboard_time": 1769574980,
+      "rank": 33,
+      "category": "互联网"
     },
     {
       "raw_hot": 112476,
@@ -5347,6 +5475,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 108107,
+      "num": 129041,
+      "word": "刘宇宁也太会摇了吧",
+      "onboard_time": 1769573179,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 107807,
       "num": 107807,
       "word": "杰我睿被曝经营异常深圳通报",
@@ -5523,12 +5659,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 105719,
+      "num": 105719,
+      "word": "卖400克金条借钱后按黄金现值索还",
+      "onboard_time": 1769575822,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105697,
       "num": 259899,
       "word": "美国前总统反对美国现政府",
       "onboard_time": 1769560640,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 105596,
+      "num": 95927,
+      "word": "宋威龙AnotherMan开年刊封面",
+      "onboard_time": 1769575581,
+      "rank": 40,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 105466,
@@ -6291,6 +6443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 96714,
+      "num": 96714,
+      "word": "4.5天工作制",
+      "onboard_time": 1769576303,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96697,
       "num": 96697,
       "word": "本周做什么都顺的星座",
@@ -6883,6 +7043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 91175,
+      "num": 91175,
+      "word": "水贝一家黄金预定价平台兑付困难",
+      "onboard_time": 1769576421,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 90974,
       "num": 90974,
       "word": "贾冰范丞丞再演父子",
@@ -6929,6 +7097,14 @@
       "onboard_time": 1769485702,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 90687,
+      "num": 90687,
+      "word": "和平统一将给台湾创造巨大机遇",
+      "onboard_time": 1769576303,
+      "rank": 45,
+      "category": "国内时政"
     },
     {
       "raw_hot": 90618,
@@ -7283,6 +7459,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 86646,
+      "num": 86646,
+      "word": "曾舜晞 丈夫的容貌妻子的荣耀",
+      "onboard_time": 1769576240,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 86643,
       "num": 86643,
       "word": "剧圈来了个影帝金巴",
@@ -7577,6 +7761,14 @@
       "onboard_time": 1769515941,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 83808,
+      "num": 83808,
+      "word": "李嘉格点赞希望车澈越来越好",
+      "onboard_time": 1769576542,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 83641,
@@ -8803,14 +8995,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 70690,
-      "num": 170179,
-      "word": "王一博控温也控场",
-      "onboard_time": 1769572999,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 70674,
       "num": 97986,
       "word": "林志玲拍戏了",
@@ -9081,14 +9265,6 @@
       "onboard_time": 1769520442,
       "rank": 49,
       "category": "财经"
-    },
-    {
-      "raw_hot": 66848,
-      "num": 129041,
-      "word": "刘宇宁也太会摇了吧",
-      "onboard_time": 1769573179,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 66682,
@@ -9851,6 +10027,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 45273,
+      "num": 589133,
+      "word": "超8000列动车组提供静音车厢服务",
+      "onboard_time": 1769575700,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44707,
       "num": 174010,
       "word": "政协委员建议推行每周四天半工作日",
@@ -10137,6 +10321,14 @@
       "onboard_time": 1769275698,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 37764,
+      "num": 112890,
+      "word": "喵娲娲开启微博之夜星空毯",
+      "onboard_time": 1769576421,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 37702,

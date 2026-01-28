@@ -1,6 +1,6 @@
 {
   "startTime": 1769531989527,
-  "endTime": 1769574721057,
+  "endTime": 1769576603151,
   "band_list": [
     {
       "raw_hot": 927199,
@@ -8,6 +8,14 @@
       "word": "多品牌紧急删除张雨绮相关代言内容",
       "onboard_time": 1769530280,
       "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 862830,
+      "num": 113712,
+      "word": "小海绵长到我刚认识baby的年纪了",
+      "onboard_time": 1769574742,
+      "rank": 20,
       "category": "艺人"
     },
     {
@@ -36,7 +44,7 @@
     },
     {
       "raw_hot": 606996,
-      "num": 240877,
+      "num": 404058,
       "word": "不建议马桶使用蓝泡泡",
       "onboard_time": 1769570361,
       "rank": 5,
@@ -67,6 +75,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 495995,
+      "num": 170361,
+      "word": "微博之夜 星空毯",
+      "onboard_time": 1769575521,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 483073,
       "num": 175109,
       "word": "肖战会去救马云",
@@ -83,20 +99,44 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 411151,
+      "num": 233386,
+      "word": "金价暴涨女子卖300克黄金变现30万",
+      "onboard_time": 1769569040,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 399433,
+      "num": 419356,
+      "word": "市长被查前刚就副市长被查主持会议",
+      "onboard_time": 1769574261,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 380468,
+      "num": 1060874,
+      "word": "印度一飞机失事",
+      "onboard_time": 1769574801,
+      "rank": 0,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 377495,
+      "num": 762368,
+      "word": "王牌对王牌",
+      "onboard_time": 1769573840,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 375477,
       "num": 132108,
       "word": "日本一女性在同一家公司上班近70年",
       "onboard_time": 1769527222,
       "rank": 10,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 347945,
-      "num": 233386,
-      "word": "金价暴涨女子卖300克黄金变现30万",
-      "onboard_time": 1769569040,
-      "rank": 6,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 345591,
@@ -121,6 +161,22 @@
       "onboard_time": 1769529081,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 335854,
+      "num": 154218,
+      "word": "张晚意 个体户辟谣就是快",
+      "onboard_time": 1769575521,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 333723,
+      "num": 134236,
+      "word": "第一次给艺人穿鞋时我哭了",
+      "onboard_time": 1769575102,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 318292,
@@ -219,12 +275,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 228027,
-      "num": 762368,
-      "word": "王牌对王牌",
-      "onboard_time": 1769573840,
-      "rank": 1,
-      "category": "综艺"
+      "raw_hot": 244959,
+      "num": 404597,
+      "word": "阚清子特邀主演夜色正浓",
+      "onboard_time": 1769574861,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 227164,
+      "num": 113046,
+      "word": "白血病的征兆",
+      "onboard_time": 1769575461,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 214228,
@@ -241,6 +305,14 @@
       "onboard_time": 1769565438,
       "rank": 40,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 208932,
+      "num": 208932,
+      "word": "印度坠毁飞机机上人员全遇难",
+      "onboard_time": 1769575940,
+      "rank": 6,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 206820,
@@ -267,6 +339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 199816,
+      "num": 199816,
+      "word": "老人狱中病亡14年后获宣告无罪",
+      "onboard_time": 1769574742,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 188387,
       "num": 174044,
       "word": "张译上过的所有学校都倒闭了",
@@ -289,6 +369,14 @@
       "onboard_time": 1769487682,
       "rank": 1,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 176872,
+      "num": 176872,
+      "word": "大侦探",
+      "onboard_time": 1769574861,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 171733,
@@ -347,14 +435,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 156628,
-      "num": 185202,
-      "word": "市长被查前刚就副市长被查主持会议",
-      "onboard_time": 1769574261,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 155933,
       "num": 155933,
       "word": "王者荣耀",
@@ -377,6 +457,14 @@
       "onboard_time": 1769565920,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 139942,
+      "num": 113371,
+      "word": "丁程鑫朱志鑫左航 已争气争气再争气",
+      "onboard_time": 1769575882,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 137699,
@@ -475,6 +563,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 128029,
+      "num": 111893,
+      "word": "王牌对王牌的承重墙回来了",
+      "onboard_time": 1769575521,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 127924,
       "num": 127924,
       "word": "白鹿连续三年成为媒体好感艺人",
@@ -563,6 +659,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 117837,
+      "num": 170179,
+      "word": "王一博控温也控场",
+      "onboard_time": 1769572999,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 117817,
+      "num": 117817,
+      "word": "杰我睿",
+      "onboard_time": 1769575700,
+      "rank": 18,
+      "category": "财经"
+    },
+    {
       "raw_hot": 114910,
       "num": 113316,
       "word": "鞠婧祎彝族服饰路透",
@@ -587,6 +699,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 113444,
+      "num": 113444,
+      "word": "水贝租金饰每克30到50元",
+      "onboard_time": 1769575282,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 113160,
       "num": 103021,
       "word": "曝TFBOYS小时候没钱吃饭",
@@ -601,6 +721,14 @@
       "onboard_time": 1769523862,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 112647,
+      "num": 112647,
+      "word": "豆包崩了",
+      "onboard_time": 1769574980,
+      "rank": 33,
+      "category": "互联网"
     },
     {
       "raw_hot": 111855,
@@ -632,6 +760,14 @@
       "word": "宋威龙媒体好感度艺人TOP5",
       "onboard_time": 1769574202,
       "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 108107,
+      "num": 129041,
+      "word": "刘宇宁也太会摇了吧",
+      "onboard_time": 1769573179,
+      "rank": 29,
       "category": "艺人"
     },
     {
@@ -675,12 +811,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105719,
+      "num": 105719,
+      "word": "卖400克金条借钱后按黄金现值索还",
+      "onboard_time": 1769575822,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105697,
       "num": 259899,
       "word": "美国前总统反对美国现政府",
       "onboard_time": 1769560640,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 105596,
+      "num": 95927,
+      "word": "宋威龙AnotherMan开年刊封面",
+      "onboard_time": 1769575581,
+      "rank": 40,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 103339,
@@ -729,6 +881,14 @@
       "onboard_time": 1769572102,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 96714,
+      "num": 96714,
+      "word": "4.5天工作制",
+      "onboard_time": 1769576303,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96682,
@@ -787,6 +947,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 91175,
+      "num": 91175,
+      "word": "水贝一家黄金预定价平台兑付困难",
+      "onboard_time": 1769576421,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 90687,
+      "num": 90687,
+      "word": "和平统一将给台湾创造巨大机遇",
+      "onboard_time": 1769576303,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 90089,
       "num": 71964,
       "word": "女子在卫生间发现不雅标语引热议",
@@ -795,12 +971,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 86646,
+      "num": 86646,
+      "word": "曾舜晞 丈夫的容貌妻子的荣耀",
+      "onboard_time": 1769576240,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 86313,
       "num": 129345,
       "word": "吉利3款9系车获年度车型大奖",
       "onboard_time": 1769571200,
       "rank": 27,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 83808,
+      "num": 83808,
+      "word": "李嘉格点赞希望车澈越来越好",
+      "onboard_time": 1769576542,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 81464,
@@ -923,14 +1115,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 70690,
-      "num": 170179,
-      "word": "王一博控温也控场",
-      "onboard_time": 1769572999,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 70576,
       "num": 69003,
       "word": "太平年编剧",
@@ -977,14 +1161,6 @@
       "onboard_time": 1769525061,
       "rank": 29,
       "category": "美食"
-    },
-    {
-      "raw_hot": 66848,
-      "num": 129041,
-      "word": "刘宇宁也太会摇了吧",
-      "onboard_time": 1769573179,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 65058,
@@ -1107,6 +1283,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 45273,
+      "num": 589133,
+      "word": "超8000列动车组提供静音车厢服务",
+      "onboard_time": 1769575700,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44707,
       "num": 174010,
       "word": "政协委员建议推行每周四天半工作日",
@@ -1129,6 +1313,14 @@
       "onboard_time": 1769555837,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 37764,
+      "num": 112890,
+      "word": "喵娲娲开启微博之夜星空毯",
+      "onboard_time": 1769576421,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 37479,
