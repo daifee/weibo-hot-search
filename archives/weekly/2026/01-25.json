@@ -1,6 +1,6 @@
 {
   "startTime": 1769272464158,
-  "endTime": 1769611172478,
+  "endTime": 1769612286601,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 2620230,
-      "num": 117019,
+      "num": 119745,
       "word": "蔡徐坤方回应金子涵",
       "onboard_time": 1769603661,
       "rank": 25,
@@ -99,19 +99,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1554906,
+      "num": 176795,
+      "word": "阚清子近照状态",
+      "onboard_time": 1769608162,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1516621,
       "num": 190449,
       "word": "何健麒 造谣你都得有个谱啊",
       "onboard_time": 1769348181,
       "rank": 23,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1495860,
-      "num": 176795,
-      "word": "阚清子近照状态",
-      "onboard_time": 1769608162,
-      "rank": 13,
       "category": "艺人"
     },
     {
@@ -1347,12 +1347,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 423812,
+      "num": 233857,
+      "word": "美国打了美国",
+      "onboard_time": 1769606061,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 423421,
       "num": 1067747,
       "word": "湖南省考多地监狱岗位仅招艺术类",
       "onboard_time": 1769524043,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 423300,
+      "num": 188212,
+      "word": "杨紫为上镜暴瘦15斤",
+      "onboard_time": 1769608282,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 421571,
@@ -1376,14 +1392,6 @@
       "word": "唐宫奇案",
       "onboard_time": 1769478920,
       "rank": 3,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 416890,
-      "num": 188212,
-      "word": "杨紫为上镜暴瘦15斤",
-      "onboard_time": 1769608282,
-      "rank": 10,
       "category": "剧集"
     },
     {
@@ -1481,14 +1489,6 @@
       "onboard_time": 1769433983,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 404778,
-      "num": 233857,
-      "word": "美国打了美国",
-      "onboard_time": 1769606061,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 402928,
@@ -2908,7 +2908,7 @@
     },
     {
       "raw_hot": 247633,
-      "num": 214305,
+      "num": 230343,
       "word": "假如方圆脸减肥成功",
       "onboard_time": 1769605521,
       "rank": 37,
@@ -3283,6 +3283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 218723,
+      "num": 218723,
+      "word": "武汉理工毕业的保安称已被开除",
+      "onboard_time": 1769610445,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 218624,
       "num": 218624,
       "word": "生命树发布会",
@@ -3395,6 +3403,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 208963,
+      "num": 121105,
+      "word": "42岁女子吃紧急避孕药大出血险丢命",
+      "onboard_time": 1769611406,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 207550,
       "num": 147193,
       "word": "白鹿说已无法负荷高强度动作戏",
@@ -3417,6 +3433,14 @@
       "onboard_time": 1769397742,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 205219,
+      "num": 205219,
+      "word": "汪苏泷回应给宋亚轩写代表作",
+      "onboard_time": 1769609483,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 204118,
@@ -4163,14 +4187,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 158231,
-      "num": 136871,
-      "word": "汪苏泷回应给宋亚轩写代表作",
-      "onboard_time": 1769609483,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 157898,
       "num": 130959,
       "word": "问界M6或将成为下一个爆款",
@@ -4361,6 +4377,14 @@
       "onboard_time": 1769572460,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 152110,
+      "num": 136602,
+      "word": "迪丽热巴陈飞宇将录你好星期六",
+      "onboard_time": 1769607202,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 151735,
@@ -4603,14 +4627,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 143360,
-      "num": 136602,
-      "word": "迪丽热巴陈飞宇将录你好星期六",
-      "onboard_time": 1769607202,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 142063,
       "num": 142063,
       "word": "王嘉尔疑似直男被吓麻了",
@@ -4777,6 +4793,14 @@
       "onboard_time": 1769399362,
       "rank": 28,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 139082,
+      "num": 139082,
+      "word": "黄金白银基金暂停申购",
+      "onboard_time": 1769611286,
+      "rank": 13,
+      "category": "财经"
     },
     {
       "raw_hot": 138957,
@@ -5491,6 +5515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 122837,
+      "num": 122837,
+      "word": "中方回应朝鲜向东部海域发射导弹",
+      "onboard_time": 1769609062,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 122748,
       "num": 122748,
       "word": "这些症状可能是白血病信号",
@@ -5715,12 +5747,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 118450,
+      "num": 118450,
+      "word": "生命树未播热度",
+      "onboard_time": 1769608521,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 118434,
       "num": 139427,
       "word": "桃黑黑打王者",
       "onboard_time": 1769520260,
       "rank": 35,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 118293,
+      "num": 118293,
+      "word": "孙楠认出了宋亚轩没认出马嘉祺",
+      "onboard_time": 1769611286,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 118223,
@@ -5745,14 +5793,6 @@
       "onboard_time": 1769556317,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 117935,
-      "num": 111698,
-      "word": "生命树未播热度",
-      "onboard_time": 1769608521,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 117917,
@@ -6089,14 +6129,6 @@
       "onboard_time": 1769314821,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 112359,
-      "num": 112359,
-      "word": "武汉理工毕业的保安称已被开除",
-      "onboard_time": 1769610445,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 112306,
@@ -6507,6 +6539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 106779,
+      "num": 118507,
+      "word": "尘白禁区 扭蛋机",
+      "onboard_time": 1769611524,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 106714,
       "num": 106714,
       "word": "镖人",
@@ -6657,14 +6697,6 @@
       "onboard_time": 1769416401,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 104658,
-      "num": 104658,
-      "word": "中方回应朝鲜向东部海域发射导弹",
-      "onboard_time": 1769609062,
-      "rank": 32,
-      "category": "国内时政"
     },
     {
       "raw_hot": 104404,
@@ -7185,6 +7217,14 @@
       "onboard_time": 1769606002,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 99065,
+      "num": 99065,
+      "word": "阿富汗女性教育到小学为止",
+      "onboard_time": 1769611950,
+      "rank": 35,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 99025,
@@ -8971,6 +9011,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 84643,
+      "num": 84643,
+      "word": "南通发现1例罕见恐龙血",
+      "onboard_time": 1769612131,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84625,
       "num": 190409,
       "word": "EXO吴世勋签售会饭拍",
@@ -9161,6 +9209,14 @@
       "onboard_time": 1769402362,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 82928,
+      "num": 82928,
+      "word": "任权要求薛小婉带妆睡觉",
+      "onboard_time": 1769611645,
+      "rank": 41,
+      "category": "网红"
     },
     {
       "raw_hot": 82718,
@@ -10409,6 +10465,14 @@
       "onboard_time": 1769564959,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 72452,
+      "num": 77956,
+      "word": "机构看涨黄金到7100美元",
+      "onboard_time": 1769611890,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 72384,
@@ -11683,6 +11747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 47962,
+      "num": 648380,
+      "word": "政务应用程序管理新规发布",
+      "onboard_time": 1769604981,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 47961,
       "num": 122261,
       "word": "空军歼10空中加油直飞新加坡",
@@ -11713,14 +11785,6 @@
       "onboard_time": 1769259621,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 47189,
-      "num": 648380,
-      "word": "政务应用程序管理新规发布",
-      "onboard_time": 1769604981,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 47163,
@@ -12051,6 +12115,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 39306,
+      "num": 122254,
+      "word": "杰我睿客户申请500元提款排4万人后",
+      "onboard_time": 1769611406,
+      "rank": 19,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 39221,
       "num": 39221,
       "word": "太平年的口碑",
@@ -12257,6 +12329,14 @@
       "onboard_time": 1769490022,
       "rank": 28,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 35991,
+      "num": 83249,
+      "word": "喂猫咪躲过一劫老板称没主人就养它",
+      "onboard_time": 1769611831,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 35709,
@@ -12905,6 +12985,14 @@
       "onboard_time": 1769395218,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 21009,
+      "num": 122835,
+      "word": "多家房企称已不被要求上报三条红线",
+      "onboard_time": 1769611345,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20959,
