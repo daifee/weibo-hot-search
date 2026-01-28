@@ -1,6 +1,6 @@
 {
   "startTime": 1769531989527,
-  "endTime": 1769609029072,
+  "endTime": 1769611172478,
   "band_list": [
     {
       "raw_hot": 11494198,
@@ -24,6 +24,14 @@
       "word": "蔡徐坤方回应金子涵",
       "onboard_time": 1769603661,
       "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1495860,
+      "num": 176795,
+      "word": "阚清子近照状态",
+      "onboard_time": 1769608162,
+      "rank": 13,
       "category": "艺人"
     },
     {
@@ -73,6 +81,14 @@
       "onboard_time": 1769589981,
       "rank": 14,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 811029,
+      "num": 1129764,
+      "word": "男子买15元彩票中1404万",
+      "onboard_time": 1769606842,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 770862,
@@ -203,14 +219,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 499905,
-      "num": 796077,
-      "word": "男子买15元彩票中1404万",
-      "onboard_time": 1769606842,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 495995,
       "num": 1076351,
       "word": "微博之夜 星空毯",
@@ -241,6 +249,14 @@
       "onboard_time": 1769585239,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 486546,
+      "num": 93579,
+      "word": "金子涵歌词 你就是个大骗子",
+      "onboard_time": 1769603241,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 484169,
@@ -307,12 +323,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 416890,
+      "num": 188212,
+      "word": "杨紫为上镜暴瘦15斤",
+      "onboard_time": 1769608282,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 411151,
       "num": 233386,
       "word": "金价暴涨女子卖300克黄金变现30万",
       "onboard_time": 1769569040,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 404778,
+      "num": 233857,
+      "word": "美国打了美国",
+      "onboard_time": 1769606061,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 383912,
@@ -539,6 +571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 273174,
+      "num": 273174,
+      "word": "伊朗总统宣布启动紧急状态",
+      "onboard_time": 1769606002,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 271201,
       "num": 166314,
       "word": "虞书欣起诉多方侵犯肖像权",
@@ -595,14 +635,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 256580,
-      "num": 188212,
-      "word": "杨紫为上镜暴瘦15斤",
-      "onboard_time": 1769608282,
-      "rank": 10,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 253755,
       "num": 87675,
       "word": "内娱至今无一人塌房的全女综艺",
@@ -633,6 +665,14 @@
       "onboard_time": 1769585901,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 247633,
+      "num": 214305,
+      "word": "假如方圆脸减肥成功",
+      "onboard_time": 1769605521,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 244160,
@@ -675,14 +715,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 233857,
-      "num": 233857,
-      "word": "美国打了美国",
-      "onboard_time": 1769606061,
-      "rank": 30,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 231468,
       "num": 231468,
       "word": "那英 何老师我又来了",
@@ -691,28 +723,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 230812,
+      "num": 227199,
+      "word": "银价波动",
+      "onboard_time": 1769606902,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 230405,
       "num": 230405,
       "word": "一公司15名员工13人生育",
       "onboard_time": 1769588120,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 228735,
-      "num": 176795,
-      "word": "阚清子近照状态",
-      "onboard_time": 1769608162,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 227199,
-      "num": 227199,
-      "word": "银价波动",
-      "onboard_time": 1769606902,
-      "rank": 45,
-      "category": "财经"
     },
     {
       "raw_hot": 226992,
@@ -867,6 +891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 186176,
+      "num": 135515,
+      "word": "朴彩英曾扮成老奶奶去约会",
+      "onboard_time": 1769608881,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 183613,
       "num": 183613,
       "word": "JDG战胜DRG",
@@ -881,14 +913,6 @@
       "onboard_time": 1769487682,
       "rank": 1,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 175603,
-      "num": 175603,
-      "word": "伊朗总统宣布启动紧急状态",
-      "onboard_time": 1769606002,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 173732,
@@ -995,6 +1019,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 158231,
+      "num": 136871,
+      "word": "汪苏泷回应给宋亚轩写代表作",
+      "onboard_time": 1769609483,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 157281,
       "num": 131521,
       "word": "店主在穿脏退回的衣服掏出100元",
@@ -1083,6 +1115,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 143360,
+      "num": 136602,
+      "word": "迪丽热巴陈飞宇将录你好星期六",
+      "onboard_time": 1769607202,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 142063,
       "num": 142063,
       "word": "王嘉尔疑似直男被吓麻了",
@@ -1145,6 +1185,14 @@
       "onboard_time": 1769515701,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 134973,
+      "num": 134973,
+      "word": "新疆人发现了米饭的神仙吃法",
+      "onboard_time": 1769609902,
+      "rank": 23,
+      "category": "美食"
     },
     {
       "raw_hot": 133489,
@@ -1267,14 +1315,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 126608,
-      "num": 126608,
-      "word": "假如方圆脸减肥成功",
-      "onboard_time": 1769605521,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 126001,
       "num": 126001,
       "word": "穆塞蒂vs德约科维奇",
@@ -1339,11 +1379,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 123034,
-      "num": 107552,
-      "word": "朴彩英曾扮成老奶奶去约会",
-      "onboard_time": 1769608881,
-      "rank": 25,
+      "raw_hot": 123224,
+      "num": 123224,
+      "word": "李兰迪 耳环消失术",
+      "onboard_time": 1769609002,
+      "rank": 44,
       "category": "艺人"
     },
     {
@@ -1411,6 +1451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 117935,
+      "num": 111698,
+      "word": "生命树未播热度",
+      "onboard_time": 1769608521,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 117917,
       "num": 117917,
       "word": "英国首相斯塔默抵达北京",
@@ -1433,6 +1481,14 @@
       "onboard_time": 1769600361,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 115718,
+      "num": 115718,
+      "word": "言雪",
+      "onboard_time": 1769610684,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 115711,
@@ -1523,6 +1579,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 112359,
+      "num": 112359,
+      "word": "武汉理工毕业的保安称已被开除",
+      "onboard_time": 1769610445,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111907,
       "num": 111907,
       "word": "声生不息直播",
@@ -1568,6 +1632,14 @@
       "word": "TTG对战KSG",
       "onboard_time": 1769606242,
       "rank": 48,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 109717,
+      "num": 109717,
+      "word": "KSG战胜TTG",
+      "onboard_time": 1769610384,
+      "rank": 31,
       "category": "电竞"
     },
     {
@@ -1683,12 +1755,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 104093,
-      "num": 104093,
-      "word": "生命树未播热度",
-      "onboard_time": 1769608521,
-      "rank": 27,
-      "category": "剧集"
+      "raw_hot": 104658,
+      "num": 104658,
+      "word": "中方回应朝鲜向东部海域发射导弹",
+      "onboard_time": 1769609062,
+      "rank": 32,
+      "category": "国内时政"
     },
     {
       "raw_hot": 103904,
@@ -1787,20 +1859,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 99292,
+      "num": 103108,
+      "word": "多家三甲医院推出外卖",
+      "onboard_time": 1769606002,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99025,
       "num": 98163,
       "word": "秦牛正威转行酒吧主理人",
       "onboard_time": 1769600422,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 99009,
-      "num": 99009,
-      "word": "迪丽热巴陈飞宇将录你好星期六",
-      "onboard_time": 1769607202,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 98936,
@@ -1880,6 +1952,14 @@
       "word": "展轩问胡一天你多高啊",
       "onboard_time": 1769607022,
       "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 95292,
+      "num": 95292,
+      "word": "章昊素颜看眼科",
+      "onboard_time": 1769610082,
+      "rank": 34,
       "category": "艺人"
     },
     {
@@ -2073,14 +2153,6 @@
       "onboard_time": 1769590161,
       "rank": 42,
       "category": "财经"
-    },
-    {
-      "raw_hot": 90381,
-      "num": 103108,
-      "word": "多家三甲医院推出外卖",
-      "onboard_time": 1769606002,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 90251,
@@ -2411,8 +2483,16 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 79544,
+      "num": 79544,
+      "word": "白鹿真正的一剑变装",
+      "onboard_time": 1769610445,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 78778,
-      "num": 78778,
+      "num": 90551,
       "word": "这些信号提示免疫力正在下降",
       "onboard_time": 1769605221,
       "rank": 48,
@@ -2449,6 +2529,14 @@
       "onboard_time": 1769598743,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 77161,
+      "num": 79572,
+      "word": "刘强东发年货乡亲说被很多人羡慕",
+      "onboard_time": 1769610924,
+      "rank": 42,
+      "category": "互联网,民生新闻"
     },
     {
       "raw_hot": 77112,
@@ -2627,6 +2715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 72384,
+      "num": 72384,
+      "word": "警方正处理杰我睿珠宝事件",
+      "onboard_time": 1769610745,
+      "rank": 49,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 72261,
       "num": 72261,
       "word": "iPhone18有望不涨价",
@@ -2657,14 +2753,6 @@
       "onboard_time": 1769566459,
       "rank": 49,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 71183,
-      "num": 71183,
-      "word": "李兰迪 耳环消失术",
-      "onboard_time": 1769609002,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 70989,
@@ -2988,7 +3076,7 @@
     },
     {
       "raw_hot": 47189,
-      "num": 619287,
+      "num": 648380,
       "word": "政务应用程序管理新规发布",
       "onboard_time": 1769604981,
       "rank": 2,
@@ -3041,6 +3129,14 @@
       "onboard_time": 1769600242,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42440,
+      "num": 136088,
+      "word": "官方通报3元续面纠纷",
+      "onboard_time": 1769610204,
+      "rank": 19,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 42112,
@@ -3425,6 +3521,14 @@
       "onboard_time": 1769535975,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 15764,
+      "num": 81311,
+      "word": "农业县硬扛7.6亿政绩债务",
+      "onboard_time": 1769610625,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15698,

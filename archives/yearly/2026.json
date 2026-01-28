@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769609029072,
+  "endTime": 1769611172478,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -777,6 +777,14 @@
       "onboard_time": 1767694461,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1495860,
+      "num": 176795,
+      "word": "阚清子近照状态",
+      "onboard_time": 1769608162,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 1495371,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1768874299,
       "rank": 20,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 860920,
-      "num": 1137747,
-      "word": "党员烧香算违纪吗官方释疑",
-      "onboard_time": 1767858380,
-      "rank": 0,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
