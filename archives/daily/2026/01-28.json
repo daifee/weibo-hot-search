@@ -1,9 +1,9 @@
 {
   "startTime": 1769531989527,
-  "endTime": 1769589768704,
+  "endTime": 1769590705804,
   "band_list": [
     {
-      "raw_hot": 2847854,
+      "raw_hot": 3770861,
       "num": 233203,
       "word": "阿富汗永久禁止女性上学",
       "onboard_time": 1769588241,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 929204,
-      "num": 173784,
+      "num": 201615,
       "word": "小海绵长到我刚认识baby的年纪了",
       "onboard_time": 1769574742,
       "rank": 20,
@@ -51,7 +51,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 695326,
+      "raw_hot": 737793,
       "num": 231049,
       "word": "致命毒红薯已流遍20多省",
       "onboard_time": 1769587520,
@@ -171,6 +171,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 457481,
+      "num": 224722,
+      "word": "被指张雨绮事件涉事律师律所回应",
+      "onboard_time": 1769589021,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 452404,
+      "num": 788798,
+      "word": "谷爱凌说世界不会原谅我了",
+      "onboard_time": 1769588480,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 446392,
       "num": 169614,
       "word": "邓超减掉40斤时连嚼的力气都没有",
@@ -275,14 +291,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 324466,
-      "num": 324466,
-      "word": "谷爱凌说世界不会原谅我了",
-      "onboard_time": 1769588480,
-      "rank": 3,
-      "category": "体育"
-    },
-    {
       "raw_hot": 323498,
       "num": 239987,
       "word": "王俊凯到澳大利亚了",
@@ -305,6 +313,14 @@
       "onboard_time": 1769580921,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 315670,
+      "num": 216742,
+      "word": "韩国素媛案凶手再入狱",
+      "onboard_time": 1769589981,
+      "rank": 14,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 313555,
@@ -347,6 +363,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 294265,
+      "num": 219193,
+      "word": "当你离职减了40斤但又去上班了",
+      "onboard_time": 1769587580,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 289591,
       "num": 289591,
       "word": "张萌说孟子义太红了",
@@ -387,14 +411,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 264942,
-      "num": 221789,
-      "word": "被指张雨绮事件涉事律师律所回应",
-      "onboard_time": 1769589021,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 262351,
       "num": 107279,
       "word": "周深自曝身高1.61米",
@@ -417,6 +433,14 @@
       "onboard_time": 1769569340,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 256719,
+      "num": 211607,
+      "word": "汪东城我不会再帮你说一句话",
+      "onboard_time": 1769587760,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 253755,
@@ -443,20 +467,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 247591,
-      "num": 247591,
+      "raw_hot": 247977,
+      "num": 247977,
       "word": "面试官最爱听的离职原因",
       "onboard_time": 1769585901,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 244561,
-      "num": 219193,
-      "word": "当你离职减了40斤但又去上班了",
-      "onboard_time": 1769587580,
-      "rank": 16,
-      "category": "幽默"
     },
     {
       "raw_hot": 241987,
@@ -473,6 +489,14 @@
       "onboard_time": 1769581220,
       "rank": 22,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 230405,
+      "num": 230405,
+      "word": "一公司15名员工13人生育",
+      "onboard_time": 1769588120,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 226992,
@@ -555,12 +579,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 192404,
-      "num": 142431,
-      "word": "一公司15名员工13人生育",
-      "onboard_time": 1769588120,
-      "rank": 31,
-      "category": "民生新闻"
+      "raw_hot": 199405,
+      "num": 199405,
+      "word": "只有一个指纹大小的娃娃",
+      "onboard_time": 1769587641,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 188387,
@@ -576,14 +600,6 @@
       "word": "张凌赫非常感谢闺蜜",
       "onboard_time": 1769568141,
       "rank": 19,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 179673,
-      "num": 163217,
-      "word": "汪东城我不会再帮你说一句话",
-      "onboard_time": 1769587760,
-      "rank": 25,
       "category": "艺人"
     },
     {
@@ -697,14 +713,6 @@
       "onboard_time": 1769572460,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 150039,
-      "num": 150039,
-      "word": "只有一个指纹大小的娃娃",
-      "onboard_time": 1769587641,
-      "rank": 28,
-      "category": "幽默"
     },
     {
       "raw_hot": 148868,
@@ -1195,6 +1203,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 104751,
+      "num": 103915,
+      "word": "陈星旭一提刘亦菲王玉雯秒破功",
+      "onboard_time": 1769590038,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 103904,
       "num": 103904,
       "word": "王楚钦孙逊肖指导备战亚洲杯",
@@ -1243,6 +1259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 100191,
+      "num": 100191,
+      "word": "冰雨火大舅哥吐槽cp粉",
+      "onboard_time": 1769589321,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 98603,
       "num": 98603,
       "word": "河南夫妻36万枚鸡蛋卖出36万元",
@@ -1273,6 +1297,14 @@
       "onboard_time": 1769569639,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 96434,
+      "num": 96434,
+      "word": "重庆一火锅店收1人20元辛苦费",
+      "onboard_time": 1769590161,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 95921,
@@ -1363,14 +1395,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 93128,
-      "num": 93128,
-      "word": "冰雨火大舅哥吐槽cp粉",
-      "onboard_time": 1769589321,
-      "rank": 43,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 92700,
       "num": 92700,
       "word": "只在小地方当过小孩",
@@ -1417,6 +1441,14 @@
       "onboard_time": 1769587880,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 90413,
+      "num": 90413,
+      "word": "专家称白银已进入泡沫区域",
+      "onboard_time": 1769590161,
+      "rank": 42,
+      "category": "财经"
     },
     {
       "raw_hot": 90089,
@@ -1595,6 +1627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 78155,
+      "num": 153801,
+      "word": "每天一问健康福来了吗",
+      "onboard_time": 1769588301,
+      "rank": 27,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 76995,
       "num": 104669,
       "word": "站张凌赫身边很难不亲上去",
@@ -1611,14 +1651,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 76840,
-      "num": 151921,
-      "word": "每天一问健康福来了吗",
-      "onboard_time": 1769588301,
-      "rank": 27,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 76459,
       "num": 76459,
       "word": "黄仁勋现身深圳吃牛肉火锅",
@@ -1633,6 +1665,14 @@
       "onboard_time": 1769557219,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 75246,
+      "num": 81738,
+      "word": "A股行情",
+      "onboard_time": 1769587399,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 75184,
@@ -1681,6 +1721,14 @@
       "onboard_time": 1769567059,
       "rank": 48,
       "category": "数码"
+    },
+    {
+      "raw_hot": 72165,
+      "num": 72165,
+      "word": "A股资源股爆发",
+      "onboard_time": 1769588719,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 71514,
@@ -1739,6 +1787,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 67811,
+      "num": 640676,
+      "word": "1.45万吨桥梁空中转体有多震撼",
+      "onboard_time": 1769589801,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 66987,
       "num": 77013,
       "word": "苹果煮水竟有这么多妙用",
@@ -1795,6 +1851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 59505,
+      "num": 97862,
+      "word": "金莎说自己备婚超级忙",
+      "onboard_time": 1769590102,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 57725,
       "num": 57725,
       "word": "娜扎好六上班美成啥样了",
@@ -1811,8 +1875,16 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 56621,
+      "num": 205803,
+      "word": "宋威龙穿Gucci迷人又危险",
+      "onboard_time": 1769588301,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 55179,
-      "num": 175857,
+      "num": 203149,
       "word": "吹头不烫头才是真上头",
       "onboard_time": 1769588241,
       "rank": 18,
@@ -1848,14 +1920,6 @@
       "word": "那英说沈梦辰嫁给杜海涛眼光好",
       "onboard_time": 1769519781,
       "rank": 44,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 50453,
-      "num": 174157,
-      "word": "宋威龙穿Gucci迷人又危险",
-      "onboard_time": 1769588301,
-      "rank": 19,
       "category": "艺人"
     },
     {
@@ -2275,12 +2339,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 14887,
+      "num": 97603,
+      "word": "美国施压加拿大买88架F35",
+      "onboard_time": 1769589861,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 14699,
       "num": 235122,
       "word": "冰雪冷资源催生热制造",
       "onboard_time": 1769589501,
       "rank": 10,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 11105,
+      "num": 97584,
+      "word": "美甲店春节加价套路",
+      "onboard_time": 1769590402,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 9367,

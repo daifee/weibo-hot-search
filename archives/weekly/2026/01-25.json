@@ -1,6 +1,6 @@
 {
   "startTime": 1769272464158,
-  "endTime": 1769589768704,
+  "endTime": 1769590705804,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -27,6 +27,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 3770861,
+      "num": 233203,
+      "word": "阿富汗永久禁止女性上学",
+      "onboard_time": 1769588241,
+      "rank": 11,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 3441714,
       "num": 250987,
       "word": "前女友实名举报何健麒涉毒",
@@ -41,14 +49,6 @@
       "onboard_time": 1769487682,
       "rank": 10,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 2847854,
-      "num": 233203,
-      "word": "阿富汗永久禁止女性上学",
-      "onboard_time": 1769588241,
-      "rank": 11,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 2760241,
@@ -252,7 +252,7 @@
     },
     {
       "raw_hot": 929204,
-      "num": 173784,
+      "num": 201615,
       "word": "小海绵长到我刚认识baby的年纪了",
       "onboard_time": 1769574742,
       "rank": 20,
@@ -379,6 +379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 737793,
+      "num": 231049,
+      "word": "致命毒红薯已流遍20多省",
+      "onboard_time": 1769587520,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 734711,
       "num": 296220,
       "word": "韩国人还在睡梦中特朗普突然下手",
@@ -417,14 +425,6 @@
       "onboard_time": 1769270666,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 695326,
-      "num": 231049,
-      "word": "致命毒红薯已流遍20多省",
-      "onboard_time": 1769587520,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 680038,
@@ -1139,12 +1139,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 457481,
+      "num": 224722,
+      "word": "被指张雨绮事件涉事律师律所回应",
+      "onboard_time": 1769589021,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 457443,
       "num": 137469,
       "word": "鞠婧祎 你可以慢慢吃东西",
       "onboard_time": 1769334021,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 452404,
+      "num": 788798,
+      "word": "谷爱凌说世界不会原谅我了",
+      "onboard_time": 1769588480,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 451975,
@@ -1819,14 +1835,6 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 324466,
-      "num": 324466,
-      "word": "谷爱凌说世界不会原谅我了",
-      "onboard_time": 1769588480,
-      "rank": 3,
-      "category": "体育"
-    },
-    {
       "raw_hot": 323498,
       "num": 239987,
       "word": "王俊凯到澳大利亚了",
@@ -1961,6 +1969,14 @@
       "onboard_time": 1769322920,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 315670,
+      "num": 216742,
+      "word": "韩国素媛案凶手再入狱",
+      "onboard_time": 1769589981,
+      "rank": 14,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 315023,
@@ -2105,6 +2121,14 @@
       "onboard_time": 1769515881,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 294265,
+      "num": 219193,
+      "word": "当你离职减了40斤但又去上班了",
+      "onboard_time": 1769587580,
+      "rank": 16,
+      "category": "幽默"
     },
     {
       "raw_hot": 293638,
@@ -2451,14 +2475,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 264942,
-      "num": 221789,
-      "word": "被指张雨绮事件涉事律师律所回应",
-      "onboard_time": 1769589021,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 264527,
       "num": 116655,
       "word": "我国狂犬病死亡数创2020年来新高",
@@ -2569,6 +2585,14 @@
       "onboard_time": 1769569340,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 256719,
+      "num": 211607,
+      "word": "汪东城我不会再帮你说一句话",
+      "onboard_time": 1769587760,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 256527,
@@ -2683,20 +2707,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 247977,
+      "num": 247977,
+      "word": "面试官最爱听的离职原因",
+      "onboard_time": 1769585901,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 247751,
       "num": 247751,
       "word": "拜合拉木 上不了",
       "onboard_time": 1769271683,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 247591,
-      "num": 247591,
-      "word": "面试官最爱听的离职原因",
-      "onboard_time": 1769585901,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 247233,
@@ -2713,14 +2737,6 @@
       "onboard_time": 1769449516,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 244561,
-      "num": 219193,
-      "word": "当你离职减了40斤但又去上班了",
-      "onboard_time": 1769587580,
-      "rank": 16,
-      "category": "幽默"
     },
     {
       "raw_hot": 244027,
@@ -2921,6 +2937,14 @@
       "onboard_time": 1769329759,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 230405,
+      "num": 230405,
+      "word": "一公司15名员工13人生育",
+      "onboard_time": 1769588120,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 230296,
@@ -3235,6 +3259,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 199405,
+      "num": 199405,
+      "word": "只有一个指纹大小的娃娃",
+      "onboard_time": 1769587641,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 199106,
       "num": 111557,
       "word": "太平年10.9%",
@@ -3328,14 +3360,6 @@
       "word": "90后女子存20万私房钱被丈夫发现",
       "onboard_time": 1769443340,
       "rank": 15,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 192404,
-      "num": 142431,
-      "word": "一公司15名员工13人生育",
-      "onboard_time": 1769588120,
-      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -3489,14 +3513,6 @@
       "onboard_time": 1769477240,
       "rank": 27,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 179673,
-      "num": 163217,
-      "word": "汪东城我不会再帮你说一句话",
-      "onboard_time": 1769587760,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 179045,
@@ -4041,14 +4057,6 @@
       "onboard_time": 1769469438,
       "rank": 20,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 150039,
-      "num": 150039,
-      "word": "只有一个指纹大小的娃娃",
-      "onboard_time": 1769587641,
-      "rank": 28,
-      "category": "幽默"
     },
     {
       "raw_hot": 149436,
@@ -6123,6 +6131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 104751,
+      "num": 103915,
+      "word": "陈星旭一提刘亦菲王玉雯秒破功",
+      "onboard_time": 1769590038,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 104663,
       "num": 104663,
       "word": "199元与张凌赫共处21天",
@@ -6531,6 +6547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 100191,
+      "num": 100191,
+      "word": "冰雨火大舅哥吐槽cp粉",
+      "onboard_time": 1769589321,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 100129,
       "num": 100129,
       "word": "燕云十六声获年度最佳游戏",
@@ -6881,6 +6905,14 @@
       "onboard_time": 1769405902,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 96434,
+      "num": 96434,
+      "word": "重庆一火锅店收1人20元辛苦费",
+      "onboard_time": 1769590161,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96403,
@@ -7315,14 +7347,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 93128,
-      "num": 93128,
-      "word": "冰雨火大舅哥吐槽cp粉",
-      "onboard_time": 1769589321,
-      "rank": 43,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 93094,
       "num": 270056,
       "word": "惊蛰无声",
@@ -7601,6 +7625,14 @@
       "onboard_time": 1769342359,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 90413,
+      "num": 90413,
+      "word": "专家称白银已进入泡沫区域",
+      "onboard_time": 1769590161,
+      "rank": 42,
+      "category": "财经"
     },
     {
       "raw_hot": 90358,
@@ -8883,6 +8915,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 78155,
+      "num": 153801,
+      "word": "每天一问健康福来了吗",
+      "onboard_time": 1769588301,
+      "rank": 27,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 78053,
       "num": 69741,
       "word": "女生滑雪时摔倒手链断得满雪场都是",
@@ -9017,14 +9057,6 @@
       "onboard_time": 1769401823,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 76840,
-      "num": 151921,
-      "word": "每天一问健康福来了吗",
-      "onboard_time": 1769588301,
-      "rank": 27,
-      "category": "互联网"
     },
     {
       "raw_hot": 76813,
@@ -9217,6 +9249,14 @@
       "onboard_time": 1769557219,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 75246,
+      "num": 81738,
+      "word": "A股行情",
+      "onboard_time": 1769587399,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 75186,
@@ -9441,6 +9481,14 @@
       "onboard_time": 1769314941,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 72165,
+      "num": 72165,
+      "word": "A股资源股爆发",
+      "onboard_time": 1769588719,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 72082,
@@ -9785,6 +9833,14 @@
       "onboard_time": 1769425161,
       "rank": 49,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 67811,
+      "num": 640676,
+      "word": "1.45万吨桥梁空中转体有多震撼",
+      "onboard_time": 1769589801,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 67691,
@@ -10163,6 +10219,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 59505,
+      "num": 97862,
+      "word": "金莎说自己备婚超级忙",
+      "onboard_time": 1769590102,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 58921,
       "num": 58921,
       "word": "相信下一届国足会更好",
@@ -10259,6 +10323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 56621,
+      "num": 205803,
+      "word": "宋威龙穿Gucci迷人又危险",
+      "onboard_time": 1769588301,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 56479,
       "num": 140947,
       "word": "郭涛说家不是打分的地方",
@@ -10300,7 +10372,7 @@
     },
     {
       "raw_hot": 55179,
-      "num": 175857,
+      "num": 203149,
       "word": "吹头不烫头才是真上头",
       "onboard_time": 1769588241,
       "rank": 18,
@@ -10449,14 +10521,6 @@
       "onboard_time": 1769492181,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 50453,
-      "num": 174157,
-      "word": "宋威龙穿Gucci迷人又危险",
-      "onboard_time": 1769588301,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 50405,
@@ -11971,6 +12035,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 14887,
+      "num": 97603,
+      "word": "美国施压加拿大买88架F35",
+      "onboard_time": 1769589861,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 14699,
       "num": 235122,
       "word": "冰雪冷资源催生热制造",
@@ -12073,6 +12145,14 @@
       "onboard_time": 1769491159,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 11105,
+      "num": 97584,
+      "word": "美甲店春节加价套路",
+      "onboard_time": 1769590402,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 9367,

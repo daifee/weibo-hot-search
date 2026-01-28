@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/28 16:42:48
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/28 16:58:25
 </p>
 </blockquote>
 <p>
@@ -111,6 +111,12 @@ U23国足vs日本（热度：16741456）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E5%AF%8C%E6%B1%97%E6%B0%B8%E4%B9%85%E7%A6%81%E6%AD%A2%E5%A5%B3%E6%80%A7%E4%B8%8A%E5%AD%A6%23" target="weibo">
+阿富汗永久禁止女性上学（热度：3770861）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%97%AB%E5%AD%A6%E6%99%B6%E5%8F%91%E6%96%87%E9%81%93%E6%AD%89%23" target="weibo">
 闫学晶发文道歉（热度：3680249）
 </a>
@@ -173,12 +179,6 @@ WB冠军（热度：3566119）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A3%A3%E6%AC%A3%E5%BC%95%E5%8A%9B%23" target="weibo">
 棣欣引力（热度：2901090）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E5%AF%8C%E6%B1%97%E6%B0%B8%E4%B9%85%E7%A6%81%E6%AD%A2%E5%A5%B3%E6%80%A7%E4%B8%8A%E5%AD%A6%23" target="weibo">
-阿富汗永久禁止女性上学（热度：2847854）
 </a>
 </li>
 
