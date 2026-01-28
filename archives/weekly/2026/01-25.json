@@ -1,6 +1,6 @@
 {
   "startTime": 1769272464158,
-  "endTime": 1769633872472,
+  "endTime": 1769636259213,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -13707,6 +13707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 7364,
+      "num": 105330,
+      "word": "当冰雪大地邂逅璀璨星空",
+      "onboard_time": 1769604501,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 6943,
       "num": 657221,
       "word": "2025年出入境人次创新高",
@@ -13721,14 +13729,6 @@
       "onboard_time": 1769325440,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 6591,
-      "num": 38365,
-      "word": "当冰雪大地邂逅璀璨星空",
-      "onboard_time": 1769604501,
-      "rank": 2,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
