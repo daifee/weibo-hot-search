@@ -1,6 +1,6 @@
 {
   "startTime": 1769531989527,
-  "endTime": 1769599858767,
+  "endTime": 1769600707581,
   "band_list": [
     {
       "raw_hot": 11494198,
@@ -51,6 +51,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 832403,
+      "num": 1133184,
+      "word": "女子吃辣条吃出1根金条",
+      "onboard_time": 1769596641,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 825578,
       "num": 216742,
       "word": "韩国素媛案凶手再入狱",
@@ -73,14 +81,6 @@
       "onboard_time": 1769565259,
       "rank": 5,
       "category": "情感"
-    },
-    {
-      "raw_hot": 747257,
-      "num": 1119561,
-      "word": "女子吃辣条吃出1根金条",
-      "onboard_time": 1769596641,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 737793,
@@ -195,6 +195,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 488058,
+      "num": 801764,
+      "word": "微博之夜简笔画",
+      "onboard_time": 1769599881,
+      "rank": 1,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 487814,
       "num": 227525,
       "word": "微博之夜抢票",
@@ -267,20 +275,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 383912,
+      "num": 127509,
+      "word": "英伟达员工晒年会最牛年终奖",
+      "onboard_time": 1769598142,
+      "rank": 11,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 383029,
+      "num": 806285,
+      "word": "盒马错发水仙女子索赔375万降至48万",
+      "onboard_time": 1769596641,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 377495,
       "num": 762368,
       "word": "王牌对王牌",
       "onboard_time": 1769573840,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 377143,
-      "num": 806285,
-      "word": "盒马错发水仙女子索赔375万降至48万",
-      "onboard_time": 1769596641,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 375477,
@@ -667,6 +683,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 201220,
+      "num": 104907,
+      "word": "江疏影瘦了",
+      "onboard_time": 1769599220,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 199816,
       "num": 199816,
       "word": "老人狱中病亡14年后获宣告无罪",
@@ -691,12 +715,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 192597,
-      "num": 127509,
-      "word": "英伟达员工晒年会最牛年终奖",
-      "onboard_time": 1769598142,
-      "rank": 11,
-      "category": "互联网"
+      "raw_hot": 189416,
+      "num": 102406,
+      "word": "虞书欣断层领跑亿屏之选人气女演员",
+      "onboard_time": 1769597902,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 188387,
@@ -721,14 +745,6 @@
       "onboard_time": 1769599582,
       "rank": 6,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 183610,
-      "num": 102406,
-      "word": "虞书欣断层领跑亿屏之选人气女演员",
-      "onboard_time": 1769597902,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 179390,
@@ -769,6 +785,14 @@
       "onboard_time": 1769591542,
       "rank": 8,
       "category": "演出"
+    },
+    {
+      "raw_hot": 170234,
+      "num": 126139,
+      "word": "爱情公寓真的是太超前了",
+      "onboard_time": 1769595921,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 167606,
@@ -859,14 +883,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 154526,
-      "num": 126139,
-      "word": "爱情公寓真的是太超前了",
-      "onboard_time": 1769595921,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 152245,
       "num": 152245,
       "word": "王真儿有罪之身是一番",
@@ -921,14 +937,6 @@
       "onboard_time": 1769586441,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 140594,
-      "num": 101231,
-      "word": "江疏影瘦了",
-      "onboard_time": 1769599220,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 139942,
@@ -1227,8 +1235,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 117876,
-      "num": 117876,
+      "raw_hot": 117917,
+      "num": 117917,
       "word": "英国首相斯塔默抵达北京",
       "onboard_time": 1769597842,
       "rank": 16,
@@ -1321,6 +1329,14 @@
       "onboard_time": 1769574980,
       "rank": 33,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 111907,
+      "num": 111907,
+      "word": "声生不息直播",
+      "onboard_time": 1769600541,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 111855,
@@ -1515,6 +1531,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 102267,
+      "num": 105344,
+      "word": "樊振东感谢上海代表团的理解与支持",
+      "onboard_time": 1769600361,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 101182,
       "num": 101182,
       "word": "秦牛正威转行开酒馆",
@@ -1544,6 +1568,14 @@
       "word": "鲁豫范晓萱 你知道你的影响力吗",
       "onboard_time": 1769593043,
       "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 99025,
+      "num": 91174,
+      "word": "秦牛正威转行酒吧主理人",
+      "onboard_time": 1769600422,
+      "rank": 35,
       "category": "艺人"
     },
     {
@@ -1667,6 +1699,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 93623,
+      "num": 93623,
+      "word": "智障女子将18万遗产充值游戏币",
+      "onboard_time": 1769598023,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 93592,
       "num": 93592,
       "word": "中国铝业涨停创16年新高",
@@ -1697,6 +1737,14 @@
       "onboard_time": 1769598983,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 92060,
+      "num": 92060,
+      "word": "警察出警回应3元还不够油费",
+      "onboard_time": 1769596822,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 91772,
@@ -1811,20 +1859,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 89611,
+      "num": 89611,
+      "word": "张凌赫和舞蹈老师都有cp感",
+      "onboard_time": 1769599702,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 89498,
       "num": 89498,
       "word": "钎城冰尘合照",
       "onboard_time": 1769598202,
       "rank": 40,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 89436,
-      "num": 89436,
-      "word": "警察出警回应3元还不够油费",
-      "onboard_time": 1769596822,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 89301,
@@ -1889,6 +1937,14 @@
       "onboard_time": 1769571200,
       "rank": 27,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 86195,
+      "num": 86195,
+      "word": "小狗上门做客也得脱鞋",
+      "onboard_time": 1769600242,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 85529,
@@ -1961,14 +2017,6 @@
       "onboard_time": 1769594721,
       "rank": 37,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 82451,
-      "num": 82451,
-      "word": "智障女子将18万遗产充值游戏币",
-      "onboard_time": 1769598023,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 81464,
@@ -2105,14 +2153,6 @@
       "onboard_time": 1769566459,
       "rank": 42,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 76312,
-      "num": 76312,
-      "word": "张凌赫和舞蹈老师都有cp感",
-      "onboard_time": 1769599702,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 76263,
@@ -2281,6 +2321,14 @@
       "onboard_time": 1769523742,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 68671,
+      "num": 68671,
+      "word": "曝古偶男主将缩头坚持到底",
+      "onboard_time": 1769598802,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 68593,
@@ -2545,6 +2593,14 @@
       "onboard_time": 1769519663,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 43998,
+      "num": 106229,
+      "word": "火锅店称向客人收辛苦费是唯一利润",
+      "onboard_time": 1769600242,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 42112,

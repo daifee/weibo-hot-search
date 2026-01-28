@@ -1,0 +1,410 @@
+{
+  "runTime": 1769600707581,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 832403,
+        "num": 1133184,
+        "word": "女子吃辣条吃出1根金条",
+        "onboard_time": 1769596641,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 488058,
+        "num": 801764,
+        "word": "微博之夜简笔画",
+        "onboard_time": 1769599881,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 48678,
+        "num": 646330,
+        "word": "1.45万吨桥梁空中转体有多震撼",
+        "onboard_time": 1769589801,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 383029,
+        "num": 383029,
+        "word": "盒马错发水仙女子索赔375万降至48万",
+        "onboard_time": 1769596641,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217546,
+        "num": 217546,
+        "word": "生育津贴到手3万却被申领10万元",
+        "onboard_time": 1769590820,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192347,
+        "num": 192347,
+        "word": "1名中国籍游客俄罗斯死亡",
+        "onboard_time": 1769592802,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142754,
+        "num": 142754,
+        "word": "JDG战胜DRG",
+        "onboard_time": 1769599582,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 140606,
+        "num": 140606,
+        "word": "银行取消5年期存款意味着什么",
+        "onboard_time": 1769590761,
+        "rank": 7,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 127869,
+        "num": 127869,
+        "word": "JDG对战DRG",
+        "onboard_time": 1769594841,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 120847,
+        "num": 120847,
+        "word": "肥娟小吃或因经营不善面临解散",
+        "onboard_time": 1769596701,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 403657,
+        "num": 120828,
+        "word": "韩国素媛案凶手再入狱",
+        "onboard_time": 1769589981,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 383912,
+        "num": 120731,
+        "word": "英伟达员工晒年会最牛年终奖",
+        "onboard_time": 1769598142,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 237618,
+        "num": 120690,
+        "word": "谷爱凌说世界不会原谅我了",
+        "onboard_time": 1769588480,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170234,
+        "num": 120632,
+        "word": "爱情公寓真的是太超前了",
+        "onboard_time": 1769595921,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120595,
+        "num": 120595,
+        "word": "日本电视全军覆没了",
+        "onboard_time": 1769596822,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 132706,
+        "num": 120514,
+        "word": "苟姓爸爸怕女儿尴尬一起改姓敬",
+        "onboard_time": 1769593764,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117917,
+        "num": 117917,
+        "word": "英国首相斯塔默抵达北京",
+        "onboard_time": 1769597842,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 111907,
+        "num": 111907,
+        "word": "声生不息直播",
+        "onboard_time": 1769600541,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106307,
+        "num": 106307,
+        "word": "当你离职减了40斤但又去上班了",
+        "onboard_time": 1769587580,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 43998,
+        "num": 106229,
+        "word": "火锅店称向客人收辛苦费是唯一利润",
+        "onboard_time": 1769600242,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 8950134,
+        "num": 8950134,
+        "word": "金子涵拉黑蔡徐坤",
+        "onboard_time": 1769598862,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 312203,
+        "num": 105678,
+        "word": "小海绵长到我刚认识baby的年纪了",
+        "onboard_time": 1769574742,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102267,
+        "num": 105344,
+        "word": "樊振东感谢上海代表团的理解与支持",
+        "onboard_time": 1769600361,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 210361,
+        "num": 105033,
+        "word": "微博之夜抢票",
+        "onboard_time": 1769585239,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 201220,
+        "num": 104907,
+        "word": "江疏影瘦了",
+        "onboard_time": 1769599220,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104632,
+        "num": 104632,
+        "word": "烤鱼店老板投喂流浪猫躲过一劫",
+        "onboard_time": 1769577381,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1263893,
+        "num": 102477,
+        "word": "蔡徐坤 金子涵",
+        "onboard_time": 1769598082,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189416,
+        "num": 100711,
+        "word": "虞书欣断层领跑亿屏之选人气女演员",
+        "onboard_time": 1769597902,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93623,
+        "num": 93623,
+        "word": "智障女子将18万遗产充值游戏币",
+        "onboard_time": 1769598023,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68125,
+        "num": 93535,
+        "word": "一公司15名员工13人生育",
+        "onboard_time": 1769588120,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155446,
+        "num": 93259,
+        "word": "秦牛正威开酒馆客单价200元",
+        "onboard_time": 1769593582,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124270,
+        "num": 92836,
+        "word": "2025搜狐黑榜艺人",
+        "onboard_time": 1769592562,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88236,
+        "num": 92519,
+        "word": "3.6万亿增量资金料流入中国股市",
+        "onboard_time": 1769599521,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 95004,
+        "num": 92328,
+        "word": "王者荣耀 白鹿",
+        "onboard_time": 1769571800,
+        "rank": 33,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 92060,
+        "num": 92060,
+        "word": "警察出警回应3元还不够油费",
+        "onboard_time": 1769596822,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99025,
+        "num": 91174,
+        "word": "秦牛正威转行酒吧主理人",
+        "onboard_time": 1769600422,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89611,
+        "num": 89611,
+        "word": "张凌赫和舞蹈老师都有cp感",
+        "onboard_time": 1769599702,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87907,
+        "num": 87907,
+        "word": "黄金再暴涨原因",
+        "onboard_time": 1769583679,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 86195,
+        "num": 86195,
+        "word": "小狗上门做客也得脱鞋",
+        "onboard_time": 1769600242,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 85226,
+        "num": 85226,
+        "word": "姜母鸭",
+        "onboard_time": 1769591721,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 84610,
+        "num": 84610,
+        "word": "徐冬冬回应网友让尹子维换老婆",
+        "onboard_time": 1769598983,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82934,
+        "num": 82934,
+        "word": "重庆一火锅店收1人20元辛苦费",
+        "onboard_time": 1769590161,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82367,
+        "num": 82367,
+        "word": "微博之夜 星空毯",
+        "onboard_time": 1769575521,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 79911,
+        "num": 79911,
+        "word": "高片酬糊弄姐 傲慢罢工姐",
+        "onboard_time": 1769593880,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79567,
+        "num": 79567,
+        "word": "4.5天工作制",
+        "onboard_time": 1769576303,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77024,
+        "num": 77024,
+        "word": "老式大学生手搓的踏实感",
+        "onboard_time": 1769599341,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 71461,
+        "num": 71461,
+        "word": "金价暴涨让南非老矿区焕发生机",
+        "onboard_time": 1769594540,
+        "rank": 46,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 71406,
+        "num": 71406,
+        "word": "绝意摇旗",
+        "onboard_time": 1769598743,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 70693,
+        "num": 70693,
+        "word": "白银还能涨多久",
+        "onboard_time": 1769599582,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 68671,
+        "num": 68671,
+        "word": "曝古偶男主将缩头坚持到底",
+        "onboard_time": 1769598802,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#欢迎各国人民搭乘中国发展的快车便车#"
+    }
+  }
+}
