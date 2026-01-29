@@ -1,0 +1,410 @@
+{
+  "runTime": 1769662450016,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 855030,
+        "num": 1136804,
+        "word": "那个创办快乐大本营的人走了",
+        "onboard_time": 1769656220,
+        "rank": 0,
+        "category": "民生新闻,作品衍生"
+      },
+      {
+        "raw_hot": 581817,
+        "num": 827897,
+        "word": "明家涉案100余亿14名中国人死亡",
+        "onboard_time": 1769657841,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106831,
+        "num": 629946,
+        "word": "全国气温回升大趋势成定局",
+        "onboard_time": 1769658200,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 470269,
+        "num": 470269,
+        "word": "快乐大本营创办者去世",
+        "onboard_time": 1769656940,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 331562,
+        "num": 331562,
+        "word": "哈工大辟谣学生捅伤两名教授",
+        "onboard_time": 1769661025,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 302349,
+        "num": 302349,
+        "word": "明家犯罪集团11人被执行死刑",
+        "onboard_time": 1769657781,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 279787,
+        "num": 279787,
+        "word": "第一个被豆包气哭的人出现了",
+        "onboard_time": 1769660002,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 274023,
+        "num": 274023,
+        "word": "男子新婚夜被妻子殴打发现其患精神病",
+        "onboard_time": 1769656101,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 253248,
+        "num": 253248,
+        "word": "白宫发了一张图新华社回了个动画",
+        "onboard_time": 1769651541,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 195445,
+        "num": 195445,
+        "word": "中国足协",
+        "onboard_time": 1769654180,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 7522335,
+        "num": 7522335,
+        "word": "曝金晨肇事逃逸",
+        "onboard_time": 1769659642,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 483498,
+        "num": 185017,
+        "word": "现货黄金高台跳水",
+        "onboard_time": 1769657540,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 266874,
+        "num": 176263,
+        "word": "朴彩英谈BLACKPINK关系",
+        "onboard_time": 1769660843,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253636,
+        "num": 172829,
+        "word": "刘强东父亲看乡亲们领年货",
+        "onboard_time": 1769661025,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 219314,
+        "num": 162212,
+        "word": "徐艺真回应淡出观众视野",
+        "onboard_time": 1769660363,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208628,
+        "num": 160800,
+        "word": "金晨 助理顶包",
+        "onboard_time": 1769661924,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154695,
+        "num": 154695,
+        "word": "马斯克称中国是下一个级别的狠角色",
+        "onboard_time": 1769661985,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 165492,
+        "num": 154438,
+        "word": "告白",
+        "onboard_time": 1769660242,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30960,
+        "num": 152993,
+        "word": "吃潜江龙虾过红火中国年",
+        "onboard_time": 1769659462,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 29615,
+        "num": 152848,
+        "word": "中国基建狂魔太空版上线",
+        "onboard_time": 1769661684,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 660136,
+        "num": 151391,
+        "word": "金饰克价涨至1708元",
+        "onboard_time": 1769650759,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 215600,
+        "num": 150690,
+        "word": "阚清子近照状态",
+        "onboard_time": 1769608162,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 243655,
+        "num": 149648,
+        "word": "黄金",
+        "onboard_time": 1769642958,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 197044,
+        "num": 149328,
+        "word": "谁说短剧女演员在长剧没辨识度",
+        "onboard_time": 1769653100,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185147,
+        "num": 147945,
+        "word": "金子涵曾没猜出蔡徐坤的名字",
+        "onboard_time": 1769646983,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147665,
+        "num": 147665,
+        "word": "刘强东送年货上千部手机垒成一面墙",
+        "onboard_time": 1769662106,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 157371,
+        "num": 145703,
+        "word": "91岁男生为爱cos肖战的一天",
+        "onboard_time": 1769653940,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140651,
+        "num": 140651,
+        "word": "哥伦比亚总统候选人坠机遇难",
+        "onboard_time": 1769658860,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 134445,
+        "num": 134445,
+        "word": "妈妈回应9岁孩子因一手好字火了",
+        "onboard_time": 1769653880,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134249,
+        "num": 134249,
+        "word": "第一个领到刘强东年货大爷发声",
+        "onboard_time": 1769661203,
+        "rank": 29,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 130528,
+        "num": 130528,
+        "word": "香橙烤奶",
+        "onboard_time": 1769659642,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 127293,
+        "num": 127293,
+        "word": "金价银价暴涨原因",
+        "onboard_time": 1769655980,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 123373,
+        "num": 123373,
+        "word": "花生这辈子没想到还能被切丝",
+        "onboard_time": 1769661803,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 114098,
+        "num": 114098,
+        "word": "一小时前定档一小时后发声明",
+        "onboard_time": 1769653820,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108936,
+        "num": 108936,
+        "word": "微博之夜",
+        "onboard_time": 1769601681,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 104675,
+        "num": 104675,
+        "word": "40岁男子连吃7天贡丸汤确诊尿毒症",
+        "onboard_time": 1769647341,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 108756,
+        "num": 104573,
+        "word": "黄圣依饶雪漫首搭短剧开机",
+        "onboard_time": 1769661624,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103024,
+        "num": 103024,
+        "word": "詹姆斯意外受伤",
+        "onboard_time": 1769654900,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84490,
+        "num": 102864,
+        "word": "太平年拍出了所有人的人生镜头",
+        "onboard_time": 1769662106,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45326,
+        "num": 102854,
+        "word": "大姨偷纸壳被抓哭诉儿子快没命了",
+        "onboard_time": 1769661684,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102854,
+        "num": 102853,
+        "word": "林孝埈把奥运五环纹在了背上",
+        "onboard_time": 1769659701,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102577,
+        "num": 102577,
+        "word": "黄金还能涨吗",
+        "onboard_time": 1769655200,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 102487,
+        "num": 102487,
+        "word": "有个不太健康的习惯叫穷思竭虑",
+        "onboard_time": 1769660963,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 101989,
+        "num": 101989,
+        "word": "英国首相斯塔默现身北京三里屯",
+        "onboard_time": 1769655920,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 101155,
+        "num": 101155,
+        "word": "奶茶名家庭化",
+        "onboard_time": 1769662042,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 98585,
+        "num": 98585,
+        "word": "港股黄金板块集体大涨",
+        "onboard_time": 1769662343,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 96591,
+        "num": 98285,
+        "word": "13家足球俱乐部涉假赌黑被罚",
+        "onboard_time": 1769661864,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98168,
+        "num": 98168,
+        "word": "美国通个下水道要13000刀",
+        "onboard_time": 1769660843,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 97575,
+        "num": 97575,
+        "word": "气血充足的人大多有5个习惯",
+        "onboard_time": 1769645600,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 93047,
+        "num": 93047,
+        "word": "叶舒华Minnie肤色差",
+        "onboard_time": 1769656220,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记激励体育健儿超越自我#"
+    }
+  }
+}

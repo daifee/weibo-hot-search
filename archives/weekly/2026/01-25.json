@@ -1,6 +1,6 @@
 {
   "startTime": 1769272464158,
-  "endTime": 1769661957270,
+  "endTime": 1769662450016,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -604,7 +604,7 @@
     },
     {
       "raw_hot": 653650,
-      "num": 816221,
+      "num": 827897,
       "word": "明家涉案100余亿14名中国人死亡",
       "onboard_time": 1769657841,
       "rank": 1,
@@ -1315,6 +1315,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 470269,
+      "num": 470269,
+      "word": "快乐大本营创办者去世",
+      "onboard_time": 1769656940,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 465228,
       "num": 589722,
       "word": "两个00后刮腻子一年营收100多万",
@@ -1329,14 +1337,6 @@
       "onboard_time": 1769354002,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 463257,
-      "num": 463257,
-      "word": "快乐大本营创办者去世",
-      "onboard_time": 1769656940,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 460392,
@@ -1516,7 +1516,7 @@
     },
     {
       "raw_hot": 416227,
-      "num": 144097,
+      "num": 147945,
       "word": "金子涵曾没猜出蔡徐坤的名字",
       "onboard_time": 1769646983,
       "rank": 22,
@@ -2107,6 +2107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 331562,
+      "num": 331562,
+      "word": "哈工大辟谣学生捅伤两名教授",
+      "onboard_time": 1769661025,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 329629,
       "num": 197520,
       "word": "张学友捐款130万元",
@@ -2121,14 +2129,6 @@
       "onboard_time": 1769421682,
       "rank": 15,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 328592,
-      "num": 328592,
-      "word": "哈工大辟谣学生捅伤两名教授",
-      "onboard_time": 1769661025,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 327953,
@@ -2683,6 +2683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 279787,
+      "num": 279787,
+      "word": "第一个被豆包气哭的人出现了",
+      "onboard_time": 1769660002,
+      "rank": 13,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 279713,
       "num": 279713,
       "word": "2026年房价会涨还是跌",
@@ -2849,6 +2857,14 @@
       "onboard_time": 1769508260,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 266874,
+      "num": 236664,
+      "word": "朴彩英谈BLACKPINK关系",
+      "onboard_time": 1769660843,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 266612,
@@ -3051,6 +3067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 253636,
+      "num": 172829,
+      "word": "刘强东父亲看乡亲们领年货",
+      "onboard_time": 1769661025,
+      "rank": 15,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 252750,
       "num": 252750,
       "word": "山姆499元羽绒服羽绒成本约为186元",
@@ -3169,14 +3193,6 @@
       "onboard_time": 1769419703,
       "rank": 9,
       "category": "财经"
-    },
-    {
-      "raw_hot": 245829,
-      "num": 236664,
-      "word": "朴彩英谈BLACKPINK关系",
-      "onboard_time": 1769660843,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 245060,
@@ -3425,14 +3441,6 @@
       "onboard_time": 1769394680,
       "rank": 28,
       "category": "财经"
-    },
-    {
-      "raw_hot": 230808,
-      "num": 230808,
-      "word": "第一个被豆包气哭的人出现了",
-      "onboard_time": 1769660002,
-      "rank": 13,
-      "category": "幽默"
     },
     {
       "raw_hot": 230807,
@@ -3713,6 +3721,14 @@
       "onboard_time": 1769611406,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 208628,
+      "num": 160800,
+      "word": "金晨 助理顶包",
+      "onboard_time": 1769661924,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 207550,
@@ -4379,6 +4395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 165492,
+      "num": 161654,
+      "word": "告白",
+      "onboard_time": 1769660242,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 164470,
       "num": 160252,
       "word": "普通但赚钱的工作",
@@ -4427,28 +4451,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 161868,
-      "num": 161868,
-      "word": "刘强东父亲看乡亲们领年货",
-      "onboard_time": 1769661025,
-      "rank": 15,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 161674,
       "num": 105056,
       "word": "黄金白银再涨爆",
       "onboard_time": 1769563639,
       "rank": 26,
       "category": "财经"
-    },
-    {
-      "raw_hot": 161654,
-      "num": 161654,
-      "word": "告白",
-      "onboard_time": 1769660242,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 161546,
@@ -4609,6 +4617,14 @@
       "onboard_time": 1769437822,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 154695,
+      "num": 154695,
+      "word": "马斯克称中国是下一个级别的狠角色",
+      "onboard_time": 1769661985,
+      "rank": 16,
+      "category": "互联网"
     },
     {
       "raw_hot": 154679,
@@ -4873,6 +4889,14 @@
       "onboard_time": 1769485221,
       "rank": 29,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 147665,
+      "num": 147665,
+      "word": "刘强东送年货上千部手机垒成一面墙",
+      "onboard_time": 1769662106,
+      "rank": 25,
+      "category": "互联网"
     },
     {
       "raw_hot": 147474,
@@ -5321,6 +5345,14 @@
       "onboard_time": 1769334021,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 134249,
+      "num": 134249,
+      "word": "第一个领到刘强东年货大爷发声",
+      "onboard_time": 1769661203,
+      "rank": 28,
+      "category": "互联网"
     },
     {
       "raw_hot": 134137,
@@ -5779,14 +5811,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 125701,
-      "num": 125701,
-      "word": "第一个领到刘强东年货大爷发声",
-      "onboard_time": 1769661203,
-      "rank": 28,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 125404,
       "num": 125404,
       "word": "王安宇第二次春晚联排",
@@ -5913,6 +5937,14 @@
       "onboard_time": 1769522842,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 123373,
+      "num": 123373,
+      "word": "花生这辈子没想到还能被切丝",
+      "onboard_time": 1769661803,
+      "rank": 40,
+      "category": "美食"
     },
     {
       "raw_hot": 123312,
@@ -6835,6 +6867,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 108756,
+      "num": 104573,
+      "word": "黄圣依饶雪漫首搭短剧开机",
+      "onboard_time": 1769661624,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 108668,
       "num": 108668,
       "word": "宋威龙下班拍成现偶了",
@@ -7251,14 +7291,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 104648,
-      "num": 104648,
-      "word": "花生这辈子没想到还能被切丝",
-      "onboard_time": 1769661803,
-      "rank": 40,
-      "category": "美食"
-    },
-    {
       "raw_hot": 104404,
       "num": 104404,
       "word": "山西过年还是太超前了",
@@ -7491,6 +7523,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 102854,
+      "num": 102853,
+      "word": "林孝埈把奥运五环纹在了背上",
+      "onboard_time": 1769659701,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 102844,
       "num": 242013,
       "word": "美或出售5000万桶委内瑞拉原油",
@@ -7617,6 +7657,14 @@
       "onboard_time": 1769410340,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 101155,
+      "num": 101155,
+      "word": "奶茶名家庭化",
+      "onboard_time": 1769662042,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 101135,
@@ -7795,14 +7843,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 99520,
-      "num": 99520,
-      "word": "林孝埈把奥运五环纹在了背上",
-      "onboard_time": 1769659701,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 99323,
       "num": 99323,
       "word": "成功减掉了30天",
@@ -7889,6 +7929,14 @@
       "onboard_time": 1769513600,
       "rank": 33,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 98585,
+      "num": 98585,
+      "word": "港股黄金板块集体大涨",
+      "onboard_time": 1769662343,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 98584,
@@ -8187,14 +8235,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 96197,
-      "num": 96197,
-      "word": "黄圣依饶雪漫首搭短剧开机",
-      "onboard_time": 1769661624,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 96144,
       "num": 96144,
       "word": "闪耀暖暖",
@@ -8281,14 +8321,6 @@
       "onboard_time": 1769492360,
       "rank": 33,
       "category": "电影"
-    },
-    {
-      "raw_hot": 95662,
-      "num": 95662,
-      "word": "金晨 助理顶包",
-      "onboard_time": 1769661924,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 95588,
@@ -9729,6 +9761,14 @@
       "onboard_time": 1769355443,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 84490,
+      "num": 102864,
+      "word": "太平年拍出了所有人的人生镜头",
+      "onboard_time": 1769662106,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 84332,
@@ -12731,6 +12771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 45326,
+      "num": 104655,
+      "word": "大姨偷纸壳被抓哭诉儿子快没命了",
+      "onboard_time": 1769661684,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44707,
       "num": 174010,
       "word": "政协委员建议推行每周四天半工作日",
@@ -13235,14 +13283,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 35839,
-      "num": 104655,
-      "word": "大姨偷纸壳被抓哭诉儿子快没命了",
-      "onboard_time": 1769661684,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 35709,
       "num": 35709,
       "word": "檀健次看粉丝应援落泪",
@@ -13499,6 +13539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 30960,
+      "num": 152993,
+      "word": "吃潜江龙虾过红火中国年",
+      "onboard_time": 1769659462,
+      "rank": 17,
+      "category": "美食"
+    },
+    {
       "raw_hot": 30935,
       "num": 253040,
       "word": "别克至境L7包高铁送你回家",
@@ -13560,6 +13608,14 @@
       "word": "工亡认定48小时条款让职工家属两难",
       "onboard_time": 1769655380,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29615,
+      "num": 152848,
+      "word": "中国基建狂魔太空版上线",
+      "onboard_time": 1769661684,
+      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -13651,14 +13707,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 27085,
-      "num": 152102,
-      "word": "吃潜江龙虾过红火中国年",
-      "onboard_time": 1769659462,
-      "rank": 17,
-      "category": "美食"
-    },
-    {
       "raw_hot": 27033,
       "num": 102793,
       "word": "4岁女儿贴心照料生病的妈妈",
@@ -13721,14 +13769,6 @@
       "onboard_time": 1769573361,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 26314,
-      "num": 138402,
-      "word": "中国基建狂魔太空版上线",
-      "onboard_time": 1769661684,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 26159,
