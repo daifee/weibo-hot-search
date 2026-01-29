@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/30 00:01:45
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/30 00:54:23
 </p>
 </blockquote>
 <p>
@@ -167,6 +167,12 @@ WB冠军（热度：3566119）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%BE%88%20%E6%8A%97%E8%89%BE%E6%BB%8B%E8%8D%AF%23" target="weibo">
 小澈 抗艾滋药（热度：3534737）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E6%9A%B4%E8%B7%8C%23" target="weibo">
+黄金暴跌（热度：3481750）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ U23国足2比0越南（热度：940028）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%9D%9C%E7%BD%97%E7%B3%BB%E8%A2%AB%E7%BE%8E%E5%86%9B%E4%B8%89%E8%A7%92%E6%B4%B2%E7%89%B9%E7%A7%8D%E9%83%A8%E9%98%9F%E6%8A%93%E8%8E%B7%23" target="weibo">
 马杜罗系被美军三角洲特种部队抓获（热度：902251）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E5%9C%88%E5%86%85%E4%BA%BA%E8%84%89%23" target="weibo">
-白鹿圈内人脉（热度：900304）
 </a>
 </li>
 

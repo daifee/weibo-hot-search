@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/30 00:01:45
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/30 00:54:23
 </p>
 </blockquote>
 <p>
@@ -167,6 +167,12 @@ WB冠军（热度：3566119）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%BE%88%20%E6%8A%97%E8%89%BE%E6%BB%8B%E8%8D%AF%23" target="weibo">
 小澈 抗艾滋药（热度：3534737）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E6%9A%B4%E8%B7%8C%23" target="weibo">
+黄金暴跌（热度：3481750）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ iPhone4需求激增近1000%（热度：506886）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B3%B0%E5%B3%BB%E9%AB%98%E4%BC%9A%20%E6%B3%A1%E6%B3%A1%23" target="weibo">
 时代峰峻高会 泡泡（热度：496892）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%91%E5%88%9D%E4%BB%A4%23" target="weibo">
-云初令（热度：496642）
 </a>
 </li>
 

@@ -1,7 +1,15 @@
 {
   "startTime": 1769702505765,
-  "endTime": 1769702505765,
+  "endTime": 1769705663885,
   "band_list": [
+    {
+      "raw_hot": 3481750,
+      "num": 111657,
+      "word": "黄金暴跌",
+      "onboard_time": 1769703021,
+      "rank": 10,
+      "category": "财经"
+    },
     {
       "raw_hot": 2213531,
       "num": 519498,
@@ -99,6 +107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 301436,
+      "num": 192449,
+      "word": "银价暴涨10倍带火CT废胶片",
+      "onboard_time": 1769700562,
+      "rank": 15,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 238240,
       "num": 238240,
       "word": "黄金概念板块跳水",
@@ -124,7 +140,7 @@
     },
     {
       "raw_hot": 202287,
-      "num": 202287,
+      "num": 632355,
       "word": "野人先生130克冰淇淋卖28元被指贵",
       "onboard_time": 1769699305,
       "rank": 9,
@@ -145,14 +161,6 @@
       "onboard_time": 1769688203,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 192449,
-      "num": 192449,
-      "word": "银价暴涨10倍带火CT废胶片",
-      "onboard_time": 1769700562,
-      "rank": 15,
-      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 187867,
@@ -195,12 +203,44 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 140495,
+      "num": 156406,
+      "word": "缅甸新诈骗园区有早前获救者",
+      "onboard_time": 1769701703,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 131765,
       "num": 131765,
       "word": "郭京飞总台视帝",
       "onboard_time": 1769698705,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 131201,
+      "num": 131201,
+      "word": "女子吃自制牛瘪火锅中毒双手变蓝",
+      "onboard_time": 1769700744,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117468,
+      "num": 100070,
+      "word": "国际金银大跳水",
+      "onboard_time": 1769704580,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 117041,
+      "num": 117041,
+      "word": "年轻老板狂扫700万黄金店员报警",
+      "onboard_time": 1769701825,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112679,
@@ -235,14 +275,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 106279,
-      "num": 106279,
-      "word": "女子吃自制牛瘪火锅中毒双手变蓝",
-      "onboard_time": 1769700744,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 105075,
       "num": 105075,
       "word": "杨幂孙俪拥抱",
@@ -259,12 +291,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99474,
+      "num": 99474,
+      "word": "白银重挫8%",
+      "onboard_time": 1769704580,
+      "rank": 29,
+      "category": "财经"
+    },
+    {
       "raw_hot": 97502,
-      "num": 97502,
+      "num": 102977,
       "word": "伊朗军队新装备千架战略无人机",
       "onboard_time": 1769698644,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 93172,
+      "num": 115133,
+      "word": "现货黄金白银快速走低",
+      "onboard_time": 1769703021,
+      "rank": 8,
+      "category": "财经"
     },
     {
       "raw_hot": 91182,
@@ -284,7 +332,7 @@
     },
     {
       "raw_hot": 89456,
-      "num": 89456,
+      "num": 99466,
       "word": "婚礼现场婆婆和亲妈撞脸惊呆宾客",
       "onboard_time": 1769699784,
       "rank": 40,
@@ -292,7 +340,7 @@
     },
     {
       "raw_hot": 85890,
-      "num": 85890,
+      "num": 99445,
       "word": "宋威龙泰国西装领带",
       "onboard_time": 1769701460,
       "rank": 41,
@@ -300,7 +348,7 @@
     },
     {
       "raw_hot": 85392,
-      "num": 85392,
+      "num": 99170,
       "word": "福建一家族合盖15层自建房",
       "onboard_time": 1769701226,
       "rank": 42,
@@ -308,7 +356,7 @@
     },
     {
       "raw_hot": 84681,
-      "num": 84681,
+      "num": 99225,
       "word": "刘宇宁李一桐你俩太好认了",
       "onboard_time": 1769700023,
       "rank": 43,
@@ -323,6 +371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 81003,
+      "num": 113390,
+      "word": "太平年李煜镜头被盘包浆了",
+      "onboard_time": 1769703861,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 80179,
       "num": 80179,
       "word": "沙溢终于知道体重管理的重要性了",
@@ -332,7 +388,7 @@
     },
     {
       "raw_hot": 74753,
-      "num": 74753,
+      "num": 99098,
       "word": "第一次见性格这么互补的男女主",
       "onboard_time": 1769702122,
       "rank": 47,
@@ -340,18 +396,18 @@
     },
     {
       "raw_hot": 74258,
-      "num": 74258,
+      "num": 99184,
       "word": "小城大事",
       "onboard_time": 1769699243,
       "rank": 49,
       "category": "剧集"
     },
     {
-      "raw_hot": 73027,
-      "num": 89558,
-      "word": "年轻老板狂扫700万黄金店员报警",
-      "onboard_time": 1769701825,
-      "rank": 38,
+      "raw_hot": 72134,
+      "num": 103418,
+      "word": "网友称吃药后疯狂买彩票",
+      "onboard_time": 1769702901,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -363,6 +419,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 64722,
+      "num": 100839,
+      "word": "嘉禾望岗为何被称为分手车站",
+      "onboard_time": 1769701882,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 59413,
+      "num": 99336,
+      "word": "孙千魏大勋cp感好强",
+      "onboard_time": 1769704759,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 50999,
       "num": 89662,
       "word": "男子回应捡漏彩票中25万",
@@ -371,12 +443,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 33774,
-      "num": 156406,
-      "word": "缅甸新诈骗园区有早前获救者",
-      "onboard_time": 1769701703,
-      "rank": 19,
-      "category": "海外新闻"
+      "raw_hot": 49876,
+      "num": 99215,
+      "word": "服药后现病理性赌博概率较小",
+      "onboard_time": 1769705238,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 41372,
+      "num": 99090,
+      "word": "DYG晋级S组",
+      "onboard_time": 1769696485,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 39986,
+      "num": 99070,
+      "word": "苏醒和兄弟的合影只认出了苏醒",
+      "onboard_time": 1769702662,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 27514,
@@ -385,14 +473,6 @@
       "onboard_time": 1769691564,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 26675,
-      "num": 89485,
-      "word": "嘉禾望岗为何被称为分手车站",
-      "onboard_time": 1769701882,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 23348,

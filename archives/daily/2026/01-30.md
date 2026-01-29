@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/30 00:01:45 ~ 2026/01/30 00:01:45
+本榜单时间：2026/01/30 00:01:45 ~ 2026/01/30 00:54:23
 </p>
 </blockquote>
 <p>
@@ -13,6 +13,12 @@
 热榜
 </h2>
 <ol>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E6%9A%B4%E8%B7%8C%23" target="weibo">
+黄金暴跌（热度：3481750）
+</a>
+</li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%23" target="weibo">
@@ -87,6 +93,12 @@ Bin 主动道歉（热度：434679）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%93%B6%E4%BB%B7%E6%9A%B4%E6%B6%A810%E5%80%8D%E5%B8%A6%E7%81%ABCT%E5%BA%9F%E8%83%B6%E7%89%87%23" target="weibo">
+银价暴涨10倍带火CT废胶片（热度：301436）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E6%A6%82%E5%BF%B5%E6%9D%BF%E5%9D%97%E8%B7%B3%E6%B0%B4%23" target="weibo">
 黄金概念板块跳水（热度：238240）
 </a>
@@ -123,12 +135,6 @@ Bin 主动道歉（热度：434679）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%93%B6%E4%BB%B7%E6%9A%B4%E6%B6%A810%E5%80%8D%E5%B8%A6%E7%81%ABCT%E5%BA%9F%E8%83%B6%E7%89%87%23" target="weibo">
-银价暴涨10倍带火CT废胶片（热度：192449）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E9%BB%84%E9%87%91%E8%BF%98%E6%B2%A1%E6%B6%A8%E5%88%B0%E6%9C%80%E9%AB%98%23" target="weibo">
 专家称黄金还没涨到最高（热度：187867）
 </a>
@@ -159,8 +165,32 @@ QQ不响了微信没声了（热度：157188）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BC%85%E7%94%B8%E6%96%B0%E8%AF%88%E9%AA%97%E5%9B%AD%E5%8C%BA%E6%9C%89%E6%97%A9%E5%89%8D%E8%8E%B7%E6%95%91%E8%80%85%23" target="weibo">
+缅甸新诈骗园区有早前获救者（热度：140495）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%AD%E4%BA%AC%E9%A3%9E%E6%80%BB%E5%8F%B0%E8%A7%86%E5%B8%9D%23" target="weibo">
 郭京飞总台视帝（热度：131765）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%90%83%E8%87%AA%E5%88%B6%E7%89%9B%E7%98%AA%E7%81%AB%E9%94%85%E4%B8%AD%E6%AF%92%E5%8F%8C%E6%89%8B%E5%8F%98%E8%93%9D%23" target="weibo">
+女子吃自制牛瘪火锅中毒双手变蓝（热度：131201）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E9%99%85%E9%87%91%E9%93%B6%E5%A4%A7%E8%B7%B3%E6%B0%B4%23" target="weibo">
+国际金银大跳水（热度：117468）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%BD%BB%E8%80%81%E6%9D%BF%E7%8B%82%E6%89%AB700%E4%B8%87%E9%BB%84%E9%87%91%E5%BA%97%E5%91%98%E6%8A%A5%E8%AD%A6%23" target="weibo">
+年轻老板狂扫700万黄金店员报警（热度：117041）
 </a>
 </li>
 
@@ -189,12 +219,6 @@ Selina悼念烧伤主治医生（热度：108226）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%90%83%E8%87%AA%E5%88%B6%E7%89%9B%E7%98%AA%E7%81%AB%E9%94%85%E4%B8%AD%E6%AF%92%E5%8F%8C%E6%89%8B%E5%8F%98%E8%93%9D%23" target="weibo">
-女子吃自制牛瘪火锅中毒双手变蓝（热度：106279）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E5%AD%99%E4%BF%AA%E6%8B%A5%E6%8A%B1%23" target="weibo">
 杨幂孙俪拥抱（热度：105075）
 </a>
@@ -207,8 +231,20 @@ Selina悼念烧伤主治医生（热度：108226）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%93%B6%E9%87%8D%E6%8C%AB8%25%23" target="weibo">
+白银重挫8%（热度：99474）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%86%9B%E9%98%9F%E6%96%B0%E8%A3%85%E5%A4%87%E5%8D%83%E6%9E%B6%E6%88%98%E7%95%A5%E6%97%A0%E4%BA%BA%E6%9C%BA%23" target="weibo">
 伊朗军队新装备千架战略无人机（热度：97502）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E5%BF%AB%E9%80%9F%E8%B5%B0%E4%BD%8E%23" target="weibo">
+现货黄金白银快速走低（热度：93172）
 </a>
 </li>
 
@@ -255,6 +291,12 @@ Selina悼念烧伤主治医生（热度：108226）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AA%E5%B9%B3%E5%B9%B4%E6%9D%8E%E7%85%9C%E9%95%9C%E5%A4%B4%E8%A2%AB%E7%9B%98%E5%8C%85%E6%B5%86%E4%BA%86%23" target="weibo">
+太平年李煜镜头被盘包浆了（热度：81003）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%99%E6%BA%A2%E7%BB%88%E4%BA%8E%E7%9F%A5%E9%81%93%E4%BD%93%E9%87%8D%E7%AE%A1%E7%90%86%E7%9A%84%E9%87%8D%E8%A6%81%E6%80%A7%E4%BA%86%23" target="weibo">
 沙溢终于知道体重管理的重要性了（热度：80179）
 </a>
@@ -273,8 +315,8 @@ Selina悼念烧伤主治医生（热度：108226）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%BD%BB%E8%80%81%E6%9D%BF%E7%8B%82%E6%89%AB700%E4%B8%87%E9%BB%84%E9%87%91%E5%BA%97%E5%91%98%E6%8A%A5%E8%AD%A6%23" target="weibo">
-年轻老板狂扫700万黄金店员报警（热度：73027）
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E7%A7%B0%E5%90%83%E8%8D%AF%E5%90%8E%E7%96%AF%E7%8B%82%E4%B9%B0%E5%BD%A9%E7%A5%A8%23" target="weibo">
+网友称吃药后疯狂买彩票（热度：72134）
 </a>
 </li>
 
@@ -285,26 +327,44 @@ Selina悼念烧伤主治医生（热度：108226）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%98%89%E7%A6%BE%E6%9C%9B%E5%B2%97%E4%B8%BA%E4%BD%95%E8%A2%AB%E7%A7%B0%E4%B8%BA%E5%88%86%E6%89%8B%E8%BD%A6%E7%AB%99%23" target="weibo">
+嘉禾望岗为何被称为分手车站（热度：64722）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E5%8D%83%E9%AD%8F%E5%A4%A7%E5%8B%8Bcp%E6%84%9F%E5%A5%BD%E5%BC%BA%23" target="weibo">
+孙千魏大勋cp感好强（热度：59413）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%9B%9E%E5%BA%94%E6%8D%A1%E6%BC%8F%E5%BD%A9%E7%A5%A8%E4%B8%AD25%E4%B8%87%23" target="weibo">
 男子回应捡漏彩票中25万（热度：50999）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BC%85%E7%94%B8%E6%96%B0%E8%AF%88%E9%AA%97%E5%9B%AD%E5%8C%BA%E6%9C%89%E6%97%A9%E5%89%8D%E8%8E%B7%E6%95%91%E8%80%85%23" target="weibo">
-缅甸新诈骗园区有早前获救者（热度：33774）
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%8D%E8%8D%AF%E5%90%8E%E7%8E%B0%E7%97%85%E7%90%86%E6%80%A7%E8%B5%8C%E5%8D%9A%E6%A6%82%E7%8E%87%E8%BE%83%E5%B0%8F%23" target="weibo">
+服药后现病理性赌博概率较小（热度：49876）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23DYG%E6%99%8B%E7%BA%A7S%E7%BB%84%23" target="weibo">
+DYG晋级S组（热度：41372）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E9%86%92%E5%92%8C%E5%85%84%E5%BC%9F%E7%9A%84%E5%90%88%E5%BD%B1%E5%8F%AA%E8%AE%A4%E5%87%BA%E4%BA%86%E8%8B%8F%E9%86%92%23" target="weibo">
+苏醒和兄弟的合影只认出了苏醒（热度：39986）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E6%8C%81%E7%BB%AD%E9%A2%86%E8%B7%91%E5%85%A8%E7%90%83%23" target="weibo">
 中国新能源汽车持续领跑全球（热度：27514）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%98%89%E7%A6%BE%E6%9C%9B%E5%B2%97%E4%B8%BA%E4%BD%95%E8%A2%AB%E7%A7%B0%E4%B8%BA%E5%88%86%E6%89%8B%E8%BD%A6%E7%AB%99%23" target="weibo">
-嘉禾望岗为何被称为分手车站（热度：26675）
 </a>
 </li>
 
