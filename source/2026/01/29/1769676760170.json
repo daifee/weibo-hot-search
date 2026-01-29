@@ -1,0 +1,410 @@
+{
+  "runTime": 1769676760170,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 534047,
+        "num": 1085447,
+        "word": "女子因幼犬轻咬未处理引发狂犬病",
+        "onboard_time": 1769667322,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 430576,
+        "num": 789736,
+        "word": "缅甸出现一处3000人新诈骗园区",
+        "onboard_time": 1769671584,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 23819,
+        "num": 604539,
+        "word": "中国牌晶体刷新3项世界纪录",
+        "onboard_time": 1769675724,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 300011,
+        "num": 300011,
+        "word": "神仙肉 虞书欣",
+        "onboard_time": 1769675664,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 273724,
+        "num": 298614,
+        "word": "俄军首次公开宣布使用美国星链",
+        "onboard_time": 1769673384,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 2683767,
+        "num": 298470,
+        "word": "曝金晨肇事逃逸",
+        "onboard_time": 1769659642,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298217,
+        "num": 298217,
+        "word": "第一次这么直观感受萝卜岗",
+        "onboard_time": 1769670983,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 292458,
+        "num": 292458,
+        "word": "孙颖莎说回头见",
+        "onboard_time": 1769673564,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 249909,
+        "num": 249909,
+        "word": "快乐大本营创办者去世",
+        "onboard_time": 1769656940,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213226,
+        "num": 213226,
+        "word": "歌手2026",
+        "onboard_time": 1769669184,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 6187759,
+        "num": 6187759,
+        "word": "曝金晨交通事故监控截图",
+        "onboard_time": 1769670383,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 316289,
+        "num": 212406,
+        "word": "建议脚臭的都去穿五指袜",
+        "onboard_time": 1769670683,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 396168,
+        "num": 211637,
+        "word": "肖战拍立得照",
+        "onboard_time": 1769674284,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 306962,
+        "num": 210934,
+        "word": "薛佳凝自曝2013年开始攒金",
+        "onboard_time": 1769663902,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231648,
+        "num": 210315,
+        "word": "橙子是非常私密的水果",
+        "onboard_time": 1769672844,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 220447,
+        "num": 209999,
+        "word": "微博之夜第三波阵容",
+        "onboard_time": 1769674104,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 209453,
+        "num": 209453,
+        "word": "白酒",
+        "onboard_time": 1769667083,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 192984,
+        "num": 192984,
+        "word": "微博之夜阵容",
+        "onboard_time": 1769665882,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 160944,
+        "num": 160944,
+        "word": "23岁男子呕吐4天后竟突然失忆",
+        "onboard_time": 1769663663,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159736,
+        "num": 159736,
+        "word": "男子刮刮乐中100万旁边大哥羡慕了",
+        "onboard_time": 1769676204,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219621,
+        "num": 157704,
+        "word": "黄金",
+        "onboard_time": 1769642958,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 170196,
+        "num": 155122,
+        "word": "沈佳润举了nina的小镜子",
+        "onboard_time": 1769672605,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151437,
+        "num": 151437,
+        "word": "金饰克价涨至1708元",
+        "onboard_time": 1769650759,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 145942,
+        "num": 145942,
+        "word": "三金该不该退出备婚清单",
+        "onboard_time": 1769672064,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 145614,
+        "num": 145614,
+        "word": "谢依霖夸杨幂素颜很漂亮",
+        "onboard_time": 1769672005,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132857,
+        "num": 132857,
+        "word": "国防部回应所谓击沉中国军舰动画",
+        "onboard_time": 1769673865,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 126505,
+        "num": 126505,
+        "word": "马年春晚要是敢有刀马",
+        "onboard_time": 1769675844,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 125078,
+        "num": 125078,
+        "word": "英国首相抵京第一餐完整菜单曝光",
+        "onboard_time": 1769673625,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 124528,
+        "num": 124528,
+        "word": "以前内向不好现在内向保命",
+        "onboard_time": 1769676445,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 71357,
+        "num": 120958,
+        "word": "明家涉案100余亿14名中国人死亡",
+        "onboard_time": 1769657841,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214860,
+        "num": 120753,
+        "word": "奉劝大家还是尽量多存钱",
+        "onboard_time": 1769676204,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 119124,
+        "num": 119124,
+        "word": "谢娜悼念魏文彬",
+        "onboard_time": 1769674463,
+        "rank": 31,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 116837,
+        "num": 116837,
+        "word": "曾舜晞唯一亚洲面孔的含金量",
+        "onboard_time": 1769675305,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114874,
+        "num": 114874,
+        "word": "坚持早睡30天的脸部变化",
+        "onboard_time": 1769672243,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 106415,
+        "num": 106415,
+        "word": "A股半导体板块大涨",
+        "onboard_time": 1769672064,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 102946,
+        "num": 102946,
+        "word": "女子2次宫外孕后再怀孕致子宫撕裂",
+        "onboard_time": 1769670983,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102896,
+        "num": 102896,
+        "word": "杨毅对杨鸣贴脸开大",
+        "onboard_time": 1769675482,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102399,
+        "num": 102399,
+        "word": "刘亦菲三里屯打卡",
+        "onboard_time": 1769676504,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99382,
+        "num": 99382,
+        "word": "王星和女友官宣微博之夜",
+        "onboard_time": 1769676564,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 94543,
+        "num": 94543,
+        "word": "张帅组合晋级澳网决赛",
+        "onboard_time": 1769675844,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93447,
+        "num": 93447,
+        "word": "papi酱目前最大尺度嘉宾",
+        "onboard_time": 1769665642,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90014,
+        "num": 90014,
+        "word": "哈工大辟谣学生捅伤两名教授",
+        "onboard_time": 1769661025,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89560,
+        "num": 89560,
+        "word": "草莓怎么成了中产鄙视链顶流",
+        "onboard_time": 1769674944,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88273,
+        "num": 88273,
+        "word": "茅台",
+        "onboard_time": 1769676627,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 87010,
+        "num": 87010,
+        "word": "想减肥一定要调整一下吃饭顺序",
+        "onboard_time": 1769676627,
+        "rank": 44,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 85710,
+        "num": 87004,
+        "word": "外交部回应缅北明家11人被执行死刑",
+        "onboard_time": 1769673384,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 86997,
+        "num": 86997,
+        "word": "三甲医生回应胎儿一脚踢破妈妈子宫",
+        "onboard_time": 1769663242,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86974,
+        "num": 86974,
+        "word": "刘强东同学说等强子回村想一起喝酒",
+        "onboard_time": 1769668644,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 86586,
+        "num": 86586,
+        "word": "白酒板块大涨四个原因",
+        "onboard_time": 1769675963,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 84701,
+        "num": 84701,
+        "word": "风过留痕定档",
+        "onboard_time": 1769675182,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#中英两国合作一定能一马当先#"
+    }
+  }
+}

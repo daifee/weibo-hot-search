@@ -1,6 +1,6 @@
 {
   "startTime": 1769272464158,
-  "endTime": 1769673649876,
+  "endTime": 1769676760170,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -1523,6 +1523,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 430576,
+      "num": 789736,
+      "word": "缅甸出现一处3000人新诈骗园区",
+      "onboard_time": 1769671584,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 430052,
       "num": 239923,
       "word": "张雨绮巴黎时装周行程或被取消",
@@ -1769,6 +1777,14 @@
       "onboard_time": 1769314459,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 396168,
+      "num": 211637,
+      "word": "肖战拍立得照",
+      "onboard_time": 1769674284,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 395195,
@@ -2251,14 +2267,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 324943,
-      "num": 502198,
-      "word": "缅甸出现一处3000人新诈骗园区",
-      "onboard_time": 1769671584,
-      "rank": 30,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 324762,
       "num": 593001,
       "word": "为什么教师行业没有起床气",
@@ -2587,6 +2595,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 300011,
+      "num": 300011,
+      "word": "神仙肉 虞书欣",
+      "onboard_time": 1769675664,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 299572,
       "num": 188770,
       "word": "徐冬冬尹子维结婚线下排面",
@@ -2601,6 +2617,14 @@
       "onboard_time": 1769581340,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 298217,
+      "num": 298217,
+      "word": "第一次这么直观感受萝卜岗",
+      "onboard_time": 1769670983,
+      "rank": 18,
+      "category": "幽默"
     },
     {
       "raw_hot": 295383,
@@ -2633,6 +2657,14 @@
       "onboard_time": 1769479939,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 292458,
+      "num": 444277,
+      "word": "孙颖莎说回头见",
+      "onboard_time": 1769673564,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 292202,
@@ -2875,14 +2907,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 275867,
-      "num": 444277,
-      "word": "孙颖莎说回头见",
-      "onboard_time": 1769673564,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
       "raw_hot": 274504,
       "num": 225123,
       "word": "A股",
@@ -2905,6 +2929,14 @@
       "onboard_time": 1769411602,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 273724,
+      "num": 298614,
+      "word": "俄军首次公开宣布使用美国星链",
+      "onboard_time": 1769673384,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 273580,
@@ -3347,14 +3379,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 245508,
-      "num": 245508,
-      "word": "第一次这么直观感受萝卜岗",
-      "onboard_time": 1769670983,
-      "rank": 18,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 245060,
       "num": 245060,
       "word": "云初令",
@@ -3579,6 +3603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 231648,
+      "num": 210315,
+      "word": "橙子是非常私密的水果",
+      "onboard_time": 1769672844,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 231468,
       "num": 231468,
       "word": "那英 何老师我又来了",
@@ -3747,6 +3779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 220447,
+      "num": 209999,
+      "word": "微博之夜第三波阵容",
+      "onboard_time": 1769674104,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 220199,
       "num": 220199,
       "word": "男子强吻女同事遭辞退后索赔16万",
@@ -3825,6 +3865,14 @@
       "onboard_time": 1769311220,
       "rank": 17,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 214860,
+      "num": 120753,
+      "word": "奉劝大家还是尽量多存钱",
+      "onboard_time": 1769676204,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 213505,
@@ -4723,6 +4771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 159736,
+      "num": 159736,
+      "word": "男子刮刮乐中100万旁边大哥羡慕了",
+      "onboard_time": 1769676204,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 159540,
       "num": 159540,
       "word": "按摩按到王嘉尔了",
@@ -5179,11 +5235,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 145942,
+      "num": 145942,
+      "word": "三金该不该退出备婚清单",
+      "onboard_time": 1769672064,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 145789,
       "num": 99119,
       "word": "易烊千玺到底像谁",
       "onboard_time": 1769591121,
       "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 145614,
+      "num": 145614,
+      "word": "谢依霖夸杨幂素颜很漂亮",
+      "onboard_time": 1769672005,
+      "rank": 33,
       "category": "艺人"
     },
     {
@@ -5369,14 +5441,6 @@
       "onboard_time": 1769526022,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 140290,
-      "num": 140290,
-      "word": "谢依霖夸杨幂素颜很漂亮",
-      "onboard_time": 1769672005,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 140060,
@@ -5667,6 +5731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 132857,
+      "num": 132857,
+      "word": "国防部回应所谓击沉中国军舰动画",
+      "onboard_time": 1769673865,
+      "rank": 25,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 132853,
       "num": 109359,
       "word": "桃黑黑为王者荣耀燃尽了",
@@ -5761,14 +5833,6 @@
       "onboard_time": 1769650040,
       "rank": 31,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 130684,
-      "num": 120093,
-      "word": "橙子是非常私密的水果",
-      "onboard_time": 1769672844,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 130412,
@@ -6067,6 +6131,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 126505,
+      "num": 126505,
+      "word": "马年春晚要是敢有刀马",
+      "onboard_time": 1769675844,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 126279,
       "num": 299448,
       "word": "Fakeme和迪丽热巴双向奔赴",
@@ -6155,12 +6227,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 125078,
+      "num": 125078,
+      "word": "英国首相抵京第一餐完整菜单曝光",
+      "onboard_time": 1769673625,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 124599,
       "num": 124599,
       "word": "学猫叫把猫恶心吐了",
       "onboard_time": 1769397320,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 124528,
+      "num": 124528,
+      "word": "以前内向不好现在内向保命",
+      "onboard_time": 1769676445,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 124291,
@@ -6491,6 +6579,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 119124,
+      "num": 119124,
+      "word": "谢娜悼念魏文彬",
+      "onboard_time": 1769674463,
+      "rank": 31,
+      "category": "艺人,民生新闻"
+    },
+    {
       "raw_hot": 119123,
       "num": 119123,
       "word": "胡锡进称中国人需要集体沉住气",
@@ -6648,6 +6744,14 @@
       "word": "陈星旭工作室严正声明",
       "onboard_time": 1769385077,
       "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 116837,
+      "num": 116837,
+      "word": "曾舜晞唯一亚洲面孔的含金量",
+      "onboard_time": 1769675305,
+      "rank": 32,
       "category": "艺人"
     },
     {
@@ -7507,14 +7611,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 106525,
-      "num": 106525,
-      "word": "三金该不该退出备婚清单",
-      "onboard_time": 1769672064,
-      "rank": 35,
-      "category": "情感"
-    },
-    {
       "raw_hot": 106524,
       "num": 106524,
       "word": "蔡国庆说张艺兴太厉害了",
@@ -7899,6 +7995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 102896,
+      "num": 102896,
+      "word": "杨毅对杨鸣贴脸开大",
+      "onboard_time": 1769675482,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 102885,
       "num": 102885,
       "word": "贝克汉姆大儿子风波后首更新ins",
@@ -7953,6 +8057,14 @@
       "onboard_time": 1769427140,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 102399,
+      "num": 102399,
+      "word": "刘亦菲三里屯打卡",
+      "onboard_time": 1769676504,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 102373,
@@ -8241,6 +8353,14 @@
       "onboard_time": 1769496081,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 99382,
+      "num": 99382,
+      "word": "王星和女友官宣微博之夜",
+      "onboard_time": 1769676564,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 99323,
@@ -8881,6 +9001,14 @@
       "onboard_time": 1769589201,
       "rank": 41,
       "category": "财经"
+    },
+    {
+      "raw_hot": 94543,
+      "num": 94543,
+      "word": "张帅组合晋级澳网决赛",
+      "onboard_time": 1769675844,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 94465,
@@ -9627,6 +9755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 89560,
+      "num": 89560,
+      "word": "草莓怎么成了中产鄙视链顶流",
+      "onboard_time": 1769674944,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89558,
       "num": 89558,
       "word": "李沁一身干净利落造型亮相Prada活动",
@@ -9745,6 +9881,14 @@
       "onboard_time": 1769415081,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 88273,
+      "num": 88273,
+      "word": "茅台",
+      "onboard_time": 1769676627,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 88213,
@@ -9891,6 +10035,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 87010,
+      "num": 87010,
+      "word": "想减肥一定要调整一下吃饭顺序",
+      "onboard_time": 1769676627,
+      "rank": 44,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 86966,
       "num": 86966,
       "word": "以色列暗示即将对伊朗发动军事打击",
@@ -9953,6 +10105,14 @@
       "onboard_time": 1769500699,
       "rank": 32,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 86586,
+      "num": 86586,
+      "word": "白酒板块大涨四个原因",
+      "onboard_time": 1769675963,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 86556,
@@ -10241,6 +10401,14 @@
       "onboard_time": 1769673625,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 84701,
+      "num": 84701,
+      "word": "风过留痕定档",
+      "onboard_time": 1769675182,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 84679,
@@ -11907,14 +12075,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 72277,
-      "num": 108655,
-      "word": "俄军首次公开宣布使用美国星链",
-      "onboard_time": 1769673384,
-      "rank": 39,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 72261,
       "num": 72261,
       "word": "iPhone18有望不涨价",
@@ -12985,14 +13145,6 @@
       "onboard_time": 1769643318,
       "rank": 33,
       "category": "财经"
-    },
-    {
-      "raw_hot": 55578,
-      "num": 116360,
-      "word": "英国首相抵京第一餐完整菜单曝光",
-      "onboard_time": 1769673625,
-      "rank": 35,
-      "category": "国际时政"
     },
     {
       "raw_hot": 55572,
@@ -14619,6 +14771,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 23819,
+      "num": 604539,
+      "word": "中国牌晶体刷新3项世界纪录",
+      "onboard_time": 1769675724,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23768,
       "num": 89580,
       "word": "4岁女儿重病父亲穿着拖鞋下跪求救",
@@ -15341,6 +15501,9 @@
     },
     {
       "word": "#总书记激励体育健儿超越自我#"
+    },
+    {
+      "word": "#中英两国合作一定能一马当先#"
     }
   ]
 }

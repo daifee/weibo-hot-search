@@ -1,6 +1,6 @@
 {
   "startTime": 1769616009567,
-  "endTime": 1769673649876,
+  "endTime": 1769676760170,
   "band_list": [
     {
       "raw_hot": 8542912,
@@ -259,6 +259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 430576,
+      "num": 789736,
+      "word": "缅甸出现一处3000人新诈骗园区",
+      "onboard_time": 1769671584,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 416227,
       "num": 147945,
       "word": "金子涵曾没猜出蔡徐坤的名字",
@@ -273,6 +281,14 @@
       "onboard_time": 1769643559,
       "rank": 9,
       "category": "财经"
+    },
+    {
+      "raw_hot": 396168,
+      "num": 211637,
+      "word": "肖战拍立得照",
+      "onboard_time": 1769674284,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 390971,
@@ -339,14 +355,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 324943,
-      "num": 502198,
-      "word": "缅甸出现一处3000人新诈骗园区",
-      "onboard_time": 1769671584,
-      "rank": 30,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 323105,
       "num": 323105,
       "word": "明家犯罪集团11人被执行死刑",
@@ -403,6 +411,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 300011,
+      "num": 300011,
+      "word": "神仙肉 虞书欣",
+      "onboard_time": 1769675664,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 298217,
+      "num": 298217,
+      "word": "第一次这么直观感受萝卜岗",
+      "onboard_time": 1769670983,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 292458,
+      "num": 444277,
+      "word": "孙颖莎说回头见",
+      "onboard_time": 1769673564,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 285455,
       "num": 149895,
       "word": "女子下车摔倒被丈夫开车碾过",
@@ -435,12 +467,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 275867,
-      "num": 444277,
-      "word": "孙颖莎说回头见",
-      "onboard_time": 1769673564,
-      "rank": 7,
-      "category": "体育"
+      "raw_hot": 273724,
+      "num": 298614,
+      "word": "俄军首次公开宣布使用美国星链",
+      "onboard_time": 1769673384,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 272691,
@@ -491,14 +523,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 245508,
-      "num": 245508,
-      "word": "第一次这么直观感受萝卜岗",
-      "onboard_time": 1769670983,
-      "rank": 18,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 242375,
       "num": 242375,
       "word": "徐艺真回应淡出观众视野",
@@ -515,6 +539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 231648,
+      "num": 210315,
+      "word": "橙子是非常私密的水果",
+      "onboard_time": 1769672844,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 227524,
       "num": 443700,
       "word": "生命树",
@@ -529,6 +561,14 @@
       "onboard_time": 1769661803,
       "rank": 40,
       "category": "美食"
+    },
+    {
+      "raw_hot": 220447,
+      "num": 209999,
+      "word": "微博之夜第三波阵容",
+      "onboard_time": 1769674104,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 220005,
@@ -552,6 +592,14 @@
       "word": "讨厌的人终于被所有人都讨厌了",
       "onboard_time": 1769645479,
       "rank": 6,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 214860,
+      "num": 120753,
+      "word": "奉劝大家还是尽量多存钱",
+      "onboard_time": 1769676204,
+      "rank": 30,
       "category": "情感"
     },
     {
@@ -675,6 +723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 159736,
+      "num": 159736,
+      "word": "男子刮刮乐中100万旁边大哥羡慕了",
+      "onboard_time": 1769676204,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 156801,
       "num": 138091,
       "word": "妈妈回应9岁孩子因一手好字火了",
@@ -755,20 +811,28 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 145942,
+      "num": 145942,
+      "word": "三金该不该退出备婚清单",
+      "onboard_time": 1769672064,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 145614,
+      "num": 145614,
+      "word": "谢依霖夸杨幂素颜很漂亮",
+      "onboard_time": 1769672005,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 143067,
       "num": 143067,
       "word": "香橙烤奶",
       "onboard_time": 1769659642,
       "rank": 19,
       "category": "美食"
-    },
-    {
-      "raw_hot": 140290,
-      "num": 140290,
-      "word": "谢依霖夸杨幂素颜很漂亮",
-      "onboard_time": 1769672005,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 139481,
@@ -827,6 +891,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 132857,
+      "num": 132857,
+      "word": "国防部回应所谓击沉中国军舰动画",
+      "onboard_time": 1769673865,
+      "rank": 25,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 132853,
       "num": 109359,
       "word": "桃黑黑为王者荣耀燃尽了",
@@ -849,14 +921,6 @@
       "onboard_time": 1769650040,
       "rank": 31,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 130684,
-      "num": 120093,
-      "word": "橙子是非常私密的水果",
-      "onboard_time": 1769672844,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 130412,
@@ -899,12 +963,36 @@
       "category": "财经"
     },
     {
+      "raw_hot": 126505,
+      "num": 126505,
+      "word": "马年春晚要是敢有刀马",
+      "onboard_time": 1769675844,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 125387,
       "num": 125387,
       "word": "蓝盈莹回眸一笑百媚生具像化了",
       "onboard_time": 1769673024,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 125078,
+      "num": 125078,
+      "word": "英国首相抵京第一餐完整菜单曝光",
+      "onboard_time": 1769673625,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 124528,
+      "num": 124528,
+      "word": "以前内向不好现在内向保命",
+      "onboard_time": 1769676445,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 124173,
@@ -923,6 +1011,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 119124,
+      "num": 119124,
+      "word": "谢娜悼念魏文彬",
+      "onboard_time": 1769674463,
+      "rank": 31,
+      "category": "艺人,民生新闻"
+    },
+    {
       "raw_hot": 118494,
       "num": 118494,
       "word": "美国超级暴风雪大量流浪汉冻死街头",
@@ -936,6 +1032,14 @@
       "word": "迪丽热巴全女拉娘 渣女文学",
       "onboard_time": 1769668944,
       "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 116837,
+      "num": 116837,
+      "word": "曾舜晞唯一亚洲面孔的含金量",
+      "onboard_time": 1769675305,
+      "rank": 32,
       "category": "艺人"
     },
     {
@@ -1083,14 +1187,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 106525,
-      "num": 106525,
-      "word": "三金该不该退出备婚清单",
-      "onboard_time": 1769672064,
-      "rank": 35,
-      "category": "情感"
-    },
-    {
       "raw_hot": 105751,
       "num": 105751,
       "word": "第五人格园丁",
@@ -1163,12 +1259,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 102896,
+      "num": 102896,
+      "word": "杨毅对杨鸣贴脸开大",
+      "onboard_time": 1769675482,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 102854,
       "num": 102853,
       "word": "林孝埈把奥运五环纹在了背上",
       "onboard_time": 1769659701,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 102399,
+      "num": 102399,
+      "word": "刘亦菲三里屯打卡",
+      "onboard_time": 1769676504,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 102256,
@@ -1201,6 +1313,14 @@
       "onboard_time": 1769662042,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 99382,
+      "num": 99382,
+      "word": "王星和女友官宣微博之夜",
+      "onboard_time": 1769676564,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 98585,
@@ -1275,6 +1395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94543,
+      "num": 94543,
+      "word": "张帅组合晋级澳网决赛",
+      "onboard_time": 1769675844,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 93922,
       "num": 93922,
       "word": "2026LPL电竞春晚",
@@ -1347,12 +1475,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 89560,
+      "num": 89560,
+      "word": "草莓怎么成了中产鄙视链顶流",
+      "onboard_time": 1769674944,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89283,
       "num": 89283,
       "word": "周五晚高疯定档",
       "onboard_time": 1769672005,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 88273,
+      "num": 88273,
+      "word": "茅台",
+      "onboard_time": 1769676627,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 88114,
@@ -1384,6 +1528,22 @@
       "word": "贵州茅台股价涨超6%",
       "onboard_time": 1769670445,
       "rank": 44,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 87010,
+      "num": 87010,
+      "word": "想减肥一定要调整一下吃饭顺序",
+      "onboard_time": 1769676627,
+      "rank": 44,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 86586,
+      "num": 86586,
+      "word": "白酒板块大涨四个原因",
+      "onboard_time": 1769675963,
+      "rank": 48,
       "category": "财经"
     },
     {
@@ -1433,6 +1593,14 @@
       "onboard_time": 1769673625,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 84701,
+      "num": 84701,
+      "word": "风过留痕定档",
+      "onboard_time": 1769675182,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 84579,
@@ -1651,14 +1819,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 72277,
-      "num": 108655,
-      "word": "俄军首次公开宣布使用美国星链",
-      "onboard_time": 1769673384,
-      "rank": 39,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 70452,
       "num": 92251,
       "word": "生命树未播热度",
@@ -1817,14 +1977,6 @@
       "onboard_time": 1769643318,
       "rank": 33,
       "category": "财经"
-    },
-    {
-      "raw_hot": 55578,
-      "num": 116360,
-      "word": "英国首相抵京第一餐完整菜单曝光",
-      "onboard_time": 1769673625,
-      "rank": 35,
-      "category": "国际时政"
     },
     {
       "raw_hot": 55572,
@@ -2115,6 +2267,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 23819,
+      "num": 604539,
+      "word": "中国牌晶体刷新3项世界纪录",
+      "onboard_time": 1769675724,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23189,
       "num": 179779,
       "word": "林孝埈新身份沃尔沃品牌挚友",
@@ -2217,6 +2377,9 @@
     },
     {
       "word": "#总书记激励体育健儿超越自我#"
+    },
+    {
+      "word": "#中英两国合作一定能一马当先#"
     }
   ]
 }
