@@ -1,6 +1,6 @@
 {
   "startTime": 1769616009567,
-  "endTime": 1769692384820,
+  "endTime": 1769693954738,
   "band_list": [
     {
       "raw_hot": 8542912,
@@ -275,6 +275,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 504400,
+      "num": 360676,
+      "word": "阚清子侧颜",
+      "onboard_time": 1769688203,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 492421,
+      "num": 360773,
+      "word": "Selina悼念烧伤主治医生",
+      "onboard_time": 1769689284,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 490676,
       "num": 251278,
       "word": "黄金白银基金暂停申购",
@@ -299,27 +315,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 486801,
-      "num": 360773,
-      "word": "Selina悼念烧伤主治医生",
-      "onboard_time": 1769689284,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 482700,
       "num": 146752,
       "word": "网友北京偶遇刘亦菲购物",
       "onboard_time": 1769650580,
       "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 472309,
-      "num": 360676,
-      "word": "阚清子侧颜",
-      "onboard_time": 1769688203,
-      "rank": 15,
       "category": "艺人"
     },
     {
@@ -433,6 +433,14 @@
       "onboard_time": 1769676204,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 371221,
+      "num": 240245,
+      "word": "QQ不响了微信没声了",
+      "onboard_time": 1769687662,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 366157,
@@ -579,6 +587,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 296849,
+      "num": 314179,
+      "word": "DYG对战WE",
+      "onboard_time": 1769691805,
+      "rank": 22,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 292458,
       "num": 522981,
       "word": "孙颖莎说回头见",
@@ -633,6 +649,14 @@
       "onboard_time": 1769650460,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 275507,
+      "num": 135557,
+      "word": "金价暴涨第一批受害者出现",
+      "onboard_time": 1769692584,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 273348,
@@ -699,6 +723,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 244043,
+      "num": 244043,
+      "word": "相亲点餐8000元女子要求婚介付",
+      "onboard_time": 1769690905,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 242375,
       "num": 242375,
       "word": "徐艺真回应淡出观众视野",
@@ -713,14 +745,6 @@
       "onboard_time": 1769654180,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 240245,
-      "num": 240245,
-      "word": "QQ不响了微信没声了",
-      "onboard_time": 1769687662,
-      "rank": 24,
-      "category": "幽默"
     },
     {
       "raw_hot": 230436,
@@ -747,6 +771,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 224528,
+      "num": 224528,
+      "word": "陈星旭业内口碑",
+      "onboard_time": 1769691983,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 223192,
       "num": 443976,
       "word": "王者荣耀",
@@ -761,6 +793,14 @@
       "onboard_time": 1769661803,
       "rank": 40,
       "category": "美食"
+    },
+    {
+      "raw_hot": 220395,
+      "num": 190421,
+      "word": "易梦玲在冰川上穿吊带裙拍照",
+      "onboard_time": 1769690543,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 220261,
@@ -800,6 +840,14 @@
       "word": "茅台回应抢购外挂软件",
       "onboard_time": 1769676627,
       "rank": 13,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 209590,
+      "num": 241323,
+      "word": "现在买黄金来得及吗",
+      "onboard_time": 1769692584,
+      "rank": 6,
       "category": "财经"
     },
     {
@@ -865,6 +913,14 @@
       "onboard_time": 1769681664,
       "rank": 15,
       "category": "财经"
+    },
+    {
+      "raw_hot": 181047,
+      "num": 371729,
+      "word": "美国关押一5岁男孩",
+      "onboard_time": 1769688504,
+      "rank": 7,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 179330,
@@ -947,14 +1003,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 163929,
-      "num": 371729,
-      "word": "美国关押一5岁男孩",
-      "onboard_time": 1769688504,
-      "rank": 7,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 163034,
       "num": 163034,
       "word": "刘强东同学说等强子回村想一起喝酒",
@@ -1019,14 +1067,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 155936,
-      "num": 155936,
-      "word": "易梦玲在冰川上穿吊带裙拍照",
-      "onboard_time": 1769690543,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 154251,
       "num": 190060,
       "word": "有二胎才知道每个孩子生而不同",
@@ -1081,6 +1121,14 @@
       "onboard_time": 1769643140,
       "rank": 25,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 147813,
+      "num": 141319,
+      "word": "章若楠抹胸粉裙",
+      "onboard_time": 1769693124,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 147665,
@@ -1139,6 +1187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 143908,
+      "num": 141196,
+      "word": "杨幂电视剧年度盛典出场",
+      "onboard_time": 1769693904,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 143067,
       "num": 143067,
       "word": "香橙烤奶",
@@ -1161,6 +1217,14 @@
       "onboard_time": 1769677643,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 141408,
+      "num": 360633,
+      "word": "网友在福建农村偶遇15层自建房",
+      "onboard_time": 1769691624,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 139481,
@@ -1243,6 +1307,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 132889,
+      "num": 132889,
+      "word": "女子2次流产分手被判返还部分彩礼",
+      "onboard_time": 1769691624,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132853,
       "num": 109359,
       "word": "桃黑黑为王者荣耀燃尽了",
@@ -1321,14 +1393,6 @@
       "onboard_time": 1769673625,
       "rank": 35,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 124747,
-      "num": 145966,
-      "word": "相亲点餐8000元女子要求婚介付",
-      "onboard_time": 1769690905,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 124173,
@@ -1425,14 +1489,6 @@
       "onboard_time": 1769680405,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 115736,
-      "num": 314179,
-      "word": "DYG对战WE",
-      "onboard_time": 1769691805,
-      "rank": 22,
-      "category": "电竞"
     },
     {
       "raw_hot": 115201,
@@ -1563,6 +1619,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 106714,
+      "num": 106714,
+      "word": "郑嘉颖后悔没给儿子打好中文基础",
+      "onboard_time": 1769693484,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 106605,
       "num": 106605,
       "word": "以军拔了巴勒斯坦100棵树",
@@ -1667,14 +1731,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 102976,
-      "num": 102976,
-      "word": "陈星旭业内口碑",
-      "onboard_time": 1769691983,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 102896,
       "num": 102896,
       "word": "杨毅对杨鸣贴脸开大",
@@ -1697,6 +1753,14 @@
       "onboard_time": 1769656220,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 102216,
+      "num": 102216,
+      "word": "钎城戈娅关键抢龙",
+      "onboard_time": 1769693424,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 101892,
@@ -1755,6 +1819,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 98802,
+      "num": 98802,
+      "word": "唐宫奇案第一集眼神给出去了",
+      "onboard_time": 1769693424,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 98585,
       "num": 98585,
       "word": "港股黄金板块集体大涨",
@@ -1785,6 +1857,22 @@
       "onboard_time": 1769602101,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 97673,
+      "num": 97673,
+      "word": "在四川公认最难吃的菜",
+      "onboard_time": 1769692104,
+      "rank": 41,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 97346,
+      "num": 97346,
+      "word": "宋威龙西装Daddy",
+      "onboard_time": 1769692944,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 96900,
@@ -1859,6 +1947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 94031,
+      "num": 94031,
+      "word": "时代少年团老式小孩",
+      "onboard_time": 1769692284,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 93922,
       "num": 93922,
       "word": "2026LPL电竞春晚",
@@ -1875,14 +1971,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 93785,
-      "num": 93785,
-      "word": "时代少年团老式小孩",
-      "onboard_time": 1769692284,
-      "rank": 45,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 93670,
       "num": 93670,
       "word": "骑士球员因赛后言论向詹姆斯致歉",
@@ -1897,6 +1985,22 @@
       "onboard_time": 1769680583,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 93233,
+      "num": 93233,
+      "word": "一个金镯两周差价近万元",
+      "onboard_time": 1769693724,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 93104,
+      "num": 93104,
+      "word": "早睡觉可解决80%以上的问题",
+      "onboard_time": 1769691443,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 93027,
@@ -2011,6 +2115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 89500,
+      "num": 89500,
+      "word": "春节档唯一刑侦剧",
+      "onboard_time": 1769693064,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 89440,
       "num": 89440,
       "word": "有罪之身 命运戏弄有情人",
@@ -2113,6 +2225,14 @@
       "onboard_time": 1769679684,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 85462,
+      "num": 85462,
+      "word": "人生只有四样东西真正属于你",
+      "onboard_time": 1769693245,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 85174,
@@ -2449,14 +2569,6 @@
       "onboard_time": 1769574742,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 70891,
-      "num": 360633,
-      "word": "网友在福建农村偶遇15层自建房",
-      "onboard_time": 1769691624,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 70648,
@@ -2819,14 +2931,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 41388,
-      "num": 110883,
-      "word": "女子2次流产分手被判返还部分彩礼",
-      "onboard_time": 1769691624,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 40441,
       "num": 122737,
       "word": "聋哑拾荒者擅入垃圾站被碾压身亡",
@@ -2963,6 +3067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29426,
+      "num": 624639,
+      "word": "中国新能源汽车持续领跑全球",
+      "onboard_time": 1769691564,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 29372,
       "num": 104650,
       "word": "女子烧垃圾突发爆燃火堆被炸开",
@@ -3067,14 +3179,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 19136,
-      "num": 599332,
-      "word": "中国新能源汽车持续领跑全球",
-      "onboard_time": 1769691564,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 18808,
       "num": 144647,
       "word": "人民日报评招投标领域腐败乱象",
@@ -3175,6 +3279,9 @@
     },
     {
       "word": "#中英合作一定能一马当先#"
+    },
+    {
+      "word": "#习近平会见英国首相#"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "startTime": 1769272464158,
-  "endTime": 1769692384820,
+  "endTime": 1769693954738,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -1235,6 +1235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 504400,
+      "num": 360676,
+      "word": "阚清子侧颜",
+      "onboard_time": 1769688203,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 503947,
       "num": 885488,
       "word": "支付宝集福",
@@ -1289,6 +1297,14 @@
       "onboard_time": 1769579181,
       "rank": 30,
       "category": "财经"
+    },
+    {
+      "raw_hot": 492421,
+      "num": 360773,
+      "word": "Selina悼念烧伤主治医生",
+      "onboard_time": 1769689284,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 492302,
@@ -1361,14 +1377,6 @@
       "onboard_time": 1769585239,
       "rank": 28,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 486801,
-      "num": 360773,
-      "word": "Selina悼念烧伤主治医生",
-      "onboard_time": 1769689284,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 486546,
@@ -1489,14 +1497,6 @@
       "onboard_time": 1769499441,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 472309,
-      "num": 360676,
-      "word": "阚清子侧颜",
-      "onboard_time": 1769688203,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 465228,
@@ -2033,6 +2033,14 @@
       "onboard_time": 1769676204,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 371221,
+      "num": 240245,
+      "word": "QQ不响了微信没声了",
+      "onboard_time": 1769687662,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 367868,
@@ -2779,6 +2787,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 296849,
+      "num": 314179,
+      "word": "DYG对战WE",
+      "onboard_time": 1769691805,
+      "rank": 22,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 295383,
       "num": 197950,
       "word": "李昊无缘最佳门将",
@@ -3073,6 +3089,14 @@
       "onboard_time": 1769523862,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 275507,
+      "num": 135557,
+      "word": "金价暴涨第一批受害者出现",
+      "onboard_time": 1769692584,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 274504,
@@ -3571,6 +3595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 244043,
+      "num": 244043,
+      "word": "相亲点餐8000元女子要求婚介付",
+      "onboard_time": 1769690905,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 244027,
       "num": 244027,
       "word": "12306回应女子买到单人独座",
@@ -3657,14 +3689,6 @@
       "onboard_time": 1769590161,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 240245,
-      "num": 240245,
-      "word": "QQ不响了微信没声了",
-      "onboard_time": 1769687662,
-      "rank": 24,
-      "category": "幽默"
     },
     {
       "raw_hot": 237670,
@@ -3907,6 +3931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 224528,
+      "num": 224528,
+      "word": "陈星旭业内口碑",
+      "onboard_time": 1769691983,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 223411,
       "num": 618912,
       "word": "中方回应加拿大出售白鲸给美国",
@@ -3976,6 +4008,14 @@
       "word": "金宣虎31岁才出道",
       "onboard_time": 1769584161,
       "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 220395,
+      "num": 190421,
+      "word": "易梦玲在冰川上穿吊带裙拍照",
+      "onboard_time": 1769690543,
+      "rank": 29,
       "category": "艺人"
     },
     {
@@ -4121,6 +4161,14 @@
       "onboard_time": 1769303001,
       "rank": 14,
       "category": "数码"
+    },
+    {
+      "raw_hot": 209590,
+      "num": 241323,
+      "word": "现在买黄金来得及吗",
+      "onboard_time": 1769692584,
+      "rank": 6,
+      "category": "财经"
     },
     {
       "raw_hot": 209561,
@@ -4603,6 +4651,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 181047,
+      "num": 371729,
+      "word": "美国关押一5岁男孩",
+      "onboard_time": 1769688504,
+      "rank": 7,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 180903,
       "num": 194578,
       "word": "甘肃地震多地震感",
@@ -4931,14 +4987,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 163929,
-      "num": 371729,
-      "word": "美国关押一5岁男孩",
-      "onboard_time": 1769688504,
-      "rank": 7,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 163737,
       "num": 163737,
       "word": "陈丽君自曝因干农活长冻疮",
@@ -5153,14 +5201,6 @@
       "onboard_time": 1769482939,
       "rank": 28,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 155936,
-      "num": 155936,
-      "word": "易梦玲在冰川上穿吊带裙拍照",
-      "onboard_time": 1769690543,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 155579,
@@ -5459,6 +5499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 147813,
+      "num": 141319,
+      "word": "章若楠抹胸粉裙",
+      "onboard_time": 1769693124,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 147802,
       "num": 147802,
       "word": "中国团队对尼帕病毒药物有新发现",
@@ -5627,6 +5675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 143908,
+      "num": 141196,
+      "word": "杨幂电视剧年度盛典出场",
+      "onboard_time": 1769693904,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 143520,
       "num": 143520,
       "word": "印度感染护士误饮被蝙蝠污染椰枣汁",
@@ -5689,6 +5745,14 @@
       "onboard_time": 1769519121,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 141408,
+      "num": 360633,
+      "word": "网友在福建农村偶遇15层自建房",
+      "onboard_time": 1769691624,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 141370,
@@ -6072,6 +6136,14 @@
       "word": "3岁男童小区内遭送货三轮撞倒身亡",
       "onboard_time": 1769527342,
       "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132889,
+      "num": 132889,
+      "word": "女子2次流产分手被判返还部分彩礼",
+      "onboard_time": 1769691624,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -6561,14 +6633,6 @@
       "onboard_time": 1769673625,
       "rank": 35,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 124747,
-      "num": 145966,
-      "word": "相亲点餐8000元女子要求婚介付",
-      "onboard_time": 1769690905,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 124599,
@@ -7177,14 +7241,6 @@
       "onboard_time": 1769680405,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 115736,
-      "num": 314179,
-      "word": "DYG对战WE",
-      "onboard_time": 1769691805,
-      "rank": 22,
-      "category": "电竞"
     },
     {
       "raw_hot": 115718,
@@ -7955,6 +8011,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 106714,
+      "num": 106714,
+      "word": "郑嘉颖后悔没给儿子打好中文基础",
+      "onboard_time": 1769693484,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 106664,
       "num": 127154,
       "word": "女教师宿舍病亡校方建议家属起诉",
@@ -8387,14 +8451,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 102976,
-      "num": 102976,
-      "word": "陈星旭业内口碑",
-      "onboard_time": 1769691983,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 102896,
       "num": 102896,
       "word": "杨毅对杨鸣贴脸开大",
@@ -8481,6 +8537,14 @@
       "onboard_time": 1769656220,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 102216,
+      "num": 102216,
+      "word": "钎城戈娅关键抢龙",
+      "onboard_time": 1769693424,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 102124,
@@ -8827,6 +8891,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 98802,
+      "num": 98802,
+      "word": "唐宫奇案第一集眼神给出去了",
+      "onboard_time": 1769693424,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 98766,
       "num": 98766,
       "word": "82岁退休语文老师的人生遗嘱",
@@ -8939,6 +9011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 97673,
+      "num": 97673,
+      "word": "在四川公认最难吃的菜",
+      "onboard_time": 1769692104,
+      "rank": 41,
+      "category": "美食"
+    },
+    {
       "raw_hot": 97659,
       "num": 97659,
       "word": "胡歌金巴肤色差了十个度",
@@ -8961,6 +9041,14 @@
       "onboard_time": 1769410822,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 97346,
+      "num": 97346,
+      "word": "宋威龙西装Daddy",
+      "onboard_time": 1769692944,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 97286,
@@ -9515,6 +9603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94031,
+      "num": 94031,
+      "word": "时代少年团老式小孩",
+      "onboard_time": 1769692284,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 94004,
       "num": 94004,
       "word": "因为戏瘾犯了才结的这个婚",
@@ -9577,14 +9673,6 @@
       "onboard_time": 1769488642,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 93785,
-      "num": 93785,
-      "word": "时代少年团老式小孩",
-      "onboard_time": 1769692284,
-      "rank": 45,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 93681,
@@ -9689,6 +9777,22 @@
       "onboard_time": 1769416463,
       "rank": 44,
       "category": "美食"
+    },
+    {
+      "raw_hot": 93233,
+      "num": 93233,
+      "word": "一个金镯两周差价近万元",
+      "onboard_time": 1769693724,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 93104,
+      "num": 93104,
+      "word": "早睡觉可解决80%以上的问题",
+      "onboard_time": 1769691443,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 93094,
@@ -10291,6 +10395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 89500,
+      "num": 89500,
+      "word": "春节档唯一刑侦剧",
+      "onboard_time": 1769693064,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 89498,
       "num": 89498,
       "word": "钎城冰尘合照",
@@ -10825,6 +10937,14 @@
       "onboard_time": 1769595982,
       "rank": 43,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 85462,
+      "num": 85462,
+      "word": "人生只有四样东西真正属于你",
+      "onboard_time": 1769693245,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 85419,
@@ -12835,14 +12955,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 70891,
-      "num": 360633,
-      "word": "网友在福建农村偶遇15层自建房",
-      "onboard_time": 1769691624,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 70817,
       "num": 69749,
       "word": "卢昱晓南衣路透",
@@ -14419,14 +14531,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 41388,
-      "num": 110883,
-      "word": "女子2次流产分手被判返还部分彩礼",
-      "onboard_time": 1769691624,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 41325,
       "num": 68636,
       "word": "11斤多澳龙被收13斤的钱",
@@ -15203,6 +15307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29426,
+      "num": 624639,
+      "word": "中国新能源汽车持续领跑全球",
+      "onboard_time": 1769691564,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 29372,
       "num": 104650,
       "word": "女子烧垃圾突发爆燃火堆被炸开",
@@ -15771,14 +15883,6 @@
       "category": "海外新闻,健康医疗"
     },
     {
-      "raw_hot": 19136,
-      "num": 599332,
-      "word": "中国新能源汽车持续领跑全球",
-      "onboard_time": 1769691564,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 19011,
       "num": 112928,
       "word": "魏大勋与圣罗兰巴黎再聚",
@@ -16275,6 +16379,9 @@
     },
     {
       "word": "#中英合作一定能一马当先#"
+    },
+    {
+      "word": "#习近平会见英国首相#"
     }
   ]
 }
