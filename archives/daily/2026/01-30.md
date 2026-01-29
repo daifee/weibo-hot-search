@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/30 00:01:45 ~ 2026/01/30 01:44:29
+本榜单时间：2026/01/30 00:01:45 ~ 2026/01/30 02:02:18
 </p>
 </blockquote>
 <p>
@@ -341,6 +341,12 @@ Selina悼念烧伤主治医生（热度：108226）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8FS%E7%9C%9F%E7%9A%84%E7%94%9F%E4%BA%86%E4%B8%80%E4%B8%AA%E6%9E%97%E5%BF%97%E7%8E%B2%E5%87%BA%E6%9D%A5%23" target="weibo">
 小S真的生了一个林志玲出来（热度：64249）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%B4%AB%E9%87%91%E7%9F%BF%E4%B8%9A%E5%88%9B%E5%A7%8B%E4%BA%BA%E6%B3%AA%E6%B4%92%E7%8E%B0%E5%9C%BA%23" target="weibo">
+紫金矿业创始人泪洒现场（热度：53391）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769708669717,
+  "endTime": 1769709738137,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -85033,6 +85033,14 @@
       "onboard_time": 1768831943,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 53391,
+      "num": 53391,
+      "word": "紫金矿业创始人泪洒现场",
+      "onboard_time": 1769709676,
+      "rank": 25,
+      "category": "财经"
     },
     {
       "raw_hot": 53377,
