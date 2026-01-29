@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/29 19:05:51
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/29 19:38:29
 </p>
 </blockquote>
 <p>
@@ -231,6 +231,12 @@ Asen回应Sakee（热度：2704539）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23Bin%E7%96%91%E4%BC%BC%E7%A6%BB%E9%98%9F%23" target="weibo">
+Bin疑似离队（热度：2684727）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E7%88%86%23" target="weibo">
 阿爆（热度：2679279）
 </a>
@@ -257,12 +263,6 @@ Asen回应Sakee（热度：2704539）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B4%BA%E5%A8%87%E9%BE%99%E6%8A%A2%E6%95%91%E6%97%A0%E6%95%88%E4%B8%8D%E5%B9%B8%E7%A6%BB%E4%B8%96%23" target="weibo">
 贺娇龙抢救无效不幸离世（热度：2603317）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Bin%E7%96%91%E4%BC%BC%E7%A6%BB%E9%98%9F%23" target="weibo">
-Bin疑似离队（热度：2581833）
 </a>
 </li>
 

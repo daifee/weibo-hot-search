@@ -1,6 +1,6 @@
 {
   "startTime": 1769272464158,
-  "endTime": 1769684751267,
+  "endTime": 1769686709148,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -91,6 +91,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2684727,
+      "num": 637464,
+      "word": "Bin疑似离队",
+      "onboard_time": 1769681065,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 2620230,
       "num": 119745,
       "word": "蔡徐坤方回应金子涵",
@@ -99,16 +107,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2581833,
-      "num": 637464,
-      "word": "Bin疑似离队",
-      "onboard_time": 1769681065,
-      "rank": 46,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 1823580,
-      "num": 137910,
+      "num": 143117,
       "word": "小S真的生了一个林志玲出来",
       "onboard_time": 1769680945,
       "rank": 34,
@@ -308,7 +308,7 @@
     },
     {
       "raw_hot": 1054116,
-      "num": 130438,
+      "num": 141162,
       "word": "抖音崩了",
       "onboard_time": 1769680824,
       "rank": 30,
@@ -820,7 +820,7 @@
     },
     {
       "raw_hot": 615828,
-      "num": 136869,
+      "num": 140794,
       "word": "李嘉格 我忍不住就想晒",
       "onboard_time": 1769677404,
       "rank": 37,
@@ -1217,6 +1217,14 @@
       "onboard_time": 1769476041,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 506350,
+      "num": 1081016,
+      "word": "200多克黄金不当面接收快递小哥报警",
+      "onboard_time": 1769682803,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 503947,
@@ -1651,6 +1659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 422041,
+      "num": 802253,
+      "word": "女大学生东北冻伤三根手指或截肢",
+      "onboard_time": 1769682743,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 421571,
       "num": 790589,
       "word": "生命树定档",
@@ -1979,6 +1995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 370261,
+      "num": 142325,
+      "word": "孙俪红毯压轴",
+      "onboard_time": 1769683884,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 367868,
       "num": 367868,
       "word": "美国多地暴雪无家可归者仍露宿街头",
@@ -2044,7 +2068,7 @@
     },
     {
       "raw_hot": 360679,
-      "num": 360679,
+      "num": 775658,
       "word": "茅台发声明",
       "onboard_time": 1769680405,
       "rank": 49,
@@ -2385,6 +2409,14 @@
       "onboard_time": 1769657781,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 322768,
+      "num": 142262,
+      "word": "王俊凯的自拍角度",
+      "onboard_time": 1769685624,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 322747,
@@ -3203,14 +3235,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 263490,
-      "num": 802253,
-      "word": "女大学生东北冻伤三根手指或截肢",
-      "onboard_time": 1769682743,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 263301,
       "num": 263301,
       "word": "辛芷蕾 观众缘",
@@ -3256,14 +3280,6 @@
       "word": "腊八",
       "onboard_time": 1769382677,
       "rank": 4,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 261617,
-      "num": 261617,
-      "word": "200多克黄金不当面接收快递小哥报警",
-      "onboard_time": 1769682803,
-      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -3457,6 +3473,14 @@
       "onboard_time": 1769574861,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 248872,
+      "num": 248872,
+      "word": "橙子是非常私密的水果",
+      "onboard_time": 1769672844,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 248471,
@@ -3667,14 +3691,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 235212,
-      "num": 135166,
-      "word": "孙俪红毯压轴",
-      "onboard_time": 1769683884,
-      "rank": 26,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 235105,
       "num": 147663,
       "word": "牢A谈美国ICE暴力执法争议",
@@ -3729,14 +3745,6 @@
       "onboard_time": 1769271862,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 231648,
-      "num": 229721,
-      "word": "橙子是非常私密的水果",
-      "onboard_time": 1769672844,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 231468,
@@ -4009,6 +4017,14 @@
       "onboard_time": 1769302882,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 213051,
+      "num": 157015,
+      "word": "茅台回应抢购外挂软件",
+      "onboard_time": 1769676627,
+      "rank": 13,
+      "category": "财经"
     },
     {
       "raw_hot": 212386,
@@ -4763,6 +4779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 167657,
+      "num": 140802,
+      "word": "关晓彤红色马面裙",
+      "onboard_time": 1769685742,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 167606,
       "num": 167606,
       "word": "iPhone4S为何突然迎来第二春",
@@ -5100,7 +5124,7 @@
     },
     {
       "raw_hot": 154251,
-      "num": 137319,
+      "num": 142887,
       "word": "有二胎才知道每个孩子生而不同",
       "onboard_time": 1769681903,
       "rank": 22,
@@ -5507,6 +5531,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 144400,
+      "num": 144400,
+      "word": "神仙肉",
+      "onboard_time": 1769684303,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 143520,
       "num": 143520,
       "word": "印度感染护士误饮被蝙蝠污染椰枣汁",
@@ -5545,6 +5577,14 @@
       "onboard_time": 1769417241,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 142002,
+      "num": 142002,
+      "word": "家长网购58元周岁宴装饰用完就退",
+      "onboard_time": 1769684242,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 141737,
@@ -5761,6 +5801,14 @@
       "onboard_time": 1769320760,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 137638,
+      "num": 131248,
+      "word": "金智秀 你怎么穿睡衣出门啊",
+      "onboard_time": 1769685561,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 137198,
@@ -6019,6 +6067,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 131350,
+      "num": 131350,
+      "word": "Bin曾被曝与教练团队发生争执",
+      "onboard_time": 1769685142,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 131127,
       "num": 131127,
       "word": "内娱最好笑的声明出现了",
@@ -6112,6 +6168,14 @@
       "word": "丁真工作室已缴3.4万税款",
       "onboard_time": 1769507001,
       "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 129169,
+      "num": 129169,
+      "word": "papi酱成名作",
+      "onboard_time": 1769684603,
+      "rank": 47,
       "category": "艺人"
     },
     {
@@ -10043,6 +10107,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 89489,
+      "num": 89489,
+      "word": "桃黑黑今晚播吗",
+      "onboard_time": 1769684961,
+      "rank": 44,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 89440,
       "num": 89440,
       "word": "有罪之身 命运戏弄有情人",
@@ -10425,14 +10497,6 @@
       "onboard_time": 1769666424,
       "rank": 45,
       "category": "数码"
-    },
-    {
-      "raw_hot": 86352,
-      "num": 86352,
-      "word": "神仙肉",
-      "onboard_time": 1769684303,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 86329,
@@ -11003,14 +11067,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 82344,
-      "num": 82344,
-      "word": "papi酱成名作",
-      "onboard_time": 1769684603,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 82288,
       "num": 82288,
       "word": "白鹿王星越唐宫奇案排播",
@@ -11041,6 +11097,14 @@
       "onboard_time": 1769335581,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 82135,
+      "num": 82135,
+      "word": "继母回应丈夫去世后儿子被拒之门外",
+      "onboard_time": 1769681903,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 82095,
@@ -11995,14 +12059,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 75863,
-      "num": 97545,
-      "word": "家长网购58元周岁宴装饰用完就退",
-      "onboard_time": 1769684242,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 75843,
       "num": 75843,
       "word": "湖人战胜独行侠",
@@ -12617,6 +12673,14 @@
       "onboard_time": 1769421143,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 70648,
+      "num": 74551,
+      "word": "全球黄金总需求达5002吨",
+      "onboard_time": 1769685683,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 70613,
@@ -15292,7 +15356,7 @@
     },
     {
       "raw_hot": 22463,
-      "num": 87356,
+      "num": 99074,
       "word": "中国大模型到底有多厉害",
       "onboard_time": 1769684483,
       "rank": 39,
@@ -15856,6 +15920,14 @@
       "word": "美甲店春节加价套路",
       "onboard_time": 1769590402,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10181,
+      "num": 99165,
+      "word": "外甥写成外孙遗嘱仍有效",
+      "onboard_time": 1769686282,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
