@@ -1,6 +1,6 @@
 {
   "startTime": 1769616009567,
-  "endTime": 1769672848697,
+  "endTime": 1769673649876,
   "band_list": [
     {
       "raw_hot": 8542912,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 980755,
-      "num": 195395,
+      "num": 413985,
       "word": "白酒",
       "onboard_time": 1769667083,
       "rank": 15,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 960505,
-      "num": 214512,
+      "num": 382092,
       "word": "薛佳凝自曝2013年开始攒金",
       "onboard_time": 1769663902,
       "rank": 11,
@@ -251,6 +251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 432844,
+      "num": 803135,
+      "word": "歌手2026",
+      "onboard_time": 1769669184,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 416227,
       "num": 147945,
       "word": "金子涵曾没猜出蔡徐坤的名字",
@@ -273,14 +281,6 @@
       "onboard_time": 1769601681,
       "rank": 1,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 390026,
-      "num": 790967,
-      "word": "歌手2026",
-      "onboard_time": 1769669184,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 366157,
@@ -307,8 +307,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 342377,
-      "num": 150726,
+      "raw_hot": 343391,
+      "num": 343391,
       "word": "建议脚臭的都去穿五指袜",
       "onboard_time": 1769670683,
       "rank": 35,
@@ -337,6 +337,14 @@
       "onboard_time": 1769643318,
       "rank": 14,
       "category": "财经"
+    },
+    {
+      "raw_hot": 324943,
+      "num": 502198,
+      "word": "缅甸出现一处3000人新诈骗园区",
+      "onboard_time": 1769671584,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 323105,
@@ -380,7 +388,7 @@
     },
     {
       "raw_hot": 304320,
-      "num": 304320,
+      "num": 360213,
       "word": "用了十年才发现镜子可以打开",
       "onboard_time": 1769666963,
       "rank": 6,
@@ -393,14 +401,6 @@
       "onboard_time": 1769664742,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 292605,
-      "num": 109270,
-      "word": "缅甸出现一处3000人新诈骗园区",
-      "onboard_time": 1769671584,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 285455,
@@ -433,6 +433,14 @@
       "onboard_time": 1769650460,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 275867,
+      "num": 444277,
+      "word": "孙颖莎说回头见",
+      "onboard_time": 1769673564,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 272691,
@@ -483,6 +491,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 245508,
+      "num": 245508,
+      "word": "第一次这么直观感受萝卜岗",
+      "onboard_time": 1769670983,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 242375,
       "num": 242375,
       "word": "徐艺真回应淡出观众视野",
@@ -523,6 +539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 216499,
+      "num": 216499,
+      "word": "沈佳润举了nina的小镜子",
+      "onboard_time": 1769672605,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 215750,
       "num": 215750,
       "word": "讨厌的人终于被所有人都讨厌了",
@@ -555,12 +579,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 185837,
+      "num": 185837,
+      "word": "李川被六岁小孩骂了",
+      "onboard_time": 1769670445,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 183689,
       "num": 183689,
       "word": "金价飙涨消费者把黄金变现",
       "onboard_time": 1769663544,
       "rank": 9,
       "category": "财经"
+    },
+    {
+      "raw_hot": 179330,
+      "num": 343716,
+      "word": "孙颖莎 高露洁",
+      "onboard_time": 1769673024,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 177397,
@@ -659,14 +699,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 152162,
-      "num": 165035,
-      "word": "李川被六岁小孩骂了",
-      "onboard_time": 1769670445,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 151693,
       "num": 151693,
       "word": "气血足不足看身体这3个部位",
@@ -731,6 +763,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 140290,
+      "num": 140290,
+      "word": "谢依霖夸杨幂素颜很漂亮",
+      "onboard_time": 1769672005,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 139481,
+      "num": 139481,
+      "word": "A股半导体板块大涨",
+      "onboard_time": 1769672064,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 138998,
       "num": 138998,
       "word": "40岁男子连吃7天贡丸汤确诊尿毒症",
@@ -761,14 +809,6 @@
       "onboard_time": 1769654900,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 134718,
-      "num": 134718,
-      "word": "第一次这么直观感受萝卜岗",
-      "onboard_time": 1769670983,
-      "rank": 18,
-      "category": "幽默"
     },
     {
       "raw_hot": 134249,
@@ -811,6 +851,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 130684,
+      "num": 120093,
+      "word": "橙子是非常私密的水果",
+      "onboard_time": 1769672844,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 130412,
       "num": 143566,
       "word": "林孝埈XC70",
@@ -827,12 +875,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 129165,
+      "num": 129165,
+      "word": "女子2次宫外孕后再怀孕致子宫撕裂",
+      "onboard_time": 1769670983,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 128266,
+      "num": 210698,
+      "word": "健康福和敬业福你们别打了",
+      "onboard_time": 1769670323,
+      "rank": 17,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 126771,
       "num": 126771,
       "word": "黄金还能涨吗",
       "onboard_time": 1769655200,
       "rank": 26,
       "category": "财经"
+    },
+    {
+      "raw_hot": 125387,
+      "num": 125387,
+      "word": "蓝盈莹回眸一笑百媚生具像化了",
+      "onboard_time": 1769673024,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 124173,
@@ -843,20 +915,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 123544,
-      "num": 165687,
-      "word": "健康福和敬业福你们别打了",
-      "onboard_time": 1769670323,
-      "rank": 17,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 120019,
-      "num": 120019,
-      "word": "A股半导体板块大涨",
-      "onboard_time": 1769672064,
-      "rank": 24,
-      "category": "财经"
+      "raw_hot": 120813,
+      "num": 120813,
+      "word": "坚持早睡30天的脸部变化",
+      "onboard_time": 1769672243,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 118494,
@@ -881,6 +945,14 @@
       "onboard_time": 1769655920,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 116266,
+      "num": 116266,
+      "word": "买房剩下二楼和顶楼应该怎么选",
+      "onboard_time": 1769672123,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 115967,
@@ -987,14 +1059,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 110260,
-      "num": 110260,
-      "word": "女子2次宫外孕后再怀孕致子宫撕裂",
-      "onboard_time": 1769670983,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 108756,
       "num": 104573,
       "word": "黄圣依饶雪漫首搭短剧开机",
@@ -1019,20 +1083,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 106525,
+      "num": 106525,
+      "word": "三金该不该退出备婚清单",
+      "onboard_time": 1769672064,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 105751,
       "num": 105751,
       "word": "第五人格园丁",
       "onboard_time": 1769669122,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 105707,
-      "num": 105707,
-      "word": "坚持早睡30天的脸部变化",
-      "onboard_time": 1769672243,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 105685,
@@ -1139,14 +1203,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 99707,
-      "num": 99707,
-      "word": "谢依霖夸杨幂素颜很漂亮",
-      "onboard_time": 1769672005,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 98585,
       "num": 98585,
       "word": "港股黄金板块集体大涨",
@@ -1187,12 +1243,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 94836,
-      "num": 94836,
-      "word": "三金该不该退出备婚清单",
-      "onboard_time": 1769672064,
-      "rank": 35,
-      "category": "情感"
+      "raw_hot": 96434,
+      "num": 96434,
+      "word": "阿里发布性能比肩英伟达H20的芯片",
+      "onboard_time": 1769672367,
+      "rank": 43,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 96267,
+      "num": 96267,
+      "word": "外交部回应缅北明家11人被执行死刑",
+      "onboard_time": 1769673384,
+      "rank": 43,
+      "category": "国内时政"
     },
     {
       "raw_hot": 94746,
@@ -1209,14 +1273,6 @@
       "onboard_time": 1769620397,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 94424,
-      "num": 94424,
-      "word": "沈佳润举了nina的小镜子",
-      "onboard_time": 1769672605,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 93922,
@@ -1265,14 +1321,6 @@
       "onboard_time": 1769666603,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 91284,
-      "num": 91284,
-      "word": "买房剩下二楼和顶楼应该怎么选",
-      "onboard_time": 1769672123,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 91231,
@@ -1379,6 +1427,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 84723,
+      "num": 84723,
+      "word": "杨幂惊蛰无声特辑",
+      "onboard_time": 1769673625,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 84579,
       "num": 84579,
       "word": "生育津贴到手3万却被申领10万元",
@@ -1411,12 +1467,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 83994,
-      "num": 83994,
-      "word": "阿里发布性能比肩英伟达H20的芯片",
-      "onboard_time": 1769672367,
-      "rank": 43,
-      "category": "互联网"
+      "raw_hot": 83466,
+      "num": 83466,
+      "word": "王者限定皮肤返场票选",
+      "onboard_time": 1769670804,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 83360,
@@ -1473,14 +1529,6 @@
       "onboard_time": 1769666362,
       "rank": 48,
       "category": "财经"
-    },
-    {
-      "raw_hot": 80433,
-      "num": 80433,
-      "word": "王者限定皮肤返场票选",
-      "onboard_time": 1769670804,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 80244,
@@ -1601,6 +1649,14 @@
       "onboard_time": 1769574742,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 72277,
+      "num": 108655,
+      "word": "俄军首次公开宣布使用美国星链",
+      "onboard_time": 1769673384,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 70452,
@@ -1763,6 +1819,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 55578,
+      "num": 116360,
+      "word": "英国首相抵京第一餐完整菜单曝光",
+      "onboard_time": 1769673625,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 55572,
       "num": 55572,
       "word": "美联储或将在6月降息",
@@ -1907,6 +1971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 37980,
+      "num": 424980,
+      "word": "误购车票30分钟内免费退将常态化",
+      "onboard_time": 1769672605,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33419,
       "num": 81383,
       "word": "卢旺达严重交通事故致中国公民伤亡",
@@ -1953,6 +2025,14 @@
       "onboard_time": 1769655380,
       "rank": 38,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 31424,
+      "num": 90918,
+      "word": "企业宣布4天工作制后千人想应聘",
+      "onboard_time": 1769672425,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30960,
@@ -2019,14 +2099,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 27217,
-      "num": 90918,
-      "word": "企业宣布4天工作制后千人想应聘",
-      "onboard_time": 1769672425,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 26834,
       "num": 107723,
       "word": "美国男子遭两名ICE人员开枪",
@@ -2083,14 +2155,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 18619,
-      "num": 114670,
-      "word": "误购车票30分钟内免费退将常态化",
-      "onboard_time": 1769672605,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 17996,
       "num": 96900,
       "word": "抢茅台过年用的计划泡汤了",
@@ -2129,6 +2193,14 @@
       "onboard_time": 1769604682,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 12095,
+      "num": 654602,
+      "word": "今年或刷新最热春节旅游纪录",
+      "onboard_time": 1769657362,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 9889,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1769673649876,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 707846,
+        "num": 1113255,
+        "word": "女子因幼犬轻咬未处理引发狂犬病",
+        "onboard_time": 1769667322,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 432844,
+        "num": 803135,
+        "word": "歌手2026",
+        "onboard_time": 1769669184,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 12095,
+        "num": 654602,
+        "word": "今年或刷新最热春节旅游纪录",
+        "onboard_time": 1769657362,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 324943,
+        "num": 502198,
+        "word": "缅甸出现一处3000人新诈骗园区",
+        "onboard_time": 1769671584,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 250001,
+        "num": 463774,
+        "word": "微博之夜阵容",
+        "onboard_time": 1769665882,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 2189507,
+        "num": 461454,
+        "word": "曝金晨肇事逃逸",
+        "onboard_time": 1769659642,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 453438,
+        "num": 453438,
+        "word": "快乐大本营创办者去世",
+        "onboard_time": 1769656940,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 275867,
+        "num": 444277,
+        "word": "孙颖莎说回头见",
+        "onboard_time": 1769673564,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95391,
+        "num": 434111,
+        "word": "全国气温回升大趋势成定局",
+        "onboard_time": 1769658200,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37980,
+        "num": 424980,
+        "word": "误购车票30分钟内免费退将常态化",
+        "onboard_time": 1769672605,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 6643333,
+        "num": 6643333,
+        "word": "曝金晨交通事故监控截图",
+        "onboard_time": 1769670383,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 413985,
+        "num": 413985,
+        "word": "白酒",
+        "onboard_time": 1769667083,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 382092,
+        "num": 382092,
+        "word": "薛佳凝自曝2013年开始攒金",
+        "onboard_time": 1769663902,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232882,
+        "num": 360213,
+        "word": "用了十年才发现镜子可以打开",
+        "onboard_time": 1769666963,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 179330,
+        "num": 343716,
+        "word": "孙颖莎 高露洁",
+        "onboard_time": 1769673024,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 343391,
+        "num": 343391,
+        "word": "建议脚臭的都去穿五指袜",
+        "onboard_time": 1769670683,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 245508,
+        "num": 245508,
+        "word": "第一次这么直观感受萝卜岗",
+        "onboard_time": 1769670983,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 216499,
+        "num": 216499,
+        "word": "沈佳润举了nina的小镜子",
+        "onboard_time": 1769672605,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128266,
+        "num": 210698,
+        "word": "健康福和敬业福你们别打了",
+        "onboard_time": 1769670323,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 208949,
+        "num": 208949,
+        "word": "23岁男子呕吐4天后竟突然失忆",
+        "onboard_time": 1769663663,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185837,
+        "num": 185837,
+        "word": "李川被六岁小孩骂了",
+        "onboard_time": 1769670445,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183990,
+        "num": 183990,
+        "word": "金饰克价涨至1708元",
+        "onboard_time": 1769650759,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 140290,
+        "num": 140290,
+        "word": "谢依霖夸杨幂素颜很漂亮",
+        "onboard_time": 1769672005,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165745,
+        "num": 140271,
+        "word": "黄金",
+        "onboard_time": 1769642958,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 139481,
+        "num": 139481,
+        "word": "A股半导体板块大涨",
+        "onboard_time": 1769672064,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 144227,
+        "num": 139408,
+        "word": "金银暴涨",
+        "onboard_time": 1769661924,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 139104,
+        "num": 139104,
+        "word": "papi酱目前最大尺度嘉宾",
+        "onboard_time": 1769665642,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129165,
+        "num": 129165,
+        "word": "女子2次宫外孕后再怀孕致子宫撕裂",
+        "onboard_time": 1769670983,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125387,
+        "num": 125387,
+        "word": "蓝盈莹回眸一笑百媚生具像化了",
+        "onboard_time": 1769673024,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120813,
+        "num": 120813,
+        "word": "坚持早睡30天的脸部变化",
+        "onboard_time": 1769672243,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135284,
+        "num": 120445,
+        "word": "刘强东同学说等强子回村想一起喝酒",
+        "onboard_time": 1769668644,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 130684,
+        "num": 120093,
+        "word": "橙子是非常私密的水果",
+        "onboard_time": 1769672844,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 118658,
+        "num": 118658,
+        "word": "金子涵已经退圈了",
+        "onboard_time": 1769664742,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116792,
+        "num": 116792,
+        "word": "三甲医生回应胎儿一脚踢破妈妈子宫",
+        "onboard_time": 1769663242,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109827,
+        "num": 116510,
+        "word": "明家涉案100余亿14名中国人死亡",
+        "onboard_time": 1769657841,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55578,
+        "num": 116360,
+        "word": "英国首相抵京第一餐完整菜单曝光",
+        "onboard_time": 1769673625,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 116266,
+        "num": 116266,
+        "word": "买房剩下二楼和顶楼应该怎么选",
+        "onboard_time": 1769672123,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112616,
+        "num": 112616,
+        "word": "恩利说庾澄庆有老花眼",
+        "onboard_time": 1769668581,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110701,
+        "num": 110701,
+        "word": "哈工大辟谣学生捅伤两名教授",
+        "onboard_time": 1769661025,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72277,
+        "num": 108655,
+        "word": "俄军首次公开宣布使用美国星链",
+        "onboard_time": 1769673384,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 108590,
+        "num": 108590,
+        "word": "A股",
+        "onboard_time": 1769669002,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 106525,
+        "num": 106525,
+        "word": "三金该不该退出备婚清单",
+        "onboard_time": 1769672064,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 96434,
+        "num": 96434,
+        "word": "阿里发布性能比肩英伟达H20的芯片",
+        "onboard_time": 1769672367,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 96267,
+        "num": 96267,
+        "word": "外交部回应缅北明家11人被执行死刑",
+        "onboard_time": 1769673384,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 94891,
+        "num": 94891,
+        "word": "黄金史诗级大涨",
+        "onboard_time": 1769669304,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 31424,
+        "num": 89305,
+        "word": "企业宣布4天工作制后千人想应聘",
+        "onboard_time": 1769672425,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89039,
+        "num": 89039,
+        "word": "告白",
+        "onboard_time": 1769660242,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84723,
+        "num": 84723,
+        "word": "杨幂惊蛰无声特辑",
+        "onboard_time": 1769673625,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 83466,
+        "num": 83466,
+        "word": "王者限定皮肤返场票选",
+        "onboard_time": 1769670804,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 82973,
+        "num": 82973,
+        "word": "迪丽热巴全女拉娘 渣女文学",
+        "onboard_time": 1769668944,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记激励体育健儿超越自我#"
+    }
+  }
+}
