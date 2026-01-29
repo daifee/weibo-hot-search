@@ -1,6 +1,6 @@
 {
   "startTime": 1769616009567,
-  "endTime": 1769665972437,
+  "endTime": 1769666801242,
   "band_list": [
     {
       "raw_hot": 8542912,
@@ -8,6 +8,14 @@
       "word": "曝金晨肇事逃逸",
       "onboard_time": 1769659642,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 3757781,
+      "num": 1410451,
+      "word": "交警回应金晨被曝肇事逃逸",
+      "onboard_time": 1769664564,
+      "rank": 0,
       "category": "艺人"
     },
     {
@@ -19,14 +27,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1410451,
-      "num": 1410451,
-      "word": "交警回应金晨被曝肇事逃逸",
-      "onboard_time": 1769664564,
-      "rank": 0,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1228740,
       "num": 299706,
       "word": "金饰克价涨至1708元",
@@ -35,20 +35,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 960505,
+      "num": 214512,
+      "word": "薛佳凝自曝2013年开始攒金",
+      "onboard_time": 1769663902,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 930507,
       "num": 196772,
       "word": "阚清子近照状态",
       "onboard_time": 1769608162,
       "rank": 10,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 915031,
-      "num": 180200,
-      "word": "薛佳凝自曝2013年开始攒金",
-      "onboard_time": 1769663902,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 878812,
@@ -65,6 +65,14 @@
       "onboard_time": 1769651541,
       "rank": 0,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 667213,
+      "num": 1106754,
+      "word": "国安 人在做天在看",
+      "onboard_time": 1769666424,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 653650,
@@ -243,6 +251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 353289,
+      "num": 181207,
+      "word": "23岁男子呕吐4天后竟突然失忆",
+      "onboard_time": 1769663663,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 337921,
       "num": 192688,
       "word": "91岁男生为爱cos肖战的一天",
@@ -273,6 +289,14 @@
       "onboard_time": 1769657781,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 318938,
+      "num": 318938,
+      "word": "微博之夜阵容",
+      "onboard_time": 1769665882,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 318406,
@@ -315,14 +339,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 279515,
-      "num": 168374,
-      "word": "23岁男子呕吐4天后竟突然失忆",
-      "onboard_time": 1769663663,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 277193,
       "num": 184510,
       "word": "王橹杰新音总结",
@@ -337,6 +353,14 @@
       "onboard_time": 1769658980,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 271644,
+      "num": 203994,
+      "word": "papi酱目前最大尺度嘉宾",
+      "onboard_time": 1769665642,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 266874,
@@ -395,6 +419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 220571,
+      "num": 220571,
+      "word": "花生这辈子没想到还能被切丝",
+      "onboard_time": 1769661803,
+      "rank": 40,
+      "category": "美食"
+    },
+    {
       "raw_hot": 220005,
       "num": 220005,
       "word": "湖南广电原局长魏文彬逝世",
@@ -411,6 +443,30 @@
       "category": "情感"
     },
     {
+      "raw_hot": 207251,
+      "num": 207251,
+      "word": "三甲医生回应胎儿一脚踢破妈妈子宫",
+      "onboard_time": 1769663242,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 198096,
+      "num": 163668,
+      "word": "金子涵已经退圈了",
+      "onboard_time": 1769664742,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 192439,
+      "num": 188876,
+      "word": "那英 上歌手有今天没明天",
+      "onboard_time": 1769665642,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 191500,
       "num": 191500,
       "word": "崩坏星穹铁道",
@@ -419,12 +475,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 187018,
-      "num": 187018,
-      "word": "花生这辈子没想到还能被切丝",
-      "onboard_time": 1769661803,
-      "rank": 40,
-      "category": "美食"
+      "raw_hot": 191049,
+      "num": 191049,
+      "word": "金银暴涨",
+      "onboard_time": 1769661924,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 183689,
@@ -441,30 +497,6 @@
       "onboard_time": 1769611950,
       "rank": 14,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 177357,
-      "num": 177357,
-      "word": "三甲医生回应胎儿一脚踢破妈妈子宫",
-      "onboard_time": 1769663242,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 175470,
-      "num": 175470,
-      "word": "微博之夜阵容",
-      "onboard_time": 1769665882,
-      "rank": 14,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 171651,
-      "num": 171651,
-      "word": "金银暴涨",
-      "onboard_time": 1769661924,
-      "rank": 47,
-      "category": "财经"
     },
     {
       "raw_hot": 169360,
@@ -545,6 +577,14 @@
       "onboard_time": 1769658860,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 149255,
+      "num": 149255,
+      "word": "北京国安新赛季被罚5分",
+      "onboard_time": 1769661624,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 148931,
@@ -667,12 +707,12 @@
       "category": "汽车,体育"
     },
     {
-      "raw_hot": 126966,
-      "num": 126966,
-      "word": "金子涵已经退圈了",
-      "onboard_time": 1769664742,
-      "rank": 27,
-      "category": "艺人"
+      "raw_hot": 130038,
+      "num": 130038,
+      "word": "深圳水贝某黄金平台上亿元提现无门",
+      "onboard_time": 1769664022,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 126771,
@@ -683,12 +723,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 120271,
-      "num": 120271,
-      "word": "那英 上歌手有今天没明天",
-      "onboard_time": 1769665642,
-      "rank": 30,
-      "category": "综艺"
+      "raw_hot": 124173,
+      "num": 124173,
+      "word": "李铁等73人终身禁足",
+      "onboard_time": 1769663600,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 118494,
@@ -697,14 +737,6 @@
       "onboard_time": 1769617997,
       "rank": 34,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 117086,
-      "num": 128725,
-      "word": "北京国安新赛季被罚5分",
-      "onboard_time": 1769661624,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 116323,
@@ -755,6 +787,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 114482,
+      "num": 114482,
+      "word": "辛芷蕾涂口红这段是妈咪级别",
+      "onboard_time": 1769666003,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 114177,
       "num": 681543,
       "word": "全国气温回升大趋势成定局",
@@ -769,14 +809,6 @@
       "onboard_time": 1769642598,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 110873,
-      "num": 110873,
-      "word": "papi酱目前最大尺度嘉宾",
-      "onboard_time": 1769665642,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 108756,
@@ -899,14 +931,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 99606,
-      "num": 115345,
-      "word": "李铁等73人终身禁足",
-      "onboard_time": 1769663600,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 98585,
       "num": 98585,
       "word": "港股黄金板块集体大涨",
@@ -955,20 +979,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 93922,
+      "num": 93922,
+      "word": "2026LPL电竞春晚",
+      "onboard_time": 1769663183,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 92521,
       "num": 92521,
       "word": "马年春晚",
       "onboard_time": 1769647280,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 91983,
-      "num": 91983,
-      "word": "深圳水贝某黄金平台上亿元提现无门",
-      "onboard_time": 1769664022,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 91231,
@@ -987,12 +1011,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 90313,
+      "num": 90313,
+      "word": "气血足不足看身体这3个部位",
+      "onboard_time": 1769664742,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 88114,
       "num": 83122,
       "word": "李勤勤晒周海媚爱犬近况",
       "onboard_time": 1769646621,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 87342,
+      "num": 87342,
+      "word": "助理偷用博主物品造哈佛留学人设",
+      "onboard_time": 1769663902,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 86641,
+      "num": 86641,
+      "word": "如此节俭一定存了好多钱吧",
+      "onboard_time": 1769666603,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 86547,
@@ -1059,11 +1107,27 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 82901,
+      "num": 82901,
+      "word": "iPhone16成去年最畅销智能手机",
+      "onboard_time": 1769666424,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
       "raw_hot": 82571,
       "num": 92279,
       "word": "有罪之身开播反馈",
       "onboard_time": 1769614102,
       "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 82288,
+      "num": 82288,
+      "word": "白鹿王星越唐宫奇案排播",
+      "onboard_time": 1769663302,
+      "rank": 43,
       "category": "剧集"
     },
     {
@@ -1081,6 +1145,22 @@
       "onboard_time": 1769665283,
       "rank": 40,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 81407,
+      "num": 81407,
+      "word": "这样的杨紫真的从未见过",
+      "onboard_time": 1769666723,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 80935,
+      "num": 80935,
+      "word": "贵金属继续大幅上涨",
+      "onboard_time": 1769666362,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 80244,
@@ -1107,12 +1187,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 77624,
-      "num": 77624,
-      "word": "白鹿王星越唐宫奇案排播",
-      "onboard_time": 1769663302,
-      "rank": 43,
-      "category": "剧集"
+      "raw_hot": 77763,
+      "num": 77763,
+      "word": "人民网科大讯飞涨停",
+      "onboard_time": 1769666783,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 77062,
@@ -1155,14 +1235,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 73085,
-      "num": 73085,
-      "word": "气血足不足看身体这3个部位",
-      "onboard_time": 1769664742,
-      "rank": 48,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 72995,
       "num": 72995,
       "word": "银价波动",
@@ -1177,14 +1249,6 @@
       "onboard_time": 1769574742,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 71899,
-      "num": 71899,
-      "word": "助理偷用博主物品造哈佛留学人设",
-      "onboard_time": 1769663902,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 70452,
@@ -1240,6 +1304,14 @@
       "word": "辽宁救人牺牲大学生女友发声",
       "onboard_time": 1769613742,
       "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 62996,
+      "num": 170366,
+      "word": "登衡山遗失80余克金牌最新进展",
+      "onboard_time": 1769665403,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -1404,7 +1476,7 @@
     },
     {
       "raw_hot": 47402,
-      "num": 170860,
+      "num": 188927,
       "word": "光明村村民领京东AI手机",
       "onboard_time": 1769664383,
       "rank": 17,
@@ -1473,14 +1545,6 @@
       "onboard_time": 1769619377,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 38484,
-      "num": 170366,
-      "word": "登衡山遗失80余克金牌最新进展",
-      "onboard_time": 1769665403,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 33419,
@@ -1641,6 +1705,14 @@
       "onboard_time": 1769623514,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 16178,
+      "num": 94097,
+      "word": "在北京做了20年房地产后到舟山守岛",
+      "onboard_time": 1769666063,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13936,
