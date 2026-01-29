@@ -1,6 +1,6 @@
 {
   "startTime": 1769272464158,
-  "endTime": 1769683544602,
+  "endTime": 1769684751267,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -99,8 +99,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2581833,
+      "num": 637464,
+      "word": "Bin疑似离队",
+      "onboard_time": 1769681065,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1823580,
-      "num": 128255,
+      "num": 137910,
       "word": "小S真的生了一个林志玲出来",
       "onboard_time": 1769680945,
       "rank": 34,
@@ -145,14 +153,6 @@
       "onboard_time": 1769348181,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1473402,
-      "num": 637464,
-      "word": "Bin疑似离队",
-      "onboard_time": 1769681065,
-      "rank": 46,
-      "category": "电竞"
     },
     {
       "raw_hot": 1448646,
@@ -219,6 +219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1201960,
+      "num": 591960,
+      "word": "BLG Bin",
+      "onboard_time": 1769682144,
+      "rank": 5,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1195687,
       "num": 1195687,
       "word": "印度疫情",
@@ -233,6 +241,14 @@
       "onboard_time": 1769348544,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1173465,
+      "num": 220081,
+      "word": "BLG上调新上单Wenbo",
+      "onboard_time": 1769681903,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 1151892,
@@ -292,7 +308,7 @@
     },
     {
       "raw_hot": 1054116,
-      "num": 117702,
+      "num": 130438,
       "word": "抖音崩了",
       "onboard_time": 1769680824,
       "rank": 30,
@@ -804,7 +820,7 @@
     },
     {
       "raw_hot": 615828,
-      "num": 125915,
+      "num": 136869,
       "word": "李嘉格 我忍不住就想晒",
       "onboard_time": 1769677404,
       "rank": 37,
@@ -859,12 +875,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 591960,
-      "num": 591960,
-      "word": "BLG Bin",
-      "onboard_time": 1769682144,
-      "rank": 5,
-      "category": "电竞"
+      "raw_hot": 593656,
+      "num": 1094985,
+      "word": "茅台",
+      "onboard_time": 1769676627,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 590722,
@@ -1097,14 +1113,6 @@
       "onboard_time": 1769264362,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 532086,
-      "num": 1085133,
-      "word": "茅台",
-      "onboard_time": 1769676627,
-      "rank": 43,
-      "category": "财经"
     },
     {
       "raw_hot": 529193,
@@ -2035,6 +2043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 360679,
+      "num": 360679,
+      "word": "茅台发声明",
+      "onboard_time": 1769680405,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 358391,
       "num": 358391,
       "word": "阚清子乔海伦打卡上班第一天",
@@ -2619,14 +2635,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 305465,
-      "num": 305465,
-      "word": "茅台发声明",
-      "onboard_time": 1769680405,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 304320,
       "num": 360213,
       "word": "用了十年才发现镜子可以打开",
@@ -3195,6 +3203,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 263490,
+      "num": 802253,
+      "word": "女大学生东北冻伤三根手指或截肢",
+      "onboard_time": 1769682743,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 263301,
       "num": 263301,
       "word": "辛芷蕾 观众缘",
@@ -3240,6 +3256,14 @@
       "word": "腊八",
       "onboard_time": 1769382677,
       "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 261617,
+      "num": 261617,
+      "word": "200多克黄金不当面接收快递小哥报警",
+      "onboard_time": 1769682803,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -3643,6 +3667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 235212,
+      "num": 135166,
+      "word": "孙俪红毯压轴",
+      "onboard_time": 1769683884,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 235105,
       "num": 147663,
       "word": "牢A谈美国ICE暴力执法争议",
@@ -3700,7 +3732,7 @@
     },
     {
       "raw_hot": 231648,
-      "num": 212676,
+      "num": 229721,
       "word": "橙子是非常私密的水果",
       "onboard_time": 1769672844,
       "rank": 31,
@@ -4467,6 +4499,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 182478,
+      "num": 182478,
+      "word": "鲍威尔",
+      "onboard_time": 1769681664,
+      "rank": 15,
+      "category": "财经"
+    },
+    {
       "raw_hot": 182318,
       "num": 173493,
       "word": "刘宇宁谈配角掀桌",
@@ -4713,14 +4753,6 @@
       "onboard_time": 1769384539,
       "rank": 14,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 168332,
-      "num": 168332,
-      "word": "鲍威尔",
-      "onboard_time": 1769681664,
-      "rank": 15,
-      "category": "财经"
     },
     {
       "raw_hot": 168027,
@@ -4987,6 +5019,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 157365,
+      "num": 157365,
+      "word": "孙绍骋被查",
+      "onboard_time": 1769682323,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 156967,
       "num": 103041,
       "word": "蔡天凤被害原因疑为房产纠纷",
@@ -5027,14 +5067,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 155128,
-      "num": 155128,
-      "word": "孙绍骋被查",
-      "onboard_time": 1769682323,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 154700,
       "num": 178812,
       "word": "人最好的状态就是销声匿迹",
@@ -5065,6 +5097,14 @@
       "onboard_time": 1769491042,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 154251,
+      "num": 137319,
+      "word": "有二胎才知道每个孩子生而不同",
+      "onboard_time": 1769681903,
+      "rank": 22,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 154043,
@@ -5803,14 +5843,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 135326,
-      "num": 127565,
-      "word": "有二胎才知道每个孩子生而不同",
-      "onboard_time": 1769681903,
-      "rank": 22,
-      "category": "母婴育儿"
-    },
-    {
       "raw_hot": 135216,
       "num": 135216,
       "word": "第一批爱熬夜的受害者出现了",
@@ -6009,14 +6041,6 @@
       "onboard_time": 1769652500,
       "rank": 24,
       "category": "汽车,体育"
-    },
-    {
-      "raw_hot": 130380,
-      "num": 130380,
-      "word": "女大学生东北冻伤三根手指或截肢",
-      "onboard_time": 1769682743,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 130347,
@@ -6675,14 +6699,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 120629,
-      "num": 120629,
-      "word": "BLG上调新上单Wenbo",
-      "onboard_time": 1769681903,
-      "rank": 28,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 120463,
       "num": 120463,
       "word": "章子怡体制内姐感",
@@ -6888,6 +6904,14 @@
       "word": "王一博控温也控场",
       "onboard_time": 1769572999,
       "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 117735,
+      "num": 117735,
+      "word": "交警回应网传道路交通事故认定书属实",
+      "onboard_time": 1769682025,
+      "rank": 34,
       "category": "艺人"
     },
     {
@@ -7923,14 +7947,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 104873,
-      "num": 104873,
-      "word": "交警回应网传道路交通事故认定书属实",
-      "onboard_time": 1769682025,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 104850,
       "num": 104850,
       "word": "投资银条走红水贝",
@@ -8481,6 +8497,14 @@
       "onboard_time": 1769489243,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 99972,
+      "num": 99972,
+      "word": "陈晓嘴瓢给自己说愣住了",
+      "onboard_time": 1769683404,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 99874,
@@ -10403,6 +10427,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 86352,
+      "num": 86352,
+      "word": "神仙肉",
+      "onboard_time": 1769684303,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 86329,
       "num": 86329,
       "word": "TWS手写中文歌词",
@@ -10731,6 +10763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 84318,
+      "num": 84318,
+      "word": "吴越钱氏祖坟一直冒青烟",
+      "onboard_time": 1769683884,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 84259,
       "num": 84259,
       "word": "张艺谋夸易烊千玺演技进步",
@@ -10961,6 +11001,14 @@
       "onboard_time": 1769506761,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 82344,
+      "num": 82344,
+      "word": "papi酱成名作",
+      "onboard_time": 1769684603,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 82288,
@@ -11947,6 +11995,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 75863,
+      "num": 97545,
+      "word": "家长网购58元周岁宴装饰用完就退",
+      "onboard_time": 1769684242,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75843,
       "num": 75843,
       "word": "湖人战胜独行侠",
@@ -12009,6 +12065,14 @@
       "onboard_time": 1769383579,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 75663,
+      "num": 85033,
+      "word": "杨鸣请辞后首晒解说照",
+      "onboard_time": 1769683643,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 75608,
@@ -12161,6 +12225,14 @@
       "onboard_time": 1769274321,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 74109,
+      "num": 83182,
+      "word": "吃起来很甜实际热量很低的水果",
+      "onboard_time": 1769682863,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 74034,
@@ -12977,14 +13049,6 @@
       "onboard_time": 1769556438,
       "rank": 41,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 65053,
-      "num": 139999,
-      "word": "200多克黄金不当面接收快递小哥报警",
-      "onboard_time": 1769682803,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 64639,
@@ -14523,6 +14587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34125,
+      "num": 93510,
+      "word": "拉开帘子被张凌赫帅一大跳",
+      "onboard_time": 1769684124,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 33923,
       "num": 89791,
       "word": "亲爱的客栈能不能边拍边播",
@@ -14892,7 +14964,7 @@
     },
     {
       "raw_hot": 27472,
-      "num": 640707,
+      "num": 650323,
       "word": "中国牌晶体刷新3项世界纪录",
       "onboard_time": 1769675724,
       "rank": 2,
@@ -15219,11 +15291,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 22463,
+      "num": 87356,
+      "word": "中国大模型到底有多厉害",
+      "onboard_time": 1769684483,
+      "rank": 39,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 22441,
       "num": 36135,
       "word": "张桂源杨博文双人challenge",
       "onboard_time": 1769278637,
       "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 22424,
+      "num": 89891,
+      "word": "papi酱吐槽小时代4视频",
+      "onboard_time": 1769684422,
+      "rank": 38,
       "category": "艺人"
     },
     {

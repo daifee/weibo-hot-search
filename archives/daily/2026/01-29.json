@@ -1,6 +1,6 @@
 {
   "startTime": 1769616009567,
-  "endTime": 1769683544602,
+  "endTime": 1769684751267,
   "band_list": [
     {
       "raw_hot": 8542912,
@@ -27,8 +27,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2581833,
+      "num": 637464,
+      "word": "Bin疑似离队",
+      "onboard_time": 1769681065,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1823580,
-      "num": 128255,
+      "num": 137910,
       "word": "小S真的生了一个林志玲出来",
       "onboard_time": 1769680945,
       "rank": 34,
@@ -41,14 +49,6 @@
       "onboard_time": 1769598862,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1473402,
-      "num": 637464,
-      "word": "Bin疑似离队",
-      "onboard_time": 1769681065,
-      "rank": 46,
-      "category": "电竞"
     },
     {
       "raw_hot": 1448646,
@@ -67,6 +67,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1201960,
+      "num": 591960,
+      "word": "BLG Bin",
+      "onboard_time": 1769682144,
+      "rank": 5,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 1173465,
+      "num": 220081,
+      "word": "BLG上调新上单Wenbo",
+      "onboard_time": 1769681903,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1079355,
       "num": 189575,
       "word": "曝庾澄庆经常不回恩利信息",
@@ -76,7 +92,7 @@
     },
     {
       "raw_hot": 1054116,
-      "num": 117702,
+      "num": 130438,
       "word": "抖音崩了",
       "onboard_time": 1769680824,
       "rank": 30,
@@ -172,7 +188,7 @@
     },
     {
       "raw_hot": 615828,
-      "num": 125915,
+      "num": 136869,
       "word": "李嘉格 我忍不住就想晒",
       "onboard_time": 1769677404,
       "rank": 37,
@@ -187,12 +203,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 591960,
-      "num": 591960,
-      "word": "BLG Bin",
-      "onboard_time": 1769682144,
-      "rank": 5,
-      "category": "电竞"
+      "raw_hot": 593656,
+      "num": 1094985,
+      "word": "茅台",
+      "onboard_time": 1769676627,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 580836,
@@ -232,14 +248,6 @@
       "word": "黄金",
       "onboard_time": 1769642958,
       "rank": 6,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 532086,
-      "num": 1085133,
-      "word": "茅台",
-      "onboard_time": 1769676627,
-      "rank": 43,
       "category": "财经"
     },
     {
@@ -387,6 +395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 360679,
+      "num": 360679,
+      "word": "茅台发声明",
+      "onboard_time": 1769680405,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 353289,
       "num": 492536,
       "word": "23岁男子呕吐4天后竟突然失忆",
@@ -473,14 +489,6 @@
       "onboard_time": 1769653820,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 305465,
-      "num": 305465,
-      "word": "茅台发声明",
-      "onboard_time": 1769680405,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 304320,
@@ -603,6 +611,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 263490,
+      "num": 802253,
+      "word": "女大学生东北冻伤三根手指或截肢",
+      "onboard_time": 1769682743,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 261617,
+      "num": 261617,
+      "word": "200多克黄金不当面接收快递小哥报警",
+      "onboard_time": 1769682803,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 259594,
       "num": 259594,
       "word": "那英 上歌手有今天没明天",
@@ -635,8 +659,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 235212,
+      "num": 135166,
+      "word": "孙俪红毯压轴",
+      "onboard_time": 1769683884,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 231648,
-      "num": 212676,
+      "num": 229721,
       "word": "橙子是非常私密的水果",
       "onboard_time": 1769672844,
       "rank": 31,
@@ -755,6 +787,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 182478,
+      "num": 182478,
+      "word": "鲍威尔",
+      "onboard_time": 1769681664,
+      "rank": 15,
+      "category": "财经"
+    },
+    {
       "raw_hot": 179330,
       "num": 343716,
       "word": "孙颖莎 高露洁",
@@ -793,14 +833,6 @@
       "onboard_time": 1769650160,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 168332,
-      "num": 168332,
-      "word": "鲍威尔",
-      "onboard_time": 1769681664,
-      "rank": 15,
-      "category": "财经"
     },
     {
       "raw_hot": 166548,
@@ -859,6 +891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 157365,
+      "num": 157365,
+      "word": "孙绍骋被查",
+      "onboard_time": 1769682323,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 156801,
       "num": 138091,
       "word": "妈妈回应9岁孩子因一手好字火了",
@@ -875,12 +915,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 155128,
-      "num": 155128,
-      "word": "孙绍骋被查",
-      "onboard_time": 1769682323,
-      "rank": 17,
-      "category": "民生新闻"
+      "raw_hot": 154251,
+      "num": 137319,
+      "word": "有二胎才知道每个孩子生而不同",
+      "onboard_time": 1769681903,
+      "rank": 22,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 153795,
@@ -1043,14 +1083,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 135326,
-      "num": 127565,
-      "word": "有二胎才知道每个孩子生而不同",
-      "onboard_time": 1769681903,
-      "rank": 22,
-      "category": "母婴育儿"
-    },
-    {
       "raw_hot": 134249,
       "num": 134249,
       "word": "第一个领到刘强东年货大爷发声",
@@ -1097,14 +1129,6 @@
       "onboard_time": 1769652500,
       "rank": 24,
       "category": "汽车,体育"
-    },
-    {
-      "raw_hot": 130380,
-      "num": 130380,
-      "word": "女大学生东北冻伤三根手指或截肢",
-      "onboard_time": 1769682743,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 130038,
@@ -1171,14 +1195,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 120629,
-      "num": 120629,
-      "word": "BLG上调新上单Wenbo",
-      "onboard_time": 1769681903,
-      "rank": 28,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 119296,
       "num": 119296,
       "word": "曾舜晞唯一亚洲面孔的含金量",
@@ -1208,6 +1224,14 @@
       "word": "迪丽热巴全女拉娘 渣女文学",
       "onboard_time": 1769668944,
       "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 117735,
+      "num": 117735,
+      "word": "交警回应网传道路交通事故认定书属实",
+      "onboard_time": 1769682025,
+      "rank": 34,
       "category": "艺人"
     },
     {
@@ -1411,14 +1435,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 104873,
-      "num": 104873,
-      "word": "交警回应网传道路交通事故认定书属实",
-      "onboard_time": 1769682025,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 104300,
       "num": 104300,
       "word": "光明村村民去年收到的冰柜还没拆封",
@@ -1497,6 +1513,14 @@
       "onboard_time": 1769662042,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 99972,
+      "num": 99972,
+      "word": "陈晓嘴瓢给自己说愣住了",
+      "onboard_time": 1769683404,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 99677,
@@ -1803,6 +1827,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 86352,
+      "num": 86352,
+      "word": "神仙肉",
+      "onboard_time": 1769684303,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 85747,
       "num": 85747,
       "word": "澳网2026",
@@ -1875,6 +1907,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 84318,
+      "num": 84318,
+      "word": "吴越钱氏祖坟一直冒青烟",
+      "onboard_time": 1769683884,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 84007,
       "num": 94029,
       "word": "别告诉我这是最近的Angelababy",
@@ -1905,6 +1945,14 @@
       "onboard_time": 1769614102,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 82344,
+      "num": 82344,
+      "word": "papi酱成名作",
+      "onboard_time": 1769684603,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 82288,
@@ -2059,12 +2107,36 @@
       "category": "数码"
     },
     {
+      "raw_hot": 75863,
+      "num": 97545,
+      "word": "家长网购58元周岁宴装饰用完就退",
+      "onboard_time": 1769684242,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 75663,
+      "num": 85033,
+      "word": "杨鸣请辞后首晒解说照",
+      "onboard_time": 1769683643,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 75473,
       "num": 75473,
       "word": "贵州茅台否认参与SpaceX融资",
       "onboard_time": 1769682982,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 74109,
+      "num": 83182,
+      "word": "吃起来很甜实际热量很低的水果",
+      "onboard_time": 1769682863,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 73903,
@@ -2169,14 +2241,6 @@
       "onboard_time": 1769613982,
       "rank": 41,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 65053,
-      "num": 139999,
-      "word": "200多克黄金不当面接收快递小哥报警",
-      "onboard_time": 1769682803,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 63745,
@@ -2475,6 +2539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34125,
+      "num": 93510,
+      "word": "拉开帘子被张凌赫帅一大跳",
+      "onboard_time": 1769684124,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 33419,
       "num": 81383,
       "word": "卢旺达严重交通事故致中国公民伤亡",
@@ -2604,7 +2676,7 @@
     },
     {
       "raw_hot": 27472,
-      "num": 640707,
+      "num": 650323,
       "word": "中国牌晶体刷新3项世界纪录",
       "onboard_time": 1769675724,
       "rank": 2,
@@ -2649,6 +2721,22 @@
       "onboard_time": 1769652260,
       "rank": 14,
       "category": "汽车,体育"
+    },
+    {
+      "raw_hot": 22463,
+      "num": 87356,
+      "word": "中国大模型到底有多厉害",
+      "onboard_time": 1769684483,
+      "rank": 39,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 22424,
+      "num": 89891,
+      "word": "papi酱吐槽小时代4视频",
+      "onboard_time": 1769684422,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 21505,

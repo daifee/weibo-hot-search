@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/29 18:45:44
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/29 19:05:51
 </p>
 </blockquote>
 <p>
@@ -257,6 +257,12 @@ Asen回应Sakee（热度：2704539）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B4%BA%E5%A8%87%E9%BE%99%E6%8A%A2%E6%95%91%E6%97%A0%E6%95%88%E4%B8%8D%E5%B9%B8%E7%A6%BB%E4%B8%96%23" target="weibo">
 贺娇龙抢救无效不幸离世（热度：2603317）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23Bin%E7%96%91%E4%BC%BC%E7%A6%BB%E9%98%9F%23" target="weibo">
+Bin疑似离队（热度：2581833）
 </a>
 </li>
 
@@ -645,12 +651,6 @@ U23国足3比0越南U23（热度：1532686）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23Bin%E7%96%91%E4%BC%BC%E7%A6%BB%E9%98%9F%23" target="weibo">
-Bin疑似离队（热度：1473402）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BD%AD%E5%8D%81%E5%85%AD%23" target="weibo">
 彭十六（热度：1472597）
 </a>
@@ -891,6 +891,12 @@ woojin 塌房（热度：1279260）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23BLG%20Bin%23" target="weibo">
+BLG Bin（热度：1201960）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E5%BE%AE%E4%BF%A1%E6%9C%89%E4%B8%A4%E5%8D%83%E4%B8%AA%E7%BD%AE%E9%A1%B6%23" target="weibo">
 爸爸微信有两千个置顶（热度：1200620）
 </a>
@@ -959,6 +965,12 @@ MRC对战Gr（热度：1190595）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E7%94%B7%E8%89%BA%E4%BA%BA%E5%9B%A0%E8%B4%9F%E9%9D%A2%E9%AA%82%E5%8A%A9%E7%90%86%23" target="weibo">
 曝男艺人因负面骂助理（热度：1173749）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23BLG%E4%B8%8A%E8%B0%83%E6%96%B0%E4%B8%8A%E5%8D%95Wenbo%23" target="weibo">
+BLG上调新上单Wenbo（热度：1173465）
 </a>
 </li>
 
@@ -1799,18 +1811,6 @@ U23国足首进亚洲杯4强（热度：890521）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A5%9A%E6%B2%B3%E6%89%BF%E8%AE%A4%E6%81%8B%E6%83%85%23" target="weibo">
 陈楚河承认恋情（热度：888305）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A0%BC%E6%9E%97%E4%B8%8D%E5%9C%A8%E4%BA%86%23" target="weibo">
-格林不在了（热度：886385）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%8C%E8%83%9E%E8%83%8E%E5%A7%90%E5%A6%B9%E5%88%86%E5%88%AB%E5%8F%96%E5%90%8D%E7%81%BF%E5%92%8C%E7%83%82%23" target="weibo">
-双胞胎姐妹分别取名灿和烂（热度：882691）
 </a>
 </li>
 
