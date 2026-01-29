@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769693954738,
+  "endTime": 1769697905582,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -260,7 +260,7 @@
     },
     {
       "raw_hot": 2802556,
-      "num": 637464,
+      "num": 826760,
       "word": "Bin疑似离队",
       "onboard_time": 1769681065,
       "rank": 46,
@@ -393,6 +393,14 @@
       "onboard_time": 1768043901,
       "rank": 21,
       "category": "网红"
+    },
+    {
+      "raw_hot": 2190334,
+      "num": 1016235,
+      "word": "杨幂总台视后",
+      "onboard_time": 1769695164,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 2133729,
@@ -859,6 +867,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 1471714,
+      "num": 997708,
+      "word": "孙俪总台视后",
+      "onboard_time": 1769696065,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1469509,
       "num": 1469509,
       "word": "霸王茶姬已调查手打视频",
@@ -1076,7 +1092,7 @@
     },
     {
       "raw_hot": 1258355,
-      "num": 361816,
+      "num": 644200,
       "word": "男演员9公斤黄金400元每克卖出",
       "onboard_time": 1769689343,
       "rank": 12,
@@ -1105,6 +1121,14 @@
       "onboard_time": 1769051240,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1228921,
+      "num": 839459,
+      "word": "保险公司称金晨方放弃索赔",
+      "onboard_time": 1769695584,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1228740,
@@ -1947,6 +1971,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 991867,
+      "num": 991867,
+      "word": "金价暴涨第一批受害者出现",
+      "onboard_time": 1769692584,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 986767,
       "num": 269688,
       "word": "女明星为孩子挤痘致其脸缝四针",
@@ -2369,38 +2401,6 @@
       "onboard_time": 1767238040,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 893693,
-      "num": 230941,
-      "word": "贝克汉姆遭大儿子控诉",
-      "onboard_time": 1768868059,
-      "rank": 10,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 893293,
-      "num": 1142926,
-      "word": "儿子回应怒吼癌症妈妈碰瓷爆火",
-      "onboard_time": 1768875799,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 893250,
-      "num": 300580,
-      "word": "演员表为啥越来越看不懂了",
-      "onboard_time": 1769129361,
-      "rank": 11,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 890521,
-      "num": 1142483,
-      "word": "U23国足首进亚洲杯4强",
-      "onboard_time": 1768659743,
-      "rank": 0,
-      "category": "体育"
     }
   ],
   "hotgov_list": [

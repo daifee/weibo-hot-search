@@ -1,0 +1,410 @@
+{
+  "runTime": 1769697905582,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 255452,
+        "num": 1040872,
+        "word": "200多克黄金不当面接收快递小哥报警",
+        "onboard_time": 1769682803,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 239976,
+        "num": 1035838,
+        "word": "中国电视剧年度盛典",
+        "onboard_time": 1769691204,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29132,
+        "num": 1023742,
+        "word": "中国新能源汽车持续领跑全球",
+        "onboard_time": 1769691564,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2190334,
+        "num": 1016235,
+        "word": "杨幂总台视后",
+        "onboard_time": 1769695164,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222705,
+        "num": 1005175,
+        "word": "相亲点餐8000元女子要求婚介付",
+        "onboard_time": 1769690905,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1471714,
+        "num": 997708,
+        "word": "孙俪总台视后",
+        "onboard_time": 1769696065,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 991867,
+        "num": 991867,
+        "word": "金价暴涨第一批受害者出现",
+        "onboard_time": 1769692584,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 451049,
+        "num": 950878,
+        "word": "专家称黄金还没涨到最高",
+        "onboard_time": 1769694862,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 149681,
+        "num": 913148,
+        "word": "WBG战胜JDG",
+        "onboard_time": 1769696004,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 129919,
+        "num": 877655,
+        "word": "DYG战胜WE",
+        "onboard_time": 1769695645,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1228921,
+        "num": 839459,
+        "word": "保险公司称金晨方放弃索赔",
+        "onboard_time": 1769695584,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 826760,
+        "num": 826760,
+        "word": "Bin疑似离队",
+        "onboard_time": 1769681065,
+        "rank": 11,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 644200,
+        "num": 644200,
+        "word": "男演员9公斤黄金400元每克卖出",
+        "onboard_time": 1769689343,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 362963,
+        "num": 362963,
+        "word": "云旗空降",
+        "onboard_time": 1769695705,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 440219,
+        "num": 351628,
+        "word": "现在买黄金来得及吗",
+        "onboard_time": 1769692584,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1192570,
+        "num": 344098,
+        "word": "曝金晨交通事故监控截图",
+        "onboard_time": 1769670383,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 309659,
+        "num": 309659,
+        "word": "阚清子侧颜",
+        "onboard_time": 1769688203,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246422,
+        "num": 246422,
+        "word": "女子2次流产分手被判返还部分彩礼",
+        "onboard_time": 1769691624,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 239803,
+        "num": 239803,
+        "word": "QQ不响了微信没声了",
+        "onboard_time": 1769687662,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 45149,
+        "num": 211734,
+        "word": "多地发文鼓励每周休2.5天",
+        "onboard_time": 1769696905,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 337981,
+        "num": 211546,
+        "word": "神仙肉 虞书欣",
+        "onboard_time": 1769675664,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 287841,
+        "num": 211076,
+        "word": "郝熠然空降",
+        "onboard_time": 1769695705,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210409,
+        "num": 210409,
+        "word": "BLG Bin",
+        "onboard_time": 1769682144,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 239379,
+        "num": 209339,
+        "word": "Selina悼念烧伤主治医生",
+        "onboard_time": 1769689284,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194996,
+        "num": 194996,
+        "word": "邻居楼道放鞋架女子挂婆婆遗照反击",
+        "onboard_time": 1769695944,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192456,
+        "num": 192456,
+        "word": "杨幂黑长直",
+        "onboard_time": 1769687543,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 184339,
+        "num": 184339,
+        "word": "于和伟总台视帝",
+        "onboard_time": 1769697323,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162053,
+        "num": 162053,
+        "word": "Bin疑取关BLG",
+        "onboard_time": 1769694444,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 149760,
+        "num": 149760,
+        "word": "金价暴涨对普通人的影响",
+        "onboard_time": 1769697563,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 135920,
+        "num": 135920,
+        "word": "早睡觉可解决80%以上的问题",
+        "onboard_time": 1769691443,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 148066,
+        "num": 135634,
+        "word": "BLG上调新上单Wenbo",
+        "onboard_time": 1769681903,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 134406,
+        "num": 134406,
+        "word": "王安宇卷毛届最严厉的父亲",
+        "onboard_time": 1769694804,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 133493,
+        "num": 133493,
+        "word": "易梦玲在冰川上穿吊带裙拍照",
+        "onboard_time": 1769690543,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127713,
+        "num": 127713,
+        "word": "大司马小米高管直播玩鹅鸭杀",
+        "onboard_time": 1769697563,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 132857,
+        "num": 127511,
+        "word": "陈星旭业内口碑",
+        "onboard_time": 1769691983,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126272,
+        "num": 126272,
+        "word": "茅台发声明",
+        "onboard_time": 1769680405,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122123,
+        "num": 122123,
+        "word": "DYG晋级S组",
+        "onboard_time": 1769696485,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 122047,
+        "num": 122047,
+        "word": "肖战拍立得照",
+        "onboard_time": 1769674284,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118779,
+        "num": 118779,
+        "word": "生万物横扫",
+        "onboard_time": 1769697504,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30702,
+        "num": 117163,
+        "word": "以后出门可以打飞的了",
+        "onboard_time": 1769695284,
+        "rank": 39,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 116579,
+        "num": 116579,
+        "word": "向鱼 S组努力经常见",
+        "onboard_time": 1769697204,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 114109,
+        "num": 114109,
+        "word": "钎城 一起走更远",
+        "onboard_time": 1769697444,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 108374,
+        "num": 108374,
+        "word": "章若楠抹胸粉裙",
+        "onboard_time": 1769693124,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 107690,
+        "num": 107690,
+        "word": "孙俪梦回胡曼黎",
+        "onboard_time": 1769694265,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 97176,
+        "num": 97176,
+        "word": "DYG对战WE",
+        "onboard_time": 1769691805,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 106372,
+        "num": 96885,
+        "word": "王俊凯的自拍角度",
+        "onboard_time": 1769685624,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96376,
+        "num": 96376,
+        "word": "司机目睹男孩被女子推倒摔马路中间",
+        "onboard_time": 1769697864,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94311,
+        "num": 94311,
+        "word": "唐宫奇案",
+        "onboard_time": 1769697383,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92685,
+        "num": 92685,
+        "word": "钎城太C了",
+        "onboard_time": 1769697444,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 90853,
+        "num": 91864,
+        "word": "家长网购58元周岁宴装饰用完就退",
+        "onboard_time": 1769684242,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见英国首相#"
+    }
+  }
+}

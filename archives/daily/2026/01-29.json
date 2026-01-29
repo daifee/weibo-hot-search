@@ -1,6 +1,6 @@
 {
   "startTime": 1769616009567,
-  "endTime": 1769693954738,
+  "endTime": 1769697905582,
   "band_list": [
     {
       "raw_hot": 8542912,
@@ -28,11 +28,19 @@
     },
     {
       "raw_hot": 2802556,
-      "num": 637464,
+      "num": 826760,
       "word": "Bin疑似离队",
       "onboard_time": 1769681065,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 2190334,
+      "num": 1016235,
+      "word": "杨幂总台视后",
+      "onboard_time": 1769695164,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 1823580,
@@ -51,6 +59,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1471714,
+      "num": 997708,
+      "word": "孙俪总台视后",
+      "onboard_time": 1769696065,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1448646,
       "num": 1106754,
       "word": "国安 人在做天在看",
@@ -60,10 +76,18 @@
     },
     {
       "raw_hot": 1258355,
-      "num": 361816,
+      "num": 644200,
       "word": "男演员9公斤黄金400元每克卖出",
       "onboard_time": 1769689343,
       "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1228921,
+      "num": 839459,
+      "word": "保险公司称金晨方放弃索赔",
+      "onboard_time": 1769695584,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -105,6 +129,14 @@
       "onboard_time": 1769680824,
       "rank": 30,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 991867,
+      "num": 991867,
+      "word": "金价暴涨第一批受害者出现",
+      "onboard_time": 1769692584,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 980755,
@@ -355,6 +387,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 451049,
+      "num": 950878,
+      "word": "专家称黄金还没涨到最高",
+      "onboard_time": 1769694862,
+      "rank": 7,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 440219,
+      "num": 351628,
+      "word": "现在买黄金来得及吗",
+      "onboard_time": 1769692584,
+      "rank": 6,
+      "category": "财经"
+    },
+    {
       "raw_hot": 432844,
       "num": 803135,
       "word": "歌手2026",
@@ -457,6 +505,14 @@
       "onboard_time": 1769653100,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 362963,
+      "num": 362963,
+      "word": "云旗空降",
+      "onboard_time": 1769695705,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 360237,
@@ -603,6 +659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 287841,
+      "num": 211076,
+      "word": "郝熠然空降",
+      "onboard_time": 1769695705,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 287831,
       "num": 150378,
       "word": "刘强东乡亲妻子说还好自己嫁得早",
@@ -649,14 +713,6 @@
       "onboard_time": 1769650460,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 275507,
-      "num": 135557,
-      "word": "金价暴涨第一批受害者出现",
-      "onboard_time": 1769692584,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 273348,
@@ -723,8 +779,16 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 246422,
+      "num": 246422,
+      "word": "女子2次流产分手被判返还部分彩礼",
+      "onboard_time": 1769691624,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 244043,
-      "num": 244043,
+      "num": 1005175,
       "word": "相亲点餐8000元女子要求婚介付",
       "onboard_time": 1769690905,
       "rank": 31,
@@ -745,6 +809,14 @@
       "onboard_time": 1769654180,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 239976,
+      "num": 1035838,
+      "word": "中国电视剧年度盛典",
+      "onboard_time": 1769691204,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 230436,
@@ -843,14 +915,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 209590,
-      "num": 241323,
-      "word": "现在买黄金来得及吗",
-      "onboard_time": 1769692584,
-      "rank": 6,
-      "category": "财经"
-    },
-    {
       "raw_hot": 207251,
       "num": 207251,
       "word": "三甲医生回应胎儿一脚踢破妈妈子宫",
@@ -865,6 +929,14 @@
       "onboard_time": 1769682264,
       "rank": 9,
       "category": "演出"
+    },
+    {
+      "raw_hot": 194996,
+      "num": 194996,
+      "word": "邻居楼道放鞋架女子挂婆婆遗照反击",
+      "onboard_time": 1769695944,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 191500,
@@ -897,6 +969,14 @@
       "onboard_time": 1769670445,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 184339,
+      "num": 184339,
+      "word": "于和伟总台视帝",
+      "onboard_time": 1769697323,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 183689,
@@ -1011,6 +1091,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 162053,
+      "num": 162053,
+      "word": "Bin疑取关BLG",
+      "onboard_time": 1769694444,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 161218,
       "num": 161218,
       "word": "假如方圆脸减肥成功",
@@ -1097,6 +1185,22 @@
       "onboard_time": 1769672064,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 149760,
+      "num": 149760,
+      "word": "金价暴涨对普通人的影响",
+      "onboard_time": 1769697563,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 149681,
+      "num": 913148,
+      "word": "WBG战胜JDG",
+      "onboard_time": 1769696004,
+      "rank": 8,
+      "category": "电竞"
     },
     {
       "raw_hot": 149651,
@@ -1267,14 +1371,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 137131,
-      "num": 369436,
-      "word": "中国电视剧年度盛典",
-      "onboard_time": 1769691204,
-      "rank": 8,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 137083,
       "num": 121131,
       "word": "詹姆斯意外受伤",
@@ -1283,12 +1379,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135920,
+      "num": 135920,
+      "word": "早睡觉可解决80%以上的问题",
+      "onboard_time": 1769691443,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 135873,
       "num": 227058,
       "word": "Bin曾被曝与教练团队发生争执",
       "onboard_time": 1769685142,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 134406,
+      "num": 134406,
+      "word": "王安宇卷毛届最严厉的父亲",
+      "onboard_time": 1769694804,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 134249,
@@ -1305,14 +1417,6 @@
       "onboard_time": 1769655980,
       "rank": 35,
       "category": "财经"
-    },
-    {
-      "raw_hot": 132889,
-      "num": 132889,
-      "word": "女子2次流产分手被判返还部分彩礼",
-      "onboard_time": 1769691624,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 132853,
@@ -1355,6 +1459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 129919,
+      "num": 877655,
+      "word": "DYG战胜WE",
+      "onboard_time": 1769695645,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 129165,
       "num": 129165,
       "word": "女子2次宫外孕后再怀孕致子宫撕裂",
@@ -1369,6 +1481,14 @@
       "onboard_time": 1769670323,
       "rank": 17,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 127713,
+      "num": 127713,
+      "word": "大司马小米高管直播玩鹅鸭杀",
+      "onboard_time": 1769697563,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 126771,
@@ -1403,6 +1523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 122123,
+      "num": 122123,
+      "word": "DYG晋级S组",
+      "onboard_time": 1769696485,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 120813,
       "num": 120813,
       "word": "坚持早睡30天的脸部变化",
@@ -1425,6 +1553,14 @@
       "onboard_time": 1769674463,
       "rank": 31,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 118779,
+      "num": 118779,
+      "word": "生万物横扫",
+      "onboard_time": 1769697504,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 118494,
@@ -1457,6 +1593,14 @@
       "onboard_time": 1769682025,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 116579,
+      "num": 116579,
+      "word": "向鱼 S组努力经常见",
+      "onboard_time": 1769697204,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 116323,
@@ -1555,6 +1699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 114109,
+      "num": 114109,
+      "word": "钎城 一起走更远",
+      "onboard_time": 1769697444,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 112782,
       "num": 106656,
       "word": "村支书说刘强东送年货也带来泼天流量",
@@ -1609,6 +1761,14 @@
       "onboard_time": 1769661624,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 107690,
+      "num": 107690,
+      "word": "孙俪梦回胡曼黎",
+      "onboard_time": 1769694265,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 106786,
@@ -1899,6 +2059,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 96376,
+      "num": 96376,
+      "word": "司机目睹男孩被女子推倒摔马路中间",
+      "onboard_time": 1769697864,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96267,
       "num": 96267,
       "word": "外交部回应缅北明家11人被执行死刑",
@@ -1945,6 +2113,14 @@
       "onboard_time": 1769675844,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 94311,
+      "num": 94311,
+      "word": "唐宫奇案",
+      "onboard_time": 1769697383,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 94031,
@@ -1995,14 +2171,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 93104,
-      "num": 93104,
-      "word": "早睡觉可解决80%以上的问题",
-      "onboard_time": 1769691443,
-      "rank": 45,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 93027,
       "num": 90167,
       "word": "25斤的宝宝有24斤的心眼子",
@@ -2017,6 +2185,14 @@
       "onboard_time": 1769676627,
       "rank": 44,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 92685,
+      "num": 92685,
+      "word": "钎城太C了",
+      "onboard_time": 1769697444,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 92521,
@@ -2875,6 +3051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 45149,
+      "num": 211734,
+      "word": "多地发文鼓励每周休2.5天",
+      "onboard_time": 1769696905,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43712,
       "num": 43712,
       "word": "金饰克价一天涨40元",
@@ -3051,6 +3235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 30702,
+      "num": 117163,
+      "word": "以后出门可以打飞的了",
+      "onboard_time": 1769695284,
+      "rank": 39,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 29805,
       "num": 105293,
       "word": "工亡认定48小时条款让职工家属两难",
@@ -3068,7 +3260,7 @@
     },
     {
       "raw_hot": 29426,
-      "num": 624639,
+      "num": 1023742,
       "word": "中国新能源汽车持续领跑全球",
       "onboard_time": 1769691564,
       "rank": 2,
