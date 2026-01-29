@@ -1,6 +1,6 @@
 {
   "startTime": 1769272464158,
-  "endTime": 1769687636576,
+  "endTime": 1769692384820,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 1823580,
-      "num": 190149,
+      "num": 211879,
       "word": "小S真的生了一个林志玲出来",
       "onboard_time": 1769680945,
       "rank": 34,
@@ -203,6 +203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1258355,
+      "num": 361816,
+      "word": "男演员9公斤黄金400元每克卖出",
+      "onboard_time": 1769689343,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1228740,
       "num": 299706,
       "word": "金饰克价涨至1708元",
@@ -244,7 +252,7 @@
     },
     {
       "raw_hot": 1173465,
-      "num": 220081,
+      "num": 283503,
       "word": "BLG上调新上单Wenbo",
       "onboard_time": 1769681903,
       "rank": 28,
@@ -1355,6 +1363,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 486801,
+      "num": 360773,
+      "word": "Selina悼念烧伤主治医生",
+      "onboard_time": 1769689284,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 486546,
       "num": 93579,
       "word": "金子涵歌词 你就是个大骗子",
@@ -1473,6 +1489,14 @@
       "onboard_time": 1769499441,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 472309,
+      "num": 360676,
+      "word": "阚清子侧颜",
+      "onboard_time": 1769688203,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 465228,
@@ -1987,6 +2011,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 375671,
+      "num": 812905,
+      "word": "茅台发声明",
+      "onboard_time": 1769680405,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 375477,
       "num": 150616,
       "word": "日本一女性在同一家公司上班近70年",
@@ -2067,12 +2099,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 360679,
-      "num": 812905,
-      "word": "茅台发声明",
-      "onboard_time": 1769680405,
-      "rank": 49,
-      "category": "民生新闻"
+      "raw_hot": 360237,
+      "num": 360237,
+      "word": "杨幂黑长直",
+      "onboard_time": 1769687543,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 358391,
@@ -3476,7 +3508,7 @@
     },
     {
       "raw_hot": 248872,
-      "num": 248872,
+      "num": 375653,
       "word": "橙子是非常私密的水果",
       "onboard_time": 1769672844,
       "rank": 31,
@@ -3625,6 +3657,14 @@
       "onboard_time": 1769590161,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 240245,
+      "num": 240245,
+      "word": "QQ不响了微信没声了",
+      "onboard_time": 1769687662,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 237670,
@@ -3875,6 +3915,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 223192,
+      "num": 581672,
+      "word": "王者荣耀",
+      "onboard_time": 1769523621,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 222876,
       "num": 165603,
       "word": "张元英直播",
@@ -3929,6 +3977,14 @@
       "onboard_time": 1769584161,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 220261,
+      "num": 402158,
+      "word": "家长网购58元周岁宴装饰用完就退",
+      "onboard_time": 1769684242,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 220199,
@@ -4667,6 +4723,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 172849,
+      "num": 172849,
+      "word": "杨幂没走红毯",
+      "onboard_time": 1769687482,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 172443,
       "num": 163348,
       "word": "高会L销号",
@@ -4865,6 +4929,14 @@
       "onboard_time": 1769313920,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 163929,
+      "num": 371729,
+      "word": "美国关押一5岁男孩",
+      "onboard_time": 1769688504,
+      "rank": 7,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 163737,
@@ -5083,12 +5155,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 155933,
-      "num": 581672,
-      "word": "王者荣耀",
-      "onboard_time": 1769523621,
-      "rank": 8,
-      "category": "电竞"
+      "raw_hot": 155936,
+      "num": 155936,
+      "word": "易梦玲在冰川上穿吊带裙拍照",
+      "onboard_time": 1769690543,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 155579,
@@ -5539,14 +5611,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 144642,
-      "num": 187764,
-      "word": "家长网购58元周岁宴装饰用完就退",
-      "onboard_time": 1769684242,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 144589,
       "num": 144589,
       "word": "papi酱成名作",
@@ -5556,7 +5620,7 @@
     },
     {
       "raw_hot": 144400,
-      "num": 191444,
+      "num": 368112,
       "word": "神仙肉",
       "onboard_time": 1769684303,
       "rank": 40,
@@ -5825,6 +5889,14 @@
       "onboard_time": 1769649681,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 137131,
+      "num": 369436,
+      "word": "中国电视剧年度盛典",
+      "onboard_time": 1769691204,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 137095,
@@ -6491,6 +6563,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 124747,
+      "num": 145966,
+      "word": "相亲点餐8000元女子要求婚介付",
+      "onboard_time": 1769690905,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 124599,
       "num": 124599,
       "word": "学猫叫把猫恶心吐了",
@@ -6907,6 +6987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 118450,
+      "num": 118450,
+      "word": "邢菲首登央视红毯",
+      "onboard_time": 1769689525,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 118434,
       "num": 139427,
       "word": "桃黑黑打王者",
@@ -7003,14 +7091,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 117089,
-      "num": 117089,
-      "word": "杨幂黑长直",
-      "onboard_time": 1769687543,
-      "rank": 38,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 116964,
       "num": 116964,
       "word": "陈星旭工作室严正声明",
@@ -7097,6 +7177,14 @@
       "onboard_time": 1769680405,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 115736,
+      "num": 314179,
+      "word": "DYG对战WE",
+      "onboard_time": 1769691805,
+      "rank": 22,
+      "category": "电竞"
     },
     {
       "raw_hot": 115718,
@@ -7539,6 +7627,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 109743,
+      "num": 132031,
+      "word": "BLG希望Wenbo快速适应赛场强度",
+      "onboard_time": 1769688322,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 109717,
       "num": 109717,
       "word": "KSG战胜TTG",
@@ -7681,14 +7777,6 @@
       "onboard_time": 1769573179,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 107946,
-      "num": 95831,
-      "word": "杨幂没走红毯",
-      "onboard_time": 1769687482,
-      "rank": 43,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 107815,
@@ -8123,6 +8211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 103938,
+      "num": 157079,
+      "word": "Turbo5Max价格真香",
+      "onboard_time": 1769689104,
+      "rank": 28,
+      "category": "数码"
+    },
+    {
       "raw_hot": 103937,
       "num": 103937,
       "word": "A股超3700只个股下跌",
@@ -8291,6 +8387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 102976,
+      "num": 102976,
+      "word": "陈星旭业内口碑",
+      "onboard_time": 1769691983,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 102896,
       "num": 102896,
       "word": "杨毅对杨鸣贴脸开大",
@@ -8409,6 +8513,14 @@
       "onboard_time": 1769509220,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 101776,
+      "num": 101776,
+      "word": "红米Turbo5获小米10亿内存补贴",
+      "onboard_time": 1769691925,
+      "rank": 43,
+      "category": "互联网"
     },
     {
       "raw_hot": 101683,
@@ -9275,6 +9387,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 94991,
+      "num": 94991,
+      "word": "桃黑黑直播纸嫁衣",
+      "onboard_time": 1769690483,
+      "rank": 44,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 94907,
       "num": 94907,
       "word": "摸凹猫 摸凸猫",
@@ -9457,6 +9577,14 @@
       "onboard_time": 1769488642,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 93785,
+      "num": 93785,
+      "word": "时代少年团老式小孩",
+      "onboard_time": 1769692284,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 93681,
@@ -9803,6 +9931,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 91280,
+      "num": 91280,
+      "word": "夫妻提前20天请假回老家过年",
+      "onboard_time": 1769690303,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91264,
       "num": 91264,
       "word": "TF四代花式对答爱你老己",
@@ -9825,6 +9961,14 @@
       "onboard_time": 1769576421,
       "rank": 44,
       "category": "财经"
+    },
+    {
+      "raw_hot": 91137,
+      "num": 91137,
+      "word": "朱开锐评Bin疑似离队事件",
+      "onboard_time": 1769692223,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 91121,
@@ -10337,6 +10481,14 @@
       "onboard_time": 1769438063,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 87622,
+      "num": 90585,
+      "word": "马龙请多发自拍",
+      "onboard_time": 1769691144,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 87618,
@@ -12683,6 +12835,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 70891,
+      "num": 360633,
+      "word": "网友在福建农村偶遇15层自建房",
+      "onboard_time": 1769691624,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 70817,
       "num": 69749,
       "word": "卢昱晓南衣路透",
@@ -14203,12 +14363,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 42746,
+      "num": 360350,
+      "word": "多地街头现9.9元星巴克咖啡自助机",
+      "onboard_time": 1769691624,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42440,
       "num": 136088,
       "word": "官方通报3元续面纠纷",
       "onboard_time": 1769610204,
       "rank": 19,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 42113,
+      "num": 360480,
+      "word": "Turbo5Max大内存512GB天花板",
+      "onboard_time": 1769689343,
+      "rank": 17,
+      "category": "数码"
     },
     {
       "raw_hot": 42112,
@@ -14241,6 +14417,14 @@
       "onboard_time": 1769296996,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 41388,
+      "num": 110883,
+      "word": "女子2次流产分手被判返还部分彩礼",
+      "onboard_time": 1769691624,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 41325,
@@ -15585,6 +15769,14 @@
       "onboard_time": 1769437582,
       "rank": 19,
       "category": "海外新闻,健康医疗"
+    },
+    {
+      "raw_hot": 19136,
+      "num": 599332,
+      "word": "中国新能源汽车持续领跑全球",
+      "onboard_time": 1769691564,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 19011,
