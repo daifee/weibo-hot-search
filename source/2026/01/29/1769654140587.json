@@ -1,0 +1,410 @@
+{
+  "runTime": 1769654140587,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 407093,
+        "num": 1065135,
+        "word": "白宫发了一张图新华社回了个动画",
+        "onboard_time": 1769651541,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 402734,
+        "num": 771599,
+        "word": "美联储决定暂停降息",
+        "onboard_time": 1769643559,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 19814,
+        "num": 626822,
+        "word": "当冰雪大地邂逅璀璨星空",
+        "onboard_time": 1769604501,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 277621,
+        "num": 277621,
+        "word": "男子买15元彩票中1404万",
+        "onboard_time": 1769606842,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180861,
+        "num": 219212,
+        "word": "谁说短剧女演员在长剧没辨识度",
+        "onboard_time": 1769653100,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1228740,
+        "num": 218053,
+        "word": "金饰克价涨至1708元",
+        "onboard_time": 1769650759,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 215750,
+        "num": 215750,
+        "word": "讨厌的人终于被所有人都讨厌了",
+        "onboard_time": 1769645479,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 332503,
+        "num": 192332,
+        "word": "黄金变现业务爆了",
+        "onboard_time": 1769643318,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 166344,
+        "num": 166344,
+        "word": "湖南广电原局长魏文彬逝世",
+        "onboard_time": 1769653160,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146922,
+        "num": 146922,
+        "word": "南通发现1例罕见恐龙血",
+        "onboard_time": 1769612131,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 482700,
+        "num": 146752,
+        "word": "网友北京偶遇刘亦菲购物",
+        "onboard_time": 1769650580,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 460307,
+        "num": 146664,
+        "word": "素颜的王玉雯",
+        "onboard_time": 1769647760,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266402,
+        "num": 146292,
+        "word": "29年前轮奸案多人出狱后申诉至今",
+        "onboard_time": 1769646983,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 456659,
+        "num": 146059,
+        "word": "杨紫经常考虑叫胡歌哥还是胡哥",
+        "onboard_time": 1769648839,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21017,
+        "num": 145820,
+        "word": "林孝埈新身份沃尔沃品牌挚友",
+        "onboard_time": 1769652260,
+        "rank": 14,
+        "category": "汽车,体育"
+      },
+      {
+        "raw_hot": 277193,
+        "num": 145663,
+        "word": "王橹杰新音总结",
+        "onboard_time": 1769650460,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225479,
+        "num": 145522,
+        "word": "胎儿一脚踢破妈妈子宫致羊水流失",
+        "onboard_time": 1769612608,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169360,
+        "num": 145083,
+        "word": "张奕然发烧",
+        "onboard_time": 1769650160,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155895,
+        "num": 144891,
+        "word": "女子下车摔倒被丈夫开车碾过",
+        "onboard_time": 1769643140,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18808,
+        "num": 144647,
+        "word": "人民日报评招投标领域腐败乱象",
+        "onboard_time": 1769653580,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 507725,
+        "num": 144575,
+        "word": "阚清子近照状态",
+        "onboard_time": 1769608162,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 468233,
+        "num": 144332,
+        "word": "黄金",
+        "onboard_time": 1769642958,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 416227,
+        "num": 144097,
+        "word": "金子涵曾没猜出蔡徐坤的名字",
+        "onboard_time": 1769646983,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206339,
+        "num": 143879,
+        "word": "金价",
+        "onboard_time": 1769605460,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 130412,
+        "num": 143566,
+        "word": "林孝埈XC70",
+        "onboard_time": 1769652500,
+        "rank": 24,
+        "category": "汽车,体育"
+      },
+      {
+        "raw_hot": 166542,
+        "num": 143252,
+        "word": "气血充足的人大多有5个习惯",
+        "onboard_time": 1769645600,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 143219,
+        "num": 143219,
+        "word": "迪丽热巴 春晚分会场",
+        "onboard_time": 1769613144,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35388,
+        "num": 139054,
+        "word": "91岁男生为爱cos肖战的一天",
+        "onboard_time": 1769653940,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138998,
+        "num": 138998,
+        "word": "40岁男子连吃7天贡丸汤确诊尿毒症",
+        "onboard_time": 1769647341,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 196472,
+        "num": 138873,
+        "word": "金子涵拉黑蔡徐坤",
+        "onboard_time": 1769598862,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137198,
+        "num": 137198,
+        "word": "东契奇意外受伤",
+        "onboard_time": 1769649681,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131063,
+        "num": 131063,
+        "word": "白发位置暗示健康问题",
+        "onboard_time": 1769650040,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 116079,
+        "num": 116079,
+        "word": "崩坏星穹铁道",
+        "onboard_time": 1769642897,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 106786,
+        "num": 106786,
+        "word": "印度男子为上医学院砍断一只脚",
+        "onboard_time": 1769650700,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 106605,
+        "num": 106605,
+        "word": "以军拔了巴勒斯坦100棵树",
+        "onboard_time": 1769652379,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 60059,
+        "num": 102436,
+        "word": "奔驰140年生日快乐",
+        "onboard_time": 1769654119,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 99788,
+        "num": 99788,
+        "word": "一小时前定档一小时后发声明",
+        "onboard_time": 1769653820,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96904,
+        "num": 96904,
+        "word": "杨紫为上镜暴瘦15斤",
+        "onboard_time": 1769608282,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42752,
+        "num": 96901,
+        "word": "伊朗称做好200%的自卫准备",
+        "onboard_time": 1769653340,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 17996,
+        "num": 96900,
+        "word": "抢茅台过年用的计划泡汤了",
+        "onboard_time": 1769653580,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96900,
+        "num": 96899,
+        "word": "杨博文 在脑海里憋了一肚子的话",
+        "onboard_time": 1769649860,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94965,
+        "num": 94965,
+        "word": "妈妈回应9岁孩子因一手好字火了",
+        "onboard_time": 1769653880,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94746,
+        "num": 94746,
+        "word": "阚清子事业心",
+        "onboard_time": 1769647341,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93529,
+        "num": 93529,
+        "word": "微博之夜",
+        "onboard_time": 1769601681,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 83360,
+        "num": 83360,
+        "word": "老一辈人要面子真的不分场合",
+        "onboard_time": 1769644158,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 88114,
+        "num": 83122,
+        "word": "李勤勤晒周海媚爱犬近况",
+        "onboard_time": 1769646621,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86414,
+        "num": 82775,
+        "word": "张桂源新音发文",
+        "onboard_time": 1769649622,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82136,
+        "num": 82136,
+        "word": "宝马所有车型将启用新logo",
+        "onboard_time": 1769643140,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 80244,
+        "num": 80244,
+        "word": "张函瑞 那个拍子就是不小心错了一点",
+        "onboard_time": 1769650099,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79310,
+        "num": 79310,
+        "word": "樊振东观战多特蒙德",
+        "onboard_time": 1769653520,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#冰雪春天#"
+    }
+  }
+}

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/29 07:49:17
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/29 10:35:40
 </p>
 </blockquote>
 <p>
@@ -797,6 +797,12 @@ woojin 塌房（热度：1279260）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%A2A%E6%9D%A5%E5%BE%AE%E5%8D%9A%E4%BA%86%23" target="weibo">
 牢A来微博了（热度：1235499）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E9%A5%B0%E5%85%8B%E4%BB%B7%E6%B6%A8%E8%87%B31708%E5%85%83%23" target="weibo">
+金饰克价涨至1708元（热度：1228740）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ DYG战胜狼队（热度：867183）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%8C%E7%97%87%E6%99%9A%E6%9C%9F%E8%80%81%E4%BA%BA%E5%87%BA%E5%94%AE30%E5%B9%B4%E5%89%8D%E4%B9%B0%E7%9A%84%E9%BB%84%E9%87%91%23" target="weibo">
 癌症晚期老人出售30年前买的黄金（热度：865729）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%8F%AF%E8%83%BD%E5%8F%88%E8%A6%81%E6%8D%A2%E9%A6%96%E7%9B%B8%E4%BA%86%23" target="weibo">
-日本可能又要换首相了（热度：861518）
 </a>
 </li>
 
