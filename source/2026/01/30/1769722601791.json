@@ -1,0 +1,410 @@
+{
+  "runTime": 1769722601791,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 43121,
+        "num": 166899,
+        "word": "缅甸新诈骗园区有早前获救者",
+        "onboard_time": 1769701703,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 35005,
+        "num": 123321,
+        "word": "年轻老板狂扫700万黄金店员报警",
+        "onboard_time": 1769701825,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10639,
+        "num": 92512,
+        "word": "中国新能源汽车持续领跑全球",
+        "onboard_time": 1769691564,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 39549,
+        "num": 39549,
+        "word": "主治医生哭着说已想尽办法留住豪豪",
+        "onboard_time": 1769718913,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30428,
+        "num": 30428,
+        "word": "紫金矿业创始人泪洒现场",
+        "onboard_time": 1769709676,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 27670,
+        "num": 27670,
+        "word": "太平年李煜镜头被盘包浆了",
+        "onboard_time": 1769703861,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27240,
+        "num": 27240,
+        "word": "孙俪总台视后",
+        "onboard_time": 1769696065,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26997,
+        "num": 26997,
+        "word": "女子吃自制牛瘪火锅中毒双手变蓝",
+        "onboard_time": 1769700744,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23062,
+        "num": 26899,
+        "word": "中国电视剧年度盛典",
+        "onboard_time": 1769691204,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21215,
+        "num": 26566,
+        "word": "现货黄金白银快速走低",
+        "onboard_time": 1769703021,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 413833,
+        "num": 26483,
+        "word": "黄金暴跌",
+        "onboard_time": 1769703021,
+        "rank": 10,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 71212,
+        "num": 26235,
+        "word": "男演员9公斤黄金400元每克卖出",
+        "onboard_time": 1769689343,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48982,
+        "num": 25883,
+        "word": "曝金晨交通事故监控截图",
+        "onboard_time": 1769670383,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25776,
+        "num": 25776,
+        "word": "易梦玲在冰川上穿吊带裙拍照",
+        "onboard_time": 1769690543,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23556,
+        "num": 23556,
+        "word": "QQ不响了微信没声了",
+        "onboard_time": 1769687662,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 23346,
+        "num": 23346,
+        "word": "Bin 主动道歉",
+        "onboard_time": 1769699604,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 21324,
+        "num": 21324,
+        "word": "邻居楼道放鞋架女子挂婆婆遗照反击",
+        "onboard_time": 1769695944,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43767,
+        "num": 21084,
+        "word": "金晨父母拒回应金晨疑肇事逃逸",
+        "onboard_time": 1769698825,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18026,
+        "num": 20765,
+        "word": "Bin首发",
+        "onboard_time": 1769699243,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 17139,
+        "num": 20508,
+        "word": "嘉禾望岗为何被称为分手车站",
+        "onboard_time": 1769701882,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51641,
+        "num": 20204,
+        "word": "金价暴涨第一批受害者出现",
+        "onboard_time": 1769692584,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45086,
+        "num": 19907,
+        "word": "金价",
+        "onboard_time": 1769700924,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 28956,
+        "num": 19761,
+        "word": "小S真的生了一个林志玲出来",
+        "onboard_time": 1769680945,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27216,
+        "num": 19237,
+        "word": "金价上涨打金店2天亏5万",
+        "onboard_time": 1769700203,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21880,
+        "num": 19162,
+        "word": "婚礼现场婆婆和亲妈撞脸惊呆宾客",
+        "onboard_time": 1769699784,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18875,
+        "num": 18875,
+        "word": "白银重挫8%",
+        "onboard_time": 1769704580,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 18741,
+        "num": 18741,
+        "word": "长期运动的人更早意识到身体要维护",
+        "onboard_time": 1769721073,
+        "rank": 26,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 18075,
+        "num": 18075,
+        "word": "银价暴涨10倍带火CT废胶片",
+        "onboard_time": 1769700562,
+        "rank": 27,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 17712,
+        "num": 17712,
+        "word": "司机目睹男孩被女子推倒摔马路中间",
+        "onboard_time": 1769697864,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16479,
+        "num": 16479,
+        "word": "Selina悼念烧伤主治医生",
+        "onboard_time": 1769689284,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16115,
+        "num": 16115,
+        "word": "孙千魏大勋cp感好强",
+        "onboard_time": 1769704759,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16052,
+        "num": 16052,
+        "word": "生万物横扫",
+        "onboard_time": 1769697504,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15549,
+        "num": 15549,
+        "word": "早睡觉可解决80%以上的问题",
+        "onboard_time": 1769691443,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 15772,
+        "num": 15451,
+        "word": "于和伟总台视帝",
+        "onboard_time": 1769697323,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15289,
+        "num": 15289,
+        "word": "国际金银大跳水",
+        "onboard_time": 1769704580,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 14944,
+        "num": 14944,
+        "word": "野人先生130克冰淇淋卖28元被指贵",
+        "onboard_time": 1769699305,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14350,
+        "num": 14350,
+        "word": "神仙肉 虞书欣",
+        "onboard_time": 1769675664,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14205,
+        "num": 14205,
+        "word": "网友称吃药后疯狂买彩票",
+        "onboard_time": 1769702901,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13843,
+        "num": 13843,
+        "word": "学者称县城中产女性比例更高",
+        "onboard_time": 1769703081,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13609,
+        "num": 13609,
+        "word": "太平年",
+        "onboard_time": 1769691503,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12264,
+        "num": 13609,
+        "word": "小城大事",
+        "onboard_time": 1769699243,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12249,
+        "num": 13607,
+        "word": "阚清子侧颜",
+        "onboard_time": 1769688203,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12214,
+        "num": 13603,
+        "word": "伊朗军队新装备千架战略无人机",
+        "onboard_time": 1769698644,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 11906,
+        "num": 13602,
+        "word": "DYG晋级S组",
+        "onboard_time": 1769696485,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 11552,
+        "num": 13600,
+        "word": "张桂源张函瑞 太阳与地球",
+        "onboard_time": 1769699123,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 11243,
+        "num": 13598,
+        "word": "BLG Bin",
+        "onboard_time": 1769682144,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 11097,
+        "num": 13595,
+        "word": "企业家之夜",
+        "onboard_time": 1769716333,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 10640,
+        "num": 13595,
+        "word": "专家称黄金还没涨到最高",
+        "onboard_time": 1769694862,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 10362,
+        "num": 13593,
+        "word": "宋威龙泰国西装领带",
+        "onboard_time": 1769701460,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 9559,
+        "num": 13590,
+        "word": "你好星期六",
+        "onboard_time": 1769712256,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见英国首相#"
+    }
+  }
+}
