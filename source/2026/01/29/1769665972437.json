@@ -1,0 +1,410 @@
+{
+  "runTime": 1769665972437,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1410451,
+        "num": 1410451,
+        "word": "交警回应金晨被曝肇事逃逸",
+        "onboard_time": 1769664564,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 488124,
+        "num": 913894,
+        "word": "哈工大辟谣学生捅伤两名教授",
+        "onboard_time": 1769661025,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84456,
+        "num": 681543,
+        "word": "全国气温回升大趋势成定局",
+        "onboard_time": 1769658200,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 329274,
+        "num": 329274,
+        "word": "快乐大本营创办者去世",
+        "onboard_time": 1769656940,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 321163,
+        "num": 321163,
+        "word": "明家涉案100余亿14名中国人死亡",
+        "onboard_time": 1769657841,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 545115,
+        "num": 311120,
+        "word": "那个创办快乐大本营的人走了",
+        "onboard_time": 1769656220,
+        "rank": 5,
+        "category": "民生新闻,作品衍生"
+      },
+      {
+        "raw_hot": 218609,
+        "num": 218609,
+        "word": "第一个被豆包气哭的人出现了",
+        "onboard_time": 1769660002,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 188016,
+        "num": 188016,
+        "word": "白宫发了一张图新华社回了个动画",
+        "onboard_time": 1769651541,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 187018,
+        "num": 187018,
+        "word": "花生这辈子没想到还能被切丝",
+        "onboard_time": 1769661803,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 183689,
+        "num": 183689,
+        "word": "金价飙涨消费者把黄金变现",
+        "onboard_time": 1769663544,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 8170758,
+        "num": 8170758,
+        "word": "曝金晨肇事逃逸",
+        "onboard_time": 1769659642,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 915031,
+        "num": 180200,
+        "word": "薛佳凝自曝2013年开始攒金",
+        "onboard_time": 1769663902,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177357,
+        "num": 177357,
+        "word": "三甲医生回应胎儿一脚踢破妈妈子宫",
+        "onboard_time": 1769663242,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177435,
+        "num": 177092,
+        "word": "朴彩英谈BLACKPINK关系",
+        "onboard_time": 1769660843,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175470,
+        "num": 175470,
+        "word": "微博之夜阵容",
+        "onboard_time": 1769665882,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 171651,
+        "num": 171651,
+        "word": "金银暴涨",
+        "onboard_time": 1769661924,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 595324,
+        "num": 171458,
+        "word": "金晨 助理顶包",
+        "onboard_time": 1769661924,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47402,
+        "num": 170860,
+        "word": "光明村村民领京东AI手机",
+        "onboard_time": 1769664383,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 170514,
+        "num": 170514,
+        "word": "徐艺真回应淡出观众视野",
+        "onboard_time": 1769660363,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38484,
+        "num": 170366,
+        "word": "登衡山遗失80余克金牌最新进展",
+        "onboard_time": 1769665403,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 304357,
+        "num": 168920,
+        "word": "金饰克价涨至1708元",
+        "onboard_time": 1769650759,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 279515,
+        "num": 168374,
+        "word": "23岁男子呕吐4天后竟突然失忆",
+        "onboard_time": 1769663663,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 280073,
+        "num": 166622,
+        "word": "黄金",
+        "onboard_time": 1769642958,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 166548,
+        "num": 166548,
+        "word": "马斯克称中国是下一个级别的狠角色",
+        "onboard_time": 1769661985,
+        "rank": 23,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 163822,
+        "num": 163822,
+        "word": "阚清子近照状态",
+        "onboard_time": 1769608162,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 131127,
+        "num": 131127,
+        "word": "内娱最好笑的声明出现了",
+        "onboard_time": 1769664081,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117086,
+        "num": 128725,
+        "word": "北京国安新赛季被罚5分",
+        "onboard_time": 1769661624,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126966,
+        "num": 126966,
+        "word": "金子涵已经退圈了",
+        "onboard_time": 1769664742,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124519,
+        "num": 124519,
+        "word": "告白",
+        "onboard_time": 1769660242,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103195,
+        "num": 121321,
+        "word": "男子新婚夜被妻子殴打发现其患精神病",
+        "onboard_time": 1769656101,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120271,
+        "num": 120271,
+        "word": "那英 上歌手有今天没明天",
+        "onboard_time": 1769665642,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116810,
+        "num": 116810,
+        "word": "微博之夜",
+        "onboard_time": 1769601681,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 99606,
+        "num": 115345,
+        "word": "李铁等73人终身禁足",
+        "onboard_time": 1769663600,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114762,
+        "num": 114762,
+        "word": "弟弟翅膀硬了姐姐给他炖了",
+        "onboard_time": 1769662763,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110873,
+        "num": 110873,
+        "word": "papi酱目前最大尺度嘉宾",
+        "onboard_time": 1769665642,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91983,
+        "num": 91983,
+        "word": "深圳水贝某黄金平台上亿元提现无门",
+        "onboard_time": 1769664022,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105118,
+        "num": 91764,
+        "word": "谁说短剧女演员在长剧没辨识度",
+        "onboard_time": 1769653100,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102616,
+        "num": 91537,
+        "word": "一小时前定档一小时后发声明",
+        "onboard_time": 1769653820,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91121,
+        "num": 91121,
+        "word": "妈妈回应9岁孩子因一手好字火了",
+        "onboard_time": 1769653880,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86547,
+        "num": 86547,
+        "word": "李铁等73人终身禁止从事足球活动",
+        "onboard_time": 1769665225,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82223,
+        "num": 82223,
+        "word": "邻居回忆凑鸡蛋供刘强东上学",
+        "onboard_time": 1769665283,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 80014,
+        "num": 80014,
+        "word": "明家犯罪集团11人被执行死刑",
+        "onboard_time": 1769657781,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79326,
+        "num": 79326,
+        "word": "咪的身材很曼妙",
+        "onboard_time": 1769665162,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 77624,
+        "num": 77624,
+        "word": "白鹿王星越唐宫奇案排播",
+        "onboard_time": 1769663302,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 77062,
+        "num": 77062,
+        "word": "23岁小伙出差归来突发失忆",
+        "onboard_time": 1769665701,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76331,
+        "num": 76331,
+        "word": "Faker质疑LCK杯赛制",
+        "onboard_time": 1769662642,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 73903,
+        "num": 73903,
+        "word": "黄金为何疯涨",
+        "onboard_time": 1769664921,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 73440,
+        "num": 73440,
+        "word": "峡谷拜年秀",
+        "onboard_time": 1769665043,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 73085,
+        "num": 73085,
+        "word": "气血足不足看身体这3个部位",
+        "onboard_time": 1769664742,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 71899,
+        "num": 71899,
+        "word": "助理偷用博主物品造哈佛留学人设",
+        "onboard_time": 1769663902,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记激励体育健儿超越自我#"
+    }
+  }
+}

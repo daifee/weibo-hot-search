@@ -1,6 +1,6 @@
 {
   "startTime": 1769272464158,
-  "endTime": 1769662450016,
+  "endTime": 1769665972437,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -128,6 +128,14 @@
       "word": "蔡徐坤 金子涵",
       "onboard_time": 1769598082,
       "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1410451,
+      "num": 1410451,
+      "word": "交警回应金晨被曝肇事逃逸",
+      "onboard_time": 1769664564,
+      "rank": 0,
       "category": "艺人"
     },
     {
@@ -312,6 +320,14 @@
       "word": "多品牌紧急删除张雨绮相关代言内容",
       "onboard_time": 1769530280,
       "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 915031,
+      "num": 180200,
+      "word": "薛佳凝自曝2013年开始攒金",
+      "onboard_time": 1769663902,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -747,6 +763,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 595324,
+      "num": 171458,
+      "word": "金晨 助理顶包",
+      "onboard_time": 1769661924,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 590722,
       "num": 255615,
       "word": "忘记结婚了习惯性回自己家",
@@ -1177,6 +1201,14 @@
       "onboard_time": 1769331079,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 488124,
+      "num": 913894,
+      "word": "哈工大辟谣学生捅伤两名教授",
+      "onboard_time": 1769661025,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 488058,
@@ -2107,14 +2139,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 331562,
-      "num": 331562,
-      "word": "哈工大辟谣学生捅伤两名教授",
-      "onboard_time": 1769661025,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 329629,
       "num": 197520,
       "word": "张学友捐款130万元",
@@ -2696,6 +2720,14 @@
       "word": "2026年房价会涨还是跌",
       "onboard_time": 1769523742,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 279515,
+      "num": 168374,
+      "word": "23岁男子呕吐4天后竟突然失忆",
+      "onboard_time": 1769663663,
+      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -3723,14 +3755,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 208628,
-      "num": 160800,
-      "word": "金晨 助理顶包",
-      "onboard_time": 1769661924,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 207550,
       "num": 147193,
       "word": "白鹿说已无法负荷高强度动作戏",
@@ -4043,6 +4067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 187018,
+      "num": 187018,
+      "word": "花生这辈子没想到还能被切丝",
+      "onboard_time": 1769661803,
+      "rank": 40,
+      "category": "美食"
+    },
+    {
       "raw_hot": 186831,
       "num": 149899,
       "word": "张凌赫非常感谢闺蜜",
@@ -4097,6 +4129,14 @@
       "onboard_time": 1769424562,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 183689,
+      "num": 183689,
+      "word": "金价飙涨消费者把黄金变现",
+      "onboard_time": 1769663544,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 183613,
@@ -4179,6 +4219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 177357,
+      "num": 177357,
+      "word": "三甲医生回应胎儿一脚踢破妈妈子宫",
+      "onboard_time": 1769663242,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 176015,
       "num": 341085,
       "word": "易烊千玺4年前的表情包显化了",
@@ -4201,6 +4249,14 @@
       "onboard_time": 1769348721,
       "rank": 45,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 175470,
+      "num": 175470,
+      "word": "微博之夜阵容",
+      "onboard_time": 1769665882,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 175375,
@@ -4265,6 +4321,14 @@
       "onboard_time": 1769521521,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 171651,
+      "num": 171651,
+      "word": "金银暴涨",
+      "onboard_time": 1769661924,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 171617,
@@ -4369,6 +4433,14 @@
       "onboard_time": 1769405302,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 166548,
+      "num": 166548,
+      "word": "马斯克称中国是下一个级别的狠角色",
+      "onboard_time": 1769661985,
+      "rank": 16,
+      "category": "互联网"
     },
     {
       "raw_hot": 166542,
@@ -4617,14 +4689,6 @@
       "onboard_time": 1769437822,
       "rank": 28,
       "category": "情感"
-    },
-    {
-      "raw_hot": 154695,
-      "num": 154695,
-      "word": "马斯克称中国是下一个级别的狠角色",
-      "onboard_time": 1769661985,
-      "rank": 16,
-      "category": "互联网"
     },
     {
       "raw_hot": 154679,
@@ -5499,6 +5563,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 131127,
+      "num": 131127,
+      "word": "内娱最好笑的声明出现了",
+      "onboard_time": 1769664081,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 131063,
       "num": 131063,
       "word": "白发位置暗示健康问题",
@@ -5731,6 +5803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 126966,
+      "num": 126966,
+      "word": "金子涵已经退圈了",
+      "onboard_time": 1769664742,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 126816,
       "num": 126816,
       "word": "虞书欣进行曲",
@@ -5939,14 +6019,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 123373,
-      "num": 123373,
-      "word": "花生这辈子没想到还能被切丝",
-      "onboard_time": 1769661803,
-      "rank": 40,
-      "category": "美食"
-    },
-    {
       "raw_hot": 123312,
       "num": 123312,
       "word": "印度尼帕病毒疫情或来自医院",
@@ -6137,6 +6209,14 @@
       "onboard_time": 1769585960,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 120271,
+      "num": 120271,
+      "word": "那英 上歌手有今天没明天",
+      "onboard_time": 1769665642,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 120043,
@@ -6331,6 +6411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 117086,
+      "num": 128725,
+      "word": "北京国安新赛季被罚5分",
+      "onboard_time": 1769661624,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 116964,
       "num": 116964,
       "word": "陈星旭工作室严正声明",
@@ -6491,6 +6579,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 114762,
+      "num": 114762,
+      "word": "弟弟翅膀硬了姐姐给他炖了",
+      "onboard_time": 1769662763,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 114701,
       "num": 100137,
       "word": "有罪之身",
@@ -6524,7 +6620,7 @@
     },
     {
       "raw_hot": 114177,
-      "num": 648543,
+      "num": 681543,
       "word": "全国气温回升大趋势成定局",
       "onboard_time": 1769658200,
       "rank": 2,
@@ -6721,6 +6817,14 @@
       "onboard_time": 1769528721,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110873,
+      "num": 110873,
+      "word": "papi酱目前最大尺度嘉宾",
+      "onboard_time": 1769665642,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 110695,
@@ -7827,6 +7931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 99606,
+      "num": 115345,
+      "word": "李铁等73人终身禁足",
+      "onboard_time": 1769663600,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 99596,
       "num": 99596,
       "word": "张本美和4比3早田希娜",
@@ -7985,14 +8097,6 @@
       "onboard_time": 1769311700,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 97925,
-      "num": 97925,
-      "word": "金银暴涨",
-      "onboard_time": 1769661924,
-      "rank": 47,
-      "category": "财经"
     },
     {
       "raw_hot": 97895,
@@ -8779,6 +8883,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 91983,
+      "num": 91983,
+      "word": "深圳水贝某黄金平台上亿元提现无门",
+      "onboard_time": 1769664022,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91800,
       "num": 121336,
       "word": "隋文静韩聪亚军",
@@ -9475,6 +9587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 86547,
+      "num": 86547,
+      "word": "李铁等73人终身禁止从事足球活动",
+      "onboard_time": 1769665225,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 86437,
       "num": 86437,
       "word": "时团真不把我们当外人",
@@ -10011,6 +10131,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 82223,
+      "num": 82223,
+      "word": "邻居回忆凑鸡蛋供刘强东上学",
+      "onboard_time": 1769665283,
+      "rank": 40,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 82179,
       "num": 82179,
       "word": "赵匡胤这里不让装监控",
@@ -10403,6 +10531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 79326,
+      "num": 79326,
+      "word": "咪的身材很曼妙",
+      "onboard_time": 1769665162,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 79310,
       "num": 79310,
       "word": "樊振东观战多特蒙德",
@@ -10595,6 +10731,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 77624,
+      "num": 77624,
+      "word": "白鹿王星越唐宫奇案排播",
+      "onboard_time": 1769663302,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 77593,
       "num": 77593,
       "word": "点外卖时记得检查一下备注",
@@ -10688,6 +10832,14 @@
       "word": "陌生老人尾随进家男孩拿菜刀自卫",
       "onboard_time": 1769351483,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 77062,
+      "num": 77062,
+      "word": "23岁小伙出差归来突发失忆",
+      "onboard_time": 1769665701,
+      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -10793,6 +10945,14 @@
       "onboard_time": 1769566459,
       "rank": 42,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 76331,
+      "num": 76331,
+      "word": "Faker质疑LCK杯赛制",
+      "onboard_time": 1769662642,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 76263,
@@ -11099,6 +11259,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 73903,
+      "num": 73903,
+      "word": "黄金为何疯涨",
+      "onboard_time": 1769664921,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 73893,
       "num": 73893,
       "word": "lgdnbw对战DYG",
@@ -11163,6 +11331,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 73440,
+      "num": 73440,
+      "word": "峡谷拜年秀",
+      "onboard_time": 1769665043,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 73157,
       "num": 73157,
       "word": "通勤包越来越抽象了",
@@ -11177,6 +11353,14 @@
       "onboard_time": 1769594181,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 73085,
+      "num": 73085,
+      "word": "气血足不足看身体这3个部位",
+      "onboard_time": 1769664742,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 73076,
@@ -11313,6 +11497,14 @@
       "onboard_time": 1769334320,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 71899,
+      "num": 71899,
+      "word": "助理偷用博主物品造哈佛留学人设",
+      "onboard_time": 1769663902,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 71814,
@@ -12651,6 +12843,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 47402,
+      "num": 170860,
+      "word": "光明村村民领京东AI手机",
+      "onboard_time": 1769664383,
+      "rank": 17,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 47394,
       "num": 97211,
       "word": "泰国将实施全面减糖国策",
@@ -13112,6 +13312,14 @@
       "word": "私人影院想看电影必须点女孩陪看",
       "onboard_time": 1769606301,
       "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 38484,
+      "num": 170366,
+      "word": "登衡山遗失80余克金牌最新进展",
+      "onboard_time": 1769665403,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
