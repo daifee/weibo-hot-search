@@ -1,6 +1,6 @@
 {
   "startTime": 1769616009567,
-  "endTime": 1769654140587,
+  "endTime": 1769656291006,
   "band_list": [
     {
       "raw_hot": 1779996,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1228740,
-      "num": 218053,
+      "num": 299706,
       "word": "金饰克价涨至1708元",
       "onboard_time": 1769650759,
       "rank": 5,
@@ -25,6 +25,14 @@
       "onboard_time": 1769608162,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 856126,
+      "num": 1136980,
+      "word": "白宫发了一张图新华社回了个动画",
+      "onboard_time": 1769651541,
+      "rank": 0,
+      "category": "国际时政"
     },
     {
       "raw_hot": 624199,
@@ -44,7 +52,7 @@
     },
     {
       "raw_hot": 580836,
-      "num": 150551,
+      "num": 169653,
       "word": "胎儿一脚踢破妈妈子宫致羊水流失",
       "onboard_time": 1769612608,
       "rank": 11,
@@ -124,7 +132,7 @@
     },
     {
       "raw_hot": 455238,
-      "num": 92290,
+      "num": 121592,
       "word": "蔡徐坤 金子涵",
       "onboard_time": 1769598082,
       "rank": 25,
@@ -139,16 +147,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 407093,
-      "num": 1065135,
-      "word": "白宫发了一张图新华社回了个动画",
-      "onboard_time": 1769651541,
-      "rank": 0,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 402734,
-      "num": 771599,
+      "num": 847851,
       "word": "美联储决定暂停降息",
       "onboard_time": 1769643559,
       "rank": 9,
@@ -163,6 +163,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 365676,
+      "num": 365676,
+      "word": "谁说短剧女演员在长剧没辨识度",
+      "onboard_time": 1769653100,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 337921,
+      "num": 192688,
+      "word": "91岁男生为爱cos肖战的一天",
+      "onboard_time": 1769653940,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 333348,
       "num": 195214,
       "word": "穆祉丞比2",
@@ -172,11 +188,19 @@
     },
     {
       "raw_hot": 332503,
-      "num": 192332,
+      "num": 231986,
       "word": "黄金变现业务爆了",
       "onboard_time": 1769643318,
       "rank": 14,
       "category": "财经"
+    },
+    {
+      "raw_hot": 307295,
+      "num": 307295,
+      "word": "一小时前定档一小时后发声明",
+      "onboard_time": 1769653820,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 285455,
@@ -196,7 +220,7 @@
     },
     {
       "raw_hot": 277193,
-      "num": 145663,
+      "num": 184510,
       "word": "王橹杰新音总结",
       "onboard_time": 1769650460,
       "rank": 15,
@@ -204,7 +228,7 @@
     },
     {
       "raw_hot": 266402,
-      "num": 146292,
+      "num": 173452,
       "word": "29年前轮奸案多人出狱后申诉至今",
       "onboard_time": 1769646983,
       "rank": 12,
@@ -219,12 +243,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 232347,
+      "num": 232347,
+      "word": "中国足协",
+      "onboard_time": 1769654180,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 227524,
       "num": 443700,
       "word": "生命树",
       "onboard_time": 1769616202,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 220005,
+      "num": 220005,
+      "word": "湖南广电原局长魏文彬逝世",
+      "onboard_time": 1769653160,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 215750,
@@ -241,14 +281,6 @@
       "onboard_time": 1769642897,
       "rank": 4,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 180861,
-      "num": 219212,
-      "word": "谁说短剧女演员在长剧没辨识度",
-      "onboard_time": 1769653100,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 177397,
@@ -275,14 +307,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 166344,
-      "num": 166344,
-      "word": "湖南广电原局长魏文彬逝世",
-      "onboard_time": 1769653160,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 161218,
       "num": 161218,
       "word": "假如方圆脸减肥成功",
@@ -296,6 +320,14 @@
       "word": "深圳小学期末考被称堪比公务员行测",
       "onboard_time": 1769616441,
       "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156801,
+      "num": 136147,
+      "word": "妈妈回应9岁孩子因一手好字火了",
+      "onboard_time": 1769653880,
+      "rank": 41,
       "category": "民生新闻"
     },
     {
@@ -339,6 +371,14 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 139400,
+      "num": 139400,
+      "word": "男子新婚夜被妻子殴打发现其患精神病",
+      "onboard_time": 1769656101,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 138998,
       "num": 138998,
       "word": "40岁男子连吃7天贡丸汤确诊尿毒症",
@@ -347,10 +387,26 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 138897,
+      "num": 138897,
+      "word": "金饰克价一夜大涨104元",
+      "onboard_time": 1769654420,
+      "rank": 22,
+      "category": "财经"
+    },
+    {
       "raw_hot": 137198,
       "num": 137198,
       "word": "东契奇意外受伤",
       "onboard_time": 1769649681,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 137083,
+      "num": 116553,
+      "word": "詹姆斯意外受伤",
+      "onboard_time": 1769654900,
       "rank": 30,
       "category": "体育"
     },
@@ -377,6 +433,14 @@
       "onboard_time": 1769652500,
       "rank": 24,
       "category": "汽车,体育"
+    },
+    {
+      "raw_hot": 126771,
+      "num": 126771,
+      "word": "黄金还能涨吗",
+      "onboard_time": 1769655200,
+      "rank": 26,
+      "category": "财经"
     },
     {
       "raw_hot": 118494,
@@ -427,6 +491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 107714,
+      "num": 107714,
+      "word": "金价银价暴涨原因",
+      "onboard_time": 1769655980,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
       "raw_hot": 106786,
       "num": 106786,
       "word": "印度男子为上医学院砍断一只脚",
@@ -451,6 +523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105295,
+      "num": 105295,
+      "word": "英国首相斯塔默访华",
+      "onboard_time": 1769655439,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 101892,
       "num": 101892,
       "word": "伊朗总统宣布启动紧急状态",
@@ -459,12 +539,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 99788,
-      "num": 99788,
-      "word": "一小时前定档一小时后发声明",
-      "onboard_time": 1769653820,
-      "rank": 36,
-      "category": "剧集"
+      "raw_hot": 100089,
+      "num": 100089,
+      "word": "那个创办快乐大本营的人走了",
+      "onboard_time": 1769656220,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 98424,
@@ -491,14 +571,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 94965,
-      "num": 94965,
-      "word": "妈妈回应9岁孩子因一手好字火了",
-      "onboard_time": 1769653880,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 94746,
       "num": 94746,
       "word": "阚清子事业心",
@@ -513,6 +585,30 @@
       "onboard_time": 1769620397,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92521,
+      "num": 92521,
+      "word": "马年春晚",
+      "onboard_time": 1769647280,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 91231,
+      "num": 91231,
+      "word": "黄金柜台3小时卖120万元金条",
+      "onboard_time": 1769653700,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 90653,
+      "num": 90653,
+      "word": "上海申花天津津门虎被罚10分",
+      "onboard_time": 1769656039,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 88114,
@@ -539,6 +635,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 84853,
+      "num": 84853,
+      "word": "金饰克价一周涨了163元",
+      "onboard_time": 1769655800,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 84579,
       "num": 84579,
       "word": "生育津贴到手3万却被申领10万元",
@@ -552,6 +656,14 @@
       "word": "别告诉我这是最近的Angelababy",
       "onboard_time": 1769601321,
       "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 83517,
+      "num": 83517,
+      "word": "叶舒华Minnie肤色差",
+      "onboard_time": 1769656220,
+      "rank": 48,
       "category": "艺人"
     },
     {
@@ -593,6 +705,14 @@
       "onboard_time": 1769653520,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 73537,
+      "num": 139280,
+      "word": "京东国补买家电家居真便宜",
+      "onboard_time": 1769655800,
+      "rank": 18,
+      "category": "互联网"
     },
     {
       "raw_hot": 72995,
@@ -692,7 +812,7 @@
     },
     {
       "raw_hot": 60059,
-      "num": 102436,
+      "num": 165921,
       "word": "奔驰140年生日快乐",
       "onboard_time": 1769654119,
       "rank": 35,
@@ -867,6 +987,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 41567,
+      "num": 105292,
+      "word": "女生花近4万相亲只见4个人",
+      "onboard_time": 1769655080,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39376,
       "num": 92290,
       "word": "朴彩英这是能说的吗",
@@ -875,12 +1003,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 35388,
-      "num": 139054,
-      "word": "91岁男生为爱cos肖战的一天",
-      "onboard_time": 1769653940,
-      "rank": 27,
-      "category": "艺人"
+      "raw_hot": 34472,
+      "num": 139238,
+      "word": "英国首相斯塔默现身北京三里屯",
+      "onboard_time": 1769655920,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 33419,
@@ -915,6 +1043,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 31559,
+      "num": 105292,
+      "word": "羊肉串里没羊肉检察院管了",
+      "onboard_time": 1769655380,
+      "rank": 38,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 30921,
       "num": 92270,
       "word": "突然的喜欢",
@@ -931,6 +1067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29805,
+      "num": 105293,
+      "word": "工亡认定48小时条款让职工家属两难",
+      "onboard_time": 1769655380,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27537,
       "num": 63628,
       "word": "孩子去年才知道李娜是干嘛的",
@@ -939,20 +1083,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 26834,
+      "num": 107723,
+      "word": "美国男子遭两名ICE人员开枪",
+      "onboard_time": 1769656101,
+      "rank": 34,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 23189,
+      "num": 179779,
+      "word": "林孝埈新身份沃尔沃品牌挚友",
+      "onboard_time": 1769652260,
+      "rank": 14,
+      "category": "汽车,体育"
+    },
+    {
       "raw_hot": 21505,
       "num": 29243,
       "word": "澳网男女单四强出炉",
       "onboard_time": 1769621776,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 21017,
-      "num": 145820,
-      "word": "林孝埈新身份沃尔沃品牌挚友",
-      "onboard_time": 1769652260,
-      "rank": 14,
-      "category": "汽车,体育"
     },
     {
       "raw_hot": 20328,
@@ -964,7 +1116,7 @@
     },
     {
       "raw_hot": 19814,
-      "num": 626822,
+      "num": 667153,
       "word": "当冰雪大地邂逅璀璨星空",
       "onboard_time": 1769604501,
       "rank": 2,
