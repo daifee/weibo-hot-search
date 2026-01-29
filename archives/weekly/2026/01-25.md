@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/25 00:34:24 ~ 2026/01/30 02:02:18
+本榜单时间：2026/01/25 00:34:24 ~ 2026/01/30 02:59:17
 </p>
 </blockquote>
 <p>
@@ -8247,6 +8247,12 @@ RW战胜RNGM（热度：89301）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%B4%AB%E9%87%91%E7%9F%BF%E4%B8%9A%E5%88%9B%E5%A7%8B%E4%BA%BA%E6%B3%AA%E6%B4%92%E7%8E%B0%E5%9C%BA%23" target="weibo">
+紫金矿业创始人泪洒现场（热度：87910）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E8%85%8A%E5%85%AB%E5%9C%A8%E4%BA%AC%E4%B8%9C%E5%94%B1%E6%AD%8C%23" target="weibo">
 刘宇宁腊八在京东唱歌（热度：87845）
 </a>
@@ -10901,12 +10907,6 @@ A股黄金概念股大涨（热度：55597）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A9%B9%E6%9D%B0%E6%91%94%E8%B7%A4%E8%BF%98%E6%9C%89%E7%9B%B4%E6%8B%8D%23" target="weibo">
 王橹杰摔跤还有直拍（热度：53455）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%B4%AB%E9%87%91%E7%9F%BF%E4%B8%9A%E5%88%9B%E5%A7%8B%E4%BA%BA%E6%B3%AA%E6%B4%92%E7%8E%B0%E5%9C%BA%23" target="weibo">
-紫金矿业创始人泪洒现场（热度：53391）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1769702505765,
-  "endTime": 1769709738137,
+  "endTime": 1769713157447,
   "band_list": [
     {
       "raw_hot": 3481750,
@@ -347,6 +347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 87910,
+      "num": 87910,
+      "word": "紫金矿业创始人泪洒现场",
+      "onboard_time": 1769709676,
+      "rank": 25,
+      "category": "财经"
+    },
+    {
       "raw_hot": 85890,
       "num": 99445,
       "word": "宋威龙泰国西装领带",
@@ -441,14 +449,6 @@
       "onboard_time": 1769680945,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 53391,
-      "num": 53391,
-      "word": "紫金矿业创始人泪洒现场",
-      "onboard_time": 1769709676,
-      "rank": 25,
-      "category": "财经"
     },
     {
       "raw_hot": 50999,
@@ -561,6 +561,30 @@
       "onboard_time": 1769700625,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22559,
+      "num": 27323,
+      "word": "你好星期六",
+      "onboard_time": 1769712256,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 18585,
+      "num": 27291,
+      "word": "神仙肉",
+      "onboard_time": 1769684303,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 17227,
+      "num": 27287,
+      "word": "太平年",
+      "onboard_time": 1769691503,
+      "rank": 40,
+      "category": "剧集"
     }
   ],
   "hotgov_list": [

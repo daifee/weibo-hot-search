@@ -1,6 +1,6 @@
 {
   "startTime": 1769272464158,
-  "endTime": 1769709738137,
+  "endTime": 1769713157447,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -10979,6 +10979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 87910,
+      "num": 87910,
+      "word": "紫金矿业创始人泪洒现场",
+      "onboard_time": 1769709676,
+      "rank": 25,
+      "category": "财经"
+    },
+    {
       "raw_hot": 87845,
       "num": 139149,
       "word": "刘宇宁腊八在京东唱歌",
@@ -14521,14 +14529,6 @@
       "onboard_time": 1769417662,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 53391,
-      "num": 53391,
-      "word": "紫金矿业创始人泪洒现场",
-      "onboard_time": 1769709676,
-      "rank": 25,
-      "category": "财经"
     },
     {
       "raw_hot": 52788,
