@@ -1,0 +1,410 @@
+{
+  "runTime": 1769681137637,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 429237,
+        "num": 1068678,
+        "word": "女子因幼犬轻咬未处理引发狂犬病",
+        "onboard_time": 1769667322,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 352430,
+        "num": 773005,
+        "word": "男子刮刮乐中100万旁边大哥羡慕了",
+        "onboard_time": 1769676204,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25391,
+        "num": 630611,
+        "word": "中国牌晶体刷新3项世界纪录",
+        "onboard_time": 1769675724,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 766992,
+        "num": 545924,
+        "word": "神仙肉 虞书欣",
+        "onboard_time": 1769675664,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 274049,
+        "num": 274049,
+        "word": "歌手2026",
+        "onboard_time": 1769669184,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 815354,
+        "num": 258799,
+        "word": "奉劝大家还是尽量多存钱",
+        "onboard_time": 1769676204,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 238621,
+        "num": 238621,
+        "word": "缅甸出现一处3000人新诈骗园区",
+        "onboard_time": 1769671584,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 230436,
+        "num": 230436,
+        "word": "父母带娃爬野山孩子坠崖",
+        "onboard_time": 1769677704,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152819,
+        "num": 152819,
+        "word": "快乐大本营创办者去世",
+        "onboard_time": 1769656940,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84553,
+        "num": 152534,
+        "word": "中国金币集团公告",
+        "onboard_time": 1769678903,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 2273651,
+        "num": 151728,
+        "word": "曝金晨肇事逃逸",
+        "onboard_time": 1769659642,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 521984,
+        "num": 151038,
+        "word": "茅台",
+        "onboard_time": 1769676627,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 287831,
+        "num": 150378,
+        "word": "刘强东乡亲妻子说还好自己嫁得早",
+        "onboard_time": 1769678124,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 149821,
+        "num": 149821,
+        "word": "橙子是非常私密的水果",
+        "onboard_time": 1769672844,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144629,
+        "num": 144629,
+        "word": "微博之夜阵容",
+        "onboard_time": 1769665882,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 142798,
+        "num": 142798,
+        "word": "最近你买黄金了么",
+        "onboard_time": 1769677643,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 139403,
+        "num": 139403,
+        "word": "欧洲领导人排队访华美国急了",
+        "onboard_time": 1769678183,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 23027,
+        "num": 132970,
+        "word": "ID.ERA9X凭什么说是增程3.0",
+        "onboard_time": 1769677404,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 128063,
+        "num": 128063,
+        "word": "疑遭男护工多次猥亵渐冻症女子发声",
+        "onboard_time": 1769678244,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24359,
+        "num": 124232,
+        "word": "杰我睿引导消费者签署刑事谅解书",
+        "onboard_time": 1769680163,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 5733961,
+        "num": 5733961,
+        "word": "曝金晨交通事故监控截图",
+        "onboard_time": 1769670383,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 574084,
+        "num": 123099,
+        "word": "李嘉格 我忍不住就想晒",
+        "onboard_time": 1769677404,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122204,
+        "num": 122204,
+        "word": "23岁男子呕吐4天后竟突然失忆",
+        "onboard_time": 1769663663,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40441,
+        "num": 121286,
+        "word": "聋哑拾荒者擅入垃圾站被碾压身亡",
+        "onboard_time": 1769679862,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 282472,
+        "num": 121180,
+        "word": "肖战拍立得照",
+        "onboard_time": 1769674284,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230716,
+        "num": 121042,
+        "word": "王星和女友官宣微博之夜",
+        "onboard_time": 1769676564,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 120700,
+        "num": 120700,
+        "word": "俄军首次公开宣布使用美国星链",
+        "onboard_time": 1769673384,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 193635,
+        "num": 117097,
+        "word": "薛佳凝自曝2013年开始攒金",
+        "onboard_time": 1769663902,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176973,
+        "num": 114365,
+        "word": "刘亦菲三里屯打卡",
+        "onboard_time": 1769676504,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110685,
+        "num": 110685,
+        "word": "黄金",
+        "onboard_time": 1769642958,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1054116,
+        "num": 110685,
+        "word": "抖音崩了",
+        "onboard_time": 1769680824,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 175058,
+        "num": 110681,
+        "word": "微博之夜第三波阵容",
+        "onboard_time": 1769674104,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 123474,
+        "num": 110679,
+        "word": "宋威龙曼谷",
+        "onboard_time": 1769677643,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110674,
+        "num": 110674,
+        "word": "建议脚臭的都去穿五指袜",
+        "onboard_time": 1769670683,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121720,
+        "num": 108874,
+        "word": "小S真的生了一个林志玲出来",
+        "onboard_time": 1769680945,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115777,
+        "num": 108678,
+        "word": "刘诗诗体力",
+        "onboard_time": 1769680405,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104300,
+        "num": 104300,
+        "word": "光明村村民去年收到的冰柜还没拆封",
+        "onboard_time": 1769679623,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107605,
+        "num": 103314,
+        "word": "以前内向不好现在内向保命",
+        "onboard_time": 1769676445,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 101064,
+        "num": 101064,
+        "word": "白酒",
+        "onboard_time": 1769667083,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 16213,
+        "num": 98407,
+        "word": "胖东来5个黄金柜台506名额全约满",
+        "onboard_time": 1769680824,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97661,
+        "num": 97661,
+        "word": "茅台发声明",
+        "onboard_time": 1769680405,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97329,
+        "num": 97329,
+        "word": "第一次这么直观感受萝卜岗",
+        "onboard_time": 1769670983,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 96161,
+        "num": 96161,
+        "word": "英国首相抵京第一餐完整菜单曝光",
+        "onboard_time": 1769673625,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 95151,
+        "num": 95151,
+        "word": "欧阳娜娜找到副业了",
+        "onboard_time": 1769679143,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93590,
+        "num": 93590,
+        "word": "刷到你之前我简直在乱焦虑",
+        "onboard_time": 1769680583,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 89855,
+        "num": 89855,
+        "word": "明家11人临刑前进行了近亲属会面",
+        "onboard_time": 1769678244,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 87079,
+        "num": 87079,
+        "word": "Bin疑似离队",
+        "onboard_time": 1769681065,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 83320,
+        "num": 83320,
+        "word": "杨毅对杨鸣贴脸开大",
+        "onboard_time": 1769675482,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 80074,
+        "num": 80074,
+        "word": "中国电视剧年度盛典红毯",
+        "onboard_time": 1769680764,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72407,
+        "num": 72407,
+        "word": "国防部回应所谓击沉中国军舰动画",
+        "onboard_time": 1769673865,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#中英两国合作一定能一马当先#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1769616009567,
-  "endTime": 1769680434567,
+  "endTime": 1769681137637,
   "band_list": [
     {
       "raw_hot": 8542912,
@@ -59,6 +59,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1054116,
+      "num": 110685,
+      "word": "抖音崩了",
+      "onboard_time": 1769680824,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 980755,
       "num": 413985,
       "word": "白酒",
@@ -115,7 +123,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 751875,
+      "raw_hot": 766992,
       "num": 612667,
       "word": "神仙肉 虞书欣",
       "onboard_time": 1769675664,
@@ -148,7 +156,7 @@
     },
     {
       "raw_hot": 615828,
-      "num": 122389,
+      "num": 123099,
       "word": "李嘉格 我忍不住就想晒",
       "onboard_time": 1769677404,
       "rank": 37,
@@ -211,7 +219,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 510589,
+      "raw_hot": 521984,
       "num": 157855,
       "word": "茅台",
       "onboard_time": 1769676627,
@@ -467,6 +475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 287831,
+      "num": 150378,
+      "word": "刘强东乡亲妻子说还好自己嫁得早",
+      "onboard_time": 1769678124,
+      "rank": 12,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 285455,
       "num": 149895,
       "word": "女子下车摔倒被丈夫开车碾过",
@@ -521,14 +537,6 @@
       "onboard_time": 1769658980,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 271982,
-      "num": 146732,
-      "word": "刘强东乡亲妻子说还好自己嫁得早",
-      "onboard_time": 1769678124,
-      "rank": 12,
-      "category": "互联网"
     },
     {
       "raw_hot": 266874,
@@ -595,6 +603,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 230436,
+      "num": 230436,
+      "word": "父母带娃爬野山孩子坠崖",
+      "onboard_time": 1769677704,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 227524,
       "num": 443700,
       "word": "生命树",
@@ -624,14 +640,6 @@
       "word": "湖南广电原局长魏文彬逝世",
       "onboard_time": 1769653160,
       "rank": 8,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 217685,
-      "num": 217685,
-      "word": "父母带娃爬野山孩子坠崖",
-      "onboard_time": 1769677704,
-      "rank": 7,
       "category": "民生新闻"
     },
     {
@@ -715,7 +723,7 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 170569,
+      "raw_hot": 176973,
       "num": 121037,
       "word": "刘亦菲三里屯打卡",
       "onboard_time": 1769676504,
@@ -899,6 +907,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 142798,
+      "num": 151666,
+      "word": "最近你买黄金了么",
+      "onboard_time": 1769677643,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 141737,
       "num": 114924,
       "word": "宋威龙曼谷",
@@ -913,6 +929,14 @@
       "onboard_time": 1769672064,
       "rank": 24,
       "category": "财经"
+    },
+    {
+      "raw_hot": 139403,
+      "num": 139403,
+      "word": "欧洲领导人排队访华美国急了",
+      "onboard_time": 1769678183,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 138998,
@@ -979,14 +1003,6 @@
       "category": "游戏,网红"
     },
     {
-      "raw_hot": 132040,
-      "num": 151666,
-      "word": "最近你买黄金了么",
-      "onboard_time": 1769677643,
-      "rank": 9,
-      "category": "财经"
-    },
-    {
       "raw_hot": 131127,
       "num": 131127,
       "word": "内娱最好笑的声明出现了",
@@ -1035,6 +1051,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 128063,
+      "num": 128063,
+      "word": "疑遭男护工多次猥亵渐冻症女子发声",
+      "onboard_time": 1769678244,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 126771,
       "num": 126771,
       "word": "黄金还能涨吗",
@@ -1067,12 +1091,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 122759,
-      "num": 122759,
-      "word": "欧洲领导人排队访华美国急了",
-      "onboard_time": 1769678183,
-      "rank": 18,
-      "category": "国际时政"
+      "raw_hot": 121720,
+      "num": 108874,
+      "word": "小S真的生了一个林志玲出来",
+      "onboard_time": 1769680945,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 120813,
@@ -1137,6 +1161,14 @@
       "onboard_time": 1769611645,
       "rank": 15,
       "category": "网红"
+    },
+    {
+      "raw_hot": 115777,
+      "num": 108678,
+      "word": "刘诗诗体力",
+      "onboard_time": 1769680405,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 115201,
@@ -1307,6 +1339,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 104300,
+      "num": 104300,
+      "word": "光明村村民去年收到的冰柜还没拆封",
+      "onboard_time": 1769679623,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103947,
       "num": 103947,
       "word": "詹姆斯哭了",
@@ -1411,6 +1451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 97661,
+      "num": 97661,
+      "word": "茅台发声明",
+      "onboard_time": 1769680405,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96900,
       "num": 96899,
       "word": "杨博文 在脑海里憋了一肚子的话",
@@ -1443,12 +1491,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 95481,
-      "num": 95481,
-      "word": "光明村村民去年收到的冰柜还没拆封",
-      "onboard_time": 1769679623,
-      "rank": 36,
-      "category": "民生新闻"
+      "raw_hot": 95151,
+      "num": 95151,
+      "word": "欧阳娜娜找到副业了",
+      "onboard_time": 1769679143,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 94746,
@@ -1489,6 +1537,14 @@
       "onboard_time": 1769677225,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 93590,
+      "num": 93590,
+      "word": "刷到你之前我简直在乱焦虑",
+      "onboard_time": 1769680583,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 93027,
@@ -1563,6 +1619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 89855,
+      "num": 89855,
+      "word": "明家11人临刑前进行了近亲属会面",
+      "onboard_time": 1769678244,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 89560,
       "num": 89560,
       "word": "草莓怎么成了中产鄙视链顶流",
@@ -1611,12 +1675,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 87138,
-      "num": 87138,
-      "word": "刘诗诗体力",
-      "onboard_time": 1769680405,
-      "rank": 41,
-      "category": "艺人"
+      "raw_hot": 87079,
+      "num": 87079,
+      "word": "Bin疑似离队",
+      "onboard_time": 1769681065,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 87045,
@@ -1699,6 +1763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 84553,
+      "num": 152534,
+      "word": "中国金币集团公告",
+      "onboard_time": 1769678903,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 84490,
       "num": 102864,
       "word": "太平年拍出了所有人的人生镜头",
@@ -1713,14 +1785,6 @@
       "onboard_time": 1769668944,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 84112,
-      "num": 84112,
-      "word": "明家11人临刑前进行了近亲属会面",
-      "onboard_time": 1769678244,
-      "rank": 43,
-      "category": "国内时政"
     },
     {
       "raw_hot": 84007,
@@ -1795,20 +1859,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 80366,
-      "num": 80366,
-      "word": "中国金币集团公告",
-      "onboard_time": 1769678903,
-      "rank": 46,
-      "category": "财经"
-    },
-    {
       "raw_hot": 80244,
       "num": 80244,
       "word": "张函瑞 那个拍子就是不小心错了一点",
       "onboard_time": 1769650099,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 80074,
+      "num": 80074,
+      "word": "中国电视剧年度盛典红毯",
+      "onboard_time": 1769680764,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 79957,
@@ -1833,14 +1897,6 @@
       "onboard_time": 1769653520,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 79024,
-      "num": 80357,
-      "word": "欧阳娜娜找到副业了",
-      "onboard_time": 1769679143,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 78502,
@@ -1888,14 +1944,6 @@
       "word": "23岁小伙出差归来突发失忆",
       "onboard_time": 1769665701,
       "rank": 44,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 76800,
-      "num": 76800,
-      "word": "茅台发声明",
-      "onboard_time": 1769680405,
-      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -2275,6 +2323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 40441,
+      "num": 122737,
+      "word": "聋哑拾荒者擅入垃圾站被碾压身亡",
+      "onboard_time": 1769679862,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39376,
       "num": 92290,
       "word": "朴彩英这是能说的吗",
@@ -2312,14 +2368,6 @@
       "word": "火灾报警响33分钟才有人冲进控制室",
       "onboard_time": 1769668644,
       "rank": 32,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 32210,
-      "num": 122737,
-      "word": "聋哑拾荒者擅入垃圾站被碾压身亡",
-      "onboard_time": 1769679862,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -2451,6 +2499,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 24359,
+      "num": 124232,
+      "word": "杰我睿引导消费者签署刑事谅解书",
+      "onboard_time": 1769680163,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23189,
       "num": 179779,
       "word": "林孝埈新身份沃尔沃品牌挚友",
@@ -2515,19 +2571,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 16213,
+      "num": 98407,
+      "word": "胖东来5个黄金柜台506名额全约满",
+      "onboard_time": 1769680824,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 16178,
       "num": 94097,
       "word": "在北京做了20年房地产后到舟山守岛",
       "onboard_time": 1769666063,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 15649,
-      "num": 122298,
-      "word": "杰我睿引导消费者签署刑事谅解书",
-      "onboard_time": 1769680163,
-      "rank": 22,
       "category": "民生新闻"
     },
     {

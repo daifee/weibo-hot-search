@@ -1,6 +1,6 @@
 {
   "startTime": 1769272464158,
-  "endTime": 1769680434567,
+  "endTime": 1769681137637,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -275,6 +275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1054116,
+      "num": 110685,
+      "word": "抖音崩了",
+      "onboard_time": 1769680824,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1045065,
       "num": 106611,
       "word": "梓渝不参加微博之夜",
@@ -499,20 +507,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 766992,
+      "num": 612667,
+      "word": "神仙肉 虞书欣",
+      "onboard_time": 1769675664,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 760517,
       "num": 272876,
       "word": "拒绝暗示性求助",
       "onboard_time": 1769565259,
       "rank": 5,
       "category": "情感"
-    },
-    {
-      "raw_hot": 751875,
-      "num": 612667,
-      "word": "神仙肉 虞书欣",
-      "onboard_time": 1769675664,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 750844,
@@ -780,7 +788,7 @@
     },
     {
       "raw_hot": 615828,
-      "num": 122389,
+      "num": 123099,
       "word": "李嘉格 我忍不住就想晒",
       "onboard_time": 1769677404,
       "rank": 37,
@@ -1091,6 +1099,14 @@
       "category": "艺人,游戏"
     },
     {
+      "raw_hot": 521984,
+      "num": 157855,
+      "word": "茅台",
+      "onboard_time": 1769676627,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
       "raw_hot": 521527,
       "num": 253890,
       "word": "盒马误送有毒水仙球致老人孩子中毒",
@@ -1153,14 +1169,6 @@
       "onboard_time": 1769602101,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 510589,
-      "num": 157855,
-      "word": "茅台",
-      "onboard_time": 1769676627,
-      "rank": 43,
-      "category": "财经"
     },
     {
       "raw_hot": 509847,
@@ -2763,6 +2771,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 287831,
+      "num": 150378,
+      "word": "刘强东乡亲妻子说还好自己嫁得早",
+      "onboard_time": 1769678124,
+      "rank": 12,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 287447,
       "num": 193680,
       "word": "赵樱子直播间发飙怼助理",
@@ -3017,14 +3033,6 @@
       "onboard_time": 1769418922,
       "rank": 30,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 271982,
-      "num": 146732,
-      "word": "刘强东乡亲妻子说还好自己嫁得早",
-      "onboard_time": 1769678124,
-      "rank": 12,
-      "category": "互联网"
     },
     {
       "raw_hot": 271743,
@@ -3699,6 +3707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 230436,
+      "num": 230436,
+      "word": "父母带娃爬野山孩子坠崖",
+      "onboard_time": 1769677704,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 230405,
       "num": 230405,
       "word": "一公司15名员工13人生育",
@@ -3857,14 +3873,6 @@
       "onboard_time": 1769495660,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 217685,
-      "num": 217685,
-      "word": "父母带娃爬野山孩子坠崖",
-      "onboard_time": 1769677704,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 217357,
@@ -4491,6 +4499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 176973,
+      "num": 121037,
+      "word": "刘亦菲三里屯打卡",
+      "onboard_time": 1769676504,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 176015,
       "num": 341085,
       "word": "易烊千玺4年前的表情包显化了",
@@ -4609,14 +4625,6 @@
       "onboard_time": 1769401942,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 170569,
-      "num": 121037,
-      "word": "刘亦菲三里屯打卡",
-      "onboard_time": 1769676504,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 170234,
@@ -5403,6 +5411,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 142798,
+      "num": 151666,
+      "word": "最近你买黄金了么",
+      "onboard_time": 1769677643,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 142063,
       "num": 142063,
       "word": "王嘉尔疑似直男被吓麻了",
@@ -5569,6 +5585,14 @@
       "onboard_time": 1769672064,
       "rank": 24,
       "category": "财经"
+    },
+    {
+      "raw_hot": 139403,
+      "num": 139403,
+      "word": "欧洲领导人排队访华美国急了",
+      "onboard_time": 1769678183,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 139365,
@@ -5875,14 +5899,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 132040,
-      "num": 151666,
-      "word": "最近你买黄金了么",
-      "onboard_time": 1769677643,
-      "rank": 9,
-      "category": "财经"
-    },
-    {
       "raw_hot": 131558,
       "num": 131558,
       "word": "陈飞宇 阿瑟这次真的很不一样",
@@ -6065,6 +6081,14 @@
       "onboard_time": 1769501541,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 128063,
+      "num": 128063,
+      "word": "疑遭男护工多次猥亵渐冻症女子发声",
+      "onboard_time": 1769678244,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128029,
@@ -6451,14 +6475,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 122759,
-      "num": 122759,
-      "word": "欧洲领导人排队访华美国急了",
-      "onboard_time": 1769678183,
-      "rank": 18,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 122748,
       "num": 122748,
       "word": "这些症状可能是白血病信号",
@@ -6521,6 +6537,14 @@
       "onboard_time": 1769383037,
       "rank": 23,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 121720,
+      "num": 108874,
+      "word": "小S真的生了一个林志玲出来",
+      "onboard_time": 1769680945,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 121648,
@@ -6897,6 +6921,14 @@
       "onboard_time": 1769488823,
       "rank": 31,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 115777,
+      "num": 108678,
+      "word": "刘诗诗体力",
+      "onboard_time": 1769680405,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 115718,
@@ -7875,6 +7907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 104300,
+      "num": 104300,
+      "word": "光明村村民去年收到的冰柜还没拆封",
+      "onboard_time": 1769679623,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104197,
       "num": 104197,
       "word": "徐正溪何不同舟渡开机",
@@ -8579,6 +8619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 97661,
+      "num": 97661,
+      "word": "茅台发声明",
+      "onboard_time": 1769680405,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97659,
       "num": 97659,
       "word": "胡歌金巴肤色差了十个度",
@@ -8963,14 +9011,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 95481,
-      "num": 95481,
-      "word": "光明村村民去年收到的冰柜还没拆封",
-      "onboard_time": 1769679623,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 95321,
       "num": 95321,
       "word": "刘强东连续多年给老家送年货",
@@ -9001,6 +9041,14 @@
       "onboard_time": 1769588420,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 95151,
+      "num": 95151,
+      "word": "欧阳娜娜找到副业了",
+      "onboard_time": 1769679143,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 95102,
@@ -9241,6 +9289,14 @@
       "onboard_time": 1769589259,
       "rank": 42,
       "category": "财经"
+    },
+    {
+      "raw_hot": 93590,
+      "num": 93590,
+      "word": "刷到你之前我简直在乱焦虑",
+      "onboard_time": 1769680583,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 93541,
@@ -9803,6 +9859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 89855,
+      "num": 89855,
+      "word": "明家11人临刑前进行了近亲属会面",
+      "onboard_time": 1769678244,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 89839,
       "num": 89839,
       "word": "鹅鸭杀回应雷军",
@@ -10115,12 +10179,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 87138,
-      "num": 87138,
-      "word": "刘诗诗体力",
-      "onboard_time": 1769680405,
-      "rank": 41,
-      "category": "艺人"
+      "raw_hot": 87079,
+      "num": 87079,
+      "word": "Bin疑似离队",
+      "onboard_time": 1769681065,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 87045,
@@ -10531,6 +10595,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 84553,
+      "num": 152534,
+      "word": "中国金币集团公告",
+      "onboard_time": 1769678903,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 84540,
       "num": 190440,
       "word": "麦琳何美延都开始直播带货了",
@@ -10593,14 +10665,6 @@
       "onboard_time": 1769402063,
       "rank": 47,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 84112,
-      "num": 84112,
-      "word": "明家11人临刑前进行了近亲属会面",
-      "onboard_time": 1769678244,
-      "rank": 43,
-      "category": "国内时政"
     },
     {
       "raw_hot": 84099,
@@ -11139,14 +11203,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 80366,
-      "num": 80366,
-      "word": "中国金币集团公告",
-      "onboard_time": 1769678903,
-      "rank": 46,
-      "category": "财经"
-    },
-    {
       "raw_hot": 80348,
       "num": 80348,
       "word": "冬季风暴纽约5人死在室外",
@@ -11161,6 +11217,14 @@
       "onboard_time": 1769650099,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 80074,
+      "num": 80074,
+      "word": "中国电视剧年度盛典红毯",
+      "onboard_time": 1769680764,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 80067,
@@ -11305,14 +11369,6 @@
       "onboard_time": 1769425161,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 79024,
-      "num": 80357,
-      "word": "欧阳娜娜找到副业了",
-      "onboard_time": 1769679143,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 78778,
@@ -11657,14 +11713,6 @@
       "onboard_time": 1769491701,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 76800,
-      "num": 76800,
-      "word": "茅台发声明",
-      "onboard_time": 1769680405,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 76716,
@@ -13987,6 +14035,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 40441,
+      "num": 122737,
+      "word": "聋哑拾荒者擅入垃圾站被碾压身亡",
+      "onboard_time": 1769679862,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40355,
       "num": 143892,
       "word": "泰国全面筛查尼帕病毒风险航班",
@@ -14457,14 +14513,6 @@
       "onboard_time": 1769534956,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 32210,
-      "num": 122737,
-      "word": "聋哑拾荒者擅入垃圾站被碾压身亡",
-      "onboard_time": 1769679862,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 32014,
@@ -14939,6 +14987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 24359,
+      "num": 124232,
+      "word": "杰我睿引导消费者签署刑事谅解书",
+      "onboard_time": 1769680163,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23918,
       "num": 115491,
       "word": "美70岁抗议者在催泪瓦斯中愤怒咆哮",
@@ -15371,6 +15427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 16213,
+      "num": 98407,
+      "word": "胖东来5个黄金柜台506名额全约满",
+      "onboard_time": 1769680824,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 16178,
       "num": 94097,
       "word": "在北京做了20年房地产后到舟山守岛",
@@ -15408,14 +15472,6 @@
       "word": "女生找代练被骗99元找骗子又被骗12万",
       "onboard_time": 1769578823,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 15649,
-      "num": 122298,
-      "word": "杰我睿引导消费者签署刑事谅解书",
-      "onboard_time": 1769680163,
-      "rank": 22,
       "category": "民生新闻"
     },
     {
