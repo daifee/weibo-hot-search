@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/29 19:38:29
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/29 19:53:56
 </p>
 </blockquote>
 <p>
@@ -207,6 +207,12 @@ WB冠军（热度：3566119）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23Bin%E7%96%91%E4%BC%BC%E7%A6%BB%E9%98%9F%23" target="weibo">
+Bin疑似离队（热度：2802556）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23U23%E5%9B%BD%E8%B6%B3%E4%BA%9A%E5%86%9B%23" target="weibo">
 U23国足亚军（热度：2760241）
 </a>
@@ -227,12 +233,6 @@ Asen回应Sakee（热度：2704539）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A6%E7%94%9F%E5%AE%B6%E4%B8%AD%E8%87%AA%E6%9D%80%E7%95%99%E4%B8%8B%E9%81%97%E4%B9%A6%23" target="weibo">
 小学生家中自杀留下遗书（热度：2692974）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Bin%E7%96%91%E4%BC%BC%E7%A6%BB%E9%98%9F%23" target="weibo">
-Bin疑似离队（热度：2684727）
 </a>
 </li>
 

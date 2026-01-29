@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769686709148,
+  "endTime": 1769687636576,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -259,6 +259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2802556,
+      "num": 637464,
+      "word": "Bin疑似离队",
+      "onboard_time": 1769681065,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 2760241,
       "num": 2760241,
       "word": "U23国足亚军",
@@ -289,14 +297,6 @@
       "onboard_time": 1768188080,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 2684727,
-      "num": 637464,
-      "word": "Bin疑似离队",
-      "onboard_time": 1769681065,
-      "rank": 46,
-      "category": "电竞"
     },
     {
       "raw_hot": 2679279,
@@ -572,7 +572,7 @@
     },
     {
       "raw_hot": 1823580,
-      "num": 143117,
+      "num": 190149,
       "word": "小S真的生了一个林志玲出来",
       "onboard_time": 1769680945,
       "rank": 34,
@@ -1628,7 +1628,7 @@
     },
     {
       "raw_hot": 1054116,
-      "num": 141162,
+      "num": 149119,
       "word": "抖音崩了",
       "onboard_time": 1769680824,
       "rank": 30,
