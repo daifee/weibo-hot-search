@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/25 00:34:24 ~ 2026/01/30 04:40:20
+本榜单时间：2026/01/25 00:34:24 ~ 2026/01/30 04:55:03
 </p>
 </blockquote>
 <p>
@@ -12471,6 +12471,12 @@ papi酱想象中的春晚导演（热度：20154）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BB%E6%B2%BB%E5%8C%BB%E7%94%9F%E5%93%AD%E7%9D%80%E8%AF%B4%E5%B7%B2%E6%83%B3%E5%B0%BD%E5%8A%9E%E6%B3%95%E7%95%99%E4%BD%8F%E8%B1%AA%E8%B1%AA%23" target="weibo">
+主治医生哭着说已想尽办法留住豪豪（热度：16834）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%80%80%E6%96%87%E7%9C%8B%E9%BB%84%E5%AD%90%E9%9F%AC%E8%84%B1%E8%A3%A4%E5%AD%90%E7%9A%84%E8%A1%A8%E6%83%85%23" target="weibo">
 刘耀文看黄子韬脱裤子的表情（热度：16774）
 </a>
@@ -12611,12 +12617,6 @@ U23亚洲杯中国队赛前喊话（热度：13829）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A3%B0%E9%B8%A3%E8%BF%9C%E6%89%AC%E7%9B%B4%E6%92%AD%23" target="weibo">
 声鸣远扬直播（热度：12542）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BB%E6%B2%BB%E5%8C%BB%E7%94%9F%E5%93%AD%E7%9D%80%E8%AF%B4%E5%B7%B2%E6%83%B3%E5%B0%BD%E5%8A%9E%E6%B3%95%E7%95%99%E4%BD%8F%E8%B1%AA%E8%B1%AA%23" target="weibo">
-主治医生哭着说已想尽办法留住豪豪（热度：12465）
 </a>
 </li>
 
