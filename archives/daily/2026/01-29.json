@@ -1,6 +1,6 @@
 {
   "startTime": 1769616009567,
-  "endTime": 1769670848078,
+  "endTime": 1769672848697,
   "band_list": [
     {
       "raw_hot": 8542912,
@@ -11,8 +11,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 3832389,
-      "num": 168474,
+      "raw_hot": 6789539,
+      "num": 6789539,
       "word": "曝金晨交通事故监控截图",
       "onboard_time": 1769670383,
       "rank": 15,
@@ -275,6 +275,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 390026,
+      "num": 790967,
+      "word": "歌手2026",
+      "onboard_time": 1769669184,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 366157,
       "num": 805885,
       "word": "微博之夜阵容",
@@ -292,19 +300,19 @@
     },
     {
       "raw_hot": 353289,
-      "num": 333789,
+      "num": 492536,
       "word": "23岁男子呕吐4天后竟突然失忆",
       "onboard_time": 1769663663,
       "rank": 21,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 342332,
-      "num": 342332,
-      "word": "歌手2026",
-      "onboard_time": 1769669184,
-      "rank": 13,
-      "category": "综艺"
+      "raw_hot": 342377,
+      "num": 150726,
+      "word": "建议脚臭的都去穿五指袜",
+      "onboard_time": 1769670683,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 337921,
@@ -337,6 +345,14 @@
       "onboard_time": 1769657781,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 322747,
+      "num": 150437,
+      "word": "恩利说庾澄庆有老花眼",
+      "onboard_time": 1769668581,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 318406,
@@ -377,6 +393,14 @@
       "onboard_time": 1769664742,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 292605,
+      "num": 109270,
+      "word": "缅甸出现一处3000人新诈骗园区",
+      "onboard_time": 1769671584,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 285455,
@@ -635,6 +659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 152162,
+      "num": 165035,
+      "word": "李川被六岁小孩骂了",
+      "onboard_time": 1769670445,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 151693,
       "num": 151693,
       "word": "气血足不足看身体这3个部位",
@@ -731,6 +763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134718,
+      "num": 134718,
+      "word": "第一次这么直观感受萝卜岗",
+      "onboard_time": 1769670983,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 134249,
       "num": 134249,
       "word": "第一个领到刘强东年货大爷发声",
@@ -803,12 +843,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 119005,
-      "num": 165035,
-      "word": "李川被六岁小孩骂了",
-      "onboard_time": 1769670445,
-      "rank": 18,
-      "category": "综艺"
+      "raw_hot": 123544,
+      "num": 165687,
+      "word": "健康福和敬业福你们别打了",
+      "onboard_time": 1769670323,
+      "rank": 17,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 120019,
+      "num": 120019,
+      "word": "A股半导体板块大涨",
+      "onboard_time": 1769672064,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 118494,
@@ -891,12 +939,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 114278,
+      "num": 114278,
+      "word": "狂犬病的病死率几乎为100%",
+      "onboard_time": 1769671463,
+      "rank": 27,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 114177,
       "num": 681543,
       "word": "全国气温回升大趋势成定局",
       "onboard_time": 1769658200,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112782,
+      "num": 106656,
+      "word": "村支书说刘强东送年货也带来泼天流量",
+      "onboard_time": 1769669783,
+      "rank": 40,
+      "category": "互联网"
     },
     {
       "raw_hot": 112641,
@@ -923,6 +987,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 110260,
+      "num": 110260,
+      "word": "女子2次宫外孕后再怀孕致子宫撕裂",
+      "onboard_time": 1769670983,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108756,
       "num": 104573,
       "word": "黄圣依饶雪漫首搭短剧开机",
@@ -931,28 +1003,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 106971,
-      "num": 106971,
-      "word": "建议脚臭的都去穿五指袜",
-      "onboard_time": 1769670683,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 106786,
       "num": 106786,
       "word": "印度男子为上医学院砍断一只脚",
       "onboard_time": 1769650700,
       "rank": 33,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 106656,
-      "num": 106656,
-      "word": "村支书说刘强东送年货也带来泼天流量",
-      "onboard_time": 1769669783,
-      "rank": 40,
-      "category": "互联网"
     },
     {
       "raw_hot": 106605,
@@ -969,6 +1025,14 @@
       "onboard_time": 1769669122,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 105707,
+      "num": 105707,
+      "word": "坚持早睡30天的脸部变化",
+      "onboard_time": 1769672243,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 105685,
@@ -1075,6 +1139,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 99707,
+      "num": 99707,
+      "word": "谢依霖夸杨幂素颜很漂亮",
+      "onboard_time": 1769672005,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 98585,
       "num": 98585,
       "word": "港股黄金板块集体大涨",
@@ -1115,6 +1187,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 94836,
+      "num": 94836,
+      "word": "三金该不该退出备婚清单",
+      "onboard_time": 1769672064,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 94746,
       "num": 94746,
       "word": "阚清子事业心",
@@ -1131,12 +1211,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94424,
+      "num": 94424,
+      "word": "沈佳润举了nina的小镜子",
+      "onboard_time": 1769672605,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 93922,
       "num": 93922,
       "word": "2026LPL电竞春晚",
       "onboard_time": 1769663183,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 93027,
+      "num": 90167,
+      "word": "25斤的宝宝有24斤的心眼子",
+      "onboard_time": 1769671104,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 92521,
@@ -1171,6 +1267,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 91284,
+      "num": 91284,
+      "word": "买房剩下二楼和顶楼应该怎么选",
+      "onboard_time": 1769672123,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 91231,
       "num": 91231,
       "word": "黄金柜台3小时卖120万元金条",
@@ -1179,12 +1283,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 90854,
+      "num": 90854,
+      "word": "宋威龙微博之夜官宣",
+      "onboard_time": 1769671825,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 90653,
       "num": 90653,
       "word": "上海申花天津津门虎被罚10分",
       "onboard_time": 1769656039,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 89283,
+      "num": 89283,
+      "word": "周五晚高疯定档",
+      "onboard_time": 1769672005,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 88114,
@@ -1291,6 +1411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 83994,
+      "num": 83994,
+      "word": "阿里发布性能比肩英伟达H20的芯片",
+      "onboard_time": 1769672367,
+      "rank": 43,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 83360,
       "num": 83360,
       "word": "老一辈人要面子真的不分场合",
@@ -1347,6 +1475,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 80433,
+      "num": 80433,
+      "word": "王者限定皮肤返场票选",
+      "onboard_time": 1769670804,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 80244,
       "num": 80244,
       "word": "张函瑞 那个拍子就是不小心错了一点",
@@ -1371,12 +1507,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 79062,
-      "num": 79062,
-      "word": "王者限定皮肤返场票选",
-      "onboard_time": 1769670804,
+      "raw_hot": 78502,
+      "num": 78502,
+      "word": "宿迁001号退休快递员养老金达4600",
+      "onboard_time": 1769671705,
+      "rank": 46,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 78401,
+      "num": 78401,
+      "word": "资源股全线爆发",
+      "onboard_time": 1769672605,
       "rank": 48,
-      "category": "游戏"
+      "category": "财经"
     },
     {
       "raw_hot": 78215,
@@ -1385,6 +1529,14 @@
       "onboard_time": 1769670804,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 78197,
+      "num": 78197,
+      "word": "中国短道队1月31日前往米兰",
+      "onboard_time": 1769672724,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 77763,
@@ -1651,14 +1803,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 52048,
-      "num": 165687,
-      "word": "健康福和敬业福你们别打了",
-      "onboard_time": 1769670323,
-      "rank": 17,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 51466,
       "num": 51466,
       "word": "李兰迪 耳环消失术",
@@ -1875,6 +2019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 27217,
+      "num": 90918,
+      "word": "企业宣布4天工作制后千人想应聘",
+      "onboard_time": 1769672425,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26834,
       "num": 107723,
       "word": "美国男子遭两名ICE人员开枪",
@@ -1929,6 +2081,14 @@
       "onboard_time": 1769653580,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 18619,
+      "num": 114670,
+      "word": "误购车票30分钟内免费退将常态化",
+      "onboard_time": 1769672605,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17996,
