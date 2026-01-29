@@ -1,6 +1,6 @@
 {
   "startTime": 1769272464158,
-  "endTime": 1769677652464,
+  "endTime": 1769680434567,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -395,6 +395,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 856042,
+      "num": 599357,
+      "word": "奉劝大家还是尽量多存钱",
+      "onboard_time": 1769676204,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 845845,
       "num": 310032,
       "word": "空姐笑了半小时才把橙汁倒下去",
@@ -497,6 +505,14 @@
       "onboard_time": 1769565259,
       "rank": 5,
       "category": "情感"
+    },
+    {
+      "raw_hot": 751875,
+      "num": 612667,
+      "word": "神仙肉 虞书欣",
+      "onboard_time": 1769675664,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 750844,
@@ -763,6 +779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 615828,
+      "num": 122389,
+      "word": "李嘉格 我忍不住就想晒",
+      "onboard_time": 1769677404,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 614076,
       "num": 174914,
       "word": "一家三口被撞身亡案家属抗诉被驳回",
@@ -779,14 +803,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 612667,
-      "num": 612667,
-      "word": "神仙肉 虞书欣",
-      "onboard_time": 1769675664,
-      "rank": 3,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 606996,
       "num": 404058,
       "word": "不建议马桶使用蓝泡泡",
@@ -801,14 +817,6 @@
       "onboard_time": 1769344401,
       "rank": 18,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 599357,
-      "num": 599357,
-      "word": "奉劝大家还是尽量多存钱",
-      "onboard_time": 1769676204,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 596249,
@@ -1145,6 +1153,14 @@
       "onboard_time": 1769602101,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 510589,
+      "num": 157855,
+      "word": "茅台",
+      "onboard_time": 1769676627,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 509847,
@@ -1913,6 +1929,14 @@
       "onboard_time": 1769527222,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 374627,
+      "num": 801391,
+      "word": "男子刮刮乐中100万旁边大哥羡慕了",
+      "onboard_time": 1769676204,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 367868,
@@ -2875,14 +2899,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 279743,
-      "num": 576953,
-      "word": "男子刮刮乐中100万旁边大哥羡慕了",
-      "onboard_time": 1769676204,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 279713,
       "num": 279713,
       "word": "2026年房价会涨还是跌",
@@ -2963,6 +2979,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 273348,
+      "num": 239667,
+      "word": "王星和女友官宣微博之夜",
+      "onboard_time": 1769676564,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 273174,
       "num": 273174,
       "word": "伊朗总统宣布启动紧急状态",
@@ -2993,6 +3017,14 @@
       "onboard_time": 1769418922,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 271982,
+      "num": 146732,
+      "word": "刘强东乡亲妻子说还好自己嫁得早",
+      "onboard_time": 1769678124,
+      "rank": 12,
+      "category": "互联网"
     },
     {
       "raw_hot": 271743,
@@ -3499,14 +3531,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 239667,
-      "num": 239667,
-      "word": "王星和女友官宣微博之夜",
-      "onboard_time": 1769676564,
-      "rank": 38,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 237670,
       "num": 154178,
       "word": "商家在我的豆浆里放了个杯子",
@@ -3833,6 +3857,14 @@
       "onboard_time": 1769495660,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 217685,
+      "num": 217685,
+      "word": "父母带娃爬野山孩子坠崖",
+      "onboard_time": 1769677704,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 217357,
@@ -4579,6 +4611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 170569,
+      "num": 121037,
+      "word": "刘亦菲三里屯打卡",
+      "onboard_time": 1769676504,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 170234,
       "num": 131607,
       "word": "爱情公寓真的是太超前了",
@@ -4849,14 +4889,6 @@
       "onboard_time": 1769392580,
       "rank": 22,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 157855,
-      "num": 157855,
-      "word": "茅台",
-      "onboard_time": 1769676627,
-      "rank": 43,
-      "category": "财经"
     },
     {
       "raw_hot": 157762,
@@ -5387,6 +5419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 141737,
+      "num": 114924,
+      "word": "宋威龙曼谷",
+      "onboard_time": 1769677643,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141723,
       "num": 141723,
       "word": "过节的马年梗还能有多离谱",
@@ -5833,6 +5873,14 @@
       "onboard_time": 1769420362,
       "rank": 18,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 132040,
+      "num": 151666,
+      "word": "最近你买黄金了么",
+      "onboard_time": 1769677643,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 131558,
@@ -6403,6 +6451,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 122759,
+      "num": 122759,
+      "word": "欧洲领导人排队访华美国急了",
+      "onboard_time": 1769678183,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 122748,
       "num": 122748,
       "word": "这些症状可能是白血病信号",
@@ -6513,14 +6569,6 @@
       "onboard_time": 1769308879,
       "rank": 21,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 121037,
-      "num": 121037,
-      "word": "刘亦菲三里屯打卡",
-      "onboard_time": 1769676504,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 120863,
@@ -6793,14 +6841,6 @@
       "onboard_time": 1769496260,
       "rank": 42,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 116335,
-      "num": 101539,
-      "word": "李嘉格 我忍不住就想晒",
-      "onboard_time": 1769677404,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 116323,
@@ -8923,6 +8963,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 95481,
+      "num": 95481,
+      "word": "光明村村民去年收到的冰柜还没拆封",
+      "onboard_time": 1769679623,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 95321,
       "num": 95321,
       "word": "刘强东连续多年给老家送年货",
@@ -9979,6 +10027,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 87802,
+      "num": 87802,
+      "word": "JieJie谈队内两个赵大哥梗",
+      "onboard_time": 1769679563,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 87676,
       "num": 89830,
       "word": "男生是HPV高风险人群吗",
@@ -10057,6 +10113,14 @@
       "onboard_time": 1769406501,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 87138,
+      "num": 87138,
+      "word": "刘诗诗体力",
+      "onboard_time": 1769680405,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 87045,
@@ -10273,6 +10337,14 @@
       "onboard_time": 1769357661,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 85747,
+      "num": 190349,
+      "word": "澳网2026",
+      "onboard_time": 1769356462,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 85745,
@@ -10521,6 +10593,14 @@
       "onboard_time": 1769402063,
       "rank": 47,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 84112,
+      "num": 84112,
+      "word": "明家11人临刑前进行了近亲属会面",
+      "onboard_time": 1769678244,
+      "rank": 43,
+      "category": "国内时政"
     },
     {
       "raw_hot": 84099,
@@ -11059,6 +11139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 80366,
+      "num": 80366,
+      "word": "中国金币集团公告",
+      "onboard_time": 1769678903,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 80348,
       "num": 80348,
       "word": "冬季风暴纽约5人死在室外",
@@ -11217,6 +11305,14 @@
       "onboard_time": 1769425161,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 79024,
+      "num": 80357,
+      "word": "欧阳娜娜找到副业了",
+      "onboard_time": 1769679143,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 78778,
@@ -11561,6 +11657,14 @@
       "onboard_time": 1769491701,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 76800,
+      "num": 76800,
+      "word": "茅台发声明",
+      "onboard_time": 1769680405,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 76716,
@@ -13019,6 +13123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 58909,
+      "num": 80393,
+      "word": "缅甸新诈骗园区距KK园区仅5公里",
+      "onboard_time": 1769678964,
+      "rank": 45,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 58837,
       "num": 58837,
       "word": "周渝民一家三口看王心凌演唱会",
@@ -13337,6 +13449,14 @@
       "onboard_time": 1769528419,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 51982,
+      "num": 88708,
+      "word": "孙怡壁咚龚俊镜头",
+      "onboard_time": 1769679443,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 51511,
@@ -13673,14 +13793,6 @@
       "onboard_time": 1769600242,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 43868,
-      "num": 190349,
-      "word": "澳网2026",
-      "onboard_time": 1769356462,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 43721,
@@ -14347,6 +14459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 32210,
+      "num": 122737,
+      "word": "聋哑拾荒者擅入垃圾站被碾压身亡",
+      "onboard_time": 1769679862,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32014,
       "num": 106852,
       "word": "豪华电动超跑教父最新力作",
@@ -14604,7 +14724,7 @@
     },
     {
       "raw_hot": 27472,
-      "num": 636040,
+      "num": 637463,
       "word": "中国牌晶体刷新3项世界纪录",
       "onboard_time": 1769675724,
       "rank": 2,
@@ -15115,6 +15235,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 18591,
+      "num": 87881,
+      "word": "献血不免票景区被行政处罚",
+      "onboard_time": 1769679623,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18308,
       "num": 98312,
       "word": "投资者称杰我睿平台涉资超百亿",
@@ -15280,6 +15408,14 @@
       "word": "女生找代练被骗99元找骗子又被骗12万",
       "onboard_time": 1769578823,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15649,
+      "num": 122298,
+      "word": "杰我睿引导消费者签署刑事谅解书",
+      "onboard_time": 1769680163,
+      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -15552,6 +15688,9 @@
     },
     {
       "word": "#中英两国合作一定能一马当先#"
+    },
+    {
+      "word": "#中英合作一定能一马当先#"
     }
   ]
 }

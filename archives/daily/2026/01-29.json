@@ -1,6 +1,6 @@
 {
   "startTime": 1769616009567,
-  "endTime": 1769677652464,
+  "endTime": 1769680434567,
   "band_list": [
     {
       "raw_hot": 8542912,
@@ -99,12 +99,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 856042,
+      "num": 599357,
+      "word": "奉劝大家还是尽量多存钱",
+      "onboard_time": 1769676204,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 818986,
       "num": 1131037,
       "word": "女子因幼犬轻咬未处理引发狂犬病",
       "onboard_time": 1769667322,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 751875,
+      "num": 612667,
+      "word": "神仙肉 虞书欣",
+      "onboard_time": 1769675664,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 653650,
@@ -131,20 +147,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 612667,
-      "num": 612667,
-      "word": "神仙肉 虞书欣",
-      "onboard_time": 1769675664,
-      "rank": 3,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 599357,
-      "num": 599357,
-      "word": "奉劝大家还是尽量多存钱",
-      "onboard_time": 1769676204,
-      "rank": 30,
-      "category": "情感"
+      "raw_hot": 615828,
+      "num": 122389,
+      "word": "李嘉格 我忍不住就想晒",
+      "onboard_time": 1769677404,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 595324,
@@ -201,6 +209,14 @@
       "onboard_time": 1769603661,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 510589,
+      "num": 157855,
+      "word": "茅台",
+      "onboard_time": 1769676627,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 490676,
@@ -313,6 +329,14 @@
       "onboard_time": 1769601681,
       "rank": 1,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 374627,
+      "num": 801391,
+      "word": "男子刮刮乐中100万旁边大哥羡慕了",
+      "onboard_time": 1769676204,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 366157,
@@ -475,14 +499,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 279743,
-      "num": 576953,
-      "word": "男子刮刮乐中100万旁边大哥羡慕了",
-      "onboard_time": 1769676204,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 277193,
       "num": 184510,
       "word": "王橹杰新音总结",
@@ -491,12 +507,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 273348,
+      "num": 239667,
+      "word": "王星和女友官宣微博之夜",
+      "onboard_time": 1769676564,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 272691,
       "num": 123716,
       "word": "32岁猝死的程序员代码中写着反996",
       "onboard_time": 1769658980,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 271982,
+      "num": 146732,
+      "word": "刘强东乡亲妻子说还好自己嫁得早",
+      "onboard_time": 1769678124,
+      "rank": 12,
+      "category": "互联网"
     },
     {
       "raw_hot": 266874,
@@ -555,14 +587,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 239667,
-      "num": 239667,
-      "word": "王星和女友官宣微博之夜",
-      "onboard_time": 1769676564,
-      "rank": 38,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 231648,
       "num": 212676,
       "word": "橙子是非常私密的水果",
@@ -600,6 +624,14 @@
       "word": "湖南广电原局长魏文彬逝世",
       "onboard_time": 1769653160,
       "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 217685,
+      "num": 217685,
+      "word": "父母带娃爬野山孩子坠崖",
+      "onboard_time": 1769677704,
+      "rank": 7,
       "category": "民生新闻"
     },
     {
@@ -683,6 +715,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 170569,
+      "num": 121037,
+      "word": "刘亦菲三里屯打卡",
+      "onboard_time": 1769676504,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 169360,
       "num": 145083,
       "word": "张奕然发烧",
@@ -745,14 +785,6 @@
       "onboard_time": 1769616441,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 157855,
-      "num": 157855,
-      "word": "茅台",
-      "onboard_time": 1769676627,
-      "rank": 43,
-      "category": "财经"
     },
     {
       "raw_hot": 156801,
@@ -867,6 +899,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 141737,
+      "num": 114924,
+      "word": "宋威龙曼谷",
+      "onboard_time": 1769677643,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 139481,
       "num": 139481,
       "word": "A股半导体板块大涨",
@@ -937,6 +977,14 @@
       "onboard_time": 1769614401,
       "rank": 31,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 132040,
+      "num": 151666,
+      "word": "最近你买黄金了么",
+      "onboard_time": 1769677643,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 131127,
@@ -1019,12 +1067,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 121037,
-      "num": 121037,
-      "word": "刘亦菲三里屯打卡",
-      "onboard_time": 1769676504,
-      "rank": 37,
-      "category": "艺人"
+      "raw_hot": 122759,
+      "num": 122759,
+      "word": "欧洲领导人排队访华美国急了",
+      "onboard_time": 1769678183,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 120813,
@@ -1064,14 +1112,6 @@
       "word": "迪丽热巴全女拉娘 渣女文学",
       "onboard_time": 1769668944,
       "rank": 19,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 116335,
-      "num": 101539,
-      "word": "李嘉格 我忍不住就想晒",
-      "onboard_time": 1769677404,
-      "rank": 37,
       "category": "艺人"
     },
     {
@@ -1403,6 +1443,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 95481,
+      "num": 95481,
+      "word": "光明村村民去年收到的冰柜还没拆封",
+      "onboard_time": 1769679623,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94746,
       "num": 94746,
       "word": "阚清子事业心",
@@ -1539,6 +1587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 87802,
+      "num": 87802,
+      "word": "JieJie谈队内两个赵大哥梗",
+      "onboard_time": 1769679563,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 87563,
       "num": 87563,
       "word": "王星越抱起白鹿就百米冲刺",
@@ -1553,6 +1609,14 @@
       "onboard_time": 1769663902,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 87138,
+      "num": 87138,
+      "word": "刘诗诗体力",
+      "onboard_time": 1769680405,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 87045,
@@ -1585,6 +1649,14 @@
       "onboard_time": 1769666424,
       "rank": 45,
       "category": "数码"
+    },
+    {
+      "raw_hot": 85747,
+      "num": 85747,
+      "word": "澳网2026",
+      "onboard_time": 1769679684,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 85174,
@@ -1641,6 +1713,14 @@
       "onboard_time": 1769668944,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 84112,
+      "num": 84112,
+      "word": "明家11人临刑前进行了近亲属会面",
+      "onboard_time": 1769678244,
+      "rank": 43,
+      "category": "国内时政"
     },
     {
       "raw_hot": 84007,
@@ -1715,6 +1795,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 80366,
+      "num": 80366,
+      "word": "中国金币集团公告",
+      "onboard_time": 1769678903,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 80244,
       "num": 80244,
       "word": "张函瑞 那个拍子就是不小心错了一点",
@@ -1745,6 +1833,14 @@
       "onboard_time": 1769653520,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 79024,
+      "num": 80357,
+      "word": "欧阳娜娜找到副业了",
+      "onboard_time": 1769679143,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 78502,
@@ -1792,6 +1888,14 @@
       "word": "23岁小伙出差归来突发失忆",
       "onboard_time": 1769665701,
       "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76800,
+      "num": 76800,
+      "word": "茅台发声明",
+      "onboard_time": 1769680405,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -1955,6 +2059,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 58909,
+      "num": 80393,
+      "word": "缅甸新诈骗园区距KK园区仅5公里",
+      "onboard_time": 1769678964,
+      "rank": 45,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 58588,
       "num": 92262,
       "word": "朴彩英曾扮成老奶奶去约会",
@@ -2049,6 +2161,14 @@
       "onboard_time": 1769609902,
       "rank": 46,
       "category": "美食"
+    },
+    {
+      "raw_hot": 51982,
+      "num": 88708,
+      "word": "孙怡壁咚龚俊镜头",
+      "onboard_time": 1769679443,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 51466,
@@ -2195,6 +2315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 32210,
+      "num": 122737,
+      "word": "聋哑拾荒者擅入垃圾站被碾压身亡",
+      "onboard_time": 1769679862,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31615,
       "num": 44428,
       "word": "胖东来回应金条库存",
@@ -2300,7 +2428,7 @@
     },
     {
       "raw_hot": 27472,
-      "num": 636040,
+      "num": 637463,
       "word": "中国牌晶体刷新3项世界纪录",
       "onboard_time": 1769675724,
       "rank": 2,
@@ -2363,6 +2491,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 18591,
+      "num": 87881,
+      "word": "献血不免票景区被行政处罚",
+      "onboard_time": 1769679623,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 17996,
       "num": 96900,
       "word": "抢茅台过年用的计划泡汤了",
@@ -2384,6 +2520,14 @@
       "word": "在北京做了20年房地产后到舟山守岛",
       "onboard_time": 1769666063,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15649,
+      "num": 122298,
+      "word": "杰我睿引导消费者签署刑事谅解书",
+      "onboard_time": 1769680163,
+      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -2428,6 +2572,9 @@
     },
     {
       "word": "#中英两国合作一定能一马当先#"
+    },
+    {
+      "word": "#中英合作一定能一马当先#"
     }
   ]
 }
