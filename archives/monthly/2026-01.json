@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769666801242,
+  "endTime": 1769669990401,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -889,6 +889,14 @@
       "onboard_time": 1769142982,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1390951,
+      "num": 1106754,
+      "word": "国安 人在做天在看",
+      "onboard_time": 1769666424,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 1379281,
@@ -1915,6 +1923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 980755,
+      "num": 195395,
+      "word": "白酒",
+      "onboard_time": 1769667083,
+      "rank": 15,
+      "category": "财经"
+    },
+    {
       "raw_hot": 977384,
       "num": 592323,
       "word": "霸王茶姬辞退涉事店员",
@@ -2931,6 +2947,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 804273,
+      "num": 189575,
+      "word": "曝庾澄庆经常不回恩利信息",
+      "onboard_time": 1769668581,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 803737,
       "num": 135140,
       "word": "戚薇女儿Luvky转眼长成大姑娘啦",
@@ -3481,6 +3505,14 @@
       "onboard_time": 1767606682,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 732998,
+      "num": 1117279,
+      "word": "女子因幼犬轻咬未处理引发狂犬病",
+      "onboard_time": 1769667322,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 732768,
@@ -4153,14 +4185,6 @@
       "onboard_time": 1768272980,
       "rank": 11,
       "category": "财经"
-    },
-    {
-      "raw_hot": 667213,
-      "num": 1106754,
-      "word": "国安 人在做天在看",
-      "onboard_time": 1769666424,
-      "rank": 0,
-      "category": "体育"
     },
     {
       "raw_hot": 667067,
@@ -7995,6 +8019,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 489982,
+      "num": 833335,
+      "word": "快乐大本营创办者去世",
+      "onboard_time": 1769656940,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 489758,
       "num": 377887,
       "word": "黄慧颐晒结婚证",
@@ -8713,14 +8745,6 @@
       "onboard_time": 1767968061,
       "rank": 8,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 470269,
-      "num": 470269,
-      "word": "快乐大本营创办者去世",
-      "onboard_time": 1769656940,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 470266,
@@ -12891,6 +12915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 360171,
+      "num": 360171,
+      "word": "微博之夜阵容",
+      "onboard_time": 1769665882,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 360040,
       "num": 801724,
       "word": "车厘子价格暴跌商家却赚麻了",
@@ -13276,7 +13308,7 @@
     },
     {
       "raw_hot": 353289,
-      "num": 181207,
+      "num": 333789,
       "word": "23岁男子呕吐4天后竟突然失忆",
       "onboard_time": 1769663663,
       "rank": 21,
@@ -15179,14 +15211,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 318938,
-      "num": 318938,
-      "word": "微博之夜阵容",
-      "onboard_time": 1769665882,
-      "rank": 14,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 318836,
       "num": 318836,
       "word": "车厘子测量卡 缩水",
@@ -15771,6 +15795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 309950,
+      "num": 203994,
+      "word": "papi酱目前最大尺度嘉宾",
+      "onboard_time": 1769665642,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 309810,
       "num": 309810,
       "word": "何炅情商",
@@ -16131,6 +16163,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 304320,
+      "num": 304320,
+      "word": "用了十年才发现镜子可以打开",
+      "onboard_time": 1769666963,
+      "rank": 6,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 304212,
       "num": 304212,
       "word": "汉堡王就崩溃道歉",
@@ -16376,6 +16416,14 @@
       "word": "张晚意独自从北京自驾到厦门",
       "onboard_time": 1769173582,
       "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 300754,
+      "num": 163668,
+      "word": "金子涵已经退圈了",
+      "onboard_time": 1769664742,
+      "rank": 27,
       "category": "艺人"
     },
     {
@@ -18523,14 +18571,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 271644,
-      "num": 203994,
-      "word": "papi酱目前最大尺度嘉宾",
-      "onboard_time": 1769665642,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 271544,
       "num": 594728,
       "word": "广东的十度有多冷",
@@ -19577,6 +19617,14 @@
       "onboard_time": 1768992141,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 259594,
+      "num": 259594,
+      "word": "那英 上歌手有今天没明天",
+      "onboard_time": 1769665642,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 259552,
@@ -23044,7 +23092,7 @@
     },
     {
       "raw_hot": 220571,
-      "num": 220571,
+      "num": 243096,
       "word": "花生这辈子没想到还能被切丝",
       "onboard_time": 1769661803,
       "rank": 40,
@@ -24121,6 +24169,14 @@
       "onboard_time": 1768811902,
       "rank": 18,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 211154,
+      "num": 211154,
+      "word": "歌手2026",
+      "onboard_time": 1769669184,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 211114,
@@ -25947,14 +26003,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 198096,
-      "num": 163668,
-      "word": "金子涵已经退圈了",
-      "onboard_time": 1769664742,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 198045,
       "num": 198045,
       "word": "脑综史上最窒息45分钟",
@@ -27057,14 +27105,6 @@
       "onboard_time": 1768641080,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 192439,
-      "num": 188876,
-      "word": "那英 上歌手有今天没明天",
-      "onboard_time": 1769665642,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 192287,
@@ -35780,7 +35820,7 @@
     },
     {
       "raw_hot": 149255,
-      "num": 149255,
+      "num": 202951,
       "word": "北京国安新赛季被罚5分",
       "onboard_time": 1769661624,
       "rank": 26,
@@ -42065,6 +42105,14 @@
       "onboard_time": 1767195208,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 129447,
+      "num": 129447,
+      "word": "气血足不足看身体这3个部位",
+      "onboard_time": 1769664742,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 129385,
@@ -52635,6 +52683,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 106866,
+      "num": 106866,
+      "word": "刘强东同学说等强子回村想一起喝酒",
+      "onboard_time": 1769668644,
+      "rank": 33,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 106832,
       "num": 106832,
       "word": "檀健次发开机照",
@@ -53377,6 +53433,14 @@
       "onboard_time": 1768577001,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105751,
+      "num": 105751,
+      "word": "第五人格园丁",
+      "onboard_time": 1769669122,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 105733,
@@ -54377,6 +54441,14 @@
       "onboard_time": 1769065941,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104235,
+      "num": 104235,
+      "word": "王者终于可以四排",
+      "onboard_time": 1769669845,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 104220,
@@ -56553,6 +56625,14 @@
       "onboard_time": 1767526462,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 100869,
+      "num": 100869,
+      "word": "黄金史诗级大涨",
+      "onboard_time": 1769669304,
+      "rank": 37,
+      "category": "财经"
     },
     {
       "raw_hot": 100863,
@@ -59787,6 +59867,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 96468,
+      "num": 96468,
+      "word": "村支书说刘强东送年货也带来泼天流量",
+      "onboard_time": 1769669783,
+      "rank": 40,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 96464,
       "num": 149304,
       "word": "小猫穿上了高领毛衣",
@@ -61563,6 +61651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94119,
+      "num": 94119,
+      "word": "虎杖悠仁正式加入战斗",
+      "onboard_time": 1769669783,
+      "rank": 41,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 94113,
       "num": 94113,
       "word": "行李.zip",
@@ -63027,6 +63123,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 92267,
+      "num": 92267,
+      "word": "黄奕48岁素颜状态",
+      "onboard_time": 1769667384,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 92263,
       "num": 214023,
       "word": "外交部回应中美元首互访传闻",
@@ -63697,6 +63801,14 @@
       "onboard_time": 1767841581,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 91291,
+      "num": 91291,
+      "word": "如此节俭一定存了好多钱吧",
+      "onboard_time": 1769666603,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 91285,
@@ -64547,14 +64659,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 90313,
-      "num": 90313,
-      "word": "气血足不足看身体这3个部位",
-      "onboard_time": 1769664742,
-      "rank": 48,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 90303,
       "num": 111507,
       "word": "官方通报一婴儿身上有多处针眼",
@@ -64737,6 +64841,14 @@
       "onboard_time": 1769557399,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 90076,
+      "num": 160759,
+      "word": "迪丽热巴全女拉娘 渣女文学",
+      "onboard_time": 1769668944,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 90043,
@@ -67387,14 +67499,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 86641,
-      "num": 86641,
-      "word": "如此节俭一定存了好多钱吧",
-      "onboard_time": 1769666603,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
       "raw_hot": 86638,
       "num": 520292,
       "word": "瑞士爆炸遇难者朋友称现场像恐怖片",
@@ -67689,6 +67793,14 @@
       "onboard_time": 1768525279,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86373,
+      "num": 86373,
+      "word": "iPhone16成去年最畅销智能手机",
+      "onboard_time": 1769666424,
+      "rank": 45,
+      "category": "数码"
     },
     {
       "raw_hot": 86365,
@@ -69355,6 +69467,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 84338,
+      "num": 84338,
+      "word": "VProject首曝",
+      "onboard_time": 1769668944,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 84337,
       "num": 84337,
       "word": "23岁女孩遇车祸脑疝母亲下跪托付",
@@ -70257,14 +70377,6 @@
       "onboard_time": 1767596482,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 82901,
-      "num": 82901,
-      "word": "iPhone16成去年最畅销智能手机",
-      "onboard_time": 1769666424,
-      "rank": 45,
-      "category": "数码"
     },
     {
       "raw_hot": 82867,
@@ -83851,6 +83963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 51026,
+      "num": 121490,
+      "word": "投资7亿的智轨开通不足3年停运了",
+      "onboard_time": 1769668702,
+      "rank": 28,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 50992,
       "num": 114788,
       "word": "曾志伟感谢张学友捐款130万元",
@@ -88947,6 +89067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 33008,
+      "num": 110096,
+      "word": "火灾报警响33分钟才有人冲进控制室",
+      "onboard_time": 1769668644,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33002,
       "num": 33002,
       "word": "中国奥委会祝贺U23国足夺亚",
@@ -91465,6 +91593,14 @@
       "onboard_time": 1768931356,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 24451,
+      "num": 216736,
+      "word": "圣罗兰巴黎男装大秀",
+      "onboard_time": 1769667083,
+      "rank": 12,
+      "category": "时尚"
     },
     {
       "raw_hot": 24442,

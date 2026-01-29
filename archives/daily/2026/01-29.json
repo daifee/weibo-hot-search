@@ -1,6 +1,6 @@
 {
   "startTime": 1769616009567,
-  "endTime": 1769666801242,
+  "endTime": 1769669990401,
   "band_list": [
     {
       "raw_hot": 8542912,
@@ -27,11 +27,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1390951,
+      "num": 1106754,
+      "word": "国安 人在做天在看",
+      "onboard_time": 1769666424,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1228740,
       "num": 299706,
       "word": "金饰克价涨至1708元",
       "onboard_time": 1769650759,
       "rank": 5,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 980755,
+      "num": 195395,
+      "word": "白酒",
+      "onboard_time": 1769667083,
+      "rank": 15,
       "category": "财经"
     },
     {
@@ -67,12 +83,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 667213,
-      "num": 1106754,
-      "word": "国安 人在做天在看",
-      "onboard_time": 1769666424,
+      "raw_hot": 804273,
+      "num": 189575,
+      "word": "曝庾澄庆经常不回恩利信息",
+      "onboard_time": 1769668581,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 732998,
+      "num": 1117279,
+      "word": "女子因幼犬轻咬未处理引发狂犬病",
+      "onboard_time": 1769667322,
       "rank": 0,
-      "category": "体育"
+      "category": "民生新闻"
     },
     {
       "raw_hot": 653650,
@@ -163,6 +187,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 489982,
+      "num": 833335,
+      "word": "快乐大本营创办者去世",
+      "onboard_time": 1769656940,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 488124,
       "num": 913894,
       "word": "哈工大辟谣学生捅伤两名教授",
@@ -177,14 +209,6 @@
       "onboard_time": 1769650580,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 470269,
-      "num": 470269,
-      "word": "快乐大本营创办者去世",
-      "onboard_time": 1769656940,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 465172,
@@ -251,8 +275,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 360171,
+      "num": 360171,
+      "word": "微博之夜阵容",
+      "onboard_time": 1769665882,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 353289,
-      "num": 181207,
+      "num": 333789,
       "word": "23岁男子呕吐4天后竟突然失忆",
       "onboard_time": 1769663663,
       "rank": 21,
@@ -291,14 +323,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 318938,
-      "num": 318938,
-      "word": "微博之夜阵容",
-      "onboard_time": 1769665882,
-      "rank": 14,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 318406,
       "num": 318406,
       "word": "男子新婚夜被妻子殴打发现其患精神病",
@@ -307,12 +331,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 309950,
+      "num": 203994,
+      "word": "papi酱目前最大尺度嘉宾",
+      "onboard_time": 1769665642,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 307295,
       "num": 307295,
       "word": "一小时前定档一小时后发声明",
       "onboard_time": 1769653820,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 304320,
+      "num": 304320,
+      "word": "用了十年才发现镜子可以打开",
+      "onboard_time": 1769666963,
+      "rank": 6,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 300754,
+      "num": 163668,
+      "word": "金子涵已经退圈了",
+      "onboard_time": 1769664742,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 285455,
@@ -355,14 +403,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 271644,
-      "num": 203994,
-      "word": "papi酱目前最大尺度嘉宾",
-      "onboard_time": 1769665642,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 266874,
       "num": 236664,
       "word": "朴彩英谈BLACKPINK关系",
@@ -385,6 +425,14 @@
       "onboard_time": 1769612131,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 259594,
+      "num": 259594,
+      "word": "那英 上歌手有今天没明天",
+      "onboard_time": 1769665642,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 253636,
@@ -420,7 +468,7 @@
     },
     {
       "raw_hot": 220571,
-      "num": 220571,
+      "num": 243096,
       "word": "花生这辈子没想到还能被切丝",
       "onboard_time": 1769661803,
       "rank": 40,
@@ -443,28 +491,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 211154,
+      "num": 211154,
+      "word": "歌手2026",
+      "onboard_time": 1769669184,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 207251,
       "num": 207251,
       "word": "三甲医生回应胎儿一脚踢破妈妈子宫",
       "onboard_time": 1769663242,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 198096,
-      "num": 163668,
-      "word": "金子涵已经退圈了",
-      "onboard_time": 1769664742,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 192439,
-      "num": 188876,
-      "word": "那英 上歌手有今天没明天",
-      "onboard_time": 1769665642,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 191500,
@@ -580,7 +620,7 @@
     },
     {
       "raw_hot": 149255,
-      "num": 149255,
+      "num": 202951,
       "word": "北京国安新赛季被罚5分",
       "onboard_time": 1769661624,
       "rank": 26,
@@ -715,6 +755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 129447,
+      "num": 129447,
+      "word": "气血足不足看身体这3个部位",
+      "onboard_time": 1769664742,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 126771,
       "num": 126771,
       "word": "黄金还能涨吗",
@@ -753,6 +801,14 @@
       "onboard_time": 1769611645,
       "rank": 15,
       "category": "网红"
+    },
+    {
+      "raw_hot": 115730,
+      "num": 115730,
+      "word": "A股",
+      "onboard_time": 1769669002,
+      "rank": 31,
+      "category": "财经"
     },
     {
       "raw_hot": 115201,
@@ -819,6 +875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 106866,
+      "num": 106866,
+      "word": "刘强东同学说等强子回村想一起喝酒",
+      "onboard_time": 1769668644,
+      "rank": 33,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 106786,
       "num": 106786,
       "word": "印度男子为上医学院砍断一只脚",
@@ -833,6 +897,14 @@
       "onboard_time": 1769652379,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 105751,
+      "num": 105751,
+      "word": "第五人格园丁",
+      "onboard_time": 1769669122,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 105685,
@@ -873,6 +945,14 @@
       "onboard_time": 1769655439,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 104235,
+      "num": 104235,
+      "word": "王者终于可以四排",
+      "onboard_time": 1769669845,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 103947,
@@ -931,6 +1011,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 100869,
+      "num": 100869,
+      "word": "黄金史诗级大涨",
+      "onboard_time": 1769669304,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 98585,
       "num": 98585,
       "word": "港股黄金板块集体大涨",
@@ -963,6 +1051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 96468,
+      "num": 96468,
+      "word": "村支书说刘强东送年货也带来泼天流量",
+      "onboard_time": 1769669783,
+      "rank": 40,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 94746,
       "num": 94746,
       "word": "阚清子事业心",
@@ -977,6 +1073,14 @@
       "onboard_time": 1769620397,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94119,
+      "num": 94119,
+      "word": "虎杖悠仁正式加入战斗",
+      "onboard_time": 1769669783,
+      "rank": 41,
+      "category": "动漫"
     },
     {
       "raw_hot": 93922,
@@ -995,6 +1099,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 92267,
+      "num": 92267,
+      "word": "黄奕48岁素颜状态",
+      "onboard_time": 1769667384,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 91291,
+      "num": 91291,
+      "word": "如此节俭一定存了好多钱吧",
+      "onboard_time": 1769666603,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 91231,
       "num": 91231,
       "word": "黄金柜台3小时卖120万元金条",
@@ -1011,12 +1131,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 90313,
-      "num": 90313,
-      "word": "气血足不足看身体这3个部位",
-      "onboard_time": 1769664742,
-      "rank": 48,
-      "category": "健康医疗"
+      "raw_hot": 90076,
+      "num": 160759,
+      "word": "迪丽热巴全女拉娘 渣女文学",
+      "onboard_time": 1769668944,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 88114,
@@ -1035,14 +1155,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 86641,
-      "num": 86641,
-      "word": "如此节俭一定存了好多钱吧",
-      "onboard_time": 1769666603,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
       "raw_hot": 86547,
       "num": 86547,
       "word": "李铁等73人终身禁止从事足球活动",
@@ -1057,6 +1169,14 @@
       "onboard_time": 1769649622,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 86373,
+      "num": 86373,
+      "word": "iPhone16成去年最畅销智能手机",
+      "onboard_time": 1769666424,
+      "rank": 45,
+      "category": "数码"
     },
     {
       "raw_hot": 85174,
@@ -1091,6 +1211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 84338,
+      "num": 84338,
+      "word": "VProject首曝",
+      "onboard_time": 1769668944,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 84007,
       "num": 94029,
       "word": "别告诉我这是最近的Angelababy",
@@ -1105,14 +1233,6 @@
       "onboard_time": 1769644158,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 82901,
-      "num": 82901,
-      "word": "iPhone16成去年最畅销智能手机",
-      "onboard_time": 1769666424,
-      "rank": 45,
-      "category": "数码"
     },
     {
       "raw_hot": 82571,
@@ -1459,6 +1579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 51026,
+      "num": 121490,
+      "word": "投资7亿的智轨开通不足3年停运了",
+      "onboard_time": 1769668702,
+      "rank": 28,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 49689,
       "num": 49689,
       "word": "男子中1404万大奖妻子压根不信",
@@ -1563,6 +1691,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 33008,
+      "num": 110096,
+      "word": "火灾报警响33分钟才有人冲进控制室",
+      "onboard_time": 1769668644,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31615,
       "num": 44428,
       "word": "胖东来回应金条库存",
@@ -1649,6 +1785,14 @@
       "onboard_time": 1769656101,
       "rank": 34,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 24451,
+      "num": 216736,
+      "word": "圣罗兰巴黎男装大秀",
+      "onboard_time": 1769667083,
+      "rank": 12,
+      "category": "时尚"
     },
     {
       "raw_hot": 23189,
