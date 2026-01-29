@@ -1,0 +1,410 @@
+{
+  "runTime": 1769683544602,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 532086,
+        "num": 1085133,
+        "word": "茅台",
+        "onboard_time": 1769676627,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 265156,
+        "num": 787660,
+        "word": "男子刮刮乐中100万旁边大哥羡慕了",
+        "onboard_time": 1769676204,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24289,
+        "num": 640707,
+        "word": "中国牌晶体刷新3项世界纪录",
+        "onboard_time": 1769675724,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1473402,
+        "num": 637464,
+        "word": "Bin疑似离队",
+        "onboard_time": 1769681065,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 613141,
+        "num": 613141,
+        "word": "神仙肉 虞书欣",
+        "onboard_time": 1769675664,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 591960,
+        "num": 591960,
+        "word": "BLG Bin",
+        "onboard_time": 1769682144,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 305465,
+        "num": 305465,
+        "word": "茅台发声明",
+        "onboard_time": 1769680405,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215987,
+        "num": 215987,
+        "word": "父母带娃爬野山孩子坠崖",
+        "onboard_time": 1769677704,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207156,
+        "num": 207156,
+        "word": "缅甸出现一处3000人新诈骗园区",
+        "onboard_time": 1769671584,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 196062,
+        "num": 196062,
+        "word": "TF家族荣耀之战ready",
+        "onboard_time": 1769682264,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1954067,
+        "num": 193645,
+        "word": "曝金晨肇事逃逸",
+        "onboard_time": 1769659642,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 326155,
+        "num": 189514,
+        "word": "疑遭男护工多次猥亵渐冻症女子发声",
+        "onboard_time": 1769678244,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182496,
+        "num": 182496,
+        "word": "歌手2026",
+        "onboard_time": 1769669184,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178528,
+        "num": 178528,
+        "word": "女子因幼犬轻咬未处理引发狂犬病",
+        "onboard_time": 1769667322,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169448,
+        "num": 169448,
+        "word": "欧洲领导人排队访华美国急了",
+        "onboard_time": 1769678183,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 168332,
+        "num": 168332,
+        "word": "鲍威尔",
+        "onboard_time": 1769681664,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 161413,
+        "num": 161413,
+        "word": "橙子是非常私密的水果",
+        "onboard_time": 1769672844,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 155128,
+        "num": 155128,
+        "word": "孙绍骋被查",
+        "onboard_time": 1769682323,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65053,
+        "num": 139999,
+        "word": "200多克黄金不当面接收快递小哥报警",
+        "onboard_time": 1769682803,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130380,
+        "num": 130380,
+        "word": "女大学生东北冻伤三根手指或截肢",
+        "onboard_time": 1769682743,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3918677,
+        "num": 130041,
+        "word": "曝金晨交通事故监控截图",
+        "onboard_time": 1769670383,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1823580,
+        "num": 128255,
+        "word": "小S真的生了一个林志玲出来",
+        "onboard_time": 1769680945,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135326,
+        "num": 127565,
+        "word": "有二胎才知道每个孩子生而不同",
+        "onboard_time": 1769681903,
+        "rank": 22,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 421742,
+        "num": 125915,
+        "word": "李嘉格 我忍不住就想晒",
+        "onboard_time": 1769677404,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260280,
+        "num": 124308,
+        "word": "肖战拍立得照",
+        "onboard_time": 1769674284,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124261,
+        "num": 124261,
+        "word": "黄金",
+        "onboard_time": 1769642958,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 174491,
+        "num": 123748,
+        "word": "微博之夜第三波阵容",
+        "onboard_time": 1769674104,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 149721,
+        "num": 123746,
+        "word": "微博之夜阵容",
+        "onboard_time": 1769665882,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 120629,
+        "num": 120629,
+        "word": "BLG上调新上单Wenbo",
+        "onboard_time": 1769681903,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 148891,
+        "num": 118095,
+        "word": "薛佳凝自曝2013年开始攒金",
+        "onboard_time": 1769663902,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 781148,
+        "num": 117702,
+        "word": "抖音崩了",
+        "onboard_time": 1769680824,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 121843,
+        "num": 116401,
+        "word": "刘亦菲三里屯打卡",
+        "onboard_time": 1769676504,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113891,
+        "num": 113891,
+        "word": "王星和女友官宣微博之夜",
+        "onboard_time": 1769676564,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 106556,
+        "num": 106556,
+        "word": "快乐大本营创办者去世",
+        "onboard_time": 1769656940,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104873,
+        "num": 104873,
+        "word": "交警回应网传道路交通事故认定书属实",
+        "onboard_time": 1769682025,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102237,
+        "num": 102237,
+        "word": "刘诗诗体力",
+        "onboard_time": 1769680405,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97910,
+        "num": 97910,
+        "word": "萨巴伦卡连续四年晋级澳网决赛",
+        "onboard_time": 1769683102,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97402,
+        "num": 97402,
+        "word": "宋威龙曼谷",
+        "onboard_time": 1769677643,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89440,
+        "num": 89440,
+        "word": "有罪之身 命运戏弄有情人",
+        "onboard_time": 1769682444,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24432,
+        "num": 89019,
+        "word": "内娱三大经典名场面",
+        "onboard_time": 1769683283,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88993,
+        "num": 88993,
+        "word": "英国首相抵京第一餐完整菜单曝光",
+        "onboard_time": 1769673625,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 86435,
+        "num": 86435,
+        "word": "江疏影内娱人脉",
+        "onboard_time": 1769681723,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84761,
+        "num": 84761,
+        "word": "建议脚臭的都去穿五指袜",
+        "onboard_time": 1769670683,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 84390,
+        "num": 84390,
+        "word": "23岁男子呕吐4天后竟突然失忆",
+        "onboard_time": 1769663663,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80430,
+        "num": 80430,
+        "word": "俄军首次公开宣布使用美国星链",
+        "onboard_time": 1769673384,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 76957,
+        "num": 76957,
+        "word": "轧戏",
+        "onboard_time": 1769683404,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76181,
+        "num": 76181,
+        "word": "苹果转安卓最难舍的是什么",
+        "onboard_time": 1769682743,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 75473,
+        "num": 75473,
+        "word": "贵州茅台否认参与SpaceX融资",
+        "onboard_time": 1769682982,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 73210,
+        "num": 73210,
+        "word": "白酒",
+        "onboard_time": 1769667083,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 72899,
+        "num": 72899,
+        "word": "BLG落后JDG与AL",
+        "onboard_time": 1769683524,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#中英两国合作一定能一马当先#"
+    }
+  }
+}

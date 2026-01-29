@@ -1,6 +1,6 @@
 {
   "startTime": 1769616009567,
-  "endTime": 1769681137637,
+  "endTime": 1769683544602,
   "band_list": [
     {
       "raw_hot": 8542912,
@@ -27,12 +27,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1823580,
+      "num": 128255,
+      "word": "小S真的生了一个林志玲出来",
+      "onboard_time": 1769680945,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1779996,
       "num": 138873,
       "word": "金子涵拉黑蔡徐坤",
       "onboard_time": 1769598862,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1473402,
+      "num": 637464,
+      "word": "Bin疑似离队",
+      "onboard_time": 1769681065,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 1448646,
@@ -60,7 +76,7 @@
     },
     {
       "raw_hot": 1054116,
-      "num": 110685,
+      "num": 117702,
       "word": "抖音崩了",
       "onboard_time": 1769680824,
       "rank": 30,
@@ -124,7 +140,7 @@
     },
     {
       "raw_hot": 766992,
-      "num": 612667,
+      "num": 613141,
       "word": "神仙肉 虞书欣",
       "onboard_time": 1769675664,
       "rank": 3,
@@ -156,7 +172,7 @@
     },
     {
       "raw_hot": 615828,
-      "num": 123099,
+      "num": 125915,
       "word": "李嘉格 我忍不住就想晒",
       "onboard_time": 1769677404,
       "rank": 37,
@@ -169,6 +185,14 @@
       "onboard_time": 1769661924,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 591960,
+      "num": 591960,
+      "word": "BLG Bin",
+      "onboard_time": 1769682144,
+      "rank": 5,
+      "category": "电竞"
     },
     {
       "raw_hot": 580836,
@@ -211,20 +235,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 532086,
+      "num": 1085133,
+      "word": "茅台",
+      "onboard_time": 1769676627,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
       "raw_hot": 528763,
       "num": 84295,
       "word": "蔡徐坤方回应金子涵",
       "onboard_time": 1769603661,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 521984,
-      "num": 157855,
-      "word": "茅台",
-      "onboard_time": 1769676627,
-      "rank": 43,
-      "category": "财经"
     },
     {
       "raw_hot": 490676,
@@ -403,6 +427,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 326155,
+      "num": 189514,
+      "word": "疑遭男护工多次猥亵渐冻症女子发声",
+      "onboard_time": 1769678244,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 323105,
       "num": 323105,
       "word": "明家犯罪集团11人被执行死刑",
@@ -441,6 +473,14 @@
       "onboard_time": 1769653820,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 305465,
+      "num": 305465,
+      "word": "茅台发声明",
+      "onboard_time": 1769680405,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 304320,
@@ -667,6 +707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 196062,
+      "num": 196062,
+      "word": "TF家族荣耀之战ready",
+      "onboard_time": 1769682264,
+      "rank": 9,
+      "category": "演出"
+    },
+    {
       "raw_hot": 191500,
       "num": 191500,
       "word": "崩坏星穹铁道",
@@ -731,12 +779,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 169448,
+      "num": 169448,
+      "word": "欧洲领导人排队访华美国急了",
+      "onboard_time": 1769678183,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 169360,
       "num": 145083,
       "word": "张奕然发烧",
       "onboard_time": 1769650160,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 168332,
+      "num": 168332,
+      "word": "鲍威尔",
+      "onboard_time": 1769681664,
+      "rank": 15,
+      "category": "财经"
     },
     {
       "raw_hot": 166548,
@@ -809,6 +873,14 @@
       "onboard_time": 1769669002,
       "rank": 31,
       "category": "财经"
+    },
+    {
+      "raw_hot": 155128,
+      "num": 155128,
+      "word": "孙绍骋被查",
+      "onboard_time": 1769682323,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 153795,
@@ -931,14 +1003,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 139403,
-      "num": 139403,
-      "word": "欧洲领导人排队访华美国急了",
-      "onboard_time": 1769678183,
-      "rank": 18,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 138998,
       "num": 138998,
       "word": "40岁男子连吃7天贡丸汤确诊尿毒症",
@@ -977,6 +1041,14 @@
       "onboard_time": 1769654900,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 135326,
+      "num": 127565,
+      "word": "有二胎才知道每个孩子生而不同",
+      "onboard_time": 1769681903,
+      "rank": 22,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 134249,
@@ -1027,6 +1099,14 @@
       "category": "汽车,体育"
     },
     {
+      "raw_hot": 130380,
+      "num": 130380,
+      "word": "女大学生东北冻伤三根手指或截肢",
+      "onboard_time": 1769682743,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 130038,
       "num": 130038,
       "word": "深圳水贝某黄金平台上亿元提现无门",
@@ -1049,14 +1129,6 @@
       "onboard_time": 1769670323,
       "rank": 17,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 128063,
-      "num": 128063,
-      "word": "疑遭男护工多次猥亵渐冻症女子发声",
-      "onboard_time": 1769678244,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 126771,
@@ -1091,20 +1163,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 121720,
-      "num": 108874,
-      "word": "小S真的生了一个林志玲出来",
-      "onboard_time": 1769680945,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 120813,
       "num": 120813,
       "word": "坚持早睡30天的脸部变化",
       "onboard_time": 1769672243,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 120629,
+      "num": 120629,
+      "word": "BLG上调新上单Wenbo",
+      "onboard_time": 1769681903,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 119296,
@@ -1339,6 +1411,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 104873,
+      "num": 104873,
+      "word": "交警回应网传道路交通事故认定书属实",
+      "onboard_time": 1769682025,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 104300,
       "num": 104300,
       "word": "光明村村民去年收到的冰柜还没拆封",
@@ -1443,20 +1523,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 97910,
+      "num": 97910,
+      "word": "萨巴伦卡连续四年晋级澳网决赛",
+      "onboard_time": 1769683102,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 97755,
       "num": 97755,
       "word": "张子墨 计划有变准备登陆日2026",
       "onboard_time": 1769602101,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 97661,
-      "num": 97661,
-      "word": "茅台发声明",
-      "onboard_time": 1769680405,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 96900,
@@ -1635,6 +1715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 89440,
+      "num": 89440,
+      "word": "有罪之身 命运戏弄有情人",
+      "onboard_time": 1769682444,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 89283,
       "num": 89283,
       "word": "周五晚高疯定档",
@@ -1675,14 +1763,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 87079,
-      "num": 87079,
-      "word": "Bin疑似离队",
-      "onboard_time": 1769681065,
-      "rank": 46,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 87045,
       "num": 87045,
       "word": "贵州茅台股价涨超6%",
@@ -1697,6 +1777,14 @@
       "onboard_time": 1769665225,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 86435,
+      "num": 86435,
+      "word": "江疏影内娱人脉",
+      "onboard_time": 1769681723,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 86414,
@@ -1947,12 +2035,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 76957,
+      "num": 76957,
+      "word": "轧戏",
+      "onboard_time": 1769683404,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 76331,
       "num": 76331,
       "word": "Faker质疑LCK杯赛制",
       "onboard_time": 1769662642,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 76181,
+      "num": 76181,
+      "word": "苹果转安卓最难舍的是什么",
+      "onboard_time": 1769682743,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 75473,
+      "num": 75473,
+      "word": "贵州茅台否认参与SpaceX融资",
+      "onboard_time": 1769682982,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 73903,
@@ -1985,6 +2097,14 @@
       "onboard_time": 1769606902,
       "rank": 28,
       "category": "财经"
+    },
+    {
+      "raw_hot": 72899,
+      "num": 72899,
+      "word": "BLG落后JDG与AL",
+      "onboard_time": 1769683524,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 72830,
@@ -2049,6 +2169,14 @@
       "onboard_time": 1769613982,
       "rank": 41,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 65053,
+      "num": 139999,
+      "word": "200多克黄金不当面接收快递小哥报警",
+      "onboard_time": 1769682803,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 63745,
@@ -2476,7 +2604,7 @@
     },
     {
       "raw_hot": 27472,
-      "num": 637463,
+      "num": 640707,
       "word": "中国牌晶体刷新3项世界纪录",
       "onboard_time": 1769675724,
       "rank": 2,
@@ -2497,6 +2625,14 @@
       "onboard_time": 1769667083,
       "rank": 12,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 24432,
+      "num": 89019,
+      "word": "内娱三大经典名场面",
+      "onboard_time": 1769683283,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 24359,

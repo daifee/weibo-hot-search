@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769681137637,
+  "endTime": 1769683544602,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -563,6 +563,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1823580,
+      "num": 128255,
+      "word": "小S真的生了一个林志玲出来",
+      "onboard_time": 1769680945,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1775880,
       "num": 263937,
       "word": "大三男生涉嫌强奸强制侮辱大一女友",
@@ -833,6 +841,14 @@
       "onboard_time": 1767661942,
       "rank": 20,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1473402,
+      "num": 637464,
+      "word": "Bin疑似离队",
+      "onboard_time": 1769681065,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 1472597,
@@ -1596,7 +1612,7 @@
     },
     {
       "raw_hot": 1054116,
-      "num": 110685,
+      "num": 117702,
       "word": "抖音崩了",
       "onboard_time": 1769680824,
       "rank": 30,
@@ -3252,7 +3268,7 @@
     },
     {
       "raw_hot": 766992,
-      "num": 612667,
+      "num": 613141,
       "word": "神仙肉 虞书欣",
       "onboard_time": 1769675664,
       "rank": 3,
@@ -4948,7 +4964,7 @@
     },
     {
       "raw_hot": 615828,
-      "num": 123099,
+      "num": 125915,
       "word": "李嘉格 我忍不住就想晒",
       "onboard_time": 1769677404,
       "rank": 37,
@@ -5369,6 +5385,14 @@
       "onboard_time": 1768199422,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 591960,
+      "num": 591960,
+      "word": "BLG Bin",
+      "onboard_time": 1769682144,
+      "rank": 5,
+      "category": "电竞"
     },
     {
       "raw_hot": 591393,
@@ -6827,6 +6851,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 532086,
+      "num": 1085133,
+      "word": "茅台",
+      "onboard_time": 1767319457,
+      "rank": 34,
+      "category": "美食"
+    },
+    {
       "raw_hot": 531610,
       "num": 172118,
       "word": "贝克汉姆回应大儿子控诉",
@@ -7073,14 +7105,6 @@
       "onboard_time": 1768363222,
       "rank": 9,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 521984,
-      "num": 483975,
-      "word": "茅台",
-      "onboard_time": 1767319457,
-      "rank": 34,
-      "category": "美食"
     },
     {
       "raw_hot": 521966,
@@ -14811,6 +14835,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 326155,
+      "num": 189514,
+      "word": "疑遭男护工多次猥亵渐冻症女子发声",
+      "onboard_time": 1769678244,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 326036,
       "num": 223690,
       "word": "冰岛偶遇周也",
@@ -16161,6 +16193,14 @@
       "onboard_time": 1767861801,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 305465,
+      "num": 305465,
+      "word": "茅台发声明",
+      "onboard_time": 1769680405,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 305249,
@@ -26555,6 +26595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 196062,
+      "num": 196062,
+      "word": "TF家族荣耀之战ready",
+      "onboard_time": 1769682264,
+      "rank": 9,
+      "category": "演出"
+    },
+    {
       "raw_hot": 196039,
       "num": 163334,
       "word": "黄金涨飞了",
@@ -31475,6 +31523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 169448,
+      "num": 169448,
+      "word": "欧洲领导人排队访华美国急了",
+      "onboard_time": 1769678183,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 169430,
       "num": 189380,
       "word": "曾志伟卸任TVB总经理",
@@ -31641,6 +31697,14 @@
       "onboard_time": 1767484701,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 168332,
+      "num": 168332,
+      "word": "鲍威尔",
+      "onboard_time": 1769681664,
+      "rank": 15,
+      "category": "财经"
     },
     {
       "raw_hot": 168309,
@@ -34601,6 +34665,14 @@
       "onboard_time": 1768779379,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 155128,
+      "num": 155128,
+      "word": "孙绍骋被查",
+      "onboard_time": 1769682323,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 155018,
@@ -39179,14 +39251,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 139403,
-      "num": 139403,
-      "word": "欧洲领导人排队访华美国急了",
-      "onboard_time": 1769678183,
-      "rank": 18,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 139365,
       "num": 136890,
       "word": "印度男女杀人犯狱中恋爱并结婚",
@@ -40377,6 +40441,14 @@
       "onboard_time": 1768044501,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 135326,
+      "num": 127565,
+      "word": "有二胎才知道每个孩子生而不同",
+      "onboard_time": 1769681903,
+      "rank": 22,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 135322,
@@ -42043,6 +42115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 130380,
+      "num": 130380,
+      "word": "女大学生东北冻伤三根手指或截肢",
+      "onboard_time": 1769682743,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 130379,
       "num": 130379,
       "word": "玉茗茶骨耳鬓厮磨给我看红温了",
@@ -42945,14 +43025,6 @@
       "onboard_time": 1768115540,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 128063,
-      "num": 128063,
-      "word": "疑遭男护工多次猥亵渐冻症女子发声",
-      "onboard_time": 1769678244,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 128040,
@@ -45747,14 +45819,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 121720,
-      "num": 108874,
-      "word": "小S真的生了一个林志玲出来",
-      "onboard_time": 1769680945,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 121706,
       "num": 1028430,
       "word": "AG人的年度总结",
@@ -46313,6 +46377,14 @@
       "onboard_time": 1767361402,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 120629,
+      "num": 120629,
+      "word": "BLG上调新上单Wenbo",
+      "onboard_time": 1769681903,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 120626,
@@ -54411,6 +54483,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 104873,
+      "num": 104873,
+      "word": "交警回应网传道路交通事故认定书属实",
+      "onboard_time": 1769682025,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 104872,
       "num": 184094,
       "word": "伊朗近期骚乱超3000人死亡",
@@ -59131,6 +59211,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 97910,
+      "num": 97910,
+      "word": "萨巴伦卡连续四年晋级澳网决赛",
+      "onboard_time": 1769683102,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 97895,
       "num": 97895,
       "word": "张真源染回了黑发",
@@ -59305,14 +59393,6 @@
       "onboard_time": 1768976300,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 97661,
-      "num": 97661,
-      "word": "茅台发声明",
-      "onboard_time": 1769680405,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 97659,
@@ -65859,6 +65939,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 89440,
+      "num": 89440,
+      "word": "有罪之身 命运戏弄有情人",
+      "onboard_time": 1769682444,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 89393,
       "num": 102425,
       "word": "美国同事直接把甜食放桌子上",
@@ -67619,14 +67707,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 87079,
-      "num": 87079,
-      "word": "Bin疑似离队",
-      "onboard_time": 1769681065,
-      "rank": 46,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 87078,
       "num": 155911,
       "word": "必胜客崩了",
@@ -68272,6 +68352,14 @@
       "word": "时团真不把我们当外人",
       "onboard_time": 1769430741,
       "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 86435,
+      "num": 86435,
+      "word": "江疏影内娱人脉",
+      "onboard_time": 1769681723,
+      "rank": 41,
       "category": "艺人"
     },
     {
@@ -75523,6 +75611,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 76181,
+      "num": 76181,
+      "word": "苹果转安卓最难舍的是什么",
+      "onboard_time": 1769682743,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
       "raw_hot": 76162,
       "num": 76162,
       "word": "曹骏何不同舟渡开机应援",
@@ -75913,6 +76009,14 @@
       "onboard_time": 1768308562,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 75473,
+      "num": 75473,
+      "word": "贵州茅台否认参与SpaceX融资",
+      "onboard_time": 1769682982,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 75464,
@@ -77241,6 +77345,14 @@
       "onboard_time": 1767435566,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 72899,
+      "num": 72899,
+      "word": "BLG落后JDG与AL",
+      "onboard_time": 1769683524,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 72842,
@@ -80433,6 +80545,14 @@
       "onboard_time": 1769556438,
       "rank": 41,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 65053,
+      "num": 139999,
+      "word": "200多克黄金不当面接收快递小哥报警",
+      "onboard_time": 1769682803,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 65013,
@@ -91340,7 +91460,7 @@
     },
     {
       "raw_hot": 27472,
-      "num": 637463,
+      "num": 640707,
       "word": "中国牌晶体刷新3项世界纪录",
       "onboard_time": 1769675724,
       "rank": 2,
@@ -92297,6 +92417,14 @@
       "onboard_time": 1767681501,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24432,
+      "num": 89019,
+      "word": "内娱三大经典名场面",
+      "onboard_time": 1769683283,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 24359,
