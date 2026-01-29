@@ -1,7 +1,15 @@
 {
   "startTime": 1769616009567,
-  "endTime": 1769656291006,
+  "endTime": 1769661957270,
   "band_list": [
+    {
+      "raw_hot": 8542912,
+      "num": 8542912,
+      "word": "曝金晨肇事逃逸",
+      "onboard_time": 1769659642,
+      "rank": 10,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1779996,
       "num": 138873,
@@ -27,12 +35,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 878812,
+      "num": 1140609,
+      "word": "那个创办快乐大本营的人走了",
+      "onboard_time": 1769656220,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 856126,
       "num": 1136980,
       "word": "白宫发了一张图新华社回了个动画",
       "onboard_time": 1769651541,
       "rank": 0,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 653650,
+      "num": 816221,
+      "word": "明家涉案100余亿14名中国人死亡",
+      "onboard_time": 1769657841,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 624199,
@@ -99,6 +123,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 490233,
+      "num": 322837,
+      "word": "现货黄金高台跳水",
+      "onboard_time": 1769657540,
+      "rank": 6,
+      "category": "财经"
+    },
+    {
       "raw_hot": 482700,
       "num": 146752,
       "word": "网友北京偶遇刘亦菲购物",
@@ -112,6 +144,14 @@
       "word": "男子买15元彩票中1404万",
       "onboard_time": 1769606842,
       "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 463257,
+      "num": 463257,
+      "word": "快乐大本营创办者去世",
+      "onboard_time": 1769656940,
+      "rank": 3,
       "category": "民生新闻"
     },
     {
@@ -195,6 +235,30 @@
       "category": "财经"
     },
     {
+      "raw_hot": 328592,
+      "num": 328592,
+      "word": "哈工大辟谣学生捅伤两名教授",
+      "onboard_time": 1769661025,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 323105,
+      "num": 323105,
+      "word": "明家犯罪集团11人被执行死刑",
+      "onboard_time": 1769657781,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 318406,
+      "num": 318406,
+      "word": "男子新婚夜被妻子殴打发现其患精神病",
+      "onboard_time": 1769656101,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 307295,
       "num": 307295,
       "word": "一小时前定档一小时后发声明",
@@ -227,6 +291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 272691,
+      "num": 123716,
+      "word": "32岁猝死的程序员代码中写着反996",
+      "onboard_time": 1769658980,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 266402,
       "num": 173452,
       "word": "29年前轮奸案多人出狱后申诉至今",
@@ -243,12 +315,36 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 232347,
-      "num": 232347,
+      "raw_hot": 245829,
+      "num": 236664,
+      "word": "朴彩英谈BLACKPINK关系",
+      "onboard_time": 1769660843,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 242375,
+      "num": 242375,
+      "word": "徐艺真回应淡出观众视野",
+      "onboard_time": 1769660363,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 241316,
+      "num": 241316,
       "word": "中国足协",
       "onboard_time": 1769654180,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 230808,
+      "num": 230808,
+      "word": "第一个被豆包气哭的人出现了",
+      "onboard_time": 1769660002,
+      "rank": 13,
+      "category": "幽默"
     },
     {
       "raw_hot": 227524,
@@ -307,6 +403,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 161868,
+      "num": 161868,
+      "word": "刘强东父亲看乡亲们领年货",
+      "onboard_time": 1769661025,
+      "rank": 15,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 161654,
+      "num": 161654,
+      "word": "告白",
+      "onboard_time": 1769660242,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 161218,
       "num": 161218,
       "word": "假如方圆脸减肥成功",
@@ -324,7 +436,7 @@
     },
     {
       "raw_hot": 156801,
-      "num": 136147,
+      "num": 138091,
       "word": "妈妈回应9岁孩子因一手好字火了",
       "onboard_time": 1769653880,
       "rank": 41,
@@ -345,6 +457,14 @@
       "onboard_time": 1769599881,
       "rank": 7,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 149610,
+      "num": 149610,
+      "word": "哥伦比亚总统候选人坠机遇难",
+      "onboard_time": 1769658860,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 148931,
@@ -371,12 +491,12 @@
       "category": "财经,民生新闻"
     },
     {
-      "raw_hot": 139400,
-      "num": 139400,
-      "word": "男子新婚夜被妻子殴打发现其患精神病",
-      "onboard_time": 1769656101,
-      "rank": 17,
-      "category": "民生新闻"
+      "raw_hot": 143067,
+      "num": 143067,
+      "word": "香橙烤奶",
+      "onboard_time": 1769659642,
+      "rank": 19,
+      "category": "美食"
     },
     {
       "raw_hot": 138998,
@@ -404,11 +524,19 @@
     },
     {
       "raw_hot": 137083,
-      "num": 116553,
+      "num": 121131,
       "word": "詹姆斯意外受伤",
       "onboard_time": 1769654900,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 133133,
+      "num": 133133,
+      "word": "金价银价暴涨原因",
+      "onboard_time": 1769655980,
+      "rank": 35,
+      "category": "财经"
     },
     {
       "raw_hot": 132853,
@@ -443,12 +571,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 125701,
+      "num": 125701,
+      "word": "第一个领到刘强东年货大爷发声",
+      "onboard_time": 1769661203,
+      "rank": 28,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 118494,
       "num": 118494,
       "word": "美国超级暴风雪大量流浪汉冻死街头",
       "onboard_time": 1769617997,
       "rank": 34,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 116323,
+      "num": 139238,
+      "word": "英国首相斯塔默现身北京三里屯",
+      "onboard_time": 1769655920,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 115967,
@@ -483,20 +627,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 114177,
+      "num": 648543,
+      "word": "全国气温回升大趋势成定局",
+      "onboard_time": 1769658200,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111909,
       "num": 74763,
       "word": "欧冠",
       "onboard_time": 1769642598,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 107714,
-      "num": 107714,
-      "word": "金价银价暴涨原因",
-      "onboard_time": 1769655980,
-      "rank": 35,
-      "category": "财经"
     },
     {
       "raw_hot": 106786,
@@ -515,12 +659,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 105685,
+      "num": 105685,
+      "word": "13家足球俱乐部涉假赌黑被罚",
+      "onboard_time": 1769661864,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 105635,
       "num": 105635,
       "word": "盒马错发水仙女子索赔375万降至48万",
       "onboard_time": 1769596641,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105519,
+      "num": 105519,
+      "word": "小米汽车向奔驰致敬",
+      "onboard_time": 1769659822,
+      "rank": 35,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 105426,
+      "num": 105426,
+      "word": "有个不太健康的习惯叫穷思竭虑",
+      "onboard_time": 1769660963,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 105295,
@@ -531,6 +699,38 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 104648,
+      "num": 104648,
+      "word": "花生这辈子没想到还能被切丝",
+      "onboard_time": 1769661803,
+      "rank": 40,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 103947,
+      "num": 103947,
+      "word": "詹姆斯哭了",
+      "onboard_time": 1769657961,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 103299,
+      "num": 104893,
+      "word": "美国通个下水道要13000刀",
+      "onboard_time": 1769660843,
+      "rank": 37,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 102256,
+      "num": 101535,
+      "word": "叶舒华Minnie肤色差",
+      "onboard_time": 1769656220,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 101892,
       "num": 101892,
       "word": "伊朗总统宣布启动紧急状态",
@@ -539,12 +739,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 100089,
-      "num": 100089,
-      "word": "那个创办快乐大本营的人走了",
-      "onboard_time": 1769656220,
-      "rank": 42,
-      "category": "民生新闻"
+      "raw_hot": 101275,
+      "num": 101275,
+      "word": "100年内没人懂我爸做的菜",
+      "onboard_time": 1769661505,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 99520,
+      "num": 99520,
+      "word": "林孝埈把奥运五环纹在了背上",
+      "onboard_time": 1769659701,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 98424,
@@ -553,6 +761,14 @@
       "onboard_time": 1769613322,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 97925,
+      "num": 97925,
+      "word": "金银暴涨",
+      "onboard_time": 1769661924,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 97755,
@@ -568,6 +784,22 @@
       "word": "杨博文 在脑海里憋了一肚子的话",
       "onboard_time": 1769649860,
       "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 96197,
+      "num": 96197,
+      "word": "黄圣依饶雪漫首搭短剧开机",
+      "onboard_time": 1769661624,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 95662,
+      "num": 95662,
+      "word": "金晨 助理顶包",
+      "onboard_time": 1769661924,
+      "rank": 49,
       "category": "艺人"
     },
     {
@@ -656,14 +888,6 @@
       "word": "别告诉我这是最近的Angelababy",
       "onboard_time": 1769601321,
       "rank": 27,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 83517,
-      "num": 83517,
-      "word": "叶舒华Minnie肤色差",
-      "onboard_time": 1769656220,
-      "rank": 48,
       "category": "艺人"
     },
     {
@@ -1003,12 +1227,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 34472,
-      "num": 139238,
-      "word": "英国首相斯塔默现身北京三里屯",
-      "onboard_time": 1769655920,
-      "rank": 19,
-      "category": "国际时政"
+      "raw_hot": 35839,
+      "num": 104655,
+      "word": "大姨偷纸壳被抓哭诉儿子快没命了",
+      "onboard_time": 1769661684,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 33419,
@@ -1075,6 +1299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29372,
+      "num": 104650,
+      "word": "女子烧垃圾突发爆燃火堆被炸开",
+      "onboard_time": 1769660903,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27537,
       "num": 63628,
       "word": "孩子去年才知道李娜是干嘛的",
@@ -1083,12 +1315,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 27085,
+      "num": 152102,
+      "word": "吃潜江龙虾过红火中国年",
+      "onboard_time": 1769659462,
+      "rank": 17,
+      "category": "美食"
+    },
+    {
       "raw_hot": 26834,
       "num": 107723,
       "word": "美国男子遭两名ICE人员开枪",
       "onboard_time": 1769656101,
       "rank": 34,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 26314,
+      "num": 138402,
+      "word": "中国基建狂魔太空版上线",
+      "onboard_time": 1769661684,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23189,
@@ -1174,6 +1422,9 @@
   "hotgov_list": [
     {
       "word": "#冰雪春天#"
+    },
+    {
+      "word": "#总书记激励体育健儿超越自我#"
     }
   ]
 }

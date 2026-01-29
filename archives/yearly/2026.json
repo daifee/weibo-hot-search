@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769656291006,
+  "endTime": 1769661957270,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -65,6 +65,14 @@
       "onboard_time": 1768729460,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 8542912,
+      "num": 8542912,
+      "word": "曝金晨肇事逃逸",
+      "onboard_time": 1769659642,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 8104554,
@@ -2323,6 +2331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 878812,
+      "num": 1140609,
+      "word": "那个创办快乐大本营的人走了",
+      "onboard_time": 1769656220,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 878214,
       "num": 216610,
       "word": "佘诗曼公布遗嘱细节",
@@ -2385,22 +2401,6 @@
       "onboard_time": 1768393942,
       "rank": 4,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 866623,
-      "num": 606539,
-      "word": "餐馆内死亡13岁男孩父母智力残疾",
-      "onboard_time": 1767664821,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 865729,
-      "num": 1138516,
-      "word": "癌症晚期老人出售30年前买的黄金",
-      "onboard_time": 1769318180,
-      "rank": 0,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
