@@ -1,6 +1,6 @@
 {
   "startTime": 1769272464158,
-  "endTime": 1769669990401,
+  "endTime": 1769670848078,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -49,6 +49,14 @@
       "onboard_time": 1769411423,
       "rank": 1,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 3832389,
+      "num": 168474,
+      "word": "曝金晨交通事故监控截图",
+      "onboard_time": 1769670383,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 3757781,
@@ -131,20 +139,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1448646,
+      "num": 1106754,
+      "word": "国安 人在做天在看",
+      "onboard_time": 1769666424,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1431972,
       "num": 121592,
       "word": "蔡徐坤 金子涵",
       "onboard_time": 1769598082,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1390951,
-      "num": 1106754,
-      "word": "国安 人在做天在看",
-      "onboard_time": 1769666424,
-      "rank": 0,
-      "category": "体育"
     },
     {
       "raw_hot": 1379281,
@@ -249,6 +257,14 @@
       "onboard_time": 1769386880,
       "rank": 20,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1079355,
+      "num": 189575,
+      "word": "曝庾澄庆经常不回恩利信息",
+      "onboard_time": 1769668581,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 1077806,
@@ -427,6 +443,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 818986,
+      "num": 1131037,
+      "word": "女子因幼犬轻咬未处理引发狂犬病",
+      "onboard_time": 1769667322,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 811029,
       "num": 1129764,
       "word": "男子买15元彩票中1404万",
@@ -441,14 +465,6 @@
       "onboard_time": 1769395159,
       "rank": 12,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 804273,
-      "num": 189575,
-      "word": "曝庾澄庆经常不回恩利信息",
-      "onboard_time": 1769668581,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 790100,
@@ -521,14 +537,6 @@
       "onboard_time": 1769494640,
       "rank": 11,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 732998,
-      "num": 1117279,
-      "word": "女子因幼犬轻咬未处理引发狂犬病",
-      "onboard_time": 1769667322,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 728425,
@@ -875,6 +883,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 568082,
+      "num": 833335,
+      "word": "快乐大本营创办者去世",
+      "onboard_time": 1769656940,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 565837,
       "num": 861643,
       "word": "警方查明夫妻网购娃娃菜中毒毒源",
@@ -1217,14 +1233,6 @@
       "onboard_time": 1769657540,
       "rank": 6,
       "category": "财经"
-    },
-    {
-      "raw_hot": 489982,
-      "num": 833335,
-      "word": "快乐大本营创办者去世",
-      "onboard_time": 1769656940,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 489024,
@@ -1875,6 +1883,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 366157,
+      "num": 805885,
+      "word": "微博之夜阵容",
+      "onboard_time": 1769665882,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 365676,
       "num": 365676,
       "word": "谁说短剧女演员在长剧没辨识度",
@@ -1921,14 +1937,6 @@
       "onboard_time": 1769340320,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 360171,
-      "num": 360171,
-      "word": "微博之夜阵容",
-      "onboard_time": 1769665882,
-      "rank": 14,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 358391,
@@ -2033,6 +2041,14 @@
       "onboard_time": 1769476880,
       "rank": 22,
       "category": "财经"
+    },
+    {
+      "raw_hot": 342332,
+      "num": 342332,
+      "word": "歌手2026",
+      "onboard_time": 1769669184,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 340935,
@@ -2532,7 +2548,7 @@
     },
     {
       "raw_hot": 300754,
-      "num": 163668,
+      "num": 163906,
       "word": "金子涵已经退圈了",
       "onboard_time": 1769664742,
       "rank": 27,
@@ -3795,14 +3811,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 211154,
-      "num": 211154,
-      "word": "歌手2026",
-      "onboard_time": 1769669184,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 210375,
       "num": 210375,
       "word": "王欣瑜vs阿尼西莫娃",
@@ -4579,6 +4587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 163034,
+      "num": 163034,
+      "word": "刘强东同学说等强子回村想一起喝酒",
+      "onboard_time": 1769668644,
+      "rank": 33,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 162847,
       "num": 162847,
       "word": "谁给戚薇选的紫色丝袜",
@@ -4609,6 +4625,14 @@
       "onboard_time": 1769594841,
       "rank": 23,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 161090,
+      "num": 202951,
+      "word": "北京国安新赛季被罚5分",
+      "onboard_time": 1769661624,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 160628,
@@ -4899,6 +4923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 151693,
+      "num": 151693,
+      "word": "气血足不足看身体这3个部位",
+      "onboard_time": 1769664742,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 151458,
       "num": 129455,
       "word": "特朗普左手戴手套",
@@ -4953,14 +4985,6 @@
       "onboard_time": 1769413282,
       "rank": 24,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 149255,
-      "num": 202951,
-      "word": "北京国安新赛季被罚5分",
-      "onboard_time": 1769661624,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 149006,
@@ -5723,14 +5747,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 129447,
-      "num": 129447,
-      "word": "气血足不足看身体这3个部位",
-      "onboard_time": 1769664742,
-      "rank": 48,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 129376,
       "num": 95897,
       "word": "杨紫化妆金鹤龙",
@@ -6395,6 +6411,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 119005,
+      "num": 165035,
+      "word": "李川被六岁小孩骂了",
+      "onboard_time": 1769670445,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 118814,
       "num": 110616,
       "word": "MBC演唱会取消",
@@ -6425,6 +6449,14 @@
       "onboard_time": 1769520260,
       "rank": 35,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 118307,
+      "num": 160759,
+      "word": "迪丽热巴全女拉娘 渣女文学",
+      "onboard_time": 1769668944,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 118293,
@@ -6707,6 +6739,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 114354,
+      "num": 114354,
+      "word": "提前练习拜年话术的我belike",
+      "onboard_time": 1769670563,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 114177,
       "num": 681543,
       "word": "全国气温回升大趋势成定局",
@@ -6827,6 +6867,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 112641,
+      "num": 112641,
+      "word": "黄金史诗级大涨",
+      "onboard_time": 1769669304,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 112476,
       "num": 112476,
       "word": "突然明白了同学录的意思",
@@ -6897,6 +6945,14 @@
       "onboard_time": 1769571679,
       "rank": 26,
       "category": "财经"
+    },
+    {
+      "raw_hot": 110887,
+      "num": 110887,
+      "word": "王者终于可以四排",
+      "onboard_time": 1769669845,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 110880,
@@ -7259,12 +7315,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 106866,
-      "num": 106866,
-      "word": "刘强东同学说等强子回村想一起喝酒",
-      "onboard_time": 1769668644,
-      "rank": 33,
-      "category": "互联网"
+      "raw_hot": 106971,
+      "num": 106971,
+      "word": "建议脚臭的都去穿五指袜",
+      "onboard_time": 1769670683,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 106832,
@@ -7305,6 +7361,14 @@
       "onboard_time": 1769325619,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 106656,
+      "num": 106656,
+      "word": "村支书说刘强东送年货也带来泼天流量",
+      "onboard_time": 1769669783,
+      "rank": 40,
+      "category": "互联网"
     },
     {
       "raw_hot": 106605,
@@ -7515,14 +7579,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 104235,
-      "num": 104235,
-      "word": "王者终于可以四排",
-      "onboard_time": 1769669845,
-      "rank": 36,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 104197,
       "num": 104197,
       "word": "徐正溪何不同舟渡开机",
@@ -7609,6 +7665,14 @@
       "onboard_time": 1769336119,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 103308,
+      "num": 103308,
+      "word": "虎杖悠仁正式加入战斗",
+      "onboard_time": 1769669783,
+      "rank": 41,
+      "category": "动漫"
     },
     {
       "raw_hot": 103299,
@@ -7897,14 +7961,6 @@
       "onboard_time": 1769307861,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 100869,
-      "num": 100869,
-      "word": "黄金史诗级大涨",
-      "onboard_time": 1769669304,
-      "rank": 37,
-      "category": "财经"
     },
     {
       "raw_hot": 100863,
@@ -8363,6 +8419,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 96591,
+      "num": 96591,
+      "word": "当过年亲戚让我说两句belike",
+      "onboard_time": 1769670263,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 96587,
       "num": 96587,
       "word": "BLG启点赛对阵AG",
@@ -8385,14 +8449,6 @@
       "onboard_time": 1769405902,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 96468,
-      "num": 96468,
-      "word": "村支书说刘强东送年货也带来泼天流量",
-      "onboard_time": 1769669783,
-      "rank": 40,
-      "category": "互联网"
     },
     {
       "raw_hot": 96403,
@@ -8731,14 +8787,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 94119,
-      "num": 94119,
-      "word": "虎杖悠仁正式加入战斗",
-      "onboard_time": 1769669783,
-      "rank": 41,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 94102,
       "num": 94102,
       "word": "这一次终于不是换乘恋爱了",
@@ -8961,6 +9009,14 @@
       "onboard_time": 1769315000,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 92418,
+      "num": 92418,
+      "word": "早睡到底有多爽",
+      "onboard_time": 1769668402,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 92349,
@@ -9339,14 +9395,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 90076,
-      "num": 160759,
-      "word": "迪丽热巴全女拉娘 渣女文学",
-      "onboard_time": 1769668944,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 90013,
       "num": 190421,
       "word": "浪姐4姐姐们来看Ella演唱会",
@@ -9611,6 +9659,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 87563,
+      "num": 87563,
+      "word": "王星越抱起白鹿就百米冲刺",
+      "onboard_time": 1769667923,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 87474,
       "num": 87474,
       "word": "太平年梅婷拿的是爽文剧本吧",
@@ -9657,6 +9713,14 @@
       "onboard_time": 1769406501,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 87045,
+      "num": 87045,
+      "word": "贵州茅台股价涨超6%",
+      "onboard_time": 1769670445,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 86966,
@@ -10771,6 +10835,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 79062,
+      "num": 79062,
+      "word": "王者限定皮肤返场票选",
+      "onboard_time": 1769670804,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 79053,
       "num": 79053,
       "word": "山东一银行经理借2000多万后跑路",
@@ -10865,6 +10937,14 @@
       "onboard_time": 1769469857,
       "rank": 28,
       "category": "财经"
+    },
+    {
+      "raw_hot": 78215,
+      "num": 78215,
+      "word": "第一次听到这么合心意的新年祝福",
+      "onboard_time": 1769670804,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 78155,
@@ -12851,6 +12931,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 52048,
+      "num": 165687,
+      "word": "健康福和敬业福你们别打了",
+      "onboard_time": 1769670323,
+      "rank": 17,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 52029,
       "num": 78875,
       "word": "男子自学组装锂电引发爆燃烧死室友",
@@ -14043,6 +14131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29222,
+      "num": 95840,
+      "word": "这种电热水袋已明令禁售",
+      "onboard_time": 1769670024,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29086,
       "num": 106865,
       "word": "在印华人回应印度尼帕病毒疫情",
@@ -14259,6 +14355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 24789,
+      "num": 216736,
+      "word": "圣罗兰巴黎男装大秀",
+      "onboard_time": 1769667083,
+      "rank": 12,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 24673,
       "num": 33331,
       "word": "北京卫视春晚",
@@ -14281,14 +14385,6 @@
       "onboard_time": 1769407701,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 24451,
-      "num": 216736,
-      "word": "圣罗兰巴黎男装大秀",
-      "onboard_time": 1769667083,
-      "rank": 12,
-      "category": "时尚"
     },
     {
       "raw_hot": 23918,

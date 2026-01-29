@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769669990401,
+  "endTime": 1769670848078,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -153,6 +153,14 @@
       "onboard_time": 1768394242,
       "rank": 0,
       "category": "教育"
+    },
+    {
+      "raw_hot": 3832389,
+      "num": 168474,
+      "word": "曝金晨交通事故监控截图",
+      "onboard_time": 1769670383,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 3757781,
@@ -859,6 +867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1448646,
+      "num": 1106754,
+      "word": "国安 人在做天在看",
+      "onboard_time": 1769666424,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1431972,
       "num": 121592,
       "word": "蔡徐坤 金子涵",
@@ -889,14 +905,6 @@
       "onboard_time": 1769142982,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1390951,
-      "num": 1106754,
-      "word": "国安 人在做天在看",
-      "onboard_time": 1769666424,
-      "rank": 0,
-      "category": "体育"
     },
     {
       "raw_hot": 1379281,
@@ -1465,6 +1473,14 @@
       "onboard_time": 1769175200,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1079355,
+      "num": 189575,
+      "word": "曝庾澄庆经常不回恩利信息",
+      "onboard_time": 1769668581,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 1078398,
@@ -2385,22 +2401,6 @@
       "onboard_time": 1767857540,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 874177,
-      "num": 874177,
-      "word": "美议员称马杜罗将在美国接受审判",
-      "onboard_time": 1767437066,
-      "rank": 26,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 868378,
-      "num": 1138940,
-      "word": "车厘子暴跌第一批受害者出现",
-      "onboard_time": 1767702143,
-      "rank": 1,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

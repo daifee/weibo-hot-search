@@ -1,6 +1,6 @@
 {
   "startTime": 1769616009567,
-  "endTime": 1769669990401,
+  "endTime": 1769670848078,
   "band_list": [
     {
       "raw_hot": 8542912,
@@ -8,6 +8,14 @@
       "word": "曝金晨肇事逃逸",
       "onboard_time": 1769659642,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 3832389,
+      "num": 168474,
+      "word": "曝金晨交通事故监控截图",
+      "onboard_time": 1769670383,
+      "rank": 15,
       "category": "艺人"
     },
     {
@@ -27,7 +35,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1390951,
+      "raw_hot": 1448646,
       "num": 1106754,
       "word": "国安 人在做天在看",
       "onboard_time": 1769666424,
@@ -41,6 +49,14 @@
       "onboard_time": 1769650759,
       "rank": 5,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1079355,
+      "num": 189575,
+      "word": "曝庾澄庆经常不回恩利信息",
+      "onboard_time": 1769668581,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 980755,
@@ -83,16 +99,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 804273,
-      "num": 189575,
-      "word": "曝庾澄庆经常不回恩利信息",
-      "onboard_time": 1769668581,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 732998,
-      "num": 1117279,
+      "raw_hot": 818986,
+      "num": 1131037,
       "word": "女子因幼犬轻咬未处理引发狂犬病",
       "onboard_time": 1769667322,
       "rank": 0,
@@ -136,6 +144,14 @@
       "word": "胎儿一脚踢破妈妈子宫致羊水流失",
       "onboard_time": 1769612608,
       "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 568082,
+      "num": 833335,
+      "word": "快乐大本营创办者去世",
+      "onboard_time": 1769656940,
+      "rank": 3,
       "category": "民生新闻"
     },
     {
@@ -185,14 +201,6 @@
       "onboard_time": 1769657540,
       "rank": 6,
       "category": "财经"
-    },
-    {
-      "raw_hot": 489982,
-      "num": 833335,
-      "word": "快乐大本营创办者去世",
-      "onboard_time": 1769656940,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 488124,
@@ -267,6 +275,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 366157,
+      "num": 805885,
+      "word": "微博之夜阵容",
+      "onboard_time": 1769665882,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 365676,
       "num": 365676,
       "word": "谁说短剧女演员在长剧没辨识度",
@@ -275,20 +291,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 360171,
-      "num": 360171,
-      "word": "微博之夜阵容",
-      "onboard_time": 1769665882,
-      "rank": 14,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 353289,
       "num": 333789,
       "word": "23岁男子呕吐4天后竟突然失忆",
       "onboard_time": 1769663663,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 342332,
+      "num": 342332,
+      "word": "歌手2026",
+      "onboard_time": 1769669184,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 337921,
@@ -356,7 +372,7 @@
     },
     {
       "raw_hot": 300754,
-      "num": 163668,
+      "num": 163906,
       "word": "金子涵已经退圈了",
       "onboard_time": 1769664742,
       "rank": 27,
@@ -491,14 +507,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 211154,
-      "num": 211154,
-      "word": "歌手2026",
-      "onboard_time": 1769669184,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 207251,
       "num": 207251,
       "word": "三甲医生回应胎儿一脚踢破妈妈子宫",
@@ -571,12 +579,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 163034,
+      "num": 163034,
+      "word": "刘强东同学说等强子回村想一起喝酒",
+      "onboard_time": 1769668644,
+      "rank": 33,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 161218,
       "num": 161218,
       "word": "假如方圆脸减肥成功",
       "onboard_time": 1769605521,
       "rank": 6,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 161090,
+      "num": 202951,
+      "word": "北京国安新赛季被罚5分",
+      "onboard_time": 1769661624,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 160257,
@@ -595,12 +619,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 156448,
+      "num": 156448,
+      "word": "A股",
+      "onboard_time": 1769669002,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
       "raw_hot": 153795,
       "num": 102111,
       "word": "42岁女子吃紧急避孕药大出血险丢命",
       "onboard_time": 1769611406,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 151693,
+      "num": 151693,
+      "word": "气血足不足看身体这3个部位",
+      "onboard_time": 1769664742,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 149651,
@@ -617,14 +657,6 @@
       "onboard_time": 1769658860,
       "rank": 18,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 149255,
-      "num": 202951,
-      "word": "北京国安新赛季被罚5分",
-      "onboard_time": 1769661624,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 148931,
@@ -755,14 +787,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 129447,
-      "num": 129447,
-      "word": "气血足不足看身体这3个部位",
-      "onboard_time": 1769664742,
-      "rank": 48,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 126771,
       "num": 126771,
       "word": "黄金还能涨吗",
@@ -779,12 +803,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119005,
+      "num": 165035,
+      "word": "李川被六岁小孩骂了",
+      "onboard_time": 1769670445,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 118494,
       "num": 118494,
       "word": "美国超级暴风雪大量流浪汉冻死街头",
       "onboard_time": 1769617997,
       "rank": 34,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 118307,
+      "num": 160759,
+      "word": "迪丽热巴全女拉娘 渣女文学",
+      "onboard_time": 1769668944,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 116323,
@@ -801,14 +841,6 @@
       "onboard_time": 1769611645,
       "rank": 15,
       "category": "网红"
-    },
-    {
-      "raw_hot": 115730,
-      "num": 115730,
-      "word": "A股",
-      "onboard_time": 1769669002,
-      "rank": 31,
-      "category": "财经"
     },
     {
       "raw_hot": 115201,
@@ -851,12 +883,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 114354,
+      "num": 114354,
+      "word": "提前练习拜年话术的我belike",
+      "onboard_time": 1769670563,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 114177,
       "num": 681543,
       "word": "全国气温回升大趋势成定局",
       "onboard_time": 1769658200,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112641,
+      "num": 112641,
+      "word": "黄金史诗级大涨",
+      "onboard_time": 1769669304,
+      "rank": 37,
+      "category": "财经"
     },
     {
       "raw_hot": 111909,
@@ -867,6 +915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110887,
+      "num": 110887,
+      "word": "王者终于可以四排",
+      "onboard_time": 1769669845,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 108756,
       "num": 104573,
       "word": "黄圣依饶雪漫首搭短剧开机",
@@ -875,12 +931,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 106866,
-      "num": 106866,
-      "word": "刘强东同学说等强子回村想一起喝酒",
-      "onboard_time": 1769668644,
-      "rank": 33,
-      "category": "互联网"
+      "raw_hot": 106971,
+      "num": 106971,
+      "word": "建议脚臭的都去穿五指袜",
+      "onboard_time": 1769670683,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 106786,
@@ -889,6 +945,14 @@
       "onboard_time": 1769650700,
       "rank": 33,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 106656,
+      "num": 106656,
+      "word": "村支书说刘强东送年货也带来泼天流量",
+      "onboard_time": 1769669783,
+      "rank": 40,
+      "category": "互联网"
     },
     {
       "raw_hot": 106605,
@@ -947,20 +1011,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 104235,
-      "num": 104235,
-      "word": "王者终于可以四排",
-      "onboard_time": 1769669845,
-      "rank": 36,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 103947,
       "num": 103947,
       "word": "詹姆斯哭了",
       "onboard_time": 1769657961,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 103308,
+      "num": 103308,
+      "word": "虎杖悠仁正式加入战斗",
+      "onboard_time": 1769669783,
+      "rank": 41,
+      "category": "动漫"
     },
     {
       "raw_hot": 103299,
@@ -1011,14 +1075,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 100869,
-      "num": 100869,
-      "word": "黄金史诗级大涨",
-      "onboard_time": 1769669304,
-      "rank": 37,
-      "category": "财经"
-    },
-    {
       "raw_hot": 98585,
       "num": 98585,
       "word": "港股黄金板块集体大涨",
@@ -1051,12 +1107,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 96468,
-      "num": 96468,
-      "word": "村支书说刘强东送年货也带来泼天流量",
-      "onboard_time": 1769669783,
-      "rank": 40,
-      "category": "互联网"
+      "raw_hot": 96591,
+      "num": 96591,
+      "word": "当过年亲戚让我说两句belike",
+      "onboard_time": 1769670263,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 94746,
@@ -1075,14 +1131,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 94119,
-      "num": 94119,
-      "word": "虎杖悠仁正式加入战斗",
-      "onboard_time": 1769669783,
-      "rank": 41,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 93922,
       "num": 93922,
       "word": "2026LPL电竞春晚",
@@ -1097,6 +1145,14 @@
       "onboard_time": 1769647280,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 92418,
+      "num": 92418,
+      "word": "早睡到底有多爽",
+      "onboard_time": 1769668402,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 92267,
@@ -1131,14 +1187,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 90076,
-      "num": 160759,
-      "word": "迪丽热巴全女拉娘 渣女文学",
-      "onboard_time": 1769668944,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 88114,
       "num": 83122,
       "word": "李勤勤晒周海媚爱犬近况",
@@ -1147,12 +1195,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 87563,
+      "num": 87563,
+      "word": "王星越抱起白鹿就百米冲刺",
+      "onboard_time": 1769667923,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 87342,
       "num": 87342,
       "word": "助理偷用博主物品造哈佛留学人设",
       "onboard_time": 1769663902,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 87045,
+      "num": 87045,
+      "word": "贵州茅台股价涨超6%",
+      "onboard_time": 1769670445,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 86547,
@@ -1305,6 +1369,22 @@
       "onboard_time": 1769653520,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 79062,
+      "num": 79062,
+      "word": "王者限定皮肤返场票选",
+      "onboard_time": 1769670804,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 78215,
+      "num": 78215,
+      "word": "第一次听到这么合心意的新年祝福",
+      "onboard_time": 1769670804,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 77763,
@@ -1571,6 +1651,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 52048,
+      "num": 165687,
+      "word": "健康福和敬业福你们别打了",
+      "onboard_time": 1769670323,
+      "rank": 17,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 51466,
       "num": 51466,
       "word": "李兰迪 耳环消失术",
@@ -1771,6 +1859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29222,
+      "num": 95840,
+      "word": "这种电热水袋已明令禁售",
+      "onboard_time": 1769670024,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27537,
       "num": 63628,
       "word": "孩子去年才知道李娜是干嘛的",
@@ -1787,7 +1883,7 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 24451,
+      "raw_hot": 24789,
       "num": 216736,
       "word": "圣罗兰巴黎男装大秀",
       "onboard_time": 1769667083,

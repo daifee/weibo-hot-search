@@ -1,0 +1,410 @@
+{
+  "runTime": 1769670848078,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 818986,
+        "num": 1131037,
+        "word": "女子因幼犬轻咬未处理引发狂犬病",
+        "onboard_time": 1769667322,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 366157,
+        "num": 805885,
+        "word": "微博之夜阵容",
+        "onboard_time": 1769665882,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 101048,
+        "num": 656010,
+        "word": "全国气温回升大趋势成定局",
+        "onboard_time": 1769658200,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 342332,
+        "num": 342332,
+        "word": "歌手2026",
+        "onboard_time": 1769669184,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 313987,
+        "num": 313987,
+        "word": "23岁男子呕吐4天后竟突然失忆",
+        "onboard_time": 1769663663,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 568082,
+        "num": 279901,
+        "word": "快乐大本营创办者去世",
+        "onboard_time": 1769656940,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228743,
+        "num": 228743,
+        "word": "用了十年才发现镜子可以打开",
+        "onboard_time": 1769666963,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 189139,
+        "num": 189139,
+        "word": "明家涉案100余亿14名中国人死亡",
+        "onboard_time": 1769657841,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147877,
+        "num": 188780,
+        "word": "金银暴涨",
+        "onboard_time": 1769661924,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 124613,
+        "num": 183507,
+        "word": "哈工大辟谣学生捅伤两名教授",
+        "onboard_time": 1769661025,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 5467466,
+        "num": 5467466,
+        "word": "曝金晨肇事逃逸",
+        "onboard_time": 1769659642,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1079355,
+        "num": 179169,
+        "word": "曝庾澄庆经常不回恩利信息",
+        "onboard_time": 1769668581,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24789,
+        "num": 177427,
+        "word": "圣罗兰巴黎男装大秀",
+        "onboard_time": 1769667083,
+        "rank": 12,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 919231,
+        "num": 173128,
+        "word": "白酒",
+        "onboard_time": 1769667083,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 551422,
+        "num": 169010,
+        "word": "薛佳凝自曝2013年开始攒金",
+        "onboard_time": 1769663902,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 3832389,
+        "num": 168474,
+        "word": "曝金晨交通事故监控截图",
+        "onboard_time": 1769670383,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165721,
+        "num": 165721,
+        "word": "三甲医生回应胎儿一脚踢破妈妈子宫",
+        "onboard_time": 1769663242,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52048,
+        "num": 165687,
+        "word": "健康福和敬业福你们别打了",
+        "onboard_time": 1769670323,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 119005,
+        "num": 165035,
+        "word": "李川被六岁小孩骂了",
+        "onboard_time": 1769670445,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245267,
+        "num": 164767,
+        "word": "papi酱目前最大尺度嘉宾",
+        "onboard_time": 1769665642,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 307429,
+        "num": 164273,
+        "word": "金饰克价涨至1708元",
+        "onboard_time": 1769650759,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 252923,
+        "num": 163906,
+        "word": "金子涵已经退圈了",
+        "onboard_time": 1769664742,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119083,
+        "num": 163540,
+        "word": "微博之夜",
+        "onboard_time": 1769601681,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 272121,
+        "num": 163400,
+        "word": "黄金",
+        "onboard_time": 1769642958,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 163034,
+        "num": 163034,
+        "word": "刘强东同学说等强子回村想一起喝酒",
+        "onboard_time": 1769668644,
+        "rank": 24,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 156448,
+        "num": 156448,
+        "word": "A股",
+        "onboard_time": 1769669002,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 151693,
+        "num": 151693,
+        "word": "气血足不足看身体这3个部位",
+        "onboard_time": 1769664742,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 118307,
+        "num": 118307,
+        "word": "迪丽热巴全女拉娘 渣女文学",
+        "onboard_time": 1769668944,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1448646,
+        "num": 118205,
+        "word": "国安 人在做天在看",
+        "onboard_time": 1769666424,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115025,
+        "num": 115025,
+        "word": "朴彩英谈BLACKPINK关系",
+        "onboard_time": 1769660843,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114354,
+        "num": 114354,
+        "word": "提前练习拜年话术的我belike",
+        "onboard_time": 1769670563,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112641,
+        "num": 112641,
+        "word": "黄金史诗级大涨",
+        "onboard_time": 1769669304,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 112154,
+        "num": 112154,
+        "word": "花生这辈子没想到还能被切丝",
+        "onboard_time": 1769661803,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 161090,
+        "num": 112099,
+        "word": "北京国安新赛季被罚5分",
+        "onboard_time": 1769661624,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110887,
+        "num": 110887,
+        "word": "王者终于可以四排",
+        "onboard_time": 1769669845,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 106971,
+        "num": 106971,
+        "word": "建议脚臭的都去穿五指袜",
+        "onboard_time": 1769670683,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 106656,
+        "num": 106656,
+        "word": "村支书说刘强东送年货也带来泼天流量",
+        "onboard_time": 1769669783,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 103308,
+        "num": 103308,
+        "word": "虎杖悠仁正式加入战斗",
+        "onboard_time": 1769669783,
+        "rank": 37,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 96591,
+        "num": 96591,
+        "word": "当过年亲戚让我说两句belike",
+        "onboard_time": 1769670263,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 29222,
+        "num": 95840,
+        "word": "这种电热水袋已明令禁售",
+        "onboard_time": 1769670024,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95428,
+        "num": 95428,
+        "word": "马斯克称中国是下一个级别的狠角色",
+        "onboard_time": 1769661985,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 92418,
+        "num": 92418,
+        "word": "早睡到底有多爽",
+        "onboard_time": 1769668402,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 91365,
+        "num": 91365,
+        "word": "辛芷蕾涂口红这段是妈咪级别",
+        "onboard_time": 1769666003,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87563,
+        "num": 87563,
+        "word": "王星越抱起白鹿就百米冲刺",
+        "onboard_time": 1769667923,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87045,
+        "num": 87045,
+        "word": "贵州茅台股价涨超6%",
+        "onboard_time": 1769670445,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 86859,
+        "num": 86859,
+        "word": "深圳水贝某黄金平台上亿元提现无门",
+        "onboard_time": 1769664022,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85321,
+        "num": 85321,
+        "word": "白宫发了一张图新华社回了个动画",
+        "onboard_time": 1769651541,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 79908,
+        "num": 79908,
+        "word": "第五人格园丁",
+        "onboard_time": 1769669122,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 79062,
+        "num": 79062,
+        "word": "王者限定皮肤返场票选",
+        "onboard_time": 1769670804,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 78215,
+        "num": 78215,
+        "word": "第一次听到这么合心意的新年祝福",
+        "onboard_time": 1769670804,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记激励体育健儿超越自我#"
+    }
+  }
+}
