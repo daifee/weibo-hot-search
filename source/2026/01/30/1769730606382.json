@@ -1,0 +1,410 @@
+{
+  "runTime": 1769730606382,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 241456,
+        "num": 949067,
+        "word": "年轻老板狂扫700万黄金店员报警",
+        "onboard_time": 1769701825,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150382,
+        "num": 710768,
+        "word": "紫金矿业创始人泪洒现场",
+        "onboard_time": 1769709676,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 21018,
+        "num": 530648,
+        "word": "中国新能源汽车持续领跑全球",
+        "onboard_time": 1769691564,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 278486,
+        "num": 278486,
+        "word": "银行卡一定要彻底解绑",
+        "onboard_time": 1769728158,
+        "rank": 3,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 270808,
+        "num": 270808,
+        "word": "宝可梦踩靖国神社红线不是初犯",
+        "onboard_time": 1769728339,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1873095,
+        "num": 257124,
+        "word": "黄金跳水",
+        "onboard_time": 1769728039,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 201679,
+        "num": 201679,
+        "word": "瑞典企业已撤下击沉中国军舰动画",
+        "onboard_time": 1769728878,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 143773,
+        "num": 143773,
+        "word": "孙俪总台视后",
+        "onboard_time": 1769696065,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128905,
+        "num": 128905,
+        "word": "女子吃自制牛瘪火锅中毒双手变蓝",
+        "onboard_time": 1769700744,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117550,
+        "num": 117550,
+        "word": "白银",
+        "onboard_time": 1769728578,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 509375,
+        "num": 117001,
+        "word": "金晨案事发地村民说撞了一堵墙",
+        "onboard_time": 1769726356,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 427156,
+        "num": 115137,
+        "word": "男演员9公斤黄金400元每克卖出",
+        "onboard_time": 1769689343,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112307,
+        "num": 112307,
+        "word": "邻居楼道放鞋架女子挂婆婆遗照反击",
+        "onboard_time": 1769695944,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228958,
+        "num": 109605,
+        "word": "偶遇王俊凯周杰伦吃火锅",
+        "onboard_time": 1769727977,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151468,
+        "num": 101457,
+        "word": "沈佳润把照片做成了牛仔裤挂饰",
+        "onboard_time": 1769728878,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2385687,
+        "num": 96319,
+        "word": "黄金暴跌",
+        "onboard_time": 1769703021,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 239723,
+        "num": 91149,
+        "word": "曝金晨交通事故监控截图",
+        "onboard_time": 1769670383,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88809,
+        "num": 88809,
+        "word": "白银重挫8%",
+        "onboard_time": 1769704580,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 85164,
+        "num": 85164,
+        "word": "Bin 主动道歉",
+        "onboard_time": 1769699604,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 79569,
+        "num": 79569,
+        "word": "主治医生哭着说已想尽办法留住豪豪",
+        "onboard_time": 1769718913,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 302297,
+        "num": 79110,
+        "word": "金价暴涨第一批受害者出现",
+        "onboard_time": 1769692584,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187039,
+        "num": 78675,
+        "word": "金价",
+        "onboard_time": 1769700924,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 148094,
+        "num": 77734,
+        "word": "原来这就是父母的托举啊",
+        "onboard_time": 1769728819,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129906,
+        "num": 77355,
+        "word": "金价上涨打金店2天亏5万",
+        "onboard_time": 1769700203,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101790,
+        "num": 76803,
+        "word": "婚礼现场婆婆和亲妈撞脸惊呆宾客",
+        "onboard_time": 1769699784,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95885,
+        "num": 75825,
+        "word": "金价大幅跳水后反弹",
+        "onboard_time": 1769730019,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 88275,
+        "num": 75433,
+        "word": "早睡觉可解决80%以上的问题",
+        "onboard_time": 1769691443,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 75102,
+        "num": 75102,
+        "word": "司机目睹男孩被女子推倒摔马路中间",
+        "onboard_time": 1769697864,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73953,
+        "num": 73953,
+        "word": "Selina悼念烧伤主治医生",
+        "onboard_time": 1769689284,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73788,
+        "num": 73788,
+        "word": "阚清子侧颜",
+        "onboard_time": 1769688203,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94291,
+        "num": 72642,
+        "word": "酷派当年给了个200g的纯银锤子",
+        "onboard_time": 1769728878,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 71469,
+        "num": 71469,
+        "word": "国防部回应第四艘航母建造进展",
+        "onboard_time": 1769728999,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 65666,
+        "num": 65666,
+        "word": "太平年李煜镜头被盘包浆了",
+        "onboard_time": 1769703861,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63596,
+        "num": 63596,
+        "word": "女大学生东北冻伤三根手指父亲发声",
+        "onboard_time": 1769729599,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56777,
+        "num": 56777,
+        "word": "银价暴涨10倍带火CT废胶片",
+        "onboard_time": 1769700562,
+        "rank": 34,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 56555,
+        "num": 56555,
+        "word": "长期运动的人更早意识到身体要维护",
+        "onboard_time": 1769721073,
+        "rank": 35,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 54056,
+        "num": 54056,
+        "word": "于和伟总台视帝",
+        "onboard_time": 1769697323,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 51841,
+        "num": 51841,
+        "word": "英雄联盟",
+        "onboard_time": 1769728937,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 53957,
+        "num": 51511,
+        "word": "中国电视剧年度盛典",
+        "onboard_time": 1769691204,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48036,
+        "num": 48036,
+        "word": "黄金崩得真快",
+        "onboard_time": 1769730019,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 47593,
+        "num": 47593,
+        "word": "野人先生130克冰淇淋卖28元被指贵",
+        "onboard_time": 1769699305,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46728,
+        "num": 46728,
+        "word": "嘉禾望岗为何被称为分手车站",
+        "onboard_time": 1769701882,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44306,
+        "num": 44306,
+        "word": "孙千魏大勋cp感好强",
+        "onboard_time": 1769704759,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41322,
+        "num": 41322,
+        "word": "Bin首发",
+        "onboard_time": 1769699243,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 39067,
+        "num": 41322,
+        "word": "QQ不响了微信没声了",
+        "onboard_time": 1769687662,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 37527,
+        "num": 41309,
+        "word": "福建一家族合盖15层自建房",
+        "onboard_time": 1769701226,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36314,
+        "num": 41302,
+        "word": "夜色正浓",
+        "onboard_time": 1769729238,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34729,
+        "num": 41298,
+        "word": "易梦玲在冰川上穿吊带裙拍照",
+        "onboard_time": 1769690543,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28840,
+        "num": 41289,
+        "word": "伊朗军队新装备千架战略无人机",
+        "onboard_time": 1769698644,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 32622,
+        "num": 41287,
+        "word": "小S真的生了一个林志玲出来",
+        "onboard_time": 1769680945,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#中英两国合作一定能一马当先#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1769272464158,
-  "endTime": 1769729719476,
+  "endTime": 1769730606382,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -131,6 +131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1873095,
+      "num": 257124,
+      "word": "黄金跳水",
+      "onboard_time": 1769728039,
+      "rank": 5,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1823580,
       "num": 211879,
       "word": "小S真的生了一个林志玲出来",
@@ -161,14 +169,6 @@
       "onboard_time": 1769427921,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1556396,
-      "num": 189764,
-      "word": "黄金跳水",
-      "onboard_time": 1769728039,
-      "rank": 5,
-      "category": "财经"
     },
     {
       "raw_hot": 1554906,
@@ -1244,7 +1244,7 @@
     },
     {
       "raw_hot": 518849,
-      "num": 86310,
+      "num": 117001,
       "word": "金晨案事发地村民说撞了一堵墙",
       "onboard_time": 1769726356,
       "rank": 11,
@@ -3203,6 +3203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 278486,
+      "num": 278486,
+      "word": "银行卡一定要彻底解绑",
+      "onboard_time": 1769728158,
+      "rank": 3,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 278051,
       "num": 278051,
       "word": "好利来道歉",
@@ -3329,6 +3337,14 @@
       "onboard_time": 1769567720,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 270808,
+      "num": 270808,
+      "word": "宝可梦踩靖国神社红线不是初犯",
+      "onboard_time": 1769728339,
+      "rank": 4,
+      "category": "国内时政"
     },
     {
       "raw_hot": 270774,
@@ -3731,14 +3747,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 247189,
-      "num": 247189,
-      "word": "银行卡一定要彻底解绑",
-      "onboard_time": 1769728158,
-      "rank": 3,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 246422,
       "num": 246422,
       "word": "女子2次流产分手被判返还部分彩礼",
@@ -3817,6 +3825,14 @@
       "onboard_time": 1769574861,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 241456,
+      "num": 949067,
+      "word": "年轻老板狂扫700万黄金店员报警",
+      "onboard_time": 1769701825,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 241423,
@@ -4064,6 +4080,14 @@
       "word": "张艺兴孙红雷同框跳手势舞",
       "onboard_time": 1769437702,
       "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 228958,
+      "num": 109605,
+      "word": "偶遇王俊凯周杰伦吃火锅",
+      "onboard_time": 1769727977,
+      "rank": 14,
       "category": "艺人"
     },
     {
@@ -4443,6 +4467,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 201679,
+      "num": 201679,
+      "word": "瑞典企业已撤下击沉中国军舰动画",
+      "onboard_time": 1769728878,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 201220,
       "num": 116283,
       "word": "江疏影瘦了",
@@ -4529,14 +4561,6 @@
       "onboard_time": 1769340740,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 198665,
-      "num": 198665,
-      "word": "宝可梦踩靖国神社红线不是初犯",
-      "onboard_time": 1769728339,
-      "rank": 4,
-      "category": "国内时政"
     },
     {
       "raw_hot": 198150,
@@ -4891,14 +4915,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 179160,
-      "num": 823735,
-      "word": "年轻老板狂扫700万黄金店员报警",
-      "onboard_time": 1769701825,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 179045,
       "num": 173530,
       "word": "好利来涉事产品已全部销毁",
@@ -4921,14 +4937,6 @@
       "onboard_time": 1769439202,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 178470,
-      "num": 84049,
-      "word": "偶遇王俊凯周杰伦吃火锅",
-      "onboard_time": 1769727977,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 177196,
@@ -5611,6 +5619,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 151468,
+      "num": 101457,
+      "word": "沈佳润把照片做成了牛仔裤挂饰",
+      "onboard_time": 1769728878,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 151458,
       "num": 129455,
       "word": "特朗普左手戴手套",
@@ -5641,6 +5657,14 @@
       "onboard_time": 1769505200,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 150382,
+      "num": 710768,
+      "word": "紫金矿业创始人泪洒现场",
+      "onboard_time": 1769709676,
+      "rank": 25,
+      "category": "财经"
     },
     {
       "raw_hot": 150241,
@@ -5761,6 +5785,14 @@
       "onboard_time": 1769520202,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 148094,
+      "num": 77734,
+      "word": "原来这就是父母的托举啊",
+      "onboard_time": 1769728819,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 147813,
@@ -6275,14 +6307,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 136132,
-      "num": 58545,
-      "word": "原来这就是父母的托举啊",
-      "onboard_time": 1769728819,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 135920,
       "num": 183103,
       "word": "早睡觉可解决80%以上的问题",
@@ -6377,14 +6401,6 @@
       "onboard_time": 1769661203,
       "rank": 28,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 134208,
-      "num": 82753,
-      "word": "沈佳润把照片做成了牛仔裤挂饰",
-      "onboard_time": 1769728878,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 134137,
@@ -6513,14 +6529,6 @@
       "onboard_time": 1769420362,
       "rank": 18,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 131719,
-      "num": 593755,
-      "word": "紫金矿业创始人泪洒现场",
-      "onboard_time": 1769709676,
-      "rank": 25,
-      "category": "财经"
     },
     {
       "raw_hot": 131558,
@@ -7225,14 +7233,6 @@
       "onboard_time": 1769354603,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 121262,
-      "num": 57373,
-      "word": "瑞典企业已撤下击沉中国军舰动画",
-      "onboard_time": 1769728878,
-      "rank": 31,
-      "category": "国内时政"
     },
     {
       "raw_hot": 121220,
@@ -9803,6 +9803,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 95885,
+      "num": 75825,
+      "word": "金价大幅跳水后反弹",
+      "onboard_time": 1769730019,
+      "rank": 25,
+      "category": "财经"
+    },
+    {
       "raw_hot": 95860,
       "num": 95860,
       "word": "请假没有告知同事的义务",
@@ -10065,6 +10073,14 @@
       "onboard_time": 1769417662,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 94291,
+      "num": 72642,
+      "word": "酷派当年给了个200g的纯银锤子",
+      "onboard_time": 1769728878,
+      "rank": 32,
+      "category": "数码"
     },
     {
       "raw_hot": 94102,
@@ -11811,14 +11827,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 83287,
-      "num": 57373,
-      "word": "酷派当年给了个200g的纯银锤子",
-      "onboard_time": 1769728878,
-      "rank": 32,
-      "category": "数码"
-    },
-    {
       "raw_hot": 83269,
       "num": 89427,
       "word": "官方通报女子网购童装穿脏后退货",
@@ -13475,6 +13483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 71469,
+      "num": 71469,
+      "word": "国防部回应第四艘航母建造进展",
+      "onboard_time": 1769728999,
+      "rank": 33,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 71372,
       "num": 71372,
       "word": "无法翻译成普通话的粤语",
@@ -14067,6 +14083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 63596,
+      "num": 63596,
+      "word": "女大学生东北冻伤三根手指父亲发声",
+      "onboard_time": 1769729599,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 63512,
       "num": 170201,
       "word": "过年回家穿暖点",
@@ -14435,6 +14459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 56555,
+      "num": 56555,
+      "word": "长期运动的人更早意识到身体要维护",
+      "onboard_time": 1769721073,
+      "rank": 26,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 56479,
       "num": 140947,
       "word": "郭涛说家不是打分的地方",
@@ -14505,14 +14537,6 @@
       "onboard_time": 1769333360,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 55367,
-      "num": 55367,
-      "word": "国防部回应第四艘航母建造进展",
-      "onboard_time": 1769728999,
-      "rank": 33,
-      "category": "国内时政"
     },
     {
       "raw_hot": 55179,
@@ -14659,12 +14683,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 51898,
-      "num": 51898,
-      "word": "长期运动的人更早意识到身体要维护",
-      "onboard_time": 1769721073,
-      "rank": 26,
-      "category": "运动健身"
+      "raw_hot": 51841,
+      "num": 51841,
+      "word": "英雄联盟",
+      "onboard_time": 1769728937,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 51511,
@@ -14843,6 +14867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 48036,
+      "num": 48036,
+      "word": "黄金崩得真快",
+      "onboard_time": 1769730019,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 47962,
       "num": 648380,
       "word": "政务应用程序管理新规发布",
@@ -15009,14 +15041,6 @@
       "onboard_time": 1769573719,
       "rank": 16,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 44393,
-      "num": 44393,
-      "word": "英雄联盟",
-      "onboard_time": 1769728937,
-      "rank": 36,
-      "category": "电竞"
     },
     {
       "raw_hot": 44309,
@@ -15539,6 +15563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 36314,
+      "num": 41302,
+      "word": "夜色正浓",
+      "onboard_time": 1769729238,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 36143,
       "num": 116275,
       "word": "印度尼帕病毒疫情01年来暴发9次",
@@ -15739,14 +15771,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 32465,
-      "num": 34338,
-      "word": "夜色正浓",
-      "onboard_time": 1769729238,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 32339,
       "num": 34313,
       "word": "你好星期六",
@@ -15905,14 +15929,6 @@
       "onboard_time": 1769499560,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 30681,
-      "num": 34324,
-      "word": "女大学生东北冻伤三根手指父亲发声",
-      "onboard_time": 1769729599,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 30469,
