@@ -1,6 +1,6 @@
 {
   "startTime": 1769702505765,
-  "endTime": 1769705663885,
+  "endTime": 1769706405097,
   "band_list": [
     {
       "raw_hot": 3481750,
@@ -195,6 +195,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 156088,
+      "num": 550599,
+      "word": "缅甸新诈骗园区有早前获救者",
+      "onboard_time": 1769701703,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 145653,
       "num": 145653,
       "word": "邻居楼道放鞋架女子挂婆婆遗照反击",
@@ -203,12 +211,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 140495,
-      "num": 156406,
-      "word": "缅甸新诈骗园区有早前获救者",
-      "onboard_time": 1769701703,
-      "rank": 19,
-      "category": "海外新闻"
+      "raw_hot": 140475,
+      "num": 386312,
+      "word": "女子吃自制牛瘪火锅中毒双手变蓝",
+      "onboard_time": 1769700744,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 131765,
@@ -219,11 +227,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 131201,
-      "num": 131201,
-      "word": "女子吃自制牛瘪火锅中毒双手变蓝",
-      "onboard_time": 1769700744,
-      "rank": 32,
+      "raw_hot": 130676,
+      "num": 130676,
+      "word": "现货黄金白银快速走低",
+      "onboard_time": 1769703021,
+      "rank": 8,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 124133,
+      "num": 124133,
+      "word": "年轻老板狂扫700万黄金店员报警",
+      "onboard_time": 1769701825,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -233,14 +249,6 @@
       "onboard_time": 1769704580,
       "rank": 27,
       "category": "财经"
-    },
-    {
-      "raw_hot": 117041,
-      "num": 117041,
-      "word": "年轻老板狂扫700万黄金店员报警",
-      "onboard_time": 1769701825,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 112679,
@@ -307,14 +315,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 93172,
-      "num": 115133,
-      "word": "现货黄金白银快速走低",
-      "onboard_time": 1769703021,
-      "rank": 8,
-      "category": "财经"
-    },
-    {
       "raw_hot": 91182,
       "num": 109168,
       "word": "早睡觉可解决80%以上的问题",
@@ -337,6 +337,14 @@
       "onboard_time": 1769699784,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 89041,
+      "num": 113390,
+      "word": "太平年李煜镜头被盘包浆了",
+      "onboard_time": 1769703861,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 85890,
@@ -371,20 +379,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 81003,
-      "num": 113390,
-      "word": "太平年李煜镜头被盘包浆了",
-      "onboard_time": 1769703861,
-      "rank": 9,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 80179,
       "num": 80179,
       "word": "沙溢终于知道体重管理的重要性了",
       "onboard_time": 1769698763,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 79121,
+      "num": 103418,
+      "word": "网友称吃药后疯狂买彩票",
+      "onboard_time": 1769702901,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 74800,
+      "num": 100839,
+      "word": "嘉禾望岗为何被称为分手车站",
+      "onboard_time": 1769701882,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 74753,
@@ -403,12 +419,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 72134,
-      "num": 103418,
-      "word": "网友称吃药后疯狂买彩票",
-      "onboard_time": 1769702901,
-      "rank": 18,
-      "category": "民生新闻"
+      "raw_hot": 70529,
+      "num": 99336,
+      "word": "孙千魏大勋cp感好强",
+      "onboard_time": 1769704759,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 70033,
@@ -417,22 +433,6 @@
       "onboard_time": 1769700083,
       "rank": 48,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 64722,
-      "num": 100839,
-      "word": "嘉禾望岗为何被称为分手车站",
-      "onboard_time": 1769701882,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 59413,
-      "num": 99336,
-      "word": "孙千魏大勋cp感好强",
-      "onboard_time": 1769704759,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 50999,
@@ -467,6 +467,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 38043,
+      "num": 88543,
+      "word": "卢昱晓南衣造型很曼妙",
+      "onboard_time": 1769705958,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 35177,
+      "num": 88399,
+      "word": "小乐 帮队友卖就行了",
+      "onboard_time": 1769705958,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 34670,
+      "num": 88342,
+      "word": "王俊凯的自拍角度",
+      "onboard_time": 1769685624,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 27514,
       "num": 656288,
       "word": "中国新能源汽车持续领跑全球",
@@ -486,6 +510,9 @@
   "hotgov_list": [
     {
       "word": "#习近平会见英国首相#"
+    },
+    {
+      "word": "#中英两国合作一定能一马当先#"
     }
   ]
 }
