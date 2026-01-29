@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769706405097,
+  "endTime": 1769708669717,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -40379,6 +40379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136816,
+      "num": 347741,
+      "word": "太平年李煜镜头被盘包浆了",
+      "onboard_time": 1769703861,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 136705,
       "num": 520182,
       "word": "IG对战JDG",
@@ -66971,14 +66979,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 89041,
-      "num": 113390,
-      "word": "太平年李煜镜头被盘包浆了",
-      "onboard_time": 1769703861,
-      "rank": 9,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 89024,
       "num": 207774,
       "word": "王格格王皓祯方夏扫楼差点亲上",
@@ -70097,6 +70097,14 @@
       "onboard_time": 1769131101,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 85470,
+      "num": 103418,
+      "word": "网友称吃药后疯狂买彩票",
+      "onboard_time": 1769702901,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 85467,
@@ -74707,14 +74715,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 79121,
-      "num": 103418,
-      "word": "网友称吃药后疯狂买彩票",
-      "onboard_time": 1769702901,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 79110,
       "num": 87322,
       "word": "一夜之间委内瑞拉变天了",
@@ -75305,6 +75305,14 @@
       "onboard_time": 1768876459,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 78127,
+      "num": 99336,
+      "word": "孙千魏大勋cp感好强",
+      "onboard_time": 1769704759,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 78114,
@@ -79273,14 +79281,6 @@
       "onboard_time": 1769506880,
       "rank": 49,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 70529,
-      "num": 99336,
-      "word": "孙千魏大勋cp感好强",
-      "onboard_time": 1769704759,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 70522,
@@ -91579,6 +91579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 30367,
+      "num": 57056,
+      "word": "年度号召力男演员欧豪",
+      "onboard_time": 1769708176,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 30351,
       "num": 30351,
       "word": "赵今麦骄阳似我庆功宴造型",
@@ -93144,6 +93152,14 @@
       "word": "当地给被送养老院截瘫女子申请低保",
       "onboard_time": 1768043661,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25408,
+      "num": 56756,
+      "word": "学者称县城中产女性比例更高",
+      "onboard_time": 1769703081,
+      "rank": 46,
       "category": "民生新闻"
     },
     {

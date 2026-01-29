@@ -1,6 +1,6 @@
 {
   "startTime": 1769702505765,
-  "endTime": 1769706405097,
+  "endTime": 1769708669717,
   "band_list": [
     {
       "raw_hot": 3481750,
@@ -219,6 +219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 136816,
+      "num": 347741,
+      "word": "太平年李煜镜头被盘包浆了",
+      "onboard_time": 1769703861,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 131765,
       "num": 131765,
       "word": "郭京飞总台视帝",
@@ -339,20 +347,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 89041,
-      "num": 113390,
-      "word": "太平年李煜镜头被盘包浆了",
-      "onboard_time": 1769703861,
-      "rank": 9,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 85890,
       "num": 99445,
       "word": "宋威龙泰国西装领带",
       "onboard_time": 1769701460,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 85470,
+      "num": 103418,
+      "word": "网友称吃药后疯狂买彩票",
+      "onboard_time": 1769702901,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 85392,
@@ -387,12 +395,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 79121,
-      "num": 103418,
-      "word": "网友称吃药后疯狂买彩票",
-      "onboard_time": 1769702901,
-      "rank": 18,
-      "category": "民生新闻"
+      "raw_hot": 78127,
+      "num": 99336,
+      "word": "孙千魏大勋cp感好强",
+      "onboard_time": 1769704759,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 74800,
@@ -419,20 +427,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 70529,
-      "num": 99336,
-      "word": "孙千魏大勋cp感好强",
-      "onboard_time": 1769704759,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 70033,
       "num": 74426,
       "word": "廖锡龙同志逝世",
       "onboard_time": 1769700083,
       "rank": 48,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 64249,
+      "num": 59591,
+      "word": "小S真的生了一个林志玲出来",
+      "onboard_time": 1769680945,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 50999,
@@ -449,6 +457,14 @@
       "onboard_time": 1769705238,
       "rank": 42,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 46279,
+      "num": 57400,
+      "word": "易梦玲在冰川上穿吊带裙拍照",
+      "onboard_time": 1769690543,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 41372,
@@ -491,12 +507,44 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 30367,
+      "num": 57056,
+      "word": "年度号召力男演员欧豪",
+      "onboard_time": 1769708176,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 27514,
       "num": 656288,
       "word": "中国新能源汽车持续领跑全球",
       "onboard_time": 1769691564,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 25408,
+      "num": 56756,
+      "word": "学者称县城中产女性比例更高",
+      "onboard_time": 1769703081,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24783,
+      "num": 56681,
+      "word": "王安宇卷毛届最严厉的父亲",
+      "onboard_time": 1769694804,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 24565,
+      "num": 56626,
+      "word": "DYG战胜WE",
+      "onboard_time": 1769695645,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 23348,
