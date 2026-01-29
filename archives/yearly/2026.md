@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/29 23:06:25
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/29 23:43:37
 </p>
 </blockquote>
 <p>
@@ -1047,6 +1047,12 @@ BLG上调新上单Wenbo（热度：1173465）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E7%AC%AC%E4%B8%80%E6%89%B9%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%23" target="weibo">
+金价暴涨第一批受害者出现（热度：1134331）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%B3%96%E9%9C%9C%E8%8B%B9%E6%9E%9C%23" target="weibo">
 糖霜苹果（热度：1130397）
 </a>
@@ -1493,12 +1499,6 @@ TF家族荣耀之战演唱会官宣（热度：1014473）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%97%E6%B0%B8%E6%B5%A9%20%E8%A5%BF%E8%B4%9D%23" target="weibo">
 罗永浩 西贝（热度：991913）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E7%AC%AC%E4%B8%80%E6%89%B9%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%23" target="weibo">
-金价暴涨第一批受害者出现（热度：991867）
 </a>
 </li>
 

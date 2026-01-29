@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/29 23:06:25
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/29 23:43:37
 </p>
 </blockquote>
 <p>
@@ -1047,6 +1047,12 @@ BLG上调新上单Wenbo（热度：1173465）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E7%AC%AC%E4%B8%80%E6%89%B9%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%23" target="weibo">
+金价暴涨第一批受害者出现（热度：1134331）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%B3%96%E9%9C%9C%E8%8B%B9%E6%9E%9C%23" target="weibo">
 糖霜苹果（热度：1130397）
 </a>
@@ -1497,12 +1503,6 @@ TF家族荣耀之战演唱会官宣（热度：1014473）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E7%AC%AC%E4%B8%80%E6%89%B9%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%23" target="weibo">
-金价暴涨第一批受害者出现（热度：991867）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%98%8E%E6%98%9F%E4%B8%BA%E5%AD%A9%E5%AD%90%E6%8C%A4%E7%97%98%E8%87%B4%E5%85%B6%E8%84%B8%E7%BC%9D%E5%9B%9B%E9%92%88%23" target="weibo">
 女明星为孩子挤痘致其脸缝四针（热度：986767）
 </a>
@@ -1919,6 +1919,12 @@ DYG战胜狼队（热度：867183）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A4%90%E9%A6%86%E5%86%85%E6%AD%BB%E4%BA%A113%E5%B2%81%E7%94%B7%E5%AD%A9%E7%88%B6%E6%AF%8D%E6%99%BA%E5%8A%9B%E6%AE%8B%E7%96%BE%23" target="weibo">
 餐馆内死亡13岁男孩父母智力残疾（热度：866623）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23Bin%E9%A6%96%E5%8F%91%23" target="weibo">
+Bin首发（热度：866209）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ iPhone4需求激增近1000%（热度：506886）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%91%E5%88%9D%E4%BB%A4%23" target="weibo">
 云初令（热度：496642）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B5%E7%BE%8A%E7%A4%BC%20%E5%B1%88%E8%BE%B1%23" target="weibo">
-牵羊礼 屈辱（热度：496564）
 </a>
 </li>
 
