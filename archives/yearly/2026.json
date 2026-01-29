@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769701417890,
+  "endTime": 1769702505765,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -384,6 +384,14 @@
       "word": "马年纪念币预约",
       "onboard_time": 1768313484,
       "rank": 0,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 2213531,
+      "num": 1002614,
+      "word": "金价",
+      "onboard_time": 1767257540,
+      "rank": 47,
       "category": "财经"
     },
     {
@@ -851,14 +859,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1487438,
-      "num": 1002614,
-      "word": "金价",
-      "onboard_time": 1767257540,
-      "rank": 47,
-      "category": "财经"
-    },
-    {
       "raw_hot": 1485815,
       "num": 684333,
       "word": "日本梅毒扩散",
@@ -1104,6 +1104,14 @@
       "word": "贺娇龙相册全是凌晨工作照片",
       "onboard_time": 1768437443,
       "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1241684,
+      "num": 991867,
+      "word": "金价暴涨第一批受害者出现",
+      "onboard_time": 1769692584,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -1377,14 +1385,6 @@
       "onboard_time": 1767195686,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1134331,
-      "num": 991867,
-      "word": "金价暴涨第一批受害者出现",
-      "onboard_time": 1769692584,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1130397,

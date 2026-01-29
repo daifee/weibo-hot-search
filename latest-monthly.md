@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/29 23:43:37
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/30 00:01:45
 </p>
 </blockquote>
 <p>
@@ -299,6 +299,12 @@ U23国足vs越南（热度：2487537）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%B9%B4%E7%BA%AA%E5%BF%B5%E5%B8%81%E9%A2%84%E7%BA%A6%23" target="weibo">
 马年纪念币预约（热度：2285482）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%23" target="weibo">
+金价（热度：2213531）
 </a>
 </li>
 
@@ -651,12 +657,6 @@ U23国足3比0越南U23（热度：1532686）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%23" target="weibo">
-金价（热度：1487438）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%A2%85%E6%AF%92%E6%89%A9%E6%95%A3%23" target="weibo">
 日本梅毒扩散（热度：1485815）
 </a>
@@ -839,6 +839,12 @@ woojin 塌房（热度：1279260）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B4%BA%E5%A8%87%E9%BE%99%E7%9B%B8%E5%86%8C%E5%85%A8%E6%98%AF%E5%87%8C%E6%99%A8%E5%B7%A5%E4%BD%9C%E7%85%A7%E7%89%87%23" target="weibo">
 贺娇龙相册全是凌晨工作照片（热度：1247096）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E7%AC%AC%E4%B8%80%E6%89%B9%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%23" target="weibo">
+金价暴涨第一批受害者出现（热度：1241684）
 </a>
 </li>
 
@@ -1043,12 +1049,6 @@ BLG上调新上单Wenbo（热度：1173465）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E6%9F%93%20%E9%9A%BE%E5%94%B1%23" target="weibo">
 不染 难唱（热度：1134971）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E7%AC%AC%E4%B8%80%E6%89%B9%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%23" target="weibo">
-金价暴涨第一批受害者出现（热度：1134331）
 </a>
 </li>
 

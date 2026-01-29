@@ -1,6 +1,6 @@
 {
   "startTime": 1769272464158,
-  "endTime": 1769701417890,
+  "endTime": 1769702505765,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -105,6 +105,14 @@
       "onboard_time": 1769603661,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2213531,
+      "num": 519498,
+      "word": "金价",
+      "onboard_time": 1769320160,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 2190334,
@@ -227,6 +235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1241684,
+      "num": 991867,
+      "word": "金价暴涨第一批受害者出现",
+      "onboard_time": 1769692584,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1228921,
       "num": 839459,
       "word": "保险公司称金晨方放弃索赔",
@@ -296,14 +312,6 @@
       "word": "4.5天工作制",
       "onboard_time": 1769576303,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1134331,
-      "num": 991867,
-      "word": "金价暴涨第一批受害者出现",
-      "onboard_time": 1769692584,
-      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -393,14 +401,6 @@
       "onboard_time": 1769270426,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1015442,
-      "num": 376171,
-      "word": "金价",
-      "onboard_time": 1769320160,
-      "rank": 34,
-      "category": "财经"
     },
     {
       "raw_hot": 1006853,
@@ -1667,6 +1667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 434679,
+      "num": 204361,
+      "word": "Bin 主动道歉",
+      "onboard_time": 1769699604,
+      "rank": 12,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 433705,
       "num": 433705,
       "word": "u23国足半场0比2日本",
@@ -2003,14 +2011,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 388423,
-      "num": 204361,
-      "word": "Bin 主动道歉",
-      "onboard_time": 1769699604,
-      "rank": 12,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 385349,
       "num": 385349,
       "word": "云旗空降",
@@ -2121,6 +2121,14 @@
       "onboard_time": 1769687662,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 368506,
+      "num": 1058961,
+      "word": "水贝一写字楼宣布封闭楼顶天台",
+      "onboard_time": 1769699902,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 367868,
@@ -2283,6 +2291,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 346994,
+      "num": 346994,
+      "word": "金价上涨打金店2天亏5万",
+      "onboard_time": 1769700203,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 343391,
       "num": 343391,
       "word": "建议脚臭的都去穿五指袜",
@@ -2297,6 +2313,14 @@
       "onboard_time": 1769519663,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 342953,
+      "num": 1047702,
+      "word": "生万物横扫",
+      "onboard_time": 1769697504,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 342398,
@@ -2883,14 +2907,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 298140,
-      "num": 1047702,
-      "word": "生万物横扫",
-      "onboard_time": 1769697504,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 296849,
       "num": 314179,
       "word": "DYG对战WE",
@@ -3379,14 +3395,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 264711,
-      "num": 264711,
-      "word": "金价上涨打金店2天亏5万",
-      "onboard_time": 1769700203,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 264617,
       "num": 431921,
       "word": "南通发现1例罕见恐龙血",
@@ -3825,6 +3833,14 @@
       "onboard_time": 1769691204,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 238240,
+      "num": 238240,
+      "word": "黄金概念板块跳水",
+      "onboard_time": 1769700441,
+      "rank": 27,
+      "category": "财经"
     },
     {
       "raw_hot": 237670,
@@ -4323,14 +4339,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 208067,
-      "num": 208067,
-      "word": "水贝一写字楼宣布封闭楼顶天台",
-      "onboard_time": 1769699902,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 207550,
       "num": 147193,
       "word": "白鹿说已无法负荷高强度动作戏",
@@ -4584,6 +4592,14 @@
       "word": "胖东来金条只剩十来块了",
       "onboard_time": 1769603120,
       "rank": 8,
+      "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 192449,
+      "num": 192449,
+      "word": "银价暴涨10倍带火CT废胶片",
+      "onboard_time": 1769700562,
+      "rank": 25,
       "category": "民生新闻,财经"
     },
     {
@@ -5123,14 +5139,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 165943,
-      "num": 165943,
-      "word": "银价暴涨10倍带火CT废胶片",
-      "onboard_time": 1769700562,
-      "rank": 25,
-      "category": "民生新闻,财经"
-    },
-    {
       "raw_hot": 165492,
       "num": 161654,
       "word": "告白",
@@ -5329,14 +5337,6 @@
       "onboard_time": 1769485281,
       "rank": 27,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 157467,
-      "num": 157467,
-      "word": "黄金概念板块跳水",
-      "onboard_time": 1769700441,
-      "rank": 27,
-      "category": "财经"
     },
     {
       "raw_hot": 157393,
@@ -7787,6 +7787,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 112679,
+      "num": 112679,
+      "word": "张桂源张函瑞 太阳与地球",
+      "onboard_time": 1769699123,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 112647,
       "num": 112647,
       "word": "豆包崩了",
@@ -8339,6 +8347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 106279,
+      "num": 107908,
+      "word": "女子吃自制牛瘪火锅中毒双手变蓝",
+      "onboard_time": 1769700744,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106023,
       "num": 136673,
       "word": "头一次见国漫全明星走红毯",
@@ -8739,14 +8755,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 103038,
-      "num": 107908,
-      "word": "女子吃自制牛瘪火锅中毒双手变蓝",
-      "onboard_time": 1769700744,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 103036,
       "num": 100139,
       "word": "还以为猫的树又出新作品了",
@@ -8929,14 +8937,6 @@
       "onboard_time": 1769695763,
       "rank": 38,
       "category": "财经"
-    },
-    {
-      "raw_hot": 101320,
-      "num": 101320,
-      "word": "张桂源张函瑞 太阳与地球",
-      "onboard_time": 1769699123,
-      "rank": 48,
-      "category": "演出"
     },
     {
       "raw_hot": 101275,
@@ -11235,6 +11235,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 85890,
+      "num": 85890,
+      "word": "宋威龙泰国西装领带",
+      "onboard_time": 1769701460,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 85872,
       "num": 85872,
       "word": "TF荣耀之战已知歌单",
@@ -12939,6 +12947,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 74753,
+      "num": 74753,
+      "word": "第一次见性格这么互补的男女主",
+      "onboard_time": 1769702122,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 74733,
       "num": 74733,
       "word": "冬天吃着吃着就瘦了的食谱",
@@ -12977,6 +12993,14 @@
       "onboard_time": 1769274321,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 74258,
+      "num": 74258,
+      "word": "小城大事",
+      "onboard_time": 1769274800,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 74109,
@@ -13104,6 +13128,14 @@
       "word": "9地取消固定分时电价",
       "onboard_time": 1769508801,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 73027,
+      "num": 89558,
+      "word": "年轻老板狂扫700万黄金店员报警",
+      "onboard_time": 1769701825,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -14483,6 +14515,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 50999,
+      "num": 89662,
+      "word": "男子回应捡漏彩票中25万",
+      "onboard_time": 1769701942,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50992,
       "num": 114788,
       "word": "曾志伟感谢张学友捐款130万元",
@@ -14833,14 +14873,6 @@
       "onboard_time": 1769677404,
       "rank": 20,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 43170,
-      "num": 67040,
-      "word": "小城大事",
-      "onboard_time": 1769274800,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 42880,
@@ -15387,6 +15419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 33774,
+      "num": 156406,
+      "word": "缅甸新诈骗园区有早前获救者",
+      "onboard_time": 1769701703,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 33705,
       "num": 757269,
       "word": "2026全国两会",
@@ -15839,6 +15879,14 @@
       "num": 100861,
       "word": "香港公务员表现欠佳可被着令退休",
       "onboard_time": 1769498960,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26675,
+      "num": 89485,
+      "word": "嘉禾望岗为何被称为分手车站",
+      "onboard_time": 1769701882,
       "rank": 39,
       "category": "民生新闻"
     },
