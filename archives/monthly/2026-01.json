@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769727322916,
+  "endTime": 1769729719476,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -753,6 +753,14 @@
       "onboard_time": 1768560984,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1556396,
+      "num": 189764,
+      "word": "黄金跳水",
+      "onboard_time": 1769728039,
+      "rank": 5,
+      "category": "财经"
     },
     {
       "raw_hot": 1554906,
@@ -7289,6 +7297,14 @@
       "onboard_time": 1767597861,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 518849,
+      "num": 86310,
+      "word": "金晨案事发地村民说撞了一堵墙",
+      "onboard_time": 1769726356,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 518643,
@@ -21099,6 +21115,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 247189,
+      "num": 247189,
+      "word": "银行卡一定要彻底解绑",
+      "onboard_time": 1769728158,
+      "rank": 3,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 247140,
       "num": 200773,
       "word": "王橹杰脸红",
@@ -23145,14 +23169,6 @@
       "onboard_time": 1768954219,
       "rank": 4,
       "category": "电影"
-    },
-    {
-      "raw_hot": 224233,
-      "num": 53525,
-      "word": "金晨案事发地村民说撞了一堵墙",
-      "onboard_time": 1769726356,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 224092,
@@ -26473,6 +26489,14 @@
       "onboard_time": 1767835041,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 198665,
+      "num": 198665,
+      "word": "宝可梦踩靖国神社红线不是初犯",
+      "onboard_time": 1769728339,
+      "rank": 4,
+      "category": "国内时政"
     },
     {
       "raw_hot": 198604,
@@ -30059,6 +30083,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 179160,
+      "num": 823735,
+      "word": "年轻老板狂扫700万黄金店员报警",
+      "onboard_time": 1769701825,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 179146,
       "num": 179146,
       "word": "丁禹兮春晚彩排",
@@ -30200,6 +30232,14 @@
       "word": "宋亚轩拍了拍宋亚轩",
       "onboard_time": 1768397360,
       "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 178470,
+      "num": 84049,
+      "word": "偶遇王俊凯周杰伦吃火锅",
+      "onboard_time": 1769727977,
+      "rank": 14,
       "category": "艺人"
     },
     {
@@ -40595,6 +40635,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 136132,
+      "num": 58545,
+      "word": "原来这就是父母的托举啊",
+      "onboard_time": 1769728819,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 136114,
       "num": 162505,
       "word": "宝格丽官宣张凌赫",
@@ -41419,6 +41467,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 134208,
+      "num": 82753,
+      "word": "沈佳润把照片做成了牛仔裤挂饰",
+      "onboard_time": 1769728878,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 134203,
       "num": 134203,
       "word": "韦雪回应前夫与kk合体",
@@ -42129,6 +42185,14 @@
       "onboard_time": 1768828461,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 131719,
+      "num": 593755,
+      "word": "紫金矿业创始人泪洒现场",
+      "onboard_time": 1769709676,
+      "rank": 25,
+      "category": "财经"
     },
     {
       "raw_hot": 131713,
@@ -45211,14 +45275,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 124133,
-      "num": 390918,
-      "word": "年轻老板狂扫700万黄金店员报警",
-      "onboard_time": 1769701825,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 124127,
       "num": 192615,
       "word": "Demumu",
@@ -46569,6 +46625,14 @@
       "onboard_time": 1768648761,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 121262,
+      "num": 57373,
+      "word": "瑞典企业已撤下击沉中国军舰动画",
+      "onboard_time": 1769728878,
+      "rank": 31,
+      "category": "国内时政"
     },
     {
       "raw_hot": 121220,
@@ -67771,14 +67835,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 87910,
-      "num": 87910,
-      "word": "紫金矿业创始人泪洒现场",
-      "onboard_time": 1769709676,
-      "rank": 25,
-      "category": "财经"
-    },
-    {
       "raw_hot": 87909,
       "num": 280725,
       "word": "当哥哥第一次见刚出生弟弟",
@@ -69297,6 +69353,14 @@
       "onboard_time": 1768386739,
       "rank": 48,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 86334,
+      "num": 86334,
+      "word": "主治医生哭着说已想尽办法留住豪豪",
+      "onboard_time": 1769718913,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 86329,
@@ -71713,6 +71777,14 @@
       "onboard_time": 1769135479,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 83287,
+      "num": 57373,
+      "word": "酷派当年给了个200g的纯银锤子",
+      "onboard_time": 1769728878,
+      "rank": 32,
+      "category": "数码"
     },
     {
       "raw_hot": 83273,
@@ -83835,14 +83907,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 57833,
-      "num": 57833,
-      "word": "主治医生哭着说已想尽办法留住豪豪",
-      "onboard_time": 1769718913,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 57786,
       "num": 666164,
       "word": "T1落后一万四经济翻盘",
@@ -84609,6 +84673,14 @@
       "onboard_time": 1767654857,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 55367,
+      "num": 55367,
+      "word": "国防部回应第四艘航母建造进展",
+      "onboard_time": 1769728999,
+      "rank": 33,
+      "category": "国内时政"
     },
     {
       "raw_hot": 55362,
@@ -85393,6 +85465,14 @@
       "onboard_time": 1769679443,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 51898,
+      "num": 51898,
+      "word": "长期运动的人更早意识到身体要维护",
+      "onboard_time": 1769721073,
+      "rank": 26,
+      "category": "运动健身"
     },
     {
       "raw_hot": 51881,
@@ -86569,6 +86649,14 @@
       "onboard_time": 1769480060,
       "rank": 37,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 47371,
+      "num": 47371,
+      "word": "女子买泡面开出1克金条",
+      "onboard_time": 1769727316,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 47356,
@@ -89843,14 +89931,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 36228,
-      "num": 34770,
-      "word": "长期运动的人更早意识到身体要维护",
-      "onboard_time": 1769721073,
-      "rank": 26,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 36188,
       "num": 163999,
       "word": "马杜罗5日或在美国纽约联邦法院出庭",
@@ -90963,6 +91043,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 32465,
+      "num": 34338,
+      "word": "夜色正浓",
+      "onboard_time": 1769729238,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 32443,
       "num": 50805,
       "word": "杭州全城等雪",
@@ -91529,6 +91617,14 @@
       "onboard_time": 1769499560,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 30681,
+      "num": 34324,
+      "word": "女大学生东北冻伤三根手指父亲发声",
+      "onboard_time": 1769729599,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30616,

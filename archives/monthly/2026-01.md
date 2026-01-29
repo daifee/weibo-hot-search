@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/30 06:55:22
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/30 07:35:19
 </p>
 </blockquote>
 <p>
@@ -575,6 +575,12 @@ U23国足vs越南（热度：2487537）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E6%99%95%E5%80%92%E7%A6%BB%E4%B8%96%E5%89%8D%E5%A6%88%E5%A6%88%E7%96%91%E5%B7%B2%E5%93%84%E4%BA%86%E4%B8%80%E5%B0%8F%E6%97%B6%23" target="weibo">
 女孩晕倒离世前妈妈疑已哄了一小时（热度：1559147）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E8%B7%B3%E6%B0%B4%23" target="weibo">
+黄金跳水（热度：1556396）
 </a>
 </li>
 
@@ -5481,6 +5487,12 @@ ICE枪杀（热度：522348）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E6%A1%88%E4%BA%8B%E5%8F%91%E5%9C%B0%E6%9D%91%E6%B0%91%E8%AF%B4%E6%92%9E%E4%BA%86%E4%B8%80%E5%A0%B5%E5%A2%99%23" target="weibo">
+金晨案事发地村民说撞了一堵墙（热度：518849）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23TVB%E9%A2%81%E5%A5%96%E5%85%B8%E7%A4%BC%23" target="weibo">
 TVB颁奖典礼（热度：518643）
 </a>
@@ -5999,18 +6011,6 @@ iPhone4需求激增近1000%（热度：506886）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E9%A9%AC%E5%B9%B4%E5%BE%AE%E4%BF%A1%E7%BA%A2%E5%8C%85%E5%B0%81%E9%9D%A2%E6%9D%A5%E4%BA%86%23" target="weibo">
 苹果马年微信红包封面来了（热度：497492）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%8F%B0%E6%98%A5%E6%99%9A%E5%B0%B1%E5%B7%AE%E7%9B%B4%E6%8E%A5%E8%AF%B4%E8%82%96%E6%88%98%E5%A4%A7%E5%90%8D%E4%BA%86%23" target="weibo">
-北京台春晚就差直接说肖战大名了（热度：497278）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B3%B0%E5%B3%BB%E9%AB%98%E4%BC%9A%20%E6%B3%A1%E6%B3%A1%23" target="weibo">
-时代峰峻高会 泡泡（热度：496892）
 </a>
 </li>
 

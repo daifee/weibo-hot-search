@@ -1,6 +1,6 @@
 {
   "startTime": 1769702505765,
-  "endTime": 1769727322916,
+  "endTime": 1769729719476,
   "band_list": [
     {
       "raw_hot": 3481750,
@@ -15,6 +15,14 @@
       "num": 519498,
       "word": "金价",
       "onboard_time": 1769700924,
+      "rank": 5,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 1556396,
+      "num": 189764,
+      "word": "黄金跳水",
+      "onboard_time": 1769728039,
       "rank": 5,
       "category": "财经"
     },
@@ -57,6 +65,14 @@
       "onboard_time": 1769696065,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 518849,
+      "num": 86310,
+      "word": "金晨案事发地村民说撞了一堵墙",
+      "onboard_time": 1769726356,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 457434,
@@ -115,6 +131,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 247189,
+      "num": 247189,
+      "word": "银行卡一定要彻底解绑",
+      "onboard_time": 1769728158,
+      "rank": 3,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 238240,
       "num": 238240,
       "word": "黄金概念板块跳水",
@@ -131,14 +155,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 224233,
-      "num": 53525,
-      "word": "金晨案事发地村民说撞了一堵墙",
-      "onboard_time": 1769726356,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 217124,
       "num": 217124,
       "word": "于和伟总台视帝",
@@ -153,6 +169,14 @@
       "onboard_time": 1769699305,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 198665,
+      "num": 198665,
+      "word": "宝可梦踩靖国神社红线不是初犯",
+      "onboard_time": 1769728339,
+      "rank": 4,
+      "category": "国内时政"
     },
     {
       "raw_hot": 193693,
@@ -179,11 +203,27 @@
       "category": "财经"
     },
     {
+      "raw_hot": 179160,
+      "num": 823735,
+      "word": "年轻老板狂扫700万黄金店员报警",
+      "onboard_time": 1769701825,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 178550,
       "num": 146107,
       "word": "郝熠然空降",
       "onboard_time": 1769695705,
       "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 178470,
+      "num": 84049,
+      "word": "偶遇王俊凯周杰伦吃火锅",
+      "onboard_time": 1769727977,
+      "rank": 14,
       "category": "艺人"
     },
     {
@@ -235,12 +275,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136132,
+      "num": 58545,
+      "word": "原来这就是父母的托举啊",
+      "onboard_time": 1769728819,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 134208,
+      "num": 82753,
+      "word": "沈佳润把照片做成了牛仔裤挂饰",
+      "onboard_time": 1769728878,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 131765,
       "num": 131765,
       "word": "郭京飞总台视帝",
       "onboard_time": 1769698705,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 131719,
+      "num": 593755,
+      "word": "紫金矿业创始人泪洒现场",
+      "onboard_time": 1769709676,
+      "rank": 25,
+      "category": "财经"
     },
     {
       "raw_hot": 130676,
@@ -251,12 +315,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 124133,
-      "num": 390918,
-      "word": "年轻老板狂扫700万黄金店员报警",
-      "onboard_time": 1769701825,
-      "rank": 38,
-      "category": "民生新闻"
+      "raw_hot": 121262,
+      "num": 57373,
+      "word": "瑞典企业已撤下击沉中国军舰动画",
+      "onboard_time": 1769728878,
+      "rank": 31,
+      "category": "国内时政"
     },
     {
       "raw_hot": 117468,
@@ -273,6 +337,14 @@
       "onboard_time": 1769699123,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 111318,
+      "num": 111318,
+      "word": "白银",
+      "onboard_time": 1769728578,
+      "rank": 8,
+      "category": "财经"
     },
     {
       "raw_hot": 109957,
@@ -339,6 +411,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 90391,
+      "num": 99466,
+      "word": "婚礼现场婆婆和亲妈撞脸惊呆宾客",
+      "onboard_time": 1769699784,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90077,
       "num": 90077,
       "word": "相亲点餐8000元女子要求婚介付",
@@ -347,20 +427,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 89456,
-      "num": 99466,
-      "word": "婚礼现场婆婆和亲妈撞脸惊呆宾客",
-      "onboard_time": 1769699784,
-      "rank": 40,
+      "raw_hot": 86334,
+      "num": 86334,
+      "word": "主治医生哭着说已想尽办法留住豪豪",
+      "onboard_time": 1769718913,
+      "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 87910,
-      "num": 87910,
-      "word": "紫金矿业创始人泪洒现场",
-      "onboard_time": 1769709676,
-      "rank": 25,
-      "category": "财经"
     },
     {
       "raw_hot": 85890,
@@ -393,6 +465,14 @@
       "onboard_time": 1769700023,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 83287,
+      "num": 57373,
+      "word": "酷派当年给了个200g的纯银锤子",
+      "onboard_time": 1769728878,
+      "rank": 32,
+      "category": "数码"
     },
     {
       "raw_hot": 82542,
@@ -459,12 +539,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 57833,
-      "num": 57833,
-      "word": "主治医生哭着说已想尽办法留住豪豪",
-      "onboard_time": 1769718913,
-      "rank": 41,
-      "category": "民生新闻"
+      "raw_hot": 55367,
+      "num": 55367,
+      "word": "国防部回应第四艘航母建造进展",
+      "onboard_time": 1769728999,
+      "rank": 33,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 51898,
+      "num": 51898,
+      "word": "长期运动的人更早意识到身体要维护",
+      "onboard_time": 1769721073,
+      "rank": 26,
+      "category": "运动健身"
     },
     {
       "raw_hot": 50999,
@@ -483,12 +571,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 47371,
+      "num": 47371,
+      "word": "女子买泡面开出1克金条",
+      "onboard_time": 1769727316,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 47090,
       "num": 60254,
       "word": "易梦玲在冰川上穿吊带裙拍照",
       "onboard_time": 1769690543,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 44393,
+      "num": 44393,
+      "word": "英雄联盟",
+      "onboard_time": 1769728937,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 41372,
@@ -515,12 +619,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 36228,
-      "num": 34770,
-      "word": "长期运动的人更早意识到身体要维护",
-      "onboard_time": 1769721073,
-      "rank": 26,
-      "category": "运动健身"
+      "raw_hot": 37107,
+      "num": 37107,
+      "word": "有罪之身",
+      "onboard_time": 1769728698,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 35177,
@@ -537,6 +641,22 @@
       "onboard_time": 1769685624,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 32465,
+      "num": 34338,
+      "word": "夜色正浓",
+      "onboard_time": 1769729238,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 30681,
+      "num": 34324,
+      "word": "女大学生东北冻伤三根手指父亲发声",
+      "onboard_time": 1769729599,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30367,

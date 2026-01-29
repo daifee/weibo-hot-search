@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769727322916,
+  "endTime": 1769729719476,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -753,6 +753,14 @@
       "onboard_time": 1768560984,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1556396,
+      "num": 189764,
+      "word": "黄金跳水",
+      "onboard_time": 1769728039,
+      "rank": 5,
+      "category": "财经"
     },
     {
       "raw_hot": 1554906,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1767482298,
       "rank": 30,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 902251,
-      "num": 852081,
-      "word": "马杜罗系被美军三角洲特种部队抓获",
-      "onboard_time": 1767434784,
-      "rank": 14,
-      "category": "国际时政"
     }
   ],
   "hotgov_list": [

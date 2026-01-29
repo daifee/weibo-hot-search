@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/30 06:55:22
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/30 07:35:19
 </p>
 </blockquote>
 <p>
@@ -575,6 +575,12 @@ U23国足vs越南（热度：2487537）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E6%99%95%E5%80%92%E7%A6%BB%E4%B8%96%E5%89%8D%E5%A6%88%E5%A6%88%E7%96%91%E5%B7%B2%E5%93%84%E4%BA%86%E4%B8%80%E5%B0%8F%E6%97%B6%23" target="weibo">
 女孩晕倒离世前妈妈疑已哄了一小时（热度：1559147）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E8%B7%B3%E6%B0%B4%23" target="weibo">
+黄金跳水（热度：1556396）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ U23国足2比0越南（热度：940028）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%BA%A2%E6%B5%81%E8%90%BD%E6%9F%AC%E5%9F%94%E5%AF%A8%E8%A1%97%E5%A4%B4%23" target="weibo">
 网传中国网红流落柬埔寨街头（热度：903012）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%9D%9C%E7%BD%97%E7%B3%BB%E8%A2%AB%E7%BE%8E%E5%86%9B%E4%B8%89%E8%A7%92%E6%B4%B2%E7%89%B9%E7%A7%8D%E9%83%A8%E9%98%9F%E6%8A%93%E8%8E%B7%23" target="weibo">
-马杜罗系被美军三角洲特种部队抓获（热度：902251）
 </a>
 </li>
 
