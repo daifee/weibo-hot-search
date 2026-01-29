@@ -1,6 +1,6 @@
 {
   "startTime": 1769702505765,
-  "endTime": 1769716377957,
+  "endTime": 1769719220460,
   "band_list": [
     {
       "raw_hot": 3481750,
@@ -585,6 +585,14 @@
       "onboard_time": 1769691503,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 12465,
+      "num": 13391,
+      "word": "主治医生哭着说已想尽办法留住豪豪",
+      "onboard_time": 1769718913,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 12251,
