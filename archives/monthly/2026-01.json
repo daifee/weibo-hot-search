@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769794880509,
+  "endTime": 1769796028594,
   "band_list": [
     {
       "raw_hot": 22742360,
@@ -11451,6 +11451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 409390,
+      "num": 58652,
+      "word": "金晨助理已触及行政违法",
+      "onboard_time": 1769794517,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 409324,
       "num": 204285,
       "word": "环卫工戴定位器工牌称不动会被罚款",
@@ -11752,14 +11760,6 @@
       "word": "伊能静剪了十年没剪的斜刘海",
       "onboard_time": 1769522063,
       "rank": 37,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 402163,
-      "num": 55360,
-      "word": "金晨助理已触及行政违法",
-      "onboard_time": 1769794517,
-      "rank": 15,
       "category": "艺人"
     },
     {
@@ -96665,6 +96665,14 @@
       "onboard_time": 1768122620,
       "rank": 39,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 22968,
+      "num": 42865,
+      "word": "TF五代练习生cover",
+      "onboard_time": 1769795536,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 22966,

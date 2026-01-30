@@ -1,6 +1,6 @@
 {
   "startTime": 1769272464158,
-  "endTime": 1769794880509,
+  "endTime": 1769796028594,
   "band_list": [
     {
       "raw_hot": 22742360,
@@ -2291,6 +2291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 409390,
+      "num": 58652,
+      "word": "金晨助理已触及行政违法",
+      "onboard_time": 1769794517,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 408779,
       "num": 206906,
       "word": "车银优发长文道歉",
@@ -2360,14 +2368,6 @@
       "word": "伊能静剪了十年没剪的斜刘海",
       "onboard_time": 1769522063,
       "rank": 37,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 402163,
-      "num": 55360,
-      "word": "金晨助理已触及行政违法",
-      "onboard_time": 1769794517,
-      "rank": 15,
       "category": "艺人"
     },
     {
@@ -19017,6 +19017,14 @@
       "onboard_time": 1769279056,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 22968,
+      "num": 42865,
+      "word": "TF五代练习生cover",
+      "onboard_time": 1769795536,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 22618,

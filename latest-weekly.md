@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/25 00:34:24 ~ 2026/01/31 01:41:20
+本榜单时间：2026/01/25 00:34:24 ~ 2026/01/31 02:00:28
 </p>
 </blockquote>
 <p>
@@ -1731,6 +1731,12 @@ Jennie最后突然哭不行了（热度：412217）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E5%8A%A9%E7%90%86%E5%B7%B2%E8%A7%A6%E5%8F%8A%E8%A1%8C%E6%94%BF%E8%BF%9D%E6%B3%95%23" target="weibo">
+金晨助理已触及行政违法（热度：409390）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BD%A6%E9%93%B6%E4%BC%98%E5%8F%91%E9%95%BF%E6%96%87%E9%81%93%E6%AD%89%23" target="weibo">
 车银优发长文道歉（热度：408779）
 </a>
@@ -1781,12 +1787,6 @@ Angelababy高定品牌创始人回应争议（热度：407616）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E8%83%BD%E9%9D%99%E5%89%AA%E4%BA%86%E5%8D%81%E5%B9%B4%E6%B2%A1%E5%89%AA%E7%9A%84%E6%96%9C%E5%88%98%E6%B5%B7%23" target="weibo">
 伊能静剪了十年没剪的斜刘海（热度：402340）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E5%8A%A9%E7%90%86%E5%B7%B2%E8%A7%A6%E5%8F%8A%E8%A1%8C%E6%94%BF%E8%BF%9D%E6%B3%95%23" target="weibo">
-金晨助理已触及行政违法（热度：402163）
 </a>
 </li>
 
@@ -14273,6 +14273,12 @@ U23男足亚洲杯亚军（热度：27944）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%A5%87%E7%9A%84%E5%98%B4%E8%83%BD%E4%B8%8D%E8%83%BD%E5%80%9F%E6%88%91%E7%94%A8%E7%94%A8%23" target="weibo">
 小奇的嘴能不能借我用用（热度：23088）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23TF%E4%BA%94%E4%BB%A3%E7%BB%83%E4%B9%A0%E7%94%9Fcover%23" target="weibo">
+TF五代练习生cover（热度：22968）
 </a>
 </li>
 
