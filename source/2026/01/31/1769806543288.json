@@ -1,0 +1,410 @@
+{
+  "runTime": 1769806543288,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 178765,
+        "num": 178765,
+        "word": "警方通报金晨事件",
+        "onboard_time": 1769766446,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31602,
+        "num": 58015,
+        "word": "博士生在意失联表弟赶赴当地",
+        "onboard_time": 1769796976,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 9376,
+        "num": 48509,
+        "word": "冬天的亿种打开方式",
+        "onboard_time": 1769778983,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36700,
+        "num": 36700,
+        "word": "阿姨入手均价300元金条全部卖出",
+        "onboard_time": 1769785702,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36374,
+        "num": 36374,
+        "word": "生命树 侯鸿亮",
+        "onboard_time": 1769786902,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30180,
+        "num": 30180,
+        "word": "一定要频繁大量的记录自己",
+        "onboard_time": 1769775803,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 27483,
+        "num": 27483,
+        "word": "库迪将取消全场9.9元",
+        "onboard_time": 1769782045,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27043,
+        "num": 27043,
+        "word": "澳门一酒店大堂78公斤黄金被曝搬空",
+        "onboard_time": 1769780304,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23324,
+        "num": 23324,
+        "word": "生命树开播",
+        "onboard_time": 1769772023,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22319,
+        "num": 22319,
+        "word": "原来我们一直念错了蒲熠星名字",
+        "onboard_time": 1769780783,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144820,
+        "num": 22307,
+        "word": "金晨换头像",
+        "onboard_time": 1769777545,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44353,
+        "num": 22285,
+        "word": "关晓彤婉拒马上有对象",
+        "onboard_time": 1769761762,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32437,
+        "num": 22235,
+        "word": "魏大勋自曝曾被杨迪打了嘴巴子",
+        "onboard_time": 1769781684,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31692,
+        "num": 22213,
+        "word": "印度怀孕女特警被丈夫用哑铃砸死",
+        "onboard_time": 1769786302,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 25390,
+        "num": 22183,
+        "word": "生命树豆瓣已锁",
+        "onboard_time": 1769786962,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24769,
+        "num": 22125,
+        "word": "久哲",
+        "onboard_time": 1769790620,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 22117,
+        "num": 22117,
+        "word": "德约科维奇晋级澳网男单决赛",
+        "onboard_time": 1769783845,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20869,
+        "num": 20869,
+        "word": "宝可梦道歉了",
+        "onboard_time": 1769773764,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20510,
+        "num": 20510,
+        "word": "澳网",
+        "onboard_time": 1769783963,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19707,
+        "num": 19707,
+        "word": "爷爷狱中病亡孙子考211为其翻案",
+        "onboard_time": 1769772803,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120164,
+        "num": 19689,
+        "word": "金晨助理已触及行政违法",
+        "onboard_time": 1769794517,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59999,
+        "num": 19207,
+        "word": "黄金巨震原因找到了",
+        "onboard_time": 1769775263,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 20593,
+        "num": 19125,
+        "word": "孕36周女子吃火锅后突发呕血便血",
+        "onboard_time": 1769782045,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19836,
+        "num": 18869,
+        "word": "沈佳润这才是你的舒适区",
+        "onboard_time": 1769788162,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18596,
+        "num": 18596,
+        "word": "突然的喜欢",
+        "onboard_time": 1769795597,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18387,
+        "num": 18387,
+        "word": "最强大脑13",
+        "onboard_time": 1769800574,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17878,
+        "num": 17878,
+        "word": "黄金从被抢空到暴跌仅用3天",
+        "onboard_time": 1769767647,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 16642,
+        "num": 16642,
+        "word": "73岁男患者彩超报告显示宫内早孕",
+        "onboard_time": 1769779521,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16414,
+        "num": 16414,
+        "word": "胡歌演技",
+        "onboard_time": 1769778323,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11417,
+        "num": 16152,
+        "word": "这份福气请你接住",
+        "onboard_time": 1769792058,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15900,
+        "num": 15900,
+        "word": "妈妈让儿子穿中老年装带火21年老店",
+        "onboard_time": 1769784264,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15349,
+        "num": 15899,
+        "word": "生命树群像",
+        "onboard_time": 1769802734,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15139,
+        "num": 15899,
+        "word": "95后女孩因工作遭羁押500多天",
+        "onboard_time": 1769786843,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15185,
+        "num": 15899,
+        "word": "生命树震撼",
+        "onboard_time": 1769801895,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14587,
+        "num": 15898,
+        "word": "周五晚高疯",
+        "onboard_time": 1769790320,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13978,
+        "num": 15898,
+        "word": "AG对战TES",
+        "onboard_time": 1769778863,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 13847,
+        "num": 15897,
+        "word": "KPL",
+        "onboard_time": 1769772803,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 13097,
+        "num": 15897,
+        "word": "刘宇宁直播",
+        "onboard_time": 1769780425,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12720,
+        "num": 15897,
+        "word": "京城大师赛",
+        "onboard_time": 1769769386,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 12673,
+        "num": 15896,
+        "word": "吴忠市人民医院致歉",
+        "onboard_time": 1769783303,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12544,
+        "num": 15896,
+        "word": "德约科维奇3比2辛纳",
+        "onboard_time": 1769784143,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12126,
+        "num": 15896,
+        "word": "有歌",
+        "onboard_time": 1769795177,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 12095,
+        "num": 15895,
+        "word": "500多天的刑案马拉松",
+        "onboard_time": 1769793317,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12049,
+        "num": 15894,
+        "word": "偶遇时代少年团逛菜市场",
+        "onboard_time": 1769789662,
+        "rank": 43,
+        "category": "艺人,演出"
+      },
+      {
+        "raw_hot": 11502,
+        "num": 15894,
+        "word": "长相思",
+        "onboard_time": 1769788641,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11446,
+        "num": 15894,
+        "word": "KPL 暂停",
+        "onboard_time": 1769780425,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 10435,
+        "num": 15893,
+        "word": "欧冠",
+        "onboard_time": 1769778084,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 10204,
+        "num": 15893,
+        "word": "TES战胜BLG",
+        "onboard_time": 1769780664,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 9956,
+        "num": 15892,
+        "word": "张杰演唱会疑是银河落九天",
+        "onboard_time": 1769798295,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 9901,
+        "num": 15892,
+        "word": "刘宇宁直播举杠铃",
+        "onboard_time": 1769790740,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央政治局召开会议#"
+    }
+  }
+}
