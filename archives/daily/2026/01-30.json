@@ -1,6 +1,6 @@
 {
   "startTime": 1769702505765,
-  "endTime": 1769767374318,
+  "endTime": 1769769832960,
   "band_list": [
     {
       "raw_hot": 22742360,
@@ -11,8 +11,8 @@
       "category": "民生新闻,艺人"
     },
     {
-      "raw_hot": 7991485,
-      "num": 7991485,
+      "raw_hot": 9944497,
+      "num": 9944497,
       "word": "金晨道歉",
       "onboard_time": 1769766745,
       "rank": 3,
@@ -57,6 +57,14 @@
       "onboard_time": 1769728039,
       "rank": 5,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1774274,
+      "num": 1774274,
+      "word": "金晨鼻子",
+      "onboard_time": 1769768847,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 1581316,
@@ -507,6 +515,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 313266,
+      "num": 3314974,
+      "word": "金价有望涨至8500美元",
+      "onboard_time": 1769764822,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 310775,
       "num": 209193,
       "word": "iPhone18Pro或直连星链",
@@ -595,6 +611,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 258560,
+      "num": 3100795,
+      "word": "李现包场生命树",
+      "onboard_time": 1769767408,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 254164,
       "num": 238171,
       "word": "白鹿美得有点超过了",
@@ -651,6 +675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 239934,
+      "num": 3036106,
+      "word": "女子攒多年金条成本300元一克全卖了",
+      "onboard_time": 1769765362,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 238240,
       "num": 238240,
       "word": "黄金概念板块跳水",
@@ -665,14 +697,6 @@
       "onboard_time": 1769738900,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 235240,
-      "num": 3314974,
-      "word": "金价有望涨至8500美元",
-      "onboard_time": 1769764822,
-      "rank": 9,
-      "category": "财经"
     },
     {
       "raw_hot": 232543,
@@ -716,7 +740,7 @@
     },
     {
       "raw_hot": 228403,
-      "num": 2559636,
+      "num": 2755026,
       "word": "生命树",
       "onboard_time": 1769746581,
       "rank": 7,
@@ -803,14 +827,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 199423,
-      "num": 199423,
-      "word": "女子攒多年金条成本300元一克全卖了",
-      "onboard_time": 1769765362,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 197604,
       "num": 154790,
       "word": "河南一洗浴中心男子闯入女澡堂",
@@ -843,6 +859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192813,
+      "num": 192813,
+      "word": "六点半下班真的好残忍啊",
+      "onboard_time": 1769767766,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 187867,
       "num": 148518,
       "word": "专家称黄金还没涨到最高",
@@ -867,6 +891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 174085,
+      "num": 2587644,
+      "word": "杨迪徒步捡别人剩下的水喝",
+      "onboard_time": 1769767047,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 172655,
       "num": 172655,
       "word": "高铁上女子接电话大哭我妈妈没了",
@@ -889,6 +921,14 @@
       "onboard_time": 1769746942,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 170881,
+      "num": 2955330,
+      "word": "黄金从被抢空到暴跌仅用3天",
+      "onboard_time": 1769767647,
+      "rank": 7,
+      "category": "财经"
     },
     {
       "raw_hot": 159675,
@@ -1035,6 +1075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136388,
+      "num": 2318792,
+      "word": "王铮亮春晚联排",
+      "onboard_time": 1769769027,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 136114,
       "num": 136114,
       "word": "金瀚 欲感力",
@@ -1091,6 +1139,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 129930,
+      "num": 2784065,
+      "word": "京城大师赛",
+      "onboard_time": 1769769386,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 129390,
       "num": 129390,
       "word": "王玉雯 假装车没停好听了两遍",
@@ -1099,12 +1155,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 126531,
+      "num": 126531,
+      "word": "原来白敬亭也来微博之夜",
+      "onboard_time": 1769766866,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 125328,
       "num": 125328,
       "word": "金价大幅跳水后反弹",
       "onboard_time": 1769730019,
       "rank": 25,
       "category": "财经"
+    },
+    {
+      "raw_hot": 124693,
+      "num": 2393363,
+      "word": "28岁博士生在意失联10天家属发声",
+      "onboard_time": 1769766686,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 124690,
@@ -1259,6 +1331,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 113088,
+      "num": 1905558,
+      "word": "杨幂跑姿",
+      "onboard_time": 1769762781,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 112679,
       "num": 112679,
       "word": "张桂源张函瑞 太阳与地球",
@@ -1347,6 +1427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 107514,
+      "num": 97435,
+      "word": "张译任黑龙江省政协委员",
+      "onboard_time": 1769767887,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 106281,
       "num": 106281,
       "word": "孙天宇 内娱天选马系艺人",
@@ -1411,6 +1499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 102591,
+      "num": 133020,
+      "word": "金价史诗级大幅震荡",
+      "onboard_time": 1769767647,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 102176,
       "num": 102176,
       "word": "GALA贪镀层被抓",
@@ -1441,6 +1537,14 @@
       "onboard_time": 1769748861,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 101324,
+      "num": 101324,
+      "word": "世界之外",
+      "onboard_time": 1769767707,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 100929,
@@ -1531,12 +1635,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 97367,
-      "num": 84121,
-      "word": "杨迪徒步捡别人剩下的水喝",
-      "onboard_time": 1769767047,
-      "rank": 44,
-      "category": "综艺"
+      "raw_hot": 97033,
+      "num": 97033,
+      "word": "亲戚以为我住老房子很惨",
+      "onboard_time": 1769767827,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 96664,
@@ -1635,6 +1739,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 90753,
+      "num": 90753,
+      "word": "德约科维奇vs辛纳",
+      "onboard_time": 1769769265,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 90133,
+      "num": 90133,
+      "word": "工商银行公告",
+      "onboard_time": 1769769687,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90077,
       "num": 90077,
       "word": "相亲点餐8000元女子要求婚介付",
@@ -1657,6 +1777,14 @@
       "onboard_time": 1769742080,
       "rank": 42,
       "category": "财经"
+    },
+    {
+      "raw_hot": 88612,
+      "num": 88612,
+      "word": "麦当劳新包装被吐槽诡异",
+      "onboard_time": 1769769445,
+      "rank": 48,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 88356,
@@ -1753,14 +1881,6 @@
       "onboard_time": 1769752340,
       "rank": 46,
       "category": "财经"
-    },
-    {
-      "raw_hot": 84260,
-      "num": 84260,
-      "word": "28岁博士生在意失联10天家属发声",
-      "onboard_time": 1769766686,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 83586,
@@ -2259,6 +2379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 36277,
+      "num": 98583,
+      "word": "男子买252元彩票中1004万",
+      "onboard_time": 1769769746,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35177,
       "num": 88399,
       "word": "小乐 帮队友卖就行了",
@@ -2283,12 +2411,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 33723,
+      "num": 100052,
+      "word": "夫妻闹离婚2岁孩子被丢法院一夜",
+      "onboard_time": 1769769746,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31512,
       "num": 208180,
       "word": "和杨洋一起举杯",
       "onboard_time": 1769746942,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 30723,
+      "num": 1790589,
+      "word": "2人被撤销人民满意的公务员称号",
+      "onboard_time": 1769769265,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30367,
@@ -2401,14 +2545,6 @@
       "onboard_time": 1769691503,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 17031,
-      "num": 119282,
-      "word": "原来白敬亭也来微博之夜",
-      "onboard_time": 1769766866,
-      "rank": 39,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 15153,

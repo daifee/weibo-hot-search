@@ -1,6 +1,6 @@
 {
   "startTime": 1769272464158,
-  "endTime": 1769767374318,
+  "endTime": 1769769832960,
   "band_list": [
     {
       "raw_hot": 22742360,
@@ -35,6 +35,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 9944497,
+      "num": 9944497,
+      "word": "金晨道歉",
+      "onboard_time": 1769766745,
+      "rank": 3,
+      "category": "民生新闻,艺人"
+    },
+    {
       "raw_hot": 9558023,
       "num": 9558023,
       "word": "甘肃地震",
@@ -49,14 +57,6 @@
       "onboard_time": 1769659642,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 7991485,
-      "num": 7991485,
-      "word": "金晨道歉",
-      "onboard_time": 1769766745,
-      "rank": 3,
-      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 6789539,
@@ -176,6 +176,14 @@
       "word": "小S真的生了一个林志玲出来",
       "onboard_time": 1769680945,
       "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1774274,
+      "num": 1774274,
+      "word": "金晨鼻子",
+      "onboard_time": 1769768847,
+      "rank": 20,
       "category": "艺人"
     },
     {
@@ -3155,6 +3163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 313266,
+      "num": 3314974,
+      "word": "金价有望涨至8500美元",
+      "onboard_time": 1769764822,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 312055,
       "num": 312055,
       "word": "格陵兰岛首府全城一片漆黑",
@@ -4011,6 +4027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 258560,
+      "num": 3100795,
+      "word": "李现包场生命树",
+      "onboard_time": 1769767408,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 258282,
       "num": 258282,
       "word": "中国版萨莉亚火了",
@@ -4387,6 +4411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 239934,
+      "num": 3036106,
+      "word": "女子攒多年金条成本300元一克全卖了",
+      "onboard_time": 1769765362,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 238240,
       "num": 238240,
       "word": "黄金概念板块跳水",
@@ -4465,14 +4497,6 @@
       "onboard_time": 1769406022,
       "rank": 5,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 235240,
-      "num": 3314974,
-      "word": "金价有望涨至8500美元",
-      "onboard_time": 1769764822,
-      "rank": 9,
-      "category": "财经"
     },
     {
       "raw_hot": 235105,
@@ -4620,7 +4644,7 @@
     },
     {
       "raw_hot": 228403,
-      "num": 2559636,
+      "num": 2755026,
       "word": "生命树",
       "onboard_time": 1769355501,
       "rank": 35,
@@ -5123,14 +5147,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 199423,
-      "num": 199423,
-      "word": "女子攒多年金条成本300元一克全卖了",
-      "onboard_time": 1769765362,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 199405,
       "num": 199405,
       "word": "只有一个指纹大小的娃娃",
@@ -5249,6 +5265,14 @@
       "onboard_time": 1769765481,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 192813,
+      "num": 192813,
+      "word": "六点半下班真的好残忍啊",
+      "onboard_time": 1769767766,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 192607,
@@ -5611,6 +5635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 174085,
+      "num": 2587644,
+      "word": "杨迪徒步捡别人剩下的水喝",
+      "onboard_time": 1769767047,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 173732,
       "num": 167195,
       "word": "高市早苗拉票边哭边诉苦",
@@ -5697,6 +5729,14 @@
       "onboard_time": 1769746942,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 170881,
+      "num": 2955330,
+      "word": "黄金从被抢空到暴跌仅用3天",
+      "onboard_time": 1769767647,
+      "rank": 7,
+      "category": "财经"
     },
     {
       "raw_hot": 170641,
@@ -7011,6 +7051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136388,
+      "num": 2318792,
+      "word": "王铮亮春晚联排",
+      "onboard_time": 1769769027,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 136114,
       "num": 136114,
       "word": "金瀚 欲感力",
@@ -7371,6 +7419,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 129930,
+      "num": 2784065,
+      "word": "京城大师赛",
+      "onboard_time": 1769769386,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 129919,
       "num": 877655,
       "word": "DYG战胜WE",
@@ -7643,6 +7699,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 126531,
+      "num": 126531,
+      "word": "原来白敬亭也来微博之夜",
+      "onboard_time": 1769766866,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 126279,
       "num": 299448,
       "word": "Fakeme和迪丽热巴双向奔赴",
@@ -7745,6 +7809,14 @@
       "onboard_time": 1769673625,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 124693,
+      "num": 2393363,
+      "word": "28岁博士生在意失联10天家属发声",
+      "onboard_time": 1769766686,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 124690,
@@ -8771,6 +8843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 113088,
+      "num": 1905558,
+      "word": "杨幂跑姿",
+      "onboard_time": 1769762781,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 113054,
       "num": 98904,
       "word": "内娱喵系女艺人",
@@ -9233,6 +9313,14 @@
       "onboard_time": 1769742741,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107514,
+      "num": 97435,
+      "word": "张译任黑龙江省政协委员",
+      "onboard_time": 1769767887,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 107463,
@@ -9931,6 +10019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 102591,
+      "num": 133020,
+      "word": "金价史诗级大幅震荡",
+      "onboard_time": 1769767647,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 102441,
       "num": 164706,
       "word": "山西的便利店能有多万能",
@@ -10065,6 +10161,14 @@
       "onboard_time": 1769695763,
       "rank": 38,
       "category": "财经"
+    },
+    {
+      "raw_hot": 101324,
+      "num": 101324,
+      "word": "世界之外",
+      "onboard_time": 1769767707,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 101275,
@@ -10587,14 +10691,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 97367,
-      "num": 84121,
-      "word": "杨迪徒步捡别人剩下的水喝",
-      "onboard_time": 1769767047,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 97346,
       "num": 97346,
       "word": "宋威龙西装Daddy",
@@ -10641,6 +10737,14 @@
       "onboard_time": 1769425582,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 97033,
+      "num": 97033,
+      "word": "亲戚以为我住老房子很惨",
+      "onboard_time": 1769767827,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 96991,
@@ -11787,6 +11891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 90753,
+      "num": 90753,
+      "word": "德约科维奇vs辛纳",
+      "onboard_time": 1769769265,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 90712,
       "num": 90712,
       "word": "闵熙珍听了李大伯录音当场晕倒",
@@ -11921,6 +12033,14 @@
       "onboard_time": 1769328620,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 90133,
+      "num": 90133,
+      "word": "工商银行公告",
+      "onboard_time": 1769769687,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90089,
@@ -12153,6 +12273,14 @@
       "onboard_time": 1769742080,
       "rank": 42,
       "category": "财经"
+    },
+    {
+      "raw_hot": 88612,
+      "num": 88612,
+      "word": "麦当劳新包装被吐槽诡异",
+      "onboard_time": 1769769445,
+      "rank": 48,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 88607,
@@ -12905,14 +13033,6 @@
       "onboard_time": 1769752340,
       "rank": 46,
       "category": "财经"
-    },
-    {
-      "raw_hot": 84260,
-      "num": 84260,
-      "word": "28岁博士生在意失联10天家属发声",
-      "onboard_time": 1769766686,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 84259,
@@ -17107,6 +17227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 36277,
+      "num": 98583,
+      "word": "男子买252元彩票中1004万",
+      "onboard_time": 1769769746,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36143,
       "num": 116275,
       "word": "印度尼帕病毒疫情01年来暴发9次",
@@ -17217,6 +17345,14 @@
       "onboard_time": 1769507541,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 33723,
+      "num": 100052,
+      "word": "夫妻闹离婚2岁孩子被丢法院一夜",
+      "onboard_time": 1769769746,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 33705,
@@ -17464,6 +17600,14 @@
       "word": "女子退租被扣3千多空调费起诉平台",
       "onboard_time": 1769619257,
       "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30723,
+      "num": 1790589,
+      "word": "2人被撤销人民满意的公务员称号",
+      "onboard_time": 1769769265,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -18329,14 +18473,6 @@
       "onboard_time": 1769578823,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 17031,
-      "num": 119282,
-      "word": "原来白敬亭也来微博之夜",
-      "onboard_time": 1769766866,
-      "rank": 39,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 16996,

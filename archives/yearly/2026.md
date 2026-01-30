@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/30 18:02:54
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/30 18:43:52
 </p>
 </blockquote>
 <p>
@@ -51,6 +51,12 @@ U23国足vs日本（热度：16741456）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E9%81%93%E6%AD%89%23" target="weibo">
+金晨道歉（热度：9944497）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E5%9C%B0%E9%9C%87%23" target="weibo">
 甘肃地震（热度：9558023）
 </a>
@@ -77,12 +83,6 @@ U23国足vs日本（热度：16741456）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%99%AF%E5%BE%B7%E9%95%87%E8%BD%A6%E7%A5%B8%E8%82%87%E4%BA%8B%E5%8F%B8%E6%9C%BA%E4%B8%80%E5%AE%A1%E6%AD%BB%E7%BC%93%23" target="weibo">
 景德镇车祸肇事司机一审死缓（热度：8104554）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E9%81%93%E6%AD%89%23" target="weibo">
-金晨道歉（热度：7991485）
 </a>
 </li>
 
@@ -497,6 +497,12 @@ U23国足vs越南（热度：2487537）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E4%B8%89%E7%94%B7%E7%94%9F%E6%B6%89%E5%AB%8C%E5%BC%BA%E5%A5%B8%E5%BC%BA%E5%88%B6%E4%BE%AE%E8%BE%B1%E5%A4%A7%E4%B8%80%E5%A5%B3%E5%8F%8B%23" target="weibo">
 大三男生涉嫌强奸强制侮辱大一女友（热度：1775880）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E9%BC%BB%E5%AD%90%23" target="weibo">
+金晨鼻子（热度：1774274）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ U23国足2比0越南（热度：940028）
 <li>
 <a href="https://s.weibo.com/weibo?q=%237%E5%B2%81%E5%AB%81%E4%BA%BA15%E5%B2%81%E7%94%9F%E5%AD%90%E7%9F%AD%E5%89%A7%E5%BC%95%E4%BC%97%E6%80%92%23" target="weibo">
 7岁嫁人15岁生子短剧引众怒（热度：918316）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%83%83%E7%99%8C%E5%87%A0%E4%B9%8E%E9%83%BD%E6%98%AF%E8%BF%99%E6%A0%B7%E5%96%82%E5%87%BA%E6%9D%A5%E7%9A%84%23" target="weibo">
-胃癌几乎都是这样喂出来的（热度：918237）
 </a>
 </li>
 
