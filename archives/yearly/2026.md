@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/30 17:49:18
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/30 18:02:54
 </p>
 </blockquote>
 <p>
@@ -13,6 +13,12 @@
 热榜
 </h2>
 <ol>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E9%87%91%E6%99%A8%E4%BA%8B%E4%BB%B6%23" target="weibo">
+警方通报金晨事件（热度：22742360）
+</a>
+</li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23U23%E5%9B%BD%E8%B6%B3vs%E6%97%A5%E6%9C%AC%23" target="weibo">
@@ -75,6 +81,12 @@ U23国足vs日本（热度：16741456）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E9%81%93%E6%AD%89%23" target="weibo">
+金晨道歉（热度：7991485）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%8F%88%E4%BE%A0%E5%88%98%E6%8C%AF%E7%AB%8B%E8%A2%AB%E7%AB%8B%E6%A1%88%E8%B0%83%E6%9F%A5%23" target="weibo">
 张又侠刘振立被立案调查（热度：7888209）
 </a>
@@ -107,12 +119,6 @@ U23国足vs日本（热度：16741456）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E8%B4%BA%E5%A8%87%E9%BE%99%E8%A2%AB%E4%BC%A0%E5%8E%BB%E4%B8%96%23" target="weibo">
 官方回应贺娇龙被传去世（热度：6042964）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E9%87%91%E6%99%A8%E4%BA%8B%E4%BB%B6%23" target="weibo">
-警方通报金晨事件（热度：6038535）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ U23国足2比0越南（热度：940028）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%83%83%E7%99%8C%E5%87%A0%E4%B9%8E%E9%83%BD%E6%98%AF%E8%BF%99%E6%A0%B7%E5%96%82%E5%87%BA%E6%9D%A5%E7%9A%84%23" target="weibo">
 胃癌几乎都是这样喂出来的（热度：918237）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9B%BE%E7%BB%8F%E5%BE%88%E7%81%AB%E4%BD%86%E6%B6%88%E5%A4%B1%E4%BA%86%E7%9A%84%E8%8C%B6%E9%A5%AE%23" target="weibo">
-曾经很火但消失了的茶饮（热度：917005）
 </a>
 </li>
 

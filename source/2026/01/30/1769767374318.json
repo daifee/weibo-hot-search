@@ -1,0 +1,410 @@
+{
+  "runTime": 1769767374318,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 22742360,
+        "num": 22742360,
+        "word": "警方通报金晨事件",
+        "onboard_time": 1769766446,
+        "rank": 0,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 386368,
+        "num": 4500058,
+        "word": "任天堂在靖国神社教孩子玩牌",
+        "onboard_time": 1769760022,
+        "rank": 1,
+        "category": "国际时政,游戏"
+      },
+      {
+        "raw_hot": 19929,
+        "num": 3647214,
+        "word": "中国绿色低碳转型交出亮眼答卷",
+        "onboard_time": 1769766084,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 7991485,
+        "num": 7991485,
+        "word": "金晨道歉",
+        "onboard_time": 1769766745,
+        "rank": 3,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 384281,
+        "num": 3461193,
+        "word": "金价28分钟内暴跌380美元",
+        "onboard_time": 1769754799,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 292263,
+        "num": 3416694,
+        "word": "凤凰传奇一条微博两件大事",
+        "onboard_time": 1769763082,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 235240,
+        "num": 3314974,
+        "word": "金价有望涨至8500美元",
+        "onboard_time": 1769764822,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 220530,
+        "num": 3248290,
+        "word": "黄金跌近6%",
+        "onboard_time": 1769764642,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 184808,
+        "num": 3130229,
+        "word": "澳网",
+        "onboard_time": 1769748922,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180032,
+        "num": 3041584,
+        "word": "浙江要求党政机关严控PPT制作使用",
+        "onboard_time": 1769762902,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217723,
+        "num": 2917810,
+        "word": "加拿大华裔14岁少女吸毒致死",
+        "onboard_time": 1769756420,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 138956,
+        "num": 2853072,
+        "word": "阿尔卡拉斯首进澳网决赛",
+        "onboard_time": 1769765481,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134385,
+        "num": 2754852,
+        "word": "这辈子卖得最后悔的一只狗",
+        "onboard_time": 1769755641,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 118069,
+        "num": 2608142,
+        "word": "11名储户220万元存款被银行员工转走",
+        "onboard_time": 1769756900,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110502,
+        "num": 2559636,
+        "word": "生命树",
+        "onboard_time": 1769746581,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101840,
+        "num": 2479157,
+        "word": "阿尔卡拉斯3比2战胜兹维列夫",
+        "onboard_time": 1769767167,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99130,
+        "num": 2342989,
+        "word": "吾悦广场您踏马来了标语引争议",
+        "onboard_time": 1769764883,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98148,
+        "num": 2288613,
+        "word": "生命树破平台招商纪录",
+        "onboard_time": 1769760562,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97866,
+        "num": 2195338,
+        "word": "东京街头发生重大抢劫案",
+        "onboard_time": 1769756842,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 35035,
+        "num": 2040352,
+        "word": "金建希宣判前法官引中国古语亮了",
+        "onboard_time": 1769766807,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 2011808,
+        "num": 2011808,
+        "word": "金晨被曝肇事逃逸被撞墙农户已获赔",
+        "onboard_time": 1769762062,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1053890,
+        "num": 1053890,
+        "word": "白银跌麻了",
+        "onboard_time": 1769762122,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 637230,
+        "num": 637230,
+        "word": "黄金暴跌",
+        "onboard_time": 1769703021,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 613368,
+        "num": 613368,
+        "word": "关晓彤婉拒马上有对象",
+        "onboard_time": 1769761762,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 58470,
+        "num": 445343,
+        "word": "近1000列夜间高铁要来了",
+        "onboard_time": 1769766446,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 433274,
+        "num": 433274,
+        "word": "赵四葬礼",
+        "onboard_time": 1769749401,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 316736,
+        "num": 316736,
+        "word": "成龙自曝有ADHD",
+        "onboard_time": 1769763022,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 273576,
+        "num": 273576,
+        "word": "爸爸在家吸烟13岁女儿腹腔长满肿瘤",
+        "onboard_time": 1769759301,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15057,
+        "num": 255093,
+        "word": "喵娲娲要在微博之夜当站姐",
+        "onboard_time": 1769763682,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 131910,
+        "num": 253036,
+        "word": "原来维生素D缺乏容易长白头发",
+        "onboard_time": 1769762422,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 307471,
+        "num": 252995,
+        "word": "杨幂好长",
+        "onboard_time": 1769762781,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252592,
+        "num": 252592,
+        "word": "网红周媛被立案调查",
+        "onboard_time": 1769758162,
+        "rank": 31,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 235200,
+        "num": 235200,
+        "word": "黄金白银价格双双暴跌原因",
+        "onboard_time": 1769757740,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 243848,
+        "num": 228691,
+        "word": "穆祉丞 你看球吗",
+        "onboard_time": 1769766025,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199423,
+        "num": 199423,
+        "word": "女子攒多年金条成本300元一克全卖了",
+        "onboard_time": 1769765362,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154604,
+        "num": 154604,
+        "word": "金饰报克价1400元半小时后涨价作废",
+        "onboard_time": 1769761580,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 152049,
+        "num": 152049,
+        "word": "白鹿美得有点超过了",
+        "onboard_time": 1769761100,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125608,
+        "num": 125608,
+        "word": "王玉雯 心理委员不用来了我有刘亦菲",
+        "onboard_time": 1769765121,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86603,
+        "num": 120074,
+        "word": "夫妻用CT废胶片提炼白银超27斤",
+        "onboard_time": 1769756541,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17031,
+        "num": 119282,
+        "word": "原来白敬亭也来微博之夜",
+        "onboard_time": 1769766866,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 78136,
+        "num": 119021,
+        "word": "曝iPhoneFold屏幕已定型",
+        "onboard_time": 1769766626,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 118999,
+        "num": 118999,
+        "word": "白鹿cos安琪拉",
+        "onboard_time": 1769764162,
+        "rank": 41,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 117306,
+        "num": 117306,
+        "word": "网红小黑妮生女",
+        "onboard_time": 1769766927,
+        "rank": 42,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 84260,
+        "num": 84260,
+        "word": "28岁博士生在意失联10天家属发声",
+        "onboard_time": 1769766686,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97367,
+        "num": 84121,
+        "word": "杨迪徒步捡别人剩下的水喝",
+        "onboard_time": 1769767047,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83233,
+        "num": 83233,
+        "word": "程潇富贵花",
+        "onboard_time": 1769760682,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 78599,
+        "num": 78599,
+        "word": "孙颖莎王楚钦等出战海口亚洲杯",
+        "onboard_time": 1769764222,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81493,
+        "num": 77827,
+        "word": "刘浩存秒切破万",
+        "onboard_time": 1769764282,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80462,
+        "num": 77641,
+        "word": "王彦霖 眼袋上不封顶",
+        "onboard_time": 1769753300,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71820,
+        "num": 76804,
+        "word": "干米饭 黏米饭",
+        "onboard_time": 1769766263,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局1月30日召开会议#"
+    }
+  }
+}

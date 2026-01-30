@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/30 17:49:18
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/30 18:02:54
 </p>
 </blockquote>
 <p>
@@ -13,6 +13,12 @@
 热榜
 </h2>
 <ol>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E9%87%91%E6%99%A8%E4%BA%8B%E4%BB%B6%23" target="weibo">
+警方通报金晨事件（热度：22742360）
+</a>
+</li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23U23%E5%9B%BD%E8%B6%B3vs%E6%97%A5%E6%9C%AC%23" target="weibo">
@@ -75,6 +81,12 @@ U23国足vs日本（热度：16741456）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E9%81%93%E6%AD%89%23" target="weibo">
+金晨道歉（热度：7991485）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%8F%88%E4%BE%A0%E5%88%98%E6%8C%AF%E7%AB%8B%E8%A2%AB%E7%AB%8B%E6%A1%88%E8%B0%83%E6%9F%A5%23" target="weibo">
 张又侠刘振立被立案调查（热度：7888209）
 </a>
@@ -107,12 +119,6 @@ U23国足vs日本（热度：16741456）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E8%B4%BA%E5%A8%87%E9%BE%99%E8%A2%AB%E4%BC%A0%E5%8E%BB%E4%B8%96%23" target="weibo">
 官方回应贺娇龙被传去世（热度：6042964）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E9%87%91%E6%99%A8%E4%BA%8B%E4%BB%B6%23" target="weibo">
-警方通报金晨事件（热度：6038535）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ iPhone4需求激增近1000%（热度：506886）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%9C%9F%E6%BA%90%E8%85%B0%E8%85%B9%E7%BA%B9%E8%BA%AB%23" target="weibo">
 张真源腰腹纹身（热度：504016）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BA%BB%E8%BE%A3%E7%83%AB%E9%87%8C%E9%9D%A2%E5%85%A8%E6%98%AF%E8%B1%86%23" target="weibo">
-麻辣烫里面全是豆（热度：503974）
 </a>
 </li>
 
