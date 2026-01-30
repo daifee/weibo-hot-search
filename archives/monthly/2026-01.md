@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/30 12:48:03
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/30 12:57:06
 </p>
 </blockquote>
 <p>
@@ -1527,6 +1527,12 @@ TF家族荣耀之战演唱会官宣（热度：1014473）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E6%9A%B4%E8%B7%8C%E5%8E%9F%E5%9B%A0%23" target="weibo">
+黄金价格暴跌原因（热度：988174）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%98%8E%E6%98%9F%E4%B8%BA%E5%AD%A9%E5%AD%90%E6%8C%A4%E7%97%98%E8%87%B4%E5%85%B6%E8%84%B8%E7%BC%9D%E5%9B%9B%E9%92%88%23" target="weibo">
 女明星为孩子挤痘致其脸缝四针（热度：986767）
 </a>
@@ -2129,12 +2135,6 @@ oner败诉（热度：838604）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E5%8C%97101%23" target="weibo">
 台北101（热度：835126）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E6%9A%B4%E8%B7%8C%E5%8E%9F%E5%9B%A0%23" target="weibo">
-黄金价格暴跌原因（热度：834271）
 </a>
 </li>
 
@@ -5535,6 +5535,12 @@ ICE枪杀（热度：522348）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%A4%E8%AD%A6%E5%90%A6%E8%AE%A4%E7%BD%91%E4%BC%A0%E9%87%91%E6%99%A8%E9%A9%BE%E8%BD%A6%E7%9B%91%E6%8E%A7%E4%BF%A1%E6%81%AF%23" target="weibo">
+交警否认网传金晨驾车监控信息（热度：519198）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E6%A1%88%E4%BA%8B%E5%8F%91%E5%9C%B0%E6%9D%91%E6%B0%91%E8%AF%B4%E6%92%9E%E4%BA%86%E4%B8%80%E5%A0%B5%E5%A2%99%23" target="weibo">
 金晨案事发地村民说撞了一堵墙（热度：518849）
 </a>
@@ -6005,12 +6011,6 @@ iPhone4需求激增近1000%（热度：506886）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%BB%8A%E9%BA%A6%E6%9D%8E%E5%BA%9A%E5%B8%8C%E7%9F%AD%E5%8F%91%23" target="weibo">
 赵今麦李庚希短发（热度：501658）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%B6%85%E7%9F%AD%E5%8F%91%E9%80%A0%E5%9E%8B%E8%B7%AF%E9%80%8F%23" target="weibo">
-迪丽热巴超短发造型路透（热度：501594）
 </a>
 </li>
 

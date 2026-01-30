@@ -1,10 +1,10 @@
 {
   "startTime": 1769702505765,
-  "endTime": 1769748483582,
+  "endTime": 1769749026948,
   "band_list": [
     {
       "raw_hot": 3481750,
-      "num": 193473,
+      "num": 201921,
       "word": "黄金暴跌",
       "onboard_time": 1769703021,
       "rank": 10,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1189524,
-      "num": 167349,
+      "num": 216542,
       "word": "金晨逃逸顶包争议应有个明白说法",
       "onboard_time": 1769745381,
       "rank": 10,
@@ -51,20 +51,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 988174,
+      "num": 202287,
+      "word": "黄金价格暴跌原因",
+      "onboard_time": 1769741060,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 898507,
       "num": 717009,
       "word": "乡村爱情18赵四嘎了",
       "onboard_time": 1769741840,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 834271,
-      "num": 166577,
-      "word": "黄金价格暴跌原因",
-      "onboard_time": 1769741060,
-      "rank": 28,
-      "category": "财经"
     },
     {
       "raw_hot": 813553,
@@ -131,6 +131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 519198,
+      "num": 209881,
+      "word": "交警否认网传金晨驾车监控信息",
+      "onboard_time": 1769748682,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 518849,
       "num": 237532,
       "word": "金晨案事发地村民说撞了一堵墙",
@@ -140,7 +148,7 @@
     },
     {
       "raw_hot": 492046,
-      "num": 163888,
+      "num": 213373,
       "word": "有色",
       "onboard_time": 1769741420,
       "rank": 27,
@@ -148,7 +156,7 @@
     },
     {
       "raw_hot": 463313,
-      "num": 161474,
+      "num": 215069,
       "word": "长期负面情绪会导致脑部生理性改变",
       "onboard_time": 1769742260,
       "rank": 38,
@@ -163,12 +171,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 453505,
-      "num": 160643,
+      "raw_hot": 456180,
+      "num": 213610,
       "word": "看肖战王彦霖懂了卧蚕和眼袋的区别",
       "onboard_time": 1769742920,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 452395,
+      "num": 1072383,
+      "word": "好想来零食回应",
+      "onboard_time": 1769747243,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 445660,
@@ -204,7 +220,7 @@
     },
     {
       "raw_hot": 427481,
-      "num": 160165,
+      "num": 211737,
       "word": "百万网红因罕见病被误解二十五年",
       "onboard_time": 1769745141,
       "rank": 16,
@@ -228,7 +244,7 @@
     },
     {
       "raw_hot": 387078,
-      "num": 158296,
+      "num": 199116,
       "word": "周冬雨新综是来上情商课的吧",
       "onboard_time": 1769743761,
       "rank": 19,
@@ -292,7 +308,7 @@
     },
     {
       "raw_hot": 310775,
-      "num": 159050,
+      "num": 209193,
       "word": "iPhone18Pro或直连星链",
       "onboard_time": 1769742139,
       "rank": 35,
@@ -307,19 +323,11 @@
       "category": "民生新闻,财经"
     },
     {
-      "raw_hot": 295178,
+      "raw_hot": 296042,
       "num": 519675,
       "word": "珠宝员工将12公斤黄金忘在高铁",
       "onboard_time": 1769745320,
       "rank": 4,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 292567,
-      "num": 792557,
-      "word": "好想来零食回应",
-      "onboard_time": 1769747243,
-      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -361,6 +369,14 @@
       "onboard_time": 1769700441,
       "rank": 7,
       "category": "财经"
+    },
+    {
+      "raw_hot": 235956,
+      "num": 673206,
+      "word": "74岁阿姨10年前10万买408克金条",
+      "onboard_time": 1769738900,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 232543,
@@ -427,20 +443,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 217873,
-      "num": 673206,
-      "word": "74岁阿姨10年前10万买408克金条",
-      "onboard_time": 1769738900,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 217124,
       "num": 217124,
       "word": "于和伟总台视帝",
       "onboard_time": 1769697323,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 208567,
+      "num": 208567,
+      "word": "微博之夜",
+      "onboard_time": 1769734341,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 202287,
@@ -483,6 +499,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 183118,
+      "num": 183118,
+      "word": "丧子丧偶阿姨又遭遇天价丧葬费",
+      "onboard_time": 1769744001,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 178550,
       "num": 146107,
       "word": "郝熠然空降",
@@ -499,20 +523,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 171681,
-      "num": 171681,
-      "word": "丧子丧偶阿姨又遭遇天价丧葬费",
-      "onboard_time": 1769744001,
-      "rank": 8,
-      "category": "民生新闻"
+      "raw_hot": 171719,
+      "num": 171719,
+      "word": "章若楠这张脸杀疯了",
+      "onboard_time": 1769747002,
+      "rank": 37,
+      "category": "艺人"
     },
     {
-      "raw_hot": 161716,
-      "num": 161716,
-      "word": "微博之夜",
-      "onboard_time": 1769734341,
-      "rank": 43,
-      "category": "作品衍生"
+      "raw_hot": 170919,
+      "num": 170919,
+      "word": "现在的女团都发展成这样了吗",
+      "onboard_time": 1769746942,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 159675,
@@ -547,11 +571,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 152254,
-      "num": 152254,
-      "word": "现在的女团都发展成这样了吗",
-      "onboard_time": 1769746942,
-      "rank": 30,
+      "raw_hot": 151947,
+      "num": 144289,
+      "word": "时代少年团俄罗斯",
+      "onboard_time": 1769731401,
+      "rank": 41,
       "category": "艺人"
     },
     {
@@ -587,12 +611,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 144289,
-      "num": 144289,
-      "word": "时代少年团俄罗斯",
-      "onboard_time": 1769731401,
-      "rank": 41,
-      "category": "艺人"
+      "raw_hot": 144073,
+      "num": 218292,
+      "word": "恋与深空",
+      "onboard_time": 1769743640,
+      "rank": 9,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 140718,
+      "num": 144393,
+      "word": "日本一年有532名中小学生自杀",
+      "onboard_time": 1769747360,
+      "rank": 32,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 140475,
@@ -601,6 +633,14 @@
       "onboard_time": 1769700744,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 139528,
+      "num": 139528,
+      "word": "生命树招商",
+      "onboard_time": 1769748682,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 137621,
@@ -627,20 +667,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 134880,
-      "num": 134880,
-      "word": "章若楠这张脸杀疯了",
-      "onboard_time": 1769747002,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 133834,
-      "num": 170039,
-      "word": "恋与深空",
-      "onboard_time": 1769743640,
-      "rank": 9,
-      "category": "游戏"
+      "raw_hot": 132085,
+      "num": 132085,
+      "word": "上班摸鱼接生了六胞胎",
+      "onboard_time": 1769748501,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 131765,
@@ -659,14 +691,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 128936,
-      "num": 144393,
-      "word": "日本一年有532名中小学生自杀",
-      "onboard_time": 1769747360,
-      "rank": 32,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 125328,
       "num": 125328,
       "word": "金价大幅跳水后反弹",
@@ -681,6 +705,14 @@
       "onboard_time": 1769738420,
       "rank": 8,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 119644,
+      "num": 119644,
+      "word": "网友称刚买4克黄金跌没了",
+      "onboard_time": 1769743881,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 118053,
@@ -715,6 +747,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 117272,
+      "num": 117272,
+      "word": "老板的操作堪称教科书级别",
+      "onboard_time": 1769748561,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 115286,
       "num": 115286,
       "word": "会不会打麻将的都沉默了",
@@ -747,12 +787,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 111663,
-      "num": 111663,
-      "word": "网友称刚买4克黄金跌没了",
-      "onboard_time": 1769743881,
+      "raw_hot": 110058,
+      "num": 110058,
+      "word": "澳网",
+      "onboard_time": 1769748922,
       "rank": 43,
-      "category": "财经"
+      "category": "体育"
     },
     {
       "raw_hot": 109957,
@@ -769,6 +809,14 @@
       "onboard_time": 1769738661,
       "rank": 38,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 109705,
+      "num": 109705,
+      "word": "黄金白银一跌再跌",
+      "onboard_time": 1769746824,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 109105,
@@ -843,12 +891,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 101729,
+      "num": 101729,
+      "word": "原来换个角度人生就豁然开朗了",
+      "onboard_time": 1769748861,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 100491,
       "num": 100491,
       "word": "公司招聘守岛人每月补贴3000元",
       "onboard_time": 1769698104,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100280,
+      "num": 100280,
+      "word": "杨幂 我少女时期的英雄",
+      "onboard_time": 1769748981,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 99474,
@@ -931,6 +995,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 87221,
+      "num": 119914,
+      "word": "脑机接口太炸裂了",
+      "onboard_time": 1769745682,
+      "rank": 39,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 86334,
       "num": 86334,
       "word": "主治医生哭着说已想尽办法留住豪豪",
@@ -953,14 +1025,6 @@
       "onboard_time": 1769702901,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 85433,
-      "num": 117817,
-      "word": "脑机接口太炸裂了",
-      "onboard_time": 1769745682,
-      "rank": 39,
-      "category": "科学科普"
     },
     {
       "raw_hot": 85392,
@@ -1124,7 +1188,7 @@
     },
     {
       "raw_hot": 65569,
-      "num": 613008,
+      "num": 630426,
       "word": "智能穿戴千亿级赛道爆发",
       "onboard_time": 1769745141,
       "rank": 2,
@@ -1153,6 +1217,14 @@
       "onboard_time": 1769721073,
       "rank": 26,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 56005,
+      "num": 204902,
+      "word": "不生孩子的韩国人花几千元送狗上学",
+      "onboard_time": 1769748260,
+      "rank": 25,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 51841,
@@ -1211,20 +1283,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 46918,
-      "num": 154795,
-      "word": "不生孩子的韩国人花几千元送狗上学",
-      "onboard_time": 1769748260,
-      "rank": 25,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 44643,
       "num": 179343,
       "word": "中国网民要求宝可梦明确回应",
       "onboard_time": 1769741840,
       "rank": 19,
       "category": "海外新闻,游戏"
+    },
+    {
+      "raw_hot": 43973,
+      "num": 217154,
+      "word": "1中国公民在日遭催泪瓦斯袭击",
+      "onboard_time": 1769748260,
+      "rank": 22,
+      "category": "国内时政"
     },
     {
       "raw_hot": 42178,
@@ -1241,14 +1313,6 @@
       "onboard_time": 1769696485,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 40249,
-      "num": 156563,
-      "word": "1中国公民在日遭催泪瓦斯袭击",
-      "onboard_time": 1769748260,
-      "rank": 22,
-      "category": "国内时政"
     },
     {
       "raw_hot": 39986,
@@ -1300,7 +1364,7 @@
     },
     {
       "raw_hot": 31512,
-      "num": 159585,
+      "num": 208180,
       "word": "和杨洋一起举杯",
       "onboard_time": 1769746942,
       "rank": 17,

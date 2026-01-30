@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/30 12:48:03
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/30 12:57:06
 </p>
 </blockquote>
 <p>
@@ -1527,6 +1527,12 @@ TF家族荣耀之战演唱会官宣（热度：1014473）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E6%9A%B4%E8%B7%8C%E5%8E%9F%E5%9B%A0%23" target="weibo">
+黄金价格暴跌原因（热度：988174）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%98%8E%E6%98%9F%E4%B8%BA%E5%AD%A9%E5%AD%90%E6%8C%A4%E7%97%98%E8%87%B4%E5%85%B6%E8%84%B8%E7%BC%9D%E5%9B%9B%E9%92%88%23" target="weibo">
 女明星为孩子挤痘致其脸缝四针（热度：986767）
 </a>
@@ -1805,12 +1811,6 @@ U23国足2比0越南（热度：940028）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%82%B9%E7%82%B9%E5%8D%81%E5%B9%B4%E5%89%8D%E7%9A%84%E4%BB%B7%E7%9B%AE%E8%A1%A8%23" target="weibo">
 一点点十年前的价目表（热度：906835）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AC%A2%E7%91%9E%E4%B8%96%E7%BA%AA%E5%A4%A7%E8%B7%8C%23" target="weibo">
-欢瑞世纪大跌（热度：904329）
 </a>
 </li>
 
