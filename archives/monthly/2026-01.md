@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/30 21:37:06
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/30 22:42:18
 </p>
 </blockquote>
 <p>
@@ -861,6 +861,12 @@ U23国足vs乌兹别克斯坦（热度：1464712）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E9%BC%BB%E5%AD%902011%E5%88%B02025%E7%9A%84%E5%8F%98%E5%8C%96%23" target="weibo">
+金晨鼻子2011到2025的变化（热度：1282297）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23woojin%20%E5%A1%8C%E6%88%BF%23" target="weibo">
 woojin 塌房（热度：1279260）
 </a>
@@ -917,6 +923,12 @@ woojin 塌房（热度：1279260）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%A2A%E6%9D%A5%E5%BE%AE%E5%8D%9A%E4%BA%86%23" target="weibo">
 牢A来微博了（热度：1235499）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%B7%E7%BA%A6%E7%A7%91%E7%BB%B4%E5%A5%87%E6%99%8B%E7%BA%A7%E6%BE%B3%E7%BD%91%E7%94%B7%E5%8D%95%E5%86%B3%E8%B5%9B%23" target="weibo">
+德约科维奇晋级澳网男单决赛（热度：1234027）
 </a>
 </li>
 
@@ -3083,6 +3095,12 @@ Lululemon新款瑜伽裤太透明被下架（热度：707519）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AA%84%E9%98%B3%E4%BC%BC%E6%88%9130%E9%9B%86%E5%B0%81%E7%A5%9E%23" target="weibo">
 骄阳似我30集封神（热度：704277）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%B7%E7%BA%A6%E7%A7%91%E7%BB%B4%E5%A5%87vs%E8%BE%9B%E7%BA%B3%23" target="weibo">
+德约科维奇vs辛纳（热度：702780）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ iPhone4需求激增近1000%（热度：506886）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B7%80%E7%B2%89%E8%82%A0%E8%BF%9B%E5%85%A5%E7%91%9C%E4%BC%BD%E8%A3%A4%E6%97%B6%E4%BB%A3%23" target="weibo">
 淀粉肠进入瑜伽裤时代（热度：505995）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23100%25%E9%A3%9F%E7%94%A8%E7%8E%87%E6%B0%B4%E6%9E%9C%23" target="weibo">
-100%食用率水果（热度：505897）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%87%BA%E8%BD%A8%E4%B8%88%E5%A4%AB%E8%A2%AB%E5%A6%BB%E5%AD%90%E9%81%93%E6%AD%89%E5%85%B6%E5%8D%95%E4%BD%8D%E5%9B%9E%E5%BA%94%23" target="weibo">
-出轨丈夫被妻子道歉其单位回应（热度：505482）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E4%B8%80%E5%9C%B0%E6%9A%B4%E9%9B%AA%E5%A0%86%E5%87%BA%E5%85%AC%E5%AF%93%E6%A5%BC%E9%AB%98%E9%9B%AA%E5%9D%A1%23" target="weibo">
-俄罗斯一地暴雪堆出公寓楼高雪坡（热度：505401）
 </a>
 </li>
 
