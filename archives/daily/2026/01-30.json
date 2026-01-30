@@ -1,6 +1,6 @@
 {
   "startTime": 1769702505765,
-  "endTime": 1769773006890,
+  "endTime": 1769773838258,
   "band_list": [
     {
       "raw_hot": 22742360,
@@ -128,6 +128,14 @@
       "word": "乡村爱情18赵四嘎了",
       "onboard_time": 1769741840,
       "rank": 3,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 835729,
+      "num": 835729,
+      "word": "生命树开播",
+      "onboard_time": 1769772023,
+      "rank": 11,
       "category": "剧集"
     },
     {
@@ -404,19 +412,11 @@
     },
     {
       "raw_hot": 384102,
-      "num": 187829,
+      "num": 270444,
       "word": "李现顶着韩商言的头像",
       "onboard_time": 1769770825,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 380912,
-      "num": 380912,
-      "word": "生命树开播",
-      "onboard_time": 1769772023,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 379631,
@@ -457,6 +457,14 @@
       "onboard_time": 1769762781,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 352610,
+      "num": 1983015,
+      "word": "麦当劳新包装被吐槽诡异",
+      "onboard_time": 1769769445,
+      "rank": 48,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 350208,
@@ -595,14 +603,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 291680,
-      "num": 1983015,
-      "word": "麦当劳新包装被吐槽诡异",
-      "onboard_time": 1769769445,
-      "rank": 48,
-      "category": "议题讨论"
-    },
-    {
       "raw_hot": 291062,
       "num": 367638,
       "word": "袁娅维在美国唐人街偶遇周深",
@@ -633,6 +633,14 @@
       "onboard_time": 1769728158,
       "rank": 3,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 277538,
+      "num": 2755026,
+      "word": "生命树",
+      "onboard_time": 1769746581,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 261962,
@@ -779,14 +787,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 228403,
-      "num": 2755026,
-      "word": "生命树",
-      "onboard_time": 1769746581,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 221854,
       "num": 93722,
       "word": "华熙生物董事长回应让人活到120岁",
@@ -836,7 +836,7 @@
     },
     {
       "raw_hot": 212266,
-      "num": 1273416,
+      "num": 1311056,
       "word": "28岁博士生在意失联父母一夜白头",
       "onboard_time": 1769770642,
       "rank": 18,
@@ -891,6 +891,22 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 196246,
+      "num": 1230537,
+      "word": "爷爷狱中病亡孙子考211为其翻案",
+      "onboard_time": 1769772803,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 195175,
+      "num": 195175,
+      "word": "周杰伦王俊凯观赛澳网",
+      "onboard_time": 1769772742,
+      "rank": 41,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 193693,
       "num": 193693,
       "word": "云旗空降",
@@ -916,7 +932,7 @@
     },
     {
       "raw_hot": 190842,
-      "num": 190842,
+      "num": 275729,
       "word": "杨紫生命树开播长文",
       "onboard_time": 1769771545,
       "rank": 16,
@@ -1100,7 +1116,7 @@
     },
     {
       "raw_hot": 144146,
-      "num": 1018492,
+      "num": 1119645,
       "word": "工商银行公告",
       "onboard_time": 1769769687,
       "rank": 46,
@@ -1113,6 +1129,14 @@
       "onboard_time": 1769743640,
       "rank": 9,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 141252,
+      "num": 991401,
+      "word": "手机坏成这样还能发消息",
+      "onboard_time": 1769772984,
+      "rank": 8,
+      "category": "幽默"
     },
     {
       "raw_hot": 140718,
@@ -1132,7 +1156,7 @@
     },
     {
       "raw_hot": 137993,
-      "num": 189879,
+      "num": 274003,
       "word": "夫妻闹离婚2岁孩子被丢法院一夜",
       "onboard_time": 1769769746,
       "rank": 38,
@@ -1252,7 +1276,7 @@
     },
     {
       "raw_hot": 126185,
-      "num": 186751,
+      "num": 272924,
       "word": "2026央视春晚第三次联排",
       "onboard_time": 1769772144,
       "rank": 25,
@@ -1379,6 +1403,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 116278,
+      "num": 938329,
+      "word": "宝可梦道歉了",
+      "onboard_time": 1769773764,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116181,
       "num": 871315,
       "word": "暖阳好帅的李白",
@@ -1443,12 +1475,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 112537,
+      "num": 271511,
+      "word": "Meiko长文感谢11年陪伴",
+      "onboard_time": 1769771725,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 112119,
       "num": 112119,
       "word": "微博之夜第四波阵容",
       "onboard_time": 1769755040,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 110310,
+      "num": 110310,
+      "word": "别人算日子vs我算日子",
+      "onboard_time": 1769773222,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 109957,
@@ -1465,14 +1513,6 @@
       "onboard_time": 1769738661,
       "rank": 38,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 109393,
-      "num": 116132,
-      "word": "Meiko长文感谢11年陪伴",
-      "onboard_time": 1769771725,
-      "rank": 36,
-      "category": "电竞"
     },
     {
       "raw_hot": 109105,
@@ -1532,11 +1572,19 @@
     },
     {
       "raw_hot": 107514,
-      "num": 184475,
+      "num": 213417,
       "word": "张译任黑龙江省政协委员",
       "onboard_time": 1769767887,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 106777,
+      "num": 277064,
+      "word": "牛奶加盐",
+      "onboard_time": 1769773403,
+      "rank": 14,
+      "category": "美食"
     },
     {
       "raw_hot": 106281,
@@ -1553,14 +1601,6 @@
       "onboard_time": 1769771964,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 106052,
-      "num": 106052,
-      "word": "周杰伦王俊凯观赛澳网",
-      "onboard_time": 1769772742,
-      "rank": 41,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 105075,
@@ -1771,6 +1811,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 97099,
+      "num": 97099,
+      "word": "带薪养病",
+      "onboard_time": 1769772742,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 97033,
       "num": 116246,
       "word": "亲戚以为我住老房子很惨",
@@ -1889,14 +1937,6 @@
       "onboard_time": 1769751861,
       "rank": 42,
       "category": "演出"
-    },
-    {
-      "raw_hot": 90113,
-      "num": 90113,
-      "word": "带薪养病",
-      "onboard_time": 1769772742,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 90077,
@@ -2171,6 +2211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 79410,
+      "num": 162300,
+      "word": "黄金跌破5000美元",
+      "onboard_time": 1769770044,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 79391,
       "num": 79391,
       "word": "六福珠宝涨价",
@@ -2403,14 +2451,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 55407,
-      "num": 106538,
-      "word": "爷爷狱中病亡孙子考211为其翻案",
-      "onboard_time": 1769772803,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 51841,
       "num": 51841,
       "word": "英雄联盟",
@@ -2611,6 +2651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 31766,
+      "num": 143925,
+      "word": "宝可梦需要给中国人一个交代",
+      "onboard_time": 1769773764,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31512,
       "num": 208180,
       "word": "和杨洋一起举杯",
@@ -2715,7 +2763,15 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 19929,
+      "raw_hot": 21713,
+      "num": 142420,
+      "word": "妈妈癌症去世爸爸靠收泔水养活女儿",
+      "onboard_time": 1769773523,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20847,
       "num": 3647214,
       "word": "中国绿色低碳转型交出亮眼答卷",
       "onboard_time": 1769766084,
@@ -2769,6 +2825,14 @@
       "onboard_time": 1769741840,
       "rank": 39,
       "category": "国内时政,民生新闻"
+    },
+    {
+      "raw_hot": 11512,
+      "num": 234866,
+      "word": "茶颜悦色转发新品味道像猴子腋下",
+      "onboard_time": 1769773583,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 10867,
