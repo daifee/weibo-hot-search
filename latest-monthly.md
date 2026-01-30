@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/31 06:53:20
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/31 07:34:01
 </p>
 </blockquote>
 <p>
@@ -3381,6 +3381,12 @@ U23国足vs日本U23首发（热度：669159）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E5%8A%A9%E7%90%86%E5%B7%B2%E8%A7%A6%E5%8F%8A%E8%A1%8C%E6%94%BF%E8%BF%9D%E6%B3%95%23" target="weibo">
+金晨助理已触及行政违法（热度：667583）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23AI%E7%85%A7%E7%89%87%E7%AB%9F%E7%84%B6%E6%8B%BF%E4%BA%86%E6%91%84%E5%BD%B1%E6%AF%94%E8%B5%9B%E7%AC%AC%E4%B8%80%E5%90%8D%23" target="weibo">
 AI照片竟然拿了摄影比赛第一名（热度：667067）
 </a>
@@ -6005,12 +6011,6 @@ iPhone4需求激增近1000%（热度：506886）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%BD%A7%E6%88%8F%E8%BD%A7%E7%9A%84%E6%98%AF%E9%9F%A9%E5%89%A7%E5%95%8A%23" target="weibo">
 原来轧戏轧的是韩剧啊（热度：506314）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A2%81%E7%A5%A5%E4%BB%81%E5%8E%BB%E4%B8%96%23" target="weibo">
-袁祥仁去世（热度：506183）
 </a>
 </li>
 

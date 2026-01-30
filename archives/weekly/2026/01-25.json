@@ -1,6 +1,6 @@
 {
   "startTime": 1769272464158,
-  "endTime": 1769813600372,
+  "endTime": 1769816041001,
   "band_list": [
     {
       "raw_hot": 22742360,
@@ -905,6 +905,14 @@
       "onboard_time": 1769332999,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 667583,
+      "num": 95198,
+      "word": "金晨助理已触及行政违法",
+      "onboard_time": 1769794517,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 665901,
@@ -2289,14 +2297,6 @@
       "onboard_time": 1769307921,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 409390,
-      "num": 58652,
-      "word": "金晨助理已触及行政违法",
-      "onboard_time": 1769794517,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 408779,
@@ -4915,6 +4915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 229063,
+      "num": 646609,
+      "word": "黄金白银急速跳水原因",
+      "onboard_time": 1769812695,
+      "rank": 7,
+      "category": "财经"
+    },
+    {
       "raw_hot": 228958,
       "num": 183935,
       "word": "偶遇王俊凯周杰伦吃火锅",
@@ -5835,6 +5843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 181711,
+      "num": 181711,
+      "word": "白银迎来暴跌",
+      "onboard_time": 1769812695,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
       "raw_hot": 181504,
       "num": 181504,
       "word": "杨幂孙俪拥抱",
@@ -6561,6 +6577,14 @@
       "onboard_time": 1769681903,
       "rank": 22,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 154163,
+      "num": 93855,
+      "word": "女子用去世儿子书包给丈夫装骨灰",
+      "onboard_time": 1769814796,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 154043,
@@ -8643,6 +8667,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 120232,
+      "num": 133020,
+      "word": "金价史诗级大幅震荡",
+      "onboard_time": 1769767647,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 120043,
       "num": 120043,
       "word": "荣耀之战",
@@ -10595,14 +10627,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 102591,
-      "num": 133020,
-      "word": "金价史诗级大幅震荡",
-      "onboard_time": 1769767647,
-      "rank": 33,
-      "category": "财经"
-    },
-    {
       "raw_hot": 102441,
       "num": 164706,
       "word": "山西的便利店能有多万能",
@@ -11323,6 +11347,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 97149,
+      "num": 70068,
+      "word": "美性侵犯被押送时抓女警臀部",
+      "onboard_time": 1769815396,
+      "rank": 21,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 97099,
       "num": 97099,
       "word": "带薪养病",
@@ -11393,6 +11425,14 @@
       "onboard_time": 1769419821,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 96792,
+      "num": 405637,
+      "word": "博士生在意失联表弟赶赴当地",
+      "onboard_time": 1769796976,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96782,
@@ -11481,6 +11521,14 @@
       "onboard_time": 1769487081,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 96500,
+      "num": 96500,
+      "word": "同学说刘强东父亲过得十分俭朴",
+      "onboard_time": 1769814976,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96492,
@@ -15099,14 +15147,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 76206,
-      "num": 405637,
-      "word": "博士生在意失联表弟赶赴当地",
-      "onboard_time": 1769796976,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 76181,
       "num": 76181,
       "word": "苹果转安卓最难舍的是什么",
@@ -16771,6 +16811,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 57994,
+      "num": 57994,
+      "word": "世界黄金协会预测金价走势",
+      "onboard_time": 1769815277,
+      "rank": 25,
+      "category": "财经"
+    },
+    {
       "raw_hot": 57760,
       "num": 101712,
       "word": "100元从广东坐公交回东北男子发声",
@@ -16923,6 +16971,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 55825,
+      "num": 55825,
+      "word": "解放军万吨大驱单挑外军舰队",
+      "onboard_time": 1769814976,
+      "rank": 26,
+      "category": "军事"
+    },
+    {
       "raw_hot": 55597,
       "num": 55597,
       "word": "A股黄金概念股大涨",
@@ -17019,6 +17075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 54591,
+      "num": 54591,
+      "word": "女子来例假像渡劫发现11cm肌瘤",
+      "onboard_time": 1769815396,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 54442,
       "num": 93980,
       "word": "武汉理工回应约谈当保安毕业生",
@@ -17033,6 +17097,14 @@
       "onboard_time": 1769599042,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 54225,
+      "num": 54225,
+      "word": "这样喝咖啡反而增加患癌风险",
+      "onboard_time": 1769815037,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 53989,
@@ -17587,6 +17659,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 43042,
+      "num": 43042,
+      "word": "Daeny点名Knight",
+      "onboard_time": 1769815156,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 42880,
       "num": 593620,
       "word": "美国运动员成功徒手攀爬台北101",
@@ -17691,12 +17771,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 41554,
-      "num": 41554,
-      "word": "黄金白银急速跳水原因",
-      "onboard_time": 1769812695,
-      "rank": 7,
-      "category": "财经"
+      "raw_hot": 41453,
+      "num": 41453,
+      "word": "载入脑综史册的一幕出现了",
+      "onboard_time": 1769811974,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 41325,
@@ -17841,6 +17921,14 @@
       "onboard_time": 1769384180,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39514,
+      "num": 39514,
+      "word": "美金矿股大跌",
+      "onboard_time": 1769815156,
+      "rank": 35,
+      "category": "财经"
     },
     {
       "raw_hot": 39493,
@@ -18091,14 +18179,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 36708,
-      "num": 24496,
-      "word": "白银迎来暴跌",
-      "onboard_time": 1769812695,
-      "rank": 30,
-      "category": "财经"
-    },
-    {
       "raw_hot": 36649,
       "num": 714510,
       "word": "彩灯一亮年味就有了",
@@ -18121,6 +18201,14 @@
       "onboard_time": 1769729238,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 36258,
+      "num": 48039,
+      "word": "张杰演唱会疑是银河落九天",
+      "onboard_time": 1769798295,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 36143,
@@ -18635,6 +18723,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 28835,
+      "num": 36246,
+      "word": "最强大脑13",
+      "onboard_time": 1769800574,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 28374,
       "num": 103180,
       "word": "炽热吸引哥嫂cp",
@@ -18979,14 +19075,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 23789,
-      "num": 23789,
-      "word": "载入脑综史册的一幕出现了",
-      "onboard_time": 1769811974,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 23768,
       "num": 89580,
       "word": "4岁女儿重病父亲穿着拖鞋下跪求救",
@@ -19009,14 +19097,6 @@
       "onboard_time": 1769788582,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 23491,
-      "num": 48039,
-      "word": "张杰演唱会疑是银河落九天",
-      "onboard_time": 1769798295,
-      "rank": 31,
-      "category": "演出"
     },
     {
       "raw_hot": 23334,
@@ -19059,6 +19139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 23015,
+      "num": 36243,
+      "word": "看起来干巴实际脂肪爆表",
+      "onboard_time": 1769814016,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 22968,
       "num": 42865,
       "word": "TF五代练习生cover",
@@ -19097,14 +19185,6 @@
       "onboard_time": 1769297236,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 22472,
-      "num": 22472,
-      "word": "最强大脑13",
-      "onboard_time": 1769800574,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 22463,
@@ -19467,6 +19547,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 17551,
+      "num": 502865,
+      "word": "冬天的亿种打开方式",
+      "onboard_time": 1769778983,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 17453,
       "num": 19232,
       "word": "生命树群像",
@@ -19576,14 +19664,6 @@
       "word": "别让老师刚下讲台又上舞台",
       "onboard_time": 1769579181,
       "rank": 12,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 15977,
-      "num": 327604,
-      "word": "冬天的亿种打开方式",
-      "onboard_time": 1769778983,
-      "rank": 2,
       "category": "民生新闻"
     },
     {
