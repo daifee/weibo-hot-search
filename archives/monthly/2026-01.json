@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769784138687,
+  "endTime": 1769785403166,
   "band_list": [
     {
       "raw_hot": 22742360,
@@ -1171,6 +1171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1259466,
+      "num": 1317007,
+      "word": "德约科维奇晋级澳网男单决赛",
+      "onboard_time": 1769783845,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1258823,
       "num": 262654,
       "word": "张雨绮多个商务被取消",
@@ -1217,14 +1225,6 @@
       "onboard_time": 1769051240,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1234027,
-      "num": 1317007,
-      "word": "德约科维奇晋级澳网男单决赛",
-      "onboard_time": 1769783845,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 1229235,
@@ -5723,6 +5723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 588225,
+      "num": 588225,
+      "word": "生命树收视率破3",
+      "onboard_time": 1769779766,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 588214,
       "num": 196819,
       "word": "杨紫素颜live照",
@@ -8171,6 +8179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 501216,
+      "num": 501216,
+      "word": "库迪将取消全场9.9元",
+      "onboard_time": 1769782045,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 500587,
       "num": 500587,
       "word": "王安宇电影分账票房第一",
@@ -8361,14 +8377,6 @@
       "onboard_time": 1768382841,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 492846,
-      "num": 492846,
-      "word": "生命树收视率破3",
-      "onboard_time": 1769779766,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 492768,
@@ -9185,14 +9193,6 @@
       "onboard_time": 1767198625,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 470915,
-      "num": 470915,
-      "word": "库迪将取消全场9.9元",
-      "onboard_time": 1769782045,
-      "rank": 6,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 470581,
@@ -17851,6 +17851,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 293790,
+      "num": 253713,
+      "word": "宋威龙赵今麦互宠这一块",
+      "onboard_time": 1769781862,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 293698,
       "num": 641459,
       "word": "无畏契约",
@@ -19513,14 +19521,6 @@
       "onboard_time": 1767930741,
       "rank": 21,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 272725,
-      "num": 253713,
-      "word": "宋威龙赵今麦互宠这一块",
-      "onboard_time": 1769781862,
-      "rank": 13,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 272691,
@@ -22873,6 +22873,14 @@
       "onboard_time": 1767504383,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 234764,
+      "num": 213337,
+      "word": "魏大勋自曝曾被杨迪打了嘴巴子",
+      "onboard_time": 1769781684,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 234729,
@@ -28131,6 +28139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 194365,
+      "num": 193223,
+      "word": "孕36周女子吃火锅后突发呕血便血",
+      "onboard_time": 1769782045,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 194355,
       "num": 142219,
       "word": "小范闲韩昊霖长这么大了",
@@ -28361,14 +28377,6 @@
       "onboard_time": 1767674243,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 193223,
-      "num": 193223,
-      "word": "孕36周女子吃火锅后突发呕血便血",
-      "onboard_time": 1769782045,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 193220,
@@ -29225,6 +29233,14 @@
       "onboard_time": 1768622899,
       "rank": 20,
       "category": "演出"
+    },
+    {
+      "raw_hot": 189245,
+      "num": 189245,
+      "word": "吴忠市人民医院致歉",
+      "onboard_time": 1769783303,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 189072,
@@ -30625,14 +30641,6 @@
       "onboard_time": 1768412416,
       "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 181530,
-      "num": 181530,
-      "word": "魏大勋自曝曾被杨迪打了嘴巴子",
-      "onboard_time": 1769781684,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 181504,
@@ -38337,14 +38345,6 @@
       "onboard_time": 1768259719,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 146869,
-      "num": 146869,
-      "word": "吴忠市人民医院致歉",
-      "onboard_time": 1769783303,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 146851,
@@ -56867,6 +56867,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 104520,
+      "num": 104520,
+      "word": "妈妈让儿子穿中老年装带火21年老店",
+      "onboard_time": 1769784264,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104513,
       "num": 2342989,
       "word": "吾悦广场您踏马来了标语引争议",
@@ -62681,6 +62689,14 @@
       "onboard_time": 1769670263,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 96591,
+      "num": 96591,
+      "word": "德约科维奇3比2辛纳",
+      "onboard_time": 1769784143,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 96587,
@@ -68539,6 +68555,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 89465,
+      "num": 89465,
+      "word": "时代峰峻在微博之夜开年会",
+      "onboard_time": 1769781144,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 89461,
       "num": 168336,
       "word": "香港偶遇戚薇一家坐摩天轮",
@@ -68585,14 +68609,6 @@
       "onboard_time": 1768050143,
       "rank": 44,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 89368,
-      "num": 89368,
-      "word": "时代峰峻在微博之夜开年会",
-      "onboard_time": 1769781144,
-      "rank": 46,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 89351,
@@ -79347,6 +79363,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 75076,
+      "num": 198687,
+      "word": "现在的咖啡为什么杯均金奖",
+      "onboard_time": 1769783183,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75059,
       "num": 75059,
       "word": "何炅实至名归的全员定心丸",
@@ -84601,14 +84625,6 @@
       "onboard_time": 1767949341,
       "rank": 9,
       "category": "财经"
-    },
-    {
-      "raw_hot": 62714,
-      "num": 198687,
-      "word": "现在的咖啡为什么杯均金奖",
-      "onboard_time": 1769783183,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 62675,
@@ -93995,6 +94011,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 30558,
+      "num": 158767,
+      "word": "特朗普提名的沃什是谁",
+      "onboard_time": 1769784982,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 30490,
       "num": 98414,
       "word": "小区1520个车位宁可空着也不让临停",
@@ -96097,6 +96121,14 @@
       "onboard_time": 1769758820,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 23812,
+      "num": 105324,
+      "word": "生命树题材特殊",
+      "onboard_time": 1769784923,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 23789,
@@ -99609,6 +99641,14 @@
       "onboard_time": 1768992202,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 10001,
+      "num": 104784,
+      "word": "独家专访成为中国人视频首发者",
+      "onboard_time": 1769784982,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 9932,

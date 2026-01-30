@@ -1,6 +1,6 @@
 {
   "startTime": 1769702505765,
-  "endTime": 1769784138687,
+  "endTime": 1769785403166,
   "band_list": [
     {
       "raw_hot": 22742360,
@@ -99,20 +99,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1259466,
+      "num": 1317007,
+      "word": "德约科维奇晋级澳网男单决赛",
+      "onboard_time": 1769783845,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1241684,
       "num": 154906,
       "word": "金价暴涨第一批受害者出现",
       "onboard_time": 1769692584,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1234027,
-      "num": 1317007,
-      "word": "德约科维奇晋级澳网男单决赛",
-      "onboard_time": 1769783845,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 1229235,
@@ -243,6 +243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 588225,
+      "num": 588225,
+      "word": "生命树收视率破3",
+      "onboard_time": 1769779766,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 583149,
       "num": 703195,
       "word": "孙俪总台视后",
@@ -299,20 +307,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 501216,
+      "num": 501216,
+      "word": "库迪将取消全场9.9元",
+      "onboard_time": 1769782045,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 493499,
       "num": 3130229,
       "word": "澳网",
       "onboard_time": 1769748922,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 492846,
-      "num": 492846,
-      "word": "生命树收视率破3",
-      "onboard_time": 1769779766,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 492046,
@@ -344,14 +352,6 @@
       "word": "宝可梦道歉了",
       "onboard_time": 1769773764,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 470915,
-      "num": 470915,
-      "word": "库迪将取消全场9.9元",
-      "onboard_time": 1769782045,
-      "rank": 6,
       "category": "民生新闻"
     },
     {
@@ -723,6 +723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 293790,
+      "num": 253713,
+      "word": "宋威龙赵今麦互宠这一块",
+      "onboard_time": 1769781862,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 291062,
       "num": 367638,
       "word": "袁娅维在美国唐人街偶遇周深",
@@ -777,14 +785,6 @@
       "onboard_time": 1769774903,
       "rank": 33,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 272725,
-      "num": 253713,
-      "word": "宋威龙赵今麦互宠这一块",
-      "onboard_time": 1769781862,
-      "rank": 13,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 266377,
@@ -921,6 +921,14 @@
       "onboard_time": 1769738900,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 234764,
+      "num": 213337,
+      "word": "魏大勋自曝曾被杨迪打了嘴巴子",
+      "onboard_time": 1769781684,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 232543,
@@ -1107,20 +1115,20 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 194365,
+      "num": 193223,
+      "word": "孕36周女子吃火锅后突发呕血便血",
+      "onboard_time": 1769782045,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 193693,
       "num": 193693,
       "word": "云旗空降",
       "onboard_time": 1769695705,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 193223,
-      "num": 193223,
-      "word": "孕36周女子吃火锅后突发呕血便血",
-      "onboard_time": 1769782045,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 193145,
@@ -1147,6 +1155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189245,
+      "num": 189245,
+      "word": "吴忠市人民医院致歉",
+      "onboard_time": 1769783303,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 187867,
       "num": 148518,
       "word": "专家称黄金还没涨到最高",
@@ -1161,14 +1177,6 @@
       "onboard_time": 1769744001,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 181530,
-      "num": 181530,
-      "word": "魏大勋自曝曾被杨迪打了嘴巴子",
-      "onboard_time": 1769781684,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 178620,
@@ -1347,14 +1355,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 146869,
-      "num": 146869,
-      "word": "吴忠市人民医院致歉",
-      "onboard_time": 1769783303,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 145653,
       "num": 145653,
       "word": "邻居楼道放鞋架女子挂婆婆遗照反击",
@@ -1499,6 +1499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 133913,
+      "num": 133913,
+      "word": "刘宇宁直播",
+      "onboard_time": 1769780425,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 133369,
       "num": 133369,
       "word": "黄金暴跌有人已趁高位出手套现",
@@ -1560,14 +1568,6 @@
       "word": "王玉雯 假装车没停好听了两遍",
       "onboard_time": 1769760202,
       "rank": 27,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 127448,
-      "num": 127448,
-      "word": "刘宇宁直播",
-      "onboard_time": 1769780425,
-      "rank": 38,
       "category": "艺人"
     },
     {
@@ -1931,6 +1931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 107135,
+      "num": 107135,
+      "word": "杨紫生命树微表情演技",
+      "onboard_time": 1769785102,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 106281,
       "num": 106281,
       "word": "孙天宇 内娱天选马系艺人",
@@ -1953,6 +1961,14 @@
       "onboard_time": 1769698883,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 104520,
+      "num": 104520,
+      "word": "妈妈让儿子穿中老年装带火21年老店",
+      "onboard_time": 1769784264,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104513,
@@ -2187,6 +2203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 96591,
+      "num": 96591,
+      "word": "德约科维奇3比2辛纳",
+      "onboard_time": 1769784143,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 95610,
       "num": 118241,
       "word": "武汉理工毕业生当保安被母校约谈",
@@ -2315,8 +2339,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 89368,
-      "num": 89368,
+      "raw_hot": 89465,
+      "num": 89465,
       "word": "时代峰峻在微博之夜开年会",
       "onboard_time": 1769781144,
       "rank": 46,
@@ -2739,6 +2763,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 75076,
+      "num": 198687,
+      "word": "现在的咖啡为什么杯均金奖",
+      "onboard_time": 1769783183,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 74800,
       "num": 100839,
       "word": "嘉禾望岗为何被称为分手车站",
@@ -2881,14 +2913,6 @@
       "onboard_time": 1769680945,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 62714,
-      "num": 198687,
-      "word": "现在的咖啡为什么杯均金奖",
-      "onboard_time": 1769783183,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 58470,
@@ -3147,6 +3171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 30558,
+      "num": 158767,
+      "word": "特朗普提名的沃什是谁",
+      "onboard_time": 1769784982,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 30367,
       "num": 57056,
       "word": "年度号召力男演员欧豪",
@@ -3217,6 +3249,14 @@
       "onboard_time": 1769758820,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 23812,
+      "num": 105324,
+      "word": "生命树题材特殊",
+      "onboard_time": 1769784923,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 23348,
@@ -3329,6 +3369,14 @@
       "onboard_time": 1769716094,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 10001,
+      "num": 104784,
+      "word": "独家专访成为中国人视频首发者",
+      "onboard_time": 1769784982,
+      "rank": 39,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
