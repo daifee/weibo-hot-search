@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/25 00:34:24 ~ 2026/01/31 06:34:54
+本榜单时间：2026/01/25 00:34:24 ~ 2026/01/31 06:53:20
 </p>
 </blockquote>
 <p>
@@ -13281,6 +13281,12 @@ Turbo5Max大内存512GB天花板（热度：42113）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E6%80%A5%E9%80%9F%E8%B7%B3%E6%B0%B4%E5%8E%9F%E5%9B%A0%23" target="weibo">
+黄金白银急速跳水原因（热度：41554）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2311%E6%96%A4%E5%A4%9A%E6%BE%B3%E9%BE%99%E8%A2%AB%E6%94%B613%E6%96%A4%E7%9A%84%E9%92%B1%23" target="weibo">
 11斤多澳龙被收13斤的钱（热度：41325）
 </a>
@@ -13571,6 +13577,12 @@ Turbo5Max大内存512GB天花板（热度：42113）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8F%B2%E5%BE%8B%E5%AE%BE%E5%AE%A2%E8%88%B9%E5%80%BE%E8%A6%86%E4%BA%8B%E6%95%85%E5%B7%B2%E6%9C%897%E4%BA%BA%E6%AD%BB%E4%BA%A1%23" target="weibo">
 菲律宾客船倾覆事故已有7人死亡（热度：37052）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%93%B6%E8%BF%8E%E6%9D%A5%E6%9A%B4%E8%B7%8C%23" target="weibo">
+白银迎来暴跌（热度：36708）
 </a>
 </li>
 
@@ -14235,6 +14247,12 @@ U23男足亚洲杯亚军（热度：27944）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BD%BD%E5%85%A5%E8%84%91%E7%BB%BC%E5%8F%B2%E5%86%8C%E7%9A%84%E4%B8%80%E5%B9%95%E5%87%BA%E7%8E%B0%E4%BA%86%23" target="weibo">
+载入脑综史册的一幕出现了（热度：23789）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%234%E5%B2%81%E5%A5%B3%E5%84%BF%E9%87%8D%E7%97%85%E7%88%B6%E4%BA%B2%E7%A9%BF%E7%9D%80%E6%8B%96%E9%9E%8B%E4%B8%8B%E8%B7%AA%E6%B1%82%E6%95%91%23" target="weibo">
 4岁女儿重病父亲穿着拖鞋下跪求救（热度：23768）
 </a>
@@ -14319,6 +14337,12 @@ TF五代练习生cover（热度：22968）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%80%E5%BC%BA%E5%A4%A7%E8%84%9113%23" target="weibo">
+最强大脑13（热度：22472）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E5%8E%89%E5%AE%B3%23" target="weibo">
 中国大模型到底有多厉害（热度：22463）
 </a>
@@ -14387,12 +14411,6 @@ papi酱吐槽小时代4视频（热度：22424）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%BE%B3%E7%BD%91%E7%94%B7%E5%A5%B3%E5%8D%95%E5%9B%9B%E5%BC%BA%E5%87%BA%E7%82%89%23" target="weibo">
 澳网男女单四强出炉（热度：21505）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%80%E5%BC%BA%E5%A4%A7%E8%84%9113%23" target="weibo">
-最强大脑13（热度：21159）
 </a>
 </li>
 
@@ -14511,6 +14529,12 @@ papi酱想象中的春晚导演（热度：20154）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%96%E6%99%AF%E6%A1%86%E4%B8%80%E6%A1%86%E8%82%96%E6%88%98%23" target="weibo">
+取景框一框肖战（热度：19324）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E4%B8%8E%E5%9C%A3%E7%BD%97%E5%85%B0%E5%B7%B4%E9%BB%8E%E5%86%8D%E8%81%9A%23" target="weibo">
 魏大勋与圣罗兰巴黎再聚（热度：19011）
 </a>
@@ -14525,12 +14549,6 @@ papi酱想象中的春晚导演（热度：20154）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%835.5%E7%BA%A7%E5%9C%B0%E9%9C%87%E6%9C%89%E5%BB%BA%E7%AD%91%E5%8F%97%E6%8D%9F%23" target="weibo">
 甘肃5.5级地震有建筑受损（热度：18745）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%96%E6%99%AF%E6%A1%86%E4%B8%80%E6%A1%86%E8%82%96%E6%88%98%23" target="weibo">
-取景框一框肖战（热度：18676）
 </a>
 </li>
 
@@ -14555,12 +14573,6 @@ papi酱想象中的春晚导演（热度：20154）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E5%9B%9E%E5%BA%9411%E5%B2%81%E5%84%BF%E5%AD%90%E5%88%9B%E4%B8%9A2%E6%9C%88%E8%B5%9A6000%23" target="weibo">
 妈妈回应11岁儿子创业2月赚6000（热度：18291）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BD%BD%E5%85%A5%E8%84%91%E7%BB%BC%E5%8F%B2%E5%86%8C%E7%9A%84%E4%B8%80%E5%B9%95%E5%87%BA%E7%8E%B0%E4%BA%86%23" target="weibo">
-载入脑综史册的一幕出现了（热度：18152）
 </a>
 </li>
 
@@ -14657,6 +14669,12 @@ papi酱想象中的春晚导演（热度：20154）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%8D%E6%A0%A1%E6%AF%95%E4%B8%9A%E5%BD%93%E4%BF%9D%E5%AE%89%E7%94%B7%E5%AD%90%E5%90%A6%E8%AE%A4%E6%8A%B9%E9%BB%91%E6%AF%8D%E6%A0%A1%23" target="weibo">
 名校毕业当保安男子否认抹黑母校（热度：16471）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%AD%A9%E5%AD%90%E5%BC%80%E5%A7%8B%E5%8A%A0%E5%AF%86%E5%AF%B9%E8%AF%9D%23" target="weibo">
+当孩子开始加密对话（热度：16318）
 </a>
 </li>
 

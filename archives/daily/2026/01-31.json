@@ -1,6 +1,6 @@
 {
   "startTime": 1769791903074,
-  "endTime": 1769812494448,
+  "endTime": 1769813600372,
   "band_list": [
     {
       "raw_hot": 1880814,
@@ -115,6 +115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 138953,
+      "num": 86111,
+      "word": "黄金巨震原因找到了",
+      "onboard_time": 1769775263,
+      "rank": 21,
+      "category": "财经"
+    },
+    {
       "raw_hot": 132608,
       "num": 132608,
       "word": "澳门一酒店大堂78公斤黄金被曝搬空",
@@ -145,14 +153,6 @@
       "onboard_time": 1769772023,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 118062,
-      "num": 86111,
-      "word": "黄金巨震原因找到了",
-      "onboard_time": 1769775263,
-      "rank": 21,
-      "category": "财经"
     },
     {
       "raw_hot": 112217,
@@ -220,7 +220,7 @@
     },
     {
       "raw_hot": 76206,
-      "num": 323301,
+      "num": 405637,
       "word": "博士生在意失联表弟赶赴当地",
       "onboard_time": 1769796976,
       "rank": 28,
@@ -419,6 +419,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 41554,
+      "num": 41554,
+      "word": "黄金白银急速跳水原因",
+      "onboard_time": 1769812695,
+      "rank": 7,
+      "category": "财经"
+    },
+    {
       "raw_hot": 39381,
       "num": 63934,
       "word": "这份福气请你接住",
@@ -433,6 +441,14 @@
       "onboard_time": 1769772803,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 36708,
+      "num": 24496,
+      "word": "白银迎来暴跌",
+      "onboard_time": 1769812695,
+      "rank": 30,
+      "category": "财经"
     },
     {
       "raw_hot": 35342,
@@ -483,6 +499,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 23789,
+      "num": 23789,
+      "word": "载入脑综史册的一幕出现了",
+      "onboard_time": 1769811974,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 23491,
       "num": 48039,
       "word": "张杰演唱会疑是银河落九天",
@@ -499,8 +523,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 21159,
-      "num": 21159,
+      "raw_hot": 22472,
+      "num": 22472,
       "word": "最强大脑13",
       "onboard_time": 1769800574,
       "rank": 27,
@@ -516,11 +540,19 @@
     },
     {
       "raw_hot": 20186,
-      "num": 21147,
+      "num": 22425,
       "word": "生命树震撼",
       "onboard_time": 1769801895,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 19324,
+      "num": 22427,
+      "word": "取景框一框肖战",
+      "onboard_time": 1769806454,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 19277,
@@ -529,22 +561,6 @@
       "onboard_time": 1769779823,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 18676,
-      "num": 21156,
-      "word": "取景框一框肖战",
-      "onboard_time": 1769806454,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 18152,
-      "num": 21149,
-      "word": "载入脑综史册的一幕出现了",
-      "onboard_time": 1769811974,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 17453,
@@ -563,16 +579,24 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 16318,
+      "num": 22425,
+      "word": "当孩子开始加密对话",
+      "onboard_time": 1769813175,
+      "rank": 42,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 15977,
-      "num": 250612,
+      "num": 327604,
       "word": "冬天的亿种打开方式",
       "onboard_time": 1769778983,
       "rank": 2,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 14515,
-      "num": 21135,
+      "raw_hot": 14750,
+      "num": 22421,
       "word": "欧冠",
       "onboard_time": 1769778084,
       "rank": 49,
