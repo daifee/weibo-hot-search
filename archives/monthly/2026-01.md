@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/30 12:57:06
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/30 13:55:22
 </p>
 </blockquote>
 <p>
@@ -305,6 +305,12 @@ U23国足vs越南（热度：2487537）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%B9%B4%E7%BA%AA%E5%BF%B5%E5%B8%81%E9%A2%84%E7%BA%A6%23" target="weibo">
 马年纪念币预约（热度：2285482）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%A4%E8%AD%A6%E5%90%A6%E8%AE%A4%E7%BD%91%E4%BC%A0%E9%87%91%E6%99%A8%E9%A9%BE%E8%BD%A6%E7%9B%91%E6%8E%A7%E4%BF%A1%E6%81%AF%23" target="weibo">
+交警否认网传金晨驾车监控信息（热度：2232636）
 </a>
 </li>
 
@@ -935,6 +941,12 @@ woojin 塌房（热度：1279260）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23BLG%20Bin%23" target="weibo">
 BLG Bin（热度：1201960）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E5%9B%9B%E8%91%AC%E7%A4%BC%23" target="weibo">
+赵四葬礼（热度：1201358）
 </a>
 </li>
 
@@ -5535,12 +5547,6 @@ ICE枪杀（热度：522348）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%A4%E8%AD%A6%E5%90%A6%E8%AE%A4%E7%BD%91%E4%BC%A0%E9%87%91%E6%99%A8%E9%A9%BE%E8%BD%A6%E7%9B%91%E6%8E%A7%E4%BF%A1%E6%81%AF%23" target="weibo">
-交警否认网传金晨驾车监控信息（热度：519198）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E6%A1%88%E4%BA%8B%E5%8F%91%E5%9C%B0%E6%9D%91%E6%B0%91%E8%AF%B4%E6%92%9E%E4%BA%86%E4%B8%80%E5%A0%B5%E5%A2%99%23" target="weibo">
 金晨案事发地村民说撞了一堵墙（热度：518849）
 </a>
@@ -6005,12 +6011,6 @@ iPhone4需求激增近1000%（热度：506886）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%82%85%20%E7%BB%88%E4%BA%8E%E8%A6%81%E7%BB%93%E6%9D%9F%E4%BA%86%23" target="weibo">
 何炅 终于要结束了（热度：501884）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%BB%8A%E9%BA%A6%E6%9D%8E%E5%BA%9A%E5%B8%8C%E7%9F%AD%E5%8F%91%23" target="weibo">
-赵今麦李庚希短发（热度：501658）
 </a>
 </li>
 

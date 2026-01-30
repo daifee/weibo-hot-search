@@ -1,6 +1,6 @@
 {
   "startTime": 1769702505765,
-  "endTime": 1769749026948,
+  "endTime": 1769752522042,
   "band_list": [
     {
       "raw_hot": 3481750,
@@ -9,6 +9,14 @@
       "onboard_time": 1769703021,
       "rank": 10,
       "category": "财经"
+    },
+    {
+      "raw_hot": 2232636,
+      "num": 209881,
+      "word": "交警否认网传金晨驾车监控信息",
+      "onboard_time": 1769748682,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 2213531,
@@ -33,6 +41,14 @@
       "onboard_time": 1769692584,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1201358,
+      "num": 216201,
+      "word": "赵四葬礼",
+      "onboard_time": 1769749401,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 1189524,
@@ -131,14 +147,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 519198,
-      "num": 209881,
-      "word": "交警否认网传金晨驾车监控信息",
-      "onboard_time": 1769748682,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 518849,
       "num": 237532,
       "word": "金晨案事发地村民说撞了一堵墙",
@@ -153,6 +161,14 @@
       "onboard_time": 1769741420,
       "rank": 27,
       "category": "财经"
+    },
+    {
+      "raw_hot": 479880,
+      "num": 190308,
+      "word": "章若楠这张脸杀疯了",
+      "onboard_time": 1769747002,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 463313,
@@ -315,12 +331,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 302693,
+      "num": 758925,
+      "word": "生命树招商",
+      "onboard_time": 1769748682,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 301436,
       "num": 192449,
       "word": "银价暴涨10倍带火CT废胶片",
       "onboard_time": 1769700562,
       "rank": 15,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 300588,
+      "num": 215600,
+      "word": "黄金白银一跌再跌",
+      "onboard_time": 1769746824,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 296042,
@@ -353,6 +385,14 @@
       "onboard_time": 1769728158,
       "rank": 3,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 261962,
+      "num": 261962,
+      "word": "我使馆要求日方尽快破案",
+      "onboard_time": 1769750241,
+      "rank": 3,
+      "category": "国内时政"
     },
     {
       "raw_hot": 241456,
@@ -475,6 +515,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 197350,
+      "num": 197350,
+      "word": "丈夫去世妻子不知情婆家领走70万",
+      "onboard_time": 1769750782,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 193693,
       "num": 193693,
       "word": "云旗空降",
@@ -521,14 +569,6 @@
       "onboard_time": 1769737100,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 171719,
-      "num": 171719,
-      "word": "章若楠这张脸杀疯了",
-      "onboard_time": 1769747002,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 170919,
@@ -635,14 +675,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 139528,
-      "num": 139528,
-      "word": "生命树招商",
-      "onboard_time": 1769748682,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 137621,
       "num": 422602,
       "word": "金饰克价跌回1662元",
@@ -707,6 +739,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 121528,
+      "num": 121528,
+      "word": "弗拉格49分",
+      "onboard_time": 1769750962,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119644,
       "num": 119644,
       "word": "网友称刚买4克黄金跌没了",
@@ -753,6 +793,14 @@
       "onboard_time": 1769748561,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 116412,
+      "num": 116412,
+      "word": "王橹杰穆祉丞荣耀之战彩排",
+      "onboard_time": 1769752162,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 115286,
@@ -811,14 +859,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 109705,
-      "num": 109705,
-      "word": "黄金白银一跌再跌",
-      "onboard_time": 1769746824,
-      "rank": 44,
-      "category": "财经"
-    },
-    {
       "raw_hot": 109105,
       "num": 109105,
       "word": "BLG Bin",
@@ -843,12 +883,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 107514,
+      "num": 96432,
+      "word": "蔡徐坤是在冰岛拍了部电影吗",
+      "onboard_time": 1769750001,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 106281,
       "num": 106281,
       "word": "孙天宇 内娱天选马系艺人",
       "onboard_time": 1769744781,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 105975,
+      "num": 96337,
+      "word": "金瀚 欲感力",
+      "onboard_time": 1769751801,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 105075,
@@ -971,12 +1027,36 @@
       "category": "数码"
     },
     {
+      "raw_hot": 91874,
+      "num": 91874,
+      "word": "权志龙的中式浪漫藏不住了",
+      "onboard_time": 1769751202,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 91182,
       "num": 109168,
       "word": "早睡觉可解决80%以上的问题",
       "onboard_time": 1769691443,
       "rank": 29,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 91088,
+      "num": 92786,
+      "word": "阿尔卡拉斯vs兹维列夫",
+      "onboard_time": 1769752401,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 90935,
+      "num": 86661,
+      "word": "凤凰传奇杭州连开三场",
+      "onboard_time": 1769751861,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 90077,
@@ -1003,12 +1083,28 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 87115,
+      "num": 87115,
+      "word": "iPhone在华销量现象级反弹",
+      "onboard_time": 1769751082,
+      "rank": 41,
+      "category": "数码"
+    },
+    {
       "raw_hot": 86334,
       "num": 86334,
       "word": "主治医生哭着说已想尽办法留住豪豪",
       "onboard_time": 1769718913,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86006,
+      "num": 86006,
+      "word": "河南一洗浴中心男子闯入女澡堂",
+      "onboard_time": 1769752222,
+      "rank": 43,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 85890,
@@ -1051,6 +1147,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 84271,
+      "num": 84271,
+      "word": "BNCT技术已落地中国",
+      "onboard_time": 1769752340,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 83586,
+      "num": 83586,
+      "word": "水贝黄金料商跑路潮",
+      "onboard_time": 1769750361,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 83370,
       "num": 83065,
       "word": "宝可梦靖国神社活动面向儿童",
@@ -1089,6 +1201,14 @@
       "onboard_time": 1769740579,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 80201,
+      "num": 80201,
+      "word": "别人在萝卜纸巾你在备战清北",
+      "onboard_time": 1769749221,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 80179,
@@ -1185,6 +1305,14 @@
       "onboard_time": 1769744059,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 67792,
+      "num": 181110,
+      "word": "咖啡价格被华莱士打下来了",
+      "onboard_time": 1769749464,
+      "rank": 18,
+      "category": "美食"
     },
     {
       "raw_hot": 65569,
@@ -1299,6 +1427,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 42558,
+      "num": 178468,
+      "word": "杰我睿寄存的黄金或已被熔",
+      "onboard_time": 1769751501,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42178,
       "num": 92445,
       "word": "在阿那亚买房值不值",
@@ -1385,6 +1521,14 @@
       "onboard_time": 1769691564,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 27257,
+      "num": 187279,
+      "word": "吴磊说勇敢就要小牛一点",
+      "onboard_time": 1769751202,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 25408,

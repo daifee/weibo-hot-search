@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769749026948,
+  "endTime": 1769752522042,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -393,6 +393,14 @@
       "onboard_time": 1768313484,
       "rank": 0,
       "category": "财经"
+    },
+    {
+      "raw_hot": 2232636,
+      "num": 209881,
+      "word": "交警否认网传金晨驾车监控信息",
+      "onboard_time": 1769748682,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 2213531,
@@ -1233,6 +1241,14 @@
       "onboard_time": 1769682144,
       "rank": 5,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 1201358,
+      "num": 216201,
+      "word": "赵四葬礼",
+      "onboard_time": 1769749401,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 1200620,
@@ -2385,22 +2401,6 @@
       "onboard_time": 1768734922,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 910443,
-      "num": 174135,
-      "word": "王广删博",
-      "onboard_time": 1768353739,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 906835,
-      "num": 906835,
-      "word": "一点点十年前的价目表",
-      "onboard_time": 1767685761,
-      "rank": 28,
-      "category": "美食"
     }
   ],
   "hotgov_list": [

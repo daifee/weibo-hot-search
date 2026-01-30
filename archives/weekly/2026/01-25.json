@@ -1,6 +1,6 @@
 {
   "startTime": 1769272464158,
-  "endTime": 1769749026948,
+  "endTime": 1769752522042,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -112,6 +112,14 @@
       "word": "蔡徐坤方回应金子涵",
       "onboard_time": 1769603661,
       "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2232636,
+      "num": 209881,
+      "word": "交警否认网传金晨驾车监控信息",
+      "onboard_time": 1769748682,
+      "rank": 15,
       "category": "艺人"
     },
     {
@@ -289,6 +297,14 @@
       "onboard_time": 1769682144,
       "rank": 5,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 1201358,
+      "num": 216201,
+      "word": "赵四葬礼",
+      "onboard_time": 1769749401,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 1195687,
@@ -1307,14 +1323,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 519198,
-      "num": 209881,
-      "word": "交警否认网传金晨驾车监控信息",
-      "onboard_time": 1769748682,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 518849,
       "num": 237532,
       "word": "金晨案事发地村民说撞了一堵墙",
@@ -1593,6 +1601,14 @@
       "onboard_time": 1769320639,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 479880,
+      "num": 190308,
+      "word": "章若楠这张脸杀疯了",
+      "onboard_time": 1769747002,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 479362,
@@ -3067,6 +3083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 302693,
+      "num": 758925,
+      "word": "生命树招商",
+      "onboard_time": 1769748682,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 301701,
       "num": 142921,
       "word": "胡锡进",
@@ -3105,6 +3129,14 @@
       "onboard_time": 1769531599,
       "rank": 33,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 300588,
+      "num": 215600,
+      "word": "黄金白银一跌再跌",
+      "onboard_time": 1769746824,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 299572,
@@ -3704,6 +3736,14 @@
       "word": "张又侠刘振立被立案调查",
       "onboard_time": 1769238981,
       "rank": 12,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 261962,
+      "num": 261962,
+      "word": "我使馆要求日方尽快破案",
+      "onboard_time": 1769750241,
+      "rank": 3,
       "category": "国内时政"
     },
     {
@@ -4819,6 +4859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 197350,
+      "num": 197350,
+      "word": "丈夫去世妻子不知情婆家领走70万",
+      "onboard_time": 1769750782,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 197230,
       "num": 197230,
       "word": "日本最后2只大熊猫今天回国",
@@ -5313,14 +5361,6 @@
       "onboard_time": 1769521521,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 171719,
-      "num": 171719,
-      "word": "章若楠这张脸杀疯了",
-      "onboard_time": 1769747002,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 171617,
@@ -6491,14 +6531,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 139528,
-      "num": 139528,
-      "word": "生命树招商",
-      "onboard_time": 1769748682,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 139482,
       "num": 128243,
       "word": "国际金价疯涨原因",
@@ -7579,6 +7611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 121528,
+      "num": 121528,
+      "word": "弗拉格49分",
+      "onboard_time": 1769750962,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121416,
       "num": 254815,
       "word": "看懂陈星旭收官文的都哭了",
@@ -7945,6 +7985,14 @@
       "onboard_time": 1769697204,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 116412,
+      "num": 116412,
+      "word": "王橹杰穆祉丞荣耀之战彩排",
+      "onboard_time": 1769752162,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 116380,
@@ -8523,14 +8571,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 109705,
-      "num": 109705,
-      "word": "黄金白银一跌再跌",
-      "onboard_time": 1769746824,
-      "rank": 44,
-      "category": "财经"
-    },
-    {
       "raw_hot": 109651,
       "num": 109651,
       "word": "盲猜春晚导演审节目",
@@ -8731,6 +8771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 107514,
+      "num": 96432,
+      "word": "蔡徐坤是在冰岛拍了部电影吗",
+      "onboard_time": 1769750001,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 107463,
       "num": 107463,
       "word": "iPhone5S更新系统",
@@ -8921,6 +8969,14 @@
       "onboard_time": 1769699784,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105975,
+      "num": 96337,
+      "word": "金瀚 欲感力",
+      "onboard_time": 1769751801,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 105751,
@@ -10923,6 +10979,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 91874,
+      "num": 91874,
+      "word": "权志龙的中式浪漫藏不住了",
+      "onboard_time": 1769751202,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 91800,
       "num": 121336,
       "word": "隋文静韩聪亚军",
@@ -11067,6 +11131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 91088,
+      "num": 92786,
+      "word": "阿尔卡拉斯vs兹维列夫",
+      "onboard_time": 1769752401,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 90974,
       "num": 90974,
       "word": "贾冰范丞丞再演父子",
@@ -11081,6 +11153,14 @@
       "onboard_time": 1769524943,
       "rank": 39,
       "category": "财经"
+    },
+    {
+      "raw_hot": 90935,
+      "num": 86661,
+      "word": "凤凰传奇杭州连开三场",
+      "onboard_time": 1769751861,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 90923,
@@ -11683,6 +11763,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 87115,
+      "num": 87115,
+      "word": "iPhone在华销量现象级反弹",
+      "onboard_time": 1769751082,
+      "rank": 41,
+      "category": "数码"
+    },
+    {
       "raw_hot": 87045,
       "num": 87045,
       "word": "贵州茅台股价涨超6%",
@@ -11889,6 +11977,14 @@
       "onboard_time": 1769519061,
       "rank": 37,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 86006,
+      "num": 86006,
+      "word": "河南一洗浴中心男子闯入女澡堂",
+      "onboard_time": 1769752222,
+      "rank": 43,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 85890,
@@ -12203,6 +12299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 84271,
+      "num": 84271,
+      "word": "BNCT技术已落地中国",
+      "onboard_time": 1769752340,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 84259,
       "num": 84259,
       "word": "张艺谋夸易烊千玺演技进步",
@@ -12281,6 +12385,14 @@
       "onboard_time": 1769306961,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 83586,
+      "num": 83586,
+      "word": "水贝黄金料商跑路潮",
+      "onboard_time": 1769750361,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 83560,
@@ -12817,6 +12929,14 @@
       "onboard_time": 1769650099,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 80201,
+      "num": 80201,
+      "word": "别人在萝卜纸巾你在备战清北",
+      "onboard_time": 1769749221,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 80172,
@@ -14419,6 +14539,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 67792,
+      "num": 181110,
+      "word": "咖啡价格被华莱士打下来了",
+      "onboard_time": 1769749464,
+      "rank": 18,
+      "category": "美食"
+    },
+    {
       "raw_hot": 67691,
       "num": 81432,
       "word": "刘宇宁直播",
@@ -15739,6 +15867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 42558,
+      "num": 178468,
+      "word": "杰我睿寄存的黄金或已被熔",
+      "onboard_time": 1769751501,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42440,
       "num": 136088,
       "word": "官方通报3元续面纠纷",
@@ -16721,6 +16857,14 @@
       "onboard_time": 1769354421,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27257,
+      "num": 187279,
+      "word": "吴磊说勇敢就要小牛一点",
+      "onboard_time": 1769751202,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 27239,
