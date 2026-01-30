@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769773838258,
+  "endTime": 1769778671119,
   "band_list": [
     {
       "raw_hot": 22742360,
@@ -280,6 +280,14 @@
       "word": "棣欣引力",
       "onboard_time": 1768654162,
       "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2894820,
+      "num": 133868,
+      "word": "金晨换头像",
+      "onboard_time": 1769777545,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -5659,6 +5667,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 589858,
+      "num": 589858,
+      "word": "生命树热度",
+      "onboard_time": 1769774484,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 589132,
       "num": 168764,
       "word": "关晓彤造型师去哪儿进修了",
@@ -8729,6 +8745,14 @@
       "onboard_time": 1768189221,
       "rank": 6,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 481127,
+      "num": 1616425,
+      "word": "宝可梦道歉了",
+      "onboard_time": 1769773764,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 481103,
@@ -12371,6 +12395,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 384898,
+      "num": 133289,
+      "word": "生命树收视登顶",
+      "onboard_time": 1769777003,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 384893,
       "num": 384893,
       "word": "王昭君新皮肤长夜焕生",
@@ -14491,6 +14523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 342957,
+      "num": 1230537,
+      "word": "爷爷狱中病亡孙子考211为其翻案",
+      "onboard_time": 1769772803,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 342956,
       "num": 424604,
       "word": "老赖李亚鹏为何触动了网友",
@@ -15491,6 +15531,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 325610,
+      "num": 100257,
+      "word": "特朗普提名美联储新主席",
+      "onboard_time": 1769774663,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 325248,
       "num": 325248,
       "word": "奔跑吧14要去很久没去的地方",
@@ -15561,6 +15609,14 @@
       "onboard_time": 1767874521,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 324120,
+      "num": 2955330,
+      "word": "黄金从被抢空到暴跌仅用3天",
+      "onboard_time": 1769767647,
+      "rank": 7,
+      "category": "财经"
     },
     {
       "raw_hot": 324088,
@@ -15937,6 +15993,14 @@
       "onboard_time": 1768521621,
       "rank": 14,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 319423,
+      "num": 132205,
+      "word": "宋威龙赵今麦直播",
+      "onboard_time": 1769777184,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 319254,
@@ -19323,6 +19387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 273408,
+      "num": 273408,
+      "word": "一定要频繁大量的记录自己",
+      "onboard_time": 1769775803,
+      "rank": 6,
+      "category": "情感"
+    },
+    {
       "raw_hot": 273348,
       "num": 239667,
       "word": "王星和女友官宣微博之夜",
@@ -21675,6 +21747,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 247053,
+      "num": 1028759,
+      "word": "KPL",
+      "onboard_time": 1767336621,
+      "rank": 14,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 246880,
       "num": 246880,
       "word": "雷军转发",
@@ -22345,14 +22425,6 @@
       "onboard_time": 1767591503,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 238861,
-      "num": 2955330,
-      "word": "黄金从被抢空到暴跌仅用3天",
-      "onboard_time": 1769767647,
-      "rank": 7,
-      "category": "财经"
     },
     {
       "raw_hot": 238788,
@@ -25587,6 +25659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 209132,
+      "num": 195175,
+      "word": "周杰伦王俊凯观赛澳网",
+      "onboard_time": 1769772742,
+      "rank": 41,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 208969,
       "num": 1730508,
       "word": "车厘子J是啥意思",
@@ -26883,6 +26963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200160,
+      "num": 277064,
+      "word": "牛奶加盐",
+      "onboard_time": 1769773403,
+      "rank": 14,
+      "category": "美食"
+    },
+    {
       "raw_hot": 200143,
       "num": 200143,
       "word": "张杰鸟巢演唱会审批通过",
@@ -27603,14 +27691,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 196246,
-      "num": 1230537,
-      "word": "爷爷狱中病亡孙子考211为其翻案",
-      "onboard_time": 1769772803,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 196155,
       "num": 196155,
       "word": "郭可盈婉拒15岁女儿出道",
@@ -27777,14 +27857,6 @@
       "onboard_time": 1768702159,
       "rank": 22,
       "category": "美食"
-    },
-    {
-      "raw_hot": 195175,
-      "num": 195175,
-      "word": "周杰伦王俊凯观赛澳网",
-      "onboard_time": 1769772742,
-      "rank": 41,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 194995,
@@ -28408,14 +28480,6 @@
       "word": "大帅爆改",
       "onboard_time": 1767701182,
       "rank": 32,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 192036,
-      "num": 1028759,
-      "word": "KPL",
-      "onboard_time": 1767336621,
-      "rank": 14,
       "category": "电竞"
     },
     {
@@ -41099,6 +41163,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 137539,
+      "num": 105171,
+      "word": "单身即地狱",
+      "onboard_time": 1769773943,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 137514,
       "num": 137514,
       "word": "湖南计划招录公务员10198名",
@@ -41737,6 +41809,14 @@
       "onboard_time": 1768192581,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 135508,
+      "num": 105126,
+      "word": "彭昱畅张子枫合照",
+      "onboard_time": 1769777423,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 135498,
@@ -43129,6 +43209,14 @@
       "onboard_time": 1768288881,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131520,
+      "num": 131520,
+      "word": "黄金巨震原因找到了",
+      "onboard_time": 1769775263,
+      "rank": 15,
+      "category": "财经"
     },
     {
       "raw_hot": 131485,
@@ -45083,6 +45171,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 126761,
+      "num": 105008,
+      "word": "生命树反馈",
+      "onboard_time": 1769774784,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 126760,
       "num": 126760,
       "word": "陈星旭顶着两个大红灯笼就来了",
@@ -45353,6 +45449,14 @@
       "onboard_time": 1767704303,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 126215,
+      "num": 100671,
+      "word": "权志龙你让中饭拿什么输",
+      "onboard_time": 1769776164,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 126194,
@@ -48203,6 +48307,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 119913,
+      "num": 119913,
+      "word": "31岁教师过劳昏迷9个月",
+      "onboard_time": 1769774424,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119912,
       "num": 212768,
       "word": "安徽大学可乐只卖1块7被写进小说",
@@ -48969,6 +49081,14 @@
       "onboard_time": 1768377440,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118326,
+      "num": 185120,
+      "word": "德约科维奇vs辛纳",
+      "onboard_time": 1769769265,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 118309,
@@ -49985,14 +50105,6 @@
       "onboard_time": 1769510661,
       "rank": 32,
       "category": "演出"
-    },
-    {
-      "raw_hot": 116278,
-      "num": 938329,
-      "word": "宝可梦道歉了",
-      "onboard_time": 1769773764,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 116276,
@@ -52388,7 +52500,7 @@
     },
     {
       "raw_hot": 111909,
-      "num": 74763,
+      "num": 77742,
       "word": "欧冠",
       "onboard_time": 1769642598,
       "rank": 23,
@@ -55011,14 +55123,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 106777,
-      "num": 277064,
-      "word": "牛奶加盐",
-      "onboard_time": 1769773403,
-      "rank": 14,
-      "category": "美食"
-    },
-    {
       "raw_hot": 106763,
       "num": 106763,
       "word": "中国抗冻省份排名TOP10",
@@ -56000,6 +56104,14 @@
       "word": "下雪天长城人人人人人人",
       "onboard_time": 1768661062,
       "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105335,
+      "num": 105335,
+      "word": "264斤妻子高龄生双胞胎丈夫偷偷抹泪",
+      "onboard_time": 1769775562,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -63587,14 +63699,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 95105,
-      "num": 185120,
-      "word": "德约科维奇vs辛纳",
-      "onboard_time": 1769769265,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 95102,
       "num": 118868,
       "word": "国企董事长上门打人被拘3日",
@@ -64961,6 +65065,14 @@
       "onboard_time": 1768558882,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 93397,
+      "num": 93397,
+      "word": "果然能打败杨紫的只有杨紫",
+      "onboard_time": 1769777423,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 93394,
@@ -69243,6 +69355,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 88008,
+      "num": 88008,
+      "word": "孕妇双胎共用胎盘脐带成死结",
+      "onboard_time": 1769775624,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 88003,
       "num": 954463,
       "word": "打错字同事以为在卖萌",
@@ -71107,6 +71227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 86072,
+      "num": 86072,
+      "word": "德约体力",
+      "onboard_time": 1769777603,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 86070,
       "num": 86070,
       "word": "午睡正在悄悄拉开大脑年龄差",
@@ -71408,6 +71536,14 @@
       "word": "KPL选手大会",
       "onboard_time": 1767954981,
       "rank": 44,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 85693,
+      "num": 85693,
+      "word": "NS战胜KT",
+      "onboard_time": 1769777663,
+      "rank": 42,
       "category": "电竞"
     },
     {
@@ -72595,6 +72731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 84307,
+      "num": 84307,
+      "word": "王俊凯追星成功",
+      "onboard_time": 1769774184,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 84290,
       "num": 84290,
       "word": "贺娇龙此前曾坠马致胸腔积液",
@@ -73201,6 +73345,14 @@
       "onboard_time": 1769670804,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 83464,
+      "num": 81843,
+      "word": "胡歌演技",
+      "onboard_time": 1769778323,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 83416,
@@ -76897,6 +77049,14 @@
       "onboard_time": 1769758342,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 78276,
+      "num": 78276,
+      "word": "黄金巨震后是抄底还是逃顶",
+      "onboard_time": 1769777903,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 78274,
@@ -82297,6 +82457,14 @@
       "onboard_time": 1768626140,
       "rank": 43,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 67715,
+      "num": 105074,
+      "word": "英国首相斯塔默打卡上海蝴蝶酥",
+      "onboard_time": 1769776824,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 67670,
@@ -93131,6 +93299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 31706,
+      "num": 85832,
+      "word": "时代少年团微博之夜简笔画",
+      "onboard_time": 1769778623,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 31699,
       "num": 172456,
       "word": "和府捞面否认是预制菜",
@@ -99744,6 +99920,9 @@
     },
     {
       "word": "#中共中央政治局1月30日召开会议#"
+    },
+    {
+      "word": "#中央政治局召开会议#"
     }
   ]
 }
