@@ -1,6 +1,6 @@
 {
   "startTime": 1769272464158,
-  "endTime": 1769816041001,
+  "endTime": 1769816963627,
   "band_list": [
     {
       "raw_hot": 22742360,
@@ -715,6 +715,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 795875,
+      "num": 795875,
+      "word": "金晨助理已触及行政违法",
+      "onboard_time": 1769794517,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 790100,
       "num": 723964,
       "word": "山西失踪女硕士毕业论文",
@@ -860,7 +868,7 @@
     },
     {
       "raw_hot": 688183,
-      "num": 688183,
+      "num": 861906,
       "word": "生命树 侯鸿亮",
       "onboard_time": 1769786902,
       "rank": 6,
@@ -905,14 +913,6 @@
       "onboard_time": 1769332999,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 667583,
-      "num": 95198,
-      "word": "金晨助理已触及行政违法",
-      "onboard_time": 1769794517,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 665901,
@@ -2596,7 +2596,7 @@
     },
     {
       "raw_hot": 374425,
-      "num": 374425,
+      "num": 833198,
       "word": "阿姨入手均价300元金条全部卖出",
       "onboard_time": 1769785702,
       "rank": 7,
@@ -3787,6 +3787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 284932,
+      "num": 946909,
+      "word": "黄金白银急速跳水原因",
+      "onboard_time": 1769812695,
+      "rank": 7,
+      "category": "财经"
+    },
+    {
       "raw_hot": 284543,
       "num": 284543,
       "word": "灵隐寺免票预约后38万人爽约",
@@ -4915,14 +4923,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 229063,
-      "num": 646609,
-      "word": "黄金白银急速跳水原因",
-      "onboard_time": 1769812695,
-      "rank": 7,
-      "category": "财经"
-    },
-    {
       "raw_hot": 228958,
       "num": 183935,
       "word": "偶遇王俊凯周杰伦吃火锅",
@@ -4985,6 +4985,14 @@
       "onboard_time": 1769691983,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 224198,
+      "num": 921826,
+      "word": "白银迎来暴跌",
+      "onboard_time": 1769812695,
+      "rank": 30,
+      "category": "财经"
     },
     {
       "raw_hot": 223411,
@@ -5361,6 +5369,14 @@
       "onboard_time": 1769384239,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 203947,
+      "num": 900228,
+      "word": "金价史诗级大幅震荡",
+      "onboard_time": 1769767647,
+      "rank": 33,
+      "category": "财经"
     },
     {
       "raw_hot": 203346,
@@ -5747,6 +5763,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 186509,
+      "num": 840099,
+      "word": "专家称金价大跌是牛市调整",
+      "onboard_time": 1769816779,
+      "rank": 7,
+      "category": "财经"
+    },
+    {
       "raw_hot": 186305,
       "num": 135756,
       "word": "林允方报平安",
@@ -5841,14 +5865,6 @@
       "onboard_time": 1769491701,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 181711,
-      "num": 181711,
-      "word": "白银迎来暴跌",
-      "onboard_time": 1769812695,
-      "rank": 30,
-      "category": "财经"
     },
     {
       "raw_hot": 181504,
@@ -6081,6 +6097,14 @@
       "onboard_time": 1769521521,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 171620,
+      "num": 171620,
+      "word": "女子用去世儿子书包给丈夫装骨灰",
+      "onboard_time": 1769814796,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 171617,
@@ -6579,14 +6603,6 @@
       "category": "母婴育儿"
     },
     {
-      "raw_hot": 154163,
-      "num": 93855,
-      "word": "女子用去世儿子书包给丈夫装骨灰",
-      "onboard_time": 1769814796,
-      "rank": 11,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 154043,
       "num": 118427,
       "word": "何不同舟渡妆造",
@@ -6689,6 +6705,14 @@
       "onboard_time": 1769607202,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 152048,
+      "num": 796843,
+      "word": "同学说刘强东父亲过得十分俭朴",
+      "onboard_time": 1769814976,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 151960,
@@ -6969,6 +6993,14 @@
       "onboard_time": 1769616380,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 146422,
+      "num": 73835,
+      "word": "美性侵犯被押送时抓女警臀部",
+      "onboard_time": 1769815396,
+      "rank": 21,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 146376,
@@ -8665,14 +8697,6 @@
       "onboard_time": 1769760321,
       "rank": 18,
       "category": "美食"
-    },
-    {
-      "raw_hot": 120232,
-      "num": 133020,
-      "word": "金价史诗级大幅震荡",
-      "onboard_time": 1769767647,
-      "rank": 33,
-      "category": "财经"
     },
     {
       "raw_hot": 120043,
@@ -11347,14 +11371,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 97149,
-      "num": 70068,
-      "word": "美性侵犯被押送时抓女警臀部",
-      "onboard_time": 1769815396,
-      "rank": 21,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 97099,
       "num": 97099,
       "word": "带薪养病",
@@ -11521,14 +11537,6 @@
       "onboard_time": 1769487081,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 96500,
-      "num": 96500,
-      "word": "同学说刘强东父亲过得十分俭朴",
-      "onboard_time": 1769814976,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 96492,
@@ -13915,6 +13923,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 83351,
+      "num": 73155,
+      "word": "世界黄金协会预测金价走势",
+      "onboard_time": 1769815277,
+      "rank": 25,
+      "category": "财经"
+    },
+    {
       "raw_hot": 83340,
       "num": 83340,
       "word": "今天腊八",
@@ -14577,6 +14593,14 @@
       "onboard_time": 1769610445,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 79537,
+      "num": 71507,
+      "word": "女子来例假像渡劫发现11cm肌瘤",
+      "onboard_time": 1769815396,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 79529,
@@ -15891,6 +15915,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 70900,
+      "num": 70900,
+      "word": "这样喝咖啡反而增加患癌风险",
+      "onboard_time": 1769815037,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 70817,
       "num": 69749,
       "word": "卢昱晓南衣路透",
@@ -16169,6 +16201,14 @@
       "onboard_time": 1769270245,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 68501,
+      "num": 68501,
+      "word": "解放军万吨大驱单挑外军舰队",
+      "onboard_time": 1769814976,
+      "rank": 26,
+      "category": "军事"
     },
     {
       "raw_hot": 68381,
@@ -16811,14 +16851,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 57994,
-      "num": 57994,
-      "word": "世界黄金协会预测金价走势",
-      "onboard_time": 1769815277,
-      "rank": 25,
-      "category": "财经"
-    },
-    {
       "raw_hot": 57760,
       "num": 101712,
       "word": "100元从广东坐公交回东北男子发声",
@@ -16955,6 +16987,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 56235,
+      "num": 56235,
+      "word": "凯瑟琳奥哈拉去世",
+      "onboard_time": 1769816058,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 56005,
       "num": 204902,
       "word": "不生孩子的韩国人花几千元送狗上学",
@@ -16969,14 +17009,6 @@
       "onboard_time": 1769400622,
       "rank": 39,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 55825,
-      "num": 55825,
-      "word": "解放军万吨大驱单挑外军舰队",
-      "onboard_time": 1769814976,
-      "rank": 26,
-      "category": "军事"
     },
     {
       "raw_hot": 55597,
@@ -17075,14 +17107,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 54591,
-      "num": 54591,
-      "word": "女子来例假像渡劫发现11cm肌瘤",
-      "onboard_time": 1769815396,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 54442,
       "num": 93980,
       "word": "武汉理工回应约谈当保安毕业生",
@@ -17097,14 +17121,6 @@
       "onboard_time": 1769599042,
       "rank": 19,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 54225,
-      "num": 54225,
-      "word": "这样喝咖啡反而增加患癌风险",
-      "onboard_time": 1769815037,
-      "rank": 28,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 53989,
@@ -17179,12 +17195,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 51813,
+      "num": 51813,
+      "word": "Daeny点名Knight",
+      "onboard_time": 1769815156,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 51511,
       "num": 207469,
       "word": "刘宇宁化身心愿办事员",
       "onboard_time": 1769436503,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 51369,
+      "num": 51369,
+      "word": "2026第一个月就要过完了",
+      "onboard_time": 1769816779,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 51188,
@@ -17595,6 +17627,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 44291,
+      "num": 44291,
+      "word": "载入脑综史册的一幕出现了",
+      "onboard_time": 1769811974,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 43998,
       "num": 106229,
       "word": "火锅店称向客人收辛苦费是唯一利润",
@@ -17651,20 +17691,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 43465,
+      "num": 48039,
+      "word": "张杰演唱会疑是银河落九天",
+      "onboard_time": 1769798295,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 43374,
       "num": 188481,
       "word": "ID.ERA9X凭什么说是增程3.0",
       "onboard_time": 1769677404,
       "rank": 20,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 43042,
-      "num": 43042,
-      "word": "Daeny点名Knight",
-      "onboard_time": 1769815156,
-      "rank": 30,
-      "category": "电竞"
     },
     {
       "raw_hot": 42880,
@@ -17769,14 +17809,6 @@
       "onboard_time": 1769296996,
       "rank": 30,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 41453,
-      "num": 41453,
-      "word": "载入脑综史册的一幕出现了",
-      "onboard_time": 1769811974,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 41325,
@@ -18019,6 +18051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 38690,
+      "num": 38690,
+      "word": "黄金白银断崖式崩盘",
+      "onboard_time": 1769816118,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 38566,
       "num": 78811,
       "word": "无人驾驶真的比人更安全吗",
@@ -18179,6 +18219,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 36697,
+      "num": 36697,
+      "word": "生命树的剧情",
+      "onboard_time": 1769816658,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 36649,
       "num": 714510,
       "word": "彩灯一亮年味就有了",
@@ -18201,14 +18249,6 @@
       "onboard_time": 1769729238,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 36258,
-      "num": 48039,
-      "word": "张杰演唱会疑是银河落九天",
-      "onboard_time": 1769798295,
-      "rank": 31,
-      "category": "演出"
     },
     {
       "raw_hot": 36143,
@@ -19419,6 +19459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 19656,
+      "num": 950462,
+      "word": "冬天的亿种打开方式",
+      "onboard_time": 1769778983,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19636,
       "num": 106841,
       "word": "江西唇腭裂女童6岁才20斤",
@@ -19545,14 +19593,6 @@
       "onboard_time": 1769364975,
       "rank": 42,
       "category": "演出"
-    },
-    {
-      "raw_hot": 17551,
-      "num": 502865,
-      "word": "冬天的亿种打开方式",
-      "onboard_time": 1769778983,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 17453,
