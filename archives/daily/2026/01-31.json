@@ -1,6 +1,6 @@
 {
   "startTime": 1769791903074,
-  "endTime": 1769791903074,
+  "endTime": 1769792859229,
   "band_list": [
     {
       "raw_hot": 1880814,
@@ -156,7 +156,7 @@
     },
     {
       "raw_hot": 111698,
-      "num": 85677,
+      "num": 93172,
       "word": "魏大勋自曝曾被杨迪打了嘴巴子",
       "onboard_time": 1769781684,
       "rank": 23,
@@ -339,6 +339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 45299,
+      "num": 51781,
+      "word": "手里捧着窝窝头的那一代又回来了",
+      "onboard_time": 1769789900,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 45200,
       "num": 57909,
       "word": "怀孕3个月女儿离家出走妈妈急哭",
@@ -387,11 +395,43 @@
       "category": "演出"
     },
     {
+      "raw_hot": 39381,
+      "num": 63934,
+      "word": "这份福气请你接住",
+      "onboard_time": 1769792058,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 38843,
+      "num": 51751,
+      "word": "KPL",
+      "onboard_time": 1769772803,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 35272,
+      "num": 51718,
+      "word": "小城大事收视第一",
+      "onboard_time": 1769775803,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 34925,
       "num": 80468,
       "word": "2月气温将一路回升",
       "onboard_time": 1769780783,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34718,
+      "num": 51709,
+      "word": "爷爷狱中病亡孙子考211为其翻案",
+      "onboard_time": 1769772803,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
