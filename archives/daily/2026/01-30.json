@@ -1,6 +1,6 @@
 {
   "startTime": 1769702505765,
-  "endTime": 1769778671119,
+  "endTime": 1769780226925,
   "band_list": [
     {
       "raw_hot": 22742360,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 2894820,
-      "num": 133868,
+      "num": 174467,
       "word": "金晨换头像",
       "onboard_time": 1769777545,
       "rank": 10,
@@ -203,12 +203,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 589858,
-      "num": 589858,
+      "raw_hot": 615218,
+      "num": 615218,
       "word": "生命树热度",
       "onboard_time": 1769774484,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 608490,
+      "num": 171904,
+      "word": "宋威龙赵今麦直播",
+      "onboard_time": 1769777184,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 583149,
@@ -273,6 +281,14 @@
       "onboard_time": 1769741420,
       "rank": 27,
       "category": "财经"
+    },
+    {
+      "raw_hot": 485454,
+      "num": 239623,
+      "word": "生命树收视登顶",
+      "onboard_time": 1769777003,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 482233,
@@ -379,6 +395,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 423743,
+      "num": 273408,
+      "word": "一定要频繁大量的记录自己",
+      "onboard_time": 1769775803,
+      "rank": 6,
+      "category": "情感"
+    },
+    {
       "raw_hot": 418761,
       "num": 3461193,
       "word": "金价28分钟内暴跌380美元",
@@ -433,14 +457,6 @@
       "onboard_time": 1769743761,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 384898,
-      "num": 133289,
-      "word": "生命树收视登顶",
-      "onboard_time": 1769777003,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 384102,
@@ -579,14 +595,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 319423,
-      "num": 132205,
-      "word": "宋威龙赵今麦直播",
-      "onboard_time": 1769777184,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 316763,
       "num": 152851,
       "word": "神仙肉 虞书欣",
@@ -617,6 +625,14 @@
       "onboard_time": 1769742139,
       "rank": 35,
       "category": "数码"
+    },
+    {
+      "raw_hot": 308621,
+      "num": 145401,
+      "word": "生命树 剥羊皮",
+      "onboard_time": 1769779043,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 302613,
@@ -715,14 +731,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 273408,
-      "num": 273408,
-      "word": "一定要频繁大量的记录自己",
-      "onboard_time": 1769775803,
-      "rank": 6,
-      "category": "情感"
-    },
-    {
       "raw_hot": 261962,
       "num": 261962,
       "word": "我使馆要求日方尽快破案",
@@ -736,6 +744,14 @@
       "word": "李现包场生命树",
       "onboard_time": 1769767408,
       "rank": 5,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 257003,
+      "num": 81843,
+      "word": "胡歌演技",
+      "onboard_time": 1769778323,
+      "rank": 45,
       "category": "剧集"
     },
     {
@@ -777,6 +793,14 @@
       "onboard_time": 1769772803,
       "rank": 9,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 246605,
+      "num": 145791,
+      "word": "龙麦",
+      "onboard_time": 1769778444,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 243848,
@@ -873,6 +897,14 @@
       "onboard_time": 1769732359,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 221748,
+      "num": 144052,
+      "word": "彭昱畅张子枫合照",
+      "onboard_time": 1769777423,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 220661,
@@ -1027,12 +1059,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 186157,
+      "num": 186157,
+      "word": "黄金巨震原因找到了",
+      "onboard_time": 1769775263,
+      "rank": 15,
+      "category": "财经"
+    },
+    {
       "raw_hot": 183118,
       "num": 183118,
       "word": "丧子丧偶阿姨又遭遇天价丧葬费",
       "onboard_time": 1769744001,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 178620,
+      "num": 178620,
+      "word": "AG对战TES",
+      "onboard_time": 1769778863,
+      "rank": 8,
+      "category": "电竞"
     },
     {
       "raw_hot": 178550,
@@ -1059,6 +1107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 172654,
+      "num": 134596,
+      "word": "贝克汉姆家儿媳零花钱100万美元每月",
+      "onboard_time": 1769778924,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 172424,
       "num": 253036,
       "word": "原来维生素D缺乏容易长白头发",
@@ -1073,6 +1129,14 @@
       "onboard_time": 1769746942,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 165416,
+      "num": 185120,
+      "word": "德约科维奇vs辛纳",
+      "onboard_time": 1769769265,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 162214,
@@ -1211,6 +1275,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 142245,
+      "num": 142245,
+      "word": "小城大事收视第一",
+      "onboard_time": 1769775803,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 141252,
       "num": 991401,
       "word": "手机坏成这样还能发消息",
@@ -1252,7 +1324,7 @@
     },
     {
       "raw_hot": 137539,
-      "num": 105171,
+      "num": 117232,
       "word": "单身即地狱",
       "onboard_time": 1769773943,
       "rank": 25,
@@ -1291,27 +1363,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 135508,
-      "num": 105126,
-      "word": "彭昱畅张子枫合照",
-      "onboard_time": 1769777423,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 135212,
       "num": 135212,
       "word": "杨紫国色芳华包场生命树",
       "onboard_time": 1769745080,
       "rank": 36,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 134049,
-      "num": 105048,
-      "word": "小城大事收视第一",
-      "onboard_time": 1769775803,
-      "rank": 30,
       "category": "剧集"
     },
     {
@@ -1321,6 +1377,14 @@
       "onboard_time": 1769757320,
       "rank": 31,
       "category": "财经"
+    },
+    {
+      "raw_hot": 132826,
+      "num": 132826,
+      "word": "73岁男患者彩超报告显示宫内早孕",
+      "onboard_time": 1769779521,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 132085,
@@ -1339,20 +1403,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 131520,
-      "num": 131520,
-      "word": "黄金巨震原因找到了",
-      "onboard_time": 1769775263,
-      "rank": 15,
-      "category": "财经"
-    },
-    {
       "raw_hot": 131216,
       "num": 261986,
       "word": "光遇",
       "onboard_time": 1769762181,
       "rank": 8,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 130787,
+      "num": 146331,
+      "word": "31岁教师过劳昏迷9个月",
+      "onboard_time": 1769774424,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 130676,
@@ -1443,6 +1507,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 122826,
+      "num": 122826,
+      "word": "BLG对战TES",
+      "onboard_time": 1769770825,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 121940,
       "num": 179088,
       "word": "弗拉格49分",
@@ -1459,28 +1531,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 119913,
-      "num": 119913,
-      "word": "31岁教师过劳昏迷9个月",
-      "onboard_time": 1769774424,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 119644,
       "num": 119644,
       "word": "网友称刚买4克黄金跌没了",
       "onboard_time": 1769743881,
       "rank": 43,
       "category": "财经"
-    },
-    {
-      "raw_hot": 118326,
-      "num": 185120,
-      "word": "德约科维奇vs辛纳",
-      "onboard_time": 1769769265,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 118053,
@@ -1553,6 +1609,14 @@
       "onboard_time": 1769771785,
       "rank": 7,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 116044,
+      "num": 116044,
+      "word": "264斤妻子高龄生双胞胎丈夫偷偷抹泪",
+      "onboard_time": 1769775562,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 115286,
@@ -1731,14 +1795,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 105335,
-      "num": 105335,
-      "word": "264斤妻子高龄生双胞胎丈夫偷偷抹泪",
-      "onboard_time": 1769775562,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 105075,
       "num": 105075,
       "word": "杨幂孙俪拥抱",
@@ -1817,6 +1873,14 @@
       "onboard_time": 1769767167,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 101828,
+      "num": 101828,
+      "word": "黄金巨震后是抄底还是逃顶",
+      "onboard_time": 1769777903,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 101790,
@@ -1939,6 +2003,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 97256,
+      "num": 97256,
+      "word": "德约体力",
+      "onboard_time": 1769777603,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 97099,
       "num": 97099,
       "word": "带薪养病",
@@ -2033,6 +2105,14 @@
       "onboard_time": 1769757021,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 92250,
+      "num": 92250,
+      "word": "你不是烂苹果只是好透了",
+      "onboard_time": 1769779583,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 91874,
@@ -2155,14 +2235,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 86072,
-      "num": 86072,
-      "word": "德约体力",
-      "onboard_time": 1769777603,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 85890,
       "num": 99445,
       "word": "宋威龙泰国西装领带",
@@ -2259,14 +2331,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 83464,
-      "num": 81843,
-      "word": "胡歌演技",
-      "onboard_time": 1769778323,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 83370,
       "num": 83065,
       "word": "宝可梦靖国神社活动面向儿童",
@@ -2321,6 +2385,14 @@
       "onboard_time": 1769770165,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 81613,
+      "num": 85832,
+      "word": "时代少年团微博之夜简笔画",
+      "onboard_time": 1769778623,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 81295,
@@ -2395,28 +2467,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 78491,
-      "num": 78491,
-      "word": "龙麦",
-      "onboard_time": 1769778444,
-      "rank": 47,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 78281,
       "num": 240511,
       "word": "莫斯科积雪到大腿了",
       "onboard_time": 1769758342,
       "rank": 9,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 78276,
-      "num": 78276,
-      "word": "黄金巨震后是抄底还是逃顶",
-      "onboard_time": 1769777903,
-      "rank": 48,
-      "category": "财经"
     },
     {
       "raw_hot": 78179,
@@ -2451,6 +2507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 77373,
+      "num": 77373,
+      "word": "HLE或将淘汰",
+      "onboard_time": 1769779462,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 77331,
       "num": 77331,
       "word": "一夜之间黄金大跳水",
@@ -2459,12 +2523,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 76941,
+      "num": 76941,
+      "word": "桃黑黑 王者荣耀",
+      "onboard_time": 1769779283,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 75978,
       "num": 75978,
       "word": "无人便利店遭0元购",
       "onboard_time": 1769739140,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 75092,
+      "num": 134717,
+      "word": "英国首相斯塔默打卡上海蝴蝶酥",
+      "onboard_time": 1769776824,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 74800,
@@ -2577,14 +2657,6 @@
       "onboard_time": 1769749464,
       "rank": 18,
       "category": "美食"
-    },
-    {
-      "raw_hot": 67715,
-      "num": 105074,
-      "word": "英国首相斯塔默打卡上海蝴蝶酥",
-      "onboard_time": 1769776824,
-      "rank": 29,
-      "category": "国内时政"
     },
     {
       "raw_hot": 67670,
@@ -2859,14 +2931,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 31706,
-      "num": 85832,
-      "word": "时代少年团微博之夜简笔画",
-      "onboard_time": 1769778623,
-      "rank": 41,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 31512,
       "num": 208180,
       "word": "和杨洋一起举杯",
@@ -2987,6 +3051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 20225,
+      "num": 116425,
+      "word": "文化企业营收新突破",
+      "onboard_time": 1769779462,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18585,
       "num": 27541,
       "word": "神仙肉",
@@ -3001,6 +3073,14 @@
       "onboard_time": 1769691503,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 15624,
+      "num": 1010929,
+      "word": "中国风电硬核领跑全球",
+      "onboard_time": 1769779823,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15153,
@@ -3049,14 +3129,6 @@
       "onboard_time": 1769716094,
       "rank": 49,
       "category": "财经"
-    },
-    {
-      "raw_hot": 4072,
-      "num": 116214,
-      "word": "BLG对战TES",
-      "onboard_time": 1769770825,
-      "rank": 36,
-      "category": "电竞"
     }
   ],
   "hotgov_list": [

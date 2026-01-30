@@ -1,6 +1,6 @@
 {
   "startTime": 1769272464158,
-  "endTime": 1769778671119,
+  "endTime": 1769780226925,
   "band_list": [
     {
       "raw_hot": 22742360,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 2894820,
-      "num": 133868,
+      "num": 174467,
       "word": "金晨换头像",
       "onboard_time": 1769777545,
       "rank": 10,
@@ -1043,6 +1043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 615218,
+      "num": 615218,
+      "word": "生命树热度",
+      "onboard_time": 1769774484,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 614076,
       "num": 174914,
       "word": "一家三口被撞身亡案家属抗诉被驳回",
@@ -1057,6 +1065,14 @@
       "onboard_time": 1769577381,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 608490,
+      "num": 171904,
+      "word": "宋威龙赵今麦直播",
+      "onboard_time": 1769777184,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 606996,
@@ -1105,14 +1121,6 @@
       "onboard_time": 1769406501,
       "rank": 41,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 589858,
-      "num": 589858,
-      "word": "生命树热度",
-      "onboard_time": 1769774484,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 584360,
@@ -1659,6 +1667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 485454,
+      "num": 239623,
+      "word": "生命树收视登顶",
+      "onboard_time": 1769777003,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 485394,
       "num": 364090,
       "word": "女子免疫系统攻击胚胎8年反复流产",
@@ -2051,6 +2067,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 423743,
+      "num": 273408,
+      "word": "一定要频繁大量的记录自己",
+      "onboard_time": 1769775803,
+      "rank": 6,
+      "category": "情感"
+    },
+    {
       "raw_hot": 423421,
       "num": 1067747,
       "word": "湖南省考多地监狱岗位仅招艺术类",
@@ -2385,14 +2409,6 @@
       "onboard_time": 1769695705,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 384898,
-      "num": 133289,
-      "word": "生命树收视登顶",
-      "onboard_time": 1769777003,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 384102,
@@ -3107,14 +3123,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 319423,
-      "num": 132205,
-      "word": "宋威龙赵今麦直播",
-      "onboard_time": 1769777184,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 319060,
       "num": 197547,
       "word": "花儿与少年8",
@@ -3297,6 +3305,14 @@
       "onboard_time": 1769591721,
       "rank": 17,
       "category": "美食"
+    },
+    {
+      "raw_hot": 308621,
+      "num": 145401,
+      "word": "生命树 剥羊皮",
+      "onboard_time": 1769779043,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 308598,
@@ -3851,14 +3867,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 273408,
-      "num": 273408,
-      "word": "一定要频繁大量的记录自己",
-      "onboard_time": 1769775803,
-      "rank": 6,
-      "category": "情感"
-    },
-    {
       "raw_hot": 273348,
       "num": 239667,
       "word": "王星和女友官宣微博之夜",
@@ -4163,6 +4171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 257003,
+      "num": 81843,
+      "word": "胡歌演技",
+      "onboard_time": 1769778323,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 256719,
       "num": 211607,
       "word": "汪东城我不会再帮你说一句话",
@@ -4369,6 +4385,14 @@
       "onboard_time": 1769340621,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 246605,
+      "num": 145791,
+      "word": "龙麦",
+      "onboard_time": 1769778444,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 246422,
@@ -4857,6 +4881,14 @@
       "onboard_time": 1769732359,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 221748,
+      "num": 144052,
+      "word": "彭昱畅张子枫合照",
+      "onboard_time": 1769777423,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 221694,
@@ -5555,6 +5587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 186157,
+      "num": 186157,
+      "word": "黄金巨震原因找到了",
+      "onboard_time": 1769775263,
+      "rank": 15,
+      "category": "财经"
+    },
+    {
       "raw_hot": 185837,
       "num": 185837,
       "word": "李川被六岁小孩骂了",
@@ -5715,6 +5755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 178620,
+      "num": 178620,
+      "word": "AG对战TES",
+      "onboard_time": 1769778863,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 177196,
       "num": 177196,
       "word": "郭京飞总台视帝",
@@ -5809,6 +5857,14 @@
       "onboard_time": 1769737100,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 172654,
+      "num": 134596,
+      "word": "贝克汉姆家儿媳零花钱100万美元每月",
+      "onboard_time": 1769778924,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 172443,
@@ -6017,6 +6073,14 @@
       "onboard_time": 1769660242,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 165416,
+      "num": 185120,
+      "word": "德约科维奇vs辛纳",
+      "onboard_time": 1769769265,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 164470,
@@ -6883,6 +6947,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 142245,
+      "num": 142245,
+      "word": "小城大事收视第一",
+      "onboard_time": 1769775803,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142063,
       "num": 142063,
       "word": "王嘉尔疑似直男被吓麻了",
@@ -7172,7 +7244,7 @@
     },
     {
       "raw_hot": 137539,
-      "num": 105171,
+      "num": 117232,
       "word": "单身即地狱",
       "onboard_time": 1769773943,
       "rank": 25,
@@ -7291,14 +7363,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 135508,
-      "num": 105126,
-      "word": "彭昱畅张子枫合照",
-      "onboard_time": 1769777423,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 135474,
       "num": 136272,
       "word": "AG对战情久",
@@ -7369,14 +7433,6 @@
       "onboard_time": 1769469378,
       "rank": 16,
       "category": "美食"
-    },
-    {
-      "raw_hot": 134049,
-      "num": 105048,
-      "word": "小城大事收视第一",
-      "onboard_time": 1769775803,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 133489,
@@ -7451,6 +7507,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 132826,
+      "num": 132826,
+      "word": "73岁男患者彩超报告显示宫内早孕",
+      "onboard_time": 1769779521,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132794,
       "num": 132794,
       "word": "李昊说没有拿到冠军最遗憾",
@@ -7523,14 +7587,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 131520,
-      "num": 131520,
-      "word": "黄金巨震原因找到了",
-      "onboard_time": 1769775263,
-      "rank": 15,
-      "category": "财经"
-    },
-    {
       "raw_hot": 131383,
       "num": 185959,
       "word": "张杰过来这一下就值回票钱了",
@@ -7561,6 +7617,14 @@
       "onboard_time": 1769650040,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 130787,
+      "num": 146331,
+      "word": "31岁教师过劳昏迷9个月",
+      "onboard_time": 1769774424,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 130676,
@@ -8203,6 +8267,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 122826,
+      "num": 122826,
+      "word": "BLG对战TES",
+      "onboard_time": 1769770825,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 122748,
       "num": 122748,
       "word": "这些症状可能是白血病信号",
@@ -8403,14 +8475,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 119913,
-      "num": 119913,
-      "word": "31岁教师过劳昏迷9个月",
-      "onboard_time": 1769774424,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 119833,
       "num": 119833,
       "word": "LPL",
@@ -8545,14 +8609,6 @@
       "onboard_time": 1769520260,
       "rank": 35,
       "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 118326,
-      "num": 185120,
-      "word": "德约科维奇vs辛纳",
-      "onboard_time": 1769769265,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 118307,
@@ -8769,6 +8825,14 @@
       "onboard_time": 1769424861,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 116044,
+      "num": 116044,
+      "word": "264斤妻子高龄生双胞胎丈夫偷偷抹泪",
+      "onboard_time": 1769775562,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 116018,
@@ -9867,14 +9931,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 105335,
-      "num": 105335,
-      "word": "264斤妻子高龄生双胞胎丈夫偷偷抹泪",
-      "onboard_time": 1769775562,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 105330,
       "num": 105330,
       "word": "12306回应带小孩被分静音车厢",
@@ -10385,6 +10441,14 @@
       "onboard_time": 1769767167,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 101828,
+      "num": 101828,
+      "word": "黄金巨震后是抄底还是逃顶",
+      "onboard_time": 1769777903,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 101808,
@@ -10993,6 +11057,14 @@
       "onboard_time": 1769492241,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 97256,
+      "num": 97256,
+      "word": "德约体力",
+      "onboard_time": 1769777603,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 97234,
@@ -11937,6 +12009,14 @@
       "onboard_time": 1769667384,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 92250,
+      "num": 92250,
+      "word": "你不是烂苹果只是好透了",
+      "onboard_time": 1769779583,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 92197,
@@ -13011,14 +13091,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 86072,
-      "num": 86072,
-      "word": "德约体力",
-      "onboard_time": 1769777603,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 86070,
       "num": 86070,
       "word": "午睡正在悄悄拉开大脑年龄差",
@@ -13499,14 +13571,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 83464,
-      "num": 81843,
-      "word": "胡歌演技",
-      "onboard_time": 1769778323,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 83370,
       "num": 83065,
       "word": "宝可梦靖国神社活动面向儿童",
@@ -13769,6 +13833,14 @@
       "onboard_time": 1769601801,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 81613,
+      "num": 85832,
+      "word": "时代少年团微博之夜简笔画",
+      "onboard_time": 1769778623,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 81585,
@@ -14323,14 +14395,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 78491,
-      "num": 78491,
-      "word": "龙麦",
-      "onboard_time": 1769778444,
-      "rank": 47,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 78483,
       "num": 78483,
       "word": "曾黎复刻40年前老照片",
@@ -14377,14 +14441,6 @@
       "onboard_time": 1769758342,
       "rank": 9,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 78276,
-      "num": 78276,
-      "word": "黄金巨震后是抄底还是逃顶",
-      "onboard_time": 1769777903,
-      "rank": 48,
-      "category": "财经"
     },
     {
       "raw_hot": 78215,
@@ -14523,6 +14579,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 77373,
+      "num": 77373,
+      "word": "HLE或将淘汰",
+      "onboard_time": 1769779462,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 77331,
       "num": 77331,
       "word": "一夜之间黄金大跳水",
@@ -14633,6 +14697,14 @@
       "onboard_time": 1769607322,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 76941,
+      "num": 76941,
+      "word": "桃黑黑 王者荣耀",
+      "onboard_time": 1769779283,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 76919,
@@ -14969,6 +15041,14 @@
       "onboard_time": 1769439143,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 75092,
+      "num": 134717,
+      "word": "英国首相斯塔默打卡上海蝴蝶酥",
+      "onboard_time": 1769776824,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 75059,
@@ -15785,14 +15865,6 @@
       "onboard_time": 1769749464,
       "rank": 18,
       "category": "美食"
-    },
-    {
-      "raw_hot": 67715,
-      "num": 105074,
-      "word": "英国首相斯塔默打卡上海蝴蝶酥",
-      "onboard_time": 1769776824,
-      "rank": 29,
-      "category": "国内时政"
     },
     {
       "raw_hot": 67691,
@@ -17899,14 +17971,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 31706,
-      "num": 85832,
-      "word": "时代少年团微博之夜简笔画",
-      "onboard_time": 1769778623,
-      "rank": 41,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 31615,
       "num": 44428,
       "word": "胖东来回应金条库存",
@@ -18739,6 +18803,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 20225,
+      "num": 116425,
+      "word": "文化企业营收新突破",
+      "onboard_time": 1769779462,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20154,
       "num": 64860,
       "word": "papi酱想象中的春晚导演",
@@ -18992,6 +19064,14 @@
       "word": "女生找代练被骗99元找骗子又被骗12万",
       "onboard_time": 1769578823,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15624,
+      "num": 1010929,
+      "word": "中国风电硬核领跑全球",
+      "onboard_time": 1769779823,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -19273,14 +19353,6 @@
       "onboard_time": 1769325440,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 4072,
-      "num": 116214,
-      "word": "BLG对战TES",
-      "onboard_time": 1769770825,
-      "rank": 36,
-      "category": "电竞"
     }
   ],
   "hotgov_list": [
