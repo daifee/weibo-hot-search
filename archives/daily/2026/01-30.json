@@ -1,6 +1,6 @@
 {
   "startTime": 1769702505765,
-  "endTime": 1769753312613,
+  "endTime": 1769756480932,
   "band_list": [
     {
       "raw_hot": 3481750,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1374570,
-      "num": 219503,
+      "num": 289959,
       "word": "赵四葬礼",
       "onboard_time": 1769749401,
       "rank": 6,
@@ -171,6 +171,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 482233,
+      "num": 202565,
+      "word": "王彦霖 眼袋上不封顶",
+      "onboard_time": 1769753300,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 463313,
       "num": 215069,
       "word": "长期负面情绪会导致脑部生理性改变",
@@ -267,6 +275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 370813,
+      "num": 284903,
+      "word": "此人住商极高",
+      "onboard_time": 1769753541,
+      "rank": 6,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 369522,
       "num": 106157,
       "word": "猝死程序员公司HR离职",
@@ -280,6 +296,14 @@
       "word": "水贝一写字楼宣布封闭楼顶天台",
       "onboard_time": 1769699902,
       "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 350208,
+      "num": 350208,
+      "word": "丈夫去世妻子不知情婆家领走70万",
+      "onboard_time": 1769750782,
+      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -323,14 +347,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 317589,
-      "num": 317589,
-      "word": "丈夫去世妻子不知情婆家领走70万",
-      "onboard_time": 1769750782,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 316763,
       "num": 152851,
       "word": "神仙肉 虞书欣",
@@ -356,7 +372,7 @@
     },
     {
       "raw_hot": 300588,
-      "num": 215859,
+      "num": 279756,
       "word": "黄金白银一跌再跌",
       "onboard_time": 1769746824,
       "rank": 44,
@@ -369,6 +385,14 @@
       "onboard_time": 1769745320,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 291062,
+      "num": 291062,
+      "word": "袁娅维在美国唐人街偶遇周深",
+      "onboard_time": 1769753061,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 285701,
@@ -403,6 +427,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 242884,
+      "num": 189195,
+      "word": "喜之郎果冻微博删除金晨代言内容",
+      "onboard_time": 1769754021,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 242114,
+      "num": 144498,
+      "word": "700元入手的黄金卖出狂赚八万多",
+      "onboard_time": 1769753001,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 241456,
       "num": 949067,
       "word": "年轻老板狂扫700万黄金店员报警",
@@ -417,6 +457,14 @@
       "onboard_time": 1769700441,
       "rank": 7,
       "category": "财经"
+    },
+    {
+      "raw_hot": 235986,
+      "num": 763457,
+      "word": "电动车遇宝马无接触摔倒被判全责",
+      "onboard_time": 1769753961,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 235956,
@@ -545,6 +593,14 @@
       "onboard_time": 1769694862,
       "rank": 23,
       "category": "财经"
+    },
+    {
+      "raw_hot": 184407,
+      "num": 139804,
+      "word": "河南一洗浴中心男子闯入女澡堂",
+      "onboard_time": 1769752222,
+      "rank": 43,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 183118,
@@ -731,14 +787,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 125826,
-      "num": 125826,
-      "word": "河南一洗浴中心男子闯入女澡堂",
-      "onboard_time": 1769752222,
-      "rank": 43,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 125328,
       "num": 125328,
       "word": "金价大幅跳水后反弹",
@@ -769,6 +817,14 @@
       "onboard_time": 1769743881,
       "rank": 43,
       "category": "财经"
+    },
+    {
+      "raw_hot": 118989,
+      "num": 91350,
+      "word": "这辈子卖得最后悔的一只狗",
+      "onboard_time": 1769755641,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 118053,
@@ -827,6 +883,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 115075,
+      "num": 166880,
+      "word": "什么时候该结束一段关系",
+      "onboard_time": 1769753360,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 114467,
       "num": 112634,
       "word": "网传虞书欣何与二搭神仙肉",
@@ -849,6 +913,14 @@
       "onboard_time": 1769699123,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 112119,
+      "num": 112119,
+      "word": "微博之夜第四波阵容",
+      "onboard_time": 1769755040,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 110058,
@@ -907,20 +979,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 107374,
+      "num": 89872,
+      "word": "金价28分钟内暴跌380美元",
+      "onboard_time": 1769754799,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
       "raw_hot": 106281,
       "num": 106281,
       "word": "孙天宇 内娱天选马系艺人",
       "onboard_time": 1769744781,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 105367,
-      "num": 105367,
-      "word": "袁娅维在美国唐人街偶遇周深",
-      "onboard_time": 1769753061,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 105075,
@@ -969,6 +1041,14 @@
       "onboard_time": 1769748861,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 100646,
+      "num": 87738,
+      "word": "白鹿上一秒baby下一秒mommy",
+      "onboard_time": 1769753001,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 100491,
@@ -1027,6 +1107,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 97184,
+      "num": 87148,
+      "word": "时代少年团痛包",
+      "onboard_time": 1769755760,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 95610,
       "num": 118241,
       "word": "武汉理工毕业生当保安被母校约谈",
@@ -1083,14 +1171,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 90034,
-      "num": 77559,
-      "word": "白鹿上一秒baby下一秒mommy",
-      "onboard_time": 1769753001,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 88698,
       "num": 88698,
       "word": "现货黄金失守5260美元",
@@ -1121,6 +1201,14 @@
       "onboard_time": 1769718913,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 85996,
+      "num": 85996,
+      "word": "孙颖莎首登世界第一四周年纪念日",
+      "onboard_time": 1769756179,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 85890,
@@ -1212,7 +1300,7 @@
     },
     {
       "raw_hot": 81295,
-      "num": 73494,
+      "num": 75857,
       "word": "刘浩存嘉人二月刊封面",
       "onboard_time": 1769753001,
       "rank": 46,
@@ -1225,6 +1313,14 @@
       "onboard_time": 1769740579,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 80279,
+      "num": 80279,
+      "word": "魏大勋魏晨偷摸拉手",
+      "onboard_time": 1769754921,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 80201,
@@ -1241,6 +1337,14 @@
       "onboard_time": 1769698763,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 78924,
+      "num": 93346,
+      "word": "国防部这句Youwish啥意思",
+      "onboard_time": 1769753300,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 78179,
@@ -1275,6 +1379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 75167,
+      "num": 75167,
+      "word": "投资小白买银条1个月赚17万",
+      "onboard_time": 1769753961,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 74800,
       "num": 100839,
       "word": "嘉禾望岗为何被称为分手车站",
@@ -1297,14 +1409,6 @@
       "onboard_time": 1769699243,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 74011,
-      "num": 74011,
-      "word": "700元入手的黄金卖出狂赚八万多",
-      "onboard_time": 1769753001,
-      "rank": 44,
-      "category": "财经"
     },
     {
       "raw_hot": 72660,
@@ -1347,12 +1451,36 @@
       "category": "财经"
     },
     {
+      "raw_hot": 69012,
+      "num": 69012,
+      "word": "如鸢",
+      "onboard_time": 1769756301,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 68809,
+      "num": 68809,
+      "word": "波尔的人脉被樊振东拿捏了",
+      "onboard_time": 1769755099,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 67792,
       "num": 181110,
       "word": "咖啡价格被华莱士打下来了",
       "onboard_time": 1769749464,
       "rank": 18,
       "category": "美食"
+    },
+    {
+      "raw_hot": 67670,
+      "num": 67670,
+      "word": "苹果日赚28亿",
+      "onboard_time": 1769756000,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 65569,
@@ -1459,12 +1587,28 @@
       "category": "海外新闻,游戏"
     },
     {
+      "raw_hot": 44340,
+      "num": 73769,
+      "word": "美国女子呼吁枪杆子里出政权",
+      "onboard_time": 1769756420,
+      "rank": 42,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 43973,
       "num": 217154,
       "word": "1中国公民在日遭催泪瓦斯袭击",
       "onboard_time": 1769748260,
       "rank": 22,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 43494,
+      "num": 75224,
+      "word": "加拿大华裔14岁少女吸毒致死",
+      "onboard_time": 1769756420,
+      "rank": 40,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 42558,

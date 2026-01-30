@@ -1,0 +1,410 @@
+{
+  "runTime": 1769756480932,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 260697,
+        "num": 1041711,
+        "word": "好想来零食回应",
+        "onboard_time": 1769747243,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 235986,
+        "num": 763457,
+        "word": "电动车遇宝马无接触摔倒被判全责",
+        "onboard_time": 1769753961,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46331,
+        "num": 622160,
+        "word": "智能穿戴千亿级赛道爆发",
+        "onboard_time": 1769745141,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 350208,
+        "num": 350208,
+        "word": "丈夫去世妻子不知情婆家领走70万",
+        "onboard_time": 1769750782,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 291062,
+        "num": 291062,
+        "word": "袁娅维在美国唐人街偶遇周深",
+        "onboard_time": 1769753061,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 874269,
+        "num": 289959,
+        "word": "赵四葬礼",
+        "onboard_time": 1769749401,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 370813,
+        "num": 284903,
+        "word": "此人住商极高",
+        "onboard_time": 1769753541,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 279756,
+        "num": 279756,
+        "word": "黄金白银一跌再跌",
+        "onboard_time": 1769746824,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 217976,
+        "num": 217976,
+        "word": "生命树招商",
+        "onboard_time": 1769748682,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107926,
+        "num": 217703,
+        "word": "我使馆要求日方尽快破案",
+        "onboard_time": 1769750241,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1311816,
+        "num": 206131,
+        "word": "交警否认网传金晨驾车监控信息",
+        "onboard_time": 1769748682,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 482233,
+        "num": 202565,
+        "word": "王彦霖 眼袋上不封顶",
+        "onboard_time": 1769753300,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264405,
+        "num": 193424,
+        "word": "普通人上镜能有多离谱",
+        "onboard_time": 1769740223,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 189414,
+        "num": 189414,
+        "word": "长期负面情绪会导致脑部生理性改变",
+        "onboard_time": 1769742260,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 189400,
+        "num": 189400,
+        "word": "有色",
+        "onboard_time": 1769741420,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 242884,
+        "num": 189195,
+        "word": "喜之郎果冻微博删除金晨代言内容",
+        "onboard_time": 1769754021,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260569,
+        "num": 189143,
+        "word": "看肖战王彦霖懂了卧蚕和眼袋的区别",
+        "onboard_time": 1769742920,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126411,
+        "num": 174132,
+        "word": "男子喝自制中药中毒身亡",
+        "onboard_time": 1769739500,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169806,
+        "num": 169806,
+        "word": "微博之夜",
+        "onboard_time": 1769734341,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 115075,
+        "num": 166880,
+        "word": "什么时候该结束一段关系",
+        "onboard_time": 1769753360,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 910133,
+        "num": 159673,
+        "word": "黄金暴跌",
+        "onboard_time": 1769703021,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 312230,
+        "num": 153629,
+        "word": "黄金价格暴跌原因",
+        "onboard_time": 1769741060,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 242114,
+        "num": 144498,
+        "word": "700元入手的黄金卖出狂赚八万多",
+        "onboard_time": 1769753001,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 184407,
+        "num": 139804,
+        "word": "河南一洗浴中心男子闯入女澡堂",
+        "onboard_time": 1769752222,
+        "rank": 23,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 133041,
+        "num": 133041,
+        "word": "白鹿官宣王者荣耀",
+        "onboard_time": 1769741660,
+        "rank": 24,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 119389,
+        "num": 119389,
+        "word": "今日金价",
+        "onboard_time": 1769733983,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 112119,
+        "num": 112119,
+        "word": "微博之夜第四波阵容",
+        "onboard_time": 1769755040,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 106188,
+        "num": 106188,
+        "word": "百万网红因罕见病被误解二十五年",
+        "onboard_time": 1769745141,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 93979,
+        "num": 93979,
+        "word": "澳网",
+        "onboard_time": 1769748922,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 78924,
+        "num": 93346,
+        "word": "国防部这句Youwish啥意思",
+        "onboard_time": 1769753300,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 118989,
+        "num": 91350,
+        "word": "这辈子卖得最后悔的一只狗",
+        "onboard_time": 1769755641,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 107374,
+        "num": 89872,
+        "word": "金价28分钟内暴跌380美元",
+        "onboard_time": 1769754799,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 100646,
+        "num": 87738,
+        "word": "白鹿上一秒baby下一秒mommy",
+        "onboard_time": 1769753001,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97184,
+        "num": 87148,
+        "word": "时代少年团痛包",
+        "onboard_time": 1769755760,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85996,
+        "num": 85996,
+        "word": "孙颖莎首登世界第一四周年纪念日",
+        "onboard_time": 1769756179,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84057,
+        "num": 84057,
+        "word": "生命树",
+        "onboard_time": 1769746581,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80279,
+        "num": 80279,
+        "word": "魏大勋魏晨偷摸拉手",
+        "onboard_time": 1769754921,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 76219,
+        "num": 76219,
+        "word": "弗拉格49分",
+        "onboard_time": 1769750962,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 78274,
+        "num": 75857,
+        "word": "刘浩存嘉人二月刊封面",
+        "onboard_time": 1769753001,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76507,
+        "num": 75515,
+        "word": "王橹杰穆祉丞荣耀之战彩排",
+        "onboard_time": 1769752162,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 43494,
+        "num": 75224,
+        "word": "加拿大华裔14岁少女吸毒致死",
+        "onboard_time": 1769756420,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 75167,
+        "num": 75167,
+        "word": "投资小白买银条1个月赚17万",
+        "onboard_time": 1769753961,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44340,
+        "num": 73769,
+        "word": "美国女子呼吁枪杆子里出政权",
+        "onboard_time": 1769756420,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 31376,
+        "num": 73626,
+        "word": "无人驾驶真的比人更安全吗",
+        "onboard_time": 1769752880,
+        "rank": 43,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 73494,
+        "num": 73494,
+        "word": "日本一年有532名中小学生自杀",
+        "onboard_time": 1769747360,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 71817,
+        "num": 71817,
+        "word": "蔡徐坤是在冰岛拍了部电影吗",
+        "onboard_time": 1769750001,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 69012,
+        "num": 69012,
+        "word": "如鸢",
+        "onboard_time": 1769756301,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 68809,
+        "num": 68809,
+        "word": "波尔的人脉被樊振东拿捏了",
+        "onboard_time": 1769755099,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 67906,
+        "num": 67906,
+        "word": "乡村爱情18赵四嘎了",
+        "onboard_time": 1769741840,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67670,
+        "num": 67670,
+        "word": "苹果日赚28亿",
+        "onboard_time": 1769756000,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#读懂习近平的大历史观#"
+    }
+  }
+}

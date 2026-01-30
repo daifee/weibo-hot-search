@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769753312613,
+  "endTime": 1769756480932,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -980,7 +980,7 @@
     },
     {
       "raw_hot": 1374570,
-      "num": 219503,
+      "num": 289959,
       "word": "赵四葬礼",
       "onboard_time": 1769749401,
       "rank": 6,
@@ -8619,6 +8619,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 482233,
+      "num": 202565,
+      "word": "王彦霖 眼袋上不封顶",
+      "onboard_time": 1769753300,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 482017,
       "num": 482017,
       "word": "陈小群",
@@ -12875,6 +12883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 370813,
+      "num": 284903,
+      "word": "此人住商极高",
+      "onboard_time": 1769753541,
+      "rank": 6,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 370763,
       "num": 346720,
       "word": "李昊说赢球最爽",
@@ -13977,6 +13993,14 @@
       "onboard_time": 1768899622,
       "rank": 24,
       "category": "网红"
+    },
+    {
+      "raw_hot": 350208,
+      "num": 350208,
+      "word": "丈夫去世妻子不知情婆家领走70万",
+      "onboard_time": 1769750782,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 349847,
@@ -15907,14 +15931,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 317589,
-      "num": 317589,
-      "word": "丈夫去世妻子不知情婆家领走70万",
-      "onboard_time": 1769750782,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 317387,
       "num": 317387,
       "word": "一诺解说",
@@ -17044,7 +17060,7 @@
     },
     {
       "raw_hot": 300588,
-      "num": 215859,
+      "num": 279756,
       "word": "黄金白银一跌再跌",
       "onboard_time": 1769746824,
       "rank": 44,
@@ -17649,6 +17665,14 @@
       "onboard_time": 1768295182,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 291062,
+      "num": 291062,
+      "word": "袁娅维在美国唐人街偶遇周深",
+      "onboard_time": 1769753061,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 291021,
@@ -21651,6 +21675,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 242884,
+      "num": 189195,
+      "word": "喜之郎果冻微博删除金晨代言内容",
+      "onboard_time": 1769754021,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 242741,
       "num": 1038838,
       "word": "歼35绿皮机震撼公开",
@@ -21745,6 +21777,14 @@
       "onboard_time": 1768731382,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 242114,
+      "num": 144498,
+      "word": "700元入手的黄金卖出狂赚八万多",
+      "onboard_time": 1769753001,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 242108,
@@ -22265,6 +22305,14 @@
       "onboard_time": 1768738642,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 235986,
+      "num": 763457,
+      "word": "电动车遇宝马无接触摔倒被判全责",
+      "onboard_time": 1769753961,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 235956,
@@ -29545,6 +29593,14 @@
       "onboard_time": 1768732462,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 184407,
+      "num": 139804,
+      "word": "河南一洗浴中心男子闯入女澡堂",
+      "onboard_time": 1769752222,
+      "rank": 43,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 184392,
@@ -45003,14 +45059,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 125826,
-      "num": 125826,
-      "word": "河南一洗浴中心男子闯入女澡堂",
-      "onboard_time": 1769752222,
-      "rank": 43,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 125792,
       "num": 125792,
       "word": "我会为卢昱晓这句话哭一晚上",
@@ -48083,6 +48131,14 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 118989,
+      "num": 91350,
+      "word": "这辈子卖得最后悔的一只狗",
+      "onboard_time": 1769755641,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 118963,
       "num": 118963,
       "word": "选秀鼻祖李宇春来给内娱上课了",
@@ -50107,6 +50163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 115075,
+      "num": 166880,
+      "word": "什么时候该结束一段关系",
+      "onboard_time": 1769753360,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 115033,
       "num": 115033,
       "word": "丁禹兮白西装",
@@ -51689,6 +51753,14 @@
       "onboard_time": 1768466001,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 112119,
+      "num": 112119,
+      "word": "微博之夜第四波阵容",
+      "onboard_time": 1769755040,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 112106,
@@ -53979,6 +54051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 107374,
+      "num": 89872,
+      "word": "金价28分钟内暴跌380美元",
+      "onboard_time": 1769754799,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
       "raw_hot": 107367,
       "num": 100663,
       "word": "国家疾控局回应印度尼帕病毒疫情",
@@ -55289,14 +55369,6 @@
       "onboard_time": 1768480400,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 105367,
-      "num": 105367,
-      "word": "袁娅维在美国唐人街偶遇周深",
-      "onboard_time": 1769753061,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 105355,
@@ -58499,6 +58571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 100646,
+      "num": 87738,
+      "word": "白鹿上一秒baby下一秒mommy",
+      "onboard_time": 1769753001,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 100640,
       "num": 100640,
       "word": "韩国一公交车撞向大楼致13人受伤",
@@ -61105,6 +61185,14 @@
       "onboard_time": 1767657800,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 97184,
+      "num": 87148,
+      "word": "时代少年团痛包",
+      "onboard_time": 1769755760,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 97179,
@@ -66867,14 +66955,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 90034,
-      "num": 77559,
-      "word": "白鹿上一秒baby下一秒mommy",
-      "onboard_time": 1769753001,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 90031,
       "num": 90031,
       "word": "韩语不过瘾切换中文了吗",
@@ -70312,6 +70392,14 @@
       "word": "U23国足主帅说相信自己很重要",
       "onboard_time": 1769261482,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 85996,
+      "num": 85996,
+      "word": "孙颖莎首登世界第一四周年纪念日",
+      "onboard_time": 1769756179,
+      "rank": 34,
       "category": "体育"
     },
     {
@@ -73812,7 +73900,7 @@
     },
     {
       "raw_hot": 81295,
-      "num": 73494,
+      "num": 75857,
       "word": "刘浩存嘉人二月刊封面",
       "onboard_time": 1769753001,
       "rank": 46,
@@ -74577,6 +74665,14 @@
       "onboard_time": 1768709960,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 80279,
+      "num": 80279,
+      "word": "魏大勋魏晨偷摸拉手",
+      "onboard_time": 1769754921,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 80258,
@@ -75641,6 +75737,14 @@
       "onboard_time": 1768913421,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 78924,
+      "num": 93346,
+      "word": "国防部这句Youwish啥意思",
+      "onboard_time": 1769753300,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 78903,
@@ -77907,6 +78011,14 @@
       "category": "互联网,游戏"
     },
     {
+      "raw_hot": 75167,
+      "num": 75167,
+      "word": "投资小白买银条1个月赚17万",
+      "onboard_time": 1769753961,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75166,
       "num": 119468,
       "word": "虞书欣妈咪变学姐",
@@ -78529,14 +78641,6 @@
       "onboard_time": 1768356262,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 74011,
-      "num": 74011,
-      "word": "700元入手的黄金卖出狂赚八万多",
-      "onboard_time": 1769753001,
-      "rank": 44,
-      "category": "财经"
     },
     {
       "raw_hot": 74008,
@@ -80755,6 +80859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 69012,
+      "num": 69012,
+      "word": "如鸢",
+      "onboard_time": 1769756301,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 68995,
       "num": 588343,
       "word": "辞职不用焦虑",
@@ -80849,6 +80961,14 @@
       "onboard_time": 1769643559,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 68809,
+      "num": 68809,
+      "word": "波尔的人脉被樊振东拿捏了",
+      "onboard_time": 1769755099,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 68756,
@@ -81305,6 +81425,14 @@
       "onboard_time": 1768626140,
       "rank": 43,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 67670,
+      "num": 67670,
+      "word": "苹果日赚28亿",
+      "onboard_time": 1769756000,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 67599,
@@ -88195,6 +88323,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 44340,
+      "num": 73769,
+      "word": "美国女子呼吁枪杆子里出政权",
+      "onboard_time": 1769756420,
+      "rank": 42,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 44328,
       "num": 99619,
       "word": "荣耀水晶如何免费获取",
@@ -88449,6 +88585,14 @@
       "onboard_time": 1768387400,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 43494,
+      "num": 75224,
+      "word": "加拿大华裔14岁少女吸毒致死",
+      "onboard_time": 1769756420,
+      "rank": 40,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 43448,
