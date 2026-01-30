@@ -1,6 +1,6 @@
 {
   "startTime": 1769702505765,
-  "endTime": 1769785403166,
+  "endTime": 1769787852318,
   "band_list": [
     {
       "raw_hot": 22742360,
@@ -444,7 +444,7 @@
     },
     {
       "raw_hot": 423743,
-      "num": 298895,
+      "num": 326907,
       "word": "一定要频繁大量的记录自己",
       "onboard_time": 1769775803,
       "rank": 6,
@@ -497,6 +497,14 @@
       "onboard_time": 1769739620,
       "rank": 19,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 389223,
+      "num": 313076,
+      "word": "生命树 侯鸿亮",
+      "onboard_time": 1769786902,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 387078,
@@ -635,6 +643,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 321002,
+      "num": 213337,
+      "word": "魏大勋自曝曾被杨迪打了嘴巴子",
+      "onboard_time": 1769781684,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 320261,
       "num": 82254,
       "word": "特朗普宣布国家紧急状态",
@@ -755,6 +771,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 283854,
+      "num": 283854,
+      "word": "阿姨入手均价300元金条全部卖出",
+      "onboard_time": 1769785702,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 279512,
       "num": 279512,
       "word": "成毅提胯走路太飒了",
@@ -785,6 +809,14 @@
       "onboard_time": 1769774903,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 269291,
+      "num": 133912,
+      "word": "生命树豆瓣已锁",
+      "onboard_time": 1769786962,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 266377,
@@ -921,14 +953,6 @@
       "onboard_time": 1769738900,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 234764,
-      "num": 213337,
-      "word": "魏大勋自曝曾被杨迪打了嘴巴子",
-      "onboard_time": 1769781684,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 232543,
@@ -1107,6 +1131,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 198937,
+      "num": 198937,
+      "word": "吴忠市人民医院致歉",
+      "onboard_time": 1769783303,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 197604,
       "num": 154790,
       "word": "河南一洗浴中心男子闯入女澡堂",
@@ -1153,14 +1185,6 @@
       "onboard_time": 1769771545,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 189245,
-      "num": 189245,
-      "word": "吴忠市人民医院致歉",
-      "onboard_time": 1769783303,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 187867,
@@ -1233,6 +1257,14 @@
       "onboard_time": 1769746942,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 166161,
+      "num": 166161,
+      "word": "印度怀孕女特警被丈夫用哑铃砸死",
+      "onboard_time": 1769786302,
+      "rank": 15,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 162214,
@@ -1955,6 +1987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 105295,
+      "num": 105295,
+      "word": "德约科维奇3比2辛纳",
+      "onboard_time": 1769784143,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 105075,
       "num": 105075,
       "word": "杨幂孙俪拥抱",
@@ -2203,14 +2243,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 96591,
-      "num": 96591,
-      "word": "德约科维奇3比2辛纳",
-      "onboard_time": 1769784143,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 95610,
       "num": 118241,
       "word": "武汉理工毕业生当保安被母校约谈",
@@ -2225,6 +2257,14 @@
       "onboard_time": 1769772442,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 94431,
+      "num": 94431,
+      "word": "李冰冰 什么时候转行当模特",
+      "onboard_time": 1769787023,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 94291,
@@ -2483,6 +2523,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 84659,
+      "num": 84659,
+      "word": "阿姨每年用奖金买金条已全部出手",
+      "onboard_time": 1769786362,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84551,
       "num": 84551,
       "word": "国际贵金属遭资金全面抛售",
@@ -2731,6 +2779,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 77095,
+      "num": 198687,
+      "word": "现在的咖啡为什么杯均金奖",
+      "onboard_time": 1769783183,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 76941,
       "num": 76941,
       "word": "桃黑黑 王者荣耀",
@@ -2761,14 +2817,6 @@
       "onboard_time": 1769776824,
       "rank": 29,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 75076,
-      "num": 198687,
-      "word": "现在的咖啡为什么杯均金奖",
-      "onboard_time": 1769783183,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 74800,
@@ -2859,6 +2907,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 69486,
+      "num": 69486,
+      "word": "2026年金价或将保持强劲势头",
+      "onboard_time": 1769787443,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 69012,
       "num": 69012,
       "word": "如鸢",
@@ -2913,6 +2969,22 @@
       "onboard_time": 1769680945,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 61682,
+      "num": 70689,
+      "word": "杰我睿多地用户雨中蹲守等兑现",
+      "onboard_time": 1769786182,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 59013,
+      "num": 135084,
+      "word": "95后女孩因工作遭羁押500多天",
+      "onboard_time": 1769786843,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 58470,
@@ -3147,6 +3219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 32859,
+      "num": 84862,
+      "word": "生命树回应首播收视登顶",
+      "onboard_time": 1769781085,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 31766,
       "num": 143925,
       "word": "宝可梦需要给中国人一个交代",
@@ -3209,6 +3289,14 @@
       "onboard_time": 1769751202,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 27114,
+      "num": 84694,
+      "word": "网友460元预约上春运宠物动车托运",
+      "onboard_time": 1769787382,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25408,
@@ -3297,6 +3385,14 @@
       "onboard_time": 1769766084,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20537,
+      "num": 134561,
+      "word": "王兴兴称通用机器人一定可以实现",
+      "onboard_time": 1769787382,
+      "rank": 19,
+      "category": "互联网"
     },
     {
       "raw_hot": 20225,
