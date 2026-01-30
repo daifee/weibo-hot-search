@@ -1,0 +1,410 @@
+{
+  "runTime": 1769766558561,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 519673,
+        "num": 1455969,
+        "word": "任天堂在靖国神社教孩子玩牌",
+        "onboard_time": 1769760022,
+        "rank": 0,
+        "category": "国际时政,游戏"
+      },
+      {
+        "raw_hot": 292001,
+        "num": 1086419,
+        "word": "澳网",
+        "onboard_time": 1769748922,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 10876,
+        "num": 833159,
+        "word": "近1000列夜间高铁要来了",
+        "onboard_time": 1769766446,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 6038535,
+        "num": 6038535,
+        "word": "警方通报金晨事件",
+        "onboard_time": 1769766446,
+        "rank": 3,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 418761,
+        "num": 418761,
+        "word": "金价28分钟内暴跌380美元",
+        "onboard_time": 1769754799,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 415802,
+        "num": 415802,
+        "word": "凤凰传奇一条微博两件大事",
+        "onboard_time": 1769763082,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 213415,
+        "num": 213415,
+        "word": "浙江要求党政机关严控PPT制作使用",
+        "onboard_time": 1769762902,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192941,
+        "num": 192941,
+        "word": "阿尔卡拉斯首进澳网决赛",
+        "onboard_time": 1769765481,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182785,
+        "num": 182785,
+        "word": "黄金跌近6%",
+        "onboard_time": 1769764642,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 182423,
+        "num": 182423,
+        "word": "金价有望涨至8500美元",
+        "onboard_time": 1769764822,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 258502,
+        "num": 181979,
+        "word": "加拿大华裔14岁少女吸毒致死",
+        "onboard_time": 1769756420,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 159860,
+        "num": 181550,
+        "word": "这辈子卖得最后悔的一只狗",
+        "onboard_time": 1769755641,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 143301,
+        "num": 180891,
+        "word": "11名储户220万元存款被银行员工转走",
+        "onboard_time": 1769756900,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130629,
+        "num": 180508,
+        "word": "东京街头发生重大抢劫案",
+        "onboard_time": 1769756842,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 15476,
+        "num": 180058,
+        "word": "喵娲娲要在微博之夜当站姐",
+        "onboard_time": 1769763682,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 15768,
+        "num": 179686,
+        "word": "中国绿色低碳转型交出亮眼答卷",
+        "onboard_time": 1769766084,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1229235,
+        "num": 179132,
+        "word": "白银跌麻了",
+        "onboard_time": 1769762122,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 202462,
+        "num": 178420,
+        "word": "金饰报克价1400元半小时后涨价作废",
+        "onboard_time": 1769761580,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 124690,
+        "num": 177756,
+        "word": "生命树破平台招商纪录",
+        "onboard_time": 1769760562,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104513,
+        "num": 177581,
+        "word": "吾悦广场您踏马来了标语引争议",
+        "onboard_time": 1769764883,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2621819,
+        "num": 176836,
+        "word": "金晨被曝肇事逃逸被撞墙农户已获赔",
+        "onboard_time": 1769762062,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 622109,
+        "num": 176430,
+        "word": "赵四葬礼",
+        "onboard_time": 1769749401,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 341661,
+        "num": 175785,
+        "word": "黄金暴跌",
+        "onboard_time": 1769703021,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 596495,
+        "num": 175277,
+        "word": "关晓彤婉拒马上有对象",
+        "onboard_time": 1769761762,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102865,
+        "num": 174790,
+        "word": "金价跌破5100美元",
+        "onboard_time": 1769763802,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 442753,
+        "num": 174309,
+        "word": "成龙自曝有ADHD",
+        "onboard_time": 1769763022,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 367479,
+        "num": 173840,
+        "word": "杨幂好长",
+        "onboard_time": 1769762781,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315693,
+        "num": 173044,
+        "word": "爸爸在家吸烟13岁女儿腹腔长满肿瘤",
+        "onboard_time": 1769759301,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 327684,
+        "num": 172505,
+        "word": "网红周媛被立案调查",
+        "onboard_time": 1769758162,
+        "rank": 28,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 172424,
+        "num": 172424,
+        "word": "原来维生素D缺乏容易长白头发",
+        "onboard_time": 1769762422,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 94883,
+        "num": 169930,
+        "word": "生命树",
+        "onboard_time": 1769746581,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 279496,
+        "num": 169598,
+        "word": "黄金白银价格双双暴跌原因",
+        "onboard_time": 1769757740,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 232054,
+        "num": 169416,
+        "word": "白鹿美得有点超过了",
+        "onboard_time": 1769761100,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168906,
+        "num": 168906,
+        "word": "穆祉丞 你看球吗",
+        "onboard_time": 1769766025,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163347,
+        "num": 163347,
+        "word": "女子攒多年金条成本300元一克全卖了",
+        "onboard_time": 1769765362,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151960,
+        "num": 151960,
+        "word": "王玉雯 心理委员不用来了我有刘亦菲",
+        "onboard_time": 1769765121,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112642,
+        "num": 112642,
+        "word": "程潇富贵花",
+        "onboard_time": 1769760682,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 103970,
+        "num": 103970,
+        "word": "黄金白银一跌再跌",
+        "onboard_time": 1769746824,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 41813,
+        "num": 103962,
+        "word": "6图看今年春运便民措施",
+        "onboard_time": 1769765661,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157065,
+        "num": 103961,
+        "word": "白鹿cos安琪拉",
+        "onboard_time": 1769764162,
+        "rank": 39,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 104040,
+        "num": 103960,
+        "word": "微博之夜",
+        "onboard_time": 1769734341,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 103960,
+        "num": 103959,
+        "word": "夫妻用CT废胶片提炼白银超27斤",
+        "onboard_time": 1769756541,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103468,
+        "num": 103468,
+        "word": "人类对防晒的开发不足1%",
+        "onboard_time": 1769765421,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 96664,
+        "num": 96664,
+        "word": "刘浩存秒切破万",
+        "onboard_time": 1769764282,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93571,
+        "num": 93571,
+        "word": "王彦霖 眼袋上不封顶",
+        "onboard_time": 1769753300,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88356,
+        "num": 88356,
+        "word": "LGDNBW战胜RNGM",
+        "onboard_time": 1769765182,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 92520,
+        "num": 88345,
+        "word": "袁娅维在美国唐人街偶遇周深",
+        "onboard_time": 1769753061,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87650,
+        "num": 87650,
+        "word": "孙颖莎王楚钦等出战海口亚洲杯",
+        "onboard_time": 1769764222,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87471,
+        "num": 87471,
+        "word": "过年回家没必要带太多衣服",
+        "onboard_time": 1769766323,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 93181,
+        "num": 86924,
+        "word": "王彦霖发倪大红眼袋说封顶",
+        "onboard_time": 1769765541,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局1月30日召开会议#"
+    }
+  }
+}

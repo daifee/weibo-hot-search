@@ -1,6 +1,6 @@
 {
   "startTime": 1769272464158,
-  "endTime": 1769763992960,
+  "endTime": 1769766558561,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -49,6 +49,14 @@
       "onboard_time": 1769670383,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 6038535,
+      "num": 6038535,
+      "word": "警方通报金晨事件",
+      "onboard_time": 1769766446,
+      "rank": 3,
+      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 5334101,
@@ -105,6 +113,14 @@
       "onboard_time": 1769273663,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2621819,
+      "num": 247104,
+      "word": "金晨被曝肇事逃逸被撞墙农户已获赔",
+      "onboard_time": 1769762062,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 2620230,
@@ -281,6 +297,14 @@
       "onboard_time": 1769692584,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1229235,
+      "num": 345773,
+      "word": "白银跌麻了",
+      "onboard_time": 1769762122,
+      "rank": 5,
+      "category": "财经"
     },
     {
       "raw_hot": 1228921,
@@ -571,14 +595,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 846401,
-      "num": 247104,
-      "word": "金晨被曝肇事逃逸被撞墙农户已获赔",
-      "onboard_time": 1769762062,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 845845,
       "num": 310032,
       "word": "空姐笑了半小时才把橙汁倒下去",
@@ -657,14 +673,6 @@
       "onboard_time": 1769487620,
       "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 788272,
-      "num": 345773,
-      "word": "白银跌麻了",
-      "onboard_time": 1769762122,
-      "rank": 5,
-      "category": "财经"
     },
     {
       "raw_hot": 784185,
@@ -1076,7 +1084,7 @@
     },
     {
       "raw_hot": 580972,
-      "num": 1092955,
+      "num": 1455969,
       "word": "任天堂在靖国神社教孩子玩牌",
       "onboard_time": 1769760022,
       "rank": 0,
@@ -1851,6 +1859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 442753,
+      "num": 234632,
+      "word": "成龙自曝有ADHD",
+      "onboard_time": 1769763022,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 441216,
       "num": 441216,
       "word": "檀健次卢昱晓新剧开机照",
@@ -2027,6 +2043,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 418761,
+      "num": 418761,
+      "word": "金价28分钟内暴跌380美元",
+      "onboard_time": 1769754799,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
       "raw_hot": 417841,
       "num": 417841,
       "word": "唐宫奇案",
@@ -2049,6 +2073,14 @@
       "onboard_time": 1769324000,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 415802,
+      "num": 415802,
+      "word": "凤凰传奇一条微博两件大事",
+      "onboard_time": 1769763082,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 415188,
@@ -2449,6 +2481,14 @@
       "onboard_time": 1769484140,
       "rank": 3,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 367479,
+      "num": 182178,
+      "word": "杨幂好长",
+      "onboard_time": 1769762781,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 366157,
@@ -3283,14 +3323,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 298304,
-      "num": 233603,
-      "word": "金价28分钟内暴跌380美元",
-      "onboard_time": 1769754799,
-      "rank": 31,
-      "category": "财经"
-    },
-    {
       "raw_hot": 298217,
       "num": 298217,
       "word": "第一次这么直观感受萝卜岗",
@@ -3368,6 +3400,14 @@
       "word": "U23男足0比2落后",
       "onboard_time": 1769268864,
       "rank": 7,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 292001,
+      "num": 1086419,
+      "word": "澳网",
+      "onboard_time": 1769567422,
+      "rank": 19,
       "category": "体育"
     },
     {
@@ -4819,6 +4859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 213415,
+      "num": 238545,
+      "word": "浙江要求党政机关严控PPT制作使用",
+      "onboard_time": 1769762902,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 213051,
       "num": 164309,
       "word": "茅台回应抢购外挂软件",
@@ -4849,14 +4897,6 @@
       "onboard_time": 1769436923,
       "rank": 3,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 210510,
-      "num": 234632,
-      "word": "成龙自曝有ADHD",
-      "onboard_time": 1769763022,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 210375,
@@ -4961,6 +5001,14 @@
       "onboard_time": 1769577561,
       "rank": 30,
       "category": "数码"
+    },
+    {
+      "raw_hot": 202462,
+      "num": 251680,
+      "word": "金饰报克价1400元半小时后涨价作废",
+      "onboard_time": 1769761580,
+      "rank": 33,
+      "category": "财经"
     },
     {
       "raw_hot": 201679,
@@ -5155,6 +5203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 192941,
+      "num": 192941,
+      "word": "阿尔卡拉斯首进澳网决赛",
+      "onboard_time": 1769765481,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 192607,
       "num": 95705,
       "word": "90后女子存20万私房钱被丈夫发现",
@@ -5347,11 +5403,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 182785,
+      "num": 182785,
+      "word": "黄金跌近6%",
+      "onboard_time": 1769764642,
+      "rank": 8,
+      "category": "财经"
+    },
+    {
       "raw_hot": 182478,
       "num": 182478,
       "word": "鲍威尔",
       "onboard_time": 1769681664,
       "rank": 15,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 182423,
+      "num": 182423,
+      "word": "金价有望涨至8500美元",
+      "onboard_time": 1769764822,
+      "rank": 9,
       "category": "财经"
     },
     {
@@ -5361,14 +5433,6 @@
       "onboard_time": 1769494279,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 182178,
-      "num": 182178,
-      "word": "杨幂好长",
-      "onboard_time": 1769762781,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 182157,
@@ -5483,14 +5547,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 175959,
-      "num": 356525,
-      "word": "澳网",
-      "onboard_time": 1769567422,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 175745,
       "num": 190435,
       "word": "建议优先睡好这4个小时",
@@ -5561,6 +5617,14 @@
       "onboard_time": 1769330299,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 172424,
+      "num": 172424,
+      "word": "原来维生素D缺乏容易长白头发",
+      "onboard_time": 1769762422,
+      "rank": 36,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 172021,
@@ -5667,6 +5731,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 168906,
+      "num": 168906,
+      "word": "穆祉丞 你看球吗",
+      "onboard_time": 1769766025,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 168027,
       "num": 168027,
       "word": "陈建斌曝李亚鹏晚上睡觉没有被子",
@@ -5763,14 +5835,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 163786,
-      "num": 252441,
-      "word": "凤凰传奇一条微博两件大事",
-      "onboard_time": 1769763082,
-      "rank": 48,
-      "category": "演出"
-    },
-    {
       "raw_hot": 163737,
       "num": 163737,
       "word": "陈丽君自曝因干农活长冻疮",
@@ -5793,6 +5857,14 @@
       "onboard_time": 1769344161,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 163347,
+      "num": 163347,
+      "word": "女子攒多年金条成本300元一克全卖了",
+      "onboard_time": 1769765362,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 163034,
@@ -5969,6 +6041,14 @@
       "onboard_time": 1769682323,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 157065,
+      "num": 103961,
+      "word": "白鹿cos安琪拉",
+      "onboard_time": 1769764162,
+      "rank": 39,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 156967,
@@ -6177,6 +6257,14 @@
       "onboard_time": 1769607202,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 151960,
+      "num": 151960,
+      "word": "王玉雯 心理委员不用来了我有刘亦菲",
+      "onboard_time": 1769765121,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 151947,
@@ -7283,14 +7371,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 129875,
-      "num": 251680,
-      "word": "金饰报克价1400元半小时后涨价作废",
-      "onboard_time": 1769761580,
-      "rank": 33,
-      "category": "财经"
-    },
-    {
       "raw_hot": 129661,
       "num": 124976,
       "word": "原来天上掉下个林妹妹是掉机场了",
@@ -7659,6 +7739,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 124690,
+      "num": 177756,
+      "word": "生命树破平台招商纪录",
+      "onboard_time": 1769760562,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 124599,
       "num": 124599,
       "word": "学猫叫把猫恶心吐了",
@@ -7801,14 +7889,6 @@
       "onboard_time": 1769410101,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 122860,
-      "num": 151851,
-      "word": "原来维生素D缺乏容易长白头发",
-      "onboard_time": 1769762422,
-      "rank": 36,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 122837,
@@ -9499,6 +9579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 104513,
+      "num": 177581,
+      "word": "吾悦广场您踏马来了标语引争议",
+      "onboard_time": 1769764883,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104404,
       "num": 104404,
       "word": "山西过年还是太超前了",
@@ -9617,6 +9705,14 @@
       "onboard_time": 1769420181,
       "rank": 35,
       "category": "海外新闻,健康医疗"
+    },
+    {
+      "raw_hot": 103468,
+      "num": 103468,
+      "word": "人类对防晒的开发不足1%",
+      "onboard_time": 1769765421,
+      "rank": 42,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 103454,
@@ -9769,6 +9865,14 @@
       "onboard_time": 1769329941,
       "rank": 27,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 102865,
+      "num": 174790,
+      "word": "金价跌破5100美元",
+      "onboard_time": 1769763802,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 102864,
@@ -10595,6 +10699,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 96664,
+      "num": 96664,
+      "word": "刘浩存秒切破万",
+      "onboard_time": 1769764282,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 96641,
       "num": 96641,
       "word": "景瓷 内娱电影圈00后打女上新",
@@ -11243,6 +11355,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 93181,
+      "num": 86924,
+      "word": "王彦霖发倪大红眼袋说封顶",
+      "onboard_time": 1769765541,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 93094,
       "num": 270056,
       "word": "惊蛰无声",
@@ -11731,14 +11851,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 90278,
-      "num": 90278,
-      "word": "金价跌破5100美元",
-      "onboard_time": 1769763802,
-      "rank": 44,
-      "category": "财经"
-    },
-    {
       "raw_hot": 90275,
       "num": 90275,
       "word": "DeepSeek开源OCR2",
@@ -12035,6 +12147,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 88356,
+      "num": 88356,
+      "word": "LGDNBW战胜RNGM",
+      "onboard_time": 1769765182,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 88354,
       "num": 88354,
       "word": "俱乐部回应杨鸣离职",
@@ -12123,6 +12243,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 87650,
+      "num": 87650,
+      "word": "孙颖莎王楚钦等出战海口亚洲杯",
+      "onboard_time": 1769764222,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 87622,
       "num": 90585,
       "word": "马龙请多发自拍",
@@ -12153,6 +12281,14 @@
       "onboard_time": 1769323700,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 87471,
+      "num": 87471,
+      "word": "过年回家没必要带太多衣服",
+      "onboard_time": 1769766323,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 87360,
@@ -16467,6 +16603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41813,
+      "num": 103962,
+      "word": "6图看今年春运便民措施",
+      "onboard_time": 1769765661,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41804,
       "num": 41804,
       "word": "泽连斯基称乌克兰计划加入欧盟",
@@ -17411,14 +17555,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 27459,
-      "num": 238545,
-      "word": "浙江要求党政机关严控PPT制作使用",
-      "onboard_time": 1769762902,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 27441,
       "num": 107186,
       "word": "醉酒男子与妻子吵架将10万元扔河里",
@@ -18187,6 +18323,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 15768,
+      "num": 179686,
+      "word": "中国绿色低碳转型交出亮眼答卷",
+      "onboard_time": 1769766084,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 15764,
       "num": 81311,
       "word": "农业县硬扛7.6亿政绩债务",
@@ -18395,6 +18539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 10876,
+      "num": 833159,
+      "word": "近1000列夜间高铁要来了",
+      "onboard_time": 1769766446,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 10867,
       "num": 16313,
       "word": "Meta涨超10%",
@@ -18521,6 +18673,9 @@
     },
     {
       "word": "#读懂习近平的大历史观#"
+    },
+    {
+      "word": "#中共中央政治局1月30日召开会议#"
     }
   ]
 }

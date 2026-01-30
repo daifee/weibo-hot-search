@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769763992960,
+  "endTime": 1769766558561,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -129,6 +129,14 @@
       "onboard_time": 1768355000,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 6038535,
+      "num": 6038535,
+      "word": "警方通报金晨事件",
+      "onboard_time": 1769766446,
+      "rank": 3,
+      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 5632996,
@@ -320,6 +328,14 @@
       "word": "梁小龙去世",
       "onboard_time": 1768723519,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2621819,
+      "num": 247104,
+      "word": "金晨被曝肇事逃逸被撞墙农户已获赔",
+      "onboard_time": 1769762062,
+      "rank": 22,
       "category": "艺人"
     },
     {
@@ -1169,6 +1185,14 @@
       "onboard_time": 1769051240,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1229235,
+      "num": 345773,
+      "word": "白银跌麻了",
+      "onboard_time": 1769762122,
+      "rank": 5,
+      "category": "财经"
     },
     {
       "raw_hot": 1228921,
@@ -2377,30 +2401,6 @@
       "onboard_time": 1768375100,
       "rank": 3,
       "category": "美食"
-    },
-    {
-      "raw_hot": 915244,
-      "num": 1146439,
-      "word": "机票价格大跳水",
-      "onboard_time": 1767837319,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 912684,
-      "num": 177006,
-      "word": "拼多多 聊天关闭",
-      "onboard_time": 1768903461,
-      "rank": 10,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 912516,
-      "num": 613337,
-      "word": "黄霄雲要举报声生不息节目组",
-      "onboard_time": 1768385181,
-      "rank": 3,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [
