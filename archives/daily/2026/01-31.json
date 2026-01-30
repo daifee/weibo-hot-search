@@ -1,6 +1,6 @@
 {
   "startTime": 1769791903074,
-  "endTime": 1769800128484,
+  "endTime": 1769801948109,
   "band_list": [
     {
       "raw_hot": 1880814,
@@ -259,6 +259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 65863,
+      "num": 74106,
+      "word": "博士生在意失联表弟赶赴当地",
+      "onboard_time": 1769796976,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 65034,
       "num": 74000,
       "word": "黄金从被抢空到暴跌仅用3天",
@@ -475,14 +483,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 27333,
-      "num": 48067,
-      "word": "博士生在意失联表弟赶赴当地",
-      "onboard_time": 1769796976,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 23491,
       "num": 48039,
       "word": "张杰演唱会疑是银河落九天",
@@ -507,12 +507,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 20955,
+      "num": 20955,
+      "word": "最强大脑13",
+      "onboard_time": 1769800574,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 19277,
       "num": 519873,
       "word": "中国风电硬核领跑全球",
       "onboard_time": 1769779823,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17756,
+      "num": 18001,
+      "word": "生命树震撼",
+      "onboard_time": 1769801895,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 17085,
@@ -529,6 +545,22 @@
       "onboard_time": 1769778983,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14059,
+      "num": 17994,
+      "word": "有歌",
+      "onboard_time": 1769795177,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 13238,
+      "num": 17989,
+      "word": "欧冠",
+      "onboard_time": 1769778084,
+      "rank": 49,
+      "category": "体育"
     }
   ],
   "hotgov_list": [

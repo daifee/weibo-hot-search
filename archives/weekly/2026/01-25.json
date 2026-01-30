@@ -1,6 +1,6 @@
 {
   "startTime": 1769272464158,
-  "endTime": 1769800128484,
+  "endTime": 1769801948109,
   "band_list": [
     {
       "raw_hot": 22742360,
@@ -16331,6 +16331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 65863,
+      "num": 74106,
+      "word": "博士生在意失联表弟赶赴当地",
+      "onboard_time": 1769796976,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 65569,
       "num": 654802,
       "word": "智能穿戴千亿级赛道爆发",
@@ -18667,14 +18675,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 27333,
-      "num": 48067,
-      "word": "博士生在意失联表弟赶赴当地",
-      "onboard_time": 1769796976,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 27312,
       "num": 1032448,
       "word": "中国风电硬核领跑全球",
@@ -19195,6 +19195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 20955,
+      "num": 20955,
+      "word": "最强大脑13",
+      "onboard_time": 1769800574,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 20915,
       "num": 94477,
       "word": "我国搭建了星辰大海攻坚站",
@@ -19409,6 +19417,14 @@
       "onboard_time": 1769471000,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17756,
+      "num": 18001,
+      "word": "生命树震撼",
+      "onboard_time": 1769801895,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 17674,
@@ -19641,6 +19657,14 @@
       "onboard_time": 1769394020,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 14059,
+      "num": 17994,
+      "word": "有歌",
+      "onboard_time": 1769795177,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 13829,
