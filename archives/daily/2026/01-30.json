@@ -1,6 +1,6 @@
 {
   "startTime": 1769702505765,
-  "endTime": 1769787852318,
+  "endTime": 1769788796599,
   "band_list": [
     {
       "raw_hot": 22742360,
@@ -211,6 +211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 688183,
+      "num": 688183,
+      "word": "生命树 侯鸿亮",
+      "onboard_time": 1769786902,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 657467,
       "num": 780853,
       "word": "男子喝自制中药中毒身亡",
@@ -308,7 +316,7 @@
     },
     {
       "raw_hot": 501216,
-      "num": 501216,
+      "num": 1076630,
       "word": "库迪将取消全场9.9元",
       "onboard_time": 1769782045,
       "rank": 6,
@@ -353,6 +361,14 @@
       "onboard_time": 1769773764,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 472317,
+      "num": 188500,
+      "word": "生命树豆瓣已锁",
+      "onboard_time": 1769786962,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 463313,
@@ -499,14 +515,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 389223,
-      "num": 313076,
-      "word": "生命树 侯鸿亮",
-      "onboard_time": 1769786902,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 387078,
       "num": 199116,
       "word": "周冬雨新综是来上情商课的吧",
@@ -528,6 +536,14 @@
       "word": "电动车遇宝马无接触摔倒被判全责",
       "onboard_time": 1769753961,
       "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 374425,
+      "num": 374425,
+      "word": "阿姨入手均价300元金条全部卖出",
+      "onboard_time": 1769785702,
+      "rank": 7,
       "category": "民生新闻"
     },
     {
@@ -771,14 +787,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 283854,
-      "num": 283854,
-      "word": "阿姨入手均价300元金条全部卖出",
-      "onboard_time": 1769785702,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 279512,
       "num": 279512,
       "word": "成毅提胯走路太飒了",
@@ -809,14 +817,6 @@
       "onboard_time": 1769774903,
       "rank": 33,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 269291,
-      "num": 133912,
-      "word": "生命树豆瓣已锁",
-      "onboard_time": 1769786962,
-      "rank": 20,
-      "category": "剧集"
     },
     {
       "raw_hot": 266377,
@@ -889,6 +889,22 @@
       "onboard_time": 1769772803,
       "rank": 9,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 246753,
+      "num": 117519,
+      "word": "沈佳润这才是你的舒适区",
+      "onboard_time": 1769788162,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 246622,
+      "num": 185587,
+      "word": "印度怀孕女特警被丈夫用哑铃砸死",
+      "onboard_time": 1769786302,
+      "rank": 15,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 246605,
@@ -1257,14 +1273,6 @@
       "onboard_time": 1769746942,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 166161,
-      "num": 166161,
-      "word": "印度怀孕女特警被丈夫用哑铃砸死",
-      "onboard_time": 1769786302,
-      "rank": 15,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 162214,
@@ -1907,6 +1915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 108781,
+      "num": 108781,
+      "word": "李冰冰 什么时候转行当模特",
+      "onboard_time": 1769787023,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 108395,
       "num": 255093,
       "word": "喵娲娲要在微博之夜当站姐",
@@ -2257,14 +2273,6 @@
       "onboard_time": 1769772442,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 94431,
-      "num": 94431,
-      "word": "李冰冰 什么时候转行当模特",
-      "onboard_time": 1769787023,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 94291,
@@ -2979,7 +2987,15 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 59013,
+      "raw_hot": 60175,
+      "num": 67605,
+      "word": "荣耀之战三支战队集结",
+      "onboard_time": 1769786843,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 59431,
       "num": 135084,
       "word": "95后女孩因工作遭羁押500多天",
       "onboard_time": 1769786843,
@@ -3003,6 +3019,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 56720,
+      "num": 67526,
+      "word": "CCTV5看到观赛的王俊凯周杰伦",
+      "onboard_time": 1769787981,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 56555,
       "num": 56555,
       "word": "长期运动的人更早意识到身体要维护",
@@ -3017,6 +3041,14 @@
       "onboard_time": 1769748260,
       "rank": 25,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 53456,
+      "num": 67484,
+      "word": "长相思",
+      "onboard_time": 1769788641,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 51841,
@@ -3347,6 +3379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 23564,
+      "num": 74632,
+      "word": "应聘司机竟成公司贷款工具人",
+      "onboard_time": 1769788582,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23348,
       "num": 80693,
       "word": "中国宝宝有多幸福",
@@ -3371,6 +3411,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 21807,
+      "num": 134561,
+      "word": "王兴兴称通用机器人一定可以实现",
+      "onboard_time": 1769787382,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 21713,
       "num": 142420,
       "word": "妈妈癌症去世爸爸靠收泔水养活女儿",
@@ -3385,14 +3433,6 @@
       "onboard_time": 1769766084,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 20537,
-      "num": 134561,
-      "word": "王兴兴称通用机器人一定可以实现",
-      "onboard_time": 1769787382,
-      "rank": 19,
-      "category": "互联网"
     },
     {
       "raw_hot": 20225,
