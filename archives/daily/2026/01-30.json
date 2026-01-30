@@ -1,10 +1,10 @@
 {
   "startTime": 1769702505765,
-  "endTime": 1769763151146,
+  "endTime": 1769763992960,
   "band_list": [
     {
       "raw_hot": 3481750,
-      "num": 201921,
+      "num": 237370,
       "word": "黄金暴跌",
       "onboard_time": 1769703021,
       "rank": 10,
@@ -35,20 +35,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1581316,
+      "num": 254613,
+      "word": "关晓彤婉拒马上有对象",
+      "onboard_time": 1769761762,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1374570,
       "num": 362689,
       "word": "赵四葬礼",
       "onboard_time": 1769749401,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1295427,
-      "num": 254613,
-      "word": "关晓彤婉拒马上有对象",
-      "onboard_time": 1769761762,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1241684,
@@ -91,12 +91,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 846401,
+      "num": 247104,
+      "word": "金晨被曝肇事逃逸被撞墙农户已获赔",
+      "onboard_time": 1769762062,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 813553,
       "num": 200138,
       "word": "曝金晨交通事故监控截图",
       "onboard_time": 1769670383,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 788272,
+      "num": 345773,
+      "word": "白银跌麻了",
+      "onboard_time": 1769762122,
+      "rank": 5,
+      "category": "财经"
     },
     {
       "raw_hot": 733067,
@@ -155,6 +171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 580972,
+      "num": 1092955,
+      "word": "任天堂在靖国神社教孩子玩牌",
+      "onboard_time": 1769760022,
+      "rank": 0,
+      "category": "国际时政,游戏"
+    },
+    {
       "raw_hot": 560442,
       "num": 294216,
       "word": "11名储户220万元存款被银行员工转走",
@@ -195,14 +219,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 494258,
-      "num": 1079081,
-      "word": "任天堂在靖国神社教孩子玩牌",
-      "onboard_time": 1769760022,
-      "rank": 0,
-      "category": "国际时政,游戏"
-    },
-    {
       "raw_hot": 492046,
       "num": 213373,
       "word": "有色",
@@ -216,14 +232,6 @@
       "word": "王彦霖 眼袋上不封顶",
       "onboard_time": 1769753300,
       "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 476536,
-      "num": 133633,
-      "word": "金晨被曝肇事逃逸被撞墙农户已获赔",
-      "onboard_time": 1769762062,
-      "rank": 22,
       "category": "艺人"
     },
     {
@@ -316,7 +324,7 @@
     },
     {
       "raw_hot": 406932,
-      "num": 147212,
+      "num": 233766,
       "word": "爸爸在家吸烟13岁女儿腹腔长满肿瘤",
       "onboard_time": 1769759301,
       "rank": 48,
@@ -393,14 +401,6 @@
       "onboard_time": 1769700203,
       "rank": 6,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 345773,
-      "num": 345773,
-      "word": "白银跌麻了",
-      "onboard_time": 1769762122,
-      "rank": 5,
-      "category": "财经"
     },
     {
       "raw_hot": 343671,
@@ -484,7 +484,7 @@
     },
     {
       "raw_hot": 298304,
-      "num": 160065,
+      "num": 233603,
       "word": "金价28分钟内暴跌380美元",
       "onboard_time": 1769754799,
       "rank": 31,
@@ -492,7 +492,7 @@
     },
     {
       "raw_hot": 297757,
-      "num": 372039,
+      "num": 434876,
       "word": "东京街头发生重大抢劫案",
       "onboard_time": 1769756842,
       "rank": 36,
@@ -547,12 +547,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 254164,
+      "num": 238171,
+      "word": "白鹿美得有点超过了",
+      "onboard_time": 1769761100,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 251010,
       "num": 768690,
       "word": "甘肃白银3.6级地震",
       "onboard_time": 1769758580,
       "rank": 4,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 247904,
+      "num": 793895,
+      "word": "生命树破平台招商记录",
+      "onboard_time": 1769760562,
+      "rank": 1,
+      "category": "剧集"
     },
     {
       "raw_hot": 242884,
@@ -675,20 +691,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 213578,
-      "num": 213578,
-      "word": "白鹿美得有点超过了",
-      "onboard_time": 1769761100,
-      "rank": 15,
+      "raw_hot": 210510,
+      "num": 234632,
+      "word": "成龙自曝有ADHD",
+      "onboard_time": 1769763022,
+      "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 211038,
-      "num": 770611,
-      "word": "生命树破平台招商记录",
-      "onboard_time": 1769760562,
-      "rank": 1,
-      "category": "剧集"
     },
     {
       "raw_hot": 208567,
@@ -755,12 +763,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 182178,
+      "num": 182178,
+      "word": "杨幂好长",
+      "onboard_time": 1769762781,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 178550,
       "num": 146107,
       "word": "郝熠然空降",
       "onboard_time": 1769695705,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 175959,
+      "num": 356525,
+      "word": "澳网",
+      "onboard_time": 1769748922,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 172655,
@@ -779,20 +803,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 163786,
+      "num": 252441,
+      "word": "凤凰传奇一条微博两件大事",
+      "onboard_time": 1769763082,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 159675,
       "num": 159675,
       "word": "200多克黄金不当面接收快递小哥报警",
       "onboard_time": 1769682803,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 159256,
-      "num": 356525,
-      "word": "澳网",
-      "onboard_time": 1769748922,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 157188,
@@ -971,6 +995,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 129875,
+      "num": 251680,
+      "word": "金饰报克价1400元半小时后涨价作废",
+      "onboard_time": 1769761580,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 129390,
       "num": 129390,
       "word": "王玉雯 假装车没停好听了两遍",
@@ -1003,6 +1035,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 122860,
+      "num": 151851,
+      "word": "原来维生素D缺乏容易长白头发",
+      "onboard_time": 1769762422,
+      "rank": 36,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 121940,
       "num": 179088,
       "word": "弗拉格49分",
@@ -1012,7 +1052,7 @@
     },
     {
       "raw_hot": 120270,
-      "num": 138041,
+      "num": 239709,
       "word": "麦当劳小票怎么了",
       "onboard_time": 1769760321,
       "rank": 18,
@@ -1139,14 +1179,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 110773,
-      "num": 110773,
-      "word": "金饰报克价1400元半小时后涨价作废",
-      "onboard_time": 1769761580,
-      "rank": 33,
-      "category": "财经"
-    },
-    {
       "raw_hot": 109957,
       "num": 109957,
       "word": "司机目睹男孩被女子推倒摔马路中间",
@@ -1177,6 +1209,14 @@
       "onboard_time": 1769756960,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108395,
+      "num": 242474,
+      "word": "喵娲娲要在微博之夜当站姐",
+      "onboard_time": 1769763682,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 108378,
@@ -1291,14 +1331,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 100499,
-      "num": 100499,
-      "word": "杨幂好长",
-      "onboard_time": 1769762781,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 100491,
       "num": 100491,
       "word": "公司招聘守岛人每月补贴3000元",
@@ -1339,6 +1371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 98981,
+      "num": 98981,
+      "word": "林志玲为杨紫宣传生命树",
+      "onboard_time": 1769763741,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 98674,
       "num": 98674,
       "word": "金价未来可能技术性回调",
@@ -1363,14 +1403,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 97208,
-      "num": 97208,
-      "word": "原来维生素D缺乏容易长白头发",
-      "onboard_time": 1769762422,
-      "rank": 36,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 95610,
       "num": 118241,
       "word": "武汉理工毕业生当保安被母校约谈",
@@ -1385,6 +1417,14 @@
       "onboard_time": 1769728878,
       "rank": 32,
       "category": "数码"
+    },
+    {
+      "raw_hot": 93932,
+      "num": 93932,
+      "word": "谢娜主持微博之夜",
+      "onboard_time": 1769763143,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 93841,
@@ -1441,6 +1481,14 @@
       "onboard_time": 1769751861,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 90278,
+      "num": 90278,
+      "word": "金价跌破5100美元",
+      "onboard_time": 1769763802,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 90077,
@@ -1531,14 +1579,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 84274,
-      "num": 81112,
-      "word": "成龙自曝有ADHD",
-      "onboard_time": 1769763022,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 84271,
       "num": 84271,
       "word": "BNCT技术已落地中国",
@@ -1571,6 +1611,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 83157,
+      "num": 83157,
+      "word": "注销手机号但绑定了太多东西怎么办",
+      "onboard_time": 1769763501,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 83150,
+      "num": 83150,
+      "word": "晚上10点睡和11点睡感觉真的不一样",
+      "onboard_time": 1769761282,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 82542,
       "num": 82542,
       "word": "中国电视剧年度盛典",
@@ -1593,14 +1649,6 @@
       "onboard_time": 1769753001,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 80874,
-      "num": 80874,
-      "word": "凤凰传奇一条微博两件大事",
-      "onboard_time": 1769763082,
-      "rank": 48,
-      "category": "演出"
     },
     {
       "raw_hot": 80846,
@@ -1811,8 +1859,16 @@
       "category": "数码"
     },
     {
+      "raw_hot": 67309,
+      "num": 97165,
+      "word": "陈丽君准不准 吴京你说呢",
+      "onboard_time": 1769762962,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 65569,
-      "num": 635170,
+      "num": 654802,
       "word": "智能穿戴千亿级赛道爆发",
       "onboard_time": 1769745141,
       "rank": 2,
@@ -1931,14 +1987,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 43198,
-      "num": 97165,
-      "word": "陈丽君准不准 吴京你说呢",
-      "onboard_time": 1769762962,
-      "rank": 37,
-      "category": "电影"
-    },
-    {
       "raw_hot": 42558,
       "num": 178468,
       "word": "杰我睿寄存的黄金或已被熔",
@@ -2043,6 +2091,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 27459,
+      "num": 238545,
+      "word": "浙江要求党政机关严控PPT制作使用",
+      "onboard_time": 1769762902,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27257,
       "num": 187279,
       "word": "吴磊说勇敢就要小牛一点",
@@ -2139,6 +2195,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 12342,
+      "num": 96863,
+      "word": "新任美联储主席人选曝光",
+      "onboard_time": 1769762902,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 12334,
       "num": 94834,
       "word": "台军新型无人机起飞5秒就坠毁",
@@ -2153,22 +2217,6 @@
       "onboard_time": 1769716094,
       "rank": 49,
       "category": "财经"
-    },
-    {
-      "raw_hot": 8847,
-      "num": 96863,
-      "word": "新任美联储主席人选曝光",
-      "onboard_time": 1769762902,
-      "rank": 38,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 7235,
-      "num": 137198,
-      "word": "浙江要求党政机关严控PPT制作使用",
-      "onboard_time": 1769762902,
-      "rank": 19,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
