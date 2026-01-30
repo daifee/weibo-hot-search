@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769759999506,
+  "endTime": 1769763151146,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -1057,6 +1057,14 @@
       "onboard_time": 1769497399,
       "rank": 5,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1295427,
+      "num": 254613,
+      "word": "关晓彤婉拒马上有对象",
+      "onboard_time": 1769761762,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1295224,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1768385181,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 912248,
-      "num": 247038,
-      "word": "曝杨紫每天都在很痛苦地减肥",
-      "onboard_time": 1768734922,
-      "rank": 22,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [

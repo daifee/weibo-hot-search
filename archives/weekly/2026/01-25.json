@@ -1,6 +1,6 @@
 {
   "startTime": 1769272464158,
-  "endTime": 1769759999506,
+  "endTime": 1769763151146,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -241,6 +241,14 @@
       "onboard_time": 1769497399,
       "rank": 5,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1295427,
+      "num": 254613,
+      "word": "关晓彤婉拒马上有对象",
+      "onboard_time": 1769761762,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1279260,
@@ -1299,6 +1307,14 @@
       "category": "科学科普,休闲"
     },
     {
+      "raw_hot": 528224,
+      "num": 289843,
+      "word": "黄金白银价格双双暴跌原因",
+      "onboard_time": 1769757740,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 527816,
       "num": 259609,
       "word": "向佐为郭碧婷买了个巨型猪公仔",
@@ -1465,6 +1481,14 @@
       "onboard_time": 1769325080,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 494258,
+      "num": 1079081,
+      "word": "任天堂在靖国神社教孩子玩牌",
+      "onboard_time": 1769760022,
+      "rank": 0,
+      "category": "国际时政,游戏"
     },
     {
       "raw_hot": 493738,
@@ -1664,6 +1688,14 @@
       "word": "那英说沈梦辰嫁给杜海涛眼光好",
       "onboard_time": 1769519781,
       "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 476536,
+      "num": 133633,
+      "word": "金晨被曝肇事逃逸被撞墙农户已获赔",
+      "onboard_time": 1769762062,
+      "rank": 22,
       "category": "艺人"
     },
     {
@@ -2105,6 +2137,14 @@
       "onboard_time": 1769441302,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 406932,
+      "num": 147212,
+      "word": "爸爸在家吸烟13岁女儿腹腔长满肿瘤",
+      "onboard_time": 1769759301,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 405907,
@@ -2571,6 +2611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 345773,
+      "num": 345773,
+      "word": "白银跌麻了",
+      "onboard_time": 1769762122,
+      "rank": 5,
+      "category": "财经"
+    },
+    {
       "raw_hot": 343671,
       "num": 343671,
       "word": "白鹿官宣王者荣耀",
@@ -3019,6 +3067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 315749,
+      "num": 315749,
+      "word": "这辈子卖得最后悔的一只狗",
+      "onboard_time": 1769755641,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 315373,
       "num": 117980,
       "word": "宋祖儿手臂和话筒一样细",
@@ -3244,7 +3300,7 @@
     },
     {
       "raw_hot": 297757,
-      "num": 297757,
+      "num": 372039,
       "word": "东京街头发生重大抢劫案",
       "onboard_time": 1769756842,
       "rank": 36,
@@ -4739,6 +4795,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 213578,
+      "num": 213578,
+      "word": "白鹿美得有点超过了",
+      "onboard_time": 1769761100,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 213505,
       "num": 138546,
       "word": "夜市偶遇虞书欣",
@@ -4777,6 +4841,14 @@
       "onboard_time": 1769436923,
       "rank": 3,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 211038,
+      "num": 770611,
+      "word": "生命树破平台招商记录",
+      "onboard_time": 1769760562,
+      "rank": 1,
+      "category": "剧集"
     },
     {
       "raw_hot": 210375,
@@ -5057,14 +5129,6 @@
       "onboard_time": 1769351604,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 194254,
-      "num": 168403,
-      "word": "这辈子卖得最后悔的一只狗",
-      "onboard_time": 1769755641,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 194126,
@@ -5803,6 +5867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 159256,
+      "num": 356525,
+      "word": "澳网",
+      "onboard_time": 1769567422,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 158611,
       "num": 158611,
       "word": "让白鹿戴抹额的人真是个天才",
@@ -6313,14 +6385,6 @@
       "onboard_time": 1769398642,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 147212,
-      "num": 147212,
-      "word": "爸爸在家吸烟13岁女儿腹腔长满肿瘤",
-      "onboard_time": 1769759301,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 147187,
@@ -7099,6 +7163,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 131216,
+      "num": 261986,
+      "word": "光遇",
+      "onboard_time": 1769762181,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 131127,
       "num": 131127,
       "word": "内娱最好笑的声明出现了",
@@ -7201,6 +7273,14 @@
       "onboard_time": 1769297837,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 129390,
+      "num": 129390,
+      "word": "王玉雯 假装车没停好听了两遍",
+      "onboard_time": 1769760202,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 129376,
@@ -7563,6 +7643,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 124194,
+      "num": 119275,
+      "word": "程潇富贵花",
+      "onboard_time": 1769760682,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 124173,
       "num": 124173,
       "word": "李铁等73人终身禁足",
@@ -7859,6 +7947,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 120270,
+      "num": 138041,
+      "word": "麦当劳小票怎么了",
+      "onboard_time": 1769760321,
+      "rank": 18,
+      "category": "美食"
+    },
+    {
       "raw_hot": 120043,
       "num": 120043,
       "word": "荣耀之战",
@@ -7985,14 +8081,6 @@
       "onboard_time": 1769494940,
       "rank": 40,
       "category": "演出"
-    },
-    {
-      "raw_hot": 118605,
-      "num": 289843,
-      "word": "黄金白银价格双双暴跌原因",
-      "onboard_time": 1769757740,
-      "rank": 42,
-      "category": "财经"
     },
     {
       "raw_hot": 118494,
@@ -8379,6 +8467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 114689,
+      "num": 114689,
+      "word": "主人笑了半天才请假回家",
+      "onboard_time": 1769762601,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 114482,
       "num": 114482,
       "word": "辛芷蕾涂口红这段是妈咪级别",
@@ -8683,6 +8779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 110773,
+      "num": 110773,
+      "word": "金饰报克价1400元半小时后涨价作废",
+      "onboard_time": 1769761580,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 110695,
       "num": 108900,
       "word": "那英华晨宇始终如一的魔丸味",
@@ -8721,14 +8825,6 @@
       "onboard_time": 1769314762,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 110058,
-      "num": 110058,
-      "word": "澳网",
-      "onboard_time": 1769567422,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 110036,
@@ -9540,7 +9636,7 @@
     },
     {
       "raw_hot": 103205,
-      "num": 135241,
+      "num": 257580,
       "word": "中共中央政治局1月30日召开会议",
       "onboard_time": 1769759301,
       "rank": 38,
@@ -9905,6 +10001,14 @@
       "onboard_time": 1769338160,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100499,
+      "num": 100499,
+      "word": "杨幂好长",
+      "onboard_time": 1769762781,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 100485,
@@ -10337,6 +10441,14 @@
       "onboard_time": 1769572102,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 97208,
+      "num": 97208,
+      "word": "原来维生素D缺乏容易长白头发",
+      "onboard_time": 1769762422,
+      "rank": 36,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 97194,
@@ -11049,6 +11161,14 @@
       "onboard_time": 1769268744,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 93308,
+      "num": 96247,
+      "word": "祝绪丹化最美的妆发最大的疯",
+      "onboard_time": 1769761461,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 93295,
@@ -12563,6 +12683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 84274,
+      "num": 81112,
+      "word": "成龙自曝有ADHD",
+      "onboard_time": 1769763022,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 84271,
       "num": 84271,
       "word": "BNCT技术已落地中国",
@@ -13049,6 +13177,14 @@
       "onboard_time": 1769511920,
       "rank": 42,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 80874,
+      "num": 80874,
+      "word": "凤凰传奇一条微博两件大事",
+      "onboard_time": 1769763082,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 80846,
@@ -14139,6 +14275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 74409,
+      "num": 81602,
+      "word": "洗衣机的快洗模式到底该怎么用",
+      "onboard_time": 1769761042,
+      "rank": 46,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 74404,
       "num": 74404,
       "word": "美国已有超7000架次航班被取消",
@@ -15036,7 +15180,7 @@
     },
     {
       "raw_hot": 65569,
-      "num": 630426,
+      "num": 635170,
       "word": "智能穿戴千亿级赛道爆发",
       "onboard_time": 1769745141,
       "rank": 2,
@@ -16201,6 +16345,14 @@
       "onboard_time": 1769677404,
       "rank": 20,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 43198,
+      "num": 97165,
+      "word": "陈丽君准不准 吴京你说呢",
+      "onboard_time": 1769762962,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 42880,
@@ -17611,6 +17763,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 21976,
+      "num": 96757,
+      "word": "企业家应该打造个人IP吗",
+      "onboard_time": 1769760082,
+      "rank": 39,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 21827,
       "num": 46937,
       "word": "女神蒙上眼",
@@ -18211,6 +18371,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 8847,
+      "num": 96863,
+      "word": "新任美联储主席人选曝光",
+      "onboard_time": 1769762902,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 8799,
       "num": 104703,
       "word": "6个关键词看以旧换新牵引产业提质升级",
@@ -18224,6 +18392,14 @@
       "word": "市政道路竣工2年多未交付",
       "onboard_time": 1769567659,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 7235,
+      "num": 137198,
+      "word": "浙江要求党政机关严控PPT制作使用",
+      "onboard_time": 1769762902,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
