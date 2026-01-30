@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/30 13:55:22
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/30 14:08:32
 </p>
 </blockquote>
 <p>
@@ -747,6 +747,12 @@ U23国足vs乌兹别克斯坦（热度：1464712）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E5%9B%9B%E8%91%AC%E7%A4%BC%23" target="weibo">
+赵四葬礼（热度：1374570）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9A%96%E9%98%B3%E9%93%A0FMVP%E7%9A%AE%E8%82%A4%23" target="weibo">
 暖阳铠FMVP皮肤（热度：1374474）
 </a>
@@ -941,12 +947,6 @@ woojin 塌房（热度：1279260）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23BLG%20Bin%23" target="weibo">
 BLG Bin（热度：1201960）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E5%9B%9B%E8%91%AC%E7%A4%BC%23" target="weibo">
-赵四葬礼（热度：1201358）
 </a>
 </li>
 

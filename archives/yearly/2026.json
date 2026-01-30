@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769752522042,
+  "endTime": 1769753312613,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -979,6 +979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1374570,
+      "num": 219503,
+      "word": "赵四葬礼",
+      "onboard_time": 1769749401,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1374474,
       "num": 1374474,
       "word": "暖阳铠FMVP皮肤",
@@ -1241,14 +1249,6 @@
       "onboard_time": 1769682144,
       "rank": 5,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 1201358,
-      "num": 216201,
-      "word": "赵四葬礼",
-      "onboard_time": 1769749401,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 1200620,

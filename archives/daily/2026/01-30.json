@@ -1,6 +1,6 @@
 {
   "startTime": 1769702505765,
-  "endTime": 1769752522042,
+  "endTime": 1769753312613,
   "band_list": [
     {
       "raw_hot": 3481750,
@@ -35,20 +35,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1374570,
+      "num": 219503,
+      "word": "赵四葬礼",
+      "onboard_time": 1769749401,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1241684,
       "num": 154906,
       "word": "金价暴涨第一批受害者出现",
       "onboard_time": 1769692584,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1201358,
-      "num": 216201,
-      "word": "赵四葬礼",
-      "onboard_time": 1769749401,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 1189524,
@@ -155,20 +155,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 517535,
+      "num": 190308,
+      "word": "章若楠这张脸杀疯了",
+      "onboard_time": 1769747002,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 492046,
       "num": 213373,
       "word": "有色",
       "onboard_time": 1769741420,
       "rank": 27,
       "category": "财经"
-    },
-    {
-      "raw_hot": 479880,
-      "num": 190308,
-      "word": "章若楠这张脸杀疯了",
-      "onboard_time": 1769747002,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 463313,
@@ -307,12 +307,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 326358,
+      "num": 782825,
+      "word": "生命树招商",
+      "onboard_time": 1769748682,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 320261,
       "num": 82254,
       "word": "特朗普宣布国家紧急状态",
       "onboard_time": 1769730980,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 317589,
+      "num": 317589,
+      "word": "丈夫去世妻子不知情婆家领走70万",
+      "onboard_time": 1769750782,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 316763,
@@ -331,14 +347,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 302693,
-      "num": 758925,
-      "word": "生命树招商",
-      "onboard_time": 1769748682,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 301436,
       "num": 192449,
       "word": "银价暴涨10倍带火CT废胶片",
@@ -348,7 +356,7 @@
     },
     {
       "raw_hot": 300588,
-      "num": 215600,
+      "num": 215859,
       "word": "黄金白银一跌再跌",
       "onboard_time": 1769746824,
       "rank": 44,
@@ -513,14 +521,6 @@
       "onboard_time": 1769728878,
       "rank": 31,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 197350,
-      "num": 197350,
-      "word": "丈夫去世妻子不知情婆家领走70万",
-      "onboard_time": 1769750782,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 193693,
@@ -691,6 +691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136114,
+      "num": 136114,
+      "word": "金瀚 欲感力",
+      "onboard_time": 1769751801,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 135212,
       "num": 135212,
       "word": "杨紫国色芳华包场生命树",
@@ -723,6 +731,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 125826,
+      "num": 125826,
+      "word": "河南一洗浴中心男子闯入女澡堂",
+      "onboard_time": 1769752222,
+      "rank": 43,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 125328,
       "num": 125328,
       "word": "金价大幅跳水后反弹",
@@ -739,8 +755,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 121528,
-      "num": 121528,
+      "raw_hot": 121940,
+      "num": 179088,
       "word": "弗拉格49分",
       "onboard_time": 1769750962,
       "rank": 31,
@@ -875,20 +891,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 108084,
+      "num": 108084,
+      "word": "蔡徐坤是在冰岛拍了部电影吗",
+      "onboard_time": 1769750001,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 107627,
       "num": 107627,
       "word": "孙卓坦言选择回家的原因",
       "onboard_time": 1769742741,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 107514,
-      "num": 96432,
-      "word": "蔡徐坤是在冰岛拍了部电影吗",
-      "onboard_time": 1769750001,
-      "rank": 35,
-      "category": "音乐"
     },
     {
       "raw_hot": 106281,
@@ -899,12 +915,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 105975,
-      "num": 96337,
-      "word": "金瀚 欲感力",
-      "onboard_time": 1769751801,
-      "rank": 36,
-      "category": "剧集"
+      "raw_hot": 105367,
+      "num": 105367,
+      "word": "袁娅维在美国唐人街偶遇周深",
+      "onboard_time": 1769753061,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 105075,
@@ -1067,6 +1083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 90034,
+      "num": 77559,
+      "word": "白鹿上一秒baby下一秒mommy",
+      "onboard_time": 1769753001,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 88698,
       "num": 88698,
       "word": "现货黄金失守5260美元",
@@ -1097,14 +1121,6 @@
       "onboard_time": 1769718913,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 86006,
-      "num": 86006,
-      "word": "河南一洗浴中心男子闯入女澡堂",
-      "onboard_time": 1769752222,
-      "rank": 43,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 85890,
@@ -1195,6 +1211,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 81295,
+      "num": 73494,
+      "word": "刘浩存嘉人二月刊封面",
+      "onboard_time": 1769753001,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 80846,
       "num": 80846,
       "word": "A股行情",
@@ -1275,6 +1299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 74011,
+      "num": 74011,
+      "word": "700元入手的黄金卖出狂赚八万多",
+      "onboard_time": 1769753001,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 72660,
       "num": 199975,
       "word": "特朗普最新回应美军机南海坠毁",
@@ -1305,6 +1337,14 @@
       "onboard_time": 1769744059,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 69671,
+      "num": 71006,
+      "word": "四川黄金第三大股东套现近1.8亿",
+      "onboard_time": 1769753121,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 67792,
@@ -1457,6 +1497,14 @@
       "onboard_time": 1769702662,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 38566,
+      "num": 78811,
+      "word": "无人驾驶真的比人更安全吗",
+      "onboard_time": 1769752880,
+      "rank": 39,
+      "category": "汽车"
     },
     {
       "raw_hot": 38043,
