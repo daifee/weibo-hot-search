@@ -1,6 +1,6 @@
 {
   "startTime": 1769791903074,
-  "endTime": 1769796028594,
+  "endTime": 1769799344330,
   "band_list": [
     {
       "raw_hot": 1880814,
@@ -427,6 +427,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 35342,
+      "num": 52554,
+      "word": "白银跌麻了",
+      "onboard_time": 1769762122,
+      "rank": 38,
+      "category": "财经"
+    },
+    {
       "raw_hot": 35272,
       "num": 52390,
       "word": "小城大事收视第一",
@@ -443,14 +451,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 31370,
-      "num": 52554,
-      "word": "白银跌麻了",
-      "onboard_time": 1769762122,
-      "rank": 38,
-      "category": "财经"
-    },
-    {
       "raw_hot": 28158,
       "num": 52439,
       "word": "500多天的刑案马拉松",
@@ -460,7 +460,7 @@
     },
     {
       "raw_hot": 27981,
-      "num": 42984,
+      "num": 48013,
       "word": "突然的喜欢",
       "onboard_time": 1769795597,
       "rank": 36,
@@ -468,11 +468,27 @@
     },
     {
       "raw_hot": 27872,
-      "num": 42971,
+      "num": 47995,
       "word": "京城大师赛",
       "onboard_time": 1769769386,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 24206,
+      "num": 48067,
+      "word": "博士生在意失联表弟赶赴当地",
+      "onboard_time": 1769796976,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23491,
+      "num": 48039,
+      "word": "张杰演唱会疑是银河落九天",
+      "onboard_time": 1769798295,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 22968,
@@ -483,10 +499,34 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 20709,
+      "num": 48005,
+      "word": "李现顶着韩商言的头像",
+      "onboard_time": 1769770825,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 19277,
       "num": 519873,
       "word": "中国风电硬核领跑全球",
       "onboard_time": 1769779823,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17085,
+      "num": 47947,
+      "word": "央视曝光网络车评乱象",
+      "onboard_time": 1769794217,
+      "rank": 42,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 15977,
+      "num": 91963,
+      "word": "冬天的亿种打开方式",
+      "onboard_time": 1769778983,
       "rank": 2,
       "category": "民生新闻"
     }

@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769796028594,
+  "endTime": 1769799344330,
   "band_list": [
     {
       "raw_hot": 22742360,
@@ -96171,6 +96171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 24206,
+      "num": 48067,
+      "word": "博士生在意失联表弟赶赴当地",
+      "onboard_time": 1769796976,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24203,
       "num": 120720,
       "word": "速览2026春运便民举措",
@@ -96433,6 +96441,14 @@
       "onboard_time": 1768568421,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23491,
+      "num": 48039,
+      "word": "张杰演唱会疑是银河落九天",
+      "onboard_time": 1769798295,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 23458,
@@ -98587,6 +98603,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 17085,
+      "num": 47947,
+      "word": "央视曝光网络车评乱象",
+      "onboard_time": 1769794217,
+      "rank": 42,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 17042,
       "num": 20878,
       "word": "龚俊花影浮动大片",
@@ -98849,6 +98873,14 @@
       "onboard_time": 1768023320,
       "rank": 19,
       "category": "舆论监督,体育"
+    },
+    {
+      "raw_hot": 15977,
+      "num": 91963,
+      "word": "冬天的亿种打开方式",
+      "onboard_time": 1769778983,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15957,
