@@ -1,6 +1,6 @@
 {
   "startTime": 1769791903074,
-  "endTime": 1769801948109,
+  "endTime": 1769802863038,
   "band_list": [
     {
       "raw_hot": 1880814,
@@ -219,6 +219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 76206,
+      "num": 76206,
+      "word": "博士生在意失联表弟赶赴当地",
+      "onboard_time": 1769796976,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 76043,
       "num": 86714,
       "word": "KPL 暂停",
@@ -256,14 +264,6 @@
       "word": "73岁男患者彩超报告显示宫内早孕",
       "onboard_time": 1769779521,
       "rank": 27,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 65863,
-      "num": 74106,
-      "word": "博士生在意失联表弟赶赴当地",
-      "onboard_time": 1769796976,
-      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -515,6 +515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 20186,
+      "num": 20186,
+      "word": "生命树震撼",
+      "onboard_time": 1769801895,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 19277,
       "num": 519873,
       "word": "中国风电硬核领跑全球",
@@ -523,11 +531,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 17756,
-      "num": 18001,
-      "word": "生命树震撼",
-      "onboard_time": 1769801895,
-      "rank": 36,
+      "raw_hot": 17453,
+      "num": 19232,
+      "word": "生命树群像",
+      "onboard_time": 1769802734,
+      "rank": 32,
       "category": "剧集"
     },
     {
@@ -548,7 +556,7 @@
     },
     {
       "raw_hot": 14059,
-      "num": 17994,
+      "num": 19218,
       "word": "有歌",
       "onboard_time": 1769795177,
       "rank": 44,

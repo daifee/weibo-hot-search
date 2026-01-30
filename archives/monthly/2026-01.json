@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769801948109,
+  "endTime": 1769802863038,
   "band_list": [
     {
       "raw_hot": 22742360,
@@ -78715,6 +78715,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 76206,
+      "num": 76206,
+      "word": "博士生在意失联表弟赶赴当地",
+      "onboard_time": 1769796976,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 76187,
       "num": 76187,
       "word": "朝九晚五其实是朝七晚六",
@@ -83537,14 +83545,6 @@
       "onboard_time": 1768556901,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 65863,
-      "num": 74106,
-      "word": "博士生在意失联表弟赶赴当地",
-      "onboard_time": 1769796976,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 65856,
@@ -97723,6 +97723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 20186,
+      "num": 20186,
+      "word": "生命树震撼",
+      "onboard_time": 1769801895,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 20154,
       "num": 64860,
       "word": "papi酱想象中的春晚导演",
@@ -98435,14 +98443,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 17756,
-      "num": 18001,
-      "word": "生命树震撼",
-      "onboard_time": 1769801895,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 17733,
       "num": 20008,
       "word": "黄明昊挑战自己做妆发",
@@ -98497,6 +98497,14 @@
       "onboard_time": 1768559961,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17453,
+      "num": 19232,
+      "word": "生命树群像",
+      "onboard_time": 1769802734,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 17392,

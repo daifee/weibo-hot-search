@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/25 00:34:24 ~ 2026/01/31 03:39:08
+本榜单时间：2026/01/25 00:34:24 ~ 2026/01/31 03:54:23
 </p>
 </blockquote>
 <p>
@@ -11337,6 +11337,12 @@ Faker质疑LCK杯赛制（热度：76331）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%9A%E5%A3%AB%E7%94%9F%E5%9C%A8%E6%84%8F%E5%A4%B1%E8%81%94%E8%A1%A8%E5%BC%9F%E8%B5%B6%E8%B5%B4%E5%BD%93%E5%9C%B0%23" target="weibo">
+博士生在意失联表弟赶赴当地（热度：76206）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E8%BD%AC%E5%AE%89%E5%8D%93%E6%9C%80%E9%9A%BE%E8%88%8D%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88%23" target="weibo">
 苹果转安卓最难舍的是什么（热度：76181）
 </a>
@@ -12257,12 +12263,6 @@ AI预测U23国足或爆冷夺冠（热度：68601）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E5%8F%88%E5%93%AD%E4%BA%86%23" target="weibo">
 黄子韬又哭了（热度：66159）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%9A%E5%A3%AB%E7%94%9F%E5%9C%A8%E6%84%8F%E5%A4%B1%E8%81%94%E8%A1%A8%E5%BC%9F%E8%B5%B6%E8%B5%B4%E5%BD%93%E5%9C%B0%23" target="weibo">
-博士生在意失联表弟赶赴当地（热度：65863）
 </a>
 </li>
 
@@ -14475,6 +14475,12 @@ TOP登陆少年将出席微博之夜（热度：20239）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%9F%E5%91%BD%E6%A0%91%E9%9C%87%E6%92%BC%23" target="weibo">
+生命树震撼（热度：20186）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23papi%E9%85%B1%E6%83%B3%E8%B1%A1%E4%B8%AD%E7%9A%84%E6%98%A5%E6%99%9A%E5%AF%BC%E6%BC%94%23" target="weibo">
 papi酱想象中的春晚导演（热度：20154）
 </a>
@@ -14577,14 +14583,14 @@ papi酱想象中的春晚导演（热度：20154）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%9F%E5%91%BD%E6%A0%91%E9%9C%87%E6%92%BC%23" target="weibo">
-生命树震撼（热度：17756）
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E6%96%B0%E6%98%A5%E5%9C%BA%E5%94%B1%E4%BA%86%E5%A5%BD%E5%A4%9A%E9%81%97%E7%8F%A0%23" target="weibo">
+张杰新春场唱了好多遗珠（热度：17674）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E6%96%B0%E6%98%A5%E5%9C%BA%E5%94%B1%E4%BA%86%E5%A5%BD%E5%A4%9A%E9%81%97%E7%8F%A0%23" target="weibo">
-张杰新春场唱了好多遗珠（热度：17674）
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%9F%E5%91%BD%E6%A0%91%E7%BE%A4%E5%83%8F%23" target="weibo">
+生命树群像（热度：17453）
 </a>
 </li>
 
