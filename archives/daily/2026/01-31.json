@@ -1,6 +1,6 @@
 {
   "startTime": 1769791903074,
-  "endTime": 1769792859229,
+  "endTime": 1769794880509,
   "band_list": [
     {
       "raw_hot": 1880814,
@@ -33,6 +33,14 @@
       "onboard_time": 1769786902,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 402163,
+      "num": 55360,
+      "word": "金晨助理已触及行政违法",
+      "onboard_time": 1769794517,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 375933,
@@ -340,7 +348,7 @@
     },
     {
       "raw_hot": 45299,
-      "num": 51781,
+      "num": 52330,
       "word": "手里捧着窝窝头的那一代又回来了",
       "onboard_time": 1769789900,
       "rank": 39,
@@ -403,8 +411,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 38907,
+      "num": 52760,
+      "word": "爷爷狱中病亡孙子考211为其翻案",
+      "onboard_time": 1769772803,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38843,
-      "num": 51751,
+      "num": 52370,
       "word": "KPL",
       "onboard_time": 1769772803,
       "rank": 43,
@@ -412,7 +428,7 @@
     },
     {
       "raw_hot": 35272,
-      "num": 51718,
+      "num": 52390,
       "word": "小城大事收视第一",
       "onboard_time": 1769775803,
       "rank": 47,
@@ -427,11 +443,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 34718,
-      "num": 51709,
-      "word": "爷爷狱中病亡孙子考211为其翻案",
-      "onboard_time": 1769772803,
-      "rank": 48,
+      "raw_hot": 31370,
+      "num": 52554,
+      "word": "白银跌麻了",
+      "onboard_time": 1769762122,
+      "rank": 38,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 28158,
+      "num": 52439,
+      "word": "500多天的刑案马拉松",
+      "onboard_time": 1769793317,
+      "rank": 44,
       "category": "民生新闻"
     },
     {

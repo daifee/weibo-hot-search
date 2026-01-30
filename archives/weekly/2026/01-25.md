@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/25 00:34:24 ~ 2026/01/31 01:07:39
+本榜单时间：2026/01/25 00:34:24 ~ 2026/01/31 01:41:20
 </p>
 </blockquote>
 <p>
@@ -1781,6 +1781,12 @@ Angelababy高定品牌创始人回应争议（热度：407616）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E8%83%BD%E9%9D%99%E5%89%AA%E4%BA%86%E5%8D%81%E5%B9%B4%E6%B2%A1%E5%89%AA%E7%9A%84%E6%96%9C%E5%88%98%E6%B5%B7%23" target="weibo">
 伊能静剪了十年没剪的斜刘海（热度：402340）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E5%8A%A9%E7%90%86%E5%B7%B2%E8%A7%A6%E5%8F%8A%E8%A1%8C%E6%94%BF%E8%BF%9D%E6%B3%95%23" target="weibo">
+金晨助理已触及行政违法（热度：402163）
 </a>
 </li>
 
@@ -13973,6 +13979,12 @@ TWS中文歌舞台（热度：30210）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E5%86%85%E9%98%81%E6%94%AF%E6%8C%81%E7%8E%87%E5%A4%A7%E5%B9%85%E4%B8%8B%E8%B7%8C10%25%23" target="weibo">
 高市内阁支持率大幅下跌10%（热度：28254）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23500%E5%A4%9A%E5%A4%A9%E7%9A%84%E5%88%91%E6%A1%88%E9%A9%AC%E6%8B%89%E6%9D%BE%23" target="weibo">
+500多天的刑案马拉松（热度：28158）
 </a>
 </li>
 
