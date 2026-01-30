@@ -1,6 +1,6 @@
 {
   "startTime": 1769702505765,
-  "endTime": 1769759397932,
+  "endTime": 1769759999506,
   "band_list": [
     {
       "raw_hot": 3481750,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2232636,
-      "num": 238410,
+      "num": 281203,
       "word": "交警否认网传金晨驾车监控信息",
       "onboard_time": 1769748682,
       "rank": 15,
@@ -99,6 +99,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 709327,
+      "num": 1094398,
+      "word": "网红周媛被立案调查",
+      "onboard_time": 1769758162,
+      "rank": 0,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 706941,
       "num": 181285,
       "word": "金晨父母拒回应金晨疑肇事逃逸",
@@ -131,20 +139,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 589991,
-      "num": 1094398,
-      "word": "网红周媛被立案调查",
-      "onboard_time": 1769758162,
-      "rank": 0,
-      "category": "民生新闻,网红"
-    },
-    {
       "raw_hot": 583149,
       "num": 703195,
       "word": "孙俪总台视后",
       "onboard_time": 1769696065,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 560442,
+      "num": 294216,
+      "word": "11名储户220万元存款被银行员工转走",
+      "onboard_time": 1769756900,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 553089,
@@ -180,19 +188,11 @@
     },
     {
       "raw_hot": 482233,
-      "num": 235315,
+      "num": 267883,
       "word": "王彦霖 眼袋上不封顶",
       "onboard_time": 1769753300,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 464370,
-      "num": 248615,
-      "word": "11名储户220万元存款被银行员工转走",
-      "onboard_time": 1769756900,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 463313,
@@ -235,6 +235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 440744,
+      "num": 269362,
+      "word": "瑶一瑶妈妈回应老师知道女儿是网红",
+      "onboard_time": 1769758042,
+      "rank": 13,
+      "category": "网红"
+    },
+    {
       "raw_hot": 434679,
       "num": 196675,
       "word": "Bin 主动道歉",
@@ -273,6 +281,14 @@
       "onboard_time": 1769731881,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 400284,
+      "num": 274134,
+      "word": "加拿大华裔14岁少女吸毒致死",
+      "onboard_time": 1769756420,
+      "rank": 40,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 396782,
@@ -315,14 +331,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 368701,
-      "num": 236814,
-      "word": "加拿大华裔14岁少女吸毒致死",
-      "onboard_time": 1769756420,
-      "rank": 40,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 368506,
       "num": 1058961,
       "word": "水贝一写字楼宣布封闭楼顶天台",
@@ -361,6 +369,14 @@
       "onboard_time": 1769697504,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 334538,
+      "num": 1053526,
+      "word": "夫妻用CT废胶片提炼白银超27斤",
+      "onboard_time": 1769756541,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 326358,
@@ -411,20 +427,28 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 298304,
+      "num": 160065,
+      "word": "金价28分钟内暴跌380美元",
+      "onboard_time": 1769754799,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 297757,
+      "num": 297757,
+      "word": "东京街头发生重大抢劫案",
+      "onboard_time": 1769756842,
+      "rank": 36,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 296042,
       "num": 519675,
       "word": "珠宝员工将12公斤黄金忘在高铁",
       "onboard_time": 1769745320,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 293478,
-      "num": 160065,
-      "word": "金价28分钟内暴跌380美元",
-      "onboard_time": 1769754799,
-      "rank": 31,
-      "category": "财经"
     },
     {
       "raw_hot": 291062,
@@ -443,14 +467,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 284175,
-      "num": 284175,
-      "word": "夫妻用CT废胶片提炼白银超27斤",
-      "onboard_time": 1769756541,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 279512,
       "num": 279512,
       "word": "成毅提胯走路太飒了",
@@ -467,14 +483,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 276859,
-      "num": 233741,
-      "word": "瑶一瑶妈妈回应老师知道女儿是网红",
-      "onboard_time": 1769758042,
-      "rank": 13,
-      "category": "网红"
-    },
-    {
       "raw_hot": 261962,
       "num": 261962,
       "word": "我使馆要求日方尽快破案",
@@ -484,7 +492,7 @@
     },
     {
       "raw_hot": 251010,
-      "num": 251010,
+      "num": 768690,
       "word": "甘肃白银3.6级地震",
       "onboard_time": 1769758580,
       "rank": 4,
@@ -545,14 +553,6 @@
       "onboard_time": 1769757021,
       "rank": 28,
       "category": "情感"
-    },
-    {
-      "raw_hot": 231500,
-      "num": 231500,
-      "word": "东京街头发生重大抢劫案",
-      "onboard_time": 1769756842,
-      "rank": 36,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 230545,
@@ -644,7 +644,7 @@
     },
     {
       "raw_hot": 197604,
-      "num": 148947,
+      "num": 154790,
       "word": "河南一洗浴中心男子闯入女澡堂",
       "onboard_time": 1769752222,
       "rank": 43,
@@ -747,6 +747,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 154724,
+      "num": 154724,
+      "word": "舒淇 张学友梦女",
+      "onboard_time": 1769758282,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 154506,
+      "num": 154506,
+      "word": "时代少年团痛包",
+      "onboard_time": 1769755760,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 151947,
       "num": 144289,
       "word": "时代少年团俄罗斯",
@@ -771,20 +787,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 148221,
-      "num": 148221,
-      "word": "时代少年团痛包",
-      "onboard_time": 1769755760,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 148094,
       "num": 77734,
       "word": "原来这就是父母的托举啊",
       "onboard_time": 1769728819,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 147212,
+      "num": 147212,
+      "word": "爸爸在家吸烟13岁女儿腹腔长满肿瘤",
+      "onboard_time": 1769759301,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 145653,
@@ -851,6 +867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 133369,
+      "num": 133369,
+      "word": "黄金暴跌有人已趁高位出手套现",
+      "onboard_time": 1769757320,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
       "raw_hot": 132085,
       "num": 132085,
       "word": "上班摸鱼接生了六胞胎",
@@ -873,14 +897,6 @@
       "onboard_time": 1769703021,
       "rank": 8,
       "category": "财经"
-    },
-    {
-      "raw_hot": 130465,
-      "num": 130465,
-      "word": "舒淇 张学友梦女",
-      "onboard_time": 1769758282,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 125328,
@@ -915,12 +931,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 118605,
+      "num": 289843,
+      "word": "黄金白银价格双双暴跌原因",
+      "onboard_time": 1769757740,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 118053,
       "num": 118053,
       "word": "不要用拍立得拍黑猫",
       "onboard_time": 1769741480,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 117790,
+      "num": 117790,
+      "word": "我买年货vs我妈买年货",
+      "onboard_time": 1769758884,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 117550,
@@ -1011,14 +1043,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 111100,
-      "num": 111100,
-      "word": "黄金暴跌有人已趁高位出手套现",
-      "onboard_time": 1769757320,
-      "rank": 31,
-      "category": "财经"
-    },
-    {
       "raw_hot": 110058,
       "num": 110058,
       "word": "澳网",
@@ -1049,6 +1073,14 @@
       "onboard_time": 1769682144,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 109000,
+      "num": 109000,
+      "word": "文学教授批言情作品毒害年轻女性",
+      "onboard_time": 1769756960,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 108378,
@@ -1105,6 +1137,14 @@
       "onboard_time": 1769744059,
       "rank": 38,
       "category": "海外新闻,游戏"
+    },
+    {
+      "raw_hot": 103205,
+      "num": 135241,
+      "word": "中共中央政治局1月30日召开会议",
+      "onboard_time": 1769759301,
+      "rank": 38,
+      "category": "国内时政"
     },
     {
       "raw_hot": 102800,
@@ -1187,6 +1227,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 99069,
+      "num": 99069,
+      "word": "男子买6元彩票喜中百万大奖",
+      "onboard_time": 1769759542,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 98674,
       "num": 98674,
       "word": "金价未来可能技术性回调",
@@ -1201,14 +1249,6 @@
       "onboard_time": 1769747902,
       "rank": 48,
       "category": "财经"
-    },
-    {
-      "raw_hot": 97520,
-      "num": 97520,
-      "word": "文学教授批言情作品毒害年轻女性",
-      "onboard_time": 1769756960,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 97502,
@@ -1241,14 +1281,6 @@
       "onboard_time": 1769753961,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 93036,
-      "num": 93036,
-      "word": "我买年货vs我妈买年货",
-      "onboard_time": 1769758884,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 92394,
@@ -1329,14 +1361,6 @@
       "onboard_time": 1769751082,
       "rank": 41,
       "category": "数码"
-    },
-    {
-      "raw_hot": 87082,
-      "num": 87082,
-      "word": "黄金白银价格双双暴跌原因",
-      "onboard_time": 1769757740,
-      "rank": 42,
-      "category": "财经"
     },
     {
       "raw_hot": 86334,
@@ -1483,12 +1507,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 79529,
+      "num": 79529,
+      "word": "内娱00花斩女款又上新了",
+      "onboard_time": 1769758941,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 79391,
       "num": 79391,
       "word": "六福珠宝涨价",
       "onboard_time": 1769757860,
       "rank": 46,
       "category": "财经"
+    },
+    {
+      "raw_hot": 78281,
+      "num": 240511,
+      "word": "莫斯科积雪到大腿了",
+      "onboard_time": 1769758342,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 78179,
@@ -1507,28 +1547,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 77465,
-      "num": 77465,
-      "word": "内娱00花斩女款又上新了",
-      "onboard_time": 1769758941,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 77331,
       "num": 77331,
       "word": "一夜之间黄金大跳水",
       "onboard_time": 1769740340,
       "rank": 48,
       "category": "财经"
-    },
-    {
-      "raw_hot": 76886,
-      "num": 76886,
-      "word": "爸爸在家吸烟13岁女儿腹腔长满肿瘤",
-      "onboard_time": 1769759301,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 75978,
@@ -1584,14 +1608,6 @@
       "word": "国防部回应第四艘航母建造进展",
       "onboard_time": 1769728999,
       "rank": 33,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 70980,
-      "num": 90133,
-      "word": "中共中央政治局1月30日召开会议",
-      "onboard_time": 1769759301,
-      "rank": 38,
       "category": "国内时政"
     },
     {
@@ -1681,14 +1697,6 @@
       "onboard_time": 1769721073,
       "rank": 26,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 56532,
-      "num": 240511,
-      "word": "莫斯科积雪到大腿了",
-      "onboard_time": 1769758342,
-      "rank": 9,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 56005,
@@ -1923,6 +1931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23833,
+      "num": 93286,
+      "word": "内娱苦全闭麦舞台久矣",
+      "onboard_time": 1769758820,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 23348,
       "num": 80693,
       "word": "中国宝宝有多幸福",
@@ -1961,14 +1977,6 @@
       "onboard_time": 1769716333,
       "rank": 45,
       "category": "财经"
-    },
-    {
-      "raw_hot": 13524,
-      "num": 89698,
-      "word": "内娱苦全闭麦舞台久矣",
-      "onboard_time": 1769758820,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 12334,
