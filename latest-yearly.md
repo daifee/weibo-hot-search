@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/30 11:13:15
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/30 12:48:03
 </p>
 </blockquote>
 <p>
@@ -969,6 +969,12 @@ MRC对战Gr（热度：1190595）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E9%80%83%E9%80%B8%E9%A1%B6%E5%8C%85%E4%BA%89%E8%AE%AE%E5%BA%94%E6%9C%89%E4%B8%AA%E6%98%8E%E7%99%BD%E8%AF%B4%E6%B3%95%23" target="weibo">
+金晨逃逸顶包争议应有个明白说法（热度：1189524）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BA%95%E6%8D%9E%20%E7%82%B9%E7%82%AE%E5%88%B6%E5%BA%A6%23" target="weibo">
 海底捞 点炮制度（热度：1184276）
 </a>
@@ -1805,12 +1811,6 @@ U23国足2比0越南（热度：940028）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AC%A2%E7%91%9E%E4%B8%96%E7%BA%AA%E5%A4%A7%E8%B7%8C%23" target="weibo">
 欢瑞世纪大跌（热度：904329）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%B8%80%E8%AF%BA%E7%9B%B4%E6%92%AD%E5%9B%9E%E5%BA%94%E5%92%8C%E6%AA%80%E5%81%A5%E6%AC%A1%E7%9A%84%E6%81%8B%E6%83%85%23" target="weibo">
-刘一诺直播回应和檀健次的恋情（热度：903109）
 </a>
 </li>
 

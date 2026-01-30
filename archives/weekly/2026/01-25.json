@@ -1,6 +1,6 @@
 {
   "startTime": 1769272464158,
-  "endTime": 1769742795453,
+  "endTime": 1769748483582,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -299,6 +299,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1189524,
+      "num": 167349,
+      "word": "金晨逃逸顶包争议应有个明白说法",
+      "onboard_time": 1769745381,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1183970,
       "num": 250226,
       "word": "乔任梁父亲回忆儿子出事当天",
@@ -561,6 +569,14 @@
       "onboard_time": 1769312660,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 834271,
+      "num": 166577,
+      "word": "黄金价格暴跌原因",
+      "onboard_time": 1769741060,
+      "rank": 28,
+      "category": "财经"
     },
     {
       "raw_hot": 832403,
@@ -1443,6 +1459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 492046,
+      "num": 163888,
+      "word": "有色",
+      "onboard_time": 1769741420,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 490676,
       "num": 460105,
       "word": "黄金白银基金暂停申购",
@@ -1635,6 +1659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 463313,
+      "num": 161474,
+      "word": "长期负面情绪会导致脑部生理性改变",
+      "onboard_time": 1769742260,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 460392,
       "num": 391761,
       "word": "高市早苗破防了",
@@ -1680,6 +1712,14 @@
       "word": "杨紫经常考虑叫胡歌哥还是胡哥",
       "onboard_time": 1769648839,
       "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 453505,
+      "num": 160643,
+      "word": "看肖战王彦霖懂了卧蚕和眼袋的区别",
+      "onboard_time": 1769742920,
+      "rank": 15,
       "category": "剧集"
     },
     {
@@ -1755,6 +1795,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 434093,
+      "num": 1069454,
+      "word": "宝可梦踩靖国神社红线不是初犯",
+      "onboard_time": 1769728339,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 433705,
       "num": 433705,
       "word": "u23国足半场0比2日本",
@@ -1809,6 +1857,14 @@
       "onboard_time": 1769344221,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 427481,
+      "num": 160165,
+      "word": "百万网红因罕见病被误解二十五年",
+      "onboard_time": 1769745141,
+      "rank": 16,
+      "category": "网红"
     },
     {
       "raw_hot": 427396,
@@ -2113,6 +2169,14 @@
       "onboard_time": 1769486781,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 387078,
+      "num": 158296,
+      "word": "周冬雨新综是来上情商课的吧",
+      "onboard_time": 1769743761,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 385349,
@@ -2891,6 +2955,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 310775,
+      "num": 159050,
+      "word": "iPhone18Pro或直连星链",
+      "onboard_time": 1769742139,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
       "raw_hot": 309950,
       "num": 203994,
       "word": "papi酱目前最大尺度嘉宾",
@@ -2921,14 +2993,6 @@
       "onboard_time": 1769409320,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 307355,
-      "num": 1041377,
-      "word": "宝可梦踩靖国神社红线不是初犯",
-      "onboard_time": 1769728339,
-      "rank": 4,
-      "category": "国内时政"
     },
     {
       "raw_hot": 307295,
@@ -3067,6 +3131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 295178,
+      "num": 519675,
+      "word": "珠宝员工将12公斤黄金忘在高铁",
+      "onboard_time": 1769745320,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 295119,
       "num": 600638,
       "word": "周大生店员反问顾客买得起吗",
@@ -3089,6 +3161,14 @@
       "onboard_time": 1769479939,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 292567,
+      "num": 792557,
+      "word": "好想来零食回应",
+      "onboard_time": 1769747243,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 292458,
@@ -4219,19 +4299,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 228403,
+      "num": 443700,
+      "word": "生命树",
+      "onboard_time": 1769355501,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 227834,
       "num": 173822,
       "word": "你是林雨申那他是谁",
       "onboard_time": 1769397140,
       "rank": 13,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 227524,
-      "num": 443700,
-      "word": "生命树",
-      "onboard_time": 1769355501,
-      "rank": 35,
       "category": "剧集"
     },
     {
@@ -4416,6 +4496,14 @@
       "word": "孙卓坦言不知父母寻亲的艰辛",
       "onboard_time": 1769732902,
       "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 217873,
+      "num": 673206,
+      "word": "74岁阿姨10年前10万买408克金条",
+      "onboard_time": 1769738900,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -5211,6 +5299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171681,
+      "num": 171681,
+      "word": "丧子丧偶阿姨又遭遇天价丧葬费",
+      "onboard_time": 1769744001,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 171617,
       "num": 137453,
       "word": "曝朱志鑫左航要上北电国际班",
@@ -5755,6 +5851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 152254,
+      "num": 152254,
+      "word": "现在的女团都发展成这样了吗",
+      "onboard_time": 1769746942,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 152245,
       "num": 152245,
       "word": "王真儿有罪之身是一番",
@@ -5864,14 +5968,6 @@
       "word": "金价暴涨对普通人的影响",
       "onboard_time": 1769697563,
       "rank": 28,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 149722,
-      "num": 149722,
-      "word": "有色",
-      "onboard_time": 1769741420,
-      "rank": 27,
       "category": "财经"
     },
     {
@@ -6019,14 +6115,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 146872,
-      "num": 146872,
-      "word": "黄金价格暴跌原因",
-      "onboard_time": 1769741060,
-      "rank": 28,
-      "category": "财经"
-    },
-    {
       "raw_hot": 146851,
       "num": 146851,
       "word": "国防部回应所谓击沉中国军舰动画",
@@ -6153,6 +6241,14 @@
       "onboard_time": 1769684303,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 144289,
+      "num": 144289,
+      "word": "时代少年团俄罗斯",
+      "onboard_time": 1769731401,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 143908,
@@ -6563,12 +6659,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 135212,
+      "num": 135212,
+      "word": "杨紫国色芳华包场生命树",
+      "onboard_time": 1769745080,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 134973,
       "num": 134973,
       "word": "新疆人发现了米饭的神仙吃法",
       "onboard_time": 1769609902,
       "rank": 23,
       "category": "美食"
+    },
+    {
+      "raw_hot": 134880,
+      "num": 134880,
+      "word": "章若楠这张脸杀疯了",
+      "onboard_time": 1769747002,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 134651,
@@ -6601,6 +6713,14 @@
       "onboard_time": 1769469378,
       "rank": 16,
       "category": "美食"
+    },
+    {
+      "raw_hot": 133834,
+      "num": 170039,
+      "word": "恋与深空",
+      "onboard_time": 1769743640,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 133489,
@@ -6881,6 +7001,14 @@
       "onboard_time": 1769423182,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 128936,
+      "num": 144393,
+      "word": "日本一年有532名中小学生自杀",
+      "onboard_time": 1769747360,
+      "rank": 32,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 128861,
@@ -7723,6 +7851,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 117528,
+      "num": 117528,
+      "word": "穆祉丞张峻豪合作",
+      "onboard_time": 1769747781,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 117468,
       "num": 100070,
       "word": "国际金银大跳水",
@@ -7960,6 +8096,14 @@
       "word": "辛芷蕾涂口红这段是妈咪级别",
       "onboard_time": 1769666003,
       "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 114467,
+      "num": 112634,
+      "word": "网传虞书欣何与二搭神仙肉",
+      "onboard_time": 1769743103,
+      "rank": 42,
       "category": "剧集"
     },
     {
@@ -8201,6 +8345,14 @@
       "onboard_time": 1769469438,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111663,
+      "num": 111663,
+      "word": "网友称刚买4克黄金跌没了",
+      "onboard_time": 1769743881,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 111480,
@@ -8523,6 +8675,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 107627,
+      "num": 107627,
+      "word": "孙卓坦言选择回家的原因",
+      "onboard_time": 1769742741,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107610,
       "num": 107610,
       "word": "澳网",
@@ -8699,6 +8859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 106281,
+      "num": 106281,
+      "word": "孙天宇 内娱天选马系艺人",
+      "onboard_time": 1769744781,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 106023,
       "num": 136673,
       "word": "头一次见国漫全明星走红毯",
@@ -8793,14 +8961,6 @@
       "onboard_time": 1769489841,
       "rank": 42,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 105381,
-      "num": 105381,
-      "word": "iPhone18Pro或直连星链",
-      "onboard_time": 1769742139,
-      "rank": 35,
-      "category": "数码"
     },
     {
       "raw_hot": 105330,
@@ -8979,14 +9139,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 103862,
-      "num": 673206,
-      "word": "74岁阿姨10年前10万买408克金条",
-      "onboard_time": 1769738900,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 103727,
       "num": 103727,
       "word": "剑网3",
@@ -9017,6 +9169,14 @@
       "onboard_time": 1769420181,
       "rank": 35,
       "category": "海外新闻,健康医疗"
+    },
+    {
+      "raw_hot": 103454,
+      "num": 118407,
+      "word": "宝可梦应道歉",
+      "onboard_time": 1769744059,
+      "rank": 38,
+      "category": "海外新闻,游戏"
     },
     {
       "raw_hot": 103405,
@@ -9235,6 +9395,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 102176,
+      "num": 102176,
+      "word": "GALA贪镀层被抓",
+      "onboard_time": 1769747962,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 102124,
       "num": 122155,
       "word": "范志毅谈U23国足对战日本队",
@@ -9281,14 +9449,6 @@
       "onboard_time": 1769310619,
       "rank": 32,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 101655,
-      "num": 101655,
-      "word": "孙卓坦言选择回家的原因",
-      "onboard_time": 1769742741,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 101541,
@@ -9571,6 +9731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99233,
+      "num": 99233,
+      "word": "也没人跟我说春联都难成这样了",
+      "onboard_time": 1769747482,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 99025,
       "num": 98163,
       "word": "秦牛正威转行酒吧主理人",
@@ -9699,6 +9867,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 98425,
+      "num": 98425,
+      "word": "今天刚上车1克黄金亏100多",
+      "onboard_time": 1769747902,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 98325,
       "num": 94592,
       "word": "我们的少年时代2角色",
@@ -9745,14 +9921,6 @@
       "onboard_time": 1769351541,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 97889,
-      "num": 97889,
-      "word": "长期负面情绪会导致脑部生理性改变",
-      "onboard_time": 1769742260,
-      "rank": 38,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 97673,
@@ -10697,14 +10865,6 @@
       "onboard_time": 1769518401,
       "rank": 33,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 91885,
-      "num": 91885,
-      "word": "时代少年团俄罗斯",
-      "onboard_time": 1769731401,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 91800,
@@ -11761,6 +11921,14 @@
       "onboard_time": 1769693245,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 85433,
+      "num": 117817,
+      "word": "脑机接口太炸裂了",
+      "onboard_time": 1769745682,
+      "rank": 39,
+      "category": "科学科普"
     },
     {
       "raw_hot": 85419,
@@ -14043,6 +14211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 69730,
+      "num": 155380,
+      "word": "关晓彤新年超美形象大片",
+      "onboard_time": 1769744059,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 69573,
       "num": 69573,
       "word": "妙可蓝多创始人柴琇被免职",
@@ -14321,6 +14497,14 @@
       "onboard_time": 1769320160,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 65569,
+      "num": 613008,
+      "word": "智能穿戴千亿级赛道爆发",
+      "onboard_time": 1769745141,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 65429,
@@ -15315,6 +15499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 46918,
+      "num": 154795,
+      "word": "不生孩子的韩国人花几千元送狗上学",
+      "onboard_time": 1769748260,
+      "rank": 25,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 46896,
       "num": 46896,
       "word": "本菲卡4比2皇马",
@@ -15649,6 +15841,14 @@
       "onboard_time": 1769311101,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40249,
+      "num": 156563,
+      "word": "1中国公民在日遭催泪瓦斯袭击",
+      "onboard_time": 1769748260,
+      "rank": 22,
+      "category": "国内时政"
     },
     {
       "raw_hot": 39986,
@@ -16193,6 +16393,14 @@
       "onboard_time": 1769655380,
       "rank": 38,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 31512,
+      "num": 159585,
+      "word": "和杨洋一起举杯",
+      "onboard_time": 1769746942,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 31424,
@@ -17510,6 +17718,9 @@
     },
     {
       "word": "#习近平会见英国首相#"
+    },
+    {
+      "word": "#读懂习近平的大历史观#"
     }
   ]
 }

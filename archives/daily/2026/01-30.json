@@ -1,6 +1,6 @@
 {
   "startTime": 1769702505765,
-  "endTime": 1769742795453,
+  "endTime": 1769748483582,
   "band_list": [
     {
       "raw_hot": 3481750,
@@ -35,6 +35,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1189524,
+      "num": 167349,
+      "word": "金晨逃逸顶包争议应有个明白说法",
+      "onboard_time": 1769745381,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1096464,
       "num": 210287,
       "word": "今日金价",
@@ -49,6 +57,14 @@
       "onboard_time": 1769741840,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 834271,
+      "num": 166577,
+      "word": "黄金价格暴跌原因",
+      "onboard_time": 1769741060,
+      "rank": 28,
+      "category": "财经"
     },
     {
       "raw_hot": 813553,
@@ -123,12 +139,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 492046,
+      "num": 163888,
+      "word": "有色",
+      "onboard_time": 1769741420,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 463313,
+      "num": 161474,
+      "word": "长期负面情绪会导致脑部生理性改变",
+      "onboard_time": 1769742260,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 457434,
       "num": 196938,
       "word": "男演员9公斤黄金400元每克卖出",
       "onboard_time": 1769689343,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 453505,
+      "num": 160643,
+      "word": "看肖战王彦霖懂了卧蚕和眼袋的区别",
+      "onboard_time": 1769742920,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 445660,
@@ -147,12 +187,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 434093,
+      "num": 1069454,
+      "word": "宝可梦踩靖国神社红线不是初犯",
+      "onboard_time": 1769728339,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 430351,
       "num": 430351,
       "word": "黄金跳水可以上车了吗",
       "onboard_time": 1769735421,
       "rank": 5,
       "category": "财经"
+    },
+    {
+      "raw_hot": 427481,
+      "num": 160165,
+      "word": "百万网红因罕见病被误解二十五年",
+      "onboard_time": 1769745141,
+      "rank": 16,
+      "category": "网红"
     },
     {
       "raw_hot": 414659,
@@ -169,6 +225,14 @@
       "onboard_time": 1769739620,
       "rank": 19,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 387078,
+      "num": 158296,
+      "word": "周冬雨新综是来上情商课的吧",
+      "onboard_time": 1769743761,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 369522,
@@ -227,12 +291,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 307355,
-      "num": 1041377,
-      "word": "宝可梦踩靖国神社红线不是初犯",
-      "onboard_time": 1769728339,
-      "rank": 4,
-      "category": "国内时政"
+      "raw_hot": 310775,
+      "num": 159050,
+      "word": "iPhone18Pro或直连星链",
+      "onboard_time": 1769742139,
+      "rank": 35,
+      "category": "数码"
     },
     {
       "raw_hot": 301436,
@@ -241,6 +305,22 @@
       "onboard_time": 1769700562,
       "rank": 15,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 295178,
+      "num": 519675,
+      "word": "珠宝员工将12公斤黄金忘在高铁",
+      "onboard_time": 1769745320,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 292567,
+      "num": 792557,
+      "word": "好想来零食回应",
+      "onboard_time": 1769747243,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 285701,
@@ -315,6 +395,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 228403,
+      "num": 228403,
+      "word": "生命树",
+      "onboard_time": 1769746581,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 221854,
       "num": 93722,
       "word": "华熙生物董事长回应让人活到120岁",
@@ -336,6 +424,14 @@
       "word": "孙卓坦言不知父母寻亲的艰辛",
       "onboard_time": 1769732902,
       "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 217873,
+      "num": 673206,
+      "word": "74岁阿姨10年前10万买408克金条",
+      "onboard_time": 1769738900,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -403,6 +499,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 171681,
+      "num": 171681,
+      "word": "丧子丧偶阿姨又遭遇天价丧葬费",
+      "onboard_time": 1769744001,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 161716,
+      "num": 161716,
+      "word": "微博之夜",
+      "onboard_time": 1769734341,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 159675,
       "num": 159675,
       "word": "200多克黄金不当面接收快递小哥报警",
@@ -435,6 +547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 152254,
+      "num": 152254,
+      "word": "现在的女团都发展成这样了吗",
+      "onboard_time": 1769746942,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 151468,
       "num": 101457,
       "word": "沈佳润把照片做成了牛仔裤挂饰",
@@ -451,14 +571,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 149722,
-      "num": 149722,
-      "word": "有色",
-      "onboard_time": 1769741420,
-      "rank": 27,
-      "category": "财经"
-    },
-    {
       "raw_hot": 148094,
       "num": 77734,
       "word": "原来这就是父母的托举啊",
@@ -467,20 +579,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 146872,
-      "num": 146872,
-      "word": "黄金价格暴跌原因",
-      "onboard_time": 1769741060,
-      "rank": 28,
-      "category": "财经"
-    },
-    {
       "raw_hot": 145653,
       "num": 145653,
       "word": "邻居楼道放鞋架女子挂婆婆遗照反击",
       "onboard_time": 1769695944,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144289,
+      "num": 144289,
+      "word": "时代少年团俄罗斯",
+      "onboard_time": 1769731401,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 140475,
@@ -507,6 +619,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 135212,
+      "num": 135212,
+      "word": "杨紫国色芳华包场生命树",
+      "onboard_time": 1769745080,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 134880,
+      "num": 134880,
+      "word": "章若楠这张脸杀疯了",
+      "onboard_time": 1769747002,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 133834,
+      "num": 170039,
+      "word": "恋与深空",
+      "onboard_time": 1769743640,
+      "rank": 9,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 131765,
       "num": 131765,
       "word": "郭京飞总台视帝",
@@ -521,6 +657,14 @@
       "onboard_time": 1769703021,
       "rank": 8,
       "category": "财经"
+    },
+    {
+      "raw_hot": 128936,
+      "num": 144393,
+      "word": "日本一年有532名中小学生自杀",
+      "onboard_time": 1769747360,
+      "rank": 32,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 125328,
@@ -555,6 +699,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 117528,
+      "num": 117528,
+      "word": "穆祉丞张峻豪合作",
+      "onboard_time": 1769747781,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 117468,
       "num": 100070,
       "word": "国际金银大跳水",
@@ -571,6 +723,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 114467,
+      "num": 112634,
+      "word": "网传虞书欣何与二搭神仙肉",
+      "onboard_time": 1769743103,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 113092,
       "num": 113092,
       "word": "王者荣耀",
@@ -585,6 +745,14 @@
       "onboard_time": 1769699123,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 111663,
+      "num": 111663,
+      "word": "网友称刚买4克黄金跌没了",
+      "onboard_time": 1769743881,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 109957,
@@ -619,12 +787,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 105381,
-      "num": 105381,
-      "word": "iPhone18Pro或直连星链",
-      "onboard_time": 1769742139,
-      "rank": 35,
-      "category": "数码"
+      "raw_hot": 107627,
+      "num": 107627,
+      "word": "孙卓坦言选择回家的原因",
+      "onboard_time": 1769742741,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 106281,
+      "num": 106281,
+      "word": "孙天宇 内娱天选马系艺人",
+      "onboard_time": 1769744781,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 105075,
@@ -635,12 +811,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 103862,
-      "num": 673206,
-      "word": "74岁阿姨10年前10万买408克金条",
-      "onboard_time": 1769738900,
-      "rank": 35,
-      "category": "民生新闻"
+      "raw_hot": 103454,
+      "num": 118407,
+      "word": "宝可梦应道歉",
+      "onboard_time": 1769744059,
+      "rank": 38,
+      "category": "海外新闻,游戏"
     },
     {
       "raw_hot": 102800,
@@ -651,19 +827,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 102176,
+      "num": 102176,
+      "word": "GALA贪镀层被抓",
+      "onboard_time": 1769747962,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 101790,
       "num": 99466,
       "word": "婚礼现场婆婆和亲妈撞脸惊呆宾客",
       "onboard_time": 1769699784,
       "rank": 40,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 101655,
-      "num": 101655,
-      "word": "孙卓坦言选择回家的原因",
-      "onboard_time": 1769742741,
-      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -683,6 +859,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 99233,
+      "num": 99233,
+      "word": "也没人跟我说春联都难成这样了",
+      "onboard_time": 1769747482,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 98674,
       "num": 98674,
       "word": "金价未来可能技术性回调",
@@ -691,12 +875,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 97889,
-      "num": 97889,
-      "word": "长期负面情绪会导致脑部生理性改变",
-      "onboard_time": 1769742260,
-      "rank": 38,
-      "category": "健康医疗"
+      "raw_hot": 98425,
+      "num": 98425,
+      "word": "今天刚上车1克黄金亏100多",
+      "onboard_time": 1769747902,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 97502,
@@ -723,14 +907,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 91885,
-      "num": 91885,
-      "word": "时代少年团俄罗斯",
-      "onboard_time": 1769731401,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 91182,
       "num": 109168,
       "word": "早睡觉可解决80%以上的问题",
@@ -755,14 +931,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 88626,
-      "num": 88626,
-      "word": "微博之夜",
-      "onboard_time": 1769734341,
-      "rank": 43,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 86334,
       "num": 86334,
       "word": "主治医生哭着说已想尽办法留住豪豪",
@@ -785,6 +953,14 @@
       "onboard_time": 1769702901,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 85433,
+      "num": 117817,
+      "word": "脑机接口太炸裂了",
+      "onboard_time": 1769745682,
+      "rank": 39,
+      "category": "科学科普"
     },
     {
       "raw_hot": 85392,
@@ -939,6 +1115,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 69730,
+      "num": 155380,
+      "word": "关晓彤新年超美形象大片",
+      "onboard_time": 1769744059,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 65569,
+      "num": 613008,
+      "word": "智能穿戴千亿级赛道爆发",
+      "onboard_time": 1769745141,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 64249,
       "num": 60049,
       "word": "小S真的生了一个林志玲出来",
@@ -1019,6 +1211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 46918,
+      "num": 154795,
+      "word": "不生孩子的韩国人花几千元送狗上学",
+      "onboard_time": 1769748260,
+      "rank": 25,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 44643,
       "num": 179343,
       "word": "中国网民要求宝可梦明确回应",
@@ -1041,6 +1241,14 @@
       "onboard_time": 1769696485,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 40249,
+      "num": 156563,
+      "word": "1中国公民在日遭催泪瓦斯袭击",
+      "onboard_time": 1769748260,
+      "rank": 22,
+      "category": "国内时政"
     },
     {
       "raw_hot": 39986,
@@ -1088,6 +1296,14 @@
       "word": "王俊凯的自拍角度",
       "onboard_time": 1769685624,
       "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 31512,
+      "num": 159585,
+      "word": "和杨洋一起举杯",
+      "onboard_time": 1769746942,
+      "rank": 17,
       "category": "艺人"
     },
     {
@@ -1201,6 +1417,9 @@
     },
     {
       "word": "#中英两国合作一定能一马当先#"
+    },
+    {
+      "word": "#读懂习近平的大历史观#"
     }
   ]
 }
