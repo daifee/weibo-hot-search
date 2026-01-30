@@ -1,6 +1,6 @@
 {
   "startTime": 1769702505765,
-  "endTime": 1769769832960,
+  "endTime": 1769771021827,
   "band_list": [
     {
       "raw_hot": 22742360,
@@ -59,7 +59,7 @@
       "category": "财经"
     },
     {
-      "raw_hot": 1774274,
+      "raw_hot": 1851145,
       "num": 1774274,
       "word": "金晨鼻子",
       "onboard_time": 1769768847,
@@ -699,6 +699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 234821,
+      "num": 2955330,
+      "word": "黄金从被抢空到暴跌仅用3天",
+      "onboard_time": 1769767647,
+      "rank": 7,
+      "category": "财经"
+    },
+    {
       "raw_hot": 232543,
       "num": 232543,
       "word": "A股",
@@ -803,6 +811,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 207980,
+      "num": 192813,
+      "word": "六点半下班真的好残忍啊",
+      "onboard_time": 1769767766,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 202462,
       "num": 251680,
       "word": "金饰报克价1400元半小时后涨价作废",
@@ -859,14 +875,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 192813,
-      "num": 192813,
-      "word": "六点半下班真的好残忍啊",
-      "onboard_time": 1769767766,
-      "rank": 28,
-      "category": "情感"
-    },
-    {
       "raw_hot": 187867,
       "num": 148518,
       "word": "专家称黄金还没涨到最高",
@@ -921,14 +929,6 @@
       "onboard_time": 1769746942,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 170881,
-      "num": 2955330,
-      "word": "黄金从被抢空到暴跌仅用3天",
-      "onboard_time": 1769767647,
-      "rank": 7,
-      "category": "财经"
     },
     {
       "raw_hot": 159675,
@@ -1043,6 +1043,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 141001,
+      "num": 141001,
+      "word": "麦当劳新包装被吐槽诡异",
+      "onboard_time": 1769769445,
+      "rank": 48,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 140718,
       "num": 144393,
       "word": "日本一年有532名中小学生自杀",
@@ -1083,6 +1091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 136268,
+      "num": 2393363,
+      "word": "28岁博士生在意失联10天家属发声",
+      "onboard_time": 1769766686,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 136114,
       "num": 136114,
       "word": "金瀚 欲感力",
@@ -1097,6 +1113,14 @@
       "onboard_time": 1769745080,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 134925,
+      "num": 134925,
+      "word": "工商银行公告",
+      "onboard_time": 1769769687,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 133369,
@@ -1139,7 +1163,7 @@
       "category": "财经"
     },
     {
-      "raw_hot": 129930,
+      "raw_hot": 130444,
       "num": 2784065,
       "word": "京城大师赛",
       "onboard_time": 1769769386,
@@ -1169,14 +1193,6 @@
       "onboard_time": 1769730019,
       "rank": 25,
       "category": "财经"
-    },
-    {
-      "raw_hot": 124693,
-      "num": 2393363,
-      "word": "28岁博士生在意失联10天家属发声",
-      "onboard_time": 1769766686,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 124690,
@@ -1209,6 +1225,14 @@
       "onboard_time": 1769750962,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 121437,
+      "num": 116464,
+      "word": "李白KPL上场",
+      "onboard_time": 1769770525,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 120270,
@@ -1323,6 +1347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 113156,
+      "num": 119213,
+      "word": "元梦之星",
+      "onboard_time": 1769769925,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 113092,
       "num": 113092,
       "word": "王者荣耀",
@@ -1428,7 +1460,7 @@
     },
     {
       "raw_hot": 107514,
-      "num": 97435,
+      "num": 117130,
       "word": "张译任黑龙江省政协委员",
       "onboard_time": 1769767887,
       "rank": 40,
@@ -1465,6 +1497,14 @@
       "onboard_time": 1769765421,
       "rank": 42,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 103467,
+      "num": 119135,
+      "word": "夫妻闹离婚2岁孩子被丢法院一夜",
+      "onboard_time": 1769769746,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 103454,
@@ -1587,6 +1627,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 99461,
+      "num": 118907,
+      "word": "28岁博士生在意失联父母一夜白头",
+      "onboard_time": 1769770642,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99233,
       "num": 99233,
       "word": "也没人跟我说春联都难成这样了",
@@ -1636,7 +1684,7 @@
     },
     {
       "raw_hot": 97033,
-      "num": 97033,
+      "num": 116246,
       "word": "亲戚以为我住老房子很惨",
       "onboard_time": 1769767827,
       "rank": 41,
@@ -1689,6 +1737,14 @@
       "onboard_time": 1769761461,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 93277,
+      "num": 83748,
+      "word": "李现顶着韩商言的头像",
+      "onboard_time": 1769770825,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 93181,
@@ -1747,14 +1803,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 90133,
-      "num": 90133,
-      "word": "工商银行公告",
-      "onboard_time": 1769769687,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 90077,
       "num": 90077,
       "word": "相亲点餐8000元女子要求婚介付",
@@ -1777,14 +1825,6 @@
       "onboard_time": 1769742080,
       "rank": 42,
       "category": "财经"
-    },
-    {
-      "raw_hot": 88612,
-      "num": 88612,
-      "word": "麦当劳新包装被吐槽诡异",
-      "onboard_time": 1769769445,
-      "rank": 48,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 88356,
@@ -1883,6 +1923,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 83814,
+      "num": 83814,
+      "word": "LGDNBW春季赛首胜",
+      "onboard_time": 1769770464,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 83586,
       "num": 83586,
       "word": "水贝黄金料商跑路潮",
@@ -1937,6 +1985,14 @@
       "onboard_time": 1769741781,
       "rank": 40,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 81875,
+      "num": 83685,
+      "word": "WB对战情久",
+      "onboard_time": 1769770165,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 81295,
@@ -2033,6 +2089,14 @@
       "onboard_time": 1769704759,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 77901,
+      "num": 116199,
+      "word": "怀孕3个月女儿离家出走妈妈急哭",
+      "onboard_time": 1769770944,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 77331,
@@ -2267,6 +2331,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 47608,
+      "num": 116168,
+      "word": "宝可梦挣中国人的钱伤中国人的心",
+      "onboard_time": 1769769865,
+      "rank": 38,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 47371,
       "num": 47371,
       "word": "女子买泡面开出1克金条",
@@ -2281,6 +2353,14 @@
       "onboard_time": 1769690543,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 47050,
+      "num": 115972,
+      "word": "男子买252元彩票中1004万",
+      "onboard_time": 1769769746,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 46026,
@@ -2311,6 +2391,14 @@
       "num": 178468,
       "word": "杰我睿寄存的黄金或已被熔",
       "onboard_time": 1769751501,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42514,
+      "num": 118747,
+      "word": "女子立遗嘱让朋友养女儿被前夫告",
+      "onboard_time": 1769770105,
       "rank": 19,
       "category": "民生新闻"
     },
@@ -2379,14 +2467,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 36277,
-      "num": 98583,
-      "word": "男子买252元彩票中1004万",
-      "onboard_time": 1769769746,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 35177,
       "num": 88399,
       "word": "小乐 帮队友卖就行了",
@@ -2409,14 +2489,6 @@
       "onboard_time": 1769685624,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 33723,
-      "num": 100052,
-      "word": "夫妻闹离婚2岁孩子被丢法院一夜",
-      "onboard_time": 1769769746,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 31512,
@@ -2555,6 +2627,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 13219,
+      "num": 116152,
+      "word": "贵州一班主任组织学生晚自习煮火锅",
+      "onboard_time": 1769770405,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 12342,
       "num": 96863,
       "word": "新任美联储主席人选曝光",
@@ -2577,6 +2657,14 @@
       "onboard_time": 1769716094,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 4072,
+      "num": 116214,
+      "word": "BLG对战TES",
+      "onboard_time": 1769770825,
+      "rank": 36,
+      "category": "电竞"
     }
   ],
   "hotgov_list": [

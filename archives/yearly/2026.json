@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769769832960,
+  "endTime": 1769771021827,
   "band_list": [
     {
       "raw_hot": 22742360,
@@ -619,6 +619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1851145,
+      "num": 1774274,
+      "word": "金晨鼻子",
+      "onboard_time": 1769768847,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1839108,
       "num": 599158,
       "word": "肯德基崩了",
@@ -649,14 +657,6 @@
       "onboard_time": 1769250741,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1774274,
-      "num": 1774274,
-      "word": "金晨鼻子",
-      "onboard_time": 1769768847,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 1765303,

@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769769832960,
+  "endTime": 1769771021827,
   "band_list": [
     {
       "raw_hot": 22742360,
@@ -619,6 +619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1851145,
+      "num": 1774274,
+      "word": "金晨鼻子",
+      "onboard_time": 1769768847,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1839108,
       "num": 599158,
       "word": "肯德基崩了",
@@ -649,14 +657,6 @@
       "onboard_time": 1769250741,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1774274,
-      "num": 1774274,
-      "word": "金晨鼻子",
-      "onboard_time": 1769768847,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 1765303,
@@ -22659,6 +22659,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 234821,
+      "num": 2955330,
+      "word": "黄金从被抢空到暴跌仅用3天",
+      "onboard_time": 1769767647,
+      "rank": 7,
+      "category": "财经"
+    },
+    {
       "raw_hot": 234802,
       "num": 219916,
       "word": "年少有为定档",
@@ -25675,6 +25683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 207980,
+      "num": 192813,
+      "word": "六点半下班真的好残忍啊",
+      "onboard_time": 1769767766,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 207847,
       "num": 289206,
       "word": "格陵兰岛居民说给钱也不加入美国",
@@ -28201,14 +28217,6 @@
       "onboard_time": 1767795084,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 192813,
-      "num": 192813,
-      "word": "六点半下班真的好残忍啊",
-      "onboard_time": 1769767766,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 192802,
@@ -32241,14 +32249,6 @@
       "onboard_time": 1769746942,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 170881,
-      "num": 2955330,
-      "word": "黄金从被抢空到暴跌仅用3天",
-      "onboard_time": 1769767647,
-      "rank": 7,
-      "category": "财经"
     },
     {
       "raw_hot": 170875,
@@ -39811,6 +39811,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 141001,
+      "num": 141001,
+      "word": "麦当劳新包装被吐槽诡异",
+      "onboard_time": 1769769445,
+      "rank": 48,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 140985,
       "num": 140985,
       "word": "逛完水贝才明白什么叫聪明买金",
@@ -41371,6 +41379,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 136268,
+      "num": 2393363,
+      "word": "28岁博士生在意失联10天家属发声",
+      "onboard_time": 1769766686,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 136266,
       "num": 136266,
       "word": "欧阳娜娜首次杏鲍菇系穿搭",
@@ -41936,6 +41952,14 @@
       "word": "黑白颠周媛付费课收入已超2400万",
       "onboard_time": 1769008401,
       "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 134925,
+      "num": 134925,
+      "word": "工商银行公告",
+      "onboard_time": 1769769687,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -45883,14 +45907,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 124693,
-      "num": 2393363,
-      "word": "28岁博士生在意失联10天家属发声",
-      "onboard_time": 1769766686,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 124690,
       "num": 2288613,
       "word": "生命树破平台招商纪录",
@@ -47360,6 +47376,14 @@
       "word": "drg对战estar",
       "onboard_time": 1768634781,
       "rank": 40,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 121437,
+      "num": 116464,
+      "word": "李白KPL上场",
+      "onboard_time": 1769770525,
+      "rank": 32,
       "category": "电竞"
     },
     {
@@ -51667,6 +51691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 113156,
+      "num": 119213,
+      "word": "元梦之星",
+      "onboard_time": 1769769925,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 113155,
       "num": 113155,
       "word": "蒲熠星连续两年加盟最强大脑",
@@ -54444,7 +54476,7 @@
     },
     {
       "raw_hot": 107514,
-      "num": 97435,
+      "num": 117130,
       "word": "张译任黑龙江省政协委员",
       "onboard_time": 1769767887,
       "rank": 40,
@@ -57177,6 +57209,14 @@
       "onboard_time": 1769765421,
       "rank": 42,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 103467,
+      "num": 119135,
+      "word": "夫妻闹离婚2岁孩子被丢法院一夜",
+      "onboard_time": 1769769746,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 103461,
@@ -59979,6 +60019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 99461,
+      "num": 118907,
+      "word": "28岁博士生在意失联父母一夜白头",
+      "onboard_time": 1769770642,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99457,
       "num": 99457,
       "word": "减肥药价格最低降至81元一针",
@@ -61852,7 +61900,7 @@
     },
     {
       "raw_hot": 97033,
-      "num": 97033,
+      "num": 116246,
       "word": "亲戚以为我住老房子很惨",
       "onboard_time": 1769767827,
       "rank": 41,
@@ -64891,6 +64939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 93277,
+      "num": 83748,
+      "word": "李现顶着韩商言的头像",
+      "onboard_time": 1769770825,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 93268,
       "num": 236629,
       "word": "LVMonogram130周年了",
@@ -67459,14 +67515,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 90133,
-      "num": 90133,
-      "word": "工商银行公告",
-      "onboard_time": 1769769687,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 90128,
       "num": 90128,
       "word": "阿尔瓦塞特3比2皇马",
@@ -68585,14 +68633,6 @@
       "onboard_time": 1768824921,
       "rank": 40,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 88612,
-      "num": 88612,
-      "word": "麦当劳新包装被吐槽诡异",
-      "onboard_time": 1769769445,
-      "rank": 48,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 88609,
@@ -72779,6 +72819,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 83814,
+      "num": 83814,
+      "word": "LGDNBW春季赛首胜",
+      "onboard_time": 1769770464,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 83795,
       "num": 83795,
       "word": "越长大越害怕过年了",
@@ -74113,6 +74161,14 @@
       "onboard_time": 1768030339,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 81875,
+      "num": 83685,
+      "word": "WB对战情久",
+      "onboard_time": 1769770165,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 81866,
@@ -76937,6 +76993,14 @@
       "onboard_time": 1767608662,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 77901,
+      "num": 116199,
+      "word": "怀孕3个月女儿离家出走妈妈急哭",
+      "onboard_time": 1769770944,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 77869,
@@ -88179,6 +88243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 47608,
+      "num": 116168,
+      "word": "宝可梦挣中国人的钱伤中国人的心",
+      "onboard_time": 1769769865,
+      "rank": 38,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 47573,
       "num": 224900,
       "word": "鸿蒙智行2025全年交付589107台",
@@ -88353,6 +88425,14 @@
       "onboard_time": 1767254780,
       "rank": 19,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 47050,
+      "num": 115972,
+      "word": "男子买252元彩票中1004万",
+      "onboard_time": 1769769746,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 46947,
@@ -89561,6 +89641,14 @@
       "onboard_time": 1768115182,
       "rank": 17,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 42514,
+      "num": 118747,
+      "word": "女子立遗嘱让朋友养女儿被前夫告",
+      "onboard_time": 1769770105,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 42440,
@@ -91531,14 +91619,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 36277,
-      "num": 98583,
-      "word": "男子买252元彩票中1004万",
-      "onboard_time": 1769769746,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 36275,
       "num": 1020369,
       "word": "人人人人人人深圳人人人人人人",
@@ -92329,14 +92409,6 @@
       "onboard_time": 1767590061,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 33723,
-      "num": 100052,
-      "word": "夫妻闹离婚2岁孩子被丢法院一夜",
-      "onboard_time": 1769769746,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 33705,
@@ -98507,6 +98579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 13219,
+      "num": 116152,
+      "word": "贵州一班主任组织学生晚自习煮火锅",
+      "onboard_time": 1769770405,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 13184,
       "num": 138650,
       "word": "人民日报钟声三问日本",
@@ -99225,6 +99305,14 @@
       "onboard_time": 1768898423,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 4072,
+      "num": 116214,
+      "word": "BLG对战TES",
+      "onboard_time": 1769770825,
+      "rank": 36,
+      "category": "电竞"
     }
   ],
   "hotgov_list": [

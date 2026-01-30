@@ -1,6 +1,6 @@
 {
   "startTime": 1769272464158,
-  "endTime": 1769769832960,
+  "endTime": 1769771021827,
   "band_list": [
     {
       "raw_hot": 22742360,
@@ -171,19 +171,19 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1851145,
+      "num": 1774274,
+      "word": "金晨鼻子",
+      "onboard_time": 1769768847,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1823580,
       "num": 211879,
       "word": "小S真的生了一个林志玲出来",
       "onboard_time": 1769680945,
       "rank": 34,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1774274,
-      "num": 1774274,
-      "word": "金晨鼻子",
-      "onboard_time": 1769768847,
-      "rank": 20,
       "category": "艺人"
     },
     {
@@ -4507,6 +4507,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 234821,
+      "num": 2955330,
+      "word": "黄金从被抢空到暴跌仅用3天",
+      "onboard_time": 1769767647,
+      "rank": 7,
+      "category": "财经"
+    },
+    {
       "raw_hot": 234802,
       "num": 219916,
       "word": "年少有为定档",
@@ -4995,6 +5003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 207980,
+      "num": 192813,
+      "word": "六点半下班真的好残忍啊",
+      "onboard_time": 1769767766,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 207550,
       "num": 147193,
       "word": "白鹿说已无法负荷高强度动作戏",
@@ -5265,14 +5281,6 @@
       "onboard_time": 1769765481,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 192813,
-      "num": 192813,
-      "word": "六点半下班真的好残忍啊",
-      "onboard_time": 1769767766,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 192607,
@@ -5729,14 +5737,6 @@
       "onboard_time": 1769746942,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 170881,
-      "num": 2955330,
-      "word": "黄金从被抢空到暴跌仅用3天",
-      "onboard_time": 1769767647,
-      "rank": 7,
-      "category": "财经"
     },
     {
       "raw_hot": 170641,
@@ -6819,6 +6819,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 141001,
+      "num": 141001,
+      "word": "麦当劳新包装被吐槽诡异",
+      "onboard_time": 1769769445,
+      "rank": 48,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 140748,
       "num": 109663,
       "word": "沈梦辰带婆婆追星",
@@ -7059,6 +7067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 136268,
+      "num": 2393363,
+      "word": "28岁博士生在意失联10天家属发声",
+      "onboard_time": 1769766686,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 136114,
       "num": 136114,
       "word": "金瀚 欲感力",
@@ -7145,6 +7161,14 @@
       "onboard_time": 1769609902,
       "rank": 23,
       "category": "美食"
+    },
+    {
+      "raw_hot": 134925,
+      "num": 134925,
+      "word": "工商银行公告",
+      "onboard_time": 1769769687,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 134651,
@@ -7363,6 +7387,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 130444,
+      "num": 2784065,
+      "word": "京城大师赛",
+      "onboard_time": 1769769386,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 130412,
       "num": 143566,
       "word": "林孝埈XC70",
@@ -7416,14 +7448,6 @@
       "word": "黎深引导型爱人",
       "onboard_time": 1769336960,
       "rank": 25,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 129930,
-      "num": 2784065,
-      "word": "京城大师赛",
-      "onboard_time": 1769769386,
-      "rank": 8,
       "category": "游戏"
     },
     {
@@ -7811,14 +7835,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 124693,
-      "num": 2393363,
-      "word": "28岁博士生在意失联10天家属发声",
-      "onboard_time": 1769766686,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 124690,
       "num": 2288613,
       "word": "生命树破平台招商纪录",
@@ -8081,6 +8097,14 @@
       "onboard_time": 1769490202,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 121437,
+      "num": 116464,
+      "word": "李白KPL上场",
+      "onboard_time": 1769770525,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 121416,
@@ -8843,6 +8867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 113156,
+      "num": 119213,
+      "word": "元梦之星",
+      "onboard_time": 1769769925,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 113088,
       "num": 1905558,
       "word": "杨幂跑姿",
@@ -9316,7 +9348,7 @@
     },
     {
       "raw_hot": 107514,
-      "num": 97435,
+      "num": 117130,
       "word": "张译任黑龙江省政协委员",
       "onboard_time": 1769767887,
       "rank": 40,
@@ -9817,6 +9849,14 @@
       "onboard_time": 1769765421,
       "rank": 42,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 103467,
+      "num": 119135,
+      "word": "夫妻闹离婚2岁孩子被丢法院一夜",
+      "onboard_time": 1769769746,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 103454,
@@ -10435,6 +10475,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 99461,
+      "num": 118907,
+      "word": "28岁博士生在意失联父母一夜白头",
+      "onboard_time": 1769770642,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99323,
       "num": 99323,
       "word": "成功减掉了30天",
@@ -10740,7 +10788,7 @@
     },
     {
       "raw_hot": 97033,
-      "num": 97033,
+      "num": 116246,
       "word": "亲戚以为我住老房子很惨",
       "onboard_time": 1769767827,
       "rank": 41,
@@ -11467,6 +11515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 93277,
+      "num": 83748,
+      "word": "李现顶着韩商言的头像",
+      "onboard_time": 1769770825,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 93250,
       "num": 93250,
       "word": "idle回归",
@@ -12035,14 +12091,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 90133,
-      "num": 90133,
-      "word": "工商银行公告",
-      "onboard_time": 1769769687,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 90089,
       "num": 71964,
       "word": "女子在卫生间发现不雅标语引热议",
@@ -12273,14 +12321,6 @@
       "onboard_time": 1769742080,
       "rank": 42,
       "category": "财经"
-    },
-    {
-      "raw_hot": 88612,
-      "num": 88612,
-      "word": "麦当劳新包装被吐槽诡异",
-      "onboard_time": 1769769445,
-      "rank": 48,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 88607,
@@ -13099,6 +13139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 83814,
+      "num": 83814,
+      "word": "LGDNBW春季赛首胜",
+      "onboard_time": 1769770464,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 83641,
       "num": 83641,
       "word": "金饰克价逼近1600元",
@@ -13369,6 +13417,14 @@
       "onboard_time": 1769431823,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 81875,
+      "num": 83685,
+      "word": "WB对战情久",
+      "onboard_time": 1769770165,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 81828,
@@ -14065,6 +14121,14 @@
       "onboard_time": 1769593821,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 77901,
+      "num": 116199,
+      "word": "怀孕3个月女儿离家出走妈妈急哭",
+      "onboard_time": 1769770944,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 77869,
@@ -16491,6 +16555,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 47608,
+      "num": 116168,
+      "word": "宝可梦挣中国人的钱伤中国人的心",
+      "onboard_time": 1769769865,
+      "rank": 38,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 47402,
       "num": 188927,
       "word": "光明村村民领京东AI手机",
@@ -16560,6 +16632,14 @@
       "word": "女子机洗羽绒服脸被炸伤",
       "onboard_time": 1769524461,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 47050,
+      "num": 115972,
+      "word": "男子买252元彩票中1004万",
+      "onboard_time": 1769769746,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -16751,6 +16831,14 @@
       "num": 178468,
       "word": "杰我睿寄存的黄金或已被熔",
       "onboard_time": 1769751501,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42514,
+      "num": 118747,
+      "word": "女子立遗嘱让朋友养女儿被前夫告",
+      "onboard_time": 1769770105,
       "rank": 19,
       "category": "民生新闻"
     },
@@ -17227,14 +17315,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 36277,
-      "num": 98583,
-      "word": "男子买252元彩票中1004万",
-      "onboard_time": 1769769746,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 36143,
       "num": 116275,
       "word": "印度尼帕病毒疫情01年来暴发9次",
@@ -17345,14 +17425,6 @@
       "onboard_time": 1769507541,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 33723,
-      "num": 100052,
-      "word": "夫妻闹离婚2岁孩子被丢法院一夜",
-      "onboard_time": 1769769746,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 33705,
@@ -18683,6 +18755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 13219,
+      "num": 116152,
+      "word": "贵州一班主任组织学生晚自习煮火锅",
+      "onboard_time": 1769770405,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 12542,
       "num": 48766,
       "word": "声鸣远扬直播",
@@ -18825,6 +18905,14 @@
       "onboard_time": 1769325440,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 4072,
+      "num": 116214,
+      "word": "BLG对战TES",
+      "onboard_time": 1769770825,
+      "rank": 36,
+      "category": "电竞"
     }
   ],
   "hotgov_list": [

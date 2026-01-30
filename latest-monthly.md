@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/30 18:43:52
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/30 19:03:41
 </p>
 </blockquote>
 <p>
@@ -477,6 +477,12 @@ U23国足vs越南（热度：2487537）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E9%BC%BB%E5%AD%90%23" target="weibo">
+金晨鼻子（热度：1851145）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%AF%E5%BE%B7%E5%9F%BA%E5%B4%A9%E4%BA%86%23" target="weibo">
 肯德基崩了（热度：1839108）
 </a>
@@ -497,12 +503,6 @@ U23国足vs越南（热度：2487537）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E4%B8%89%E7%94%B7%E7%94%9F%E6%B6%89%E5%AB%8C%E5%BC%BA%E5%A5%B8%E5%BC%BA%E5%88%B6%E4%BE%AE%E8%BE%B1%E5%A4%A7%E4%B8%80%E5%A5%B3%E5%8F%8B%23" target="weibo">
 大三男生涉嫌强奸强制侮辱大一女友（热度：1775880）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E9%BC%BB%E5%AD%90%23" target="weibo">
-金晨鼻子（热度：1774274）
 </a>
 </li>
 

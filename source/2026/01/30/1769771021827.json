@@ -1,0 +1,410 @@
+{
+  "runTime": 1769771021827,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 16243389,
+        "num": 16243389,
+        "word": "警方通报金晨事件",
+        "onboard_time": 1769766446,
+        "rank": 0,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 250230,
+        "num": 2599585,
+        "word": "任天堂在靖国神社教孩子玩牌",
+        "onboard_time": 1769760022,
+        "rank": 1,
+        "category": "国际时政,游戏"
+      },
+      {
+        "raw_hot": 19320,
+        "num": 2006990,
+        "word": "中国绿色低碳转型交出亮眼答卷",
+        "onboard_time": 1769766084,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 261993,
+        "num": 261993,
+        "word": "金价有望涨至8500美元",
+        "onboard_time": 1769764822,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 234821,
+        "num": 234821,
+        "word": "黄金从被抢空到暴跌仅用3天",
+        "onboard_time": 1769767647,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 7940149,
+        "num": 7940149,
+        "word": "金晨道歉",
+        "onboard_time": 1769766745,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232339,
+        "num": 232339,
+        "word": "女子攒多年金条成本300元一克全卖了",
+        "onboard_time": 1769765362,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141001,
+        "num": 141001,
+        "word": "麦当劳新包装被吐槽诡异",
+        "onboard_time": 1769769445,
+        "rank": 7,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 136268,
+        "num": 136268,
+        "word": "28岁博士生在意失联10天家属发声",
+        "onboard_time": 1769766686,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134925,
+        "num": 134925,
+        "word": "工商银行公告",
+        "onboard_time": 1769769687,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 254027,
+        "num": 133461,
+        "word": "李现包场生命树",
+        "onboard_time": 1769767408,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130444,
+        "num": 130444,
+        "word": "京城大师赛",
+        "onboard_time": 1769769386,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 161308,
+        "num": 127404,
+        "word": "生命树",
+        "onboard_time": 1769746581,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147834,
+        "num": 124630,
+        "word": "加拿大华裔14岁少女吸毒致死",
+        "onboard_time": 1769756420,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 143149,
+        "num": 123455,
+        "word": "杨迪徒步捡别人剩下的水喝",
+        "onboard_time": 1769767047,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119328,
+        "num": 119328,
+        "word": "王铮亮春晚联排",
+        "onboard_time": 1769769027,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113156,
+        "num": 119213,
+        "word": "元梦之星",
+        "onboard_time": 1769769925,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 103467,
+        "num": 119135,
+        "word": "夫妻闹离婚2岁孩子被丢法院一夜",
+        "onboard_time": 1769769746,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99461,
+        "num": 118907,
+        "word": "28岁博士生在意失联父母一夜白头",
+        "onboard_time": 1769770642,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42514,
+        "num": 118747,
+        "word": "女子立遗嘱让朋友养女儿被前夫告",
+        "onboard_time": 1769770105,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98671,
+        "num": 118584,
+        "word": "凤凰传奇一条微博两件大事",
+        "onboard_time": 1769763082,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1851145,
+        "num": 118320,
+        "word": "金晨鼻子",
+        "onboard_time": 1769768847,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 498645,
+        "num": 118283,
+        "word": "黄金暴跌",
+        "onboard_time": 1769703021,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 347856,
+        "num": 118032,
+        "word": "白银跌麻了",
+        "onboard_time": 1769762122,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 328572,
+        "num": 117883,
+        "word": "关晓彤婉拒马上有对象",
+        "onboard_time": 1769761762,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 312459,
+        "num": 117722,
+        "word": "金价28分钟内暴跌380美元",
+        "onboard_time": 1769754799,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 218260,
+        "num": 117516,
+        "word": "爸爸在家吸烟13岁女儿腹腔长满肿瘤",
+        "onboard_time": 1769759301,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207980,
+        "num": 117370,
+        "word": "六点半下班真的好残忍啊",
+        "onboard_time": 1769767766,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 107322,
+        "num": 117130,
+        "word": "张译任黑龙江省政协委员",
+        "onboard_time": 1769767887,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96998,
+        "num": 117057,
+        "word": "原来维生素D缺乏容易长白头发",
+        "onboard_time": 1769762422,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 182122,
+        "num": 116790,
+        "word": "赵四葬礼",
+        "onboard_time": 1769749401,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180200,
+        "num": 116614,
+        "word": "穆祉丞 你看球吗",
+        "onboard_time": 1769766025,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121437,
+        "num": 116464,
+        "word": "李白KPL上场",
+        "onboard_time": 1769770525,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 137042,
+        "num": 116343,
+        "word": "网红周媛被立案调查",
+        "onboard_time": 1769758162,
+        "rank": 33,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 116260,
+        "num": 116260,
+        "word": "成龙自曝有ADHD",
+        "onboard_time": 1769763022,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92193,
+        "num": 116246,
+        "word": "亲戚以为我住老房子很惨",
+        "onboard_time": 1769767827,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 4072,
+        "num": 116214,
+        "word": "BLG对战TES",
+        "onboard_time": 1769770825,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 77901,
+        "num": 116199,
+        "word": "怀孕3个月女儿离家出走妈妈急哭",
+        "onboard_time": 1769770944,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47608,
+        "num": 116168,
+        "word": "宝可梦挣中国人的钱伤中国人的心",
+        "onboard_time": 1769769865,
+        "rank": 38,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 13219,
+        "num": 116152,
+        "word": "贵州一班主任组织学生晚自习煮火锅",
+        "onboard_time": 1769770405,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116138,
+        "num": 116138,
+        "word": "原来白敬亭也来微博之夜",
+        "onboard_time": 1769766866,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 47050,
+        "num": 115972,
+        "word": "男子买252元彩票中1004万",
+        "onboard_time": 1769769746,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115922,
+        "num": 115922,
+        "word": "白鹿cos安琪拉",
+        "onboard_time": 1769764162,
+        "rank": 42,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 99816,
+        "num": 99816,
+        "word": "网红小黑妮生女",
+        "onboard_time": 1769766927,
+        "rank": 43,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 83814,
+        "num": 83814,
+        "word": "LGDNBW春季赛首胜",
+        "onboard_time": 1769770464,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 96558,
+        "num": 83796,
+        "word": "杨幂跑姿",
+        "onboard_time": 1769762781,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 93277,
+        "num": 83748,
+        "word": "李现顶着韩商言的头像",
+        "onboard_time": 1769770825,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81875,
+        "num": 83685,
+        "word": "WB对战情久",
+        "onboard_time": 1769770165,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 90913,
+        "num": 83619,
+        "word": "白鹿美得有点超过了",
+        "onboard_time": 1769761100,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88255,
+        "num": 83550,
+        "word": "王玉雯 心理委员不用来了我有刘亦菲",
+        "onboard_time": 1769765121,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局1月30日召开会议#"
+    }
+  }
+}
