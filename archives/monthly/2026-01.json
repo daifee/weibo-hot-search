@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769771021827,
+  "endTime": 1769773006890,
   "band_list": [
     {
       "raw_hot": 22742360,
@@ -563,6 +563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1928217,
+      "num": 1774274,
+      "word": "金晨鼻子",
+      "onboard_time": 1769768847,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1924560,
       "num": 616633,
       "word": "老坛酸菜已经塌无可塌了",
@@ -616,14 +624,6 @@
       "word": "檀健次直播",
       "onboard_time": 1767875242,
       "rank": 21,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1851145,
-      "num": 1774274,
-      "word": "金晨鼻子",
-      "onboard_time": 1769768847,
-      "rank": 20,
       "category": "艺人"
     },
     {
@@ -12427,6 +12427,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 384102,
+      "num": 187829,
+      "word": "李现顶着韩商言的头像",
+      "onboard_time": 1769770825,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 383912,
       "num": 127509,
       "word": "英伟达员工晒年会最牛年终奖",
@@ -12521,6 +12529,14 @@
       "onboard_time": 1767585502,
       "rank": 13,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 380912,
+      "num": 380912,
+      "word": "生命树开播",
+      "onboard_time": 1769772023,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 380634,
@@ -17043,6 +17059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 302613,
+      "num": 302613,
+      "word": "怀孕3个月女儿离家出走妈妈急哭",
+      "onboard_time": 1769770944,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 302491,
       "num": 302491,
       "word": "黄金白银一跌再跌",
@@ -17825,6 +17849,14 @@
       "onboard_time": 1768348699,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 291680,
+      "num": 1983015,
+      "word": "麦当劳新包装被吐槽诡异",
+      "onboard_time": 1769769445,
+      "rank": 48,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 291396,
@@ -21211,6 +21243,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 251635,
+      "num": 3036106,
+      "word": "女子攒多年金条成本300元一克全卖了",
+      "onboard_time": 1769765362,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 251564,
       "num": 233099,
       "word": "赵丽颖从未否认自己是马里奥",
@@ -22243,14 +22283,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 239934,
-      "num": 3036106,
-      "word": "女子攒多年金条成本300元一克全卖了",
-      "onboard_time": 1769765362,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 239919,
       "num": 239919,
       "word": "唯一一本过目不忘的书",
@@ -22313,6 +22345,14 @@
       "onboard_time": 1767591503,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 238861,
+      "num": 2955330,
+      "word": "黄金从被抢空到暴跌仅用3天",
+      "onboard_time": 1769767647,
+      "rank": 7,
+      "category": "财经"
     },
     {
       "raw_hot": 238788,
@@ -22657,14 +22697,6 @@
       "onboard_time": 1767965841,
       "rank": 16,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 234821,
-      "num": 2955330,
-      "word": "黄金从被抢空到暴跌仅用3天",
-      "onboard_time": 1769767647,
-      "rank": 7,
-      "category": "财经"
     },
     {
       "raw_hot": 234802,
@@ -25185,6 +25217,14 @@
       "onboard_time": 1769416942,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 212266,
+      "num": 1273416,
+      "word": "28岁博士生在意失联父母一夜白头",
+      "onboard_time": 1769770642,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 212262,
@@ -28609,6 +28649,14 @@
       "onboard_time": 1769012419,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 190842,
+      "num": 190842,
+      "word": "杨紫生命树开播长文",
+      "onboard_time": 1769771545,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 190825,
@@ -34083,6 +34131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 162214,
+      "num": 1210801,
+      "word": "李白KPL上场",
+      "onboard_time": 1769770525,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 162146,
       "num": 162146,
       "word": "Mac回应",
@@ -38475,6 +38531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145452,
+      "num": 1905558,
+      "word": "杨幂跑姿",
+      "onboard_time": 1769762781,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 145450,
       "num": 145450,
       "word": "Angelababy 像素模糊但建模清晰",
@@ -38905,6 +38969,14 @@
       "onboard_time": 1769127500,
       "rank": 13,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 144146,
+      "num": 1018492,
+      "word": "工商银行公告",
+      "onboard_time": 1769769687,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 144073,
@@ -39809,14 +39881,6 @@
       "onboard_time": 1769412381,
       "rank": 36,
       "category": "演出"
-    },
-    {
-      "raw_hot": 141001,
-      "num": 141001,
-      "word": "麦当劳新包装被吐槽诡异",
-      "onboard_time": 1769769445,
-      "rank": 48,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 140985,
@@ -40881,6 +40945,14 @@
       "onboard_time": 1768401321,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 137993,
+      "num": 189879,
+      "word": "夫妻闹离婚2岁孩子被丢法院一夜",
+      "onboard_time": 1769769746,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 137981,
@@ -41952,14 +42024,6 @@
       "word": "黑白颠周媛付费课收入已超2400万",
       "onboard_time": 1769008401,
       "rank": 17,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 134925,
-      "num": 134925,
-      "word": "工商银行公告",
-      "onboard_time": 1769769687,
-      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -45275,6 +45339,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 126185,
+      "num": 186751,
+      "word": "2026央视春晚第三次联排",
+      "onboard_time": 1769772144,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 126170,
       "num": 126170,
       "word": "我想要的是上四休三不是休三上六",
@@ -47379,14 +47451,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 121437,
-      "num": 116464,
-      "word": "李白KPL上场",
-      "onboard_time": 1769770525,
-      "rank": 32,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 121436,
       "num": 121436,
       "word": "领导一眼就能看出你是不是在摸鱼",
@@ -47932,7 +47996,7 @@
     },
     {
       "raw_hot": 120402,
-      "num": 120402,
+      "num": 802220,
       "word": "无期迷途",
       "onboard_time": 1767849321,
       "rank": 33,
@@ -49947,6 +50011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 116181,
+      "num": 871315,
+      "word": "暖阳好帅的李白",
+      "onboard_time": 1769771785,
+      "rank": 7,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 116175,
       "num": 116175,
       "word": "深圳市民投诉网格员深夜入户检查",
@@ -51739,14 +51811,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 113088,
-      "num": 1905558,
-      "word": "杨幂跑姿",
-      "onboard_time": 1769762781,
-      "rank": 18,
-      "category": "电影"
-    },
-    {
       "raw_hot": 113077,
       "num": 113077,
       "word": "吕严护食跟黄晓明急了",
@@ -53467,6 +53531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 109393,
+      "num": 116132,
+      "word": "Meiko长文感谢11年陪伴",
+      "onboard_time": 1769771725,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 109369,
       "num": 149489,
       "word": "PEL转会期",
@@ -54476,7 +54548,7 @@
     },
     {
       "raw_hot": 107514,
-      "num": 117130,
+      "num": 184475,
       "word": "张译任黑龙江省政协委员",
       "onboard_time": 1769767887,
       "rank": 40,
@@ -55347,6 +55419,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 106097,
+      "num": 106097,
+      "word": "生命树直播",
+      "onboard_time": 1769771964,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 106086,
       "num": 106086,
       "word": "表白前一刻知道crush有老公",
@@ -55369,6 +55449,14 @@
       "onboard_time": 1768741643,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 106052,
+      "num": 106052,
+      "word": "周杰伦王俊凯观赛澳网",
+      "onboard_time": 1769772742,
+      "rank": 41,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 106023,
@@ -57209,14 +57297,6 @@
       "onboard_time": 1769765421,
       "rank": 42,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 103467,
-      "num": 119135,
-      "word": "夫妻闹离婚2岁孩子被丢法院一夜",
-      "onboard_time": 1769769746,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 103461,
@@ -60017,14 +60097,6 @@
       "onboard_time": 1768036280,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 99461,
-      "num": 118907,
-      "word": "28岁博士生在意失联父母一夜白头",
-      "onboard_time": 1769770642,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 99457,
@@ -63163,6 +63235,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 95502,
+      "num": 99416,
+      "word": "U23国足队长身价已高达45万欧元",
+      "onboard_time": 1769772442,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 95499,
       "num": 95499,
       "word": "韩莹太能扛了",
@@ -63457,6 +63537,14 @@
       "onboard_time": 1768972223,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 95105,
+      "num": 185120,
+      "word": "德约科维奇vs辛纳",
+      "onboard_time": 1769769265,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 95102,
@@ -64937,14 +65025,6 @@
       "onboard_time": 1767931582,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 93277,
-      "num": 83748,
-      "word": "李现顶着韩商言的头像",
-      "onboard_time": 1769770825,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 93268,
@@ -66971,14 +67051,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 90753,
-      "num": 90753,
-      "word": "德约科维奇vs辛纳",
-      "onboard_time": 1769769265,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 90737,
       "num": 106406,
       "word": "霍启刚化身迷弟给郭晶晶拍视频",
@@ -67521,6 +67593,14 @@
       "onboard_time": 1768432698,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 90113,
+      "num": 90113,
+      "word": "带薪养病",
+      "onboard_time": 1769772742,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 90103,
@@ -69697,6 +69777,14 @@
       "onboard_time": 1768455619,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 87320,
+      "num": 87320,
+      "word": "打工人的马年人设",
+      "onboard_time": 1769772922,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 87306,
@@ -72091,6 +72179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 84752,
+      "num": 84752,
+      "word": "永远不要追问为什么不理我",
+      "onboard_time": 1769772325,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 84746,
       "num": 84746,
       "word": "相亲和自谈最大的区别",
@@ -72256,6 +72352,14 @@
       "word": "中国金币集团公告",
       "onboard_time": 1769678903,
       "rank": 46,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 84551,
+      "num": 84551,
+      "word": "国际贵金属遭资金全面抛售",
+      "onboard_time": 1769771484,
+      "rank": 49,
       "category": "财经"
     },
     {
@@ -76993,14 +77097,6 @@
       "onboard_time": 1767608662,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 77901,
-      "num": 116199,
-      "word": "怀孕3个月女儿离家出走妈妈急哭",
-      "onboard_time": 1769770944,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 77869,
@@ -86297,6 +86393,14 @@
       "onboard_time": 1767786024,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 55407,
+      "num": 106538,
+      "word": "爷爷狱中病亡孙子考211为其翻案",
+      "onboard_time": 1769772803,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 55392,

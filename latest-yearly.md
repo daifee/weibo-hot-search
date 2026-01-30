@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/30 19:03:41
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/30 19:36:46
 </p>
 </blockquote>
 <p>
@@ -435,6 +435,12 @@ U23国足vs越南（热度：2487537）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E9%BC%BB%E5%AD%90%23" target="weibo">
+金晨鼻子（热度：1928217）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%9D%9B%E9%85%B8%E8%8F%9C%E5%B7%B2%E7%BB%8F%E5%A1%8C%E6%97%A0%E5%8F%AF%E5%A1%8C%E4%BA%86%23" target="weibo">
 老坛酸菜已经塌无可塌了（热度：1924560）
 </a>
@@ -473,12 +479,6 @@ U23国足vs越南（热度：2487537）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E7%9B%B4%E6%92%AD%23" target="weibo">
 檀健次直播（热度：1854135）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E9%BC%BB%E5%AD%90%23" target="weibo">
-金晨鼻子（热度：1851145）
 </a>
 </li>
 
