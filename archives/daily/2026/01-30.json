@@ -1,10 +1,10 @@
 {
   "startTime": 1769702505765,
-  "endTime": 1769730606382,
+  "endTime": 1769740637710,
   "band_list": [
     {
       "raw_hot": 3481750,
-      "num": 111657,
+      "num": 193473,
       "word": "黄金暴跌",
       "onboard_time": 1769703021,
       "rank": 10,
@@ -35,12 +35,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1096464,
+      "num": 210287,
+      "word": "今日金价",
+      "onboard_time": 1769733983,
+      "rank": 16,
+      "category": "财经"
+    },
+    {
       "raw_hot": 813553,
       "num": 200138,
       "word": "曝金晨交通事故监控截图",
       "onboard_time": 1769670383,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 733067,
+      "num": 100720,
+      "word": "女子卖房买白银5个月狂赚200万",
+      "onboard_time": 1769736201,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 706941,
@@ -67,8 +83,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 553089,
+      "num": 113837,
+      "word": "女乘客称飞机要爆炸要求下机",
+      "onboard_time": 1769735661,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 518849,
-      "num": 117001,
+      "num": 237532,
       "word": "金晨案事发地村民说撞了一堵墙",
       "onboard_time": 1769726356,
       "rank": 11,
@@ -83,12 +107,44 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 445660,
+      "num": 104764,
+      "word": "咬伤游客雪豹又咬死35只羊",
+      "onboard_time": 1769735002,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 434679,
       "num": 196675,
       "word": "Bin 主动道歉",
       "onboard_time": 1769699604,
       "rank": 12,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 430351,
+      "num": 430351,
+      "word": "黄金跳水可以上车了吗",
+      "onboard_time": 1769735421,
+      "rank": 5,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 414659,
+      "num": 414659,
+      "word": "杨幂双料视后了",
+      "onboard_time": 1769731881,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 369522,
+      "num": 106157,
+      "word": "猝死程序员公司HR离职",
+      "onboard_time": 1769734761,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 368506,
@@ -115,6 +171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 320261,
+      "num": 82254,
+      "word": "特朗普宣布国家紧急状态",
+      "onboard_time": 1769730980,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 316763,
       "num": 152851,
       "word": "神仙肉 虞书欣",
@@ -131,8 +195,24 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 285701,
+      "num": 285701,
+      "word": "有色金属多股跌停",
+      "onboard_time": 1769738181,
+      "rank": 11,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 279512,
+      "num": 279512,
+      "word": "成毅提胯走路太飒了",
+      "onboard_time": 1769732781,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 278486,
-      "num": 278486,
+      "num": 434336,
       "word": "银行卡一定要彻底解绑",
       "onboard_time": 1769728158,
       "rank": 3,
@@ -140,7 +220,7 @@
     },
     {
       "raw_hot": 270808,
-      "num": 270808,
+      "num": 1041377,
       "word": "宝可梦踩靖国神社红线不是初犯",
       "onboard_time": 1769728339,
       "rank": 4,
@@ -163,8 +243,16 @@
       "category": "财经"
     },
     {
+      "raw_hot": 232543,
+      "num": 232543,
+      "word": "A股",
+      "onboard_time": 1769740519,
+      "rank": 14,
+      "category": "财经"
+    },
+    {
       "raw_hot": 228958,
-      "num": 109605,
+      "num": 183935,
       "word": "偶遇王俊凯周杰伦吃火锅",
       "onboard_time": 1769727977,
       "rank": 14,
@@ -179,12 +267,44 @@
       "category": "财经"
     },
     {
+      "raw_hot": 221854,
+      "num": 93722,
+      "word": "华熙生物董事长回应让人活到120岁",
+      "onboard_time": 1769732359,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 218088,
+      "num": 105379,
+      "word": "孙卓坦言不知父母寻亲的艰辛",
+      "onboard_time": 1769732902,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 217709,
+      "num": 780853,
+      "word": "男子喝自制中药中毒身亡",
+      "onboard_time": 1769739500,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 217124,
       "num": 217124,
       "word": "于和伟总台视帝",
       "onboard_time": 1769697323,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 215547,
+      "num": 215547,
+      "word": "杜华希望乐华娱乐不只会造星",
+      "onboard_time": 1769739260,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 202287,
@@ -235,6 +355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 172655,
+      "num": 172655,
+      "word": "高铁上女子接电话大哭我妈妈没了",
+      "onboard_time": 1769737100,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 159675,
       "num": 159675,
       "word": "200多克黄金不当面接收快递小哥报警",
@@ -257,6 +385,14 @@
       "onboard_time": 1769701703,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 155207,
+      "num": 155207,
+      "word": "王祖贤7秒视频涨粉超90万",
+      "onboard_time": 1769734402,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 151468,
@@ -283,6 +419,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 147297,
+      "num": 427979,
+      "word": "宝可梦",
+      "onboard_time": 1769737339,
+      "rank": 6,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 145653,
       "num": 145653,
       "word": "邻居楼道放鞋架女子挂婆婆遗照反击",
@@ -297,6 +441,14 @@
       "onboard_time": 1769700744,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 137621,
+      "num": 422602,
+      "word": "金饰克价跌回1662元",
+      "onboard_time": 1769737161,
+      "rank": 7,
+      "category": "财经"
     },
     {
       "raw_hot": 136816,
@@ -323,6 +475,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 125328,
+      "num": 125328,
+      "word": "金价大幅跳水后反弹",
+      "onboard_time": 1769730019,
+      "rank": 25,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 124310,
+      "num": 422005,
+      "word": "无限暖暖",
+      "onboard_time": 1769738420,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 117550,
       "num": 117550,
       "word": "白银",
@@ -339,6 +507,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 113092,
+      "num": 113092,
+      "word": "王者荣耀",
+      "onboard_time": 1769686522,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 112679,
       "num": 112679,
       "word": "张桂源张函瑞 太阳与地球",
@@ -353,6 +529,14 @@
       "onboard_time": 1769697864,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109348,
+      "num": 109348,
+      "word": "会不会打麻将的都沉默了",
+      "onboard_time": 1769739981,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 109105,
@@ -377,6 +561,14 @@
       "onboard_time": 1769698883,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 102800,
+      "num": 102800,
+      "word": "女大学生东北冻伤三根手指父亲发声",
+      "onboard_time": 1769729599,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 101790,
@@ -411,20 +603,52 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 95885,
-      "num": 75825,
-      "word": "金价大幅跳水后反弹",
-      "onboard_time": 1769730019,
-      "rank": 25,
-      "category": "财经"
+      "raw_hot": 97388,
+      "num": 198328,
+      "word": "上班被公司坑了200万元",
+      "onboard_time": 1769739620,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 94291,
-      "num": 72642,
+      "num": 83663,
       "word": "酷派当年给了个200g的纯银锤子",
       "onboard_time": 1769728878,
       "rank": 32,
       "category": "数码"
+    },
+    {
+      "raw_hot": 93941,
+      "num": 93941,
+      "word": "74岁阿姨10年前10万买408克金条",
+      "onboard_time": 1769738900,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93350,
+      "num": 93350,
+      "word": "早睡比跑步减肥更管用",
+      "onboard_time": 1769738661,
+      "rank": 38,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 92325,
+      "num": 92325,
+      "word": "普通人上镜能有多离谱",
+      "onboard_time": 1769740223,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 91266,
+      "num": 91266,
+      "word": "时代少年团俄罗斯",
+      "onboard_time": 1769731401,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 91182,
@@ -441,6 +665,14 @@
       "onboard_time": 1769690905,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 88626,
+      "num": 88626,
+      "word": "微博之夜",
+      "onboard_time": 1769734341,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 86334,
@@ -491,6 +723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 80846,
+      "num": 80846,
+      "word": "A股行情",
+      "onboard_time": 1769740579,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 80179,
       "num": 80179,
       "word": "沙溢终于知道体重管理的重要性了",
@@ -505,6 +745,22 @@
       "onboard_time": 1769704759,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 77331,
+      "num": 77331,
+      "word": "一夜之间黄金大跳水",
+      "onboard_time": 1769740340,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 75978,
+      "num": 75978,
+      "word": "无人便利店遭0元购",
+      "onboard_time": 1769739140,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 74800,
@@ -531,6 +787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 72660,
+      "num": 199975,
+      "word": "特朗普最新回应美军机南海坠毁",
+      "onboard_time": 1769739500,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 71469,
       "num": 71469,
       "word": "国防部回应第四艘航母建造进展",
@@ -555,12 +819,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 63596,
-      "num": 63596,
-      "word": "女大学生东北冻伤三根手指父亲发声",
-      "onboard_time": 1769729599,
-      "rank": 48,
-      "category": "民生新闻"
+      "raw_hot": 57212,
+      "num": 206146,
+      "word": "iQOO15Ultra外观太酷了",
+      "onboard_time": 1769738721,
+      "rank": 17,
+      "category": "数码"
     },
     {
       "raw_hot": 56555,
@@ -617,6 +881,14 @@
       "onboard_time": 1769690543,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 42178,
+      "num": 92445,
+      "word": "在阿那亚买房值不值",
+      "onboard_time": 1769738479,
+      "rank": 39,
+      "category": "财经"
     },
     {
       "raw_hot": 41372,
@@ -683,7 +955,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 27514,
+      "raw_hot": 30330,
       "num": 656288,
       "word": "中国新能源汽车持续领跑全球",
       "onboard_time": 1769691564,
@@ -713,6 +985,14 @@
       "onboard_time": 1769695645,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 23899,
+      "num": 93428,
+      "word": "丈夫离世女子扛下160万债务8年还清",
+      "onboard_time": 1769740161,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23348,

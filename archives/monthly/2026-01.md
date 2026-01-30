@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/30 07:50:06
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/30 10:37:17
 </p>
 </blockquote>
 <p>
@@ -1151,6 +1151,12 @@ BLG上调新上单Wenbo（热度：1173465）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E7%BB%99%E9%97%BA%E8%9C%9C%E5%91%B5%E5%91%B5%E4%B9%B0%E8%BD%A6%23" target="weibo">
 白鹿给闺蜜呵呵买车（热度：1099595）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E6%97%A5%E9%87%91%E4%BB%B7%23" target="weibo">
+今日金价（热度：1096464）
 </a>
 </li>
 
@@ -2747,6 +2753,12 @@ iPhone4回收价涨了60倍（热度：736598）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%9B%9B%E5%A4%A7%E8%B4%A2%E5%9B%A2%E6%8E%8C%E9%97%A8%E4%BA%BA%E5%9C%A8%E4%BA%AC%E9%9B%86%E4%BD%93%E4%BA%AE%E7%9B%B8%23" target="weibo">
 韩国四大财团掌门人在京集体亮相（热度：734115）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%8D%96%E6%88%BF%E4%B9%B0%E7%99%BD%E9%93%B65%E4%B8%AA%E6%9C%88%E7%8B%82%E8%B5%9A200%E4%B8%87%23" target="weibo">
+女子卖房买白银5个月狂赚200万（热度：733067）
 </a>
 </li>
 
@@ -4815,6 +4827,12 @@ Sakee Asen（热度：556725）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E4%B9%98%E5%AE%A2%E7%A7%B0%E9%A3%9E%E6%9C%BA%E8%A6%81%E7%88%86%E7%82%B8%E8%A6%81%E6%B1%82%E4%B8%8B%E6%9C%BA%23" target="weibo">
+女乘客称飞机要爆炸要求下机（热度：553089）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%84%9F%E8%A7%89%E5%AE%B6%E9%87%8C%E7%9A%84%E4%B8%8D%E5%8A%A8%E4%BA%A7%E5%8A%A8%E4%BA%86%E4%B8%80%E4%B8%8B%23" target="weibo">
 感觉家里的不动产动了一下（热度：552781）
 </a>
@@ -5993,24 +6011,6 @@ iPhone4需求激增近1000%（热度：506886）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%85%95%E5%AE%B9%E4%BA%91%E6%B5%B7%E4%B8%80%E5%BC%A0%E5%8F%A3%E6%88%91%E7%9A%84%E9%9D%92%E6%98%A5%E5%9B%9E%E6%9D%A5%E4%BA%86%23" target="weibo">
 慕容云海一张口我的青春回来了（热度：498329）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E5%81%B7SIM%E5%8D%A1%E5%A5%97%E8%B7%AF%23" target="weibo">
-央视曝光偷SIM卡套路（热度：498292）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%82%B5%E6%98%8E%E6%98%8E%E6%8C%81%E8%AF%81%E4%B8%8A%E5%B2%97%23" target="weibo">
-邵明明持证上岗（热度：498052）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E9%A9%AC%E5%B9%B4%E5%BE%AE%E4%BF%A1%E7%BA%A2%E5%8C%85%E5%B0%81%E9%9D%A2%E6%9D%A5%E4%BA%86%23" target="weibo">
-苹果马年微信红包封面来了（热度：497492）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769730606382,
+  "endTime": 1769740637710,
   "band_list": [
     {
       "raw_hot": 16741456,
@@ -212,7 +212,7 @@
     },
     {
       "raw_hot": 3481750,
-      "num": 111657,
+      "num": 193473,
       "word": "黄金暴跌",
       "onboard_time": 1769703021,
       "rank": 10,
@@ -1523,6 +1523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1096464,
+      "num": 210287,
+      "word": "今日金价",
+      "onboard_time": 1769733983,
+      "rank": 16,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1096354,
       "num": 336478,
       "word": "王橹杰高会",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1768097721,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 903012,
-      "num": 164255,
-      "word": "网传中国网红流落柬埔寨街头",
-      "onboard_time": 1767482298,
-      "rank": 30,
-      "category": "海外新闻"
     }
   ],
   "hotgov_list": [

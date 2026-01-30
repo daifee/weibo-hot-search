@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/30 07:50:06
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/30 10:37:17
 </p>
 </blockquote>
 <p>
@@ -1155,6 +1155,12 @@ BLG上调新上单Wenbo（热度：1173465）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E6%97%A5%E9%87%91%E4%BB%B7%23" target="weibo">
+今日金价（热度：1096464）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A9%B9%E6%9D%B0%E9%AB%98%E4%BC%9A%23" target="weibo">
 王橹杰高会（热度：1096354）
 </a>
@@ -1805,12 +1811,6 @@ U23国足2比0越南（热度：940028）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%B8%80%E8%AF%BA%E7%9B%B4%E6%92%AD%E5%9B%9E%E5%BA%94%E5%92%8C%E6%AA%80%E5%81%A5%E6%AC%A1%E7%9A%84%E6%81%8B%E6%83%85%23" target="weibo">
 刘一诺直播回应和檀健次的恋情（热度：903109）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%BA%A2%E6%B5%81%E8%90%BD%E6%9F%AC%E5%9F%94%E5%AF%A8%E8%A1%97%E5%A4%B4%23" target="weibo">
-网传中国网红流落柬埔寨街头（热度：903012）
 </a>
 </li>
 
