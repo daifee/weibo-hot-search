@@ -1,6 +1,6 @@
 {
   "startTime": 1769702505765,
-  "endTime": 1769756480932,
+  "endTime": 1769757270861,
   "band_list": [
     {
       "raw_hot": 3481750,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1374570,
-      "num": 289959,
+      "num": 362689,
       "word": "赵四葬礼",
       "onboard_time": 1769749401,
       "rank": 6,
@@ -276,7 +276,7 @@
     },
     {
       "raw_hot": 370813,
-      "num": 284903,
+      "num": 352616,
       "word": "此人住商极高",
       "onboard_time": 1769753541,
       "rank": 6,
@@ -300,7 +300,7 @@
     },
     {
       "raw_hot": 350208,
-      "num": 350208,
+      "num": 438274,
       "word": "丈夫去世妻子不知情婆家领走70万",
       "onboard_time": 1769750782,
       "rank": 8,
@@ -363,20 +363,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 302491,
+      "num": 302491,
+      "word": "黄金白银一跌再跌",
+      "onboard_time": 1769746824,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 301436,
       "num": 192449,
       "word": "银价暴涨10倍带火CT废胶片",
       "onboard_time": 1769700562,
       "rank": 15,
       "category": "民生新闻,财经"
-    },
-    {
-      "raw_hot": 300588,
-      "num": 279756,
-      "word": "黄金白银一跌再跌",
-      "onboard_time": 1769746824,
-      "rank": 44,
-      "category": "财经"
     },
     {
       "raw_hot": 296042,
@@ -388,7 +388,7 @@
     },
     {
       "raw_hot": 291062,
-      "num": 291062,
+      "num": 367638,
       "word": "袁娅维在美国唐人街偶遇周深",
       "onboard_time": 1769753061,
       "rank": 34,
@@ -401,6 +401,14 @@
       "onboard_time": 1769738181,
       "rank": 11,
       "category": "财经"
+    },
+    {
+      "raw_hot": 282593,
+      "num": 1045215,
+      "word": "电动车遇宝马无接触摔倒被判全责",
+      "onboard_time": 1769753961,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 279512,
@@ -436,7 +444,7 @@
     },
     {
       "raw_hot": 242114,
-      "num": 144498,
+      "num": 147302,
       "word": "700元入手的黄金卖出狂赚八万多",
       "onboard_time": 1769753001,
       "rank": 44,
@@ -457,14 +465,6 @@
       "onboard_time": 1769700441,
       "rank": 7,
       "category": "财经"
-    },
-    {
-      "raw_hot": 235986,
-      "num": 763457,
-      "word": "电动车遇宝马无接触摔倒被判全责",
-      "onboard_time": 1769753961,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 235956,
@@ -547,6 +547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 216401,
+      "num": 141905,
+      "word": "金价28分钟内暴跌380美元",
+      "onboard_time": 1769754799,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
       "raw_hot": 208567,
       "num": 208567,
       "word": "微博之夜",
@@ -571,6 +579,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 197604,
+      "num": 139804,
+      "word": "河南一洗浴中心男子闯入女澡堂",
+      "onboard_time": 1769752222,
+      "rank": 43,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 194254,
+      "num": 105098,
+      "word": "这辈子卖得最后悔的一只狗",
+      "onboard_time": 1769755641,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 193693,
       "num": 193693,
       "word": "云旗空降",
@@ -593,14 +617,6 @@
       "onboard_time": 1769694862,
       "rank": 23,
       "category": "财经"
-    },
-    {
-      "raw_hot": 184407,
-      "num": 139804,
-      "word": "河南一洗浴中心男子闯入女澡堂",
-      "onboard_time": 1769752222,
-      "rank": 43,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 183118,
@@ -803,6 +819,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 123385,
+      "num": 123385,
+      "word": "时代少年团痛包",
+      "onboard_time": 1769755760,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 121940,
       "num": 179088,
       "word": "弗拉格49分",
@@ -819,20 +843,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 118989,
-      "num": 91350,
-      "word": "这辈子卖得最后悔的一只狗",
-      "onboard_time": 1769755641,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 118053,
       "num": 118053,
       "word": "不要用拍立得拍黑猫",
       "onboard_time": 1769741480,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 117706,
+      "num": 117706,
+      "word": "过年回家只需要带一套体面衣服",
+      "onboard_time": 1769757021,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 117550,
@@ -955,6 +979,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 108378,
+      "num": 108378,
+      "word": "国防部这句Youwish啥意思",
+      "onboard_time": 1769753300,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 108226,
       "num": 108226,
       "word": "Selina悼念烧伤主治医生",
@@ -977,14 +1009,6 @@
       "onboard_time": 1769742741,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 107374,
-      "num": 89872,
-      "word": "金价28分钟内暴跌380美元",
-      "onboard_time": 1769754799,
-      "rank": 31,
-      "category": "财经"
     },
     {
       "raw_hot": 106281,
@@ -1043,6 +1067,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 100929,
+      "num": 100929,
+      "word": "孙颖莎首登世界第一四周年纪念日",
+      "onboard_time": 1769756179,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 100737,
+      "num": 100737,
+      "word": "11名储户220万元存款被银行员工转走",
+      "onboard_time": 1769756900,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100646,
       "num": 87738,
       "word": "白鹿上一秒baby下一秒mommy",
@@ -1065,6 +1105,14 @@
       "onboard_time": 1769748981,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 100095,
+      "num": 100095,
+      "word": "加拿大华裔14岁少女吸毒致死",
+      "onboard_time": 1769756420,
+      "rank": 40,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 99474,
@@ -1107,14 +1155,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 97184,
-      "num": 87148,
-      "word": "时代少年团痛包",
-      "onboard_time": 1769755760,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 95610,
       "num": 118241,
       "word": "武汉理工毕业生当保安被母校约谈",
@@ -1123,12 +1163,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94354,
+      "num": 94354,
+      "word": "东京街头发生重大抢劫案",
+      "onboard_time": 1769756842,
+      "rank": 36,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 94291,
       "num": 83663,
       "word": "酷派当年给了个200g的纯银锤子",
       "onboard_time": 1769728878,
       "rank": 32,
       "category": "数码"
+    },
+    {
+      "raw_hot": 93841,
+      "num": 93841,
+      "word": "投资小白买银条1个月赚17万",
+      "onboard_time": 1769753961,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92394,
+      "num": 92394,
+      "word": "沈梦辰是何炅不加思索的选择",
+      "onboard_time": 1769757021,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 91874,
@@ -1201,14 +1265,6 @@
       "onboard_time": 1769718913,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 85996,
-      "num": 85996,
-      "word": "孙颖莎首登世界第一四周年纪念日",
-      "onboard_time": 1769756179,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 85890,
@@ -1339,12 +1395,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 78924,
-      "num": 93346,
-      "word": "国防部这句Youwish啥意思",
-      "onboard_time": 1769753300,
-      "rank": 29,
-      "category": "国内时政"
+      "raw_hot": 79701,
+      "num": 79701,
+      "word": "上班害怕出错的人都得学学这心态",
+      "onboard_time": 1769756779,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 78179,
@@ -1379,14 +1435,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 75167,
-      "num": 75167,
-      "word": "投资小白买银条1个月赚17万",
-      "onboard_time": 1769753961,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 74800,
       "num": 100839,
       "word": "嘉禾望岗为何被称为分手车站",
@@ -1417,6 +1465,14 @@
       "onboard_time": 1769739500,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 72557,
+      "num": 75026,
+      "word": "iPhone18使用星链网络或无需额外硬件",
+      "onboard_time": 1769754921,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 71469,
@@ -1523,6 +1579,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 55014,
+      "num": 93047,
+      "word": "文学教授批言情作品毒害年轻女性",
+      "onboard_time": 1769756960,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51841,
       "num": 51841,
       "word": "英雄联盟",
@@ -1579,6 +1643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 46026,
+      "num": 93907,
+      "word": "美国女子呼吁枪杆子里出政权",
+      "onboard_time": 1769756420,
+      "rank": 42,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 44643,
       "num": 179343,
       "word": "中国网民要求宝可梦明确回应",
@@ -1587,28 +1659,12 @@
       "category": "海外新闻,游戏"
     },
     {
-      "raw_hot": 44340,
-      "num": 73769,
-      "word": "美国女子呼吁枪杆子里出政权",
-      "onboard_time": 1769756420,
-      "rank": 42,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 43973,
       "num": 217154,
       "word": "1中国公民在日遭催泪瓦斯袭击",
       "onboard_time": 1769748260,
       "rank": 22,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 43494,
-      "num": 75224,
-      "word": "加拿大华裔14岁少女吸毒致死",
-      "onboard_time": 1769756420,
-      "rank": 40,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 42558,
@@ -1713,6 +1769,14 @@
       "onboard_time": 1769691564,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 30259,
+      "num": 159039,
+      "word": "夫妻用CT废胶片提炼白银超27斤",
+      "onboard_time": 1769756541,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27257,
