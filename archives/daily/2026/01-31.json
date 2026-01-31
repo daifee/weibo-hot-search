@@ -1,6 +1,6 @@
 {
   "startTime": 1769791903074,
-  "endTime": 1769845005539,
+  "endTime": 1769845753542,
   "band_list": [
     {
       "raw_hot": 1880814,
@@ -49,6 +49,14 @@
       "onboard_time": 1769777545,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 797418,
+      "num": 176566,
+      "word": "破音",
+      "onboard_time": 1769844500,
+      "rank": 21,
+      "category": "演出"
     },
     {
       "raw_hot": 795875,
@@ -131,6 +139,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 554742,
+      "num": 554742,
+      "word": "生命树收视率第二集就断崖跌",
+      "onboard_time": 1769843241,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 543245,
       "num": 325702,
       "word": "荣耀之战节目单",
@@ -147,20 +163,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 516829,
-      "num": 254621,
-      "word": "生命树收视率第二集就断崖跌",
-      "onboard_time": 1769843241,
-      "rank": 5,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 492825,
       "num": 150894,
       "word": "半夜容易醒可能是身体在求救",
       "onboard_time": 1769822060,
       "rank": 11,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 486467,
+      "num": 176464,
+      "word": "女生造黄谣被爸爸在派出所打了一耳光",
+      "onboard_time": 1769844381,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 485872,
+      "num": 175021,
+      "word": "国内金饰克价一夜跌140元",
+      "onboard_time": 1769843541,
+      "rank": 12,
+      "category": "财经"
     },
     {
       "raw_hot": 483854,
@@ -177,6 +201,14 @@
       "onboard_time": 1769832380,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 409789,
+      "num": 173803,
+      "word": "爱丫爱丫第一",
+      "onboard_time": 1769845162,
+      "rank": 14,
+      "category": "演出"
     },
     {
       "raw_hot": 398800,
@@ -275,12 +307,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 314310,
-      "num": 174133,
-      "word": "国内金饰克价一夜跌140元",
-      "onboard_time": 1769843541,
-      "rank": 12,
-      "category": "财经"
+      "raw_hot": 305842,
+      "num": 171540,
+      "word": "刘亦菲版小龙女考虑过刘晓庆",
+      "onboard_time": 1769843119,
+      "rank": 16,
+      "category": "综艺,作品衍生"
     },
     {
       "raw_hot": 290393,
@@ -347,20 +379,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 265476,
-      "num": 164649,
-      "word": "刘亦菲版小龙女考虑过刘晓庆",
-      "onboard_time": 1769843119,
-      "rank": 16,
-      "category": "综艺,作品衍生"
-    },
-    {
       "raw_hot": 260921,
       "num": 260921,
       "word": "王小卤鸡爪被曝发霉变质",
       "onboard_time": 1769820259,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 259424,
+      "num": 151975,
+      "word": "我是一只鱼",
+      "onboard_time": 1769843299,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 254862,
@@ -385,14 +417,6 @@
       "onboard_time": 1769834782,
       "rank": 22,
       "category": "综艺,作品衍生"
-    },
-    {
-      "raw_hot": 250495,
-      "num": 147927,
-      "word": "破音",
-      "onboard_time": 1769844500,
-      "rank": 21,
-      "category": "演出"
     },
     {
       "raw_hot": 246967,
@@ -425,6 +449,14 @@
       "onboard_time": 1769840539,
       "rank": 14,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 229539,
+      "num": 150513,
+      "word": "借过一下第二",
+      "onboard_time": 1769844681,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 224198,
@@ -475,14 +507,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 197314,
-      "num": 144482,
-      "word": "我是一只鱼",
-      "onboard_time": 1769843299,
-      "rank": 23,
-      "category": "演出"
-    },
-    {
       "raw_hot": 193612,
       "num": 86111,
       "word": "黄金巨震原因找到了",
@@ -521,6 +545,14 @@
       "onboard_time": 1769834782,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 179201,
+      "num": 192543,
+      "word": "原来情绪稳定是这样的",
+      "onboard_time": 1769841200,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 171620,
@@ -603,20 +635,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 150118,
+      "num": 150118,
+      "word": "叶祖新新剧面相又变了",
+      "onboard_time": 1769845281,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 149770,
       "num": 100927,
       "word": "关晓彤婉拒马上有对象",
       "onboard_time": 1769761762,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 149767,
-      "num": 192543,
-      "word": "原来情绪稳定是这样的",
-      "onboard_time": 1769841200,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 147508,
@@ -747,6 +779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 132261,
+      "num": 132261,
+      "word": "七匹狼",
+      "onboard_time": 1769844441,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 130544,
       "num": 150949,
       "word": "玉溪一教师事业单位岗被指是萝卜岗",
@@ -769,14 +809,6 @@
       "onboard_time": 1769773764,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 126903,
-      "num": 126903,
-      "word": "借过一下第二",
-      "onboard_time": 1769844681,
-      "rank": 27,
-      "category": "演出"
     },
     {
       "raw_hot": 124110,
@@ -819,6 +851,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 120503,
+      "num": 120503,
+      "word": "难听",
+      "onboard_time": 1769845642,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 120407,
       "num": 107357,
       "word": "春晚彩排的明星",
@@ -859,8 +899,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 114742,
-      "num": 114742,
+      "raw_hot": 115082,
+      "num": 115082,
       "word": "徐良抢票",
       "onboard_time": 1769843659,
       "rank": 30,
@@ -905,6 +945,14 @@
       "onboard_time": 1769789662,
       "rank": 22,
       "category": "艺人,演出"
+    },
+    {
+      "raw_hot": 111977,
+      "num": 100783,
+      "word": "王橹杰我是一只鱼",
+      "onboard_time": 1769843840,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 108815,
@@ -987,20 +1035,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 99180,
+      "num": 99180,
+      "word": "刘冲回应网传被辞退",
+      "onboard_time": 1769845042,
+      "rank": 37,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 98026,
       "num": 145251,
       "word": "昔日同学对刘强东父子赞不绝口",
       "onboard_time": 1769828419,
       "rank": 26,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 97445,
-      "num": 97445,
-      "word": "七匹狼",
-      "onboard_time": 1769844441,
-      "rank": 36,
-      "category": "演出"
     },
     {
       "raw_hot": 97216,
@@ -1020,7 +1068,7 @@
     },
     {
       "raw_hot": 96393,
-      "num": 101688,
+      "num": 135977,
       "word": "金价跌了你会现在入手吗",
       "onboard_time": 1769843541,
       "rank": 34,
@@ -1041,6 +1089,14 @@
       "onboard_time": 1769783303,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 95495,
+      "num": 95495,
+      "word": "时尚COSMO2月刊封面预告",
+      "onboard_time": 1769845701,
+      "rank": 38,
+      "category": "时尚"
     },
     {
       "raw_hot": 95475,
@@ -1065,14 +1121,6 @@
       "onboard_time": 1769840781,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 94088,
-      "num": 94088,
-      "word": "王橹杰我是一只鱼",
-      "onboard_time": 1769843840,
-      "rank": 43,
-      "category": "演出"
     },
     {
       "raw_hot": 93337,
@@ -1211,12 +1259,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 84143,
+      "num": 84143,
+      "word": "卖海鲜的人都不吃的海鲜",
+      "onboard_time": 1769845401,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 83351,
       "num": 73155,
       "word": "世界黄金协会预测金价走势",
       "onboard_time": 1769815277,
       "rank": 25,
       "category": "财经"
+    },
+    {
+      "raw_hot": 83348,
+      "num": 83348,
+      "word": "陈浚铭荣耀之战路透",
+      "onboard_time": 1769843178,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 82918,
@@ -1315,6 +1379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 78479,
+      "num": 78479,
+      "word": "手机把我玩没电了",
+      "onboard_time": 1769845461,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 78025,
       "num": 78025,
       "word": "周杰伦陈奕迅王俊凯澳网同框",
@@ -1329,6 +1401,14 @@
       "onboard_time": 1769840000,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 77539,
+      "num": 77539,
+      "word": "事以密成的含金量还在上升",
+      "onboard_time": 1769845522,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 77520,
@@ -1555,14 +1635,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 57506,
-      "num": 148140,
-      "word": "女生造黄谣被爸爸在派出所打了一耳光",
-      "onboard_time": 1769844381,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 56235,
       "num": 56235,
       "word": "凯瑟琳奥哈拉去世",
@@ -1737,6 +1809,14 @@
       "onboard_time": 1769786843,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 39794,
+      "num": 152695,
+      "word": "中国籍女性在日死亡细节曝光",
+      "onboard_time": 1769845580,
+      "rank": 22,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 39702,

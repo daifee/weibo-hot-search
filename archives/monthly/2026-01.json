@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769845005539,
+  "endTime": 1769845753542,
   "band_list": [
     {
       "raw_hot": 22742360,
@@ -3265,6 +3265,14 @@
       "onboard_time": 1768485141,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 797418,
+      "num": 176566,
+      "word": "破音",
+      "onboard_time": 1769844500,
+      "rank": 21,
+      "category": "演出"
     },
     {
       "raw_hot": 797298,
@@ -6635,6 +6643,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 554742,
+      "num": 554742,
+      "word": "生命树收视率第二集就断崖跌",
+      "onboard_time": 1769843241,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 554469,
       "num": 784280,
       "word": "被雪豹咬伤女游客否认跟雪豹拍照",
@@ -7715,14 +7731,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 516829,
-      "num": 254621,
-      "word": "生命树收视率第二集就断崖跌",
-      "onboard_time": 1769843241,
-      "rank": 5,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 516466,
       "num": 297707,
       "word": "00后真的是各过各的",
@@ -8723,6 +8731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 486467,
+      "num": 176464,
+      "word": "女生造黄谣被爸爸在派出所打了一耳光",
+      "onboard_time": 1769844381,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 486438,
       "num": 1031680,
       "word": "警惕日本军国主义在文体领域的渗透",
@@ -8785,6 +8801,14 @@
       "onboard_time": 1768297101,
       "rank": 6,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 485872,
+      "num": 175021,
+      "word": "国内金饰克价一夜跌140元",
+      "onboard_time": 1769843541,
+      "rank": 12,
+      "category": "财经"
     },
     {
       "raw_hot": 485454,
@@ -11569,6 +11593,14 @@
       "onboard_time": 1767683300,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 409789,
+      "num": 173803,
+      "word": "爱丫爱丫第一",
+      "onboard_time": 1769845162,
+      "rank": 14,
+      "category": "演出"
     },
     {
       "raw_hot": 409524,
@@ -16707,14 +16739,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 314310,
-      "num": 174133,
-      "word": "国内金饰克价一夜跌140元",
-      "onboard_time": 1769843541,
-      "rank": 12,
-      "category": "财经"
-    },
-    {
       "raw_hot": 314276,
       "num": 198508,
       "word": "伊能静57岁身材",
@@ -17185,6 +17209,14 @@
       "onboard_time": 1767831681,
       "rank": 1,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 305842,
+      "num": 171540,
+      "word": "刘亦菲版小龙女考虑过刘晓庆",
+      "onboard_time": 1769843119,
+      "rank": 16,
+      "category": "综艺,作品衍生"
     },
     {
       "raw_hot": 305766,
@@ -20459,14 +20491,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 265476,
-      "num": 164649,
-      "word": "刘亦菲版小龙女考虑过刘晓庆",
-      "onboard_time": 1769843119,
-      "rank": 16,
-      "category": "综艺,作品衍生"
-    },
-    {
       "raw_hot": 265458,
       "num": 243456,
       "word": "河北农村取暖气价高补贴被砍",
@@ -21049,6 +21073,14 @@
       "onboard_time": 1768529178,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 259424,
+      "num": 151975,
+      "word": "我是一只鱼",
+      "onboard_time": 1769843299,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 259394,
@@ -21817,14 +21849,6 @@
       "onboard_time": 1767914478,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 250495,
-      "num": 147927,
-      "word": "破音",
-      "onboard_time": 1769844500,
-      "rank": 21,
-      "category": "演出"
     },
     {
       "raw_hot": 250416,
@@ -23825,6 +23849,14 @@
       "onboard_time": 1768298182,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 229539,
+      "num": 150513,
+      "word": "借过一下第二",
+      "onboard_time": 1769844681,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 229375,
@@ -27995,14 +28027,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 197314,
-      "num": 144482,
-      "word": "我是一只鱼",
-      "onboard_time": 1769843299,
-      "rank": 23,
-      "category": "演出"
-    },
-    {
       "raw_hot": 197303,
       "num": 252777,
       "word": "家长网购40套衣服退货28套商家发声",
@@ -31433,6 +31457,14 @@
       "onboard_time": 1768790422,
       "rank": 14,
       "category": "财经"
+    },
+    {
+      "raw_hot": 179201,
+      "num": 192543,
+      "word": "原来情绪稳定是这样的",
+      "onboard_time": 1769841200,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 179172,
@@ -37803,6 +37835,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 150118,
+      "num": 150118,
+      "word": "叶祖新新剧面相又变了",
+      "onboard_time": 1769845281,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 150106,
       "num": 521915,
       "word": "周冠宇方回应离开法拉利",
@@ -37937,14 +37977,6 @@
       "onboard_time": 1769008582,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 149767,
-      "num": 192543,
-      "word": "原来情绪稳定是这样的",
-      "onboard_time": 1769841200,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 149760,
@@ -43859,6 +43891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 132261,
+      "num": 132261,
+      "word": "七匹狼",
+      "onboard_time": 1769844441,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 132239,
       "num": 176357,
       "word": "猝死程序员所在公司发声",
@@ -45889,14 +45929,6 @@
       "onboard_time": 1768396762,
       "rank": 49,
       "category": "数码"
-    },
-    {
-      "raw_hot": 126903,
-      "num": 126903,
-      "word": "借过一下第二",
-      "onboard_time": 1769844681,
-      "rank": 27,
-      "category": "演出"
     },
     {
       "raw_hot": 126901,
@@ -48939,6 +48971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 120503,
+      "num": 120503,
+      "word": "难听",
+      "onboard_time": 1769845642,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 120494,
       "num": 120494,
       "word": "黄子韬扛不住于洋的美",
@@ -51675,6 +51715,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 115082,
+      "num": 115082,
+      "word": "徐良抢票",
+      "onboard_time": 1769843659,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 115076,
       "num": 115076,
       "word": "你好星期六街晚提前过年了",
@@ -51841,14 +51889,6 @@
       "onboard_time": 1769662763,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 114742,
-      "num": 114742,
-      "word": "徐良抢票",
-      "onboard_time": 1769843659,
-      "rank": 30,
-      "category": "演出"
     },
     {
       "raw_hot": 114716,
@@ -53409,6 +53449,14 @@
       "onboard_time": 1769059521,
       "rank": 17,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 111977,
+      "num": 100783,
+      "word": "王橹杰我是一只鱼",
+      "onboard_time": 1769843840,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 111971,
@@ -61483,6 +61531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 99180,
+      "num": 99180,
+      "word": "刘冲回应网传被辞退",
+      "onboard_time": 1769845042,
+      "rank": 37,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 99173,
       "num": 99173,
       "word": "贵州工商职业大学",
@@ -62827,14 +62883,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 97445,
-      "num": 97445,
-      "word": "七匹狼",
-      "onboard_time": 1769844441,
-      "rank": 36,
-      "category": "演出"
-    },
-    {
       "raw_hot": 97424,
       "num": 252568,
       "word": "你要和本身就很好的人结婚",
@@ -63724,7 +63772,7 @@
     },
     {
       "raw_hot": 96393,
-      "num": 101688,
+      "num": 135977,
       "word": "金价跌了你会现在入手吗",
       "onboard_time": 1769843541,
       "rank": 34,
@@ -64513,6 +64561,14 @@
       "onboard_time": 1769420301,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 95495,
+      "num": 95495,
+      "word": "时尚COSMO2月刊封面预告",
+      "onboard_time": 1769845701,
+      "rank": 38,
+      "category": "时尚"
     },
     {
       "raw_hot": 95489,
@@ -65553,14 +65609,6 @@
       "onboard_time": 1768975100,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 94088,
-      "num": 94088,
-      "word": "王橹杰我是一只鱼",
-      "onboard_time": 1769843840,
-      "rank": 43,
-      "category": "演出"
     },
     {
       "raw_hot": 94078,
@@ -74131,6 +74179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 84143,
+      "num": 84143,
+      "word": "卖海鲜的人都不吃的海鲜",
+      "onboard_time": 1769845401,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 84136,
       "num": 518895,
       "word": "胡锡进谈瓜州汉武帝雕像争议",
@@ -74705,6 +74761,14 @@
       "onboard_time": 1769815277,
       "rank": 25,
       "category": "财经"
+    },
+    {
+      "raw_hot": 83348,
+      "num": 83348,
+      "word": "陈浚铭荣耀之战路透",
+      "onboard_time": 1769843178,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 83340,
@@ -78307,6 +78371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 78479,
+      "num": 78479,
+      "word": "手机把我玩没电了",
+      "onboard_time": 1769845461,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 78461,
       "num": 190340,
       "word": "全球矿业股狂飙",
@@ -78937,6 +79009,14 @@
       "onboard_time": 1767870020,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 77539,
+      "num": 77539,
+      "word": "事以密成的含金量还在上升",
+      "onboard_time": 1769845522,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 77521,
@@ -87507,14 +87587,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 57506,
-      "num": 148140,
-      "word": "女生造黄谣被爸爸在派出所打了一耳光",
-      "onboard_time": 1769844381,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 57493,
       "num": 92772,
       "word": "电子榨菜之王今晚续上了",
@@ -92473,6 +92545,14 @@
       "onboard_time": 1769326040,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39794,
+      "num": 152695,
+      "word": "中国籍女性在日死亡细节曝光",
+      "onboard_time": 1769845580,
+      "rank": 22,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 39792,
