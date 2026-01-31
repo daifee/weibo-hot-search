@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/31 16:39:58
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/31 16:54:35
 </p>
 </blockquote>
 <p>
@@ -795,6 +795,12 @@ U23国足vs乌兹别克斯坦（热度：1464712）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E9%80%A0%E9%BB%84%E8%B0%A3%E8%A2%AB%E7%88%B8%E7%88%B8%E5%9C%A8%E6%B4%BE%E5%87%BA%E6%89%80%E6%89%93%E4%BA%86%E4%B8%80%E8%80%B3%E5%85%89%23" target="weibo">
+女生造黄谣被爸爸在派出所打了一耳光（热度：1376920）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E5%9B%9B%E8%91%AC%E7%A4%BC%23" target="weibo">
 赵四葬礼（热度：1374570）
 </a>
@@ -815,12 +821,6 @@ U23国足vs乌兹别克斯坦（热度：1464712）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%B3%E5%8F%B0%E8%BE%9F%E8%B0%A3%E7%99%BD%E7%8F%8A%E7%8F%8A%E8%A2%AB%E7%9B%97%E5%8F%B7%23" target="weibo">
 平台辟谣白珊珊被盗号（热度：1344326）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E9%80%A0%E9%BB%84%E8%B0%A3%E8%A2%AB%E7%88%B8%E7%88%B8%E5%9C%A8%E6%B4%BE%E5%87%BA%E6%89%80%E6%89%93%E4%BA%86%E4%B8%80%E8%80%B3%E5%85%89%23" target="weibo">
-女生造黄谣被爸爸在派出所打了一耳光（热度：1339973）
 </a>
 </li>
 
