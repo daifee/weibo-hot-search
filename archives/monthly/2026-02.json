@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1769902283032,
+  "endTime": 1769903158659,
   "band_list": [
     {
       "raw_hot": 636694,
@@ -17,6 +17,14 @@
       "onboard_time": 1769866882,
       "rank": 10,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 524648,
+      "num": 436252,
+      "word": "周扬青 整过容你以为别人看不出来呀",
+      "onboard_time": 1769902097,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 504193,
@@ -43,8 +51,24 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 302332,
+      "num": 302332,
+      "word": "黄金暴跌的原因找到了",
+      "onboard_time": 1769901977,
+      "rank": 4,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 298890,
+      "num": 298890,
+      "word": "女子离世前留3000万给未成年女儿",
+      "onboard_time": 1769902336,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 291558,
-      "num": 596416,
+      "num": 911313,
       "word": "员工单日如厕6小时21分钟被解雇",
       "onboard_time": 1769869223,
       "rank": 1,
@@ -91,12 +115,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 219519,
+      "num": 219519,
+      "word": "男子上完厕所突然离世妻子发声",
+      "onboard_time": 1769902336,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 208890,
       "num": 208890,
       "word": "太平年改档",
       "onboard_time": 1769870063,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 205446,
+      "num": 205446,
+      "word": "名侦探柯南",
+      "onboard_time": 1769901016,
+      "rank": 5,
+      "category": "动漫"
     },
     {
       "raw_hot": 200805,
@@ -131,20 +171,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 167941,
-      "num": 167941,
-      "word": "黄金暴跌的原因找到了",
-      "onboard_time": 1769901977,
-      "rank": 4,
-      "category": "财经"
-    },
-    {
       "raw_hot": 157577,
       "num": 157577,
       "word": "已有4000家绝味鸭脖倒下",
       "onboard_time": 1769863222,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 150220,
+      "num": 150220,
+      "word": "微博之夜阵容官宣",
+      "onboard_time": 1769900836,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 148817,
@@ -163,28 +203,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 141964,
-      "num": 77283,
-      "word": "微博之夜阵容官宣",
-      "onboard_time": 1769900836,
-      "rank": 11,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 135547,
       "num": 116903,
       "word": "这些零食可能是第三代新型毒品",
       "onboard_time": 1769872042,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 134827,
-      "num": 134827,
-      "word": "名侦探柯南",
-      "onboard_time": 1769901016,
-      "rank": 5,
-      "category": "动漫"
     },
     {
       "raw_hot": 132806,
@@ -201,6 +225,14 @@
       "onboard_time": 1769863522,
       "rank": 19,
       "category": "财经"
+    },
+    {
+      "raw_hot": 116266,
+      "num": 116266,
+      "word": "第一眼以为给肖战开美颜了",
+      "onboard_time": 1769901916,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 110682,
@@ -227,14 +259,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 100810,
-      "num": 44186,
-      "word": "周扬青 整过容你以为别人看不出来呀",
-      "onboard_time": 1769902097,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 97767,
       "num": 97767,
       "word": "刘雨昕陈伟霆双人舞好辣",
@@ -249,6 +273,14 @@
       "onboard_time": 1769874980,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86493,
+      "num": 86493,
+      "word": "保罗乔治禁赛25场",
+      "onboard_time": 1769902097,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 80573,
@@ -283,14 +315,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 75488,
-      "num": 75488,
-      "word": "保罗乔治禁赛25场",
-      "onboard_time": 1769902097,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
       "raw_hot": 74543,
       "num": 74543,
       "word": "生命树收视逆跌",
@@ -323,6 +347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 66690,
+      "num": 66690,
+      "word": "沈腾 不方便的话全让AI说了",
+      "onboard_time": 1769900174,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 65414,
       "num": 65414,
       "word": "俊凯在围观和尖叫下吃完一碗粉回去了",
@@ -337,14 +369,6 @@
       "onboard_time": 1769864303,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 63386,
-      "num": 63386,
-      "word": "第一眼以为给肖战开美颜了",
-      "onboard_time": 1769901916,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 62086,
@@ -363,12 +387,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 60577,
+      "num": 60577,
+      "word": "Peanut被封号",
+      "onboard_time": 1769902157,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 59902,
       "num": 59902,
       "word": "突然的喜欢大结局",
       "onboard_time": 1769866162,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 59378,
+      "num": 59378,
+      "word": "中国不需要其他国家表忠心",
+      "onboard_time": 1769902157,
+      "rank": 36,
+      "category": "国内时政"
     },
     {
       "raw_hot": 58397,
@@ -393,14 +433,6 @@
       "onboard_time": 1769871323,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 52312,
-      "num": 52312,
-      "word": "沈腾 不方便的话全让AI说了",
-      "onboard_time": 1769900174,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 52217,
@@ -435,6 +467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 50940,
+      "num": 50940,
+      "word": "王鹤棣一把抢过孟子义的手捧花",
+      "onboard_time": 1769902219,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 50575,
       "num": 55310,
       "word": "伊朗阿巴斯港一楼爆炸已致1死14伤",
@@ -451,12 +491,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 44786,
+      "num": 44786,
+      "word": "美伊开战的可能性有多大",
+      "onboard_time": 1769902637,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 44765,
       "num": 55284,
       "word": "长期大剂量补充多种营养素有风险",
       "onboard_time": 1769867723,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 44130,
+      "num": 44130,
+      "word": "重返狼群导演晒出格林留的纪念物品",
+      "onboard_time": 1769902637,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 41089,
@@ -467,14 +523,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 39471,
-      "num": 39471,
-      "word": "Peanut被封号",
-      "onboard_time": 1769902157,
-      "rank": 32,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 37409,
       "num": 40439,
       "word": "李昀锐吃吃吃的一个月",
@@ -483,12 +531,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 37230,
+      "num": 37230,
+      "word": "岳云鹏用张信哲内涵柳岩",
+      "onboard_time": 1769902997,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 37090,
+      "num": 37090,
+      "word": "曝iPhone17信号垫底",
+      "onboard_time": 1769902818,
+      "rank": 42,
+      "category": "数码"
+    },
+    {
       "raw_hot": 36965,
       "num": 40334,
       "word": "刘雨昕上座率战绩可查",
       "onboard_time": 1769877858,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 36870,
+      "num": 36870,
+      "word": "黄金创40年来最大跌幅",
+      "onboard_time": 1769856141,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 34488,
@@ -505,14 +577,6 @@
       "onboard_time": 1769865382,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 33479,
-      "num": 33479,
-      "word": "中国不需要其他国家表忠心",
-      "onboard_time": 1769902157,
-      "rank": 36,
-      "category": "国内时政"
     },
     {
       "raw_hot": 32669,
@@ -539,14 +603,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 26442,
-      "num": 31608,
-      "word": "王鹤棣一把抢过孟子义的手捧花",
-      "onboard_time": 1769902219,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 24310,
       "num": 31606,
       "word": "生命树第二集发生了什么",
@@ -563,20 +619,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 20329,
+      "num": 524487,
+      "word": "已发售春运火车票超5000万张",
+      "onboard_time": 1769869042,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19195,
       "num": 22191,
       "word": "米兰冬奥会",
       "onboard_time": 1769885655,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 19179,
-      "num": 453464,
-      "word": "已发售春运火车票超5000万张",
-      "onboard_time": 1769869042,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 19163,
