@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769865458513,
+  "endTime": 1769867453728,
   "band_list": [
     {
       "raw_hot": 22742360,
@@ -1161,6 +1161,14 @@
       "onboard_time": 1767868041,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1292566,
+      "num": 1292566,
+      "word": "内娱唯一说微调结果没人信的人",
+      "onboard_time": 1769864000,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 1282297,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1768830563,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 932499,
-      "num": 1149199,
-      "word": "2026央视春晚彩排开始了",
-      "onboard_time": 1767533664,
-      "rank": 14,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [

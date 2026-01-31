@@ -1,6 +1,6 @@
 {
   "startTime": 1769791903074,
-  "endTime": 1769865458513,
+  "endTime": 1769867453728,
   "band_list": [
     {
       "raw_hot": 1880814,
@@ -51,6 +51,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1292566,
+      "num": 1292566,
+      "word": "内娱唯一说微调结果没人信的人",
+      "onboard_time": 1769864000,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1219069,
       "num": 804887,
       "word": "黄金遭遇40年来最大下跌",
@@ -96,6 +104,14 @@
       "word": "生命树",
       "onboard_time": 1769746581,
       "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 828793,
+      "num": 650111,
+      "word": "生命树收视率",
+      "onboard_time": 1769862802,
+      "rank": 3,
       "category": "剧集"
     },
     {
@@ -169,22 +185,6 @@
       "onboard_time": 1769835021,
       "rank": 4,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 689991,
-      "num": 620498,
-      "word": "内娱唯一说微调结果没人信的人",
-      "onboard_time": 1769864000,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 688631,
-      "num": 588941,
-      "word": "生命树收视率",
-      "onboard_time": 1769862802,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 679778,
@@ -267,6 +267,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 559679,
+      "num": 461724,
+      "word": "伊朗",
+      "onboard_time": 1769864781,
+      "rank": 11,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 554742,
       "num": 835469,
       "word": "生命树收视率第二集就断崖跌",
@@ -281,6 +289,14 @@
       "onboard_time": 1769839400,
       "rank": 5,
       "category": "演出"
+    },
+    {
+      "raw_hot": 537617,
+      "num": 872439,
+      "word": "公务员为离职故意旷工触发辞退条款",
+      "onboard_time": 1769861421,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 518062,
@@ -315,6 +331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 484124,
+      "num": 484124,
+      "word": "全球抛售美国",
+      "onboard_time": 1769863522,
+      "rank": 12,
+      "category": "财经"
+    },
+    {
       "raw_hot": 483920,
       "num": 835270,
       "word": "家委会收每生263元家长报警",
@@ -329,14 +353,6 @@
       "onboard_time": 1769833160,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 478368,
-      "num": 245967,
-      "word": "伊朗",
-      "onboard_time": 1769864781,
-      "rank": 11,
-      "category": "国际时政"
     },
     {
       "raw_hot": 443119,
@@ -355,19 +371,11 @@
       "category": "财经"
     },
     {
-      "raw_hot": 406524,
-      "num": 406524,
-      "word": "全球抛售美国",
-      "onboard_time": 1769863522,
-      "rank": 12,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 402489,
-      "num": 796566,
-      "word": "公务员为离职故意旷工触发辞退条款",
-      "onboard_time": 1769861421,
-      "rank": 8,
+      "raw_hot": 429016,
+      "num": 429016,
+      "word": "已有4000家绝味鸭脖倒下",
+      "onboard_time": 1769863222,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -707,6 +715,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 242578,
+      "num": 242578,
+      "word": "金价波动",
+      "onboard_time": 1769865023,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
       "raw_hot": 237686,
       "num": 237686,
       "word": "6岁女孩烟曲霉感染脑子被啃20个洞",
@@ -812,7 +828,7 @@
     },
     {
       "raw_hot": 204232,
-      "num": 179251,
+      "num": 186645,
       "word": "低丸子头是穿羽绒服最好看的发型",
       "onboard_time": 1769858781,
       "rank": 31,
@@ -841,6 +857,14 @@
       "onboard_time": 1769848641,
       "rank": 43,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 196189,
+      "num": 196189,
+      "word": "宁艺卓合作舞台呢",
+      "onboard_time": 1769862503,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 196063,
@@ -881,6 +905,14 @@
       "onboard_time": 1769853921,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 190349,
+      "num": 190349,
+      "word": "张杰真让月亮爬上来了",
+      "onboard_time": 1769866701,
+      "rank": 18,
+      "category": "演出"
     },
     {
       "raw_hot": 188989,
@@ -979,20 +1011,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 169326,
+      "num": 169326,
+      "word": "我和金瀚何曾有过嫌隙",
+      "onboard_time": 1769865201,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 166730,
       "num": 166730,
       "word": "于洋这可是央视",
       "onboard_time": 1769855842,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 165836,
-      "num": 151075,
-      "word": "宁艺卓合作舞台呢",
-      "onboard_time": 1769862503,
-      "rank": 26,
-      "category": "演出"
     },
     {
       "raw_hot": 161252,
@@ -1091,20 +1123,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149801,
+      "num": 145642,
+      "word": "董璇晒朵朵出生照",
+      "onboard_time": 1769865083,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 149770,
       "num": 100927,
       "word": "关晓彤婉拒马上有对象",
       "onboard_time": 1769761762,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 148754,
-      "num": 148754,
-      "word": "已有4000家绝味鸭脖倒下",
-      "onboard_time": 1769863222,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 147508,
@@ -1153,6 +1185,14 @@
       "onboard_time": 1769845042,
       "rank": 37,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 143681,
+      "num": 143681,
+      "word": "疑似十日终焉剪辑师泄露剧本",
+      "onboard_time": 1769866701,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 143569,
@@ -1259,12 +1299,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 138642,
+      "num": 145931,
+      "word": "爱泼斯坦",
+      "onboard_time": 1769866882,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 136372,
       "num": 86413,
       "word": "原来我们一直念错了蒲熠星名字",
       "onboard_time": 1769780783,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 135789,
+      "num": 135789,
+      "word": "冯提莫自曝雄性激素过多",
+      "onboard_time": 1769865983,
+      "rank": 34,
+      "category": "网红"
     },
     {
       "raw_hot": 134816,
@@ -1299,6 +1355,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 131147,
+      "num": 144067,
+      "word": "高中生熬夜用小太阳取暖突发脑梗",
+      "onboard_time": 1769864303,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 130544,
       "num": 150949,
       "word": "玉溪一教师事业单位岗被指是萝卜岗",
@@ -1321,6 +1385,14 @@
       "onboard_time": 1769854522,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 130262,
+      "num": 130262,
+      "word": "生命树第二集发生了什么",
+      "onboard_time": 1769865983,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 128748,
@@ -1555,20 +1627,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 111634,
-      "num": 111634,
-      "word": "金价波动",
-      "onboard_time": 1769865023,
-      "rank": 35,
-      "category": "财经"
-    },
-    {
       "raw_hot": 111401,
       "num": 220035,
       "word": "500元入手黄金卖出净赚20万元",
       "onboard_time": 1769858541,
       "rank": 18,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 111301,
+      "num": 95913,
+      "word": "突然的喜欢大结局",
+      "onboard_time": 1769866162,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 111265,
@@ -1755,16 +1827,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 102232,
-      "num": 102232,
-      "word": "高中生熬夜用小太阳取暖突发脑梗",
-      "onboard_time": 1769864303,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 100409,
-      "num": 100409,
+      "raw_hot": 101781,
+      "num": 101781,
       "word": "黄金创40年来最大单日跌幅",
       "onboard_time": 1769864060,
       "rank": 40,
@@ -1827,6 +1891,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 97720,
+      "num": 97720,
+      "word": "CBA",
+      "onboard_time": 1769866764,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 97600,
       "num": 212435,
       "word": "英国首相镜头里的中国军人",
@@ -1865,14 +1937,6 @@
       "onboard_time": 1769843541,
       "rank": 34,
       "category": "财经"
-    },
-    {
-      "raw_hot": 96007,
-      "num": 96007,
-      "word": "董璇晒朵朵出生照",
-      "onboard_time": 1769865083,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 95861,
@@ -1953,14 +2017,6 @@
       "onboard_time": 1769862681,
       "rank": 44,
       "category": "数码"
-    },
-    {
-      "raw_hot": 94935,
-      "num": 94935,
-      "word": "我和金瀚何曾有过嫌隙",
-      "onboard_time": 1769865201,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 94930,
@@ -2137,6 +2193,14 @@
       "onboard_time": 1769780664,
       "rank": 18,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 86557,
+      "num": 86557,
+      "word": "刘雨昕演唱会",
+      "onboard_time": 1769866342,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 86485,
@@ -2643,6 +2707,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 50197,
+      "num": 186836,
+      "word": "三天落马两个正部级",
+      "onboard_time": 1769867002,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 50134,
       "num": 219873,
       "word": "男子连杀两人爷奶帮毁尸灭迹",
@@ -2907,6 +2979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 32337,
+      "num": 682394,
+      "word": "2月起一批新规将施行",
+      "onboard_time": 1769850382,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32259,
       "num": 150710,
       "word": "美海军陆战队大衣淋雨就褪色",
@@ -3073,6 +3153,14 @@
       "onboard_time": 1769841200,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 21427,
+      "num": 96397,
+      "word": "春晚三彩老中青三代齐了",
+      "onboard_time": 1769866222,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 21142,
