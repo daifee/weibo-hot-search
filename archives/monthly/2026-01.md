@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/31 14:51:36
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/31 15:05:14
 </p>
 </blockquote>
 <p>
@@ -551,6 +551,12 @@ U23国足vs越南（热度：2487537）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E8%87%B3%E4%BB%8A%E6%97%A0%E4%B8%80%E4%BA%BA%E5%A1%8C%E6%88%BF%E7%9A%84%E5%85%A8%E5%A5%B3%E7%BB%BC%E8%89%BA%23" target="weibo">
 内娱至今无一人塌房的全女综艺（热度：1694750）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8D%A3%E8%80%80%E4%B9%8B%E6%88%98%23" target="weibo">
+荣耀之战（热度：1683061）
 </a>
 </li>
 
@@ -1175,12 +1181,6 @@ BLG上调新上单Wenbo（热度：1173465）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E5%90%AC%E6%B3%89%E9%89%B4%E5%AE%9D%E9%80%81%E5%89%8D%E5%A5%B3%E5%8F%8B%E6%88%BF%E5%AD%90%23" target="weibo">
 曝听泉鉴宝送前女友房子（热度：1121542）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8D%A3%E8%80%80%E4%B9%8B%E6%88%98%23" target="weibo">
-荣耀之战（热度：1118720）
 </a>
 </li>
 
@@ -5199,6 +5199,12 @@ Sakee Asen（热度：556725）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8D%A3%E8%80%80%E4%B9%8B%E6%88%98%E8%8A%82%E7%9B%AE%E5%8D%95%23" target="weibo">
+荣耀之战节目单（热度：543245）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23iPhoneFold%E4%B8%8A%E6%89%8B%23" target="weibo">
 iPhoneFold上手（热度：543056）
 </a>
@@ -5465,12 +5471,6 @@ QQ秀宣布回归（热度：534446）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%AE%AB%E5%B0%86%E5%B0%B1%E5%86%9B%E4%BA%8B%E6%89%93%E5%87%BB%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%8F%91%E5%A3%B0%E6%98%8E%23" target="weibo">
 白宫将就军事打击委内瑞拉发声明（热度：529697）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8D%A3%E8%80%80%E4%B9%8B%E6%88%98%E8%8A%82%E7%9B%AE%E5%8D%95%23" target="weibo">
-荣耀之战节目单（热度：529562）
 </a>
 </li>
 

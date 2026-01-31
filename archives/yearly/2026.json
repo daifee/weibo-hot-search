@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769842296973,
+  "endTime": 1769843114338,
   "band_list": [
     {
       "raw_hot": 22742360,
@@ -721,6 +721,14 @@
       "onboard_time": 1769508680,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1683061,
+      "num": 1683061,
+      "word": "荣耀之战",
+      "onboard_time": 1767514642,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 1664569,
@@ -1553,14 +1561,6 @@
       "onboard_time": 1769503160,
       "rank": 37,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1118720,
-      "num": 1178995,
-      "word": "荣耀之战",
-      "onboard_time": 1767514642,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 1118693,

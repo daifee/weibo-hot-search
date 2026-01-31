@@ -1,6 +1,6 @@
 {
   "startTime": 1769272464158,
-  "endTime": 1769842296973,
+  "endTime": 1769843114338,
   "band_list": [
     {
       "raw_hot": 22742360,
@@ -201,6 +201,14 @@
       "onboard_time": 1769508680,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1683061,
+      "num": 1683061,
+      "word": "荣耀之战",
+      "onboard_time": 1769411961,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 1643112,
@@ -449,14 +457,6 @@
       "onboard_time": 1769503160,
       "rank": 37,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1118720,
-      "num": 1178995,
-      "word": "荣耀之战",
-      "onboard_time": 1769411961,
-      "rank": 37,
-      "category": "演出"
     },
     {
       "raw_hot": 1117646,
@@ -1451,6 +1451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 543245,
+      "num": 325702,
+      "word": "荣耀之战节目单",
+      "onboard_time": 1769839400,
+      "rank": 5,
+      "category": "演出"
+    },
+    {
       "raw_hot": 542938,
       "num": 530710,
       "word": "办公室奶茶文化",
@@ -1497,14 +1505,6 @@
       "onboard_time": 1769264362,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 529562,
-      "num": 325702,
-      "word": "荣耀之战节目单",
-      "onboard_time": 1769839400,
-      "rank": 5,
-      "category": "演出"
     },
     {
       "raw_hot": 529193,
@@ -3052,7 +3052,7 @@
     },
     {
       "raw_hot": 337256,
-      "num": 213030,
+      "num": 237279,
       "word": "长剧凭什么还留得住观众",
       "onboard_time": 1769838921,
       "rank": 19,
@@ -3105,6 +3105,14 @@
       "onboard_time": 1769756541,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 334453,
+      "num": 238581,
+      "word": "吴磊 扣子再解就油腻了",
+      "onboard_time": 1769840239,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 333723,
@@ -3443,6 +3451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 318138,
+      "num": 238164,
+      "word": "张函瑞哭了",
+      "onboard_time": 1769842639,
+      "rank": 13,
+      "category": "演出"
+    },
+    {
       "raw_hot": 317971,
       "num": 317971,
       "word": "u23国足稳住",
@@ -3537,14 +3553,6 @@
       "onboard_time": 1769764822,
       "rank": 9,
       "category": "财经"
-    },
-    {
-      "raw_hot": 313027,
-      "num": 208978,
-      "word": "吴磊 扣子再解就油腻了",
-      "onboard_time": 1769840239,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 312055,
@@ -4291,6 +4299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 267523,
+      "num": 267523,
+      "word": "Uzi回归",
+      "onboard_time": 1769841800,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 267345,
       "num": 267345,
       "word": "印度疫情会失控吗",
@@ -4995,6 +5011,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 237515,
+      "num": 237515,
+      "word": "残杀父母华裔男子留杀人愿望清单",
+      "onboard_time": 1769840539,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 237099,
       "num": 237099,
       "word": "idle单曲MV",
@@ -5201,14 +5225,6 @@
       "onboard_time": 1769727977,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 228496,
-      "num": 210537,
-      "word": "残杀父母华裔男子留杀人愿望清单",
-      "onboard_time": 1769840539,
-      "rank": 14,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 227834,
@@ -6443,14 +6459,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 170674,
-      "num": 219044,
-      "word": "Uzi回归",
-      "onboard_time": 1769841800,
-      "rank": 8,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 170641,
       "num": 170641,
       "word": "MBC澳门取消",
@@ -7539,6 +7547,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 143115,
+      "num": 143115,
+      "word": "51岁前港姐乳腺癌细胞扩散至肝脏",
+      "onboard_time": 1769839640,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 143079,
       "num": 143079,
       "word": "姐强强一个娘夯夯一窝",
@@ -7708,7 +7724,7 @@
     },
     {
       "raw_hot": 140840,
-      "num": 127200,
+      "num": 135582,
       "word": "高市早苗拉票哭了",
       "onboard_time": 1769837120,
       "rank": 30,
@@ -7744,14 +7760,6 @@
       "word": "网红小胖已结婚生子",
       "onboard_time": 1769513062,
       "rank": 35,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 140592,
-      "num": 140592,
-      "word": "51岁前港姐乳腺癌细胞扩散至肝脏",
-      "onboard_time": 1769839640,
-      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -8819,6 +8827,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 124922,
+      "num": 192543,
+      "word": "原来情绪稳定是这样的",
+      "onboard_time": 1769841200,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 124690,
       "num": 2288613,
       "word": "生命树破平台招商纪录",
@@ -9233,6 +9249,14 @@
       "onboard_time": 1769579661,
       "rank": 33,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 119879,
+      "num": 119879,
+      "word": "李兰迪皮衣穿出芭比感",
+      "onboard_time": 1769841020,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 119833,
@@ -9707,14 +9731,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 115228,
-      "num": 115228,
-      "word": "李兰迪皮衣穿出芭比感",
-      "onboard_time": 1769841020,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 115185,
       "num": 97779,
       "word": "张凌赫宋威龙 为什么不加上余承东",
@@ -9979,6 +9995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 112886,
+      "num": 112886,
+      "word": "周大福金饰克价1个月涨了262元",
+      "onboard_time": 1769838801,
+      "rank": 32,
+      "category": "财经"
+    },
+    {
       "raw_hot": 112782,
       "num": 106656,
       "word": "村支书说刘强东送年货也带来泼天流量",
@@ -10129,14 +10153,6 @@
       "onboard_time": 1769528721,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 110829,
-      "num": 110829,
-      "word": "周大福金饰克价1个月涨了262元",
-      "onboard_time": 1769838801,
-      "rank": 32,
-      "category": "财经"
     },
     {
       "raw_hot": 110695,
@@ -11697,14 +11713,6 @@
       "onboard_time": 1769402902,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 99316,
-      "num": 99316,
-      "word": "原来情绪稳定是这样的",
-      "onboard_time": 1769841200,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 99292,
@@ -14971,6 +14979,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 81604,
+      "num": 81604,
+      "word": "我只是帮她买了个奶瓶",
+      "onboard_time": 1769843061,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 81585,
       "num": 87796,
       "word": "600年前的牡丹簪子有多美",
@@ -16235,6 +16251,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 75410,
+      "num": 75410,
+      "word": "千万别喝太热的水",
+      "onboard_time": 1769842761,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 75404,
       "num": 75404,
       "word": "鹿晗雪媚娘成脏脏包了",
@@ -16328,6 +16352,14 @@
       "word": "3个月就干了我一辈子的工作",
       "onboard_time": 1769334560,
       "rank": 37,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 74939,
+      "num": 71907,
+      "word": "有没有人管管内衣价格",
+      "onboard_time": 1769842521,
+      "rank": 42,
       "category": "幽默"
     },
     {
@@ -18091,6 +18123,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 53951,
+      "num": 74500,
+      "word": "过年相亲对象是杨迪都劝分",
+      "onboard_time": 1769842639,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 53705,
       "num": 73119,
       "word": "为这口菌子等了寒露又等雨",
@@ -18585,6 +18625,14 @@
       "onboard_time": 1769573719,
       "rank": 16,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 44668,
+      "num": 74730,
+      "word": "又能看到时代少年团红毯了",
+      "onboard_time": 1769842401,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 44643,
@@ -20355,6 +20403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 21142,
+      "num": 83637,
+      "word": "在意失联博士生最后定位显示在山区",
+      "onboard_time": 1769841800,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 21122,
       "num": 111312,
       "word": "菲律宾渡轮沉没已救起300余人",
@@ -20953,14 +21009,6 @@
       "onboard_time": 1769348242,
       "rank": 39,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 11982,
-      "num": 83637,
-      "word": "在意失联博士生最后定位显示在山区",
-      "onboard_time": 1769841800,
-      "rank": 39,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 11783,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/31 14:51:36
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/31 15:05:14
 </p>
 </blockquote>
 <p>
@@ -551,6 +551,12 @@ U23国足vs越南（热度：2487537）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E8%87%B3%E4%BB%8A%E6%97%A0%E4%B8%80%E4%BA%BA%E5%A1%8C%E6%88%BF%E7%9A%84%E5%85%A8%E5%A5%B3%E7%BB%BC%E8%89%BA%23" target="weibo">
 内娱至今无一人塌房的全女综艺（热度：1694750）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8D%A3%E8%80%80%E4%B9%8B%E6%88%98%23" target="weibo">
+荣耀之战（热度：1683061）
 </a>
 </li>
 
@@ -1175,12 +1181,6 @@ BLG上调新上单Wenbo（热度：1173465）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E5%90%AC%E6%B3%89%E9%89%B4%E5%AE%9D%E9%80%81%E5%89%8D%E5%A5%B3%E5%8F%8B%E6%88%BF%E5%AD%90%23" target="weibo">
 曝听泉鉴宝送前女友房子（热度：1121542）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8D%A3%E8%80%80%E4%B9%8B%E6%88%98%23" target="weibo">
-荣耀之战（热度：1118720）
 </a>
 </li>
 
