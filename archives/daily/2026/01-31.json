@@ -1,6 +1,6 @@
 {
   "startTime": 1769791903074,
-  "endTime": 1769873572305,
+  "endTime": 1769874456592,
   "band_list": [
     {
       "raw_hot": 1880814,
@@ -419,12 +419,36 @@
       "category": "财经"
     },
     {
+      "raw_hot": 412462,
+      "num": 245357,
+      "word": "翁青雅早期街头丘比特采访",
+      "onboard_time": 1769871742,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 404695,
+      "num": 834884,
+      "word": "员工单日如厕6小时21分钟被解雇",
+      "onboard_time": 1769869223,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 398800,
       "num": 150820,
       "word": "律师称金晨承担交通违法处罚责任",
       "onboard_time": 1769821641,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 395211,
+      "num": 395211,
+      "word": "魏大勋说自己后悔去爬山",
+      "onboard_time": 1769870783,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 394156,
@@ -449,14 +473,6 @@
       "onboard_time": 1769859202,
       "rank": 35,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 388636,
-      "num": 834884,
-      "word": "员工单日如厕6小时21分钟被解雇",
-      "onboard_time": 1769869223,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 388466,
@@ -488,14 +504,6 @@
       "word": "林子烨长开了",
       "onboard_time": 1769850141,
       "rank": 22,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 370615,
-      "num": 245357,
-      "word": "翁青雅早期街头丘比特采访",
-      "onboard_time": 1769871742,
-      "rank": 11,
       "category": "艺人"
     },
     {
@@ -713,14 +721,6 @@
       "onboard_time": 1769820259,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 260151,
-      "num": 184102,
-      "word": "魏大勋说自己后悔去爬山",
-      "onboard_time": 1769870783,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 259424,
@@ -1083,7 +1083,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 174405,
+      "raw_hot": 174478,
       "num": 133728,
       "word": "这些零食可能是第三代新型毒品",
       "onboard_time": 1769872042,
@@ -1140,7 +1140,7 @@
     },
     {
       "raw_hot": 160843,
-      "num": 126272,
+      "num": 146175,
       "word": "孟子义一道题得罪所有人",
       "onboard_time": 1769871982,
       "rank": 23,
@@ -1644,7 +1644,7 @@
     },
     {
       "raw_hot": 120767,
-      "num": 108864,
+      "num": 115618,
       "word": "邓超又来考验春晚导播了",
       "onboard_time": 1769872822,
       "rank": 32,
@@ -1691,6 +1691,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 119159,
+      "num": 115804,
+      "word": "一栗小莎子病理报告",
+      "onboard_time": 1769873301,
+      "rank": 40,
+      "category": "网红"
+    },
+    {
       "raw_hot": 117254,
       "num": 117254,
       "word": "萨巴伦卡连续两年澳网亚军",
@@ -1713,6 +1721,14 @@
       "onboard_time": 1769853141,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 116749,
+      "num": 116749,
+      "word": "16岁烤鸡少年爆火一个月后的现状",
+      "onboard_time": 1769872223,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 116603,
@@ -1785,14 +1801,6 @@
       "onboard_time": 1769843840,
       "rank": 43,
       "category": "演出"
-    },
-    {
-      "raw_hot": 111529,
-      "num": 111529,
-      "word": "16岁烤鸡少年爆火一个月后的现状",
-      "onboard_time": 1769872223,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 111401,
@@ -2073,14 +2081,6 @@
       "onboard_time": 1769778323,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 99285,
-      "num": 97049,
-      "word": "一栗小莎子病理报告",
-      "onboard_time": 1769873301,
-      "rank": 40,
-      "category": "网红"
     },
     {
       "raw_hot": 99045,
@@ -2513,6 +2513,14 @@
       "onboard_time": 1769850862,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 84550,
+      "num": 84550,
+      "word": "生命树口碑争议源于审美差异",
+      "onboard_time": 1769873720,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 84216,
@@ -3020,7 +3028,7 @@
     },
     {
       "raw_hot": 45631,
-      "num": 640502,
+      "num": 662472,
       "word": "哈尔滨义乌合肥宜宾分会场亮相",
       "onboard_time": 1769869402,
       "rank": 2,
