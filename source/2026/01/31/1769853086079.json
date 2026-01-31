@@ -1,0 +1,410 @@
+{
+  "runTime": 1769853086079,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 458249,
+        "num": 1073319,
+        "word": "荣耀之战排名",
+        "onboard_time": 1769845881,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 446363,
+        "num": 775758,
+        "word": "应急管理部部长被查",
+        "onboard_time": 1769847081,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 34744,
+        "num": 597402,
+        "word": "北京范儿",
+        "onboard_time": 1769851040,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 689023,
+        "num": 597097,
+        "word": "王一博 春晚",
+        "onboard_time": 1769848702,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191164,
+        "num": 583152,
+        "word": "日本山林中发现1中国籍女性遗体",
+        "onboard_time": 1769833520,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 577166,
+        "num": 577166,
+        "word": "在飞机上删了五个小时的照片",
+        "onboard_time": 1769846722,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 321744,
+        "num": 569355,
+        "word": "生命树收视率第二集就断崖跌",
+        "onboard_time": 1769843241,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188109,
+        "num": 551169,
+        "word": "女子手机被偷9年后收到1100元退赔",
+        "onboard_time": 1769849181,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162073,
+        "num": 510138,
+        "word": "王自如发年终奖了",
+        "onboard_time": 1769848641,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 145431,
+        "num": 499085,
+        "word": "英国演员裴淳华给首相整笑了",
+        "onboard_time": 1769849121,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 192401,
+        "num": 473600,
+        "word": "生命树首日云合",
+        "onboard_time": 1769847802,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1120901,
+        "num": 453092,
+        "word": "男子买彩票中500万后立马离婚",
+        "onboard_time": 1769850382,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 780636,
+        "num": 435541,
+        "word": "女生造黄谣被爸爸在派出所打了一耳光",
+        "onboard_time": 1769844381,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 419985,
+        "num": 419985,
+        "word": "国内金饰克价一夜跌140元",
+        "onboard_time": 1769843541,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 380645,
+        "num": 380645,
+        "word": "破音",
+        "onboard_time": 1769844500,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 295865,
+        "num": 295865,
+        "word": "爱丫爱丫第一",
+        "onboard_time": 1769845162,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 292973,
+        "num": 292973,
+        "word": "高度近视手术后50天真实感受",
+        "onboard_time": 1769846722,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 196063,
+        "num": 196063,
+        "word": "TF四代 怪奇物语",
+        "onboard_time": 1769847802,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 136833,
+        "num": 136833,
+        "word": "丫丫回国两年多判若两熊",
+        "onboard_time": 1769827579,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24892,
+        "num": 134278,
+        "word": "银行领导犯罪获刑后留任至退休",
+        "onboard_time": 1769852780,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 372790,
+        "num": 133100,
+        "word": "林子烨长开了",
+        "onboard_time": 1769850141,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242221,
+        "num": 128073,
+        "word": "荣耀之战",
+        "onboard_time": 1769819900,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 171671,
+        "num": 125092,
+        "word": "金价大幅下跌水贝市场有人果断抄底",
+        "onboard_time": 1769845942,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 123876,
+        "num": 123876,
+        "word": "澳洲麦当劳vs中国麦当劳",
+        "onboard_time": 1769849241,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 30584,
+        "num": 122899,
+        "word": "在美华人做团播称动作不能太性感",
+        "onboard_time": 1769852841,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 221461,
+        "num": 121240,
+        "word": "律师称金晨事件两人均违法",
+        "onboard_time": 1769845821,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194387,
+        "num": 119921,
+        "word": "将门毒后",
+        "onboard_time": 1769833580,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171162,
+        "num": 118719,
+        "word": "家人打扫房子6岁女孩脑子被真菌啃食",
+        "onboard_time": 1769850622,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151157,
+        "num": 118472,
+        "word": "难听",
+        "onboard_time": 1769845642,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 103918,
+        "num": 116184,
+        "word": "王祥喜涉嫌严重违纪违法",
+        "onboard_time": 1769847501,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 248702,
+        "num": 115336,
+        "word": "发明洗澡吃橙子的人是个天才",
+        "onboard_time": 1769851822,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 124035,
+        "num": 113233,
+        "word": "金价",
+        "onboard_time": 1769824100,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 113176,
+        "num": 113176,
+        "word": "刘亦菲版小龙女考虑过刘晓庆",
+        "onboard_time": 1769843119,
+        "rank": 32,
+        "category": "综艺,作品衍生"
+      },
+      {
+        "raw_hot": 106559,
+        "num": 106559,
+        "word": "lovely好听",
+        "onboard_time": 1769847621,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 104100,
+        "num": 104100,
+        "word": "招聘守岛人不限男女但不能一男一女",
+        "onboard_time": 1769835741,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105884,
+        "num": 103653,
+        "word": "生命树",
+        "onboard_time": 1769852721,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103145,
+        "num": 103145,
+        "word": "播音生被擦妆后猛咬嘴唇",
+        "onboard_time": 1769852661,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 102687,
+        "num": 102687,
+        "word": "最佳菜鸟",
+        "onboard_time": 1769852181,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 99169,
+        "num": 99169,
+        "word": "借过一下第二",
+        "onboard_time": 1769844681,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 38441,
+        "num": 99083,
+        "word": "深圳一公司年会两员工抽中100克金条",
+        "onboard_time": 1769852601,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99045,
+        "num": 99045,
+        "word": "59岁的王祖贤",
+        "onboard_time": 1769852841,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98649,
+        "num": 98649,
+        "word": "杨博文歪嘴笑",
+        "onboard_time": 1769852240,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 88335,
+        "num": 95189,
+        "word": "曝美联储主席提名人卷入爱泼斯坦案",
+        "onboard_time": 1769851581,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 94512,
+        "num": 94512,
+        "word": "萨巴伦卡vs莱巴金娜",
+        "onboard_time": 1769852841,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31520,
+        "num": 94246,
+        "word": "于洋春晚彩排",
+        "onboard_time": 1769853020,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94070,
+        "num": 94070,
+        "word": "宝可梦",
+        "onboard_time": 1769852361,
+        "rank": 45,
+        "category": "游戏,海外新闻"
+      },
+      {
+        "raw_hot": 93683,
+        "num": 93683,
+        "word": "莱巴金娜破发萨巴伦卡",
+        "onboard_time": 1769852301,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93386,
+        "num": 93386,
+        "word": "朝天门好帅",
+        "onboard_time": 1769850741,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 91923,
+        "num": 91923,
+        "word": "38岁国企员工辞职演短剧",
+        "onboard_time": 1769847322,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85976,
+        "num": 85976,
+        "word": "Uzi组排豪华阵容",
+        "onboard_time": 1769853020,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同阿尔及利亚总统互致贺电#"
+    }
+  }
+}
