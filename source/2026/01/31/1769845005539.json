@@ -1,0 +1,410 @@
+{
+  "runTime": 1769845005539,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 659027,
+        "num": 1105444,
+        "word": "将门毒后",
+        "onboard_time": 1769833580,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 392295,
+        "num": 812393,
+        "word": "丫丫回国两年多判若两熊",
+        "onboard_time": 1769827579,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66931,
+        "num": 617403,
+        "word": "大回暖来了气温跳跃式起飞",
+        "onboard_time": 1769836162,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 564481,
+        "num": 564481,
+        "word": "张函瑞哭了",
+        "onboard_time": 1769842639,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 254723,
+        "num": 254723,
+        "word": "Uzi回归",
+        "onboard_time": 1769841800,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 516829,
+        "num": 254621,
+        "word": "生命树收视率第二集就断崖跌",
+        "onboard_time": 1769843241,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 246118,
+        "num": 246118,
+        "word": "黄金白银暴跌投资者发声",
+        "onboard_time": 1769834240,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 195466,
+        "num": 195466,
+        "word": "网传刘冲被VOGUE辞了",
+        "onboard_time": 1769835021,
+        "rank": 7,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 186654,
+        "num": 186654,
+        "word": "日本山林中发现1中国籍女性遗体",
+        "onboard_time": 1769833520,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 179241,
+        "num": 179241,
+        "word": "招聘守岛人不限男女但不能一男一女",
+        "onboard_time": 1769835741,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1565918,
+        "num": 177139,
+        "word": "荣耀之战",
+        "onboard_time": 1769819900,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 749084,
+        "num": 175027,
+        "word": "小鱼海棠美颜掉了",
+        "onboard_time": 1769829800,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 314310,
+        "num": 174133,
+        "word": "国内金饰克价一夜跌140元",
+        "onboard_time": 1769843541,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 363984,
+        "num": 171201,
+        "word": "荣耀之战节目单",
+        "onboard_time": 1769839400,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 300277,
+        "num": 169439,
+        "word": "家长为找宝宝断指将兔子开膛破肚",
+        "onboard_time": 1769835561,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 276647,
+        "num": 167267,
+        "word": "吴磊 扣子再解就油腻了",
+        "onboard_time": 1769840239,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265476,
+        "num": 164649,
+        "word": "刘亦菲版小龙女考虑过刘晓庆",
+        "onboard_time": 1769843119,
+        "rank": 16,
+        "category": "综艺,作品衍生"
+      },
+      {
+        "raw_hot": 163858,
+        "num": 163858,
+        "word": "比尔盖茨被曝向妻子隐瞒性病",
+        "onboard_time": 1769826201,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 149767,
+        "num": 149767,
+        "word": "原来情绪稳定是这样的",
+        "onboard_time": 1769841200,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 57506,
+        "num": 148140,
+        "word": "女生造黄谣被爸爸在派出所打了一耳光",
+        "onboard_time": 1769844381,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 339854,
+        "num": 148026,
+        "word": "金价",
+        "onboard_time": 1769824100,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 250495,
+        "num": 147927,
+        "word": "破音",
+        "onboard_time": 1769844500,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 147734,
+        "num": 147734,
+        "word": "残杀父母华裔男子留杀人愿望清单",
+        "onboard_time": 1769840539,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 197314,
+        "num": 144482,
+        "word": "我是一只鱼",
+        "onboard_time": 1769843299,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 140741,
+        "num": 140741,
+        "word": "呼兰质疑赵樱子直播真实性",
+        "onboard_time": 1769843600,
+        "rank": 24,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 106793,
+        "num": 130543,
+        "word": "51岁前港姐乳腺癌细胞扩散至肝脏",
+        "onboard_time": 1769839640,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128107,
+        "num": 128107,
+        "word": "长剧凭什么还留得住观众",
+        "onboard_time": 1769838921,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126903,
+        "num": 126903,
+        "word": "借过一下第二",
+        "onboard_time": 1769844681,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 105894,
+        "num": 118029,
+        "word": "周大福金饰克价1个月涨了262元",
+        "onboard_time": 1769838801,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 94113,
+        "num": 115101,
+        "word": "高市早苗拉票哭了",
+        "onboard_time": 1769837120,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 114742,
+        "num": 114742,
+        "word": "徐良抢票",
+        "onboard_time": 1769843659,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 111730,
+        "num": 111730,
+        "word": "罗晋状态回春",
+        "onboard_time": 1769838141,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108815,
+        "num": 108815,
+        "word": "有没有人管管内衣价格",
+        "onboard_time": 1769842521,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 102094,
+        "num": 102094,
+        "word": "6岁女孩烟曲霉感染脑子被啃20个洞",
+        "onboard_time": 1769835861,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96393,
+        "num": 101688,
+        "word": "金价跌了你会现在入手吗",
+        "onboard_time": 1769843541,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 101380,
+        "num": 101380,
+        "word": "刘晓庆不知道贺峻霖是谁",
+        "onboard_time": 1769834600,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97445,
+        "num": 97445,
+        "word": "七匹狼",
+        "onboard_time": 1769844441,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 92087,
+        "num": 97334,
+        "word": "心梗发病前1个月就会有征兆",
+        "onboard_time": 1769830160,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 72135,
+        "num": 96473,
+        "word": "嘉禾望岗上榜人生四大地铁站",
+        "onboard_time": 1769844079,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21900,
+        "num": 95911,
+        "word": "平价餐饮该贴上穷鬼套餐标签吗",
+        "onboard_time": 1769844079,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92234,
+        "num": 95826,
+        "word": "何炅飞行亲爱的客栈",
+        "onboard_time": 1769843961,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95344,
+        "num": 95344,
+        "word": "刘耀文改名徐志胜 细思极恐",
+        "onboard_time": 1769840781,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83916,
+        "num": 94299,
+        "word": "小时候常吃的水果消失了",
+        "onboard_time": 1769834180,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 94088,
+        "num": 94088,
+        "word": "王橹杰我是一只鱼",
+        "onboard_time": 1769843840,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 86449,
+        "num": 86449,
+        "word": "李兰迪皮衣穿出芭比感",
+        "onboard_time": 1769841020,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82918,
+        "num": 82918,
+        "word": "美国政府又停摆了",
+        "onboard_time": 1769843178,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 86280,
+        "num": 80216,
+        "word": "赵樱子 你看我蹭的都是谁",
+        "onboard_time": 1769841740,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83062,
+        "num": 78870,
+        "word": "张钧甯 头包脸",
+        "onboard_time": 1769836882,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 73577,
+        "num": 73577,
+        "word": "解放军军机飞进菲军演划设区",
+        "onboard_time": 1769831540,
+        "rank": 48,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 78486,
+        "num": 73527,
+        "word": "亲爱的客栈",
+        "onboard_time": 1769844980,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#会见斯塔默习近平重视大历史观#"
+    }
+  }
+}

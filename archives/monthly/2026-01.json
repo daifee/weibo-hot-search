@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769843114338,
+  "endTime": 1769845005539,
   "band_list": [
     {
       "raw_hot": 22742360,
@@ -6379,6 +6379,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 564481,
+      "num": 564481,
+      "word": "张函瑞哭了",
+      "onboard_time": 1769842639,
+      "rank": 13,
+      "category": "演出"
+    },
+    {
       "raw_hot": 564003,
       "num": 212820,
       "word": "宫外孕切子宫离婚却被索要彩礼",
@@ -7705,6 +7713,14 @@
       "onboard_time": 1767496283,
       "rank": 6,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 516829,
+      "num": 254621,
+      "word": "生命树收视率第二集就断崖跌",
+      "onboard_time": 1769843241,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 516466,
@@ -16403,14 +16419,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 318138,
-      "num": 238164,
-      "word": "张函瑞哭了",
-      "onboard_time": 1769842639,
-      "rank": 13,
-      "category": "演出"
-    },
-    {
       "raw_hot": 318084,
       "num": 318084,
       "word": "以为是山没想到是她的裙子",
@@ -16697,6 +16705,14 @@
       "onboard_time": 1768179921,
       "rank": 1,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 314310,
+      "num": 174133,
+      "word": "国内金饰克价一夜跌140元",
+      "onboard_time": 1769843541,
+      "rank": 12,
+      "category": "财经"
     },
     {
       "raw_hot": 314276,
@@ -20443,6 +20459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 265476,
+      "num": 164649,
+      "word": "刘亦菲版小龙女考虑过刘晓庆",
+      "onboard_time": 1769843119,
+      "rank": 16,
+      "category": "综艺,作品衍生"
+    },
+    {
       "raw_hot": 265458,
       "num": 243456,
       "word": "河北农村取暖气价高补贴被砍",
@@ -21793,6 +21817,14 @@
       "onboard_time": 1767914478,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 250495,
+      "num": 147927,
+      "word": "破音",
+      "onboard_time": 1769844500,
+      "rank": 21,
+      "category": "演出"
     },
     {
       "raw_hot": 250416,
@@ -27961,6 +27993,14 @@
       "onboard_time": 1767521602,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 197314,
+      "num": 144482,
+      "word": "我是一只鱼",
+      "onboard_time": 1769843299,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 197303,
@@ -37899,6 +37939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 149767,
+      "num": 192543,
+      "word": "原来情绪稳定是这样的",
+      "onboard_time": 1769841200,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 149760,
       "num": 183238,
       "word": "金价暴涨对普通人的影响",
@@ -40809,6 +40857,14 @@
       "onboard_time": 1769505442,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 140741,
+      "num": 140741,
+      "word": "呼兰质疑赵樱子直播真实性",
+      "onboard_time": 1769843600,
+      "rank": 24,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 140737,
@@ -45835,6 +45891,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 126903,
+      "num": 126903,
+      "word": "借过一下第二",
+      "onboard_time": 1769844681,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 126901,
       "num": 126901,
       "word": "今屿剑与玫瑰造型帅哭了",
@@ -46793,14 +46857,6 @@
       "onboard_time": 1767683059,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 124922,
-      "num": 192543,
-      "word": "原来情绪稳定是这样的",
-      "onboard_time": 1769841200,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 124915,
@@ -51787,6 +51843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 114742,
+      "num": 114742,
+      "word": "徐良抢票",
+      "onboard_time": 1769843659,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 114716,
       "num": 114716,
       "word": "野狗骨头感觉大事很妙",
@@ -52900,7 +52964,7 @@
     },
     {
       "raw_hot": 112886,
-      "num": 112886,
+      "num": 118029,
       "word": "周大福金饰克价1个月涨了262元",
       "onboard_time": 1769838801,
       "rank": 32,
@@ -54817,6 +54881,14 @@
       "onboard_time": 1769339720,
       "rank": 41,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 108815,
+      "num": 108815,
+      "word": "有没有人管管内衣价格",
+      "onboard_time": 1769842521,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 108786,
@@ -62755,6 +62827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 97445,
+      "num": 97445,
+      "word": "七匹狼",
+      "onboard_time": 1769844441,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 97424,
       "num": 252568,
       "word": "你要和本身就很好的人结婚",
@@ -63641,6 +63721,14 @@
       "onboard_time": 1768615220,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 96393,
+      "num": 101688,
+      "word": "金价跌了你会现在入手吗",
+      "onboard_time": 1769843541,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 96392,
@@ -64545,6 +64633,14 @@
       "onboard_time": 1767418168,
       "rank": 45,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 95344,
+      "num": 95344,
+      "word": "刘耀文改名徐志胜 细思极恐",
+      "onboard_time": 1769840781,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 95337,
@@ -65457,6 +65553,14 @@
       "onboard_time": 1768975100,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 94088,
+      "num": 94088,
+      "word": "王橹杰我是一只鱼",
+      "onboard_time": 1769843840,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 94078,
@@ -67113,6 +67217,14 @@
       "onboard_time": 1768186278,
       "rank": 48,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 92234,
+      "num": 95826,
+      "word": "何炅飞行亲爱的客栈",
+      "onboard_time": 1769843961,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 92209,
@@ -74827,6 +74939,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 82918,
+      "num": 82918,
+      "word": "美国政府又停摆了",
+      "onboard_time": 1769843178,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 82914,
       "num": 82914,
       "word": "AG剧透",
@@ -76649,14 +76769,6 @@
       "onboard_time": 1768718780,
       "rank": 42,
       "category": "电影"
-    },
-    {
-      "raw_hot": 80483,
-      "num": 78232,
-      "word": "刘耀文改名徐志胜 细思极恐",
-      "onboard_time": 1769840781,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 80478,
@@ -80491,14 +80603,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 74939,
-      "num": 71907,
-      "word": "有没有人管管内衣价格",
-      "onboard_time": 1769842521,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 74928,
       "num": 74928,
       "word": "日本雪车队因协会漏看规定无缘冬奥会",
@@ -81921,6 +82025,14 @@
       "onboard_time": 1768174458,
       "rank": 27,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 72135,
+      "num": 96473,
+      "word": "嘉禾望岗上榜人生四大地铁站",
+      "onboard_time": 1769844079,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 72091,
@@ -87393,6 +87505,14 @@
       "onboard_time": 1769597240,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 57506,
+      "num": 148140,
+      "word": "女生造黄谣被爸爸在派出所打了一耳光",
+      "onboard_time": 1769844381,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 57493,
@@ -98215,6 +98335,14 @@
       "num": 100882,
       "word": "县公安局原副局长举报信访局局长",
       "onboard_time": 1769070860,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21900,
+      "num": 95911,
+      "word": "平价餐饮该贴上穷鬼套餐标签吗",
+      "onboard_time": 1769844079,
       "rank": 39,
       "category": "民生新闻"
     },
