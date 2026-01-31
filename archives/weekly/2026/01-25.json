@@ -1,6 +1,6 @@
 {
   "startTime": 1769272464158,
-  "endTime": 1769859869326,
+  "endTime": 1769864576135,
   "band_list": [
     {
       "raw_hot": 22742360,
@@ -636,7 +636,7 @@
     },
     {
       "raw_hot": 916892,
-      "num": 330549,
+      "num": 382154,
       "word": "TF四代赢了TOP",
       "onboard_time": 1769856200,
       "rank": 6,
@@ -713,6 +713,14 @@
       "onboard_time": 1769382617,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 841383,
+      "num": 2755026,
+      "word": "生命树",
+      "onboard_time": 1769355501,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 839881,
@@ -979,12 +987,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 694409,
+      "num": 251939,
+      "word": "一栗小莎子回应确诊淋巴瘤",
+      "onboard_time": 1769859742,
+      "rank": 46,
+      "category": "网红"
+    },
+    {
       "raw_hot": 691681,
       "num": 691681,
       "word": "网传刘冲被VOGUE辞了",
       "onboard_time": 1769835021,
       "rank": 4,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 688631,
+      "num": 588941,
+      "word": "生命树收视率",
+      "onboard_time": 1769862802,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 688183,
@@ -1987,6 +2011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 483920,
+      "num": 835270,
+      "word": "家委会收每生263元家长报警",
+      "onboard_time": 1769857522,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 483854,
       "num": 247240,
       "word": "女子只顾玩手机致4岁外甥女溺亡",
@@ -2737,6 +2769,14 @@
       "onboard_time": 1769823858,
       "rank": 0,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 388662,
+      "num": 388662,
+      "word": "名侦探柯南 联动",
+      "onboard_time": 1769859202,
+      "rank": 35,
+      "category": "动漫"
     },
     {
       "raw_hot": 388493,
@@ -3827,6 +3867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 305001,
+      "num": 305001,
+      "word": "GuanG发博",
+      "onboard_time": 1769861121,
+      "rank": 7,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 304320,
       "num": 360213,
       "word": "用了十年才发现镜子可以打开",
@@ -4171,6 +4219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 285990,
+      "num": 285990,
+      "word": "公务员为离职故意旷工触发辞退条款",
+      "onboard_time": 1769861421,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 285701,
       "num": 285701,
       "word": "有色金属多股跌停",
@@ -4363,14 +4419,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 277538,
-      "num": 2755026,
-      "word": "生命树",
-      "onboard_time": 1769355501,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 277193,
       "num": 184510,
       "word": "王橹杰新音总结",
@@ -4401,14 +4449,6 @@
       "onboard_time": 1769425882,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 274090,
-      "num": 274090,
-      "word": "家委会收每生263元家长报警",
-      "onboard_time": 1769857522,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 273839,
@@ -4785,6 +4825,14 @@
       "onboard_time": 1769587760,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 256663,
+      "num": 213709,
+      "word": "内娱唯一说微调结果没人信的人",
+      "onboard_time": 1769864000,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 256527,
@@ -5731,6 +5779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 218159,
+      "num": 218159,
+      "word": "全球抛售美国",
+      "onboard_time": 1769863522,
+      "rank": 12,
+      "category": "财经"
+    },
+    {
       "raw_hot": 218088,
       "num": 164838,
       "word": "孙卓坦言不知父母寻亲的艰辛",
@@ -5881,6 +5937,14 @@
       "onboard_time": 1769829739,
       "rank": 14,
       "category": "美食"
+    },
+    {
+      "raw_hot": 210410,
+      "num": 192814,
+      "word": "ZOO舞台",
+      "onboard_time": 1769861181,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 210375,
@@ -6369,6 +6433,14 @@
       "onboard_time": 1769413342,
       "rank": 21,
       "category": "数码"
+    },
+    {
+      "raw_hot": 188989,
+      "num": 188989,
+      "word": "伊朗阿巴斯港一栋居民楼传出爆炸声",
+      "onboard_time": 1769863342,
+      "rank": 18,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 188410,
@@ -6875,6 +6947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 169707,
+      "num": 153427,
+      "word": "原来能让王一博回归内娱的是央妈",
+      "onboard_time": 1769861902,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 169448,
       "num": 169448,
       "word": "欧洲领导人排队访华美国急了",
@@ -6992,6 +7072,14 @@
       "word": "告白",
       "onboard_time": 1769660242,
       "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 165334,
+      "num": 151800,
+      "word": "生命树 正午阳光",
+      "onboard_time": 1769863942,
+      "rank": 24,
       "category": "剧集"
     },
     {
@@ -7137,6 +7225,14 @@
       "onboard_time": 1769847501,
       "rank": 28,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 159593,
+      "num": 147595,
+      "word": "宁艺卓合作舞台呢",
+      "onboard_time": 1769862503,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 159540,
@@ -7771,6 +7867,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 147375,
+      "num": 147375,
+      "word": "妈妈回应请1米86儿子当模特走红",
+      "onboard_time": 1769858961,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 147187,
       "num": 128255,
       "word": "被劝退歌手拿了全场最高分",
@@ -8307,6 +8411,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 139464,
+      "num": 156472,
+      "word": "伊媒否认革命卫队海军司令遭暗杀传闻",
+      "onboard_time": 1769864362,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 139365,
       "num": 136890,
       "word": "印度男女杀人犯狱中恋爱并结婚",
@@ -8417,14 +8529,6 @@
       "onboard_time": 1769649681,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 137120,
-      "num": 137120,
-      "word": "妈妈回应请1米86儿子当模特走红",
-      "onboard_time": 1769858961,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 137095,
@@ -9587,14 +9691,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 121990,
-      "num": 121990,
-      "word": "名侦探柯南 联动",
-      "onboard_time": 1769859202,
-      "rank": 35,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 121940,
       "num": 179088,
       "word": "弗拉格49分",
@@ -10475,6 +10571,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 113999,
+      "num": 138661,
+      "word": "已有4000家绝味鸭脖倒下",
+      "onboard_time": 1769863222,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 113851,
       "num": 133245,
       "word": "TES战胜IG",
@@ -10979,6 +11083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 108584,
+      "num": 108584,
+      "word": "AL战胜JDG",
+      "onboard_time": 1769862503,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 108511,
       "num": 125436,
       "word": "台军宣称解放军26架次军机巡台",
@@ -11315,6 +11427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 106635,
+      "num": 106635,
+      "word": "女子致外甥女溺亡遭姐姐索赔",
+      "onboard_time": 1769861181,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106605,
       "num": 106605,
       "word": "以军拔了巴勒斯坦100棵树",
@@ -11385,6 +11505,14 @@
       "onboard_time": 1769843178,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 105805,
+      "num": 105805,
+      "word": "马斯克回应被爆曾试图前往萝莉岛",
+      "onboard_time": 1769860282,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 105751,
@@ -11955,14 +12083,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 102558,
-      "num": 102558,
-      "word": "一栗小莎子回应确诊淋巴瘤",
-      "onboard_time": 1769859742,
-      "rank": 46,
-      "category": "网红"
-    },
-    {
       "raw_hot": 102441,
       "num": 164706,
       "word": "山西的便利店能有多万能",
@@ -12241,6 +12361,14 @@
       "onboard_time": 1769589321,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 100409,
+      "num": 100409,
+      "word": "黄金创40年来最大单日跌幅",
+      "onboard_time": 1769864060,
+      "rank": 40,
+      "category": "财经"
     },
     {
       "raw_hot": 100380,
@@ -12699,6 +12827,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 97600,
+      "num": 212435,
+      "word": "英国首相镜头里的中国军人",
+      "onboard_time": 1769858722,
+      "rank": 23,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 97406,
       "num": 94641,
       "word": "王玉雯 我也是个女生我有点害羞",
@@ -13048,6 +13184,14 @@
       "word": "理解为什么有同学觉得食堂好吃了",
       "onboard_time": 1769420662,
       "rank": 43,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 95861,
+      "num": 95861,
+      "word": "等一小时外卖结果发现自己根本没支付",
+      "onboard_time": 1769863881,
+      "rank": 44,
       "category": "幽默"
     },
     {
@@ -13401,6 +13545,14 @@
       "onboard_time": 1769313740,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 94086,
+      "num": 94086,
+      "word": "因喉结被取笑女子30年不敢抬头",
+      "onboard_time": 1769862261,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 94066,
@@ -14451,6 +14603,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 89284,
+      "num": 89284,
+      "word": "ENHYPEN直播",
+      "onboard_time": 1769864122,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 89283,
       "num": 89283,
       "word": "周五晚高疯定档",
@@ -15441,6 +15601,14 @@
       "onboard_time": 1769830281,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 84181,
+      "num": 84181,
+      "word": "高中生熬夜用小太阳取暖突发脑梗",
+      "onboard_time": 1769864303,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 84155,
@@ -18731,14 +18899,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 58376,
-      "num": 212435,
-      "word": "英国首相镜头里的中国军人",
-      "onboard_time": 1769858722,
-      "rank": 23,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 58002,
       "num": 105104,
       "word": "外交部回应高市早苗涉台最新言论",
@@ -21091,8 +21251,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 25038,
-      "num": 653801,
+      "raw_hot": 25041,
+      "num": 669868,
       "word": "京味烟火",
       "onboard_time": 1769858302,
       "rank": 2,
@@ -22160,6 +22320,14 @@
       "word": "6个关键词看以旧换新牵引产业提质升级",
       "onboard_time": 1769345542,
       "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 8475,
+      "num": 139352,
+      "word": "炒货刺客席卷商场",
+      "onboard_time": 1769864422,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
