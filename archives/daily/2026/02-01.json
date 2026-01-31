@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1769895049346,
+  "endTime": 1769895941266,
   "band_list": [
     {
       "raw_hot": 636694,
@@ -500,7 +500,7 @@
     },
     {
       "raw_hot": 17450,
-      "num": 93574,
+      "num": 114951,
       "word": "已发售春运火车票超5000万张",
       "onboard_time": 1769869042,
       "rank": 2,
@@ -513,6 +513,14 @@
       "onboard_time": 1769866342,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 11706,
+      "num": 14721,
+      "word": "CBA",
+      "onboard_time": 1769866764,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 11578,

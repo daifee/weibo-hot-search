@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/02/01 00:39:22 ~ 2026/02/01 05:30:49
+本榜单时间：2026/02/01 00:39:22 ~ 2026/02/01 05:45:41
 </p>
 </blockquote>
 <p>
@@ -395,6 +395,12 @@ TF四代赢了TOP（热度：76661）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E9%9B%A8%E6%98%95%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
 刘雨昕演唱会（热度：14267）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23CBA%23" target="weibo">
+CBA（热度：11706）
 </a>
 </li>
 
