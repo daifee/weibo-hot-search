@@ -1,6 +1,6 @@
 {
   "startTime": 1769791903074,
-  "endTime": 1769864576135,
+  "endTime": 1769865458513,
   "band_list": [
     {
       "raw_hot": 1880814,
@@ -171,6 +171,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 689991,
+      "num": 620498,
+      "word": "内娱唯一说微调结果没人信的人",
+      "onboard_time": 1769864000,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 688631,
       "num": 588941,
       "word": "生命树收视率",
@@ -188,7 +196,7 @@
     },
     {
       "raw_hot": 647619,
-      "num": 238150,
+      "num": 241443,
       "word": "朴信惠母亲自曝不愿看天国的阶梯",
       "onboard_time": 1769854581,
       "rank": 23,
@@ -323,6 +331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 478368,
+      "num": 245967,
+      "word": "伊朗",
+      "onboard_time": 1769864781,
+      "rank": 11,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 443119,
       "num": 773112,
       "word": "大米先生创始人怒斥穷鬼套餐",
@@ -337,6 +353,22 @@
       "onboard_time": 1769857340,
       "rank": 3,
       "category": "财经"
+    },
+    {
+      "raw_hot": 406524,
+      "num": 406524,
+      "word": "全球抛售美国",
+      "onboard_time": 1769863522,
+      "rank": 12,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 402489,
+      "num": 796566,
+      "word": "公务员为离职故意旷工触发辞退条款",
+      "onboard_time": 1769861421,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 398800,
@@ -547,14 +579,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 285990,
-      "num": 285990,
-      "word": "公务员为离职故意旷工触发辞退条款",
-      "onboard_time": 1769861421,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 285193,
       "num": 150878,
       "word": "催婚差点把父母说离了",
@@ -617,14 +641,6 @@
       "onboard_time": 1769843299,
       "rank": 23,
       "category": "演出"
-    },
-    {
-      "raw_hot": 256663,
-      "num": 213709,
-      "word": "内娱唯一说微调结果没人信的人",
-      "onboard_time": 1769864000,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 255879,
@@ -755,14 +771,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 218159,
-      "num": 218159,
-      "word": "全球抛售美国",
-      "onboard_time": 1769863522,
-      "rank": 12,
-      "category": "财经"
-    },
-    {
       "raw_hot": 217041,
       "num": 217041,
       "word": "范志毅锐评赵樱子假摔",
@@ -788,7 +796,7 @@
     },
     {
       "raw_hot": 210410,
-      "num": 192814,
+      "num": 205986,
       "word": "ZOO舞台",
       "onboard_time": 1769861181,
       "rank": 17,
@@ -841,6 +849,14 @@
       "onboard_time": 1769847802,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 193760,
+      "num": 156956,
+      "word": "生命树 正午阳光",
+      "onboard_time": 1769863942,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 193612,
@@ -971,12 +987,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 165334,
-      "num": 151800,
-      "word": "生命树 正午阳光",
-      "onboard_time": 1769863942,
-      "rank": 24,
-      "category": "剧集"
+      "raw_hot": 165836,
+      "num": 151075,
+      "word": "宁艺卓合作舞台呢",
+      "onboard_time": 1769862503,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 161252,
@@ -993,14 +1009,6 @@
       "onboard_time": 1769847501,
       "rank": 28,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 159593,
-      "num": 147595,
-      "word": "宁艺卓合作舞台呢",
-      "onboard_time": 1769862503,
-      "rank": 26,
-      "category": "演出"
     },
     {
       "raw_hot": 157098,
@@ -1091,6 +1099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 148754,
+      "num": 148754,
+      "word": "已有4000家绝味鸭脖倒下",
+      "onboard_time": 1769863222,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 147508,
       "num": 147508,
       "word": "女老板招助理只要40岁以上的",
@@ -1145,6 +1161,14 @@
       "onboard_time": 1769856262,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 143142,
+      "num": 143142,
+      "word": "酷云",
+      "onboard_time": 1769864843,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 143115,
@@ -1251,6 +1275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 133558,
+      "num": 133558,
+      "word": "微博之夜",
+      "onboard_time": 1769864362,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 132608,
       "num": 132608,
       "word": "澳门一酒店大堂78公斤黄金被曝搬空",
@@ -1265,14 +1297,6 @@
       "onboard_time": 1769844441,
       "rank": 36,
       "category": "演出"
-    },
-    {
-      "raw_hot": 131468,
-      "num": 131468,
-      "word": "微博之夜",
-      "onboard_time": 1769864362,
-      "rank": 32,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 130544,
@@ -1345,6 +1369,14 @@
       "onboard_time": 1769849241,
       "rank": 45,
       "category": "美食"
+    },
+    {
+      "raw_hot": 123211,
+      "num": 123211,
+      "word": "BLG对战iG",
+      "onboard_time": 1769865141,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 121749,
@@ -1499,14 +1531,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 113999,
-      "num": 138661,
-      "word": "已有4000家绝味鸭脖倒下",
-      "onboard_time": 1769863222,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 112886,
       "num": 118029,
       "word": "周大福金饰克价1个月涨了262元",
@@ -1531,6 +1555,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 111634,
+      "num": 111634,
+      "word": "金价波动",
+      "onboard_time": 1769865023,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
       "raw_hot": 111401,
       "num": 220035,
       "word": "500元入手黄金卖出净赚20万元",
@@ -1545,6 +1577,14 @@
       "onboard_time": 1769855541,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 109504,
+      "num": 109504,
+      "word": "侯明昊直播",
+      "onboard_time": 1769865083,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 109036,
@@ -1715,6 +1755,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 102232,
+      "num": 102232,
+      "word": "高中生熬夜用小太阳取暖突发脑梗",
+      "onboard_time": 1769864303,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100409,
       "num": 100409,
       "word": "黄金创40年来最大单日跌幅",
@@ -1819,6 +1867,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 96007,
+      "num": 96007,
+      "word": "董璇晒朵朵出生照",
+      "onboard_time": 1769865083,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 95861,
       "num": 95861,
       "word": "等一小时外卖结果发现自己根本没支付",
@@ -1889,6 +1945,22 @@
       "onboard_time": 1769839702,
       "rank": 49,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 95224,
+      "num": 95224,
+      "word": "库克暗示苹果将有前所未见的创新",
+      "onboard_time": 1769862681,
+      "rank": 44,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 94935,
+      "num": 94935,
+      "word": "我和金瀚何曾有过嫌隙",
+      "onboard_time": 1769865201,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 94930,
@@ -2027,6 +2099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 88391,
+      "num": 88391,
+      "word": "有罪之身",
+      "onboard_time": 1769865382,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 88342,
       "num": 88342,
       "word": "消费贷催收新规发布",
@@ -2129,14 +2209,6 @@
       "onboard_time": 1769830281,
       "rank": 44,
       "category": "电影"
-    },
-    {
-      "raw_hot": 84181,
-      "num": 84181,
-      "word": "高中生熬夜用小太阳取暖突发脑梗",
-      "onboard_time": 1769864303,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 83421,
@@ -3107,6 +3179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 14615,
+      "num": 158042,
+      "word": "炒货刺客席卷商场",
+      "onboard_time": 1769864422,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14389,
       "num": 430644,
       "word": "喵娲娲带你近距离见自担",
@@ -3121,14 +3201,6 @@
       "onboard_time": 1769795177,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 8475,
-      "num": 139352,
-      "word": "炒货刺客席卷商场",
-      "onboard_time": 1769864422,
-      "rank": 29,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
