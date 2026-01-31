@@ -1,6 +1,6 @@
 {
   "startTime": 1769791903074,
-  "endTime": 1769845753542,
+  "endTime": 1769848798672,
   "band_list": [
     {
       "raw_hot": 1880814,
@@ -28,11 +28,19 @@
     },
     {
       "raw_hot": 1435725,
-      "num": 181583,
+      "num": 226378,
       "word": "金价",
       "onboard_time": 1769824100,
       "rank": 10,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1339973,
+      "num": 228550,
+      "word": "女生造黄谣被爸爸在派出所打了一耳光",
+      "onboard_time": 1769844381,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1219069,
@@ -43,20 +51,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1026449,
+      "num": 228326,
+      "word": "破音",
+      "onboard_time": 1769844500,
+      "rank": 21,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1021763,
       "num": 122912,
       "word": "金晨换头像",
       "onboard_time": 1769777545,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 797418,
-      "num": 176566,
-      "word": "破音",
-      "onboard_time": 1769844500,
-      "rank": 21,
-      "category": "演出"
     },
     {
       "raw_hot": 795875,
@@ -99,12 +107,44 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 671113,
+      "num": 242630,
+      "word": "在飞机上删了五个小时的照片",
+      "onboard_time": 1769846722,
+      "rank": 5,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 644759,
       "num": 247368,
       "word": "家长为找宝宝断指将兔子开膛破肚",
       "onboard_time": 1769835561,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 610789,
+      "num": 1097726,
+      "word": "应急管理部部长被查",
+      "onboard_time": 1769847081,
+      "rank": 0,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 601577,
+      "num": 227560,
+      "word": "爱丫爱丫第一",
+      "onboard_time": 1769845162,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 599894,
+      "num": 227939,
+      "word": "国内金饰克价一夜跌140元",
+      "onboard_time": 1769843541,
+      "rank": 12,
+      "category": "财经"
     },
     {
       "raw_hot": 580839,
@@ -140,7 +180,7 @@
     },
     {
       "raw_hot": 554742,
-      "num": 554742,
+      "num": 788283,
       "word": "生命树收视率第二集就断崖跌",
       "onboard_time": 1769843241,
       "rank": 5,
@@ -171,22 +211,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 486467,
-      "num": 176464,
-      "word": "女生造黄谣被爸爸在派出所打了一耳光",
-      "onboard_time": 1769844381,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 485872,
-      "num": 175021,
-      "word": "国内金饰克价一夜跌140元",
-      "onboard_time": 1769843541,
-      "rank": 12,
-      "category": "财经"
-    },
-    {
       "raw_hot": 483854,
       "num": 247240,
       "word": "女子只顾玩手机致4岁外甥女溺亡",
@@ -201,14 +225,6 @@
       "onboard_time": 1769832380,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 409789,
-      "num": 173803,
-      "word": "爱丫爱丫第一",
-      "onboard_time": 1769845162,
-      "rank": 14,
-      "category": "演出"
     },
     {
       "raw_hot": 398800,
@@ -235,12 +251,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 385311,
+      "num": 239110,
+      "word": "lovely好听",
+      "onboard_time": 1769847621,
+      "rank": 6,
+      "category": "演出"
+    },
+    {
       "raw_hot": 375933,
       "num": 114629,
       "word": "生命树豆瓣已锁",
       "onboard_time": 1769786962,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 348510,
+      "num": 226493,
+      "word": "难听",
+      "onboard_time": 1769845642,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 337256,
@@ -308,11 +340,19 @@
     },
     {
       "raw_hot": 305842,
-      "num": 171540,
+      "num": 219767,
       "word": "刘亦菲版小龙女考虑过刘晓庆",
       "onboard_time": 1769843119,
       "rank": 16,
       "category": "综艺,作品衍生"
+    },
+    {
+      "raw_hot": 298436,
+      "num": 227434,
+      "word": "借过一下第二",
+      "onboard_time": 1769844681,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 290393,
@@ -451,11 +491,11 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 229539,
-      "num": 150513,
-      "word": "借过一下第二",
-      "onboard_time": 1769844681,
-      "rank": 27,
+      "raw_hot": 226222,
+      "num": 226222,
+      "word": "荣耀之战排名",
+      "onboard_time": 1769845881,
+      "rank": 23,
       "category": "演出"
     },
     {
@@ -483,6 +523,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 209791,
+      "num": 209791,
+      "word": "生命树首日云合",
+      "onboard_time": 1769847802,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 208289,
       "num": 208289,
       "word": "张钧甯 头包脸",
@@ -507,6 +555,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 195321,
+      "num": 195321,
+      "word": "律师称金晨事件两人均违法",
+      "onboard_time": 1769845821,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 193612,
       "num": 86111,
       "word": "黄金巨震原因找到了",
@@ -521,6 +577,14 @@
       "onboard_time": 1769826260,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 186734,
+      "num": 227177,
+      "word": "原来情绪稳定是这样的",
+      "onboard_time": 1769841200,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 184989,
@@ -547,12 +611,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 179201,
-      "num": 192543,
-      "word": "原来情绪稳定是这样的",
-      "onboard_time": 1769841200,
-      "rank": 32,
-      "category": "情感"
+      "raw_hot": 174851,
+      "num": 210441,
+      "word": "金价大幅下跌水贝市场有人果断抄底",
+      "onboard_time": 1769845942,
+      "rank": 25,
+      "category": "财经"
     },
     {
       "raw_hot": 171620,
@@ -577,6 +641,22 @@
       "onboard_time": 1769832020,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 159890,
+      "num": 159890,
+      "word": "王祥喜涉嫌严重违纪违法",
+      "onboard_time": 1769847501,
+      "rank": 28,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 157098,
+      "num": 157098,
+      "word": "38岁国企员工辞职演短剧",
+      "onboard_time": 1769847322,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 156051,
@@ -675,6 +755,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 145100,
+      "num": 145100,
+      "word": "刘冲回应网传被辞退",
+      "onboard_time": 1769845042,
+      "rank": 37,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 143115,
       "num": 143115,
       "word": "51岁前港姐乳腺癌细胞扩散至肝脏",
@@ -696,6 +784,14 @@
       "word": "北京月薪3万一天的花销",
       "onboard_time": 1769834541,
       "rank": 27,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 142304,
+      "num": 142304,
+      "word": "高度近视手术后50天真实感受",
+      "onboard_time": 1769846722,
+      "rank": 32,
       "category": "情感"
     },
     {
@@ -787,6 +883,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 131614,
+      "num": 131614,
+      "word": "TF四代 怪奇物语",
+      "onboard_time": 1769847802,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 130544,
       "num": 150949,
       "word": "玉溪一教师事业单位岗被指是萝卜岗",
@@ -811,12 +915,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 125625,
+      "num": 125625,
+      "word": "樊振东效力俱乐部出大事了",
+      "onboard_time": 1769846722,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124110,
       "num": 124110,
       "word": "金晨事件简单事故为何铤而走险",
       "onboard_time": 1769829682,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 123105,
+      "num": 123105,
+      "word": "金价跌了之前买的金条金饰能退吗",
+      "onboard_time": 1769848222,
+      "rank": 38,
+      "category": "财经"
     },
     {
       "raw_hot": 121749,
@@ -849,14 +969,6 @@
       "onboard_time": 1769834482,
       "rank": 33,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 120503,
-      "num": 120503,
-      "word": "难听",
-      "onboard_time": 1769845642,
-      "rank": 31,
-      "category": "演出"
     },
     {
       "raw_hot": 120407,
@@ -897,6 +1009,22 @@
       "onboard_time": 1769832199,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 116603,
+      "num": 116603,
+      "word": "这居然是尹子维",
+      "onboard_time": 1769846242,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 116176,
+      "num": 116176,
+      "word": "卖海鲜的人都不吃的海鲜",
+      "onboard_time": 1769845401,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 115082,
@@ -947,12 +1075,28 @@
       "category": "艺人,演出"
     },
     {
+      "raw_hot": 112005,
+      "num": 112005,
+      "word": "王自如发年终奖了",
+      "onboard_time": 1769848641,
+      "rank": 43,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 111977,
       "num": 100783,
       "word": "王橹杰我是一只鱼",
       "onboard_time": 1769843840,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 109036,
+      "num": 109036,
+      "word": "周扬青眼睛再大也看不清渣男",
+      "onboard_time": 1769846302,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 108815,
@@ -963,6 +1107,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 108359,
+      "num": 108359,
+      "word": "8岁男童肺中藏半年狗尾草致咳血",
+      "onboard_time": 1769846662,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108307,
       "num": 108307,
       "word": "徐梦洁我从18年就跟你了",
@@ -971,12 +1123,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 106410,
+      "num": 106410,
+      "word": "王一博 春晚",
+      "onboard_time": 1769848702,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 106133,
       "num": 106133,
       "word": "学医和学美术的都沉默了",
       "onboard_time": 1769837062,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 105937,
+      "num": 105937,
+      "word": "美国政府又停摆了",
+      "onboard_time": 1769843178,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 105248,
@@ -1033,14 +1201,6 @@
       "onboard_time": 1769778323,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 99180,
-      "num": 99180,
-      "word": "刘冲回应网传被辞退",
-      "onboard_time": 1769845042,
-      "rank": 37,
-      "category": "时尚"
     },
     {
       "raw_hot": 98026,
@@ -1121,6 +1281,14 @@
       "onboard_time": 1769840781,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 95232,
+      "num": 95232,
+      "word": "桃黑黑4点开战王者荣耀",
+      "onboard_time": 1769839702,
+      "rank": 49,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 93337,
@@ -1259,14 +1427,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 84143,
-      "num": 84143,
-      "word": "卖海鲜的人都不吃的海鲜",
-      "onboard_time": 1769845401,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 83351,
       "num": 73155,
       "word": "世界黄金协会预测金价走势",
@@ -1283,14 +1443,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 82918,
-      "num": 82918,
-      "word": "美国政府又停摆了",
-      "onboard_time": 1769843178,
-      "rank": 45,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 82305,
       "num": 82305,
       "word": "爷爷狱中病亡孙子考211为其翻案",
@@ -1305,6 +1457,14 @@
       "onboard_time": 1769843061,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 81185,
+      "num": 806668,
+      "word": "大回暖来了气温跳跃式起飞",
+      "onboard_time": 1769836162,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 80927,
@@ -1561,14 +1721,6 @@
       "onboard_time": 1769828659,
       "rank": 38,
       "category": "作品衍生,幽默"
-    },
-    {
-      "raw_hot": 68528,
-      "num": 806668,
-      "word": "大回暖来了气温跳跃式起飞",
-      "onboard_time": 1769836162,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 68501,
@@ -1907,12 +2059,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 33490,
+      "num": 226955,
+      "word": "有游客带着孩子在可可西里路边喂狼",
+      "onboard_time": 1769847983,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32259,
       "num": 150710,
       "word": "美海军陆战队大衣淋雨就褪色",
       "onboard_time": 1769827641,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 30796,
+      "num": 227833,
+      "word": "抖音商城年货节太好买了",
+      "onboard_time": 1769846602,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 28835,
@@ -2063,6 +2231,14 @@
       "num": 84571,
       "word": "前港姐吴文忻癌细胞扩散至肝脏",
       "onboard_time": 1769839100,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18364,
+      "num": 119282,
+      "word": "拍照前男子冲上舞台涂黑新郎脸",
+      "onboard_time": 1769847802,
       "rank": 39,
       "category": "民生新闻"
     },
