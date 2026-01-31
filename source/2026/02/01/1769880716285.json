@@ -1,0 +1,410 @@
+{
+  "runTime": 1769880716285,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 355385,
+        "num": 442295,
+        "word": "太平年停更",
+        "onboard_time": 1769867483,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177587,
+        "num": 319726,
+        "word": "员工单日如厕6小时21分钟被解雇",
+        "onboard_time": 1769869223,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19972,
+        "num": 254724,
+        "word": "哈尔滨义乌合肥宜宾分会场亮相",
+        "onboard_time": 1769869402,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170528,
+        "num": 170528,
+        "word": "金价大跌男子斥资20多万买入200克",
+        "onboard_time": 1769867602,
+        "rank": 3,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 166921,
+        "num": 166921,
+        "word": "名侦探柯南 联动",
+        "onboard_time": 1769859202,
+        "rank": 4,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 146177,
+        "num": 146177,
+        "word": "魏大勋说自己后悔去爬山",
+        "onboard_time": 1769870783,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135183,
+        "num": 135183,
+        "word": "伊朗",
+        "onboard_time": 1769864781,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 130183,
+        "num": 130183,
+        "word": "在飞机上删了五个小时的照片",
+        "onboard_time": 1769846722,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 127162,
+        "num": 127162,
+        "word": "刘诗诗宣传生命树",
+        "onboard_time": 1769876179,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93446,
+        "num": 93446,
+        "word": "黄金白银创单日暴跌纪录",
+        "onboard_time": 1769857340,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 401116,
+        "num": 92803,
+        "word": "爱泼斯坦",
+        "onboard_time": 1769866882,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 202533,
+        "num": 89556,
+        "word": "一栗小莎子病理报告",
+        "onboard_time": 1769873301,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 94452,
+        "num": 87703,
+        "word": "生命树收视率",
+        "onboard_time": 1769862802,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84963,
+        "num": 84963,
+        "word": "已有4000家绝味鸭脖倒下",
+        "onboard_time": 1769863222,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83385,
+        "num": 83385,
+        "word": "太平年改档",
+        "onboard_time": 1769870063,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 79910,
+        "num": 79910,
+        "word": "穆祉丞 谢谢你们",
+        "onboard_time": 1769868803,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79633,
+        "num": 79633,
+        "word": "翁青雅早期街头丘比特采访",
+        "onboard_time": 1769871742,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78754,
+        "num": 78754,
+        "word": "全球抛售美国",
+        "onboard_time": 1769863522,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 59332,
+        "num": 59332,
+        "word": "三天落马两个正部级",
+        "onboard_time": 1769867002,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 50941,
+        "num": 59331,
+        "word": "16岁烤鸡少年爆火一个月后的现状",
+        "onboard_time": 1769872223,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 323981,
+        "num": 59328,
+        "word": "金价波动",
+        "onboard_time": 1769865023,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 221473,
+        "num": 59325,
+        "word": "内娱唯一说微调结果没人信的人",
+        "onboard_time": 1769864000,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196227,
+        "num": 59324,
+        "word": "10岁男孩舔嘴唇舔出羊胡子疮",
+        "onboard_time": 1769878098,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 59323,
+        "num": 59323,
+        "word": "这些零食可能是第三代新型毒品",
+        "onboard_time": 1769872042,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57773,
+        "num": 57773,
+        "word": "生命树",
+        "onboard_time": 1769852721,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 56925,
+        "num": 56925,
+        "word": "宁波一女子拿4年前的订金单提货被拒",
+        "onboard_time": 1769874980,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52281,
+        "num": 52281,
+        "word": "微博之夜",
+        "onboard_time": 1769864362,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 50997,
+        "num": 50997,
+        "word": "原来能让王一博回归内娱的是央妈",
+        "onboard_time": 1769861902,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 50160,
+        "num": 50160,
+        "word": "TF四代赢了TOP",
+        "onboard_time": 1769856200,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 49712,
+        "num": 49712,
+        "word": "突然的喜欢大结局",
+        "onboard_time": 1769866162,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47962,
+        "num": 47962,
+        "word": "王橹杰跪地凝视",
+        "onboard_time": 1769854701,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 44699,
+        "num": 44699,
+        "word": "孟子义一道题得罪所有人",
+        "onboard_time": 1769871982,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44411,
+        "num": 44411,
+        "word": "俊凯在围观和尖叫下吃完一碗粉回去了",
+        "onboard_time": 1769868622,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43862,
+        "num": 43862,
+        "word": "刘雨昕陈伟霆双人舞好辣",
+        "onboard_time": 1769869942,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 42112,
+        "num": 42112,
+        "word": "低丸子头是穿羽绒服最好看的发型",
+        "onboard_time": 1769858781,
+        "rank": 34,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 40993,
+        "num": 40993,
+        "word": "高中生熬夜用小太阳取暖突发脑梗",
+        "onboard_time": 1769864303,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40439,
+        "num": 40439,
+        "word": "宁艺卓合作舞台呢",
+        "onboard_time": 1769862503,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 37409,
+        "num": 40439,
+        "word": "李昀锐吃吃吃的一个月",
+        "onboard_time": 1769879117,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37373,
+        "num": 40388,
+        "word": "伊朗阿巴斯港一栋居民楼传出爆炸声",
+        "onboard_time": 1769863342,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 34488,
+        "num": 40368,
+        "word": "曝iPhoneFold为电池容量最大iPhone",
+        "onboard_time": 1769878997,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 36965,
+        "num": 40334,
+        "word": "刘雨昕上座率战绩可查",
+        "onboard_time": 1769877858,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 36816,
+        "num": 40319,
+        "word": "生命树口碑争议源于审美差异",
+        "onboard_time": 1769873720,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34527,
+        "num": 40283,
+        "word": "喻言演唱会",
+        "onboard_time": 1769877978,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 33873,
+        "num": 40254,
+        "word": "伊朗阿巴斯港一楼爆炸已致1死14伤",
+        "onboard_time": 1769868262,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 33680,
+        "num": 40233,
+        "word": "有罪之身",
+        "onboard_time": 1769865382,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32648,
+        "num": 40200,
+        "word": "邓超又来考验春晚导播了",
+        "onboard_time": 1769872822,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30931,
+        "num": 40160,
+        "word": "男子被AI诊断梅毒医生否认却不信",
+        "onboard_time": 1769868021,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30312,
+        "num": 40139,
+        "word": "男子假冒飞行员与100多名女性暧昧",
+        "onboard_time": 1769871323,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29820,
+        "num": 40113,
+        "word": "杰我睿客户称兑付方案或打2折",
+        "onboard_time": 1769879418,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29355,
+        "num": 40086,
+        "word": "发明洗澡吃橙子的人是个天才",
+        "onboard_time": 1769851822,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央政治局第二十四次集体学习#"
+    }
+  }
+}
