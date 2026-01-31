@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1769895941266,
+  "endTime": 1769898726754,
   "band_list": [
     {
       "raw_hot": 636694,
@@ -500,7 +500,7 @@
     },
     {
       "raw_hot": 17450,
-      "num": 114951,
+      "num": 240856,
       "word": "已发售春运火车票超5000万张",
       "onboard_time": 1769869042,
       "rank": 2,
@@ -508,15 +508,15 @@
     },
     {
       "raw_hot": 14267,
-      "num": 18262,
+      "num": 18503,
       "word": "刘雨昕演唱会",
       "onboard_time": 1769866342,
       "rank": 46,
       "category": "演出"
     },
     {
-      "raw_hot": 11706,
-      "num": 14721,
+      "raw_hot": 12176,
+      "num": 18492,
       "word": "CBA",
       "onboard_time": 1769866764,
       "rank": 41,
