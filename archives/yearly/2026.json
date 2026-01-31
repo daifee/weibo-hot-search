@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769828848539,
+  "endTime": 1769834481003,
   "band_list": [
     {
       "raw_hot": 22742360,
@@ -739,6 +739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1635371,
+      "num": 207093,
+      "word": "小鱼海棠美颜掉了",
+      "onboard_time": 1769829800,
+      "rank": 10,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1631134,
       "num": 272735,
       "word": "汉堡王崩了",
@@ -1265,6 +1273,14 @@
       "onboard_time": 1768524919,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1219069,
+      "num": 586125,
+      "word": "黄金遭遇40年来最大下跌",
+      "onboard_time": 1769830400,
+      "rank": 3,
+      "category": "财经"
     },
     {
       "raw_hot": 1219011,
@@ -2385,22 +2401,6 @@
       "onboard_time": 1769530280,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 925148,
-      "num": 543145,
-      "word": "贺娇龙所有直播打赏均用于公益事业",
-      "onboard_time": 1768412595,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 922373,
-      "num": 1147579,
-      "word": "父亲凌晨去世邻居听到鞭炮声后赶来",
-      "onboard_time": 1767513683,
-      "rank": 0,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

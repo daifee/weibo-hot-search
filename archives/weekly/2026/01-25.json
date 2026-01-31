@@ -1,6 +1,6 @@
 {
   "startTime": 1769272464158,
-  "endTime": 1769828848539,
+  "endTime": 1769834481003,
   "band_list": [
     {
       "raw_hot": 22742360,
@@ -211,6 +211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1635371,
+      "num": 207093,
+      "word": "小鱼海棠美颜掉了",
+      "onboard_time": 1769829800,
+      "rank": 10,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1581316,
       "num": 613368,
       "word": "关晓彤婉拒马上有对象",
@@ -360,6 +368,14 @@
       "word": "金饰克价涨至1708元",
       "onboard_time": 1769650759,
       "rank": 5,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 1219069,
+      "num": 586125,
+      "word": "黄金遭遇40年来最大下跌",
+      "onboard_time": 1769830400,
+      "rank": 3,
       "category": "财经"
     },
     {
@@ -748,7 +764,7 @@
     },
     {
       "raw_hot": 768875,
-      "num": 150925,
+      "num": 201204,
       "word": "比尔盖茨被曝向妻子隐瞒性病",
       "onboard_time": 1769826201,
       "rank": 13,
@@ -1507,6 +1523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 518062,
+      "num": 518062,
+      "word": "女儿被造黄谣妈妈果断报警维权",
+      "onboard_time": 1769828180,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 517535,
       "num": 190308,
       "word": "章若楠这张脸杀疯了",
@@ -1633,6 +1657,14 @@
       "onboard_time": 1769325080,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 495080,
+      "num": 1079212,
+      "word": "丫丫回国两年多判若两熊",
+      "onboard_time": 1769827579,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 493738,
@@ -1979,14 +2011,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 454978,
-      "num": 150647,
-      "word": "丫丫回国两年多判若两熊",
-      "onboard_time": 1769827579,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 452395,
       "num": 1072383,
       "word": "好想来零食回应",
@@ -2320,6 +2344,14 @@
       "word": "金价暴涨女子卖300克黄金变现30万",
       "onboard_time": 1769569040,
       "rank": 6,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 410460,
+      "num": 772745,
+      "word": "大米先生创始人怒斥穷鬼套餐",
+      "onboard_time": 1769832380,
+      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -2673,6 +2705,14 @@
       "onboard_time": 1769734761,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 369470,
+      "num": 369470,
+      "word": "荣耀之战",
+      "onboard_time": 1769411961,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 368506,
@@ -3187,6 +3227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 323149,
+      "num": 323149,
+      "word": "女子称退衣服不慎寄走奔驰钥匙",
+      "onboard_time": 1769830400,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 323105,
       "num": 323105,
       "word": "明家犯罪集团11人被执行死刑",
@@ -3281,14 +3329,6 @@
       "onboard_time": 1769472860,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 319612,
-      "num": 240925,
-      "word": "荣耀之战",
-      "onboard_time": 1769411961,
-      "rank": 37,
-      "category": "演出"
     },
     {
       "raw_hot": 319060,
@@ -4555,6 +4595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 249563,
+      "num": 200041,
+      "word": "女子只顾玩手机致4岁外甥女溺亡",
+      "onboard_time": 1769833160,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 249030,
       "num": 404597,
       "word": "阚清子特邀主演夜色正浓",
@@ -4699,6 +4747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 243374,
+      "num": 195762,
+      "word": "反对儿子做网红自己却成了网红",
+      "onboard_time": 1769831540,
+      "rank": 13,
+      "category": "网红"
+    },
+    {
       "raw_hot": 243147,
       "num": 243147,
       "word": "十日终焉",
@@ -4745,6 +4801,14 @@
       "onboard_time": 1769574861,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 241843,
+      "num": 241843,
+      "word": "将门毒后",
+      "onboard_time": 1769833580,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 241456,
@@ -5379,6 +5443,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 211169,
+      "num": 191250,
+      "word": "喜之郎",
+      "onboard_time": 1769829739,
+      "rank": 14,
+      "category": "美食"
+    },
+    {
       "raw_hot": 210375,
       "num": 210375,
       "word": "王欣瑜vs阿尼西莫娃",
@@ -5417,6 +5489,14 @@
       "onboard_time": 1769772742,
       "rank": 41,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 209109,
+      "num": 209109,
+      "word": "解放军军机飞进菲军演划设区",
+      "onboard_time": 1769831540,
+      "rank": 9,
+      "category": "军事"
     },
     {
       "raw_hot": 208963,
@@ -5843,6 +5923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 188102,
+      "num": 188102,
+      "word": "日本山林中发现1中国籍女性遗体",
+      "onboard_time": 1769833520,
+      "rank": 15,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 187957,
       "num": 187957,
       "word": "以前内向不好现在内向保命",
@@ -5937,6 +6025,14 @@
       "onboard_time": 1769599582,
       "rank": 6,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 183452,
+      "num": 183452,
+      "word": "央视马年春晚第三次联排",
+      "onboard_time": 1769827520,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 183118,
@@ -6315,14 +6411,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 167581,
-      "num": 150789,
-      "word": "女儿被造黄谣妈妈果断报警维权",
-      "onboard_time": 1769828180,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 167512,
       "num": 167512,
       "word": "德约科维奇晋级澳网男单四强",
@@ -6473,6 +6561,14 @@
       "onboard_time": 1769594841,
       "rank": 23,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 161252,
+      "num": 161252,
+      "word": "白鹿二月的行程图",
+      "onboard_time": 1769832020,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 161090,
@@ -6867,6 +6963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 151916,
+      "num": 151916,
+      "word": "张帅组合2026澳网女双冠军",
+      "onboard_time": 1769827940,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 151735,
       "num": 116421,
       "word": "白鹿春晚联排公主头造型",
@@ -6921,6 +7025,14 @@
       "onboard_time": 1769505200,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 150485,
+      "num": 143672,
+      "word": "晋江救赎文TOP要被拍剧了",
+      "onboard_time": 1769831181,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 150382,
@@ -7435,6 +7547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 140936,
+      "num": 140936,
+      "word": "辛芷蕾已争气争气再争气",
+      "onboard_time": 1769832620,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 140748,
       "num": 109663,
       "word": "沈梦辰带婆婆追星",
@@ -7489,14 +7609,6 @@
       "onboard_time": 1769526022,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 140170,
-      "num": 140170,
-      "word": "央视马年春晚第三次联排",
-      "onboard_time": 1769827520,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 140060,
@@ -7561,6 +7673,14 @@
       "onboard_time": 1769399362,
       "rank": 28,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 139119,
+      "num": 139119,
+      "word": "心梗发病前1个月就会有征兆",
+      "onboard_time": 1769830160,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 139009,
@@ -7961,6 +8081,14 @@
       "onboard_time": 1769495962,
       "rank": 36,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 132196,
+      "num": 132196,
+      "word": "面试想要6千老板给发3万6",
+      "onboard_time": 1769832020,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 132128,
@@ -8747,6 +8875,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 122140,
+      "num": 122140,
+      "word": "金晨事件简单事故为何铤而走险",
+      "onboard_time": 1769829682,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 122123,
       "num": 122123,
       "word": "DYG晋级S组",
@@ -8779,6 +8915,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 121749,
+      "num": 121749,
+      "word": "张帅夺冠后哭了",
+      "onboard_time": 1769833822,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121648,
       "num": 184300,
       "word": "猫箱崩了",
@@ -8801,6 +8945,14 @@
       "onboard_time": 1769354603,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 121257,
+      "num": 121257,
+      "word": "古巴宣布进入国际紧急状态",
+      "onboard_time": 1769833341,
+      "rank": 27,
+      "category": "国际时政"
     },
     {
       "raw_hot": 121220,
@@ -9171,6 +9323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 117143,
+      "num": 109377,
+      "word": "这是UFO吗",
+      "onboard_time": 1769832199,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 117142,
       "num": 199763,
       "word": "杨紫骂完胡歌就不能骂我了",
@@ -9449,6 +9609,14 @@
       "onboard_time": 1769743103,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 114464,
+      "num": 114464,
+      "word": "嘉禾望岗火了深圳翻身站出战",
+      "onboard_time": 1769828659,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 114451,
@@ -9777,14 +9945,6 @@
       "onboard_time": 1769351483,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 110674,
-      "num": 110674,
-      "word": "嘉禾望岗火了深圳翻身站出战",
-      "onboard_time": 1769828659,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 110578,
@@ -10867,6 +11027,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 102387,
+      "num": 102387,
+      "word": "黄金白银暴跌投资者发声",
+      "onboard_time": 1769834240,
+      "rank": 32,
+      "category": "财经"
+    },
+    {
       "raw_hot": 102373,
       "num": 102373,
       "word": "国外母亲控诉14岁女儿吸毒过量去世",
@@ -11505,6 +11673,14 @@
       "onboard_time": 1769828419,
       "rank": 26,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 97994,
+      "num": 86311,
+      "word": "白鹿周深五搭",
+      "onboard_time": 1769833640,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 97951,
@@ -12755,6 +12931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 90989,
+      "num": 90989,
+      "word": "妈妈买东西将孩子反锁屋内不慎起火",
+      "onboard_time": 1769832501,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90974,
       "num": 90974,
       "word": "贾冰范丞丞再演父子",
@@ -13563,6 +13747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 86485,
+      "num": 86485,
+      "word": "张帅澳网女双第二冠",
+      "onboard_time": 1769834061,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 86437,
       "num": 86437,
       "word": "时团真不把我们当外人",
@@ -13640,6 +13832,14 @@
       "word": "人生就是尽可能健康地活着",
       "onboard_time": 1769609002,
       "rank": 35,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 86254,
+      "num": 86254,
+      "word": "当代人过年回家现状",
+      "onboard_time": 1769833341,
+      "rank": 42,
       "category": "情感"
     },
     {
@@ -13731,6 +13931,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 85649,
+      "num": 85649,
+      "word": "Meiko说Viper3到底在干嘛",
+      "onboard_time": 1769834001,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 85637,
       "num": 85637,
       "word": "降价后的苹果Air和国产Air选哪个",
@@ -13769,6 +13977,14 @@
       "onboard_time": 1769595982,
       "rank": 43,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 85495,
+      "num": 86324,
+      "word": "徐若晗 镜头美学",
+      "onboard_time": 1769832861,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 85470,
@@ -14059,6 +14275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 84216,
+      "num": 84216,
+      "word": "疯狂动物城2",
+      "onboard_time": 1769830281,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 84155,
       "num": 84155,
       "word": "经常熬夜真的很伤肝",
@@ -14273,6 +14497,14 @@
       "onboard_time": 1769402362,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 82830,
+      "num": 82830,
+      "word": "小时候常吃的水果消失了",
+      "onboard_time": 1769834180,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 82718,
@@ -15705,6 +15937,14 @@
       "onboard_time": 1769567840,
       "rank": 45,
       "category": "互联网,游戏"
+    },
+    {
+      "raw_hot": 75169,
+      "num": 75169,
+      "word": "从一个婴儿身上看到了演技",
+      "onboard_time": 1769832199,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 75145,
@@ -18707,6 +18947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34332,
+      "num": 86450,
+      "word": "生命树好敢拍啊",
+      "onboard_time": 1769833580,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 34125,
       "num": 93510,
       "word": "拉开帘子被张凌赫帅一大跳",
@@ -19169,6 +19417,14 @@
       "onboard_time": 1769277736,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 27813,
+      "num": 86383,
+      "word": "库迪取消全场9.9元网友吐槽背刺",
+      "onboard_time": 1769833461,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27537,
@@ -19816,6 +20072,14 @@
       "word": "北大女生硅谷创业被指网络贩毒",
       "onboard_time": 1769496501,
       "rank": 39,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 19815,
+      "num": 100195,
+      "word": "我使馆要求日本警方查明死因",
+      "onboard_time": 1769834360,
+      "rank": 34,
       "category": "海外新闻"
     },
     {
