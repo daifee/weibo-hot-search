@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/31 14:00:17
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/31 14:51:36
 </p>
 </blockquote>
 <p>
@@ -1175,6 +1175,12 @@ BLG上调新上单Wenbo（热度：1173465）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E5%90%AC%E6%B3%89%E9%89%B4%E5%AE%9D%E9%80%81%E5%89%8D%E5%A5%B3%E5%8F%8B%E6%88%BF%E5%AD%90%23" target="weibo">
 曝听泉鉴宝送前女友房子（热度：1121542）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8D%A3%E8%80%80%E4%B9%8B%E6%88%98%23" target="weibo">
+荣耀之战（热度：1118720）
 </a>
 </li>
 
@@ -5463,6 +5469,12 @@ QQ秀宣布回归（热度：534446）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8D%A3%E8%80%80%E4%B9%8B%E6%88%98%E8%8A%82%E7%9B%AE%E5%8D%95%23" target="weibo">
+荣耀之战节目单（热度：529562）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%86%E5%91%86%E5%AE%B6%E9%97%A8%E5%8F%A3%E6%B3%A5%E5%9C%9F%E8%A2%AB%E7%82%92%E8%87%B3200%E5%85%83%E4%B8%80%E6%96%A4%23" target="weibo">
 呆呆家门口泥土被炒至200元一斤（热度：529512）
 </a>
@@ -5999,18 +6011,6 @@ TVB颁奖典礼（热度：518643）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E7%9F%B3%E6%B2%B9%E5%82%A8%E9%87%8F%E4%B8%96%E7%95%8C%E7%AC%AC%E4%B8%80%23" target="weibo">
 委内瑞拉石油储量世界第一（热度：507982）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%AE%B6%E4%B8%89%E5%8F%A3%E8%A2%AB%E6%92%9E%E8%BA%AB%E4%BA%A1%E5%A2%93%E5%9C%B0%E9%A3%9E%E5%87%BA%E8%9D%B4%E8%9D%B6%23" target="weibo">
-一家三口被撞身亡墓地飞出蝴蝶（热度：507430）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89%23" target="weibo">
-特斯拉（热度：507400）
 </a>
 </li>
 

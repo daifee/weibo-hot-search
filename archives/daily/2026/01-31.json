@@ -1,6 +1,6 @@
 {
   "startTime": 1769791903074,
-  "endTime": 1769839217036,
+  "endTime": 1769842296973,
   "band_list": [
     {
       "raw_hot": 1880814,
@@ -33,6 +33,14 @@
       "onboard_time": 1769830400,
       "rank": 3,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1118720,
+      "num": 1178995,
+      "word": "荣耀之战",
+      "onboard_time": 1769819900,
+      "rank": 5,
+      "category": "演出"
     },
     {
       "raw_hot": 1021763,
@@ -115,6 +123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 529562,
+      "num": 325702,
+      "word": "荣耀之战节目单",
+      "onboard_time": 1769839400,
+      "rank": 5,
+      "category": "演出"
+    },
+    {
       "raw_hot": 518062,
       "num": 518062,
       "word": "女儿被造黄谣妈妈果断报警维权",
@@ -147,14 +163,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 400786,
-      "num": 400786,
-      "word": "荣耀之战",
-      "onboard_time": 1769819900,
-      "rank": 5,
-      "category": "演出"
-    },
-    {
       "raw_hot": 398800,
       "num": 150820,
       "word": "律师称金晨承担交通违法处罚责任",
@@ -184,6 +192,14 @@
       "word": "生命树豆瓣已锁",
       "onboard_time": 1769786962,
       "rank": 11,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 337256,
+      "num": 213030,
+      "word": "长剧凭什么还留得住观众",
+      "onboard_time": 1769838921,
+      "rank": 19,
       "category": "剧集"
     },
     {
@@ -233,6 +249,14 @@
       "onboard_time": 1769826619,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 313027,
+      "num": 208978,
+      "word": "吴磊 扣子再解就油腻了",
+      "onboard_time": 1769840239,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 290393,
@@ -307,20 +331,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 253884,
+      "num": 253884,
+      "word": "招聘守岛人不限男女但不能一男一女",
+      "onboard_time": 1769835741,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 251655,
       "num": 237791,
       "word": "呼兰吐槽一路繁花",
       "onboard_time": 1769834782,
       "rank": 22,
       "category": "综艺,作品衍生"
-    },
-    {
-      "raw_hot": 247578,
-      "num": 247578,
-      "word": "招聘守岛人不限男女但不能一男一女",
-      "onboard_time": 1769835741,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 246967,
@@ -347,6 +371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 228496,
+      "num": 210537,
+      "word": "残杀父母华裔男子留杀人愿望清单",
+      "onboard_time": 1769840539,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 224198,
       "num": 921826,
       "word": "白银迎来暴跌",
@@ -369,6 +401,14 @@
       "onboard_time": 1769829739,
       "rank": 14,
       "category": "美食"
+    },
+    {
+      "raw_hot": 208289,
+      "num": 208289,
+      "word": "张钧甯 头包脸",
+      "onboard_time": 1769836882,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 203947,
@@ -403,14 +443,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 190263,
-      "num": 190263,
-      "word": "张钧甯 头包脸",
-      "onboard_time": 1769836882,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 184989,
       "num": 184989,
       "word": "生命树",
@@ -441,6 +473,14 @@
       "onboard_time": 1769814796,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 170674,
+      "num": 219044,
+      "word": "Uzi回归",
+      "onboard_time": 1769841800,
+      "rank": 8,
+      "category": "电竞"
     },
     {
       "raw_hot": 169651,
@@ -580,15 +620,23 @@
     },
     {
       "raw_hot": 140840,
-      "num": 106084,
+      "num": 127200,
       "word": "高市早苗拉票哭了",
       "onboard_time": 1769837120,
       "rank": 30,
       "category": "海外新闻"
     },
     {
+      "raw_hot": 140592,
+      "num": 140592,
+      "word": "51岁前港姐乳腺癌细胞扩散至肝脏",
+      "onboard_time": 1769839640,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 140560,
-      "num": 140560,
+      "num": 141677,
       "word": "黄金白银还会跌吗",
       "onboard_time": 1769836703,
       "rank": 23,
@@ -731,6 +779,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 115228,
+      "num": 115228,
+      "word": "李兰迪皮衣穿出芭比感",
+      "onboard_time": 1769841020,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 114478,
       "num": 114478,
       "word": "行程图",
@@ -763,6 +819,14 @@
       "category": "艺人,演出"
     },
     {
+      "raw_hot": 110829,
+      "num": 110829,
+      "word": "周大福金饰克价1个月涨了262元",
+      "onboard_time": 1769838801,
+      "rank": 32,
+      "category": "财经"
+    },
+    {
       "raw_hot": 108307,
       "num": 108307,
       "word": "徐梦洁我从18年就跟你了",
@@ -787,14 +851,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 105060,
-      "num": 105060,
-      "word": "周大福金饰克价1个月涨了262元",
-      "onboard_time": 1769838801,
-      "rank": 32,
-      "category": "财经"
-    },
-    {
       "raw_hot": 104630,
       "num": 104630,
       "word": "云旗郝熠然澳门演唱会官宣",
@@ -811,6 +867,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 103128,
+      "num": 103128,
+      "word": "荣耀之战彩排",
+      "onboard_time": 1769821580,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 99755,
+      "num": 99755,
+      "word": "赵樱子 你看我蹭的都是谁",
+      "onboard_time": 1769841740,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 99674,
       "num": 99674,
       "word": "男子连吃几天杀猪饭致重症胰腺炎",
@@ -825,6 +897,14 @@
       "onboard_time": 1769778323,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 99316,
+      "num": 99316,
+      "word": "原来情绪稳定是这样的",
+      "onboard_time": 1769841200,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 98026,
@@ -875,6 +955,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 95428,
+      "num": 158054,
+      "word": "男子请假酒精中毒身亡家属起诉单位",
+      "onboard_time": 1769839042,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 93337,
       "num": 93337,
       "word": "刘宇宁买到三年前的墨镜",
@@ -891,12 +979,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 91560,
-      "num": 180553,
-      "word": "长剧凭什么还留得住观众",
-      "onboard_time": 1769838921,
-      "rank": 19,
-      "category": "剧集"
+      "raw_hot": 92267,
+      "num": 92267,
+      "word": "又一次对刘宇宁身高有了实感",
+      "onboard_time": 1769841442,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 90989,
@@ -920,6 +1008,14 @@
       "word": "黄金白银暴跌两大推手",
       "onboard_time": 1769834722,
       "rank": 43,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 88342,
+      "num": 88342,
+      "word": "消费贷催收新规发布",
+      "onboard_time": 1769841740,
+      "rank": 36,
       "category": "财经"
     },
     {
@@ -1019,6 +1115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 80483,
+      "num": 78232,
+      "word": "刘耀文改名徐志胜 细思极恐",
+      "onboard_time": 1769840781,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 80265,
       "num": 80265,
       "word": "宋威龙赵今麦互宠这一块",
@@ -1083,6 +1187,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 77671,
+      "num": 77671,
+      "word": "大厂员工被优化工资卡到账100万",
+      "onboard_time": 1769840000,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 77520,
+      "num": 77520,
+      "word": "荣耀之战现场",
+      "onboard_time": 1769842221,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 77304,
       "num": 80359,
       "word": "宇宙闪烁请注意尺度",
@@ -1091,12 +1211,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 77230,
-      "num": 77230,
-      "word": "荣耀之战彩排",
-      "onboard_time": 1769821580,
-      "rank": 45,
-      "category": "演出"
+      "raw_hot": 77148,
+      "num": 77148,
+      "word": "太平年",
+      "onboard_time": 1769838801,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 76043,
@@ -1171,6 +1291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 73465,
+      "num": 77571,
+      "word": "回购黄金长队一眼望不到头",
+      "onboard_time": 1769842221,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 73349,
       "num": 73349,
       "word": "盒装奶的密封小巧思",
@@ -1203,6 +1331,14 @@
       "category": "作品衍生,幽默"
     },
     {
+      "raw_hot": 68528,
+      "num": 806668,
+      "word": "大回暖来了气温跳跃式起飞",
+      "onboard_time": 1769836162,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 68501,
       "num": 68501,
       "word": "解放军万吨大驱单挑外军舰队",
@@ -1217,14 +1353,6 @@
       "onboard_time": 1769767647,
       "rank": 32,
       "category": "财经"
-    },
-    {
-      "raw_hot": 64875,
-      "num": 806668,
-      "word": "大回暖来了气温跳跃式起飞",
-      "onboard_time": 1769836162,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 64380,
@@ -1603,6 +1731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 21857,
+      "num": 87970,
+      "word": "刘宇宁微博之夜有舞台",
+      "onboard_time": 1769841200,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 21106,
       "num": 48005,
       "word": "李现顶着韩商言的头像",
@@ -1659,14 +1795,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 17976,
-      "num": 158054,
-      "word": "男子请假酒精中毒身亡家属起诉单位",
-      "onboard_time": 1769839042,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 17453,
       "num": 19232,
       "word": "生命树群像",
@@ -1705,6 +1833,14 @@
       "onboard_time": 1769795177,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 11982,
+      "num": 83637,
+      "word": "在意失联博士生最后定位显示在山区",
+      "onboard_time": 1769841800,
+      "rank": 39,
+      "category": "海外新闻"
     }
   ],
   "hotgov_list": [

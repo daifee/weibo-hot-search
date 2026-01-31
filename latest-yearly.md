@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/01/31 14:00:17
+本榜单时间：2026/01/01 00:35:36 ~ 2026/01/31 14:51:36
 </p>
 </blockquote>
 <p>
@@ -1179,6 +1179,12 @@ BLG上调新上单Wenbo（热度：1173465）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8D%A3%E8%80%80%E4%B9%8B%E6%88%98%23" target="weibo">
+荣耀之战（热度：1118720）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%9C%A8%E7%BA%A2%E6%AF%AF%E6%88%B4%E5%B8%BD%E5%AD%90%23" target="weibo">
 关晓彤第一次在红毯戴帽子（热度：1118693）
 </a>
@@ -1805,12 +1811,6 @@ U23国足2比0越南（热度：940028）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%81%B6%E9%81%87%E9%9C%8D%E5%BB%BA%E5%8D%8E%E4%BB%96%E8%BF%98%E7%BB%99%E6%88%91%E4%B9%B0%E5%8D%95%E4%BA%86%23" target="weibo">
 偶遇霍建华他还给我买单了（热度：928546）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%93%81%E7%89%8C%E7%B4%A7%E6%80%A5%E5%88%A0%E9%99%A4%E5%BC%A0%E9%9B%A8%E7%BB%AE%E7%9B%B8%E5%85%B3%E4%BB%A3%E8%A8%80%E5%86%85%E5%AE%B9%23" target="weibo">
-多品牌紧急删除张雨绮相关代言内容（热度：927199）
 </a>
 </li>
 
