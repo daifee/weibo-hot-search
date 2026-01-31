@@ -1,6 +1,6 @@
 {
   "startTime": 1769791903074,
-  "endTime": 1769834995901,
+  "endTime": 1769838310416,
   "band_list": [
     {
       "raw_hot": 1880814,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1635371,
-      "num": 221055,
+      "num": 240882,
       "word": "小鱼海棠美颜掉了",
       "onboard_time": 1769829800,
       "rank": 10,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1219069,
-      "num": 586125,
+      "num": 804887,
       "word": "黄金遭遇40年来最大下跌",
       "onboard_time": 1769830400,
       "rank": 3,
@@ -51,6 +51,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 790454,
+      "num": 1126472,
+      "word": "将门毒后",
+      "onboard_time": 1769833580,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 768875,
       "num": 219809,
       "word": "比尔盖茨被曝向妻子隐瞒性病",
@@ -59,12 +67,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 691681,
+      "num": 691681,
+      "word": "网传刘冲被VOGUE辞了",
+      "onboard_time": 1769835021,
+      "rank": 4,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 679778,
       "num": 99252,
       "word": "金晨道歉",
       "onboard_time": 1769766745,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 644759,
+      "num": 239923,
+      "word": "家长为找宝宝断指将兔子开膛破肚",
+      "onboard_time": 1769835561,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 580839,
@@ -83,7 +107,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 532255,
+      "raw_hot": 567301,
       "num": 1085160,
       "word": "丫丫回国两年多判若两熊",
       "onboard_time": 1769827579,
@@ -108,7 +132,7 @@
     },
     {
       "raw_hot": 483854,
-      "num": 220528,
+      "num": 239320,
       "word": "女子只顾玩手机致4岁外甥女溺亡",
       "onboard_time": 1769833160,
       "rank": 12,
@@ -155,6 +179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 372664,
+      "num": 372664,
+      "word": "刘晓庆不知道贺峻霖是谁",
+      "onboard_time": 1769834600,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 329608,
       "num": 150851,
       "word": "李现在香港1天暴走18公里",
@@ -177,14 +209,6 @@
       "onboard_time": 1769785702,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 325022,
-      "num": 325022,
-      "word": "将门毒后",
-      "onboard_time": 1769833580,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 323149,
@@ -259,12 +283,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 258498,
+      "num": 258498,
+      "word": "黄金白银暴跌投资者发声",
+      "onboard_time": 1769834240,
+      "rank": 32,
+      "category": "财经"
+    },
+    {
       "raw_hot": 254862,
       "num": 105256,
       "word": "久哲",
       "onboard_time": 1769790620,
       "rank": 13,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 251655,
+      "num": 237791,
+      "word": "呼兰吐槽一路繁花",
+      "onboard_time": 1769834782,
+      "rank": 22,
+      "category": "综艺,作品衍生"
     },
     {
       "raw_hot": 243374,
@@ -275,20 +315,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 241462,
+      "num": 241462,
+      "word": "日本山林中发现1中国籍女性遗体",
+      "onboard_time": 1769833520,
+      "rank": 15,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 237686,
+      "num": 237686,
+      "word": "6岁女孩烟曲霉感染脑子被啃20个洞",
+      "onboard_time": 1769835861,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 224198,
       "num": 921826,
       "word": "白银迎来暴跌",
       "onboard_time": 1769812695,
       "rank": 30,
       "category": "财经"
-    },
-    {
-      "raw_hot": 221460,
-      "num": 221460,
-      "word": "日本山林中发现1中国籍女性遗体",
-      "onboard_time": 1769833520,
-      "rank": 15,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 219203,
@@ -313,6 +361,14 @@
       "onboard_time": 1769767647,
       "rank": 6,
       "category": "财经"
+    },
+    {
+      "raw_hot": 198596,
+      "num": 198596,
+      "word": "招聘守岛人不限男女但不能一男一女",
+      "onboard_time": 1769835741,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 198462,
@@ -363,20 +419,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 170745,
+      "num": 170745,
+      "word": "王星越不太喜欢智性恋",
+      "onboard_time": 1769834782,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 169651,
       "num": 86795,
       "word": "沈佳润这才是你的舒适区",
       "onboard_time": 1769788162,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 164733,
-      "num": 164733,
-      "word": "王星越不太喜欢智性恋",
-      "onboard_time": 1769834782,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 161252,
@@ -451,14 +507,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 149592,
-      "num": 137498,
-      "word": "呼兰吐槽一路繁花",
-      "onboard_time": 1769834782,
-      "rank": 22,
-      "category": "综艺,作品衍生"
-    },
-    {
       "raw_hot": 146422,
       "num": 106328,
       "word": "美性侵犯被押送时抓女警臀部",
@@ -475,12 +523,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141483,
+      "num": 135967,
+      "word": "生命树被指剧情重点不清晰",
+      "onboard_time": 1769836821,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 140936,
       "num": 140936,
       "word": "辛芷蕾已争气争气再争气",
       "onboard_time": 1769832620,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 140840,
+      "num": 101514,
+      "word": "高市早苗拉票哭了",
+      "onboard_time": 1769837120,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 139119,
@@ -499,6 +563,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 136498,
+      "num": 136498,
+      "word": "张钧甯 头包脸",
+      "onboard_time": 1769836882,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 136372,
       "num": 86413,
       "word": "原来我们一直念错了蒲熠星名字",
@@ -513,14 +585,6 @@
       "onboard_time": 1769832020,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 133422,
-      "num": 133422,
-      "word": "刘晓庆不知道贺峻霖是谁",
-      "onboard_time": 1769834600,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 132608,
@@ -555,20 +619,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 127990,
+      "num": 127990,
+      "word": "小时候常吃的水果消失了",
+      "onboard_time": 1769834180,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 127196,
+      "num": 127196,
+      "word": "黄金白银还会跌吗",
+      "onboard_time": 1769836703,
+      "rank": 23,
+      "category": "财经"
+    },
+    {
       "raw_hot": 124110,
       "num": 124110,
       "word": "金晨事件简单事故为何铤而走险",
       "onboard_time": 1769829682,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 123690,
-      "num": 135450,
-      "word": "黄金白银暴跌投资者发声",
-      "onboard_time": 1769834240,
-      "rank": 32,
-      "category": "财经"
     },
     {
       "raw_hot": 121749,
@@ -659,6 +731,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 114217,
+      "num": 114217,
+      "word": "北京月薪3万一天的花销",
+      "onboard_time": 1769834541,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 112217,
       "num": 85740,
       "word": "偶遇时代少年团逛菜市场",
@@ -683,6 +763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 104630,
+      "num": 104630,
+      "word": "云旗郝熠然澳门演唱会官宣",
+      "onboard_time": 1769837960,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 99674,
       "num": 99674,
       "word": "男子连吃几天杀猪饭致重症胰腺炎",
@@ -705,6 +793,14 @@
       "onboard_time": 1769828419,
       "rank": 26,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 97657,
+      "num": 97657,
+      "word": "罗晋状态回春",
+      "onboard_time": 1769838141,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 97216,
@@ -747,12 +843,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 93396,
-      "num": 93396,
-      "word": "小时候常吃的水果消失了",
-      "onboard_time": 1769834180,
-      "rank": 46,
-      "category": "情感"
+      "raw_hot": 95474,
+      "num": 95474,
+      "word": "学医和学美术的都沉默了",
+      "onboard_time": 1769837062,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 93337,
@@ -761,6 +857,14 @@
       "onboard_time": 1769833940,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 92943,
+      "num": 92943,
+      "word": "邵子恒一通电话尬住了六个男艺人",
+      "onboard_time": 1769836520,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 90989,
@@ -859,6 +963,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 83209,
+      "num": 83209,
+      "word": "女老板招助理只要40岁以上的",
+      "onboard_time": 1769838200,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 82305,
       "num": 82305,
       "word": "爷爷狱中病亡孙子考211为其翻案",
@@ -881,6 +993,22 @@
       "onboard_time": 1769782045,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 79942,
+      "num": 79942,
+      "word": "王楚钦穿大衣好帅",
+      "onboard_time": 1769836761,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 79644,
+      "num": 79644,
+      "word": "杨幂打卡自己",
+      "onboard_time": 1769837361,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 79537,
@@ -955,6 +1083,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 74587,
+      "num": 74587,
+      "word": "地球上最小的大象",
+      "onboard_time": 1769837720,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 74506,
+      "num": 74506,
+      "word": "影视飓风Tim把音综爆改科技频道",
+      "onboard_time": 1769835261,
+      "rank": 46,
+      "category": "综艺,互联网"
+    },
+    {
       "raw_hot": 74386,
       "num": 74386,
       "word": "俄方重新将14名日本人列为战犯",
@@ -963,12 +1107,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 74142,
+      "num": 74142,
+      "word": "王牌对王牌",
+      "onboard_time": 1769835261,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 73862,
       "num": 73862,
       "word": "长相思",
       "onboard_time": 1769788641,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 73349,
+      "num": 73349,
+      "word": "盒装奶的密封小巧思",
+      "onboard_time": 1769837781,
+      "rank": 48,
+      "category": "休闲"
     },
     {
       "raw_hot": 71776,
@@ -993,6 +1153,14 @@
       "onboard_time": 1769828659,
       "rank": 38,
       "category": "作品衍生,幽默"
+    },
+    {
+      "raw_hot": 68920,
+      "num": 80359,
+      "word": "宇宙闪烁请注意尺度",
+      "onboard_time": 1769837842,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 68501,
@@ -1259,6 +1427,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 36750,
+      "num": 806668,
+      "word": "大回暖来了气温跳跃式起飞",
+      "onboard_time": 1769836162,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36697,
       "num": 36697,
       "word": "生命树的剧情",
@@ -1395,6 +1571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 20386,
+      "num": 83761,
+      "word": "中国启明号刷新竖井掘进世界纪录",
+      "onboard_time": 1769835922,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 20186,
       "num": 22425,
       "word": "生命树震撼",
@@ -1470,6 +1654,9 @@
   "hotgov_list": [
     {
       "word": "#中央政治局召开会议#"
+    },
+    {
+      "word": "#会见斯塔默习近平重视大历史观#"
     }
   ]
 }
