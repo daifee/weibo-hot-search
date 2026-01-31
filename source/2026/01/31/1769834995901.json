@@ -1,0 +1,410 @@
+{
+  "runTime": 1769834995901,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 532255,
+        "num": 1085160,
+        "word": "丫丫回国两年多判若两熊",
+        "onboard_time": 1769827579,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 443119,
+        "num": 773112,
+        "word": "大米先生创始人怒斥穷鬼套餐",
+        "onboard_time": 1769832380,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 9901,
+        "num": 609607,
+        "word": "冬天的亿种打开方式",
+        "onboard_time": 1769778983,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1104456,
+        "num": 513988,
+        "word": "黄金遭遇40年来最大下跌",
+        "onboard_time": 1769830400,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 400786,
+        "num": 400786,
+        "word": "荣耀之战",
+        "onboard_time": 1769819900,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 399954,
+        "num": 399954,
+        "word": "女儿被造黄谣妈妈果断报警维权",
+        "onboard_time": 1769828180,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 325022,
+        "num": 325022,
+        "word": "将门毒后",
+        "onboard_time": 1769833580,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 278880,
+        "num": 278880,
+        "word": "女子称退衣服不慎寄走奔驰钥匙",
+        "onboard_time": 1769830400,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 275403,
+        "num": 275403,
+        "word": "生命树疑似被恶意评分",
+        "onboard_time": 1769825000,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221460,
+        "num": 221460,
+        "word": "日本山林中发现1中国籍女性遗体",
+        "onboard_time": 1769833520,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1517318,
+        "num": 221055,
+        "word": "小鱼海棠美颜掉了",
+        "onboard_time": 1769829800,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 483854,
+        "num": 220528,
+        "word": "女子只顾玩手机致4岁外甥女溺亡",
+        "onboard_time": 1769833160,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 283972,
+        "num": 219809,
+        "word": "比尔盖茨被曝向妻子隐瞒性病",
+        "onboard_time": 1769826201,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 229952,
+        "num": 219363,
+        "word": "反对儿子做网红自己却成了网红",
+        "onboard_time": 1769831540,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 219203,
+        "num": 219203,
+        "word": "解放军军机飞进菲军演划设区",
+        "onboard_time": 1769831540,
+        "rank": 14,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 200637,
+        "num": 200637,
+        "word": "喜之郎",
+        "onboard_time": 1769829739,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 164733,
+        "num": 164733,
+        "word": "王星越不太喜欢智性恋",
+        "onboard_time": 1769834782,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152001,
+        "num": 152001,
+        "word": "央视马年春晚第三次联排",
+        "onboard_time": 1769827520,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142356,
+        "num": 142356,
+        "word": "张帅组合2026澳网女双冠军",
+        "onboard_time": 1769827940,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24242,
+        "num": 141904,
+        "word": "我使馆要求日本警方查明死因",
+        "onboard_time": 1769834360,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 578308,
+        "num": 140074,
+        "word": "金价",
+        "onboard_time": 1769824100,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 154923,
+        "num": 138811,
+        "word": "晋江救赎文TOP要被拍剧了",
+        "onboard_time": 1769831181,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149592,
+        "num": 137498,
+        "word": "呼兰吐槽一路繁花",
+        "onboard_time": 1769834782,
+        "rank": 22,
+        "category": "综艺,作品衍生"
+      },
+      {
+        "raw_hot": 137291,
+        "num": 137291,
+        "word": "心梗发病前1个月就会有征兆",
+        "onboard_time": 1769830160,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 147591,
+        "num": 136563,
+        "word": "生命树",
+        "onboard_time": 1769823621,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139529,
+        "num": 136087,
+        "word": "白鹿二月的行程图",
+        "onboard_time": 1769832020,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123690,
+        "num": 135450,
+        "word": "黄金白银暴跌投资者发声",
+        "onboard_time": 1769834240,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 134816,
+        "num": 134816,
+        "word": "面试想要6千老板给发3万6",
+        "onboard_time": 1769832020,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133422,
+        "num": 133422,
+        "word": "刘晓庆不知道贺峻霖是谁",
+        "onboard_time": 1769834600,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121632,
+        "num": 131472,
+        "word": "古巴宣布进入国际紧急状态",
+        "onboard_time": 1769833341,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 130751,
+        "num": 130751,
+        "word": "辛芷蕾已争气争气再争气",
+        "onboard_time": 1769832620,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124110,
+        "num": 124110,
+        "word": "金晨事件简单事故为何铤而走险",
+        "onboard_time": 1769829682,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28210,
+        "num": 122091,
+        "word": "律师解读生命树疑遭恶意评分",
+        "onboard_time": 1769834841,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121289,
+        "num": 121289,
+        "word": "燕云十六声",
+        "onboard_time": 1769834482,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 119830,
+        "num": 119830,
+        "word": "张帅夺冠后哭了",
+        "onboard_time": 1769833822,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112185,
+        "num": 112185,
+        "word": "这是UFO吗",
+        "onboard_time": 1769832199,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 105248,
+        "num": 105248,
+        "word": "白鹿周深五搭",
+        "onboard_time": 1769833640,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96544,
+        "num": 96544,
+        "word": "催婚差点把父母说离了",
+        "onboard_time": 1769825120,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 95858,
+        "num": 95858,
+        "word": "嘉禾望岗火了深圳翻身站出战",
+        "onboard_time": 1769828659,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23506,
+        "num": 94153,
+        "word": "在美华人做团播单场获6000美元打赏",
+        "onboard_time": 1769834661,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 93396,
+        "num": 93396,
+        "word": "小时候常吃的水果消失了",
+        "onboard_time": 1769834180,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 97071,
+        "num": 93386,
+        "word": "唐宫奇案",
+        "onboard_time": 1769826260,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93337,
+        "num": 93337,
+        "word": "刘宇宁买到三年前的墨镜",
+        "onboard_time": 1769833940,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90619,
+        "num": 90619,
+        "word": "黄金白银暴跌两大推手",
+        "onboard_time": 1769834722,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 90361,
+        "num": 90361,
+        "word": "林宥嘉 庾澄庆是不是把我当恩利",
+        "onboard_time": 1769828419,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86012,
+        "num": 86012,
+        "word": "半夜容易醒可能是身体在求救",
+        "onboard_time": 1769822060,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 84123,
+        "num": 84123,
+        "word": "姐强强一个娘夯夯一窝",
+        "onboard_time": 1769826919,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84015,
+        "num": 84015,
+        "word": "Meiko说Viper3到底在干嘛",
+        "onboard_time": 1769834001,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 81812,
+        "num": 81812,
+        "word": "徐若晗 镜头美学",
+        "onboard_time": 1769832861,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 79487,
+        "num": 79487,
+        "word": "妈妈买东西将孩子反锁屋内不慎起火",
+        "onboard_time": 1769832501,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央政治局召开会议#"
+    }
+  }
+}

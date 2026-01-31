@@ -1,6 +1,6 @@
 {
   "startTime": 1769791903074,
-  "endTime": 1769834481003,
+  "endTime": 1769834995901,
   "band_list": [
     {
       "raw_hot": 1880814,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1635371,
-      "num": 207093,
+      "num": 221055,
       "word": "小鱼海棠美颜掉了",
       "onboard_time": 1769829800,
       "rank": 10,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 768875,
-      "num": 201204,
+      "num": 219809,
       "word": "比尔盖茨被曝向妻子隐瞒性病",
       "onboard_time": 1769826201,
       "rank": 13,
@@ -83,19 +83,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 532255,
+      "num": 1085160,
+      "word": "丫丫回国两年多判若两熊",
+      "onboard_time": 1769827579,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 518062,
       "num": 518062,
       "word": "女儿被造黄谣妈妈果断报警维权",
       "onboard_time": 1769828180,
       "rank": 15,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 495080,
-      "num": 1079212,
-      "word": "丫丫回国两年多判若两熊",
-      "onboard_time": 1769827579,
-      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -107,12 +107,28 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 410460,
-      "num": 772745,
+      "raw_hot": 483854,
+      "num": 220528,
+      "word": "女子只顾玩手机致4岁外甥女溺亡",
+      "onboard_time": 1769833160,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 443119,
+      "num": 773112,
       "word": "大米先生创始人怒斥穷鬼套餐",
       "onboard_time": 1769832380,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 400786,
+      "num": 400786,
+      "word": "荣耀之战",
+      "onboard_time": 1769819900,
+      "rank": 5,
+      "category": "演出"
     },
     {
       "raw_hot": 398800,
@@ -139,14 +155,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 369470,
-      "num": 369470,
-      "word": "荣耀之战",
-      "onboard_time": 1769819900,
-      "rank": 5,
-      "category": "演出"
-    },
-    {
       "raw_hot": 329608,
       "num": 150851,
       "word": "李现在香港1天暴走18公里",
@@ -169,6 +177,14 @@
       "onboard_time": 1769785702,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 325022,
+      "num": 325022,
+      "word": "将门毒后",
+      "onboard_time": 1769833580,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 323149,
@@ -251,28 +267,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 249563,
-      "num": 200041,
-      "word": "女子只顾玩手机致4岁外甥女溺亡",
-      "onboard_time": 1769833160,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 243374,
-      "num": 195762,
+      "num": 219363,
       "word": "反对儿子做网红自己却成了网红",
       "onboard_time": 1769831540,
       "rank": 13,
       "category": "网红"
-    },
-    {
-      "raw_hot": 241843,
-      "num": 241843,
-      "word": "将门毒后",
-      "onboard_time": 1769833580,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 224198,
@@ -283,20 +283,28 @@
       "category": "财经"
     },
     {
-      "raw_hot": 211169,
-      "num": 191250,
-      "word": "喜之郎",
-      "onboard_time": 1769829739,
-      "rank": 14,
-      "category": "美食"
+      "raw_hot": 221460,
+      "num": 221460,
+      "word": "日本山林中发现1中国籍女性遗体",
+      "onboard_time": 1769833520,
+      "rank": 15,
+      "category": "海外新闻"
     },
     {
-      "raw_hot": 209109,
-      "num": 209109,
+      "raw_hot": 219203,
+      "num": 219203,
       "word": "解放军军机飞进菲军演划设区",
       "onboard_time": 1769831540,
       "rank": 9,
       "category": "军事"
+    },
+    {
+      "raw_hot": 211169,
+      "num": 200637,
+      "word": "喜之郎",
+      "onboard_time": 1769829739,
+      "rank": 14,
+      "category": "美食"
     },
     {
       "raw_hot": 203947,
@@ -331,14 +339,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 188102,
-      "num": 188102,
-      "word": "日本山林中发现1中国籍女性遗体",
-      "onboard_time": 1769833520,
-      "rank": 15,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 184989,
       "num": 184989,
       "word": "生命树",
@@ -371,6 +371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 164733,
+      "num": 164733,
+      "word": "王星越不太喜欢智性恋",
+      "onboard_time": 1769834782,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 161252,
       "num": 161252,
       "word": "白鹿二月的行程图",
@@ -393,6 +401,14 @@
       "onboard_time": 1769828419,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 154923,
+      "num": 143672,
+      "word": "晋江救赎文TOP要被拍剧了",
+      "onboard_time": 1769831181,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 152723,
@@ -427,20 +443,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 150485,
-      "num": 143672,
-      "word": "晋江救赎文TOP要被拍剧了",
-      "onboard_time": 1769831181,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 149770,
       "num": 100927,
       "word": "关晓彤婉拒马上有对象",
       "onboard_time": 1769761762,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 149592,
+      "num": 137498,
+      "word": "呼兰吐槽一路繁花",
+      "onboard_time": 1769834782,
+      "rank": 22,
+      "category": "综艺,作品衍生"
     },
     {
       "raw_hot": 146422,
@@ -491,20 +507,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 134816,
+      "num": 134816,
+      "word": "面试想要6千老板给发3万6",
+      "onboard_time": 1769832020,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 133422,
+      "num": 133422,
+      "word": "刘晓庆不知道贺峻霖是谁",
+      "onboard_time": 1769834600,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 132608,
       "num": 132608,
       "word": "澳门一酒店大堂78公斤黄金被曝搬空",
       "onboard_time": 1769780304,
       "rank": 7,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 132196,
-      "num": 132196,
-      "word": "面试想要6千老板给发3万6",
-      "onboard_time": 1769832020,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 130544,
@@ -531,12 +555,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 122140,
-      "num": 122140,
+      "raw_hot": 124110,
+      "num": 124110,
       "word": "金晨事件简单事故为何铤而走险",
       "onboard_time": 1769829682,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 123690,
+      "num": 135450,
+      "word": "黄金白银暴跌投资者发声",
+      "onboard_time": 1769834240,
+      "rank": 32,
+      "category": "财经"
     },
     {
       "raw_hot": 121749,
@@ -547,6 +579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121632,
+      "num": 131472,
+      "word": "古巴宣布进入国际紧急状态",
+      "onboard_time": 1769833341,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 121613,
       "num": 121613,
       "word": "德约科维奇晋级澳网男单决赛",
@@ -555,12 +595,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 121257,
-      "num": 121257,
-      "word": "古巴宣布进入国际紧急状态",
-      "onboard_time": 1769833341,
-      "rank": 27,
-      "category": "国际时政"
+      "raw_hot": 121289,
+      "num": 121289,
+      "word": "燕云十六声",
+      "onboard_time": 1769834482,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 120407,
@@ -588,7 +628,7 @@
     },
     {
       "raw_hot": 117143,
-      "num": 109377,
+      "num": 112185,
       "word": "这是UFO吗",
       "onboard_time": 1769832199,
       "rank": 30,
@@ -635,12 +675,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 102387,
-      "num": 102387,
-      "word": "黄金白银暴跌投资者发声",
-      "onboard_time": 1769834240,
-      "rank": 32,
-      "category": "财经"
+      "raw_hot": 105248,
+      "num": 105248,
+      "word": "白鹿周深五搭",
+      "onboard_time": 1769833640,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 99674,
@@ -665,14 +705,6 @@
       "onboard_time": 1769828419,
       "rank": 26,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 97994,
-      "num": 86311,
-      "word": "白鹿周深五搭",
-      "onboard_time": 1769833640,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 97216,
@@ -715,6 +747,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 93396,
+      "num": 93396,
+      "word": "小时候常吃的水果消失了",
+      "onboard_time": 1769834180,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 93337,
+      "num": 93337,
+      "word": "刘宇宁买到三年前的墨镜",
+      "onboard_time": 1769833940,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 90989,
       "num": 90989,
       "word": "妈妈买东西将孩子反锁屋内不慎起火",
@@ -729,6 +777,14 @@
       "onboard_time": 1769827940,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 90619,
+      "num": 90619,
+      "word": "黄金白银暴跌两大推手",
+      "onboard_time": 1769834722,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 88135,
@@ -801,14 +857,6 @@
       "onboard_time": 1769815277,
       "rank": 25,
       "category": "财经"
-    },
-    {
-      "raw_hot": 82830,
-      "num": 82830,
-      "word": "小时候常吃的水果消失了",
-      "onboard_time": 1769834180,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 82305,
@@ -1275,6 +1323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 28210,
+      "num": 122091,
+      "word": "律师解读生命树疑遭恶意评分",
+      "onboard_time": 1769834841,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 28158,
       "num": 52439,
       "word": "500多天的刑案马拉松",
@@ -1297,6 +1353,22 @@
       "onboard_time": 1769833461,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24242,
+      "num": 141904,
+      "word": "我使馆要求日本警方查明死因",
+      "onboard_time": 1769834360,
+      "rank": 34,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 23506,
+      "num": 94153,
+      "word": "在美华人做团播单场获6000美元打赏",
+      "onboard_time": 1769834661,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 23015,
@@ -1329,14 +1401,6 @@
       "onboard_time": 1769801895,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 19815,
-      "num": 100195,
-      "word": "我使馆要求日本警方查明死因",
-      "onboard_time": 1769834360,
-      "rank": 34,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 19656,
