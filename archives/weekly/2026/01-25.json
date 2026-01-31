@@ -1,6 +1,6 @@
 {
   "startTime": 1769272464158,
-  "endTime": 1769855640721,
+  "endTime": 1769856690721,
   "band_list": [
     {
       "raw_hot": 22742360,
@@ -1715,6 +1715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 510841,
+      "num": 727855,
+      "word": "王橹杰跪地凝视",
+      "onboard_time": 1769854701,
+      "rank": 6,
+      "category": "演出"
+    },
+    {
       "raw_hot": 510804,
       "num": 237902,
       "word": "张子墨 计划有变准备登陆日2026",
@@ -1875,6 +1883,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 489167,
+      "num": 238150,
+      "word": "朴信惠母亲自曝不愿看天国的阶梯",
+      "onboard_time": 1769854581,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 489024,
       "num": 1078243,
       "word": "羽绒服这样洗可能会爆炸",
@@ -1921,6 +1937,14 @@
       "onboard_time": 1769603241,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 485725,
+      "num": 1077716,
+      "word": "深圳通报杰我睿公司经营异常事件",
+      "onboard_time": 1769853444,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 485454,
@@ -2313,14 +2337,6 @@
       "onboard_time": 1769501061,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 430027,
-      "num": 727855,
-      "word": "王橹杰跪地凝视",
-      "onboard_time": 1769854701,
-      "rank": 6,
-      "category": "演出"
     },
     {
       "raw_hot": 429780,
@@ -3315,6 +3331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 330549,
+      "num": 330549,
+      "word": "TF四代赢了TOP",
+      "onboard_time": 1769856200,
+      "rank": 6,
+      "category": "演出"
+    },
+    {
       "raw_hot": 329629,
       "num": 197520,
       "word": "张学友捐款130万元",
@@ -3481,14 +3505,6 @@
       "onboard_time": 1769826619,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 321857,
-      "num": 1051497,
-      "word": "深圳通报杰我睿公司经营异常事件",
-      "onboard_time": 1769853444,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 321498,
@@ -5163,14 +5179,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 238150,
-      "num": 238150,
-      "word": "朴信惠母亲自曝不愿看天国的阶梯",
-      "onboard_time": 1769854581,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 237686,
       "num": 237686,
       "word": "6岁女孩烟曲霉感染脑子被啃20个洞",
@@ -5443,6 +5451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 225782,
+      "num": 378093,
+      "word": "朱志鑫苏新皓毕竟回到澳门了",
+      "onboard_time": 1769853562,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 225058,
       "num": 215372,
       "word": "微博之夜第三波阵容",
@@ -5617,14 +5633,6 @@
       "onboard_time": 1769653160,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 219754,
-      "num": 378093,
-      "word": "朱志鑫苏新皓毕竟回到澳门了",
-      "onboard_time": 1769853562,
-      "rank": 17,
-      "category": "演出"
     },
     {
       "raw_hot": 219203,
@@ -5865,6 +5873,14 @@
       "onboard_time": 1769321842,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 207385,
+      "num": 718768,
+      "word": "萨巴伦卡vs莱巴金娜",
+      "onboard_time": 1769852841,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 207251,
@@ -6235,6 +6251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 190798,
+      "num": 240678,
+      "word": "原来金丝楠木不是一种树",
+      "onboard_time": 1769853921,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 190202,
       "num": 182913,
       "word": "田曦薇美人嗔怒这一下",
@@ -6409,14 +6433,6 @@
       "onboard_time": 1769827520,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 183409,
-      "num": 240678,
-      "word": "原来金丝楠木不是一种树",
-      "onboard_time": 1769853921,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 183118,
@@ -6875,14 +6891,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 164611,
-      "num": 707239,
-      "word": "萨巴伦卡vs莱巴金娜",
-      "onboard_time": 1769852841,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 164470,
       "num": 160252,
       "word": "普通但赚钱的工作",
@@ -7073,6 +7081,14 @@
       "onboard_time": 1769565078,
       "rank": 8,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 158048,
+      "num": 158048,
+      "word": "SMTOWN",
+      "onboard_time": 1769854942,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 157898,
@@ -7851,12 +7867,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 143569,
+      "num": 143569,
+      "word": "荣耀之战四代第一",
+      "onboard_time": 1769856262,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 143520,
       "num": 143520,
       "word": "印度感染护士误饮被蝙蝠污染椰枣汁",
       "onboard_time": 1769483301,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 143427,
+      "num": 143427,
+      "word": "于洋这可是央视",
+      "onboard_time": 1769855842,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 143115,
@@ -8331,6 +8363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 136276,
+      "num": 158174,
+      "word": "特朗普又破防了",
+      "onboard_time": 1769852482,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 136268,
       "num": 2393363,
       "word": "28岁博士生在意失联10天家属发声",
@@ -8401,6 +8441,14 @@
       "onboard_time": 1769266762,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 135224,
+      "num": 148951,
+      "word": "郑钦文退赛",
+      "onboard_time": 1769856262,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 135216,
@@ -10307,14 +10355,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 113839,
-      "num": 113839,
-      "word": "SMTOWN",
-      "onboard_time": 1769854942,
-      "rank": 37,
-      "category": "演出"
-    },
-    {
       "raw_hot": 113698,
       "num": 113698,
       "word": "全红婵让樊振东请吃广东美食叉烧肉",
@@ -10537,6 +10577,14 @@
       "onboard_time": 1769313200,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111265,
+      "num": 111265,
+      "word": "终于知道什么叫情绪稳定了",
+      "onboard_time": 1769855541,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 111076,
@@ -11179,14 +11227,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 105758,
-      "num": 107580,
-      "word": "特朗普又破防了",
-      "onboard_time": 1769852482,
-      "rank": 39,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 105751,
       "num": 105751,
       "word": "第五人格园丁",
@@ -11739,6 +11779,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 102677,
+      "num": 102677,
+      "word": "丁程鑫宋亚轩摄影课",
+      "onboard_time": 1769856020,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 102604,
       "num": 190411,
       "word": "宝宝误嚼金锁医生称黄金已到大肠",
@@ -11753,6 +11801,14 @@
       "onboard_time": 1769427140,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 102435,
+      "num": 102435,
+      "word": "朝天门输了",
+      "onboard_time": 1769854041,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 102373,
@@ -11889,14 +11945,6 @@
       "onboard_time": 1769695763,
       "rank": 38,
       "category": "财经"
-    },
-    {
-      "raw_hot": 101326,
-      "num": 101326,
-      "word": "朝天门输了",
-      "onboard_time": 1769854041,
-      "rank": 43,
-      "category": "演出"
     },
     {
       "raw_hot": 101324,
@@ -12153,6 +12201,14 @@
       "onboard_time": 1769819420,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 99672,
+      "num": 99672,
+      "word": "黄金创40年来最大跌幅",
+      "onboard_time": 1769856141,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 99611,
@@ -12883,6 +12939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 95660,
+      "num": 95660,
+      "word": "JDG对战AL",
+      "onboard_time": 1769853141,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 95588,
       "num": 95588,
       "word": "电竞七夕",
@@ -13603,6 +13667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 92015,
+      "num": 92015,
+      "word": "王橹杰回应唱我是一只鱼",
+      "onboard_time": 1769856381,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 92001,
       "num": 96979,
       "word": "伦敦世乒赛团体赛",
@@ -13825,6 +13897,14 @@
       "onboard_time": 1769687061,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 90911,
+      "num": 90218,
+      "word": "李现章若楠 雾里青",
+      "onboard_time": 1769856622,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 90903,
@@ -14057,14 +14137,6 @@
       "onboard_time": 1769505862,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 89950,
-      "num": 89950,
-      "word": "终于知道什么叫情绪稳定了",
-      "onboard_time": 1769855541,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 89918,
@@ -20707,6 +20779,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 26572,
+      "num": 335073,
+      "word": "娇龙厅将面向公众开放",
+      "onboard_time": 1769855180,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26420,
       "num": 147399,
       "word": "直击旅日大熊猫最终参观日",
@@ -20945,6 +21025,14 @@
       "onboard_time": 1769834661,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 23436,
+      "num": 159070,
+      "word": "小学回应有班级收1500元请人打扫教室",
+      "onboard_time": 1769856381,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23334,
@@ -21603,14 +21691,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 15358,
-      "num": 335073,
-      "word": "娇龙厅将面向公众开放",
-      "onboard_time": 1769855180,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 15192,
       "num": 18218,
       "word": "豆包手机助手处理内容不存储不训练",
@@ -21681,6 +21761,14 @@
       "onboard_time": 1769495360,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14389,
+      "num": 430644,
+      "word": "喵娲娲带你近距离见自担",
+      "onboard_time": 1769853681,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 14269,
@@ -21761,14 +21849,6 @@
       "onboard_time": 1769741840,
       "rank": 39,
       "category": "国内时政,民生新闻"
-    },
-    {
-      "raw_hot": 12304,
-      "num": 430644,
-      "word": "喵娲娲带你近距离见自担",
-      "onboard_time": 1769853681,
-      "rank": 14,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 12095,

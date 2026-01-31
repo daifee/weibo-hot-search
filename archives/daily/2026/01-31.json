@@ -1,6 +1,6 @@
 {
   "startTime": 1769791903074,
-  "endTime": 1769855640721,
+  "endTime": 1769856690721,
   "band_list": [
     {
       "raw_hot": 1880814,
@@ -235,12 +235,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 510841,
+      "num": 727855,
+      "word": "王橹杰跪地凝视",
+      "onboard_time": 1769854701,
+      "rank": 6,
+      "category": "演出"
+    },
+    {
       "raw_hot": 492825,
       "num": 150894,
       "word": "半夜容易醒可能是身体在求救",
       "onboard_time": 1769822060,
       "rank": 11,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 489167,
+      "num": 238150,
+      "word": "朴信惠母亲自曝不愿看天国的阶梯",
+      "onboard_time": 1769854581,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 485725,
+      "num": 1077716,
+      "word": "深圳通报杰我睿公司经营异常事件",
+      "onboard_time": 1769853444,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 483854,
@@ -257,14 +281,6 @@
       "onboard_time": 1769832380,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 430027,
-      "num": 727855,
-      "word": "王橹杰跪地凝视",
-      "onboard_time": 1769854701,
-      "rank": 6,
-      "category": "演出"
     },
     {
       "raw_hot": 398800,
@@ -339,6 +355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 330549,
+      "num": 330549,
+      "word": "TF四代赢了TOP",
+      "onboard_time": 1769856200,
+      "rank": 6,
+      "category": "演出"
+    },
+    {
       "raw_hot": 329608,
       "num": 150851,
       "word": "李现在香港1天暴走18公里",
@@ -385,14 +409,6 @@
       "onboard_time": 1769826619,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 321857,
-      "num": 1051497,
-      "word": "深圳通报杰我睿公司经营异常事件",
-      "onboard_time": 1769853444,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 305842,
@@ -547,14 +563,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 238150,
-      "num": 238150,
-      "word": "朴信惠母亲自曝不愿看天国的阶梯",
-      "onboard_time": 1769854581,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 237686,
       "num": 237686,
       "word": "6岁女孩烟曲霉感染脑子被啃20个洞",
@@ -579,6 +587,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 225782,
+      "num": 378093,
+      "word": "朱志鑫苏新皓毕竟回到澳门了",
+      "onboard_time": 1769853562,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 224198,
       "num": 921826,
       "word": "白银迎来暴跌",
@@ -593,14 +609,6 @@
       "onboard_time": 1769849121,
       "rank": 40,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 219754,
-      "num": 378093,
-      "word": "朱志鑫苏新皓毕竟回到澳门了",
-      "onboard_time": 1769853562,
-      "rank": 17,
-      "category": "演出"
     },
     {
       "raw_hot": 219203,
@@ -641,6 +649,14 @@
       "onboard_time": 1769836882,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 207385,
+      "num": 718768,
+      "word": "萨巴伦卡vs莱巴金娜",
+      "onboard_time": 1769852841,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 203947,
@@ -691,6 +707,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192797,
+      "num": 716737,
+      "word": "生命树",
+      "onboard_time": 1769746581,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 190798,
+      "num": 240678,
+      "word": "原来金丝楠木不是一种树",
+      "onboard_time": 1769853921,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 188109,
       "num": 551169,
       "word": "女子手机被偷9年后收到1100元退赔",
@@ -707,14 +739,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 184989,
-      "num": 716737,
-      "word": "生命树",
-      "onboard_time": 1769746581,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 184415,
       "num": 210441,
       "word": "金价大幅下跌水贝市场有人果断抄底",
@@ -729,14 +753,6 @@
       "onboard_time": 1769827520,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 183409,
-      "num": 240678,
-      "word": "原来金丝楠木不是一种树",
-      "onboard_time": 1769853921,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 179992,
@@ -771,14 +787,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 164611,
-      "num": 707239,
-      "word": "萨巴伦卡vs莱巴金娜",
-      "onboard_time": 1769852841,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 161252,
       "num": 161252,
       "word": "白鹿二月的行程图",
@@ -793,6 +801,14 @@
       "onboard_time": 1769847501,
       "rank": 28,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 158048,
+      "num": 158048,
+      "word": "SMTOWN",
+      "onboard_time": 1769854942,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 157098,
@@ -907,6 +923,22 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 143569,
+      "num": 143569,
+      "word": "荣耀之战四代第一",
+      "onboard_time": 1769856262,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 143427,
+      "num": 143427,
+      "word": "于洋这可是央视",
+      "onboard_time": 1769855842,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 143115,
       "num": 143115,
       "word": "51岁前港姐乳腺癌细胞扩散至肝脏",
@@ -993,6 +1025,22 @@
       "onboard_time": 1769780783,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 136276,
+      "num": 158174,
+      "word": "特朗普又破防了",
+      "onboard_time": 1769852482,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 135224,
+      "num": 148951,
+      "word": "郑钦文退赛",
+      "onboard_time": 1769856262,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 134816,
@@ -1219,14 +1267,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 113839,
-      "num": 113839,
-      "word": "SMTOWN",
-      "onboard_time": 1769854942,
-      "rank": 37,
-      "category": "演出"
-    },
-    {
       "raw_hot": 112886,
       "num": 118029,
       "word": "周大福金饰克价1个月涨了262元",
@@ -1249,6 +1289,14 @@
       "onboard_time": 1769843840,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 111265,
+      "num": 111265,
+      "word": "终于知道什么叫情绪稳定了",
+      "onboard_time": 1769855541,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 109036,
@@ -1315,14 +1363,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 105758,
-      "num": 107580,
-      "word": "特朗普又破防了",
-      "onboard_time": 1769852482,
-      "rank": 39,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 105248,
       "num": 105248,
       "word": "白鹿周深五搭",
@@ -1363,8 +1403,16 @@
       "category": "演出"
     },
     {
-      "raw_hot": 101326,
-      "num": 101326,
+      "raw_hot": 102677,
+      "num": 102677,
+      "word": "丁程鑫宋亚轩摄影课",
+      "onboard_time": 1769856020,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 102435,
+      "num": 102435,
       "word": "朝天门输了",
       "onboard_time": 1769854041,
       "rank": 43,
@@ -1385,6 +1433,14 @@
       "onboard_time": 1769819420,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 99672,
+      "num": 99672,
+      "word": "黄金创40年来最大跌幅",
+      "onboard_time": 1769856141,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 99379,
@@ -1457,6 +1513,14 @@
       "onboard_time": 1769853980,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 95660,
+      "num": 95660,
+      "word": "JDG对战AL",
+      "onboard_time": 1769853141,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 95615,
@@ -1571,6 +1635,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 92015,
+      "num": 92015,
+      "word": "王橹杰回应唱我是一只鱼",
+      "onboard_time": 1769856381,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 91527,
       "num": 91527,
       "word": "怪不得能一眼认出魔丸和灵珠",
@@ -1587,6 +1659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 90911,
+      "num": 90218,
+      "word": "李现章若楠 雾里青",
+      "onboard_time": 1769856622,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 90812,
       "num": 90812,
       "word": "张帅组合冲击女双冠军",
@@ -1601,14 +1681,6 @@
       "onboard_time": 1769834722,
       "rank": 43,
       "category": "财经"
-    },
-    {
-      "raw_hot": 89950,
-      "num": 89950,
-      "word": "终于知道什么叫情绪稳定了",
-      "onboard_time": 1769855541,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 89300,
@@ -2483,6 +2555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26572,
+      "num": 335073,
+      "word": "娇龙厅将面向公众开放",
+      "onboard_time": 1769855180,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24892,
       "num": 134278,
       "word": "银行领导犯罪获刑后留任至退休",
@@ -2505,6 +2585,14 @@
       "onboard_time": 1769834661,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 23436,
+      "num": 159070,
+      "word": "小学回应有班级收1500元请人打扫教室",
+      "onboard_time": 1769856381,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23015,
@@ -2643,14 +2731,6 @@
       "category": "母婴育儿"
     },
     {
-      "raw_hot": 15358,
-      "num": 335073,
-      "word": "娇龙厅将面向公众开放",
-      "onboard_time": 1769855180,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 14750,
       "num": 22421,
       "word": "欧冠",
@@ -2659,20 +2739,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 14389,
+      "num": 430644,
+      "word": "喵娲娲带你近距离见自担",
+      "onboard_time": 1769853681,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 14059,
       "num": 21129,
       "word": "有歌",
       "onboard_time": 1769795177,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 12304,
-      "num": 430644,
-      "word": "喵娲娲带你近距离见自担",
-      "onboard_time": 1769853681,
-      "rank": 14,
-      "category": "作品衍生"
     }
   ],
   "hotgov_list": [

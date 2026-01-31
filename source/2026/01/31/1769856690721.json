@@ -1,0 +1,410 @@
+{
+  "runTime": 1769856690721,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 485725,
+        "num": 1077716,
+        "word": "深圳通报杰我睿公司经营异常事件",
+        "onboard_time": 1769853444,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 244788,
+        "num": 781657,
+        "word": "应急管理部部长被查",
+        "onboard_time": 1769847081,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 23782,
+        "num": 739946,
+        "word": "北京范儿",
+        "onboard_time": 1769851040,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 536989,
+        "num": 726886,
+        "word": "王一博 春晚",
+        "onboard_time": 1769848702,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207385,
+        "num": 718768,
+        "word": "萨巴伦卡vs莱巴金娜",
+        "onboard_time": 1769852841,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 714561,
+        "num": 714561,
+        "word": "发明洗澡吃橙子的人是个天才",
+        "onboard_time": 1769851822,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 330549,
+        "num": 330549,
+        "word": "TF四代赢了TOP",
+        "onboard_time": 1769856200,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 192797,
+        "num": 192797,
+        "word": "生命树",
+        "onboard_time": 1769852721,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165383,
+        "num": 165383,
+        "word": "王自如发年终奖了",
+        "onboard_time": 1769848641,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 141534,
+        "num": 165112,
+        "word": "英国演员裴淳华给首相整笑了",
+        "onboard_time": 1769849121,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 696983,
+        "num": 164391,
+        "word": "男子买彩票中500万后立马离婚",
+        "onboard_time": 1769850382,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 510841,
+        "num": 164220,
+        "word": "王橹杰跪地凝视",
+        "onboard_time": 1769854701,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 479332,
+        "num": 163744,
+        "word": "女生造黄谣被爸爸在派出所打了一耳光",
+        "onboard_time": 1769844381,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 438711,
+        "num": 163189,
+        "word": "在飞机上删了五个小时的照片",
+        "onboard_time": 1769846722,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 14389,
+        "num": 162526,
+        "word": "喵娲娲带你近距离见自担",
+        "onboard_time": 1769853681,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 368333,
+        "num": 161655,
+        "word": "国内金饰克价一夜跌140元",
+        "onboard_time": 1769843541,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 225782,
+        "num": 161477,
+        "word": "朱志鑫苏新皓毕竟回到澳门了",
+        "onboard_time": 1769853562,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 208569,
+        "num": 160871,
+        "word": "范志毅锐评赵樱子假摔",
+        "onboard_time": 1769853501,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189238,
+        "num": 159969,
+        "word": "高度近视手术后50天真实感受",
+        "onboard_time": 1769846722,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 159955,
+        "num": 159955,
+        "word": "破音",
+        "onboard_time": 1769844500,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1092888,
+        "num": 159923,
+        "word": "荣耀之战排名",
+        "onboard_time": 1769845881,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 190798,
+        "num": 159483,
+        "word": "原来金丝楠木不是一种树",
+        "onboard_time": 1769853921,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 489167,
+        "num": 159185,
+        "word": "朴信惠母亲自曝不愿看天国的阶梯",
+        "onboard_time": 1769854581,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23436,
+        "num": 159070,
+        "word": "小学回应有班级收1500元请人打扫教室",
+        "onboard_time": 1769856381,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224784,
+        "num": 158656,
+        "word": "林子烨长开了",
+        "onboard_time": 1769850141,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212495,
+        "num": 158450,
+        "word": "荣耀之战",
+        "onboard_time": 1769819900,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 136276,
+        "num": 158174,
+        "word": "特朗普又破防了",
+        "onboard_time": 1769852482,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 158048,
+        "num": 158048,
+        "word": "SMTOWN",
+        "onboard_time": 1769854942,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 135224,
+        "num": 148951,
+        "word": "郑钦文退赛",
+        "onboard_time": 1769856262,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143569,
+        "num": 143569,
+        "word": "荣耀之战四代第一",
+        "onboard_time": 1769856262,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 143427,
+        "num": 143427,
+        "word": "于洋这可是央视",
+        "onboard_time": 1769855842,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121139,
+        "num": 127703,
+        "word": "家人打扫房子6岁女孩脑子被真菌啃食",
+        "onboard_time": 1769850622,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122686,
+        "num": 122686,
+        "word": "生命树收视率第二集就断崖跌",
+        "onboard_time": 1769843241,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122557,
+        "num": 122557,
+        "word": "将门毒后",
+        "onboard_time": 1769833580,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118071,
+        "num": 118071,
+        "word": "金价",
+        "onboard_time": 1769824100,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 115102,
+        "num": 115102,
+        "word": "播音生被擦妆后猛咬嘴唇",
+        "onboard_time": 1769852661,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 112819,
+        "num": 112819,
+        "word": "金价大幅下跌水贝市场有人果断抄底",
+        "onboard_time": 1769845942,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 111897,
+        "num": 111897,
+        "word": "难听",
+        "onboard_time": 1769845642,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 111265,
+        "num": 111265,
+        "word": "终于知道什么叫情绪稳定了",
+        "onboard_time": 1769855541,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 110463,
+        "num": 110463,
+        "word": "TF四代 怪奇物语",
+        "onboard_time": 1769847802,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 102677,
+        "num": 102677,
+        "word": "丁程鑫宋亚轩摄影课",
+        "onboard_time": 1769856020,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26572,
+        "num": 102528,
+        "word": "娇龙厅将面向公众开放",
+        "onboard_time": 1769855180,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102435,
+        "num": 102435,
+        "word": "朝天门输了",
+        "onboard_time": 1769854041,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 100765,
+        "num": 100765,
+        "word": "女子手机被偷9年后收到1100元退赔",
+        "onboard_time": 1769849181,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99672,
+        "num": 99672,
+        "word": "黄金创40年来最大跌幅",
+        "onboard_time": 1769856141,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 95660,
+        "num": 95660,
+        "word": "JDG对战AL",
+        "onboard_time": 1769853141,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 93814,
+        "num": 93814,
+        "word": "宋轶人比花娇",
+        "onboard_time": 1769854341,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92015,
+        "num": 92015,
+        "word": "王橹杰回应唱我是一只鱼",
+        "onboard_time": 1769856381,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 90498,
+        "num": 90498,
+        "word": "外卖小哥雨天送纸袋星巴克撒了一地",
+        "onboard_time": 1769853980,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90911,
+        "num": 90218,
+        "word": "李现章若楠 雾里青",
+        "onboard_time": 1769856622,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同阿尔及利亚总统互致贺电#"
+    }
+  }
+}
