@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769849675037,
+  "endTime": 1769852226488,
   "band_list": [
     {
       "raw_hot": 22742360,
@@ -1683,6 +1683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1090252,
+      "num": 145930,
+      "word": "男子买彩票中500万后立马离婚",
+      "onboard_time": 1769850382,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1084863,
       "num": 593000,
       "word": "黄金",
@@ -2392,14 +2400,6 @@
       "word": "告白",
       "onboard_time": 1768979960,
       "rank": 27,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 930929,
-      "num": 304929,
-      "word": "赵今麦闺蜜是开端导演女儿",
-      "onboard_time": 1768548261,
-      "rank": 31,
       "category": "剧集"
     }
   ],

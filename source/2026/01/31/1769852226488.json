@@ -1,0 +1,410 @@
+{
+  "runTime": 1769852226488,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 529199,
+        "num": 1084671,
+        "word": "应急管理部部长被查",
+        "onboard_time": 1769847081,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 481248,
+        "num": 801987,
+        "word": "荣耀之战排名",
+        "onboard_time": 1769845881,
+        "rank": 1,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 31496,
+        "num": 634192,
+        "word": "北京范儿",
+        "onboard_time": 1769851040,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 719092,
+        "num": 501331,
+        "word": "王一博 春晚",
+        "onboard_time": 1769848702,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197663,
+        "num": 197663,
+        "word": "日本山林中发现1中国籍女性遗体",
+        "onboard_time": 1769833520,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 753515,
+        "num": 196774,
+        "word": "在飞机上删了五个小时的照片",
+        "onboard_time": 1769846722,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 352738,
+        "num": 192898,
+        "word": "生命树收视率第二集就断崖跌",
+        "onboard_time": 1769843241,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186065,
+        "num": 186065,
+        "word": "王自如发年终奖了",
+        "onboard_time": 1769848641,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 147426,
+        "num": 147426,
+        "word": "丫丫回国两年多判若两熊",
+        "onboard_time": 1769827579,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145961,
+        "num": 145961,
+        "word": "女子手机被偷9年后收到1100元退赔",
+        "onboard_time": 1769849181,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1090252,
+        "num": 145930,
+        "word": "男子买彩票中500万后立马离婚",
+        "onboard_time": 1769850382,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 926509,
+        "num": 145822,
+        "word": "女生造黄谣被爸爸在派出所打了一耳光",
+        "onboard_time": 1769844381,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 508889,
+        "num": 145798,
+        "word": "破音",
+        "onboard_time": 1769844500,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 410541,
+        "num": 145726,
+        "word": "国内金饰克价一夜跌140元",
+        "onboard_time": 1769843541,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 318513,
+        "num": 145647,
+        "word": "爱丫爱丫第一",
+        "onboard_time": 1769845162,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 200159,
+        "num": 145551,
+        "word": "生命树首日云合",
+        "onboard_time": 1769847802,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172530,
+        "num": 145497,
+        "word": "高度近视手术后50天真实感受",
+        "onboard_time": 1769846722,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 157129,
+        "num": 145444,
+        "word": "lovely好听",
+        "onboard_time": 1769847621,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 145370,
+        "num": 145370,
+        "word": "TF四代 怪奇物语",
+        "onboard_time": 1769847802,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 44715,
+        "num": 139517,
+        "word": "曝美联储主席提名人卷入爱泼斯坦案",
+        "onboard_time": 1769851581,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 134754,
+        "num": 134754,
+        "word": "招聘守岛人不限男女但不能一男一女",
+        "onboard_time": 1769835741,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 311082,
+        "num": 133345,
+        "word": "荣耀之战",
+        "onboard_time": 1769819900,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 253806,
+        "num": 133046,
+        "word": "林子烨长开了",
+        "onboard_time": 1769850141,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184415,
+        "num": 130744,
+        "word": "金价大幅下跌水贝市场有人果断抄底",
+        "onboard_time": 1769845942,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 244662,
+        "num": 129005,
+        "word": "律师称金晨事件两人均违法",
+        "onboard_time": 1769845821,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226408,
+        "num": 128106,
+        "word": "将门毒后",
+        "onboard_time": 1769833580,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179072,
+        "num": 126581,
+        "word": "家人打扫房子6岁女孩脑子被真菌啃食",
+        "onboard_time": 1769850622,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185671,
+        "num": 124409,
+        "word": "难听",
+        "onboard_time": 1769845642,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 139389,
+        "num": 123142,
+        "word": "英国演员裴淳华给首相整笑了",
+        "onboard_time": 1769849121,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 122229,
+        "num": 122229,
+        "word": "澳洲麦当劳vs中国麦当劳",
+        "onboard_time": 1769849241,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 136886,
+        "num": 121961,
+        "word": "发明洗澡吃橙子的人是个天才",
+        "onboard_time": 1769851822,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121527,
+        "num": 121527,
+        "word": "金价",
+        "onboard_time": 1769824100,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 121469,
+        "num": 121469,
+        "word": "借过一下第二",
+        "onboard_time": 1769844681,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 108148,
+        "num": 108148,
+        "word": "荣耀之战节目单",
+        "onboard_time": 1769839400,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 103869,
+        "num": 103869,
+        "word": "原来情绪稳定是这样的",
+        "onboard_time": 1769841200,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 107288,
+        "num": 103182,
+        "word": "七匹狼",
+        "onboard_time": 1769844441,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 106809,
+        "num": 102875,
+        "word": "朝天门好帅",
+        "onboard_time": 1769850741,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 102209,
+        "num": 102209,
+        "word": "王祥喜涉嫌严重违纪违法",
+        "onboard_time": 1769847501,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 30126,
+        "num": 98014,
+        "word": "央视马年春晚第三次联排阵容",
+        "onboard_time": 1769851581,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23014,
+        "num": 95271,
+        "word": "男子在群里抢红包获刑7个月罚2000",
+        "onboard_time": 1769851402,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102586,
+        "num": 95206,
+        "word": "刘亦菲版小龙女考虑过刘晓庆",
+        "onboard_time": 1769843119,
+        "rank": 40,
+        "category": "综艺,作品衍生"
+      },
+      {
+        "raw_hot": 94930,
+        "num": 94930,
+        "word": "T1对战DK",
+        "onboard_time": 1769852001,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 92930,
+        "num": 92930,
+        "word": "叶祖新新剧面相又变了",
+        "onboard_time": 1769845281,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92848,
+        "num": 92848,
+        "word": "最佳菜鸟",
+        "onboard_time": 1769852181,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 91527,
+        "num": 91527,
+        "word": "怪不得能一眼认出魔丸和灵珠",
+        "onboard_time": 1769851581,
+        "rank": 44,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 89300,
+        "num": 89300,
+        "word": "男子买彩票中500万为保奖金离婚",
+        "onboard_time": 1769851161,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88010,
+        "num": 88010,
+        "word": "家长为找宝宝断指将兔子开膛破肚",
+        "onboard_time": 1769835561,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86728,
+        "num": 86728,
+        "word": "38岁国企员工辞职演短剧",
+        "onboard_time": 1769847322,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85232,
+        "num": 85232,
+        "word": "Kakao直面Bin",
+        "onboard_time": 1769850862,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 83421,
+        "num": 83421,
+        "word": "苏新皓跪着飙高音",
+        "onboard_time": 1769849781,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同阿尔及利亚总统互致贺电#"
+    }
+  }
+}

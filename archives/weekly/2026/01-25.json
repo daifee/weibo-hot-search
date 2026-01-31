@@ -1,6 +1,6 @@
 {
   "startTime": 1769272464158,
-  "endTime": 1769849675037,
+  "endTime": 1769852226488,
   "band_list": [
     {
       "raw_hot": 22742360,
@@ -483,6 +483,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1090252,
+      "num": 145930,
+      "word": "男子买彩票中500万后立马离婚",
+      "onboard_time": 1769850382,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1084863,
       "num": 295428,
       "word": "黄金",
@@ -819,6 +827,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 753515,
+      "num": 242630,
+      "word": "在飞机上删了五个小时的照片",
+      "onboard_time": 1769846722,
+      "rank": 5,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 750844,
       "num": 268808,
       "word": "刘亦菲 祖玛珑",
@@ -867,14 +883,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 733137,
-      "num": 242630,
-      "word": "在飞机上删了五个小时的照片",
-      "onboard_time": 1769846722,
-      "rank": 5,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 733067,
       "num": 100720,
       "word": "女子卖房买白银5个月狂赚200万",
@@ -897,6 +905,14 @@
       "onboard_time": 1769332161,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 719092,
+      "num": 501331,
+      "word": "王一博 春晚",
+      "onboard_time": 1769848702,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 709327,
@@ -1955,6 +1971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 481248,
+      "num": 801987,
+      "word": "荣耀之战排名",
+      "onboard_time": 1769845881,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 481127,
       "num": 1616425,
       "word": "宝可梦道歉了",
@@ -2289,14 +2313,6 @@
       "onboard_time": 1769344221,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 428394,
-      "num": 428394,
-      "word": "王一博 春晚",
-      "onboard_time": 1769848702,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 427481,
@@ -4123,14 +4139,6 @@
       "category": "民生新闻,旅游"
     },
     {
-      "raw_hot": 283628,
-      "num": 226222,
-      "word": "荣耀之战排名",
-      "onboard_time": 1769845881,
-      "rank": 23,
-      "category": "演出"
-    },
-    {
       "raw_hot": 283321,
       "num": 283321,
       "word": "会旅游和不会旅游的区别",
@@ -4715,6 +4723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 253806,
+      "num": 133046,
+      "word": "林子烨长开了",
+      "onboard_time": 1769850141,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 253636,
       "num": 172829,
       "word": "刘强东父亲看乡亲们领年货",
@@ -4937,6 +4953,14 @@
       "onboard_time": 1769449516,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 244662,
+      "num": 195321,
+      "word": "律师称金晨事件两人均违法",
+      "onboard_time": 1769845821,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 244160,
@@ -5955,14 +5979,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 199072,
-      "num": 195321,
-      "word": "律师称金晨事件两人均违法",
-      "onboard_time": 1769845821,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 198937,
       "num": 198937,
       "word": "吴忠市人民医院致歉",
@@ -6235,6 +6251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 186065,
+      "num": 186065,
+      "word": "王自如发年终奖了",
+      "onboard_time": 1769848641,
+      "rank": 43,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 185837,
       "num": 185837,
       "word": "李川被六岁小孩骂了",
@@ -6265,6 +6289,14 @@
       "onboard_time": 1769424562,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 184415,
+      "num": 210441,
+      "word": "金价大幅下跌水贝市场有人果断抄底",
+      "onboard_time": 1769845942,
+      "rank": 25,
+      "category": "财经"
     },
     {
       "raw_hot": 183689,
@@ -6355,14 +6387,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 180887,
-      "num": 210441,
-      "word": "金价大幅下跌水贝市场有人果断抄底",
-      "onboard_time": 1769845942,
-      "rank": 25,
-      "category": "财经"
-    },
-    {
       "raw_hot": 180582,
       "num": 180582,
       "word": "在卢昱晓这里吃到古偶顶级细糠了",
@@ -6393,6 +6417,14 @@
       "onboard_time": 1769673024,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 179072,
+      "num": 126581,
+      "word": "家人打扫房子6岁女孩脑子被真菌啃食",
+      "onboard_time": 1769850622,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 179045,
@@ -6529,6 +6561,14 @@
       "onboard_time": 1769778924,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 172530,
+      "num": 157017,
+      "word": "高度近视手术后50天真实感受",
+      "onboard_time": 1769846722,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 172443,
@@ -6993,14 +7033,6 @@
       "onboard_time": 1769764162,
       "rank": 39,
       "category": "艺人,游戏"
-    },
-    {
-      "raw_hot": 157017,
-      "num": 157017,
-      "word": "高度近视手术后50天真实感受",
-      "onboard_time": 1769846722,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 156967,
@@ -7539,14 +7571,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 146979,
-      "num": 146979,
-      "word": "王自如发年终奖了",
-      "onboard_time": 1769848641,
-      "rank": 43,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 146851,
       "num": 146851,
       "word": "国防部回应所谓击沉中国军舰动画",
@@ -7587,6 +7611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 145961,
+      "num": 182041,
+      "word": "女子手机被偷9年后收到1100元退赔",
+      "onboard_time": 1769849181,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 145789,
       "num": 99119,
       "word": "易烊千玺到底像谁",
@@ -7625,6 +7657,14 @@
       "onboard_time": 1769403502,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 145370,
+      "num": 145370,
+      "word": "TF四代 怪奇物语",
+      "onboard_time": 1769847802,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 145130,
@@ -7825,14 +7865,6 @@
       "onboard_time": 1769519121,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 141487,
-      "num": 141487,
-      "word": "TF四代 怪奇物语",
-      "onboard_time": 1769847802,
-      "rank": 35,
-      "category": "演出"
     },
     {
       "raw_hot": 141483,
@@ -8059,6 +8091,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 139389,
+      "num": 123142,
+      "word": "英国演员裴淳华给首相整笑了",
+      "onboard_time": 1769849121,
+      "rank": 40,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 139365,
       "num": 136890,
       "word": "印度男女杀人犯狱中恋爱并结婚",
@@ -8193,6 +8233,14 @@
       "onboard_time": 1769406141,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 136886,
+      "num": 121961,
+      "word": "发明洗澡吃橙子的人是个天才",
+      "onboard_time": 1769851822,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 136846,
@@ -9283,6 +9331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 122229,
+      "num": 122229,
+      "word": "澳洲麦当劳vs中国麦当劳",
+      "onboard_time": 1769849241,
+      "rank": 45,
+      "category": "美食"
+    },
+    {
       "raw_hot": 122209,
       "num": 122209,
       "word": "十日终焉配角竞争激烈",
@@ -10347,14 +10403,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 111928,
-      "num": 111928,
-      "word": "英国演员裴淳华给首相整笑了",
-      "onboard_time": 1769849121,
-      "rank": 40,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 111909,
       "num": 77742,
       "word": "欧冠",
@@ -10907,6 +10955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 106809,
+      "num": 102875,
+      "word": "朝天门好帅",
+      "onboard_time": 1769850741,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 106786,
       "num": 106786,
       "word": "印度男子为上医学院砍断一只脚",
@@ -11081,14 +11137,6 @@
       "onboard_time": 1769413282,
       "rank": 44,
       "category": "财经"
-    },
-    {
-      "raw_hot": 105449,
-      "num": 105449,
-      "word": "澳洲麦当劳vs中国麦当劳",
-      "onboard_time": 1769849241,
-      "rank": 45,
-      "category": "美食"
     },
     {
       "raw_hot": 105426,
@@ -12843,6 +12891,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 94930,
+      "num": 94930,
+      "word": "T1对战DK",
+      "onboard_time": 1769852001,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 94907,
       "num": 94907,
       "word": "摸凹猫 摸凸猫",
@@ -13243,6 +13299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 92848,
+      "num": 92848,
+      "word": "最佳菜鸟",
+      "onboard_time": 1769852181,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 92808,
       "num": 92808,
       "word": "Viper太夸张了",
@@ -13465,6 +13529,14 @@
       "onboard_time": 1769567960,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 91527,
+      "num": 91527,
+      "word": "怪不得能一眼认出魔丸和灵珠",
+      "onboard_time": 1769851581,
+      "rank": 44,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 91431,
@@ -13969,6 +14041,14 @@
       "onboard_time": 1769591481,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 89300,
+      "num": 89300,
+      "word": "男子买彩票中500万为保奖金离婚",
+      "onboard_time": 1769851161,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89285,
@@ -14683,6 +14763,14 @@
       "category": "财经,互联网"
     },
     {
+      "raw_hot": 85232,
+      "num": 85232,
+      "word": "Kakao直面Bin",
+      "onboard_time": 1769850862,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 85151,
       "num": 122211,
       "word": "沙特机场中国人多到包机",
@@ -15041,6 +15129,14 @@
       "onboard_time": 1769670804,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 83421,
+      "num": 83421,
+      "word": "苏新皓跪着飙高音",
+      "onboard_time": 1769849781,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 83370,
@@ -18995,6 +19091,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 44715,
+      "num": 139517,
+      "word": "曝美联储主席提名人卷入爱泼斯坦案",
+      "onboard_time": 1769851581,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 44707,
       "num": 174010,
       "word": "政协委员建议推行每周四天半工作日",
@@ -19233,14 +19337,6 @@
       "onboard_time": 1769327781,
       "rank": 19,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 41180,
-      "num": 182041,
-      "word": "女子手机被偷9年后收到1100元退赔",
-      "onboard_time": 1769849181,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 41137,
@@ -19987,6 +20083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 31496,
+      "num": 634192,
+      "word": "北京范儿",
+      "onboard_time": 1769851040,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31424,
       "num": 79926,
       "word": "美冬季风暴造成至少30人死",
@@ -20145,6 +20249,14 @@
       "onboard_time": 1769262624,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 30126,
+      "num": 98014,
+      "word": "央视马年春晚第三次联排阵容",
+      "onboard_time": 1769851581,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 29866,
@@ -20673,6 +20785,14 @@
       "onboard_time": 1769814016,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 23014,
+      "num": 95271,
+      "word": "男子在群里抢红包获刑7个月罚2000",
+      "onboard_time": 1769851402,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 22968,
