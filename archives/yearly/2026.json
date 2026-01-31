@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769867894341,
+  "endTime": 1769869949556,
   "band_list": [
     {
       "raw_hot": 22742360,
@@ -1987,6 +1987,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1028891,
+      "num": 309354,
+      "word": "爱泼斯坦",
+      "onboard_time": 1769866882,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1028779,
       "num": 596842,
       "word": "女教师结婚当天坠楼新郎同学发声",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1768884982,
       "rank": 23,
       "category": "网红"
-    },
-    {
-      "raw_hot": 934753,
-      "num": 590523,
-      "word": "杨紫换头像",
-      "onboard_time": 1768830563,
-      "rank": 14,
-      "category": "剧集"
     }
   ],
   "hotgov_list": [
