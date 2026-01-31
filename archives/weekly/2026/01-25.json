@@ -1,6 +1,6 @@
 {
   "startTime": 1769272464158,
-  "endTime": 1769816963627,
+  "endTime": 1769826672193,
   "band_list": [
     {
       "raw_hot": 22742360,
@@ -1635,6 +1635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 492825,
+      "num": 134742,
+      "word": "半夜容易醒可能是身体在求救",
+      "onboard_time": 1769822060,
+      "rank": 11,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 492421,
       "num": 360773,
       "word": "Selina悼念烧伤主治医生",
@@ -2403,6 +2411,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 398800,
+      "num": 134245,
+      "word": "律师称金晨承担交通违法处罚责任",
+      "onboard_time": 1769821641,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 397909,
       "num": 299369,
       "word": "第一次在内娱见男女主是太监和宫女",
@@ -2457,6 +2473,14 @@
       "onboard_time": 1769489301,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 389127,
+      "num": 1062260,
+      "word": "刚果金矿难致200多人死亡",
+      "onboard_time": 1769823858,
+      "rank": 0,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 388493,
@@ -2731,6 +2755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 358044,
+      "num": 133966,
+      "word": "比尔盖茨被曝向妻子隐瞒性病",
+      "onboard_time": 1769826201,
+      "rank": 13,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 356287,
       "num": 560518,
       "word": "成毅新片定档春节档",
@@ -2817,6 +2849,14 @@
       "onboard_time": 1769750782,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 347171,
+      "num": 762281,
+      "word": "生命树疑似被恶意评分",
+      "onboard_time": 1769825000,
+      "rank": 1,
+      "category": "剧集"
     },
     {
       "raw_hot": 346994,
@@ -3041,6 +3081,22 @@
       "onboard_time": 1769406620,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 329608,
+      "num": 133434,
+      "word": "李现在香港1天暴走18公里",
+      "onboard_time": 1769824280,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 329369,
+      "num": 840099,
+      "word": "专家称金价大跌是牛市调整",
+      "onboard_time": 1769816779,
+      "rank": 7,
+      "category": "财经"
     },
     {
       "raw_hot": 329337,
@@ -3667,6 +3723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 290393,
+      "num": 290393,
+      "word": "男子投保8年才知20年返本是谎言",
+      "onboard_time": 1769819479,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 290360,
       "num": 197611,
       "word": "长期缺爱的人一眼就看出来了",
@@ -3681,6 +3745,14 @@
       "onboard_time": 1769398401,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 290043,
+      "num": 133386,
+      "word": "黄金白银牛市终结了吗",
+      "onboard_time": 1769821819,
+      "rank": 15,
+      "category": "财经"
     },
     {
       "raw_hot": 289591,
@@ -4219,6 +4291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 260921,
+      "num": 260921,
+      "word": "王小卤鸡爪被曝发霉变质",
+      "onboard_time": 1769820259,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 260667,
       "num": 423521,
       "word": "贝加尔湖车祸75岁中国籍女性死亡",
@@ -4681,6 +4761,14 @@
       "onboard_time": 1769382376,
       "rank": 6,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 240925,
+      "num": 240925,
+      "word": "荣耀之战",
+      "onboard_time": 1769411961,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 240915,
@@ -5761,14 +5849,6 @@
       "onboard_time": 1769505021,
       "rank": 17,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 186509,
-      "num": 840099,
-      "word": "专家称金价大跌是牛市调整",
-      "onboard_time": 1769816779,
-      "rank": 7,
-      "category": "财经"
     },
     {
       "raw_hot": 186305,
@@ -6996,7 +7076,7 @@
     },
     {
       "raw_hot": 146422,
-      "num": 73835,
+      "num": 106328,
       "word": "美性侵犯被押送时抓女警臀部",
       "onboard_time": 1769815396,
       "rank": 21,
@@ -7649,6 +7729,14 @@
       "onboard_time": 1769334021,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 134482,
+      "num": 107674,
+      "word": "黄金白银一夜跌爆",
+      "onboard_time": 1769822720,
+      "rank": 23,
+      "category": "财经"
     },
     {
       "raw_hot": 134406,
@@ -8683,6 +8771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 120407,
+      "num": 107357,
+      "word": "春晚彩排的明星",
+      "onboard_time": 1769823023,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 120361,
       "num": 120361,
       "word": "不要有破防羞耻症",
@@ -8697,14 +8793,6 @@
       "onboard_time": 1769760321,
       "rank": 18,
       "category": "美食"
-    },
-    {
-      "raw_hot": 120043,
-      "num": 120043,
-      "word": "荣耀之战",
-      "onboard_time": 1769411961,
-      "rank": 37,
-      "category": "演出"
     },
     {
       "raw_hot": 119943,
@@ -9579,6 +9667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 110758,
+      "num": 110758,
+      "word": "催婚差点把父母说离了",
+      "onboard_time": 1769825120,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 110695,
       "num": 108900,
       "word": "那英华晨宇始终如一的魔丸味",
@@ -10371,6 +10467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 104134,
+      "num": 104134,
+      "word": "玉溪一教师事业单位岗被指是萝卜岗",
+      "onboard_time": 1769825421,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103947,
       "num": 103947,
       "word": "詹姆斯哭了",
@@ -11035,6 +11139,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 99674,
+      "num": 99674,
+      "word": "男子连吃几天杀猪饭致重症胰腺炎",
+      "onboard_time": 1769819420,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99611,
       "num": 122827,
       "word": "半场u23国足2次射门1次射正",
@@ -11361,6 +11473,14 @@
       "onboard_time": 1769572102,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 97216,
+      "num": 97216,
+      "word": "联合国面临财政崩溃",
+      "onboard_time": 1769823441,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 97194,
@@ -11753,6 +11873,14 @@
       "onboard_time": 1769488040,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 95475,
+      "num": 95475,
+      "word": "男子在电诈园区打错字遭电击",
+      "onboard_time": 1769820920,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 95321,
@@ -12321,6 +12449,14 @@
       "onboard_time": 1769258721,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92092,
+      "num": 135140,
+      "word": "Knight手写菜单",
+      "onboard_time": 1769824580,
+      "rank": 9,
+      "category": "电竞"
     },
     {
       "raw_hot": 92060,
@@ -14859,6 +14995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 78025,
+      "num": 78025,
+      "word": "周杰伦陈奕迅王俊凯澳网同框",
+      "onboard_time": 1769820259,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 77910,
       "num": 74953,
       "word": "肖战是媒体眼中的满分男",
@@ -15315,6 +15459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 75651,
+      "num": 75651,
+      "word": "女子为爱贷款12次负债200万",
+      "onboard_time": 1769822419,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75608,
       "num": 190344,
       "word": "辽宁男篮末节4分",
@@ -15459,12 +15611,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 74665,
+      "num": 74665,
+      "word": "黄金期货暂停交易",
+      "onboard_time": 1769826140,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 74605,
       "num": 74605,
       "word": "印度尼帕病毒疫情对我国影响较小",
       "onboard_time": 1769506341,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 74442,
+      "num": 74442,
+      "word": "这样喝咖啡反而增加患癌风险",
+      "onboard_time": 1769815037,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 74409,
@@ -15481,6 +15649,14 @@
       "onboard_time": 1769303660,
       "rank": 43,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 74386,
+      "num": 74386,
+      "word": "俄方重新将14名日本人列为战犯",
+      "onboard_time": 1769818760,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 74377,
@@ -15915,14 +16091,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 70900,
-      "num": 70900,
-      "word": "这样喝咖啡反而增加患癌风险",
-      "onboard_time": 1769815037,
-      "rank": 28,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 70817,
       "num": 69749,
       "word": "卢昱晓南衣路透",
@@ -16243,6 +16411,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 68002,
+      "num": 110670,
+      "word": "女子雪天面试没过获20元补贴",
+      "onboard_time": 1769825481,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 67970,
       "num": 67970,
       "word": "何猷君称投资海南就是投资未来",
@@ -16387,6 +16563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 66713,
+      "num": 66713,
+      "word": "优衣库回应下架宝可梦定制T恤",
+      "onboard_time": 1769826560,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 66682,
       "num": 87254,
       "word": "陈妍希周柯宇将出席微博之夜",
@@ -16481,6 +16665,14 @@
       "onboard_time": 1769307980,
       "rank": 47,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 64380,
+      "num": 64380,
+      "word": "花花cos大象鼻子不听使唤",
+      "onboard_time": 1769824580,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 64363,
@@ -16739,6 +16931,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 60167,
+      "num": 60167,
+      "word": "荣耀之战彩排",
+      "onboard_time": 1769821580,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 60096,
       "num": 60096,
       "word": "特朗普称将提高对韩关税税率",
@@ -16825,6 +17025,14 @@
       "onboard_time": 1769387180,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 58629,
+      "num": 58629,
+      "word": "美医保高管枪杀案嫌犯免于死刑",
+      "onboard_time": 1769826320,
+      "rank": 46,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 58574,
@@ -17131,12 +17339,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 53757,
+      "num": 53757,
+      "word": "袁娅维与外网顶流逛街",
+      "onboard_time": 1769826619,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 53705,
       "num": 73119,
       "word": "为这口菌子等了寒露又等雨",
       "onboard_time": 1769324780,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 53701,
+      "num": 53701,
+      "word": "幼儿园特种兵",
+      "onboard_time": 1769826020,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 53455,
@@ -17577,6 +17801,14 @@
       "onboard_time": 1769756420,
       "rank": 42,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 45924,
+      "num": 110173,
+      "word": "150元盗版吹风机被4层转卖2400元",
+      "onboard_time": 1769825481,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 45486,
