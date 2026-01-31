@@ -1,6 +1,6 @@
 {
   "startTime": 1769791903074,
-  "endTime": 1769856690721,
+  "endTime": 1769858925774,
   "band_list": [
     {
       "raw_hot": 1880814,
@@ -83,6 +83,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 916892,
+      "num": 330549,
+      "word": "TF四代赢了TOP",
+      "onboard_time": 1769856200,
+      "rank": 6,
+      "category": "演出"
+    },
+    {
       "raw_hot": 795875,
       "num": 795875,
       "word": "金晨助理已触及行政违法",
@@ -152,6 +160,14 @@
       "word": "金晨道歉",
       "onboard_time": 1769766745,
       "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 647619,
+      "num": 238150,
+      "word": "朴信惠母亲自曝不愿看天国的阶梯",
+      "onboard_time": 1769854581,
+      "rank": 23,
       "category": "艺人"
     },
     {
@@ -251,12 +267,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 489167,
-      "num": 238150,
-      "word": "朴信惠母亲自曝不愿看天国的阶梯",
-      "onboard_time": 1769854581,
-      "rank": 23,
-      "category": "艺人"
+      "raw_hot": 489006,
+      "num": 1078241,
+      "word": "莱巴金娜夺冠",
+      "onboard_time": 1769857701,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 485725,
@@ -323,6 +339,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 375086,
+      "num": 375086,
+      "word": "黄金白银创单日暴跌纪录",
+      "onboard_time": 1769857340,
+      "rank": 3,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 372822,
+      "num": 718768,
+      "word": "萨巴伦卡vs莱巴金娜",
+      "onboard_time": 1769852841,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 372790,
       "num": 322555,
       "word": "林子烨长开了",
@@ -339,6 +371,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 341234,
+      "num": 222039,
+      "word": "特朗普又破防了",
+      "onboard_time": 1769852482,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 337256,
       "num": 237279,
       "word": "长剧凭什么还留得住观众",
@@ -353,14 +393,6 @@
       "onboard_time": 1769840239,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 330549,
-      "num": 330549,
-      "word": "TF四代赢了TOP",
-      "onboard_time": 1769856200,
-      "rank": 6,
-      "category": "演出"
     },
     {
       "raw_hot": 329608,
@@ -475,6 +507,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 282459,
+      "num": 282459,
+      "word": "英国首相一行吃光牛肝菌焖饭",
+      "onboard_time": 1769856801,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 277584,
+      "num": 221673,
+      "word": "春晚彩排",
+      "onboard_time": 1769857461,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 277566,
       "num": 277566,
       "word": "黄金白银暴跌投资者发声",
@@ -513,6 +561,14 @@
       "onboard_time": 1769843299,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 255879,
+      "num": 255879,
+      "word": "郑钦文退赛",
+      "onboard_time": 1769856262,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 254862,
@@ -595,6 +651,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 224639,
+      "num": 224639,
+      "word": "徐晨皓宣布退出国家队",
+      "onboard_time": 1769857101,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 224198,
       "num": 921826,
       "word": "白银迎来暴跌",
@@ -651,20 +715,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 207385,
-      "num": 718768,
-      "word": "萨巴伦卡vs莱巴金娜",
-      "onboard_time": 1769852841,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 203947,
       "num": 900228,
       "word": "金价史诗级大幅震荡",
       "onboard_time": 1769767647,
       "rank": 6,
       "category": "财经"
+    },
+    {
+      "raw_hot": 202350,
+      "num": 716737,
+      "word": "生命树",
+      "onboard_time": 1769746581,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 198462,
@@ -704,14 +768,6 @@
       "word": "唐宫奇案",
       "onboard_time": 1769826260,
       "rank": 44,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 192797,
-      "num": 716737,
-      "word": "生命树",
-      "onboard_time": 1769746581,
-      "rank": 31,
       "category": "剧集"
     },
     {
@@ -763,6 +819,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 179833,
+      "num": 179833,
+      "word": "李现章若楠 雾里青",
+      "onboard_time": 1769856622,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 179081,
+      "num": 179081,
+      "word": "SMTOWN",
+      "onboard_time": 1769854942,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 179072,
       "num": 131850,
       "word": "家人打扫房子6岁女孩脑子被真菌啃食",
@@ -787,6 +859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 166730,
+      "num": 166730,
+      "word": "于洋这可是央视",
+      "onboard_time": 1769855842,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 161252,
       "num": 161252,
       "word": "白鹿二月的行程图",
@@ -803,12 +883,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 158048,
-      "num": 158048,
-      "word": "SMTOWN",
-      "onboard_time": 1769854942,
-      "rank": 37,
-      "category": "演出"
+      "raw_hot": 159566,
+      "num": 179251,
+      "word": "低丸子头是穿羽绒服最好看的发型",
+      "onboard_time": 1769858781,
+      "rank": 31,
+      "category": "美妆"
     },
     {
       "raw_hot": 157098,
@@ -875,6 +955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 150584,
+      "num": 203540,
+      "word": "孙子杀两人后爷奶帮毁尸灭迹",
+      "onboard_time": 1769858001,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 150118,
       "num": 150118,
       "word": "叶祖新新剧面相又变了",
@@ -897,6 +985,22 @@
       "onboard_time": 1769838200,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 146748,
+      "num": 146748,
+      "word": "家委会收每生263元家长报警",
+      "onboard_time": 1769857522,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 146661,
+      "num": 146661,
+      "word": "T1战胜DK",
+      "onboard_time": 1769858242,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 146422,
@@ -929,14 +1033,6 @@
       "onboard_time": 1769856262,
       "rank": 29,
       "category": "演出"
-    },
-    {
-      "raw_hot": 143427,
-      "num": 143427,
-      "word": "于洋这可是央视",
-      "onboard_time": 1769855842,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 143115,
@@ -1025,22 +1121,6 @@
       "onboard_time": 1769780783,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 136276,
-      "num": 158174,
-      "word": "特朗普又破防了",
-      "onboard_time": 1769852482,
-      "rank": 39,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 135224,
-      "num": 148951,
-      "word": "郑钦文退赛",
-      "onboard_time": 1769856262,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 134816,
@@ -1219,6 +1299,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 116788,
+      "num": 116788,
+      "word": "JDG对战AL",
+      "onboard_time": 1769853141,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 116603,
       "num": 116603,
       "word": "这居然是尹子维",
@@ -1337,6 +1425,22 @@
       "onboard_time": 1769854341,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 107071,
+      "num": 107071,
+      "word": "张峻豪直播",
+      "onboard_time": 1769858781,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 106948,
+      "num": 106948,
+      "word": "13岁男孩高温泡澡20分钟后脑出血",
+      "onboard_time": 1769856861,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 106809,
@@ -1491,6 +1595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 96488,
+      "num": 96488,
+      "word": "胡兵 叔圈娃娃菜",
+      "onboard_time": 1769857522,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 96393,
       "num": 135977,
       "word": "金价跌了你会现在入手吗",
@@ -1513,14 +1625,6 @@
       "onboard_time": 1769853980,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 95660,
-      "num": 95660,
-      "word": "JDG对战AL",
-      "onboard_time": 1769853141,
-      "rank": 45,
-      "category": "电竞"
     },
     {
       "raw_hot": 95615,
@@ -1657,14 +1761,6 @@
       "onboard_time": 1769832501,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 90911,
-      "num": 90218,
-      "word": "李现章若楠 雾里青",
-      "onboard_time": 1769856622,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 90812,
@@ -1835,6 +1931,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 81482,
+      "num": 220035,
+      "word": "500元入手黄金卖出净赚20万元",
+      "onboard_time": 1769858541,
+      "rank": 18,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 81185,
       "num": 806668,
       "word": "大回暖来了气温跳跃式起飞",
@@ -1985,6 +2089,14 @@
       "onboard_time": 1769780425,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 75705,
+      "num": 221285,
+      "word": "大连阿姨来京卖200元入的100克金条",
+      "onboard_time": 1769858541,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 75651,
@@ -2225,6 +2337,14 @@
       "onboard_time": 1769816779,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 50134,
+      "num": 219873,
+      "word": "男子连杀两人爷奶帮毁尸灭迹",
+      "onboard_time": 1769857881,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 48536,
@@ -2595,6 +2715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23342,
+      "num": 220756,
+      "word": "女儿被撞妈妈看监控后退回500元赔偿",
+      "onboard_time": 1769858302,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23015,
       "num": 36243,
       "word": "看起来干巴实际脂肪爆表",
@@ -2649,6 +2777,22 @@
       "onboard_time": 1769770825,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 20823,
+      "num": 212435,
+      "word": "英国首相镜头里的中国军人",
+      "onboard_time": 1769858722,
+      "rank": 23,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 20692,
+      "num": 598350,
+      "word": "京味烟火",
+      "onboard_time": 1769858302,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20386,
