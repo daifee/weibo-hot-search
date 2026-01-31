@@ -1,0 +1,410 @@
+{
+  "runTime": 1769859869326,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 578456,
+        "num": 1092553,
+        "word": "莱巴金娜夺冠",
+        "onboard_time": 1769857701,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 401337,
+        "num": 780804,
+        "word": "深圳通报杰我睿公司经营异常事件",
+        "onboard_time": 1769853444,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25038,
+        "num": 653801,
+        "word": "京味烟火",
+        "onboard_time": 1769858302,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 434943,
+        "num": 434943,
+        "word": "黄金白银创单日暴跌纪录",
+        "onboard_time": 1769857340,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 295774,
+        "num": 415306,
+        "word": "英国首相一行吃光牛肝菌焖饭",
+        "onboard_time": 1769856801,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 410121,
+        "num": 410121,
+        "word": "发明洗澡吃橙子的人是个天才",
+        "onboard_time": 1769851822,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 274090,
+        "num": 274090,
+        "word": "家委会收每生263元家长报警",
+        "onboard_time": 1769857522,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195871,
+        "num": 195871,
+        "word": "郑钦文退赛",
+        "onboard_time": 1769856262,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190983,
+        "num": 190983,
+        "word": "徐晨皓宣布退出国家队",
+        "onboard_time": 1769857101,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 58376,
+        "num": 190897,
+        "word": "英国首相镜头里的中国军人",
+        "onboard_time": 1769858722,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 847507,
+        "num": 188872,
+        "word": "TF四代赢了TOP",
+        "onboard_time": 1769856200,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 400714,
+        "num": 187947,
+        "word": "男子买彩票中500万后立马离婚",
+        "onboard_time": 1769850382,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 347045,
+        "num": 187014,
+        "word": "王一博 春晚",
+        "onboard_time": 1769848702,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 330472,
+        "num": 185315,
+        "word": "在飞机上删了五个小时的照片",
+        "onboard_time": 1769846722,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 249895,
+        "num": 183683,
+        "word": "春晚彩排",
+        "onboard_time": 1769857461,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235435,
+        "num": 182635,
+        "word": "生命树",
+        "onboard_time": 1769852721,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176517,
+        "num": 181801,
+        "word": "女生造黄谣被爸爸在派出所打了一耳光",
+        "onboard_time": 1769844381,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181146,
+        "num": 181146,
+        "word": "SMTOWN",
+        "onboard_time": 1769854942,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 177231,
+        "num": 177231,
+        "word": "朱志鑫苏新皓毕竟回到澳门了",
+        "onboard_time": 1769853562,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 148947,
+        "num": 174920,
+        "word": "孙子杀两人后爷奶帮毁尸灭迹",
+        "onboard_time": 1769858001,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 556079,
+        "num": 173304,
+        "word": "朴信惠母亲自曝不愿看天国的阶梯",
+        "onboard_time": 1769854581,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 330760,
+        "num": 170024,
+        "word": "王橹杰跪地凝视",
+        "onboard_time": 1769854701,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 289014,
+        "num": 165504,
+        "word": "国内金饰克价一夜跌140元",
+        "onboard_time": 1769843541,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 314159,
+        "num": 163983,
+        "word": "荣耀之战排名",
+        "onboard_time": 1769845881,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 254549,
+        "num": 160796,
+        "word": "张峻豪直播",
+        "onboard_time": 1769858781,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88516,
+        "num": 158917,
+        "word": "大连阿姨来京卖200元入的100克金条",
+        "onboard_time": 1769858541,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111401,
+        "num": 153527,
+        "word": "500元入手黄金卖出净赚20万元",
+        "onboard_time": 1769858541,
+        "rank": 26,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 152860,
+        "num": 152860,
+        "word": "李现章若楠 雾里青",
+        "onboard_time": 1769856622,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151681,
+        "num": 151681,
+        "word": "范志毅锐评赵樱子假摔",
+        "onboard_time": 1769853501,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142425,
+        "num": 142425,
+        "word": "原来金丝楠木不是一种树",
+        "onboard_time": 1769853921,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204232,
+        "num": 141450,
+        "word": "低丸子头是穿羽绒服最好看的发型",
+        "onboard_time": 1769858781,
+        "rank": 30,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 137523,
+        "num": 137523,
+        "word": "于洋这可是央视",
+        "onboard_time": 1769855842,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137120,
+        "num": 137120,
+        "word": "妈妈回应请1米86儿子当模特走红",
+        "onboard_time": 1769858961,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122890,
+        "num": 122890,
+        "word": "荣耀之战",
+        "onboard_time": 1769819900,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 122863,
+        "num": 122863,
+        "word": "应急管理部部长被查",
+        "onboard_time": 1769847081,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 121990,
+        "num": 121990,
+        "word": "名侦探柯南 联动",
+        "onboard_time": 1769859202,
+        "rank": 35,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 121442,
+        "num": 121442,
+        "word": "张新成胡先煦范丞丞春晚后台找沈腾",
+        "onboard_time": 1769859202,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117254,
+        "num": 117254,
+        "word": "萨巴伦卡连续两年澳网亚军",
+        "onboard_time": 1769859621,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101233,
+        "num": 116237,
+        "word": "萨巴伦卡vs莱巴金娜",
+        "onboard_time": 1769852841,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116164,
+        "num": 116164,
+        "word": "难听",
+        "onboard_time": 1769845642,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 112503,
+        "num": 112503,
+        "word": "破音",
+        "onboard_time": 1769844500,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 108654,
+        "num": 108654,
+        "word": "莱巴金娜大满贯第二冠",
+        "onboard_time": 1769859621,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107178,
+        "num": 107178,
+        "word": "徐晨皓回复王楚钦你是球队主心骨",
+        "onboard_time": 1769859562,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104978,
+        "num": 104978,
+        "word": "将门毒后",
+        "onboard_time": 1769833580,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103750,
+        "num": 103750,
+        "word": "生命树收视率第二集就断崖跌",
+        "onboard_time": 1769843241,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46988,
+        "num": 102813,
+        "word": "女儿被撞妈妈看监控后退回500元赔偿",
+        "onboard_time": 1769858302,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102558,
+        "num": 102558,
+        "word": "一栗小莎子回应确诊淋巴瘤",
+        "onboard_time": 1769859742,
+        "rank": 46,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 98630,
+        "num": 98630,
+        "word": "JDG对战AL",
+        "onboard_time": 1769853141,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 97381,
+        "num": 97381,
+        "word": "终于知道什么叫情绪稳定了",
+        "onboard_time": 1769855541,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 94117,
+        "num": 94117,
+        "word": "高度近视手术后50天真实感受",
+        "onboard_time": 1769846722,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同阿尔及利亚总统互致贺电#"
+    }
+  }
+}
