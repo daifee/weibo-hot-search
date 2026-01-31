@@ -1,6 +1,6 @@
 {
   "startTime": 1769272464158,
-  "endTime": 1769871057871,
+  "endTime": 1769873572305,
   "band_list": [
     {
       "raw_hot": 22742360,
@@ -635,6 +635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 934196,
+      "num": 1149471,
+      "word": "太平年停更",
+      "onboard_time": 1769867483,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 929204,
       "num": 201615,
       "word": "小海绵长到我刚认识baby的年纪了",
@@ -844,7 +852,7 @@
     },
     {
       "raw_hot": 783012,
-      "num": 622187,
+      "num": 633598,
       "word": "金价大跌男子斥资20多万买入200克",
       "onboard_time": 1769867602,
       "rank": 32,
@@ -1203,14 +1211,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 635327,
-      "num": 1101652,
-      "word": "太平年停更",
-      "onboard_time": 1769867483,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 634852,
       "num": 180562,
       "word": "黄景瑜未来两年将大幅减少工作",
@@ -1353,6 +1353,14 @@
       "onboard_time": 1769661924,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 595095,
+      "num": 595095,
+      "word": "太平年改档",
+      "onboard_time": 1769870063,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 593656,
@@ -1793,6 +1801,14 @@
       "onboard_time": 1769310860,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 513729,
+      "num": 628438,
+      "word": "金价波动",
+      "onboard_time": 1769316500,
+      "rank": 7,
+      "category": "财经"
     },
     {
       "raw_hot": 512080,
@@ -2843,6 +2859,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 388636,
+      "num": 834884,
+      "word": "员工单日如厕6小时21分钟被解雇",
+      "onboard_time": 1769869223,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 388493,
       "num": 303032,
       "word": "什么工作下班不会再找你",
@@ -2897,14 +2921,6 @@
       "onboard_time": 1769596641,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 382227,
-      "num": 628438,
-      "word": "金价波动",
-      "onboard_time": 1769316500,
-      "rank": 7,
-      "category": "财经"
     },
     {
       "raw_hot": 381874,
@@ -3025,6 +3041,14 @@
       "onboard_time": 1769753541,
       "rank": 6,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 370615,
+      "num": 245357,
+      "word": "翁青雅早期街头丘比特采访",
+      "onboard_time": 1769871742,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 369522,
@@ -3931,6 +3955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 305011,
+      "num": 226273,
+      "word": "刘雨昕陈伟霆双人舞好辣",
+      "onboard_time": 1769869942,
+      "rank": 16,
+      "category": "演出"
+    },
+    {
       "raw_hot": 305001,
       "num": 305001,
       "word": "GuanG发博",
@@ -4025,14 +4057,6 @@
       "onboard_time": 1769531599,
       "rank": 33,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 300732,
-      "num": 300732,
-      "word": "太平年改档",
-      "onboard_time": 1769870063,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 299572,
@@ -4833,6 +4857,14 @@
       "onboard_time": 1769315121,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 260151,
+      "num": 184102,
+      "word": "魏大勋说自己后悔去爬山",
+      "onboard_time": 1769870783,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 259594,
@@ -6275,14 +6307,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 199373,
-      "num": 199373,
-      "word": "刘雨昕陈伟霆双人舞好辣",
-      "onboard_time": 1769869942,
-      "rank": 16,
-      "category": "演出"
-    },
-    {
       "raw_hot": 199106,
       "num": 111557,
       "word": "太平年10.9%",
@@ -6915,6 +6939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 174405,
+      "num": 133728,
+      "word": "这些零食可能是第三代新型毒品",
+      "onboard_time": 1769872042,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 174085,
       "num": 2587644,
       "word": "杨迪徒步捡别人剩下的水喝",
@@ -7299,6 +7331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160843,
+      "num": 126272,
+      "word": "孟子义一道题得罪所有人",
+      "onboard_time": 1769871982,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 160628,
       "num": 633110,
       "word": "仙逆",
@@ -7521,6 +7561,14 @@
       "onboard_time": 1769437822,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 154693,
+      "num": 117741,
+      "word": "生命树收视逆跌",
+      "onboard_time": 1769871861,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 154679,
@@ -8001,14 +8049,6 @@
       "onboard_time": 1769469197,
       "rank": 19,
       "category": "财经"
-    },
-    {
-      "raw_hot": 146958,
-      "num": 146958,
-      "word": "员工单日如厕6小时21分钟被解雇",
-      "onboard_time": 1769869223,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 146851,
@@ -9131,14 +9171,6 @@
       "category": "汽车,体育"
     },
     {
-      "raw_hot": 130382,
-      "num": 130382,
-      "word": "魏大勋说自己后悔去爬山",
-      "onboard_time": 1769870783,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 130380,
       "num": 130380,
       "word": "希区考克第一",
@@ -10025,6 +10057,14 @@
       "onboard_time": 1769672243,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 120767,
+      "num": 108864,
+      "word": "邓超又来考验春晚导播了",
+      "onboard_time": 1769872822,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 120463,
@@ -11003,6 +11043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 111529,
+      "num": 111529,
+      "word": "16岁烤鸡少年爆火一个月后的现状",
+      "onboard_time": 1769872223,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111480,
       "num": 111480,
       "word": "超过25岁就不适合劝分了",
@@ -11200,6 +11248,14 @@
       "word": "南京工业大学一黑天鹅被撞后死亡",
       "onboard_time": 1769263102,
       "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109208,
+      "num": 109208,
+      "word": "男子假冒飞行员与100多名女性暧昧",
+      "onboard_time": 1769871323,
+      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -12803,6 +12859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99285,
+      "num": 97049,
+      "word": "一栗小莎子病理报告",
+      "onboard_time": 1769873301,
+      "rank": 40,
+      "category": "网红"
+    },
+    {
       "raw_hot": 99233,
       "num": 99233,
       "word": "也没人跟我说春联都难成这样了",
@@ -13753,6 +13817,14 @@
       "onboard_time": 1769315779,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 94436,
+      "num": 94436,
+      "word": "4个奇奇怪怪却改善体态的动作",
+      "onboard_time": 1769872521,
+      "rank": 42,
+      "category": "运动健身"
     },
     {
       "raw_hot": 94344,
@@ -15336,6 +15408,14 @@
       "word": "张帅澳网女双第二冠",
       "onboard_time": 1769834061,
       "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 86472,
+      "num": 86472,
+      "word": "张帅父母现场见证女儿夺冠",
+      "onboard_time": 1769872581,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -19963,6 +20043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 45631,
+      "num": 640502,
+      "word": "哈尔滨义乌合肥宜宾分会场亮相",
+      "onboard_time": 1769869402,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 45486,
       "num": 647972,
       "word": "超8000列动车组提供静音车厢服务",
@@ -20233,14 +20321,6 @@
       "onboard_time": 1769327781,
       "rank": 19,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 41197,
-      "num": 632782,
-      "word": "哈尔滨义乌合肥宜宾分会场亮相",
-      "onboard_time": 1769869402,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 41137,
