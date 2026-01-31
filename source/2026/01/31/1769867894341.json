@@ -1,0 +1,410 @@
+{
+  "runTime": 1769867894341,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1333713,
+        "num": 1333713,
+        "word": "内娱唯一说微调结果没人信的人",
+        "onboard_time": 1769864000,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 521914,
+        "num": 898566,
+        "word": "公务员为离职故意旷工触发辞退条款",
+        "onboard_time": 1769861421,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35483,
+        "num": 713459,
+        "word": "2月起一批新规将施行",
+        "onboard_time": 1769850382,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 844556,
+        "num": 656366,
+        "word": "生命树收视率",
+        "onboard_time": 1769862802,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 502426,
+        "num": 502426,
+        "word": "全球抛售美国",
+        "onboard_time": 1769863522,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 533353,
+        "num": 493645,
+        "word": "伊朗",
+        "onboard_time": 1769864781,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 454625,
+        "num": 454625,
+        "word": "已有4000家绝味鸭脖倒下",
+        "onboard_time": 1769863222,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 329658,
+        "num": 329658,
+        "word": "在飞机上删了五个小时的照片",
+        "onboard_time": 1769846722,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 279791,
+        "num": 279791,
+        "word": "TF四代赢了TOP",
+        "onboard_time": 1769856200,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 270328,
+        "num": 270328,
+        "word": "金价波动",
+        "onboard_time": 1769865023,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 341772,
+        "num": 269463,
+        "word": "一栗小莎子回应确诊淋巴瘤",
+        "onboard_time": 1769859742,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 288401,
+        "num": 256770,
+        "word": "发明洗澡吃橙子的人是个天才",
+        "onboard_time": 1769851822,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 278467,
+        "num": 250633,
+        "word": "家委会收每生263元家长报警",
+        "onboard_time": 1769857522,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 240937,
+        "num": 240937,
+        "word": "名侦探柯南 联动",
+        "onboard_time": 1769859202,
+        "rank": 13,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 233206,
+        "num": 233206,
+        "word": "王一博 春晚",
+        "onboard_time": 1769848702,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212189,
+        "num": 212189,
+        "word": "黄金白银创单日暴跌纪录",
+        "onboard_time": 1769857340,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 210498,
+        "num": 210498,
+        "word": "生命树",
+        "onboard_time": 1769852721,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209840,
+        "num": 209840,
+        "word": "宁艺卓合作舞台呢",
+        "onboard_time": 1769862503,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 191259,
+        "num": 191259,
+        "word": "爱泼斯坦",
+        "onboard_time": 1769866882,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 77588,
+        "num": 188940,
+        "word": "三天落马两个正部级",
+        "onboard_time": 1769867002,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 215506,
+        "num": 188893,
+        "word": "低丸子头是穿羽绒服最好看的发型",
+        "onboard_time": 1769858781,
+        "rank": 20,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 188530,
+        "num": 188530,
+        "word": "王橹杰跪地凝视",
+        "onboard_time": 1769854701,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 171924,
+        "num": 171924,
+        "word": "朴信惠母亲自曝不愿看天国的阶梯",
+        "onboard_time": 1769854581,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156338,
+        "num": 156338,
+        "word": "伊朗阿巴斯港一栋居民楼传出爆炸声",
+        "onboard_time": 1769863342,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 168503,
+        "num": 154785,
+        "word": "疑似十日终焉剪辑师泄露剧本",
+        "onboard_time": 1769866701,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 167657,
+        "num": 150595,
+        "word": "张杰真让月亮爬上来了",
+        "onboard_time": 1769866701,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 138938,
+        "num": 138938,
+        "word": "高中生熬夜用小太阳取暖突发脑梗",
+        "onboard_time": 1769864303,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167475,
+        "num": 136145,
+        "word": "原来能让王一博回归内娱的是央妈",
+        "onboard_time": 1769861902,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166390,
+        "num": 132038,
+        "word": "生命树 正午阳光",
+        "onboard_time": 1769863942,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124935,
+        "num": 124935,
+        "word": "GuanG发博",
+        "onboard_time": 1769861121,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 163444,
+        "num": 119394,
+        "word": "我和金瀚何曾有过嫌隙",
+        "onboard_time": 1769865201,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147074,
+        "num": 116586,
+        "word": "董璇晒朵朵出生照",
+        "onboard_time": 1769865083,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110357,
+        "num": 110357,
+        "word": "金价大跌男子斥资20多万买入200克",
+        "onboard_time": 1769867602,
+        "rank": 32,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 145446,
+        "num": 107163,
+        "word": "冯提莫自曝雄性激素过多",
+        "onboard_time": 1769865983,
+        "rank": 33,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 121849,
+        "num": 106679,
+        "word": "微博之夜",
+        "onboard_time": 1769864362,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 102110,
+        "num": 102110,
+        "word": "CBA",
+        "onboard_time": 1769866764,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117405,
+        "num": 101914,
+        "word": "朱志鑫苏新皓毕竟回到澳门了",
+        "onboard_time": 1769853562,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 112949,
+        "num": 101862,
+        "word": "生命树第二集发生了什么",
+        "onboard_time": 1769865983,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100400,
+        "num": 100400,
+        "word": "妈妈回应请1米86儿子当模特走红",
+        "onboard_time": 1769858961,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96861,
+        "num": 96861,
+        "word": "等一小时外卖结果发现自己根本没支付",
+        "onboard_time": 1769863881,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 110032,
+        "num": 95720,
+        "word": "太平年停更",
+        "onboard_time": 1769867483,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108406,
+        "num": 95495,
+        "word": "突然的喜欢大结局",
+        "onboard_time": 1769866162,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94085,
+        "num": 94085,
+        "word": "长期大剂量补充多种营养素有风险",
+        "onboard_time": 1769867723,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 106997,
+        "num": 93763,
+        "word": "ZOO舞台",
+        "onboard_time": 1769861181,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 106061,
+        "num": 93663,
+        "word": "酷云",
+        "onboard_time": 1769864843,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93122,
+        "num": 93122,
+        "word": "BLG对战iG",
+        "onboard_time": 1769865141,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 104526,
+        "num": 92551,
+        "word": "侯明昊直播",
+        "onboard_time": 1769865083,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100207,
+        "num": 91559,
+        "word": "冰湖重生 改档",
+        "onboard_time": 1769867843,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90414,
+        "num": 90414,
+        "word": "黄金创40年来最大单日跌幅",
+        "onboard_time": 1769864060,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 84982,
+        "num": 84982,
+        "word": "伊媒否认革命卫队海军司令遭暗杀传闻",
+        "onboard_time": 1769864362,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同阿尔及利亚总统互致贺电#"
+    }
+  }
+}
