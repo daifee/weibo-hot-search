@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1769899776183,
+  "endTime": 1769902283032,
   "band_list": [
     {
       "raw_hot": 636694,
@@ -131,6 +131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 167941,
+      "num": 167941,
+      "word": "黄金暴跌的原因找到了",
+      "onboard_time": 1769901977,
+      "rank": 4,
+      "category": "财经"
+    },
+    {
       "raw_hot": 157577,
       "num": 157577,
       "word": "已有4000家绝味鸭脖倒下",
@@ -155,12 +163,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 141964,
+      "num": 77283,
+      "word": "微博之夜阵容官宣",
+      "onboard_time": 1769900836,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 135547,
       "num": 116903,
       "word": "这些零食可能是第三代新型毒品",
       "onboard_time": 1769872042,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 134827,
+      "num": 134827,
+      "word": "名侦探柯南",
+      "onboard_time": 1769901016,
+      "rank": 5,
+      "category": "动漫"
     },
     {
       "raw_hot": 132806,
@@ -201,6 +225,14 @@
       "onboard_time": 1769852721,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 100810,
+      "num": 44186,
+      "word": "周扬青 整过容你以为别人看不出来呀",
+      "onboard_time": 1769902097,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 97767,
@@ -251,6 +283,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 75488,
+      "num": 75488,
+      "word": "保罗乔治禁赛25场",
+      "onboard_time": 1769902097,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 74543,
       "num": 74543,
       "word": "生命树收视逆跌",
@@ -299,6 +339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 63386,
+      "num": 63386,
+      "word": "第一眼以为给肖战开美颜了",
+      "onboard_time": 1769901916,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 62086,
       "num": 62086,
       "word": "发明洗澡吃橙子的人是个天才",
@@ -345,6 +393,14 @@
       "onboard_time": 1769871323,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 52312,
+      "num": 52312,
+      "word": "沈腾 不方便的话全让AI说了",
+      "onboard_time": 1769900174,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 52217,
@@ -411,6 +467,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 39471,
+      "num": 39471,
+      "word": "Peanut被封号",
+      "onboard_time": 1769902157,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 37409,
       "num": 40439,
       "word": "李昀锐吃吃吃的一个月",
@@ -443,6 +507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 33479,
+      "num": 33479,
+      "word": "中国不需要其他国家表忠心",
+      "onboard_time": 1769902157,
+      "rank": 36,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 32669,
       "num": 32669,
       "word": "希区考克直拍",
@@ -467,6 +539,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26442,
+      "num": 31608,
+      "word": "王鹤棣一把抢过孟子义的手捧花",
+      "onboard_time": 1769902219,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 24310,
+      "num": 31606,
+      "word": "生命树第二集发生了什么",
+      "onboard_time": 1769865983,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 23531,
       "num": 23531,
       "word": "惊蛰无声",
@@ -483,6 +571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 19179,
+      "num": 453464,
+      "word": "已发售春运火车票超5000万张",
+      "onboard_time": 1769869042,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19163,
       "num": 24673,
       "word": "朱志鑫苏新皓毕竟回到澳门了",
@@ -497,14 +593,6 @@
       "onboard_time": 1769885416,
       "rank": 44,
       "category": "演出"
-    },
-    {
-      "raw_hot": 17450,
-      "num": 308809,
-      "word": "已发售春运火车票超5000万张",
-      "onboard_time": 1769869042,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 14267,
