@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1769880716285,
+  "endTime": 1769881798256,
   "band_list": [
     {
       "raw_hot": 636694,
@@ -441,6 +441,14 @@
       "onboard_time": 1769865382,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 32669,
+      "num": 32669,
+      "word": "希区考克直拍",
+      "onboard_time": 1769880797,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 30675,
