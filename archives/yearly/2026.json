@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769946292417,
+  "endTime": 1769951112932,
   "band_list": [
     {
       "raw_hot": 22742360,
@@ -449,6 +449,14 @@
       "onboard_time": 1768043901,
       "rank": 21,
       "category": "网红"
+    },
+    {
+      "raw_hot": 2197530,
+      "num": 633745,
+      "word": "于文文演唱会晕倒",
+      "onboard_time": 1769948841,
+      "rank": 3,
+      "category": "演出"
     },
     {
       "raw_hot": 2190334,
@@ -1931,6 +1939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1050077,
+      "num": 1168012,
+      "word": "央视迎00后新主播",
+      "onboard_time": 1769945661,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1049300,
       "num": 1774910,
       "word": "当年的老己在QQ给老自留了笔巨款",
@@ -2385,22 +2401,6 @@
       "onboard_time": 1768470501,
       "rank": 35,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 947476,
-      "num": 629516,
-      "word": "官方通报新生儿被剪断手指",
-      "onboard_time": 1767619642,
-      "rank": 6,
-      "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 947140,
-      "num": 286346,
-      "word": "范丞丞爸爸75岁状态",
-      "onboard_time": 1768010838,
-      "rank": 10,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
