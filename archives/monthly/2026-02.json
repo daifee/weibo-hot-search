@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1769972475160,
+  "endTime": 1769974334328,
   "band_list": [
     {
       "raw_hot": 2197530,
@@ -3099,7 +3099,7 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 35012,
+      "raw_hot": 35507,
       "num": 74066,
       "word": "檀健次卢昱晓侧颜同框路透",
       "onboard_time": 1769968816,
@@ -3347,6 +3347,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 17761,
+      "num": 19390,
+      "word": "姜太显唱中文歌泪桥",
+      "onboard_time": 1769973134,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 17170,
       "num": 122683,
       "word": "宜家母公司营收连续两年下滑",
@@ -3369,6 +3377,14 @@
       "onboard_time": 1769972236,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 16512,
+      "num": 19375,
+      "word": "苏新皓下次是什么时候见呢",
+      "onboard_time": 1769973974,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 16349,
