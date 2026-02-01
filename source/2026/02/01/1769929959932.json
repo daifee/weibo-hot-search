@@ -1,0 +1,410 @@
+{
+  "runTime": 1769929959932,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 467702,
+        "num": 1074832,
+        "word": "名侦探柯南声明",
+        "onboard_time": 1769909240,
+        "rank": 0,
+        "category": "民生新闻,动漫"
+      },
+      {
+        "raw_hot": 355341,
+        "num": 776275,
+        "word": "微博之夜",
+        "onboard_time": 1769928980,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 54133,
+        "num": 625121,
+        "word": "国产电力心脏全球爆单",
+        "onboard_time": 1769920700,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 249288,
+        "num": 249288,
+        "word": "歌手2026要来新人了",
+        "onboard_time": 1769926881,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217958,
+        "num": 217958,
+        "word": "花楼 小白熊",
+        "onboard_time": 1769926760,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1107882,
+        "num": 217934,
+        "word": "苏新皓哭了",
+        "onboard_time": 1769927840,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 309743,
+        "num": 216784,
+        "word": "相亲点餐8千男子有逃避支付故意",
+        "onboard_time": 1769925381,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 284837,
+        "num": 216249,
+        "word": "订房订到狗窝了",
+        "onboard_time": 1769923100,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 195696,
+        "num": 215545,
+        "word": "中国最新富豪榜出炉",
+        "onboard_time": 1769928799,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185292,
+        "num": 214801,
+        "word": "30年前黄金80一克女子囤了几公斤",
+        "onboard_time": 1769928080,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 931063,
+        "num": 214006,
+        "word": "曝金宣虎逃税",
+        "onboard_time": 1769925740,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 491907,
+        "num": 213704,
+        "word": "李心艾老公宣布退圈",
+        "onboard_time": 1769922679,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 411612,
+        "num": 212882,
+        "word": "安德鲁在女性身上跪爬被拍",
+        "onboard_time": 1769922740,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 221504,
+        "num": 212025,
+        "word": "花儿与少年8",
+        "onboard_time": 1769919740,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 288218,
+        "num": 211831,
+        "word": "摄影界让张凌赫闯进去了",
+        "onboard_time": 1769921300,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211296,
+        "num": 211296,
+        "word": "爱泼斯坦在厨房追逐女孩",
+        "onboard_time": 1769911460,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 239002,
+        "num": 210419,
+        "word": "女星放弃抢救老公遭儿子责怪",
+        "onboard_time": 1769919140,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209373,
+        "num": 209373,
+        "word": "爱泼斯坦文件爆比尔盖茨曾患性病",
+        "onboard_time": 1769925260,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 193155,
+        "num": 193155,
+        "word": "爱泼斯坦",
+        "onboard_time": 1769866882,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 100406,
+        "num": 191142,
+        "word": "为什么普通人现在不愿意贷款买房了",
+        "onboard_time": 1769922799,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 398301,
+        "num": 182946,
+        "word": "多只黄金个股涨停",
+        "onboard_time": 1769926221,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 234662,
+        "num": 182089,
+        "word": "胡歌回复刘诗诗",
+        "onboard_time": 1769922861,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 254169,
+        "num": 175792,
+        "word": "金价遭遇过山车",
+        "onboard_time": 1769921778,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 228329,
+        "num": 168263,
+        "word": "于正发的杨采钰",
+        "onboard_time": 1769924959,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 227437,
+        "num": 165542,
+        "word": "荣耀之战",
+        "onboard_time": 1769929820,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 162190,
+        "num": 162190,
+        "word": "狗 有本事你今天洗死我",
+        "onboard_time": 1769924420,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 177087,
+        "num": 154833,
+        "word": "荣耀之战day2节目单",
+        "onboard_time": 1769926400,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 141436,
+        "num": 141436,
+        "word": "原来时代峰峻里面苦的只有TFBOYS",
+        "onboard_time": 1769928920,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91445,
+        "num": 140346,
+        "word": "日本滑雪场再出严重致死事故",
+        "onboard_time": 1769922979,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 58730,
+        "num": 140186,
+        "word": "蓝莓记得别买太大的",
+        "onboard_time": 1769908819,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 140069,
+        "num": 140069,
+        "word": "王一博春晚彩排要清场的原因",
+        "onboard_time": 1769914459,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165760,
+        "num": 135071,
+        "word": "爱泼斯坦与女孩在房间里跳舞",
+        "onboard_time": 1769928861,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 126474,
+        "num": 126474,
+        "word": "张桂源王橹杰陈浚铭还要长多高",
+        "onboard_time": 1769928020,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111985,
+        "num": 111985,
+        "word": "TOP想赢",
+        "onboard_time": 1769929762,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 88809,
+        "num": 88809,
+        "word": "瘦的人可以和食物和平共处",
+        "onboard_time": 1769924240,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 110950,
+        "num": 87416,
+        "word": "热巴二月行程",
+        "onboard_time": 1769922799,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101477,
+        "num": 85979,
+        "word": "什么春晚请了短剧两大男顶流",
+        "onboard_time": 1769929640,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84048,
+        "num": 84048,
+        "word": "白象客服回应共投放2026份1克金条",
+        "onboard_time": 1769924959,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99318,
+        "num": 84006,
+        "word": "赖冠霖WANNAONE手写信",
+        "onboard_time": 1769919980,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64739,
+        "num": 83959,
+        "word": "何炅仰头看王鹤棣这一下",
+        "onboard_time": 1769929220,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83944,
+        "num": 83944,
+        "word": "原来静音车厢是纯人工静音",
+        "onboard_time": 1769927660,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 93788,
+        "num": 83646,
+        "word": "胡歌角色查重率为0",
+        "onboard_time": 1769927720,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93297,
+        "num": 83071,
+        "word": "1集离谱2集爆笑3集笑炸了",
+        "onboard_time": 1769918300,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 81818,
+        "num": 81818,
+        "word": "老师回应晚自习带全班涮火锅质疑",
+        "onboard_time": 1769929220,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84654,
+        "num": 81807,
+        "word": "狂依存",
+        "onboard_time": 1769926941,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 84378,
+        "num": 81643,
+        "word": "潘宏训狗 徐艺洋训黄子韬",
+        "onboard_time": 1769926280,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81415,
+        "num": 81415,
+        "word": "咪的jio怎么可以顶这么多东西",
+        "onboard_time": 1769929820,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 81252,
+        "num": 81252,
+        "word": "爱泼斯坦曾邀请马斯克上岛",
+        "onboard_time": 1769929160,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 63290,
+        "num": 80069,
+        "word": "詹姆斯说不可能参加扣篮大赛",
+        "onboard_time": 1769929701,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 60931,
+        "num": 79926,
+        "word": "春节美甲什么时候做",
+        "onboard_time": 1769926040,
+        "rank": 49,
+        "category": "美妆"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动我国未来产业发展不断取得新突破#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1769929215452,
+  "endTime": 1769929959932,
   "band_list": [
     {
       "raw_hot": 1809688,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1132148,
-      "num": 204433,
+      "num": 214006,
       "word": "曝金宣虎逃税",
       "onboard_time": 1769925740,
       "rank": 10,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 715551,
-      "num": 203733,
+      "num": 213704,
       "word": "李心艾老公宣布退圈",
       "onboard_time": 1769922679,
       "rank": 10,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 624421,
-      "num": 202815,
+      "num": 212882,
       "word": "安德鲁在女性身上跪爬被拍",
       "onboard_time": 1769922740,
       "rank": 11,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 587503,
-      "num": 1071341,
+      "num": 1074832,
       "word": "名侦探柯南声明",
       "onboard_time": 1769909240,
       "rank": 3,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 553155,
-      "num": 197085,
+      "num": 210419,
       "word": "女星放弃抢救老公遭儿子责怪",
       "onboard_time": 1769919140,
       "rank": 10,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 455551,
-      "num": 201754,
+      "num": 211831,
       "word": "摄影界让张凌赫闯进去了",
       "onboard_time": 1769921300,
       "rank": 17,
@@ -155,6 +155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 398301,
+      "num": 380980,
+      "word": "多只黄金个股涨停",
+      "onboard_time": 1769926221,
+      "rank": 4,
+      "category": "财经"
+    },
+    {
       "raw_hot": 389989,
       "num": 389989,
       "word": "金价大跌男子斥资20多万买入200克",
@@ -187,20 +195,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 355341,
+      "num": 802919,
+      "word": "微博之夜",
+      "onboard_time": 1769864362,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 349658,
       "num": 414937,
       "word": "花儿与少年8",
       "onboard_time": 1769919740,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 335497,
-      "num": 380980,
-      "word": "多只黄金个股涨停",
-      "onboard_time": 1769926221,
-      "rank": 4,
-      "category": "财经"
     },
     {
       "raw_hot": 311542,
@@ -219,12 +227,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 306238,
-      "num": 802919,
-      "word": "微博之夜",
-      "onboard_time": 1769864362,
-      "rank": 40,
-      "category": "作品衍生"
+      "raw_hot": 309743,
+      "num": 261845,
+      "word": "相亲点餐8千男子有逃避支付故意",
+      "onboard_time": 1769925381,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 302332,
@@ -275,14 +283,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 261845,
-      "num": 261845,
-      "word": "相亲点餐8千男子有逃避支付故意",
-      "onboard_time": 1769925381,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 258639,
       "num": 258639,
       "word": "名侦探柯南 联动",
@@ -316,7 +316,7 @@
     },
     {
       "raw_hot": 253012,
-      "num": 199589,
+      "num": 209373,
       "word": "爱泼斯坦文件爆比尔盖茨曾患性病",
       "onboard_time": 1769925260,
       "rank": 16,
@@ -337,6 +337,14 @@
       "onboard_time": 1769914399,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 249288,
+      "num": 249288,
+      "word": "歌手2026要来新人了",
+      "onboard_time": 1769926881,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 246665,
@@ -387,6 +395,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 228329,
+      "num": 195916,
+      "word": "于正发的杨采钰",
+      "onboard_time": 1769924959,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 227437,
+      "num": 165542,
+      "word": "荣耀之战",
+      "onboard_time": 1769929820,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 224453,
       "num": 205635,
       "word": "汪东城也嗑王玉雯陈星旭",
@@ -411,12 +435,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 216820,
-      "num": 195916,
-      "word": "于正发的杨采钰",
-      "onboard_time": 1769924959,
-      "rank": 20,
-      "category": "剧集"
+      "raw_hot": 217958,
+      "num": 217958,
+      "word": "花楼 小白熊",
+      "onboard_time": 1769926760,
+      "rank": 8,
+      "category": "电竞"
     },
     {
       "raw_hot": 214676,
@@ -443,22 +467,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 205929,
-      "num": 205929,
-      "word": "花楼 小白熊",
-      "onboard_time": 1769926760,
-      "rank": 8,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 204741,
-      "num": 194995,
-      "word": "歌手2026要来新人了",
-      "onboard_time": 1769926881,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 204200,
       "num": 204200,
       "word": "杨紫素颜拒用替身",
@@ -481,6 +489,14 @@
       "onboard_time": 1769878098,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 195696,
+      "num": 215545,
+      "word": "中国最新富豪榜出炉",
+      "onboard_time": 1769928799,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 195337,
@@ -523,6 +539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185292,
+      "num": 214801,
+      "word": "30年前黄金80一克女子囤了几公斤",
+      "onboard_time": 1769928080,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 175204,
       "num": 165256,
       "word": "银川发生持刀伤人案件致1死",
@@ -547,8 +571,16 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 159845,
-      "num": 159845,
+      "raw_hot": 165760,
+      "num": 135071,
+      "word": "爱泼斯坦与女孩在房间里跳舞",
+      "onboard_time": 1769928861,
+      "rank": 35,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 162190,
+      "num": 162190,
       "word": "狗 有本事你今天洗死我",
       "onboard_time": 1769924420,
       "rank": 33,
@@ -611,12 +643,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 141819,
-      "num": 205147,
-      "word": "30年前黄金80一克女子囤了几公斤",
-      "onboard_time": 1769928080,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 141436,
+      "num": 141436,
+      "word": "原来时代峰峻里面苦的只有TFBOYS",
+      "onboard_time": 1769928920,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 140214,
@@ -755,6 +787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 111985,
+      "num": 111985,
+      "word": "TOP想赢",
+      "onboard_time": 1769929762,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 111380,
       "num": 111380,
       "word": "腾讯视频2月大剧片单",
@@ -819,12 +859,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 101477,
+      "num": 85979,
+      "word": "什么春晚请了短剧两大男顶流",
+      "onboard_time": 1769929640,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 100900,
       "num": 152315,
       "word": "微博之夜阵容汇总",
       "onboard_time": 1769920220,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 100406,
+      "num": 191142,
+      "word": "为什么普通人现在不愿意贷款买房了",
+      "onboard_time": 1769922799,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 97767,
@@ -851,14 +907,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 96075,
-      "num": 133894,
-      "word": "为什么普通人现在不愿意贷款买房了",
-      "onboard_time": 1769922799,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 95402,
       "num": 89405,
       "word": "3个月没工资还干得起劲",
@@ -881,6 +929,14 @@
       "onboard_time": 1769915359,
       "rank": 32,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 93788,
+      "num": 83646,
+      "word": "胡歌角色查重率为0",
+      "onboard_time": 1769927720,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 93055,
@@ -923,14 +979,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 89744,
-      "num": 89744,
-      "word": "爱泼斯坦与女孩在房间里跳舞",
-      "onboard_time": 1769928861,
-      "rank": 35,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 89502,
       "num": 89502,
       "word": "原来静音车厢是纯人工静音",
@@ -945,6 +993,14 @@
       "onboard_time": 1769922921,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 88809,
+      "num": 88809,
+      "word": "瘦的人可以和食物和平共处",
+      "onboard_time": 1769924240,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 88765,
@@ -995,23 +1051,7 @@
       "category": "数码"
     },
     {
-      "raw_hot": 85275,
-      "num": 85275,
-      "word": "瘦的人可以和食物和平共处",
-      "onboard_time": 1769924240,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 84860,
-      "num": 84860,
-      "word": "原来时代峰峻里面苦的只有TFBOYS",
-      "onboard_time": 1769928920,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 82828,
+      "raw_hot": 84378,
       "num": 82828,
       "word": "潘宏训狗 徐艺洋训黄子韬",
       "onboard_time": 1769926280,
@@ -1019,12 +1059,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 81969,
-      "num": 83305,
-      "word": "中国最新富豪榜出炉",
-      "onboard_time": 1769928799,
-      "rank": 39,
+      "raw_hot": 81818,
+      "num": 81818,
+      "word": "老师回应晚自习带全班涮火锅质疑",
+      "onboard_time": 1769929220,
+      "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 81415,
+      "num": 81415,
+      "word": "咪的jio怎么可以顶这么多东西",
+      "onboard_time": 1769929820,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 81252,
+      "num": 81252,
+      "word": "爱泼斯坦曾邀请马斯克上岛",
+      "onboard_time": 1769929160,
+      "rank": 48,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 81133,
@@ -1076,7 +1132,7 @@
     },
     {
       "raw_hot": 77011,
-      "num": 78824,
+      "num": 79926,
       "word": "春节美甲什么时候做",
       "onboard_time": 1769926040,
       "rank": 47,
@@ -1115,14 +1171,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 75284,
-      "num": 79334,
-      "word": "胡歌角色查重率为0",
-      "onboard_time": 1769927720,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 75170,
       "num": 75170,
       "word": "金银价暴跌有珠宝城成交一夜归零",
@@ -1145,14 +1193,6 @@
       "onboard_time": 1769871861,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 74348,
-      "num": 78269,
-      "word": "爱泼斯坦曾邀请马斯克上岛",
-      "onboard_time": 1769929160,
-      "rank": 48,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 73632,
@@ -1275,12 +1315,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 64739,
+      "num": 83959,
+      "word": "何炅仰头看王鹤棣这一下",
+      "onboard_time": 1769929220,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 63639,
       "num": 63639,
       "word": "高中生熬夜用小太阳取暖突发脑梗",
       "onboard_time": 1769864303,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 63290,
+      "num": 80069,
+      "word": "詹姆斯说不可能参加扣篮大赛",
+      "onboard_time": 1769929701,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 62086,
