@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1769932557251,
+  "endTime": 1769935331505,
   "band_list": [
     {
       "raw_hot": 1809688,
@@ -9,6 +9,14 @@
       "onboard_time": 1769927840,
       "rank": 5,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1165289,
+      "num": 224744,
+      "word": "爱泼斯坦案诡异照片曝光",
+      "onboard_time": 1769931861,
+      "rank": 13,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1144759,
@@ -20,7 +28,7 @@
     },
     {
       "raw_hot": 1132148,
-      "num": 214006,
+      "num": 222477,
       "word": "曝金宣虎逃税",
       "onboard_time": 1769925740,
       "rank": 10,
@@ -36,7 +44,7 @@
     },
     {
       "raw_hot": 811116,
-      "num": 306087,
+      "num": 445061,
       "word": "小户型去客厅化",
       "onboard_time": 1769929942,
       "rank": 5,
@@ -67,6 +75,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 646905,
+      "num": 646905,
+      "word": "刘晓庆回应周扬青",
+      "onboard_time": 1769931440,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 636694,
       "num": 810273,
       "word": "太平年停更",
@@ -76,10 +92,18 @@
     },
     {
       "raw_hot": 624421,
-      "num": 212882,
+      "num": 215702,
       "word": "安德鲁在女性身上跪爬被拍",
       "onboard_time": 1769922740,
       "rank": 11,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 603073,
+      "num": 1096491,
+      "word": "爱泼斯坦遗嘱把萝莉岛留给女友",
+      "onboard_time": 1769930779,
+      "rank": 39,
       "category": "海外新闻"
     },
     {
@@ -115,6 +139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 517751,
+      "num": 222980,
+      "word": "张桂源哭了",
+      "onboard_time": 1769934382,
+      "rank": 11,
+      "category": "演出"
+    },
+    {
       "raw_hot": 504193,
       "num": 177576,
       "word": "金价波动",
@@ -140,7 +172,7 @@
     },
     {
       "raw_hot": 452932,
-      "num": 181306,
+      "num": 220525,
       "word": "爱泼斯坦与女孩在房间里跳舞",
       "onboard_time": 1769928861,
       "rank": 35,
@@ -153,6 +185,14 @@
       "onboard_time": 1769911580,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 430232,
+      "num": 131546,
+      "word": "荣耀之战排名",
+      "onboard_time": 1769933899,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 425218,
@@ -219,28 +259,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 361229,
-      "num": 159671,
-      "word": "爱泼斯坦案诡异照片曝光",
-      "onboard_time": 1769931861,
-      "rank": 13,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 358296,
       "num": 864989,
       "word": "女子离世前留3000万给未成年女儿",
       "onboard_time": 1769902336,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 357960,
-      "num": 159591,
-      "word": "刘晓庆回应周扬青",
-      "onboard_time": 1769931440,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 355341,
@@ -260,7 +284,7 @@
     },
     {
       "raw_hot": 345930,
-      "num": 345930,
+      "num": 542350,
       "word": "中国最新富豪榜出炉",
       "onboard_time": 1769928799,
       "rank": 39,
@@ -337,6 +361,14 @@
       "onboard_time": 1769916560,
       "rank": 20,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 263790,
+      "num": 217951,
+      "word": "井胧自曝录创造营感觉太差了",
+      "onboard_time": 1769933001,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 258639,
@@ -539,6 +571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 206476,
+      "num": 229622,
+      "word": "在意失联博士床上四件套用了7年",
+      "onboard_time": 1769934020,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 204200,
       "num": 204200,
       "word": "杨紫素颜拒用替身",
@@ -561,6 +601,14 @@
       "onboard_time": 1769878098,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 195663,
+      "num": 133096,
+      "word": "生命树 杨紫演技",
+      "onboard_time": 1769933781,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 195337,
@@ -635,20 +683,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 158286,
-      "num": 158286,
-      "word": "爱泼斯坦遗嘱把萝莉岛留给女友",
-      "onboard_time": 1769930779,
-      "rank": 39,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 157577,
       "num": 157577,
       "word": "已有4000家绝味鸭脖倒下",
       "onboard_time": 1769863222,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 153559,
+      "num": 228046,
+      "word": "一诺客串了电视剧年少有为",
+      "onboard_time": 1769929762,
+      "rank": 35,
+      "category": "电竞,剧集"
     },
     {
       "raw_hot": 153551,
@@ -747,14 +795,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 138973,
-      "num": 138973,
-      "word": "一诺客串了电视剧年少有为",
-      "onboard_time": 1769929762,
-      "rank": 35,
-      "category": "电竞,剧集"
-    },
-    {
       "raw_hot": 136877,
       "num": 136877,
       "word": "张桂源王橹杰陈浚铭还要长多高",
@@ -785,6 +825,14 @@
       "onboard_time": 1769910980,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 131431,
+      "num": 131431,
+      "word": "TOP重回第一",
+      "onboard_time": 1769934624,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 130626,
@@ -851,6 +899,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 120929,
+      "num": 120929,
+      "word": "小猫喝玉米水",
+      "onboard_time": 1769931741,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 120215,
+      "num": 120215,
+      "word": "刘子瑞宣布退圈",
+      "onboard_time": 1769932640,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 114503,
       "num": 110360,
       "word": "邓佳鑫穆祉丞 超级偶像",
@@ -865,6 +929,14 @@
       "onboard_time": 1769930960,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 112828,
+      "num": 112828,
+      "word": "ally用韩语和韩国男演员秀恩爱",
+      "onboard_time": 1769933061,
+      "rank": 34,
+      "category": "网红"
     },
     {
       "raw_hot": 112774,
@@ -913,6 +985,14 @@
       "onboard_time": 1769861902,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 109046,
+      "num": 120601,
+      "word": "李在明怒斥侮辱慰安妇团体人面兽心",
+      "onboard_time": 1769933721,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 107238,
@@ -1043,6 +1123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 93669,
+      "num": 93669,
+      "word": "3种健康好喝不易胖的奶茶",
+      "onboard_time": 1769934142,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
       "raw_hot": 93055,
       "num": 93055,
       "word": "炽热吸引",
@@ -1147,6 +1235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 87507,
+      "num": 87507,
+      "word": "第二类我舞台",
+      "onboard_time": 1769935042,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 86493,
       "num": 86493,
       "word": "保罗乔治禁赛25场",
@@ -1163,12 +1259,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 85743,
-      "num": 93001,
-      "word": "小猫喝玉米水",
-      "onboard_time": 1769931741,
-      "rank": 42,
-      "category": "幽默"
+      "raw_hot": 85199,
+      "num": 85199,
+      "word": "王楚钦抵达海南",
+      "onboard_time": 1769935220,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 84378,
@@ -1177,6 +1273,14 @@
       "onboard_time": 1769926280,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 83552,
+      "num": 83552,
+      "word": "KPL",
+      "onboard_time": 1769933841,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 81415,
@@ -1195,6 +1299,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 80938,
+      "num": 80938,
+      "word": "孙颖莎与队友开心聊天",
+      "onboard_time": 1769933899,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 80573,
       "num": 80573,
       "word": "低丸子头是穿羽绒服最好看的发型",
@@ -1209,6 +1321,22 @@
       "onboard_time": 1769923701,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 80263,
+      "num": 80263,
+      "word": "最喜欢这种无聊的人了",
+      "onboard_time": 1769934740,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 80174,
+      "num": 80174,
+      "word": "原来大学生只比小学生大6岁",
+      "onboard_time": 1769933721,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 79375,
@@ -1297,6 +1425,14 @@
       "onboard_time": 1769871861,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 74505,
+      "num": 74505,
+      "word": "清代老宅修复",
+      "onboard_time": 1769935042,
+      "rank": 48,
+      "category": "休闲"
     },
     {
       "raw_hot": 73632,
@@ -1611,6 +1747,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 43570,
+      "num": 87526,
+      "word": "男子连中10万元和特等奖却异常冷静",
+      "onboard_time": 1769935220,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41089,
       "num": 51401,
       "word": "4个奇奇怪怪却改善体态的动作",
@@ -1705,6 +1849,14 @@
       "onboard_time": 1769865382,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 33272,
+      "num": 655981,
+      "word": "今年2月中旬的春节还冷吗",
+      "onboard_time": 1769910739,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32927,

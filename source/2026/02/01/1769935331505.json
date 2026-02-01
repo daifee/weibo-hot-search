@@ -1,0 +1,410 @@
+{
+  "runTime": 1769935331505,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 603073,
+        "num": 1096491,
+        "word": "爱泼斯坦遗嘱把萝莉岛留给女友",
+        "onboard_time": 1769930779,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 354234,
+        "num": 806333,
+        "word": "名侦探柯南声明",
+        "onboard_time": 1769909240,
+        "rank": 1,
+        "category": "民生新闻,动漫"
+      },
+      {
+        "raw_hot": 33272,
+        "num": 655981,
+        "word": "今年2月中旬的春节还冷吗",
+        "onboard_time": 1769910739,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 646905,
+        "num": 646905,
+        "word": "刘晓庆回应周扬青",
+        "onboard_time": 1769931440,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242775,
+        "num": 542350,
+        "word": "中国最新富豪榜出炉",
+        "onboard_time": 1769928799,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 445061,
+        "num": 445061,
+        "word": "小户型去客厅化",
+        "onboard_time": 1769929942,
+        "rank": 5,
+        "category": "休闲,情感"
+      },
+      {
+        "raw_hot": 331145,
+        "num": 331145,
+        "word": "苏新皓哭了",
+        "onboard_time": 1769927840,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 230144,
+        "num": 230144,
+        "word": "微博之夜",
+        "onboard_time": 1769928980,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 206476,
+        "num": 229622,
+        "word": "在意失联博士床上四件套用了7年",
+        "onboard_time": 1769934020,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153559,
+        "num": 228046,
+        "word": "一诺客串了电视剧年少有为",
+        "onboard_time": 1769929762,
+        "rank": 9,
+        "category": "电竞,剧集"
+      },
+      {
+        "raw_hot": 1165289,
+        "num": 224744,
+        "word": "爱泼斯坦案诡异照片曝光",
+        "onboard_time": 1769931861,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 517751,
+        "num": 222980,
+        "word": "张桂源哭了",
+        "onboard_time": 1769934382,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 333895,
+        "num": 222477,
+        "word": "曝金宣虎逃税",
+        "onboard_time": 1769925740,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294720,
+        "num": 220525,
+        "word": "爱泼斯坦与女孩在房间里跳舞",
+        "onboard_time": 1769928861,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 263790,
+        "num": 217951,
+        "word": "井胧自曝录创造营感觉太差了",
+        "onboard_time": 1769933001,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246958,
+        "num": 215702,
+        "word": "安德鲁在女性身上跪爬被拍",
+        "onboard_time": 1769922740,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 215391,
+        "num": 215391,
+        "word": "TOP想赢",
+        "onboard_time": 1769929762,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 209710,
+        "num": 209710,
+        "word": "李心艾老公宣布退圈",
+        "onboard_time": 1769922679,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194735,
+        "num": 194735,
+        "word": "爱泼斯坦",
+        "onboard_time": 1769866882,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 133673,
+        "num": 133673,
+        "word": "订房订到狗窝了",
+        "onboard_time": 1769923100,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 468452,
+        "num": 133227,
+        "word": "穆祉丞 但求一刻你能倾听我",
+        "onboard_time": 1769930479,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 195663,
+        "num": 133096,
+        "word": "生命树 杨紫演技",
+        "onboard_time": 1769933781,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135591,
+        "num": 132407,
+        "word": "30年前黄金80一克女子囤了几公斤",
+        "onboard_time": 1769928080,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 430232,
+        "num": 131546,
+        "word": "荣耀之战排名",
+        "onboard_time": 1769933899,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 131431,
+        "num": 131431,
+        "word": "TOP重回第一",
+        "onboard_time": 1769934624,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 120929,
+        "num": 120929,
+        "word": "小猫喝玉米水",
+        "onboard_time": 1769931741,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 155120,
+        "num": 120820,
+        "word": "荣耀之战",
+        "onboard_time": 1769929820,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 115572,
+        "num": 120738,
+        "word": "相亲点餐8千男子有逃避支付故意",
+        "onboard_time": 1769925381,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109046,
+        "num": 120601,
+        "word": "李在明怒斥侮辱慰安妇团体人面兽心",
+        "onboard_time": 1769933721,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 85924,
+        "num": 120492,
+        "word": "爱泼斯坦曾邀请马斯克上岛",
+        "onboard_time": 1769929160,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 120350,
+        "num": 120350,
+        "word": "荣耀之战day2节目单",
+        "onboard_time": 1769926400,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 120215,
+        "num": 120215,
+        "word": "刘子瑞宣布退圈",
+        "onboard_time": 1769932640,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107733,
+        "num": 117746,
+        "word": "爱泼斯坦文件爆比尔盖茨曾患性病",
+        "onboard_time": 1769925260,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 117095,
+        "num": 117095,
+        "word": "花儿与少年8",
+        "onboard_time": 1769919740,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112828,
+        "num": 112828,
+        "word": "ally用韩语和韩国男演员秀恩爱",
+        "onboard_time": 1769933061,
+        "rank": 34,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 106370,
+        "num": 106370,
+        "word": "金价遭遇过山车",
+        "onboard_time": 1769921778,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 93669,
+        "num": 93669,
+        "word": "3种健康好喝不易胖的奶茶",
+        "onboard_time": 1769934142,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 87573,
+        "num": 87573,
+        "word": "花楼 小白熊",
+        "onboard_time": 1769926760,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 43570,
+        "num": 87526,
+        "word": "男子连中10万元和特等奖却异常冷静",
+        "onboard_time": 1769935220,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87507,
+        "num": 87507,
+        "word": "第二类我舞台",
+        "onboard_time": 1769935042,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 85199,
+        "num": 85199,
+        "word": "王楚钦抵达海南",
+        "onboard_time": 1769935220,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85034,
+        "num": 85034,
+        "word": "女星放弃抢救老公遭儿子责怪",
+        "onboard_time": 1769919140,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83552,
+        "num": 83552,
+        "word": "KPL",
+        "onboard_time": 1769933841,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 80938,
+        "num": 80938,
+        "word": "孙颖莎与队友开心聊天",
+        "onboard_time": 1769933899,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 80263,
+        "num": 80263,
+        "word": "最喜欢这种无聊的人了",
+        "onboard_time": 1769934740,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 80174,
+        "num": 80174,
+        "word": "原来大学生只比小学生大6岁",
+        "onboard_time": 1769933721,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 76786,
+        "num": 76786,
+        "word": "原来时代峰峻里面苦的只有TFBOYS",
+        "onboard_time": 1769928920,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76135,
+        "num": 76135,
+        "word": "张桂源张函瑞双人舞台",
+        "onboard_time": 1769931800,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 74505,
+        "num": 74505,
+        "word": "清代老宅修复",
+        "onboard_time": 1769935042,
+        "rank": 48,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 74617,
+        "num": 74496,
+        "word": "邓佳鑫穆祉丞 超级偶像",
+        "onboard_time": 1769931141,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动我国未来产业发展不断取得新突破#"
+    }
+  }
+}
