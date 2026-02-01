@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1769942118150,
+  "endTime": 1769943254556,
   "band_list": [
     {
       "raw_hot": 1809688,
@@ -51,20 +51,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 849521,
+      "num": 807568,
+      "word": "六小时了 它还在我胃里游",
+      "onboard_time": 1769940081,
+      "rank": 5,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 819851,
+      "num": 596728,
+      "word": "TOP不解散不单飞",
+      "onboard_time": 1769942121,
+      "rank": 3,
+      "category": "演出"
+    },
+    {
       "raw_hot": 811116,
       "num": 445061,
       "word": "小户型去客厅化",
       "onboard_time": 1769929942,
       "rank": 5,
       "category": "休闲,情感"
-    },
-    {
-      "raw_hot": 807568,
-      "num": 807568,
-      "word": "六小时了 它还在我胃里游",
-      "onboard_time": 1769940081,
-      "rank": 5,
-      "category": "幽默"
     },
     {
       "raw_hot": 733893,
@@ -100,7 +108,7 @@
     },
     {
       "raw_hot": 686621,
-      "num": 240946,
+      "num": 285276,
       "word": "张桂源哭了",
       "onboard_time": 1769934382,
       "rank": 11,
@@ -161,6 +169,14 @@
       "onboard_time": 1769909240,
       "rank": 3,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 553863,
+      "num": 290310,
+      "word": "为什么有女性不做美甲",
+      "onboard_time": 1769941461,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 553155,
@@ -227,8 +243,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 454618,
+      "num": 808427,
+      "word": "爱泼斯坦案最后一批文件曝光",
+      "onboard_time": 1769937620,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 452932,
-      "num": 239716,
+      "num": 287674,
       "word": "爱泼斯坦与女孩在房间里跳舞",
       "onboard_time": 1769928861,
       "rank": 35,
@@ -265,6 +289,14 @@
       "onboard_time": 1769934624,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 408736,
+      "num": 408736,
+      "word": "中国工商银行风险提示",
+      "onboard_time": 1769940081,
+      "rank": 7,
+      "category": "财经"
     },
     {
       "raw_hot": 406062,
@@ -307,12 +339,12 @@
       "category": "民生新闻,财经"
     },
     {
-      "raw_hot": 376027,
-      "num": 376027,
-      "word": "中国工商银行风险提示",
-      "onboard_time": 1769940081,
-      "rank": 7,
-      "category": "财经"
+      "raw_hot": 381072,
+      "num": 381072,
+      "word": "GEN对战HLE",
+      "onboard_time": 1769936542,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 372064,
@@ -329,14 +361,6 @@
       "onboard_time": 1769912182,
       "rank": 9,
       "category": "财经"
-    },
-    {
-      "raw_hot": 362128,
-      "num": 808427,
-      "word": "爱泼斯坦案最后一批文件曝光",
-      "onboard_time": 1769937620,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 358296,
@@ -369,6 +393,14 @@
       "onboard_time": 1769928799,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 335869,
+      "num": 135550,
+      "word": "柯南",
+      "onboard_time": 1769941942,
+      "rank": 38,
+      "category": "动漫"
     },
     {
       "raw_hot": 314129,
@@ -419,6 +451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 297726,
+      "num": 297726,
+      "word": "德约科维奇vs阿尔卡拉斯",
+      "onboard_time": 1769936302,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 296120,
       "num": 842348,
       "word": "93年男员工为了生孩子辞职",
@@ -441,6 +481,14 @@
       "onboard_time": 1769921778,
       "rank": 33,
       "category": "财经"
+    },
+    {
+      "raw_hot": 271436,
+      "num": 271436,
+      "word": "男子1650元买羽绒服全是飞丝报警",
+      "onboard_time": 1769941581,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 270991,
@@ -515,6 +563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 248710,
+      "num": 248710,
+      "word": "澳网男单决赛",
+      "onboard_time": 1769936180,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 247278,
       "num": 180321,
       "word": "荣耀之战",
@@ -529,14 +585,6 @@
       "onboard_time": 1769914701,
       "rank": 13,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 245439,
-      "num": 245439,
-      "word": "德约科维奇vs阿尔卡拉斯",
-      "onboard_time": 1769936302,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 238732,
@@ -561,6 +609,14 @@
       "onboard_time": 1769922799,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 233375,
+      "num": 156065,
+      "word": "金价暴跌回收柜台前挤满顾客",
+      "onboard_time": 1769941641,
+      "rank": 31,
+      "category": "财经"
     },
     {
       "raw_hot": 231674,
@@ -593,14 +649,6 @@
       "onboard_time": 1769924959,
       "rank": 20,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 227456,
-      "num": 227456,
-      "word": "澳网男单决赛",
-      "onboard_time": 1769936180,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 224453,
@@ -787,14 +835,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 159012,
-      "num": 159012,
-      "word": "GEN对战HLE",
-      "onboard_time": 1769936542,
-      "rank": 40,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 157577,
       "num": 157577,
       "word": "已有4000家绝味鸭脖倒下",
@@ -867,6 +907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 148210,
+      "num": 148210,
+      "word": "小米SU7Ultra月销量跌至45辆",
+      "onboard_time": 1769940261,
+      "rank": 26,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 145371,
       "num": 193264,
       "word": "16岁烤鸡少年爆火一个月后的现状",
@@ -923,22 +971,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 137475,
-      "num": 137475,
-      "word": "小米SU7Ultra月销量跌至45辆",
-      "onboard_time": 1769940261,
-      "rank": 26,
-      "category": "汽车"
-    },
-    {
-      "raw_hot": 137427,
-      "num": 137427,
-      "word": "金价暴跌回收柜台前挤满顾客",
-      "onboard_time": 1769941641,
-      "rank": 31,
-      "category": "财经"
-    },
-    {
       "raw_hot": 136957,
       "num": 136957,
       "word": "专家辟谣地球将失重7秒致千万人死亡",
@@ -971,12 +1003,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 134732,
-      "num": 134732,
-      "word": "为什么有女性不做美甲",
-      "onboard_time": 1769941461,
+      "raw_hot": 135322,
+      "num": 135322,
+      "word": "爱泼斯坦追逐女孩视频有喘息声",
+      "onboard_time": 1769942662,
       "rank": 33,
-      "category": "情感"
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 134624,
+      "num": 134624,
+      "word": "刘子瑞宣布退圈",
+      "onboard_time": 1769932640,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 132806,
@@ -992,22 +1032,6 @@
       "word": "前夫回应女子离世前留3000万给女儿",
       "onboard_time": 1769910980,
       "rank": 22,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 131334,
-      "num": 127300,
-      "word": "刘子瑞宣布退圈",
-      "onboard_time": 1769932640,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 130784,
-      "num": 130784,
-      "word": "男子1650元买羽绒服全是飞丝报警",
-      "onboard_time": 1769941581,
-      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -1059,6 +1083,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 127053,
+      "num": 127053,
+      "word": "喜美",
+      "onboard_time": 1769943082,
+      "rank": 35,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 126790,
       "num": 175704,
       "word": "德约科维奇1比0阿尔卡拉斯",
@@ -1089,14 +1121,6 @@
       "onboard_time": 1769912899,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 122390,
-      "num": 122390,
-      "word": "柯南",
-      "onboard_time": 1769941942,
-      "rank": 38,
-      "category": "动漫"
     },
     {
       "raw_hot": 121822,
@@ -1267,6 +1291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 101166,
+      "num": 137457,
+      "word": "宠物博主被指虐猫后品牌方致歉",
+      "onboard_time": 1769941942,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100900,
       "num": 152315,
       "word": "微博之夜阵容汇总",
@@ -1283,6 +1315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 98931,
+      "num": 118452,
+      "word": "马斯克问爱泼斯坦萝莉岛派对哪天开",
+      "onboard_time": 1769941521,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 97767,
       "num": 97767,
       "word": "刘雨昕陈伟霆双人舞好辣",
@@ -1297,6 +1337,14 @@
       "onboard_time": 1769941581,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 97141,
+      "num": 97141,
+      "word": "包子进入瑜伽裤时代",
+      "onboard_time": 1769942240,
+      "rank": 42,
+      "category": "美食"
     },
     {
       "raw_hot": 96900,
@@ -1323,12 +1371,44 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 96273,
+      "num": 96273,
+      "word": "短剧演员红毯卷出新高度",
+      "onboard_time": 1769943082,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 95635,
+      "num": 95635,
+      "word": "实探中国黄金第一家",
+      "onboard_time": 1769942841,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 95402,
       "num": 89405,
       "word": "3个月没工资还干得起劲",
       "onboard_time": 1769917098,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 94610,
+      "num": 94610,
+      "word": "知名品牌被曝牛奶吐司吃出牙齿",
+      "onboard_time": 1769942000,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94410,
+      "num": 135555,
+      "word": "这就是四川省省菜吧",
+      "onboard_time": 1769942662,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 94248,
@@ -1369,14 +1449,6 @@
       "onboard_time": 1769936241,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 93458,
-      "num": 93458,
-      "word": "知名品牌被曝牛奶吐司吃出牙齿",
-      "onboard_time": 1769942000,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 93055,
@@ -1433,6 +1505,14 @@
       "onboard_time": 1769929220,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 90234,
+      "num": 90234,
+      "word": "追星女告白信 爱拿得出手",
+      "onboard_time": 1769939841,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 90101,
@@ -1843,14 +1923,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 67133,
-      "num": 118452,
-      "word": "马斯克问爱泼斯坦萝莉岛派对哪天开",
-      "onboard_time": 1769941521,
-      "rank": 39,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 66690,
       "num": 66690,
       "word": "沈腾 不方便的话全让AI说了",
@@ -2089,14 +2161,6 @@
       "onboard_time": 1769872521,
       "rank": 49,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 38749,
-      "num": 137457,
-      "word": "宠物博主被指虐猫后品牌方致歉",
-      "onboard_time": 1769941942,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 38366,
