@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769960034981,
+  "endTime": 1769960922672,
   "band_list": [
     {
       "raw_hot": 22742360,
@@ -763,6 +763,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1652728,
+      "num": 213022,
+      "word": "萝莉岛",
+      "onboard_time": 1769955561,
+      "rank": 24,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1643112,
       "num": 238372,
       "word": "王玉雯方停止突然的喜欢一切宣传工作",
@@ -1033,14 +1041,6 @@
       "onboard_time": 1769666424,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1444681,
-      "num": 213022,
-      "word": "萝莉岛",
-      "onboard_time": 1769955561,
-      "rank": 24,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 1431972,

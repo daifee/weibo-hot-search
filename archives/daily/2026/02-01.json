@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1769960034981,
+  "endTime": 1769960922672,
   "band_list": [
     {
       "raw_hot": 2197530,
@@ -27,6 +27,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1652728,
+      "num": 213022,
+      "word": "萝莉岛",
+      "onboard_time": 1769955561,
+      "rank": 24,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1528237,
       "num": 611829,
       "word": "爱泼斯坦案诡异照片曝光",
@@ -41,14 +49,6 @@
       "onboard_time": 1769952201,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1444681,
-      "num": 213022,
-      "word": "萝莉岛",
-      "onboard_time": 1769955561,
-      "rank": 24,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 1149380,
@@ -579,6 +579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 339571,
+      "num": 171553,
+      "word": "SM年会",
+      "onboard_time": 1769959581,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 335869,
       "num": 135550,
       "word": "柯南",
@@ -641,6 +649,14 @@
       "onboard_time": 1769925381,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 302799,
+      "num": 175143,
+      "word": "王一钧 YG首位签约内地艺人",
+      "onboard_time": 1769957122,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 302332,
@@ -779,12 +795,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 240839,
-      "num": 175143,
-      "word": "王一钧 YG首位签约内地艺人",
-      "onboard_time": 1769957122,
-      "rank": 33,
-      "category": "艺人"
+      "raw_hot": 244177,
+      "num": 829303,
+      "word": "皇马",
+      "onboard_time": 1769958682,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 238732,
@@ -801,6 +817,14 @@
       "onboard_time": 1769949381,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 235208,
+      "num": 235208,
+      "word": "卤味三巨头半年闭店超5300家",
+      "onboard_time": 1769956462,
+      "rank": 9,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 233980,
@@ -859,14 +883,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 226220,
-      "num": 226220,
-      "word": "皇马",
-      "onboard_time": 1769958682,
-      "rank": 4,
-      "category": "体育"
-    },
-    {
       "raw_hot": 224453,
       "num": 205635,
       "word": "汪东城也嗑王玉雯陈星旭",
@@ -907,14 +923,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 215072,
-      "num": 215072,
-      "word": "卤味三巨头半年闭店超5300家",
-      "onboard_time": 1769956462,
-      "rank": 9,
-      "category": "民生新闻,财经"
-    },
-    {
       "raw_hot": 214676,
       "num": 214676,
       "word": "新密码和旧密码不能相同",
@@ -939,14 +947,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 207034,
-      "num": 171553,
-      "word": "SM年会",
-      "onboard_time": 1769959581,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 204200,
       "num": 204200,
       "word": "杨紫素颜拒用替身",
@@ -961,6 +961,14 @@
       "onboard_time": 1769864781,
       "rank": 8,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 197330,
+      "num": 197330,
+      "word": "洛杉矶市长候选人女儿路边身亡",
+      "onboard_time": 1769959460,
+      "rank": 28,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 196227,
@@ -1011,6 +1019,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 192394,
+      "num": 163403,
+      "word": "王一博简笔画",
+      "onboard_time": 1769958323,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 191384,
       "num": 191384,
       "word": "荣耀之战day2节目单",
@@ -1033,14 +1049,6 @@
       "onboard_time": 1769876179,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 186014,
-      "num": 163403,
-      "word": "王一博简笔画",
-      "onboard_time": 1769958323,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 176700,
@@ -1084,7 +1092,7 @@
     },
     {
       "raw_hot": 172264,
-      "num": 156408,
+      "num": 156523,
       "word": "王俊凯爬山",
       "onboard_time": 1769957003,
       "rank": 28,
@@ -1371,14 +1379,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 138958,
-      "num": 138958,
-      "word": "洛杉矶市长候选人女儿路边身亡",
-      "onboard_time": 1769959460,
-      "rank": 28,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 137850,
       "num": 123294,
       "word": "杨紫演技 生命树上鲜活的枝丫",
@@ -1409,6 +1409,14 @@
       "onboard_time": 1769928020,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 136234,
+      "num": 124515,
+      "word": "肖战简笔画唇下痣",
+      "onboard_time": 1769959581,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 135949,
@@ -1515,14 +1523,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 129356,
-      "num": 124515,
-      "word": "肖战简笔画唇下痣",
-      "onboard_time": 1769959581,
-      "rank": 36,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 129280,
       "num": 129280,
       "word": "闭嘴跳舞",
@@ -1625,6 +1625,14 @@
       "onboard_time": 1769912899,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 122437,
+      "num": 173868,
+      "word": "爷爷每年都给孙子买根金条当礼物",
+      "onboard_time": 1769959761,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 121822,
@@ -1779,6 +1787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 111295,
+      "num": 111295,
+      "word": "员工多看了一眼挽损1800万被奖1万",
+      "onboard_time": 1769959341,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111261,
       "num": 111261,
       "word": "DRG对战Hero",
@@ -1841,6 +1857,14 @@
       "onboard_time": 1769946801,
       "rank": 41,
       "category": "美食"
+    },
+    {
+      "raw_hot": 109478,
+      "num": 109478,
+      "word": "穆祉丞回应输了",
+      "onboard_time": 1769960900,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 109076,
@@ -2009,6 +2033,14 @@
       "onboard_time": 1769922799,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100163,
+      "num": 100163,
+      "word": "肖战要来微博之夜",
+      "onboard_time": 1769960421,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 99726,
@@ -2323,6 +2355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 87576,
+      "num": 101081,
+      "word": "爱泼斯坦案多名受害者指控特朗普",
+      "onboard_time": 1769960481,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 87507,
       "num": 87507,
       "word": "第二类我舞台",
@@ -2377,6 +2417,14 @@
       "onboard_time": 1769935220,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 85088,
+      "num": 84629,
+      "word": "杨幂出席微博之夜",
+      "onboard_time": 1769960181,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 84378,
@@ -2771,14 +2819,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 60167,
-      "num": 173868,
-      "word": "爷爷每年都给孙子买根金条当礼物",
-      "onboard_time": 1769959761,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 59902,
       "num": 59902,
       "word": "突然的喜欢大结局",
@@ -2841,6 +2881,14 @@
       "onboard_time": 1769877319,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 51957,
+      "num": 116769,
+      "word": "北京大爷刚买500克又买300克金条",
+      "onboard_time": 1769959822,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 51825,
@@ -2985,14 +3033,6 @@
       "onboard_time": 1769856141,
       "rank": 44,
       "category": "财经"
-    },
-    {
-      "raw_hot": 36777,
-      "num": 116769,
-      "word": "北京大爷刚买500克又买300克金条",
-      "onboard_time": 1769959822,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 36011,
@@ -3225,6 +3265,14 @@
       "onboard_time": 1769956102,
       "rank": 39,
       "category": "财经"
+    },
+    {
+      "raw_hot": 16465,
+      "num": 102209,
+      "word": "00后男子因感情受挫连杀2名路人",
+      "onboard_time": 1769960660,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14267,
