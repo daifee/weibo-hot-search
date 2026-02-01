@@ -1,7 +1,15 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1769903158659,
+  "endTime": 1769914632750,
   "band_list": [
+    {
+      "raw_hot": 1017231,
+      "num": 1162757,
+      "word": "爱泼斯坦在厨房追逐女孩",
+      "onboard_time": 1769911460,
+      "rank": 0,
+      "category": "海外新闻"
+    },
     {
       "raw_hot": 636694,
       "num": 810273,
@@ -11,8 +19,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 587503,
+      "num": 587503,
+      "word": "名侦探柯南声明",
+      "onboard_time": 1769909240,
+      "rank": 3,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 546333,
-      "num": 185018,
+      "num": 206329,
       "word": "爱泼斯坦",
       "onboard_time": 1769866882,
       "rank": 10,
@@ -35,6 +51,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 432180,
+      "num": 208862,
+      "word": "央妈逗王一博",
+      "onboard_time": 1769911580,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 399740,
+      "num": 399740,
+      "word": "男子上完厕所突然离世妻子发声",
+      "onboard_time": 1769902336,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 389989,
       "num": 389989,
       "word": "金价大跌男子斥资20多万买入200克",
@@ -51,20 +83,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 358296,
+      "num": 864989,
+      "word": "女子离世前留3000万给未成年女儿",
+      "onboard_time": 1769902336,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 311542,
+      "num": 207814,
+      "word": "冉莹颖儿子曹格儿子钟丽缇女儿同框",
+      "onboard_time": 1769911280,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 302332,
       "num": 302332,
       "word": "黄金暴跌的原因找到了",
       "onboard_time": 1769901977,
       "rank": 4,
       "category": "财经"
-    },
-    {
-      "raw_hot": 298890,
-      "num": 298890,
-      "word": "女子离世前留3000万给未成年女儿",
-      "onboard_time": 1769902336,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 291558,
@@ -91,6 +131,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 251403,
+      "num": 251403,
+      "word": "韦东奕正式获聘北大长聘副教授",
+      "onboard_time": 1769905399,
+      "rank": 5,
+      "category": "教育"
+    },
+    {
       "raw_hot": 238732,
       "num": 176771,
       "word": "翁青雅早期街头丘比特采访",
@@ -107,6 +155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 231299,
+      "num": 231299,
+      "word": "北京黑色羽绒服选美大赛",
+      "onboard_time": 1769912423,
+      "rank": 6,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 229813,
       "num": 229813,
       "word": "在飞机上删了五个小时的照片",
@@ -115,12 +171,44 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 219519,
-      "num": 219519,
-      "word": "男子上完厕所突然离世妻子发声",
-      "onboard_time": 1769902336,
+      "raw_hot": 229359,
+      "num": 229359,
+      "word": "30岁男子上完厕所突然离世",
+      "onboard_time": 1769904978,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 224453,
+      "num": 205635,
+      "word": "汪东城也嗑王玉雯陈星旭",
+      "onboard_time": 1769911161,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 219808,
+      "num": 219808,
+      "word": "名侦探柯南",
+      "onboard_time": 1769901016,
+      "rank": 5,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 212343,
+      "num": 204651,
+      "word": "当你被父母养的很好",
+      "onboard_time": 1769909058,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 209378,
+      "num": 209378,
+      "word": "深圳水贝金价暴跌市民扎堆买金",
+      "onboard_time": 1769912182,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 208890,
@@ -131,12 +219,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 205446,
-      "num": 205446,
-      "word": "名侦探柯南",
-      "onboard_time": 1769901016,
-      "rank": 5,
-      "category": "动漫"
+      "raw_hot": 204200,
+      "num": 204200,
+      "word": "杨紫素颜拒用替身",
+      "onboard_time": 1769905698,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 200805,
@@ -163,12 +251,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 190837,
+      "num": 133029,
+      "word": "蓝莓记得别买太大的",
+      "onboard_time": 1769908819,
+      "rank": 20,
+      "category": "美食"
+    },
+    {
       "raw_hot": 188063,
       "num": 185007,
       "word": "刘诗诗宣传生命树",
       "onboard_time": 1769876179,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 173045,
+      "num": 173045,
+      "word": "第一眼以为给肖战开美颜了",
+      "onboard_time": 1769901916,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 157577,
@@ -195,12 +299,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 145632,
+      "num": 144304,
+      "word": "花少8网传最新阵容",
+      "onboard_time": 1769913260,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 145371,
       "num": 193264,
       "word": "16岁烤鸡少年爆火一个月后的现状",
       "onboard_time": 1769872223,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144538,
+      "num": 144538,
+      "word": "金价爆跌有柜姐放话退货扣500无效",
+      "onboard_time": 1769910381,
+      "rank": 17,
+      "category": "财经"
     },
     {
       "raw_hot": 135547,
@@ -211,12 +331,44 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133185,
+      "num": 133185,
+      "word": "王一博春晚彩排要清场的原因",
+      "onboard_time": 1769914459,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 132806,
       "num": 182211,
       "word": "黄金白银创单日暴跌纪录",
       "onboard_time": 1769857340,
       "rank": 17,
       "category": "财经"
+    },
+    {
+      "raw_hot": 132209,
+      "num": 132209,
+      "word": "前夫回应女子离世前留3000万给女儿",
+      "onboard_time": 1769910980,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 130626,
+      "num": 130626,
+      "word": "锤娜丽莎沈腾这段我想留到过年看",
+      "onboard_time": 1769914159,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 129936,
+      "num": 129936,
+      "word": "周扬青说不打针靠打羽毛球吗",
+      "onboard_time": 1769908700,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 125731,
@@ -227,12 +379,28 @@
       "category": "财经"
     },
     {
-      "raw_hot": 116266,
-      "num": 116266,
-      "word": "第一眼以为给肖战开美颜了",
-      "onboard_time": 1769901916,
-      "rank": 16,
+      "raw_hot": 123353,
+      "num": 123353,
+      "word": "静音车厢不是只让乘客静音",
+      "onboard_time": 1769906359,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119940,
+      "num": 119940,
+      "word": "宋威龙赵今麦伟大的龙麦风味",
+      "onboard_time": 1769912899,
+      "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 112774,
+      "num": 112774,
+      "word": "有色板块暴跌",
+      "onboard_time": 1769909360,
+      "rank": 27,
+      "category": "财经"
     },
     {
       "raw_hot": 110682,
@@ -249,6 +417,14 @@
       "onboard_time": 1769861902,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 106760,
+      "num": 106760,
+      "word": "时代少年团行程图",
+      "onboard_time": 1769908819,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 105967,
@@ -275,6 +451,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 93055,
+      "num": 93055,
+      "word": "炽热吸引",
+      "onboard_time": 1769910260,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 91601,
+      "num": 91601,
+      "word": "广州一初中生放假回家的视频火了",
+      "onboard_time": 1769903477,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 88005,
+      "num": 88005,
+      "word": "内娱现挂迎来了它最严厉的父亲",
+      "onboard_time": 1769913499,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 86493,
       "num": 86493,
       "word": "保罗乔治禁赛25场",
@@ -283,12 +483,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 82266,
+      "num": 82266,
+      "word": "塞尔维亚偶遇周也吃火锅",
+      "onboard_time": 1769913921,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 80573,
       "num": 80573,
       "word": "低丸子头是穿羽绒服最好看的发型",
       "onboard_time": 1769858781,
       "rank": 27,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 80498,
+      "num": 80498,
+      "word": "张杰五天抽了25克黄金",
+      "onboard_time": 1769914399,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 78437,
@@ -315,12 +531,36 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 75419,
+      "num": 75419,
+      "word": "张凯 小白熊",
+      "onboard_time": 1769908999,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 75170,
+      "num": 75170,
+      "word": "金银价暴跌有珠宝城成交一夜归零",
+      "onboard_time": 1769914459,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
       "raw_hot": 74543,
       "num": 74543,
       "word": "生命树收视逆跌",
       "onboard_time": 1769871861,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 73311,
+      "num": 73311,
+      "word": "银价波动",
+      "onboard_time": 1769909780,
+      "rank": 41,
+      "category": "财经"
     },
     {
       "raw_hot": 72423,
@@ -339,12 +579,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 69036,
+      "num": 69036,
+      "word": "意大利农村留学的一天",
+      "onboard_time": 1769914100,
+      "rank": 43,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 68566,
       "num": 68566,
       "word": "男子被AI诊断梅毒医生否认却不信",
       "onboard_time": 1769868021,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 67534,
+      "num": 67534,
+      "word": "还不会打字的弟弟展示新玩具",
+      "onboard_time": 1769913260,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 67302,
+      "num": 67302,
+      "word": "猫咪违背天性爱人",
+      "onboard_time": 1769911759,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 66690,
@@ -355,12 +619,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 65603,
+      "num": 65603,
+      "word": "小猫 我空气都要闻干了",
+      "onboard_time": 1769911639,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 65414,
       "num": 65414,
       "word": "俊凯在围观和尖叫下吃完一碗粉回去了",
       "onboard_time": 1769868622,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 65182,
+      "num": 65182,
+      "word": "佟大为新剧洪世贤看了都得喊哥",
+      "onboard_time": 1769914521,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 63639,
@@ -377,6 +657,14 @@
       "onboard_time": 1769851822,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 61559,
+      "num": 61559,
+      "word": "北京市民排队8小时买黄金",
+      "onboard_time": 1769905099,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 61022,
@@ -571,6 +859,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 33867,
+      "num": 75289,
+      "word": "找不到任何不和中国合作的理由",
+      "onboard_time": 1769913681,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 33680,
       "num": 40233,
       "word": "有罪之身",
@@ -620,7 +916,7 @@
     },
     {
       "raw_hot": 20329,
-      "num": 524487,
+      "num": 680509,
       "word": "已发售春运火车票超5000万张",
       "onboard_time": 1769869042,
       "rank": 2,
