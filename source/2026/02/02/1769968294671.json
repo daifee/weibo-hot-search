@@ -1,0 +1,410 @@
+{
+  "runTime": 1769968294671,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 162439,
+        "num": 319393,
+        "word": "洛杉矶市长候选人女儿路边身亡",
+        "onboard_time": 1769959460,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 135038,
+        "num": 224020,
+        "word": "微博之夜第七波阵容",
+        "onboard_time": 1769956582,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 15129,
+        "num": 214647,
+        "word": "社区救命标志有了新国标",
+        "onboard_time": 1769950401,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 420835,
+        "num": 214059,
+        "word": "于文文演唱会晕倒",
+        "onboard_time": 1769948841,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 210176,
+        "num": 210176,
+        "word": "领导疯狂劝酒员工喝完口吐鲜血",
+        "onboard_time": 1769964499,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110530,
+        "num": 209804,
+        "word": "爱泼斯坦案多名受害者指控特朗普",
+        "onboard_time": 1769960481,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 78305,
+        "num": 208484,
+        "word": "爷爷每年都给孙子买根金条当礼物",
+        "onboard_time": 1769959761,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77101,
+        "num": 208250,
+        "word": "彭昱畅新剧 两个宝贝员工出掉了",
+        "onboard_time": 1769963300,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 70098,
+        "num": 207029,
+        "word": "央视迎00后新主播",
+        "onboard_time": 1769945661,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63666,
+        "num": 206374,
+        "word": "微博之夜",
+        "onboard_time": 1769928980,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 308711,
+        "num": 205241,
+        "word": "爱泼斯坦",
+        "onboard_time": 1769955622,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 280238,
+        "num": 204629,
+        "word": "萝莉岛",
+        "onboard_time": 1769955561,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 233245,
+        "num": 203559,
+        "word": "于文文方报平安",
+        "onboard_time": 1769962400,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203357,
+        "num": 203357,
+        "word": "爱泼斯坦案视频曝光",
+        "onboard_time": 1769950642,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 140987,
+        "num": 140987,
+        "word": "爱泼斯坦案诡异照片曝光",
+        "onboard_time": 1769931861,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 127548,
+        "num": 127548,
+        "word": "SM年会",
+        "onboard_time": 1769959581,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96909,
+        "num": 96909,
+        "word": "为什么有女性不做美甲",
+        "onboard_time": 1769941461,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 90676,
+        "num": 90676,
+        "word": "昀牵孟绕",
+        "onboard_time": 1769951182,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 86368,
+        "num": 86368,
+        "word": "金晨道歉后为何仍被揪着不放",
+        "onboard_time": 1769944821,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74993,
+        "num": 74993,
+        "word": "爱泼斯坦追逐女孩视频有喘息声",
+        "onboard_time": 1769942662,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 246583,
+        "num": 72504,
+        "word": "秦牛正威回应订婚后分手",
+        "onboard_time": 1769952201,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85754,
+        "num": 71602,
+        "word": "00后男子因感情受挫连杀2名路人",
+        "onboard_time": 1769960660,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69921,
+        "num": 69921,
+        "word": "王一博简笔画",
+        "onboard_time": 1769958323,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 58164,
+        "num": 58164,
+        "word": "肖战要来微博之夜",
+        "onboard_time": 1769960421,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 56456,
+        "num": 56456,
+        "word": "王橹杰扔尾戒",
+        "onboard_time": 1769952982,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 52934,
+        "num": 52934,
+        "word": "王一钧 YG首位签约内地艺人",
+        "onboard_time": 1769957122,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50508,
+        "num": 50508,
+        "word": "员工多看了一眼挽损1800万被奖1万",
+        "onboard_time": 1769959341,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46708,
+        "num": 46708,
+        "word": "穆祉丞回应输了",
+        "onboard_time": 1769960900,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 35133,
+        "num": 44930,
+        "word": "皇马",
+        "onboard_time": 1769958682,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29681,
+        "num": 44918,
+        "word": "抗炎蔬菜界的五虎将",
+        "onboard_time": 1769956641,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 44908,
+        "num": 44908,
+        "word": "格莱美预测",
+        "onboard_time": 1769964018,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 44316,
+        "num": 44316,
+        "word": "爱泼斯坦案最新爆料",
+        "onboard_time": 1769944401,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 42995,
+        "num": 42995,
+        "word": "王牌对王牌9",
+        "onboard_time": 1769964977,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 39687,
+        "num": 39687,
+        "word": "杨幂出席微博之夜",
+        "onboard_time": 1769960181,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 39603,
+        "num": 39603,
+        "word": "TOP不解散不单飞",
+        "onboard_time": 1769942121,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 37600,
+        "num": 39602,
+        "word": "王俊凯爬山",
+        "onboard_time": 1769957003,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35903,
+        "num": 39600,
+        "word": "穆祉丞 捡戒指",
+        "onboard_time": 1769953943,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 34173,
+        "num": 39599,
+        "word": "中国最北宜家闭店前一日几乎被搬空",
+        "onboard_time": 1769952443,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30360,
+        "num": 39595,
+        "word": "爱泼斯坦案最后一批文件曝光",
+        "onboard_time": 1769937620,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 30226,
+        "num": 39594,
+        "word": "印度总理也上了爱泼斯坦文件",
+        "onboard_time": 1769958023,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 30799,
+        "num": 39593,
+        "word": "王一博郭富城 春晚合作",
+        "onboard_time": 1769953643,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29228,
+        "num": 39589,
+        "word": "星河入梦",
+        "onboard_time": 1769967496,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 28876,
+        "num": 39587,
+        "word": "卤味三巨头半年闭店超5300家",
+        "onboard_time": 1769956462,
+        "rank": 42,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 28280,
+        "num": 39586,
+        "word": "第一批游戏主播开始演戏了",
+        "onboard_time": 1769954722,
+        "rank": 43,
+        "category": "游戏,剧集"
+      },
+      {
+        "raw_hot": 27595,
+        "num": 39585,
+        "word": "Homme又提LPL了",
+        "onboard_time": 1769955561,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 26780,
+        "num": 39582,
+        "word": "马嘉祺 小狗留下的脚印",
+        "onboard_time": 1769956641,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25922,
+        "num": 39581,
+        "word": "小天曝Homme在TES执教方式",
+        "onboard_time": 1769955922,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 25183,
+        "num": 39578,
+        "word": "周柯宇杀青",
+        "onboard_time": 1769949381,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24939,
+        "num": 39575,
+        "word": "春运",
+        "onboard_time": 1769968155,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24817,
+        "num": 39575,
+        "word": "男子1650元买羽绒服全是飞丝报警",
+        "onboard_time": 1769941581,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#开年首月中国何以掀起外交热潮#"
+    }
+  }
+}
