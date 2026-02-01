@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1769939675557,
+  "endTime": 1769942118150,
   "band_list": [
     {
       "raw_hot": 1809688,
@@ -43,12 +43,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 889560,
+      "num": 1142329,
+      "word": "荣耀之战TOP赢了",
+      "onboard_time": 1769939422,
+      "rank": 1,
+      "category": "演出"
+    },
+    {
       "raw_hot": 811116,
       "num": 445061,
       "word": "小户型去客厅化",
       "onboard_time": 1769929942,
       "rank": 5,
       "category": "休闲,情感"
+    },
+    {
+      "raw_hot": 807568,
+      "num": 807568,
+      "word": "六小时了 它还在我胃里游",
+      "onboard_time": 1769940081,
+      "rank": 5,
+      "category": "幽默"
     },
     {
       "raw_hot": 733893,
@@ -84,7 +100,7 @@
     },
     {
       "raw_hot": 686621,
-      "num": 230781,
+      "num": 240946,
       "word": "张桂源哭了",
       "onboard_time": 1769934382,
       "rank": 11,
@@ -96,6 +112,14 @@
       "word": "荣耀之战排名",
       "onboard_time": 1769933899,
       "rank": 23,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 670304,
+      "num": 807590,
+      "word": "左航哭了",
+      "onboard_time": 1769940862,
+      "rank": 3,
       "category": "演出"
     },
     {
@@ -171,19 +195,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 507735,
+      "num": 807578,
+      "word": "深圳水贝挤满了人",
+      "onboard_time": 1769937080,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 504193,
       "num": 177576,
       "word": "金价波动",
       "onboard_time": 1769865023,
       "rank": 11,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 481986,
-      "num": 481986,
-      "word": "深圳水贝挤满了人",
-      "onboard_time": 1769937080,
-      "rank": 9,
       "category": "财经"
     },
     {
@@ -204,7 +228,7 @@
     },
     {
       "raw_hot": 452932,
-      "num": 228753,
+      "num": 239716,
       "word": "爱泼斯坦与女孩在房间里跳舞",
       "onboard_time": 1769928861,
       "rank": 35,
@@ -283,6 +307,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 376027,
+      "num": 376027,
+      "word": "中国工商银行风险提示",
+      "onboard_time": 1769940081,
+      "rank": 7,
+      "category": "财经"
+    },
+    {
       "raw_hot": 372064,
       "num": 121211,
       "word": "内娱唯一说微调结果没人信的人",
@@ -297,6 +329,14 @@
       "onboard_time": 1769912182,
       "rank": 9,
       "category": "财经"
+    },
+    {
+      "raw_hot": 362128,
+      "num": 808427,
+      "word": "爱泼斯坦案最后一批文件曝光",
+      "onboard_time": 1769937620,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 358296,
@@ -451,14 +491,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 252697,
-      "num": 752223,
-      "word": "荣耀之战TOP赢了",
-      "onboard_time": 1769939422,
-      "rank": 1,
-      "category": "演出"
-    },
-    {
       "raw_hot": 251403,
       "num": 251403,
       "word": "韦东奕正式获聘北大长聘副教授",
@@ -499,6 +531,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 245439,
+      "num": 245439,
+      "word": "德约科维奇vs阿尔卡拉斯",
+      "onboard_time": 1769936302,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 238732,
       "num": 176771,
       "word": "翁青雅早期街头丘比特采访",
@@ -521,14 +561,6 @@
       "onboard_time": 1769922799,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 232977,
-      "num": 232977,
-      "word": "德约科维奇vs阿尔卡拉斯",
-      "onboard_time": 1769936302,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 231674,
@@ -723,14 +755,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 169398,
-      "num": 169398,
-      "word": "爱泼斯坦案最后一批文件曝光",
-      "onboard_time": 1769937620,
-      "rank": 30,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 167945,
       "num": 157112,
       "word": "刘耀文玩空气手机",
@@ -777,6 +801,14 @@
       "onboard_time": 1769863222,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 155860,
+      "num": 155860,
+      "word": "王橹杰月光下的白玫瑰",
+      "onboard_time": 1769938702,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 153559,
@@ -891,6 +923,30 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 137475,
+      "num": 137475,
+      "word": "小米SU7Ultra月销量跌至45辆",
+      "onboard_time": 1769940261,
+      "rank": 26,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 137427,
+      "num": 137427,
+      "word": "金价暴跌回收柜台前挤满顾客",
+      "onboard_time": 1769941641,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 136957,
+      "num": 136957,
+      "word": "专家辟谣地球将失重7秒致千万人死亡",
+      "onboard_time": 1769941161,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 136877,
       "num": 136877,
       "word": "张桂源王橹杰陈浚铭还要长多高",
@@ -913,6 +969,14 @@
       "onboard_time": 1769872042,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 134732,
+      "num": 134732,
+      "word": "为什么有女性不做美甲",
+      "onboard_time": 1769941461,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 132806,
@@ -939,6 +1003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 130784,
+      "num": 130784,
+      "word": "男子1650元买羽绒服全是飞丝报警",
+      "onboard_time": 1769941581,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 130626,
       "num": 130626,
       "word": "锤娜丽莎沈腾这段我想留到过年看",
@@ -961,6 +1033,14 @@
       "onboard_time": 1769908700,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 129280,
+      "num": 129280,
+      "word": "闭嘴跳舞",
+      "onboard_time": 1769938580,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 128851,
@@ -1011,12 +1091,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 122590,
-      "num": 122590,
-      "word": "闭嘴跳舞",
-      "onboard_time": 1769938580,
-      "rank": 37,
-      "category": "演出"
+      "raw_hot": 122390,
+      "num": 122390,
+      "word": "柯南",
+      "onboard_time": 1769941942,
+      "rank": 38,
+      "category": "动漫"
     },
     {
       "raw_hot": 121822,
@@ -1099,6 +1179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 110169,
+      "num": 132700,
+      "word": "地铁工地龙门吊坍塌砸中轿车",
+      "onboard_time": 1769940743,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 110158,
       "num": 110158,
       "word": "王赫野这么会扭你早说啊",
@@ -1113,14 +1201,6 @@
       "onboard_time": 1769861902,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 108548,
-      "num": 108548,
-      "word": "王橹杰月光下的白玫瑰",
-      "onboard_time": 1769938702,
-      "rank": 45,
-      "category": "演出"
     },
     {
       "raw_hot": 107238,
@@ -1153,6 +1233,14 @@
       "onboard_time": 1769852721,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 104775,
+      "num": 181792,
+      "word": "顾客进店发现没人亲自下厨并留下饭钱",
+      "onboard_time": 1769938702,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104430,
@@ -1201,6 +1289,14 @@
       "onboard_time": 1769869942,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 97417,
+      "num": 97417,
+      "word": "德约科维奇1比1阿尔卡拉斯",
+      "onboard_time": 1769941581,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 96900,
@@ -1275,6 +1371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 93458,
+      "num": 93458,
+      "word": "知名品牌被曝牛奶吐司吃出牙齿",
+      "onboard_time": 1769942000,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 93055,
       "num": 93055,
       "word": "炽热吸引",
@@ -1297,6 +1401,14 @@
       "onboard_time": 1769933781,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 91914,
+      "num": 91914,
+      "word": "孙颖莎短发更精神了",
+      "onboard_time": 1769941581,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 91601,
@@ -1731,6 +1843,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 67133,
+      "num": 118452,
+      "word": "马斯克问爱泼斯坦萝莉岛派对哪天开",
+      "onboard_time": 1769941521,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 66690,
       "num": 66690,
       "word": "沈腾 不方便的话全让AI说了",
@@ -1833,14 +1953,6 @@
       "onboard_time": 1769902157,
       "rank": 36,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 58454,
-      "num": 181792,
-      "word": "顾客进店发现没人亲自下厨并留下饭钱",
-      "onboard_time": 1769938702,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 58397,
@@ -1979,8 +2091,16 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 38749,
+      "num": 137457,
+      "word": "宠物博主被指虐猫后品牌方致歉",
+      "onboard_time": 1769941942,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38366,
-      "num": 642112,
+      "num": 807721,
       "word": "2026春节首日车票开售",
       "onboard_time": 1769937501,
       "rank": 2,
