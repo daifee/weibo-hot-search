@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1769945386016,
+  "endTime": 1769946292417,
   "band_list": [
     {
       "raw_hot": 1809688,
@@ -171,8 +171,8 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 588532,
-      "num": 1094165,
+      "raw_hot": 605521,
+      "num": 1096883,
       "word": "男子1650元买羽绒服全是飞丝报警",
       "onboard_time": 1769941581,
       "rank": 35,
@@ -185,6 +185,14 @@
       "onboard_time": 1769909240,
       "rank": 3,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 561414,
+      "num": 249579,
+      "word": "张凯丽澄清4年前花少放醋事件",
+      "onboard_time": 1769944341,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 553155,
@@ -201,6 +209,22 @@
       "onboard_time": 1769866882,
       "rank": 10,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 543047,
+      "num": 543047,
+      "word": "演员自曝13年前4元一克买白银",
+      "onboard_time": 1769943922,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 542001,
+      "num": 542001,
+      "word": "金价暴跌回收柜台前挤满顾客",
+      "onboard_time": 1769941641,
+      "rank": 31,
+      "category": "财经"
     },
     {
       "raw_hot": 539319,
@@ -273,6 +297,14 @@
       "onboard_time": 1769928861,
       "rank": 35,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 442496,
+      "num": 199632,
+      "word": "金晨道歉后为何仍被揪着不放",
+      "onboard_time": 1769944821,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 438022,
@@ -364,7 +396,7 @@
     },
     {
       "raw_hot": 380082,
-      "num": 146030,
+      "num": 205572,
       "word": "爱泼斯坦追逐女孩视频有喘息声",
       "onboard_time": 1769942662,
       "rank": 33,
@@ -377,6 +409,14 @@
       "onboard_time": 1769864000,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 366817,
+      "num": 810377,
+      "word": "德约科维奇vs阿尔卡拉斯",
+      "onboard_time": 1769936302,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 365210,
@@ -459,14 +499,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 306815,
-      "num": 810377,
-      "word": "德约科维奇vs阿尔卡拉斯",
-      "onboard_time": 1769936302,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 302332,
       "num": 302332,
       "word": "黄金暴跌的原因找到了",
@@ -481,14 +513,6 @@
       "onboard_time": 1769918300,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 297714,
-      "num": 297714,
-      "word": "演员自曝13年前4元一克买白银",
-      "onboard_time": 1769943922,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 296120,
@@ -512,14 +536,6 @@
       "word": "金价遭遇过山车",
       "onboard_time": 1769921778,
       "rank": 33,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 276292,
-      "num": 276292,
-      "word": "金价暴跌回收柜台前挤满顾客",
-      "onboard_time": 1769941641,
-      "rank": 31,
       "category": "财经"
     },
     {
@@ -553,14 +569,6 @@
       "onboard_time": 1769873301,
       "rank": 12,
       "category": "网红"
-    },
-    {
-      "raw_hot": 254730,
-      "num": 249579,
-      "word": "张凯丽澄清4年前花少放醋事件",
-      "onboard_time": 1769944341,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 253411,
@@ -715,14 +723,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 219710,
-      "num": 181760,
-      "word": "金晨道歉后为何仍被揪着不放",
-      "onboard_time": 1769944821,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 217958,
       "num": 217958,
       "word": "花楼 小白熊",
@@ -745,6 +745,14 @@
       "onboard_time": 1769909058,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 211650,
+      "num": 199974,
+      "word": "穆祉丞说不愧对任何人",
+      "onboard_time": 1769946082,
+      "rank": 18,
+      "category": "演出"
     },
     {
       "raw_hot": 208890,
@@ -803,6 +811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193768,
+      "num": 167542,
+      "word": "朱志鑫下台也哭了",
+      "onboard_time": 1769946261,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 191384,
       "num": 191384,
       "word": "荣耀之战day2节目单",
@@ -851,6 +867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 172717,
+      "num": 165309,
+      "word": "丁程鑫拍的宋亚轩",
+      "onboard_time": 1769945121,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 167945,
       "num": 157112,
       "word": "刘耀文玩空气手机",
@@ -865,6 +889,14 @@
       "onboard_time": 1769935460,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 164971,
+      "num": 164971,
+      "word": "苏新皓看见什么了",
+      "onboard_time": 1769943982,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 162190,
@@ -915,14 +947,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 151632,
-      "num": 151632,
-      "word": "丁程鑫拍的宋亚轩",
-      "onboard_time": 1769945121,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 150244,
       "num": 150244,
       "word": "沈腾说我现在气没消呢",
@@ -969,14 +993,6 @@
       "onboard_time": 1769940261,
       "rank": 26,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 145819,
-      "num": 145819,
-      "word": "苏新皓看见什么了",
-      "onboard_time": 1769943982,
-      "rank": 31,
-      "category": "演出"
     },
     {
       "raw_hot": 145371,
@@ -1091,6 +1107,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 132081,
+      "num": 157118,
+      "word": "女演员补缴7千提取13年前囤的白银",
+      "onboard_time": 1769945722,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 131419,
+      "num": 131419,
+      "word": "成何体统定档节奏",
+      "onboard_time": 1769945661,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130626,
       "num": 130626,
       "word": "锤娜丽莎沈腾这段我想留到过年看",
@@ -1155,12 +1187,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126464,
+      "num": 131515,
+      "word": "爱泼斯坦案最新爆料",
+      "onboard_time": 1769944401,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 125731,
       "num": 125731,
       "word": "全球抛售美国",
       "onboard_time": 1769863522,
       "rank": 19,
       "category": "财经"
+    },
+    {
+      "raw_hot": 123590,
+      "num": 114398,
+      "word": "七匹狼输了",
+      "onboard_time": 1769945060,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 123353,
@@ -1227,6 +1275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 113216,
+      "num": 113216,
+      "word": "央视迎00后新主播",
+      "onboard_time": 1769945661,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 112828,
       "num": 112828,
       "word": "ally用韩语和韩国男演员秀恩爱",
@@ -1291,20 +1347,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 109215,
+      "num": 109215,
+      "word": "有罪之身大结局",
+      "onboard_time": 1769945481,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 109076,
       "num": 109076,
       "word": "原来能让王一博回归内娱的是央妈",
       "onboard_time": 1769861902,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 108524,
-      "num": 108524,
-      "word": "爱泼斯坦案最新爆料",
-      "onboard_time": 1769944401,
-      "rank": 34,
-      "category": "国际时政"
     },
     {
       "raw_hot": 107238,
@@ -1393,14 +1449,6 @@
       "onboard_time": 1769915420,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 102423,
-      "num": 102423,
-      "word": "七匹狼输了",
-      "onboard_time": 1769945060,
-      "rank": 42,
-      "category": "演出"
     },
     {
       "raw_hot": 101166,
@@ -1723,6 +1771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 87756,
+      "num": 87756,
+      "word": "王楚钦休整归来剑指卫冕",
+      "onboard_time": 1769944222,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 87507,
       "num": 87507,
       "word": "第二类我舞台",
@@ -1745,6 +1801,14 @@
       "onboard_time": 1769902097,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 86478,
+      "num": 86478,
+      "word": "南方人回北方过年能有多干",
+      "onboard_time": 1769946202,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 86354,
@@ -1945,6 +2009,14 @@
       "onboard_time": 1769916799,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 74547,
+      "num": 154562,
+      "word": "极氪回归吉利后首次公布交付量",
+      "onboard_time": 1769945901,
+      "rank": 29,
+      "category": "汽车"
     },
     {
       "raw_hot": 74543,
@@ -2249,6 +2321,14 @@
       "onboard_time": 1769877978,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 48743,
+      "num": 110834,
+      "word": "宋茜说韩语梦回维多利亚",
+      "onboard_time": 1769946082,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 44840,

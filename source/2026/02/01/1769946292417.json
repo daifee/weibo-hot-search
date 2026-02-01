@@ -1,0 +1,410 @@
+{
+  "runTime": 1769946292417,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 605521,
+        "num": 1096883,
+        "word": "男子1650元买羽绒服全是飞丝报警",
+        "onboard_time": 1769941581,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 366817,
+        "num": 784064,
+        "word": "德约科维奇vs阿尔卡拉斯",
+        "onboard_time": 1769936302,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23464,
+        "num": 609727,
+        "word": "2026春节首日车票开售",
+        "onboard_time": 1769937501,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 543047,
+        "num": 543047,
+        "word": "演员自曝13年前4元一克买白银",
+        "onboard_time": 1769943922,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 542001,
+        "num": 542001,
+        "word": "金价暴跌回收柜台前挤满顾客",
+        "onboard_time": 1769941641,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 499400,
+        "num": 499400,
+        "word": "六小时了 它还在我胃里游",
+        "onboard_time": 1769940081,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 413654,
+        "num": 413654,
+        "word": "HLE无缘季后赛",
+        "onboard_time": 1769943800,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 317302,
+        "num": 317302,
+        "word": "中国工商银行风险提示",
+        "onboard_time": 1769940081,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 226282,
+        "num": 226282,
+        "word": "微博之夜",
+        "onboard_time": 1769928980,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 210764,
+        "num": 210764,
+        "word": "澳网男单决赛",
+        "onboard_time": 1769936180,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 951327,
+        "num": 209964,
+        "word": "为什么有女性不做美甲",
+        "onboard_time": 1769941461,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 899950,
+        "num": 208399,
+        "word": "爱泼斯坦案诡异照片曝光",
+        "onboard_time": 1769931861,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 864527,
+        "num": 207275,
+        "word": "TOP不解散不单飞",
+        "onboard_time": 1769942121,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 561414,
+        "num": 207083,
+        "word": "张凯丽澄清4年前花少放醋事件",
+        "onboard_time": 1769944341,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 310578,
+        "num": 205572,
+        "word": "爱泼斯坦追逐女孩视频有喘息声",
+        "onboard_time": 1769942662,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 474117,
+        "num": 204244,
+        "word": "沉香如屑",
+        "onboard_time": 1769935823,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 308782,
+        "num": 203406,
+        "word": "爱泼斯坦案最后一批文件曝光",
+        "onboard_time": 1769937620,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 222541,
+        "num": 201432,
+        "word": "荣耀之战TOP赢了",
+        "onboard_time": 1769939422,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 211650,
+        "num": 199974,
+        "word": "穆祉丞说不愧对任何人",
+        "onboard_time": 1769946082,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 199751,
+        "num": 199751,
+        "word": "爱泼斯坦与女孩在房间里跳舞",
+        "onboard_time": 1769928861,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 442496,
+        "num": 199632,
+        "word": "金晨道歉后为何仍被揪着不放",
+        "onboard_time": 1769944821,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194815,
+        "num": 194815,
+        "word": "刘晓庆回应周扬青",
+        "onboard_time": 1769931440,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168716,
+        "num": 168716,
+        "word": "GEN对战HLE",
+        "onboard_time": 1769936542,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 435531,
+        "num": 167875,
+        "word": "穆祉丞 但求一刻你能倾听我",
+        "onboard_time": 1769930479,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 193768,
+        "num": 167542,
+        "word": "朱志鑫下台也哭了",
+        "onboard_time": 1769946261,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 142841,
+        "num": 166305,
+        "word": "爱泼斯坦遗嘱把萝莉岛留给女友",
+        "onboard_time": 1769930779,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 172717,
+        "num": 165309,
+        "word": "丁程鑫拍的宋亚轩",
+        "onboard_time": 1769945121,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164971,
+        "num": 164971,
+        "word": "苏新皓看见什么了",
+        "onboard_time": 1769943982,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 132081,
+        "num": 157118,
+        "word": "女演员补缴7千提取13年前囤的白银",
+        "onboard_time": 1769945722,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 74547,
+        "num": 154562,
+        "word": "极氪回归吉利后首次公布交付量",
+        "onboard_time": 1769945901,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 152489,
+        "num": 152489,
+        "word": "张桂源哭了",
+        "onboard_time": 1769934382,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 132989,
+        "num": 132989,
+        "word": "王橹杰月光下的白玫瑰",
+        "onboard_time": 1769938702,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 126464,
+        "num": 131515,
+        "word": "爱泼斯坦案最新爆料",
+        "onboard_time": 1769944401,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 131419,
+        "num": 131419,
+        "word": "成何体统定档节奏",
+        "onboard_time": 1769945661,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129986,
+        "num": 129986,
+        "word": "员工发个红包把老板月薪发出去了",
+        "onboard_time": 1769944701,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114479,
+        "num": 114479,
+        "word": "国投白银LOF周一开市停牌",
+        "onboard_time": 1769944401,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 123590,
+        "num": 114398,
+        "word": "七匹狼输了",
+        "onboard_time": 1769945060,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 113216,
+        "num": 113216,
+        "word": "央视迎00后新主播",
+        "onboard_time": 1769945661,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116108,
+        "num": 112086,
+        "word": "荣耀之战排名",
+        "onboard_time": 1769933899,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 48743,
+        "num": 110834,
+        "word": "宋茜说韩语梦回维多利亚",
+        "onboard_time": 1769946082,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 95536,
+        "num": 110635,
+        "word": "马斯克问爱泼斯坦萝莉岛派对哪天开",
+        "onboard_time": 1769941521,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 110516,
+        "num": 110516,
+        "word": "苏新皓哭了",
+        "onboard_time": 1769927840,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 109215,
+        "num": 109215,
+        "word": "有罪之身大结局",
+        "onboard_time": 1769945481,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93950,
+        "num": 93950,
+        "word": "爱泼斯坦",
+        "onboard_time": 1769866882,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 101100,
+        "num": 92565,
+        "word": "短剧演员红毯卷出新高度",
+        "onboard_time": 1769943082,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89336,
+        "num": 89336,
+        "word": "仙逆",
+        "onboard_time": 1769943261,
+        "rank": 45,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 89107,
+        "num": 89107,
+        "word": "杨紫回复梅婷",
+        "onboard_time": 1769943501,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87756,
+        "num": 87756,
+        "word": "王楚钦休整归来剑指卫冕",
+        "onboard_time": 1769944222,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86478,
+        "num": 86478,
+        "word": "南方人回北方过年能有多干",
+        "onboard_time": 1769946202,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 83098,
+        "num": 83098,
+        "word": "30年前黄金80一克女子囤了几公斤",
+        "onboard_time": 1769928080,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记关心的未来产业#"
+    }
+  }
+}
