@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/02/01 00:39:22 ~ 2026/02/02 05:31:33
+本榜单时间：2026/02/01 00:39:22 ~ 2026/02/02 05:46:31
 </p>
 </blockquote>
 <p>
@@ -2451,6 +2451,12 @@ AL与BLG直通淘汰赛（热度：43269）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E5%90%8E%E5%9B%9E%E6%94%B6%E5%8F%98%E7%8E%B0%E7%81%AB%E7%88%86%23" target="weibo">
+金价暴跌后回收变现火爆（热度：26210）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%A5%E8%BF%90%23" target="weibo">
 春运（热度：24939）
 </a>
@@ -2483,12 +2489,6 @@ AL与BLG直通淘汰赛（热度：43269）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%87%AA%E6%B0%91%E5%85%9A%E8%AD%A6%E5%91%8A%E6%97%A5%E6%9C%AC%E6%81%90%E6%BB%91%E5%90%91%E4%BA%8C%E6%B5%81%E5%9B%BD%E5%AE%B6%23" target="weibo">
 自民党警告日本恐滑向二流国家（热度：23366）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E5%90%8E%E5%9B%9E%E6%94%B6%E5%8F%98%E7%8E%B0%E7%81%AB%E7%88%86%23" target="weibo">
-金价暴跌后回收变现火爆（热度：21308）
 </a>
 </li>
 

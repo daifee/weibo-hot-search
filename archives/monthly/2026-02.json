@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1769981493344,
+  "endTime": 1769982391403,
   "band_list": [
     {
       "raw_hot": 2197530,
@@ -3251,6 +3251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26210,
+      "num": 16450,
+      "word": "金价暴跌后回收变现火爆",
+      "onboard_time": 1769979855,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
       "raw_hot": 24939,
       "num": 39575,
       "word": "春运",
@@ -3297,14 +3305,6 @@
       "onboard_time": 1769957302,
       "rank": 39,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 21308,
-      "num": 15899,
-      "word": "金价暴跌后回收变现火爆",
-      "onboard_time": 1769979855,
-      "rank": 31,
-      "category": "财经"
     },
     {
       "raw_hot": 20930,
@@ -3404,7 +3404,7 @@
     },
     {
       "raw_hot": 16349,
-      "num": 91086,
+      "num": 111939,
       "word": "多地年味浓度超标了",
       "onboard_time": 1769949981,
       "rank": 2,
