@@ -1,6 +1,6 @@
 {
   "startTime": 1769964003289,
-  "endTime": 1769971567206,
+  "endTime": 1769972475160,
   "band_list": [
     {
       "raw_hot": 1614466,
@@ -427,7 +427,7 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 32720,
+      "raw_hot": 35012,
       "num": 74066,
       "word": "檀健次卢昱晓侧颜同框路透",
       "onboard_time": 1769968816,
@@ -483,7 +483,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 17559,
+      "raw_hot": 18596,
       "num": 25171,
       "word": "澳网",
       "onboard_time": 1769948001,
@@ -499,7 +499,15 @@
       "category": "演出"
     },
     {
-      "raw_hot": 12834,
+      "raw_hot": 16790,
+      "num": 22929,
+      "word": "张杰演唱会唱演唱会",
+      "onboard_time": 1769972236,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 16349,
       "num": 81008,
       "word": "多地年味浓度超标了",
       "onboard_time": 1769949981,
