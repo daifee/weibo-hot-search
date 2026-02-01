@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1769954399593,
+  "endTime": 1769956479668,
   "band_list": [
     {
       "raw_hot": 2197530,
@@ -19,6 +19,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1675272,
+      "num": 255201,
+      "word": "爱泼斯坦",
+      "onboard_time": 1769866882,
+      "rank": 10,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1528237,
       "num": 611829,
       "word": "爱泼斯坦案诡异照片曝光",
@@ -27,8 +35,8 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 1220450,
-      "num": 164618,
+      "raw_hot": 1504692,
+      "num": 250786,
       "word": "秦牛正威回应订婚后分手",
       "onboard_time": 1769952201,
       "rank": 39,
@@ -84,7 +92,7 @@
     },
     {
       "raw_hot": 890270,
-      "num": 228130,
+      "num": 253504,
       "word": "金晨道歉后为何仍被揪着不放",
       "onboard_time": 1769944821,
       "rank": 23,
@@ -108,7 +116,7 @@
     },
     {
       "raw_hot": 849205,
-      "num": 179695,
+      "num": 254786,
       "word": "昀牵孟绕",
       "onboard_time": 1769951182,
       "rank": 13,
@@ -187,6 +195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 626214,
+      "num": 1100194,
+      "word": "爱泼斯坦案视频曝光",
+      "onboard_time": 1769950642,
+      "rank": 45,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 624421,
       "num": 215702,
       "word": "安德鲁在女性身上跪爬被拍",
@@ -227,6 +243,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 586854,
+      "num": 253710,
+      "word": "穆祉丞 捡戒指",
+      "onboard_time": 1769953943,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 561414,
       "num": 371707,
       "word": "张凯丽澄清4年前花少放醋事件",
@@ -241,14 +265,6 @@
       "onboard_time": 1769919140,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 546333,
-      "num": 249550,
-      "word": "爱泼斯坦",
-      "onboard_time": 1769866882,
-      "rank": 10,
-      "category": "国际时政"
     },
     {
       "raw_hot": 543047,
@@ -316,7 +332,7 @@
     },
     {
       "raw_hot": 484075,
-      "num": 172202,
+      "num": 252124,
       "word": "王橹杰扔尾戒",
       "onboard_time": 1769952982,
       "rank": 14,
@@ -337,6 +353,14 @@
       "onboard_time": 1769947700,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 463342,
+      "num": 393907,
+      "word": "王一博郭富城 春晚合作",
+      "onboard_time": 1769953643,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 455666,
@@ -371,14 +395,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 443151,
-      "num": 443151,
-      "word": "爱泼斯坦案视频曝光",
-      "onboard_time": 1769950642,
-      "rank": 45,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 438022,
       "num": 438022,
       "word": "中国工商银行风险提示",
@@ -393,6 +409,14 @@
       "onboard_time": 1769911580,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 427961,
+      "num": 427961,
+      "word": "中国最北宜家闭店前一日几乎被搬空",
+      "onboard_time": 1769952443,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 425218,
@@ -484,7 +508,7 @@
     },
     {
       "raw_hot": 380082,
-      "num": 209436,
+      "num": 250380,
       "word": "爱泼斯坦追逐女孩视频有喘息声",
       "onboard_time": 1769942662,
       "rank": 33,
@@ -505,14 +529,6 @@
       "onboard_time": 1769936302,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 365940,
-      "num": 365940,
-      "word": "中国最北宜家闭店前一日几乎被搬空",
-      "onboard_time": 1769952443,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 365210,
@@ -569,6 +585,14 @@
       "onboard_time": 1769911280,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 311284,
+      "num": 311284,
+      "word": "第一批游戏主播开始演戏了",
+      "onboard_time": 1769954722,
+      "rank": 7,
+      "category": "游戏"
     },
     {
       "raw_hot": 311178,
@@ -731,6 +755,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 246470,
+      "num": 246470,
+      "word": "于文文看视频已经很不舒服了",
+      "onboard_time": 1769955742,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 238732,
       "num": 176771,
       "word": "翁青雅早期街头丘比特采访",
@@ -827,14 +859,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 221977,
-      "num": 160065,
-      "word": "王一博郭富城 春晚合作",
-      "onboard_time": 1769953643,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 219808,
       "num": 219808,
       "word": "名侦探柯南",
@@ -913,14 +937,6 @@
       "onboard_time": 1769862802,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 195242,
-      "num": 151850,
-      "word": "穆祉丞 捡戒指",
-      "onboard_time": 1769953943,
-      "rank": 24,
-      "category": "演出"
     },
     {
       "raw_hot": 194839,
@@ -1091,6 +1107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 151194,
+      "num": 181372,
+      "word": "萝莉岛",
+      "onboard_time": 1769955561,
+      "rank": 24,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 150244,
       "num": 150244,
       "word": "沈腾说我现在气没消呢",
@@ -1187,6 +1211,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 142441,
+      "num": 142441,
+      "word": "男子将金戒指藏汉堡老婆一口吞下",
+      "onboard_time": 1769953822,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 142369,
       "num": 142369,
       "word": "731部队生产细菌总量足以毁灭全人类",
@@ -1201,6 +1233,14 @@
       "onboard_time": 1769928920,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 141005,
+      "num": 141005,
+      "word": "台湾人刷到太平年",
+      "onboard_time": 1769954302,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 140466,
@@ -1267,6 +1307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 136037,
+      "num": 136037,
+      "word": "Homme又提LPL了",
+      "onboard_time": 1769955561,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 135949,
       "num": 135949,
       "word": "生命树云合",
@@ -1291,6 +1339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 134726,
+      "num": 134726,
+      "word": "刘晓庆 我多少岁关你们什么事",
+      "onboard_time": 1769955622,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 134624,
       "num": 134624,
       "word": "刘子瑞宣布退圈",
@@ -1313,6 +1369,14 @@
       "onboard_time": 1769910980,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 131005,
+      "num": 129799,
+      "word": "短剧演员白方文直播讨薪",
+      "onboard_time": 1769952862,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 130626,
@@ -1409,6 +1473,14 @@
       "onboard_time": 1769863522,
       "rank": 19,
       "category": "财经"
+    },
+    {
+      "raw_hot": 125420,
+      "num": 125420,
+      "word": "小天曝Homme在TES执教方式",
+      "onboard_time": 1769955922,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 123590,
@@ -1531,20 +1603,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 112389,
-      "num": 112388,
-      "word": "男子将金戒指藏汉堡老婆一口吞下",
-      "onboard_time": 1769953822,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 112112,
       "num": 112112,
       "word": "985毕业生放弃几万月薪转行理发",
       "onboard_time": 1769920581,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111956,
+      "num": 111956,
+      "word": "荣耀之战为啥都哭了",
+      "onboard_time": 1769955083,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 111380,
@@ -1561,6 +1633,14 @@
       "onboard_time": 1769931623,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 110991,
+      "num": 110991,
+      "word": "王曼昱下飞机被美食硬控",
+      "onboard_time": 1769955683,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 110682,
@@ -1584,6 +1664,14 @@
       "word": "王赫野这么会扭你早说啊",
       "onboard_time": 1769936121,
       "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 109799,
+      "num": 109799,
+      "word": "伊能静透露两星期瘦了10斤",
+      "onboard_time": 1769956403,
+      "rank": 45,
       "category": "艺人"
     },
     {
@@ -2555,6 +2643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 54085,
+      "num": 255419,
+      "word": "央视揭黄金回收套路",
+      "onboard_time": 1769955922,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 53386,
       "num": 93194,
       "word": "多只黄金股业绩预喜",
@@ -2667,14 +2763,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 41359,
-      "num": 112521,
-      "word": "台湾人刷到太平年",
-      "onboard_time": 1769954302,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 41089,
       "num": 51401,
       "word": "4个奇奇怪怪却改善体态的动作",
@@ -2713,6 +2801,14 @@
       "onboard_time": 1769902818,
       "rank": 42,
       "category": "数码"
+    },
+    {
+      "raw_hot": 37072,
+      "num": 250997,
+      "word": "原亚洲最大宜家门店闭店前一天现状",
+      "onboard_time": 1769955561,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 36965,
@@ -2795,6 +2891,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 32869,
+      "num": 651313,
+      "word": "社区救命标志有了新国标",
+      "onboard_time": 1769950401,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32669,
       "num": 32669,
       "word": "希区考克直拍",
@@ -2809,14 +2913,6 @@
       "onboard_time": 1769931080,
       "rank": 19,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 31160,
-      "num": 651313,
-      "word": "社区救命标志有了新国标",
-      "onboard_time": 1769950401,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 30675,
@@ -2848,6 +2944,14 @@
       "word": "俯瞰陆地航母蓄势待发好壮观",
       "onboard_time": 1769950762,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28398,
+      "num": 251622,
+      "word": "男孩听到不回老家过年瞬间哭成泪人",
+      "onboard_time": 1769955622,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -2937,6 +3041,14 @@
       "onboard_time": 1769885416,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 17170,
+      "num": 122683,
+      "word": "宜家母公司营收连续两年下滑",
+      "onboard_time": 1769956102,
+      "rank": 39,
+      "category": "财经"
     },
     {
       "raw_hot": 14267,
