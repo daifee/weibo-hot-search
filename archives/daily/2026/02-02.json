@@ -1,6 +1,6 @@
 {
   "startTime": 1769964003289,
-  "endTime": 1769988846691,
+  "endTime": 1769989694488,
   "band_list": [
     {
       "raw_hot": 1614466,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1115481,
-      "num": 384935,
+      "num": 426381,
       "word": "于文文演唱会晕倒",
       "onboard_time": 1769948841,
       "rank": 3,
@@ -25,6 +25,14 @@
       "onboard_time": 1769962400,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 677657,
+      "num": 199801,
+      "word": "金价",
+      "onboard_time": 1769988378,
+      "rank": 13,
+      "category": "财经"
     },
     {
       "raw_hot": 665646,
@@ -44,7 +52,7 @@
     },
     {
       "raw_hot": 540085,
-      "num": 874069,
+      "num": 980730,
       "word": "金价暴跌后回收变现火爆",
       "onboard_time": 1769979855,
       "rank": 31,
@@ -59,6 +67,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 375449,
+      "num": 687524,
+      "word": "格莱美",
+      "onboard_time": 1769988918,
+      "rank": 1,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 373742,
       "num": 315353,
       "word": "SM年会",
@@ -68,11 +84,19 @@
     },
     {
       "raw_hot": 368545,
-      "num": 298169,
+      "num": 363696,
       "word": "孙卓坦言刚回归家庭时曾有轻生念头",
       "onboard_time": 1769987597,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 367197,
+      "num": 367197,
+      "word": "爱泼斯坦案曝安德鲁王子跪地照",
+      "onboard_time": 1769988078,
+      "rank": 7,
+      "category": "国际时政"
     },
     {
       "raw_hot": 349465,
@@ -83,8 +107,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 327010,
-      "num": 327010,
+      "raw_hot": 342506,
+      "num": 342506,
       "word": "领导疯狂劝酒员工喝完口吐鲜血",
       "onboard_time": 1769964499,
       "rank": 35,
@@ -147,6 +171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 189169,
+      "num": 189169,
+      "word": "男婴洗澡久盯浴霸灯右眼永久弱视",
+      "onboard_time": 1769988137,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 187795,
       "num": 147109,
       "word": "王一博简笔画",
@@ -163,14 +195,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 177581,
-      "num": 218345,
-      "word": "爱泼斯坦案曝安德鲁王子跪地照",
-      "onboard_time": 1769988078,
-      "rank": 7,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 172251,
       "num": 137625,
       "word": "昀牵孟绕",
@@ -185,14 +209,6 @@
       "onboard_time": 1769960421,
       "rank": 24,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 163933,
-      "num": 163933,
-      "word": "金价",
-      "onboard_time": 1769988378,
-      "rank": 13,
-      "category": "财经"
     },
     {
       "raw_hot": 149894,
@@ -217,6 +233,14 @@
       "onboard_time": 1769945661,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 134547,
+      "num": 95079,
+      "word": "在低端餐厅不吃用花生做的菜",
+      "onboard_time": 1769988019,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 130096,
@@ -259,14 +283,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 106627,
-      "num": 93145,
-      "word": "在低端餐厅不吃用花生做的菜",
-      "onboard_time": 1769988019,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 99544,
       "num": 93503,
       "word": "杨幂出席微博之夜",
@@ -281,14 +297,6 @@
       "onboard_time": 1769952982,
       "rank": 30,
       "category": "演出"
-    },
-    {
-      "raw_hot": 93622,
-      "num": 93622,
-      "word": "男婴洗澡久盯浴霸灯右眼永久弱视",
-      "onboard_time": 1769988137,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 91214,
@@ -315,6 +323,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 88269,
+      "num": 88269,
+      "word": "44岁二胎妈妈产后3年泪流不止",
+      "onboard_time": 1769988078,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 88233,
       "num": 87827,
       "word": "欧美名流加速切割爱泼斯坦",
@@ -337,6 +353,22 @@
       "onboard_time": 1769960900,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 82573,
+      "num": 91791,
+      "word": "抗炎蔬菜界的五虎将",
+      "onboard_time": 1769956641,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 77199,
+      "num": 77199,
+      "word": "刘晓庆 我多少岁关你们什么事",
+      "onboard_time": 1769955622,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 77101,
@@ -371,20 +403,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 73002,
-      "num": 91791,
-      "word": "抗炎蔬菜界的五虎将",
-      "onboard_time": 1769956641,
-      "rank": 29,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 71043,
-      "num": 71043,
-      "word": "44岁二胎妈妈产后3年泪流不止",
-      "onboard_time": 1769988078,
-      "rank": 30,
-      "category": "民生新闻"
+      "raw_hot": 70795,
+      "num": 70795,
+      "word": "基金实时估值遭全面下架",
+      "onboard_time": 1769989279,
+      "rank": 32,
+      "category": "财经"
     },
     {
       "raw_hot": 68824,
@@ -403,12 +427,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 67671,
+      "num": 67671,
+      "word": "伊能静透露两星期瘦了10斤",
+      "onboard_time": 1769956403,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 67670,
       "num": 67670,
       "word": "肖战简笔画唇下痣",
       "onboard_time": 1769959581,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 67219,
+      "num": 549692,
+      "word": "多地年味浓度超标了",
+      "onboard_time": 1769949981,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 63926,
@@ -419,12 +459,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 62956,
-      "num": 62956,
-      "word": "伊能静透露两星期瘦了10斤",
-      "onboard_time": 1769956403,
-      "rank": 36,
+      "raw_hot": 63391,
+      "num": 63391,
+      "word": "大学时期的迪丽热巴",
+      "onboard_time": 1769989399,
+      "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 62529,
+      "num": 62529,
+      "word": "爱泼斯坦案文件",
+      "onboard_time": 1769987777,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 61447,
@@ -443,20 +491,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 58052,
-      "num": 58052,
-      "word": "刘晓庆 我多少岁关你们什么事",
-      "onboard_time": 1769955622,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 57038,
       "num": 57038,
       "word": "宋茜说韩语梦回维多利亚",
       "onboard_time": 1769946082,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 56041,
+      "num": 74066,
+      "word": "檀健次卢昱晓侧颜同框路透",
+      "onboard_time": 1769968816,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 55832,
@@ -467,7 +515,15 @@
       "category": "演出"
     },
     {
-      "raw_hot": 54044,
+      "raw_hot": 54483,
+      "num": 54483,
+      "word": "指甲不会像肺部那样进行气体交换",
+      "onboard_time": 1769989399,
+      "rank": 44,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 54091,
       "num": 56581,
       "word": "第一批游戏主播开始演戏了",
       "onboard_time": 1769954722,
@@ -483,14 +539,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 53378,
-      "num": 483770,
-      "word": "多地年味浓度超标了",
-      "onboard_time": 1769949981,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 51381,
       "num": 51381,
       "word": "王牌对王牌9",
@@ -499,12 +547,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 49437,
-      "num": 74066,
-      "word": "檀健次卢昱晓侧颜同框路透",
-      "onboard_time": 1769968816,
-      "rank": 9,
-      "category": "剧集"
+      "raw_hot": 50076,
+      "num": 50076,
+      "word": "金价突然暴跌银行密集提示风险",
+      "onboard_time": 1769989038,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 48760,
@@ -515,11 +563,11 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 48229,
-      "num": 48229,
-      "word": "爱泼斯坦案文件",
-      "onboard_time": 1769987777,
-      "rank": 41,
+      "raw_hot": 48255,
+      "num": 48255,
+      "word": "马斯克问爱泼斯坦萝莉岛派对哪天开",
+      "onboard_time": 1769941521,
+      "rank": 47,
       "category": "国际时政"
     },
     {

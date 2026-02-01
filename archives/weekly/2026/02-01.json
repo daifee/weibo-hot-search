@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1769988846691,
+  "endTime": 1769989694488,
   "band_list": [
     {
       "raw_hot": 2197530,
@@ -211,6 +211,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 677657,
+      "num": 199801,
+      "word": "金价",
+      "onboard_time": 1769988378,
+      "rank": 13,
+      "category": "财经"
+    },
+    {
       "raw_hot": 670304,
       "num": 807590,
       "word": "左航哭了",
@@ -308,7 +316,7 @@
     },
     {
       "raw_hot": 540085,
-      "num": 874069,
+      "num": 980730,
       "word": "金价暴跌后回收变现火爆",
       "onboard_time": 1769979855,
       "rank": 31,
@@ -547,6 +555,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 375449,
+      "num": 687524,
+      "word": "格莱美",
+      "onboard_time": 1769988918,
+      "rank": 1,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 373742,
       "num": 315353,
       "word": "SM年会",
@@ -564,11 +580,19 @@
     },
     {
       "raw_hot": 368545,
-      "num": 298169,
+      "num": 363696,
       "word": "孙卓坦言刚回归家庭时曾有轻生念头",
       "onboard_time": 1769987597,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 367197,
+      "num": 367197,
+      "word": "爱泼斯坦案曝安德鲁王子跪地照",
+      "onboard_time": 1769988078,
+      "rank": 7,
+      "category": "国际时政"
     },
     {
       "raw_hot": 366817,
@@ -611,6 +635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 342506,
+      "num": 342506,
+      "word": "领导疯狂劝酒员工喝完口吐鲜血",
+      "onboard_time": 1769964499,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 335869,
       "num": 135550,
       "word": "柯南",
@@ -625,14 +657,6 @@
       "onboard_time": 1769955742,
       "rank": 23,
       "category": "演出"
-    },
-    {
-      "raw_hot": 327010,
-      "num": 327010,
-      "word": "领导疯狂劝酒员工喝完口吐鲜血",
-      "onboard_time": 1769964499,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 317320,
@@ -1091,20 +1115,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 189169,
+      "num": 189169,
+      "word": "男婴洗澡久盯浴霸灯右眼永久弱视",
+      "onboard_time": 1769988137,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 188063,
       "num": 185007,
       "word": "刘诗诗宣传生命树",
       "onboard_time": 1769876179,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 177581,
-      "num": 218345,
-      "word": "爱泼斯坦案曝安德鲁王子跪地照",
-      "onboard_time": 1769988078,
-      "rank": 7,
-      "category": "国际时政"
     },
     {
       "raw_hot": 176700,
@@ -1193,14 +1217,6 @@
       "onboard_time": 1769946922,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 163933,
-      "num": 163933,
-      "word": "金价",
-      "onboard_time": 1769988378,
-      "rank": 13,
-      "category": "财经"
     },
     {
       "raw_hot": 162295,
@@ -1537,6 +1553,14 @@
       "onboard_time": 1769932640,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 134547,
+      "num": 95079,
+      "word": "在低端餐厅不吃用花生做的菜",
+      "onboard_time": 1769988019,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 132806,
@@ -1987,14 +2011,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 106627,
-      "num": 93145,
-      "word": "在低端餐厅不吃用花生做的菜",
-      "onboard_time": 1769988019,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 105967,
       "num": 105967,
       "word": "生命树",
@@ -2251,14 +2267,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 93622,
-      "num": 93622,
-      "word": "男婴洗澡久盯浴霸灯右眼永久弱视",
-      "onboard_time": 1769988137,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 93519,
       "num": 93519,
       "word": "杨紫回复刘诗诗说谢谢姐姐",
@@ -2417,6 +2425,14 @@
       "onboard_time": 1769922141,
       "rank": 47,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 88269,
+      "num": 88269,
+      "word": "44岁二胎妈妈产后3年泪流不止",
+      "onboard_time": 1769988078,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 88233,
@@ -2755,20 +2771,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 71043,
-      "num": 71043,
-      "word": "44岁二胎妈妈产后3年泪流不止",
-      "onboard_time": 1769988078,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 70968,
       "num": 67940,
       "word": "生命树口碑争议源于审美差异",
       "onboard_time": 1769873720,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 70795,
+      "num": 70795,
+      "word": "基金实时估值遭全面下架",
+      "onboard_time": 1769989279,
+      "rank": 32,
+      "category": "财经"
     },
     {
       "raw_hot": 69321,
@@ -2819,6 +2835,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 67219,
+      "num": 549692,
+      "word": "多地年味浓度超标了",
+      "onboard_time": 1769949981,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 66690,
       "num": 66690,
       "word": "沈腾 不方便的话全让AI说了",
@@ -2867,6 +2891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 63391,
+      "num": 63391,
+      "word": "大学时期的迪丽热巴",
+      "onboard_time": 1769989399,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 63290,
       "num": 91646,
       "word": "詹姆斯说不可能参加扣篮大赛",
@@ -2881,6 +2913,14 @@
       "onboard_time": 1769958742,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 62529,
+      "num": 62529,
+      "word": "爱泼斯坦案文件",
+      "onboard_time": 1769987777,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 62086,
@@ -2939,6 +2979,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 56041,
+      "num": 74066,
+      "word": "檀健次卢昱晓侧颜同框路透",
+      "onboard_time": 1769968816,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 55832,
       "num": 55832,
       "word": "格莱美预测",
@@ -2955,6 +3003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 54483,
+      "num": 54483,
+      "word": "指甲不会像肺部那样进行气体交换",
+      "onboard_time": 1769989399,
+      "rank": 44,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 54446,
       "num": 55431,
       "word": "男子假冒飞行员与100多名女性暧昧",
@@ -2969,14 +3025,6 @@
       "onboard_time": 1769930420,
       "rank": 48,
       "category": "财经"
-    },
-    {
-      "raw_hot": 53378,
-      "num": 483770,
-      "word": "多地年味浓度超标了",
-      "onboard_time": 1769949981,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 52217,
@@ -3059,12 +3107,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 49437,
-      "num": 74066,
-      "word": "檀健次卢昱晓侧颜同框路透",
-      "onboard_time": 1769968816,
-      "rank": 9,
-      "category": "剧集"
+      "raw_hot": 50076,
+      "num": 50076,
+      "word": "金价突然暴跌银行密集提示风险",
+      "onboard_time": 1769989038,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 49317,
@@ -3073,14 +3121,6 @@
       "onboard_time": 1769877978,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 48229,
-      "num": 48229,
-      "word": "爱泼斯坦案文件",
-      "onboard_time": 1769987777,
-      "rank": 41,
-      "category": "国际时政"
     },
     {
       "raw_hot": 45502,
