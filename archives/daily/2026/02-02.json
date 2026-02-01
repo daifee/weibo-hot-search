@@ -1,6 +1,6 @@
 {
   "startTime": 1769964003289,
-  "endTime": 1769985244815,
+  "endTime": 1769986305597,
   "band_list": [
     {
       "raw_hot": 1614466,
@@ -115,6 +115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 212034,
+      "num": 212034,
+      "word": "金价暴跌后回收变现火爆",
+      "onboard_time": 1769979855,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
       "raw_hot": 210154,
       "num": 160421,
       "word": "王一钧 YG首位签约内地艺人",
@@ -156,7 +164,7 @@
     },
     {
       "raw_hot": 156755,
-      "num": 422971,
+      "num": 528710,
       "word": "爱泼斯坦案多名受害者指控特朗普",
       "onboard_time": 1769960481,
       "rank": 25,
@@ -185,14 +193,6 @@
       "onboard_time": 1769945661,
       "rank": 7,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 136037,
-      "num": 136037,
-      "word": "金价暴跌后回收变现火爆",
-      "onboard_time": 1769979855,
-      "rank": 31,
-      "category": "财经"
     },
     {
       "raw_hot": 130096,
@@ -363,6 +363,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 59100,
+      "num": 59100,
+      "word": "欧美名流加速切割爱泼斯坦",
+      "onboard_time": 1769975834,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 58141,
       "num": 58141,
       "word": "马嘉祺 小狗留下的脚印",
@@ -411,14 +419,6 @@
       "category": "游戏,剧集"
     },
     {
-      "raw_hot": 52562,
-      "num": 23009,
-      "word": "欧美名流加速切割爱泼斯坦",
-      "onboard_time": 1769975834,
-      "rank": 30,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 51381,
       "num": 51381,
       "word": "王牌对王牌9",
@@ -449,6 +449,14 @@
       "onboard_time": 1769968816,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 32228,
+      "num": 301847,
+      "word": "多地年味浓度超标了",
+      "onboard_time": 1769949981,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30527,
@@ -499,16 +507,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 23294,
-      "num": 244125,
-      "word": "多地年味浓度超标了",
-      "onboard_time": 1769949981,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 18596,
-      "num": 25171,
+      "num": 26806,
       "word": "澳网",
       "onboard_time": 1769948001,
       "rank": 47,
