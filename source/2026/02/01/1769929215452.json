@@ -1,0 +1,410 @@
+{
+  "runTime": 1769929215452,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 445883,
+        "num": 1071341,
+        "word": "名侦探柯南声明",
+        "onboard_time": 1769909240,
+        "rank": 0,
+        "category": "民生新闻,动漫"
+      },
+      {
+        "raw_hot": 306238,
+        "num": 802919,
+        "word": "微博之夜",
+        "onboard_time": 1769928980,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 56274,
+        "num": 594785,
+        "word": "国产电力心脏全球爆单",
+        "onboard_time": 1769920700,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 246613,
+        "num": 414937,
+        "word": "花儿与少年8",
+        "onboard_time": 1769919740,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 335497,
+        "num": 380980,
+        "word": "多只黄金个股涨停",
+        "onboard_time": 1769926221,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1809688,
+        "num": 378264,
+        "word": "苏新皓哭了",
+        "onboard_time": 1769927840,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 364637,
+        "num": 364637,
+        "word": "订房订到狗窝了",
+        "onboard_time": 1769923100,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 261845,
+        "num": 261845,
+        "word": "相亲点餐8千男子有逃避支付故意",
+        "onboard_time": 1769925381,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205929,
+        "num": 205929,
+        "word": "花楼 小白熊",
+        "onboard_time": 1769926760,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 141819,
+        "num": 205147,
+        "word": "30年前黄金80一克女子囤了几公斤",
+        "onboard_time": 1769928080,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1132148,
+        "num": 204433,
+        "word": "曝金宣虎逃税",
+        "onboard_time": 1769925740,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 515062,
+        "num": 203733,
+        "word": "李心艾老公宣布退圈",
+        "onboard_time": 1769922679,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 467708,
+        "num": 202815,
+        "word": "安德鲁在女性身上跪爬被拍",
+        "onboard_time": 1769922740,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 317685,
+        "num": 201754,
+        "word": "摄影界让张凌赫闯进去了",
+        "onboard_time": 1769921300,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269351,
+        "num": 201003,
+        "word": "金价遭遇过山车",
+        "onboard_time": 1769921778,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 256578,
+        "num": 200730,
+        "word": "胡歌回复刘诗诗",
+        "onboard_time": 1769922861,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 253012,
+        "num": 199589,
+        "word": "爱泼斯坦文件爆比尔盖茨曾患性病",
+        "onboard_time": 1769925260,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 241088,
+        "num": 198383,
+        "word": "爱泼斯坦在厨房追逐女孩",
+        "onboard_time": 1769911460,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 425218,
+        "num": 197566,
+        "word": "高市早苗受伤了",
+        "onboard_time": 1769922500,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 232201,
+        "num": 197085,
+        "word": "女星放弃抢救老公遭儿子责怪",
+        "onboard_time": 1769919140,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216820,
+        "num": 195916,
+        "word": "于正发的杨采钰",
+        "onboard_time": 1769924959,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195803,
+        "num": 195803,
+        "word": "爱泼斯坦",
+        "onboard_time": 1769866882,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 204741,
+        "num": 194995,
+        "word": "歌手2026要来新人了",
+        "onboard_time": 1769926881,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191384,
+        "num": 191384,
+        "word": "荣耀之战day2节目单",
+        "onboard_time": 1769926400,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 93158,
+        "num": 167143,
+        "word": "日本滑雪场再出严重致死事故",
+        "onboard_time": 1769922979,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 159845,
+        "num": 159845,
+        "word": "狗 有本事你今天洗死我",
+        "onboard_time": 1769924420,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 155225,
+        "num": 155225,
+        "word": "王一博春晚彩排要清场的原因",
+        "onboard_time": 1769914459,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136877,
+        "num": 136877,
+        "word": "张桂源王橹杰陈浚铭还要长多高",
+        "onboard_time": 1769928020,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90192,
+        "num": 133894,
+        "word": "为什么普通人现在不愿意贷款买房了",
+        "onboard_time": 1769922799,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63372,
+        "num": 132564,
+        "word": "蓝莓记得别买太大的",
+        "onboard_time": 1769908819,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 131924,
+        "num": 131924,
+        "word": "热巴二月行程",
+        "onboard_time": 1769922799,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107687,
+        "num": 107687,
+        "word": "赖冠霖WANNAONE手写信",
+        "onboard_time": 1769919980,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93106,
+        "num": 93106,
+        "word": "银川发生持刀伤人案件致1死",
+        "onboard_time": 1769921300,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89781,
+        "num": 89781,
+        "word": "狂依存",
+        "onboard_time": 1769926941,
+        "rank": 33,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 87850,
+        "num": 89758,
+        "word": "白象客服回应共投放2026份1克金条",
+        "onboard_time": 1769924959,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89744,
+        "num": 89744,
+        "word": "爱泼斯坦与女孩在房间里跳舞",
+        "onboard_time": 1769928861,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 89502,
+        "num": 89502,
+        "word": "原来静音车厢是纯人工静音",
+        "onboard_time": 1769927660,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 87661,
+        "num": 87661,
+        "word": "刘萧旭又要让玫瑰窃贼火一次了",
+        "onboard_time": 1769924000,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84860,
+        "num": 84860,
+        "word": "原来时代峰峻里面苦的只有TFBOYS",
+        "onboard_time": 1769928920,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81969,
+        "num": 83305,
+        "word": "中国最新富豪榜出炉",
+        "onboard_time": 1769928799,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82828,
+        "num": 82828,
+        "word": "潘宏训狗 徐艺洋训黄子韬",
+        "onboard_time": 1769926280,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82012,
+        "num": 82012,
+        "word": "93年男员工为了生孩子辞职",
+        "onboard_time": 1769915899,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 80620,
+        "num": 80620,
+        "word": "瘦的人可以和食物和平共处",
+        "onboard_time": 1769924240,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 80976,
+        "num": 80542,
+        "word": "1集离谱2集爆笑3集笑炸了",
+        "onboard_time": 1769918300,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80201,
+        "num": 80201,
+        "word": "央妈逗王一博",
+        "onboard_time": 1769911580,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79337,
+        "num": 79337,
+        "word": "深圳水贝金价暴跌市民扎堆买金",
+        "onboard_time": 1769912182,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 75284,
+        "num": 79334,
+        "word": "胡歌角色查重率为0",
+        "onboard_time": 1769927720,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 77011,
+        "num": 78824,
+        "word": "春节美甲什么时候做",
+        "onboard_time": 1769926040,
+        "rank": 47,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 74348,
+        "num": 78269,
+        "word": "爱泼斯坦曾邀请马斯克上岛",
+        "onboard_time": 1769929160,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 73632,
+        "num": 77715,
+        "word": "多家银行就贵金属紧急提醒",
+        "onboard_time": 1769926941,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动我国未来产业发展不断取得新突破#"
+    }
+  }
+}

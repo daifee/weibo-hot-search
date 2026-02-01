@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769924726561,
+  "endTime": 1769929215452,
   "band_list": [
     {
       "raw_hot": 22742360,
@@ -657,6 +657,14 @@
       "onboard_time": 1769680945,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1809688,
+      "num": 378264,
+      "word": "苏新皓哭了",
+      "onboard_time": 1769927840,
+      "rank": 5,
+      "category": "演出"
     },
     {
       "raw_hot": 1775880,
@@ -1555,6 +1563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1132148,
+      "num": 204433,
+      "word": "曝金宣虎逃税",
+      "onboard_time": 1769925740,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1130397,
       "num": 357113,
       "word": "糖霜苹果",
@@ -2385,22 +2401,6 @@
       "onboard_time": 1767358040,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 940028,
-      "num": 940028,
-      "word": "U23国足2比0越南",
-      "onboard_time": 1768927998,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 939767,
-      "num": 205963,
-      "word": "王橹杰哭了",
-      "onboard_time": 1768058062,
-      "rank": 13,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
