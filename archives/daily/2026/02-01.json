@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1769936237750,
+  "endTime": 1769938788793,
   "band_list": [
     {
       "raw_hot": 1809688,
@@ -11,7 +11,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 1165289,
+      "raw_hot": 1528237,
       "num": 611829,
       "word": "爱泼斯坦案诡异照片曝光",
       "onboard_time": 1769931861,
@@ -83,7 +83,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 646905,
+      "raw_hot": 671102,
       "num": 646905,
       "word": "刘晓庆回应周扬青",
       "onboard_time": 1769931440,
@@ -105,6 +105,14 @@
       "onboard_time": 1769922740,
       "rank": 11,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 617577,
+      "num": 617577,
+      "word": "沉香如屑",
+      "onboard_time": 1769935823,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 611621,
@@ -139,6 +147,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 539319,
+      "num": 1086291,
+      "word": "在意失联博士床上四件套用了7年",
+      "onboard_time": 1769934020,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 524648,
       "num": 436252,
       "word": "周扬青 整过容你以为别人看不出来呀",
@@ -155,12 +171,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 473688,
-      "num": 1075790,
-      "word": "在意失联博士床上四件套用了7年",
-      "onboard_time": 1769934020,
-      "rank": 8,
-      "category": "民生新闻"
+      "raw_hot": 491646,
+      "num": 165169,
+      "word": "荣耀之战排名",
+      "onboard_time": 1769933899,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 473423,
@@ -195,14 +211,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 430232,
-      "num": 147229,
-      "word": "荣耀之战排名",
-      "onboard_time": 1769933899,
-      "rank": 23,
-      "category": "演出"
-    },
-    {
       "raw_hot": 425218,
       "num": 197566,
       "word": "高市早苗受伤了",
@@ -227,6 +235,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 402487,
+      "num": 613191,
+      "word": "井胧自曝录创造营感觉太差了",
+      "onboard_time": 1769933001,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 399740,
       "num": 399740,
       "word": "男子上完厕所突然离世妻子发声",
@@ -249,6 +265,14 @@
       "onboard_time": 1769867602,
       "rank": 3,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 379267,
+      "num": 190557,
+      "word": "TOP重回第一",
+      "onboard_time": 1769934624,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 372064,
@@ -299,12 +323,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 337915,
-      "num": 613191,
-      "word": "井胧自曝录创造营感觉太差了",
-      "onboard_time": 1769933001,
-      "rank": 14,
-      "category": "综艺"
+      "raw_hot": 314129,
+      "num": 188031,
+      "word": "whywhywhy没上榜",
+      "onboard_time": 1769936061,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 311542,
@@ -369,14 +393,6 @@
       "onboard_time": 1769921778,
       "rank": 33,
       "category": "财经"
-    },
-    {
-      "raw_hot": 271740,
-      "num": 162727,
-      "word": "TOP重回第一",
-      "onboard_time": 1769934624,
-      "rank": 24,
-      "category": "演出"
     },
     {
       "raw_hot": 270991,
@@ -555,20 +571,20 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 219776,
-      "num": 160560,
-      "word": "沉香如屑",
-      "onboard_time": 1769935823,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 217958,
       "num": 217958,
       "word": "花楼 小白熊",
       "onboard_time": 1769926760,
       "rank": 8,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 217671,
+      "num": 217671,
+      "word": "澳网男单决赛",
+      "onboard_time": 1769936180,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 214676,
@@ -585,6 +601,14 @@
       "onboard_time": 1769909058,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 210031,
+      "num": 210031,
+      "word": "德约科维奇vs阿尔卡拉斯",
+      "onboard_time": 1769936302,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 208890,
@@ -651,6 +675,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 191174,
+      "num": 191174,
+      "word": "深圳水贝挤满了人",
+      "onboard_time": 1769937080,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 190837,
       "num": 178249,
       "word": "蓝莓记得别买太大的",
@@ -688,6 +720,14 @@
       "word": "刘耀文玩空气手机",
       "onboard_time": 1769924179,
       "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 165382,
+      "num": 150006,
+      "word": "黄子韬 你要退圈啊",
+      "onboard_time": 1769935460,
+      "rank": 30,
       "category": "综艺"
     },
     {
@@ -819,12 +859,36 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 138342,
+      "num": 128298,
+      "word": "爱泼斯坦案最后一批文件曝光",
+      "onboard_time": 1769937620,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 137795,
+      "num": 137795,
+      "word": "李在明怒斥侮辱慰安妇团体人面兽心",
+      "onboard_time": 1769933721,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 136877,
       "num": 136877,
       "word": "张桂源王橹杰陈浚铭还要长多高",
       "onboard_time": 1769928020,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 135949,
+      "num": 135949,
+      "word": "生命树云合",
+      "onboard_time": 1769937080,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 135547,
@@ -883,20 +947,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 128851,
+      "num": 147492,
+      "word": "男子连中10万元和特等奖却异常冷静",
+      "onboard_time": 1769935220,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127094,
+      "num": 127094,
+      "word": "花楼回应",
+      "onboard_time": 1769938761,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 126790,
+      "num": 175704,
+      "word": "德约科维奇1比0阿尔卡拉斯",
+      "onboard_time": 1769938341,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 125731,
       "num": 125731,
       "word": "全球抛售美国",
       "onboard_time": 1769863522,
       "rank": 19,
       "category": "财经"
-    },
-    {
-      "raw_hot": 123808,
-      "num": 123196,
-      "word": "黄子韬 你要退圈啊",
-      "onboard_time": 1769935460,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 123353,
@@ -929,14 +1009,6 @@
       "onboard_time": 1769924000,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 119873,
-      "num": 119873,
-      "word": "澳网男单决赛",
-      "onboard_time": 1769936180,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 114503,
@@ -995,20 +1067,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 110696,
+      "num": 110696,
+      "word": "闭嘴跳舞",
+      "onboard_time": 1769938580,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 110682,
       "num": 110682,
       "word": "穆祉丞 谢谢你们",
       "onboard_time": 1769868803,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 110663,
-      "num": 123217,
-      "word": "李在明怒斥侮辱慰安妇团体人面兽心",
-      "onboard_time": 1769933721,
-      "rank": 28,
-      "category": "国际时政"
     },
     {
       "raw_hot": 110158,
@@ -1051,12 +1123,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 105224,
+      "num": 115032,
+      "word": "3种健康好喝不易胖的奶茶",
+      "onboard_time": 1769934142,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
       "raw_hot": 104430,
       "num": 104430,
       "word": "SM和时代峰峻推双人组合了",
       "onboard_time": 1769919200,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 104329,
+      "num": 104329,
+      "word": "GEN对战HLE",
+      "onboard_time": 1769936542,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 103731,
@@ -1155,20 +1243,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 93669,
-      "num": 93669,
-      "word": "3种健康好喝不易胖的奶茶",
-      "onboard_time": 1769934142,
-      "rank": 36,
-      "category": "美食"
-    },
-    {
       "raw_hot": 93055,
       "num": 93055,
       "word": "炽热吸引",
       "onboard_time": 1769910260,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 92927,
+      "num": 92927,
+      "word": "杨紫回复刘诗诗说谢谢姐姐",
+      "onboard_time": 1769936241,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 92685,
+      "num": 92685,
+      "word": "黄金行情结束了吗",
+      "onboard_time": 1769936781,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 92282,
@@ -1185,14 +1281,6 @@
       "onboard_time": 1769903477,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 91129,
-      "num": 91129,
-      "word": "whywhywhy没上榜",
-      "onboard_time": 1769936061,
-      "rank": 42,
-      "category": "演出"
     },
     {
       "raw_hot": 90328,
@@ -1235,6 +1323,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 89366,
+      "num": 89366,
+      "word": "女性最需要练的肌肉是盆底肌",
+      "onboard_time": 1769937980,
+      "rank": 44,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 89103,
       "num": 84878,
       "word": "八千的工资老板希望我做八万的工作",
@@ -1257,6 +1353,14 @@
       "onboard_time": 1769922320,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 88614,
+      "num": 88614,
+      "word": "王橹杰月光下的白玫瑰",
+      "onboard_time": 1769938702,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 88347,
@@ -1305,6 +1409,14 @@
       "onboard_time": 1769916739,
       "rank": 34,
       "category": "数码"
+    },
+    {
+      "raw_hot": 85412,
+      "num": 85412,
+      "word": "林俊杰北京演唱会",
+      "onboard_time": 1769937021,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 85199,
@@ -1369,6 +1481,14 @@
       "onboard_time": 1769923701,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 80387,
+      "num": 104637,
+      "word": "TF四代在WhyWhyWhy 刘耀文在哇哇哇",
+      "onboard_time": 1769938042,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 80263,
@@ -1699,14 +1819,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 54662,
-      "num": 147492,
-      "word": "男子连中10万元和特等奖却异常冷静",
-      "onboard_time": 1769935220,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 54446,
       "num": 55431,
       "word": "男子假冒飞行员与100多名女性暧昧",
@@ -1819,6 +1931,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 38366,
+      "num": 642112,
+      "word": "2026春节首日车票开售",
+      "onboard_time": 1769937501,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37409,
       "num": 40439,
       "word": "李昀锐吃吃吃的一个月",
@@ -1849,6 +1969,14 @@
       "onboard_time": 1769877858,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 36939,
+      "num": 110998,
+      "word": "顾客进店发现没人亲自下厨并留下饭钱",
+      "onboard_time": 1769938702,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 36870,
@@ -2043,6 +2171,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 13180,
+      "num": 189846,
+      "word": "和喵娲娲一起解锁明星摸头杀",
+      "onboard_time": 1769936421,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 12176,
       "num": 22103,
       "word": "CBA",
@@ -2065,6 +2201,9 @@
     },
     {
       "word": "#推动我国未来产业发展不断取得新突破#"
+    },
+    {
+      "word": "#总书记关心的未来产业#"
     }
   ]
 }

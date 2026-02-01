@@ -1,0 +1,410 @@
+{
+  "runTime": 1769938788793,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 539319,
+        "num": 1086291,
+        "word": "在意失联博士床上四件套用了7年",
+        "onboard_time": 1769934020,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 252894,
+        "num": 811933,
+        "word": "名侦探柯南声明",
+        "onboard_time": 1769909240,
+        "rank": 1,
+        "category": "民生新闻,动漫"
+      },
+      {
+        "raw_hot": 38366,
+        "num": 642112,
+        "word": "2026春节首日车票开售",
+        "onboard_time": 1769937501,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 617577,
+        "num": 617577,
+        "word": "沉香如屑",
+        "onboard_time": 1769935823,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217671,
+        "num": 217671,
+        "word": "澳网男单决赛",
+        "onboard_time": 1769936180,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1528237,
+        "num": 217060,
+        "word": "爱泼斯坦案诡异照片曝光",
+        "onboard_time": 1769931861,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 402487,
+        "num": 213863,
+        "word": "井胧自曝录创造营感觉太差了",
+        "onboard_time": 1769933001,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272638,
+        "num": 213228,
+        "word": "小户型去客厅化",
+        "onboard_time": 1769929942,
+        "rank": 7,
+        "category": "休闲,情感"
+      },
+      {
+        "raw_hot": 210031,
+        "num": 210031,
+        "word": "德约科维奇vs阿尔卡拉斯",
+        "onboard_time": 1769936302,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191174,
+        "num": 191174,
+        "word": "深圳水贝挤满了人",
+        "onboard_time": 1769937080,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 608921,
+        "num": 191108,
+        "word": "爱泼斯坦遗嘱把萝莉岛留给女友",
+        "onboard_time": 1769930779,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 490212,
+        "num": 190667,
+        "word": "张桂源哭了",
+        "onboard_time": 1769934382,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 379267,
+        "num": 190557,
+        "word": "TOP重回第一",
+        "onboard_time": 1769934624,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 339786,
+        "num": 190131,
+        "word": "爱泼斯坦与女孩在房间里跳舞",
+        "onboard_time": 1769928861,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 13180,
+        "num": 189846,
+        "word": "和喵娲娲一起解锁明星摸头杀",
+        "onboard_time": 1769936421,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 189664,
+        "num": 189664,
+        "word": "花楼 小白熊",
+        "onboard_time": 1769926760,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 314129,
+        "num": 188031,
+        "word": "whywhywhy没上榜",
+        "onboard_time": 1769936061,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 210986,
+        "num": 181911,
+        "word": "安德鲁在女性身上跪爬被拍",
+        "onboard_time": 1769922740,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 208374,
+        "num": 177309,
+        "word": "苏新皓哭了",
+        "onboard_time": 1769927840,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 126790,
+        "num": 175704,
+        "word": "德约科维奇1比0阿尔卡拉斯",
+        "onboard_time": 1769938341,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 671102,
+        "num": 172107,
+        "word": "刘晓庆回应周扬青",
+        "onboard_time": 1769931440,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 491646,
+        "num": 165169,
+        "word": "荣耀之战排名",
+        "onboard_time": 1769933899,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 164507,
+        "num": 164507,
+        "word": "爱泼斯坦",
+        "onboard_time": 1769866882,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 258638,
+        "num": 154666,
+        "word": "穆祉丞 但求一刻你能倾听我",
+        "onboard_time": 1769930479,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 165382,
+        "num": 150006,
+        "word": "黄子韬 你要退圈啊",
+        "onboard_time": 1769935460,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137795,
+        "num": 137795,
+        "word": "李在明怒斥侮辱慰安妇团体人面兽心",
+        "onboard_time": 1769933721,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 160454,
+        "num": 137412,
+        "word": "微博之夜",
+        "onboard_time": 1769928980,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 135949,
+        "num": 135949,
+        "word": "生命树云合",
+        "onboard_time": 1769937080,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133803,
+        "num": 133803,
+        "word": "小猫喝玉米水",
+        "onboard_time": 1769931741,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 128851,
+        "num": 128851,
+        "word": "男子连中10万元和特等奖却异常冷静",
+        "onboard_time": 1769935220,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138342,
+        "num": 128298,
+        "word": "爱泼斯坦案最后一批文件曝光",
+        "onboard_time": 1769937620,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 127094,
+        "num": 127094,
+        "word": "花楼回应",
+        "onboard_time": 1769938761,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 116167,
+        "num": 116167,
+        "word": "刘子瑞宣布退圈",
+        "onboard_time": 1769932640,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115346,
+        "num": 115346,
+        "word": "荣耀之战",
+        "onboard_time": 1769929820,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 105224,
+        "num": 115032,
+        "word": "3种健康好喝不易胖的奶茶",
+        "onboard_time": 1769934142,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 114845,
+        "num": 114845,
+        "word": "李心艾老公宣布退圈",
+        "onboard_time": 1769922679,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36939,
+        "num": 110998,
+        "word": "顾客进店发现没人亲自下厨并留下饭钱",
+        "onboard_time": 1769938702,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110696,
+        "num": 110696,
+        "word": "闭嘴跳舞",
+        "onboard_time": 1769938580,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 106260,
+        "num": 106260,
+        "word": "曝金宣虎逃税",
+        "onboard_time": 1769925740,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80387,
+        "num": 104637,
+        "word": "TF四代在WhyWhyWhy 刘耀文在哇哇哇",
+        "onboard_time": 1769938042,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104329,
+        "num": 104329,
+        "word": "GEN对战HLE",
+        "onboard_time": 1769936542,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 97112,
+        "num": 97112,
+        "word": "一诺客串了电视剧年少有为",
+        "onboard_time": 1769929762,
+        "rank": 41,
+        "category": "电竞,剧集"
+      },
+      {
+        "raw_hot": 92927,
+        "num": 92927,
+        "word": "杨紫回复刘诗诗说谢谢姐姐",
+        "onboard_time": 1769936241,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92685,
+        "num": 92685,
+        "word": "黄金行情结束了吗",
+        "onboard_time": 1769936781,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 89366,
+        "num": 89366,
+        "word": "女性最需要练的肌肉是盆底肌",
+        "onboard_time": 1769937980,
+        "rank": 44,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 88614,
+        "num": 88614,
+        "word": "王橹杰月光下的白玫瑰",
+        "onboard_time": 1769938702,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 85896,
+        "num": 85896,
+        "word": "30年前黄金80一克女子囤了几公斤",
+        "onboard_time": 1769928080,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92156,
+        "num": 85879,
+        "word": "生命树 杨紫演技",
+        "onboard_time": 1769933781,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85570,
+        "num": 85570,
+        "word": "爱泼斯坦文件爆比尔盖茨曾患性病",
+        "onboard_time": 1769925260,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 85412,
+        "num": 85412,
+        "word": "林俊杰北京演唱会",
+        "onboard_time": 1769937021,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记关心的未来产业#"
+    }
+  }
+}
