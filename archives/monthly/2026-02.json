@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1769957592095,
+  "endTime": 1769960034981,
   "band_list": [
     {
       "raw_hot": 2197530,
@@ -41,6 +41,14 @@
       "onboard_time": 1769952201,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1444681,
+      "num": 213022,
+      "word": "萝莉岛",
+      "onboard_time": 1769955561,
+      "rank": 24,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1149380,
@@ -91,6 +99,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 958958,
+      "num": 1100194,
+      "word": "爱泼斯坦案视频曝光",
+      "onboard_time": 1769950642,
+      "rank": 45,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 942834,
       "num": 1150853,
       "word": "微博之夜第七波阵容",
@@ -137,14 +153,6 @@
       "onboard_time": 1769929942,
       "rank": 5,
       "category": "休闲,情感"
-    },
-    {
-      "raw_hot": 736073,
-      "num": 1100194,
-      "word": "爱泼斯坦案视频曝光",
-      "onboard_time": 1769950642,
-      "rank": 45,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 733893,
@@ -361,14 +369,6 @@
       "onboard_time": 1769947700,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 469162,
-      "num": 213022,
-      "word": "萝莉岛",
-      "onboard_time": 1769955561,
-      "rank": 24,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 463342,
@@ -779,6 +779,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 240839,
+      "num": 175143,
+      "word": "王一钧 YG首位签约内地艺人",
+      "onboard_time": 1769957122,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 238732,
       "num": 176771,
       "word": "翁青雅早期街头丘比特采访",
@@ -851,6 +859,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 226220,
+      "num": 226220,
+      "word": "皇马",
+      "onboard_time": 1769958682,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 224453,
       "num": 205635,
       "word": "汪东城也嗑王玉雯陈星旭",
@@ -891,6 +907,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 215072,
+      "num": 215072,
+      "word": "卤味三巨头半年闭店超5300家",
+      "onboard_time": 1769956462,
+      "rank": 9,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 214676,
       "num": 214676,
       "word": "新密码和旧密码不能相同",
@@ -913,6 +937,14 @@
       "onboard_time": 1769870063,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 207034,
+      "num": 171553,
+      "word": "SM年会",
+      "onboard_time": 1769959581,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 204200,
@@ -1003,6 +1035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 186014,
+      "num": 163403,
+      "word": "王一博简笔画",
+      "onboard_time": 1769958323,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 176700,
       "num": 176700,
       "word": "员工发个红包把老板月薪发出去了",
@@ -1027,11 +1067,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 172788,
+      "num": 172788,
+      "word": "果然勇敢的女生先享受人生",
+      "onboard_time": 1769958082,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 172717,
       "num": 165309,
       "word": "丁程鑫拍的宋亚轩",
       "onboard_time": 1769945121,
       "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 172264,
+      "num": 156408,
+      "word": "王俊凯爬山",
+      "onboard_time": 1769957003,
+      "rank": 28,
       "category": "艺人"
     },
     {
@@ -1107,14 +1163,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 156408,
-      "num": 156408,
-      "word": "王俊凯爬山",
-      "onboard_time": 1769957003,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 155860,
       "num": 155860,
       "word": "王橹杰月光下的白玫瑰",
@@ -1137,14 +1185,6 @@
       "onboard_time": 1769931978,
       "rank": 18,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 153242,
-      "num": 215010,
-      "word": "卤味三巨头半年闭店超5300家",
-      "onboard_time": 1769956462,
-      "rank": 9,
-      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 151684,
@@ -1267,6 +1307,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 141548,
+      "num": 127771,
+      "word": "徐明浩直播",
+      "onboard_time": 1769959341,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141544,
       "num": 255419,
       "word": "央视揭黄金回收套路",
@@ -1321,6 +1369,14 @@
       "onboard_time": 1769921239,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 138958,
+      "num": 138958,
+      "word": "洛杉矶市长候选人女儿路边身亡",
+      "onboard_time": 1769959460,
+      "rank": 28,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 137850,
@@ -1403,14 +1459,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 134275,
-      "num": 134275,
-      "word": "王一钧 YG首位签约内地艺人",
-      "onboard_time": 1769957122,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 132806,
       "num": 182211,
       "word": "黄金白银创单日暴跌纪录",
@@ -1467,6 +1515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 129356,
+      "num": 124515,
+      "word": "肖战简笔画唇下痣",
+      "onboard_time": 1769959581,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 129280,
       "num": 129280,
       "word": "闭嘴跳舞",
@@ -1481,6 +1537,14 @@
       "onboard_time": 1769935220,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 128651,
+      "num": 128651,
+      "word": "印度总理也上了爱泼斯坦文件",
+      "onboard_time": 1769958023,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 127094,
@@ -1529,6 +1593,14 @@
       "onboard_time": 1769863522,
       "rank": 19,
       "category": "财经"
+    },
+    {
+      "raw_hot": 123604,
+      "num": 123604,
+      "word": "荣耀之战 谁的扣子",
+      "onboard_time": 1769958682,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 123590,
@@ -1643,6 +1715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 113429,
+      "num": 126117,
+      "word": "广州地铁",
+      "onboard_time": 1769958802,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 113242,
       "num": 113242,
       "word": "英首相呼吁王弟安德鲁向美国会做证",
@@ -1716,7 +1796,7 @@
     },
     {
       "raw_hot": 110882,
-      "num": 120150,
+      "num": 129769,
       "word": "抗炎蔬菜界的五虎将",
       "onboard_time": 1769956641,
       "rank": 42,
@@ -2651,6 +2731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 62807,
+      "num": 89813,
+      "word": "一本医学生逃离三甲医院涌入社区",
+      "onboard_time": 1769958742,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 62086,
       "num": 62086,
       "word": "发明洗澡吃橙子的人是个天才",
@@ -2681,6 +2769,14 @@
       "onboard_time": 1769902157,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 60167,
+      "num": 173868,
+      "word": "爷爷每年都给孙子买根金条当礼物",
+      "onboard_time": 1769959761,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 59902,
@@ -2889,6 +2985,14 @@
       "onboard_time": 1769856141,
       "rank": 44,
       "category": "财经"
+    },
+    {
+      "raw_hot": 36777,
+      "num": 116769,
+      "word": "北京大爷刚买500克又买300克金条",
+      "onboard_time": 1769959822,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 36011,
