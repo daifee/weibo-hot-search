@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1769951112932,
+  "endTime": 1769952389891,
   "band_list": [
     {
       "raw_hot": 2197530,
@@ -179,6 +179,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 620470,
+      "num": 179695,
+      "word": "昀牵孟绕",
+      "onboard_time": 1769951182,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 619338,
       "num": 617577,
       "word": "沉香如屑",
@@ -291,7 +299,7 @@
       "category": "财经"
     },
     {
-      "raw_hot": 489434,
+      "raw_hot": 499446,
       "num": 836302,
       "word": "微博之夜",
       "onboard_time": 1769864362,
@@ -305,6 +313,14 @@
       "onboard_time": 1769923100,
       "rank": 5,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 471575,
+      "num": 471575,
+      "word": "永兴银楼1.75吨纯银每克6.88元拍卖",
+      "onboard_time": 1769947700,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 455666,
@@ -353,14 +369,6 @@
       "onboard_time": 1769911580,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 427250,
-      "num": 427250,
-      "word": "永兴银楼1.75吨纯银每克6.88元拍卖",
-      "onboard_time": 1769947700,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 425218,
@@ -859,6 +867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194889,
+      "num": 138234,
+      "word": "爱泼斯坦案视频曝光",
+      "onboard_time": 1769950642,
+      "rank": 45,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 194839,
       "num": 188765,
       "word": "花少8网传最新阵容",
@@ -873,6 +889,14 @@
       "onboard_time": 1769946261,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 192838,
+      "num": 189770,
+      "word": "宋茜说韩语梦回维多利亚",
+      "onboard_time": 1769946082,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 191384,
@@ -891,12 +915,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 189770,
-      "num": 189770,
-      "word": "宋茜说韩语梦回维多利亚",
-      "onboard_time": 1769946082,
-      "rank": 39,
-      "category": "电影"
+      "raw_hot": 189049,
+      "num": 177616,
+      "word": "周柯宇杀青",
+      "onboard_time": 1769949381,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 188063,
@@ -963,6 +987,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 164677,
+      "num": 164677,
+      "word": "丈夫半年收集妻子掉发细心熨烫保存",
+      "onboard_time": 1769946922,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 162190,
       "num": 162190,
       "word": "狗 有本事你今天洗死我",
@@ -993,22 +1025,6 @@
       "onboard_time": 1769938702,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 154661,
-      "num": 154661,
-      "word": "丈夫半年收集妻子掉发细心熨烫保存",
-      "onboard_time": 1769946922,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 153585,
-      "num": 153585,
-      "word": "周柯宇杀青",
-      "onboard_time": 1769949381,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 153559,
@@ -1083,6 +1099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 144863,
+      "num": 144863,
+      "word": "方瑾崔雨鑫直播",
+      "onboard_time": 1769951362,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 144552,
       "num": 144552,
       "word": "有罪之身大结局",
@@ -1097,6 +1121,14 @@
       "onboard_time": 1769910381,
       "rank": 17,
       "category": "财经"
+    },
+    {
+      "raw_hot": 142369,
+      "num": 142369,
+      "word": "731部队生产细菌总量足以毁灭全人类",
+      "onboard_time": 1769947221,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 141436,
@@ -1177,14 +1209,6 @@
       "onboard_time": 1769947460,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 135688,
-      "num": 135688,
-      "word": "731部队生产细菌总量足以毁灭全人类",
-      "onboard_time": 1769947221,
-      "rank": 34,
-      "category": "国内时政"
     },
     {
       "raw_hot": 135547,
@@ -1371,6 +1395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 118396,
+      "num": 118396,
+      "word": "VOGUE",
+      "onboard_time": 1769950942,
+      "rank": 44,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 118277,
       "num": 118277,
       "word": "GEN战胜HLE",
@@ -1395,6 +1427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 113242,
+      "num": 113242,
+      "word": "英首相呼吁王弟安德鲁向美国会做证",
+      "onboard_time": 1769949501,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 112828,
       "num": 112828,
       "word": "ally用韩语和韩国男演员秀恩爱",
@@ -1409,6 +1449,14 @@
       "onboard_time": 1769909360,
       "rank": 27,
       "category": "财经"
+    },
+    {
+      "raw_hot": 112404,
+      "num": 118647,
+      "word": "高中生爱跷二郎腿起床突然下肢瘫痪",
+      "onboard_time": 1769950521,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112112,
@@ -1523,6 +1571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 105252,
+      "num": 105252,
+      "word": "国投白银紧急辟谣",
+      "onboard_time": 1769951782,
+      "rank": 42,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 104775,
       "num": 181792,
       "word": "顾客进店发现没人亲自下厨并留下饭钱",
@@ -1571,12 +1627,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 101208,
-      "num": 101208,
-      "word": "VOGUE",
-      "onboard_time": 1769950942,
-      "rank": 44,
-      "category": "时尚"
+      "raw_hot": 101304,
+      "num": 101304,
+      "word": "牢A高志凯连麦",
+      "onboard_time": 1769952261,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 101166,
@@ -1601,14 +1657,6 @@
       "onboard_time": 1769922799,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 99991,
-      "num": 99991,
-      "word": "爱泼斯坦案视频曝光",
-      "onboard_time": 1769950642,
-      "rank": 45,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 99726,
@@ -1641,6 +1689,14 @@
       "onboard_time": 1769941581,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 97397,
+      "num": 97397,
+      "word": "XLG启点赛对阵EDG",
+      "onboard_time": 1769952322,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 97141,
@@ -2003,14 +2059,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 82614,
-      "num": 118647,
-      "word": "高中生爱跷二郎腿起床突然下肢瘫痪",
-      "onboard_time": 1769950521,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 81415,
       "num": 81415,
       "word": "咪的jio怎么可以顶这么多东西",
@@ -2195,6 +2243,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 73766,
+      "num": 153890,
+      "word": "专家谈羽绒服越贵越好卖",
+      "onboard_time": 1769950942,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 73632,
       "num": 77715,
       "word": "多家银行就贵金属紧急提醒",
@@ -2281,6 +2337,14 @@
       "onboard_time": 1769911759,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 67264,
+      "num": 178464,
+      "word": "韩国总统怒斥是个人都不能说这种话",
+      "onboard_time": 1769951723,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 66690,
@@ -2515,6 +2579,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 42127,
+      "num": 112240,
+      "word": "秦牛正威回应订婚后分手",
+      "onboard_time": 1769952201,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 41089,
       "num": 51401,
       "word": "4个奇奇怪怪却改善体态的动作",
@@ -2577,14 +2649,6 @@
       "onboard_time": 1769920279,
       "rank": 40,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 35294,
-      "num": 153890,
-      "word": "专家谈羽绒服越贵越好卖",
-      "onboard_time": 1769950942,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 34736,
@@ -2659,6 +2723,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 31160,
+      "num": 651313,
+      "word": "社区救命标志有了新国标",
+      "onboard_time": 1769950401,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30675,
       "num": 464592,
       "word": "哈尔滨义乌合肥宜宾分会场亮相",
@@ -2723,14 +2795,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 23441,
-      "num": 651313,
-      "word": "社区救命标志有了新国标",
-      "onboard_time": 1769950401,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 20930,
       "num": 173875,
       "word": "喵娲娲为你当微博之夜嘴替",
@@ -2753,6 +2817,14 @@
       "onboard_time": 1769885655,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 19195,
+      "num": 178181,
+      "word": "旅客乘摆渡车往返两次仍未能上飞机",
+      "onboard_time": 1769951423,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19163,

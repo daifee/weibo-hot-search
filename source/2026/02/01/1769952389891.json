@@ -1,0 +1,410 @@
+{
+  "runTime": 1769952389891,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 813036,
+        "num": 1130085,
+        "word": "央视迎00后新主播",
+        "onboard_time": 1769945661,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 499446,
+        "num": 834988,
+        "word": "微博之夜",
+        "onboard_time": 1769928980,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 31160,
+        "num": 631474,
+        "word": "社区救命标志有了新国标",
+        "onboard_time": 1769950401,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2136940,
+        "num": 601888,
+        "word": "于文文演唱会晕倒",
+        "onboard_time": 1769948841,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 471575,
+        "num": 471575,
+        "word": "永兴银楼1.75吨纯银每克6.88元拍卖",
+        "onboard_time": 1769947700,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 397979,
+        "num": 397979,
+        "word": "武汉龙门吊倒塌事故致1死1伤",
+        "onboard_time": 1769946442,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 339665,
+        "num": 339665,
+        "word": "TOP不解散不单飞",
+        "onboard_time": 1769942121,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 260653,
+        "num": 260653,
+        "word": "阿尔卡拉斯夺冠",
+        "onboard_time": 1769946742,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 248435,
+        "num": 248435,
+        "word": "男子1650元买羽绒服全是飞丝报警",
+        "onboard_time": 1769941581,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180501,
+        "num": 180501,
+        "word": "六小时了 它还在我胃里游",
+        "onboard_time": 1769940081,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 820800,
+        "num": 180383,
+        "word": "金晨道歉后为何仍被揪着不放",
+        "onboard_time": 1769944821,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 701372,
+        "num": 180074,
+        "word": "为什么有女性不做美甲",
+        "onboard_time": 1769941461,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 675853,
+        "num": 179821,
+        "word": "爱泼斯坦案诡异照片曝光",
+        "onboard_time": 1769931861,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 620470,
+        "num": 179695,
+        "word": "昀牵孟绕",
+        "onboard_time": 1769951182,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 426018,
+        "num": 179423,
+        "word": "女演员补缴7千提取13年前囤的白银",
+        "onboard_time": 1769945722,
+        "rank": 14,
+        "category": "艺人,财经"
+      },
+      {
+        "raw_hot": 242809,
+        "num": 179149,
+        "word": "爱泼斯坦追逐女孩视频有喘息声",
+        "onboard_time": 1769942662,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 264523,
+        "num": 179077,
+        "word": "张凯丽澄清4年前花少放醋事件",
+        "onboard_time": 1769944341,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237756,
+        "num": 178862,
+        "word": "成何体统定档节奏",
+        "onboard_time": 1769945661,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67264,
+        "num": 178464,
+        "word": "韩国总统怒斥是个人都不能说这种话",
+        "onboard_time": 1769951723,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 19195,
+        "num": 178181,
+        "word": "旅客乘摆渡车往返两次仍未能上飞机",
+        "onboard_time": 1769951423,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222490,
+        "num": 178141,
+        "word": "爱泼斯坦与女孩在房间里跳舞",
+        "onboard_time": 1769928861,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 192838,
+        "num": 177914,
+        "word": "宋茜说韩语梦回维多利亚",
+        "onboard_time": 1769946082,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 189049,
+        "num": 177616,
+        "word": "周柯宇杀青",
+        "onboard_time": 1769949381,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182949,
+        "num": 177287,
+        "word": "爱泼斯坦案最后一批文件曝光",
+        "onboard_time": 1769937620,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 177253,
+        "num": 177253,
+        "word": "沉香如屑",
+        "onboard_time": 1769935823,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172280,
+        "num": 172280,
+        "word": "穆祉丞说不愧对任何人",
+        "onboard_time": 1769946082,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 164677,
+        "num": 164677,
+        "word": "丈夫半年收集妻子掉发细心熨烫保存",
+        "onboard_time": 1769946922,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144863,
+        "num": 144863,
+        "word": "方瑾崔雨鑫直播",
+        "onboard_time": 1769951362,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142369,
+        "num": 142369,
+        "word": "731部队生产细菌总量足以毁灭全人类",
+        "onboard_time": 1769947221,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 138511,
+        "num": 138511,
+        "word": "HLE无缘季后赛",
+        "onboard_time": 1769943800,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 194889,
+        "num": 138234,
+        "word": "爱泼斯坦案视频曝光",
+        "onboard_time": 1769950642,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 136917,
+        "num": 136917,
+        "word": "穆祉丞 但求一刻你能倾听我",
+        "onboard_time": 1769930479,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 134607,
+        "num": 134607,
+        "word": "爱泼斯坦遗嘱把萝莉岛留给女友",
+        "onboard_time": 1769930779,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 129420,
+        "num": 129420,
+        "word": "刘子瑞宣布退圈",
+        "onboard_time": 1769932640,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128960,
+        "num": 128960,
+        "word": "德约科维奇示意纳达尔帮忙打",
+        "onboard_time": 1769947460,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122080,
+        "num": 122080,
+        "word": "有罪之身大结局",
+        "onboard_time": 1769945481,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118396,
+        "num": 118396,
+        "word": "VOGUE",
+        "onboard_time": 1769950942,
+        "rank": 36,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 113242,
+        "num": 113242,
+        "word": "英首相呼吁王弟安德鲁向美国会做证",
+        "onboard_time": 1769949501,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 112404,
+        "num": 112404,
+        "word": "高中生爱跷二郎腿起床突然下肢瘫痪",
+        "onboard_time": 1769950521,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42127,
+        "num": 112240,
+        "word": "秦牛正威回应订婚后分手",
+        "onboard_time": 1769952201,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73766,
+        "num": 112159,
+        "word": "专家谈羽绒服越贵越好卖",
+        "onboard_time": 1769950942,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112159,
+        "num": 112158,
+        "word": "丁程鑫拍的宋亚轩",
+        "onboard_time": 1769945121,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105252,
+        "num": 105252,
+        "word": "国投白银紧急辟谣",
+        "onboard_time": 1769951782,
+        "rank": 42,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 105222,
+        "num": 105222,
+        "word": "朱志鑫下台也哭了",
+        "onboard_time": 1769946261,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 104761,
+        "num": 104761,
+        "word": "寿司郎小肌鱼",
+        "onboard_time": 1769946801,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 104696,
+        "num": 104696,
+        "word": "荣耀之战TOP赢了",
+        "onboard_time": 1769939422,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 102737,
+        "num": 102737,
+        "word": "爱泼斯坦案最新爆料",
+        "onboard_time": 1769944401,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 102036,
+        "num": 102036,
+        "word": "德约科维奇vs阿尔卡拉斯",
+        "onboard_time": 1769936302,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101304,
+        "num": 101304,
+        "word": "牢A高志凯连麦",
+        "onboard_time": 1769952261,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97397,
+        "num": 97397,
+        "word": "XLG启点赛对阵EDG",
+        "onboard_time": 1769952322,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#开年首月中国何以掀起外交热潮#"
+    }
+  }
+}
