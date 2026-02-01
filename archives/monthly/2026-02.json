@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1769922525286,
+  "endTime": 1769924726561,
   "band_list": [
     {
       "raw_hot": 1144759,
@@ -19,6 +19,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 715551,
+      "num": 174100,
+      "word": "李心艾老公宣布退圈",
+      "onboard_time": 1769922679,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 696592,
       "num": 252981,
       "word": "王一博春晚彩排要清场的原因",
@@ -35,6 +43,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 624421,
+      "num": 174028,
+      "word": "安德鲁在女性身上跪爬被拍",
+      "onboard_time": 1769922740,
+      "rank": 11,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 587503,
       "num": 869542,
       "word": "名侦探柯南声明",
@@ -44,7 +60,7 @@
     },
     {
       "raw_hot": 553155,
-      "num": 166056,
+      "num": 173945,
       "word": "女星放弃抢救老公遭儿子责怪",
       "onboard_time": 1769919140,
       "rank": 10,
@@ -75,6 +91,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 473423,
+      "num": 278650,
+      "word": "订房订到狗窝了",
+      "onboard_time": 1769923100,
+      "rank": 5,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 455551,
+      "num": 173964,
+      "word": "摄影界让张凌赫闯进去了",
+      "onboard_time": 1769921300,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 432180,
       "num": 393071,
       "word": "央妈逗王一博",
@@ -84,7 +116,7 @@
     },
     {
       "raw_hot": 414377,
-      "num": 161698,
+      "num": 168810,
       "word": "成龙回复金喜善",
       "onboard_time": 1769919980,
       "rank": 12,
@@ -131,6 +163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 349658,
+      "num": 349658,
+      "word": "花儿与少年8",
+      "onboard_time": 1769919740,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 311542,
       "num": 208011,
       "word": "冉莹颖儿子曹格儿子钟丽缇女儿同框",
@@ -140,7 +180,7 @@
     },
     {
       "raw_hot": 311178,
-      "num": 160910,
+      "num": 163581,
       "word": "赖冠霖WANNAONE手写信",
       "onboard_time": 1769919980,
       "rank": 13,
@@ -179,12 +219,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 279466,
-      "num": 279466,
-      "word": "花儿与少年8",
-      "onboard_time": 1769919740,
-      "rank": 4,
-      "category": "综艺"
+      "raw_hot": 279770,
+      "num": 279770,
+      "word": "金价遭遇过山车",
+      "onboard_time": 1769921778,
+      "rank": 33,
+      "category": "财经"
     },
     {
       "raw_hot": 270991,
@@ -235,6 +275,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 247592,
+      "num": 247592,
+      "word": "胡歌回复刘诗诗",
+      "onboard_time": 1769922861,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 246665,
       "num": 246665,
       "word": "特朗普称就格陵兰岛谈判将达成一致",
@@ -248,6 +296,14 @@
       "word": "翁青雅早期街头丘比特采访",
       "onboard_time": 1769871742,
       "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 233873,
+      "num": 160997,
+      "word": "热巴二月行程",
+      "onboard_time": 1769922799,
+      "rank": 24,
       "category": "艺人"
     },
     {
@@ -283,6 +339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 223409,
+      "num": 223409,
+      "word": "二胎家庭的老二天生求生欲更强",
+      "onboard_time": 1769924121,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 219808,
       "num": 219808,
       "word": "名侦探柯南",
@@ -313,14 +377,6 @@
       "onboard_time": 1769870063,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 204390,
-      "num": 150380,
-      "word": "摄影界让张凌赫闯进去了",
-      "onboard_time": 1769921300,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 204200,
@@ -379,12 +435,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 175204,
+      "num": 165256,
+      "word": "银川发生持刀伤人案件致1死",
+      "onboard_time": 1769921300,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 173656,
+      "num": 173656,
+      "word": "高市早苗受伤了",
+      "onboard_time": 1769922500,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 173045,
       "num": 173045,
       "word": "第一眼以为给肖战开美颜了",
       "onboard_time": 1769901916,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 167945,
+      "num": 157112,
+      "word": "刘耀文玩空气手机",
+      "onboard_time": 1769924179,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 157577,
@@ -441,6 +521,14 @@
       "onboard_time": 1769910381,
       "rank": 17,
       "category": "财经"
+    },
+    {
+      "raw_hot": 140214,
+      "num": 140214,
+      "word": "黄子韬戚薇 一个比一个敢说",
+      "onboard_time": 1769923521,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 140146,
@@ -539,6 +627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121312,
+      "num": 95509,
+      "word": "刘萧旭又要让玫瑰窃贼火一次了",
+      "onboard_time": 1769924000,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 112774,
       "num": 112774,
       "word": "有色板块暴跌",
@@ -561,6 +657,14 @@
       "onboard_time": 1769921601,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 111269,
+      "num": 111269,
+      "word": "狗 有本事你今天洗死我",
+      "onboard_time": 1769924420,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 110682,
@@ -595,14 +699,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 105394,
-      "num": 105394,
-      "word": "金价遭遇过山车",
-      "onboard_time": 1769921778,
-      "rank": 33,
-      "category": "财经"
-    },
-    {
       "raw_hot": 104430,
       "num": 104430,
       "word": "SM和时代峰峻推双人组合了",
@@ -627,8 +723,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 100765,
-      "num": 100765,
+      "raw_hot": 100900,
+      "num": 152315,
       "word": "微博之夜阵容汇总",
       "onboard_time": 1769920220,
       "rank": 37,
@@ -643,12 +739,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 96900,
+      "num": 152311,
+      "word": "日本滑雪场再出严重致死事故",
+      "onboard_time": 1769922979,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 96496,
       "num": 89550,
       "word": "TF荣耀之战 刘耀文澡堂之争",
       "onboard_time": 1769920100,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 96075,
+      "num": 96075,
+      "word": "为什么普通人现在不愿意贷款买房了",
+      "onboard_time": 1769922799,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 95402,
@@ -707,6 +819,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 89103,
+      "num": 84878,
+      "word": "八千的工资老板希望我做八万的工作",
+      "onboard_time": 1769922921,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 88765,
       "num": 88765,
       "word": "光与夜之恋",
@@ -747,12 +867,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 86286,
-      "num": 88794,
-      "word": "银川发生持刀伤人案件致1死",
-      "onboard_time": 1769921300,
-      "rank": 45,
-      "category": "民生新闻"
+      "raw_hot": 85275,
+      "num": 85275,
+      "word": "瘦的人可以和食物和平共处",
+      "onboard_time": 1769924240,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 81133,
@@ -771,12 +891,28 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 80405,
+      "num": 80405,
+      "word": "鸭舌标价89元默认1斤结账发现是半斤",
+      "onboard_time": 1769923701,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 79375,
       "num": 79375,
       "word": "佟大为新剧洪世贤看了都得喊哥",
       "onboard_time": 1769914521,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 78943,
+      "num": 78943,
+      "word": "刘雨昕上台忘记带美瞳",
+      "onboard_time": 1769923040,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 78437,
@@ -793,6 +929,14 @@
       "onboard_time": 1769856200,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 75931,
+      "num": 147229,
+      "word": "90后班主任晚自习带学生涮火锅",
+      "onboard_time": 1769922020,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 75877,
@@ -841,6 +985,14 @@
       "onboard_time": 1769909780,
       "rank": 41,
       "category": "财经"
+    },
+    {
+      "raw_hot": 73211,
+      "num": 73211,
+      "word": "小鹏机器人首秀摔趴被抬走",
+      "onboard_time": 1769924481,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 72423,
@@ -971,6 +1123,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 60829,
+      "num": 675707,
+      "word": "国产电力心脏全球爆单",
+      "onboard_time": 1769920700,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 60577,
       "num": 60577,
       "word": "Peanut被封号",
@@ -1009,14 +1169,6 @@
       "onboard_time": 1769857522,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 54585,
-      "num": 89314,
-      "word": "高市早苗受伤了",
-      "onboard_time": 1769922500,
-      "rank": 43,
-      "category": "国际时政"
     },
     {
       "raw_hot": 54446,
@@ -1187,14 +1339,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 34291,
-      "num": 147229,
-      "word": "90后班主任晚自习带学生涮火锅",
-      "onboard_time": 1769922020,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 34206,
       "num": 84561,
       "word": "女子回应台风中救25人荣誉被冒领",
@@ -1225,14 +1369,6 @@
       "onboard_time": 1769880797,
       "rank": 40,
       "category": "演出"
-    },
-    {
-      "raw_hot": 31139,
-      "num": 675025,
-      "word": "国产电力心脏全球爆单",
-      "onboard_time": 1769920700,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 30675,
@@ -1292,7 +1428,7 @@
     },
     {
       "raw_hot": 20930,
-      "num": 157006,
+      "num": 173875,
       "word": "喵娲娲为你当微博之夜嘴替",
       "onboard_time": 1769922080,
       "rank": 14,
