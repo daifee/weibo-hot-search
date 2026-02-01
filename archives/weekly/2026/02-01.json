@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1769938788793,
+  "endTime": 1769939675557,
   "band_list": [
     {
       "raw_hot": 1809688,
@@ -59,6 +59,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 725815,
+      "num": 646905,
+      "word": "刘晓庆回应周扬青",
+      "onboard_time": 1769931440,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 715551,
       "num": 213704,
       "word": "李心艾老公宣布退圈",
@@ -76,19 +84,19 @@
     },
     {
       "raw_hot": 686621,
-      "num": 222980,
+      "num": 230781,
       "word": "张桂源哭了",
       "onboard_time": 1769934382,
       "rank": 11,
       "category": "演出"
     },
     {
-      "raw_hot": 671102,
-      "num": 646905,
-      "word": "刘晓庆回应周扬青",
-      "onboard_time": 1769931440,
-      "rank": 36,
-      "category": "综艺"
+      "raw_hot": 683466,
+      "num": 170795,
+      "word": "荣耀之战排名",
+      "onboard_time": 1769933899,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 636694,
@@ -107,7 +115,7 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 617577,
+      "raw_hot": 619338,
       "num": 617577,
       "word": "沉香如屑",
       "onboard_time": 1769935823,
@@ -171,12 +179,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 491646,
-      "num": 165169,
-      "word": "荣耀之战排名",
-      "onboard_time": 1769933899,
-      "rank": 23,
-      "category": "演出"
+      "raw_hot": 481986,
+      "num": 481986,
+      "word": "深圳水贝挤满了人",
+      "onboard_time": 1769937080,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 473423,
@@ -196,7 +204,7 @@
     },
     {
       "raw_hot": 452932,
-      "num": 220525,
+      "num": 228753,
       "word": "爱泼斯坦与女孩在房间里跳舞",
       "onboard_time": 1769928861,
       "rank": 35,
@@ -225,6 +233,14 @@
       "onboard_time": 1769919980,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 413957,
+      "num": 413957,
+      "word": "TOP重回第一",
+      "onboard_time": 1769934624,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 406062,
@@ -265,14 +281,6 @@
       "onboard_time": 1769867602,
       "rank": 3,
       "category": "民生新闻,财经"
-    },
-    {
-      "raw_hot": 379267,
-      "num": 190557,
-      "word": "TOP重回第一",
-      "onboard_time": 1769934624,
-      "rank": 24,
-      "category": "演出"
     },
     {
       "raw_hot": 372064,
@@ -324,7 +332,7 @@
     },
     {
       "raw_hot": 314129,
-      "num": 188031,
+      "num": 220249,
       "word": "whywhywhy没上榜",
       "onboard_time": 1769936061,
       "rank": 42,
@@ -443,6 +451,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 252697,
+      "num": 752223,
+      "word": "荣耀之战TOP赢了",
+      "onboard_time": 1769939422,
+      "rank": 1,
+      "category": "演出"
+    },
+    {
       "raw_hot": 251403,
       "num": 251403,
       "word": "韦东奕正式获聘北大长聘副教授",
@@ -507,6 +523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 232977,
+      "num": 232977,
+      "word": "德约科维奇vs阿尔卡拉斯",
+      "onboard_time": 1769936302,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 231674,
       "num": 231674,
       "word": "魏大勋说自己后悔去爬山",
@@ -537,6 +561,14 @@
       "onboard_time": 1769924959,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 227456,
+      "num": 227456,
+      "word": "澳网男单决赛",
+      "onboard_time": 1769936180,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 224453,
@@ -579,14 +611,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 217671,
-      "num": 217671,
-      "word": "澳网男单决赛",
-      "onboard_time": 1769936180,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 214676,
       "num": 214676,
       "word": "新密码和旧密码不能相同",
@@ -601,14 +625,6 @@
       "onboard_time": 1769909058,
       "rank": 14,
       "category": "情感"
-    },
-    {
-      "raw_hot": 210031,
-      "num": 210031,
-      "word": "德约科维奇vs阿尔卡拉斯",
-      "onboard_time": 1769936302,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 208890,
@@ -675,14 +691,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 191174,
-      "num": 191174,
-      "word": "深圳水贝挤满了人",
-      "onboard_time": 1769937080,
-      "rank": 9,
-      "category": "财经"
-    },
-    {
       "raw_hot": 190837,
       "num": 178249,
       "word": "蓝莓记得别买太大的",
@@ -715,6 +723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 169398,
+      "num": 169398,
+      "word": "爱泼斯坦案最后一批文件曝光",
+      "onboard_time": 1769937620,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 167945,
       "num": 157112,
       "word": "刘耀文玩空气手机",
@@ -745,6 +761,14 @@
       "onboard_time": 1769931741,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 159012,
+      "num": 159012,
+      "word": "GEN对战HLE",
+      "onboard_time": 1769936542,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 157577,
@@ -857,14 +881,6 @@
       "onboard_time": 1769921239,
       "rank": 23,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 138342,
-      "num": 128298,
-      "word": "爱泼斯坦案最后一批文件曝光",
-      "onboard_time": 1769937620,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 137795,
@@ -995,6 +1011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 122590,
+      "num": 122590,
+      "word": "闭嘴跳舞",
+      "onboard_time": 1769938580,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 121822,
       "num": 121822,
       "word": "烤鸡少年称不会真的买迈巴赫",
@@ -1067,14 +1091,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 110696,
-      "num": 110696,
-      "word": "闭嘴跳舞",
-      "onboard_time": 1769938580,
-      "rank": 37,
-      "category": "演出"
-    },
-    {
       "raw_hot": 110682,
       "num": 110682,
       "word": "穆祉丞 谢谢你们",
@@ -1099,12 +1115,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 108548,
+      "num": 108548,
+      "word": "王橹杰月光下的白玫瑰",
+      "onboard_time": 1769938702,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 107238,
       "num": 107238,
       "word": "陈奕恒外套斜穿",
       "onboard_time": 1769930420,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 106887,
+      "num": 159224,
+      "word": "3种健康好喝不易胖的奶茶",
+      "onboard_time": 1769934142,
+      "rank": 36,
+      "category": "美食"
     },
     {
       "raw_hot": 106760,
@@ -1123,28 +1155,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 105224,
-      "num": 115032,
-      "word": "3种健康好喝不易胖的奶茶",
-      "onboard_time": 1769934142,
-      "rank": 36,
-      "category": "美食"
-    },
-    {
       "raw_hot": 104430,
       "num": 104430,
       "word": "SM和时代峰峻推双人组合了",
       "onboard_time": 1769919200,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 104329,
-      "num": 104329,
-      "word": "GEN对战HLE",
-      "onboard_time": 1769936542,
-      "rank": 40,
-      "category": "电竞"
     },
     {
       "raw_hot": 103731,
@@ -1195,6 +1211,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 96629,
+      "num": 96629,
+      "word": "德约状态好牛",
+      "onboard_time": 1769939181,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 96496,
       "num": 89550,
       "word": "TF荣耀之战 刘耀文澡堂之争",
@@ -1243,20 +1267,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 93519,
+      "num": 93519,
+      "word": "杨紫回复刘诗诗说谢谢姐姐",
+      "onboard_time": 1769936241,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 93055,
       "num": 93055,
       "word": "炽热吸引",
       "onboard_time": 1769910260,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 92927,
-      "num": 92927,
-      "word": "杨紫回复刘诗诗说谢谢姐姐",
-      "onboard_time": 1769936241,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 92685,
@@ -1355,14 +1379,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 88614,
-      "num": 88614,
-      "word": "王橹杰月光下的白玫瑰",
-      "onboard_time": 1769938702,
-      "rank": 45,
-      "category": "演出"
-    },
-    {
       "raw_hot": 88347,
       "num": 88347,
       "word": "什么情况下容易猝死",
@@ -1393,6 +1409,14 @@
       "onboard_time": 1769935042,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 86839,
+      "num": 86839,
+      "word": "长期主义",
+      "onboard_time": 1769939600,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 86493,
@@ -1505,6 +1529,14 @@
       "onboard_time": 1769933721,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 80025,
+      "num": 105171,
+      "word": "内娱来了个炮仗型女主",
+      "onboard_time": 1769939061,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 79375,
@@ -1803,6 +1835,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 58454,
+      "num": 181792,
+      "word": "顾客进店发现没人亲自下厨并留下饭钱",
+      "onboard_time": 1769938702,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58397,
       "num": 59509,
       "word": "伊朗阿巴斯港一栋居民楼传出爆炸声",
@@ -1899,6 +1939,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 44840,
+      "num": 185234,
+      "word": "甲骨文被曝或裁员30000人",
+      "onboard_time": 1769939000,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44786,
       "num": 44786,
       "word": "美伊开战的可能性有多大",
@@ -1969,14 +2017,6 @@
       "onboard_time": 1769877858,
       "rank": 40,
       "category": "演出"
-    },
-    {
-      "raw_hot": 36939,
-      "num": 110998,
-      "word": "顾客进店发现没人亲自下厨并留下饭钱",
-      "onboard_time": 1769938702,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 36870,
@@ -2155,6 +2195,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 18037,
+      "num": 123010,
+      "word": "假冒军人诈骗的海王被抓了",
+      "onboard_time": 1769939540,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 17867,
       "num": 21343,
       "word": "黄霄雲深圳收官站",
@@ -2172,7 +2220,7 @@
     },
     {
       "raw_hot": 13180,
-      "num": 189846,
+      "num": 227784,
       "word": "和喵娲娲一起解锁明星摸头杀",
       "onboard_time": 1769936421,
       "rank": 14,
