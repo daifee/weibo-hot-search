@@ -1,7 +1,15 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1769914632750,
+  "endTime": 1769917124828,
   "band_list": [
+    {
+      "raw_hot": 1144759,
+      "num": 1183161,
+      "word": "元宝红包",
+      "onboard_time": 1769915059,
+      "rank": 0,
+      "category": "互联网"
+    },
     {
       "raw_hot": 1017231,
       "num": 1162757,
@@ -28,7 +36,7 @@
     },
     {
       "raw_hot": 546333,
-      "num": 206329,
+      "num": 249550,
       "word": "爱泼斯坦",
       "onboard_time": 1769866882,
       "rank": 10,
@@ -52,7 +60,7 @@
     },
     {
       "raw_hot": 432180,
-      "num": 208862,
+      "num": 393071,
       "word": "央妈逗王一博",
       "onboard_time": 1769911580,
       "rank": 10,
@@ -75,12 +83,28 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 375167,
+      "num": 252981,
+      "word": "王一博春晚彩排要清场的原因",
+      "onboard_time": 1769914459,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 372064,
       "num": 121211,
       "word": "内娱唯一说微调结果没人信的人",
       "onboard_time": 1769864000,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 365210,
+      "num": 365210,
+      "word": "深圳水贝金价暴跌市民扎堆买金",
+      "onboard_time": 1769912182,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 358296,
@@ -92,7 +116,7 @@
     },
     {
       "raw_hot": 311542,
-      "num": 207814,
+      "num": 208011,
       "word": "冉莹颖儿子曹格儿子钟丽缇女儿同框",
       "onboard_time": 1769911280,
       "rank": 11,
@@ -105,6 +129,14 @@
       "onboard_time": 1769901977,
       "rank": 4,
       "category": "财经"
+    },
+    {
+      "raw_hot": 296120,
+      "num": 842348,
+      "word": "93年男员工为了生孩子辞职",
+      "onboard_time": 1769915899,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 291558,
@@ -131,12 +163,36 @@
       "category": "网红"
     },
     {
+      "raw_hot": 253411,
+      "num": 253411,
+      "word": "北京黑色羽绒服选美大赛",
+      "onboard_time": 1769912423,
+      "rank": 6,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 251403,
       "num": 251403,
       "word": "韦东奕正式获聘北大长聘副教授",
       "onboard_time": 1769905399,
       "rank": 5,
       "category": "教育"
+    },
+    {
+      "raw_hot": 251051,
+      "num": 251051,
+      "word": "张杰五天抽了25克黄金",
+      "onboard_time": 1769914399,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 246665,
+      "num": 246665,
+      "word": "特朗普称就格陵兰岛谈判将达成一致",
+      "onboard_time": 1769914701,
+      "rank": 13,
+      "category": "国际时政"
     },
     {
       "raw_hot": 238732,
@@ -153,14 +209,6 @@
       "onboard_time": 1769870783,
       "rank": 5,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 231299,
-      "num": 231299,
-      "word": "北京黑色羽绒服选美大赛",
-      "onboard_time": 1769912423,
-      "rank": 6,
-      "category": "幽默"
     },
     {
       "raw_hot": 229813,
@@ -203,14 +251,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 209378,
-      "num": 209378,
-      "word": "深圳水贝金价暴跌市民扎堆买金",
-      "onboard_time": 1769912182,
-      "rank": 9,
-      "category": "财经"
-    },
-    {
       "raw_hot": 208890,
       "num": 208890,
       "word": "太平年改档",
@@ -251,8 +291,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194839,
+      "num": 188765,
+      "word": "花少8网传最新阵容",
+      "onboard_time": 1769913260,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 190837,
-      "num": 133029,
+      "num": 159864,
       "word": "蓝莓记得别买太大的",
       "onboard_time": 1769908819,
       "rank": 20,
@@ -265,6 +313,14 @@
       "onboard_time": 1769876179,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 183185,
+      "num": 183185,
+      "word": "元宝口令",
+      "onboard_time": 1769916560,
+      "rank": 20,
+      "category": "互联网"
     },
     {
       "raw_hot": 173045,
@@ -283,6 +339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 150244,
+      "num": 150244,
+      "word": "沈腾说我现在气没消呢",
+      "onboard_time": 1769916200,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 150220,
       "num": 150220,
       "word": "微博之夜阵容官宣",
@@ -296,14 +360,6 @@
       "word": "孟子义一道题得罪所有人",
       "onboard_time": 1769871982,
       "rank": 16,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 145632,
-      "num": 144304,
-      "word": "花少8网传最新阵容",
-      "onboard_time": 1769913260,
-      "rank": 18,
       "category": "综艺"
     },
     {
@@ -329,14 +385,6 @@
       "onboard_time": 1769872042,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 133185,
-      "num": 133185,
-      "word": "王一博春晚彩排要清场的原因",
-      "onboard_time": 1769914459,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 132806,
@@ -387,8 +435,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 119940,
-      "num": 119940,
+      "raw_hot": 123243,
+      "num": 123243,
       "word": "宋威龙赵今麦伟大的龙麦风味",
       "onboard_time": 1769912899,
       "rank": 26,
@@ -435,6 +483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 102428,
+      "num": 102428,
+      "word": "高干文最严厉的父亲母亲来了",
+      "onboard_time": 1769915420,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 97767,
       "num": 97767,
       "word": "刘雨昕陈伟霆双人舞好辣",
@@ -449,6 +505,14 @@
       "onboard_time": 1769874980,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93881,
+      "num": 93881,
+      "word": "应急管理部坚决拥护党中央决定",
+      "onboard_time": 1769915359,
+      "rank": 32,
+      "category": "国内时政"
     },
     {
       "raw_hot": 93055,
@@ -467,6 +531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 90328,
+      "num": 90328,
+      "word": "塞尔维亚偶遇周也吃火锅",
+      "onboard_time": 1769913921,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 88005,
       "num": 88005,
       "word": "内娱现挂迎来了它最严厉的父亲",
@@ -483,12 +555,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 82266,
-      "num": 82266,
-      "word": "塞尔维亚偶遇周也吃火锅",
-      "onboard_time": 1769913921,
-      "rank": 36,
-      "category": "艺人"
+      "raw_hot": 86354,
+      "num": 86354,
+      "word": "iPhone均价曝光",
+      "onboard_time": 1769916739,
+      "rank": 34,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 81133,
+      "num": 81133,
+      "word": "跳闸为什么不能用手硬推",
+      "onboard_time": 1769916681,
+      "rank": 35,
+      "category": "科学科普"
     },
     {
       "raw_hot": 80573,
@@ -499,12 +579,12 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 80498,
-      "num": 80498,
-      "word": "张杰五天抽了25克黄金",
-      "onboard_time": 1769914399,
-      "rank": 37,
-      "category": "演出"
+      "raw_hot": 79375,
+      "num": 79375,
+      "word": "佟大为新剧洪世贤看了都得喊哥",
+      "onboard_time": 1769914521,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 78437,
@@ -547,6 +627,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 74829,
+      "num": 193543,
+      "word": "迪丽热巴交出眼镜攻略",
+      "onboard_time": 1769916799,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 74543,
       "num": 74543,
       "word": "生命树收视逆跌",
@@ -579,6 +667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 69321,
+      "num": 69321,
+      "word": "阿尔卡拉斯vs德约科维奇",
+      "onboard_time": 1769916621,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 69036,
       "num": 69036,
       "word": "意大利农村留学的一天",
@@ -593,6 +689,14 @@
       "onboard_time": 1769868021,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 68238,
+      "num": 68238,
+      "word": "家中7个地方是霉菌重灾区",
+      "onboard_time": 1769916140,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 67534,
@@ -619,6 +723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 66251,
+      "num": 66251,
+      "word": "3个月没工资还干得起劲",
+      "onboard_time": 1769917098,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 65603,
       "num": 65603,
       "word": "小猫 我空气都要闻干了",
@@ -635,12 +747,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 65182,
-      "num": 65182,
-      "word": "佟大为新剧洪世贤看了都得喊哥",
-      "onboard_time": 1769914521,
-      "rank": 48,
-      "category": "剧集"
+      "raw_hot": 65361,
+      "num": 65361,
+      "word": "马年春晚",
+      "onboard_time": 1769917039,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 63639,
@@ -851,6 +963,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 34736,
+      "num": 144895,
+      "word": "百余人参加所谓公益助学被骗上千万",
+      "onboard_time": 1769915899,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34488,
       "num": 40368,
       "word": "曝iPhoneFold为电池容量最大iPhone",
@@ -891,6 +1011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 30125,
+      "num": 76551,
+      "word": "淘汰大批中成药或与医保控费有关",
+      "onboard_time": 1769917098,
+      "rank": 39,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 29820,
       "num": 40113,
       "word": "杰我睿客户称兑付方案或打2折",
@@ -907,6 +1035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 24137,
+      "num": 69558,
+      "word": "求学逆袭王周信静母校发声",
+      "onboard_time": 1769915899,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23531,
       "num": 23531,
       "word": "惊蛰无声",
@@ -916,7 +1052,7 @@
     },
     {
       "raw_hot": 20329,
-      "num": 680509,
+      "num": 698907,
       "word": "已发售春运火车票超5000万张",
       "onboard_time": 1769869042,
       "rank": 2,
