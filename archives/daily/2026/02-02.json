@@ -1,6 +1,6 @@
 {
   "startTime": 1769964003289,
-  "endTime": 1769986305597,
+  "endTime": 1769988846691,
   "band_list": [
     {
       "raw_hot": 1614466,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1115481,
-      "num": 382892,
+      "num": 384935,
       "word": "于文文演唱会晕倒",
       "onboard_time": 1769948841,
       "rank": 3,
@@ -43,6 +43,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 540085,
+      "num": 874069,
+      "word": "金价暴跌后回收变现火爆",
+      "onboard_time": 1769979855,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
       "raw_hot": 429047,
       "num": 317257,
       "word": "爱泼斯坦案视频曝光",
@@ -59,6 +67,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 368545,
+      "num": 298169,
+      "word": "孙卓坦言刚回归家庭时曾有轻生念头",
+      "onboard_time": 1769987597,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 349465,
       "num": 757320,
       "word": "微博之夜第七波阵容",
@@ -67,8 +83,16 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 327010,
+      "num": 327010,
+      "word": "领导疯狂劝酒员工喝完口吐鲜血",
+      "onboard_time": 1769964499,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 317320,
-      "num": 534136,
+      "num": 655160,
       "word": "洛杉矶市长候选人女儿路边身亡",
       "onboard_time": 1769959460,
       "rank": 1,
@@ -99,14 +123,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 234259,
-      "num": 234259,
-      "word": "领导疯狂劝酒员工喝完口吐鲜血",
-      "onboard_time": 1769964499,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 228469,
       "num": 178462,
       "word": "金晨道歉后为何仍被揪着不放",
@@ -115,12 +131,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 212034,
-      "num": 212034,
-      "word": "金价暴跌后回收变现火爆",
-      "onboard_time": 1769979855,
-      "rank": 31,
-      "category": "财经"
+      "raw_hot": 224107,
+      "num": 528710,
+      "word": "爱泼斯坦案多名受害者指控特朗普",
+      "onboard_time": 1769960481,
+      "rank": 25,
+      "category": "国际时政"
     },
     {
       "raw_hot": 210154,
@@ -147,6 +163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 177581,
+      "num": 218345,
+      "word": "爱泼斯坦案曝安德鲁王子跪地照",
+      "onboard_time": 1769988078,
+      "rank": 7,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 172251,
       "num": 137625,
       "word": "昀牵孟绕",
@@ -163,12 +187,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 156755,
-      "num": 528710,
-      "word": "爱泼斯坦案多名受害者指控特朗普",
-      "onboard_time": 1769960481,
-      "rank": 25,
-      "category": "国际时政"
+      "raw_hot": 163933,
+      "num": 163933,
+      "word": "金价",
+      "onboard_time": 1769988378,
+      "rank": 13,
+      "category": "财经"
     },
     {
       "raw_hot": 149894,
@@ -235,6 +259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 106627,
+      "num": 93145,
+      "word": "在低端餐厅不吃用花生做的菜",
+      "onboard_time": 1769988019,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 99544,
       "num": 93503,
       "word": "杨幂出席微博之夜",
@@ -251,6 +283,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 93622,
+      "num": 93622,
+      "word": "男婴洗澡久盯浴霸灯右眼永久弱视",
+      "onboard_time": 1769988137,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 91214,
+      "num": 91214,
+      "word": "生命树",
+      "onboard_time": 1769987356,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 89936,
       "num": 89936,
       "word": "王一博郭富城 春晚合作",
@@ -265,6 +313,14 @@
       "onboard_time": 1769953943,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 88233,
+      "num": 87827,
+      "word": "欧美名流加速切割爱泼斯坦",
+      "onboard_time": 1769975834,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 85898,
@@ -315,6 +371,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 73002,
+      "num": 91791,
+      "word": "抗炎蔬菜界的五虎将",
+      "onboard_time": 1769956641,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 71043,
+      "num": 71043,
+      "word": "44岁二胎妈妈产后3年泪流不止",
+      "onboard_time": 1769988078,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 68824,
       "num": 68824,
       "word": "广州地铁",
@@ -347,12 +419,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 63015,
-      "num": 91791,
-      "word": "抗炎蔬菜界的五虎将",
-      "onboard_time": 1769956641,
-      "rank": 29,
-      "category": "健康医疗"
+      "raw_hot": 62956,
+      "num": 62956,
+      "word": "伊能静透露两星期瘦了10斤",
+      "onboard_time": 1769956403,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 61447,
@@ -360,14 +432,6 @@
       "word": "印度总理也上了爱泼斯坦文件",
       "onboard_time": 1769958023,
       "rank": 42,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 59100,
-      "num": 59100,
-      "word": "欧美名流加速切割爱泼斯坦",
-      "onboard_time": 1769975834,
-      "rank": 30,
       "category": "国际时政"
     },
     {
@@ -379,20 +443,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 58052,
+      "num": 58052,
+      "word": "刘晓庆 我多少岁关你们什么事",
+      "onboard_time": 1769955622,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 57038,
       "num": 57038,
       "word": "宋茜说韩语梦回维多利亚",
       "onboard_time": 1769946082,
       "rank": 44,
       "category": "电影"
-    },
-    {
-      "raw_hot": 56523,
-      "num": 56523,
-      "word": "刘晓庆 我多少岁关你们什么事",
-      "onboard_time": 1769955622,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 55832,
@@ -403,6 +467,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 54044,
+      "num": 56581,
+      "word": "第一批游戏主播开始演戏了",
+      "onboard_time": 1769954722,
+      "rank": 45,
+      "category": "游戏,剧集"
+    },
+    {
       "raw_hot": 53746,
       "num": 53745,
       "word": "生命树收视率再创新高",
@@ -411,12 +483,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 53693,
-      "num": 56581,
-      "word": "第一批游戏主播开始演戏了",
-      "onboard_time": 1769954722,
-      "rank": 45,
-      "category": "游戏,剧集"
+      "raw_hot": 53378,
+      "num": 483770,
+      "word": "多地年味浓度超标了",
+      "onboard_time": 1769949981,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 51381,
@@ -427,12 +499,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 49437,
+      "num": 74066,
+      "word": "檀健次卢昱晓侧颜同框路透",
+      "onboard_time": 1769968816,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 48760,
       "num": 53746,
       "word": "Homme又提LPL了",
       "onboard_time": 1769955561,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 48229,
+      "num": 48229,
+      "word": "爱泼斯坦案文件",
+      "onboard_time": 1769987777,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 45502,
+      "num": 45502,
+      "word": "回家过年",
+      "onboard_time": 1769988378,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 43269,
@@ -443,20 +539,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 35507,
-      "num": 74066,
-      "word": "檀健次卢昱晓侧颜同框路透",
-      "onboard_time": 1769968816,
-      "rank": 9,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 32228,
-      "num": 301847,
-      "word": "多地年味浓度超标了",
-      "onboard_time": 1769949981,
-      "rank": 2,
-      "category": "民生新闻"
+      "raw_hot": 36581,
+      "num": 36581,
+      "word": "宋亚轩感谢摄影大师丁程鑫",
+      "onboard_time": 1769968396,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 30527,
@@ -473,14 +561,6 @@
       "onboard_time": 1769955922,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 29900,
-      "num": 29900,
-      "word": "宋亚轩感谢摄影大师丁程鑫",
-      "onboard_time": 1769968396,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 29228,

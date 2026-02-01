@@ -1,0 +1,410 @@
+{
+  "runTime": 1769988846691,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 540085,
+        "num": 874069,
+        "word": "金价暴跌后回收变现火爆",
+        "onboard_time": 1769979855,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 229220,
+        "num": 655160,
+        "word": "洛杉矶市长候选人女儿路边身亡",
+        "onboard_time": 1769959460,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 53378,
+        "num": 483770,
+        "word": "多地年味浓度超标了",
+        "onboard_time": 1769949981,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 384935,
+        "num": 384935,
+        "word": "于文文演唱会晕倒",
+        "onboard_time": 1769948841,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 327010,
+        "num": 327010,
+        "word": "领导疯狂劝酒员工喝完口吐鲜血",
+        "onboard_time": 1769964499,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 368545,
+        "num": 298169,
+        "word": "孙卓坦言刚回归家庭时曾有轻生念头",
+        "onboard_time": 1769987597,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224107,
+        "num": 224107,
+        "word": "爱泼斯坦案多名受害者指控特朗普",
+        "onboard_time": 1769960481,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 177581,
+        "num": 218345,
+        "word": "爱泼斯坦案曝安德鲁王子跪地照",
+        "onboard_time": 1769988078,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 153492,
+        "num": 214251,
+        "word": "爷爷每年都给孙子买根金条当礼物",
+        "onboard_time": 1769959761,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115369,
+        "num": 205592,
+        "word": "央视迎00后新主播",
+        "onboard_time": 1769945661,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 995502,
+        "num": 195426,
+        "word": "萝莉岛",
+        "onboard_time": 1769955561,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 237436,
+        "num": 184603,
+        "word": "爱泼斯坦",
+        "onboard_time": 1769955622,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 182198,
+        "num": 182198,
+        "word": "于文文方报平安",
+        "onboard_time": 1769962400,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163933,
+        "num": 163933,
+        "word": "金价",
+        "onboard_time": 1769988378,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 129849,
+        "num": 129849,
+        "word": "金晨道歉后为何仍被揪着不放",
+        "onboard_time": 1769944821,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105449,
+        "num": 105449,
+        "word": "微博之夜第七波阵容",
+        "onboard_time": 1769956582,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 119108,
+        "num": 103383,
+        "word": "爱泼斯坦案视频曝光",
+        "onboard_time": 1769950642,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 99218,
+        "num": 99218,
+        "word": "王一博简笔画",
+        "onboard_time": 1769958323,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 98099,
+        "num": 98099,
+        "word": "SM年会",
+        "onboard_time": 1769959581,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93622,
+        "num": 93622,
+        "word": "男婴洗澡久盯浴霸灯右眼永久弱视",
+        "onboard_time": 1769988137,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 331644,
+        "num": 93522,
+        "word": "秦牛正威回应订婚后分手",
+        "onboard_time": 1769952201,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106627,
+        "num": 93145,
+        "word": "在低端餐厅不吃用花生做的菜",
+        "onboard_time": 1769988019,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 101722,
+        "num": 92734,
+        "word": "员工多看了一眼挽损1800万被奖1万",
+        "onboard_time": 1769959341,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91214,
+        "num": 91214,
+        "word": "生命树",
+        "onboard_time": 1769987356,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87930,
+        "num": 87930,
+        "word": "爱泼斯坦案诡异照片曝光",
+        "onboard_time": 1769931861,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 88233,
+        "num": 87827,
+        "word": "欧美名流加速切割爱泼斯坦",
+        "onboard_time": 1769975834,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 87582,
+        "num": 87582,
+        "word": "肖战要来微博之夜",
+        "onboard_time": 1769960421,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 73488,
+        "num": 73488,
+        "word": "昀牵孟绕",
+        "onboard_time": 1769951182,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 73002,
+        "num": 73002,
+        "word": "抗炎蔬菜界的五虎将",
+        "onboard_time": 1769956641,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 72992,
+        "num": 72992,
+        "word": "为什么有女性不做美甲",
+        "onboard_time": 1769941461,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 71043,
+        "num": 71043,
+        "word": "44岁二胎妈妈产后3年泪流不止",
+        "onboard_time": 1769988078,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70151,
+        "num": 70151,
+        "word": "中国最北宜家闭店前一日几乎被搬空",
+        "onboard_time": 1769952443,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67099,
+        "num": 67099,
+        "word": "爱泼斯坦追逐女孩视频有喘息声",
+        "onboard_time": 1769942662,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 66388,
+        "num": 66388,
+        "word": "彭昱畅新剧 两个宝贝员工出掉了",
+        "onboard_time": 1769963300,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 65668,
+        "num": 65668,
+        "word": "王一博郭富城 春晚合作",
+        "onboard_time": 1769953643,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 55325,
+        "num": 63620,
+        "word": "00后男子因感情受挫连杀2名路人",
+        "onboard_time": 1769960660,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62956,
+        "num": 62956,
+        "word": "伊能静透露两星期瘦了10斤",
+        "onboard_time": 1769956403,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 58052,
+        "num": 58052,
+        "word": "刘晓庆 我多少岁关你们什么事",
+        "onboard_time": 1769955622,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54044,
+        "num": 54044,
+        "word": "第一批游戏主播开始演戏了",
+        "onboard_time": 1769954722,
+        "rank": 38,
+        "category": "游戏,剧集"
+      },
+      {
+        "raw_hot": 49437,
+        "num": 49437,
+        "word": "檀健次卢昱晓侧颜同框路透",
+        "onboard_time": 1769968816,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48269,
+        "num": 48269,
+        "word": "王俊凯爬山",
+        "onboard_time": 1769957003,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48229,
+        "num": 48229,
+        "word": "爱泼斯坦案文件",
+        "onboard_time": 1769987777,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 46693,
+        "num": 46693,
+        "word": "印度总理也上了爱泼斯坦文件",
+        "onboard_time": 1769958023,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 45502,
+        "num": 45502,
+        "word": "回家过年",
+        "onboard_time": 1769988378,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 43058,
+        "num": 43058,
+        "word": "肖战简笔画唇下痣",
+        "onboard_time": 1769959581,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 42841,
+        "num": 42841,
+        "word": "微博之夜",
+        "onboard_time": 1769928980,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 42495,
+        "num": 42495,
+        "word": "男子1650元买羽绒服全是飞丝报警",
+        "onboard_time": 1769941581,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36592,
+        "num": 36592,
+        "word": "王一钧 YG首位签约内地艺人",
+        "onboard_time": 1769957122,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36581,
+        "num": 36581,
+        "word": "宋亚轩感谢摄影大师丁程鑫",
+        "onboard_time": 1769968396,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36379,
+        "num": 36379,
+        "word": "皇马",
+        "onboard_time": 1769958682,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#开年首月中国何以掀起外交热潮#"
+    }
+  }
+}
