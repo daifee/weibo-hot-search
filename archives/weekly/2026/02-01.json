@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1769917124828,
+  "endTime": 1769922525286,
   "band_list": [
     {
       "raw_hot": 1144759,
@@ -19,6 +19,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 696592,
+      "num": 252981,
+      "word": "王一博春晚彩排要清场的原因",
+      "onboard_time": 1769914459,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 636694,
       "num": 810273,
       "word": "太平年停更",
@@ -28,11 +36,19 @@
     },
     {
       "raw_hot": 587503,
-      "num": 587503,
+      "num": 869542,
       "word": "名侦探柯南声明",
       "onboard_time": 1769909240,
       "rank": 3,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 553155,
+      "num": 166056,
+      "word": "女星放弃抢救老公遭儿子责怪",
+      "onboard_time": 1769919140,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 546333,
@@ -67,6 +83,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 414377,
+      "num": 161698,
+      "word": "成龙回复金喜善",
+      "onboard_time": 1769919980,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 399740,
       "num": 399740,
       "word": "男子上完厕所突然离世妻子发声",
@@ -81,14 +105,6 @@
       "onboard_time": 1769867602,
       "rank": 3,
       "category": "民生新闻,财经"
-    },
-    {
-      "raw_hot": 375167,
-      "num": 252981,
-      "word": "王一博春晚彩排要清场的原因",
-      "onboard_time": 1769914459,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 372064,
@@ -123,12 +139,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 311178,
+      "num": 160910,
+      "word": "赖冠霖WANNAONE手写信",
+      "onboard_time": 1769919980,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 302332,
       "num": 302332,
       "word": "黄金暴跌的原因找到了",
       "onboard_time": 1769901977,
       "rank": 4,
       "category": "财经"
+    },
+    {
+      "raw_hot": 298952,
+      "num": 298952,
+      "word": "1集离谱2集爆笑3集笑炸了",
+      "onboard_time": 1769918300,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 296120,
@@ -145,6 +177,22 @@
       "onboard_time": 1769869223,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 279466,
+      "num": 279466,
+      "word": "花儿与少年8",
+      "onboard_time": 1769919740,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 270991,
+      "num": 270991,
+      "word": "元宝口令",
+      "onboard_time": 1769916560,
+      "rank": 20,
+      "category": "互联网"
     },
     {
       "raw_hot": 258639,
@@ -243,6 +291,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 214676,
+      "num": 214676,
+      "word": "新密码和旧密码不能相同",
+      "onboard_time": 1769920100,
+      "rank": 7,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 212343,
       "num": 204651,
       "word": "当你被父母养的很好",
@@ -257,6 +313,14 @@
       "onboard_time": 1769870063,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 204390,
+      "num": 150380,
+      "word": "摄影界让张凌赫闯进去了",
+      "onboard_time": 1769921300,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 204200,
@@ -315,14 +379,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 183185,
-      "num": 183185,
-      "word": "元宝口令",
-      "onboard_time": 1769916560,
-      "rank": 20,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 173045,
       "num": 173045,
       "word": "第一眼以为给肖战开美颜了",
@@ -355,6 +411,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 149130,
+      "num": 111288,
+      "word": "我的英雄学院曾因辱华遭全网抵制",
+      "onboard_time": 1769919440,
+      "rank": 30,
+      "category": "民生新闻,动漫"
+    },
+    {
       "raw_hot": 148817,
       "num": 148817,
       "word": "孟子义一道题得罪所有人",
@@ -377,6 +441,22 @@
       "onboard_time": 1769910381,
       "rank": 17,
       "category": "财经"
+    },
+    {
+      "raw_hot": 140146,
+      "num": 140146,
+      "word": "黄子韬5岁做过开颅手术",
+      "onboard_time": 1769921601,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 139250,
+      "num": 139250,
+      "word": "第五人格",
+      "onboard_time": 1769921239,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 135547,
@@ -411,6 +491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 130563,
+      "num": 130563,
+      "word": "总裁助理对总裁翻白眼",
+      "onboard_time": 1769918060,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129936,
       "num": 129936,
       "word": "周扬青说不打针靠打羽毛球吗",
@@ -443,12 +531,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 121822,
+      "num": 121822,
+      "word": "烤鸡少年称不会真的买迈巴赫",
+      "onboard_time": 1769920940,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 112774,
       "num": 112774,
       "word": "有色板块暴跌",
       "onboard_time": 1769909360,
       "rank": 27,
       "category": "财经"
+    },
+    {
+      "raw_hot": 112112,
+      "num": 112112,
+      "word": "985毕业生放弃几万月薪转行理发",
+      "onboard_time": 1769920581,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111380,
+      "num": 111380,
+      "word": "腾讯视频2月大剧片单",
+      "onboard_time": 1769921601,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 110682,
@@ -483,6 +595,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 105394,
+      "num": 105394,
+      "word": "金价遭遇过山车",
+      "onboard_time": 1769921778,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 104430,
+      "num": 104430,
+      "word": "SM和时代峰峻推双人组合了",
+      "onboard_time": 1769919200,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 103731,
+      "num": 103731,
+      "word": "小鹏机器人假人疑云后再翻车",
+      "onboard_time": 1769920880,
+      "rank": 35,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 102428,
       "num": 102428,
       "word": "高干文最严厉的父亲母亲来了",
@@ -491,12 +627,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 100765,
+      "num": 100765,
+      "word": "微博之夜阵容汇总",
+      "onboard_time": 1769920220,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 97767,
       "num": 97767,
       "word": "刘雨昕陈伟霆双人舞好辣",
       "onboard_time": 1769869942,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 96496,
+      "num": 89550,
+      "word": "TF荣耀之战 刘耀文澡堂之争",
+      "onboard_time": 1769920100,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 95402,
+      "num": 89405,
+      "word": "3个月没工资还干得起劲",
+      "onboard_time": 1769917098,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 94248,
@@ -539,6 +699,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 90101,
+      "num": 90101,
+      "word": "宜家为什么卖不动了",
+      "onboard_time": 1769917699,
+      "rank": 38,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 88765,
+      "num": 88765,
+      "word": "光与夜之恋",
+      "onboard_time": 1769922320,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 88347,
+      "num": 88347,
+      "word": "什么情况下容易猝死",
+      "onboard_time": 1769922141,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 88005,
       "num": 88005,
       "word": "内娱现挂迎来了它最严厉的父亲",
@@ -561,6 +745,14 @@
       "onboard_time": 1769916739,
       "rank": 34,
       "category": "数码"
+    },
+    {
+      "raw_hot": 86286,
+      "num": 88794,
+      "word": "银川发生持刀伤人案件致1死",
+      "onboard_time": 1769921300,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 81133,
@@ -723,14 +915,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 66251,
-      "num": 66251,
-      "word": "3个月没工资还干得起劲",
-      "onboard_time": 1769917098,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 65603,
       "num": 65603,
       "word": "小猫 我空气都要闻干了",
@@ -827,6 +1011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 54585,
+      "num": 89314,
+      "word": "高市早苗受伤了",
+      "onboard_time": 1769922500,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 54446,
       "num": 55431,
       "word": "男子假冒飞行员与100多名女性暧昧",
@@ -880,6 +1072,14 @@
       "word": "伊朗阿巴斯港一楼爆炸已致1死14伤",
       "onboard_time": 1769868262,
       "rank": 45,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 50131,
+      "num": 153776,
+      "word": "明尼阿波利斯人向世界求救",
+      "onboard_time": 1769922020,
+      "rank": 16,
       "category": "海外新闻"
     },
     {
@@ -963,6 +1163,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 36011,
+      "num": 89804,
+      "word": "吃鸡基础搭子就不基础",
+      "onboard_time": 1769920279,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 34736,
       "num": 144895,
       "word": "百余人参加所谓公益助学被骗上千万",
@@ -977,6 +1185,22 @@
       "onboard_time": 1769878997,
       "rank": 39,
       "category": "数码"
+    },
+    {
+      "raw_hot": 34291,
+      "num": 147229,
+      "word": "90后班主任晚自习带学生涮火锅",
+      "onboard_time": 1769922020,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34206,
+      "num": 84561,
+      "word": "女子回应台风中救25人荣誉被冒领",
+      "onboard_time": 1769921060,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 33867,
@@ -1001,6 +1225,14 @@
       "onboard_time": 1769880797,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 31139,
+      "num": 675025,
+      "word": "国产电力心脏全球爆单",
+      "onboard_time": 1769920700,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30675,
@@ -1049,6 +1281,22 @@
       "onboard_time": 1769889194,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 23529,
+      "num": 145859,
+      "word": "央视曝光假非遗背后的真骗局",
+      "onboard_time": 1769922260,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20930,
+      "num": 157006,
+      "word": "喵娲娲为你当微博之夜嘴替",
+      "onboard_time": 1769922080,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 20329,
@@ -1110,6 +1358,9 @@
   "hotgov_list": [
     {
       "word": "#中央政治局第二十四次集体学习#"
+    },
+    {
+      "word": "#推动我国未来产业发展不断取得新突破#"
     }
   ]
 }
