@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1769952389891,
+  "endTime": 1769954399593,
   "band_list": [
     {
       "raw_hot": 2197530,
@@ -25,6 +25,14 @@
       "onboard_time": 1769931861,
       "rank": 13,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1220450,
+      "num": 164618,
+      "word": "秦牛正威回应订婚后分手",
+      "onboard_time": 1769952201,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 1149380,
@@ -97,6 +105,14 @@
       "onboard_time": 1769940081,
       "rank": 5,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 849205,
+      "num": 179695,
+      "word": "昀牵孟绕",
+      "onboard_time": 1769951182,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 811116,
@@ -177,14 +193,6 @@
       "onboard_time": 1769922740,
       "rank": 11,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 620470,
-      "num": 179695,
-      "word": "昀牵孟绕",
-      "onboard_time": 1769951182,
-      "rank": 13,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 619338,
@@ -307,6 +315,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 484075,
+      "num": 172202,
+      "word": "王橹杰扔尾戒",
+      "onboard_time": 1769952982,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 473423,
       "num": 364637,
       "word": "订房订到狗窝了",
@@ -352,6 +368,14 @@
       "word": "爱泼斯坦与女孩在房间里跳舞",
       "onboard_time": 1769928861,
       "rank": 35,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 443151,
+      "num": 443151,
+      "word": "爱泼斯坦案视频曝光",
+      "onboard_time": 1769950642,
+      "rank": 45,
       "category": "海外新闻"
     },
     {
@@ -481,6 +505,14 @@
       "onboard_time": 1769936302,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 365940,
+      "num": 365940,
+      "word": "中国最北宜家闭店前一日几乎被搬空",
+      "onboard_time": 1769952443,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 365210,
@@ -707,6 +739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 237631,
+      "num": 177616,
+      "word": "周柯宇杀青",
+      "onboard_time": 1769949381,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 233980,
       "num": 180548,
       "word": "张桂源张函瑞双人舞台",
@@ -784,6 +824,14 @@
       "word": "二胎家庭的老二天生求生欲更强",
       "onboard_time": 1769924121,
       "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 221977,
+      "num": 160065,
+      "word": "王一博郭富城 春晚合作",
+      "onboard_time": 1769953643,
+      "rank": 21,
       "category": "综艺"
     },
     {
@@ -867,12 +915,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 194889,
-      "num": 138234,
-      "word": "爱泼斯坦案视频曝光",
-      "onboard_time": 1769950642,
-      "rank": 45,
-      "category": "海外新闻"
+      "raw_hot": 195242,
+      "num": 151850,
+      "word": "穆祉丞 捡戒指",
+      "onboard_time": 1769953943,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 194839,
@@ -913,14 +961,6 @@
       "onboard_time": 1769908819,
       "rank": 20,
       "category": "美食"
-    },
-    {
-      "raw_hot": 189049,
-      "num": 177616,
-      "word": "周柯宇杀青",
-      "onboard_time": 1769949381,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 188063,
@@ -1043,6 +1083,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 151684,
+      "num": 151684,
+      "word": "牢A高志凯连麦",
+      "onboard_time": 1769952261,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 150244,
       "num": 150244,
       "word": "沈腾说我现在气没消呢",
@@ -1091,6 +1139,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 148063,
+      "num": 148063,
+      "word": "高中生爱跷二郎腿起床突然下肢瘫痪",
+      "onboard_time": 1769950521,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 145371,
       "num": 193264,
       "word": "16岁烤鸡少年爆火一个月后的现状",
@@ -1121,6 +1177,14 @@
       "onboard_time": 1769910381,
       "rank": 17,
       "category": "财经"
+    },
+    {
+      "raw_hot": 142522,
+      "num": 128139,
+      "word": "追星女告白信 爱拿得出手",
+      "onboard_time": 1769939841,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 142369,
@@ -1169,6 +1233,14 @@
       "onboard_time": 1769921239,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 137850,
+      "num": 123294,
+      "word": "杨紫演技 生命树上鲜活的枝丫",
+      "onboard_time": 1769952501,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 137795,
@@ -1323,6 +1395,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 125748,
+      "num": 125748,
+      "word": "VOGUE",
+      "onboard_time": 1769950942,
+      "rank": 44,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 125731,
       "num": 125731,
       "word": "全球抛售美国",
@@ -1395,14 +1475,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 118396,
-      "num": 118396,
-      "word": "VOGUE",
-      "onboard_time": 1769950942,
-      "rank": 44,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 118277,
       "num": 118277,
       "word": "GEN战胜HLE",
@@ -1435,6 +1507,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 112885,
+      "num": 112885,
+      "word": "XLG启点赛对阵EDG",
+      "onboard_time": 1769952322,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 112828,
       "num": 112828,
       "word": "ally用韩语和韩国男演员秀恩爱",
@@ -1451,11 +1531,11 @@
       "category": "财经"
     },
     {
-      "raw_hot": 112404,
-      "num": 118647,
-      "word": "高中生爱跷二郎腿起床突然下肢瘫痪",
-      "onboard_time": 1769950521,
-      "rank": 39,
+      "raw_hot": 112389,
+      "num": 112388,
+      "word": "男子将金戒指藏汉堡老婆一口吞下",
+      "onboard_time": 1769953822,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -1505,6 +1585,14 @@
       "onboard_time": 1769936121,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 109698,
+      "num": 109698,
+      "word": "每天5分钟练出好气血",
+      "onboard_time": 1769954243,
+      "rank": 41,
+      "category": "运动健身"
     },
     {
       "raw_hot": 109483,
@@ -1571,6 +1659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 105952,
+      "num": 105952,
+      "word": "AL对战TES",
+      "onboard_time": 1769954302,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 105252,
       "num": 105252,
       "word": "国投白银紧急辟谣",
@@ -1603,12 +1699,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 104112,
+      "num": 178464,
+      "word": "韩国总统怒斥是个人都不能说这种话",
+      "onboard_time": 1769951723,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 103731,
       "num": 103731,
       "word": "小鹏机器人假人疑云后再翻车",
       "onboard_time": 1769920880,
       "rank": 35,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 103660,
+      "num": 103660,
+      "word": "Homme向HLE粉丝道歉",
+      "onboard_time": 1769953222,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 103183,
@@ -1625,14 +1737,6 @@
       "onboard_time": 1769915420,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 101304,
-      "num": 101304,
-      "word": "牢A高志凯连麦",
-      "onboard_time": 1769952261,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 101166,
@@ -1689,14 +1793,6 @@
       "onboard_time": 1769941581,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 97397,
-      "num": 97397,
-      "word": "XLG启点赛对阵EDG",
-      "onboard_time": 1769952322,
-      "rank": 49,
-      "category": "电竞"
     },
     {
       "raw_hot": 97141,
@@ -1881,14 +1977,6 @@
       "onboard_time": 1769929220,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 90234,
-      "num": 90234,
-      "word": "追星女告白信 爱拿得出手",
-      "onboard_time": 1769939841,
-      "rank": 49,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 90101,
@@ -2339,14 +2427,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 67264,
-      "num": 178464,
-      "word": "韩国总统怒斥是个人都不能说这种话",
-      "onboard_time": 1769951723,
-      "rank": 18,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 66690,
       "num": 66690,
       "word": "沈腾 不方便的话全让AI说了",
@@ -2515,6 +2595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 51058,
+      "num": 112389,
+      "word": "男子因感冒换上两颗人工心脏",
+      "onboard_time": 1769953461,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50940,
       "num": 50940,
       "word": "王鹤棣一把抢过孟子义的手捧花",
@@ -2579,12 +2667,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 42127,
-      "num": 112240,
-      "word": "秦牛正威回应订婚后分手",
-      "onboard_time": 1769952201,
-      "rank": 39,
-      "category": "艺人"
+      "raw_hot": 41359,
+      "num": 112521,
+      "word": "台湾人刷到太平年",
+      "onboard_time": 1769954302,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 41089,
