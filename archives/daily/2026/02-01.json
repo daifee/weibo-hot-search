@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1769943254556,
+  "endTime": 1769945386016,
   "band_list": [
     {
       "raw_hot": 1809688,
@@ -17,6 +17,14 @@
       "onboard_time": 1769931861,
       "rank": 13,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1149380,
+      "num": 290310,
+      "word": "为什么有女性不做美甲",
+      "onboard_time": 1769941461,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 1144759,
@@ -43,6 +51,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 983065,
+      "num": 596728,
+      "word": "TOP不解散不单飞",
+      "onboard_time": 1769942121,
+      "rank": 3,
+      "category": "演出"
+    },
+    {
       "raw_hot": 889560,
       "num": 1142329,
       "word": "荣耀之战TOP赢了",
@@ -57,14 +73,6 @@
       "onboard_time": 1769940081,
       "rank": 5,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 819851,
-      "num": 596728,
-      "word": "TOP不解散不单飞",
-      "onboard_time": 1769942121,
-      "rank": 3,
-      "category": "演出"
     },
     {
       "raw_hot": 811116,
@@ -163,20 +171,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 588532,
+      "num": 1094165,
+      "word": "男子1650元买羽绒服全是飞丝报警",
+      "onboard_time": 1769941581,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 587503,
       "num": 1074832,
       "word": "名侦探柯南声明",
       "onboard_time": 1769909240,
       "rank": 3,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 553863,
-      "num": 290310,
-      "word": "为什么有女性不做美甲",
-      "onboard_time": 1769941461,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 553155,
@@ -209,6 +217,14 @@
       "onboard_time": 1769902097,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 523494,
+      "num": 523494,
+      "word": "HLE无缘季后赛",
+      "onboard_time": 1769943800,
+      "rank": 3,
+      "category": "电竞"
     },
     {
       "raw_hot": 507735,
@@ -259,6 +275,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 438022,
+      "num": 438022,
+      "word": "中国工商银行风险提示",
+      "onboard_time": 1769940081,
+      "rank": 7,
+      "category": "财经"
+    },
+    {
       "raw_hot": 432180,
       "num": 393071,
       "word": "央妈逗王一博",
@@ -289,14 +313,6 @@
       "onboard_time": 1769934624,
       "rank": 24,
       "category": "演出"
-    },
-    {
-      "raw_hot": 408736,
-      "num": 408736,
-      "word": "中国工商银行风险提示",
-      "onboard_time": 1769940081,
-      "rank": 7,
-      "category": "财经"
     },
     {
       "raw_hot": 406062,
@@ -345,6 +361,14 @@
       "onboard_time": 1769936542,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 380082,
+      "num": 146030,
+      "word": "爱泼斯坦追逐女孩视频有喘息声",
+      "onboard_time": 1769942662,
+      "rank": 33,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 372064,
@@ -435,6 +459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 306815,
+      "num": 810377,
+      "word": "德约科维奇vs阿尔卡拉斯",
+      "onboard_time": 1769936302,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 302332,
       "num": 302332,
       "word": "黄金暴跌的原因找到了",
@@ -451,12 +483,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 297726,
-      "num": 297726,
-      "word": "德约科维奇vs阿尔卡拉斯",
-      "onboard_time": 1769936302,
-      "rank": 8,
-      "category": "体育"
+      "raw_hot": 297714,
+      "num": 297714,
+      "word": "演员自曝13年前4元一克买白银",
+      "onboard_time": 1769943922,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 296120,
@@ -483,12 +515,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 271436,
-      "num": 271436,
-      "word": "男子1650元买羽绒服全是飞丝报警",
-      "onboard_time": 1769941581,
-      "rank": 35,
-      "category": "民生新闻"
+      "raw_hot": 276292,
+      "num": 276292,
+      "word": "金价暴跌回收柜台前挤满顾客",
+      "onboard_time": 1769941641,
+      "rank": 31,
+      "category": "财经"
     },
     {
       "raw_hot": 270991,
@@ -521,6 +553,14 @@
       "onboard_time": 1769873301,
       "rank": 12,
       "category": "网红"
+    },
+    {
+      "raw_hot": 254730,
+      "num": 249579,
+      "word": "张凯丽澄清4年前花少放醋事件",
+      "onboard_time": 1769944341,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 253411,
@@ -611,14 +651,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 233375,
-      "num": 156065,
-      "word": "金价暴跌回收柜台前挤满顾客",
-      "onboard_time": 1769941641,
-      "rank": 31,
-      "category": "财经"
-    },
-    {
       "raw_hot": 231674,
       "num": 231674,
       "word": "魏大勋说自己后悔去爬山",
@@ -681,6 +713,14 @@
       "onboard_time": 1769901016,
       "rank": 5,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 219710,
+      "num": 181760,
+      "word": "金晨道歉后为何仍被揪着不放",
+      "onboard_time": 1769944821,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 217958,
@@ -787,6 +827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 176700,
+      "num": 176700,
+      "word": "员工发个红包把老板月薪发出去了",
+      "onboard_time": 1769944701,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 175204,
       "num": 165256,
       "word": "银川发生持刀伤人案件致1死",
@@ -867,6 +915,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 151632,
+      "num": 151632,
+      "word": "丁程鑫拍的宋亚轩",
+      "onboard_time": 1769945121,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 150244,
       "num": 150244,
       "word": "沈腾说我现在气没消呢",
@@ -913,6 +969,14 @@
       "onboard_time": 1769940261,
       "rank": 26,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 145819,
+      "num": 145819,
+      "word": "苏新皓看见什么了",
+      "onboard_time": 1769943982,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 145371,
@@ -1001,14 +1065,6 @@
       "onboard_time": 1769872042,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 135322,
-      "num": 135322,
-      "word": "爱泼斯坦追逐女孩视频有喘息声",
-      "onboard_time": 1769942662,
-      "rank": 33,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 134624,
@@ -1139,6 +1195,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 119746,
+      "num": 147927,
+      "word": "国投白银LOF周一开市停牌",
+      "onboard_time": 1769944401,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 118277,
+      "num": 118277,
+      "word": "GEN战胜HLE",
+      "onboard_time": 1769945001,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 114503,
       "num": 110360,
       "word": "邓佳鑫穆祉丞 超级偶像",
@@ -1227,12 +1299,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 108524,
+      "num": 108524,
+      "word": "爱泼斯坦案最新爆料",
+      "onboard_time": 1769944401,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 107238,
       "num": 107238,
       "word": "陈奕恒外套斜穿",
       "onboard_time": 1769930420,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 106966,
+      "num": 106966,
+      "word": "杨紫回复梅婷",
+      "onboard_time": 1769943501,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 106887,
@@ -1275,6 +1363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 104170,
+      "num": 102785,
+      "word": "短剧演员红毯卷出新高度",
+      "onboard_time": 1769943082,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 103731,
       "num": 103731,
       "word": "小鹏机器人假人疑云后再翻车",
@@ -1283,12 +1379,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 103183,
+      "num": 103183,
+      "word": "仙逆",
+      "onboard_time": 1769943261,
+      "rank": 37,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 102428,
       "num": 102428,
       "word": "高干文最严厉的父亲母亲来了",
       "onboard_time": 1769915420,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 102423,
+      "num": 102423,
+      "word": "七匹狼输了",
+      "onboard_time": 1769945060,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 101166,
@@ -1315,7 +1427,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 98931,
+      "raw_hot": 99726,
       "num": 118452,
       "word": "马斯克问爱泼斯坦萝莉岛派对哪天开",
       "onboard_time": 1769941521,
@@ -1371,14 +1483,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 96273,
-      "num": 96273,
-      "word": "短剧演员红毯卷出新高度",
-      "onboard_time": 1769943082,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 95635,
       "num": 95635,
       "word": "实探中国黄金第一家",
@@ -1404,7 +1508,7 @@
     },
     {
       "raw_hot": 94410,
-      "num": 135555,
+      "num": 146225,
       "word": "这就是四川省省菜吧",
       "onboard_time": 1769942662,
       "rank": 29,
@@ -1483,12 +1587,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 91685,
+      "num": 91685,
+      "word": "时代峰峻把赢的基因刻在了DNA上",
+      "onboard_time": 1769944041,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 91601,
       "num": 91601,
       "word": "广州一初中生放假回家的视频火了",
       "onboard_time": 1769903477,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 90656,
+      "num": 90656,
+      "word": "爱思回应",
+      "onboard_time": 1769944222,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 90328,
@@ -1553,6 +1673,14 @@
       "onboard_time": 1769922921,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 88850,
+      "num": 88850,
+      "word": "猫 没有老鼠我就是老鼠",
+      "onboard_time": 1769945363,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 88809,
