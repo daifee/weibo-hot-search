@@ -1,6 +1,6 @@
 {
   "startTime": 1769964003289,
-  "endTime": 1770027245281,
+  "endTime": 1770029897943,
   "band_list": [
     {
       "raw_hot": 4038416,
@@ -25,6 +25,14 @@
       "onboard_time": 1769955561,
       "rank": 10,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1187384,
+      "num": 807681,
+      "word": "16号集体洗头",
+      "onboard_time": 1770024922,
+      "rank": 5,
+      "category": "幽默"
     },
     {
       "raw_hot": 1181160,
@@ -113,14 +121,6 @@
       "onboard_time": 1770022820,
       "rank": 37,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 807681,
-      "num": 807681,
-      "word": "16号集体洗头",
-      "onboard_time": 1770024922,
-      "rank": 5,
-      "category": "幽默"
     },
     {
       "raw_hot": 781504,
@@ -571,6 +571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 275289,
+      "num": 222333,
+      "word": "普京曾说西方精英惯食人肉",
+      "onboard_time": 1770026243,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 265604,
       "num": 265604,
       "word": "7部影片定档2026春节档",
@@ -683,6 +691,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 225134,
+      "num": 274451,
+      "word": "外卖小哥笑了半小时才决定送下一单",
+      "onboard_time": 1770025461,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 224170,
       "num": 298982,
       "word": "英前驻美大使穿内裤与睡袍女子交谈",
@@ -721,6 +737,14 @@
       "onboard_time": 1769957122,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 198481,
+      "num": 262906,
+      "word": "两男孩玩火烧死萨摩耶狗主人发声",
+      "onboard_time": 1770029061,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 197489,
@@ -851,6 +875,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 162215,
+      "num": 277283,
+      "word": "月亮",
+      "onboard_time": 1770029482,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 162079,
       "num": 291989,
       "word": "成都一商场有儿童被大气球悬吊空中",
@@ -867,12 +899,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 153078,
-      "num": 133993,
-      "word": "普京曾说西方精英惯食人肉",
-      "onboard_time": 1770026243,
-      "rank": 40,
-      "category": "国际时政"
+      "raw_hot": 153395,
+      "num": 276808,
+      "word": "孩子私卖金镯家长半年后想退还遭拒",
+      "onboard_time": 1770028642,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 149770,
@@ -931,14 +963,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 137882,
-      "num": 178587,
-      "word": "外卖小哥笑了半小时才决定送下一单",
-      "onboard_time": 1770025461,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 136898,
       "num": 136898,
       "word": "雪地里挖出日本阿姨",
@@ -979,6 +1003,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 134314,
+      "num": 122379,
+      "word": "10岁抗癌男孩豪豪去世网红竟说开心",
+      "onboard_time": 1770028822,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133820,
       "num": 176917,
       "word": "外交部回应春节出境游首选韩国",
@@ -1017,6 +1049,14 @@
       "onboard_time": 1770002360,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 127100,
+      "num": 134921,
+      "word": "太好了是王楚然演宠妃",
+      "onboard_time": 1770028642,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 126802,
@@ -1121,6 +1161,14 @@
       "onboard_time": 1770008361,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 117980,
+      "num": 117980,
+      "word": "腾讯元宝",
+      "onboard_time": 1770027803,
+      "rank": 32,
+      "category": "互联网"
     },
     {
       "raw_hot": 117549,
@@ -1235,6 +1283,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 108192,
+      "num": 108192,
+      "word": "白敬亭一出来画质都清晰了",
+      "onboard_time": 1770027503,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 108049,
+      "num": 104708,
+      "word": "那英征服是袁惟仁写的",
+      "onboard_time": 1770029781,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 107517,
       "num": 107517,
       "word": "无畏契约",
@@ -1281,6 +1345,14 @@
       "onboard_time": 1769994140,
       "rank": 33,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 104964,
+      "num": 104964,
+      "word": "王者春节6款皮肤返场",
+      "onboard_time": 1770028040,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 103974,
@@ -1337,6 +1409,14 @@
       "onboard_time": 1770025281,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 98185,
+      "num": 98185,
+      "word": "金价暴跌老外也来买买买",
+      "onboard_time": 1770026121,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 96429,
@@ -1459,6 +1539,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 88784,
+      "num": 88784,
+      "word": "李微漪回应狼王格林去世传闻",
+      "onboard_time": 1770029422,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 88324,
       "num": 75170,
       "word": "穆祉丞 捡戒指",
@@ -1497,14 +1585,6 @@
       "onboard_time": 1770009141,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 87662,
-      "num": 87662,
-      "word": "金价暴跌老外也来买买买",
-      "onboard_time": 1770026121,
-      "rank": 47,
-      "category": "财经"
     },
     {
       "raw_hot": 87527,
@@ -1609,6 +1689,14 @@
       "onboard_time": 1769999780,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 80179,
+      "num": 80179,
+      "word": "孙颖莎王楚钦训练状态满格",
+      "onboard_time": 1770028282,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 80102,
@@ -1763,6 +1851,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 63480,
+      "num": 812438,
+      "word": "把春运检修拍成了科幻电影",
+      "onboard_time": 1770023002,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 62820,
       "num": 235463,
       "word": "12306回应取消订单3次当日无法购票",
@@ -1801,14 +1897,6 @@
       "onboard_time": 1770022881,
       "rank": 14,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 59515,
-      "num": 812438,
-      "word": "把春运检修拍成了科幻电影",
-      "onboard_time": 1770023002,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 58141,
@@ -1985,6 +2073,14 @@
       "onboard_time": 1770019281,
       "rank": 31,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 37578,
+      "num": 85140,
+      "word": "养殖基地卖蟑螂小强4万元1吨",
+      "onboard_time": 1770028642,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37485,
@@ -2233,6 +2329,14 @@
       "onboard_time": 1769977873,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 15967,
+      "num": 97176,
+      "word": "斯塔默访华后说英国基建太慢了",
+      "onboard_time": 1770029842,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 14820,

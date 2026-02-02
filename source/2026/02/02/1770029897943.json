@@ -1,0 +1,410 @@
+{
+  "runTime": 1770029897943,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 466932,
+        "num": 1074709,
+        "word": "微博之夜阵容夯爆了",
+        "onboard_time": 1770022820,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 192716,
+        "num": 781770,
+        "word": "唐一军一审无期",
+        "onboard_time": 1770024379,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 63480,
+        "num": 610515,
+        "word": "把春运检修拍成了科幻电影",
+        "onboard_time": 1770023002,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3833412,
+        "num": 490407,
+        "word": "袁惟仁去世",
+        "onboard_time": 1770024800,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278919,
+        "num": 278919,
+        "word": "黄金估值已达极端水平",
+        "onboard_time": 1770023602,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1187384,
+        "num": 278825,
+        "word": "16号集体洗头",
+        "onboard_time": 1770024922,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 241067,
+        "num": 278028,
+        "word": "退休一共要缴纳多少年社保",
+        "onboard_time": 1770017781,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162215,
+        "num": 277283,
+        "word": "月亮",
+        "onboard_time": 1770029482,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153395,
+        "num": 276808,
+        "word": "孩子私卖金镯家长半年后想退还遭拒",
+        "onboard_time": 1770028642,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151719,
+        "num": 276224,
+        "word": "男子养4只鹦鹉3只死亡后全家倒下",
+        "onboard_time": 1770014540,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1222378,
+        "num": 275676,
+        "word": "爱泼斯坦 吃人",
+        "onboard_time": 1769996779,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 446958,
+        "num": 275307,
+        "word": "模特控诉爱泼斯坦聚会吃人后消失",
+        "onboard_time": 1770019641,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 225134,
+        "num": 274451,
+        "word": "外卖小哥笑了半小时才决定送下一单",
+        "onboard_time": 1770025461,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 274352,
+        "num": 274352,
+        "word": "爱泼斯坦",
+        "onboard_time": 1769955622,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 224019,
+        "num": 265647,
+        "word": "英前驻美大使穿内裤与睡袍女子交谈",
+        "onboard_time": 1770024500,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 198481,
+        "num": 262906,
+        "word": "两男孩玩火烧死萨摩耶狗主人发声",
+        "onboard_time": 1770029061,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 262498,
+        "num": 262498,
+        "word": "爱泼斯坦笑称魔鬼让我害怕",
+        "onboard_time": 1770014060,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 158191,
+        "num": 261372,
+        "word": "基金",
+        "onboard_time": 1770016941,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 157875,
+        "num": 260764,
+        "word": "不用辞职请个假就行了",
+        "onboard_time": 1770015141,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 164268,
+        "num": 260354,
+        "word": "萝莉岛",
+        "onboard_time": 1769955561,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 260311,
+        "num": 260311,
+        "word": "微博之夜",
+        "onboard_time": 1770009322,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 145509,
+        "num": 228065,
+        "word": "肖战官宣微博之夜",
+        "onboard_time": 1770011722,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 275289,
+        "num": 222333,
+        "word": "普京曾说西方精英惯食人肉",
+        "onboard_time": 1770026243,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 202679,
+        "num": 202679,
+        "word": "袁惟仁讣告",
+        "onboard_time": 1770025101,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165892,
+        "num": 165892,
+        "word": "金银价继续大跌",
+        "onboard_time": 1770012440,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 138631,
+        "num": 138631,
+        "word": "APT没拿格莱美年歌合理吗",
+        "onboard_time": 1770020000,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 127100,
+        "num": 134921,
+        "word": "太好了是王楚然演宠妃",
+        "onboard_time": 1770028642,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133412,
+        "num": 133412,
+        "word": "爱泼斯坦毫不避讳承认是性侵犯者",
+        "onboard_time": 1770020301,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 127834,
+        "num": 127834,
+        "word": "于文文 除了健康什么都不是你的",
+        "onboard_time": 1770014301,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123065,
+        "num": 123065,
+        "word": "外交部回应春节出境游首选韩国",
+        "onboard_time": 1770024861,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 134314,
+        "num": 122379,
+        "word": "10岁抗癌男孩豪豪去世网红竟说开心",
+        "onboard_time": 1770028822,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118850,
+        "num": 118850,
+        "word": "宋仲基与妻子合体参加婚礼",
+        "onboard_time": 1770010702,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117980,
+        "num": 117980,
+        "word": "腾讯元宝",
+        "onboard_time": 1770027803,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 110167,
+        "num": 110167,
+        "word": "王俊凯周杰伦ins合照",
+        "onboard_time": 1770017602,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108192,
+        "num": 108192,
+        "word": "白敬亭一出来画质都清晰了",
+        "onboard_time": 1770027503,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104964,
+        "num": 104964,
+        "word": "王者春节6款皮肤返场",
+        "onboard_time": 1770028040,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 108049,
+        "num": 104708,
+        "word": "那英征服是袁惟仁写的",
+        "onboard_time": 1770029781,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 100719,
+        "num": 100719,
+        "word": "一家三口掉冰窟窿父亲托母子出水面",
+        "onboard_time": 1770019520,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98185,
+        "num": 98185,
+        "word": "金价暴跌老外也来买买买",
+        "onboard_time": 1770026121,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 15967,
+        "num": 97176,
+        "word": "斯塔默访华后说英国基建太慢了",
+        "onboard_time": 1770029842,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 96266,
+        "num": 96266,
+        "word": "周五晚高疯",
+        "onboard_time": 1770013101,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96078,
+        "num": 96078,
+        "word": "35岁男子自曝在妻子孕期出轨",
+        "onboard_time": 1770005422,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88784,
+        "num": 88784,
+        "word": "李微漪回应狼王格林去世传闻",
+        "onboard_time": 1770029422,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87438,
+        "num": 87438,
+        "word": "改善驼背不要挺胸夹背",
+        "onboard_time": 1770021020,
+        "rank": 43,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 85333,
+        "num": 85333,
+        "word": "王一博官宣微博之夜",
+        "onboard_time": 1770011964,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 37578,
+        "num": 85140,
+        "word": "养殖基地卖蟑螂小强4万元1吨",
+        "onboard_time": 1770028642,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85042,
+        "num": 85042,
+        "word": "爱泼斯坦案爆出更多大人物的丑行",
+        "onboard_time": 1770006862,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 82812,
+        "num": 82812,
+        "word": "宝格丽刘亦菲",
+        "onboard_time": 1770015800,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80179,
+        "num": 80179,
+        "word": "孙颖莎王楚钦训练状态满格",
+        "onboard_time": 1770028282,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 73037,
+        "num": 73037,
+        "word": "成何体统",
+        "onboard_time": 1770029182,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记擘画未来产业发展#"
+    }
+  }
+}

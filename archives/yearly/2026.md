@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/02/02 18:14:05
+本榜单时间：2026/01/01 00:35:36 ~ 2026/02/02 18:58:17
 </p>
 </blockquote>
 <p>
@@ -1125,6 +1125,12 @@ MRC对战Gr（热度：1190595）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2316%E5%8F%B7%E9%9B%86%E4%BD%93%E6%B4%97%E5%A4%B4%23" target="weibo">
+16号集体洗头（热度：1187384）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BA%95%E6%8D%9E%20%E7%82%B9%E7%82%AE%E5%88%B6%E5%BA%A6%23" target="weibo">
 海底捞 点炮制度（热度：1184276）
 </a>
@@ -1805,12 +1811,6 @@ TOP不解散不单飞（热度：983065）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E8%8A%B1%E5%B0%918%E5%B0%8F%E5%A6%B9%E5%B7%B2%E7%A1%AE%E5%AE%9A%23" target="weibo">
 网传花少8小妹已确定（热度：972932）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8A%B7%E8%95%BE%20%E8%A7%A3%E7%BA%A6%E7%AC%AC%E4%B8%80%E4%BB%B6%E4%BA%8B%E6%98%AF%E5%89%AA%E7%9F%AD%E5%8F%91%23" target="weibo">
-辛芷蕾 解约第一件事是剪短发（热度：969461）
 </a>
 </li>
 
