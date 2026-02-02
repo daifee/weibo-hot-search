@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1770043864522,
+  "endTime": 1770044916305,
   "band_list": [
     {
       "raw_hot": 4038416,
@@ -339,6 +339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 700090,
+      "num": 344606,
+      "word": "医生说健康的月经有个弹性范围",
+      "onboard_time": 1770040223,
+      "rank": 10,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 696592,
       "num": 252981,
       "word": "王一博春晚彩排要清场的原因",
@@ -387,14 +395,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 665544,
-      "num": 344606,
-      "word": "医生说健康的月经有个弹性范围",
-      "onboard_time": 1770040223,
-      "rank": 10,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 647010,
       "num": 1102532,
       "word": "马斯克暗示克林顿盖茨等人有罪",
@@ -433,6 +433,14 @@
       "onboard_time": 1769922740,
       "rank": 11,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 624379,
+      "num": 624379,
+      "word": "金银V型反转",
+      "onboard_time": 1770041124,
+      "rank": 3,
+      "category": "财经"
     },
     {
       "raw_hot": 619338,
@@ -657,14 +665,6 @@
       "onboard_time": 1769923100,
       "rank": 5,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 472744,
-      "num": 472744,
-      "word": "金银V型反转",
-      "onboard_time": 1770041124,
-      "rank": 3,
-      "category": "财经"
     },
     {
       "raw_hot": 471575,
@@ -1060,7 +1060,7 @@
     },
     {
       "raw_hot": 341448,
-      "num": 341448,
+      "num": 455284,
       "word": "白日提灯",
       "onboard_time": 1770039804,
       "rank": 13,
@@ -1089,6 +1089,14 @@
       "onboard_time": 1770000259,
       "rank": 42,
       "category": "财经"
+    },
+    {
+      "raw_hot": 334434,
+      "num": 334434,
+      "word": "女方婚礼现场退还99999元彩礼",
+      "onboard_time": 1770040404,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 333887,
@@ -1131,6 +1139,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 325831,
+      "num": 210151,
+      "word": "爱泼斯坦案文件含数十张裸照",
+      "onboard_time": 1770040944,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 324128,
       "num": 324128,
       "word": "陈小春一家四口首登春晚",
@@ -1145,14 +1161,6 @@
       "onboard_time": 1770023602,
       "rank": 6,
       "category": "财经"
-    },
-    {
-      "raw_hot": 322339,
-      "num": 210151,
-      "word": "爱泼斯坦案文件含数十张裸照",
-      "onboard_time": 1770040944,
-      "rank": 23,
-      "category": "国际时政"
     },
     {
       "raw_hot": 321586,
@@ -1379,6 +1387,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 274908,
+      "num": 160746,
+      "word": "爱泼斯坦因年龄问题拒绝24岁模特",
+      "onboard_time": 1770043701,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 270991,
       "num": 270991,
       "word": "元宝口令",
@@ -1393,14 +1409,6 @@
       "onboard_time": 1770041663,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 266584,
-      "num": 266584,
-      "word": "女方婚礼现场退还99999元彩礼",
-      "onboard_time": 1770040404,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 265604,
@@ -2139,8 +2147,24 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 164621,
+      "num": 160742,
+      "word": "爱泼斯坦生前采访谈到女性",
+      "onboard_time": 1770042383,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 164193,
+      "num": 164193,
+      "word": "连云港萨摩耶",
+      "onboard_time": 1770043644,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 163891,
-      "num": 346436,
+      "num": 354931,
       "word": "新疆打馕小伙因酷似泽连斯基走红",
       "onboard_time": 1770037222,
       "rank": 38,
@@ -2153,14 +2177,6 @@
       "onboard_time": 1769957063,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 162218,
-      "num": 160746,
-      "word": "爱泼斯坦因年龄问题拒绝24岁模特",
-      "onboard_time": 1770043701,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 162190,
@@ -2177,14 +2193,6 @@
       "onboard_time": 1770021440,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 160742,
-      "num": 160742,
-      "word": "爱泼斯坦生前采访谈到女性",
-      "onboard_time": 1770042383,
-      "rank": 31,
-      "category": "国际时政"
     },
     {
       "raw_hot": 159776,
@@ -2964,7 +2972,7 @@
     },
     {
       "raw_hot": 120459,
-      "num": 120459,
+      "num": 132145,
       "word": "金价跌破4500美元大关",
       "onboard_time": 1770043764,
       "rank": 36,
@@ -3121,6 +3129,14 @@
       "onboard_time": 1770030803,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 115188,
+      "num": 115188,
+      "word": "银价波动",
+      "onboard_time": 1769909780,
+      "rank": 41,
+      "category": "财经"
     },
     {
       "raw_hot": 115019,
@@ -3353,6 +3369,14 @@
       "onboard_time": 1769997500,
       "rank": 35,
       "category": "美食"
+    },
+    {
+      "raw_hot": 108199,
+      "num": 108199,
+      "word": "孟子义李昀锐尚公主杀青照",
+      "onboard_time": 1770043644,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 108197,
@@ -3595,6 +3619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 101591,
+      "num": 101591,
+      "word": "东部战区一线战斗场景公开",
+      "onboard_time": 1770043764,
+      "rank": 44,
+      "category": "军事"
+    },
+    {
       "raw_hot": 101376,
       "num": 101376,
       "word": "两男孩玩火烧死萨摩耶监控曝光",
@@ -3617,6 +3649,14 @@
       "onboard_time": 1770039143,
       "rank": 46,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 101014,
+      "num": 110365,
+      "word": "马桶变喷泉全屋滂臭女子崩溃大哭",
+      "onboard_time": 1770044062,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 100900,
@@ -3753,14 +3793,6 @@
       "onboard_time": 1769922979,
       "rank": 29,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 96776,
-      "num": 96776,
-      "word": "银价波动",
-      "onboard_time": 1769909780,
-      "rank": 41,
-      "category": "财经"
     },
     {
       "raw_hot": 96629,
@@ -3995,14 +4027,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 90789,
-      "num": 90789,
-      "word": "东部战区一线战斗场景公开",
-      "onboard_time": 1770043764,
-      "rank": 44,
-      "category": "军事"
-    },
-    {
       "raw_hot": 90656,
       "num": 90656,
       "word": "爱思回应",
@@ -4033,6 +4057,14 @@
       "onboard_time": 1769993301,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 90123,
+      "num": 90123,
+      "word": "汪铎穆祉丞 TFBOYS我师兄",
+      "onboard_time": 1770044482,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 90101,
@@ -4081,14 +4113,6 @@
       "onboard_time": 1769922921,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 89047,
-      "num": 89047,
-      "word": "连云港萨摩耶",
-      "onboard_time": 1770043644,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 88980,
@@ -4267,14 +4291,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 85651,
-      "num": 85651,
-      "word": "孟子义李昀锐尚公主杀青照",
-      "onboard_time": 1770043644,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 85554,
       "num": 345705,
       "word": "BLG战胜WBG",
@@ -4297,6 +4313,14 @@
       "onboard_time": 1769935220,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 84531,
+      "num": 345914,
+      "word": "Scout祝福Xiaohu",
+      "onboard_time": 1770041965,
+      "rank": 9,
+      "category": "电竞"
     },
     {
       "raw_hot": 84378,
@@ -4553,6 +4577,14 @@
       "onboard_time": 1769933960,
       "rank": 49,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 75953,
+      "num": 132077,
+      "word": "高市早苗五指缠满绷带卖惨拉票",
+      "onboard_time": 1770040162,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 75931,
@@ -5563,6 +5595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23476,
+      "num": 213891,
+      "word": "直播间白银白菜价咋回事",
+      "onboard_time": 1770044123,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23405,
       "num": 108584,
       "word": "叶祖新 好好做个帅哥不行吗",
@@ -5769,6 +5809,14 @@
       "onboard_time": 1769866342,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 13418,
+      "num": 108407,
+      "word": "医学研究生正在涌入社区医院",
+      "onboard_time": 1770044544,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13180,
