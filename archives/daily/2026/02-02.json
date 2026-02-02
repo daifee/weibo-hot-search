@@ -1,6 +1,6 @@
 {
   "startTime": 1769964003289,
-  "endTime": 1770044916305,
+  "endTime": 1770047062817,
   "band_list": [
     {
       "raw_hot": 4038416,
@@ -291,6 +291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 553245,
+      "num": 807998,
+      "word": "白日提灯",
+      "onboard_time": 1770039804,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 551629,
       "num": 242977,
       "word": "爱泼斯坦案文件",
@@ -331,12 +339,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 494962,
+      "num": 249563,
+      "word": "白银",
+      "onboard_time": 1769994020,
+      "rank": 18,
+      "category": "财经"
+    },
+    {
       "raw_hot": 488513,
       "num": 1073735,
       "word": "白所成因病死亡",
       "onboard_time": 1770004041,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 483256,
+      "num": 243138,
+      "word": "爱泼斯坦因年龄问题拒绝24岁模特",
+      "onboard_time": 1770043701,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 464011,
@@ -539,14 +563,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 341448,
-      "num": 455284,
-      "word": "白日提灯",
-      "onboard_time": 1770039804,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 340219,
       "num": 340219,
       "word": "格莱美直播",
@@ -667,6 +683,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 309461,
+      "num": 238047,
+      "word": "连云港萨摩耶",
+      "onboard_time": 1770043644,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 303039,
       "num": 186522,
       "word": "薛之谦发文悼念袁惟仁",
@@ -755,14 +779,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 274908,
-      "num": 160746,
-      "word": "爱泼斯坦因年龄问题拒绝24岁模特",
-      "onboard_time": 1770043701,
-      "rank": 30,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 266957,
       "num": 266957,
       "word": "赵睿道歉",
@@ -784,6 +800,14 @@
       "word": "黄金白银继续暴跌",
       "onboard_time": 1769992881,
       "rank": 17,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 260399,
+      "num": 260399,
+      "word": "国投白银LOF重估基金资产",
+      "onboard_time": 1770044962,
+      "rank": 7,
       "category": "财经"
     },
     {
@@ -897,14 +921,6 @@
       "onboard_time": 1769944821,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 227930,
-      "num": 153110,
-      "word": "白银",
-      "onboard_time": 1769994020,
-      "rank": 18,
-      "category": "财经"
     },
     {
       "raw_hot": 226316,
@@ -1091,6 +1107,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 181755,
+      "num": 135351,
+      "word": "周生生足金挂坠被检测出含铁银钯",
+      "onboard_time": 1770045561,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 178313,
       "num": 178313,
       "word": "什么演唱会把央视名嘴请去主持了",
@@ -1153,14 +1177,6 @@
       "onboard_time": 1770042383,
       "rank": 31,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 164193,
-      "num": 164193,
-      "word": "连云港萨摩耶",
-      "onboard_time": 1770043644,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 163891,
@@ -1345,6 +1361,22 @@
       "onboard_time": 1769997860,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 131738,
+      "num": 131738,
+      "word": "银价波动",
+      "onboard_time": 1770043344,
+      "rank": 41,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 131332,
+      "num": 260175,
+      "word": "高市早苗五指缠满绷带卖惨拉票",
+      "onboard_time": 1770040162,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 131232,
@@ -1611,12 +1643,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 115188,
-      "num": 115188,
-      "word": "银价波动",
-      "onboard_time": 1770043344,
-      "rank": 41,
-      "category": "财经"
+      "raw_hot": 114185,
+      "num": 109824,
+      "word": "汪铎穆祉丞 TFBOYS我师兄",
+      "onboard_time": 1770044482,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 111655,
+      "num": 111655,
+      "word": "马桶变喷泉全屋滂臭女子崩溃大哭",
+      "onboard_time": 1770044062,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111460,
@@ -1803,6 +1843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 104654,
+      "num": 104654,
+      "word": "BTS完整体机场",
+      "onboard_time": 1770045742,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 103974,
       "num": 103319,
       "word": "这居然是胡歌",
@@ -1811,12 +1859,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 101591,
-      "num": 101591,
+      "raw_hot": 103392,
+      "num": 116120,
       "word": "东部战区一线战斗场景公开",
       "onboard_time": 1770043764,
       "rank": 44,
       "category": "军事"
+    },
+    {
+      "raw_hot": 102654,
+      "num": 102654,
+      "word": "生命树电视热度",
+      "onboard_time": 1770045263,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 101376,
@@ -1833,14 +1889,6 @@
       "onboard_time": 1770039143,
       "rank": 46,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 101014,
-      "num": 110365,
-      "word": "马桶变喷泉全屋滂臭女子崩溃大哭",
-      "onboard_time": 1770044062,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 100794,
@@ -1897,6 +1945,14 @@
       "onboard_time": 1769995820,
       "rank": 41,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 98710,
+      "num": 98710,
+      "word": "高三女生睡眠不足5小时吹风致面瘫",
+      "onboard_time": 1770045622,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 98240,
@@ -2017,14 +2073,6 @@
       "onboard_time": 1769993301,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 90123,
-      "num": 90123,
-      "word": "汪铎穆祉丞 TFBOYS我师兄",
-      "onboard_time": 1770044482,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 90093,
@@ -2179,6 +2227,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 83382,
+      "num": 83382,
+      "word": "如果没天赋就一直重复",
+      "onboard_time": 1770046821,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 83282,
       "num": 83282,
       "word": "点狗棚小孩家长已赔礼道歉",
@@ -2299,14 +2355,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 75953,
-      "num": 132077,
-      "word": "高市早苗五指缠满绷带卖惨拉票",
-      "onboard_time": 1770040162,
-      "rank": 30,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 75356,
       "num": 75356,
       "word": "爱泼斯坦案最新爆料",
@@ -2379,6 +2427,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 69455,
+      "num": 69455,
+      "word": "被岳父母退99999元彩礼男子发声",
+      "onboard_time": 1770047001,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 68824,
       "num": 68824,
       "word": "广州地铁",
@@ -2417,6 +2473,14 @@
       "onboard_time": 1769959581,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 67333,
+      "num": 98537,
+      "word": "爱泼斯坦案文件含裸照经提醒后被删除",
+      "onboard_time": 1770046162,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 67219,
@@ -2603,6 +2667,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 48114,
+      "num": 98646,
+      "word": "5个人喝完奶茶陆续出现不适",
+      "onboard_time": 1770046942,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 47618,
       "num": 236780,
       "word": "英首相回应安德鲁涉爱泼斯坦案",
@@ -2721,6 +2793,14 @@
       "onboard_time": 1770008961,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 33081,
+      "num": 98405,
+      "word": "儿童神药卖不动了吗",
+      "onboard_time": 1770046942,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32573,
