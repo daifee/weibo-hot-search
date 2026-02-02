@@ -1,6 +1,6 @@
 {
   "startTime": 1770051170355,
-  "endTime": 1770051170355,
+  "endTime": 1770052273821,
   "band_list": [
     {
       "raw_hot": 533691,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 357996,
-      "num": 357996,
+      "num": 408057,
       "word": "白日提灯",
       "onboard_time": 1770039804,
       "rank": 3,
@@ -123,8 +123,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 163300,
-      "num": 163300,
+      "raw_hot": 172425,
+      "num": 172425,
       "word": "高三女生睡眠不足5小时吹风致面瘫",
       "onboard_time": 1770045622,
       "rank": 8,
@@ -145,6 +145,14 @@
       "onboard_time": 1770040944,
       "rank": 22,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 125407,
+      "num": 125407,
+      "word": "胡歌演技",
+      "onboard_time": 1770048441,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 122713,
@@ -195,12 +203,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 100091,
-      "num": 100091,
-      "word": "胡歌演技",
-      "onboard_time": 1770048441,
-      "rank": 25,
-      "category": "剧集"
+      "raw_hot": 99210,
+      "num": 99210,
+      "word": "被岳父母退99999元彩礼男子发声",
+      "onboard_time": 1770047001,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87638,
@@ -208,14 +216,6 @@
       "word": "女方婚礼现场退还99999元彩礼",
       "onboard_time": 1770040404,
       "rank": 26,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 86414,
-      "num": 86414,
-      "word": "被岳父母退99999元彩礼男子发声",
-      "onboard_time": 1770047001,
-      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -227,8 +227,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 82549,
-      "num": 82549,
+      "raw_hot": 82975,
+      "num": 82975,
       "word": "萨满直播道歉",
       "onboard_time": 1770049639,
       "rank": 29,
@@ -307,6 +307,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 56317,
+      "num": 56317,
+      "word": "亲爱的客栈",
+      "onboard_time": 1770051738,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 55890,
+      "num": 67987,
+      "word": "韦德和曹格是对家",
+      "onboard_time": 1770050958,
+      "rank": 47,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 53415,
       "num": 68175,
       "word": "BTS完整体机场",
@@ -363,14 +379,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 47512,
-      "num": 67987,
-      "word": "韦德和曹格是对家",
-      "onboard_time": 1770050958,
-      "rank": 47,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 46990,
       "num": 68016,
       "word": "银价波动",
@@ -395,10 +403,34 @@
       "category": "数码"
     },
     {
+      "raw_hot": 40144,
+      "num": 55181,
+      "word": "17年后仙剑3重播收视还是第一",
+      "onboard_time": 1770034402,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 36621,
+      "num": 55057,
+      "word": "王一博像孙悟空一样出山了",
+      "onboard_time": 1770031162,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 17133,
       "num": 409668,
       "word": "2026春运奔赴团圆路",
       "onboard_time": 1770037222,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11161,
+      "num": 319188,
+      "word": "春运第1天流动量预计超1.8亿人次",
+      "onboard_time": 1770036802,
       "rank": 2,
       "category": "民生新闻"
     }

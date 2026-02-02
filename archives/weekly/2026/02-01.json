@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1770051170355,
+  "endTime": 1770052273821,
   "band_list": [
     {
       "raw_hot": 4038416,
@@ -2147,6 +2147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 172425,
+      "num": 230529,
+      "word": "高三女生睡眠不足5小时吹风致面瘫",
+      "onboard_time": 1770045622,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 172413,
       "num": 172413,
       "word": "阚清子周一九宫格",
@@ -2216,14 +2224,6 @@
       "word": "新疆打馕小伙因酷似泽连斯基走红",
       "onboard_time": 1770037222,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 163300,
-      "num": 230529,
-      "word": "高三女生睡眠不足5小时吹风致面瘫",
-      "onboard_time": 1770045622,
-      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -2913,6 +2913,14 @@
       "onboard_time": 1769996540,
       "rank": 28,
       "category": "财经"
+    },
+    {
+      "raw_hot": 125407,
+      "num": 125407,
+      "word": "胡歌演技",
+      "onboard_time": 1770048441,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 123845,
@@ -3795,14 +3803,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 100091,
-      "num": 100091,
-      "word": "胡歌演技",
-      "onboard_time": 1770048441,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 99856,
       "num": 99856,
       "word": "剑网3",
@@ -3833,6 +3833,14 @@
       "onboard_time": 1769950702,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 99210,
+      "num": 99210,
+      "word": "被岳父母退99999元彩礼男子发声",
+      "onboard_time": 1770047001,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 99183,
@@ -4355,14 +4363,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 86414,
-      "num": 86414,
-      "word": "被岳父母退99999元彩礼男子发声",
-      "onboard_time": 1770047001,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 86354,
       "num": 86354,
       "word": "iPhone均价曝光",
@@ -4467,20 +4467,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 82975,
+      "num": 82975,
+      "word": "萨满直播道歉",
+      "onboard_time": 1770049639,
+      "rank": 29,
+      "category": "网红"
+    },
+    {
       "raw_hot": 82921,
       "num": 82921,
       "word": "朴彩英格莱美造型",
       "onboard_time": 1769998161,
       "rank": 47,
       "category": "演出"
-    },
-    {
-      "raw_hot": 82549,
-      "num": 82549,
-      "word": "萨满直播道歉",
-      "onboard_time": 1770049639,
-      "rank": 29,
-      "category": "网红"
     },
     {
       "raw_hot": 82348,
@@ -5075,12 +5075,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 56317,
+      "num": 56317,
+      "word": "亲爱的客栈",
+      "onboard_time": 1770051738,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 56041,
       "num": 74066,
       "word": "檀健次卢昱晓侧颜同框路透",
       "onboard_time": 1769968816,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 55890,
+      "num": 67987,
+      "word": "韦德和曹格是对家",
+      "onboard_time": 1770050958,
+      "rank": 47,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 55832,
@@ -5273,14 +5289,6 @@
       "onboard_time": 1770046942,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 47512,
-      "num": 67987,
-      "word": "韦德和曹格是对家",
-      "onboard_time": 1770050958,
-      "rank": 47,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 45502,
@@ -6001,6 +6009,14 @@
       "onboard_time": 1769888895,
       "rank": 48,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 11161,
+      "num": 319188,
+      "word": "春运第1天流动量预计超1.8亿人次",
+      "onboard_time": 1770036802,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 10372,
