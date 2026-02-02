@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1770075438056,
+  "endTime": 1770076377600,
   "band_list": [
     {
       "raw_hot": 4038416,
@@ -59,6 +59,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1535986,
+      "num": 172559,
+      "word": "马斯克女儿爆料",
+      "onboard_time": 1770073636,
+      "rank": 10,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1528237,
       "num": 611829,
       "word": "爱泼斯坦案诡异照片曝光",
@@ -73,14 +81,6 @@
       "onboard_time": 1769952201,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1332901,
-      "num": 107782,
-      "word": "马斯克女儿爆料",
-      "onboard_time": 1770073636,
-      "rank": 10,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 1292335,
@@ -731,6 +731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 457780,
+      "num": 169186,
+      "word": "被岳父母退99999元彩礼男子发声",
+      "onboard_time": 1770047001,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 455666,
       "num": 216398,
       "word": "女演员补缴7千提取13年前囤的白银",
@@ -945,14 +953,6 @@
       "onboard_time": 1769926221,
       "rank": 4,
       "category": "财经"
-    },
-    {
-      "raw_hot": 390145,
-      "num": 106797,
-      "word": "被岳父母退99999元彩礼男子发声",
-      "onboard_time": 1770047001,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 389989,
@@ -1300,7 +1300,7 @@
     },
     {
       "raw_hot": 307928,
-      "num": 140012,
+      "num": 164669,
       "word": "丈夫被指出轨怒揭妻子婚前多次堕胎",
       "onboard_time": 1770047060,
       "rank": 27,
@@ -1395,6 +1395,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 285553,
+      "num": 980132,
+      "word": "中方要求美方立即停止错误行径",
+      "onboard_time": 1770075020,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 285488,
       "num": 222260,
       "word": "美甲的第一批受害者出现了",
@@ -1460,7 +1468,7 @@
     },
     {
       "raw_hot": 268066,
-      "num": 131417,
+      "num": 154814,
       "word": "爱泼斯坦案文件含裸照经提醒后被删除",
       "onboard_time": 1770046162,
       "rank": 39,
@@ -1547,6 +1555,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 251115,
+      "num": 848902,
+      "word": "江苏盐城一座在建桥梁垮塌",
+      "onboard_time": 1770048081,
+      "rank": 7,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 251051,
       "num": 251051,
       "word": "张杰五天抽了25克黄金",
@@ -1617,14 +1633,6 @@
       "onboard_time": 1769958682,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 243139,
-      "num": 848902,
-      "word": "江苏盐城一座在建桥梁垮塌",
-      "onboard_time": 1770048081,
-      "rank": 7,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 243067,
@@ -2115,6 +2123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 176616,
+      "num": 176616,
+      "word": "江苏盐城在建大桥塌落已致2死",
+      "onboard_time": 1770073937,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 176198,
       "num": 176198,
       "word": "员工多看了一眼挽损1800万被奖1万",
@@ -2129,6 +2145,14 @@
       "onboard_time": 1769921300,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 174267,
+      "num": 174267,
+      "word": "生命树",
+      "onboard_time": 1769852721,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 173995,
@@ -2299,14 +2323,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 155233,
-      "num": 155233,
-      "word": "生命树",
-      "onboard_time": 1769852721,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 153559,
       "num": 228046,
       "word": "一诺客串了电视剧年少有为",
@@ -2465,6 +2481,14 @@
       "onboard_time": 1770033442,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 143401,
+      "num": 143401,
+      "word": "灵隐寺被38万鸽王上了一课",
+      "onboard_time": 1770075020,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 142522,
@@ -2787,6 +2811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 131108,
+      "num": 75487,
+      "word": "特朗普怒骂格莱美主持人",
+      "onboard_time": 1770075500,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 131005,
       "num": 129799,
       "word": "短剧演员白方文直播讨薪",
@@ -2865,14 +2897,6 @@
       "onboard_time": 1770002360,
       "rank": 18,
       "category": "演出"
-    },
-    {
-      "raw_hot": 127278,
-      "num": 127278,
-      "word": "中方要求美方立即停止错误行径",
-      "onboard_time": 1770075020,
-      "rank": 7,
-      "category": "国内时政"
     },
     {
       "raw_hot": 127094,
@@ -3137,6 +3161,14 @@
       "onboard_time": 1769946561,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 118929,
+      "num": 118929,
+      "word": "5个人喝完奶茶陆续出现不适",
+      "onboard_time": 1770046942,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 118475,
@@ -3411,6 +3443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 109943,
+      "num": 109943,
+      "word": "春运第1天被这个大屏震撼到了",
+      "onboard_time": 1770075020,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109698,
       "num": 109698,
       "word": "每天5分钟练出好气血",
@@ -3468,19 +3508,11 @@
     },
     {
       "raw_hot": 109400,
-      "num": 65568,
+      "num": 103744,
       "word": "被这种家庭生出来的孩子一定很幸福",
       "onboard_time": 1770074958,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 109223,
-      "num": 109223,
-      "word": "5个人喝完奶茶陆续出现不适",
-      "onboard_time": 1770046942,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 109076,
@@ -3649,6 +3681,14 @@
       "onboard_time": 1769951782,
       "rank": 42,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 105127,
+      "num": 75058,
+      "word": "阳台上突然出现六颗小狗头",
+      "onboard_time": 1770075020,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 105104,
@@ -3969,14 +4009,6 @@
       "onboard_time": 1770014121,
       "rank": 42,
       "category": "数码"
-    },
-    {
-      "raw_hot": 95858,
-      "num": 95858,
-      "word": "江苏盐城在建大桥塌落已致2死",
-      "onboard_time": 1770073937,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 95694,
@@ -4427,20 +4459,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 86070,
+      "num": 86070,
+      "word": "佘诗曼回应2亿身家",
+      "onboard_time": 1770074958,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 86032,
       "num": 86032,
       "word": "太平年",
       "onboard_time": 1770035541,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 85865,
-      "num": 64860,
-      "word": "阳台上突然出现六颗小狗头",
-      "onboard_time": 1770075020,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 85665,
@@ -4675,14 +4707,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 79597,
-      "num": 79597,
-      "word": "灵隐寺被38万鸽王上了一课",
-      "onboard_time": 1770075020,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 79375,
       "num": 79375,
       "word": "佟大为新剧洪世贤看了都得喊哥",
@@ -4697,14 +4721,6 @@
       "onboard_time": 1770032302,
       "rank": 48,
       "category": "休闲"
-    },
-    {
-      "raw_hot": 79190,
-      "num": 79190,
-      "word": "春运第1天被这个大屏震撼到了",
-      "onboard_time": 1770075020,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 78943,
@@ -4755,12 +4771,28 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 76907,
+      "num": 72963,
+      "word": "金银大跌回收商一天亏百万说很刺激",
+      "onboard_time": 1770076279,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 76661,
       "num": 76661,
       "word": "TF四代赢了TOP",
       "onboard_time": 1769856200,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 76441,
+      "num": 76441,
+      "word": "金价累计跌幅约20%",
+      "onboard_time": 1770075620,
+      "rank": 28,
+      "category": "财经"
     },
     {
       "raw_hot": 76161,
@@ -4785,6 +4817,14 @@
       "onboard_time": 1769867002,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 75594,
+      "num": 75594,
+      "word": "支付宝集五福",
+      "onboard_time": 1770074899,
+      "rank": 39,
+      "category": "互联网"
     },
     {
       "raw_hot": 75419,
@@ -4963,6 +5003,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 67362,
+      "num": 67362,
+      "word": "公司回应国投瑞银白银lof净值跌31.5%",
+      "onboard_time": 1770073758,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 67302,
       "num": 67302,
       "word": "猫咪违背天性爱人",
@@ -4985,6 +5033,14 @@
       "onboard_time": 1769900174,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 65973,
+      "num": 65973,
+      "word": "萨摩耶被男孩烧死主人称不接受私了",
+      "onboard_time": 1770075558,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 65603,
@@ -5083,6 +5139,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 61916,
+      "num": 61916,
+      "word": "杨紫生命树的演技",
+      "onboard_time": 1770073636,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 61789,
       "num": 167852,
       "word": "热雪新年翊起转",
@@ -5171,20 +5235,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 55254,
-      "num": 55254,
-      "word": "公司回应国投瑞银白银lof净值跌31.5%",
-      "onboard_time": 1770073758,
-      "rank": 34,
-      "category": "财经"
-    },
-    {
       "raw_hot": 55246,
       "num": 55324,
       "word": "家委会收每生263元家长报警",
       "onboard_time": 1769857522,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 55233,
+      "num": 55233,
+      "word": "闪迪大涨超15%",
+      "onboard_time": 1770075678,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 54627,
@@ -5219,14 +5283,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 53356,
-      "num": 53356,
-      "word": "杨紫生命树的演技",
-      "onboard_time": 1770073636,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 52963,
       "num": 98405,
       "word": "儿童神药卖不动了吗",
@@ -5251,14 +5307,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 52114,
-      "num": 52114,
-      "word": "佘诗曼回应2亿身家",
-      "onboard_time": 1770074958,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 51957,
       "num": 116769,
       "word": "北京大爷刚买500克又买300克金条",
@@ -5281,6 +5329,14 @@
       "onboard_time": 1769862503,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 51414,
+      "num": 51414,
+      "word": "一诺 桃黑黑",
+      "onboard_time": 1770075378,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 51406,
@@ -5347,20 +5403,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 49895,
-      "num": 49895,
-      "word": "支付宝集五福",
-      "onboard_time": 1770074899,
-      "rank": 39,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 49317,
       "num": 55344,
       "word": "喻言演唱会",
       "onboard_time": 1769877978,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 49161,
+      "num": 49161,
+      "word": "最新研究称衰老或是遗传的",
+      "onboard_time": 1770073397,
+      "rank": 42,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 49075,
@@ -5395,12 +5451,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 46492,
-      "num": 46492,
-      "word": "最新研究称衰老或是遗传的",
-      "onboard_time": 1770073397,
-      "rank": 42,
-      "category": "健康医疗"
+      "raw_hot": 46097,
+      "num": 46097,
+      "word": "再也听不见袁惟仁弹吉他了",
+      "onboard_time": 1770076279,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 45502,
@@ -5579,14 +5635,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 36020,
-      "num": 41152,
-      "word": "一诺 桃黑黑",
-      "onboard_time": 1770075378,
-      "rank": 49,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 36011,
       "num": 89804,
       "word": "吃鸡基础搭子就不基础",
@@ -5673,6 +5721,14 @@
       "onboard_time": 1770008961,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 32960,
+      "num": 567613,
+      "word": "春运第1天流动量预计超1.8亿人次",
+      "onboard_time": 1770036802,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32927,
@@ -5768,14 +5824,6 @@
       "word": "女子拔倒刺指甲开裂险截肢",
       "onboard_time": 1770015860,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 29311,
-      "num": 504425,
-      "word": "春运第1天流动量预计超1.8亿人次",
-      "onboard_time": 1770036802,
-      "rank": 2,
       "category": "民生新闻"
     },
     {
