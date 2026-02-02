@@ -1,0 +1,410 @@
+{
+  "runTime": 1770022537748,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 438049,
+        "num": 1070087,
+        "word": "周五晚高疯",
+        "onboard_time": 1770013101,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 331341,
+        "num": 763034,
+        "word": "韩国股市大跌触发熔断",
+        "onboard_time": 1770019341,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 6035,
+        "num": 598014,
+        "word": "2026新春走基层",
+        "onboard_time": 1770022281,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 719558,
+        "num": 584909,
+        "word": "退休一共要缴纳多少年社保",
+        "onboard_time": 1770017781,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 447275,
+        "num": 447275,
+        "word": "模特控诉爱泼斯坦聚会吃人后消失",
+        "onboard_time": 1770019641,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 375278,
+        "num": 375278,
+        "word": "不用辞职请个假就行了",
+        "onboard_time": 1770015141,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 217389,
+        "num": 370460,
+        "word": "男子养4只鹦鹉3只死亡后全家倒下",
+        "onboard_time": 1770014540,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210303,
+        "num": 368014,
+        "word": "肖战官宣微博之夜",
+        "onboard_time": 1770011722,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 206804,
+        "num": 360989,
+        "word": "一家三口掉冰窟窿父亲托母子出水面",
+        "onboard_time": 1770019520,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154739,
+        "num": 350094,
+        "word": "APT没拿格莱美年歌合理吗",
+        "onboard_time": 1770020000,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1695164,
+        "num": 345895,
+        "word": "爱泼斯坦 吃人",
+        "onboard_time": 1769996779,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 342875,
+        "num": 342875,
+        "word": "微博之夜",
+        "onboard_time": 1770009322,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 305391,
+        "num": 305391,
+        "word": "于文文 除了健康什么都不是你的",
+        "onboard_time": 1770014301,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 575833,
+        "num": 303420,
+        "word": "爱泼斯坦笑称魔鬼让我害怕",
+        "onboard_time": 1770014060,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 37825,
+        "num": 301090,
+        "word": "千问宣布春节30亿免单吃喝玩乐",
+        "onboard_time": 1770019281,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 45117,
+        "num": 301088,
+        "word": "唐嫣开年上演互换人生",
+        "onboard_time": 1770018261,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301086,
+        "num": 301086,
+        "word": "基金",
+        "onboard_time": 1770016941,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 292165,
+        "num": 292165,
+        "word": "爱泼斯坦",
+        "onboard_time": 1769955622,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 91203,
+        "num": 291989,
+        "word": "成都一商场有儿童被大气球悬吊空中",
+        "onboard_time": 1770021440,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19012,
+        "num": 291619,
+        "word": "卫生院职工被举报多年在编不在岗",
+        "onboard_time": 1770021620,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17662,
+        "num": 291465,
+        "word": "2026春运开启",
+        "onboard_time": 1770001881,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 747187,
+        "num": 290827,
+        "word": "金银价继续大跌",
+        "onboard_time": 1770012440,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 293742,
+        "num": 290754,
+        "word": "宋仲基与妻子合体参加婚礼",
+        "onboard_time": 1770010702,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290423,
+        "num": 290423,
+        "word": "爱泼斯坦毫不避讳承认是性侵犯者",
+        "onboard_time": 1770020301,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 265545,
+        "num": 265545,
+        "word": "王俊凯周杰伦ins合照",
+        "onboard_time": 1770017602,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252671,
+        "num": 252671,
+        "word": "萝莉岛",
+        "onboard_time": 1769955561,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 247953,
+        "num": 247953,
+        "word": "宝石老舅将借马晚正式回归",
+        "onboard_time": 1770021440,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 227994,
+        "num": 227994,
+        "word": "爱泼斯坦案爆出更多大人物的丑行",
+        "onboard_time": 1770006862,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 178313,
+        "num": 178313,
+        "word": "什么演唱会把央视名嘴请去主持了",
+        "onboard_time": 1770020961,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 68462,
+        "num": 169429,
+        "word": "女子卖金手镯每克被吞40多元",
+        "onboard_time": 1770020422,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166338,
+        "num": 166338,
+        "word": "35岁男子自曝在妻子孕期出轨",
+        "onboard_time": 1770005422,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146771,
+        "num": 146771,
+        "word": "爱泼斯坦别墅挂满与知名友人合影",
+        "onboard_time": 1770008421,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 125276,
+        "num": 125276,
+        "word": "宝格丽刘亦菲",
+        "onboard_time": 1770015800,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122227,
+        "num": 122227,
+        "word": "改善驼背不要挺胸夹背",
+        "onboard_time": 1770021020,
+        "rank": 33,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 120421,
+        "num": 120421,
+        "word": "云合",
+        "onboard_time": 1770021860,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118423,
+        "num": 118423,
+        "word": "比伯后背纹了海莉纹身",
+        "onboard_time": 1770016160,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 117364,
+        "num": 117364,
+        "word": "客人称被酒店备注成猪",
+        "onboard_time": 1770020061,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115518,
+        "num": 115518,
+        "word": "戚薇李承铉原来是长期主义父母",
+        "onboard_time": 1770018201,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115380,
+        "num": 115380,
+        "word": "金价",
+        "onboard_time": 1769988378,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 109065,
+        "num": 109065,
+        "word": "格莱美",
+        "onboard_time": 1769988918,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 102604,
+        "num": 102604,
+        "word": "王一博官宣微博之夜",
+        "onboard_time": 1770011964,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 95694,
+        "num": 95694,
+        "word": "看着自己成长",
+        "onboard_time": 1770022162,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 95119,
+        "num": 95119,
+        "word": "武契奇预计伊朗将在48小时内遭袭",
+        "onboard_time": 1770020840,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 94065,
+        "num": 94065,
+        "word": "2.5吨白银建的银楼白菜价甩卖却流拍",
+        "onboard_time": 1770018981,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91910,
+        "num": 91910,
+        "word": "ally和周也同框",
+        "onboard_time": 1770020542,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90125,
+        "num": 90125,
+        "word": "肖战更换律师团队",
+        "onboard_time": 1770008902,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89900,
+        "num": 89900,
+        "word": "千万不要喝隔夜饮料",
+        "onboard_time": 1770003081,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 87921,
+        "num": 87921,
+        "word": "金银崩盘连累全球股市",
+        "onboard_time": 1770022040,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 83483,
+        "num": 83483,
+        "word": "小孩姐真的算准了时间的",
+        "onboard_time": 1770020780,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 83282,
+        "num": 83282,
+        "word": "点狗棚小孩家长已赔礼道歉",
+        "onboard_time": 1770021321,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记擘画未来产业发展#"
+    }
+  }
+}

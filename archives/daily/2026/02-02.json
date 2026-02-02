@@ -1,10 +1,10 @@
 {
   "startTime": 1769964003289,
-  "endTime": 1770019452755,
+  "endTime": 1770022537748,
   "band_list": [
     {
       "raw_hot": 3389142,
-      "num": 262100,
+      "num": 345895,
       "word": "爱泼斯坦 吃人",
       "onboard_time": 1769996779,
       "rank": 10,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 889768,
-      "num": 257824,
+      "num": 290754,
       "word": "宋仲基与妻子合体参加婚礼",
       "onboard_time": 1770010702,
       "rank": 20,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 844445,
-      "num": 248490,
+      "num": 305391,
       "word": "于文文 除了健康什么都不是你的",
       "onboard_time": 1770014301,
       "rank": 49,
@@ -105,6 +105,14 @@
       "onboard_time": 1769997798,
       "rank": 1,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 719558,
+      "num": 584909,
+      "word": "退休一共要缴纳多少年社保",
+      "onboard_time": 1770017781,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 682642,
@@ -148,7 +156,7 @@
     },
     {
       "raw_hot": 611164,
-      "num": 289828,
+      "num": 375278,
       "word": "不用辞职请个假就行了",
       "onboard_time": 1770015141,
       "rank": 32,
@@ -227,6 +235,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 447275,
+      "num": 447275,
+      "word": "模特控诉爱泼斯坦聚会吃人后消失",
+      "onboard_time": 1770019641,
+      "rank": 4,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 442704,
       "num": 258735,
       "word": "庆祝来月经第一天的仪式感",
@@ -241,6 +257,14 @@
       "onboard_time": 1770001700,
       "rank": 32,
       "category": "财经"
+    },
+    {
+      "raw_hot": 438049,
+      "num": 1070087,
+      "word": "周五晚高疯",
+      "onboard_time": 1770013101,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 429047,
@@ -268,7 +292,7 @@
     },
     {
       "raw_hot": 420947,
-      "num": 248357,
+      "num": 301086,
       "word": "基金",
       "onboard_time": 1770016941,
       "rank": 13,
@@ -305,14 +329,6 @@
       "onboard_time": 1770015741,
       "rank": 4,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 373748,
-      "num": 373748,
-      "word": "退休一共要缴纳多少年社保",
-      "onboard_time": 1770017781,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 373742,
@@ -395,6 +411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 331341,
+      "num": 763034,
+      "word": "韩国股市大跌触发熔断",
+      "onboard_time": 1770019341,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 328264,
       "num": 813145,
       "word": "爱泼斯坦别墅挂满与知名友人合影",
@@ -467,12 +491,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 291804,
-      "num": 291804,
-      "word": "周五晚高疯",
-      "onboard_time": 1770013101,
-      "rank": 33,
-      "category": "综艺"
+      "raw_hot": 290423,
+      "num": 290423,
+      "word": "爱泼斯坦毫不避讳承认是性侵犯者",
+      "onboard_time": 1770020301,
+      "rank": 23,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 285488,
@@ -492,7 +516,7 @@
     },
     {
       "raw_hot": 276382,
-      "num": 224339,
+      "num": 265545,
       "word": "王俊凯周杰伦ins合照",
       "onboard_time": 1770017602,
       "rank": 23,
@@ -521,6 +545,14 @@
       "onboard_time": 1770008902,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 247953,
+      "num": 247953,
+      "word": "宝石老舅将借马晚正式回归",
+      "onboard_time": 1770021440,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 246717,
@@ -619,6 +651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 206804,
+      "num": 360989,
+      "word": "一家三口掉冰窟窿父亲托母子出水面",
+      "onboard_time": 1770019520,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 197489,
       "num": 264715,
       "word": "小米高管疑似爆料YU9",
@@ -699,6 +739,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 178313,
+      "num": 178313,
+      "word": "什么演唱会把央视名嘴请去主持了",
+      "onboard_time": 1770020961,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 176198,
       "num": 176198,
       "word": "员工多看了一眼挽损1800万被奖1万",
@@ -729,6 +777,14 @@
       "onboard_time": 1769960421,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 154739,
+      "num": 350094,
+      "word": "APT没拿格莱美年歌合理吗",
+      "onboard_time": 1770020000,
+      "rank": 9,
+      "category": "音乐"
     },
     {
       "raw_hot": 153504,
@@ -891,6 +947,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 122227,
+      "num": 122227,
+      "word": "改善驼背不要挺胸夹背",
+      "onboard_time": 1770021020,
+      "rank": 33,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 121958,
       "num": 121958,
       "word": "王星越夺妻不演了宠妻开张了",
@@ -913,6 +977,14 @@
       "onboard_time": 1770003621,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 120421,
+      "num": 120421,
+      "word": "云合",
+      "onboard_time": 1770021860,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 120223,
@@ -969,6 +1041,14 @@
       "onboard_time": 1770013760,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 117364,
+      "num": 117364,
+      "word": "客人称被酒店备注成猪",
+      "onboard_time": 1770020061,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 117329,
@@ -1163,6 +1243,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 95694,
+      "num": 95694,
+      "word": "看着自己成长",
+      "onboard_time": 1770022162,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 95251,
       "num": 95251,
       "word": "那我排2个小时吃的饭算什么",
@@ -1171,12 +1259,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 94710,
-      "num": 94710,
-      "word": "韩国股市大跌触发熔断",
-      "onboard_time": 1770019341,
-      "rank": 48,
-      "category": "财经"
+      "raw_hot": 95119,
+      "num": 95119,
+      "word": "武契奇预计伊朗将在48小时内遭袭",
+      "onboard_time": 1770020840,
+      "rank": 42,
+      "category": "国际时政"
     },
     {
       "raw_hot": 94387,
@@ -1187,12 +1275,36 @@
       "category": "演出"
     },
     {
+      "raw_hot": 94065,
+      "num": 239371,
+      "word": "2.5吨白银建的银楼白菜价甩卖却流拍",
+      "onboard_time": 1770018981,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 91910,
+      "num": 91910,
+      "word": "ally和周也同框",
+      "onboard_time": 1770020542,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 91214,
       "num": 91214,
       "word": "生命树",
       "onboard_time": 1769987356,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 91203,
+      "num": 291989,
+      "word": "成都一商场有儿童被大气球悬吊空中",
+      "onboard_time": 1770021440,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 91002,
@@ -1251,6 +1363,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 87921,
+      "num": 87921,
+      "word": "金银崩盘连累全球股市",
+      "onboard_time": 1770022040,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 87808,
       "num": 123454,
       "word": "湖南卫视春晚网传阵容",
@@ -1289,6 +1409,22 @@
       "onboard_time": 1769960900,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 83483,
+      "num": 83483,
+      "word": "小孩姐真的算准了时间的",
+      "onboard_time": 1770020780,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 83282,
+      "num": 83282,
+      "word": "点狗棚小孩家长已赔礼道歉",
+      "onboard_time": 1770021321,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 82921,
@@ -1379,14 +1515,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 69613,
-      "num": 239371,
-      "word": "2.5吨白银建的银楼白菜价甩卖却流拍",
-      "onboard_time": 1770018981,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 68824,
       "num": 68824,
       "word": "广州地铁",
@@ -1400,6 +1528,14 @@
       "word": "男子1650元买羽绒服全是飞丝报警",
       "onboard_time": 1769941581,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 68462,
+      "num": 169429,
+      "word": "女子卖金手镯每克被吞40多元",
+      "onboard_time": 1770020422,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -1587,6 +1723,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 45117,
+      "num": 301088,
+      "word": "唐嫣开年上演互换人生",
+      "onboard_time": 1770018261,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 43689,
       "num": 101688,
       "word": "妻子回忆丈夫如厕猝死前5天",
@@ -1617,6 +1761,14 @@
       "onboard_time": 1770002300,
       "rank": 39,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 37825,
+      "num": 301090,
+      "word": "千问宣布春节30亿免单吃喝玩乐",
+      "onboard_time": 1770019281,
+      "rank": 31,
+      "category": "互联网"
     },
     {
       "raw_hot": 37485,
@@ -1731,14 +1883,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 25534,
-      "num": 161738,
-      "word": "千问宣布春节30亿免单吃喝玩乐",
-      "onboard_time": 1770019281,
-      "rank": 31,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 25121,
       "num": 429058,
       "word": "社区救命标志有了新国标",
@@ -1763,14 +1907,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 24393,
-      "num": 243383,
-      "word": "唐嫣开年上演互换人生",
-      "onboard_time": 1770018261,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 23326,
       "num": 99137,
       "word": "克林顿至少16次搭乘爱泼斯坦私人飞机",
@@ -1785,6 +1921,14 @@
       "onboard_time": 1769999179,
       "rank": 39,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 19012,
+      "num": 291619,
+      "word": "卫生院职工被举报多年在编不在岗",
+      "onboard_time": 1770021620,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18596,
@@ -1865,6 +2009,14 @@
       "onboard_time": 1770019221,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 6035,
+      "num": 598014,
+      "word": "2026新春走基层",
+      "onboard_time": 1770022281,
+      "rank": 2,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
@@ -1873,6 +2025,9 @@
     },
     {
       "word": "#总书记对旅客的暖心祝福#"
+    },
+    {
+      "word": "#总书记擘画未来产业发展#"
     }
   ]
 }
