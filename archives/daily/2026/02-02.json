@@ -1,6 +1,6 @@
 {
   "startTime": 1769964003289,
-  "endTime": 1770038128957,
+  "endTime": 1770039766814,
   "band_list": [
     {
       "raw_hot": 4038416,
@@ -33,6 +33,14 @@
       "onboard_time": 1769955561,
       "rank": 10,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1292335,
+      "num": 1292335,
+      "word": "茉莉奶白战报",
+      "onboard_time": 1770037342,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 1187949,
@@ -156,7 +164,7 @@
     },
     {
       "raw_hot": 700197,
-      "num": 295471,
+      "num": 307727,
       "word": "说好不熬 萨摩耶狗主人",
       "onboard_time": 1770036021,
       "rank": 12,
@@ -193,6 +201,14 @@
       "onboard_time": 1770004461,
       "rank": 0,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 633259,
+      "num": 633259,
+      "word": "孩子1.7万私卖金镯现值3万左右",
+      "onboard_time": 1770035182,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 625531,
@@ -339,6 +355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 433005,
+      "num": 287072,
+      "word": "萨摩耶被两娃烧死主人回应质疑",
+      "onboard_time": 1770036141,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 429047,
       "num": 317257,
       "word": "爱泼斯坦案视频曝光",
@@ -416,6 +440,14 @@
       "word": "SM年会",
       "onboard_time": 1769959581,
       "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 372084,
+      "num": 197178,
+      "word": "宋仲基23年1月再婚6月得子",
+      "onboard_time": 1770036982,
+      "rank": 20,
       "category": "艺人"
     },
     {
@@ -523,14 +555,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 327572,
-      "num": 197178,
-      "word": "宋仲基23年1月再婚6月得子",
-      "onboard_time": 1770036982,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 324128,
       "num": 324128,
       "word": "陈小春一家四口首登春晚",
@@ -635,6 +659,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 285448,
+      "num": 494542,
+      "word": "王鹤棣把外套给黄灿灿挡风",
+      "onboard_time": 1770033381,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 283909,
+      "num": 283909,
+      "word": "柳宗源拍的白鹿",
+      "onboard_time": 1770037642,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 282198,
       "num": 282198,
       "word": "黄金有望涨至6000美元",
@@ -652,7 +692,7 @@
     },
     {
       "raw_hot": 275289,
-      "num": 255059,
+      "num": 260172,
       "word": "普京曾说西方精英惯食人肉",
       "onboard_time": 1770026243,
       "rank": 40,
@@ -681,14 +721,6 @@
       "onboard_time": 1770008902,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 251248,
-      "num": 427180,
-      "word": "孩子1.7万私卖金镯现值3万左右",
-      "onboard_time": 1770035182,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 248228,
@@ -851,14 +883,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 201830,
-      "num": 201830,
-      "word": "王鹤棣把外套给黄灿灿挡风",
-      "onboard_time": 1770033381,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 197489,
       "num": 264715,
       "word": "小米高管疑似爆料YU9",
@@ -995,6 +1019,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 173995,
+      "num": 173995,
+      "word": "电视剧生命树已穷到没边了",
+      "onboard_time": 1770037282,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 172953,
+      "num": 172953,
+      "word": "17年后仙剑3重播收视还是第一",
+      "onboard_time": 1770034402,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 172413,
       "num": 172413,
       "word": "阚清子周一九宫格",
@@ -1059,14 +1099,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 150669,
-      "num": 150669,
-      "word": "17年后仙剑3重播收视还是第一",
-      "onboard_time": 1770034402,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 149770,
       "num": 152076,
       "word": "爱泼斯坦追逐女孩视频有喘息声",
@@ -1081,14 +1113,6 @@
       "onboard_time": 1769997021,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 148830,
-      "num": 148830,
-      "word": "萨摩耶被两娃烧死主人回应质疑",
-      "onboard_time": 1770036141,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 143900,
@@ -1153,6 +1177,14 @@
       "onboard_time": 1770015081,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 136539,
+      "num": 136539,
+      "word": "尚公主杀青",
+      "onboard_time": 1770039502,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 135357,
@@ -1275,12 +1307,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 122626,
-      "num": 346604,
-      "word": "茉莉奶白战报",
-      "onboard_time": 1770037342,
-      "rank": 9,
-      "category": "财经"
+      "raw_hot": 122975,
+      "num": 164227,
+      "word": "6旬老人猥亵7岁女童其家属还挑衅",
+      "onboard_time": 1770038423,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 121989,
@@ -1289,6 +1321,14 @@
       "onboard_time": 1770027803,
       "rank": 32,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 121969,
+      "num": 121969,
+      "word": "陈奕迅晒与周杰伦合影",
+      "onboard_time": 1770035902,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 121958,
@@ -1321,6 +1361,14 @@
       "onboard_time": 1770021860,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 121116,
+      "num": 121116,
+      "word": "内娱终于懂我们想看什么了",
+      "onboard_time": 1770038662,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 120223,
@@ -1443,30 +1491,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 115803,
-      "num": 115803,
-      "word": "柳宗源拍的白鹿",
-      "onboard_time": 1770037642,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 112895,
-      "num": 107446,
-      "word": "陈奕迅晒与周杰伦合影",
-      "onboard_time": 1770035902,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 112032,
-      "num": 104695,
-      "word": "电视剧生命树已穷到没边了",
-      "onboard_time": 1770037282,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 111460,
       "num": 107965,
       "word": "尚公主",
@@ -1529,6 +1553,14 @@
       "onboard_time": 1769997500,
       "rank": 35,
       "category": "美食"
+    },
+    {
+      "raw_hot": 108197,
+      "num": 108197,
+      "word": "成毅红包封面",
+      "onboard_time": 1770039082,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 108192,
@@ -1595,6 +1627,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 105526,
+      "num": 105526,
+      "word": "Ella哽咽谈袁惟仁",
+      "onboard_time": 1770039262,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 105494,
       "num": 105494,
       "word": "俄罗斯夜空同时出现4个月亮",
@@ -1641,6 +1681,14 @@
       "onboard_time": 1770010461,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 100493,
+      "num": 108501,
+      "word": "第一次见长剧里中插短剧",
+      "onboard_time": 1770039023,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 100236,
@@ -1699,6 +1747,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 95823,
+      "num": 196362,
+      "word": "新疆打馕小伙因酷似泽连斯基走红",
+      "onboard_time": 1770037222,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 95694,
       "num": 95694,
       "word": "看着自己成长",
@@ -1753,6 +1809,14 @@
       "onboard_time": 1770022581,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 92454,
+      "num": 138758,
+      "word": "大扫除时霉菌是怎么进入大脑的",
+      "onboard_time": 1770034582,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 91910,
@@ -1867,19 +1931,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 87114,
-      "num": 99237,
-      "word": "新疆打馕小伙因酷似泽连斯基走红",
-      "onboard_time": 1770037222,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 87085,
       "num": 87085,
       "word": "杨紫生命树太好哭了",
       "onboard_time": 1770013520,
       "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 86032,
+      "num": 86032,
+      "word": "太平年",
+      "onboard_time": 1770035541,
+      "rank": 45,
       "category": "剧集"
     },
     {
@@ -1897,6 +1961,14 @@
       "onboard_time": 1770023542,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 84041,
+      "num": 121528,
+      "word": "王楚钦王曼昱开心交流",
+      "onboard_time": 1770034881,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 83766,
@@ -1937,6 +2009,14 @@
       "onboard_time": 1769956641,
       "rank": 29,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 82483,
+      "num": 82483,
+      "word": "美国佛州再现天降蜥蜴",
+      "onboard_time": 1770039143,
+      "rank": 46,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 82348,
@@ -2003,14 +2083,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 77793,
-      "num": 77793,
-      "word": "王楚钦王曼昱开心交流",
-      "onboard_time": 1770034881,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 77199,
       "num": 77199,
       "word": "刘晓庆 我多少岁关你们什么事",
@@ -2033,14 +2105,6 @@
       "onboard_time": 1770026959,
       "rank": 46,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 76574,
-      "num": 131318,
-      "word": "大扫除时霉菌是怎么进入大脑的",
-      "onboard_time": 1770034582,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 75356,
@@ -2547,18 +2611,18 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 25121,
-      "num": 429058,
-      "word": "社区救命标志有了新国标",
-      "onboard_time": 1769950401,
+      "raw_hot": 25529,
+      "num": 698120,
+      "word": "2026春运奔赴团圆路",
+      "onboard_time": 1770037222,
       "rank": 2,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 25068,
-      "num": 638246,
-      "word": "2026春运奔赴团圆路",
-      "onboard_time": 1770037222,
+      "raw_hot": 25121,
+      "num": 429058,
+      "word": "社区救命标志有了新国标",
+      "onboard_time": 1769950401,
       "rank": 2,
       "category": "民生新闻"
     },
@@ -2577,6 +2641,14 @@
       "onboard_time": 1770015020,
       "rank": 48,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 23405,
+      "num": 108584,
+      "word": "叶祖新 好好做个帅哥不行吗",
+      "onboard_time": 1770039323,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 23326,
@@ -2617,6 +2689,14 @@
       "onboard_time": 1770021620,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18858,
+      "num": 108428,
+      "word": "警方辟谣男子举报特大人口贩卖组织",
+      "onboard_time": 1770039203,
+      "rank": 39,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 18596,

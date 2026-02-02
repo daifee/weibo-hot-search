@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1770038128957,
+  "endTime": 1770039766814,
   "band_list": [
     {
       "raw_hot": 4038416,
@@ -73,6 +73,14 @@
       "onboard_time": 1769952201,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1292335,
+      "num": 1292335,
+      "word": "茉莉奶白战报",
+      "onboard_time": 1770037342,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 1187949,
@@ -316,7 +324,7 @@
     },
     {
       "raw_hot": 700197,
-      "num": 295471,
+      "num": 307727,
       "word": "说好不熬 萨摩耶狗主人",
       "onboard_time": 1770036021,
       "rank": 12,
@@ -385,6 +393,14 @@
       "onboard_time": 1769867483,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 633259,
+      "num": 633259,
+      "word": "孩子1.7万私卖金镯现值3万左右",
+      "onboard_time": 1770035182,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 625531,
@@ -723,6 +739,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 433005,
+      "num": 287072,
+      "word": "萨摩耶被两娃烧死主人回应质疑",
+      "onboard_time": 1770036141,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 432180,
       "num": 393071,
       "word": "央妈逗王一博",
@@ -899,6 +923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 372084,
+      "num": 197178,
+      "word": "宋仲基23年1月再婚6月得子",
+      "onboard_time": 1770036982,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 372064,
       "num": 121211,
       "word": "内娱唯一说微调结果没人信的人",
@@ -1057,14 +1089,6 @@
       "onboard_time": 1770008421,
       "rank": 41,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 327572,
-      "num": 197178,
-      "word": "宋仲基23年1月再婚6月得子",
-      "onboard_time": 1770036982,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 324128,
@@ -1259,6 +1283,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 285448,
+      "num": 494542,
+      "word": "王鹤棣把外套给黄灿灿挡风",
+      "onboard_time": 1770033381,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 283909,
+      "num": 283909,
+      "word": "柳宗源拍的白鹿",
+      "onboard_time": 1770037642,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 282198,
       "num": 282198,
       "word": "黄金有望涨至6000美元",
@@ -1284,7 +1324,7 @@
     },
     {
       "raw_hot": 275289,
-      "num": 255059,
+      "num": 260172,
       "word": "普京曾说西方精英惯食人肉",
       "onboard_time": 1770026243,
       "rank": 40,
@@ -1369,14 +1409,6 @@
       "onboard_time": 1769905399,
       "rank": 5,
       "category": "教育"
-    },
-    {
-      "raw_hot": 251248,
-      "num": 427180,
-      "word": "孩子1.7万私卖金镯现值3万左右",
-      "onboard_time": 1770035182,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 251051,
@@ -1707,14 +1739,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 201830,
-      "num": 201830,
-      "word": "王鹤棣把外套给黄灿灿挡风",
-      "onboard_time": 1770033381,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 200805,
       "num": 200805,
       "word": "伊朗",
@@ -1939,12 +1963,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 173995,
+      "num": 173995,
+      "word": "电视剧生命树已穷到没边了",
+      "onboard_time": 1770037282,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 173045,
       "num": 173045,
       "word": "第一眼以为给肖战开美颜了",
       "onboard_time": 1769901916,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 172953,
+      "num": 172953,
+      "word": "17年后仙剑3重播收视还是第一",
+      "onboard_time": 1770034402,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 172788,
@@ -2131,14 +2171,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 150669,
-      "num": 150669,
-      "word": "17年后仙剑3重播收视还是第一",
-      "onboard_time": 1770034402,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 150244,
       "num": 150244,
       "word": "沈腾说我现在气没消呢",
@@ -2177,14 +2209,6 @@
       "onboard_time": 1769919440,
       "rank": 30,
       "category": "民生新闻,动漫"
-    },
-    {
-      "raw_hot": 148830,
-      "num": 148830,
-      "word": "萨摩耶被两娃烧死主人回应质疑",
-      "onboard_time": 1770036141,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 148817,
@@ -2417,6 +2441,14 @@
       "onboard_time": 1769928020,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 136539,
+      "num": 136539,
+      "word": "尚公主杀青",
+      "onboard_time": 1770039502,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 136234,
@@ -2739,12 +2771,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 122626,
-      "num": 346604,
-      "word": "茉莉奶白战报",
-      "onboard_time": 1770037342,
-      "rank": 9,
-      "category": "财经"
+      "raw_hot": 122975,
+      "num": 164227,
+      "word": "6旬老人猥亵7岁女童其家属还挑衅",
+      "onboard_time": 1770038423,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 121989,
@@ -2753,6 +2785,14 @@
       "onboard_time": 1770027803,
       "rank": 32,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 121969,
+      "num": 121969,
+      "word": "陈奕迅晒与周杰伦合影",
+      "onboard_time": 1770035902,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 121958,
@@ -2809,6 +2849,14 @@
       "onboard_time": 1769956703,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 121116,
+      "num": 121116,
+      "word": "内娱终于懂我们想看什么了",
+      "onboard_time": 1770038662,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 120606,
@@ -2963,14 +3011,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 115803,
-      "num": 115803,
-      "word": "柳宗源拍的白鹿",
-      "onboard_time": 1770037642,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 115019,
       "num": 115019,
       "word": "伊能静透露两星期瘦了10斤",
@@ -3011,14 +3051,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 112895,
-      "num": 107446,
-      "word": "陈奕迅晒与周杰伦合影",
-      "onboard_time": 1770035902,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 112885,
       "num": 112885,
       "word": "XLG启点赛对阵EDG",
@@ -3049,14 +3081,6 @@
       "onboard_time": 1769920581,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 112032,
-      "num": 104695,
-      "word": "电视剧生命树已穷到没边了",
-      "onboard_time": 1770037282,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 111956,
@@ -3219,6 +3243,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 108197,
+      "num": 108197,
+      "word": "成毅红包封面",
+      "onboard_time": 1770039082,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 108192,
       "num": 108192,
       "word": "白敬亭一出来画质都清晰了",
@@ -3321,6 +3353,14 @@
       "onboard_time": 1770008661,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 105526,
+      "num": 105526,
+      "word": "Ella哽咽谈袁惟仁",
+      "onboard_time": 1770039262,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 105494,
@@ -3467,6 +3507,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 100493,
+      "num": 108501,
+      "word": "第一次见长剧里中插短剧",
+      "onboard_time": 1770039023,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 100406,
       "num": 191142,
       "word": "为什么普通人现在不愿意贷款买房了",
@@ -3593,6 +3641,14 @@
       "onboard_time": 1770014121,
       "rank": 42,
       "category": "数码"
+    },
+    {
+      "raw_hot": 95823,
+      "num": 196362,
+      "word": "新疆打馕小伙因酷似泽连斯基走红",
+      "onboard_time": 1770037222,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 95694,
@@ -3729,6 +3785,14 @@
       "onboard_time": 1770022581,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 92454,
+      "num": 138758,
+      "word": "大扫除时霉菌是怎么进入大脑的",
+      "onboard_time": 1770034582,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 92282,
@@ -3995,14 +4059,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 87114,
-      "num": 99237,
-      "word": "新疆打馕小伙因酷似泽连斯基走红",
-      "onboard_time": 1770037222,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 87085,
       "num": 87085,
       "word": "杨紫生命树太好哭了",
@@ -4043,6 +4099,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 86032,
+      "num": 86032,
+      "word": "太平年",
+      "onboard_time": 1770035541,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 85665,
       "num": 85665,
       "word": "郝熠然百万粉丝福利",
@@ -4075,6 +4139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 84041,
+      "num": 121528,
+      "word": "王楚钦王曼昱开心交流",
+      "onboard_time": 1770034881,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 83552,
       "num": 83552,
       "word": "KPL",
@@ -4105,6 +4177,14 @@
       "onboard_time": 1769998161,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 82483,
+      "num": 82483,
+      "word": "美国佛州再现天降蜥蜴",
+      "onboard_time": 1770039143,
+      "rank": 46,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 82348,
@@ -4267,14 +4347,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 77793,
-      "num": 77793,
-      "word": "王楚钦王曼昱开心交流",
-      "onboard_time": 1770034881,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 77101,
       "num": 208250,
       "word": "彭昱畅新剧 两个宝贝员工出掉了",
@@ -4305,14 +4377,6 @@
       "onboard_time": 1769856200,
       "rank": 29,
       "category": "演出"
-    },
-    {
-      "raw_hot": 76574,
-      "num": 131318,
-      "word": "大扫除时霉菌是怎么进入大脑的",
-      "onboard_time": 1770034582,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 76161,
@@ -5283,8 +5347,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 25068,
-      "num": 638246,
+      "raw_hot": 25529,
+      "num": 698120,
       "word": "2026春运奔赴团圆路",
       "onboard_time": 1770037222,
       "rank": 2,
@@ -5337,6 +5401,14 @@
       "onboard_time": 1769922260,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23405,
+      "num": 108584,
+      "word": "叶祖新 好好做个帅哥不行吗",
+      "onboard_time": 1770039323,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 23366,
@@ -5425,6 +5497,14 @@
       "onboard_time": 1770021620,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18858,
+      "num": 108428,
+      "word": "警方辟谣男子举报特大人口贩卖组织",
+      "onboard_time": 1770039203,
+      "rank": 39,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 18037,
