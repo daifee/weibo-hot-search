@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1769989694488,
+  "endTime": 1770000355502,
   "band_list": [
     {
       "raw_hot": 22742360,
@@ -257,6 +257,14 @@
       "onboard_time": 1769487682,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 3389142,
+      "num": 156082,
+      "word": "爱泼斯坦 吃人",
+      "onboard_time": 1769996779,
+      "rank": 10,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 3020265,
@@ -2392,14 +2400,6 @@
       "word": "海底捞锅里被扔尿布门店已报警",
       "onboard_time": 1767872661,
       "rank": 0,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 956208,
-      "num": 341311,
-      "word": "疑被助产士剪断手指男婴父亲发声",
-      "onboard_time": 1767595222,
-      "rank": 30,
       "category": "民生新闻"
     }
   ],
