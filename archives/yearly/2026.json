@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1770002757444,
+  "endTime": 1770008683151,
   "band_list": [
     {
       "raw_hot": 22742360,
@@ -2123,6 +2123,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1022038,
+      "num": 626576,
+      "word": "35岁男子自曝在妻子孕期出轨",
+      "onboard_time": 1770005422,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1021880,
       "num": 1163500,
       "word": "男子从喉咙痛到进ICU只用1小时",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1769663902,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 958958,
-      "num": 1100194,
-      "word": "爱泼斯坦案视频曝光",
-      "onboard_time": 1769950642,
-      "rank": 45,
-      "category": "海外新闻"
     }
   ],
   "hotgov_list": [

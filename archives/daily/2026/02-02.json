@@ -1,6 +1,6 @@
 {
   "startTime": 1769964003289,
-  "endTime": 1770002757444,
+  "endTime": 1770008683151,
   "band_list": [
     {
       "raw_hot": 3389142,
@@ -35,12 +35,36 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1022038,
+      "num": 626576,
+      "word": "35岁男子自曝在妻子孕期出轨",
+      "onboard_time": 1770005422,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 856523,
       "num": 323238,
       "word": "于文文方报平安",
       "onboard_time": 1769962400,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 822828,
+      "num": 242377,
+      "word": "特朗普回应被爱泼斯坦案文件提及",
+      "onboard_time": 1770001941,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 819122,
+      "num": 242793,
+      "word": "比伯穿内裤表演",
+      "onboard_time": 1770004161,
+      "rank": 11,
+      "category": "演出"
     },
     {
       "raw_hot": 781504,
@@ -52,7 +76,7 @@
     },
     {
       "raw_hot": 677657,
-      "num": 199801,
+      "num": 227277,
       "word": "金价",
       "onboard_time": 1769988378,
       "rank": 13,
@@ -65,6 +89,22 @@
       "onboard_time": 1769955622,
       "rank": 12,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 640830,
+      "num": 1102532,
+      "word": "马斯克暗示克林顿盖茨等人有罪",
+      "onboard_time": 1770004461,
+      "rank": 0,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 625531,
+      "num": 625531,
+      "word": "千万不要喝隔夜饮料",
+      "onboard_time": 1770003081,
+      "rank": 6,
+      "category": "情感"
     },
     {
       "raw_hot": 580257,
@@ -115,12 +155,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 488513,
+      "num": 775220,
+      "word": "白所成因病死亡",
+      "onboard_time": 1770004041,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 450164,
       "num": 450164,
       "word": "朴彩英火星哥格莱美开场",
       "onboard_time": 1769996779,
       "rank": 3,
       "category": "演出"
+    },
+    {
+      "raw_hot": 439026,
+      "num": 628168,
+      "word": "上海黄金交易所紧急出手",
+      "onboard_time": 1770001700,
+      "rank": 32,
+      "category": "财经"
     },
     {
       "raw_hot": 429047,
@@ -179,6 +235,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 344618,
+      "num": 626577,
+      "word": "爱泼斯坦案爆出更多大人物的丑行",
+      "onboard_time": 1770006862,
+      "rank": 4,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 342506,
       "num": 342506,
       "word": "领导疯狂劝酒员工喝完口吐鲜血",
@@ -211,12 +275,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 321586,
+      "num": 231301,
+      "word": "向太认可是自己娶了郭碧婷",
+      "onboard_time": 1770001640,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 317320,
       "num": 655160,
       "word": "洛杉矶市长候选人女儿路边身亡",
       "onboard_time": 1769959460,
       "rank": 1,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 297826,
+      "num": 242635,
+      "word": "林子烨 禁止五三娱乐化",
+      "onboard_time": 1770005902,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 297650,
@@ -243,12 +323,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 279543,
+      "num": 279543,
+      "word": "12306取消订单3次当日无法购票",
+      "onboard_time": 1770006142,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 261274,
       "num": 218870,
       "word": "黄金白银继续暴跌",
       "onboard_time": 1769992881,
       "rank": 17,
       "category": "财经"
+    },
+    {
+      "raw_hot": 249694,
+      "num": 229742,
+      "word": "曝Melody对服务人员态度差",
+      "onboard_time": 1770006502,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 246717,
@@ -267,12 +363,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 244597,
+      "num": 242277,
+      "word": "庆祝来月经第一天的仪式感",
+      "onboard_time": 1770006622,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 243067,
+      "num": 243067,
+      "word": "成何体统定档",
+      "onboard_time": 1770002600,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 242842,
       "num": 205506,
       "word": "爱泼斯坦案诡异照片曝光",
       "onboard_time": 1769931861,
       "rank": 16,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 242126,
+      "num": 242126,
+      "word": "7部影片定档2026春节档",
+      "onboard_time": 1770003440,
+      "rank": 15,
+      "category": "电影"
     },
     {
       "raw_hot": 241616,
@@ -305,14 +425,6 @@
       "onboard_time": 1769960481,
       "rank": 25,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 212614,
-      "num": 212614,
-      "word": "向太认可是自己娶了郭碧婷",
-      "onboard_time": 1770001640,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 210154,
@@ -371,6 +483,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 182742,
+      "num": 171021,
+      "word": "吴世勋 马上见",
+      "onboard_time": 1770007822,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 182135,
+      "num": 182135,
+      "word": "车辆被龙门吊砸中车主讲述经过",
+      "onboard_time": 1770006262,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 176198,
       "num": 176198,
       "word": "员工多看了一眼挽损1800万被奖1万",
@@ -395,12 +523,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 153132,
-      "num": 153132,
-      "word": "特朗普回应被爱泼斯坦案文件提及",
-      "onboard_time": 1770001941,
-      "rank": 29,
-      "category": "国际时政"
+      "raw_hot": 159270,
+      "num": 159270,
+      "word": "网传迪丽热巴张小斐女足上春节档",
+      "onboard_time": 1770008122,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 153504,
+      "num": 153223,
+      "word": "赵晴 00花买股",
+      "onboard_time": 1770003261,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 149894,
@@ -441,6 +577,22 @@
       "onboard_time": 1770000499,
       "rank": 30,
       "category": "民生新闻,动漫"
+    },
+    {
+      "raw_hot": 135357,
+      "num": 135357,
+      "word": "C罗拒绝为利雅得胜利出战",
+      "onboard_time": 1770003380,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 134922,
+      "num": 134922,
+      "word": "大侦探恐怖童谣天音重现",
+      "onboard_time": 1770005242,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 134547,
@@ -499,12 +651,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 123013,
-      "num": 123013,
-      "word": "上海黄金交易所紧急出手",
-      "onboard_time": 1770001700,
-      "rank": 32,
-      "category": "财经"
+      "raw_hot": 122107,
+      "num": 122107,
+      "word": "爱泼斯坦别墅挂满与知名友人合影",
+      "onboard_time": 1770008421,
+      "rank": 41,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 121464,
+      "num": 121464,
+      "word": "头胎生了个月嫂",
+      "onboard_time": 1770003621,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 120223,
@@ -523,6 +683,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 117549,
+      "num": 117549,
+      "word": "裁员裁到大动脉有新说法了",
+      "onboard_time": 1770005062,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 117519,
+      "num": 117519,
+      "word": "56岁窦唯状态",
+      "onboard_time": 1770008361,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 116826,
       "num": 116826,
       "word": "伊朗",
@@ -537,6 +713,14 @@
       "onboard_time": 1769999358,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 111460,
+      "num": 107965,
+      "word": "尚公主",
+      "onboard_time": 1770004941,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 110538,
@@ -563,20 +747,28 @@
       "category": "演出"
     },
     {
-      "raw_hot": 108428,
-      "num": 108428,
-      "word": "成何体统定档",
-      "onboard_time": 1770002600,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 108233,
       "num": 108233,
       "word": "甘肃浆水面",
       "onboard_time": 1769997500,
       "rank": 35,
       "category": "美食"
+    },
+    {
+      "raw_hot": 108016,
+      "num": 108016,
+      "word": "A股行情",
+      "onboard_time": 1770006922,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 107517,
+      "num": 107517,
+      "word": "无畏契约",
+      "onboard_time": 1770006562,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 106546,
@@ -587,12 +779,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 106376,
+      "num": 106376,
+      "word": "金价暴跌刚买的黄金能退吗",
+      "onboard_time": 1770005180,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 106209,
       "num": 106209,
       "word": "LadyGaga格莱美最佳专辑",
       "onboard_time": 1770002541,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 105564,
+      "num": 105564,
+      "word": "全球抛售潮涌现",
+      "onboard_time": 1770008661,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 105494,
@@ -867,6 +1075,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 63855,
+      "num": 235059,
+      "word": "太阳爆发3次X级耀斑",
+      "onboard_time": 1770007762,
+      "rank": 19,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 61447,
       "num": 61447,
       "word": "印度总理也上了爱泼斯坦文件",
@@ -979,6 +1195,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 44818,
+      "num": 132367,
+      "word": "王祖贤自曝已吃素十多年",
+      "onboard_time": 1770008302,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 44580,
+      "num": 132254,
+      "word": "Tyler现场点炸药炸了格莱美",
+      "onboard_time": 1770007941,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 43689,
       "num": 101688,
       "word": "妻子回忆丈夫如厕猝死前5天",
@@ -993,6 +1225,14 @@
       "onboard_time": 1769960062,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 42277,
+      "num": 236286,
+      "word": "这届年轻人开始接百岁福了",
+      "onboard_time": 1770005001,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 41450,
@@ -1033,6 +1273,14 @@
       "onboard_time": 1769955922,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 29836,
+      "num": 641389,
+      "word": "2026新春走基层主题曲MV",
+      "onboard_time": 1770001580,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29228,
