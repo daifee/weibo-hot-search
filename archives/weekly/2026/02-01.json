@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1770008683151,
+  "endTime": 1770009256062,
   "band_list": [
     {
       "raw_hot": 3389142,
@@ -275,7 +275,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 640830,
+      "raw_hot": 647010,
       "num": 1102532,
       "word": "马斯克暗示克林顿盖茨等人有罪",
       "onboard_time": 1770004461,
@@ -467,8 +467,16 @@
       "category": "财经"
     },
     {
+      "raw_hot": 493536,
+      "num": 626577,
+      "word": "爱泼斯坦案爆出更多大人物的丑行",
+      "onboard_time": 1770006862,
+      "rank": 4,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 488513,
-      "num": 775220,
+      "num": 1073735,
       "word": "白所成因病死亡",
       "onboard_time": 1770004041,
       "rank": 1,
@@ -545,6 +553,14 @@
       "onboard_time": 1769996779,
       "rank": 3,
       "category": "演出"
+    },
+    {
+      "raw_hot": 442704,
+      "num": 242277,
+      "word": "庆祝来月经第一天的仪式感",
+      "onboard_time": 1770006622,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 439026,
@@ -763,14 +779,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 344618,
-      "num": 626577,
-      "word": "爱泼斯坦案爆出更多大人物的丑行",
-      "onboard_time": 1770006862,
-      "rank": 4,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 342506,
       "num": 342506,
       "word": "领导疯狂劝酒员工喝完口吐鲜血",
@@ -825,6 +833,14 @@
       "onboard_time": 1770001640,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 318554,
+      "num": 318554,
+      "word": "12306取消订单3次当日无法购票",
+      "onboard_time": 1770006142,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 317320,
@@ -931,6 +947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 293911,
+      "num": 229742,
+      "word": "曝Melody对服务人员态度差",
+      "onboard_time": 1770006502,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 291558,
       "num": 911313,
       "word": "员工单日如厕6小时21分钟被解雇",
@@ -963,20 +987,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 279543,
-      "num": 279543,
-      "word": "12306取消订单3次当日无法购票",
-      "onboard_time": 1770006142,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 270991,
       "num": 270991,
       "word": "元宝口令",
       "onboard_time": 1769916560,
       "rank": 20,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 265604,
+      "num": 265604,
+      "word": "7部影片定档2026春节档",
+      "onboard_time": 1770003440,
+      "rank": 15,
+      "category": "电影"
     },
     {
       "raw_hot": 261274,
@@ -1043,14 +1067,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 249694,
-      "num": 229742,
-      "word": "曝Melody对服务人员态度差",
-      "onboard_time": 1770006502,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 249288,
       "num": 249288,
       "word": "歌手2026要来新人了",
@@ -1091,14 +1107,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 244597,
-      "num": 242277,
-      "word": "庆祝来月经第一天的仪式感",
-      "onboard_time": 1770006622,
-      "rank": 14,
-      "category": "情感"
-    },
-    {
       "raw_hot": 244177,
       "num": 829303,
       "word": "皇马",
@@ -1113,14 +1121,6 @@
       "onboard_time": 1770002600,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 242126,
-      "num": 242126,
-      "word": "7部影片定档2026春节档",
-      "onboard_time": 1770003440,
-      "rank": 15,
-      "category": "电影"
     },
     {
       "raw_hot": 241616,
@@ -1291,6 +1291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 205568,
+      "num": 205568,
+      "word": "网传迪丽热巴张小斐女足上春节档",
+      "onboard_time": 1770008122,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 204200,
       "num": 204200,
       "word": "杨紫素颜拒用替身",
@@ -1403,6 +1411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185719,
+      "num": 185719,
+      "word": "吴世勋 马上见",
+      "onboard_time": 1770007822,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 184094,
       "num": 159509,
       "word": "金饰克价一夜跌134元",
@@ -1417,14 +1433,6 @@
       "onboard_time": 1769989880,
       "rank": 24,
       "category": "演出"
-    },
-    {
-      "raw_hot": 182742,
-      "num": 171021,
-      "word": "吴世勋 马上见",
-      "onboard_time": 1770007822,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 182135,
@@ -1547,20 +1555,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 161605,
+      "num": 132110,
+      "word": "肖战更换律师团队",
+      "onboard_time": 1770008902,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 159776,
       "num": 159776,
       "word": "小猫喝玉米水",
       "onboard_time": 1769931741,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 159270,
-      "num": 159270,
-      "word": "网传迪丽热巴张小斐女足上春节档",
-      "onboard_time": 1770008122,
-      "rank": 31,
-      "category": "电影"
     },
     {
       "raw_hot": 158563,
@@ -2131,6 +2139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121698,
+      "num": 121698,
+      "word": "恋综女嘉宾同时和三个男嘉宾暧昧",
+      "onboard_time": 1770009022,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 121464,
       "num": 121464,
       "word": "头胎生了个月嫂",
@@ -2179,6 +2195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 120190,
+      "num": 120190,
+      "word": "特斯拉第三代人形机器人将亮相",
+      "onboard_time": 1770007402,
+      "rank": 45,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 119746,
       "num": 147927,
       "word": "国投白银LOF周一开市停牌",
@@ -2211,6 +2235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 118129,
+      "num": 118129,
+      "word": "56岁窦唯状态",
+      "onboard_time": 1770008361,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 117549,
       "num": 117549,
       "word": "裁员裁到大动脉有新说法了",
@@ -2219,12 +2251,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 117519,
-      "num": 117519,
-      "word": "56岁窦唯状态",
-      "onboard_time": 1770008361,
-      "rank": 44,
-      "category": "艺人"
+      "raw_hot": 117329,
+      "num": 117329,
+      "word": "母亲403万买房女儿卖掉送男友282万",
+      "onboard_time": 1770009022,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 116762,
@@ -2387,6 +2419,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 109678,
+      "num": 194132,
+      "word": "喵娲娲微博之夜替你实现多厨狂喜",
+      "onboard_time": 1770008961,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 109565,
       "num": 105322,
       "word": "大学时期的迪丽热巴",
@@ -2417,6 +2457,14 @@
       "onboard_time": 1769960900,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 109473,
+      "num": 132367,
+      "word": "王祖贤自曝已吃素十多年",
+      "onboard_time": 1770008302,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 109076,
@@ -3025,6 +3073,14 @@
       "onboard_time": 1769924959,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 87808,
+      "num": 123454,
+      "word": "湖南卫视春晚网传阵容",
+      "onboard_time": 1770009141,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 87756,
@@ -3651,6 +3707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 51940,
+      "num": 132254,
+      "word": "Tyler现场点炸药炸了格莱美",
+      "onboard_time": 1770007941,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 51825,
       "num": 55518,
       "word": "宁艺卓合作舞台呢",
@@ -3747,14 +3811,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 44818,
-      "num": 132367,
-      "word": "王祖贤自曝已吃素十多年",
-      "onboard_time": 1770008302,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 44786,
       "num": 44786,
       "word": "美伊开战的可能性有多大",
@@ -3769,14 +3825,6 @@
       "onboard_time": 1769867723,
       "rank": 48,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 44580,
-      "num": 132254,
-      "word": "Tyler现场点炸药炸了格莱美",
-      "onboard_time": 1770007941,
-      "rank": 39,
-      "category": "演出"
     },
     {
       "raw_hot": 44130,
@@ -3937,6 +3985,14 @@
       "onboard_time": 1769865382,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 33398,
+      "num": 194966,
+      "word": "马斯克再否认参加过爱泼斯坦派对",
+      "onboard_time": 1770008961,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 32927,
