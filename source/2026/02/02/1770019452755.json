@@ -1,0 +1,410 @@
+{
+  "runTime": 1770019452755,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 682642,
+        "num": 1109222,
+        "word": "爱泼斯坦笑称魔鬼让我害怕",
+        "onboard_time": 1770014060,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 321064,
+        "num": 823020,
+        "word": "男子养4只鹦鹉3只死亡后全家倒下",
+        "onboard_time": 1770014540,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19928,
+        "num": 644879,
+        "word": "2026春运开启",
+        "onboard_time": 1770001881,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 373748,
+        "num": 373748,
+        "word": "退休一共要缴纳多少年社保",
+        "onboard_time": 1770017781,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 291804,
+        "num": 291804,
+        "word": "周五晚高疯",
+        "onboard_time": 1770013101,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 611164,
+        "num": 289828,
+        "word": "不用辞职请个假就行了",
+        "onboard_time": 1770015141,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 283317,
+        "num": 283317,
+        "word": "惠英红要来微博之夜见宝贝们了",
+        "onboard_time": 1770015741,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 259349,
+        "num": 259349,
+        "word": "肖战官宣微博之夜",
+        "onboard_time": 1770011722,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 151972,
+        "num": 257422,
+        "word": "上海黄金交易所紧急出手",
+        "onboard_time": 1770001700,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 37485,
+        "num": 257111,
+        "word": "人类最大规模周期性迁徙开始了",
+        "onboard_time": 1770018440,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1603312,
+        "num": 254530,
+        "word": "爱泼斯坦 吃人",
+        "onboard_time": 1769996779,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 649608,
+        "num": 251240,
+        "word": "爱泼斯坦案爆出更多大人物的丑行",
+        "onboard_time": 1770006862,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 558406,
+        "num": 248490,
+        "word": "于文文 除了健康什么都不是你的",
+        "onboard_time": 1770014301,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 420947,
+        "num": 248357,
+        "word": "基金",
+        "onboard_time": 1770016941,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 364370,
+        "num": 244659,
+        "word": "微博之夜",
+        "onboard_time": 1770009322,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 24393,
+        "num": 243383,
+        "word": "唐嫣开年上演互换人生",
+        "onboard_time": 1770018261,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182331,
+        "num": 240482,
+        "word": "宝格丽刘亦菲",
+        "onboard_time": 1770015800,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69613,
+        "num": 239371,
+        "word": "2.5吨白银建的银楼白菜价甩卖却流拍",
+        "onboard_time": 1770018981,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62820,
+        "num": 235463,
+        "word": "12306回应取消订单3次当日无法购票",
+        "onboard_time": 1770018440,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11700,
+        "num": 233618,
+        "word": "工人酸菜池抽烟吐痰3人禁业5年",
+        "onboard_time": 1770018861,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 860879,
+        "num": 230895,
+        "word": "金银价继续大跌",
+        "onboard_time": 1770012440,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 398629,
+        "num": 229809,
+        "word": "宋仲基与妻子合体参加婚礼",
+        "onboard_time": 1770010702,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 332189,
+        "num": 227856,
+        "word": "爱泼斯坦",
+        "onboard_time": 1769955622,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 276382,
+        "num": 224339,
+        "word": "王俊凯周杰伦ins合照",
+        "onboard_time": 1770017602,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224312,
+        "num": 224312,
+        "word": "35岁男子自曝在妻子孕期出轨",
+        "onboard_time": 1770005422,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 327366,
+        "num": 222281,
+        "word": "萝莉岛",
+        "onboard_time": 1769955561,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 216684,
+        "num": 216684,
+        "word": "比伯后背纹了海莉纹身",
+        "onboard_time": 1770016160,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 211907,
+        "num": 211907,
+        "word": "戚薇李承铉原来是长期主义父母",
+        "onboard_time": 1770018201,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247662,
+        "num": 201218,
+        "word": "爱泼斯坦别墅挂满与知名友人合影",
+        "onboard_time": 1770008421,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 49075,
+        "num": 181080,
+        "word": "抢头福这事儿多少带点地利",
+        "onboard_time": 1770015800,
+        "rank": 29,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 172413,
+        "num": 172413,
+        "word": "阚清子周一九宫格",
+        "onboard_time": 1770015321,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25534,
+        "num": 161738,
+        "word": "千问宣布春节30亿免单吃喝玩乐",
+        "onboard_time": 1770019281,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 156581,
+        "num": 156581,
+        "word": "金价",
+        "onboard_time": 1769988378,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 134955,
+        "num": 134955,
+        "word": "白银2天跌光1个月涨幅",
+        "onboard_time": 1770016280,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 127564,
+        "num": 127564,
+        "word": "A股",
+        "onboard_time": 1770000259,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 124962,
+        "num": 124962,
+        "word": "比伯穿内裤表演",
+        "onboard_time": 1770004161,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 118740,
+        "num": 118740,
+        "word": "王一博官宣微博之夜",
+        "onboard_time": 1770011964,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 26232,
+        "num": 117634,
+        "word": "张佳宁好明媚的杀青状态",
+        "onboard_time": 1770018261,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35630,
+        "num": 116918,
+        "word": "有人速抛1公斤金条变现百万",
+        "onboard_time": 1770018261,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10372,
+        "num": 116852,
+        "word": "女子在园区被罚抱水桶深蹲300个",
+        "onboard_time": 1770019221,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116822,
+        "num": 116822,
+        "word": "微博之夜老中青顶流都齐了",
+        "onboard_time": 1770018141,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 109508,
+        "num": 109508,
+        "word": "格莱美",
+        "onboard_time": 1769988918,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 107130,
+        "num": 107130,
+        "word": "白所成因病死亡",
+        "onboard_time": 1770004041,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106692,
+        "num": 106692,
+        "word": "肖战更换律师团队",
+        "onboard_time": 1770008902,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104391,
+        "num": 104391,
+        "word": "千万不要喝隔夜饮料",
+        "onboard_time": 1770003081,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 103093,
+        "num": 103093,
+        "word": "网传迪丽热巴张小斐女足上春节档",
+        "onboard_time": 1770008122,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 145329,
+        "num": 100418,
+        "word": "女子离婚5天后丈夫去世女儿成被告",
+        "onboard_time": 1770009741,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 329347,
+        "num": 98308,
+        "word": "员工酸菜池中抽烟吐痰老板被罚100万",
+        "onboard_time": 1770012501,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94710,
+        "num": 94710,
+        "word": "韩国股市大跌触发熔断",
+        "onboard_time": 1770019341,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 92274,
+        "num": 92274,
+        "word": "杜克拉黑小马哥",
+        "onboard_time": 1770014002,
+        "rank": 49,
+        "category": "网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记对旅客的暖心祝福#"
+    }
+  }
+}

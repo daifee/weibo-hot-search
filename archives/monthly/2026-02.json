@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1770016332822,
+  "endTime": 1770019452755,
   "band_list": [
     {
       "raw_hot": 3389142,
@@ -171,6 +171,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 860879,
+      "num": 562603,
+      "word": "金银价继续大跌",
+      "onboard_time": 1770012440,
+      "rank": 26,
+      "category": "财经"
+    },
+    {
       "raw_hot": 856523,
       "num": 323238,
       "word": "于文文方报平安",
@@ -196,7 +204,7 @@
     },
     {
       "raw_hot": 844445,
-      "num": 214447,
+      "num": 248490,
       "word": "于文文 除了健康什么都不是你的",
       "onboard_time": 1770014301,
       "rank": 49,
@@ -233,14 +241,6 @@
       "onboard_time": 1769997798,
       "rank": 1,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 765294,
-      "num": 562603,
-      "word": "金银价继续大跌",
-      "onboard_time": 1770012440,
-      "rank": 26,
-      "category": "财经"
     },
     {
       "raw_hot": 733893,
@@ -289,6 +289,14 @@
       "onboard_time": 1769933899,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 682642,
+      "num": 1109222,
+      "word": "爱泼斯坦笑称魔鬼让我害怕",
+      "onboard_time": 1770014060,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 677657,
@@ -353,6 +361,14 @@
       "onboard_time": 1769930779,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 611164,
+      "num": 289828,
+      "word": "不用辞职请个假就行了",
+      "onboard_time": 1770015141,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 605521,
@@ -643,6 +659,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 420947,
+      "num": 248357,
+      "word": "基金",
+      "onboard_time": 1770016941,
+      "rank": 13,
+      "category": "财经"
+    },
+    {
       "raw_hot": 419604,
       "num": 419604,
       "word": "肖战官宣微博之夜",
@@ -761,6 +785,14 @@
       "onboard_time": 1769942662,
       "rank": 33,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 373748,
+      "num": 373748,
+      "word": "退休一共要缴纳多少年社保",
+      "onboard_time": 1770017781,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 373742,
@@ -923,6 +955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 321064,
+      "num": 823020,
+      "word": "男子养4只鹦鹉3只死亡后全家倒下",
+      "onboard_time": 1770014540,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 318554,
       "num": 318554,
       "word": "12306取消订单3次当日无法购票",
@@ -1043,6 +1083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 291804,
+      "num": 291804,
+      "word": "周五晚高疯",
+      "onboard_time": 1770013101,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 291558,
       "num": 911313,
       "word": "员工单日如厕6小时21分钟被解雇",
@@ -1073,6 +1121,14 @@
       "onboard_time": 1769921778,
       "rank": 33,
       "category": "财经"
+    },
+    {
+      "raw_hot": 276382,
+      "num": 224339,
+      "word": "王俊凯周杰伦ins合照",
+      "onboard_time": 1770017602,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 270991,
@@ -1161,14 +1217,6 @@
       "onboard_time": 1769914399,
       "rank": 37,
       "category": "演出"
-    },
-    {
-      "raw_hot": 250386,
-      "num": 250386,
-      "word": "爱泼斯坦笑称魔鬼让我害怕",
-      "onboard_time": 1770014060,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 249288,
@@ -1379,6 +1427,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 216684,
+      "num": 216684,
+      "word": "比伯后背纹了海莉纹身",
+      "onboard_time": 1770016160,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 214676,
       "num": 214676,
       "word": "新密码和旧密码不能相同",
@@ -1393,6 +1449,14 @@
       "onboard_time": 1769909058,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 211907,
+      "num": 211907,
+      "word": "戚薇李承铉原来是长期主义父母",
+      "onboard_time": 1770018201,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 208890,
@@ -1523,14 +1587,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 184212,
-      "num": 184212,
-      "word": "比伯后背纹了海莉纹身",
-      "onboard_time": 1770016160,
-      "rank": 25,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 184094,
       "num": 159509,
       "word": "金饰克价一夜跌134元",
@@ -1545,6 +1601,14 @@
       "onboard_time": 1769989880,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 182331,
+      "num": 240482,
+      "word": "宝格丽刘亦菲",
+      "onboard_time": 1770015800,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 182135,
@@ -1611,20 +1675,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 172413,
+      "num": 172413,
+      "word": "阚清子周一九宫格",
+      "onboard_time": 1770015321,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 172264,
       "num": 156523,
       "word": "王俊凯爬山",
       "onboard_time": 1769957003,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 171040,
-      "num": 162587,
-      "word": "阚清子周一九宫格",
-      "onboard_time": 1770015321,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 169327,
@@ -1793,14 +1857,6 @@
       "onboard_time": 1769871982,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 148564,
-      "num": 148564,
-      "word": "不用辞职请个假就行了",
-      "onboard_time": 1770015141,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 148210,
@@ -2051,6 +2107,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 134955,
+      "num": 134955,
+      "word": "白银2天跌光1个月涨幅",
+      "onboard_time": 1770016280,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 134922,
       "num": 134922,
       "word": "大侦探恐怖童谣天音重现",
@@ -2185,14 +2249,6 @@
       "onboard_time": 1770002360,
       "rank": 18,
       "category": "演出"
-    },
-    {
-      "raw_hot": 127209,
-      "num": 127209,
-      "word": "男子养4只鹦鹉3只死亡后全家倒下",
-      "onboard_time": 1770014540,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 127094,
@@ -2395,14 +2451,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 118540,
-      "num": 118540,
-      "word": "周五晚高疯",
-      "onboard_time": 1770013101,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 118475,
       "num": 118475,
       "word": "杜克拉黑小马哥",
@@ -2457,6 +2505,14 @@
       "onboard_time": 1770009022,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116822,
+      "num": 116822,
+      "word": "微博之夜老中青顶流都齐了",
+      "onboard_time": 1770018141,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 116762,
@@ -3035,6 +3091,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 94710,
+      "num": 94710,
+      "word": "韩国股市大跌触发熔断",
+      "onboard_time": 1770019341,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 94610,
       "num": 94610,
       "word": "知名品牌被曝牛奶吐司吃出牙齿",
@@ -3225,14 +3289,6 @@
       "onboard_time": 1769922921,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 89089,
-      "num": 89089,
-      "word": "白银2天跌光1个月涨幅",
-      "onboard_time": 1770016280,
-      "rank": 49,
-      "category": "财经"
     },
     {
       "raw_hot": 88980,
@@ -3691,6 +3747,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 69613,
+      "num": 239371,
+      "word": "2.5吨白银建的银楼白菜价甩卖却流拍",
+      "onboard_time": 1770018981,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69321,
       "num": 69321,
       "word": "阿尔卡拉斯vs德约科维奇",
@@ -3809,6 +3873,14 @@
       "onboard_time": 1769929701,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 62820,
+      "num": 235463,
+      "word": "12306回应取消订单3次当日无法购票",
+      "onboard_time": 1770018440,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 62807,
@@ -4035,6 +4107,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 49075,
+      "num": 181080,
+      "word": "抢头福这事儿多少带点地利",
+      "onboard_time": 1770015800,
+      "rank": 29,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 47618,
       "num": 236780,
       "word": "英首相回应安德鲁涉爱泼斯坦案",
@@ -4083,14 +4163,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 43938,
-      "num": 212903,
-      "word": "宝格丽刘亦菲",
-      "onboard_time": 1770015800,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 43689,
       "num": 101688,
       "word": "妻子回忆丈夫如厕猝死前5天",
@@ -4136,6 +4208,14 @@
       "word": "2026春节首日车票开售",
       "onboard_time": 1769937501,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37485,
+      "num": 257111,
+      "word": "人类最大规模周期性迁徙开始了",
+      "onboard_time": 1770018440,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -4195,20 +4275,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 35630,
+      "num": 116918,
+      "word": "有人速抛1公斤金条变现百万",
+      "onboard_time": 1770018261,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34736,
       "num": 144895,
       "word": "百余人参加所谓公益助学被骗上千万",
       "onboard_time": 1769915899,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 34722,
-      "num": 154018,
-      "word": "抢头福这事儿多少带点地利",
-      "onboard_time": 1770015800,
-      "rank": 29,
-      "category": "互联网"
     },
     {
       "raw_hot": 34488,
@@ -4387,6 +4467,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 26232,
+      "num": 117634,
+      "word": "张佳宁好明媚的杀青状态",
+      "onboard_time": 1770018261,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 25534,
+      "num": 161738,
+      "word": "千问宣布春节30亿免单吃喝玩乐",
+      "onboard_time": 1770019281,
+      "rank": 31,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 24939,
       "num": 39575,
       "word": "春运",
@@ -4401,6 +4497,14 @@
       "onboard_time": 1770015020,
       "rank": 48,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 24393,
+      "num": 243383,
+      "word": "唐嫣开年上演互换人生",
+      "onboard_time": 1770018261,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 24310,
@@ -4603,12 +4707,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 11700,
+      "num": 233618,
+      "word": "工人酸菜池抽烟吐痰3人禁业5年",
+      "onboard_time": 1770018861,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 11578,
       "num": 22087,
       "word": "微博之夜送TA霸屏",
       "onboard_time": 1769888895,
       "rank": 48,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 10372,
+      "num": 116852,
+      "word": "女子在园区被罚抱水桶深蹲300个",
+      "onboard_time": 1770019221,
+      "rank": 39,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
