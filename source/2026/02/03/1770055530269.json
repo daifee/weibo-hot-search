@@ -1,0 +1,410 @@
+{
+  "runTime": 1770055530269,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 261598,
+        "num": 275466,
+        "word": "芝麻凑分",
+        "onboard_time": 1770050478,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 179424,
+        "num": 204690,
+        "word": "白日提灯",
+        "onboard_time": 1770039804,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17192,
+        "num": 152124,
+        "word": "春运第1天流动量预计超1.8亿人次",
+        "onboard_time": 1770036802,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116182,
+        "num": 116182,
+        "word": "国投白银LOF重估基金资产",
+        "onboard_time": 1770044962,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 97055,
+        "num": 97055,
+        "word": "茉莉奶白战报",
+        "onboard_time": 1770037342,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 117094,
+        "num": 93220,
+        "word": "袁惟仁去世",
+        "onboard_time": 1770024800,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82816,
+        "num": 82816,
+        "word": "金银V型反转",
+        "onboard_time": 1770041124,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 78696,
+        "num": 78696,
+        "word": "高三女生睡眠不足5小时吹风致面瘫",
+        "onboard_time": 1770045622,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75867,
+        "num": 75867,
+        "word": "江苏盐城一座在建桥梁垮塌",
+        "onboard_time": 1770048081,
+        "rank": 8,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 64168,
+        "num": 64168,
+        "word": "胡歌演技",
+        "onboard_time": 1770048441,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 227397,
+        "num": 64136,
+        "word": "萨摩耶被两娃烧死主人回应质疑",
+        "onboard_time": 1770036141,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197720,
+        "num": 62855,
+        "word": "白银",
+        "onboard_time": 1770045742,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 152744,
+        "num": 62046,
+        "word": "爱泼斯坦案文件含裸照经提醒后被删除",
+        "onboard_time": 1770046162,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 146978,
+        "num": 61426,
+        "word": "被岳父母退99999元彩礼男子发声",
+        "onboard_time": 1770047001,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82704,
+        "num": 60169,
+        "word": "丈夫被指出轨怒揭妻子婚前多次堕胎",
+        "onboard_time": 1770047060,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78643,
+        "num": 58788,
+        "word": "爱泼斯坦因年龄问题拒绝24岁模特",
+        "onboard_time": 1770043701,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 76549,
+        "num": 58029,
+        "word": "连云港萨摩耶",
+        "onboard_time": 1770043644,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57888,
+        "num": 57888,
+        "word": "16号集体洗头",
+        "onboard_time": 1770024922,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 56521,
+        "num": 56521,
+        "word": "爱泼斯坦 吃人",
+        "onboard_time": 1769996779,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 48584,
+        "num": 56517,
+        "word": "亲爱的客栈",
+        "onboard_time": 1770051738,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151168,
+        "num": 55882,
+        "word": "韦德和曹格是对家",
+        "onboard_time": 1770050958,
+        "rank": 20,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 90185,
+        "num": 55179,
+        "word": "说好不熬 萨摩耶狗主人",
+        "onboard_time": 1770036021,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61267,
+        "num": 54839,
+        "word": "两男孩玩火烧死萨摩耶狗主人发声",
+        "onboard_time": 1770029061,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60676,
+        "num": 54088,
+        "word": "宋仲基23年1月再婚6月得子",
+        "onboard_time": 1770036982,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57891,
+        "num": 53707,
+        "word": "萨满直播道歉",
+        "onboard_time": 1770049639,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 53542,
+        "num": 53542,
+        "word": "痞幼威廉约会",
+        "onboard_time": 1770040643,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53441,
+        "num": 53441,
+        "word": "爱泼斯坦案文件含数十张裸照",
+        "onboard_time": 1770040944,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 45231,
+        "num": 45231,
+        "word": "微博之夜阵容夯爆了",
+        "onboard_time": 1770022820,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 40199,
+        "num": 40199,
+        "word": "赵睿道歉",
+        "onboard_time": 1770041663,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38611,
+        "num": 39854,
+        "word": "周生生足金挂坠被检测出含铁银钯",
+        "onboard_time": 1770045561,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39748,
+        "num": 39748,
+        "word": "爱泼斯坦生前采访谈到女性",
+        "onboard_time": 1770042383,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 39261,
+        "num": 39261,
+        "word": "穆祉丞 周五晚高疯发布会",
+        "onboard_time": 1770039742,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38340,
+        "num": 38340,
+        "word": "普京曾说西方精英惯食人肉",
+        "onboard_time": 1770026243,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 36653,
+        "num": 36653,
+        "word": "生命树",
+        "onboard_time": 1770032722,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35986,
+        "num": 35986,
+        "word": "微博之夜",
+        "onboard_time": 1770009322,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 33909,
+        "num": 35985,
+        "word": "柳宗源拍的白鹿",
+        "onboard_time": 1770037642,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33477,
+        "num": 35977,
+        "word": "5个人喝完奶茶陆续出现不适",
+        "onboard_time": 1770046942,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32389,
+        "num": 35970,
+        "word": "医生说健康的月经有个弹性范围",
+        "onboard_time": 1770040223,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 28418,
+        "num": 35969,
+        "word": "女方婚礼现场退还99999元彩礼",
+        "onboard_time": 1770040404,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25089,
+        "num": 35961,
+        "word": "BTS完整体机场",
+        "onboard_time": 1770045742,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24982,
+        "num": 35956,
+        "word": "王梓旭 颜鸢",
+        "onboard_time": 1770052458,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 24891,
+        "num": 35950,
+        "word": "TF四代路透",
+        "onboard_time": 1770054496,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24015,
+        "num": 35946,
+        "word": "汪铎穆祉丞 TFBOYS我师兄",
+        "onboard_time": 1770044482,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23767,
+        "num": 35940,
+        "word": "王一博像孙悟空一样出山了",
+        "onboard_time": 1770031162,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23452,
+        "num": 35936,
+        "word": "朴智旻机场",
+        "onboard_time": 1770049520,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22513,
+        "num": 35927,
+        "word": "17年后仙剑3重播收视还是第一",
+        "onboard_time": 1770034402,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22467,
+        "num": 35920,
+        "word": "马桶变喷泉全屋滂臭女子崩溃大哭",
+        "onboard_time": 1770044062,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21900,
+        "num": 35915,
+        "word": "微博之夜 豪华阵容",
+        "onboard_time": 1770031940,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 19494,
+        "num": 35911,
+        "word": "儿童神药卖不动了吗",
+        "onboard_time": 1770046942,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19207,
+        "num": 35905,
+        "word": "水贝又一金店陷入兑付危机",
+        "onboard_time": 1770047300,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#曾经一片沙如今变成青绿山水画#"
+    }
+  }
+}

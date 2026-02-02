@@ -1,6 +1,6 @@
 {
   "startTime": 1770051170355,
-  "endTime": 1770054358824,
+  "endTime": 1770055530269,
   "band_list": [
     {
       "raw_hot": 533691,
@@ -139,6 +139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 151168,
+      "num": 67987,
+      "word": "韦德和曹格是对家",
+      "onboard_time": 1770050958,
+      "rank": 47,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 150028,
       "num": 150028,
       "word": "微博之夜阵容夯爆了",
@@ -153,14 +161,6 @@
       "onboard_time": 1770040944,
       "rank": 22,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 127990,
-      "num": 67987,
-      "word": "韦德和曹格是对家",
-      "onboard_time": 1770050958,
-      "rank": 47,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 125407,
@@ -316,7 +316,7 @@
     },
     {
       "raw_hot": 56317,
-      "num": 56317,
+      "num": 56517,
       "word": "亲爱的客栈",
       "onboard_time": 1770051738,
       "rank": 35,
@@ -424,6 +424,22 @@
       "word": "朴智旻机场",
       "onboard_time": 1770049520,
       "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 24982,
+      "num": 35956,
+      "word": "王梓旭 颜鸢",
+      "onboard_time": 1770052458,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 24891,
+      "num": 35950,
+      "word": "TF四代路透",
+      "onboard_time": 1770054496,
+      "rank": 41,
       "category": "艺人"
     },
     {
