@@ -1,10 +1,10 @@
 {
   "startTime": 1769964003289,
-  "endTime": 1770000355502,
+  "endTime": 1770002757444,
   "band_list": [
     {
       "raw_hot": 3389142,
-      "num": 156082,
+      "num": 262100,
       "word": "爱泼斯坦 吃人",
       "onboard_time": 1769996779,
       "rank": 10,
@@ -17,6 +17,14 @@
       "onboard_time": 1769955561,
       "rank": 10,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1181160,
+      "num": 687524,
+      "word": "格莱美",
+      "onboard_time": 1769988918,
+      "rank": 1,
+      "category": "音乐"
     },
     {
       "raw_hot": 1115481,
@@ -35,12 +43,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 784136,
-      "num": 687524,
-      "word": "格莱美",
-      "onboard_time": 1769988918,
+      "raw_hot": 781504,
+      "num": 1125040,
+      "word": "爱泼斯坦受访时被问你是不是魔鬼",
+      "onboard_time": 1769997798,
       "rank": 1,
-      "category": "音乐"
+      "category": "海外新闻"
     },
     {
       "raw_hot": 677657,
@@ -60,7 +68,7 @@
     },
     {
       "raw_hot": 580257,
-      "num": 155898,
+      "num": 253744,
       "word": "迈克尔杰克逊对儿童私密想法录音曝光",
       "onboard_time": 1769994020,
       "rank": 11,
@@ -76,7 +84,7 @@
     },
     {
       "raw_hot": 551629,
-      "num": 154827,
+      "num": 242977,
       "word": "爱泼斯坦案文件",
       "onboard_time": 1769987777,
       "rank": 41,
@@ -100,11 +108,19 @@
     },
     {
       "raw_hot": 498635,
-      "num": 151666,
+      "num": 227157,
       "word": "黄金白银又跌麻了",
       "onboard_time": 1769990720,
       "rank": 21,
       "category": "财经"
+    },
+    {
+      "raw_hot": 450164,
+      "num": 450164,
+      "word": "朴彩英火星哥格莱美开场",
+      "onboard_time": 1769996779,
+      "rank": 3,
+      "category": "演出"
     },
     {
       "raw_hot": 429047,
@@ -123,12 +139,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 419050,
-      "num": 419050,
-      "word": "朴彩英火星哥格莱美开场",
-      "onboard_time": 1769996779,
-      "rank": 3,
-      "category": "演出"
+      "raw_hot": 399727,
+      "num": 791167,
+      "word": "白家犯罪集团4人被执行死刑",
+      "onboard_time": 1770000800,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 373742,
@@ -148,7 +164,7 @@
     },
     {
       "raw_hot": 368376,
-      "num": 246958,
+      "num": 266291,
       "word": "不会化妆的建议反复观看",
       "onboard_time": 1769994261,
       "rank": 5,
@@ -171,12 +187,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 340219,
+      "num": 340219,
+      "word": "格莱美直播",
+      "onboard_time": 1769994921,
+      "rank": 4,
+      "category": "演出"
+    },
+    {
       "raw_hot": 333887,
-      "num": 153915,
+      "num": 218701,
       "word": "周杰伦晒与王俊凯合照",
       "onboard_time": 1769994979,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 324128,
+      "num": 324128,
+      "word": "陈小春一家四口首登春晚",
+      "onboard_time": 1770000499,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 317320,
@@ -187,28 +219,36 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 303793,
-      "num": 787834,
-      "word": "爱泼斯坦受访时被问你是不是魔鬼",
-      "onboard_time": 1769997798,
-      "rank": 1,
-      "category": "海外新闻"
+      "raw_hot": 297650,
+      "num": 247538,
+      "word": "成何体统",
+      "onboard_time": 1769996360,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 285488,
-      "num": 151223,
+      "num": 222260,
       "word": "美甲的第一批受害者出现了",
       "onboard_time": 1769997141,
       "rank": 22,
       "category": "健康医疗"
     },
     {
-      "raw_hot": 262024,
-      "num": 262024,
-      "word": "格莱美直播",
-      "onboard_time": 1769994921,
-      "rank": 4,
-      "category": "演出"
+      "raw_hot": 282198,
+      "num": 282198,
+      "word": "黄金有望涨至6000美元",
+      "onboard_time": 1769999421,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 261274,
+      "num": 218870,
+      "word": "黄金白银继续暴跌",
+      "onboard_time": 1769992881,
+      "rank": 17,
+      "category": "财经"
     },
     {
       "raw_hot": 246717,
@@ -235,12 +275,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 233854,
-      "num": 153187,
-      "word": "黄金白银继续暴跌",
-      "onboard_time": 1769992881,
-      "rank": 17,
-      "category": "财经"
+      "raw_hot": 241616,
+      "num": 241616,
+      "word": "简笔画官宣杨紫",
+      "onboard_time": 1769999900,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 228469,
@@ -267,12 +307,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 223744,
-      "num": 223744,
-      "word": "成何体统",
-      "onboard_time": 1769996360,
-      "rank": 6,
-      "category": "剧集"
+      "raw_hot": 212614,
+      "num": 212614,
+      "word": "向太认可是自己娶了郭碧婷",
+      "onboard_time": 1770001640,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 210154,
@@ -283,8 +323,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 197489,
+      "num": 264715,
+      "word": "小米高管疑似爆料YU9",
+      "onboard_time": 1770001099,
+      "rank": 9,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 189169,
-      "num": 189169,
+      "num": 230861,
       "word": "男婴洗澡久盯浴霸灯右眼永久弱视",
       "onboard_time": 1769988137,
       "rank": 19,
@@ -308,7 +356,7 @@
     },
     {
       "raw_hot": 184094,
-      "num": 150853,
+      "num": 159509,
       "word": "金饰克价一夜跌134元",
       "onboard_time": 1769997199,
       "rank": 23,
@@ -316,7 +364,7 @@
     },
     {
       "raw_hot": 183999,
-      "num": 150579,
+      "num": 155317,
       "word": "吴克群帮忙救场于文文",
       "onboard_time": 1769989880,
       "rank": 24,
@@ -347,12 +395,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 156433,
-      "num": 156433,
-      "word": "黄金有望涨至6000美元",
-      "onboard_time": 1769999421,
-      "rank": 9,
-      "category": "财经"
+      "raw_hot": 153132,
+      "num": 153132,
+      "word": "特朗普回应被爱泼斯坦案文件提及",
+      "onboard_time": 1770001941,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 149894,
@@ -387,6 +435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 142488,
+      "num": 142488,
+      "word": "名侦探柯南联动背刺中国粉丝",
+      "onboard_time": 1770000499,
+      "rank": 30,
+      "category": "民生新闻,动漫"
+    },
+    {
       "raw_hot": 134547,
       "num": 95079,
       "word": "在低端餐厅不吃用花生做的菜",
@@ -419,6 +475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 127294,
+      "num": 239545,
+      "word": "张韶涵已争气争气再争气",
+      "onboard_time": 1770002360,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 126802,
       "num": 102709,
       "word": "荣耀之战 谁的扣子",
@@ -433,6 +497,22 @@
       "onboard_time": 1769996540,
       "rank": 28,
       "category": "财经"
+    },
+    {
+      "raw_hot": 123013,
+      "num": 123013,
+      "word": "上海黄金交易所紧急出手",
+      "onboard_time": 1770001700,
+      "rank": 32,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 120223,
+      "num": 120223,
+      "word": "爱泼斯坦文件提及泽连斯基",
+      "onboard_time": 1770001160,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 118218,
@@ -475,6 +555,46 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 109497,
+      "num": 109497,
+      "word": "比伯海莉格莱美红毯",
+      "onboard_time": 1770001041,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 108428,
+      "num": 108428,
+      "word": "成何体统定档",
+      "onboard_time": 1770002600,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 108233,
+      "num": 108233,
+      "word": "甘肃浆水面",
+      "onboard_time": 1769997500,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 106546,
+      "num": 106546,
+      "word": "这还是我认识的土拨鼠吗",
+      "onboard_time": 1770002240,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 106209,
+      "num": 106209,
+      "word": "LadyGaga格莱美最佳专辑",
+      "onboard_time": 1770002541,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 105494,
       "num": 105494,
       "word": "俄罗斯夜空同时出现4个月亮",
@@ -483,20 +603,28 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 103611,
-      "num": 103611,
-      "word": "甘肃浆水面",
-      "onboard_time": 1769997500,
-      "rank": 35,
-      "category": "美食"
+      "raw_hot": 103974,
+      "num": 103319,
+      "word": "这居然是胡歌",
+      "onboard_time": 1770002120,
+      "rank": 44,
+      "category": "剧集"
     },
     {
-      "raw_hot": 103406,
-      "num": 103406,
-      "word": "简笔画官宣杨紫",
-      "onboard_time": 1769999900,
-      "rank": 36,
-      "category": "作品衍生"
+      "raw_hot": 100236,
+      "num": 100236,
+      "word": "女儿卖房赠男友282万母亲起诉全追回",
+      "onboard_time": 1770001341,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 99856,
+      "num": 99856,
+      "word": "剑网3",
+      "onboard_time": 1770000979,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 99544,
@@ -633,6 +761,14 @@
       "onboard_time": 1769999780,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 78655,
+      "num": 106313,
+      "word": "朱时茂张兴朝李嘉诚 春晚顶配",
+      "onboard_time": 1770002659,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 77199,
@@ -827,6 +963,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 47618,
+      "num": 236780,
+      "word": "英首相回应安德鲁涉爱泼斯坦案",
+      "onboard_time": 1770002300,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 45502,
       "num": 45502,
       "word": "回家过年",
@@ -851,6 +995,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 41450,
+      "num": 106227,
+      "word": "官方通报临街门面被连夜砌墙封堵",
+      "onboard_time": 1770002300,
+      "rank": 39,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 36581,
       "num": 36581,
       "word": "宋亚轩感谢摄影大师丁程鑫",
@@ -865,6 +1017,14 @@
       "onboard_time": 1769949381,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 30256,
+      "num": 673786,
+      "word": "2026春运开启",
+      "onboard_time": 1770001881,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29924,
@@ -982,6 +1142,9 @@
   "hotgov_list": [
     {
       "word": "#开年首月中国何以掀起外交热潮#"
+    },
+    {
+      "word": "#总书记对旅客的暖心祝福#"
     }
   ]
 }

@@ -1,0 +1,410 @@
+{
+  "runTime": 1770002757444,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 781504,
+        "num": 1125040,
+        "word": "爱泼斯坦受访时被问你是不是魔鬼",
+        "onboard_time": 1769997798,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 399727,
+        "num": 791167,
+        "word": "白家犯罪集团4人被执行死刑",
+        "onboard_time": 1770000800,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30256,
+        "num": 673786,
+        "word": "2026春运开启",
+        "onboard_time": 1770001881,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 450164,
+        "num": 450164,
+        "word": "朴彩英火星哥格莱美开场",
+        "onboard_time": 1769996779,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 365146,
+        "num": 365146,
+        "word": "丫丫回国两年判若两熊",
+        "onboard_time": 1769994560,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 340219,
+        "num": 340219,
+        "word": "格莱美直播",
+        "onboard_time": 1769994921,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 324128,
+        "num": 324128,
+        "word": "陈小春一家四口首登春晚",
+        "onboard_time": 1770000499,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 282198,
+        "num": 282198,
+        "word": "黄金有望涨至6000美元",
+        "onboard_time": 1769999421,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 266291,
+        "num": 266291,
+        "word": "不会化妆的建议反复观看",
+        "onboard_time": 1769994261,
+        "rank": 8,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 197489,
+        "num": 264715,
+        "word": "小米高管疑似爆料YU9",
+        "onboard_time": 1770001099,
+        "rank": 9,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 3263949,
+        "num": 262100,
+        "word": "爱泼斯坦 吃人",
+        "onboard_time": 1769996779,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 755337,
+        "num": 257574,
+        "word": "萝莉岛",
+        "onboard_time": 1769955561,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 602540,
+        "num": 254096,
+        "word": "爱泼斯坦",
+        "onboard_time": 1769955622,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 516597,
+        "num": 253744,
+        "word": "迈克尔杰克逊对儿童私密想法录音曝光",
+        "onboard_time": 1769994020,
+        "rank": 13,
+        "category": "艺人,海外新闻"
+      },
+      {
+        "raw_hot": 381466,
+        "num": 248835,
+        "word": "爱泼斯坦案曝安德鲁王子跪地照",
+        "onboard_time": 1769988078,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 297650,
+        "num": 247538,
+        "word": "成何体统",
+        "onboard_time": 1769996360,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 282118,
+        "num": 242977,
+        "word": "爱泼斯坦案文件",
+        "onboard_time": 1769987777,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 241616,
+        "num": 241616,
+        "word": "简笔画官宣杨紫",
+        "onboard_time": 1769999900,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 127294,
+        "num": 239545,
+        "word": "张韶涵已争气争气再争气",
+        "onboard_time": 1770002360,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 47618,
+        "num": 236780,
+        "word": "英首相回应安德鲁涉爱泼斯坦案",
+        "onboard_time": 1770002300,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1181160,
+        "num": 234718,
+        "word": "格莱美",
+        "onboard_time": 1769988918,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 182269,
+        "num": 230861,
+        "word": "男婴洗澡久盯浴霸灯右眼永久弱视",
+        "onboard_time": 1769988137,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 382345,
+        "num": 227157,
+        "word": "黄金白银又跌麻了",
+        "onboard_time": 1769990720,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 252308,
+        "num": 222260,
+        "word": "美甲的第一批受害者出现了",
+        "onboard_time": 1769997141,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 261274,
+        "num": 218870,
+        "word": "黄金白银继续暴跌",
+        "onboard_time": 1769992881,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 218701,
+        "num": 218701,
+        "word": "周杰伦晒与王俊凯合照",
+        "onboard_time": 1769994979,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212614,
+        "num": 212614,
+        "word": "向太认可是自己娶了郭碧婷",
+        "onboard_time": 1770001640,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159509,
+        "num": 159509,
+        "word": "金饰克价一夜跌134元",
+        "onboard_time": 1769997199,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 155317,
+        "num": 155317,
+        "word": "吴克群帮忙救场于文文",
+        "onboard_time": 1769989880,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 153132,
+        "num": 153132,
+        "word": "特朗普回应被爱泼斯坦案文件提及",
+        "onboard_time": 1770001941,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 142488,
+        "num": 142488,
+        "word": "名侦探柯南联动背刺中国粉丝",
+        "onboard_time": 1770000499,
+        "rank": 30,
+        "category": "民生新闻,动漫"
+      },
+      {
+        "raw_hot": 128593,
+        "num": 128593,
+        "word": "白银",
+        "onboard_time": 1769994020,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 123013,
+        "num": 123013,
+        "word": "上海黄金交易所紧急出手",
+        "onboard_time": 1770001700,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 120223,
+        "num": 120223,
+        "word": "爱泼斯坦文件提及泽连斯基",
+        "onboard_time": 1770001160,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 109497,
+        "num": 109497,
+        "word": "比伯海莉格莱美红毯",
+        "onboard_time": 1770001041,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 108428,
+        "num": 108428,
+        "word": "成何体统定档",
+        "onboard_time": 1770002600,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108233,
+        "num": 108233,
+        "word": "甘肃浆水面",
+        "onboard_time": 1769997500,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 106546,
+        "num": 106546,
+        "word": "这还是我认识的土拨鼠吗",
+        "onboard_time": 1770002240,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 78655,
+        "num": 106313,
+        "word": "朱时茂张兴朝李嘉诚 春晚顶配",
+        "onboard_time": 1770002659,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 41450,
+        "num": 106227,
+        "word": "官方通报临街门面被连夜砌墙封堵",
+        "onboard_time": 1770002300,
+        "rank": 39,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 106209,
+        "num": 106209,
+        "word": "LadyGaga格莱美最佳专辑",
+        "onboard_time": 1770002541,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 105159,
+        "num": 105159,
+        "word": "大学时期的迪丽热巴",
+        "onboard_time": 1769989399,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103332,
+        "num": 103332,
+        "word": "穿普拉达的女王2正式预告",
+        "onboard_time": 1769997860,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 103805,
+        "num": 103326,
+        "word": "金价",
+        "onboard_time": 1769988378,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 103974,
+        "num": 103319,
+        "word": "这居然是胡歌",
+        "onboard_time": 1770002120,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103312,
+        "num": 103312,
+        "word": "员工多看了一眼挽损1800万被奖1万",
+        "onboard_time": 1769959341,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100236,
+        "num": 100236,
+        "word": "女儿卖房赠男友282万母亲起诉全追回",
+        "onboard_time": 1770001341,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99856,
+        "num": 99856,
+        "word": "剑网3",
+        "onboard_time": 1770000979,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 97641,
+        "num": 97641,
+        "word": "周杰伦带王俊凯陈奕迅聚餐",
+        "onboard_time": 1769997021,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95552,
+        "num": 95552,
+        "word": "A股",
+        "onboard_time": 1770000259,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记对旅客的暖心祝福#"
+    }
+  }
+}
