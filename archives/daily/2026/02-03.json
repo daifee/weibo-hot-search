@@ -1,7 +1,15 @@
 {
   "startTime": 1770051170355,
-  "endTime": 1770055530269,
+  "endTime": 1770075438056,
   "band_list": [
+    {
+      "raw_hot": 1332901,
+      "num": 107782,
+      "word": "马斯克女儿爆料",
+      "onboard_time": 1770073636,
+      "rank": 10,
+      "category": "海外新闻"
+    },
     {
       "raw_hot": 533691,
       "num": 146532,
@@ -27,6 +35,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 390145,
+      "num": 106797,
+      "word": "被岳父母退99999元彩礼男子发声",
+      "onboard_time": 1770047001,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 371881,
       "num": 499611,
       "word": "茉莉奶白战报",
@@ -36,7 +52,7 @@
     },
     {
       "raw_hot": 357996,
-      "num": 408057,
+      "num": 620323,
       "word": "白日提灯",
       "onboard_time": 1770039804,
       "rank": 3,
@@ -51,20 +67,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 305644,
+      "num": 131791,
+      "word": "爱泼斯坦因年龄问题拒绝24岁模特",
+      "onboard_time": 1770043701,
+      "rank": 13,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 297158,
       "num": 297158,
       "word": "国投白银LOF重估基金资产",
       "onboard_time": 1770044962,
       "rank": 4,
       "category": "财经"
-    },
-    {
-      "raw_hot": 291647,
-      "num": 131791,
-      "word": "爱泼斯坦因年龄问题拒绝24岁模特",
-      "onboard_time": 1770043701,
-      "rank": 13,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 269773,
@@ -83,12 +99,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 236503,
-      "num": 236503,
+      "raw_hot": 243851,
+      "num": 243851,
       "word": "金银V型反转",
       "onboard_time": 1770041124,
       "rank": 6,
       "category": "财经"
+    },
+    {
+      "raw_hot": 243139,
+      "num": 848902,
+      "word": "江苏盐城一座在建桥梁垮塌",
+      "onboard_time": 1770048081,
+      "rank": 7,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 228462,
@@ -99,14 +123,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 215586,
-      "num": 215586,
-      "word": "江苏盐城一座在建桥梁垮塌",
-      "onboard_time": 1770048081,
-      "rank": 7,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 207493,
       "num": 107769,
       "word": "说好不熬 萨摩耶狗主人",
@@ -115,27 +131,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 182338,
-      "num": 105319,
-      "word": "两男孩玩火烧死萨摩耶狗主人发声",
-      "onboard_time": 1770029061,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 172425,
-      "num": 172425,
+      "raw_hot": 198757,
+      "num": 198757,
       "word": "高三女生睡眠不足5小时吹风致面瘫",
       "onboard_time": 1770045622,
       "rank": 8,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 166589,
-      "num": 99210,
-      "word": "被岳父母退99999元彩礼男子发声",
-      "onboard_time": 1770047001,
-      "rank": 27,
+      "raw_hot": 182338,
+      "num": 105319,
+      "word": "两男孩玩火烧死萨摩耶狗主人发声",
+      "onboard_time": 1770029061,
+      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -155,12 +163,44 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 143001,
+      "num": 122625,
+      "word": "医生说健康的月经有个弹性范围",
+      "onboard_time": 1770040223,
+      "rank": 16,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 133083,
+      "num": 101393,
+      "word": "周生生足金挂坠被检测出含铁银钯",
+      "onboard_time": 1770045561,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 129526,
       "num": 104710,
       "word": "爱泼斯坦案文件含数十张裸照",
       "onboard_time": 1770040944,
       "rank": 22,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 128910,
+      "num": 101682,
+      "word": "宋仲基23年1月再婚6月得子",
+      "onboard_time": 1770036982,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 127278,
+      "num": 127278,
+      "word": "中方要求美方立即停止错误行径",
+      "onboard_time": 1770075020,
+      "rank": 7,
+      "category": "国内时政"
     },
     {
       "raw_hot": 125407,
@@ -171,20 +211,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 122713,
-      "num": 101682,
-      "word": "宋仲基23年1月再婚6月得子",
-      "onboard_time": 1770036982,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 122625,
-      "num": 122625,
-      "word": "医生说健康的月经有个弹性范围",
-      "onboard_time": 1770040223,
-      "rank": 16,
-      "category": "健康医疗"
+      "raw_hot": 125184,
+      "num": 125184,
+      "word": "生命树",
+      "onboard_time": 1770032722,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 122324,
@@ -203,11 +235,19 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 114253,
-      "num": 101393,
-      "word": "周生生足金挂坠被检测出含铁银钯",
-      "onboard_time": 1770045561,
-      "rank": 24,
+      "raw_hot": 109400,
+      "num": 65568,
+      "word": "被这种家庭生出来的孩子一定很幸福",
+      "onboard_time": 1770074958,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 109223,
+      "num": 109223,
+      "word": "5个人喝完奶茶陆续出现不适",
+      "onboard_time": 1770046942,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -219,12 +259,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 96988,
+      "num": 96988,
+      "word": "捧红王菲那英SHE的小胖走了",
+      "onboard_time": 1770066674,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 95858,
+      "num": 95858,
+      "word": "江苏盐城在建大桥塌落已致2死",
+      "onboard_time": 1770073937,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87638,
       "num": 87638,
       "word": "女方婚礼现场退还99999元彩礼",
       "onboard_time": 1770040404,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 85865,
+      "num": 64860,
+      "word": "阳台上突然出现六颗小狗头",
+      "onboard_time": 1770075020,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 83861,
@@ -243,11 +307,11 @@
       "category": "网红"
     },
     {
-      "raw_hot": 80547,
-      "num": 80547,
-      "word": "5个人喝完奶茶陆续出现不适",
-      "onboard_time": 1770046942,
-      "rank": 30,
+      "raw_hot": 79597,
+      "num": 79597,
+      "word": "灵隐寺被38万鸽王上了一课",
+      "onboard_time": 1770075020,
+      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -267,6 +331,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 79373,
+      "num": 79373,
+      "word": "肖战帷幕拉开",
+      "onboard_time": 1770034521,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 79190,
+      "num": 79190,
+      "word": "春运第1天被这个大屏震撼到了",
+      "onboard_time": 1770075020,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 72860,
       "num": 72860,
       "word": "穆祉丞 周五晚高疯发布会",
@@ -283,12 +363,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 68345,
-      "num": 68345,
-      "word": "生命树",
-      "onboard_time": 1770032722,
-      "rank": 35,
-      "category": "剧集"
+      "raw_hot": 62883,
+      "num": 62883,
+      "word": "王一博像孙悟空一样出山了",
+      "onboard_time": 1770031162,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 61094,
@@ -323,11 +403,43 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 55254,
+      "num": 55254,
+      "word": "公司回应国投瑞银白银lof净值跌31.5%",
+      "onboard_time": 1770073758,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 53415,
       "num": 68175,
       "word": "BTS完整体机场",
       "onboard_time": 1770045742,
       "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 53356,
+      "num": 53356,
+      "word": "杨紫生命树的演技",
+      "onboard_time": 1770073636,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 52963,
+      "num": 68094,
+      "word": "儿童神药卖不动了吗",
+      "onboard_time": 1770046942,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 52114,
+      "num": 52114,
+      "word": "佘诗曼回应2亿身家",
+      "onboard_time": 1770074958,
+      "rank": 37,
       "category": "艺人"
     },
     {
@@ -337,6 +449,22 @@
       "onboard_time": 1770043644,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 50640,
+      "num": 50640,
+      "word": "黄金波动率创2008年新高",
+      "onboard_time": 1770074478,
+      "rank": 38,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 49895,
+      "num": 49895,
+      "word": "支付宝集五福",
+      "onboard_time": 1770074899,
+      "rank": 39,
+      "category": "互联网"
     },
     {
       "raw_hot": 49165,
@@ -371,14 +499,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 47513,
-      "num": 68094,
-      "word": "儿童神药卖不动了吗",
-      "onboard_time": 1770046942,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 46990,
       "num": 68016,
       "word": "银价波动",
@@ -387,11 +507,35 @@
       "category": "财经"
     },
     {
+      "raw_hot": 46492,
+      "num": 46492,
+      "word": "最新研究称衰老或是遗传的",
+      "onboard_time": 1770073397,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 45565,
+      "num": 45565,
+      "word": "高市早苗五指缠满绷带卖惨拉票",
+      "onboard_time": 1770040162,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 44692,
       "num": 67945,
       "word": "生命树电视热度",
       "onboard_time": 1770045263,
       "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 41156,
+      "num": 41156,
+      "word": "尚公主杀青",
+      "onboard_time": 1770039502,
+      "rank": 47,
       "category": "剧集"
     },
     {
@@ -411,12 +555,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 36621,
-      "num": 55057,
-      "word": "王一博像孙悟空一样出山了",
-      "onboard_time": 1770031162,
-      "rank": 48,
-      "category": "艺人"
+      "raw_hot": 36020,
+      "num": 41152,
+      "word": "一诺 桃黑黑",
+      "onboard_time": 1770075378,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 29311,
+      "num": 504425,
+      "word": "春运第1天流动量预计超1.8亿人次",
+      "onboard_time": 1770036802,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25217,
@@ -449,14 +601,6 @@
       "onboard_time": 1770041604,
       "rank": 48,
       "category": "网红"
-    },
-    {
-      "raw_hot": 19319,
-      "num": 319188,
-      "word": "春运第1天流动量预计超1.8亿人次",
-      "onboard_time": 1770036802,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 17133,

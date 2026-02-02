@@ -1,0 +1,410 @@
+{
+  "runTime": 1770075438056,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 243139,
+        "num": 848902,
+        "word": "江苏盐城一座在建桥梁垮塌",
+        "onboard_time": 1770048081,
+        "rank": 0,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 222456,
+        "num": 620323,
+        "word": "白日提灯",
+        "onboard_time": 1770039804,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29311,
+        "num": 504425,
+        "word": "春运第1天流动量预计超1.8亿人次",
+        "onboard_time": 1770036802,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 243851,
+        "num": 243851,
+        "word": "金银V型反转",
+        "onboard_time": 1770041124,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 185725,
+        "num": 219318,
+        "word": "国投白银LOF重估基金资产",
+        "onboard_time": 1770044962,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 198757,
+        "num": 198757,
+        "word": "高三女生睡眠不足5小时吹风致面瘫",
+        "onboard_time": 1770045622,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190186,
+        "num": 190186,
+        "word": "袁惟仁去世",
+        "onboard_time": 1770024800,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127278,
+        "num": 127278,
+        "word": "中方要求美方立即停止错误行径",
+        "onboard_time": 1770075020,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 125184,
+        "num": 125184,
+        "word": "生命树",
+        "onboard_time": 1770032722,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109223,
+        "num": 109223,
+        "word": "5个人喝完奶茶陆续出现不适",
+        "onboard_time": 1770046942,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1332901,
+        "num": 107782,
+        "word": "马斯克女儿爆料",
+        "onboard_time": 1770073636,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 390145,
+        "num": 106797,
+        "word": "被岳父母退99999元彩礼男子发声",
+        "onboard_time": 1770047001,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 305644,
+        "num": 105247,
+        "word": "爱泼斯坦因年龄问题拒绝24岁模特",
+        "onboard_time": 1770043701,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 245360,
+        "num": 104042,
+        "word": "丈夫被指出轨怒揭妻子婚前多次堕胎",
+        "onboard_time": 1770047060,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214527,
+        "num": 102217,
+        "word": "萨摩耶被两娃烧死主人回应质疑",
+        "onboard_time": 1770036141,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179530,
+        "num": 100405,
+        "word": "白银",
+        "onboard_time": 1770045742,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 143001,
+        "num": 98889,
+        "word": "医生说健康的月经有个弹性范围",
+        "onboard_time": 1770040223,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 132065,
+        "num": 97464,
+        "word": "爱泼斯坦案文件含裸照经提醒后被删除",
+        "onboard_time": 1770046162,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 96988,
+        "num": 96988,
+        "word": "捧红王菲那英SHE的小胖走了",
+        "onboard_time": 1770066674,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95858,
+        "num": 95858,
+        "word": "江苏盐城在建大桥塌落已致2死",
+        "onboard_time": 1770073937,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133083,
+        "num": 94000,
+        "word": "周生生足金挂坠被检测出含铁银钯",
+        "onboard_time": 1770045561,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128910,
+        "num": 93123,
+        "word": "宋仲基23年1月再婚6月得子",
+        "onboard_time": 1770036982,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88219,
+        "num": 88219,
+        "word": "爱泼斯坦案文件含数十张裸照",
+        "onboard_time": 1770040944,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 80849,
+        "num": 80849,
+        "word": "连云港萨摩耶",
+        "onboard_time": 1770043644,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79597,
+        "num": 79597,
+        "word": "灵隐寺被38万鸽王上了一课",
+        "onboard_time": 1770075020,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79373,
+        "num": 79373,
+        "word": "肖战帷幕拉开",
+        "onboard_time": 1770034521,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 79190,
+        "num": 79190,
+        "word": "春运第1天被这个大屏震撼到了",
+        "onboard_time": 1770075020,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76479,
+        "num": 76479,
+        "word": "芝麻凑分",
+        "onboard_time": 1770050478,
+        "rank": 27,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 70173,
+        "num": 70173,
+        "word": "说好不熬 萨摩耶狗主人",
+        "onboard_time": 1770036021,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66055,
+        "num": 66055,
+        "word": "韦德和曹格是对家",
+        "onboard_time": 1770050958,
+        "rank": 29,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 109400,
+        "num": 65568,
+        "word": "被这种家庭生出来的孩子一定很幸福",
+        "onboard_time": 1770074958,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 85865,
+        "num": 64860,
+        "word": "阳台上突然出现六颗小狗头",
+        "onboard_time": 1770075020,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 62883,
+        "num": 62883,
+        "word": "王一博像孙悟空一样出山了",
+        "onboard_time": 1770031162,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55331,
+        "num": 55331,
+        "word": "茉莉奶白战报",
+        "onboard_time": 1770037342,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 55254,
+        "num": 55254,
+        "word": "公司回应国投瑞银白银lof净值跌31.5%",
+        "onboard_time": 1770073758,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 53356,
+        "num": 53356,
+        "word": "杨紫生命树的演技",
+        "onboard_time": 1770073636,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52963,
+        "num": 52963,
+        "word": "儿童神药卖不动了吗",
+        "onboard_time": 1770046942,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52114,
+        "num": 52114,
+        "word": "佘诗曼回应2亿身家",
+        "onboard_time": 1770074958,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50640,
+        "num": 50640,
+        "word": "黄金波动率创2008年新高",
+        "onboard_time": 1770074478,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 49895,
+        "num": 49895,
+        "word": "支付宝集五福",
+        "onboard_time": 1770074899,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 49503,
+        "num": 49503,
+        "word": "马桶变喷泉全屋滂臭女子崩溃大哭",
+        "onboard_time": 1770044062,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48343,
+        "num": 48343,
+        "word": "普京曾说西方精英惯食人肉",
+        "onboard_time": 1770026243,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 46492,
+        "num": 46492,
+        "word": "最新研究称衰老或是遗传的",
+        "onboard_time": 1770073397,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 46458,
+        "num": 46458,
+        "word": "胡歌演技",
+        "onboard_time": 1770048441,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45771,
+        "num": 45771,
+        "word": "16号集体洗头",
+        "onboard_time": 1770024922,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 45565,
+        "num": 45565,
+        "word": "高市早苗五指缠满绷带卖惨拉票",
+        "onboard_time": 1770040162,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 42329,
+        "num": 42329,
+        "word": "两男孩玩火烧死萨摩耶狗主人发声",
+        "onboard_time": 1770029061,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41156,
+        "num": 41156,
+        "word": "尚公主杀青",
+        "onboard_time": 1770039502,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37348,
+        "num": 41153,
+        "word": "痞幼威廉约会",
+        "onboard_time": 1770040643,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36020,
+        "num": 41152,
+        "word": "一诺 桃黑黑",
+        "onboard_time": 1770075378,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#曾经一片沙如今变成青绿山水画#"
+    }
+  }
+}
