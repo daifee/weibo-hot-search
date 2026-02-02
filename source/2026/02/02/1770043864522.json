@@ -1,0 +1,410 @@
+{
+  "runTime": 1770043864522,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1043248,
+        "num": 1166919,
+        "word": "茉莉奶白战报",
+        "onboard_time": 1770037342,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 420678,
+        "num": 851391,
+        "word": "微博之夜阵容夯爆了",
+        "onboard_time": 1770022820,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 19646,
+        "num": 695835,
+        "word": "2026春运奔赴团圆路",
+        "onboard_time": 1770037222,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 472744,
+        "num": 472744,
+        "word": "金银V型反转",
+        "onboard_time": 1770041124,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 363430,
+        "num": 363430,
+        "word": "尚公主杀青",
+        "onboard_time": 1770039502,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 719054,
+        "num": 361906,
+        "word": "袁惟仁去世",
+        "onboard_time": 1770024800,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 348196,
+        "num": 348196,
+        "word": "16号集体洗头",
+        "onboard_time": 1770024922,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 227069,
+        "num": 347293,
+        "word": "孩子1.7万私卖金镯现值3万左右",
+        "onboard_time": 1770035182,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163891,
+        "num": 346436,
+        "word": "新疆打馕小伙因酷似泽连斯基走红",
+        "onboard_time": 1770037222,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85554,
+        "num": 345705,
+        "word": "BLG战胜WBG",
+        "onboard_time": 1770043701,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 665544,
+        "num": 344606,
+        "word": "医生说健康的月经有个弹性范围",
+        "onboard_time": 1770040223,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 378542,
+        "num": 342793,
+        "word": "萨摩耶被两娃烧死主人回应质疑",
+        "onboard_time": 1770036141,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 364312,
+        "num": 341522,
+        "word": "爱泼斯坦 吃人",
+        "onboard_time": 1769996779,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 341448,
+        "num": 341448,
+        "word": "白日提灯",
+        "onboard_time": 1770039804,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 266957,
+        "num": 266957,
+        "word": "赵睿道歉",
+        "onboard_time": 1770041663,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 266584,
+        "num": 266584,
+        "word": "女方婚礼现场退还99999元彩礼",
+        "onboard_time": 1770040404,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 255161,
+        "num": 255161,
+        "word": "普京曾说西方精英惯食人肉",
+        "onboard_time": 1770026243,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 106445,
+        "num": 248825,
+        "word": "退休一共要缴纳多少年社保",
+        "onboard_time": 1770017781,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 242783,
+        "num": 242783,
+        "word": "柳宗源拍的白鹿",
+        "onboard_time": 1770037642,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226316,
+        "num": 226316,
+        "word": "穆祉丞 周五晚高疯发布会",
+        "onboard_time": 1770039742,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 866759,
+        "num": 223985,
+        "word": "两男孩玩火烧死萨摩耶狗主人发声",
+        "onboard_time": 1770029061,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 781026,
+        "num": 219755,
+        "word": "痞幼威廉约会",
+        "onboard_time": 1770040643,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 488712,
+        "num": 215127,
+        "word": "说好不熬 萨摩耶狗主人",
+        "onboard_time": 1770036021,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 322339,
+        "num": 210151,
+        "word": "爱泼斯坦案文件含数十张裸照",
+        "onboard_time": 1770040944,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 233380,
+        "num": 204111,
+        "word": "宋仲基23年1月再婚6月得子",
+        "onboard_time": 1770036982,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203645,
+        "num": 203645,
+        "word": "黄圣依也逃不过让孩子穿红色",
+        "onboard_time": 1770040343,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136308,
+        "num": 166283,
+        "word": "6旬老人猥亵7岁女童其家属还挑衅",
+        "onboard_time": 1770038423,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161017,
+        "num": 161017,
+        "word": "王鹤棣把外套给黄灿灿挡风",
+        "onboard_time": 1770033381,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101109,
+        "num": 160859,
+        "word": "美国佛州再现天降蜥蜴",
+        "onboard_time": 1770039143,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 80125,
+        "num": 160750,
+        "word": "女子兼职羽绒服代购最高日赚3000多",
+        "onboard_time": 1770041783,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162218,
+        "num": 160746,
+        "word": "爱泼斯坦因年龄问题拒绝24岁模特",
+        "onboard_time": 1770043701,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 160742,
+        "num": 160742,
+        "word": "爱泼斯坦生前采访谈到女性",
+        "onboard_time": 1770042383,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 140124,
+        "num": 140124,
+        "word": "生命树",
+        "onboard_time": 1770032722,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133890,
+        "num": 133890,
+        "word": "爱泼斯坦毫不避讳承认是性侵犯者",
+        "onboard_time": 1770020301,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 136773,
+        "num": 133797,
+        "word": "电视剧生命树已穷到没边了",
+        "onboard_time": 1770037282,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130096,
+        "num": 130096,
+        "word": "微博之夜",
+        "onboard_time": 1770009322,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 120459,
+        "num": 120459,
+        "word": "金价跌破4500美元大关",
+        "onboard_time": 1770043764,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 116638,
+        "num": 116638,
+        "word": "陈楚生晒合照悼念袁惟仁",
+        "onboard_time": 1770041304,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108709,
+        "num": 108709,
+        "word": "外卖小哥笑了半小时才决定送下一单",
+        "onboard_time": 1770025461,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 104863,
+        "num": 104863,
+        "word": "狗头萝莉回应前男友才是受害者",
+        "onboard_time": 1770041604,
+        "rank": 39,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 101376,
+        "num": 101376,
+        "word": "两男孩玩火烧死萨摩耶监控曝光",
+        "onboard_time": 1770042805,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96776,
+        "num": 96776,
+        "word": "银价波动",
+        "onboard_time": 1770043344,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 95347,
+        "num": 95347,
+        "word": "王一博像孙悟空一样出山了",
+        "onboard_time": 1770031162,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93724,
+        "num": 93724,
+        "word": "17年后仙剑3重播收视还是第一",
+        "onboard_time": 1770034402,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90789,
+        "num": 90789,
+        "word": "东部战区一线战斗场景公开",
+        "onboard_time": 1770043764,
+        "rank": 44,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 89047,
+        "num": 89047,
+        "word": "连云港萨摩耶",
+        "onboard_time": 1770043644,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85767,
+        "num": 85767,
+        "word": "基金",
+        "onboard_time": 1770016941,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 85651,
+        "num": 85651,
+        "word": "孟子义李昀锐尚公主杀青照",
+        "onboard_time": 1770043644,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 79745,
+        "num": 85628,
+        "word": "王楚钦王曼昱开心交流",
+        "onboard_time": 1770034881,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85627,
+        "num": 85627,
+        "word": "Ella哽咽谈袁惟仁",
+        "onboard_time": 1770039262,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#曾经一片沙如今变成青绿山水画#"
+    }
+  }
+}

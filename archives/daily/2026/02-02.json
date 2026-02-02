@@ -1,6 +1,6 @@
 {
   "startTime": 1769964003289,
-  "endTime": 1770039766814,
+  "endTime": 1770043864522,
   "band_list": [
     {
       "raw_hot": 4038416,
@@ -155,6 +155,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 781026,
+      "num": 219755,
+      "word": "痞幼威廉约会",
+      "onboard_time": 1770040643,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 719558,
       "num": 713080,
       "word": "退休一共要缴纳多少年社保",
@@ -193,6 +201,14 @@
       "onboard_time": 1769955622,
       "rank": 12,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 665544,
+      "num": 344606,
+      "word": "医生说健康的月经有个弹性范围",
+      "onboard_time": 1770040223,
+      "rank": 10,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 647010,
@@ -315,6 +331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 472744,
+      "num": 472744,
+      "word": "金银V型反转",
+      "onboard_time": 1770041124,
+      "rank": 3,
+      "category": "财经"
+    },
+    {
       "raw_hot": 464011,
       "num": 806828,
       "word": "成都警方通报刘某巫某某案",
@@ -356,7 +380,7 @@
     },
     {
       "raw_hot": 433005,
-      "num": 287072,
+      "num": 342793,
       "word": "萨摩耶被两娃烧死主人回应质疑",
       "onboard_time": 1770036141,
       "rank": 26,
@@ -444,7 +468,7 @@
     },
     {
       "raw_hot": 372084,
-      "num": 197178,
+      "num": 204111,
       "word": "宋仲基23年1月再婚6月得子",
       "onboard_time": 1770036982,
       "rank": 20,
@@ -473,6 +497,14 @@
       "onboard_time": 1769994261,
       "rank": 5,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 363430,
+      "num": 363430,
+      "word": "尚公主杀青",
+      "onboard_time": 1770039502,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 359055,
@@ -505,6 +537,14 @@
       "onboard_time": 1770009322,
       "rank": 4,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 341448,
+      "num": 341448,
+      "word": "白日提灯",
+      "onboard_time": 1770039804,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 340219,
@@ -569,6 +609,14 @@
       "onboard_time": 1770023602,
       "rank": 6,
       "category": "财经"
+    },
+    {
+      "raw_hot": 322339,
+      "num": 210151,
+      "word": "爱泼斯坦案文件含数十张裸照",
+      "onboard_time": 1770040944,
+      "rank": 23,
+      "category": "国际时政"
     },
     {
       "raw_hot": 321586,
@@ -697,6 +745,22 @@
       "onboard_time": 1770026243,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 266957,
+      "num": 266957,
+      "word": "赵睿道歉",
+      "onboard_time": 1770041663,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 266584,
+      "num": 266584,
+      "word": "女方婚礼现场退还99999元彩礼",
+      "onboard_time": 1770040404,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 265604,
@@ -835,6 +899,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 226316,
+      "num": 226316,
+      "word": "穆祉丞 周五晚高疯发布会",
+      "onboard_time": 1770039742,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 225134,
       "num": 274451,
       "word": "外卖小哥笑了半小时才决定送下一单",
@@ -880,6 +952,14 @@
       "word": "王一钧 YG首位签约内地艺人",
       "onboard_time": 1769957122,
       "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 203645,
+      "num": 203645,
+      "word": "黄圣依也逃不过让孩子穿红色",
+      "onboard_time": 1770040343,
+      "rank": 25,
       "category": "艺人"
     },
     {
@@ -1059,12 +1139,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 163891,
+      "num": 346436,
+      "word": "新疆打馕小伙因酷似泽连斯基走红",
+      "onboard_time": 1770037222,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 162218,
+      "num": 160746,
+      "word": "爱泼斯坦因年龄问题拒绝24岁模特",
+      "onboard_time": 1770043701,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 162079,
       "num": 291989,
       "word": "成都一商场有儿童被大气球悬吊空中",
       "onboard_time": 1770021440,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 160742,
+      "num": 160742,
+      "word": "爱泼斯坦生前采访谈到女性",
+      "onboard_time": 1770042383,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 155233,
@@ -1179,12 +1283,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 136539,
-      "num": 136539,
-      "word": "尚公主杀青",
-      "onboard_time": 1770039502,
-      "rank": 30,
-      "category": "剧集"
+      "raw_hot": 136308,
+      "num": 166283,
+      "word": "6旬老人猥亵7岁女童其家属还挑衅",
+      "onboard_time": 1770038423,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 135357,
@@ -1307,14 +1411,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 122975,
-      "num": 164227,
-      "word": "6旬老人猥亵7岁女童其家属还挑衅",
-      "onboard_time": 1770038423,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 121989,
       "num": 121989,
       "word": "腾讯元宝",
@@ -1369,6 +1465,14 @@
       "onboard_time": 1770038662,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 120459,
+      "num": 120459,
+      "word": "金价跌破4500美元大关",
+      "onboard_time": 1770043764,
+      "rank": 36,
+      "category": "财经"
     },
     {
       "raw_hot": 120223,
@@ -1480,6 +1584,14 @@
       "word": "李现一会baby一会daddy",
       "onboard_time": 1769999358,
       "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 116638,
+      "num": 116638,
+      "word": "陈楚生晒合照悼念袁惟仁",
+      "onboard_time": 1770041304,
+      "rank": 37,
       "category": "艺人"
     },
     {
@@ -1651,6 +1763,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 104863,
+      "num": 104863,
+      "word": "狗头萝莉回应前男友才是受害者",
+      "onboard_time": 1770041604,
+      "rank": 39,
+      "category": "网红"
+    },
+    {
       "raw_hot": 104732,
       "num": 104732,
       "word": "大理一餐厅两只网红金毛犬身亡",
@@ -1665,6 +1785,22 @@
       "onboard_time": 1770002120,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 101376,
+      "num": 101376,
+      "word": "两男孩玩火烧死萨摩耶监控曝光",
+      "onboard_time": 1770042805,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 101109,
+      "num": 160859,
+      "word": "美国佛州再现天降蜥蜴",
+      "onboard_time": 1770039143,
+      "rank": 46,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 100794,
@@ -1739,20 +1875,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 96776,
+      "num": 96776,
+      "word": "银价波动",
+      "onboard_time": 1770043344,
+      "rank": 41,
+      "category": "财经"
+    },
+    {
       "raw_hot": 96429,
       "num": 96429,
       "word": "iPhoneFold细节曝光",
       "onboard_time": 1770014121,
       "rank": 42,
       "category": "数码"
-    },
-    {
-      "raw_hot": 95823,
-      "num": 196362,
-      "word": "新疆打馕小伙因酷似泽连斯基走红",
-      "onboard_time": 1770037222,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 95694,
@@ -1843,6 +1979,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 90789,
+      "num": 90789,
+      "word": "东部战区一线战斗场景公开",
+      "onboard_time": 1770043764,
+      "rank": 44,
+      "category": "军事"
+    },
+    {
       "raw_hot": 90234,
       "num": 90234,
       "word": "26岁女子查出乳腺癌选择冻卵",
@@ -1865,6 +2009,14 @@
       "onboard_time": 1769953643,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 89047,
+      "num": 89047,
+      "word": "连云港萨摩耶",
+      "onboard_time": 1770043644,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 88980,
@@ -1963,6 +2115,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 85651,
+      "num": 85651,
+      "word": "孟子义李昀锐尚公主杀青照",
+      "onboard_time": 1770043644,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 85554,
+      "num": 345705,
+      "word": "BLG战胜WBG",
+      "onboard_time": 1770043701,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 84041,
       "num": 121528,
       "word": "王楚钦王曼昱开心交流",
@@ -2011,14 +2179,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 82483,
-      "num": 82483,
-      "word": "美国佛州再现天降蜥蜴",
-      "onboard_time": 1770039143,
-      "rank": 46,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 82348,
       "num": 82348,
       "word": "特朗普回应哈梅内伊",
@@ -2049,6 +2209,14 @@
       "onboard_time": 1770028282,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 80125,
+      "num": 160750,
+      "word": "女子兼职羽绒服代购最高日赚3000多",
+      "onboard_time": 1770041783,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 80102,
