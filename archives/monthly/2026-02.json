@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1770047919858,
+  "endTime": 1770051170355,
   "band_list": [
     {
       "raw_hot": 4038416,
@@ -601,6 +601,14 @@
       "onboard_time": 1769934020,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 529204,
+      "num": 698283,
+      "word": "芝麻凑分",
+      "onboard_time": 1770050478,
+      "rank": 0,
+      "category": "互联网"
     },
     {
       "raw_hot": 524648,
@@ -1275,6 +1283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 307928,
+      "num": 140012,
+      "word": "丈夫被指出轨怒揭妻子婚前多次堕胎",
+      "onboard_time": 1770047060,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 303039,
       "num": 186522,
       "word": "薛之谦发文悼念袁惟仁",
@@ -1321,6 +1337,14 @@
       "onboard_time": 1769996360,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 297158,
+      "num": 308322,
+      "word": "国投白银LOF重估基金资产",
+      "onboard_time": 1770044962,
+      "rank": 7,
+      "category": "财经"
     },
     {
       "raw_hot": 296120,
@@ -1419,6 +1443,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 268066,
+      "num": 131417,
+      "word": "爱泼斯坦案文件含裸照经提醒后被删除",
+      "onboard_time": 1770046162,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 266957,
       "num": 266957,
       "word": "赵睿道歉",
@@ -1440,14 +1472,6 @@
       "word": "黄金白银继续暴跌",
       "onboard_time": 1769992881,
       "rank": 17,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 260399,
-      "num": 308322,
-      "word": "国投白银LOF重估基金资产",
-      "onboard_time": 1770044962,
-      "rank": 7,
       "category": "财经"
     },
     {
@@ -1793,6 +1817,14 @@
       "onboard_time": 1770016160,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 215586,
+      "num": 215586,
+      "word": "江苏盐城一座在建桥梁垮塌",
+      "onboard_time": 1770048081,
+      "rank": 7,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 214676,
@@ -2187,6 +2219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 163300,
+      "num": 230529,
+      "word": "高三女生睡眠不足5小时吹风致面瘫",
+      "onboard_time": 1770045622,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 162295,
       "num": 162295,
       "word": "生命树收视率再创新高",
@@ -2545,14 +2585,6 @@
       "onboard_time": 1769933721,
       "rank": 28,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 137766,
-      "num": 230529,
-      "word": "高三女生睡眠不足5小时吹风致面瘫",
-      "onboard_time": 1770045622,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 136957,
@@ -3291,14 +3323,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 111233,
-      "num": 111233,
-      "word": "丈夫被指出轨怒揭妻子婚前多次堕胎",
-      "onboard_time": 1770047060,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 111116,
       "num": 197191,
       "word": "腾讯内部信回应元宝春节红包分享质疑",
@@ -3769,6 +3793,14 @@
       "onboard_time": 1770001341,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100091,
+      "num": 100091,
+      "word": "胡歌演技",
+      "onboard_time": 1770048441,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 99856,
@@ -4323,6 +4355,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 86414,
+      "num": 86414,
+      "word": "被岳父母退99999元彩礼男子发声",
+      "onboard_time": 1770047001,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86354,
       "num": 86354,
       "word": "iPhone均价曝光",
@@ -4433,6 +4473,14 @@
       "onboard_time": 1769998161,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 82549,
+      "num": 82549,
+      "word": "萨满直播道歉",
+      "onboard_time": 1770049639,
+      "rank": 29,
+      "category": "网红"
     },
     {
       "raw_hot": 82348,
@@ -4659,14 +4707,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 75884,
-      "num": 98537,
-      "word": "爱泼斯坦案文件含裸照经提醒后被删除",
-      "onboard_time": 1770046162,
-      "rank": 39,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 75877,
       "num": 110637,
       "word": "三天落马两个正部级",
@@ -4801,14 +4841,6 @@
       "onboard_time": 1769989279,
       "rank": 32,
       "category": "财经"
-    },
-    {
-      "raw_hot": 69455,
-      "num": 69455,
-      "word": "被岳父母退99999元彩礼男子发声",
-      "onboard_time": 1770047001,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 69321,
@@ -5211,12 +5243,44 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 48302,
+      "num": 228495,
+      "word": "水贝又一金店陷入兑付危机",
+      "onboard_time": 1770047300,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 48022,
+      "num": 68195,
+      "word": "LPL第一赛段",
+      "onboard_time": 1770050899,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 47618,
       "num": 236780,
       "word": "英首相回应安德鲁涉爱泼斯坦案",
       "onboard_time": 1770002300,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 47513,
+      "num": 98405,
+      "word": "儿童神药卖不动了吗",
+      "onboard_time": 1770046942,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 47512,
+      "num": 67987,
+      "word": "韦德和曹格是对家",
+      "onboard_time": 1770050958,
+      "rank": 47,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 45502,
@@ -5305,6 +5369,14 @@
       "onboard_time": 1769872521,
       "rank": 49,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 40238,
+      "num": 67915,
+      "word": "台积电2nm产能已被预订一空",
+      "onboard_time": 1770048260,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 38366,
@@ -5400,14 +5472,6 @@
       "word": "有人速抛1公斤金条变现百万",
       "onboard_time": 1770018261,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 35225,
-      "num": 98405,
-      "word": "儿童神药卖不动了吗",
-      "onboard_time": 1770046942,
-      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -5608,14 +5672,6 @@
       "word": "男孩听到不回老家过年瞬间哭成泪人",
       "onboard_time": 1769955622,
       "rank": 18,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 27169,
-      "num": 228495,
-      "word": "水贝又一金店陷入兑付危机",
-      "onboard_time": 1770047300,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
