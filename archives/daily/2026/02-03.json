@@ -1,6 +1,6 @@
 {
   "startTime": 1770051170355,
-  "endTime": 1770052273821,
+  "endTime": 1770054358824,
   "band_list": [
     {
       "raw_hot": 533691,
@@ -131,6 +131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 166589,
+      "num": 99210,
+      "word": "被岳父母退99999元彩礼男子发声",
+      "onboard_time": 1770047001,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 150028,
       "num": 150028,
       "word": "微博之夜阵容夯爆了",
@@ -145,6 +153,14 @@
       "onboard_time": 1770040944,
       "rank": 22,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 127990,
+      "num": 67987,
+      "word": "韦德和曹格是对家",
+      "onboard_time": 1770050958,
+      "rank": 47,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 125407,
@@ -201,14 +217,6 @@
       "onboard_time": 1770042383,
       "rank": 19,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 99210,
-      "num": 99210,
-      "word": "被岳父母退99999元彩礼男子发声",
-      "onboard_time": 1770047001,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 87638,
@@ -315,14 +323,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 55890,
-      "num": 67987,
-      "word": "韦德和曹格是对家",
-      "onboard_time": 1770050958,
-      "rank": 47,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 53415,
       "num": 68175,
       "word": "BTS完整体机场",
@@ -419,18 +419,34 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 17133,
-      "num": 409668,
-      "word": "2026春运奔赴团圆路",
-      "onboard_time": 1770037222,
+      "raw_hot": 25217,
+      "num": 40785,
+      "word": "朴智旻机场",
+      "onboard_time": 1770049520,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 22052,
+      "num": 40774,
+      "word": "狗头萝莉回应前男友才是受害者",
+      "onboard_time": 1770041604,
+      "rank": 48,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 19319,
+      "num": 319188,
+      "word": "春运第1天流动量预计超1.8亿人次",
+      "onboard_time": 1770036802,
       "rank": 2,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 11161,
-      "num": 319188,
-      "word": "春运第1天流动量预计超1.8亿人次",
-      "onboard_time": 1770036802,
+      "raw_hot": 17133,
+      "num": 409668,
+      "word": "2026春运奔赴团圆路",
+      "onboard_time": 1770037222,
       "rank": 2,
       "category": "民生新闻"
     }

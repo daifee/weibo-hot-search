@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1770052273821,
+  "endTime": 1770054358824,
   "band_list": [
     {
       "raw_hot": 4038416,
@@ -2187,6 +2187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 166589,
+      "num": 99210,
+      "word": "被岳父母退99999元彩礼男子发声",
+      "onboard_time": 1770047001,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 165382,
       "num": 150006,
       "word": "黄子韬 你要退圈啊",
@@ -2833,6 +2841,14 @@
       "onboard_time": 1769958023,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 127990,
+      "num": 67987,
+      "word": "韦德和曹格是对家",
+      "onboard_time": 1770050958,
+      "rank": 47,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 127294,
@@ -3833,14 +3849,6 @@
       "onboard_time": 1769950702,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 99210,
-      "num": 99210,
-      "word": "被岳父母退99999元彩礼男子发声",
-      "onboard_time": 1770047001,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 99183,
@@ -5091,14 +5099,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 55890,
-      "num": 67987,
-      "word": "韦德和曹格是对家",
-      "onboard_time": 1770050958,
-      "rank": 47,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 55832,
       "num": 55832,
       "word": "格莱美预测",
@@ -5707,6 +5707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25217,
+      "num": 40785,
+      "word": "朴智旻机场",
+      "onboard_time": 1770049520,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 24939,
       "num": 39575,
       "word": "春运",
@@ -5823,6 +5831,14 @@
       "num": 698907,
       "word": "已发售春运火车票超5000万张",
       "onboard_time": 1769869042,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19319,
+      "num": 319188,
+      "word": "春运第1天流动量预计超1.8亿人次",
+      "onboard_time": 1770036802,
       "rank": 2,
       "category": "民生新闻"
     },
@@ -6009,14 +6025,6 @@
       "onboard_time": 1769888895,
       "rank": 48,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 11161,
-      "num": 319188,
-      "word": "春运第1天流动量预计超1.8亿人次",
-      "onboard_time": 1770036802,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 10372,
