@@ -1,0 +1,410 @@
+{
+  "runTime": 1770027245281,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 808277,
+        "num": 1129324,
+        "word": "微博之夜阵容夯爆了",
+        "onboard_time": 1770022820,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 312147,
+        "num": 842243,
+        "word": "唐一军一审无期",
+        "onboard_time": 1770024379,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 59515,
+        "num": 812438,
+        "word": "把春运检修拍成了科幻电影",
+        "onboard_time": 1770023002,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 4038416,
+        "num": 811722,
+        "word": "袁惟仁去世",
+        "onboard_time": 1770024800,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 323370,
+        "num": 808037,
+        "word": "黄金估值已达极端水平",
+        "onboard_time": 1770023602,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 807681,
+        "num": 807681,
+        "word": "16号集体洗头",
+        "onboard_time": 1770024922,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 310714,
+        "num": 310714,
+        "word": "退休一共要缴纳多少年社保",
+        "onboard_time": 1770017781,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182763,
+        "num": 182763,
+        "word": "一家三口掉冰窟窿父亲托母子出水面",
+        "onboard_time": 1770019520,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154152,
+        "num": 182445,
+        "word": "男子养4只鹦鹉3只死亡后全家倒下",
+        "onboard_time": 1770014540,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135834,
+        "num": 182238,
+        "word": "肖战官宣微博之夜",
+        "onboard_time": 1770011722,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1593548,
+        "num": 181640,
+        "word": "爱泼斯坦 吃人",
+        "onboard_time": 1769996779,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 505045,
+        "num": 181509,
+        "word": "模特控诉爱泼斯坦聚会吃人后消失",
+        "onboard_time": 1770019641,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 224170,
+        "num": 180988,
+        "word": "英前驻美大使穿内裤与睡袍女子交谈",
+        "onboard_time": 1770024500,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 335239,
+        "num": 180689,
+        "word": "爱泼斯坦笑称魔鬼让我害怕",
+        "onboard_time": 1770014060,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 214078,
+        "num": 180197,
+        "word": "不用辞职请个假就行了",
+        "onboard_time": 1770015141,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 180108,
+        "num": 180108,
+        "word": "基金",
+        "onboard_time": 1770016941,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 269839,
+        "num": 179597,
+        "word": "爱泼斯坦",
+        "onboard_time": 1769955622,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 137882,
+        "num": 178587,
+        "word": "外卖小哥笑了半小时才决定送下一单",
+        "onboard_time": 1770025461,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 133820,
+        "num": 176917,
+        "word": "外交部回应春节出境游首选韩国",
+        "onboard_time": 1770024861,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 16587,
+        "num": 175300,
+        "word": "12306总工回应春运一票难求",
+        "onboard_time": 1770026602,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 519207,
+        "num": 174365,
+        "word": "袁惟仁讣告",
+        "onboard_time": 1770025101,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 304795,
+        "num": 173831,
+        "word": "微博之夜",
+        "onboard_time": 1770009322,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 246122,
+        "num": 172332,
+        "word": "金银价继续大跌",
+        "onboard_time": 1770012440,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 242320,
+        "num": 170287,
+        "word": "周五晚高疯",
+        "onboard_time": 1770013101,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214387,
+        "num": 168988,
+        "word": "APT没拿格莱美年歌合理吗",
+        "onboard_time": 1770020000,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 168901,
+        "num": 168901,
+        "word": "爱泼斯坦毫不避讳承认是性侵犯者",
+        "onboard_time": 1770020301,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 170342,
+        "num": 165323,
+        "word": "宋仲基与妻子合体参加婚礼",
+        "onboard_time": 1770010702,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156907,
+        "num": 156907,
+        "word": "于文文 除了健康什么都不是你的",
+        "onboard_time": 1770014301,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152570,
+        "num": 152570,
+        "word": "萝莉岛",
+        "onboard_time": 1769955561,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 136944,
+        "num": 136944,
+        "word": "什么演唱会把央视名嘴请去主持了",
+        "onboard_time": 1770020961,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 135063,
+        "num": 135063,
+        "word": "改善驼背不要挺胸夹背",
+        "onboard_time": 1770021020,
+        "rank": 30,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 153078,
+        "num": 133993,
+        "word": "普京曾说西方精英惯食人肉",
+        "onboard_time": 1770026243,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 128290,
+        "num": 128290,
+        "word": "宝石老舅将借马晚正式回归",
+        "onboard_time": 1770021440,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 122095,
+        "num": 122095,
+        "word": "35岁男子自曝在妻子孕期出轨",
+        "onboard_time": 1770005422,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108047,
+        "num": 108047,
+        "word": "韩国股市大跌触发熔断",
+        "onboard_time": 1770019341,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 107470,
+        "num": 107470,
+        "word": "王俊凯周杰伦ins合照",
+        "onboard_time": 1770017602,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98240,
+        "num": 98240,
+        "word": "金价大跌女子斥资近12万入手100克",
+        "onboard_time": 1770025281,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93088,
+        "num": 93088,
+        "word": "王一博官宣微博之夜",
+        "onboard_time": 1770011964,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 89797,
+        "num": 89797,
+        "word": "孙千演出了漫画里才有的泪眼",
+        "onboard_time": 1770022881,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85336,
+        "num": 85336,
+        "word": "爱泼斯坦案爆出更多大人物的丑行",
+        "onboard_time": 1770006862,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 84999,
+        "num": 84999,
+        "word": "A股全市场超百股跌停",
+        "onboard_time": 1770022581,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 82427,
+        "num": 82427,
+        "word": "金价暴跌老外也来买买买",
+        "onboard_time": 1770026121,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 82253,
+        "num": 82253,
+        "word": "宝格丽刘亦菲",
+        "onboard_time": 1770015800,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82190,
+        "num": 82190,
+        "word": "被迫上课的居然是同一代人",
+        "onboard_time": 1770026602,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 80102,
+        "num": 80102,
+        "word": "白酒资源股全线爆发",
+        "onboard_time": 1770027140,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 54627,
+        "num": 77934,
+        "word": "微博之夜来了大半个娱乐圈",
+        "onboard_time": 1770026003,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 77031,
+        "num": 77031,
+        "word": "IVE先行曲试听",
+        "onboard_time": 1770026959,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 76882,
+        "num": 76882,
+        "word": "郝熠然百万粉丝福利",
+        "onboard_time": 1770023542,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72582,
+        "num": 72582,
+        "word": "这哪是吃面这是喝面吧",
+        "onboard_time": 1770026782,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 70235,
+        "num": 70235,
+        "word": "格莱美",
+        "onboard_time": 1769988918,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记擘画未来产业发展#"
+    }
+  }
+}

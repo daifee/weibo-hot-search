@@ -1,10 +1,10 @@
 {
   "startTime": 1769964003289,
-  "endTime": 1770026434572,
+  "endTime": 1770027245281,
   "band_list": [
     {
-      "raw_hot": 3668968,
-      "num": 657031,
+      "raw_hot": 4038416,
+      "num": 811722,
       "word": "袁惟仁去世",
       "onboard_time": 1770024800,
       "rank": 3,
@@ -107,6 +107,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 808277,
+      "num": 1129324,
+      "word": "微博之夜阵容夯爆了",
+      "onboard_time": 1770022820,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 807681,
+      "num": 807681,
+      "word": "16号集体洗头",
+      "onboard_time": 1770024922,
+      "rank": 5,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 781504,
       "num": 1125040,
       "word": "爱泼斯坦受访时被问你是不是魔鬼",
@@ -121,14 +137,6 @@
       "onboard_time": 1770017781,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 695734,
-      "num": 1111317,
-      "word": "微博之夜阵容夯爆了",
-      "onboard_time": 1770022820,
-      "rank": 37,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 682642,
@@ -435,14 +443,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 333312,
-      "num": 635678,
-      "word": "16号集体洗头",
-      "onboard_time": 1770024922,
-      "rank": 5,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 331341,
       "num": 763034,
       "word": "韩国股市大跌触发熔断",
@@ -465,6 +465,14 @@
       "onboard_time": 1770000499,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 323370,
+      "num": 808037,
+      "word": "黄金估值已达极端水平",
+      "onboard_time": 1770023602,
+      "rank": 6,
+      "category": "财经"
     },
     {
       "raw_hot": 321586,
@@ -499,12 +507,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 306163,
-      "num": 618839,
-      "word": "黄金估值已达极端水平",
-      "onboard_time": 1770023602,
-      "rank": 6,
-      "category": "财经"
+      "raw_hot": 312147,
+      "num": 842243,
+      "word": "唐一军一审无期",
+      "onboard_time": 1770024379,
+      "rank": 1,
+      "category": "国内时政"
     },
     {
       "raw_hot": 297826,
@@ -553,14 +561,6 @@
       "onboard_time": 1769999421,
       "rank": 9,
       "category": "财经"
-    },
-    {
-      "raw_hot": 279238,
-      "num": 809443,
-      "word": "唐一军一审无期",
-      "onboard_time": 1770024379,
-      "rank": 1,
-      "category": "国内时政"
     },
     {
       "raw_hot": 276382,
@@ -683,6 +683,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 224170,
+      "num": 298982,
+      "word": "英前驻美大使穿内裤与睡袍女子交谈",
+      "onboard_time": 1770024500,
+      "rank": 22,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 224107,
       "num": 528710,
       "word": "爱泼斯坦案多名受害者指控特朗普",
@@ -803,14 +811,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 181756,
-      "num": 298982,
-      "word": "英前驻美大使穿内裤与睡袍女子交谈",
-      "onboard_time": 1770024500,
-      "rank": 22,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 178313,
       "num": 178313,
       "word": "什么演唱会把央视名嘴请去主持了",
@@ -865,6 +865,14 @@
       "onboard_time": 1770003261,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 153078,
+      "num": 133993,
+      "word": "普京曾说西方精英惯食人肉",
+      "onboard_time": 1770026243,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 149770,
@@ -923,6 +931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 137882,
+      "num": 178587,
+      "word": "外卖小哥笑了半小时才决定送下一单",
+      "onboard_time": 1770025461,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 136898,
       "num": 136898,
       "word": "雪地里挖出日本阿姨",
@@ -963,6 +979,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 133820,
+      "num": 176917,
+      "word": "外交部回应春节出境游首选韩国",
+      "onboard_time": 1770024861,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 131867,
       "num": 131867,
       "word": "穿普拉达的女王2正式预告",
@@ -993,14 +1017,6 @@
       "onboard_time": 1770002360,
       "rank": 18,
       "category": "演出"
-    },
-    {
-      "raw_hot": 127216,
-      "num": 127216,
-      "word": "外交部回应春节出境游首选韩国",
-      "onboard_time": 1770024861,
-      "rank": 32,
-      "category": "国内时政"
     },
     {
       "raw_hot": 126802,
@@ -1163,14 +1179,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 111552,
-      "num": 111552,
-      "word": "外卖小哥笑了半小时才决定送下一单",
-      "onboard_time": 1770025461,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 111460,
       "num": 107965,
       "word": "尚公主",
@@ -1225,14 +1233,6 @@
       "onboard_time": 1769997500,
       "rank": 35,
       "category": "美食"
-    },
-    {
-      "raw_hot": 107739,
-      "num": 107739,
-      "word": "普京曾说西方精英惯食人肉",
-      "onboard_time": 1770026243,
-      "rank": 40,
-      "category": "国际时政"
     },
     {
       "raw_hot": 107517,
@@ -1331,6 +1331,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 98240,
+      "num": 98240,
+      "word": "金价大跌女子斥资近12万入手100克",
+      "onboard_time": 1770025281,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96429,
       "num": 96429,
       "word": "iPhoneFold细节曝光",
@@ -1417,14 +1425,6 @@
       "onboard_time": 1770015321,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 90678,
-      "num": 90678,
-      "word": "金价大跌女子斥资近12万入手100克",
-      "onboard_time": 1770025281,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 90234,
@@ -1595,12 +1595,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 82190,
+      "num": 82190,
+      "word": "被迫上课的居然是同一代人",
+      "onboard_time": 1770026602,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 81994,
       "num": 81994,
       "word": "睡眠比任何东西都重要",
       "onboard_time": 1769999780,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 80102,
+      "num": 80102,
+      "word": "白酒资源股全线爆发",
+      "onboard_time": 1770027140,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 79902,
@@ -1635,6 +1651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 77031,
+      "num": 77031,
+      "word": "IVE先行曲试听",
+      "onboard_time": 1770026959,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 75356,
       "num": 75356,
       "word": "爱泼斯坦案最新爆料",
@@ -1657,6 +1681,14 @@
       "onboard_time": 1769942121,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 72582,
+      "num": 72582,
+      "word": "这哪是吃面这是喝面吧",
+      "onboard_time": 1770026782,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 70795,
@@ -1771,6 +1803,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 59515,
+      "num": 812438,
+      "word": "把春运检修拍成了科幻电影",
+      "onboard_time": 1770023002,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58141,
       "num": 58141,
       "word": "马嘉祺 小狗留下的脚印",
@@ -1803,12 +1843,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 55361,
-      "num": 657259,
-      "word": "把春运检修拍成了科幻电影",
-      "onboard_time": 1770023002,
-      "rank": 2,
-      "category": "民生新闻"
+      "raw_hot": 54627,
+      "num": 109435,
+      "word": "微博之夜来了大半个娱乐圈",
+      "onboard_time": 1770026003,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 54483,
@@ -2011,14 +2051,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 30871,
-      "num": 109435,
-      "word": "微博之夜来了大半个娱乐圈",
-      "onboard_time": 1770026003,
-      "rank": 38,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 30527,
       "num": 48241,
       "word": "周柯宇杀青",
@@ -2177,6 +2209,14 @@
       "onboard_time": 1769972236,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 16587,
+      "num": 175300,
+      "word": "12306总工回应春运一票难求",
+      "onboard_time": 1770026602,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 16512,
