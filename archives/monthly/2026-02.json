@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1770009256062,
+  "endTime": 1770014382236,
   "band_list": [
     {
       "raw_hot": 3389142,
@@ -139,11 +139,27 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 912919,
+      "num": 1146067,
+      "word": "爱泼斯坦案爆出更多大人物的丑行",
+      "onboard_time": 1770006862,
+      "rank": 4,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 890270,
       "num": 253504,
       "word": "金晨道歉后为何仍被揪着不放",
       "onboard_time": 1769944821,
       "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 889768,
+      "num": 257824,
+      "word": "宋仲基与妻子合体参加婚礼",
+      "onboard_time": 1770010702,
+      "rank": 20,
       "category": "艺人"
     },
     {
@@ -188,7 +204,7 @@
     },
     {
       "raw_hot": 819122,
-      "num": 242793,
+      "num": 258489,
       "word": "比伯穿内裤表演",
       "onboard_time": 1770004161,
       "rank": 11,
@@ -260,7 +276,7 @@
     },
     {
       "raw_hot": 677657,
-      "num": 227277,
+      "num": 257527,
       "word": "金价",
       "onboard_time": 1769988378,
       "rank": 13,
@@ -467,14 +483,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 493536,
-      "num": 626577,
-      "word": "爱泼斯坦案爆出更多大人物的丑行",
-      "onboard_time": 1770006862,
-      "rank": 4,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 488513,
       "num": 1073735,
       "word": "白所成因病死亡",
@@ -556,7 +564,7 @@
     },
     {
       "raw_hot": 442704,
-      "num": 242277,
+      "num": 258735,
       "word": "庆祝来月经第一天的仪式感",
       "onboard_time": 1770006622,
       "rank": 14,
@@ -611,6 +619,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 419604,
+      "num": 419604,
+      "word": "肖战官宣微博之夜",
+      "onboard_time": 1770011722,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 414377,
       "num": 168810,
       "word": "成龙回复金喜善",
@@ -641,6 +657,22 @@
       "onboard_time": 1769946742,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 411362,
+      "num": 333288,
+      "word": "网传迪丽热巴张小斐女足上春节档",
+      "onboard_time": 1770008122,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 408518,
+      "num": 850566,
+      "word": "员工酸菜池中抽烟吐痰老板被罚100万",
+      "onboard_time": 1770012501,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 406062,
@@ -787,6 +819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 341792,
+      "num": 341792,
+      "word": "第68届格莱美获奖名单",
+      "onboard_time": 1770009322,
+      "rank": 4,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 340219,
       "num": 340219,
       "word": "格莱美直播",
@@ -811,12 +851,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 333330,
+      "num": 333330,
+      "word": "女子离婚5天后丈夫去世女儿成被告",
+      "onboard_time": 1770009741,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 330142,
       "num": 246470,
       "word": "于文文看视频已经很不舒服了",
       "onboard_time": 1769955742,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 328264,
+      "num": 328264,
+      "word": "爱泼斯坦别墅挂满与知名友人合影",
+      "onboard_time": 1770008421,
+      "rank": 41,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 324128,
@@ -1019,6 +1075,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 257527,
+      "num": 257526,
+      "word": "肖战更换律师团队",
+      "onboard_time": 1770008902,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 256578,
       "num": 247592,
       "word": "胡歌回复刘诗诗",
@@ -1128,6 +1192,14 @@
       "word": "简笔画官宣杨紫",
       "onboard_time": 1769999900,
       "rank": 36,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 238947,
+      "num": 238947,
+      "word": "王一博官宣微博之夜",
+      "onboard_time": 1770011964,
+      "rank": 23,
       "category": "作品衍生"
     },
     {
@@ -1291,14 +1363,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 205568,
-      "num": 205568,
-      "word": "网传迪丽热巴张小斐女足上春节档",
-      "onboard_time": 1770008122,
-      "rank": 31,
-      "category": "电影"
-    },
-    {
       "raw_hot": 204200,
       "num": 204200,
       "word": "杨紫素颜拒用替身",
@@ -1353,6 +1417,14 @@
       "onboard_time": 1769913260,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 194802,
+      "num": 177659,
+      "word": "金银价继续大跌",
+      "onboard_time": 1770012440,
+      "rank": 26,
+      "category": "财经"
     },
     {
       "raw_hot": 193768,
@@ -1441,6 +1513,22 @@
       "onboard_time": 1770006262,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 181952,
+      "num": 181952,
+      "word": "A股行情",
+      "onboard_time": 1770006922,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 177137,
+      "num": 141340,
+      "word": "爱泼斯坦笑称魔鬼让我害怕",
+      "onboard_time": 1770014060,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 176700,
@@ -1553,14 +1641,6 @@
       "onboard_time": 1769924420,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 161605,
-      "num": 132110,
-      "word": "肖战更换律师团队",
-      "onboard_time": 1770008902,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 159776,
@@ -1755,6 +1835,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 141640,
+      "num": 141640,
+      "word": "生产螺母被认定枪支散件老板获刑",
+      "onboard_time": 1770012741,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 141548,
       "num": 127771,
       "word": "徐明浩直播",
@@ -1785,6 +1873,14 @@
       "onboard_time": 1769954302,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 140848,
+      "num": 140848,
+      "word": "网曝小孩小区玩火失控烧死笼中狗",
+      "onboard_time": 1770009622,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 140466,
@@ -2123,14 +2219,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 122107,
-      "num": 122107,
-      "word": "爱泼斯坦别墅挂满与知名友人合影",
-      "onboard_time": 1770008421,
-      "rank": 41,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 121822,
       "num": 121822,
       "word": "烤鸡少年称不会真的买迈巴赫",
@@ -2219,6 +2307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 118540,
+      "num": 118540,
+      "word": "周五晚高疯",
+      "onboard_time": 1770013101,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 118277,
       "num": 118277,
       "word": "GEN战胜HLE",
@@ -2248,6 +2344,14 @@
       "word": "裁员裁到大动脉有新说法了",
       "onboard_time": 1770005062,
       "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 117396,
+      "num": 107862,
+      "word": "丞磊 丈夫的美貌妻子的荣耀",
+      "onboard_time": 1770013760,
+      "rank": 35,
       "category": "剧集"
     },
     {
@@ -2435,6 +2539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 109524,
+      "num": 109524,
+      "word": "A股",
+      "onboard_time": 1770000259,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 109497,
       "num": 109497,
       "word": "比伯海莉格莱美红毯",
@@ -2489,14 +2601,6 @@
       "onboard_time": 1769997500,
       "rank": 35,
       "category": "美食"
-    },
-    {
-      "raw_hot": 108016,
-      "num": 108016,
-      "word": "A股行情",
-      "onboard_time": 1770006922,
-      "rank": 45,
-      "category": "财经"
     },
     {
       "raw_hot": 107517,
@@ -2699,6 +2803,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 100559,
+      "num": 100559,
+      "word": "睡眠不足害惨年轻人了",
+      "onboard_time": 1770010461,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 100406,
       "num": 191142,
       "word": "为什么普通人现在不愿意贷款买房了",
@@ -2803,12 +2915,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 96152,
-      "num": 96152,
-      "word": "A股",
-      "onboard_time": 1770000259,
+      "raw_hot": 96429,
+      "num": 96429,
+      "word": "iPhoneFold细节曝光",
+      "onboard_time": 1770014121,
       "rank": 42,
-      "category": "财经"
+      "category": "数码"
     },
     {
       "raw_hot": 95635,
@@ -2825,6 +2937,22 @@
       "onboard_time": 1769917098,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 95390,
+      "num": 95390,
+      "word": "杜克拉黑小马哥",
+      "onboard_time": 1770014002,
+      "rank": 43,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 95251,
+      "num": 95251,
+      "word": "那我排2个小时吃的饭算什么",
+      "onboard_time": 1770012981,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 94610,
@@ -3011,6 +3139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 88980,
+      "num": 88980,
+      "word": "30克金镯子2天降6000多元",
+      "onboard_time": 1770014002,
+      "rank": 47,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 88850,
       "num": 88850,
       "word": "猫 没有老鼠我就是老鼠",
@@ -3107,6 +3243,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 87085,
+      "num": 87085,
+      "word": "杨紫生命树太好哭了",
+      "onboard_time": 1770013520,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 86839,
       "num": 86839,
       "word": "长期主义",
@@ -3145,6 +3289,14 @@
       "onboard_time": 1769937021,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 85315,
+      "num": 85315,
+      "word": "于文文 除了健康什么都不是你的",
+      "onboard_time": 1770014301,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 85199,
@@ -3577,6 +3729,14 @@
       "onboard_time": 1769958742,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 62733,
+      "num": 100830,
+      "word": "时代少年团刻板印象都是自己给的",
+      "onboard_time": 1770013760,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 62086,
@@ -4099,6 +4259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26654,
+      "num": 257901,
+      "word": "水贝又有黄金平台现兑付异常",
+      "onboard_time": 1770013823,
+      "rank": 19,
+      "category": "财经"
+    },
+    {
       "raw_hot": 24939,
       "num": 39575,
       "word": "春运",
@@ -4143,6 +4311,14 @@
       "num": 121261,
       "word": "自民党警告日本恐滑向二流国家",
       "onboard_time": 1769957302,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 23326,
+      "num": 99137,
+      "word": "克林顿至少16次搭乘爱泼斯坦私人飞机",
+      "onboard_time": 1770013823,
       "rank": 39,
       "category": "国际时政"
     },
