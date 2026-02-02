@@ -1,6 +1,6 @@
 {
   "startTime": 1769964003289,
-  "endTime": 1770030826762,
+  "endTime": 1770032523076,
   "band_list": [
     {
       "raw_hot": 4038416,
@@ -65,6 +65,22 @@
       "onboard_time": 1770006862,
       "rank": 4,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 944148,
+      "num": 241678,
+      "word": "马斯克发现岛上是少女派对果断离开",
+      "onboard_time": 1770031461,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 914968,
+      "num": 362586,
+      "word": "两男孩玩火烧死萨摩耶狗主人发声",
+      "onboard_time": 1770029061,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 889768,
@@ -136,14 +152,6 @@
       "word": "退休一共要缴纳多少年社保",
       "onboard_time": 1770017781,
       "rank": 3,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 714047,
-      "num": 362586,
-      "word": "两男孩玩火烧死萨摩耶狗主人发声",
-      "onboard_time": 1770029061,
-      "rank": 15,
       "category": "民生新闻"
     },
     {
@@ -395,6 +403,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 359055,
+      "num": 803893,
+      "word": "月亮",
+      "onboard_time": 1770029482,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 349465,
       "num": 757320,
       "word": "微博之夜第七波阵容",
@@ -523,6 +539,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 303039,
+      "num": 186522,
+      "word": "薛之谦发文悼念袁惟仁",
+      "onboard_time": 1770029601,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 297826,
       "num": 242635,
       "word": "林子烨 禁止五三娱乐化",
@@ -587,6 +611,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 266915,
+      "num": 185959,
+      "word": "酷酷的滕直播",
+      "onboard_time": 1770030620,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 265604,
       "num": 265604,
       "word": "7部影片定档2026春节档",
@@ -608,14 +640,6 @@
       "word": "肖战更换律师团队",
       "onboard_time": 1770008902,
       "rank": 34,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 248481,
-      "num": 136877,
-      "word": "薛之谦发文悼念袁惟仁",
-      "onboard_time": 1770029601,
-      "rank": 21,
       "category": "艺人"
     },
     {
@@ -667,6 +691,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 242776,
+      "num": 242776,
+      "word": "太好了是王楚然演宠妃",
+      "onboard_time": 1770028642,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 241616,
       "num": 241616,
       "word": "简笔画官宣杨紫",
@@ -683,19 +715,19 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 237920,
+      "num": 470209,
+      "word": "孩子私卖金镯家长半年后想退还遭拒",
+      "onboard_time": 1770028642,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 237083,
       "num": 608860,
       "word": "一家三口掉冰窟窿父亲托母子出水面",
       "onboard_time": 1770019520,
       "rank": 8,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 232305,
-      "num": 803893,
-      "word": "月亮",
-      "onboard_time": 1770029482,
-      "rank": 7,
       "category": "民生新闻"
     },
     {
@@ -739,6 +771,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 223087,
+      "num": 223087,
+      "word": "慕胥辞改名白日提灯过审",
+      "onboard_time": 1770032121,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 216684,
       "num": 216684,
       "word": "比伯后背纹了海莉纹身",
@@ -769,6 +809,22 @@
       "onboard_time": 1770001099,
       "rank": 9,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 195086,
+      "num": 553376,
+      "word": "伊朗总统已下令启动核谈判",
+      "onboard_time": 1770030681,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 191911,
+      "num": 447127,
+      "word": "孙颖莎我们最后一名啊",
+      "onboard_time": 1770031402,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 189169,
@@ -827,6 +883,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 183836,
+      "num": 183836,
+      "word": "王一博像孙悟空一样出山了",
+      "onboard_time": 1770031162,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 182331,
       "num": 240482,
       "word": "宝格丽刘亦菲",
@@ -883,28 +947,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 170375,
-      "num": 170375,
-      "word": "太好了是王楚然演宠妃",
-      "onboard_time": 1770028642,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 169327,
       "num": 139669,
       "word": "肖战要来微博之夜",
       "onboard_time": 1769960421,
       "rank": 24,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 169243,
-      "num": 470209,
-      "word": "孩子私卖金镯家长半年后想退还遭拒",
-      "onboard_time": 1770028642,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 162079,
@@ -920,6 +968,14 @@
       "word": "赵晴 00花买股",
       "onboard_time": 1770003261,
       "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 150693,
+      "num": 150693,
+      "word": "众星发文缅怀袁惟仁",
+      "onboard_time": 1770032183,
+      "rank": 26,
       "category": "艺人"
     },
     {
@@ -980,7 +1036,7 @@
     },
     {
       "raw_hot": 139398,
-      "num": 133303,
+      "num": 136319,
       "word": "10岁抗癌男孩豪豪去世网红竟说开心",
       "onboard_time": 1770028822,
       "rank": 30,
@@ -1043,6 +1099,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 131232,
+      "num": 131232,
+      "word": "王格格余茵一个敢读一个敢演",
+      "onboard_time": 1770030020,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 130096,
       "num": 336211,
       "word": "卤味三巨头半年闭店超5300家",
@@ -1099,6 +1163,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 121989,
+      "num": 121989,
+      "word": "腾讯元宝",
+      "onboard_time": 1770027803,
+      "rank": 32,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 121958,
       "num": 121958,
       "word": "王星越夺妻不演了宠妻开张了",
@@ -1148,7 +1220,7 @@
     },
     {
       "raw_hot": 120042,
-      "num": 128736,
+      "num": 144254,
       "word": "李微漪回应狼王格林去世传闻",
       "onboard_time": 1770029422,
       "rank": 42,
@@ -1177,14 +1249,6 @@
       "onboard_time": 1770008361,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 117980,
-      "num": 117980,
-      "word": "腾讯元宝",
-      "onboard_time": 1770027803,
-      "rank": 32,
-      "category": "互联网"
     },
     {
       "raw_hot": 117549,
@@ -1251,6 +1315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 115983,
+      "num": 115983,
+      "word": "镖人",
+      "onboard_time": 1770030803,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 111460,
       "num": 107965,
       "word": "尚公主",
@@ -1299,6 +1371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 108303,
+      "num": 393258,
+      "word": "山姆回应2女子人肉占车位",
+      "onboard_time": 1770030500,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108233,
       "num": 108233,
       "word": "甘肃浆水面",
@@ -1315,14 +1395,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 108168,
-      "num": 108168,
-      "word": "王格格余茵一个敢读一个敢演",
-      "onboard_time": 1770030020,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 108049,
       "num": 104708,
       "word": "那英征服是袁惟仁写的",
@@ -1331,20 +1403,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 107672,
+      "num": 333095,
+      "word": "微博之夜 豪华阵容",
+      "onboard_time": 1770031940,
+      "rank": 9,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 107517,
       "num": 107517,
       "word": "无畏契约",
       "onboard_time": 1770006562,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 106693,
-      "num": 106693,
-      "word": "酷酷的滕直播",
-      "onboard_time": 1770030620,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 106546,
@@ -1385,6 +1457,14 @@
       "onboard_time": 1769994140,
       "rank": 33,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 104732,
+      "num": 104732,
+      "word": "大理一餐厅两只网红金毛犬身亡",
+      "onboard_time": 1770029961,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 103974,
@@ -1707,36 +1787,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 82157,
-      "num": 82157,
-      "word": "镖人",
-      "onboard_time": 1770030803,
-      "rank": 46,
-      "category": "电影"
-    },
-    {
       "raw_hot": 81994,
       "num": 81994,
       "word": "睡眠比任何东西都重要",
       "onboard_time": 1769999780,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 81504,
-      "num": 81504,
-      "word": "山姆回应2女子人肉占车位",
-      "onboard_time": 1770030500,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 80226,
-      "num": 93825,
-      "word": "大理一餐厅两只网红金毛犬身亡",
-      "onboard_time": 1770029961,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 80179,
@@ -1761,6 +1817,14 @@
       "onboard_time": 1770019461,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 79288,
+      "num": 79288,
+      "word": "不剥皮就能知道橘子瓣数",
+      "onboard_time": 1770032302,
+      "rank": 48,
+      "category": "休闲"
     },
     {
       "raw_hot": 78655,
@@ -2179,14 +2243,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 33501,
-      "num": 134339,
-      "word": "伊朗总统已下令启动核谈判",
-      "onboard_time": 1770030681,
-      "rank": 24,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 33398,
       "num": 194966,
       "word": "马斯克再否认参加过爱泼斯坦派对",
@@ -2424,6 +2480,14 @@
       "word": "女子在园区被罚抱水桶深蹲300个",
       "onboard_time": 1770019221,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 8168,
+      "num": 136722,
+      "word": "爱你老己商标被抢注",
+      "onboard_time": 1770032362,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
