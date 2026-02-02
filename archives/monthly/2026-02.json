@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1770014382236,
+  "endTime": 1770016332822,
   "band_list": [
     {
       "raw_hot": 3389142,
@@ -123,6 +123,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 978512,
+      "num": 1146067,
+      "word": "爱泼斯坦案爆出更多大人物的丑行",
+      "onboard_time": 1770006862,
+      "rank": 4,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 958958,
       "num": 1100194,
       "word": "爱泼斯坦案视频曝光",
@@ -137,14 +145,6 @@
       "onboard_time": 1769956582,
       "rank": 0,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 912919,
-      "num": 1146067,
-      "word": "爱泼斯坦案爆出更多大人物的丑行",
-      "onboard_time": 1770006862,
-      "rank": 4,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 890270,
@@ -195,6 +195,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 844445,
+      "num": 214447,
+      "word": "于文文 除了健康什么都不是你的",
+      "onboard_time": 1770014301,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 822828,
       "num": 242377,
       "word": "特朗普回应被爱泼斯坦案文件提及",
@@ -225,6 +233,14 @@
       "onboard_time": 1769997798,
       "rank": 1,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 765294,
+      "num": 562603,
+      "word": "金银价继续大跌",
+      "onboard_time": 1770012440,
+      "rank": 26,
+      "category": "财经"
     },
     {
       "raw_hot": 733893,
@@ -369,6 +385,14 @@
       "onboard_time": 1769994020,
       "rank": 11,
       "category": "艺人,海外新闻"
+    },
+    {
+      "raw_hot": 569252,
+      "num": 1091080,
+      "word": "员工酸菜池中抽烟吐痰老板被罚100万",
+      "onboard_time": 1770012501,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 561414,
@@ -667,14 +691,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 408518,
-      "num": 850566,
-      "word": "员工酸菜池中抽烟吐痰老板被罚100万",
-      "onboard_time": 1770012501,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 406062,
       "num": 305973,
       "word": "TOP想赢",
@@ -721,6 +737,14 @@
       "onboard_time": 1769867602,
       "rank": 3,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 385778,
+      "num": 385778,
+      "word": "惠英红要来微博之夜见宝贝们了",
+      "onboard_time": 1770015741,
+      "rank": 4,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 381072,
@@ -843,6 +867,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 335286,
+      "num": 213592,
+      "word": "A股",
+      "onboard_time": 1770000259,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 333887,
       "num": 218701,
       "word": "周杰伦晒与王俊凯合照",
@@ -868,7 +900,7 @@
     },
     {
       "raw_hot": 328264,
-      "num": 328264,
+      "num": 813145,
       "word": "爱泼斯坦别墅挂满与知名友人合影",
       "onboard_time": 1770008421,
       "rank": 41,
@@ -1129,6 +1161,14 @@
       "onboard_time": 1769914399,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 250386,
+      "num": 250386,
+      "word": "爱泼斯坦笑称魔鬼让我害怕",
+      "onboard_time": 1770014060,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 249288,
@@ -1419,14 +1459,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 194802,
-      "num": 177659,
-      "word": "金银价继续大跌",
-      "onboard_time": 1770012440,
-      "rank": 26,
-      "category": "财经"
-    },
-    {
       "raw_hot": 193768,
       "num": 167542,
       "word": "朱志鑫下台也哭了",
@@ -1491,6 +1523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 184212,
+      "num": 184212,
+      "word": "比伯后背纹了海莉纹身",
+      "onboard_time": 1770016160,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 184094,
       "num": 159509,
       "word": "金饰克价一夜跌134元",
@@ -1521,14 +1561,6 @@
       "onboard_time": 1770006922,
       "rank": 45,
       "category": "财经"
-    },
-    {
-      "raw_hot": 177137,
-      "num": 141340,
-      "word": "爱泼斯坦笑称魔鬼让我害怕",
-      "onboard_time": 1770014060,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 176700,
@@ -1585,6 +1617,14 @@
       "onboard_time": 1769957003,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 171040,
+      "num": 162587,
+      "word": "阚清子周一九宫格",
+      "onboard_time": 1770015321,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 169327,
@@ -1753,6 +1793,14 @@
       "onboard_time": 1769871982,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 148564,
+      "num": 148564,
+      "word": "不用辞职请个假就行了",
+      "onboard_time": 1770015141,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 148210,
@@ -1937,6 +1985,14 @@
       "onboard_time": 1769941161,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 136898,
+      "num": 136898,
+      "word": "雪地里挖出日本阿姨",
+      "onboard_time": 1770015081,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 136877,
@@ -2131,6 +2187,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 127209,
+      "num": 127209,
+      "word": "男子养4只鹦鹉3只死亡后全家倒下",
+      "onboard_time": 1770014540,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127094,
       "num": 127094,
       "word": "花楼回应",
@@ -2195,12 +2259,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 123845,
+      "num": 123845,
+      "word": "李微漪发长文",
+      "onboard_time": 1770014240,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 123590,
       "num": 114398,
       "word": "七匹狼输了",
       "onboard_time": 1769945060,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 123422,
+      "num": 121695,
+      "word": "现货黄金下破4500美元",
+      "onboard_time": 1770015800,
+      "rank": 41,
+      "category": "财经"
     },
     {
       "raw_hot": 123353,
@@ -2217,6 +2297,14 @@
       "onboard_time": 1769912899,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 121958,
+      "num": 121958,
+      "word": "王星越夺妻不演了宠妻开张了",
+      "onboard_time": 1770014961,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 121822,
@@ -2313,6 +2401,14 @@
       "onboard_time": 1770013101,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 118475,
+      "num": 118475,
+      "word": "杜克拉黑小马哥",
+      "onboard_time": 1770014002,
+      "rank": 43,
+      "category": "网红"
     },
     {
       "raw_hot": 118277,
@@ -2537,14 +2633,6 @@
       "onboard_time": 1769989399,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 109524,
-      "num": 109524,
-      "word": "A股",
-      "onboard_time": 1770000259,
-      "rank": 42,
-      "category": "财经"
     },
     {
       "raw_hot": 109497,
@@ -2939,14 +3027,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 95390,
-      "num": 95390,
-      "word": "杜克拉黑小马哥",
-      "onboard_time": 1770014002,
-      "rank": 43,
-      "category": "网红"
-    },
-    {
       "raw_hot": 95251,
       "num": 95251,
       "word": "那我排2个小时吃的饭算什么",
@@ -3067,6 +3147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 91002,
+      "num": 91002,
+      "word": "年龄到了血脉自然觉醒",
+      "onboard_time": 1770015321,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 90656,
       "num": 90656,
       "word": "爱思回应",
@@ -3137,6 +3225,14 @@
       "onboard_time": 1769922921,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 89089,
+      "num": 89089,
+      "word": "白银2天跌光1个月涨幅",
+      "onboard_time": 1770016280,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 88980,
@@ -3289,14 +3385,6 @@
       "onboard_time": 1769937021,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 85315,
-      "num": 85315,
-      "word": "于文文 除了健康什么都不是你的",
-      "onboard_time": 1770014301,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 85199,
@@ -3995,6 +4083,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 43938,
+      "num": 212903,
+      "word": "宝格丽刘亦菲",
+      "onboard_time": 1770015800,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 43689,
       "num": 101688,
       "word": "妻子回忆丈夫如厕猝死前5天",
@@ -4107,6 +4203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34722,
+      "num": 154018,
+      "word": "抢头福这事儿多少带点地利",
+      "onboard_time": 1770015800,
+      "rank": 29,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 34488,
       "num": 40368,
       "word": "曝iPhoneFold为电池容量最大iPhone",
@@ -4145,6 +4249,14 @@
       "onboard_time": 1769865382,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 33677,
+      "num": 122729,
+      "word": "马嘉祺 蛋团最严厉的父亲",
+      "onboard_time": 1770015741,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 33398,
@@ -4227,6 +4339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29550,
+      "num": 122080,
+      "word": "女子拔倒刺指甲开裂险截肢",
+      "onboard_time": 1770015860,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29228,
       "num": 39589,
       "word": "星河入梦",
@@ -4273,6 +4393,14 @@
       "onboard_time": 1769968155,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24602,
+      "num": 89792,
+      "word": "爱泼斯坦曾否认自己的钱是脏钱",
+      "onboard_time": 1770015020,
+      "rank": 48,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 24310,

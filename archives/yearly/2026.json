@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1770014382236,
+  "endTime": 1770016332822,
   "band_list": [
     {
       "raw_hot": 22742360,
@@ -2347,6 +2347,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 978512,
+      "num": 1146067,
+      "word": "爱泼斯坦案爆出更多大人物的丑行",
+      "onboard_time": 1770006862,
+      "rank": 4,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 977384,
       "num": 592323,
       "word": "霸王茶姬辞退涉事店员",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1767533063,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 960505,
-      "num": 382092,
-      "word": "薛佳凝自曝2013年开始攒金",
-      "onboard_time": 1769663902,
-      "rank": 11,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [

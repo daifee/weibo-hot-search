@@ -1,0 +1,410 @@
+{
+  "runTime": 1770016332822,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 569252,
+        "num": 1091080,
+        "word": "员工酸菜池中抽烟吐痰老板被罚100万",
+        "onboard_time": 1770012501,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 297767,
+        "num": 813145,
+        "word": "爱泼斯坦别墅挂满与知名友人合影",
+        "onboard_time": 1770008421,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 20153,
+        "num": 617669,
+        "word": "2026春运开启",
+        "onboard_time": 1770001881,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 765294,
+        "num": 562603,
+        "word": "金银价继续大跌",
+        "onboard_time": 1770012440,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 385778,
+        "num": 385778,
+        "word": "惠英红要来微博之夜见宝贝们了",
+        "onboard_time": 1770015741,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 368731,
+        "num": 368731,
+        "word": "肖战官宣微博之夜",
+        "onboard_time": 1770011722,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 250386,
+        "num": 250386,
+        "word": "爱泼斯坦笑称魔鬼让我害怕",
+        "onboard_time": 1770014060,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 220299,
+        "num": 220299,
+        "word": "第68届格莱美获奖名单",
+        "onboard_time": 1770009322,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 220267,
+        "num": 220267,
+        "word": "上海黄金交易所紧急出手",
+        "onboard_time": 1770001700,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 215133,
+        "num": 215133,
+        "word": "女子离婚5天后丈夫去世女儿成被告",
+        "onboard_time": 1770009741,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1861531,
+        "num": 215101,
+        "word": "爱泼斯坦 吃人",
+        "onboard_time": 1769996779,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 978512,
+        "num": 214690,
+        "word": "爱泼斯坦案爆出更多大人物的丑行",
+        "onboard_time": 1770006862,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 844445,
+        "num": 214447,
+        "word": "于文文 除了健康什么都不是你的",
+        "onboard_time": 1770014301,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 423503,
+        "num": 214167,
+        "word": "微博之夜",
+        "onboard_time": 1770009322,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 370032,
+        "num": 214056,
+        "word": "萝莉岛",
+        "onboard_time": 1769955561,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 335286,
+        "num": 213592,
+        "word": "A股",
+        "onboard_time": 1770000259,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 309585,
+        "num": 213361,
+        "word": "35岁男子自曝在妻子孕期出轨",
+        "onboard_time": 1770005422,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 279405,
+        "num": 213049,
+        "word": "爱泼斯坦",
+        "onboard_time": 1769955622,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 43938,
+        "num": 212903,
+        "word": "宝格丽刘亦菲",
+        "onboard_time": 1770015800,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232292,
+        "num": 212585,
+        "word": "比伯穿内裤表演",
+        "onboard_time": 1770004161,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 359213,
+        "num": 212362,
+        "word": "金价",
+        "onboard_time": 1769988378,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 701132,
+        "num": 212117,
+        "word": "宋仲基与妻子合体参加婚礼",
+        "onboard_time": 1770010702,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251558,
+        "num": 211980,
+        "word": "网传迪丽热巴张小斐女足上春节档",
+        "onboard_time": 1770008122,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 169691,
+        "num": 211590,
+        "word": "庆祝来月经第一天的仪式感",
+        "onboard_time": 1770006622,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 211476,
+        "num": 211476,
+        "word": "王一博官宣微博之夜",
+        "onboard_time": 1770011964,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 184212,
+        "num": 184212,
+        "word": "比伯后背纹了海莉纹身",
+        "onboard_time": 1770016160,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 162806,
+        "num": 162806,
+        "word": "白所成因病死亡",
+        "onboard_time": 1770004041,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171040,
+        "num": 162587,
+        "word": "阚清子周一九宫格",
+        "onboard_time": 1770015321,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160127,
+        "num": 160127,
+        "word": "黄金有望涨至6000美元",
+        "onboard_time": 1769999421,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 34722,
+        "num": 154018,
+        "word": "抢头福这事儿多少带点地利",
+        "onboard_time": 1770015800,
+        "rank": 29,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 152887,
+        "num": 152887,
+        "word": "肖战更换律师团队",
+        "onboard_time": 1770008902,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149789,
+        "num": 149789,
+        "word": "格莱美",
+        "onboard_time": 1769988918,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 148564,
+        "num": 148564,
+        "word": "不用辞职请个假就行了",
+        "onboard_time": 1770015141,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 136912,
+        "num": 136912,
+        "word": "千万不要喝隔夜饮料",
+        "onboard_time": 1770003081,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 136898,
+        "num": 136898,
+        "word": "雪地里挖出日本阿姨",
+        "onboard_time": 1770015081,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 130578,
+        "num": 130578,
+        "word": "A股行情",
+        "onboard_time": 1770006922,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 127209,
+        "num": 127209,
+        "word": "男子养4只鹦鹉3只死亡后全家倒下",
+        "onboard_time": 1770014540,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123845,
+        "num": 123845,
+        "word": "李微漪发长文",
+        "onboard_time": 1770014240,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 33677,
+        "num": 122729,
+        "word": "马嘉祺 蛋团最严厉的父亲",
+        "onboard_time": 1770015741,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29550,
+        "num": 122080,
+        "word": "女子拔倒刺指甲开裂险截肢",
+        "onboard_time": 1770015860,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121958,
+        "num": 121958,
+        "word": "王星越夺妻不演了宠妻开张了",
+        "onboard_time": 1770014961,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123422,
+        "num": 121695,
+        "word": "现货黄金下破4500美元",
+        "onboard_time": 1770015800,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 118475,
+        "num": 118475,
+        "word": "杜克拉黑小马哥",
+        "onboard_time": 1770014002,
+        "rank": 42,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 116579,
+        "num": 116579,
+        "word": "周五晚高疯",
+        "onboard_time": 1770013101,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104454,
+        "num": 104454,
+        "word": "生产螺母被认定枪支散件老板获刑",
+        "onboard_time": 1770012741,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98598,
+        "num": 98598,
+        "word": "网曝小孩小区玩火失控烧死笼中狗",
+        "onboard_time": 1770009622,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93353,
+        "num": 93353,
+        "word": "马斯克暗示克林顿盖茨等人有罪",
+        "onboard_time": 1770004461,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 91002,
+        "num": 91002,
+        "word": "年龄到了血脉自然觉醒",
+        "onboard_time": 1770015321,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 24602,
+        "num": 89792,
+        "word": "爱泼斯坦曾否认自己的钱是脏钱",
+        "onboard_time": 1770015020,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 89089,
+        "num": 89089,
+        "word": "白银2天跌光1个月涨幅",
+        "onboard_time": 1770016280,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记对旅客的暖心祝福#"
+    }
+  }
+}
