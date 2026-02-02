@@ -1,6 +1,6 @@
 {
   "startTime": 1769964003289,
-  "endTime": 1770029897943,
+  "endTime": 1770030826762,
   "band_list": [
     {
       "raw_hot": 4038416,
@@ -136,6 +136,14 @@
       "word": "退休一共要缴纳多少年社保",
       "onboard_time": 1770017781,
       "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 714047,
+      "num": 362586,
+      "word": "两男孩玩火烧死萨摩耶狗主人发声",
+      "onboard_time": 1770029061,
+      "rank": 15,
       "category": "民生新闻"
     },
     {
@@ -332,7 +340,7 @@
     },
     {
       "raw_hot": 419604,
-      "num": 419604,
+      "num": 422019,
       "word": "肖战官宣微博之夜",
       "onboard_time": 1770011722,
       "rank": 3,
@@ -603,6 +611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 248481,
+      "num": 136877,
+      "word": "薛之谦发文悼念袁惟仁",
+      "onboard_time": 1770029601,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 248228,
       "num": 550497,
       "word": "APT没拿格莱美年歌合理吗",
@@ -675,6 +691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 232305,
+      "num": 803893,
+      "word": "月亮",
+      "onboard_time": 1770029482,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 228469,
       "num": 178462,
       "word": "金晨道歉后为何仍被揪着不放",
@@ -737,14 +761,6 @@
       "onboard_time": 1769957122,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 198481,
-      "num": 262906,
-      "word": "两男孩玩火烧死萨摩耶狗主人发声",
-      "onboard_time": 1770029061,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 197489,
@@ -867,6 +883,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 170375,
+      "num": 170375,
+      "word": "太好了是王楚然演宠妃",
+      "onboard_time": 1770028642,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 169327,
       "num": 139669,
       "word": "肖战要来微博之夜",
@@ -875,11 +899,11 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 162215,
-      "num": 277283,
-      "word": "月亮",
-      "onboard_time": 1770029482,
-      "rank": 7,
+      "raw_hot": 169243,
+      "num": 470209,
+      "word": "孩子私卖金镯家长半年后想退还遭拒",
+      "onboard_time": 1770028642,
+      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -897,14 +921,6 @@
       "onboard_time": 1770003261,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 153395,
-      "num": 276808,
-      "word": "孩子私卖金镯家长半年后想退还遭拒",
-      "onboard_time": 1770028642,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 149770,
@@ -963,6 +979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 139398,
+      "num": 133303,
+      "word": "10岁抗癌男孩豪豪去世网红竟说开心",
+      "onboard_time": 1770028822,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 136898,
       "num": 136898,
       "word": "雪地里挖出日本阿姨",
@@ -1003,14 +1027,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 134314,
-      "num": 122379,
-      "word": "10岁抗癌男孩豪豪去世网红竟说开心",
-      "onboard_time": 1770028822,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 133820,
       "num": 176917,
       "word": "外交部回应春节出境游首选韩国",
@@ -1049,14 +1065,6 @@
       "onboard_time": 1770002360,
       "rank": 18,
       "category": "演出"
-    },
-    {
-      "raw_hot": 127100,
-      "num": 134921,
-      "word": "太好了是王楚然演宠妃",
-      "onboard_time": 1770028642,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 126802,
@@ -1139,6 +1147,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 120042,
+      "num": 128736,
+      "word": "李微漪回应狼王格林去世传闻",
+      "onboard_time": 1770029422,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 118475,
       "num": 118475,
       "word": "杜克拉黑小马哥",
@@ -1201,6 +1217,14 @@
       "onboard_time": 1770009022,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117011,
+      "num": 117011,
+      "word": "王者春节6款皮肤返场",
+      "onboard_time": 1770028040,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 116826,
@@ -1291,6 +1315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 108168,
+      "num": 108168,
+      "word": "王格格余茵一个敢读一个敢演",
+      "onboard_time": 1770030020,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 108049,
       "num": 104708,
       "word": "那英征服是袁惟仁写的",
@@ -1305,6 +1337,14 @@
       "onboard_time": 1770006562,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 106693,
+      "num": 106693,
+      "word": "酷酷的滕直播",
+      "onboard_time": 1770030620,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 106546,
@@ -1345,14 +1385,6 @@
       "onboard_time": 1769994140,
       "rank": 33,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 104964,
-      "num": 104964,
-      "word": "王者春节6款皮肤返场",
-      "onboard_time": 1770028040,
-      "rank": 35,
-      "category": "游戏"
     },
     {
       "raw_hot": 103974,
@@ -1539,14 +1571,6 @@
       "category": "民生新闻,财经"
     },
     {
-      "raw_hot": 88784,
-      "num": 88784,
-      "word": "李微漪回应狼王格林去世传闻",
-      "onboard_time": 1770029422,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 88324,
       "num": 75170,
       "word": "穆祉丞 捡戒指",
@@ -1683,12 +1707,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 82157,
+      "num": 82157,
+      "word": "镖人",
+      "onboard_time": 1770030803,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 81994,
       "num": 81994,
       "word": "睡眠比任何东西都重要",
       "onboard_time": 1769999780,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 81504,
+      "num": 81504,
+      "word": "山姆回应2女子人肉占车位",
+      "onboard_time": 1770030500,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 80226,
+      "num": 93825,
+      "word": "大理一餐厅两只网红金毛犬身亡",
+      "onboard_time": 1770029961,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 80179,
@@ -1761,6 +1809,14 @@
       "onboard_time": 1769958082,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 73798,
+      "num": 81194,
+      "word": "贵金属3天抹平年内涨幅",
+      "onboard_time": 1770030803,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 73678,
@@ -2123,6 +2179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 33501,
+      "num": 134339,
+      "word": "伊朗总统已下令启动核谈判",
+      "onboard_time": 1770030681,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 33398,
       "num": 194966,
       "word": "马斯克再否认参加过爱泼斯坦派对",
@@ -2251,6 +2315,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 21672,
+      "num": 97176,
+      "word": "斯塔默访华后说英国基建太慢了",
+      "onboard_time": 1770029842,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 21046,
       "num": 101654,
       "word": "成都通报传承人网已关停",
@@ -2329,14 +2401,6 @@
       "onboard_time": 1769977873,
       "rank": 40,
       "category": "演出"
-    },
-    {
-      "raw_hot": 15967,
-      "num": 97176,
-      "word": "斯塔默访华后说英国基建太慢了",
-      "onboard_time": 1770029842,
-      "rank": 39,
-      "category": "国际时政"
     },
     {
       "raw_hot": 14820,
