@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1770022537748,
+  "endTime": 1770023404628,
   "band_list": [
     {
       "raw_hot": 3389142,
@@ -260,7 +260,7 @@
     },
     {
       "raw_hot": 719558,
-      "num": 584909,
+      "num": 603636,
       "word": "退休一共要缴纳多少年社保",
       "onboard_time": 1770017781,
       "rank": 3,
@@ -612,7 +612,7 @@
     },
     {
       "raw_hot": 447275,
-      "num": 447275,
+      "num": 1070748,
       "word": "模特控诉爱泼斯坦聚会吃人后消失",
       "onboard_time": 1770019641,
       "rank": 4,
@@ -1339,6 +1339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 237083,
+      "num": 360989,
+      "word": "一家三口掉冰窟窿父亲托母子出水面",
+      "onboard_time": 1770019520,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 235208,
       "num": 336211,
       "word": "卤味三巨头半年闭店超5300家",
@@ -1409,6 +1417,14 @@
       "onboard_time": 1769946082,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 226863,
+      "num": 350094,
+      "word": "APT没拿格莱美年歌合理吗",
+      "onboard_time": 1770020000,
+      "rank": 9,
+      "category": "音乐"
     },
     {
       "raw_hot": 224453,
@@ -1497,14 +1513,6 @@
       "onboard_time": 1769870063,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 206804,
-      "num": 360989,
-      "word": "一家三口掉冰窟窿父亲托母子出水面",
-      "onboard_time": 1770019520,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 204200,
@@ -1747,6 +1755,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 168647,
+      "num": 168647,
+      "word": "改善驼背不要挺胸夹背",
+      "onboard_time": 1770021020,
+      "rank": 33,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 167945,
       "num": 157112,
       "word": "刘耀文玩空气手机",
@@ -1795,6 +1811,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 162079,
+      "num": 291989,
+      "word": "成都一商场有儿童被大气球悬吊空中",
+      "onboard_time": 1770021440,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 159776,
       "num": 159776,
       "word": "小猫喝玉米水",
@@ -1825,14 +1849,6 @@
       "onboard_time": 1769938702,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 154739,
-      "num": 350094,
-      "word": "APT没拿格莱美年歌合理吗",
-      "onboard_time": 1770020000,
-      "rank": 9,
-      "category": "音乐"
     },
     {
       "raw_hot": 153559,
@@ -1993,6 +2009,14 @@
       "onboard_time": 1769947221,
       "rank": 34,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 142104,
+      "num": 142104,
+      "word": "孙千演出了漫画里才有的泪眼",
+      "onboard_time": 1770022881,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 141640,
@@ -2411,14 +2435,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 122227,
-      "num": 122227,
-      "word": "改善驼背不要挺胸夹背",
-      "onboard_time": 1770021020,
-      "rank": 33,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 121958,
       "num": 121958,
       "word": "王星越夺妻不演了宠妻开张了",
@@ -2451,6 +2467,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 121425,
+      "num": 121425,
+      "word": "云合",
+      "onboard_time": 1770021860,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 121312,
       "num": 95509,
       "word": "刘萧旭又要让玫瑰窃贼火一次了",
@@ -2475,14 +2499,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 120421,
-      "num": 120421,
-      "word": "云合",
-      "onboard_time": 1770021860,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 120223,
       "num": 120223,
       "word": "爱泼斯坦文件提及泽连斯基",
@@ -2505,6 +2521,14 @@
       "onboard_time": 1770007402,
       "rank": 45,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 120075,
+      "num": 120075,
+      "word": "微博之夜阵容夯爆了",
+      "onboard_time": 1770022820,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 119746,
@@ -3211,6 +3235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94213,
+      "num": 94213,
+      "word": "明日方舟",
+      "onboard_time": 1770022820,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 94065,
       "num": 239371,
       "word": "2.5吨白银建的银楼白菜价甩卖却流拍",
@@ -3312,14 +3344,6 @@
       "word": "广州一初中生放假回家的视频火了",
       "onboard_time": 1769903477,
       "rank": 31,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 91203,
-      "num": 291989,
-      "word": "成都一商场有儿童被大气球悬吊空中",
-      "onboard_time": 1770021440,
-      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -3595,6 +3619,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 83361,
+      "num": 83361,
+      "word": "A股全市场超百股跌停",
+      "onboard_time": 1770022581,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 83282,
       "num": 83282,
       "word": "点狗棚小孩家长已赔礼道歉",
@@ -3697,6 +3729,14 @@
       "onboard_time": 1769939061,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 79902,
+      "num": 79902,
+      "word": "宋威龙这个明爽",
+      "onboard_time": 1770019461,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 79375,
@@ -4043,12 +4083,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 61789,
+      "num": 142107,
+      "word": "热雪新年翊起转",
+      "onboard_time": 1770023002,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 61559,
       "num": 61559,
       "word": "北京市民排队8小时买黄金",
       "onboard_time": 1769905099,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 60889,
+      "num": 169477,
+      "word": "帮喵娲娲策划微博之夜社交名场面",
+      "onboard_time": 1770022881,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 60829,
@@ -4443,6 +4499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34575,
+      "num": 169242,
+      "word": "孩子平常无症状11岁发现心脏有个洞",
+      "onboard_time": 1770022820,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34488,
       "num": 40368,
       "word": "曝iPhoneFold为电池容量最大iPhone",
@@ -4521,6 +4585,14 @@
       "onboard_time": 1769880797,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 32401,
+      "num": 120344,
+      "word": "挺进无人区我为祖国找油气",
+      "onboard_time": 1770022641,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32205,
@@ -4752,6 +4824,14 @@
       "word": "假冒军人诈骗的海王被抓了",
       "onboard_time": 1769939540,
       "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17918,
+      "num": 622608,
+      "word": "把春运检修拍成了科幻电影",
+      "onboard_time": 1770023002,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
