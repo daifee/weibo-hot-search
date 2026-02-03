@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1770112447099,
+  "endTime": 1770113221497,
   "band_list": [
     {
       "raw_hot": 4038416,
@@ -265,6 +265,14 @@
       "onboard_time": 1770081320,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 900457,
+      "num": 234420,
+      "word": "爱泼斯坦案中一女孩穿水手服跪地",
+      "onboard_time": 1770111440,
+      "rank": 10,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 890270,
@@ -619,6 +627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 604287,
+      "num": 604287,
+      "word": "女子连续十年买黄金说政治课教过",
+      "onboard_time": 1770110420,
+      "rank": 4,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 598816,
       "num": 199126,
       "word": "百万网红自曝月收入5千",
@@ -860,7 +876,7 @@
     },
     {
       "raw_hot": 486693,
-      "num": 788407,
+      "num": 1077523,
       "word": "阿嬷手作螺蛳粉一碗55元起",
       "onboard_time": 1770107481,
       "rank": 17,
@@ -955,14 +971,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 456661,
-      "num": 456661,
-      "word": "女子连续十年买黄金说政治课教过",
-      "onboard_time": 1770110420,
-      "rank": 4,
-      "category": "民生新闻,财经"
-    },
-    {
       "raw_hot": 455666,
       "num": 216398,
       "word": "女演员补缴7千提取13年前囤的白银",
@@ -1051,6 +1059,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 435858,
+      "num": 435858,
+      "word": "大连交通事故已致5死",
+      "onboard_time": 1770111680,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 433005,
       "num": 342793,
       "word": "萨摩耶被两娃烧死主人回应质疑",
@@ -1081,6 +1097,14 @@
       "onboard_time": 1770043644,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 425469,
+      "num": 152967,
+      "word": "胡先煦睡觉吓到空姐",
+      "onboard_time": 1770112400,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 425343,
@@ -1185,14 +1209,6 @@
       "onboard_time": 1770090561,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 405736,
-      "num": 234420,
-      "word": "爱泼斯坦案中一女孩穿水手服跪地",
-      "onboard_time": 1770111440,
-      "rank": 10,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 402487,
@@ -2395,6 +2411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 208883,
+      "num": 208883,
+      "word": "白银暴涨10%",
+      "onboard_time": 1770106761,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 204806,
       "num": 179587,
       "word": "五福的第一笔钱到账了",
@@ -2441,14 +2465,6 @@
       "onboard_time": 1770045622,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 198406,
-      "num": 198406,
-      "word": "白银暴涨10%",
-      "onboard_time": 1770106761,
-      "rank": 28,
-      "category": "财经"
     },
     {
       "raw_hot": 197489,
@@ -2680,14 +2696,6 @@
       "word": "周生生足金挂坠被检测出含铁银钯",
       "onboard_time": 1770045561,
       "rank": 25,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 179820,
-      "num": 240402,
-      "word": "大连交通事故已致5死",
-      "onboard_time": 1770111680,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -3321,6 +3329,14 @@
       "onboard_time": 1769933721,
       "rank": 28,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 137325,
+      "num": 137325,
+      "word": "萨摩耶主人要求孩子家长道歉",
+      "onboard_time": 1770110600,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 136957,
@@ -4003,14 +4019,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 118518,
-      "num": 118518,
-      "word": "萨摩耶主人要求孩子家长道歉",
-      "onboard_time": 1770110600,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 118475,
       "num": 118475,
       "word": "杜克拉黑小马哥",
@@ -4419,6 +4427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 109424,
+      "num": 109424,
+      "word": "李微微一审被判无期",
+      "onboard_time": 1770111560,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 109400,
       "num": 103744,
       "word": "被这种家庭生出来的孩子一定很幸福",
@@ -4433,6 +4449,14 @@
       "onboard_time": 1769861902,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 108918,
+      "num": 108918,
+      "word": "精神病医院让病人替护工干活",
+      "onboard_time": 1770111980,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 108819,
@@ -4507,6 +4531,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 107084,
+      "num": 107084,
+      "word": "李微漪证实狼王格林已自然老去",
+      "onboard_time": 1770110660,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 106966,
       "num": 106966,
       "word": "杨紫回复梅婷",
@@ -4553,6 +4585,14 @@
       "onboard_time": 1770002240,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 106434,
+      "num": 106434,
+      "word": "快递停运焦虑症",
+      "onboard_time": 1770109521,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 106376,
@@ -4609,14 +4649,6 @@
       "onboard_time": 1769994140,
       "rank": 33,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 105266,
-      "num": 105266,
-      "word": "李微微一审被判无期",
-      "onboard_time": 1770111560,
-      "rank": 32,
-      "category": "国内时政"
     },
     {
       "raw_hot": 105252,
@@ -4939,14 +4971,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 99850,
-      "num": 99850,
-      "word": "李微漪证实狼王格林已自然老去",
-      "onboard_time": 1770110660,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 99726,
       "num": 118452,
       "word": "马斯克问爱泼斯坦萝莉岛派对哪天开",
@@ -4977,14 +5001,6 @@
       "onboard_time": 1769995820,
       "rank": 41,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 98916,
-      "num": 98916,
-      "word": "快递停运焦虑症",
-      "onboard_time": 1770109521,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 98786,
@@ -5147,6 +5163,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 95133,
+      "num": 106560,
+      "word": "华纳副总裁评价王一博探索新境",
+      "onboard_time": 1770112281,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 95119,
       "num": 95119,
       "word": "武契奇预计伊朗将在48小时内遭袭",
@@ -5281,6 +5305,14 @@
       "onboard_time": 1770093321,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 93480,
+      "num": 93480,
+      "word": "自带防癌属性的常见食物",
+      "onboard_time": 1770110779,
+      "rank": 41,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 93343,
@@ -5643,14 +5675,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 87225,
-      "num": 87225,
-      "word": "自带防癌属性的常见食物",
-      "onboard_time": 1770110779,
-      "rank": 41,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 87085,
       "num": 87085,
       "word": "杨紫生命树太好哭了",
@@ -5779,14 +5803,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 84938,
-      "num": 93595,
-      "word": "华纳副总裁评价王一博探索新境",
-      "onboard_time": 1770112281,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 84915,
       "num": 84915,
       "word": "樊振东直接入选伦敦世乒赛名单",
@@ -5833,14 +5849,6 @@
       "onboard_time": 1770034881,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 84022,
-      "num": 84022,
-      "word": "精神病医院让病人替护工干活",
-      "onboard_time": 1770111980,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 83552,
@@ -5929,14 +5937,6 @@
       "onboard_time": 1769999121,
       "rank": 48,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 82286,
-      "num": 82286,
-      "word": "胡先煦睡觉吓到空姐",
-      "onboard_time": 1770112400,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 82198,
@@ -6091,6 +6091,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 79708,
+      "num": 79708,
+      "word": "LWX没有要结婚",
+      "onboard_time": 1770110180,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 79375,
       "num": 79375,
       "word": "佟大为新剧洪世贤看了都得喊哥",
@@ -6123,12 +6131,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 78499,
+      "num": 78499,
+      "word": "寿司in my胃",
+      "onboard_time": 1770112580,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 78437,
       "num": 78437,
       "word": "邓超又来考验春晚导播了",
       "onboard_time": 1769872822,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 77269,
+      "num": 77269,
+      "word": "随餐吃饺子vs饭后吃饺子",
+      "onboard_time": 1770113180,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 77101,
@@ -6219,6 +6243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 75888,
+      "num": 75888,
+      "word": "用舌头给冰淇淋雕了朵花",
+      "onboard_time": 1770112880,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 75877,
       "num": 110637,
       "word": "三天落马两个正部级",
@@ -6235,6 +6267,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 75327,
+      "num": 75327,
+      "word": "第一次意识到相机是有算法的",
+      "onboard_time": 1770113180,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
       "raw_hot": 75279,
       "num": 75279,
       "word": "恋与制作人",
@@ -6249,6 +6289,14 @@
       "onboard_time": 1769914459,
       "rank": 40,
       "category": "财经"
+    },
+    {
+      "raw_hot": 74947,
+      "num": 166347,
+      "word": "肖战藏海传微博剧集年榜四冠",
+      "onboard_time": 1770112580,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 74829,
@@ -7035,6 +7083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 42018,
+      "num": 164678,
+      "word": "抢头福什么时候变成世界课题了",
+      "onboard_time": 1770112880,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 41450,
       "num": 106227,
       "word": "官方通报临街门面被连夜砌墙封堵",
@@ -7123,6 +7179,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 37500,
+      "num": 106486,
+      "word": "白日提灯改回原著名了",
+      "onboard_time": 1770112281,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 37485,
       "num": 257111,
       "word": "人类最大规模周期性迁徙开始了",
@@ -7193,14 +7257,6 @@
       "onboard_time": 1770018261,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 34777,
-      "num": 94015,
-      "word": "白日提灯改回原著名了",
-      "onboard_time": 1770112281,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 34736,
@@ -7604,7 +7660,7 @@
     },
     {
       "raw_hot": 21307,
-      "num": 638310,
+      "num": 638482,
       "word": "2026春运安全出行指南",
       "onboard_time": 1770105862,
       "rank": 2,

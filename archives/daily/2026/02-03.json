@@ -1,6 +1,6 @@
 {
   "startTime": 1770051170355,
-  "endTime": 1770112447099,
+  "endTime": 1770113221497,
   "band_list": [
     {
       "raw_hot": 1714835,
@@ -83,6 +83,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 900457,
+      "num": 234420,
+      "word": "爱泼斯坦案中一女孩穿水手服跪地",
+      "onboard_time": 1770111440,
+      "rank": 10,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 884639,
       "num": 1141542,
       "word": "新版熔炉事件让韩国社会炸锅",
@@ -137,6 +145,14 @@
       "onboard_time": 1770102981,
       "rank": 48,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 604287,
+      "num": 604287,
+      "word": "女子连续十年买黄金说政治课教过",
+      "onboard_time": 1770110420,
+      "rank": 4,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 598816,
@@ -212,7 +228,7 @@
     },
     {
       "raw_hot": 486693,
-      "num": 788407,
+      "num": 1077523,
       "word": "阿嬷手作螺蛳粉一碗55元起",
       "onboard_time": 1770107481,
       "rank": 17,
@@ -259,14 +275,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 456661,
-      "num": 456661,
-      "word": "女子连续十年买黄金说政治课教过",
-      "onboard_time": 1770110420,
-      "rank": 4,
-      "category": "民生新闻,财经"
-    },
-    {
       "raw_hot": 452045,
       "num": 768004,
       "word": "男子90万买彩票未中奖起诉彩票中心",
@@ -281,6 +289,22 @@
       "onboard_time": 1770090561,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 435858,
+      "num": 435858,
+      "word": "大连交通事故已致5死",
+      "onboard_time": 1770111680,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 425469,
+      "num": 152967,
+      "word": "胡先煦睡觉吓到空姐",
+      "onboard_time": 1770112400,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 417117,
@@ -321,14 +345,6 @@
       "onboard_time": 1770090561,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 405736,
-      "num": 234420,
-      "word": "爱泼斯坦案中一女孩穿水手服跪地",
-      "onboard_time": 1770111440,
-      "rank": 10,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 390430,
@@ -659,6 +675,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 208883,
+      "num": 208883,
+      "word": "白银暴涨10%",
+      "onboard_time": 1770106761,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 207493,
       "num": 107769,
       "word": "说好不熬 萨摩耶狗主人",
@@ -689,14 +713,6 @@
       "onboard_time": 1770045622,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 198406,
-      "num": 198406,
-      "word": "白银暴涨10%",
-      "onboard_time": 1770106761,
-      "rank": 28,
-      "category": "财经"
     },
     {
       "raw_hot": 196773,
@@ -744,14 +760,6 @@
       "word": "两男孩玩火烧死萨摩耶狗主人发声",
       "onboard_time": 1770029061,
       "rank": 21,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 179820,
-      "num": 240402,
-      "word": "大连交通事故已致5死",
-      "onboard_time": 1770111680,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -913,6 +921,14 @@
       "onboard_time": 1770105200,
       "rank": 37,
       "category": "美食"
+    },
+    {
+      "raw_hot": 137325,
+      "num": 137325,
+      "word": "萨摩耶主人要求孩子家长道歉",
+      "onboard_time": 1770110600,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 136420,
@@ -1115,14 +1131,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 118518,
-      "num": 118518,
-      "word": "萨摩耶主人要求孩子家长道歉",
-      "onboard_time": 1770110600,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 116866,
       "num": 116866,
       "word": "村医让儿媳给患者注射头孢致其死亡",
@@ -1203,6 +1211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 109424,
+      "num": 109424,
+      "word": "李微微一审被判无期",
+      "onboard_time": 1770111560,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 109400,
       "num": 103744,
       "word": "被这种家庭生出来的孩子一定很幸福",
@@ -1211,12 +1227,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 108918,
+      "num": 108918,
+      "word": "精神病医院让病人替护工干活",
+      "onboard_time": 1770111980,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107908,
       "num": 107908,
       "word": "爱泼斯坦生前采访谈到女性",
       "onboard_time": 1770042383,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 107084,
+      "num": 107084,
+      "word": "李微漪证实狼王格林已自然老去",
+      "onboard_time": 1770110660,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 106860,
@@ -1235,20 +1267,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 106434,
+      "num": 106434,
+      "word": "快递停运焦虑症",
+      "onboard_time": 1770109521,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 105727,
       "num": 123265,
       "word": "患儿4.5万善款4.4万被中间人抽走",
       "onboard_time": 1770093022,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 105266,
-      "num": 105266,
-      "word": "李微微一审被判无期",
-      "onboard_time": 1770111560,
-      "rank": 32,
-      "category": "国内时政"
     },
     {
       "raw_hot": 105127,
@@ -1355,22 +1387,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 99850,
-      "num": 99850,
-      "word": "李微漪证实狼王格林已自然老去",
-      "onboard_time": 1770110660,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 98916,
-      "num": 98916,
-      "word": "快递停运焦虑症",
-      "onboard_time": 1770109521,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 98786,
       "num": 98786,
       "word": "闺蜜你真的不考虑下我哥吗",
@@ -1427,6 +1443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 95133,
+      "num": 106560,
+      "word": "华纳副总裁评价王一博探索新境",
+      "onboard_time": 1770112281,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 94808,
       "num": 93423,
       "word": "第一次见短剧有韩剧财阀那味儿",
@@ -1481,6 +1505,14 @@
       "onboard_time": 1770093321,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 93480,
+      "num": 93480,
+      "word": "自带防癌属性的常见食物",
+      "onboard_time": 1770110779,
+      "rank": 41,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 93343,
@@ -1563,14 +1595,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 87225,
-      "num": 87225,
-      "word": "自带防癌属性的常见食物",
-      "onboard_time": 1770110779,
-      "rank": 41,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 86757,
       "num": 86757,
       "word": "炽热吸引",
@@ -1627,14 +1651,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 84938,
-      "num": 93595,
-      "word": "华纳副总裁评价王一博探索新境",
-      "onboard_time": 1770112281,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 84915,
       "num": 84915,
       "word": "樊振东直接入选伦敦世乒赛名单",
@@ -1657,14 +1673,6 @@
       "onboard_time": 1770107961,
       "rank": 48,
       "category": "休闲"
-    },
-    {
-      "raw_hot": 84022,
-      "num": 84022,
-      "word": "精神病医院让病人替护工干活",
-      "onboard_time": 1770111980,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 83861,
@@ -1715,14 +1723,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 82286,
-      "num": 82286,
-      "word": "胡先煦睡觉吓到空姐",
-      "onboard_time": 1770112400,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 82198,
       "num": 82198,
       "word": "黄金一夜暴涨3%上车还是跑路",
@@ -1755,6 +1755,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 79708,
+      "num": 79708,
+      "word": "LWX没有要结婚",
+      "onboard_time": 1770110180,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 79561,
       "num": 79561,
       "word": "赵睿道歉",
@@ -1777,6 +1785,22 @@
       "onboard_time": 1770034521,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 78499,
+      "num": 78499,
+      "word": "寿司in my胃",
+      "onboard_time": 1770112580,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 77269,
+      "num": 77269,
+      "word": "随餐吃饺子vs饭后吃饺子",
+      "onboard_time": 1770113180,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 76979,
@@ -1819,12 +1843,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 75888,
+      "num": 75888,
+      "word": "用舌头给冰淇淋雕了朵花",
+      "onboard_time": 1770112880,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 75327,
+      "num": 75327,
+      "word": "第一次意识到相机是有算法的",
+      "onboard_time": 1770113180,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
       "raw_hot": 75279,
       "num": 75279,
       "word": "恋与制作人",
       "onboard_time": 1770096439,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 74947,
+      "num": 166347,
+      "word": "肖战藏海传微博剧集年榜四冠",
+      "onboard_time": 1770112580,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 72860,
@@ -2131,6 +2179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 42018,
+      "num": 164678,
+      "word": "抢头福什么时候变成世界课题了",
+      "onboard_time": 1770112880,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 41156,
       "num": 41156,
       "word": "尚公主杀青",
@@ -2195,8 +2251,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 34777,
-      "num": 94015,
+      "raw_hot": 37500,
+      "num": 106486,
       "word": "白日提灯改回原著名了",
       "onboard_time": 1770112281,
       "rank": 37,
@@ -2292,7 +2348,7 @@
     },
     {
       "raw_hot": 21307,
-      "num": 638310,
+      "num": 638482,
       "word": "2026春运安全出行指南",
       "onboard_time": 1770105862,
       "rank": 2,

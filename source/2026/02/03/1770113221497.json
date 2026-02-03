@@ -1,0 +1,410 @@
+{
+  "runTime": 1770113221497,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 484520,
+        "num": 1077523,
+        "word": "阿嬷手作螺蛳粉一碗55元起",
+        "onboard_time": 1770107481,
+        "rank": 0,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 464479,
+        "num": 760998,
+        "word": "樊振东王楚钦获得伦敦世乒赛资格",
+        "onboard_time": 1770109038,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19437,
+        "num": 638482,
+        "word": "2026春运安全出行指南",
+        "onboard_time": 1770105862,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 604287,
+        "num": 604287,
+        "word": "女子连续十年买黄金说政治课教过",
+        "onboard_time": 1770110420,
+        "rank": 3,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 435858,
+        "num": 435858,
+        "word": "大连交通事故已致5死",
+        "onboard_time": 1770111680,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 371706,
+        "num": 371706,
+        "word": "12306回应用前任身份证订票再取消",
+        "onboard_time": 1770108681,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 316179,
+        "num": 316179,
+        "word": "王楚然工作室AI剧宣",
+        "onboard_time": 1770106460,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 257287,
+        "num": 257287,
+        "word": "中方回应日本挖到含稀土淤泥",
+        "onboard_time": 1770102981,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 233756,
+        "num": 233756,
+        "word": "警方辟谣夫妻网购娃娃菜中毒系丈夫下毒",
+        "onboard_time": 1770108081,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224000,
+        "num": 224000,
+        "word": "骄阳似我",
+        "onboard_time": 1770103100,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 900457,
+        "num": 222295,
+        "word": "爱泼斯坦案中一女孩穿水手服跪地",
+        "onboard_time": 1770111440,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 279024,
+        "num": 220175,
+        "word": "爱泼斯坦",
+        "onboard_time": 1770085999,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 249076,
+        "num": 219468,
+        "word": "爱泼斯坦被曝15年前秘密生子",
+        "onboard_time": 1770105622,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 217703,
+        "num": 217703,
+        "word": "灵隐寺对38万爽约者出手了",
+        "onboard_time": 1770099801,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208883,
+        "num": 208883,
+        "word": "白银暴涨10%",
+        "onboard_time": 1770106761,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 191182,
+        "num": 191182,
+        "word": "医院直播被指暴露女患者隐私部位",
+        "onboard_time": 1770091581,
+        "rank": 15,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 32561,
+        "num": 170886,
+        "word": "飞坡测试戳破豪华SUV滤镜",
+        "onboard_time": 1770109401,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 168419,
+        "num": 168419,
+        "word": "老人筷子蘸酒喂5月龄宝宝致肝损伤",
+        "onboard_time": 1770104600,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74947,
+        "num": 166347,
+        "word": "肖战藏海传微博剧集年榜四冠",
+        "onboard_time": 1770112580,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42018,
+        "num": 164678,
+        "word": "抢头福什么时候变成世界课题了",
+        "onboard_time": 1770112880,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164630,
+        "num": 164630,
+        "word": "设计一半才想起来是马年",
+        "onboard_time": 1770106580,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1012855,
+        "num": 163581,
+        "word": "萝莉岛 恶魔岛",
+        "onboard_time": 1770102981,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 727644,
+        "num": 157013,
+        "word": "郑恺的情商",
+        "onboard_time": 1770110060,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 425469,
+        "num": 152967,
+        "word": "胡先煦睡觉吓到空姐",
+        "onboard_time": 1770112400,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 381850,
+        "num": 147839,
+        "word": "LWX 结婚",
+        "onboard_time": 1770105020,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 334541,
+        "num": 145636,
+        "word": "金宣虎或被判刑",
+        "onboard_time": 1770089841,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224668,
+        "num": 138538,
+        "word": "薛之谦祭拜赵英俊",
+        "onboard_time": 1770107541,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137325,
+        "num": 137325,
+        "word": "萨摩耶主人要求孩子家长道歉",
+        "onboard_time": 1770110600,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 456229,
+        "num": 133688,
+        "word": "郑恺回应鹿晗粉丝",
+        "onboard_time": 1770101180,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187756,
+        "num": 132427,
+        "word": "肖战白鹿热巴商业价值TOP3",
+        "onboard_time": 1770105440,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126662,
+        "num": 126662,
+        "word": "没有年味的原因找到了",
+        "onboard_time": 1770101839,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158894,
+        "num": 125065,
+        "word": "杨紫感谢马思纯",
+        "onboard_time": 1770106100,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122984,
+        "num": 122984,
+        "word": "NBA交易",
+        "onboard_time": 1770105261,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111545,
+        "num": 111545,
+        "word": "尚公主杀青聚餐",
+        "onboard_time": 1770110660,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109480,
+        "num": 109480,
+        "word": "以为自己很抗打直到化了泰妆",
+        "onboard_time": 1770110060,
+        "rank": 34,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 109424,
+        "num": 109424,
+        "word": "李微微一审被判无期",
+        "onboard_time": 1770111560,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 108918,
+        "num": 108918,
+        "word": "精神病医院让病人替护工干活",
+        "onboard_time": 1770111980,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107084,
+        "num": 107084,
+        "word": "李微漪证实狼王格林已自然老去",
+        "onboard_time": 1770110660,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95133,
+        "num": 106560,
+        "word": "华纳副总裁评价王一博探索新境",
+        "onboard_time": 1770112281,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37500,
+        "num": 106486,
+        "word": "白日提灯改回原著名了",
+        "onboard_time": 1770112281,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106434,
+        "num": 106434,
+        "word": "快递停运焦虑症",
+        "onboard_time": 1770109521,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 104056,
+        "num": 104056,
+        "word": "萝莉岛",
+        "onboard_time": 1770087560,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 93480,
+        "num": 93480,
+        "word": "自带防癌属性的常见食物",
+        "onboard_time": 1770110779,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 90307,
+        "num": 90307,
+        "word": "闺蜜你真的不考虑下我哥吗",
+        "onboard_time": 1770111200,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 85952,
+        "num": 85952,
+        "word": "黄圣依张凌赫豪门家族又上人了",
+        "onboard_time": 1770107361,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79708,
+        "num": 79708,
+        "word": "LWX没有要结婚",
+        "onboard_time": 1770110180,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 78499,
+        "num": 78499,
+        "word": "寿司in my胃",
+        "onboard_time": 1770112580,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 77269,
+        "num": 77269,
+        "word": "随餐吃饺子vs饭后吃饺子",
+        "onboard_time": 1770113180,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 75888,
+        "num": 75888,
+        "word": "用舌头给冰淇淋雕了朵花",
+        "onboard_time": 1770112880,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 75327,
+        "num": 75327,
+        "word": "第一次意识到相机是有算法的",
+        "onboard_time": 1770113180,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同奥尔西会谈#"
+    }
+  }
+}
