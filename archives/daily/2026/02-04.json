@@ -1,6 +1,6 @@
 {
   "startTime": 1770135183011,
-  "endTime": 1770158329283,
+  "endTime": 1770159518640,
   "band_list": [
     {
       "raw_hot": 841160,
@@ -163,6 +163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 147037,
+      "num": 147037,
+      "word": "何不同舟渡",
+      "onboard_time": 1770135439,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 140754,
       "num": 140754,
       "word": "警方通报夫妻网购娃娃菜食用中毒",
@@ -232,14 +240,6 @@
       "word": "生命树",
       "onboard_time": 1770120022,
       "rank": 28,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 95468,
-      "num": 95468,
-      "word": "何不同舟渡",
-      "onboard_time": 1770135439,
-      "rank": 8,
       "category": "剧集"
     },
     {
@@ -459,12 +459,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 42317,
+      "num": 42317,
+      "word": "特朗普称有问题的是比尔盖茨那些人",
+      "onboard_time": 1770124941,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 40042,
       "num": 40042,
       "word": "2025微博十大热搜演唱会",
       "onboard_time": 1770137957,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 38340,
+      "num": 38340,
+      "word": "陕西中医药大学附属医院致歉通报",
+      "onboard_time": 1770138917,
+      "rank": 33,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 37334,
@@ -491,14 +507,6 @@
       "category": "游戏,网红"
     },
     {
-      "raw_hot": 35915,
-      "num": 35915,
-      "word": "陕西中医药大学附属医院致歉通报",
-      "onboard_time": 1770138917,
-      "rank": 33,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 35357,
       "num": 35357,
       "word": "流量不能凌驾于医疗伦理之上",
@@ -523,20 +531,28 @@
       "category": "财经"
     },
     {
-      "raw_hot": 31303,
-      "num": 33309,
-      "word": "特朗普称有问题的是比尔盖茨那些人",
-      "onboard_time": 1770124941,
-      "rank": 47,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 29442,
-      "num": 29442,
+      "raw_hot": 30511,
+      "num": 30511,
       "word": "王牌对王牌",
       "onboard_time": 1770139457,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 29670,
+      "num": 29670,
+      "word": "肖战蝉联两年微博综合热度TOP",
+      "onboard_time": 1770157516,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 29319,
+      "num": 29319,
+      "word": "2025演唱会推荐TOP10",
+      "onboard_time": 1770157935,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 27620,
@@ -547,20 +563,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 24227,
+      "num": 26994,
+      "word": "美方回应爱泼斯坦案中女孩穿水手服跪地",
+      "onboard_time": 1770118340,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 23810,
       "num": 575834,
       "word": "学生优惠火车票购票攻略来了",
       "onboard_time": 1770124281,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 23471,
-      "num": 23471,
-      "word": "肖战蝉联两年微博综合热度TOP",
-      "onboard_time": 1770157516,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 21964,
@@ -571,20 +587,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 20568,
-      "num": 20568,
+      "raw_hot": 20990,
+      "num": 26982,
       "word": "吃娃娃菜中毒夫妻涉嫌敲诈勒索罪",
       "onboard_time": 1770136338,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 20526,
-      "num": 20526,
-      "word": "美方回应爱泼斯坦案中女孩穿水手服跪地",
-      "onboard_time": 1770118340,
-      "rank": 37,
-      "category": "国际时政"
     },
     {
       "raw_hot": 20110,
@@ -619,6 +627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 15427,
+      "num": 26930,
+      "word": "檀健次冷档期的热影响力",
+      "onboard_time": 1770159256,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 15415,
       "num": 18890,
       "word": "张函瑞进行曲播放量破千万",
@@ -627,16 +643,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 14631,
-      "num": 20510,
-      "word": "2025演唱会推荐TOP10",
-      "onboard_time": 1770157935,
-      "rank": 41,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 14500,
-      "num": 20507,
+      "raw_hot": 15406,
+      "num": 26958,
       "word": "李沛恩和蓝色好配",
       "onboard_time": 1770142574,
       "rank": 48,
@@ -644,7 +652,7 @@
     },
     {
       "raw_hot": 14279,
-      "num": 20503,
+      "num": 26898,
       "word": "朱一龙怼脸海报",
       "onboard_time": 1770152534,
       "rank": 49,
