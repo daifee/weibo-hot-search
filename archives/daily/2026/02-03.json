@@ -1,14 +1,46 @@
 {
   "startTime": 1770051170355,
-  "endTime": 1770076377600,
+  "endTime": 1770086574781,
   "band_list": [
     {
       "raw_hot": 1535986,
-      "num": 172559,
+      "num": 186745,
       "word": "马斯克女儿爆料",
       "onboard_time": 1770073636,
       "rank": 10,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 900582,
+      "num": 271707,
+      "word": "挪威王储妃与爱泼斯坦暧昧邮件曝光",
+      "onboard_time": 1770081320,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 687299,
+      "num": 786373,
+      "word": "记者卧底精神病医院许多病人无异常",
+      "onboard_time": 1770080901,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 535495,
+      "num": 187522,
+      "word": "爱泼斯坦",
+      "onboard_time": 1770085999,
+      "rank": 10,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 533950,
+      "num": 533950,
+      "word": "黄金白银直线飙涨原因",
+      "onboard_time": 1770078440,
+      "rank": 3,
+      "category": "财经"
     },
     {
       "raw_hot": 533691,
@@ -27,12 +59,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 498183,
+      "num": 182373,
+      "word": "俄媒曝光爱泼斯坦诡异视频",
+      "onboard_time": 1770084439,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 457780,
-      "num": 169186,
+      "num": 183067,
       "word": "被岳父母退99999元彩礼男子发声",
       "onboard_time": 1770047001,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 445470,
+      "num": 1071275,
+      "word": "唐宫奇案定档",
+      "onboard_time": 1770084439,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 409292,
@@ -67,6 +115,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 329761,
+      "num": 170687,
+      "word": "金价银价反弹",
+      "onboard_time": 1770080720,
+      "rank": 20,
+      "category": "财经"
+    },
+    {
       "raw_hot": 307928,
       "num": 164669,
       "word": "丈夫被指出轨怒揭妻子婚前多次堕胎",
@@ -99,6 +155,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 272913,
+      "num": 272913,
+      "word": "大学生打糍粑不慎把祖传粑槽打坏",
+      "onboard_time": 1770079041,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 269773,
       "num": 269773,
       "word": "袁惟仁去世",
@@ -115,12 +179,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 265269,
+      "num": 265269,
+      "word": "德国难民抱18岁陌生女孩跳轨",
+      "onboard_time": 1770081080,
+      "rank": 6,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 252884,
+      "num": 252884,
+      "word": "金饰价格涨到1542元",
+      "onboard_time": 1770084619,
+      "rank": 8,
+      "category": "财经"
+    },
+    {
       "raw_hot": 251115,
       "num": 848902,
       "word": "江苏盐城一座在建桥梁垮塌",
       "onboard_time": 1770048081,
       "rank": 7,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 247129,
+      "num": 177744,
+      "word": "林一腋下管理这一块",
+      "onboard_time": 1770085100,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 228462,
@@ -131,6 +219,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 222200,
+      "num": 176368,
+      "word": "克林顿夫妇将配合爱泼斯坦案调查",
+      "onboard_time": 1770081140,
+      "rank": 16,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 211357,
+      "num": 173870,
+      "word": "陈都灵花蝴蝶高定",
+      "onboard_time": 1770082999,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 207493,
       "num": 107769,
       "word": "说好不熬 萨摩耶狗主人",
@@ -139,11 +243,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 204806,
+      "num": 179587,
+      "word": "五福的第一笔钱到账了",
+      "onboard_time": 1770084020,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 198757,
       "num": 198757,
       "word": "高三女生睡眠不足5小时吹风致面瘫",
       "onboard_time": 1770045622,
       "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 188933,
+      "num": 188933,
+      "word": "男子90万买彩票未中奖起诉彩票中心",
+      "onboard_time": 1770085040,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -169,6 +289,38 @@
       "onboard_time": 1770032722,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 173064,
+      "num": 173064,
+      "word": "灵隐寺被38万鸽王上了一课",
+      "onboard_time": 1770075020,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 171231,
+      "num": 171231,
+      "word": "宋亚轩刘耀文一起滑雪",
+      "onboard_time": 1770080839,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 166652,
+      "num": 166652,
+      "word": "支付宝集五福",
+      "onboard_time": 1770074899,
+      "rank": 39,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 161973,
+      "num": 161973,
+      "word": "精神病医院惩罚病人最久绑3天3夜",
+      "onboard_time": 1770082880,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 155105,
@@ -203,12 +355,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 143401,
-      "num": 143401,
-      "word": "灵隐寺被38万鸽王上了一课",
-      "onboard_time": 1770075020,
+      "raw_hot": 142695,
+      "num": 142695,
+      "word": "生命树官配",
+      "onboard_time": 1770083539,
       "rank": 24,
-      "category": "民生新闻"
+      "category": "剧集"
     },
     {
       "raw_hot": 136420,
@@ -219,6 +371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 132306,
+      "num": 132306,
+      "word": "爱泼斯坦案文件含数十张裸照",
+      "onboard_time": 1770040944,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 131108,
       "num": 75487,
       "word": "特朗普怒骂格莱美主持人",
@@ -227,12 +387,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 129526,
-      "num": 104710,
-      "word": "爱泼斯坦案文件含数十张裸照",
-      "onboard_time": 1770040944,
-      "rank": 22,
-      "category": "国际时政"
+      "raw_hot": 127694,
+      "num": 127694,
+      "word": "尚公主今朝暂别",
+      "onboard_time": 1770082759,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 125407,
@@ -240,6 +400,14 @@
       "word": "胡歌演技",
       "onboard_time": 1770048441,
       "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 123121,
+      "num": 123121,
+      "word": "孟子义尚公主杀青照",
+      "onboard_time": 1770085460,
+      "rank": 28,
       "category": "剧集"
     },
     {
@@ -265,6 +433,14 @@
       "onboard_time": 1770046942,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112235,
+      "num": 112235,
+      "word": "生命树第10集广东人坐主桌",
+      "onboard_time": 1770085999,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 109943,
@@ -299,6 +475,30 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 104591,
+      "num": 104591,
+      "word": "金饰价一夜暴涨58元",
+      "onboard_time": 1770083301,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 98233,
+      "num": 98233,
+      "word": "女孩被好想来怀疑偷东西哭了4小时",
+      "onboard_time": 1770086359,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 97937,
+      "num": 97937,
+      "word": "北京地铁9号线",
+      "onboard_time": 1770084201,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96988,
       "num": 96988,
       "word": "捧红王菲那英SHE的小胖走了",
@@ -307,12 +507,44 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 91448,
+      "num": 91448,
+      "word": "C罗阻挠本泽马转会",
+      "onboard_time": 1770084740,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 89292,
+      "num": 89292,
+      "word": "员工转走220万存款银行不愿赔偿",
+      "onboard_time": 1770085939,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 88034,
+      "num": 88034,
+      "word": "穆祉丞专场 郑州",
+      "onboard_time": 1770084860,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 87638,
       "num": 87638,
       "word": "女方婚礼现场退还99999元彩礼",
       "onboard_time": 1770040404,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86487,
+      "num": 86487,
+      "word": "萨满停播15天",
+      "onboard_time": 1770082159,
+      "rank": 38,
+      "category": "网红"
     },
     {
       "raw_hot": 86070,
@@ -337,6 +569,14 @@
       "onboard_time": 1770049639,
       "rank": 29,
       "category": "网红"
+    },
+    {
+      "raw_hot": 79780,
+      "num": 79780,
+      "word": "美甲过年服务费",
+      "onboard_time": 1770079702,
+      "rank": 40,
+      "category": "美妆"
     },
     {
       "raw_hot": 79561,
@@ -379,12 +619,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 75594,
-      "num": 75594,
-      "word": "支付宝集五福",
-      "onboard_time": 1770074899,
-      "rank": 39,
-      "category": "互联网"
+      "raw_hot": 76111,
+      "num": 76111,
+      "word": "小狗被带到公司上班超兴奋",
+      "onboard_time": 1770078440,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 72860,
@@ -393,6 +633,14 @@
       "onboard_time": 1770039742,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 70987,
+      "num": 70987,
+      "word": "全球资产爆发反攻",
+      "onboard_time": 1770085879,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 69239,
@@ -411,11 +659,27 @@
       "category": "财经"
     },
     {
+      "raw_hot": 66018,
+      "num": 66018,
+      "word": "炽热吸引",
+      "onboard_time": 1770085698,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 65973,
       "num": 65973,
       "word": "萨摩耶被男孩烧死主人称不接受私了",
       "onboard_time": 1770075558,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 64509,
+      "num": 64509,
+      "word": "手机店遭鹿闯入老板误认是恶犬",
+      "onboard_time": 1770084560,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -433,6 +697,14 @@
       "onboard_time": 1770031162,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 62231,
+      "num": 62231,
+      "word": "不爱喝水的小猫有救了",
+      "onboard_time": 1770086061,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 61916,
@@ -457,6 +729,22 @@
       "onboard_time": 1770009322,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 58115,
+      "num": 58115,
+      "word": "原来春饼里有这么多养生门道",
+      "onboard_time": 1770085639,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 57606,
+      "num": 57606,
+      "word": "詹姆斯或将在今夏离开湖人",
+      "onboard_time": 1770084979,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 57233,
@@ -619,8 +907,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 37547,
+      "num": 66093,
+      "word": "中资港口保卫战我们绝不退缩",
+      "onboard_time": 1770085340,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 32960,
-      "num": 567613,
+      "num": 611647,
       "word": "春运第1天流动量预计超1.8亿人次",
       "onboard_time": 1770036802,
       "rank": 2,
