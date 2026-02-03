@@ -1,6 +1,6 @@
 {
   "startTime": 1770051170355,
-  "endTime": 1770131469273,
+  "endTime": 1770134278050,
   "band_list": [
     {
       "raw_hot": 1714835,
@@ -491,6 +491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 400776,
+      "num": 400776,
+      "word": "恋与深空 偷跑",
+      "onboard_time": 1770132021,
+      "rank": 3,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 390430,
       "num": 814042,
       "word": "员工转走220万存款银行不愿赔偿",
@@ -649,6 +657,22 @@
       "onboard_time": 1770104600,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 320852,
+      "num": 320852,
+      "word": "央行8000亿元买断式逆回购",
+      "onboard_time": 1770129862,
+      "rank": 38,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 319598,
+      "num": 145661,
+      "word": "赵雨凡 刷帖子",
+      "onboard_time": 1770130703,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 316894,
@@ -955,6 +979,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 208841,
+      "num": 208841,
+      "word": "生命树口碑发酵",
+      "onboard_time": 1770131662,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 207493,
       "num": 107769,
       "word": "说好不熬 萨摩耶狗主人",
@@ -1025,14 +1057,6 @@
       "onboard_time": 1770074899,
       "rank": 39,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 188805,
-      "num": 145661,
-      "word": "赵雨凡 刷帖子",
-      "onboard_time": 1770130703,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 186661,
@@ -1147,12 +1171,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 157845,
-      "num": 157845,
-      "word": "央行8000亿元买断式逆回购",
-      "onboard_time": 1770129862,
-      "rank": 38,
-      "category": "财经"
+      "raw_hot": 160377,
+      "num": 142318,
+      "word": "97岁富商欲再婚次子求判其心智不全",
+      "onboard_time": 1770132621,
+      "rank": 16,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 157840,
@@ -1403,6 +1427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 124161,
+      "num": 124161,
+      "word": "连跌3日的金银暴力反弹",
+      "onboard_time": 1770132203,
+      "rank": 19,
+      "category": "财经"
+    },
+    {
       "raw_hot": 123673,
       "num": 123673,
       "word": "恋综男嘉宾吃女嘉宾剩饭",
@@ -1561,6 +1593,14 @@
       "onboard_time": 1770114380,
       "rank": 36,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 118241,
+      "num": 118241,
+      "word": "女子忘关车窗流浪猫在车内产一窝崽",
+      "onboard_time": 1770132441,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 117975,
@@ -2107,6 +2147,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 92998,
+      "num": 92998,
+      "word": "国投白银LOF手动抹去跌停板引质疑",
+      "onboard_time": 1770134182,
+      "rank": 32,
+      "category": "财经"
+    },
+    {
       "raw_hot": 92955,
       "num": 92955,
       "word": "生命树第9集乱成一锅粥",
@@ -2145,6 +2193,14 @@
       "onboard_time": 1770109102,
       "rank": 48,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 90987,
+      "num": 90987,
+      "word": "胡歌太会演了",
+      "onboard_time": 1770133041,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 89772,
@@ -2595,6 +2651,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 69502,
+      "num": 69502,
+      "word": "尚公主",
+      "onboard_time": 1770132980,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 69239,
       "num": 68278,
       "word": "汪铎穆祉丞 TFBOYS我师兄",
@@ -2697,6 +2761,14 @@
       "onboard_time": 1770073636,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 61122,
+      "num": 66879,
+      "word": "道琼斯",
+      "onboard_time": 1770133041,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 61094,
@@ -3195,6 +3267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 15346,
+      "num": 84091,
+      "word": "门店否认阿嬷手作螺蛳粉续粉收钱",
+      "onboard_time": 1770133220,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14253,
       "num": 158204,
       "word": "动态数据图看中国电力有多强",
@@ -3216,6 +3296,22 @@
       "word": "严查严惩食品非法添加",
       "onboard_time": 1770125782,
       "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 8636,
+      "num": 84115,
+      "word": "日本公开采集稀土泥全过程",
+      "onboard_time": 1770134240,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 8535,
+      "num": 94259,
+      "word": "吃娃娃菜中毒夫妻最高判刑十年以上",
+      "onboard_time": 1770134182,
+      "rank": 31,
       "category": "民生新闻"
     }
   ],
