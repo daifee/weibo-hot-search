@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1770148808978,
+  "endTime": 1770151628149,
   "band_list": [
     {
       "raw_hot": 4038416,
@@ -8953,6 +8953,14 @@
       "onboard_time": 1770125782,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11800,
+      "num": 14565,
+      "word": "黄子弘凡除了快乐禁止入内",
+      "onboard_time": 1770151273,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 11700,
