@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1770113221497,
+  "endTime": 1770115967847,
   "band_list": [
     {
       "raw_hot": 4038416,
@@ -99,6 +99,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1319071,
+      "num": 234420,
+      "word": "爱泼斯坦案中一女孩穿水手服跪地",
+      "onboard_time": 1770111440,
+      "rank": 10,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1292335,
       "num": 1292335,
       "word": "茉莉奶白战报",
@@ -121,6 +129,14 @@
       "onboard_time": 1770091581,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1199514,
+      "num": 152967,
+      "word": "胡先煦睡觉吓到空姐",
+      "onboard_time": 1770112400,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 1187949,
@@ -265,14 +281,6 @@
       "onboard_time": 1770081320,
       "rank": 5,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 900457,
-      "num": 234420,
-      "word": "爱泼斯坦案中一女孩穿水手服跪地",
-      "onboard_time": 1770111440,
-      "rank": 10,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 890270,
@@ -643,6 +651,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 592828,
+      "num": 435858,
+      "word": "大连交通事故已致5死",
+      "onboard_time": 1770111680,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 587503,
       "num": 1074832,
       "word": "名侦探柯南声明",
@@ -657,6 +673,14 @@
       "onboard_time": 1769953943,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 581497,
+      "num": 1093039,
+      "word": "李微微受贿超1.17亿",
+      "onboard_time": 1770113479,
+      "rank": 0,
+      "category": "国内时政"
     },
     {
       "raw_hot": 580257,
@@ -1059,14 +1083,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 435858,
-      "num": 435858,
-      "word": "大连交通事故已致5死",
-      "onboard_time": 1770111680,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 433005,
       "num": 342793,
       "word": "萨摩耶被两娃烧死主人回应质疑",
@@ -1097,14 +1113,6 @@
       "onboard_time": 1770043644,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 425469,
-      "num": 152967,
-      "word": "胡先煦睡觉吓到空姐",
-      "onboard_time": 1770112400,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 425343,
@@ -2347,6 +2355,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 218561,
+      "num": 146928,
+      "word": "烧死萨摩耶男童被吓到已后悔",
+      "onboard_time": 1770114743,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 217958,
       "num": 217958,
       "word": "花楼 小白熊",
@@ -2931,12 +2947,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 160427,
+      "num": 160427,
+      "word": "湖南多所高校收到大量0.01元捐款",
+      "onboard_time": 1770113780,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 159776,
       "num": 159776,
       "word": "小猫喝玉米水",
       "onboard_time": 1769931741,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 159232,
+      "num": 144061,
+      "word": "韩网要求金宣虎下车新剧",
+      "onboard_time": 1770114862,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 158563,
@@ -3275,6 +3307,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 140279,
+      "num": 140279,
+      "word": "空姐月工资收入",
+      "onboard_time": 1770115220,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 140214,
       "num": 140214,
       "word": "黄子韬戚薇 一个比一个敢说",
@@ -3337,6 +3377,14 @@
       "onboard_time": 1770110600,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 137224,
+      "num": 137224,
+      "word": "什么春晚让两届歌王同台了",
+      "onboard_time": 1770113900,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 136957,
@@ -4017,6 +4065,14 @@
       "onboard_time": 1770046942,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118507,
+      "num": 118507,
+      "word": "十五五首个中央一号文件来了",
+      "onboard_time": 1770114380,
+      "rank": 36,
+      "category": "国内时政"
     },
     {
       "raw_hot": 118475,
@@ -4763,6 +4819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 103945,
+      "num": 103945,
+      "word": "莲花跑车",
+      "onboard_time": 1770114200,
+      "rank": 38,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 103731,
       "num": 103731,
       "word": "小鹏机器人假人疑云后再翻车",
@@ -5017,6 +5081,14 @@
       "onboard_time": 1770101300,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 98385,
+      "num": 98385,
+      "word": "黄子弘凡鸟巢演唱会",
+      "onboard_time": 1770115338,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 98240,
@@ -5383,6 +5455,14 @@
       "num": 91910,
       "word": "ally和周也同框",
       "onboard_time": 1770020542,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 91743,
+      "num": 91743,
+      "word": "澳洲偶遇张柏芝和儿子逛宜家",
+      "onboard_time": 1770115700,
       "rank": 44,
       "category": "艺人"
     },
@@ -5787,6 +5867,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 85245,
+      "num": 85245,
+      "word": "车辆撞上灯杆解体60岁女驾驶员身亡",
+      "onboard_time": 1770113780,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85199,
       "num": 85199,
       "word": "王楚钦抵达海南",
@@ -6001,6 +6089,14 @@
       "onboard_time": 1769933899,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 80607,
+      "num": 80607,
+      "word": "白银有色再度公告",
+      "onboard_time": 1770113301,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 80573,
@@ -7363,6 +7459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 32799,
+      "num": 141695,
+      "word": "村干部称娃娃菜中毒夫妻均联系不上",
+      "onboard_time": 1770115761,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32669,
       "num": 32669,
       "word": "希区考克直拍",
@@ -7479,6 +7583,14 @@
       "num": 152462,
       "word": "格陵兰岛居民在买枪",
       "onboard_time": 1769999179,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 28427,
+      "num": 149269,
+      "word": "印度要建稀土走廊",
+      "onboard_time": 1770115100,
       "rank": 19,
       "category": "海外新闻"
     },

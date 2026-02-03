@@ -1,0 +1,410 @@
+{
+  "runTime": 1770115967847,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 581497,
+        "num": 1093039,
+        "word": "李微微受贿超1.17亿",
+        "onboard_time": 1770113479,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 408772,
+        "num": 807792,
+        "word": "阿嬷手作螺蛳粉一碗55元起",
+        "onboard_time": 1770107481,
+        "rank": 1,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 18552,
+        "num": 632263,
+        "word": "2026春运安全出行指南",
+        "onboard_time": 1770105862,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 541007,
+        "num": 541007,
+        "word": "女子连续十年买黄金说政治课教过",
+        "onboard_time": 1770110420,
+        "rank": 3,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 282618,
+        "num": 282618,
+        "word": "樊振东王楚钦获得伦敦世乒赛资格",
+        "onboard_time": 1770109038,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 198166,
+        "num": 198166,
+        "word": "灵隐寺对38万爽约者出手了",
+        "onboard_time": 1770099801,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185452,
+        "num": 185452,
+        "word": "12306回应用前任身份证订票再取消",
+        "onboard_time": 1770108681,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184976,
+        "num": 184976,
+        "word": "中方回应日本挖到含稀土淤泥",
+        "onboard_time": 1770102981,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 166781,
+        "num": 166781,
+        "word": "王楚然工作室AI剧宣",
+        "onboard_time": 1770106460,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163886,
+        "num": 163886,
+        "word": "骄阳似我",
+        "onboard_time": 1770103100,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1319071,
+        "num": 163757,
+        "word": "爱泼斯坦案中一女孩穿水手服跪地",
+        "onboard_time": 1770111440,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 592828,
+        "num": 163628,
+        "word": "大连交通事故已致5死",
+        "onboard_time": 1770111680,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193714,
+        "num": 163177,
+        "word": "医院直播被指暴露女患者隐私部位",
+        "onboard_time": 1770091581,
+        "rank": 12,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 230860,
+        "num": 163114,
+        "word": "爱泼斯坦",
+        "onboard_time": 1770085999,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 32427,
+        "num": 162747,
+        "word": "抢头福什么时候变成世界课题了",
+        "onboard_time": 1770112880,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 162648,
+        "num": 162648,
+        "word": "警方辟谣夫妻网购娃娃菜中毒系丈夫下毒",
+        "onboard_time": 1770108081,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183308,
+        "num": 162632,
+        "word": "爱泼斯坦被曝15年前秘密生子",
+        "onboard_time": 1770105622,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 160427,
+        "num": 160427,
+        "word": "湖南多所高校收到大量0.01元捐款",
+        "onboard_time": 1770113780,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149367,
+        "num": 149367,
+        "word": "设计一半才想起来是马年",
+        "onboard_time": 1770106580,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 28427,
+        "num": 149269,
+        "word": "印度要建稀土走廊",
+        "onboard_time": 1770115100,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1199514,
+        "num": 149106,
+        "word": "胡先煦睡觉吓到空姐",
+        "onboard_time": 1770112400,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 942632,
+        "num": 148916,
+        "word": "萝莉岛 恶魔岛",
+        "onboard_time": 1770102981,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 458966,
+        "num": 148755,
+        "word": "郑恺的情商",
+        "onboard_time": 1770110060,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258879,
+        "num": 148547,
+        "word": "金宣虎或被判刑",
+        "onboard_time": 1770089841,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148393,
+        "num": 148393,
+        "word": "白银暴涨10%",
+        "onboard_time": 1770106761,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 222539,
+        "num": 147771,
+        "word": "LWX 结婚",
+        "onboard_time": 1770105020,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 218561,
+        "num": 146928,
+        "word": "烧死萨摩耶男童被吓到已后悔",
+        "onboard_time": 1770114743,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 299815,
+        "num": 144909,
+        "word": "郑恺回应鹿晗粉丝",
+        "onboard_time": 1770101180,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159232,
+        "num": 144061,
+        "word": "韩网要求金宣虎下车新剧",
+        "onboard_time": 1770114862,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32799,
+        "num": 141695,
+        "word": "村干部称娃娃菜中毒夫妻均联系不上",
+        "onboard_time": 1770115761,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154532,
+        "num": 141024,
+        "word": "薛之谦祭拜赵英俊",
+        "onboard_time": 1770107541,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140279,
+        "num": 140279,
+        "word": "空姐月工资收入",
+        "onboard_time": 1770115220,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137430,
+        "num": 137430,
+        "word": "没有年味的原因找到了",
+        "onboard_time": 1770101839,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 137224,
+        "num": 137224,
+        "word": "什么春晚让两届歌王同台了",
+        "onboard_time": 1770113900,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129131,
+        "num": 129131,
+        "word": "肖战白鹿热巴商业价值TOP3",
+        "onboard_time": 1770105440,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118895,
+        "num": 118895,
+        "word": "老人筷子蘸酒喂5月龄宝宝致肝损伤",
+        "onboard_time": 1770104600,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118507,
+        "num": 118507,
+        "word": "十五五首个中央一号文件来了",
+        "onboard_time": 1770114380,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 117419,
+        "num": 117419,
+        "word": "萨摩耶主人要求孩子家长道歉",
+        "onboard_time": 1770110600,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103945,
+        "num": 103945,
+        "word": "莲花跑车",
+        "onboard_time": 1770114200,
+        "rank": 38,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 103461,
+        "num": 103461,
+        "word": "杨紫感谢马思纯",
+        "onboard_time": 1770106100,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102619,
+        "num": 102619,
+        "word": "第五人格",
+        "onboard_time": 1770114499,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 101216,
+        "num": 101216,
+        "word": "李微漪证实狼王格林已自然老去",
+        "onboard_time": 1770110660,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98385,
+        "num": 98385,
+        "word": "黄子弘凡鸟巢演唱会",
+        "onboard_time": 1770115338,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 95251,
+        "num": 95251,
+        "word": "NBA交易",
+        "onboard_time": 1770105261,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91743,
+        "num": 91743,
+        "word": "澳洲偶遇张柏芝和儿子逛宜家",
+        "onboard_time": 1770115700,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90708,
+        "num": 90708,
+        "word": "快递停运焦虑症",
+        "onboard_time": 1770109521,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 87579,
+        "num": 87579,
+        "word": "自带防癌属性的常见食物",
+        "onboard_time": 1770110779,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 85245,
+        "num": 85245,
+        "word": "车辆撞上灯杆解体60岁女驾驶员身亡",
+        "onboard_time": 1770113780,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81567,
+        "num": 81567,
+        "word": "萝莉岛",
+        "onboard_time": 1770087560,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 80607,
+        "num": 80607,
+        "word": "白银有色再度公告",
+        "onboard_time": 1770113301,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同奥尔西会谈#"
+    }
+  }
+}
