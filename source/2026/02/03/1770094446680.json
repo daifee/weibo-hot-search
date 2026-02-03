@@ -1,0 +1,410 @@
+{
+  "runTime": 1770094446680,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 807538,
+        "num": 1129206,
+        "word": "江苏盐城大桥塌落致5人死亡",
+        "onboard_time": 1770091221,
+        "rank": 0,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 390430,
+        "num": 814042,
+        "word": "员工转走220万存款银行不愿赔偿",
+        "onboard_time": 1770085939,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27727,
+        "num": 628011,
+        "word": "2026年新春走基层",
+        "onboard_time": 1770093801,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 411757,
+        "num": 411757,
+        "word": "杨紫失焦眼神戏",
+        "onboard_time": 1770090561,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 337730,
+        "num": 337730,
+        "word": "25岁小伙身高仅60多厘米",
+        "onboard_time": 1770089540,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 344384,
+        "num": 337064,
+        "word": "孟子义尚公主杀青文",
+        "onboard_time": 1770089421,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 330380,
+        "num": 330380,
+        "word": "新版熔炉事件让韩国社会炸锅",
+        "onboard_time": 1770092960,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 326759,
+        "num": 326759,
+        "word": "男子强奸出狱后又杀人被判死刑",
+        "onboard_time": 1770089540,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 321523,
+        "num": 321523,
+        "word": "全网最惨星星人",
+        "onboard_time": 1770090920,
+        "rank": 8,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 270311,
+        "num": 270311,
+        "word": "男子90万买彩票未中奖起诉彩票中心",
+        "onboard_time": 1770085040,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1340322,
+        "num": 269689,
+        "word": "金宣虎或被判刑",
+        "onboard_time": 1770089841,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1229303,
+        "num": 267481,
+        "word": "医院直播被指暴露女患者隐私部位",
+        "onboard_time": 1770091581,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 566207,
+        "num": 263641,
+        "word": "马斯克女儿爆料",
+        "onboard_time": 1770073636,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 405981,
+        "num": 262365,
+        "word": "王一博素颜界最严厉的父亲",
+        "onboard_time": 1770090561,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 364075,
+        "num": 259256,
+        "word": "挪威王储妃与爱泼斯坦暧昧邮件曝光",
+        "onboard_time": 1770081320,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 455962,
+        "num": 258104,
+        "word": "爱泼斯坦",
+        "onboard_time": 1770085999,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 255723,
+        "num": 255723,
+        "word": "记者卧底精神病医院许多病人无异常",
+        "onboard_time": 1770080901,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206378,
+        "num": 206378,
+        "word": "寒武纪",
+        "onboard_time": 1770087320,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 305468,
+        "num": 206128,
+        "word": "俄媒曝光爱泼斯坦诡异视频",
+        "onboard_time": 1770084439,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 102417,
+        "num": 204500,
+        "word": "祝绪丹穆祉丞兔塑姐弟",
+        "onboard_time": 1770093381,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 551276,
+        "num": 204429,
+        "word": "金饰价格涨到1542元",
+        "onboard_time": 1770084619,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 203817,
+        "num": 203817,
+        "word": "光遇",
+        "onboard_time": 1770092422,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 11072,
+        "num": 196594,
+        "word": "骗保精神病医院此前曾为建设工程公司",
+        "onboard_time": 1770094222,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 319600,
+        "num": 196478,
+        "word": "萝莉岛",
+        "onboard_time": 1770087560,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 196234,
+        "num": 196234,
+        "word": "惠英红黄渤杨幂王一博开屏",
+        "onboard_time": 1770092601,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 186661,
+        "num": 186661,
+        "word": "国投白银LOF再次跌停",
+        "onboard_time": 1770088100,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 173049,
+        "num": 173049,
+        "word": "每个遇到白鹿的人都会痛失艺名",
+        "onboard_time": 1770092781,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160075,
+        "num": 160075,
+        "word": "克林顿夫妇将配合爱泼斯坦案调查",
+        "onboard_time": 1770081140,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 151401,
+        "num": 151401,
+        "word": "支付宝集五福",
+        "onboard_time": 1770074899,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 145613,
+        "num": 145613,
+        "word": "王楚然妖妃演累了吃口火锅",
+        "onboard_time": 1770087800,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 224997,
+        "num": 142552,
+        "word": "准备随母姓后外婆起名起爽了",
+        "onboard_time": 1770092901,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138245,
+        "num": 138245,
+        "word": "芝麻凑分",
+        "onboard_time": 1770050478,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 133041,
+        "num": 133041,
+        "word": "黄婷婷首部悬疑女主戏",
+        "onboard_time": 1770093922,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127064,
+        "num": 127064,
+        "word": "肖战姚晨舒淇沈腾开屏",
+        "onboard_time": 1770089119,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 125718,
+        "num": 125718,
+        "word": "妻子吵架致胎停离婚后被索6成彩礼",
+        "onboard_time": 1770092541,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125964,
+        "num": 125036,
+        "word": "那英曾说要在袁惟仁病床前唱梦醒了",
+        "onboard_time": 1770089782,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105727,
+        "num": 123265,
+        "word": "患儿4.5万善款4.4万被中间人抽走",
+        "onboard_time": 1770093022,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123252,
+        "num": 123252,
+        "word": "杨幂刘诗诗怼脸眼神",
+        "onboard_time": 1770091881,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 115460,
+        "num": 115460,
+        "word": "天津盘发",
+        "onboard_time": 1770094042,
+        "rank": 38,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 75830,
+        "num": 110196,
+        "word": "2026网络视听盛典阵容官宣",
+        "onboard_time": 1770094342,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109198,
+        "num": 109198,
+        "word": "过年回不了家的正确打开方式",
+        "onboard_time": 1770094342,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 105335,
+        "num": 105335,
+        "word": "第五人格 虚妄",
+        "onboard_time": 1770092960,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 104848,
+        "num": 104848,
+        "word": "德国难民抱18岁陌生女孩跳轨",
+        "onboard_time": 1770081080,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 102595,
+        "num": 102595,
+        "word": "张极 我打开了自己的门",
+        "onboard_time": 1770089060,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99989,
+        "num": 99989,
+        "word": "韩媒再曝金宣虎逃税",
+        "onboard_time": 1770092482,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97971,
+        "num": 97971,
+        "word": "砂糖橘馒头",
+        "onboard_time": 1770093682,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 99239,
+        "num": 97531,
+        "word": "生命树官配",
+        "onboard_time": 1770083539,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96818,
+        "num": 96818,
+        "word": "李昀锐尚公主杀青照",
+        "onboard_time": 1770088879,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93480,
+        "num": 93480,
+        "word": "C罗可能重返欧洲或前往美职联",
+        "onboard_time": 1770093321,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94808,
+        "num": 93423,
+        "word": "第一次见短剧有韩剧财阀那味儿",
+        "onboard_time": 1770089481,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记谈金融强国#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1770088814148,
+  "endTime": 1770094446680,
   "band_list": [
     {
       "raw_hot": 4038416,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1535986,
-      "num": 186745,
+      "num": 263641,
       "word": "马斯克女儿爆料",
       "onboard_time": 1770073636,
       "rank": 10,
@@ -83,12 +83,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1340322,
+      "num": 269689,
+      "word": "金宣虎或被判刑",
+      "onboard_time": 1770089841,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1292335,
       "num": 1292335,
       "word": "茉莉奶白战报",
       "onboard_time": 1770037342,
       "rank": 9,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1229303,
+      "num": 267481,
+      "word": "医院直播被指暴露女患者隐私部位",
+      "onboard_time": 1770091581,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1187949,
@@ -297,6 +313,14 @@
       "onboard_time": 1770022820,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 807538,
+      "num": 1129206,
+      "word": "江苏盐城大桥塌落致5人死亡",
+      "onboard_time": 1770091221,
+      "rank": 0,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 781504,
@@ -548,7 +572,7 @@
     },
     {
       "raw_hot": 573810,
-      "num": 188730,
+      "num": 206378,
       "word": "寒武纪",
       "onboard_time": 1770087320,
       "rank": 11,
@@ -716,7 +740,7 @@
     },
     {
       "raw_hot": 498183,
-      "num": 187876,
+      "num": 206128,
       "word": "俄媒曝光爱泼斯坦诡异视频",
       "onboard_time": 1770084439,
       "rank": 13,
@@ -971,6 +995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 411757,
+      "num": 411757,
+      "word": "杨紫失焦眼神戏",
+      "onboard_time": 1770090561,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 411362,
       "num": 333288,
       "word": "网传迪丽热巴张小斐女足上春节档",
@@ -985,6 +1017,14 @@
       "onboard_time": 1769929762,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 405981,
+      "num": 262365,
+      "word": "王一博素颜界最严厉的父亲",
+      "onboard_time": 1770090561,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 402487,
@@ -1017,6 +1057,14 @@
       "onboard_time": 1769926221,
       "rank": 4,
       "category": "财经"
+    },
+    {
+      "raw_hot": 390430,
+      "num": 814042,
+      "word": "员工转走220万存款银行不愿赔偿",
+      "onboard_time": 1770085939,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 389989,
@@ -1163,6 +1211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 344384,
+      "num": 337064,
+      "word": "孟子义尚公主杀青文",
+      "onboard_time": 1770089421,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 342506,
       "num": 342506,
       "word": "领导疯狂劝酒员工喝完口吐鲜血",
@@ -1185,6 +1241,14 @@
       "onboard_time": 1769994921,
       "rank": 4,
       "category": "演出"
+    },
+    {
+      "raw_hot": 337730,
+      "num": 337730,
+      "word": "25岁小伙身高仅60多厘米",
+      "onboard_time": 1770089540,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 335869,
@@ -1235,6 +1299,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 330380,
+      "num": 330380,
+      "word": "新版熔炉事件让韩国社会炸锅",
+      "onboard_time": 1770092960,
+      "rank": 6,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 330142,
       "num": 246470,
       "word": "于文文看视频已经很不舒服了",
@@ -1257,6 +1329,14 @@
       "onboard_time": 1770008421,
       "rank": 41,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 326759,
+      "num": 326759,
+      "word": "男子强奸出狱后又杀人被判死刑",
+      "onboard_time": 1770089540,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 325831,
@@ -1289,6 +1369,14 @@
       "onboard_time": 1770001640,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 321523,
+      "num": 321523,
+      "word": "全网最惨星星人",
+      "onboard_time": 1770090920,
+      "rank": 8,
+      "category": "休闲"
     },
     {
       "raw_hot": 321064,
@@ -1577,14 +1665,6 @@
       "onboard_time": 1770081080,
       "rank": 6,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 265035,
-      "num": 265035,
-      "word": "员工转走220万存款银行不愿赔偿",
-      "onboard_time": 1770085939,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 261274,
@@ -1891,6 +1971,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 224997,
+      "num": 142552,
+      "word": "准备随母姓后外婆起名起爽了",
+      "onboard_time": 1770092901,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 224453,
       "num": 205635,
       "word": "汪东城也嗑王玉雯陈星旭",
@@ -2019,6 +2107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 203817,
+      "num": 203817,
+      "word": "光遇",
+      "onboard_time": 1770092422,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 203645,
       "num": 203645,
       "word": "黄圣依也逃不过让孩子穿红色",
@@ -2073,6 +2169,14 @@
       "onboard_time": 1770083539,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 196234,
+      "num": 196234,
+      "word": "惠英红黄渤杨幂王一博开屏",
+      "onboard_time": 1770092601,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 196227,
@@ -2177,6 +2281,14 @@
       "onboard_time": 1769876179,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 186661,
+      "num": 186661,
+      "word": "国投白银LOF再次跌停",
+      "onboard_time": 1770088100,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 186375,
@@ -2313,6 +2425,14 @@
       "onboard_time": 1770075020,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 173049,
+      "num": 173049,
+      "word": "每个遇到白鹿的人都会痛失艺名",
+      "onboard_time": 1770092781,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 173045,
@@ -2947,6 +3067,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 133041,
+      "num": 133041,
+      "word": "黄婷婷首部悬疑女主戏",
+      "onboard_time": 1770093922,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 132806,
       "num": 182211,
       "word": "黄金白银创单日暴跌纪录",
@@ -3107,6 +3235,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 127064,
+      "num": 127064,
+      "word": "肖战姚晨舒淇沈腾开屏",
+      "onboard_time": 1770089119,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 127053,
       "num": 127053,
       "word": "喜美",
@@ -3147,6 +3283,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 125964,
+      "num": 125036,
+      "word": "那英曾说要在袁惟仁病床前唱梦醒了",
+      "onboard_time": 1770089782,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 125748,
       "num": 125748,
       "word": "VOGUE",
@@ -3161,6 +3305,14 @@
       "onboard_time": 1769863522,
       "rank": 19,
       "category": "财经"
+    },
+    {
+      "raw_hot": 125718,
+      "num": 125718,
+      "word": "妻子吵架致胎停离婚后被索6成彩礼",
+      "onboard_time": 1770092541,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 125433,
@@ -3209,6 +3361,14 @@
       "onboard_time": 1769906359,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 123252,
+      "num": 123252,
+      "word": "杨幂刘诗诗怼脸眼神",
+      "onboard_time": 1770091881,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 123243,
@@ -3483,6 +3643,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 115460,
+      "num": 115460,
+      "word": "天津盘发",
+      "onboard_time": 1770094042,
+      "rank": 38,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 115019,
       "num": 115019,
       "word": "伊能静透露两星期瘦了10斤",
@@ -3731,6 +3899,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 109198,
+      "num": 109198,
+      "word": "过年回不了家的正确打开方式",
+      "onboard_time": 1770094342,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 109076,
       "num": 109076,
       "word": "原来能让王一博回归内娱的是央妈",
@@ -3867,6 +4043,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 105727,
+      "num": 123265,
+      "word": "患儿4.5万善款4.4万被中间人抽走",
+      "onboard_time": 1770093022,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105564,
       "num": 105564,
       "word": "全球抛售潮涌现",
@@ -3889,6 +4073,14 @@
       "onboard_time": 1769994140,
       "rank": 33,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 105335,
+      "num": 105335,
+      "word": "第五人格 虚妄",
+      "onboard_time": 1770092960,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 105252,
@@ -4011,14 +4203,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 103284,
-      "num": 103284,
-      "word": "国投白银LOF再次跌停",
-      "onboard_time": 1770088100,
-      "rank": 34,
-      "category": "财经"
-    },
-    {
       "raw_hot": 103183,
       "num": 103183,
       "word": "仙逆",
@@ -4035,12 +4219,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 102595,
+      "num": 102595,
+      "word": "张极 我打开了自己的门",
+      "onboard_time": 1770089060,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 102428,
       "num": 102428,
       "word": "高干文最严厉的父亲母亲来了",
       "onboard_time": 1769915420,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 102417,
+      "num": 204500,
+      "word": "祝绪丹穆祉丞兔塑姐弟",
+      "onboard_time": 1770093381,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 101709,
@@ -4123,6 +4323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99989,
+      "num": 99989,
+      "word": "韩媒再曝金宣虎逃税",
+      "onboard_time": 1770092482,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 99856,
       "num": 99856,
       "word": "剑网3",
@@ -4179,6 +4387,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 97971,
+      "num": 97971,
+      "word": "砂糖橘馒头",
+      "onboard_time": 1770093682,
+      "rank": 45,
+      "category": "美食"
+    },
+    {
       "raw_hot": 97830,
       "num": 97830,
       "word": "C罗阻挠本泽马转会",
@@ -4233,6 +4449,14 @@
       "onboard_time": 1769922979,
       "rank": 29,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 96818,
+      "num": 96818,
+      "word": "李昀锐尚公主杀青照",
+      "onboard_time": 1770088879,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 96629,
@@ -4297,6 +4521,14 @@
       "onboard_time": 1770020840,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 94808,
+      "num": 93423,
+      "word": "第一次见短剧有韩剧财阀那味儿",
+      "onboard_time": 1770089481,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 94681,
@@ -4385,6 +4617,14 @@
       "onboard_time": 1769936241,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 93480,
+      "num": 93480,
+      "word": "C罗可能重返欧洲或前往美职联",
+      "onboard_time": 1770093321,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 93055,
@@ -5137,6 +5377,14 @@
       "onboard_time": 1769867002,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 75830,
+      "num": 110196,
+      "word": "2026网络视听盛典阵容官宣",
+      "onboard_time": 1770094342,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 75419,
@@ -6235,6 +6483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 27727,
+      "num": 628011,
+      "word": "2026年新春走基层",
+      "onboard_time": 1770093801,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 26654,
       "num": 257901,
       "word": "水贝又有黄金平台现兑付异常",
@@ -6587,6 +6843,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 11072,
+      "num": 196594,
+      "word": "骗保精神病医院此前曾为建设工程公司",
+      "onboard_time": 1770094222,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 10372,
       "num": 116852,
       "word": "女子在园区被罚抱水桶深蹲300个",
@@ -6632,6 +6896,9 @@
     },
     {
       "word": "#曾经一片沙如今变成青绿山水画#"
+    },
+    {
+      "word": "#总书记谈金融强国#"
     }
   ]
 }

@@ -1,14 +1,30 @@
 {
   "startTime": 1770051170355,
-  "endTime": 1770088814148,
+  "endTime": 1770094446680,
   "band_list": [
     {
       "raw_hot": 1535986,
-      "num": 186745,
+      "num": 263641,
       "word": "马斯克女儿爆料",
       "onboard_time": 1770073636,
       "rank": 10,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1340322,
+      "num": 269689,
+      "word": "金宣虎或被判刑",
+      "onboard_time": 1770089841,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1229303,
+      "num": 267481,
+      "word": "医院直播被指暴露女患者隐私部位",
+      "onboard_time": 1770091581,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 900582,
@@ -17,6 +33,14 @@
       "onboard_time": 1770081320,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 807538,
+      "num": 1129206,
+      "word": "江苏盐城大桥塌落致5人死亡",
+      "onboard_time": 1770091221,
+      "rank": 0,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 762332,
@@ -36,7 +60,7 @@
     },
     {
       "raw_hot": 573810,
-      "num": 188730,
+      "num": 206378,
       "word": "寒武纪",
       "onboard_time": 1770087320,
       "rank": 11,
@@ -44,7 +68,7 @@
     },
     {
       "raw_hot": 535495,
-      "num": 187522,
+      "num": 258104,
       "word": "爱泼斯坦",
       "onboard_time": 1770085999,
       "rank": 10,
@@ -76,7 +100,7 @@
     },
     {
       "raw_hot": 498183,
-      "num": 187876,
+      "num": 206128,
       "word": "俄媒曝光爱泼斯坦诡异视频",
       "onboard_time": 1770084439,
       "rank": 13,
@@ -107,11 +131,35 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 411757,
+      "num": 411757,
+      "word": "杨紫失焦眼神戏",
+      "onboard_time": 1770090561,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 409292,
       "num": 160624,
       "word": "萨摩耶被两娃烧死主人回应质疑",
       "onboard_time": 1770036141,
       "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 405981,
+      "num": 262365,
+      "word": "王一博素颜界最严厉的父亲",
+      "onboard_time": 1770090561,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 390430,
+      "num": 814042,
+      "word": "员工转走220万存款银行不愿赔偿",
+      "onboard_time": 1770085939,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -139,12 +187,60 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 344384,
+      "num": 337064,
+      "word": "孟子义尚公主杀青文",
+      "onboard_time": 1770089421,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 337730,
+      "num": 337730,
+      "word": "25岁小伙身高仅60多厘米",
+      "onboard_time": 1770089540,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 330380,
+      "num": 330380,
+      "word": "新版熔炉事件让韩国社会炸锅",
+      "onboard_time": 1770092960,
+      "rank": 6,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 329761,
       "num": 175716,
       "word": "金价银价反弹",
       "onboard_time": 1770080720,
       "rank": 20,
       "category": "财经"
+    },
+    {
+      "raw_hot": 326759,
+      "num": 326759,
+      "word": "男子强奸出狱后又杀人被判死刑",
+      "onboard_time": 1770089540,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 321523,
+      "num": 321523,
+      "word": "全网最惨星星人",
+      "onboard_time": 1770090920,
+      "rank": 8,
+      "category": "休闲"
+    },
+    {
+      "raw_hot": 319600,
+      "num": 196478,
+      "word": "萝莉岛",
+      "onboard_time": 1770087560,
+      "rank": 20,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 307928,
@@ -169,14 +265,6 @@
       "onboard_time": 1770075020,
       "rank": 7,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 283597,
-      "num": 176899,
-      "word": "萝莉岛",
-      "onboard_time": 1770087560,
-      "rank": 20,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 277808,
@@ -219,14 +307,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 265035,
-      "num": 265035,
-      "word": "员工转走220万存款银行不愿赔偿",
-      "onboard_time": 1770085939,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 251115,
       "num": 848902,
       "word": "江苏盐城一座在建桥梁垮塌",
@@ -249,6 +329,14 @@
       "onboard_time": 1770043644,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 224997,
+      "num": 142552,
+      "word": "准备随母姓后外婆起名起爽了",
+      "onboard_time": 1770092901,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 222200,
@@ -283,6 +371,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 203817,
+      "num": 203817,
+      "word": "光遇",
+      "onboard_time": 1770092422,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 198757,
       "num": 198757,
       "word": "高三女生睡眠不足5小时吹风致面瘫",
@@ -299,12 +395,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 196234,
+      "num": 196234,
+      "word": "惠英红黄渤杨幂王一博开屏",
+      "onboard_time": 1770092601,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 190384,
       "num": 190384,
       "word": "支付宝集五福",
       "onboard_time": 1770074899,
       "rank": 39,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 186661,
+      "num": 186661,
+      "word": "国投白银LOF再次跌停",
+      "onboard_time": 1770088100,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 182338,
@@ -337,6 +449,14 @@
       "onboard_time": 1770075020,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 173049,
+      "num": 173049,
+      "word": "每个遇到白鹿的人都会痛失艺名",
+      "onboard_time": 1770092781,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 171750,
@@ -419,6 +539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 133041,
+      "num": 133041,
+      "word": "黄婷婷首部悬疑女主戏",
+      "onboard_time": 1770093922,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 132306,
       "num": 132306,
       "word": "爱泼斯坦案文件含数十张裸照",
@@ -451,12 +579,44 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127064,
+      "num": 127064,
+      "word": "肖战姚晨舒淇沈腾开屏",
+      "onboard_time": 1770089119,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 125964,
+      "num": 125036,
+      "word": "那英曾说要在袁惟仁病床前唱梦醒了",
+      "onboard_time": 1770089782,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 125718,
+      "num": 125718,
+      "word": "妻子吵架致胎停离婚后被索6成彩礼",
+      "onboard_time": 1770092541,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 125407,
       "num": 125407,
       "word": "胡歌演技",
       "onboard_time": 1770048441,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 123252,
+      "num": 123252,
+      "word": "杨幂刘诗诗怼脸眼神",
+      "onboard_time": 1770091881,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 122324,
@@ -491,6 +651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 115460,
+      "num": 115460,
+      "word": "天津盘发",
+      "onboard_time": 1770094042,
+      "rank": 38,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 112235,
       "num": 112235,
       "word": "生命树第10集广东人坐主桌",
@@ -515,12 +683,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 109198,
+      "num": 109198,
+      "word": "过年回不了家的正确打开方式",
+      "onboard_time": 1770094342,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 107908,
       "num": 107908,
       "word": "爱泼斯坦生前采访谈到女性",
       "onboard_time": 1770042383,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 105727,
+      "num": 123265,
+      "word": "患儿4.5万善款4.4万被中间人抽走",
+      "onboard_time": 1770093022,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105335,
+      "num": 105335,
+      "word": "第五人格 虚妄",
+      "onboard_time": 1770092960,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 105127,
@@ -539,12 +731,36 @@
       "category": "财经"
     },
     {
-      "raw_hot": 103284,
-      "num": 103284,
-      "word": "国投白银LOF再次跌停",
-      "onboard_time": 1770088100,
-      "rank": 34,
-      "category": "财经"
+      "raw_hot": 102595,
+      "num": 102595,
+      "word": "张极 我打开了自己的门",
+      "onboard_time": 1770089060,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 102417,
+      "num": 204500,
+      "word": "祝绪丹穆祉丞兔塑姐弟",
+      "onboard_time": 1770093381,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 99989,
+      "num": 99989,
+      "word": "韩媒再曝金宣虎逃税",
+      "onboard_time": 1770092482,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 97971,
+      "num": 97971,
+      "word": "砂糖橘馒头",
+      "onboard_time": 1770093682,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 97830,
@@ -571,6 +787,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 96818,
+      "num": 96818,
+      "word": "李昀锐尚公主杀青照",
+      "onboard_time": 1770088879,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 94808,
+      "num": 93423,
+      "word": "第一次见短剧有韩剧财阀那味儿",
+      "onboard_time": 1770089481,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 94681,
       "num": 94681,
       "word": "寒武纪跳水",
@@ -585,6 +817,14 @@
       "onboard_time": 1770087680,
       "rank": 41,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 93480,
+      "num": 93480,
+      "word": "C罗可能重返欧洲或前往美职联",
+      "onboard_time": 1770093321,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 92273,
@@ -721,6 +961,14 @@
       "onboard_time": 1770078440,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 75830,
+      "num": 110196,
+      "word": "2026网络视听盛典阵容官宣",
+      "onboard_time": 1770094342,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 72860,
@@ -1027,6 +1275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 27727,
+      "num": 628011,
+      "word": "2026年新春走基层",
+      "onboard_time": 1770093801,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 25217,
       "num": 40785,
       "word": "朴智旻机场",
@@ -1065,11 +1321,22 @@
       "onboard_time": 1770037222,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11072,
+      "num": 196594,
+      "word": "骗保精神病医院此前曾为建设工程公司",
+      "onboard_time": 1770094222,
+      "rank": 22,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
     {
       "word": "#曾经一片沙如今变成青绿山水画#"
+    },
+    {
+      "word": "#总书记谈金融强国#"
     }
   ]
 }
