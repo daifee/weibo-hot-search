@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1770138178302,
+  "endTime": 1770139747605,
   "band_list": [
     {
       "raw_hot": 4038416,
@@ -7363,6 +7363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 63573,
+      "num": 63573,
+      "word": "章若楠进组你那儿几点",
+      "onboard_time": 1770137118,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 63480,
       "num": 812438,
       "word": "把春运检修拍成了科幻电影",
@@ -7505,14 +7513,6 @@
       "onboard_time": 1770122241,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 59436,
-      "num": 59436,
-      "word": "章若楠进组你那儿几点",
-      "onboard_time": 1770137118,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 59378,
@@ -8123,6 +8123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 36568,
+      "num": 36568,
+      "word": "夜色正浓",
+      "onboard_time": 1770138677,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 36011,
       "num": 89804,
       "word": "吃鸡基础搭子就不基础",
@@ -8131,11 +8139,27 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 35915,
+      "num": 35915,
+      "word": "陕西中医药大学附属医院致歉通报",
+      "onboard_time": 1770138917,
+      "rank": 33,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 35630,
       "num": 116918,
       "word": "有人速抛1公斤金条变现百万",
       "onboard_time": 1770018261,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35357,
+      "num": 35357,
+      "word": "流量不能凌驾于医疗伦理之上",
+      "onboard_time": 1770138318,
+      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -8393,6 +8417,14 @@
       "onboard_time": 1769955622,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27620,
+      "num": 33308,
+      "word": "不知道苏醒的短剧很劲爆",
+      "onboard_time": 1770139695,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 27235,

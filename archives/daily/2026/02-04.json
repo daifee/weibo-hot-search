@@ -1,6 +1,6 @@
 {
   "startTime": 1770135183011,
-  "endTime": 1770138178302,
+  "endTime": 1770139747605,
   "band_list": [
     {
       "raw_hot": 841160,
@@ -339,6 +339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 63573,
+      "num": 63573,
+      "word": "章若楠进组你那儿几点",
+      "onboard_time": 1770137118,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 62416,
       "num": 95113,
       "word": "美国女子曝幼年被母亲喂食人肉",
@@ -353,14 +361,6 @@
       "onboard_time": 1770127881,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 59436,
-      "num": 59436,
-      "word": "章若楠进组你那儿几点",
-      "onboard_time": 1770137118,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 59245,
@@ -467,6 +467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 36568,
+      "num": 36568,
+      "word": "夜色正浓",
+      "onboard_time": 1770138677,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 36308,
       "num": 36308,
       "word": "一诺和桃黑黑打王者",
@@ -475,12 +483,44 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 35915,
+      "num": 35915,
+      "word": "陕西中医药大学附属医院致歉通报",
+      "onboard_time": 1770138917,
+      "rank": 33,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 35357,
+      "num": 35357,
+      "word": "流量不能凌驾于医疗伦理之上",
+      "onboard_time": 1770138318,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33255,
       "num": 33255,
       "word": "道琼斯",
       "onboard_time": 1770133041,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 28436,
+      "num": 33309,
+      "word": "特朗普称有问题的是比尔盖茨那些人",
+      "onboard_time": 1770124941,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 27620,
+      "num": 33308,
+      "word": "不知道苏醒的短剧很劲爆",
+      "onboard_time": 1770139695,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 23810,
