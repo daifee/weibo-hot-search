@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1770161810998,
+  "endTime": 1770162758475,
   "band_list": [
     {
       "raw_hot": 4038416,
@@ -755,6 +755,14 @@
       "category": "艺人,海外新闻"
     },
     {
+      "raw_hot": 577560,
+      "num": 737199,
+      "word": "立春",
+      "onboard_time": 1770160458,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 576897,
       "num": 1070748,
       "word": "模特控诉爱泼斯坦聚会吃人后消失",
@@ -792,14 +800,6 @@
       "word": "教师与副校长聚餐酒后坠亡",
       "onboard_time": 1770124281,
       "rank": 21,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 568422,
-      "num": 664408,
-      "word": "立春",
-      "onboard_time": 1770160458,
-      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -1859,6 +1859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 315818,
+      "num": 445965,
+      "word": "吃娃娃菜中毒夫妻最高判刑十年以上",
+      "onboard_time": 1770134182,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 314129,
       "num": 220249,
       "word": "whywhywhy没上榜",
@@ -1936,14 +1944,6 @@
       "word": "丈夫被指出轨怒揭妻子婚前多次堕胎",
       "onboard_time": 1770047060,
       "rank": 27,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 306490,
-      "num": 445965,
-      "word": "吃娃娃菜中毒夫妻最高判刑十年以上",
-      "onboard_time": 1770134182,
-      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -2435,6 +2435,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 238735,
+      "num": 83798,
+      "word": "医生提醒不要长期用吸管喝水",
+      "onboard_time": 1770161236,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 238732,
       "num": 176771,
       "word": "翁青雅早期街头丘比特采访",
@@ -2531,6 +2539,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 229543,
+      "num": 229543,
+      "word": "日本公开采集稀土泥全过程",
+      "onboard_time": 1770134240,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 229359,
       "num": 229359,
       "word": "30岁男子上完厕所突然离世",
@@ -2595,6 +2611,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 224539,
+      "num": 224539,
+      "word": "连跌3日的金银暴力反弹",
+      "onboard_time": 1770132203,
+      "rank": 19,
+      "category": "财经"
+    },
+    {
       "raw_hot": 224453,
       "num": 205635,
       "word": "汪东城也嗑王玉雯陈星旭",
@@ -2657,14 +2681,6 @@
       "onboard_time": 1770097280,
       "rank": 27,
       "category": "网红"
-    },
-    {
-      "raw_hot": 221670,
-      "num": 221670,
-      "word": "日本公开采集稀土泥全过程",
-      "onboard_time": 1770134240,
-      "rank": 38,
-      "category": "国际时政"
     },
     {
       "raw_hot": 219808,
@@ -2953,14 +2969,6 @@
       "onboard_time": 1769988137,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 189142,
-      "num": 189142,
-      "word": "连跌3日的金银暴力反弹",
-      "onboard_time": 1770132203,
-      "rank": 19,
-      "category": "财经"
     },
     {
       "raw_hot": 188063,
@@ -3521,6 +3529,14 @@
       "onboard_time": 1769940261,
       "rank": 26,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 148082,
+      "num": 52225,
+      "word": "美国一男子躺在数十只冻僵的鬣蜥下",
+      "onboard_time": 1770161236,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 148063,
@@ -4203,14 +4219,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 123827,
-      "num": 46350,
-      "word": "美国一男子躺在数十只冻僵的鬣蜥下",
-      "onboard_time": 1770161236,
-      "rank": 30,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 123673,
       "num": 123673,
       "word": "恋综男嘉宾吃女嘉宾剩饭",
@@ -4281,14 +4289,6 @@
       "onboard_time": 1770117200,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 122435,
-      "num": 63015,
-      "word": "医生提醒不要长期用吸管喝水",
-      "onboard_time": 1770161236,
-      "rank": 21,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 122360,
@@ -4435,6 +4435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 120298,
+      "num": 107100,
+      "word": "质疑爱泼斯坦被掉包者证实为狱警",
+      "onboard_time": 1770127881,
+      "rank": 45,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 120223,
       "num": 120223,
       "word": "爱泼斯坦文件提及泽连斯基",
@@ -4497,6 +4505,14 @@
       "onboard_time": 1769946561,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 119297,
+      "num": 119297,
+      "word": "买苹果树发现苹果是插上的报警",
+      "onboard_time": 1770161838,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 119224,
@@ -5419,14 +5435,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 102284,
-      "num": 102284,
-      "word": "质疑爱泼斯坦被掉包者证实为狱警",
-      "onboard_time": 1770127881,
-      "rank": 45,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 101759,
       "num": 197155,
       "word": "主人悬赏5千寻狗半月后得知被吃掉",
@@ -5835,6 +5843,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 95061,
+      "num": 95061,
+      "word": "被断言活不过2岁的蝴蝶宝贝将满25岁",
+      "onboard_time": 1770161418,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94967,
       "num": 94967,
       "word": "爱泼斯坦死亡疑云再添关键爆料人",
@@ -6003,6 +6019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 92923,
+      "num": 92923,
+      "word": "恋与深空",
+      "onboard_time": 1770160758,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 92685,
       "num": 92685,
       "word": "黄金行情结束了吗",
@@ -6025,6 +6049,14 @@
       "onboard_time": 1770034582,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92345,
+      "num": 92345,
+      "word": "2025演唱会推荐TOP10",
+      "onboard_time": 1770157935,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 92282,
@@ -6675,6 +6707,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 82905,
+      "num": 82905,
+      "word": "11月宝宝从婴儿车坠落致颅脑重伤",
+      "onboard_time": 1770162078,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 82471,
       "num": 82471,
       "word": "当今年情人节遇上春节",
@@ -6881,14 +6921,6 @@
       "onboard_time": 1770110180,
       "rank": 45,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 79492,
-      "num": 79492,
-      "word": "2025演唱会推荐TOP10",
-      "onboard_time": 1770157935,
-      "rank": 41,
-      "category": "演出"
     },
     {
       "raw_hot": 79375,
@@ -7355,14 +7387,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 65354,
-      "num": 65354,
-      "word": "恋与深空",
-      "onboard_time": 1770160758,
-      "rank": 19,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 65262,
       "num": 98651,
       "word": "麻辣烫挂壁称重 省钱",
@@ -7425,6 +7449,14 @@
       "onboard_time": 1769929701,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 63108,
+      "num": 52056,
+      "word": "华南虎园一豹子腹部现肉眼可见大洞",
+      "onboard_time": 1770162139,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 62820,
@@ -7611,14 +7643,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 56377,
-      "num": 56377,
-      "word": "被断言活不过2岁的蝴蝶宝贝将满25岁",
-      "onboard_time": 1770161418,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 56317,
       "num": 56517,
       "word": "亲爱的客栈",
@@ -7699,6 +7723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 54187,
+      "num": 51702,
+      "word": "这个商场的装饰太吓人了",
+      "onboard_time": 1770162139,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 53386,
       "num": 93194,
       "word": "多只黄金股业绩预喜",
@@ -7713,6 +7745,14 @@
       "onboard_time": 1770046942,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 52815,
+      "num": 52815,
+      "word": "官方回应局长因80万年薪未兑现仲裁",
+      "onboard_time": 1770159618,
+      "rank": 28,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 52217,
@@ -7795,6 +7835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 50773,
+      "num": 50773,
+      "word": "中国男篮vs日本男篮",
+      "onboard_time": 1770161359,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 50640,
       "num": 50640,
       "word": "黄金波动率创2008年新高",
@@ -7867,14 +7915,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 48714,
-      "num": 46231,
-      "word": "中国男篮vs日本男篮",
-      "onboard_time": 1770161359,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 48437,
       "num": 105319,
       "word": "钱弘俶一觉醒来上中原榜一了",
@@ -7913,14 +7953,6 @@
       "onboard_time": 1770131722,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 47696,
-      "num": 47696,
-      "word": "官方回应局长因80万年薪未兑现仲裁",
-      "onboard_time": 1770159618,
-      "rank": 28,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 47618,
@@ -8019,12 +8051,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43564,
+      "num": 43564,
+      "word": "王牌对王牌",
+      "onboard_time": 1770139457,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 43269,
       "num": 54516,
       "word": "AL与BLG直通淘汰赛",
       "onboard_time": 1769960062,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 43153,
+      "num": 43153,
+      "word": "俄方向日本发出警告",
+      "onboard_time": 1770162498,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 42277,
@@ -8075,14 +8123,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 39739,
-      "num": 39739,
-      "word": "王牌对王牌",
-      "onboard_time": 1770139457,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 39659,
       "num": 154778,
       "word": "原神真正的白马仙人",
@@ -8105,6 +8145,22 @@
       "onboard_time": 1770095001,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 39126,
+      "num": 39126,
+      "word": "阿森纳1比0切尔西",
+      "onboard_time": 1770161778,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 38665,
+      "num": 38665,
+      "word": "阿森纳vs切尔西",
+      "onboard_time": 1770161898,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 38366,
@@ -8785,14 +8841,6 @@
       "onboard_time": 1770142336,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 19231,
-      "num": 33527,
-      "word": "阿森纳1比0切尔西",
-      "onboard_time": 1770161778,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 19195,
