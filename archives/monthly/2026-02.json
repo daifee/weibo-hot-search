@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1770155892051,
+  "endTime": 1770158329283,
   "band_list": [
     {
       "raw_hot": 4038416,
@@ -8563,6 +8563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23471,
+      "num": 23471,
+      "word": "肖战蝉联两年微博综合热度TOP",
+      "onboard_time": 1770157516,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 23405,
       "num": 108584,
       "word": "叶祖新 好好做个帅哥不行吗",
@@ -8659,6 +8667,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 20568,
+      "num": 20568,
+      "word": "吃娃娃菜中毒夫妻涉嫌敲诈勒索罪",
+      "onboard_time": 1770136338,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20477,
       "num": 235204,
       "word": "骗保精神病医院此前曾为建设工程公司",
@@ -8736,14 +8752,6 @@
       "word": "精神病医院骗保事件应提级调查",
       "onboard_time": 1770129502,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 18359,
-      "num": 18916,
-      "word": "吃娃娃菜中毒夫妻涉嫌敲诈勒索罪",
-      "onboard_time": 1770136338,
-      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -8868,7 +8876,7 @@
     },
     {
       "raw_hot": 15877,
-      "num": 18896,
+      "num": 20494,
       "word": "穆祉丞长了耳朵",
       "onboard_time": 1770142995,
       "rank": 45,
@@ -8897,6 +8905,30 @@
       "onboard_time": 1769977635,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 14631,
+      "num": 20510,
+      "word": "2025演唱会推荐TOP10",
+      "onboard_time": 1770157935,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 14500,
+      "num": 20507,
+      "word": "李沛恩和蓝色好配",
+      "onboard_time": 1770142574,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 14279,
+      "num": 20503,
+      "word": "朱一龙怼脸海报",
+      "onboard_time": 1770152534,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 14267,
@@ -8939,14 +8971,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 13141,
-      "num": 16306,
-      "word": "朱一龙怼脸海报",
-      "onboard_time": 1770152534,
-      "rank": 49,
-      "category": "电影"
-    },
-    {
       "raw_hot": 12176,
       "num": 22103,
       "word": "CBA",
@@ -8964,7 +8988,7 @@
     },
     {
       "raw_hot": 11800,
-      "num": 16272,
+      "num": 20488,
       "word": "黄子弘凡除了快乐禁止入内",
       "onboard_time": 1770151273,
       "rank": 46,
@@ -8985,14 +9009,6 @@
       "onboard_time": 1769888895,
       "rank": 48,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 11157,
-      "num": 16277,
-      "word": "李沛恩和蓝色好配",
-      "onboard_time": 1770142574,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 10372,

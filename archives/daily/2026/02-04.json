@@ -1,6 +1,6 @@
 {
   "startTime": 1770135183011,
-  "endTime": 1770155892051,
+  "endTime": 1770158329283,
   "band_list": [
     {
       "raw_hot": 841160,
@@ -523,20 +523,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 31303,
+      "num": 33309,
+      "word": "特朗普称有问题的是比尔盖茨那些人",
+      "onboard_time": 1770124941,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 29442,
       "num": 29442,
       "word": "王牌对王牌",
       "onboard_time": 1770139457,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 28436,
-      "num": 33309,
-      "word": "特朗普称有问题的是比尔盖茨那些人",
-      "onboard_time": 1770124941,
-      "rank": 47,
-      "category": "国际时政"
     },
     {
       "raw_hot": 27620,
@@ -555,12 +555,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23471,
+      "num": 23471,
+      "word": "肖战蝉联两年微博综合热度TOP",
+      "onboard_time": 1770157516,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 21964,
       "num": 21964,
       "word": "江衡李沛恩雪景合照",
       "onboard_time": 1770141075,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 20568,
+      "num": 20568,
+      "word": "吃娃娃菜中毒夫妻涉嫌敲诈勒索罪",
+      "onboard_time": 1770136338,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20526,
+      "num": 20526,
+      "word": "美方回应爱泼斯坦案中女孩穿水手服跪地",
+      "onboard_time": 1770118340,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 20110,
@@ -571,28 +595,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 18359,
-      "num": 18916,
-      "word": "吃娃娃菜中毒夫妻涉嫌敲诈勒索罪",
-      "onboard_time": 1770136338,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 17548,
-      "num": 18910,
+      "num": 20493,
       "word": "太平年",
       "onboard_time": 1770121701,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 16944,
-      "num": 17084,
-      "word": "美方回应爱泼斯坦案中女孩穿水手服跪地",
-      "onboard_time": 1770118340,
-      "rank": 37,
-      "category": "国际时政"
     },
     {
       "raw_hot": 15982,
@@ -604,7 +612,7 @@
     },
     {
       "raw_hot": 15877,
-      "num": 18896,
+      "num": 20494,
       "word": "穆祉丞长了耳朵",
       "onboard_time": 1770142995,
       "rank": 45,
@@ -619,8 +627,24 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 13141,
-      "num": 16306,
+      "raw_hot": 14631,
+      "num": 20510,
+      "word": "2025演唱会推荐TOP10",
+      "onboard_time": 1770157935,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 14500,
+      "num": 20507,
+      "word": "李沛恩和蓝色好配",
+      "onboard_time": 1770142574,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 14279,
+      "num": 20503,
       "word": "朱一龙怼脸海报",
       "onboard_time": 1770152534,
       "rank": 49,
@@ -628,19 +652,11 @@
     },
     {
       "raw_hot": 11800,
-      "num": 16272,
+      "num": 20488,
       "word": "黄子弘凡除了快乐禁止入内",
       "onboard_time": 1770151273,
       "rank": 46,
       "category": "演出"
-    },
-    {
-      "raw_hot": 11157,
-      "num": 16277,
-      "word": "李沛恩和蓝色好配",
-      "onboard_time": 1770142574,
-      "rank": 48,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
