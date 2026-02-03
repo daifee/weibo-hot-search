@@ -1,6 +1,6 @@
 {
   "startTime": 1770051170355,
-  "endTime": 1770116890975,
+  "endTime": 1770118890933,
   "band_list": [
     {
       "raw_hot": 1714835,
@@ -59,6 +59,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1131092,
+      "num": 140279,
+      "word": "空姐月工资收入",
+      "onboard_time": 1770115220,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1091985,
       "num": 1174717,
       "word": "灵隐寺对38万爽约者出手了",
@@ -89,14 +97,6 @@
       "onboard_time": 1770108020,
       "rank": 8,
       "category": "民生新闻,财经"
-    },
-    {
-      "raw_hot": 907949,
-      "num": 140279,
-      "word": "空姐月工资收入",
-      "onboard_time": 1770115220,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 900582,
@@ -331,6 +331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 450832,
+      "num": 450832,
+      "word": "余华老师 我嗑的cp避嫌了咋办",
+      "onboard_time": 1770115941,
+      "rank": 15,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 417117,
       "num": 234660,
       "word": "萝莉岛",
@@ -379,6 +387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 378041,
+      "num": 378041,
+      "word": "夫妻网购娃娃菜吃中毒系合谋下毒",
+      "onboard_time": 1770118223,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 372584,
       "num": 220362,
       "word": "爷爷去世7年砍的柴还没用",
@@ -401,6 +417,14 @@
       "onboard_time": 1770104780,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 365729,
+      "num": 365729,
+      "word": "男子强奸嫂嫂又杀见义勇为者被判死刑",
+      "onboard_time": 1770117381,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 357996,
@@ -531,6 +555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 298229,
+      "num": 195262,
+      "word": "湖南多所高校收到大量0.01元捐款",
+      "onboard_time": 1770113780,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 297158,
       "num": 297158,
       "word": "国投白银LOF重估基金资产",
@@ -587,6 +619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 269663,
+      "num": 269663,
+      "word": "彭昱畅剧宣 每天发一万",
+      "onboard_time": 1770117260,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 268066,
       "num": 154814,
       "word": "爱泼斯坦案文件含裸照经提醒后被删除",
@@ -625,6 +665,14 @@
       "onboard_time": 1770105261,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 237408,
+      "num": 144061,
+      "word": "韩网要求金宣虎下车新剧",
+      "onboard_time": 1770114862,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 235656,
@@ -731,20 +779,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 199870,
-      "num": 144061,
-      "word": "韩网要求金宣虎下车新剧",
-      "onboard_time": 1770114862,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 198757,
       "num": 198757,
       "word": "高三女生睡眠不足5小时吹风致面瘫",
       "onboard_time": 1770045622,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 198410,
+      "num": 198410,
+      "word": "赵丽颖章子怡杨幂热议角色TOP10",
+      "onboard_time": 1770116120,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 196773,
@@ -755,16 +803,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 195262,
-      "num": 195262,
-      "word": "湖南多所高校收到大量0.01元捐款",
-      "onboard_time": 1770113780,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 194421,
-      "num": 194421,
+      "num": 447213,
       "word": "设计一半才想起来是马年",
       "onboard_time": 1770106580,
       "rank": 32,
@@ -883,12 +923,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 155256,
+      "num": 152520,
+      "word": "爱泼斯坦豪宅内景黑暗又诡异",
+      "onboard_time": 1770117200,
+      "rank": 16,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 155105,
       "num": 155105,
       "word": "医生说健康的月经有个弹性范围",
       "onboard_time": 1770040223,
       "rank": 16,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 153368,
+      "num": 153368,
+      "word": "农村大棚办婚礼",
+      "onboard_time": 1770116301,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 151168,
@@ -961,6 +1017,14 @@
       "onboard_time": 1770105200,
       "rank": 37,
       "category": "美食"
+    },
+    {
+      "raw_hot": 137847,
+      "num": 137847,
+      "word": "美国女子曝幼年被母亲喂食人肉",
+      "onboard_time": 1770117141,
+      "rank": 17,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 137325,
@@ -1051,6 +1115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 125782,
+      "num": 125782,
+      "word": "低情商才是永远的必杀技",
+      "onboard_time": 1770116841,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 125718,
       "num": 125718,
       "word": "妻子吵架致胎停离婚后被索6成彩礼",
@@ -1091,6 +1163,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 123201,
+      "num": 123201,
+      "word": "穆祉丞cos铠甲勇士路透",
+      "onboard_time": 1770117200,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 122324,
       "num": 122324,
       "word": "16号集体洗头",
@@ -1113,14 +1193,6 @@
       "onboard_time": 1770094042,
       "rank": 38,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 121731,
-      "num": 143481,
-      "word": "余华老师 我嗑的cp避嫌了咋办",
-      "onboard_time": 1770115941,
-      "rank": 15,
-      "category": "读书作家"
     },
     {
       "raw_hot": 121707,
@@ -1233,6 +1305,14 @@
       "onboard_time": 1770100460,
       "rank": 27,
       "category": "美食"
+    },
+    {
+      "raw_hot": 113166,
+      "num": 411815,
+      "word": "王皓说王楚钦樊振东是队内最强选手",
+      "onboard_time": 1770116181,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 112955,
@@ -1387,22 +1467,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 103907,
-      "num": 103907,
-      "word": "赵丽颖章子怡杨幂热议角色TOP10",
-      "onboard_time": 1770116120,
-      "rank": 34,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 103801,
-      "num": 117798,
-      "word": "农村大棚办婚礼",
-      "onboard_time": 1770116301,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 103600,
       "num": 103600,
       "word": "李昀锐尚公主杀青照",
@@ -1523,14 +1587,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 97944,
-      "num": 97944,
-      "word": "王皓说王楚钦樊振东是队内最强选手",
-      "onboard_time": 1770116181,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 97830,
       "num": 97830,
       "word": "C罗阻挠本泽马转会",
@@ -1561,6 +1617,22 @@
       "onboard_time": 1770066674,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 96842,
+      "num": 96842,
+      "word": "特朗普撇清与爱泼斯坦关系",
+      "onboard_time": 1770117861,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 96348,
+      "num": 141695,
+      "word": "村干部称娃娃菜中毒夫妻均联系不上",
+      "onboard_time": 1770115761,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 95133,
@@ -1643,14 +1715,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 92665,
-      "num": 92665,
-      "word": "低情商才是永远的必杀技",
-      "onboard_time": 1770116841,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 92273,
       "num": 186002,
       "word": "田永明故意杀人被判死刑",
@@ -1723,12 +1787,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 87773,
+      "num": 87773,
+      "word": "仓又嘉措",
+      "onboard_time": 1770118701,
+      "rank": 42,
+      "category": "幽默,财经"
+    },
+    {
       "raw_hot": 87638,
       "num": 87638,
       "word": "女方婚礼现场退还99999元彩礼",
       "onboard_time": 1770040404,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 87197,
+      "num": 87197,
+      "word": "吃娃娃菜中毒夫妻均被刑拘",
+      "onboard_time": 1770118821,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 87061,
+      "num": 88862,
+      "word": "原神",
+      "onboard_time": 1770117743,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 86873,
@@ -1825,6 +1913,14 @@
       "onboard_time": 1770107961,
       "rank": 48,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 84150,
+      "num": 84150,
+      "word": "医院通报网络直播手术暴露患者隐私",
+      "onboard_time": 1770118400,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 83861,
@@ -2147,6 +2243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 60118,
+      "num": 88872,
+      "word": "澳洲一音乐老师因性侵12岁男孩被捕",
+      "onboard_time": 1770118340,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 58478,
       "num": 68220,
       "word": "微博之夜",
@@ -2161,14 +2265,6 @@
       "onboard_time": 1770085639,
       "rank": 48,
       "category": "美食"
-    },
-    {
-      "raw_hot": 57662,
-      "num": 141695,
-      "word": "村干部称娃娃菜中毒夫妻均联系不上",
-      "onboard_time": 1770115761,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 57606,
@@ -2320,6 +2416,14 @@
       "word": "襄阳调查精神病院骗保",
       "onboard_time": 1770087140,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 47446,
+      "num": 96360,
+      "word": "12306回应火车吸烟区二手烟飘散",
+      "onboard_time": 1770117501,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -2537,6 +2641,14 @@
       "onboard_time": 1770094222,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19905,
+      "num": 88863,
+      "word": "丁程鑫电影角色TOP5唯一非一番男主",
+      "onboard_time": 1770118701,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 18875,
