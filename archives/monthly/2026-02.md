@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/02/01 00:39:22 ~ 2026/02/04 02:13:15
+本榜单时间：2026/02/01 00:39:22 ~ 2026/02/04 03:11:34
 </p>
 </blockquote>
 <p>
@@ -5649,6 +5649,12 @@ Peanut被封号（热度：60577）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E5%AC%B7%E6%89%8B%E4%BD%9C%E8%9E%BA%E8%9B%B3%E7%B2%89%E5%BA%97%E5%91%98%E7%A7%B0%E4%B8%8D%E8%A6%81%E6%9C%9F%E6%9C%9B%E8%BF%87%E9%AB%98%23" target="weibo">
+阿嬷手作螺蛳粉店员称不要期望过高（热度：59730）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%B8%8D%E9%9C%80%E8%A6%81%E5%85%B6%E4%BB%96%E5%9B%BD%E5%AE%B6%E8%A1%A8%E5%BF%A0%E5%BF%83%23" target="weibo">
 中国不需要其他国家表忠心（热度：59378）
 </a>
@@ -6005,12 +6011,6 @@ AL与BLG直通淘汰赛（热度：43269）
 <li>
 <a href="https://s.weibo.com/weibo?q=%232025%E5%BE%AE%E5%8D%9A%E5%8D%81%E5%A4%A7%E7%83%AD%E6%90%9C%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
 2025微博十大热搜演唱会（热度：40042）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E7%A5%9E%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%99%BD%E9%A9%AC%E4%BB%99%E4%BA%BA%23" target="weibo">
-原神真正的白马仙人（热度：39659）
 </a>
 </li>
 

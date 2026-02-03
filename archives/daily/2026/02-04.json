@@ -1,6 +1,6 @@
 {
   "startTime": 1770135183011,
-  "endTime": 1770142395511,
+  "endTime": 1770145894527,
   "band_list": [
     {
       "raw_hot": 841160,
@@ -363,6 +363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 59730,
+      "num": 59730,
+      "word": "阿嬷手作螺蛳粉店员称不要期望过高",
+      "onboard_time": 1770139877,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 59245,
       "num": 95071,
       "word": "张柏芝18岁大儿子身高",
@@ -499,14 +507,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 35011,
-      "num": 35011,
-      "word": "阿嬷手作螺蛳粉店员称不要期望过高",
-      "onboard_time": 1770139877,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 34559,
       "num": 34559,
       "word": "时团成员包场最受年轻人喜爱明星TOP5",
@@ -569,6 +569,46 @@
       "onboard_time": 1770142336,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 18026,
+      "num": 18916,
+      "word": "吃娃娃菜中毒夫妻涉嫌敲诈勒索罪",
+      "onboard_time": 1770136338,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17548,
+      "num": 18910,
+      "word": "太平年",
+      "onboard_time": 1770121701,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 15982,
+      "num": 18896,
+      "word": "宋亚轩随机放宋新春特辑",
+      "onboard_time": 1770145574,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 15877,
+      "num": 18896,
+      "word": "穆祉丞长了耳朵",
+      "onboard_time": 1770142995,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 15415,
+      "num": 18890,
+      "word": "张函瑞进行曲播放量破千万",
+      "onboard_time": 1770136279,
+      "rank": 47,
+      "category": "音乐"
     }
   ],
   "hotgov_list": [
