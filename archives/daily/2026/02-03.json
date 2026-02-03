@@ -1,6 +1,6 @@
 {
   "startTime": 1770051170355,
-  "endTime": 1770098263781,
+  "endTime": 1770099153386,
   "band_list": [
     {
       "raw_hot": 1535986,
@@ -24,6 +24,14 @@
       "word": "医院直播被指暴露女患者隐私部位",
       "onboard_time": 1770091581,
       "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1070566,
+      "num": 642034,
+      "word": "夫妻网购娃娃菜食用中毒系丈夫下毒",
+      "onboard_time": 1770096920,
+      "rank": 3,
       "category": "民生新闻"
     },
     {
@@ -67,14 +75,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 597827,
-      "num": 597827,
-      "word": "夫妻网购娃娃菜食用中毒系丈夫下毒",
-      "onboard_time": 1770096920,
-      "rank": 3,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 573810,
       "num": 231740,
       "word": "寒武纪",
@@ -113,6 +113,22 @@
       "onboard_time": 1770050478,
       "rank": 0,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 519633,
+      "num": 173114,
+      "word": "男童点火烧死萨摩耶家属发声",
+      "onboard_time": 1770097640,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 512993,
+      "num": 843666,
+      "word": "大哥请假十几天提前回家过年",
+      "onboard_time": 1770097041,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 498183,
@@ -275,6 +291,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 316894,
+      "num": 316894,
+      "word": "周生生情况通报",
+      "onboard_time": 1770094641,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 307928,
       "num": 164669,
       "word": "丈夫被指出轨怒揭妻子婚前多次堕胎",
@@ -353,14 +377,6 @@
       "onboard_time": 1770085100,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 238706,
-      "num": 238706,
-      "word": "大哥请假十几天提前回家过年",
-      "onboard_time": 1770097041,
-      "rank": 6,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 235656,
@@ -451,12 +467,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 192176,
-      "num": 192176,
-      "word": "周生生情况通报",
-      "onboard_time": 1770094641,
-      "rank": 44,
-      "category": "民生新闻"
+      "raw_hot": 192207,
+      "num": 181807,
+      "word": "每个遇到白鹿的人都会痛失艺名",
+      "onboard_time": 1770092781,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 190384,
@@ -481,14 +497,6 @@
       "onboard_time": 1770029061,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 181807,
-      "num": 181807,
-      "word": "每个遇到白鹿的人都会痛失艺名",
-      "onboard_time": 1770092781,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 176616,
@@ -643,6 +651,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 130739,
+      "num": 130739,
+      "word": "警方回应夫妻网购娃娃菜食用中毒",
+      "onboard_time": 1770098720,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 129470,
       "num": 129470,
       "word": "北京地铁9号线",
@@ -651,12 +667,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 128844,
-      "num": 128844,
-      "word": "男童点火烧死萨摩耶家属发声",
-      "onboard_time": 1770097640,
-      "rank": 31,
-      "category": "民生新闻"
+      "raw_hot": 127777,
+      "num": 122257,
+      "word": "偶遇鸠摩智买车",
+      "onboard_time": 1770097401,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 127694,
@@ -715,14 +731,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 122257,
-      "num": 122257,
-      "word": "偶遇鸠摩智买车",
-      "onboard_time": 1770097401,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 121867,
       "num": 121867,
       "word": "天津盘发",
@@ -771,6 +779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 113636,
+      "num": 113636,
+      "word": "易烊千玺刘耀文怼脸海报",
+      "onboard_time": 1770095421,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 112235,
       "num": 112235,
       "word": "生命树第10集广东人坐主桌",
@@ -795,20 +811,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 110243,
-      "num": 110243,
-      "word": "易烊千玺刘耀文怼脸海报",
-      "onboard_time": 1770095421,
-      "rank": 36,
-      "category": "电影"
-    },
-    {
       "raw_hot": 109943,
       "num": 109943,
       "word": "春运第1天被这个大屏震撼到了",
       "onboard_time": 1770075020,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109674,
+      "num": 109674,
+      "word": "喝点粉色的液体",
+      "onboard_time": 1770098720,
+      "rank": 34,
+      "category": "美食"
     },
     {
       "raw_hot": 109400,
@@ -891,6 +907,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 100894,
+      "num": 100894,
+      "word": "马斯克被女儿爆料曾登爱泼斯坦岛",
+      "onboard_time": 1770099082,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 99989,
       "num": 99989,
       "word": "韩媒再曝金宣虎逃税",
@@ -955,6 +979,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 94185,
+      "num": 94185,
+      "word": "国投瑞银回应白银LOF估值调整",
+      "onboard_time": 1770095780,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 93480,
       "num": 93480,
       "word": "C罗可能重返欧洲或前往美职联",
@@ -969,6 +1001,22 @@
       "onboard_time": 1770088459,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 89295,
+      "num": 89295,
+      "word": "已有手机品牌暂停下一代旗舰项目",
+      "onboard_time": 1770098181,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 88205,
+      "num": 88205,
+      "word": "成何体统",
+      "onboard_time": 1770092121,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 87638,
@@ -1019,12 +1067,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 84269,
-      "num": 84269,
-      "word": "成何体统",
-      "onboard_time": 1770092121,
-      "rank": 44,
-      "category": "剧集"
+      "raw_hot": 85071,
+      "num": 85071,
+      "word": "现货黄金再跌下4800",
+      "onboard_time": 1770096561,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 83861,
@@ -1059,14 +1107,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 82614,
-      "num": 82614,
-      "word": "已有手机品牌暂停下一代旗舰项目",
-      "onboard_time": 1770098181,
-      "rank": 46,
-      "category": "数码"
-    },
-    {
       "raw_hot": 79780,
       "num": 79780,
       "word": "美甲过年服务费",
@@ -1097,14 +1137,6 @@
       "onboard_time": 1770034521,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 79300,
-      "num": 79300,
-      "word": "国投瑞银回应白银LOF估值调整",
-      "onboard_time": 1770095780,
-      "rank": 49,
-      "category": "财经"
     },
     {
       "raw_hot": 76979,
@@ -1436,7 +1468,7 @@
     },
     {
       "raw_hot": 37943,
-      "num": 661027,
+      "num": 664103,
       "word": "2026年新春走基层",
       "onboard_time": 1770093801,
       "rank": 2,
@@ -1451,11 +1483,27 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 36987,
+      "num": 99619,
+      "word": "村医让儿媳给患者注射头孢致其死亡",
+      "onboard_time": 1770098420,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32960,
       "num": 641882,
       "word": "春运第1天流动量预计超1.8亿人次",
       "onboard_time": 1770036802,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29306,
+      "num": 180760,
+      "word": "周瑜开了家猪葛亮食品店",
+      "onboard_time": 1770097819,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -1491,6 +1539,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 21667,
+      "num": 99739,
+      "word": "刘耀文说黄子韬卡粉",
+      "onboard_time": 1770098181,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 21642,
       "num": 185203,
       "word": "千问独家冠名4台卫视春晚",
@@ -1513,22 +1569,6 @@
       "onboard_time": 1770037222,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 14847,
-      "num": 180760,
-      "word": "周瑜开了家猪葛亮食品店",
-      "onboard_time": 1770097819,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 10780,
-      "num": 97028,
-      "word": "刘耀文说黄子韬卡粉",
-      "onboard_time": 1770098181,
-      "rank": 39,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [

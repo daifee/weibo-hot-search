@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/02/03 13:57:43
+本榜单时间：2026/01/01 00:35:36 ~ 2026/02/03 14:12:33
 </p>
 </blockquote>
 <p>
@@ -1497,6 +1497,12 @@ BLG上调新上单Wenbo（热度：1173465）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AB%E5%A6%BB%E7%BD%91%E8%B4%AD%E5%A8%83%E5%A8%83%E8%8F%9C%E9%A3%9F%E7%94%A8%E4%B8%AD%E6%AF%92%E7%B3%BB%E4%B8%88%E5%A4%AB%E4%B8%8B%E6%AF%92%23" target="weibo">
+夫妻网购娃娃菜食用中毒系丈夫下毒（热度：1070566）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B8%95%E6%A2%85%E6%8B%89%E8%83%96%E4%BA%866%E5%85%AC%E6%96%A4%23" target="weibo">
 帕梅拉胖了6公斤（热度：1063554）
 </a>
@@ -1805,12 +1811,6 @@ TOP不解散不单飞（热度：983065）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%AF%B9%E6%97%A5%E6%9C%AC%E4%B8%80%E5%89%91%E5%B0%81%E5%96%89%23" target="weibo">
 中国对日本一剑封喉（热度：982453）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B5%96%E5%86%A0%E9%9C%96%E5%9B%9E%E5%BA%94%E9%80%80%E5%9C%88%23" target="weibo">
-赖冠霖回应退圈（热度：982044）
 </a>
 </li>
 

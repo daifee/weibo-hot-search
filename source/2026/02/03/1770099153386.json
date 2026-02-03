@@ -1,0 +1,410 @@
+{
+  "runTime": 1770099153386,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 811754,
+        "num": 1129880,
+        "word": "新版熔炉事件让韩国社会炸锅",
+        "onboard_time": 1770092960,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 512993,
+        "num": 843666,
+        "word": "大哥请假十几天提前回家过年",
+        "onboard_time": 1770097041,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24573,
+        "num": 664103,
+        "word": "2026年新春走基层",
+        "onboard_time": 1770093801,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1070566,
+        "num": 642034,
+        "word": "夫妻网购娃娃菜食用中毒系丈夫下毒",
+        "onboard_time": 1770096920,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 397821,
+        "num": 397821,
+        "word": "女子网购羽绒服有孝字臂章恶心坏了",
+        "onboard_time": 1770094823,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 361488,
+        "num": 361488,
+        "word": "准备随母姓后外婆起名起爽了",
+        "onboard_time": 1770092901,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 316894,
+        "num": 316894,
+        "word": "周生生情况通报",
+        "onboard_time": 1770094641,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 266113,
+        "num": 266113,
+        "word": "男子强奸出狱后又杀人被判死刑",
+        "onboard_time": 1770089540,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180760,
+        "num": 180760,
+        "word": "孟子义尚公主杀青文",
+        "onboard_time": 1770089421,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121752,
+        "num": 180755,
+        "word": "全网最惨星星人",
+        "onboard_time": 1770090920,
+        "rank": 9,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 655498,
+        "num": 177477,
+        "word": "金宣虎或被判刑",
+        "onboard_time": 1770089841,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 519633,
+        "num": 173114,
+        "word": "男童点火烧死萨摩耶家属发声",
+        "onboard_time": 1770097640,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 513369,
+        "num": 168685,
+        "word": "医院直播被指暴露女患者隐私部位",
+        "onboard_time": 1770091581,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 322597,
+        "num": 165422,
+        "word": "爱泼斯坦",
+        "onboard_time": 1770085999,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 203076,
+        "num": 163160,
+        "word": "王一博素颜界最严厉的父亲",
+        "onboard_time": 1770090561,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192207,
+        "num": 159484,
+        "word": "每个遇到白鹿的人都会痛失艺名",
+        "onboard_time": 1770092781,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293962,
+        "num": 157570,
+        "word": "马斯克女儿爆料",
+        "onboard_time": 1770073636,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 155276,
+        "num": 155276,
+        "word": "寒武纪",
+        "onboard_time": 1770087320,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 153652,
+        "num": 153652,
+        "word": "哈登将离开快船",
+        "onboard_time": 1770094581,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201737,
+        "num": 152243,
+        "word": "俄媒曝光爱泼斯坦诡异视频",
+        "onboard_time": 1770084439,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 357196,
+        "num": 149786,
+        "word": "金饰价格涨到1542元",
+        "onboard_time": 1770084619,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 299825,
+        "num": 145779,
+        "word": "杨紫失焦眼神戏",
+        "onboard_time": 1770090561,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 323962,
+        "num": 142876,
+        "word": "萝莉岛",
+        "onboard_time": 1770087560,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 255398,
+        "num": 140023,
+        "word": "一米九的柯淳和他一米六的保镖",
+        "onboard_time": 1770096619,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178343,
+        "num": 135201,
+        "word": "惠英红黄渤杨幂王一博开屏",
+        "onboard_time": 1770092601,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 134421,
+        "num": 134421,
+        "word": "员工转走220万存款银行不愿赔偿",
+        "onboard_time": 1770085939,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140022,
+        "num": 133889,
+        "word": "小英辣妹妆",
+        "onboard_time": 1770097280,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 130739,
+        "num": 130739,
+        "word": "警方回应夫妻网购娃娃菜食用中毒",
+        "onboard_time": 1770098720,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125957,
+        "num": 125957,
+        "word": "路虎大哥因歹徒家境一般放弃索赔",
+        "onboard_time": 1770096079,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29306,
+        "num": 114215,
+        "word": "周瑜开了家猪葛亮食品店",
+        "onboard_time": 1770097819,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127777,
+        "num": 114204,
+        "word": "偶遇鸠摩智买车",
+        "onboard_time": 1770097401,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113894,
+        "num": 113894,
+        "word": "挪威王储妃与爱泼斯坦暧昧邮件曝光",
+        "onboard_time": 1770081320,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 113636,
+        "num": 113636,
+        "word": "易烊千玺刘耀文怼脸海报",
+        "onboard_time": 1770095421,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 113230,
+        "num": 113230,
+        "word": "25岁小伙身高仅60多厘米",
+        "onboard_time": 1770089540,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109674,
+        "num": 109674,
+        "word": "喝点粉色的液体",
+        "onboard_time": 1770098720,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 102222,
+        "num": 102222,
+        "word": "黄婷婷首部悬疑女主戏",
+        "onboard_time": 1770093922,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101741,
+        "num": 101741,
+        "word": "金银价格又反转",
+        "onboard_time": 1770096260,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 100894,
+        "num": 100894,
+        "word": "马斯克被女儿爆料曾登爱泼斯坦岛",
+        "onboard_time": 1770099082,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 21667,
+        "num": 99739,
+        "word": "刘耀文说黄子韬卡粉",
+        "onboard_time": 1770098181,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36987,
+        "num": 99619,
+        "word": "村医让儿媳给患者注射头孢致其死亡",
+        "onboard_time": 1770098420,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96084,
+        "num": 99529,
+        "word": "芝麻凑分",
+        "onboard_time": 1770050478,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 99500,
+        "num": 99500,
+        "word": "英国前驻美大使与爱泼斯坦视频曝光",
+        "onboard_time": 1770097881,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 96174,
+        "num": 96174,
+        "word": "唐宫奇案定档",
+        "onboard_time": 1770084439,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94185,
+        "num": 94185,
+        "word": "国投瑞银回应白银LOF估值调整",
+        "onboard_time": 1770095780,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 89295,
+        "num": 89295,
+        "word": "已有手机品牌暂停下一代旗舰项目",
+        "onboard_time": 1770098181,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 88205,
+        "num": 88205,
+        "word": "成何体统",
+        "onboard_time": 1770092121,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85718,
+        "num": 85718,
+        "word": "克林顿夫妇将配合爱泼斯坦案调查",
+        "onboard_time": 1770081140,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 85071,
+        "num": 85071,
+        "word": "现货黄金再跌下4800",
+        "onboard_time": 1770096561,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 84792,
+        "num": 84792,
+        "word": "现货黄金跌10%",
+        "onboard_time": 1770097939,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 84643,
+        "num": 84643,
+        "word": "记者卧底精神病医院许多病人无异常",
+        "onboard_time": 1770080901,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记谈金融强国#"
+    }
+  }
+}
