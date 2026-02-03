@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1770115967847,
+  "endTime": 1770116890975,
   "band_list": [
     {
       "raw_hot": 4038416,
@@ -275,6 +275,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 907949,
+      "num": 140279,
+      "word": "空姐月工资收入",
+      "onboard_time": 1770115220,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 900582,
       "num": 271707,
       "word": "挪威王储妃与爱泼斯坦暧昧邮件曝光",
@@ -379,6 +387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 839535,
+      "num": 146928,
+      "word": "烧死萨摩耶男童被吓到已后悔",
+      "onboard_time": 1770114743,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 822828,
       "num": 242377,
       "word": "特朗普回应被爱泼斯坦案文件提及",
@@ -393,6 +409,14 @@
       "onboard_time": 1770004161,
       "rank": 11,
       "category": "演出"
+    },
+    {
+      "raw_hot": 813425,
+      "num": 1130148,
+      "word": "李微微受贿超1.17亿",
+      "onboard_time": 1770113479,
+      "rank": 0,
+      "category": "国内时政"
     },
     {
       "raw_hot": 811116,
@@ -673,14 +697,6 @@
       "onboard_time": 1769953943,
       "rank": 24,
       "category": "演出"
-    },
-    {
-      "raw_hot": 581497,
-      "num": 1093039,
-      "word": "李微微受贿超1.17亿",
-      "onboard_time": 1770113479,
-      "rank": 0,
-      "category": "国内时政"
     },
     {
       "raw_hot": 580257,
@@ -2355,14 +2371,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 218561,
-      "num": 146928,
-      "word": "烧死萨摩耶男童被吓到已后悔",
-      "onboard_time": 1770114743,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 217958,
       "num": 217958,
       "word": "花楼 小白熊",
@@ -2475,6 +2483,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 199870,
+      "num": 144061,
+      "word": "韩网要求金宣虎下车新剧",
+      "onboard_time": 1770114862,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198757,
       "num": 230529,
       "word": "高三女生睡眠不足5小时吹风致面瘫",
@@ -2537,6 +2553,14 @@
       "onboard_time": 1769862802,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 195262,
+      "num": 195262,
+      "word": "湖南多所高校收到大量0.01元捐款",
+      "onboard_time": 1770113780,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 194839,
@@ -2947,28 +2971,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 160427,
-      "num": 160427,
-      "word": "湖南多所高校收到大量0.01元捐款",
-      "onboard_time": 1770113780,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 159776,
       "num": 159776,
       "word": "小猫喝玉米水",
       "onboard_time": 1769931741,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 159232,
-      "num": 144061,
-      "word": "韩网要求金宣虎下车新剧",
-      "onboard_time": 1770114862,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 158563,
@@ -3305,14 +3313,6 @@
       "onboard_time": 1769946922,
       "rank": 30,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 140279,
-      "num": 140279,
-      "word": "空姐月工资收入",
-      "onboard_time": 1770115220,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 140214,
@@ -3897,6 +3897,14 @@
       "onboard_time": 1769920940,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 121731,
+      "num": 143481,
+      "word": "余华老师 我嗑的cp避嫌了咋办",
+      "onboard_time": 1770115941,
+      "rank": 15,
+      "category": "读书作家"
     },
     {
       "raw_hot": 121707,
@@ -4827,6 +4835,22 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 103907,
+      "num": 103907,
+      "word": "赵丽颖章子怡杨幂热议角色TOP10",
+      "onboard_time": 1770116120,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 103801,
+      "num": 117798,
+      "word": "农村大棚办婚礼",
+      "onboard_time": 1770116301,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 103731,
       "num": 103731,
       "word": "小鹏机器人假人疑云后再翻车",
@@ -5075,6 +5099,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 98450,
+      "num": 98450,
+      "word": "澳洲偶遇张柏芝和儿子逛宜家",
+      "onboard_time": 1770115700,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 98441,
       "num": 98441,
       "word": "父母退99999元彩礼还给了6万元陪嫁",
@@ -5113,6 +5145,14 @@
       "onboard_time": 1770093682,
       "rank": 45,
       "category": "美食"
+    },
+    {
+      "raw_hot": 97944,
+      "num": 97944,
+      "word": "王皓说王楚钦樊振东是队内最强选手",
+      "onboard_time": 1770116181,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 97830,
@@ -5411,6 +5451,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 92665,
+      "num": 92665,
+      "word": "低情商才是永远的必杀技",
+      "onboard_time": 1770116841,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 92536,
       "num": 92536,
       "word": "A股全市场超百股跌停",
@@ -5455,14 +5503,6 @@
       "num": 91910,
       "word": "ally和周也同框",
       "onboard_time": 1770020542,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 91743,
-      "num": 91743,
-      "word": "澳洲偶遇张柏芝和儿子逛宜家",
-      "onboard_time": 1770115700,
       "rank": 44,
       "category": "艺人"
     },
@@ -5569,6 +5609,14 @@
       "onboard_time": 1769926941,
       "rank": 33,
       "category": "网红"
+    },
+    {
+      "raw_hot": 89772,
+      "num": 89772,
+      "word": "十二星座本周好运tips",
+      "onboard_time": 1770116720,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 89502,
@@ -5761,6 +5809,14 @@
       "onboard_time": 1770013520,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 86873,
+      "num": 86873,
+      "word": "这样的外卖员才配收我的配送费",
+      "onboard_time": 1770116720,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 86839,
@@ -6819,6 +6875,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 57662,
+      "num": 141695,
+      "word": "村干部称娃娃菜中毒夫妻均联系不上",
+      "onboard_time": 1770115761,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57606,
       "num": 57606,
       "word": "詹姆斯或将在今夏离开湖人",
@@ -7459,14 +7523,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 32799,
-      "num": 141695,
-      "word": "村干部称娃娃菜中毒夫妻均联系不上",
-      "onboard_time": 1770115761,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 32669,
       "num": 32669,
       "word": "希区考克直拍",
@@ -7899,6 +7955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 17566,
+      "num": 94532,
+      "word": "朱孝天47岁状态",
+      "onboard_time": 1770116120,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 17170,
       "num": 122683,
       "word": "宜家母公司营收连续两年下滑",
@@ -7985,6 +8049,14 @@
       "onboard_time": 1770044544,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13250,
+      "num": 92777,
+      "word": "一群人一起做了一件了不起的事",
+      "onboard_time": 1770116240,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 13180,

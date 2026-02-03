@@ -1,0 +1,410 @@
+{
+  "runTime": 1770116890975,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 813425,
+        "num": 1130148,
+        "word": "李微微受贿超1.17亿",
+        "onboard_time": 1770113479,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 319893,
+        "num": 803360,
+        "word": "阿嬷手作螺蛳粉一碗55元起",
+        "onboard_time": 1770107481,
+        "rank": 1,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 17345,
+        "num": 633269,
+        "word": "2026春运安全出行指南",
+        "onboard_time": 1770105862,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 400559,
+        "num": 400559,
+        "word": "女子连续十年买黄金说政治课教过",
+        "onboard_time": 1770110420,
+        "rank": 3,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 235758,
+        "num": 235758,
+        "word": "樊振东王楚钦获得伦敦世乒赛资格",
+        "onboard_time": 1770109038,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204816,
+        "num": 204816,
+        "word": "灵隐寺对38万爽约者出手了",
+        "onboard_time": 1770099801,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195262,
+        "num": 195262,
+        "word": "湖南多所高校收到大量0.01元捐款",
+        "onboard_time": 1770113780,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159188,
+        "num": 159188,
+        "word": "12306回应用前任身份证订票再取消",
+        "onboard_time": 1770108681,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148751,
+        "num": 148751,
+        "word": "中方回应日本挖到含稀土淤泥",
+        "onboard_time": 1770102981,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 126459,
+        "num": 148201,
+        "word": "警方辟谣夫妻网购娃娃菜中毒系丈夫下毒",
+        "onboard_time": 1770108081,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1020056,
+        "num": 147647,
+        "word": "爱泼斯坦案中一女孩穿水手服跪地",
+        "onboard_time": 1770111440,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 179867,
+        "num": 147126,
+        "word": "医院直播被指暴露女患者隐私部位",
+        "onboard_time": 1770091581,
+        "rank": 11,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 158170,
+        "num": 146181,
+        "word": "骄阳似我",
+        "onboard_time": 1770103100,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 242254,
+        "num": 145372,
+        "word": "爱泼斯坦",
+        "onboard_time": 1770085999,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 123608,
+        "num": 144265,
+        "word": "设计一半才想起来是马年",
+        "onboard_time": 1770106580,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121731,
+        "num": 143481,
+        "word": "余华老师 我嗑的cp避嫌了咋办",
+        "onboard_time": 1770115941,
+        "rank": 15,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 143480,
+        "num": 143480,
+        "word": "爱泼斯坦被曝15年前秘密生子",
+        "onboard_time": 1770105622,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 133746,
+        "num": 133746,
+        "word": "王楚然工作室AI剧宣",
+        "onboard_time": 1770106460,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120311,
+        "num": 133667,
+        "word": "白银暴涨10%",
+        "onboard_time": 1770106761,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 57662,
+        "num": 133349,
+        "word": "村干部称娃娃菜中毒夫妻均联系不上",
+        "onboard_time": 1770115761,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1048041,
+        "num": 133141,
+        "word": "胡先煦睡觉吓到空姐",
+        "onboard_time": 1770112400,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 927329,
+        "num": 132800,
+        "word": "萝莉岛 恶魔岛",
+        "onboard_time": 1770102981,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 907949,
+        "num": 132519,
+        "word": "空姐月工资收入",
+        "onboard_time": 1770115220,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 839535,
+        "num": 132231,
+        "word": "烧死萨摩耶男童被吓到已后悔",
+        "onboard_time": 1770114743,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 384490,
+        "num": 131920,
+        "word": "郑恺的情商",
+        "onboard_time": 1770110060,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226399,
+        "num": 131731,
+        "word": "金宣虎或被判刑",
+        "onboard_time": 1770089841,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208638,
+        "num": 131451,
+        "word": "LWX 结婚",
+        "onboard_time": 1770105020,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 199870,
+        "num": 131298,
+        "word": "韩网要求金宣虎下车新剧",
+        "onboard_time": 1770114862,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131112,
+        "num": 131112,
+        "word": "薛之谦祭拜赵英俊",
+        "onboard_time": 1770107541,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102431,
+        "num": 126419,
+        "word": "没有年味的原因找到了",
+        "onboard_time": 1770101839,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 278203,
+        "num": 126397,
+        "word": "郑恺回应鹿晗粉丝",
+        "onboard_time": 1770101180,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126223,
+        "num": 126223,
+        "word": "什么春晚让两届歌王同台了",
+        "onboard_time": 1770113900,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103801,
+        "num": 117798,
+        "word": "农村大棚办婚礼",
+        "onboard_time": 1770116301,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 114622,
+        "num": 114622,
+        "word": "肖战白鹿热巴商业价值TOP3",
+        "onboard_time": 1770105440,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103907,
+        "num": 103907,
+        "word": "赵丽颖章子怡杨幂热议角色TOP10",
+        "onboard_time": 1770116120,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 100337,
+        "num": 100337,
+        "word": "莲花跑车",
+        "onboard_time": 1770114200,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 98450,
+        "num": 98450,
+        "word": "澳洲偶遇张柏芝和儿子逛宜家",
+        "onboard_time": 1770115700,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97944,
+        "num": 97944,
+        "word": "王皓说王楚钦樊振东是队内最强选手",
+        "onboard_time": 1770116181,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17566,
+        "num": 94532,
+        "word": "朱孝天47岁状态",
+        "onboard_time": 1770116120,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13250,
+        "num": 92777,
+        "word": "一群人一起做了一件了不起的事",
+        "onboard_time": 1770116240,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92665,
+        "num": 92665,
+        "word": "低情商才是永远的必杀技",
+        "onboard_time": 1770116841,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 96081,
+        "num": 92343,
+        "word": "李微漪证实狼王格林已自然老去",
+        "onboard_time": 1770110660,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91383,
+        "num": 91383,
+        "word": "杨紫感谢马思纯",
+        "onboard_time": 1770106100,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89772,
+        "num": 89772,
+        "word": "十二星座本周好运tips",
+        "onboard_time": 1770116720,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 89675,
+        "num": 89675,
+        "word": "老人筷子蘸酒喂5月龄宝宝致肝损伤",
+        "onboard_time": 1770104600,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86873,
+        "num": 86873,
+        "word": "这样的外卖员才配收我的配送费",
+        "onboard_time": 1770116720,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 27725,
+        "num": 85706,
+        "word": "抢头福什么时候变成世界课题了",
+        "onboard_time": 1770112880,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 85669,
+        "num": 85669,
+        "word": "十五五首个中央一号文件来了",
+        "onboard_time": 1770114380,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 85532,
+        "num": 85532,
+        "word": "萝莉岛",
+        "onboard_time": 1770087560,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 84729,
+        "num": 84729,
+        "word": "NBA交易",
+        "onboard_time": 1770105261,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同奥尔西会谈#"
+    }
+  }
+}
