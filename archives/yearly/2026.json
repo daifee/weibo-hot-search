@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1770105176445,
+  "endTime": 1770105737770,
   "band_list": [
     {
       "raw_hot": 22742360,
@@ -755,6 +755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1714835,
+      "num": 145374,
+      "word": "萝莉岛 恶魔岛",
+      "onboard_time": 1770102981,
+      "rank": 43,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1708257,
       "num": 452427,
       "word": "两男孩玩火烧死萨摩耶狗主人发声",
@@ -857,14 +865,6 @@
       "onboard_time": 1769761762,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1572547,
-      "num": 145374,
-      "word": "萝莉岛 恶魔岛",
-      "onboard_time": 1770102981,
-      "rank": 43,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 1571390,

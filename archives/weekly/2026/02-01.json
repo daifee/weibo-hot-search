@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1770105176445,
+  "endTime": 1770105737770,
   "band_list": [
     {
       "raw_hot": 4038416,
@@ -43,6 +43,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1714835,
+      "num": 145374,
+      "word": "萝莉岛 恶魔岛",
+      "onboard_time": 1770102981,
+      "rank": 43,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1708257,
       "num": 452427,
       "word": "两男孩玩火烧死萨摩耶狗主人发声",
@@ -56,14 +64,6 @@
       "word": "萝莉岛",
       "onboard_time": 1769955561,
       "rank": 24,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 1572547,
-      "num": 145374,
-      "word": "萝莉岛 恶魔岛",
-      "onboard_time": 1770102981,
-      "rank": 43,
       "category": "海外新闻"
     },
     {
@@ -484,7 +484,7 @@
     },
     {
       "raw_hot": 680570,
-      "num": 815212,
+      "num": 831042,
       "word": "中方回应日本挖到含稀土淤泥",
       "onboard_time": 1770102981,
       "rank": 48,
@@ -1195,6 +1195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 372584,
+      "num": 220362,
+      "word": "爷爷去世7年砍的柴还没用",
+      "onboard_time": 1770102200,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 372084,
       "num": 204111,
       "word": "宋仲基23年1月再婚6月得子",
@@ -1491,6 +1499,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 317316,
+      "num": 137246,
+      "word": "LWX 结婚",
+      "onboard_time": 1770105020,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 316894,
       "num": 316894,
       "word": "周生生情况通报",
@@ -1505,6 +1521,14 @@
       "onboard_time": 1769936061,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 313420,
+      "num": 170717,
+      "word": "秦海璐 热巴偏我来时不逢春",
+      "onboard_time": 1770100760,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 312147,
@@ -1539,14 +1563,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 311145,
-      "num": 212007,
-      "word": "爷爷去世7年砍的柴还没用",
-      "onboard_time": 1770102200,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 309764,
       "num": 204041,
       "word": "成何体统定档节奏",
@@ -1569,14 +1585,6 @@
       "onboard_time": 1770047060,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 303943,
-      "num": 170717,
-      "word": "秦海璐 热巴偏我来时不逢春",
-      "onboard_time": 1770100760,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 303039,
@@ -1699,6 +1707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 283219,
+      "num": 162431,
+      "word": "没有年味的原因找到了",
+      "onboard_time": 1770101839,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 282198,
       "num": 282198,
       "word": "黄金有望涨至6000美元",
@@ -1817,14 +1833,6 @@
       "onboard_time": 1769873301,
       "rank": 12,
       "category": "网红"
-    },
-    {
-      "raw_hot": 256280,
-      "num": 162431,
-      "word": "没有年味的原因找到了",
-      "onboard_time": 1770101839,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 253411,
@@ -1955,6 +1963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 242477,
+      "num": 129739,
+      "word": "老人筷子蘸酒喂5月龄宝宝致肝损伤",
+      "onboard_time": 1770104600,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 241616,
       "num": 241616,
       "word": "简笔画官宣杨紫",
@@ -2059,6 +2075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 231289,
+      "num": 159557,
+      "word": "郑恺说苗苗像鹿晗",
+      "onboard_time": 1770104780,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 229813,
       "num": 229813,
       "word": "在飞机上删了五个小时的照片",
@@ -2145,6 +2169,14 @@
       "onboard_time": 1769928080,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 223614,
+      "num": 223614,
+      "word": "骄阳似我",
+      "onboard_time": 1770103100,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 223409,
@@ -2435,14 +2467,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 187094,
-      "num": 187094,
-      "word": "骄阳似我",
-      "onboard_time": 1770103100,
-      "rank": 8,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 186661,
       "num": 186661,
       "word": "国投白银LOF再次跌停",
@@ -2569,14 +2593,6 @@
       "onboard_time": 1769852721,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 174264,
-      "num": 124520,
-      "word": "老人筷子蘸酒喂5月龄宝宝致肝损伤",
-      "onboard_time": 1770104600,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 173995,
@@ -2761,6 +2777,14 @@
       "onboard_time": 1769931741,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 159505,
+      "num": 159505,
+      "word": "百万网红自曝月收入5千",
+      "onboard_time": 1770105200,
+      "rank": 18,
+      "category": "网红"
     },
     {
       "raw_hot": 158563,
@@ -3193,6 +3217,14 @@
       "onboard_time": 1769872042,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 135409,
+      "num": 160980,
+      "word": "NBA交易",
+      "onboard_time": 1770105261,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 135357,
@@ -3707,6 +3739,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 120386,
+      "num": 120386,
+      "word": "久哲卸任RNGM主教练",
+      "onboard_time": 1770105382,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 120223,
       "num": 120223,
       "word": "爱泼斯坦文件提及泽连斯基",
@@ -3777,14 +3817,6 @@
       "onboard_time": 1770046942,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 118580,
-      "num": 118580,
-      "word": "郑恺说苗苗像鹿晗",
-      "onboard_time": 1770104780,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 118475,
@@ -3897,6 +3929,14 @@
       "onboard_time": 1770101300,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116218,
+      "num": 116218,
+      "word": "肖战白鹿热巴商业价值TOP3",
+      "onboard_time": 1770105440,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 115983,
@@ -4435,6 +4475,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 104500,
+      "num": 104500,
+      "word": "零食店怀疑女孩偷东西扣留20分",
+      "onboard_time": 1770104119,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104430,
       "num": 104430,
       "word": "SM和时代峰峻推双人组合了",
@@ -4635,6 +4683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 100022,
+      "num": 100022,
+      "word": "韩国人疯狂安利中国固体杨枝甘露",
+      "onboard_time": 1770105200,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
       "raw_hot": 99989,
       "num": 99989,
       "word": "韩媒再曝金宣虎逃税",
@@ -4681,6 +4737,14 @@
       "onboard_time": 1769995820,
       "rank": 41,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 98441,
+      "num": 98441,
+      "word": "父母退99999元彩礼还给了6万元陪嫁",
+      "onboard_time": 1770101300,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 98240,
@@ -4739,20 +4803,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 97185,
+      "num": 150881,
+      "word": "齐齐哈尔一养老院发生火灾致5死",
+      "onboard_time": 1770104060,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97141,
       "num": 97141,
       "word": "包子进入瑜伽裤时代",
       "onboard_time": 1769942240,
       "rank": 42,
       "category": "美食"
-    },
-    {
-      "raw_hot": 97041,
-      "num": 97041,
-      "word": "父母退99999元彩礼还给了6万元陪嫁",
-      "onboard_time": 1770101300,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 96988,
@@ -4875,14 +4939,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 94449,
-      "num": 94449,
-      "word": "LWX 结婚",
-      "onboard_time": 1770105020,
-      "rank": 36,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 94410,
       "num": 146225,
       "word": "这就是四川省省菜吧",
@@ -4969,14 +5025,6 @@
       "onboard_time": 1769910260,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 92800,
-      "num": 92800,
-      "word": "零食店怀疑女孩偷东西扣留20分",
-      "onboard_time": 1770104119,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 92685,
@@ -5227,6 +5275,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 88006,
+      "num": 88006,
+      "word": "现货黄金又突破4900美元",
+      "onboard_time": 1770105561,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 88005,
       "num": 88005,
       "word": "内娱现挂迎来了它最严厉的父亲",
@@ -5273,14 +5329,6 @@
       "onboard_time": 1769997980,
       "rank": 46,
       "category": "财经"
-    },
-    {
-      "raw_hot": 87510,
-      "num": 150881,
-      "word": "齐齐哈尔一养老院发生火灾致5死",
-      "onboard_time": 1770104060,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 87507,
@@ -5427,6 +5475,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 84652,
+      "num": 84652,
+      "word": "零跑董事长回应年会被吐槽",
+      "onboard_time": 1770104839,
+      "rank": 45,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 84531,
       "num": 345914,
       "word": "Scout祝福Xiaohu",
@@ -5513,14 +5569,6 @@
       "onboard_time": 1769998161,
       "rank": 47,
       "category": "演出"
-    },
-    {
-      "raw_hot": 82473,
-      "num": 82473,
-      "word": "零跑董事长回应年会被吐槽",
-      "onboard_time": 1770104839,
-      "rank": 45,
-      "category": "汽车"
     },
     {
       "raw_hot": 82471,
@@ -6083,6 +6131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 65262,
+      "num": 98651,
+      "word": "麻辣烫挂壁称重 省钱",
+      "onboard_time": 1770105561,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 64739,
       "num": 83959,
       "word": "何炅仰头看王鹤棣这一下",
@@ -6451,6 +6507,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 49525,
+      "num": 100456,
+      "word": "健康的福气送给最爱的老己",
+      "onboard_time": 1770105622,
+      "rank": 36,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 49317,
       "num": 55344,
       "word": "喻言演唱会",
@@ -6619,6 +6683,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 40747,
+      "num": 98527,
+      "word": "爱泼斯坦被曝15年前秘密生子",
+      "onboard_time": 1770105622,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 40238,
       "num": 67915,
       "word": "台积电2nm产能已被预订一空",
@@ -6641,6 +6713,14 @@
       "onboard_time": 1770095001,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 38884,
+      "num": 104742,
+      "word": "卫健委回应手术直播疑露患者隐私",
+      "onboard_time": 1770105622,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 38366,
@@ -7211,6 +7291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 18875,
+      "num": 619388,
+      "word": "全球首款混合动力无人运输机首飞成功",
+      "onboard_time": 1770105382,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18858,
       "num": 108428,
       "word": "警方辟谣男子举报特大人口贩卖组织",
@@ -7419,6 +7507,9 @@
     },
     {
       "word": "#总书记谈金融强国#"
+    },
+    {
+      "word": "#习近平同奥尔西会谈#"
     }
   ]
 }

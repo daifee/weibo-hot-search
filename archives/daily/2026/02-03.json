@@ -1,9 +1,9 @@
 {
   "startTime": 1770051170355,
-  "endTime": 1770105176445,
+  "endTime": 1770105737770,
   "band_list": [
     {
-      "raw_hot": 1572547,
+      "raw_hot": 1714835,
       "num": 145374,
       "word": "萝莉岛 恶魔岛",
       "onboard_time": 1770102981,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 680570,
-      "num": 815212,
+      "num": 831042,
       "word": "中方回应日本挖到含稀土淤泥",
       "onboard_time": 1770102981,
       "rank": 48,
@@ -251,6 +251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 372584,
+      "num": 220362,
+      "word": "爷爷去世7年砍的柴还没用",
+      "onboard_time": 1770102200,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 371881,
       "num": 499611,
       "word": "茉莉奶白战报",
@@ -331,6 +339,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 317316,
+      "num": 137246,
+      "word": "LWX 结婚",
+      "onboard_time": 1770105020,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 316894,
       "num": 316894,
       "word": "周生生情况通报",
@@ -339,12 +355,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 311145,
-      "num": 212007,
-      "word": "爷爷去世7年砍的柴还没用",
-      "onboard_time": 1770102200,
-      "rank": 30,
-      "category": "情感"
+      "raw_hot": 313420,
+      "num": 170717,
+      "word": "秦海璐 热巴偏我来时不逢春",
+      "onboard_time": 1770100760,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 307928,
@@ -353,14 +369,6 @@
       "onboard_time": 1770047060,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 303943,
-      "num": 170717,
-      "word": "秦海璐 热巴偏我来时不逢春",
-      "onboard_time": 1770100760,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 297158,
@@ -377,6 +385,14 @@
       "onboard_time": 1770075020,
       "rank": 7,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 283219,
+      "num": 162431,
+      "word": "没有年味的原因找到了",
+      "onboard_time": 1770101839,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 277808,
@@ -419,14 +435,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 256280,
-      "num": 162431,
-      "word": "没有年味的原因找到了",
-      "onboard_time": 1770101839,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 251115,
       "num": 848902,
       "word": "江苏盐城一座在建桥梁垮塌",
@@ -441,6 +449,14 @@
       "onboard_time": 1770085100,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 242477,
+      "num": 129739,
+      "word": "老人筷子蘸酒喂5月龄宝宝致肝损伤",
+      "onboard_time": 1770104600,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 235656,
@@ -459,6 +475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 231289,
+      "num": 159557,
+      "word": "郑恺说苗苗像鹿晗",
+      "onboard_time": 1770104780,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 228462,
       "num": 124118,
       "word": "连云港萨摩耶",
@@ -472,6 +496,14 @@
       "word": "张凌赫手里的刀一米六",
       "onboard_time": 1770099259,
       "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 223614,
+      "num": 223614,
+      "word": "骄阳似我",
+      "onboard_time": 1770103100,
+      "rank": 8,
       "category": "剧集"
     },
     {
@@ -563,14 +595,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 187094,
-      "num": 187094,
-      "word": "骄阳似我",
-      "onboard_time": 1770103100,
-      "rank": 8,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 186661,
       "num": 186661,
       "word": "国投白银LOF再次跌停",
@@ -601,14 +625,6 @@
       "onboard_time": 1770032722,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 174264,
-      "num": 124520,
-      "word": "老人筷子蘸酒喂5月龄宝宝致肝损伤",
-      "onboard_time": 1770104600,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 173064,
@@ -649,6 +665,14 @@
       "onboard_time": 1770082880,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 159505,
+      "num": 159505,
+      "word": "百万网红自曝月收入5千",
+      "onboard_time": 1770105200,
+      "rank": 18,
+      "category": "网红"
     },
     {
       "raw_hot": 157840,
@@ -729,6 +753,14 @@
       "onboard_time": 1770036982,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 135409,
+      "num": 160980,
+      "word": "NBA交易",
+      "onboard_time": 1770105261,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 134990,
@@ -859,6 +891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 120386,
+      "num": 120386,
+      "word": "久哲卸任RNGM主教练",
+      "onboard_time": 1770105382,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 120263,
       "num": 120263,
       "word": "爱泼斯坦 吃人",
@@ -891,14 +931,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 118580,
-      "num": 118580,
-      "word": "郑恺说苗苗像鹿晗",
-      "onboard_time": 1770104780,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 116866,
       "num": 116866,
       "word": "村医让儿媳给患者注射头孢致其死亡",
@@ -913,6 +945,14 @@
       "onboard_time": 1770101300,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116218,
+      "num": 116218,
+      "word": "肖战白鹿热巴商业价值TOP3",
+      "onboard_time": 1770105440,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 114621,
@@ -1019,6 +1059,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 104500,
+      "num": 104500,
+      "word": "零食店怀疑女孩偷东西扣留20分",
+      "onboard_time": 1770104119,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103600,
       "num": 103600,
       "word": "李昀锐尚公主杀青照",
@@ -1059,12 +1107,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 100022,
+      "num": 100022,
+      "word": "韩国人疯狂安利中国固体杨枝甘露",
+      "onboard_time": 1770105200,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
       "raw_hot": 99989,
       "num": 99989,
       "word": "韩媒再曝金宣虎逃税",
       "onboard_time": 1770092482,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 98441,
+      "num": 98441,
+      "word": "父母退99999元彩礼还给了6万元陪嫁",
+      "onboard_time": 1770101300,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 97971,
@@ -1091,11 +1155,11 @@
       "category": "演出"
     },
     {
-      "raw_hot": 97041,
-      "num": 97041,
-      "word": "父母退99999元彩礼还给了6万元陪嫁",
-      "onboard_time": 1770101300,
-      "rank": 39,
+      "raw_hot": 97185,
+      "num": 150881,
+      "word": "齐齐哈尔一养老院发生火灾致5死",
+      "onboard_time": 1770104060,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -1139,14 +1203,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 94449,
-      "num": 94449,
-      "word": "LWX 结婚",
-      "onboard_time": 1770105020,
-      "rank": 36,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 94185,
       "num": 94185,
       "word": "国投瑞银回应白银LOF估值调整",
@@ -1161,14 +1217,6 @@
       "onboard_time": 1770093321,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 92800,
-      "num": 92800,
-      "word": "零食店怀疑女孩偷东西扣留20分",
-      "onboard_time": 1770104119,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 92273,
@@ -1203,19 +1251,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 88006,
+      "num": 88006,
+      "word": "现货黄金又突破4900美元",
+      "onboard_time": 1770105561,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 87638,
       "num": 87638,
       "word": "女方婚礼现场退还99999元彩礼",
       "onboard_time": 1770040404,
       "rank": 26,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 87510,
-      "num": 150881,
-      "word": "齐齐哈尔一养老院发生火灾致5死",
-      "onboard_time": 1770104060,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -1275,6 +1323,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 84652,
+      "num": 84652,
+      "word": "零跑董事长回应年会被吐槽",
+      "onboard_time": 1770104839,
+      "rank": 45,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 83861,
       "num": 83861,
       "word": "普京曾说西方精英惯食人肉",
@@ -1305,14 +1361,6 @@
       "onboard_time": 1770049639,
       "rank": 29,
       "category": "网红"
-    },
-    {
-      "raw_hot": 82473,
-      "num": 82473,
-      "word": "零跑董事长回应年会被吐槽",
-      "onboard_time": 1770104839,
-      "rank": 45,
-      "category": "汽车"
     },
     {
       "raw_hot": 82471,
@@ -1467,6 +1515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 65262,
+      "num": 98651,
+      "word": "麻辣烫挂壁称重 省钱",
+      "onboard_time": 1770105561,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 64509,
       "num": 64509,
       "word": "手机店遭鹿闯入老板误认是恶犬",
@@ -1611,6 +1667,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 49525,
+      "num": 100456,
+      "word": "健康的福气送给最爱的老己",
+      "onboard_time": 1770105622,
+      "rank": 36,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 49165,
       "num": 68071,
       "word": "微博之夜 豪华阵容",
@@ -1707,6 +1771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 40747,
+      "num": 98527,
+      "word": "爱泼斯坦被曝15年前秘密生子",
+      "onboard_time": 1770105622,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 40238,
       "num": 67915,
       "word": "台积电2nm产能已被预订一空",
@@ -1737,6 +1809,14 @@
       "onboard_time": 1770095001,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 38884,
+      "num": 104742,
+      "word": "卫健委回应手术直播疑露患者隐私",
+      "onboard_time": 1770105622,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37943,
@@ -1843,6 +1923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 18875,
+      "num": 619388,
+      "word": "全球首款混合动力无人运输机首飞成功",
+      "onboard_time": 1770105382,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18168,
       "num": 105319,
       "word": "女子说好像被催眠连做5项整形",
@@ -1865,6 +1953,9 @@
     },
     {
       "word": "#总书记谈金融强国#"
+    },
+    {
+      "word": "#习近平同奥尔西会谈#"
     }
   ]
 }
