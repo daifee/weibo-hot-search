@@ -1,10 +1,10 @@
 {
   "startTime": 1770051170355,
-  "endTime": 1770105737770,
+  "endTime": 1770108576975,
   "band_list": [
     {
       "raw_hot": 1714835,
-      "num": 145374,
+      "num": 195582,
       "word": "萝莉岛 恶魔岛",
       "onboard_time": 1770102981,
       "rank": 43,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1269650,
-      "num": 199152,
+      "num": 199687,
       "word": "郑恺回应鹿晗粉丝",
       "onboard_time": 1770101180,
       "rank": 11,
@@ -57,6 +57,14 @@
       "onboard_time": 1770096920,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1010442,
+      "num": 194462,
+      "word": "LWX 结婚",
+      "onboard_time": 1770105020,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 900582,
@@ -108,11 +116,19 @@
     },
     {
       "raw_hot": 680570,
-      "num": 831042,
+      "num": 1106026,
       "word": "中方回应日本挖到含稀土淤泥",
       "onboard_time": 1770102981,
       "rank": 48,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 598816,
+      "num": 199126,
+      "word": "百万网红自曝月收入5千",
+      "onboard_time": 1770105200,
+      "rank": 18,
+      "category": "网红"
     },
     {
       "raw_hot": 573810,
@@ -185,6 +201,14 @@
       "onboard_time": 1770084439,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 459080,
+      "num": 198891,
+      "word": "爱泼斯坦被曝15年前秘密生子",
+      "onboard_time": 1770105622,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 457780,
@@ -267,6 +291,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 370872,
+      "num": 197673,
+      "word": "郑恺说苗苗像鹿晗",
+      "onboard_time": 1770104780,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 357996,
       "num": 620323,
       "word": "白日提灯",
@@ -339,12 +371,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 317316,
-      "num": 137246,
-      "word": "LWX 结婚",
-      "onboard_time": 1770105020,
-      "rank": 36,
-      "category": "电竞"
+      "raw_hot": 322510,
+      "num": 196391,
+      "word": "肖战白鹿热巴商业价值TOP3",
+      "onboard_time": 1770105440,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 320540,
+      "num": 193786,
+      "word": "老人筷子蘸酒喂5月龄宝宝致肝损伤",
+      "onboard_time": 1770104600,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 316894,
@@ -356,7 +396,7 @@
     },
     {
       "raw_hot": 313420,
-      "num": 170717,
+      "num": 182613,
       "word": "秦海璐 热巴偏我来时不逢春",
       "onboard_time": 1770100760,
       "rank": 19,
@@ -369,6 +409,14 @@
       "onboard_time": 1770047060,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 303811,
+      "num": 303811,
+      "word": "杨紫感谢马思纯",
+      "onboard_time": 1770106100,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 297158,
@@ -388,7 +436,7 @@
     },
     {
       "raw_hot": 283219,
-      "num": 162431,
+      "num": 192836,
       "word": "没有年味的原因找到了",
       "onboard_time": 1770101839,
       "rank": 47,
@@ -435,6 +483,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 260746,
+      "num": 237527,
+      "word": "王楚然工作室AI剧宣",
+      "onboard_time": 1770106460,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 251115,
       "num": 848902,
       "word": "江苏盐城一座在建桥梁垮塌",
@@ -451,12 +507,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 242477,
-      "num": 129739,
-      "word": "老人筷子蘸酒喂5月龄宝宝致肝损伤",
-      "onboard_time": 1770104600,
-      "rank": 23,
-      "category": "民生新闻"
+      "raw_hot": 244741,
+      "num": 244741,
+      "word": "NBA交易",
+      "onboard_time": 1770105261,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 235656,
@@ -475,14 +531,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 231289,
-      "num": 159557,
-      "word": "郑恺说苗苗像鹿晗",
-      "onboard_time": 1770104780,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 228462,
       "num": 124118,
       "word": "连云港萨摩耶",
@@ -499,8 +547,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 223614,
-      "num": 223614,
+      "raw_hot": 225516,
+      "num": 225516,
       "word": "骄阳似我",
       "onboard_time": 1770103100,
       "rank": 8,
@@ -537,6 +585,14 @@
       "onboard_time": 1770092601,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 209544,
+      "num": 192607,
+      "word": "薛之谦祭拜赵英俊",
+      "onboard_time": 1770107541,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 207493,
@@ -579,6 +635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192327,
+      "num": 192327,
+      "word": "白银暴涨10%",
+      "onboard_time": 1770106761,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 192207,
       "num": 181807,
       "word": "每个遇到白鹿的人都会痛失艺名",
@@ -609,6 +673,14 @@
       "onboard_time": 1770029061,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 177074,
+      "num": 200530,
+      "word": "儿子劝父亲卖出45公斤白银躲过暴跌",
+      "onboard_time": 1770108020,
+      "rank": 8,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 176616,
@@ -659,20 +731,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 162027,
+      "num": 199799,
+      "word": "亚洲杯抽签",
+      "onboard_time": 1770106580,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 161973,
       "num": 161973,
       "word": "精神病医院惩罚病人最久绑3天3夜",
       "onboard_time": 1770082880,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 159505,
-      "num": 159505,
-      "word": "百万网红自曝月收入5千",
-      "onboard_time": 1770105200,
-      "rank": 18,
-      "category": "网红"
     },
     {
       "raw_hot": 157840,
@@ -699,12 +771,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 154221,
+      "num": 154221,
+      "word": "设计一半才想起来是马年",
+      "onboard_time": 1770106580,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 151168,
       "num": 67987,
       "word": "韦德和曹格是对家",
       "onboard_time": 1770050958,
       "rank": 47,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 150645,
+      "num": 196470,
+      "word": "阿嬷手作螺蛳粉一碗55元起",
+      "onboard_time": 1770107481,
+      "rank": 17,
+      "category": "民生新闻,美食"
     },
     {
       "raw_hot": 150577,
@@ -739,6 +827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 144921,
+      "num": 194316,
+      "word": "久哲卸任RNGM主教练",
+      "onboard_time": 1770105382,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 141946,
       "num": 141946,
       "word": "太平年 江浙沪独宠女具象化了",
@@ -747,20 +843,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 137993,
+      "num": 137993,
+      "word": "韩国人疯狂安利中国固体杨枝甘露",
+      "onboard_time": 1770105200,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
       "raw_hot": 136420,
       "num": 113139,
       "word": "宋仲基23年1月再婚6月得子",
       "onboard_time": 1770036982,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 135409,
-      "num": 160980,
-      "word": "NBA交易",
-      "onboard_time": 1770105261,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 134990,
@@ -891,20 +987,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 120386,
-      "num": 120386,
-      "word": "久哲卸任RNGM主教练",
-      "onboard_time": 1770105382,
-      "rank": 26,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 120263,
       "num": 120263,
       "word": "爱泼斯坦 吃人",
       "onboard_time": 1769996779,
       "rank": 18,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 120094,
+      "num": 120094,
+      "word": "醉酒后凌晨两点买了只猫",
+      "onboard_time": 1770107782,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 119224,
+      "num": 119224,
+      "word": "黄圣依张凌赫豪门家族又上人了",
+      "onboard_time": 1770107361,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 119222,
@@ -945,14 +1049,6 @@
       "onboard_time": 1770101300,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 116218,
-      "num": 116218,
-      "word": "肖战白鹿热巴商业价值TOP3",
-      "onboard_time": 1770105440,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 114621,
@@ -1027,6 +1123,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 106860,
+      "num": 106860,
+      "word": "广州一彩民喜中5882万大奖",
+      "onboard_time": 1770106701,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106589,
       "num": 204500,
       "word": "祝绪丹穆祉丞兔塑姐弟",
@@ -1067,6 +1171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 104157,
+      "num": 104157,
+      "word": "2025微博涨粉量TOP10明星",
+      "onboard_time": 1770107900,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 103600,
       "num": 103600,
       "word": "李昀锐尚公主杀青照",
@@ -1091,6 +1203,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 101087,
+      "num": 104742,
+      "word": "卫健委回应手术直播疑露患者隐私",
+      "onboard_time": 1770105622,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100976,
       "num": 100976,
       "word": "黄晓明22年累计捐款超5000万",
@@ -1105,14 +1225,6 @@
       "onboard_time": 1770099082,
       "rank": 37,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 100022,
-      "num": 100022,
-      "word": "韩国人疯狂安利中国固体杨枝甘露",
-      "onboard_time": 1770105200,
-      "rank": 37,
-      "category": "美食"
     },
     {
       "raw_hot": 99989,
@@ -1219,6 +1331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 93343,
+      "num": 93343,
+      "word": "封神香辣蟹已争气争气再争气",
+      "onboard_time": 1770107481,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
       "raw_hot": 92273,
       "num": 186002,
       "word": "田永明故意杀人被判死刑",
@@ -1233,6 +1353,14 @@
       "onboard_time": 1770098181,
       "rank": 46,
       "category": "数码"
+    },
+    {
+      "raw_hot": 89084,
+      "num": 89084,
+      "word": "金饰克价4天跌224元",
+      "onboard_time": 1770106942,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 88520,
@@ -1257,6 +1385,14 @@
       "onboard_time": 1770105561,
       "rank": 46,
       "category": "财经"
+    },
+    {
+      "raw_hot": 87916,
+      "num": 87916,
+      "word": "当00后掌管年夜饭",
+      "onboard_time": 1770106520,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 87638,
@@ -1331,6 +1467,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 84318,
+      "num": 84318,
+      "word": "中式美学的含金量还在上升",
+      "onboard_time": 1770107961,
+      "rank": 48,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 83861,
       "num": 83861,
       "word": "普京曾说西方精英惯食人肉",
@@ -1385,6 +1529,14 @@
       "onboard_time": 1770104060,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 81079,
+      "num": 81079,
+      "word": "有人积存金连续补仓12次",
+      "onboard_time": 1770105741,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 79780,
@@ -1465,6 +1617,14 @@
       "onboard_time": 1770096439,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 73590,
+      "num": 195785,
+      "word": "警方辟谣夫妻网购娃娃菜中毒系丈夫下毒",
+      "onboard_time": 1770108081,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 72860,
@@ -1668,7 +1828,7 @@
     },
     {
       "raw_hot": 49525,
-      "num": 100456,
+      "num": 197846,
       "word": "健康的福气送给最爱的老己",
       "onboard_time": 1770105622,
       "rank": 36,
@@ -1771,14 +1931,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 40747,
-      "num": 98527,
-      "word": "爱泼斯坦被曝15年前秘密生子",
-      "onboard_time": 1770105622,
-      "rank": 39,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 40238,
       "num": 67915,
       "word": "台积电2nm产能已被预订一空",
@@ -1803,20 +1955,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 39246,
+      "num": 109786,
+      "word": "王橹杰每一张都像画报",
+      "onboard_time": 1770107541,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 39180,
       "num": 119053,
       "word": "周深 2026马上长高",
       "onboard_time": 1770095001,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 38884,
-      "num": 104742,
-      "word": "卫健委回应手术直播疑露患者隐私",
-      "onboard_time": 1770105622,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 37943,
@@ -1856,6 +2008,14 @@
       "word": "周瑜开了家猪葛亮食品店",
       "onboard_time": 1770097819,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25454,
+      "num": 197155,
+      "word": "主人悬赏5千寻狗半月后得知被吃掉",
+      "onboard_time": 1770108020,
+      "rank": 16,
       "category": "民生新闻"
     },
     {
@@ -1913,6 +2073,14 @@
       "onboard_time": 1770094882,
       "rank": 29,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 21307,
+      "num": 623438,
+      "word": "2026春运安全出行指南",
+      "onboard_time": 1770105862,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20477,

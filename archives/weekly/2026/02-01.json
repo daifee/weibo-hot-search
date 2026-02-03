@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1770105737770,
+  "endTime": 1770108576975,
   "band_list": [
     {
       "raw_hot": 4038416,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1714835,
-      "num": 145374,
+      "num": 195582,
       "word": "萝莉岛 恶魔岛",
       "onboard_time": 1770102981,
       "rank": 43,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 1269650,
-      "num": 199152,
+      "num": 199687,
       "word": "郑恺回应鹿晗粉丝",
       "onboard_time": 1770101180,
       "rank": 11,
@@ -209,6 +209,14 @@
       "onboard_time": 1769911460,
       "rank": 0,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1010442,
+      "num": 194462,
+      "word": "LWX 结婚",
+      "onboard_time": 1770105020,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 983065,
@@ -484,7 +492,7 @@
     },
     {
       "raw_hot": 680570,
-      "num": 831042,
+      "num": 1106026,
       "word": "中方回应日本挖到含稀土淤泥",
       "onboard_time": 1770102981,
       "rank": 48,
@@ -593,6 +601,14 @@
       "onboard_time": 1769941581,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 598816,
+      "num": 199126,
+      "word": "百万网红自曝月收入5千",
+      "onboard_time": 1770105200,
+      "rank": 18,
+      "category": "网红"
     },
     {
       "raw_hot": 587503,
@@ -881,6 +897,14 @@
       "onboard_time": 1769953643,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 459080,
+      "num": 198891,
+      "word": "爱泼斯坦被曝15年前秘密生子",
+      "onboard_time": 1770105622,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 457780,
@@ -1219,6 +1243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 370872,
+      "num": 197673,
+      "word": "郑恺说苗苗像鹿晗",
+      "onboard_time": 1770104780,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 368562,
       "num": 198447,
       "word": "酷酷的滕直播",
@@ -1467,6 +1499,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 322510,
+      "num": 196391,
+      "word": "肖战白鹿热巴商业价值TOP3",
+      "onboard_time": 1770105440,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 321586,
       "num": 231301,
       "word": "向太认可是自己娶了郭碧婷",
@@ -1480,6 +1520,14 @@
       "word": "男子养4只鹦鹉3只死亡后全家倒下",
       "onboard_time": 1770014540,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 320540,
+      "num": 193786,
+      "word": "老人筷子蘸酒喂5月龄宝宝致肝损伤",
+      "onboard_time": 1770104600,
+      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -1499,14 +1547,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 317316,
-      "num": 137246,
-      "word": "LWX 结婚",
-      "onboard_time": 1770105020,
-      "rank": 36,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 316894,
       "num": 316894,
       "word": "周生生情况通报",
@@ -1524,7 +1564,7 @@
     },
     {
       "raw_hot": 313420,
-      "num": 170717,
+      "num": 182613,
       "word": "秦海璐 热巴偏我来时不逢春",
       "onboard_time": 1770100760,
       "rank": 19,
@@ -1585,6 +1625,14 @@
       "onboard_time": 1770047060,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 303811,
+      "num": 303811,
+      "word": "杨紫感谢马思纯",
+      "onboard_time": 1770106100,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 303039,
@@ -1708,7 +1756,7 @@
     },
     {
       "raw_hot": 283219,
-      "num": 162431,
+      "num": 192836,
       "word": "没有年味的原因找到了",
       "onboard_time": 1770101839,
       "rank": 47,
@@ -1801,6 +1849,14 @@
       "onboard_time": 1769992881,
       "rank": 17,
       "category": "财经"
+    },
+    {
+      "raw_hot": 260746,
+      "num": 237527,
+      "word": "王楚然工作室AI剧宣",
+      "onboard_time": 1770106460,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 258639,
@@ -1939,6 +1995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 244741,
+      "num": 244741,
+      "word": "NBA交易",
+      "onboard_time": 1770105261,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 244177,
       "num": 829303,
       "word": "皇马",
@@ -1961,14 +2025,6 @@
       "onboard_time": 1770028642,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 242477,
-      "num": 129739,
-      "word": "老人筷子蘸酒喂5月龄宝宝致肝损伤",
-      "onboard_time": 1770104600,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 241616,
@@ -2075,14 +2131,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 231289,
-      "num": 159557,
-      "word": "郑恺说苗苗像鹿晗",
-      "onboard_time": 1770104780,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 229813,
       "num": 229813,
       "word": "在飞机上删了五个小时的照片",
@@ -2131,6 +2179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 225516,
+      "num": 225516,
+      "word": "骄阳似我",
+      "onboard_time": 1770103100,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 225134,
       "num": 274451,
       "word": "外卖小哥笑了半小时才决定送下一单",
@@ -2169,14 +2225,6 @@
       "onboard_time": 1769928080,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 223614,
-      "num": 223614,
-      "word": "骄阳似我",
-      "onboard_time": 1770103100,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 223409,
@@ -2265,6 +2313,14 @@
       "onboard_time": 1770092601,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 209544,
+      "num": 192607,
+      "word": "薛之谦祭拜赵英俊",
+      "onboard_time": 1770107541,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 208890,
@@ -2411,6 +2467,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 192327,
+      "num": 192327,
+      "word": "白银暴涨10%",
+      "onboard_time": 1770106761,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 192207,
       "num": 181807,
       "word": "每个遇到白鹿的人都会痛失艺名",
@@ -2553,6 +2617,14 @@
       "onboard_time": 1770020961,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 177074,
+      "num": 200530,
+      "word": "儿子劝父亲卖出45公斤白银躲过暴跌",
+      "onboard_time": 1770108020,
+      "rank": 8,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 176700,
@@ -2763,6 +2835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 162027,
+      "num": 199799,
+      "word": "亚洲杯抽签",
+      "onboard_time": 1770106580,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 161973,
       "num": 161973,
       "word": "精神病医院惩罚病人最久绑3天3夜",
@@ -2777,14 +2857,6 @@
       "onboard_time": 1769931741,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 159505,
-      "num": 159505,
-      "word": "百万网红自曝月收入5千",
-      "onboard_time": 1770105200,
-      "rank": 18,
-      "category": "网红"
     },
     {
       "raw_hot": 158563,
@@ -2825,6 +2897,14 @@
       "onboard_time": 1769938702,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 154221,
+      "num": 154221,
+      "word": "设计一半才想起来是马年",
+      "onboard_time": 1770106580,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 153559,
@@ -2881,6 +2961,14 @@
       "onboard_time": 1770032183,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 150645,
+      "num": 196470,
+      "word": "阿嬷手作螺蛳粉一碗55元起",
+      "onboard_time": 1770107481,
+      "rank": 17,
+      "category": "民生新闻,美食"
     },
     {
       "raw_hot": 150577,
@@ -2969,6 +3057,14 @@
       "onboard_time": 1769872223,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144921,
+      "num": 194316,
+      "word": "久哲卸任RNGM主教练",
+      "onboard_time": 1770105382,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 144863,
@@ -3139,6 +3235,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 137993,
+      "num": 137993,
+      "word": "韩国人疯狂安利中国固体杨枝甘露",
+      "onboard_time": 1770105200,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
       "raw_hot": 137850,
       "num": 123294,
       "word": "杨紫演技 生命树上鲜活的枝丫",
@@ -3217,14 +3321,6 @@
       "onboard_time": 1769872042,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 135409,
-      "num": 160980,
-      "word": "NBA交易",
-      "onboard_time": 1770105261,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 135357,
@@ -3739,14 +3835,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 120386,
-      "num": 120386,
-      "word": "久哲卸任RNGM主教练",
-      "onboard_time": 1770105382,
-      "rank": 26,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 120223,
       "num": 120223,
       "word": "爱泼斯坦文件提及泽连斯基",
@@ -3771,6 +3859,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 120094,
+      "num": 120094,
+      "word": "醉酒后凌晨两点买了只猫",
+      "onboard_time": 1770107782,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 120042,
       "num": 168430,
       "word": "李微漪回应狼王格林去世传闻",
@@ -3792,6 +3888,14 @@
       "word": "余宇涵直播",
       "onboard_time": 1769946561,
       "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 119224,
+      "num": 119224,
+      "word": "黄圣依张凌赫豪门家族又上人了",
+      "onboard_time": 1770107361,
+      "rank": 37,
       "category": "艺人"
     },
     {
@@ -3929,14 +4033,6 @@
       "onboard_time": 1770101300,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 116218,
-      "num": 116218,
-      "word": "肖战白鹿热巴商业价值TOP3",
-      "onboard_time": 1770105440,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 115983,
@@ -4331,6 +4427,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 106860,
+      "num": 106860,
+      "word": "广州一彩民喜中5882万大奖",
+      "onboard_time": 1770106701,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106760,
       "num": 106760,
       "word": "时代少年团行程图",
@@ -4499,6 +4603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 104157,
+      "num": 104157,
+      "word": "2025微博涨粉量TOP10明星",
+      "onboard_time": 1770107900,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 104112,
       "num": 178464,
       "word": "韩国总统怒斥是个人都不能说这种话",
@@ -4619,6 +4731,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 101087,
+      "num": 104742,
+      "word": "卫健委回应手术直播疑露患者隐私",
+      "onboard_time": 1770105622,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100976,
       "num": 100976,
       "word": "黄晓明22年累计捐款超5000万",
@@ -4681,14 +4801,6 @@
       "onboard_time": 1770001341,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 100022,
-      "num": 100022,
-      "word": "韩国人疯狂安利中国固体杨枝甘露",
-      "onboard_time": 1770105200,
-      "rank": 37,
-      "category": "美食"
     },
     {
       "raw_hot": 99989,
@@ -5019,6 +5131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 93343,
+      "num": 93343,
+      "word": "封神香辣蟹已争气争气再争气",
+      "onboard_time": 1770107481,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
       "raw_hot": 93055,
       "num": 93055,
       "word": "炽热吸引",
@@ -5211,6 +5331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 89084,
+      "num": 89084,
+      "word": "金饰克价4天跌224元",
+      "onboard_time": 1770106942,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 88980,
       "num": 88980,
       "word": "30克金镯子2天降6000多元",
@@ -5297,6 +5425,14 @@
       "onboard_time": 1770022040,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 87916,
+      "num": 87916,
+      "word": "当00后掌管年夜饭",
+      "onboard_time": 1770106520,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 87850,
@@ -5499,6 +5635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 84318,
+      "num": 84318,
+      "word": "中式美学的含金量还在上升",
+      "onboard_time": 1770107961,
+      "rank": 48,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 84041,
       "num": 121528,
       "word": "王楚钦王曼昱开心交流",
@@ -5633,6 +5777,14 @@
       "onboard_time": 1770104060,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 81079,
+      "num": 81079,
+      "word": "有人积存金连续补仓12次",
+      "onboard_time": 1770105741,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 80938,
@@ -5953,6 +6105,14 @@
       "onboard_time": 1769926941,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 73590,
+      "num": 195785,
+      "word": "警方辟谣夫妻网购娃娃菜中毒系丈夫下毒",
+      "onboard_time": 1770108081,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 73211,
@@ -6508,7 +6668,7 @@
     },
     {
       "raw_hot": 49525,
-      "num": 100456,
+      "num": 197846,
       "word": "健康的福气送给最爱的老己",
       "onboard_time": 1770105622,
       "rank": 36,
@@ -6683,14 +6843,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 40747,
-      "num": 98527,
-      "word": "爱泼斯坦被曝15年前秘密生子",
-      "onboard_time": 1770105622,
-      "rank": 39,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 40238,
       "num": 67915,
       "word": "台积电2nm产能已被预订一空",
@@ -6707,20 +6859,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 39246,
+      "num": 109786,
+      "word": "王橹杰每一张都像画报",
+      "onboard_time": 1770107541,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 39180,
       "num": 119053,
       "word": "周深 2026马上长高",
       "onboard_time": 1770095001,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 38884,
-      "num": 104742,
-      "word": "卫健委回应手术直播疑露患者隐私",
-      "onboard_time": 1770105622,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 38366,
@@ -7083,6 +7235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25454,
+      "num": 197155,
+      "word": "主人悬赏5千寻狗半月后得知被吃掉",
+      "onboard_time": 1770108020,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25217,
       "num": 40785,
       "word": "朴智旻机场",
@@ -7225,6 +7385,14 @@
       "onboard_time": 1770094882,
       "rank": 29,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 21307,
+      "num": 623438,
+      "word": "2026春运安全出行指南",
+      "onboard_time": 1770105862,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21046,
