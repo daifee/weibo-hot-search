@@ -1,0 +1,410 @@
+{
+  "runTime": 1770126153138,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1021430,
+        "num": 1163428,
+        "word": "吃娃娃菜中毒夫妻均被刑拘",
+        "onboard_time": 1770118821,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 555760,
+        "num": 854535,
+        "word": "原来花千骨当时那么惨",
+        "onboard_time": 1770121222,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23023,
+        "num": 658882,
+        "word": "学生优惠火车票购票攻略来了",
+        "onboard_time": 1770124281,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 330464,
+        "num": 330464,
+        "word": "网剧炽热吸引",
+        "onboard_time": 1770122601,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 291022,
+        "num": 291022,
+        "word": "周生生晒检测报告",
+        "onboard_time": 1770124521,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 287013,
+        "num": 287013,
+        "word": "余华老师 我嗑的cp避嫌了咋办",
+        "onboard_time": 1770115941,
+        "rank": 5,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 284691,
+        "num": 284691,
+        "word": "李微微受贿超1.17亿",
+        "onboard_time": 1770113479,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 186884,
+        "num": 186884,
+        "word": "AG超玩会桃黑黑",
+        "onboard_time": 1770119181,
+        "rank": 7,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 176004,
+        "num": 176004,
+        "word": "生命树",
+        "onboard_time": 1770120022,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132693,
+        "num": 175649,
+        "word": "王皓说王楚钦樊振东是队内最强选手",
+        "onboard_time": 1770116181,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 658441,
+        "num": 175313,
+        "word": "男子强奸嫂嫂又杀见义勇为者被判死刑",
+        "onboard_time": 1770117381,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 568910,
+        "num": 174361,
+        "word": "教师与副校长聚餐酒后坠亡",
+        "onboard_time": 1770124281,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132455,
+        "num": 174132,
+        "word": "一诺和桃黑黑打王者",
+        "onboard_time": 1770118942,
+        "rank": 12,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 12139,
+        "num": 173474,
+        "word": "严查严惩食品非法添加",
+        "onboard_time": 1770125782,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172984,
+        "num": 172984,
+        "word": "彭昱畅剧宣 每天发一万",
+        "onboard_time": 1770117260,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 472934,
+        "num": 172900,
+        "word": "直播现女患者隐私部位2人被处理",
+        "onboard_time": 1770121640,
+        "rank": 15,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 357192,
+        "num": 172529,
+        "word": "胡先煦睡觉吓到空姐",
+        "onboard_time": 1770112400,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 340887,
+        "num": 172510,
+        "word": "演员马如龙49岁儿子在家去世",
+        "onboard_time": 1770121100,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265190,
+        "num": 172083,
+        "word": "美方回应爱泼斯坦案中女孩穿水手服跪地",
+        "onboard_time": 1770118340,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 225945,
+        "num": 171990,
+        "word": "时代少年团还回来当爱豆吗",
+        "onboard_time": 1770119841,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 886048,
+        "num": 171736,
+        "word": "任宥纶这是官宣吗",
+        "onboard_time": 1770119721,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 833334,
+        "num": 171428,
+        "word": "萝莉岛 恶魔岛",
+        "onboard_time": 1770102981,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 85758,
+        "num": 171214,
+        "word": "吃娃娃菜中毒夫妻意图骗取巨额赔偿",
+        "onboard_time": 1770125841,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 251197,
+        "num": 171071,
+        "word": "爱泼斯坦豪宅内景黑暗又诡异",
+        "onboard_time": 1770117200,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 170931,
+        "num": 170931,
+        "word": "喵娲娲 微博之夜送票永动机",
+        "onboard_time": 1770125181,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 203044,
+        "num": 170681,
+        "word": "夫妻网购娃娃菜吃中毒系合谋下毒",
+        "onboard_time": 1770118223,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 332499,
+        "num": 169510,
+        "word": "张柏芝18岁大儿子身高",
+        "onboard_time": 1770122781,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230841,
+        "num": 166522,
+        "word": "爱泼斯坦案穿水手服跪地女孩未成年",
+        "onboard_time": 1770122902,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 162427,
+        "num": 162427,
+        "word": "空姐月工资收入",
+        "onboard_time": 1770115220,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137826,
+        "num": 137826,
+        "word": "辛辛苦苦上班吃这种饭真的感觉天塌了",
+        "onboard_time": 1770124401,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 153474,
+        "num": 137521,
+        "word": "爱泼斯坦",
+        "onboard_time": 1770085999,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 134787,
+        "num": 134787,
+        "word": "龚俊台词",
+        "onboard_time": 1770125299,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122360,
+        "num": 122360,
+        "word": "春晚留住我的手段又升级了",
+        "onboard_time": 1770124822,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114051,
+        "num": 114051,
+        "word": "美国女子曝幼年被母亲喂食人肉",
+        "onboard_time": 1770117141,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 115829,
+        "num": 113976,
+        "word": "郑恺回应鹿晗粉丝",
+        "onboard_time": 1770101180,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111247,
+        "num": 111247,
+        "word": "周生生官方回应",
+        "onboard_time": 1770122062,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109348,
+        "num": 109348,
+        "word": "穆祉丞高会更新",
+        "onboard_time": 1770124581,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108043,
+        "num": 108043,
+        "word": "特朗普称有问题的是比尔盖茨那些人",
+        "onboard_time": 1770124941,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 95161,
+        "num": 95161,
+        "word": "农村大棚办婚礼",
+        "onboard_time": 1770116301,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 92955,
+        "num": 92955,
+        "word": "生命树第9集乱成一锅粥",
+        "onboard_time": 1770125362,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88292,
+        "num": 88292,
+        "word": "李现真的做到了又红又自由",
+        "onboard_time": 1770125841,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86469,
+        "num": 86469,
+        "word": "低情商才是永远的必杀技",
+        "onboard_time": 1770116841,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 83866,
+        "num": 83866,
+        "word": "胡歌欢迎马思纯",
+        "onboard_time": 1770125181,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82708,
+        "num": 82708,
+        "word": "女团成员为保持身材吃一周冰块",
+        "onboard_time": 1770119599,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80791,
+        "num": 80791,
+        "word": "Uzi礼物收满了",
+        "onboard_time": 1770125841,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 79868,
+        "num": 79868,
+        "word": "什么零食一出现就知道快过年了",
+        "onboard_time": 1770126021,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 76656,
+        "num": 76656,
+        "word": "郑恺的情商",
+        "onboard_time": 1770110060,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63731,
+        "num": 74713,
+        "word": "整治农村高额彩礼今年有新要求",
+        "onboard_time": 1770120022,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74256,
+        "num": 74256,
+        "word": "仓又嘉措",
+        "onboard_time": 1770118701,
+        "rank": 48,
+        "category": "幽默,财经"
+      },
+      {
+        "raw_hot": 73139,
+        "num": 73139,
+        "word": "穆祉丞cos铠甲勇士路透",
+        "onboard_time": 1770117200,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同乌拉圭总统奥尔西会谈#"
+    }
+  }
+}

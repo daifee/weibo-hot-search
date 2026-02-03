@@ -1,6 +1,6 @@
 {
   "startTime": 1770051170355,
-  "endTime": 1770124594895,
+  "endTime": 1770126153138,
   "band_list": [
     {
       "raw_hot": 1714835,
@@ -83,8 +83,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1021430,
+      "num": 1163428,
+      "word": "吃娃娃菜中毒夫妻均被刑拘",
+      "onboard_time": 1770118821,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1017087,
-      "num": 157468,
+      "num": 171736,
       "word": "任宥纶这是官宣吗",
       "onboard_time": 1770119721,
       "rank": 34,
@@ -163,14 +171,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 823085,
-      "num": 1131693,
-      "word": "吃娃娃菜中毒夫妻均被刑拘",
-      "onboard_time": 1770118821,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 813425,
       "num": 1130148,
       "word": "李微微受贿超1.17亿",
@@ -203,7 +203,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 630262,
+      "raw_hot": 658441,
       "num": 394856,
       "word": "男子强奸嫂嫂又杀见义勇为者被判死刑",
       "onboard_time": 1770117381,
@@ -243,8 +243,24 @@
       "category": "财经"
     },
     {
+      "raw_hot": 568910,
+      "num": 174361,
+      "word": "教师与副校长聚餐酒后坠亡",
+      "onboard_time": 1770124281,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 555760,
+      "num": 854535,
+      "word": "原来花千骨当时那么惨",
+      "onboard_time": 1770121222,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 536112,
-      "num": 168911,
+      "num": 172900,
       "word": "直播现女患者隐私部位2人被处理",
       "onboard_time": 1770121640,
       "rank": 11,
@@ -289,14 +305,6 @@
       "onboard_time": 1770097041,
       "rank": 6,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 507548,
-      "num": 806915,
-      "word": "原来花千骨当时那么惨",
-      "onboard_time": 1770121222,
-      "rank": 1,
-      "category": "剧集"
     },
     {
       "raw_hot": 505857,
@@ -396,7 +404,7 @@
     },
     {
       "raw_hot": 436590,
-      "num": 168693,
+      "num": 172083,
       "word": "美方回应爱泼斯坦案中女孩穿水手服跪地",
       "onboard_time": 1770118340,
       "rank": 32,
@@ -452,7 +460,7 @@
     },
     {
       "raw_hot": 374853,
-      "num": 168222,
+      "num": 172510,
       "word": "演员马如龙49岁儿子在家去世",
       "onboard_time": 1770121100,
       "rank": 14,
@@ -523,12 +531,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 332499,
+      "num": 169510,
+      "word": "张柏芝18岁大儿子身高",
+      "onboard_time": 1770122781,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 332486,
       "num": 332486,
       "word": "全网最惨星星人",
       "onboard_time": 1770090920,
       "rank": 8,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 330464,
+      "num": 330464,
+      "word": "网剧炽热吸引",
+      "onboard_time": 1770122601,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 330429,
@@ -643,6 +667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 291022,
+      "num": 291022,
+      "word": "周生生晒检测报告",
+      "onboard_time": 1770124521,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 285553,
       "num": 980132,
       "word": "中方要求美方立即停止错误行径",
@@ -700,7 +732,7 @@
     },
     {
       "raw_hot": 268007,
-      "num": 162857,
+      "num": 171990,
       "word": "时代少年团还回来当爱豆吗",
       "onboard_time": 1770119841,
       "rank": 40,
@@ -777,6 +809,14 @@
       "onboard_time": 1770094581,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 230841,
+      "num": 166522,
+      "word": "爱泼斯坦案穿水手服跪地女孩未成年",
+      "onboard_time": 1770122902,
+      "rank": 47,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 228462,
@@ -875,14 +915,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 199167,
-      "num": 199167,
-      "word": "网剧炽热吸引",
-      "onboard_time": 1770122601,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 198757,
       "num": 198757,
       "word": "高三女生睡眠不足5小时吹风致面瘫",
@@ -955,20 +987,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 176004,
+      "num": 176004,
+      "word": "生命树",
+      "onboard_time": 1770032722,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 175303,
       "num": 175303,
       "word": "整治农村高额彩礼今年有新要求",
       "onboard_time": 1770120022,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 174267,
-      "num": 174267,
-      "word": "生命树",
-      "onboard_time": 1770032722,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 173064,
@@ -993,6 +1025,14 @@
       "onboard_time": 1770080839,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 170931,
+      "num": 170931,
+      "word": "喵娲娲 微博之夜送票永动机",
+      "onboard_time": 1770125181,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 169399,
@@ -1025,14 +1065,6 @@
       "onboard_time": 1770082880,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 158470,
-      "num": 156513,
-      "word": "张柏芝18岁大儿子身高",
-      "onboard_time": 1770122781,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 157840,
@@ -1131,6 +1163,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 137826,
+      "num": 137826,
+      "word": "辛辛苦苦上班吃这种饭真的感觉天塌了",
+      "onboard_time": 1770124401,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 137325,
       "num": 137325,
       "word": "萨摩耶主人要求孩子家长道歉",
@@ -1161,6 +1201,14 @@
       "onboard_time": 1770098720,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 134787,
+      "num": 134787,
+      "word": "龚俊台词",
+      "onboard_time": 1770125299,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 132306,
@@ -1280,6 +1328,14 @@
       "word": "穆祉丞cos铠甲勇士路透",
       "onboard_time": 1770117200,
       "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 122360,
+      "num": 122360,
+      "word": "春晚留住我的手段又升级了",
+      "onboard_time": 1770124822,
+      "rank": 32,
       "category": "综艺"
     },
     {
@@ -1443,14 +1499,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 112777,
-      "num": 112777,
-      "word": "辛辛苦苦上班吃这种饭真的感觉天塌了",
-      "onboard_time": 1770124401,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 112235,
       "num": 112235,
       "word": "生命树第10集广东人坐主桌",
@@ -1499,12 +1547,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 109348,
+      "num": 109348,
+      "word": "穆祉丞高会更新",
+      "onboard_time": 1770124581,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 108918,
       "num": 108918,
       "word": "精神病医院让病人替护工干活",
       "onboard_time": 1770111980,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108043,
+      "num": 108043,
+      "word": "特朗普称有问题的是比尔盖茨那些人",
+      "onboard_time": 1770124941,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 107908,
@@ -1883,6 +1947,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 92955,
+      "num": 92955,
+      "word": "生命树第9集乱成一锅粥",
+      "onboard_time": 1770125362,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 92273,
       "num": 186002,
       "word": "田永明故意杀人被判死刑",
@@ -1937,6 +2009,14 @@
       "onboard_time": 1770101959,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 88292,
+      "num": 88292,
+      "word": "李现真的做到了又红又自由",
+      "onboard_time": 1770125841,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 88205,
@@ -2027,6 +2107,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 85758,
+      "num": 171214,
+      "word": "吃娃娃菜中毒夫妻意图骗取巨额赔偿",
+      "onboard_time": 1770125841,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85464,
       "num": 85464,
       "word": "淘汰下来的被子都垫你床上了",
@@ -2081,6 +2169,14 @@
       "onboard_time": 1770119541,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 83866,
+      "num": 83866,
+      "word": "胡歌欢迎马思纯",
+      "onboard_time": 1770125181,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 83861,
@@ -2155,12 +2251,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 80791,
+      "num": 80791,
+      "word": "Uzi礼物收满了",
+      "onboard_time": 1770125841,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 80607,
       "num": 80607,
       "word": "白银有色再度公告",
       "onboard_time": 1770113301,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 79868,
+      "num": 79868,
+      "word": "什么零食一出现就知道快过年了",
+      "onboard_time": 1770126021,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 79780,
@@ -2211,14 +2323,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 77836,
-      "num": 77836,
-      "word": "爱泼斯坦案穿水手服跪地女孩未成年",
-      "onboard_time": 1770122902,
-      "rank": 47,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 77269,
       "num": 77269,
       "word": "随餐吃饺子vs饭后吃饺子",
@@ -2231,14 +2335,6 @@
       "num": 76979,
       "word": "意外烧死萨摩耶两男孩已被批评教育",
       "onboard_time": 1770088762,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 76947,
-      "num": 76947,
-      "word": "周生生晒检测报告",
-      "onboard_time": 1770124521,
       "rank": 48,
       "category": "民生新闻"
     },
@@ -2313,14 +2409,6 @@
       "onboard_time": 1770039742,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 71138,
-      "num": 157915,
-      "word": "教师与副校长聚餐酒后坠亡",
-      "onboard_time": 1770124281,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 70987,
@@ -2811,6 +2899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 23023,
+      "num": 659921,
+      "word": "学生优惠火车票购票攻略来了",
+      "onboard_time": 1770124281,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22052,
       "num": 40774,
       "word": "狗头萝莉回应前男友才是受害者",
@@ -2915,11 +3011,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 12217,
-      "num": 659921,
-      "word": "学生优惠火车票购票攻略来了",
-      "onboard_time": 1770124281,
-      "rank": 2,
+      "raw_hot": 12139,
+      "num": 173474,
+      "word": "严查严惩食品非法添加",
+      "onboard_time": 1770125782,
+      "rank": 13,
       "category": "民生新闻"
     }
   ],
