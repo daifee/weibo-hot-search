@@ -1,6 +1,6 @@
 {
   "startTime": 1770051170355,
-  "endTime": 1770109575131,
+  "endTime": 1770112447099,
   "band_list": [
     {
       "raw_hot": 1714835,
@@ -67,6 +67,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 985923,
+      "num": 234423,
+      "word": "儿子劝父亲卖出45公斤白银躲过暴跌",
+      "onboard_time": 1770108020,
+      "rank": 8,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 900582,
       "num": 271707,
       "word": "挪威王储妃与爱泼斯坦暧昧邮件曝光",
@@ -91,20 +99,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 858887,
-      "num": 234423,
-      "word": "儿子劝父亲卖出45公斤白银躲过暴跌",
-      "onboard_time": 1770108020,
-      "rank": 8,
-      "category": "民生新闻,财经"
-    },
-    {
       "raw_hot": 846460,
       "num": 1135433,
       "word": "江苏盐城大桥塌落致5人死亡",
       "onboard_time": 1770091221,
       "rank": 0,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 841873,
+      "num": 164069,
+      "word": "郑恺的情商",
+      "onboard_time": 1770110060,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 762332,
@@ -187,6 +195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 500528,
+      "num": 1080084,
+      "word": "樊振东王楚钦获得伦敦世乒赛资格",
+      "onboard_time": 1770109038,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 498183,
       "num": 235652,
       "word": "俄媒曝光爱泼斯坦诡异视频",
@@ -195,12 +211,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 486693,
+      "num": 788407,
+      "word": "阿嬷手作螺蛳粉一碗55元起",
+      "onboard_time": 1770107481,
+      "rank": 17,
+      "category": "民生新闻,美食"
+    },
+    {
       "raw_hot": 481976,
-      "num": 198891,
+      "num": 223369,
       "word": "爱泼斯坦被曝15年前秘密生子",
       "onboard_time": 1770105622,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 473727,
+      "num": 473727,
+      "word": "12306回应用前任身份证订票再取消",
+      "onboard_time": 1770108681,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 467406,
@@ -225,6 +257,14 @@
       "onboard_time": 1770047001,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 456661,
+      "num": 456661,
+      "word": "女子连续十年买黄金说政治课教过",
+      "onboard_time": 1770110420,
+      "rank": 4,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 452045,
@@ -267,12 +307,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 408108,
+      "num": 408108,
+      "word": "王楚然工作室AI剧宣",
+      "onboard_time": 1770106460,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 405981,
       "num": 262365,
       "word": "王一博素颜界最严厉的父亲",
       "onboard_time": 1770090561,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 405736,
+      "num": 234420,
+      "word": "爱泼斯坦案中一女孩穿水手服跪地",
+      "onboard_time": 1770111440,
+      "rank": 10,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 390430,
@@ -321,14 +377,6 @@
       "onboard_time": 1770043701,
       "rank": 13,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 354716,
-      "num": 354716,
-      "word": "王楚然工作室AI剧宣",
-      "onboard_time": 1770106460,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 348938,
@@ -451,6 +499,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 292500,
+      "num": 292500,
+      "word": "警方辟谣夫妻网购娃娃菜中毒系丈夫下毒",
+      "onboard_time": 1770108081,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 285553,
       "num": 980132,
       "word": "中方要求美方立即停止错误行径",
@@ -521,14 +577,6 @@
       "onboard_time": 1770085100,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 245360,
-      "num": 245360,
-      "word": "阿嬷手作螺蛳粉一碗55元起",
-      "onboard_time": 1770107481,
-      "rank": 17,
-      "category": "民生新闻,美食"
     },
     {
       "raw_hot": 244741,
@@ -643,6 +691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 198406,
+      "num": 198406,
+      "word": "白银暴涨10%",
+      "onboard_time": 1770106761,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 196773,
       "num": 196773,
       "word": "生命树官配",
@@ -651,12 +707,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 192327,
-      "num": 192327,
-      "word": "白银暴涨10%",
-      "onboard_time": 1770106761,
-      "rank": 28,
-      "category": "财经"
+      "raw_hot": 194421,
+      "num": 194421,
+      "word": "设计一半才想起来是马年",
+      "onboard_time": 1770106580,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 192207,
@@ -688,6 +744,14 @@
       "word": "两男孩玩火烧死萨摩耶狗主人发声",
       "onboard_time": 1770029061,
       "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 179820,
+      "num": 240402,
+      "word": "大连交通事故已致5死",
+      "onboard_time": 1770111680,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -747,27 +811,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 162547,
-      "num": 162547,
-      "word": "樊振东王楚钦获得伦敦世乒赛资格",
-      "onboard_time": 1770109038,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 161973,
       "num": 161973,
       "word": "精神病医院惩罚病人最久绑3天3夜",
       "onboard_time": 1770082880,
       "rank": 22,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 159920,
-      "num": 195785,
-      "word": "警方辟谣夫妻网购娃娃菜中毒系丈夫下毒",
-      "onboard_time": 1770108081,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -793,14 +841,6 @@
       "onboard_time": 1770040223,
       "rank": 16,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 154221,
-      "num": 154221,
-      "word": "设计一半才想起来是马年",
-      "onboard_time": 1770106580,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 151168,
@@ -849,6 +889,14 @@
       "onboard_time": 1770105382,
       "rank": 26,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 142046,
+      "num": 130397,
+      "word": "尚公主杀青聚餐",
+      "onboard_time": 1770110660,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 141946,
@@ -1067,6 +1115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 118518,
+      "num": 118518,
+      "word": "萨摩耶主人要求孩子家长道歉",
+      "onboard_time": 1770110600,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116866,
       "num": 116866,
       "word": "村医让儿媳给患者注射头孢致其死亡",
@@ -1105,6 +1161,14 @@
       "onboard_time": 1770100460,
       "rank": 27,
       "category": "美食"
+    },
+    {
+      "raw_hot": 112955,
+      "num": 112955,
+      "word": "以为自己很抗打直到化了泰妆",
+      "onboard_time": 1770110060,
+      "rank": 31,
+      "category": "美妆"
     },
     {
       "raw_hot": 112235,
@@ -1179,12 +1243,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 105322,
-      "num": 162779,
-      "word": "12306回应用前任身份证订票再取消",
-      "onboard_time": 1770108681,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 105266,
+      "num": 105266,
+      "word": "李微微一审被判无期",
+      "onboard_time": 1770111560,
+      "rank": 32,
+      "category": "国内时政"
     },
     {
       "raw_hot": 105127,
@@ -1291,6 +1355,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 99850,
+      "num": 99850,
+      "word": "李微漪证实狼王格林已自然老去",
+      "onboard_time": 1770110660,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 98916,
+      "num": 98916,
+      "word": "快递停运焦虑症",
+      "onboard_time": 1770109521,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 98786,
+      "num": 98786,
+      "word": "闺蜜你真的不考虑下我哥吗",
+      "onboard_time": 1770111200,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 98441,
       "num": 98441,
       "word": "父母退99999元彩礼还给了6万元陪嫁",
@@ -1379,6 +1467,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 93536,
+      "num": 93536,
+      "word": "藏海传制片人谈肖战选角",
+      "onboard_time": 1770111082,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 93480,
       "num": 93480,
       "word": "C罗可能重返欧洲或前往美职联",
@@ -1409,14 +1505,6 @@
       "onboard_time": 1770109102,
       "rank": 48,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 90840,
-      "num": 90840,
-      "word": "快递停运焦虑症",
-      "onboard_time": 1770109521,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 89295,
@@ -1475,6 +1563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 87225,
+      "num": 87225,
+      "word": "自带防癌属性的常见食物",
+      "onboard_time": 1770110779,
+      "rank": 41,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 86757,
       "num": 86757,
       "word": "炽热吸引",
@@ -1531,6 +1627,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 84938,
+      "num": 93595,
+      "word": "华纳副总裁评价王一博探索新境",
+      "onboard_time": 1770112281,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 84915,
+      "num": 84915,
+      "word": "樊振东直接入选伦敦世乒赛名单",
+      "onboard_time": 1770112341,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 84652,
       "num": 84652,
       "word": "零跑董事长回应年会被吐槽",
@@ -1547,6 +1659,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 84022,
+      "num": 84022,
+      "word": "精神病医院让病人替护工干活",
+      "onboard_time": 1770111980,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83861,
       "num": 83861,
       "word": "普京曾说西方精英惯食人肉",
@@ -1561,6 +1681,14 @@
       "onboard_time": 1770075378,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 83172,
+      "num": 83172,
+      "word": "婴儿喝酒10克就能夺命",
+      "onboard_time": 1770112162,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 83044,
@@ -1585,6 +1713,14 @@
       "onboard_time": 1770100160,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 82286,
+      "num": 82286,
+      "word": "胡先煦睡觉吓到空姐",
+      "onboard_time": 1770112400,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 82198,
@@ -1772,7 +1908,7 @@
     },
     {
       "raw_hot": 62567,
-      "num": 131992,
+      "num": 173368,
       "word": "飞坡测试戳破豪华SUV滤镜",
       "onboard_time": 1770109401,
       "rank": 31,
@@ -2059,6 +2195,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 34777,
+      "num": 94015,
+      "word": "白日提灯改回原著名了",
+      "onboard_time": 1770112281,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 33059,
       "num": 90190,
       "word": "强奸犯出狱再杀人获死刑后仍叫嚣",
@@ -2148,7 +2292,7 @@
     },
     {
       "raw_hot": 21307,
-      "num": 623438,
+      "num": 638310,
       "word": "2026春运安全出行指南",
       "onboard_time": 1770105862,
       "rank": 2,
@@ -2184,6 +2328,14 @@
       "word": "2026春运奔赴团圆路",
       "onboard_time": 1770037222,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16521,
+      "num": 93537,
+      "word": "路虎司机撞飞持刀男子获见义勇为",
+      "onboard_time": 1770111322,
+      "rank": 39,
       "category": "民生新闻"
     }
   ],
