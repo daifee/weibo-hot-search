@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1770139747605,
+  "endTime": 1770141746503,
   "band_list": [
     {
       "raw_hot": 4038416,
@@ -7203,6 +7203,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 68606,
+      "num": 68606,
+      "word": "章若楠进组你那儿几点",
+      "onboard_time": 1770137118,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 68566,
       "num": 68566,
       "word": "男子被AI诊断梅毒医生否认却不信",
@@ -7361,14 +7369,6 @@
       "onboard_time": 1769864303,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 63573,
-      "num": 63573,
-      "word": "章若楠进组你那儿几点",
-      "onboard_time": 1770137118,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 63480,
@@ -8163,6 +8163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34830,
+      "num": 34830,
+      "word": "阿嬷手作螺蛳粉店员称不要期望过高",
+      "onboard_time": 1770139877,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34736,
       "num": 144895,
       "word": "百余人参加所谓公益助学被骗上千万",
@@ -8177,6 +8185,14 @@
       "onboard_time": 1770022820,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34559,
+      "num": 34559,
+      "word": "时团成员包场最受年轻人喜爱明星TOP5",
+      "onboard_time": 1770140057,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 34488,
@@ -8371,6 +8387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29335,
+      "num": 29335,
+      "word": "王牌对王牌",
+      "onboard_time": 1770139457,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 29306,
       "num": 180760,
       "word": "周瑜开了家猪葛亮食品店",
@@ -8561,6 +8585,14 @@
       "onboard_time": 1770013823,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 21964,
+      "num": 21964,
+      "word": "江衡李沛恩雪景合照",
+      "onboard_time": 1770141075,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 21701,
