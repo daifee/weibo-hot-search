@@ -1,0 +1,410 @@
+{
+  "runTime": 1770102174741,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 491267,
+        "num": 1078602,
+        "word": "新版熔炉事件让韩国社会炸锅",
+        "onboard_time": 1770092960,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 351481,
+        "num": 804420,
+        "word": "大哥请假十几天提前回家过年",
+        "onboard_time": 1770097041,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24984,
+        "num": 614482,
+        "word": "2026年新春走基层",
+        "onboard_time": 1770093801,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1040606,
+        "num": 604503,
+        "word": "灵隐寺对38万爽约者出手了",
+        "onboard_time": 1770099801,
+        "rank": 3,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 821721,
+        "num": 594008,
+        "word": "夫妻网购娃娃菜食用中毒系丈夫下毒",
+        "onboard_time": 1770096920,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 327053,
+        "num": 327053,
+        "word": "女子网购羽绒服有孝字臂章恶心坏了",
+        "onboard_time": 1770094823,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 279096,
+        "num": 279096,
+        "word": "喝点粉色的液体",
+        "onboard_time": 1770098720,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 257415,
+        "num": 257415,
+        "word": "周生生情况通报",
+        "onboard_time": 1770094641,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199686,
+        "num": 199686,
+        "word": "准备随母姓后外婆起名起爽了",
+        "onboard_time": 1770092901,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 192147,
+        "num": 192147,
+        "word": "男子强奸出狱后又杀人被判死刑",
+        "onboard_time": 1770089540,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 861695,
+        "num": 191973,
+        "word": "男童点火烧死萨摩耶家属发声",
+        "onboard_time": 1770097640,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 840560,
+        "num": 190122,
+        "word": "郑恺回应鹿晗粉丝",
+        "onboard_time": 1770101180,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 512645,
+        "num": 189563,
+        "word": "金宣虎或被判刑",
+        "onboard_time": 1770089841,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 432466,
+        "num": 188121,
+        "word": "医院直播被指暴露女患者隐私部位",
+        "onboard_time": 1770091581,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 252497,
+        "num": 186194,
+        "word": "爱泼斯坦",
+        "onboard_time": 1770085999,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 185822,
+        "num": 185822,
+        "word": "小英辣妹妆",
+        "onboard_time": 1770097280,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 167833,
+        "num": 167833,
+        "word": "张凌赫手里的刀一米六",
+        "onboard_time": 1770099259,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171087,
+        "num": 165287,
+        "word": "马斯克女儿爆料",
+        "onboard_time": 1770073636,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 39659,
+        "num": 154778,
+        "word": "原神真正的白马仙人",
+        "onboard_time": 1770100460,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 153196,
+        "num": 153196,
+        "word": "秦海璐 热巴偏我来时不逢春",
+        "onboard_time": 1770100760,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 295599,
+        "num": 146741,
+        "word": "金饰价格涨到1542元",
+        "onboard_time": 1770084619,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 263159,
+        "num": 142597,
+        "word": "萝莉岛",
+        "onboard_time": 1770087560,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 192463,
+        "num": 136908,
+        "word": "杨紫失焦眼神戏",
+        "onboard_time": 1770090561,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154741,
+        "num": 128714,
+        "word": "一米九的柯淳和他一米六的保镖",
+        "onboard_time": 1770096619,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127374,
+        "num": 127374,
+        "word": "警方回应夫妻网购娃娃菜食用中毒",
+        "onboard_time": 1770098720,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148868,
+        "num": 127287,
+        "word": "王一博素颜界最严厉的父亲",
+        "onboard_time": 1770090561,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148244,
+        "num": 127136,
+        "word": "偶遇鸠摩智买车",
+        "onboard_time": 1770097401,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113476,
+        "num": 126962,
+        "word": "用披萨蛋糕打开我新的一岁",
+        "onboard_time": 1770100460,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 126801,
+        "num": 126801,
+        "word": "俄媒曝光爱泼斯坦诡异视频",
+        "onboard_time": 1770084439,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 123285,
+        "num": 123285,
+        "word": "王安宇收了一箱粉丝的信",
+        "onboard_time": 1770099979,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119866,
+        "num": 119866,
+        "word": "孟子义尚公主杀青文",
+        "onboard_time": 1770089421,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116866,
+        "num": 116866,
+        "word": "村医让儿媳给患者注射头孢致其死亡",
+        "onboard_time": 1770098420,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116516,
+        "num": 116516,
+        "word": "儿子车祸父母以为诈骗迟迟未到场",
+        "onboard_time": 1770101300,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115722,
+        "num": 115722,
+        "word": "寒武纪",
+        "onboard_time": 1770087320,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 114621,
+        "num": 114621,
+        "word": "金银价格又反转",
+        "onboard_time": 1770096260,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 102205,
+        "num": 102205,
+        "word": "哈登将离开快船",
+        "onboard_time": 1770094581,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93547,
+        "num": 93547,
+        "word": "叶祖新 我怕你们又说我暧昧",
+        "onboard_time": 1770101000,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24450,
+        "num": 92839,
+        "word": "钱弘俶一觉醒来上中原榜一了",
+        "onboard_time": 1770101959,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15536,
+        "num": 92589,
+        "word": "女子说好像被催眠连做5项整形",
+        "onboard_time": 1770102021,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45090,
+        "num": 92541,
+        "word": "父母退99999元彩礼还给了6万元陪嫁",
+        "onboard_time": 1770101300,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92525,
+        "num": 92525,
+        "word": "广西女子10元彩票中奖667万",
+        "onboard_time": 1770101420,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88583,
+        "num": 88583,
+        "word": "英国前驻美大使与爱泼斯坦视频曝光",
+        "onboard_time": 1770097881,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 88520,
+        "num": 88520,
+        "word": "王赫野把蹦床踩塌了",
+        "onboard_time": 1770101959,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 83764,
+        "num": 83764,
+        "word": "特朗普光速切割爱泼斯坦",
+        "onboard_time": 1770102021,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 83740,
+        "num": 83740,
+        "word": "每个遇到白鹿的人都会痛失艺名",
+        "onboard_time": 1770092781,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82471,
+        "num": 82471,
+        "word": "当今年情人节遇上春节",
+        "onboard_time": 1770100160,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 82198,
+        "num": 82198,
+        "word": "黄金一夜暴涨3%上车还是跑路",
+        "onboard_time": 1770101000,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 81612,
+        "num": 81612,
+        "word": "没有年味的原因找到了",
+        "onboard_time": 1770101839,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 78230,
+        "num": 78230,
+        "word": "芝麻凑分",
+        "onboard_time": 1770050478,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 76176,
+        "num": 76176,
+        "word": "橙色会成为今年配色新宠吗",
+        "onboard_time": 1770101361,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记谈金融强国#"
+    }
+  }
+}
