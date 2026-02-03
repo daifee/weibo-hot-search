@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1770141746503,
+  "endTime": 1770142395511,
   "band_list": [
     {
       "raw_hot": 4038416,
@@ -8163,8 +8163,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 34830,
-      "num": 34830,
+      "raw_hot": 35011,
+      "num": 35011,
       "word": "阿嬷手作螺蛳粉店员称不要期望过高",
       "onboard_time": 1770139877,
       "rank": 24,
@@ -8387,8 +8387,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 29335,
-      "num": 29335,
+      "raw_hot": 29442,
+      "num": 29442,
       "word": "王牌对王牌",
       "onboard_time": 1770139457,
       "rank": 32,
@@ -8673,6 +8673,14 @@
       "onboard_time": 1769869042,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20110,
+      "num": 28892,
+      "word": "檀健次谢却山这一滴泪",
+      "onboard_time": 1770142336,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 19195,

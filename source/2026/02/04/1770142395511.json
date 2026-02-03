@@ -1,0 +1,410 @@
+{
+  "runTime": 1770142395511,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 212790,
+        "num": 236546,
+        "word": "躲春",
+        "onboard_time": 1770126862,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136425,
+        "num": 169009,
+        "word": "吃娃娃菜中毒夫妻最高判刑十年以上",
+        "onboard_time": 1770134182,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15554,
+        "num": 134335,
+        "word": "学生优惠火车票购票攻略来了",
+        "onboard_time": 1770124281,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84762,
+        "num": 84762,
+        "word": "何不同舟渡",
+        "onboard_time": 1770135439,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76590,
+        "num": 76590,
+        "word": "日本公开采集稀土泥全过程",
+        "onboard_time": 1770134240,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 62321,
+        "num": 62321,
+        "word": "国投白银LOF手动抹去跌停板引质疑",
+        "onboard_time": 1770134182,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 62165,
+        "num": 62165,
+        "word": "章若楠进组你那儿几点",
+        "onboard_time": 1770137118,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48334,
+        "num": 48334,
+        "word": "生命树口碑发酵",
+        "onboard_time": 1770131662,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47845,
+        "num": 47845,
+        "word": "原来花千骨当时那么惨",
+        "onboard_time": 1770121222,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39011,
+        "num": 47825,
+        "word": "连跌3日的金银暴力反弹",
+        "onboard_time": 1770132203,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 218716,
+        "num": 47804,
+        "word": "爱泼斯坦案穿水手服跪地女孩未成年",
+        "onboard_time": 1770122902,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 185600,
+        "num": 47772,
+        "word": "孟子义对接把不去微博之夜内容删了",
+        "onboard_time": 1770135200,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 75781,
+        "num": 47755,
+        "word": "胡先煦睡觉吓到空姐",
+        "onboard_time": 1770112400,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53463,
+        "num": 47722,
+        "word": "97岁富商欲再婚次子求判其心智不全",
+        "onboard_time": 1770132621,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 51400,
+        "num": 47707,
+        "word": "爱泼斯坦豪宅内景黑暗又诡异",
+        "onboard_time": 1770117200,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 47695,
+        "num": 47695,
+        "word": "精灵少女官宣解散",
+        "onboard_time": 1770128001,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38397,
+        "num": 38397,
+        "word": "生命树",
+        "onboard_time": 1770120022,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41797,
+        "num": 38084,
+        "word": "爱泼斯坦",
+        "onboard_time": 1770085999,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 37753,
+        "num": 37753,
+        "word": "央行8000亿元买断式逆回购",
+        "onboard_time": 1770129862,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 35934,
+        "num": 35934,
+        "word": "金价波动",
+        "onboard_time": 1770126981,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 197725,
+        "num": 35832,
+        "word": "萝莉岛 恶魔岛",
+        "onboard_time": 1770102981,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 94909,
+        "num": 35679,
+        "word": "经常熬夜的人要少做4件事",
+        "onboard_time": 1770128122,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 68646,
+        "num": 35264,
+        "word": "任宥纶这是官宣吗",
+        "onboard_time": 1770119721,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53021,
+        "num": 35032,
+        "word": "赵雨凡 刷帖子",
+        "onboard_time": 1770130703,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35011,
+        "num": 35011,
+        "word": "阿嬷手作螺蛳粉店员称不要期望过高",
+        "onboard_time": 1770139877,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32571,
+        "num": 32571,
+        "word": "时团成员包场最受年轻人喜爱明星TOP5",
+        "onboard_time": 1770140057,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31378,
+        "num": 31378,
+        "word": "陕西中医药大学附属医院致歉通报",
+        "onboard_time": 1770138917,
+        "rank": 26,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 31205,
+        "num": 31205,
+        "word": "2男孩烧死萨摩耶家长曾提赔1只狗",
+        "onboard_time": 1770131722,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30688,
+        "num": 30688,
+        "word": "AG超玩会桃黑黑",
+        "onboard_time": 1770119181,
+        "rank": 28,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 30568,
+        "num": 30568,
+        "word": "李微微受贿超1.17亿",
+        "onboard_time": 1770113479,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 30452,
+        "num": 30452,
+        "word": "一诺和桃黑黑打王者",
+        "onboard_time": 1770118942,
+        "rank": 30,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 30171,
+        "num": 30171,
+        "word": "夜色正浓",
+        "onboard_time": 1770138677,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29442,
+        "num": 29442,
+        "word": "王牌对王牌",
+        "onboard_time": 1770139457,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29374,
+        "num": 29374,
+        "word": "尚公主",
+        "onboard_time": 1770132980,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28933,
+        "num": 28933,
+        "word": "流量不能凌驾于医疗伦理之上",
+        "onboard_time": 1770138318,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26870,
+        "num": 28931,
+        "word": "特朗普称有问题的是比尔盖茨那些人",
+        "onboard_time": 1770124941,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 26475,
+        "num": 28929,
+        "word": "美国女子曝幼年被母亲喂食人肉",
+        "onboard_time": 1770117141,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 25783,
+        "num": 28926,
+        "word": "左奇函 函奇左",
+        "onboard_time": 1770130402,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25144,
+        "num": 28921,
+        "word": "立春别忘了咬春",
+        "onboard_time": 1770128062,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23729,
+        "num": 28918,
+        "word": "质疑爱泼斯坦被掉包者证实为狱警",
+        "onboard_time": 1770127881,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 23331,
+        "num": 28914,
+        "word": "张柏芝18岁大儿子身高",
+        "onboard_time": 1770122781,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22768,
+        "num": 28911,
+        "word": "马嘉祺晒俄罗斯的日落",
+        "onboard_time": 1770136879,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22696,
+        "num": 28908,
+        "word": "年少有为",
+        "onboard_time": 1770119420,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21880,
+        "num": 28908,
+        "word": "警方通报夫妻网购娃娃菜食用中毒",
+        "onboard_time": 1770129862,
+        "rank": 43,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 21630,
+        "num": 28905,
+        "word": "时代少年团还回来当爱豆吗",
+        "onboard_time": 1770119841,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21424,
+        "num": 28902,
+        "word": "男子强奸嫂嫂又杀见义勇为者被判死刑",
+        "onboard_time": 1770117381,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21412,
+        "num": 28897,
+        "word": "太平年看三集哭三集",
+        "onboard_time": 1770134841,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20945,
+        "num": 28896,
+        "word": "金泰来 乐华",
+        "onboard_time": 1770128001,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20110,
+        "num": 28892,
+        "word": "檀健次谢却山这一滴泪",
+        "onboard_time": 1770142336,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20083,
+        "num": 28890,
+        "word": "龙麦",
+        "onboard_time": 1770128182,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#中乌两国是隔海相望的好邻居好伙伴#"
+    }
+  }
+}
