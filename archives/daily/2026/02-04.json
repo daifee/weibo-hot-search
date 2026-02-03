@@ -1,6 +1,6 @@
 {
   "startTime": 1770135183011,
-  "endTime": 1770152577448,
+  "endTime": 1770155028358,
   "band_list": [
     {
       "raw_hot": 841160,
@@ -587,6 +587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 16241,
+      "num": 17084,
+      "word": "美方回应爱泼斯坦案中女孩穿水手服跪地",
+      "onboard_time": 1770118340,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 15982,
       "num": 18896,
       "word": "宋亚轩随机放宋新春特辑",
@@ -611,28 +619,28 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 15124,
-      "num": 17084,
-      "word": "美方回应爱泼斯坦案中女孩穿水手服跪地",
-      "onboard_time": 1770118340,
-      "rank": 37,
-      "category": "国际时政"
+      "raw_hot": 13141,
+      "num": 14806,
+      "word": "朱一龙怼脸海报",
+      "onboard_time": 1770152534,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 11800,
-      "num": 14565,
+      "num": 14785,
       "word": "黄子弘凡除了快乐禁止入内",
       "onboard_time": 1770151273,
       "rank": 46,
       "category": "演出"
     },
     {
-      "raw_hot": 9924,
-      "num": 13076,
-      "word": "朱一龙怼脸海报",
-      "onboard_time": 1770152534,
-      "rank": 49,
-      "category": "电影"
+      "raw_hot": 10176,
+      "num": 14780,
+      "word": "李沛恩和蓝色好配",
+      "onboard_time": 1770142574,
+      "rank": 48,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [
