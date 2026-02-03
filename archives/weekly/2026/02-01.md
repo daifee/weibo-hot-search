@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/02/01 00:39:22 ~ 2026/02/04 04:47:08
+本榜单时间：2026/02/01 00:39:22 ~ 2026/02/04 05:02:57
 </p>
 </blockquote>
 <p>
@@ -6749,6 +6749,12 @@ CBA（热度：12176）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%9C%A8%E5%9B%AD%E5%8C%BA%E8%A2%AB%E7%BD%9A%E6%8A%B1%E6%B0%B4%E6%A1%B6%E6%B7%B1%E8%B9%B2300%E4%B8%AA%23" target="weibo">
 女子在园区被罚抱水桶深蹲300个（热度：10372）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99%E6%80%BC%E8%84%B8%E6%B5%B7%E6%8A%A5%23" target="weibo">
+朱一龙怼脸海报（热度：9924）
 </a>
 </li>
 

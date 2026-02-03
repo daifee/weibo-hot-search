@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1770151628149,
+  "endTime": 1770152577448,
   "band_list": [
     {
       "raw_hot": 4038416,
@@ -8985,6 +8985,14 @@
       "onboard_time": 1770019221,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9924,
+      "num": 13076,
+      "word": "朱一龙怼脸海报",
+      "onboard_time": 1770152534,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 6035,
