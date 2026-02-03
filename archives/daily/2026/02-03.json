@@ -1,6 +1,6 @@
 {
   "startTime": 1770051170355,
-  "endTime": 1770108576975,
+  "endTime": 1770109575131,
   "band_list": [
     {
       "raw_hot": 1714835,
@@ -89,6 +89,14 @@
       "onboard_time": 1770097640,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 858887,
+      "num": 234423,
+      "word": "儿子劝父亲卖出45公斤白银躲过暴跌",
+      "onboard_time": 1770108020,
+      "rank": 8,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 846460,
@@ -187,6 +195,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 481976,
+      "num": 198891,
+      "word": "爱泼斯坦被曝15年前秘密生子",
+      "onboard_time": 1770105622,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 467406,
       "num": 467406,
       "word": "准备随母姓后外婆起名起爽了",
@@ -201,14 +217,6 @@
       "onboard_time": 1770084439,
       "rank": 0,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 459080,
-      "num": 198891,
-      "word": "爱泼斯坦被曝15年前秘密生子",
-      "onboard_time": 1770105622,
-      "rank": 39,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 457780,
@@ -315,6 +323,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 354716,
+      "num": 354716,
+      "word": "王楚然工作室AI剧宣",
+      "onboard_time": 1770106460,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 348938,
       "num": 348938,
       "word": "孟子义尚公主杀青文",
@@ -379,7 +395,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 320540,
+      "raw_hot": 321851,
       "num": 193786,
       "word": "老人筷子蘸酒喂5月龄宝宝致肝损伤",
       "onboard_time": 1770104600,
@@ -393,6 +409,14 @@
       "onboard_time": 1770094641,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 316793,
+      "num": 192607,
+      "word": "薛之谦祭拜赵英俊",
+      "onboard_time": 1770107541,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 313420,
@@ -483,14 +507,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 260746,
-      "num": 237527,
-      "word": "王楚然工作室AI剧宣",
-      "onboard_time": 1770106460,
-      "rank": 5,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 251115,
       "num": 848902,
       "word": "江苏盐城一座在建桥梁垮塌",
@@ -505,6 +521,14 @@
       "onboard_time": 1770085100,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 245360,
+      "num": 245360,
+      "word": "阿嬷手作螺蛳粉一碗55元起",
+      "onboard_time": 1770107481,
+      "rank": 17,
+      "category": "民生新闻,美食"
     },
     {
       "raw_hot": 244741,
@@ -587,14 +611,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 209544,
-      "num": 192607,
-      "word": "薛之谦祭拜赵英俊",
-      "onboard_time": 1770107541,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 207493,
       "num": 107769,
       "word": "说好不熬 萨摩耶狗主人",
@@ -675,14 +691,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 177074,
-      "num": 200530,
-      "word": "儿子劝父亲卖出45公斤白银躲过暴跌",
-      "onboard_time": 1770108020,
-      "rank": 8,
-      "category": "民生新闻,财经"
-    },
-    {
       "raw_hot": 176616,
       "num": 176616,
       "word": "江苏盐城在建大桥塌落已致2死",
@@ -731,11 +739,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 162027,
+      "raw_hot": 166108,
       "num": 199799,
       "word": "亚洲杯抽签",
       "onboard_time": 1770106580,
       "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 162547,
+      "num": 162547,
+      "word": "樊振东王楚钦获得伦敦世乒赛资格",
+      "onboard_time": 1770109038,
+      "rank": 25,
       "category": "体育"
     },
     {
@@ -744,6 +760,14 @@
       "word": "精神病医院惩罚病人最久绑3天3夜",
       "onboard_time": 1770082880,
       "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 159920,
+      "num": 195785,
+      "word": "警方辟谣夫妻网购娃娃菜中毒系丈夫下毒",
+      "onboard_time": 1770108081,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -785,14 +809,6 @@
       "onboard_time": 1770050958,
       "rank": 47,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 150645,
-      "num": 196470,
-      "word": "阿嬷手作螺蛳粉一碗55元起",
-      "onboard_time": 1770107481,
-      "rank": 17,
-      "category": "民生新闻,美食"
     },
     {
       "raw_hot": 150577,
@@ -875,6 +891,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 131807,
+      "num": 162836,
+      "word": "王一博纪录片包揽纪实人文热榜第一",
+      "onboard_time": 1770109220,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 131108,
       "num": 75487,
       "word": "特朗普怒骂格莱美主持人",
@@ -929,6 +953,14 @@
       "onboard_time": 1770048441,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 123673,
+      "num": 123673,
+      "word": "恋综男嘉宾吃女嘉宾剩饭",
+      "onboard_time": 1770108921,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 123285,
@@ -1147,6 +1179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105322,
+      "num": 162779,
+      "word": "12306回应用前任身份证订票再取消",
+      "onboard_time": 1770108681,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105127,
       "num": 75058,
       "word": "阳台上突然出现六颗小狗头",
@@ -1195,12 +1235,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 101759,
+      "num": 197155,
+      "word": "主人悬赏5千寻狗半月后得知被吃掉",
+      "onboard_time": 1770108020,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101709,
       "num": 101709,
       "word": "星穹铁道4.0千星纪游PV",
       "onboard_time": 1770097640,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 101707,
+      "num": 101707,
+      "word": "宋亚轩2025最受年轻人喜爱明星",
+      "onboard_time": 1770108560,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 101087,
@@ -1345,6 +1401,22 @@
       "onboard_time": 1770088459,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 91278,
+      "num": 91278,
+      "word": "130多人自称是爱泼斯坦私生子女",
+      "onboard_time": 1770109102,
+      "rank": 48,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 90840,
+      "num": 90840,
+      "word": "快递停运焦虑症",
+      "onboard_time": 1770109521,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 89295,
@@ -1619,14 +1691,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 73590,
-      "num": 195785,
-      "word": "警方辟谣夫妻网购娃娃菜中毒系丈夫下毒",
-      "onboard_time": 1770108081,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 72860,
       "num": 72860,
       "word": "穆祉丞 周五晚高疯发布会",
@@ -1705,6 +1769,14 @@
       "onboard_time": 1770031162,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 62567,
+      "num": 131992,
+      "word": "飞坡测试戳破豪华SUV滤镜",
+      "onboard_time": 1770109401,
+      "rank": 31,
+      "category": "汽车"
     },
     {
       "raw_hot": 62231,
@@ -2003,19 +2075,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 32264,
+      "num": 103628,
+      "word": "医院直播疑有隐私部位在线超5万人",
+      "onboard_time": 1770109461,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29306,
       "num": 180760,
       "word": "周瑜开了家猪葛亮食品店",
       "onboard_time": 1770097819,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 25454,
-      "num": 197155,
-      "word": "主人悬赏5千寻狗半月后得知被吃掉",
-      "onboard_time": 1770108020,
-      "rank": 16,
       "category": "民生新闻"
     },
     {
