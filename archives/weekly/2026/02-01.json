@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1770094446680,
+  "endTime": 1770095032583,
   "band_list": [
     {
       "raw_hot": 4038416,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1535986,
-      "num": 263641,
+      "num": 269018,
       "word": "马斯克女儿爆料",
       "onboard_time": 1770073636,
       "rank": 10,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 1340322,
-      "num": 269689,
+      "num": 284630,
       "word": "金宣虎或被判刑",
       "onboard_time": 1770089841,
       "rank": 10,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 1229303,
-      "num": 267481,
+      "num": 276500,
       "word": "医院直播被指暴露女患者隐私部位",
       "onboard_time": 1770091581,
       "rank": 11,
@@ -275,6 +275,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 846460,
+      "num": 1135433,
+      "word": "江苏盐城大桥塌落致5人死亡",
+      "onboard_time": 1770091221,
+      "rank": 0,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 844445,
       "num": 305391,
       "word": "于文文 除了健康什么都不是你的",
@@ -313,14 +321,6 @@
       "onboard_time": 1770022820,
       "rank": 37,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 807538,
-      "num": 1129206,
-      "word": "江苏盐城大桥塌落致5人死亡",
-      "onboard_time": 1770091221,
-      "rank": 0,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 781504,
@@ -572,7 +572,7 @@
     },
     {
       "raw_hot": 573810,
-      "num": 206378,
+      "num": 231740,
       "word": "寒武纪",
       "onboard_time": 1770087320,
       "rank": 11,
@@ -617,6 +617,14 @@
       "onboard_time": 1769919140,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 552956,
+      "num": 828803,
+      "word": "新版熔炉事件让韩国社会炸锅",
+      "onboard_time": 1770092960,
+      "rank": 6,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 551629,
@@ -740,7 +748,7 @@
     },
     {
       "raw_hot": 498183,
-      "num": 206128,
+      "num": 235652,
       "word": "俄媒曝光爱泼斯坦诡异视频",
       "onboard_time": 1770084439,
       "rank": 13,
@@ -857,6 +865,14 @@
       "onboard_time": 1770085040,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 451502,
+      "num": 411757,
+      "word": "杨紫失焦眼神戏",
+      "onboard_time": 1770090561,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 450164,
@@ -993,14 +1009,6 @@
       "onboard_time": 1769946742,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 411757,
-      "num": 411757,
-      "word": "杨紫失焦眼神戏",
-      "onboard_time": 1770090561,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 411362,
@@ -1203,6 +1211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 348938,
+      "num": 348938,
+      "word": "孟子义尚公主杀青文",
+      "onboard_time": 1770089421,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 345930,
       "num": 611887,
       "word": "中国最新富豪榜出炉",
@@ -1211,12 +1227,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 344384,
-      "num": 337064,
-      "word": "孟子义尚公主杀青文",
-      "onboard_time": 1770089421,
-      "rank": 5,
-      "category": "剧集"
+      "raw_hot": 343039,
+      "num": 333112,
+      "word": "准备随母姓后外婆起名起爽了",
+      "onboard_time": 1770092901,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 342506,
@@ -1291,20 +1307,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 333171,
+      "num": 333171,
+      "word": "男子强奸出狱后又杀人被判死刑",
+      "onboard_time": 1770089540,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 332486,
+      "num": 332486,
+      "word": "全网最惨星星人",
+      "onboard_time": 1770090920,
+      "rank": 8,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 331341,
       "num": 763034,
       "word": "韩国股市大跌触发熔断",
       "onboard_time": 1770019341,
       "rank": 48,
       "category": "财经"
-    },
-    {
-      "raw_hot": 330380,
-      "num": 330380,
-      "word": "新版熔炉事件让韩国社会炸锅",
-      "onboard_time": 1770092960,
-      "rank": 6,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 330142,
@@ -1329,14 +1353,6 @@
       "onboard_time": 1770008421,
       "rank": 41,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 326759,
-      "num": 326759,
-      "word": "男子强奸出狱后又杀人被判死刑",
-      "onboard_time": 1770089540,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 325831,
@@ -1369,14 +1385,6 @@
       "onboard_time": 1770001640,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 321523,
-      "num": 321523,
-      "word": "全网最惨星星人",
-      "onboard_time": 1770090920,
-      "rank": 8,
-      "category": "休闲"
     },
     {
       "raw_hot": 321064,
@@ -1891,6 +1899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 235656,
+      "num": 235656,
+      "word": "2026网络视听盛典阵容官宣",
+      "onboard_time": 1770094342,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 235208,
       "num": 336211,
       "word": "卤味三巨头半年闭店超5300家",
@@ -1913,6 +1929,14 @@
       "onboard_time": 1769922799,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 233731,
+      "num": 233731,
+      "word": "哈登将离开快船",
+      "onboard_time": 1770094581,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 231674,
@@ -1969,14 +1993,6 @@
       "onboard_time": 1770025461,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 224997,
-      "num": 142552,
-      "word": "准备随母姓后外婆起名起爽了",
-      "onboard_time": 1770092901,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 224453,
@@ -2131,6 +2147,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 199577,
+      "num": 199577,
+      "word": "惠英红黄渤杨幂王一博开屏",
+      "onboard_time": 1770092601,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 198757,
       "num": 230529,
       "word": "高三女生睡眠不足5小时吹风致面瘫",
@@ -2169,14 +2193,6 @@
       "onboard_time": 1770083539,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 196234,
-      "num": 196234,
-      "word": "惠英红黄渤杨幂王一博开屏",
-      "onboard_time": 1770092601,
-      "rank": 24,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 196227,
@@ -2515,6 +2531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 167260,
+      "num": 156384,
+      "word": "黄婷婷首部悬疑女主戏",
+      "onboard_time": 1770093922,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 165382,
       "num": 150006,
       "word": "黄子韬 你要退圈啊",
@@ -2835,6 +2859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141946,
+      "num": 141946,
+      "word": "太平年 江浙沪独宠女具象化了",
+      "onboard_time": 1770094461,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 141640,
       "num": 141640,
       "word": "生产螺母被认定枪支散件老板获刑",
@@ -3065,14 +3097,6 @@
       "onboard_time": 1770024861,
       "rank": 32,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 133041,
-      "num": 133041,
-      "word": "黄婷婷首部悬疑女主戏",
-      "onboard_time": 1770093922,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 132806,
@@ -3403,12 +3427,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121867,
+      "num": 121867,
+      "word": "天津盘发",
+      "onboard_time": 1770094042,
+      "rank": 38,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 121822,
       "num": 121822,
       "word": "烤鸡少年称不会真的买迈巴赫",
       "onboard_time": 1769920940,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 121707,
+      "num": 121707,
+      "word": "过年回不了家的正确打开方式",
+      "onboard_time": 1770094342,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 121698,
@@ -3531,6 +3571,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 119042,
+      "num": 119042,
+      "word": "曝快船骑士讨论哈登换加兰",
+      "onboard_time": 1770094521,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 118929,
       "num": 118929,
       "word": "5个人喝完奶茶陆续出现不适",
@@ -3641,14 +3689,6 @@
       "onboard_time": 1770030803,
       "rank": 46,
       "category": "电影"
-    },
-    {
-      "raw_hot": 115460,
-      "num": 115460,
-      "word": "天津盘发",
-      "onboard_time": 1770094042,
-      "rank": 38,
-      "category": "美妆"
     },
     {
       "raw_hot": 115019,
@@ -3779,6 +3819,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 111133,
+      "num": 111133,
+      "word": "周生生情况通报",
+      "onboard_time": 1770094641,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111116,
       "num": 197191,
       "word": "腾讯内部信回应元宝春节红包分享质疑",
@@ -3809,6 +3857,14 @@
       "onboard_time": 1769868803,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 110426,
+      "num": 110426,
+      "word": "第五人格 虚妄",
+      "onboard_time": 1770092960,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 110169,
@@ -3897,14 +3953,6 @@
       "onboard_time": 1770074958,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 109198,
-      "num": 109198,
-      "word": "过年回不了家的正确打开方式",
-      "onboard_time": 1770094342,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 109076,
@@ -4011,6 +4059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 106589,
+      "num": 204500,
+      "word": "祝绪丹穆祉丞兔塑姐弟",
+      "onboard_time": 1770093381,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 106546,
       "num": 106546,
       "word": "这还是我认识的土拨鼠吗",
@@ -4073,14 +4129,6 @@
       "onboard_time": 1769994140,
       "rank": 33,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 105335,
-      "num": 105335,
-      "word": "第五人格 虚妄",
-      "onboard_time": 1770092960,
-      "rank": 41,
-      "category": "游戏"
     },
     {
       "raw_hot": 105252,
@@ -4195,6 +4243,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 103600,
+      "num": 103600,
+      "word": "李昀锐尚公主杀青照",
+      "onboard_time": 1770088879,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 103392,
       "num": 116120,
       "word": "东部战区一线战斗场景公开",
@@ -4233,14 +4289,6 @@
       "onboard_time": 1769915420,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 102417,
-      "num": 204500,
-      "word": "祝绪丹穆祉丞兔塑姐弟",
-      "onboard_time": 1770093381,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 101709,
@@ -4449,14 +4497,6 @@
       "onboard_time": 1769922979,
       "rank": 29,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 96818,
-      "num": 96818,
-      "word": "李昀锐尚公主杀青照",
-      "onboard_time": 1770088879,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 96629,
@@ -5379,14 +5419,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 75830,
-      "num": 110196,
-      "word": "2026网络视听盛典阵容官宣",
-      "onboard_time": 1770094342,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 75419,
       "num": 75419,
       "word": "张凯 小白熊",
@@ -6171,12 +6203,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 39180,
+      "num": 119053,
+      "word": "周深 2026马上长高",
+      "onboard_time": 1770095001,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 38366,
       "num": 807721,
       "word": "2026春节首日车票开售",
       "onboard_time": 1769937501,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37943,
+      "num": 661027,
+      "word": "2026年新春走基层",
+      "onboard_time": 1770093801,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 37825,
@@ -6483,14 +6531,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 27727,
-      "num": 628011,
-      "word": "2026年新春走基层",
-      "onboard_time": 1770093801,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 26654,
       "num": 257901,
       "word": "水贝又有黄金平台现兑付异常",
@@ -6635,6 +6675,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 21642,
+      "num": 152982,
+      "word": "千问独家冠名4台卫视春晚",
+      "onboard_time": 1770094882,
+      "rank": 29,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 21046,
       "num": 101654,
       "word": "成都通报传承人网已关停",
@@ -6649,6 +6697,14 @@
       "onboard_time": 1769922080,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 20477,
+      "num": 235204,
+      "word": "骗保精神病医院此前曾为建设工程公司",
+      "onboard_time": 1770094222,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20329,
@@ -6729,6 +6785,14 @@
       "onboard_time": 1770000259,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 17631,
+      "num": 119558,
+      "word": "女子网购羽绒服有孝字臂章恶心坏了",
+      "onboard_time": 1770094823,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17170,
@@ -6841,14 +6905,6 @@
       "onboard_time": 1769888895,
       "rank": 48,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 11072,
-      "num": 196594,
-      "word": "骗保精神病医院此前曾为建设工程公司",
-      "onboard_time": 1770094222,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 10372,
