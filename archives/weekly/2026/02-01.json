@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1770135183011,
+  "endTime": 1770138178302,
   "band_list": [
     {
       "raw_hot": 4038416,
@@ -1099,6 +1099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 462147,
+      "num": 89887,
+      "word": "孟子义对接把不去微博之夜内容删了",
+      "onboard_time": 1770135200,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 457780,
       "num": 183067,
       "word": "被岳父母退99999元彩礼男子发声",
@@ -2187,6 +2195,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 260752,
+      "num": 445965,
+      "word": "吃娃娃菜中毒夫妻最高判刑十年以上",
+      "onboard_time": 1770134182,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 258639,
       "num": 258639,
       "word": "名侦探柯南 联动",
@@ -2699,6 +2715,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 210428,
+      "num": 142318,
+      "word": "97岁富商欲再婚次子求判其心智不全",
+      "onboard_time": 1770132621,
+      "rank": 16,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 208890,
       "num": 208890,
       "word": "太平年改档",
@@ -2801,14 +2825,6 @@
       "onboard_time": 1770083539,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 196561,
-      "num": 142318,
-      "word": "97岁富商欲再婚次子求判其心智不全",
-      "onboard_time": 1770132621,
-      "rank": 16,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 196227,
@@ -3081,6 +3097,14 @@
       "onboard_time": 1770037282,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 173324,
+      "num": 173324,
+      "word": "日本公开采集稀土泥全过程",
+      "onboard_time": 1770134240,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 173064,
@@ -5019,14 +5043,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 107669,
-      "num": 130922,
-      "word": "吃娃娃菜中毒夫妻最高判刑十年以上",
-      "onboard_time": 1770134182,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 107517,
       "num": 107517,
       "word": "无畏契约",
@@ -5753,6 +5769,14 @@
       "onboard_time": 1770129622,
       "rank": 43,
       "category": "数码"
+    },
+    {
+      "raw_hot": 95468,
+      "num": 95468,
+      "word": "何不同舟渡",
+      "onboard_time": 1770135439,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 95402,
@@ -7483,12 +7507,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 59436,
+      "num": 59436,
+      "word": "章若楠进组你那儿几点",
+      "onboard_time": 1770137118,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 59378,
       "num": 59378,
       "word": "中国不需要其他国家表忠心",
       "onboard_time": 1769902157,
       "rank": 36,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 59137,
+      "num": 59137,
+      "word": "马嘉祺晒俄罗斯的日落",
+      "onboard_time": 1770136879,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 58397,
@@ -7659,6 +7699,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 51493,
+      "num": 51493,
+      "word": "多品牌坚果礼盒中坚果仅占三成",
+      "onboard_time": 1770135379,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51406,
       "num": 55286,
       "word": "王一博 春晚",
@@ -7811,6 +7859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 47443,
+      "num": 47443,
+      "word": "太平年看三集哭三集",
+      "onboard_time": 1770134841,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 46097,
       "num": 46097,
       "word": "再也听不见袁惟仁弹吉他了",
@@ -7857,6 +7913,14 @@
       "onboard_time": 1769867723,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 44196,
+      "num": 44196,
+      "word": "2男孩烧死萨摩耶家长曾提赔1只狗",
+      "onboard_time": 1770131722,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 44130,
@@ -7921,6 +7985,14 @@
       "onboard_time": 1770048260,
       "rank": 49,
       "category": "数码"
+    },
+    {
+      "raw_hot": 40042,
+      "num": 40042,
+      "word": "2025微博十大热搜演唱会",
+      "onboard_time": 1770137957,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 39659,
@@ -8225,14 +8297,6 @@
       "onboard_time": 1770124039,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 30714,
-      "num": 139899,
-      "word": "日本公开采集稀土泥全过程",
-      "onboard_time": 1770134240,
-      "rank": 38,
-      "category": "国际时政"
     },
     {
       "raw_hot": 30675,

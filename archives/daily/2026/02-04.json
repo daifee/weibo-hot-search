@@ -1,6 +1,6 @@
 {
   "startTime": 1770135183011,
-  "endTime": 1770135183011,
+  "endTime": 1770138178302,
   "band_list": [
     {
       "raw_hot": 841160,
@@ -25,6 +25,14 @@
       "onboard_time": 1770126862,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 462147,
+      "num": 89887,
+      "word": "孟子义对接把不去微博之夜内容删了",
+      "onboard_time": 1770135200,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 436154,
@@ -75,6 +83,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 260752,
+      "num": 445965,
+      "word": "吃娃娃菜中毒夫妻最高判刑十年以上",
+      "onboard_time": 1770134182,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 253453,
       "num": 124453,
       "word": "经常熬夜的人要少做4件事",
@@ -99,7 +115,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 196561,
+      "raw_hot": 210428,
       "num": 138237,
       "word": "97岁富商欲再婚次子求判其心智不全",
       "onboard_time": 1770132621,
@@ -129,6 +145,14 @@
       "onboard_time": 1770121222,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 173324,
+      "num": 173324,
+      "word": "日本公开采集稀土泥全过程",
+      "onboard_time": 1770134240,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 164274,
@@ -187,14 +211,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 107669,
-      "num": 130922,
-      "word": "吃娃娃菜中毒夫妻最高判刑十年以上",
-      "onboard_time": 1770134182,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 103011,
       "num": 103011,
       "word": "AG超玩会桃黑黑",
@@ -216,6 +232,14 @@
       "word": "生命树",
       "onboard_time": 1770120022,
       "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 95468,
+      "num": 95468,
+      "word": "何不同舟渡",
+      "onboard_time": 1770135439,
+      "rank": 8,
       "category": "剧集"
     },
     {
@@ -331,11 +355,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 59436,
+      "num": 59436,
+      "word": "章若楠进组你那儿几点",
+      "onboard_time": 1770137118,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 59245,
       "num": 95071,
       "word": "张柏芝18岁大儿子身高",
       "onboard_time": 1770122781,
       "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 59137,
+      "num": 59137,
+      "word": "马嘉祺晒俄罗斯的日落",
+      "onboard_time": 1770136879,
+      "rank": 25,
       "category": "艺人"
     },
     {
@@ -387,12 +427,60 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 30714,
-      "num": 139899,
-      "word": "日本公开采集稀土泥全过程",
-      "onboard_time": 1770134240,
-      "rank": 9,
-      "category": "国际时政"
+      "raw_hot": 51493,
+      "num": 51493,
+      "word": "多品牌坚果礼盒中坚果仅占三成",
+      "onboard_time": 1770135379,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 47443,
+      "num": 47443,
+      "word": "太平年看三集哭三集",
+      "onboard_time": 1770134841,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 44196,
+      "num": 44196,
+      "word": "2男孩烧死萨摩耶家长曾提赔1只狗",
+      "onboard_time": 1770131722,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40042,
+      "num": 40042,
+      "word": "2025微博十大热搜演唱会",
+      "onboard_time": 1770137957,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 37334,
+      "num": 37334,
+      "word": "年少有为",
+      "onboard_time": 1770119420,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 36308,
+      "num": 36308,
+      "word": "一诺和桃黑黑打王者",
+      "onboard_time": 1770118942,
+      "rank": 45,
+      "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 33255,
+      "num": 33255,
+      "word": "道琼斯",
+      "onboard_time": 1770133041,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 23810,
@@ -406,6 +494,9 @@
   "hotgov_list": [
     {
       "word": "#习近平同乌拉圭总统奥尔西会谈#"
+    },
+    {
+      "word": "#中乌两国是隔海相望的好邻居好伙伴#"
     }
   ]
 }
