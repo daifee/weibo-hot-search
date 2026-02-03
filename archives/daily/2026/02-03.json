@@ -1,7 +1,15 @@
 {
   "startTime": 1770051170355,
-  "endTime": 1770103037844,
+  "endTime": 1770105176445,
   "band_list": [
+    {
+      "raw_hot": 1572547,
+      "num": 145374,
+      "word": "萝莉岛 恶魔岛",
+      "onboard_time": 1770102981,
+      "rank": 43,
+      "category": "海外新闻"
+    },
     {
       "raw_hot": 1535986,
       "num": 269018,
@@ -97,6 +105,14 @@
       "onboard_time": 1770080901,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 680570,
+      "num": 815212,
+      "word": "中方回应日本挖到含稀土淤泥",
+      "onboard_time": 1770102981,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 573810,
@@ -323,12 +339,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 311145,
+      "num": 212007,
+      "word": "爷爷去世7年砍的柴还没用",
+      "onboard_time": 1770102200,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 307928,
       "num": 164669,
       "word": "丈夫被指出轨怒揭妻子婚前多次堕胎",
       "onboard_time": 1770047060,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 303943,
+      "num": 170717,
+      "word": "秦海璐 热巴偏我来时不逢春",
+      "onboard_time": 1770100760,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 297158,
@@ -387,20 +419,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 256280,
+      "num": 162431,
+      "word": "没有年味的原因找到了",
+      "onboard_time": 1770101839,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 251115,
       "num": 848902,
       "word": "江苏盐城一座在建桥梁垮塌",
       "onboard_time": 1770048081,
       "rank": 7,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 248265,
-      "num": 170717,
-      "word": "秦海璐 热巴偏我来时不逢春",
-      "onboard_time": 1770100760,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 247129,
@@ -531,6 +563,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 187094,
+      "num": 187094,
+      "word": "骄阳似我",
+      "onboard_time": 1770103100,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186661,
       "num": 186661,
       "word": "国投白银LOF再次跌停",
@@ -561,6 +601,14 @@
       "onboard_time": 1770032722,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 174264,
+      "num": 124520,
+      "word": "老人筷子蘸酒喂5月龄宝宝致肝损伤",
+      "onboard_time": 1770104600,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 173064,
@@ -665,14 +713,6 @@
       "onboard_time": 1770097401,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 146950,
-      "num": 112878,
-      "word": "爷爷去世7年砍的柴还没用",
-      "onboard_time": 1770102200,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 141946,
@@ -811,6 +851,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 120821,
+      "num": 120821,
+      "word": "叶祖新 我怕你们又说我暧昧",
+      "onboard_time": 1770101000,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 120263,
       "num": 120263,
       "word": "爱泼斯坦 吃人",
@@ -841,6 +889,14 @@
       "onboard_time": 1770046942,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118580,
+      "num": 118580,
+      "word": "郑恺说苗苗像鹿晗",
+      "onboard_time": 1770104780,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 116866,
@@ -923,14 +979,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 108115,
-      "num": 108115,
-      "word": "没有年味的原因找到了",
-      "onboard_time": 1770101839,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 107908,
       "num": 107908,
       "word": "爱泼斯坦生前采访谈到女性",
@@ -953,14 +1001,6 @@
       "onboard_time": 1770093022,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 105462,
-      "num": 105462,
-      "word": "叶祖新 我怕你们又说我暧昧",
-      "onboard_time": 1770101000,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 105127,
@@ -1003,6 +1043,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 100976,
+      "num": 100976,
+      "word": "黄晓明22年累计捐款超5000万",
+      "onboard_time": 1770104060,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 100894,
       "num": 100894,
       "word": "马斯克被女儿爆料曾登爱泼斯坦岛",
@@ -1041,6 +1089,14 @@
       "onboard_time": 1770084860,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 97041,
+      "num": 97041,
+      "word": "父母退99999元彩礼还给了6万元陪嫁",
+      "onboard_time": 1770101300,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96988,
@@ -1083,6 +1139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94449,
+      "num": 94449,
+      "word": "LWX 结婚",
+      "onboard_time": 1770105020,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 94185,
       "num": 94185,
       "word": "国投瑞银回应白银LOF估值调整",
@@ -1097,6 +1161,14 @@
       "onboard_time": 1770093321,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 92800,
+      "num": 92800,
+      "word": "零食店怀疑女孩偷东西扣留20分",
+      "onboard_time": 1770104119,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 92273,
@@ -1131,19 +1203,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 87649,
-      "num": 87649,
-      "word": "萝莉岛 恶魔岛",
-      "onboard_time": 1770102981,
-      "rank": 43,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 87638,
       "num": 87638,
       "word": "女方婚礼现场退还99999元彩礼",
       "onboard_time": 1770040404,
       "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 87510,
+      "num": 150881,
+      "word": "齐齐哈尔一养老院发生火灾致5死",
+      "onboard_time": 1770104060,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -1211,14 +1283,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 83316,
-      "num": 83316,
-      "word": "中方回应日本挖到含稀土淤泥",
-      "onboard_time": 1770102981,
-      "rank": 48,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 83246,
       "num": 83246,
       "word": "一诺 桃黑黑",
@@ -1243,6 +1307,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 82473,
+      "num": 82473,
+      "word": "零跑董事长回应年会被吐槽",
+      "onboard_time": 1770104839,
+      "rank": 45,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 82471,
       "num": 82471,
       "word": "当今年情人节遇上春节",
@@ -1257,6 +1329,14 @@
       "onboard_time": 1770101000,
       "rank": 46,
       "category": "财经"
+    },
+    {
+      "raw_hot": 81090,
+      "num": 90392,
+      "word": "我将全职在家研究何炅这段话",
+      "onboard_time": 1770104060,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 79780,
@@ -1329,6 +1409,14 @@
       "onboard_time": 1770078440,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 75279,
+      "num": 75279,
+      "word": "恋与制作人",
+      "onboard_time": 1770096439,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 72860,
@@ -1456,6 +1544,14 @@
       "word": "马桶变喷泉全屋滂臭女子崩溃大哭",
       "onboard_time": 1770044062,
       "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 57109,
+      "num": 152261,
+      "word": "60岁女子驾车失控撞路灯死亡",
+      "onboard_time": 1770104060,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -1595,14 +1691,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 45090,
-      "num": 92541,
-      "word": "父母退99999元彩礼还给了6万元陪嫁",
-      "onboard_time": 1770101300,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 44692,
       "num": 67945,
       "word": "生命树电视热度",
@@ -1652,7 +1740,7 @@
     },
     {
       "raw_hot": 37943,
-      "num": 679359,
+      "num": 681095,
       "word": "2026年新春走基层",
       "onboard_time": 1770093801,
       "rank": 2,
@@ -1665,6 +1753,14 @@
       "onboard_time": 1770085340,
       "rank": 44,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 33059,
+      "num": 90190,
+      "word": "强奸犯出狱再杀人获死刑后仍叫嚣",
+      "onboard_time": 1770104119,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32960,

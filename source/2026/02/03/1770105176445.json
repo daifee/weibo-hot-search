@@ -1,0 +1,410 @@
+{
+  "runTime": 1770105176445,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 930362,
+        "num": 1148857,
+        "word": "灵隐寺对38万爽约者出手了",
+        "onboard_time": 1770099801,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 680570,
+        "num": 815212,
+        "word": "中方回应日本挖到含稀土淤泥",
+        "onboard_time": 1770102981,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 22410,
+        "num": 681095,
+        "word": "2026年新春走基层",
+        "onboard_time": 1770093801,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 292730,
+        "num": 292730,
+        "word": "新版熔炉事件让韩国社会炸锅",
+        "onboard_time": 1770092960,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 214217,
+        "num": 214217,
+        "word": "张凌赫手里的刀一米六",
+        "onboard_time": 1770099259,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 311145,
+        "num": 212007,
+        "word": "爷爷去世7年砍的柴还没用",
+        "onboard_time": 1770102200,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 197936,
+        "num": 197936,
+        "word": "大哥请假十几天提前回家过年",
+        "onboard_time": 1770097041,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195363,
+        "num": 195363,
+        "word": "喝点粉色的液体",
+        "onboard_time": 1770098720,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 187094,
+        "num": 187094,
+        "word": "骄阳似我",
+        "onboard_time": 1770103100,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120076,
+        "num": 184527,
+        "word": "周生生情况通报",
+        "onboard_time": 1770094641,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1236568,
+        "num": 182646,
+        "word": "郑恺回应鹿晗粉丝",
+        "onboard_time": 1770101180,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 692327,
+        "num": 177557,
+        "word": "夫妻网购娃娃菜食用中毒系丈夫下毒",
+        "onboard_time": 1770096920,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 420701,
+        "num": 175529,
+        "word": "医院直播被指暴露女患者隐私部位",
+        "onboard_time": 1770091581,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 359408,
+        "num": 171836,
+        "word": "金宣虎或被判刑",
+        "onboard_time": 1770089841,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 303943,
+        "num": 165900,
+        "word": "秦海璐 热巴偏我来时不逢春",
+        "onboard_time": 1770100760,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256280,
+        "num": 162431,
+        "word": "没有年味的原因找到了",
+        "onboard_time": 1770101839,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 218193,
+        "num": 159773,
+        "word": "爱泼斯坦",
+        "onboard_time": 1770085999,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 158502,
+        "num": 158502,
+        "word": "准备随母姓后外婆起名起爽了",
+        "onboard_time": 1770092901,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 57109,
+        "num": 152261,
+        "word": "60岁女子驾车失控撞路灯死亡",
+        "onboard_time": 1770104060,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87510,
+        "num": 150881,
+        "word": "齐齐哈尔一养老院发生火灾致5死",
+        "onboard_time": 1770104060,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1572547,
+        "num": 145374,
+        "word": "萝莉岛 恶魔岛",
+        "onboard_time": 1770102981,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 253445,
+        "num": 135813,
+        "word": "金饰价格涨到1542元",
+        "onboard_time": 1770084619,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 227483,
+        "num": 129736,
+        "word": "萝莉岛",
+        "onboard_time": 1770087560,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 174264,
+        "num": 124520,
+        "word": "老人筷子蘸酒喂5月龄宝宝致肝损伤",
+        "onboard_time": 1770104600,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120821,
+        "num": 120821,
+        "word": "叶祖新 我怕你们又说我暧昧",
+        "onboard_time": 1770101000,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123421,
+        "num": 120558,
+        "word": "马斯克女儿爆料",
+        "onboard_time": 1770073636,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 119804,
+        "num": 119804,
+        "word": "杨紫失焦眼神戏",
+        "onboard_time": 1770090561,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118580,
+        "num": 118580,
+        "word": "郑恺说苗苗像鹿晗",
+        "onboard_time": 1770104780,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113248,
+        "num": 113248,
+        "word": "男子强奸出狱后又杀人被判死刑",
+        "onboard_time": 1770089540,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104690,
+        "num": 104690,
+        "word": "警方回应夫妻网购娃娃菜食用中毒",
+        "onboard_time": 1770098720,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 246974,
+        "num": 104240,
+        "word": "女子网购羽绒服有孝字臂章恶心坏了",
+        "onboard_time": 1770094823,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101145,
+        "num": 101145,
+        "word": "偶遇鸠摩智买车",
+        "onboard_time": 1770097401,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100976,
+        "num": 100976,
+        "word": "黄晓明22年累计捐款超5000万",
+        "onboard_time": 1770104060,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97041,
+        "num": 97041,
+        "word": "父母退99999元彩礼还给了6万元陪嫁",
+        "onboard_time": 1770101300,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95261,
+        "num": 95261,
+        "word": "小英辣妹妆",
+        "onboard_time": 1770097280,
+        "rank": 34,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 95081,
+        "num": 95081,
+        "word": "儿子车祸父母以为诈骗迟迟未到场",
+        "onboard_time": 1770101300,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94449,
+        "num": 94449,
+        "word": "LWX 结婚",
+        "onboard_time": 1770105020,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 92800,
+        "num": 92800,
+        "word": "零食店怀疑女孩偷东西扣留20分",
+        "onboard_time": 1770104119,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81090,
+        "num": 90392,
+        "word": "我将全职在家研究何炅这段话",
+        "onboard_time": 1770104060,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33059,
+        "num": 90190,
+        "word": "强奸犯出狱再杀人获死刑后仍叫嚣",
+        "onboard_time": 1770104119,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90104,
+        "num": 90104,
+        "word": "俄媒曝光爱泼斯坦诡异视频",
+        "onboard_time": 1770084439,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 89987,
+        "num": 89987,
+        "word": "一米九的柯淳和他一米六的保镖",
+        "onboard_time": 1770096619,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86309,
+        "num": 86309,
+        "word": "寒武纪",
+        "onboard_time": 1770087320,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 85968,
+        "num": 85968,
+        "word": "孟子义尚公主杀青文",
+        "onboard_time": 1770089421,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85610,
+        "num": 85610,
+        "word": "王一博素颜界最严厉的父亲",
+        "onboard_time": 1770090561,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82473,
+        "num": 82473,
+        "word": "零跑董事长回应年会被吐槽",
+        "onboard_time": 1770104839,
+        "rank": 45,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 76611,
+        "num": 76611,
+        "word": "黄金一夜暴涨3%上车还是跑路",
+        "onboard_time": 1770101000,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 75923,
+        "num": 75923,
+        "word": "金银价格又反转",
+        "onboard_time": 1770096260,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 75279,
+        "num": 75279,
+        "word": "恋与制作人",
+        "onboard_time": 1770096439,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 74562,
+        "num": 74562,
+        "word": "王安宇收了一箱粉丝的信",
+        "onboard_time": 1770099979,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记谈金融强国#"
+    }
+  }
+}

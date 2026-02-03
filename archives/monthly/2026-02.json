@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1770103037844,
+  "endTime": 1770105176445,
   "band_list": [
     {
       "raw_hot": 4038416,
@@ -56,6 +56,14 @@
       "word": "萝莉岛",
       "onboard_time": 1769955561,
       "rank": 24,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1572547,
+      "num": 145374,
+      "word": "萝莉岛 恶魔岛",
+      "onboard_time": 1770102981,
+      "rank": 43,
       "category": "海外新闻"
     },
     {
@@ -473,6 +481,14 @@
       "onboard_time": 1770014060,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 680570,
+      "num": 815212,
+      "word": "中方回应日本挖到含稀土淤泥",
+      "onboard_time": 1770102981,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 677657,
@@ -1523,6 +1539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 311145,
+      "num": 212007,
+      "word": "爷爷去世7年砍的柴还没用",
+      "onboard_time": 1770102200,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 309764,
       "num": 204041,
       "word": "成何体统定档节奏",
@@ -1545,6 +1569,14 @@
       "onboard_time": 1770047060,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 303943,
+      "num": 170717,
+      "word": "秦海璐 热巴偏我来时不逢春",
+      "onboard_time": 1770100760,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 303039,
@@ -1787,6 +1819,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 256280,
+      "num": 162431,
+      "word": "没有年味的原因找到了",
+      "onboard_time": 1770101839,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 253411,
       "num": 253411,
       "word": "北京黑色羽绒服选美大赛",
@@ -1841,14 +1881,6 @@
       "onboard_time": 1769936180,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 248265,
-      "num": 170717,
-      "word": "秦海璐 热巴偏我来时不逢春",
-      "onboard_time": 1770100760,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 248228,
@@ -2403,6 +2435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187094,
+      "num": 187094,
+      "word": "骄阳似我",
+      "onboard_time": 1770103100,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186661,
       "num": 186661,
       "word": "国投白银LOF再次跌停",
@@ -2529,6 +2569,14 @@
       "onboard_time": 1769852721,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 174264,
+      "num": 124520,
+      "word": "老人筷子蘸酒喂5月龄宝宝致肝损伤",
+      "onboard_time": 1770104600,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 173995,
@@ -2889,14 +2937,6 @@
       "onboard_time": 1769950521,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 146950,
-      "num": 112878,
-      "word": "爷爷去世7年砍的柴还没用",
-      "onboard_time": 1770102200,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 145371,
@@ -3643,6 +3683,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 120821,
+      "num": 120821,
+      "word": "叶祖新 我怕你们又说我暧昧",
+      "onboard_time": 1770101000,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 120606,
       "num": 120606,
       "word": "澳网",
@@ -3729,6 +3777,14 @@
       "onboard_time": 1770046942,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118580,
+      "num": 118580,
+      "word": "郑恺说苗苗像鹿晗",
+      "onboard_time": 1770104780,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 118475,
@@ -4187,14 +4243,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 108115,
-      "num": 108115,
-      "word": "没有年味的原因找到了",
-      "onboard_time": 1770101839,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 108049,
       "num": 104708,
       "word": "那英征服是袁惟仁写的",
@@ -4321,14 +4369,6 @@
       "onboard_time": 1769994140,
       "rank": 33,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 105462,
-      "num": 105462,
-      "word": "叶祖新 我怕你们又说我暧昧",
-      "onboard_time": 1770101000,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 105252,
@@ -4531,6 +4571,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 100976,
+      "num": 100976,
+      "word": "黄晓明22年累计捐款超5000万",
+      "onboard_time": 1770104060,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 100900,
       "num": 152315,
       "word": "微博之夜阵容汇总",
@@ -4699,6 +4747,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 97041,
+      "num": 97041,
+      "word": "父母退99999元彩礼还给了6万元陪嫁",
+      "onboard_time": 1770101300,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96988,
       "num": 96988,
       "word": "捧红王菲那英SHE的小胖走了",
@@ -4819,6 +4875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94449,
+      "num": 94449,
+      "word": "LWX 结婚",
+      "onboard_time": 1770105020,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 94410,
       "num": 146225,
       "word": "这就是四川省省菜吧",
@@ -4905,6 +4969,14 @@
       "onboard_time": 1769910260,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 92800,
+      "num": 92800,
+      "word": "零食店怀疑女孩偷东西扣留20分",
+      "onboard_time": 1770104119,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 92685,
@@ -5195,20 +5267,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 87649,
-      "num": 87649,
-      "word": "萝莉岛 恶魔岛",
-      "onboard_time": 1770102981,
-      "rank": 43,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 87527,
       "num": 83619,
       "word": "上海黄金交易所公告",
       "onboard_time": 1769997980,
       "rank": 46,
       "category": "财经"
+    },
+    {
+      "raw_hot": 87510,
+      "num": 150881,
+      "word": "齐齐哈尔一养老院发生火灾致5死",
+      "onboard_time": 1770104060,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87507,
@@ -5403,14 +5475,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 83316,
-      "num": 83316,
-      "word": "中方回应日本挖到含稀土淤泥",
-      "onboard_time": 1770102981,
-      "rank": 48,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 83282,
       "num": 83282,
       "word": "点狗棚小孩家长已赔礼道歉",
@@ -5449,6 +5513,14 @@
       "onboard_time": 1769998161,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 82473,
+      "num": 82473,
+      "word": "零跑董事长回应年会被吐槽",
+      "onboard_time": 1770104839,
+      "rank": 45,
+      "category": "汽车"
     },
     {
       "raw_hot": 82471,
@@ -5505,6 +5577,14 @@
       "onboard_time": 1769916681,
       "rank": 35,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 81090,
+      "num": 90392,
+      "word": "我将全职在家研究何炅这段话",
+      "onboard_time": 1770104060,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 80938,
@@ -5745,6 +5825,14 @@
       "onboard_time": 1769908999,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 75279,
+      "num": 75279,
+      "word": "恋与制作人",
+      "onboard_time": 1770096439,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 75170,
@@ -6171,6 +6259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 57109,
+      "num": 152261,
+      "word": "60岁女子驾车失控撞路灯死亡",
+      "onboard_time": 1770104060,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 56317,
       "num": 56517,
       "word": "亲爱的客栈",
@@ -6451,14 +6547,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 45090,
-      "num": 92541,
-      "word": "父母退99999元彩礼还给了6万元陪嫁",
-      "onboard_time": 1770101300,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 44840,
       "num": 185234,
       "word": "甲骨文被曝或裁员30000人",
@@ -6564,7 +6652,7 @@
     },
     {
       "raw_hot": 37943,
-      "num": 679359,
+      "num": 681095,
       "word": "2026年新春走基层",
       "onboard_time": 1770093801,
       "rank": 2,
@@ -6737,6 +6825,14 @@
       "onboard_time": 1770008961,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 33059,
+      "num": 90190,
+      "word": "强奸犯出狱再杀人获死刑后仍叫嚣",
+      "onboard_time": 1770104119,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32960,
