@@ -1,0 +1,410 @@
+{
+  "runTime": 1770088814148,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 466816,
+        "num": 1074690,
+        "word": "唐宫奇案定档",
+        "onboard_time": 1770084439,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 452045,
+        "num": 768004,
+        "word": "男子90万买彩票未中奖起诉彩票中心",
+        "onboard_time": 1770085040,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17361,
+        "num": 641882,
+        "word": "春运第1天流动量预计超1.8亿人次",
+        "onboard_time": 1770036802,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 265035,
+        "num": 265035,
+        "word": "员工转走220万存款银行不愿赔偿",
+        "onboard_time": 1770085939,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213880,
+        "num": 213880,
+        "word": "德国难民抱18岁陌生女孩跳轨",
+        "onboard_time": 1770081080,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 204335,
+        "num": 204335,
+        "word": "黄金白银直线飙涨原因",
+        "onboard_time": 1770078440,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 196773,
+        "num": 196773,
+        "word": "生命树官配",
+        "onboard_time": 1770083539,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195078,
+        "num": 195078,
+        "word": "白日提灯",
+        "onboard_time": 1770039804,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 714483,
+        "num": 193061,
+        "word": "挪威王储妃与爱泼斯坦暧昧邮件曝光",
+        "onboard_time": 1770081320,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 190384,
+        "num": 190384,
+        "word": "支付宝集五福",
+        "onboard_time": 1770074899,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 756761,
+        "num": 189144,
+        "word": "记者卧底精神病医院许多病人无异常",
+        "onboard_time": 1770080901,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 573810,
+        "num": 188730,
+        "word": "寒武纪",
+        "onboard_time": 1770087320,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 457186,
+        "num": 187876,
+        "word": "俄媒曝光爱泼斯坦诡异视频",
+        "onboard_time": 1770084439,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 92273,
+        "num": 186002,
+        "word": "田永明故意杀人被判死刑",
+        "onboard_time": 1770088459,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 409102,
+        "num": 184470,
+        "word": "马斯克女儿爆料",
+        "onboard_time": 1770073636,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 399998,
+        "num": 184024,
+        "word": "爱泼斯坦",
+        "onboard_time": 1770085999,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 385514,
+        "num": 182142,
+        "word": "被岳父母退99999元彩礼男子发声",
+        "onboard_time": 1770047001,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 762332,
+        "num": 181004,
+        "word": "金饰价格涨到1542元",
+        "onboard_time": 1770084619,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 66807,
+        "num": 180331,
+        "word": "零下40度秀肌肉",
+        "onboard_time": 1770087379,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 200521,
+        "num": 178994,
+        "word": "林一腋下管理这一块",
+        "onboard_time": 1770085100,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283597,
+        "num": 176899,
+        "word": "萝莉岛",
+        "onboard_time": 1770087560,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 254483,
+        "num": 175716,
+        "word": "金价银价反弹",
+        "onboard_time": 1770080720,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 175455,
+        "num": 175455,
+        "word": "芝麻凑分",
+        "onboard_time": 1770050478,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 196863,
+        "num": 174496,
+        "word": "克林顿夫妇将配合爱泼斯坦案调查",
+        "onboard_time": 1770081140,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 171750,
+        "num": 171750,
+        "word": "王楚然妖妃演累了吃口火锅",
+        "onboard_time": 1770087800,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157840,
+        "num": 157840,
+        "word": "女孩被好想来怀疑偷东西哭了4小时",
+        "onboard_time": 1770086359,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156893,
+        "num": 156893,
+        "word": "孟子义尚公主杀青照",
+        "onboard_time": 1770085460,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142161,
+        "num": 142161,
+        "word": "大学生打糍粑不慎把祖传粑槽打坏",
+        "onboard_time": 1770079041,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141546,
+        "num": 141546,
+        "word": "陈都灵花蝴蝶高定",
+        "onboard_time": 1770082999,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49072,
+        "num": 132838,
+        "word": "中国人为了接好彩头有多拼",
+        "onboard_time": 1770087981,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 129470,
+        "num": 129470,
+        "word": "北京地铁9号线",
+        "onboard_time": 1770084201,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124428,
+        "num": 124428,
+        "word": "精神病医院惩罚病人最久绑3天3夜",
+        "onboard_time": 1770082880,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119222,
+        "num": 119222,
+        "word": "专家称现在忽悠普通人买金太坏了",
+        "onboard_time": 1770087379,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 116005,
+        "num": 116005,
+        "word": "白银",
+        "onboard_time": 1770045742,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 103284,
+        "num": 103284,
+        "word": "国投白银LOF再次跌停",
+        "onboard_time": 1770088100,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 102159,
+        "num": 102159,
+        "word": "宋亚轩刘耀文一起滑雪",
+        "onboard_time": 1770080839,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98606,
+        "num": 98606,
+        "word": "尚公主今朝暂别",
+        "onboard_time": 1770082759,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97830,
+        "num": 97830,
+        "word": "C罗阻挠本泽马转会",
+        "onboard_time": 1770084740,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97248,
+        "num": 97248,
+        "word": "穆祉丞专场 郑州",
+        "onboard_time": 1770084860,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 96529,
+        "num": 96529,
+        "word": "生命树第10集广东人坐主桌",
+        "onboard_time": 1770085999,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94681,
+        "num": 94681,
+        "word": "寒武纪跳水",
+        "onboard_time": 1770087320,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 94530,
+        "num": 94530,
+        "word": "4小时黄金睡眠时间",
+        "onboard_time": 1770087680,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 86757,
+        "num": 86757,
+        "word": "炽热吸引",
+        "onboard_time": 1770085698,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86432,
+        "num": 86432,
+        "word": "金价跳水市民直奔柜台买5万黄金",
+        "onboard_time": 1770086599,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84435,
+        "num": 84435,
+        "word": "萨满停播15天",
+        "onboard_time": 1770082159,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 83246,
+        "num": 83246,
+        "word": "一诺 桃黑黑",
+        "onboard_time": 1770075378,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 81727,
+        "num": 81727,
+        "word": "灵隐寺被38万鸽王上了一课",
+        "onboard_time": 1770075020,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77865,
+        "num": 77865,
+        "word": "爱泼斯坦因年龄问题拒绝24岁模特",
+        "onboard_time": 1770043701,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 76979,
+        "num": 76979,
+        "word": "意外烧死萨摩耶两男孩已被批评教育",
+        "onboard_time": 1770088762,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47836,
+        "num": 76958,
+        "word": "襄阳调查精神病院骗保",
+        "onboard_time": 1770087140,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#曾经一片沙如今变成青绿山水画#"
+    }
+  }
+}
