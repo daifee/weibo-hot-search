@@ -1,0 +1,410 @@
+{
+  "runTime": 1770180472664,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 739308,
+        "num": 1118289,
+        "word": "2026春晚主持人阵容",
+        "onboard_time": 1770174979,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 448798,
+        "num": 810813,
+        "word": "立春",
+        "onboard_time": 1770160458,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31347,
+        "num": 636579,
+        "word": "我国已实现3亿人参与冰雪运动目标",
+        "onboard_time": 1770178762,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 729659,
+        "num": 539193,
+        "word": "爱吃车厘子的人天塌了",
+        "onboard_time": 1770179121,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 410087,
+        "num": 410087,
+        "word": "老头乐闯灯被撞获赔核心是生命权优先",
+        "onboard_time": 1770173361,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 347531,
+        "num": 347531,
+        "word": "上2休2再上6休9",
+        "onboard_time": 1770177981,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 317450,
+        "num": 317450,
+        "word": "尚公主短剧质感",
+        "onboard_time": 1770175580,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 270677,
+        "num": 270677,
+        "word": "金饰价格涨到1600元",
+        "onboard_time": 1770169698,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 269200,
+        "num": 269200,
+        "word": "恋与深空",
+        "onboard_time": 1770160758,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 221871,
+        "num": 221871,
+        "word": "很多公司已经取消年会了",
+        "onboard_time": 1770179602,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1115703,
+        "num": 220664,
+        "word": "爱泼斯坦自缢后照片首度公开",
+        "onboard_time": 1770177981,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 567524,
+        "num": 216167,
+        "word": "没人告诉我金靖178啊",
+        "onboard_time": 1770179602,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 407483,
+        "num": 211427,
+        "word": "金宣虎承认逃税并道歉",
+        "onboard_time": 1770173120,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223248,
+        "num": 210120,
+        "word": "iPhone18系列外观出炉",
+        "onboard_time": 1770176841,
+        "rank": 13,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 332556,
+        "num": 205291,
+        "word": "张凌赫方回应常驻跑男",
+        "onboard_time": 1770174920,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 203494,
+        "num": 203494,
+        "word": "呵呵被白鹿限制发博了",
+        "onboard_time": 1770166700,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198378,
+        "num": 198378,
+        "word": "微信屏蔽元宝红包链接",
+        "onboard_time": 1770174321,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 197100,
+        "num": 197100,
+        "word": "郑大一附院医生诈骗94名患者获刑",
+        "onboard_time": 1770178881,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62152,
+        "num": 195158,
+        "word": "回家发现爸妈都在用阿福",
+        "onboard_time": 1770178462,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31980,
+        "num": 193929,
+        "word": "京东坚果年礼5折",
+        "onboard_time": 1770178402,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 160614,
+        "num": 191605,
+        "word": "微博之夜",
+        "onboard_time": 1770163941,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 495579,
+        "num": 189884,
+        "word": "曝王心凌吴克群同回家",
+        "onboard_time": 1770175580,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188009,
+        "num": 188009,
+        "word": "夫妻中毒事件被冤枉的店铺已注销",
+        "onboard_time": 1770176780,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 287257,
+        "num": 187929,
+        "word": "GAI周延儿子柚柚近照",
+        "onboard_time": 1770177022,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189415,
+        "num": 187848,
+        "word": "黄多多最新自拍",
+        "onboard_time": 1770179301,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187524,
+        "num": 187524,
+        "word": "许昌一对情侣坠河一死一获救",
+        "onboard_time": 1770174500,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187602,
+        "num": 180177,
+        "word": "文淇加入东申未来",
+        "onboard_time": 1770176241,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167997,
+        "num": 167997,
+        "word": "爱泼斯坦案发展已偏离真相",
+        "onboard_time": 1770178581,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 154820,
+        "num": 154820,
+        "word": "39岁刘心悦成春晚主持人新面孔",
+        "onboard_time": 1770179423,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23405,
+        "num": 149616,
+        "word": "我的三分之一答案",
+        "onboard_time": 1770178581,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33109,
+        "num": 148318,
+        "word": "12306称候补预估成功率只是参考",
+        "onboard_time": 1770179181,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148119,
+        "num": 148119,
+        "word": "金饰克价一夜涨102元",
+        "onboard_time": 1770176481,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 139035,
+        "num": 139035,
+        "word": "短剧八位男女顶流春晚合体",
+        "onboard_time": 1770173541,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132605,
+        "num": 132605,
+        "word": "6类食物已被证实促癌",
+        "onboard_time": 1770165800,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 129633,
+        "num": 129633,
+        "word": "太平年拍了赵匡胤黄袍加身",
+        "onboard_time": 1770173300,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123766,
+        "num": 123766,
+        "word": "蝴蝶宝贝5次手术后手指再次完全粘连",
+        "onboard_time": 1770174560,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100691,
+        "num": 117217,
+        "word": "前妻向袁惟仁道歉",
+        "onboard_time": 1770180142,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69417,
+        "num": 114604,
+        "word": "李荣浩杨丞琳手牵手",
+        "onboard_time": 1770179481,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112484,
+        "num": 112484,
+        "word": "躲春",
+        "onboard_time": 1770126862,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49550,
+        "num": 112045,
+        "word": "24岁蝴蝶宝贝身高1米5体重30公斤",
+        "onboard_time": 1770180380,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111734,
+        "num": 111734,
+        "word": "为什么说今年立春不一般",
+        "onboard_time": 1770180021,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105844,
+        "num": 105844,
+        "word": "赵雨凡 金佳蓝",
+        "onboard_time": 1770166339,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105054,
+        "num": 105054,
+        "word": "哈登加盟骑士",
+        "onboard_time": 1770168199,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102565,
+        "num": 102565,
+        "word": "老人取快递取一藏二推倒货",
+        "onboard_time": 1770175701,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102396,
+        "num": 102396,
+        "word": "日本一小学生遭初中生勒脖又推入海",
+        "onboard_time": 1770173839,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 98075,
+        "num": 98075,
+        "word": "恋与深空首个古风混池",
+        "onboard_time": 1770179002,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 97600,
+        "num": 97600,
+        "word": "前妻回应比尔盖茨被曝隐瞒性病",
+        "onboard_time": 1770172519,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 96860,
+        "num": 96860,
+        "word": "老外眼里的中餐",
+        "onboard_time": 1770180323,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 96698,
+        "num": 96698,
+        "word": "沈腾左脚确诊多动症",
+        "onboard_time": 1770180442,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95569,
+        "num": 95569,
+        "word": "陈靖可 丈夫的美貌妻子的荣耀",
+        "onboard_time": 1770180263,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国金融事业的本质和本分#"
+    }
+  }
+}
