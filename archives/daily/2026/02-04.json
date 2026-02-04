@@ -1,6 +1,6 @@
 {
   "startTime": 1770135183011,
-  "endTime": 1770210934280,
+  "endTime": 1770212616929,
   "band_list": [
     {
       "raw_hot": 1582100,
@@ -17,6 +17,14 @@
       "onboard_time": 1770173120,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1312556,
+      "num": 1312556,
+      "word": "微博之夜节目单",
+      "onboard_time": 1770210501,
+      "rank": 0,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1254738,
@@ -171,14 +179,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 575194,
-      "num": 1092031,
-      "word": "微博之夜节目单",
-      "onboard_time": 1770210501,
-      "rank": 0,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 549010,
       "num": 79317,
       "word": "母亲盗卖儿子300万黄金为弟买房",
@@ -249,6 +249,14 @@
       "onboard_time": 1770194901,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 437119,
+      "num": 209923,
+      "word": "爱泼斯坦被曝让14岁女孩脱衣按摩",
+      "onboard_time": 1770209600,
+      "rank": 20,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 436826,
@@ -363,12 +371,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 380936,
-      "num": 380936,
+      "raw_hot": 380941,
+      "num": 380941,
       "word": "貂蝉年限 美神",
       "onboard_time": 1770208700,
       "rank": 6,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 371450,
+      "num": 218474,
+      "word": "比尔盖茨回应爱泼斯坦案",
+      "onboard_time": 1770211161,
+      "rank": 11,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 368418,
@@ -409,6 +425,22 @@
       "onboard_time": 1770193823,
       "rank": 24,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 353272,
+      "num": 246444,
+      "word": "比尔盖茨前妻称整个社会正在清算",
+      "onboard_time": 1770208521,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 351394,
+      "num": 351394,
+      "word": "微博之夜",
+      "onboard_time": 1770163941,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 349649,
@@ -571,6 +603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 276933,
+      "num": 192433,
+      "word": "比尔盖茨否认去过萝莉岛",
+      "onboard_time": 1770210921,
+      "rank": 20,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 266867,
       "num": 139035,
       "word": "短剧八位男女顶流春晚合体",
@@ -585,6 +625,14 @@
       "onboard_time": 1770198622,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 263946,
+      "num": 877953,
+      "word": "12306回应男子自带折叠椅坐高铁",
+      "onboard_time": 1770210621,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 262593,
@@ -635,14 +683,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 246444,
-      "num": 246444,
-      "word": "比尔盖茨前妻称整个社会正在清算",
-      "onboard_time": 1770208521,
-      "rank": 14,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 240396,
       "num": 240396,
       "word": "时代少年团回国",
@@ -657,6 +697,14 @@
       "onboard_time": 1770161236,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 234561,
+      "num": 215669,
+      "word": "宋轶 白开水妆",
+      "onboard_time": 1770211282,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 234229,
@@ -755,12 +803,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 209923,
-      "num": 209923,
-      "word": "爱泼斯坦被曝让14岁女孩脱衣按摩",
-      "onboard_time": 1770209600,
-      "rank": 20,
-      "category": "海外新闻"
+      "raw_hot": 209219,
+      "num": 158923,
+      "word": "马斯克被激怒",
+      "onboard_time": 1770212001,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 208009,
+      "num": 208009,
+      "word": "张婧仪 我记得你的姓",
+      "onboard_time": 1770209541,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 206706,
@@ -785,14 +841,6 @@
       "onboard_time": 1770200480,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 197079,
-      "num": 197079,
-      "word": "微博之夜",
-      "onboard_time": 1770163941,
-      "rank": 41,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 196807,
@@ -857,6 +905,14 @@
       "onboard_time": 1770117200,
       "rank": 14,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 184442,
+      "num": 220865,
+      "word": "杨紫演技",
+      "onboard_time": 1770211522,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 182588,
@@ -931,6 +987,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 167446,
+      "num": 167446,
+      "word": "唐宫奇案",
+      "onboard_time": 1770210501,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 165825,
+      "num": 165825,
+      "word": "丞磊说王楚然压到他裙子了",
+      "onboard_time": 1770211402,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 164678,
       "num": 164678,
       "word": "生命树",
@@ -971,6 +1043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 158812,
+      "num": 158812,
+      "word": "徐冬冬摔倒尹子维急成啥样了",
+      "onboard_time": 1770211702,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 157122,
       "num": 157122,
       "word": "导演拍疯了演员演爽了观众笑裂了",
@@ -995,12 +1075,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 149676,
-      "num": 149676,
-      "word": "张婧仪 我记得你的姓",
-      "onboard_time": 1770209541,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 149930,
+      "num": 149930,
+      "word": "双胞胎是不是骗过了神明的人",
+      "onboard_time": 1770208341,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 149143,
@@ -1131,6 +1211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 130197,
+      "num": 130197,
+      "word": "王橹杰高会语音",
+      "onboard_time": 1770211340,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127689,
       "num": 127689,
       "word": "肖战签名专辑",
@@ -1235,6 +1323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 116931,
+      "num": 166426,
+      "word": "32岁女子害怕催婚3年不敢回家过年",
+      "onboard_time": 1770209961,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115372,
       "num": 115372,
       "word": "云合",
@@ -1291,6 +1387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 111955,
+      "num": 111955,
+      "word": "李信伽罗明世隐水墨新皮肤",
+      "onboard_time": 1770212541,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 109956,
       "num": 102246,
       "word": "王鸥杀回芒果一次比一次哇噻",
@@ -1345,14 +1449,6 @@
       "onboard_time": 1770183561,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 106130,
-      "num": 106130,
-      "word": "双胞胎是不是骗过了神明的人",
-      "onboard_time": 1770208341,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 105148,
@@ -1483,20 +1579,20 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 99954,
+      "num": 99954,
+      "word": "爱泼斯坦豪宅大量儿童角色扮演服装",
+      "onboard_time": 1770212242,
+      "rank": 44,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 99758,
       "num": 85807,
       "word": "李煜东晒自拍",
       "onboard_time": 1770192980,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 99740,
-      "num": 99740,
-      "word": "唐宫奇案",
-      "onboard_time": 1770210501,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 98408,
@@ -1625,6 +1721,14 @@
       "onboard_time": 1770124941,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 92370,
+      "num": 92370,
+      "word": "有人150万卖房买金猛赚76万",
+      "onboard_time": 1770210200,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 92353,
@@ -1828,7 +1932,7 @@
     },
     {
       "raw_hot": 85012,
-      "num": 85012,
+      "num": 93731,
       "word": "内地男子港迪溺亡",
       "onboard_time": 1770207621,
       "rank": 47,
@@ -1849,14 +1953,6 @@
       "onboard_time": 1770210320,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 83833,
-      "num": 83833,
-      "word": "有人150万卖房买金猛赚76万",
-      "onboard_time": 1770210200,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 83803,
@@ -1923,6 +2019,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 81949,
+      "num": 227655,
+      "word": "周涛一开口年就在了",
+      "onboard_time": 1770208462,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 81372,
       "num": 81372,
       "word": "特朗普被追问爱泼斯坦破防了",
@@ -1964,7 +2068,7 @@
     },
     {
       "raw_hot": 80258,
-      "num": 150454,
+      "num": 158967,
       "word": "普京祝中国人民马到成功",
       "onboard_time": 1770207141,
       "rank": 28,
@@ -2067,14 +2171,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 74671,
-      "num": 227655,
-      "word": "周涛一开口年就在了",
-      "onboard_time": 1770208462,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 73768,
       "num": 73768,
       "word": "母亲称女儿2岁后每一天都是赚的",
@@ -2105,6 +2201,14 @@
       "onboard_time": 1770183561,
       "rank": 46,
       "category": "财经"
+    },
+    {
+      "raw_hot": 72829,
+      "num": 112397,
+      "word": "代旭私下这么潮",
+      "onboard_time": 1770211823,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 72714,
@@ -2523,6 +2627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 48605,
+      "num": 112066,
+      "word": "杨幂左手春卷右手春饼",
+      "onboard_time": 1770212122,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 48417,
       "num": 112355,
       "word": "官方回应事业单位仅招省运会二三名",
@@ -2569,14 +2681,6 @@
       "onboard_time": 1770157516,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 44181,
-      "num": 219464,
-      "word": "12306回应男子自带折叠椅坐高铁",
-      "onboard_time": 1770210621,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 43564,
@@ -3011,6 +3115,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 13523,
+      "num": 192612,
+      "word": "谁在制造精神病人",
+      "onboard_time": 1770212122,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 11800,
       "num": 20488,
       "word": "黄子弘凡除了快乐禁止入内",
@@ -3035,6 +3147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 6963,
+      "num": 723461,
+      "word": "9图看懂服务消费新政",
+      "onboard_time": 1770212361,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 5694,
       "num": 686530,
       "word": "家家美幸福年2026",
@@ -3055,6 +3175,9 @@
     },
     {
       "word": "#总书记关心的北京冬奥遗产#"
+    },
+    {
+      "word": "#中俄元首举行视频会晤#"
     }
   ]
 }
