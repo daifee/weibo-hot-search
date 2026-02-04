@@ -1,6 +1,6 @@
 {
   "startTime": 1770221309024,
-  "endTime": 1770224387113,
+  "endTime": 1770225306535,
   "band_list": [
     {
       "raw_hot": 679797,
@@ -139,6 +139,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 179043,
+      "num": 179043,
+      "word": "台湾问题是中美关系中最重要的问题",
+      "onboard_time": 1770221361,
+      "rank": 18,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 162060,
       "num": 145076,
       "word": "江疏影 上桌",
@@ -195,14 +203,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 128153,
-      "num": 128153,
-      "word": "台湾问题是中美关系中最重要的问题",
-      "onboard_time": 1770221361,
-      "rank": 18,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 116967,
       "num": 116967,
       "word": "校长与离异女教师恋爱被定师德不合格",
@@ -251,19 +251,19 @@
       "category": "电影"
     },
     {
+      "raw_hot": 104297,
+      "num": 104297,
+      "word": "成何体统",
+      "onboard_time": 1770222020,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 102414,
       "num": 98367,
       "word": "生命树",
       "onboard_time": 1770205161,
       "rank": 32,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 100886,
-      "num": 100886,
-      "word": "成何体统",
-      "onboard_time": 1770222020,
-      "rank": 21,
       "category": "剧集"
     },
     {
@@ -411,8 +411,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 46904,
-      "num": 49434,
+      "raw_hot": 54374,
+      "num": 54374,
       "word": "微信为什么要打自家人元宝",
       "onboard_time": 1770224117,
       "rank": 45,
@@ -441,6 +441,22 @@
       "onboard_time": 1770213203,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33121,
+      "num": 41230,
+      "word": "时代少年团 李飞的题海战术",
+      "onboard_time": 1770210921,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 32040,
+      "num": 41177,
+      "word": "爱泼斯坦秘密信托文件曝光",
+      "onboard_time": 1770225256,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 28021,
