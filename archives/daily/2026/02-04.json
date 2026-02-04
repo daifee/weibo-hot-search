@@ -1,6 +1,6 @@
 {
   "startTime": 1770135183011,
-  "endTime": 1770205212163,
+  "endTime": 1770206107350,
   "band_list": [
     {
       "raw_hot": 1582100,
@@ -227,6 +227,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 436826,
+      "num": 1069892,
+      "word": "意大利失联博士疑似被看到买咖啡",
+      "onboard_time": 1770200120,
+      "rank": 17,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 436154,
       "num": 204435,
       "word": "吃娃娃菜中毒夫妻均被刑拘",
@@ -331,14 +339,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 367161,
-      "num": 1058745,
-      "word": "意大利失联博士疑似被看到买咖啡",
-      "onboard_time": 1770200120,
-      "rank": 17,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 366087,
       "num": 205609,
       "word": "大疆最想删的视频出现了",
@@ -371,6 +371,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 349649,
+      "num": 118296,
+      "word": "肖战 欧莱雅",
+      "onboard_time": 1770204620,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 346709,
       "num": 190303,
       "word": "元宝",
@@ -401,6 +409,14 @@
       "onboard_time": 1770129862,
       "rank": 1,
       "category": "财经"
+    },
+    {
+      "raw_hot": 339312,
+      "num": 114521,
+      "word": "肖战 演唱会",
+      "onboard_time": 1770205281,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 332556,
@@ -508,7 +524,7 @@
     },
     {
       "raw_hot": 279033,
-      "num": 776697,
+      "num": 778797,
       "word": "大二女生失踪8年父亲悬赏10万寻女",
       "onboard_time": 1770199221,
       "rank": 19,
@@ -643,6 +659,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 221498,
+      "num": 221498,
+      "word": "小米通报辽宁营口起火事件",
+      "onboard_time": 1770203120,
+      "rank": 3,
+      "category": "民生新闻,汽车"
+    },
+    {
       "raw_hot": 216184,
       "num": 138653,
       "word": "精灵少女官宣解散",
@@ -667,12 +691,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 206706,
+      "num": 238781,
+      "word": "王者荣耀",
+      "onboard_time": 1770199520,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 202881,
       "num": 210251,
       "word": "郑大一附院医生诈骗94名患者获刑",
       "onboard_time": 1770178881,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 200010,
+      "num": 117232,
+      "word": "卢靖姗晒儿女照片",
+      "onboard_time": 1770200480,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 197079,
@@ -697,14 +737,6 @@
       "onboard_time": 1770169938,
       "rank": 15,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 195659,
-      "num": 195659,
-      "word": "小米通报辽宁营口起火事件",
-      "onboard_time": 1770203120,
-      "rank": 3,
-      "category": "民生新闻,汽车"
     },
     {
       "raw_hot": 193857,
@@ -763,14 +795,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 181500,
-      "num": 238781,
-      "word": "王者荣耀",
-      "onboard_time": 1770199520,
-      "rank": 42,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 178552,
       "num": 137475,
       "word": "金价波动",
@@ -827,6 +851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 163138,
+      "num": 163138,
+      "word": "难怪前一段时间车厘子降价了",
+      "onboard_time": 1770202759,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 163086,
       "num": 102396,
       "word": "日本一小学生遭初中生勒脖又推入海",
@@ -848,14 +880,6 @@
       "word": "刘晓庆直播卖字一字千金",
       "onboard_time": 1770168919,
       "rank": 14,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 157221,
-      "num": 117232,
-      "word": "卢靖姗晒儿女照片",
-      "onboard_time": 1770200480,
-      "rank": 35,
       "category": "艺人"
     },
     {
@@ -939,6 +963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 141016,
+      "num": 141016,
+      "word": "51岁按摩技师猥亵顾客被行拘7日",
+      "onboard_time": 1770204440,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 140754,
       "num": 140754,
       "word": "警方通报夫妻网购娃娃菜食用中毒",
@@ -953,14 +985,6 @@
       "onboard_time": 1770192261,
       "rank": 25,
       "category": "网红"
-    },
-    {
-      "raw_hot": 137248,
-      "num": 107087,
-      "word": "肖战 欧莱雅",
-      "onboard_time": 1770204620,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 136761,
@@ -1147,20 +1171,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 112043,
-      "num": 112043,
-      "word": "难怪前一段时间车厘子降价了",
-      "onboard_time": 1770202759,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 109956,
       "num": 102246,
       "word": "王鸥杀回芒果一次比一次哇噻",
       "onboard_time": 1770190640,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 109482,
+      "num": 109482,
+      "word": "警方回应搜救犬被偷走杀害售卖",
+      "onboard_time": 1770203540,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 108306,
@@ -1203,20 +1227,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 106220,
+      "num": 159306,
+      "word": "剑来",
+      "onboard_time": 1770204861,
+      "rank": 29,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 105148,
       "num": 105148,
       "word": "川渝春晚官宣TF四代",
       "onboard_time": 1770188721,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 105016,
-      "num": 105016,
-      "word": "警方回应搜救犬被偷走杀害售卖",
-      "onboard_time": 1770203540,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 104214,
@@ -1236,7 +1260,7 @@
     },
     {
       "raw_hot": 103038,
-      "num": 96926,
+      "num": 101041,
       "word": "爱泼斯坦女友获赠1亿美元资产",
       "onboard_time": 1770204561,
       "rank": 30,
@@ -1257,6 +1281,14 @@
       "onboard_time": 1770175701,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102298,
+      "num": 102298,
+      "word": "张桂源cha了张凌赫进行曲",
+      "onboard_time": 1770205101,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 101699,
@@ -1297,6 +1329,14 @@
       "onboard_time": 1770191780,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 100307,
+      "num": 100307,
+      "word": "生命树",
+      "onboard_time": 1770120022,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 100136,
@@ -1363,28 +1403,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 97421,
-      "num": 97421,
-      "word": "生命树",
-      "onboard_time": 1770120022,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 97218,
       "num": 97218,
       "word": "A股行情",
       "onboard_time": 1770171199,
       "rank": 25,
       "category": "财经"
-    },
-    {
-      "raw_hot": 97099,
-      "num": 97099,
-      "word": "剑来",
-      "onboard_time": 1770204861,
-      "rank": 29,
-      "category": "动漫"
     },
     {
       "raw_hot": 97064,
@@ -1417,14 +1441,6 @@
       "onboard_time": 1770169221,
       "rank": 27,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 95676,
-      "num": 95676,
-      "word": "51岁按摩技师猥亵顾客被行拘7日",
-      "onboard_time": 1770204440,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 95459,
@@ -1635,6 +1651,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 85245,
+      "num": 85245,
+      "word": "张凌赫张桂源一个daddy一个baby",
+      "onboard_time": 1770205462,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 85150,
+      "num": 113719,
+      "word": "金价震荡金店3天蒸发200万",
+      "onboard_time": 1770204980,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 85129,
       "num": 85129,
       "word": "真马版小马宝莉",
@@ -1673,6 +1705,14 @@
       "onboard_time": 1770187160,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 83028,
+      "num": 83028,
+      "word": "王曼昱vs李昱谆",
+      "onboard_time": 1770205822,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 82929,
@@ -1875,6 +1915,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 72714,
+      "num": 72714,
+      "word": "孙颖莎冲击亚洲杯个人首冠",
+      "onboard_time": 1770204321,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 72489,
       "num": 72489,
       "word": "卡扎菲次子在住处被武装分子杀害",
@@ -1995,6 +2043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 68252,
+      "num": 68252,
+      "word": "日本猫手烧",
+      "onboard_time": 1770205761,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 68142,
       "num": 95071,
       "word": "张柏芝18岁大儿子身高",
@@ -2003,16 +2059,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 68123,
-      "num": 68123,
-      "word": "孙颖莎冲击亚洲杯个人首冠",
-      "onboard_time": 1770204321,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 65780,
-      "num": 65780,
+      "num": 111462,
       "word": "冬奥加油",
       "onboard_time": 1770199700,
       "rank": 47,
@@ -2025,14 +2073,6 @@
       "onboard_time": 1770201620,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 65115,
-      "num": 65115,
-      "word": "金价震荡金店3天蒸发200万",
-      "onboard_time": 1770204980,
-      "rank": 48,
-      "category": "财经"
     },
     {
       "raw_hot": 65080,
@@ -2075,14 +2115,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 63957,
-      "num": 63957,
-      "word": "张桂源cha了张凌赫进行曲",
-      "onboard_time": 1770205101,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 63798,
       "num": 95106,
       "word": "任宥纶情商",
@@ -2105,6 +2137,14 @@
       "onboard_time": 1770173961,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 62494,
+      "num": 62494,
+      "word": "王栎鑫跟着苏醒回西安了",
+      "onboard_time": 1770206060,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 62455,
@@ -2291,6 +2331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 48417,
+      "num": 112355,
+      "word": "官方回应事业单位仅招省运会二三名",
+      "onboard_time": 1770204500,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 47825,
       "num": 47825,
       "word": "2男孩烧死萨摩耶家长曾提赔1只狗",
@@ -2305,6 +2353,14 @@
       "onboard_time": 1770134841,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 46706,
+      "num": 87492,
+      "word": "金宣虎爆红即翻车魔咒",
+      "onboard_time": 1770205402,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 45952,
@@ -2531,20 +2587,20 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 25252,
+      "num": 120110,
+      "word": "男子借款千万元13年未收回",
+      "onboard_time": 1770205699,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24905,
       "num": 33539,
       "word": "王橹杰大火花",
       "onboard_time": 1770161359,
       "rank": 48,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 23845,
-      "num": 112018,
-      "word": "官方回应事业单位仅招省运会二三名",
-      "onboard_time": 1770204500,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 23810,
@@ -2713,6 +2769,14 @@
       "onboard_time": 1770151273,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 10792,
+      "num": 640342,
+      "word": "马力全开共赴山海",
+      "onboard_time": 1770205761,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 8294,
