@@ -1,6 +1,6 @@
 {
   "startTime": 1770221309024,
-  "endTime": 1770227734595,
+  "endTime": 1770228587151,
   "band_list": [
     {
       "raw_hot": 679797,
@@ -147,6 +147,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 173042,
+      "num": 173042,
+      "word": "成何体统",
+      "onboard_time": 1770222020,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 162060,
       "num": 145076,
       "word": "江疏影 上桌",
@@ -200,14 +208,6 @@
       "word": "杨紫直播",
       "onboard_time": 1770214762,
       "rank": 24,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 136670,
-      "num": 136670,
-      "word": "成何体统",
-      "onboard_time": 1770222020,
-      "rank": 21,
       "category": "剧集"
     },
     {
@@ -467,8 +467,16 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 25801,
+      "num": 28630,
+      "word": "卢昱晓檀健次古偶氛围感",
+      "onboard_time": 1770227775,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 25281,
-      "num": 27367,
+      "num": 28618,
       "word": "太平年水丘公满门被屠",
       "onboard_time": 1770220760,
       "rank": 45,
@@ -476,7 +484,7 @@
     },
     {
       "raw_hot": 24044,
-      "num": 27363,
+      "num": 28541,
       "word": "上班两天技师猥亵顾客被行拘7日",
       "onboard_time": 1770226336,
       "rank": 47,
@@ -491,11 +499,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 22481,
+      "num": 28536,
+      "word": "摇汞 时尚芭莎",
+      "onboard_time": 1770225796,
+      "rank": 49,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 14563,
       "num": 146962,
       "word": "连辑被查后一幅字还卖5000元",
       "onboard_time": 1770220460,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 854,
+      "num": 173941,
+      "word": "冰雪春天",
+      "onboard_time": 1770037581,
+      "rank": 2,
       "category": "民生新闻"
     }
   ],
