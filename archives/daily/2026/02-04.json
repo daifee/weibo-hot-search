@@ -1,6 +1,6 @@
 {
   "startTime": 1770135183011,
-  "endTime": 1770185458359,
+  "endTime": 1770188596841,
   "band_list": [
     {
       "raw_hot": 1317231,
@@ -163,6 +163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 417936,
+      "num": 129964,
+      "word": "黄多多自拍",
+      "onboard_time": 1770184580,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 410087,
       "num": 782273,
       "word": "老头乐闯灯被撞获赔核心是生命权优先",
@@ -187,6 +195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 387731,
+      "num": 387731,
+      "word": "马凡舒上了两次马年春晚",
+      "onboard_time": 1770185780,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 380963,
       "num": 127517,
       "word": "任宥纶这是官宣吗",
@@ -204,11 +220,19 @@
     },
     {
       "raw_hot": 366087,
-      "num": 196929,
+      "num": 205609,
       "word": "大疆最想删的视频出现了",
       "onboard_time": 1770182061,
       "rank": 15,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 365508,
+      "num": 224106,
+      "word": "周冬雨 别让影后干这个",
+      "onboard_time": 1770183080,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 359550,
@@ -275,6 +299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 310081,
+      "num": 128379,
+      "word": "元宝",
+      "onboard_time": 1770185601,
+      "rank": 15,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 305119,
       "num": 138861,
       "word": "胡先煦睡觉吓到空姐",
@@ -291,6 +323,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 295170,
+      "num": 127511,
+      "word": "爱泼斯坦曾称帮霍金圆了潜水梦",
+      "onboard_time": 1770186021,
+      "rank": 16,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 287257,
       "num": 187929,
       "word": "GAI周延儿子柚柚近照",
@@ -304,6 +344,14 @@
       "word": "吃娃娃菜中毒夫妻被抓老家村干部发声",
       "onboard_time": 1770168079,
       "rank": 12,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 275300,
+      "num": 1044048,
+      "word": "宝马停商场8101小时计费16900元",
+      "onboard_time": 1770184820,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -385,14 +433,6 @@
       "onboard_time": 1770132203,
       "rank": 8,
       "category": "财经"
-    },
-    {
-      "raw_hot": 224106,
-      "num": 224106,
-      "word": "周冬雨 别让影后干这个",
-      "onboard_time": 1770183080,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 216184,
@@ -537,6 +577,14 @@
       "onboard_time": 1770178581,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 164297,
+      "num": 164297,
+      "word": "胖东来春节放5天员工发声",
+      "onboard_time": 1770184881,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 164274,
@@ -739,6 +787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 113182,
+      "num": 113182,
+      "word": "大侦探",
+      "onboard_time": 1770184580,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 112719,
       "num": 112719,
       "word": "金宣虎前公司称都是金宣虎要求的",
@@ -747,12 +803,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 104329,
-      "num": 104329,
-      "word": "大侦探",
-      "onboard_time": 1770184580,
-      "rank": 48,
-      "category": "综艺"
+      "raw_hot": 104541,
+      "num": 110536,
+      "word": "金银惊天大逆转",
+      "onboard_time": 1770183681,
+      "rank": 27,
+      "category": "财经"
     },
     {
       "raw_hot": 104214,
@@ -761,6 +817,14 @@
       "onboard_time": 1770179481,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 103496,
+      "num": 103496,
+      "word": "头发自然干vs吹风机吹干",
+      "onboard_time": 1770183561,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 103076,
@@ -891,6 +955,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 93732,
+      "num": 93732,
+      "word": "东申未来 文淇双女主",
+      "onboard_time": 1770186921,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 92703,
       "num": 92703,
       "word": "特朗普称有问题的是比尔盖茨那些人",
@@ -931,14 +1003,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 91132,
-      "num": 91132,
-      "word": "头发自然干vs吹风机吹干",
-      "onboard_time": 1770183561,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 90488,
       "num": 90488,
       "word": "周雨彤太真长大了",
@@ -947,12 +1011,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 89680,
-      "num": 110536,
-      "word": "金银惊天大逆转",
-      "onboard_time": 1770183681,
-      "rank": 27,
-      "category": "财经"
+      "raw_hot": 89397,
+      "num": 94204,
+      "word": "电视剧离职vs现实中离职",
+      "onboard_time": 1770185179,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 89394,
@@ -971,6 +1035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 85786,
+      "num": 85786,
+      "word": "吴昕王鸥你俩蛐蛐啥呢",
+      "onboard_time": 1770188181,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 84741,
       "num": 84741,
       "word": "LOLM故宫马冬梅皮肤",
@@ -987,10 +1059,26 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 83114,
-      "num": 83114,
-      "word": "电视剧离职vs现实中离职",
-      "onboard_time": 1770185179,
+      "raw_hot": 83137,
+      "num": 87296,
+      "word": "多看书真的会影响人的潜意识",
+      "onboard_time": 1770185901,
+      "rank": 35,
+      "category": "读书作家"
+    },
+    {
+      "raw_hot": 83073,
+      "num": 83073,
+      "word": "周迅欢迎文淇加入东申未来",
+      "onboard_time": 1770187101,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 83041,
+      "num": 85043,
+      "word": "猫咪劝主人别吃螺蛳粉",
+      "onboard_time": 1770187160,
       "rank": 38,
       "category": "幽默"
     },
@@ -1027,6 +1115,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 81372,
+      "num": 81372,
+      "word": "特朗普被追问爱泼斯坦破防了",
+      "onboard_time": 1770185300,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 80657,
       "num": 80657,
       "word": "NBA",
@@ -1051,6 +1147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 79353,
+      "num": 79353,
+      "word": "三角洲行动",
+      "onboard_time": 1770187101,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 79236,
       "num": 95190,
       "word": "龚俊台词",
@@ -1072,14 +1176,6 @@
       "word": "直播前请先为患者披上尊严的无菌衣",
       "onboard_time": 1770172640,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 76822,
-      "num": 76822,
-      "word": "胖东来春节放5天员工发声",
-      "onboard_time": 1770184881,
-      "rank": 41,
       "category": "民生新闻"
     },
     {
@@ -1123,6 +1219,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 72860,
+      "num": 72860,
+      "word": "过年不买新衣服",
+      "onboard_time": 1770187399,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 72489,
       "num": 72489,
       "word": "卡扎菲次子在住处被武装分子杀害",
@@ -1139,20 +1243,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 71448,
+      "num": 71448,
+      "word": "秦海璐参加晚会都不忘催更小说",
+      "onboard_time": 1770185541,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 71071,
       "num": 71071,
       "word": "元宝改为口令红包",
       "onboard_time": 1770181281,
       "rank": 47,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 70545,
-      "num": 70545,
-      "word": "特朗普被追问爱泼斯坦破防了",
-      "onboard_time": 1770185300,
-      "rank": 45,
-      "category": "国际时政"
     },
     {
       "raw_hot": 69883,
@@ -1203,14 +1307,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 67362,
-      "num": 67362,
-      "word": "黄多多自拍",
-      "onboard_time": 1770184580,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 65080,
       "num": 95149,
       "word": "余华老师 我嗑的cp避嫌了咋办",
@@ -1225,6 +1321,14 @@
       "onboard_time": 1770125841,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 64623,
+      "num": 64623,
+      "word": "飞天茅台酒价上涨",
+      "onboard_time": 1770188300,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 63798,
@@ -1281,6 +1385,14 @@
       "onboard_time": 1770173361,
       "rank": 46,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 60982,
+      "num": 125340,
+      "word": "JackeyLove备战冬奥了吗",
+      "onboard_time": 1770188181,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 60341,
@@ -1451,14 +1563,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 40647,
-      "num": 166955,
-      "word": "宝马停商场8101小时计费16900元",
-      "onboard_time": 1770184820,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 40042,
       "num": 40042,
       "word": "2025微博十大热搜演唱会",
@@ -1587,6 +1691,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 28638,
+      "num": 85040,
+      "word": "女子做延长甲摔跤指骨骨折甲床破裂",
+      "onboard_time": 1770187820,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28219,
       "num": 33565,
       "word": "父亲去世女儿回大伯家过年泪流满面",
@@ -1601,6 +1713,14 @@
       "onboard_time": 1770139695,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 27014,
+      "num": 126434,
+      "word": "咪咕冬奥高手村真好玩",
+      "onboard_time": 1770185541,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 25854,
