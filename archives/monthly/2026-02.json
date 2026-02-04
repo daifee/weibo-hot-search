@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1770238921856,
+  "endTime": 1770241280827,
   "band_list": [
     {
       "raw_hot": 4038416,
@@ -11339,6 +11339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23942,
+      "num": 23942,
+      "word": "特朗普政府为何急于将爱泼斯坦案翻篇",
+      "onboard_time": 1770239175,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 23594,
       "num": 234932,
       "word": "极致玩家的马年神机",
@@ -11931,6 +11939,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 12320,
+      "num": 14949,
+      "word": "欧莱雅小春晚",
+      "onboard_time": 1770207921,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 12176,
       "num": 22103,
       "word": "CBA",
@@ -11945,14 +11961,6 @@
       "onboard_time": 1770125782,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 11960,
-      "num": 14949,
-      "word": "欧莱雅小春晚",
-      "onboard_time": 1770207921,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 11800,
