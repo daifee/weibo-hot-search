@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1770191656533,
+  "endTime": 1770192180520,
   "band_list": [
     {
       "raw_hot": 4038416,
@@ -299,6 +299,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 1007199,
+      "num": 134790,
+      "word": "萨摩耶主人已删除此前发文",
+      "onboard_time": 1770189441,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 985923,
       "num": 234423,
       "word": "儿子劝父亲卖出45公斤白银躲过暴跌",
@@ -313,14 +321,6 @@
       "onboard_time": 1769942121,
       "rank": 3,
       "category": "演出"
-    },
-    {
-      "raw_hot": 979145,
-      "num": 124715,
-      "word": "萨摩耶主人已删除此前发文",
-      "onboard_time": 1770189441,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 978512,
@@ -635,6 +635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 688028,
+      "num": 185223,
+      "word": "爱泼斯坦自缢后甲状软骨几乎完全骨折",
+      "onboard_time": 1770188901,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 686621,
       "num": 285276,
       "word": "张桂源哭了",
@@ -689,14 +697,6 @@
       "onboard_time": 1769940862,
       "rank": 3,
       "category": "演出"
-    },
-    {
-      "raw_hot": 661196,
-      "num": 134184,
-      "word": "爱泼斯坦自缢后甲状软骨几乎完全骨折",
-      "onboard_time": 1770188901,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 658441,
@@ -937,6 +937,14 @@
       "onboard_time": 1769987777,
       "rank": 41,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 551217,
+      "num": 263098,
+      "word": "俩人的关系有了退展",
+      "onboard_time": 1770189380,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 549010,
@@ -2284,7 +2292,7 @@
     },
     {
       "raw_hot": 297099,
-      "num": 148898,
+      "num": 181778,
       "word": "Jennie不理解收集小卡但尊重",
       "onboard_time": 1770188661,
       "rank": 22,
@@ -2441,14 +2449,6 @@
       "onboard_time": 1770079041,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 271988,
-      "num": 263098,
-      "word": "俩人的关系有了退展",
-      "onboard_time": 1770189380,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 270991,
@@ -4283,6 +4283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137181,
+      "num": 186595,
+      "word": "银价又爆了",
+      "onboard_time": 1770190220,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 136957,
       "num": 136957,
       "word": "专家辟谣地球将失重7秒致千万人死亡",
@@ -4345,6 +4353,14 @@
       "onboard_time": 1769947460,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 135703,
+      "num": 135703,
+      "word": "受害者称曾为爱泼斯坦生下女儿",
+      "onboard_time": 1770189740,
+      "rank": 21,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 135547,
@@ -4739,14 +4755,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 123961,
-      "num": 123961,
-      "word": "受害者称曾为爱泼斯坦生下女儿",
-      "onboard_time": 1770189740,
-      "rank": 21,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 123845,
       "num": 123845,
       "word": "李微漪发长文",
@@ -4793,6 +4801,14 @@
       "onboard_time": 1770015800,
       "rank": 41,
       "category": "财经"
+    },
+    {
+      "raw_hot": 123366,
+      "num": 123366,
+      "word": "胡定欣发文宣布离开TVB",
+      "onboard_time": 1770191300,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 123353,
@@ -5307,14 +5323,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 113891,
-      "num": 113891,
-      "word": "银价又爆了",
-      "onboard_time": 1770190220,
-      "rank": 24,
-      "category": "财经"
-    },
-    {
       "raw_hot": 113867,
       "num": 113867,
       "word": "年度十大影响力电视剧",
@@ -5723,6 +5731,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 107200,
+      "num": 107200,
+      "word": "女子做美甲后手指触地摔骨折",
+      "onboard_time": 1770189501,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107084,
       "num": 107084,
       "word": "李微漪证实狼王格林已自然老去",
@@ -6035,14 +6051,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 103320,
-      "num": 103320,
-      "word": "女子做美甲后手指触地摔骨折",
-      "onboard_time": 1770189501,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 103183,
       "num": 103183,
       "word": "仙逆",
@@ -6123,6 +6131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 101699,
+      "num": 101699,
+      "word": "电诈园区逼人用电棍电自己",
+      "onboard_time": 1770190401,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101376,
       "num": 101376,
       "word": "两男孩玩火烧死萨摩耶监控曝光",
@@ -6195,6 +6211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 100607,
+      "num": 100607,
+      "word": "曾舜晞 不冻死就行",
+      "onboard_time": 1770191780,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 100559,
       "num": 100559,
       "word": "睡眠不足害惨年轻人了",
@@ -6233,6 +6257,14 @@
       "onboard_time": 1770165381,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 99996,
+      "num": 99996,
+      "word": "朊病毒究竟是什么",
+      "onboard_time": 1770191839,
+      "rank": 31,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 99989,
@@ -6819,6 +6851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 91890,
+      "num": 91890,
+      "word": "文淇回复张婧仪",
+      "onboard_time": 1770191722,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 91889,
       "num": 91889,
       "word": "挪威王储妃曾与爱泼斯坦讨论猎艳",
@@ -6848,14 +6888,6 @@
       "word": "广州一初中生放假回家的视频火了",
       "onboard_time": 1769903477,
       "rank": 31,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 91428,
-      "num": 91428,
-      "word": "电诈园区逼人用电棍电自己",
-      "onboard_time": 1770190401,
-      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -6921,14 +6953,6 @@
       "onboard_time": 1770163459,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 90436,
-      "num": 90436,
-      "word": "胡定欣发文宣布离开TVB",
-      "onboard_time": 1770191300,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 90328,
@@ -7779,6 +7803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 79943,
+      "num": 79943,
+      "word": "国投白银重估基金资产",
+      "onboard_time": 1770190941,
+      "rank": 41,
+      "category": "财经"
+    },
+    {
       "raw_hot": 79902,
       "num": 79902,
       "word": "宋威龙这个明爽",
@@ -8185,6 +8217,14 @@
       "onboard_time": 1770185541,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 71129,
+      "num": 71129,
+      "word": "还以为泡芙被虫子咬了个洞",
+      "onboard_time": 1770192021,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 71071,
@@ -10323,11 +10363,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 8294,
+      "num": 81865,
+      "word": "2岁女童误喝强酸进ICU妈妈又患癌",
+      "onboard_time": 1770192021,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 7663,
       "num": 78183,
       "word": "湖北成立调查组彻查精神病院问题",
       "onboard_time": 1770172579,
       "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 6714,
+      "num": 87124,
+      "word": "周生生涉事挂坠封存送检照曝光",
+      "onboard_time": 1770192081,
+      "rank": 37,
       "category": "民生新闻"
     },
     {

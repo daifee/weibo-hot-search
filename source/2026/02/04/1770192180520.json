@@ -1,0 +1,410 @@
+{
+  "runTime": 1770192180520,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 340926,
+        "num": 1054548,
+        "word": "宝马停商场8101小时计费16900元",
+        "onboard_time": 1770184820,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 304676,
+        "num": 761841,
+        "word": "胖东来春节放5天员工发声",
+        "onboard_time": 1770184881,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24681,
+        "num": 616342,
+        "word": "我国已实现3亿人参与冰雪运动目标",
+        "onboard_time": 1770178762,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 576843,
+        "num": 576843,
+        "word": "爱吃车厘子的人天塌了",
+        "onboard_time": 1770179121,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 224988,
+        "num": 224988,
+        "word": "马凡舒上了两次马年春晚",
+        "onboard_time": 1770185780,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 551217,
+        "num": 218724,
+        "word": "俩人的关系有了退展",
+        "onboard_time": 1770189380,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 211743,
+        "num": 211743,
+        "word": "大侦探",
+        "onboard_time": 1770184580,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187331,
+        "num": 187331,
+        "word": "立春",
+        "onboard_time": 1770160458,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137181,
+        "num": 186595,
+        "word": "银价又爆了",
+        "onboard_time": 1770190220,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 135040,
+        "num": 186520,
+        "word": "胡歌说杨紫的戏不是一般的好",
+        "onboard_time": 1770182900,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 688028,
+        "num": 185223,
+        "word": "爱泼斯坦自缢后甲状软骨几乎完全骨折",
+        "onboard_time": 1770188901,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 573421,
+        "num": 184878,
+        "word": "黄多多自拍",
+        "onboard_time": 1770184580,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 316444,
+        "num": 183789,
+        "word": "男子结扎后妻子又又又怀孕",
+        "onboard_time": 1770181881,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 671590,
+        "num": 183194,
+        "word": "爱泼斯坦自缢后照片首度公开",
+        "onboard_time": 1770177981,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 271064,
+        "num": 181778,
+        "word": "Jennie不理解收集小卡但尊重",
+        "onboard_time": 1770188661,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181777,
+        "num": 181777,
+        "word": "元宝",
+        "onboard_time": 1770185601,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 192809,
+        "num": 180118,
+        "word": "爱泼斯坦曾称帮霍金圆了潜水梦",
+        "onboard_time": 1770186021,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 168812,
+        "num": 168812,
+        "word": "大疆最想删的视频出现了",
+        "onboard_time": 1770182061,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 48930,
+        "num": 139714,
+        "word": "霸王茶姬福贴放自己一马",
+        "onboard_time": 1770188841,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 135703,
+        "num": 135703,
+        "word": "受害者称曾为爱泼斯坦生下女儿",
+        "onboard_time": 1770189740,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1007199,
+        "num": 134790,
+        "word": "萨摩耶主人已删除此前发文",
+        "onboard_time": 1770189441,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133265,
+        "num": 133265,
+        "word": "郑大一附院医生诈骗94名患者获刑",
+        "onboard_time": 1770178881,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128871,
+        "num": 128871,
+        "word": "沈腾左脚确诊多动症",
+        "onboard_time": 1770180442,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123366,
+        "num": 123366,
+        "word": "胡定欣发文宣布离开TVB",
+        "onboard_time": 1770191300,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123287,
+        "num": 123287,
+        "word": "iPhone18系列外观出炉",
+        "onboard_time": 1770176841,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 112411,
+        "num": 112411,
+        "word": "曝王心凌吴克群同回家",
+        "onboard_time": 1770175580,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107200,
+        "num": 107200,
+        "word": "女子做美甲后手指触地摔骨折",
+        "onboard_time": 1770189501,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103478,
+        "num": 103478,
+        "word": "东申未来 文淇双女主",
+        "onboard_time": 1770186921,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101699,
+        "num": 101699,
+        "word": "电诈园区逼人用电棍电自己",
+        "onboard_time": 1770190401,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100607,
+        "num": 100607,
+        "word": "曾舜晞 不冻死就行",
+        "onboard_time": 1770191780,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100097,
+        "num": 100097,
+        "word": "金宣虎承认逃税并道歉",
+        "onboard_time": 1770173120,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99996,
+        "num": 99996,
+        "word": "朊病毒究竟是什么",
+        "onboard_time": 1770191839,
+        "rank": 31,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 95593,
+        "num": 95593,
+        "word": "时团 录完你的录你的",
+        "onboard_time": 1770190161,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94893,
+        "num": 94893,
+        "word": "经常熬夜的7个自救动作",
+        "onboard_time": 1770190102,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 91890,
+        "num": 91890,
+        "word": "文淇回复张婧仪",
+        "onboard_time": 1770191722,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91015,
+        "num": 91015,
+        "word": "多看书真的会影响人的潜意识",
+        "onboard_time": 1770185901,
+        "rank": 35,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 88554,
+        "num": 88554,
+        "word": "微博之夜",
+        "onboard_time": 1770163941,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 6714,
+        "num": 87124,
+        "word": "周生生涉事挂坠封存送检照曝光",
+        "onboard_time": 1770192081,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85720,
+        "num": 85720,
+        "word": "过年不买新衣服",
+        "onboard_time": 1770187399,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 8294,
+        "num": 81865,
+        "word": "2岁女童误喝强酸进ICU妈妈又患癌",
+        "onboard_time": 1770192021,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81674,
+        "num": 81674,
+        "word": "金饰价格涨到1600元",
+        "onboard_time": 1770169698,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 79943,
+        "num": 79943,
+        "word": "国投白银重估基金资产",
+        "onboard_time": 1770190941,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 79136,
+        "num": 79136,
+        "word": "王鸥杀回芒果一次比一次哇噻",
+        "onboard_time": 1770190640,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77935,
+        "num": 77935,
+        "word": "白鹿被自己演的吓一跳",
+        "onboard_time": 1770182661,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75831,
+        "num": 75831,
+        "word": "头发自然干vs吹风机吹干",
+        "onboard_time": 1770183561,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 74282,
+        "num": 74282,
+        "word": "金银惊天大逆转",
+        "onboard_time": 1770183681,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 73342,
+        "num": 73342,
+        "word": "肖战签名专辑",
+        "onboard_time": 1770183381,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 71129,
+        "num": 71129,
+        "word": "还以为泡芙被虫子咬了个洞",
+        "onboard_time": 1770192021,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 70714,
+        "num": 70714,
+        "word": "电视剧离职vs现实中离职",
+        "onboard_time": 1770185179,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 70297,
+        "num": 70297,
+        "word": "39岁刘心悦成春晚主持人新面孔",
+        "onboard_time": 1770179423,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国金融事业的本质和本分#"
+    }
+  }
+}
