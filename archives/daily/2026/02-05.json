@@ -1,6 +1,6 @@
 {
   "startTime": 1770221309024,
-  "endTime": 1770244728857,
+  "endTime": 1770245617435,
   "band_list": [
     {
       "raw_hot": 679797,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 354360,
-      "num": 354360,
+      "num": 388855,
       "word": "立陶宛真急了",
       "onboard_time": 1770215003,
       "rank": 4,
@@ -81,6 +81,14 @@
       "onboard_time": 1770214162,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 298162,
+      "num": 298162,
+      "word": "成何体统",
+      "onboard_time": 1770222020,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 272407,
@@ -121,14 +129,6 @@
       "onboard_time": 1770217822,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 230532,
-      "num": 230532,
-      "word": "成何体统",
-      "onboard_time": 1770222020,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 227877,
@@ -299,8 +299,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 78591,
+      "num": 56161,
+      "word": "微信为什么要打自家人元宝",
+      "onboard_time": 1770224117,
+      "rank": 45,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 74700,
-      "num": 46136,
+      "num": 55056,
       "word": "特朗普政府为何急于将爱泼斯坦案翻篇",
       "onboard_time": 1770239175,
       "rank": 18,
@@ -387,6 +395,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 66438,
+      "num": 46076,
+      "word": "王楚钦怒斥不文明观赛观众",
+      "onboard_time": 1770243135,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 65683,
       "num": 65683,
       "word": "小寒 寒王",
@@ -411,28 +427,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 57607,
-      "num": 54374,
-      "word": "微信为什么要打自家人元宝",
-      "onboard_time": 1770224117,
-      "rank": 45,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 55222,
       "num": 55222,
       "word": "被杀搜救犬曾是流浪狗多次救人",
       "onboard_time": 1770220700,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 51786,
-      "num": 34497,
-      "word": "王楚钦怒斥不文明观赛观众",
-      "onboard_time": 1770243135,
-      "rank": 20,
-      "category": "体育"
     },
     {
       "raw_hot": 45982,
@@ -459,6 +459,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 36836,
+      "num": 36836,
+      "word": "冬奥会首轮比赛遭遇意外停电",
+      "onboard_time": 1770243615,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 34688,
+      "num": 34688,
+      "word": "娃娃菜事件为何反转再反转",
+      "onboard_time": 1770244936,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34650,
       "num": 579363,
       "word": "2025中国考古新成果",
@@ -472,6 +488,14 @@
       "word": "时代少年团 李飞的题海战术",
       "onboard_time": 1770210921,
       "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 33099,
+      "num": 33099,
+      "word": "代旭私下这么潮",
+      "onboard_time": 1770211823,
+      "rank": 49,
       "category": "艺人"
     },
     {
@@ -491,12 +515,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 30834,
-      "num": 30834,
-      "word": "代旭私下这么潮",
-      "onboard_time": 1770211823,
-      "rank": 49,
-      "category": "艺人"
+      "raw_hot": 28967,
+      "num": 28967,
+      "word": "3岁萌娃就开始立规矩了",
+      "onboard_time": 1770229275,
+      "rank": 34,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 28021,
@@ -507,28 +531,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 27278,
-      "num": 27278,
-      "word": "3岁萌娃就开始立规矩了",
-      "onboard_time": 1770229275,
-      "rank": 34,
-      "category": "母婴育儿"
-    },
-    {
       "raw_hot": 25801,
       "num": 28630,
       "word": "卢昱晓檀健次古偶氛围感",
       "onboard_time": 1770227775,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 25376,
-      "num": 25376,
-      "word": "冬奥会首轮比赛遭遇意外停电",
-      "onboard_time": 1770243615,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 25281,
@@ -547,6 +555,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23637,
+      "num": 23637,
+      "word": "比尔盖茨否认去过萝莉岛",
+      "onboard_time": 1770210921,
+      "rank": 43,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 22628,
+      "num": 22628,
+      "word": "生命树紧张",
+      "onboard_time": 1770244755,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 22481,
       "num": 28536,
       "word": "摇汞 时尚芭莎",
@@ -555,12 +579,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 19694,
-      "num": 41718,
+      "raw_hot": 21437,
+      "num": 68934,
       "word": "米兰冬奥会混双冰壶",
       "onboard_time": 1770232395,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 21001,
+      "num": 21537,
+      "word": "你真的不必为这些事感到内疚",
+      "onboard_time": 1770244335,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 17821,
@@ -571,28 +603,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 17791,
-      "num": 19508,
-      "word": "比尔盖茨否认去过萝莉岛",
-      "onboard_time": 1770210921,
-      "rank": 43,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 17700,
       "num": 19511,
       "word": "黄星邱鼎杰合照",
       "onboard_time": 1770225498,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 17524,
-      "num": 19511,
-      "word": "你真的不必为这些事感到内疚",
-      "onboard_time": 1770244335,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 16485,
@@ -643,8 +659,16 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 1269,
-      "num": 263775,
+      "raw_hot": 1613,
+      "num": 193997,
+      "word": "米兰冬奥会",
+      "onboard_time": 1770165622,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1399,
+      "num": 315632,
       "word": "冰雪春天",
       "onboard_time": 1770037581,
       "rank": 2,
