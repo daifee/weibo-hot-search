@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/02/05 06:53:37
+本榜单时间：2026/01/01 00:35:36 ~ 2026/02/05 07:36:44
 </p>
 </blockquote>
 <p>
@@ -1005,6 +1005,12 @@ woojin 塌房（热度：1279260）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AF%94%E5%B0%94%E7%9B%96%E8%8C%A8%E9%81%93%E6%AD%89%23" target="weibo">
+比尔盖茨道歉（热度：1271843）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%BE%88%23" target="weibo">
 小澈（热度：1271113）
 </a>
@@ -1805,12 +1811,6 @@ TF家族荣耀之战演唱会官宣（热度：1014473）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23LWX%20%E7%BB%93%E5%A9%9A%23" target="weibo">
 LWX 结婚（热度：1010442）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%A2%AB%E6%89%93%E5%88%B0%E4%B8%83%E5%AF%B8%E4%BA%86%23" target="weibo">
-日本被打到七寸了（热度：1010218）
 </a>
 </li>
 

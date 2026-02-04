@@ -1,0 +1,410 @@
+{
+  "runTime": 1770248204472,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 532328,
+        "num": 895172,
+        "word": "马斯克被激怒",
+        "onboard_time": 1770212001,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 312704,
+        "num": 650013,
+        "word": "立陶宛真急了",
+        "onboard_time": 1770215003,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 2131,
+        "num": 517295,
+        "word": "冰雪春天",
+        "onboard_time": 1770037581,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 327636,
+        "num": 327636,
+        "word": "成何体统",
+        "onboard_time": 1770222020,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 5140,
+        "num": 277056,
+        "word": "米兰冬奥会",
+        "onboard_time": 1770165622,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 275680,
+        "num": 275680,
+        "word": "王楚钦怒斥不文明观赛观众",
+        "onboard_time": 1770243135,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 222748,
+        "num": 222748,
+        "word": "身体上的任何一块皮肤都比脸要好",
+        "onboard_time": 1770217702,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 184290,
+        "num": 184290,
+        "word": "微博之夜节目单",
+        "onboard_time": 1770210501,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 152023,
+        "num": 152023,
+        "word": "台湾问题是中美关系中最重要的问题",
+        "onboard_time": 1770221361,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 25751,
+        "num": 149886,
+        "word": "米兰冬奥会混双冰壶",
+        "onboard_time": 1770232395,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1271843,
+        "num": 144053,
+        "word": "比尔盖茨道歉",
+        "onboard_time": 1770246676,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 396573,
+        "num": 139050,
+        "word": "丈夫结扎妻子又怀孕家里已有3孩",
+        "onboard_time": 1770219381,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201258,
+        "num": 135320,
+        "word": "微信为什么要打自家人元宝",
+        "onboard_time": 1770224117,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 205282,
+        "num": 129775,
+        "word": "爱泼斯坦豪宅大量儿童角色扮演服装",
+        "onboard_time": 1770212242,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 125889,
+        "num": 125889,
+        "word": "诸葛亮后人要求撤销猪葛亮商标",
+        "onboard_time": 1770214162,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124371,
+        "num": 124371,
+        "word": "打金店1个月垃圾扫出金粉值200万",
+        "onboard_time": 1770213023,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121107,
+        "num": 121107,
+        "word": "取消中高考是早晚的事",
+        "onboard_time": 1770248058,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 119333,
+        "num": 119333,
+        "word": "独行侠奇才交易",
+        "onboard_time": 1770246676,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115236,
+        "num": 115236,
+        "word": "娃娃菜事件为何反转再反转",
+        "onboard_time": 1770244936,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108510,
+        "num": 108510,
+        "word": "金银再度回落",
+        "onboard_time": 1770219501,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 299277,
+        "num": 106732,
+        "word": "爱泼斯坦被曝让14岁女孩脱衣按摩",
+        "onboard_time": 1770209600,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 95989,
+        "num": 95989,
+        "word": "校长与离异女教师恋爱被定师德不合格",
+        "onboard_time": 1770200840,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91681,
+        "num": 91681,
+        "word": "洗完头真的真的不要用毛巾搓",
+        "onboard_time": 1770207021,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 87411,
+        "num": 87411,
+        "word": "女子称花200元独享一架客机飞成都",
+        "onboard_time": 1770246978,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85016,
+        "num": 85016,
+        "word": "王橹杰 学长好",
+        "onboard_time": 1770217282,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80662,
+        "num": 80662,
+        "word": "32岁女子害怕催婚3年不敢回家过年",
+        "onboard_time": 1770209961,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79377,
+        "num": 79377,
+        "word": "这还是我认识的锤娜丽莎吗",
+        "onboard_time": 1770212963,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78987,
+        "num": 78987,
+        "word": "比尔盖茨前妻称整个社会正在清算",
+        "onboard_time": 1770208521,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 78313,
+        "num": 78313,
+        "word": "江疏影 上桌",
+        "onboard_time": 1770215303,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75934,
+        "num": 75934,
+        "word": "12306回应男子自带折叠椅坐高铁",
+        "onboard_time": 1770210621,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73290,
+        "num": 73290,
+        "word": "公积金改革迎破局关键节点",
+        "onboard_time": 1770248118,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70793,
+        "num": 70793,
+        "word": "肖战 演唱会",
+        "onboard_time": 1770205281,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69183,
+        "num": 69183,
+        "word": "特朗普政府为何急于将爱泼斯坦案翻篇",
+        "onboard_time": 1770239175,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 69047,
+        "num": 69047,
+        "word": "吃娃娃菜中毒夫妻曾注册两家公司",
+        "onboard_time": 1770245776,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66219,
+        "num": 66219,
+        "word": "生命树紧张",
+        "onboard_time": 1770244755,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 65909,
+        "num": 65909,
+        "word": "冬奥会首轮比赛遭遇意外停电",
+        "onboard_time": 1770243615,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 64602,
+        "num": 64602,
+        "word": "中美元首通电话",
+        "onboard_time": 1770215423,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 63982,
+        "num": 63982,
+        "word": "貂蝉年限 美神",
+        "onboard_time": 1770208700,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 62442,
+        "num": 62442,
+        "word": "微博之夜全阵容名单",
+        "onboard_time": 1770214943,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 61365,
+        "num": 61365,
+        "word": "游客手握冻土豆泪崩视频爆火",
+        "onboard_time": 1770246978,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54063,
+        "num": 54063,
+        "word": "保剑锋给历史剧上强度了",
+        "onboard_time": 1770219023,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 51047,
+        "num": 51047,
+        "word": "安徽萧县地震",
+        "onboard_time": 1770247277,
+        "rank": 41,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 50428,
+        "num": 50428,
+        "word": "D社转发金宣虎澄清文",
+        "onboard_time": 1770217822,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50418,
+        "num": 50418,
+        "word": "被杀搜救犬曾是流浪狗多次救人",
+        "onboard_time": 1770220700,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50178,
+        "num": 50178,
+        "word": "惊蛰无声 王晰",
+        "onboard_time": 1770213563,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 49103,
+        "num": 49103,
+        "word": "成都机器人碰到老人双双倒地不起",
+        "onboard_time": 1770248179,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45516,
+        "num": 45516,
+        "word": "不管你是谁请你从黄奕身上下来",
+        "onboard_time": 1770221180,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 43774,
+        "num": 43774,
+        "word": "太平年水丘公满门被屠",
+        "onboard_time": 1770220760,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42987,
+        "num": 42987,
+        "word": "海口亚洲杯",
+        "onboard_time": 1770247457,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39488,
+        "num": 39488,
+        "word": "上班两天技师猥亵顾客被行拘7日",
+        "onboard_time": 1770226336,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中俄元首举行视频会晤#"
+    }
+  }
+}

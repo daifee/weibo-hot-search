@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1770245617435,
+  "endTime": 1770248204472,
   "band_list": [
     {
       "raw_hot": 4038416,
@@ -137,6 +137,14 @@
       "onboard_time": 1770037342,
       "rank": 9,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1271843,
+      "num": 144053,
+      "word": "比尔盖茨道歉",
+      "onboard_time": 1770246676,
+      "rank": 10,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1269650,
@@ -1228,7 +1236,7 @@
     },
     {
       "raw_hot": 483936,
-      "num": 483936,
+      "num": 650013,
       "word": "立陶宛真急了",
       "onboard_time": 1770215003,
       "rank": 14,
@@ -1739,6 +1747,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 396573,
+      "num": 149822,
+      "word": "丈夫结扎妻子又怀孕家里已有3孩",
+      "onboard_time": 1770219381,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 395046,
       "num": 395046,
       "word": "杨紫演技",
@@ -1857,14 +1873,6 @@
       "onboard_time": 1770121100,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 374084,
-      "num": 149822,
-      "word": "丈夫结扎妻子又怀孕家里已有3孩",
-      "onboard_time": 1770219381,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 373742,
@@ -2259,6 +2267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 327636,
+      "num": 327636,
+      "word": "成何体统",
+      "onboard_time": 1769996360,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 326173,
       "num": 326173,
       "word": "喝点粉色的液体",
@@ -2531,14 +2547,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 298162,
-      "num": 298162,
-      "word": "成何体统",
-      "onboard_time": 1769996360,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 297826,
       "num": 242635,
       "word": "林子烨 禁止五三娱乐化",
@@ -2729,6 +2737,14 @@
       "onboard_time": 1770017602,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 275680,
+      "num": 275680,
+      "word": "王楚钦怒斥不文明观赛观众",
+      "onboard_time": 1770243135,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 275289,
@@ -3539,6 +3555,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 205282,
+      "num": 129775,
+      "word": "爱泼斯坦豪宅大量儿童角色扮演服装",
+      "onboard_time": 1770212242,
+      "rank": 44,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 204806,
       "num": 179587,
       "word": "五福的第一笔钱到账了",
@@ -3577,6 +3601,14 @@
       "onboard_time": 1770178881,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 201258,
+      "num": 135320,
+      "word": "微信为什么要打自家人元宝",
+      "onboard_time": 1770224117,
+      "rank": 45,
+      "category": "互联网"
     },
     {
       "raw_hot": 200805,
@@ -5595,6 +5627,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 121107,
+      "num": 121107,
+      "word": "取消中高考是早晚的事",
+      "onboard_time": 1770248058,
+      "rank": 16,
+      "category": "教育"
+    },
+    {
       "raw_hot": 120821,
       "num": 120821,
       "word": "叶祖新 我怕你们又说我暧昧",
@@ -5723,6 +5763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 119333,
+      "num": 119333,
+      "word": "独行侠奇才交易",
+      "onboard_time": 1770246676,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119224,
       "num": 119224,
       "word": "黄圣依张凌赫豪门家族又上人了",
@@ -5769,14 +5817,6 @@
       "onboard_time": 1770014002,
       "rank": 43,
       "category": "网红"
-    },
-    {
-      "raw_hot": 118335,
-      "num": 118335,
-      "word": "爱泼斯坦豪宅大量儿童角色扮演服装",
-      "onboard_time": 1770212242,
-      "rank": 44,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 118319,
@@ -5929,6 +5969,14 @@
       "onboard_time": 1770030803,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 115236,
+      "num": 115236,
+      "word": "娃娃菜事件为何反转再反转",
+      "onboard_time": 1770244936,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 115190,
@@ -8139,6 +8187,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 87411,
+      "num": 87411,
+      "word": "女子称花200元独享一架客机飞成都",
+      "onboard_time": 1770246978,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87308,
       "num": 85654,
       "word": "胡歌盛赞杨紫",
@@ -8947,14 +9003,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 78591,
-      "num": 56161,
-      "word": "微信为什么要打自家人元宝",
-      "onboard_time": 1770224117,
-      "rank": 45,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 78499,
       "num": 78499,
       "word": "寿司in my胃",
@@ -9196,7 +9244,7 @@
     },
     {
       "raw_hot": 74700,
-      "num": 55056,
+      "num": 69183,
       "word": "特朗普政府为何急于将爱泼斯坦案翻篇",
       "onboard_time": 1770239175,
       "rank": 18,
@@ -9281,6 +9329,14 @@
       "onboard_time": 1769926941,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 73290,
+      "num": 73290,
+      "word": "公积金改革迎破局关键节点",
+      "onboard_time": 1770248118,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 73211,
@@ -9443,6 +9499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 69047,
+      "num": 69047,
+      "word": "吃娃娃菜中毒夫妻曾注册两家公司",
+      "onboard_time": 1770245776,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69036,
       "num": 69036,
       "word": "意大利农村留学的一天",
@@ -9587,12 +9651,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 66438,
-      "num": 46076,
-      "word": "王楚钦怒斥不文明观赛观众",
-      "onboard_time": 1770243135,
-      "rank": 20,
-      "category": "体育"
+      "raw_hot": 66219,
+      "num": 66219,
+      "word": "生命树紧张",
+      "onboard_time": 1770244755,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 65973,
@@ -9601,6 +9665,14 @@
       "onboard_time": 1770075558,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 65909,
+      "num": 65909,
+      "word": "冬奥会首轮比赛遭遇意外停电",
+      "onboard_time": 1770243615,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 65780,
@@ -9857,6 +9929,14 @@
       "onboard_time": 1769905099,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 61365,
+      "num": 61365,
+      "word": "游客手握冻土豆泪崩视频爆火",
+      "onboard_time": 1770246978,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 61277,
@@ -10227,6 +10307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 51047,
+      "num": 51047,
+      "word": "安徽萧县地震",
+      "onboard_time": 1770247277,
+      "rank": 41,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 50940,
       "num": 50940,
       "word": "王鹤棣一把抢过孟子义的手捧花",
@@ -10313,6 +10401,14 @@
       "onboard_time": 1770073397,
       "rank": 42,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 49103,
+      "num": 49103,
+      "word": "成都机器人碰到老人双双倒地不起",
+      "onboard_time": 1770248179,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 49075,
@@ -10523,6 +10619,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 43774,
+      "num": 43774,
+      "word": "太平年水丘公满门被屠",
+      "onboard_time": 1770220760,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 43771,
       "num": 49434,
       "word": "流量狂欢下的真相迷失与信任危机",
@@ -10561,6 +10665,14 @@
       "onboard_time": 1770162498,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 42987,
+      "num": 42987,
+      "word": "海口亚洲杯",
+      "onboard_time": 1770247457,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 42277,
@@ -10641,6 +10753,14 @@
       "onboard_time": 1770100460,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 39488,
+      "num": 39488,
+      "word": "上班两天技师猥亵顾客被行拘7日",
+      "onboard_time": 1770226336,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 39246,
@@ -10787,14 +10907,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 36836,
-      "num": 36836,
-      "word": "冬奥会首轮比赛遭遇意外停电",
-      "onboard_time": 1770243615,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 36596,
       "num": 211740,
       "word": "王濛米兰见功夫",
@@ -10888,14 +11000,6 @@
       "word": "百余人参加所谓公益助学被骗上千万",
       "onboard_time": 1769915899,
       "rank": 23,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 34688,
-      "num": 34688,
-      "word": "娃娃菜事件为何反转再反转",
-      "onboard_time": 1770244936,
-      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -11283,20 +11387,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 25751,
+      "num": 149886,
+      "word": "米兰冬奥会混双冰壶",
+      "onboard_time": 1770232395,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 25529,
       "num": 698120,
       "word": "2026春运奔赴团圆路",
       "onboard_time": 1770037222,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 25281,
-      "num": 28618,
-      "word": "太平年水丘公满门被屠",
-      "onboard_time": 1770220760,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 25252,
@@ -11368,14 +11472,6 @@
       "word": "求学逆袭王周信静母校发声",
       "onboard_time": 1769915899,
       "rank": 43,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 24044,
-      "num": 28541,
-      "word": "上班两天技师猥亵顾客被行拘7日",
-      "onboard_time": 1770226336,
-      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -11459,14 +11555,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 22628,
-      "num": 22628,
-      "word": "生命树紧张",
-      "onboard_time": 1770244755,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 22481,
       "num": 28536,
       "word": "摇汞 时尚芭莎",
@@ -11537,14 +11625,6 @@
       "onboard_time": 1770198260,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 21437,
-      "num": 68934,
-      "word": "米兰冬奥会混双冰壶",
-      "onboard_time": 1770232395,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 21307,
@@ -11628,7 +11708,7 @@
     },
     {
       "raw_hot": 19195,
-      "num": 193997,
+      "num": 277056,
       "word": "米兰冬奥会",
       "onboard_time": 1769885655,
       "rank": 48,
@@ -12084,7 +12164,7 @@
     },
     {
       "raw_hot": 3674,
-      "num": 315632,
+      "num": 517295,
       "word": "冰雪春天",
       "onboard_time": 1770037581,
       "rank": 25,
