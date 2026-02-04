@@ -1,0 +1,410 @@
+{
+  "runTime": 1770191656533,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 376988,
+        "num": 1060318,
+        "word": "宝马停商场8101小时计费16900元",
+        "onboard_time": 1770184820,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 327844,
+        "num": 773044,
+        "word": "胖东来春节放5天员工发声",
+        "onboard_time": 1770184881,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21686,
+        "num": 610773,
+        "word": "我国已实现3亿人参与冰雪运动目标",
+        "onboard_time": 1770178762,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 603928,
+        "num": 603928,
+        "word": "爱吃车厘子的人天塌了",
+        "onboard_time": 1770179121,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 267934,
+        "num": 267934,
+        "word": "马凡舒上了两次马年春晚",
+        "onboard_time": 1770185780,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 271988,
+        "num": 263098,
+        "word": "俩人的关系有了退展",
+        "onboard_time": 1770189380,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 247440,
+        "num": 247440,
+        "word": "大侦探",
+        "onboard_time": 1770184580,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182706,
+        "num": 182706,
+        "word": "立春",
+        "onboard_time": 1770160458,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137493,
+        "num": 137493,
+        "word": "胡歌说杨紫的戏不是一般的好",
+        "onboard_time": 1770182900,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127643,
+        "num": 136966,
+        "word": "郑大一附院医生诈骗94名患者获刑",
+        "onboard_time": 1770178881,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 721745,
+        "num": 136642,
+        "word": "爱泼斯坦自缢后照片首度公开",
+        "onboard_time": 1770177981,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 579912,
+        "num": 135846,
+        "word": "黄多多自拍",
+        "onboard_time": 1770184580,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 327911,
+        "num": 134734,
+        "word": "男子结扎后妻子又又又怀孕",
+        "onboard_time": 1770181881,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 661196,
+        "num": 134184,
+        "word": "爱泼斯坦自缢后甲状软骨几乎完全骨折",
+        "onboard_time": 1770188901,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 297099,
+        "num": 133053,
+        "word": "Jennie不理解收集小卡但尊重",
+        "onboard_time": 1770188661,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216919,
+        "num": 131876,
+        "word": "元宝",
+        "onboard_time": 1770185601,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 201960,
+        "num": 131361,
+        "word": "爱泼斯坦曾称帮霍金圆了潜水梦",
+        "onboard_time": 1770186021,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 196496,
+        "num": 130490,
+        "word": "大疆最想删的视频出现了",
+        "onboard_time": 1770182061,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 130216,
+        "num": 130216,
+        "word": "沈腾左脚确诊多动症",
+        "onboard_time": 1770180442,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68371,
+        "num": 124773,
+        "word": "霸王茶姬福贴放自己一马",
+        "onboard_time": 1770188841,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 979145,
+        "num": 124715,
+        "word": "萨摩耶主人已删除此前发文",
+        "onboard_time": 1770189441,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123961,
+        "num": 123961,
+        "word": "受害者称曾为爱泼斯坦生下女儿",
+        "onboard_time": 1770189740,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 122718,
+        "num": 122718,
+        "word": "iPhone18系列外观出炉",
+        "onboard_time": 1770176841,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 115377,
+        "num": 115377,
+        "word": "曝王心凌吴克群同回家",
+        "onboard_time": 1770175580,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113891,
+        "num": 113891,
+        "word": "银价又爆了",
+        "onboard_time": 1770190220,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 110300,
+        "num": 110300,
+        "word": "东申未来 文淇双女主",
+        "onboard_time": 1770186921,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110169,
+        "num": 110169,
+        "word": "微博之夜",
+        "onboard_time": 1770163941,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 103320,
+        "num": 103320,
+        "word": "女子做美甲后手指触地摔骨折",
+        "onboard_time": 1770189501,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109956,
+        "num": 102246,
+        "word": "王鸥杀回芒果一次比一次哇噻",
+        "onboard_time": 1770190640,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98408,
+        "num": 98408,
+        "word": "经常熬夜的7个自救动作",
+        "onboard_time": 1770190102,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 101084,
+        "num": 98315,
+        "word": "多看书真的会影响人的潜意识",
+        "onboard_time": 1770185901,
+        "rank": 30,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 97741,
+        "num": 97741,
+        "word": "时团 录完你的录你的",
+        "onboard_time": 1770190161,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96392,
+        "num": 96392,
+        "word": "金宣虎承认逃税并道歉",
+        "onboard_time": 1770173120,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87793,
+        "num": 92292,
+        "word": "金银惊天大逆转",
+        "onboard_time": 1770183681,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 91428,
+        "num": 91428,
+        "word": "电诈园区逼人用电棍电自己",
+        "onboard_time": 1770190401,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90436,
+        "num": 90436,
+        "word": "胡定欣发文宣布离开TVB",
+        "onboard_time": 1770191300,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89626,
+        "num": 89626,
+        "word": "金饰价格涨到1600元",
+        "onboard_time": 1770169698,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 87990,
+        "num": 87990,
+        "word": "过年不买新衣服",
+        "onboard_time": 1770187399,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 79555,
+        "num": 79555,
+        "word": "头发自然干vs吹风机吹干",
+        "onboard_time": 1770183561,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 78927,
+        "num": 78927,
+        "word": "电视剧离职vs现实中离职",
+        "onboard_time": 1770185179,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 78834,
+        "num": 78834,
+        "word": "39岁刘心悦成春晚主持人新面孔",
+        "onboard_time": 1770179423,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 76593,
+        "num": 76593,
+        "word": "白鹿被自己演的吓一跳",
+        "onboard_time": 1770182661,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 70674,
+        "num": 76368,
+        "word": "猫猫的脸是用圆规画的吗",
+        "onboard_time": 1770191481,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 76193,
+        "num": 76193,
+        "word": "肖战签名专辑",
+        "onboard_time": 1770183381,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 71617,
+        "num": 71617,
+        "word": "周迅欢迎文淇加入东申未来",
+        "onboard_time": 1770187101,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68234,
+        "num": 68234,
+        "word": "JackeyLove备战冬奥了吗",
+        "onboard_time": 1770188181,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 66785,
+        "num": 66785,
+        "word": "黄多多最新自拍",
+        "onboard_time": 1770179301,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65059,
+        "num": 65059,
+        "word": "四川宜宾文旅上大分",
+        "onboard_time": 1770189080,
+        "rank": 47,
+        "category": "旅游,民生新闻"
+      },
+      {
+        "raw_hot": 61889,
+        "num": 61889,
+        "word": "为什么说今年立春不一般",
+        "onboard_time": 1770180021,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61300,
+        "num": 61300,
+        "word": "张凌赫方回应常驻跑男",
+        "onboard_time": 1770174920,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国金融事业的本质和本分#"
+    }
+  }
+}

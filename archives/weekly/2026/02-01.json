@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1770189465696,
+  "endTime": 1770191656533,
   "band_list": [
     {
       "raw_hot": 4038416,
@@ -313,6 +313,14 @@
       "onboard_time": 1769942121,
       "rank": 3,
       "category": "演出"
+    },
+    {
+      "raw_hot": 979145,
+      "num": 124715,
+      "word": "萨摩耶主人已删除此前发文",
+      "onboard_time": 1770189441,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 978512,
@@ -681,6 +689,14 @@
       "onboard_time": 1769940862,
       "rank": 3,
       "category": "演出"
+    },
+    {
+      "raw_hot": 661196,
+      "num": 134184,
+      "word": "爱泼斯坦自缢后甲状软骨几乎完全骨折",
+      "onboard_time": 1770188901,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 658441,
@@ -1971,6 +1987,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 327844,
+      "num": 773044,
+      "word": "胖东来春节放5天员工发声",
+      "onboard_time": 1770184881,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 326173,
       "num": 326173,
       "word": "喝点粉色的液体",
@@ -2259,6 +2283,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 297099,
+      "num": 148898,
+      "word": "Jennie不理解收集小卡但尊重",
+      "onboard_time": 1770188661,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 296120,
       "num": 842348,
       "word": "93年男员工为了生孩子辞职",
@@ -2409,6 +2441,14 @@
       "onboard_time": 1770079041,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 271988,
+      "num": 263098,
+      "word": "俩人的关系有了退展",
+      "onboard_time": 1770189380,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 270991,
@@ -2609,6 +2649,14 @@
       "onboard_time": 1770168199,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 247440,
+      "num": 247440,
+      "word": "大侦探",
+      "onboard_time": 1770184580,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 247278,
@@ -3073,14 +3121,6 @@
       "onboard_time": 1770106761,
       "rank": 28,
       "category": "财经"
-    },
-    {
-      "raw_hot": 207635,
-      "num": 207635,
-      "word": "胖东来春节放5天员工发声",
-      "onboard_time": 1770184881,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 204806,
@@ -3923,14 +3963,6 @@
       "category": "民生新闻,动漫"
     },
     {
-      "raw_hot": 148898,
-      "num": 148898,
-      "word": "Jennie不理解收集小卡但尊重",
-      "onboard_time": 1770188661,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 148817,
       "num": 148817,
       "word": "孟子义一道题得罪所有人",
@@ -4707,6 +4739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 123961,
+      "num": 123961,
+      "word": "受害者称曾为爱泼斯坦生下女儿",
+      "onboard_time": 1770189740,
+      "rank": 21,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 123845,
       "num": 123845,
       "word": "李微漪发长文",
@@ -4929,14 +4969,6 @@
       "onboard_time": 1769948001,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 120594,
-      "num": 191103,
-      "word": "大侦探",
-      "onboard_time": 1770184580,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 120459,
@@ -5275,6 +5307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 113891,
+      "num": 113891,
+      "word": "银价又爆了",
+      "onboard_time": 1770190220,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 113867,
       "num": 113867,
       "word": "年度十大影响力电视剧",
@@ -5475,14 +5515,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 110317,
-      "num": 110317,
-      "word": "爱泼斯坦自缢后甲状软骨几乎完全骨折",
-      "onboard_time": 1770188901,
-      "rank": 30,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 110169,
       "num": 132700,
       "word": "地铁工地龙门吊坍塌砸中轿车",
@@ -5497,6 +5529,14 @@
       "onboard_time": 1769936121,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 109956,
+      "num": 102246,
+      "word": "王鸥杀回芒果一次比一次哇噻",
+      "onboard_time": 1770190640,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 109943,
@@ -5995,6 +6035,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 103320,
+      "num": 103320,
+      "word": "女子做美甲后手指触地摔骨折",
+      "onboard_time": 1770189501,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103183,
       "num": 103183,
       "word": "仙逆",
@@ -6267,6 +6315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 98408,
+      "num": 98408,
+      "word": "经常熬夜的7个自救动作",
+      "onboard_time": 1770190102,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 98385,
       "num": 98385,
       "word": "黄子弘凡鸟巢演唱会",
@@ -6337,6 +6393,14 @@
       "onboard_time": 1769869942,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 97741,
+      "num": 97741,
+      "word": "时团 录完你的录你的",
+      "onboard_time": 1770190161,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 97417,
@@ -6787,6 +6851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 91428,
+      "num": 91428,
+      "word": "电诈园区逼人用电棍电自己",
+      "onboard_time": 1770190401,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91409,
       "num": 77667,
       "word": "那英悼念袁惟仁",
@@ -6849,6 +6921,14 @@
       "onboard_time": 1770163459,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 90436,
+      "num": 90436,
+      "word": "胡定欣发文宣布离开TVB",
+      "onboard_time": 1770191300,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 90328,
@@ -7051,6 +7131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 87990,
+      "num": 87990,
+      "word": "过年不买新衣服",
+      "onboard_time": 1770187399,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 87921,
       "num": 87921,
       "word": "金银崩盘连累全球股市",
@@ -7161,14 +7249,6 @@
       "onboard_time": 1769939600,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 86751,
-      "num": 96740,
-      "word": "俩人的关系有了退展",
-      "onboard_time": 1770189380,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 86493,
@@ -7867,14 +7947,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 76755,
-      "num": 76755,
-      "word": "过年不买新衣服",
-      "onboard_time": 1770187399,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 76661,
       "num": 76661,
       "word": "TF四代赢了TOP",
@@ -8147,6 +8219,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 70674,
+      "num": 76368,
+      "word": "猫猫的脸是用圆规画的吗",
+      "onboard_time": 1770191481,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 69883,
       "num": 72222,
       "word": "20多人住店不登记还自称是皇室后代",
@@ -8217,6 +8297,14 @@
       "onboard_time": 1770020422,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 68371,
+      "num": 190170,
+      "word": "霸王茶姬福贴放自己一马",
+      "onboard_time": 1770188841,
+      "rank": 18,
+      "category": "美食"
     },
     {
       "raw_hot": 68238,
@@ -8321,6 +8409,14 @@
       "onboard_time": 1770105561,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 65059,
+      "num": 65059,
+      "word": "四川宜宾文旅上大分",
+      "onboard_time": 1770189080,
+      "rank": 47,
+      "category": "旅游,民生新闻"
     },
     {
       "raw_hot": 64739,
@@ -9265,14 +9361,6 @@
       "onboard_time": 1769856141,
       "rank": 44,
       "category": "财经"
-    },
-    {
-      "raw_hot": 36636,
-      "num": 190170,
-      "word": "霸王茶姬福贴放自己一马",
-      "onboard_time": 1770188841,
-      "rank": 18,
-      "category": "美食"
     },
     {
       "raw_hot": 36581,
