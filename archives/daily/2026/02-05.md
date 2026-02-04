@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/02/05 00:08:29 ~ 2026/02/05 04:44:08
+本榜单时间：2026/02/05 00:08:29 ~ 2026/02/05 05:02:01
 </p>
 </blockquote>
 <p>
@@ -455,6 +455,12 @@ AL翻盘WBG（热度：60182）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BA%9A%E8%BD%A9%E5%B8%BD%E5%AD%90%E4%B8%80%E4%B9%9D%E5%88%86%23" target="weibo">
 宋亚轩帽子一九分（热度：13938）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AC%A7%E8%8E%B1%E9%9B%85%E5%B0%8F%E6%98%A5%E6%99%9A%23" target="weibo">
+欧莱雅小春晚（热度：11960）
 </a>
 </li>
 

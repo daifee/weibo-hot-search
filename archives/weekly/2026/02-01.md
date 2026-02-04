@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/02/01 00:39:22 ~ 2026/02/05 04:44:08
+本榜单时间：2026/02/01 00:39:22 ~ 2026/02/05 05:02:01
 </p>
 </blockquote>
 <p>
@@ -8969,6 +8969,12 @@ CBA（热度：12176）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%A5%E6%9F%A5%E4%B8%A5%E6%83%A9%E9%A3%9F%E5%93%81%E9%9D%9E%E6%B3%95%E6%B7%BB%E5%8A%A0%23" target="weibo">
 严查严惩食品非法添加（热度：12139）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AC%A7%E8%8E%B1%E9%9B%85%E5%B0%8F%E6%98%A5%E6%99%9A%23" target="weibo">
+欧莱雅小春晚（热度：11960）
 </a>
 </li>
 

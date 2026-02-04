@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1770237848803,
+  "endTime": 1770238921856,
   "band_list": [
     {
       "raw_hot": 4038416,
@@ -11945,6 +11945,14 @@
       "onboard_time": 1770125782,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11960,
+      "num": 14949,
+      "word": "欧莱雅小春晚",
+      "onboard_time": 1770207921,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 11800,
