@@ -1,0 +1,410 @@
+{
+  "runTime": 1770196117690,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 476205,
+        "num": 1076192,
+        "word": "短剧演员一上红毯就开大",
+        "onboard_time": 1770192500,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 298859,
+        "num": 778359,
+        "word": "隐私部位被5万人盯着看如何放心就医",
+        "onboard_time": 1770194662,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24510,
+        "num": 605446,
+        "word": "我国已实现3亿人参与冰雪运动目标",
+        "onboard_time": 1770178762,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 503176,
+        "num": 503176,
+        "word": "爱吃车厘子的人天塌了",
+        "onboard_time": 1770179121,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 392959,
+        "num": 392959,
+        "word": "金价创2009年以来最大单日涨幅",
+        "onboard_time": 1770193281,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 193798,
+        "num": 362001,
+        "word": "立春",
+        "onboard_time": 1770160458,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 603965,
+        "num": 358615,
+        "word": "俩人的关系有了退展",
+        "onboard_time": 1770189380,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 343837,
+        "num": 343837,
+        "word": "周生生涉事挂坠封存送检照曝光",
+        "onboard_time": 1770192081,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 275664,
+        "num": 275664,
+        "word": "大侦探",
+        "onboard_time": 1770184580,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195853,
+        "num": 272269,
+        "word": "银价又爆了",
+        "onboard_time": 1770190220,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 553470,
+        "num": 271963,
+        "word": "爱泼斯坦自缢后甲状软骨几乎完全骨折",
+        "onboard_time": 1770188901,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 271467,
+        "num": 271467,
+        "word": "男子结扎后妻子又又又怀孕",
+        "onboard_time": 1770181881,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229391,
+        "num": 229391,
+        "word": "胡定欣发文宣布离开TVB",
+        "onboard_time": 1770191300,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 352845,
+        "num": 228158,
+        "word": "爱泼斯坦自缢后照片首度公开",
+        "onboard_time": 1770177981,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 213955,
+        "num": 213955,
+        "word": "Jennie不理解收集小卡但尊重",
+        "onboard_time": 1770188661,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212716,
+        "num": 212716,
+        "word": "美国夫妻斩首两名亲生子女",
+        "onboard_time": 1770193823,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 26666,
+        "num": 211740,
+        "word": "王濛米兰见功夫",
+        "onboard_time": 1770192380,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75159,
+        "num": 210893,
+        "word": "2男子看手机投入互换座位吃错饭",
+        "onboard_time": 1770194901,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65862,
+        "num": 210582,
+        "word": "男子喝20支藿香正气水后开车被判刑",
+        "onboard_time": 1770195201,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16464,
+        "num": 209486,
+        "word": "花坛白骨案嫌犯被提起公诉",
+        "onboard_time": 1770195620,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 708361,
+        "num": 207585,
+        "word": "萨摩耶主人已删除此前发文",
+        "onboard_time": 1770189441,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207538,
+        "num": 207538,
+        "word": "特朗普与爱泼斯坦聚会视频曝光",
+        "onboard_time": 1770193823,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 166563,
+        "num": 166563,
+        "word": "胖东来春节放5天员工发声",
+        "onboard_time": 1770184881,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163680,
+        "num": 163680,
+        "word": "宝马停商场8101小时计费16900元",
+        "onboard_time": 1770184820,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22811,
+        "num": 154215,
+        "word": "官员落马导致16亿项目烂尾",
+        "onboard_time": 1770195921,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38432,
+        "num": 150509,
+        "word": "宁忠岩张楚桐中国代表团旗手",
+        "onboard_time": 1770194721,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149143,
+        "num": 149143,
+        "word": "孟子义去微博之夜",
+        "onboard_time": 1770194600,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 146420,
+        "num": 146420,
+        "word": "女子居然被自己的茶宠瓷麒麟咬了",
+        "onboard_time": 1770193400,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129136,
+        "num": 129136,
+        "word": "黄多多遗传了黄磊孙莉的好基因",
+        "onboard_time": 1770194840,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128094,
+        "num": 128094,
+        "word": "完形填狗",
+        "onboard_time": 1770194901,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 127073,
+        "num": 127073,
+        "word": "李子柒人民日报发文",
+        "onboard_time": 1770192261,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 125479,
+        "num": 125479,
+        "word": "元宝",
+        "onboard_time": 1770185601,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 114848,
+        "num": 114848,
+        "word": "被烧死萨摩耶主人称已和解",
+        "onboard_time": 1770193581,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108010,
+        "num": 108010,
+        "word": "大疆最想删的视频出现了",
+        "onboard_time": 1770182061,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 106757,
+        "num": 106757,
+        "word": "惊蛰无声OST阵容官宣",
+        "onboard_time": 1770195861,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 101175,
+        "num": 101175,
+        "word": "霉豆腐痛衣",
+        "onboard_time": 1770193041,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 99600,
+        "num": 99600,
+        "word": "受害者称曾为爱泼斯坦生下女儿",
+        "onboard_time": 1770189740,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 96240,
+        "num": 96240,
+        "word": "不知道马姓明星真的很抽象",
+        "onboard_time": 1770191839,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47827,
+        "num": 95128,
+        "word": "40岁东北独生女回家11个家人接站",
+        "onboard_time": 1770195620,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54738,
+        "num": 94328,
+        "word": "天坛门口随地大小躺拍照火了",
+        "onboard_time": 1770195201,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94050,
+        "num": 94050,
+        "word": "微博之夜",
+        "onboard_time": 1770163941,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 99542,
+        "num": 93235,
+        "word": "爱泼斯坦曾称帮霍金圆了潜水梦",
+        "onboard_time": 1770186021,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 91689,
+        "num": 91689,
+        "word": "马凡舒上了两次马年春晚",
+        "onboard_time": 1770185780,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89298,
+        "num": 89298,
+        "word": "公司就是我的理想型",
+        "onboard_time": 1770195861,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 89055,
+        "num": 89055,
+        "word": "东莞一男子断手被寄养腹部一个月",
+        "onboard_time": 1770193640,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86085,
+        "num": 86085,
+        "word": "经常熬夜的7个自救动作",
+        "onboard_time": 1770190102,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 85386,
+        "num": 85386,
+        "word": "云合",
+        "onboard_time": 1770193882,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 81608,
+        "num": 81608,
+        "word": "李煜东晒自拍",
+        "onboard_time": 1770192980,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78799,
+        "num": 78799,
+        "word": "金饰克价重回1600元",
+        "onboard_time": 1770196041,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 76920,
+        "num": 76920,
+        "word": "文淇回复张婧仪",
+        "onboard_time": 1770191722,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国金融事业的本质和本分#"
+    }
+  }
+}
