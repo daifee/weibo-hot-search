@@ -1,0 +1,410 @@
+{
+  "runTime": 1770199711366,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 431200,
+        "num": 1068992,
+        "word": "官员落马导致16亿项目烂尾",
+        "onboard_time": 1770195921,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 277416,
+        "num": 753651,
+        "word": "央视春晚女主持上新了",
+        "onboard_time": 1770196341,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23308,
+        "num": 624004,
+        "word": "华龙一号有新进展",
+        "onboard_time": 1770198622,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205310,
+        "num": 440437,
+        "word": "有人替陈楚生官宣了上海演唱会",
+        "onboard_time": 1770196520,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 180846,
+        "num": 411516,
+        "word": "立春",
+        "onboard_time": 1770160458,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 407168,
+        "num": 407168,
+        "word": "完形填狗",
+        "onboard_time": 1770194901,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 367827,
+        "num": 367827,
+        "word": "爱吃车厘子的人天塌了",
+        "onboard_time": 1770179121,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 174049,
+        "num": 364746,
+        "word": "前夫举报女教师与校长谈恋爱被拘留",
+        "onboard_time": 1770193521,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161233,
+        "num": 359526,
+        "word": "周生生涉事挂坠封存送检照曝光",
+        "onboard_time": 1770192081,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117712,
+        "num": 354868,
+        "word": "2男子看手机投入互换座位吃错饭",
+        "onboard_time": 1770194901,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 274193,
+        "num": 346753,
+        "word": "美国夫妻斩首两名亲生子女",
+        "onboard_time": 1770193823,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 235717,
+        "num": 345010,
+        "word": "爱泼斯坦自缢后照片首度公开",
+        "onboard_time": 1770177981,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 204458,
+        "num": 339061,
+        "word": "男子结扎后妻子又又又怀孕",
+        "onboard_time": 1770181881,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186091,
+        "num": 332261,
+        "word": "俩人的关系有了退展",
+        "onboard_time": 1770189380,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 220972,
+        "num": 328940,
+        "word": "爱泼斯坦自缢后甲状软骨几乎完全骨折",
+        "onboard_time": 1770188901,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 127147,
+        "num": 323263,
+        "word": "小城大事",
+        "onboard_time": 1770198681,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121954,
+        "num": 317337,
+        "word": "女子居然被自己的茶宠瓷麒麟咬了",
+        "onboard_time": 1770193400,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184397,
+        "num": 314238,
+        "word": "特朗普与爱泼斯坦聚会视频曝光",
+        "onboard_time": 1770193823,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 68397,
+        "num": 308281,
+        "word": "生理期救星奶茶出现了",
+        "onboard_time": 1770198500,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 29260,
+        "num": 299145,
+        "word": "大二女生失踪8年父亲悬赏10万寻女",
+        "onboard_time": 1770199221,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 385461,
+        "num": 298187,
+        "word": "黄多多遗传了黄磊孙莉的好基因",
+        "onboard_time": 1770194840,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 378852,
+        "num": 291682,
+        "word": "短剧演员一上红毯就开大",
+        "onboard_time": 1770192500,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 369767,
+        "num": 288286,
+        "word": "金价创2009年以来最大单日涨幅",
+        "onboard_time": 1770193281,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 283189,
+        "num": 283189,
+        "word": "张艺凡唯一00后的含金量",
+        "onboard_time": 1770198741,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275654,
+        "num": 275654,
+        "word": "萨摩耶主人已删除此前发文",
+        "onboard_time": 1770189441,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 240396,
+        "num": 240396,
+        "word": "时代少年团回国",
+        "onboard_time": 1770197482,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204063,
+        "num": 204063,
+        "word": "银价又爆了",
+        "onboard_time": 1770190220,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 138698,
+        "num": 138698,
+        "word": "Jennie不理解收集小卡但尊重",
+        "onboard_time": 1770188661,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128878,
+        "num": 128878,
+        "word": "大侦探",
+        "onboard_time": 1770184580,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93080,
+        "num": 93080,
+        "word": "40岁东北独生女回家11个家人接站",
+        "onboard_time": 1770195620,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127391,
+        "num": 93030,
+        "word": "在下悟空是也首登春晚",
+        "onboard_time": 1770197060,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105221,
+        "num": 92932,
+        "word": "孟子义去微博之夜",
+        "onboard_time": 1770194600,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 92829,
+        "num": 92829,
+        "word": "猫一吃玉米就会变得猥琐",
+        "onboard_time": 1770198622,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 104826,
+        "num": 91580,
+        "word": "微博之夜",
+        "onboard_time": 1770163941,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 102230,
+        "num": 89482,
+        "word": "胡定欣发文宣布离开TVB",
+        "onboard_time": 1770191300,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85765,
+        "num": 85765,
+        "word": "元宝",
+        "onboard_time": 1770185601,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 62307,
+        "num": 85725,
+        "word": "王鸥唱到成全镜头切给魏晨",
+        "onboard_time": 1770199162,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14711,
+        "num": 84957,
+        "word": "结婚拱门新郎名为马到功成",
+        "onboard_time": 1770199221,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64063,
+        "num": 84019,
+        "word": "四川复婚人员不能享受婚假",
+        "onboard_time": 1770198860,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19328,
+        "num": 83934,
+        "word": "孩子第一次给烈士爸爸扫墓哭到嘶哑",
+        "onboard_time": 1770199221,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86340,
+        "num": 82964,
+        "word": "李子柒人民日报发文",
+        "onboard_time": 1770192261,
+        "rank": 40,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 82780,
+        "num": 82780,
+        "word": "爱泼斯坦曾称帮霍金圆了潜水梦",
+        "onboard_time": 1770186021,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 79371,
+        "num": 79371,
+        "word": "王者荣耀",
+        "onboard_time": 1770199520,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 78393,
+        "num": 78393,
+        "word": "李煜东晒自拍",
+        "onboard_time": 1770192980,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76666,
+        "num": 76666,
+        "word": "胡歌回应内娱艺人最爱追的星之一",
+        "onboard_time": 1770199520,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74969,
+        "num": 74969,
+        "word": "云合",
+        "onboard_time": 1770193882,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73343,
+        "num": 73343,
+        "word": "过年烫头发一烫一个不吱声",
+        "onboard_time": 1770198321,
+        "rank": 46,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 71661,
+        "num": 71661,
+        "word": "男子喝20支藿香正气水后开车被判刑",
+        "onboard_time": 1770195201,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69646,
+        "num": 69646,
+        "word": "男孩去东北吃几口雪发烧到39.1度",
+        "onboard_time": 1770196940,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69102,
+        "num": 69102,
+        "word": "马凡舒上了两次马年春晚",
+        "onboard_time": 1770185780,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记关心的北京冬奥遗产#"
+    }
+  }
+}
