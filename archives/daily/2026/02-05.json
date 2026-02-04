@@ -1,6 +1,6 @@
 {
   "startTime": 1770221309024,
-  "endTime": 1770228587151,
+  "endTime": 1770231673936,
   "band_list": [
     {
       "raw_hot": 679797,
@@ -131,6 +131,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 226713,
+      "num": 173042,
+      "word": "成何体统",
+      "onboard_time": 1770222020,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 198457,
       "num": 198457,
       "word": "桃黑黑给粉丝报销",
@@ -145,14 +153,6 @@
       "onboard_time": 1770221361,
       "rank": 18,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 173042,
-      "num": 173042,
-      "word": "成何体统",
-      "onboard_time": 1770222020,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 162060,
@@ -419,6 +419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 45982,
+      "num": 40523,
+      "word": "陈浚铭浚写错了",
+      "onboard_time": 1770230355,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 45756,
       "num": 49428,
       "word": "网友疑似污蔑存包奶奶偷包",
@@ -457,6 +465,14 @@
       "onboard_time": 1770225256,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 31129,
+      "num": 29397,
+      "word": "比尔盖茨称后悔认识爱泼斯坦",
+      "onboard_time": 1770229635,
+      "rank": 23,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 28021,
@@ -507,6 +523,30 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 21817,
+      "num": 21817,
+      "word": "3岁萌娃就开始立规矩了",
+      "onboard_time": 1770229275,
+      "rank": 34,
+      "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 17821,
+      "num": 19497,
+      "word": "华晨宇直播预告",
+      "onboard_time": 1770231015,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 17116,
+      "num": 19497,
+      "word": "黄星邱鼎杰合照",
+      "onboard_time": 1770225498,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 14563,
       "num": 146962,
       "word": "连辑被查后一幅字还卖5000元",
@@ -515,7 +555,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 854,
+      "raw_hot": 1182,
       "num": 173941,
       "word": "冰雪春天",
       "onboard_time": 1770037581,

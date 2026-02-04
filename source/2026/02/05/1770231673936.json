@@ -1,0 +1,410 @@
+{
+  "runTime": 1770231673936,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 43914,
+        "num": 97889,
+        "word": "中美元首通电话",
+        "onboard_time": 1770215423,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 226713,
+        "num": 97808,
+        "word": "成何体统",
+        "onboard_time": 1770222020,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1182,
+        "num": 97344,
+        "word": "冰雪春天",
+        "onboard_time": 1770037581,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120325,
+        "num": 97328,
+        "word": "马斯克被激怒",
+        "onboard_time": 1770212001,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 97310,
+        "num": 97310,
+        "word": "微博之夜节目单",
+        "onboard_time": 1770210501,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 53372,
+        "num": 53372,
+        "word": "貂蝉年限 美神",
+        "onboard_time": 1770208700,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 52322,
+        "num": 52322,
+        "word": "桃黑黑给粉丝报销",
+        "onboard_time": 1770222379,
+        "rank": 6,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 51025,
+        "num": 51025,
+        "word": "立陶宛真急了",
+        "onboard_time": 1770215003,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 43953,
+        "num": 43953,
+        "word": "身体上的任何一块皮肤都比脸要好",
+        "onboard_time": 1770217702,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 40672,
+        "num": 40672,
+        "word": "打金店1个月垃圾扫出金粉值200万",
+        "onboard_time": 1770213023,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81978,
+        "num": 40657,
+        "word": "王橹杰 学长好",
+        "onboard_time": 1770217282,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81042,
+        "num": 40608,
+        "word": "丈夫结扎妻子又怀孕家里已有3孩",
+        "onboard_time": 1770219381,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49838,
+        "num": 40529,
+        "word": "爱泼斯坦豪宅大量儿童角色扮演服装",
+        "onboard_time": 1770212242,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 45982,
+        "num": 40523,
+        "word": "陈浚铭浚写错了",
+        "onboard_time": 1770230355,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40482,
+        "num": 40482,
+        "word": "诸葛亮后人要求撤销猪葛亮商标",
+        "onboard_time": 1770214162,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45694,
+        "num": 40321,
+        "word": "比尔盖茨回应爱泼斯坦案",
+        "onboard_time": 1770211161,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 39201,
+        "num": 39201,
+        "word": "微信为什么要打自家人元宝",
+        "onboard_time": 1770224117,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 38595,
+        "num": 38595,
+        "word": "王者马年限定皮肤英雄公布",
+        "onboard_time": 1770208341,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 38347,
+        "num": 38347,
+        "word": "肖战 演唱会",
+        "onboard_time": 1770205281,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37033,
+        "num": 37406,
+        "word": "台湾问题是中美关系中最重要的问题",
+        "onboard_time": 1770221361,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 83301,
+        "num": 37376,
+        "word": "爱泼斯坦被曝让14岁女孩脱衣按摩",
+        "onboard_time": 1770209600,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 37086,
+        "num": 37086,
+        "word": "微博之夜",
+        "onboard_time": 1770212062,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 29684,
+        "num": 29684,
+        "word": "惊蛰无声 王晰",
+        "onboard_time": 1770213563,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 31129,
+        "num": 29397,
+        "word": "比尔盖茨称后悔认识爱泼斯坦",
+        "onboard_time": 1770229635,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 27058,
+        "num": 27058,
+        "word": "金银再度回落",
+        "onboard_time": 1770219501,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 25761,
+        "num": 25761,
+        "word": "洗完头真的真的不要用毛巾搓",
+        "onboard_time": 1770207021,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 25381,
+        "num": 25381,
+        "word": "微博之夜全阵容名单",
+        "onboard_time": 1770214943,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 24135,
+        "num": 24135,
+        "word": "桃黑黑请假",
+        "onboard_time": 1770208882,
+        "rank": 27,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 23987,
+        "num": 23987,
+        "word": "被杀搜救犬曾是流浪狗多次救人",
+        "onboard_time": 1770220700,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23388,
+        "num": 23646,
+        "word": "上班两天技师猥亵顾客被行拘7日",
+        "onboard_time": 1770226336,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23642,
+        "num": 23642,
+        "word": "生命树",
+        "onboard_time": 1770205161,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23360,
+        "num": 23360,
+        "word": "卢昱晓檀健次古偶氛围感",
+        "onboard_time": 1770227775,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22996,
+        "num": 22996,
+        "word": "杨紫演技",
+        "onboard_time": 1770211522,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22097,
+        "num": 22097,
+        "word": "江疏影 上桌",
+        "onboard_time": 1770215303,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21817,
+        "num": 21817,
+        "word": "3岁萌娃就开始立规矩了",
+        "onboard_time": 1770229275,
+        "rank": 34,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 20951,
+        "num": 20951,
+        "word": "网友疑似污蔑存包奶奶偷包",
+        "onboard_time": 1770224236,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20334,
+        "num": 20334,
+        "word": "12306回应男子自带折叠椅坐高铁",
+        "onboard_time": 1770210621,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20269,
+        "num": 20269,
+        "word": "太平年水丘公满门被屠",
+        "onboard_time": 1770220760,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20116,
+        "num": 20116,
+        "word": "李一桐 快点打车回家我报销",
+        "onboard_time": 1770218181,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19498,
+        "num": 19498,
+        "word": "刘耀文你找亲是不是",
+        "onboard_time": 1770219201,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18654,
+        "num": 19498,
+        "word": "校长与离异女教师恋爱被定师德不合格",
+        "onboard_time": 1770200840,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18452,
+        "num": 19497,
+        "word": "摇汞 时尚芭莎",
+        "onboard_time": 1770225796,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 18042,
+        "num": 19497,
+        "word": "这还是我认识的锤娜丽莎吗",
+        "onboard_time": 1770212963,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17821,
+        "num": 19497,
+        "word": "华晨宇直播预告",
+        "onboard_time": 1770231015,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17671,
+        "num": 19497,
+        "word": "D社转发金宣虎澄清文",
+        "onboard_time": 1770217822,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17116,
+        "num": 19497,
+        "word": "黄星邱鼎杰合照",
+        "onboard_time": 1770225498,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17007,
+        "num": 19497,
+        "word": "邹明轩瘦了好多",
+        "onboard_time": 1770219441,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16923,
+        "num": 19497,
+        "word": "流量狂欢下的真相迷失与信任危机",
+        "onboard_time": 1770223100,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16458,
+        "num": 19497,
+        "word": "荣耀之战",
+        "onboard_time": 1770219201,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 16257,
+        "num": 19497,
+        "word": "32岁女子害怕催婚3年不敢回家过年",
+        "onboard_time": 1770209961,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中俄元首举行视频会晤#"
+    }
+  }
+}
