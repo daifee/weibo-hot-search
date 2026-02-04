@@ -1,6 +1,6 @@
 {
   "startTime": 1770221309024,
-  "endTime": 1770221309024,
+  "endTime": 1770224387113,
   "band_list": [
     {
       "raw_hot": 679797,
@@ -28,11 +28,19 @@
     },
     {
       "raw_hot": 391507,
-      "num": 391507,
+      "num": 603015,
       "word": "中美元首通电话",
       "onboard_time": 1770215423,
       "rank": 3,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 374084,
+      "num": 149822,
+      "word": "丈夫结扎妻子又怀孕家里已有3孩",
+      "onboard_time": 1770219381,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 358232,
@@ -123,12 +131,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 198457,
+      "num": 198457,
+      "word": "桃黑黑给粉丝报销",
+      "onboard_time": 1770222379,
+      "rank": 4,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 162060,
       "num": 145076,
       "word": "江疏影 上桌",
       "onboard_time": 1770215303,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 152232,
+      "num": 152232,
+      "word": "金银再度回落",
+      "onboard_time": 1770219501,
+      "rank": 31,
+      "category": "财经"
     },
     {
       "raw_hot": 151857,
@@ -169,6 +193,14 @@
       "onboard_time": 1770214762,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 128153,
+      "num": 128153,
+      "word": "台湾问题是中美关系中最重要的问题",
+      "onboard_time": 1770221361,
+      "rank": 18,
+      "category": "国内时政"
     },
     {
       "raw_hot": 116967,
@@ -227,12 +259,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 98388,
-      "num": 98388,
-      "word": "金银再度回落",
-      "onboard_time": 1770219501,
-      "rank": 31,
-      "category": "财经"
+      "raw_hot": 100886,
+      "num": 100886,
+      "word": "成何体统",
+      "onboard_time": 1770222020,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 98070,
@@ -339,20 +371,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 67506,
+      "num": 67506,
+      "word": "不管你是谁请你从黄奕身上下来",
+      "onboard_time": 1770221180,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 65683,
       "num": 65683,
       "word": "小寒 寒王",
       "onboard_time": 1770221062,
       "rank": 46,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 63652,
-      "num": 63652,
-      "word": "丈夫结扎妻子又怀孕家里已有3孩",
-      "onboard_time": 1770219381,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 61016,
@@ -371,12 +403,36 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 56266,
-      "num": 56266,
-      "word": "不管你是谁请你从黄奕身上下来",
-      "onboard_time": 1770221180,
-      "rank": 49,
-      "category": "作品衍生"
+      "raw_hot": 55222,
+      "num": 55222,
+      "word": "被杀搜救犬曾是流浪狗多次救人",
+      "onboard_time": 1770220700,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 46904,
+      "num": 49434,
+      "word": "微信为什么要打自家人元宝",
+      "onboard_time": 1770224117,
+      "rank": 45,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 43771,
+      "num": 49434,
+      "word": "流量狂欢下的真相迷失与信任危机",
+      "onboard_time": 1770223100,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42512,
+      "num": 49428,
+      "word": "网友疑似污蔑存包奶奶偷包",
+      "onboard_time": 1770224236,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 34650,
@@ -406,6 +462,9 @@
   "hotgov_list": [
     {
       "word": "#习近平同特朗普通电话#"
+    },
+    {
+      "word": "#中俄元首举行视频会晤#"
     }
   ]
 }
