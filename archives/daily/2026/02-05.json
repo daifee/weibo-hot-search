@@ -1,14 +1,22 @@
 {
   "startTime": 1770221309024,
-  "endTime": 1770248204472,
+  "endTime": 1770249084295,
   "band_list": [
     {
-      "raw_hot": 1271843,
-      "num": 144053,
+      "raw_hot": 1516977,
+      "num": 214539,
       "word": "比尔盖茨道歉",
       "onboard_time": 1770246676,
       "rank": 10,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 706007,
+      "num": 199372,
+      "word": "取消中高考是早晚的事",
+      "onboard_time": 1770248058,
+      "rank": 16,
+      "category": "教育"
     },
     {
       "raw_hot": 679797,
@@ -20,7 +28,7 @@
     },
     {
       "raw_hot": 640832,
-      "num": 895172,
+      "num": 1011517,
       "word": "马斯克被激怒",
       "onboard_time": 1770212001,
       "rank": 1,
@@ -35,8 +43,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 396573,
-      "num": 149822,
+      "raw_hot": 397468,
+      "num": 184217,
       "word": "丈夫结扎妻子又怀孕家里已有3孩",
       "onboard_time": 1770219381,
       "rank": 47,
@@ -51,6 +59,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 388920,
+      "num": 388920,
+      "word": "成何体统",
+      "onboard_time": 1770222020,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 358232,
       "num": 242301,
       "word": "这还是我认识的锤娜丽莎吗",
@@ -60,7 +76,7 @@
     },
     {
       "raw_hot": 354360,
-      "num": 650013,
+      "num": 747263,
       "word": "立陶宛真急了",
       "onboard_time": 1770215003,
       "rank": 4,
@@ -83,14 +99,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 327636,
-      "num": 327636,
-      "word": "成何体统",
-      "onboard_time": 1770222020,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 298606,
       "num": 298606,
       "word": "诸葛亮后人要求撤销猪葛亮商标",
@@ -99,8 +107,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 275680,
-      "num": 275680,
+      "raw_hot": 290361,
+      "num": 290361,
       "word": "王楚钦怒斥不文明观赛观众",
       "onboard_time": 1770243135,
       "rank": 20,
@@ -123,12 +131,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 252215,
+      "num": 164222,
+      "word": "微信为什么要打自家人元宝",
+      "onboard_time": 1770224117,
+      "rank": 45,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 248153,
       "num": 240271,
       "word": "肖战 演唱会",
       "onboard_time": 1770205281,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 240841,
+      "num": 149345,
+      "word": "爱泼斯坦豪宅大量儿童角色扮演服装",
+      "onboard_time": 1770212242,
+      "rank": 33,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 240428,
@@ -147,28 +171,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 229873,
+      "num": 229873,
+      "word": "娃娃菜事件为何反转再反转",
+      "onboard_time": 1770244936,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 227877,
       "num": 227877,
       "word": "比尔盖茨回应爱泼斯坦案",
       "onboard_time": 1770211161,
       "rank": 15,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 205282,
-      "num": 129775,
-      "word": "爱泼斯坦豪宅大量儿童角色扮演服装",
-      "onboard_time": 1770212242,
-      "rank": 33,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 201258,
-      "num": 135320,
-      "word": "微信为什么要打自家人元宝",
-      "onboard_time": 1770224117,
-      "rank": 45,
-      "category": "互联网"
     },
     {
       "raw_hot": 198457,
@@ -227,6 +243,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 146936,
+      "num": 146936,
+      "word": "独行侠奇才交易",
+      "onboard_time": 1770246676,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 146737,
       "num": 146737,
       "word": "李一桐 快点打车回家我报销",
@@ -243,20 +267,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 121107,
-      "num": 121107,
-      "word": "取消中高考是早晚的事",
-      "onboard_time": 1770248058,
-      "rank": 16,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 119333,
-      "num": 119333,
-      "word": "独行侠奇才交易",
-      "onboard_time": 1770246676,
-      "rank": 17,
-      "category": "体育"
+      "raw_hot": 136149,
+      "num": 136149,
+      "word": "女子称花200元独享一架客机飞成都",
+      "onboard_time": 1770246978,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 116967,
@@ -272,14 +288,6 @@
       "word": "12306回应男子自带折叠椅坐高铁",
       "onboard_time": 1770210621,
       "rank": 26,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 115236,
-      "num": 115236,
-      "word": "娃娃菜事件为何反转再反转",
-      "onboard_time": 1770244936,
-      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -299,8 +307,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 107215,
-      "num": 107215,
+      "raw_hot": 109079,
+      "num": 109079,
       "word": "洗完头真的真的不要用毛巾搓",
       "onboard_time": 1770207021,
       "rank": 28,
@@ -323,6 +331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 100853,
+      "num": 86688,
+      "word": "公积金改革迎破局关键节点",
+      "onboard_time": 1770248118,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91204,
       "num": 91204,
       "word": "桃黑黑请假",
@@ -331,12 +347,12 @@
       "category": "游戏,网红"
     },
     {
-      "raw_hot": 87411,
-      "num": 87411,
-      "word": "女子称花200元独享一架客机飞成都",
-      "onboard_time": 1770246978,
-      "rank": 23,
-      "category": "民生新闻"
+      "raw_hot": 88947,
+      "num": 88947,
+      "word": "比尔盖茨前妻称整个社会正在清算",
+      "onboard_time": 1770208521,
+      "rank": 27,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 86917,
@@ -345,6 +361,14 @@
       "onboard_time": 1770219441,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 86877,
+      "num": 86877,
+      "word": "生命树紧张",
+      "onboard_time": 1770244755,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 84816,
@@ -363,12 +387,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 78987,
-      "num": 78987,
-      "word": "比尔盖茨前妻称整个社会正在清算",
-      "onboard_time": 1770208521,
-      "rank": 27,
-      "category": "海外新闻"
+      "raw_hot": 80177,
+      "num": 80177,
+      "word": "成都机器人碰到老人双双倒地不起",
+      "onboard_time": 1770248179,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 79590,
+      "num": 79590,
+      "word": "游客手握冻土豆泪崩视频爆火",
+      "onboard_time": 1770246978,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 74700,
@@ -387,6 +419,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 74479,
+      "num": 74479,
+      "word": "闪迪跌近16%",
+      "onboard_time": 1770248960,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 73804,
       "num": 73804,
       "word": "宋佳工作室维权",
@@ -401,14 +441,6 @@
       "onboard_time": 1770209541,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 73290,
-      "num": 73290,
-      "word": "公积金改革迎破局关键节点",
-      "onboard_time": 1770248118,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 71329,
@@ -467,12 +499,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 66219,
-      "num": 66219,
-      "word": "生命树紧张",
-      "onboard_time": 1770244755,
-      "rank": 47,
-      "category": "剧集"
+      "raw_hot": 65973,
+      "num": 65973,
+      "word": "安徽萧县地震",
+      "onboard_time": 1770247277,
+      "rank": 41,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 65909,
@@ -491,12 +523,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 61365,
-      "num": 61365,
-      "word": "游客手握冻土豆泪崩视频爆火",
-      "onboard_time": 1770246978,
-      "rank": 39,
-      "category": "民生新闻"
+      "raw_hot": 65062,
+      "num": 65062,
+      "word": "徐冬冬摔倒尹子维急成啥样了",
+      "onboard_time": 1770211702,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 62378,
+      "num": 62378,
+      "word": "黄金史诗级行情",
+      "onboard_time": 1770248778,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 61016,
@@ -523,20 +563,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 51047,
-      "num": 51047,
-      "word": "安徽萧县地震",
-      "onboard_time": 1770247277,
-      "rank": 41,
-      "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 49103,
-      "num": 49103,
-      "word": "成都机器人碰到老人双双倒地不起",
-      "onboard_time": 1770248179,
-      "rank": 45,
-      "category": "民生新闻"
+      "raw_hot": 52542,
+      "num": 60384,
+      "word": "守望先锋",
+      "onboard_time": 1770248778,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 45982,
@@ -553,6 +585,14 @@
       "onboard_time": 1770224236,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 44571,
+      "num": 179792,
+      "word": "米兰冬奥倒计时1天",
+      "onboard_time": 1770248599,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 43774,
@@ -675,6 +715,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 21110,
+      "num": 439406,
+      "word": "米兰冬奥会首日赛程",
+      "onboard_time": 1770248599,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 21001,
       "num": 21537,
       "word": "你真的不必为这些事感到内疚",
@@ -731,6 +779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 12416,
+      "num": 223518,
+      "word": "徐梦桃本命年再战冬奥",
+      "onboard_time": 1770248599,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 12320,
       "num": 14949,
       "word": "欧莱雅小春晚",
@@ -747,7 +803,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 5140,
+      "raw_hot": 6463,
       "num": 277056,
       "word": "米兰冬奥会",
       "onboard_time": 1770165622,
@@ -756,7 +812,7 @@
     },
     {
       "raw_hot": 2131,
-      "num": 517295,
+      "num": 573894,
       "word": "冰雪春天",
       "onboard_time": 1770037581,
       "rank": 2,

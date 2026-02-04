@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1770248204472,
+  "endTime": 1770249084295,
   "band_list": [
     {
       "raw_hot": 4038416,
@@ -91,6 +91,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1516977,
+      "num": 214539,
+      "word": "比尔盖茨道歉",
+      "onboard_time": 1770246676,
+      "rank": 10,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1504692,
       "num": 250786,
       "word": "秦牛正威回应订婚后分手",
@@ -137,14 +145,6 @@
       "onboard_time": 1770037342,
       "rank": 9,
       "category": "财经"
-    },
-    {
-      "raw_hot": 1271843,
-      "num": 144053,
-      "word": "比尔盖茨道歉",
-      "onboard_time": 1770246676,
-      "rank": 10,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 1269650,
@@ -665,6 +665,14 @@
       "onboard_time": 1769922679,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 706007,
+      "num": 199372,
+      "word": "取消中高考是早晚的事",
+      "onboard_time": 1770248058,
+      "rank": 16,
+      "category": "教育"
     },
     {
       "raw_hot": 702448,
@@ -1236,7 +1244,7 @@
     },
     {
       "raw_hot": 483936,
-      "num": 650013,
+      "num": 747263,
       "word": "立陶宛真急了",
       "onboard_time": 1770215003,
       "rank": 14,
@@ -1747,8 +1755,8 @@
       "category": "财经"
     },
     {
-      "raw_hot": 396573,
-      "num": 149822,
+      "raw_hot": 397468,
+      "num": 184217,
       "word": "丈夫结扎妻子又怀孕家里已有3孩",
       "onboard_time": 1770219381,
       "rank": 39,
@@ -1793,6 +1801,14 @@
       "onboard_time": 1769867602,
       "rank": 3,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 388920,
+      "num": 388920,
+      "word": "成何体统",
+      "onboard_time": 1769996360,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 388899,
@@ -2267,14 +2283,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 327636,
-      "num": 327636,
-      "word": "成何体统",
-      "onboard_time": 1769996360,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 326173,
       "num": 326173,
       "word": "喝点粉色的液体",
@@ -2619,6 +2627,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 290361,
+      "num": 290361,
+      "word": "王楚钦怒斥不文明观赛观众",
+      "onboard_time": 1770243135,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 287257,
       "num": 187929,
       "word": "GAI周延儿子柚柚近照",
@@ -2737,14 +2753,6 @@
       "onboard_time": 1770017602,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 275680,
-      "num": 275680,
-      "word": "王楚钦怒斥不文明观赛观众",
-      "onboard_time": 1770243135,
-      "rank": 20,
-      "category": "体育"
     },
     {
       "raw_hot": 275289,
@@ -2923,6 +2931,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 252215,
+      "num": 164222,
+      "word": "微信为什么要打自家人元宝",
+      "onboard_time": 1770224117,
+      "rank": 45,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 251403,
       "num": 251403,
       "word": "韦东奕正式获聘北大长聘副教授",
@@ -3081,6 +3097,14 @@
       "onboard_time": 1770116301,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 240841,
+      "num": 149345,
+      "word": "爱泼斯坦豪宅大量儿童角色扮演服装",
+      "onboard_time": 1770212242,
+      "rank": 44,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 240428,
@@ -3249,6 +3273,14 @@
       "onboard_time": 1770131662,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 229873,
+      "num": 229873,
+      "word": "娃娃菜事件为何反转再反转",
+      "onboard_time": 1770244936,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 229813,
@@ -3555,14 +3587,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 205282,
-      "num": 129775,
-      "word": "爱泼斯坦豪宅大量儿童角色扮演服装",
-      "onboard_time": 1770212242,
-      "rank": 44,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 204806,
       "num": 179587,
       "word": "五福的第一笔钱到账了",
@@ -3601,14 +3625,6 @@
       "onboard_time": 1770178881,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 201258,
-      "num": 135320,
-      "word": "微信为什么要打自家人元宝",
-      "onboard_time": 1770224117,
-      "rank": 45,
-      "category": "互联网"
     },
     {
       "raw_hot": 200805,
@@ -4619,6 +4635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 146936,
+      "num": 146936,
+      "word": "独行侠奇才交易",
+      "onboard_time": 1770246676,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 146737,
       "num": 146737,
       "word": "李一桐 快点打车回家我报销",
@@ -4969,6 +4993,14 @@
       "onboard_time": 1769959581,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 136149,
+      "num": 136149,
+      "word": "女子称花200元独享一架客机飞成都",
+      "onboard_time": 1770246978,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 135949,
@@ -5627,14 +5659,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 121107,
-      "num": 121107,
-      "word": "取消中高考是早晚的事",
-      "onboard_time": 1770248058,
-      "rank": 16,
-      "category": "教育"
-    },
-    {
       "raw_hot": 120821,
       "num": 120821,
       "word": "叶祖新 我怕你们又说我暧昧",
@@ -5761,14 +5785,6 @@
       "onboard_time": 1770180142,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 119333,
-      "num": 119333,
-      "word": "独行侠奇才交易",
-      "onboard_time": 1770246676,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 119224,
@@ -5969,14 +5985,6 @@
       "onboard_time": 1770030803,
       "rank": 46,
       "category": "电影"
-    },
-    {
-      "raw_hot": 115236,
-      "num": 115236,
-      "word": "娃娃菜事件为何反转再反转",
-      "onboard_time": 1770244936,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 115190,
@@ -7033,6 +7041,14 @@
       "onboard_time": 1770166401,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 100853,
+      "num": 86688,
+      "word": "公积金改革迎破局关键节点",
+      "onboard_time": 1770248118,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 100794,
@@ -8187,14 +8203,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 87411,
-      "num": 87411,
-      "word": "女子称花200元独享一架客机飞成都",
-      "onboard_time": 1770246978,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 87308,
       "num": 85654,
       "word": "胡歌盛赞杨紫",
@@ -8241,6 +8249,14 @@
       "onboard_time": 1770219441,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 86877,
+      "num": 86877,
+      "word": "生命树紧张",
+      "onboard_time": 1770244755,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 86873,
@@ -8875,6 +8891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 80177,
+      "num": 80177,
+      "word": "成都机器人碰到老人双双倒地不起",
+      "onboard_time": 1770248179,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 80174,
       "num": 80174,
       "word": "原来大学生只比小学生大6岁",
@@ -8945,6 +8969,14 @@
       "onboard_time": 1770110180,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 79590,
+      "num": 79590,
+      "word": "游客手握冻土豆泪崩视频爆火",
+      "onboard_time": 1770246978,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 79375,
@@ -9283,6 +9315,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 74479,
+      "num": 74479,
+      "word": "闪迪跌近16%",
+      "onboard_time": 1770248960,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 74047,
       "num": 87499,
       "word": "段永平提前加仓茅台",
@@ -9329,14 +9369,6 @@
       "onboard_time": 1769926941,
       "rank": 49,
       "category": "财经"
-    },
-    {
-      "raw_hot": 73290,
-      "num": 73290,
-      "word": "公积金改革迎破局关键节点",
-      "onboard_time": 1770248118,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 73211,
@@ -9651,20 +9683,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 66219,
-      "num": 66219,
-      "word": "生命树紧张",
-      "onboard_time": 1770244755,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 65973,
       "num": 65973,
       "word": "萨摩耶被男孩烧死主人称不接受私了",
       "onboard_time": 1770075558,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 65973,
+      "num": 65973,
+      "word": "安徽萧县地震",
+      "onboard_time": 1770247277,
+      "rank": 41,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 65909,
@@ -9883,6 +9915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 62378,
+      "num": 62378,
+      "word": "黄金史诗级行情",
+      "onboard_time": 1770248778,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 62307,
       "num": 85725,
       "word": "王鸥唱到成全镜头切给魏晨",
@@ -9929,14 +9969,6 @@
       "onboard_time": 1769905099,
       "rank": 49,
       "category": "财经"
-    },
-    {
-      "raw_hot": 61365,
-      "num": 61365,
-      "word": "游客手握冻土豆泪崩视频爆火",
-      "onboard_time": 1770246978,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 61277,
@@ -10235,6 +10267,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 52542,
+      "num": 60384,
+      "word": "守望先锋",
+      "onboard_time": 1770248778,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 52217,
       "num": 52217,
       "word": "一栗小莎子回应确诊淋巴瘤",
@@ -10305,14 +10345,6 @@
       "onboard_time": 1769953461,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 51047,
-      "num": 51047,
-      "word": "安徽萧县地震",
-      "onboard_time": 1770247277,
-      "rank": 41,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 50940,
@@ -10401,14 +10433,6 @@
       "onboard_time": 1770073397,
       "rank": 42,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 49103,
-      "num": 49103,
-      "word": "成都机器人碰到老人双双倒地不起",
-      "onboard_time": 1770248179,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 49075,
@@ -10609,6 +10633,14 @@
       "onboard_time": 1769867723,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 44571,
+      "num": 179792,
+      "word": "米兰冬奥倒计时1天",
+      "onboard_time": 1770248599,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 44130,
@@ -11635,6 +11667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 21110,
+      "num": 439406,
+      "word": "米兰冬奥会首日赛程",
+      "onboard_time": 1770248599,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 21046,
       "num": 101654,
       "word": "成都通报传承人网已关停",
@@ -12059,6 +12099,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 12416,
+      "num": 223518,
+      "word": "徐梦桃本命年再战冬奥",
+      "onboard_time": 1770248599,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 12320,
       "num": 14949,
       "word": "欧莱雅小春晚",
@@ -12164,7 +12212,7 @@
     },
     {
       "raw_hot": 3674,
-      "num": 517295,
+      "num": 573894,
       "word": "冰雪春天",
       "onboard_time": 1770037581,
       "rank": 25,
