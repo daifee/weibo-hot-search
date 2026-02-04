@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1770220481057,
+  "endTime": 1770221309024,
   "band_list": [
     {
       "raw_hot": 4038416,
@@ -1755,6 +1755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 391507,
+      "num": 1056582,
+      "word": "中美元首通电话",
+      "onboard_time": 1770215423,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 390430,
       "num": 814042,
       "word": "员工转走220万存款银行不愿赔偿",
@@ -1993,14 +2001,6 @@
       "onboard_time": 1770193823,
       "rank": 24,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 353638,
-      "num": 1056582,
-      "word": "中美元首通电话",
-      "onboard_time": 1770215423,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 353272,
@@ -3059,6 +3059,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 240428,
+      "num": 240428,
+      "word": "身体上的任何一块皮肤都比脸要好",
+      "onboard_time": 1770217702,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 240396,
       "num": 240396,
       "word": "时代少年团回国",
@@ -3121,6 +3129,14 @@
       "onboard_time": 1769949381,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 237427,
+      "num": 237427,
+      "word": "D社转发金宣虎澄清文",
+      "onboard_time": 1770217822,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 237083,
@@ -3281,14 +3297,6 @@
       "onboard_time": 1770039742,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 225752,
-      "num": 178831,
-      "word": "D社转发金宣虎澄清文",
-      "onboard_time": 1770217822,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 225685,
@@ -4547,6 +4555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 146737,
+      "num": 146737,
+      "word": "李一桐 快点打车回家我报销",
+      "onboard_time": 1770218181,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 146257,
       "num": 111243,
       "word": "赵雨凡 金佳蓝",
@@ -4745,14 +4761,6 @@
       "onboard_time": 1769946922,
       "rank": 30,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 140302,
-      "num": 140302,
-      "word": "李一桐 快点打车回家我报销",
-      "onboard_time": 1770218181,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 140214,
@@ -5049,14 +5057,6 @@
       "onboard_time": 1769909780,
       "rank": 41,
       "category": "财经"
-    },
-    {
-      "raw_hot": 131510,
-      "num": 131510,
-      "word": "身体上的任何一块皮肤都比脸要好",
-      "onboard_time": 1770217702,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 131332,
@@ -6083,6 +6083,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 112495,
+      "num": 112495,
+      "word": "保剑锋给历史剧上强度了",
+      "onboard_time": 1770219023,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 112235,
       "num": 112235,
       "word": "生命树第10集广东人坐主桌",
@@ -6113,14 +6121,6 @@
       "onboard_time": 1770212541,
       "rank": 41,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 111831,
-      "num": 111831,
-      "word": "保剑锋给历史剧上强度了",
-      "onboard_time": 1770219023,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 111655,
@@ -7113,6 +7113,14 @@
       "onboard_time": 1770190102,
       "rank": 29,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 98388,
+      "num": 98388,
+      "word": "金银再度回落",
+      "onboard_time": 1770219501,
+      "rank": 36,
+      "category": "财经"
     },
     {
       "raw_hot": 98385,
@@ -8147,6 +8155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 86917,
+      "num": 86917,
+      "word": "邹明轩瘦了好多",
+      "onboard_time": 1770219441,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 86873,
       "num": 86873,
       "word": "这样的外卖员才配收我的配送费",
@@ -8267,14 +8283,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 85651,
-      "num": 85651,
-      "word": "金银再度回落",
-      "onboard_time": 1770219501,
-      "rank": 36,
-      "category": "财经"
-    },
-    {
       "raw_hot": 85577,
       "num": 85577,
       "word": "男孩去东北吃几口雪发烧到39.1度",
@@ -8371,6 +8379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 84816,
+      "num": 84816,
+      "word": "刘耀文你找亲是不是",
+      "onboard_time": 1770219201,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 84741,
       "num": 84741,
       "word": "LOLM故宫马冬梅皮肤",
@@ -8449,14 +8465,6 @@
       "onboard_time": 1770202102,
       "rank": 38,
       "category": "教育"
-    },
-    {
-      "raw_hot": 83795,
-      "num": 83795,
-      "word": "邹明轩瘦了好多",
-      "onboard_time": 1770219441,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 83552,
@@ -9107,14 +9115,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 75560,
-      "num": 75560,
-      "word": "刘耀文你找亲是不是",
-      "onboard_time": 1770219201,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 75419,
       "num": 75419,
       "word": "张凯 小白熊",
@@ -9201,6 +9201,14 @@
       "onboard_time": 1770216623,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 73804,
+      "num": 73804,
+      "word": "宋佳工作室维权",
+      "onboard_time": 1770220280,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 73798,
@@ -9355,6 +9363,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 70206,
+      "num": 141506,
+      "word": "高铁部分车次已有遛娃舱",
+      "onboard_time": 1770219262,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 70062,
       "num": 70062,
       "word": "EDG十五番战BLG",
@@ -9491,14 +9507,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 67344,
-      "num": 67344,
-      "word": "宋佳工作室维权",
-      "onboard_time": 1770220280,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 67302,
       "num": 67302,
       "word": "猫咪违背天性爱人",
@@ -9545,6 +9553,14 @@
       "onboard_time": 1770199700,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 65683,
+      "num": 65683,
+      "word": "小寒 寒王",
+      "onboard_time": 1770221062,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 65603,
@@ -9649,6 +9665,14 @@
       "onboard_time": 1770007762,
       "rank": 19,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 63652,
+      "num": 83577,
+      "word": "丈夫结扎妻子又怀孕家里已有3孩",
+      "onboard_time": 1770219381,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 63639,
@@ -9803,6 +9827,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 61016,
+      "num": 145564,
+      "word": "学校公开引进人才亲属关系获好评",
+      "onboard_time": 1770220041,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 60889,
       "num": 566702,
       "word": "帮喵娲娲策划微博之夜社交名场面",
@@ -9953,6 +9985,14 @@
       "onboard_time": 1770051738,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 56266,
+      "num": 56266,
+      "word": "不管你是谁请你从黄奕身上下来",
+      "onboard_time": 1770221180,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 56089,
@@ -10467,14 +10507,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 42007,
-      "num": 83577,
-      "word": "丈夫结扎妻子又怀孕家里已有3孩",
-      "onboard_time": 1770219381,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 41450,
       "num": 106227,
       "word": "官方通报临街门面被连夜砌墙封堵",
@@ -10576,14 +10608,6 @@
       "word": "2026春节首日车票开售",
       "onboard_time": 1769937501,
       "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 38353,
-      "num": 141506,
-      "word": "高铁部分车次已有遛娃舱",
-      "onboard_time": 1770219262,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -11075,6 +11099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 28021,
+      "num": 245133,
+      "word": "侵华日军逼迫中国人种鸦片",
+      "onboard_time": 1770220160,
+      "rank": 22,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 27620,
       "num": 33308,
       "word": "不知道苏醒的短剧很劲爆",
@@ -11360,14 +11392,6 @@
       "word": "2026春运安全出行指南",
       "onboard_time": 1770105862,
       "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 21288,
-      "num": 141909,
-      "word": "学校公开引进人才亲属关系获好评",
-      "onboard_time": 1770220041,
-      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -11683,12 +11707,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 14406,
-      "num": 140633,
-      "word": "侵华日军逼迫中国人种鸦片",
-      "onboard_time": 1770220160,
-      "rank": 22,
-      "category": "国内时政"
+      "raw_hot": 14563,
+      "num": 146962,
+      "word": "连辑被查后一幅字还卖5000元",
+      "onboard_time": 1770220460,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14279,

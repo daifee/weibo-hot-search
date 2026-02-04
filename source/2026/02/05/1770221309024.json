@@ -1,0 +1,410 @@
+{
+  "runTime": 1770221309024,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 679797,
+        "num": 1051284,
+        "word": "微博之夜节目单",
+        "onboard_time": 1770210501,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 640832,
+        "num": 772917,
+        "word": "马斯克被激怒",
+        "onboard_time": 1770212001,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 34650,
+        "num": 579363,
+        "word": "2025中国考古新成果",
+        "onboard_time": 1770213203,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 391507,
+        "num": 391507,
+        "word": "中美元首通电话",
+        "onboard_time": 1770215423,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 354360,
+        "num": 354360,
+        "word": "立陶宛真急了",
+        "onboard_time": 1770215003,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 336234,
+        "num": 336234,
+        "word": "打金店1个月垃圾扫出金粉值200万",
+        "onboard_time": 1770213023,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 298606,
+        "num": 298606,
+        "word": "诸葛亮后人要求撤销猪葛亮商标",
+        "onboard_time": 1770214162,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 272407,
+        "num": 272407,
+        "word": "微博之夜全阵容名单",
+        "onboard_time": 1770214943,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 263832,
+        "num": 263832,
+        "word": "貂蝉年限 美神",
+        "onboard_time": 1770208700,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 28021,
+        "num": 245133,
+        "word": "侵华日军逼迫中国人种鸦片",
+        "onboard_time": 1770220160,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 527934,
+        "num": 242899,
+        "word": "王橹杰 学长好",
+        "onboard_time": 1770217282,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 358232,
+        "num": 242301,
+        "word": "这还是我认识的锤娜丽莎吗",
+        "onboard_time": 1770212963,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240428,
+        "num": 240428,
+        "word": "身体上的任何一块皮肤都比脸要好",
+        "onboard_time": 1770217702,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 248153,
+        "num": 240271,
+        "word": "肖战 演唱会",
+        "onboard_time": 1770205281,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237427,
+        "num": 237427,
+        "word": "D社转发金宣虎澄清文",
+        "onboard_time": 1770217822,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227877,
+        "num": 227877,
+        "word": "比尔盖茨回应爱泼斯坦案",
+        "onboard_time": 1770211161,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 151857,
+        "num": 151857,
+        "word": "爱吃车厘子的人天塌了",
+        "onboard_time": 1770179121,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 148996,
+        "num": 148996,
+        "word": "王者马年限定皮肤英雄公布",
+        "onboard_time": 1770208341,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 147588,
+        "num": 147588,
+        "word": "微博之夜",
+        "onboard_time": 1770212062,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 14563,
+        "num": 146962,
+        "word": "连辑被查后一幅字还卖5000元",
+        "onboard_time": 1770220460,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146737,
+        "num": 146737,
+        "word": "李一桐 快点打车回家我报销",
+        "onboard_time": 1770218181,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61016,
+        "num": 145564,
+        "word": "学校公开引进人才亲属关系获好评",
+        "onboard_time": 1770220041,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 327813,
+        "num": 145290,
+        "word": "爱泼斯坦被曝让14岁女孩脱衣按摩",
+        "onboard_time": 1770209600,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 162060,
+        "num": 145076,
+        "word": "江疏影 上桌",
+        "onboard_time": 1770215303,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144562,
+        "num": 144562,
+        "word": "杨紫直播",
+        "onboard_time": 1770214762,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116967,
+        "num": 116967,
+        "word": "校长与离异女教师恋爱被定师德不合格",
+        "onboard_time": 1770200840,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115274,
+        "num": 115274,
+        "word": "12306回应男子自带折叠椅坐高铁",
+        "onboard_time": 1770210621,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112495,
+        "num": 112495,
+        "word": "保剑锋给历史剧上强度了",
+        "onboard_time": 1770219023,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107215,
+        "num": 107215,
+        "word": "洗完头真的真的不要用毛巾搓",
+        "onboard_time": 1770207021,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 112861,
+        "num": 106956,
+        "word": "杨紫演技",
+        "onboard_time": 1770211522,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105492,
+        "num": 105492,
+        "word": "惊蛰无声 王晰",
+        "onboard_time": 1770213563,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 98388,
+        "num": 98388,
+        "word": "金银再度回落",
+        "onboard_time": 1770219501,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 102414,
+        "num": 98367,
+        "word": "生命树",
+        "onboard_time": 1770205161,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98070,
+        "num": 98070,
+        "word": "爱泼斯坦豪宅大量儿童角色扮演服装",
+        "onboard_time": 1770212242,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 91204,
+        "num": 91204,
+        "word": "桃黑黑请假",
+        "onboard_time": 1770208882,
+        "rank": 34,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 86917,
+        "num": 86917,
+        "word": "邹明轩瘦了好多",
+        "onboard_time": 1770219441,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84816,
+        "num": 84816,
+        "word": "刘耀文你找亲是不是",
+        "onboard_time": 1770219201,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74579,
+        "num": 74579,
+        "word": "难怪前一段时间车厘子降价了",
+        "onboard_time": 1770202759,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 73804,
+        "num": 73804,
+        "word": "宋佳工作室维权",
+        "onboard_time": 1770220280,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73339,
+        "num": 73339,
+        "word": "张婧仪 我记得你的姓",
+        "onboard_time": 1770209541,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72402,
+        "num": 72402,
+        "word": "32岁女子害怕催婚3年不敢回家过年",
+        "onboard_time": 1770209961,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71037,
+        "num": 71357,
+        "word": "短剧男主剧里剧外两幅面孔",
+        "onboard_time": 1770214042,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 71329,
+        "num": 71329,
+        "word": "荣耀之战",
+        "onboard_time": 1770219201,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 70206,
+        "num": 70206,
+        "word": "高铁部分车次已有遛娃舱",
+        "onboard_time": 1770219262,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70903,
+        "num": 69699,
+        "word": "宋轶 白开水妆",
+        "onboard_time": 1770211282,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68445,
+        "num": 68445,
+        "word": "EDG十五番战BLG",
+        "onboard_time": 1770212661,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 65683,
+        "num": 65683,
+        "word": "小寒 寒王",
+        "onboard_time": 1770221062,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 63652,
+        "num": 63652,
+        "word": "丈夫结扎妻子又怀孕家里已有3孩",
+        "onboard_time": 1770219381,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60182,
+        "num": 60182,
+        "word": "AL翻盘WBG",
+        "onboard_time": 1770215062,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 56266,
+        "num": 56266,
+        "word": "不管你是谁请你从黄奕身上下来",
+        "onboard_time": 1770221180,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同特朗普通电话#"
+    }
+  }
+}
