@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1770184620087,
+  "endTime": 1770185458359,
   "band_list": [
     {
       "raw_hot": 4038416,
@@ -540,7 +540,7 @@
     },
     {
       "raw_hot": 767745,
-      "num": 350554,
+      "num": 716953,
       "word": "很多公司已经取消年会了",
       "onboard_time": 1770179602,
       "rank": 9,
@@ -636,7 +636,7 @@
     },
     {
       "raw_hot": 686050,
-      "num": 176009,
+      "num": 203767,
       "word": "男子结扎后妻子又又又怀孕",
       "onboard_time": 1770181881,
       "rank": 11,
@@ -1260,7 +1260,7 @@
     },
     {
       "raw_hot": 451683,
-      "num": 175916,
+      "num": 200282,
       "word": "年营收1亿女生说妈妈一直劝她考公",
       "onboard_time": 1770182480,
       "rank": 12,
@@ -1523,6 +1523,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 393190,
+      "num": 199859,
+      "word": "沈腾左脚确诊多动症",
+      "onboard_time": 1770180442,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 390430,
       "num": 814042,
       "word": "员工转走220万存款银行不愿赔偿",
@@ -1577,14 +1585,6 @@
       "onboard_time": 1769942662,
       "rank": 33,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 375744,
-      "num": 175810,
-      "word": "沈腾左脚确诊多动症",
-      "onboard_time": 1770180442,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 374853,
@@ -1673,6 +1673,14 @@
       "onboard_time": 1769936302,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 366087,
+      "num": 196929,
+      "word": "大疆最想删的视频出现了",
+      "onboard_time": 1770182061,
+      "rank": 15,
+      "category": "幽默"
     },
     {
       "raw_hot": 365210,
@@ -2411,6 +2419,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 262593,
+      "num": 717127,
+      "word": "胡歌说杨紫的戏不是一般的好",
+      "onboard_time": 1770182900,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 261274,
       "num": 218870,
       "word": "黄金白银继续暴跌",
@@ -2875,6 +2891,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 224106,
+      "num": 224106,
+      "word": "周冬雨 别让影后干这个",
+      "onboard_time": 1770183080,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 224043,
       "num": 224043,
       "word": "30年前黄金80一克女子囤了几公斤",
@@ -2923,14 +2947,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 218468,
-      "num": 175722,
-      "word": "大疆最想删的视频出现了",
-      "onboard_time": 1770182061,
-      "rank": 15,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 217958,
       "num": 217958,
       "word": "花楼 小白熊",
@@ -2969,6 +2985,14 @@
       "onboard_time": 1770018201,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 211362,
+      "num": 211362,
+      "word": "老外眼里的中餐",
+      "onboard_time": 1770180323,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 211357,
@@ -3035,14 +3059,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 203714,
-      "num": 203714,
-      "word": "胡歌说杨紫的戏不是一般的好",
-      "onboard_time": 1770182900,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 203645,
       "num": 203645,
       "word": "黄圣依也逃不过让孩子穿红色",
@@ -3052,7 +3068,7 @@
     },
     {
       "raw_hot": 202881,
-      "num": 202881,
+      "num": 210251,
       "word": "郑大一附院医生诈骗94名患者获刑",
       "onboard_time": 1770178881,
       "rank": 17,
@@ -3411,14 +3427,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 176111,
-      "num": 176111,
-      "word": "老外眼里的中餐",
-      "onboard_time": 1770180323,
-      "rank": 47,
-      "category": "美食"
-    },
-    {
       "raw_hot": 176004,
       "num": 176004,
       "word": "生命树",
@@ -3433,14 +3441,6 @@
       "onboard_time": 1770004941,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 175640,
-      "num": 175640,
-      "word": "周冬雨 别让影后干这个",
-      "onboard_time": 1770183080,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 175303,
@@ -3721,6 +3721,14 @@
       "onboard_time": 1769863222,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 157122,
+      "num": 157122,
+      "word": "导演拍疯了演员演爽了观众笑裂了",
+      "onboard_time": 1770184580,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 156893,
@@ -4332,7 +4340,7 @@
     },
     {
       "raw_hot": 133494,
-      "num": 145527,
+      "num": 206808,
       "word": "为什么说今年立春不一般",
       "onboard_time": 1770180021,
       "rank": 40,
@@ -4497,6 +4505,14 @@
       "onboard_time": 1770082759,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127689,
+      "num": 127689,
+      "word": "肖战签名专辑",
+      "onboard_time": 1770183381,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 127294,
@@ -4993,14 +5009,6 @@
       "onboard_time": 1770014002,
       "rank": 43,
       "category": "网红"
-    },
-    {
-      "raw_hot": 118457,
-      "num": 118457,
-      "word": "肖战签名专辑",
-      "onboard_time": 1770183381,
-      "rank": 23,
-      "category": "音乐"
     },
     {
       "raw_hot": 118277,
@@ -5787,6 +5795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 104329,
+      "num": 104329,
+      "word": "大侦探",
+      "onboard_time": 1770184580,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 104248,
       "num": 104248,
       "word": "英首相斯塔默为访华之行辩护",
@@ -5881,6 +5897,14 @@
       "onboard_time": 1769943261,
       "rank": 37,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 103076,
+      "num": 103076,
+      "word": "杨紫张哲华生命树告别吻",
+      "onboard_time": 1770184160,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 102654,
@@ -6691,6 +6715,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 91132,
+      "num": 91132,
+      "word": "头发自然干vs吹风机吹干",
+      "onboard_time": 1770183561,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 91002,
       "num": 91002,
       "word": "年龄到了血脉自然觉醒",
@@ -6777,6 +6809,14 @@
       "onboard_time": 1770116720,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 89680,
+      "num": 110536,
+      "word": "金银惊天大逆转",
+      "onboard_time": 1770183681,
+      "rank": 27,
+      "category": "财经"
     },
     {
       "raw_hot": 89502,
@@ -7011,14 +7051,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 86546,
-      "num": 86546,
-      "word": "杨紫张哲华生命树告别吻",
-      "onboard_time": 1770184160,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 86493,
       "num": 86493,
       "word": "保罗乔治禁赛25场",
@@ -7155,6 +7187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 84741,
+      "num": 84741,
+      "word": "LOLM故宫马冬梅皮肤",
+      "onboard_time": 1770185000,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 84652,
       "num": 84652,
       "word": "零跑董事长回应年会被吐槽",
@@ -7203,14 +7243,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 83895,
-      "num": 83895,
-      "word": "头发自然干vs吹风机吹干",
-      "onboard_time": 1770183561,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 83866,
       "num": 83866,
       "word": "胡歌欢迎马思纯",
@@ -7243,6 +7275,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 83362,
+      "num": 115978,
+      "word": "领免费鸡蛋买高价产品老人后悔落泪",
+      "onboard_time": 1770183381,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83282,
       "num": 83282,
       "word": "点狗棚小孩家长已赔礼道歉",
@@ -7265,6 +7305,14 @@
       "onboard_time": 1770112162,
       "rank": 47,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 83114,
+      "num": 83114,
+      "word": "电视剧离职vs现实中离职",
+      "onboard_time": 1770185179,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 83044,
@@ -7667,6 +7715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 76822,
+      "num": 76822,
+      "word": "胖东来春节放5天员工发声",
+      "onboard_time": 1770184881,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 76661,
       "num": 76661,
       "word": "TF四代赢了TOP",
@@ -7859,11 +7915,11 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 73173,
-      "num": 110536,
-      "word": "金银惊天大逆转",
-      "onboard_time": 1770183681,
-      "rank": 27,
+      "raw_hot": 72922,
+      "num": 72922,
+      "word": "四川黄金逼近跌停",
+      "onboard_time": 1770183561,
+      "rank": 46,
       "category": "财经"
     },
     {
@@ -7931,28 +7987,36 @@
       "category": "财经"
     },
     {
+      "raw_hot": 70545,
+      "num": 70545,
+      "word": "特朗普被追问爱泼斯坦破防了",
+      "onboard_time": 1770185300,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 69883,
+      "num": 72222,
+      "word": "20多人住店不登记还自称是皇室后代",
+      "onboard_time": 1770183381,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 69745,
+      "num": 69745,
+      "word": "小米不再单独设立SU7Ultra专属销售",
+      "onboard_time": 1770185300,
+      "rank": 48,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 69321,
       "num": 69321,
       "word": "阿尔卡拉斯vs德约科维奇",
       "onboard_time": 1769916621,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 69202,
-      "num": 74769,
-      "word": "导演拍疯了演员演爽了观众笑裂了",
-      "onboard_time": 1770184580,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 69146,
-      "num": 69146,
-      "word": "大侦探",
-      "onboard_time": 1770184580,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 69036,
@@ -7969,14 +8033,6 @@
       "onboard_time": 1770137118,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 68579,
-      "num": 72222,
-      "word": "20多人住店不登记还自称是皇室后代",
-      "onboard_time": 1770183381,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 68566,
@@ -7996,7 +8052,7 @@
     },
     {
       "raw_hot": 68472,
-      "num": 75309,
+      "num": 83208,
       "word": "怎么会有这么离谱但又合理的剧",
       "onboard_time": 1770184282,
       "rank": 39,
@@ -8017,14 +8073,6 @@
       "onboard_time": 1769916140,
       "rank": 47,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 67585,
-      "num": 71337,
-      "word": "四川黄金逼近跌停",
-      "onboard_time": 1770183561,
-      "rank": 46,
-      "category": "财经"
     },
     {
       "raw_hot": 67534,
@@ -8899,6 +8947,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 40647,
+      "num": 166955,
+      "word": "宝马停商场8101小时计费16900元",
+      "onboard_time": 1770184820,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40238,
       "num": 67915,
       "word": "台积电2nm产能已被预订一空",
@@ -8937,14 +8993,6 @@
       "onboard_time": 1770107541,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 39243,
-      "num": 115978,
-      "word": "领免费鸡蛋买高价产品老人后悔落泪",
-      "onboard_time": 1770183381,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 39180,
@@ -9131,6 +9179,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 34873,
+      "num": 104788,
+      "word": "春节带阿福回家的理由",
+      "onboard_time": 1770183321,
+      "rank": 29,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 34736,
       "num": 144895,
       "word": "百余人参加所谓公益助学被骗上千万",
@@ -9289,14 +9345,6 @@
       "onboard_time": 1769931080,
       "rank": 19,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 31226,
-      "num": 104788,
-      "word": "春节带阿福回家的理由",
-      "onboard_time": 1770183321,
-      "rank": 29,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 31173,
@@ -9680,6 +9728,14 @@
       "word": "已发售春运火车票超5000万张",
       "onboard_time": 1769869042,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20275,
+      "num": 81414,
+      "word": "与虫共眠2年多床里捉到大天牛",
+      "onboard_time": 1770184820,
+      "rank": 39,
       "category": "民生新闻"
     },
     {

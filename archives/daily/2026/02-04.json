@@ -1,6 +1,6 @@
 {
   "startTime": 1770135183011,
-  "endTime": 1770184620087,
+  "endTime": 1770185458359,
   "band_list": [
     {
       "raw_hot": 1317231,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 767745,
-      "num": 350554,
+      "num": 716953,
       "word": "很多公司已经取消年会了",
       "onboard_time": 1770179602,
       "rank": 9,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 686050,
-      "num": 176009,
+      "num": 203767,
       "word": "男子结扎后妻子又又又怀孕",
       "onboard_time": 1770181881,
       "rank": 11,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 451683,
-      "num": 175916,
+      "num": 200282,
       "word": "年营收1亿女生说妈妈一直劝她考公",
       "onboard_time": 1770182480,
       "rank": 12,
@@ -179,19 +179,19 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 393190,
+      "num": 199859,
+      "word": "沈腾左脚确诊多动症",
+      "onboard_time": 1770180442,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 380963,
       "num": 127517,
       "word": "任宥纶这是官宣吗",
       "onboard_time": 1770119721,
       "rank": 21,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 375744,
-      "num": 175810,
-      "word": "沈腾左脚确诊多动症",
-      "onboard_time": 1770180442,
-      "rank": 48,
       "category": "艺人"
     },
     {
@@ -201,6 +201,14 @@
       "onboard_time": 1770170118,
       "rank": 11,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 366087,
+      "num": 196929,
+      "word": "大疆最想删的视频出现了",
+      "onboard_time": 1770182061,
+      "rank": 15,
+      "category": "幽默"
     },
     {
       "raw_hot": 359550,
@@ -307,6 +315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 262593,
+      "num": 717127,
+      "word": "胡歌说杨紫的戏不是一般的好",
+      "onboard_time": 1770182900,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 253453,
       "num": 124453,
       "word": "经常熬夜的人要少做4件事",
@@ -371,12 +387,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 218468,
-      "num": 175722,
-      "word": "大疆最想删的视频出现了",
-      "onboard_time": 1770182061,
-      "rank": 15,
-      "category": "幽默"
+      "raw_hot": 224106,
+      "num": 224106,
+      "word": "周冬雨 别让影后干这个",
+      "onboard_time": 1770183080,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 216184,
@@ -387,6 +403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 211362,
+      "num": 211362,
+      "word": "老外眼里的中餐",
+      "onboard_time": 1770180323,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 210428,
       "num": 138237,
       "word": "97岁富商欲再婚次子求判其心智不全",
@@ -395,16 +419,8 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 203714,
-      "num": 203714,
-      "word": "胡歌说杨紫的戏不是一般的好",
-      "onboard_time": 1770182900,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 202881,
-      "num": 202881,
+      "num": 210251,
       "word": "郑大一附院医生诈骗94名患者获刑",
       "onboard_time": 1770178881,
       "rank": 17,
@@ -499,28 +515,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 176111,
-      "num": 176111,
-      "word": "老外眼里的中餐",
-      "onboard_time": 1770180323,
-      "rank": 47,
-      "category": "美食"
-    },
-    {
       "raw_hot": 175820,
       "num": 175820,
       "word": "尚公主",
       "onboard_time": 1770132980,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 175640,
-      "num": 175640,
-      "word": "周冬雨 别让影后干这个",
-      "onboard_time": 1770183080,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 173222,
@@ -561,6 +561,14 @@
       "onboard_time": 1770168919,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 157122,
+      "num": 157122,
+      "word": "导演拍疯了演员演爽了观众笑裂了",
+      "onboard_time": 1770184580,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 148678,
@@ -636,7 +644,7 @@
     },
     {
       "raw_hot": 133494,
-      "num": 145527,
+      "num": 206808,
       "word": "为什么说今年立春不一般",
       "onboard_time": 1770180021,
       "rank": 40,
@@ -657,6 +665,14 @@
       "onboard_time": 1770180682,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 127689,
+      "num": 127689,
+      "word": "肖战签名专辑",
+      "onboard_time": 1770183381,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 126337,
@@ -699,14 +715,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 118457,
-      "num": 118457,
-      "word": "肖战签名专辑",
-      "onboard_time": 1770183381,
-      "rank": 23,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 117996,
       "num": 117996,
       "word": "被断言活不过2岁的蝴蝶宝贝将满25岁",
@@ -739,12 +747,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 104329,
+      "num": 104329,
+      "word": "大侦探",
+      "onboard_time": 1770184580,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 104214,
       "num": 114604,
       "word": "李荣浩杨丞琳手牵手",
       "onboard_time": 1770179481,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 103076,
+      "num": 103076,
+      "word": "杨紫张哲华生命树告别吻",
+      "onboard_time": 1770184160,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 103011,
@@ -907,12 +931,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 91132,
+      "num": 91132,
+      "word": "头发自然干vs吹风机吹干",
+      "onboard_time": 1770183561,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 90488,
       "num": 90488,
       "word": "周雨彤太真长大了",
       "onboard_time": 1770163459,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 89680,
+      "num": 110536,
+      "word": "金银惊天大逆转",
+      "onboard_time": 1770183681,
+      "rank": 27,
+      "category": "财经"
     },
     {
       "raw_hot": 89394,
@@ -931,19 +971,27 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 86546,
-      "num": 86546,
-      "word": "杨紫张哲华生命树告别吻",
-      "onboard_time": 1770184160,
-      "rank": 34,
-      "category": "剧集"
+      "raw_hot": 84741,
+      "num": 84741,
+      "word": "LOLM故宫马冬梅皮肤",
+      "onboard_time": 1770185000,
+      "rank": 35,
+      "category": "游戏"
     },
     {
-      "raw_hot": 83895,
-      "num": 83895,
-      "word": "头发自然干vs吹风机吹干",
-      "onboard_time": 1770183561,
-      "rank": 35,
+      "raw_hot": 83362,
+      "num": 115978,
+      "word": "领免费鸡蛋买高价产品老人后悔落泪",
+      "onboard_time": 1770183381,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 83114,
+      "num": 83114,
+      "word": "电视剧离职vs现实中离职",
+      "onboard_time": 1770185179,
+      "rank": 38,
       "category": "幽默"
     },
     {
@@ -1027,6 +1075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 76822,
+      "num": 76822,
+      "word": "胖东来春节放5天员工发声",
+      "onboard_time": 1770184881,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75858,
       "num": 75858,
       "word": "肖战檀健次朱一龙热议角色TOP10",
@@ -1059,11 +1115,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 73173,
-      "num": 110536,
-      "word": "金银惊天大逆转",
-      "onboard_time": 1770183681,
-      "rank": 27,
+      "raw_hot": 72922,
+      "num": 72922,
+      "word": "四川黄金逼近跌停",
+      "onboard_time": 1770183561,
+      "rank": 46,
       "category": "财经"
     },
     {
@@ -1091,20 +1147,28 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 69202,
-      "num": 74769,
-      "word": "导演拍疯了演员演爽了观众笑裂了",
-      "onboard_time": 1770184580,
-      "rank": 40,
-      "category": "剧集"
+      "raw_hot": 70545,
+      "num": 70545,
+      "word": "特朗普被追问爱泼斯坦破防了",
+      "onboard_time": 1770185300,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
-      "raw_hot": 69146,
-      "num": 69146,
-      "word": "大侦探",
-      "onboard_time": 1770184580,
+      "raw_hot": 69883,
+      "num": 72222,
+      "word": "20多人住店不登记还自称是皇室后代",
+      "onboard_time": 1770183381,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 69745,
+      "num": 69745,
+      "word": "小米不再单独设立SU7Ultra专属销售",
+      "onboard_time": 1770185300,
       "rank": 48,
-      "category": "综艺"
+      "category": "汽车"
     },
     {
       "raw_hot": 68606,
@@ -1113,14 +1177,6 @@
       "onboard_time": 1770137118,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 68579,
-      "num": 72222,
-      "word": "20多人住店不登记还自称是皇室后代",
-      "onboard_time": 1770183381,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 68552,
@@ -1132,7 +1188,7 @@
     },
     {
       "raw_hot": 68472,
-      "num": 75309,
+      "num": 83208,
       "word": "怎么会有这么离谱但又合理的剧",
       "onboard_time": 1770184282,
       "rank": 39,
@@ -1145,14 +1201,6 @@
       "onboard_time": 1770122781,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 67585,
-      "num": 71337,
-      "word": "四川黄金逼近跌停",
-      "onboard_time": 1770183561,
-      "rank": 46,
-      "category": "财经"
     },
     {
       "raw_hot": 67362,
@@ -1403,6 +1451,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 40647,
+      "num": 166955,
+      "word": "宝马停商场8101小时计费16900元",
+      "onboard_time": 1770184820,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40042,
       "num": 40042,
       "word": "2025微博十大热搜演唱会",
@@ -1416,14 +1472,6 @@
       "word": "我国已实现3亿人参与冰雪运动目标",
       "onboard_time": 1770178762,
       "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 39243,
-      "num": 115978,
-      "word": "领免费鸡蛋买高价产品老人后悔落泪",
-      "onboard_time": 1770183381,
-      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -1499,6 +1547,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 34873,
+      "num": 104788,
+      "word": "春节带阿福回家的理由",
+      "onboard_time": 1770183321,
+      "rank": 29,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 34559,
       "num": 34559,
       "word": "时团成员包场最受年轻人喜爱明星TOP5",
@@ -1521,14 +1577,6 @@
       "onboard_time": 1770179181,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 31226,
-      "num": 104788,
-      "word": "春节带阿福回家的理由",
-      "onboard_time": 1770183321,
-      "rank": 29,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 29272,
@@ -1600,6 +1648,14 @@
       "word": "吃娃娃菜中毒夫妻涉嫌敲诈勒索罪",
       "onboard_time": 1770136338,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20275,
+      "num": 81414,
+      "word": "与虫共眠2年多床里捉到大天牛",
+      "onboard_time": 1770184820,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
