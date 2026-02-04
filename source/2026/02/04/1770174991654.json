@@ -1,0 +1,410 @@
+{
+  "runTime": 1770174991654,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 510456,
+        "num": 1081673,
+        "word": "立春",
+        "onboard_time": 1770160458,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 291075,
+        "num": 782273,
+        "word": "老头乐闯灯被撞获赔核心是生命权优先",
+        "onboard_time": 1770173361,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15612,
+        "num": 668212,
+        "word": "学生优惠火车票购票攻略来了",
+        "onboard_time": 1770124281,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 646233,
+        "num": 646233,
+        "word": "恋与深空",
+        "onboard_time": 1770160758,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 518015,
+        "num": 518015,
+        "word": "金饰价格涨到1600元",
+        "onboard_time": 1770169698,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 346386,
+        "num": 346386,
+        "word": "72岁王健林低调现身贵州",
+        "onboard_time": 1770171799,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228563,
+        "num": 228563,
+        "word": "删了吧有个00后破防了",
+        "onboard_time": 1770167121,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 193857,
+        "num": 193857,
+        "word": "太平年拍了赵匡胤黄袍加身",
+        "onboard_time": 1770173300,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183849,
+        "num": 183849,
+        "word": "哈登加盟骑士",
+        "onboard_time": 1770168199,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175820,
+        "num": 175820,
+        "word": "尚公主",
+        "onboard_time": 1770132980,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1317231,
+        "num": 174718,
+        "word": "金宣虎承认逃税并道歉",
+        "onboard_time": 1770173120,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 368418,
+        "num": 172329,
+        "word": "前妻说比尔盖茨应回应爱泼斯坦案",
+        "onboard_time": 1770170118,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 300149,
+        "num": 168515,
+        "word": "微信屏蔽元宝红包链接",
+        "onboard_time": 1770174321,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 274397,
+        "num": 165354,
+        "word": "呵呵被白鹿限制发博了",
+        "onboard_time": 1770166700,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196657,
+        "num": 164124,
+        "word": "爱泼斯坦案真正受害者无人问津",
+        "onboard_time": 1770169938,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 161222,
+        "num": 161222,
+        "word": "刘晓庆直播卖字一字千金",
+        "onboard_time": 1770168919,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159517,
+        "num": 159517,
+        "word": "躲春",
+        "onboard_time": 1770126862,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159244,
+        "num": 159244,
+        "word": "张凌赫方回应常驻跑男",
+        "onboard_time": 1770174920,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 119141,
+        "num": 119141,
+        "word": "微博之夜",
+        "onboard_time": 1770163941,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 45477,
+        "num": 118294,
+        "word": "蝴蝶宝贝5次手术后手指再次完全粘连",
+        "onboard_time": 1770174560,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 266867,
+        "num": 118202,
+        "word": "短剧八位男女顶流春晚合体",
+        "onboard_time": 1770173541,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117586,
+        "num": 117586,
+        "word": "买苹果树发现苹果是插上的报警",
+        "onboard_time": 1770161838,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100844,
+        "num": 100844,
+        "word": "俞灏明自曝曾因脸伤遭剧组拒绝",
+        "onboard_time": 1770165441,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172330,
+        "num": 100843,
+        "word": "6类食物已被证实促癌",
+        "onboard_time": 1770165800,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 163086,
+        "num": 100760,
+        "word": "日本一小学生遭初中生勒脖又推入海",
+        "onboard_time": 1770173839,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 148678,
+        "num": 100724,
+        "word": "前妻回应比尔盖茨被曝隐瞒性病",
+        "onboard_time": 1770172519,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 143460,
+        "num": 100682,
+        "word": "被烧死萨摩耶狗主拒6000元私了",
+        "onboard_time": 1770172519,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103638,
+        "num": 100633,
+        "word": "赵雨凡 金佳蓝",
+        "onboard_time": 1770166339,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100603,
+        "num": 100603,
+        "word": "金宣虎前公司称都是金宣虎要求的",
+        "onboard_time": 1770168799,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93087,
+        "num": 99521,
+        "word": "2026中央一号文件里这些红线不能碰",
+        "onboard_time": 1770169221,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 98737,
+        "num": 98737,
+        "word": "医生提醒不要长期用吸管喝水",
+        "onboard_time": 1770161236,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 98342,
+        "num": 98342,
+        "word": "被断言活不过2岁的蝴蝶宝贝将满25岁",
+        "onboard_time": 1770161418,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94961,
+        "num": 94961,
+        "word": "许昌一对情侣坠河一死一获救",
+        "onboard_time": 1770174500,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91376,
+        "num": 91376,
+        "word": "金银暴跌后回升原因",
+        "onboard_time": 1770171679,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 88907,
+        "num": 88907,
+        "word": "尚公主双端预约人数破200万",
+        "onboard_time": 1770173600,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87089,
+        "num": 87089,
+        "word": "A股行情",
+        "onboard_time": 1770171199,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 83380,
+        "num": 83380,
+        "word": "女子网购9斤香蕉到货仅1根",
+        "onboard_time": 1770168380,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82128,
+        "num": 82128,
+        "word": "立春别忘了咬春",
+        "onboard_time": 1770128062,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76890,
+        "num": 76890,
+        "word": "直播前请先为患者披上尊严的无菌衣",
+        "onboard_time": 1770172640,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35319,
+        "num": 76867,
+        "word": "北京大爷捕42只麻雀被刑拘",
+        "onboard_time": 1770174381,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76850,
+        "num": 76850,
+        "word": "97岁富商欲再婚次子求判其心智不全",
+        "onboard_time": 1770132621,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 68958,
+        "num": 68958,
+        "word": "林孝埈感恩加入中国队",
+        "onboard_time": 1770165081,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 64200,
+        "num": 64200,
+        "word": "春饼",
+        "onboard_time": 1770171558,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 63966,
+        "num": 63966,
+        "word": "医院通报暴露患者隐私部位",
+        "onboard_time": 1770164300,
+        "rank": 43,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 62990,
+        "num": 62990,
+        "word": "iPhone18再爆料",
+        "onboard_time": 1770165741,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 62736,
+        "num": 62736,
+        "word": "湖北成立联合调查组赴襄阳宜昌",
+        "onboard_time": 1770173961,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61277,
+        "num": 61277,
+        "word": "山东县城承包了全球七成假睫毛",
+        "onboard_time": 1770173361,
+        "rank": 46,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 60341,
+        "num": 60341,
+        "word": "有色金属板块再爆发",
+        "onboard_time": 1770174321,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 60337,
+        "num": 60337,
+        "word": "詹杜库再同队",
+        "onboard_time": 1770173179,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 58088,
+        "num": 58088,
+        "word": "游客入住成都民宿发现隐藏摄像头",
+        "onboard_time": 1770170359,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中乌两国是隔海相望的好邻居好伙伴#"
+    }
+  }
+}

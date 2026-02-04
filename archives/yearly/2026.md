@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/02/04 10:36:56
+本榜单时间：2026/01/01 00:35:36 ~ 2026/02/04 11:16:31
 </p>
 </blockquote>
 <p>
@@ -933,6 +933,12 @@ U23国足vs乌兹别克斯坦（热度：1464712）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E5%AE%A3%E8%99%8E%E6%89%BF%E8%AE%A4%E9%80%83%E7%A8%8E%E5%B9%B6%E9%81%93%E6%AD%89%23" target="weibo">
+金宣虎承认逃税并道歉（热度：1317231）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%E8%A2%AB%E7%82%B9%E5%90%8D%23" target="weibo">
 张本智和被点名（热度：1316774）
 </a>
@@ -1805,12 +1811,6 @@ LWX 结婚（热度：1010442）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%BC%E5%B8%95%E7%97%85%E6%AF%92%23" target="weibo">
 尼帕病毒（热度：1006853）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%86%A0%E5%B8%8C%E6%80%8E%E4%B9%88%E8%80%81%E6%88%90%E8%BF%99%E6%A0%B7%E4%BA%86%23" target="weibo">
-陈冠希怎么老成这样了（热度：1003635）
 </a>
 </li>
 
