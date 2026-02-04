@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1770199711366,
+  "endTime": 1770202215767,
   "band_list": [
     {
       "raw_hot": 4038416,
@@ -1459,6 +1459,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 424144,
+      "num": 1067863,
+      "word": "央视春晚女主持上新了",
+      "onboard_time": 1770196341,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 423840,
       "num": 206987,
       "word": "黄多多最新自拍",
@@ -1929,6 +1937,14 @@
       "onboard_time": 1769994921,
       "rank": 4,
       "category": "演出"
+    },
+    {
+      "raw_hot": 338354,
+      "num": 338354,
+      "word": "校长与离异女教师恋爱被定师德不合格",
+      "onboard_time": 1770200840,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 337730,
@@ -2507,12 +2523,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 277416,
-      "num": 753651,
-      "word": "央视春晚女主持上新了",
-      "onboard_time": 1770196341,
-      "rank": 4,
-      "category": "综艺"
+      "raw_hot": 278412,
+      "num": 98750,
+      "word": "宋亚轩中指无名指比耶",
+      "onboard_time": 1770200781,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 276382,
@@ -2963,6 +2979,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 231067,
+      "num": 223638,
+      "word": "猫一吃玉米就会变得猥琐",
+      "onboard_time": 1770198622,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 230279,
       "num": 230279,
       "word": "生命树口碑发酵",
@@ -3115,6 +3139,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 223662,
+      "num": 440437,
+      "word": "有人替陈楚生官宣了上海演唱会",
+      "onboard_time": 1770196520,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
       "raw_hot": 223409,
       "num": 223409,
       "word": "二胎家庭的老二天生求生欲更强",
@@ -3233,14 +3265,6 @@
       "onboard_time": 1770106761,
       "rank": 28,
       "category": "财经"
-    },
-    {
-      "raw_hot": 205310,
-      "num": 440437,
-      "word": "有人替陈楚生官宣了上海演唱会",
-      "onboard_time": 1770196520,
-      "rank": 7,
-      "category": "演出"
     },
     {
       "raw_hot": 204806,
@@ -3667,7 +3691,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 174049,
+      "raw_hot": 175185,
       "num": 364746,
       "word": "前夫举报女教师与校长谈恋爱被拘留",
       "onboard_time": 1770193521,
@@ -4009,6 +4033,14 @@
       "onboard_time": 1770003261,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 152108,
+      "num": 323263,
+      "word": "小城大事",
+      "onboard_time": 1770198681,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 151684,
@@ -4777,14 +4809,6 @@
       "onboard_time": 1770002360,
       "rank": 18,
       "category": "演出"
-    },
-    {
-      "raw_hot": 127147,
-      "num": 323263,
-      "word": "小城大事",
-      "onboard_time": 1770198681,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 127094,
@@ -6099,6 +6123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 104768,
+      "num": 91053,
+      "word": "彭昱畅红包口令",
+      "onboard_time": 1770201742,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 104732,
       "num": 104732,
       "word": "大理一餐厅两只网红金毛犬身亡",
@@ -6499,11 +6531,27 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 99384,
+      "num": 99384,
+      "word": "意大利失联博士疑似被看到买咖啡",
+      "onboard_time": 1770200120,
+      "rank": 17,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 99327,
       "num": 99327,
       "word": "海克斯大乱斗也爆了",
       "onboard_time": 1769950702,
       "rank": 46,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 99198,
+      "num": 99198,
+      "word": "王者荣耀",
+      "onboard_time": 1770199520,
+      "rank": 42,
       "category": "游戏"
     },
     {
@@ -7003,14 +7051,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 92829,
-      "num": 92829,
-      "word": "猫一吃玉米就会变得猥琐",
-      "onboard_time": 1770198622,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 92685,
       "num": 92685,
       "word": "黄金行情结束了吗",
@@ -7211,6 +7251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 90197,
+      "num": 299145,
+      "word": "大二女生失踪8年父亲悬赏10万寻女",
+      "onboard_time": 1770199221,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90101,
       "num": 90101,
       "word": "宜家为什么卖不动了",
@@ -7363,6 +7411,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 88434,
+      "num": 308281,
+      "word": "生理期救星奶茶出现了",
+      "onboard_time": 1770198500,
+      "rank": 19,
+      "category": "美食"
+    },
+    {
       "raw_hot": 88347,
       "num": 88347,
       "word": "什么情况下容易猝死",
@@ -7449,6 +7505,14 @@
       "onboard_time": 1769944222,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 87602,
+      "num": 85318,
+      "word": "卢靖姗晒儿女照片",
+      "onboard_time": 1770200480,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 87527,
@@ -7675,6 +7739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 85129,
+      "num": 85129,
+      "word": "真马版小马宝莉",
+      "onboard_time": 1770201260,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 85071,
       "num": 85071,
       "word": "现货黄金再跌下4800",
@@ -7752,6 +7824,14 @@
       "word": "胡歌欢迎马思纯",
       "onboard_time": 1770125181,
       "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 83712,
+      "num": 83712,
+      "word": "浙江卫视力挺白鹿",
+      "onboard_time": 1770201981,
+      "rank": 40,
       "category": "剧集"
     },
     {
@@ -7929,6 +8009,14 @@
       "onboard_time": 1770185300,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 81272,
+      "num": 81272,
+      "word": "胡歌回应内娱艺人最爱追的星之一",
+      "onboard_time": 1770199520,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 81245,
@@ -8131,14 +8219,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 79371,
-      "num": 79371,
-      "word": "王者荣耀",
-      "onboard_time": 1770199520,
-      "rank": 42,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 79353,
       "num": 79353,
       "word": "三角洲行动",
@@ -8291,14 +8371,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 76666,
-      "num": 76666,
-      "word": "胡歌回应内娱艺人最爱追的星之一",
-      "onboard_time": 1770199520,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 76661,
       "num": 76661,
       "word": "TF四代赢了TOP",
@@ -8369,6 +8441,14 @@
       "onboard_time": 1770181822,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 75569,
+      "num": 70657,
+      "word": "宋亚轩这照片是刘耀文拍的吧",
+      "onboard_time": 1770201742,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 75419,
@@ -8531,6 +8611,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 71498,
+      "num": 71498,
+      "word": "Flandre自费为冬奥加油",
+      "onboard_time": 1770200781,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 71448,
       "num": 71448,
       "word": "秦海璐参加晚会都不忘催更小说",
@@ -8659,14 +8747,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 68397,
-      "num": 308281,
-      "word": "生理期救星奶茶出现了",
-      "onboard_time": 1770198500,
-      "rank": 19,
-      "category": "美食"
-    },
-    {
       "raw_hot": 68371,
       "num": 190170,
       "word": "霸王茶姬福贴放自己一马",
@@ -8681,6 +8761,14 @@
       "onboard_time": 1769916140,
       "rank": 47,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 67848,
+      "num": 83789,
+      "word": "超负荷的县城学校挤满了疲惫的师生",
+      "onboard_time": 1770202102,
+      "rank": 38,
+      "category": "教育"
     },
     {
       "raw_hot": 67534,
@@ -8729,6 +8817,14 @@
       "onboard_time": 1769900174,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 66037,
+      "num": 66037,
+      "word": "河正宇7月结婚",
+      "onboard_time": 1770200362,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 65973,
@@ -9307,6 +9403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 50867,
+      "num": 83723,
+      "word": "爱泼斯坦自缢后抢救画面曝光",
+      "onboard_time": 1770201679,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 50773,
       "num": 50773,
       "word": "中国男篮vs日本男篮",
@@ -9665,6 +9769,14 @@
       "onboard_time": 1770138917,
       "rank": 33,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 38146,
+      "num": 63892,
+      "word": "宝马车主停车8101小时被问是叶凡吗",
+      "onboard_time": 1770200900,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37943,
@@ -10067,14 +10179,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 29260,
-      "num": 299145,
-      "word": "大二女生失踪8年父亲悬赏10万寻女",
-      "onboard_time": 1770199221,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 29228,
       "num": 39589,
       "word": "星河入梦",
@@ -10219,6 +10323,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 24894,
+      "num": 223604,
+      "word": "上海居民将可赴金门马祖旅游",
+      "onboard_time": 1770201620,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 24891,
       "num": 35950,
       "word": "TF四代路透",
@@ -10308,7 +10420,7 @@
     },
     {
       "raw_hot": 23308,
-      "num": 630039,
+      "num": 640186,
       "word": "华龙一号有新进展",
       "onboard_time": 1770198622,
       "rank": 2,

@@ -1,6 +1,6 @@
 {
   "startTime": 1770135183011,
-  "endTime": 1770199711366,
+  "endTime": 1770202215767,
   "band_list": [
     {
       "raw_hot": 1582100,
@@ -235,6 +235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 424144,
+      "num": 1067863,
+      "word": "央视春晚女主持上新了",
+      "onboard_time": 1770196341,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 423840,
       "num": 206987,
       "word": "黄多多最新自拍",
@@ -371,6 +379,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 338354,
+      "num": 338354,
+      "word": "校长与离异女教师恋爱被定师德不合格",
+      "onboard_time": 1770200840,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 332556,
       "num": 205616,
       "word": "张凌赫方回应常驻跑男",
@@ -475,12 +491,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 277416,
-      "num": 753651,
-      "word": "央视春晚女主持上新了",
-      "onboard_time": 1770196341,
-      "rank": 4,
-      "category": "综艺"
+      "raw_hot": 278412,
+      "num": 98750,
+      "word": "宋亚轩中指无名指比耶",
+      "onboard_time": 1770200781,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 266867,
@@ -555,6 +571,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 231067,
+      "num": 223638,
+      "word": "猫一吃玉米就会变得猥琐",
+      "onboard_time": 1770198622,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 230279,
       "num": 230279,
       "word": "生命树口碑发酵",
@@ -595,6 +619,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 223662,
+      "num": 440437,
+      "word": "有人替陈楚生官宣了上海演唱会",
+      "onboard_time": 1770196520,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
       "raw_hot": 216184,
       "num": 138653,
       "word": "精灵少女官宣解散",
@@ -617,14 +649,6 @@
       "onboard_time": 1770132621,
       "rank": 13,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 205310,
-      "num": 440437,
-      "word": "有人替陈楚生官宣了上海演唱会",
-      "onboard_time": 1770196520,
-      "rank": 7,
-      "category": "演出"
     },
     {
       "raw_hot": 202881,
@@ -731,7 +755,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 174049,
+      "raw_hot": 175185,
       "num": 364746,
       "word": "前夫举报女教师与校长谈恋爱被拘留",
       "onboard_time": 1770193521,
@@ -792,6 +816,14 @@
       "word": "导演拍疯了演员演爽了观众笑裂了",
       "onboard_time": 1770184580,
       "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 152108,
+      "num": 323263,
+      "word": "小城大事",
+      "onboard_time": 1770198681,
+      "rank": 46,
       "category": "剧集"
     },
     {
@@ -929,14 +961,6 @@
       "onboard_time": 1770197060,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 127147,
-      "num": 323263,
-      "word": "小城大事",
-      "onboard_time": 1770198681,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 126337,
@@ -1107,6 +1131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 104768,
+      "num": 91053,
+      "word": "彭昱畅红包口令",
+      "onboard_time": 1770201742,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 104214,
       "num": 114604,
       "word": "李荣浩杨丞琳手牵手",
@@ -1201,6 +1233,22 @@
       "onboard_time": 1770192980,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 99384,
+      "num": 99384,
+      "word": "意大利失联博士疑似被看到买咖啡",
+      "onboard_time": 1770200120,
+      "rank": 17,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 99198,
+      "num": 99198,
+      "word": "王者荣耀",
+      "onboard_time": 1770199520,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 98408,
@@ -1323,14 +1371,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 92829,
-      "num": 92829,
-      "word": "猫一吃玉米就会变得猥琐",
-      "onboard_time": 1770198622,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 92703,
       "num": 92703,
       "word": "特朗普称有问题的是比尔盖茨那些人",
@@ -1387,6 +1427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 90197,
+      "num": 299145,
+      "word": "大二女生失踪8年父亲悬赏10万寻女",
+      "onboard_time": 1770199221,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89397,
       "num": 94204,
       "word": "电视剧离职vs现实中离职",
@@ -1427,12 +1475,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 88434,
+      "num": 308281,
+      "word": "生理期救星奶茶出现了",
+      "onboard_time": 1770198500,
+      "rank": 19,
+      "category": "美食"
+    },
+    {
       "raw_hot": 87990,
       "num": 87990,
       "word": "过年不买新衣服",
       "onboard_time": 1770187399,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 87602,
+      "num": 85318,
+      "word": "卢靖姗晒儿女照片",
+      "onboard_time": 1770200480,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 87515,
@@ -1483,12 +1547,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 85129,
+      "num": 85129,
+      "word": "真马版小马宝莉",
+      "onboard_time": 1770201260,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 84741,
       "num": 84741,
       "word": "LOLM故宫马冬梅皮肤",
       "onboard_time": 1770185000,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 83712,
+      "num": 83712,
+      "word": "浙江卫视力挺白鹿",
+      "onboard_time": 1770201981,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 83362,
@@ -1547,6 +1627,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 81272,
+      "num": 81272,
+      "word": "胡歌回应内娱艺人最爱追的星之一",
+      "onboard_time": 1770199520,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 81245,
       "num": 81245,
       "word": "11个月大的搜救犬黑崽被盗杀",
@@ -1585,14 +1673,6 @@
       "onboard_time": 1770190941,
       "rank": 41,
       "category": "财经"
-    },
-    {
-      "raw_hot": 79371,
-      "num": 79371,
-      "word": "王者荣耀",
-      "onboard_time": 1770199520,
-      "rank": 42,
-      "category": "游戏"
     },
     {
       "raw_hot": 79353,
@@ -1659,20 +1739,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 76666,
-      "num": 76666,
-      "word": "胡歌回应内娱艺人最爱追的星之一",
-      "onboard_time": 1770199520,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 75858,
       "num": 75858,
       "word": "肖战檀健次朱一龙热议角色TOP10",
       "onboard_time": 1770181822,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 75569,
+      "num": 70657,
+      "word": "宋亚轩这照片是刘耀文拍的吧",
+      "onboard_time": 1770201742,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 73768,
@@ -1721,6 +1801,14 @@
       "onboard_time": 1770128182,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 71498,
+      "num": 71498,
+      "word": "Flandre自费为冬奥加油",
+      "onboard_time": 1770200781,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 71448,
@@ -1795,14 +1883,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 68397,
-      "num": 308281,
-      "word": "生理期救星奶茶出现了",
-      "onboard_time": 1770198500,
-      "rank": 19,
-      "category": "美食"
-    },
-    {
       "raw_hot": 68371,
       "num": 190170,
       "word": "霸王茶姬福贴放自己一马",
@@ -1816,6 +1896,22 @@
       "word": "张柏芝18岁大儿子身高",
       "onboard_time": 1770122781,
       "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 67848,
+      "num": 83789,
+      "word": "超负荷的县城学校挤满了疲惫的师生",
+      "onboard_time": 1770202102,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 66037,
+      "num": 66037,
+      "word": "河正宇7月结婚",
+      "onboard_time": 1770200362,
+      "rank": 46,
       "category": "艺人"
     },
     {
@@ -2043,6 +2139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 50867,
+      "num": 83723,
+      "word": "爱泼斯坦自缢后抢救画面曝光",
+      "onboard_time": 1770201679,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 50773,
       "num": 50773,
       "word": "中国男篮vs日本男篮",
@@ -2137,6 +2241,14 @@
       "onboard_time": 1770138917,
       "rank": 33,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 38146,
+      "num": 63892,
+      "word": "宝马车主停车8101小时被问是叶凡吗",
+      "onboard_time": 1770200900,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37334,
@@ -2243,14 +2355,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 29260,
-      "num": 299145,
-      "word": "大二女生失踪8年父亲悬赏10万寻女",
-      "onboard_time": 1770199221,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 28638,
       "num": 85040,
       "word": "女子做延长甲摔跤指骨骨折甲床破裂",
@@ -2299,6 +2403,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 24894,
+      "num": 223604,
+      "word": "上海居民将可赴金门马祖旅游",
+      "onboard_time": 1770201620,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 23810,
       "num": 668212,
       "word": "学生优惠火车票购票攻略来了",
@@ -2316,7 +2428,7 @@
     },
     {
       "raw_hot": 23308,
-      "num": 630039,
+      "num": 640186,
       "word": "华龙一号有新进展",
       "onboard_time": 1770198622,
       "rank": 2,
