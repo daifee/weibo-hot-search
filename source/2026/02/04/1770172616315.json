@@ -1,0 +1,410 @@
+{
+  "runTime": 1770172616315,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1254738,
+        "num": 1254738,
+        "word": "立春",
+        "onboard_time": 1770160458,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 247677,
+        "num": 860064,
+        "word": "哈登加盟骑士",
+        "onboard_time": 1770168199,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17323,
+        "num": 663689,
+        "word": "学生优惠火车票购票攻略来了",
+        "onboard_time": 1770124281,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 447569,
+        "num": 447569,
+        "word": "金饰价格涨到1600元",
+        "onboard_time": 1770169698,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 151349,
+        "num": 151349,
+        "word": "躲春",
+        "onboard_time": 1770126862,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223792,
+        "num": 150722,
+        "word": "删了吧有个00后破防了",
+        "onboard_time": 1770167121,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 141777,
+        "num": 141777,
+        "word": "买苹果树发现苹果是插上的报警",
+        "onboard_time": 1770161838,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137034,
+        "num": 137034,
+        "word": "尚公主",
+        "onboard_time": 1770132980,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117996,
+        "num": 117996,
+        "word": "被断言活不过2岁的蝴蝶宝贝将满25岁",
+        "onboard_time": 1770161418,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101607,
+        "num": 117845,
+        "word": "恋与深空",
+        "onboard_time": 1770160758,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 321371,
+        "num": 117087,
+        "word": "呵呵被白鹿限制发博了",
+        "onboard_time": 1770166700,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 282721,
+        "num": 116915,
+        "word": "前妻说比尔盖茨应回应爱泼斯坦案",
+        "onboard_time": 1770170118,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 281841,
+        "num": 116511,
+        "word": "吃娃娃菜中毒夫妻被抓老家村干部发声",
+        "onboard_time": 1770168079,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171115,
+        "num": 116073,
+        "word": "吃娃娃菜中毒夫妻最高判刑十年以上",
+        "onboard_time": 1770134182,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138148,
+        "num": 115310,
+        "word": "刘晓庆直播卖字一字千金",
+        "onboard_time": 1770168919,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121687,
+        "num": 114920,
+        "word": "爱泼斯坦案真正受害者无人问津",
+        "onboard_time": 1770169938,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 114735,
+        "num": 114735,
+        "word": "俞灏明自曝曾因脸伤遭剧组拒绝",
+        "onboard_time": 1770165441,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112719,
+        "num": 112719,
+        "word": "金宣虎前公司称都是金宣虎要求的",
+        "onboard_time": 1770168799,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108169,
+        "num": 108169,
+        "word": "97岁富商欲再婚次子求判其心智不全",
+        "onboard_time": 1770132621,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 98111,
+        "num": 100889,
+        "word": "女子网购9斤香蕉到货仅1根",
+        "onboard_time": 1770168380,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182316,
+        "num": 100885,
+        "word": "6类食物已被证实促癌",
+        "onboard_time": 1770165800,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 146257,
+        "num": 100882,
+        "word": "赵雨凡 金佳蓝",
+        "onboard_time": 1770166339,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100874,
+        "num": 100874,
+        "word": "金宣虎裴秀智新剧或将延期",
+        "onboard_time": 1770166401,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 100136,
+        "num": 100136,
+        "word": "台湾网友在上海衣服被偷又找回的经历",
+        "onboard_time": 1770165381,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 98440,
+        "num": 98440,
+        "word": "医生提醒不要长期用吸管喝水",
+        "onboard_time": 1770161236,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 97218,
+        "num": 97218,
+        "word": "A股行情",
+        "onboard_time": 1770171199,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 97064,
+        "num": 97064,
+        "word": "林孝埈感恩加入中国队",
+        "onboard_time": 1770165081,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96162,
+        "num": 96162,
+        "word": "2026中央一号文件里这些红线不能碰",
+        "onboard_time": 1770169221,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 91381,
+        "num": 94072,
+        "word": "春卷",
+        "onboard_time": 1770171860,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 92535,
+        "num": 92535,
+        "word": "立春别忘了咬春",
+        "onboard_time": 1770128062,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161946,
+        "num": 92383,
+        "word": "72岁王健林低调现身贵州",
+        "onboard_time": 1770171799,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90488,
+        "num": 90488,
+        "word": "周雨彤太真长大了",
+        "onboard_time": 1770163459,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89394,
+        "num": 89394,
+        "word": "世界之外",
+        "onboard_time": 1770171618,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 82929,
+        "num": 82929,
+        "word": "iPhone18再爆料",
+        "onboard_time": 1770165741,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 82528,
+        "num": 82528,
+        "word": "黄金回购也要限额了",
+        "onboard_time": 1770166161,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 82233,
+        "num": 82233,
+        "word": "春饼",
+        "onboard_time": 1770171558,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 80657,
+        "num": 80657,
+        "word": "NBA",
+        "onboard_time": 1770171799,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 80583,
+        "num": 80583,
+        "word": "游客入住成都民宿发现隐藏摄像头",
+        "onboard_time": 1770170359,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79590,
+        "num": 79590,
+        "word": "金银暴跌后回升原因",
+        "onboard_time": 1770171679,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 25854,
+        "num": 79333,
+        "word": "警方通报2男子在民宿装隐藏摄像头",
+        "onboard_time": 1770171739,
+        "rank": 39,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 549010,
+        "num": 79317,
+        "word": "母亲盗卖儿子300万黄金为弟买房",
+        "onboard_time": 1770167899,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79191,
+        "num": 79191,
+        "word": "微博之夜",
+        "onboard_time": 1770163941,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 7663,
+        "num": 78183,
+        "word": "湖北成立调查组彻查精神病院问题",
+        "onboard_time": 1770172579,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1045088,
+        "num": 78182,
+        "word": "张凌赫跑男常驻",
+        "onboard_time": 1770169159,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 78169,
+        "num": 78169,
+        "word": "连跌3日的金银暴力反弹",
+        "onboard_time": 1770132203,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 77110,
+        "num": 77110,
+        "word": "医院通报暴露患者隐私部位",
+        "onboard_time": 1770164300,
+        "rank": 45,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 73768,
+        "num": 73768,
+        "word": "母亲称女儿2岁后每一天都是赚的",
+        "onboard_time": 1770163340,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72489,
+        "num": 72489,
+        "word": "卡扎菲次子在住处被武装分子杀害",
+        "onboard_time": 1770167241,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 70833,
+        "num": 70833,
+        "word": "前妻回应比尔盖茨被曝隐瞒性病",
+        "onboard_time": 1770172519,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 69986,
+        "num": 69986,
+        "word": "被烧死萨摩耶狗主拒6000元私了",
+        "onboard_time": 1770172519,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中乌两国是隔海相望的好邻居好伙伴#"
+    }
+  }
+}
