@@ -1,6 +1,6 @@
 {
   "startTime": 1770221309024,
-  "endTime": 1770225306535,
+  "endTime": 1770227734595,
   "band_list": [
     {
       "raw_hot": 679797,
@@ -203,6 +203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136670,
+      "num": 136670,
+      "word": "成何体统",
+      "onboard_time": 1770222020,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 116967,
       "num": 116967,
       "word": "校长与离异女教师恋爱被定师德不合格",
@@ -249,14 +257,6 @@
       "onboard_time": 1770213563,
       "rank": 30,
       "category": "电影"
-    },
-    {
-      "raw_hot": 104297,
-      "num": 104297,
-      "word": "成何体统",
-      "onboard_time": 1770222020,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 102414,
@@ -403,6 +403,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 57607,
+      "num": 54374,
+      "word": "微信为什么要打自家人元宝",
+      "onboard_time": 1770224117,
+      "rank": 45,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 55222,
       "num": 55222,
       "word": "被杀搜救犬曾是流浪狗多次救人",
@@ -411,12 +419,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 54374,
-      "num": 54374,
-      "word": "微信为什么要打自家人元宝",
-      "onboard_time": 1770224117,
-      "rank": 45,
-      "category": "互联网"
+      "raw_hot": 45756,
+      "num": 49428,
+      "word": "网友疑似污蔑存包奶奶偷包",
+      "onboard_time": 1770224236,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 43771,
@@ -424,14 +432,6 @@
       "word": "流量狂欢下的真相迷失与信任危机",
       "onboard_time": 1770223100,
       "rank": 46,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 42512,
-      "num": 49428,
-      "word": "网友疑似污蔑存包奶奶偷包",
-      "onboard_time": 1770224236,
-      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -465,6 +465,30 @@
       "onboard_time": 1770220160,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 25281,
+      "num": 27367,
+      "word": "太平年水丘公满门被屠",
+      "onboard_time": 1770220760,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 24044,
+      "num": 27363,
+      "word": "上班两天技师猥亵顾客被行拘7日",
+      "onboard_time": 1770226336,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22808,
+      "num": 27359,
+      "word": "代旭私下这么潮",
+      "onboard_time": 1770211823,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 14563,
