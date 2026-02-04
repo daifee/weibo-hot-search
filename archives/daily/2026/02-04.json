@@ -1,6 +1,6 @@
 {
   "startTime": 1770135183011,
-  "endTime": 1770181001898,
+  "endTime": 1770184620087,
   "band_list": [
     {
       "raw_hot": 1317231,
@@ -43,6 +43,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 812466,
+      "num": 753608,
+      "word": "爱吃车厘子的人天塌了",
+      "onboard_time": 1770179121,
+      "rank": 3,
+      "category": "美食"
+    },
+    {
       "raw_hot": 793572,
       "num": 221637,
       "word": "没人告诉我金靖178啊",
@@ -51,12 +59,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 753608,
-      "num": 753608,
-      "word": "爱吃车厘子的人天塌了",
-      "onboard_time": 1770179121,
-      "rank": 3,
-      "category": "美食"
+      "raw_hot": 767745,
+      "num": 350554,
+      "word": "很多公司已经取消年会了",
+      "onboard_time": 1770179602,
+      "rank": 9,
+      "category": "情感"
     },
     {
       "raw_hot": 752951,
@@ -83,20 +91,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 686050,
+      "num": 176009,
+      "word": "男子结扎后妻子又又又怀孕",
+      "onboard_time": 1770181881,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 646233,
       "num": 646233,
       "word": "恋与深空",
       "onboard_time": 1770160758,
       "rank": 19,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 559001,
-      "num": 350554,
-      "word": "很多公司已经取消年会了",
-      "onboard_time": 1770179602,
-      "rank": 9,
-      "category": "情感"
     },
     {
       "raw_hot": 549010,
@@ -131,12 +139,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 451683,
+      "num": 175916,
+      "word": "年营收1亿女生说妈妈一直劝她考公",
+      "onboard_time": 1770182480,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 436154,
       "num": 204435,
       "word": "吃娃娃菜中毒夫妻均被刑拘",
       "onboard_time": 1770118821,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 423840,
+      "num": 206987,
+      "word": "黄多多最新自拍",
+      "onboard_time": 1770179301,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 410087,
@@ -160,6 +184,14 @@
       "word": "任宥纶这是官宣吗",
       "onboard_time": 1770119721,
       "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 375744,
+      "num": 175810,
+      "word": "沈腾左脚确诊多动症",
+      "onboard_time": 1770180442,
+      "rank": 48,
       "category": "艺人"
     },
     {
@@ -240,14 +272,6 @@
       "word": "胡先煦睡觉吓到空姐",
       "onboard_time": 1770112400,
       "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 304835,
-      "num": 206987,
-      "word": "黄多多最新自拍",
-      "onboard_time": 1770179301,
-      "rank": 24,
       "category": "艺人"
     },
     {
@@ -347,6 +371,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 218468,
+      "num": 175722,
+      "word": "大疆最想删的视频出现了",
+      "onboard_time": 1770182061,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 216184,
       "num": 138653,
       "word": "精灵少女官宣解散",
@@ -363,6 +395,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 203714,
+      "num": 203714,
+      "word": "胡歌说杨紫的戏不是一般的好",
+      "onboard_time": 1770182900,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 202881,
       "num": 202881,
       "word": "郑大一附院医生诈骗94名患者获刑",
@@ -377,6 +417,14 @@
       "onboard_time": 1770163941,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 196807,
+      "num": 196807,
+      "word": "39岁刘心悦成春晚主持人新面孔",
+      "onboard_time": 1770179423,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 196657,
@@ -435,14 +483,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 179153,
-      "num": 162952,
-      "word": "沈腾左脚确诊多动症",
-      "onboard_time": 1770180442,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 178552,
       "num": 137475,
       "word": "金价波动",
@@ -459,12 +499,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 176111,
+      "num": 176111,
+      "word": "老外眼里的中餐",
+      "onboard_time": 1770180323,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 175820,
       "num": 175820,
       "word": "尚公主",
       "onboard_time": 1770132980,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 175640,
+      "num": 175640,
+      "word": "周冬雨 别让影后干这个",
+      "onboard_time": 1770183080,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 173222,
@@ -507,14 +563,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 158085,
-      "num": 157095,
-      "word": "39岁刘心悦成春晚主持人新面孔",
-      "onboard_time": 1770179423,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 148678,
       "num": 100724,
       "word": "前妻回应比尔盖茨被曝隐瞒性病",
@@ -537,14 +585,6 @@
       "onboard_time": 1770161236,
       "rank": 30,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 147720,
-      "num": 147720,
-      "word": "老外眼里的中餐",
-      "onboard_time": 1770180323,
-      "rank": 47,
-      "category": "美食"
     },
     {
       "raw_hot": 147709,
@@ -596,7 +636,7 @@
     },
     {
       "raw_hot": 133494,
-      "num": 133494,
+      "num": 145527,
       "word": "为什么说今年立春不一般",
       "onboard_time": 1770180021,
       "rank": 40,
@@ -657,6 +697,14 @@
       "onboard_time": 1770180142,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 118457,
+      "num": 118457,
+      "word": "肖战签名专辑",
+      "onboard_time": 1770183381,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 117996,
@@ -779,6 +827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 96489,
+      "num": 96489,
+      "word": "白鹿被自己演的吓一跳",
+      "onboard_time": 1770182661,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 96162,
       "num": 99521,
       "word": "2026中央一号文件里这些红线不能碰",
@@ -875,6 +931,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 86546,
+      "num": 86546,
+      "word": "杨紫张哲华生命树告别吻",
+      "onboard_time": 1770184160,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 83895,
+      "num": 83895,
+      "word": "头发自然干vs吹风机吹干",
+      "onboard_time": 1770183561,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 82929,
       "num": 82929,
       "word": "iPhone18再爆料",
@@ -955,6 +1027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 75858,
+      "num": 75858,
+      "word": "肖战檀健次朱一龙热议角色TOP10",
+      "onboard_time": 1770181822,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 73768,
       "num": 73768,
       "word": "母亲称女儿2岁后每一天都是赚的",
@@ -979,6 +1059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 73173,
+      "num": 110536,
+      "word": "金银惊天大逆转",
+      "onboard_time": 1770183681,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 72489,
       "num": 72489,
       "word": "卡扎菲次子在住处被武装分子杀害",
@@ -995,6 +1083,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 71071,
+      "num": 71071,
+      "word": "元宝改为口令红包",
+      "onboard_time": 1770181281,
+      "rank": 47,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 69202,
+      "num": 74769,
+      "word": "导演拍疯了演员演爽了观众笑裂了",
+      "onboard_time": 1770184580,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 69146,
+      "num": 69146,
+      "word": "大侦探",
+      "onboard_time": 1770184580,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 68606,
       "num": 68606,
       "word": "章若楠进组你那儿几点",
@@ -1003,11 +1115,51 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 68579,
+      "num": 72222,
+      "word": "20多人住店不登记还自称是皇室后代",
+      "onboard_time": 1770183381,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 68552,
+      "num": 73922,
+      "word": "KPL吵吵闹闹的年夜饭",
+      "onboard_time": 1770184340,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 68472,
+      "num": 75309,
+      "word": "怎么会有这么离谱但又合理的剧",
+      "onboard_time": 1770184282,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 68142,
       "num": 95071,
       "word": "张柏芝18岁大儿子身高",
       "onboard_time": 1770122781,
       "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 67585,
+      "num": 71337,
+      "word": "四川黄金逼近跌停",
+      "onboard_time": 1770183561,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 67362,
+      "num": 67362,
+      "word": "黄多多自拍",
+      "onboard_time": 1770184580,
+      "rank": 49,
       "category": "艺人"
     },
     {
@@ -1267,6 +1419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39243,
+      "num": 115978,
+      "word": "领免费鸡蛋买高价产品老人后悔落泪",
+      "onboard_time": 1770183381,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39126,
       "num": 39126,
       "word": "阿森纳1比0切尔西",
@@ -1361,6 +1521,14 @@
       "onboard_time": 1770179181,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31226,
+      "num": 104788,
+      "word": "春节带阿福回家的理由",
+      "onboard_time": 1770183321,
+      "rank": 29,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 29272,
