@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1770206107350,
+  "endTime": 1770210934280,
   "band_list": [
     {
       "raw_hot": 4038416,
@@ -547,6 +547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 783840,
+      "num": 256131,
+      "word": "肖战 演唱会",
+      "onboard_time": 1770205281,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 781504,
       "num": 1125040,
       "word": "爱泼斯坦受访时被问你是不是魔鬼",
@@ -723,6 +731,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 663572,
+      "num": 663572,
+      "word": "王者马年限定皮肤英雄公布",
+      "onboard_time": 1770208341,
+      "rank": 4,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 658441,
       "num": 394856,
       "word": "男子强奸嫂嫂又杀见义勇为者被判死刑",
@@ -889,6 +905,14 @@
       "onboard_time": 1770019641,
       "rank": 4,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 575194,
+      "num": 1092031,
+      "word": "微博之夜节目单",
+      "onboard_time": 1770210501,
+      "rank": 0,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 573810,
@@ -1188,7 +1212,7 @@
     },
     {
       "raw_hot": 479380,
-      "num": 128346,
+      "num": 138605,
       "word": "宋亚轩中指无名指比耶",
       "onboard_time": 1770200781,
       "rank": 20,
@@ -1699,6 +1723,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 383539,
+      "num": 383539,
+      "word": "桃黑黑请假",
+      "onboard_time": 1770208882,
+      "rank": 5,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 382763,
       "num": 166922,
       "word": "经常熬夜的人要少做4件事",
@@ -1713,6 +1745,14 @@
       "onboard_time": 1769936542,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 380936,
+      "num": 380936,
+      "word": "貂蝉年限 美神",
+      "onboard_time": 1770208700,
+      "rank": 6,
+      "category": "游戏"
     },
     {
       "raw_hot": 380082,
@@ -1884,7 +1924,7 @@
     },
     {
       "raw_hot": 349649,
-      "num": 118296,
+      "num": 156483,
       "word": "肖战 欧莱雅",
       "onboard_time": 1770204620,
       "rank": 24,
@@ -1963,20 +2003,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 340255,
+      "num": 250071,
+      "word": "未婚夫坐坏了霉霉的椅子",
+      "onboard_time": 1770206121,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 340219,
       "num": 340219,
       "word": "格莱美直播",
       "onboard_time": 1769994921,
       "rank": 4,
       "category": "演出"
-    },
-    {
-      "raw_hot": 339312,
-      "num": 114521,
-      "word": "肖战 演唱会",
-      "onboard_time": 1770205281,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 337730,
@@ -2659,6 +2699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 262111,
+      "num": 262111,
+      "word": "难怪前一段时间车厘子降价了",
+      "onboard_time": 1770202759,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 261274,
       "num": 218870,
       "word": "黄金白银继续暴跌",
@@ -2755,6 +2803,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 250640,
+      "num": 784851,
+      "word": "王楚钦vs帕尔",
+      "onboard_time": 1770207321,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 249288,
       "num": 249288,
       "word": "歌手2026要来新人了",
@@ -2825,6 +2881,14 @@
       "onboard_time": 1769914701,
       "rank": 13,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 246444,
+      "num": 246444,
+      "word": "比尔盖茨前妻称整个社会正在清算",
+      "onboard_time": 1770208521,
+      "rank": 14,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 245044,
@@ -3291,6 +3355,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 209923,
+      "num": 209923,
+      "word": "爱泼斯坦被曝让14岁女孩脱衣按摩",
+      "onboard_time": 1770209600,
+      "rank": 20,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 208890,
       "num": 208890,
       "word": "太平年改档",
@@ -3545,6 +3617,14 @@
       "onboard_time": 1770074899,
       "rank": 39,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 189283,
+      "num": 189283,
+      "word": "剑来",
+      "onboard_time": 1770204861,
+      "rank": 29,
+      "category": "动漫"
     },
     {
       "raw_hot": 189169,
@@ -3835,6 +3915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 172004,
+      "num": 172004,
+      "word": "洗完头真的真的不要用毛巾搓",
+      "onboard_time": 1770207021,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 171750,
       "num": 171750,
       "word": "王楚然妖妃演累了吃口火锅",
@@ -3945,14 +4033,6 @@
       "onboard_time": 1770037222,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 163138,
-      "num": 163138,
-      "word": "难怪前一段时间车厘子降价了",
-      "onboard_time": 1770202759,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 163086,
@@ -4067,6 +4147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 155959,
+      "num": 155959,
+      "word": "王者小马宝莉联动",
+      "onboard_time": 1770209241,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 155860,
       "num": 155860,
       "word": "王橹杰月光下的白玫瑰",
@@ -4177,6 +4265,14 @@
       "onboard_time": 1769900836,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 149676,
+      "num": 149676,
+      "word": "张婧仪 我记得你的姓",
+      "onboard_time": 1770209541,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 149662,
@@ -5411,6 +5507,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 118319,
+      "num": 118319,
+      "word": "杨紫喊土豆吕严回家吃饭",
+      "onboard_time": 1770208281,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 118277,
       "num": 118277,
       "word": "GEN战胜HLE",
@@ -5553,6 +5657,14 @@
       "onboard_time": 1770129083,
       "rank": 36,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 115137,
+      "num": 115137,
+      "word": "柯淳挑战长剧角色金子阳",
+      "onboard_time": 1770210080,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 115019,
@@ -6131,20 +6243,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 106220,
-      "num": 159306,
-      "word": "剑来",
-      "onboard_time": 1770204861,
-      "rank": 29,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 106209,
       "num": 106209,
       "word": "LadyGaga格莱美最佳专辑",
       "onboard_time": 1770002541,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 106130,
+      "num": 106130,
+      "word": "双胞胎是不是骗过了神明的人",
+      "onboard_time": 1770208341,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 105952,
@@ -6363,6 +6475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 103483,
+      "num": 103483,
+      "word": "动物园回应白虎被指饿成纸片",
+      "onboard_time": 1770207501,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103392,
       "num": 116120,
       "word": "东部战区一线战斗场景公开",
@@ -6473,6 +6593,14 @@
       "onboard_time": 1770190401,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 101626,
+      "num": 101626,
+      "word": "王者马年新春福利有什么",
+      "onboard_time": 1770210741,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 101376,
@@ -6633,6 +6761,14 @@
       "onboard_time": 1770192980,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 99740,
+      "num": 99740,
+      "word": "唐宫奇案",
+      "onboard_time": 1770210501,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 99726,
@@ -7491,6 +7627,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 88840,
+      "num": 88840,
+      "word": "吕布舞狮寰秒杀皮肤",
+      "onboard_time": 1770209722,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 88809,
       "num": 88809,
       "word": "瘦的人可以和食物和平共处",
@@ -7545,6 +7689,14 @@
       "onboard_time": 1769975834,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 88078,
+      "num": 88078,
+      "word": "清融戴口罩比赛",
+      "onboard_time": 1770210681,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 88006,
@@ -7875,6 +8027,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 85012,
+      "num": 85012,
+      "word": "内地男子港迪溺亡",
+      "onboard_time": 1770207621,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84915,
       "num": 84915,
       "word": "樊振东直接入选伦敦世乒赛名单",
@@ -7931,6 +8091,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 84180,
+      "num": 84180,
+      "word": "王者墨染江湖第二回CG预告",
+      "onboard_time": 1770210320,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 84041,
       "num": 121528,
       "word": "王楚钦王曼昱开心交流",
@@ -7945,6 +8113,14 @@
       "onboard_time": 1770125181,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 83833,
+      "num": 83833,
+      "word": "有人150万卖房买金猛赚76万",
+      "onboard_time": 1770210200,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 83803,
@@ -8249,6 +8425,14 @@
       "onboard_time": 1769934740,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 80258,
+      "num": 150454,
+      "word": "普京祝中国人民马到成功",
+      "onboard_time": 1770207141,
+      "rank": 28,
+      "category": "国内时政"
     },
     {
       "raw_hot": 80179,
@@ -8623,6 +8807,14 @@
       "num": 193543,
       "word": "迪丽热巴交出眼镜攻略",
       "onboard_time": 1769916799,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 74671,
+      "num": 227655,
+      "word": "周涛一开口年就在了",
+      "onboard_time": 1770208462,
       "rank": 17,
       "category": "艺人"
     },
@@ -9739,6 +9931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 46779,
+      "num": 150034,
+      "word": "中俄元首举行视频会晤",
+      "onboard_time": 1770206481,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 46706,
       "num": 87492,
       "word": "金宣虎爆红即翻车魔咒",
@@ -9801,6 +10001,14 @@
       "onboard_time": 1769867723,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 44181,
+      "num": 219464,
+      "word": "12306回应男子自带折叠椅坐高铁",
+      "onboard_time": 1770210621,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 44130,
@@ -10115,6 +10323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 35131,
+      "num": 103666,
+      "word": "期末考连续9年没监考老师",
+      "onboard_time": 1770210621,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35040,
       "num": 35040,
       "word": "整个英语体系没有比这个更完整的了",
@@ -10184,6 +10400,14 @@
       "word": "女子回应台风中救25人荣誉被冒领",
       "onboard_time": 1769921060,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34001,
+      "num": 256580,
+      "word": "校长师德不合格认定将重启调查",
+      "onboard_time": 1770209722,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -10435,6 +10659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 27398,
+      "num": 212492,
+      "word": "用第三方候补车票会影响官方平台候补",
+      "onboard_time": 1770209722,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27235,
       "num": 124073,
       "word": "解读最新中央一号文件",
@@ -10555,6 +10787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23594,
+      "num": 234932,
+      "word": "极致玩家的马年神机",
+      "onboard_time": 1770206780,
+      "rank": 16,
+      "category": "数码"
+    },
+    {
       "raw_hot": 23531,
       "num": 23531,
       "word": "惊蛰无声",
@@ -10624,6 +10864,14 @@
       "word": "家中黄金不翼而飞现金却分文未动",
       "onboard_time": 1770202820,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22045,
+      "num": 640342,
+      "word": "马力全开共赴山海",
+      "onboard_time": 1770205761,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -11091,14 +11339,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 10792,
-      "num": 640342,
-      "word": "马力全开共赴山海",
-      "onboard_time": 1770205761,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 10372,
       "num": 116852,
       "word": "女子在园区被罚抱水桶深蹲300个",
@@ -11127,6 +11367,14 @@
       "num": 598014,
       "word": "2026新春走基层",
       "onboard_time": 1770022281,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 5694,
+      "num": 686530,
+      "word": "家家美幸福年2026",
+      "onboard_time": 1770210801,
       "rank": 2,
       "category": "民生新闻"
     },
