@@ -1,6 +1,6 @@
 {
   "startTime": 1770135183011,
-  "endTime": 1770217744451,
+  "endTime": 1770220481057,
   "band_list": [
     {
       "raw_hot": 1582100,
@@ -203,6 +203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 561657,
+      "num": 311326,
+      "word": "王橹杰 学长好",
+      "onboard_time": 1770217282,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 549010,
       "num": 79317,
       "word": "母亲盗卖儿子300万黄金为弟买房",
@@ -281,14 +289,6 @@
       "onboard_time": 1770214943,
       "rank": 5,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 454472,
-      "num": 311326,
-      "word": "王橹杰 学长好",
-      "onboard_time": 1770217282,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 454420,
@@ -835,6 +835,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 225752,
+      "num": 178831,
+      "word": "D社转发金宣虎澄清文",
+      "onboard_time": 1770217822,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 224539,
       "num": 224539,
       "word": "连跌3日的金银暴力反弹",
@@ -1163,6 +1171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151976,
+      "num": 133059,
+      "word": "雷佳音送礼离谱中带着合理",
+      "onboard_time": 1770215782,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 149930,
       "num": 149930,
       "word": "双胞胎是不是骗过了神明的人",
@@ -1251,6 +1267,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 140302,
+      "num": 140302,
+      "word": "李一桐 快点打车回家我报销",
+      "onboard_time": 1770218181,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 139973,
       "num": 129430,
       "word": "惊蛰无声 王晰",
@@ -1305,6 +1329,14 @@
       "onboard_time": 1770117381,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 131510,
+      "num": 131510,
+      "word": "身体上的任何一块皮肤都比脸要好",
+      "onboard_time": 1770217702,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 130344,
@@ -1409,14 +1441,6 @@
       "onboard_time": 1770127881,
       "rank": 34,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 119606,
-      "num": 119606,
-      "word": "身体上的任何一块皮肤都比脸要好",
-      "onboard_time": 1770217702,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 119370,
@@ -1529,6 +1553,14 @@
       "onboard_time": 1770212541,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 111831,
+      "num": 111831,
+      "word": "保剑锋给历史剧上强度了",
+      "onboard_time": 1770219023,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 109956,
@@ -2083,6 +2115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 85651,
+      "num": 85651,
+      "word": "金银再度回落",
+      "onboard_time": 1770219501,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 85577,
       "num": 85577,
       "word": "男孩去东北吃几口雪发烧到39.1度",
@@ -2145,6 +2185,14 @@
       "onboard_time": 1770202102,
       "rank": 38,
       "category": "教育"
+    },
+    {
+      "raw_hot": 83795,
+      "num": 83795,
+      "word": "邹明轩瘦了好多",
+      "onboard_time": 1770219441,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 83362,
@@ -2355,12 +2403,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 76150,
+      "num": 76150,
+      "word": "荣耀之战",
+      "onboard_time": 1770219201,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 75858,
       "num": 75858,
       "word": "肖战檀健次朱一龙热议角色TOP10",
       "onboard_time": 1770181822,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 75560,
+      "num": 75560,
+      "word": "刘耀文你找亲是不是",
+      "onboard_time": 1770219201,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 74047,
@@ -2467,6 +2531,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 70062,
+      "num": 70062,
+      "word": "EDG十五番战BLG",
+      "onboard_time": 1770212661,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 69883,
       "num": 72222,
       "word": "20多人住店不登记还自称是皇室后代",
@@ -2544,6 +2616,14 @@
       "word": "张柏芝18岁大儿子身高",
       "onboard_time": 1770122781,
       "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 67344,
+      "num": 67344,
+      "word": "宋佳工作室维权",
+      "onboard_time": 1770220280,
+      "rank": 47,
       "category": "艺人"
     },
     {
@@ -2923,6 +3003,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 42007,
+      "num": 83577,
+      "word": "丈夫结扎妻子又怀孕家里已有3孩",
+      "onboard_time": 1770219381,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41192,
       "num": 197698,
       "word": "京东坚果年礼5折",
@@ -2969,6 +3057,14 @@
       "onboard_time": 1770161898,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 38353,
+      "num": 141506,
+      "word": "高铁部分车次已有遛娃舱",
+      "onboard_time": 1770219262,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 38340,
@@ -3235,6 +3331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 21288,
+      "num": 141909,
+      "word": "学校公开引进人才亲属关系获好评",
+      "onboard_time": 1770220041,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20990,
       "num": 26982,
       "word": "吃娃娃菜中毒夫妻涉嫌敲诈勒索罪",
@@ -3339,6 +3443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 14406,
+      "num": 140633,
+      "word": "侵华日军逼迫中国人种鸦片",
+      "onboard_time": 1770220160,
+      "rank": 22,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 14279,
       "num": 26898,
       "word": "朱一龙怼脸海报",
@@ -3361,14 +3473,6 @@
       "onboard_time": 1770151273,
       "rank": 46,
       "category": "演出"
-    },
-    {
-      "raw_hot": 11378,
-      "num": 133059,
-      "word": "雷佳音送礼离谱中带着合理",
-      "onboard_time": 1770215782,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 8294,
@@ -3426,6 +3530,9 @@
     },
     {
       "word": "#中俄元首举行视频会晤#"
+    },
+    {
+      "word": "#习近平同特朗普通电话#"
     }
   ]
 }
