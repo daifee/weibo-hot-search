@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1770180472664,
+  "endTime": 1770181001898,
   "band_list": [
     {
       "raw_hot": 4038416,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 1317231,
-      "num": 211427,
+      "num": 217239,
       "word": "金宣虎承认逃税并道歉",
       "onboard_time": 1770173120,
       "rank": 10,
@@ -179,6 +179,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1156645,
+      "num": 222449,
+      "word": "爱泼斯坦自缢后照片首度公开",
+      "onboard_time": 1770177981,
+      "rank": 10,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1149380,
       "num": 290310,
       "word": "为什么有女性不做美甲",
@@ -209,14 +217,6 @@
       "onboard_time": 1770115220,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1115703,
-      "num": 220664,
-      "word": "爱泼斯坦自缢后照片首度公开",
-      "onboard_time": 1770177981,
-      "rank": 10,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 1114464,
@@ -507,6 +507,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 793572,
+      "num": 221637,
+      "word": "没人告诉我金靖178啊",
+      "onboard_time": 1770179602,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 781504,
       "num": 1125040,
       "word": "爱泼斯坦受访时被问你是不是魔鬼",
@@ -539,6 +547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 753608,
+      "num": 753608,
+      "word": "爱吃车厘子的人天塌了",
+      "onboard_time": 1770179121,
+      "rank": 3,
+      "category": "美食"
+    },
+    {
       "raw_hot": 739308,
       "num": 1118289,
       "word": "2026春晚主持人阵容",
@@ -553,14 +569,6 @@
       "onboard_time": 1769930479,
       "rank": 3,
       "category": "演出"
-    },
-    {
-      "raw_hot": 729659,
-      "num": 539193,
-      "word": "爱吃车厘子的人天塌了",
-      "onboard_time": 1770179121,
-      "rank": 3,
-      "category": "美食"
     },
     {
       "raw_hot": 725815,
@@ -851,14 +859,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 567524,
-      "num": 216167,
-      "word": "没人告诉我金靖178啊",
-      "onboard_time": 1770179602,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 561441,
       "num": 274710,
       "word": "马斯克牵手印度裔女友参加婚礼",
@@ -873,6 +873,14 @@
       "onboard_time": 1769944341,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 559001,
+      "num": 350554,
+      "word": "很多公司已经取消年会了",
+      "onboard_time": 1770179602,
+      "rank": 9,
+      "category": "情感"
     },
     {
       "raw_hot": 555760,
@@ -1651,6 +1659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 359550,
+      "num": 359550,
+      "word": "上2休2再上6休9",
+      "onboard_time": 1770177981,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 359055,
       "num": 803893,
       "word": "月亮",
@@ -1681,14 +1697,6 @@
       "onboard_time": 1770089421,
       "rank": 5,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 347531,
-      "num": 347531,
-      "word": "上2休2再上6休9",
-      "onboard_time": 1770177981,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 346386,
@@ -1804,7 +1812,7 @@
     },
     {
       "raw_hot": 332556,
-      "num": 205291,
+      "num": 205616,
       "word": "张凌赫方回应常驻跑男",
       "onboard_time": 1770174920,
       "rank": 17,
@@ -2081,6 +2089,14 @@
       "onboard_time": 1770047060,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 304835,
+      "num": 206987,
+      "word": "黄多多最新自拍",
+      "onboard_time": 1770179301,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 303811,
@@ -2699,6 +2715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 231496,
+      "num": 212135,
+      "word": "iPhone18系列外观出炉",
+      "onboard_time": 1770176841,
+      "rank": 13,
+      "category": "数码"
+    },
+    {
       "raw_hot": 230279,
       "num": 230279,
       "word": "生命树口碑发酵",
@@ -2851,14 +2875,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 223248,
-      "num": 210120,
-      "word": "iPhone18系列外观出炉",
-      "onboard_time": 1770176841,
-      "rank": 13,
-      "category": "数码"
-    },
-    {
       "raw_hot": 222200,
       "num": 176368,
       "word": "克林顿夫妇将配合爱泼斯坦案调查",
@@ -2873,14 +2889,6 @@
       "onboard_time": 1770097280,
       "rank": 27,
       "category": "网红"
-    },
-    {
-      "raw_hot": 221871,
-      "num": 221871,
-      "word": "很多公司已经取消年会了",
-      "onboard_time": 1770179602,
-      "rank": 9,
-      "category": "情感"
     },
     {
       "raw_hot": 219808,
@@ -3003,6 +3011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202881,
+      "num": 202881,
+      "word": "郑大一附院医生诈骗94名患者获刑",
+      "onboard_time": 1770178881,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 200805,
       "num": 200805,
       "word": "伊朗",
@@ -3041,14 +3057,6 @@
       "onboard_time": 1770031940,
       "rank": 9,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 197100,
-      "num": 197100,
-      "word": "郑大一附院医生诈骗94名患者获刑",
-      "onboard_time": 1770178881,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 196991,
@@ -3187,14 +3195,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 189415,
-      "num": 187848,
-      "word": "黄多多最新自拍",
-      "onboard_time": 1770179301,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 189169,
       "num": 230861,
       "word": "男婴洗澡久盯浴霸灯右眼永久弱视",
@@ -3329,6 +3329,14 @@
       "onboard_time": 1770129862,
       "rank": 9,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 179153,
+      "num": 162952,
+      "word": "沈腾左脚确诊多动症",
+      "onboard_time": 1770180442,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 178313,
@@ -3643,6 +3651,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 158085,
+      "num": 157095,
+      "word": "39岁刘心悦成春晚主持人新面孔",
+      "onboard_time": 1770179423,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 157840,
       "num": 157840,
       "word": "女孩被好想来怀疑偷东西哭了4小时",
@@ -3681,14 +3697,6 @@
       "onboard_time": 1769938702,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 154820,
-      "num": 154820,
-      "word": "39岁刘心悦成春晚主持人新面孔",
-      "onboard_time": 1770179423,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 153919,
@@ -3867,8 +3875,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 147720,
+      "num": 147720,
+      "word": "老外眼里的中餐",
+      "onboard_time": 1770180323,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 146257,
-      "num": 105844,
+      "num": 111243,
       "word": "赵雨凡 金佳蓝",
       "onboard_time": 1770166339,
       "rank": 21,
@@ -4275,6 +4291,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 133494,
+      "num": 133494,
+      "word": "为什么说今年立春不一般",
+      "onboard_time": 1770180021,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132806,
       "num": 182211,
       "word": "黄金白银创单日暴跌纪录",
@@ -4361,6 +4385,14 @@
       "onboard_time": 1769918060,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 130344,
+      "num": 130344,
+      "word": "易烊千玺影迷又加二",
+      "onboard_time": 1770180682,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 130100,
@@ -4497,6 +4529,14 @@
       "onboard_time": 1769944401,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 126337,
+      "num": 119052,
+      "word": "陆虎 别人都笑你偏偏你最好笑",
+      "onboard_time": 1770180623,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 125964,
@@ -4859,6 +4899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 119370,
+      "num": 119370,
+      "word": "前妻向袁惟仁道歉",
+      "onboard_time": 1770180142,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 119224,
       "num": 119224,
       "word": "黄圣依张凌赫豪门家族又上人了",
@@ -5099,6 +5147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 113759,
+      "num": 113759,
+      "word": "陈靖可 丈夫的美貌妻子的荣耀",
+      "onboard_time": 1770180263,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 113649,
       "num": 114127,
       "word": "年少有为",
@@ -5209,14 +5265,6 @@
       "onboard_time": 1769955083,
       "rank": 43,
       "category": "演出"
-    },
-    {
-      "raw_hot": 111734,
-      "num": 111734,
-      "word": "为什么说今年立春不一般",
-      "onboard_time": 1770180021,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 111655,
@@ -5699,6 +5747,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 104214,
+      "num": 114604,
+      "word": "李荣浩杨丞琳手牵手",
+      "onboard_time": 1770179481,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 104170,
       "num": 102785,
       "word": "短剧演员红毯卷出新高度",
@@ -5913,14 +5969,6 @@
       "onboard_time": 1770034222,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 100691,
-      "num": 117217,
-      "word": "前妻向袁惟仁道歉",
-      "onboard_time": 1770180142,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 100559,
@@ -6171,28 +6219,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 96860,
-      "num": 96860,
-      "word": "老外眼里的中餐",
-      "onboard_time": 1770180323,
-      "rank": 47,
-      "category": "美食"
-    },
-    {
       "raw_hot": 96842,
       "num": 96842,
       "word": "特朗普撇清与爱泼斯坦关系",
       "onboard_time": 1770117861,
       "rank": 30,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 96698,
-      "num": 96698,
-      "word": "沈腾左脚确诊多动症",
-      "onboard_time": 1770180442,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 96629,
@@ -6249,14 +6281,6 @@
       "onboard_time": 1769942841,
       "rank": 45,
       "category": "财经"
-    },
-    {
-      "raw_hot": 95569,
-      "num": 95569,
-      "word": "陈靖可 丈夫的美貌妻子的荣耀",
-      "onboard_time": 1770180263,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 95567,
@@ -6353,6 +6377,14 @@
       "onboard_time": 1769942662,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94377,
+      "num": 94377,
+      "word": "小米磁吸镜头被曝已启动量产计划",
+      "onboard_time": 1770180863,
+      "rank": 46,
+      "category": "数码"
     },
     {
       "raw_hot": 94248,
@@ -7803,14 +7835,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 69417,
-      "num": 114604,
-      "word": "李荣浩杨丞琳手牵手",
-      "onboard_time": 1770179481,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 69321,
       "num": 69321,
       "word": "阿尔卡拉斯vs德约科维奇",
@@ -8059,20 +8083,20 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 62455,
+      "num": 197272,
+      "word": "回家发现爸妈都在用阿福",
+      "onboard_time": 1770178462,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 62231,
       "num": 62231,
       "word": "不爱喝水的小猫有救了",
       "onboard_time": 1770086061,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 62152,
-      "num": 195158,
-      "word": "回家发现爸妈都在用阿福",
-      "onboard_time": 1770178462,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 62086,
@@ -8192,6 +8216,14 @@
       "word": "阿嬷手作螺蛳粉店员称不要期望过高",
       "onboard_time": 1770139877,
       "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 59674,
+      "num": 115547,
+      "word": "24岁蝴蝶宝贝身高1米5体重30公斤",
+      "onboard_time": 1770180380,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -8475,14 +8507,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 49550,
-      "num": 112045,
-      "word": "24岁蝴蝶宝贝身高1米5体重30公斤",
-      "onboard_time": 1770180380,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 49525,
       "num": 197846,
       "word": "健康的福气送给最爱的老己",
@@ -8707,6 +8731,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 41192,
+      "num": 197698,
+      "word": "京东坚果年礼5折",
+      "onboard_time": 1770178402,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 41089,
       "num": 51401,
       "word": "4个奇奇怪怪却改善体态的动作",
@@ -8729,6 +8761,14 @@
       "onboard_time": 1770137957,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 39756,
+      "num": 757461,
+      "word": "我国已实现3亿人参与冰雪运动目标",
+      "onboard_time": 1770178762,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 39659,
@@ -9091,22 +9131,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 31980,
-      "num": 193929,
-      "word": "京东坚果年礼5折",
-      "onboard_time": 1770178402,
-      "rank": 19,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 31347,
-      "num": 636579,
-      "word": "我国已实现3亿人参与冰雪运动目标",
-      "onboard_time": 1770178762,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 31173,
       "num": 671326,
       "word": "学生优惠火车票购票攻略来了",
@@ -9372,7 +9396,7 @@
     },
     {
       "raw_hot": 23405,
-      "num": 149616,
+      "num": 153325,
       "word": "我的三分之一答案",
       "onboard_time": 1770178581,
       "rank": 29,
