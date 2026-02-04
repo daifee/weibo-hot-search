@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1770212616929,
+  "endTime": 1770216567359,
   "band_list": [
     {
       "raw_hot": 4038416,
@@ -233,6 +233,14 @@
       "onboard_time": 1770115220,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1128241,
+      "num": 1180518,
+      "word": "马斯克被激怒",
+      "onboard_time": 1770212001,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1114464,
@@ -556,7 +564,7 @@
     },
     {
       "raw_hot": 783840,
-      "num": 256131,
+      "num": 295628,
       "word": "肖战 演唱会",
       "onboard_time": 1770205281,
       "rank": 26,
@@ -617,6 +625,14 @@
       "onboard_time": 1769930479,
       "rank": 3,
       "category": "演出"
+    },
+    {
+      "raw_hot": 727905,
+      "num": 544683,
+      "word": "打金店1个月垃圾扫出金粉值200万",
+      "onboard_time": 1770213023,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 725815,
@@ -1251,6 +1267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 468081,
+      "num": 211981,
+      "word": "爱泼斯坦被曝让14岁女孩脱衣按摩",
+      "onboard_time": 1770209600,
+      "rank": 20,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 467406,
       "num": 467406,
       "word": "准备随母姓后外婆起名起爽了",
@@ -1411,6 +1435,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 438204,
+      "num": 297877,
+      "word": "比尔盖茨回应爱泼斯坦案",
+      "onboard_time": 1770211161,
+      "rank": 11,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 438049,
       "num": 1070087,
       "word": "周五晚高疯",
@@ -1425,14 +1457,6 @@
       "onboard_time": 1769940081,
       "rank": 7,
       "category": "财经"
-    },
-    {
-      "raw_hot": 437119,
-      "num": 209923,
-      "word": "爱泼斯坦被曝让14岁女孩脱衣按摩",
-      "onboard_time": 1770209600,
-      "rank": 20,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 436826,
@@ -1571,6 +1595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 413024,
+      "num": 295613,
+      "word": "这还是我认识的锤娜丽莎吗",
+      "onboard_time": 1770212963,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 412603,
       "num": 412603,
       "word": "武汉龙门吊倒塌事故致1死1伤",
@@ -1675,6 +1707,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 395046,
+      "num": 395046,
+      "word": "杨紫演技",
+      "onboard_time": 1770211522,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 393190,
       "num": 199859,
       "word": "沈腾左脚确诊多动症",
@@ -1763,6 +1803,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 380845,
+      "num": 380845,
+      "word": "微博之夜全阵容名单",
+      "onboard_time": 1770214943,
+      "rank": 5,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 380082,
       "num": 250380,
       "word": "爱泼斯坦追逐女孩视频有喘息声",
@@ -1809,14 +1857,6 @@
       "onboard_time": 1769864000,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 371450,
-      "num": 218474,
-      "word": "比尔盖茨回应爱泼斯坦案",
-      "onboard_time": 1770211161,
-      "rank": 11,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 370872,
@@ -2379,6 +2419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 308618,
+      "num": 877953,
+      "word": "12306回应男子自带折叠椅坐高铁",
+      "onboard_time": 1770210621,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 307928,
       "num": 164669,
       "word": "丈夫被指出轨怒揭妻子婚前多次堕胎",
@@ -2393,6 +2441,14 @@
       "onboard_time": 1770106100,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 303691,
+      "num": 303691,
+      "word": "中美元首通电话",
+      "onboard_time": 1770215423,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 303039,
@@ -2628,7 +2684,7 @@
     },
     {
       "raw_hot": 276933,
-      "num": 192433,
+      "num": 209323,
       "word": "比尔盖茨否认去过萝莉岛",
       "onboard_time": 1770210921,
       "rank": 20,
@@ -2665,6 +2721,14 @@
       "onboard_time": 1769916560,
       "rank": 20,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 270985,
+      "num": 210566,
+      "word": "江疏影 上桌",
+      "onboard_time": 1770215303,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 268066,
@@ -2721,14 +2785,6 @@
       "onboard_time": 1770081080,
       "rank": 6,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 263946,
-      "num": 877953,
-      "word": "12306回应男子自带折叠椅坐高铁",
-      "onboard_time": 1770210621,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 262593,
@@ -2793,6 +2849,14 @@
       "onboard_time": 1769873301,
       "rank": 12,
       "category": "网红"
+    },
+    {
+      "raw_hot": 256319,
+      "num": 256319,
+      "word": "立陶宛真急了",
+      "onboard_time": 1770215003,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 253955,
@@ -3315,6 +3379,14 @@
       "category": "民生新闻,汽车"
     },
     {
+      "raw_hot": 220220,
+      "num": 220220,
+      "word": "杨紫直播",
+      "onboard_time": 1770214762,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 219808,
       "num": 219808,
       "word": "名侦探柯南",
@@ -3329,6 +3401,14 @@
       "onboard_time": 1769926760,
       "rank": 8,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 217436,
+      "num": 217436,
+      "word": "张婧仪 我记得你的姓",
+      "onboard_time": 1770209541,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 216684,
@@ -3395,14 +3475,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 209219,
-      "num": 158923,
-      "word": "马斯克被激怒",
-      "onboard_time": 1770212001,
-      "rank": 30,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 208890,
       "num": 208890,
       "word": "太平年改档",
@@ -3417,14 +3489,6 @@
       "onboard_time": 1770106761,
       "rank": 28,
       "category": "财经"
-    },
-    {
-      "raw_hot": 208009,
-      "num": 208009,
-      "word": "张婧仪 我记得你的姓",
-      "onboard_time": 1770209541,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 206706,
@@ -3739,14 +3803,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 184442,
-      "num": 220865,
-      "word": "杨紫演技",
-      "onboard_time": 1770211522,
-      "rank": 9,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 184094,
       "num": 159509,
       "word": "金饰克价一夜跌134元",
@@ -3857,6 +3913,14 @@
       "onboard_time": 1769959341,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 176040,
+      "num": 176040,
+      "word": "AL翻盘WBG",
+      "onboard_time": 1770215062,
+      "rank": 25,
+      "category": "电竞"
     },
     {
       "raw_hot": 176004,
@@ -4219,6 +4283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 156527,
+      "num": 156527,
+      "word": "谢娜直播",
+      "onboard_time": 1770214102,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 156103,
       "num": 156103,
       "word": "李现真的做到了又红又自由",
@@ -4507,6 +4579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 143349,
+      "num": 143349,
+      "word": "诸葛亮后人要求撤销猪葛亮商标",
+      "onboard_time": 1770214162,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 142522,
       "num": 128139,
       "word": "追星女告白信 爱拿得出手",
@@ -4659,6 +4739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 139973,
+      "num": 129430,
+      "word": "惊蛰无声 王晰",
+      "onboard_time": 1770213563,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 139398,
       "num": 136319,
       "word": "10岁抗癌男孩豪豪去世网红竟说开心",
@@ -4721,6 +4809,14 @@
       "onboard_time": 1770113900,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 137067,
+      "num": 129425,
+      "word": "代旭私下这么潮",
+      "onboard_time": 1770211823,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 136957,
@@ -5467,6 +5563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 120384,
+      "num": 142649,
+      "word": "东部沿海阵地导弹全时竖立",
+      "onboard_time": 1770212841,
+      "rank": 28,
+      "category": "军事"
+    },
+    {
       "raw_hot": 120298,
       "num": 107100,
       "word": "质疑爱泼斯坦被掉包者证实为狱警",
@@ -5593,6 +5697,14 @@
       "onboard_time": 1770014002,
       "rank": 43,
       "category": "网红"
+    },
+    {
+      "raw_hot": 118335,
+      "num": 118335,
+      "word": "爱泼斯坦豪宅大量儿童角色扮演服装",
+      "onboard_time": 1770212242,
+      "rank": 44,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 118319,
@@ -5825,6 +5937,14 @@
       "onboard_time": 1769930960,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 113809,
+      "num": 113809,
+      "word": "陈妍希周柯宇唱早安晚安",
+      "onboard_time": 1770216381,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 113759,
@@ -6209,6 +6329,14 @@
       "onboard_time": 1770027503,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 108182,
+      "num": 108182,
+      "word": "有观众影响比赛王楚钦罕见发火",
+      "onboard_time": 1770215183,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 108049,
@@ -6843,14 +6971,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 99954,
-      "num": 99954,
-      "word": "爱泼斯坦豪宅大量儿童角色扮演服装",
-      "onboard_time": 1770212242,
-      "rank": 44,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 99856,
       "num": 99856,
       "word": "剑网3",
@@ -7027,6 +7147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 97697,
+      "num": 97697,
+      "word": "时代少年团 李飞的题海战术",
+      "onboard_time": 1770210921,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 97417,
       "num": 97417,
       "word": "德约科维奇1比1阿尔卡拉斯",
@@ -7147,6 +7275,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 96024,
+      "num": 96024,
+      "word": "WBG对战AL",
+      "onboard_time": 1770209121,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 95694,
       "num": 95694,
       "word": "看着自己成长",
@@ -7201,6 +7337,14 @@
       "onboard_time": 1770020840,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 95105,
+      "num": 95105,
+      "word": "短剧男主剧里剧外两幅面孔",
+      "onboard_time": 1770214042,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 94967,
@@ -7361,6 +7505,14 @@
       "onboard_time": 1770110779,
       "rank": 41,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 93445,
+      "num": 93445,
+      "word": "生命树直播",
+      "onboard_time": 1770215902,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 93343,
@@ -8355,6 +8507,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 82355,
+      "num": 114071,
+      "word": "千元锦鲤身亡主人含泪做成酸菜鱼",
+      "onboard_time": 1770215662,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 82348,
       "num": 82348,
       "word": "特朗普回应哈梅内伊",
@@ -8995,14 +9155,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 72829,
-      "num": 112397,
-      "word": "代旭私下这么潮",
-      "onboard_time": 1770211823,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 72714,
       "num": 72714,
       "word": "孙颖莎冲击亚洲杯个人首冠",
@@ -9635,6 +9787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 58619,
+      "num": 214335,
+      "word": "西红柿涨价3个关键原因",
+      "onboard_time": 1770215363,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58397,
       "num": 59509,
       "word": "伊朗阿巴斯港一栋居民楼传出爆炸声",
@@ -10003,6 +10163,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 47867,
+      "num": 216936,
+      "word": "欧莱雅小春晚全开麦",
+      "onboard_time": 1770213923,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 47836,
       "num": 76958,
       "word": "襄阳调查精神病院骗保",
@@ -10025,6 +10193,14 @@
       "onboard_time": 1770002300,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 47527,
+      "num": 142607,
+      "word": "女明星眼里的宇宙",
+      "onboard_time": 1770214823,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 47446,
@@ -10195,6 +10371,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 40257,
+      "num": 677091,
+      "word": "2025中国考古新成果",
+      "onboard_time": 1770213203,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40238,
       "num": 67915,
       "word": "台积电2nm产能已被预订一空",
@@ -10273,6 +10457,14 @@
       "onboard_time": 1770138917,
       "rank": 33,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 38281,
+      "num": 214969,
+      "word": "欧莱雅艺人社交局",
+      "onboard_time": 1770215303,
+      "rank": 18,
+      "category": "时尚,艺人"
     },
     {
       "raw_hot": 38146,
@@ -11457,6 +11649,14 @@
       "onboard_time": 1770019221,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9945,
+      "num": 133059,
+      "word": "雷佳音送礼离谱中带着合理",
+      "onboard_time": 1770215782,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 8294,

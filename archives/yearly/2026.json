@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1770212616929,
+  "endTime": 1770216567359,
   "band_list": [
     {
       "raw_hot": 22742360,
@@ -1795,6 +1795,14 @@
       "category": "网红,民生新闻"
     },
     {
+      "raw_hot": 1128241,
+      "num": 1180518,
+      "word": "马斯克被激怒",
+      "onboard_time": 1770212001,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1127372,
       "num": 1029037,
       "word": "骄阳似我",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1768570521,
       "rank": 20,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 1009054,
-      "num": 1161448,
-      "word": "和府捞面 只有面现煮",
-      "onboard_time": 1767761782,
-      "rank": 21,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
