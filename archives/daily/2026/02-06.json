@@ -1,6 +1,6 @@
 {
   "startTime": 1770307563881,
-  "endTime": 1770325204612,
+  "endTime": 1770327508610,
   "band_list": [
     {
       "raw_hot": 7028994,
@@ -435,6 +435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 83555,
+      "num": 176719,
+      "word": "苏翊鸣大跳台晋级决赛",
+      "onboard_time": 1770325934,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 83048,
       "num": 192463,
       "word": "27岁男子洗浴店猥亵女子被行拘",
@@ -481,6 +489,14 @@
       "onboard_time": 1770305786,
       "rank": 15,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 62081,
+      "num": 62081,
+      "word": "苏翊鸣冬奥首个1980",
+      "onboard_time": 1770324616,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 61306,
@@ -539,14 +555,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 50471,
-      "num": 50471,
-      "word": "苏翊鸣冬奥首个1980",
-      "onboard_time": 1770324616,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 49619,
       "num": 313701,
       "word": "国家卫健委赴湖北督导调查",
@@ -596,7 +604,7 @@
     },
     {
       "raw_hot": 35005,
-      "num": 31404,
+      "num": 31416,
       "word": "大跳台竞争好激烈",
       "onboard_time": 1770324074,
       "rank": 30,
@@ -616,6 +624,14 @@
       "word": "李宇春冬泳压轴舞台",
       "onboard_time": 1770311718,
       "rank": 46,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 32549,
+      "num": 24564,
+      "word": "高叶李乃文偷吃",
+      "onboard_time": 1770326115,
+      "rank": 30,
       "category": "作品衍生"
     },
     {
@@ -644,7 +660,7 @@
     },
     {
       "raw_hot": 26790,
-      "num": 76673,
+      "num": 88901,
       "word": "苏翊鸣第三跳85.00分",
       "onboard_time": 1770324315,
       "rank": 3,
@@ -657,6 +673,14 @@
       "onboard_time": 1770315136,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 26035,
+      "num": 24256,
+      "word": "杨文龙无缘大跳台决赛",
+      "onboard_time": 1770326893,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 25345,
@@ -737,6 +761,14 @@
       "onboard_time": 1770323714,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 18155,
+      "num": 18155,
+      "word": "葛春宇无缘大跳台决赛",
+      "onboard_time": 1770326653,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 17553,
