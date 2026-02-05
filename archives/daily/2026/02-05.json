@@ -1,6 +1,6 @@
 {
   "startTime": 1770221309024,
-  "endTime": 1770271342855,
+  "endTime": 1770272211357,
   "band_list": [
     {
       "raw_hot": 8698031,
@@ -20,19 +20,27 @@
     },
     {
       "raw_hot": 2152986,
-      "num": 369307,
+      "num": 496611,
       "word": "取消中高考是早晚的事",
       "onboard_time": 1770248058,
       "rank": 16,
       "category": "教育"
     },
     {
-      "raw_hot": 1990295,
-      "num": 239562,
+      "raw_hot": 2124362,
+      "num": 501309,
       "word": "萝莉岛幸存者曾每天被侵犯3次",
       "onboard_time": 1770268163,
       "rank": 10,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1768210,
+      "num": 872508,
+      "word": "微博之夜 真婚礼",
+      "onboard_time": 1770269963,
+      "rank": 3,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1516977,
@@ -43,19 +51,19 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 1347828,
-      "num": 872508,
-      "word": "微博之夜 真婚礼",
-      "onboard_time": 1770269963,
-      "rank": 3,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1162225,
-      "num": 462885,
+      "raw_hot": 1239853,
+      "num": 506560,
       "word": "王一博 大明星回内娱",
       "onboard_time": 1770267263,
       "rank": 46,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1010900,
+      "num": 500470,
+      "word": "张凌赫蛇蝎美男",
+      "onboard_time": 1770269782,
+      "rank": 11,
       "category": "作品衍生"
     },
     {
@@ -64,14 +72,6 @@
       "word": "微博之夜",
       "onboard_time": 1770212062,
       "rank": 18,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 854457,
-      "num": 239458,
-      "word": "张凌赫蛇蝎美男",
-      "onboard_time": 1770269782,
-      "rank": 11,
       "category": "作品衍生"
     },
     {
@@ -91,12 +91,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 732864,
-      "num": 239141,
+      "raw_hot": 739177,
+      "num": 499691,
       "word": "章若楠 腮红",
       "onboard_time": 1770268702,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 708148,
+      "num": 498139,
+      "word": "网友遇流浪奶奶被侵犯得病",
+      "onboard_time": 1770268344,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 704517,
@@ -108,7 +116,7 @@
     },
     {
       "raw_hot": 689701,
-      "num": 322454,
+      "num": 424446,
       "word": "白鹿灼灼红裙",
       "onboard_time": 1770265581,
       "rank": 12,
@@ -123,11 +131,11 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 674797,
-      "num": 239213,
-      "word": "网友遇流浪奶奶被侵犯得病",
-      "onboard_time": 1770268344,
-      "rank": 13,
+      "raw_hot": 658355,
+      "num": 1555526,
+      "word": "孩子1.7万私卖22克金镯妈妈发声",
+      "onboard_time": 1770269003,
+      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -147,12 +155,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 599969,
-      "num": 1555526,
-      "word": "孩子1.7万私卖22克金镯妈妈发声",
-      "onboard_time": 1770269003,
-      "rank": 1,
-      "category": "民生新闻"
+      "raw_hot": 624953,
+      "num": 495091,
+      "word": "热巴脸链",
+      "onboard_time": 1770271523,
+      "rank": 16,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 579406,
@@ -204,11 +212,19 @@
     },
     {
       "raw_hot": 517860,
-      "num": 278916,
+      "num": 494584,
       "word": "周也 油画神女",
       "onboard_time": 1770266662,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 493926,
+      "num": 493926,
+      "word": "曝爱泼斯坦想在沙漠建婴儿制造工厂",
+      "onboard_time": 1770267444,
+      "rank": 33,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 476329,
@@ -220,7 +236,7 @@
     },
     {
       "raw_hot": 469874,
-      "num": 314252,
+      "num": 354789,
       "word": "王玉雯透纱紧身裙",
       "onboard_time": 1770263362,
       "rank": 15,
@@ -228,19 +244,11 @@
     },
     {
       "raw_hot": 461220,
-      "num": 308723,
+      "num": 325249,
       "word": "宋祖儿大漠圣女",
       "onboard_time": 1770266062,
       "rank": 18,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 451471,
-      "num": 238865,
-      "word": "曝爱泼斯坦想在沙漠建婴儿制造工厂",
-      "onboard_time": 1770267444,
-      "rank": 33,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 397468,
@@ -355,6 +363,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 309995,
+      "num": 267345,
+      "word": "化妆师坐张艺凡腿上补妆",
+      "onboard_time": 1770270562,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 309489,
+      "num": 505471,
+      "word": "男子住40层因每天等电梯20分钟卖房",
+      "onboard_time": 1770267082,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 305876,
       "num": 305876,
       "word": "爱泼斯坦文件中一个关键名字消失了",
@@ -363,12 +387,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 304890,
-      "num": 312259,
-      "word": "男子住40层因每天等电梯20分钟卖房",
-      "onboard_time": 1770267082,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 305774,
+      "num": 356033,
+      "word": "黄金突然下跌",
+      "onboard_time": 1770269063,
+      "rank": 25,
+      "category": "财经"
     },
     {
       "raw_hot": 301620,
@@ -393,6 +417,14 @@
       "onboard_time": 1770243135,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 272808,
+      "num": 216447,
+      "word": "爱泼斯坦案视频中女孩光腿跳舞",
+      "onboard_time": 1770269842,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 272407,
@@ -467,14 +499,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 240681,
-      "num": 238063,
-      "word": "黄金突然下跌",
-      "onboard_time": 1770269063,
-      "rank": 25,
-      "category": "财经"
-    },
-    {
       "raw_hot": 240428,
       "num": 240428,
       "word": "身体上的任何一块皮肤都比脸要好",
@@ -539,14 +563,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 213244,
-      "num": 201795,
-      "word": "爱泼斯坦案视频中女孩光腿跳舞",
-      "onboard_time": 1770269842,
-      "rank": 30,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 204946,
       "num": 204946,
       "word": "男明星微博之夜造型出图",
@@ -588,19 +604,11 @@
     },
     {
       "raw_hot": 193504,
-      "num": 313813,
+      "num": 502801,
       "word": "王者荣耀",
       "onboard_time": 1770267082,
       "rank": 44,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 193341,
-      "num": 184910,
-      "word": "化妆师坐张艺凡腿上补妆",
-      "onboard_time": 1770270562,
-      "rank": 34,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 189202,
@@ -627,6 +635,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 181225,
+      "num": 181225,
+      "word": "李兰迪粉色蓬蓬裙",
+      "onboard_time": 1770271163,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 180161,
       "num": 203519,
       "word": "娃娃菜夫妻刀口舔血自吞苦果",
@@ -643,6 +659,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 174637,
+      "num": 503495,
+      "word": "A股市场迎来调整",
+      "onboard_time": 1770270925,
+      "rank": 19,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 172685,
+      "num": 172685,
+      "word": "ELLE3月刊迪丽热巴开季封面预告",
+      "onboard_time": 1770271163,
+      "rank": 41,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 168489,
       "num": 160543,
       "word": "看到代露娃也要年终汇报我就释怀了",
@@ -657,6 +689,14 @@
       "onboard_time": 1770263300,
       "rank": 41,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 162395,
+      "num": 219200,
+      "word": "公考围岗令人震惊必须打击",
+      "onboard_time": 1770270802,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 162102,
@@ -787,12 +827,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 141212,
-      "num": 141212,
-      "word": "ELLE3月刊迪丽热巴开季封面预告",
-      "onboard_time": 1770271163,
-      "rank": 41,
-      "category": "作品衍生,时尚"
+      "raw_hot": 141213,
+      "num": 181418,
+      "word": "霉豆腐的风还是吹到了蛋糕界",
+      "onboard_time": 1770270742,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 140295,
@@ -801,14 +841,6 @@
       "onboard_time": 1770265043,
       "rank": 48,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 139952,
-      "num": 238659,
-      "word": "A股市场迎来调整",
-      "onboard_time": 1770270925,
-      "rank": 19,
-      "category": "财经"
     },
     {
       "raw_hot": 136149,
@@ -867,12 +899,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 123360,
-      "num": 123360,
-      "word": "李兰迪粉色蓬蓬裙",
-      "onboard_time": 1770271163,
-      "rank": 44,
-      "category": "作品衍生"
+      "raw_hot": 122943,
+      "num": 122943,
+      "word": "爱泼斯坦案证实吸血鬼舞会存在",
+      "onboard_time": 1770272064,
+      "rank": 46,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 121671,
@@ -907,19 +939,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 116744,
+      "num": 116744,
+      "word": "娃娃菜中毒夫妻公司以二人名字命名",
+      "onboard_time": 1770272005,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115274,
       "num": 115274,
       "word": "12306回应男子自带折叠椅坐高铁",
       "onboard_time": 1770210621,
       "rank": 26,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 115097,
-      "num": 115097,
-      "word": "公考围岗令人震惊必须打击",
-      "onboard_time": 1770270802,
-      "rank": 46,
       "category": "民生新闻"
     },
     {

@@ -1,0 +1,410 @@
+{
+  "runTime": 1770272211357,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4035858,
+        "num": 4035858,
+        "word": "微博之夜红毯",
+        "onboard_time": 1770266423,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 658355,
+        "num": 1187007,
+        "word": "孩子1.7万私卖22克金镯妈妈发声",
+        "onboard_time": 1770269003,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3749,
+        "num": 964159,
+        "word": "2026年新春走基层",
+        "onboard_time": 1770093801,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1768210,
+        "num": 840506,
+        "word": "微博之夜 真婚礼",
+        "onboard_time": 1770269963,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 507192,
+        "num": 507192,
+        "word": "王者荣耀小马糕",
+        "onboard_time": 1770263181,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1239853,
+        "num": 506560,
+        "word": "王一博 大明星回内娱",
+        "onboard_time": 1770267263,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 309489,
+        "num": 505471,
+        "word": "男子住40层因每天等电梯20分钟卖房",
+        "onboard_time": 1770267082,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213225,
+        "num": 505052,
+        "word": "立陶宛承认对中国犯了巨大错误",
+        "onboard_time": 1770251241,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 174637,
+        "num": 503495,
+        "word": "A股市场迎来调整",
+        "onboard_time": 1770270925,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 157426,
+        "num": 502801,
+        "word": "王者荣耀",
+        "onboard_time": 1770267082,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 2124362,
+        "num": 501309,
+        "word": "萝莉岛幸存者曾每天被侵犯3次",
+        "onboard_time": 1770268163,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1010900,
+        "num": 500470,
+        "word": "张凌赫蛇蝎美男",
+        "onboard_time": 1770269782,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 739177,
+        "num": 499691,
+        "word": "章若楠 腮红",
+        "onboard_time": 1770268702,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 708148,
+        "num": 498139,
+        "word": "网友遇流浪奶奶被侵犯得病",
+        "onboard_time": 1770268344,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 670689,
+        "num": 497686,
+        "word": "微博之夜出图",
+        "onboard_time": 1770256878,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 639547,
+        "num": 496611,
+        "word": "取消中高考是早晚的事",
+        "onboard_time": 1770248058,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 624953,
+        "num": 495091,
+        "word": "热巴脸链",
+        "onboard_time": 1770271523,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 509651,
+        "num": 494584,
+        "word": "周也 油画神女",
+        "onboard_time": 1770266662,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 493926,
+        "num": 493926,
+        "word": "曝爱泼斯坦想在沙漠建婴儿制造工厂",
+        "onboard_time": 1770267444,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 154229,
+        "num": 447808,
+        "word": "网购娃娃菜中毒反转再反转",
+        "onboard_time": 1770253701,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 424446,
+        "num": 424446,
+        "word": "白鹿灼灼红裙",
+        "onboard_time": 1770265581,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 362938,
+        "num": 362938,
+        "word": "微博之夜",
+        "onboard_time": 1770212062,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 305774,
+        "num": 356033,
+        "word": "黄金突然下跌",
+        "onboard_time": 1770269063,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 354789,
+        "num": 354789,
+        "word": "王玉雯透纱紧身裙",
+        "onboard_time": 1770263362,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 325249,
+        "num": 325249,
+        "word": "宋祖儿大漠圣女",
+        "onboard_time": 1770266062,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 269362,
+        "num": 269362,
+        "word": "比尔盖茨道歉",
+        "onboard_time": 1770246676,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 309995,
+        "num": 267345,
+        "word": "化妆师坐张艺凡腿上补妆",
+        "onboard_time": 1770270562,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 250585,
+        "num": 250585,
+        "word": "宋威龙红丝绒深V",
+        "onboard_time": 1770265822,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 229758,
+        "num": 229758,
+        "word": "白银",
+        "onboard_time": 1770266724,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 162395,
+        "num": 219200,
+        "word": "公考围岗令人震惊必须打击",
+        "onboard_time": 1770270802,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 272808,
+        "num": 216447,
+        "word": "爱泼斯坦案视频中女孩光腿跳舞",
+        "onboard_time": 1770269842,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 230127,
+        "num": 215879,
+        "word": "李一桐老娘与海",
+        "onboard_time": 1770265462,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 213275,
+        "num": 213275,
+        "word": "陈妍希完全水蜜桃",
+        "onboard_time": 1770267863,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 154325,
+        "num": 191126,
+        "word": "爱泼斯坦用奖学金诱骗未成年女孩",
+        "onboard_time": 1770264620,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 183573,
+        "num": 183573,
+        "word": "谁给丁禹兮邓为打的腮红",
+        "onboard_time": 1770264501,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 181661,
+        "num": 181661,
+        "word": "程潇礼服",
+        "onboard_time": 1770261980,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 141213,
+        "num": 181418,
+        "word": "霉豆腐的风还是吹到了蛋糕界",
+        "onboard_time": 1770270742,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 181225,
+        "num": 181225,
+        "word": "李兰迪粉色蓬蓬裙",
+        "onboard_time": 1770271163,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 179842,
+        "num": 179842,
+        "word": "卢昱晓白裙斗笠头纱",
+        "onboard_time": 1770259940,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 127100,
+        "num": 174009,
+        "word": "勇士老鹰交易",
+        "onboard_time": 1770268224,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172685,
+        "num": 172685,
+        "word": "ELLE3月刊迪丽热巴开季封面预告",
+        "onboard_time": 1770271163,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 145358,
+        "num": 145358,
+        "word": "短剧放羊的星星选角",
+        "onboard_time": 1770270324,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131088,
+        "num": 131088,
+        "word": "15岁女生为和男友约会翻窗坠亡",
+        "onboard_time": 1770264561,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136894,
+        "num": 131057,
+        "word": "何炅从42岁拍到52岁",
+        "onboard_time": 1770268463,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131015,
+        "num": 131015,
+        "word": "爱泼斯坦",
+        "onboard_time": 1770249620,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 129787,
+        "num": 129787,
+        "word": "爱泼斯坦文件中一个关键名字消失了",
+        "onboard_time": 1770258679,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 122943,
+        "num": 122943,
+        "word": "爱泼斯坦案证实吸血鬼舞会存在",
+        "onboard_time": 1770272064,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 116744,
+        "num": 116744,
+        "word": "娃娃菜中毒夫妻公司以二人名字命名",
+        "onboard_time": 1770272005,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115359,
+        "num": 115359,
+        "word": "希望台湾尽快取消对两岸航空限制",
+        "onboard_time": 1770267925,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 113840,
+        "num": 113840,
+        "word": "白鹿王星越的人脉",
+        "onboard_time": 1770261919,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同特朗普通电话#"
+    }
+  }
+}
