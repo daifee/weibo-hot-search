@@ -1,0 +1,410 @@
+{
+  "runTime": 1770328461199,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 100276,
+        "num": 237728,
+        "word": "苏翊鸣大跳台晋级决赛",
+        "onboard_time": 1770325934,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 56214,
+        "num": 175095,
+        "word": "苏翊鸣第一跳摔倒",
+        "onboard_time": 1770317716,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 11115,
+        "num": 136722,
+        "word": "来华过大年成全球新风尚",
+        "onboard_time": 1770301528,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159042,
+        "num": 117656,
+        "word": "杨幂微博QUEEN",
+        "onboard_time": 1770303088,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 84179,
+        "num": 84179,
+        "word": "肖战微博KING",
+        "onboard_time": 1770303387,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 78782,
+        "num": 78782,
+        "word": "沈腾遗憾错失微博KING",
+        "onboard_time": 1770304406,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 60806,
+        "num": 60806,
+        "word": "苏翊鸣冬奥首个1980",
+        "onboard_time": 1770324616,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 52792,
+        "num": 52792,
+        "word": "周生生涉事挂坠送检结果公布",
+        "onboard_time": 1770307644,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52538,
+        "num": 52538,
+        "word": "微博之夜",
+        "onboard_time": 1770300328,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 83174,
+        "num": 50920,
+        "word": "肖战辛芷蕾让C",
+        "onboard_time": 1770308662,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 122616,
+        "num": 49981,
+        "word": "沈腾冲上去扶杨幂",
+        "onboard_time": 1770307943,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 91338,
+        "num": 49327,
+        "word": "爱泼斯坦和女友多张亲密照曝光",
+        "onboard_time": 1770300029,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 48647,
+        "num": 48647,
+        "word": "杨紫 大花气质",
+        "onboard_time": 1770281066,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 41821,
+        "num": 41821,
+        "word": "关晓彤回应鞋跟卡台上",
+        "onboard_time": 1770309261,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 41570,
+        "num": 41570,
+        "word": "高市早苗亲自帮尼泊尔总统穿衣",
+        "onboard_time": 1770306924,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 38357,
+        "num": 38357,
+        "word": "陈妍希周柯宇 灯暗下来就贴贴",
+        "onboard_time": 1770300568,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 35134,
+        "num": 35134,
+        "word": "周也牛仔裤 大大方方",
+        "onboard_time": 1770304468,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 34981,
+        "num": 34981,
+        "word": "王一博 希望大家也开心",
+        "onboard_time": 1770299429,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 34950,
+        "num": 34950,
+        "word": "萝莉岛幸存者曾每天被侵犯3次",
+        "onboard_time": 1770268163,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 31057,
+        "num": 31057,
+        "word": "微博之夜内场",
+        "onboard_time": 1770284365,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 50463,
+        "num": 30464,
+        "word": "单板滑雪男子大跳台预赛",
+        "onboard_time": 1770316036,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 67663,
+        "num": 30176,
+        "word": "美股",
+        "onboard_time": 1770306146,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 31834,
+        "num": 29770,
+        "word": "冬奥会",
+        "onboard_time": 1770315856,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29318,
+        "num": 29318,
+        "word": "微博之夜合照",
+        "onboard_time": 1770309801,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 28016,
+        "num": 28016,
+        "word": "哇塞居然是脏话",
+        "onboard_time": 1770287846,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 26803,
+        "num": 26803,
+        "word": "娜扎下台摔倒",
+        "onboard_time": 1770298529,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 26474,
+        "num": 26474,
+        "word": "苏翊鸣第二跳完美落地",
+        "onboard_time": 1770321255,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26363,
+        "num": 26363,
+        "word": "微博四美",
+        "onboard_time": 1770304468,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 25367,
+        "num": 25367,
+        "word": "狙击蝴蝶",
+        "onboard_time": 1770309981,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24250,
+        "num": 24250,
+        "word": "大跳台竞争好激烈",
+        "onboard_time": 1770324074,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 50439,
+        "num": 24141,
+        "word": "高叶李乃文偷吃",
+        "onboard_time": 1770326115,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 23873,
+        "num": 23873,
+        "word": "杨文龙无缘大跳台决赛",
+        "onboard_time": 1770326893,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23348,
+        "num": 23348,
+        "word": "生命树",
+        "onboard_time": 1770301647,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23202,
+        "num": 23202,
+        "word": "苏翊鸣第三跳85.00分",
+        "onboard_time": 1770324315,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22571,
+        "num": 22571,
+        "word": "知名奶茶列三不买被吐槽教育顾客",
+        "onboard_time": 1770299609,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22275,
+        "num": 22275,
+        "word": "坦克没有后视镜 但吴京有兔耳朵",
+        "onboard_time": 1770315557,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 21690,
+        "num": 21690,
+        "word": "陈楚生晚礼服夯爆了",
+        "onboard_time": 1770305846,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 21662,
+        "num": 21662,
+        "word": "王一博下次还来",
+        "onboard_time": 1770312796,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 20898,
+        "num": 20898,
+        "word": "王嘉尔 也恭喜你们",
+        "onboard_time": 1770303749,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 20654,
+        "num": 20654,
+        "word": "被内场的程潇惊艳到了",
+        "onboard_time": 1770307763,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 20309,
+        "num": 20309,
+        "word": "葛春宇无缘大跳台决赛",
+        "onboard_time": 1770326653,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19977,
+        "num": 19977,
+        "word": "江西一烧烤店老板与人冲突时死亡",
+        "onboard_time": 1770290726,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19965,
+        "num": 19965,
+        "word": "镖人",
+        "onboard_time": 1770315136,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 19717,
+        "num": 19717,
+        "word": "骄阳似我",
+        "onboard_time": 1770302127,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19142,
+        "num": 19142,
+        "word": "滑雪",
+        "onboard_time": 1770318075,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19039,
+        "num": 19039,
+        "word": "2025微博年度综艺",
+        "onboard_time": 1770319816,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 18816,
+        "num": 18816,
+        "word": "唐宫奇案",
+        "onboard_time": 1770291745,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18457,
+        "num": 18457,
+        "word": "日本宣称探明稀土储量1600万吨",
+        "onboard_time": 1770302487,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 17308,
+        "num": 17308,
+        "word": "鞠婧祎ins更新",
+        "onboard_time": 1770305366,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16944,
+        "num": 17308,
+        "word": "大跳台史诗级难度",
+        "onboard_time": 1770328094,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#共同擘画中俄关系新的蓝图#"
+    }
+  }
+}
