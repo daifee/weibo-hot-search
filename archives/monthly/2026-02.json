@@ -1,12 +1,28 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1770276849663,
+  "endTime": 1770281775614,
   "band_list": [
+    {
+      "raw_hot": 9251702,
+      "num": 9251702,
+      "word": "小洛熙事件最新通报",
+      "onboard_time": 1770276924,
+      "rank": 8,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 8698031,
       "num": 8698031,
       "word": "微博之夜红毯",
       "onboard_time": 1770266423,
+      "rank": 0,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 5044027,
+      "num": 5044027,
+      "word": "王一博 中山装",
+      "onboard_time": 1770278785,
       "rank": 0,
       "category": "作品衍生"
     },
@@ -32,6 +48,14 @@
       "word": "微博之夜出图",
       "onboard_time": 1770256878,
       "rank": 0,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 2211904,
+      "num": 2211904,
+      "word": "杨紫 大花气质",
+      "onboard_time": 1770281066,
+      "rank": 1,
       "category": "作品衍生"
     },
     {
@@ -75,6 +99,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1778387,
+      "num": 301148,
+      "word": "YSL 撞衫",
+      "onboard_time": 1770281066,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1768210,
       "num": 872508,
       "word": "微博之夜 真婚礼",
@@ -97,6 +129,14 @@
       "onboard_time": 1770029061,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1695438,
+      "num": 319915,
+      "word": "肖战出图",
+      "onboard_time": 1770278727,
+      "rank": 6,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1652728,
@@ -225,6 +265,14 @@
       "onboard_time": 1770112400,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1196772,
+      "num": 301277,
+      "word": "陈妍希周柯宇牵手",
+      "onboard_time": 1770276504,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1187949,
@@ -499,6 +547,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 885575,
+      "num": 250818,
+      "word": "张凌赫宋祖儿 顶级帅哥遇上顶级美女",
+      "onboard_time": 1770277763,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 884639,
       "num": 1141542,
       "word": "新版熔炉事件让韩国社会炸锅",
@@ -552,6 +608,14 @@
       "word": "昀牵孟绕",
       "onboard_time": 1769951182,
       "rank": 13,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 846533,
+      "num": 230400,
+      "word": "肖战 YSL",
+      "onboard_time": 1770280585,
+      "rank": 20,
       "category": "作品衍生"
     },
     {
@@ -1347,6 +1411,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 520321,
+      "num": 219517,
+      "word": "易烊千玺回应缺席",
+      "onboard_time": 1770280347,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 518015,
       "num": 518015,
       "word": "金饰价格涨到1600元",
@@ -1459,6 +1531,14 @@
       "category": "民生新闻,美食"
     },
     {
+      "raw_hot": 485825,
+      "num": 485825,
+      "word": "小洛熙事件为一级甲等医疗事故",
+      "onboard_time": 1770278004,
+      "rank": 3,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 484075,
       "num": 252124,
       "word": "王橹杰扔尾戒",
@@ -1547,6 +1627,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 468140,
+      "num": 217537,
+      "word": "卢昱晓牵着陈芋汐转圈",
+      "onboard_time": 1770280225,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 468081,
       "num": 211981,
       "word": "爱泼斯坦被曝让14岁女孩脱衣按摩",
@@ -1585,6 +1673,14 @@
       "onboard_time": 1770084439,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 464604,
+      "num": 205136,
+      "word": "白鹿红毯飞吻",
+      "onboard_time": 1770281546,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 464011,
@@ -1811,6 +1907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 428070,
+      "num": 200854,
+      "word": "宋威龙文淇 史密斯夫妇",
+      "onboard_time": 1770279627,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 427961,
       "num": 860535,
       "word": "中国最北宜家闭店前一日几乎被搬空",
@@ -1843,6 +1947,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 424523,
+      "num": 195062,
+      "word": "微博之夜后台",
+      "onboard_time": 1770279506,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 424144,
       "num": 1067863,
       "word": "央视春晚女主持上新了",
@@ -1857,6 +1969,14 @@
       "onboard_time": 1770179301,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 423814,
+      "num": 188587,
+      "word": "朱志鑫回应没站稳",
+      "onboard_time": 1770279685,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 420947,
@@ -2027,14 +2147,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 391532,
-      "num": 211215,
-      "word": "陈妍希周柯宇牵手",
-      "onboard_time": 1770276504,
-      "rank": 26,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 391507,
       "num": 1056582,
       "word": "中美元首通电话",
@@ -2081,6 +2193,14 @@
       "onboard_time": 1770032121,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 385920,
+      "num": 187563,
+      "word": "李一桐张艺凡快亲上了",
+      "onboard_time": 1770279146,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 385778,
@@ -2313,6 +2433,14 @@
       "onboard_time": 1770193823,
       "rank": 24,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 354768,
+      "num": 163572,
+      "word": "微博之夜交换礼物",
+      "onboard_time": 1770280466,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 353272,
@@ -2595,6 +2723,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 325908,
+      "num": 325908,
+      "word": "英皇娱乐酒店940万买黄金卖近1亿",
+      "onboard_time": 1770278906,
+      "rank": 4,
+      "category": "财经"
+    },
+    {
       "raw_hot": 325831,
       "num": 210151,
       "word": "爱泼斯坦案文件含数十张裸照",
@@ -2785,6 +2921,14 @@
       "onboard_time": 1770269063,
       "rank": 25,
       "category": "财经"
+    },
+    {
+      "raw_hot": 310206,
+      "num": 151835,
+      "word": "陈都灵挽着陈哲远走红毯",
+      "onboard_time": 1770278125,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 309764,
@@ -3611,6 +3755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 237137,
+      "num": 206735,
+      "word": "白敬亭内搭",
+      "onboard_time": 1770276323,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 237083,
       "num": 608860,
       "word": "一家三口掉冰窟窿父亲托母子出水面",
@@ -3931,6 +4083,22 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 219617,
+      "num": 219617,
+      "word": "小洛熙妈妈最新回应",
+      "onboard_time": 1770281006,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 219314,
+      "num": 219314,
+      "word": "电诈园区打人皮开肉绽再浇辣椒水",
+      "onboard_time": 1770279568,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 217958,
       "num": 217958,
       "word": "花楼 小白熊",
@@ -3953,6 +4121,14 @@
       "onboard_time": 1770016160,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 215172,
+      "num": 225497,
+      "word": "香港夫妇5年被车撞了22次",
+      "onboard_time": 1770277584,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 214676,
@@ -4027,12 +4203,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 206735,
-      "num": 206735,
-      "word": "白敬亭内搭",
-      "onboard_time": 1770276323,
-      "rank": 36,
-      "category": "作品衍生"
+      "raw_hot": 207715,
+      "num": 207715,
+      "word": "宁波妇儿医院院长被免职",
+      "onboard_time": 1770279804,
+      "rank": 29,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 206706,
@@ -4257,6 +4433,14 @@
       "onboard_time": 1770106580,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 194110,
+      "num": 194110,
+      "word": "最应该踢出奶茶界的小料",
+      "onboard_time": 1770277885,
+      "rank": 34,
+      "category": "幽默,美食"
     },
     {
       "raw_hot": 193857,
@@ -4809,6 +4993,14 @@
       "onboard_time": 1769935460,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 165294,
+      "num": 165294,
+      "word": "商场称已联系上停8101小时宝马车主",
+      "onboard_time": 1770279026,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 164971,
@@ -6083,6 +6275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126754,
+      "num": 126754,
+      "word": "看见什么都像麻将",
+      "onboard_time": 1770280827,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 126685,
       "num": 168559,
       "word": "金价大跌金店回收挤爆了",
@@ -6747,6 +6947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 116364,
+      "num": 116364,
+      "word": "外网怀疑爱泼斯坦被掉包",
+      "onboard_time": 1770281128,
+      "rank": 48,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 115983,
       "num": 115983,
       "word": "镖人",
@@ -6953,6 +7161,14 @@
       "onboard_time": 1770219023,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 112435,
+      "num": 112435,
+      "word": "医方过失与小洛熙死亡存在直接因果关系",
+      "onboard_time": 1770279986,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112235,
@@ -8755,6 +8971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 90905,
+      "num": 167192,
+      "word": "三星长公主之子被首尔大学经济系录取",
+      "onboard_time": 1770281245,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 90656,
       "num": 90656,
       "word": "爱思回应",
@@ -9321,6 +9545,14 @@
       "onboard_time": 1769937021,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 85346,
+      "num": 302798,
+      "word": "宁波女婴术后离世调查处置情况",
+      "onboard_time": 1770278125,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 85245,
@@ -11467,6 +11699,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 48731,
+      "num": 267214,
+      "word": "李宇春微博之夜幕后神图",
+      "onboard_time": 1770278847,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 48605,
       "num": 112066,
       "word": "杨幂左手春卷右手春饼",
@@ -12847,6 +13087,14 @@
       "num": 172242,
       "word": "精神病医院骗保事件应提级调查",
       "onboard_time": 1770129502,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18179,
+      "num": 235686,
+      "word": "杰我睿风险暴露仍拉国资入伙",
+      "onboard_time": 1770281306,
       "rank": 19,
       "category": "民生新闻"
     },
