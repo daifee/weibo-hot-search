@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1770303178934,
+  "endTime": 1770304278722,
   "band_list": [
     {
       "raw_hot": 22742360,
@@ -72,6 +72,14 @@
       "word": "王一博 中山装",
       "onboard_time": 1770278785,
       "rank": 0,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 9607586,
+      "num": 9607586,
+      "word": "杨幂微博QUEEN",
+      "onboard_time": 1770303088,
+      "rank": 1,
       "category": "作品衍生"
     },
     {
@@ -153,6 +161,14 @@
       "onboard_time": 1768355000,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 7770319,
+      "num": 7770319,
+      "word": "肖战微博KING",
+      "onboard_time": 1770303387,
+      "rank": 1,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 7482738,
@@ -387,14 +403,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 2739150,
-      "num": 2739150,
-      "word": "杨幂微博QUEEN",
-      "onboard_time": 1770303088,
-      "rank": 1,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 2732817,
       "num": 153510,
       "word": "女硕士被村民强奸时被儿子目击",
@@ -612,7 +620,7 @@
     },
     {
       "raw_hot": 2124362,
-      "num": 1049996,
+      "num": 1157987,
       "word": "萝莉岛幸存者曾每天被侵犯3次",
       "onboard_time": 1770268163,
       "rank": 10,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1768302202,
       "rank": 10,
       "category": "时尚,作品衍生"
-    },
-    {
-      "raw_hot": 1042600,
-      "num": 762403,
-      "word": "爱吃车厘子的女生天亮了",
-      "onboard_time": 1768297821,
-      "rank": 44,
-      "category": "幽默"
     }
   ],
   "hotgov_list": [
