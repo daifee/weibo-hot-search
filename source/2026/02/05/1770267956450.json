@@ -1,0 +1,410 @@
+{
+  "runTime": 1770267956450,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8698031,
+        "num": 8698031,
+        "word": "微博之夜红毯",
+        "onboard_time": 1770266423,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 476312,
+        "num": 1756146,
+        "word": "立陶宛承认对中国犯了巨大错误",
+        "onboard_time": 1770251241,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 4253,
+        "num": 1412992,
+        "word": "2026年新春走基层",
+        "onboard_time": 1770093801,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2118358,
+        "num": 1176258,
+        "word": "微博之夜出图",
+        "onboard_time": 1770256878,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 816321,
+        "num": 816321,
+        "word": "王者荣耀小马糕",
+        "onboard_time": 1770263181,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 729255,
+        "num": 729255,
+        "word": "微博之夜",
+        "onboard_time": 1770212062,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 318072,
+        "num": 318072,
+        "word": "网购娃娃菜中毒反转再反转",
+        "onboard_time": 1770253701,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202763,
+        "num": 316674,
+        "word": "男子高铁静音车厢遇乘务员举静音牌",
+        "onboard_time": 1770264141,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193504,
+        "num": 313813,
+        "word": "王者荣耀",
+        "onboard_time": 1770267082,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 170541,
+        "num": 312259,
+        "word": "男子住40层因每天等电梯20分钟卖房",
+        "onboard_time": 1770267082,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1462679,
+        "num": 311383,
+        "word": "取消中高考是早晚的事",
+        "onboard_time": 1770248058,
+        "rank": 10,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 689701,
+        "num": 308793,
+        "word": "白鹿灼灼红裙",
+        "onboard_time": 1770265581,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 672341,
+        "num": 306956,
+        "word": "爱泼斯坦用奖学金诱骗未成年女孩",
+        "onboard_time": 1770264620,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 549830,
+        "num": 303723,
+        "word": "比尔盖茨道歉",
+        "onboard_time": 1770246676,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 149904,
+        "num": 302858,
+        "word": "孙颖莎vs巴特拉",
+        "onboard_time": 1770267563,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 74627,
+        "num": 300193,
+        "word": "多地频现在编职工不在岗",
+        "onboard_time": 1770267082,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11951,
+        "num": 298620,
+        "word": "新郎标名马到功成网友以为是句祝福",
+        "onboard_time": 1770267623,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 511393,
+        "num": 296181,
+        "word": "程潇礼服",
+        "onboard_time": 1770261980,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 476329,
+        "num": 293568,
+        "word": "宋威龙红丝绒深V",
+        "onboard_time": 1770265822,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 369502,
+        "num": 292317,
+        "word": "白银",
+        "onboard_time": 1770266724,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 469874,
+        "num": 288721,
+        "word": "王玉雯透纱紧身裙",
+        "onboard_time": 1770263362,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 461220,
+        "num": 286493,
+        "word": "宋祖儿大漠圣女",
+        "onboard_time": 1770266062,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 336941,
+        "num": 285990,
+        "word": "15岁女生为和男友约会翻窗坠亡",
+        "onboard_time": 1770264561,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156601,
+        "num": 283008,
+        "word": "白银急挫",
+        "onboard_time": 1770261199,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 402448,
+        "num": 279791,
+        "word": "王一博 大明星回内娱",
+        "onboard_time": 1770267263,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 328546,
+        "num": 278916,
+        "word": "周也 油画神女",
+        "onboard_time": 1770266662,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 277454,
+        "num": 277454,
+        "word": "爱泼斯坦文件中一个关键名字消失了",
+        "onboard_time": 1770258679,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 301620,
+        "num": 271507,
+        "word": "谁给丁禹兮邓为打的腮红",
+        "onboard_time": 1770264501,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 257834,
+        "num": 257834,
+        "word": "李一桐老娘与海",
+        "onboard_time": 1770265462,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 195439,
+        "num": 251548,
+        "word": "爱泼斯坦",
+        "onboard_time": 1770249620,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 247704,
+        "num": 247704,
+        "word": "央视马年春晚总导演为于蕾",
+        "onboard_time": 1770266362,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198548,
+        "num": 198548,
+        "word": "卢昱晓白裙斗笠头纱",
+        "onboard_time": 1770259940,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 195418,
+        "num": 195418,
+        "word": "爱波斯坦的女友在狱中过VIP生活",
+        "onboard_time": 1770251001,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 186283,
+        "num": 186283,
+        "word": "曝爱泼斯坦想在沙漠建婴儿制造工厂",
+        "onboard_time": 1770267444,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 184232,
+        "num": 184232,
+        "word": "爱泼斯坦险遭狱友猥亵",
+        "onboard_time": 1770260059,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 180913,
+        "num": 180913,
+        "word": "陈妍希完全水蜜桃",
+        "onboard_time": 1770267863,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 176944,
+        "num": 176944,
+        "word": "白鹿王星越的人脉",
+        "onboard_time": 1770261919,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151650,
+        "num": 151650,
+        "word": "张碧晨帮助理追星刘宇宁",
+        "onboard_time": 1770267685,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44709,
+        "num": 151445,
+        "word": "辅导作业时生气一掌打破11岁娃鼓膜",
+        "onboard_time": 1770267143,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33222,
+        "num": 151333,
+        "word": "爱泼斯坦录视频发秘密信息",
+        "onboard_time": 1770267745,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 151259,
+        "num": 151259,
+        "word": "11岁女儿偷拿家长21克黄金卖出1.6万",
+        "onboard_time": 1770266482,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146697,
+        "num": 146697,
+        "word": "真正的宽肩窄腰视觉有多震撼",
+        "onboard_time": 1770263300,
+        "rank": 41,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 68959,
+        "num": 144904,
+        "word": "何小鹏官宣首款大六座SUV小鹏GX",
+        "onboard_time": 1770267863,
+        "rank": 42,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 144858,
+        "num": 144858,
+        "word": "男明星微博之夜造型出图",
+        "onboard_time": 1770261320,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 144362,
+        "num": 144362,
+        "word": "黄金定投",
+        "onboard_time": 1770263781,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 140295,
+        "num": 140295,
+        "word": "英国王之弟连夜搬家",
+        "onboard_time": 1770265043,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 136745,
+        "num": 136745,
+        "word": "飞驰人生3",
+        "onboard_time": 1770265942,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 136370,
+        "num": 136370,
+        "word": "看到代露娃也要年终汇报我就释怀了",
+        "onboard_time": 1770263480,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126357,
+        "num": 126357,
+        "word": "希望台湾尽快取消对两岸航空限制",
+        "onboard_time": 1770267925,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 123417,
+        "num": 123417,
+        "word": "王艺迪1比3长崎美柚",
+        "onboard_time": 1770267925,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中俄元首举行视频会晤#"
+    }
+  }
+}
