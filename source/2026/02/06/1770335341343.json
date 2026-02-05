@@ -1,0 +1,410 @@
+{
+  "runTime": 1770335341343,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 298617,
+        "num": 950278,
+        "word": "周生生涉事挂坠送检结果公布",
+        "onboard_time": 1770307644,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 264850,
+        "num": 697932,
+        "word": "苏翊鸣第一跳摔倒",
+        "onboard_time": 1770317716,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23861,
+        "num": 562010,
+        "word": "来华过大年成全球新风尚",
+        "onboard_time": 1770301528,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 811627,
+        "num": 550651,
+        "word": "杨幂微博QUEEN",
+        "onboard_time": 1770303088,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 37660,
+        "num": 460096,
+        "word": "米兰冬奥会明天开幕",
+        "onboard_time": 1770333919,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 458364,
+        "num": 458364,
+        "word": "沈腾遗憾错失微博KING",
+        "onboard_time": 1770304406,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 268000,
+        "num": 268000,
+        "word": "黄金白银比特币暴跌",
+        "onboard_time": 1770334819,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 785577,
+        "num": 246273,
+        "word": "沈腾冲上去扶杨幂",
+        "onboard_time": 1770307943,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 184566,
+        "num": 184566,
+        "word": "苏翊鸣说唯一一次拼的机会了",
+        "onboard_time": 1770332597,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176788,
+        "num": 176788,
+        "word": "高市早苗亲自帮尼泊尔总统穿衣",
+        "onboard_time": 1770306924,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 487109,
+        "num": 166388,
+        "word": "爱泼斯坦和女友多张亲密照曝光",
+        "onboard_time": 1770300029,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 219385,
+        "num": 153577,
+        "word": "微博之夜",
+        "onboard_time": 1770300328,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 357146,
+        "num": 148074,
+        "word": "肖战辛芷蕾让C",
+        "onboard_time": 1770308662,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 139228,
+        "num": 139228,
+        "word": "日本宣称探明稀土储量1600万吨",
+        "onboard_time": 1770302487,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 251048,
+        "num": 131999,
+        "word": "蔡徐坤",
+        "onboard_time": 1770334340,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246275,
+        "num": 128564,
+        "word": "陈妍希周柯宇 灯暗下来就贴贴",
+        "onboard_time": 1770300568,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 120021,
+        "num": 120021,
+        "word": "萝莉岛幸存者曾每天被侵犯3次",
+        "onboard_time": 1770268163,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 222303,
+        "num": 114768,
+        "word": "肖战微博KING",
+        "onboard_time": 1770303387,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 157381,
+        "num": 106042,
+        "word": "周也牛仔裤 大大方方",
+        "onboard_time": 1770304468,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 95909,
+        "num": 95909,
+        "word": "知名奶茶列三不买被吐槽教育顾客",
+        "onboard_time": 1770299609,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149419,
+        "num": 95745,
+        "word": "关晓彤回应鞋跟卡台上",
+        "onboard_time": 1770309261,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 140461,
+        "num": 94481,
+        "word": "杨紫 大花气质",
+        "onboard_time": 1770281066,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 120201,
+        "num": 94012,
+        "word": "女孩喂大鹅遭突袭将其将其打服",
+        "onboard_time": 1770334099,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108463,
+        "num": 92543,
+        "word": "高叶李乃文偷吃",
+        "onboard_time": 1770326115,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 108386,
+        "num": 92291,
+        "word": "苏翊鸣冬奥首个1980",
+        "onboard_time": 1770324616,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97763,
+        "num": 91308,
+        "word": "陈楚生晚礼服夯爆了",
+        "onboard_time": 1770305846,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 90582,
+        "num": 90582,
+        "word": "美股",
+        "onboard_time": 1770306146,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 89477,
+        "num": 89477,
+        "word": "湖人老鹰交易",
+        "onboard_time": 1770334279,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89112,
+        "num": 89112,
+        "word": "微博之夜合照",
+        "onboard_time": 1770309801,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 88449,
+        "num": 88449,
+        "word": "比特币",
+        "onboard_time": 1770334460,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 82123,
+        "num": 82123,
+        "word": "单板滑雪男子大跳台预赛",
+        "onboard_time": 1770316036,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 78132,
+        "num": 78132,
+        "word": "坦克没有后视镜 但吴京有兔耳朵",
+        "onboard_time": 1770315557,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 77137,
+        "num": 77137,
+        "word": "王一博 希望大家也开心",
+        "onboard_time": 1770299429,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 69743,
+        "num": 69743,
+        "word": "苏翊鸣大跳台晋级决赛",
+        "onboard_time": 1770325934,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 74669,
+        "num": 69616,
+        "word": "骄阳似我",
+        "onboard_time": 1770302127,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72494,
+        "num": 69588,
+        "word": "娜扎下台摔倒",
+        "onboard_time": 1770298529,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 69355,
+        "num": 69355,
+        "word": "微博抓马",
+        "onboard_time": 1770335001,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 69378,
+        "num": 69247,
+        "word": "王一博不是走下台是飞下台",
+        "onboard_time": 1770303150,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 68869,
+        "num": 68869,
+        "word": "江西一烧烤店老板与人冲突时死亡",
+        "onboard_time": 1770290726,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68214,
+        "num": 68214,
+        "word": "恋与深空",
+        "onboard_time": 1770291864,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 65758,
+        "num": 65758,
+        "word": "白敬亭陈伟霆王嘉尔模仿吴京",
+        "onboard_time": 1770307825,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 63370,
+        "num": 63370,
+        "word": "微博四美",
+        "onboard_time": 1770304468,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 60023,
+        "num": 60023,
+        "word": "大跳台史诗级难度",
+        "onboard_time": 1770328094,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 59774,
+        "num": 59774,
+        "word": "NBA交易截止日",
+        "onboard_time": 1770334279,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 59144,
+        "num": 59144,
+        "word": "狙击蝴蝶",
+        "onboard_time": 1770309981,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 58282,
+        "num": 58282,
+        "word": "NBA交易",
+        "onboard_time": 1770334519,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 49856,
+        "num": 49856,
+        "word": "冬奥会",
+        "onboard_time": 1770315856,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 49421,
+        "num": 49421,
+        "word": "王嘉尔 也恭喜你们",
+        "onboard_time": 1770303749,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 49292,
+        "num": 49292,
+        "word": "哇塞居然是脏话",
+        "onboard_time": 1770287846,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 48794,
+        "num": 48794,
+        "word": "苏翊鸣第二跳完美落地",
+        "onboard_time": 1770321255,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同一天同普京会晤同特朗普通话#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1770307563881,
-  "endTime": 1770334322965,
+  "endTime": 1770335341343,
   "band_list": [
     {
       "raw_hot": 7028994,
@@ -115,7 +115,7 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 457162,
+      "raw_hot": 487109,
       "num": 727910,
       "word": "爱泼斯坦和女友多张亲密照曝光",
       "onboard_time": 1770300029,
@@ -163,6 +163,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 298617,
+      "num": 950278,
+      "word": "周生生涉事挂坠送检结果公布",
+      "onboard_time": 1770307644,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 294902,
       "num": 294902,
       "word": "王一博 希望大家也开心",
@@ -179,12 +187,28 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 264603,
-      "num": 815270,
-      "word": "周生生涉事挂坠送检结果公布",
-      "onboard_time": 1770307644,
-      "rank": 7,
-      "category": "民生新闻"
+      "raw_hot": 268000,
+      "num": 268000,
+      "word": "黄金白银比特币暴跌",
+      "onboard_time": 1770334819,
+      "rank": 6,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 264850,
+      "num": 697932,
+      "word": "苏翊鸣第一跳摔倒",
+      "onboard_time": 1770317716,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 251048,
+      "num": 131999,
+      "word": "蔡徐坤",
+      "onboard_time": 1770334340,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 236636,
@@ -209,14 +233,6 @@
       "onboard_time": 1770268163,
       "rank": 18,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 228516,
-      "num": 591012,
-      "word": "苏翊鸣第一跳摔倒",
-      "onboard_time": 1770317716,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 227440,
@@ -273,6 +289,14 @@
       "onboard_time": 1770290726,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 184566,
+      "num": 184566,
+      "word": "苏翊鸣说唯一一次拼的机会了",
+      "onboard_time": 1770332597,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 171795,
@@ -339,7 +363,7 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 138570,
+      "raw_hot": 139228,
       "num": 522292,
       "word": "日本宣称探明稀土储量1600万吨",
       "onboard_time": 1770302487,
@@ -348,7 +372,7 @@
     },
     {
       "raw_hot": 135758,
-      "num": 86708,
+      "num": 92543,
       "word": "高叶李乃文偷吃",
       "onboard_time": 1770326115,
       "rank": 30,
@@ -360,6 +384,14 @@
       "word": "小洛熙事件最新通报",
       "onboard_time": 1770276924,
       "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120201,
+      "num": 94012,
+      "word": "女孩喂大鹅遭突袭将其将其打服",
+      "onboard_time": 1770334099,
+      "rank": 26,
       "category": "民生新闻"
     },
     {
@@ -411,6 +443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 108386,
+      "num": 103408,
+      "word": "苏翊鸣冬奥首个1980",
+      "onboard_time": 1770324616,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 105032,
       "num": 192786,
       "word": "狙击蝴蝶",
@@ -419,12 +459,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 103408,
-      "num": 103408,
-      "word": "苏翊鸣冬奥首个1980",
-      "onboard_time": 1770324616,
+      "raw_hot": 95909,
+      "num": 838202,
+      "word": "知名奶茶列三不买被吐槽教育顾客",
+      "onboard_time": 1770299609,
       "rank": 9,
-      "category": "体育"
+      "category": "民生新闻"
     },
     {
       "raw_hot": 92016,
@@ -451,20 +491,20 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 85672,
-      "num": 838202,
-      "word": "知名奶茶列三不买被吐槽教育顾客",
-      "onboard_time": 1770299609,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 89477,
+      "num": 89477,
+      "word": "湖人老鹰交易",
+      "onboard_time": 1770334279,
+      "rank": 37,
+      "category": "体育"
     },
     {
-      "raw_hot": 85387,
-      "num": 85387,
-      "word": "苏翊鸣说唯一一次拼的机会了",
-      "onboard_time": 1770332597,
-      "rank": 24,
-      "category": "体育"
+      "raw_hot": 88449,
+      "num": 88449,
+      "word": "比特币",
+      "onboard_time": 1770334460,
+      "rank": 29,
+      "category": "财经"
     },
     {
       "raw_hot": 83763,
@@ -483,6 +523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 78132,
+      "num": 78132,
+      "word": "坦克没有后视镜 但吴京有兔耳朵",
+      "onboard_time": 1770315557,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 76805,
       "num": 961539,
       "word": "A股春节休市安排来了",
@@ -499,28 +547,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 74983,
-      "num": 74983,
-      "word": "女孩喂大鹅遭突袭将其将其打服",
-      "onboard_time": 1770334099,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 73288,
-      "num": 65249,
-      "word": "坦克没有后视镜 但吴京有兔耳朵",
-      "onboard_time": 1770315557,
-      "rank": 43,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 73079,
       "num": 73079,
       "word": "苏翊鸣第二跳完美落地",
       "onboard_time": 1770321255,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 69355,
+      "num": 69355,
+      "word": "微博抓马",
+      "onboard_time": 1770335001,
+      "rank": 36,
+      "category": "互联网"
     },
     {
       "raw_hot": 69149,
@@ -531,8 +571,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 66282,
-      "num": 66282,
+      "raw_hot": 68214,
+      "num": 68214,
       "word": "恋与深空",
       "onboard_time": 1770291864,
       "rank": 29,
@@ -544,14 +584,6 @@
       "word": "大跳台史诗级难度",
       "onboard_time": 1770328094,
       "rank": 49,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 61507,
-      "num": 61507,
-      "word": "湖人老鹰交易",
-      "onboard_time": 1770334279,
-      "rank": 37,
       "category": "体育"
     },
     {
@@ -571,6 +603,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 59774,
+      "num": 59774,
+      "word": "NBA交易截止日",
+      "onboard_time": 1770334279,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 58282,
+      "num": 58282,
+      "word": "NBA交易",
+      "onboard_time": 1770334519,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 56328,
       "num": 56328,
       "word": "周深紧急表情管理",
@@ -585,14 +633,6 @@
       "onboard_time": 1770305066,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 54610,
-      "num": 54610,
-      "word": "NBA交易截止日",
-      "onboard_time": 1770334279,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 54020,
@@ -619,20 +659,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 49856,
+      "num": 79248,
+      "word": "冬奥会",
+      "onboard_time": 1770315856,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 49619,
       "num": 313701,
       "word": "国家卫健委赴湖北督导调查",
       "onboard_time": 1770302848,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 47129,
-      "num": 79248,
-      "word": "冬奥会",
-      "onboard_time": 1770315856,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 46872,
@@ -689,6 +729,14 @@
       "onboard_time": 1770301828,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37660,
+      "num": 460096,
+      "word": "米兰冬奥会明天开幕",
+      "onboard_time": 1770333919,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 35005,
@@ -771,14 +819,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 25091,
-      "num": 454241,
-      "word": "米兰冬奥会明天开幕",
-      "onboard_time": 1770333919,
-      "rank": 4,
-      "category": "体育"
-    },
-    {
       "raw_hot": 25050,
       "num": 125822,
       "word": "苏翊鸣米兰冬奥会首战",
@@ -795,8 +835,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 22903,
-      "num": 487767,
+      "raw_hot": 23861,
+      "num": 562010,
       "word": "来华过大年成全球新风尚",
       "onboard_time": 1770301528,
       "rank": 2,
