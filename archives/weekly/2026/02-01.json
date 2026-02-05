@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1770249084295,
+  "endTime": 1770259112137,
   "band_list": [
     {
       "raw_hot": 4038416,
@@ -33,6 +33,14 @@
       "onboard_time": 1769866882,
       "rank": 10,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 2152986,
+      "num": 199372,
+      "word": "取消中高考是早晚的事",
+      "onboard_time": 1770248058,
+      "rank": 16,
+      "category": "教育"
     },
     {
       "raw_hot": 1809688,
@@ -387,6 +395,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 934364,
+      "num": 1149498,
+      "word": "微博之夜出图",
+      "onboard_time": 1770256878,
+      "rank": 0,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 900582,
       "num": 271707,
       "word": "挪威王储妃与爱泼斯坦暧昧邮件曝光",
@@ -667,14 +683,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 706007,
-      "num": 199372,
-      "word": "取消中高考是早晚的事",
-      "onboard_time": 1770248058,
-      "rank": 16,
-      "category": "教育"
-    },
-    {
       "raw_hot": 702448,
       "num": 328940,
       "word": "爱泼斯坦自缢后甲状软骨几乎完全骨折",
@@ -785,6 +793,14 @@
       "onboard_time": 1770117381,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 654439,
+      "num": 840462,
+      "word": "立陶宛承认对中国犯了巨大错误",
+      "onboard_time": 1770251241,
+      "rank": 1,
+      "category": "国际时政"
     },
     {
       "raw_hot": 647010,
@@ -979,6 +995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 568787,
+      "num": 192126,
+      "word": "爱波斯坦的女友在狱中过VIP生活",
+      "onboard_time": 1770251001,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 562288,
       "num": 314946,
       "word": "这还是我认识的锤娜丽莎吗",
@@ -1099,12 +1123,28 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 535809,
+      "num": 535809,
+      "word": "网购娃娃菜中毒反转再反转",
+      "onboard_time": 1770253701,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 533950,
       "num": 533950,
       "word": "黄金白银直线飙涨原因",
       "onboard_time": 1770078440,
       "rank": 3,
       "category": "财经"
+    },
+    {
+      "raw_hot": 531748,
+      "num": 531748,
+      "word": "谢娜宣布明年开演唱会",
+      "onboard_time": 1770250460,
+      "rank": 4,
+      "category": "演出"
     },
     {
       "raw_hot": 529204,
@@ -1172,7 +1212,7 @@
     },
     {
       "raw_hot": 504193,
-      "num": 184124,
+      "num": 191637,
       "word": "金价波动",
       "onboard_time": 1769865023,
       "rank": 11,
@@ -1756,7 +1796,7 @@
     },
     {
       "raw_hot": 397468,
-      "num": 184217,
+      "num": 184283,
       "word": "丈夫结扎妻子又怀孕家里已有3孩",
       "onboard_time": 1770219381,
       "rank": 39,
@@ -1963,6 +2003,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 367274,
+      "num": 153644,
+      "word": "卢靖姗二胎产后3个月状态",
+      "onboard_time": 1770252681,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 366817,
       "num": 810377,
       "word": "德约科维奇vs阿尔卡拉斯",
@@ -2145,6 +2193,14 @@
       "onboard_time": 1769994921,
       "rank": 4,
       "category": "演出"
+    },
+    {
+      "raw_hot": 338366,
+      "num": 195044,
+      "word": "9个姑姑参加大侄婚礼排成长龙",
+      "onboard_time": 1770256821,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 337730,
@@ -2843,6 +2899,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 263220,
+      "num": 263220,
+      "word": "女子摆拍自家孩子险些被拐",
+      "onboard_time": 1770254061,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 262593,
       "num": 717127,
       "word": "胡歌说杨紫的戏不是一般的好",
@@ -3113,6 +3177,14 @@
       "onboard_time": 1770217702,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 240400,
+      "num": 240400,
+      "word": "追觅CEO称几年后成为世界首富",
+      "onboard_time": 1770254839,
+      "rank": 7,
+      "category": "互联网"
     },
     {
       "raw_hot": 240396,
@@ -3899,6 +3971,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185260,
+      "num": 151247,
+      "word": "小狗禁止进地铁除非能装进袋子",
+      "onboard_time": 1770249739,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 184832,
+      "num": 184832,
+      "word": "龙洋已争气争气再争气",
+      "onboard_time": 1770259040,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 184094,
       "num": 159509,
       "word": "金饰克价一夜跌134元",
@@ -3977,6 +4065,14 @@
       "onboard_time": 1770129862,
       "rank": 9,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 179712,
+      "num": 144844,
+      "word": "娃娃菜夫妻刀口舔血自吞苦果",
+      "onboard_time": 1770256939,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 179043,
@@ -4337,6 +4433,14 @@
       "onboard_time": 1769931741,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 159341,
+      "num": 159341,
+      "word": "美国夫妻杀亲生子强迫其余子女观看",
+      "onboard_time": 1770258021,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 158812,
@@ -5155,6 +5259,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 131381,
+      "num": 131381,
+      "word": "桃黑黑47分钟谈心局",
+      "onboard_time": 1770250341,
+      "rank": 24,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 131332,
       "num": 260175,
       "word": "高市早苗五指缠满绷带卖惨拉票",
@@ -5265,6 +5377,14 @@
       "onboard_time": 1769935220,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 128849,
+      "num": 128849,
+      "word": "何洁说以前很排斥自己是个艺人",
+      "onboard_time": 1770258500,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 128651,
@@ -5811,6 +5931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119021,
+      "num": 119021,
+      "word": "黄金或下探4000美元",
+      "onboard_time": 1770254901,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 118929,
       "num": 118929,
       "word": "5个人喝完奶茶陆续出现不适",
@@ -6025,6 +6153,14 @@
       "onboard_time": 1770165441,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 114650,
+      "num": 114650,
+      "word": "炽热吸引",
+      "onboard_time": 1769910260,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 114621,
@@ -6499,6 +6635,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 107353,
+      "num": 107353,
+      "word": "爱泼斯坦豪宅悬挂不少裸女画像",
+      "onboard_time": 1770249379,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 107238,
       "num": 107238,
       "word": "陈奕恒外套斜穿",
@@ -6659,6 +6803,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 105439,
+      "num": 105439,
+      "word": "金饰价跌到1566元",
+      "onboard_time": 1770257600,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
       "raw_hot": 105252,
       "num": 105252,
       "word": "国投白银紧急辟谣",
@@ -6689,6 +6841,14 @@
       "onboard_time": 1770034521,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 104901,
+      "num": 104901,
+      "word": "黄晓明人民日报撰文",
+      "onboard_time": 1770258800,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 104863,
@@ -6867,6 +7027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 103045,
+      "num": 103045,
+      "word": "贾跃亭发布人形机器人",
+      "onboard_time": 1770257059,
+      "rank": 32,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 103038,
       "num": 101041,
       "word": "爱泼斯坦女友获赠1亿美元资产",
@@ -6913,6 +7081,14 @@
       "onboard_time": 1770205101,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 102004,
+      "num": 102004,
+      "word": "官方通报干部晋升公示年龄变小",
+      "onboard_time": 1770256701,
+      "rank": 33,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 101759,
@@ -7163,6 +7339,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 99214,
+      "num": 99214,
+      "word": "银价再大涨",
+      "onboard_time": 1770258921,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 99183,
       "num": 99183,
       "word": "终于知道抗炎和促炎食物有哪些了",
@@ -7304,6 +7488,14 @@
       "word": "时代少年团 李飞的题海战术",
       "onboard_time": 1770210921,
       "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 97638,
+      "num": 97638,
+      "word": "苏新皓高会第一",
+      "onboard_time": 1770252562,
+      "rank": 35,
       "category": "艺人"
     },
     {
@@ -7611,6 +7803,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 93806,
+      "num": 93806,
+      "word": "特朗普乐见中国成功",
+      "onboard_time": 1770257300,
+      "rank": 36,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 93788,
       "num": 83646,
       "word": "胡歌角色查重率为0",
@@ -7681,14 +7881,6 @@
       "onboard_time": 1770195620,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 93055,
-      "num": 93055,
-      "word": "炽热吸引",
-      "onboard_time": 1769910260,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 92955,
@@ -7873,6 +8065,14 @@
       "onboard_time": 1769944222,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 90569,
+      "num": 90569,
+      "word": "5月31日是鞠萍姐姐最后一个工作日",
+      "onboard_time": 1770255678,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 90488,
@@ -8571,6 +8771,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 83524,
+      "num": 83524,
+      "word": "露台塌陷3人跌落正好被无人机拍下",
+      "onboard_time": 1770256821,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83483,
       "num": 83483,
       "word": "小孩姐真的算准了时间的",
@@ -8609,6 +8817,14 @@
       "onboard_time": 1770075378,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 83173,
+      "num": 83173,
+      "word": "职业资格考试时间表",
+      "onboard_time": 1770258260,
+      "rank": 42,
+      "category": "教育"
     },
     {
       "raw_hot": 83172,
@@ -8681,6 +8897,14 @@
       "onboard_time": 1770166161,
       "rank": 34,
       "category": "财经"
+    },
+    {
+      "raw_hot": 82505,
+      "num": 82505,
+      "word": "换宿舍",
+      "onboard_time": 1770257721,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 82471,
@@ -8801,6 +9025,14 @@
       "onboard_time": 1769933899,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 80830,
+      "num": 80830,
+      "word": "乌拉圭总统见到烤红薯表情亮了",
+      "onboard_time": 1770257481,
+      "rank": 44,
+      "category": "国内时政"
     },
     {
       "raw_hot": 80791,
@@ -8995,6 +9227,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 79349,
+      "num": 79349,
+      "word": "王晰删博",
+      "onboard_time": 1770249980,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 79288,
       "num": 79288,
       "word": "不剥皮就能知道橘子瓣数",
@@ -9017,6 +9257,14 @@
       "onboard_time": 1769923040,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 78863,
+      "num": 78863,
+      "word": "把健身房开成养生馆的真是天才",
+      "onboard_time": 1770258740,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 78799,
@@ -9169,6 +9417,14 @@
       "onboard_time": 1770075620,
       "rank": 28,
       "category": "财经"
+    },
+    {
+      "raw_hot": 76383,
+      "num": 76383,
+      "word": "这是返乡务工人员吃饭的家伙",
+      "onboard_time": 1770258200,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 76176,
@@ -11507,6 +11763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 24136,
+      "num": 85240,
+      "word": "爱泼斯坦文件中一个关键名字消失了",
+      "onboard_time": 1770258679,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 23594,
       "num": 234932,
       "word": "极致玩家的马年神机",
@@ -11713,6 +11977,14 @@
       "onboard_time": 1770094222,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20470,
+      "num": 84159,
+      "word": "起猛了在支付宝集福玩原神",
+      "onboard_time": 1770259040,
+      "rank": 40,
+      "category": "游戏,互联网"
     },
     {
       "raw_hot": 20329,
@@ -12211,8 +12483,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 3674,
-      "num": 573894,
+      "raw_hot": 5107,
+      "num": 641322,
       "word": "冰雪春天",
       "onboard_time": 1770037581,
       "rank": 25,
