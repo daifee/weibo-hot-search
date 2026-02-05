@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1770306631992,
+  "endTime": 1770307563881,
   "band_list": [
     {
       "raw_hot": 10390810,
@@ -99,6 +99,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 2615393,
+      "num": 789352,
+      "word": "微博之夜致歉",
+      "onboard_time": 1770304588,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 2608306,
       "num": 1369687,
       "word": "YSL 撞衫",
@@ -112,14 +120,6 @@
       "word": "微博之夜 真婚礼",
       "onboard_time": 1770269963,
       "rank": 3,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 2512623,
-      "num": 711589,
-      "word": "微博之夜致歉",
-      "onboard_time": 1770304588,
-      "rank": 10,
       "category": "作品衍生"
     },
     {
@@ -1211,6 +1211,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 642781,
+      "num": 642781,
+      "word": "周也牛仔裤 大大方方",
+      "onboard_time": 1770304468,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 642283,
       "num": 642283,
       "word": "白鹿红毯飞吻",
@@ -1283,20 +1291,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 615016,
+      "num": 615016,
+      "word": "微博四美",
+      "onboard_time": 1770304468,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 614407,
       "num": 292317,
       "word": "白银",
       "onboard_time": 1769994020,
       "rank": 18,
       "category": "财经"
-    },
-    {
-      "raw_hot": 613454,
-      "num": 613454,
-      "word": "周也牛仔裤 大大方方",
-      "onboard_time": 1770304468,
-      "rank": 23,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 611621,
@@ -1672,14 +1680,6 @@
       "word": "周也 油画神女",
       "onboard_time": 1770266662,
       "rank": 34,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 515090,
-      "num": 515090,
-      "word": "微博四美",
-      "onboard_time": 1770304468,
-      "rank": 26,
       "category": "作品衍生"
     },
     {
@@ -2371,6 +2371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 405301,
+      "num": 405301,
+      "word": "怪不得这张照片沈腾不发邓超也不发",
+      "onboard_time": 1770306146,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 404400,
       "num": 404400,
       "word": "马凡舒上了两次马年春晚",
@@ -2873,14 +2881,6 @@
       "onboard_time": 1770009322,
       "rank": 4,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 341311,
-      "num": 341311,
-      "word": "怪不得这张照片沈腾不发邓超也不发",
-      "onboard_time": 1770306146,
-      "rank": 33,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 340255,
@@ -3635,6 +3635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 281200,
+      "num": 281200,
+      "word": "陈楚生晚礼服夯爆了",
+      "onboard_time": 1770305846,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 280905,
       "num": 280905,
       "word": "大侦探",
@@ -4339,6 +4347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 232596,
+      "num": 232596,
+      "word": "鞠婧祎ins更新",
+      "onboard_time": 1770305366,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 231674,
       "num": 231674,
       "word": "魏大勋说自己后悔去爬山",
@@ -4491,6 +4507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 225373,
+      "num": 225373,
+      "word": "赖伟明发后台合照",
+      "onboard_time": 1770306744,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 225319,
       "num": 1539252,
       "word": "陈芋汐获奖感言",
@@ -4635,14 +4659,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 217940,
-      "num": 217940,
-      "word": "鞠婧祎ins更新",
-      "onboard_time": 1770305366,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 217436,
       "num": 217436,
       "word": "张婧仪 我记得你的姓",
@@ -4665,6 +4681,14 @@
       "onboard_time": 1770016160,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 216189,
+      "num": 642454,
+      "word": "美股",
+      "onboard_time": 1770306146,
+      "rank": 27,
+      "category": "财经"
     },
     {
       "raw_hot": 215172,
@@ -4761,14 +4785,6 @@
       "onboard_time": 1770289885,
       "rank": 7,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 207736,
-      "num": 207736,
-      "word": "陈楚生晚礼服夯爆了",
-      "onboard_time": 1770305846,
-      "rank": 45,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 207715,
@@ -5812,7 +5828,7 @@
     },
     {
       "raw_hot": 159591,
-      "num": 643936,
+      "num": 961539,
       "word": "A股春节休市安排来了",
       "onboard_time": 1770301587,
       "rank": 26,
@@ -6177,14 +6193,6 @@
       "onboard_time": 1769950521,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 147992,
-      "num": 481151,
-      "word": "美股",
-      "onboard_time": 1770306146,
-      "rank": 27,
-      "category": "财经"
     },
     {
       "raw_hot": 146936,
@@ -7971,6 +7979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 112582,
+      "num": 1140874,
+      "word": "陈昊宇电梯神图",
+      "onboard_time": 1770303869,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 112537,
       "num": 112537,
       "word": "特朗普称有问题的是比尔盖茨那些人",
@@ -9083,14 +9099,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 99043,
-      "num": 1140874,
-      "word": "陈昊宇电梯神图",
-      "onboard_time": 1770303869,
-      "rank": 16,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 98786,
       "num": 98786,
       "word": "闺蜜你真的不考虑下我哥吗",
@@ -9380,7 +9388,7 @@
     },
     {
       "raw_hot": 96166,
-      "num": 327138,
+      "num": 838202,
       "word": "知名奶茶列三不买被吐槽教育顾客",
       "onboard_time": 1770299609,
       "rank": 37,
@@ -10828,7 +10836,7 @@
     },
     {
       "raw_hot": 81304,
-      "num": 209829,
+      "num": 647802,
       "word": "任天堂直面会",
       "onboard_time": 1770305786,
       "rank": 43,
@@ -12633,6 +12641,14 @@
       "onboard_time": 1770105622,
       "rank": 36,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 49472,
+      "num": 248611,
+      "word": "高市早苗亲自帮尼泊尔总统穿衣",
+      "onboard_time": 1770306924,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 49317,
