@@ -1,6 +1,6 @@
 {
   "startTime": 1770307563881,
-  "endTime": 1770310815806,
+  "endTime": 1770311744051,
   "band_list": [
     {
       "raw_hot": 7028994,
@@ -179,6 +179,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 236636,
+      "num": 236636,
+      "word": "关晓彤回应鞋跟卡台上",
+      "onboard_time": 1770309261,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 232596,
       "num": 232596,
       "word": "鞠婧祎ins更新",
@@ -249,14 +257,6 @@
       "onboard_time": 1770290726,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 193565,
-      "num": 193565,
-      "word": "关晓彤回应鞋跟卡台上",
-      "onboard_time": 1770309261,
-      "rank": 26,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 171795,
@@ -363,6 +363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 105032,
+      "num": 192786,
+      "word": "狙击蝴蝶",
+      "onboard_time": 1770309981,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 103469,
       "num": 192949,
       "word": "微博之夜合照",
@@ -371,20 +379,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 101587,
-      "num": 192786,
-      "word": "狙击蝴蝶",
-      "onboard_time": 1770309981,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 92016,
       "num": 192470,
       "word": "张函瑞进行曲播放量破1亿",
       "onboard_time": 1770309561,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 91983,
+      "num": 192334,
+      "word": "刘宇宁帮白鹿拿奖杯",
+      "onboard_time": 1770310220,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 90519,
@@ -403,15 +411,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 83048,
-      "num": 192463,
-      "word": "27岁男子洗浴店猥亵女子被行拘",
-      "onboard_time": 1770302368,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 79310,
+      "raw_hot": 83399,
       "num": 394953,
       "word": "周生生涉事挂坠送检结果公布",
       "onboard_time": 1770307644,
@@ -419,12 +419,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 77297,
-      "num": 192334,
-      "word": "刘宇宁帮白鹿拿奖杯",
-      "onboard_time": 1770310220,
-      "rank": 48,
-      "category": "作品衍生"
+      "raw_hot": 83048,
+      "num": 192463,
+      "word": "27岁男子洗浴店猥亵女子被行拘",
+      "onboard_time": 1770302368,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 76805,
@@ -467,6 +467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 56328,
+      "num": 56328,
+      "word": "周深紧急表情管理",
+      "onboard_time": 1770311240,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 55843,
       "num": 193088,
       "word": "医生从男子左心房里掏出鸭蛋大血栓",
@@ -483,6 +491,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 52356,
+      "num": 52356,
+      "word": "生命树",
+      "onboard_time": 1770301647,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 51318,
+      "num": 51318,
+      "word": "唐宫奇案首播口碑",
+      "onboard_time": 1770296968,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 49619,
       "num": 313701,
       "word": "国家卫健委赴湖北督导调查",
@@ -491,12 +515,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 46360,
+      "num": 46360,
+      "word": "唐宫奇案热度",
+      "onboard_time": 1770311660,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 39117,
       "num": 1165372,
       "word": "服务区变身年味驿站",
       "onboard_time": 1770301828,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16676,
+      "num": 319565,
+      "word": "中国队米兰冬奥首秀",
+      "onboard_time": 1770311660,
+      "rank": 9,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
