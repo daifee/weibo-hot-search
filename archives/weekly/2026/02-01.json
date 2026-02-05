@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1770288742669,
+  "endTime": 1770289823920,
   "band_list": [
     {
       "raw_hot": 10390810,
@@ -523,6 +523,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 932987,
+      "num": 932987,
+      "word": "哇塞居然是脏话",
+      "onboard_time": 1770287846,
+      "rank": 7,
+      "category": "情感"
+    },
+    {
       "raw_hot": 932018,
       "num": 836302,
       "word": "微博之夜",
@@ -537,6 +545,14 @@
       "onboard_time": 1770081320,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 892003,
+      "num": 892003,
+      "word": "小洛熙事件为一级甲等医疗事故",
+      "onboard_time": 1770278004,
+      "rank": 3,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 890270,
@@ -689,14 +705,6 @@
       "onboard_time": 1770001941,
       "rank": 29,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 819676,
-      "num": 716915,
-      "word": "小洛熙事件为一级甲等医疗事故",
-      "onboard_time": 1770278004,
-      "rank": 3,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 819122,
@@ -1267,14 +1275,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 567763,
-      "num": 567763,
-      "word": "哇塞居然是脏话",
-      "onboard_time": 1770287846,
-      "rank": 7,
-      "category": "情感"
-    },
-    {
       "raw_hot": 562288,
       "num": 314946,
       "word": "这还是我认识的锤娜丽莎吗",
@@ -1337,6 +1337,14 @@
       "onboard_time": 1770167899,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 545581,
+      "num": 482750,
+      "word": "杨幂杨紫在聊什么",
+      "onboard_time": 1770288325,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 543047,
@@ -1851,6 +1859,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 446077,
+      "num": 249206,
+      "word": "卢昱晓的头饰误伤王玉雯",
+      "onboard_time": 1770289045,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 444204,
       "num": 444204,
       "word": "一诺和桃黑黑打王者",
@@ -1977,6 +1993,14 @@
       "onboard_time": 1770043644,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 426055,
+      "num": 333643,
+      "word": "李冰冰和妹妹李雪走红毯",
+      "onboard_time": 1770286826,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 425343,
@@ -2201,14 +2225,6 @@
       "onboard_time": 1770215423,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 391215,
-      "num": 333643,
-      "word": "李冰冰和妹妹李雪走红毯",
-      "onboard_time": 1770286826,
-      "rank": 21,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 390430,
@@ -3131,14 +3147,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 298112,
-      "num": 298112,
-      "word": "杨幂杨紫在聊什么",
-      "onboard_time": 1770288325,
-      "rank": 30,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 297826,
       "num": 242635,
       "word": "林子烨 禁止五三娱乐化",
@@ -3243,6 +3251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 290101,
+      "num": 331621,
+      "word": "第一代智力低于父母的群体出现了",
+      "onboard_time": 1770286586,
+      "rank": 23,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 287257,
       "num": 187929,
       "word": "GAI周延儿子柚柚近照",
@@ -3337,14 +3353,6 @@
       "onboard_time": 1770184580,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 279885,
-      "num": 331621,
-      "word": "第一代智力低于父母的群体出现了",
-      "onboard_time": 1770286586,
-      "rank": 23,
-      "category": "科学科普"
     },
     {
       "raw_hot": 279770,
@@ -4299,6 +4307,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 213880,
+      "num": 213880,
+      "word": "敖瑞鹏李兰迪我亲爱的爸爸妈妈",
+      "onboard_time": 1770288266,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 212343,
       "num": 204651,
       "word": "当你被父母养的很好",
@@ -4347,6 +4363,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 208904,
+      "num": 200525,
+      "word": "孟子义没走红毯",
+      "onboard_time": 1770289405,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 208890,
       "num": 208890,
       "word": "太平年改档",
@@ -4371,20 +4395,20 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 206817,
+      "num": 202218,
+      "word": "时代少年团红毯",
+      "onboard_time": 1770288084,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 206706,
       "num": 502801,
       "word": "王者荣耀",
       "onboard_time": 1770199520,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 206298,
-      "num": 179913,
-      "word": "时代少年团红毯",
-      "onboard_time": 1770288084,
-      "rank": 45,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 204946,
@@ -4625,6 +4649,14 @@
       "onboard_time": 1769946261,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 193455,
+      "num": 193455,
+      "word": "登陆少年开场",
+      "onboard_time": 1770289704,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 192838,
@@ -4883,14 +4915,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 179499,
-      "num": 179499,
-      "word": "敖瑞鹏李兰迪我亲爱的爸爸妈妈",
-      "onboard_time": 1770288266,
-      "rank": 46,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 179043,
       "num": 179043,
       "word": "台湾问题是中美关系中最重要的问题",
@@ -4985,6 +5009,14 @@
       "onboard_time": 1770193521,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 174519,
+      "num": 1837594,
+      "word": "熊出没在微博之夜卖霉豆腐",
+      "onboard_time": 1770287126,
+      "rank": 4,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 173995,
@@ -5409,14 +5441,6 @@
       "onboard_time": 1769938702,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 154394,
-      "num": 1295103,
-      "word": "熊出没在微博之夜卖霉豆腐",
-      "onboard_time": 1770287126,
-      "rank": 4,
-      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 153919,
@@ -6627,6 +6651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 123626,
+      "num": 334696,
+      "word": "肖杰被查",
+      "onboard_time": 1770285864,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 123590,
       "num": 114398,
       "word": "七匹狼输了",
@@ -7747,14 +7779,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 107286,
-      "num": 334696,
-      "word": "肖杰被查",
-      "onboard_time": 1770285864,
-      "rank": 39,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 107277,
       "num": 107277,
       "word": "杨紫回应与胡歌合作",
@@ -8601,6 +8625,14 @@
       "onboard_time": 1770084740,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 97806,
+      "num": 182887,
+      "word": "美团拟7.17亿美元收购叮咚",
+      "onboard_time": 1770288925,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 97767,
@@ -10843,6 +10875,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 73046,
+      "num": 227984,
+      "word": "女子买58元零食抽中10克金条",
+      "onboard_time": 1770288986,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 72922,
       "num": 72922,
       "word": "四川黄金逼近跌停",
@@ -11291,6 +11331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 64411,
+      "num": 300279,
+      "word": "孙颖莎芋泥小蛋糕",
+      "onboard_time": 1770287965,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 64063,
       "num": 85724,
       "word": "四川复婚人员不能享受婚假",
@@ -11601,14 +11649,6 @@
       "onboard_time": 1770085639,
       "rank": 48,
       "category": "美食"
-    },
-    {
-      "raw_hot": 57841,
-      "num": 300279,
-      "word": "孙颖莎芋泥小蛋糕",
-      "onboard_time": 1770287965,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 57606,
@@ -12307,20 +12347,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 40150,
+      "num": 332297,
+      "word": "微博之夜红毯显眼宝",
+      "onboard_time": 1770286405,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 40042,
       "num": 40042,
       "word": "2025微博十大热搜演唱会",
       "onboard_time": 1770137957,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 39927,
-      "num": 332297,
-      "word": "微博之夜红毯显眼宝",
-      "onboard_time": 1770286405,
-      "rank": 22,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 39756,
@@ -13779,6 +13819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 9199,
+      "num": 206512,
+      "word": "前男友泼汽油烧伤案再开庭",
+      "onboard_time": 1770289286,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 8294,
       "num": 81865,
       "word": "2岁女童误喝强酸进ICU妈妈又患癌",
@@ -13787,11 +13835,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 7819,
+      "num": 235567,
+      "word": "上咪咕为苏翊鸣加油",
+      "onboard_time": 1770289645,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 7663,
       "num": 78183,
       "word": "湖北成立调查组彻查精神病院问题",
       "onboard_time": 1770172579,
       "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 7567,
+      "num": 230618,
+      "word": "血友病患者卷入巨额医保诈骗案",
+      "onboard_time": 1770289704,
+      "rank": 31,
       "category": "民生新闻"
     },
     {
