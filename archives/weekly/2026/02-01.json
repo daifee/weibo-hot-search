@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1770307563881,
+  "endTime": 1770310815806,
   "band_list": [
     {
       "raw_hot": 10390810,
@@ -803,6 +803,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 820501,
+      "num": 374796,
+      "word": "沈腾冲上去扶杨幂",
+      "onboard_time": 1770307943,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 819122,
       "num": 258489,
       "word": "比伯穿内裤表演",
@@ -1161,6 +1169,14 @@
       "onboard_time": 1769988378,
       "rank": 13,
       "category": "财经"
+    },
+    {
+      "raw_hot": 677161,
+      "num": 363984,
+      "word": "肖战辛芷蕾让C",
+      "onboard_time": 1770308662,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 670304,
@@ -4475,6 +4491,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 227440,
+      "num": 227440,
+      "word": "被内场的程潇惊艳到了",
+      "onboard_time": 1770307763,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 227273,
       "num": 203932,
       "word": "穆祉丞说不愧对任何人",
@@ -4803,6 +4827,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 206174,
+      "num": 533641,
+      "word": "高市早苗亲自帮尼泊尔总统穿衣",
+      "onboard_time": 1770306924,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 206156,
       "num": 174725,
       "word": "童瑶给腿单独穿了条裙子",
@@ -5049,6 +5081,14 @@
       "onboard_time": 1769946261,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 193565,
+      "num": 193565,
+      "word": "关晓彤回应鞋跟卡台上",
+      "onboard_time": 1770309261,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 193455,
@@ -6465,6 +6505,14 @@
       "onboard_time": 1770009622,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 140762,
+      "num": 193326,
+      "word": "白敬亭陈伟霆王嘉尔模仿吴京",
+      "onboard_time": 1770307825,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 140466,
@@ -8731,6 +8779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 103469,
+      "num": 192949,
+      "word": "微博之夜合照",
+      "onboard_time": 1770309801,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 103392,
       "num": 116120,
       "word": "东部战区一线战斗场景公开",
@@ -8881,6 +8937,14 @@
       "onboard_time": 1770210741,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 101587,
+      "num": 192786,
+      "word": "狙击蝴蝶",
+      "onboard_time": 1770309981,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 101376,
@@ -9745,6 +9809,14 @@
       "onboard_time": 1770130762,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 92016,
+      "num": 192470,
+      "word": "张函瑞进行曲播放量破1亿",
+      "onboard_time": 1770309561,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 91914,
@@ -11107,6 +11179,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 79310,
+      "num": 394953,
+      "word": "周生生涉事挂坠送检结果公布",
+      "onboard_time": 1770307644,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 79288,
       "num": 79288,
       "word": "不剥皮就能知道橘子瓣数",
@@ -11177,6 +11257,14 @@
       "onboard_time": 1770201742,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 77297,
+      "num": 192334,
+      "word": "刘宇宁帮白鹿拿奖杯",
+      "onboard_time": 1770310220,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 77269,
@@ -12363,6 +12451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 55843,
+      "num": 193088,
+      "word": "医生从男子左心房里掏出鸭蛋大血栓",
+      "onboard_time": 1770305066,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55832,
       "num": 55832,
       "word": "格莱美预测",
@@ -12641,14 +12737,6 @@
       "onboard_time": 1770105622,
       "rank": 36,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 49472,
-      "num": 248611,
-      "word": "高市早苗亲自帮尼泊尔总统穿衣",
-      "onboard_time": 1770306924,
-      "rank": 39,
-      "category": "国际时政"
     },
     {
       "raw_hot": 49317,
