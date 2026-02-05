@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1770314183214,
+  "endTime": 1770315040519,
   "band_list": [
     {
       "raw_hot": 10390810,
@@ -5771,6 +5771,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 162551,
+      "num": 192949,
+      "word": "微博之夜合照",
+      "onboard_time": 1770309801,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 162395,
       "num": 219200,
       "word": "公考围岗令人震惊必须打击",
@@ -5857,14 +5865,6 @@
       "onboard_time": 1770275243,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 160849,
-      "num": 192949,
-      "word": "微博之夜合照",
-      "onboard_time": 1770309801,
-      "rank": 37,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 159776,
@@ -7963,6 +7963,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 113577,
+      "num": 394953,
+      "word": "周生生涉事挂坠送检结果公布",
+      "onboard_time": 1770307644,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 113476,
       "num": 126962,
       "word": "用披萨蛋糕打开我新的一岁",
@@ -7976,14 +7984,6 @@
       "word": "广州地铁",
       "onboard_time": 1769958802,
       "rank": 35,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 113385,
-      "num": 394953,
-      "word": "周生生涉事挂坠送检结果公布",
-      "onboard_time": 1770307644,
-      "rank": 7,
       "category": "民生新闻"
     },
     {
@@ -12908,7 +12908,7 @@
     },
     {
       "raw_hot": 46360,
-      "num": 46360,
+      "num": 51786,
       "word": "唐宫奇案热度",
       "onboard_time": 1770311660,
       "rank": 49,
@@ -13515,6 +13515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 33467,
+      "num": 51769,
+      "word": "周柯宇陈妍希互拍",
+      "onboard_time": 1770313458,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 33398,
       "num": 194966,
       "word": "马斯克再否认参加过爱泼斯坦派对",
@@ -13537,6 +13545,14 @@
       "onboard_time": 1770179181,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33067,
+      "num": 51768,
+      "word": "李宇春冬泳压轴舞台",
+      "onboard_time": 1770311718,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 33059,
@@ -13569,14 +13585,6 @@
       "onboard_time": 1769950401,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 32737,
-      "num": 43037,
-      "word": "周柯宇陈妍希互拍",
-      "onboard_time": 1770313458,
-      "rank": 45,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 32669,
@@ -13632,14 +13640,6 @@
       "word": "高叶出发图向上气场全开",
       "onboard_time": 1770300328,
       "rank": 17,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 31489,
-      "num": 43002,
-      "word": "李宇春冬泳压轴舞台",
-      "onboard_time": 1770311718,
-      "rank": 46,
       "category": "作品衍生"
     },
     {
@@ -14083,6 +14083,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 22363,
+      "num": 149119,
+      "word": "苏翊鸣第10位出场",
+      "onboard_time": 1770312738,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 22045,
       "num": 640342,
       "word": "马力全开共赴山海",
@@ -14155,6 +14163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 21203,
+      "num": 51765,
+      "word": "澳男子涉嫌虐待459名儿童",
+      "onboard_time": 1770314657,
+      "rank": 49,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 21110,
       "num": 439406,
       "word": "米兰冬奥会首日赛程",
@@ -14203,14 +14219,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 20869,
-      "num": 149119,
-      "word": "苏翊鸣第10位出场",
-      "onboard_time": 1770312738,
-      "rank": 4,
-      "category": "体育"
-    },
-    {
       "raw_hot": 20477,
       "num": 235204,
       "word": "骗保精神病医院此前曾为建设工程公司",
@@ -14225,6 +14233,14 @@
       "onboard_time": 1769869042,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20326,
+      "num": 51767,
+      "word": "谷爱凌冬奥村晒朋友送的特别礼物",
+      "onboard_time": 1770311359,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 20275,
@@ -14249,6 +14265,14 @@
       "onboard_time": 1770262821,
       "rank": 30,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 19862,
+      "num": 319565,
+      "word": "中国队米兰冬奥首秀",
+      "onboard_time": 1770311660,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 19328,
@@ -14321,14 +14345,6 @@
       "onboard_time": 1770281306,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 18537,
-      "num": 319565,
-      "word": "中国队米兰冬奥首秀",
-      "onboard_time": 1770311660,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 18168,
@@ -14760,6 +14776,14 @@
       "word": "2岁女童误喝强酸进ICU妈妈又患癌",
       "onboard_time": 1770192021,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 7937,
+      "num": 188591,
+      "word": "来华过大年成全球新风尚",
+      "onboard_time": 1770301528,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
