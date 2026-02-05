@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1770292673120,
+  "endTime": 1770297490838,
   "band_list": [
     {
       "raw_hot": 10390810,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 2124362,
-      "num": 636995,
+      "num": 920540,
       "word": "萝莉岛幸存者曾每天被侵犯3次",
       "onboard_time": 1770268163,
       "rank": 10,
@@ -145,6 +145,14 @@
       "onboard_time": 1770102981,
       "rank": 43,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1710695,
+      "num": 1123876,
+      "word": "杨幂身子斜的都快躺那了",
+      "onboard_time": 1770297029,
+      "rank": 5,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1708257,
@@ -387,12 +395,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1117850,
+      "num": 1117850,
+      "word": "圣罗兰认领肖战",
+      "onboard_time": 1770293967,
+      "rank": 6,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1114464,
       "num": 195424,
       "word": "爱泼斯坦案穿水手服跪地女孩未成年",
       "onboard_time": 1770122902,
       "rank": 47,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1113828,
+      "num": 1113828,
+      "word": "王一博路过之处没人敢吱声",
+      "onboard_time": 1770294929,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1091985,
@@ -523,6 +547,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 946842,
+      "num": 946842,
+      "word": "张天爱生病",
+      "onboard_time": 1770295706,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 942834,
       "num": 1150853,
       "word": "微博之夜第七波阵容",
@@ -548,7 +580,7 @@
     },
     {
       "raw_hot": 892003,
-      "num": 892003,
+      "num": 937113,
       "word": "小洛熙事件为一级甲等医疗事故",
       "onboard_time": 1770278004,
       "rank": 3,
@@ -827,6 +859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 778776,
+      "num": 778776,
+      "word": "陈妍希一提藏海传全场炸了",
+      "onboard_time": 1770296369,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 772830,
       "num": 326105,
       "word": "爱泼斯坦用奖学金诱骗未成年女孩",
@@ -905,6 +945,14 @@
       "onboard_time": 1770017781,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 716305,
+      "num": 1006268,
+      "word": "豆瓣崩了",
+      "onboard_time": 1770295466,
+      "rank": 11,
+      "category": "互联网"
     },
     {
       "raw_hot": 715551,
@@ -1459,6 +1507,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 526981,
+      "num": 1113907,
+      "word": "微博之夜奖项",
+      "onboard_time": 1770294748,
+      "rank": 9,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 524648,
       "num": 436252,
       "word": "周扬青 整过容你以为别人看不出来呀",
@@ -1593,6 +1649,14 @@
       "onboard_time": 1770175580,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 494869,
+      "num": 494869,
+      "word": "陈妍希发言导播切了周柯宇",
+      "onboard_time": 1770294628,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 493926,
@@ -2187,6 +2251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 404023,
+      "num": 404023,
+      "word": "微博之夜主持人",
+      "onboard_time": 1770292286,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 402487,
       "num": 613191,
       "word": "井胧自曝录创造营感觉太差了",
@@ -2361,6 +2433,14 @@
       "onboard_time": 1769942662,
       "rank": 33,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 377283,
+      "num": 351948,
+      "word": "时代少年团红毯",
+      "onboard_time": 1770288084,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 374853,
@@ -2579,6 +2659,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 347093,
+      "num": 347093,
+      "word": "唐宫奇案首播口碑",
+      "onboard_time": 1770296968,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 346709,
       "num": 190303,
       "word": "元宝",
@@ -2627,6 +2715,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 342691,
+      "num": 342691,
+      "word": "刘宇宁好听",
+      "onboard_time": 1770296427,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 342506,
       "num": 342506,
       "word": "领导疯狂劝酒员工喝完口吐鲜血",
@@ -2657,6 +2753,14 @@
       "onboard_time": 1769994921,
       "rank": 4,
       "category": "演出"
+    },
+    {
+      "raw_hot": 339973,
+      "num": 339973,
+      "word": "关晓彤鞋跟卡台上了",
+      "onboard_time": 1770292405,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 338795,
@@ -2777,6 +2881,14 @@
       "onboard_time": 1770090920,
       "rank": 8,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 331419,
+      "num": 331419,
+      "word": "孟子义周也到底在聊什么",
+      "onboard_time": 1770292884,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 331341,
@@ -2921,6 +3033,14 @@
       "onboard_time": 1770274823,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 320585,
+      "num": 1157776,
+      "word": "周生生涉事挂坠送检结果为足金",
+      "onboard_time": 1770296007,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 319598,
@@ -3112,6 +3232,14 @@
       "word": "杨紫感谢马思纯",
       "onboard_time": 1770106100,
       "rank": 3,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 303148,
+      "num": 303148,
+      "word": "白鹿开播发文",
+      "onboard_time": 1770295948,
+      "rank": 45,
       "category": "剧集"
     },
     {
@@ -3419,14 +3547,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 276361,
-      "num": 276361,
-      "word": "微博之夜主持人",
-      "onboard_time": 1770292286,
-      "rank": 31,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 275640,
       "num": 208153,
       "word": "李兰迪粉色蓬蓬裙",
@@ -3441,6 +3561,14 @@
       "onboard_time": 1770026243,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 273157,
+      "num": 273157,
+      "word": "张凌赫转戒指 苏晕了",
+      "onboard_time": 1770292105,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 272913,
@@ -3827,6 +3955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 243313,
+      "num": 596968,
+      "word": "江西一烧烤店老板与人冲突时死亡",
+      "onboard_time": 1770290726,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 243067,
       "num": 243067,
       "word": "成何体统定档",
@@ -3995,14 +4131,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 236470,
-      "num": 438325,
-      "word": "江西一烧烤店老板与人冲突时死亡",
-      "onboard_time": 1770290726,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 235656,
       "num": 235656,
       "word": "2026网络视听盛典阵容官宣",
@@ -4033,14 +4161,6 @@
       "onboard_time": 1770193823,
       "rank": 21,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 234040,
-      "num": 234040,
-      "word": "时代少年团红毯",
-      "onboard_time": 1770288084,
-      "rank": 45,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 233980,
@@ -4081,14 +4201,6 @@
       "onboard_time": 1770176841,
       "rank": 13,
       "category": "数码"
-    },
-    {
-      "raw_hot": 231202,
-      "num": 231202,
-      "word": "张凌赫转戒指 苏晕了",
-      "onboard_time": 1770292105,
-      "rank": 41,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 231155,
@@ -4321,14 +4433,6 @@
       "onboard_time": 1770203120,
       "rank": 3,
       "category": "民生新闻,汽车"
-    },
-    {
-      "raw_hot": 221419,
-      "num": 221419,
-      "word": "关晓彤鞋跟卡台上了",
-      "onboard_time": 1770292405,
-      "rank": 42,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 220220,
@@ -4923,6 +5027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 183756,
+      "num": 406783,
+      "word": "狗狗为了上床睡和主人耍起了心眼",
+      "onboard_time": 1770291385,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 183084,
       "num": 338704,
       "word": "白银急挫",
@@ -5179,6 +5291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 172714,
+      "num": 343385,
+      "word": "男子向盲人借5万送面锦旗后失联",
+      "onboard_time": 1770294087,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 172685,
       "num": 172685,
       "word": "ELLE3月刊迪丽热巴开季封面预告",
@@ -5281,6 +5401,14 @@
       "onboard_time": 1769924179,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 167696,
+      "num": 930959,
+      "word": "黄镇廷3比1张本智和",
+      "onboard_time": 1770296607,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 167260,
@@ -5915,6 +6043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 143639,
+      "num": 331690,
+      "word": "宋威龙 哇哦",
+      "onboard_time": 1770296247,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 143460,
       "num": 100682,
       "word": "被烧死萨摩耶狗主拒6000元私了",
@@ -6457,14 +6593,6 @@
       "onboard_time": 1769952862,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 130851,
-      "num": 172113,
-      "word": "狗狗为了上床睡和主人耍起了心眼",
-      "onboard_time": 1770291385,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 130626,
@@ -7347,12 +7475,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 116253,
+      "num": 508924,
+      "word": "小车起火救3人男子承担事故主要责任",
+      "onboard_time": 1770295349,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115983,
       "num": 115983,
       "word": "镖人",
       "onboard_time": 1770030803,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 115748,
+      "num": 341026,
+      "word": "马龙林高远同框",
+      "onboard_time": 1770293005,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 115190,
@@ -7451,6 +7595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 113815,
+      "num": 335609,
+      "word": "卫健委回应湖北部分精神病院问题",
+      "onboard_time": 1770295349,
+      "rank": 41,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 113809,
       "num": 113809,
       "word": "陈妍希周柯宇唱早安晚安",
@@ -7497,6 +7649,14 @@
       "onboard_time": 1769958802,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 113328,
+      "num": 304483,
+      "word": "美团拟7.17亿美元收购叮咚",
+      "onboard_time": 1770288925,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 113242,
@@ -7881,6 +8041,14 @@
       "onboard_time": 1770029781,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 107762,
+      "num": 249471,
+      "word": "恋与深空获微博年度人气IP",
+      "onboard_time": 1770295948,
+      "rank": 48,
+      "category": "游戏,作品衍生"
     },
     {
       "raw_hot": 107517,
@@ -8761,14 +8929,6 @@
       "onboard_time": 1770084740,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 97806,
-      "num": 182887,
-      "word": "美团拟7.17亿美元收购叮咚",
-      "onboard_time": 1770288925,
-      "rank": 49,
-      "category": "互联网"
     },
     {
       "raw_hot": 97767,
@@ -12507,6 +12667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 39765,
+      "num": 916809,
+      "word": "Mate80微博之夜超绝慢动作",
+      "onboard_time": 1770294869,
+      "rank": 17,
+      "category": "数码,作品衍生"
+    },
+    {
       "raw_hot": 39756,
       "num": 757461,
       "word": "我国已实现3亿人参与冰雪运动目标",
@@ -12553,6 +12721,14 @@
       "onboard_time": 1770161778,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 38667,
+      "num": 906220,
+      "word": "微博之夜明星淘个非遗大片",
+      "onboard_time": 1770293304,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 38665,
@@ -13033,6 +13209,14 @@
       "onboard_time": 1770015860,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29496,
+      "num": 496211,
+      "word": "时代少年团红毯妆造",
+      "onboard_time": 1770296607,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 29306,
@@ -13912,6 +14096,14 @@
       "word": "医学研究生正在涌入社区医院",
       "onboard_time": 1770044544,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13386,
+      "num": 897483,
+      "word": "获180万拆迁款变勒索案将宣判",
+      "onboard_time": 1770297029,
+      "rank": 19,
       "category": "民生新闻"
     },
     {

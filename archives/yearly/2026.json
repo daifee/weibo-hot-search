@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1770292673120,
+  "endTime": 1770297490838,
   "band_list": [
     {
       "raw_hot": 22742360,
@@ -588,7 +588,7 @@
     },
     {
       "raw_hot": 2124362,
-      "num": 636995,
+      "num": 920540,
       "word": "萝莉岛幸存者曾每天被侵犯3次",
       "onboard_time": 1770268163,
       "rank": 10,
@@ -857,6 +857,14 @@
       "onboard_time": 1770102981,
       "rank": 43,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1710695,
+      "num": 1123876,
+      "word": "杨幂身子斜的都快躺那了",
+      "onboard_time": 1770297029,
+      "rank": 5,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1708257,
@@ -1995,6 +2003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1117850,
+      "num": 1117850,
+      "word": "圣罗兰认领肖战",
+      "onboard_time": 1770293967,
+      "rank": 6,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1117646,
       "num": 239507,
       "word": "何健麒公开无犯罪记录证明",
@@ -2009,6 +2025,14 @@
       "onboard_time": 1770122902,
       "rank": 47,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1113828,
+      "num": 1113828,
+      "word": "王一博路过之处没人敢吱声",
+      "onboard_time": 1770294929,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1108458,
@@ -2377,30 +2401,6 @@
       "onboard_time": 1768798763,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1036333,
-      "num": 656460,
-      "word": "猝死程序员工位上有三块屏幕",
-      "onboard_time": 1769052740,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1034811,
-      "num": 679218,
-      "word": "海底捞小便当事人登报道歉",
-      "onboard_time": 1767841700,
-      "rank": 3,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1030323,
-      "num": 229458,
-      "word": "死了么APP宣布改名",
-      "onboard_time": 1768315822,
-      "rank": 17,
-      "category": "互联网"
     }
   ],
   "hotgov_list": [
