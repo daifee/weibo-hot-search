@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1770289823920,
+  "endTime": 1770291732559,
   "band_list": [
     {
       "raw_hot": 22742360,
@@ -1499,6 +1499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1257903,
+      "num": 1257903,
+      "word": "哇塞居然是脏话",
+      "onboard_time": 1770287846,
+      "rank": 7,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1254738,
       "num": 1254738,
       "word": "立春",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1768315822,
       "rank": 17,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 1029154,
-      "num": 285877,
-      "word": "马杜罗身边内鬼详情曝光",
-      "onboard_time": 1767495020,
-      "rank": 10,
-      "category": "国际时政"
     }
   ],
   "hotgov_list": [
