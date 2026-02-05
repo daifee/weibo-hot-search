@@ -1,0 +1,410 @@
+{
+  "runTime": 1770286187142,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8388985,
+        "num": 8388985,
+        "word": "王一博 中山装",
+        "onboard_time": 1770278785,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 7880843,
+        "num": 7880843,
+        "word": "微博之夜内场",
+        "onboard_time": 1770284365,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 53254,
+        "num": 4682804,
+        "word": "中国战机帅气溢出屏幕",
+        "onboard_time": 1770283106,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 280078,
+        "num": 4318689,
+        "word": "王者荣耀小马糕",
+        "onboard_time": 1770263181,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 264467,
+        "num": 3743308,
+        "word": "电诈园区打人皮开肉绽再浇辣椒水",
+        "onboard_time": 1770279568,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 6946246,
+        "num": 6946246,
+        "word": "肖战 害羞笑",
+        "onboard_time": 1770282566,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 2953655,
+        "num": 2953655,
+        "word": "杨紫 大花气质",
+        "onboard_time": 1770281066,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 214155,
+        "num": 2441956,
+        "word": "三星长公主之子被首尔大学经济系录取",
+        "onboard_time": 1770281245,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 68574,
+        "num": 2261742,
+        "word": "宁波女婴术后离世调查处置情况",
+        "onboard_time": 1770278125,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 513257,
+        "num": 2227334,
+        "word": "小洛熙妈妈称公安机关已立案侦查",
+        "onboard_time": 1770282387,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2210126,
+        "num": 2210126,
+        "word": "微博之夜 真婚礼",
+        "onboard_time": 1770269963,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 2143133,
+        "num": 2143133,
+        "word": "小洛熙事件最新通报",
+        "onboard_time": 1770276924,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1762687,
+        "num": 1762687,
+        "word": "杨幂 红唇天才",
+        "onboard_time": 1770283708,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1369687,
+        "num": 1369687,
+        "word": "YSL 撞衫",
+        "onboard_time": 1770281066,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 702374,
+        "num": 702374,
+        "word": "小洛熙事件为一级甲等医疗事故",
+        "onboard_time": 1770278004,
+        "rank": 14,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 642283,
+        "num": 642283,
+        "word": "白鹿红毯飞吻",
+        "onboard_time": 1770281546,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 398806,
+        "num": 636995,
+        "word": "萝莉岛幸存者曾每天被侵犯3次",
+        "onboard_time": 1770268163,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 185835,
+        "num": 611548,
+        "word": "桂花一年被骗8次开花",
+        "onboard_time": 1770283587,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 153739,
+        "num": 590374,
+        "word": "网友遇流浪奶奶被侵犯得病",
+        "onboard_time": 1770268344,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 268722,
+        "num": 563507,
+        "word": "外网怀疑爱泼斯坦被掉包",
+        "onboard_time": 1770281128,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 560403,
+        "num": 560403,
+        "word": "陈妍希周柯宇牵手",
+        "onboard_time": 1770276504,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 515726,
+        "num": 515726,
+        "word": "微博之夜红毯",
+        "onboard_time": 1770266423,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 92843,
+        "num": 477779,
+        "word": "宁波妇儿医院院长被免职",
+        "onboard_time": 1770279804,
+        "rank": 22,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 475759,
+        "num": 475759,
+        "word": "关晓彤的妆造正确",
+        "onboard_time": 1770284068,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 93375,
+        "num": 440872,
+        "word": "多地将有大到暴雪",
+        "onboard_time": 1770285147,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 425088,
+        "num": 425088,
+        "word": "微博之夜出图",
+        "onboard_time": 1770256878,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 344305,
+        "num": 344305,
+        "word": "娜扎 人间维纳斯",
+        "onboard_time": 1770275183,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 205073,
+        "num": 322140,
+        "word": "黄金突然下跌",
+        "onboard_time": 1770269063,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 114816,
+        "num": 309813,
+        "word": "商场称已联系上停8101小时宝马车主",
+        "onboard_time": 1770279026,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 308807,
+        "num": 308807,
+        "word": "时代少年团的礼物是路由器",
+        "onboard_time": 1770284727,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 306319,
+        "num": 306319,
+        "word": "肖战霸榜世趋",
+        "onboard_time": 1770285626,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 174222,
+        "num": 305569,
+        "word": "多地漫展禁止cos名侦探柯南角色",
+        "onboard_time": 1770284965,
+        "rank": 31,
+        "category": "民生新闻,动漫"
+      },
+      {
+        "raw_hot": 305099,
+        "num": 305099,
+        "word": "于文文 活着真好",
+        "onboard_time": 1770282028,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 303294,
+        "num": 303294,
+        "word": "宋威龙文淇 史密斯夫妇",
+        "onboard_time": 1770279627,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 5807,
+        "num": 254384,
+        "word": "梦龙巡演一次性官宣三站",
+        "onboard_time": 1770286105,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 151911,
+        "num": 252777,
+        "word": "取消中高考是早晚的事",
+        "onboard_time": 1770248058,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 252387,
+        "num": 252387,
+        "word": "易烊千玺回应缺席",
+        "onboard_time": 1770280347,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252359,
+        "num": 252359,
+        "word": "张艺凡让时代少年团参见公主",
+        "onboard_time": 1770282506,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 145809,
+        "num": 239959,
+        "word": "就说00后适合当老师吧",
+        "onboard_time": 1770285267,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 86067,
+        "num": 233999,
+        "word": "肖杰被查",
+        "onboard_time": 1770285864,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 232502,
+        "num": 232502,
+        "word": "卢昱晓牵着陈芋汐转圈",
+        "onboard_time": 1770280225,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 119841,
+        "num": 229087,
+        "word": "爸爸说一万遍不如妈妈说一遍",
+        "onboard_time": 1770283287,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 227247,
+        "num": 227247,
+        "word": "朱志鑫回应没站稳",
+        "onboard_time": 1770279685,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 185825,
+        "num": 185825,
+        "word": "惊蛰无声剧组压轴",
+        "onboard_time": 1770285984,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 97313,
+        "num": 182290,
+        "word": "无畏皮衣酷guy",
+        "onboard_time": 1770284787,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 179700,
+        "num": 179700,
+        "word": "刘耀文走了3次红毯",
+        "onboard_time": 1770285984,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 91007,
+        "num": 178671,
+        "word": "刘小怂超话",
+        "onboard_time": 1770283047,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 81544,
+        "num": 178072,
+        "word": "泰国军方曝光电诈园区",
+        "onboard_time": 1770282506,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 81299,
+        "num": 176432,
+        "word": "王者荣耀",
+        "onboard_time": 1770267082,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 75661,
+        "num": 175576,
+        "word": "国投白银LOF四连跌停了",
+        "onboard_time": 1770284787,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#中俄元首再话立春#"
+    }
+  }
+}
