@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1770267956450,
+  "endTime": 1770271342855,
   "band_list": [
     {
       "raw_hot": 8698031,
@@ -57,6 +57,14 @@
       "onboard_time": 1770248058,
       "rank": 16,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1990295,
+      "num": 239562,
+      "word": "萝莉岛幸存者曾每天被侵犯3次",
+      "onboard_time": 1770268163,
+      "rank": 10,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1809688,
@@ -129,6 +137,14 @@
       "onboard_time": 1769952201,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1347828,
+      "num": 872508,
+      "word": "微博之夜 真婚礼",
+      "onboard_time": 1770269963,
+      "rank": 3,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1340322,
@@ -225,6 +241,14 @@
       "onboard_time": 1769988918,
       "rank": 1,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1162225,
+      "num": 462885,
+      "word": "王一博 大明星回内娱",
+      "onboard_time": 1770267263,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1156645,
@@ -483,6 +507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 854457,
+      "num": 239458,
+      "word": "张凌赫蛇蝎美男",
+      "onboard_time": 1770269782,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 851509,
       "num": 400676,
       "word": "夫妻网购娃娃菜吃中毒系合谋下毒",
@@ -683,6 +715,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 732864,
+      "num": 239141,
+      "word": "章若楠 腮红",
+      "onboard_time": 1770268702,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 727905,
       "num": 683822,
       "word": "打金店1个月垃圾扫出金粉值200万",
@@ -817,6 +857,14 @@
       "onboard_time": 1769988378,
       "rank": 13,
       "category": "财经"
+    },
+    {
+      "raw_hot": 674797,
+      "num": 239213,
+      "word": "网友遇流浪奶奶被侵犯得病",
+      "onboard_time": 1770268344,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 670304,
@@ -961,6 +1009,14 @@
       "onboard_time": 1770110420,
       "rank": 4,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 599969,
+      "num": 1555526,
+      "word": "孩子1.7万私卖22克金镯妈妈发声",
+      "onboard_time": 1770269003,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 598816,
@@ -1241,6 +1297,14 @@
       "onboard_time": 1770169698,
       "rank": 3,
       "category": "财经"
+    },
+    {
+      "raw_hot": 517860,
+      "num": 278916,
+      "word": "周也 油画神女",
+      "onboard_time": 1770266662,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 512993,
@@ -1571,6 +1635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 451471,
+      "num": 238865,
+      "word": "曝爱泼斯坦想在沙漠建婴儿制造工厂",
+      "onboard_time": 1770267444,
+      "rank": 33,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 450164,
       "num": 450164,
       "word": "朴彩英火星哥格莱美开场",
@@ -1849,14 +1921,6 @@
       "onboard_time": 1769933001,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 402448,
-      "num": 279791,
-      "word": "王一博 大明星回内娱",
-      "onboard_time": 1770267263,
-      "rank": 46,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 399740,
@@ -2435,14 +2499,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 328546,
-      "num": 278916,
-      "word": "周也 油画神女",
-      "onboard_time": 1770266662,
-      "rank": 34,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 328264,
       "num": 813145,
       "word": "爱泼斯坦别墅挂满与知名友人合影",
@@ -2681,6 +2737,14 @@
       "onboard_time": 1770258679,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 304890,
+      "num": 312259,
+      "word": "男子住40层因每天等电梯20分钟卖房",
+      "onboard_time": 1770267082,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 303811,
@@ -3331,6 +3395,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 240681,
+      "num": 238063,
+      "word": "黄金突然下跌",
+      "onboard_time": 1770269063,
+      "rank": 25,
+      "category": "财经"
+    },
+    {
       "raw_hot": 240428,
       "num": 240428,
       "word": "身体上的任何一块皮肤都比脸要好",
@@ -3707,6 +3779,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 221943,
+      "num": 221943,
+      "word": "陈妍希完全水蜜桃",
+      "onboard_time": 1770267863,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 221498,
       "num": 221498,
       "word": "小米通报辽宁营口起火事件",
@@ -3761,6 +3841,14 @@
       "onboard_time": 1769920100,
       "rank": 7,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 213244,
+      "num": 201795,
+      "word": "爱泼斯坦案视频中女孩光腿跳舞",
+      "onboard_time": 1770269842,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 212343,
@@ -4043,6 +4131,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 193341,
+      "num": 184910,
+      "word": "化妆师坐张艺凡腿上补妆",
+      "onboard_time": 1770270562,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 192838,
       "num": 189770,
       "word": "宋茜说韩语梦回维多利亚",
@@ -4171,14 +4267,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 186283,
-      "num": 186283,
-      "word": "曝爱泼斯坦想在沙漠建婴儿制造工厂",
-      "onboard_time": 1770267444,
-      "rank": 33,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 185719,
       "num": 185719,
       "word": "吴世勋 马上见",
@@ -4273,14 +4361,6 @@
       "onboard_time": 1770045561,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 180913,
-      "num": 180913,
-      "word": "陈妍希完全水蜜桃",
-      "onboard_time": 1770267863,
-      "rank": 35,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 180688,
@@ -4489,14 +4569,6 @@
       "onboard_time": 1770125181,
       "rank": 24,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 170541,
-      "num": 312259,
-      "word": "男子住40层因每天等电梯20分钟卖房",
-      "onboard_time": 1770267082,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 169399,
@@ -4811,6 +4883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 152685,
+      "num": 152685,
+      "word": "何炅从42岁拍到52岁",
+      "onboard_time": 1770268463,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 152232,
       "num": 152232,
       "word": "金银再度回落",
@@ -4977,6 +5057,14 @@
       "onboard_time": 1770172519,
       "rank": 48,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 148278,
+      "num": 148278,
+      "word": "短剧放羊的星星选角",
+      "onboard_time": 1770270324,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 148244,
@@ -5211,6 +5299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 141212,
+      "num": 141212,
+      "word": "ELLE3月刊迪丽热巴开季封面预告",
+      "onboard_time": 1770271163,
+      "rank": 41,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 141111,
       "num": 141111,
       "word": "任宥纶情商",
@@ -5281,6 +5377,14 @@
       "onboard_time": 1770213563,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 139952,
+      "num": 238659,
+      "word": "A股市场迎来调整",
+      "onboard_time": 1770270925,
+      "rank": 19,
+      "category": "财经"
     },
     {
       "raw_hot": 139398,
@@ -5593,6 +5697,14 @@
       "onboard_time": 1770030020,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 131151,
+      "num": 201975,
+      "word": "勇士老鹰交易",
+      "onboard_time": 1770268224,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 131108,
@@ -5939,6 +6051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123360,
+      "num": 123360,
+      "word": "李兰迪粉色蓬蓬裙",
+      "onboard_time": 1770271163,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 123353,
       "num": 123353,
       "word": "静音车厢不是只让乘客静音",
@@ -6065,6 +6185,14 @@
       "onboard_time": 1770009022,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 121671,
+      "num": 150149,
+      "word": "白鹿回应唐宫奇案热度6500",
+      "onboard_time": 1770270684,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 121464,
@@ -6249,6 +6377,14 @@
       "onboard_time": 1770087379,
       "rank": 32,
       "category": "财经"
+    },
+    {
+      "raw_hot": 119118,
+      "num": 119118,
+      "word": "蓝盈莹 带辉的都克她",
+      "onboard_time": 1770268344,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 119042,
@@ -6457,6 +6593,14 @@
       "onboard_time": 1770210080,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 115097,
+      "num": 115097,
+      "word": "公考围岗令人震惊必须打击",
+      "onboard_time": 1770270802,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 115019,
@@ -7377,6 +7521,14 @@
       "onboard_time": 1770204561,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 102760,
+      "num": 102760,
+      "word": "一奶茶店标注三类人不买引争议",
+      "onboard_time": 1770268763,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 102654,
@@ -12081,6 +12233,14 @@
       "onboard_time": 1770018261,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 26118,
+      "num": 149160,
+      "word": "外卖补贴咖啡补贴大退潮",
+      "onboard_time": 1770270143,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25854,
