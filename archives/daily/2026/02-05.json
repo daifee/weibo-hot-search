@@ -1,6 +1,6 @@
 {
   "startTime": 1770221309024,
-  "endTime": 1770272211357,
+  "endTime": 1770275707646,
   "band_list": [
     {
       "raw_hot": 8698031,
@@ -51,8 +51,8 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 1239853,
-      "num": 506560,
+      "raw_hot": 1312901,
+      "num": 1312901,
       "word": "王一博 大明星回内娱",
       "onboard_time": 1770267263,
       "rank": 46,
@@ -81,6 +81,30 @@
       "onboard_time": 1770263181,
       "rank": 4,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 814037,
+      "num": 495091,
+      "word": "热巴脸链",
+      "onboard_time": 1770271523,
+      "rank": 16,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 796943,
+      "num": 331444,
+      "word": "化妆师坐张艺凡腿上补妆",
+      "onboard_time": 1770270562,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 781684,
+      "num": 207555,
+      "word": "汪苏泷陈哲远撞衫",
+      "onboard_time": 1770272303,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 772830,
@@ -123,20 +147,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 681509,
+      "num": 1555526,
+      "word": "孩子1.7万私卖22克金镯妈妈发声",
+      "onboard_time": 1770269003,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 679797,
       "num": 1051284,
       "word": "微博之夜节目单",
       "onboard_time": 1770210501,
       "rank": 0,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 658355,
-      "num": 1555526,
-      "word": "孩子1.7万私卖22克金镯妈妈发声",
-      "onboard_time": 1770269003,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 654439,
@@ -153,14 +177,6 @@
       "onboard_time": 1770212001,
       "rank": 1,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 624953,
-      "num": 495091,
-      "word": "热巴脸链",
-      "onboard_time": 1770271523,
-      "rank": 16,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 579406,
@@ -195,6 +211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 533320,
+      "num": 165211,
+      "word": "章若楠被裙子绊倒",
+      "onboard_time": 1770274642,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 531748,
       "num": 531748,
       "word": "谢娜宣布明年开演唱会",
@@ -209,6 +233,14 @@
       "onboard_time": 1770217282,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 521423,
+      "num": 216447,
+      "word": "爱泼斯坦案视频中女孩光腿跳舞",
+      "onboard_time": 1770269842,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 517860,
@@ -331,6 +363,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 338795,
+      "num": 505471,
+      "word": "男子住40层因每天等电梯20分钟卖房",
+      "onboard_time": 1770267082,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 338366,
       "num": 267600,
       "word": "9个姑姑参加大侄婚礼排成长龙",
@@ -363,20 +403,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 309995,
-      "num": 267345,
-      "word": "化妆师坐张艺凡腿上补妆",
-      "onboard_time": 1770270562,
-      "rank": 34,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 309489,
-      "num": 505471,
-      "word": "男子住40层因每天等电梯20分钟卖房",
-      "onboard_time": 1770267082,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 310873,
+      "num": 356033,
+      "word": "黄金突然下跌",
+      "onboard_time": 1770269063,
+      "rank": 25,
+      "category": "财经"
     },
     {
       "raw_hot": 305876,
@@ -385,14 +417,6 @@
       "onboard_time": 1770258679,
       "rank": 39,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 305774,
-      "num": 356033,
-      "word": "黄金突然下跌",
-      "onboard_time": 1770269063,
-      "rank": 25,
-      "category": "财经"
     },
     {
       "raw_hot": 301620,
@@ -411,6 +435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 296586,
+      "num": 296586,
+      "word": "娃娃菜中毒夫妻公司以二人名字命名",
+      "onboard_time": 1770272005,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 290361,
       "num": 373545,
       "word": "王楚钦怒斥不文明观赛观众",
@@ -419,12 +451,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 272808,
-      "num": 216447,
-      "word": "爱泼斯坦案视频中女孩光腿跳舞",
-      "onboard_time": 1770269842,
-      "rank": 30,
-      "category": "海外新闻"
+      "raw_hot": 275640,
+      "num": 181225,
+      "word": "李兰迪粉色蓬蓬裙",
+      "onboard_time": 1770271163,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 272407,
@@ -443,12 +475,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 270534,
+      "num": 148578,
+      "word": "娜扎 人间维纳斯",
+      "onboard_time": 1770275183,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 268994,
+      "num": 503495,
+      "word": "A股市场迎来调整",
+      "onboard_time": 1770270925,
+      "rank": 19,
+      "category": "财经"
+    },
+    {
       "raw_hot": 263832,
       "num": 263832,
       "word": "貂蝉年限 美神",
       "onboard_time": 1770208700,
       "rank": 8,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 263574,
+      "num": 263574,
+      "word": "江浙沪皖将迎今年最大雨雪",
+      "onboard_time": 1770272663,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 263220,
@@ -464,6 +520,14 @@
       "word": "李一桐老娘与海",
       "onboard_time": 1770265462,
       "rank": 31,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 256557,
+      "num": 143427,
+      "word": "敖瑞鹏大背头",
+      "onboard_time": 1770274823,
+      "rank": 34,
       "category": "作品衍生"
     },
     {
@@ -513,6 +577,14 @@
       "onboard_time": 1770254839,
       "rank": 7,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 237922,
+      "num": 141803,
+      "word": "恋综嘉宾约会两次就热吻",
+      "onboard_time": 1770273022,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 237427,
@@ -595,6 +667,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 196493,
+      "num": 145367,
+      "word": "爱泼斯坦案证实吸血鬼舞会存在",
+      "onboard_time": 1770272064,
+      "rank": 46,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 196001,
       "num": 251548,
       "word": "爱泼斯坦",
@@ -635,14 +715,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 181225,
-      "num": 181225,
-      "word": "李兰迪粉色蓬蓬裙",
-      "onboard_time": 1770271163,
-      "rank": 44,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 180161,
       "num": 203519,
       "word": "娃娃菜夫妻刀口舔血自吞苦果",
@@ -657,14 +729,6 @@
       "onboard_time": 1770221361,
       "rank": 18,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 174637,
-      "num": 503495,
-      "word": "A股市场迎来调整",
-      "onboard_time": 1770270925,
-      "rank": 19,
-      "category": "财经"
     },
     {
       "raw_hot": 172685,
@@ -713,6 +777,22 @@
       "onboard_time": 1770215303,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 160360,
+      "num": 134363,
+      "word": "赵晴 大花年幼体",
+      "onboard_time": 1770275423,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 158114,
+      "num": 133568,
+      "word": "周也 你藏的好深",
+      "onboard_time": 1770274582,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 153811,
@@ -851,6 +931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 134228,
+      "num": 134228,
+      "word": "家里最没用的把最有用的吃了",
+      "onboard_time": 1770275243,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 132815,
       "num": 165018,
       "word": "起猛了在支付宝集福玩原神",
@@ -891,20 +979,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 125950,
+      "num": 122647,
+      "word": "王赫野 五月天太好了但不给版权",
+      "onboard_time": 1770273443,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 123417,
       "num": 123417,
       "word": "王艺迪1比3长崎美柚",
       "onboard_time": 1770267925,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 122943,
-      "num": 122943,
-      "word": "爱泼斯坦案证实吸血鬼舞会存在",
-      "onboard_time": 1770272064,
-      "rank": 46,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 121671,
@@ -939,12 +1027,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 116744,
-      "num": 116744,
-      "word": "娃娃菜中毒夫妻公司以二人名字命名",
-      "onboard_time": 1770272005,
+      "raw_hot": 116803,
+      "num": 116803,
+      "word": "景甜肩颈线条",
+      "onboard_time": 1770275423,
       "rank": 47,
-      "category": "民生新闻"
+      "category": "作品衍生"
     },
     {
       "raw_hot": 115274,
@@ -961,6 +1049,14 @@
       "onboard_time": 1770255980,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 114375,
+      "num": 114375,
+      "word": "1个月扫出1700克金粉店铺否认偷金",
+      "onboard_time": 1770275063,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112861,
@@ -1025,6 +1121,14 @@
       "onboard_time": 1770257600,
       "rank": 30,
       "category": "财经"
+    },
+    {
+      "raw_hot": 105360,
+      "num": 111773,
+      "word": "一代人有一代人的追剧方式",
+      "onboard_time": 1770273443,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 103045,
@@ -1099,12 +1203,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 96463,
+      "num": 154449,
+      "word": "大陆和台湾不存在所谓国籍问题",
+      "onboard_time": 1770272842,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 93806,
       "num": 93806,
       "word": "特朗普乐见中国成功",
       "onboard_time": 1770257300,
       "rank": 36,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 92378,
+      "num": 137541,
+      "word": "阿姨回应子宫等脏器脱垂用布带兜住",
+      "onboard_time": 1770275003,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 91204,
@@ -1763,7 +1883,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 4410,
+      "raw_hot": 4489,
       "num": 1412992,
       "word": "2026年新春走基层",
       "onboard_time": 1770093801,
