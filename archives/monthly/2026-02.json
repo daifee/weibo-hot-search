@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1770297490838,
+  "endTime": 1770299126564,
   "band_list": [
     {
       "raw_hot": 10390810,
@@ -59,12 +59,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 3574116,
+      "num": 3574116,
+      "word": "肖战第二套",
+      "onboard_time": 1770297868,
+      "rank": 1,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 3389142,
       "num": 583485,
       "word": "爱泼斯坦 吃人",
       "onboard_time": 1769996779,
       "rank": 10,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 2744239,
+      "num": 1123876,
+      "word": "杨幂身子斜的都快躺那了",
+      "onboard_time": 1770297029,
+      "rank": 5,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 2608306,
@@ -145,14 +161,6 @@
       "onboard_time": 1770102981,
       "rank": 43,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 1710695,
-      "num": 1123876,
-      "word": "杨幂身子斜的都快躺那了",
-      "onboard_time": 1770297029,
-      "rank": 5,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1708257,
@@ -859,6 +867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 779142,
+      "num": 779142,
+      "word": "王一博靛蓝牛仔西装",
+      "onboard_time": 1770297988,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 778776,
       "num": 778776,
       "word": "陈妍希一提藏海传全场炸了",
@@ -921,6 +937,14 @@
       "onboard_time": 1769930479,
       "rank": 3,
       "category": "演出"
+    },
+    {
+      "raw_hot": 730071,
+      "num": 730071,
+      "word": "娜扎下台摔倒",
+      "onboard_time": 1770298529,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 727905,
@@ -1241,6 +1265,14 @@
       "onboard_time": 1770110420,
       "rank": 4,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 601415,
+      "num": 601415,
+      "word": "马嘉祺 对不起李飞",
+      "onboard_time": 1770298408,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 598816,
@@ -1673,6 +1705,14 @@
       "onboard_time": 1770004041,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 487715,
+      "num": 741614,
+      "word": "唐宫奇案首播口碑",
+      "onboard_time": 1770296968,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 486693,
@@ -2571,6 +2611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 362848,
+      "num": 1157776,
+      "word": "周生生涉事挂坠送检结果为足金",
+      "onboard_time": 1770296007,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 359550,
       "num": 359550,
       "word": "上2休2再上6休9",
@@ -2657,14 +2705,6 @@
       "onboard_time": 1770282028,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 347093,
-      "num": 347093,
-      "word": "唐宫奇案首播口碑",
-      "onboard_time": 1770296968,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 346709,
@@ -3033,14 +3073,6 @@
       "onboard_time": 1770274823,
       "rank": 34,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 320585,
-      "num": 1157776,
-      "word": "周生生涉事挂坠送检结果为足金",
-      "onboard_time": 1770296007,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 319598,
@@ -3851,6 +3883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 249019,
+      "num": 134466,
+      "word": "微博之夜导播 我们喜欢你",
+      "onboard_time": 1770297567,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 248710,
       "num": 248710,
       "word": "澳网男单决赛",
@@ -3956,7 +3996,7 @@
     },
     {
       "raw_hot": 243313,
-      "num": 596968,
+      "num": 688712,
       "word": "江西一烧烤店老板与人冲突时死亡",
       "onboard_time": 1770290726,
       "rank": 35,
@@ -6483,6 +6523,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 134140,
+      "num": 623718,
+      "word": "卫健委回应湖北部分精神病院问题",
+      "onboard_time": 1770295349,
+      "rank": 41,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 133820,
       "num": 176917,
       "word": "外交部回应春节出境游首选韩国",
@@ -6817,6 +6865,14 @@
       "onboard_time": 1770180623,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 126050,
+      "num": 126050,
+      "word": "微博喜爱二次元角色",
+      "onboard_time": 1770297508,
+      "rank": 42,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 125964,
@@ -7593,14 +7649,6 @@
       "onboard_time": 1769930960,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 113815,
-      "num": 335609,
-      "word": "卫健委回应湖北部分精神病院问题",
-      "onboard_time": 1770295349,
-      "rank": 41,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 113809,
@@ -8491,6 +8539,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 103037,
+      "num": 681282,
+      "word": "时代少年团红毯妆造",
+      "onboard_time": 1770296607,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 102760,
       "num": 102760,
       "word": "一奶茶店标注三类人不买引争议",
@@ -9209,6 +9265,14 @@
       "onboard_time": 1769942000,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94599,
+      "num": 121986,
+      "word": "警方通报一家人去洗浴妻子称遭猥亵",
+      "onboard_time": 1770295646,
+      "rank": 47,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 94530,
@@ -10185,6 +10249,14 @@
       "onboard_time": 1770207621,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84978,
+      "num": 121984,
+      "word": "马斯克说有钱也买不到幸福",
+      "onboard_time": 1770299069,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 84915,
@@ -11795,6 +11867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 61686,
+      "num": 763090,
+      "word": "英皇娱乐酒店卖79公斤黄金赚9020万",
+      "onboard_time": 1770298228,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 61559,
       "num": 61559,
       "word": "北京市民排队8小时买黄金",
@@ -12347,6 +12427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 48329,
+      "num": 916809,
+      "word": "Mate80微博之夜超绝慢动作",
+      "onboard_time": 1770294869,
+      "rank": 17,
+      "category": "数码,作品衍生"
+    },
+    {
       "raw_hot": 48302,
       "num": 228495,
       "word": "水贝又一金店陷入兑付危机",
@@ -12665,14 +12753,6 @@
       "onboard_time": 1770137957,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 39765,
-      "num": 916809,
-      "word": "Mate80微博之夜超绝慢动作",
-      "onboard_time": 1770294869,
-      "rank": 17,
-      "category": "数码,作品衍生"
     },
     {
       "raw_hot": 39756,
@@ -13209,14 +13289,6 @@
       "onboard_time": 1770015860,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 29496,
-      "num": 496211,
-      "word": "时代少年团红毯妆造",
-      "onboard_time": 1770296607,
-      "rank": 29,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 29306,
@@ -14200,6 +14272,14 @@
       "word": "前男友泼汽油烧伤案再开庭",
       "onboard_time": 1770289286,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 8595,
+      "num": 1613400,
+      "word": "7图速览产业向新向优新气象",
+      "onboard_time": 1770282747,
+      "rank": 2,
       "category": "民生新闻"
     },
     {

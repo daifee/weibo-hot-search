@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1770297490838,
+  "endTime": 1770299126564,
   "band_list": [
     {
       "raw_hot": 22742360,
@@ -267,6 +267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 3574116,
+      "num": 3574116,
+      "word": "肖战第二套",
+      "onboard_time": 1770297868,
+      "rank": 1,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 3566119,
       "num": 3566119,
       "word": "WB冠军",
@@ -369,6 +377,14 @@
       "onboard_time": 1769273663,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2744239,
+      "num": 1123876,
+      "word": "杨幂身子斜的都快躺那了",
+      "onboard_time": 1770297029,
+      "rank": 5,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 2732817,
@@ -857,14 +873,6 @@
       "onboard_time": 1770102981,
       "rank": 43,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 1710695,
-      "num": 1123876,
-      "word": "杨幂身子斜的都快躺那了",
-      "onboard_time": 1770297029,
-      "rank": 5,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1708257,
@@ -2392,14 +2400,6 @@
       "word": "河南一教师与学生发生不正当关系",
       "onboard_time": 1768395320,
       "rank": 16,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1038253,
-      "num": 260166,
-      "word": "牢A",
-      "onboard_time": 1768798763,
-      "rank": 11,
       "category": "民生新闻"
     }
   ],
