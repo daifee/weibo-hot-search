@@ -1,6 +1,6 @@
 {
   "startTime": 1770307563881,
-  "endTime": 1770328461199,
+  "endTime": 1770331077755,
   "band_list": [
     {
       "raw_hot": 7028994,
@@ -364,11 +364,19 @@
     },
     {
       "raw_hot": 113577,
-      "num": 394953,
+      "num": 444450,
       "word": "周生生涉事挂坠送检结果公布",
       "onboard_time": 1770307644,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 113242,
+      "num": 52039,
+      "word": "高叶李乃文偷吃",
+      "onboard_time": 1770326115,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 112582,
@@ -403,8 +411,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 100276,
-      "num": 237728,
+      "raw_hot": 101851,
+      "num": 327218,
       "word": "苏翊鸣大跳台晋级决赛",
       "onboard_time": 1770325934,
       "rank": 0,
@@ -491,8 +499,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 62081,
-      "num": 62081,
+      "raw_hot": 62357,
+      "num": 62357,
       "word": "苏翊鸣冬奥首个1980",
       "onboard_time": 1770324616,
       "rank": 9,
@@ -555,14 +563,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 50439,
-      "num": 24564,
-      "word": "高叶李乃文偷吃",
-      "onboard_time": 1770326115,
-      "rank": 30,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 49619,
       "num": 313701,
       "word": "国家卫健委赴湖北督导调查",
@@ -617,6 +617,14 @@
       "onboard_time": 1770324074,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 33539,
+      "num": 33539,
+      "word": "坦克没有后视镜 但吴京有兔耳朵",
+      "onboard_time": 1770315557,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 33467,
@@ -676,7 +684,7 @@
     },
     {
       "raw_hot": 26035,
-      "num": 24256,
+      "num": 25682,
       "word": "杨文龙无缘大跳台决赛",
       "onboard_time": 1770326893,
       "rank": 31,
@@ -691,6 +699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 25335,
+      "num": 25685,
+      "word": "大跳台史诗级难度",
+      "onboard_time": 1770328094,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 25050,
       "num": 125822,
       "word": "苏翊鸣米兰冬奥会首战",
@@ -699,20 +715,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 24876,
-      "num": 24876,
-      "word": "坦克没有后视镜 但吴京有兔耳朵",
-      "onboard_time": 1770315557,
-      "rank": 43,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 24615,
-      "num": 24615,
+      "num": 25677,
       "word": "滑雪",
       "onboard_time": 1770318075,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 23394,
+      "num": 25685,
+      "word": "2025微博年度综艺",
+      "onboard_time": 1770319816,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 22429,
@@ -723,12 +739,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 22044,
-      "num": 22044,
-      "word": "2025微博年度综艺",
-      "onboard_time": 1770319816,
-      "rank": 42,
-      "category": "作品衍生"
+      "raw_hot": 20823,
+      "num": 25681,
+      "word": "苏翊鸣预赛排名第四",
+      "onboard_time": 1770329535,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 20326,
@@ -779,16 +795,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 16944,
-      "num": 17308,
-      "word": "大跳台史诗级难度",
-      "onboard_time": 1770328094,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 11115,
-      "num": 188591,
+      "num": 245420,
       "word": "来华过大年成全球新风尚",
       "onboard_time": 1770301528,
       "rank": 2,

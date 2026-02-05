@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1770328461199,
+  "endTime": 1770331077755,
   "band_list": [
     {
       "raw_hot": 10390810,
@@ -7980,7 +7980,7 @@
     },
     {
       "raw_hot": 113577,
-      "num": 394953,
+      "num": 444450,
       "word": "周生生涉事挂坠送检结果公布",
       "onboard_time": 1770307644,
       "rank": 7,
@@ -8017,6 +8017,14 @@
       "onboard_time": 1769949501,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 113242,
+      "num": 52039,
+      "word": "高叶李乃文偷吃",
+      "onboard_time": 1770326115,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 112955,
@@ -8923,6 +8931,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 101851,
+      "num": 327218,
+      "word": "苏翊鸣大跳台晋级决赛",
+      "onboard_time": 1770325934,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 101759,
       "num": 197155,
       "word": "主人悬赏5千寻狗半月后得知被吃掉",
@@ -9097,14 +9113,6 @@
       "onboard_time": 1769922799,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 100276,
-      "num": 237728,
-      "word": "苏翊鸣大跳台晋级决赛",
-      "onboard_time": 1770325934,
-      "rank": 0,
-      "category": "体育"
     },
     {
       "raw_hot": 100236,
@@ -12211,6 +12219,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 62357,
+      "num": 62357,
+      "word": "苏翊鸣冬奥首个1980",
+      "onboard_time": 1770324616,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 62307,
       "num": 85725,
       "word": "王鸥唱到成全镜头切给魏晨",
@@ -12241,14 +12257,6 @@
       "onboard_time": 1769851822,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 62081,
-      "num": 62081,
-      "word": "苏翊鸣冬奥首个1980",
-      "onboard_time": 1770324616,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 61916,
@@ -12753,14 +12761,6 @@
       "onboard_time": 1769868262,
       "rank": 45,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 50439,
-      "num": 24564,
-      "word": "高叶李乃文偷吃",
-      "onboard_time": 1770326115,
-      "rank": 30,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 50376,
@@ -13595,6 +13595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 33539,
+      "num": 33539,
+      "word": "坦克没有后视镜 但吴京有兔耳朵",
+      "onboard_time": 1770315557,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 33467,
       "num": 51769,
       "word": "周柯宇陈妍希互拍",
@@ -13988,7 +13996,7 @@
     },
     {
       "raw_hot": 26035,
-      "num": 24256,
+      "num": 25682,
       "word": "杨文龙无缘大跳台决赛",
       "onboard_time": 1770326893,
       "rank": 31,
@@ -14032,6 +14040,14 @@
       "word": "朴成训传递米兰冬奥圣火",
       "onboard_time": 1770315257,
       "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 25335,
+      "num": 25685,
+      "word": "大跳台史诗级难度",
+      "onboard_time": 1770328094,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -14091,16 +14107,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 24876,
-      "num": 24876,
-      "word": "坦克没有后视镜 但吴京有兔耳朵",
-      "onboard_time": 1770315557,
-      "rank": 43,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 24615,
-      "num": 24615,
+      "num": 25677,
       "word": "滑雪",
       "onboard_time": 1770318075,
       "rank": 43,
@@ -14187,6 +14195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 23394,
+      "num": 25685,
+      "word": "2025微博年度综艺",
+      "onboard_time": 1770319816,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 23366,
       "num": 121261,
       "word": "自民党警告日本恐滑向二流国家",
@@ -14241,14 +14257,6 @@
       "onboard_time": 1770205761,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 22044,
-      "num": 22044,
-      "word": "2025微博年度综艺",
-      "onboard_time": 1770319816,
-      "rank": 42,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 21964,
@@ -14361,6 +14369,14 @@
       "onboard_time": 1769922080,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 20823,
+      "num": 25681,
+      "word": "苏翊鸣预赛排名第四",
+      "onboard_time": 1770329535,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 20477,
@@ -14609,14 +14625,6 @@
       "onboard_time": 1770302487,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 16944,
-      "num": 17308,
-      "word": "大跳台史诗级难度",
-      "onboard_time": 1770328094,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 16870,
@@ -14924,7 +14932,7 @@
     },
     {
       "raw_hot": 11115,
-      "num": 188591,
+      "num": 245420,
       "word": "来华过大年成全球新风尚",
       "onboard_time": 1770301528,
       "rank": 2,
