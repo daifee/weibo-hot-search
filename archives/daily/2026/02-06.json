@@ -1,6 +1,6 @@
 {
   "startTime": 1770307563881,
-  "endTime": 1770378056363,
+  "endTime": 1770378956015,
   "band_list": [
     {
       "raw_hot": 7028994,
@@ -387,6 +387,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 432348,
+      "num": 847431,
+      "word": "4类食品不是预制菜",
+      "onboard_time": 1770374121,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 431453,
+      "num": 431453,
+      "word": "恋与深空",
+      "onboard_time": 1770291864,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 430614,
       "num": 195463,
       "word": "1岁宝宝被撞后截肢",
@@ -409,14 +425,6 @@
       "onboard_time": 1770306146,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 396218,
-      "num": 396218,
-      "word": "恋与深空",
-      "onboard_time": 1770291864,
-      "rank": 29,
-      "category": "游戏"
     },
     {
       "raw_hot": 377798,
@@ -499,14 +507,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 332773,
-      "num": 824789,
-      "word": "4类食品不是预制菜",
-      "onboard_time": 1770374121,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 323042,
       "num": 323042,
       "word": "爱尔眼科董事疑为骗保精神病院实控人",
@@ -545,6 +545,14 @@
       "onboard_time": 1770269963,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 305732,
+      "num": 305732,
+      "word": "隋文静摔倒",
+      "onboard_time": 1770377841,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 303162,
@@ -601,6 +609,14 @@
       "onboard_time": 1770305846,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 279434,
+      "num": 178308,
+      "word": "爱泼斯坦死亡当晚离奇细节曝光",
+      "onboard_time": 1770377121,
+      "rank": 14,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 279306,
@@ -689,6 +705,14 @@
       "onboard_time": 1770357261,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 258946,
+      "num": 258946,
+      "word": "明日方舟新春前瞻特辑",
+      "onboard_time": 1770377180,
+      "rank": 5,
+      "category": "游戏"
     },
     {
       "raw_hot": 258409,
@@ -931,20 +955,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 195014,
-      "num": 195014,
-      "word": "明日方舟新春前瞻特辑",
-      "onboard_time": 1770377180,
-      "rank": 5,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 194707,
       "num": 606409,
       "word": "江西一烧烤店老板与人冲突时死亡",
       "onboard_time": 1770290726,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 188328,
+      "num": 188328,
+      "word": "隋文静韩聪短节目65.37分",
+      "onboard_time": 1770376521,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 184566,
@@ -985,14 +1009,6 @@
       "onboard_time": 1770351621,
       "rank": 43,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 180189,
-      "num": 180189,
-      "word": "隋文静韩聪短节目65.37分",
-      "onboard_time": 1770376521,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 178819,
@@ -1387,6 +1403,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 129527,
+      "num": 129527,
+      "word": "国投瑞银基金成立工作组",
+      "onboard_time": 1770378020,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
       "raw_hot": 128094,
       "num": 128094,
       "word": "年夜饭真要坐小孩那桌了",
@@ -1441,6 +1465,14 @@
       "onboard_time": 1770357921,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 121611,
+      "num": 148632,
+      "word": "南京女子腹痛三天检查才发现怀孕",
+      "onboard_time": 1770377481,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 121597,
@@ -1531,14 +1563,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 115745,
-      "num": 148643,
-      "word": "爱泼斯坦死亡当晚离奇细节曝光",
-      "onboard_time": 1770377121,
-      "rank": 14,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 115295,
       "num": 125218,
       "word": "千问回应系统崩了",
@@ -1585,6 +1609,14 @@
       "onboard_time": 1770364760,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 112855,
+      "num": 132181,
+      "word": "夜色正浓",
+      "onboard_time": 1770377960,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 112582,
@@ -1739,6 +1771,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 97406,
+      "num": 97406,
+      "word": "明日方舟偷跑",
+      "onboard_time": 1770378142,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 96011,
       "num": 185980,
       "word": "樊振东祝大家马到成功",
@@ -1819,12 +1859,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 90795,
-      "num": 90795,
-      "word": "夜色正浓",
-      "onboard_time": 1770377960,
-      "rank": 43,
-      "category": "剧集"
+      "raw_hot": 91171,
+      "num": 91171,
+      "word": "Gucci官方认领的明星",
+      "onboard_time": 1770375261,
+      "rank": 46,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 90519,
@@ -1835,20 +1875,20 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 89853,
-      "num": 88045,
-      "word": "Gucci官方认领的明星",
-      "onboard_time": 1770375261,
-      "rank": 46,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 89477,
       "num": 89477,
       "word": "湖人老鹰交易",
       "onboard_time": 1770334279,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 88753,
+      "num": 88753,
+      "word": "俄军中将在莫斯科遭枪击",
+      "onboard_time": 1770377121,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 88652,
@@ -1873,6 +1913,14 @@
       "onboard_time": 1770334460,
       "rank": 29,
       "category": "财经"
+    },
+    {
+      "raw_hot": 87932,
+      "num": 87932,
+      "word": "AL对战BLG",
+      "onboard_time": 1770378080,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 87828,
@@ -1931,28 +1979,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 83151,
-      "num": 83151,
-      "word": "隋文静摔倒",
-      "onboard_time": 1770377841,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 83048,
       "num": 192463,
       "word": "27岁男子洗浴店猥亵女子被行拘",
       "onboard_time": 1770302368,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 82828,
-      "num": 82828,
-      "word": "俄军中将在莫斯科遭枪击",
-      "onboard_time": 1770377121,
-      "rank": 49,
-      "category": "国际时政"
     },
     {
       "raw_hot": 82472,
@@ -1969,14 +2001,6 @@
       "onboard_time": 1770375141,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 80263,
-      "num": 148632,
-      "word": "南京女子腹痛三天检查才发现怀孕",
-      "onboard_time": 1770377481,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 79914,
@@ -2155,6 +2179,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 61390,
+      "num": 174350,
+      "word": "王楚钦3连胜晋级",
+      "onboard_time": 1770377240,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 61306,
       "num": 212173,
       "word": "警方通报烧烤店老板与人冲突时死亡",
@@ -2193,6 +2225,14 @@
       "onboard_time": 1770334519,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 56607,
+      "num": 99185,
+      "word": "这回不是陈鑫海 是真周柯宇",
+      "onboard_time": 1770377960,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 56328,
@@ -2395,14 +2435,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 39628,
-      "num": 174350,
-      "word": "王楚钦3连胜晋级",
-      "onboard_time": 1770377240,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 39584,
       "num": 108802,
       "word": "美国电价成新斩杀线",
@@ -2417,14 +2449,6 @@
       "onboard_time": 1770301828,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 38846,
-      "num": 93922,
-      "word": "这回不是陈鑫海 是真周柯宇",
-      "onboard_time": 1770377960,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 37660,
@@ -2512,6 +2536,14 @@
       "word": "李宇春冬泳压轴舞台",
       "onboard_time": 1770311718,
       "rank": 46,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 32823,
+      "num": 101837,
+      "word": "宋威龙飞吻 老实人豁出去了",
+      "onboard_time": 1770377960,
+      "rank": 39,
       "category": "作品衍生"
     },
     {
@@ -2603,6 +2635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 26955,
+      "num": 187553,
+      "word": "中方希望立陶宛尽早纠正错误",
+      "onboard_time": 1770378439,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 26790,
       "num": 88901,
       "word": "苏翊鸣第三跳85.00分",
@@ -2681,6 +2721,14 @@
       "onboard_time": 1770318075,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 23934,
+      "num": 129984,
+      "word": "伊朗向中方通报最新情况",
+      "onboard_time": 1770378860,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 23861,
@@ -2787,6 +2835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 18732,
+      "num": 148624,
+      "word": "俄军一中将险遭暗杀",
+      "onboard_time": 1770377661,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 18672,
       "num": 19680,
       "word": "一个人的强大从3次看见开始",
@@ -2819,14 +2875,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 13709,
-      "num": 93831,
-      "word": "宋威龙飞吻 老实人豁出去了",
-      "onboard_time": 1770377960,
-      "rank": 39,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 13549,
       "num": 120789,
       "word": "最美的风景就是回家路",
@@ -2849,14 +2897,6 @@
       "onboard_time": 1770365001,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 12261,
-      "num": 148624,
-      "word": "俄军一中将险遭暗杀",
-      "onboard_time": 1770377661,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 9425,

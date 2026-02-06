@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1770378056363,
+  "endTime": 1770378956015,
   "band_list": [
     {
       "raw_hot": 10390810,
@@ -2459,6 +2459,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 432348,
+      "num": 847431,
+      "word": "4类食品不是预制菜",
+      "onboard_time": 1770374121,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 432180,
       "num": 393071,
       "word": "央妈逗王一博",
@@ -3347,14 +3355,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 332773,
-      "num": 824789,
-      "word": "4类食品不是预制菜",
-      "onboard_time": 1770374121,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 332556,
       "num": 205616,
       "word": "张凌赫方回应常驻跑男",
@@ -3747,6 +3747,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 305732,
+      "num": 305732,
+      "word": "隋文静摔倒",
+      "onboard_time": 1770377841,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 303811,
       "num": 303811,
       "word": "杨紫感谢马思纯",
@@ -4083,6 +4091,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 279434,
+      "num": 178308,
+      "word": "爱泼斯坦死亡当晚离奇细节曝光",
+      "onboard_time": 1770377121,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 279306,
       "num": 279306,
       "word": "谢娜说肖战出新作品都会给他发信息",
@@ -4393,6 +4409,14 @@
       "onboard_time": 1770357261,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 258946,
+      "num": 258946,
+      "word": "明日方舟新春前瞻特辑",
+      "onboard_time": 1770377180,
+      "rank": 5,
+      "category": "游戏"
     },
     {
       "raw_hot": 258639,
@@ -5707,14 +5731,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 195014,
-      "num": 195014,
-      "word": "明日方舟新春前瞻特辑",
-      "onboard_time": 1770377180,
-      "rank": 5,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 194839,
       "num": 188765,
       "word": "花少8网传最新阵容",
@@ -5841,6 +5857,14 @@
       "onboard_time": 1769988137,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 188328,
+      "num": 188328,
+      "word": "隋文静韩聪短节目65.37分",
+      "onboard_time": 1770376521,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 188063,
@@ -6065,14 +6089,6 @@
       "onboard_time": 1770129862,
       "rank": 9,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 180189,
-      "num": 180189,
-      "word": "隋文静韩聪短节目65.37分",
-      "onboard_time": 1770376521,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 180161,
@@ -7995,6 +8011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 129527,
+      "num": 129527,
+      "word": "国投瑞银基金成立工作组",
+      "onboard_time": 1770378020,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
       "raw_hot": 129470,
       "num": 129470,
       "word": "北京地铁9号线",
@@ -8507,6 +8531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121611,
+      "num": 148632,
+      "word": "南京女子腹痛三天检查才发现怀孕",
+      "onboard_time": 1770377481,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121597,
       "num": 292340,
       "word": "肖战有自己的冰嬉名场面",
@@ -8995,14 +9027,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 115745,
-      "num": 148643,
-      "word": "爱泼斯坦死亡当晚离奇细节曝光",
-      "onboard_time": 1770377121,
-      "rank": 14,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 115295,
       "num": 125218,
       "word": "千问回应系统崩了",
@@ -9225,6 +9249,14 @@
       "onboard_time": 1769952322,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 112855,
+      "num": 132181,
+      "word": "夜色正浓",
+      "onboard_time": 1770138677,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 112828,
@@ -10667,6 +10699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 97406,
+      "num": 97406,
+      "word": "明日方舟偷跑",
+      "onboard_time": 1770378142,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 97248,
       "num": 97248,
       "word": "穆祉丞专场 郑州",
@@ -11307,6 +11347,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 91171,
+      "num": 91171,
+      "word": "Gucci官方认领的明星",
+      "onboard_time": 1770375261,
+      "rank": 46,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 91119,
       "num": 216656,
       "word": "国投白银LOF四连跌停了",
@@ -11328,14 +11376,6 @@
       "word": "胡歌太会演了",
       "onboard_time": 1770133041,
       "rank": 34,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 90795,
-      "num": 90795,
-      "word": "夜色正浓",
-      "onboard_time": 1770138677,
-      "rank": 31,
       "category": "剧集"
     },
     {
@@ -11409,14 +11449,6 @@
       "onboard_time": 1770026062,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 89853,
-      "num": 88045,
-      "word": "Gucci官方认领的明星",
-      "onboard_time": 1770375261,
-      "rank": 46,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 89781,
@@ -11563,6 +11595,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 88753,
+      "num": 88753,
+      "word": "俄军中将在莫斯科遭枪击",
+      "onboard_time": 1770377121,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 88652,
       "num": 168719,
       "word": "浴霸换气和取暖切勿同时开启",
@@ -11665,6 +11705,14 @@
       "onboard_time": 1770187399,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 87932,
+      "num": 87932,
+      "word": "AL对战BLG",
+      "onboard_time": 1770378080,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 87921,
@@ -12235,14 +12283,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 83151,
-      "num": 83151,
-      "word": "隋文静摔倒",
-      "onboard_time": 1770377841,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 83052,
       "num": 300814,
       "word": "警方通报烧烤店老板与人冲突时死亡",
@@ -12305,14 +12345,6 @@
       "onboard_time": 1770162078,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 82828,
-      "num": 82828,
-      "word": "俄军中将在莫斯科遭枪击",
-      "onboard_time": 1770377121,
-      "rank": 49,
-      "category": "国际时政"
     },
     {
       "raw_hot": 82528,
@@ -12569,14 +12601,6 @@
       "onboard_time": 1769934740,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 80263,
-      "num": 148632,
-      "word": "南京女子腹痛三天检查才发现怀孕",
-      "onboard_time": 1770377481,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 80258,
@@ -13899,6 +13923,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 61390,
+      "num": 174350,
+      "word": "王楚钦3连胜晋级",
+      "onboard_time": 1770377240,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 61277,
       "num": 61277,
       "word": "山东县城承包了全球七成假睫毛",
@@ -14112,6 +14144,14 @@
       "word": "贺峻霖打卡自己的广告屏",
       "onboard_time": 1770203300,
       "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 56607,
+      "num": 99185,
+      "word": "这回不是陈鑫海 是真周柯宇",
+      "onboard_time": 1770377960,
+      "rank": 38,
       "category": "艺人"
     },
     {
@@ -14987,14 +15027,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 39628,
-      "num": 174350,
-      "word": "王楚钦3连胜晋级",
-      "onboard_time": 1770377240,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 39584,
       "num": 108802,
       "word": "美国电价成新斩杀线",
@@ -15041,14 +15073,6 @@
       "onboard_time": 1770303931,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 38846,
-      "num": 93922,
-      "word": "这回不是陈鑫海 是真周柯宇",
-      "onboard_time": 1770377960,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 38667,
@@ -15491,6 +15515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 32823,
+      "num": 101837,
+      "word": "宋威龙飞吻 老实人豁出去了",
+      "onboard_time": 1770377960,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 32792,
       "num": 243961,
       "word": "立陶宛嘴上认错还不够",
@@ -15843,6 +15875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 26955,
+      "num": 187553,
+      "word": "中方希望立陶宛尽早纠正错误",
+      "onboard_time": 1770378439,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 26790,
       "num": 88901,
       "word": "苏翊鸣第三跳85.00分",
@@ -16049,6 +16089,14 @@
       "onboard_time": 1769915899,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23934,
+      "num": 129984,
+      "word": "伊朗向中方通报最新情况",
+      "onboard_time": 1770378860,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 23861,
@@ -16459,6 +16507,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 18732,
+      "num": 148624,
+      "word": "俄军一中将险遭暗杀",
+      "onboard_time": 1770377661,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 18672,
       "num": 19680,
       "word": "一个人的强大从3次看见开始",
@@ -16795,14 +16851,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 13709,
-      "num": 93831,
-      "word": "宋威龙飞吻 老实人豁出去了",
-      "onboard_time": 1770377960,
-      "rank": 39,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 13549,
       "num": 120789,
       "word": "最美的风景就是回家路",
@@ -16881,14 +16929,6 @@
       "onboard_time": 1770207921,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 12261,
-      "num": 148624,
-      "word": "俄军一中将险遭暗杀",
-      "onboard_time": 1770377661,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 12176,

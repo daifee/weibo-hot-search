@@ -1,0 +1,410 @@
+{
+  "runTime": 1770378956015,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 831809,
+        "num": 1133089,
+        "word": "快递停运",
+        "onboard_time": 1770359000,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 432348,
+        "num": 847431,
+        "word": "4类食品不是预制菜",
+        "onboard_time": 1770374121,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23985,
+        "num": 671411,
+        "word": "冰雪春天",
+        "onboard_time": 1770368240,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 431453,
+        "num": 431453,
+        "word": "恋与深空",
+        "onboard_time": 1770376460,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 305732,
+        "num": 305732,
+        "word": "隋文静摔倒",
+        "onboard_time": 1770377841,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 258946,
+        "num": 258946,
+        "word": "明日方舟新春前瞻特辑",
+        "onboard_time": 1770377180,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 252946,
+        "num": 252946,
+        "word": "花样滑冰团体赛资格赛",
+        "onboard_time": 1770368121,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197859,
+        "num": 197859,
+        "word": "小偷偷十几万刮刮乐刮完未中大奖",
+        "onboard_time": 1770360861,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188328,
+        "num": 188328,
+        "word": "隋文静韩聪短节目65.37分",
+        "onboard_time": 1770376521,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26955,
+        "num": 187553,
+        "word": "中方希望立陶宛尽早纠正错误",
+        "onboard_time": 1770378439,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 279434,
+        "num": 178308,
+        "word": "爱泼斯坦死亡当晚离奇细节曝光",
+        "onboard_time": 1770377121,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 252077,
+        "num": 172283,
+        "word": "多名领到千问免费奶茶网友发声",
+        "onboard_time": 1770362000,
+        "rank": 11,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 249489,
+        "num": 164697,
+        "word": "1岁宝宝被撞后截肢",
+        "onboard_time": 1770368840,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206661,
+        "num": 161762,
+        "word": "陛下 How are you",
+        "onboard_time": 1770369620,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157115,
+        "num": 157115,
+        "word": "唐宫奇案直播",
+        "onboard_time": 1770373823,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153939,
+        "num": 153939,
+        "word": "中方回应特朗普公开支持高市早苗",
+        "onboard_time": 1770370462,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 134760,
+        "num": 134760,
+        "word": "娜扎的卧蚕比我眼睛大",
+        "onboard_time": 1770370041,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 127004,
+        "num": 134644,
+        "word": "成何体统",
+        "onboard_time": 1770345920,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121611,
+        "num": 134494,
+        "word": "南京女子腹痛三天检查才发现怀孕",
+        "onboard_time": 1770377481,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27798,
+        "num": 134226,
+        "word": "在中国之家开了个科技的箱",
+        "onboard_time": 1770375861,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177286,
+        "num": 134012,
+        "word": "小马糕",
+        "onboard_time": 1770373641,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 760986,
+        "num": 133821,
+        "word": "20岁黄多多好漂亮",
+        "onboard_time": 1770372801,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18732,
+        "num": 133575,
+        "word": "俄军一中将险遭暗杀",
+        "onboard_time": 1770377661,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 695629,
+        "num": 133402,
+        "word": "千问送奶茶背后有阳谋",
+        "onboard_time": 1770369800,
+        "rank": 23,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 574427,
+        "num": 133249,
+        "word": "黄子韬自曝卫生巾工厂现状",
+        "onboard_time": 1770368600,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266491,
+        "num": 132965,
+        "word": "王玉雯的裙子太考验身材了",
+        "onboard_time": 1770369981,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 244792,
+        "num": 132852,
+        "word": "千问登顶AppStore免费榜第一",
+        "onboard_time": 1770360920,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 251148,
+        "num": 132679,
+        "word": "原来陈小春的真名叫陈泰铨",
+        "onboard_time": 1770371661,
+        "rank": 27,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 186697,
+        "num": 132362,
+        "word": "成何体统 雷霆特效",
+        "onboard_time": 1770369681,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112855,
+        "num": 132181,
+        "word": "夜色正浓",
+        "onboard_time": 1770377960,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163203,
+        "num": 131967,
+        "word": "千问 免费奶茶",
+        "onboard_time": 1770344239,
+        "rank": 30,
+        "category": "美食,互联网"
+      },
+      {
+        "raw_hot": 149082,
+        "num": 131756,
+        "word": "周冬雨回应整容争议",
+        "onboard_time": 1770359960,
+        "rank": 31,
+        "category": "综艺,作品衍生"
+      },
+      {
+        "raw_hot": 131704,
+        "num": 131704,
+        "word": "英雄联盟",
+        "onboard_time": 1770377841,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 130631,
+        "num": 130631,
+        "word": "黄婷婷你别演了我害怕",
+        "onboard_time": 1770376940,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23934,
+        "num": 129984,
+        "word": "伊朗向中方通报最新情况",
+        "onboard_time": 1770378860,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 129527,
+        "num": 129527,
+        "word": "国投瑞银基金成立工作组",
+        "onboard_time": 1770378020,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 124960,
+        "num": 124960,
+        "word": "舒淇肖战 十年师友",
+        "onboard_time": 1770375560,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113723,
+        "num": 113723,
+        "word": "觉得没情商的可以看看作者文案",
+        "onboard_time": 1770362661,
+        "rank": 37,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 32823,
+        "num": 101837,
+        "word": "宋威龙飞吻 老实人豁出去了",
+        "onboard_time": 1770377960,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 56607,
+        "num": 99185,
+        "word": "这回不是陈鑫海 是真周柯宇",
+        "onboard_time": 1770377960,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97406,
+        "num": 97406,
+        "word": "明日方舟偷跑",
+        "onboard_time": 1770378142,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 104746,
+        "num": 95971,
+        "word": "39岁刘诗诗状态",
+        "onboard_time": 1770372260,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91171,
+        "num": 91171,
+        "word": "Gucci官方认领的明星",
+        "onboard_time": 1770375261,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 61390,
+        "num": 88878,
+        "word": "王楚钦3连胜晋级",
+        "onboard_time": 1770377240,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88753,
+        "num": 88753,
+        "word": "俄军中将在莫斯科遭枪击",
+        "onboard_time": 1770377121,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 87932,
+        "num": 87932,
+        "word": "AL对战BLG",
+        "onboard_time": 1770378080,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 85839,
+        "num": 85839,
+        "word": "千问免单卡每日发放数量有限",
+        "onboard_time": 1770376280,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 83747,
+        "num": 83747,
+        "word": "吴世勋机场",
+        "onboard_time": 1770371841,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82104,
+        "num": 82104,
+        "word": "年夜饭真要坐小孩那桌了",
+        "onboard_time": 1770375440,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 81705,
+        "num": 81705,
+        "word": "TFING全员换头像了",
+        "onboard_time": 1770344719,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#新春之约擘画中俄关系新蓝图#"
+    }
+  }
+}
