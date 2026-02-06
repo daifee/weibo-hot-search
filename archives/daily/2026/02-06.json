@@ -1,6 +1,6 @@
 {
   "startTime": 1770307563881,
-  "endTime": 1770372486985,
+  "endTime": 1770375090782,
   "band_list": [
     {
       "raw_hot": 7028994,
@@ -91,6 +91,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 886574,
+      "num": 1141851,
+      "word": "快手发文致歉",
+      "onboard_time": 1770371720,
+      "rank": 23,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 869907,
       "num": 289296,
       "word": "邬君梅透露丈夫已病逝",
@@ -107,12 +115,28 @@
       "category": "综艺,作品衍生"
     },
     {
+      "raw_hot": 839677,
+      "num": 137883,
+      "word": "黄子韬自曝卫生巾工厂现状",
+      "onboard_time": 1770368600,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 820501,
       "num": 477162,
       "word": "沈腾冲上去扶杨幂",
       "onboard_time": 1770307943,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 804072,
+      "num": 117551,
+      "word": "20岁黄多多好漂亮",
+      "onboard_time": 1770372801,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 803269,
@@ -129,14 +153,6 @@
       "onboard_time": 1770345920,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 779958,
-      "num": 137883,
-      "word": "黄子韬自曝卫生巾工厂现状",
-      "onboard_time": 1770368600,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 741060,
@@ -227,6 +243,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 637637,
+      "num": 637637,
+      "word": "千问送奶茶背后有阳谋",
+      "onboard_time": 1770369800,
+      "rank": 29,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 635796,
       "num": 1101727,
       "word": "家长举报家委会3年收10多万元班费",
@@ -273,14 +297,6 @@
       "onboard_time": 1770345260,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 570986,
-      "num": 130140,
-      "word": "快手发文致歉",
-      "onboard_time": 1770371720,
-      "rank": 23,
-      "category": "互联网"
     },
     {
       "raw_hot": 534773,
@@ -347,6 +363,14 @@
       "category": "互联网,美食"
     },
     {
+      "raw_hot": 458796,
+      "num": 128199,
+      "word": "王玉雯的裙子太考验身材了",
+      "onboard_time": 1770369981,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 454086,
       "num": 230998,
       "word": "沈腾忘词张艺谋宋佳杨幂刘耀文笑疯了",
@@ -364,7 +388,7 @@
     },
     {
       "raw_hot": 430614,
-      "num": 165859,
+      "num": 184241,
       "word": "1岁宝宝被撞后截肢",
       "onboard_time": 1770368840,
       "rank": 39,
@@ -393,14 +417,6 @@
       "onboard_time": 1770345379,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 372984,
-      "num": 128199,
-      "word": "王玉雯的裙子太考验身材了",
-      "onboard_time": 1770369981,
-      "rank": 27,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 370024,
@@ -555,6 +571,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 292111,
+      "num": 121830,
+      "word": "原来陈小春的真名叫陈泰铨",
+      "onboard_time": 1770371661,
+      "rank": 35,
+      "category": "艺人,民生新闻"
+    },
+    {
       "raw_hot": 281200,
       "num": 281200,
       "word": "陈楚生晚礼服夯爆了",
@@ -577,6 +601,14 @@
       "onboard_time": 1770347899,
       "rank": 12,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 269136,
+      "num": 184069,
+      "word": "陛下 How are you",
+      "onboard_time": 1770369620,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 268000,
@@ -619,6 +651,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 262621,
+      "num": 402136,
+      "word": "韩国运动员盒饭",
+      "onboard_time": 1770367459,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 262242,
       "num": 262242,
       "word": "宝格丽认领陈都灵",
@@ -643,14 +683,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 251052,
-      "num": 402136,
-      "word": "韩国运动员盒饭",
-      "onboard_time": 1770367459,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 251048,
       "num": 131999,
       "word": "蔡徐坤",
@@ -665,6 +697,14 @@
       "onboard_time": 1770355342,
       "rank": 7,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 243548,
+      "num": 243548,
+      "word": "成何体统 雷霆特效",
+      "onboard_time": 1770369681,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 240098,
@@ -731,6 +771,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 230134,
+      "num": 230134,
+      "word": "小马糕",
+      "onboard_time": 1770373641,
+      "rank": 7,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 228671,
       "num": 228671,
       "word": "车厘子过季",
@@ -779,14 +827,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 214532,
-      "num": 163849,
-      "word": "陛下 How are you",
-      "onboard_time": 1770369620,
-      "rank": 12,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 210209,
       "num": 420535,
       "word": "英皇娱乐酒店卖79公斤黄金赚9020万",
@@ -827,14 +867,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 203139,
-      "num": 400640,
-      "word": "千问送奶茶背后有阳谋",
-      "onboard_time": 1770369800,
-      "rank": 29,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 200861,
       "num": 200861,
       "word": "王嘉尔 也恭喜你们",
@@ -851,6 +883,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 195482,
+      "num": 194510,
+      "word": "余宇涵好大一声分手",
+      "onboard_time": 1770369981,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194707,
       "num": 606409,
       "word": "江西一烧烤店老板与人冲突时死亡",
@@ -859,12 +899,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 194510,
-      "num": 194510,
-      "word": "余宇涵好大一声分手",
-      "onboard_time": 1770369981,
-      "rank": 8,
-      "category": "综艺"
+      "raw_hot": 184855,
+      "num": 184855,
+      "word": "胡歌说杨紫开机前拘谨得像个兵",
+      "onboard_time": 1770372382,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 184566,
@@ -875,12 +915,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 183578,
+      "num": 183578,
+      "word": "中方回应特朗普公开支持高市早苗",
+      "onboard_time": 1770370462,
+      "rank": 18,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 183381,
       "num": 183381,
       "word": "惠英红给她的宝贝张凌赫送花了",
       "onboard_time": 1770337402,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 182543,
+      "num": 124922,
+      "word": "王诗玥柳鑫宇韵律舞64.92分",
+      "onboard_time": 1770371241,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 181077,
@@ -1003,28 +1059,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 150331,
-      "num": 121830,
-      "word": "原来陈小春的真名叫陈泰铨",
-      "onboard_time": 1770371661,
-      "rank": 35,
-      "category": "艺人,民生新闻"
-    },
-    {
       "raw_hot": 150318,
       "num": 150318,
       "word": "章昊内娱第一课",
       "onboard_time": 1770350241,
       "rank": 46,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 149717,
-      "num": 124922,
-      "word": "王诗玥柳鑫宇韵律舞64.92分",
-      "onboard_time": 1770371241,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 149157,
@@ -1041,6 +1081,14 @@
       "onboard_time": 1770344300,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 146238,
+      "num": 112807,
+      "word": "39岁刘诗诗状态",
+      "onboard_time": 1770372260,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 145801,
@@ -1203,6 +1251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133169,
+      "num": 133169,
+      "word": "唐宫奇案直播",
+      "onboard_time": 1770373823,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 132999,
       "num": 132999,
       "word": "张凌赫王安宇两张伟大的脸",
@@ -1257,6 +1313,14 @@
       "onboard_time": 1770342261,
       "rank": 36,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 127907,
+      "num": 205699,
+      "word": "花样滑冰团体赛资格赛",
+      "onboard_time": 1770368121,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 126727,
@@ -1339,6 +1403,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 119759,
+      "num": 119759,
+      "word": "娜扎的卧蚕比我眼睛大",
+      "onboard_time": 1770370041,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 119305,
       "num": 124784,
       "word": "辛芷蕾新剧豆瓣开分7.5",
@@ -1388,7 +1460,7 @@
     },
     {
       "raw_hot": 116237,
-      "num": 100876,
+      "num": 111767,
       "word": "吴世勋机场",
       "onboard_time": 1770371841,
       "rank": 46,
@@ -1459,14 +1531,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 111197,
-      "num": 131873,
-      "word": "成何体统 雷霆特效",
-      "onboard_time": 1770369681,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 110948,
       "num": 1001229,
       "word": "小车起火救3人男子承担事故主要责任",
@@ -1523,22 +1587,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 106944,
-      "num": 205699,
-      "word": "花样滑冰团体赛资格赛",
-      "onboard_time": 1770368121,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 106552,
-      "num": 124823,
-      "word": "中方回应特朗普公开支持高市早苗",
-      "onboard_time": 1770370462,
-      "rank": 18,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 105697,
       "num": 105697,
       "word": "顺丰速孕碰瓷顺丰速运判赔20万",
@@ -1553,14 +1601,6 @@
       "onboard_time": 1770309981,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 103354,
-      "num": 103354,
-      "word": "娜扎的卧蚕比我眼睛大",
-      "onboard_time": 1770370041,
-      "rank": 47,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 103130,
@@ -1593,6 +1633,14 @@
       "onboard_time": 1770358281,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 99949,
+      "num": 119412,
+      "word": "4类食品不是预制菜",
+      "onboard_time": 1770374121,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 99496,
@@ -1649,14 +1697,6 @@
       "onboard_time": 1770344180,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 92859,
-      "num": 112249,
-      "word": "胡歌说杨紫开机前拘谨得像个兵",
-      "onboard_time": 1770372382,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 92331,
@@ -1787,6 +1827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 83337,
+      "num": 115336,
+      "word": "周冬雨眼睛变大的原因",
+      "onboard_time": 1770371241,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 83048,
       "num": 192463,
       "word": "27岁男子洗浴店猥亵女子被行拘",
@@ -1801,6 +1849,14 @@
       "onboard_time": 1770354082,
       "rank": 40,
       "category": "美食"
+    },
+    {
+      "raw_hot": 79914,
+      "num": 79914,
+      "word": "王诗玥柳鑫宇韵律舞第9",
+      "onboard_time": 1770374720,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 78904,
@@ -2139,14 +2195,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 46503,
-      "num": 115336,
-      "word": "周冬雨眼睛变大的原因",
-      "onboard_time": 1770371241,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 46438,
       "num": 644197,
       "word": "全国首款航天造电动垂直起降飞行器首飞成功",
@@ -2227,6 +2275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 37523,
+      "num": 84327,
+      "word": "山姆回应春节运费加收3元",
+      "onboard_time": 1770373341,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37118,
       "num": 146843,
       "word": "邓为每一步都红在点子上",
@@ -2257,6 +2313,14 @@
       "onboard_time": 1770361520,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 35705,
+      "num": 111021,
+      "word": "为取15万存款要证明我爸是我爸",
+      "onboard_time": 1770374901,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 35086,
@@ -2321,6 +2385,14 @@
       "onboard_time": 1770346519,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31220,
+      "num": 184560,
+      "word": "用中国剪纸打开米兰冬奥",
+      "onboard_time": 1770372441,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 31006,
@@ -2404,7 +2476,7 @@
     },
     {
       "raw_hot": 25508,
-      "num": 668510,
+      "num": 689354,
       "word": "冰雪春天",
       "onboard_time": 1770368240,
       "rank": 2,
@@ -2451,12 +2523,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23112,
+      "num": 184772,
+      "word": "预制菜国标六问六答",
+      "onboard_time": 1770374121,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22429,
       "num": 51765,
       "word": "澳男子涉嫌虐待459名儿童",
       "onboard_time": 1770314657,
       "rank": 49,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 22112,
+      "num": 115196,
+      "word": "MateX7镜头下的微博之夜高光时刻",
+      "onboard_time": 1770372860,
+      "rank": 29,
+      "category": "数码,作品衍生"
     },
     {
       "raw_hot": 21457,
@@ -2497,6 +2585,14 @@
       "onboard_time": 1770326653,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 19919,
+      "num": 111103,
+      "word": "苏新皓居然给姚晨变过魔术",
+      "onboard_time": 1770374240,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 19862,
@@ -2577,14 +2673,6 @@
       "onboard_time": 1770372141,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 7746,
-      "num": 101599,
-      "word": "用中国剪纸打开米兰冬奥",
-      "onboard_time": 1770372441,
-      "rank": 44,
-      "category": "体育"
     }
   ],
   "hotgov_list": [
