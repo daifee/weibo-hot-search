@@ -1,0 +1,410 @@
+{
+  "runTime": 1770376158585,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 777620,
+        "num": 1124419,
+        "word": "快递停运",
+        "onboard_time": 1770359000,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 726992,
+        "num": 839848,
+        "word": "千问送奶茶背后有阳谋",
+        "onboard_time": 1770369800,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 19403,
+        "num": 628716,
+        "word": "冰雪春天",
+        "onboard_time": 1770368240,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 248153,
+        "num": 248153,
+        "word": "中方回应特朗普公开支持高市早苗",
+        "onboard_time": 1770370462,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 239816,
+        "num": 239816,
+        "word": "小马糕",
+        "onboard_time": 1770373641,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 222886,
+        "num": 222886,
+        "word": "成何体统 雷霆特效",
+        "onboard_time": 1770369681,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222506,
+        "num": 222506,
+        "word": "韩国运动员盒饭",
+        "onboard_time": 1770367459,
+        "rank": 6,
+        "category": "体育,美食"
+      },
+      {
+        "raw_hot": 211794,
+        "num": 211794,
+        "word": "胡歌说杨紫开机前拘谨得像个兵",
+        "onboard_time": 1770372382,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203884,
+        "num": 203884,
+        "word": "觉得没情商的可以看看作者文案",
+        "onboard_time": 1770362661,
+        "rank": 8,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 203269,
+        "num": 203269,
+        "word": "4类食品不是预制菜",
+        "onboard_time": 1770374121,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31292,
+        "num": 202331,
+        "word": "用中国剪纸打开米兰冬奥",
+        "onboard_time": 1770372441,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 307241,
+        "num": 199456,
+        "word": "多名领到千问免费奶茶网友发声",
+        "onboard_time": 1770362000,
+        "rank": 11,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 281584,
+        "num": 195463,
+        "word": "1岁宝宝被撞后截肢",
+        "onboard_time": 1770368840,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 274555,
+        "num": 193451,
+        "word": "陛下 How are you",
+        "onboard_time": 1770369620,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158470,
+        "num": 190510,
+        "word": "唐宫奇案直播",
+        "onboard_time": 1770373823,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116985,
+        "num": 189803,
+        "word": "小偷偷十几万刮刮乐刮完未中大奖",
+        "onboard_time": 1770360861,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20193,
+        "num": 187236,
+        "word": "中央厨房制作的菜肴不算预制菜",
+        "onboard_time": 1770375800,
+        "rank": 16,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 150055,
+        "num": 183248,
+        "word": "娜扎的卧蚕比我眼睛大",
+        "onboard_time": 1770370041,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 113511,
+        "num": 181310,
+        "word": "成何体统",
+        "onboard_time": 1770345920,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28670,
+        "num": 178703,
+        "word": "航司回应坐飞机要称体重",
+        "onboard_time": 1770375619,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 920877,
+        "num": 174976,
+        "word": "20岁黄多多好漂亮",
+        "onboard_time": 1770372801,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 754579,
+        "num": 172426,
+        "word": "黄子韬自曝卫生巾工厂现状",
+        "onboard_time": 1770368600,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27878,
+        "num": 170375,
+        "word": "在中国之家开了个科技的箱",
+        "onboard_time": 1770375861,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169313,
+        "num": 169313,
+        "word": "花样滑冰团体赛资格赛",
+        "onboard_time": 1770368121,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 371457,
+        "num": 169177,
+        "word": "王玉雯的裙子太考验身材了",
+        "onboard_time": 1770369981,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 290282,
+        "num": 168864,
+        "word": "千问 免费奶茶",
+        "onboard_time": 1770344239,
+        "rank": 25,
+        "category": "美食,互联网"
+      },
+      {
+        "raw_hot": 274152,
+        "num": 168430,
+        "word": "原来陈小春的真名叫陈泰铨",
+        "onboard_time": 1770371661,
+        "rank": 26,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 91979,
+        "num": 167781,
+        "word": "周冬雨眼睛变大的原因",
+        "onboard_time": 1770371241,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232517,
+        "num": 167376,
+        "word": "千问登顶AppStore免费榜第一",
+        "onboard_time": 1770360920,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 22390,
+        "num": 167069,
+        "word": "MateX7镜头下的微博之夜高光时刻",
+        "onboard_time": 1770372860,
+        "rank": 29,
+        "category": "数码,作品衍生"
+      },
+      {
+        "raw_hot": 166943,
+        "num": 166943,
+        "word": "王诗玥柳鑫宇韵律舞64.92分",
+        "onboard_time": 1770371241,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 79012,
+        "num": 162267,
+        "word": "印度3姐妹留遗书称韩国是我的命",
+        "onboard_time": 1770366200,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 202612,
+        "num": 162010,
+        "word": "周冬雨回应整容争议",
+        "onboard_time": 1770359960,
+        "rank": 32,
+        "category": "综艺,作品衍生"
+      },
+      {
+        "raw_hot": 160683,
+        "num": 160683,
+        "word": "余宇涵好大一声分手",
+        "onboard_time": 1770369981,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128094,
+        "num": 128094,
+        "word": "年夜饭真要坐小孩那桌了",
+        "onboard_time": 1770375440,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134441,
+        "num": 128093,
+        "word": "39岁刘诗诗状态",
+        "onboard_time": 1770372260,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128041,
+        "num": 128041,
+        "word": "TFING全员换头像了",
+        "onboard_time": 1770344719,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112065,
+        "num": 112065,
+        "word": "大姨 求婚都没你浪漫",
+        "onboard_time": 1770370941,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 120765,
+        "num": 110361,
+        "word": "舒淇肖战 十年师友",
+        "onboard_time": 1770375560,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31101,
+        "num": 103840,
+        "word": "女子怀孕后失联被发现还有2个男友",
+        "onboard_time": 1770375981,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102810,
+        "num": 102810,
+        "word": "王传君偷听孟子义白鹿聊天",
+        "onboard_time": 1770362781,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 46004,
+        "num": 102429,
+        "word": "为取15万存款要证明我爸是我爸",
+        "onboard_time": 1770374901,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102243,
+        "num": 102243,
+        "word": "黄子韬卫生巾卖1.5亿还没回本",
+        "onboard_time": 1770367101,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93603,
+        "num": 93603,
+        "word": "吴世勋机场",
+        "onboard_time": 1770371841,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90380,
+        "num": 90380,
+        "word": "国际金银价格大幅反弹",
+        "onboard_time": 1770370701,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 88139,
+        "num": 88139,
+        "word": "女子误扔百克黄金半个月后才发现",
+        "onboard_time": 1770368900,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89853,
+        "num": 88045,
+        "word": "Gucci官方认领的明星",
+        "onboard_time": 1770375261,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 87747,
+        "num": 87747,
+        "word": "迪丽热巴黑长直的神",
+        "onboard_time": 1770359300,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81462,
+        "num": 81462,
+        "word": "过年前的工作强度",
+        "onboard_time": 1770375141,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 79058,
+        "num": 79058,
+        "word": "预制菜不包括中央厨房制作的菜肴",
+        "onboard_time": 1770374062,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#新春之约擘画中俄关系新蓝图#"
+    }
+  }
+}
