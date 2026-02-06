@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1770358454749,
+  "endTime": 1770361784798,
   "band_list": [
     {
       "raw_hot": 22742360,
@@ -657,6 +657,14 @@
       "onboard_time": 1768556180,
       "rank": 3,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 2092415,
+      "num": 2092415,
+      "word": "快递停运",
+      "onboard_time": 1770359000,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 2064980,
@@ -2392,14 +2400,6 @@
       "word": "程序员猝死抢救时曾被拉工作群",
       "onboard_time": 1768998022,
       "rank": 3,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1050077,
-      "num": 1168012,
-      "word": "央视迎00后新主播",
-      "onboard_time": 1769945661,
-      "rank": 37,
       "category": "民生新闻"
     }
   ],

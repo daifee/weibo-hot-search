@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1770358454749,
+  "endTime": 1770361784798,
   "band_list": [
     {
       "raw_hot": 10390810,
@@ -177,6 +177,14 @@
       "onboard_time": 1770268163,
       "rank": 10,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 2092415,
+      "num": 2092415,
+      "word": "快递停运",
+      "onboard_time": 1770359000,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1848020,
@@ -1771,6 +1779,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 522675,
+      "num": 232034,
+      "word": "周冬雨回应整容争议",
+      "onboard_time": 1770359960,
+      "rank": 12,
+      "category": "综艺,作品衍生"
+    },
+    {
       "raw_hot": 521423,
       "num": 216447,
       "word": "爱泼斯坦案视频中女孩光腿跳舞",
@@ -1833,6 +1849,14 @@
       "onboard_time": 1769937080,
       "rank": 9,
       "category": "财经"
+    },
+    {
+      "raw_hot": 507474,
+      "num": 507474,
+      "word": "千问登顶AppStore免费榜第一",
+      "onboard_time": 1770360920,
+      "rank": 4,
+      "category": "互联网"
     },
     {
       "raw_hot": 506107,
@@ -2001,6 +2025,14 @@
       "onboard_time": 1770200781,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 478622,
+      "num": 478622,
+      "word": "千问让奶茶店爆单了",
+      "onboard_time": 1770359060,
+      "rank": 6,
+      "category": "互联网,美食"
     },
     {
       "raw_hot": 476329,
@@ -4203,6 +4235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 259127,
+      "num": 343554,
+      "word": "日本挖到稀土泥中方回应亮了",
+      "onboard_time": 1770357261,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 258639,
       "num": 258639,
       "word": "名侦探柯南 联动",
@@ -4691,6 +4731,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 234118,
+      "num": 296941,
+      "word": "千问提醒网友分散下单",
+      "onboard_time": 1770356901,
+      "rank": 29,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 233980,
       "num": 180548,
       "word": "张桂源张函瑞双人舞台",
@@ -4865,6 +4913,14 @@
       "onboard_time": 1769946082,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 227068,
+      "num": 227068,
+      "word": "吴京 唇部紧急护理",
+      "onboard_time": 1770359424,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 226316,
@@ -5044,7 +5100,7 @@
     },
     {
       "raw_hot": 218112,
-      "num": 175779,
+      "num": 176487,
       "word": "李嘉格为什么口碑两极化了",
       "onboard_time": 1770357742,
       "rank": 27,
@@ -5201,14 +5257,6 @@
       "onboard_time": 1770199520,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 206315,
-      "num": 343554,
-      "word": "日本挖到稀土泥中方回应亮了",
-      "onboard_time": 1770357261,
-      "rank": 27,
-      "category": "国际时政"
     },
     {
       "raw_hot": 206174,
@@ -5569,6 +5617,14 @@
       "onboard_time": 1770176780,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 187611,
+      "num": 187611,
+      "word": "摇滚动物园道歉",
+      "onboard_time": 1770359601,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 187602,
@@ -6067,14 +6123,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 168212,
-      "num": 296941,
-      "word": "千问提醒网友分散下单",
-      "onboard_time": 1770356901,
-      "rank": 29,
-      "category": "民生新闻,互联网"
-    },
-    {
       "raw_hot": 167997,
       "num": 167997,
       "word": "爱泼斯坦案发展已偏离真相",
@@ -6169,6 +6217,14 @@
       "onboard_time": 1770042383,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 163969,
+      "num": 163969,
+      "word": "和光终止与摇滚动物园合作声明",
+      "onboard_time": 1770359781,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 163891,
@@ -6305,6 +6361,14 @@
       "onboard_time": 1770301587,
       "rank": 26,
       "category": "财经"
+    },
+    {
+      "raw_hot": 159404,
+      "num": 227660,
+      "word": "演唱会出轨女方美国演讲门票超6千",
+      "onboard_time": 1770357921,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 158812,
@@ -7259,6 +7323,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 135071,
+      "num": 177041,
+      "word": "曝爱泼斯坦案中2名女孩被勒死",
+      "onboard_time": 1770357800,
+      "rank": 40,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 134990,
       "num": 134990,
       "word": "警方回应夫妻网购娃娃菜食用中毒",
@@ -7313,6 +7385,14 @@
       "onboard_time": 1770295349,
       "rank": 41,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 134004,
+      "num": 134004,
+      "word": "小猫以为主人烫头是炸毛",
+      "onboard_time": 1770358460,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 133846,
@@ -7433,6 +7513,14 @@
       "onboard_time": 1770250341,
       "rank": 24,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 131380,
+      "num": 131380,
+      "word": "白敬亭偷吃",
+      "onboard_time": 1770360259,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 131332,
@@ -7691,6 +7779,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 126748,
+      "num": 126748,
+      "word": "迪丽热巴黑长直的神",
+      "onboard_time": 1770359300,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 126727,
       "num": 122942,
       "word": "杨紫周游新剧不是暧昧是爱妹",
@@ -7777,14 +7873,6 @@
       "onboard_time": 1770092541,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 125706,
-      "num": 131968,
-      "word": "曝爱泼斯坦案中2名女孩被勒死",
-      "onboard_time": 1770357800,
-      "rank": 40,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 125433,
@@ -8033,6 +8121,14 @@
       "onboard_time": 1770270684,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 121597,
+      "num": 292340,
+      "word": "肖战有自己的冰嬉名场面",
+      "onboard_time": 1770357921,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 121464,
@@ -8587,6 +8683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 114091,
+      "num": 185944,
+      "word": "A股迎来奇迹日",
+      "onboard_time": 1770360321,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 114087,
       "num": 114087,
       "word": "沈腾尹正飞驰人生3再就业",
@@ -8980,7 +9084,7 @@
     },
     {
       "raw_hot": 109227,
-      "num": 109227,
+      "num": 132503,
       "word": "妹妹回应25岁哥哥身高仅60cm",
       "onboard_time": 1770357381,
       "rank": 47,
@@ -9899,12 +10003,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 98836,
+      "num": 319267,
+      "word": "开幕还得看张艺谋",
+      "onboard_time": 1770357921,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 98786,
       "num": 98786,
       "word": "闺蜜你真的不考虑下我哥吗",
       "onboard_time": 1770111200,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 98748,
+      "num": 98748,
+      "word": "微信限制千问口令复制",
+      "onboard_time": 1770360081,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 98545,
@@ -10715,6 +10835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 90893,
+      "num": 90893,
+      "word": "敢让张艺谋笑一个的人出现了",
+      "onboard_time": 1770360321,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 90656,
       "num": 90656,
       "word": "爱思回应",
@@ -10929,6 +11057,14 @@
       "onboard_time": 1769924240,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 88652,
+      "num": 168719,
+      "word": "浴霸换气和取暖切勿同时开启",
+      "onboard_time": 1770361641,
+      "rank": 34,
+      "category": "科学科普"
     },
     {
       "raw_hot": 88648,
@@ -11305,6 +11441,14 @@
       "onboard_time": 1770043701,
       "rank": 9,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 85548,
+      "num": 291146,
+      "word": "周震南微博之夜解锁丰愉时刻",
+      "onboard_time": 1770357921,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 85464,
@@ -12491,6 +12635,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 71581,
+      "num": 183784,
+      "word": "闪购骑手服新增千问logo",
+      "onboard_time": 1770358341,
+      "rank": 36,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 71498,
       "num": 71498,
       "word": "Flandre自费为冬奥加油",
@@ -13283,6 +13435,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 58048,
+      "num": 228572,
+      "word": "小偷偷十几万刮刮乐刮完未中大奖",
+      "onboard_time": 1770360861,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57606,
       "num": 57606,
       "word": "詹姆斯或将在今夏离开湖人",
@@ -13433,6 +13593,14 @@
       "onboard_time": 1769989399,
       "rank": 44,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 54474,
+      "num": 131446,
+      "word": "王楚然内娱人脉",
+      "onboard_time": 1770361460,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 54446,
@@ -14371,14 +14539,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 36502,
-      "num": 291146,
-      "word": "周震南微博之夜解锁丰愉时刻",
-      "onboard_time": 1770357921,
-      "rank": 20,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 36011,
       "num": 89804,
       "word": "吃鸡基础搭子就不基础",
@@ -14779,14 +14939,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 29764,
-      "num": 292340,
-      "word": "肖战有自己的冰嬉名场面",
-      "onboard_time": 1770357921,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 29550,
       "num": 122080,
       "word": "女子拔倒刺指甲开裂险截肢",
@@ -14963,14 +15115,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 26453,
-      "num": 132804,
-      "word": "演唱会出轨女方美国演讲门票超6千",
-      "onboard_time": 1770357921,
-      "rank": 39,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 26232,
       "num": 117634,
       "word": "张佳宁好明媚的杀青状态",
@@ -15033,14 +15177,6 @@
       "onboard_time": 1770037222,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 25351,
-      "num": 319267,
-      "word": "开幕还得看张艺谋",
-      "onboard_time": 1770357921,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 25345,
@@ -15971,6 +16107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 9147,
+      "num": 185174,
+      "word": "零下40度千里春运你的车行吗",
+      "onboard_time": 1770361460,
+      "rank": 28,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 8983,
       "num": 329884,
       "word": "打金店生意火爆有人1周改1次款",
@@ -16011,14 +16155,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 7332,
-      "num": 135540,
-      "word": "闪购骑手服新增千问logo",
-      "onboard_time": 1770358341,
-      "rank": 36,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 7005,
       "num": 1538649,
       "word": "我国互联网普及率超8成",
@@ -16057,6 +16193,14 @@
       "onboard_time": 1770282566,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 6304,
+      "num": 229002,
+      "word": "王一博的贴贴攻略",
+      "onboard_time": 1770361520,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 6035,

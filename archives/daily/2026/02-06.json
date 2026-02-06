@@ -1,6 +1,6 @@
 {
   "startTime": 1770307563881,
-  "endTime": 1770358454749,
+  "endTime": 1770361784798,
   "band_list": [
     {
       "raw_hot": 7028994,
@@ -33,6 +33,14 @@
       "onboard_time": 1770344239,
       "rank": 4,
       "category": "美食,互联网"
+    },
+    {
+      "raw_hot": 2092415,
+      "num": 2092415,
+      "word": "快递停运",
+      "onboard_time": 1770359000,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 2004734,
@@ -211,12 +219,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 522675,
+      "num": 232034,
+      "word": "周冬雨回应整容争议",
+      "onboard_time": 1770359960,
+      "rank": 12,
+      "category": "综艺,作品衍生"
+    },
+    {
       "raw_hot": 509875,
       "num": 509875,
       "word": "陈妍希周柯宇 灯暗下来就贴贴",
       "onboard_time": 1770300568,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 507474,
+      "num": 507474,
+      "word": "千问登顶AppStore免费榜第一",
+      "onboard_time": 1770360920,
+      "rank": 4,
+      "category": "互联网"
     },
     {
       "raw_hot": 500483,
@@ -249,6 +273,14 @@
       "onboard_time": 1770345320,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 478622,
+      "num": 478622,
+      "word": "千问让奶茶店爆单了",
+      "onboard_time": 1770359060,
+      "rank": 6,
+      "category": "互联网,美食"
     },
     {
       "raw_hot": 454086,
@@ -491,6 +523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 259127,
+      "num": 343554,
+      "word": "日本挖到稀土泥中方回应亮了",
+      "onboard_time": 1770357261,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 256627,
       "num": 197246,
       "word": "女子临盆才知怀孕生下8斤女儿",
@@ -539,6 +579,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 234118,
+      "num": 296941,
+      "word": "千问提醒网友分散下单",
+      "onboard_time": 1770356901,
+      "rank": 29,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 232596,
       "num": 232596,
       "word": "鞠婧祎ins更新",
@@ -571,6 +619,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 227068,
+      "num": 227068,
+      "word": "吴京 唇部紧急护理",
+      "onboard_time": 1770359424,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 225373,
       "num": 225373,
       "word": "赖伟明发后台合照",
@@ -588,7 +644,7 @@
     },
     {
       "raw_hot": 218112,
-      "num": 175779,
+      "num": 176487,
       "word": "李嘉格为什么口碑两极化了",
       "onboard_time": 1770357742,
       "rank": 27,
@@ -609,14 +665,6 @@
       "onboard_time": 1770298228,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 206315,
-      "num": 343554,
-      "word": "日本挖到稀土泥中方回应亮了",
-      "onboard_time": 1770357261,
-      "rank": 27,
-      "category": "国际时政"
     },
     {
       "raw_hot": 206174,
@@ -649,6 +697,14 @@
       "onboard_time": 1770290726,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 187611,
+      "num": 187611,
+      "word": "摇滚动物园道歉",
+      "onboard_time": 1770359601,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 184566,
@@ -715,12 +771,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 168212,
-      "num": 296941,
-      "word": "千问提醒网友分散下单",
-      "onboard_time": 1770356901,
-      "rank": 29,
-      "category": "民生新闻,互联网"
+      "raw_hot": 163969,
+      "num": 163969,
+      "word": "和光终止与摇滚动物园合作声明",
+      "onboard_time": 1770359781,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 162551,
@@ -737,6 +793,14 @@
       "onboard_time": 1770284965,
       "rank": 33,
       "category": "民生新闻,动漫"
+    },
+    {
+      "raw_hot": 159404,
+      "num": 227660,
+      "word": "演唱会出轨女方美国演讲门票超6千",
+      "onboard_time": 1770357921,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 157441,
@@ -851,6 +915,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 135071,
+      "num": 177041,
+      "word": "曝爱泼斯坦案中2名女孩被勒死",
+      "onboard_time": 1770357800,
+      "rank": 40,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 134004,
+      "num": 134004,
+      "word": "小猫以为主人烫头是炸毛",
+      "onboard_time": 1770358460,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 133846,
       "num": 133846,
       "word": "杜华晒微博之夜合照",
@@ -899,6 +979,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 131380,
+      "num": 131380,
+      "word": "白敬亭偷吃",
+      "onboard_time": 1770360259,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 130959,
       "num": 249694,
       "word": "千问狂砸30亿发起奶茶攻势",
@@ -923,20 +1011,20 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 126748,
+      "num": 126748,
+      "word": "迪丽热巴黑长直的神",
+      "onboard_time": 1770359300,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 126727,
       "num": 122942,
       "word": "杨紫周游新剧不是暧昧是爱妹",
       "onboard_time": 1770357140,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 125706,
-      "num": 131968,
-      "word": "曝爱泼斯坦案中2名女孩被勒死",
-      "onboard_time": 1770357800,
-      "rank": 40,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 124734,
@@ -961,6 +1049,14 @@
       "onboard_time": 1770356121,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 121597,
+      "num": 292340,
+      "word": "肖战有自己的冰嬉名场面",
+      "onboard_time": 1770357921,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 120201,
@@ -1027,6 +1123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114091,
+      "num": 185944,
+      "word": "A股迎来奇迹日",
+      "onboard_time": 1770360321,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 114087,
       "num": 114087,
       "word": "沈腾尹正飞驰人生3再就业",
@@ -1068,7 +1172,7 @@
     },
     {
       "raw_hot": 109227,
-      "num": 109227,
+      "num": 132503,
       "word": "妹妹回应25岁哥哥身高仅60cm",
       "onboard_time": 1770357381,
       "rank": 47,
@@ -1129,6 +1233,22 @@
       "onboard_time": 1770358281,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 98836,
+      "num": 319267,
+      "word": "开幕还得看张艺谋",
+      "onboard_time": 1770357921,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 98748,
+      "num": 98748,
+      "word": "微信限制千问口令复制",
+      "onboard_time": 1770360081,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 98403,
@@ -1195,6 +1315,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 90893,
+      "num": 90893,
+      "word": "敢让张艺谋笑一个的人出现了",
+      "onboard_time": 1770360321,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 90519,
       "num": 284576,
       "word": "第一代智力低于父母的群体出现了",
@@ -1209,6 +1337,14 @@
       "onboard_time": 1770334279,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 88652,
+      "num": 168719,
+      "word": "浴霸换气和取暖切勿同时开启",
+      "onboard_time": 1770361641,
+      "rank": 34,
+      "category": "科学科普"
     },
     {
       "raw_hot": 88648,
@@ -1241,6 +1377,14 @@
       "onboard_time": 1770354923,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 85548,
+      "num": 291146,
+      "word": "周震南微博之夜解锁丰愉时刻",
+      "onboard_time": 1770357921,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 84632,
@@ -1323,6 +1467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 71581,
+      "num": 183784,
+      "word": "闪购骑手服新增千问logo",
+      "onboard_time": 1770358341,
+      "rank": 36,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 69355,
       "num": 69355,
       "word": "微博抓马",
@@ -1403,6 +1555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 58048,
+      "num": 228572,
+      "word": "小偷偷十几万刮刮乐刮完未中大奖",
+      "onboard_time": 1770360861,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 56328,
       "num": 56328,
       "word": "周深紧急表情管理",
@@ -1425,6 +1585,14 @@
       "onboard_time": 1770305066,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 54474,
+      "num": 131446,
+      "word": "王楚然内娱人脉",
+      "onboard_time": 1770361460,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 54020,
@@ -1587,14 +1755,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 36502,
-      "num": 291146,
-      "word": "周震南微博之夜解锁丰愉时刻",
-      "onboard_time": 1770357921,
-      "rank": 20,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 35005,
       "num": 31416,
       "word": "大跳台竞争好激烈",
@@ -1675,14 +1835,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 29764,
-      "num": 292340,
-      "word": "肖战有自己的冰嬉名场面",
-      "onboard_time": 1770357921,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 29172,
       "num": 188412,
       "word": "中国留学生偶遇荷兰火车放春晚预告",
@@ -1715,14 +1867,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 26453,
-      "num": 132804,
-      "word": "演唱会出轨女方美国演讲门票超6千",
-      "onboard_time": 1770357921,
-      "rank": 39,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 26035,
       "num": 33417,
       "word": "杨文龙无缘大跳台决赛",
@@ -1737,14 +1881,6 @@
       "onboard_time": 1770350720,
       "rank": 28,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 25351,
-      "num": 319267,
-      "word": "开幕还得看张艺谋",
-      "onboard_time": 1770357921,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 25345,
@@ -1867,12 +2003,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 7332,
-      "num": 135540,
-      "word": "闪购骑手服新增千问logo",
-      "onboard_time": 1770358341,
-      "rank": 36,
-      "category": "互联网"
+      "raw_hot": 9147,
+      "num": 185174,
+      "word": "零下40度千里春运你的车行吗",
+      "onboard_time": 1770361460,
+      "rank": 28,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 6304,
+      "num": 229002,
+      "word": "王一博的贴贴攻略",
+      "onboard_time": 1770361520,
+      "rank": 18,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [
