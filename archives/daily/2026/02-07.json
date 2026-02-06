@@ -1,0 +1,411 @@
+{
+  "startTime": 1770393849547,
+  "endTime": 1770393849547,
+  "band_list": [
+    {
+      "raw_hot": 737921,
+      "num": 191751,
+      "word": "爱泼斯坦死亡当晚监控曝光",
+      "onboard_time": 1770379520,
+      "rank": 10,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 613100,
+      "num": 1073252,
+      "word": "快递停运",
+      "onboard_time": 1770359000,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 521722,
+      "num": 521722,
+      "word": "Bin 我依然是世一上",
+      "onboard_time": 1770386482,
+      "rank": 3,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 472805,
+      "num": 174839,
+      "word": "爱泼斯坦",
+      "onboard_time": 1770389360,
+      "rank": 11,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 437591,
+      "num": 781119,
+      "word": "成何体统",
+      "onboard_time": 1770390801,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 412505,
+      "num": 99764,
+      "word": "20岁黄多多好漂亮",
+      "onboard_time": 1770372801,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 373015,
+      "num": 153205,
+      "word": "黄子韬自曝卫生巾工厂现状",
+      "onboard_time": 1770368600,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 335428,
+      "num": 98583,
+      "word": "虞书欣跳舞身材很曼妙",
+      "onboard_time": 1770389721,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 298553,
+      "num": 298553,
+      "word": "生命树18集12分57秒",
+      "onboard_time": 1770387983,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 275639,
+      "num": 275639,
+      "word": "91岁老人900万积蓄遭儿子儿媳挪用",
+      "onboard_time": 1770379641,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 259703,
+      "num": 147769,
+      "word": "罗云熙五杀",
+      "onboard_time": 1770391282,
+      "rank": 13,
+      "category": "艺人,电竞"
+    },
+    {
+      "raw_hot": 254239,
+      "num": 100688,
+      "word": "管泽元 Bin快说你被盗号了",
+      "onboard_time": 1770388102,
+      "rank": 20,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 249713,
+      "num": 249713,
+      "word": "吴京官宣王嘉尔加入镖人世界",
+      "onboard_time": 1770385761,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 243663,
+      "num": 243663,
+      "word": "教练说奥运会后苏翊鸣飘了",
+      "onboard_time": 1770390082,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 214665,
+      "num": 214665,
+      "word": "一上午烫了20多个老太太",
+      "onboard_time": 1770380662,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 213966,
+      "num": 96251,
+      "word": "硕士娶离异农村妇女守护留守儿童",
+      "onboard_time": 1770387864,
+      "rank": 23,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 209458,
+      "num": 87576,
+      "word": "王楚钦尊重国家队的安排",
+      "onboard_time": 1770393440,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 196028,
+      "num": 196028,
+      "word": "小马糕",
+      "onboard_time": 1770373641,
+      "rank": 9,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 178996,
+      "num": 122860,
+      "word": "杨雪晒老公作品",
+      "onboard_time": 1770390862,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 174286,
+      "num": 117346,
+      "word": "张艺凡卢昱晓造型师是天才来的",
+      "onboard_time": 1770382582,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 162151,
+      "num": 105055,
+      "word": "吴世勋上海签售生图",
+      "onboard_time": 1770385642,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 152225,
+      "num": 103106,
+      "word": "张杰演唱会幸运观众黄霄雲",
+      "onboard_time": 1770387083,
+      "rank": 19,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 137710,
+      "num": 137710,
+      "word": "黑飞无人机最近时距客机仅800米",
+      "onboard_time": 1770389240,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 135342,
+      "num": 94787,
+      "word": "肖战捎来春天",
+      "onboard_time": 1770392061,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 106030,
+      "num": 106030,
+      "word": "女子室外上雾化透明厕所",
+      "onboard_time": 1770385099,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93433,
+      "num": 93433,
+      "word": "网红录视频挑战跳水3天后遗体被发现",
+      "onboard_time": 1770389002,
+      "rank": 25,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 91678,
+      "num": 91678,
+      "word": "丞磊 你有没有为了剧宣拼过命",
+      "onboard_time": 1770389424,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 90568,
+      "num": 90568,
+      "word": "虞书欣怎么独自在上班路上拍现偶",
+      "onboard_time": 1770385462,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 89609,
+      "num": 89609,
+      "word": "隋文静摔倒",
+      "onboard_time": 1770377841,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 87905,
+      "num": 87905,
+      "word": "最强大脑",
+      "onboard_time": 1770382941,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 86290,
+      "num": 86290,
+      "word": "奶茶品牌为千问免单拼了",
+      "onboard_time": 1770383482,
+      "rank": 31,
+      "category": "美食,互联网"
+    },
+    {
+      "raw_hot": 85520,
+      "num": 85520,
+      "word": "感觉人生被卡住时试着做这4件事",
+      "onboard_time": 1770393440,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 83828,
+      "num": 83828,
+      "word": "1岁宝宝被撞后截肢",
+      "onboard_time": 1770368840,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 80976,
+      "num": 80976,
+      "word": "推拿遭技师猥亵受害女生发声",
+      "onboard_time": 1770391401,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 79119,
+      "num": 79119,
+      "word": "生命树",
+      "onboard_time": 1770381801,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 73991,
+      "num": 73991,
+      "word": "张函瑞高会自拍",
+      "onboard_time": 1770391881,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 73744,
+      "num": 73744,
+      "word": "原来陈小春的真名叫陈泰铨",
+      "onboard_time": 1770371661,
+      "rank": 38,
+      "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 73432,
+      "num": 73432,
+      "word": "立威廉去年已进行2次手术",
+      "onboard_time": 1770384382,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 72855,
+      "num": 73820,
+      "word": "明日方舟辞岁行",
+      "onboard_time": 1770384442,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 71307,
+      "num": 71307,
+      "word": "1.5万裤子穿1天发现勾线退货难",
+      "onboard_time": 1770392479,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 69911,
+      "num": 69911,
+      "word": "范丞丞直播",
+      "onboard_time": 1770384262,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 67209,
+      "num": 67209,
+      "word": "10万多元黄金被当垃圾扔了",
+      "onboard_time": 1770384621,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 66585,
+      "num": 66585,
+      "word": "张真源清唱",
+      "onboard_time": 1770393499,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 65838,
+      "num": 65838,
+      "word": "小米新款纯电SUV车型命名为YU7GT",
+      "onboard_time": 1770388462,
+      "rank": 45,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 65519,
+      "num": 65519,
+      "word": "千问送奶茶背后有阳谋",
+      "onboard_time": 1770369800,
+      "rank": 46,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 63789,
+      "num": 63789,
+      "word": "巴拿马正成为第二个立陶宛",
+      "onboard_time": 1770391940,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 62915,
+      "num": 62915,
+      "word": "刘小怂直播",
+      "onboard_time": 1770388221,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 61458,
+      "num": 66694,
+      "word": "钎城流泪",
+      "onboard_time": 1770390022,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 61184,
+      "num": 61184,
+      "word": "陈哲远复制丞磊后援会文案",
+      "onboard_time": 1770379641,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 43708,
+      "num": 619511,
+      "word": "你家年货清单都有啥",
+      "onboard_time": 1770388163,
+      "rank": 2,
+      "category": "民生新闻"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#重温总书记对冰雪健儿的谆谆嘱托#"
+    }
+  ]
+}
