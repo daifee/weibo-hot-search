@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1770345566591,
+  "endTime": 1770347807831,
   "band_list": [
     {
       "raw_hot": 10390810,
@@ -91,6 +91,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 3035952,
+      "num": 271437,
+      "word": "TFING全员换头像了",
+      "onboard_time": 1770344719,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2744239,
       "num": 1123876,
       "word": "杨幂身子斜的都快躺那了",
@@ -137,6 +145,14 @@
       "onboard_time": 1769948841,
       "rank": 3,
       "category": "演出"
+    },
+    {
+      "raw_hot": 2188912,
+      "num": 573325,
+      "word": "千问 免费奶茶",
+      "onboard_time": 1770344239,
+      "rank": 4,
+      "category": "美食,互联网"
     },
     {
       "raw_hot": 2187136,
@@ -305,14 +321,6 @@
       "onboard_time": 1770210501,
       "rank": 0,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1295312,
-      "num": 271437,
-      "word": "TFING全员换头像了",
-      "onboard_time": 1770344719,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1292335,
@@ -697,14 +705,6 @@
       "onboard_time": 1770092960,
       "rank": 6,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 883018,
-      "num": 428166,
-      "word": "千问 免费奶茶",
-      "onboard_time": 1770344239,
-      "rank": 4,
-      "category": "美食,互联网"
     },
     {
       "raw_hot": 861695,
@@ -1211,6 +1211,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 665542,
+      "num": 1106486,
+      "word": "外国网友请求中国帮助网友回复爆火",
+      "onboard_time": 1770344360,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 663572,
       "num": 663572,
       "word": "王者马年限定皮肤英雄公布",
@@ -1433,6 +1441,14 @@
       "onboard_time": 1769953943,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 583032,
+      "num": 240188,
+      "word": "TF四代换登陆少年新歌海报头像",
+      "onboard_time": 1770345260,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 580257,
@@ -1897,6 +1913,14 @@
       "onboard_time": 1770043701,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 482964,
+      "num": 239207,
+      "word": "白鹿孟子义热聊张凌赫突然走过来",
+      "onboard_time": 1770345320,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 481976,
@@ -2627,6 +2651,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 377798,
+      "num": 191392,
+      "word": "张峻豪换朱志鑫头像",
+      "onboard_time": 1770345379,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 377283,
       "num": 351948,
       "word": "时代少年团红毯",
@@ -3243,6 +3275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 321299,
+      "num": 128445,
+      "word": "紫醉金幂",
+      "onboard_time": 1770346100,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 321064,
       "num": 823020,
       "word": "男子养4只鹦鹉3只死亡后全家倒下",
@@ -3505,6 +3545,14 @@
       "onboard_time": 1770174321,
       "rank": 12,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 299542,
+      "num": 146713,
+      "word": "邓佳鑫头像 查无此人",
+      "onboard_time": 1770345440,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 298952,
@@ -3907,6 +3955,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 267947,
+      "num": 274436,
+      "word": "女演员开箱取出100克黄金500克白银",
+      "onboard_time": 1770344239,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 267678,
       "num": 267678,
       "word": "印度13岁女孩在一户家庭当6年童工",
@@ -4073,14 +4129,6 @@
       "onboard_time": 1769873301,
       "rank": 12,
       "category": "网红"
-    },
-    {
-      "raw_hot": 255746,
-      "num": 191392,
-      "word": "张峻豪换朱志鑫头像",
-      "onboard_time": 1770345379,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 253955,
@@ -4371,20 +4419,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 240098,
+      "num": 240098,
+      "word": "男子在姐姐婚宴上骗走两名女童猥亵",
+      "onboard_time": 1770344599,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 240010,
       "num": 766505,
       "word": "伊朗总统已下令启动核谈判",
       "onboard_time": 1770030681,
       "rank": 24,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 239207,
-      "num": 239207,
-      "word": "白鹿孟子义热聊张凌赫突然走过来",
-      "onboard_time": 1770345320,
-      "rank": 16,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 238947,
@@ -4819,14 +4867,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 219863,
-      "num": 277240,
-      "word": "外国网友请求中国帮助网友回复爆火",
-      "onboard_time": 1770344360,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 219808,
       "num": 219808,
       "word": "名侦探柯南",
@@ -5121,14 +5161,6 @@
       "onboard_time": 1770116120,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 198106,
-      "num": 198106,
-      "word": "TF四代换登陆少年新歌海报头像",
-      "onboard_time": 1770345260,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 197489,
@@ -6139,14 +6171,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 156654,
-      "num": 146713,
-      "word": "邓佳鑫头像 查无此人",
-      "onboard_time": 1770345440,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 156527,
       "num": 156527,
       "word": "谢娜直播",
@@ -6451,12 +6475,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 147402,
-      "num": 147402,
-      "word": "男子在姐姐婚宴上骗走两名女童猥亵",
-      "onboard_time": 1770344599,
-      "rank": 32,
-      "category": "民生新闻"
+      "raw_hot": 147603,
+      "num": 147603,
+      "word": "穆祉丞拍周柯宇陈妍希双人舞台",
+      "onboard_time": 1770344300,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 146936,
@@ -6497,6 +6521,14 @@
       "onboard_time": 1770285267,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 145801,
+      "num": 126138,
+      "word": "QQ农场宣布正式回归",
+      "onboard_time": 1770345140,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 145610,
@@ -6912,14 +6944,6 @@
       "word": "女子称花200元独享一架客机飞成都",
       "onboard_time": 1770246978,
       "rank": 23,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 136000,
-      "num": 274436,
-      "word": "女演员开箱取出100克黄金500克白银",
-      "onboard_time": 1770344239,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -8027,6 +8051,14 @@
       "category": "幽默,财经"
     },
     {
+      "raw_hot": 117928,
+      "num": 117928,
+      "word": "李乃文抽到了陈哲远的黄金米",
+      "onboard_time": 1770346400,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 117549,
       "num": 117549,
       "word": "裁员裁到大动脉有新说法了",
@@ -8227,6 +8259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 114087,
+      "num": 114087,
+      "word": "沈腾尹正飞驰人生3再就业",
+      "onboard_time": 1770347300,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 113867,
       "num": 113867,
       "word": "年度十大影响力电视剧",
@@ -8369,14 +8409,6 @@
       "onboard_time": 1770279986,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 112419,
-      "num": 112419,
-      "word": "穆祉丞拍周柯宇陈妍希双人舞台",
-      "onboard_time": 1770344300,
-      "rank": 40,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 112235,
@@ -9379,6 +9411,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 100503,
+      "num": 114494,
+      "word": "苏翊鸣决赛堪比神仙打架",
+      "onboard_time": 1770344661,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 100493,
       "num": 108501,
       "word": "第一次见长剧里中插短剧",
@@ -9393,6 +9433,14 @@
       "onboard_time": 1769922799,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100237,
+      "num": 100237,
+      "word": "千问回应免费奶茶活动",
+      "onboard_time": 1770347599,
+      "rank": 41,
+      "category": "互联网"
     },
     {
       "raw_hot": 100236,
@@ -10123,6 +10171,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 92331,
+      "num": 92331,
+      "word": "我们的少年时代2上班了",
+      "onboard_time": 1770346339,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 92282,
       "num": 92282,
       "word": "Faker发博",
@@ -10305,6 +10361,14 @@
       "onboard_time": 1770163459,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 90409,
+      "num": 90409,
+      "word": "爱尔眼科董事疑为骗保精神病院实控人",
+      "onboard_time": 1770347719,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90328,
@@ -11595,6 +11659,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 78904,
+      "num": 182016,
+      "word": "挪瓦为咖啡人喊话千问免单咖啡",
+      "onboard_time": 1770343641,
+      "rank": 29,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 78799,
       "num": 78799,
       "word": "金饰克价重回1600元",
@@ -12867,6 +12939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 56250,
+      "num": 90367,
+      "word": "家长吐槽抱着小宝给大宝值护学岗",
+      "onboard_time": 1770346519,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 56089,
       "num": 95020,
       "word": "国色芳华年度剧王含金量",
@@ -13017,6 +13097,14 @@
       "onboard_time": 1770248778,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 52402,
+      "num": 103894,
+      "word": "爱泼斯坦案窥见上流人有多下流",
+      "onboard_time": 1770347540,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 52217,
@@ -13755,14 +13843,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 37576,
-      "num": 182016,
-      "word": "挪瓦为咖啡人喊话千问免单咖啡",
-      "onboard_time": 1770343641,
-      "rank": 29,
-      "category": "民生新闻,互联网"
-    },
-    {
       "raw_hot": 37547,
       "num": 66093,
       "word": "中资港口保卫战我们绝不退缩",
@@ -13825,6 +13905,14 @@
       "onboard_time": 1769856141,
       "rank": 44,
       "category": "财经"
+    },
+    {
+      "raw_hot": 36841,
+      "num": 126291,
+      "word": "寻找开幕式中的苏翊鸣",
+      "onboard_time": 1770347120,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 36596,
@@ -14123,6 +14211,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 31786,
+      "num": 90379,
+      "word": "一批60后70后退休后出国留学",
+      "onboard_time": 1770346519,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31586,
       "num": 1136482,
       "word": "高叶出发图向上气场全开",
@@ -14339,6 +14435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 27324,
+      "num": 131746,
+      "word": "与周杰伦合拍新春大片",
+      "onboard_time": 1770347120,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 27235,
       "num": 124073,
       "word": "解读最新中央一号文件",
@@ -14540,7 +14644,7 @@
     },
     {
       "raw_hot": 23861,
-      "num": 643872,
+      "num": 652577,
       "word": "来华过大年成全球新风尚",
       "onboard_time": 1770301528,
       "rank": 2,
@@ -14769,6 +14873,14 @@
       "onboard_time": 1770329535,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 20742,
+      "num": 134726,
+      "word": "张予曦水光肌",
+      "onboard_time": 1770347359,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 20477,

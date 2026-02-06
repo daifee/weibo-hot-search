@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1770345566591,
+  "endTime": 1770347807831,
   "band_list": [
     {
       "raw_hot": 22742360,
@@ -347,6 +347,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 3035952,
+      "num": 271437,
+      "word": "TFING全员换头像了",
+      "onboard_time": 1770344719,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 3020265,
       "num": 201730,
       "word": "刘一诺 没义务替檀健次承受抹黑",
@@ -593,6 +601,14 @@
       "onboard_time": 1769695164,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 2188912,
+      "num": 573325,
+      "word": "千问 免费奶茶",
+      "onboard_time": 1770344239,
+      "rank": 4,
+      "category": "美食,互联网"
     },
     {
       "raw_hot": 2187136,
@@ -1449,14 +1465,6 @@
       "onboard_time": 1769497399,
       "rank": 5,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1295312,
-      "num": 271437,
-      "word": "TFING全员换头像了",
-      "onboard_time": 1770344719,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1295224,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1767410309,
       "rank": 11,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1045088,
-      "num": 78182,
-      "word": "张凌赫跑男常驻",
-      "onboard_time": 1770169159,
-      "rank": 43,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [
