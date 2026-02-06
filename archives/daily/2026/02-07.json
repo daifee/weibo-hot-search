@@ -1,6 +1,6 @@
 {
   "startTime": 1770393849547,
-  "endTime": 1770407063392,
+  "endTime": 1770407787353,
   "band_list": [
     {
       "raw_hot": 737921,
@@ -419,6 +419,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 64543,
+      "num": 64543,
+      "word": "米兰开幕式 好正常好好看",
+      "onboard_time": 1770406754,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 62915,
       "num": 62915,
       "word": "刘小怂直播",
@@ -459,19 +467,11 @@
       "category": "演出"
     },
     {
-      "raw_hot": 46924,
-      "num": 26054,
+      "raw_hot": 48103,
+      "num": 48103,
       "word": "意大利真的好艺术",
       "onboard_time": 1770405975,
       "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 46862,
-      "num": 46862,
-      "word": "米兰开幕式 好正常好好看",
-      "onboard_time": 1770406754,
-      "rank": 7,
       "category": "体育"
     },
     {
@@ -563,6 +563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 24929,
+      "num": 41169,
+      "word": "分不清是米兰冬奥会还是米兰时装周",
+      "onboard_time": 1770406274,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 24892,
       "num": 87572,
       "word": "米兰冬奥开幕式观看指南",
@@ -619,12 +627,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 16306,
-      "num": 37870,
-      "word": "分不清是米兰冬奥会还是米兰时装周",
-      "onboard_time": 1770406274,
-      "rank": 9,
-      "category": "体育"
+      "raw_hot": 15336,
+      "num": 15336,
+      "word": "风过留痕",
+      "onboard_time": 1770398658,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 15228,
