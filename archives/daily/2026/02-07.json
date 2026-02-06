@@ -1,6 +1,6 @@
 {
   "startTime": 1770393849547,
-  "endTime": 1770397022329,
+  "endTime": 1770397950783,
   "band_list": [
     {
       "raw_hot": 737921,
@@ -27,6 +27,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 498602,
+      "num": 781119,
+      "word": "成何体统",
+      "onboard_time": 1770390801,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 474992,
       "num": 474992,
       "word": "王楚钦尊重国家队的安排",
@@ -41,14 +49,6 @@
       "onboard_time": 1770389360,
       "rank": 11,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 437591,
-      "num": 781119,
-      "word": "成何体统",
-      "onboard_time": 1770390801,
-      "rank": 1,
-      "category": "剧集"
     },
     {
       "raw_hot": 412505,
@@ -163,6 +163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 178174,
+      "num": 178174,
+      "word": "巴拿马正成为第二个立陶宛",
+      "onboard_time": 1770391940,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 174286,
       "num": 117346,
       "word": "张艺凡卢昱晓造型师是天才来的",
@@ -195,14 +203,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 141196,
-      "num": 141196,
-      "word": "巴拿马正成为第二个立陶宛",
-      "onboard_time": 1770391940,
-      "rank": 47,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 139037,
       "num": 139037,
       "word": "肖战捎来春天",
@@ -227,6 +227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 98335,
+      "num": 98335,
+      "word": "卢昱晓说女明星不能一味追求瘦",
+      "onboard_time": 1770396559,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 93433,
       "num": 93433,
       "word": "网红录视频挑战跳水3天后遗体被发现",
@@ -243,6 +251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 90982,
+      "num": 83923,
+      "word": "底层斩杀线 顶层萝莉岛",
+      "onboard_time": 1770396318,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 90568,
       "num": 90568,
       "word": "虞书欣怎么独自在上班路上拍现偶",
@@ -257,14 +273,6 @@
       "onboard_time": 1770377841,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 89013,
-      "num": 89013,
-      "word": "卢昱晓说女明星不能一味追求瘦",
-      "onboard_time": 1770396559,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 87905,
@@ -291,6 +299,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 84858,
+      "num": 84858,
+      "word": "多款空气炸锅存在假温度旋钮",
+      "onboard_time": 1770394281,
+      "rank": 29,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 83828,
       "num": 83828,
       "word": "1岁宝宝被撞后截肢",
@@ -305,14 +321,6 @@
       "onboard_time": 1770381801,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 76586,
-      "num": 76586,
-      "word": "多款空气炸锅存在假温度旋钮",
-      "onboard_time": 1770394281,
-      "rank": 29,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 73991,
@@ -420,23 +428,15 @@
     },
     {
       "raw_hot": 52644,
-      "num": 52644,
+      "num": 53161,
       "word": "白鹿发型没乱王星越心乱了",
       "onboard_time": 1770392840,
       "rank": 38,
       "category": "剧集"
     },
     {
-      "raw_hot": 52638,
-      "num": 52638,
-      "word": "底层斩杀线 顶层萝莉岛",
-      "onboard_time": 1770396318,
-      "rank": 39,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 51073,
-      "num": 51073,
+      "num": 53044,
       "word": "华晨宇玫瑰权杖夯爆了",
       "onboard_time": 1770389902,
       "rank": 41,
@@ -452,14 +452,22 @@
     },
     {
       "raw_hot": 42626,
-      "num": 49541,
+      "num": 52983,
       "word": "AL成功翻盘BLG",
       "onboard_time": 1770388042,
       "rank": 48,
       "category": "电竞"
     },
     {
-      "raw_hot": 9773,
+      "raw_hot": 35790,
+      "num": 53005,
+      "word": "怀孕闺蜜代替女生亡父送她出嫁",
+      "onboard_time": 1770381801,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15228,
       "num": 146460,
       "word": "回看中国冬奥军团夺金之路",
       "onboard_time": 1770396440,
