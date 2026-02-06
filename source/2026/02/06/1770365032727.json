@@ -1,0 +1,410 @@
+{
+  "runTime": 1770365032727,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1029262,
+        "num": 1164681,
+        "word": "快递停运",
+        "onboard_time": 1770359000,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1004258,
+        "num": 1004258,
+        "word": "千问回应免费奶茶活动",
+        "onboard_time": 1770347599,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 19560,
+        "num": 914776,
+        "word": "一人一句为中国冬奥健儿加油",
+        "onboard_time": 1770349521,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 905371,
+        "num": 905371,
+        "word": "千问 免费奶茶",
+        "onboard_time": 1770344239,
+        "rank": 3,
+        "category": "美食,互联网"
+      },
+      {
+        "raw_hot": 703232,
+        "num": 703232,
+        "word": "小偷偷十几万刮刮乐刮完未中大奖",
+        "onboard_time": 1770360861,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 645567,
+        "num": 645567,
+        "word": "千问登顶AppStore免费榜第一",
+        "onboard_time": 1770360920,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 431752,
+        "num": 431752,
+        "word": "千问让奶茶店爆单了",
+        "onboard_time": 1770359060,
+        "rank": 6,
+        "category": "互联网,美食"
+      },
+      {
+        "raw_hot": 367253,
+        "num": 367253,
+        "word": "王传君偷听孟子义白鹿聊天",
+        "onboard_time": 1770362781,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 321976,
+        "num": 321976,
+        "word": "成何体统",
+        "onboard_time": 1770345920,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 316481,
+        "num": 316481,
+        "word": "多名领到千问免费奶茶网友发声",
+        "onboard_time": 1770362000,
+        "rank": 9,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 845202,
+        "num": 292174,
+        "word": "周冬雨回应整容争议",
+        "onboard_time": 1770359960,
+        "rank": 10,
+        "category": "综艺,作品衍生"
+      },
+      {
+        "raw_hot": 430049,
+        "num": 287583,
+        "word": "TFING全员换头像了",
+        "onboard_time": 1770344719,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264521,
+        "num": 264521,
+        "word": "爱泼斯坦前女友在牢房活动监控曝光",
+        "onboard_time": 1770354501,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 36292,
+        "num": 222031,
+        "word": "王一博的贴贴攻略",
+        "onboard_time": 1770361520,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208770,
+        "num": 208770,
+        "word": "摇滚动物园道歉",
+        "onboard_time": 1770359601,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179318,
+        "num": 200320,
+        "word": "演唱会出轨女方美国演讲门票超6千",
+        "onboard_time": 1770357921,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 199275,
+        "num": 199275,
+        "word": "吴京 唇部紧急护理",
+        "onboard_time": 1770359424,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 189649,
+        "num": 189649,
+        "word": "杨幂微博QUEEN",
+        "onboard_time": 1770303088,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 174589,
+        "num": 174589,
+        "word": "日本挖到稀土泥中方回应亮了",
+        "onboard_time": 1770357261,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 106543,
+        "num": 160826,
+        "word": "女子3万元金手链戴10天丢失追责商家",
+        "onboard_time": 1770364040,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 497138,
+        "num": 160360,
+        "word": "林心如50岁身材状态",
+        "onboard_time": 1770363141,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 348498,
+        "num": 159975,
+        "word": "邬君梅透露丈夫已病逝",
+        "onboard_time": 1770352760,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158247,
+        "num": 158247,
+        "word": "觉得没情商的可以看看作者文案",
+        "onboard_time": 1770362661,
+        "rank": 22,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 220571,
+        "num": 156449,
+        "word": "王一博救场",
+        "onboard_time": 1770352101,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 21457,
+        "num": 154670,
+        "word": "有人花7万打83支玻尿酸造腹肌",
+        "onboard_time": 1770364820,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153731,
+        "num": 153731,
+        "word": "敢让张艺谋笑一个的人出现了",
+        "onboard_time": 1770360321,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66024,
+        "num": 152850,
+        "word": "零下40度千里春运你的车行吗",
+        "onboard_time": 1770361460,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 152634,
+        "num": 152634,
+        "word": "黄金",
+        "onboard_time": 1770343821,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 147310,
+        "num": 147310,
+        "word": "白鹿听到时代峰峻倒闭后的表情",
+        "onboard_time": 1770352280,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 134098,
+        "num": 140691,
+        "word": "女儿得知交警爸爸救出54人后哭了",
+        "onboard_time": 1770363261,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138067,
+        "num": 138067,
+        "word": "成何体统热度",
+        "onboard_time": 1770363560,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136744,
+        "num": 136744,
+        "word": "燕云十六声",
+        "onboard_time": 1770358281,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 135754,
+        "num": 135754,
+        "word": "肖战 这群显眼包给我整这么大屏",
+        "onboard_time": 1770352583,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 135181,
+        "num": 135181,
+        "word": "迪丽热巴黑长直的神",
+        "onboard_time": 1770359300,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124305,
+        "num": 124305,
+        "word": "曝爱泼斯坦案中2名女孩被勒死",
+        "onboard_time": 1770357800,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 119011,
+        "num": 119011,
+        "word": "微博之夜",
+        "onboard_time": 1770300328,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 116292,
+        "num": 116292,
+        "word": "水贝没有黄金现货卖了",
+        "onboard_time": 1770364222,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 100414,
+        "num": 100414,
+        "word": "多家奶茶门店爆单闭店",
+        "onboard_time": 1770364760,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63369,
+        "num": 100343,
+        "word": "多部门提醒春运返乡打开鹰眼",
+        "onboard_time": 1770364040,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32930,
+        "num": 100121,
+        "word": "穆祉丞 祖宗们小声点",
+        "onboard_time": 1770364581,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13293,
+        "num": 99891,
+        "word": "黄渤沈腾吴京 人老了做什么都心酸",
+        "onboard_time": 1770365001,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 62779,
+        "num": 99607,
+        "word": "手把手教你打包行李小技巧",
+        "onboard_time": 1770364520,
+        "rank": 41,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 99496,
+        "num": 99496,
+        "word": "刘宇宁深V缝上了还要捂",
+        "onboard_time": 1770362840,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 96870,
+        "num": 96870,
+        "word": "张曼玉喜欢BLACKPINK七年了",
+        "onboard_time": 1770364760,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91339,
+        "num": 91339,
+        "word": "外国网友请求中国帮助网友回复爆火",
+        "onboard_time": 1770344360,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40579,
+        "num": 90901,
+        "word": "日男子诱骗单亲妈妈拍女儿私密视频",
+        "onboard_time": 1770363740,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 92636,
+        "num": 90850,
+        "word": "宝格丽认领陈都灵",
+        "onboard_time": 1770356723,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90554,
+        "num": 90554,
+        "word": "和光终止与摇滚动物园合作声明",
+        "onboard_time": 1770359781,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85140,
+        "num": 85140,
+        "word": "千问提醒网友分散下单",
+        "onboard_time": 1770356901,
+        "rank": 48,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 88490,
+        "num": 84907,
+        "word": "白敬亭偷吃",
+        "onboard_time": 1770360259,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#体育强则中国强国运兴则体育兴#"
+    }
+  }
+}

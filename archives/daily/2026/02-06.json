@@ -1,6 +1,6 @@
 {
   "startTime": 1770307563881,
-  "endTime": 1770362992470,
+  "endTime": 1770365032727,
   "band_list": [
     {
       "raw_hot": 7028994,
@@ -83,6 +83,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 845202,
+      "num": 292174,
+      "word": "周冬雨回应整容争议",
+      "onboard_time": 1770359960,
+      "rank": 12,
+      "category": "综艺,作品衍生"
+    },
+    {
       "raw_hot": 820501,
       "num": 477162,
       "word": "沈腾冲上去扶杨幂",
@@ -107,20 +115,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 721650,
-      "num": 232034,
-      "word": "周冬雨回应整容争议",
-      "onboard_time": 1770359960,
-      "rank": 12,
-      "category": "综艺,作品衍生"
-    },
-    {
       "raw_hot": 713937,
       "num": 713937,
       "word": "千问登顶AppStore免费榜第一",
       "onboard_time": 1770360920,
       "rank": 4,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 703232,
+      "num": 703232,
+      "word": "小偷偷十几万刮刮乐刮完未中大奖",
+      "onboard_time": 1770360861,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 702933,
@@ -251,6 +259,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 497138,
+      "num": 160360,
+      "word": "林心如50岁身材状态",
+      "onboard_time": 1770363141,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 490602,
       "num": 490602,
       "word": "魏大勋 情商",
@@ -328,6 +344,14 @@
       "word": "肖战 这群显眼包给我整这么大屏",
       "onboard_time": 1770352583,
       "rank": 34,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 367253,
+      "num": 367253,
+      "word": "王传君偷听孟子义白鹿聊天",
+      "onboard_time": 1770362781,
+      "rank": 46,
       "category": "作品衍生"
     },
     {
@@ -411,6 +435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 316481,
+      "num": 316481,
+      "word": "多名领到千问免费奶茶网友发声",
+      "onboard_time": 1770362000,
+      "rank": 45,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 313402,
       "num": 313402,
       "word": "微博之夜 真婚礼",
@@ -465,14 +497,6 @@
       "onboard_time": 1770305846,
       "rank": 38,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 279716,
-      "num": 279716,
-      "word": "小偷偷十几万刮刮乐刮完未中大奖",
-      "onboard_time": 1770360861,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 279306,
@@ -683,6 +707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 208770,
+      "num": 208770,
+      "word": "摇滚动物园道歉",
+      "onboard_time": 1770359601,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 206174,
       "num": 533641,
       "word": "高市早苗亲自帮尼泊尔总统穿衣",
@@ -713,14 +745,6 @@
       "onboard_time": 1770290726,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 189842,
-      "num": 189842,
-      "word": "摇滚动物园道歉",
-      "onboard_time": 1770359601,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 184566,
@@ -811,6 +835,14 @@
       "category": "民生新闻,动漫"
     },
     {
+      "raw_hot": 158247,
+      "num": 158247,
+      "word": "觉得没情商的可以看看作者文案",
+      "onboard_time": 1770362661,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 157441,
       "num": 158199,
       "word": "单板滑雪男子大跳台预赛",
@@ -825,6 +857,14 @@
       "onboard_time": 1770358281,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 153731,
+      "num": 153731,
+      "word": "敢让张艺谋笑一个的人出现了",
+      "onboard_time": 1770360321,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 152600,
@@ -915,6 +955,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 138067,
+      "num": 138067,
+      "word": "成何体统热度",
+      "onboard_time": 1770363560,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 135758,
       "num": 92543,
       "word": "高叶李乃文偷吃",
@@ -923,12 +971,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 135181,
+      "num": 135181,
+      "word": "迪丽热巴黑长直的神",
+      "onboard_time": 1770359300,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 135071,
       "num": 177041,
       "word": "曝爱泼斯坦案中2名女孩被勒死",
       "onboard_time": 1770357800,
       "rank": 40,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 134098,
+      "num": 140691,
+      "word": "女儿得知交警爸爸救出54人后哭了",
+      "onboard_time": 1770363261,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 134004,
@@ -1017,14 +1081,6 @@
       "onboard_time": 1770342261,
       "rank": 36,
       "category": "休闲"
-    },
-    {
-      "raw_hot": 126748,
-      "num": 126748,
-      "word": "迪丽热巴黑长直的神",
-      "onboard_time": 1770359300,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 126727,
@@ -1123,12 +1179,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 116676,
-      "num": 101420,
-      "word": "敢让张艺谋笑一个的人出现了",
-      "onboard_time": 1770360321,
-      "rank": 49,
-      "category": "艺人"
+      "raw_hot": 116292,
+      "num": 116292,
+      "word": "水贝没有黄金现货卖了",
+      "onboard_time": 1770364222,
+      "rank": 36,
+      "category": "财经"
     },
     {
       "raw_hot": 115295,
@@ -1203,14 +1259,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 108447,
-      "num": 90701,
-      "word": "王传君偷听孟子义白鹿聊天",
-      "onboard_time": 1770362781,
-      "rank": 46,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 108386,
       "num": 103408,
       "word": "苏翊鸣冬奥首个1980",
@@ -1225,6 +1273,14 @@
       "onboard_time": 1770355640,
       "rank": 40,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 106543,
+      "num": 160826,
+      "word": "女子3万元金手链戴10天丢失追责商家",
+      "onboard_time": 1770364040,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 105697,
@@ -1259,12 +1315,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 100414,
+      "num": 100414,
+      "word": "多家奶茶门店爆单闭店",
+      "onboard_time": 1770364760,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100094,
       "num": 100094,
       "word": "AI已经学会蛐蛐人类了",
       "onboard_time": 1770358281,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 99496,
+      "num": 99496,
+      "word": "刘宇宁深V缝上了还要捂",
+      "onboard_time": 1770362840,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 98748,
@@ -1281,6 +1353,14 @@
       "onboard_time": 1770343221,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 96870,
+      "num": 96870,
+      "word": "张曼玉喜欢BLACKPINK七年了",
+      "onboard_time": 1770364760,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 96011,
@@ -1339,14 +1419,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 90856,
-      "num": 90856,
-      "word": "多名领到千问免费奶茶网友发声",
-      "onboard_time": 1770362000,
-      "rank": 45,
-      "category": "民生新闻,互联网"
-    },
-    {
       "raw_hot": 90519,
       "num": 284576,
       "word": "第一代智力低于父母的群体出现了",
@@ -1376,14 +1448,6 @@
       "word": "雷佳音感谢杨紫帮领奖",
       "onboard_time": 1770336622,
       "rank": 46,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 88499,
-      "num": 88499,
-      "word": "刘宇宁深V缝上了还要捂",
-      "onboard_time": 1770362840,
-      "rank": 47,
       "category": "作品衍生"
     },
     {
@@ -1425,14 +1489,6 @@
       "onboard_time": 1770357921,
       "rank": 20,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 84882,
-      "num": 84882,
-      "word": "觉得没情商的可以看看作者文案",
-      "onboard_time": 1770362661,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 84632,
@@ -1547,6 +1603,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 66024,
+      "num": 185174,
+      "word": "零下40度千里春运你的车行吗",
+      "onboard_time": 1770361460,
+      "rank": 28,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 64578,
       "num": 64578,
       "word": "大跳台史诗级难度",
@@ -1563,12 +1627,20 @@
       "category": "民生新闻,财经"
     },
     {
-      "raw_hot": 62560,
-      "num": 185174,
-      "word": "零下40度千里春运你的车行吗",
-      "onboard_time": 1770361460,
-      "rank": 28,
-      "category": "汽车"
+      "raw_hot": 63369,
+      "num": 100343,
+      "word": "多部门提醒春运返乡打开鹰眼",
+      "onboard_time": 1770364040,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 62779,
+      "num": 99607,
+      "word": "手把手教你打包行李小技巧",
+      "onboard_time": 1770364520,
+      "rank": 41,
+      "category": "休闲"
     },
     {
       "raw_hot": 62353,
@@ -1779,6 +1851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 40579,
+      "num": 90901,
+      "word": "日男子诱骗单亲妈妈拍女儿私密视频",
+      "onboard_time": 1770363740,
+      "rank": 45,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 39117,
       "num": 1165372,
       "word": "服务区变身年味驿站",
@@ -1809,6 +1889,14 @@
       "onboard_time": 1770350720,
       "rank": 29,
       "category": "数码"
+    },
+    {
+      "raw_hot": 36292,
+      "num": 230945,
+      "word": "王一博的贴贴攻略",
+      "onboard_time": 1770361520,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 35086,
@@ -1849,6 +1937,14 @@
       "onboard_time": 1770311718,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 32930,
+      "num": 100121,
+      "word": "穆祉丞 祖宗们小声点",
+      "onboard_time": 1770364581,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 32792,
@@ -1905,14 +2001,6 @@
       "onboard_time": 1770354022,
       "rank": 27,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 28653,
-      "num": 230945,
-      "word": "王一博的贴贴攻略",
-      "onboard_time": 1770361520,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 27324,
@@ -2003,6 +2091,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 21457,
+      "num": 154670,
+      "word": "有人花7万打83支玻尿酸造腹肌",
+      "onboard_time": 1770364820,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20876,
       "num": 33417,
       "word": "苏翊鸣预赛排名第四",
@@ -2081,6 +2177,14 @@
       "onboard_time": 1770362421,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 13293,
+      "num": 99891,
+      "word": "黄渤沈腾吴京 人老了做什么都心酸",
+      "onboard_time": 1770365001,
+      "rank": 40,
+      "category": "作品衍生"
     }
   ],
   "hotgov_list": [
