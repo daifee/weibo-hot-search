@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/02/06 17:54:37
+本榜单时间：2026/01/01 00:35:36 ~ 2026/02/06 18:08:06
 </p>
 </blockquote>
 <p>
@@ -273,6 +273,12 @@ WB冠军（热度：3566119）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BF%AB%E6%89%8B%E8%A2%AB%E7%BD%9A1.191%E4%BA%BF%E5%85%83%E4%BA%BA%E6%B0%91%E5%B8%81%23" target="weibo">
+快手被罚1.191亿元人民币（热度：3060016）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23TFING%E5%85%A8%E5%91%98%E6%8D%A2%E5%A4%B4%E5%83%8F%E4%BA%86%23" target="weibo">
 TFING全员换头像了（热度：3035952）
 </a>
@@ -341,12 +347,6 @@ Asen回应Sakee（热度：2704539）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E7%88%86%23" target="weibo">
 阿爆（热度：2679279）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BF%AB%E6%89%8B%E8%A2%AB%E7%BD%9A1.191%E4%BA%BF%E5%85%83%E4%BA%BA%E6%B0%91%E5%B8%81%23" target="weibo">
-快手被罚1.191亿元人民币（热度：2679124）
 </a>
 </li>
 
