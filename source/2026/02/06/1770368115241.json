@@ -1,0 +1,410 @@
+{
+  "runTime": 1770368115241,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 721413,
+        "num": 1115426,
+        "word": "多名领到千问免费奶茶网友发声",
+        "onboard_time": 1770362000,
+        "rank": 0,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 588727,
+        "num": 796262,
+        "word": "快递停运",
+        "onboard_time": 1770359000,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43864,
+        "num": 644197,
+        "word": "全国首款航天造电动垂直起降飞行器首飞成功",
+        "onboard_time": 1770367641,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 999512,
+        "num": 622073,
+        "word": "千问回应免费奶茶活动",
+        "onboard_time": 1770347599,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 398033,
+        "num": 398033,
+        "word": "小偷偷十几万刮刮乐刮完未中大奖",
+        "onboard_time": 1770360861,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1147369,
+        "num": 396928,
+        "word": "觉得没情商的可以看看作者文案",
+        "onboard_time": 1770362661,
+        "rank": 5,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 789220,
+        "num": 364797,
+        "word": "千问 免费奶茶",
+        "onboard_time": 1770344239,
+        "rank": 6,
+        "category": "美食,互联网"
+      },
+      {
+        "raw_hot": 306662,
+        "num": 306662,
+        "word": "王传君偷听孟子义白鹿聊天",
+        "onboard_time": 1770362781,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 290802,
+        "num": 290802,
+        "word": "女子3万元金手链戴10天丢失追责商家",
+        "onboard_time": 1770364040,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181490,
+        "num": 181490,
+        "word": "预制菜国标征求意见",
+        "onboard_time": 1770365781,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 414341,
+        "num": 180616,
+        "word": "黄子韬卫生巾卖1.5亿还没回本",
+        "onboard_time": 1770367101,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 297791,
+        "num": 178325,
+        "word": "TFING全员换头像了",
+        "onboard_time": 1770344719,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258099,
+        "num": 175734,
+        "word": "爱泼斯坦前女友在牢房活动监控曝光",
+        "onboard_time": 1770354501,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 807153,
+        "num": 172069,
+        "word": "周冬雨回应整容争议",
+        "onboard_time": 1770359960,
+        "rank": 13,
+        "category": "综艺,作品衍生"
+      },
+      {
+        "raw_hot": 171866,
+        "num": 171866,
+        "word": "王一博救场",
+        "onboard_time": 1770352101,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 145212,
+        "num": 145212,
+        "word": "印度3姐妹留遗书称韩国是我的命",
+        "onboard_time": 1770366200,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 169485,
+        "num": 145149,
+        "word": "杨幂微博QUEEN",
+        "onboard_time": 1770303088,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 37118,
+        "num": 145033,
+        "word": "邓为每一步都红在点子上",
+        "onboard_time": 1770365121,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47875,
+        "num": 144851,
+        "word": "刘雨昕裸粉玫瑰妆",
+        "onboard_time": 1770365060,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68467,
+        "num": 144612,
+        "word": "预制菜将迎首个国标",
+        "onboard_time": 1770367101,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177568,
+        "num": 144518,
+        "word": "燕云十六声",
+        "onboard_time": 1770358281,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 640980,
+        "num": 144201,
+        "word": "千问登顶AppStore免费榜第一",
+        "onboard_time": 1770360920,
+        "rank": 21,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 421487,
+        "num": 144138,
+        "word": "林心如50岁身材状态",
+        "onboard_time": 1770363141,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274271,
+        "num": 143980,
+        "word": "邬君梅透露丈夫已病逝",
+        "onboard_time": 1770352760,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252900,
+        "num": 143781,
+        "word": "千问让奶茶店爆单了",
+        "onboard_time": 1770359060,
+        "rank": 24,
+        "category": "互联网,美食"
+      },
+      {
+        "raw_hot": 150458,
+        "num": 143614,
+        "word": "多家奶茶门店爆单闭店",
+        "onboard_time": 1770364760,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145520,
+        "num": 143339,
+        "word": "花海收到邓为的礼物",
+        "onboard_time": 1770367580,
+        "rank": 26,
+        "category": "电竞,作品衍生"
+      },
+      {
+        "raw_hot": 143319,
+        "num": 143319,
+        "word": "成何体统",
+        "onboard_time": 1770345920,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 64486,
+        "num": 138671,
+        "word": "阿福能打电话了",
+        "onboard_time": 1770365600,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 137411,
+        "num": 137411,
+        "word": "唐宫奇案云合4.8%",
+        "onboard_time": 1770367341,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134558,
+        "num": 134558,
+        "word": "张凌赫宋祖儿 帝王和王后",
+        "onboard_time": 1770366620,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 121722,
+        "num": 121722,
+        "word": "韩国运动员盒饭",
+        "onboard_time": 1770367459,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13549,
+        "num": 120789,
+        "word": "最美的风景就是回家路",
+        "onboard_time": 1770367459,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120129,
+        "num": 120129,
+        "word": "成何体统热度",
+        "onboard_time": 1770363560,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119497,
+        "num": 119497,
+        "word": "迪丽热巴黑长直的神",
+        "onboard_time": 1770359300,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29402,
+        "num": 113165,
+        "word": "零下40度千里春运你的车行吗",
+        "onboard_time": 1770361460,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 112976,
+        "num": 112976,
+        "word": "张曼玉喜欢BLACKPINK七年了",
+        "onboard_time": 1770364760,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109846,
+        "num": 109846,
+        "word": "敢让张艺谋笑一个的人出现了",
+        "onboard_time": 1770360321,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67365,
+        "num": 109115,
+        "word": "十个勤天搞上畜牧业了",
+        "onboard_time": 1770366979,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 39584,
+        "num": 108802,
+        "word": "美国电价成新斩杀线",
+        "onboard_time": 1770366979,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 108611,
+        "num": 108611,
+        "word": "女子坚持照顾六旬瘫痪男友终领证",
+        "onboard_time": 1770365781,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103755,
+        "num": 103755,
+        "word": "穆祉丞 祖宗们小声点",
+        "onboard_time": 1770364581,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99720,
+        "num": 99720,
+        "word": "曝爱泼斯坦案中2名女孩被勒死",
+        "onboard_time": 1770357800,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 98942,
+        "num": 98942,
+        "word": "微博之夜",
+        "onboard_time": 1770300328,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 98259,
+        "num": 98259,
+        "word": "LGDNBW战胜eStar",
+        "onboard_time": 1770367940,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 97545,
+        "num": 97545,
+        "word": "千问回应活动崩了",
+        "onboard_time": 1770368061,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 96551,
+        "num": 96551,
+        "word": "白鹿听到时代峰峻倒闭后的表情",
+        "onboard_time": 1770352280,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 95784,
+        "num": 95784,
+        "word": "水贝没有黄金现货卖了",
+        "onboard_time": 1770364222,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 92738,
+        "num": 92738,
+        "word": "黄金",
+        "onboard_time": 1770343821,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 14693,
+        "num": 91993,
+        "word": "一人一句为中国冬奥健儿加油",
+        "onboard_time": 1770349521,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#体育强则中国强国运兴则体育兴#"
+    }
+  }
+}

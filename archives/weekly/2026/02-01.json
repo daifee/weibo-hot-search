@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1770365032727,
+  "endTime": 1770368115241,
   "band_list": [
     {
       "raw_hot": 10390810,
@@ -441,6 +441,14 @@
       "onboard_time": 1769941461,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1147369,
+      "num": 396928,
+      "word": "觉得没情商的可以看看作者文案",
+      "onboard_time": 1770362661,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 1144759,
@@ -1089,6 +1097,14 @@
       "onboard_time": 1769931440,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 721413,
+      "num": 1115426,
+      "word": "多名领到千问免费奶茶网友发声",
+      "onboard_time": 1770362000,
+      "rank": 45,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 719558,
@@ -2499,6 +2515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 414341,
+      "num": 180616,
+      "word": "黄子韬卫生巾卖1.5亿还没回本",
+      "onboard_time": 1770367101,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 413957,
       "num": 413957,
       "word": "TOP重回第一",
@@ -3515,14 +3539,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 316481,
-      "num": 316481,
-      "word": "多名领到千问免费奶茶网友发声",
-      "onboard_time": 1770362000,
-      "rank": 45,
-      "category": "民生新闻,互联网"
-    },
-    {
       "raw_hot": 315818,
       "num": 445965,
       "word": "吃娃娃菜中毒夫妻最高判刑十年以上",
@@ -3848,6 +3864,14 @@
       "word": "周生生晒检测报告",
       "onboard_time": 1770124521,
       "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 290802,
+      "num": 290802,
+      "word": "女子3万元金手链戴10天丢失追责商家",
+      "onboard_time": 1770364040,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -5835,6 +5859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 181490,
+      "num": 181490,
+      "word": "预制菜国标征求意见",
+      "onboard_time": 1770365781,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 181077,
       "num": 181077,
       "word": "白鹿刘宇宁 内娱同桌",
@@ -5905,6 +5937,14 @@
       "onboard_time": 1770020961,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 177568,
+      "num": 154475,
+      "word": "燕云十六声",
+      "onboard_time": 1770358281,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 176700,
@@ -6419,14 +6459,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 158247,
-      "num": 158247,
-      "word": "觉得没情商的可以看看作者文案",
-      "onboard_time": 1770362661,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 158114,
       "num": 133568,
       "word": "周也 你藏的好深",
@@ -6505,14 +6537,6 @@
       "onboard_time": 1769938702,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 154475,
-      "num": 154475,
-      "word": "燕云十六声",
-      "onboard_time": 1770358281,
-      "rank": 34,
-      "category": "游戏"
     },
     {
       "raw_hot": 153919,
@@ -6680,6 +6704,14 @@
       "word": "路虎大哥因歹徒家境一般放弃索赔",
       "onboard_time": 1770096079,
       "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 150458,
+      "num": 143614,
+      "word": "多家奶茶门店爆单闭店",
+      "onboard_time": 1770364760,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -6883,6 +6915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 145520,
+      "num": 143339,
+      "word": "花海收到邓为的礼物",
+      "onboard_time": 1770367580,
+      "rank": 26,
+      "category": "电竞,作品衍生"
+    },
+    {
       "raw_hot": 145427,
       "num": 145427,
       "word": "丁禹兮坐到了最后",
@@ -6897,6 +6937,14 @@
       "onboard_time": 1769872223,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 145212,
+      "num": 145212,
+      "word": "印度3姐妹留遗书称韩国是我的命",
+      "onboard_time": 1770366200,
+      "rank": 15,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 144921,
@@ -7235,6 +7283,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 137411,
+      "num": 137411,
+      "word": "唐宫奇案云合4.8%",
+      "onboard_time": 1770367341,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 137325,
       "num": 137325,
       "word": "萨摩耶主人要求孩子家长道歉",
@@ -7433,6 +7489,14 @@
       "onboard_time": 1769932640,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 134558,
+      "num": 134558,
+      "word": "张凌赫宋祖儿 帝王和王后",
+      "onboard_time": 1770366620,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 134547,
@@ -8171,6 +8235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121722,
+      "num": 121722,
+      "word": "韩国运动员盒饭",
+      "onboard_time": 1770367459,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121707,
       "num": 121707,
       "word": "过年回不了家的正确打开方式",
@@ -8851,6 +8923,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 112976,
+      "num": 112976,
+      "word": "张曼玉喜欢BLACKPINK七年了",
+      "onboard_time": 1770364760,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 112955,
       "num": 112955,
       "word": "以为自己很抗打直到化了泰妆",
@@ -9195,6 +9275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 108611,
+      "num": 108611,
+      "word": "女子坚持照顾六旬瘫痪男友终领证",
+      "onboard_time": 1770365781,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108386,
       "num": 103408,
       "word": "苏翊鸣冬奥首个1980",
@@ -9393,14 +9481,6 @@
       "onboard_time": 1770002240,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 106543,
-      "num": 160826,
-      "word": "女子3万元金手链戴10天丢失追责商家",
-      "onboard_time": 1770364040,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 106434,
@@ -9665,6 +9745,14 @@
       "onboard_time": 1770114200,
       "rank": 38,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 103755,
+      "num": 103755,
+      "word": "穆祉丞 祖宗们小声点",
+      "onboard_time": 1770364581,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 103731,
@@ -9987,14 +10075,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 100414,
-      "num": 100414,
-      "word": "多家奶茶门店爆单闭店",
-      "onboard_time": 1770364760,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 100406,
       "num": 191142,
       "word": "为什么普通人现在不愿意贷款买房了",
@@ -10179,6 +10259,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 98259,
+      "num": 98259,
+      "word": "LGDNBW战胜eStar",
+      "onboard_time": 1770367940,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 98248,
       "num": 96614,
       "word": "iPhoneFold来了国产机怕了吗",
@@ -10283,6 +10371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 97545,
+      "num": 97545,
+      "word": "千问回应活动崩了",
+      "onboard_time": 1770368061,
+      "rank": 45,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 97417,
       "num": 97417,
       "word": "德约科维奇1比1阿尔卡拉斯",
@@ -10345,14 +10441,6 @@
       "onboard_time": 1769922979,
       "rank": 29,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 96870,
-      "num": 96870,
-      "word": "张曼玉喜欢BLACKPINK七年了",
-      "onboard_time": 1770364760,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 96842,
@@ -12931,6 +13019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 68467,
+      "num": 144612,
+      "word": "预制菜将迎首个国标",
+      "onboard_time": 1770367101,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 68462,
       "num": 169429,
       "word": "女子卖金手镯每克被吞40多元",
@@ -12985,6 +13081,14 @@
       "onboard_time": 1770221180,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 67365,
+      "num": 109115,
+      "word": "十个勤天搞上畜牧业了",
+      "onboard_time": 1770366979,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 67362,
@@ -13177,6 +13281,14 @@
       "onboard_time": 1770084560,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 64486,
+      "num": 138671,
+      "word": "阿福能打电话了",
+      "onboard_time": 1770365600,
+      "rank": 28,
+      "category": "互联网"
     },
     {
       "raw_hot": 64411,
@@ -14059,6 +14171,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 47875,
+      "num": 144851,
+      "word": "刘雨昕裸粉玫瑰妆",
+      "onboard_time": 1770365060,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 47867,
       "num": 216936,
       "word": "欧莱雅小春晚全开麦",
@@ -14267,6 +14387,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 43864,
+      "num": 644197,
+      "word": "全国首款航天造电动垂直起降飞行器首飞成功",
+      "onboard_time": 1770367641,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43774,
       "num": 43774,
       "word": "太平年水丘公满门被屠",
@@ -14451,6 +14579,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 39584,
+      "num": 108802,
+      "word": "美国电价成新斩杀线",
+      "onboard_time": 1770366979,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 39488,
       "num": 39488,
       "word": "上班两天技师猥亵顾客被行拘7日",
@@ -14608,6 +14744,14 @@
       "word": "岳云鹏用张信哲内涵柳岩",
       "onboard_time": 1769902997,
       "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 37118,
+      "num": 145033,
+      "word": "邓为每一步都红在点子上",
+      "onboard_time": 1770365121,
+      "rank": 17,
       "category": "艺人"
     },
     {
@@ -14905,14 +15049,6 @@
       "onboard_time": 1770036802,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 32930,
-      "num": 100121,
-      "word": "穆祉丞 祖宗们小声点",
-      "onboard_time": 1770364581,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 32927,
@@ -16153,6 +16289,14 @@
       "onboard_time": 1770232635,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 13549,
+      "num": 120789,
+      "word": "最美的风景就是回家路",
+      "onboard_time": 1770367459,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13523,

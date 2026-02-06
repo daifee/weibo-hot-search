@@ -1,6 +1,6 @@
 {
   "startTime": 1770307563881,
-  "endTime": 1770365032727,
+  "endTime": 1770368115241,
   "band_list": [
     {
       "raw_hot": 7028994,
@@ -75,6 +75,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1147369,
+      "num": 396928,
+      "word": "觉得没情商的可以看看作者文案",
+      "onboard_time": 1770362661,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 869907,
       "num": 289296,
       "word": "邬君梅透露丈夫已病逝",
@@ -113,6 +121,14 @@
       "onboard_time": 1770345920,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 721413,
+      "num": 1115426,
+      "word": "多名领到千问免费奶茶网友发声",
+      "onboard_time": 1770362000,
+      "rank": 45,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 713937,
@@ -315,6 +331,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 414341,
+      "num": 180616,
+      "word": "黄子韬卫生巾卖1.5亿还没回本",
+      "onboard_time": 1770367101,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 409890,
       "num": 409890,
       "word": "娜扎下台摔倒",
@@ -435,14 +459,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 316481,
-      "num": 316481,
-      "word": "多名领到千问免费奶茶网友发声",
-      "onboard_time": 1770362000,
-      "rank": 45,
-      "category": "民生新闻,互联网"
-    },
-    {
       "raw_hot": 313402,
       "num": 313402,
       "word": "微博之夜 真婚礼",
@@ -489,6 +505,14 @@
       "onboard_time": 1770357921,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 290802,
+      "num": 290802,
+      "word": "女子3万元金手链戴10天丢失追责商家",
+      "onboard_time": 1770364040,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 281200,
@@ -763,6 +787,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 181490,
+      "num": 181490,
+      "word": "预制菜国标征求意见",
+      "onboard_time": 1770365781,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 181077,
       "num": 181077,
       "word": "白鹿刘宇宁 内娱同桌",
@@ -784,6 +816,14 @@
       "word": "恋与深空喜迎财神",
       "onboard_time": 1770352821,
       "rank": 35,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 177568,
+      "num": 154475,
+      "word": "燕云十六声",
+      "onboard_time": 1770358281,
+      "rank": 34,
       "category": "游戏"
     },
     {
@@ -835,28 +875,12 @@
       "category": "民生新闻,动漫"
     },
     {
-      "raw_hot": 158247,
-      "num": 158247,
-      "word": "觉得没情商的可以看看作者文案",
-      "onboard_time": 1770362661,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 157441,
       "num": 158199,
       "word": "单板滑雪男子大跳台预赛",
       "onboard_time": 1770316036,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 154475,
-      "num": 154475,
-      "word": "燕云十六声",
-      "onboard_time": 1770358281,
-      "rank": 34,
-      "category": "游戏"
     },
     {
       "raw_hot": 153731,
@@ -883,6 +907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 150458,
+      "num": 143614,
+      "word": "多家奶茶门店爆单闭店",
+      "onboard_time": 1770364760,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 150318,
       "num": 150318,
       "word": "章昊内娱第一课",
@@ -907,12 +939,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 145520,
+      "num": 143339,
+      "word": "花海收到邓为的礼物",
+      "onboard_time": 1770367580,
+      "rank": 26,
+      "category": "电竞,作品衍生"
+    },
+    {
       "raw_hot": 145427,
       "num": 145427,
       "word": "丁禹兮坐到了最后",
       "onboard_time": 1770340882,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 145212,
+      "num": 145212,
+      "word": "印度3姐妹留遗书称韩国是我的命",
+      "onboard_time": 1770366200,
+      "rank": 15,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 143840,
@@ -963,6 +1011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 137411,
+      "num": 137411,
+      "word": "唐宫奇案云合4.8%",
+      "onboard_time": 1770367341,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 135758,
       "num": 92543,
       "word": "高叶李乃文偷吃",
@@ -985,6 +1041,14 @@
       "onboard_time": 1770357800,
       "rank": 40,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 134558,
+      "num": 134558,
+      "word": "张凌赫宋祖儿 帝王和王后",
+      "onboard_time": 1770366620,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 134098,
@@ -1123,6 +1187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121722,
+      "num": 121722,
+      "word": "韩国运动员盒饭",
+      "onboard_time": 1770367459,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121597,
       "num": 292340,
       "word": "肖战有自己的冰嬉名场面",
@@ -1219,6 +1291,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 112976,
+      "num": 112976,
+      "word": "张曼玉喜欢BLACKPINK七年了",
+      "onboard_time": 1770364760,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 112582,
       "num": 667790,
       "word": "陈昊宇电梯神图",
@@ -1259,6 +1339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 108611,
+      "num": 108611,
+      "word": "女子坚持照顾六旬瘫痪男友终领证",
+      "onboard_time": 1770365781,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108386,
       "num": 103408,
       "word": "苏翊鸣冬奥首个1980",
@@ -1273,14 +1361,6 @@
       "onboard_time": 1770355640,
       "rank": 40,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 106543,
-      "num": 160826,
-      "word": "女子3万元金手链戴10天丢失追责商家",
-      "onboard_time": 1770364040,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 105697,
@@ -1299,6 +1379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 103755,
+      "num": 103755,
+      "word": "穆祉丞 祖宗们小声点",
+      "onboard_time": 1770364581,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 103130,
       "num": 103130,
       "word": "一年一度二次元春晚来了",
@@ -1313,14 +1401,6 @@
       "onboard_time": 1770344661,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 100414,
-      "num": 100414,
-      "word": "多家奶茶门店爆单闭店",
-      "onboard_time": 1770364760,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 100094,
@@ -1355,12 +1435,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 96870,
-      "num": 96870,
-      "word": "张曼玉喜欢BLACKPINK七年了",
-      "onboard_time": 1770364760,
-      "rank": 43,
-      "category": "艺人"
+      "raw_hot": 98259,
+      "num": 98259,
+      "word": "LGDNBW战胜eStar",
+      "onboard_time": 1770367940,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 97545,
+      "num": 97545,
+      "word": "千问回应活动崩了",
+      "onboard_time": 1770368061,
+      "rank": 45,
+      "category": "互联网"
     },
     {
       "raw_hot": 96011,
@@ -1595,12 +1683,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 68467,
+      "num": 144612,
+      "word": "预制菜将迎首个国标",
+      "onboard_time": 1770367101,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 68214,
       "num": 68214,
       "word": "恋与深空",
       "onboard_time": 1770291864,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 67365,
+      "num": 109115,
+      "word": "十个勤天搞上畜牧业了",
+      "onboard_time": 1770366979,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 66024,
@@ -1617,6 +1721,14 @@
       "onboard_time": 1770328094,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 64486,
+      "num": 138671,
+      "word": "阿福能打电话了",
+      "onboard_time": 1770365600,
+      "rank": 28,
+      "category": "互联网"
     },
     {
       "raw_hot": 63384,
@@ -1779,6 +1891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 47875,
+      "num": 144851,
+      "word": "刘雨昕裸粉玫瑰妆",
+      "onboard_time": 1770365060,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 47684,
       "num": 155066,
       "word": "从1980到1980",
@@ -1827,6 +1947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 43864,
+      "num": 644197,
+      "word": "全国首款航天造电动垂直起降飞行器首飞成功",
+      "onboard_time": 1770367641,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43027,
       "num": 214342,
       "word": "苹果应用商店免费榜前三都是AI",
@@ -1859,6 +1987,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 39584,
+      "num": 108802,
+      "word": "美国电价成新斩杀线",
+      "onboard_time": 1770366979,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 39117,
       "num": 1165372,
       "word": "服务区变身年味驿站",
@@ -1873,6 +2009,14 @@
       "onboard_time": 1770333919,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 37118,
+      "num": 145033,
+      "word": "邓为每一步都红在点子上",
+      "onboard_time": 1770365121,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 36841,
@@ -1937,14 +2081,6 @@
       "onboard_time": 1770311718,
       "rank": 46,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 32930,
-      "num": 100121,
-      "word": "穆祉丞 祖宗们小声点",
-      "onboard_time": 1770364581,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 32792,
@@ -2169,6 +2305,14 @@
       "onboard_time": 1770321075,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 13549,
+      "num": 120789,
+      "word": "最美的风景就是回家路",
+      "onboard_time": 1770367459,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13439,

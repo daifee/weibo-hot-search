@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/02/06 16:03:52
+本榜单时间：2026/01/01 00:35:36 ~ 2026/02/06 16:55:15
 </p>
 </blockquote>
 <p>
@@ -1485,6 +1485,12 @@ BLG上调新上单Wenbo（热度：1173465）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A7%89%E5%BE%97%E6%B2%A1%E6%83%85%E5%95%86%E7%9A%84%E5%8F%AF%E4%BB%A5%E7%9C%8B%E7%9C%8B%E4%BD%9C%E8%80%85%E6%96%87%E6%A1%88%23" target="weibo">
+觉得没情商的可以看看作者文案（热度：1147369）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%234.5%E5%A4%A9%E5%B7%A5%E4%BD%9C%E5%88%B6%23" target="weibo">
 4.5天工作制（热度：1146034）
 </a>
@@ -1805,12 +1811,6 @@ BLG上调新上单Wenbo（热度：1173465）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%8F%88%E8%A6%81%E9%80%89%E9%A6%96%E7%9B%B8%E4%BA%86%23" target="weibo">
 日本又要选首相了（热度：1052287）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A8%8B%E5%BA%8F%E5%91%98%E7%8C%9D%E6%AD%BB%E6%8A%A2%E6%95%91%E6%97%B6%E6%9B%BE%E8%A2%AB%E6%8B%89%E5%B7%A5%E4%BD%9C%E7%BE%A4%23" target="weibo">
-程序员猝死抢救时曾被拉工作群（热度：1050585）
 </a>
 </li>
 
