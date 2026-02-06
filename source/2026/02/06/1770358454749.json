@@ -1,0 +1,410 @@
+{
+  "runTime": 1770358454749,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1417598,
+        "num": 1417598,
+        "word": "千问回应免费奶茶活动",
+        "onboard_time": 1770347599,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 758878,
+        "num": 876888,
+        "word": "成何体统",
+        "onboard_time": 1770345920,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21225,
+        "num": 855699,
+        "word": "一人一句为中国冬奥健儿加油",
+        "onboard_time": 1770349521,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 837494,
+        "num": 837494,
+        "word": "千问 免费奶茶",
+        "onboard_time": 1770344239,
+        "rank": 3,
+        "category": "美食,互联网"
+      },
+      {
+        "raw_hot": 415170,
+        "num": 512758,
+        "word": "杨幂微博QUEEN",
+        "onboard_time": 1770303088,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 417068,
+        "num": 417068,
+        "word": "小鳄鱼爱洗澡",
+        "onboard_time": 1770352161,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 356190,
+        "num": 356190,
+        "word": "肖战 这群显眼包给我整这么大屏",
+        "onboard_time": 1770352583,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 238056,
+        "num": 350742,
+        "word": "男子年会抽中万元手机竟变瓷砖",
+        "onboard_time": 1770353302,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 237588,
+        "num": 348531,
+        "word": "外国网友请求中国帮助网友回复爆火",
+        "onboard_time": 1770344360,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206315,
+        "num": 343554,
+        "word": "日本挖到稀土泥中方回应亮了",
+        "onboard_time": 1770357261,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 877850,
+        "num": 336047,
+        "word": "TFING全员换头像了",
+        "onboard_time": 1770344719,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 702933,
+        "num": 325595,
+        "word": "爱泼斯坦前女友在牢房活动监控曝光",
+        "onboard_time": 1770354501,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 25351,
+        "num": 319267,
+        "word": "开幕还得看张艺谋",
+        "onboard_time": 1770357921,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 517682,
+        "num": 315798,
+        "word": "王一博救场",
+        "onboard_time": 1770352101,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 489869,
+        "num": 308811,
+        "word": "白鹿听到时代峰峻倒闭后的表情",
+        "onboard_time": 1770352280,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 72499,
+        "num": 300231,
+        "word": "张艺凡眼影",
+        "onboard_time": 1770354621,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168212,
+        "num": 296941,
+        "word": "千问提醒网友分散下单",
+        "onboard_time": 1770356901,
+        "rank": 16,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 293142,
+        "num": 293142,
+        "word": "将太郎不出席riize澳门演唱会",
+        "onboard_time": 1770357921,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 29764,
+        "num": 292340,
+        "word": "肖战有自己的冰嬉名场面",
+        "onboard_time": 1770357921,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135992,
+        "num": 291890,
+        "word": "爱尔眼科董事疑为骗保精神病院实控人",
+        "onboard_time": 1770347719,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36502,
+        "num": 291146,
+        "word": "周震南微博之夜解锁丰愉时刻",
+        "onboard_time": 1770357921,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 855695,
+        "num": 289296,
+        "word": "邬君梅透露丈夫已病逝",
+        "onboard_time": 1770352760,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 332732,
+        "num": 288909,
+        "word": "千问崩了",
+        "onboard_time": 1770350841,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 288284,
+        "num": 288284,
+        "word": "黄金",
+        "onboard_time": 1770343821,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 262242,
+        "num": 262242,
+        "word": "宝格丽认领陈都灵",
+        "onboard_time": 1770356723,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223714,
+        "num": 223714,
+        "word": "王一博章昊自拍照",
+        "onboard_time": 1770356481,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 178665,
+        "num": 178665,
+        "word": "光与夜之恋",
+        "onboard_time": 1770355342,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 218112,
+        "num": 175779,
+        "word": "李嘉格为什么口碑两极化了",
+        "onboard_time": 1770357742,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214761,
+        "num": 174897,
+        "word": "宋威龙 文淇你装不认识我",
+        "onboard_time": 1770351321,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 124345,
+        "num": 168460,
+        "word": "家长举报家委会3年收10多万元班费",
+        "onboard_time": 1770341901,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205411,
+        "num": 167532,
+        "word": "魏大勋 情商",
+        "onboard_time": 1770351801,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 192608,
+        "num": 164048,
+        "word": "沈腾冲上去扶杨幂",
+        "onboard_time": 1770307943,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 160863,
+        "num": 160863,
+        "word": "女演员开箱取出100克黄金500克白银",
+        "onboard_time": 1770344239,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36058,
+        "num": 155066,
+        "word": "从1980到1980",
+        "onboard_time": 1770354561,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154475,
+        "num": 154475,
+        "word": "燕云十六声",
+        "onboard_time": 1770358281,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 144664,
+        "num": 144664,
+        "word": "微博之夜",
+        "onboard_time": 1770300328,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 7332,
+        "num": 135540,
+        "word": "闪购骑手服新增千问logo",
+        "onboard_time": 1770358341,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 133846,
+        "num": 133846,
+        "word": "杜华晒微博之夜合照",
+        "onboard_time": 1770357021,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 133787,
+        "num": 133787,
+        "word": "白鹿孟子义热聊张凌赫突然走过来",
+        "onboard_time": 1770345320,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 26453,
+        "num": 132804,
+        "word": "演唱会出轨女方美国演讲门票超6千",
+        "onboard_time": 1770357921,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 125706,
+        "num": 131968,
+        "word": "曝爱泼斯坦案中2名女孩被勒死",
+        "onboard_time": 1770357800,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 131892,
+        "num": 131892,
+        "word": "周深不小心绊到倪妮一个劲儿道歉",
+        "onboard_time": 1770355521,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 130304,
+        "num": 130304,
+        "word": "穆祉丞头像换成张极腹肌照",
+        "onboard_time": 1770345140,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116561,
+        "num": 116561,
+        "word": "女子将32万现金藏奶粉罐邮寄",
+        "onboard_time": 1770353720,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126727,
+        "num": 116503,
+        "word": "杨紫周游新剧不是暧昧是爱妹",
+        "onboard_time": 1770357140,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113987,
+        "num": 113987,
+        "word": "女子临盆才知怀孕生下8斤女儿",
+        "onboard_time": 1770337520,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109227,
+        "num": 109227,
+        "word": "妹妹回应25岁哥哥身高仅60cm",
+        "onboard_time": 1770357381,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101172,
+        "num": 101172,
+        "word": "迪丽热巴的Dior梦幻奇境",
+        "onboard_time": 1770355640,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 100859,
+        "num": 100859,
+        "word": "时代峰峻 四代同堂",
+        "onboard_time": 1770356121,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100094,
+        "num": 100094,
+        "word": "AI已经学会蛐蛐人类了",
+        "onboard_time": 1770358281,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#体育强则中国强国运兴则体育兴#"
+    }
+  }
+}
