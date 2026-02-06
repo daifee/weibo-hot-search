@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1770376158585,
+  "endTime": 1770378056363,
   "band_list": [
     {
       "raw_hot": 10390810,
@@ -3347,6 +3347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 332773,
+      "num": 824789,
+      "word": "4类食品不是预制菜",
+      "onboard_time": 1770374121,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 332556,
       "num": 205616,
       "word": "张凌赫方回应常驻跑男",
@@ -3747,6 +3755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 303162,
+      "num": 168430,
+      "word": "原来陈小春的真名叫陈泰铨",
+      "onboard_time": 1770371661,
+      "rank": 35,
+      "category": "艺人,民生新闻"
+    },
+    {
       "raw_hot": 303148,
       "num": 303148,
       "word": "白鹿开播发文",
@@ -3905,14 +3921,6 @@
       "onboard_time": 1770108081,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 292111,
-      "num": 168430,
-      "word": "原来陈小春的真名叫陈泰铨",
-      "onboard_time": 1770371661,
-      "rank": 35,
-      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 291836,
@@ -4139,6 +4147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 273889,
+      "num": 402136,
+      "word": "韩国运动员盒饭",
+      "onboard_time": 1770367459,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 273157,
       "num": 273157,
       "word": "张凌赫转戒指 苏晕了",
@@ -4315,14 +4331,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 262621,
-      "num": 402136,
-      "word": "韩国运动员盒饭",
-      "onboard_time": 1770367459,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 262593,
       "num": 717127,
       "word": "胡歌说杨紫的戏不是一般的好",
@@ -4393,6 +4401,14 @@
       "onboard_time": 1769859202,
       "rank": 4,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 258409,
+      "num": 258409,
+      "word": "花样滑冰团体赛资格赛",
+      "onboard_time": 1770368121,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 257855,
@@ -4891,6 +4907,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 234600,
+      "num": 211794,
+      "word": "胡歌说杨紫开机前拘谨得像个兵",
+      "onboard_time": 1770372382,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 234561,
       "num": 215669,
       "word": "宋轶 白开水妆",
@@ -5363,14 +5387,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 211794,
-      "num": 211794,
-      "word": "胡歌说杨紫开机前拘谨得像个兵",
-      "onboard_time": 1770372382,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 211362,
       "num": 211362,
       "word": "老外眼里的中餐",
@@ -5521,14 +5537,6 @@
       "onboard_time": 1770040343,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 203269,
-      "num": 203269,
-      "word": "4类食品不是预制菜",
-      "onboard_time": 1770374121,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 203253,
@@ -5697,6 +5705,14 @@
       "onboard_time": 1770275423,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 195014,
+      "num": 195014,
+      "word": "明日方舟新春前瞻特辑",
+      "onboard_time": 1770377180,
+      "rank": 5,
+      "category": "游戏"
     },
     {
       "raw_hot": 194839,
@@ -6051,6 +6067,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 180189,
+      "num": 180189,
+      "word": "隋文静韩聪短节目65.37分",
+      "onboard_time": 1770376521,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 180161,
       "num": 203519,
       "word": "娃娃菜夫妻刀口舔血自吞苦果",
@@ -6345,14 +6369,6 @@
       "onboard_time": 1769960421,
       "rank": 44,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 169313,
-      "num": 205699,
-      "word": "花样滑冰团体赛资格赛",
-      "onboard_time": 1770368121,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 168489,
@@ -6707,6 +6723,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 155337,
+      "num": 148579,
+      "word": "英雄联盟",
+      "onboard_time": 1770377841,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 153919,
       "num": 153919,
       "word": "龙麦",
@@ -6985,6 +7009,14 @@
       "onboard_time": 1770172519,
       "rank": 48,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 148570,
+      "num": 148570,
+      "word": "舒淇肖战 十年师友",
+      "onboard_time": 1770375560,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 148278,
@@ -7771,6 +7803,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 132999,
+      "num": 132999,
+      "word": "黄婷婷你别演了我害怕",
+      "onboard_time": 1770376940,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 132815,
       "num": 165018,
       "word": "起猛了在支付宝集福玩原神",
@@ -8539,14 +8579,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 120765,
-      "num": 110361,
-      "word": "舒淇肖战 十年师友",
-      "onboard_time": 1770375560,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 120739,
       "num": 120739,
       "word": "黄子弘凡已争气争气再争气",
@@ -8961,6 +8993,14 @@
       "onboard_time": 1770293005,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 115745,
+      "num": 148643,
+      "word": "爱泼斯坦死亡当晚离奇细节曝光",
+      "onboard_time": 1770377121,
+      "rank": 14,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 115295,
@@ -10955,6 +10995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 93932,
+      "num": 93932,
+      "word": "千问免单卡每日发放数量有限",
+      "onboard_time": 1770376280,
+      "rank": 37,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 93881,
       "num": 93881,
       "word": "应急管理部坚决拥护党中央决定",
@@ -11280,6 +11328,14 @@
       "word": "胡歌太会演了",
       "onboard_time": 1770133041,
       "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 90795,
+      "num": 90795,
+      "word": "夜色正浓",
+      "onboard_time": 1770138677,
+      "rank": 31,
       "category": "剧集"
     },
     {
@@ -11656,6 +11712,14 @@
       "word": "王楚钦休整归来剑指卫冕",
       "onboard_time": 1769944222,
       "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 87678,
+      "num": 87678,
+      "word": "王楚钦全台相持太牛了",
+      "onboard_time": 1770377601,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -12171,6 +12235,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 83151,
+      "num": 83151,
+      "word": "隋文静摔倒",
+      "onboard_time": 1770377841,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 83052,
       "num": 300814,
       "word": "警方通报烧烤店老板与人冲突时死亡",
@@ -12233,6 +12305,14 @@
       "onboard_time": 1770162078,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 82828,
+      "num": 82828,
+      "word": "俄军中将在莫斯科遭枪击",
+      "onboard_time": 1770377121,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 82528,
@@ -12489,6 +12569,14 @@
       "onboard_time": 1769934740,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 80263,
+      "num": 148632,
+      "word": "南京女子腹痛三天检查才发现怀孕",
+      "onboard_time": 1770377481,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 80258,
@@ -12897,6 +12985,14 @@
       "onboard_time": 1770181822,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 75431,
+      "num": 178703,
+      "word": "航司回应坐飞机要称体重",
+      "onboard_time": 1770375619,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 75419,
@@ -14891,6 +14987,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 39628,
+      "num": 174350,
+      "word": "王楚钦3连胜晋级",
+      "onboard_time": 1770377240,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 39584,
       "num": 108802,
       "word": "美国电价成新斩杀线",
@@ -14937,6 +15041,14 @@
       "onboard_time": 1770303931,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 38846,
+      "num": 93922,
+      "word": "这回不是陈鑫海 是真周柯宇",
+      "onboard_time": 1770377960,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 38667,
@@ -15129,14 +15241,6 @@
       "onboard_time": 1769968396,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 36568,
-      "num": 36568,
-      "word": "夜色正浓",
-      "onboard_time": 1770138677,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 36292,
@@ -15555,6 +15659,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 29844,
+      "num": 170375,
+      "word": "在中国之家开了个科技的箱",
+      "onboard_time": 1770375861,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 29836,
       "num": 641389,
       "word": "2026新春走基层主题曲MV",
@@ -15635,14 +15747,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 28670,
-      "num": 178703,
-      "word": "航司回应坐飞机要称体重",
-      "onboard_time": 1770375619,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 28638,
       "num": 85040,
       "word": "女子做延长甲摔跤指骨骨折甲床破裂",
@@ -15681,14 +15785,6 @@
       "onboard_time": 1770220160,
       "rank": 22,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 27878,
-      "num": 170375,
-      "word": "在中国之家开了个科技的箱",
-      "onboard_time": 1770375861,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 27635,
@@ -16699,6 +16795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 13709,
+      "num": 93831,
+      "word": "宋威龙飞吻 老实人豁出去了",
+      "onboard_time": 1770377960,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 13549,
       "num": 120789,
       "word": "最美的风景就是回家路",
@@ -16777,6 +16881,14 @@
       "onboard_time": 1770207921,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 12261,
+      "num": 148624,
+      "word": "俄军一中将险遭暗杀",
+      "onboard_time": 1770377661,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 12176,
