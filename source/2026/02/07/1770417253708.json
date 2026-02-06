@@ -1,0 +1,410 @@
+{
+  "runTime": 1770417253708,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 459586,
+        "num": 479940,
+        "word": "冬奥会开幕式",
+        "onboard_time": 1770403755,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193495,
+        "num": 344797,
+        "word": "米兰开幕式 好正常好好看",
+        "onboard_time": 1770406754,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 7346,
+        "num": 272502,
+        "word": "大集里的中国年味",
+        "onboard_time": 1770387922,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121514,
+        "num": 121514,
+        "word": "王楚钦尊重国家队的安排",
+        "onboard_time": 1770393440,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93803,
+        "num": 93803,
+        "word": "中国队蓝羽绒服 好看",
+        "onboard_time": 1770411374,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 72858,
+        "num": 72858,
+        "word": "巴拿马正成为第二个立陶宛",
+        "onboard_time": 1770391940,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 70478,
+        "num": 70478,
+        "word": "成何体统",
+        "onboard_time": 1770390801,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63470,
+        "num": 63470,
+        "word": "意大利手势",
+        "onboard_time": 1770413714,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 53712,
+        "num": 53712,
+        "word": "1.5万裤子穿1天发现勾线退货难",
+        "onboard_time": 1770392479,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45256,
+        "num": 45256,
+        "word": "林孝埈转发中国队入场照",
+        "onboard_time": 1770411853,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169006,
+        "num": 44929,
+        "word": "爱泼斯坦死亡当晚监控曝光",
+        "onboard_time": 1770379520,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 55742,
+        "num": 43936,
+        "word": "黄子韬自曝卫生巾工厂现状",
+        "onboard_time": 1770368600,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49257,
+        "num": 43196,
+        "word": "爱泼斯坦",
+        "onboard_time": 1770389360,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 42289,
+        "num": 42289,
+        "word": "肖战捎来春天",
+        "onboard_time": 1770392061,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41240,
+        "num": 41240,
+        "word": "91岁老人900万积蓄遭儿子儿媳挪用",
+        "onboard_time": 1770379641,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39907,
+        "num": 39907,
+        "word": "多款空气炸锅存在假温度旋钮",
+        "onboard_time": 1770394281,
+        "rank": 15,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 35946,
+        "num": 35946,
+        "word": "一上午烫了20多个老太太",
+        "onboard_time": 1770380662,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32540,
+        "num": 32540,
+        "word": "卢昱晓说女明星不能一味追求瘦",
+        "onboard_time": 1770396559,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32487,
+        "num": 32487,
+        "word": "飞饼师傅被认定外籍专家发放慰问费",
+        "onboard_time": 1770399197,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30644,
+        "num": 30644,
+        "word": "罗云熙五杀",
+        "onboard_time": 1770391282,
+        "rank": 19,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 56826,
+        "num": 30534,
+        "word": "硕士娶离异农村妇女守护留守儿童",
+        "onboard_time": 1770387864,
+        "rank": 20,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 43032,
+        "num": 30297,
+        "word": "奥运五环出场方式太震撼了",
+        "onboard_time": 1770408016,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 42417,
+        "num": 30149,
+        "word": "20岁黄多多好漂亮",
+        "onboard_time": 1770372801,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39783,
+        "num": 30072,
+        "word": "Bin 我依然是世一上",
+        "onboard_time": 1770386482,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 38631,
+        "num": 29869,
+        "word": "米兰冬奥会开幕",
+        "onboard_time": 1770415095,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 37255,
+        "num": 29568,
+        "word": "意大利真的好艺术",
+        "onboard_time": 1770405975,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33530,
+        "num": 29497,
+        "word": "小马糕",
+        "onboard_time": 1770373641,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 33434,
+        "num": 29133,
+        "word": "中国代表团入场",
+        "onboard_time": 1770408434,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33302,
+        "num": 29039,
+        "word": "今夜无人入睡",
+        "onboard_time": 1770416115,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20828,
+        "num": 28783,
+        "word": "米兰冬奥会",
+        "onboard_time": 1770403816,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39291,
+        "num": 28649,
+        "word": "种草引导员的羽绒服",
+        "onboard_time": 1770410893,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38142,
+        "num": 28541,
+        "word": "刘少昂好帅",
+        "onboard_time": 1770414134,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28365,
+        "num": 28365,
+        "word": "生命树18集12分57秒",
+        "onboard_time": 1770387983,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28105,
+        "num": 28105,
+        "word": "怀孕闺蜜代替女生亡父送她出嫁",
+        "onboard_time": 1770381801,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27303,
+        "num": 27303,
+        "word": "教练说奥运会后苏翊鸣飘了",
+        "onboard_time": 1770390082,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26855,
+        "num": 26855,
+        "word": "米兰羽绒服时装周",
+        "onboard_time": 1770410953,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26146,
+        "num": 26146,
+        "word": "推拿遭技师猥亵受害女生发声",
+        "onboard_time": 1770391401,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25764,
+        "num": 25764,
+        "word": "底层斩杀线 顶层萝莉岛",
+        "onboard_time": 1770396318,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 25029,
+        "num": 25029,
+        "word": "快递停运",
+        "onboard_time": 1770359000,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23019,
+        "num": 23019,
+        "word": "虞书欣跳舞身材很曼妙",
+        "onboard_time": 1770389721,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21779,
+        "num": 21779,
+        "word": "感觉德国队披着棉被出来了",
+        "onboard_time": 1770410534,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21187,
+        "num": 21187,
+        "word": "中国品牌第一个入场",
+        "onboard_time": 1770414734,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20961,
+        "num": 20961,
+        "word": "管泽元 Bin快说你被盗号了",
+        "onboard_time": 1770388102,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 20852,
+        "num": 20852,
+        "word": "2026米兰冬奥会开幕",
+        "onboard_time": 1770415814,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20566,
+        "num": 20566,
+        "word": "奶茶品牌为千问免单拼了",
+        "onboard_time": 1770383482,
+        "rank": 44,
+        "category": "美食,互联网"
+      },
+      {
+        "raw_hot": 19462,
+        "num": 20566,
+        "word": "意大利国旗颜色走秀",
+        "onboard_time": 1770416954,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19336,
+        "num": 20563,
+        "word": "分不清是米兰冬奥会还是米兰时装周",
+        "onboard_time": 1770406274,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18630,
+        "num": 20561,
+        "word": "中国冬奥代表团出发圣西罗",
+        "onboard_time": 1770403634,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18311,
+        "num": 20559,
+        "word": "中国香港代表团金发旗手",
+        "onboard_time": 1770412394,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18127,
+        "num": 20558,
+        "word": "谷爱凌说我无需再证明什么",
+        "onboard_time": 1770402436,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#重温总书记对冰雪健儿的谆谆嘱托#"
+    }
+  }
+}

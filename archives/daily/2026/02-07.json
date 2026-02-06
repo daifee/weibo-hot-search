@@ -1,6 +1,6 @@
 {
   "startTime": 1770393849547,
-  "endTime": 1770414855249,
+  "endTime": 1770417253708,
   "band_list": [
     {
       "raw_hot": 737921,
@@ -163,6 +163,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 193495,
+      "num": 344797,
+      "word": "米兰开幕式 好正常好好看",
+      "onboard_time": 1770406754,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 178996,
       "num": 122860,
       "word": "杨雪晒老公作品",
@@ -251,20 +259,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 118216,
-      "num": 204594,
-      "word": "米兰开幕式 好正常好好看",
-      "onboard_time": 1770406754,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
       "raw_hot": 106030,
       "num": 106030,
       "word": "女子室外上雾化透明厕所",
       "onboard_time": 1770385099,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93803,
+      "num": 93803,
+      "word": "中国队蓝羽绒服 好看",
+      "onboard_time": 1770411374,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 93433,
@@ -355,14 +363,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 77324,
-      "num": 77324,
-      "word": "中国队蓝羽绒服 好看",
-      "onboard_time": 1770411374,
-      "rank": 6,
-      "category": "体育"
-    },
-    {
       "raw_hot": 73991,
       "num": 73991,
       "word": "张函瑞高会自拍",
@@ -443,6 +443,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 63470,
+      "num": 63470,
+      "word": "意大利手势",
+      "onboard_time": 1770413714,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 62915,
       "num": 62915,
       "word": "刘小怂直播",
@@ -475,14 +483,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 52584,
-      "num": 52584,
-      "word": "意大利手势",
-      "onboard_time": 1770413714,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 51073,
       "num": 53044,
       "word": "华晨宇玫瑰权杖夯爆了",
@@ -507,12 +507,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 45256,
+      "num": 45256,
+      "word": "林孝埈转发中国队入场照",
+      "onboard_time": 1770411853,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 43708,
       "num": 619511,
       "word": "你家年货清单都有啥",
       "onboard_time": 1770388163,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 43032,
+      "num": 30297,
+      "word": "奥运五环出场方式太震撼了",
+      "onboard_time": 1770408016,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 42745,
@@ -539,11 +555,27 @@
       "category": "体育"
     },
     {
-      "raw_hot": 36927,
-      "num": 25344,
-      "word": "林孝埈转发中国队入场照",
-      "onboard_time": 1770411853,
-      "rank": 22,
+      "raw_hot": 39291,
+      "num": 28649,
+      "word": "种草引导员的羽绒服",
+      "onboard_time": 1770410893,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 38631,
+      "num": 29869,
+      "word": "米兰冬奥会开幕",
+      "onboard_time": 1770415095,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 38142,
+      "num": 28541,
+      "word": "刘少昂好帅",
+      "onboard_time": 1770414134,
+      "rank": 33,
       "category": "体育"
     },
     {
@@ -555,18 +587,18 @@
       "category": "体育"
     },
     {
-      "raw_hot": 34838,
-      "num": 25800,
-      "word": "种草引导员的羽绒服",
-      "onboard_time": 1770410893,
-      "rank": 20,
-      "category": "体育"
-    },
-    {
       "raw_hot": 34454,
       "num": 34454,
       "word": "米兰冬奥会",
       "onboard_time": 1770403816,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 33302,
+      "num": 29039,
+      "word": "今夜无人入睡",
+      "onboard_time": 1770416115,
       "rank": 28,
       "category": "体育"
     },
@@ -588,7 +620,7 @@
     },
     {
       "raw_hot": 28336,
-      "num": 25549,
+      "num": 26855,
       "word": "米兰羽绒服时装周",
       "onboard_time": 1770410953,
       "rank": 27,
@@ -659,22 +691,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 23469,
-      "num": 22873,
-      "word": "奥运五环出场方式太震撼了",
-      "onboard_time": 1770408016,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 23437,
-      "num": 23437,
-      "word": "刘少昂好帅",
-      "onboard_time": 1770414134,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 22210,
       "num": 22210,
       "word": "感觉德国队披着棉被出来了",
@@ -707,11 +723,35 @@
       "category": "体育"
     },
     {
+      "raw_hot": 21187,
+      "num": 21187,
+      "word": "中国品牌第一个入场",
+      "onboard_time": 1770414734,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 20852,
+      "num": 20852,
+      "word": "2026米兰冬奥会开幕",
+      "onboard_time": 1770415814,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 20417,
       "num": 20417,
       "word": "中国冬奥代表团第19位入场",
       "onboard_time": 1770405016,
       "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 19462,
+      "num": 20566,
+      "word": "意大利国旗颜色走秀",
+      "onboard_time": 1770416954,
+      "rank": 45,
       "category": "体育"
     },
     {
@@ -737,14 +777,6 @@
       "onboard_time": 1770394041,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 16283,
-      "num": 16283,
-      "word": "中国品牌第一个入场",
-      "onboard_time": 1770414734,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 16131,
@@ -775,6 +807,14 @@
       "num": 163810,
       "word": "节前夜间高铁列车车票已陆续开售",
       "onboard_time": 1770387800,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 7346,
+      "num": 272502,
+      "word": "大集里的中国年味",
+      "onboard_time": 1770387922,
       "rank": 2,
       "category": "民生新闻"
     }
