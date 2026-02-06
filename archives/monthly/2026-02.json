@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1770404528942,
+  "endTime": 1770405274369,
   "band_list": [
     {
       "raw_hot": 10390810,
@@ -2825,6 +2825,14 @@
       "onboard_time": 1770215423,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 390961,
+      "num": 390961,
+      "word": "冬奥会开幕式",
+      "onboard_time": 1770403755,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 390430,
@@ -6393,14 +6401,6 @@
       "onboard_time": 1770275423,
       "rank": 47,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 176625,
-      "num": 176625,
-      "word": "冬奥会开幕式",
-      "onboard_time": 1770403755,
-      "rank": 0,
-      "category": "体育"
     },
     {
       "raw_hot": 176616,
@@ -15595,6 +15595,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 41248,
+      "num": 28905,
+      "word": "熬夜看冬奥会开幕式",
+      "onboard_time": 1770404474,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 41247,
       "num": 45270,
       "word": "2025微博年度综艺",
@@ -17099,6 +17107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 20417,
+      "num": 20417,
+      "word": "中国冬奥代表团第19位入场",
+      "onboard_time": 1770405016,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 20329,
       "num": 698907,
       "word": "已发售春运火车票超5000万张",
@@ -17315,20 +17331,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 17812,
-      "num": 20439,
-      "word": "熬夜看冬奥会开幕式",
-      "onboard_time": 1770404474,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 17761,
       "num": 19390,
       "word": "姜太显唱中文歌泪桥",
       "onboard_time": 1769973134,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 17722,
+      "num": 18967,
+      "word": "爬起来看开幕式",
+      "onboard_time": 1770405076,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 17720,
@@ -17723,6 +17739,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 11787,
+      "num": 142756,
+      "word": "节前夜间高铁列车车票已陆续开售",
+      "onboard_time": 1770387800,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 11700,
       "num": 233618,
       "word": "工人酸菜池抽烟吐痰3人禁业5年",
@@ -17737,14 +17761,6 @@
       "onboard_time": 1769888895,
       "rank": 48,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 11527,
-      "num": 142756,
-      "word": "节前夜间高铁列车车票已陆续开售",
-      "onboard_time": 1770387800,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 10372,
