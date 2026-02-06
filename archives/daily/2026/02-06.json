@@ -1,6 +1,6 @@
 {
   "startTime": 1770307563881,
-  "endTime": 1770378956015,
+  "endTime": 1770383749670,
   "band_list": [
     {
       "raw_hot": 7028994,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 839677,
-      "num": 172426,
+      "num": 202018,
       "word": "黄子韬自曝卫生巾工厂现状",
       "onboard_time": 1770368600,
       "rank": 30,
@@ -259,6 +259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 625632,
+      "num": 202870,
+      "word": "爱泼斯坦死亡当晚离奇细节曝光",
+      "onboard_time": 1770377121,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 619225,
       "num": 216092,
       "word": "Gucci出了一个对子 YSL反手就是炸弹",
@@ -299,12 +307,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 553817,
+      "num": 849011,
+      "word": "怀孕闺蜜代替女生亡父送她出嫁",
+      "onboard_time": 1770381801,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 534773,
       "num": 534773,
       "word": "王一博不是走下台是飞下台",
       "onboard_time": 1770303150,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 511165,
+      "num": 202724,
+      "word": "爱泼斯坦死亡当晚监控曝光",
+      "onboard_time": 1770379520,
+      "rank": 11,
+      "category": "国际时政"
     },
     {
       "raw_hot": 509875,
@@ -379,6 +403,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 442905,
+      "num": 442905,
+      "word": "隋文静摔倒",
+      "onboard_time": 1770377841,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 438924,
       "num": 438924,
       "word": "小鳄鱼爱洗澡",
@@ -404,7 +436,7 @@
     },
     {
       "raw_hot": 430614,
-      "num": 195463,
+      "num": 201026,
       "word": "1岁宝宝被撞后截肢",
       "onboard_time": 1770368840,
       "rank": 39,
@@ -459,6 +491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 359253,
+      "num": 359253,
+      "word": "Knight心率偏高就医",
+      "onboard_time": 1770382161,
+      "rank": 4,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 350416,
       "num": 290802,
       "word": "女子3万元金手链戴10天丢失追责商家",
@@ -507,6 +547,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 333669,
+      "num": 201352,
+      "word": "李冰冰晒和妹妹李雪合照",
+      "onboard_time": 1770379160,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 323042,
       "num": 323042,
       "word": "爱尔眼科董事疑为骗保精神病院实控人",
@@ -547,16 +595,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 305732,
-      "num": 305732,
-      "word": "隋文静摔倒",
-      "onboard_time": 1770377841,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 303162,
-      "num": 168430,
+      "num": 200614,
       "word": "原来陈小春的真名叫陈泰铨",
       "onboard_time": 1770371661,
       "rank": 35,
@@ -611,14 +651,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 279434,
-      "num": 178308,
-      "word": "爱泼斯坦死亡当晚离奇细节曝光",
-      "onboard_time": 1770377121,
-      "rank": 14,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 279306,
       "num": 279306,
       "word": "谢娜说肖战出新作品都会给他发信息",
@@ -649,6 +681,14 @@
       "onboard_time": 1770347899,
       "rank": 12,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 270313,
+      "num": 125150,
+      "word": "一上午烫了20多个老太太",
+      "onboard_time": 1770380662,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 268000,
@@ -747,12 +787,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 248864,
+      "num": 123806,
+      "word": "91岁老人900万积蓄遭儿子儿媳挪用",
+      "onboard_time": 1770379641,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 248153,
       "num": 248153,
       "word": "中方回应特朗普公开支持高市早苗",
       "onboard_time": 1770370462,
       "rank": 18,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 243854,
+      "num": 243854,
+      "word": "隋文静落泪道歉",
+      "onboard_time": 1770379821,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 243548,
@@ -1011,6 +1067,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 179918,
+      "num": 121358,
+      "word": "朱珠统一了东西方的审美",
+      "onboard_time": 1770379041,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 178819,
       "num": 192905,
       "word": "恋与深空喜迎财神",
@@ -1049,6 +1113,14 @@
       "onboard_time": 1770295706,
       "rank": 48,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 164534,
+      "num": 120475,
+      "word": "千问APP建议明天再试",
+      "onboard_time": 1770381620,
+      "rank": 28,
+      "category": "互联网"
     },
     {
       "raw_hot": 163969,
@@ -1219,6 +1291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 142925,
+      "num": 204199,
+      "word": "陈哲远复制丞磊后援会文案",
+      "onboard_time": 1770379641,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 140762,
       "num": 193326,
       "word": "白敬亭陈伟霆王嘉尔模仿吴京",
@@ -1233,6 +1313,14 @@
       "onboard_time": 1770353720,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 140402,
+      "num": 118770,
+      "word": "王一博职场刺客",
+      "onboard_time": 1770381201,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 139228,
@@ -1305,6 +1393,14 @@
       "onboard_time": 1770363261,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 134021,
+      "num": 117172,
+      "word": "生命树",
+      "onboard_time": 1770301647,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 134004,
@@ -1419,12 +1515,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 127183,
+      "num": 127183,
+      "word": "男子创业学胖东来还清105万外债",
+      "onboard_time": 1770382040,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 126727,
       "num": 122942,
       "word": "杨紫周游新剧不是暧昧是爱妹",
       "onboard_time": 1770357140,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 126124,
+      "num": 116255,
+      "word": "张艺凡卢昱晓造型师是天才来的",
+      "onboard_time": 1770382582,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 124734,
@@ -1497,6 +1609,14 @@
       "onboard_time": 1770334099,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119939,
+      "num": 114129,
+      "word": "张予曦 美商",
+      "onboard_time": 1770382040,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 119876,
@@ -1587,6 +1707,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 114494,
+      "num": 114494,
+      "word": "崩坏星穹铁道",
+      "onboard_time": 1770382642,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 114091,
       "num": 185944,
       "word": "A股迎来奇迹日",
@@ -1659,6 +1787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 110023,
+      "num": 110023,
+      "word": "最强大脑",
+      "onboard_time": 1770382941,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 109227,
       "num": 132503,
       "word": "妹妹回应25岁哥哥身高仅60cm",
@@ -1723,6 +1859,14 @@
       "category": "电影,体育"
     },
     {
+      "raw_hot": 102008,
+      "num": 102008,
+      "word": "AL对战BLG",
+      "onboard_time": 1770378080,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 100503,
       "num": 114494,
       "word": "苏翊鸣决赛堪比神仙打架",
@@ -1769,6 +1913,14 @@
       "onboard_time": 1770367940,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 97890,
+      "num": 97890,
+      "word": "米兰冬奥会开幕式",
+      "onboard_time": 1770383301,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 97406,
@@ -1915,14 +2067,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 87932,
-      "num": 87932,
-      "word": "AL对战BLG",
-      "onboard_time": 1770378080,
-      "rank": 45,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 87828,
       "num": 87828,
       "word": "微信再封元宝分享口令",
@@ -1963,6 +2107,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 84951,
+      "num": 84951,
+      "word": "特朗普发视频把奥巴马夫妇P成猴子",
+      "onboard_time": 1770382341,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 84632,
       "num": 84632,
       "word": "金饰价跌到1484元",
@@ -1987,6 +2139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 83014,
+      "num": 129984,
+      "word": "伊朗向中方通报最新情况",
+      "onboard_time": 1770378860,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 82472,
       "num": 232960,
       "word": "1分钱居然可以点4杯奶茶",
@@ -2001,6 +2161,14 @@
       "onboard_time": 1770375141,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 80124,
+      "num": 80124,
+      "word": "苏新皓 双腿离婚系爱豆",
+      "onboard_time": 1770380000,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 79914,
@@ -2147,6 +2315,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 64177,
+      "num": 148292,
+      "word": "文淇的性感是自由生长的",
+      "onboard_time": 1770381081,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 63384,
       "num": 241151,
       "word": "打金店金粉熔化后纯度不足9999",
@@ -2291,14 +2467,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 52356,
-      "num": 52356,
-      "word": "生命树",
-      "onboard_time": 1770301647,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 51318,
       "num": 51318,
       "word": "唐宫奇案首播口碑",
@@ -2372,7 +2540,7 @@
     },
     {
       "raw_hot": 46438,
-      "num": 644197,
+      "num": 674016,
       "word": "全国首款航天造电动垂直起降飞行器首飞成功",
       "onboard_time": 1770367641,
       "rank": 2,
@@ -2723,14 +2891,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 23934,
-      "num": 129984,
-      "word": "伊朗向中方通报最新情况",
-      "onboard_time": 1770378860,
-      "rank": 34,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 23861,
       "num": 652577,
       "word": "来华过大年成全球新风尚",
@@ -2875,6 +3035,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 16381,
+      "num": 126902,
+      "word": "代表调研发现买包子两块停车10块",
+      "onboard_time": 1770383001,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 13549,
       "num": 120789,
       "word": "最美的风景就是回家路",
@@ -2897,6 +3065,22 @@
       "onboard_time": 1770365001,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 12800,
+      "num": 122846,
+      "word": "奶茶品牌为千问免单拼了",
+      "onboard_time": 1770383482,
+      "rank": 25,
+      "category": "美食,互联网"
+    },
+    {
+      "raw_hot": 9596,
+      "num": 110137,
+      "word": "爱泼斯坦案永远查不完",
+      "onboard_time": 1770383420,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 9425,

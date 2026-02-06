@@ -1,0 +1,410 @@
+{
+  "runTime": 1770383749670,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 929760,
+        "num": 1148761,
+        "word": "快递停运",
+        "onboard_time": 1770359000,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 553817,
+        "num": 849011,
+        "word": "怀孕闺蜜代替女生亡父送她出嫁",
+        "onboard_time": 1770381801,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30194,
+        "num": 674016,
+        "word": "全国首款航天造电动垂直起降飞行器首飞成功",
+        "onboard_time": 1770367641,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 442905,
+        "num": 442905,
+        "word": "隋文静摔倒",
+        "onboard_time": 1770377841,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 359253,
+        "num": 359253,
+        "word": "Knight心率偏高就医",
+        "onboard_time": 1770382161,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 243854,
+        "num": 243854,
+        "word": "隋文静落泪道歉",
+        "onboard_time": 1770379821,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 210599,
+        "num": 210599,
+        "word": "花样滑冰团体赛资格赛",
+        "onboard_time": 1770368121,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204510,
+        "num": 204510,
+        "word": "小马糕",
+        "onboard_time": 1770373641,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 142925,
+        "num": 204199,
+        "word": "陈哲远复制丞磊后援会文案",
+        "onboard_time": 1770379641,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140626,
+        "num": 203575,
+        "word": "小偷偷十几万刮刮乐刮完未中大奖",
+        "onboard_time": 1770360861,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 625632,
+        "num": 202870,
+        "word": "爱泼斯坦死亡当晚离奇细节曝光",
+        "onboard_time": 1770377121,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 511165,
+        "num": 202724,
+        "word": "爱泼斯坦死亡当晚监控曝光",
+        "onboard_time": 1770379520,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 491901,
+        "num": 202018,
+        "word": "黄子韬自曝卫生巾工厂现状",
+        "onboard_time": 1770368600,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 333669,
+        "num": 201352,
+        "word": "李冰冰晒和妹妹李雪合照",
+        "onboard_time": 1770379160,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206456,
+        "num": 201026,
+        "word": "1岁宝宝被撞后截肢",
+        "onboard_time": 1770368840,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200614,
+        "num": 200614,
+        "word": "原来陈小春的真名叫陈泰铨",
+        "onboard_time": 1770371661,
+        "rank": 15,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 187018,
+        "num": 187018,
+        "word": "陛下 How are you",
+        "onboard_time": 1770369620,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 64177,
+        "num": 148292,
+        "word": "文淇的性感是自由生长的",
+        "onboard_time": 1770381081,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 127183,
+        "num": 127183,
+        "word": "男子创业学胖东来还清105万外债",
+        "onboard_time": 1770382040,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16381,
+        "num": 126902,
+        "word": "代表调研发现买包子两块停车10块",
+        "onboard_time": 1770383001,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 740084,
+        "num": 126497,
+        "word": "20岁黄多多好漂亮",
+        "onboard_time": 1770372801,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 379875,
+        "num": 125591,
+        "word": "千问送奶茶背后有阳谋",
+        "onboard_time": 1770369800,
+        "rank": 21,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 270313,
+        "num": 125150,
+        "word": "一上午烫了20多个老太太",
+        "onboard_time": 1770380662,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 248864,
+        "num": 123806,
+        "word": "91岁老人900万积蓄遭儿子儿媳挪用",
+        "onboard_time": 1770379641,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123800,
+        "num": 123800,
+        "word": "4类食品不是预制菜",
+        "onboard_time": 1770374121,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12800,
+        "num": 122846,
+        "word": "奶茶品牌为千问免单拼了",
+        "onboard_time": 1770383482,
+        "rank": 25,
+        "category": "美食,互联网"
+      },
+      {
+        "raw_hot": 167668,
+        "num": 121674,
+        "word": "王玉雯的裙子太考验身材了",
+        "onboard_time": 1770369981,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 179918,
+        "num": 121358,
+        "word": "朱珠统一了东西方的审美",
+        "onboard_time": 1770379041,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164534,
+        "num": 120475,
+        "word": "千问APP建议明天再试",
+        "onboard_time": 1770381620,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 140402,
+        "num": 118770,
+        "word": "王一博职场刺客",
+        "onboard_time": 1770381201,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136284,
+        "num": 117880,
+        "word": "成何体统 雷霆特效",
+        "onboard_time": 1770369681,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117420,
+        "num": 117420,
+        "word": "明日方舟新春前瞻特辑",
+        "onboard_time": 1770377180,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 134021,
+        "num": 117172,
+        "word": "生命树",
+        "onboard_time": 1770381801,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126124,
+        "num": 116255,
+        "word": "张艺凡卢昱晓造型师是天才来的",
+        "onboard_time": 1770382582,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 114494,
+        "num": 114494,
+        "word": "崩坏星穹铁道",
+        "onboard_time": 1770382642,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 119939,
+        "num": 114129,
+        "word": "张予曦 美商",
+        "onboard_time": 1770382040,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 113296,
+        "num": 113296,
+        "word": "千问登顶AppStore免费榜第一",
+        "onboard_time": 1770360920,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 110677,
+        "num": 110677,
+        "word": "成何体统",
+        "onboard_time": 1770345920,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110383,
+        "num": 110383,
+        "word": "唐宫奇案直播",
+        "onboard_time": 1770373823,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 9596,
+        "num": 110137,
+        "word": "爱泼斯坦案永远查不完",
+        "onboard_time": 1770383420,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 110023,
+        "num": 110023,
+        "word": "最强大脑",
+        "onboard_time": 1770382941,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102008,
+        "num": 102008,
+        "word": "AL对战BLG",
+        "onboard_time": 1770378080,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 97890,
+        "num": 97890,
+        "word": "米兰冬奥会开幕式",
+        "onboard_time": 1770383301,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93880,
+        "num": 93880,
+        "word": "39岁刘诗诗状态",
+        "onboard_time": 1770372260,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91946,
+        "num": 91946,
+        "word": "国投瑞银基金成立工作组",
+        "onboard_time": 1770378020,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 84951,
+        "num": 84951,
+        "word": "特朗普发视频把奥巴马夫妇P成猴子",
+        "onboard_time": 1770382341,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 84197,
+        "num": 84197,
+        "word": "吴世勋机场",
+        "onboard_time": 1770371841,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83014,
+        "num": 83014,
+        "word": "伊朗向中方通报最新情况",
+        "onboard_time": 1770378860,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 81610,
+        "num": 81610,
+        "word": "千问 免费奶茶",
+        "onboard_time": 1770344239,
+        "rank": 48,
+        "category": "美食,互联网"
+      },
+      {
+        "raw_hot": 80124,
+        "num": 80124,
+        "word": "苏新皓 双腿离婚系爱豆",
+        "onboard_time": 1770380000,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#新春之约擘画中俄关系新蓝图#"
+    }
+  }
+}
