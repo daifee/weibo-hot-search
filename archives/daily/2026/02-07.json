@@ -1,6 +1,6 @@
 {
   "startTime": 1770393849547,
-  "endTime": 1770420902680,
+  "endTime": 1770421799289,
   "band_list": [
     {
       "raw_hot": 737921,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 621441,
-      "num": 863619,
+      "num": 995763,
       "word": "冬奥会开幕式",
       "onboard_time": 1770403755,
       "rank": 0,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 474992,
-      "num": 624754,
+      "num": 729465,
       "word": "王楚钦尊重国家队的安排",
       "onboard_time": 1770393440,
       "rank": 30,
@@ -67,6 +67,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 377205,
+      "num": 377205,
+      "word": "今夜无人入睡",
+      "onboard_time": 1770416115,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 373015,
       "num": 153205,
       "word": "黄子韬自曝卫生巾工厂现状",
@@ -83,14 +91,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 328445,
-      "num": 328445,
-      "word": "今夜无人入睡",
-      "onboard_time": 1770416115,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 306280,
       "num": 306280,
       "word": "小马糕",
@@ -99,20 +99,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 298923,
+      "num": 298923,
+      "word": "郎朗 权威",
+      "onboard_time": 1770417254,
+      "rank": 30,
+      "category": "体育,音乐"
+    },
+    {
       "raw_hot": 298553,
       "num": 298553,
       "word": "生命树18集12分57秒",
       "onboard_time": 1770387983,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 293244,
-      "num": 293244,
-      "word": "郎朗 权威",
-      "onboard_time": 1770417254,
-      "rank": 30,
-      "category": "体育,音乐"
     },
     {
       "raw_hot": 275639,
@@ -180,11 +180,27 @@
     },
     {
       "raw_hot": 213966,
-      "num": 96251,
+      "num": 106827,
       "word": "硕士娶离异农村妇女守护留守儿童",
       "onboard_time": 1770387864,
       "rank": 23,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 211445,
+      "num": 211445,
+      "word": "巴拿马正成为第二个立陶宛",
+      "onboard_time": 1770391940,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 205034,
+      "num": 157763,
+      "word": "肖战工作室用的BGM",
+      "onboard_time": 1770421038,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 189119,
@@ -195,12 +211,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 183884,
-      "num": 183884,
-      "word": "巴拿马正成为第二个立陶宛",
-      "onboard_time": 1770391940,
-      "rank": 47,
-      "category": "国际时政"
+      "raw_hot": 186236,
+      "num": 182758,
+      "word": "成何体统上了韩网热帖",
+      "onboard_time": 1770421157,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 178996,
@@ -217,6 +233,22 @@
       "onboard_time": 1770382582,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 167417,
+      "num": 107800,
+      "word": "邬君梅与外籍丈夫婚姻持续近30年",
+      "onboard_time": 1770421098,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 166251,
+      "num": 106968,
+      "word": "中国队蓝羽绒服 好看",
+      "onboard_time": 1770411374,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 163921,
@@ -244,7 +276,7 @@
     },
     {
       "raw_hot": 158565,
-      "num": 104991,
+      "num": 128689,
       "word": "卢昱晓说女明星不能一味追求瘦",
       "onboard_time": 1770396559,
       "rank": 27,
@@ -257,6 +289,22 @@
       "onboard_time": 1770387083,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 149640,
+      "num": 149640,
+      "word": "飞饼师傅被认定外籍专家发放慰问费",
+      "onboard_time": 1770399197,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 142949,
+      "num": 142949,
+      "word": "华晨宇 我35岁最后一天的最后一吻",
+      "onboard_time": 1770419536,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 139037,
@@ -283,20 +331,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 126050,
-      "num": 99573,
-      "word": "中国队蓝羽绒服 好看",
-      "onboard_time": 1770411374,
-      "rank": 6,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 110434,
-      "num": 74135,
+      "raw_hot": 129229,
+      "num": 105966,
       "word": "奥运五环出场方式太震撼了",
       "onboard_time": 1770408016,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 107831,
+      "num": 107831,
+      "word": "最强大脑最无解的题目出现了",
+      "onboard_time": 1770420858,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 106030,
@@ -307,11 +355,27 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 104838,
-      "num": 73976,
+      "raw_hot": 105424,
+      "num": 105424,
       "word": "林孝埈转发中国队入场照",
       "onboard_time": 1770411853,
       "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 103617,
+      "num": 103617,
+      "word": "刘宇宁回应合作白鹿",
+      "onboard_time": 1770420738,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 96246,
+      "num": 96246,
+      "word": "意大利手势",
+      "onboard_time": 1770413714,
+      "rank": 25,
       "category": "体育"
     },
     {
@@ -321,14 +385,6 @@
       "onboard_time": 1770389002,
       "rank": 25,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 92487,
-      "num": 92487,
-      "word": "飞饼师傅被认定外籍专家发放慰问费",
-      "onboard_time": 1770399197,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 91678,
@@ -371,16 +427,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 86703,
-      "num": 86703,
-      "word": "华晨宇 我35岁最后一天的最后一吻",
-      "onboard_time": 1770419536,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 86290,
-      "num": 86290,
+      "num": 93990,
       "word": "奶茶品牌为千问免单拼了",
       "onboard_time": 1770383482,
       "rank": 31,
@@ -403,12 +451,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 83773,
-      "num": 73754,
-      "word": "意大利手势",
-      "onboard_time": 1770413714,
-      "rank": 25,
-      "category": "体育"
+      "raw_hot": 81278,
+      "num": 81278,
+      "word": "中国黄金调整回购规则",
+      "onboard_time": 1770417435,
+      "rank": 42,
+      "category": "财经"
     },
     {
       "raw_hot": 79119,
@@ -417,6 +465,22 @@
       "onboard_time": 1770381801,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 77118,
+      "num": 77118,
+      "word": "网友偶遇陈冠希文案",
+      "onboard_time": 1770421758,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 74143,
+      "num": 74143,
+      "word": "一觉醒来全跌了",
+      "onboard_time": 1770418218,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 73991,
@@ -499,11 +563,27 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 63425,
+      "num": 63425,
+      "word": "怀孕闺蜜代替女生亡父送她出嫁",
+      "onboard_time": 1770381801,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 62915,
       "num": 62915,
       "word": "刘小怂直播",
       "onboard_time": 1770388221,
       "rank": 48,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 62641,
+      "num": 62641,
+      "word": "第五人格",
+      "onboard_time": 1770421397,
+      "rank": 40,
       "category": "游戏"
     },
     {
@@ -523,12 +603,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 56054,
-      "num": 56054,
-      "word": "最强大脑最无解的题目出现了",
-      "onboard_time": 1770420858,
-      "rank": 32,
-      "category": "综艺"
+      "raw_hot": 59949,
+      "num": 59949,
+      "word": "王者荣耀",
+      "onboard_time": 1770420979,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 54299,
+      "num": 54299,
+      "word": "种草引导员的羽绒服",
+      "onboard_time": 1770410893,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 52644,
@@ -539,36 +627,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 51513,
-      "num": 51513,
-      "word": "中国黄金调整回购规则",
-      "onboard_time": 1770417435,
-      "rank": 42,
-      "category": "财经"
-    },
-    {
       "raw_hot": 51073,
       "num": 53044,
       "word": "华晨宇玫瑰权杖夯爆了",
       "onboard_time": 1770389902,
       "rank": 41,
       "category": "演出"
-    },
-    {
-      "raw_hot": 50287,
-      "num": 50287,
-      "word": "刘宇宁回应合作白鹿",
-      "onboard_time": 1770420738,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 48385,
-      "num": 48385,
-      "word": "一觉醒来全跌了",
-      "onboard_time": 1770418218,
-      "rank": 49,
-      "category": "财经"
     },
     {
       "raw_hot": 48103,
@@ -579,12 +643,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 47566,
-      "num": 53005,
-      "word": "怀孕闺蜜代替女生亡父送她出嫁",
-      "onboard_time": 1770381801,
+      "raw_hot": 47367,
+      "num": 47367,
+      "word": "谷爱凌米兰冬奥首秀",
+      "onboard_time": 1770419776,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 47053,
+      "num": 47053,
+      "word": "蔡徐坤巡演官宣",
+      "onboard_time": 1770421638,
       "rank": 48,
-      "category": "民生新闻"
+      "category": "演出"
+    },
+    {
+      "raw_hot": 46634,
+      "num": 167569,
+      "word": "米兰冬奥会开幕",
+      "onboard_time": 1770415095,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 46008,
@@ -592,14 +672,6 @@
       "word": "刘少昂好帅",
       "onboard_time": 1770414134,
       "rank": 33,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 44221,
-      "num": 44221,
-      "word": "谷爱凌米兰冬奥首秀",
-      "onboard_time": 1770419776,
-      "rank": 42,
       "category": "体育"
     },
     {
@@ -627,27 +699,11 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 42399,
-      "num": 42399,
-      "word": "种草引导员的羽绒服",
-      "onboard_time": 1770410893,
-      "rank": 20,
-      "category": "体育"
-    },
-    {
       "raw_hot": 41248,
       "num": 29198,
       "word": "熬夜看冬奥会开幕式",
       "onboard_time": 1770404474,
       "rank": 47,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 38631,
-      "num": 120950,
-      "word": "米兰冬奥会开幕",
-      "onboard_time": 1770415095,
-      "rank": 24,
       "category": "体育"
     },
     {
@@ -787,6 +843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 21622,
+      "num": 596436,
+      "word": "大集里的中国年味",
+      "onboard_time": 1770387922,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21362,
       "num": 21362,
       "word": "五星红旗闪耀米兰",
@@ -849,14 +913,6 @@
       "onboard_time": 1770394041,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 17175,
-      "num": 509652,
-      "word": "大集里的中国年味",
-      "onboard_time": 1770387922,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 16131,
