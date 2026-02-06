@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1770413967239,
+  "endTime": 1770414855249,
   "band_list": [
     {
       "raw_hot": 10390810,
@@ -9244,7 +9244,7 @@
     },
     {
       "raw_hot": 118216,
-      "num": 155476,
+      "num": 204594,
       "word": "米兰开幕式 好正常好好看",
       "onboard_time": 1770406754,
       "rank": 7,
@@ -13427,6 +13427,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 77324,
+      "num": 77324,
+      "word": "中国队蓝羽绒服 好看",
+      "onboard_time": 1770411374,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 77269,
       "num": 77269,
       "word": "随餐吃饺子vs饭后吃饺子",
@@ -13561,14 +13569,6 @@
       "onboard_time": 1770078440,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 76024,
-      "num": 76024,
-      "word": "中国队蓝羽绒服 好看",
-      "onboard_time": 1770411374,
-      "rank": 6,
-      "category": "体育"
     },
     {
       "raw_hot": 76022,
@@ -14987,6 +14987,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 52584,
+      "num": 52584,
+      "word": "意大利手势",
+      "onboard_time": 1770413714,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 52542,
       "num": 60384,
       "word": "守望先锋",
@@ -15939,6 +15947,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 36927,
+      "num": 25344,
+      "word": "林孝埈转发中国队入场照",
+      "onboard_time": 1770411853,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 36870,
       "num": 36870,
       "word": "黄金创40年来最大跌幅",
@@ -16089,14 +16105,6 @@
       "onboard_time": 1769915899,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 34616,
-      "num": 23611,
-      "word": "林孝埈转发中国队入场照",
-      "onboard_time": 1770411853,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 34575,
@@ -16563,6 +16571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 28336,
+      "num": 25549,
+      "word": "米兰羽绒服时装周",
+      "onboard_time": 1770410953,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 28219,
       "num": 33565,
       "word": "父亲去世女儿回大伯家过年泪流满面",
@@ -16705,14 +16721,6 @@
       "onboard_time": 1770270143,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 26076,
-      "num": 25549,
-      "word": "米兰羽绒服时装周",
-      "onboard_time": 1770410953,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 26035,
@@ -16891,14 +16899,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 24553,
-      "num": 22828,
-      "word": "意大利手势",
-      "onboard_time": 1770413714,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 24310,
       "num": 31606,
       "word": "生命树第二集发生了什么",
@@ -16939,6 +16939,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 23541,
+      "num": 23541,
+      "word": "中国香港代表团金发旗手",
+      "onboard_time": 1770412394,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 23531,
       "num": 23531,
       "word": "惊蛰无声",
@@ -16968,6 +16976,14 @@
       "word": "奥运五环出场方式太震撼了",
       "onboard_time": 1770408016,
       "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 23437,
+      "num": 23437,
+      "word": "刘少昂好帅",
+      "onboard_time": 1770414134,
+      "rank": 33,
       "category": "体育"
     },
     {
@@ -17209,14 +17225,6 @@
       "onboard_time": 1769922080,
       "rank": 14,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 20905,
-      "num": 20905,
-      "word": "中国香港代表团金发旗手",
-      "onboard_time": 1770412394,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 20876,
@@ -17627,6 +17635,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 16283,
+      "num": 16283,
+      "word": "中国品牌第一个入场",
+      "onboard_time": 1770414734,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 16131,
+      "num": 15920,
+      "word": "开幕式 AI动画",
+      "onboard_time": 1770414615,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 16086,
       "num": 16086,
       "word": "苏新皓 辛苦了",
@@ -17748,7 +17772,7 @@
     },
     {
       "raw_hot": 14255,
-      "num": 142756,
+      "num": 163810,
       "word": "节前夜间高铁列车车票已陆续开售",
       "onboard_time": 1770387800,
       "rank": 2,
