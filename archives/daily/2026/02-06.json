@@ -1,6 +1,6 @@
 {
   "startTime": 1770307563881,
-  "endTime": 1770385356068,
+  "endTime": 1770389248104,
   "band_list": [
     {
       "raw_hot": 7028994,
@@ -65,6 +65,14 @@
       "onboard_time": 1770347599,
       "rank": 41,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1457105,
+      "num": 557774,
+      "word": "Bin 我依然是世一上",
+      "onboard_time": 1770386482,
+      "rank": 3,
+      "category": "电竞"
     },
     {
       "raw_hot": 1311090,
@@ -163,6 +171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 742033,
+      "num": 202724,
+      "word": "爱泼斯坦死亡当晚监控曝光",
+      "onboard_time": 1770379520,
+      "rank": 11,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 741060,
       "num": 1115426,
       "word": "多名领到千问免费奶茶网友发声",
@@ -185,14 +201,6 @@
       "onboard_time": 1770360920,
       "rank": 4,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 711727,
-      "num": 202724,
-      "word": "爱泼斯坦死亡当晚监控曝光",
-      "onboard_time": 1770379520,
-      "rank": 11,
-      "category": "国际时政"
     },
     {
       "raw_hot": 706561,
@@ -321,6 +329,14 @@
       "onboard_time": 1770345260,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 538083,
+      "num": 851602,
+      "word": "91岁老人900万积蓄遭儿子儿媳挪用",
+      "onboard_time": 1770379641,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 534773,
@@ -459,12 +475,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 392014,
+      "num": 392014,
+      "word": "一上午烫了20多个老太太",
+      "onboard_time": 1770380662,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 377880,
+      "num": 163814,
+      "word": "立威廉去年已进行2次手术",
+      "onboard_time": 1770384382,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 377798,
       "num": 191392,
       "word": "张峻豪换朱志鑫头像",
       "onboard_time": 1770345379,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 372641,
+      "num": 190089,
+      "word": "张艺凡卢昱晓造型师是天才来的",
+      "onboard_time": 1770382582,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 370024,
@@ -537,6 +577,14 @@
       "onboard_time": 1770338903,
       "rank": 23,
       "category": "财经"
+    },
+    {
+      "raw_hot": 340537,
+      "num": 163177,
+      "word": "吴世勋上海签售生图",
+      "onboard_time": 1770385642,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 334843,
@@ -627,6 +675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 295645,
+      "num": 295645,
+      "word": "吴京官宣王嘉尔加入镖人世界",
+      "onboard_time": 1770385761,
+      "rank": 5,
+      "category": "电影"
+    },
+    {
       "raw_hot": 294902,
       "num": 294902,
       "word": "王一博 希望大家也开心",
@@ -649,6 +705,14 @@
       "onboard_time": 1770305846,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 280147,
+      "num": 160860,
+      "word": "管泽元 Bin快说你被盗号了",
+      "onboard_time": 1770388102,
+      "rank": 21,
+      "category": "电竞"
     },
     {
       "raw_hot": 279306,
@@ -683,12 +747,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 270313,
-      "num": 259206,
-      "word": "一上午烫了20多个老太太",
-      "onboard_time": 1770380662,
-      "rank": 22,
-      "category": "民生新闻"
+      "raw_hot": 270044,
+      "num": 198233,
+      "word": "奶茶品牌为千问免单拼了",
+      "onboard_time": 1770383482,
+      "rank": 25,
+      "category": "美食,互联网"
     },
     {
       "raw_hot": 268000,
@@ -795,12 +859,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 248864,
-      "num": 221547,
-      "word": "91岁老人900万积蓄遭儿子儿媳挪用",
-      "onboard_time": 1770379641,
-      "rank": 23,
-      "category": "民生新闻"
+      "raw_hot": 249088,
+      "num": 197770,
+      "word": "范丞丞直播",
+      "onboard_time": 1770384262,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 248153,
@@ -809,6 +873,14 @@
       "onboard_time": 1770370462,
       "rank": 18,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 243769,
+      "num": 243769,
+      "word": "张杰演唱会幸运观众黄霄雲",
+      "onboard_time": 1770387083,
+      "rank": 6,
+      "category": "演出"
     },
     {
       "raw_hot": 243548,
@@ -857,6 +929,14 @@
       "onboard_time": 1770309261,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 236535,
+      "num": 158468,
+      "word": "硕士娶离异农村妇女守护留守儿童",
+      "onboard_time": 1770387864,
+      "rank": 24,
+      "category": "正能量"
     },
     {
       "raw_hot": 234674,
@@ -947,28 +1027,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 216990,
-      "num": 197770,
-      "word": "范丞丞直播",
-      "onboard_time": 1770384262,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 216189,
       "num": 642454,
       "word": "美股",
       "onboard_time": 1770306146,
       "rank": 19,
       "category": "财经"
-    },
-    {
-      "raw_hot": 214554,
-      "num": 198233,
-      "word": "奶茶品牌为千问免单拼了",
-      "onboard_time": 1770383482,
-      "rank": 25,
-      "category": "美食,互联网"
     },
     {
       "raw_hot": 210209,
@@ -1059,14 +1123,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 190089,
-      "num": 190089,
-      "word": "张艺凡卢昱晓造型师是天才来的",
-      "onboard_time": 1770382582,
-      "rank": 33,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 188328,
       "num": 188328,
       "word": "隋文静韩聪短节目65.37分",
@@ -1123,6 +1179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 179576,
+      "num": 163805,
+      "word": "女子室外上雾化透明厕所",
+      "onboard_time": 1770385099,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 178819,
       "num": 192905,
       "word": "恋与深空喜迎财神",
@@ -1163,6 +1227,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 169749,
+      "num": 155178,
+      "word": "虞书欣怎么独自在上班路上拍现偶",
+      "onboard_time": 1770385462,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 169345,
       "num": 169345,
       "word": "张天爱生病",
@@ -1193,6 +1265,14 @@
       "onboard_time": 1770359781,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 163826,
+      "num": 163826,
+      "word": "生命树18集12分57秒",
+      "onboard_time": 1770387983,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 162551,
@@ -1227,14 +1307,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 157640,
-      "num": 157640,
-      "word": "立威廉去年已进行2次手术",
-      "onboard_time": 1770384382,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 157441,
       "num": 158199,
       "word": "单板滑雪男子大跳台预赛",
@@ -1251,6 +1323,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 154581,
+      "num": 154581,
+      "word": "刘小怂直播",
+      "onboard_time": 1770388221,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 153731,
       "num": 153731,
       "word": "敢让张艺谋笑一个的人出现了",
@@ -1265,6 +1345,14 @@
       "onboard_time": 1770350480,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 152483,
+      "num": 152483,
+      "word": "AL成功翻盘BLG",
+      "onboard_time": 1770388042,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 150713,
@@ -1627,6 +1715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121666,
+      "num": 121666,
+      "word": "最强大脑",
+      "onboard_time": 1770382941,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 121611,
       "num": 148632,
       "word": "南京女子腹痛三天检查才发现怀孕",
@@ -1819,6 +1915,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 111202,
+      "num": 193625,
+      "word": "10万多元黄金被当垃圾扔了",
+      "onboard_time": 1770384621,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 110948,
       "num": 1001229,
       "word": "小车起火救3人男子承担事故主要责任",
@@ -1841,14 +1945,6 @@
       "onboard_time": 1770364581,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 110023,
-      "num": 110023,
-      "word": "最强大脑",
-      "onboard_time": 1770382941,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 109227,
@@ -1923,11 +2019,27 @@
       "category": "电影,体育"
     },
     {
+      "raw_hot": 102112,
+      "num": 111609,
+      "word": "丘妈为中国冬奥选手加油",
+      "onboard_time": 1770388522,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 102008,
       "num": 102008,
       "word": "AL对战BLG",
       "onboard_time": 1770378080,
       "rank": 45,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 101109,
+      "num": 101109,
+      "word": "狼队大场五连胜",
+      "onboard_time": 1770388583,
+      "rank": 41,
       "category": "电竞"
     },
     {
@@ -1969,6 +2081,14 @@
       "onboard_time": 1770360081,
       "rank": 48,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 98746,
+      "num": 98746,
+      "word": "Uzi说这才叫电竞春晚",
+      "onboard_time": 1770386661,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 98403,
@@ -2019,6 +2139,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 95184,
+      "num": 163809,
+      "word": "千问免单文学",
+      "onboard_time": 1770386482,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 94983,
+      "num": 94983,
+      "word": "小米YU7GT申报图曝光",
+      "onboard_time": 1770388283,
+      "rank": 45,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 94469,
+      "num": 94469,
+      "word": "小米新款纯电SUV车型命名为YU7GT",
+      "onboard_time": 1770388462,
+      "rank": 46,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 94341,
       "num": 94341,
       "word": "逆水寒",
@@ -2033,6 +2177,14 @@
       "onboard_time": 1770376280,
       "rank": 37,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 92540,
+      "num": 92540,
+      "word": "韩聪回应隋文静摔倒原因",
+      "onboard_time": 1770388762,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 92331,
@@ -2067,14 +2219,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 91827,
-      "num": 103025,
-      "word": "女子室外上雾化透明厕所",
-      "onboard_time": 1770385099,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 91645,
       "num": 91645,
       "word": "国际金银价格大幅反弹",
@@ -2105,6 +2249,14 @@
       "onboard_time": 1770286586,
       "rank": 37,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 90339,
+      "num": 90339,
+      "word": "网红录视频挑战跳水3天后遗体被发现",
+      "onboard_time": 1770389002,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 89477,
@@ -2193,6 +2345,14 @@
       "onboard_time": 1770357921,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 85174,
+      "num": 156088,
+      "word": "中国队暂列花滑团体赛第9",
+      "onboard_time": 1770387864,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 84632,
@@ -2417,6 +2577,14 @@
       "onboard_time": 1770364040,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 63353,
+      "num": 194697,
+      "word": "问界M6纯电版标配100度大电池",
+      "onboard_time": 1770384922,
+      "rank": 18,
+      "category": "汽车"
     },
     {
       "raw_hot": 62779,
@@ -2691,6 +2859,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 39118,
+      "num": 163801,
+      "word": "阿云嘎Daddy感",
+      "onboard_time": 1770386721,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 39117,
       "num": 1165372,
       "word": "服务区变身年味驿站",
@@ -2819,6 +2995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 31411,
+      "num": 660096,
+      "word": "你家年货清单都有啥",
+      "onboard_time": 1770388163,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31292,
       "num": 202331,
       "word": "用中国剪纸打开米兰冬奥",
@@ -2875,14 +3059,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 28980,
-      "num": 194697,
-      "word": "问界M6纯电版标配100度大电池",
-      "onboard_time": 1770384922,
-      "rank": 18,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 27581,
       "num": 153740,
       "word": "Mate80镜头下的浓颜系冲击力",
@@ -2921,14 +3097,6 @@
       "onboard_time": 1770315136,
       "rank": 39,
       "category": "电影"
-    },
-    {
-      "raw_hot": 26464,
-      "num": 193625,
-      "word": "10万多元黄金被当垃圾扔了",
-      "onboard_time": 1770384621,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 26035,
@@ -3185,6 +3353,14 @@
       "onboard_time": 1770372141,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 8356,
+      "num": 113311,
+      "word": "伊朗外长称伊美就继续谈判达成共识",
+      "onboard_time": 1770389183,
+      "rank": 36,
+      "category": "国际时政"
     }
   ],
   "hotgov_list": [
@@ -3199,6 +3375,9 @@
     },
     {
       "word": "#新春之约擘画中俄关系新蓝图#"
+    },
+    {
+      "word": "#重温总书记对冰雪健儿的谆谆嘱托#"
     }
   ]
 }

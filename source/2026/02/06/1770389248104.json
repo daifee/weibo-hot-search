@@ -1,0 +1,410 @@
+{
+  "runTime": 1770389248104,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 880486,
+        "num": 1140877,
+        "word": "快递停运",
+        "onboard_time": 1770359000,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 538083,
+        "num": 851602,
+        "word": "91岁老人900万积蓄遭儿子儿媳挪用",
+        "onboard_time": 1770379641,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31411,
+        "num": 660096,
+        "word": "你家年货清单都有啥",
+        "onboard_time": 1770388163,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1457105,
+        "num": 557774,
+        "word": "Bin 我依然是世一上",
+        "onboard_time": 1770386482,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 392014,
+        "num": 392014,
+        "word": "一上午烫了20多个老太太",
+        "onboard_time": 1770380662,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 295645,
+        "num": 295645,
+        "word": "吴京官宣王嘉尔加入镖人世界",
+        "onboard_time": 1770385761,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 243769,
+        "num": 243769,
+        "word": "张杰演唱会幸运观众黄霄雲",
+        "onboard_time": 1770387083,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 209739,
+        "num": 209739,
+        "word": "小马糕",
+        "onboard_time": 1770373641,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 178978,
+        "num": 178978,
+        "word": "隋文静摔倒",
+        "onboard_time": 1770377841,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163826,
+        "num": 163826,
+        "word": "生命树18集12分57秒",
+        "onboard_time": 1770387983,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 742033,
+        "num": 163822,
+        "word": "爱泼斯坦死亡当晚监控曝光",
+        "onboard_time": 1770379520,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 475776,
+        "num": 163820,
+        "word": "黄子韬自曝卫生巾工厂现状",
+        "onboard_time": 1770368600,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270044,
+        "num": 163819,
+        "word": "奶茶品牌为千问免单拼了",
+        "onboard_time": 1770383482,
+        "rank": 12,
+        "category": "美食,互联网"
+      },
+      {
+        "raw_hot": 377880,
+        "num": 163814,
+        "word": "立威廉去年已进行2次手术",
+        "onboard_time": 1770384382,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95184,
+        "num": 163809,
+        "word": "千问免单文学",
+        "onboard_time": 1770386482,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 179576,
+        "num": 163805,
+        "word": "女子室外上雾化透明厕所",
+        "onboard_time": 1770385099,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 372641,
+        "num": 163803,
+        "word": "张艺凡卢昱晓造型师是天才来的",
+        "onboard_time": 1770382582,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 39118,
+        "num": 163801,
+        "word": "阿云嘎Daddy感",
+        "onboard_time": 1770386721,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 163798,
+        "num": 163798,
+        "word": "1岁宝宝被撞后截肢",
+        "onboard_time": 1770368840,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 340537,
+        "num": 163177,
+        "word": "吴世勋上海签售生图",
+        "onboard_time": 1770385642,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 703650,
+        "num": 162746,
+        "word": "20岁黄多多好漂亮",
+        "onboard_time": 1770372801,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 280147,
+        "num": 160860,
+        "word": "管泽元 Bin快说你被盗号了",
+        "onboard_time": 1770388102,
+        "rank": 21,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 63353,
+        "num": 160056,
+        "word": "问界M6纯电版标配100度大电池",
+        "onboard_time": 1770384922,
+        "rank": 22,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 249088,
+        "num": 159054,
+        "word": "范丞丞直播",
+        "onboard_time": 1770384262,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236535,
+        "num": 158468,
+        "word": "硕士娶离异农村妇女守护留守儿童",
+        "onboard_time": 1770387864,
+        "rank": 24,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 178410,
+        "num": 157043,
+        "word": "怀孕闺蜜代替女生亡父送她出嫁",
+        "onboard_time": 1770381801,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85174,
+        "num": 156088,
+        "word": "中国队暂列花滑团体赛第9",
+        "onboard_time": 1770387864,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169749,
+        "num": 155178,
+        "word": "虞书欣怎么独自在上班路上拍现偶",
+        "onboard_time": 1770385462,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154581,
+        "num": 154581,
+        "word": "刘小怂直播",
+        "onboard_time": 1770388221,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 152483,
+        "num": 152483,
+        "word": "AL成功翻盘BLG",
+        "onboard_time": 1770388042,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 147935,
+        "num": 147935,
+        "word": "狼队对战KSG",
+        "onboard_time": 1770384561,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 143231,
+        "num": 143231,
+        "word": "生命树",
+        "onboard_time": 1770381801,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140247,
+        "num": 140247,
+        "word": "千问送奶茶背后有阳谋",
+        "onboard_time": 1770369800,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 126673,
+        "num": 126673,
+        "word": "隋文静落泪道歉",
+        "onboard_time": 1770379821,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123523,
+        "num": 123523,
+        "word": "李冰冰晒和妹妹李雪合照",
+        "onboard_time": 1770379160,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121666,
+        "num": 121666,
+        "word": "最强大脑",
+        "onboard_time": 1770382941,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 8356,
+        "num": 113311,
+        "word": "伊朗外长称伊美就继续谈判达成共识",
+        "onboard_time": 1770389183,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 113063,
+        "num": 113063,
+        "word": "陈哲远复制丞磊后援会文案",
+        "onboard_time": 1770379641,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112221,
+        "num": 112221,
+        "word": "明日方舟辞岁行",
+        "onboard_time": 1770384442,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 102112,
+        "num": 111609,
+        "word": "丘妈为中国冬奥选手加油",
+        "onboard_time": 1770388522,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111202,
+        "num": 111202,
+        "word": "10万多元黄金被当垃圾扔了",
+        "onboard_time": 1770384621,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101109,
+        "num": 101109,
+        "word": "狼队大场五连胜",
+        "onboard_time": 1770388583,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 98746,
+        "num": 98746,
+        "word": "Uzi说这才叫电竞春晚",
+        "onboard_time": 1770386661,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 98434,
+        "num": 98434,
+        "word": "王玉雯的裙子太考验身材了",
+        "onboard_time": 1770369981,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 98211,
+        "num": 98211,
+        "word": "男子创业学胖东来还清105万外债",
+        "onboard_time": 1770382040,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94983,
+        "num": 94983,
+        "word": "小米YU7GT申报图曝光",
+        "onboard_time": 1770388283,
+        "rank": 45,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 94469,
+        "num": 94469,
+        "word": "小米新款纯电SUV车型命名为YU7GT",
+        "onboard_time": 1770388462,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 92540,
+        "num": 92540,
+        "word": "韩聪回应隋文静摔倒原因",
+        "onboard_time": 1770388762,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92036,
+        "num": 92036,
+        "word": "Knight心率偏高就医",
+        "onboard_time": 1770382161,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 90339,
+        "num": 90339,
+        "word": "网红录视频挑战跳水3天后遗体被发现",
+        "onboard_time": 1770389002,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#重温总书记对冰雪健儿的谆谆嘱托#"
+    }
+  }
+}
