@@ -1,0 +1,410 @@
+{
+  "runTime": 1770385356068,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 944067,
+        "num": 1151050,
+        "word": "怀孕闺蜜代替女生亡父送她出嫁",
+        "onboard_time": 1770381801,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 895623,
+        "num": 895623,
+        "word": "快递停运",
+        "onboard_time": 1770359000,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27604,
+        "num": 638191,
+        "word": "全国首款航天造电动垂直起降飞行器首飞成功",
+        "onboard_time": 1770367641,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 288320,
+        "num": 288320,
+        "word": "隋文静摔倒",
+        "onboard_time": 1770377841,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 276929,
+        "num": 276929,
+        "word": "Knight心率偏高就医",
+        "onboard_time": 1770382161,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 259206,
+        "num": 259206,
+        "word": "一上午烫了20多个老太太",
+        "onboard_time": 1770380662,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 257928,
+        "num": 257928,
+        "word": "隋文静落泪道歉",
+        "onboard_time": 1770379821,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221547,
+        "num": 221547,
+        "word": "91岁老人900万积蓄遭儿子儿媳挪用",
+        "onboard_time": 1770379641,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201903,
+        "num": 201903,
+        "word": "陈哲远复制丞磊后援会文案",
+        "onboard_time": 1770379641,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199888,
+        "num": 199888,
+        "word": "小马糕",
+        "onboard_time": 1770373641,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 711727,
+        "num": 199577,
+        "word": "爱泼斯坦死亡当晚监控曝光",
+        "onboard_time": 1770379520,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 441392,
+        "num": 198992,
+        "word": "黄子韬自曝卫生巾工厂现状",
+        "onboard_time": 1770368600,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278704,
+        "num": 198606,
+        "word": "李冰冰晒和妹妹李雪合照",
+        "onboard_time": 1770379160,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214554,
+        "num": 198233,
+        "word": "奶茶品牌为千问免单拼了",
+        "onboard_time": 1770383482,
+        "rank": 13,
+        "category": "美食,互联网"
+      },
+      {
+        "raw_hot": 216990,
+        "num": 197770,
+        "word": "范丞丞直播",
+        "onboard_time": 1770384262,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211079,
+        "num": 196834,
+        "word": "1岁宝宝被撞后截肢",
+        "onboard_time": 1770368840,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196793,
+        "num": 196793,
+        "word": "生命树",
+        "onboard_time": 1770381801,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73355,
+        "num": 196363,
+        "word": "文淇的性感是自由生长的",
+        "onboard_time": 1770381081,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 28980,
+        "num": 194697,
+        "word": "问界M6纯电版标配100度大电池",
+        "onboard_time": 1770384922,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 26464,
+        "num": 193625,
+        "word": "10万多元黄金被当垃圾扔了",
+        "onboard_time": 1770384621,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 645726,
+        "num": 192520,
+        "word": "20岁黄多多好漂亮",
+        "onboard_time": 1770372801,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166961,
+        "num": 191783,
+        "word": "王玉雯的裙子太考验身材了",
+        "onboard_time": 1770369981,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 254651,
+        "num": 190511,
+        "word": "千问送奶茶背后有阳谋",
+        "onboard_time": 1770369800,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 190089,
+        "num": 190089,
+        "word": "张艺凡卢昱晓造型师是天才来的",
+        "onboard_time": 1770382582,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 159683,
+        "num": 175372,
+        "word": "男子创业学胖东来还清105万外债",
+        "onboard_time": 1770382040,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170976,
+        "num": 170976,
+        "word": "张瑞阳短节目59.83分",
+        "onboard_time": 1770383901,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168636,
+        "num": 168636,
+        "word": "狼队对战KSG",
+        "onboard_time": 1770384561,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 157640,
+        "num": 157640,
+        "word": "立威廉去年已进行2次手术",
+        "onboard_time": 1770384382,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154535,
+        "num": 154535,
+        "word": "朱珠统一了东西方的审美",
+        "onboard_time": 1770379041,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27581,
+        "num": 153740,
+        "word": "Mate80镜头下的浓颜系冲击力",
+        "onboard_time": 1770384262,
+        "rank": 29,
+        "category": "作品衍生,数码"
+      },
+      {
+        "raw_hot": 153727,
+        "num": 153727,
+        "word": "花样滑冰团体赛资格赛",
+        "onboard_time": 1770368121,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 234674,
+        "num": 152413,
+        "word": "明日方舟辞岁行",
+        "onboard_time": 1770384442,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 150305,
+        "num": 150305,
+        "word": "陛下 How are you",
+        "onboard_time": 1770369620,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147500,
+        "num": 147500,
+        "word": "原来陈小春的真名叫陈泰铨",
+        "onboard_time": 1770371661,
+        "rank": 33,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 128011,
+        "num": 128011,
+        "word": "千问APP建议明天再试",
+        "onboard_time": 1770381620,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 121571,
+        "num": 121571,
+        "word": "米兰冬奥会开幕式",
+        "onboard_time": 1770383301,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116972,
+        "num": 116972,
+        "word": "王一博职场刺客",
+        "onboard_time": 1770381201,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 392041,
+        "num": 114798,
+        "word": "爱泼斯坦死亡当晚离奇细节曝光",
+        "onboard_time": 1770377121,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 112434,
+        "num": 112434,
+        "word": "成何体统 雷霆特效",
+        "onboard_time": 1770369681,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106730,
+        "num": 106730,
+        "word": "最强大脑",
+        "onboard_time": 1770382941,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100871,
+        "num": 105600,
+        "word": "问界M6工信部公示",
+        "onboard_time": 1770384742,
+        "rank": 40,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 110241,
+        "num": 105591,
+        "word": "成何体统",
+        "onboard_time": 1770345920,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105554,
+        "num": 105554,
+        "word": "曾舜晞 大大方方的",
+        "onboard_time": 1770383722,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91827,
+        "num": 103025,
+        "word": "女子室外上雾化透明厕所",
+        "onboard_time": 1770385099,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101908,
+        "num": 101908,
+        "word": "唐宫奇案直播",
+        "onboard_time": 1770373823,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97396,
+        "num": 97396,
+        "word": "39岁刘诗诗状态",
+        "onboard_time": 1770372260,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88543,
+        "num": 88543,
+        "word": "特朗普发视频把奥巴马夫妇P成猴子",
+        "onboard_time": 1770382341,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 96646,
+        "num": 87600,
+        "word": "李冰冰和辛芷蕾杨幂杨紫握手",
+        "onboard_time": 1770384141,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 86527,
+        "num": 86527,
+        "word": "明日方舟新春前瞻特辑",
+        "onboard_time": 1770377180,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 84018,
+        "num": 84018,
+        "word": "张予曦 美商",
+        "onboard_time": 1770382040,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#新春之约擘画中俄关系新蓝图#"
+    }
+  }
+}
