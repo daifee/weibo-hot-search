@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1770417253708,
+  "endTime": 1770418244601,
   "band_list": [
     {
       "raw_hot": 10390810,
@@ -1499,6 +1499,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 621441,
+      "num": 621441,
+      "word": "冬奥会开幕式",
+      "onboard_time": 1770403755,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 620782,
       "num": 190884,
       "word": "黄多多自拍",
@@ -1745,14 +1753,6 @@
       "onboard_time": 1769987777,
       "rank": 41,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 549306,
-      "num": 549306,
-      "word": "冬奥会开幕式",
-      "onboard_time": 1770403755,
-      "rank": 0,
-      "category": "体育"
     },
     {
       "raw_hot": 549010,
@@ -4859,6 +4859,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 247146,
+      "num": 428469,
+      "word": "米兰开幕式 好正常好好看",
+      "onboard_time": 1770406754,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 247129,
       "num": 178994,
       "word": "林一腋下管理这一块",
@@ -5985,14 +5993,6 @@
       "onboard_time": 1769946261,
       "rank": 24,
       "category": "演出"
-    },
-    {
-      "raw_hot": 193495,
-      "num": 344797,
-      "word": "米兰开幕式 好正常好好看",
-      "onboard_time": 1770406754,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 193455,
@@ -10923,6 +10923,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 99573,
+      "num": 99573,
+      "word": "中国队蓝羽绒服 好看",
+      "onboard_time": 1770411374,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 99544,
       "num": 93503,
       "word": "杨幂出席微博之夜",
@@ -11569,14 +11577,6 @@
       "onboard_time": 1770257300,
       "rank": 36,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 93803,
-      "num": 93803,
-      "word": "中国队蓝羽绒服 好看",
-      "onboard_time": 1770411374,
-      "rank": 6,
-      "category": "体育"
     },
     {
       "raw_hot": 93790,
@@ -14203,6 +14203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 65886,
+      "num": 65886,
+      "word": "意大利手势",
+      "onboard_time": 1770413714,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 65780,
       "num": 111462,
       "word": "冬奥加油",
@@ -14387,20 +14395,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 63521,
+      "num": 63521,
+      "word": "奥运五环出场方式太震撼了",
+      "onboard_time": 1770408016,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 63480,
       "num": 812438,
       "word": "把春运检修拍成了科幻电影",
       "onboard_time": 1770023002,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 63470,
-      "num": 63470,
-      "word": "意大利手势",
-      "onboard_time": 1770413714,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 63384,
@@ -14585,6 +14593,14 @@
       "onboard_time": 1769905099,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 61472,
+      "num": 139630,
+      "word": "米兰冬奥主火炬点燃",
+      "onboard_time": 1770417555,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 61390,
@@ -15123,6 +15139,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 50612,
+      "num": 45256,
+      "word": "林孝埈转发中国队入场照",
+      "onboard_time": 1770411853,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 50575,
       "num": 55310,
       "word": "伊朗阿巴斯港一楼爆炸已致1死14伤",
@@ -15153,6 +15177,14 @@
       "onboard_time": 1769989038,
       "rank": 46,
       "category": "财经"
+    },
+    {
+      "raw_hot": 50044,
+      "num": 36884,
+      "word": "郎朗 权威",
+      "onboard_time": 1770417254,
+      "rank": 30,
+      "category": "体育,音乐"
     },
     {
       "raw_hot": 49968,
@@ -15475,11 +15507,11 @@
       "category": "情感"
     },
     {
-      "raw_hot": 45256,
-      "num": 45256,
-      "word": "林孝埈转发中国队入场照",
-      "onboard_time": 1770411853,
-      "rank": 22,
+      "raw_hot": 45274,
+      "num": 39249,
+      "word": "刘少昂好帅",
+      "onboard_time": 1770414134,
+      "rank": 33,
       "category": "体育"
     },
     {
@@ -15587,14 +15619,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 43032,
-      "num": 30297,
-      "word": "奥运五环出场方式太震撼了",
-      "onboard_time": 1770408016,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 43027,
       "num": 214342,
       "word": "苹果应用商店免费榜前三都是AI",
@@ -15652,7 +15676,7 @@
     },
     {
       "raw_hot": 41248,
-      "num": 28905,
+      "num": 29198,
       "word": "熬夜看冬奥会开幕式",
       "onboard_time": 1770404474,
       "rank": 47,
@@ -15772,7 +15796,7 @@
     },
     {
       "raw_hot": 39291,
-      "num": 28649,
+      "num": 36333,
       "word": "种草引导员的羽绒服",
       "onboard_time": 1770410893,
       "rank": 20,
@@ -15828,7 +15852,7 @@
     },
     {
       "raw_hot": 38631,
-      "num": 29869,
+      "num": 37048,
       "word": "米兰冬奥会开幕",
       "onboard_time": 1770415095,
       "rank": 24,
@@ -15865,14 +15889,6 @@
       "onboard_time": 1770200900,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 38142,
-      "num": 28541,
-      "word": "刘少昂好帅",
-      "onboard_time": 1770414134,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 38128,
@@ -16033,6 +16049,14 @@
       "onboard_time": 1769968396,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 36501,
+      "num": 36501,
+      "word": "今夜无人入睡",
+      "onboard_time": 1770416115,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 36292,
@@ -16233,14 +16257,6 @@
       "onboard_time": 1770008961,
       "rank": 19,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 33302,
-      "num": 29039,
-      "word": "今夜无人入睡",
-      "onboard_time": 1770416115,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 33222,
@@ -16523,6 +16539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29258,
+      "num": 29258,
+      "word": "米兰羽绒服时装周",
+      "onboard_time": 1770410953,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 29250,
       "num": 34806,
       "word": "苏翊鸣决赛挑战竞争有多激烈",
@@ -16601,14 +16625,6 @@
       "onboard_time": 1769955622,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 28336,
-      "num": 26855,
-      "word": "米兰羽绒服时装周",
-      "onboard_time": 1770410953,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 28219,
@@ -16720,6 +16736,14 @@
       "word": "苏翊鸣第三跳85.00分",
       "onboard_time": 1770324315,
       "rank": 3,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 26733,
+      "num": 29253,
+      "word": "感觉德国队披着棉被出来了",
+      "onboard_time": 1770410534,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -16915,6 +16939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 24693,
+      "num": 29239,
+      "word": "中国黄金调整回购规则",
+      "onboard_time": 1770417435,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 24615,
       "num": 25677,
       "word": "滑雪",
@@ -17083,11 +17115,11 @@
       "category": "数码,作品衍生"
     },
     {
-      "raw_hot": 22210,
-      "num": 22210,
-      "word": "感觉德国队披着棉被出来了",
-      "onboard_time": 1770410534,
-      "rank": 48,
+      "raw_hot": 22208,
+      "num": 29210,
+      "word": "中国品牌第一个入场",
+      "onboard_time": 1770414734,
+      "rank": 45,
       "category": "体育"
     },
     {
@@ -17171,6 +17203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 21419,
+      "num": 29172,
+      "word": "一觉醒来全跌了",
+      "onboard_time": 1770418218,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 21362,
       "num": 21362,
       "word": "五星红旗闪耀米兰",
@@ -17192,14 +17232,6 @@
       "word": "爬起来看开幕式",
       "onboard_time": 1770405076,
       "rank": 47,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 21187,
-      "num": 21187,
-      "word": "中国品牌第一个入场",
-      "onboard_time": 1770414734,
-      "rank": 45,
       "category": "体育"
     },
     {
@@ -18019,6 +18051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 8248,
+      "num": 345799,
+      "word": "大集里的中国年味",
+      "onboard_time": 1770387922,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 7663,
       "num": 78183,
       "word": "湖北成立调查组彻查精神病院问题",
@@ -18032,14 +18072,6 @@
       "word": "血友病患者卷入巨额医保诈骗案",
       "onboard_time": 1770289704,
       "rank": 31,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 7346,
-      "num": 272502,
-      "word": "大集里的中国年味",
-      "onboard_time": 1770387922,
-      "rank": 2,
       "category": "民生新闻"
     },
     {
