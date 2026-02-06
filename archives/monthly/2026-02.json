@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1770354187282,
+  "endTime": 1770357665849,
   "band_list": [
     {
       "raw_hot": 10390810,
@@ -148,7 +148,7 @@
     },
     {
       "raw_hot": 2188912,
-      "num": 644894,
+      "num": 782003,
       "word": "千问 免费奶茶",
       "onboard_time": 1770344239,
       "rank": 4,
@@ -715,6 +715,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 869907,
+      "num": 230809,
+      "word": "邬君梅透露丈夫已病逝",
+      "onboard_time": 1770352760,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 861695,
       "num": 192752,
       "word": "男童点火烧死萨摩耶家属发声",
@@ -929,6 +937,14 @@
       "onboard_time": 1770289045,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 785424,
+      "num": 855032,
+      "word": "成何体统",
+      "onboard_time": 1769996360,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 783840,
@@ -1209,14 +1225,6 @@
       "onboard_time": 1770308662,
       "rank": 13,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 674481,
-      "num": 229335,
-      "word": "邬君梅透露丈夫已病逝",
-      "onboard_time": 1770352760,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 670304,
@@ -1851,6 +1859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 500483,
+      "num": 252111,
+      "word": "白鹿听到时代峰峻倒闭后的表情",
+      "onboard_time": 1770352280,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 498635,
       "num": 227157,
       "word": "黄金白银又跌麻了",
@@ -1993,14 +2009,6 @@
       "onboard_time": 1770192500,
       "rank": 0,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 474547,
-      "num": 252111,
-      "word": "白鹿听到时代峰峻倒闭后的表情",
-      "onboard_time": 1770352280,
-      "rank": 13,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 473727,
@@ -2249,6 +2257,14 @@
       "onboard_time": 1770001700,
       "rank": 32,
       "category": "财经"
+    },
+    {
+      "raw_hot": 438924,
+      "num": 438924,
+      "word": "小鳄鱼爱洗澡",
+      "onboard_time": 1770352161,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 438204,
@@ -2619,14 +2635,6 @@
       "category": "民生新闻,财经"
     },
     {
-      "raw_hot": 388920,
-      "num": 388920,
-      "word": "成何体统",
-      "onboard_time": 1769996360,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 388899,
       "num": 512518,
       "word": "慕胥辞改名白日提灯过审",
@@ -2769,6 +2777,14 @@
       "onboard_time": 1770104780,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 370024,
+      "num": 370024,
+      "word": "肖战 这群显眼包给我整这么大屏",
+      "onboard_time": 1770352583,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 368562,
@@ -3371,12 +3387,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 320701,
-      "num": 195535,
-      "word": "肖战 这群显眼包给我整这么大屏",
-      "onboard_time": 1770352583,
-      "rank": 34,
-      "category": "作品衍生"
+      "raw_hot": 319923,
+      "num": 241654,
+      "word": "爱泼斯坦前女友在牢房活动监控曝光",
+      "onboard_time": 1770354501,
+      "rank": 12,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 319598,
@@ -4108,7 +4124,7 @@
     },
     {
       "raw_hot": 264222,
-      "num": 191563,
+      "num": 236176,
       "word": "宋威龙 文淇你装不认识我",
       "onboard_time": 1770351321,
       "rank": 36,
@@ -4313,6 +4329,14 @@
       "onboard_time": 1769926881,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 249215,
+      "num": 249215,
+      "word": "光与夜之恋",
+      "onboard_time": 1769922320,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 249019,
@@ -4529,6 +4553,14 @@
       "onboard_time": 1770030681,
       "rank": 24,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 239743,
+      "num": 239743,
+      "word": "宝格丽认领陈都灵",
+      "onboard_time": 1770356723,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 238947,
@@ -5267,6 +5299,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 197793,
+      "num": 197793,
+      "word": "王一博章昊自拍照",
+      "onboard_time": 1770356481,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 197489,
       "num": 264715,
       "word": "小米高管疑似爆料YU9",
@@ -5561,6 +5601,14 @@
       "onboard_time": 1770249739,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 184652,
+      "num": 243045,
+      "word": "男子年会抽中万元手机竟变瓷砖",
+      "onboard_time": 1770353302,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 184566,
@@ -6323,20 +6371,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 154392,
+      "num": 169427,
+      "word": "日本挖到稀土泥中方回应亮了",
+      "onboard_time": 1770357261,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 153919,
       "num": 153919,
       "word": "龙麦",
       "onboard_time": 1770128182,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 153876,
-      "num": 182040,
-      "word": "小鳄鱼爱洗澡",
-      "onboard_time": 1770352161,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 153811,
@@ -7371,6 +7419,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 131054,
+      "num": 131054,
+      "word": "周深不小心绊到倪妮一个劲儿道歉",
+      "onboard_time": 1770355521,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 131005,
       "num": 129799,
       "word": "短剧演员白方文直播讨薪",
@@ -7819,12 +7875,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 122942,
+      "num": 122942,
+      "word": "杨紫周游新剧不是暧昧是爱妹",
+      "onboard_time": 1770357140,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 122735,
       "num": 122735,
       "word": "金银惊天大逆转",
       "onboard_time": 1770183681,
       "rank": 27,
       "category": "财经"
+    },
+    {
+      "raw_hot": 122403,
+      "num": 122403,
+      "word": "时代峰峻 四代同堂",
+      "onboard_time": 1770356121,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 122360,
@@ -8251,6 +8323,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 117906,
+      "num": 161414,
+      "word": "女子将32万现金藏奶粉罐邮寄",
+      "onboard_time": 1770353720,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 117549,
       "num": 117549,
       "word": "裁员裁到大动脉有新说法了",
@@ -8353,6 +8433,22 @@
       "onboard_time": 1770293005,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 115295,
+      "num": 125218,
+      "word": "千问回应系统崩了",
+      "onboard_time": 1770356301,
+      "rank": 35,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 115273,
+      "num": 159505,
+      "word": "千问提醒网友分散下单",
+      "onboard_time": 1770356901,
+      "rank": 29,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 115190,
@@ -8617,6 +8713,14 @@
       "onboard_time": 1769920581,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112017,
+      "num": 112017,
+      "word": "不建议上班族和无业游民谈恋爱",
+      "onboard_time": 1770357082,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 111956,
@@ -8955,6 +9059,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 107353,
+      "num": 107353,
+      "word": "迪丽热巴的Dior梦幻奇境",
+      "onboard_time": 1770355640,
+      "rank": 40,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 107277,
       "num": 107277,
       "word": "杨紫回应与胡歌合作",
@@ -9096,6 +9208,14 @@
       "word": "患儿4.5万善款4.4万被中间人抽走",
       "onboard_time": 1770093022,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105697,
+      "num": 105697,
+      "word": "顺丰速孕碰瓷顺丰速运判赔20万",
+      "onboard_time": 1770352101,
+      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -9352,6 +9472,14 @@
       "word": "仙逆",
       "onboard_time": 1769943261,
       "rank": 37,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 103130,
+      "num": 103130,
+      "word": "一年一度二次元春晚来了",
+      "onboard_time": 1770356780,
+      "rank": 43,
       "category": "动漫"
     },
     {
@@ -10075,6 +10203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 95309,
+      "num": 95309,
+      "word": "杜华晒微博之夜合照",
+      "onboard_time": 1770357021,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 95251,
       "num": 95251,
       "word": "那我排2个小时吃的饭算什么",
@@ -10643,6 +10779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 89457,
+      "num": 89457,
+      "word": "妹妹回应25岁哥哥身高仅60cm",
+      "onboard_time": 1770357381,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89397,
       "num": 94204,
       "word": "电视剧离职vs现实中离职",
@@ -10745,14 +10889,6 @@
       "onboard_time": 1769924240,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 88765,
-      "num": 88765,
-      "word": "光与夜之恋",
-      "onboard_time": 1769922320,
-      "rank": 46,
-      "category": "游戏"
     },
     {
       "raw_hot": 88648,
@@ -10929,6 +11065,14 @@
       "onboard_time": 1769935042,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 87474,
+      "num": 87474,
+      "word": "张凌赫丁程鑫你俩有点儿暧昧了",
+      "onboard_time": 1770354923,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 87308,
@@ -11468,7 +11612,7 @@
     },
     {
       "raw_hot": 82472,
-      "num": 179523,
+      "num": 232960,
       "word": "1分钱居然可以点4杯奶茶",
       "onboard_time": 1770354082,
       "rank": 40,
@@ -12355,14 +12499,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 70712,
-      "num": 187194,
-      "word": "男子年会抽中万元手机竟变瓷砖",
-      "onboard_time": 1770353302,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 70674,
       "num": 76368,
       "word": "猫猫的脸是用圆规画的吗",
@@ -13115,6 +13251,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 57136,
+      "num": 240374,
+      "word": "张艺凡眼影",
+      "onboard_time": 1770354621,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 57109,
       "num": 152261,
       "word": "60岁女子驾车失控撞路灯死亡",
@@ -13609,6 +13753,14 @@
       "onboard_time": 1770131722,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 47684,
+      "num": 123447,
+      "word": "从1980到1980",
+      "onboard_time": 1770354561,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 47618,
@@ -14860,7 +15012,7 @@
     },
     {
       "raw_hot": 24980,
-      "num": 736601,
+      "num": 796238,
       "word": "一人一句为中国冬奥健儿加油",
       "onboard_time": 1770349521,
       "rank": 2,
