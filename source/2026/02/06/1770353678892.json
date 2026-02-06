@@ -1,0 +1,410 @@
+{
+  "runTime": 1770353678892,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1585174,
+        "num": 1585174,
+        "word": "千问回应免费奶茶活动",
+        "onboard_time": 1770347599,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 478362,
+        "num": 916863,
+        "word": "外国网友请求中国帮助网友回复爆火",
+        "onboard_time": 1770344360,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24140,
+        "num": 720771,
+        "word": "一人一句为中国冬奥健儿加油",
+        "onboard_time": 1770349521,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1345429,
+        "num": 571930,
+        "word": "千问 免费奶茶",
+        "onboard_time": 1770344239,
+        "rank": 3,
+        "category": "美食,互联网"
+      },
+      {
+        "raw_hot": 756741,
+        "num": 480195,
+        "word": "杨幂微博QUEEN",
+        "onboard_time": 1770303088,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 385201,
+        "num": 385201,
+        "word": "魏大勋 情商",
+        "onboard_time": 1770351801,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 334843,
+        "num": 334843,
+        "word": "日刊爆高市早苗猛料",
+        "onboard_time": 1770348921,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 323042,
+        "num": 323042,
+        "word": "爱尔眼科董事疑为骗保精神病院实控人",
+        "onboard_time": 1770347719,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 259493,
+        "num": 259493,
+        "word": "成何体统",
+        "onboard_time": 1770345920,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 258940,
+        "num": 258940,
+        "word": "女演员开箱取出100克黄金500克白银",
+        "onboard_time": 1770344239,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1794803,
+        "num": 257450,
+        "word": "TFING全员换头像了",
+        "onboard_time": 1770344719,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 733168,
+        "num": 256600,
+        "word": "王一博救场",
+        "onboard_time": 1770352101,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 271739,
+        "num": 253908,
+        "word": "伊朗",
+        "onboard_time": 1770347899,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 454814,
+        "num": 252111,
+        "word": "白鹿听到时代峰峻倒闭后的表情",
+        "onboard_time": 1770352280,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 150944,
+        "num": 250535,
+        "word": "有人在千问免单525元是真的吗",
+        "onboard_time": 1770350480,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 46516,
+        "num": 246967,
+        "word": "李冰冰登场即焦点",
+        "onboard_time": 1770350720,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 25875,
+        "num": 245664,
+        "word": "成龙在玩一种很新的密室逃脱",
+        "onboard_time": 1770352522,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 19037,
+        "num": 243961,
+        "word": "立陶宛嘴上认错还不够",
+        "onboard_time": 1770353061,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 63384,
+        "num": 241151,
+        "word": "打金店金粉熔化后纯度不足9999",
+        "onboard_time": 1770352462,
+        "rank": 18,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 26920,
+        "num": 239563,
+        "word": "假律师恶语攻击脑瘫儿母亲",
+        "onboard_time": 1770353181,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 605049,
+        "num": 238353,
+        "word": "千问崩了",
+        "onboard_time": 1770350841,
+        "rank": 20,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 592414,
+        "num": 236521,
+        "word": "黄金",
+        "onboard_time": 1770343821,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 63302,
+        "num": 233691,
+        "word": "被分到静音车厢的带娃乘客提心吊胆",
+        "onboard_time": 1770352401,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 454086,
+        "num": 230998,
+        "word": "沈腾忘词张艺谋宋佳杨幂刘耀文笑疯了",
+        "onboard_time": 1770352401,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 450293,
+        "num": 229335,
+        "word": "邬君梅透露丈夫已病逝",
+        "onboard_time": 1770352760,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228671,
+        "num": 228671,
+        "word": "车厘子过季",
+        "onboard_time": 1770348741,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 450290,
+        "num": 227023,
+        "word": "白鹿孟子义热聊张凌赫突然走过来",
+        "onboard_time": 1770345320,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 193886,
+        "num": 223636,
+        "word": "家长举报家委会3年收10多万元班费",
+        "onboard_time": 1770341901,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21662,
+        "num": 222111,
+        "word": "随时可以打扰的AI健康朋友",
+        "onboard_time": 1770350720,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 35265,
+        "num": 218757,
+        "word": "华为Mate双旗舰镜头下的群星大片",
+        "onboard_time": 1770350720,
+        "rank": 29,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 217589,
+        "num": 217589,
+        "word": "微博之夜",
+        "onboard_time": 1770300328,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 288657,
+        "num": 212880,
+        "word": "穆祉丞头像换成张极腹肌照",
+        "onboard_time": 1770345140,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197246,
+        "num": 197246,
+        "word": "女子临盆才知怀孕生下8斤女儿",
+        "onboard_time": 1770337520,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 285651,
+        "num": 195984,
+        "word": "TF四代换登陆少年新歌海报头像",
+        "onboard_time": 1770345260,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 282060,
+        "num": 195535,
+        "word": "肖战 这群显眼包给我整这么大屏",
+        "onboard_time": 1770352583,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 150745,
+        "num": 192905,
+        "word": "恋与深空喜迎财神",
+        "onboard_time": 1770352821,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 264222,
+        "num": 191563,
+        "word": "宋威龙 文淇你装不认识我",
+        "onboard_time": 1770351321,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 62353,
+        "num": 189214,
+        "word": "周柯宇摇话筒 小狗摇尾巴",
+        "onboard_time": 1770352522,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 125250,
+        "num": 187631,
+        "word": "马嘉祺年终奖和丁程鑫的一起飞了",
+        "onboard_time": 1770352522,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34613,
+        "num": 187194,
+        "word": "男子年会抽中万元手机竟变瓷砖",
+        "onboard_time": 1770353302,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 263471,
+        "num": 184870,
+        "word": "紫醉金幂",
+        "onboard_time": 1770346100,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 206014,
+        "num": 182676,
+        "word": "王一博出山的播放量",
+        "onboard_time": 1770350002,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 147708,
+        "num": 182040,
+        "word": "小鳄鱼爱洗澡",
+        "onboard_time": 1770352161,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 181016,
+        "num": 181016,
+        "word": "白敬亭王嘉尔把陈伟霆当桌子了",
+        "onboard_time": 1770351621,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 168174,
+        "num": 168174,
+        "word": "张峻豪换朱志鑫头像",
+        "onboard_time": 1770345379,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129383,
+        "num": 152739,
+        "word": "iPhone18ProMax或是续航最强苹果机",
+        "onboard_time": 1770352883,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 150318,
+        "num": 150318,
+        "word": "章昊内娱第一课",
+        "onboard_time": 1770350241,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 96011,
+        "num": 144203,
+        "word": "樊振东祝大家马到成功",
+        "onboard_time": 1770353302,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138494,
+        "num": 138494,
+        "word": "肖战宋佳辛芷蕾微博年度榜样影人",
+        "onboard_time": 1770352161,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 132999,
+        "num": 132999,
+        "word": "张凌赫王安宇两张伟大的脸",
+        "onboard_time": 1770349701,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#体育强则中国强国运兴则体育兴#"
+    }
+  }
+}

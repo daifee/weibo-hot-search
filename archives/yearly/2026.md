@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/02/06 11:16:47
+本榜单时间：2026/01/01 00:35:36 ~ 2026/02/06 12:54:38
 </p>
 </blockquote>
 <p>
@@ -767,6 +767,12 @@ U23国足vs越南（热度：2487537）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%83%8A%E8%9B%B0%E6%97%A0%E5%A3%B0%E5%AE%9A%E6%A1%A3%23" target="weibo">
 惊蛰无声定档（热度：1588138）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%83%E9%97%AE%E5%9B%9E%E5%BA%94%E5%85%8D%E8%B4%B9%E5%A5%B6%E8%8C%B6%E6%B4%BB%E5%8A%A8%23" target="weibo">
+千问回应免费奶茶活动（热度：1585174）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ BLG上调新上单Wenbo（热度：1173465）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E8%BF%8E00%E5%90%8E%E6%96%B0%E4%B8%BB%E6%92%AD%23" target="weibo">
 央视迎00后新主播（热度：1050077）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%B9%B4%E7%9A%84%E8%80%81%E5%B7%B1%E5%9C%A8QQ%E7%BB%99%E8%80%81%E8%87%AA%E7%95%99%E4%BA%86%E7%AC%94%E5%B7%A8%E6%AC%BE%23" target="weibo">
-当年的老己在QQ给老自留了笔巨款（热度：1049300）
 </a>
 </li>
 
