@@ -1,6 +1,6 @@
 {
   "startTime": 1770307563881,
-  "endTime": 1770353678892,
+  "endTime": 1770354187282,
   "band_list": [
     {
       "raw_hot": 7028994,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 2188912,
-      "num": 573325,
+      "num": 644894,
       "word": "千问 免费奶茶",
       "onboard_time": 1770344239,
       "rank": 4,
@@ -75,7 +75,7 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 733168,
+      "raw_hot": 803269,
       "num": 256600,
       "word": "王一博救场",
       "onboard_time": 1770352101,
@@ -97,6 +97,14 @@
       "onboard_time": 1770308662,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 674481,
+      "num": 229335,
+      "word": "邬君梅透露丈夫已病逝",
+      "onboard_time": 1770352760,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 667022,
@@ -147,20 +155,20 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 617971,
+      "num": 238353,
+      "word": "千问崩了",
+      "onboard_time": 1770350841,
+      "rank": 20,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 615016,
       "num": 615016,
       "word": "微博四美",
       "onboard_time": 1770304468,
       "rank": 21,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 605049,
-      "num": 238353,
-      "word": "千问崩了",
-      "onboard_time": 1770350841,
-      "rank": 20,
-      "category": "互联网"
     },
     {
       "raw_hot": 600813,
@@ -195,6 +203,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 490602,
+      "num": 490602,
+      "word": "魏大勋 情商",
+      "onboard_time": 1770351801,
+      "rank": 5,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 487109,
       "num": 727910,
       "word": "爱泼斯坦和女友多张亲密照曝光",
@@ -211,7 +227,7 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 454814,
+      "raw_hot": 474547,
       "num": 252111,
       "word": "白鹿听到时代峰峻倒闭后的表情",
       "onboard_time": 1770352280,
@@ -227,14 +243,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 450293,
-      "num": 229335,
-      "word": "邬君梅透露丈夫已病逝",
-      "onboard_time": 1770352760,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 409890,
       "num": 409890,
       "word": "娜扎下台摔倒",
@@ -248,14 +256,6 @@
       "word": "怪不得这张照片沈腾不发邓超也不发",
       "onboard_time": 1770306146,
       "rank": 31,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 385201,
-      "num": 385201,
-      "word": "魏大勋 情商",
-      "onboard_time": 1770351801,
-      "rank": 5,
       "category": "作品衍生"
     },
     {
@@ -331,6 +331,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 320701,
+      "num": 195535,
+      "word": "肖战 这群显眼包给我整这么大屏",
+      "onboard_time": 1770352583,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 317801,
       "num": 212880,
       "word": "穆祉丞头像换成张极腹肌照",
@@ -371,19 +379,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 295938,
+      "num": 295938,
+      "word": "成何体统",
+      "onboard_time": 1770345920,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 294902,
       "num": 294902,
       "word": "王一博 希望大家也开心",
       "onboard_time": 1770299429,
       "rank": 36,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 282060,
-      "num": 195535,
-      "word": "肖战 这群显眼包给我整这么大屏",
-      "onboard_time": 1770352583,
-      "rank": 34,
       "category": "作品衍生"
     },
     {
@@ -449,14 +457,6 @@
       "onboard_time": 1770351321,
       "rank": 36,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 259493,
-      "num": 259493,
-      "word": "成何体统",
-      "onboard_time": 1770345920,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 256627,
@@ -611,6 +611,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 178819,
+      "num": 192905,
+      "word": "恋与深空喜迎财神",
+      "onboard_time": 1770352821,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 171795,
       "num": 171795,
       "word": "马嘉祺 对不起李飞",
@@ -659,7 +667,15 @@
       "category": "体育"
     },
     {
-      "raw_hot": 150944,
+      "raw_hot": 153876,
+      "num": 182040,
+      "word": "小鳄鱼爱洗澡",
+      "onboard_time": 1770352161,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 152600,
       "num": 250535,
       "word": "有人在千问免单525元是真的吗",
       "onboard_time": 1770350480,
@@ -667,12 +683,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 150745,
-      "num": 192905,
-      "word": "恋与深空喜迎财神",
-      "onboard_time": 1770352821,
-      "rank": 35,
-      "category": "游戏"
+      "raw_hot": 150713,
+      "num": 187631,
+      "word": "马嘉祺年终奖和丁程鑫的一起飞了",
+      "onboard_time": 1770352522,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 150318,
@@ -681,14 +697,6 @@
       "onboard_time": 1770350241,
       "rank": 46,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 147708,
-      "num": 182040,
-      "word": "小鳄鱼爱洗澡",
-      "onboard_time": 1770352161,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 147603,
@@ -729,6 +737,14 @@
       "onboard_time": 1770307825,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 140559,
+      "num": 180296,
+      "word": "王橹杰我们的少年时代2围读路透",
+      "onboard_time": 1770353720,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 139228,
@@ -779,6 +795,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 132373,
+      "num": 152739,
+      "word": "iPhone18ProMax或是续航最强苹果机",
+      "onboard_time": 1770352883,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
       "raw_hot": 130959,
       "num": 249694,
       "word": "千问狂砸30亿发起奶茶攻势",
@@ -801,22 +825,6 @@
       "onboard_time": 1770342261,
       "rank": 36,
       "category": "休闲"
-    },
-    {
-      "raw_hot": 129383,
-      "num": 152739,
-      "word": "iPhone18ProMax或是续航最强苹果机",
-      "onboard_time": 1770352883,
-      "rank": 45,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 125250,
-      "num": 187631,
-      "word": "马嘉祺年终奖和丁程鑫的一起飞了",
-      "onboard_time": 1770352522,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 124734,
@@ -856,6 +864,14 @@
       "word": "周生生涉事挂坠送检结果为足金",
       "onboard_time": 1770296007,
       "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117952,
+      "num": 233691,
+      "word": "被分到静音车厢的带娃乘客提心吊胆",
+      "onboard_time": 1770352401,
+      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -940,7 +956,7 @@
     },
     {
       "raw_hot": 96011,
-      "num": 144203,
+      "num": 185980,
       "word": "樊振东祝大家马到成功",
       "onboard_time": 1770353302,
       "rank": 47,
@@ -1059,6 +1075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 82472,
+      "num": 179523,
+      "word": "1分钱居然可以点4杯奶茶",
+      "onboard_time": 1770354082,
+      "rank": 40,
+      "category": "美食"
+    },
+    {
       "raw_hot": 78904,
       "num": 182016,
       "word": "挪瓦为咖啡人喊话千问免单咖啡",
@@ -1099,6 +1123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 70712,
+      "num": 187194,
+      "word": "男子年会抽中万元手机竟变瓷砖",
+      "onboard_time": 1770353302,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69355,
       "num": 69355,
       "word": "微博抓马",
@@ -1137,14 +1169,6 @@
       "onboard_time": 1770352462,
       "rank": 18,
       "category": "民生新闻,财经"
-    },
-    {
-      "raw_hot": 63302,
-      "num": 233691,
-      "word": "被分到静音车厢的带娃乘客提心吊胆",
-      "onboard_time": 1770352401,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 62353,
@@ -1219,6 +1243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 52470,
+      "num": 180804,
+      "word": "李乃文这次拉长人中没有用了",
+      "onboard_time": 1770353720,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 52402,
       "num": 103894,
       "word": "爱泼斯坦案窥见上流人有多下流",
@@ -1241,6 +1273,14 @@
       "onboard_time": 1770296968,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 49968,
+      "num": 246967,
+      "word": "李冰冰登场即焦点",
+      "onboard_time": 1770350720,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 49856,
@@ -1280,14 +1320,6 @@
       "word": "陈都灵丁禹兮关晓彤孟子义张凌赫同台",
       "onboard_time": 1770316515,
       "rank": 30,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 46516,
-      "num": 246967,
-      "word": "李冰冰登场即焦点",
-      "onboard_time": 1770350720,
-      "rank": 15,
       "category": "作品衍生"
     },
     {
@@ -1347,7 +1379,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 35265,
+      "raw_hot": 36658,
       "num": 218757,
       "word": "华为Mate双旗舰镜头下的群星大片",
       "onboard_time": 1770350720,
@@ -1363,11 +1395,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 34613,
-      "num": 187194,
-      "word": "男子年会抽中万元手机竟变瓷砖",
-      "onboard_time": 1770353302,
-      "rank": 39,
+      "raw_hot": 34247,
+      "num": 239563,
+      "word": "假律师恶语攻击脑瘫儿母亲",
+      "onboard_time": 1770353181,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -1385,6 +1417,22 @@
       "onboard_time": 1770311718,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 32792,
+      "num": 243961,
+      "word": "立陶宛嘴上认错还不够",
+      "onboard_time": 1770353061,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 32285,
+      "num": 245664,
+      "word": "成龙在玩一种很新的密室逃脱",
+      "onboard_time": 1770352522,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 31786,
@@ -1419,20 +1467,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 29172,
+      "num": 188412,
+      "word": "中国留学生偶遇荷兰火车放春晚预告",
+      "onboard_time": 1770354022,
+      "rank": 27,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 27324,
       "num": 131746,
       "word": "与周杰伦合拍新春大片",
       "onboard_time": 1770347120,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 26920,
-      "num": 239563,
-      "word": "假律师恶语攻击脑瘫儿母亲",
-      "onboard_time": 1770353181,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 26790,
@@ -1459,12 +1507,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 25875,
-      "num": 245664,
-      "word": "成龙在玩一种很新的密室逃脱",
-      "onboard_time": 1770352522,
-      "rank": 16,
-      "category": "电影"
+      "raw_hot": 25720,
+      "num": 222111,
+      "word": "随时可以打扰的AI健康朋友",
+      "onboard_time": 1770350720,
+      "rank": 28,
+      "category": "互联网"
     },
     {
       "raw_hot": 25345,
@@ -1483,19 +1531,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 24980,
+      "num": 736601,
+      "word": "一人一句为中国冬奥健儿加油",
+      "onboard_time": 1770349521,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 24615,
       "num": 25677,
       "word": "滑雪",
       "onboard_time": 1770318075,
       "rank": 43,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 24140,
-      "num": 720771,
-      "word": "一人一句为中国冬奥健儿加油",
-      "onboard_time": 1770349521,
-      "rank": 2,
       "category": "体育"
     },
     {
@@ -1513,14 +1561,6 @@
       "onboard_time": 1770314657,
       "rank": 49,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 21662,
-      "num": 222111,
-      "word": "随时可以打扰的AI健康朋友",
-      "onboard_time": 1770350720,
-      "rank": 28,
-      "category": "互联网"
     },
     {
       "raw_hot": 20876,
@@ -1563,12 +1603,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 19037,
-      "num": 243961,
-      "word": "立陶宛嘴上认错还不够",
-      "onboard_time": 1770353061,
-      "rank": 17,
-      "category": "国际时政"
+      "raw_hot": 19526,
+      "num": 196058,
+      "word": "180万拆迁款变勒索案主犯被判十年",
+      "onboard_time": 1770353660,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18672,
