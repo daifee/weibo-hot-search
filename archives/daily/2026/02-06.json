@@ -1,6 +1,6 @@
 {
   "startTime": 1770307563881,
-  "endTime": 1770368997836,
+  "endTime": 1770371677060,
   "band_list": [
     {
       "raw_hot": 7028994,
@@ -17,6 +17,14 @@
       "onboard_time": 1770344719,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2679124,
+      "num": 233507,
+      "word": "快手被罚1.191亿元人民币",
+      "onboard_time": 1770369981,
+      "rank": 5,
+      "category": "互联网"
     },
     {
       "raw_hot": 2615393,
@@ -177,6 +185,14 @@
       "onboard_time": 1770308662,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 668913,
+      "num": 137883,
+      "word": "黄子韬自曝卫生巾工厂现状",
+      "onboard_time": 1770368600,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 667022,
@@ -371,6 +387,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 367915,
+      "num": 124699,
+      "word": "王玉雯的裙子太考验身材了",
+      "onboard_time": 1770369981,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 367253,
       "num": 367253,
       "word": "王传君偷听孟子义白鹿聊天",
@@ -392,6 +416,14 @@
       "word": "女子3万元金手链戴10天丢失追责商家",
       "onboard_time": 1770364040,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 350273,
+      "num": 162821,
+      "word": "1岁宝宝被撞后截肢",
+      "onboard_time": 1770368840,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -635,6 +667,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 237948,
+      "num": 237948,
+      "word": "印度3姐妹留遗书称韩国是我的命",
+      "onboard_time": 1770366200,
+      "rank": 15,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 237531,
+      "num": 237531,
+      "word": "韩国运动员盒饭",
+      "onboard_time": 1770367459,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 236636,
       "num": 236636,
       "word": "关晓彤回应鞋跟卡台上",
@@ -779,6 +827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 190535,
+      "num": 162294,
+      "word": "特朗普转发李小龙武打视频",
+      "onboard_time": 1770368181,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 184566,
       "num": 184566,
       "word": "苏翊鸣说唯一一次拼的机会了",
@@ -795,6 +851,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 181451,
+      "num": 162214,
+      "word": "陛下 How are you",
+      "onboard_time": 1770369620,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 181077,
       "num": 181077,
       "word": "白鹿刘宇宁 内娱同桌",
@@ -809,6 +873,14 @@
       "onboard_time": 1770351621,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 180163,
+      "num": 180163,
+      "word": "余宇涵好大一声分手",
+      "onboard_time": 1770369981,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 178819,
@@ -923,12 +995,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 148048,
-      "num": 148048,
-      "word": "印度3姐妹留遗书称韩国是我的命",
-      "onboard_time": 1770366200,
-      "rank": 15,
-      "category": "海外新闻"
+      "raw_hot": 149157,
+      "num": 149157,
+      "word": "女子坚持照顾六旬瘫痪男友终领证",
+      "onboard_time": 1770365781,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 147603,
@@ -963,14 +1035,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 145000,
-      "num": 139070,
-      "word": "韩国运动员盒饭",
-      "onboard_time": 1770367459,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 143840,
       "num": 1146216,
       "word": "陈芋汐获奖感言",
@@ -979,12 +1043,12 @@
       "category": "体育,作品衍生"
     },
     {
-      "raw_hot": 143104,
-      "num": 143104,
-      "word": "女子坚持照顾六旬瘫痪男友终领证",
-      "onboard_time": 1770365781,
-      "rank": 40,
-      "category": "民生新闻"
+      "raw_hot": 141101,
+      "num": 124671,
+      "word": "千问送奶茶背后有阳谋",
+      "onboard_time": 1770369800,
+      "rank": 29,
+      "category": "互联网"
     },
     {
       "raw_hot": 140762,
@@ -1025,14 +1089,6 @@
       "onboard_time": 1770363560,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 137883,
-      "num": 137883,
-      "word": "黄子韬自曝卫生巾工厂现状",
-      "onboard_time": 1770368600,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 137411,
@@ -1235,11 +1291,27 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 119305,
+      "num": 124784,
+      "word": "辛芷蕾新剧豆瓣开分7.5",
+      "onboard_time": 1770368361,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 118558,
       "num": 1090026,
       "word": "周生生涉事挂坠送检结果为足金",
       "onboard_time": 1770296007,
       "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118525,
+      "num": 118525,
+      "word": "女子误扔百克黄金半个月后才发现",
+      "onboard_time": 1770368900,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -1267,20 +1339,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 116830,
-      "num": 113574,
-      "word": "辛芷蕾新剧豆瓣开分7.5",
-      "onboard_time": 1770368361,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 116292,
       "num": 116292,
       "word": "水贝没有黄金现货卖了",
       "onboard_time": 1770364222,
       "rank": 36,
       "category": "财经"
+    },
+    {
+      "raw_hot": 116159,
+      "num": 116159,
+      "word": "王诗玥柳鑫宇韵律舞64.92分",
+      "onboard_time": 1770371241,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 115295,
@@ -1297,6 +1369,14 @@
       "onboard_time": 1770325934,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 114736,
+      "num": 114736,
+      "word": "千问回应活动崩了",
+      "onboard_time": 1770368061,
+      "rank": 45,
+      "category": "互联网"
     },
     {
       "raw_hot": 114091,
@@ -1363,20 +1443,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 109687,
-      "num": 109687,
-      "word": "千问回应活动崩了",
-      "onboard_time": 1770368061,
-      "rank": 45,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 109227,
       "num": 132503,
       "word": "妹妹回应25岁哥哥身高仅60cm",
       "onboard_time": 1770357381,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109013,
+      "num": 109013,
+      "word": "WBG翻中翻iG",
+      "onboard_time": 1770371481,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 108386,
@@ -1395,6 +1475,30 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 106989,
+      "num": 106989,
+      "word": "王俊凯易烊千玺又同框了",
+      "onboard_time": 1770371181,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 106944,
+      "num": 205699,
+      "word": "花样滑冰团体赛资格赛",
+      "onboard_time": 1770368121,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 106552,
+      "num": 124823,
+      "word": "中方回应特朗普公开支持高市早苗",
+      "onboard_time": 1770370462,
+      "rank": 18,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 105697,
       "num": 105697,
       "word": "顺丰速孕碰瓷顺丰速运判赔20万",
@@ -1411,6 +1515,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 103984,
+      "num": 103984,
+      "word": "成何体统 雷霆特效",
+      "onboard_time": 1770369681,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 103354,
+      "num": 103354,
+      "word": "娜扎的卧蚕比我眼睛大",
+      "onboard_time": 1770370041,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 103130,
       "num": 103130,
       "word": "一年一度二次元春晚来了",
@@ -1425,6 +1545,14 @@
       "onboard_time": 1770368600,
       "rank": 16,
       "category": "电影,体育"
+    },
+    {
+      "raw_hot": 100950,
+      "num": 100950,
+      "word": "大姨 求婚都没你浪漫",
+      "onboard_time": 1770370941,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 100503,
@@ -1523,6 +1651,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 91645,
+      "num": 91645,
+      "word": "国际金银价格大幅反弹",
+      "onboard_time": 1770370701,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 91607,
       "num": 91607,
       "word": "小马糕999",
@@ -1545,14 +1681,6 @@
       "onboard_time": 1770334279,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 88793,
-      "num": 88793,
-      "word": "特朗普转发李小龙武打视频",
-      "onboard_time": 1770368181,
-      "rank": 45,
-      "category": "国际时政"
     },
     {
       "raw_hot": 88652,
@@ -1619,27 +1747,11 @@
       "category": "财经"
     },
     {
-      "raw_hot": 83957,
-      "num": 205699,
-      "word": "花样滑冰团体赛资格赛",
-      "onboard_time": 1770368121,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 83763,
       "num": 412349,
       "word": "2岁宝宝山东探亲1个月长高4厘米",
       "onboard_time": 1770299429,
       "rank": 28,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 83653,
-      "num": 83653,
-      "word": "女子误扔百克黄金半个月后才发现",
-      "onboard_time": 1770368900,
-      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -1665,6 +1777,14 @@
       "onboard_time": 1770343641,
       "rank": 29,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 78777,
+      "num": 114834,
+      "word": "这个马场被刘宇宁承包了",
+      "onboard_time": 1770371181,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 78132,
@@ -1777,14 +1897,6 @@
       "onboard_time": 1770365600,
       "rank": 28,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 64057,
-      "num": 110505,
-      "word": "1岁宝宝被撞后截肢",
-      "onboard_time": 1770368840,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 63384,
@@ -2201,6 +2313,14 @@
       "onboard_time": 1770354022,
       "rank": 27,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 28138,
+      "num": 115336,
+      "word": "周冬雨眼睛变大的原因",
+      "onboard_time": 1770371241,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 27324,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/02/06 17:09:57
+本榜单时间：2026/01/01 00:35:36 ~ 2026/02/06 17:54:37
 </p>
 </blockquote>
 <p>
@@ -341,6 +341,12 @@ Asen回应Sakee（热度：2704539）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E7%88%86%23" target="weibo">
 阿爆（热度：2679279）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BF%AB%E6%89%8B%E8%A2%AB%E7%BD%9A1.191%E4%BA%BF%E5%85%83%E4%BA%BA%E6%B0%91%E5%B8%81%23" target="weibo">
+快手被罚1.191亿元人民币（热度：2679124）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ BLG上调新上单Wenbo（热度：1173465）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%20%E5%87%BA%E5%BA%AD%E7%9A%84%E6%97%B6%E5%80%99%E5%B8%A6%E4%B8%8A%E4%BD%A0%E7%9A%84%E7%A0%B4%E5%B9%B3%E6%9D%BF%23" target="weibo">
 范丞丞 出庭的时候带上你的破平板（热度：1053457）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%8F%88%E8%A6%81%E9%80%89%E9%A6%96%E7%9B%B8%E4%BA%86%23" target="weibo">
-日本又要选首相了（热度：1052287）
 </a>
 </li>
 
