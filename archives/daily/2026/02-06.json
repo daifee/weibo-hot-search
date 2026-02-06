@@ -1,6 +1,6 @@
 {
   "startTime": 1770307563881,
-  "endTime": 1770361784798,
+  "endTime": 1770362992470,
   "band_list": [
     {
       "raw_hot": 7028994,
@@ -27,20 +27,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 2188912,
-      "num": 837494,
-      "word": "千问 免费奶茶",
-      "onboard_time": 1770344239,
-      "rank": 4,
-      "category": "美食,互联网"
-    },
-    {
-      "raw_hot": 2092415,
-      "num": 2092415,
+      "raw_hot": 2342224,
+      "num": 2342224,
       "word": "快递停运",
       "onboard_time": 1770359000,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2188912,
+      "num": 961607,
+      "word": "千问 免费奶茶",
+      "onboard_time": 1770344239,
+      "rank": 4,
+      "category": "美食,互联网"
     },
     {
       "raw_hot": 2004734,
@@ -105,6 +105,22 @@
       "onboard_time": 1770345920,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 721650,
+      "num": 232034,
+      "word": "周冬雨回应整容争议",
+      "onboard_time": 1770359960,
+      "rank": 12,
+      "category": "综艺,作品衍生"
+    },
+    {
+      "raw_hot": 713937,
+      "num": 713937,
+      "word": "千问登顶AppStore免费榜第一",
+      "onboard_time": 1770360920,
+      "rank": 4,
+      "category": "互联网"
     },
     {
       "raw_hot": 702933,
@@ -219,28 +235,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 522675,
-      "num": 232034,
-      "word": "周冬雨回应整容争议",
-      "onboard_time": 1770359960,
-      "rank": 12,
-      "category": "综艺,作品衍生"
-    },
-    {
       "raw_hot": 509875,
       "num": 509875,
       "word": "陈妍希周柯宇 灯暗下来就贴贴",
       "onboard_time": 1770300568,
       "rank": 26,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 507474,
-      "num": 507474,
-      "word": "千问登顶AppStore免费榜第一",
-      "onboard_time": 1770360920,
-      "rank": 4,
-      "category": "互联网"
     },
     {
       "raw_hot": 500483,
@@ -395,6 +395,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 319875,
+      "num": 230848,
+      "word": "演唱会出轨女方美国演讲门票超6千",
+      "onboard_time": 1770357921,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 317801,
       "num": 212880,
       "word": "穆祉丞头像换成张极腹肌照",
@@ -457,6 +465,14 @@
       "onboard_time": 1770305846,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 279716,
+      "num": 279716,
+      "word": "小偷偷十几万刮刮乐刮完未中大奖",
+      "onboard_time": 1770360861,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 279306,
@@ -603,6 +619,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 231198,
+      "num": 231198,
+      "word": "吴京 唇部紧急护理",
+      "onboard_time": 1770359424,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 228671,
       "num": 228671,
       "word": "车厘子过季",
@@ -615,14 +639,6 @@
       "num": 227440,
       "word": "被内场的程潇惊艳到了",
       "onboard_time": 1770307763,
-      "rank": 23,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 227068,
-      "num": 227068,
-      "word": "吴京 唇部紧急护理",
-      "onboard_time": 1770359424,
       "rank": 23,
       "category": "作品衍生"
     },
@@ -699,8 +715,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 187611,
-      "num": 187611,
+      "raw_hot": 189842,
+      "num": 189842,
       "word": "摇滚动物园道歉",
       "onboard_time": 1770359601,
       "rank": 25,
@@ -793,14 +809,6 @@
       "onboard_time": 1770284965,
       "rank": 33,
       "category": "民生新闻,动漫"
-    },
-    {
-      "raw_hot": 159404,
-      "num": 227660,
-      "word": "演唱会出轨女方美国演讲门票超6千",
-      "onboard_time": 1770357921,
-      "rank": 39,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 157441,
@@ -1051,6 +1059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 122199,
+      "num": 319267,
+      "word": "开幕还得看张艺谋",
+      "onboard_time": 1770357921,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121597,
       "num": 292340,
       "word": "肖战有自己的冰嬉名场面",
@@ -1105,6 +1121,14 @@
       "onboard_time": 1770353720,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116676,
+      "num": 101420,
+      "word": "敢让张艺谋笑一个的人出现了",
+      "onboard_time": 1770360321,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 115295,
@@ -1179,6 +1203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 108447,
+      "num": 90701,
+      "word": "王传君偷听孟子义白鹿聊天",
+      "onboard_time": 1770362781,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 108386,
       "num": 103408,
       "word": "苏翊鸣冬奥首个1980",
@@ -1233,14 +1265,6 @@
       "onboard_time": 1770358281,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 98836,
-      "num": 319267,
-      "word": "开幕还得看张艺谋",
-      "onboard_time": 1770357921,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 98748,
@@ -1315,12 +1339,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 90893,
-      "num": 90893,
-      "word": "敢让张艺谋笑一个的人出现了",
-      "onboard_time": 1770360321,
-      "rank": 49,
-      "category": "艺人"
+      "raw_hot": 90856,
+      "num": 90856,
+      "word": "多名领到千问免费奶茶网友发声",
+      "onboard_time": 1770362000,
+      "rank": 45,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 90519,
@@ -1355,12 +1379,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 88499,
+      "num": 88499,
+      "word": "刘宇宁深V缝上了还要捂",
+      "onboard_time": 1770362840,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 88449,
       "num": 88449,
       "word": "比特币",
       "onboard_time": 1770334460,
       "rank": 29,
       "category": "财经"
+    },
+    {
+      "raw_hot": 87828,
+      "num": 87828,
+      "word": "微信再封元宝分享口令",
+      "onboard_time": 1770362182,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 87639,
@@ -1385,6 +1425,14 @@
       "onboard_time": 1770357921,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 84882,
+      "num": 84882,
+      "word": "觉得没情商的可以看看作者文案",
+      "onboard_time": 1770362661,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 84632,
@@ -1515,6 +1563,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 62560,
+      "num": 185174,
+      "word": "零下40度千里春运你的车行吗",
+      "onboard_time": 1770361460,
+      "rank": 28,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 62353,
       "num": 189214,
       "word": "周柯宇摇话筒 小狗摇尾巴",
@@ -1553,14 +1609,6 @@
       "onboard_time": 1770334519,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 58048,
-      "num": 228572,
-      "word": "小偷偷十几万刮刮乐刮完未中大奖",
-      "onboard_time": 1770360861,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 56328,
@@ -1707,6 +1755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 43027,
+      "num": 214342,
+      "word": "苹果应用商店免费榜前三都是AI",
+      "onboard_time": 1770362059,
+      "rank": 19,
+      "category": "互联网,民生新闻"
+    },
+    {
       "raw_hot": 41247,
       "num": 45270,
       "word": "2025微博年度综艺",
@@ -1753,6 +1809,14 @@
       "onboard_time": 1770350720,
       "rank": 29,
       "category": "数码"
+    },
+    {
+      "raw_hot": 35086,
+      "num": 216287,
+      "word": "香港迪士尼回应内地男子溺亡",
+      "onboard_time": 1770362539,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 35005,
@@ -1843,6 +1907,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 28653,
+      "num": 230945,
+      "word": "王一博的贴贴攻略",
+      "onboard_time": 1770361520,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 27324,
       "num": 131746,
       "word": "与周杰伦合拍新春大片",
@@ -1900,7 +1972,7 @@
     },
     {
       "raw_hot": 24980,
-      "num": 855699,
+      "num": 964141,
       "word": "一人一句为中国冬奥健儿加油",
       "onboard_time": 1770349521,
       "rank": 2,
@@ -2003,20 +2075,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 9147,
-      "num": 185174,
-      "word": "零下40度千里春运你的车行吗",
-      "onboard_time": 1770361460,
-      "rank": 28,
-      "category": "汽车"
-    },
-    {
-      "raw_hot": 6304,
-      "num": 229002,
-      "word": "王一博的贴贴攻略",
-      "onboard_time": 1770361520,
-      "rank": 18,
-      "category": "艺人"
+      "raw_hot": 13439,
+      "num": 99069,
+      "word": "超8成欧洲青年对中国有好感",
+      "onboard_time": 1770362421,
+      "rank": 39,
+      "category": "海外新闻"
     }
   ],
   "hotgov_list": [
