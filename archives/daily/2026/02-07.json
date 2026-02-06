@@ -1,6 +1,6 @@
 {
   "startTime": 1770393849547,
-  "endTime": 1770411580897,
+  "endTime": 1770413967239,
   "band_list": [
     {
       "raw_hot": 737921,
@@ -252,7 +252,7 @@
     },
     {
       "raw_hot": 118216,
-      "num": 118216,
+      "num": 155476,
       "word": "米兰开幕式 好正常好好看",
       "onboard_time": 1770406754,
       "rank": 7,
@@ -353,6 +353,14 @@
       "onboard_time": 1770381801,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 76024,
+      "num": 76024,
+      "word": "中国队蓝羽绒服 好看",
+      "onboard_time": 1770411374,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 73991,
@@ -475,14 +483,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 48939,
-      "num": 48939,
-      "word": "中国队蓝羽绒服 好看",
-      "onboard_time": 1770411374,
-      "rank": 6,
-      "category": "体育"
-    },
-    {
       "raw_hot": 48103,
       "num": 48103,
       "word": "意大利真的好艺术",
@@ -547,6 +547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 34616,
+      "num": 23611,
+      "word": "林孝埈转发中国队入场照",
+      "onboard_time": 1770411853,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 34454,
       "num": 34454,
       "word": "米兰冬奥会",
@@ -603,19 +611,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 26076,
+      "num": 25549,
+      "word": "米兰羽绒服时装周",
+      "onboard_time": 1770410953,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 26030,
       "num": 25561,
       "word": "宁忠岩张楚桐高擎国旗",
       "onboard_time": 1770410834,
       "rank": 26,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 25549,
-      "num": 25549,
-      "word": "米兰羽绒服时装周",
-      "onboard_time": 1770410953,
-      "rank": 27,
       "category": "体育"
     },
     {
@@ -635,11 +643,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 24553,
+      "num": 22828,
+      "word": "意大利手势",
+      "onboard_time": 1770413714,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 23469,
       "num": 22873,
       "word": "奥运五环出场方式太震撼了",
       "onboard_time": 1770408016,
       "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 22210,
+      "num": 22210,
+      "word": "感觉德国队披着棉被出来了",
+      "onboard_time": 1770410534,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -667,19 +691,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 20905,
+      "num": 20905,
+      "word": "中国香港代表团金发旗手",
+      "onboard_time": 1770412394,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 20417,
       "num": 20417,
       "word": "中国冬奥代表团第19位入场",
       "onboard_time": 1770405016,
       "rank": 42,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 18294,
-      "num": 18294,
-      "word": "感觉德国队披着棉被出来了",
-      "onboard_time": 1770410534,
-      "rank": 48,
       "category": "体育"
     },
     {
