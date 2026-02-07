@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/02/07 21:26:34
+本榜单时间：2026/01/01 00:35:36 ~ 2026/02/07 22:00:40
 </p>
 </blockquote>
 <p>
@@ -1497,6 +1497,12 @@ BLG上调新上单Wenbo（热度：1173465）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%9B%A01%E6%9D%A1%E8%AF%84%E8%AE%BA%E6%9D%80%E5%AE%B32%E4%BA%BA%23" target="weibo">
+男子因1条评论杀害2人（热度：1168144）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A8%9C%E6%89%8E%20%E4%BA%BA%E9%97%B4%E7%BB%B4%E7%BA%B3%E6%96%AF%23" target="weibo">
 娜扎 人间维纳斯（热度：1166444）
 </a>
@@ -1805,12 +1811,6 @@ BLG上调新上单Wenbo（热度：1173465）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E7%88%B6%E6%AF%8D%E6%8B%92%E5%9B%9E%E5%BA%94%E9%87%91%E6%99%A8%E7%96%91%E8%82%87%E4%BA%8B%E9%80%83%E9%80%B8%23" target="weibo">
 金晨父母拒回应金晨疑肇事逃逸（热度：1072463）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E5%B0%86%E7%AE%A1%E7%90%86%E5%A7%94%E7%9B%B4%E8%87%B3%E5%AE%89%E5%85%A8%E8%BF%87%E6%B8%A1%23" target="weibo">
-特朗普称美将管理委直至安全过渡（热度：1072301）
 </a>
 </li>
 
