@@ -1,0 +1,410 @@
+{
+  "runTime": 1770440026067,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1687819,
+        "num": 1687819,
+        "word": "千问",
+        "onboard_time": 1770428420,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 316210,
+        "num": 917801,
+        "word": "印度飞饼师傅凭什么认定为外籍专家",
+        "onboard_time": 1770438138,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24444,
+        "num": 750759,
+        "word": "2026新春走基层",
+        "onboard_time": 1770437959,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 341734,
+        "num": 341734,
+        "word": "吴京回应唇部紧急护理",
+        "onboard_time": 1770429319,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 283183,
+        "num": 283183,
+        "word": "有奶茶店员称订单密度超外卖大战",
+        "onboard_time": 1770435739,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 299164,
+        "num": 268333,
+        "word": "苏翊鸣回应奥运夺冠后飘了",
+        "onboard_time": 1770433819,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 219632,
+        "num": 219632,
+        "word": "第一次见到怀孕的耙耙柑",
+        "onboard_time": 1770435439,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 217950,
+        "num": 217950,
+        "word": "米兰开幕式 好正常好好看",
+        "onboard_time": 1770406754,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 41759,
+        "num": 215742,
+        "word": "多家快递春节假期不停运",
+        "onboard_time": 1770439100,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43356,
+        "num": 213533,
+        "word": "谷爱凌第2顺位出场",
+        "onboard_time": 1770432920,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1160421,
+        "num": 209948,
+        "word": "00后男子强奸幼女被执行死刑",
+        "onboard_time": 1770435138,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 336174,
+        "num": 207953,
+        "word": "肖战给工作人员看迷糊了",
+        "onboard_time": 1770430580,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 221920,
+        "num": 205968,
+        "word": "偶遇exo上海吃火锅",
+        "onboard_time": 1770430759,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127951,
+        "num": 201427,
+        "word": "海口致3死1伤男子畏罪自杀身亡",
+        "onboard_time": 1770421879,
+        "rank": 13,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 200805,
+        "num": 200805,
+        "word": "成何体统",
+        "onboard_time": 1770390801,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165450,
+        "num": 200601,
+        "word": "陈冠希以为碰到一群迷妹",
+        "onboard_time": 1770431360,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78242,
+        "num": 200328,
+        "word": "张晚意林允希林这是什么神仙组合",
+        "onboard_time": 1770435622,
+        "rank": 16,
+        "category": "艺人,汽车"
+      },
+      {
+        "raw_hot": 37571,
+        "num": 199544,
+        "word": "米兰开幕首支队伍出场穿的是安踏",
+        "onboard_time": 1770435259,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105709,
+        "num": 199265,
+        "word": "脚底藏毒太味被闻出",
+        "onboard_time": 1770439461,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18348,
+        "num": 198588,
+        "word": "中方航展展台挤满东南亚国防官员",
+        "onboard_time": 1770439580,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 198557,
+        "num": 198557,
+        "word": "丞磊说和王楚然一对视就笑",
+        "onboard_time": 1770438620,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 339637,
+        "num": 197969,
+        "word": "金银价飙升米兰冬奥金牌史上最贵",
+        "onboard_time": 1770428359,
+        "rank": 21,
+        "category": "体育,财经"
+      },
+      {
+        "raw_hot": 238181,
+        "num": 197101,
+        "word": "成何体统上了韩网热帖",
+        "onboard_time": 1770421157,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194324,
+        "num": 194324,
+        "word": "孙颖莎vs金娜英",
+        "onboard_time": 1770438080,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156438,
+        "num": 156438,
+        "word": "小李子女友开幕式交接国旗",
+        "onboard_time": 1770429440,
+        "rank": 24,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 153543,
+        "num": 153543,
+        "word": "权志龙跳刀马刀马",
+        "onboard_time": 1770436581,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137844,
+        "num": 137844,
+        "word": "小猫ID 不吃香菜",
+        "onboard_time": 1770436519,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 140914,
+        "num": 132492,
+        "word": "昭阳公主",
+        "onboard_time": 1770429919,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126793,
+        "num": 126793,
+        "word": "谢娜因为同一个人哭3次",
+        "onboard_time": 1770433100,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125391,
+        "num": 125391,
+        "word": "网友挽留倒闭火锅店房东霸气免租",
+        "onboard_time": 1770438080,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155031,
+        "num": 124724,
+        "word": "千问可以点盒马了",
+        "onboard_time": 1770435801,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 135492,
+        "num": 124148,
+        "word": "苏翊鸣奥运夺冠后胖到大叔身材",
+        "onboard_time": 1770439580,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122872,
+        "num": 122872,
+        "word": "冬奥会开幕式",
+        "onboard_time": 1770403755,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119754,
+        "num": 119754,
+        "word": "王楚钦vs郭勇",
+        "onboard_time": 1770439281,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118733,
+        "num": 118733,
+        "word": "肖战微博之夜定妆花絮",
+        "onboard_time": 1770432499,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 116091,
+        "num": 116091,
+        "word": "王安宇王玉雯二搭",
+        "onboard_time": 1770435020,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 115395,
+        "num": 115395,
+        "word": "妈妈无语了半个小时才说明真相",
+        "onboard_time": 1770438499,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112368,
+        "num": 112368,
+        "word": "孙颖莎3比1金娜英",
+        "onboard_time": 1770439399,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107091,
+        "num": 107091,
+        "word": "关晓彤回应无缝进组",
+        "onboard_time": 1770437539,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97764,
+        "num": 97764,
+        "word": "王栎鑫 十八岁爷爷驾到",
+        "onboard_time": 1770438562,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93452,
+        "num": 96257,
+        "word": "美股暴涨原因",
+        "onboard_time": 1770437720,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 95762,
+        "num": 95762,
+        "word": "成何体统成绩",
+        "onboard_time": 1770437119,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94209,
+        "num": 94209,
+        "word": "陆虎彩排临时改歌救场",
+        "onboard_time": 1770439700,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 891589,
+        "num": 93689,
+        "word": "特朗普拒绝道歉",
+        "onboard_time": 1770434899,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 92028,
+        "num": 92028,
+        "word": "时薪150vs时薪800",
+        "onboard_time": 1770439580,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 90814,
+        "num": 90814,
+        "word": "微博之夜",
+        "onboard_time": 1770430460,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 87267,
+        "num": 87267,
+        "word": "牙不好竟会影响血管",
+        "onboard_time": 1770439520,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 87108,
+        "num": 87108,
+        "word": "女子为应付父母闪婚后继续找男友",
+        "onboard_time": 1770432440,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83254,
+        "num": 83254,
+        "word": "10万元特斯拉续航达成率不输新车",
+        "onboard_time": 1770438200,
+        "rank": 48,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 83079,
+        "num": 83079,
+        "word": "王者荣耀",
+        "onboard_time": 1770420979,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#回家过年阖家团圆#"
+    }
+  }
+}
