@@ -1,14 +1,30 @@
 {
   "startTime": 1770393849547,
-  "endTime": 1770433824583,
+  "endTime": 1770439516099,
   "band_list": [
     {
-      "raw_hot": 1517961,
-      "num": 1517961,
+      "raw_hot": 1858016,
+      "num": 1858016,
       "word": "千问",
       "onboard_time": 1770428420,
       "rank": 0,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 997257,
+      "num": 167254,
+      "word": "特朗普拒绝道歉",
+      "onboard_time": 1770434899,
+      "rank": 20,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 981483,
+      "num": 188218,
+      "word": "00后男子强奸幼女被执行死刑",
+      "onboard_time": 1770435138,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 737921,
@@ -91,6 +107,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 465325,
+      "num": 258574,
+      "word": "苏翊鸣回应奥运夺冠后飘了",
+      "onboard_time": 1770433819,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 447018,
       "num": 447018,
       "word": "吴京回应唇部紧急护理",
@@ -140,7 +164,7 @@
     },
     {
       "raw_hot": 353381,
-      "num": 168359,
+      "num": 187134,
       "word": "肖战给工作人员看迷糊了",
       "onboard_time": 1770430580,
       "rank": 16,
@@ -156,7 +180,7 @@
     },
     {
       "raw_hot": 336232,
-      "num": 165455,
+      "num": 180868,
       "word": "偶遇exo上海吃火锅",
       "onboard_time": 1770430759,
       "rank": 17,
@@ -172,7 +196,7 @@
     },
     {
       "raw_hot": 320051,
-      "num": 139364,
+      "num": 177982,
       "word": "陈冠希以为碰到一群迷妹",
       "onboard_time": 1770431360,
       "rank": 39,
@@ -196,7 +220,7 @@
     },
     {
       "raw_hot": 294065,
-      "num": 171791,
+      "num": 175523,
       "word": "海口致3死1伤男子畏罪自杀身亡",
       "onboard_time": 1770421879,
       "rank": 12,
@@ -217,6 +241,14 @@
       "onboard_time": 1770391282,
       "rank": 13,
       "category": "艺人,电竞"
+    },
+    {
+      "raw_hot": 267932,
+      "num": 267932,
+      "word": "有奶茶店员称订单密度超外卖大战",
+      "onboard_time": 1770435739,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 266538,
@@ -260,7 +292,7 @@
     },
     {
       "raw_hot": 247146,
-      "num": 866223,
+      "num": 925806,
       "word": "米兰开幕式 好正常好好看",
       "onboard_time": 1770406754,
       "rank": 7,
@@ -323,6 +355,22 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 193445,
+      "num": 193445,
+      "word": "第一次见到怀孕的耙耙柑",
+      "onboard_time": 1770435439,
+      "rank": 7,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 193354,
+      "num": 193354,
+      "word": "印度飞饼师傅凭什么认定为外籍专家",
+      "onboard_time": 1770438138,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 189119,
       "num": 300546,
       "word": "米兰冬奥主火炬点燃",
@@ -353,6 +401,14 @@
       "onboard_time": 1770382582,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 172910,
+      "num": 172910,
+      "word": "丞磊说和王楚然一对视就笑",
+      "onboard_time": 1770438620,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 168850,
@@ -387,12 +443,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 163244,
+      "num": 163244,
+      "word": "谢娜因为同一个人哭3次",
+      "onboard_time": 1770433100,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 162151,
       "num": 105055,
       "word": "吴世勋上海签售生图",
       "onboard_time": 1770385642,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 161281,
+      "num": 161281,
+      "word": "孙颖莎vs金娜英",
+      "onboard_time": 1770438080,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 159778,
@@ -443,12 +515,44 @@
       "category": "演出"
     },
     {
+      "raw_hot": 149883,
+      "num": 149883,
+      "word": "权志龙跳刀马刀马",
+      "onboard_time": 1770436581,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 148887,
+      "num": 142578,
+      "word": "千问可以点盒马了",
+      "onboard_time": 1770435801,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 146687,
+      "num": 146687,
+      "word": "小猫ID 不吃香菜",
+      "onboard_time": 1770436519,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 142949,
       "num": 142949,
       "word": "华晨宇 我35岁最后一天的最后一吻",
       "onboard_time": 1770419536,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 140789,
+      "num": 140789,
+      "word": "王安宇王玉雯二搭",
+      "onboard_time": 1770435020,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 140761,
@@ -468,7 +572,7 @@
     },
     {
       "raw_hot": 138895,
-      "num": 138895,
+      "num": 150464,
       "word": "女子为应付父母闪婚后继续找男友",
       "onboard_time": 1770432440,
       "rank": 19,
@@ -497,14 +601,6 @@
       "onboard_time": 1770430040,
       "rank": 30,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 132123,
-      "num": 132123,
-      "word": "谢娜因为同一个人哭3次",
-      "onboard_time": 1770433100,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 130880,
@@ -539,6 +635,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 112740,
+      "num": 112740,
+      "word": "关晓彤回应无缝进组",
+      "onboard_time": 1770437539,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 107831,
       "num": 107831,
       "word": "最强大脑最无解的题目出现了",
@@ -553,6 +657,14 @@
       "onboard_time": 1770385099,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105583,
+      "num": 105583,
+      "word": "妈妈无语了半个小时才说明真相",
+      "onboard_time": 1770438499,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 105424,
@@ -579,6 +691,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 99996,
+      "num": 99996,
+      "word": "网友挽留倒闭火锅店房东霸气免租",
+      "onboard_time": 1770438080,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 99213,
+      "num": 99213,
+      "word": "王楚钦vs郭勇",
+      "onboard_time": 1770439281,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 99067,
+      "num": 99067,
+      "word": "微博之夜",
+      "onboard_time": 1770430460,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 97746,
       "num": 97746,
       "word": "冬奥开幕式入场引导员火了",
@@ -587,12 +723,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 96639,
+      "num": 99110,
+      "word": "王栎鑫 十八岁爷爷驾到",
+      "onboard_time": 1770438562,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 96246,
       "num": 96246,
       "word": "意大利手势",
       "onboard_time": 1770413714,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 96159,
+      "num": 96159,
+      "word": "美股暴涨原因",
+      "onboard_time": 1770437720,
+      "rank": 41,
+      "category": "财经"
     },
     {
       "raw_hot": 95621,
@@ -617,6 +769,22 @@
       "onboard_time": 1770429800,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 94087,
+      "num": 94087,
+      "word": "孙颖莎3比1金娜英",
+      "onboard_time": 1770439399,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 93856,
+      "num": 93856,
+      "word": "10万元特斯拉续航达成率不输新车",
+      "onboard_time": 1770438200,
+      "rank": 43,
+      "category": "汽车"
     },
     {
       "raw_hot": 93433,
@@ -651,12 +819,44 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 90515,
+      "num": 90515,
+      "word": "王者荣耀",
+      "onboard_time": 1770420979,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 90295,
+      "num": 170070,
+      "word": "张晚意林允希林这是什么神仙组合",
+      "onboard_time": 1770435622,
+      "rank": 18,
+      "category": "艺人,汽车"
+    },
+    {
       "raw_hot": 89609,
       "num": 89609,
       "word": "隋文静摔倒",
       "onboard_time": 1770377841,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 89273,
+      "num": 89273,
+      "word": "何超欣自曝有外貌焦虑",
+      "onboard_time": 1770434779,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 88641,
+      "num": 88641,
+      "word": "成何体统成绩",
+      "onboard_time": 1770437119,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 87905,
@@ -673,6 +873,14 @@
       "onboard_time": 1770424819,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 87111,
+      "num": 87111,
+      "word": "办开幕式意大利是专业的",
+      "onboard_time": 1770438859,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 86863,
@@ -699,6 +907,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 85193,
+      "num": 88901,
+      "word": "现在的文创还是太超前了",
+      "onboard_time": 1770438800,
+      "rank": 47,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 84386,
       "num": 84386,
       "word": "梁小龙百万粉丝账号疑被弟子霸占",
@@ -712,6 +928,14 @@
       "word": "1岁宝宝被撞后截肢",
       "onboard_time": 1770368840,
       "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 82972,
+      "num": 91410,
+      "word": "脚底藏毒太味被闻出",
+      "onboard_time": 1770439461,
+      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -771,14 +995,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 79829,
-      "num": 79829,
-      "word": "微博之夜",
-      "onboard_time": 1770430460,
-      "rank": 47,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 79654,
       "num": 79654,
       "word": "唐宫奇案破2",
@@ -817,14 +1033,6 @@
       "onboard_time": 1770433221,
       "rank": 42,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 76884,
-      "num": 76884,
-      "word": "王者荣耀",
-      "onboard_time": 1770420979,
-      "rank": 41,
-      "category": "游戏"
     },
     {
       "raw_hot": 74747,
@@ -1011,6 +1219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 45571,
+      "num": 168665,
+      "word": "美军企创始人拿卷尺量歼35A",
+      "onboard_time": 1770438379,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 43708,
       "num": 619511,
       "word": "你家年货清单都有啥",
@@ -1048,6 +1264,22 @@
       "word": "熬夜看冬奥会开幕式",
       "onboard_time": 1770404474,
       "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 41010,
+      "num": 191530,
+      "word": "谷爱凌第2顺位出场",
+      "onboard_time": 1770432920,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 38068,
+      "num": 172026,
+      "word": "米兰开幕首支队伍出场穿的是安踏",
+      "onboard_time": 1770435259,
+      "rank": 17,
       "category": "体育"
     },
     {
@@ -1099,6 +1331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 31557,
+      "num": 183423,
+      "word": "多家快递春节假期不停运",
+      "onboard_time": 1770439100,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29258,
       "num": 29258,
       "word": "米兰羽绒服时装周",
@@ -1137,6 +1377,14 @@
       "onboard_time": 1770383301,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 26707,
+      "num": 773084,
+      "word": "2026新春走基层",
+      "onboard_time": 1770437959,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26424,
@@ -1302,6 +1550,9 @@
   "hotgov_list": [
     {
       "word": "#重温总书记对冰雪健儿的谆谆嘱托#"
+    },
+    {
+      "word": "#回家过年阖家团圆#"
     }
   ]
 }
