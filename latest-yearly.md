@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/02/07 14:04:04
+本榜单时间：2026/01/01 00:35:36 ~ 2026/02/07 14:54:41
 </p>
 </blockquote>
 <p>
@@ -525,6 +525,12 @@ U23国足vs越南（热度：2487537）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E5%BD%93%E4%BC%97%E6%89%87%E5%BE%90%E8%89%BA%E6%B4%8B%E5%B7%B4%E6%8E%8C%23" target="weibo">
+黄子韬当众扇徐艺洋巴掌（热度：2118955）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
 王鹤棣演唱会（热度：2064980）
 </a>
@@ -629,12 +635,6 @@ U23国足vs越南（热度：2487537）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E8%B7%B3%E6%B0%B4%23" target="weibo">
 黄金跳水（热度：1873095）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E5%BD%93%E4%BC%97%E6%89%87%E5%BE%90%E8%89%BA%E6%B4%8B%E5%B7%B4%E6%8E%8C%23" target="weibo">
-黄子韬当众扇徐艺洋巴掌（热度：1863329）
 </a>
 </li>
 

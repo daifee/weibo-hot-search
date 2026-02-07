@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1770444244109,
+  "endTime": 1770447281291,
   "band_list": [
     {
       "raw_hot": 22742360,
@@ -683,6 +683,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 2118955,
+      "num": 208697,
+      "word": "黄子韬当众扇徐艺洋巴掌",
+      "onboard_time": 1770442761,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2064980,
       "num": 595793,
       "word": "王鹤棣演唱会",
@@ -825,14 +833,6 @@
       "onboard_time": 1769728039,
       "rank": 5,
       "category": "财经"
-    },
-    {
-      "raw_hot": 1863329,
-      "num": 208697,
-      "word": "黄子韬当众扇徐艺洋巴掌",
-      "onboard_time": 1770442761,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 1858016,
