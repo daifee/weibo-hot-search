@@ -1,6 +1,6 @@
 {
   "startTime": 1770393849547,
-  "endTime": 1770461608739,
+  "endTime": 1770463823842,
   "band_list": [
     {
       "raw_hot": 12386962,
@@ -107,6 +107,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 633607,
+      "num": 830249,
+      "word": "谷爱凌摔倒后立刻看向自己的脚",
+      "onboard_time": 1770461121,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 627753,
       "num": 801015,
       "word": "中国银行坚决拥护党中央决定",
@@ -139,11 +147,35 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 599961,
+      "num": 186724,
+      "word": "马伯骞回关虞书欣",
+      "onboard_time": 1770460100,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 587926,
       "num": 211547,
       "word": "苏翊鸣奥运夺冠后胖到大叔身材",
       "onboard_time": 1770439580,
       "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 587651,
+      "num": 263981,
+      "word": "孕妇独自驾车就医致一男子死亡",
+      "onboard_time": 1770461180,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 582990,
+      "num": 582990,
+      "word": "谷爱凌锁定决赛",
+      "onboard_time": 1770461301,
+      "rank": 4,
       "category": "体育"
     },
     {
@@ -153,14 +185,6 @@
       "onboard_time": 1770438080,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 549062,
-      "num": 186724,
-      "word": "马伯骞回关虞书欣",
-      "onboard_time": 1770460100,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 521722,
@@ -257,14 +281,6 @@
       "onboard_time": 1770429319,
       "rank": 4,
       "category": "电影"
-    },
-    {
-      "raw_hot": 436585,
-      "num": 436585,
-      "word": "谷爱凌锁定决赛",
-      "onboard_time": 1770461301,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 434375,
@@ -371,12 +387,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 363247,
-      "num": 363247,
-      "word": "谷爱凌摔倒后立刻看向自己的脚",
-      "onboard_time": 1770461121,
+      "raw_hot": 362620,
+      "num": 362620,
+      "word": "谷爱凌第二轮75.30分",
+      "onboard_time": 1770463521,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 360010,
+      "num": 181633,
+      "word": "程潇真的拥有芭比的容貌和人生",
+      "onboard_time": 1770460041,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 353381,
@@ -444,7 +468,7 @@
     },
     {
       "raw_hot": 304605,
-      "num": 187071,
+      "num": 192420,
       "word": "女子临终将婆婆300万养老钱送姐姐",
       "onboard_time": 1770451883,
       "rank": 22,
@@ -547,6 +571,14 @@
       "category": "艺人,电竞"
     },
     {
+      "raw_hot": 266541,
+      "num": 266541,
+      "word": "山姆品控危机引发退卡风波",
+      "onboard_time": 1770453620,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 266538,
       "num": 158766,
       "word": "男子两年强奸10名未成年少女",
@@ -592,14 +624,6 @@
       "word": "1.5万裤子穿1天发现勾线退货难",
       "onboard_time": 1770392479,
       "rank": 40,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 250425,
-      "num": 250425,
-      "word": "山姆品控危机引发退卡风波",
-      "onboard_time": 1770453620,
-      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -683,6 +707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 219998,
+      "num": 219998,
+      "word": "王昶钱天一共同成立新公司",
+      "onboard_time": 1770455961,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 219632,
       "num": 219632,
       "word": "第一次见到怀孕的耙耙柑",
@@ -747,14 +779,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 203640,
-      "num": 203640,
-      "word": "王昶钱天一共同成立新公司",
-      "onboard_time": 1770455961,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
       "raw_hot": 202854,
       "num": 182165,
       "word": "马琳远程收看王昶求婚钱天一",
@@ -803,6 +827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 193004,
+      "num": 193004,
+      "word": "山姆你还续卡吗",
+      "onboard_time": 1770460761,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 189715,
       "num": 209471,
       "word": "孙颖莎逆转赢了",
@@ -841,22 +873,6 @@
       "onboard_time": 1770449542,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 183418,
-      "num": 183418,
-      "word": "孕妇独自驾车就医致一男子死亡",
-      "onboard_time": 1770461180,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 181633,
-      "num": 181633,
-      "word": "程潇真的拥有芭比的容貌和人生",
-      "onboard_time": 1770460041,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 180013,
@@ -979,6 +995,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 158948,
+      "num": 158948,
+      "word": "女子黄金手镯断裂竟掉出2颗钢珠",
+      "onboard_time": 1770463342,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 158565,
       "num": 128689,
       "word": "卢昱晓说女明星不能一味追求瘦",
@@ -993,6 +1017,14 @@
       "onboard_time": 1770423739,
       "rank": 22,
       "category": "健康医疗,民生新闻"
+    },
+    {
+      "raw_hot": 157215,
+      "num": 157215,
+      "word": "徐明浩3条iG创造了360万美元价值",
+      "onboard_time": 1770459261,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 155320,
@@ -1067,12 +1099,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 151174,
-      "num": 151174,
-      "word": "山姆你还续卡吗",
-      "onboard_time": 1770460761,
-      "rank": 28,
-      "category": "民生新闻"
+      "raw_hot": 151079,
+      "num": 151079,
+      "word": "工作留痕真的能保命",
+      "onboard_time": 1770459921,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 150900,
@@ -1097,6 +1129,14 @@
       "onboard_time": 1770436519,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 146603,
+      "num": 146603,
+      "word": "87岁的核武院士让中国垃圾不够烧",
+      "onboard_time": 1770462321,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 142949,
@@ -1195,6 +1235,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 132195,
+      "num": 132195,
+      "word": "王楚钦vs周启豪",
+      "onboard_time": 1770461481,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 131587,
       "num": 131587,
       "word": "冬奥会直播",
@@ -1251,14 +1299,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 126868,
-      "num": 126868,
-      "word": "工作留痕真的能保命",
-      "onboard_time": 1770459921,
-      "rank": 36,
-      "category": "情感"
-    },
-    {
       "raw_hot": 126814,
       "num": 123255,
       "word": "爱泼斯坦装修家具很多购自佛山",
@@ -1272,14 +1312,6 @@
       "word": "娜扎演绎尊界S800新春灯语",
       "onboard_time": 1770457401,
       "rank": 29,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 123832,
-      "num": 123832,
-      "word": "徐明浩3条iG创造了360万美元价值",
-      "onboard_time": 1770459261,
-      "rank": 31,
       "category": "艺人"
     },
     {
@@ -1427,6 +1459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 111222,
+      "num": 111222,
+      "word": "40岁放弃事业编",
+      "onboard_time": 1770463762,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 111094,
       "num": 111094,
       "word": "00后对懒的理解",
@@ -1481,6 +1521,14 @@
       "onboard_time": 1770458480,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 107542,
+      "num": 693565,
+      "word": "中国网络视听盛典",
+      "onboard_time": 1770429680,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 107059,
@@ -1547,12 +1595,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104204,
+      "num": 104204,
+      "word": "白鹿项目回报率",
+      "onboard_time": 1770462740,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 104146,
       "num": 104146,
       "word": "钱天一的愿望睁眼就实现了",
       "onboard_time": 1770443482,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 104137,
+      "num": 104137,
+      "word": "天津警方通报首例不满16岁少年被拘",
+      "onboard_time": 1770462800,
+      "rank": 36,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 103951,
@@ -1587,12 +1651,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 100672,
-      "num": 100672,
+      "raw_hot": 101464,
+      "num": 101464,
       "word": "华晨宇 本命年和本命人一起过",
       "onboard_time": 1770456321,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 101176,
+      "num": 101176,
+      "word": "我们的少年时代2开机花篮",
+      "onboard_time": 1770463640,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 100530,
@@ -1827,6 +1899,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 89768,
+      "num": 89768,
+      "word": "老外在中国待久后的变化",
+      "onboard_time": 1770460520,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 89609,
       "num": 89609,
       "word": "隋文静摔倒",
@@ -1857,6 +1937,14 @@
       "onboard_time": 1770447140,
       "rank": 42,
       "category": "数码"
+    },
+    {
+      "raw_hot": 88022,
+      "num": 88022,
+      "word": "年货最善良的水果",
+      "onboard_time": 1770462560,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 87905,
@@ -2227,14 +2315,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 69580,
-      "num": 122763,
-      "word": "王楚钦vs周启豪",
-      "onboard_time": 1770461481,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 67209,
       "num": 67209,
       "word": "10万多元黄金被当垃圾扔了",
@@ -2443,6 +2523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 41963,
+      "num": 104917,
+      "word": "2026年的春节为近年来最晚",
+      "onboard_time": 1770462321,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41759,
       "num": 215742,
       "word": "多家快递春节假期不停运",
@@ -2505,14 +2593,6 @@
       "onboard_time": 1770419417,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 34092,
-      "num": 693565,
-      "word": "中国网络视听盛典",
-      "onboard_time": 1770429680,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 33912,

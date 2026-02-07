@@ -1,0 +1,410 @@
+{
+  "runTime": 1770463823842,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 736462,
+        "num": 1117834,
+        "word": "谷爱凌第一滑摔倒",
+        "onboard_time": 1770457161,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 633607,
+        "num": 830249,
+        "word": "谷爱凌摔倒后立刻看向自己的脚",
+        "onboard_time": 1770461121,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107542,
+        "num": 656404,
+        "word": "中国网络视听盛典",
+        "onboard_time": 1770429680,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 582990,
+        "num": 582990,
+        "word": "谷爱凌锁定决赛",
+        "onboard_time": 1770461301,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 471418,
+        "num": 471418,
+        "word": "谷爱凌完成第二滑",
+        "onboard_time": 1770461061,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1313221,
+        "num": 464252,
+        "word": "金晨肇事逃逸被罚1500元",
+        "onboard_time": 1770455121,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 362620,
+        "num": 362620,
+        "word": "谷爱凌第二轮75.30分",
+        "onboard_time": 1770463521,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 347191,
+        "num": 347191,
+        "word": "很火但难吃的水果",
+        "onboard_time": 1770448940,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 266541,
+        "num": 266541,
+        "word": "山姆品控危机引发退卡风波",
+        "onboard_time": 1770453620,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 265157,
+        "num": 265157,
+        "word": "老君山一员工拍短视频5年被奖132万",
+        "onboard_time": 1770457101,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 587651,
+        "num": 263981,
+        "word": "孕妇独自驾车就医致一男子死亡",
+        "onboard_time": 1770461180,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 243361,
+        "num": 243361,
+        "word": "千问",
+        "onboard_time": 1770428420,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 237284,
+        "num": 237284,
+        "word": "结婚需要多少钱",
+        "onboard_time": 1770457042,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 230079,
+        "num": 230079,
+        "word": "孙颖莎vs陈熠",
+        "onboard_time": 1770458721,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 220431,
+        "num": 220431,
+        "word": "中国银行坚决拥护党中央决定",
+        "onboard_time": 1770449720,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 219998,
+        "num": 219998,
+        "word": "王昶钱天一共同成立新公司",
+        "onboard_time": 1770455961,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193004,
+        "num": 193004,
+        "word": "山姆你还续卡吗",
+        "onboard_time": 1770460761,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192420,
+        "num": 192420,
+        "word": "女子临终将婆婆300万养老钱送姐姐",
+        "onboard_time": 1770451883,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178424,
+        "num": 178424,
+        "word": "湖南卫视春晚全阵容官宣",
+        "onboard_time": 1770454102,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171747,
+        "num": 171747,
+        "word": "女子独自带三娃赶火车丢了俩",
+        "onboard_time": 1770453079,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 599961,
+        "num": 170109,
+        "word": "马伯骞回关虞书欣",
+        "onboard_time": 1770460100,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 527064,
+        "num": 169242,
+        "word": "演员立威廉已重新安排遗嘱",
+        "onboard_time": 1770454401,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158948,
+        "num": 158948,
+        "word": "女子黄金手镯断裂竟掉出2颗钢珠",
+        "onboard_time": 1770463342,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 360010,
+        "num": 158632,
+        "word": "程潇真的拥有芭比的容貌和人生",
+        "onboard_time": 1770460041,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157215,
+        "num": 157215,
+        "word": "徐明浩3条iG创造了360万美元价值",
+        "onboard_time": 1770459261,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151079,
+        "num": 151079,
+        "word": "工作留痕真的能保命",
+        "onboard_time": 1770459921,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 151278,
+        "num": 150164,
+        "word": "向佐说自己原生家庭有问题",
+        "onboard_time": 1770452959,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146603,
+        "num": 146603,
+        "word": "87岁的核武院士让中国垃圾不够烧",
+        "onboard_time": 1770462321,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132195,
+        "num": 132195,
+        "word": "王楚钦vs周启豪",
+        "onboard_time": 1770461481,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112767,
+        "num": 112767,
+        "word": "GALA的腹肌",
+        "onboard_time": 1770450742,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 111274,
+        "num": 111274,
+        "word": "谷爱凌每天步行到奥运赛场",
+        "onboard_time": 1770458001,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111222,
+        "num": 111222,
+        "word": "40岁放弃事业编",
+        "onboard_time": 1770463762,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 110952,
+        "num": 110952,
+        "word": "冬奥会直播",
+        "onboard_time": 1770461061,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106800,
+        "num": 106800,
+        "word": "政务窗口工作人员8年收好处费1614万",
+        "onboard_time": 1770443724,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41963,
+        "num": 104917,
+        "word": "2026年的春节为近年来最晚",
+        "onboard_time": 1770462321,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104204,
+        "num": 104204,
+        "word": "白鹿项目回报率",
+        "onboard_time": 1770462740,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104137,
+        "num": 104137,
+        "word": "天津警方通报首例不满16岁少年被拘",
+        "onboard_time": 1770462800,
+        "rank": 36,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 101464,
+        "num": 101464,
+        "word": "华晨宇 本命年和本命人一起过",
+        "onboard_time": 1770456321,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 101257,
+        "num": 101257,
+        "word": "千问免单卡可以买年货",
+        "onboard_time": 1770448580,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 101201,
+        "num": 101201,
+        "word": "王楚然只贴三片黄瓜美成这样",
+        "onboard_time": 1770441981,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101176,
+        "num": 101176,
+        "word": "我们的少年时代2开机花篮",
+        "onboard_time": 1770463640,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100324,
+        "num": 100324,
+        "word": "身体有5种表现建议查甲状腺",
+        "onboard_time": 1770457821,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 99826,
+        "num": 99826,
+        "word": "冬奥会",
+        "onboard_time": 1770446182,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96598,
+        "num": 96598,
+        "word": "西红柿拌白糖已经进化成这样了",
+        "onboard_time": 1770450799,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 93880,
+        "num": 93880,
+        "word": "蒋梦婕发了祝绪丹的合照",
+        "onboard_time": 1770459801,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92805,
+        "num": 92805,
+        "word": "鞠婧祎ins更新",
+        "onboard_time": 1770447921,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91003,
+        "num": 91003,
+        "word": "英伟达市值一夜涨超22000亿元",
+        "onboard_time": 1770461242,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 89768,
+        "num": 89768,
+        "word": "老外在中国待久后的变化",
+        "onboard_time": 1770460520,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 88022,
+        "num": 88022,
+        "word": "年货最善良的水果",
+        "onboard_time": 1770462560,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 86601,
+        "num": 86601,
+        "word": "微博之夜",
+        "onboard_time": 1770430460,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#两场元首外交同一天举行很不寻常#"
+    }
+  }
+}
