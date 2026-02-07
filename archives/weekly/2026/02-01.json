@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1770431650301,
+  "endTime": 1770433824583,
   "band_list": [
     {
       "raw_hot": 10390810,
@@ -2435,6 +2435,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 447018,
+      "num": 447018,
+      "word": "吴京回应唇部紧急护理",
+      "onboard_time": 1770429319,
+      "rank": 4,
+      "category": "电影"
+    },
+    {
       "raw_hot": 444204,
       "num": 444204,
       "word": "一诺和桃黑黑打王者",
@@ -2673,14 +2681,6 @@
       "onboard_time": 1770011722,
       "rank": 3,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 416296,
-      "num": 416296,
-      "word": "吴京回应唇部紧急护理",
-      "onboard_time": 1770429319,
-      "rank": 4,
-      "category": "电影"
     },
     {
       "raw_hot": 414377,
@@ -3019,6 +3019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 374066,
+      "num": 162966,
+      "word": "特朗普社媒删除与奥巴马有关视频",
+      "onboard_time": 1770430640,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 373742,
       "num": 315353,
       "word": "SM年会",
@@ -3073,6 +3081,14 @@
       "onboard_time": 1770104780,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 370739,
+      "num": 370739,
+      "word": "昭阳公主",
+      "onboard_time": 1770429919,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 370024,
@@ -3240,6 +3256,14 @@
       "word": "微博之夜交换礼物",
       "onboard_time": 1770280466,
       "rank": 40,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 353381,
+      "num": 168359,
+      "word": "肖战给工作人员看迷糊了",
+      "onboard_time": 1770430580,
+      "rank": 16,
       "category": "作品衍生"
     },
     {
@@ -3473,6 +3497,14 @@
       "onboard_time": 1770264561,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 336232,
+      "num": 165455,
+      "word": "偶遇exo上海吃火锅",
+      "onboard_time": 1770430759,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 336129,
@@ -3747,6 +3779,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 320051,
+      "num": 139364,
+      "word": "陈冠希以为碰到一群迷妹",
+      "onboard_time": 1770431360,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 319875,
       "num": 230848,
       "word": "演唱会出轨女方美国演讲门票超6千",
@@ -3817,14 +3857,6 @@
       "onboard_time": 1770134182,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 314799,
-      "num": 314799,
-      "word": "昭阳公主",
-      "onboard_time": 1770429919,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 314129,
@@ -4948,7 +4980,7 @@
     },
     {
       "raw_hot": 247146,
-      "num": 428469,
+      "num": 866223,
       "word": "米兰开幕式 好正常好好看",
       "onboard_time": 1770406754,
       "rank": 7,
@@ -5627,14 +5659,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 219125,
-      "num": 168359,
-      "word": "肖战给工作人员看迷糊了",
-      "onboard_time": 1770430580,
-      "rank": 16,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 218112,
       "num": 176487,
       "word": "李嘉格为什么口碑两极化了",
@@ -5937,14 +5961,6 @@
       "onboard_time": 1770424999,
       "rank": 8,
       "category": "民生新闻,财经"
-    },
-    {
-      "raw_hot": 199198,
-      "num": 165455,
-      "word": "偶遇exo上海吃火锅",
-      "onboard_time": 1770430759,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 198757,
@@ -7275,6 +7291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 153872,
+      "num": 76852,
+      "word": "王玉雯进不了组也不要怪我",
+      "onboard_time": 1770432920,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 153811,
       "num": 153811,
       "word": "马云深夜现身阿里总部",
@@ -8035,6 +8059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 138895,
+      "num": 138895,
+      "word": "女子为应付父母闪婚后继续找男友",
+      "onboard_time": 1770432440,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 138494,
       "num": 138494,
       "word": "肖战宋佳辛芷蕾微博年度榜样影人",
@@ -8081,6 +8113,14 @@
       "onboard_time": 1769933721,
       "rank": 28,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 137568,
+      "num": 137568,
+      "word": "范丞丞体重67公斤",
+      "onboard_time": 1770431601,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 137411,
@@ -8425,6 +8465,14 @@
       "onboard_time": 1769910980,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132123,
+      "num": 132123,
+      "word": "谢娜因为同一个人哭3次",
+      "onboard_time": 1770433100,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 131892,
@@ -9651,12 +9699,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 115484,
-      "num": 162966,
-      "word": "特朗普社媒删除与奥巴马有关视频",
-      "onboard_time": 1770430640,
-      "rank": 19,
-      "category": "国际时政"
+      "raw_hot": 115705,
+      "num": 115705,
+      "word": "肖战微博之夜定妆花絮",
+      "onboard_time": 1770432499,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 115295,
@@ -11667,6 +11715,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 95192,
+      "num": 138950,
+      "word": "全新QQ用AI重塑小车之王",
+      "onboard_time": 1770433399,
+      "rank": 18,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 95184,
       "num": 163809,
       "word": "千问免单文学",
@@ -13003,6 +13059,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 84386,
+      "num": 84386,
+      "word": "梁小龙百万粉丝账号疑被弟子霸占",
+      "onboard_time": 1770432679,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 84378,
       "num": 82828,
       "word": "潘宏训狗 徐艺洋训黄子韬",
@@ -13283,6 +13347,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 82046,
+      "num": 100136,
+      "word": "美国对与伊朗有贸易往来国家加征关税",
+      "onboard_time": 1770432380,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 81994,
       "num": 81994,
       "word": "睡眠比任何东西都重要",
@@ -13377,6 +13449,14 @@
       "onboard_time": 1770193461,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 81197,
+      "num": 81197,
+      "word": "关晓彤陈都灵合影",
+      "onboard_time": 1770432200,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 81133,
@@ -13571,6 +13651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 79960,
+      "num": 79960,
+      "word": "子女与看护在医院抢102岁老人",
+      "onboard_time": 1770433459,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 79943,
       "num": 79943,
       "word": "国投白银重估基金资产",
@@ -13617,6 +13705,14 @@
       "onboard_time": 1770110180,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 79654,
+      "num": 79654,
+      "word": "唐宫奇案破2",
+      "onboard_time": 1770424519,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 79590,
@@ -13673,6 +13769,14 @@
       "onboard_time": 1770374062,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 78972,
+      "num": 78972,
+      "word": "白宫回应把奥巴马夫妇P成猴子视频",
+      "onboard_time": 1770432741,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 78943,
@@ -13771,14 +13875,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 77179,
-      "num": 77179,
-      "word": "范丞丞体重67公斤",
-      "onboard_time": 1770431601,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 77138,
       "num": 77138,
       "word": "比尔盖茨曾说与前妻离婚是最大错误",
@@ -13817,6 +13913,14 @@
       "onboard_time": 1770131421,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 77060,
+      "num": 77060,
+      "word": "千问称免单活动热度远超预期",
+      "onboard_time": 1770433221,
+      "rank": 42,
+      "category": "互联网"
     },
     {
       "raw_hot": 77031,
@@ -14011,6 +14115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 74747,
+      "num": 74747,
+      "word": "小狗被主人夸可爱时的反应",
+      "onboard_time": 1770432920,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 74700,
       "num": 69183,
       "word": "特朗普政府为何急于将爱泼斯坦案翻篇",
@@ -14073,6 +14185,14 @@
       "onboard_time": 1770418218,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 74130,
+      "num": 74130,
+      "word": "井胧腌了20斤黄瓜咸菜",
+      "onboard_time": 1770433759,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 74047,
@@ -16787,14 +16907,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 30811,
-      "num": 88572,
-      "word": "陈冠希以为碰到一群迷妹",
-      "onboard_time": 1770431360,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 30793,
       "num": 91893,
       "word": "素人走红女孩七七喜欢赵丽颖",
@@ -17507,6 +17619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 21552,
+      "num": 693565,
+      "word": "中国网络视听盛典",
+      "onboard_time": 1770429680,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21491,
       "num": 128107,
       "word": "中央一号文件里的民生大礼包",
@@ -17968,14 +18088,6 @@
       "word": "说今年立春不吉利别自己吓自己",
       "onboard_time": 1770204381,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 16590,
-      "num": 691092,
-      "word": "中国网络视听盛典",
-      "onboard_time": 1770429680,
-      "rank": 2,
       "category": "民生新闻"
     },
     {
