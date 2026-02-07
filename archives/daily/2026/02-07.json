@@ -1,6 +1,6 @@
 {
   "startTime": 1770393849547,
-  "endTime": 1770463823842,
+  "endTime": 1770464765502,
   "band_list": [
     {
       "raw_hot": 12386962,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 633607,
-      "num": 830249,
+      "num": 1100058,
       "word": "谷爱凌摔倒后立刻看向自己的脚",
       "onboard_time": 1770461121,
       "rank": 6,
@@ -147,6 +147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 610655,
+      "num": 263981,
+      "word": "孕妇独自驾车就医致一男子死亡",
+      "onboard_time": 1770461180,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 599961,
       "num": 186724,
       "word": "马伯骞回关虞书欣",
@@ -155,27 +163,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 593778,
+      "num": 773763,
+      "word": "谷爱凌锁定决赛",
+      "onboard_time": 1770461301,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 587926,
       "num": 211547,
       "word": "苏翊鸣奥运夺冠后胖到大叔身材",
       "onboard_time": 1770439580,
       "rank": 31,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 587651,
-      "num": 263981,
-      "word": "孕妇独自驾车就医致一男子死亡",
-      "onboard_time": 1770461180,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 582990,
-      "num": 582990,
-      "word": "谷爱凌锁定决赛",
-      "onboard_time": 1770461301,
-      "rank": 4,
       "category": "体育"
     },
     {
@@ -443,6 +443,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 326938,
+      "num": 326938,
+      "word": "山姆你还续卡吗",
+      "onboard_time": 1770460761,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 320051,
       "num": 200601,
       "word": "陈冠希以为碰到一群迷妹",
@@ -468,7 +476,7 @@
     },
     {
       "raw_hot": 304605,
-      "num": 192420,
+      "num": 219096,
       "word": "女子临终将婆婆300万养老钱送姐姐",
       "onboard_time": 1770451883,
       "rank": 22,
@@ -627,6 +635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 251127,
+      "num": 161824,
+      "word": "女子黄金手镯断裂竟掉出2颗钢珠",
+      "onboard_time": 1770463342,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 249713,
       "num": 249713,
       "word": "吴京官宣王嘉尔加入镖人世界",
@@ -731,6 +747,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 215292,
+      "num": 157215,
+      "word": "徐明浩3条iG创造了360万美元价值",
+      "onboard_time": 1770459261,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 214665,
       "num": 214665,
       "word": "一上午烫了20多个老太太",
@@ -825,14 +849,6 @@
       "onboard_time": 1770438080,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 193004,
-      "num": 193004,
-      "word": "山姆你还续卡吗",
-      "onboard_time": 1770460761,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 189715,
@@ -995,12 +1011,12 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 158948,
-      "num": 158948,
-      "word": "女子黄金手镯断裂竟掉出2颗钢珠",
-      "onboard_time": 1770463342,
-      "rank": 22,
-      "category": "民生新闻"
+      "raw_hot": 159245,
+      "num": 147089,
+      "word": "我们的少年时代2开机花篮",
+      "onboard_time": 1770463640,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 158565,
@@ -1017,14 +1033,6 @@
       "onboard_time": 1770423739,
       "rank": 22,
       "category": "健康医疗,民生新闻"
-    },
-    {
-      "raw_hot": 157215,
-      "num": 157215,
-      "word": "徐明浩3条iG创造了360万美元价值",
-      "onboard_time": 1770459261,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 155320,
@@ -1403,6 +1411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 116639,
+      "num": 116639,
+      "word": "年货最善良的水果",
+      "onboard_time": 1770462560,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 116551,
       "num": 111242,
       "word": "黄子韬刘耀文吵架",
@@ -1473,6 +1489,14 @@
       "onboard_time": 1770461121,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 110931,
+      "num": 110931,
+      "word": "华晨宇 本命年和本命人一起过",
+      "onboard_time": 1770456321,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 110046,
@@ -1571,6 +1595,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 105643,
+      "num": 105643,
+      "word": "白鹿项目回报率",
+      "onboard_time": 1770462740,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 105424,
       "num": 105424,
       "word": "林孝埈转发中国队入场照",
@@ -1593,14 +1625,6 @@
       "onboard_time": 1770447081,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 104204,
-      "num": 104204,
-      "word": "白鹿项目回报率",
-      "onboard_time": 1770462740,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 104146,
@@ -1643,28 +1667,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 102477,
+      "num": 102477,
+      "word": "孙颖莎4比1陈熠",
+      "onboard_time": 1770464361,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 101878,
       "num": 101878,
       "word": "我当了老板也让员工看我表演",
       "onboard_time": 1770446481,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 101464,
-      "num": 101464,
-      "word": "华晨宇 本命年和本命人一起过",
-      "onboard_time": 1770456321,
-      "rank": 35,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 101176,
-      "num": 101176,
-      "word": "我们的少年时代2开机花篮",
-      "onboard_time": 1770463640,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 100530,
@@ -1675,12 +1691,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 100522,
+      "num": 100522,
+      "word": "老外在中国待久后的变化",
+      "onboard_time": 1770460520,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 99479,
       "num": 99479,
       "word": "朵莉亚马限皮肤龟兹壁画",
       "onboard_time": 1770443122,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 98376,
+      "num": 101353,
+      "word": "孙颖莎11比4陈熠",
+      "onboard_time": 1770464060,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 97764,
@@ -1713,6 +1745,14 @@
       "onboard_time": 1770461242,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 97352,
+      "num": 97352,
+      "word": "六个合法查询网站帮你看清一个人",
+      "onboard_time": 1770464241,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96246,
@@ -1843,6 +1883,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 91958,
+      "num": 91958,
+      "word": "北京JDG战胜西安WE",
+      "onboard_time": 1770464480,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 91678,
       "num": 91678,
       "word": "丞磊 你有没有为了剧宣拼过命",
@@ -1883,6 +1931,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 90509,
+      "num": 90509,
+      "word": "千问建议集满21张卡再慢慢下单",
+      "onboard_time": 1770461961,
+      "rank": 49,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 90295,
       "num": 200328,
       "word": "张晚意林允希林这是什么神仙组合",
@@ -1897,14 +1953,6 @@
       "onboard_time": 1770452119,
       "rank": 45,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 89768,
-      "num": 89768,
-      "word": "老外在中国待久后的变化",
-      "onboard_time": 1770460520,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 89609,
@@ -1937,14 +1985,6 @@
       "onboard_time": 1770447140,
       "rank": 42,
       "category": "数码"
-    },
-    {
-      "raw_hot": 88022,
-      "num": 88022,
-      "word": "年货最善良的水果",
-      "onboard_time": 1770462560,
-      "rank": 48,
-      "category": "美食"
     },
     {
       "raw_hot": 87905,
@@ -2347,6 +2387,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 63542,
+      "num": 147780,
+      "word": "上咪咕见证苏翊鸣冲金",
+      "onboard_time": 1770464121,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 63425,
       "num": 63425,
       "word": "怀孕闺蜜代替女生亡父送她出嫁",
@@ -2449,6 +2497,14 @@
       "onboard_time": 1770419776,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 46157,
+      "num": 149791,
+      "word": "87岁奶奶摔倒半小时被发现孙女发声",
+      "onboard_time": 1770464540,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 46008,
@@ -2568,6 +2624,14 @@
       "word": "谷爱凌林孝埈冬奥满格祝福",
       "onboard_time": 1770399619,
       "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 36100,
+      "num": 202972,
+      "word": "谷爱凌滑雪不基础上镜更不基础",
+      "onboard_time": 1770464121,
+      "rank": 14,
       "category": "体育"
     },
     {
