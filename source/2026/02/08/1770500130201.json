@@ -1,0 +1,410 @@
+{
+  "runTime": 1770500130201,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 301346,
+        "num": 301346,
+        "word": "苏翊鸣大跳台铜牌",
+        "onboard_time": 1770493515,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 80940,
+        "num": 142684,
+        "word": "日本裁判",
+        "onboard_time": 1770492914,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 8818,
+        "num": 114683,
+        "word": "中国元素绽放米兰冬奥舞台",
+        "onboard_time": 1770471022,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 67853,
+        "num": 67853,
+        "word": "Bin",
+        "onboard_time": 1770492135,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 57110,
+        "num": 57110,
+        "word": "金博洋84.15分",
+        "onboard_time": 1770492495,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 44768,
+        "num": 44768,
+        "word": "川大博导被举报83页材料公开",
+        "onboard_time": 1770477681,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44696,
+        "num": 44696,
+        "word": "苏翊鸣集齐冬奥会金银铜牌",
+        "onboard_time": 1770496274,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 42604,
+        "num": 42604,
+        "word": "苏翊鸣决赛",
+        "onboard_time": 1770477140,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38657,
+        "num": 38657,
+        "word": "苏翊鸣第三跳80.25分",
+        "onboard_time": 1770493515,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36948,
+        "num": 36948,
+        "word": "92岁老人集装箱离世留下19万存款",
+        "onboard_time": 1770475762,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63810,
+        "num": 36512,
+        "word": "男子因1条评论杀害2人",
+        "onboard_time": 1770468741,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37683,
+        "num": 35529,
+        "word": "朴成训看花滑团体赛",
+        "onboard_time": 1770492016,
+        "rank": 11,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 32748,
+        "num": 32748,
+        "word": "花样滑冰团体赛",
+        "onboard_time": 1770491295,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32128,
+        "num": 32128,
+        "word": "肖战讲述什么是美好",
+        "onboard_time": 1770480680,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31182,
+        "num": 31182,
+        "word": "11年了大姐还在骂明台",
+        "onboard_time": 1770476541,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30812,
+        "num": 30812,
+        "word": "苏翊鸣第二跳73.75分",
+        "onboard_time": 1770491535,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29763,
+        "num": 29763,
+        "word": "成何体统",
+        "onboard_time": 1770471443,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29712,
+        "num": 29712,
+        "word": "苏翊鸣 触雪",
+        "onboard_time": 1770491894,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29214,
+        "num": 29214,
+        "word": "芒果女主持上新了",
+        "onboard_time": 1770476482,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26583,
+        "num": 26583,
+        "word": "苏翊鸣太帅了",
+        "onboard_time": 1770494294,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 76642,
+        "num": 26523,
+        "word": "Bin自拍晒身材照",
+        "onboard_time": 1770493094,
+        "rank": 20,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 34185,
+        "num": 26347,
+        "word": "天津首例不满16岁未成年人被行拘",
+        "onboard_time": 1770483318,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25895,
+        "num": 25895,
+        "word": "苏翊鸣第一跳1980",
+        "onboard_time": 1770490095,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25553,
+        "num": 25553,
+        "word": "中国队米兰首枚奖牌",
+        "onboard_time": 1770494294,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25015,
+        "num": 25015,
+        "word": "乌克兰紧急求助波兰",
+        "onboard_time": 1770478940,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 24970,
+        "num": 24970,
+        "word": "谷爱凌第一滑摔倒",
+        "onboard_time": 1770457161,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23911,
+        "num": 23911,
+        "word": "山西朔州车间爆炸已致7人遇难",
+        "onboard_time": 1770480680,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23330,
+        "num": 23330,
+        "word": "男子网购椅子竟多出15公斤银板",
+        "onboard_time": 1770472222,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23036,
+        "num": 23036,
+        "word": "金博洋短节目",
+        "onboard_time": 1770491835,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22465,
+        "num": 22465,
+        "word": "马伯骞回关虞书欣",
+        "onboard_time": 1770460100,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60688,
+        "num": 22429,
+        "word": "米兰大跳台 摔了好多人",
+        "onboard_time": 1770494655,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31385,
+        "num": 22363,
+        "word": "甲状腺是怎么一步一步失控的",
+        "onboard_time": 1770481400,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 23023,
+        "num": 22324,
+        "word": "苏翊鸣与父母拥抱",
+        "onboard_time": 1770498254,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22239,
+        "num": 22239,
+        "word": "白鹿 我选蒋奇明",
+        "onboard_time": 1770477322,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22019,
+        "num": 22019,
+        "word": "单板滑雪决赛",
+        "onboard_time": 1770484338,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21699,
+        "num": 21699,
+        "word": "只有苏翊鸣两次站上领奖台",
+        "onboard_time": 1770499334,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21548,
+        "num": 21548,
+        "word": "单板大跳台好卷",
+        "onboard_time": 1770490515,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20257,
+        "num": 20257,
+        "word": "林诗栋惨遭逆转无缘4强",
+        "onboard_time": 1770474563,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20012,
+        "num": 20012,
+        "word": "生命树张扬去世",
+        "onboard_time": 1770470241,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19952,
+        "num": 19952,
+        "word": "成何体统 癫剧",
+        "onboard_time": 1770473302,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18895,
+        "num": 18895,
+        "word": "苏翊鸣说身披五星红旗最骄傲",
+        "onboard_time": 1770498133,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18725,
+        "num": 18725,
+        "word": "脚臭的人洗脚时建议加点盐",
+        "onboard_time": 1770472762,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 18194,
+        "num": 18194,
+        "word": "原来网感真的能练出来",
+        "onboard_time": 1770498013,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 17590,
+        "num": 18192,
+        "word": "立威廉得知恶耗时才49岁",
+        "onboard_time": 1770468741,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17568,
+        "num": 18187,
+        "word": "2026年米兰科尔蒂纳冬奥会",
+        "onboard_time": 1770489915,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17558,
+        "num": 18187,
+        "word": "唐宫奇案",
+        "onboard_time": 1770484398,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17523,
+        "num": 18184,
+        "word": "周深舞台光芒万丈",
+        "onboard_time": 1770487036,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 16987,
+        "num": 18179,
+        "word": "官方通报教师用手背打学生脸",
+        "onboard_time": 1770477861,
+        "rank": 47,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 15474,
+        "num": 18176,
+        "word": "白鹿穿高定录综艺",
+        "onboard_time": 1770478162,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14623,
+        "num": 18171,
+        "word": "孙颖莎6比11陈熠",
+        "onboard_time": 1770476362,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向全军老同志祝贺新春#"
+    }
+  }
+}
