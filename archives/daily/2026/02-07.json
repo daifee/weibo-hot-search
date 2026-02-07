@@ -1,6 +1,6 @@
 {
   "startTime": 1770393849547,
-  "endTime": 1770460531620,
+  "endTime": 1770461608739,
   "band_list": [
     {
       "raw_hot": 12386962,
@@ -19,6 +19,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2530180,
+      "num": 2530180,
+      "word": "谷爱凌第一滑摔倒",
+      "onboard_time": 1770457161,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2118955,
       "num": 208697,
       "word": "黄子韬当众扇徐艺洋巴掌",
@@ -35,16 +43,8 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 1845102,
-      "num": 1845102,
-      "word": "谷爱凌第一滑摔倒",
-      "onboard_time": 1770457161,
-      "rank": 0,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1386333,
-      "num": 212794,
+      "num": 288155,
       "word": "管乐道歉",
       "onboard_time": 1770452959,
       "rank": 10,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1281532,
-      "num": 333145,
+      "num": 363068,
       "word": "很火但难吃的水果",
       "onboard_time": 1770448940,
       "rank": 34,
@@ -75,6 +75,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 906959,
+      "num": 906959,
+      "word": "谷爱凌完成第二滑",
+      "onboard_time": 1770461061,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 867796,
+      "num": 186850,
+      "word": "演员立威廉已重新安排遗嘱",
+      "onboard_time": 1770454401,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 798483,
       "num": 152477,
       "word": "微博之夜声明",
@@ -89,14 +105,6 @@
       "onboard_time": 1770379520,
       "rank": 10,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 733192,
-      "num": 163994,
-      "word": "演员立威廉已重新安排遗嘱",
-      "onboard_time": 1770454401,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 627753,
@@ -145,6 +153,14 @@
       "onboard_time": 1770438080,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 549062,
+      "num": 186724,
+      "word": "马伯骞回关虞书欣",
+      "onboard_time": 1770460100,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 521722,
@@ -243,6 +259,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 436585,
+      "num": 436585,
+      "word": "谷爱凌锁定决赛",
+      "onboard_time": 1770461301,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 434375,
       "num": 154349,
       "word": "男子轮奸幼女强迫卖淫被执行死刑",
@@ -299,6 +323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 376433,
+      "num": 376433,
+      "word": "老君山一员工拍短视频5年被奖132万",
+      "onboard_time": 1770457101,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 374066,
       "num": 162966,
       "word": "特朗普社媒删除与奥巴马有关视频",
@@ -339,20 +371,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 363247,
+      "num": 363247,
+      "word": "谷爱凌摔倒后立刻看向自己的脚",
+      "onboard_time": 1770461121,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 353381,
       "num": 207953,
       "word": "肖战给工作人员看迷糊了",
       "onboard_time": 1770430580,
       "rank": 16,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 349228,
-      "num": 349228,
-      "word": "老君山一员工拍短视频5年被奖132万",
-      "onboard_time": 1770457101,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 341180,
@@ -412,11 +444,19 @@
     },
     {
       "raw_hot": 304605,
-      "num": 185987,
+      "num": 187071,
       "word": "女子临终将婆婆300万养老钱送姐姐",
       "onboard_time": 1770451883,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 304356,
+      "num": 304356,
+      "word": "谷爱凌每天步行到奥运赛场",
+      "onboard_time": 1770458001,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 298553,
@@ -425,14 +465,6 @@
       "onboard_time": 1770387983,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 295351,
-      "num": 163634,
-      "word": "马伯骞回关虞书欣",
-      "onboard_time": 1770460100,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 294065,
@@ -523,6 +555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 257643,
+      "num": 257643,
+      "word": "结婚需要多少钱",
+      "onboard_time": 1770457042,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 255972,
       "num": 255972,
       "word": "脚底藏毒太味被闻出",
@@ -608,6 +648,14 @@
       "word": "教练说奥运会后苏翊鸣飘了",
       "onboard_time": 1770390082,
       "rank": 7,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 238651,
+      "num": 238651,
+      "word": "孙颖莎vs陈熠",
+      "onboard_time": 1770458721,
+      "rank": 16,
       "category": "体育"
     },
     {
@@ -699,6 +747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 203640,
+      "num": 203640,
+      "word": "王昶钱天一共同成立新公司",
+      "onboard_time": 1770455961,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 202854,
       "num": 182165,
       "word": "马琳远程收看王昶求婚钱天一",
@@ -787,6 +843,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 183418,
+      "num": 183418,
+      "word": "孕妇独自驾车就医致一男子死亡",
+      "onboard_time": 1770461180,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 181633,
+      "num": 181633,
+      "word": "程潇真的拥有芭比的容貌和人生",
+      "onboard_time": 1770460041,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 180013,
       "num": 147951,
       "word": "范丞丞说近期生病身体弱得像林黛玉",
@@ -835,28 +907,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 172593,
-      "num": 172593,
-      "word": "谷爱凌每天步行到奥运赛场",
-      "onboard_time": 1770458001,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
       "raw_hot": 168850,
       "num": 168850,
       "word": "飞饼师傅被认定外籍专家发放慰问费",
       "onboard_time": 1770399197,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 168383,
-      "num": 168383,
-      "word": "王昶钱天一共同成立新公司",
-      "onboard_time": 1770455961,
-      "rank": 15,
-      "category": "体育"
     },
     {
       "raw_hot": 167417,
@@ -867,28 +923,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 167335,
-      "num": 167335,
-      "word": "孙颖莎vs陈熠",
-      "onboard_time": 1770458721,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 166251,
       "num": 135371,
       "word": "中国队蓝羽绒服 好看",
       "onboard_time": 1770411374,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 165841,
-      "num": 165841,
-      "word": "结婚需要多少钱",
-      "onboard_time": 1770457042,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 163921,
@@ -1019,6 +1059,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 151309,
+      "num": 151309,
+      "word": "冬奥会",
+      "onboard_time": 1770446182,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 151174,
+      "num": 151174,
+      "word": "山姆你还续卡吗",
+      "onboard_time": 1770460761,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 150900,
       "num": 150900,
       "word": "王昶钱天一是00后",
@@ -1028,7 +1084,7 @@
     },
     {
       "raw_hot": 146920,
-      "num": 172762,
+      "num": 182390,
       "word": "肖战冬奥短片滑冰首秀",
       "onboard_time": 1770456021,
       "rank": 17,
@@ -1056,14 +1112,6 @@
       "word": "亚乒联致歉",
       "onboard_time": 1770449780,
       "rank": 47,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 141122,
-      "num": 141122,
-      "word": "冬奥会",
-      "onboard_time": 1770446182,
-      "rank": 24,
       "category": "体育"
     },
     {
@@ -1147,6 +1195,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 131587,
+      "num": 131587,
+      "word": "冬奥会直播",
+      "onboard_time": 1770461061,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130880,
       "num": 130880,
       "word": "中国代表团入场",
@@ -1195,6 +1251,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 126868,
+      "num": 126868,
+      "word": "工作留痕真的能保命",
+      "onboard_time": 1770459921,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 126814,
       "num": 123255,
       "word": "爱泼斯坦装修家具很多购自佛山",
@@ -1204,7 +1268,7 @@
     },
     {
       "raw_hot": 123856,
-      "num": 139633,
+      "num": 151202,
       "word": "娜扎演绎尊界S800新春灯语",
       "onboard_time": 1770457401,
       "rank": 29,
@@ -1259,18 +1323,18 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 120525,
-      "num": 120525,
-      "word": "程潇真的拥有芭比的容貌和人生",
-      "onboard_time": 1770460041,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 119754,
       "num": 119754,
       "word": "王楚钦vs郭勇",
       "onboard_time": 1770439281,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 119350,
+      "num": 119350,
+      "word": "谷爱凌首轮失误获1.26分",
+      "onboard_time": 1770461180,
       "rank": 38,
       "category": "体育"
     },
@@ -1355,12 +1419,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 112345,
-      "num": 112345,
-      "word": "工作留痕真的能保命",
-      "onboard_time": 1770459921,
-      "rank": 36,
-      "category": "情感"
+      "raw_hot": 111731,
+      "num": 111731,
+      "word": "妈妈拥抱安慰谷爱凌",
+      "onboard_time": 1770459741,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 111094,
+      "num": 111094,
+      "word": "00后对懒的理解",
+      "onboard_time": 1770461121,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 110046,
@@ -1369,6 +1441,14 @@
       "onboard_time": 1770440602,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 109611,
+      "num": 109611,
+      "word": "谷爱凌说自己是i人",
+      "onboard_time": 1770438440,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 108355,
@@ -1515,14 +1595,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 100666,
-      "num": 100666,
-      "word": "妈妈拥抱安慰谷爱凌",
-      "onboard_time": 1770459741,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 100530,
       "num": 100530,
       "word": "长期主义已经卷到饮食上了",
@@ -1561,6 +1633,14 @@
       "onboard_time": 1770450980,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 97420,
+      "num": 101919,
+      "word": "英伟达市值一夜涨超22000亿元",
+      "onboard_time": 1770461242,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 96246,
@@ -2028,7 +2108,7 @@
     },
     {
       "raw_hot": 78413,
-      "num": 170378,
+      "num": 224523,
       "word": "支付宝把购物袋玩成嘴替",
       "onboard_time": 1770450021,
       "rank": 14,
@@ -2145,6 +2225,14 @@
       "onboard_time": 1770395180,
       "rank": 30,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 69580,
+      "num": 122763,
+      "word": "王楚钦vs周启豪",
+      "onboard_time": 1770461481,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 67209,
@@ -2771,8 +2859,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 3742,
-      "num": 739428,
+      "raw_hot": 3960,
+      "num": 1241491,
       "word": "冰雪春天",
       "onboard_time": 1770368240,
       "rank": 2,
