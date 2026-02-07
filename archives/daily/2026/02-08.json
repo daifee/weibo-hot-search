@@ -1,10 +1,10 @@
 {
   "startTime": 1770482461321,
-  "endTime": 1770490922598,
+  "endTime": 1770492774657,
   "band_list": [
     {
-      "raw_hot": 577455,
-      "num": 577455,
+      "raw_hot": 824977,
+      "num": 824977,
       "word": "苏翊鸣决赛",
       "onboard_time": 1770477140,
       "rank": 1,
@@ -59,6 +59,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 301579,
+      "num": 301579,
+      "word": "苏翊鸣第一跳1980",
+      "onboard_time": 1770490095,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 295890,
+      "num": 295890,
+      "word": "苏翊鸣第二跳73.75分",
+      "onboard_time": 1770491535,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 277911,
       "num": 277911,
       "word": "11年了大姐还在骂明台",
@@ -83,12 +99,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 183771,
-      "num": 183771,
-      "word": "苏翊鸣第一跳1980",
-      "onboard_time": 1770490095,
-      "rank": 1,
-      "category": "体育"
+      "raw_hot": 189741,
+      "num": 189741,
+      "word": "Bin",
+      "onboard_time": 1770492135,
+      "rank": 4,
+      "category": "电竞"
     },
     {
       "raw_hot": 173350,
@@ -107,6 +123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 167140,
+      "num": 167140,
+      "word": "苏翊鸣暂列第二",
+      "onboard_time": 1770492135,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 157852,
       "num": 157852,
       "word": "脚臭的人洗脚时建议加点盐",
@@ -120,6 +144,14 @@
       "word": "单板滑雪决赛",
       "onboard_time": 1770484338,
       "rank": 17,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 151488,
+      "num": 151488,
+      "word": "苏翊鸣教科书般的1980",
+      "onboard_time": 1770491715,
+      "rank": 6,
       "category": "体育"
     },
     {
@@ -227,6 +259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99977,
+      "num": 99977,
+      "word": "金博洋短节目",
+      "onboard_time": 1770491835,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 99091,
       "num": 99091,
       "word": "孙颖莎6比11陈熠",
@@ -241,6 +281,14 @@
       "onboard_time": 1770477978,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 90725,
+      "num": 90725,
+      "word": "花样滑冰团体赛",
+      "onboard_time": 1770491295,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 83711,
@@ -265,6 +313,14 @@
       "onboard_time": 1770471202,
       "rank": 34,
       "category": "美食"
+    },
+    {
+      "raw_hot": 78307,
+      "num": 78307,
+      "word": "单板大跳台好卷",
+      "onboard_time": 1770490515,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 72128,
@@ -313,6 +369,14 @@
       "onboard_time": 1770478940,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 60235,
+      "num": 60235,
+      "word": "金博洋84.15分",
+      "onboard_time": 1770492495,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 59231,
@@ -427,6 +491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 48156,
+      "num": 48156,
+      "word": "苏翊鸣 触雪",
+      "onboard_time": 1770491894,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 47603,
       "num": 69551,
       "word": "单依纯还你茉莉舞台",
@@ -483,6 +555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 33284,
+      "num": 33284,
+      "word": "苏翊鸣第二跳完成",
+      "onboard_time": 1770491715,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 28648,
       "num": 28648,
       "word": "苏翊鸣决赛首跳成功",
@@ -491,19 +571,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 28175,
-      "num": 28175,
-      "word": "单板大跳台好卷",
-      "onboard_time": 1770490515,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 25616,
       "num": 55724,
       "word": "跳台滑雪中国四朵金花出征",
       "onboard_time": 1770483677,
       "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 23813,
+      "num": 23813,
+      "word": "看苏翊鸣决赛不敢呼吸",
+      "onboard_time": 1770492375,
+      "rank": 33,
       "category": "体育"
     },
     {
@@ -523,11 +603,51 @@
       "category": "体育"
     },
     {
+      "raw_hot": 22645,
+      "num": 22645,
+      "word": "苏翊鸣第一跳88.25分",
+      "onboard_time": 1770491174,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 21373,
+      "num": 60058,
+      "word": "曾坪刘奇晋级跳台滑雪决赛",
+      "onboard_time": 1770489615,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 20845,
+      "num": 20845,
+      "word": "朴成训看花滑团体赛",
+      "onboard_time": 1770492016,
+      "rank": 44,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 20489,
       "num": 25542,
       "word": "2026年米兰科尔蒂纳冬奥会",
       "onboard_time": 1770489915,
       "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 19936,
+      "num": 19936,
+      "word": "金博洋短节目分数超预期",
+      "onboard_time": 1770492734,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 19736,
+      "num": 19736,
+      "word": "花滑大家族为金博洋加油",
+      "onboard_time": 1770492314,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -545,14 +665,6 @@
       "onboard_time": 1770490215,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 18196,
-      "num": 60058,
-      "word": "曾坪刘奇晋级跳台滑雪决赛",
-      "onboard_time": 1770489615,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 15745,

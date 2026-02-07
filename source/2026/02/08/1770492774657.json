@@ -1,0 +1,410 @@
+{
+  "runTime": 1770492774657,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 824977,
+        "num": 824977,
+        "word": "苏翊鸣决赛",
+        "onboard_time": 1770477140,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 301579,
+        "num": 301579,
+        "word": "苏翊鸣第一跳1980",
+        "onboard_time": 1770490095,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 11081,
+        "num": 297853,
+        "word": "中国元素绽放米兰冬奥舞台",
+        "onboard_time": 1770471022,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 295890,
+        "num": 295890,
+        "word": "苏翊鸣第二跳73.75分",
+        "onboard_time": 1770491535,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189741,
+        "num": 189741,
+        "word": "Bin",
+        "onboard_time": 1770492135,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 167140,
+        "num": 167140,
+        "word": "苏翊鸣暂列第二",
+        "onboard_time": 1770492135,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151488,
+        "num": 151488,
+        "word": "苏翊鸣教科书般的1980",
+        "onboard_time": 1770491715,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111992,
+        "num": 111992,
+        "word": "单板滑雪决赛",
+        "onboard_time": 1770484338,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99977,
+        "num": 99977,
+        "word": "金博洋短节目",
+        "onboard_time": 1770491835,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90725,
+        "num": 90725,
+        "word": "花样滑冰团体赛",
+        "onboard_time": 1770491295,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97591,
+        "num": 85305,
+        "word": "男子因1条评论杀害2人",
+        "onboard_time": 1770468741,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78307,
+        "num": 78307,
+        "word": "单板大跳台好卷",
+        "onboard_time": 1770490515,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 68421,
+        "num": 68421,
+        "word": "成何体统 癫剧",
+        "onboard_time": 1770473302,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 65864,
+        "num": 65864,
+        "word": "川大博导被举报83页材料公开",
+        "onboard_time": 1770477681,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60235,
+        "num": 60235,
+        "word": "金博洋84.15分",
+        "onboard_time": 1770492495,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 48156,
+        "num": 48156,
+        "word": "苏翊鸣 触雪",
+        "onboard_time": 1770491894,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 45529,
+        "num": 45529,
+        "word": "脚臭的人洗脚时建议加点盐",
+        "onboard_time": 1770472762,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 45463,
+        "num": 45463,
+        "word": "92岁老人集装箱离世留下19万存款",
+        "onboard_time": 1770475762,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45132,
+        "num": 45132,
+        "word": "谷爱凌第一滑摔倒",
+        "onboard_time": 1770457161,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 45050,
+        "num": 45050,
+        "word": "成何体统",
+        "onboard_time": 1770471443,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46758,
+        "num": 45034,
+        "word": "马伯骞回关虞书欣",
+        "onboard_time": 1770460100,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42890,
+        "num": 42890,
+        "word": "肖战讲述什么是美好",
+        "onboard_time": 1770480680,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38835,
+        "num": 38835,
+        "word": "演员立威廉已重新安排遗嘱",
+        "onboard_time": 1770454401,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35787,
+        "num": 35787,
+        "word": "天津首例不满16岁未成年人被行拘",
+        "onboard_time": 1770483318,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33284,
+        "num": 33284,
+        "word": "苏翊鸣第二跳完成",
+        "onboard_time": 1770491715,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32851,
+        "num": 32851,
+        "word": "白鹿 我选蒋奇明",
+        "onboard_time": 1770477322,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32511,
+        "num": 32511,
+        "word": "男子网购椅子竟多出15公斤银板",
+        "onboard_time": 1770472222,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31562,
+        "num": 31562,
+        "word": "芒果女主持上新了",
+        "onboard_time": 1770476482,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29898,
+        "num": 29898,
+        "word": "李煜东大舌头手势舞cha",
+        "onboard_time": 1770486017,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28750,
+        "num": 28750,
+        "word": "11年了大姐还在骂明台",
+        "onboard_time": 1770476541,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33841,
+        "num": 27896,
+        "word": "甲状腺是怎么一步一步失控的",
+        "onboard_time": 1770481400,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 26856,
+        "num": 26856,
+        "word": "米兰冬奥首金诞生",
+        "onboard_time": 1770467781,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24241,
+        "num": 24241,
+        "word": "山西朔州车间爆炸已致7人遇难",
+        "onboard_time": 1770480680,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23813,
+        "num": 23813,
+        "word": "看苏翊鸣决赛不敢呼吸",
+        "onboard_time": 1770492375,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22944,
+        "num": 22944,
+        "word": "苏翊鸣决赛首跳成功",
+        "onboard_time": 1770490395,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22645,
+        "num": 22645,
+        "word": "苏翊鸣第一跳88.25分",
+        "onboard_time": 1770491174,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22505,
+        "num": 22505,
+        "word": "乌克兰紧急求助波兰",
+        "onboard_time": 1770478940,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 21953,
+        "num": 21953,
+        "word": "泡泡玛特年会跳那么开心我也有责任",
+        "onboard_time": 1770480320,
+        "rank": 37,
+        "category": "民生新闻,休闲"
+      },
+      {
+        "raw_hot": 21921,
+        "num": 21921,
+        "word": "林诗栋惨遭逆转无缘4强",
+        "onboard_time": 1770474563,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21869,
+        "num": 21869,
+        "word": "成何体统 看哭了",
+        "onboard_time": 1770483621,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21638,
+        "num": 21638,
+        "word": "跳台滑雪",
+        "onboard_time": 1770484578,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21457,
+        "num": 21457,
+        "word": "教育局回应成绩单用星星显示",
+        "onboard_time": 1770467661,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21373,
+        "num": 21373,
+        "word": "曾坪刘奇晋级跳台滑雪决赛",
+        "onboard_time": 1770489615,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21356,
+        "num": 21356,
+        "word": "急上厕所在取纸机操作10分钟未果",
+        "onboard_time": 1770484638,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20845,
+        "num": 20845,
+        "word": "朴成训看花滑团体赛",
+        "onboard_time": 1770492016,
+        "rank": 44,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 20394,
+        "num": 20394,
+        "word": "官方通报教师用手背打学生脸",
+        "onboard_time": 1770477861,
+        "rank": 45,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 20128,
+        "num": 20128,
+        "word": "为什么很多餐馆都在提供免费柠檬水",
+        "onboard_time": 1770471202,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 20088,
+        "num": 20088,
+        "word": "白鹿穿高定录综艺",
+        "onboard_time": 1770478162,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19936,
+        "num": 19936,
+        "word": "金博洋短节目分数超预期",
+        "onboard_time": 1770492734,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19736,
+        "num": 19736,
+        "word": "花滑大家族为金博洋加油",
+        "onboard_time": 1770492314,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向全军老同志祝贺新春#"
+    }
+  }
+}
