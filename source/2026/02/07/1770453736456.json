@@ -1,0 +1,410 @@
+{
+  "runTime": 1770453736456,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 752197,
+        "num": 1120351,
+        "word": "千问",
+        "onboard_time": 1770428420,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 627753,
+        "num": 786676,
+        "word": "中国银行坚决拥护党中央决定",
+        "onboard_time": 1770449720,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 32134,
+        "num": 628855,
+        "word": "中国网络视听盛典",
+        "onboard_time": 1770429680,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 411691,
+        "num": 411691,
+        "word": "王楚然只贴三片黄瓜美成这样",
+        "onboard_time": 1770441981,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 357620,
+        "num": 357620,
+        "word": "政务窗口工作人员8年收好处费1614万",
+        "onboard_time": 1770443724,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1281532,
+        "num": 319749,
+        "word": "很火但难吃的水果",
+        "onboard_time": 1770448940,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 367826,
+        "num": 299306,
+        "word": "宋威龙赵今麦 马场二搭",
+        "onboard_time": 1770449899,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 268156,
+        "num": 268156,
+        "word": "谷爱凌备战期间意外重伤",
+        "onboard_time": 1770446962,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213222,
+        "num": 213222,
+        "word": "山姆道歉成常态",
+        "onboard_time": 1770448340,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30143,
+        "num": 213006,
+        "word": "一人一句为谷爱凌米兰加油",
+        "onboard_time": 1770452779,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 369396,
+        "num": 212794,
+        "word": "管乐道歉",
+        "onboard_time": 1770452959,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246746,
+        "num": 212550,
+        "word": "王昶右手老婆左手搭档",
+        "onboard_time": 1770446361,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 237741,
+        "num": 212392,
+        "word": "王玉雯 奶茶是给我的吗",
+        "onboard_time": 1770447501,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232442,
+        "num": 212222,
+        "word": "四川大学通报王竹卿相关问题",
+        "onboard_time": 1770444201,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18001,
+        "num": 212004,
+        "word": "余宇涵舞姿曼妙一分钱奶茶更想要",
+        "onboard_time": 1770451280,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222791,
+        "num": 211639,
+        "word": "鞠婧祎ins更新",
+        "onboard_time": 1770447921,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211547,
+        "num": 211547,
+        "word": "苏翊鸣奥运夺冠后胖到大叔身材",
+        "onboard_time": 1770439580,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201476,
+        "num": 201476,
+        "word": "日本强降雪已致45人死亡",
+        "onboard_time": 1770449959,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 190536,
+        "num": 190536,
+        "word": "京东001号快递员存款百万",
+        "onboard_time": 1770445581,
+        "rank": 18,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 11457,
+        "num": 189954,
+        "word": "同航班三个同款行李箱三箱主全拿错",
+        "onboard_time": 1770453320,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 330348,
+        "num": 188183,
+        "word": "GALA的腹肌",
+        "onboard_time": 1770450742,
+        "rank": 20,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 249153,
+        "num": 185953,
+        "word": "千问免单卡可以买年货",
+        "onboard_time": 1770448580,
+        "rank": 21,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 240108,
+        "num": 183660,
+        "word": "女子临终将婆婆300万养老钱送姐姐",
+        "onboard_time": 1770451883,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182401,
+        "num": 182401,
+        "word": "刘耀文看到黄子韬扇徐艺洋的反应",
+        "onboard_time": 1770449542,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199050,
+        "num": 181076,
+        "word": "西红柿拌白糖已经进化成这样了",
+        "onboard_time": 1770450799,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 173538,
+        "num": 173538,
+        "word": "云合",
+        "onboard_time": 1770452241,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170300,
+        "num": 170300,
+        "word": "惠英红要给张凌赫晋升位份",
+        "onboard_time": 1770445521,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150900,
+        "num": 150900,
+        "word": "王昶钱天一是00后",
+        "onboard_time": 1770450140,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141340,
+        "num": 141340,
+        "word": "亚乒联致歉",
+        "onboard_time": 1770449780,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84384,
+        "num": 140641,
+        "word": "挪威王储妃就涉爱泼斯坦案道歉",
+        "onboard_time": 1770452301,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 140597,
+        "num": 140597,
+        "word": "向佐说自己原生家庭有问题",
+        "onboard_time": 1770452959,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128220,
+        "num": 128220,
+        "word": "AG诸葛亮打野",
+        "onboard_time": 1770449542,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 127921,
+        "num": 127921,
+        "word": "微博之夜",
+        "onboard_time": 1770430460,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 127484,
+        "num": 127484,
+        "word": "gala生活照九宫格",
+        "onboard_time": 1770445042,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 126593,
+        "num": 126593,
+        "word": "范丞丞回应胖了",
+        "onboard_time": 1770451580,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121740,
+        "num": 121740,
+        "word": "女子独自带三娃赶火车丢了俩",
+        "onboard_time": 1770453079,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117724,
+        "num": 117724,
+        "word": "李楷灿cos桃黑黑",
+        "onboard_time": 1770452841,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59728,
+        "num": 109895,
+        "word": "卢昱晓说想出去走走拍神图",
+        "onboard_time": 1770452720,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106020,
+        "num": 106020,
+        "word": "29元蚌壳肉吃出粉色珍珠门店回应",
+        "onboard_time": 1770450261,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106896,
+        "num": 104541,
+        "word": "成何体统热度超了生命树太平年",
+        "onboard_time": 1770443842,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101987,
+        "num": 101987,
+        "word": "一个人在家千万不能太无聊",
+        "onboard_time": 1770450742,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 98789,
+        "num": 98789,
+        "word": "郎朗谈不再上综艺的原因",
+        "onboard_time": 1770445102,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98471,
+        "num": 98471,
+        "word": "四川大学已成立工作专班",
+        "onboard_time": 1770445223,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94302,
+        "num": 94302,
+        "word": "梁伟铿祝福王昶钱天一",
+        "onboard_time": 1770450980,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91524,
+        "num": 91524,
+        "word": "白鹿剧宣的神开始发力了",
+        "onboard_time": 1770449660,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89900,
+        "num": 89900,
+        "word": "美国将向联合国支付部分拖欠会费",
+        "onboard_time": 1770452119,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 87217,
+        "num": 87217,
+        "word": "大冰这个角度的观察太绝了",
+        "onboard_time": 1770453199,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 82173,
+        "num": 82173,
+        "word": "山姆品控危机引发退卡风波",
+        "onboard_time": 1770453620,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79940,
+        "num": 79940,
+        "word": "周也回应和孟子义热聊",
+        "onboard_time": 1770448401,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 78650,
+        "num": 78650,
+        "word": "爱泼斯坦装修家具很多购自佛山",
+        "onboard_time": 1770444201,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#回家过年阖家团圆#"
+    }
+  }
+}
