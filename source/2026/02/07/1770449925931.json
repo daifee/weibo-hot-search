@@ -1,0 +1,410 @@
+{
+  "runTime": 1770449925931,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 865787,
+        "num": 1138525,
+        "word": "千问",
+        "onboard_time": 1770428420,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 466045,
+        "num": 836391,
+        "word": "政务窗口工作人员8年收好处费1614万",
+        "onboard_time": 1770443724,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20313,
+        "num": 658541,
+        "word": "2026新春走基层",
+        "onboard_time": 1770437959,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 456825,
+        "num": 456825,
+        "word": "王楚然只贴三片黄瓜美成这样",
+        "onboard_time": 1770441981,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 378558,
+        "num": 378558,
+        "word": "谷爱凌备战期间意外重伤",
+        "onboard_time": 1770446962,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208256,
+        "num": 208256,
+        "word": "四川大学已成立工作专班",
+        "onboard_time": 1770445223,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187907,
+        "num": 187907,
+        "word": "成何体统热度超了生命树太平年",
+        "onboard_time": 1770443842,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128827,
+        "num": 128827,
+        "word": "泡泡玛特年会出圈",
+        "onboard_time": 1770443662,
+        "rank": 7,
+        "category": "民生新闻,休闲"
+      },
+      {
+        "raw_hot": 126250,
+        "num": 126250,
+        "word": "海航HU492已安全降落布鲁塞尔",
+        "onboard_time": 1770447204,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55667,
+        "num": 126084,
+        "word": "谷爱凌出发走着去比赛",
+        "onboard_time": 1770449000,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 5037285,
+        "num": 5037285,
+        "word": "王昶钱天一结婚",
+        "onboard_time": 1770441981,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 412121,
+        "num": 125793,
+        "word": "四川大学通报王竹卿相关问题",
+        "onboard_time": 1770444201,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 625528,
+        "num": 125518,
+        "word": "王昶右手老婆左手搭档",
+        "onboard_time": 1770446361,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 381135,
+        "num": 125350,
+        "word": "王玉雯 奶茶是给我的吗",
+        "onboard_time": 1770447501,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 342685,
+        "num": 125129,
+        "word": "微博之夜",
+        "onboard_time": 1770430460,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 256282,
+        "num": 125115,
+        "word": "gala生活照九宫格",
+        "onboard_time": 1770445042,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 257587,
+        "num": 124811,
+        "word": "郎朗谈不再上综艺的原因",
+        "onboard_time": 1770445102,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245478,
+        "num": 124696,
+        "word": "惠英红要给张凌赫晋升位份",
+        "onboard_time": 1770445521,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187982,
+        "num": 124372,
+        "word": "梁王",
+        "onboard_time": 1770443842,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 45349,
+        "num": 124351,
+        "word": "孙艺洲人生全是彩排",
+        "onboard_time": 1770447861,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287976,
+        "num": 124072,
+        "word": "千问免单卡可以买年货",
+        "onboard_time": 1770448580,
+        "rank": 20,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 213591,
+        "num": 123890,
+        "word": "鞠婧祎ins更新",
+        "onboard_time": 1770447921,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174084,
+        "num": 123660,
+        "word": "苏翊鸣奥运夺冠后胖到大叔身材",
+        "onboard_time": 1770439580,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147932,
+        "num": 123456,
+        "word": "京东001号快递员存款百万",
+        "onboard_time": 1770445581,
+        "rank": 23,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 126814,
+        "num": 123255,
+        "word": "爱泼斯坦装修家具很多购自佛山",
+        "onboard_time": 1770444201,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 123241,
+        "num": 123241,
+        "word": "周也回应和孟子义热聊",
+        "onboard_time": 1770448401,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 121489,
+        "num": 121489,
+        "word": "刘宇宁 结婚我给你们唱婚庆去",
+        "onboard_time": 1770446901,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120330,
+        "num": 120330,
+        "word": "VOGUE年会",
+        "onboard_time": 1770440119,
+        "rank": 27,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 117454,
+        "num": 117454,
+        "word": "山姆道歉成常态",
+        "onboard_time": 1770448340,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102101,
+        "num": 116464,
+        "word": "孙颖莎逆转赢了",
+        "onboard_time": 1770441440,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15253,
+        "num": 116396,
+        "word": "中国银行坚决拥护党中央决定",
+        "onboard_time": 1770449720,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 125774,
+        "num": 116394,
+        "word": "刘耀文看到黄子韬扇徐艺洋的反应",
+        "onboard_time": 1770449542,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116391,
+        "num": 116391,
+        "word": "范丞丞说近期生病身体弱得像林黛玉",
+        "onboard_time": 1770444863,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122471,
+        "num": 114088,
+        "word": "王昶说钱天一非常少女心",
+        "onboard_time": 1770445702,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116655,
+        "num": 113876,
+        "word": "很火但难吃的水果",
+        "onboard_time": 1770448940,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 110875,
+        "num": 110875,
+        "word": "王昶求婚梁伟铿递戒指",
+        "onboard_time": 1770449180,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109344,
+        "num": 109344,
+        "word": "AG诸葛亮打野",
+        "onboard_time": 1770449542,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 35688,
+        "num": 108010,
+        "word": "孟加拉国出现1例尼帕病毒感染病例",
+        "onboard_time": 1770448519,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 107059,
+        "num": 107059,
+        "word": "风雨张居正 恋与张居正",
+        "onboard_time": 1770448640,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 102688,
+        "num": 102688,
+        "word": "印度飞饼师傅凭什么认定为外籍专家",
+        "onboard_time": 1770438138,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73864,
+        "num": 97376,
+        "word": "宋威龙赵今麦 马场二搭",
+        "onboard_time": 1770449899,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96796,
+        "num": 96796,
+        "word": "肖战给工作人员看迷糊了",
+        "onboard_time": 1770430580,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 92005,
+        "num": 92005,
+        "word": "网友挽留倒闭火锅店房东霸气免租",
+        "onboard_time": 1770438080,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92338,
+        "num": 91358,
+        "word": "杨紫戏里嘴皮一动胡歌就发怵",
+        "onboard_time": 1770448401,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89707,
+        "num": 89707,
+        "word": "京东公开001号快递员的退休生活",
+        "onboard_time": 1770442460,
+        "rank": 44,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 88725,
+        "num": 88725,
+        "word": "成何体统",
+        "onboard_time": 1770390801,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88344,
+        "num": 88344,
+        "word": "白鹿剧宣的神开始发力了",
+        "onboard_time": 1770449660,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 81014,
+        "num": 81014,
+        "word": "职场中不要过度礼貌",
+        "onboard_time": 1770449180,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 82672,
+        "num": 80930,
+        "word": "肖战微博之夜定妆花絮",
+        "onboard_time": 1770432499,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 22446,
+        "num": 80842,
+        "word": "蔡明教年轻人用阿福应对催婚",
+        "onboard_time": 1770447861,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#回家过年阖家团圆#"
+    }
+  }
+}

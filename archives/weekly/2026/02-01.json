@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1770448145846,
+  "endTime": 1770449925931,
   "band_list": [
     {
       "raw_hot": 12386962,
@@ -1523,6 +1523,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 625528,
+      "num": 150392,
+      "word": "王昶右手老婆左手搭档",
+      "onboard_time": 1770446361,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 624421,
       "num": 215702,
       "word": "安德鲁在女性身上跪爬被拍",
@@ -1713,14 +1721,6 @@
       "onboard_time": 1770019641,
       "rank": 4,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 575611,
-      "num": 150392,
-      "word": "王昶右手老婆左手搭档",
-      "onboard_time": 1770446361,
-      "rank": 11,
-      "category": "体育"
     },
     {
       "raw_hot": 573810,
@@ -3059,6 +3059,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 381135,
+      "num": 134918,
+      "word": "王玉雯 奶茶是给我的吗",
+      "onboard_time": 1770447501,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 381072,
       "num": 381072,
       "word": "GEN对战HLE",
@@ -3081,6 +3089,14 @@
       "onboard_time": 1769942662,
       "rank": 33,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 378558,
+      "num": 378558,
+      "word": "谷爱凌备战期间意外重伤",
+      "onboard_time": 1770446962,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 377880,
@@ -4347,6 +4363,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 287976,
+      "num": 124072,
+      "word": "千问免单卡可以买年货",
+      "onboard_time": 1770448580,
+      "rank": 20,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 287580,
       "num": 135850,
       "word": "gala生活照九宫格",
@@ -5163,6 +5187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 245478,
+      "num": 149391,
+      "word": "惠英红要给张凌赫晋升位份",
+      "onboard_time": 1770445521,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 245044,
       "num": 348776,
       "word": "爷爷每年都给孙子买根金条当礼物",
@@ -5193,14 +5225,6 @@
       "onboard_time": 1770369681,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 243359,
-      "num": 149391,
-      "word": "惠英红要给张凌赫晋升位份",
-      "onboard_time": 1770445521,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 243067,
@@ -6491,6 +6515,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 187982,
+      "num": 148713,
+      "word": "梁王",
+      "onboard_time": 1770443842,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 187907,
+      "num": 187907,
+      "word": "成何体统热度超了生命树太平年",
+      "onboard_time": 1770443842,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 187602,
       "num": 180177,
       "word": "文淇加入东申未来",
@@ -6705,14 +6745,6 @@
       "onboard_time": 1770256939,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 180144,
-      "num": 134918,
-      "word": "王玉雯 奶茶是给我的吗",
-      "onboard_time": 1770447501,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 180013,
@@ -7147,14 +7179,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 165405,
-      "num": 165405,
-      "word": "谷爱凌备战期间意外重伤",
-      "onboard_time": 1770446962,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 165382,
       "num": 150006,
       "word": "黄子韬 你要退圈啊",
@@ -7361,14 +7385,6 @@
       "onboard_time": 1770275243,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 160448,
-      "num": 160448,
-      "word": "成何体统热度超了生命树太平年",
-      "onboard_time": 1770443842,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 160076,
@@ -7867,14 +7883,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 148713,
-      "num": 148713,
-      "word": "梁王",
-      "onboard_time": 1770443842,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 148678,
       "num": 100724,
       "word": "前妻回应比尔盖茨被曝隐瞒性病",
@@ -7937,6 +7945,14 @@
       "onboard_time": 1769950521,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 147932,
+      "num": 130719,
+      "word": "京东001号快递员存款百万",
+      "onboard_time": 1770445581,
+      "rank": 25,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 147603,
@@ -8121,14 +8137,6 @@
       "onboard_time": 1770419536,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 142704,
-      "num": 130719,
-      "word": "京东001号快递员存款百万",
-      "onboard_time": 1770445581,
-      "rank": 25,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 142596,
@@ -8676,7 +8684,7 @@
     },
     {
       "raw_hot": 134527,
-      "num": 107121,
+      "num": 114088,
       "word": "王昶说钱天一非常少女心",
       "onboard_time": 1770445702,
       "rank": 34,
@@ -9027,6 +9035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 128827,
+      "num": 128827,
+      "word": "泡泡玛特年会出圈",
+      "onboard_time": 1770443662,
+      "rank": 49,
+      "category": "民生新闻,休闲"
+    },
+    {
       "raw_hot": 128692,
       "num": 629527,
       "word": "2岁宝宝山东探亲1个月长高4厘米",
@@ -9115,6 +9131,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 126814,
+      "num": 123255,
+      "word": "爱泼斯坦装修家具很多购自佛山",
+      "onboard_time": 1770444201,
+      "rank": 42,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 126802,
       "num": 123604,
       "word": "荣耀之战 谁的扣子",
@@ -9179,6 +9203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 126250,
+      "num": 133183,
+      "word": "海航HU492已安全降落布鲁塞尔",
+      "onboard_time": 1770447204,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 126050,
       "num": 171741,
       "word": "微博喜爱二次元角色",
@@ -9201,6 +9233,14 @@
       "onboard_time": 1770116841,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 125774,
+      "num": 116394,
+      "word": "刘耀文看到黄子韬扇徐艺洋的反应",
+      "onboard_time": 1770449542,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 125748,
@@ -9257,14 +9297,6 @@
       "onboard_time": 1770336680,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 124559,
-      "num": 124559,
-      "word": "泡泡玛特年会出圈",
-      "onboard_time": 1770443662,
-      "rank": 49,
-      "category": "民生新闻,休闲"
     },
     {
       "raw_hot": 124303,
@@ -9377,6 +9409,14 @@
       "onboard_time": 1769912899,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 123241,
+      "num": 123241,
+      "word": "周也回应和孟子义热聊",
+      "onboard_time": 1770448401,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 123201,
@@ -9545,6 +9585,14 @@
       "onboard_time": 1770383301,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 121489,
+      "num": 121489,
+      "word": "刘宇宁 结婚我给你们唱婚庆去",
+      "onboard_time": 1770446901,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 121464,
@@ -9851,14 +9899,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 118312,
-      "num": 118312,
-      "word": "刘宇宁 结婚我给你们唱婚庆去",
-      "onboard_time": 1770446901,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 118277,
       "num": 118277,
       "word": "GEN战胜HLE",
@@ -9955,6 +9995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 117454,
+      "num": 117454,
+      "word": "山姆道歉成常态",
+      "onboard_time": 1770448340,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 117396,
       "num": 107862,
       "word": "丞磊 丈夫的美貌妻子的荣耀",
@@ -10017,6 +10065,14 @@
       "onboard_time": 1769999358,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 116655,
+      "num": 113876,
+      "word": "很火但难吃的水果",
+      "onboard_time": 1770448940,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 116638,
@@ -10499,6 +10555,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 110875,
+      "num": 110875,
+      "word": "王昶求婚梁伟铿递戒指",
+      "onboard_time": 1770449180,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 110682,
       "num": 110682,
       "word": "穆祉丞 谢谢你们",
@@ -10649,6 +10713,14 @@
       "onboard_time": 1770124581,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 109344,
+      "num": 109344,
+      "word": "AG诸葛亮打野",
+      "onboard_time": 1770449542,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 109227,
@@ -10841,6 +10913,14 @@
       "onboard_time": 1770110660,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 107059,
+      "num": 107059,
+      "word": "风雨张居正 恋与张居正",
+      "onboard_time": 1770448640,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 106966,
@@ -11651,14 +11731,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 100004,
-      "num": 102486,
-      "word": "爱泼斯坦装修家具很多购自佛山",
-      "onboard_time": 1770444201,
-      "rank": 42,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 99996,
       "num": 99996,
       "word": "朊病毒究竟是什么",
@@ -12275,14 +12347,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 94952,
-      "num": 133183,
-      "word": "海航HU492已安全降落布鲁塞尔",
-      "onboard_time": 1770447204,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 94909,
       "num": 94909,
       "word": "胡歌回应内娱艺人最爱追的星之一",
@@ -12601,6 +12665,14 @@
       "onboard_time": 1770157935,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 92338,
+      "num": 91358,
+      "word": "杨紫戏里嘴皮一动胡歌就发怵",
+      "onboard_time": 1770448401,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 92331,
@@ -13121,6 +13193,14 @@
       "onboard_time": 1769922141,
       "rank": 47,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 88344,
+      "num": 88344,
+      "word": "白鹿剧宣的神开始发力了",
+      "onboard_time": 1770449660,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 88269,
@@ -14155,6 +14235,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 81014,
+      "num": 81014,
+      "word": "职场中不要过度礼貌",
+      "onboard_time": 1770449180,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 80938,
       "num": 80938,
       "word": "孙颖莎与队友开心聊天",
@@ -14857,6 +14945,14 @@
       "onboard_time": 1770216623,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 73864,
+      "num": 97376,
+      "word": "宋威龙赵今麦 马场二搭",
+      "onboard_time": 1770449899,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 73804,
@@ -15995,6 +16091,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 55667,
+      "num": 126084,
+      "word": "谷爱凌出发走着去比赛",
+      "onboard_time": 1770449000,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 55246,
       "num": 55324,
       "word": "家委会收每生263元家长报警",
@@ -16611,6 +16715,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 45349,
+      "num": 134018,
+      "word": "孙艺洲人生全是彩排",
+      "onboard_time": 1770447861,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 45117,
       "num": 301088,
       "word": "唐嫣开年上演互换人生",
@@ -17193,6 +17305,14 @@
       "onboard_time": 1769920279,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 35688,
+      "num": 108010,
+      "word": "孟加拉国出现1例尼帕病毒感染病例",
+      "onboard_time": 1770448519,
+      "rank": 37,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 35630,
@@ -18243,6 +18363,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 22446,
+      "num": 83152,
+      "word": "蔡明教年轻人用阿福应对催婚",
+      "onboard_time": 1770447861,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 22429,
       "num": 51765,
       "word": "澳男子涉嫌虐待459名儿童",
@@ -18272,14 +18400,6 @@
       "word": "江衡李沛恩雪景合照",
       "onboard_time": 1770141075,
       "rank": 48,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 21905,
-      "num": 83152,
-      "word": "蔡明教年轻人用阿福应对催婚",
-      "onboard_time": 1770447861,
-      "rank": 46,
       "category": "艺人"
     },
     {
@@ -18963,20 +19083,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 15253,
+      "num": 116396,
+      "word": "中国银行坚决拥护党中央决定",
+      "onboard_time": 1770449720,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 15228,
       "num": 146460,
       "word": "回看中国冬奥军团夺金之路",
       "onboard_time": 1770396440,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 15117,
-      "num": 134018,
-      "word": "孙艺洲人生全是彩排",
-      "onboard_time": 1770447861,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 14820,
