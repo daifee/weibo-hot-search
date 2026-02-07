@@ -1,0 +1,410 @@
+{
+  "runTime": 1770450771644,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 820311,
+        "num": 1131249,
+        "word": "千问",
+        "onboard_time": 1770428420,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 422311,
+        "num": 830108,
+        "word": "政务窗口工作人员8年收好处费1614万",
+        "onboard_time": 1770443724,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21971,
+        "num": 655602,
+        "word": "中国网络视听盛典",
+        "onboard_time": 1770429680,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 472709,
+        "num": 472709,
+        "word": "王楚然只贴三片黄瓜美成这样",
+        "onboard_time": 1770441981,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 343653,
+        "num": 343653,
+        "word": "谷爱凌备战期间意外重伤",
+        "onboard_time": 1770446962,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206942,
+        "num": 206942,
+        "word": "宋威龙赵今麦 马场二搭",
+        "onboard_time": 1770449899,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177732,
+        "num": 177732,
+        "word": "山姆道歉成常态",
+        "onboard_time": 1770448340,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177444,
+        "num": 177444,
+        "word": "很火但难吃的水果",
+        "onboard_time": 1770448940,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 190010,
+        "num": 176838,
+        "word": "四川大学已成立工作专班",
+        "onboard_time": 1770445223,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159258,
+        "num": 159258,
+        "word": "成何体统热度超了生命树太平年",
+        "onboard_time": 1770443842,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 3639773,
+        "num": 156796,
+        "word": "王昶钱天一结婚",
+        "onboard_time": 1770441981,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 798483,
+        "num": 152477,
+        "word": "微博之夜声明",
+        "onboard_time": 1770450379,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 615398,
+        "num": 151463,
+        "word": "王昶右手老婆左手搭档",
+        "onboard_time": 1770446361,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 420216,
+        "num": 147319,
+        "word": "王玉雯 奶茶是给我的吗",
+        "onboard_time": 1770447501,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78413,
+        "num": 141742,
+        "word": "支付宝把购物袋玩成嘴替",
+        "onboard_time": 1770450021,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 379592,
+        "num": 140356,
+        "word": "四川大学通报王竹卿相关问题",
+        "onboard_time": 1770444201,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137994,
+        "num": 137994,
+        "word": "中国银行坚决拥护党中央决定",
+        "onboard_time": 1770449720,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 49443,
+        "num": 137642,
+        "word": "孙艺洲人生全是彩排",
+        "onboard_time": 1770447861,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60324,
+        "num": 137308,
+        "word": "29元蚌壳肉吃出粉色珍珠门店回应",
+        "onboard_time": 1770450261,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 369774,
+        "num": 136641,
+        "word": "微博之夜",
+        "onboard_time": 1770430460,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 187431,
+        "num": 136210,
+        "word": "刘耀文看到黄子韬扇徐艺洋的反应",
+        "onboard_time": 1770449542,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272529,
+        "num": 135551,
+        "word": "千问免单卡可以买年货",
+        "onboard_time": 1770448580,
+        "rank": 21,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 251321,
+        "num": 134813,
+        "word": "gala生活照九宫格",
+        "onboard_time": 1770445042,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 246524,
+        "num": 134226,
+        "word": "京东001号快递员存款百万",
+        "onboard_time": 1770445581,
+        "rank": 23,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 60832,
+        "num": 133705,
+        "word": "谷爱凌出发走着去比赛",
+        "onboard_time": 1770449000,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 232197,
+        "num": 133413,
+        "word": "惠英红要给张凌赫晋升位份",
+        "onboard_time": 1770445521,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230583,
+        "num": 133105,
+        "word": "GALA的腹肌",
+        "onboard_time": 1770450742,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 132583,
+        "num": 132583,
+        "word": "梁王",
+        "onboard_time": 1770443842,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86523,
+        "num": 132279,
+        "word": "孙颖莎逆转赢了",
+        "onboard_time": 1770441440,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 79774,
+        "num": 131741,
+        "word": "山西一车间爆炸5人遇难",
+        "onboard_time": 1770449660,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219683,
+        "num": 131324,
+        "word": "鞠婧祎ins更新",
+        "onboard_time": 1770447921,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213444,
+        "num": 130948,
+        "word": "郎朗谈不再上综艺的原因",
+        "onboard_time": 1770445102,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163039,
+        "num": 130553,
+        "word": "苏翊鸣奥运夺冠后胖到大叔身材",
+        "onboard_time": 1770439580,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151935,
+        "num": 129793,
+        "word": "王昶求婚梁伟铿递戒指",
+        "onboard_time": 1770449180,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139386,
+        "num": 129558,
+        "word": "王昶钱天一是00后",
+        "onboard_time": 1770450140,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129122,
+        "num": 129122,
+        "word": "海航HU492已安全降落布鲁塞尔",
+        "onboard_time": 1770447204,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124768,
+        "num": 124768,
+        "word": "AG诸葛亮打野",
+        "onboard_time": 1770449542,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 119081,
+        "num": 119081,
+        "word": "VOGUE年会",
+        "onboard_time": 1770440119,
+        "rank": 37,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 118770,
+        "num": 118770,
+        "word": "爱泼斯坦装修家具很多购自佛山",
+        "onboard_time": 1770444201,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 9498,
+        "num": 117026,
+        "word": "妻子失联6小时老伴报警才知在烫头",
+        "onboard_time": 1770450561,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115994,
+        "num": 116737,
+        "word": "王昶说钱天一非常少女心",
+        "onboard_time": 1770445702,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113211,
+        "num": 116727,
+        "word": "刘宇宁 结婚我给你们唱婚庆去",
+        "onboard_time": 1770446901,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116726,
+        "num": 116726,
+        "word": "周也回应和孟子义热聊",
+        "onboard_time": 1770448401,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 109341,
+        "num": 109341,
+        "word": "日本强降雪已致45人死亡",
+        "onboard_time": 1770449959,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 114869,
+        "num": 108973,
+        "word": "白鹿剧宣的神开始发力了",
+        "onboard_time": 1770449660,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107826,
+        "num": 107826,
+        "word": "泡泡玛特年会出圈",
+        "onboard_time": 1770443662,
+        "rank": 45,
+        "category": "民生新闻,休闲"
+      },
+      {
+        "raw_hot": 102706,
+        "num": 102706,
+        "word": "一个人在家千万不能太无聊",
+        "onboard_time": 1770450742,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 99993,
+        "num": 99993,
+        "word": "亚乒联致歉",
+        "onboard_time": 1770449780,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90868,
+        "num": 90868,
+        "word": "网友挽留倒闭火锅店房东霸气免租",
+        "onboard_time": 1770438080,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84337,
+        "num": 84337,
+        "word": "范丞丞说近期生病身体弱得像林黛玉",
+        "onboard_time": 1770444863,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#回家过年阖家团圆#"
+    }
+  }
+}
