@@ -1,7 +1,15 @@
 {
   "startTime": 1770393849547,
-  "endTime": 1770440026067,
+  "endTime": 1770443437823,
   "band_list": [
+    {
+      "raw_hot": 8211993,
+      "num": 8211993,
+      "word": "王昶钱天一结婚",
+      "onboard_time": 1770441981,
+      "rank": 3,
+      "category": "体育"
+    },
     {
       "raw_hot": 1858016,
       "num": 1858016,
@@ -51,6 +59,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 587926,
+      "num": 173904,
+      "word": "苏翊鸣奥运夺冠后胖到大叔身材",
+      "onboard_time": 1770439580,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 579890,
+      "num": 1311218,
+      "word": "网友挽留倒闭火锅店房东霸气免租",
+      "onboard_time": 1770438080,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 521722,
       "num": 521722,
       "word": "Bin 我依然是世一上",
@@ -91,6 +115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 484136,
+      "num": 484136,
+      "word": "王楚然只贴三片黄瓜美成这样",
+      "onboard_time": 1770441981,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 474992,
       "num": 729465,
       "word": "王楚钦尊重国家队的安排",
@@ -123,12 +155,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 434375,
+      "num": 154349,
+      "word": "男子轮奸幼女强迫卖淫被执行死刑",
+      "onboard_time": 1770440300,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 416915,
+      "num": 173413,
+      "word": "黄子韬当众扇徐艺洋巴掌",
+      "onboard_time": 1770442761,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 412505,
       "num": 99764,
       "word": "20岁黄多多好漂亮",
       "onboard_time": 1770372801,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 401700,
+      "num": 169201,
+      "word": "VOGUE年会",
+      "onboard_time": 1770440119,
+      "rank": 12,
+      "category": "时尚"
     },
     {
       "raw_hot": 377205,
@@ -243,6 +299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 277888,
+      "num": 277888,
+      "word": "局长收370元礼品被免职",
+      "onboard_time": 1770440419,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 275639,
       "num": 275639,
       "word": "91岁老人900万积蓄遭儿子儿媳挪用",
@@ -264,6 +328,14 @@
       "word": "男子两年强奸10名未成年少女",
       "onboard_time": 1770431120,
       "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 255972,
+      "num": 255972,
+      "word": "脚底藏毒太味被闻出",
+      "onboard_time": 1770439461,
+      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -321,6 +393,14 @@
       "onboard_time": 1770390082,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 235361,
+      "num": 164638,
+      "word": "张凌赫不满足当惠英红的18号宝贝",
+      "onboard_time": 1770441079,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 219632,
@@ -483,6 +563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 158493,
+      "num": 158493,
+      "word": "孙颖莎逆转赢了",
+      "onboard_time": 1770441440,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 158367,
       "num": 158367,
       "word": "网红战痘神药副作用竟影响性功能",
@@ -507,19 +595,19 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 153965,
+      "num": 153965,
+      "word": "权志龙跳刀马刀马",
+      "onboard_time": 1770436581,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 153872,
       "num": 76852,
       "word": "王玉雯进不了组也不要怪我",
       "onboard_time": 1770432920,
       "rank": 45,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 153543,
-      "num": 153543,
-      "word": "权志龙跳刀马刀马",
-      "onboard_time": 1770436581,
-      "rank": 27,
       "category": "艺人"
     },
     {
@@ -563,6 +651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139038,
+      "num": 121916,
+      "word": "京东公开001号快递员的退休生活",
+      "onboard_time": 1770442460,
+      "rank": 31,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 139037,
       "num": 139037,
       "word": "肖战捎来春天",
@@ -595,12 +691,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 135492,
-      "num": 124148,
-      "word": "苏翊鸣奥运夺冠后胖到大叔身材",
-      "onboard_time": 1770439580,
-      "rank": 31,
-      "category": "体育"
+      "raw_hot": 134120,
+      "num": 134120,
+      "word": "扬大白血病女孩基因检测结果出炉",
+      "onboard_time": 1770440538,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 133117,
@@ -617,14 +713,6 @@
       "onboard_time": 1770408434,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 125391,
-      "num": 125391,
-      "word": "网友挽留倒闭火锅店房东霸气免租",
-      "onboard_time": 1770438080,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 123392,
@@ -649,6 +737,14 @@
       "onboard_time": 1770439281,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 119727,
+      "num": 119727,
+      "word": "微博之夜",
+      "onboard_time": 1770430460,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 118733,
@@ -683,6 +779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110046,
+      "num": 110046,
+      "word": "李一桐说很喜欢TOP",
+      "onboard_time": 1770440602,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 107831,
       "num": 107831,
       "word": "最强大脑最无解的题目出现了",
@@ -696,14 +800,6 @@
       "word": "女子室外上雾化透明厕所",
       "onboard_time": 1770385099,
       "rank": 17,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 105709,
-      "num": 199265,
-      "word": "脚底藏毒太味被闻出",
-      "onboard_time": 1770439461,
-      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -729,14 +825,6 @@
       "onboard_time": 1770420738,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 99067,
-      "num": 99067,
-      "word": "微博之夜",
-      "onboard_time": 1770430460,
-      "rank": 47,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 97764,
@@ -777,6 +865,14 @@
       "onboard_time": 1770437119,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 95735,
+      "num": 95735,
+      "word": "王昶求婚戒指选了很久",
+      "onboard_time": 1770442942,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 95621,
@@ -841,6 +937,14 @@
       "onboard_time": 1770389424,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 91505,
+      "num": 91505,
+      "word": "张凌赫 我就是要做最厉害的",
+      "onboard_time": 1770440660,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 90982,
@@ -939,6 +1043,14 @@
       "category": "美食,互联网"
     },
     {
+      "raw_hot": 85716,
+      "num": 85716,
+      "word": "长期主义已经卷到饮食上了",
+      "onboard_time": 1770443302,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 85520,
       "num": 85520,
       "word": "感觉人生被卡住时试着做这4件事",
@@ -953,6 +1065,14 @@
       "onboard_time": 1770438800,
       "rank": 47,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 85139,
+      "num": 128337,
+      "word": "老人被骗光40余万花50元悬赏",
+      "onboard_time": 1770443122,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 84386,
@@ -979,6 +1099,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 82237,
+      "num": 82237,
+      "word": "SMTOWN30周年演唱会幕后合影",
+      "onboard_time": 1770440241,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 82196,
+      "num": 82196,
+      "word": "朵莉亚马限皮肤龟兹壁画",
+      "onboard_time": 1770443122,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 82046,
       "num": 100136,
       "word": "美国对与伊朗有贸易往来国家加征关税",
@@ -993,6 +1129,14 @@
       "onboard_time": 1770428600,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 81618,
+      "num": 81618,
+      "word": "其实大部分人都没有独居过",
+      "onboard_time": 1770442221,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 81303,
@@ -1035,6 +1179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 79621,
+      "num": 127487,
+      "word": "第一批千问万元生活卡锦鲤已出现",
+      "onboard_time": 1770440720,
+      "rank": 28,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 79119,
       "num": 79119,
       "word": "生命树",
@@ -1049,6 +1201,14 @@
       "onboard_time": 1770432741,
       "rank": 41,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 78251,
+      "num": 78251,
+      "word": "时代峰峻 马场半壁江山",
+      "onboard_time": 1770442099,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 77118,
@@ -1243,6 +1403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 47307,
+      "num": 155565,
+      "word": "女子买房被物业要求承担前房主欠费",
+      "onboard_time": 1770442881,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46008,
       "num": 47729,
       "word": "刘少昂好帅",
@@ -1272,6 +1440,14 @@
       "word": "谷爱凌第2顺位出场",
       "onboard_time": 1770432920,
       "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 43321,
+      "num": 156913,
+      "word": "苏翊鸣接住开幕式最美雪花",
+      "onboard_time": 1770440720,
+      "rank": 17,
       "category": "体育"
     },
     {
@@ -1371,6 +1547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 31776,
+      "num": 155896,
+      "word": "开幕式前方高萌",
+      "onboard_time": 1770440720,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 29258,
       "num": 29258,
       "word": "米兰羽绒服时装周",
@@ -1412,7 +1596,7 @@
     },
     {
       "raw_hot": 26707,
-      "num": 773084,
+      "num": 1183676,
       "word": "2026新春走基层",
       "onboard_time": 1770437959,
       "rank": 2,
@@ -1585,6 +1769,14 @@
       "onboard_time": 1770387800,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10601,
+      "num": 159082,
+      "word": "喵娲娲下次能不能带我追邓为",
+      "onboard_time": 1770441741,
+      "rank": 14,
+      "category": "作品衍生"
     }
   ],
   "hotgov_list": [

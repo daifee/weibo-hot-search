@@ -1,0 +1,410 @@
+{
+  "runTime": 1770443437823,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1361252,
+        "num": 1361252,
+        "word": "千问",
+        "onboard_time": 1770428420,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 579890,
+        "num": 1311218,
+        "word": "网友挽留倒闭火锅店房东霸气免租",
+        "onboard_time": 1770438080,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24075,
+        "num": 1183676,
+        "word": "2026新春走基层",
+        "onboard_time": 1770437959,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 8211993,
+        "num": 8211993,
+        "word": "王昶钱天一结婚",
+        "onboard_time": 1770441981,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 484136,
+        "num": 484136,
+        "word": "王楚然只贴三片黄瓜美成这样",
+        "onboard_time": 1770441981,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 291817,
+        "num": 291817,
+        "word": "印度飞饼师傅凭什么认定为外籍专家",
+        "onboard_time": 1770438138,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 277888,
+        "num": 277888,
+        "word": "局长收370元礼品被免职",
+        "onboard_time": 1770440419,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 255972,
+        "num": 255972,
+        "word": "脚底藏毒太味被闻出",
+        "onboard_time": 1770439461,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187001,
+        "num": 187001,
+        "word": "有奶茶店员称订单密度超外卖大战",
+        "onboard_time": 1770435739,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177721,
+        "num": 177721,
+        "word": "吴京回应唇部紧急护理",
+        "onboard_time": 1770429319,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 587926,
+        "num": 173904,
+        "word": "苏翊鸣奥运夺冠后胖到大叔身材",
+        "onboard_time": 1770439580,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 416915,
+        "num": 173413,
+        "word": "黄子韬当众扇徐艺洋巴掌",
+        "onboard_time": 1770442761,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 401700,
+        "num": 169201,
+        "word": "VOGUE年会",
+        "onboard_time": 1770440119,
+        "rank": 12,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 235361,
+        "num": 164638,
+        "word": "张凌赫不满足当惠英红的18号宝贝",
+        "onboard_time": 1770441079,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 10601,
+        "num": 159082,
+        "word": "喵娲娲下次能不能带我追邓为",
+        "onboard_time": 1770441741,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 158493,
+        "num": 158493,
+        "word": "孙颖莎逆转赢了",
+        "onboard_time": 1770441440,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182346,
+        "num": 158419,
+        "word": "肖战给工作人员看迷糊了",
+        "onboard_time": 1770430580,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 43321,
+        "num": 156913,
+        "word": "苏翊鸣接住开幕式最美雪花",
+        "onboard_time": 1770440720,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31776,
+        "num": 155896,
+        "word": "开幕式前方高萌",
+        "onboard_time": 1770440720,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 47307,
+        "num": 155565,
+        "word": "女子买房被物业要求承担前房主欠费",
+        "onboard_time": 1770442881,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 434375,
+        "num": 154349,
+        "word": "男子轮奸幼女强迫卖淫被执行死刑",
+        "onboard_time": 1770440300,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153965,
+        "num": 153965,
+        "word": "权志龙跳刀马刀马",
+        "onboard_time": 1770436581,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153627,
+        "num": 153627,
+        "word": "第一次见到怀孕的耙耙柑",
+        "onboard_time": 1770435439,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 151716,
+        "num": 151716,
+        "word": "丞磊说和王楚然一对视就笑",
+        "onboard_time": 1770438620,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141408,
+        "num": 141408,
+        "word": "金银价飙升米兰冬奥金牌史上最贵",
+        "onboard_time": 1770428359,
+        "rank": 24,
+        "category": "体育,财经"
+      },
+      {
+        "raw_hot": 134120,
+        "num": 134120,
+        "word": "扬大白血病女孩基因检测结果出炉",
+        "onboard_time": 1770440538,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149771,
+        "num": 132710,
+        "word": "成何体统",
+        "onboard_time": 1770390801,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85139,
+        "num": 128337,
+        "word": "老人被骗光40余万花50元悬赏",
+        "onboard_time": 1770443122,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79621,
+        "num": 127487,
+        "word": "第一批千问万元生活卡锦鲤已出现",
+        "onboard_time": 1770440720,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 127111,
+        "num": 127111,
+        "word": "偶遇exo上海吃火锅",
+        "onboard_time": 1770430759,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76604,
+        "num": 122191,
+        "word": "海口致3死1伤男子畏罪自杀身亡",
+        "onboard_time": 1770421879,
+        "rank": 30,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 139038,
+        "num": 121916,
+        "word": "京东公开001号快递员的退休生活",
+        "onboard_time": 1770442460,
+        "rank": 31,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 120608,
+        "num": 120608,
+        "word": "苏翊鸣回应奥运夺冠后飘了",
+        "onboard_time": 1770433819,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119727,
+        "num": 119727,
+        "word": "微博之夜",
+        "onboard_time": 1770430460,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 110046,
+        "num": 110046,
+        "word": "李一桐说很喜欢TOP",
+        "onboard_time": 1770440602,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 100860,
+        "num": 100860,
+        "word": "妈妈无语了半个小时才说明真相",
+        "onboard_time": 1770438499,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 100442,
+        "num": 100442,
+        "word": "陈冠希以为碰到一群迷妹",
+        "onboard_time": 1770431360,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95735,
+        "num": 95735,
+        "word": "王昶求婚戒指选了很久",
+        "onboard_time": 1770442942,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93133,
+        "num": 93133,
+        "word": "肖战微博之夜定妆花絮",
+        "onboard_time": 1770432499,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 91505,
+        "num": 91505,
+        "word": "张凌赫 我就是要做最厉害的",
+        "onboard_time": 1770440660,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86771,
+        "num": 86771,
+        "word": "冬奥会开幕式",
+        "onboard_time": 1770403755,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89185,
+        "num": 86259,
+        "word": "小李子女友开幕式交接国旗",
+        "onboard_time": 1770429440,
+        "rank": 41,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 87139,
+        "num": 86003,
+        "word": "成何体统上了韩网热帖",
+        "onboard_time": 1770421157,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85716,
+        "num": 85716,
+        "word": "长期主义已经卷到饮食上了",
+        "onboard_time": 1770443302,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 84992,
+        "num": 84992,
+        "word": "千问可以点盒马了",
+        "onboard_time": 1770435801,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 82237,
+        "num": 82237,
+        "word": "SMTOWN30周年演唱会幕后合影",
+        "onboard_time": 1770440241,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82196,
+        "num": 82196,
+        "word": "朵莉亚马限皮肤龟兹壁画",
+        "onboard_time": 1770443122,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 81618,
+        "num": 81618,
+        "word": "其实大部分人都没有独居过",
+        "onboard_time": 1770442221,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 78251,
+        "num": 78251,
+        "word": "时代峰峻 马场半壁江山",
+        "onboard_time": 1770442099,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 78180,
+        "num": 78180,
+        "word": "昭阳公主",
+        "onboard_time": 1770429919,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#回家过年阖家团圆#"
+    }
+  }
+}
