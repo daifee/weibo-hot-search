@@ -1,0 +1,410 @@
+{
+  "runTime": 1770478479511,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 945335,
+        "num": 1151253,
+        "word": "成何体统 癫剧",
+        "onboard_time": 1770473302,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 691036,
+        "num": 836671,
+        "word": "教育局回应成绩单用星星显示",
+        "onboard_time": 1770467661,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29542,
+        "num": 643598,
+        "word": "中国元素绽放米兰冬奥舞台",
+        "onboard_time": 1770471022,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 407772,
+        "num": 407772,
+        "word": "男子网购椅子竟多出15公斤银板",
+        "onboard_time": 1770472222,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 381021,
+        "num": 381021,
+        "word": "11年了大姐还在骂明台",
+        "onboard_time": 1770476541,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 357736,
+        "num": 357736,
+        "word": "林诗栋惨遭逆转无缘4强",
+        "onboard_time": 1770474563,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 307111,
+        "num": 307111,
+        "word": "生命树张扬去世",
+        "onboard_time": 1770470241,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 305403,
+        "num": 305403,
+        "word": "92岁老人集装箱离世留下19万存款",
+        "onboard_time": 1770475762,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 273268,
+        "num": 273268,
+        "word": "苏翊鸣决赛",
+        "onboard_time": 1770477140,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 253970,
+        "num": 253970,
+        "word": "六个合法查询网站帮你看清一个人",
+        "onboard_time": 1770464241,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 740003,
+        "num": 251117,
+        "word": "男子因1条评论杀害2人",
+        "onboard_time": 1770468741,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 287562,
+        "num": 249111,
+        "word": "成何体统",
+        "onboard_time": 1770471443,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 239358,
+        "num": 239358,
+        "word": "王楚钦7比11周启豪",
+        "onboard_time": 1770474742,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 220313,
+        "num": 220313,
+        "word": "谷爱凌第一滑摔倒",
+        "onboard_time": 1770457161,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 42029,
+        "num": 218009,
+        "word": "王嘉尔刘雨昕MMAM舞台国际水准",
+        "onboard_time": 1770476482,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 217810,
+        "num": 217810,
+        "word": "山姆你还续卡吗",
+        "onboard_time": 1770460761,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212147,
+        "num": 212147,
+        "word": "脚臭的人洗脚时建议加点盐",
+        "onboard_time": 1770472762,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 181685,
+        "num": 181685,
+        "word": "因上菜慢辱骂服务员老太太拒道歉",
+        "onboard_time": 1770471803,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164464,
+        "num": 164464,
+        "word": "立威廉得知恶耗时才49岁",
+        "onboard_time": 1770468741,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23939,
+        "num": 157683,
+        "word": "川大博导被举报83页材料公开",
+        "onboard_time": 1770477681,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 264053,
+        "num": 157589,
+        "word": "马伯骞回关虞书欣",
+        "onboard_time": 1770460100,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157435,
+        "num": 157435,
+        "word": "白鹿 我选蒋奇明",
+        "onboard_time": 1770477322,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131238,
+        "num": 131238,
+        "word": "日本在菲律宾培植代理人挑衅中国",
+        "onboard_time": 1770475701,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 452110,
+        "num": 131204,
+        "word": "演员立威廉已重新安排遗嘱",
+        "onboard_time": 1770454401,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144862,
+        "num": 131069,
+        "word": "芒果女主持上新了",
+        "onboard_time": 1770476482,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128651,
+        "num": 128651,
+        "word": "米兰冬奥首金诞生",
+        "onboard_time": 1770467781,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135875,
+        "num": 128100,
+        "word": "肖战再次拿下奢牌新季首秀",
+        "onboard_time": 1770470961,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135264,
+        "num": 127244,
+        "word": "肖战网络视听出图",
+        "onboard_time": 1770465981,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122102,
+        "num": 122102,
+        "word": "林诗栋vs户上隼辅",
+        "onboard_time": 1770474203,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132086,
+        "num": 122057,
+        "word": "王楚然演技",
+        "onboard_time": 1770470301,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120497,
+        "num": 120497,
+        "word": "王濛冠军的含金量还在上升",
+        "onboard_time": 1770473422,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119494,
+        "num": 119494,
+        "word": "孙颖莎6比11陈熠",
+        "onboard_time": 1770476362,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118512,
+        "num": 118512,
+        "word": "Jennie一开口就把我钓到了",
+        "onboard_time": 1770477978,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116122,
+        "num": 116122,
+        "word": "为什么很多餐馆都在提供免费柠檬水",
+        "onboard_time": 1770471202,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 106419,
+        "num": 106419,
+        "word": "黄明昊演唱会嘉宾马思纯",
+        "onboard_time": 1770472582,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 105925,
+        "num": 105925,
+        "word": "白鹿穿高定录综艺",
+        "onboard_time": 1770478162,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102016,
+        "num": 102016,
+        "word": "谷爱凌第二轮75.30分",
+        "onboard_time": 1770463521,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105140,
+        "num": 101549,
+        "word": "这是爱豆那谁是吴磊",
+        "onboard_time": 1770475222,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100222,
+        "num": 100222,
+        "word": "苏翊鸣巅峰对决",
+        "onboard_time": 1770474381,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16489,
+        "num": 97557,
+        "word": "2法国小伙耗时500天徒步抵达上海",
+        "onboard_time": 1770477681,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95886,
+        "num": 95886,
+        "word": "50天赚10万买奔驰黑茶骗局被曝光",
+        "onboard_time": 1770475463,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94196,
+        "num": 94196,
+        "word": "aespa香港演唱会",
+        "onboard_time": 1770475824,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 92505,
+        "num": 92505,
+        "word": "男子快递收到30斤银砖果断报警",
+        "onboard_time": 1770475643,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91575,
+        "num": 91575,
+        "word": "华晨宇 本命年和本命人一起过",
+        "onboard_time": 1770456321,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 90098,
+        "num": 90098,
+        "word": "谷爱凌身边的东北甜妹是谁",
+        "onboard_time": 1770476061,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84515,
+        "num": 84515,
+        "word": "你好星期六下期好六街春节联欢会",
+        "onboard_time": 1770478102,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81936,
+        "num": 81936,
+        "word": "白鹿王星越连续4年拍同样的照片",
+        "onboard_time": 1770472641,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78219,
+        "num": 81264,
+        "word": "官方通报教师用手背打学生脸",
+        "onboard_time": 1770477861,
+        "rank": 47,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 81033,
+        "num": 81033,
+        "word": "陈天润见面会",
+        "onboard_time": 1770478401,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 79593,
+        "num": 79593,
+        "word": "程潇真的拥有芭比的容貌和人生",
+        "onboard_time": 1770460041,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向全军老同志祝贺新春#"
+    }
+  }
+}
