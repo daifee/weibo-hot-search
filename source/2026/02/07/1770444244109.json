@@ -1,0 +1,410 @@
+{
+  "runTime": 1770444244109,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 925477,
+        "num": 2853494,
+        "word": "千问",
+        "onboard_time": 1770428420,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 424266,
+        "num": 2059457,
+        "word": "网友挽留倒闭火锅店房东霸气免租",
+        "onboard_time": 1770438080,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19311,
+        "num": 1667160,
+        "word": "2026新春走基层",
+        "onboard_time": 1770437959,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12386962,
+        "num": 12386962,
+        "word": "王昶钱天一结婚",
+        "onboard_time": 1770441981,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 511453,
+        "num": 511453,
+        "word": "王楚然只贴三片黄瓜美成这样",
+        "onboard_time": 1770441981,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 255172,
+        "num": 255172,
+        "word": "局长收370元礼品被免职",
+        "onboard_time": 1770440419,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218315,
+        "num": 218315,
+        "word": "印度飞饼师傅凭什么认定为外籍专家",
+        "onboard_time": 1770438138,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209608,
+        "num": 209608,
+        "word": "脚底藏毒太味被闻出",
+        "onboard_time": 1770439461,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153508,
+        "num": 209471,
+        "word": "孙颖莎逆转赢了",
+        "onboard_time": 1770441440,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 40584,
+        "num": 209047,
+        "word": "苏翊鸣接住开幕式最美雪花",
+        "onboard_time": 1770440720,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1863329,
+        "num": 208697,
+        "word": "黄子韬当众扇徐艺洋巴掌",
+        "onboard_time": 1770442761,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 448967,
+        "num": 208503,
+        "word": "苏翊鸣奥运夺冠后胖到大叔身材",
+        "onboard_time": 1770439580,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 316170,
+        "num": 208092,
+        "word": "VOGUE年会",
+        "onboard_time": 1770440119,
+        "rank": 12,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 233693,
+        "num": 207967,
+        "word": "张凌赫不满足当惠英红的18号宝贝",
+        "onboard_time": 1770441079,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126012,
+        "num": 207633,
+        "word": "千问让我认识到25元的购买力",
+        "onboard_time": 1770444021,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 207325,
+        "num": 207325,
+        "word": "王昶求婚戒指选了很久",
+        "onboard_time": 1770442942,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155993,
+        "num": 155993,
+        "word": "肖战给工作人员看迷糊了",
+        "onboard_time": 1770430580,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 153345,
+        "num": 153345,
+        "word": "成何体统热度超了生命树太平年",
+        "onboard_time": 1770443842,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38317,
+        "num": 144862,
+        "word": "开幕式前方高萌",
+        "onboard_time": 1770440720,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143840,
+        "num": 143840,
+        "word": "有奶茶店员称订单密度超外卖大战",
+        "onboard_time": 1770435739,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 377172,
+        "num": 143699,
+        "word": "男子轮奸幼女强迫卖淫被执行死刑",
+        "onboard_time": 1770440300,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138293,
+        "num": 138293,
+        "word": "权志龙跳刀马刀马",
+        "onboard_time": 1770436581,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135854,
+        "num": 135854,
+        "word": "钱天一发王昶求婚vlog",
+        "onboard_time": 1770443662,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133741,
+        "num": 133741,
+        "word": "吴京回应唇部紧急护理",
+        "onboard_time": 1770429319,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 133562,
+        "num": 133562,
+        "word": "成何体统",
+        "onboard_time": 1770390801,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127818,
+        "num": 127818,
+        "word": "第一次见到怀孕的耙耙柑",
+        "onboard_time": 1770435439,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117692,
+        "num": 117692,
+        "word": "老人被骗光40余万花50元悬赏",
+        "onboard_time": 1770443122,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92896,
+        "num": 115780,
+        "word": "第一批千问万元生活卡锦鲤已出现",
+        "onboard_time": 1770440720,
+        "rank": 27,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 114307,
+        "num": 114307,
+        "word": "偶遇exo上海吃火锅",
+        "onboard_time": 1770430759,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113854,
+        "num": 113854,
+        "word": "梁王",
+        "onboard_time": 1770443842,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160076,
+        "num": 113766,
+        "word": "京东公开001号快递员的退休生活",
+        "onboard_time": 1770442460,
+        "rank": 30,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 127553,
+        "num": 113069,
+        "word": "政务窗口工作人员8年收好处费1614万",
+        "onboard_time": 1770443724,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110879,
+        "num": 110879,
+        "word": "金银价飙升米兰冬奥金牌史上最贵",
+        "onboard_time": 1770428359,
+        "rank": 32,
+        "category": "体育,财经"
+      },
+      {
+        "raw_hot": 109634,
+        "num": 109634,
+        "word": "扬大白血病女孩基因检测结果出炉",
+        "onboard_time": 1770440538,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70370,
+        "num": 109402,
+        "word": "四川大学通报王竹卿相关问题",
+        "onboard_time": 1770444201,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83741,
+        "num": 109095,
+        "word": "女子买房被物业要求承担前房主欠费",
+        "onboard_time": 1770442881,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10458,
+        "num": 108725,
+        "word": "喵娲娲下次能不能带我追邓为",
+        "onboard_time": 1770441741,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 80114,
+        "num": 108286,
+        "word": "千问给自己凑单",
+        "onboard_time": 1770443482,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 108176,
+        "num": 108176,
+        "word": "李一桐说很喜欢TOP",
+        "onboard_time": 1770440602,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 18766,
+        "num": 108068,
+        "word": "海南航空客机疑因风挡破裂返航",
+        "onboard_time": 1770443903,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108052,
+        "num": 108052,
+        "word": "微博之夜",
+        "onboard_time": 1770430460,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 104146,
+        "num": 104146,
+        "word": "钱天一的愿望睁眼就实现了",
+        "onboard_time": 1770443482,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 3002,
+        "num": 102486,
+        "word": "爱泼斯坦装修家具很多购自佛山",
+        "onboard_time": 1770444201,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 101539,
+        "num": 101539,
+        "word": "丞磊说和王楚然一对视就笑",
+        "onboard_time": 1770438620,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100530,
+        "num": 100530,
+        "word": "长期主义已经卷到饮食上了",
+        "onboard_time": 1770443302,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 99913,
+        "num": 99913,
+        "word": "妈妈无语了半个小时才说明真相",
+        "onboard_time": 1770438499,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 99479,
+        "num": 99479,
+        "word": "朵莉亚马限皮肤龟兹壁画",
+        "onboard_time": 1770443122,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 95197,
+        "num": 95197,
+        "word": "时代峰峻 马场半壁江山",
+        "onboard_time": 1770442099,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92241,
+        "num": 92241,
+        "word": "陈冠希以为碰到一群迷妹",
+        "onboard_time": 1770431360,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90556,
+        "num": 90556,
+        "word": "泡泡玛特年会出圈",
+        "onboard_time": 1770443662,
+        "rank": 49,
+        "category": "民生新闻,休闲"
+      }
+    ],
+    "hotgov": {
+      "word": "#回家过年阖家团圆#"
+    }
+  }
+}
