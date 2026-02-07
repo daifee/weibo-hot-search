@@ -1,6 +1,6 @@
 {
   "startTime": 1770393849547,
-  "endTime": 1770457180102,
+  "endTime": 1770458095435,
   "band_list": [
     {
       "raw_hot": 12386962,
@@ -11,7 +11,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 2809284,
+      "raw_hot": 3050583,
       "num": 155137,
       "word": "金晨肇事逃逸被罚1500元",
       "onboard_time": 1770455121,
@@ -41,6 +41,14 @@
       "onboard_time": 1770452959,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1382391,
+      "num": 1382391,
+      "word": "谷爱凌第一滑摔倒",
+      "onboard_time": 1770457161,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 1281532,
@@ -396,7 +404,7 @@
     },
     {
       "raw_hot": 304605,
-      "num": 183660,
+      "num": 185987,
       "word": "女子临终将婆婆300万养老钱送姐姐",
       "onboard_time": 1770451883,
       "rank": 22,
@@ -425,6 +433,14 @@
       "onboard_time": 1770448580,
       "rank": 20,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 287759,
+      "num": 287759,
+      "word": "湖南卫视春晚全阵容官宣",
+      "onboard_time": 1770454102,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 287580,
@@ -595,14 +611,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 232501,
-      "num": 232501,
-      "word": "湖南卫视春晚全阵容官宣",
-      "onboard_time": 1770454102,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 222791,
       "num": 211639,
       "word": "鞠婧祎ins更新",
@@ -675,6 +683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202854,
+      "num": 182165,
+      "word": "马琳远程收看王昶求婚钱天一",
+      "onboard_time": 1770453741,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 201476,
       "num": 201476,
       "word": "日本强降雪已致45人死亡",
@@ -712,14 +728,6 @@
       "word": "孙颖莎vs金娜英",
       "onboard_time": 1770438080,
       "rank": 24,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 190366,
-      "num": 174385,
-      "word": "马琳远程收看王昶求婚钱天一",
-      "onboard_time": 1770453741,
-      "rank": 34,
       "category": "体育"
     },
     {
@@ -761,6 +769,14 @@
       "onboard_time": 1770449542,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 180041,
+      "num": 180041,
+      "word": "老君山一员工拍短视频5年被奖132万",
+      "onboard_time": 1770457101,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 180013,
@@ -1115,12 +1131,36 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 124466,
+      "num": 123402,
+      "word": "身体有5种表现建议查甲状腺",
+      "onboard_time": 1770457821,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 123856,
+      "num": 123856,
+      "word": "娜扎演绎尊界S800新春灯语",
+      "onboard_time": 1770457401,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 123392,
       "num": 164452,
       "word": "38岁父亲独自爬野山坠崖遇难",
       "onboard_time": 1770422539,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 123380,
+      "num": 123380,
+      "word": "刘宇宁说有三万活粉可以横着走",
+      "onboard_time": 1770454222,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 123241,
@@ -1147,6 +1187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 119820,
+      "num": 119820,
+      "word": "冬奥会",
+      "onboard_time": 1770446182,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119754,
       "num": 119754,
       "word": "王楚钦vs郭勇",
@@ -1161,6 +1209,14 @@
       "onboard_time": 1770432499,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 117939,
+      "num": 117939,
+      "word": "千问回应免单卡来不及用",
+      "onboard_time": 1770457042,
+      "rank": 40,
+      "category": "互联网"
     },
     {
       "raw_hot": 117692,
@@ -1195,12 +1251,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 113295,
-      "num": 102640,
-      "word": "刘宇宁说有三万活粉可以横着走",
-      "onboard_time": 1770454222,
-      "rank": 47,
-      "category": "艺人"
+      "raw_hot": 114187,
+      "num": 167451,
+      "word": "肖战冬奥短片滑冰首秀",
+      "onboard_time": 1770456021,
+      "rank": 17,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 112740,
@@ -1211,12 +1267,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 112722,
+      "num": 112722,
+      "word": "貂蝉马限皮肤丝路万邦会聚",
+      "onboard_time": 1770457582,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 112368,
       "num": 112368,
       "word": "孙颖莎3比1金娜英",
       "onboard_time": 1770439399,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 111893,
+      "num": 111893,
+      "word": "结婚需要多少钱",
+      "onboard_time": 1770457042,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 110046,
@@ -1259,12 +1331,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 106207,
-      "num": 106207,
-      "word": "冬奥会",
-      "onboard_time": 1770446182,
-      "rank": 24,
-      "category": "体育"
+      "raw_hot": 106685,
+      "num": 131709,
+      "word": "原来这些是牙齿的求救信号",
+      "onboard_time": 1770454342,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 106030,
@@ -1361,14 +1433,6 @@
       "onboard_time": 1770443302,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 100294,
-      "num": 131709,
-      "word": "原来这些是牙齿的求救信号",
-      "onboard_time": 1770454342,
-      "rank": 29,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 99479,
@@ -1571,14 +1635,6 @@
       "category": "艺人,汽车"
     },
     {
-      "raw_hot": 90071,
-      "num": 90071,
-      "word": "千问回应免单卡来不及用",
-      "onboard_time": 1770457042,
-      "rank": 40,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 89900,
       "num": 89900,
       "word": "美国将向联合国支付部分拖欠会费",
@@ -1609,14 +1665,6 @@
       "onboard_time": 1770444562,
       "rank": 40,
       "category": "财经"
-    },
-    {
-      "raw_hot": 88324,
-      "num": 155797,
-      "word": "肖战冬奥短片滑冰首秀",
-      "onboard_time": 1770456021,
-      "rank": 17,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 88218,
@@ -1660,7 +1708,7 @@
     },
     {
       "raw_hot": 86863,
-      "num": 167569,
+      "num": 729082,
       "word": "米兰冬奥会开幕",
       "onboard_time": 1770415095,
       "rank": 24,
@@ -1811,6 +1859,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 80992,
+      "num": 80992,
+      "word": "唐宫奇案10.8%",
+      "onboard_time": 1770457701,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 80932,
       "num": 80932,
       "word": "乒乓球曾被提议列入冬奥会",
@@ -1833,6 +1889,14 @@
       "onboard_time": 1770449660,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 79769,
+      "num": 79769,
+      "word": "谷爱凌训练6小时一口水没喝",
+      "onboard_time": 1770457582,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 79654,
@@ -1865,14 +1929,6 @@
       "onboard_time": 1770450021,
       "rank": 14,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 77431,
-      "num": 77431,
-      "word": "结婚需要多少钱",
-      "onboard_time": 1770457042,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 77118,
@@ -2075,14 +2131,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 58087,
-      "num": 94236,
-      "word": "老君山一员工拍短视频5年被奖132万",
-      "onboard_time": 1770457101,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 52644,
       "num": 53161,
       "word": "白鹿发型没乱王星越心乱了",
@@ -2129,6 +2177,14 @@
       "onboard_time": 1770414134,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 45709,
+      "num": 138486,
+      "word": "印度飞饼师傅成外籍专家把人气乐了",
+      "onboard_time": 1770457821,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 45571,
@@ -2283,6 +2339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 32862,
+      "num": 180867,
+      "word": "AI考验我人脉的时候到了",
+      "onboard_time": 1770454880,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 30143,
       "num": 213006,
       "word": "一人一句为谷爱凌米兰加油",
@@ -2305,14 +2369,6 @@
       "onboard_time": 1770398957,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 27919,
-      "num": 169407,
-      "word": "AI考验我人脉的时候到了",
-      "onboard_time": 1770454880,
-      "rank": 14,
-      "category": "互联网"
     },
     {
       "raw_hot": 27398,
@@ -2555,6 +2611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 12803,
+      "num": 123412,
+      "word": "本周这些数据最值得关注",
+      "onboard_time": 1770457582,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 10601,
       "num": 159082,
       "word": "喵娲娲下次能不能带我追邓为",
@@ -2585,6 +2649,9 @@
     },
     {
       "word": "#回家过年阖家团圆#"
+    },
+    {
+      "word": "#两场元首外交同一天举行很不寻常#"
     }
   ]
 }
