@@ -1,0 +1,410 @@
+{
+  "runTime": 1770483431495,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 403803,
+        "num": 652386,
+        "word": "成何体统 癫剧",
+        "onboard_time": 1770473302,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 362598,
+        "num": 465891,
+        "word": "苏翊鸣决赛",
+        "onboard_time": 1770477140,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22377,
+        "num": 383583,
+        "word": "中国元素绽放米兰冬奥舞台",
+        "onboard_time": 1770471022,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 343098,
+        "num": 343098,
+        "word": "川大博导被举报83页材料公开",
+        "onboard_time": 1770477681,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 242469,
+        "num": 242469,
+        "word": "92岁老人集装箱离世留下19万存款",
+        "onboard_time": 1770475762,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 240738,
+        "num": 240738,
+        "word": "白鹿 我选蒋奇明",
+        "onboard_time": 1770477322,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217421,
+        "num": 217421,
+        "word": "11年了大姐还在骂明台",
+        "onboard_time": 1770476541,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138943,
+        "num": 138943,
+        "word": "山西朔州车间爆炸已致7人遇难",
+        "onboard_time": 1770480680,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35426,
+        "num": 136823,
+        "word": "米兰冬奥会首个奥运纪录",
+        "onboard_time": 1770481219,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124691,
+        "num": 135107,
+        "word": "泡泡玛特年会跳那么开心我也有责任",
+        "onboard_time": 1770480320,
+        "rank": 9,
+        "category": "民生新闻,休闲"
+      },
+      {
+        "raw_hot": 378270,
+        "num": 131878,
+        "word": "男子因1条评论杀害2人",
+        "onboard_time": 1770468741,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174182,
+        "num": 128812,
+        "word": "肖战讲述什么是美好",
+        "onboard_time": 1770480680,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164808,
+        "num": 127851,
+        "word": "成何体统",
+        "onboard_time": 1770471443,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126245,
+        "num": 126245,
+        "word": "脚臭的人洗脚时建议加点盐",
+        "onboard_time": 1770472762,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 140732,
+        "num": 125026,
+        "word": "芒果女主持上新了",
+        "onboard_time": 1770476482,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108362,
+        "num": 108362,
+        "word": "官方通报教师用手背打学生脸",
+        "onboard_time": 1770477861,
+        "rank": 15,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 101938,
+        "num": 101938,
+        "word": "12306没票微信平台还能买到",
+        "onboard_time": 1770475463,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100231,
+        "num": 100231,
+        "word": "林诗栋惨遭逆转无缘4强",
+        "onboard_time": 1770474563,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99590,
+        "num": 99590,
+        "word": "教育局回应成绩单用星星显示",
+        "onboard_time": 1770467661,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22676,
+        "num": 94939,
+        "word": "米兰冬奥会冰上项目首金诞生",
+        "onboard_time": 1770482300,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 215077,
+        "num": 94916,
+        "word": "演员立威廉已重新安排遗嘱",
+        "onboard_time": 1770454401,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163911,
+        "num": 94831,
+        "word": "马伯骞回关虞书欣",
+        "onboard_time": 1770460100,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94283,
+        "num": 94283,
+        "word": "男子网购椅子竟多出15公斤银板",
+        "onboard_time": 1770472222,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94822,
+        "num": 93801,
+        "word": "白鹿穿高定录综艺",
+        "onboard_time": 1770478162,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90657,
+        "num": 90657,
+        "word": "王楚钦7比11周启豪",
+        "onboard_time": 1770474742,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86366,
+        "num": 86366,
+        "word": "山姆你还续卡吗",
+        "onboard_time": 1770460761,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85567,
+        "num": 85567,
+        "word": "Jennie一开口就把我钓到了",
+        "onboard_time": 1770477978,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79460,
+        "num": 79460,
+        "word": "陈天润见面会",
+        "onboard_time": 1770478401,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 72599,
+        "num": 72599,
+        "word": "孙颖莎6比11陈熠",
+        "onboard_time": 1770476362,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 76478,
+        "num": 72337,
+        "word": "生命树张扬去世",
+        "onboard_time": 1770470241,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127977,
+        "num": 71659,
+        "word": "甲状腺是怎么一步一步失控的",
+        "onboard_time": 1770481400,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 70614,
+        "num": 70614,
+        "word": "肖战网络视听出图",
+        "onboard_time": 1770465981,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 69780,
+        "num": 69780,
+        "word": "为什么很多餐馆都在提供免费柠檬水",
+        "onboard_time": 1770471202,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 67813,
+        "num": 69767,
+        "word": "谷爱凌身边的东北甜妹是谁",
+        "onboard_time": 1770476061,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 55119,
+        "num": 69754,
+        "word": "王楚然演技",
+        "onboard_time": 1770470301,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 54654,
+        "num": 69726,
+        "word": "立威廉得知恶耗时才49岁",
+        "onboard_time": 1770468741,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51314,
+        "num": 69720,
+        "word": "乌克兰紧急求助波兰",
+        "onboard_time": 1770478940,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 50271,
+        "num": 69696,
+        "word": "日本在菲律宾培植代理人挑衅中国",
+        "onboard_time": 1770475701,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 49958,
+        "num": 69686,
+        "word": "米兰冬奥首金诞生",
+        "onboard_time": 1770467781,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 49847,
+        "num": 69658,
+        "word": "肖战再次拿下奢牌新季首秀",
+        "onboard_time": 1770470961,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 49742,
+        "num": 69646,
+        "word": "谷爱凌第二轮75.30分",
+        "onboard_time": 1770463521,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 49576,
+        "num": 69624,
+        "word": "我们的少年时代2开机花篮",
+        "onboard_time": 1770463640,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48781,
+        "num": 69600,
+        "word": "杨滨瑜速滑3000米顺利完赛",
+        "onboard_time": 1770480381,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 48265,
+        "num": 69588,
+        "word": "六个合法查询网站帮你看清一个人",
+        "onboard_time": 1770464241,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47961,
+        "num": 69565,
+        "word": "aespa香港演唱会",
+        "onboard_time": 1770475824,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 47603,
+        "num": 69551,
+        "word": "单依纯还你茉莉舞台",
+        "onboard_time": 1770482660,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45694,
+        "num": 69538,
+        "word": "男子大跳台决赛出发名单",
+        "onboard_time": 1770481219,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43966,
+        "num": 69513,
+        "word": "山西朔州车间爆炸致7死1失联",
+        "onboard_time": 1770481520,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43766,
+        "num": 69503,
+        "word": "50天赚10万买奔驰黑茶骗局被曝光",
+        "onboard_time": 1770475463,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41680,
+        "num": 69485,
+        "word": "天津首例不满16岁未成年人被行拘",
+        "onboard_time": 1770483318,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向全军老同志祝贺新春#"
+    }
+  }
+}
