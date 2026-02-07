@@ -1,6 +1,6 @@
 {
   "startTime": 1770482461321,
-  "endTime": 1770507506747,
+  "endTime": 1770508571539,
   "band_list": [
     {
       "raw_hot": 1091823,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 791539,
-      "num": 934534,
+      "num": 1058206,
       "word": "苏翊鸣大跳台铜牌",
       "onboard_time": 1770493515,
       "rank": 7,
@@ -25,6 +25,14 @@
       "onboard_time": 1770473302,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 492927,
+      "num": 743033,
+      "word": "撞人致死孕妇开的是脱保二手车",
+      "onboard_time": 1770504375,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 426358,
@@ -43,12 +51,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 384696,
-      "num": 384696,
-      "word": "撞人致死孕妇开的是脱保二手车",
-      "onboard_time": 1770504375,
-      "rank": 31,
-      "category": "民生新闻"
+      "raw_hot": 383438,
+      "num": 383438,
+      "word": "日媒称谷爱凌摔倒是赛道问题",
+      "onboard_time": 1770507018,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 358887,
@@ -107,6 +115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 248449,
+      "num": 248449,
+      "word": "北奥12人仅剩苏翊鸣坚守",
+      "onboard_time": 1770506356,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 234889,
       "num": 234889,
       "word": "Bin",
@@ -131,6 +147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196304,
+      "num": 101291,
+      "word": "Bin自拍晒身材照",
+      "onboard_time": 1770493094,
+      "rank": 20,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 193171,
       "num": 193171,
       "word": "肖战讲述什么是美好",
@@ -139,20 +163,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 184283,
-      "num": 184283,
+      "raw_hot": 192300,
+      "num": 192300,
       "word": "日本裁判",
       "onboard_time": 1770492914,
       "rank": 14,
       "category": "体育"
     },
     {
-      "raw_hot": 177510,
-      "num": 177510,
-      "word": "北奥12人仅剩苏翊鸣坚守",
-      "onboard_time": 1770506356,
-      "rank": 4,
-      "category": "体育"
+      "raw_hot": 178148,
+      "num": 159724,
+      "word": "赵丽颖2025年全球观众最喜爱演员",
+      "onboard_time": 1770506057,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 173350,
@@ -171,20 +195,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 169779,
-      "num": 169779,
-      "word": "日媒称谷爱凌摔倒是赛道问题",
-      "onboard_time": 1770507018,
-      "rank": 5,
+      "raw_hot": 165831,
+      "num": 165831,
+      "word": "苏翊鸣赛后哭了",
+      "onboard_time": 1770507557,
+      "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 158302,
-      "num": 71950,
-      "word": "Bin自拍晒身材照",
-      "onboard_time": 1770493094,
-      "rank": 20,
-      "category": "电竞"
     },
     {
       "raw_hot": 157852,
@@ -200,6 +216,14 @@
       "word": "苏翊鸣第三跳80.25分",
       "onboard_time": 1770493515,
       "rank": 6,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 154636,
+      "num": 154636,
+      "word": "米兰大跳台 摔了好多人",
+      "onboard_time": 1770494655,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -219,6 +243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 148232,
+      "num": 101088,
+      "word": "天津首例不满16岁未成年人被行拘",
+      "onboard_time": 1770483318,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 143159,
       "num": 143159,
       "word": "林诗栋惨遭逆转无缘4强",
@@ -233,6 +265,14 @@
       "onboard_time": 1770480320,
       "rank": 18,
       "category": "民生新闻,休闲"
+    },
+    {
+      "raw_hot": 138970,
+      "num": 138970,
+      "word": "王力宏 我们不是那种节目",
+      "onboard_time": 1770506417,
+      "rank": 16,
+      "category": "演出"
     },
     {
       "raw_hot": 138943,
@@ -251,8 +291,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 130827,
-      "num": 130827,
+      "raw_hot": 133239,
+      "num": 133239,
       "word": "男子网购椅子竟多出15公斤银板",
       "onboard_time": 1770472222,
       "rank": 17,
@@ -260,27 +300,19 @@
     },
     {
       "raw_hot": 127977,
-      "num": 90804,
+      "num": 99762,
       "word": "甲状腺是怎么一步一步失控的",
       "onboard_time": 1770481400,
       "rank": 31,
       "category": "健康医疗"
     },
     {
-      "raw_hot": 122245,
-      "num": 71925,
-      "word": "天津首例不满16岁未成年人被行拘",
-      "onboard_time": 1770483318,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 120729,
-      "num": 108495,
-      "word": "赵丽颖2025年全球观众最喜爱演员",
-      "onboard_time": 1770506057,
-      "rank": 11,
-      "category": "艺人"
+      "raw_hot": 123610,
+      "num": 100534,
+      "word": "菲律宾一男子强奸孙女多达105次",
+      "onboard_time": 1770507918,
+      "rank": 22,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 116912,
@@ -288,14 +320,6 @@
       "word": "王楚钦7比11周启豪",
       "onboard_time": 1770474742,
       "rank": 22,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 116101,
-      "num": 57109,
-      "word": "米兰大跳台 摔了好多人",
-      "onboard_time": 1770494655,
-      "rank": 30,
       "category": "体育"
     },
     {
@@ -313,6 +337,22 @@
       "onboard_time": 1770478162,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 109388,
+      "num": 109388,
+      "word": "苏翊鸣说判罚完全公平",
+      "onboard_time": 1770507557,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 109242,
+      "num": 100024,
+      "word": "妈妈旧冰箱藏5万金银玉器被儿子卖掉",
+      "onboard_time": 1770507618,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 108841,
@@ -339,6 +379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 101531,
+      "num": 101531,
+      "word": "苏翊鸣 触雪",
+      "onboard_time": 1770491894,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 99977,
       "num": 99977,
       "word": "金博洋短节目",
@@ -363,14 +411,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 93468,
-      "num": 93468,
-      "word": "苏翊鸣 触雪",
-      "onboard_time": 1770491894,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
       "raw_hot": 93339,
       "num": 93339,
       "word": "Jennie一开口就把我钓到了",
@@ -379,12 +419,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 85160,
-      "num": 85160,
-      "word": "王力宏 我们不是那种节目",
-      "onboard_time": 1770506417,
-      "rank": 16,
-      "category": "演出"
+      "raw_hot": 91561,
+      "num": 91561,
+      "word": "克林顿夫妇连日发声",
+      "onboard_time": 1770507497,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 85159,
+      "num": 85159,
+      "word": "高市早苗喊话俄罗斯",
+      "onboard_time": 1770507677,
+      "rank": 27,
+      "category": "国际时政"
     },
     {
       "raw_hot": 83711,
@@ -409,6 +457,14 @@
       "onboard_time": 1770471202,
       "rank": 34,
       "category": "美食"
+    },
+    {
+      "raw_hot": 79454,
+      "num": 79454,
+      "word": "苏翊鸣说很开心",
+      "onboard_time": 1770507318,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 78307,
@@ -451,6 +507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 68256,
+      "num": 68256,
+      "word": "王楚钦多少有些无奈了",
+      "onboard_time": 1770507799,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 66802,
       "num": 66802,
       "word": "李煜东大舌头手势舞cha",
@@ -475,12 +539,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 63469,
-      "num": 57040,
-      "word": "苏翊鸣说很开心",
-      "onboard_time": 1770507318,
-      "rank": 31,
-      "category": "体育"
+      "raw_hot": 60281,
+      "num": 60281,
+      "word": "Gala回复Bin",
+      "onboard_time": 1770507618,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 59231,
@@ -539,12 +603,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 52159,
+      "num": 52159,
+      "word": "白鹿要赶紧追一追唐宫奇案进度了",
+      "onboard_time": 1770507497,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 51969,
       "num": 55243,
       "word": "唐宫奇案",
       "onboard_time": 1770484398,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 51321,
+      "num": 51321,
+      "word": "撞人致死孕妇驾驶车辆前一天刚过户",
+      "onboard_time": 1770507978,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 50852,
@@ -561,6 +641,14 @@
       "onboard_time": 1770471803,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 50451,
+      "num": 46162,
+      "word": "肖战红毯贵气感",
+      "onboard_time": 1770507377,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 49992,
@@ -715,14 +803,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 30139,
-      "num": 36099,
-      "word": "肖战红毯贵气感",
-      "onboard_time": 1770507377,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 28648,
       "num": 28648,
       "word": "苏翊鸣决赛首跳成功",
@@ -747,8 +827,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 23608,
-      "num": 555979,
+      "raw_hot": 23813,
+      "num": 590708,
       "word": "中国元素绽放米兰冬奥舞台",
       "onboard_time": 1770471022,
       "rank": 2,
