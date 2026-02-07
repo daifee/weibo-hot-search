@@ -1,6 +1,6 @@
 {
   "startTime": 1770393849547,
-  "endTime": 1770453736456,
+  "endTime": 1770454620274,
   "band_list": [
     {
       "raw_hot": 12386962,
@@ -25,6 +25,14 @@
       "onboard_time": 1770428420,
       "rank": 0,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1386333,
+      "num": 212794,
+      "word": "管乐道歉",
+      "onboard_time": 1770452959,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 1281532,
@@ -68,7 +76,7 @@
     },
     {
       "raw_hot": 627753,
-      "num": 786676,
+      "num": 801015,
       "word": "中国银行坚决拥护党中央决定",
       "onboard_time": 1770449720,
       "rank": 30,
@@ -284,19 +292,11 @@
     },
     {
       "raw_hot": 369774,
-      "num": 136641,
+      "num": 139501,
       "word": "微博之夜",
       "onboard_time": 1770430460,
       "rank": 47,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 369396,
-      "num": 212794,
-      "word": "管乐道歉",
-      "onboard_time": 1770452959,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 367826,
@@ -419,6 +419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 277508,
+      "num": 183660,
+      "word": "女子临终将婆婆300万养老钱送姐姐",
+      "onboard_time": 1770451883,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 277014,
       "num": 149847,
       "word": "郎朗谈不再上综艺的原因",
@@ -531,14 +539,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 240108,
-      "num": 183660,
-      "word": "女子临终将婆婆300万养老钱送姐姐",
-      "onboard_time": 1770451883,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 235470,
       "num": 235470,
       "word": "四川大学已成立工作专班",
@@ -553,6 +553,14 @@
       "onboard_time": 1770441079,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 231871,
+      "num": 199993,
+      "word": "向佐说自己原生家庭有问题",
+      "onboard_time": 1770452959,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 222791,
@@ -595,8 +603,8 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 213222,
-      "num": 213222,
+      "raw_hot": 213855,
+      "num": 213855,
       "word": "山姆道歉成常态",
       "onboard_time": 1770448340,
       "rank": 28,
@@ -667,6 +675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 191211,
+      "num": 208870,
+      "word": "女子独自带三娃赶火车丢了俩",
+      "onboard_time": 1770453079,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 189715,
       "num": 209471,
       "word": "孙颖莎逆转赢了",
@@ -721,6 +737,14 @@
       "onboard_time": 1770390862,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 177442,
+      "num": 177442,
+      "word": "山姆品控危机引发退卡风波",
+      "onboard_time": 1770453620,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 174630,
@@ -827,6 +851,14 @@
       "category": "健康医疗,民生新闻"
     },
     {
+      "raw_hot": 155320,
+      "num": 139511,
+      "word": "范丞丞回应胖了",
+      "onboard_time": 1770451580,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 155031,
       "num": 142578,
       "word": "千问可以点盒马了",
@@ -931,14 +963,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 140597,
-      "num": 140597,
-      "word": "向佐说自己原生家庭有问题",
-      "onboard_time": 1770452959,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 139037,
       "num": 139037,
       "word": "肖战捎来春天",
@@ -995,6 +1019,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 131546,
+      "num": 131546,
+      "word": "湖南卫视春晚全阵容官宣",
+      "onboard_time": 1770454102,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 130880,
       "num": 130880,
       "word": "中国代表团入场",
@@ -1019,6 +1051,14 @@
       "category": "民生新闻,休闲"
     },
     {
+      "raw_hot": 128717,
+      "num": 122493,
+      "word": "李楷灿cos桃黑黑",
+      "onboard_time": 1770452841,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 128220,
       "num": 128220,
       "word": "AG诸葛亮打野",
@@ -1035,12 +1075,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 126593,
-      "num": 126593,
-      "word": "范丞丞回应胖了",
-      "onboard_time": 1770451580,
+      "raw_hot": 123509,
+      "num": 123509,
+      "word": "马琳远程收看王昶求婚钱天一",
+      "onboard_time": 1770453741,
       "rank": 34,
-      "category": "艺人"
+      "category": "体育"
     },
     {
       "raw_hot": 123392,
@@ -1067,14 +1107,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 121740,
-      "num": 121740,
-      "word": "女子独自带三娃赶火车丢了俩",
-      "onboard_time": 1770453079,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 121489,
       "num": 121489,
       "word": "刘宇宁 结婚我给你们唱婚庆去",
@@ -1099,20 +1131,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 117724,
-      "num": 117724,
-      "word": "李楷灿cos桃黑黑",
-      "onboard_time": 1770452841,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 117692,
       "num": 128337,
       "word": "老人被骗光40余万花50元悬赏",
       "onboard_time": 1770443122,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117604,
+      "num": 117604,
+      "word": "演员立威廉已重新安排遗嘱",
+      "onboard_time": 1770454401,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 115395,
@@ -1219,6 +1251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 105419,
+      "num": 105419,
+      "word": "白鹿cha了娃娃脸",
+      "onboard_time": 1770454342,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 104926,
       "num": 104926,
       "word": "郑思维祝福王昶钱天一",
@@ -1299,6 +1339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 97599,
+      "num": 97599,
+      "word": "梁伟铿祝福王昶钱天一",
+      "onboard_time": 1770450980,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 96246,
       "num": 96246,
       "word": "意大利手势",
@@ -1355,20 +1403,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 94302,
-      "num": 94302,
-      "word": "梁伟铿祝福王昶钱天一",
-      "onboard_time": 1770450980,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 94209,
       "num": 94209,
       "word": "陆虎彩排临时改歌救场",
       "onboard_time": 1770439700,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 94034,
+      "num": 131709,
+      "word": "原来这些是牙齿的求救信号",
+      "onboard_time": 1770454342,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 93856,
@@ -1465,6 +1513,22 @@
       "onboard_time": 1770435622,
       "rank": 18,
       "category": "艺人,汽车"
+    },
+    {
+      "raw_hot": 90013,
+      "num": 90013,
+      "word": "刘宇宁说有三万活粉可以横着走",
+      "onboard_time": 1770454222,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 89991,
+      "num": 111242,
+      "word": "黄子韬刘耀文吵架",
+      "onboard_time": 1770454161,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 89900,
@@ -1635,14 +1699,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 82173,
-      "num": 82173,
-      "word": "山姆品控危机引发退卡风波",
-      "onboard_time": 1770453620,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 82046,
       "num": 100136,
       "word": "美国对与伊朗有贸易往来国家加征关税",
@@ -1705,6 +1761,14 @@
       "onboard_time": 1770449180,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 80932,
+      "num": 80932,
+      "word": "乒乓球曾被提议列入冬奥会",
+      "onboard_time": 1770454581,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 79960,
@@ -2051,6 +2115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 40830,
+      "num": 189954,
+      "word": "同航班三个同款行李箱三箱主全拿错",
+      "onboard_time": 1770453320,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38317,
       "num": 155896,
       "word": "开幕式前方高萌",
@@ -2099,6 +2171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 34092,
+      "num": 693565,
+      "word": "中国网络视听盛典",
+      "onboard_time": 1770429680,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33912,
       "num": 33912,
       "word": "感觉德国队披着棉被出来了",
@@ -2121,14 +2201,6 @@
       "onboard_time": 1770411014,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 32134,
-      "num": 693565,
-      "word": "中国网络视听盛典",
-      "onboard_time": 1770429680,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 30143,
@@ -2387,14 +2459,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 11457,
-      "num": 189954,
-      "word": "同航班三个同款行李箱三箱主全拿错",
-      "onboard_time": 1770453320,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 10601,
       "num": 159082,
       "word": "喵娲娲下次能不能带我追邓为",
@@ -2407,6 +2471,14 @@
       "num": 117026,
       "word": "妻子失联6小时老伴报警才知在烫头",
       "onboard_time": 1770450561,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 7927,
+      "num": 109446,
+      "word": "春节快递小哥一天能多赚500元",
+      "onboard_time": 1770454522,
       "rank": 39,
       "category": "民生新闻"
     }
