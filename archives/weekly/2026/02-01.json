@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1770421799289,
+  "endTime": 1770431650301,
   "band_list": [
     {
       "raw_hot": 10390810,
@@ -273,6 +273,14 @@
       "onboard_time": 1769931861,
       "rank": 13,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1517961,
+      "num": 1517961,
+      "word": "千问",
+      "onboard_time": 1770428420,
+      "rank": 0,
+      "category": "互联网"
     },
     {
       "raw_hot": 1516977,
@@ -1971,6 +1979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 509037,
+      "num": 182758,
+      "word": "成何体统上了韩网热帖",
+      "onboard_time": 1770421157,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 507735,
       "num": 807578,
       "word": "深圳水贝挤满了人",
@@ -2001,6 +2017,22 @@
       "onboard_time": 1769865023,
       "rank": 11,
       "category": "财经"
+    },
+    {
+      "raw_hot": 503240,
+      "num": 173697,
+      "word": "小李子女友开幕式交接国旗",
+      "onboard_time": 1770429440,
+      "rank": 10,
+      "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 503224,
+      "num": 503224,
+      "word": "金银价飙升米兰冬奥金牌史上最贵",
+      "onboard_time": 1770428359,
+      "rank": 3,
+      "category": "体育,财经"
     },
     {
       "raw_hot": 500528,
@@ -2641,6 +2673,14 @@
       "onboard_time": 1770011722,
       "rank": 3,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 416296,
+      "num": 416296,
+      "word": "吴京回应唇部紧急护理",
+      "onboard_time": 1770429319,
+      "rank": 4,
+      "category": "电影"
     },
     {
       "raw_hot": 414377,
@@ -3355,6 +3395,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 341180,
+      "num": 925878,
+      "word": "郎朗 权威",
+      "onboard_time": 1770417254,
+      "rank": 30,
+      "category": "体育,音乐"
+    },
+    {
       "raw_hot": 340537,
       "num": 172307,
       "word": "吴世勋上海签售生图",
@@ -3771,6 +3819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 314799,
+      "num": 314799,
+      "word": "昭阳公主",
+      "onboard_time": 1770429919,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 314129,
       "num": 220249,
       "word": "whywhywhy没上榜",
@@ -3995,14 +4051,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 298923,
-      "num": 298923,
-      "word": "郎朗 权威",
-      "onboard_time": 1770417254,
-      "rank": 30,
-      "category": "体育,音乐"
-    },
-    {
       "raw_hot": 298617,
       "num": 950278,
       "word": "周生生涉事挂坠送检结果公布",
@@ -4073,6 +4121,14 @@
       "onboard_time": 1770272663,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 294065,
+      "num": 171791,
+      "word": "海口致3死1伤男子畏罪自杀身亡",
+      "onboard_time": 1770421879,
+      "rank": 12,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 293911,
@@ -4483,6 +4539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 266538,
+      "num": 158766,
+      "word": "男子两年强奸10名未成年少女",
+      "onboard_time": 1770431120,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 265651,
       "num": 223638,
       "word": "猫一吃玉米就会变得猥琐",
@@ -4681,6 +4745,14 @@
       "onboard_time": 1770387864,
       "rank": 24,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 254454,
+      "num": 170662,
+      "word": "王玉雯说现在项目太少会尽量进组",
+      "onboard_time": 1770424279,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 253955,
@@ -4897,6 +4969,14 @@
       "onboard_time": 1769914701,
       "rank": 13,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 245671,
+      "num": 169957,
+      "word": "何超欣说和何猷君没竞争",
+      "onboard_time": 1770427459,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 245044,
@@ -5547,6 +5627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 219125,
+      "num": 168359,
+      "word": "肖战给工作人员看迷糊了",
+      "onboard_time": 1770430580,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 218112,
       "num": 176487,
       "word": "李嘉格为什么口碑两极化了",
@@ -5840,6 +5928,22 @@
       "word": "卢靖姗晒儿女照片",
       "onboard_time": 1770200480,
       "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 199973,
+      "num": 199973,
+      "word": "个税年度汇算",
+      "onboard_time": 1770424999,
+      "rank": 8,
+      "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 199198,
+      "num": 165455,
+      "word": "偶遇exo上海吃火锅",
+      "onboard_time": 1770430759,
+      "rank": 17,
       "category": "艺人"
     },
     {
@@ -6179,14 +6283,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 186236,
-      "num": 182758,
-      "word": "成何体统上了韩网热帖",
-      "onboard_time": 1770421157,
-      "rank": 8,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 185825,
       "num": 185825,
       "word": "惊蛰无声剧组压轴",
@@ -6507,6 +6603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 174630,
+      "num": 174630,
+      "word": "蔡徐坤巡演官宣",
+      "onboard_time": 1770421638,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 174527,
       "num": 193625,
       "word": "10万多元黄金被当垃圾扔了",
@@ -6699,6 +6803,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 168850,
+      "num": 168850,
+      "word": "飞饼师傅被认定外籍专家发放慰问费",
+      "onboard_time": 1770399197,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 168636,
       "num": 168636,
       "word": "狼队对战KSG",
@@ -6740,7 +6852,7 @@
     },
     {
       "raw_hot": 167417,
-      "num": 107800,
+      "num": 138863,
       "word": "邬君梅与外籍丈夫婚姻持续近30年",
       "onboard_time": 1770421098,
       "rank": 20,
@@ -6756,7 +6868,7 @@
     },
     {
       "raw_hot": 166251,
-      "num": 106968,
+      "num": 135371,
       "word": "中国队蓝羽绒服 好看",
       "onboard_time": 1770411374,
       "rank": 6,
@@ -7043,6 +7155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 158367,
+      "num": 158367,
+      "word": "网红战痘神药副作用竟影响性功能",
+      "onboard_time": 1770423739,
+      "rank": 22,
+      "category": "健康医疗,民生新闻"
+    },
+    {
       "raw_hot": 158114,
       "num": 133568,
       "word": "周也 你藏的好深",
@@ -7137,6 +7257,14 @@
       "onboard_time": 1770388221,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 154448,
+      "num": 154448,
+      "word": "牙齿是被严重低估的长寿器官",
+      "onboard_time": 1770428539,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 153919,
@@ -7377,14 +7505,6 @@
       "onboard_time": 1769929640,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 149640,
-      "num": 149640,
-      "word": "飞饼师傅被认定外籍专家发放慰问费",
-      "onboard_time": 1770399197,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 149416,
@@ -7827,6 +7947,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 140761,
+      "num": 140761,
+      "word": "奥运五环出场方式太震撼了",
+      "onboard_time": 1770408016,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 140559,
       "num": 180296,
       "word": "王橹杰我们的少年时代2围读路透",
@@ -8243,6 +8371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133117,
+      "num": 133117,
+      "word": "千问免单卡延长至2月28日",
+      "onboard_time": 1770430040,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 132999,
       "num": 132999,
       "word": "张凌赫王安宇两张伟大的脸",
@@ -8481,14 +8617,6 @@
       "onboard_time": 1769938580,
       "rank": 37,
       "category": "演出"
-    },
-    {
-      "raw_hot": 129229,
-      "num": 105966,
-      "word": "奥运五环出场方式太震撼了",
-      "onboard_time": 1770408016,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 128923,
@@ -8819,6 +8947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123392,
+      "num": 164452,
+      "word": "38岁父亲独自爬野山坠崖遇难",
+      "onboard_time": 1770422539,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 123353,
       "num": 123353,
       "word": "静音车厢不是只让乘客静音",
@@ -8857,6 +8993,14 @@
       "onboard_time": 1770117200,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 123091,
+      "num": 123091,
+      "word": "谷爱凌带了块5公斤石头到奥运村",
+      "onboard_time": 1770428060,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 122770,
@@ -9505,6 +9649,14 @@
       "onboard_time": 1770293005,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 115484,
+      "num": 162966,
+      "word": "特朗普社媒删除与奥巴马有关视频",
+      "onboard_time": 1770430640,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 115295,
@@ -10571,6 +10723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 103951,
+      "num": 96894,
+      "word": "热心市民张凌赫先生",
+      "onboard_time": 1770426801,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 103945,
       "num": 103945,
       "word": "莲花跑车",
@@ -11227,6 +11387,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 97746,
+      "num": 97746,
+      "word": "冬奥开幕式入场引导员火了",
+      "onboard_time": 1770429980,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 97741,
       "num": 97741,
       "word": "时团 录完你的录你的",
@@ -11459,6 +11627,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 95621,
+      "num": 95621,
+      "word": "如果一个人长期不工作",
+      "onboard_time": 1770424219,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 95567,
       "num": 95567,
       "word": "家里网不好怎么办",
@@ -11529,6 +11705,14 @@
       "onboard_time": 1770118880,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 94965,
+      "num": 94965,
+      "word": "别让体检结节吓住了",
+      "onboard_time": 1770429800,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 94909,
@@ -12459,6 +12643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 87422,
+      "num": 87422,
+      "word": "肖战辛芷蕾曾合作狼殿下",
+      "onboard_time": 1770424819,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 87308,
       "num": 85654,
       "word": "胡歌盛赞杨紫",
@@ -12521,6 +12713,14 @@
       "onboard_time": 1770116720,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 86863,
+      "num": 167569,
+      "word": "米兰冬奥会开幕",
+      "onboard_time": 1770415095,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 86862,
@@ -13011,6 +13211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 82543,
+      "num": 82543,
+      "word": "2025个税退补税3月起办理",
+      "onboard_time": 1770431360,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
       "raw_hot": 82528,
       "num": 82528,
       "word": "黄金回购也要限额了",
@@ -13091,6 +13299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 81891,
+      "num": 81891,
+      "word": "中国队冲击冬奥首金",
+      "onboard_time": 1770428600,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 81544,
       "num": 178072,
       "word": "泰国军方曝光电诈园区",
@@ -13137,6 +13353,14 @@
       "onboard_time": 1770305786,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 81303,
+      "num": 81303,
+      "word": "种草引导员的羽绒服",
+      "onboard_time": 1770410893,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 81278,
@@ -13545,6 +13769,14 @@
       "onboard_time": 1770113180,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 77179,
+      "num": 77179,
+      "word": "范丞丞体重67公斤",
+      "onboard_time": 1770431601,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 77138,
@@ -15059,14 +15291,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 54299,
-      "num": 54299,
-      "word": "种草引导员的羽绒服",
-      "onboard_time": 1770410893,
-      "rank": 20,
-      "category": "体育"
-    },
-    {
       "raw_hot": 54187,
       "num": 51702,
       "word": "这个商场的装饰太吓人了",
@@ -15491,14 +15715,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 47053,
-      "num": 47053,
-      "word": "蔡徐坤巡演官宣",
-      "onboard_time": 1770421638,
-      "rank": 48,
-      "category": "演出"
-    },
-    {
       "raw_hot": 46872,
       "num": 149119,
       "word": "苏翊鸣第10位出场",
@@ -15521,14 +15737,6 @@
       "onboard_time": 1770205402,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 46634,
-      "num": 167569,
-      "word": "米兰冬奥会开幕",
-      "onboard_time": 1770415095,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 46605,
@@ -15752,6 +15960,14 @@
       "word": "谷爱凌说我无需再证明什么",
       "onboard_time": 1770402436,
       "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 42385,
+      "num": 133374,
+      "word": "上咪咕为谷爱凌加油",
+      "onboard_time": 1770428359,
+      "rank": 29,
       "category": "体育"
     },
     {
@@ -16569,6 +16785,14 @@
       "onboard_time": 1770320834,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 30811,
+      "num": 88572,
+      "word": "陈冠希以为碰到一群迷妹",
+      "onboard_time": 1770431360,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 30793,
@@ -17744,6 +17968,14 @@
       "word": "说今年立春不吉利别自己吓自己",
       "onboard_time": 1770204381,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16590,
+      "num": 691092,
+      "word": "中国网络视听盛典",
+      "onboard_time": 1770429680,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
