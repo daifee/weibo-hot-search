@@ -1,6 +1,6 @@
 {
   "startTime": 1770393849547,
-  "endTime": 1770478479511,
+  "endTime": 1770479388462,
   "band_list": [
     {
       "raw_hot": 12386962,
@@ -347,6 +347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 453688,
+      "num": 453688,
+      "word": "11年了大姐还在骂明台",
+      "onboard_time": 1770476541,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 447018,
       "num": 447018,
       "word": "吴京回应唇部紧急护理",
@@ -387,6 +395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 416265,
+      "num": 416265,
+      "word": "苏翊鸣决赛",
+      "onboard_time": 1770477140,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 412505,
       "num": 99764,
       "word": "20岁黄多多好漂亮",
@@ -409,14 +425,6 @@
       "onboard_time": 1770453079,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 381021,
-      "num": 381021,
-      "word": "11年了大姐还在骂明台",
-      "onboard_time": 1770476541,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 378558,
@@ -497,6 +505,14 @@
       "onboard_time": 1770463521,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 362245,
+      "num": 362245,
+      "word": "92岁老人集装箱离世留下19万存款",
+      "onboard_time": 1770475762,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 360010,
@@ -595,14 +611,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 305403,
-      "num": 305403,
-      "word": "92岁老人集装箱离世留下19万存款",
-      "onboard_time": 1770475762,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 304605,
       "num": 219096,
       "word": "女子临终将婆婆300万养老钱送姐姐",
@@ -617,6 +625,14 @@
       "onboard_time": 1770458001,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 303368,
+      "num": 303368,
+      "word": "白鹿 我选蒋奇明",
+      "onboard_time": 1770477322,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 299525,
@@ -713,14 +729,6 @@
       "onboard_time": 1770379641,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 273268,
-      "num": 273268,
-      "word": "苏翊鸣决赛",
-      "onboard_time": 1770477140,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 273100,
@@ -1091,6 +1099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 177750,
+      "num": 135118,
+      "word": "白鹿穿高定录综艺",
+      "onboard_time": 1770478162,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 174856,
       "num": 153867,
       "word": "白鹿cha了娃娃脸",
@@ -1225,14 +1241,6 @@
       "onboard_time": 1770423739,
       "rank": 22,
       "category": "健康医疗,民生新闻"
-    },
-    {
-      "raw_hot": 157435,
-      "num": 157435,
-      "word": "白鹿 我选蒋奇明",
-      "onboard_time": 1770477322,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 155320,
@@ -1435,6 +1443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139211,
+      "num": 133644,
+      "word": "孙颖莎6比11陈熠",
+      "onboard_time": 1770476362,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 139037,
       "num": 139037,
       "word": "肖战捎来春天",
@@ -1505,6 +1521,14 @@
       "onboard_time": 1770430040,
       "rank": 30,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 132893,
+      "num": 128480,
+      "word": "Jennie一开口就把我钓到了",
+      "onboard_time": 1770477978,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 132195,
@@ -1675,14 +1699,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 119494,
-      "num": 119494,
-      "word": "孙颖莎6比11陈熠",
-      "onboard_time": 1770476362,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 119364,
       "num": 119364,
       "word": "陈幸同1比4张本美和",
@@ -1721,14 +1737,6 @@
       "onboard_time": 1770432499,
       "rank": 27,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 118512,
-      "num": 118512,
-      "word": "Jennie一开口就把我钓到了",
-      "onboard_time": 1770477978,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 117939,
@@ -1987,14 +1995,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 105925,
-      "num": 105925,
-      "word": "白鹿穿高定录综艺",
-      "onboard_time": 1770478162,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 105643,
       "num": 105643,
       "word": "白鹿项目回报率",
@@ -2145,6 +2145,14 @@
       "onboard_time": 1770460520,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 100043,
+      "num": 157683,
+      "word": "川大博导被举报83页材料公开",
+      "onboard_time": 1770477681,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 99479,
@@ -2363,6 +2371,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 92674,
+      "num": 92674,
+      "word": "谷爱凌身边的东北甜妹是谁",
+      "onboard_time": 1770476061,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 92505,
       "num": 179117,
       "word": "男子快递收到30斤银砖果断报警",
@@ -2419,6 +2435,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 90786,
+      "num": 90786,
+      "word": "陈天润见面会",
+      "onboard_time": 1770478401,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 90673,
       "num": 90673,
       "word": "唐禹哲晒与儿子穿新春父子装",
@@ -2467,14 +2491,6 @@
       "category": "艺人,汽车"
     },
     {
-      "raw_hot": 90098,
-      "num": 90098,
-      "word": "谷爱凌身边的东北甜妹是谁",
-      "onboard_time": 1770476061,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 89900,
       "num": 89900,
       "word": "美国将向联合国支付部分拖欠会费",
@@ -2496,6 +2512,14 @@
       "word": "曼联vs热刺",
       "onboard_time": 1770470600,
       "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 89381,
+      "num": 89381,
+      "word": "单板滑雪男子大跳台决赛",
+      "onboard_time": 1770478463,
+      "rank": 37,
       "category": "体育"
     },
     {
@@ -2675,6 +2699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 83252,
+      "num": 83252,
+      "word": "官方通报教师用手背打学生脸",
+      "onboard_time": 1770477861,
+      "rank": 47,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 83230,
       "num": 83230,
       "word": "杨瀚森妙传",
@@ -2753,14 +2785,6 @@
       "onboard_time": 1770446540,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 81033,
-      "num": 81033,
-      "word": "陈天润见面会",
-      "onboard_time": 1770478401,
-      "rank": 48,
-      "category": "演出"
     },
     {
       "raw_hot": 81014,
@@ -2867,14 +2891,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 78219,
-      "num": 81264,
-      "word": "官方通报教师用手背打学生脸",
-      "onboard_time": 1770477861,
-      "rank": 47,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 77118,
       "num": 77118,
       "word": "网友偶遇陈冠希文案",
@@ -2889,6 +2905,14 @@
       "onboard_time": 1770433221,
       "rank": 42,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 76285,
+      "num": 76285,
+      "word": "熬夜看苏翊鸣决赛",
+      "onboard_time": 1770478701,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 75866,
@@ -2995,6 +3019,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 68422,
+      "num": 76238,
+      "word": "广东韶关用星星公布考试成绩",
+      "onboard_time": 1770478881,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
       "raw_hot": 67209,
       "num": 67209,
       "word": "10万多元黄金被当垃圾扔了",
@@ -3025,6 +3057,14 @@
       "onboard_time": 1770369800,
       "rank": 46,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 64115,
+      "num": 112846,
+      "word": "12306没票微信平台还能买到",
+      "onboard_time": 1770475463,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 63542,
@@ -3243,7 +3283,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 42029,
+      "raw_hot": 42042,
       "num": 218009,
       "word": "王嘉尔刘雨昕MMAM舞台国际水准",
       "onboard_time": 1770476482,
@@ -3363,6 +3403,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 32150,
+      "num": 670446,
+      "word": "中国元素绽放米兰冬奥舞台",
+      "onboard_time": 1770471022,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 31515,
       "num": 94833,
       "word": "美军基地被指向日本直排污染物",
@@ -3376,14 +3424,6 @@
       "word": "一人一句为谷爱凌米兰加油",
       "onboard_time": 1770452779,
       "rank": 9,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 29542,
-      "num": 643598,
-      "word": "中国元素绽放米兰冬奥舞台",
-      "onboard_time": 1770471022,
-      "rank": 2,
       "category": "体育"
     },
     {
@@ -3489,14 +3529,6 @@
       "onboard_time": 1770459921,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 23939,
-      "num": 157683,
-      "word": "川大博导被举报83页材料公开",
-      "onboard_time": 1770477681,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 23541,
@@ -3723,14 +3755,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 12990,
-      "num": 112846,
-      "word": "12306没票微信平台还能买到",
-      "onboard_time": 1770475463,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 12803,
       "num": 123412,
       "word": "本周这些数据最值得关注",
@@ -3745,6 +3769,14 @@
       "onboard_time": 1770441741,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 10083,
+      "num": 138557,
+      "word": "乌克兰紧急求助波兰",
+      "onboard_time": 1770478940,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 9498,
