@@ -1,6 +1,6 @@
 {
   "startTime": 1770393849547,
-  "endTime": 1770474894297,
+  "endTime": 1770475983097,
   "band_list": [
     {
       "raw_hot": 12386962,
@@ -83,6 +83,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 993222,
+      "num": 598044,
+      "word": "教育局回应成绩单用星星显示",
+      "onboard_time": 1770467661,
+      "rank": 23,
+      "category": "教育"
+    },
+    {
       "raw_hot": 906959,
       "num": 906959,
       "word": "谷爱凌完成第二滑",
@@ -105,14 +113,6 @@
       "onboard_time": 1770454401,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 799498,
-      "num": 598044,
-      "word": "教育局回应成绩单用星星显示",
-      "onboard_time": 1770467661,
-      "rank": 23,
-      "category": "教育"
     },
     {
       "raw_hot": 798483,
@@ -195,6 +195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 594970,
+      "num": 1095195,
+      "word": "男子网购椅子竟多出15公斤银板",
+      "onboard_time": 1770472222,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 593778,
       "num": 773763,
       "word": "谷爱凌锁定决赛",
@@ -225,6 +233,14 @@
       "onboard_time": 1770460761,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 543383,
+      "num": 543383,
+      "word": "成何体统 癫剧",
+      "onboard_time": 1770473302,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 521722,
@@ -289,14 +305,6 @@
       "onboard_time": 1770390801,
       "rank": 1,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 486529,
-      "num": 1077844,
-      "word": "男子网购椅子竟多出15公斤银板",
-      "onboard_time": 1770472222,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 474992,
@@ -371,6 +379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 417235,
+      "num": 801008,
+      "word": "林诗栋vs户上隼辅",
+      "onboard_time": 1770474203,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 412505,
       "num": 99764,
       "word": "20岁黄多多好漂亮",
@@ -393,14 +409,6 @@
       "onboard_time": 1770453079,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 386905,
-      "num": 206331,
-      "word": "成何体统 癫剧",
-      "onboard_time": 1770473302,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 378558,
@@ -507,6 +515,14 @@
       "category": "体育,音乐"
     },
     {
+      "raw_hot": 338156,
+      "num": 200292,
+      "word": "因上菜慢辱骂服务员老太太拒道歉",
+      "onboard_time": 1770471803,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 336232,
       "num": 205968,
       "word": "偶遇exo上海吃火锅",
@@ -579,14 +595,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 301807,
-      "num": 301807,
-      "word": "林诗栋vs户上隼辅",
-      "onboard_time": 1770474203,
-      "rank": 6,
-      "category": "体育"
-    },
-    {
       "raw_hot": 299525,
       "num": 299525,
       "word": "肖战网络视听出图",
@@ -641,14 +649,6 @@
       "onboard_time": 1770445042,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 285555,
-      "num": 200292,
-      "word": "因上菜慢辱骂服务员老太太拒道歉",
-      "onboard_time": 1770471803,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 284005,
@@ -851,6 +851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 220293,
+      "num": 152820,
+      "word": "脚臭的人洗脚时建议加点盐",
+      "onboard_time": 1770472762,
+      "rank": 27,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 219998,
       "num": 219998,
       "word": "王昶钱天一共同成立新公司",
@@ -1019,12 +1027,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 182308,
+      "num": 182308,
+      "word": "林诗栋惨遭逆转无缘4强",
+      "onboard_time": 1770474563,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 180013,
       "num": 147951,
       "word": "范丞丞说近期生病身体弱得像林黛玉",
       "onboard_time": 1770444863,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 179302,
+      "num": 179302,
+      "word": "肖战再次拿下奢牌新季首秀",
+      "onboard_time": 1770470961,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 178996,
@@ -1065,14 +1089,6 @@
       "onboard_time": 1770452241,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 172267,
-      "num": 172267,
-      "word": "肖战再次拿下奢牌新季首秀",
-      "onboard_time": 1770470961,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 168850,
@@ -1227,14 +1243,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 152820,
-      "num": 152820,
-      "word": "脚臭的人洗脚时建议加点盐",
-      "onboard_time": 1770472762,
-      "rank": 27,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 152724,
       "num": 135854,
       "word": "钱天一发王昶求婚vlog",
@@ -1283,6 +1291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 147747,
+      "num": 140074,
+      "word": "王楚钦7比11周启豪",
+      "onboard_time": 1770474742,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 146920,
       "num": 182390,
       "word": "肖战冬奥短片滑冰首秀",
@@ -1315,6 +1331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144621,
+      "num": 142521,
+      "word": "王濛冠军的含金量还在上升",
+      "onboard_time": 1770473422,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 143271,
       "num": 143271,
       "word": "金晨被罚或因未充分履行法定义务",
@@ -1329,6 +1353,14 @@
       "onboard_time": 1770419536,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 141706,
+      "num": 141706,
+      "word": "Tian和王濛比速滑",
+      "onboard_time": 1770473061,
+      "rank": 28,
+      "category": "电竞,体育"
     },
     {
       "raw_hot": 141340,
@@ -1352,6 +1384,14 @@
       "word": "奥运五环出场方式太震撼了",
       "onboard_time": 1770408016,
       "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 140732,
+      "num": 140732,
+      "word": "林诗栋3比4户上隼辅",
+      "onboard_time": 1770474982,
+      "rank": 29,
       "category": "体育"
     },
     {
@@ -1409,6 +1449,14 @@
       "onboard_time": 1770440538,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 133760,
+      "num": 133760,
+      "word": "苏翊鸣巅峰对决",
+      "onboard_time": 1770474381,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 133117,
@@ -1507,14 +1555,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 125035,
-      "num": 125035,
-      "word": "Tian和王濛比速滑",
-      "onboard_time": 1770473061,
-      "rank": 28,
-      "category": "电竞,体育"
-    },
-    {
       "raw_hot": 123856,
       "num": 151202,
       "word": "娜扎演绎尊界S800新春灯语",
@@ -1561,14 +1601,6 @@
       "onboard_time": 1770471681,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 122971,
-      "num": 122971,
-      "word": "王濛冠军的含金量还在上升",
-      "onboard_time": 1770473422,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 122035,
@@ -1673,6 +1705,22 @@
       "onboard_time": 1770454161,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 116278,
+      "num": 116278,
+      "word": "黄明昊演唱会嘉宾马思纯",
+      "onboard_time": 1770472582,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 115641,
+      "num": 115641,
+      "word": "92岁老人集装箱离世留下19万存款",
+      "onboard_time": 1770475762,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 115395,
@@ -1803,6 +1851,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 107847,
+      "num": 107847,
+      "word": "这是爱豆那谁是吴磊",
+      "onboard_time": 1770475222,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 107831,
       "num": 107831,
       "word": "最强大脑最无解的题目出现了",
@@ -1883,6 +1939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 105466,
+      "num": 105466,
+      "word": "心跳太快就这样损耗身体",
+      "onboard_time": 1770472281,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 105424,
       "num": 105424,
       "word": "林孝埈转发中国队入场照",
@@ -1915,14 +1979,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 104632,
-      "num": 104632,
-      "word": "黄明昊演唱会嘉宾马思纯",
-      "onboard_time": 1770472582,
-      "rank": 35,
-      "category": "演出"
-    },
-    {
       "raw_hot": 104146,
       "num": 104146,
       "word": "钱天一的愿望睁眼就实现了",
@@ -1953,6 +2009,14 @@
       "onboard_time": 1770467841,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 103641,
+      "num": 103641,
+      "word": "周翊然奢牌升title",
+      "onboard_time": 1770474742,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 103617,
@@ -1995,11 +2059,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 100788,
-      "num": 100788,
-      "word": "苏翊鸣巅峰对决",
-      "onboard_time": 1770474381,
-      "rank": 37,
+      "raw_hot": 101152,
+      "num": 101152,
+      "word": "亚洲杯",
+      "onboard_time": 1770474982,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -2115,14 +2179,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 95999,
-      "num": 95999,
-      "word": "王楚钦7比11周启豪",
-      "onboard_time": 1770474742,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 95762,
       "num": 95762,
       "word": "成何体统成绩",
@@ -2161,6 +2217,14 @@
       "onboard_time": 1770429800,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 94546,
+      "num": 94546,
+      "word": "aespa香港演唱会",
+      "onboard_time": 1770475824,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 94378,
@@ -2209,14 +2273,6 @@
       "onboard_time": 1770389002,
       "rank": 25,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 93212,
-      "num": 93212,
-      "word": "周翊然奢牌升title",
-      "onboard_time": 1770474742,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 93076,
@@ -3155,6 +3211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 34201,
+      "num": 179117,
+      "word": "男子快递收到30斤银砖果断报警",
+      "onboard_time": 1770475643,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33912,
       "num": 33912,
       "word": "感觉德国队披着棉被出来了",
@@ -3193,6 +3257,14 @@
       "onboard_time": 1770473422,
       "rank": 41,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 30284,
+      "num": 179072,
+      "word": "50天赚10万买奔驰黑茶骗局被曝光",
+      "onboard_time": 1770475463,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30143,
@@ -3459,6 +3531,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 16869,
+      "num": 179065,
+      "word": "日本在菲律宾培植代理人挑衅中国",
+      "onboard_time": 1770475701,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 16326,
       "num": 168282,
       "word": "公厕免费取纸机不出纸还被订阅业务",
@@ -3507,11 +3587,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 15039,
+      "num": 146100,
+      "word": "越南抗议韩官员进口越南女性言论",
+      "onboard_time": 1770475701,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 14255,
       "num": 163810,
       "word": "节前夜间高铁列车车票已陆续开售",
       "onboard_time": 1770387800,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12990,
+      "num": 112846,
+      "word": "12306没票微信平台还能买到",
+      "onboard_time": 1770475463,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
