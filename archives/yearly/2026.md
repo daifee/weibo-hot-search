@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/01/01 00:35:36 ~ 2026/02/07 16:57:00
+本榜单时间：2026/01/01 00:35:36 ~ 2026/02/07 17:39:40
 </p>
 </blockquote>
 <p>
@@ -311,6 +311,12 @@ TFING全员换头像了（热度：3035952）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E6%8D%A2%E5%A4%B4%E5%83%8F%23" target="weibo">
 金晨换头像（热度：2894820）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E8%82%87%E4%BA%8B%E9%80%83%E9%80%B8%E8%A2%AB%E7%BD%9A1500%E5%85%83%23" target="weibo">
+金晨肇事逃逸被罚1500元（热度：2809284）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ BLG上调新上单Wenbo（热度：1173465）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8B%92%E7%AD%BE%E4%BA%8E%E6%AD%A3%E7%9A%84%E7%B4%A0%E4%BA%BA%E4%B8%83%E4%B8%83%E5%85%AC%E5%BC%8F%E7%85%A7%23" target="weibo">
 拒签于正的素人七七公式照（热度：1072223）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9C%A8%E9%95%95%E5%9C%A8%E5%8C%97%E4%BA%AC%E4%B9%B0%E4%BA%86100%E4%B8%AAlabubu%23" target="weibo">
-李在镕在北京买了100个labubu（热度：1070936）
 </a>
 </li>
 

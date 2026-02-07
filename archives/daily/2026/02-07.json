@@ -1,6 +1,6 @@
 {
   "startTime": 1770393849547,
-  "endTime": 1770454620274,
+  "endTime": 1770457180102,
   "band_list": [
     {
       "raw_hot": 12386962,
@@ -9,6 +9,14 @@
       "onboard_time": 1770441981,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2809284,
+      "num": 155137,
+      "word": "金晨肇事逃逸被罚1500元",
+      "onboard_time": 1770455121,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 2118955,
@@ -73,6 +81,14 @@
       "onboard_time": 1770379520,
       "rank": 10,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 671188,
+      "num": 154810,
+      "word": "演员立威廉已重新安排遗嘱",
+      "onboard_time": 1770454401,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 627753,
@@ -251,6 +267,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 387757,
+      "num": 809766,
+      "word": "女子独自带三娃赶火车丢了俩",
+      "onboard_time": 1770453079,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 378558,
       "num": 378558,
       "word": "谷爱凌备战期间意外重伤",
@@ -371,6 +395,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 304605,
+      "num": 183660,
+      "word": "女子临终将婆婆300万养老钱送姐姐",
+      "onboard_time": 1770451883,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 298553,
       "num": 298553,
       "word": "生命树18集12分57秒",
@@ -403,6 +435,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 284005,
+      "num": 199993,
+      "word": "向佐说自己原生家庭有问题",
+      "onboard_time": 1770452959,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 283183,
       "num": 283183,
       "word": "有奶茶店员称订单密度超外卖大战",
@@ -416,14 +456,6 @@
       "word": "局长收370元礼品被免职",
       "onboard_time": 1770440419,
       "rank": 6,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 277508,
-      "num": 183660,
-      "word": "女子临终将婆婆300万养老钱送姐姐",
-      "onboard_time": 1770451883,
-      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -491,6 +523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 250425,
+      "num": 250425,
+      "word": "山姆品控危机引发退卡风波",
+      "onboard_time": 1770453620,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 249713,
       "num": 249713,
       "word": "吴京官宣王嘉尔加入镖人世界",
@@ -555,11 +595,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 231871,
-      "num": 199993,
-      "word": "向佐说自己原生家庭有问题",
-      "onboard_time": 1770452959,
-      "rank": 30,
+      "raw_hot": 232501,
+      "num": 232501,
+      "word": "湖南卫视春晚全阵容官宣",
+      "onboard_time": 1770454102,
+      "rank": 33,
       "category": "综艺"
     },
     {
@@ -675,12 +715,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 191211,
-      "num": 208870,
-      "word": "女子独自带三娃赶火车丢了俩",
-      "onboard_time": 1770453079,
-      "rank": 35,
-      "category": "民生新闻"
+      "raw_hot": 190366,
+      "num": 174385,
+      "word": "马琳远程收看王昶求婚钱天一",
+      "onboard_time": 1770453741,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 189715,
@@ -739,12 +779,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 177442,
-      "num": 177442,
-      "word": "山姆品控危机引发退卡风波",
-      "onboard_time": 1770453620,
-      "rank": 47,
-      "category": "民生新闻"
+      "raw_hot": 174856,
+      "num": 153867,
+      "word": "白鹿cha了娃娃脸",
+      "onboard_time": 1770454342,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 174630,
@@ -777,6 +817,14 @@
       "onboard_time": 1770399197,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 168383,
+      "num": 168383,
+      "word": "王昶钱天一共同成立新公司",
+      "onboard_time": 1770455961,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 167417,
@@ -852,7 +900,7 @@
     },
     {
       "raw_hot": 155320,
-      "num": 139511,
+      "num": 141009,
       "word": "范丞丞回应胖了",
       "onboard_time": 1770451580,
       "rank": 34,
@@ -1019,14 +1067,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 131546,
-      "num": 131546,
-      "word": "湖南卫视春晚全阵容官宣",
-      "onboard_time": 1770454102,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 130880,
       "num": 130880,
       "word": "中国代表团入场",
@@ -1073,14 +1113,6 @@
       "onboard_time": 1770444201,
       "rank": 42,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 123509,
-      "num": 123509,
-      "word": "马琳远程收看王昶求婚钱天一",
-      "onboard_time": 1770453741,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 123392,
@@ -1139,12 +1171,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 117604,
-      "num": 117604,
-      "word": "演员立威廉已重新安排遗嘱",
-      "onboard_time": 1770454401,
-      "rank": 37,
-      "category": "艺人"
+      "raw_hot": 116551,
+      "num": 111242,
+      "word": "黄子韬刘耀文吵架",
+      "onboard_time": 1770454161,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 115395,
@@ -1161,6 +1193,14 @@
       "onboard_time": 1770449660,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 113295,
+      "num": 102640,
+      "word": "刘宇宁说有三万活粉可以横着走",
+      "onboard_time": 1770454222,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 112740,
@@ -1193,6 +1233,14 @@
       "onboard_time": 1770447262,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 107853,
+      "num": 107853,
+      "word": "KPL",
+      "onboard_time": 1770456381,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 107831,
@@ -1251,14 +1299,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 105419,
-      "num": 105419,
-      "word": "白鹿cha了娃娃脸",
-      "onboard_time": 1770454342,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 104926,
       "num": 104926,
       "word": "郑思维祝福王昶钱天一",
@@ -1307,12 +1347,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 100672,
+      "num": 100672,
+      "word": "华晨宇 本命年和本命人一起过",
+      "onboard_time": 1770456321,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 100530,
       "num": 100530,
       "word": "长期主义已经卷到饮食上了",
       "onboard_time": 1770443302,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 100294,
+      "num": 131709,
+      "word": "原来这些是牙齿的求救信号",
+      "onboard_time": 1770454342,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 99479,
@@ -1411,12 +1467,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 94034,
-      "num": 131709,
-      "word": "原来这些是牙齿的求救信号",
-      "onboard_time": 1770454342,
-      "rank": 29,
-      "category": "健康医疗"
+      "raw_hot": 94052,
+      "num": 100692,
+      "word": "大冰这个角度的观察太绝了",
+      "onboard_time": 1770453199,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 93856,
@@ -1515,20 +1571,12 @@
       "category": "艺人,汽车"
     },
     {
-      "raw_hot": 90013,
-      "num": 90013,
-      "word": "刘宇宁说有三万活粉可以横着走",
-      "onboard_time": 1770454222,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 89991,
-      "num": 111242,
-      "word": "黄子韬刘耀文吵架",
-      "onboard_time": 1770454161,
-      "rank": 38,
-      "category": "综艺"
+      "raw_hot": 90071,
+      "num": 90071,
+      "word": "千问回应免单卡来不及用",
+      "onboard_time": 1770457042,
+      "rank": 40,
+      "category": "互联网"
     },
     {
       "raw_hot": 89900,
@@ -1563,6 +1611,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 88324,
+      "num": 155797,
+      "word": "肖战冬奥短片滑冰首秀",
+      "onboard_time": 1770456021,
+      "rank": 17,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 88218,
       "num": 88218,
       "word": "华为第二代阔折叠机型曝光",
@@ -1593,14 +1649,6 @@
       "onboard_time": 1770439520,
       "rank": 46,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 87217,
-      "num": 87217,
-      "word": "大冰这个角度的观察太绝了",
-      "onboard_time": 1770453199,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 87111,
@@ -1819,6 +1867,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 77431,
+      "num": 77431,
+      "word": "结婚需要多少钱",
+      "onboard_time": 1770457042,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 77118,
       "num": 77118,
       "word": "网友偶遇陈冠希文案",
@@ -1833,6 +1889,14 @@
       "onboard_time": 1770433221,
       "rank": 42,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 75309,
+      "num": 75309,
+      "word": "洛天依年度二次元神曲预定",
+      "onboard_time": 1770457042,
+      "rank": 45,
+      "category": "动漫"
     },
     {
       "raw_hot": 74747,
@@ -1875,12 +1939,28 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 73433,
+      "num": 73433,
+      "word": "孙颖莎亚洲杯还是想赢",
+      "onboard_time": 1770456861,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 73432,
       "num": 73432,
       "word": "立威廉去年已进行2次手术",
       "onboard_time": 1770384382,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 73275,
+      "num": 189954,
+      "word": "同航班三个同款行李箱三箱主全拿错",
+      "onboard_time": 1770453320,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 72855,
@@ -1993,6 +2073,14 @@
       "onboard_time": 1770452720,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 58087,
+      "num": 94236,
+      "word": "老君山一员工拍短视频5年被奖132万",
+      "onboard_time": 1770457101,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 52644,
@@ -2115,14 +2203,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 40830,
-      "num": 189954,
-      "word": "同航班三个同款行李箱三箱主全拿错",
-      "onboard_time": 1770453320,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 38317,
       "num": 155896,
       "word": "开幕式前方高萌",
@@ -2225,6 +2305,14 @@
       "onboard_time": 1770398957,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 27919,
+      "num": 169407,
+      "word": "AI考验我人脉的时候到了",
+      "onboard_time": 1770454880,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 27398,
@@ -2377,6 +2465,14 @@
       "onboard_time": 1770443903,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18563,
+      "num": 639251,
+      "word": "中国健儿蓝白红配色冰雪感拉满",
+      "onboard_time": 1770437600,
+      "rank": 2,
+      "category": "体育"
     },
     {
       "raw_hot": 18348,
