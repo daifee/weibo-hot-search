@@ -1,6 +1,6 @@
 {
   "startTime": 1770393849547,
-  "endTime": 1770472840008,
+  "endTime": 1770474894297,
   "band_list": [
     {
       "raw_hot": 12386962,
@@ -107,6 +107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 799498,
+      "num": 598044,
+      "word": "教育局回应成绩单用星星显示",
+      "onboard_time": 1770467661,
+      "rank": 23,
+      "category": "教育"
+    },
+    {
       "raw_hot": 798483,
       "num": 152477,
       "word": "微博之夜声明",
@@ -123,12 +131,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 664737,
-      "num": 557117,
-      "word": "教育局回应成绩单用星星显示",
-      "onboard_time": 1770467661,
-      "rank": 23,
-      "category": "教育"
+      "raw_hot": 645954,
+      "num": 574196,
+      "word": "生命树张扬去世",
+      "onboard_time": 1770470241,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 633607,
@@ -283,12 +291,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 481309,
-      "num": 481309,
-      "word": "生命树张扬去世",
-      "onboard_time": 1770470241,
-      "rank": 17,
-      "category": "剧集"
+      "raw_hot": 486529,
+      "num": 1077844,
+      "word": "男子网购椅子竟多出15公斤银板",
+      "onboard_time": 1770472222,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 474992,
@@ -385,6 +393,14 @@
       "onboard_time": 1770453079,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 386905,
+      "num": 206331,
+      "word": "成何体统 癫剧",
+      "onboard_time": 1770473302,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 378558,
@@ -563,6 +579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 301807,
+      "num": 301807,
+      "word": "林诗栋vs户上隼辅",
+      "onboard_time": 1770474203,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 299525,
       "num": 299525,
       "word": "肖战网络视听出图",
@@ -576,6 +600,14 @@
       "word": "生命树18集12分57秒",
       "onboard_time": 1770387983,
       "rank": 4,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 297178,
+      "num": 195347,
+      "word": "王楚然演技",
+      "onboard_time": 1770470301,
+      "rank": 37,
       "category": "剧集"
     },
     {
@@ -609,6 +641,14 @@
       "onboard_time": 1770445042,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 285555,
+      "num": 200292,
+      "word": "因上菜慢辱骂服务员老太太拒道歉",
+      "onboard_time": 1770471803,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 284005,
@@ -729,14 +769,6 @@
       "onboard_time": 1770406754,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 246813,
-      "num": 166393,
-      "word": "王楚然演技",
-      "onboard_time": 1770470301,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 246524,
@@ -939,14 +971,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 196767,
-      "num": 196767,
-      "word": "男子网购椅子竟多出15公斤银板",
-      "onboard_time": 1770472222,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 194324,
       "num": 194324,
       "word": "孙颖莎vs金娜英",
@@ -1041,6 +1065,14 @@
       "onboard_time": 1770452241,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 172267,
+      "num": 172267,
+      "word": "肖战再次拿下奢牌新季首秀",
+      "onboard_time": 1770470961,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 168850,
@@ -1171,6 +1203,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 154131,
+      "num": 154131,
+      "word": "为什么很多餐馆都在提供免费柠檬水",
+      "onboard_time": 1770471202,
+      "rank": 23,
+      "category": "美食"
+    },
+    {
       "raw_hot": 153965,
       "num": 153965,
       "word": "权志龙跳刀马刀马",
@@ -1187,6 +1227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 152820,
+      "num": 152820,
+      "word": "脚臭的人洗脚时建议加点盐",
+      "onboard_time": 1770472762,
+      "rank": 27,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 152724,
       "num": 135854,
       "word": "钱天一发王昶求婚vlog",
@@ -1201,14 +1249,6 @@
       "onboard_time": 1770387083,
       "rank": 19,
       "category": "演出"
-    },
-    {
-      "raw_hot": 152212,
-      "num": 152212,
-      "word": "肖战再次拿下奢牌新季首秀",
-      "onboard_time": 1770470961,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 151935,
@@ -1339,14 +1379,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 137947,
-      "num": 137947,
-      "word": "为什么很多餐馆都在提供免费柠檬水",
-      "onboard_time": 1770471202,
-      "rank": 23,
-      "category": "美食"
-    },
-    {
       "raw_hot": 137710,
       "num": 137710,
       "word": "黑飞无人机最近时距客机仅800米",
@@ -1435,6 +1467,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 128852,
+      "num": 128852,
+      "word": "白鹿王星越连续4年拍同样的照片",
+      "onboard_time": 1770472641,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 128827,
       "num": 128827,
       "word": "泡泡玛特年会出圈",
@@ -1465,6 +1505,14 @@
       "onboard_time": 1770444201,
       "rank": 42,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 125035,
+      "num": 125035,
+      "word": "Tian和王濛比速滑",
+      "onboard_time": 1770473061,
+      "rank": 28,
+      "category": "电竞,体育"
     },
     {
       "raw_hot": 123856,
@@ -1515,6 +1563,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 122971,
+      "num": 122971,
+      "word": "王濛冠军的含金量还在上升",
+      "onboard_time": 1770473422,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 122035,
+      "num": 122035,
+      "word": "谷爱凌摔倒场边观众吓坏了",
+      "onboard_time": 1770472162,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121489,
       "num": 121489,
       "word": "刘宇宁 结婚我给你们唱婚庆去",
@@ -1528,6 +1592,14 @@
       "word": "王楚钦vs郭勇",
       "onboard_time": 1770439281,
       "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 119364,
+      "num": 119364,
+      "word": "陈幸同1比4张本美和",
+      "onboard_time": 1770470241,
+      "rank": 31,
       "category": "体育"
     },
     {
@@ -1545,6 +1617,14 @@
       "onboard_time": 1770459321,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 118872,
+      "num": 123197,
+      "word": "王楚钦男单4强",
+      "onboard_time": 1770468922,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 118733,
@@ -1569,14 +1649,6 @@
       "onboard_time": 1770443122,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 117073,
-      "num": 117073,
-      "word": "脚臭的人洗脚时建议加点盐",
-      "onboard_time": 1770472762,
-      "rank": 27,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 117071,
@@ -1611,14 +1683,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 115302,
-      "num": 115302,
-      "word": "陈幸同1比4张本美和",
-      "onboard_time": 1770470241,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 114869,
       "num": 108973,
       "word": "白鹿剧宣的神开始发力了",
@@ -1627,12 +1691,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 114718,
-      "num": 114718,
-      "word": "因上菜慢辱骂服务员老太太拒道歉",
-      "onboard_time": 1770471803,
-      "rank": 29,
-      "category": "民生新闻"
+      "raw_hot": 113434,
+      "num": 113434,
+      "word": "王楚钦屡遭干扰官方发声",
+      "onboard_time": 1770473902,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 112740,
@@ -1851,6 +1915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 104632,
+      "num": 104632,
+      "word": "黄明昊演唱会嘉宾马思纯",
+      "onboard_time": 1770472582,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 104146,
       "num": 104146,
       "word": "钱天一的愿望睁眼就实现了",
@@ -1923,11 +1995,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 101852,
-      "num": 101852,
-      "word": "王楚钦男单4强",
-      "onboard_time": 1770468922,
-      "rank": 40,
+      "raw_hot": 100788,
+      "num": 100788,
+      "word": "苏翊鸣巅峰对决",
+      "onboard_time": 1770474381,
+      "rank": 37,
       "category": "体育"
     },
     {
@@ -1960,6 +2032,14 @@
       "word": "孙颖莎11比4陈熠",
       "onboard_time": 1770464060,
       "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 98133,
+      "num": 98133,
+      "word": "王楚钦vs张佑安",
+      "onboard_time": 1770474682,
+      "rank": 39,
       "category": "体育"
     },
     {
@@ -2035,6 +2115,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 95999,
+      "num": 95999,
+      "word": "王楚钦7比11周启豪",
+      "onboard_time": 1770474742,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 95762,
       "num": 95762,
       "word": "成何体统成绩",
@@ -2083,6 +2171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 94251,
+      "num": 94251,
+      "word": "多名领到千问免费奶茶网友发声",
+      "onboard_time": 1770473841,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 94209,
       "num": 94209,
       "word": "陆虎彩排临时改歌救场",
@@ -2113,6 +2209,14 @@
       "onboard_time": 1770389002,
       "rank": 25,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 93212,
+      "num": 93212,
+      "word": "周翊然奢牌升title",
+      "onboard_time": 1770474742,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 93076,
@@ -2177,6 +2281,14 @@
       "onboard_time": 1770396318,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 90673,
+      "num": 90673,
+      "word": "唐禹哲晒与儿子穿新春父子装",
+      "onboard_time": 1770474622,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 90568,
@@ -2275,12 +2387,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 88001,
+      "num": 88001,
+      "word": "WB战胜DYG",
+      "onboard_time": 1770474862,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 87905,
       "num": 87905,
       "word": "最强大脑",
       "onboard_time": 1770382941,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 87691,
+      "num": 87691,
+      "word": "金玟庭中文版Blue",
+      "onboard_time": 1770472942,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 87422,
@@ -2377,14 +2505,6 @@
       "onboard_time": 1770452301,
       "rank": 29,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 83949,
-      "num": 83949,
-      "word": "谷爱凌摔倒场边观众吓坏了",
-      "onboard_time": 1770472162,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 83828,
@@ -2513,14 +2633,6 @@
       "onboard_time": 1770472582,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 80407,
-      "num": 80407,
-      "word": "白鹿王星越连续4年拍同样的照片",
-      "onboard_time": 1770472641,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 79960,
@@ -3075,6 +3187,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 31515,
+      "num": 94833,
+      "word": "美军基地被指向日本直排污染物",
+      "onboard_time": 1770473422,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 30143,
       "num": 213006,
       "word": "一人一句为谷爱凌米兰加油",
@@ -3337,6 +3457,14 @@
       "onboard_time": 1770394041,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 16326,
+      "num": 168282,
+      "word": "公厕免费取纸机不出纸还被订阅业务",
+      "onboard_time": 1770474082,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 16131,
