@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1770469460970,
+  "endTime": 1770470794749,
   "band_list": [
     {
       "raw_hot": 12386962,
@@ -728,6 +728,14 @@
       "word": "校长与离异女教师恋爱被定师德不合格",
       "onboard_time": 1770200840,
       "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 971441,
+      "num": 219073,
+      "word": "男子因1条评论杀害2人",
+      "onboard_time": 1770468741,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -2123,6 +2131,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 516733,
+      "num": 1082677,
+      "word": "六个合法查询网站帮你看清一个人",
+      "onboard_time": 1770464241,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 513257,
       "num": 2227334,
       "word": "小洛熙妈妈称公安机关已立案侦查",
@@ -2419,20 +2435,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 473146,
-      "num": 775965,
-      "word": "六个合法查询网站帮你看清一个人",
-      "onboard_time": 1770464241,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 471575,
       "num": 471575,
       "word": "永兴银楼1.75吨纯银每克6.88元拍卖",
       "onboard_time": 1769947700,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 470627,
+      "num": 470627,
+      "word": "米兰冬奥首金诞生",
+      "onboard_time": 1770467781,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 469874,
@@ -2625,14 +2641,6 @@
       "onboard_time": 1770182480,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 451531,
-      "num": 451531,
-      "word": "米兰冬奥首金诞生",
-      "onboard_time": 1770467781,
-      "rank": 3,
-      "category": "体育"
     },
     {
       "raw_hot": 451502,
@@ -3441,6 +3449,14 @@
       "onboard_time": 1770182061,
       "rank": 15,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 365915,
+      "num": 215008,
+      "word": "立威廉得知恶耗时才49岁",
+      "onboard_time": 1770468741,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 365508,
@@ -5523,6 +5539,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 241579,
+      "num": 237408,
+      "word": "成何体统前8集最燃的镜头出现了",
+      "onboard_time": 1770466940,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 240841,
       "num": 149345,
       "word": "爱泼斯坦豪宅大量儿童角色扮演服装",
@@ -5667,14 +5691,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 237408,
-      "num": 237408,
-      "word": "成何体统前8集最燃的镜头出现了",
-      "onboard_time": 1770466940,
-      "rank": 8,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 237137,
       "num": 206735,
       "word": "白敬亭内搭",
@@ -5697,14 +5713,6 @@
       "onboard_time": 1770309261,
       "rank": 26,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 236019,
-      "num": 115886,
-      "word": "男子因1条评论杀害2人",
-      "onboard_time": 1770468741,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 235656,
@@ -6336,14 +6344,6 @@
       "word": "摇滚动物园道歉",
       "onboard_time": 1770359601,
       "rank": 25,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 207993,
-      "num": 113898,
-      "word": "立威廉得知恶耗时才49岁",
-      "onboard_time": 1770468741,
-      "rank": 31,
       "category": "艺人"
     },
     {
@@ -7185,6 +7185,14 @@
       "onboard_time": 1770073937,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 176225,
+      "num": 176225,
+      "word": "生命树张扬去世",
+      "onboard_time": 1770470241,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 176198,
@@ -8443,6 +8451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 146022,
+      "num": 146022,
+      "word": "妈妈对谷爱凌说了什么",
+      "onboard_time": 1770467661,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 145809,
       "num": 239959,
       "word": "就说00后适合当老师吧",
@@ -8835,6 +8851,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 139126,
+      "num": 147256,
+      "word": "教育局回应成绩单用星星显示",
+      "onboard_time": 1770467661,
+      "rank": 23,
+      "category": "教育"
+    },
+    {
       "raw_hot": 139037,
       "num": 139037,
       "word": "肖战捎来春天",
@@ -9019,14 +9043,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 135795,
-      "num": 135795,
-      "word": "妈妈对谷爱凌说了什么",
-      "onboard_time": 1770467661,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 135758,
       "num": 135758,
       "word": "德约科维奇示意纳达尔帮忙打",
@@ -9041,14 +9057,6 @@
       "onboard_time": 1770326115,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 135748,
-      "num": 147256,
-      "word": "教育局回应成绩单用星星显示",
-      "onboard_time": 1770467661,
-      "rank": 23,
-      "category": "教育"
     },
     {
       "raw_hot": 135703,
@@ -10563,6 +10571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 117071,
+      "num": 117071,
+      "word": "权志龙把所有热门舞cha了一遍",
+      "onboard_time": 1770467481,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 117011,
       "num": 117011,
       "word": "王者春节6款皮肤返场",
@@ -10865,6 +10881,14 @@
       "onboard_time": 1770095421,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 113622,
+      "num": 113622,
+      "word": "陈幸同1比4张本美和",
+      "onboard_time": 1770470241,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 113476,
@@ -11363,14 +11387,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 108358,
-      "num": 108358,
-      "word": "权志龙把所有热门舞cha了一遍",
-      "onboard_time": 1770467481,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 108355,
       "num": 108355,
       "word": "童年滤镜彻底碎了",
@@ -11433,6 +11449,14 @@
       "onboard_time": 1770029781,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 108026,
+      "num": 108026,
+      "word": "耙耙柑粑粑柑傻傻分不清楚",
+      "onboard_time": 1770465502,
+      "rank": 36,
+      "category": "美食"
     },
     {
       "raw_hot": 107853,
@@ -12051,6 +12075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 103051,
+      "num": 103051,
+      "word": "王楚然演技",
+      "onboard_time": 1770470301,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 103045,
       "num": 103045,
       "word": "贾跃亭发布人形机器人",
@@ -12115,12 +12147,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 102487,
-      "num": 102487,
-      "word": "耙耙柑粑粑柑傻傻分不清楚",
-      "onboard_time": 1770465502,
-      "rank": 36,
-      "category": "美食"
+      "raw_hot": 102525,
+      "num": 102525,
+      "word": "苏翊鸣出战大跳台决赛",
+      "onboard_time": 1770467301,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 102477,
@@ -12747,6 +12779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 97636,
+      "num": 221594,
+      "word": "女子托运宠物猫至哈尔滨却送到新疆",
+      "onboard_time": 1770469701,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97599,
       "num": 97599,
       "word": "梁伟铿祝福王昶钱天一",
@@ -12795,6 +12835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 97163,
+      "num": 97163,
+      "word": "谷爱凌边流泪边拼搏",
+      "onboard_time": 1770469462,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 97141,
       "num": 97141,
       "word": "包子进入瑜伽裤时代",
@@ -12833,6 +12881,14 @@
       "onboard_time": 1769922979,
       "rank": 29,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 96854,
+      "num": 96854,
+      "word": "一年一度退税开盲盒",
+      "onboard_time": 1770469462,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96842,
@@ -13163,6 +13219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94378,
+      "num": 94378,
+      "word": "王楚钦倒地爆冲结束比赛",
+      "onboard_time": 1770466281,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 94377,
       "num": 94377,
       "word": "小米磁吸镜头被曝已启动量产计划",
@@ -13281,14 +13345,6 @@
       "onboard_time": 1769927720,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 93671,
-      "num": 93671,
-      "word": "王楚钦倒地爆冲结束比赛",
-      "onboard_time": 1770466281,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 93536,
@@ -13779,6 +13835,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 89609,
+      "num": 89609,
+      "word": "曼联vs热刺",
+      "onboard_time": 1770470600,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 89502,
       "num": 89502,
       "word": "原来静音车厢是纯人工静音",
@@ -14019,6 +14083,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 88209,
+      "num": 88209,
+      "word": "庆幸现在没有喜欢上任何一个人",
+      "onboard_time": 1770470482,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 88078,
       "num": 88078,
       "word": "清融戴口罩比赛",
@@ -14201,6 +14273,14 @@
       "onboard_time": 1770013520,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 87071,
+      "num": 87071,
+      "word": "AG周决首鸡",
+      "onboard_time": 1770470662,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 87061,
@@ -16795,6 +16875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 59504,
+      "num": 160197,
+      "word": "东部战区一线战斗场景",
+      "onboard_time": 1770469221,
+      "rank": 19,
+      "category": "军事"
+    },
+    {
       "raw_hot": 59450,
       "num": 361610,
       "word": "12306回应一人同车次两票",
@@ -17467,6 +17555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 46959,
+      "num": 106335,
+      "word": "英国48家集团主席呼吁到中国去",
+      "onboard_time": 1770469341,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 46872,
       "num": 149119,
       "word": "苏翊鸣第10位出场",
@@ -17809,6 +17905,14 @@
       "onboard_time": 1770002300,
       "rank": 39,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 41402,
+      "num": 220043,
+      "word": "王楚钦11比6周启豪",
+      "onboard_time": 1770470182,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 41248,
@@ -18553,14 +18657,6 @@
       "onboard_time": 1769931080,
       "rank": 19,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 32066,
-      "num": 160197,
-      "word": "东部战区一线战斗场景",
-      "onboard_time": 1770469221,
-      "rank": 19,
-      "category": "军事"
     },
     {
       "raw_hot": 32040,
@@ -19667,6 +19763,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 18857,
+      "num": 98214,
+      "word": "美国老妇驾车撞入华人超市视频曝光",
+      "onboard_time": 1770470001,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 18766,
       "num": 108068,
       "word": "海南航空客机疑因风挡破裂返航",
@@ -19961,6 +20065,14 @@
       "onboard_time": 1769977873,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 16033,
+      "num": 143832,
+      "word": "春运购票买长乘短成常态",
+      "onboard_time": 1770470542,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15982,
@@ -20313,14 +20425,6 @@
       "onboard_time": 1770282747,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 8321,
-      "num": 101955,
-      "word": "英国48家集团主席呼吁到中国去",
-      "onboard_time": 1770469341,
-      "rank": 37,
-      "category": "国际时政"
     },
     {
       "raw_hot": 8294,

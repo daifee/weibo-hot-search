@@ -1,0 +1,410 @@
+{
+  "runTime": 1770470794749,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 516733,
+        "num": 1082677,
+        "word": "六个合法查询网站帮你看清一个人",
+        "onboard_time": 1770464241,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 500401,
+        "num": 781135,
+        "word": "山姆你还续卡吗",
+        "onboard_time": 1770460761,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49335,
+        "num": 640856,
+        "word": "中国网络视听盛典",
+        "onboard_time": 1770429680,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 470627,
+        "num": 470627,
+        "word": "米兰冬奥首金诞生",
+        "onboard_time": 1770467781,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 293115,
+        "num": 293115,
+        "word": "我们的少年时代2开机花篮",
+        "onboard_time": 1770463640,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 281029,
+        "num": 281029,
+        "word": "肖战网络视听出图",
+        "onboard_time": 1770465981,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224360,
+        "num": 224360,
+        "word": "很火但难吃的水果",
+        "onboard_time": 1770448940,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 241579,
+        "num": 223350,
+        "word": "成何体统前8集最燃的镜头出现了",
+        "onboard_time": 1770466940,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97636,
+        "num": 221594,
+        "word": "女子托运宠物猫至哈尔滨却送到新疆",
+        "onboard_time": 1770469701,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41402,
+        "num": 220043,
+        "word": "王楚钦11比6周启豪",
+        "onboard_time": 1770470182,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 971441,
+        "num": 219073,
+        "word": "男子因1条评论杀害2人",
+        "onboard_time": 1770468741,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 764079,
+        "num": 217388,
+        "word": "金晨肇事逃逸被罚1500元",
+        "onboard_time": 1770455121,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 365915,
+        "num": 215008,
+        "word": "立威廉得知恶耗时才49岁",
+        "onboard_time": 1770468741,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227150,
+        "num": 214203,
+        "word": "谷爱凌第二轮75.30分",
+        "onboard_time": 1770463521,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 212741,
+        "num": 212741,
+        "word": "千问",
+        "onboard_time": 1770428420,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 199324,
+        "num": 199324,
+        "word": "孕妇独自驾车就医致一男子死亡",
+        "onboard_time": 1770461180,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192771,
+        "num": 192771,
+        "word": "程潇真的拥有芭比的容貌和人生",
+        "onboard_time": 1770460041,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176225,
+        "num": 176225,
+        "word": "生命树张扬去世",
+        "onboard_time": 1770470241,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176188,
+        "num": 176188,
+        "word": "谷爱凌第一滑摔倒",
+        "onboard_time": 1770457161,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167071,
+        "num": 167071,
+        "word": "山姆品控危机引发退卡风波",
+        "onboard_time": 1770453620,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 419164,
+        "num": 164669,
+        "word": "演员立威廉已重新安排遗嘱",
+        "onboard_time": 1770454401,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 399073,
+        "num": 162567,
+        "word": "马伯骞回关虞书欣",
+        "onboard_time": 1770460100,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156180,
+        "num": 156180,
+        "word": "谷爱凌锁定决赛",
+        "onboard_time": 1770461301,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146022,
+        "num": 146022,
+        "word": "妈妈对谷爱凌说了什么",
+        "onboard_time": 1770467661,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16033,
+        "num": 143832,
+        "word": "春运购票买长乘短成常态",
+        "onboard_time": 1770470542,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143600,
+        "num": 143600,
+        "word": "林俊杰谢谢张艺兴一起合唱翅膀",
+        "onboard_time": 1770465200,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 139126,
+        "num": 139126,
+        "word": "教育局回应成绩单用星星显示",
+        "onboard_time": 1770467661,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 128338,
+        "num": 128338,
+        "word": "金晨被罚或因未充分履行法定义务",
+        "onboard_time": 1770466461,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118281,
+        "num": 118281,
+        "word": "湖南卫视春晚全阵容官宣",
+        "onboard_time": 1770454102,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112485,
+        "num": 117375,
+        "word": "工作留痕真的能保命",
+        "onboard_time": 1770459921,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 117071,
+        "num": 117071,
+        "word": "权志龙把所有热门舞cha了一遍",
+        "onboard_time": 1770467481,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113622,
+        "num": 113622,
+        "word": "陈幸同1比4张本美和",
+        "onboard_time": 1770470241,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108026,
+        "num": 108026,
+        "word": "耙耙柑粑粑柑傻傻分不清楚",
+        "onboard_time": 1770465502,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 106416,
+        "num": 106416,
+        "word": "87岁的核武院士让中国垃圾不够烧",
+        "onboard_time": 1770462321,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46959,
+        "num": 106335,
+        "word": "英国48家集团主席呼吁到中国去",
+        "onboard_time": 1770469341,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 59504,
+        "num": 106324,
+        "word": "东部战区一线战斗场景",
+        "onboard_time": 1770469221,
+        "rank": 35,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 106316,
+        "num": 106316,
+        "word": "碧血蝉直播",
+        "onboard_time": 1770467000,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103051,
+        "num": 103051,
+        "word": "王楚然演技",
+        "onboard_time": 1770470301,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102525,
+        "num": 102525,
+        "word": "苏翊鸣出战大跳台决赛",
+        "onboard_time": 1770467301,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18857,
+        "num": 98214,
+        "word": "美国老妇驾车撞入华人超市视频曝光",
+        "onboard_time": 1770470001,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 97543,
+        "num": 97543,
+        "word": "女子临终将婆婆300万养老钱送姐姐",
+        "onboard_time": 1770451883,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97163,
+        "num": 97163,
+        "word": "谷爱凌边流泪边拼搏",
+        "onboard_time": 1770469462,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96854,
+        "num": 96854,
+        "word": "一年一度退税开盲盒",
+        "onboard_time": 1770469462,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96055,
+        "num": 96055,
+        "word": "黄明昊演唱会",
+        "onboard_time": 1770467841,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 94378,
+        "num": 94378,
+        "word": "王楚钦倒地爆冲结束比赛",
+        "onboard_time": 1770466281,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89609,
+        "num": 89609,
+        "word": "曼联vs热刺",
+        "onboard_time": 1770470600,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88209,
+        "num": 88209,
+        "word": "庆幸现在没有喜欢上任何一个人",
+        "onboard_time": 1770470482,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 87071,
+        "num": 87071,
+        "word": "AG周决首鸡",
+        "onboard_time": 1770470662,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 86522,
+        "num": 86522,
+        "word": "王楚钦男单4强",
+        "onboard_time": 1770468922,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82413,
+        "num": 82413,
+        "word": "华晨宇 本命年和本命人一起过",
+        "onboard_time": 1770456321,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#两场元首外交同一天举行很不寻常#"
+    }
+  }
+}
