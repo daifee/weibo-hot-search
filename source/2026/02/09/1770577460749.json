@@ -1,0 +1,410 @@
+{
+  "runTime": 1770577460749,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 174825,
+        "num": 174825,
+        "word": "中国军网点名张本智和",
+        "onboard_time": 1770542901,
+        "rank": 0,
+        "category": "国际时政,体育"
+      },
+      {
+        "raw_hot": 164814,
+        "num": 164814,
+        "word": "微博之夜",
+        "onboard_time": 1770566541,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 16315,
+        "num": 113054,
+        "word": "12306已发售春运期间车票超1.5亿张",
+        "onboard_time": 1770556283,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100288,
+        "num": 100288,
+        "word": "苏翊鸣谷爱凌对失利的同一种回答",
+        "onboard_time": 1770573076,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66627,
+        "num": 66627,
+        "word": "21岁国际名模在新家猝然离世",
+        "onboard_time": 1770564200,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 61365,
+        "num": 61365,
+        "word": "王楚钦vs张本智和",
+        "onboard_time": 1770556883,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 57805,
+        "num": 57805,
+        "word": "王楚钦夺冠后指向王皓",
+        "onboard_time": 1770567020,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 49159,
+        "num": 49159,
+        "word": "医生提醒5个体检项目千万别不做",
+        "onboard_time": 1770565641,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 43061,
+        "num": 43061,
+        "word": "孙颖莎金牌",
+        "onboard_time": 1770556402,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 40880,
+        "num": 40880,
+        "word": "张杰官宣世界巡回演唱会",
+        "onboard_time": 1770568518,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 131963,
+        "num": 40484,
+        "word": "爱泼斯坦案无码版本不允许拍摄",
+        "onboard_time": 1770565761,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 73296,
+        "num": 40302,
+        "word": "自从你出道很少看内娱营销富二代人设",
+        "onboard_time": 1770563302,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40081,
+        "num": 40081,
+        "word": "花样滑冰团体决赛",
+        "onboard_time": 1770576314,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 40004,
+        "num": 40004,
+        "word": "柯南宝可梦 漫展禁止",
+        "onboard_time": 1770551061,
+        "rank": 13,
+        "category": "民生新闻,动漫"
+      },
+      {
+        "raw_hot": 39409,
+        "num": 39409,
+        "word": "父亲去世试管婴儿获工亡抚恤金",
+        "onboard_time": 1770555021,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37422,
+        "num": 37422,
+        "word": "白鹿破万四连拍",
+        "onboard_time": 1770556584,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36367,
+        "num": 36367,
+        "word": "张婧仪四肢已经不是自己的了",
+        "onboard_time": 1770565401,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35267,
+        "num": 35267,
+        "word": "王楚钦金牌",
+        "onboard_time": 1770562284,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34103,
+        "num": 34103,
+        "word": "孙颖莎vs王曼昱",
+        "onboard_time": 1770549860,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33342,
+        "num": 33342,
+        "word": "鞠婧祎指尖蝴蝶",
+        "onboard_time": 1770555201,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55331,
+        "num": 32369,
+        "word": "蔡徐坤直播",
+        "onboard_time": 1770552801,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 41032,
+        "num": 31964,
+        "word": "怀孕弟妹与婆婆惨遭杀害大儿媳发声",
+        "onboard_time": 1770562881,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30232,
+        "num": 30232,
+        "word": "陈浚铭从baby到daddy只需要一个月",
+        "onboard_time": 1770568998,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29285,
+        "num": 29285,
+        "word": "井川里予晒比基尼照",
+        "onboard_time": 1770558322,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 29011,
+        "num": 29011,
+        "word": "孙颖莎王曼昱争议球",
+        "onboard_time": 1770558803,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28698,
+        "num": 28698,
+        "word": "何与忍住",
+        "onboard_time": 1770565221,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28301,
+        "num": 28301,
+        "word": "刘瀚彬创中国速滑5000米冬奥最好成绩",
+        "onboard_time": 1770571758,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28050,
+        "num": 28050,
+        "word": "黄多多斜肩黑裙",
+        "onboard_time": 1770550162,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 27686,
+        "num": 27686,
+        "word": "亚洲杯",
+        "onboard_time": 1770556944,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25713,
+        "num": 25713,
+        "word": "王皓说张本智和拉不死王楚钦",
+        "onboard_time": 1770564621,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25062,
+        "num": 25062,
+        "word": "亲哥去世员工请假奔丧被辞",
+        "onboard_time": 1770563183,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23415,
+        "num": 23415,
+        "word": "男子经常口干一查血糖超出正常值两倍",
+        "onboard_time": 1770559822,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22753,
+        "num": 22753,
+        "word": "白鹿第四部破万剧",
+        "onboard_time": 1770565641,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22033,
+        "num": 22033,
+        "word": "春晚完成第四次彩排",
+        "onboard_time": 1770567320,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21647,
+        "num": 21647,
+        "word": "时代峰峻在六公主三代同堂",
+        "onboard_time": 1770562044,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 21389,
+        "num": 21389,
+        "word": "与人相处能落落大方的秘诀",
+        "onboard_time": 1770565522,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 21376,
+        "num": 21376,
+        "word": "tws回归预告封面没有韩振",
+        "onboard_time": 1770562881,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20610,
+        "num": 20610,
+        "word": "日本军国主义渗透文体领域",
+        "onboard_time": 1770543080,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 20190,
+        "num": 20190,
+        "word": "日本执政联盟将获众议院过半议席",
+        "onboard_time": 1770549681,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 19610,
+        "num": 19610,
+        "word": "黄星邱鼎杰沙漠合照",
+        "onboard_time": 1770568101,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19592,
+        "num": 19592,
+        "word": "太平年",
+        "onboard_time": 1770571097,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19105,
+        "num": 19105,
+        "word": "杨紫张哲华吻戏",
+        "onboard_time": 1770553102,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19023,
+        "num": 19023,
+        "word": "成何体统",
+        "onboard_time": 1770536601,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19013,
+        "num": 19013,
+        "word": "生命树",
+        "onboard_time": 1770558202,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18990,
+        "num": 18990,
+        "word": "迪丽热巴上车后又下车收信",
+        "onboard_time": 1770564081,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18913,
+        "num": 18913,
+        "word": "Bin微博火遍LCK与LPL",
+        "onboard_time": 1770564681,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 18834,
+        "num": 18834,
+        "word": "孙颖莎合照给王曼昱挪位置",
+        "onboard_time": 1770565281,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18628,
+        "num": 18628,
+        "word": "唐宫奇案之青雾风鸣",
+        "onboard_time": 1770575056,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18404,
+        "num": 18404,
+        "word": "比特币超发真相曝光",
+        "onboard_time": 1770565940,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 18111,
+        "num": 18111,
+        "word": "多品牌坚果礼盒混入非坚果产品",
+        "onboard_time": 1770574816,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#有一份牵挂始终温暖人心#"
+    }
+  }
+}
