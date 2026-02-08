@@ -1,0 +1,410 @@
+{
+  "runTime": 1770544495571,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 334260,
+        "num": 1053481,
+        "word": "女子吐槽飞机餐仅一根青菜配米饭",
+        "onboard_time": 1770530420,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 284989,
+        "num": 755055,
+        "word": "教师岗要求运动会第1名被指萝卜岗",
+        "onboard_time": 1770542781,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 49856,
+        "num": 623607,
+        "word": "新一轮大范围雨雪天气来袭",
+        "onboard_time": 1770539122,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1378732,
+        "num": 572592,
+        "word": "中国军网点名张本智和",
+        "onboard_time": 1770542901,
+        "rank": 3,
+        "category": "国际时政,体育"
+      },
+      {
+        "raw_hot": 489998,
+        "num": 489998,
+        "word": "外卖小哥打翻32杯奶茶原地发愣",
+        "onboard_time": 1770537860,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 403934,
+        "num": 403934,
+        "word": "爸爸弯了一辈子的腰终于断了",
+        "onboard_time": 1770533900,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 342419,
+        "num": 342419,
+        "word": "古茗回应外卖小哥打翻32杯奶茶",
+        "onboard_time": 1770539840,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 254660,
+        "num": 254660,
+        "word": "成何体统 好看",
+        "onboard_time": 1770535879,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 228594,
+        "num": 228594,
+        "word": "日本军国主义渗透文体领域",
+        "onboard_time": 1770543080,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 72417,
+        "num": 227016,
+        "word": "牛奶炸鸡",
+        "onboard_time": 1770542000,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1030763,
+        "num": 225561,
+        "word": "演员醉驾撞死人赔偿家属达成谅解",
+        "onboard_time": 1770541880,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 296540,
+        "num": 220789,
+        "word": "千问",
+        "onboard_time": 1770516199,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 282421,
+        "num": 219639,
+        "word": "一箱牛奶完成了串门的使命",
+        "onboard_time": 1770540560,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 217092,
+        "num": 217092,
+        "word": "35岁国企女掌门受贿4900万",
+        "onboard_time": 1770542960,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 33225,
+        "num": 187751,
+        "word": "范伟说千问免单真不是忽悠",
+        "onboard_time": 1770541221,
+        "rank": 14,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 185202,
+        "num": 185202,
+        "word": "四川地震",
+        "onboard_time": 1770531380,
+        "rank": 15,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 174593,
+        "num": 174593,
+        "word": "老一辈做饭好吃的原因",
+        "onboard_time": 1770537860,
+        "rank": 16,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 168176,
+        "num": 168176,
+        "word": "爱泼斯坦在巴黎红房间拍下女孩跳舞",
+        "onboard_time": 1770532821,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 166336,
+        "num": 166336,
+        "word": "春晚彩排",
+        "onboard_time": 1770538219,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 50690,
+        "num": 142287,
+        "word": "辛芷蕾的红是什么红",
+        "onboard_time": 1770543199,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130132,
+        "num": 130132,
+        "word": "减肥误食了一顿麻辣烫",
+        "onboard_time": 1770542059,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 753540,
+        "num": 129907,
+        "word": "小英想把送养出去6年的女儿接回家",
+        "onboard_time": 1770537019,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 462934,
+        "num": 129483,
+        "word": "黄一鸣直播中途崩溃大哭",
+        "onboard_time": 1770539480,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99691,
+        "num": 129424,
+        "word": "为何萝莉岛不叫爱泼斯坦岛",
+        "onboard_time": 1770540260,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 351419,
+        "num": 128898,
+        "word": "邓超忘给孙俪准备16年纪念日的礼物",
+        "onboard_time": 1770533000,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248120,
+        "num": 128718,
+        "word": "张凌赫 电竞男主",
+        "onboard_time": 1770535280,
+        "rank": 25,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 98850,
+        "num": 128452,
+        "word": "老一辈对子女睡懒觉的执念",
+        "onboard_time": 1770524420,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 128146,
+        "num": 128146,
+        "word": "吴昕用千问把长沙小吃点了个遍",
+        "onboard_time": 1770537860,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48645,
+        "num": 119504,
+        "word": "何同学谢谢AI请客",
+        "onboard_time": 1770540739,
+        "rank": 28,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 83261,
+        "num": 118437,
+        "word": "央视揭免密支付乱象",
+        "onboard_time": 1770540080,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118428,
+        "num": 118428,
+        "word": "时代少年团回应时代峰峻团建",
+        "onboard_time": 1770542480,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111856,
+        "num": 111856,
+        "word": "张凌赫这个出场",
+        "onboard_time": 1770543801,
+        "rank": 31,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 97036,
+        "num": 108890,
+        "word": "猫 没有一根毛想跟你好",
+        "onboard_time": 1770543801,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 108624,
+        "num": 108624,
+        "word": "成何体统",
+        "onboard_time": 1770536601,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107327,
+        "num": 107327,
+        "word": "梁源发文怼吴克群",
+        "onboard_time": 1770521240,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87462,
+        "num": 104721,
+        "word": "54岁男子祭祖被捕猎网电倒身亡",
+        "onboard_time": 1770542841,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103787,
+        "num": 103787,
+        "word": "丁真劝向佐退圈",
+        "onboard_time": 1770531140,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94646,
+        "num": 94646,
+        "word": "白鹿发开播红包",
+        "onboard_time": 1770530600,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74017,
+        "num": 74017,
+        "word": "王楚钦亚洲杯决赛战张本智和",
+        "onboard_time": 1770541638,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35807,
+        "num": 72716,
+        "word": "日本选民直言谁当选都一样",
+        "onboard_time": 1770544341,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 83697,
+        "num": 72656,
+        "word": "华晨宇脖子上的唇印",
+        "onboard_time": 1770522919,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 71651,
+        "num": 72520,
+        "word": "朋友说的马上到是多久到",
+        "onboard_time": 1770544160,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 72384,
+        "num": 72384,
+        "word": "中国军网点名宝可梦和名侦探柯南",
+        "onboard_time": 1770544040,
+        "rank": 42,
+        "category": "国际时政,动漫"
+      },
+      {
+        "raw_hot": 72139,
+        "num": 72139,
+        "word": "建议大家过年理性消费",
+        "onboard_time": 1770542301,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 69298,
+        "num": 69298,
+        "word": "断联一年的闺蜜突然发消息",
+        "onboard_time": 1770524901,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 68390,
+        "num": 68390,
+        "word": "这6个因素竟是甲状腺癌催化剂",
+        "onboard_time": 1770543560,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 65741,
+        "num": 66687,
+        "word": "谷爱凌回应第一跳摔了",
+        "onboard_time": 1770543981,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66264,
+        "num": 66264,
+        "word": "无畏契约",
+        "onboard_time": 1770526519,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 62728,
+        "num": 62728,
+        "word": "2026无畏巡回广州站",
+        "onboard_time": 1770540801,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 65622,
+        "num": 62718,
+        "word": "寒假能猝死学校能困死",
+        "onboard_time": 1770544281,
+        "rank": 49,
+        "category": "情感,幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记新春足迹的温暖瞬间#"
+    }
+  }
+}
