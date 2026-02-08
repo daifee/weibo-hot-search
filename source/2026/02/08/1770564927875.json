@@ -1,0 +1,410 @@
+{
+  "runTime": 1770564927875,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6438739,
+        "num": 6438739,
+        "word": "王楚钦vs张本智和",
+        "onboard_time": 1770556883,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1925515,
+        "num": 1925515,
+        "word": "王楚钦金牌",
+        "onboard_time": 1770562284,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33537,
+        "num": 1188762,
+        "word": "他们把忠诚写在祖国的边境线上",
+        "onboard_time": 1770556584,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 916710,
+        "num": 916710,
+        "word": "孙颖莎金牌",
+        "onboard_time": 1770556402,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 663329,
+        "num": 663329,
+        "word": "中国军网点名张本智和",
+        "onboard_time": 1770542901,
+        "rank": 4,
+        "category": "国际时政,体育"
+      },
+      {
+        "raw_hot": 539688,
+        "num": 539688,
+        "word": "孙颖莎vs王曼昱",
+        "onboard_time": 1770549860,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 472086,
+        "num": 472086,
+        "word": "亚洲杯",
+        "onboard_time": 1770556944,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 454741,
+        "num": 454741,
+        "word": "白鹿破万四连拍",
+        "onboard_time": 1770556584,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 244865,
+        "num": 244865,
+        "word": "Jasmine的MV是蔡徐坤自己剪的",
+        "onboard_time": 1770557181,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 240298,
+        "num": 240298,
+        "word": "民宿老板得知携程被调查放烟花庆祝",
+        "onboard_time": 1770559942,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 434917,
+        "num": 239994,
+        "word": "孙颖莎王曼昱争议球",
+        "onboard_time": 1770558803,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 363985,
+        "num": 239714,
+        "word": "高市将继续执政",
+        "onboard_time": 1770560303,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 239031,
+        "num": 239031,
+        "word": "父亲去世试管婴儿获工亡抚恤金",
+        "onboard_time": 1770555021,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228378,
+        "num": 228378,
+        "word": "自从你出道很少看内娱营销富二代人设",
+        "onboard_time": 1770563302,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201356,
+        "num": 201356,
+        "word": "时代峰峻在六公主三代同堂",
+        "onboard_time": 1770562044,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 199641,
+        "num": 199641,
+        "word": "孙颖莎左手奖杯右手金牌",
+        "onboard_time": 1770560963,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193405,
+        "num": 193405,
+        "word": "迪丽热巴上车后又下车收信",
+        "onboard_time": 1770564081,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161448,
+        "num": 161448,
+        "word": "王玉雯春晚路透缎面长裙好仙",
+        "onboard_time": 1770556883,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160541,
+        "num": 160541,
+        "word": "亚洲杯颁奖",
+        "onboard_time": 1770559402,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153929,
+        "num": 153929,
+        "word": "21岁国际名模在新家猝然离世",
+        "onboard_time": 1770564200,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 618264,
+        "num": 153774,
+        "word": "蔡徐坤直播",
+        "onboard_time": 1770552801,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 406002,
+        "num": 153340,
+        "word": "怀孕弟妹与婆婆惨遭杀害大儿媳发声",
+        "onboard_time": 1770562881,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151907,
+        "num": 151907,
+        "word": "王楚钦这才是爆冲",
+        "onboard_time": 1770562344,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 341286,
+        "num": 151623,
+        "word": "黄多多斜肩黑裙",
+        "onboard_time": 1770550162,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 150802,
+        "num": 150802,
+        "word": "杨紫张哲华吻戏",
+        "onboard_time": 1770553102,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149368,
+        "num": 149368,
+        "word": "王皓说张本智和拉不死王楚钦",
+        "onboard_time": 1770564621,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148953,
+        "num": 148953,
+        "word": "日本军国主义渗透文体领域",
+        "onboard_time": 1770543080,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 142994,
+        "num": 142994,
+        "word": "亲哥去世员工请假奔丧被辞",
+        "onboard_time": 1770563183,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141112,
+        "num": 141112,
+        "word": "鞠婧祎指尖蝴蝶",
+        "onboard_time": 1770555201,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138273,
+        "num": 138273,
+        "word": "张本智和银牌",
+        "onboard_time": 1770562704,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136868,
+        "num": 136868,
+        "word": "王楚钦在训练场围观女单决赛",
+        "onboard_time": 1770558381,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132907,
+        "num": 132907,
+        "word": "十个勤天想邀请TOP去种地",
+        "onboard_time": 1770557843,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128058,
+        "num": 128058,
+        "word": "井川里予晒比基尼照",
+        "onboard_time": 1770558322,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 121550,
+        "num": 121550,
+        "word": "男子经常口干一查血糖超出正常值两倍",
+        "onboard_time": 1770559822,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122209,
+        "num": 119930,
+        "word": "tws回归预告封面没有韩振",
+        "onboard_time": 1770562881,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118089,
+        "num": 118089,
+        "word": "张杰演唱会现场官宣鸟巢",
+        "onboard_time": 1770560363,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 115738,
+        "num": 115738,
+        "word": "王楚钦4比2张本智和",
+        "onboard_time": 1770564441,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111511,
+        "num": 111511,
+        "word": "唐宫奇案破万",
+        "onboard_time": 1770555801,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109768,
+        "num": 109768,
+        "word": "Bin微博火遍LCK与LPL",
+        "onboard_time": 1770564681,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 29767,
+        "num": 108969,
+        "word": "飞机餐真的缩水了吗",
+        "onboard_time": 1770563903,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105467,
+        "num": 108860,
+        "word": "王楚钦亚洲杯两连冠",
+        "onboard_time": 1770563360,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24177,
+        "num": 108839,
+        "word": "大巴公司回应高速上多个行李箱甩出",
+        "onboard_time": 1770563662,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108832,
+        "num": 108832,
+        "word": "张凌赫 电竞男主",
+        "onboard_time": 1770535280,
+        "rank": 42,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 108288,
+        "num": 108288,
+        "word": "男生寒假打工烤糊200多个鸡翅",
+        "onboard_time": 1770551721,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104085,
+        "num": 104085,
+        "word": "王楚钦沉浸式观赛",
+        "onboard_time": 1770560783,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107557,
+        "num": 103990,
+        "word": "QQ音乐巅峰榜将退款误购套餐",
+        "onboard_time": 1770562344,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 103123,
+        "num": 103123,
+        "word": "太平年赵匡胤黄袍加身",
+        "onboard_time": 1770561502,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103097,
+        "num": 103097,
+        "word": "孙颖莎按下亚洲杯冠军手模",
+        "onboard_time": 1770563601,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99657,
+        "num": 99657,
+        "word": "U17国足",
+        "onboard_time": 1770561383,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99654,
+        "num": 99654,
+        "word": "王楚钦王皓互动太有爱了",
+        "onboard_time": 1770564861,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#有一份牵挂始终温暖人心#"
+    }
+  }
+}

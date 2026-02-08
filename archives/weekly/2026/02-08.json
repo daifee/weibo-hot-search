@@ -1,6 +1,6 @@
 {
   "startTime": 1770482461321,
-  "endTime": 1770562505529,
+  "endTime": 1770564927875,
   "band_list": [
     {
       "raw_hot": 7279878,
@@ -419,6 +419,14 @@
       "category": "艺人,电竞"
     },
     {
+      "raw_hot": 406002,
+      "num": 153340,
+      "word": "怀孕弟妹与婆婆惨遭杀害大儿媳发声",
+      "onboard_time": 1770562881,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 401485,
       "num": 401485,
       "word": "无畏契约直播",
@@ -531,6 +539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 363985,
+      "num": 338333,
+      "word": "高市将继续执政",
+      "onboard_time": 1770560303,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 358887,
       "num": 662691,
       "word": "川大博导被举报83页材料公开",
@@ -553,14 +569,6 @@
       "onboard_time": 1770551061,
       "rank": 45,
       "category": "民生新闻,动漫"
-    },
-    {
-      "raw_hot": 338333,
-      "num": 338333,
-      "word": "高市将继续执政",
-      "onboard_time": 1770560303,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 334557,
@@ -795,6 +803,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 240298,
+      "num": 240298,
+      "word": "民宿老板得知携程被调查放烟花庆祝",
+      "onboard_time": 1770559942,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 239679,
       "num": 239679,
       "word": "鞠婧祎指尖蝴蝶",
@@ -856,6 +872,14 @@
       "word": "向太说郭碧婷从没开口要过东西",
       "onboard_time": 1770535159,
       "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 228378,
+      "num": 228378,
+      "word": "自从你出道很少看内娱营销富二代人设",
+      "onboard_time": 1770563302,
+      "rank": 13,
       "category": "艺人"
     },
     {
@@ -963,6 +987,22 @@
       "category": "海外新闻,财经"
     },
     {
+      "raw_hot": 201356,
+      "num": 201356,
+      "word": "时代峰峻在六公主三代同堂",
+      "onboard_time": 1770562044,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 199641,
+      "num": 199641,
+      "word": "孙颖莎左手奖杯右手金牌",
+      "onboard_time": 1770560963,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 199243,
       "num": 199243,
       "word": "蒯曼铜牌",
@@ -985,6 +1025,14 @@
       "onboard_time": 1770493094,
       "rank": 20,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 193405,
+      "num": 193405,
+      "word": "迪丽热巴上车后又下车收信",
+      "onboard_time": 1770564081,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 193171,
@@ -1059,14 +1107,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 172736,
-      "num": 172736,
-      "word": "民宿老板得知携程被调查放烟花庆祝",
-      "onboard_time": 1770559942,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 172036,
       "num": 157691,
       "word": "芒果女主持上新了",
@@ -1131,6 +1171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 160541,
+      "num": 160541,
+      "word": "亚洲杯颁奖",
+      "onboard_time": 1770559402,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 159349,
       "num": 159349,
       "word": "减肥误食了一顿麻辣烫",
@@ -1163,14 +1211,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 157490,
-      "num": 157490,
-      "word": "时代峰峻在六公主三代同堂",
-      "onboard_time": 1770562044,
-      "rank": 27,
-      "category": "电影"
-    },
-    {
       "raw_hot": 157450,
       "num": 152902,
       "word": "你好星期六收视率第一",
@@ -1195,6 +1235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 153929,
+      "num": 153929,
+      "word": "21岁国际名模在新家猝然离世",
+      "onboard_time": 1770564200,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 152527,
       "num": 109651,
       "word": "闪耀暖暖大猛料",
@@ -1208,6 +1256,14 @@
       "word": "孙颖莎想要孙颖莎得到",
       "onboard_time": 1770558742,
       "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 151907,
+      "num": 151907,
+      "word": "王楚钦这才是爆冲",
+      "onboard_time": 1770562344,
+      "rank": 35,
       "category": "体育"
     },
     {
@@ -1243,6 +1299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 149368,
+      "num": 149368,
+      "word": "王皓说张本智和拉不死王楚钦",
+      "onboard_time": 1770564621,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 148299,
       "num": 148299,
       "word": "王星越送给粉丝的星星",
@@ -1273,6 +1337,14 @@
       "onboard_time": 1770474563,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 142994,
+      "num": 142994,
+      "word": "亲哥去世员工请假奔丧被辞",
+      "onboard_time": 1770563183,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 142873,
@@ -1307,14 +1379,6 @@
       "category": "民生新闻,休闲"
     },
     {
-      "raw_hot": 140775,
-      "num": 140775,
-      "word": "孙颖莎左手奖杯右手金牌",
-      "onboard_time": 1770560963,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 139948,
       "num": 139948,
       "word": "王楚钦沉浸式观赛",
@@ -1345,6 +1409,14 @@
       "onboard_time": 1770547520,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 138273,
+      "num": 138273,
+      "word": "张本智和银牌",
+      "onboard_time": 1770562704,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 138130,
@@ -1392,14 +1464,6 @@
       "word": "金博洋84.15分",
       "onboard_time": 1770492495,
       "rank": 14,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 134128,
-      "num": 134128,
-      "word": "王楚钦这才是爆冲",
-      "onboard_time": 1770562344,
-      "rank": 35,
       "category": "体育"
     },
     {
@@ -1475,6 +1539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 122209,
+      "num": 119930,
+      "word": "tws回归预告封面没有韩振",
+      "onboard_time": 1770562881,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 121916,
       "num": 121916,
       "word": "00后拜年方式",
@@ -1513,6 +1585,14 @@
       "onboard_time": 1770522260,
       "rank": 46,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 115738,
+      "num": 115738,
+      "word": "王楚钦4比2张本智和",
+      "onboard_time": 1770564441,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 115561,
@@ -1611,14 +1691,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 112010,
-      "num": 112010,
-      "word": "亚洲杯颁奖",
-      "onboard_time": 1770559402,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 111560,
       "num": 111560,
       "word": "闪耀暖暖新年阁",
@@ -1641,6 +1713,14 @@
       "onboard_time": 1770554601,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 109768,
+      "num": 109768,
+      "word": "Bin微博火遍LCK与LPL",
+      "onboard_time": 1770564681,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 109388,
@@ -1763,6 +1843,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 107557,
+      "num": 103990,
+      "word": "QQ音乐巅峰榜将退款误购套餐",
+      "onboard_time": 1770562344,
+      "rank": 45,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 107556,
       "num": 103625,
       "word": "袁咏仪庆祝和张智霖银婚",
@@ -1787,6 +1875,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 105467,
+      "num": 108860,
+      "word": "王楚钦亚洲杯两连冠",
+      "onboard_time": 1770563360,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 104117,
       "num": 104117,
       "word": "张凌赫 放过我给你枪皮",
@@ -1800,6 +1896,14 @@
       "word": "王曼昱4比2战胜张本美和",
       "onboard_time": 1770532100,
       "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 103097,
+      "num": 103097,
+      "word": "孙颖莎按下亚洲杯冠军手模",
+      "onboard_time": 1770563601,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -1864,6 +1968,14 @@
       "word": "金博洋短节目",
       "onboard_time": 1770491835,
       "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 99654,
+      "num": 99654,
+      "word": "王楚钦王皓互动太有爱了",
+      "onboard_time": 1770564861,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -3203,6 +3315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 29767,
+      "num": 108969,
+      "word": "飞机餐真的缩水了吗",
+      "onboard_time": 1770563903,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28648,
       "num": 28648,
       "word": "苏翊鸣决赛首跳成功",
@@ -3257,6 +3377,14 @@
       "onboard_time": 1770498133,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 24177,
+      "num": 108839,
+      "word": "大巴公司回应高速上多个行李箱甩出",
+      "onboard_time": 1770563662,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23813,
