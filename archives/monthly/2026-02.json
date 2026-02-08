@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1770522296663,
+  "endTime": 1770528506089,
   "band_list": [
     {
       "raw_hot": 12386962,
@@ -1283,6 +1283,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 738277,
+      "num": 738277,
+      "word": "这才是真正的道歉",
+      "onboard_time": 1770522680,
+      "rank": 5,
+      "category": "情感"
+    },
+    {
       "raw_hot": 733893,
       "num": 514525,
       "word": "穆祉丞 但求一刻你能倾听我",
@@ -1649,6 +1657,14 @@
       "onboard_time": 1770449720,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 626109,
+      "num": 182379,
+      "word": "梁源发文怼吴克群",
+      "onboard_time": 1770521240,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 625632,
@@ -2219,6 +2235,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 515931,
+      "num": 146006,
+      "word": "华晨宇脖子上的唇印",
+      "onboard_time": 1770522919,
+      "rank": 20,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 515090,
+      "num": 155207,
+      "word": "老一辈对子女睡懒觉的执念",
+      "onboard_time": 1770524420,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
       "raw_hot": 513257,
       "num": 2227334,
       "word": "小洛熙妈妈称公安机关已立案侦查",
@@ -2505,14 +2537,6 @@
       "onboard_time": 1770393440,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 473815,
-      "num": 182379,
-      "word": "梁源发文怼吴克群",
-      "onboard_time": 1770521240,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 473727,
@@ -2993,6 +3017,14 @@
       "onboard_time": 1770279506,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 424409,
+      "num": 137050,
+      "word": "华东政法大学学生起诉微信收提现费",
+      "onboard_time": 1770525080,
+      "rank": 30,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 424144,
@@ -3636,7 +3668,7 @@
     },
     {
       "raw_hot": 364542,
-      "num": 139975,
+      "num": 144965,
       "word": "Bin腹肌对标Gala",
       "onboard_time": 1770519680,
       "rank": 20,
@@ -3963,6 +3995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 338520,
+      "num": 1054163,
+      "word": "全球第四大汽车巨头爆雷",
+      "onboard_time": 1770520159,
+      "rank": 27,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 338477,
       "num": 338477,
       "word": "吴京官宣王嘉尔加入镖人世界",
@@ -4275,6 +4315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 321722,
+      "num": 151948,
+      "word": "巨火但很反感的梗",
+      "onboard_time": 1770523099,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 321586,
       "num": 231301,
       "word": "向太认可是自己娶了郭碧婷",
@@ -4465,6 +4513,14 @@
       "onboard_time": 1770269063,
       "rank": 25,
       "category": "财经"
+    },
+    {
+      "raw_hot": 310409,
+      "num": 740625,
+      "word": "办婚礼没领证男子去世婆媳争18万彩礼",
+      "onboard_time": 1770526699,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 310206,
@@ -6107,6 +6163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 232448,
+      "num": 761313,
+      "word": "孙颖莎VS蒯曼",
+      "onboard_time": 1770521540,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 231674,
       "num": 231674,
       "word": "魏大勋说自己后悔去爬山",
@@ -6537,6 +6601,14 @@
       "onboard_time": 1770277584,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 214815,
+      "num": 151117,
+      "word": "吴谨言洪尧同框现身机场",
+      "onboard_time": 1770522740,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 214676,
@@ -7115,6 +7187,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 190876,
+      "num": 190876,
+      "word": "申裕斌打累了可以看看教练的脸",
+      "onboard_time": 1770527119,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190837,
       "num": 178249,
       "word": "蓝莓记得别买太大的",
@@ -7177,6 +7257,14 @@
       "onboard_time": 1770376521,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 188064,
+      "num": 144819,
+      "word": "断联一年的闺蜜突然发消息",
+      "onboard_time": 1770524901,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 188063,
@@ -7659,6 +7747,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 173906,
+      "num": 142999,
+      "word": "吴克群帮农民卖掉3万斤菜",
+      "onboard_time": 1770524241,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 173538,
       "num": 173538,
       "word": "云合",
@@ -7961,6 +8057,14 @@
       "onboard_time": 1770291564,
       "rank": 32,
       "category": "电竞,作品衍生"
+    },
+    {
+      "raw_hot": 165032,
+      "num": 141747,
+      "word": "王一博点赞了苏翊鸣",
+      "onboard_time": 1770524842,
+      "rank": 24,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 164971,
@@ -8267,6 +8371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 157862,
+      "num": 157862,
+      "word": "春晚第四次彩排路透",
+      "onboard_time": 1770522740,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 157840,
       "num": 157840,
       "word": "女孩被好想来怀疑偷东西哭了4小时",
@@ -8473,14 +8585,6 @@
       "onboard_time": 1770003261,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 153228,
-      "num": 153228,
-      "word": "孙颖莎VS蒯曼",
-      "onboard_time": 1770521540,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 152724,
@@ -9155,6 +9259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 141605,
+      "num": 141605,
+      "word": "王楚钦4比0张佑安",
+      "onboard_time": 1770527780,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141548,
       "num": 127771,
       "word": "徐明浩直播",
@@ -9435,6 +9547,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 137593,
+      "num": 137593,
+      "word": "金晨被认定逃逸的三大客观依据",
+      "onboard_time": 1770525560,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 137568,
       "num": 137568,
       "word": "范丞丞体重67公斤",
@@ -9449,6 +9569,14 @@
       "onboard_time": 1770367341,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 137393,
+      "num": 137393,
+      "word": "四川山体滑坡29人死亡失踪调查报告",
+      "onboard_time": 1770521899,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 137325,
@@ -9472,6 +9600,14 @@
       "word": "代旭私下这么潮",
       "onboard_time": 1770211823,
       "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 137055,
+      "num": 137055,
+      "word": "演唱会背痛包 偶像比粉丝先认出对方",
+      "onboard_time": 1770527840,
+      "rank": 29,
       "category": "艺人"
     },
     {
@@ -9505,6 +9641,14 @@
       "onboard_time": 1770134182,
       "rank": 32,
       "category": "财经"
+    },
+    {
+      "raw_hot": 136716,
+      "num": 136716,
+      "word": "孙颖莎期待和王曼昱会师决赛",
+      "onboard_time": 1770526759,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 136308,
@@ -10553,6 +10697,14 @@
       "onboard_time": 1770183681,
       "rank": 27,
       "category": "财经"
+    },
+    {
+      "raw_hot": 122429,
+      "num": 122429,
+      "word": "朱易点赞苏翊鸣",
+      "onboard_time": 1770527661,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 122403,
@@ -11787,14 +11939,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 110769,
-      "num": 110769,
-      "word": "全球第四大汽车巨头爆雷",
-      "onboard_time": 1770520159,
-      "rank": 27,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 110682,
       "num": 110682,
       "word": "穆祉丞 谢谢你们",
@@ -12025,6 +12169,14 @@
       "onboard_time": 1770324616,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 108379,
+      "num": 108379,
+      "word": "男生感染HPV后果很严重",
+      "onboard_time": 1770522260,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 108362,
@@ -12985,6 +13137,14 @@
       "onboard_time": 1770042805,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 101185,
+      "num": 101185,
+      "word": "看冬奥开幕式确认了男友不是疯子",
+      "onboard_time": 1770526879,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 101181,
@@ -13953,6 +14113,14 @@
       "onboard_time": 1770087680,
       "rank": 41,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 94512,
+      "num": 94512,
+      "word": "王楚钦进决赛",
+      "onboard_time": 1770527900,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 94496,
@@ -15219,14 +15387,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 86587,
-      "num": 86587,
-      "word": "四川山体滑坡29人死亡失踪调查报告",
-      "onboard_time": 1770521899,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 86493,
       "num": 86493,
       "word": "保罗乔治禁赛25场",
@@ -15377,6 +15537,14 @@
       "onboard_time": 1769937021,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 85375,
+      "num": 85375,
+      "word": "白鹿晒和赵晴合照",
+      "onboard_time": 1770522019,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 85309,
@@ -15625,6 +15793,14 @@
       "onboard_time": 1770442881,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 83619,
+      "num": 80847,
+      "word": "偶遇杨洋吃铁锅炖",
+      "onboard_time": 1770528320,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 83524,
@@ -16059,6 +16235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 80954,
+      "num": 80954,
+      "word": "孙颖莎状态调整太快了",
+      "onboard_time": 1770527181,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 80938,
       "num": 80938,
       "word": "孙颖莎与队友开心聊天",
@@ -16131,6 +16315,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 80447,
+      "num": 80447,
+      "word": "郭宇欣最甜的脸演最飒的将军",
+      "onboard_time": 1770526519,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 80410,
       "num": 80410,
       "word": "谷爱凌说抱歉吓到你们啦",
@@ -16155,6 +16347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 80275,
+      "num": 80275,
+      "word": "GALA回应健身",
+      "onboard_time": 1770523699,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 80263,
       "num": 80263,
       "word": "最喜欢这种无聊的人了",
@@ -16169,14 +16369,6 @@
       "onboard_time": 1770207141,
       "rank": 28,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 80243,
-      "num": 80243,
-      "word": "白鹿晒和赵晴合照",
-      "onboard_time": 1770522019,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 80179,
@@ -16443,6 +16635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 78545,
+      "num": 78545,
+      "word": "湖人战胜勇士",
+      "onboard_time": 1770525920,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 78499,
       "num": 78499,
       "word": "寿司in my胃",
@@ -16611,6 +16811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 76986,
+      "num": 139368,
+      "word": "男生有必要打HPV疫苗吗",
+      "onboard_time": 1770527119,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 76979,
       "num": 76979,
       "word": "意外烧死萨摩耶两男孩已被批评教育",
@@ -16657,6 +16865,14 @@
       "onboard_time": 1770258200,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76287,
+      "num": 76287,
+      "word": "扬州爱奇艺乐园开园",
+      "onboard_time": 1770525441,
+      "rank": 48,
+      "category": "旅游,民生新闻"
     },
     {
       "raw_hot": 76285,
@@ -17107,12 +17323,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 71218,
-      "num": 71218,
-      "word": "男生感染HPV后果很严重",
-      "onboard_time": 1770522260,
-      "rank": 46,
-      "category": "健康医疗"
+      "raw_hot": 71140,
+      "num": 71140,
+      "word": "A股再现00后董事长",
+      "onboard_time": 1770524719,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 71129,
@@ -18129,6 +18345,14 @@
       "onboard_time": 1770104060,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 57048,
+      "num": 82527,
+      "word": "当秦海璐抽到马上有对象",
+      "onboard_time": 1770527242,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 56820,
@@ -19379,6 +19603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 38354,
+      "num": 95228,
+      "word": "食堂大妈卧底助警方端掉诈骗团伙",
+      "onboard_time": 1770527720,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38340,
       "num": 38340,
       "word": "陕西中医药大学附属医院致歉通报",
@@ -19505,6 +19737,14 @@
       "onboard_time": 1769902997,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 37122,
+      "num": 148238,
+      "word": "天选守护者苏翊鸣",
+      "onboard_time": 1770527119,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 37118,
@@ -20321,6 +20561,14 @@
       "onboard_time": 1770347120,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 27284,
+      "num": 96801,
+      "word": "城乡差距有时就在一个厕所",
+      "onboard_time": 1770527840,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27235,
@@ -21745,6 +21993,14 @@
       "onboard_time": 1770232635,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 13629,
+      "num": 147064,
+      "word": "男子编少年淫秽视频逼学校家长回应",
+      "onboard_time": 1770527960,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13549,
