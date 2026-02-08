@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1770529609184,
+  "endTime": 1770534067993,
   "band_list": [
     {
       "raw_hot": 22742360,
@@ -281,6 +281,14 @@
       "onboard_time": 1767539425,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 3647947,
+      "num": 3647947,
+      "word": "四川地震",
+      "onboard_time": 1770531380,
+      "rank": 0,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 3580894,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1768194860,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1072723,
-      "num": 601744,
-      "word": "野狗骨头",
-      "onboard_time": 1767243982,
-      "rank": 15,
-      "category": "剧集"
     }
   ],
   "hotgov_list": [

@@ -1,7 +1,15 @@
 {
   "startTime": 1770482461321,
-  "endTime": 1770529609184,
+  "endTime": 1770534067993,
   "band_list": [
+    {
+      "raw_hot": 3647947,
+      "num": 3647947,
+      "word": "四川地震",
+      "onboard_time": 1770531380,
+      "rank": 0,
+      "category": "突发/灾害"
+    },
     {
       "raw_hot": 1139987,
       "num": 693725,
@@ -68,7 +76,7 @@
     },
     {
       "raw_hot": 526315,
-      "num": 169769,
+      "num": 177787,
       "word": "华晨宇脖子上的唇印",
       "onboard_time": 1770522919,
       "rank": 20,
@@ -115,6 +123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 475531,
+      "num": 475531,
+      "word": "丁真劝向佐退圈",
+      "onboard_time": 1770531140,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 453756,
       "num": 740625,
       "word": "办婚礼没领证男子去世婆媳争18万彩礼",
@@ -147,6 +163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 410907,
+      "num": 213850,
+      "word": "邓超忘给孙俪准备16年纪念日的礼物",
+      "onboard_time": 1770533000,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 399369,
       "num": 399369,
       "word": "苏翊鸣第二跳73.75分",
@@ -177,6 +201,14 @@
       "onboard_time": 1770520159,
       "rank": 27,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 371260,
+      "num": 1181034,
+      "word": "成都震感",
+      "onboard_time": 1770531380,
+      "rank": 1,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 368593,
@@ -251,12 +283,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 284766,
+      "num": 284766,
+      "word": "女子吐槽飞机餐仅一根青菜配米饭",
+      "onboard_time": 1770530420,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 278463,
+      "num": 212059,
+      "word": "白鹿发开播红包",
+      "onboard_time": 1770530600,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 277911,
       "num": 277911,
       "word": "11年了大姐还在骂明台",
       "onboard_time": 1770476541,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 271161,
+      "num": 208837,
+      "word": "爱泼斯坦在巴黎红房间拍下女孩跳舞",
+      "onboard_time": 1770532821,
+      "rank": 13,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 261010,
@@ -291,12 +347,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 247473,
+      "num": 697098,
+      "word": "王曼昱VS张本美和",
+      "onboard_time": 1770529160,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 246460,
+      "num": 246460,
+      "word": "四川绵阳地震",
+      "onboard_time": 1770522320,
+      "rank": 7,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 238074,
       "num": 178587,
       "word": "曝爱泼斯坦为印度首富弟弟献女郎",
       "onboard_time": 1770510620,
       "rank": 12,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 236311,
+      "num": 236311,
+      "word": "王楚钦男单争冠",
+      "onboard_time": 1770528858,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 234889,
@@ -313,6 +393,14 @@
       "onboard_time": 1770521540,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 219612,
+      "num": 219612,
+      "word": "李昀锐的桃花马在孟子义那",
+      "onboard_time": 1770528921,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 216407,
@@ -340,7 +428,7 @@
     },
     {
       "raw_hot": 213272,
-      "num": 160560,
+      "num": 161593,
       "word": "断联一年的闺蜜突然发消息",
       "onboard_time": 1770524901,
       "rank": 22,
@@ -403,6 +491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186068,
+      "num": 186068,
+      "word": "无畏契约",
+      "onboard_time": 1770526519,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 178148,
       "num": 159724,
       "word": "赵丽颖2025年全球观众最喜爱演员",
@@ -411,16 +507,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 174328,
-      "num": 174328,
-      "word": "李昀锐的桃花马在孟子义那",
-      "onboard_time": 1770528921,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 173906,
-      "num": 157738,
+      "raw_hot": 176753,
+      "num": 176753,
       "word": "吴克群帮农民卖掉3万斤菜",
       "onboard_time": 1770524241,
       "rank": 23,
@@ -465,6 +553,14 @@
       "onboard_time": 1770524842,
       "rank": 24,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 160442,
+      "num": 160442,
+      "word": "张本智和vs户上隼辅",
+      "onboard_time": 1770533181,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 159239,
@@ -603,14 +699,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 137458,
-      "num": 697098,
-      "word": "王曼昱VS张本美和",
-      "onboard_time": 1770529160,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 137393,
       "num": 137393,
       "word": "四川山体滑坡29人死亡失踪调查报告",
@@ -667,6 +755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 121916,
+      "num": 121916,
+      "word": "00后拜年方式",
+      "onboard_time": 1770532821,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 118044,
       "num": 103853,
       "word": "晚11点到凌晨3点睡好有多重要",
@@ -713,6 +809,14 @@
       "onboard_time": 1770529039,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 111435,
+      "num": 111435,
+      "word": "爸爸弯了一辈子的腰终于断了",
+      "onboard_time": 1770533900,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 109388,
@@ -771,6 +875,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 108096,
+      "num": 108096,
+      "word": "坐直不是脊柱喜欢的完美姿势",
+      "onboard_time": 1770530720,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 107912,
       "num": 107912,
       "word": "小马糕",
@@ -801,6 +913,14 @@
       "onboard_time": 1770491894,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 101371,
+      "num": 101371,
+      "word": "女子做美甲后摔倒致指甲断裂",
+      "onboard_time": 1770529398,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 101185,
@@ -851,20 +971,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 95798,
-      "num": 95798,
-      "word": "王楚钦男单争冠",
-      "onboard_time": 1770528858,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 94512,
       "num": 94512,
       "word": "王楚钦进决赛",
       "onboard_time": 1770527900,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 93503,
+      "num": 93503,
+      "word": "朵莉亚神骥鸣幻洲皮肤爆料",
+      "onboard_time": 1770531981,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 93339,
@@ -931,12 +1051,44 @@
       "category": "体育"
     },
     {
+      "raw_hot": 88705,
+      "num": 88705,
+      "word": "LPL选手集体上线看Bin腹肌照",
+      "onboard_time": 1770529221,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 88641,
+      "num": 88641,
+      "word": "王曼昱4比2战胜张本美和",
+      "onboard_time": 1770532100,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 87723,
       "num": 87723,
       "word": "肖战每一步都是内娱红毯的名场面预定",
       "onboard_time": 1770513919,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 86981,
+      "num": 89863,
+      "word": "减肥一年 以最胖的姿态迎来了新年",
+      "onboard_time": 1770530240,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 86151,
+      "num": 86151,
+      "word": "张凌赫耳夹皮衣造型",
+      "onboard_time": 1770532041,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 86032,
@@ -963,20 +1115,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 84432,
-      "num": 84432,
-      "word": "LPL选手集体上线看Bin腹肌照",
-      "onboard_time": 1770529221,
-      "rank": 46,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 83711,
       "num": 83711,
       "word": "肖战网络视听出图",
       "onboard_time": 1770465981,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 83563,
+      "num": 83563,
+      "word": "没你是家宴有你是聚餐",
+      "onboard_time": 1770533959,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 83392,
@@ -1443,6 +1595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 45096,
+      "num": 179470,
+      "word": "苏翊鸣与金墩墩的热爱接力",
+      "onboard_time": 1770532461,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 44594,
       "num": 50407,
       "word": "跳台滑雪",
@@ -1457,6 +1617,14 @@
       "onboard_time": 1770481520,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42584,
+      "num": 177837,
+      "word": "拍奶茶给阿福看",
+      "onboard_time": 1770530479,
+      "rank": 20,
+      "category": "互联网"
     },
     {
       "raw_hot": 39609,
@@ -1475,14 +1643,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 38483,
-      "num": 95809,
-      "word": "女子做美甲后摔倒致指甲断裂",
-      "onboard_time": 1770529398,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 38354,
       "num": 95228,
       "word": "食堂大妈卧底助警方端掉诈骗团伙",
@@ -1497,6 +1657,14 @@
       "onboard_time": 1770492375,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 37851,
+      "num": 93844,
+      "word": "成何体统男二女二私会男主女主看戏",
+      "onboard_time": 1770533539,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 37122,
@@ -1571,20 +1739,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26922,
+      "num": 946878,
+      "word": "窗里窗外皆是归途的美好",
+      "onboard_time": 1770521421,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25616,
       "num": 55724,
       "word": "跳台滑雪中国四朵金花出征",
       "onboard_time": 1770483677,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 25552,
-      "num": 782310,
-      "word": "窗里窗外皆是归途的美好",
-      "onboard_time": 1770521421,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 25008,
@@ -1601,6 +1769,14 @@
       "onboard_time": 1770471022,
       "rank": 2,
       "category": "体育"
+    },
+    {
+      "raw_hot": 23750,
+      "num": 94312,
+      "word": "美团和窦文涛把天聊到我心里了",
+      "onboard_time": 1770532461,
+      "rank": 37,
+      "category": "艺人,互联网"
     },
     {
       "raw_hot": 23172,
@@ -1633,6 +1809,14 @@
       "onboard_time": 1770491174,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 22261,
+      "num": 93568,
+      "word": "王楚然丞磊扣子扣在一起",
+      "onboard_time": 1770533539,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 21699,
