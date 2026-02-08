@@ -1,6 +1,6 @@
 {
   "startTime": 1770482461321,
-  "endTime": 1770534815311,
+  "endTime": 1770536694657,
   "band_list": [
     {
       "raw_hot": 3647947,
@@ -19,6 +19,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1100237,
+      "num": 213850,
+      "word": "邓超忘给孙俪准备16年纪念日的礼物",
+      "onboard_time": 1770533000,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1091823,
       "num": 1091823,
       "word": "苏翊鸣决赛",
@@ -35,20 +43,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 847471,
+      "num": 400577,
+      "word": "爸爸弯了一辈子的腰终于断了",
+      "onboard_time": 1770533900,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 791539,
       "num": 1058206,
       "word": "苏翊鸣大跳台铜牌",
       "onboard_time": 1770493515,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 740258,
-      "num": 213850,
-      "word": "邓超忘给孙俪准备16年纪念日的礼物",
-      "onboard_time": 1770533000,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 738277,
@@ -139,6 +147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 493967,
+      "num": 208837,
+      "word": "爱泼斯坦在巴黎红房间拍下女孩跳舞",
+      "onboard_time": 1770532821,
+      "rank": 13,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 492927,
       "num": 743033,
       "word": "撞人致死孕妇开的是脱保二手车",
@@ -179,12 +195,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 416135,
-      "num": 208837,
-      "word": "爱泼斯坦在巴黎红房间拍下女孩跳舞",
-      "onboard_time": 1770532821,
-      "rank": 13,
-      "category": "海外新闻"
+      "raw_hot": 418306,
+      "num": 941433,
+      "word": "女子吐槽飞机餐仅一根青菜配米饭",
+      "onboard_time": 1770530420,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 401485,
+      "num": 401485,
+      "word": "无畏契约直播",
+      "onboard_time": 1770534982,
+      "rank": 4,
+      "category": "电竞"
     },
     {
       "raw_hot": 399369,
@@ -267,6 +291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 327182,
+      "num": 163970,
+      "word": "张凌赫 电竞男主",
+      "onboard_time": 1770535280,
+      "rank": 13,
+      "category": "艺人,电竞"
+    },
+    {
       "raw_hot": 321722,
       "num": 241812,
       "word": "巨火但很反感的梗",
@@ -297,14 +329,6 @@
       "onboard_time": 1770477322,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 284766,
-      "num": 941433,
-      "word": "女子吐槽飞机餐仅一根青菜配米饭",
-      "onboard_time": 1770530420,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 278463,
@@ -443,6 +467,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 212355,
+      "num": 212355,
+      "word": "张本智和vs户上隼辅",
+      "onboard_time": 1770533181,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 211738,
       "num": 706408,
       "word": "张维伊被内推再见爱人",
@@ -467,28 +499,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 196591,
-      "num": 196591,
-      "word": "张本智和vs户上隼辅",
-      "onboard_time": 1770533181,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 196304,
       "num": 101291,
       "word": "Bin自拍晒身材照",
       "onboard_time": 1770493094,
       "rank": 20,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 195626,
-      "num": 111435,
-      "word": "爸爸弯了一辈子的腰终于断了",
-      "onboard_time": 1770533900,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 193171,
@@ -675,6 +691,14 @@
       "category": "民生新闻,休闲"
     },
     {
+      "raw_hot": 140165,
+      "num": 140165,
+      "word": "向太说郭碧婷从没开口要过东西",
+      "onboard_time": 1770535159,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 138970,
       "num": 138970,
       "word": "王力宏 我们不是那种节目",
@@ -819,6 +843,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 112558,
+      "num": 112558,
+      "word": "成何体统 好看",
+      "onboard_time": 1770535879,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 112244,
       "num": 112244,
       "word": "大司马鹅鸭杀名场面预定",
@@ -883,6 +915,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 108065,
+      "num": 108065,
+      "word": "韩国运动员盒饭",
+      "onboard_time": 1770534260,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107912,
       "num": 107912,
       "word": "小马糕",
@@ -899,19 +939,19 @@
       "category": "艺人,电竞"
     },
     {
+      "raw_hot": 106987,
+      "num": 106987,
+      "word": "QQ音乐超级巅峰之夜抢票",
+      "onboard_time": 1770534798,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 103129,
       "num": 103129,
       "word": "王曼昱4比2战胜张本美和",
       "onboard_time": 1770532100,
       "rank": 44,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 102935,
-      "num": 105500,
-      "word": "韩国运动员盒饭",
-      "onboard_time": 1770534260,
-      "rank": 32,
       "category": "体育"
     },
     {
@@ -1017,6 +1057,14 @@
       "onboard_time": 1770477978,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 93057,
+      "num": 93057,
+      "word": "网红少年被男子发不实淫秽信息侵害",
+      "onboard_time": 1770536060,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 91561,
@@ -1155,6 +1203,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 83462,
+      "num": 83462,
+      "word": "比特币价格下挫17%",
+      "onboard_time": 1770535460,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
       "raw_hot": 83392,
       "num": 83392,
       "word": "食材也有舒适区",
@@ -1187,6 +1243,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 82334,
+      "num": 82334,
+      "word": "婚礼排练的时候没人拦一下吗",
+      "onboard_time": 1770536421,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 81593,
+      "num": 81593,
+      "word": "TFING回应时代峰峻在微博之夜开会",
+      "onboard_time": 1770535579,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 80954,
       "num": 80954,
       "word": "孙颖莎状态调整太快了",
@@ -1209,6 +1281,14 @@
       "onboard_time": 1770523699,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 80205,
+      "num": 80205,
+      "word": "40平房子住出100平的感觉",
+      "onboard_time": 1770536179,
+      "rank": 42,
+      "category": "休闲"
     },
     {
       "raw_hot": 80008,
@@ -1241,6 +1321,14 @@
       "onboard_time": 1770507318,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 79030,
+      "num": 79030,
+      "word": "没领证男子去世遭索18万彩礼女方发声",
+      "onboard_time": 1770532161,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 78545,
@@ -1331,11 +1419,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 73184,
+      "num": 73184,
+      "word": "小猫出去就是为了进来",
+      "onboard_time": 1770536601,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 72597,
       "num": 72597,
       "word": "王楚钦不给对手任何机会",
       "onboard_time": 1770529579,
       "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 72574,
+      "num": 72574,
+      "word": "王曼昱孙颖莎争冠",
+      "onboard_time": 1770535939,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -1505,6 +1609,14 @@
       "onboard_time": 1770527242,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 54454,
+      "num": 81741,
+      "word": "鲁迅从百草园杀到三味书屋",
+      "onboard_time": 1770535640,
+      "rank": 39,
+      "category": "读书作家"
     },
     {
       "raw_hot": 53734,

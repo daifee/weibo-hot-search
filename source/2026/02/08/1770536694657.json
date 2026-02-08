@@ -1,0 +1,410 @@
+{
+  "runTime": 1770536694657,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 659867,
+        "num": 1105578,
+        "word": "四川地震",
+        "onboard_time": 1770531380,
+        "rank": 0,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 418306,
+        "num": 778433,
+        "word": "女子吐槽飞机餐仅一根青菜配米饭",
+        "onboard_time": 1770530420,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22335,
+        "num": 624909,
+        "word": "窗里窗外皆是归途的美好",
+        "onboard_time": 1770521421,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 505781,
+        "num": 505781,
+        "word": "丁真劝向佐退圈",
+        "onboard_time": 1770531140,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 401485,
+        "num": 401485,
+        "word": "无畏契约直播",
+        "onboard_time": 1770534982,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 847471,
+        "num": 400577,
+        "word": "爸爸弯了一辈子的腰终于断了",
+        "onboard_time": 1770533900,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 366595,
+        "num": 366595,
+        "word": "无畏契约",
+        "onboard_time": 1770526519,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 212355,
+        "num": 212355,
+        "word": "张本智和vs户上隼辅",
+        "onboard_time": 1770533181,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197404,
+        "num": 197404,
+        "word": "成都震感",
+        "onboard_time": 1770531380,
+        "rank": 8,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 169576,
+        "num": 169576,
+        "word": "全球第四大汽车巨头爆雷",
+        "onboard_time": 1770520159,
+        "rank": 9,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1100237,
+        "num": 169421,
+        "word": "邓超忘给孙俪准备16年纪念日的礼物",
+        "onboard_time": 1770533000,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 614947,
+        "num": 167512,
+        "word": "千问",
+        "onboard_time": 1770516199,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 493967,
+        "num": 165076,
+        "word": "爱泼斯坦在巴黎红房间拍下女孩跳舞",
+        "onboard_time": 1770532821,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 327182,
+        "num": 163970,
+        "word": "张凌赫 电竞男主",
+        "onboard_time": 1770535280,
+        "rank": 13,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 262204,
+        "num": 162178,
+        "word": "梁源发文怼吴克群",
+        "onboard_time": 1770521240,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224077,
+        "num": 160311,
+        "word": "老一辈对子女睡懒觉的执念",
+        "onboard_time": 1770524420,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 188350,
+        "num": 157884,
+        "word": "白鹿发开播红包",
+        "onboard_time": 1770530600,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172885,
+        "num": 155686,
+        "word": "这才是真正的道歉",
+        "onboard_time": 1770522680,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 155602,
+        "num": 155602,
+        "word": "成何体统",
+        "onboard_time": 1770536601,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141879,
+        "num": 141879,
+        "word": "李昀锐的桃花马在孟子义那",
+        "onboard_time": 1770528921,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144942,
+        "num": 141738,
+        "word": "断联一年的闺蜜突然发消息",
+        "onboard_time": 1770524901,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 288408,
+        "num": 141165,
+        "word": "华晨宇脖子上的唇印",
+        "onboard_time": 1770522919,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 140165,
+        "num": 140165,
+        "word": "向太说郭碧婷从没开口要过东西",
+        "onboard_time": 1770535159,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134508,
+        "num": 134508,
+        "word": "爱吃柚子的人天塌了",
+        "onboard_time": 1770516620,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 122685,
+        "num": 122685,
+        "word": "王楚钦男单争冠",
+        "onboard_time": 1770528858,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36780,
+        "num": 117333,
+        "word": "苏翊鸣与金墩墩的热爱接力",
+        "onboard_time": 1770532461,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116869,
+        "num": 116869,
+        "word": "Bin腹肌对标Gala",
+        "onboard_time": 1770519680,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 112558,
+        "num": 112558,
+        "word": "成何体统 好看",
+        "onboard_time": 1770535879,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108065,
+        "num": 108065,
+        "word": "韩国运动员盒饭",
+        "onboard_time": 1770534260,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106987,
+        "num": 106987,
+        "word": "QQ音乐超级巅峰之夜抢票",
+        "onboard_time": 1770534798,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 118590,
+        "num": 106876,
+        "word": "华东政法大学学生起诉微信收提现费",
+        "onboard_time": 1770525080,
+        "rank": 30,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 106312,
+        "num": 106312,
+        "word": "吴克群帮农民卖掉3万斤菜",
+        "onboard_time": 1770524241,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96984,
+        "num": 96984,
+        "word": "谢依霖回应提问赵丽颖",
+        "onboard_time": 1770519020,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93057,
+        "num": 93057,
+        "word": "网红少年被男子发不实淫秽信息侵害",
+        "onboard_time": 1770536060,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85466,
+        "num": 85466,
+        "word": "王曼昱4比2战胜张本美和",
+        "onboard_time": 1770532100,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83462,
+        "num": 83462,
+        "word": "比特币价格下挫17%",
+        "onboard_time": 1770535460,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 83122,
+        "num": 83122,
+        "word": "王曼昱VS张本美和",
+        "onboard_time": 1770529160,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82334,
+        "num": 82334,
+        "word": "婚礼排练的时候没人拦一下吗",
+        "onboard_time": 1770536421,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 82076,
+        "num": 82076,
+        "word": "坐直不是脊柱喜欢的完美姿势",
+        "onboard_time": 1770530720,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 54454,
+        "num": 81741,
+        "word": "鲁迅从百草园杀到三味书屋",
+        "onboard_time": 1770535640,
+        "rank": 39,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 81593,
+        "num": 81593,
+        "word": "TFING回应时代峰峻在微博之夜开会",
+        "onboard_time": 1770535579,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 81353,
+        "num": 81353,
+        "word": "00后拜年方式",
+        "onboard_time": 1770532821,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 80205,
+        "num": 80205,
+        "word": "40平房子住出100平的感觉",
+        "onboard_time": 1770536179,
+        "rank": 42,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 79030,
+        "num": 79030,
+        "word": "没领证男子去世遭索18万彩礼女方发声",
+        "onboard_time": 1770532161,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78127,
+        "num": 78127,
+        "word": "演唱会背痛包 偶像比粉丝先认出对方",
+        "onboard_time": 1770527840,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74396,
+        "num": 74396,
+        "word": "冬奥会首日米兰爆发冲突",
+        "onboard_time": 1770534500,
+        "rank": 45,
+        "category": "体育,海外新闻"
+      },
+      {
+        "raw_hot": 73850,
+        "num": 73850,
+        "word": "苏翊鸣疑似被日本裁判压分",
+        "onboard_time": 1770509058,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 73184,
+        "num": 73184,
+        "word": "小猫出去就是为了进来",
+        "onboard_time": 1770536601,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 72574,
+        "num": 72574,
+        "word": "王曼昱孙颖莎争冠",
+        "onboard_time": 1770535939,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 69946,
+        "num": 69946,
+        "word": "小马糕",
+        "onboard_time": 1770512360,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#向全军老同志祝贺新春#"
+    }
+  }
+}

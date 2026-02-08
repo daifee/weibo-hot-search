@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1770534815311,
+  "endTime": 1770536694657,
   "band_list": [
     {
       "raw_hot": 22742360,
@@ -2251,6 +2251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1100237,
+      "num": 213850,
+      "word": "邓超忘给孙俪准备16年纪念日的礼物",
+      "onboard_time": 1770533000,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1100171,
       "num": 1176027,
       "word": "女子洗澡忘关水阀将小区变溜冰场",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1768448240,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1073090,
-      "num": 585588,
-      "word": "痞幼上恋综进医院",
-      "onboard_time": 1768194860,
-      "rank": 3,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [
