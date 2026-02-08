@@ -1,6 +1,6 @@
 {
   "startTime": 1770482461321,
-  "endTime": 1770536694657,
+  "endTime": 1770537418609,
   "band_list": [
     {
       "raw_hot": 3647947,
@@ -19,7 +19,7 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 1100237,
+      "raw_hot": 1123563,
       "num": 213850,
       "word": "邓超忘给孙俪准备16年纪念日的礼物",
       "onboard_time": 1770533000,
@@ -43,7 +43,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 847471,
+      "raw_hot": 932363,
       "num": 400577,
       "word": "爸爸弯了一辈子的腰终于断了",
       "onboard_time": 1770533900,
@@ -131,6 +131,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 507616,
+      "num": 208837,
+      "word": "爱泼斯坦在巴黎红房间拍下女孩跳舞",
+      "onboard_time": 1770532821,
+      "rank": 13,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 497033,
       "num": 137050,
       "word": "华东政法大学学生起诉微信收提现费",
@@ -145,14 +153,6 @@
       "onboard_time": 1770473302,
       "rank": 0,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 493967,
-      "num": 208837,
-      "word": "爱泼斯坦在巴黎红房间拍下女孩跳舞",
-      "onboard_time": 1770532821,
-      "rank": 13,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 492927,
@@ -179,6 +179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 433783,
+      "num": 941433,
+      "word": "女子吐槽飞机餐仅一根青菜配米饭",
+      "onboard_time": 1770530420,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 426974,
       "num": 181480,
       "word": "王俊凯的话只有朱志鑫听进去了",
@@ -192,14 +200,6 @@
       "word": "男子因1条评论杀害2人",
       "onboard_time": 1770468741,
       "rank": 10,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 418306,
-      "num": 941433,
-      "word": "女子吐槽飞机餐仅一根青菜配米饭",
-      "onboard_time": 1770530420,
-      "rank": 4,
       "category": "民生新闻"
     },
     {
@@ -275,6 +275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 343671,
+      "num": 166102,
+      "word": "张凌赫 电竞男主",
+      "onboard_time": 1770535280,
+      "rank": 13,
+      "category": "艺人,电竞"
+    },
+    {
       "raw_hot": 332844,
       "num": 332844,
       "word": "苏翊鸣第一跳1980",
@@ -289,14 +297,6 @@
       "onboard_time": 1770510799,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 327182,
-      "num": 163970,
-      "word": "张凌赫 电竞男主",
-      "onboard_time": 1770535280,
-      "rank": 13,
-      "category": "艺人,电竞"
     },
     {
       "raw_hot": 321722,
@@ -571,6 +571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 166079,
+      "num": 166079,
+      "word": "成何体统 好看",
+      "onboard_time": 1770535879,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 165831,
       "num": 165831,
       "word": "苏翊鸣赛后哭了",
@@ -587,12 +595,28 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 162579,
+      "num": 162579,
+      "word": "向太说郭碧婷从没开口要过东西",
+      "onboard_time": 1770535159,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 159239,
       "num": 159239,
       "word": "李荣浩 快十年没做别人的制作人",
       "onboard_time": 1770516979,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 158642,
+      "num": 158642,
+      "word": "没领证男子去世遭索18万彩礼女方发声",
+      "onboard_time": 1770532161,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 157862,
@@ -691,12 +715,12 @@
       "category": "民生新闻,休闲"
     },
     {
-      "raw_hot": 140165,
-      "num": 140165,
-      "word": "向太说郭碧婷从没开口要过东西",
-      "onboard_time": 1770535159,
-      "rank": 22,
-      "category": "艺人"
+      "raw_hot": 140565,
+      "num": 140565,
+      "word": "小英想把送养出去6年的女儿接回家",
+      "onboard_time": 1770537019,
+      "rank": 24,
+      "category": "网红"
     },
     {
       "raw_hot": 138970,
@@ -841,14 +865,6 @@
       "onboard_time": 1770530720,
       "rank": 33,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 112558,
-      "num": 112558,
-      "word": "成何体统 好看",
-      "onboard_time": 1770535879,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 112244,
@@ -1171,6 +1187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 85507,
+      "num": 85507,
+      "word": "伊朗若遭美袭击将攻击美军基地",
+      "onboard_time": 1770536842,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 85375,
       "num": 85375,
       "word": "白鹿晒和赵晴合照",
@@ -1275,20 +1299,20 @@
       "category": "体育,海外新闻"
     },
     {
+      "raw_hot": 80302,
+      "num": 80302,
+      "word": "40平房子住出100平的感觉",
+      "onboard_time": 1770536179,
+      "rank": 42,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 80275,
       "num": 80275,
       "word": "GALA回应健身",
       "onboard_time": 1770523699,
       "rank": 46,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 80205,
-      "num": 80205,
-      "word": "40平房子住出100平的感觉",
-      "onboard_time": 1770536179,
-      "rank": 42,
-      "category": "休闲"
     },
     {
       "raw_hot": 80008,
@@ -1323,14 +1347,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 79030,
-      "num": 79030,
-      "word": "没领证男子去世遭索18万彩礼女方发声",
-      "onboard_time": 1770532161,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 78545,
       "num": 78545,
       "word": "湖人战胜勇士",
@@ -1345,6 +1361,14 @@
       "onboard_time": 1770490515,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 78232,
+      "num": 81741,
+      "word": "鲁迅从百草园杀到三味书屋",
+      "onboard_time": 1770535640,
+      "rank": 39,
+      "category": "读书作家"
     },
     {
       "raw_hot": 77802,
@@ -1377,6 +1401,14 @@
       "onboard_time": 1770525441,
       "rank": 48,
       "category": "旅游,民生新闻"
+    },
+    {
+      "raw_hot": 76157,
+      "num": 76157,
+      "word": "内耗的人要学会发脾气",
+      "onboard_time": 1770537019,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 76062,
@@ -1491,6 +1523,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 70058,
+      "num": 70058,
+      "word": "时代峰峻的年会在马场",
+      "onboard_time": 1770535400,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 69662,
       "num": 69662,
       "word": "写在购物袋上的文字太有力量了",
@@ -1513,6 +1553,22 @@
       "onboard_time": 1770507799,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 67230,
+      "num": 67230,
+      "word": "预防甲状腺结节的4种饮食习惯",
+      "onboard_time": 1770537318,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 66880,
+      "num": 66880,
+      "word": "不开花时装蒜一开花绝了",
+      "onboard_time": 1770537380,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 66802,
@@ -1609,14 +1665,6 @@
       "onboard_time": 1770527242,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 54454,
-      "num": 81741,
-      "word": "鲁迅从百草园杀到三味书屋",
-      "onboard_time": 1770535640,
-      "rank": 39,
-      "category": "读书作家"
     },
     {
       "raw_hot": 53734,
@@ -1905,6 +1953,14 @@
       "onboard_time": 1770521421,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26014,
+      "num": 76520,
+      "word": "白菊邵云飞接吻变磕头",
+      "onboard_time": 1770536842,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 25616,

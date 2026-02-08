@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1770536694657,
+  "endTime": 1770537418609,
   "band_list": [
     {
       "raw_hot": 12386962,
@@ -579,6 +579,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1123563,
+      "num": 213850,
+      "word": "邓超忘给孙俪准备16年纪念日的礼物",
+      "onboard_time": 1770533000,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1117850,
       "num": 1117850,
       "word": "圣罗兰认领肖战",
@@ -601,14 +609,6 @@
       "onboard_time": 1770294929,
       "rank": 10,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1100237,
-      "num": 213850,
-      "word": "邓超忘给孙俪准备16年纪念日的礼物",
-      "onboard_time": 1770533000,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 1091985,
@@ -819,6 +819,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 932363,
+      "num": 400577,
+      "word": "爸爸弯了一辈子的腰终于断了",
+      "onboard_time": 1770533900,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 920877,
       "num": 192520,
       "word": "20岁黄多多好漂亮",
@@ -985,14 +993,6 @@
       "onboard_time": 1769951182,
       "rank": 13,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 847471,
-      "num": 400577,
-      "word": "爸爸弯了一辈子的腰终于断了",
-      "onboard_time": 1770533900,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 846533,
@@ -2339,6 +2339,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 507616,
+      "num": 208837,
+      "word": "爱泼斯坦在巴黎红房间拍下女孩跳舞",
+      "onboard_time": 1770532821,
+      "rank": 13,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 506107,
       "num": 485706,
       "word": "孟子义没走红毯",
@@ -2449,14 +2457,6 @@
       "onboard_time": 1770294628,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 493967,
-      "num": 208837,
-      "word": "爱泼斯坦在巴黎红房间拍下女孩跳舞",
-      "onboard_time": 1770532821,
-      "rank": 13,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 493926,
@@ -2987,6 +2987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 433783,
+      "num": 941433,
+      "word": "女子吐槽飞机餐仅一根青菜配米饭",
+      "onboard_time": 1770530420,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 433005,
       "num": 342793,
       "word": "萨摩耶被两娃烧死主人回应质疑",
@@ -3137,14 +3145,6 @@
       "onboard_time": 1770011722,
       "rank": 3,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 418306,
-      "num": 941433,
-      "word": "女子吐槽飞机餐仅一根青菜配米饭",
-      "onboard_time": 1770530420,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 417235,
@@ -4003,6 +4003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 343671,
+      "num": 166102,
+      "word": "张凌赫 电竞男主",
+      "onboard_time": 1770535280,
+      "rank": 13,
+      "category": "艺人,电竞"
+    },
+    {
       "raw_hot": 343290,
       "num": 343290,
       "word": "立春别忘了咬春",
@@ -4337,14 +4345,6 @@
       "onboard_time": 1770279568,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 327182,
-      "num": 163970,
-      "word": "张凌赫 电竞男主",
-      "onboard_time": 1770535280,
-      "rank": 13,
-      "category": "艺人,电竞"
     },
     {
       "raw_hot": 326919,
@@ -8155,6 +8155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 166079,
+      "num": 166079,
+      "word": "成何体统 好看",
+      "onboard_time": 1770535879,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 165831,
       "num": 165831,
       "word": "苏翊鸣赛后哭了",
@@ -8281,6 +8289,14 @@
       "onboard_time": 1770263300,
       "rank": 41,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 162579,
+      "num": 162579,
+      "word": "向太说郭碧婷从没开口要过东西",
+      "onboard_time": 1770535159,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 162551,
@@ -8465,6 +8481,14 @@
       "onboard_time": 1770211702,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 158642,
+      "num": 158642,
+      "word": "没领证男子去世遭索18万彩礼女方发声",
+      "onboard_time": 1770532161,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 158565,
@@ -9523,6 +9547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 140565,
+      "num": 140565,
+      "word": "小英想把送养出去6年的女儿接回家",
+      "onboard_time": 1770537019,
+      "rank": 24,
+      "category": "网红"
+    },
+    {
       "raw_hot": 140559,
       "num": 180296,
       "word": "王橹杰我们的少年时代2围读路透",
@@ -9561,14 +9593,6 @@
       "onboard_time": 1769923521,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 140165,
-      "num": 140165,
-      "word": "向太说郭碧婷从没开口要过东西",
-      "onboard_time": 1770535159,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 140146,
@@ -11937,14 +11961,6 @@
       "onboard_time": 1770303869,
       "rank": 16,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 112558,
-      "num": 112558,
-      "word": "成何体统 好看",
-      "onboard_time": 1770535879,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 112537,
@@ -15787,6 +15803,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 85507,
+      "num": 85507,
+      "word": "伊朗若遭美袭击将攻击美军基地",
+      "onboard_time": 1770536842,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 85464,
       "num": 85464,
       "word": "淘汰下来的被子都垫你床上了",
@@ -16635,6 +16659,14 @@
       "category": "体育,海外新闻"
     },
     {
+      "raw_hot": 80302,
+      "num": 80302,
+      "word": "40平房子住出100平的感觉",
+      "onboard_time": 1770536179,
+      "rank": 42,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 80275,
       "num": 80275,
       "word": "GALA回应健身",
@@ -16657,14 +16689,6 @@
       "onboard_time": 1770207141,
       "rank": 28,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 80205,
-      "num": 80205,
-      "word": "40平房子住出100平的感觉",
-      "onboard_time": 1770536179,
-      "rank": 42,
-      "category": "休闲"
     },
     {
       "raw_hot": 80179,
@@ -16891,14 +16915,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 79030,
-      "num": 79030,
-      "word": "没领证男子去世遭索18万彩礼女方发声",
-      "onboard_time": 1770532161,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 78972,
       "num": 78972,
       "word": "白宫回应把奥巴马夫妇P成猴子视频",
@@ -17001,6 +17017,14 @@
       "onboard_time": 1770490515,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 78232,
+      "num": 81741,
+      "word": "鲁迅从百草园杀到三味书屋",
+      "onboard_time": 1770535640,
+      "rank": 39,
+      "category": "读书作家"
     },
     {
       "raw_hot": 78228,
@@ -17209,6 +17233,14 @@
       "onboard_time": 1769933960,
       "rank": 49,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 76157,
+      "num": 76157,
+      "word": "内耗的人要学会发脾气",
+      "onboard_time": 1770537019,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 76111,
@@ -17747,6 +17779,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 70058,
+      "num": 70058,
+      "word": "时代峰峻的年会在马场",
+      "onboard_time": 1770535400,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 69883,
       "num": 72222,
       "word": "20多人住店不登记还自称是皇室后代",
@@ -17971,11 +18011,27 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 67230,
+      "num": 67230,
+      "word": "预防甲状腺结节的4种饮食习惯",
+      "onboard_time": 1770537318,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 67219,
       "num": 634783,
       "word": "多地年味浓度超标了",
       "onboard_time": 1769949981,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 66880,
+      "num": 66880,
+      "word": "不开花时装蒜一开花绝了",
+      "onboard_time": 1770537380,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -18857,14 +18913,6 @@
       "onboard_time": 1770361460,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 54454,
-      "num": 81741,
-      "word": "鲁迅从百草园杀到三味书屋",
-      "onboard_time": 1770535640,
-      "rank": 39,
-      "category": "读书作家"
     },
     {
       "raw_hot": 54446,
@@ -21073,6 +21121,14 @@
       "onboard_time": 1770410834,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 26014,
+      "num": 76520,
+      "word": "白菊邵云飞接吻变磕头",
+      "onboard_time": 1770536842,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 25854,
