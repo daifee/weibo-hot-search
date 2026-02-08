@@ -1,6 +1,6 @@
 {
   "startTime": 1770482461321,
-  "endTime": 1770569836624,
+  "endTime": 1770572086910,
   "band_list": [
     {
       "raw_hot": 7279878,
@@ -708,7 +708,7 @@
     },
     {
       "raw_hot": 285946,
-      "num": 183822,
+      "num": 199448,
       "word": "医生提醒5个体检项目千万别不做",
       "onboard_time": 1770565641,
       "rank": 13,
@@ -1392,6 +1392,22 @@
       "word": "孙颖莎合照给王曼昱挪位置",
       "onboard_time": 1770565281,
       "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 147532,
+      "num": 147532,
+      "word": "微博之夜",
+      "onboard_time": 1770566541,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 143759,
+      "num": 143759,
+      "word": "王楚钦夺冠后指向王皓",
+      "onboard_time": 1770567020,
+      "rank": 27,
       "category": "体育"
     },
     {
@@ -2491,14 +2507,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 81204,
-      "num": 81204,
-      "word": "王楚钦夺冠后指向王皓",
-      "onboard_time": 1770567020,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 80986,
       "num": 80986,
       "word": "打野怎么打回来一堆问号",
@@ -2713,14 +2721,6 @@
       "onboard_time": 1770517580,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 74402,
-      "num": 74402,
-      "word": "微博之夜",
-      "onboard_time": 1770566541,
-      "rank": 29,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 73446,
@@ -3347,6 +3347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 38339,
+      "num": 38339,
+      "word": "春晚完成第四次彩排",
+      "onboard_time": 1770567320,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 38316,
       "num": 38316,
       "word": "看苏翊鸣决赛不敢呼吸",
@@ -3433,6 +3441,22 @@
       "onboard_time": 1770493875,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 32245,
+      "num": 36027,
+      "word": "刘瀚彬创中国速滑5000米冬奥最好成绩",
+      "onboard_time": 1770571758,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 31150,
+      "num": 35988,
+      "word": "赵丽颖现实主义三部曲实绩",
+      "onboard_time": 1770569898,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 30818,
@@ -3689,6 +3713,14 @@
       "onboard_time": 1770489316,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 12558,
+      "num": 257169,
+      "word": "12306已发售春运期间车票超1.5亿张",
+      "onboard_time": 1770556283,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 9892,
