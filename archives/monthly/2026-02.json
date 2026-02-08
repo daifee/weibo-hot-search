@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1770559320003,
+  "endTime": 1770561396582,
   "band_list": [
     {
       "raw_hot": 12386962,
@@ -203,6 +203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 2259763,
+      "num": 2259763,
+      "word": "王楚钦vs张本智和",
+      "onboard_time": 1770556883,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2197530,
       "num": 633745,
       "word": "于文文演唱会晕倒",
@@ -249,14 +257,6 @@
       "onboard_time": 1770442761,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2044505,
-      "num": 2044505,
-      "word": "王楚钦vs张本智和",
-      "onboard_time": 1770556883,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 2024649,
@@ -1667,6 +1667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 663762,
+      "num": 663762,
+      "word": "白鹿破万四连拍",
+      "onboard_time": 1770556584,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 663572,
       "num": 663572,
       "word": "王者马年限定皮肤英雄公布",
@@ -1728,14 +1736,6 @@
       "word": "白鹿王星越喝同一杯饮料",
       "onboard_time": 1770545960,
       "rank": 8,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 642804,
-      "num": 642804,
-      "word": "白鹿破万四连拍",
-      "onboard_time": 1770556584,
-      "rank": 7,
       "category": "剧集"
     },
     {
@@ -4139,6 +4139,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 351811,
+      "num": 287641,
+      "word": "孙颖莎王曼昱争议球",
+      "onboard_time": 1770558803,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 351441,
       "num": 226347,
       "word": "肖战获奖感言",
@@ -5283,6 +5291,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 286370,
+      "num": 286370,
+      "word": "Jasmine的MV是蔡徐坤自己剪的",
+      "onboard_time": 1770557181,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 285553,
       "num": 980132,
       "word": "中方要求美方立即停止错误行径",
@@ -5587,14 +5603,6 @@
       "category": "美食,互联网"
     },
     {
-      "raw_hot": 269904,
-      "num": 253701,
-      "word": "Jasmine的MV是蔡徐坤自己剪的",
-      "onboard_time": 1770557181,
-      "rank": 31,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 269829,
       "num": 269829,
       "word": "日本执政联盟将获众议院过半议席",
@@ -5724,7 +5732,7 @@
     },
     {
       "raw_hot": 264544,
-      "num": 152163,
+      "num": 190772,
       "word": "王楚钦在训练场围观女单决赛",
       "onboard_time": 1770558381,
       "rank": 30,
@@ -6404,7 +6412,7 @@
     },
     {
       "raw_hot": 239348,
-      "num": 189911,
+      "num": 190563,
       "word": "井川里予晒比基尼照",
       "onboard_time": 1770558322,
       "rank": 21,
@@ -6963,6 +6971,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 221514,
+      "num": 213707,
+      "word": "王玉雯春晚路透缎面长裙好仙",
+      "onboard_time": 1770556883,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 221498,
       "num": 221498,
       "word": "小米通报辽宁营口起火事件",
@@ -7035,6 +7051,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 218257,
+      "num": 218257,
+      "word": "赵心童夺冠",
+      "onboard_time": 1770559103,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 218112,
       "num": 176487,
       "word": "李嘉格为什么口碑两极化了",
@@ -7065,14 +7089,6 @@
       "onboard_time": 1770298228,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 217248,
-      "num": 209755,
-      "word": "王玉雯春晚路透缎面长裙好仙",
-      "onboard_time": 1770556883,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 216684,
@@ -7329,6 +7345,14 @@
       "onboard_time": 1770290366,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 206084,
+      "num": 206084,
+      "word": "孙颖莎回应决胜局争议判罚",
+      "onboard_time": 1770559822,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 206014,
@@ -7755,6 +7779,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 190885,
+      "num": 190885,
+      "word": "十个勤天想邀请TOP去种地",
+      "onboard_time": 1770557843,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 190837,
       "num": 178249,
       "word": "蓝莓记得别买太大的",
@@ -8089,14 +8121,6 @@
       "onboard_time": 1770129862,
       "rank": 9,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 180338,
-      "num": 174089,
-      "word": "十个勤天想邀请TOP去种地",
-      "onboard_time": 1770557843,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 180161,
@@ -9203,6 +9227,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 153129,
+      "num": 153129,
+      "word": "男子经常口干一查血糖超出正常值两倍",
+      "onboard_time": 1770559822,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 153090,
+      "num": 287914,
+      "word": "高市将继续执政",
+      "onboard_time": 1770560303,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 152724,
       "num": 135854,
       "word": "钱天一发王昶求婚vlog",
@@ -9329,6 +9369,14 @@
       "onboard_time": 1770030500,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 151112,
+      "num": 294388,
+      "word": "张杰演唱会现场官宣鸟巢",
+      "onboard_time": 1770560363,
+      "rank": 8,
+      "category": "演出"
     },
     {
       "raw_hot": 151079,
@@ -9881,6 +9929,14 @@
       "onboard_time": 1770110660,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 141964,
+      "num": 141964,
+      "word": "LABUBU获得冬奥会滑冰首金",
+      "onboard_time": 1770559642,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 141946,
@@ -10755,6 +10811,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 131051,
+      "num": 131051,
+      "word": "AG队史首个周冠",
+      "onboard_time": 1770560783,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 131005,
       "num": 129799,
       "word": "短剧演员白方文直播讨薪",
@@ -11139,14 +11203,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 125849,
-      "num": 125849,
-      "word": "赵心童夺冠",
-      "onboard_time": 1770559103,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 125782,
       "num": 125782,
       "word": "低情商才是永远的必杀技",
@@ -11371,11 +11427,27 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 123094,
+      "num": 123094,
+      "word": "孙颖莎王曼昱蒯曼自拍",
+      "onboard_time": 1770559702,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 123091,
       "num": 123091,
       "word": "谷爱凌带了块5公斤石头到奥运村",
       "onboard_time": 1770428060,
       "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 123040,
+      "num": 123040,
+      "word": "孙颖莎回应首夺亚洲杯冠军",
+      "onboard_time": 1770561022,
+      "rank": 40,
       "category": "体育"
     },
     {
@@ -11401,6 +11473,14 @@
       "onboard_time": 1770183681,
       "rank": 27,
       "category": "财经"
+    },
+    {
+      "raw_hot": 122567,
+      "num": 122567,
+      "word": "王楚钦沉浸式观赛",
+      "onboard_time": 1770560783,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 122403,
@@ -12211,6 +12291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 115130,
+      "num": 115130,
+      "word": "李一桐腰伤",
+      "onboard_time": 1770561143,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 115019,
       "num": 115019,
       "word": "伊能静透露两星期瘦了10斤",
@@ -12409,6 +12497,14 @@
       "onboard_time": 1770288925,
       "rank": 49,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 113289,
+      "num": 113289,
+      "word": "为什么黄金波动这么大",
+      "onboard_time": 1770558026,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 113242,
@@ -12985,6 +13081,14 @@
       "onboard_time": 1769997500,
       "rank": 35,
       "category": "美食"
+    },
+    {
+      "raw_hot": 108481,
+      "num": 108481,
+      "word": "孙颖莎左手奖杯右手金牌",
+      "onboard_time": 1770560963,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 108469,
@@ -14313,14 +14417,6 @@
       "onboard_time": 1769995820,
       "rank": 41,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 99037,
-      "num": 102446,
-      "word": "孙颖莎王曼昱争议球",
-      "onboard_time": 1770558803,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 98835,
@@ -16859,6 +16955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 83593,
+      "num": 128185,
+      "word": "民宿老板得知携程被调查放烟花庆祝",
+      "onboard_time": 1770559942,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83563,
       "num": 83563,
       "word": "没你是家宴有你是聚餐",
@@ -17897,6 +18001,14 @@
       "onboard_time": 1770519980,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 77501,
+      "num": 142171,
+      "word": "白鹿 叫妈妈还是姐姐",
+      "onboard_time": 1770560002,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 77403,
