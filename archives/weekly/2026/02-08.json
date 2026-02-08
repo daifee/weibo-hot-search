@@ -1,6 +1,6 @@
 {
   "startTime": 1770482461321,
-  "endTime": 1770540164925,
+  "endTime": 1770541141244,
   "band_list": [
     {
       "raw_hot": 3647947,
@@ -9,6 +9,14 @@
       "onboard_time": 1770531380,
       "rank": 0,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 1165532,
+      "num": 140565,
+      "word": "小英想把送养出去6年的女儿接回家",
+      "onboard_time": 1770537019,
+      "rank": 24,
+      "category": "网红"
     },
     {
       "raw_hot": 1139987,
@@ -27,14 +35,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1103025,
-      "num": 140565,
-      "word": "小英想把送养出去6年的女儿接回家",
-      "onboard_time": 1770537019,
-      "rank": 24,
-      "category": "网红"
-    },
-    {
       "raw_hot": 1091823,
       "num": 1091823,
       "word": "苏翊鸣决赛",
@@ -51,20 +51,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 938447,
+      "num": 598552,
+      "word": "外卖小哥打翻32杯奶茶原地发愣",
+      "onboard_time": 1770537860,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 932363,
       "num": 574718,
       "word": "爸爸弯了一辈子的腰终于断了",
       "onboard_time": 1770533900,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 854436,
-      "num": 598552,
-      "word": "外卖小哥打翻32杯奶茶原地发愣",
-      "onboard_time": 1770537860,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 791539,
@@ -196,7 +196,7 @@
     },
     {
       "raw_hot": 433783,
-      "num": 1065253,
+      "num": 1066374,
       "word": "女子吐槽飞机餐仅一根青菜配米饭",
       "onboard_time": 1770530420,
       "rank": 4,
@@ -299,6 +299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 354596,
+      "num": 768477,
+      "word": "成何体统 好看",
+      "onboard_time": 1770535879,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 332844,
       "num": 332844,
       "word": "苏翊鸣第一跳1980",
@@ -315,14 +323,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 331111,
-      "num": 768477,
-      "word": "成何体统 好看",
-      "onboard_time": 1770535879,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 321722,
       "num": 241812,
       "word": "巨火但很反感的梗",
@@ -331,8 +331,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 312034,
-      "num": 137231,
+      "raw_hot": 314897,
+      "num": 155771,
       "word": "老一辈做饭好吃的原因",
       "onboard_time": 1770537860,
       "rank": 15,
@@ -379,12 +379,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 269779,
+      "num": 523239,
+      "word": "古茗回应外卖小哥打翻32杯奶茶",
+      "onboard_time": 1770539840,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 261010,
       "num": 178090,
       "word": "沈腾回应参加泡泡玛特年会",
       "onboard_time": 1770517341,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 260021,
+      "num": 580618,
+      "word": "春晚彩排",
+      "onboard_time": 1770538219,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 256336,
@@ -427,14 +443,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 245261,
-      "num": 580618,
-      "word": "春晚彩排",
-      "onboard_time": 1770538219,
-      "rank": 4,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 238074,
       "num": 178587,
       "word": "曝爱泼斯坦为印度首富弟弟献女郎",
@@ -467,12 +475,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 232290,
+      "num": 162579,
+      "word": "向太说郭碧婷从没开口要过东西",
+      "onboard_time": 1770535159,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 219612,
       "num": 219612,
       "word": "李昀锐的桃花马在孟子义那",
       "onboard_time": 1770528921,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 217782,
+      "num": 135025,
+      "word": "黄一鸣直播中途崩溃大哭",
+      "onboard_time": 1770539480,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 216407,
@@ -521,14 +545,6 @@
       "onboard_time": 1770521780,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 207945,
-      "num": 162579,
-      "word": "向太说郭碧婷从没开口要过东西",
-      "onboard_time": 1770535159,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 201619,
@@ -641,6 +657,14 @@
       "onboard_time": 1770524842,
       "rank": 24,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 161435,
+      "num": 117099,
+      "word": "吴昕用千问把长沙小吃点了个遍",
+      "onboard_time": 1770537860,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 159239,
@@ -819,14 +843,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 130995,
-      "num": 130995,
-      "word": "黄一鸣直播中途崩溃大哭",
-      "onboard_time": 1770539480,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 127977,
       "num": 99762,
       "word": "甲状腺是怎么一步一步失控的",
@@ -865,14 +881,6 @@
       "onboard_time": 1770518659,
       "rank": 22,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 117099,
-      "num": 117099,
-      "word": "吴昕用千问把长沙小吃点了个遍",
-      "onboard_time": 1770537860,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 116912,
@@ -1003,14 +1011,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 107206,
-      "num": 126064,
-      "word": "古茗回应外卖小哥打翻32杯奶茶",
-      "onboard_time": 1770539840,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 107142,
       "num": 107142,
       "word": "张凌赫无畏契约上班",
@@ -1107,6 +1107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 98061,
+      "num": 98061,
+      "word": "许凯魏哲鸣新剧阴湿诡味好重",
+      "onboard_time": 1770538400,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 97770,
       "num": 97770,
       "word": "花样滑冰团体赛",
@@ -1171,6 +1179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 91637,
+      "num": 91637,
+      "word": "2026无畏巡回广州站",
+      "onboard_time": 1770540801,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 91561,
       "num": 91561,
       "word": "克林顿夫妇连日发声",
@@ -1219,6 +1235,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 89477,
+      "num": 89477,
+      "word": "小米租车测试引争议",
+      "onboard_time": 1770539901,
+      "rank": 42,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 89237,
       "num": 89237,
       "word": "谷爱凌说摔倒与赛道无关",
@@ -1249,6 +1273,14 @@
       "onboard_time": 1770530240,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 86768,
+      "num": 86768,
+      "word": "为何萝莉岛不叫爱泼斯坦岛",
+      "onboard_time": 1770540260,
+      "rank": 41,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 86151,
@@ -1299,6 +1331,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 83748,
+      "num": 83748,
+      "word": "一箱牛奶完成了串门的使命",
+      "onboard_time": 1770540560,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 83711,
       "num": 83711,
       "word": "肖战网络视听出图",
@@ -1321,6 +1361,14 @@
       "onboard_time": 1770535460,
       "rank": 35,
       "category": "财经"
+    },
+    {
+      "raw_hot": 83448,
+      "num": 83448,
+      "word": "餐厅使用跪姿旗袍女性摆件引争议",
+      "onboard_time": 1770540801,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 83392,
@@ -1425,14 +1473,6 @@
       "onboard_time": 1770519140,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 79733,
-      "num": 79733,
-      "word": "小米租车测试引争议",
-      "onboard_time": 1770539901,
-      "rank": 42,
-      "category": "汽车"
     },
     {
       "raw_hot": 79454,
@@ -1563,14 +1603,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 73070,
-      "num": 73070,
-      "word": "许凯魏哲鸣新剧阴湿诡味好重",
-      "onboard_time": 1770538400,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 72597,
       "num": 72597,
       "word": "王楚钦不给对手任何机会",
@@ -1641,6 +1673,14 @@
       "onboard_time": 1770535400,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 69719,
+      "num": 69719,
+      "word": "每天睡几小时才健康",
+      "onboard_time": 1770538341,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 69662,
@@ -1851,6 +1891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 50618,
+      "num": 106053,
+      "word": "何同学谢谢AI请客",
+      "onboard_time": 1770540739,
+      "rank": 28,
+      "category": "互联网,网红"
+    },
+    {
       "raw_hot": 50481,
       "num": 53016,
       "word": "因上菜慢辱骂服务员老太太拒道歉",
@@ -1963,6 +2011,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 41574,
+      "num": 620004,
+      "word": "新一轮大范围雨雪天气来袭",
+      "onboard_time": 1770539122,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41563,
       "num": 89254,
       "word": "办婚礼未领证男方去世彩礼该退吗",
@@ -2011,14 +2067,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 37102,
-      "num": 620004,
-      "word": "新一轮大范围雨雪天气来袭",
-      "onboard_time": 1770539122,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 35426,
       "num": 236344,
       "word": "米兰冬奥会首个奥运纪录",
@@ -2036,7 +2084,7 @@
     },
     {
       "raw_hot": 33753,
-      "num": 134457,
+      "num": 137108,
       "word": "周震南把丰愉写进旋律里",
       "onboard_time": 1770538460,
       "rank": 19,
@@ -2171,12 +2219,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 22474,
+      "num": 152742,
+      "word": "吃上AI主理人的席了",
+      "onboard_time": 1770537681,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 21699,
       "num": 21699,
       "word": "只有苏翊鸣两次站上领奖台",
       "onboard_time": 1770499334,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 21496,
+      "num": 103855,
+      "word": "印度旋转秋千空中断裂甩飞15人",
+      "onboard_time": 1770540919,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 21373,
@@ -2193,14 +2257,6 @@
       "onboard_time": 1770489915,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 20108,
-      "num": 137736,
-      "word": "吃上AI主理人的席了",
-      "onboard_time": 1770537681,
-      "rank": 14,
-      "category": "互联网"
     },
     {
       "raw_hot": 19736,
@@ -2243,6 +2299,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 16334,
+      "num": 87611,
+      "word": "女子回应凌晨返乡老人孩子等在门口",
+      "onboard_time": 1770540801,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 15745,
       "num": 23976,
       "word": "刘奇跳台滑雪首跳超预期",
@@ -2265,6 +2329,14 @@
       "onboard_time": 1770489316,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 9892,
+      "num": 87018,
+      "word": "申聪回家5年后首谈养家生活",
+      "onboard_time": 1770540919,
+      "rank": 39,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
