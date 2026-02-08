@@ -1,6 +1,6 @@
 {
   "startTime": 1770482461321,
-  "endTime": 1770565861877,
+  "endTime": 1770568847669,
   "band_list": [
     {
       "raw_hot": 7279878,
@@ -323,6 +323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 482917,
+      "num": 160292,
+      "word": "爱泼斯坦案无码版本不允许拍摄",
+      "onboard_time": 1770565761,
+      "rank": 43,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 481810,
       "num": 481810,
       "word": "35岁国企女掌门受贿4900万",
@@ -555,12 +563,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 355696,
+      "num": 355696,
+      "word": "21岁国际名模在新家猝然离世",
+      "onboard_time": 1770564200,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 354596,
       "num": 770219,
       "word": "成何体统 好看",
       "onboard_time": 1770535879,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 353073,
+      "num": 159921,
+      "word": "何与忍住",
+      "onboard_time": 1770565221,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 339996,
@@ -675,6 +699,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 286032,
+      "num": 286032,
+      "word": "王皓说张本智和拉不死王楚钦",
+      "onboard_time": 1770564621,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 284221,
       "num": 284221,
       "word": "牛奶炸鸡",
@@ -707,6 +739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 271113,
+      "num": 228378,
+      "word": "自从你出道很少看内娱营销富二代人设",
+      "onboard_time": 1770563302,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 269829,
       "num": 269829,
       "word": "日本执政联盟将获众议院过半议席",
@@ -737,6 +777,14 @@
       "onboard_time": 1770538219,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 259794,
+      "num": 183822,
+      "word": "医生提醒5个体检项目千万别不做",
+      "onboard_time": 1770565641,
+      "rank": 13,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 256336,
@@ -785,14 +833,6 @@
       "onboard_time": 1770506356,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 247738,
-      "num": 228378,
-      "word": "自从你出道很少看内娱营销富二代人设",
-      "onboard_time": 1770563302,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 247473,
@@ -929,14 +969,6 @@
       "onboard_time": 1770560963,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 215884,
-      "num": 215884,
-      "word": "21岁国际名模在新家猝然离世",
-      "onboard_time": 1770564200,
-      "rank": 19,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 215613,
@@ -1083,14 +1115,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 183822,
-      "num": 183822,
-      "word": "医生提醒5个体检项目千万别不做",
-      "onboard_time": 1770565641,
-      "rank": 13,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 181154,
       "num": 181154,
       "word": "办婚礼没领证女子在爱人祭日被赶婚房",
@@ -1131,12 +1155,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 171142,
-      "num": 171142,
-      "word": "王皓说张本智和拉不死王楚钦",
-      "onboard_time": 1770564621,
-      "rank": 25,
-      "category": "体育"
+      "raw_hot": 171736,
+      "num": 74102,
+      "word": "张杰官宣世界巡回演唱会",
+      "onboard_time": 1770568518,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 171414,
+      "num": 154532,
+      "word": "张婧仪四肢已经不是自己的了",
+      "onboard_time": 1770565401,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 171040,
@@ -1259,6 +1291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 154312,
+      "num": 154312,
+      "word": "白鹿第四部破万剧",
+      "onboard_time": 1770565641,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 154117,
       "num": 154117,
       "word": "单板滑雪决赛",
@@ -1347,6 +1387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 147668,
+      "num": 147668,
+      "word": "孙颖莎合照给王曼昱挪位置",
+      "onboard_time": 1770565281,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 143364,
       "num": 114501,
       "word": "菲律宾一男子强奸孙女多达105次",
@@ -1401,14 +1449,6 @@
       "onboard_time": 1770560783,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 139322,
-      "num": 142054,
-      "word": "张婧仪四肢已经不是自己的了",
-      "onboard_time": 1770565401,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 138970,
@@ -1475,14 +1515,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 135608,
-      "num": 135608,
-      "word": "何与忍住",
-      "onboard_time": 1770565221,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 135413,
       "num": 135413,
       "word": "新音纪录片预告",
@@ -1513,14 +1545,6 @@
       "onboard_time": 1770560783,
       "rank": 36,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 129619,
-      "num": 119025,
-      "word": "孙颖莎合照给王曼昱挪位置",
-      "onboard_time": 1770565281,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 127977,
@@ -1657,14 +1681,6 @@
       "onboard_time": 1770561143,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 114741,
-      "num": 114741,
-      "word": "白鹿第四部破万剧",
-      "onboard_time": 1770565641,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 113436,
@@ -2123,14 +2139,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 92380,
-      "num": 92380,
-      "word": "爱泼斯坦案无码版本不允许拍摄",
-      "onboard_time": 1770565761,
-      "rank": 43,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 92059,
       "num": 92059,
       "word": "8岁女孩随邻居长江游泳溺亡案宣判",
@@ -2483,6 +2491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 81204,
+      "num": 81204,
+      "word": "王楚钦夺冠后指向王皓",
+      "onboard_time": 1770567020,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 80986,
       "num": 80986,
       "word": "打野怎么打回来一堆问号",
@@ -2697,6 +2713,14 @@
       "onboard_time": 1770517580,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 74402,
+      "num": 74402,
+      "word": "微博之夜",
+      "onboard_time": 1770566541,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 73446,
@@ -2931,6 +2955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 61829,
+      "num": 61829,
+      "word": "比特币超发真相曝光",
+      "onboard_time": 1770565940,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
       "raw_hot": 61482,
       "num": 76704,
       "word": "女子被拐32年曾离父母家仅1公里",
@@ -3025,6 +3057,14 @@
       "onboard_time": 1770544700,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 55042,
+      "num": 55042,
+      "word": "唐宫第10集开局一群人结尾一堆坟",
+      "onboard_time": 1770567799,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 53881,
