@@ -1,6 +1,6 @@
 {
   "startTime": 1770482461321,
-  "endTime": 1770541141244,
+  "endTime": 1770543578902,
   "band_list": [
     {
       "raw_hot": 3647947,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1165532,
-      "num": 140565,
+      "num": 141244,
       "word": "小英想把送养出去6年的女儿接回家",
       "onboard_time": 1770537019,
       "rank": 24,
@@ -67,6 +67,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 838079,
+      "num": 230891,
+      "word": "演员醉驾撞死人赔偿家属达成谅解",
+      "onboard_time": 1770541880,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 791539,
       "num": 1058206,
       "word": "苏翊鸣大跳台铜牌",
@@ -96,6 +104,14 @@
       "word": "梁源发文怼吴克群",
       "onboard_time": 1770521240,
       "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 622914,
+      "num": 135025,
+      "word": "黄一鸣直播中途崩溃大哭",
+      "onboard_time": 1770539480,
+      "rank": 23,
       "category": "艺人"
     },
     {
@@ -203,6 +219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 432359,
+      "num": 523239,
+      "word": "古茗回应外卖小哥打翻32杯奶茶",
+      "onboard_time": 1770539840,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 426974,
       "num": 181480,
       "word": "王俊凯的话只有朱志鑫听进去了",
@@ -300,7 +324,7 @@
     },
     {
       "raw_hot": 354596,
-      "num": 768477,
+      "num": 770219,
       "word": "成何体统 好看",
       "onboard_time": 1770535879,
       "rank": 27,
@@ -332,7 +356,7 @@
     },
     {
       "raw_hot": 314897,
-      "num": 155771,
+      "num": 227498,
       "word": "老一辈做饭好吃的原因",
       "onboard_time": 1770537860,
       "rank": 15,
@@ -363,6 +387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 287216,
+      "num": 227572,
+      "word": "一箱牛奶完成了串门的使命",
+      "onboard_time": 1770540560,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 278463,
       "num": 212059,
       "word": "白鹿发开播红包",
@@ -377,14 +409,6 @@
       "onboard_time": 1770476541,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 269779,
-      "num": 523239,
-      "word": "古茗回应外卖小哥打翻32杯奶茶",
-      "onboard_time": 1770539840,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 261010,
@@ -443,6 +467,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 246181,
+      "num": 246181,
+      "word": "中国军网点名张本智和",
+      "onboard_time": 1770542901,
+      "rank": 7,
+      "category": "国际时政,体育"
+    },
+    {
       "raw_hot": 238074,
       "num": 178587,
       "word": "曝爱泼斯坦为印度首富弟弟献女郎",
@@ -489,14 +521,6 @@
       "onboard_time": 1770528921,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 217782,
-      "num": 135025,
-      "word": "黄一鸣直播中途崩溃大哭",
-      "onboard_time": 1770539480,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 216407,
@@ -659,7 +683,7 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 161435,
+      "raw_hot": 163391,
       "num": 117099,
       "word": "吴昕用千问把长沙小吃点了个遍",
       "onboard_time": 1770537860,
@@ -923,6 +947,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 112613,
+      "num": 112613,
+      "word": "为何萝莉岛不叫爱泼斯坦岛",
+      "onboard_time": 1770540260,
+      "rank": 41,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 112244,
       "num": 112244,
       "word": "大司马鹅鸭杀名场面预定",
@@ -1011,6 +1043,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 107854,
+      "num": 94866,
+      "word": "时代少年团回应时代峰峻团建",
+      "onboard_time": 1770542480,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 107142,
       "num": 107142,
       "word": "张凌赫无畏契约上班",
@@ -1025,6 +1065,14 @@
       "onboard_time": 1770534798,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 105373,
+      "num": 105373,
+      "word": "日本军国主义渗透文体领域",
+      "onboard_time": 1770543080,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 104117,
@@ -1139,12 +1187,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 95629,
+      "num": 95629,
+      "word": "减肥误食了一顿麻辣烫",
+      "onboard_time": 1770542059,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 94512,
       "num": 94512,
       "word": "王楚钦进决赛",
       "onboard_time": 1770527900,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 94320,
+      "num": 157744,
+      "word": "教师岗要求运动会第1名被指萝卜岗",
+      "onboard_time": 1770542781,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 93970,
@@ -1227,6 +1291,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 89862,
+      "num": 89862,
+      "word": "央视揭免密支付乱象",
+      "onboard_time": 1770540080,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89582,
       "num": 89582,
       "word": "熬夜后怎么补觉",
@@ -1275,12 +1347,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 86768,
-      "num": 86768,
-      "word": "为何萝莉岛不叫爱泼斯坦岛",
-      "onboard_time": 1770540260,
-      "rank": 41,
-      "category": "海外新闻"
+      "raw_hot": 86517,
+      "num": 233261,
+      "word": "35岁国企女掌门受贿4900万",
+      "onboard_time": 1770542960,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 86164,
+      "num": 86164,
+      "word": "建议大家过年理性消费",
+      "onboard_time": 1770542301,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 86151,
@@ -1331,12 +1411,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 83748,
-      "num": 83748,
-      "word": "一箱牛奶完成了串门的使命",
-      "onboard_time": 1770540560,
-      "rank": 43,
-      "category": "幽默"
+      "raw_hot": 84951,
+      "num": 84951,
+      "word": "王楚钦亚洲杯决赛战张本智和",
+      "onboard_time": 1770541638,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 83711,
@@ -1369,6 +1449,14 @@
       "onboard_time": 1770540801,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 83412,
+      "num": 103855,
+      "word": "印度旋转秋千空中断裂甩飞15人",
+      "onboard_time": 1770540919,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 83392,
@@ -1513,6 +1601,14 @@
       "onboard_time": 1770519980,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 77507,
+      "num": 77507,
+      "word": "牛奶炸鸡",
+      "onboard_time": 1770542000,
+      "rank": 44,
+      "category": "美食"
     },
     {
       "raw_hot": 77403,
@@ -1707,6 +1803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 67361,
+      "num": 67361,
+      "word": "一个说不了话一个认不了字",
+      "onboard_time": 1770543141,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 67230,
       "num": 67230,
       "word": "预防甲状腺结节的4种饮食习惯",
@@ -1745,14 +1849,6 @@
       "onboard_time": 1770478940,
       "rank": 38,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 63575,
-      "num": 63575,
-      "word": "央视揭免密支付乱象",
-      "onboard_time": 1770540080,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 61929,
@@ -1827,6 +1923,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 54355,
+      "num": 163265,
+      "word": "54岁男子祭祖被捕猎网电倒身亡",
+      "onboard_time": 1770542841,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 53881,
+      "num": 109650,
+      "word": "何同学谢谢AI请客",
+      "onboard_time": 1770540739,
+      "rank": 28,
+      "category": "互联网,网红"
+    },
+    {
       "raw_hot": 53734,
       "num": 69565,
       "word": "aespa香港演唱会",
@@ -1891,14 +2003,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 50618,
-      "num": 106053,
-      "word": "何同学谢谢AI请客",
-      "onboard_time": 1770540739,
-      "rank": 28,
-      "category": "互联网,网红"
-    },
-    {
       "raw_hot": 50481,
       "num": 53016,
       "word": "因上菜慢辱骂服务员老太太拒道歉",
@@ -1936,6 +2040,22 @@
       "word": "杨滨瑜速滑3000米顺利完赛",
       "onboard_time": 1770480381,
       "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 49700,
+      "num": 620004,
+      "word": "新一轮大范围雨雪天气来袭",
+      "onboard_time": 1770539122,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 49626,
+      "num": 505242,
+      "word": "米兰冬奥会",
+      "onboard_time": 1770541580,
+      "rank": 4,
       "category": "体育"
     },
     {
@@ -2011,20 +2131,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 41574,
-      "num": 620004,
-      "word": "新一轮大范围雨雪天气来袭",
-      "onboard_time": 1770539122,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 41563,
       "num": 89254,
       "word": "办婚礼未领证男方去世彩礼该退吗",
       "onboard_time": 1770539540,
       "rank": 39,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 39968,
+      "num": 85482,
+      "word": "百岁老人受伤昏迷救护车过门不让进",
+      "onboard_time": 1770542719,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 39609,
@@ -2131,6 +2251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 28088,
+      "num": 173286,
+      "word": "辛芷蕾的红是什么红",
+      "onboard_time": 1770543199,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 27284,
       "num": 96801,
       "word": "城乡差距有时就在一个厕所",
@@ -2203,6 +2331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 22808,
+      "num": 222964,
+      "word": "范伟说千问免单真不是忽悠",
+      "onboard_time": 1770541221,
+      "rank": 14,
+      "category": "艺人,互联网"
+    },
+    {
       "raw_hot": 22676,
       "num": 117023,
       "word": "米兰冬奥会冰上项目首金诞生",
@@ -2233,14 +2369,6 @@
       "onboard_time": 1770499334,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 21496,
-      "num": 103855,
-      "word": "印度旋转秋千空中断裂甩飞15人",
-      "onboard_time": 1770540919,
-      "rank": 29,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 21373,

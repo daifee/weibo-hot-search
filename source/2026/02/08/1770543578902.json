@@ -1,0 +1,410 @@
+{
+  "runTime": 1770543578902,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 386649,
+        "num": 1061863,
+        "word": "女子吐槽飞机餐仅一根青菜配米饭",
+        "onboard_time": 1770530420,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 280174,
+        "num": 770219,
+        "word": "成何体统 好看",
+        "onboard_time": 1770535879,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49700,
+        "num": 603226,
+        "word": "新一轮大范围雨雪天气来袭",
+        "onboard_time": 1770539122,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 651940,
+        "num": 587204,
+        "word": "外卖小哥打翻32杯奶茶原地发愣",
+        "onboard_time": 1770537860,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49626,
+        "num": 505242,
+        "word": "米兰冬奥会",
+        "onboard_time": 1770541580,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 463989,
+        "num": 463989,
+        "word": "爸爸弯了一辈子的腰终于断了",
+        "onboard_time": 1770533900,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 432359,
+        "num": 432359,
+        "word": "古茗回应外卖小哥打翻32杯奶茶",
+        "onboard_time": 1770539840,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 246181,
+        "num": 246181,
+        "word": "中国军网点名张本智和",
+        "onboard_time": 1770542901,
+        "rank": 7,
+        "category": "国际时政,体育"
+      },
+      {
+        "raw_hot": 233673,
+        "num": 233673,
+        "word": "四川地震",
+        "onboard_time": 1770531380,
+        "rank": 8,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 86517,
+        "num": 233261,
+        "word": "35岁国企女掌门受贿4900万",
+        "onboard_time": 1770542960,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 838079,
+        "num": 230891,
+        "word": "演员醉驾撞死人赔偿家属达成谅解",
+        "onboard_time": 1770541880,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 355974,
+        "num": 229356,
+        "word": "千问",
+        "onboard_time": 1770516199,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 287216,
+        "num": 227572,
+        "word": "一箱牛奶完成了串门的使命",
+        "onboard_time": 1770540560,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 227498,
+        "num": 227498,
+        "word": "老一辈做饭好吃的原因",
+        "onboard_time": 1770537860,
+        "rank": 13,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 22808,
+        "num": 222964,
+        "word": "范伟说千问免单真不是忽悠",
+        "onboard_time": 1770541221,
+        "rank": 14,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 220789,
+        "num": 220789,
+        "word": "春晚彩排",
+        "onboard_time": 1770538219,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182660,
+        "num": 182660,
+        "word": "爱泼斯坦在巴黎红房间拍下女孩跳舞",
+        "onboard_time": 1770532821,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 28088,
+        "num": 173286,
+        "word": "辛芷蕾的红是什么红",
+        "onboard_time": 1770543199,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54355,
+        "num": 163265,
+        "word": "54岁男子祭祖被捕猎网电倒身亡",
+        "onboard_time": 1770542841,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94320,
+        "num": 157744,
+        "word": "教师岗要求运动会第1名被指萝卜岗",
+        "onboard_time": 1770542781,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 883718,
+        "num": 141244,
+        "word": "小英想把送养出去6年的女儿接回家",
+        "onboard_time": 1770537019,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 622914,
+        "num": 129311,
+        "word": "黄一鸣直播中途崩溃大哭",
+        "onboard_time": 1770539480,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120413,
+        "num": 120413,
+        "word": "老一辈对子女睡懒觉的执念",
+        "onboard_time": 1770524420,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 417514,
+        "num": 118057,
+        "word": "邓超忘给孙俪准备16年纪念日的礼物",
+        "onboard_time": 1770533000,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290863,
+        "num": 116759,
+        "word": "张凌赫 电竞男主",
+        "onboard_time": 1770535280,
+        "rank": 24,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 112613,
+        "num": 112613,
+        "word": "为何萝莉岛不叫爱泼斯坦岛",
+        "onboard_time": 1770540260,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 163391,
+        "num": 111910,
+        "word": "吴昕用千问把长沙小吃点了个遍",
+        "onboard_time": 1770537860,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53881,
+        "num": 109650,
+        "word": "何同学谢谢AI请客",
+        "onboard_time": 1770540739,
+        "rank": 27,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 139281,
+        "num": 107326,
+        "word": "梁源发文怼吴克群",
+        "onboard_time": 1770521240,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128518,
+        "num": 106672,
+        "word": "丁真劝向佐退圈",
+        "onboard_time": 1770531140,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105373,
+        "num": 105373,
+        "word": "日本军国主义渗透文体领域",
+        "onboard_time": 1770543080,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 122589,
+        "num": 101925,
+        "word": "华晨宇脖子上的唇印",
+        "onboard_time": 1770522919,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 117444,
+        "num": 101161,
+        "word": "成何体统",
+        "onboard_time": 1770536601,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95629,
+        "num": 95629,
+        "word": "减肥误食了一顿麻辣烫",
+        "onboard_time": 1770542059,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 107854,
+        "num": 94866,
+        "word": "时代少年团回应时代峰峻团建",
+        "onboard_time": 1770542480,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97894,
+        "num": 94066,
+        "word": "向太说郭碧婷从没开口要过东西",
+        "onboard_time": 1770535159,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89862,
+        "num": 89862,
+        "word": "央视揭免密支付乱象",
+        "onboard_time": 1770540080,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87935,
+        "num": 87935,
+        "word": "张凌赫 放过我给你枪皮",
+        "onboard_time": 1770539060,
+        "rank": 37,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 86164,
+        "num": 86164,
+        "word": "建议大家过年理性消费",
+        "onboard_time": 1770542301,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 39968,
+        "num": 85482,
+        "word": "百岁老人受伤昏迷救护车过门不让进",
+        "onboard_time": 1770542719,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84951,
+        "num": 84951,
+        "word": "王楚钦亚洲杯决赛战张本智和",
+        "onboard_time": 1770541638,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83412,
+        "num": 83412,
+        "word": "印度旋转秋千空中断裂甩飞15人",
+        "onboard_time": 1770540919,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 82221,
+        "num": 82221,
+        "word": "白鹿发开播红包",
+        "onboard_time": 1770530600,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81238,
+        "num": 81238,
+        "word": "无畏契约",
+        "onboard_time": 1770526519,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 77507,
+        "num": 77507,
+        "word": "牛奶炸鸡",
+        "onboard_time": 1770542000,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 72244,
+        "num": 72244,
+        "word": "无畏契约直播",
+        "onboard_time": 1770534982,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 71993,
+        "num": 71993,
+        "word": "小米租车测试引争议",
+        "onboard_time": 1770539901,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 70508,
+        "num": 70508,
+        "word": "断联一年的闺蜜突然发消息",
+        "onboard_time": 1770524901,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 67361,
+        "num": 67361,
+        "word": "一个说不了话一个认不了字",
+        "onboard_time": 1770543141,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 65444,
+        "num": 65444,
+        "word": "餐厅使用跪姿旗袍女性摆件引争议",
+        "onboard_time": 1770540801,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记新春足迹的温暖瞬间#"
+    }
+  }
+}
