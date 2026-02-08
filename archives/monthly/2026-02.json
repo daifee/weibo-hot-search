@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1770555928745,
+  "endTime": 1770557232261,
   "band_list": [
     {
       "raw_hot": 12386962,
@@ -65,6 +65,22 @@
       "onboard_time": 1770303387,
       "rank": 1,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 5353142,
+      "num": 5353142,
+      "word": "孙颖莎vs王曼昱",
+      "onboard_time": 1770549860,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 4318292,
+      "num": 4318292,
+      "word": "孙颖莎金牌",
+      "onboard_time": 1770556402,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 4038416,
@@ -300,7 +316,7 @@
     },
     {
       "raw_hot": 1611555,
-      "num": 580909,
+      "num": 1140266,
       "word": "蔡徐坤直播",
       "onboard_time": 1770552801,
       "rank": 3,
@@ -443,14 +459,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 1284982,
-      "num": 1284982,
-      "word": "孙颖莎vs王曼昱",
-      "onboard_time": 1770549860,
-      "rank": 10,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1281532,
       "num": 363068,
       "word": "很火但难吃的水果",
@@ -539,6 +547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1167973,
+      "num": 1167973,
+      "word": "唐宫奇案破万",
+      "onboard_time": 1770555801,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1166444,
       "num": 344305,
       "word": "娜扎 人间维纳斯",
@@ -548,7 +564,7 @@
     },
     {
       "raw_hot": 1165532,
-      "num": 209771,
+      "num": 242264,
       "word": "小英想把送养出去6年的女儿接回家",
       "onboard_time": 1770537019,
       "rank": 24,
@@ -1427,6 +1443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 718886,
+      "num": 718886,
+      "word": "父亲去世试管婴儿获工亡抚恤金",
+      "onboard_time": 1770555021,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 716305,
       "num": 1006268,
       "word": "豆瓣崩了",
@@ -1620,7 +1644,7 @@
     },
     {
       "raw_hot": 666271,
-      "num": 256954,
+      "num": 333896,
       "word": "肖战有顶流命没有顶流病",
       "onboard_time": 1770553463,
       "rank": 11,
@@ -1696,6 +1720,14 @@
       "word": "白鹿王星越喝同一杯饮料",
       "onboard_time": 1770545960,
       "rank": 8,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 642804,
+      "num": 642804,
+      "word": "白鹿破万四连拍",
+      "onboard_time": 1770556584,
+      "rank": 7,
       "category": "剧集"
     },
     {
@@ -2132,7 +2164,7 @@
     },
     {
       "raw_hot": 551804,
-      "num": 209889,
+      "num": 244546,
       "word": "黄多多斜肩黑裙",
       "onboard_time": 1770550162,
       "rank": 24,
@@ -3172,7 +3204,7 @@
     },
     {
       "raw_hot": 427484,
-      "num": 242611,
+      "num": 325303,
       "word": "杨紫张哲华吻戏",
       "onboard_time": 1770553102,
       "rank": 12,
@@ -3281,6 +3313,14 @@
       "onboard_time": 1770474203,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 416635,
+      "num": 333622,
+      "word": "男嬛传",
+      "onboard_time": 1770552741,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 414377,
@@ -3915,6 +3955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 365343,
+      "num": 365343,
+      "word": "亚洲杯",
+      "onboard_time": 1770474982,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 365210,
       "num": 365210,
       "word": "深圳水贝金价暴跌市民扎堆买金",
@@ -4219,14 +4267,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 341354,
-      "num": 229212,
-      "word": "男嬛传",
-      "onboard_time": 1770552741,
-      "rank": 14,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 341180,
       "num": 925878,
       "word": "郎朗 权威",
@@ -4260,7 +4300,7 @@
     },
     {
       "raw_hot": 339996,
-      "num": 237210,
+      "num": 293650,
       "word": "柯南宝可梦 漫展禁止",
       "onboard_time": 1770551061,
       "rank": 45,
@@ -4369,6 +4409,14 @@
       "onboard_time": 1770348921,
       "rank": 6,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 334557,
+      "num": 334557,
+      "word": "樊振东冬奥开幕式plog",
+      "onboard_time": 1770553342,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 334434,
@@ -4537,6 +4585,14 @@
       "onboard_time": 1770463640,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 326526,
+      "num": 326526,
+      "word": "王楚钦vs张本智和",
+      "onboard_time": 1770556883,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 326173,
@@ -5075,20 +5131,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 296114,
+      "num": 296114,
+      "word": "男生寒假打工烤糊200多个鸡翅",
+      "onboard_time": 1770551721,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 296008,
       "num": 296008,
       "word": "江浙沪皖将迎今年最大雨雪",
       "onboard_time": 1770272663,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 295920,
-      "num": 295920,
-      "word": "樊振东冬奥开幕式plog",
-      "onboard_time": 1770553342,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 294065,
@@ -5299,14 +5355,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 283063,
-      "num": 217174,
-      "word": "唐宫奇案破万",
-      "onboard_time": 1770555801,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 282954,
       "num": 272621,
       "word": "张艺凡让时代少年团参见公主",
@@ -5368,14 +5416,6 @@
       "word": "大二女生失踪8年父亲悬赏10万寻女",
       "onboard_time": 1770199221,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 278955,
-      "num": 278955,
-      "word": "男生寒假打工烤糊200多个鸡翅",
-      "onboard_time": 1770551721,
-      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -5963,6 +6003,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 251114,
+      "num": 251114,
+      "word": "王曼昱银牌",
+      "onboard_time": 1770556522,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 251051,
       "num": 251051,
       "word": "张杰五天抽了25克黄金",
@@ -6305,6 +6353,14 @@
       "onboard_time": 1770030681,
       "rank": 24,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 239600,
+      "num": 239600,
+      "word": "人至少要有3个兴趣爱好",
+      "onboard_time": 1770553402,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 239358,
@@ -6995,6 +7051,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 215613,
+      "num": 215613,
+      "word": "王楚钦13次胜张本智和",
+      "onboard_time": 1770554421,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 215292,
       "num": 157215,
       "word": "徐明浩3条iG创造了360万美元价值",
@@ -7144,14 +7208,6 @@
       "word": "预制菜国标征求意见",
       "onboard_time": 1770365781,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 209322,
-      "num": 209322,
-      "word": "父亲去世试管婴儿获工亡抚恤金",
-      "onboard_time": 1770555021,
-      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -7337,6 +7393,14 @@
       "onboard_time": 1770449959,
       "rank": 43,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 200084,
+      "num": 153847,
+      "word": "Jasmine的MV是蔡徐坤自己剪的",
+      "onboard_time": 1770557181,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 200010,
@@ -8111,6 +8175,14 @@
       "num": 176616,
       "word": "江苏盐城在建大桥塌落已致2死",
       "onboard_time": 1770073937,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 176355,
+      "num": 210775,
+      "word": "谁给了窗口人员收1614万的勇气",
+      "onboard_time": 1770554962,
       "rank": 19,
       "category": "民生新闻"
     },
@@ -8931,6 +9003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 156035,
+      "num": 156035,
+      "word": "鞠婧祎指尖蝴蝶",
+      "onboard_time": 1770555201,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 155959,
       "num": 155959,
       "word": "王者小马宝莉联动",
@@ -9259,14 +9339,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 150447,
-      "num": 150447,
-      "word": "人至少要有3个兴趣爱好",
-      "onboard_time": 1770553402,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 150318,
       "num": 150318,
       "word": "章昊内娱第一课",
@@ -9376,6 +9448,14 @@
       "word": "舒淇肖战 十年师友",
       "onboard_time": 1770375560,
       "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 148299,
+      "num": 148299,
+      "word": "王星越送给粉丝的星星",
+      "onboard_time": 1770556883,
+      "rank": 33,
       "category": "艺人"
     },
     {
@@ -9529,14 +9609,6 @@
       "onboard_time": 1770345140,
       "rank": 30,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 145713,
-      "num": 145713,
-      "word": "王楚钦13次胜张本智和",
-      "onboard_time": 1770554421,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 145610,
@@ -10851,6 +10923,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 127522,
+      "num": 127522,
+      "word": "雪人是ikun",
+      "onboard_time": 1770556464,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127486,
       "num": 127486,
       "word": "偶遇杨洋吃铁锅炖",
@@ -11025,6 +11105,14 @@
       "onboard_time": 1770092541,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125535,
+      "num": 125535,
+      "word": "王玉雯春晚路透缎面长裙好仙",
+      "onboard_time": 1770556883,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 125433,
@@ -11449,14 +11537,6 @@
       "onboard_time": 1770038662,
       "rank": 35,
       "category": "演出"
-    },
-    {
-      "raw_hot": 121049,
-      "num": 121049,
-      "word": "鞠婧祎指尖蝴蝶",
-      "onboard_time": 1770555201,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 120821,
@@ -12267,6 +12347,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 113041,
+      "num": 113041,
+      "word": "JDG周决海岛吃鸡",
+      "onboard_time": 1770556702,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 113033,
       "num": 113033,
       "word": "寒假能猝死学校能困死",
@@ -12419,6 +12507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 112089,
+      "num": 112089,
+      "word": "BLG",
+      "onboard_time": 1770553102,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 112017,
       "num": 112017,
       "word": "不建议上班族和无业游民谈恋爱",
@@ -12561,6 +12657,14 @@
       "onboard_time": 1770553641,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 110695,
+      "num": 174288,
+      "word": "王一博只留最得体的姿态",
+      "onboard_time": 1770554601,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 110682,
@@ -12747,6 +12851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 109158,
+      "num": 109158,
+      "word": "男子被问还没有女朋友残忍杀2人",
+      "onboard_time": 1770556223,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109076,
       "num": 109076,
       "word": "原来能让王一博回归内娱的是央妈",
@@ -12801,6 +12913,14 @@
       "onboard_time": 1769997500,
       "rank": 35,
       "category": "美食"
+    },
+    {
+      "raw_hot": 108469,
+      "num": 108469,
+      "word": "森林北回应上过非诚勿扰",
+      "onboard_time": 1770552082,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 108386,
@@ -12937,14 +13057,6 @@
       "onboard_time": 1770458480,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 107688,
-      "num": 210775,
-      "word": "谁给了窗口人员收1614万的勇气",
-      "onboard_time": 1770554962,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 107556,
@@ -13145,14 +13257,6 @@
       "onboard_time": 1770005180,
       "rank": 48,
       "category": "财经"
-    },
-    {
-      "raw_hot": 106353,
-      "num": 106353,
-      "word": "BLG",
-      "onboard_time": 1770553102,
-      "rank": 42,
-      "category": "电竞"
     },
     {
       "raw_hot": 106209,
@@ -13859,14 +13963,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 101152,
-      "num": 101152,
-      "word": "亚洲杯",
-      "onboard_time": 1770474982,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 101124,
       "num": 101124,
       "word": "短剧男主剧里剧外两幅面孔",
@@ -13904,14 +14000,6 @@
       "word": "黄晓明22年累计捐款超5000万",
       "onboard_time": 1770104060,
       "rank": 32,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 100923,
-      "num": 100923,
-      "word": "森林北回应上过非诚勿扰",
-      "onboard_time": 1770552082,
-      "rank": 45,
       "category": "艺人"
     },
     {
@@ -14537,14 +14625,6 @@
       "onboard_time": 1769939181,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 96552,
-      "num": 174288,
-      "word": "王一博只留最得体的姿态",
-      "onboard_time": 1770554601,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 96496,
@@ -21943,6 +22023,14 @@
       "num": 946878,
       "word": "窗里窗外皆是归途的美好",
       "onboard_time": 1770521421,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26832,
+      "num": 1400384,
+      "word": "他们把忠诚写在祖国的边境线上",
+      "onboard_time": 1770556584,
       "rank": 2,
       "category": "民生新闻"
     },

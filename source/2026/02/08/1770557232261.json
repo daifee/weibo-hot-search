@@ -1,0 +1,410 @@
+{
+  "runTime": 1770557232261,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5353142,
+        "num": 5353142,
+        "word": "孙颖莎vs王曼昱",
+        "onboard_time": 1770549860,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 4318292,
+        "num": 4318292,
+        "word": "孙颖莎金牌",
+        "onboard_time": 1770556402,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26832,
+        "num": 1400384,
+        "word": "他们把忠诚写在祖国的边境线上",
+        "onboard_time": 1770556584,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1167973,
+        "num": 1167973,
+        "word": "唐宫奇案破万",
+        "onboard_time": 1770555801,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1140266,
+        "num": 1140266,
+        "word": "蔡徐坤直播",
+        "onboard_time": 1770552801,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 941369,
+        "num": 941369,
+        "word": "中国军网点名张本智和",
+        "onboard_time": 1770542901,
+        "rank": 5,
+        "category": "国际时政,体育"
+      },
+      {
+        "raw_hot": 718886,
+        "num": 718886,
+        "word": "父亲去世试管婴儿获工亡抚恤金",
+        "onboard_time": 1770555021,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 642804,
+        "num": 642804,
+        "word": "白鹿破万四连拍",
+        "onboard_time": 1770556584,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 365343,
+        "num": 365343,
+        "word": "亚洲杯",
+        "onboard_time": 1770556944,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 334557,
+        "num": 334557,
+        "word": "樊振东冬奥开幕式plog",
+        "onboard_time": 1770553342,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 544984,
+        "num": 333896,
+        "word": "肖战有顶流命没有顶流病",
+        "onboard_time": 1770553463,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 416635,
+        "num": 333622,
+        "word": "男嬛传",
+        "onboard_time": 1770552741,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 326526,
+        "num": 326526,
+        "word": "王楚钦vs张本智和",
+        "onboard_time": 1770556883,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 411696,
+        "num": 325303,
+        "word": "杨紫张哲华吻戏",
+        "onboard_time": 1770553102,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 303158,
+        "num": 303158,
+        "word": "张本美和采访哭了",
+        "onboard_time": 1770550101,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 296114,
+        "num": 296114,
+        "word": "男生寒假打工烤糊200多个鸡翅",
+        "onboard_time": 1770551721,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 293650,
+        "num": 293650,
+        "word": "柯南宝可梦 漫展禁止",
+        "onboard_time": 1770551061,
+        "rank": 16,
+        "category": "民生新闻,动漫"
+      },
+      {
+        "raw_hot": 277575,
+        "num": 277575,
+        "word": "唐宫奇案",
+        "onboard_time": 1770551601,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 251114,
+        "num": 251114,
+        "word": "王曼昱银牌",
+        "onboard_time": 1770556522,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 244626,
+        "num": 244626,
+        "word": "成何体统 改词",
+        "onboard_time": 1770549321,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 454281,
+        "num": 244546,
+        "word": "黄多多斜肩黑裙",
+        "onboard_time": 1770550162,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 244127,
+        "num": 244127,
+        "word": "日本执政联盟将获众议院过半议席",
+        "onboard_time": 1770549681,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 242264,
+        "num": 242264,
+        "word": "小英想把送养出去6年的女儿接回家",
+        "onboard_time": 1770537019,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 239600,
+        "num": 239600,
+        "word": "人至少要有3个兴趣爱好",
+        "onboard_time": 1770553402,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 215613,
+        "num": 215613,
+        "word": "王楚钦13次胜张本智和",
+        "onboard_time": 1770554421,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208674,
+        "num": 208674,
+        "word": "成何体统",
+        "onboard_time": 1770536601,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176355,
+        "num": 176355,
+        "word": "谁给了窗口人员收1614万的勇气",
+        "onboard_time": 1770554962,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165877,
+        "num": 165877,
+        "word": "35岁国企女掌门受贿4900万",
+        "onboard_time": 1770542960,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 156035,
+        "num": 156035,
+        "word": "鞠婧祎指尖蝴蝶",
+        "onboard_time": 1770555201,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154686,
+        "num": 154686,
+        "word": "张凌赫 电竞男主",
+        "onboard_time": 1770535280,
+        "rank": 29,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 154194,
+        "num": 154194,
+        "word": "办婚礼没领证女子在爱人祭日被赶婚房",
+        "onboard_time": 1770551721,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200084,
+        "num": 153847,
+        "word": "Jasmine的MV是蔡徐坤自己剪的",
+        "onboard_time": 1770557181,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 153469,
+        "num": 153469,
+        "word": "甲状腺结节的忌口食物",
+        "onboard_time": 1770549681,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 148299,
+        "num": 148299,
+        "word": "王星越送给粉丝的星星",
+        "onboard_time": 1770556883,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127522,
+        "num": 127522,
+        "word": "雪人是ikun",
+        "onboard_time": 1770556464,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125899,
+        "num": 125899,
+        "word": "千问",
+        "onboard_time": 1770516199,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 122364,
+        "num": 125647,
+        "word": "缅北明家明珍珍被判死刑时的忏悔",
+        "onboard_time": 1770548721,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122657,
+        "num": 125591,
+        "word": "日本军国主义渗透文体领域",
+        "onboard_time": 1770543080,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 125535,
+        "num": 125535,
+        "word": "王玉雯春晚路透缎面长裙好仙",
+        "onboard_time": 1770556883,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118949,
+        "num": 118949,
+        "word": "外卖小哥打翻32杯奶茶原地发愣",
+        "onboard_time": 1770537860,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113041,
+        "num": 113041,
+        "word": "JDG周决海岛吃鸡",
+        "onboard_time": 1770556702,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 112089,
+        "num": 112089,
+        "word": "BLG",
+        "onboard_time": 1770553102,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 110695,
+        "num": 110695,
+        "word": "王一博只留最得体的姿态",
+        "onboard_time": 1770554601,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109778,
+        "num": 109778,
+        "word": "ALin哭了",
+        "onboard_time": 1770553641,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 109158,
+        "num": 109158,
+        "word": "男子被问还没有女朋友残忍杀2人",
+        "onboard_time": 1770556223,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108469,
+        "num": 108469,
+        "word": "森林北回应上过非诚勿扰",
+        "onboard_time": 1770552082,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108437,
+        "num": 108437,
+        "word": "闪耀暖暖大猛料",
+        "onboard_time": 1770550941,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 104075,
+        "num": 107904,
+        "word": "甘肃浆水面",
+        "onboard_time": 1770554301,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 107686,
+        "num": 107686,
+        "word": "闪耀暖暖新年阁",
+        "onboard_time": 1770552261,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 106172,
+        "num": 106172,
+        "word": "成何体统 好看",
+        "onboard_time": 1770535879,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#有一份牵挂始终温暖人心#"
+    }
+  }
+}
