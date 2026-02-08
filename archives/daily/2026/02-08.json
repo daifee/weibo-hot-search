@@ -1,10 +1,10 @@
 {
   "startTime": 1770482461321,
-  "endTime": 1770520655545,
+  "endTime": 1770522296663,
   "band_list": [
     {
       "raw_hot": 1139987,
-      "num": 149052,
+      "num": 185800,
       "word": "千问",
       "onboard_time": 1770516199,
       "rank": 9,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1034346,
-      "num": 254917,
+      "num": 781279,
       "word": "爱吃柚子的人天塌了",
       "onboard_time": 1770516620,
       "rank": 5,
@@ -43,12 +43,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 540645,
-      "num": 540645,
+      "raw_hot": 615323,
+      "num": 781350,
       "word": "谢依霖回应提问赵丽颖",
       "onboard_time": 1770519020,
       "rank": 3,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 518869,
+      "num": 184960,
+      "word": "洗澡时不要总弯腰洗头",
+      "onboard_time": 1770520519,
+      "rank": 25,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 494939,
@@ -65,6 +73,22 @@
       "onboard_time": 1770504375,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 473815,
+      "num": 182379,
+      "word": "梁源发文怼吴克群",
+      "onboard_time": 1770521240,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 426974,
+      "num": 181480,
+      "word": "王俊凯的话只有朱志鑫听进去了",
+      "onboard_time": 1770517760,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 426358,
@@ -84,7 +108,7 @@
     },
     {
       "raw_hot": 399074,
-      "num": 88097,
+      "num": 781298,
       "word": "韩员工手滑发62万枚比特币",
       "onboard_time": 1770517161,
       "rank": 30,
@@ -97,6 +121,22 @@
       "onboard_time": 1770507018,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 368593,
+      "num": 815184,
+      "word": "山西山阴车间爆炸已致8死",
+      "onboard_time": 1770516922,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 364542,
+      "num": 139975,
+      "word": "Bin腹肌对标Gala",
+      "onboard_time": 1770519680,
+      "rank": 20,
+      "category": "电竞"
     },
     {
       "raw_hot": 358887,
@@ -123,22 +163,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 330635,
-      "num": 148743,
-      "word": "王俊凯的话只有朱志鑫听进去了",
-      "onboard_time": 1770517760,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 323160,
-      "num": 106640,
-      "word": "Bin腹肌对标Gala",
-      "onboard_time": 1770519680,
-      "rank": 20,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 308783,
       "num": 308783,
       "word": "92岁老人集装箱离世留下19万存款",
@@ -163,14 +187,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 284291,
-      "num": 284291,
-      "word": "山西山阴车间爆炸已致8死",
-      "onboard_time": 1770516922,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 277911,
       "num": 277911,
       "word": "11年了大姐还在骂明台",
@@ -180,7 +196,7 @@
     },
     {
       "raw_hot": 261010,
-      "num": 147626,
+      "num": 178090,
       "word": "沈腾回应参加泡泡玛特年会",
       "onboard_time": 1770517341,
       "rank": 11,
@@ -195,6 +211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 256051,
+      "num": 256051,
+      "word": "高市早苗豪赌正式开始",
+      "onboard_time": 1770517941,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 248449,
       "num": 248449,
       "word": "北奥12人仅剩苏翊鸣坚守",
@@ -204,7 +228,7 @@
     },
     {
       "raw_hot": 238074,
-      "num": 147323,
+      "num": 178587,
       "word": "曝爱泼斯坦为印度首富弟弟献女郎",
       "onboard_time": 1770510620,
       "rank": 12,
@@ -225,6 +249,14 @@
       "onboard_time": 1770491715,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 211738,
+      "num": 211738,
+      "word": "张维伊被内推再见爱人",
+      "onboard_time": 1770521780,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 201619,
@@ -267,8 +299,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 185347,
-      "num": 185347,
+      "raw_hot": 186754,
+      "num": 186754,
       "word": "米兰大跳台 摔了好多人",
       "onboard_time": 1770494655,
       "rank": 30,
@@ -315,12 +347,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 159239,
+      "num": 159239,
+      "word": "李荣浩 快十年没做别人的制作人",
+      "onboard_time": 1770516979,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 157852,
       "num": 157852,
       "word": "脚臭的人洗脚时建议加点盐",
       "onboard_time": 1770472762,
       "rank": 13,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 157450,
+      "num": 152902,
+      "word": "你好星期六收视率第一",
+      "onboard_time": 1770511098,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 155447,
@@ -339,20 +387,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 153228,
+      "num": 153228,
+      "word": "孙颖莎VS蒯曼",
+      "onboard_time": 1770521540,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 150951,
       "num": 150951,
       "word": "教育局回应成绩单用星星显示",
       "onboard_time": 1770467661,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 149463,
-      "num": 149463,
-      "word": "你好星期六收视率第一",
-      "onboard_time": 1770511098,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 148232,
@@ -363,16 +411,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 146371,
-      "num": 146371,
-      "word": "李荣浩 快十年没做别人的制作人",
-      "onboard_time": 1770516979,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 143364,
-      "num": 106373,
+      "num": 114501,
       "word": "菲律宾一男子强奸孙女多达105次",
       "onboard_time": 1770507918,
       "rank": 22,
@@ -387,8 +427,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 140728,
-      "num": 140728,
+      "raw_hot": 141118,
+      "num": 141118,
       "word": "泡泡玛特年会跳那么开心我也有责任",
       "onboard_time": 1770480320,
       "rank": 18,
@@ -409,6 +449,14 @@
       "onboard_time": 1770480680,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 135413,
+      "num": 135413,
+      "word": "新音纪录片预告",
+      "onboard_time": 1770521000,
+      "rank": 21,
+      "category": "演出"
     },
     {
       "raw_hot": 135183,
@@ -467,6 +515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 110769,
+      "num": 110769,
+      "word": "全球第四大汽车巨头爆雷",
+      "onboard_time": 1770520159,
+      "rank": 27,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 109388,
       "num": 109388,
       "word": "苏翊鸣说判罚完全公平",
@@ -515,12 +571,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 108184,
-      "num": 108184,
-      "word": "高市早苗豪赌正式开始",
-      "onboard_time": 1770517941,
-      "rank": 18,
-      "category": "国际时政"
+      "raw_hot": 108172,
+      "num": 108172,
+      "word": "三个马的汉字骉读什么",
+      "onboard_time": 1770522140,
+      "rank": 26,
+      "category": "读书作家"
     },
     {
       "raw_hot": 107912,
@@ -555,14 +611,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 100351,
-      "num": 100351,
-      "word": "洗澡时不要总弯腰洗头",
-      "onboard_time": 1770520519,
-      "rank": 25,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 99977,
       "num": 99977,
       "word": "金博洋短节目",
@@ -595,6 +643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 96409,
+      "num": 96409,
+      "word": "克林顿夫妇要求公开作证爱泼斯坦案",
+      "onboard_time": 1770518359,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 93339,
       "num": 93339,
       "word": "Jennie一开口就把我钓到了",
@@ -611,12 +667,28 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 91541,
-      "num": 91541,
-      "word": "全球第四大汽车巨头爆雷",
-      "onboard_time": 1770520159,
-      "rank": 27,
-      "category": "汽车"
+      "raw_hot": 91037,
+      "num": 91037,
+      "word": "小猪佩奇的弟弟乔治戴上了助听器",
+      "onboard_time": 1770521780,
+      "rank": 31,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 90665,
+      "num": 90665,
+      "word": "从离职时间看离职原因",
+      "onboard_time": 1770520460,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 90149,
+      "num": 90149,
+      "word": "过年前的冰箱",
+      "onboard_time": 1770521240,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 89582,
@@ -627,12 +699,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 89237,
+      "num": 89237,
+      "word": "谷爱凌说摔倒与赛道无关",
+      "onboard_time": 1770519859,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 87723,
       "num": 87723,
       "word": "肖战每一步都是内娱红毯的名场面预定",
       "onboard_time": 1770513919,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 86587,
+      "num": 86587,
+      "word": "四川山体滑坡29人死亡失踪调查报告",
+      "onboard_time": 1770521899,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 86032,
@@ -667,6 +755,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 83328,
+      "num": 83328,
+      "word": "清华大学发文祝贺苏翊鸣",
+      "onboard_time": 1770519920,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 82783,
       "num": 82783,
       "word": "千问称免单权益禁止倒卖",
@@ -683,12 +779,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 82015,
-      "num": 82015,
-      "word": "克林顿夫妇要求公开作证爱泼斯坦案",
-      "onboard_time": 1770518359,
-      "rank": 35,
-      "category": "国际时政"
+      "raw_hot": 80243,
+      "num": 80243,
+      "word": "白鹿晒和赵晴合照",
+      "onboard_time": 1770522019,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 79788,
@@ -739,19 +835,27 @@
       "category": "情感"
     },
     {
-      "raw_hot": 76706,
-      "num": 76706,
-      "word": "从离职时间看离职原因",
-      "onboard_time": 1770520460,
-      "rank": 42,
-      "category": "幽默"
+      "raw_hot": 76062,
+      "num": 93444,
+      "word": "唐九洲说也是喝上了AI点的奶茶",
+      "onboard_time": 1770521179,
+      "rank": 30,
+      "category": "艺人,互联网"
     },
     {
-      "raw_hot": 75256,
-      "num": 75256,
-      "word": "清华大学发文祝贺苏翊鸣",
-      "onboard_time": 1770519920,
-      "rank": 44,
+      "raw_hot": 75237,
+      "num": 75237,
+      "word": "过年拍全家福",
+      "onboard_time": 1770522019,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 75004,
+      "num": 75004,
+      "word": "网球冠军辛纳曾是滑雪冠军",
+      "onboard_time": 1770521958,
+      "rank": 42,
       "category": "体育"
     },
     {
@@ -779,12 +883,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 72084,
-      "num": 72084,
-      "word": "谷爱凌说摔倒与赛道无关",
-      "onboard_time": 1770519859,
-      "rank": 49,
-      "category": "体育"
+      "raw_hot": 71956,
+      "num": 71956,
+      "word": "毫无察觉的求婚",
+      "onboard_time": 1770520218,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 71775,
@@ -793,6 +897,30 @@
       "onboard_time": 1770483621,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 71218,
+      "num": 71218,
+      "word": "男生感染HPV后果很严重",
+      "onboard_time": 1770522260,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 70823,
+      "num": 70823,
+      "word": "摔倒后妈妈让谷爱凌喝点咖啡醒醒",
+      "onboard_time": 1770521359,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 69662,
+      "num": 69662,
+      "word": "写在购物袋上的文字太有力量了",
+      "onboard_time": 1770520820,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 69629,
@@ -833,6 +961,14 @@
       "onboard_time": 1770478940,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 61482,
+      "num": 76704,
+      "word": "女子被拐32年曾离父母家仅1公里",
+      "onboard_time": 1770521240,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 60281,
@@ -1123,6 +1259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 25552,
+      "num": 782310,
+      "word": "窗里窗外皆是归途的美好",
+      "onboard_time": 1770521421,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25008,
       "num": 36079,
       "word": "苏翊鸣说身披五星红旗最骄傲",
@@ -1262,6 +1406,9 @@
   "hotgov_list": [
     {
       "word": "#习近平向全军老同志祝贺新春#"
+    },
+    {
+      "word": "#向全军老同志祝贺新春#"
     }
   ]
 }
