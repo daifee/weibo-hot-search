@@ -1,0 +1,410 @@
+{
+  "runTime": 1770550265206,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1413898,
+        "num": 1413898,
+        "word": "中国军网点名张本智和",
+        "onboard_time": 1770542901,
+        "rank": 0,
+        "category": "国际时政,体育"
+      },
+      {
+        "raw_hot": 364462,
+        "num": 907893,
+        "word": "蒯曼vs张本美和",
+        "onboard_time": 1770547400,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 47213,
+        "num": 679771,
+        "word": "新一轮大范围雨雪天气来袭",
+        "onboard_time": 1770539122,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 271025,
+        "num": 271025,
+        "word": "35岁国企女掌门受贿4900万",
+        "onboard_time": 1770542960,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 256213,
+        "num": 256213,
+        "word": "上海政府大规模收购二手房",
+        "onboard_time": 1770544760,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 232863,
+        "num": 232863,
+        "word": "日本军国主义渗透文体领域",
+        "onboard_time": 1770543080,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 202627,
+        "num": 202627,
+        "word": "成何体统 改词",
+        "onboard_time": 1770549321,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199243,
+        "num": 199243,
+        "word": "蒯曼铜牌",
+        "onboard_time": 1770548300,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174243,
+        "num": 174243,
+        "word": "成何体统 好看",
+        "onboard_time": 1770535879,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161585,
+        "num": 161585,
+        "word": "缅北明家明珍珍被判死刑时的忏悔",
+        "onboard_time": 1770548721,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15173,
+        "num": 161582,
+        "word": "孙颖莎vs王曼昱",
+        "onboard_time": 1770549860,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1557075,
+        "num": 161566,
+        "word": "订婚强奸案电梯视频首曝光",
+        "onboard_time": 1770545361,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 583570,
+        "num": 161561,
+        "word": "白鹿王星越喝同一杯饮料",
+        "onboard_time": 1770545960,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 323622,
+        "num": 161551,
+        "word": "外卖小哥打翻32杯奶茶原地发愣",
+        "onboard_time": 1770537860,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 287749,
+        "num": 161546,
+        "word": "猫 没有一根毛想跟你好",
+        "onboard_time": 1770543801,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 259941,
+        "num": 161535,
+        "word": "演员醉驾撞死人赔偿家属达成谅解",
+        "onboard_time": 1770541880,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 258896,
+        "num": 161526,
+        "word": "古茗回应外卖小哥打翻32杯奶茶",
+        "onboard_time": 1770539840,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200628,
+        "num": 161513,
+        "word": "千问",
+        "onboard_time": 1770516199,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 164429,
+        "num": 161507,
+        "word": "成何体统",
+        "onboard_time": 1770536601,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161500,
+        "num": 161500,
+        "word": "爸爸弯了一辈子的腰终于断了",
+        "onboard_time": 1770533900,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 429787,
+        "num": 153029,
+        "word": "小英想把送养出去6年的女儿接回家",
+        "onboard_time": 1770537019,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 212377,
+        "num": 145332,
+        "word": "邓超忘给孙俪准备16年纪念日的礼物",
+        "onboard_time": 1770533000,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118623,
+        "num": 118623,
+        "word": "减肥误食了一顿麻辣烫",
+        "onboard_time": 1770542059,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 211236,
+        "num": 116683,
+        "word": "张凌赫 电竞男主",
+        "onboard_time": 1770535280,
+        "rank": 23,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 169389,
+        "num": 115531,
+        "word": "黄多多斜肩黑裙",
+        "onboard_time": 1770550162,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 113421,
+        "num": 113421,
+        "word": "一箱牛奶完成了串门的使命",
+        "onboard_time": 1770540560,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 142987,
+        "num": 110787,
+        "word": "黄一鸣直播中途崩溃大哭",
+        "onboard_time": 1770539480,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127189,
+        "num": 108279,
+        "word": "赵今麦宋威龙双人商务预告",
+        "onboard_time": 1770547520,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104019,
+        "num": 104019,
+        "word": "牛奶炸鸡",
+        "onboard_time": 1770542000,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 124420,
+        "num": 103985,
+        "word": "张凌赫这个出场",
+        "onboard_time": 1770543801,
+        "rank": 29,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 115561,
+        "num": 103855,
+        "word": "2026央视网络春晚全阵容官宣",
+        "onboard_time": 1770548121,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108875,
+        "num": 103724,
+        "word": "日本执政联盟将获众议院过半议席",
+        "onboard_time": 1770549681,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 107556,
+        "num": 103625,
+        "word": "袁咏仪庆祝和张智霖银婚",
+        "onboard_time": 1770547700,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103583,
+        "num": 103583,
+        "word": "甲状腺结节的忌口食物",
+        "onboard_time": 1770549681,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 99240,
+        "num": 99240,
+        "word": "爱泼斯坦在巴黎红房间拍下女孩跳舞",
+        "onboard_time": 1770532821,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 98110,
+        "num": 98110,
+        "word": "彭昱畅红包 看年少有为的固定收入",
+        "onboard_time": 1770548781,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92609,
+        "num": 92609,
+        "word": "四川地震",
+        "onboard_time": 1770531380,
+        "rank": 36,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 91454,
+        "num": 91454,
+        "word": "张本美和采访哭了",
+        "onboard_time": 1770550101,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91279,
+        "num": 91279,
+        "word": "吴昕用千问把长沙小吃点了个遍",
+        "onboard_time": 1770537860,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87681,
+        "num": 87681,
+        "word": "仙逆",
+        "onboard_time": 1770548179,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 87409,
+        "num": 87409,
+        "word": "国投白银LOF停复牌安排",
+        "onboard_time": 1770547760,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 86696,
+        "num": 86696,
+        "word": "寒假能猝死学校能困死",
+        "onboard_time": 1770544281,
+        "rank": 41,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 86518,
+        "num": 86518,
+        "word": "白厄同人游戏PV初火",
+        "onboard_time": 1770549921,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 82095,
+        "num": 82095,
+        "word": "Bang和Wolf直播聊Uzi",
+        "onboard_time": 1770548360,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 81598,
+        "num": 81598,
+        "word": "订婚强奸案关键证据证明女方激烈反抗",
+        "onboard_time": 1770548481,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81545,
+        "num": 81545,
+        "word": "金博洋战胜了金博洋",
+        "onboard_time": 1770549200,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81477,
+        "num": 81477,
+        "word": "王楚钦孙颖莎troy",
+        "onboard_time": 1770549021,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81072,
+        "num": 81072,
+        "word": "教师用手背打学生脸家长已起诉",
+        "onboard_time": 1770549623,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80986,
+        "num": 80986,
+        "word": "打野怎么打回来一堆问号",
+        "onboard_time": 1770548960,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 78847,
+        "num": 78847,
+        "word": "春晚彩排",
+        "onboard_time": 1770538219,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记新春足迹的温暖瞬间#"
+    }
+  }
+}

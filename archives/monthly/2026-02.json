@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1770548158983,
+  "endTime": 1770550265206,
   "band_list": [
     {
       "raw_hot": 12386962,
@@ -315,6 +315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1557075,
+      "num": 1068571,
+      "word": "订婚强奸案电梯视频首曝光",
+      "onboard_time": 1770545361,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1535986,
       "num": 269018,
       "word": "马斯克女儿爆料",
@@ -524,7 +532,7 @@
     },
     {
       "raw_hot": 1165532,
-      "num": 141244,
+      "num": 153029,
       "word": "小英想把送养出去6年的女儿接回家",
       "onboard_time": 1770537019,
       "rank": 24,
@@ -648,14 +656,6 @@
       "word": "夫妻网购娃娃菜食用中毒系丈夫下毒",
       "onboard_time": 1770096920,
       "rank": 3,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1068571,
-      "num": 1068571,
-      "word": "订婚强奸案电梯视频首曝光",
-      "onboard_time": 1770545361,
-      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -3867,6 +3867,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 364462,
+      "num": 907893,
+      "word": "蒯曼vs张本美和",
+      "onboard_time": 1770547400,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 363430,
       "num": 363430,
       "word": "尚公主杀青",
@@ -5083,6 +5091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 287749,
+      "num": 262626,
+      "word": "猫 没有一根毛想跟你好",
+      "onboard_time": 1770543801,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 287580,
       "num": 135850,
       "word": "gala生活照九宫格",
@@ -5547,14 +5563,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 262626,
-      "num": 262626,
-      "word": "猫 没有一根毛想跟你好",
-      "onboard_time": 1770543801,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 262593,
       "num": 717127,
       "word": "胡歌说杨紫的戏不是一般的好",
@@ -5729,6 +5737,14 @@
       "onboard_time": 1770492135,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 256213,
+      "num": 256213,
+      "word": "上海政府大规模收购二手房",
+      "onboard_time": 1770544760,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 256051,
@@ -6249,14 +6265,6 @@
       "onboard_time": 1770028642,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 237780,
-      "num": 237780,
-      "word": "蒯曼vs张本美和",
-      "onboard_time": 1770547400,
-      "rank": 11,
-      "category": "体育"
     },
     {
       "raw_hot": 237631,
@@ -7179,6 +7187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 202627,
+      "num": 202627,
+      "word": "成何体统 改词",
+      "onboard_time": 1770549321,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 201903,
       "num": 204199,
       "word": "陈哲远复制丞磊后援会文案",
@@ -7217,6 +7233,14 @@
       "onboard_time": 1770424999,
       "rank": 8,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 199243,
+      "num": 199243,
+      "word": "蒯曼铜牌",
+      "onboard_time": 1770548300,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 199050,
@@ -8219,6 +8243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 169389,
+      "num": 115531,
+      "word": "黄多多斜肩黑裙",
+      "onboard_time": 1770550162,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 169327,
       "num": 139669,
       "word": "肖战要来微博之夜",
@@ -8536,6 +8568,14 @@
       "word": "精神病医院惩罚病人最久绑3天3夜",
       "onboard_time": 1770082880,
       "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 161585,
+      "num": 161585,
+      "word": "缅北明家明珍珍被判死刑时的忏悔",
+      "onboard_time": 1770548721,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -9820,7 +9860,7 @@
     },
     {
       "raw_hot": 138691,
-      "num": 107765,
+      "num": 108279,
       "word": "赵今麦宋威龙双人商务预告",
       "onboard_time": 1770547520,
       "rank": 26,
@@ -11507,14 +11547,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 118789,
-      "num": 118789,
-      "word": "上海政府大规模收购二手房",
-      "onboard_time": 1770544760,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 118733,
       "num": 118733,
       "word": "肖战微博之夜定妆花絮",
@@ -11825,6 +11857,14 @@
       "onboard_time": 1770293005,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 115561,
+      "num": 103855,
+      "word": "2026央视网络春晚全阵容官宣",
+      "onboard_time": 1770548121,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 115395,
@@ -12571,6 +12611,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 108875,
+      "num": 103724,
+      "word": "日本执政联盟将获众议院过半议席",
+      "onboard_time": 1770549681,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 108819,
       "num": 108819,
       "word": "生命树第8集反转",
@@ -12721,6 +12769,14 @@
       "onboard_time": 1770458480,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 107556,
+      "num": 103625,
+      "word": "袁咏仪庆祝和张智霖银婚",
+      "onboard_time": 1770547700,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 107542,
@@ -13305,6 +13361,14 @@
       "onboard_time": 1770088879,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 103583,
+      "num": 103583,
+      "word": "甲状腺结节的忌口食物",
+      "onboard_time": 1770549681,
+      "rank": 33,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 103483,
@@ -14025,6 +14089,14 @@
       "onboard_time": 1770168380,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 98110,
+      "num": 98110,
+      "word": "彭昱畅红包 看年少有为的固定收入",
+      "onboard_time": 1770548781,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 98075,
@@ -15083,6 +15155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 91454,
+      "num": 91454,
+      "word": "张本美和采访哭了",
+      "onboard_time": 1770550101,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 91409,
       "num": 77667,
       "word": "那英悼念袁惟仁",
@@ -15803,6 +15883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 87409,
+      "num": 87409,
+      "word": "国投白银LOF停复牌安排",
+      "onboard_time": 1770547760,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 87308,
       "num": 85654,
       "word": "胡歌盛赞杨紫",
@@ -15921,6 +16009,14 @@
       "onboard_time": 1769939600,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 86518,
+      "num": 86518,
+      "word": "白厄同人游戏PV初火",
+      "onboard_time": 1770549921,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 86493,
@@ -16233,14 +16329,6 @@
       "onboard_time": 1770112341,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 84869,
-      "num": 72693,
-      "word": "袁咏仪庆祝和张智霖银婚",
-      "onboard_time": 1770547700,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 84816,
@@ -16667,6 +16755,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 82095,
+      "num": 82095,
+      "word": "Bang和Wolf直播聊Uzi",
+      "onboard_time": 1770548360,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 82046,
       "num": 100136,
       "word": "美国对与伊朗有贸易往来国家加征关税",
@@ -16707,6 +16803,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 81598,
+      "num": 81598,
+      "word": "订婚强奸案关键证据证明女方激烈反抗",
+      "onboard_time": 1770548481,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 81593,
       "num": 81593,
       "word": "TFING回应时代峰峻在微博之夜开会",
@@ -16715,12 +16819,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 81545,
+      "num": 81545,
+      "word": "金博洋战胜了金博洋",
+      "onboard_time": 1770549200,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 81544,
       "num": 178072,
       "word": "泰国军方曝光电诈园区",
       "onboard_time": 1770282506,
       "rank": 34,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 81477,
+      "num": 81477,
+      "word": "王楚钦孙颖莎troy",
+      "onboard_time": 1770549021,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 81462,
@@ -16843,6 +16963,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 81072,
+      "num": 81072,
+      "word": "教师用手背打学生脸家长已起诉",
+      "onboard_time": 1770549623,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 81014,
       "num": 81014,
       "word": "职场中不要过度礼貌",
@@ -16857,6 +16985,14 @@
       "onboard_time": 1770457701,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 80986,
+      "num": 80986,
+      "word": "打野怎么打回来一堆问号",
+      "onboard_time": 1770548960,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 80954,
@@ -18499,14 +18635,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 65768,
-      "num": 65768,
-      "word": "国投白银LOF停复牌安排",
-      "onboard_time": 1770547760,
-      "rank": 39,
-      "category": "财经"
-    },
-    {
       "raw_hot": 65683,
       "num": 65683,
       "word": "小寒 寒王",
@@ -18913,14 +19041,6 @@
       "onboard_time": 1770023002,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 61668,
-      "num": 61668,
-      "word": "2026央视网络春晚全阵容官宣",
-      "onboard_time": 1770548121,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 61559,
@@ -22896,6 +23016,14 @@
       "word": "回看中国冬奥军团夺金之路",
       "onboard_time": 1770396440,
       "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 15173,
+      "num": 161582,
+      "word": "孙颖莎vs王曼昱",
+      "onboard_time": 1770549860,
+      "rank": 10,
       "category": "体育"
     },
     {

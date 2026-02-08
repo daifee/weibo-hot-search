@@ -1,6 +1,6 @@
 {
   "startTime": 1770482461321,
-  "endTime": 1770548158983,
+  "endTime": 1770550265206,
   "band_list": [
     {
       "raw_hot": 3647947,
@@ -19,8 +19,16 @@
       "category": "国际时政,体育"
     },
     {
+      "raw_hot": 1557075,
+      "num": 1068571,
+      "word": "订婚强奸案电梯视频首曝光",
+      "onboard_time": 1770545361,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1165532,
-      "num": 141244,
+      "num": 153029,
       "word": "小英想把送养出去6年的女儿接回家",
       "onboard_time": 1770537019,
       "rank": 24,
@@ -49,14 +57,6 @@
       "onboard_time": 1770477140,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1068571,
-      "num": 1068571,
-      "word": "订婚强奸案电梯视频首曝光",
-      "onboard_time": 1770545361,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1034346,
@@ -363,6 +363,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 364462,
+      "num": 907893,
+      "word": "蒯曼vs张本美和",
+      "onboard_time": 1770547400,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 358887,
       "num": 662691,
       "word": "川大博导被举报83页材料公开",
@@ -435,6 +443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 287749,
+      "num": 262626,
+      "word": "猫 没有一根毛想跟你好",
+      "onboard_time": 1770543801,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 287216,
       "num": 227572,
       "word": "一箱牛奶完成了串门的使命",
@@ -467,14 +483,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 262626,
-      "num": 262626,
-      "word": "猫 没有一根毛想跟你好",
-      "onboard_time": 1770543801,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 261010,
       "num": 178090,
       "word": "沈腾回应参加泡泡玛特年会",
@@ -497,6 +505,14 @@
       "onboard_time": 1770492135,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 256213,
+      "num": 256213,
+      "word": "上海政府大规模收购二手房",
+      "onboard_time": 1770544760,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 256051,
@@ -537,14 +553,6 @@
       "onboard_time": 1770510620,
       "rank": 12,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 237780,
-      "num": 237780,
-      "word": "蒯曼vs张本美和",
-      "onboard_time": 1770547400,
-      "rank": 11,
-      "category": "体育"
     },
     {
       "raw_hot": 236311,
@@ -643,12 +651,28 @@
       "category": "艺人,游戏"
     },
     {
+      "raw_hot": 202627,
+      "num": 202627,
+      "word": "成何体统 改词",
+      "onboard_time": 1770549321,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 201619,
       "num": 201619,
       "word": "韩员工误发超400亿美元比特币",
       "onboard_time": 1770515422,
       "rank": 6,
       "category": "海外新闻,财经"
+    },
+    {
+      "raw_hot": 199243,
+      "num": 199243,
+      "word": "蒯曼铜牌",
+      "onboard_time": 1770548300,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 197431,
@@ -723,6 +747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 169389,
+      "num": 115531,
+      "word": "黄多多斜肩黑裙",
+      "onboard_time": 1770550162,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 168439,
       "num": 158642,
       "word": "没领证男子去世遭索18万彩礼女方发声",
@@ -761,6 +793,14 @@
       "onboard_time": 1770537860,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 161585,
+      "num": 161585,
+      "word": "缅北明家明珍珍被判死刑时的忏悔",
+      "onboard_time": 1770548721,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 159349,
@@ -892,7 +932,7 @@
     },
     {
       "raw_hot": 138691,
-      "num": 107765,
+      "num": 108279,
       "word": "赵今麦宋威龙双人商务预告",
       "onboard_time": 1770547520,
       "rank": 26,
@@ -987,14 +1027,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 118789,
-      "num": 118789,
-      "word": "上海政府大规模收购二手房",
-      "onboard_time": 1770544760,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 118428,
       "num": 118428,
       "word": "时代少年团回应时代峰峻团建",
@@ -1025,6 +1057,14 @@
       "onboard_time": 1770522260,
       "rank": 46,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 115561,
+      "num": 103855,
+      "word": "2026央视网络春晚全阵容官宣",
+      "onboard_time": 1770548121,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 115472,
@@ -1107,6 +1147,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 108875,
+      "num": 103724,
+      "word": "日本执政联盟将获众议院过半议席",
+      "onboard_time": 1770549681,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 108841,
       "num": 108841,
       "word": "生命树张扬去世",
@@ -1155,6 +1203,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 107556,
+      "num": 103625,
+      "word": "袁咏仪庆祝和张智霖银婚",
+      "onboard_time": 1770547700,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 107142,
       "num": 107142,
       "word": "张凌赫无畏契约上班",
@@ -1177,6 +1233,14 @@
       "onboard_time": 1770539060,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 103583,
+      "num": 103583,
+      "word": "甲状腺结节的忌口食物",
+      "onboard_time": 1770549681,
+      "rank": 33,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 103129,
@@ -1249,6 +1313,14 @@
       "onboard_time": 1770515660,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 98110,
+      "num": 98110,
+      "word": "彭昱畅红包 看年少有为的固定收入",
+      "onboard_time": 1770548781,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 98061,
@@ -1339,6 +1411,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 91454,
+      "num": 91454,
+      "word": "张本美和采访哭了",
+      "onboard_time": 1770550101,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 91037,
       "num": 91037,
       "word": "小猪佩奇的弟弟乔治戴上了助听器",
@@ -1419,6 +1499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 87681,
+      "num": 87681,
+      "word": "仙逆",
+      "onboard_time": 1770548179,
+      "rank": 39,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 87462,
       "num": 163265,
       "word": "54岁男子祭祖被捕猎网电倒身亡",
@@ -1427,12 +1515,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 87409,
+      "num": 87409,
+      "word": "国投白银LOF停复牌安排",
+      "onboard_time": 1770547760,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 86981,
       "num": 89863,
       "word": "减肥一年 以最胖的姿态迎来了新年",
       "onboard_time": 1770530240,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 86518,
+      "num": 86518,
+      "word": "白厄同人游戏PV初火",
+      "onboard_time": 1770549921,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 86164,
@@ -1497,14 +1601,6 @@
       "onboard_time": 1770541638,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 84869,
-      "num": 72693,
-      "word": "袁咏仪庆祝和张智霖银婚",
-      "onboard_time": 1770547700,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 83711,
@@ -1587,12 +1683,60 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 82095,
+      "num": 82095,
+      "word": "Bang和Wolf直播聊Uzi",
+      "onboard_time": 1770548360,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 81598,
+      "num": 81598,
+      "word": "订婚强奸案关键证据证明女方激烈反抗",
+      "onboard_time": 1770548481,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 81593,
       "num": 81593,
       "word": "TFING回应时代峰峻在微博之夜开会",
       "onboard_time": 1770535579,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 81545,
+      "num": 81545,
+      "word": "金博洋战胜了金博洋",
+      "onboard_time": 1770549200,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 81477,
+      "num": 81477,
+      "word": "王楚钦孙颖莎troy",
+      "onboard_time": 1770549021,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 81072,
+      "num": 81072,
+      "word": "教师用手背打学生脸家长已起诉",
+      "onboard_time": 1770549623,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 80986,
+      "num": 80986,
+      "word": "打野怎么打回来一堆问号",
+      "onboard_time": 1770548960,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 80954,
@@ -1979,14 +2123,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 65768,
-      "num": 65768,
-      "word": "国投白银LOF停复牌安排",
-      "onboard_time": 1770547760,
-      "rank": 39,
-      "category": "财经"
-    },
-    {
       "raw_hot": 65166,
       "num": 69720,
       "word": "乌克兰紧急求助波兰",
@@ -2025,14 +2161,6 @@
       "onboard_time": 1770533539,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 61668,
-      "num": 61668,
-      "word": "2026央视网络春晚全阵容官宣",
-      "onboard_time": 1770548121,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 61482,
@@ -2648,6 +2776,14 @@
       "word": "刘奇跳台滑雪首跳超预期",
       "onboard_time": 1770489316,
       "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 15173,
+      "num": 161582,
+      "word": "孙颖莎vs王曼昱",
+      "onboard_time": 1770549860,
+      "rank": 10,
       "category": "体育"
     },
     {
