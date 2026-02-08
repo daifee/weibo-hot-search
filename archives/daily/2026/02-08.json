@@ -1,6 +1,6 @@
 {
   "startTime": 1770482461321,
-  "endTime": 1770551155293,
+  "endTime": 1770555928745,
   "band_list": [
     {
       "raw_hot": 3647947,
@@ -19,6 +19,14 @@
       "category": "国际时政,体育"
     },
     {
+      "raw_hot": 1611555,
+      "num": 580909,
+      "word": "蔡徐坤直播",
+      "onboard_time": 1770552801,
+      "rank": 3,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1557075,
       "num": 1068571,
       "word": "订婚强奸案电梯视频首曝光",
@@ -27,8 +35,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1284982,
+      "num": 1284982,
+      "word": "孙颖莎vs王曼昱",
+      "onboard_time": 1770549860,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1165532,
-      "num": 153029,
+      "num": 209771,
       "word": "小英想把送养出去6年的女儿接回家",
       "onboard_time": 1770537019,
       "rank": 24,
@@ -99,12 +115,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 790088,
+      "num": 262649,
+      "word": "初中生杀害同学埋尸案细节披露",
+      "onboard_time": 1770550521,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 738277,
       "num": 738277,
       "word": "这才是真正的道歉",
       "onboard_time": 1770522680,
       "rank": 5,
       "category": "情感"
+    },
+    {
+      "raw_hot": 666271,
+      "num": 256954,
+      "word": "肖战有顶流命没有顶流病",
+      "onboard_time": 1770553463,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 646911,
@@ -153,6 +185,14 @@
       "onboard_time": 1770526519,
       "rank": 18,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 551804,
+      "num": 209889,
+      "word": "黄多多斜肩黑裙",
+      "onboard_time": 1770550162,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 526315,
@@ -235,14 +275,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 460045,
-      "num": 145617,
-      "word": "黄多多斜肩黑裙",
-      "onboard_time": 1770550162,
-      "rank": 24,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 453756,
       "num": 740625,
       "word": "办婚礼没领证男子去世婆媳争18万彩礼",
@@ -275,6 +307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 427484,
+      "num": 242611,
+      "word": "杨紫张哲华吻戏",
+      "onboard_time": 1770553102,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 426974,
       "num": 181480,
       "word": "王俊凯的话只有朱志鑫听进去了",
@@ -292,7 +332,7 @@
     },
     {
       "raw_hot": 407758,
-      "num": 166102,
+      "num": 173909,
       "word": "张凌赫 电竞男主",
       "onboard_time": 1770535280,
       "rank": 13,
@@ -323,8 +363,16 @@
       "category": "海外新闻,财经"
     },
     {
+      "raw_hot": 394316,
+      "num": 394316,
+      "word": "唐宫奇案",
+      "onboard_time": 1770484398,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 390534,
-      "num": 248810,
+      "num": 305250,
       "word": "成何体统 改词",
       "onboard_time": 1770549321,
       "rank": 6,
@@ -403,6 +451,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 341354,
+      "num": 229212,
+      "word": "男嬛传",
+      "onboard_time": 1770552741,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 339996,
+      "num": 237210,
+      "word": "柯南宝可梦 漫展禁止",
+      "onboard_time": 1770551061,
+      "rank": 45,
+      "category": "民生新闻,动漫"
+    },
+    {
       "raw_hot": 332844,
       "num": 332844,
       "word": "苏翊鸣第一跳1980",
@@ -425,6 +489,14 @@
       "onboard_time": 1770523099,
       "rank": 15,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 315169,
+      "num": 315169,
+      "word": "张本美和采访哭了",
+      "onboard_time": 1770550101,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 314897,
@@ -459,6 +531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 295920,
+      "num": 295920,
+      "word": "樊振东冬奥开幕式plog",
+      "onboard_time": 1770553342,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 287749,
       "num": 262626,
       "word": "猫 没有一根毛想跟你好",
@@ -483,6 +563,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 283063,
+      "num": 217174,
+      "word": "唐宫奇案破万",
+      "onboard_time": 1770555801,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 278955,
+      "num": 278955,
+      "word": "男生寒假打工烤糊200多个鸡翅",
+      "onboard_time": 1770551721,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 278463,
       "num": 212059,
       "word": "白鹿发开播红包",
@@ -497,6 +593,14 @@
       "onboard_time": 1770476541,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 269829,
+      "num": 269829,
+      "word": "日本执政联盟将获众议院过半议席",
+      "onboard_time": 1770549681,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 261010,
@@ -587,14 +691,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 235990,
-      "num": 235990,
-      "word": "张本美和采访哭了",
-      "onboard_time": 1770550101,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 234889,
       "num": 234889,
       "word": "Bin",
@@ -617,6 +713,14 @@
       "onboard_time": 1770535159,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 226128,
+      "num": 211066,
+      "word": "成何体统",
+      "onboard_time": 1770471443,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 219612,
@@ -683,6 +787,14 @@
       "category": "艺人,游戏"
     },
     {
+      "raw_hot": 209322,
+      "num": 209322,
+      "word": "父亲去世试管婴儿获工亡抚恤金",
+      "onboard_time": 1770555021,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 201619,
       "num": 201619,
       "word": "韩员工误发超400亿美元比特币",
@@ -731,6 +843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 191488,
+      "num": 191488,
+      "word": "甲状腺结节的忌口食物",
+      "onboard_time": 1770549681,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 186754,
       "num": 186754,
       "word": "米兰大跳台 摔了好多人",
@@ -739,12 +859,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 183995,
-      "num": 183995,
-      "word": "日本执政联盟将获众议院过半议席",
-      "onboard_time": 1770549681,
-      "rank": 31,
-      "category": "国际时政"
+      "raw_hot": 181154,
+      "num": 181154,
+      "word": "办婚礼没领证女子在爱人祭日被赶婚房",
+      "onboard_time": 1770551721,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 178148,
@@ -761,14 +881,6 @@
       "onboard_time": 1770524241,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 173350,
-      "num": 173350,
-      "word": "成何体统",
-      "onboard_time": 1770471443,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 172036,
@@ -793,6 +905,14 @@
       "onboard_time": 1770514520,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 166129,
+      "num": 166129,
+      "word": "一句快递停运网友连下20单",
+      "onboard_time": 1770552441,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 165831,
@@ -833,14 +953,6 @@
       "onboard_time": 1770516979,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 158417,
-      "num": 132781,
-      "word": "甲状腺结节的忌口食物",
-      "onboard_time": 1770549681,
-      "rank": 33,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 157862,
@@ -884,7 +996,7 @@
     },
     {
       "raw_hot": 152527,
-      "num": 108587,
+      "num": 109651,
       "word": "闪耀暖暖大猛料",
       "onboard_time": 1770550941,
       "rank": 30,
@@ -899,12 +1011,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 150447,
+      "num": 150447,
+      "word": "人至少要有3个兴趣爱好",
+      "onboard_time": 1770553402,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 148232,
       "num": 101088,
       "word": "天津首例不满16岁未成年人被行拘",
       "onboard_time": 1770483318,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 145713,
+      "num": 145713,
+      "word": "王楚钦13次胜张本智和",
+      "onboard_time": 1770554421,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 143364,
@@ -1043,14 +1171,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 125439,
-      "num": 125439,
-      "word": "初中生杀害同学埋尸案细节披露",
-      "onboard_time": 1770550521,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 124092,
       "num": 124092,
       "word": "一诺浮潜",
@@ -1065,6 +1185,14 @@
       "onboard_time": 1770532821,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 121049,
+      "num": 121049,
+      "word": "鞠婧祎指尖蝴蝶",
+      "onboard_time": 1770555201,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 118428,
@@ -1155,6 +1283,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 111560,
+      "num": 111560,
+      "word": "闪耀暖暖新年阁",
+      "onboard_time": 1770552261,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 110749,
+      "num": 110749,
+      "word": "ALin哭了",
+      "onboard_time": 1770553641,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 109388,
       "num": 109388,
       "word": "苏翊鸣说判罚完全公平",
@@ -1193,6 +1337,14 @@
       "onboard_time": 1770470241,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 108723,
+      "num": 108723,
+      "word": "甘肃浆水面",
+      "onboard_time": 1770554301,
+      "rank": 41,
+      "category": "美食"
     },
     {
       "raw_hot": 108362,
@@ -1235,6 +1387,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 107688,
+      "num": 210775,
+      "word": "谁给了窗口人员收1614万的勇气",
+      "onboard_time": 1770554962,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107556,
       "num": 103625,
       "word": "袁咏仪庆祝和张智霖银婚",
@@ -1257,6 +1417,14 @@
       "onboard_time": 1770534798,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 106353,
+      "num": 106353,
+      "word": "BLG",
+      "onboard_time": 1770553102,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 104117,
@@ -1299,6 +1467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 101466,
+      "num": 101466,
+      "word": "樊振东祝福中国冰雪健儿",
+      "onboard_time": 1770555562,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 101371,
       "num": 101371,
       "word": "女子做美甲后摔倒致指甲断裂",
@@ -1313,6 +1489,22 @@
       "onboard_time": 1770526879,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 101185,
+      "num": 101185,
+      "word": "突然意识到自己上了年纪的瞬间",
+      "onboard_time": 1770554061,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 100923,
+      "num": 100923,
+      "word": "森林北回应上过非诚勿扰",
+      "onboard_time": 1770552082,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 99977,
@@ -1361,6 +1553,14 @@
       "onboard_time": 1770491295,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 96552,
+      "num": 174288,
+      "word": "王一博只留最得体的姿态",
+      "onboard_time": 1770554601,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 96409,
@@ -1417,6 +1617,22 @@
       "onboard_time": 1770536060,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92059,
+      "num": 92059,
+      "word": "8岁女孩随邻居长江游泳溺亡案宣判",
+      "onboard_time": 1770553402,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92045,
+      "num": 92045,
+      "word": "小马糕成了硬通货",
+      "onboard_time": 1770552681,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 91637,
@@ -1745,14 +1961,6 @@
       "onboard_time": 1770549021,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 81364,
-      "num": 81364,
-      "word": "柯南宝可梦 漫展禁止",
-      "onboard_time": 1770551061,
-      "rank": 45,
-      "category": "民生新闻,动漫"
     },
     {
       "raw_hot": 80986,
@@ -2331,14 +2539,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 51969,
-      "num": 55243,
-      "word": "唐宫奇案",
-      "onboard_time": 1770484398,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 51413,
       "num": 96721,
       "word": "日本众议院选举投票结束",
@@ -2555,6 +2755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 36362,
+      "num": 109652,
+      "word": "李雪琴 我是为了赢",
+      "onboard_time": 1770554840,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 35807,
       "num": 72716,
       "word": "日本选民直言谁当选都一样",
@@ -2616,14 +2824,6 @@
       "word": "大跳台 转成陀螺了",
       "onboard_time": 1770493875,
       "rank": 23,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 32879,
-      "num": 161582,
-      "word": "孙颖莎vs王曼昱",
-      "onboard_time": 1770549860,
-      "rank": 10,
       "category": "体育"
     },
     {
@@ -2715,6 +2915,14 @@
       "category": "艺人,互联网"
     },
     {
+      "raw_hot": 23388,
+      "num": 713244,
+      "word": "中国冰雪四年跃迁",
+      "onboard_time": 1770538820,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 23172,
       "num": 25525,
       "word": "单板滑雪 神仙打架",
@@ -2753,6 +2961,14 @@
       "onboard_time": 1770537681,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 22333,
+      "num": 211683,
+      "word": "无畏契约真人版女团闪现广州",
+      "onboard_time": 1770552261,
+      "rank": 17,
+      "category": "电竞"
     },
     {
       "raw_hot": 21699,
@@ -2884,6 +3100,9 @@
     },
     {
       "word": "#总书记新春足迹的温暖瞬间#"
+    },
+    {
+      "word": "#有一份牵挂始终温暖人心#"
     }
   ]
 }
