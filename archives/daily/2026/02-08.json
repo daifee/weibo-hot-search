@@ -1,7 +1,15 @@
 {
   "startTime": 1770482461321,
-  "endTime": 1770508571539,
+  "endTime": 1770520655545,
   "band_list": [
+    {
+      "raw_hot": 1139987,
+      "num": 149052,
+      "word": "千问",
+      "onboard_time": 1770516199,
+      "rank": 9,
+      "category": "互联网"
+    },
     {
       "raw_hot": 1091823,
       "num": 1091823,
@@ -11,12 +19,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1034346,
+      "num": 254917,
+      "word": "爱吃柚子的人天塌了",
+      "onboard_time": 1770516620,
+      "rank": 5,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 791539,
       "num": 1058206,
       "word": "苏翊鸣大跳台铜牌",
       "onboard_time": 1770493515,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 646911,
+      "num": 1103505,
+      "word": "苏翊鸣疑似被日本裁判压分",
+      "onboard_time": 1770509058,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 540645,
+      "num": 540645,
+      "word": "谢依霖回应提问赵丽颖",
+      "onboard_time": 1770519020,
+      "rank": 3,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 494939,
@@ -51,6 +83,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 399074,
+      "num": 88097,
+      "word": "韩员工手滑发62万枚比特币",
+      "onboard_time": 1770517161,
+      "rank": 30,
+      "category": "海外新闻,财经"
+    },
+    {
       "raw_hot": 383438,
       "num": 383438,
       "word": "日媒称谷爱凌摔倒是赛道问题",
@@ -73,6 +113,30 @@
       "onboard_time": 1770490095,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 332614,
+      "num": 786550,
+      "word": "苏翊鸣说不用再去承担卫冕冠军的压力",
+      "onboard_time": 1770510799,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 330635,
+      "num": 148743,
+      "word": "王俊凯的话只有朱志鑫听进去了",
+      "onboard_time": 1770517760,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 323160,
+      "num": 106640,
+      "word": "Bin腹肌对标Gala",
+      "onboard_time": 1770519680,
+      "rank": 20,
+      "category": "电竞"
     },
     {
       "raw_hot": 308783,
@@ -99,12 +163,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 284291,
+      "num": 284291,
+      "word": "山西山阴车间爆炸已致8死",
+      "onboard_time": 1770516922,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 277911,
       "num": 277911,
       "word": "11年了大姐还在骂明台",
       "onboard_time": 1770476541,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 261010,
+      "num": 147626,
+      "word": "沈腾回应参加泡泡玛特年会",
+      "onboard_time": 1770517341,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 256336,
@@ -123,6 +203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 238074,
+      "num": 147323,
+      "word": "曝爱泼斯坦为印度首富弟弟献女郎",
+      "onboard_time": 1770510620,
+      "rank": 12,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 234889,
       "num": 234889,
       "word": "Bin",
@@ -137,6 +225,14 @@
       "onboard_time": 1770491715,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 201619,
+      "num": 201619,
+      "word": "韩员工误发超400亿美元比特币",
+      "onboard_time": 1770515422,
+      "rank": 6,
+      "category": "海外新闻,财经"
     },
     {
       "raw_hot": 197431,
@@ -171,6 +267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 185347,
+      "num": 185347,
+      "word": "米兰大跳台 摔了好多人",
+      "onboard_time": 1770494655,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 178148,
       "num": 159724,
       "word": "赵丽颖2025年全球观众最喜爱演员",
@@ -193,6 +297,14 @@
       "onboard_time": 1770476482,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 166970,
+      "num": 146503,
+      "word": "蒲熠星突然发现单条微博不能超2000字",
+      "onboard_time": 1770514520,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 165831,
@@ -219,14 +331,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 154636,
-      "num": 154636,
-      "word": "米兰大跳台 摔了好多人",
-      "onboard_time": 1770494655,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 154117,
       "num": 154117,
       "word": "单板滑雪决赛",
@@ -243,12 +347,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 149463,
+      "num": 149463,
+      "word": "你好星期六收视率第一",
+      "onboard_time": 1770511098,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 148232,
       "num": 101088,
       "word": "天津首例不满16岁未成年人被行拘",
       "onboard_time": 1770483318,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 146371,
+      "num": 146371,
+      "word": "李荣浩 快十年没做别人的制作人",
+      "onboard_time": 1770516979,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 143364,
+      "num": 106373,
+      "word": "菲律宾一男子强奸孙女多达105次",
+      "onboard_time": 1770507918,
+      "rank": 22,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 143159,
@@ -307,12 +435,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 123610,
-      "num": 100534,
-      "word": "菲律宾一男子强奸孙女多达105次",
-      "onboard_time": 1770507918,
+      "raw_hot": 118044,
+      "num": 103853,
+      "word": "晚11点到凌晨3点睡好有多重要",
+      "onboard_time": 1770518659,
       "rank": 22,
-      "category": "海外新闻"
+      "category": "健康医疗"
     },
     {
       "raw_hot": 116912,
@@ -355,6 +483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 109005,
+      "num": 102538,
+      "word": "碎片化睡眠可能比熬夜更可怕",
+      "onboard_time": 1770514340,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 108841,
       "num": 108841,
       "word": "生命树张扬去世",
@@ -369,6 +505,38 @@
       "onboard_time": 1770477861,
       "rank": 27,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 108314,
+      "num": 108314,
+      "word": "成何体统男主等了女主十六年",
+      "onboard_time": 1770509119,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 108184,
+      "num": 108184,
+      "word": "高市早苗豪赌正式开始",
+      "onboard_time": 1770517941,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 107912,
+      "num": 107912,
+      "word": "小马糕",
+      "onboard_time": 1770512360,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 102361,
+      "num": 102361,
+      "word": "苏翊鸣一手挽着爸爸一手拎着奖牌",
+      "onboard_time": 1770519739,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 101938,
@@ -387,6 +555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 100351,
+      "num": 100351,
+      "word": "洗澡时不要总弯腰洗头",
+      "onboard_time": 1770520519,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 99977,
       "num": 99977,
       "word": "金博洋短节目",
@@ -401,6 +577,14 @@
       "onboard_time": 1770476362,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 98835,
+      "num": 98835,
+      "word": "罗云熙陈瑶是同个公司的",
+      "onboard_time": 1770515660,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 97770,
@@ -427,6 +611,38 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 91541,
+      "num": 91541,
+      "word": "全球第四大汽车巨头爆雷",
+      "onboard_time": 1770520159,
+      "rank": 27,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 89582,
+      "num": 89582,
+      "word": "熬夜后怎么补觉",
+      "onboard_time": 1770517879,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 87723,
+      "num": 87723,
+      "word": "肖战每一步都是内娱红毯的名场面预定",
+      "onboard_time": 1770513919,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 86032,
+      "num": 86032,
+      "word": "反向过年机票预订量增长84%",
+      "onboard_time": 1770518300,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85159,
       "num": 85159,
       "word": "高市早苗喊话俄罗斯",
@@ -443,6 +659,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 83392,
+      "num": 83392,
+      "word": "食材也有舒适区",
+      "onboard_time": 1770520460,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 82783,
+      "num": 82783,
+      "word": "千问称免单权益禁止倒卖",
+      "onboard_time": 1770514820,
+      "rank": 34,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 82735,
       "num": 82735,
       "word": "陈天润见面会",
@@ -451,12 +683,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 82015,
+      "num": 82015,
+      "word": "克林顿夫妇要求公开作证爱泼斯坦案",
+      "onboard_time": 1770518359,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 79788,
       "num": 79788,
       "word": "为什么很多餐馆都在提供免费柠檬水",
       "onboard_time": 1770471202,
       "rank": 34,
       "category": "美食"
+    },
+    {
+      "raw_hot": 79756,
+      "num": 79756,
+      "word": "女子当秒回师最高1个月赚6000元",
+      "onboard_time": 1770519140,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 79454,
@@ -475,6 +723,46 @@
       "category": "体育"
     },
     {
+      "raw_hot": 77802,
+      "num": 77802,
+      "word": "王楚钦孙颖莎亚洲杯冲金",
+      "onboard_time": 1770519980,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 77403,
+      "num": 77403,
+      "word": "善良遇到善良具象化了",
+      "onboard_time": 1770520578,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 76706,
+      "num": 76706,
+      "word": "从离职时间看离职原因",
+      "onboard_time": 1770520460,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 75256,
+      "num": 75256,
+      "word": "清华大学发文祝贺苏翊鸣",
+      "onboard_time": 1770519920,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 74442,
+      "num": 74442,
+      "word": "学生称王竹卿被举报后消极应对",
+      "onboard_time": 1770517580,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 73446,
       "num": 73446,
       "word": "苏翊鸣太帅了",
@@ -488,6 +776,14 @@
       "word": "谷爱凌身边的东北甜妹是谁",
       "onboard_time": 1770476061,
       "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 72084,
+      "num": 72084,
+      "word": "谷爱凌说摔倒与赛道无关",
+      "onboard_time": 1770519859,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -545,6 +841,14 @@
       "onboard_time": 1770507618,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 59239,
+      "num": 88135,
+      "word": "苏翊鸣健康接力棒接接接",
+      "onboard_time": 1770518119,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 59231,
@@ -828,7 +1132,7 @@
     },
     {
       "raw_hot": 23813,
-      "num": 590708,
+      "num": 658008,
       "word": "中国元素绽放米兰冬奥舞台",
       "onboard_time": 1770471022,
       "rank": 2,
@@ -937,6 +1241,14 @@
       "onboard_time": 1770489316,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 14206,
+      "num": 77483,
+      "word": "春节前多家美甲店涨价超30%",
+      "onboard_time": 1770520099,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 12854,
