@@ -1,6 +1,6 @@
 {
   "startTime": 1770482461321,
-  "endTime": 1770547018376,
+  "endTime": 1770548158983,
   "band_list": [
     {
       "raw_hot": 3647947,
@@ -51,6 +51,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1068571,
+      "num": 1068571,
+      "word": "订婚强奸案电梯视频首曝光",
+      "onboard_time": 1770545361,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1034346,
       "num": 781279,
       "word": "爱吃柚子的人天塌了",
@@ -60,7 +68,7 @@
     },
     {
       "raw_hot": 1030763,
-      "num": 230891,
+      "num": 242996,
       "word": "演员醉驾撞死人赔偿家属达成谅解",
       "onboard_time": 1770541880,
       "rank": 10,
@@ -107,6 +115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 645492,
+      "num": 645492,
+      "word": "白鹿王星越喝同一杯饮料",
+      "onboard_time": 1770545960,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 626109,
       "num": 552988,
       "word": "梁源发文怼吴克群",
@@ -137,14 +153,6 @@
       "onboard_time": 1770526519,
       "rank": 18,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 552673,
-      "num": 941066,
-      "word": "订婚强奸案电梯视频首曝光",
-      "onboard_time": 1770545361,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 526315,
@@ -459,12 +467,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 271025,
-      "num": 271025,
-      "word": "白鹿王星越喝同一杯饮料",
-      "onboard_time": 1770545960,
-      "rank": 8,
-      "category": "剧集"
+      "raw_hot": 262626,
+      "num": 262626,
+      "word": "猫 没有一根毛想跟你好",
+      "onboard_time": 1770543801,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 261010,
@@ -529,6 +537,14 @@
       "onboard_time": 1770510620,
       "rank": 12,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 237780,
+      "num": 237780,
+      "word": "蒯曼vs张本美和",
+      "onboard_time": 1770547400,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 236311,
@@ -707,14 +723,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 170980,
-      "num": 170980,
-      "word": "猫 没有一根毛想跟你好",
-      "onboard_time": 1770543801,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 168439,
       "num": 158642,
       "word": "没领证男子去世遭索18万彩礼女方发声",
@@ -755,20 +763,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 159349,
+      "num": 159349,
+      "word": "减肥误食了一顿麻辣烫",
+      "onboard_time": 1770542059,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 159239,
       "num": 159239,
       "word": "李荣浩 快十年没做别人的制作人",
       "onboard_time": 1770516979,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 158935,
-      "num": 158935,
-      "word": "减肥误食了一顿麻辣烫",
-      "onboard_time": 1770542059,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 157862,
@@ -883,6 +891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 138691,
+      "num": 107765,
+      "word": "赵今麦宋威龙双人商务预告",
+      "onboard_time": 1770547520,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 138130,
       "num": 137055,
       "word": "演唱会背痛包 偶像比粉丝先认出对方",
@@ -971,6 +987,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 118789,
+      "num": 118789,
+      "word": "上海政府大规模收购二手房",
+      "onboard_time": 1770544760,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 118428,
       "num": 118428,
       "word": "时代少年团回应时代峰峻团建",
@@ -1025,6 +1049,14 @@
       "onboard_time": 1770530720,
       "rank": 33,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 113033,
+      "num": 113033,
+      "word": "寒假能猝死学校能困死",
+      "onboard_time": 1770544281,
+      "rank": 49,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 112613,
@@ -1395,14 +1427,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 87372,
-      "num": 87372,
-      "word": "上海政府大规模收购二手房",
-      "onboard_time": 1770544760,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 86981,
       "num": 89863,
       "word": "减肥一年 以最胖的姿态迎来了新年",
@@ -1473,6 +1497,14 @@
       "onboard_time": 1770541638,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 84869,
+      "num": 72693,
+      "word": "袁咏仪庆祝和张智霖银婚",
+      "onboard_time": 1770547700,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 83711,
@@ -1625,6 +1657,14 @@
       "onboard_time": 1770519140,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 79743,
+      "num": 69717,
+      "word": "邓超陈赫友谊",
+      "onboard_time": 1770546921,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 79454,
@@ -1899,6 +1939,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 66974,
+      "num": 66079,
+      "word": "成何体统云合11.2%",
+      "onboard_time": 1770547760,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 66880,
       "num": 66880,
       "word": "不开花时装蒜一开花绝了",
@@ -1931,12 +1979,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 65622,
-      "num": 64595,
-      "word": "寒假能猝死学校能困死",
-      "onboard_time": 1770544281,
-      "rank": 49,
-      "category": "情感,幽默"
+      "raw_hot": 65768,
+      "num": 65768,
+      "word": "国投白银LOF停复牌安排",
+      "onboard_time": 1770547760,
+      "rank": 39,
+      "category": "财经"
     },
     {
       "raw_hot": 65166,
@@ -1955,6 +2003,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 63777,
+      "num": 63777,
+      "word": "必要熬夜时3个方法降低伤害",
+      "onboard_time": 1770546141,
+      "rank": 41,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 62042,
       "num": 173286,
       "word": "辛芷蕾的红是什么红",
@@ -1971,20 +2027,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 61668,
+      "num": 61668,
+      "word": "2026央视网络春晚全阵容官宣",
+      "onboard_time": 1770548121,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 61482,
       "num": 76704,
       "word": "女子被拐32年曾离父母家仅1公里",
       "onboard_time": 1770521240,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 61364,
-      "num": 61364,
-      "word": "邓超陈赫友谊",
-      "onboard_time": 1770546921,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 60281,
@@ -2019,6 +2075,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 58972,
+      "num": 80871,
+      "word": "明珍珍当庭忏悔独家视频曝光",
+      "onboard_time": 1770545659,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 58716,
+      "num": 58716,
+      "word": "杨紫给白菊录了很多番外",
+      "onboard_time": 1770547221,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 58517,
       "num": 69588,
       "word": "六个合法查询网站帮你看清一个人",
@@ -2049,6 +2121,14 @@
       "onboard_time": 1770527242,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 56651,
+      "num": 56651,
+      "word": "猫咪抓桌腿4年网友在线蹲大结局",
+      "onboard_time": 1770544700,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 53881,
@@ -2408,14 +2488,6 @@
       "word": "窗里窗外皆是归途的美好",
       "onboard_time": 1770521421,
       "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 26301,
-      "num": 80871,
-      "word": "明珍珍当庭忏悔独家视频曝光",
-      "onboard_time": 1770545659,
-      "rank": 32,
       "category": "民生新闻"
     },
     {
