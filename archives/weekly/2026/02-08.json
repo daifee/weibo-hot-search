@@ -1,6 +1,6 @@
 {
   "startTime": 1770482461321,
-  "endTime": 1770580021504,
+  "endTime": 1770583093381,
   "band_list": [
     {
       "raw_hot": 7279878,
@@ -3755,6 +3755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 16973,
+      "num": 16973,
+      "word": "丁禹兮高干Daddy上班了",
+      "onboard_time": 1770581534,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 16452,
       "num": 16998,
       "word": "蔡徐坤新专辑",
@@ -3787,12 +3795,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 15170,
+      "num": 15170,
+      "word": "法官回应订婚强奸案男方被判3年",
+      "onboard_time": 1770582854,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14206,
       "num": 77483,
       "word": "春节前多家美甲店涨价超30%",
       "onboard_time": 1770520099,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13629,
+      "num": 14991,
+      "word": "张小楠大跳台第二跳触雪",
+      "onboard_time": 1770582194,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 12854,
