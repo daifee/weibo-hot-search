@@ -1,7 +1,15 @@
 {
   "startTime": 1770482461321,
-  "endTime": 1770561396582,
+  "endTime": 1770562505529,
   "band_list": [
+    {
+      "raw_hot": 7279878,
+      "num": 7279878,
+      "word": "王楚钦vs张本智和",
+      "onboard_time": 1770556883,
+      "rank": 12,
+      "category": "体育"
+    },
     {
       "raw_hot": 5986163,
       "num": 5986163,
@@ -27,11 +35,11 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 2259763,
-      "num": 2259763,
-      "word": "王楚钦vs张本智和",
-      "onboard_time": 1770556883,
-      "rank": 12,
+      "raw_hot": 2213882,
+      "num": 2213882,
+      "word": "王楚钦金牌",
+      "onboard_time": 1770562284,
+      "rank": 3,
       "category": "体育"
     },
     {
@@ -163,6 +171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 677161,
+      "num": 392086,
+      "word": "孙颖莎王曼昱争议球",
+      "onboard_time": 1770558803,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 666271,
       "num": 379023,
       "word": "肖战有顶流命没有顶流病",
@@ -241,6 +257,14 @@
       "onboard_time": 1770522919,
       "rank": 20,
       "category": "演出"
+    },
+    {
+      "raw_hot": 520833,
+      "num": 520833,
+      "word": "亚洲杯",
+      "onboard_time": 1770556944,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 518869,
@@ -419,6 +443,14 @@
       "category": "海外新闻,财经"
     },
     {
+      "raw_hot": 394558,
+      "num": 394558,
+      "word": "Jasmine的MV是蔡徐坤自己剪的",
+      "onboard_time": 1770557181,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 394316,
       "num": 394316,
       "word": "唐宫奇案",
@@ -433,6 +465,14 @@
       "onboard_time": 1770549321,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 386421,
+      "num": 386421,
+      "word": "孙颖莎回应决胜局争议判罚",
+      "onboard_time": 1770559822,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 383438,
@@ -475,14 +515,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 365343,
-      "num": 365343,
-      "word": "亚洲杯",
-      "onboard_time": 1770556944,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 364542,
       "num": 163798,
       "word": "Bin腹肌对标Gala",
@@ -515,20 +547,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 351811,
-      "num": 287641,
-      "word": "孙颖莎王曼昱争议球",
-      "onboard_time": 1770558803,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 339996,
       "num": 293650,
       "word": "柯南宝可梦 漫展禁止",
       "onboard_time": 1770551061,
       "rank": 45,
       "category": "民生新闻,动漫"
+    },
+    {
+      "raw_hot": 338333,
+      "num": 338333,
+      "word": "高市将继续执政",
+      "onboard_time": 1770560303,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 334557,
@@ -579,6 +611,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 313681,
+      "num": 313681,
+      "word": "张杰演唱会现场官宣鸟巢",
+      "onboard_time": 1770560363,
+      "rank": 8,
+      "category": "演出"
+    },
+    {
       "raw_hot": 308783,
       "num": 308783,
       "word": "92岁老人集装箱离世留下19万存款",
@@ -627,14 +667,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 286370,
-      "num": 286370,
-      "word": "Jasmine的MV是蔡徐坤自己剪的",
-      "onboard_time": 1770557181,
-      "rank": 31,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 284221,
       "num": 284221,
       "word": "牛奶炸鸡",
@@ -657,6 +689,14 @@
       "onboard_time": 1770476541,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 272791,
+      "num": 272791,
+      "word": "王玉雯春晚路透缎面长裙好仙",
+      "onboard_time": 1770556883,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 269829,
@@ -827,12 +867,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 221514,
-      "num": 213707,
-      "word": "王玉雯春晚路透缎面长裙好仙",
-      "onboard_time": 1770556883,
-      "rank": 38,
-      "category": "综艺"
+      "raw_hot": 219736,
+      "num": 219736,
+      "word": "十个勤天想邀请TOP去种地",
+      "onboard_time": 1770557843,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 219612,
@@ -915,14 +955,6 @@
       "category": "艺人,游戏"
     },
     {
-      "raw_hot": 206084,
-      "num": 206084,
-      "word": "孙颖莎回应决胜局争议判罚",
-      "onboard_time": 1770559822,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 201619,
       "num": 201619,
       "word": "韩员工误发超400亿美元比特币",
@@ -979,14 +1011,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 190885,
-      "num": 190885,
-      "word": "十个勤天想邀请TOP去种地",
-      "onboard_time": 1770557843,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 186754,
       "num": 186754,
       "word": "米兰大跳台 摔了好多人",
@@ -1035,12 +1059,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 172736,
+      "num": 172736,
+      "word": "民宿老板得知携程被调查放烟花庆祝",
+      "onboard_time": 1770559942,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 172036,
       "num": 157691,
       "word": "芒果女主持上新了",
       "onboard_time": 1770476482,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 171040,
+      "num": 171040,
+      "word": "男子经常口干一查血糖超出正常值两倍",
+      "onboard_time": 1770559822,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 168439,
@@ -1123,6 +1163,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 157490,
+      "num": 157490,
+      "word": "时代峰峻在六公主三代同堂",
+      "onboard_time": 1770562044,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 157450,
       "num": 152902,
       "word": "你好星期六收视率第一",
@@ -1147,22 +1195,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 153129,
-      "num": 153129,
-      "word": "男子经常口干一查血糖超出正常值两倍",
-      "onboard_time": 1770559822,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 153090,
-      "num": 287914,
-      "word": "高市将继续执政",
-      "onboard_time": 1770560303,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 152527,
       "num": 109651,
       "word": "闪耀暖暖大猛料",
@@ -1179,14 +1211,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 151112,
-      "num": 294388,
-      "word": "张杰演唱会现场官宣鸟巢",
-      "onboard_time": 1770560363,
-      "rank": 8,
-      "category": "演出"
-    },
-    {
       "raw_hot": 150951,
       "num": 150951,
       "word": "教育局回应成绩单用星星显示",
@@ -1201,6 +1225,14 @@
       "onboard_time": 1770557243,
       "rank": 33,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 150371,
+      "num": 150371,
+      "word": "太平年赵匡胤黄袍加身",
+      "onboard_time": 1770561502,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 149963,
@@ -1275,6 +1307,22 @@
       "category": "民生新闻,休闲"
     },
     {
+      "raw_hot": 140775,
+      "num": 140775,
+      "word": "孙颖莎左手奖杯右手金牌",
+      "onboard_time": 1770560963,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 139948,
+      "num": 139948,
+      "word": "王楚钦沉浸式观赛",
+      "onboard_time": 1770560783,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 138970,
       "num": 138970,
       "word": "王力宏 我们不是那种节目",
@@ -1347,6 +1395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134128,
+      "num": 134128,
+      "word": "王楚钦这才是爆冲",
+      "onboard_time": 1770562344,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 133239,
       "num": 133239,
       "word": "男子网购椅子竟多出15公斤银板",
@@ -1379,6 +1435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 124869,
+      "num": 124869,
+      "word": "U17国足",
+      "onboard_time": 1770561383,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124092,
       "num": 124092,
       "word": "一诺浮潜",
@@ -1408,14 +1472,6 @@
       "word": "孙颖莎回应首夺亚洲杯冠军",
       "onboard_time": 1770561022,
       "rank": 40,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 122567,
-      "num": 122567,
-      "word": "王楚钦沉浸式观赛",
-      "onboard_time": 1770560783,
-      "rank": 41,
       "category": "体育"
     },
     {
@@ -1523,6 +1579,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 113030,
+      "num": 113030,
+      "word": "阿根廷称不排除中国",
+      "onboard_time": 1770561923,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 112613,
       "num": 129424,
       "word": "为何萝莉岛不叫爱泼斯坦岛",
@@ -1545,6 +1609,14 @@
       "onboard_time": 1770553102,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 112010,
+      "num": 112010,
+      "word": "亚洲杯颁奖",
+      "onboard_time": 1770559402,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 111560,
@@ -1611,6 +1683,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 108850,
+      "num": 108850,
+      "word": "尼坤与网友合照",
+      "onboard_time": 1770561743,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 108841,
       "num": 108841,
       "word": "生命树张扬去世",
@@ -1625,14 +1705,6 @@
       "onboard_time": 1770554301,
       "rank": 41,
       "category": "美食"
-    },
-    {
-      "raw_hot": 108481,
-      "num": 108481,
-      "word": "孙颖莎左手奖杯右手金牌",
-      "onboard_time": 1770560963,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 108469,
@@ -2121,14 +2193,6 @@
       "onboard_time": 1770465981,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 83593,
-      "num": 128185,
-      "word": "民宿老板得知携程被调查放烟花庆祝",
-      "onboard_time": 1770559942,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 83563,
@@ -3012,7 +3076,7 @@
     },
     {
       "raw_hot": 39517,
-      "num": 2004904,
+      "num": 2575549,
       "word": "他们把忠诚写在祖国的边境线上",
       "onboard_time": 1770556584,
       "rank": 2,
