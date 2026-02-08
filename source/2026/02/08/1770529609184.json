@@ -1,0 +1,410 @@
+{
+  "runTime": 1770529609184,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 373899,
+        "num": 1059823,
+        "word": "全球第四大汽车巨头爆雷",
+        "onboard_time": 1770520159,
+        "rank": 0,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 160723,
+        "num": 782612,
+        "word": "孙颖莎VS蒯曼",
+        "onboard_time": 1770521540,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20349,
+        "num": 713968,
+        "word": "窗里窗外皆是归途的美好",
+        "onboard_time": 1770521421,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 453756,
+        "num": 711624,
+        "word": "办婚礼没领证男子去世婆媳争18万彩礼",
+        "onboard_time": 1770526699,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 252520,
+        "num": 709913,
+        "word": "谢依霖回应提问赵丽颖",
+        "onboard_time": 1770519020,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 709811,
+        "num": 709811,
+        "word": "这才是真正的道歉",
+        "onboard_time": 1770522680,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 181584,
+        "num": 706408,
+        "word": "张维伊被内推再见爱人",
+        "onboard_time": 1770521780,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163154,
+        "num": 705304,
+        "word": "韩员工手滑发62万枚比特币",
+        "onboard_time": 1770517161,
+        "rank": 7,
+        "category": "海外新闻,财经"
+      },
+      {
+        "raw_hot": 142873,
+        "num": 700481,
+        "word": "朱易点赞苏翊鸣",
+        "onboard_time": 1770527661,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137458,
+        "num": 697098,
+        "word": "王曼昱VS张本美和",
+        "onboard_time": 1770529160,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 693725,
+        "num": 693725,
+        "word": "千问",
+        "onboard_time": 1770516199,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 552988,
+        "num": 552988,
+        "word": "梁源发文怼吴克群",
+        "onboard_time": 1770521240,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 391296,
+        "num": 391296,
+        "word": "老一辈对子女睡懒觉的执念",
+        "onboard_time": 1770524420,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 299383,
+        "num": 299383,
+        "word": "爱吃柚子的人天塌了",
+        "onboard_time": 1770516620,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 127458,
+        "num": 290926,
+        "word": "王楚钦4比0张佑安",
+        "onboard_time": 1770527780,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 286402,
+        "num": 286402,
+        "word": "苏翊鸣疑似被日本裁判压分",
+        "onboard_time": 1770509058,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 241812,
+        "num": 241812,
+        "word": "巨火但很反感的梗",
+        "onboard_time": 1770523099,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 213736,
+        "num": 213736,
+        "word": "男子编少年淫秽视频逼学校家长回应",
+        "onboard_time": 1770527960,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174328,
+        "num": 174328,
+        "word": "李昀锐的桃花马在孟子义那",
+        "onboard_time": 1770528921,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33447,
+        "num": 171099,
+        "word": "天选守护者苏翊鸣",
+        "onboard_time": 1770527119,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 526315,
+        "num": 169769,
+        "word": "华晨宇脖子上的唇印",
+        "onboard_time": 1770522919,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 254719,
+        "num": 163798,
+        "word": "Bin腹肌对标Gala",
+        "onboard_time": 1770519680,
+        "rank": 21,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 213272,
+        "num": 160560,
+        "word": "断联一年的闺蜜突然发消息",
+        "onboard_time": 1770524901,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 160236,
+        "num": 160236,
+        "word": "吴谨言洪尧同框现身机场",
+        "onboard_time": 1770522740,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157738,
+        "num": 157738,
+        "word": "吴克群帮农民卖掉3万斤菜",
+        "onboard_time": 1770524241,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136888,
+        "num": 136888,
+        "word": "洗澡时不要总弯腰洗头",
+        "onboard_time": 1770520519,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 143614,
+        "num": 135823,
+        "word": "王一博点赞了苏翊鸣",
+        "onboard_time": 1770524842,
+        "rank": 26,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 138130,
+        "num": 134067,
+        "word": "演唱会背痛包 偶像比粉丝先认出对方",
+        "onboard_time": 1770527840,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59195,
+        "num": 131515,
+        "word": "男生有必要打HPV疫苗吗",
+        "onboard_time": 1770527119,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 446336,
+        "num": 129907,
+        "word": "申裕斌打累了可以看看教练的脸",
+        "onboard_time": 1770527119,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 497033,
+        "num": 128746,
+        "word": "华东政法大学学生起诉微信收提现费",
+        "onboard_time": 1770525080,
+        "rank": 30,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 127486,
+        "num": 127486,
+        "word": "偶遇杨洋吃铁锅炖",
+        "onboard_time": 1770528320,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121441,
+        "num": 121441,
+        "word": "孙颖莎期待和王曼昱会师决赛",
+        "onboard_time": 1770526759,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116714,
+        "num": 116714,
+        "word": "男生感染HPV后果很严重",
+        "onboard_time": 1770522260,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 113218,
+        "num": 113218,
+        "word": "金晨被认定逃逸的三大客观依据",
+        "onboard_time": 1770525560,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112244,
+        "num": 112244,
+        "word": "大司马鹅鸭杀名场面预定",
+        "onboard_time": 1770529039,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 108100,
+        "num": 108100,
+        "word": "四川山体滑坡29人死亡失踪调查报告",
+        "onboard_time": 1770521899,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99873,
+        "num": 99873,
+        "word": "春晚第四次彩排路透",
+        "onboard_time": 1770522740,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95915,
+        "num": 95915,
+        "word": "小马糕",
+        "onboard_time": 1770512360,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 38483,
+        "num": 95809,
+        "word": "女子做美甲后摔倒致指甲断裂",
+        "onboard_time": 1770529398,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95798,
+        "num": 95798,
+        "word": "王楚钦男单争冠",
+        "onboard_time": 1770528858,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95757,
+        "num": 95757,
+        "word": "曝爱泼斯坦为印度首富弟弟献女郎",
+        "onboard_time": 1770510620,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 90647,
+        "num": 90647,
+        "word": "郭宇欣最甜的脸演最飒的将军",
+        "onboard_time": 1770526519,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90042,
+        "num": 90042,
+        "word": "王俊凯的话只有朱志鑫听进去了",
+        "onboard_time": 1770517760,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88485,
+        "num": 88485,
+        "word": "看冬奥开幕式确认了男友不是疯子",
+        "onboard_time": 1770526879,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 84811,
+        "num": 84811,
+        "word": "白鹿晒和赵晴合照",
+        "onboard_time": 1770522019,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84432,
+        "num": 84432,
+        "word": "LPL选手集体上线看Bin腹肌照",
+        "onboard_time": 1770529221,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 72597,
+        "num": 72597,
+        "word": "王楚钦不给对手任何机会",
+        "onboard_time": 1770529579,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71067,
+        "num": 71067,
+        "word": "王楚钦进决赛",
+        "onboard_time": 1770527900,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 70181,
+        "num": 70181,
+        "word": "当我彩票中了一个亿",
+        "onboard_time": 1770522860,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#向全军老同志祝贺新春#"
+    }
+  }
+}
