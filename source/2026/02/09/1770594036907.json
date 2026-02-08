@@ -1,0 +1,410 @@
+{
+  "runTime": 1770594036907,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 684885,
+        "num": 949859,
+        "word": "中国军网点名张本智和",
+        "onboard_time": 1770542901,
+        "rank": 0,
+        "category": "国际时政,体育"
+      },
+      {
+        "raw_hot": 303957,
+        "num": 668450,
+        "word": "21岁国际名模在新家猝然离世",
+        "onboard_time": 1770564200,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 23984,
+        "num": 531476,
+        "word": "12306已发售春运期间车票超1.5亿张",
+        "onboard_time": 1770556283,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 343938,
+        "num": 343938,
+        "word": "华晨宇拿下三块地",
+        "onboard_time": 1770592638,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258318,
+        "num": 258318,
+        "word": "苏翊鸣谷爱凌对失利的同一种回答",
+        "onboard_time": 1770573076,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 247704,
+        "num": 247704,
+        "word": "王楚钦夺冠后指向王皓",
+        "onboard_time": 1770567020,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191031,
+        "num": 191031,
+        "word": "11岁女儿极致收纳被子枕头每天入柜",
+        "onboard_time": 1770592758,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177981,
+        "num": 177981,
+        "word": "父亲去世试管婴儿获工亡抚恤金",
+        "onboard_time": 1770555021,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150166,
+        "num": 150166,
+        "word": "孙颖莎合照给王曼昱挪位置",
+        "onboard_time": 1770565281,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39760,
+        "num": 147055,
+        "word": "冬奥速滑男子5000米刘瀚彬创历史",
+        "onboard_time": 1770592397,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 516037,
+        "num": 147021,
+        "word": "爱泼斯坦案无码版本不允许拍摄",
+        "onboard_time": 1770565761,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 244799,
+        "num": 146339,
+        "word": "医生提醒5个体检项目千万别不做",
+        "onboard_time": 1770565641,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 144078,
+        "num": 144078,
+        "word": "亲哥去世员工请假奔丧被辞",
+        "onboard_time": 1770563183,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131319,
+        "num": 131319,
+        "word": "黄多多如果忧郁是一种天赋",
+        "onboard_time": 1770592758,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110102,
+        "num": 110102,
+        "word": "法官回应订婚强奸案男方被判3年",
+        "onboard_time": 1770582854,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100850,
+        "num": 100850,
+        "word": "王楚钦vs张本智和",
+        "onboard_time": 1770556883,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95285,
+        "num": 95285,
+        "word": "办婚礼没领证女子在爱人祭日被赶婚房",
+        "onboard_time": 1770551721,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93202,
+        "num": 93202,
+        "word": "花样滑冰团体决赛",
+        "onboard_time": 1770576314,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92599,
+        "num": 92599,
+        "word": "张杰官宣世界巡回演唱会",
+        "onboard_time": 1770568518,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 86443,
+        "num": 86443,
+        "word": "谁给了窗口人员收1614万的勇气",
+        "onboard_time": 1770554962,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 270531,
+        "num": 86217,
+        "word": "怀孕弟妹与婆婆惨遭杀害大儿媳发声",
+        "onboard_time": 1770562881,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125738,
+        "num": 86056,
+        "word": "王楚钦倒地爆冲张本智和",
+        "onboard_time": 1770592937,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106973,
+        "num": 85836,
+        "word": "男子经常口干一查血糖超出正常值两倍",
+        "onboard_time": 1770559822,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96685,
+        "num": 85507,
+        "word": "情商低的8个典型表现",
+        "onboard_time": 1770592937,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 85388,
+        "num": 85388,
+        "word": "12306回应无座票乘客被劝离静音车厢",
+        "onboard_time": 1770586634,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82080,
+        "num": 82080,
+        "word": "与人相处能落落大方的秘诀",
+        "onboard_time": 1770565522,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 75311,
+        "num": 75311,
+        "word": "王皓说张本智和拉不死王楚钦",
+        "onboard_time": 1770564621,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 70920,
+        "num": 70920,
+        "word": "白鹿破万四连拍",
+        "onboard_time": 1770556584,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 64780,
+        "num": 64780,
+        "word": "柯南宝可梦 漫展禁止",
+        "onboard_time": 1770551061,
+        "rank": 28,
+        "category": "民生新闻,动漫"
+      },
+      {
+        "raw_hot": 61415,
+        "num": 61415,
+        "word": "黄多多斜肩黑裙",
+        "onboard_time": 1770550162,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 111134,
+        "num": 59667,
+        "word": "当沙溢记住了娜扎叠穿",
+        "onboard_time": 1770592638,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 56143,
+        "num": 56143,
+        "word": "胡锡进称日本此次选举是自娱自乐",
+        "onboard_time": 1770593598,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 58733,
+        "num": 54359,
+        "word": "王一博只留最得体的姿态",
+        "onboard_time": 1770554601,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52524,
+        "num": 52524,
+        "word": "王楚钦金牌",
+        "onboard_time": 1770562284,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 51358,
+        "num": 51358,
+        "word": "成何体统第三",
+        "onboard_time": 1770593598,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49656,
+        "num": 49656,
+        "word": "能激活生命力的3个爱好",
+        "onboard_time": 1770590956,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 50004,
+        "num": 49419,
+        "word": "丞磊成何体统",
+        "onboard_time": 1770593299,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49048,
+        "num": 49048,
+        "word": "李昀锐批改网球作业",
+        "onboard_time": 1770572955,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42354,
+        "num": 48503,
+        "word": "孙颖莎王曼昱争议球",
+        "onboard_time": 1770558803,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 47978,
+        "num": 47978,
+        "word": "陈浚铭从baby到daddy只需要一个月",
+        "onboard_time": 1770568998,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44207,
+        "num": 44207,
+        "word": "自从你出道很少看内娱营销富二代人设",
+        "onboard_time": 1770563302,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41915,
+        "num": 41915,
+        "word": "日本众议院选举投票结束",
+        "onboard_time": 1770551061,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 43646,
+        "num": 41910,
+        "word": "春晚完成第四次彩排",
+        "onboard_time": 1770567320,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 41861,
+        "num": 41861,
+        "word": "孙颖莎金牌",
+        "onboard_time": 1770556402,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 40824,
+        "num": 40824,
+        "word": "利物浦1比2曼城",
+        "onboard_time": 1770589154,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39757,
+        "num": 39757,
+        "word": "太平年",
+        "onboard_time": 1770571097,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39093,
+        "num": 39093,
+        "word": "白鹿第四部破万剧",
+        "onboard_time": 1770565641,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38842,
+        "num": 38842,
+        "word": "亚洲杯",
+        "onboard_time": 1770556944,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 37033,
+        "num": 37033,
+        "word": "孙颖莎vs王曼昱",
+        "onboard_time": 1770549860,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35847,
+        "num": 35847,
+        "word": "网友开始给千问上强度了",
+        "onboard_time": 1770557243,
+        "rank": 49,
+        "category": "民生新闻,互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#有一份牵挂始终温暖人心#"
+    }
+  }
+}
