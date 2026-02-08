@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1770544495571,
+  "endTime": 1770547018376,
   "band_list": [
     {
       "raw_hot": 12386962,
@@ -235,6 +235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2024649,
+      "num": 2024649,
+      "word": "中国军网点名张本智和",
+      "onboard_time": 1770542901,
+      "rank": 7,
+      "category": "国际时政,体育"
+    },
+    {
       "raw_hot": 1858016,
       "num": 2853494,
       "word": "千问",
@@ -377,14 +385,6 @@
       "onboard_time": 1770452959,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1378732,
-      "num": 572592,
-      "word": "中国军网点名张本智和",
-      "onboard_time": 1770542901,
-      "rank": 7,
-      "category": "国际时政,体育"
     },
     {
       "raw_hot": 1340322,
@@ -2083,6 +2083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 552673,
+      "num": 941066,
+      "word": "订婚强奸案电梯视频首曝光",
+      "onboard_time": 1770545361,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 551629,
       "num": 242977,
       "word": "爱泼斯坦案文件",
@@ -2595,6 +2603,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 481810,
+      "num": 481810,
+      "word": "35岁国企女掌门受贿4900万",
+      "onboard_time": 1770542960,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 479380,
       "num": 138605,
       "word": "宋亚轩中指无名指比耶",
@@ -2633,6 +2649,14 @@
       "onboard_time": 1770393440,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 474825,
+      "num": 755055,
+      "word": "教师岗要求运动会第1名被指萝卜岗",
+      "onboard_time": 1770542781,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 473727,
@@ -3705,6 +3729,14 @@
       "onboard_time": 1770429919,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 370627,
+      "num": 370627,
+      "word": "日本军国主义渗透文体领域",
+      "onboard_time": 1770543080,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 370024,
@@ -5091,20 +5123,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 284989,
-      "num": 755055,
-      "word": "教师岗要求运动会第1名被指萝卜岗",
-      "onboard_time": 1770542781,
-      "rank": 19,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 284495,
       "num": 284495,
       "word": "爱泼斯坦豪宅内景黑暗又诡异",
       "onboard_time": 1770117200,
       "rank": 16,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 284221,
+      "num": 284221,
+      "word": "牛奶炸鸡",
+      "onboard_time": 1770542000,
+      "rank": 44,
+      "category": "美食"
     },
     {
       "raw_hot": 284005,
@@ -5337,6 +5369,14 @@
       "onboard_time": 1769864781,
       "rank": 8,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 271025,
+      "num": 271025,
+      "word": "白鹿王星越喝同一杯饮料",
+      "onboard_time": 1770545960,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 270991,
@@ -6475,14 +6515,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 228594,
-      "num": 228594,
-      "word": "日本军国主义渗透文体领域",
-      "onboard_time": 1770543080,
-      "rank": 30,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 228563,
       "num": 228563,
       "word": "删了吧有个00后破防了",
@@ -6795,14 +6827,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 217092,
-      "num": 233261,
-      "word": "35岁国企女掌门受贿4900万",
-      "onboard_time": 1770542960,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 216684,
       "num": 216684,
       "word": "比伯后背纹了海莉纹身",
@@ -6961,6 +6985,14 @@
       "onboard_time": 1770132621,
       "rank": 16,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 209822,
+      "num": 111856,
+      "word": "张凌赫这个出场",
+      "onboard_time": 1770543801,
+      "rank": 31,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 209750,
@@ -8131,6 +8163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 170980,
+      "num": 170980,
+      "word": "猫 没有一根毛想跟你好",
+      "onboard_time": 1770543801,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 170976,
       "num": 170976,
       "word": "张瑞阳短节目59.83分",
@@ -8585,6 +8625,14 @@
       "onboard_time": 1770465200,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 158935,
+      "num": 158935,
+      "word": "减肥误食了一顿麻辣烫",
+      "onboard_time": 1770542059,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 158812,
@@ -10411,14 +10459,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 130132,
-      "num": 130132,
-      "word": "减肥误食了一顿麻辣烫",
-      "onboard_time": 1770542059,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 130100,
       "num": 130100,
       "word": "有罪之身 魏大勋演技大赏",
@@ -12169,14 +12209,6 @@
       "onboard_time": 1770212541,
       "rank": 41,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 111856,
-      "num": 111856,
-      "word": "张凌赫这个出场",
-      "onboard_time": 1770543801,
-      "rank": 31,
-      "category": "艺人,游戏"
     },
     {
       "raw_hot": 111731,
@@ -14139,14 +14171,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 97036,
-      "num": 108890,
-      "word": "猫 没有一根毛想跟你好",
-      "onboard_time": 1770543801,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 96988,
       "num": 96988,
       "word": "捧红王菲那英SHE的小胖走了",
@@ -15747,6 +15771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 87372,
+      "num": 87372,
+      "word": "上海政府大规模收购二手房",
+      "onboard_time": 1770544760,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87308,
       "num": 85654,
       "word": "胡歌盛赞杨紫",
@@ -16843,6 +16875,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 80692,
+      "num": 80692,
+      "word": "王星越的红包",
+      "onboard_time": 1770545780,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 80657,
       "num": 80657,
       "word": "NBA",
@@ -17299,14 +17339,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 77507,
-      "num": 227016,
-      "word": "牛奶炸鸡",
-      "onboard_time": 1770542000,
-      "rank": 44,
-      "category": "美食"
-    },
-    {
       "raw_hot": 77403,
       "num": 77403,
       "word": "善良遇到善良具象化了",
@@ -17675,6 +17707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 74622,
+      "num": 74622,
+      "word": "朋友说的马上到是多久到",
+      "onboard_time": 1770544160,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 74560,
       "num": 74560,
       "word": "云初令剧组团建虞书欣进行曲",
@@ -17937,14 +17977,6 @@
       "onboard_time": 1770483621,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 71651,
-      "num": 72520,
-      "word": "朋友说的马上到是多久到",
-      "onboard_time": 1770544160,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 71581,
@@ -18363,6 +18395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 66659,
+      "num": 68823,
+      "word": "谷爱凌回应第一跳摔了",
+      "onboard_time": 1770543981,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 66585,
       "num": 66585,
       "word": "张真源清唱",
@@ -18411,14 +18451,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 65741,
-      "num": 66687,
-      "word": "谷爱凌回应第一跳摔了",
-      "onboard_time": 1770543981,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 65683,
       "num": 65683,
       "word": "小寒 寒王",
@@ -18428,7 +18460,7 @@
     },
     {
       "raw_hot": 65622,
-      "num": 62718,
+      "num": 64595,
       "word": "寒假能猝死学校能困死",
       "onboard_time": 1770544281,
       "rank": 49,
@@ -18593,6 +18625,14 @@
       "onboard_time": 1770007762,
       "rank": 19,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 63805,
+      "num": 63805,
+      "word": "LGDNBW对战 DRG",
+      "onboard_time": 1770546080,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 63654,
@@ -18787,6 +18827,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 62042,
+      "num": 173286,
+      "word": "辛芷蕾的红是什么红",
+      "onboard_time": 1770543199,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 61929,
       "num": 93844,
       "word": "成何体统男二女二私会男主女主看戏",
@@ -18833,6 +18881,14 @@
       "onboard_time": 1770377240,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 61364,
+      "num": 61364,
+      "word": "邓超陈赫友谊",
+      "onboard_time": 1770546921,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 61277,
@@ -18953,6 +19009,14 @@
       "onboard_time": 1770334279,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 59745,
+      "num": 59745,
+      "word": "广东受冷空气暴击",
+      "onboard_time": 1770546619,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 59730,
@@ -19459,14 +19523,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 50690,
-      "num": 173286,
-      "word": "辛芷蕾的红是什么红",
-      "onboard_time": 1770543199,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 50640,
       "num": 50640,
       "word": "黄金波动率创2008年新高",
@@ -19524,7 +19580,7 @@
     },
     {
       "raw_hot": 49856,
-      "num": 623607,
+      "num": 774112,
       "word": "新一轮大范围雨雪天气来袭",
       "onboard_time": 1770539122,
       "rank": 2,
@@ -20771,6 +20827,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 34452,
+      "num": 70719,
+      "word": "男子编少年淫秽视频并勒索已被行拘",
+      "onboard_time": 1770546800,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34431,
       "num": 655981,
       "word": "今年2月中旬的春节还冷吗",
@@ -21473,6 +21537,14 @@
       "onboard_time": 1770409393,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 26301,
+      "num": 80871,
+      "word": "明珍珍当庭忏悔独家视频曝光",
+      "onboard_time": 1770545659,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26232,
