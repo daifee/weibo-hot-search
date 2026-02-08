@@ -1,6 +1,6 @@
 {
   "startTime": 1770568847669,
-  "endTime": 1770587487455,
+  "endTime": 1770590194815,
   "band_list": [
     {
       "raw_hot": 862564,
@@ -195,8 +195,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 117101,
-      "num": 171712,
+      "raw_hot": 120508,
+      "num": 323857,
       "word": "苏翊鸣谷爱凌对失利的同一种回答",
       "onboard_time": 1770573076,
       "rank": 30,
@@ -411,11 +411,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 50412,
+      "num": 41473,
+      "word": "法官回应订婚强奸案男方被判3年",
+      "onboard_time": 1770582854,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49096,
       "num": 49096,
       "word": "孙颖莎疯狂擦手",
       "onboard_time": 1770569178,
       "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 46713,
+      "num": 46713,
+      "word": "花样滑冰团体决赛",
+      "onboard_time": 1770576314,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -451,12 +467,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 40081,
-      "num": 40081,
-      "word": "花样滑冰团体决赛",
-      "onboard_time": 1770576314,
-      "rank": 46,
-      "category": "体育"
+      "raw_hot": 39957,
+      "num": 22089,
+      "word": "12306回应无座票乘客被劝离静音车厢",
+      "onboard_time": 1770586634,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 38339,
@@ -491,6 +507,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 28676,
+      "num": 26101,
+      "word": "利物浦1比2曼城",
+      "onboard_time": 1770589154,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 27648,
       "num": 27648,
       "word": "太平年",
@@ -513,14 +537,6 @@
       "onboard_time": 1770572955,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 23399,
-      "num": 23399,
-      "word": "法官回应订婚强奸案男方被判3年",
-      "onboard_time": 1770582854,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 23163,
@@ -548,7 +564,7 @@
     },
     {
       "raw_hot": 18628,
-      "num": 18628,
+      "num": 20220,
       "word": "唐宫奇案之青雾风鸣",
       "onboard_time": 1770575056,
       "rank": 47,
@@ -564,7 +580,7 @@
     },
     {
       "raw_hot": 16973,
-      "num": 16973,
+      "num": 20207,
       "word": "丁禹兮高干Daddy上班了",
       "onboard_time": 1770581534,
       "rank": 29,
@@ -572,7 +588,7 @@
     },
     {
       "raw_hot": 16452,
-      "num": 16998,
+      "num": 20224,
       "word": "蔡徐坤新专辑",
       "onboard_time": 1770574816,
       "rank": 46,
@@ -580,19 +596,19 @@
     },
     {
       "raw_hot": 16315,
-      "num": 257169,
+      "num": 266893,
       "word": "12306已发售春运期间车票超1.5亿张",
       "onboard_time": 1770556283,
       "rank": 2,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 14410,
-      "num": 16649,
-      "word": "12306回应无座票乘客被劝离静音车厢",
-      "onboard_time": 1770586634,
-      "rank": 41,
-      "category": "民生新闻"
+      "raw_hot": 15420,
+      "num": 20236,
+      "word": "华晨宇这一秒过火",
+      "onboard_time": 1770573495,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 13629,
@@ -601,14 +617,6 @@
       "onboard_time": 1770582194,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 12409,
-      "num": 14403,
-      "word": "华晨宇这一秒过火",
-      "onboard_time": 1770573495,
-      "rank": 48,
-      "category": "演出"
     },
     {
       "raw_hot": 11934,
