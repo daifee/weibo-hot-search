@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1770568847669,
+  "endTime": 1770569836624,
   "band_list": [
     {
       "raw_hot": 12386962,
@@ -2483,6 +2483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 510090,
+      "num": 160292,
+      "word": "爱泼斯坦案无码版本不允许拍摄",
+      "onboard_time": 1770565761,
+      "rank": 43,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 509037,
       "num": 197101,
       "word": "成何体统上了韩网热帖",
@@ -2705,14 +2713,6 @@
       "onboard_time": 1770345320,
       "rank": 16,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 482917,
-      "num": 160292,
-      "word": "爱泼斯坦案无码版本不允许拍摄",
-      "onboard_time": 1770565761,
-      "rank": 43,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 481976,
@@ -5371,6 +5371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 285946,
+      "num": 183822,
+      "word": "医生提醒5个体检项目千万别不做",
+      "onboard_time": 1770565641,
+      "rank": 13,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 285553,
       "num": 980132,
       "word": "中方要求美方立即停止错误行径",
@@ -5913,14 +5921,6 @@
       "onboard_time": 1770538219,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 259794,
-      "num": 183822,
-      "word": "医生提醒5个体检项目千万别不做",
-      "onboard_time": 1770565641,
-      "rank": 13,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 259127,
@@ -7235,6 +7235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 215513,
+      "num": 215513,
+      "word": "张杰官宣世界巡回演唱会",
+      "onboard_time": 1770568518,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 215292,
       "num": 157215,
       "word": "徐明浩3条iG创造了360万美元价值",
@@ -8459,6 +8467,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 174386,
+      "num": 154532,
+      "word": "张婧仪四肢已经不是自己的了",
+      "onboard_time": 1770565401,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 173995,
       "num": 173995,
       "word": "电视剧生命树已穷到没边了",
@@ -8593,22 +8609,6 @@
       "onboard_time": 1770087800,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 171736,
-      "num": 74102,
-      "word": "张杰官宣世界巡回演唱会",
-      "onboard_time": 1770568518,
-      "rank": 30,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 171414,
-      "num": 154532,
-      "word": "张婧仪四肢已经不是自己的了",
-      "onboard_time": 1770565401,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 171231,
@@ -19555,6 +19555,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 63814,
+      "num": 63814,
+      "word": "陈浚铭从baby到daddy只需要一个月",
+      "onboard_time": 1770568998,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 63805,
       "num": 63805,
       "word": "LGDNBW对战 DRG",
@@ -20643,6 +20651,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 49096,
+      "num": 49096,
+      "word": "孙颖莎疯狂擦手",
+      "onboard_time": 1770569178,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 49075,
       "num": 181080,
       "word": "抢头福这事儿多少带点地利",
@@ -21033,6 +21049,22 @@
       "onboard_time": 1770248599,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 44397,
+      "num": 44397,
+      "word": "蔡徐坤工作室福袋",
+      "onboard_time": 1770569599,
+      "rank": 48,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 44341,
+      "num": 44341,
+      "word": "易烊千玺官宣六公主新春嘉年华",
+      "onboard_time": 1770569238,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 44130,
