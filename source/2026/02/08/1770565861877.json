@@ -1,0 +1,410 @@
+{
+  "runTime": 1770565861877,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5120727,
+        "num": 5120727,
+        "word": "王楚钦vs张本智和",
+        "onboard_time": 1770556883,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1262128,
+        "num": 1353958,
+        "word": "王楚钦金牌",
+        "onboard_time": 1770562284,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33659,
+        "num": 1019346,
+        "word": "他们把忠诚写在祖国的边境线上",
+        "onboard_time": 1770556584,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 717459,
+        "num": 717459,
+        "word": "孙颖莎金牌",
+        "onboard_time": 1770556402,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 547531,
+        "num": 547531,
+        "word": "中国军网点名张本智和",
+        "onboard_time": 1770542901,
+        "rank": 4,
+        "category": "国际时政,体育"
+      },
+      {
+        "raw_hot": 380614,
+        "num": 380614,
+        "word": "白鹿破万四连拍",
+        "onboard_time": 1770556584,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 377571,
+        "num": 377571,
+        "word": "孙颖莎vs王曼昱",
+        "onboard_time": 1770549860,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 327746,
+        "num": 327746,
+        "word": "亚洲杯",
+        "onboard_time": 1770556944,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 238688,
+        "num": 238688,
+        "word": "父亲去世试管婴儿获工亡抚恤金",
+        "onboard_time": 1770555021,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216351,
+        "num": 216351,
+        "word": "孙颖莎左手奖杯右手金牌",
+        "onboard_time": 1770560963,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 253598,
+        "num": 216119,
+        "word": "孙颖莎王曼昱争议球",
+        "onboard_time": 1770558803,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 247738,
+        "num": 216018,
+        "word": "自从你出道很少看内娱营销富二代人设",
+        "onboard_time": 1770563302,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215884,
+        "num": 215884,
+        "word": "21岁国际名模在新家猝然离世",
+        "onboard_time": 1770564200,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 183822,
+        "num": 183822,
+        "word": "医生提醒5个体检项目千万别不做",
+        "onboard_time": 1770565641,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 180257,
+        "num": 180257,
+        "word": "日本军国主义渗透文体领域",
+        "onboard_time": 1770543080,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 171142,
+        "num": 171142,
+        "word": "王皓说张本智和拉不死王楚钦",
+        "onboard_time": 1770564621,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165788,
+        "num": 165788,
+        "word": "民宿老板得知携程被调查放烟花庆祝",
+        "onboard_time": 1770559942,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164851,
+        "num": 164851,
+        "word": "TTG对战狼队",
+        "onboard_time": 1770559042,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 162266,
+        "num": 162266,
+        "word": "时代峰峻在六公主三代同堂",
+        "onboard_time": 1770562044,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 153018,
+        "num": 153018,
+        "word": "亲哥去世员工请假奔丧被辞",
+        "onboard_time": 1770563183,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 582143,
+        "num": 150777,
+        "word": "蔡徐坤直播",
+        "onboard_time": 1770552801,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 319429,
+        "num": 148509,
+        "word": "黄多多斜肩黑裙",
+        "onboard_time": 1770550162,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 143654,
+        "num": 143654,
+        "word": "杨紫张哲华吻戏",
+        "onboard_time": 1770553102,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139322,
+        "num": 142054,
+        "word": "张婧仪四肢已经不是自己的了",
+        "onboard_time": 1770565401,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 305294,
+        "num": 141916,
+        "word": "怀孕弟妹与婆婆惨遭杀害大儿媳发声",
+        "onboard_time": 1770562881,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141474,
+        "num": 141474,
+        "word": "迪丽热巴上车后又下车收信",
+        "onboard_time": 1770564081,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135608,
+        "num": 135608,
+        "word": "何与忍住",
+        "onboard_time": 1770565221,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120771,
+        "num": 120771,
+        "word": "男子经常口干一查血糖超出正常值两倍",
+        "onboard_time": 1770559822,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124482,
+        "num": 120746,
+        "word": "王玉雯春晚路透缎面长裙好仙",
+        "onboard_time": 1770556883,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120533,
+        "num": 120533,
+        "word": "鞠婧祎指尖蝴蝶",
+        "onboard_time": 1770555201,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116240,
+        "num": 119079,
+        "word": "亚洲杯颁奖",
+        "onboard_time": 1770559402,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129619,
+        "num": 119025,
+        "word": "孙颖莎合照给王曼昱挪位置",
+        "onboard_time": 1770565281,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118898,
+        "num": 118898,
+        "word": "孙颖莎生涯首个亚洲杯冠军",
+        "onboard_time": 1770557663,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116503,
+        "num": 116503,
+        "word": "tws回归预告封面没有韩振",
+        "onboard_time": 1770562881,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114741,
+        "num": 114741,
+        "word": "白鹿第四部破万剧",
+        "onboard_time": 1770565641,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109987,
+        "num": 109987,
+        "word": "Bin微博火遍LCK与LPL",
+        "onboard_time": 1770564681,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 109452,
+        "num": 109452,
+        "word": "十个勤天想邀请TOP去种地",
+        "onboard_time": 1770557843,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107885,
+        "num": 107885,
+        "word": "井川里予晒比基尼照",
+        "onboard_time": 1770558322,
+        "rank": 37,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 104426,
+        "num": 104426,
+        "word": "与人相处能落落大方的秘诀",
+        "onboard_time": 1770565522,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 104033,
+        "num": 104033,
+        "word": "张本智和银牌",
+        "onboard_time": 1770562704,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101326,
+        "num": 101326,
+        "word": "王楚钦在训练场围观女单决赛",
+        "onboard_time": 1770558381,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100224,
+        "num": 100224,
+        "word": "王楚钦这才是爆冲",
+        "onboard_time": 1770562344,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95064,
+        "num": 95064,
+        "word": "男生寒假打工烤糊200多个鸡翅",
+        "onboard_time": 1770551721,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92380,
+        "num": 92380,
+        "word": "爱泼斯坦案无码版本不允许拍摄",
+        "onboard_time": 1770565761,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 92008,
+        "num": 92008,
+        "word": "王楚钦王皓互动太有爱了",
+        "onboard_time": 1770564861,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91505,
+        "num": 91505,
+        "word": "张凌赫 电竞男主",
+        "onboard_time": 1770535280,
+        "rank": 45,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 89280,
+        "num": 89280,
+        "word": "生命树",
+        "onboard_time": 1770558202,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87736,
+        "num": 87736,
+        "word": "日本执政联盟将获众议院过半议席",
+        "onboard_time": 1770549681,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 88888,
+        "num": 87585,
+        "word": "唐宫奇案破万",
+        "onboard_time": 1770555801,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87433,
+        "num": 87433,
+        "word": "成何体统",
+        "onboard_time": 1770536601,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#有一份牵挂始终温暖人心#"
+    }
+  }
+}
