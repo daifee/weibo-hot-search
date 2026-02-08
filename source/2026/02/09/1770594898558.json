@@ -1,0 +1,410 @@
+{
+  "runTime": 1770594898558,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 705260,
+        "num": 1063466,
+        "word": "中国军网点名张本智和",
+        "onboard_time": 1770542901,
+        "rank": 0,
+        "category": "国际时政,体育"
+      },
+      {
+        "raw_hot": 330506,
+        "num": 779238,
+        "word": "21岁国际名模在新家猝然离世",
+        "onboard_time": 1770564200,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 25137,
+        "num": 636131,
+        "word": "12306已发售春运期间车票超1.5亿张",
+        "onboard_time": 1770556283,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 414795,
+        "num": 414795,
+        "word": "华晨宇拿下三块地",
+        "onboard_time": 1770592638,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 265392,
+        "num": 265392,
+        "word": "苏翊鸣谷爱凌对失利的同一种回答",
+        "onboard_time": 1770573076,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 237548,
+        "num": 237548,
+        "word": "王楚钦夺冠后指向王皓",
+        "onboard_time": 1770567020,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 234043,
+        "num": 234043,
+        "word": "11岁女儿极致收纳被子枕头每天入柜",
+        "onboard_time": 1770592758,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190634,
+        "num": 190634,
+        "word": "父亲去世试管婴儿获工亡抚恤金",
+        "onboard_time": 1770555021,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150202,
+        "num": 150202,
+        "word": "孙颖莎合照给王曼昱挪位置",
+        "onboard_time": 1770565281,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124355,
+        "num": 124355,
+        "word": "谁给了窗口人员收1614万的勇气",
+        "onboard_time": 1770554962,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 565161,
+        "num": 123904,
+        "word": "爱泼斯坦案无码版本不允许拍摄",
+        "onboard_time": 1770565761,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 236813,
+        "num": 123493,
+        "word": "医生提醒5个体检项目千万别不做",
+        "onboard_time": 1770565641,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 231663,
+        "num": 122071,
+        "word": "黄多多如果忧郁是一种天赋",
+        "onboard_time": 1770592758,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147736,
+        "num": 121796,
+        "word": "海清因儿子生病想过捐肾",
+        "onboard_time": 1770594559,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142862,
+        "num": 120916,
+        "word": "亲哥去世员工请假奔丧被辞",
+        "onboard_time": 1770563183,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139202,
+        "num": 119880,
+        "word": "当沙溢记住了娜扎叠穿",
+        "onboard_time": 1770592638,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119565,
+        "num": 119565,
+        "word": "法官回应订婚强奸案男方被判3年",
+        "onboard_time": 1770582854,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106695,
+        "num": 106695,
+        "word": "王楚钦vs张本智和",
+        "onboard_time": 1770556883,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99267,
+        "num": 99267,
+        "word": "张杰官宣世界巡回演唱会",
+        "onboard_time": 1770568518,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 93259,
+        "num": 93259,
+        "word": "办婚礼没领证女子在爱人祭日被赶婚房",
+        "onboard_time": 1770551721,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216351,
+        "num": 93114,
+        "word": "怀孕弟妹与婆婆惨遭杀害大儿媳发声",
+        "onboard_time": 1770562881,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115651,
+        "num": 91839,
+        "word": "王楚钦倒地爆冲张本智和",
+        "onboard_time": 1770592937,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110117,
+        "num": 90812,
+        "word": "情商低的8个典型表现",
+        "onboard_time": 1770592937,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 107203,
+        "num": 90158,
+        "word": "男子经常口干一查血糖超出正常值两倍",
+        "onboard_time": 1770559822,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89643,
+        "num": 89643,
+        "word": "白鹿破万四连拍",
+        "onboard_time": 1770556584,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80599,
+        "num": 80599,
+        "word": "成何体统第三",
+        "onboard_time": 1770593598,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80457,
+        "num": 80457,
+        "word": "花样滑冰团体决赛",
+        "onboard_time": 1770576314,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 79292,
+        "num": 79292,
+        "word": "12306回应无座票乘客被劝离静音车厢",
+        "onboard_time": 1770586634,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71140,
+        "num": 71140,
+        "word": "Peanut看Bin腹肌看笑了",
+        "onboard_time": 1770594260,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 69425,
+        "num": 69425,
+        "word": "王皓说张本智和拉不死王楚钦",
+        "onboard_time": 1770564621,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83100,
+        "num": 69117,
+        "word": "胡锡进称日本此次选举是自娱自乐",
+        "onboard_time": 1770593598,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 65077,
+        "num": 65077,
+        "word": "花花把树压断了",
+        "onboard_time": 1770593959,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 63907,
+        "num": 63907,
+        "word": "柯南宝可梦 漫展禁止",
+        "onboard_time": 1770551061,
+        "rank": 32,
+        "category": "民生新闻,动漫"
+      },
+      {
+        "raw_hot": 61490,
+        "num": 61490,
+        "word": "与人相处能落落大方的秘诀",
+        "onboard_time": 1770565522,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 61015,
+        "num": 61015,
+        "word": "王一博只留最得体的姿态",
+        "onboard_time": 1770554601,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57576,
+        "num": 57576,
+        "word": "王楚钦谈长时间被质疑",
+        "onboard_time": 1770594860,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 51783,
+        "num": 51783,
+        "word": "赛力斯拟剥离重要资产",
+        "onboard_time": 1770594198,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 51652,
+        "num": 51652,
+        "word": "能激活生命力的3个爱好",
+        "onboard_time": 1770590956,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 51493,
+        "num": 51493,
+        "word": "王楚钦金牌",
+        "onboard_time": 1770562284,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 48201,
+        "num": 48201,
+        "word": "李昀锐批改网球作业",
+        "onboard_time": 1770572955,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47314,
+        "num": 47314,
+        "word": "陈浚铭从baby到daddy只需要一个月",
+        "onboard_time": 1770568998,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44506,
+        "num": 46443,
+        "word": "王楚钦解读夺冠手势",
+        "onboard_time": 1770594438,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 46106,
+        "num": 46106,
+        "word": "春晚完成第四次彩排",
+        "onboard_time": 1770567320,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44564,
+        "num": 44564,
+        "word": "丞磊成何体统",
+        "onboard_time": 1770593299,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44044,
+        "num": 44044,
+        "word": "自从你出道很少看内娱营销富二代人设",
+        "onboard_time": 1770563302,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44413,
+        "num": 43978,
+        "word": "哈兰德绝杀利物浦",
+        "onboard_time": 1770593719,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43455,
+        "num": 43455,
+        "word": "特朗普被美国国鸟疯狂打脸",
+        "onboard_time": 1770594800,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 42702,
+        "num": 42702,
+        "word": "白鹿第四部破万剧",
+        "onboard_time": 1770565641,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41862,
+        "num": 41862,
+        "word": "亚洲杯",
+        "onboard_time": 1770556944,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 41425,
+        "num": 41425,
+        "word": "张婧仪四肢已经不是自己的了",
+        "onboard_time": 1770565401,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#有一份牵挂始终温暖人心#"
+    }
+  }
+}
