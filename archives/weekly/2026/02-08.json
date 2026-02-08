@@ -1,10 +1,10 @@
 {
   "startTime": 1770482461321,
-  "endTime": 1770557232261,
+  "endTime": 1770559320003,
   "band_list": [
     {
-      "raw_hot": 5353142,
-      "num": 5353142,
+      "raw_hot": 5986163,
+      "num": 5986163,
       "word": "孙颖莎vs王曼昱",
       "onboard_time": 1770549860,
       "rank": 10,
@@ -25,6 +25,14 @@
       "onboard_time": 1770531380,
       "rank": 0,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 2044505,
+      "num": 2044505,
+      "word": "王楚钦vs张本智和",
+      "onboard_time": 1770556883,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 2024649,
@@ -156,7 +164,7 @@
     },
     {
       "raw_hot": 666271,
-      "num": 333896,
+      "num": 379023,
       "word": "肖战有顶流命没有顶流病",
       "onboard_time": 1770553463,
       "rank": 11,
@@ -363,6 +371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 418467,
+      "num": 418467,
+      "word": "孙颖莎生涯首个亚洲杯冠军",
+      "onboard_time": 1770557663,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 416635,
       "num": 333622,
       "word": "男嬛传",
@@ -531,14 +547,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 326526,
-      "num": 326526,
-      "word": "王楚钦vs张本智和",
-      "onboard_time": 1770556883,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
       "raw_hot": 321722,
       "num": 241812,
       "word": "巨火但很反感的梗",
@@ -635,12 +643,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 269904,
+      "num": 253701,
+      "word": "Jasmine的MV是蔡徐坤自己剪的",
+      "onboard_time": 1770557181,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 269829,
       "num": 269829,
       "word": "日本执政联盟将获众议院过半议席",
       "onboard_time": 1770549681,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 264544,
+      "num": 152163,
+      "word": "王楚钦在训练场围观女单决赛",
+      "onboard_time": 1770558381,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 261010,
@@ -723,12 +747,28 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 239679,
+      "num": 239679,
+      "word": "鞠婧祎指尖蝴蝶",
+      "onboard_time": 1770555201,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 239600,
       "num": 239600,
       "word": "人至少要有3个兴趣爱好",
       "onboard_time": 1770553402,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 239348,
+      "num": 189911,
+      "word": "井川里予晒比基尼照",
+      "onboard_time": 1770558322,
+      "rank": 21,
+      "category": "网红"
     },
     {
       "raw_hot": 238074,
@@ -784,6 +824,14 @@
       "word": "李昀锐的桃花马在孟子义那",
       "onboard_time": 1770528921,
       "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 217248,
+      "num": 209755,
+      "word": "王玉雯春晚路透缎面长裙好仙",
+      "onboard_time": 1770556883,
+      "rank": 38,
       "category": "综艺"
     },
     {
@@ -859,14 +907,6 @@
       "category": "海外新闻,财经"
     },
     {
-      "raw_hot": 200084,
-      "num": 153847,
-      "word": "Jasmine的MV是蔡徐坤自己剪的",
-      "onboard_time": 1770557181,
-      "rank": 31,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 199243,
       "num": 199243,
       "word": "蒯曼铜牌",
@@ -923,12 +963,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 183916,
+      "num": 183916,
+      "word": "雪人是ikun",
+      "onboard_time": 1770556464,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 181154,
       "num": 181154,
       "word": "办婚礼没领证女子在爱人祭日被赶婚房",
       "onboard_time": 1770551721,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 180338,
+      "num": 174089,
+      "word": "十个勤天想邀请TOP去种地",
+      "onboard_time": 1770557843,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 178148,
@@ -1051,14 +1107,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 156035,
-      "num": 156035,
-      "word": "鞠婧祎指尖蝴蝶",
-      "onboard_time": 1770555201,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 155447,
       "num": 155447,
       "word": "苏翊鸣第三跳80.25分",
@@ -1083,12 +1131,36 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 152369,
+      "num": 152369,
+      "word": "孙颖莎想要孙颖莎得到",
+      "onboard_time": 1770558742,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 150951,
       "num": 150951,
       "word": "教育局回应成绩单用星星显示",
       "onboard_time": 1770467661,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 150873,
+      "num": 148737,
+      "word": "网友开始给千问上强度了",
+      "onboard_time": 1770557243,
+      "rank": 33,
+      "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 149963,
+      "num": 149963,
+      "word": "孙颖莎夺冠后振臂高呼",
+      "onboard_time": 1770558026,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 148299,
@@ -1235,14 +1307,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 127522,
-      "num": 127522,
-      "word": "雪人是ikun",
-      "onboard_time": 1770556464,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 127486,
       "num": 127486,
       "word": "偶遇杨洋吃铁锅炖",
@@ -1251,12 +1315,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 125535,
-      "num": 125535,
-      "word": "王玉雯春晚路透缎面长裙好仙",
-      "onboard_time": 1770556883,
-      "rank": 38,
-      "category": "综艺"
+      "raw_hot": 125849,
+      "num": 125849,
+      "word": "赵心童夺冠",
+      "onboard_time": 1770559103,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 124092,
@@ -1264,6 +1328,14 @@
       "word": "一诺浮潜",
       "onboard_time": 1770539719,
       "rank": 26,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 123173,
+      "num": 125867,
+      "word": "TTG对战狼队",
+      "onboard_time": 1770559042,
+      "rank": 40,
       "category": "电竞"
     },
     {
@@ -1483,6 +1555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 108243,
+      "num": 108243,
+      "word": "孙颖莎解锁新冠军",
+      "onboard_time": 1770558322,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 108172,
       "num": 108172,
       "word": "三个马的汉字骉读什么",
@@ -1616,6 +1696,14 @@
       "word": "孙颖莎6比11陈熠",
       "onboard_time": 1770476362,
       "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 99037,
+      "num": 102446,
+      "word": "孙颖莎王曼昱争议球",
+      "onboard_time": 1770558803,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -2811,6 +2899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39517,
+      "num": 2004904,
+      "word": "他们把忠诚写在祖国的边境线上",
+      "onboard_time": 1770556584,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38810,
       "num": 38810,
       "word": "中国队米兰首枚奖牌",
@@ -2951,14 +3047,6 @@
       "num": 946878,
       "word": "窗里窗外皆是归途的美好",
       "onboard_time": 1770521421,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 26832,
-      "num": 1400384,
-      "word": "他们把忠诚写在祖国的边境线上",
-      "onboard_time": 1770556584,
       "rank": 2,
       "category": "民生新闻"
     },

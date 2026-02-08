@@ -1,0 +1,410 @@
+{
+  "runTime": 1770559320003,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5986163,
+        "num": 5986163,
+        "word": "孙颖莎vs王曼昱",
+        "onboard_time": 1770549860,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2044505,
+        "num": 2044505,
+        "word": "王楚钦vs张本智和",
+        "onboard_time": 1770556883,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39517,
+        "num": 2004904,
+        "word": "他们把忠诚写在祖国的边境线上",
+        "onboard_time": 1770556584,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1987836,
+        "num": 1987836,
+        "word": "孙颖莎金牌",
+        "onboard_time": 1770556402,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 712409,
+        "num": 712409,
+        "word": "父亲去世试管婴儿获工亡抚恤金",
+        "onboard_time": 1770555021,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 619976,
+        "num": 619976,
+        "word": "白鹿破万四连拍",
+        "onboard_time": 1770556584,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 614224,
+        "num": 614224,
+        "word": "唐宫奇案破万",
+        "onboard_time": 1770555801,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 544244,
+        "num": 544244,
+        "word": "中国军网点名张本智和",
+        "onboard_time": 1770542901,
+        "rank": 7,
+        "category": "国际时政,体育"
+      },
+      {
+        "raw_hot": 613581,
+        "num": 490230,
+        "word": "蔡徐坤直播",
+        "onboard_time": 1770552801,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 418467,
+        "num": 418467,
+        "word": "孙颖莎生涯首个亚洲杯冠军",
+        "onboard_time": 1770557663,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 379023,
+        "num": 379023,
+        "word": "肖战有顶流命没有顶流病",
+        "onboard_time": 1770553463,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283106,
+        "num": 283106,
+        "word": "杨紫张哲华吻戏",
+        "onboard_time": 1770553102,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 258237,
+        "num": 258237,
+        "word": "亚洲杯",
+        "onboard_time": 1770556944,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 269904,
+        "num": 253701,
+        "word": "Jasmine的MV是蔡徐坤自己剪的",
+        "onboard_time": 1770557181,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 239679,
+        "num": 239679,
+        "word": "鞠婧祎指尖蝴蝶",
+        "onboard_time": 1770555201,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212769,
+        "num": 212769,
+        "word": "男生寒假打工烤糊200多个鸡翅",
+        "onboard_time": 1770551721,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 227337,
+        "num": 210783,
+        "word": "男嬛传",
+        "onboard_time": 1770552741,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 217248,
+        "num": 209755,
+        "word": "王玉雯春晚路透缎面长裙好仙",
+        "onboard_time": 1770556883,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206237,
+        "num": 206237,
+        "word": "日本军国主义渗透文体领域",
+        "onboard_time": 1770543080,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 194252,
+        "num": 194252,
+        "word": "日本执政联盟将获众议院过半议席",
+        "onboard_time": 1770549681,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 322030,
+        "num": 191345,
+        "word": "黄多多斜肩黑裙",
+        "onboard_time": 1770550162,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 239348,
+        "num": 189911,
+        "word": "井川里予晒比基尼照",
+        "onboard_time": 1770558322,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 186534,
+        "num": 186534,
+        "word": "人至少要有3个兴趣爱好",
+        "onboard_time": 1770553402,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 185027,
+        "num": 185027,
+        "word": "成何体统",
+        "onboard_time": 1770536601,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183916,
+        "num": 183916,
+        "word": "雪人是ikun",
+        "onboard_time": 1770556464,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 175738,
+        "num": 175738,
+        "word": "柯南宝可梦 漫展禁止",
+        "onboard_time": 1770551061,
+        "rank": 25,
+        "category": "民生新闻,动漫"
+      },
+      {
+        "raw_hot": 180338,
+        "num": 174089,
+        "word": "十个勤天想邀请TOP去种地",
+        "onboard_time": 1770557843,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168985,
+        "num": 168985,
+        "word": "小英想把送养出去6年的女儿接回家",
+        "onboard_time": 1770537019,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 165221,
+        "num": 165221,
+        "word": "樊振东冬奥开幕式plog",
+        "onboard_time": 1770553342,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152369,
+        "num": 152369,
+        "word": "孙颖莎想要孙颖莎得到",
+        "onboard_time": 1770558742,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 264544,
+        "num": 152163,
+        "word": "王楚钦在训练场围观女单决赛",
+        "onboard_time": 1770558381,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151895,
+        "num": 151895,
+        "word": "王楚钦13次胜张本智和",
+        "onboard_time": 1770554421,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149963,
+        "num": 149963,
+        "word": "孙颖莎夺冠后振臂高呼",
+        "onboard_time": 1770558026,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150873,
+        "num": 148737,
+        "word": "网友开始给千问上强度了",
+        "onboard_time": 1770557243,
+        "rank": 33,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 147431,
+        "num": 147431,
+        "word": "谁给了窗口人员收1614万的勇气",
+        "onboard_time": 1770554962,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140703,
+        "num": 140703,
+        "word": "张凌赫 电竞男主",
+        "onboard_time": 1770535280,
+        "rank": 35,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 137855,
+        "num": 137855,
+        "word": "王曼昱银牌",
+        "onboard_time": 1770556522,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133263,
+        "num": 133263,
+        "word": "成何体统 改词",
+        "onboard_time": 1770549321,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126099,
+        "num": 126099,
+        "word": "千问",
+        "onboard_time": 1770516199,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 131476,
+        "num": 126063,
+        "word": "张本美和采访哭了",
+        "onboard_time": 1770550101,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123173,
+        "num": 125867,
+        "word": "TTG对战狼队",
+        "onboard_time": 1770559042,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 125849,
+        "num": 125849,
+        "word": "赵心童夺冠",
+        "onboard_time": 1770559103,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122648,
+        "num": 122648,
+        "word": "35岁国企女掌门受贿4900万",
+        "onboard_time": 1770542960,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 115016,
+        "num": 115016,
+        "word": "甲状腺结节的忌口食物",
+        "onboard_time": 1770549681,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 108243,
+        "num": 108243,
+        "word": "孙颖莎解锁新冠军",
+        "onboard_time": 1770558322,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104847,
+        "num": 104847,
+        "word": "王一博只留最得体的姿态",
+        "onboard_time": 1770554601,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104833,
+        "num": 104833,
+        "word": "唐宫奇案",
+        "onboard_time": 1770551601,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104140,
+        "num": 104140,
+        "word": "外卖小哥打翻32杯奶茶原地发愣",
+        "onboard_time": 1770537860,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99037,
+        "num": 102446,
+        "word": "孙颖莎王曼昱争议球",
+        "onboard_time": 1770558803,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102179,
+        "num": 102179,
+        "word": "王星越送给粉丝的星星",
+        "onboard_time": 1770556883,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#有一份牵挂始终温暖人心#"
+    }
+  }
+}
