@@ -1,7 +1,15 @@
 {
   "startTime": 1770568847669,
-  "endTime": 1770633369779,
+  "endTime": 1770638051984,
   "band_list": [
+    {
+      "raw_hot": 1450000,
+      "num": 1450000,
+      "word": "谷爱凌决赛",
+      "onboard_time": 1770635721,
+      "rank": 0,
+      "category": "体育"
+    },
     {
       "raw_hot": 1344252,
       "num": 1344252,
@@ -219,6 +227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 458705,
+      "num": 132511,
+      "word": "张元英 镜头",
+      "onboard_time": 1770633140,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 456503,
       "num": 171579,
       "word": "包文婧因女儿饺子生二胎",
@@ -331,6 +347,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 368270,
+      "num": 153787,
+      "word": "35年前的工资单长这样",
+      "onboard_time": 1770634879,
+      "rank": 10,
+      "category": "情感"
+    },
+    {
       "raw_hot": 367063,
       "num": 133932,
       "word": "王楚钦称知道自己被诟病被比较了很久",
@@ -361,6 +385,14 @@
       "onboard_time": 1770629302,
       "rank": 3,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 354236,
+      "num": 127996,
+      "word": "黄明昊 表哥表弟星途璀璨",
+      "onboard_time": 1770633561,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 353701,
@@ -409,6 +441,22 @@
       "onboard_time": 1770613879,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 316457,
+      "num": 152384,
+      "word": "官方通报僧人欲跳江被劝止",
+      "onboard_time": 1770633261,
+      "rank": 33,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 311076,
+      "num": 185036,
+      "word": "李兰迪敖瑞鹏 马场婚礼",
+      "onboard_time": 1770634581,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 306915,
@@ -499,12 +547,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 276268,
+      "num": 121474,
+      "word": "杨洋吸血鬼伯爵",
+      "onboard_time": 1770635480,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 275190,
       "num": 275190,
       "word": "成何体统",
       "onboard_time": 1770536601,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 272755,
+      "num": 903090,
+      "word": "专家建议所有旅客直接上12306买票",
+      "onboard_time": 1770632060,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 271113,
@@ -555,6 +619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 246087,
+      "num": 246087,
+      "word": "台团体不敢用ChineseNewYear",
+      "onboard_time": 1770634280,
+      "rank": 3,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 245424,
       "num": 245424,
       "word": "空气炸锅半年清洗一次",
@@ -569,6 +641,14 @@
       "onboard_time": 1770623001,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 241490,
+      "num": 132350,
+      "word": "吴彤经历了一次病危",
+      "onboard_time": 1770630801,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 235980,
@@ -592,6 +672,14 @@
       "word": "黄多多如果忧郁是一种天赋",
       "onboard_time": 1770592758,
       "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 231290,
+      "num": 111992,
+      "word": "丝芭学历最高的人出现了",
+      "onboard_time": 1770636680,
+      "rank": 26,
       "category": "艺人"
     },
     {
@@ -691,6 +779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 198109,
+      "num": 198109,
+      "word": "外交部回应加拿大公民死刑判决被推翻",
+      "onboard_time": 1770635480,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 196467,
       "num": 169269,
       "word": "谷爱凌含泪说怕不能再滑雪了",
@@ -763,6 +859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 173487,
+      "num": 124369,
+      "word": "为挣10万假离婚让丈夫跟他人结婚",
+      "onboard_time": 1770635059,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 171119,
       "num": 171119,
       "word": "孙颖莎vs王曼昱",
@@ -777,6 +881,22 @@
       "onboard_time": 1770606380,
       "rank": 15,
       "category": "数码"
+    },
+    {
+      "raw_hot": 168327,
+      "num": 168327,
+      "word": "河南拆迁时发现乾隆年间雕花木梁",
+      "onboard_time": 1770635959,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 160149,
+      "num": 167586,
+      "word": "seedance 2.0",
+      "onboard_time": 1770632902,
+      "rank": 28,
+      "category": "互联网"
     },
     {
       "raw_hot": 159266,
@@ -809,6 +929,14 @@
       "onboard_time": 1770616279,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 151384,
+      "num": 151384,
+      "word": "女子自由式滑雪坡面障碍技巧决赛",
+      "onboard_time": 1770636620,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 151103,
@@ -939,14 +1067,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 132350,
-      "num": 132350,
-      "word": "吴彤经历了一次病危",
-      "onboard_time": 1770630801,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 131508,
       "num": 131508,
       "word": "白鹿接下去的最大考验就是莫离了",
@@ -1003,6 +1123,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 121223,
+      "num": 99203,
+      "word": "宁艺卓到底丑在哪了",
+      "onboard_time": 1770636680,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 119973,
       "num": 119973,
       "word": "对方拒绝催婚并跳了段舞蹈",
@@ -1049,14 +1177,6 @@
       "onboard_time": 1770626421,
       "rank": 36,
       "category": "国际时政,体育"
-    },
-    {
-      "raw_hot": 116859,
-      "num": 116859,
-      "word": "张元英 镜头",
-      "onboard_time": 1770633140,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 116723,
@@ -1267,6 +1387,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 102454,
+      "num": 102454,
+      "word": "Kimi建议网友先用DeepSeek",
+      "onboard_time": 1770637580,
+      "rank": 28,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 102280,
       "num": 102280,
       "word": "王楚钦赛前紧张到失眠手抖",
@@ -1329,6 +1457,14 @@
       "onboard_time": 1770611479,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 99418,
+      "num": 134613,
+      "word": "刘梦婷完成决赛首滑",
+      "onboard_time": 1770637521,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 99194,
@@ -1467,14 +1603,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 93405,
-      "num": 167586,
-      "word": "seedance 2.0",
-      "onboard_time": 1770632902,
-      "rank": 28,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 93336,
       "num": 93336,
       "word": "遛了一天狗微信步数为0",
@@ -1587,12 +1715,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 86359,
-      "num": 173401,
-      "word": "专家建议所有旅客直接上12306买票",
-      "onboard_time": 1770632060,
-      "rank": 35,
-      "category": "民生新闻"
+      "raw_hot": 86886,
+      "num": 86886,
+      "word": "刘耀文后援会送票",
+      "onboard_time": 1770637701,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 85931,
@@ -1643,6 +1771,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 84918,
+      "num": 84918,
+      "word": "沈腾范丞丞现场赛车解说",
+      "onboard_time": 1770636680,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 84654,
       "num": 84654,
       "word": "恋爱脑的我31岁被骗贷30万",
@@ -1657,6 +1793,14 @@
       "onboard_time": 1770606738,
       "rank": 37,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 83431,
+      "num": 83431,
+      "word": "王鹤棣在嘴里炒了盘川菜",
+      "onboard_time": 1770637340,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 83196,
@@ -1707,6 +1851,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 79501,
+      "num": 74864,
+      "word": "迪丽热巴2025年热搜上榜1174次",
+      "onboard_time": 1770636501,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 77990,
       "num": 77990,
       "word": "孙颖莎王曼昱争议球",
@@ -1723,6 +1875,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 77515,
+      "num": 94070,
+      "word": "新一代iPad爆料",
+      "onboard_time": 1770635541,
+      "rank": 32,
+      "category": "数码"
+    },
+    {
       "raw_hot": 77275,
       "num": 77275,
       "word": "视频车路遇京A高速恶意别车",
@@ -1737,6 +1897,14 @@
       "onboard_time": 1770616099,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 77084,
+      "num": 87502,
+      "word": "长得着急是什么体验",
+      "onboard_time": 1770637280,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 76599,
@@ -1843,12 +2011,44 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 69030,
+      "num": 68515,
+      "word": "丞磊一步扑到了王楚然怀里",
+      "onboard_time": 1770635781,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 68861,
+      "num": 68861,
+      "word": "宝可梦30周年",
+      "onboard_time": 1770635841,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 68335,
       "num": 131505,
       "word": "黎智英被判20年",
       "onboard_time": 1770603860,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 68171,
+      "num": 72050,
+      "word": "一点没游的三文鱼",
+      "onboard_time": 1770637400,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 68162,
+      "num": 68162,
+      "word": "王欣瑜vs阿朗戈",
+      "onboard_time": 1770638000,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 67196,
@@ -2355,6 +2555,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 37278,
+      "num": 152927,
+      "word": "谷爱凌把要强写在骨子里",
+      "onboard_time": 1770636980,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 36407,
       "num": 180415,
       "word": "偏方缓解情绪小青盒整顿流感",
@@ -2363,12 +2571,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 33091,
-      "num": 144843,
-      "word": "官方通报僧人欲跳江被劝止",
-      "onboard_time": 1770633261,
-      "rank": 33,
-      "category": "辟谣/通报"
+      "raw_hot": 35052,
+      "num": 84107,
+      "word": "易烊千玺连续七年用领养之家台历",
+      "onboard_time": 1770637941,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 34414,
+      "num": 101160,
+      "word": "这个加码方式太香了",
+      "onboard_time": 1770635121,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 32245,
@@ -2452,7 +2668,7 @@
     },
     {
       "raw_hot": 27125,
-      "num": 643966,
+      "num": 737528,
       "word": "带年货乘火车实用指南",
       "onboard_time": 1770625702,
       "rank": 2,
