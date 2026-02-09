@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1770638614867,
+  "endTime": 1770643469769,
   "band_list": [
     {
       "raw_hot": 22742360,
@@ -241,6 +241,14 @@
       "onboard_time": 1769411423,
       "rank": 1,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 5037712,
+      "num": 6287712,
+      "word": "谷爱凌决赛",
+      "onboard_time": 1770635721,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 4325889,
@@ -635,14 +643,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 2234601,
-      "num": 2234601,
-      "word": "谷爱凌决赛",
-      "onboard_time": 1770635721,
-      "rank": 0,
-      "category": "体育"
-    },
-    {
       "raw_hot": 2232636,
       "num": 281203,
       "word": "交警否认网传金晨驾车监控信息",
@@ -905,6 +905,14 @@
       "onboard_time": 1769728039,
       "rank": 5,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1872190,
+      "num": 1872190,
+      "word": "谷爱凌冬奥银牌",
+      "onboard_time": 1770641722,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 1858016,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1767791125,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1095672,
-      "num": 241638,
-      "word": "于正张慧雯或有吻戏",
-      "onboard_time": 1767859941,
-      "rank": 10,
-      "category": "剧集"
     }
   ],
   "hotgov_list": [

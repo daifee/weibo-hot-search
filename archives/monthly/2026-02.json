@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1770638614867,
+  "endTime": 1770643469769,
   "band_list": [
     {
       "raw_hot": 12386962,
@@ -80,6 +80,14 @@
       "word": "孙颖莎vs王曼昱",
       "onboard_time": 1770549860,
       "rank": 10,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 5037712,
+      "num": 6287712,
+      "word": "谷爱凌决赛",
+      "onboard_time": 1770635721,
+      "rank": 0,
       "category": "体育"
     },
     {
@@ -211,14 +219,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 2234601,
-      "num": 2234601,
-      "word": "谷爱凌决赛",
-      "onboard_time": 1770635721,
-      "rank": 0,
-      "category": "体育"
-    },
-    {
       "raw_hot": 2213882,
       "num": 2213882,
       "word": "王楚钦金牌",
@@ -281,6 +281,14 @@
       "onboard_time": 1770542901,
       "rank": 7,
       "category": "国际时政,体育"
+    },
+    {
+      "raw_hot": 1872190,
+      "num": 1872190,
+      "word": "谷爱凌冬奥银牌",
+      "onboard_time": 1770641722,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 1858016,
@@ -1611,6 +1619,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 700320,
+      "num": 225289,
+      "word": "爱泼斯坦被爆可能没死",
+      "onboard_time": 1770638720,
+      "rank": 10,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 700197,
       "num": 307727,
       "word": "说好不熬 萨摩耶狗主人",
@@ -1916,7 +1932,7 @@
     },
     {
       "raw_hot": 628413,
-      "num": 215125,
+      "num": 221109,
       "word": "老人连续7年用冥币买遍半条街",
       "onboard_time": 1770627261,
       "rank": 34,
@@ -2376,6 +2392,14 @@
       "word": "母亲盗卖儿子300万黄金为弟买房",
       "onboard_time": 1770167899,
       "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 546462,
+      "num": 546462,
+      "word": "南京博物院事件最新通报",
+      "onboard_time": 1770642861,
+      "rank": 3,
       "category": "民生新闻"
     },
     {
@@ -3116,7 +3140,7 @@
     },
     {
       "raw_hot": 458705,
-      "num": 191456,
+      "num": 227653,
       "word": "张元英 镜头",
       "onboard_time": 1770633140,
       "rank": 41,
@@ -3299,6 +3323,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 441901,
+      "num": 441901,
+      "word": "谷爱凌第二滑23.00分",
+      "onboard_time": 1770640338,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 441438,
       "num": 215008,
       "word": "立威廉得知恶耗时才49岁",
@@ -3377,6 +3409,14 @@
       "onboard_time": 1770184820,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 434977,
+      "num": 434977,
+      "word": "谷爱凌第一跳后哭了",
+      "onboard_time": 1770640760,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 434375,
@@ -3963,6 +4003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 388215,
+      "num": 224436,
+      "word": "丝芭学历最高的人出现了",
+      "onboard_time": 1770636680,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 387757,
       "num": 809766,
       "word": "女子独自带三娃赶火车丢了俩",
@@ -4200,14 +4248,6 @@
       "word": "虞书欣跳舞身材很曼妙",
       "onboard_time": 1770389721,
       "rank": 23,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 371330,
-      "num": 190056,
-      "word": "丝芭学历最高的人出现了",
-      "onboard_time": 1770636680,
-      "rank": 26,
       "category": "艺人"
     },
     {
@@ -4793,6 +4833,14 @@
       "onboard_time": 1770292405,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 338897,
+      "num": 223636,
+      "word": "奚梦瑶三步变超模脸",
+      "onboard_time": 1770639379,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 338795,
@@ -5420,7 +5468,7 @@
     },
     {
       "raw_hot": 307578,
-      "num": 183122,
+      "num": 222139,
       "word": "杨洋吸血鬼伯爵",
       "onboard_time": 1770635480,
       "rank": 23,
@@ -6779,6 +6827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 247573,
+      "num": 247573,
+      "word": "郑钦文vs肯宁",
+      "onboard_time": 1770642202,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 247473,
       "num": 697098,
       "word": "王曼昱VS张本美和",
@@ -6913,6 +6969,14 @@
       "onboard_time": 1770002600,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 243060,
+      "num": 243060,
+      "word": "杨幂被朱一龙吓到尖叫",
+      "onboard_time": 1770639140,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 242776,
@@ -7627,6 +7691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 222610,
+      "num": 222610,
+      "word": "多只小鸟撞西安万象城玻璃墙死亡",
+      "onboard_time": 1770641060,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 222494,
       "num": 222494,
       "word": "网友称买到无座票在静音车厢被劝离",
@@ -7665,6 +7737,14 @@
       "onboard_time": 1770203120,
       "rank": 3,
       "category": "民生新闻,汽车"
+    },
+    {
+      "raw_hot": 220439,
+      "num": 220439,
+      "word": "刘梦婷第二滑摔倒",
+      "onboard_time": 1770639200,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 220293,
@@ -8315,6 +8395,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 197584,
+      "num": 197584,
+      "word": "贾乃亮公司年会奖励万元红包",
+      "onboard_time": 1770641422,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 197489,
       "num": 264715,
       "word": "小米高管疑似爆料YU9",
@@ -8593,6 +8681,14 @@
       "onboard_time": 1770074899,
       "rank": 39,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 189775,
+      "num": 189775,
+      "word": "宁艺卓到底丑在哪了",
+      "onboard_time": 1770636680,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 189715,
@@ -10347,6 +10443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 150619,
+      "num": 150619,
+      "word": "王楚然古装好美",
+      "onboard_time": 1770638421,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 150577,
       "num": 150577,
       "word": "路虎大哥因歹徒家境一般放弃索赔",
@@ -11251,14 +11355,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 138127,
-      "num": 138127,
-      "word": "宁艺卓到底丑在哪了",
-      "onboard_time": 1770636680,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 138124,
       "num": 138124,
       "word": "李子柒人民日报发文",
@@ -11305,6 +11401,14 @@
       "onboard_time": 1769933721,
       "rank": 28,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 137717,
+      "num": 137717,
+      "word": "李亚鹏带货莲花味精销售额近500万",
+      "onboard_time": 1770641540,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 137593,
@@ -11745,6 +11849,14 @@
       "onboard_time": 1769857340,
       "rank": 17,
       "category": "财经"
+    },
+    {
+      "raw_hot": 132758,
+      "num": 132758,
+      "word": "BLG十六番战EDG",
+      "onboard_time": 1770636199,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 132373,
@@ -12955,6 +13067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 119468,
+      "num": 109614,
+      "word": "格雷莫德卫冕坡障金牌",
+      "onboard_time": 1770643223,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119394,
       "num": 119394,
       "word": "余宇涵直播",
@@ -13393,6 +13513,14 @@
       "onboard_time": 1770390022,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 115799,
+      "num": 115799,
+      "word": "谷爱凌第三滑摔倒",
+      "onboard_time": 1770643101,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 115748,
@@ -13841,6 +13969,14 @@
       "onboard_time": 1770219023,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 112492,
+      "num": 109579,
+      "word": "这家人的住商好高",
+      "onboard_time": 1770642983,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 112435,
@@ -14315,6 +14451,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 108968,
+      "num": 108968,
+      "word": "丁禹兮电影天才游戏预热",
+      "onboard_time": 1770641663,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 108918,
       "num": 108918,
       "word": "精神病医院让病人替护工干活",
@@ -14361,6 +14505,14 @@
       "onboard_time": 1770552082,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 108430,
+      "num": 108430,
+      "word": "只要华为不跪产品就不贵",
+      "onboard_time": 1770642263,
+      "rank": 35,
+      "category": "数码"
     },
     {
       "raw_hot": 108386,
@@ -14553,6 +14705,14 @@
       "onboard_time": 1770355640,
       "rank": 40,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 107331,
+      "num": 107331,
+      "word": "林孝埈冬奥会赛程",
+      "onboard_time": 1770641600,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 107277,
@@ -15339,6 +15499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 102478,
+      "num": 102478,
+      "word": "韩林杉 检录",
+      "onboard_time": 1770640581,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 102477,
       "num": 102477,
       "word": "孙颖莎4比1陈熠",
@@ -15433,6 +15601,14 @@
       "onboard_time": 1770446481,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 101864,
+      "num": 101864,
+      "word": "伊朗向中俄通报美伊谈判细节",
+      "onboard_time": 1770641480,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 101759,
@@ -15715,6 +15891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 100150,
+      "num": 100150,
+      "word": "EDG 醒一醒",
+      "onboard_time": 1770642801,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 100136,
       "num": 100136,
       "word": "台湾网友在上海衣服被偷又找回的经历",
@@ -15769,6 +15953,14 @@
       "onboard_time": 1770623239,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 99863,
+      "num": 99863,
+      "word": "王曼昱海浪一样蓝色的尾鳍",
+      "onboard_time": 1770639921,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 99858,
@@ -16009,6 +16201,14 @@
       "onboard_time": 1770622103,
       "rank": 44,
       "category": "财经"
+    },
+    {
+      "raw_hot": 98195,
+      "num": 98195,
+      "word": "格雷莫德",
+      "onboard_time": 1770643402,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 98185,
@@ -16483,14 +16683,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 95428,
-      "num": 77675,
-      "word": "王楚然古装好美",
-      "onboard_time": 1770638421,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 95402,
       "num": 89405,
       "word": "3个月没工资还干得起劲",
@@ -16505,6 +16697,22 @@
       "onboard_time": 1770012981,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 95226,
+      "num": 95102,
+      "word": "139999元黄金手机壳已售55件",
+      "onboard_time": 1770640460,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 95207,
+      "num": 95207,
+      "word": "谷爱凌首跳破上届冠军纪录",
+      "onboard_time": 1770642983,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 95197,
@@ -16681,6 +16889,14 @@
       "onboard_time": 1769942662,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94384,
+      "num": 94384,
+      "word": "张艺谋说易烊千玺很沉稳从容",
+      "onboard_time": 1770643161,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 94378,
@@ -21995,6 +22211,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 56631,
+      "num": 109695,
+      "word": "南博文物事件24人被处理",
+      "onboard_time": 1770643223,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 56607,
       "num": 99185,
       "word": "这回不是陈鑫海 是真周柯宇",
@@ -23625,6 +23849,14 @@
       "onboard_time": 1770333919,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 37595,
+      "num": 97033,
+      "word": "千家人AI购物实录",
+      "onboard_time": 1770638720,
+      "rank": 45,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 37578,
@@ -25585,6 +25817,14 @@
       "onboard_time": 1770492314,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 19735,
+      "num": 1002904,
+      "word": "动车组终点站有科幻片那味儿了",
+      "onboard_time": 1770642621,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 19526,
