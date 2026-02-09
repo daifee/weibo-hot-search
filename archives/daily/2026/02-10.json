@@ -1,6 +1,6 @@
 {
   "startTime": 1770653180155,
-  "endTime": 1770660716590,
+  "endTime": 1770665190450,
   "band_list": [
     {
       "raw_hot": 589575,
@@ -499,8 +499,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 23283,
-      "num": 23283,
+      "raw_hot": 25179,
+      "num": 25179,
       "word": "南博文物事件24人被处理",
       "onboard_time": 1770643223,
       "rank": 47,
@@ -513,6 +513,54 @@
       "onboard_time": 1770660616,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 17539,
+      "num": 17539,
+      "word": "白鹿新剧放过了自己没放过别人",
+      "onboard_time": 1770664694,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 17413,
+      "num": 17144,
+      "word": "唐宫奇案",
+      "onboard_time": 1770662774,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 16527,
+      "num": 16527,
+      "word": "江南春图卷已存入南博书画专库",
+      "onboard_time": 1770663914,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15873,
+      "num": 15873,
+      "word": "王诗玥柳鑫宇冲击自由舞",
+      "onboard_time": 1770660495,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 15433,
+      "num": 15433,
+      "word": "女子自由式滑雪坡面障碍技巧决赛",
+      "onboard_time": 1770636620,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 14610,
+      "num": 15405,
+      "word": "瓦窑沟墓地M1墓主或为商代鬼方之王",
+      "onboard_time": 1770663974,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 10466,
