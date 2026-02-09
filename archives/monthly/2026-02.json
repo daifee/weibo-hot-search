@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1770638051984,
+  "endTime": 1770638614867,
   "band_list": [
     {
       "raw_hot": 12386962,
@@ -211,6 +211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 2234601,
+      "num": 2234601,
+      "word": "谷爱凌决赛",
+      "onboard_time": 1770635721,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2213882,
       "num": 2213882,
       "word": "王楚钦金牌",
@@ -409,14 +417,6 @@
       "onboard_time": 1770386482,
       "rank": 3,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 1450000,
-      "num": 1450000,
-      "word": "谷爱凌决赛",
-      "onboard_time": 1770635721,
-      "rank": 0,
-      "category": "体育"
     },
     {
       "raw_hot": 1428420,
@@ -1065,6 +1065,14 @@
       "onboard_time": 1770454401,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 865877,
+      "num": 985008,
+      "word": "韩林杉退赛",
+      "onboard_time": 1770638061,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 861695,
@@ -3108,7 +3116,7 @@
     },
     {
       "raw_hot": 458705,
-      "num": 132511,
+      "num": 191456,
       "word": "张元英 镜头",
       "onboard_time": 1770633140,
       "rank": 41,
@@ -4195,6 +4203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 371330,
+      "num": 190056,
+      "word": "丝芭学历最高的人出现了",
+      "onboard_time": 1770636680,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 371260,
       "num": 1181034,
       "word": "成都震感",
@@ -4276,7 +4292,7 @@
     },
     {
       "raw_hot": 368270,
-      "num": 153787,
+      "num": 189088,
       "word": "35年前的工资单长这样",
       "onboard_time": 1770634879,
       "rank": 10,
@@ -4411,6 +4427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 362502,
+      "num": 186550,
+      "word": "黄明昊 表哥表弟星途璀璨",
+      "onboard_time": 1770633561,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 362245,
       "num": 362245,
       "word": "92岁老人集装箱离世留下19万存款",
@@ -4521,14 +4545,6 @@
       "onboard_time": 1770535879,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 354236,
-      "num": 127996,
-      "word": "黄明昊 表哥表弟星途璀璨",
-      "onboard_time": 1770633561,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 353701,
@@ -5011,6 +5027,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 329852,
+      "num": 329852,
+      "word": "李兰迪敖瑞鹏 马场婚礼",
+      "onboard_time": 1770634581,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 329761,
       "num": 175716,
       "word": "金价银价反弹",
@@ -5236,7 +5260,7 @@
     },
     {
       "raw_hot": 316457,
-      "num": 152384,
+      "num": 181224,
       "word": "官方通报僧人欲跳江被劝止",
       "onboard_time": 1770633261,
       "rank": 33,
@@ -5339,14 +5363,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 311076,
-      "num": 185036,
-      "word": "李兰迪敖瑞鹏 马场婚礼",
-      "onboard_time": 1770634581,
-      "rank": 5,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 310873,
       "num": 356033,
       "word": "黄金突然下跌",
@@ -5401,6 +5417,14 @@
       "onboard_time": 1770047060,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 307578,
+      "num": 183122,
+      "word": "杨洋吸血鬼伯爵",
+      "onboard_time": 1770635480,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 307016,
@@ -5513,6 +5537,14 @@
       "onboard_time": 1770390082,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 300166,
+      "num": 300166,
+      "word": "台团体不敢用ChineseNewYear",
+      "onboard_time": 1770634280,
+      "rank": 3,
+      "category": "国内时政"
     },
     {
       "raw_hot": 300149,
@@ -6017,14 +6049,6 @@
       "onboard_time": 1770017602,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 276268,
-      "num": 121474,
-      "word": "杨洋吸血鬼伯爵",
-      "onboard_time": 1770635480,
-      "rank": 23,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 275640,
@@ -6819,14 +6843,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 246087,
-      "num": 246087,
-      "word": "台团体不敢用ChineseNewYear",
-      "onboard_time": 1770634280,
-      "rank": 3,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 245671,
       "num": 169957,
       "word": "何超欣说和何猷君没竞争",
@@ -6940,7 +6956,7 @@
     },
     {
       "raw_hot": 241490,
-      "num": 132350,
+      "num": 178641,
       "word": "吴彤经历了一次病危",
       "onboard_time": 1770630801,
       "rank": 31,
@@ -7345,14 +7361,6 @@
       "onboard_time": 1770176841,
       "rank": 13,
       "category": "数码"
-    },
-    {
-      "raw_hot": 231290,
-      "num": 111992,
-      "word": "丝芭学历最高的人出现了",
-      "onboard_time": 1770636680,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 231198,
@@ -7955,6 +7963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 210707,
+      "num": 210707,
+      "word": "外交部回应加拿大公民死刑判决被推翻",
+      "onboard_time": 1770635480,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 210695,
       "num": 199577,
       "word": "惠英红黄渤杨幂王一博开屏",
@@ -8065,6 +8081,14 @@
       "onboard_time": 1770350002,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 205576,
+      "num": 205576,
+      "word": "女子自由式滑雪坡面障碍技巧决赛",
+      "onboard_time": 1770636620,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 205034,
@@ -8289,14 +8313,6 @@
       "onboard_time": 1770116120,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 198109,
-      "num": 198109,
-      "word": "外交部回应加拿大公民死刑判决被推翻",
-      "onboard_time": 1770635480,
-      "rank": 4,
-      "category": "国内时政"
     },
     {
       "raw_hot": 197489,
@@ -9091,6 +9107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 175665,
+      "num": 175665,
+      "word": "河南拆迁时发现乾隆年间雕花木梁",
+      "onboard_time": 1770635959,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 175303,
       "num": 175303,
       "word": "整治农村高额彩礼今年有新要求",
@@ -9129,6 +9153,14 @@
       "onboard_time": 1770421638,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 174602,
+      "num": 176229,
+      "word": "刘梦婷完成决赛首滑",
+      "onboard_time": 1770637521,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 174527,
@@ -9180,7 +9212,7 @@
     },
     {
       "raw_hot": 173487,
-      "num": 124369,
+      "num": 170289,
       "word": "为挣10万假离婚让丈夫跟他人结婚",
       "onboard_time": 1770635059,
       "rank": 22,
@@ -9400,14 +9432,6 @@
       "word": "没领证男子去世遭索18万彩礼女方发声",
       "onboard_time": 1770532161,
       "rank": 43,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 168327,
-      "num": 168327,
-      "word": "河南拆迁时发现乾隆年间雕花木梁",
-      "onboard_time": 1770635959,
-      "rank": 7,
       "category": "民生新闻"
     },
     {
@@ -10225,14 +10249,6 @@
       "onboard_time": 1770267685,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 151384,
-      "num": 151384,
-      "word": "女子自由式滑雪坡面障碍技巧决赛",
-      "onboard_time": 1770636620,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 151309,
@@ -11232,6 +11248,14 @@
       "word": "演唱会背痛包 偶像比粉丝先认出对方",
       "onboard_time": 1770527840,
       "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 138127,
+      "num": 138127,
+      "word": "宁艺卓到底丑在哪了",
+      "onboard_time": 1770636680,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -12339,6 +12363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 124593,
+      "num": 124593,
+      "word": "Kimi建议网友先用DeepSeek",
+      "onboard_time": 1770637580,
+      "rank": 28,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 124303,
       "num": 124303,
       "word": "这5类药掰开吃严重会导致中毒",
@@ -12745,14 +12777,6 @@
       "onboard_time": 1769956703,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 121223,
-      "num": 99203,
-      "word": "宁艺卓到底丑在哪了",
-      "onboard_time": 1770636680,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 121117,
@@ -14979,6 +15003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 104480,
+      "num": 104480,
+      "word": "刘耀文后援会送票",
+      "onboard_time": 1770637701,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 104456,
       "num": 104456,
       "word": "金价巨震下买黄金的人怎么样了",
@@ -15313,14 +15345,6 @@
       "onboard_time": 1770464361,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 102454,
-      "num": 102454,
-      "word": "Kimi建议网友先用DeepSeek",
-      "onboard_time": 1770637580,
-      "rank": 28,
-      "category": "互联网"
     },
     {
       "raw_hot": 102428,
@@ -15817,14 +15841,6 @@
       "onboard_time": 1770443122,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 99418,
-      "num": 134613,
-      "word": "刘梦婷完成决赛首滑",
-      "onboard_time": 1770637521,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 99327,
@@ -16467,6 +16483,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 95428,
+      "num": 77675,
+      "word": "王楚然古装好美",
+      "onboard_time": 1770638421,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 95402,
       "num": 89405,
       "word": "3个月没工资还干得起劲",
@@ -17089,6 +17113,14 @@
       "onboard_time": 1770309561,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 92005,
+      "num": 83431,
+      "word": "王鹤棣在嘴里炒了盘川菜",
+      "onboard_time": 1770637340,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 91983,
@@ -17771,6 +17803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 88259,
+      "num": 84918,
+      "word": "沈腾范丞丞现场赛车解说",
+      "onboard_time": 1770636680,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 88245,
       "num": 144193,
       "word": "小米首次进入中国500强前十",
@@ -18105,14 +18145,6 @@
       "onboard_time": 1770219441,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 86886,
-      "num": 86886,
-      "word": "刘耀文后援会送票",
-      "onboard_time": 1770637701,
-      "rank": 36,
-      "category": "电影"
     },
     {
       "raw_hot": 86877,
@@ -18515,14 +18547,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 84918,
-      "num": 84918,
-      "word": "沈腾范丞丞现场赛车解说",
-      "onboard_time": 1770636680,
-      "rank": 37,
-      "category": "电影"
-    },
-    {
       "raw_hot": 84915,
       "num": 84915,
       "word": "樊振东直接入选伦敦世乒赛名单",
@@ -18721,14 +18745,6 @@
       "onboard_time": 1770540801,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 83431,
-      "num": 83431,
-      "word": "王鹤棣在嘴里炒了盘川菜",
-      "onboard_time": 1770637340,
-      "rank": 39,
-      "category": "电影"
     },
     {
       "raw_hot": 83412,
@@ -19259,6 +19275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 80898,
+      "num": 76529,
+      "word": "迪丽热巴2025年热搜上榜1174次",
+      "onboard_time": 1770636501,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 80830,
       "num": 80830,
       "word": "乌拉圭总统见到烤红薯表情亮了",
@@ -19475,6 +19499,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 79941,
+      "num": 79941,
+      "word": "狼人杀抽象天花板",
+      "onboard_time": 1770638360,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 79914,
       "num": 79914,
       "word": "王诗玥柳鑫宇韵律舞第9",
@@ -19569,14 +19601,6 @@
       "onboard_time": 1770246978,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 79501,
-      "num": 74864,
-      "word": "迪丽热巴2025年热搜上榜1174次",
-      "onboard_time": 1770636501,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 79454,
@@ -19963,6 +19987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 76787,
+      "num": 76787,
+      "word": "回家后喝杯奶茶有多难",
+      "onboard_time": 1770637521,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 76661,
       "num": 76661,
       "word": "TF四代赢了TOP",
@@ -20065,6 +20097,14 @@
       "onboard_time": 1770391881,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 75955,
+      "num": 75955,
+      "word": "上班时间抽空过个年",
+      "onboard_time": 1770638481,
+      "rank": 45,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 75931,
@@ -20377,6 +20417,14 @@
       "onboard_time": 1769926941,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 73517,
+      "num": 73517,
+      "word": "网球",
+      "onboard_time": 1770638301,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 73446,
@@ -23451,6 +23499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 38794,
+      "num": 84107,
+      "word": "易烊千玺连续七年用领养之家台历",
+      "onboard_time": 1770637941,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 38667,
       "num": 906220,
       "word": "微博之夜明星淘个非遗大片",
@@ -23620,7 +23676,7 @@
     },
     {
       "raw_hot": 37278,
-      "num": 152927,
+      "num": 194715,
       "word": "谷爱凌把要强写在骨子里",
       "onboard_time": 1770636980,
       "rank": 12,
@@ -23811,14 +23867,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 35052,
-      "num": 84107,
-      "word": "易烊千玺连续七年用领养之家台历",
-      "onboard_time": 1770637941,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 35040,
       "num": 35040,
       "word": "整个英语体系没有比这个更完整的了",
@@ -23908,7 +23956,7 @@
     },
     {
       "raw_hot": 34414,
-      "num": 101160,
+      "num": 116922,
       "word": "这个加码方式太香了",
       "onboard_time": 1770635121,
       "rank": 29,
@@ -23968,6 +24016,14 @@
       "word": "中国品牌第一个入场",
       "onboard_time": 1770414734,
       "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 33815,
+      "num": 196455,
+      "word": "谷爱凌第一跳86.58分",
+      "onboard_time": 1770638241,
+      "rank": 9,
       "category": "体育"
     },
     {
@@ -24612,7 +24668,7 @@
     },
     {
       "raw_hot": 27125,
-      "num": 737528,
+      "num": 758883,
       "word": "带年货乘火车实用指南",
       "onboard_time": 1770625702,
       "rank": 2,
@@ -26025,6 +26081,14 @@
       "onboard_time": 1770142995,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 15806,
+      "num": 77881,
+      "word": "马来西亚7名警察勒索中国游客被捕",
+      "onboard_time": 1770638421,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 15745,

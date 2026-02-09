@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1770638051984,
+  "endTime": 1770638614867,
   "band_list": [
     {
       "raw_hot": 22742360,
@@ -633,6 +633,14 @@
       "onboard_time": 1768313484,
       "rank": 0,
       "category": "财经"
+    },
+    {
+      "raw_hot": 2234601,
+      "num": 2234601,
+      "word": "谷爱凌决赛",
+      "onboard_time": 1770635721,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 2232636,
@@ -1393,14 +1401,6 @@
       "onboard_time": 1770386482,
       "rank": 3,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 1450000,
-      "num": 1450000,
-      "word": "谷爱凌决赛",
-      "onboard_time": 1770635721,
-      "rank": 0,
-      "category": "体育"
     },
     {
       "raw_hot": 1448646,
