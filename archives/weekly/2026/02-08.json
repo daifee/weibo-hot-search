@@ -1,6 +1,6 @@
 {
   "startTime": 1770482461321,
-  "endTime": 1770619387305,
+  "endTime": 1770624502470,
   "band_list": [
     {
       "raw_hot": 7279878,
@@ -65,6 +65,14 @@
       "onboard_time": 1770545361,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1344252,
+      "num": 1344252,
+      "word": "大连地震",
+      "onboard_time": 1770620720,
+      "rank": 0,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 1247879,
@@ -315,6 +323,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 582012,
+      "num": 159562,
+      "word": "权珉娥医美后毁容",
+      "onboard_time": 1770619159,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 575023,
       "num": 575023,
       "word": "无畏契约",
@@ -353,6 +369,14 @@
       "onboard_time": 1770609980,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 547921,
+      "num": 278865,
+      "word": "周一请假和周五请假的区别",
+      "onboard_time": 1770621621,
+      "rank": 5,
+      "category": "幽默"
     },
     {
       "raw_hot": 526315,
@@ -401,6 +425,14 @@
       "onboard_time": 1770611361,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 511460,
+      "num": 864027,
+      "word": "日本彻底右转",
+      "onboard_time": 1770621799,
+      "rank": 1,
+      "category": "国际时政"
     },
     {
       "raw_hot": 508520,
@@ -795,6 +827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 346827,
+      "num": 159190,
+      "word": "吉赛尔否认和宁艺卓约会",
+      "onboard_time": 1770622280,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 339996,
       "num": 293650,
       "word": "柯南宝可梦 漫展禁止",
@@ -897,6 +937,14 @@
       "onboard_time": 1770594559,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 297631,
+      "num": 297631,
+      "word": "迪丽热巴Hi6卷发上班路透",
+      "onboard_time": 1770620600,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 296114,
@@ -1083,6 +1131,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 254774,
+      "num": 158833,
+      "word": "于谦被恢复执行",
+      "onboard_time": 1770623540,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 252100,
       "num": 252100,
       "word": "缅北明家明珍珍被判死刑时的忏悔",
@@ -1131,12 +1187,28 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 245839,
+      "num": 245839,
+      "word": "易烊千玺意识到被叫叔叔的反应",
+      "onboard_time": 1770623600,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 245424,
       "num": 245424,
       "word": "空气炸锅半年清洗一次",
       "onboard_time": 1770610460,
       "rank": 26,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 243975,
+      "num": 158708,
+      "word": "王楚然模仿妲己",
+      "onboard_time": 1770623001,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 240298,
@@ -1299,6 +1371,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 215222,
+      "num": 158576,
+      "word": "爱泼斯坦案亚裔受害者曝性虐待细节",
+      "onboard_time": 1770621621,
+      "rank": 17,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 214815,
       "num": 160236,
       "word": "吴谨言洪尧同框现身机场",
@@ -1353,6 +1433,14 @@
       "onboard_time": 1770543801,
       "rank": 31,
       "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 203797,
+      "num": 203797,
+      "word": "孙颖莎亚洲杯夺冠后发文",
+      "onboard_time": 1770620901,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 203796,
@@ -1627,6 +1715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 159660,
+      "num": 159660,
+      "word": "英国名媛称未入爱泼斯坦档案是侮辱",
+      "onboard_time": 1770622879,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 159349,
       "num": 159349,
       "word": "减肥误食了一顿麻辣烫",
@@ -1803,6 +1899,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 144075,
+      "num": 136951,
+      "word": "沈佳润的资源",
+      "onboard_time": 1770621319,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 143460,
       "num": 143460,
       "word": "镖人",
@@ -1915,6 +2019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 137918,
+      "num": 137918,
+      "word": "成何体统谢永儿吓晕了",
+      "onboard_time": 1770621680,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 137593,
       "num": 137593,
       "word": "金晨被认定逃逸的三大客观依据",
@@ -1971,6 +2083,14 @@
       "category": "幽默,休闲"
     },
     {
+      "raw_hot": 133295,
+      "num": 133295,
+      "word": "史上最长的春节要来了",
+      "onboard_time": 1770618560,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133239,
       "num": 133239,
       "word": "男子网购椅子竟多出15公斤银板",
@@ -1984,6 +2104,14 @@
       "word": "白鹿接下去的最大考验就是莫离了",
       "onboard_time": 1770597140,
       "rank": 8,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 131227,
+      "num": 131227,
+      "word": "成何体统直播",
+      "onboard_time": 1770622879,
+      "rank": 30,
       "category": "剧集"
     },
     {
@@ -2059,6 +2187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 122954,
+      "num": 122954,
+      "word": "许知远想让易烊千玺演梁启超",
+      "onboard_time": 1770623660,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 122209,
       "num": 119930,
       "word": "tws回归预告封面没有韩振",
@@ -2072,6 +2208,14 @@
       "word": "00后拜年方式",
       "onboard_time": 1770532821,
       "rank": 28,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 119973,
+      "num": 119973,
+      "word": "对方拒绝催婚并跳了段舞蹈",
+      "onboard_time": 1770621080,
+      "rank": 32,
       "category": "幽默"
     },
     {
@@ -2227,6 +2371,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 112802,
+      "num": 112802,
+      "word": "爱泼斯坦性侵案受害者在超级碗投广",
+      "onboard_time": 1770620840,
+      "rank": 33,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 112613,
       "num": 129424,
       "word": "为何萝莉岛不叫爱泼斯坦岛",
@@ -2249,6 +2401,14 @@
       "onboard_time": 1770553102,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 111932,
+      "num": 111932,
+      "word": "庄序你早这样林屿森都是你的",
+      "onboard_time": 1770619581,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 111560,
@@ -2451,14 +2611,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 107292,
-      "num": 107292,
-      "word": "权珉娥医美后毁容",
-      "onboard_time": 1770619159,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 107142,
       "num": 107142,
       "word": "张凌赫无畏契约上班",
@@ -2491,6 +2643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105532,
+      "num": 101813,
+      "word": "丑照全在骑手的手机里",
+      "onboard_time": 1770621741,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 105467,
       "num": 108860,
       "word": "王楚钦亚洲杯两连冠",
@@ -2521,6 +2681,14 @@
       "onboard_time": 1770539060,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 103467,
+      "num": 103467,
+      "word": "辽宁大连2.9级地震",
+      "onboard_time": 1770623239,
+      "rank": 36,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 103129,
@@ -2627,6 +2795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 99889,
+      "num": 99889,
+      "word": "天津大姨对发型的开发",
+      "onboard_time": 1770623239,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 99654,
       "num": 99654,
       "word": "王楚钦王皓互动太有爱了",
@@ -2673,6 +2849,14 @@
       "onboard_time": 1770607518,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 98209,
+      "num": 98209,
+      "word": "金饰价涨到1568元",
+      "onboard_time": 1770622103,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 98110,
@@ -2843,6 +3027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 92410,
+      "num": 92410,
+      "word": "中国电影新春嘉年华",
+      "onboard_time": 1770622581,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 92059,
       "num": 92059,
       "word": "8岁女孩随邻居长江游泳溺亡案宣判",
@@ -2889,6 +3081,14 @@
       "onboard_time": 1770521780,
       "rank": 31,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 90842,
+      "num": 92986,
+      "word": "去了后不祛魅的城市",
+      "onboard_time": 1770624440,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 90665,
@@ -3145,14 +3345,6 @@
       "onboard_time": 1770541638,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 84878,
-      "num": 84878,
-      "word": "史上最长的春节要来了",
-      "onboard_time": 1770618560,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 84654,
@@ -3595,6 +3787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 74521,
+      "num": 103067,
+      "word": "吉克隽逸 过年了老子要美翻全世界",
+      "onboard_time": 1770623600,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 74442,
       "num": 74442,
       "word": "学生称王竹卿被举报后消极应对",
@@ -3971,12 +4171,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 60648,
+      "num": 158300,
+      "word": "肖战祝大家福气上不封顶",
+      "onboard_time": 1770623961,
+      "rank": 19,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 60281,
       "num": 60281,
       "word": "Gala回复Bin",
       "onboard_time": 1770507618,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 60003,
+      "num": 702727,
+      "word": "坐着火车去卖菜是啥体验",
+      "onboard_time": 1770606801,
+      "rank": 36,
+      "category": "国内时政"
     },
     {
       "raw_hot": 59745,
@@ -4283,12 +4499,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 49026,
-      "num": 84380,
-      "word": "坐着火车去卖菜是啥体验",
-      "onboard_time": 1770606801,
-      "rank": 36,
-      "category": "国内时政"
+      "raw_hot": 48913,
+      "num": 102770,
+      "word": "孙颖莎晒照三面五星红旗同时升起",
+      "onboard_time": 1770624081,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 48540,
@@ -4411,12 +4627,28 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 41107,
+      "num": 158458,
+      "word": "我是炸鸡薄皮党",
+      "onboard_time": 1770620840,
+      "rank": 18,
+      "category": "美食"
+    },
+    {
       "raw_hot": 40824,
       "num": 40824,
       "word": "利物浦1比2曼城",
       "onboard_time": 1770589154,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 40123,
+      "num": 101990,
+      "word": "Prada不锈钢勺子售价1200元",
+      "onboard_time": 1770623302,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 39968,
@@ -4465,6 +4697,22 @@
       "onboard_time": 1770612502,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39115,
+      "num": 143719,
+      "word": "上咪咕见证谷爱凌冲金",
+      "onboard_time": 1770620840,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 39025,
+      "num": 131682,
+      "word": "众多App春节送礼",
+      "onboard_time": 1770620840,
+      "rank": 29,
+      "category": "互联网"
     },
     {
       "raw_hot": 38810,
@@ -4721,6 +4969,14 @@
       "onboard_time": 1770498133,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 24428,
+      "num": 133445,
+      "word": "除夕夜iPhone降价",
+      "onboard_time": 1770624199,
+      "rank": 27,
+      "category": "数码"
     },
     {
       "raw_hot": 24177,
@@ -5058,6 +5314,9 @@
     },
     {
       "word": "#总书记的新春家常话#"
+    },
+    {
+      "word": "#习近平在北京考察科技创新工作#"
     }
   ]
 }

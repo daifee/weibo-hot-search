@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1770619387305,
+  "endTime": 1770624502470,
   "band_list": [
     {
       "raw_hot": 22742360,
@@ -1515,6 +1515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1344252,
+      "num": 1344252,
+      "word": "大连地震",
+      "onboard_time": 1770620720,
+      "rank": 0,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 1343197,
       "num": 1073319,
       "word": "荣耀之战排名",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1770099801,
       "rank": 3,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 1091823,
-      "num": 1091823,
-      "word": "苏翊鸣决赛",
-      "onboard_time": 1770477140,
-      "rank": 8,
-      "category": "体育"
     }
   ],
   "hotgov_list": [

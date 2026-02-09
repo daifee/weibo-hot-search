@@ -1,0 +1,410 @@
+{
+  "runTime": 1770624502470,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1344252,
+        "num": 1344252,
+        "word": "大连地震",
+        "onboard_time": 1770620720,
+        "rank": 0,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 511460,
+        "num": 864027,
+        "word": "日本彻底右转",
+        "onboard_time": 1770621799,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 60003,
+        "num": 702727,
+        "word": "坐着火车去卖菜是啥体验",
+        "onboard_time": 1770606801,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 427879,
+        "num": 427879,
+        "word": "超级碗",
+        "onboard_time": 1770597502,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 297631,
+        "num": 297631,
+        "word": "迪丽热巴Hi6卷发上班路透",
+        "onboard_time": 1770620600,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 547921,
+        "num": 278865,
+        "word": "周一请假和周五请假的区别",
+        "onboard_time": 1770621621,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 245839,
+        "num": 245839,
+        "word": "易烊千玺意识到被叫叔叔的反应",
+        "onboard_time": 1770623600,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 218136,
+        "num": 218136,
+        "word": "空气炸锅半年清洗一次",
+        "onboard_time": 1770610460,
+        "rank": 7,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 203797,
+        "num": 203797,
+        "word": "孙颖莎亚洲杯夺冠后发文",
+        "onboard_time": 1770620901,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159660,
+        "num": 159660,
+        "word": "英国名媛称未入爱泼斯坦档案是侮辱",
+        "onboard_time": 1770622879,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 582012,
+        "num": 159562,
+        "word": "权珉娥医美后毁容",
+        "onboard_time": 1770619159,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 378983,
+        "num": 159484,
+        "word": "瑶一瑶摆拍后一年掉粉近120万",
+        "onboard_time": 1770608660,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 330900,
+        "num": 159265,
+        "word": "黑诊所放血疗法地面血流成泊",
+        "onboard_time": 1770613699,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 346827,
+        "num": 159190,
+        "word": "吉赛尔否认和宁艺卓约会",
+        "onboard_time": 1770622280,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263040,
+        "num": 159020,
+        "word": "年后辞职我都不敢这么演",
+        "onboard_time": 1770617000,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 254774,
+        "num": 158833,
+        "word": "于谦被恢复执行",
+        "onboard_time": 1770623540,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243975,
+        "num": 158708,
+        "word": "王楚然模仿妲己",
+        "onboard_time": 1770623001,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215222,
+        "num": 158576,
+        "word": "爱泼斯坦案亚裔受害者曝性虐待细节",
+        "onboard_time": 1770621621,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 41107,
+        "num": 158458,
+        "word": "我是炸鸡薄皮党",
+        "onboard_time": 1770620840,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 60648,
+        "num": 158300,
+        "word": "肖战祝大家福气上不封顶",
+        "onboard_time": 1770623961,
+        "rank": 19,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 249299,
+        "num": 158254,
+        "word": "爱吃桃酥的人天塌了",
+        "onboard_time": 1770612801,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 169568,
+        "num": 158008,
+        "word": "黄金",
+        "onboard_time": 1770598100,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 158000,
+        "num": 158000,
+        "word": "王楚然剧宣送黄金",
+        "onboard_time": 1770616340,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155443,
+        "num": 155443,
+        "word": "朋友圈跳赞",
+        "onboard_time": 1770614180,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 39115,
+        "num": 143719,
+        "word": "上咪咕见证谷爱凌冲金",
+        "onboard_time": 1770620840,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137918,
+        "num": 137918,
+        "word": "成何体统谢永儿吓晕了",
+        "onboard_time": 1770621680,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144075,
+        "num": 136951,
+        "word": "沈佳润的资源",
+        "onboard_time": 1770621319,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 24428,
+        "num": 133445,
+        "word": "除夕夜iPhone降价",
+        "onboard_time": 1770624199,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 133295,
+        "num": 133295,
+        "word": "史上最长的春节要来了",
+        "onboard_time": 1770618560,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39025,
+        "num": 131682,
+        "word": "众多App春节送礼",
+        "onboard_time": 1770620840,
+        "rank": 29,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 131227,
+        "num": 131227,
+        "word": "成何体统直播",
+        "onboard_time": 1770622879,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122954,
+        "num": 122954,
+        "word": "许知远想让易烊千玺演梁启超",
+        "onboard_time": 1770623660,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119973,
+        "num": 119973,
+        "word": "对方拒绝催婚并跳了段舞蹈",
+        "onboard_time": 1770621080,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112802,
+        "num": 112802,
+        "word": "爱泼斯坦性侵案受害者在超级碗投广",
+        "onboard_time": 1770620840,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 111932,
+        "num": 111932,
+        "word": "庄序你早这样林屿森都是你的",
+        "onboard_time": 1770619581,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110683,
+        "num": 110683,
+        "word": "迪丽热巴给粉丝点了奶茶面包鸡汤",
+        "onboard_time": 1770613879,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103467,
+        "num": 103467,
+        "word": "辽宁大连2.9级地震",
+        "onboard_time": 1770623239,
+        "rank": 36,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 74521,
+        "num": 103067,
+        "word": "吉克隽逸 过年了老子要美翻全世界",
+        "onboard_time": 1770623600,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48913,
+        "num": 102770,
+        "word": "孙颖莎晒照三面五星红旗同时升起",
+        "onboard_time": 1770624081,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 40123,
+        "num": 101990,
+        "word": "Prada不锈钢勺子售价1200元",
+        "onboard_time": 1770623302,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105532,
+        "num": 101813,
+        "word": "丑照全在骑手的手机里",
+        "onboard_time": 1770621741,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 101388,
+        "num": 101388,
+        "word": "爱泼斯坦案秘密照片曝光",
+        "onboard_time": 1770601040,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 100620,
+        "num": 100620,
+        "word": "中国特警vs美国特警",
+        "onboard_time": 1770612860,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99889,
+        "num": 99889,
+        "word": "天津大姨对发型的开发",
+        "onboard_time": 1770623239,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 98209,
+        "num": 98209,
+        "word": "金饰价涨到1568元",
+        "onboard_time": 1770622103,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 95975,
+        "num": 95975,
+        "word": "镖人",
+        "onboard_time": 1770604399,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 95118,
+        "num": 95118,
+        "word": "时代峰峻包场支持惊蛰无声",
+        "onboard_time": 1770618800,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 90842,
+        "num": 92986,
+        "word": "去了后不祛魅的城市",
+        "onboard_time": 1770624440,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 92410,
+        "num": 92410,
+        "word": "中国电影新春嘉年华",
+        "onboard_time": 1770622581,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 92156,
+        "num": 92156,
+        "word": "都暻秀 奶茶也太好喝了",
+        "onboard_time": 1770611001,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在北京考察科技创新工作#"
+    }
+  }
+}
