@@ -1,0 +1,410 @@
+{
+  "runTime": 1770680763695,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 436086,
+        "num": 948680,
+        "word": "夏雨荷和乾隆一见误终生是这样的",
+        "onboard_time": 1770678256,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 369286,
+        "num": 696064,
+        "word": "南博文物事件24人被处理",
+        "onboard_time": 1770643223,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11166,
+        "num": 540728,
+        "word": "冰上版速度与激情观看指南",
+        "onboard_time": 1770642142,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 241360,
+        "num": 241360,
+        "word": "车厘子价格崩了口感也崩了",
+        "onboard_time": 1770650421,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207692,
+        "num": 207692,
+        "word": "开始推理吧4",
+        "onboard_time": 1770644843,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200355,
+        "num": 200355,
+        "word": "15岁男生徒手掰苹果掰断80公斤臂力器",
+        "onboard_time": 1770678316,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175269,
+        "num": 175269,
+        "word": "小年",
+        "onboard_time": 1770678136,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141708,
+        "num": 141708,
+        "word": "谷爱凌拿出了自己的最佳表现",
+        "onboard_time": 1770676694,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118360,
+        "num": 118360,
+        "word": "内存价格飙升90%",
+        "onboard_time": 1770679096,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 88741,
+        "num": 88741,
+        "word": "陈飞宇 阿瑟帅回宫了",
+        "onboard_time": 1770645922,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1034091,
+        "num": 88704,
+        "word": "女子孕期被疑出轨公公转650万安抚",
+        "onboard_time": 1770655698,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 248283,
+        "num": 88435,
+        "word": "爱泼斯坦被爆可能没死",
+        "onboard_time": 1770638720,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 240716,
+        "num": 88323,
+        "word": "保姆按要求分房睡老人离世成被告",
+        "onboard_time": 1770644720,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168323,
+        "num": 88202,
+        "word": "受害者第1次见爱泼斯坦被带进红房间",
+        "onboard_time": 1770654858,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 117289,
+        "num": 87865,
+        "word": "男子在女厕所偷拍摔倒被当场抓获",
+        "onboard_time": 1770649162,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102283,
+        "num": 87831,
+        "word": "只要华为不跪产品就不贵",
+        "onboard_time": 1770642263,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 96810,
+        "num": 87524,
+        "word": "男子让6个月孩子看电视女友劝阻后被打",
+        "onboard_time": 1770646462,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89534,
+        "num": 87470,
+        "word": "山东招远一金矿发生坠罐事故致7死",
+        "onboard_time": 1770653660,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87334,
+        "num": 87334,
+        "word": "奚梦瑶三步变超模脸",
+        "onboard_time": 1770639379,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85753,
+        "num": 85753,
+        "word": "谷爱凌回应米兰冬奥银牌",
+        "onboard_time": 1770644902,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166120,
+        "num": 85281,
+        "word": "女子给哥哥买房后却不许除夕留宿",
+        "onboard_time": 1770678195,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109292,
+        "num": 84027,
+        "word": "妻子孕期丈夫却在女厕爬马桶偷拍",
+        "onboard_time": 1770678256,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92064,
+        "num": 83583,
+        "word": "易烊千玺打耳洞了",
+        "onboard_time": 1770647362,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82169,
+        "num": 82169,
+        "word": "成毅片场被冻到",
+        "onboard_time": 1770678316,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75476,
+        "num": 75476,
+        "word": "南京博物院事件最新通报",
+        "onboard_time": 1770642861,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81482,
+        "num": 74951,
+        "word": "网传迪丽热巴不参加开推4",
+        "onboard_time": 1770678977,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 69188,
+        "num": 69188,
+        "word": "多只小鸟撞西安万象城玻璃墙死亡",
+        "onboard_time": 1770641060,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67586,
+        "num": 67586,
+        "word": "伊朗向中俄通报美伊谈判细节",
+        "onboard_time": 1770641480,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 66566,
+        "num": 66566,
+        "word": "王诗玥柳鑫宇无缘冰舞决赛",
+        "onboard_time": 1770679817,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 64910,
+        "num": 64910,
+        "word": "吴克群说做自媒体拍吃喝很无聊",
+        "onboard_time": 1770650660,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64085,
+        "num": 64085,
+        "word": "高德打车被约谈整改",
+        "onboard_time": 1770675494,
+        "rank": 30,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 61592,
+        "num": 61592,
+        "word": "高市早苗修宪扩军将畅通无阻",
+        "onboard_time": 1770679036,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 60877,
+        "num": 60877,
+        "word": "生命树白菊爆头",
+        "onboard_time": 1770651500,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60606,
+        "num": 60606,
+        "word": "孙颖莎 ELLE",
+        "onboard_time": 1770679398,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 57052,
+        "num": 57052,
+        "word": "宋祺武创男子跳台滑雪历史",
+        "onboard_time": 1770676817,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 56273,
+        "num": 56273,
+        "word": "这家人的住商好高",
+        "onboard_time": 1770642983,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 55693,
+        "num": 55693,
+        "word": "郑钦文逆转前澳网冠军",
+        "onboard_time": 1770652400,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 49684,
+        "num": 49684,
+        "word": "甲骨文涨超9%",
+        "onboard_time": 1770679638,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 47792,
+        "num": 47792,
+        "word": "林孝埈领衔中国短道队出战",
+        "onboard_time": 1770678256,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34455,
+        "num": 47589,
+        "word": "极氪召回超3.8万辆车",
+        "onboard_time": 1770680479,
+        "rank": 39,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 47557,
+        "num": 47557,
+        "word": "北方GDP十强城市出炉",
+        "onboard_time": 1770679997,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46018,
+        "num": 46018,
+        "word": "白鹿新剧放过了自己没放过别人",
+        "onboard_time": 1770664694,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45582,
+        "num": 45582,
+        "word": "时代少年团 外务",
+        "onboard_time": 1770647780,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43452,
+        "num": 43452,
+        "word": "小马糕",
+        "onboard_time": 1770648442,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 43027,
+        "num": 43027,
+        "word": "2025年微博十大热搜艺人",
+        "onboard_time": 1770637880,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 41846,
+        "num": 41846,
+        "word": "谷爱凌决赛",
+        "onboard_time": 1770635721,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 41378,
+        "num": 41378,
+        "word": "成何体统的刀是延迟生效的",
+        "onboard_time": 1770680718,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41281,
+        "num": 41281,
+        "word": "金晨风波后现身澳门",
+        "onboard_time": 1770646761,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40027,
+        "num": 40027,
+        "word": "冬奥会",
+        "onboard_time": 1770642502,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 41055,
+        "num": 39581,
+        "word": "丝芭学历最高的人出现了",
+        "onboard_time": 1770636680,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在北京考察科技创新工作#"
+    }
+  }
+}
