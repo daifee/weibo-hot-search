@@ -1,0 +1,410 @@
+{
+  "runTime": 1770628638746,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 519353,
+        "num": 1083096,
+        "word": "大连地震",
+        "onboard_time": 1770620720,
+        "rank": 0,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 402160,
+        "num": 803337,
+        "word": "中方回应高市赢得选举",
+        "onboard_time": 1770625521,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 27122,
+        "num": 643966,
+        "word": "带年货乘火车实用指南",
+        "onboard_time": 1770625702,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 601930,
+        "num": 601930,
+        "word": "王楚然 夹冒烟了",
+        "onboard_time": 1770624919,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 489321,
+        "num": 489321,
+        "word": "王者荣耀貂蝉",
+        "onboard_time": 1770625521,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 654415,
+        "num": 459413,
+        "word": "周一请假和周五请假的区别",
+        "onboard_time": 1770621621,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 383740,
+        "num": 383740,
+        "word": "易烊千玺意识到被叫叔叔的反应",
+        "onboard_time": 1770623600,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 360414,
+        "num": 360414,
+        "word": "超级碗",
+        "onboard_time": 1770597502,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 275190,
+        "num": 275190,
+        "word": "成何体统",
+        "onboard_time": 1770624860,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158715,
+        "num": 158715,
+        "word": "空气炸锅半年清洗一次",
+        "onboard_time": 1770610460,
+        "rank": 9,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 410768,
+        "num": 157620,
+        "word": "河南一摊贩当街摔死多只兔子",
+        "onboard_time": 1770625401,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 353560,
+        "num": 157110,
+        "word": "英国名媛称未入爱泼斯坦档案是侮辱",
+        "onboard_time": 1770622879,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 307595,
+        "num": 155199,
+        "word": "老人连续7年用冥币买遍半条街",
+        "onboard_time": 1770627261,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 299451,
+        "num": 155069,
+        "word": "权珉娥医美后毁容",
+        "onboard_time": 1770619159,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244002,
+        "num": 153201,
+        "word": "瑶一瑶摆拍后一年掉粉近120万",
+        "onboard_time": 1770608660,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 173595,
+        "num": 151965,
+        "word": "爱泼斯坦曾订购大量硫酸",
+        "onboard_time": 1770625401,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 225725,
+        "num": 150308,
+        "word": "于谦被恢复执行",
+        "onboard_time": 1770623540,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37260,
+        "num": 149395,
+        "word": "今年过年出站谁在等你",
+        "onboard_time": 1770626181,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29209,
+        "num": 148710,
+        "word": "蚂蚁阿福高铁春运文案",
+        "onboard_time": 1770624742,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65706,
+        "num": 147004,
+        "word": "特朗普说中场秀是对美国的侮辱",
+        "onboard_time": 1770627620,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 319037,
+        "num": 145824,
+        "word": "瑶一瑶小肉包1分钟视频报价45万",
+        "onboard_time": 1770624860,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 241238,
+        "num": 144924,
+        "word": "包文婧因女儿饺子生二胎",
+        "onboard_time": 1770627981,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186960,
+        "num": 143359,
+        "word": "谷爱凌含泪说怕不能再滑雪了",
+        "onboard_time": 1770624742,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178822,
+        "num": 142532,
+        "word": "爱吃桃酥的人天塌了",
+        "onboard_time": 1770612801,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 174169,
+        "num": 141402,
+        "word": "王楚然模仿妲己",
+        "onboard_time": 1770623001,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163065,
+        "num": 140219,
+        "word": "时代峰峻只包1场",
+        "onboard_time": 1770627321,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108363,
+        "num": 139020,
+        "word": "爱泼斯坦案亚裔受害者曝性虐待细节",
+        "onboard_time": 1770621621,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 138150,
+        "num": 138150,
+        "word": "古天乐有轻度失忆",
+        "onboard_time": 1770625401,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127846,
+        "num": 127846,
+        "word": "成何体统直播",
+        "onboard_time": 1770622879,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 65832,
+        "num": 122604,
+        "word": "1500余名缅甸赌诈嫌犯押解回国",
+        "onboard_time": 1770627742,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 90593,
+        "num": 122547,
+        "word": "除夕夜iPhone降价",
+        "onboard_time": 1770624199,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 122526,
+        "num": 122526,
+        "word": "飞驰人生3",
+        "onboard_time": 1770627800,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 111943,
+        "num": 111943,
+        "word": "迪丽热巴Hi6卷发上班路透",
+        "onboard_time": 1770620600,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108079,
+        "num": 108079,
+        "word": "超级碗中场秀激怒特朗普",
+        "onboard_time": 1770626421,
+        "rank": 33,
+        "category": "国际时政,体育"
+      },
+      {
+        "raw_hot": 106177,
+        "num": 106177,
+        "word": "黑诊所放血疗法地面血流成泊",
+        "onboard_time": 1770613699,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104133,
+        "num": 104133,
+        "word": "从订婚就看出谁才是话事人了",
+        "onboard_time": 1770628041,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 103560,
+        "num": 103560,
+        "word": "黄金",
+        "onboard_time": 1770598100,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 99615,
+        "num": 99615,
+        "word": "年后辞职我都不敢这么演",
+        "onboard_time": 1770617000,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 51800,
+        "num": 99119,
+        "word": "迪丽热巴上车时磕到头",
+        "onboard_time": 1770627681,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52182,
+        "num": 98994,
+        "word": "胡一天 那是坏男人穿的",
+        "onboard_time": 1770627861,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98983,
+        "num": 98983,
+        "word": "爱泼斯坦案视频疑有女孩全身赤裸",
+        "onboard_time": 1770626542,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 31298,
+        "num": 92326,
+        "word": "爱泼斯坦死讯存在惊人时间差",
+        "onboard_time": 1770628581,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 89769,
+        "num": 89769,
+        "word": "朋友圈跳赞",
+        "onboard_time": 1770614180,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 87740,
+        "num": 87740,
+        "word": "第一批返乡过年的人",
+        "onboard_time": 1770628521,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 87487,
+        "num": 87487,
+        "word": "孙颖莎亚洲杯夺冠后发文",
+        "onboard_time": 1770620901,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86980,
+        "num": 86980,
+        "word": "去了后不祛魅的城市",
+        "onboard_time": 1770624440,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 85921,
+        "num": 85921,
+        "word": "亲哥去世请假被辞公司丢了人情善意",
+        "onboard_time": 1770627380,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85766,
+        "num": 85766,
+        "word": "热巴逆应援",
+        "onboard_time": 1770628461,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84966,
+        "num": 84966,
+        "word": "春节档电影票房预售前三",
+        "onboard_time": 1770628461,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 75092,
+        "num": 81919,
+        "word": "刘耀文外套惊蛰无声内搭镖人",
+        "onboard_time": 1770626661,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在北京考察科技创新工作#"
+    }
+  }
+}
