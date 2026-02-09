@@ -1,6 +1,6 @@
 {
   "startTime": 1770482461321,
-  "endTime": 1770607704191,
+  "endTime": 1770613757424,
   "band_list": [
     {
       "raw_hot": 7279878,
@@ -64,6 +64,14 @@
       "word": "订婚强奸案电梯视频首曝光",
       "onboard_time": 1770545361,
       "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1195070,
+      "num": 234690,
+      "word": "订婚等于默许亲密关系是老旧观念",
+      "onboard_time": 1770610040,
+      "rank": 10,
       "category": "民生新闻"
     },
     {
@@ -140,7 +148,7 @@
     },
     {
       "raw_hot": 909229,
-      "num": 143013,
+      "num": 203262,
       "word": "黄金",
       "onboard_time": 1770598100,
       "rank": 20,
@@ -171,6 +179,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 737748,
+      "num": 234666,
+      "word": "都暻秀 奶茶也太好喝了",
+      "onboard_time": 1770611001,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 718886,
       "num": 718886,
       "word": "父亲去世试管婴儿获工亡抚恤金",
@@ -180,7 +196,7 @@
     },
     {
       "raw_hot": 694096,
-      "num": 146772,
+      "num": 222331,
       "word": "龙麦娇兰",
       "onboard_time": 1770603799,
       "rank": 10,
@@ -204,7 +220,7 @@
     },
     {
       "raw_hot": 675638,
-      "num": 146212,
+      "num": 226598,
       "word": "孟子义微博之夜带走了四盒饼干",
       "onboard_time": 1770603860,
       "rank": 14,
@@ -259,6 +275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 621656,
+      "num": 232265,
+      "word": "瑶一瑶摆拍后一年掉粉近120万",
+      "onboard_time": 1770608660,
+      "rank": 12,
+      "category": "网红"
+    },
+    {
       "raw_hot": 615323,
       "num": 781350,
       "word": "谢依霖回应提问赵丽颖",
@@ -284,7 +308,7 @@
     },
     {
       "raw_hot": 559293,
-      "num": 145400,
+      "num": 223766,
       "word": "爱泼斯坦案秘密照片曝光",
       "onboard_time": 1770601040,
       "rank": 12,
@@ -331,6 +355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 515284,
+      "num": 1082445,
+      "word": "贺娇龙抢救前还在安排工作",
+      "onboard_time": 1770609980,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 515090,
       "num": 391296,
       "word": "老一辈对子女睡懒觉的执念",
@@ -348,7 +380,7 @@
     },
     {
       "raw_hot": 508520,
-      "num": 145072,
+      "num": 167557,
       "word": "白鹿女装牛仔裤",
       "onboard_time": 1770599119,
       "rank": 13,
@@ -459,6 +491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 424789,
+      "num": 230603,
+      "word": "贺娇龙坠马后坐起说头有点疼",
+      "onboard_time": 1770610221,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 418467,
       "num": 418467,
       "word": "孙颖莎生涯首个亚洲杯冠军",
@@ -481,6 +521,14 @@
       "onboard_time": 1770592638,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 408457,
+      "num": 408457,
+      "word": "女装牛仔裤",
+      "onboard_time": 1770610340,
+      "rank": 3,
+      "category": "时尚"
     },
     {
       "raw_hot": 407758,
@@ -611,6 +659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 367063,
+      "num": 133932,
+      "word": "王楚钦称知道自己被诟病被比较了很久",
+      "onboard_time": 1770606318,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 364542,
       "num": 163798,
       "word": "Bin腹肌对标Gala",
@@ -659,6 +715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 353318,
+      "num": 353318,
+      "word": "成龙沈佳润合唱",
+      "onboard_time": 1770609619,
+      "rank": 4,
+      "category": "电影"
+    },
+    {
       "raw_hot": 353073,
       "num": 159921,
       "word": "何与忍住",
@@ -675,6 +739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 341006,
+      "num": 790990,
+      "word": "自嗨锅濒临破产",
+      "onboard_time": 1770611361,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 339996,
       "num": 293650,
       "word": "柯南宝可梦 漫展禁止",
@@ -689,6 +761,14 @@
       "onboard_time": 1770553342,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 333154,
+      "num": 333154,
+      "word": "美国牙医称自己差点掉入斩杀线",
+      "onboard_time": 1770610520,
+      "rank": 5,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 332844,
@@ -764,7 +844,7 @@
     },
     {
       "raw_hot": 297977,
-      "num": 144739,
+      "num": 203929,
       "word": "海清因儿子生病想过捐肾",
       "onboard_time": 1770594559,
       "rank": 13,
@@ -785,6 +865,14 @@
       "onboard_time": 1770604701,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 292030,
+      "num": 292030,
+      "word": "警方通报男子祭祖误触捕猎装置身亡",
+      "onboard_time": 1770606801,
+      "rank": 18,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 287749,
@@ -1219,6 +1307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 197462,
+      "num": 197462,
+      "word": "爱吃桃酥的人天塌了",
+      "onboard_time": 1770612801,
+      "rank": 21,
+      "category": "美食"
+    },
+    {
       "raw_hot": 197431,
       "num": 116966,
       "word": "马伯骞回关虞书欣",
@@ -1233,6 +1329,14 @@
       "onboard_time": 1770493094,
       "rank": 20,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 196044,
+      "num": 110757,
+      "word": "中国特警vs美国特警",
+      "onboard_time": 1770612860,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 193405,
@@ -1265,6 +1369,14 @@
       "onboard_time": 1770549681,
       "rank": 33,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 187401,
+      "num": 187401,
+      "word": "LadyGaga空降超级碗中场秀",
+      "onboard_time": 1770607879,
+      "rank": 22,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 186754,
@@ -1459,6 +1571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 155776,
+      "num": 155776,
+      "word": "赵樱子曝娜扎打游戏很厉害",
+      "onboard_time": 1770612321,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 155447,
       "num": 155447,
       "word": "苏翊鸣第三跳80.25分",
@@ -1481,6 +1601,22 @@
       "onboard_time": 1770484338,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 154095,
+      "num": 238176,
+      "word": "唐宫奇案第10集32分40秒",
+      "onboard_time": 1770613281,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 153601,
+      "num": 153601,
+      "word": "空气炸锅半年清洗一次",
+      "onboard_time": 1770610460,
+      "rank": 26,
+      "category": "科学科普"
     },
     {
       "raw_hot": 152527,
@@ -1547,6 +1683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 149323,
+      "num": 228173,
+      "word": "开心消消乐 甄嬛",
+      "onboard_time": 1770605300,
+      "rank": 9,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 148299,
       "num": 148299,
       "word": "王星越送给粉丝的星星",
@@ -1569,14 +1713,6 @@
       "onboard_time": 1770602720,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 146789,
-      "num": 146789,
-      "word": "开心消消乐 甄嬛",
-      "onboard_time": 1770605300,
-      "rank": 9,
-      "category": "游戏"
     },
     {
       "raw_hot": 143460,
@@ -1715,6 +1851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135862,
+      "num": 135862,
+      "word": "台机场10分钟内3个航班发出Mayday",
+      "onboard_time": 1770611180,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135413,
       "num": 135413,
       "word": "新音纪录片预告",
@@ -1731,12 +1875,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 133932,
-      "num": 133932,
-      "word": "王楚钦称知道自己被诟病被比较了很久",
-      "onboard_time": 1770606318,
-      "rank": 23,
-      "category": "体育"
+      "raw_hot": 133927,
+      "num": 110600,
+      "word": "对尺寸有了清晰的概念",
+      "onboard_time": 1770610340,
+      "rank": 31,
+      "category": "幽默,休闲"
     },
     {
       "raw_hot": 133239,
@@ -1785,14 +1929,6 @@
       "onboard_time": 1770528320,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 125798,
-      "num": 143116,
-      "word": "警方通报男子祭祖误触捕猎装置身亡",
-      "onboard_time": 1770606801,
-      "rank": 18,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 125738,
@@ -2227,6 +2363,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 105798,
+      "num": 105798,
+      "word": "5个家庭被余华英1次拐走2个孩子",
+      "onboard_time": 1770611542,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105467,
       "num": 108860,
       "word": "王楚钦亚洲杯两连冠",
@@ -2355,6 +2499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 99552,
+      "num": 99552,
+      "word": "王鹤棣宋茜扫楼直拍",
+      "onboard_time": 1770611479,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 99091,
       "num": 99091,
       "word": "孙颖莎6比11陈熠",
@@ -2363,12 +2515,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 98879,
+      "num": 98879,
+      "word": "张钧甯 果然年上最知道疼人",
+      "onboard_time": 1770611001,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 98835,
       "num": 98835,
       "word": "罗云熙陈瑶是同个公司的",
       "onboard_time": 1770515660,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 98549,
+      "num": 98549,
+      "word": "全红婵人物年度面孔封面",
+      "onboard_time": 1770608900,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 98421,
@@ -2403,6 +2571,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 97641,
+      "num": 99394,
+      "word": "跟张晚意林允希林娜依高唱跳全场",
+      "onboard_time": 1770613580,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 96850,
+      "num": 96850,
+      "word": "山航很着急为您服务",
+      "onboard_time": 1770612801,
+      "rank": 42,
+      "category": "幽默,民生新闻"
+    },
+    {
       "raw_hot": 96409,
       "num": 96409,
       "word": "克林顿夫妇要求公开作证爱泼斯坦案",
@@ -2435,6 +2619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 94769,
+      "num": 99178,
+      "word": "白鹿新剧创平台2026年最快破万记录",
+      "onboard_time": 1770612860,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 94512,
       "num": 94512,
       "word": "王楚钦进决赛",
@@ -2451,6 +2643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 93845,
+      "num": 93845,
+      "word": "明日方舟",
+      "onboard_time": 1770611479,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 93503,
       "num": 93503,
       "word": "朵莉亚神骥鸣幻洲皮肤爆料",
@@ -2465,6 +2665,14 @@
       "onboard_time": 1770477978,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 93308,
+      "num": 93308,
+      "word": "国投白银LOF大涨",
+      "onboard_time": 1770610400,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 93202,
@@ -2497,6 +2705,14 @@
       "onboard_time": 1770552681,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 91703,
+      "num": 91703,
+      "word": "直播带货都发展成这样了",
+      "onboard_time": 1770611302,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 91637,
@@ -2603,12 +2819,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 88661,
+      "num": 88661,
+      "word": "星河入梦",
+      "onboard_time": 1770610160,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 88005,
       "num": 88005,
       "word": "银价重返80美元",
       "onboard_time": 1770604521,
       "rank": 32,
       "category": "财经"
+    },
+    {
+      "raw_hot": 87878,
+      "num": 87878,
+      "word": "小猫老了人怎么办",
+      "onboard_time": 1770610101,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 87755,
@@ -3523,6 +3755,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 61793,
+      "num": 99479,
+      "word": "我每天有人陪过得挺好的",
+      "onboard_time": 1770613580,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 61482,
       "num": 76704,
       "word": "女子被拐32年曾离父母家仅1公里",
@@ -4003,12 +4243,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39222,
+      "num": 159695,
+      "word": "中国把垃圾的价值也榨尽了",
+      "onboard_time": 1770612502,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38810,
       "num": 38810,
       "word": "中国队米兰首枚奖牌",
       "onboard_time": 1770494294,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 38610,
+      "num": 224776,
+      "word": "了不起的超强钢",
+      "onboard_time": 1770611180,
+      "rank": 16,
+      "category": "汽车"
     },
     {
       "raw_hot": 38354,
@@ -4115,6 +4371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 31232,
+      "num": 628833,
+      "word": "2026央视新春走基层",
+      "onboard_time": 1770607518,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 31150,
       "num": 35988,
       "word": "赵丽颖现实主义三部曲实绩",
@@ -4137,6 +4401,14 @@
       "onboard_time": 1770492734,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 30309,
+      "num": 98916,
+      "word": "老人水滴保扣0.7元次月暴涨5百倍",
+      "onboard_time": 1770612561,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29767,
@@ -4403,6 +4675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 17348,
+      "num": 93320,
+      "word": "黑诊所放血疗法地面血流成泊",
+      "onboard_time": 1770613699,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 16973,
       "num": 20207,
       "word": "丁禹兮高干Daddy上班了",
@@ -4513,14 +4793,6 @@
       "onboard_time": 1770551002,
       "rank": 29,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 8573,
-      "num": 613661,
-      "word": "2026央视新春走基层",
-      "onboard_time": 1770607518,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 8375,

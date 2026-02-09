@@ -1,0 +1,410 @@
+{
+  "runTime": 1770613757424,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 515284,
+        "num": 1082445,
+        "word": "贺娇龙抢救前还在安排工作",
+        "onboard_time": 1770609980,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 341006,
+        "num": 790990,
+        "word": "自嗨锅濒临破产",
+        "onboard_time": 1770611361,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31232,
+        "num": 628833,
+        "word": "2026央视新春走基层",
+        "onboard_time": 1770607518,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 408457,
+        "num": 408457,
+        "word": "女装牛仔裤",
+        "onboard_time": 1770610340,
+        "rank": 3,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 353318,
+        "num": 353318,
+        "word": "成龙沈佳润合唱",
+        "onboard_time": 1770609619,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 333154,
+        "num": 333154,
+        "word": "美国牙医称自己差点掉入斩杀线",
+        "onboard_time": 1770610520,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 320736,
+        "num": 320736,
+        "word": "超级碗",
+        "onboard_time": 1770597502,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 292030,
+        "num": 292030,
+        "word": "警方通报男子祭祖误触捕猎装置身亡",
+        "onboard_time": 1770606801,
+        "rank": 7,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 238204,
+        "num": 238204,
+        "word": "老外来中国过年的订单爆了",
+        "onboard_time": 1770604701,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154095,
+        "num": 238176,
+        "word": "唐宫奇案第10集32分40秒",
+        "onboard_time": 1770613281,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1195070,
+        "num": 234690,
+        "word": "订婚等于默许亲密关系是老旧观念",
+        "onboard_time": 1770610040,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 737748,
+        "num": 234666,
+        "word": "都暻秀 奶茶也太好喝了",
+        "onboard_time": 1770611001,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 621656,
+        "num": 232265,
+        "word": "瑶一瑶摆拍后一年掉粉近120万",
+        "onboard_time": 1770608660,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 424789,
+        "num": 230603,
+        "word": "贺娇龙坠马后坐起说头有点疼",
+        "onboard_time": 1770610221,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149323,
+        "num": 228173,
+        "word": "开心消消乐 甄嬛",
+        "onboard_time": 1770605300,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 381757,
+        "num": 226598,
+        "word": "孟子义微博之夜带走了四盒饼干",
+        "onboard_time": 1770603860,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38610,
+        "num": 224776,
+        "word": "了不起的超强钢",
+        "onboard_time": 1770611180,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 291804,
+        "num": 223766,
+        "word": "爱泼斯坦案秘密照片曝光",
+        "onboard_time": 1770601040,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 222331,
+        "num": 222331,
+        "word": "龙麦娇兰",
+        "onboard_time": 1770603799,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203929,
+        "num": 203929,
+        "word": "海清因儿子生病想过捐肾",
+        "onboard_time": 1770594559,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210263,
+        "num": 203262,
+        "word": "黄金",
+        "onboard_time": 1770598100,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 197462,
+        "num": 197462,
+        "word": "爱吃桃酥的人天塌了",
+        "onboard_time": 1770612801,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 187401,
+        "num": 187401,
+        "word": "LadyGaga空降超级碗中场秀",
+        "onboard_time": 1770607879,
+        "rank": 22,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 167557,
+        "num": 167557,
+        "word": "白鹿女装牛仔裤",
+        "onboard_time": 1770599119,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39222,
+        "num": 159695,
+        "word": "中国把垃圾的价值也榨尽了",
+        "onboard_time": 1770612502,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155776,
+        "num": 155776,
+        "word": "赵樱子曝娜扎打游戏很厉害",
+        "onboard_time": 1770612321,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153601,
+        "num": 153601,
+        "word": "空气炸锅半年清洗一次",
+        "onboard_time": 1770610460,
+        "rank": 26,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 147785,
+        "num": 147785,
+        "word": "谷爱凌冲击首金",
+        "onboard_time": 1770595879,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135862,
+        "num": 135862,
+        "word": "台机场10分钟内3个航班发出Mayday",
+        "onboard_time": 1770611180,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112423,
+        "num": 112423,
+        "word": "亲哥去世员工请假奔丧被辞",
+        "onboard_time": 1770563183,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196044,
+        "num": 110757,
+        "word": "中国特警vs美国特警",
+        "onboard_time": 1770612860,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133927,
+        "num": 110600,
+        "word": "对尺寸有了清晰的概念",
+        "onboard_time": 1770610340,
+        "rank": 31,
+        "category": "幽默,休闲"
+      },
+      {
+        "raw_hot": 106228,
+        "num": 106228,
+        "word": "苹果最便宜新机要来了",
+        "onboard_time": 1770606380,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 105798,
+        "num": 105798,
+        "word": "5个家庭被余华英1次拐走2个孩子",
+        "onboard_time": 1770611542,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99552,
+        "num": 99552,
+        "word": "王鹤棣宋茜扫楼直拍",
+        "onboard_time": 1770611479,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 61793,
+        "num": 99479,
+        "word": "我每天有人陪过得挺好的",
+        "onboard_time": 1770613580,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97641,
+        "num": 99394,
+        "word": "跟张晚意林允希林娜依高唱跳全场",
+        "onboard_time": 1770613580,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94769,
+        "num": 99178,
+        "word": "白鹿新剧创平台2026年最快破万记录",
+        "onboard_time": 1770612860,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 367063,
+        "num": 99107,
+        "word": "王楚钦称知道自己被诟病被比较了很久",
+        "onboard_time": 1770606318,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30309,
+        "num": 98916,
+        "word": "老人水滴保扣0.7元次月暴涨5百倍",
+        "onboard_time": 1770612561,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98879,
+        "num": 98879,
+        "word": "张钧甯 果然年上最知道疼人",
+        "onboard_time": 1770611001,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98549,
+        "num": 98549,
+        "word": "全红婵人物年度面孔封面",
+        "onboard_time": 1770608900,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96850,
+        "num": 96850,
+        "word": "山航很着急为您服务",
+        "onboard_time": 1770612801,
+        "rank": 42,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 93845,
+        "num": 93845,
+        "word": "明日方舟",
+        "onboard_time": 1770611479,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 17348,
+        "num": 93320,
+        "word": "黑诊所放血疗法地面血流成泊",
+        "onboard_time": 1770613699,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93308,
+        "num": 93308,
+        "word": "国投白银LOF大涨",
+        "onboard_time": 1770610400,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 91703,
+        "num": 91703,
+        "word": "直播带货都发展成这样了",
+        "onboard_time": 1770611302,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 89251,
+        "num": 89251,
+        "word": "中国军网点名张本智和",
+        "onboard_time": 1770542901,
+        "rank": 47,
+        "category": "国际时政,体育"
+      },
+      {
+        "raw_hot": 88661,
+        "num": 88661,
+        "word": "星河入梦",
+        "onboard_time": 1770610160,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 87878,
+        "num": 87878,
+        "word": "小猫老了人怎么办",
+        "onboard_time": 1770610101,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的新春家常话#"
+    }
+  }
+}
