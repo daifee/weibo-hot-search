@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1770666422191,
+  "endTime": 1770670383410,
   "band_list": [
     {
       "raw_hot": 12386962,
@@ -25579,6 +25579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25406,
+      "num": 25406,
+      "word": "瓦窑沟墓地M1墓主或为商代鬼方之王",
+      "onboard_time": 1770663974,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25371,
       "num": 25371,
       "word": "白鹿严选出手就是破万",
@@ -26635,20 +26643,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 17432,
-      "num": 17432,
-      "word": "瓦窑沟墓地M1墓主或为商代鬼方之王",
-      "onboard_time": 1770663974,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 17414,
       "num": 20418,
       "word": "紫幻小乔大王四杀",
       "onboard_time": 1770394041,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 17391,
+      "num": 17391,
+      "word": "谍报上不封顶",
+      "onboard_time": 1770668415,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 17170,
@@ -27049,6 +27057,14 @@
       "onboard_time": 1770582194,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 13628,
+      "num": 14553,
+      "word": "电影熊猫计划之部落奇遇记",
+      "onboard_time": 1770662716,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 13549,
