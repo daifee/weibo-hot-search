@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1770594898558,
+  "endTime": 1770605220928,
   "band_list": [
     {
       "raw_hot": 12386962,
@@ -923,6 +923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 909229,
+      "num": 288284,
+      "word": "黄金",
+      "onboard_time": 1770343821,
+      "rank": 20,
+      "category": "财经"
+    },
+    {
       "raw_hot": 906959,
       "num": 906959,
       "word": "谷爱凌完成第二滑",
@@ -1579,6 +1587,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 687346,
+      "num": 131451,
+      "word": "唯一能治住特朗普的生物出现了",
+      "onboard_time": 1770600561,
+      "rank": 11,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 686621,
       "num": 285276,
       "word": "张桂源哭了",
@@ -1657,14 +1673,6 @@
       "onboard_time": 1769940862,
       "rank": 3,
       "category": "演出"
-    },
-    {
-      "raw_hot": 667022,
-      "num": 288284,
-      "word": "黄金",
-      "onboard_time": 1770343821,
-      "rank": 20,
-      "category": "财经"
     },
     {
       "raw_hot": 666271,
@@ -2051,6 +2059,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 585261,
+      "num": 131467,
+      "word": "龙麦娇兰",
+      "onboard_time": 1770603799,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 583032,
       "num": 240188,
       "word": "TF四代换登陆少年新歌海报头像",
@@ -2177,6 +2193,14 @@
       "onboard_time": 1769944341,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 559293,
+      "num": 131431,
+      "word": "爱泼斯坦案秘密照片曝光",
+      "onboard_time": 1770601040,
+      "rank": 12,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 555760,
@@ -2475,6 +2499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 511857,
+      "num": 1081897,
+      "word": "超级碗",
+      "onboard_time": 1770597502,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 511453,
       "num": 511453,
       "word": "王楚然只贴三片黄瓜美成这样",
@@ -2497,6 +2529,14 @@
       "onboard_time": 1770421157,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 508520,
+      "num": 131401,
+      "word": "白鹿女装牛仔裤",
+      "onboard_time": 1770599119,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 507735,
@@ -2641,6 +2681,14 @@
       "onboard_time": 1770504375,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 490868,
+      "num": 131397,
+      "word": "孟子义微博之夜带走了四盒饼干",
+      "onboard_time": 1770603860,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 490602,
@@ -3827,6 +3875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 376244,
+      "num": 268388,
+      "word": "高市早苗赌赢日本更危险了",
+      "onboard_time": 1770602238,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 374853,
       "num": 172510,
       "word": "演员马如龙49岁儿子在家去世",
@@ -3857,6 +3913,14 @@
       "onboard_time": 1769959581,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 373097,
+      "num": 784982,
+      "word": "日本众议院选举结果",
+      "onboard_time": 1770599422,
+      "rank": 1,
+      "category": "国际时政"
     },
     {
       "raw_hot": 372641,
@@ -5169,6 +5233,14 @@
       "onboard_time": 1770113780,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 297977,
+      "num": 131356,
+      "word": "海清因儿子生病想过捐肾",
+      "onboard_time": 1770594559,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 297914,
@@ -7091,6 +7163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 222494,
+      "num": 222494,
+      "word": "网友称买到无座票在静音车厢被劝离",
+      "onboard_time": 1770562583,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 222200,
       "num": 176368,
       "word": "克林顿夫妇将配合爱泼斯坦案调查",
@@ -7627,6 +7707,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 201173,
+      "num": 210775,
+      "word": "谁给了窗口人员收1614万的勇气",
+      "onboard_time": 1770554962,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 200010,
       "num": 117232,
       "word": "卢靖姗晒儿女照片",
@@ -7697,6 +7785,14 @@
       "onboard_time": 1770116120,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 197500,
+      "num": 197500,
+      "word": "谷爱凌冲击首金",
+      "onboard_time": 1770595879,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 197489,
@@ -8115,6 +8211,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 185275,
+      "num": 153018,
+      "word": "亲哥去世员工请假奔丧被辞",
+      "onboard_time": 1770563183,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 185260,
       "num": 183795,
       "word": "小狗禁止进地铁除非能装进袋子",
@@ -8415,14 +8519,6 @@
       "num": 176616,
       "word": "江苏盐城在建大桥塌落已致2死",
       "onboard_time": 1770073937,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 176355,
-      "num": 210775,
-      "word": "谁给了窗口人员收1614万的勇气",
-      "onboard_time": 1770554962,
       "rank": 19,
       "category": "民生新闻"
     },
@@ -9427,14 +9523,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 153018,
-      "num": 153018,
-      "word": "亲哥去世员工请假奔丧被辞",
-      "onboard_time": 1770563183,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 152724,
       "num": 135854,
       "word": "钱天一发王昶求婚vlog",
@@ -9843,11 +9931,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 147736,
-      "num": 121796,
-      "word": "海清因儿子生病想过捐肾",
-      "onboard_time": 1770594559,
-      "rank": 13,
+      "raw_hot": 147672,
+      "num": 131317,
+      "word": "蔡徐坤直播放情人",
+      "onboard_time": 1770602720,
+      "rank": 17,
       "category": "艺人"
     },
     {
@@ -10995,6 +11083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131508,
+      "num": 131508,
+      "word": "白鹿接下去的最大考验就是莫离了",
+      "onboard_time": 1770597140,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 131381,
       "num": 131381,
       "word": "桃黑黑47分钟谈心局",
@@ -11112,6 +11208,14 @@
       "word": "王橹杰高会语音",
       "onboard_time": 1770211340,
       "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 130106,
+      "num": 130106,
+      "word": "BLACKPINK预告照",
+      "onboard_time": 1770598342,
+      "rank": 21,
       "category": "艺人"
     },
     {
@@ -11577,6 +11681,14 @@
       "onboard_time": 1770285864,
       "rank": 39,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 123625,
+      "num": 123625,
+      "word": "中国19岁速滑小将齐天大圣造型",
+      "onboard_time": 1770602599,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 123590,
@@ -12153,6 +12265,14 @@
       "onboard_time": 1770087379,
       "rank": 32,
       "category": "财经"
+    },
+    {
+      "raw_hot": 119174,
+      "num": 119174,
+      "word": "姚安娜从小网剧小配角做起",
+      "onboard_time": 1770599119,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 119118,
@@ -13123,6 +13243,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 110224,
+      "num": 110224,
+      "word": "王皓赛后为王楚钦耐心擦眼泪",
+      "onboard_time": 1770599900,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 110169,
       "num": 132700,
       "word": "地铁工地龙门吊坍塌砸中轿车",
@@ -13987,6 +14115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 104456,
+      "num": 104456,
+      "word": "金价巨震下买黄金的人怎么样了",
+      "onboard_time": 1770605058,
+      "rank": 26,
+      "category": "财经"
+    },
+    {
       "raw_hot": 104430,
       "num": 104430,
       "word": "SM和时代峰峻推双人组合了",
@@ -14147,6 +14283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 103500,
+      "num": 103500,
+      "word": "老外来中国过年的订单爆了",
+      "onboard_time": 1770604701,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103483,
       "num": 103483,
       "word": "动物园回应白虎被指饿成纸片",
@@ -14305,6 +14449,14 @@
       "onboard_time": 1770205101,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 102280,
+      "num": 102280,
+      "word": "王楚钦赛前紧张到失眠手抖",
+      "onboard_time": 1770601999,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 102243,
@@ -15361,6 +15513,14 @@
       "onboard_time": 1770020840,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 95046,
+      "num": 95046,
+      "word": "爱的成本实在是太高了",
+      "onboard_time": 1770599720,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 94983,
@@ -16555,6 +16715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 88005,
+      "num": 88005,
+      "word": "银价重返80美元",
+      "onboard_time": 1770604521,
+      "rank": 32,
+      "category": "财经"
+    },
+    {
       "raw_hot": 88001,
       "num": 88001,
       "word": "WB战胜DYG",
@@ -16617,6 +16785,14 @@
       "onboard_time": 1769944222,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 87755,
+      "num": 87755,
+      "word": "中国妇女报评订婚强奸案",
+      "onboard_time": 1770598999,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87723,
@@ -17051,6 +17227,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 85294,
+      "num": 85294,
+      "word": "夫妇凌晨3点返乡家中灯火通明",
+      "onboard_time": 1770595159,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85245,
       "num": 85245,
       "word": "车辆撞上灯杆解体60岁女驾驶员身亡",
@@ -17161,6 +17345,14 @@
       "onboard_time": 1770112341,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 84852,
+      "num": 84852,
+      "word": "女子注射卧蚕过敏肿胀又溃烂",
+      "onboard_time": 1770602238,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 84816,
@@ -17593,6 +17785,14 @@
       "onboard_time": 1770026602,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 82148,
+      "num": 82148,
+      "word": "惊蛰无声",
+      "onboard_time": 1769889194,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 82095,
@@ -18355,6 +18555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 77640,
+      "num": 77640,
+      "word": "闪耀暖暖",
+      "onboard_time": 1770603019,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 77501,
       "num": 142171,
       "word": "白鹿 叫妈妈还是姐姐",
@@ -18385,6 +18593,14 @@
       "onboard_time": 1770546141,
       "rank": 41,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 77275,
+      "num": 77275,
+      "word": "视频车路遇京A高速恶意别车",
+      "onboard_time": 1770602900,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 77269,
@@ -18579,6 +18795,14 @@
       "category": "艺人,互联网"
     },
     {
+      "raw_hot": 76042,
+      "num": 76042,
+      "word": "申聪结婚",
+      "onboard_time": 1770601999,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 76022,
       "num": 76022,
       "word": "张函瑞高会自拍",
@@ -18715,6 +18939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 74749,
+      "num": 74749,
+      "word": "意大利女选手抱娃采访被狂叫妈妈",
+      "onboard_time": 1770601759,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 74747,
       "num": 74747,
       "word": "小狗被主人夸可爱时的反应",
@@ -18849,6 +19081,14 @@
       "onboard_time": 1769950942,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 73636,
+      "num": 73636,
+      "word": "田曦薇春晚第四次联排路透",
+      "onboard_time": 1770600919,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 73632,
@@ -19107,6 +19347,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 70601,
+      "num": 70601,
+      "word": "年夜饭私厨团队一天赚10万",
+      "onboard_time": 1770602238,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 70206,
       "num": 141506,
       "word": "高铁部分车次已有遛娃舱",
@@ -19315,6 +19563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 68335,
+      "num": 131505,
+      "word": "黎智英被判20年",
+      "onboard_time": 1770603860,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 68256,
       "num": 68256,
       "word": "王楚钦多少有些无奈了",
@@ -19400,6 +19656,14 @@
       "word": "多地年味浓度超标了",
       "onboard_time": 1769949981,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 67196,
+      "num": 67196,
+      "word": "再上6天班放假9天",
+      "onboard_time": 1770603622,
+      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -19603,12 +19867,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 64668,
+      "num": 64668,
+      "word": "超级碗中场秀",
+      "onboard_time": 1770601517,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 64623,
       "num": 75099,
       "word": "飞天茅台酒价上涨",
       "onboard_time": 1770188300,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 64609,
+      "num": 64609,
+      "word": "超级碗好多人啊",
+      "onboard_time": 1770604701,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 64595,
@@ -19659,6 +19939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 64180,
+      "num": 64180,
+      "word": "花滑团体终究比的还是短板",
+      "onboard_time": 1770605178,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 64063,
       "num": 85724,
       "word": "四川复婚人员不能享受婚假",
@@ -19705,6 +19993,14 @@
       "onboard_time": 1769864303,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 63587,
+      "num": 63587,
+      "word": "爱泼斯坦曾形容科技巨头晚宴很疯狂",
+      "onboard_time": 1770602779,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 63542,
@@ -21361,6 +21657,14 @@
       "onboard_time": 1770402436,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 42650,
+      "num": 77424,
+      "word": "试管婴儿获抚恤金案入选2025十大案件",
+      "onboard_time": 1770604939,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 42584,
@@ -23113,14 +23417,6 @@
       "onboard_time": 1770412394,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 23531,
-      "num": 23531,
-      "word": "惊蛰无声",
-      "onboard_time": 1769889194,
-      "rank": 30,
-      "category": "电影"
     },
     {
       "raw_hot": 23529,
