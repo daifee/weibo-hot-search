@@ -1,6 +1,6 @@
 {
   "startTime": 1770482461321,
-  "endTime": 1770649263468,
+  "endTime": 1770651136285,
   "band_list": [
     {
       "raw_hot": 7279878,
@@ -139,6 +139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1094099,
+      "num": 349502,
+      "word": "南京博物院致歉",
+      "onboard_time": 1770644843,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1091823,
       "num": 1091823,
       "word": "苏翊鸣决赛",
@@ -211,6 +219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 824629,
+      "num": 193577,
+      "word": "易烊千玺打耳洞了",
+      "onboard_time": 1770647362,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 821190,
       "num": 1131390,
       "word": "超级碗",
@@ -257,14 +273,6 @@
       "onboard_time": 1770555021,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 716025,
-      "num": 193577,
-      "word": "易烊千玺打耳洞了",
-      "onboard_time": 1770647362,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 707827,
@@ -345,14 +353,6 @@
       "onboard_time": 1770556584,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 661277,
-      "num": 349502,
-      "word": "南京博物院致歉",
-      "onboard_time": 1770644843,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 646911,
@@ -484,7 +484,7 @@
     },
     {
       "raw_hot": 549503,
-      "num": 549503,
+      "num": 1086473,
       "word": "谷爱凌回应米兰冬奥银牌",
       "onboard_time": 1770644902,
       "rank": 30,
@@ -1163,6 +1163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 317522,
+      "num": 232403,
+      "word": "男子让6个月孩子看电视女友劝阻后被打",
+      "onboard_time": 1770646462,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 316457,
       "num": 181224,
       "word": "官方通报僧人欲跳江被劝止",
@@ -1235,6 +1243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 304105,
+      "num": 205096,
+      "word": "时代少年团 外务",
+      "onboard_time": 1770647780,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 300166,
       "num": 300166,
       "word": "台团体不敢用ChineseNewYear",
@@ -1257,14 +1273,6 @@
       "onboard_time": 1770620600,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 296406,
-      "num": 232403,
-      "word": "男子让6个月孩子看电视女友劝阻后被打",
-      "onboard_time": 1770646462,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 296114,
@@ -1457,6 +1465,14 @@
       "onboard_time": 1770538219,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 259038,
+      "num": 259038,
+      "word": "陈飞宇 阿瑟帅回宫了",
+      "onboard_time": 1770645922,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 257562,
@@ -1681,6 +1697,14 @@
       "onboard_time": 1770643701,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 225647,
+      "num": 225647,
+      "word": "小马糕",
+      "onboard_time": 1770512360,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 222494,
@@ -1947,14 +1971,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 192504,
-      "num": 192504,
-      "word": "陈飞宇 阿瑟帅回宫了",
-      "onboard_time": 1770645922,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 192500,
       "num": 192500,
       "word": "特朗普说中场秀是对美国的侮辱",
@@ -2107,14 +2123,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 172260,
-      "num": 172260,
-      "word": "小马糕",
-      "onboard_time": 1770512360,
-      "rank": 19,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 172036,
       "num": 157691,
       "word": "芒果女主持上新了",
@@ -2144,6 +2152,14 @@
       "word": "没领证男子去世遭索18万彩礼女方发声",
       "onboard_time": 1770532161,
       "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 167618,
+      "num": 167618,
+      "word": "一个普通人被121个热搜改变之后",
+      "onboard_time": 1770649222,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -2307,6 +2323,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 152499,
+      "num": 152499,
+      "word": "至此生命树已成艺术",
+      "onboard_time": 1770648863,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 152369,
       "num": 152369,
       "word": "孙颖莎想要孙颖莎得到",
@@ -2425,6 +2449,14 @@
       "onboard_time": 1770483318,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 148190,
+      "num": 148190,
+      "word": "网传丁程鑫常驻开推4",
+      "onboard_time": 1770647542,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 147748,
@@ -2891,12 +2923,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 118950,
-      "num": 128912,
-      "word": "时代少年团 外务",
-      "onboard_time": 1770647780,
-      "rank": 34,
-      "category": "艺人"
+      "raw_hot": 119067,
+      "num": 193859,
+      "word": "宝宝爬到床边爸爸睡梦中惊醒抓住",
+      "onboard_time": 1770648742,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 118684,
@@ -2905,14 +2937,6 @@
       "onboard_time": 1770630980,
       "rank": 33,
       "category": "电影"
-    },
-    {
-      "raw_hot": 118603,
-      "num": 118603,
-      "word": "网传丁程鑫常驻开推4",
-      "onboard_time": 1770647542,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 118428,
@@ -3011,6 +3035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 115523,
+      "num": 115523,
+      "word": "iG对战NIP",
+      "onboard_time": 1770649466,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 115472,
       "num": 115472,
       "word": "山姆你还续卡吗",
@@ -3049,6 +3081,14 @@
       "onboard_time": 1770561143,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 115115,
+      "num": 115115,
+      "word": "张艺谋看王鹤棣这小伙子有礼貌",
+      "onboard_time": 1770650481,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 113436,
@@ -3531,12 +3571,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 102943,
+      "num": 181610,
+      "word": "谷爱凌青花瓷龙战袍绝美",
+      "onboard_time": 1770649466,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 102783,
       "num": 102783,
       "word": "谷爱凌领奖前赶紧补个妆",
       "onboard_time": 1770647902,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 102508,
+      "num": 100446,
+      "word": "吴克群说做自媒体拍吃喝很无聊",
+      "onboard_time": 1770650660,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 102478,
@@ -3633,6 +3689,14 @@
       "onboard_time": 1770618078,
       "rank": 31,
       "category": "汽车,民生新闻"
+    },
+    {
+      "raw_hot": 100477,
+      "num": 100477,
+      "word": "郑钦文时隔133天重返赛场",
+      "onboard_time": 1770650002,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 100466,
@@ -3819,14 +3883,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 95947,
-      "num": 95947,
-      "word": "至此生命树已成艺术",
-      "onboard_time": 1770648863,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 95226,
       "num": 95102,
       "word": "139999元黄金手机壳已售55件",
@@ -4003,6 +4059,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 91723,
+      "num": 91723,
+      "word": "多哈WTA1000",
+      "onboard_time": 1770650181,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 91703,
       "num": 91703,
       "word": "直播带货都发展成这样了",
@@ -4097,6 +4161,14 @@
       "onboard_time": 1770540080,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 89709,
+      "num": 89709,
+      "word": "王者马年限定皮肤全家福",
+      "onboard_time": 1770647723,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 89582,
@@ -4345,6 +4417,14 @@
       "onboard_time": 1770507677,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 85156,
+      "num": 85156,
+      "word": "人民日报评南京博物院受赠文物事件",
+      "onboard_time": 1770650781,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 84966,
@@ -4739,14 +4819,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 77021,
-      "num": 193859,
-      "word": "宝宝爬到床边爸爸睡梦中惊醒抓住",
-      "onboard_time": 1770648742,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 76986,
       "num": 139368,
       "word": "男生有必要打HPV疫苗吗",
@@ -4755,20 +4827,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 76803,
+      "num": 181526,
+      "word": "车厘子价格崩了口感也崩了",
+      "onboard_time": 1770650421,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 76787,
       "num": 76787,
       "word": "回家后喝杯奶茶有多难",
       "onboard_time": 1770637521,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 76668,
-      "num": 120652,
-      "word": "一个普通人被121个热搜改变之后",
-      "onboard_time": 1770649222,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 76599,
@@ -5204,7 +5276,7 @@
     },
     {
       "raw_hot": 65334,
-      "num": 120261,
+      "num": 181527,
       "word": "问界M9车主聚会堪比春晚",
       "onboard_time": 1770648682,
       "rank": 38,
@@ -6409,6 +6481,14 @@
       "onboard_time": 1770613760,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 20720,
+      "num": 97814,
+      "word": "北欧卖酱肉包情侣称最高日入2千",
+      "onboard_time": 1770650363,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20489,
