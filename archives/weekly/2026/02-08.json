@@ -1,6 +1,6 @@
 {
   "startTime": 1770482461321,
-  "endTime": 1770614319982,
+  "endTime": 1770619387305,
   "band_list": [
     {
       "raw_hot": 7279878,
@@ -155,6 +155,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 879162,
+      "num": 189100,
+      "word": "特朗普大骂美国冬奥运动员",
+      "onboard_time": 1770614000,
+      "rank": 18,
+      "category": "国际时政,体育"
+    },
+    {
+      "raw_hot": 821190,
+      "num": 1131390,
+      "word": "超级碗",
+      "onboard_time": 1770597502,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 791539,
       "num": 1058206,
       "word": "苏翊鸣大跳台铜牌",
@@ -193,6 +209,14 @@
       "onboard_time": 1770555021,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 707827,
+      "num": 279748,
+      "word": "朋友圈跳赞",
+      "onboard_time": 1770614180,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 694096,
@@ -379,14 +403,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 511857,
-      "num": 1081897,
-      "word": "超级碗",
-      "onboard_time": 1770597502,
-      "rank": 0,
-      "category": "体育"
-    },
-    {
       "raw_hot": 508520,
       "num": 167557,
       "word": "白鹿女装牛仔裤",
@@ -472,6 +488,14 @@
       "word": "古茗回应外卖小哥打翻32杯奶茶",
       "onboard_time": 1770539840,
       "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 428817,
+      "num": 797786,
+      "word": "黑诊所放血疗法地面血流成泊",
+      "onboard_time": 1770613699,
+      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -561,6 +585,14 @@
       "onboard_time": 1770534982,
       "rank": 4,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 400307,
+      "num": 167375,
+      "word": "年后辞职我都不敢这么演",
+      "onboard_time": 1770617000,
+      "rank": 12,
+      "category": "幽默"
     },
     {
       "raw_hot": 399369,
@@ -803,6 +835,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 320019,
+      "num": 167375,
+      "word": "迪丽热巴给粉丝点了奶茶面包鸡汤",
+      "onboard_time": 1770613879,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 315169,
       "num": 315169,
       "word": "张本美和采访哭了",
@@ -923,6 +963,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 279949,
+      "num": 279949,
+      "word": "王楚然剧宣送黄金",
+      "onboard_time": 1770616340,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 278463,
       "num": 212059,
       "word": "白鹿发开播红包",
@@ -963,6 +1011,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 267830,
+      "num": 167374,
+      "word": "章昊赖伟明刚认识就出去玩了",
+      "onboard_time": 1770616161,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 265392,
       "num": 434440,
       "word": "苏翊鸣谷爱凌对失利的同一种回答",
@@ -988,7 +1044,7 @@
     },
     {
       "raw_hot": 260390,
-      "num": 126701,
+      "num": 167373,
       "word": "中国特警vs美国特警",
       "onboard_time": 1770612860,
       "rank": 30,
@@ -1073,6 +1129,14 @@
       "onboard_time": 1770522320,
       "rank": 7,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 245424,
+      "num": 245424,
+      "word": "空气炸锅半年清洗一次",
+      "onboard_time": 1770610460,
+      "rank": 26,
+      "category": "科学科普"
     },
     {
       "raw_hot": 240298,
@@ -1171,14 +1235,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 225968,
-      "num": 225968,
-      "word": "空气炸锅半年清洗一次",
-      "onboard_time": 1770610460,
-      "rank": 26,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 222494,
       "num": 222494,
       "word": "网友称买到无座票在静音车厢被劝离",
@@ -1251,6 +1307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 213971,
+      "num": 187931,
+      "word": "赵樱子曝娜扎打游戏很厉害",
+      "onboard_time": 1770612321,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 213736,
       "num": 213736,
       "word": "男子编少年淫秽视频逼学校家长回应",
@@ -1289,6 +1353,14 @@
       "onboard_time": 1770543801,
       "rank": 31,
       "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 203796,
+      "num": 153802,
+      "word": "时代少年团 假睫毛",
+      "onboard_time": 1770614180,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 201619,
@@ -1363,14 +1435,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 192390,
-      "num": 187931,
-      "word": "赵樱子曝娜扎打游戏很厉害",
-      "onboard_time": 1770612321,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 192300,
       "num": 192300,
       "word": "日本裁判",
@@ -1441,6 +1505,14 @@
       "onboard_time": 1770551721,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 178965,
+      "num": 178965,
+      "word": "时代峰峻包场支持惊蛰无声",
+      "onboard_time": 1770618800,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 178148,
@@ -1643,6 +1715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 151851,
+      "num": 151851,
+      "word": "王鹤棣宋茜又跳了屋顶着火",
+      "onboard_time": 1770616279,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 150951,
       "num": 150951,
       "word": "教育局回应成绩单用星星显示",
@@ -1713,6 +1793,14 @@
       "onboard_time": 1770602720,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 145882,
+      "num": 145882,
+      "word": "朴彩英现身超级碗",
+      "onboard_time": 1770618680,
+      "rank": 26,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 143460,
@@ -1947,14 +2035,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 124175,
-      "num": 124175,
-      "word": "迪丽热巴给粉丝点了奶茶面包鸡汤",
-      "onboard_time": 1770613879,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 124092,
       "num": 124092,
       "word": "一诺浮潜",
@@ -2043,6 +2123,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 115817,
+      "num": 149267,
+      "word": "A股行情",
+      "onboard_time": 1770615801,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 115738,
       "num": 115738,
       "word": "王楚钦4比2张本智和",
@@ -2081,14 +2169,6 @@
       "onboard_time": 1770602238,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 115233,
-      "num": 115233,
-      "word": "朋友圈跳赞",
-      "onboard_time": 1770614180,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 115130,
@@ -2217,6 +2297,14 @@
       "onboard_time": 1770564681,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 109798,
+      "num": 109798,
+      "word": "海清 不要再卷孩子有本事卷自己",
+      "onboard_time": 1770615320,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 109484,
@@ -2360,6 +2448,14 @@
       "word": "袁咏仪庆祝和张智霖银婚",
       "onboard_time": 1770547700,
       "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 107292,
+      "num": 107292,
+      "word": "权珉娥医美后毁容",
+      "onboard_time": 1770619159,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -2507,6 +2603,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 100536,
+      "num": 100536,
+      "word": "因诋毁小米理想乱象13家MCN被约谈",
+      "onboard_time": 1770618078,
+      "rank": 31,
+      "category": "汽车,民生新闻"
+    },
+    {
+      "raw_hot": 100466,
+      "num": 100466,
+      "word": "周峻炜这次真的不一样",
+      "onboard_time": 1770618260,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 99977,
       "num": 99977,
       "word": "金博洋短节目",
@@ -2651,12 +2763,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 94030,
+      "num": 107897,
+      "word": "6个中国人在太空聚餐烧烤",
+      "onboard_time": 1770616161,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 93970,
       "num": 93970,
       "word": "海洋馆偶遇李纯马頔",
       "onboard_time": 1770538040,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 93871,
+      "num": 93871,
+      "word": "BTS免费开演唱会",
+      "onboard_time": 1770616279,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 93845,
@@ -2681,6 +2809,14 @@
       "onboard_time": 1770477978,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 93336,
+      "num": 93336,
+      "word": "遛了一天狗微信步数为0",
+      "onboard_time": 1770616761,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 93308,
@@ -2867,14 +3003,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 87867,
-      "num": 189100,
-      "word": "特朗普大骂美国冬奥运动员",
-      "onboard_time": 1770614000,
-      "rank": 18,
-      "category": "国际时政,体育"
-    },
-    {
       "raw_hot": 87755,
       "num": 87755,
       "word": "中国妇女报评订婚强奸案",
@@ -3017,6 +3145,22 @@
       "onboard_time": 1770541638,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 84878,
+      "num": 84878,
+      "word": "史上最长的春节要来了",
+      "onboard_time": 1770618560,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84654,
+      "num": 84654,
+      "word": "恋爱脑的我31岁被骗贷30万",
+      "onboard_time": 1770616041,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 84375,
@@ -3339,6 +3483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 77222,
+      "num": 77222,
+      "word": "乌克兰正式开始出售无人机",
+      "onboard_time": 1770616099,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 76986,
       "num": 139368,
       "word": "男生有必要打HPV疫苗吗",
@@ -3515,20 +3667,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 71868,
-      "num": 109992,
-      "word": "时代少年团 假睫毛",
-      "onboard_time": 1770614180,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 71775,
       "num": 71775,
       "word": "成何体统 看哭了",
       "onboard_time": 1770483621,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 71489,
+      "num": 71489,
+      "word": "中国19岁小将反超日本选手",
+      "onboard_time": 1770615561,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 71239,
@@ -3763,6 +3915,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 63151,
+      "num": 93976,
+      "word": "谷爱凌决赛第11位出场",
+      "onboard_time": 1770618980,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 62455,
       "num": 148611,
       "word": "缅北白家说对不起中国人民",
@@ -3875,6 +4035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 57641,
+      "num": 84673,
+      "word": "时代峰峻一代粉监考二代粉在考试",
+      "onboard_time": 1770618440,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 57576,
       "num": 57576,
       "word": "王楚钦谈长时间被质疑",
@@ -3905,6 +4073,14 @@
       "onboard_time": 1770544700,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 56502,
+      "num": 84657,
+      "word": "王一博脚痒想攀冰了吧",
+      "onboard_time": 1770618440,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 55042,
@@ -4371,14 +4547,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 33900,
-      "num": 188683,
-      "word": "黑诊所放血疗法地面血流成泊",
-      "onboard_time": 1770613699,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 33753,
       "num": 137108,
       "word": "周震南把丰愉写进旋律里",
@@ -4419,8 +4587,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 31235,
+      "num": 166760,
+      "word": "刘雨昕Dior温柔序曲",
+      "onboard_time": 1770617059,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 31232,
-      "num": 639190,
+      "num": 640832,
       "word": "2026央视新春走基层",
       "onboard_time": 1770607518,
       "rank": 2,

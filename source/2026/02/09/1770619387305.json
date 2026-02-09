@@ -1,0 +1,410 @@
+{
+  "runTime": 1770619387305,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 821190,
+        "num": 1131390,
+        "word": "超级碗",
+        "onboard_time": 1770597502,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 428817,
+        "num": 797786,
+        "word": "黑诊所放血疗法地面血流成泊",
+        "onboard_time": 1770613699,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27251,
+        "num": 640832,
+        "word": "2026央视新春走基层",
+        "onboard_time": 1770607518,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 288047,
+        "num": 288047,
+        "word": "贺娇龙抢救前还在安排工作",
+        "onboard_time": 1770609980,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 279949,
+        "num": 279949,
+        "word": "王楚然剧宣送黄金",
+        "onboard_time": 1770616340,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 707827,
+        "num": 279748,
+        "word": "朋友圈跳赞",
+        "onboard_time": 1770614180,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 273053,
+        "num": 273053,
+        "word": "自嗨锅濒临破产",
+        "onboard_time": 1770611361,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 245424,
+        "num": 245424,
+        "word": "空气炸锅半年清洗一次",
+        "onboard_time": 1770610460,
+        "rank": 7,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 178965,
+        "num": 178965,
+        "word": "时代峰峻包场支持惊蛰无声",
+        "onboard_time": 1770618800,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 167377,
+        "num": 167377,
+        "word": "美国牙医称自己差点掉入斩杀线",
+        "onboard_time": 1770610520,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 879162,
+        "num": 167376,
+        "word": "特朗普大骂美国冬奥运动员",
+        "onboard_time": 1770614000,
+        "rank": 10,
+        "category": "国际时政,体育"
+      },
+      {
+        "raw_hot": 674625,
+        "num": 167376,
+        "word": "瑶一瑶摆拍后一年掉粉近120万",
+        "onboard_time": 1770608660,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 400307,
+        "num": 167375,
+        "word": "年后辞职我都不敢这么演",
+        "onboard_time": 1770617000,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 320019,
+        "num": 167375,
+        "word": "迪丽热巴给粉丝点了奶茶面包鸡汤",
+        "onboard_time": 1770613879,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267830,
+        "num": 167374,
+        "word": "章昊赖伟明刚认识就出去玩了",
+        "onboard_time": 1770616161,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226888,
+        "num": 167373,
+        "word": "中国特警vs美国特警",
+        "onboard_time": 1770612860,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 253075,
+        "num": 167373,
+        "word": "都暻秀 奶茶也太好喝了",
+        "onboard_time": 1770611001,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213971,
+        "num": 167372,
+        "word": "赵樱子曝娜扎打游戏很厉害",
+        "onboard_time": 1770612321,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167372,
+        "num": 167371,
+        "word": "爱泼斯坦案秘密照片曝光",
+        "onboard_time": 1770601040,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 31235,
+        "num": 166760,
+        "word": "刘雨昕Dior温柔序曲",
+        "onboard_time": 1770617059,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 316600,
+        "num": 160156,
+        "word": "黄金",
+        "onboard_time": 1770598100,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 264832,
+        "num": 155794,
+        "word": "爱吃桃酥的人天塌了",
+        "onboard_time": 1770612801,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 203796,
+        "num": 153802,
+        "word": "时代少年团 假睫毛",
+        "onboard_time": 1770614180,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151851,
+        "num": 151851,
+        "word": "王鹤棣宋茜又跳了屋顶着火",
+        "onboard_time": 1770616279,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 115817,
+        "num": 149267,
+        "word": "A股行情",
+        "onboard_time": 1770615801,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 148959,
+        "num": 148959,
+        "word": "孟子义微博之夜带走了四盒饼干",
+        "onboard_time": 1770603860,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145882,
+        "num": 145882,
+        "word": "朴彩英现身超级碗",
+        "onboard_time": 1770618680,
+        "rank": 26,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 114723,
+        "num": 114723,
+        "word": "女装牛仔裤",
+        "onboard_time": 1770610340,
+        "rank": 27,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 109798,
+        "num": 109798,
+        "word": "海清 不要再卷孩子有本事卷自己",
+        "onboard_time": 1770615320,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94030,
+        "num": 107897,
+        "word": "6个中国人在太空聚餐烧烤",
+        "onboard_time": 1770616161,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107292,
+        "num": 107292,
+        "word": "权珉娥医美后毁容",
+        "onboard_time": 1770619159,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100536,
+        "num": 100536,
+        "word": "因诋毁小米理想乱象13家MCN被约谈",
+        "onboard_time": 1770618078,
+        "rank": 31,
+        "category": "汽车,民生新闻"
+      },
+      {
+        "raw_hot": 100466,
+        "num": 100466,
+        "word": "周峻炜这次真的不一样",
+        "onboard_time": 1770618260,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94715,
+        "num": 94715,
+        "word": "成龙沈佳润合唱",
+        "onboard_time": 1770609619,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 63151,
+        "num": 93976,
+        "word": "谷爱凌决赛第11位出场",
+        "onboard_time": 1770618980,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93871,
+        "num": 93871,
+        "word": "BTS免费开演唱会",
+        "onboard_time": 1770616279,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 93336,
+        "num": 93336,
+        "word": "遛了一天狗微信步数为0",
+        "onboard_time": 1770616761,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 84878,
+        "num": 84878,
+        "word": "史上最长的春节要来了",
+        "onboard_time": 1770618560,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57641,
+        "num": 84673,
+        "word": "时代峰峻一代粉监考二代粉在考试",
+        "onboard_time": 1770618440,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56502,
+        "num": 84657,
+        "word": "王一博脚痒想攀冰了吧",
+        "onboard_time": 1770618440,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90238,
+        "num": 84657,
+        "word": "贺娇龙坠马后坐起说头有点疼",
+        "onboard_time": 1770610221,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84654,
+        "num": 84654,
+        "word": "恋爱脑的我31岁被骗贷30万",
+        "onboard_time": 1770616041,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77738,
+        "num": 77738,
+        "word": "明日方舟",
+        "onboard_time": 1770611479,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 77222,
+        "num": 77222,
+        "word": "乌克兰正式开始出售无人机",
+        "onboard_time": 1770616099,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 75642,
+        "num": 75642,
+        "word": "惊蛰无声",
+        "onboard_time": 1770603019,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 73112,
+        "num": 73112,
+        "word": "白鹿女装牛仔裤",
+        "onboard_time": 1770599119,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71489,
+        "num": 71489,
+        "word": "中国19岁小将反超日本选手",
+        "onboard_time": 1770615561,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 69423,
+        "num": 69423,
+        "word": "警方通报男子祭祖误触捕猎装置身亡",
+        "onboard_time": 1770606801,
+        "rank": 47,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 67821,
+        "num": 67821,
+        "word": "对尺寸有了清晰的概念",
+        "onboard_time": 1770610340,
+        "rank": 48,
+        "category": "幽默,休闲"
+      },
+      {
+        "raw_hot": 64249,
+        "num": 67158,
+        "word": "老外来中国过年的订单爆了",
+        "onboard_time": 1770604701,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的新春家常话#"
+    }
+  }
+}

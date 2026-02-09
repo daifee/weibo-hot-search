@@ -1,6 +1,6 @@
 {
   "startTime": 1770568847669,
-  "endTime": 1770614319982,
+  "endTime": 1770619387305,
   "band_list": [
     {
       "raw_hot": 1247879,
@@ -19,10 +19,26 @@
       "category": "财经"
     },
     {
+      "raw_hot": 879162,
+      "num": 189100,
+      "word": "特朗普大骂美国冬奥运动员",
+      "onboard_time": 1770614000,
+      "rank": 18,
+      "category": "国际时政,体育"
+    },
+    {
       "raw_hot": 862564,
       "num": 862564,
       "word": "王楚钦vs张本智和",
       "onboard_time": 1770556883,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 821190,
+      "num": 1131390,
+      "word": "超级碗",
+      "onboard_time": 1770597502,
       "rank": 0,
       "category": "体育"
     },
@@ -33,6 +49,14 @@
       "onboard_time": 1770611001,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 707827,
+      "num": 279748,
+      "word": "朋友圈跳赞",
+      "onboard_time": 1770614180,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 705260,
@@ -107,20 +131,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 511857,
-      "num": 1081897,
-      "word": "超级碗",
-      "onboard_time": 1770597502,
-      "rank": 0,
-      "category": "体育"
-    },
-    {
       "raw_hot": 508520,
       "num": 167557,
       "word": "白鹿女装牛仔裤",
       "onboard_time": 1770599119,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 428817,
+      "num": 797786,
+      "word": "黑诊所放血疗法地面血流成泊",
+      "onboard_time": 1770613699,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 424789,
@@ -145,6 +169,14 @@
       "onboard_time": 1770610340,
       "rank": 3,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 400307,
+      "num": 167375,
+      "word": "年后辞职我都不敢这么演",
+      "onboard_time": 1770617000,
+      "rank": 12,
+      "category": "幽默"
     },
     {
       "raw_hot": 376244,
@@ -219,6 +251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 320019,
+      "num": 167375,
+      "word": "迪丽热巴给粉丝点了奶茶面包鸡汤",
+      "onboard_time": 1770613879,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 306915,
       "num": 107662,
       "word": "蔡徐坤直播",
@@ -275,6 +315,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 279949,
+      "num": 279949,
+      "word": "王楚然剧宣送黄金",
+      "onboard_time": 1770616340,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 277512,
       "num": 277512,
       "word": "孙颖莎金牌",
@@ -299,6 +347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 267830,
+      "num": 167374,
+      "word": "章昊赖伟明刚认识就出去玩了",
+      "onboard_time": 1770616161,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 265392,
       "num": 434440,
       "word": "苏翊鸣谷爱凌对失利的同一种回答",
@@ -308,7 +364,7 @@
     },
     {
       "raw_hot": 260390,
-      "num": 126701,
+      "num": 167373,
       "word": "中国特警vs美国特警",
       "onboard_time": 1770612860,
       "rank": 30,
@@ -321,6 +377,14 @@
       "onboard_time": 1770567020,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 245424,
+      "num": 245424,
+      "word": "空气炸锅半年清洗一次",
+      "onboard_time": 1770610460,
+      "rank": 26,
+      "category": "科学科普"
     },
     {
       "raw_hot": 234043,
@@ -347,14 +411,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 225968,
-      "num": 225968,
-      "word": "空气炸锅半年清洗一次",
-      "onboard_time": 1770610460,
-      "rank": 26,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 222494,
       "num": 222494,
       "word": "网友称买到无座票在静音车厢被劝离",
@@ -379,6 +435,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 213971,
+      "num": 187931,
+      "word": "赵樱子曝娜扎打游戏很厉害",
+      "onboard_time": 1770612321,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 203796,
+      "num": 153802,
+      "word": "时代少年团 假睫毛",
+      "onboard_time": 1770614180,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201173,
       "num": 201173,
       "word": "谁给了窗口人员收1614万的勇气",
@@ -393,14 +465,6 @@
       "onboard_time": 1770595879,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 192390,
-      "num": 187931,
-      "word": "赵樱子曝娜扎打游戏很厉害",
-      "onboard_time": 1770612321,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 190634,
@@ -443,6 +507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 178965,
+      "num": 178965,
+      "word": "时代峰峻包场支持惊蛰无声",
+      "onboard_time": 1770618800,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 174386,
       "num": 154532,
       "word": "张婧仪四肢已经不是自己的了",
@@ -475,6 +547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151851,
+      "num": 151851,
+      "word": "王鹤棣宋茜又跳了屋顶着火",
+      "onboard_time": 1770616279,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 150202,
       "num": 150202,
       "word": "孙颖莎合照给王曼昱挪位置",
@@ -497,6 +577,14 @@
       "onboard_time": 1770602720,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 145882,
+      "num": 145882,
+      "word": "朴彩英现身超级碗",
+      "onboard_time": 1770618680,
+      "rank": 26,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 143460,
@@ -563,14 +651,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 124175,
-      "num": 124175,
-      "word": "迪丽热巴给粉丝点了奶茶面包鸡汤",
-      "onboard_time": 1770613879,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 119565,
       "num": 119565,
       "word": "法官回应订婚强奸案男方被判3年",
@@ -587,20 +667,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 115817,
+      "num": 149267,
+      "word": "A股行情",
+      "onboard_time": 1770615801,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 115379,
       "num": 115379,
       "word": "女子注射卧蚕过敏肿胀又溃烂",
       "onboard_time": 1770602238,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 115233,
-      "num": 115233,
-      "word": "朋友圈跳赞",
-      "onboard_time": 1770614180,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 113215,
@@ -627,6 +707,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 109798,
+      "num": 109798,
+      "word": "海清 不要再卷孩子有本事卷自己",
+      "onboard_time": 1770615320,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 109484,
       "num": 109484,
       "word": "貂蝉年限美神降临",
@@ -648,6 +736,14 @@
       "word": "迪丽热巴上车后又下车收信",
       "onboard_time": 1770564081,
       "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 107292,
+      "num": 107292,
+      "word": "权珉娥医美后毁容",
+      "onboard_time": 1770619159,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -689,6 +785,22 @@
       "onboard_time": 1770601999,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 100536,
+      "num": 100536,
+      "word": "因诋毁小米理想乱象13家MCN被约谈",
+      "onboard_time": 1770618078,
+      "rank": 31,
+      "category": "汽车,民生新闻"
+    },
+    {
+      "raw_hot": 100466,
+      "num": 100466,
+      "word": "周峻炜这次真的不一样",
+      "onboard_time": 1770618260,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 100034,
@@ -787,12 +899,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 94030,
+      "num": 107897,
+      "word": "6个中国人在太空聚餐烧烤",
+      "onboard_time": 1770616161,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93871,
+      "num": 93871,
+      "word": "BTS免费开演唱会",
+      "onboard_time": 1770616279,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 93845,
       "num": 93845,
       "word": "明日方舟",
       "onboard_time": 1770611479,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 93336,
+      "num": 93336,
+      "word": "遛了一天狗微信步数为0",
+      "onboard_time": 1770616761,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 93308,
@@ -851,14 +987,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 87867,
-      "num": 189100,
-      "word": "特朗普大骂美国冬奥运动员",
-      "onboard_time": 1770614000,
-      "rank": 18,
-      "category": "国际时政,体育"
-    },
-    {
       "raw_hot": 87755,
       "num": 87755,
       "word": "中国妇女报评订婚强奸案",
@@ -888,6 +1016,22 @@
       "word": "夫妇凌晨3点返乡家中灯火通明",
       "onboard_time": 1770595159,
       "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84878,
+      "num": 84878,
+      "word": "史上最长的春节要来了",
+      "onboard_time": 1770618560,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84654,
+      "num": 84654,
+      "word": "恋爱脑的我31岁被骗贷30万",
+      "onboard_time": 1770616041,
+      "rank": 41,
       "category": "民生新闻"
     },
     {
@@ -963,6 +1107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 77222,
+      "num": 77222,
+      "word": "乌克兰正式开始出售无人机",
+      "onboard_time": 1770616099,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 76599,
       "num": 76599,
       "word": "老外集体许愿一觉醒来变中国人",
@@ -1019,20 +1171,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 71868,
-      "num": 109992,
-      "word": "时代少年团 假睫毛",
-      "onboard_time": 1770614180,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 71856,
       "num": 71856,
       "word": "TTG对战狼队",
       "onboard_time": 1770559042,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 71489,
+      "num": 71489,
+      "word": "中国19岁小将反超日本选手",
+      "onboard_time": 1770615561,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 71239,
@@ -1171,6 +1323,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 63151,
+      "num": 93976,
+      "word": "谷爱凌决赛第11位出场",
+      "onboard_time": 1770618980,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 62531,
       "num": 62531,
       "word": "日本军国主义渗透文体领域",
@@ -1211,12 +1371,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 57641,
+      "num": 84673,
+      "word": "时代峰峻一代粉监考二代粉在考试",
+      "onboard_time": 1770618440,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 57576,
       "num": 57576,
       "word": "王楚钦谈长时间被质疑",
       "onboard_time": 1770594860,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 56502,
+      "num": 84657,
+      "word": "王一博脚痒想攀冰了吧",
+      "onboard_time": 1770618440,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 55042,
@@ -1443,14 +1619,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 33900,
-      "num": 188683,
-      "word": "黑诊所放血疗法地面血流成泊",
-      "onboard_time": 1770613699,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 32245,
       "num": 36027,
       "word": "刘瀚彬创中国速滑5000米冬奥最好成绩",
@@ -1459,8 +1627,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 31235,
+      "num": 166760,
+      "word": "刘雨昕Dior温柔序曲",
+      "onboard_time": 1770617059,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 31232,
-      "num": 639190,
+      "num": 640832,
       "word": "2026央视新春走基层",
       "onboard_time": 1770607518,
       "rank": 2,
