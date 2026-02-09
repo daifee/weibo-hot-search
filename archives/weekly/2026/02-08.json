@@ -1,6 +1,6 @@
 {
   "startTime": 1770482461321,
-  "endTime": 1770624502470,
+  "endTime": 1770627803453,
   "band_list": [
     {
       "raw_hot": 7279878,
@@ -227,6 +227,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 695344,
+      "num": 464918,
+      "word": "周一请假和周五请假的区别",
+      "onboard_time": 1770621621,
+      "rank": 5,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 694096,
       "num": 222331,
       "word": "龙麦娇兰",
@@ -324,11 +332,19 @@
     },
     {
       "raw_hot": 582012,
-      "num": 159562,
+      "num": 171939,
       "word": "权珉娥医美后毁容",
       "onboard_time": 1770619159,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 579540,
+      "num": 579540,
+      "word": "王楚然 夹冒烟了",
+      "onboard_time": 1770624919,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 575023,
@@ -369,14 +385,6 @@
       "onboard_time": 1770609980,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 547921,
-      "num": 278865,
-      "word": "周一请假和周五请假的区别",
-      "onboard_time": 1770621621,
-      "rank": 5,
-      "category": "幽默"
     },
     {
       "raw_hot": 526315,
@@ -475,6 +483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 482914,
+      "num": 482914,
+      "word": "王者荣耀貂蝉",
+      "onboard_time": 1770625521,
+      "rank": 4,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 481810,
       "num": 481810,
       "word": "35岁国企女掌门受贿4900万",
@@ -491,12 +507,28 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 460746,
+      "num": 183762,
+      "word": "河南一摊贩当街摔死多只兔子",
+      "onboard_time": 1770625401,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 453756,
       "num": 740625,
       "word": "办婚礼没领证男子去世婆媳争18万彩礼",
       "onboard_time": 1770526699,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 452892,
+      "num": 180503,
+      "word": "英国名媛称未入爱泼斯坦档案是侮辱",
+      "onboard_time": 1770622879,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 446336,
@@ -563,6 +595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 423489,
+      "num": 177300,
+      "word": "吉赛尔否认和宁艺卓约会",
+      "onboard_time": 1770622280,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 418467,
       "num": 418467,
       "word": "孙颖莎生涯首个亚洲杯冠军",
@@ -609,6 +649,14 @@
       "onboard_time": 1770562881,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 403229,
+      "num": 403229,
+      "word": "易烊千玺意识到被叫叔叔的反应",
+      "onboard_time": 1770623600,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 401485,
@@ -795,6 +843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 353701,
+      "num": 164379,
+      "word": "瑶一瑶小肉包1分钟视频报价45万",
+      "onboard_time": 1770624860,
+      "rank": 20,
+      "category": "网红"
+    },
+    {
       "raw_hot": 353318,
       "num": 353318,
       "word": "成龙沈佳润合唱",
@@ -825,14 +881,6 @@
       "onboard_time": 1770602599,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 346827,
-      "num": 159190,
-      "word": "吉赛尔否认和宁艺卓约会",
-      "onboard_time": 1770622280,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 339996,
@@ -963,6 +1011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 294252,
+      "num": 170389,
+      "word": "于谦被恢复执行",
+      "onboard_time": 1770623540,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 292030,
       "num": 292030,
       "word": "警方通报男子祭祖误触捕猎装置身亡",
@@ -1083,6 +1139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 262447,
+      "num": 262447,
+      "word": "中方回应高市赢得选举",
+      "onboard_time": 1770625521,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 261010,
       "num": 178090,
       "word": "沈腾回应参加泡泡玛特年会",
@@ -1129,14 +1193,6 @@
       "onboard_time": 1770517941,
       "rank": 18,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 254774,
-      "num": 158833,
-      "word": "于谦被恢复执行",
-      "onboard_time": 1770623540,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 252100,
@@ -1187,14 +1243,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 245839,
-      "num": 245839,
-      "word": "易烊千玺意识到被叫叔叔的反应",
-      "onboard_time": 1770623600,
-      "rank": 6,
-      "category": "电影"
-    },
-    {
       "raw_hot": 245424,
       "num": 245424,
       "word": "空气炸锅半年清洗一次",
@@ -1204,7 +1252,7 @@
     },
     {
       "raw_hot": 243975,
-      "num": 158708,
+      "num": 163211,
       "word": "王楚然模仿妲己",
       "onboard_time": 1770623001,
       "rank": 16,
@@ -1451,6 +1499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202671,
+      "num": 160633,
+      "word": "刘耀文外套惊蛰无声内搭镖人",
+      "onboard_time": 1770626661,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 201619,
       "num": 201619,
       "word": "韩员工误发超400亿美元比特币",
@@ -1497,6 +1553,14 @@
       "onboard_time": 1770460100,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 196467,
+      "num": 159763,
+      "word": "谷爱凌含泪说怕不能再滑雪了",
+      "onboard_time": 1770624742,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 196304,
@@ -1651,6 +1715,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 170819,
+      "num": 170819,
+      "word": "爱泼斯坦曾订购大量硫酸",
+      "onboard_time": 1770625401,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 168439,
       "num": 158642,
       "word": "没领证男子去世遭索18万彩礼女方发声",
@@ -1715,20 +1787,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 159660,
-      "num": 159660,
-      "word": "英国名媛称未入爱泼斯坦档案是侮辱",
-      "onboard_time": 1770622879,
-      "rank": 9,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 159349,
       "num": 159349,
       "word": "减肥误食了一顿麻辣烫",
       "onboard_time": 1770542059,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 159266,
+      "num": 159266,
+      "word": "古天乐有轻度失忆",
+      "onboard_time": 1770625401,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 159239,
@@ -2043,6 +2115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 137159,
+      "num": 137159,
+      "word": "貂蝉神骥聚万邦新皮肤爆料",
+      "onboard_time": 1770625639,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 136716,
       "num": 136716,
       "word": "孙颖莎期待和王曼昱会师决赛",
@@ -2251,6 +2331,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 117627,
+      "num": 117627,
+      "word": "老人连续7年用冥币买遍半条街",
+      "onboard_time": 1770627261,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116912,
       "num": 116912,
       "word": "王楚钦7比11周启豪",
@@ -2371,6 +2459,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 112946,
+      "num": 146180,
+      "word": "除夕夜iPhone降价",
+      "onboard_time": 1770624199,
+      "rank": 27,
+      "category": "数码"
+    },
+    {
       "raw_hot": 112802,
       "num": 112802,
       "word": "爱泼斯坦性侵案受害者在超级碗投广",
@@ -2432,6 +2528,14 @@
       "word": "王一博只留最得体的姿态",
       "onboard_time": 1770554601,
       "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 110431,
+      "num": 110431,
+      "word": "时代峰峻只包1场",
+      "onboard_time": 1770627321,
+      "rank": 35,
       "category": "艺人"
     },
     {
@@ -2587,6 +2691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 107972,
+      "num": 107972,
+      "word": "超级碗中场秀激怒特朗普",
+      "onboard_time": 1770626421,
+      "rank": 36,
+      "category": "国际时政,体育"
+    },
+    {
       "raw_hot": 107912,
       "num": 107912,
       "word": "小马糕",
@@ -2659,6 +2771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 105138,
+      "num": 105138,
+      "word": "去了后不祛魅的城市",
+      "onboard_time": 1770624440,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 104456,
       "num": 104456,
       "word": "金价巨震下买黄金的人怎么样了",
@@ -2681,6 +2801,14 @@
       "onboard_time": 1770539060,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 103750,
+      "num": 103750,
+      "word": "爱泼斯坦案视频疑有女孩全身赤裸",
+      "onboard_time": 1770626542,
+      "rank": 40,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 103467,
@@ -3075,20 +3203,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 91263,
+      "num": 103067,
+      "word": "吉克隽逸 过年了老子要美翻全世界",
+      "onboard_time": 1770623600,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 91095,
+      "num": 91095,
+      "word": "全红婵双马尾皮衣造型登杂志封面",
+      "onboard_time": 1770626120,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 91037,
       "num": 91037,
       "word": "小猪佩奇的弟弟乔治戴上了助听器",
       "onboard_time": 1770521780,
       "rank": 31,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 90842,
-      "num": 92986,
-      "word": "去了后不祛魅的城市",
-      "onboard_time": 1770624440,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 90665,
@@ -3417,6 +3553,14 @@
       "onboard_time": 1770519920,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 83196,
+      "num": 83196,
+      "word": "除夕朋友聚餐",
+      "onboard_time": 1770626960,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 83100,
@@ -3787,12 +3931,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 74521,
-      "num": 103067,
-      "word": "吉克隽逸 过年了老子要美翻全世界",
-      "onboard_time": 1770623600,
-      "rank": 37,
-      "category": "艺人"
+      "raw_hot": 74514,
+      "num": 74514,
+      "word": "A股三大重磅来袭",
+      "onboard_time": 1770625161,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 74442,
@@ -4235,6 +4379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 58633,
+      "num": 73780,
+      "word": "1500余名缅甸赌诈嫌犯押解回国",
+      "onboard_time": 1770627742,
+      "rank": 49,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 58517,
       "num": 69588,
       "word": "六个合法查询网站帮你看清一个人",
@@ -4281,6 +4433,14 @@
       "onboard_time": 1770527242,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 57012,
+      "num": 98157,
+      "word": "日本应在靖国神社等问题上谨言慎行",
+      "onboard_time": 1770625222,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 56651,
@@ -4603,6 +4763,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 43317,
+      "num": 167071,
+      "word": "今年过年出站谁在等你",
+      "onboard_time": 1770626181,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42650,
       "num": 77424,
       "word": "试管婴儿获抚恤金案入选2025十大案件",
@@ -4827,12 +4995,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 32562,
+      "num": 131345,
+      "word": "特朗普说中场秀是对美国的侮辱",
+      "onboard_time": 1770627620,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 32245,
       "num": 36027,
       "word": "刘瀚彬创中国速滑5000米冬奥最好成绩",
       "onboard_time": 1770571758,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 31568,
+      "num": 165613,
+      "word": "蚂蚁阿福高铁春运文案",
+      "onboard_time": 1770624742,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 31235,
@@ -4955,6 +5139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 25168,
+      "num": 618847,
+      "word": "带年货乘火车实用指南",
+      "onboard_time": 1770625702,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25137,
       "num": 636131,
       "word": "12306已发售春运期间车票超1.5亿张",
@@ -4969,14 +5161,6 @@
       "onboard_time": 1770498133,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 24428,
-      "num": 133445,
-      "word": "除夕夜iPhone降价",
-      "onboard_time": 1770624199,
-      "rank": 27,
-      "category": "数码"
     },
     {
       "raw_hot": 24177,
@@ -5169,6 +5353,14 @@
       "onboard_time": 1770574816,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17005,
+      "num": 105182,
+      "word": "迪丽热巴上车时磕到头",
+      "onboard_time": 1770627681,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 16973,

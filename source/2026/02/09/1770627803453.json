@@ -1,0 +1,410 @@
+{
+  "runTime": 1770627803453,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 608801,
+        "num": 1097408,
+        "word": "大连地震",
+        "onboard_time": 1770620720,
+        "rank": 0,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 301945,
+        "num": 796507,
+        "word": "超级碗",
+        "onboard_time": 1770597502,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25168,
+        "num": 618847,
+        "word": "带年货乘火车实用指南",
+        "onboard_time": 1770625702,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 579540,
+        "num": 579540,
+        "word": "王楚然 夹冒烟了",
+        "onboard_time": 1770624919,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 482914,
+        "num": 482914,
+        "word": "王者荣耀貂蝉",
+        "onboard_time": 1770625521,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 695344,
+        "num": 464918,
+        "word": "周一请假和周五请假的区别",
+        "onboard_time": 1770621621,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 403229,
+        "num": 403229,
+        "word": "易烊千玺意识到被叫叔叔的反应",
+        "onboard_time": 1770623600,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 262447,
+        "num": 262447,
+        "word": "中方回应高市赢得选举",
+        "onboard_time": 1770625521,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 198504,
+        "num": 198504,
+        "word": "空气炸锅半年清洗一次",
+        "onboard_time": 1770610460,
+        "rank": 8,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 185487,
+        "num": 185487,
+        "word": "成何体统",
+        "onboard_time": 1770624860,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 460746,
+        "num": 183762,
+        "word": "河南一摊贩当街摔死多只兔子",
+        "onboard_time": 1770625401,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 452892,
+        "num": 180503,
+        "word": "英国名媛称未入爱泼斯坦档案是侮辱",
+        "onboard_time": 1770622879,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 423489,
+        "num": 177300,
+        "word": "吉赛尔否认和宁艺卓约会",
+        "onboard_time": 1770622280,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 353733,
+        "num": 171939,
+        "word": "权珉娥医美后毁容",
+        "onboard_time": 1770619159,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170819,
+        "num": 170819,
+        "word": "爱泼斯坦曾订购大量硫酸",
+        "onboard_time": 1770625401,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 294252,
+        "num": 170389,
+        "word": "于谦被恢复执行",
+        "onboard_time": 1770623540,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 288216,
+        "num": 169352,
+        "word": "瑶一瑶摆拍后一年掉粉近120万",
+        "onboard_time": 1770608660,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 149396,
+        "num": 167728,
+        "word": "黑诊所放血疗法地面血流成泊",
+        "onboard_time": 1770613699,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43317,
+        "num": 167071,
+        "word": "今年过年出站谁在等你",
+        "onboard_time": 1770626181,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31568,
+        "num": 165613,
+        "word": "蚂蚁阿福高铁春运文案",
+        "onboard_time": 1770624742,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 353701,
+        "num": 164379,
+        "word": "瑶一瑶小肉包1分钟视频报价45万",
+        "onboard_time": 1770624860,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 233257,
+        "num": 163211,
+        "word": "王楚然模仿妲己",
+        "onboard_time": 1770623001,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219294,
+        "num": 162515,
+        "word": "爱吃桃酥的人天塌了",
+        "onboard_time": 1770612801,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 202671,
+        "num": 160633,
+        "word": "刘耀文外套惊蛰无声内搭镖人",
+        "onboard_time": 1770626661,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 196467,
+        "num": 159763,
+        "word": "谷爱凌含泪说怕不能再滑雪了",
+        "onboard_time": 1770624742,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159266,
+        "num": 159266,
+        "word": "古天乐有轻度失忆",
+        "onboard_time": 1770625401,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156029,
+        "num": 156029,
+        "word": "迪丽热巴Hi6卷发上班路透",
+        "onboard_time": 1770620600,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112946,
+        "num": 146180,
+        "word": "除夕夜iPhone降价",
+        "onboard_time": 1770624199,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 137159,
+        "num": 137159,
+        "word": "貂蝉神骥聚万邦新皮肤爆料",
+        "onboard_time": 1770625639,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 32562,
+        "num": 131345,
+        "word": "特朗普说中场秀是对美国的侮辱",
+        "onboard_time": 1770627620,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 148926,
+        "num": 131126,
+        "word": "爱泼斯坦案亚裔受害者曝性虐待细节",
+        "onboard_time": 1770621621,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 130857,
+        "num": 130857,
+        "word": "成何体统直播",
+        "onboard_time": 1770622879,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125696,
+        "num": 125696,
+        "word": "黄金",
+        "onboard_time": 1770598100,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 118646,
+        "num": 118646,
+        "word": "年后辞职我都不敢这么演",
+        "onboard_time": 1770617000,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117627,
+        "num": 117627,
+        "word": "老人连续7年用冥币买遍半条街",
+        "onboard_time": 1770627261,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110431,
+        "num": 110431,
+        "word": "时代峰峻只包1场",
+        "onboard_time": 1770627321,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107972,
+        "num": 107972,
+        "word": "超级碗中场秀激怒特朗普",
+        "onboard_time": 1770626421,
+        "rank": 36,
+        "category": "国际时政,体育"
+      },
+      {
+        "raw_hot": 97801,
+        "num": 105242,
+        "word": "孙颖莎亚洲杯夺冠后发文",
+        "onboard_time": 1770620901,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17005,
+        "num": 105182,
+        "word": "迪丽热巴上车时磕到头",
+        "onboard_time": 1770627681,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105138,
+        "num": 105138,
+        "word": "去了后不祛魅的城市",
+        "onboard_time": 1770624440,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 103750,
+        "num": 103750,
+        "word": "爱泼斯坦案视频疑有女孩全身赤裸",
+        "onboard_time": 1770626542,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 57012,
+        "num": 98157,
+        "word": "日本应在靖国神社等问题上谨言慎行",
+        "onboard_time": 1770625222,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 96212,
+        "num": 96212,
+        "word": "朋友圈跳赞",
+        "onboard_time": 1770614180,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 91263,
+        "num": 91263,
+        "word": "吉克隽逸 过年了老子要美翻全世界",
+        "onboard_time": 1770623600,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91095,
+        "num": 91095,
+        "word": "全红婵双马尾皮衣造型登杂志封面",
+        "onboard_time": 1770626120,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85060,
+        "num": 85060,
+        "word": "沈佳润的资源",
+        "onboard_time": 1770621319,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 83196,
+        "num": 83196,
+        "word": "除夕朋友聚餐",
+        "onboard_time": 1770626960,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 74514,
+        "num": 74514,
+        "word": "A股三大重磅来袭",
+        "onboard_time": 1770625161,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 74479,
+        "num": 74479,
+        "word": "史上最长的春节要来了",
+        "onboard_time": 1770618560,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58633,
+        "num": 73780,
+        "word": "1500余名缅甸赌诈嫌犯押解回国",
+        "onboard_time": 1770627742,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在北京考察科技创新工作#"
+    }
+  }
+}
