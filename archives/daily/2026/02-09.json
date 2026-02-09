@@ -1,6 +1,6 @@
 {
   "startTime": 1770568847669,
-  "endTime": 1770628638746,
+  "endTime": 1770632102151,
   "band_list": [
     {
       "raw_hot": 1344252,
@@ -155,6 +155,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 549783,
+      "num": 155199,
+      "word": "老人连续7年用冥币买遍半条街",
+      "onboard_time": 1770627261,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 547873,
+      "num": 149740,
+      "word": "孙怡 至今没发现长得高的坏处",
+      "onboard_time": 1770629420,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 513593,
       "num": 800711,
       "word": "自嗨锅濒临破产",
@@ -193,6 +209,14 @@
       "onboard_time": 1770625401,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 456503,
+      "num": 149393,
+      "word": "包文婧因女儿饺子生二胎",
+      "onboard_time": 1770627981,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 452892,
@@ -243,20 +267,28 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 407414,
+      "num": 152994,
+      "word": "买139999元黄金手机壳送iPhone",
+      "onboard_time": 1770628641,
+      "rank": 11,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 405872,
+      "num": 1064939,
+      "word": "中方回应高市赢得选举",
+      "onboard_time": 1770625521,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 403229,
       "num": 403229,
       "word": "易烊千玺意识到被叫叔叔的反应",
       "onboard_time": 1770623600,
       "rank": 6,
       "category": "电影"
-    },
-    {
-      "raw_hot": 402160,
-      "num": 803337,
-      "word": "中方回应高市赢得选举",
-      "onboard_time": 1770625521,
-      "rank": 7,
-      "category": "国内时政"
     },
     {
       "raw_hot": 400307,
@@ -307,6 +339,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 355130,
+      "num": 765736,
+      "word": "时代峰峻只包1场",
+      "onboard_time": 1770627321,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 354872,
+      "num": 354872,
+      "word": "IVE新歌BANG BANG",
+      "onboard_time": 1770629302,
+      "rank": 3,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 353701,
       "num": 164379,
       "word": "瑶一瑶小肉包1分钟视频报价45万",
@@ -353,14 +401,6 @@
       "onboard_time": 1770613879,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 307595,
-      "num": 155199,
-      "word": "老人连续7年用冥币买遍半条街",
-      "onboard_time": 1770627261,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 306915,
@@ -451,6 +491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 275597,
+      "num": 275597,
+      "word": "白日提灯",
+      "onboard_time": 1770630261,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 275190,
       "num": 275190,
       "word": "成何体统",
@@ -523,12 +571,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 241238,
-      "num": 144924,
-      "word": "包文婧因女儿饺子生二胎",
-      "onboard_time": 1770627981,
-      "rank": 21,
-      "category": "艺人"
+      "raw_hot": 235980,
+      "num": 152485,
+      "word": "难以想象苏有朋比他们大了20岁",
+      "onboard_time": 1770628821,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 234043,
@@ -553,6 +601,14 @@
       "onboard_time": 1770556584,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 226351,
+      "num": 170819,
+      "word": "爱泼斯坦曾订购大量硫酸",
+      "onboard_time": 1770625401,
+      "rank": 14,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 222494,
@@ -699,14 +755,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 173595,
-      "num": 170819,
-      "word": "爱泼斯坦曾订购大量硫酸",
-      "onboard_time": 1770625401,
-      "rank": 14,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 171119,
       "num": 171119,
       "word": "孙颖莎vs王曼昱",
@@ -723,14 +771,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 163065,
-      "num": 140219,
-      "word": "时代峰峻只包1场",
-      "onboard_time": 1770627321,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 159266,
       "num": 159266,
       "word": "古天乐有轻度失忆",
@@ -745,6 +785,14 @@
       "onboard_time": 1770565641,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 153787,
+      "num": 153787,
+      "word": "第五人格",
+      "onboard_time": 1770630023,
+      "rank": 8,
+      "category": "游戏"
     },
     {
       "raw_hot": 151851,
@@ -769,6 +817,22 @@
       "onboard_time": 1770605300,
       "rank": 9,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 148435,
+      "num": 148435,
+      "word": "邓超 你们耍我",
+      "onboard_time": 1770629600,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 148164,
+      "num": 148164,
+      "word": "任敏素颜",
+      "onboard_time": 1770629122,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 147672,
@@ -803,12 +867,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 140627,
+      "num": 140627,
+      "word": "丝芭的清华理工科直博",
+      "onboard_time": 1770629780,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 139202,
       "num": 119880,
       "word": "当沙溢记住了娜扎叠穿",
       "onboard_time": 1770592638,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 138285,
+      "num": 151603,
+      "word": "特朗普说中场秀是对美国的侮辱",
+      "onboard_time": 1770627620,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 137918,
@@ -907,6 +987,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 120007,
+      "num": 120007,
+      "word": "吴彤经历了一次病危",
+      "onboard_time": 1770630801,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 119973,
       "num": 119973,
       "word": "对方拒绝催婚并跳了段舞蹈",
@@ -931,6 +1019,38 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 118684,
+      "num": 117722,
+      "word": "张艺谋易烊千玺朱一龙坐一起",
+      "onboard_time": 1770630980,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 117722,
+      "num": 117722,
+      "word": "Bin回家了",
+      "onboard_time": 1770629181,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 117718,
+      "num": 117718,
+      "word": "超级碗中场秀激怒特朗普",
+      "onboard_time": 1770626421,
+      "rank": 36,
+      "category": "国际时政,体育"
+    },
+    {
+      "raw_hot": 116723,
+      "num": 116723,
+      "word": "金智秀宝可梦合作",
+      "onboard_time": 1770631462,
+      "rank": 36,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 115817,
       "num": 149267,
       "word": "A股行情",
@@ -945,6 +1065,14 @@
       "onboard_time": 1770602238,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115340,
+      "num": 115340,
+      "word": "于正瘦成了自己最满意的样子",
+      "onboard_time": 1770630859,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 113215,
@@ -1011,14 +1139,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 108079,
-      "num": 108079,
-      "word": "超级碗中场秀激怒特朗普",
-      "onboard_time": 1770626421,
-      "rank": 36,
-      "category": "国际时政,体育"
-    },
-    {
       "raw_hot": 107668,
       "num": 107668,
       "word": "亚洲杯",
@@ -1041,6 +1161,14 @@
       "onboard_time": 1770559822,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 106981,
+      "num": 106981,
+      "word": "王安宇你脊柱侧弯吗",
+      "onboard_time": 1770629420,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 106788,
@@ -1099,6 +1227,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 103651,
+      "num": 103651,
+      "word": "在韩国大学吃胖的人出现了",
+      "onboard_time": 1770632000,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 103467,
       "num": 103467,
       "word": "辽宁大连2.9级地震",
@@ -1147,6 +1283,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 99858,
+      "num": 99858,
+      "word": "小南国",
+      "onboard_time": 1770631640,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99552,
       "num": 99552,
       "word": "王鹤棣宋茜扫楼直拍",
@@ -1161,6 +1305,14 @@
       "onboard_time": 1770564681,
       "rank": 25,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 99135,
+      "num": 143368,
+      "word": "25岁海警遭暴力抗法壮烈牺牲",
+      "onboard_time": 1770629721,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 98549,
@@ -1195,11 +1347,27 @@
       "category": "财经"
     },
     {
+      "raw_hot": 97651,
+      "num": 148446,
+      "word": "2025微博热搜趋势报告",
+      "onboard_time": 1770631221,
+      "rank": 26,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 97641,
       "num": 189675,
       "word": "跟张晚意林允希林娜依高唱跳全场",
       "onboard_time": 1770613580,
       "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 97388,
+      "num": 97388,
+      "word": "张凌赫宋威龙点头打招呼",
+      "onboard_time": 1770629122,
+      "rank": 45,
       "category": "艺人"
     },
     {
@@ -1241,6 +1409,14 @@
       "onboard_time": 1770612860,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 94259,
+      "num": 94259,
+      "word": "被两只一模一样的小狗做局了",
+      "onboard_time": 1770630801,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 94030,
@@ -1345,6 +1521,14 @@
       "onboard_time": 1770604521,
       "rank": 32,
       "category": "财经"
+    },
+    {
+      "raw_hot": 87979,
+      "num": 151007,
+      "word": "拼多多上体面又好吃的坚果礼盒",
+      "onboard_time": 1770630261,
+      "rank": 17,
+      "category": "美食"
     },
     {
       "raw_hot": 87878,
@@ -1651,14 +1835,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 65706,
-      "num": 147004,
-      "word": "特朗普说中场秀是对美国的侮辱",
-      "onboard_time": 1770627620,
-      "rank": 29,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 65497,
       "num": 65497,
       "word": "十个勤天想邀请TOP去种地",
@@ -1801,6 +1977,14 @@
       "onboard_time": 1770606801,
       "rank": 36,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 59068,
+      "num": 115397,
+      "word": "丞磊红着耳朵搂腰这一下",
+      "onboard_time": 1770631280,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 57641,
@@ -2115,6 +2299,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 35461,
+      "num": 150167,
+      "word": "偏方缓解情绪小青盒整顿流感",
+      "onboard_time": 1770631462,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 32245,
       "num": 36027,
       "word": "刘瀚彬创中国速滑5000米冬奥最好成绩",
@@ -2171,6 +2363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 30035,
+      "num": 150508,
+      "word": "今年春节的汉范儿超标了",
+      "onboard_time": 1770631462,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28695,
       "num": 35949,
       "word": "阿根廷称不排除中国",
@@ -2208,6 +2408,14 @@
       "word": "12306已发售春运期间车票超1.5亿张",
       "onboard_time": 1770556283,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24606,
+      "num": 116870,
+      "word": "专家建议所有旅客直接上12306买票",
+      "onboard_time": 1770632060,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
