@@ -1,0 +1,410 @@
+{
+  "runTime": 1770633369779,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 462912,
+        "num": 1074065,
+        "word": "白日提灯",
+        "onboard_time": 1770630261,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 355054,
+        "num": 752731,
+        "word": "中方回应高市赢得选举",
+        "onboard_time": 1770625521,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 27125,
+        "num": 635535,
+        "word": "带年货乘火车实用指南",
+        "onboard_time": 1770625702,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 299150,
+        "num": 299150,
+        "word": "王者荣耀貂蝉",
+        "onboard_time": 1770625521,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 282284,
+        "num": 282284,
+        "word": "IVE新歌BANG BANG",
+        "onboard_time": 1770629302,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 342422,
+        "num": 261840,
+        "word": "周一请假和周五请假的区别",
+        "onboard_time": 1770621621,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 219594,
+        "num": 219594,
+        "word": "大连地震",
+        "onboard_time": 1770620720,
+        "rank": 6,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 219180,
+        "num": 219180,
+        "word": "难以想象苏有朋比他们大了20岁",
+        "onboard_time": 1770628821,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114152,
+        "num": 218970,
+        "word": "孙颖莎亚洲杯夺冠后发文",
+        "onboard_time": 1770620901,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94728,
+        "num": 215869,
+        "word": "第五人格",
+        "onboard_time": 1770630023,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 628413,
+        "num": 215125,
+        "word": "老人连续7年用冥币买遍半条街",
+        "onboard_time": 1770627261,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 368143,
+        "num": 212879,
+        "word": "买139999元黄金手机壳送iPhone",
+        "onboard_time": 1770628641,
+        "rank": 11,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 211912,
+        "num": 211912,
+        "word": "河南一摊贩当街摔死多只兔子",
+        "onboard_time": 1770625401,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192500,
+        "num": 192500,
+        "word": "特朗普说中场秀是对美国的侮辱",
+        "onboard_time": 1770627620,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 185476,
+        "num": 185476,
+        "word": "爱泼斯坦曾订购大量硫酸",
+        "onboard_time": 1770625401,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 148688,
+        "num": 185458,
+        "word": "成何体统",
+        "onboard_time": 1770624860,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44998,
+        "num": 183499,
+        "word": "今年春节的汉范儿超标了",
+        "onboard_time": 1770631462,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138966,
+        "num": 181910,
+        "word": "刘宇宁你好星期六录制上班",
+        "onboard_time": 1770632181,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36407,
+        "num": 180415,
+        "word": "偏方缓解情绪小青盒整顿流感",
+        "onboard_time": 1770631462,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 27983,
+        "num": 180253,
+        "word": "印度飞饼师傅被认定专家最新进展",
+        "onboard_time": 1770633082,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 589382,
+        "num": 178196,
+        "word": "孙怡 至今没发现长得高的坏处",
+        "onboard_time": 1770629420,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116518,
+        "num": 177003,
+        "word": "Bin回家了",
+        "onboard_time": 1770629181,
+        "rank": 21,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 88135,
+        "num": 175401,
+        "word": "拼多多上体面又好吃的坚果礼盒",
+        "onboard_time": 1770630261,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 419882,
+        "num": 174683,
+        "word": "时代峰峻只包1场",
+        "onboard_time": 1770627321,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 86359,
+        "num": 173401,
+        "word": "专家建议所有旅客直接上12306买票",
+        "onboard_time": 1770632060,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 387594,
+        "num": 171579,
+        "word": "包文婧因女儿饺子生二胎",
+        "onboard_time": 1770627981,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206329,
+        "num": 170841,
+        "word": "瑶一瑶小肉包1分钟视频报价45万",
+        "onboard_time": 1770624860,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 135145,
+        "num": 169269,
+        "word": "谷爱凌含泪说怕不能再滑雪了",
+        "onboard_time": 1770624742,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93405,
+        "num": 167586,
+        "word": "seedance 2.0",
+        "onboard_time": 1770632902,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 102272,
+        "num": 167146,
+        "word": "25岁海警遭暴力抗法壮烈牺牲",
+        "onboard_time": 1770629721,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166292,
+        "num": 166292,
+        "word": "权珉娥医美后毁容",
+        "onboard_time": 1770619159,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140283,
+        "num": 153821,
+        "word": "爱吃桃酥的人天塌了",
+        "onboard_time": 1770612801,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 151103,
+        "num": 151103,
+        "word": "任敏素颜",
+        "onboard_time": 1770629122,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33091,
+        "num": 144843,
+        "word": "官方通报僧人欲跳江被劝止",
+        "onboard_time": 1770633261,
+        "rank": 33,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 142349,
+        "num": 142349,
+        "word": "丝芭的清华理工科直博",
+        "onboard_time": 1770629780,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135710,
+        "num": 135710,
+        "word": "邓超 你们耍我",
+        "onboard_time": 1770629600,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109470,
+        "num": 134992,
+        "word": "易烊千玺十年前的子弹正中眉心",
+        "onboard_time": 1770632360,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 26117,
+        "num": 134176,
+        "word": "张峻豪看完上吊的力气都没了",
+        "onboard_time": 1770632480,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94931,
+        "num": 133817,
+        "word": "在韩国大学吃胖的人出现了",
+        "onboard_time": 1770632000,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 39429,
+        "num": 132947,
+        "word": "上海小南国多家门店停业消费者发声",
+        "onboard_time": 1770633201,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132350,
+        "num": 132350,
+        "word": "吴彤经历了一次病危",
+        "onboard_time": 1770630801,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116859,
+        "num": 116859,
+        "word": "张元英 镜头",
+        "onboard_time": 1770633140,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17660,
+        "num": 115966,
+        "word": "今年过年出站谁在等你",
+        "onboard_time": 1770626181,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115917,
+        "num": 115917,
+        "word": "金智秀宝可梦合作",
+        "onboard_time": 1770631462,
+        "rank": 43,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 105014,
+        "num": 105014,
+        "word": "王安宇你脊柱侧弯吗",
+        "onboard_time": 1770629420,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89057,
+        "num": 101727,
+        "word": "英国名媛称未入爱泼斯坦档案是侮辱",
+        "onboard_time": 1770622879,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 100237,
+        "num": 100237,
+        "word": "于正瘦成了自己最满意的样子",
+        "onboard_time": 1770630859,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98946,
+        "num": 98946,
+        "word": "成何体统直播",
+        "onboard_time": 1770622879,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80747,
+        "num": 90956,
+        "word": "超级碗中场秀激怒特朗普",
+        "onboard_time": 1770626421,
+        "rank": 48,
+        "category": "国际时政,体育"
+      },
+      {
+        "raw_hot": 90945,
+        "num": 90945,
+        "word": "张艺谋易烊千玺朱一龙坐一起",
+        "onboard_time": 1770630980,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在北京考察科技创新工作#"
+    }
+  }
+}
