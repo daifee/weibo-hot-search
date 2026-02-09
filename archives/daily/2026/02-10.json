@@ -1,0 +1,411 @@
+{
+  "startTime": 1770653180155,
+  "endTime": 1770653180155,
+  "band_list": [
+    {
+      "raw_hot": 588753,
+      "num": 126620,
+      "word": "易烊千玺打耳洞了",
+      "onboard_time": 1770647362,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 518414,
+      "num": 1041713,
+      "word": "开始推理吧4",
+      "onboard_time": 1770644843,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 505703,
+      "num": 174705,
+      "word": "保姆按要求分房睡老人离世成被告",
+      "onboard_time": 1770644720,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 399787,
+      "num": 779368,
+      "word": "车厘子价格崩了口感也崩了",
+      "onboard_time": 1770650421,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 397540,
+      "num": 166527,
+      "word": "金晨风波后现身澳门",
+      "onboard_time": 1770646761,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 381735,
+      "num": 381735,
+      "word": "谷爱凌回应米兰冬奥银牌",
+      "onboard_time": 1770644902,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 343538,
+      "num": 162266,
+      "word": "时代少年团 外务",
+      "onboard_time": 1770647780,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 288716,
+      "num": 158017,
+      "word": "爱泼斯坦被爆可能没死",
+      "onboard_time": 1770638720,
+      "rank": 13,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 241351,
+      "num": 241351,
+      "word": "南京博物院事件最新通报",
+      "onboard_time": 1770642861,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 240564,
+      "num": 155611,
+      "word": "男子让6个月孩子看电视女友劝阻后被打",
+      "onboard_time": 1770646462,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 211076,
+      "num": 211076,
+      "word": "一个普通人被121个热搜改变之后",
+      "onboard_time": 1770649222,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 206089,
+      "num": 206089,
+      "word": "谷爱凌决赛",
+      "onboard_time": 1770635721,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 195852,
+      "num": 195852,
+      "word": "陈飞宇 阿瑟帅回宫了",
+      "onboard_time": 1770645922,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 194260,
+      "num": 194260,
+      "word": "网传开推4没有迪丽热巴",
+      "onboard_time": 1770645800,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 175436,
+      "num": 175436,
+      "word": "谷爱凌冬奥银牌",
+      "onboard_time": 1770641722,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 153117,
+      "num": 153117,
+      "word": "丝芭学历最高的人出现了",
+      "onboard_time": 1770636680,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 141491,
+      "num": 125736,
+      "word": "生命树白菊爆头",
+      "onboard_time": 1770651500,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 141486,
+      "num": 141486,
+      "word": "小马糕",
+      "onboard_time": 1770648442,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 127736,
+      "num": 127736,
+      "word": "张艺谋看王鹤棣这小伙子有礼貌",
+      "onboard_time": 1770650481,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 125539,
+      "num": 125539,
+      "word": "多只小鸟撞西安万象城玻璃墙死亡",
+      "onboard_time": 1770641060,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125104,
+      "num": 125104,
+      "word": "至此生命树已成艺术",
+      "onboard_time": 1770648863,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 120664,
+      "num": 120664,
+      "word": "男子在女厕所偷拍摔倒被当场抓获",
+      "onboard_time": 1770649162,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116458,
+      "num": 116458,
+      "word": "郑钦文vs肯宁",
+      "onboard_time": 1770642202,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 112297,
+      "num": 112297,
+      "word": "吴克群说做自媒体拍吃喝很无聊",
+      "onboard_time": 1770650660,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 105242,
+      "num": 105242,
+      "word": "谷爱凌第一跳后哭了",
+      "onboard_time": 1770640760,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 102636,
+      "num": 102636,
+      "word": "这家人的住商好高",
+      "onboard_time": 1770642983,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 99633,
+      "num": 99633,
+      "word": "谷爱凌第二滑23.00分",
+      "onboard_time": 1770640338,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 93155,
+      "num": 93155,
+      "word": "只要华为不跪产品就不贵",
+      "onboard_time": 1770642263,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 91833,
+      "num": 127490,
+      "word": "谷爱凌青花瓷龙战袍绝美",
+      "onboard_time": 1770649466,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 91089,
+      "num": 91089,
+      "word": "王者马年限定皮肤全家福",
+      "onboard_time": 1770647723,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 86131,
+      "num": 86131,
+      "word": "张元英 镜头",
+      "onboard_time": 1770633140,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 86006,
+      "num": 86006,
+      "word": "奚梦瑶三步变超模脸",
+      "onboard_time": 1770639379,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 84477,
+      "num": 84477,
+      "word": "生命树",
+      "onboard_time": 1770637941,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 83969,
+      "num": 83969,
+      "word": "白鹿赵晴对手戏",
+      "onboard_time": 1770652220,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 82022,
+      "num": 81977,
+      "word": "杨幂被朱一龙吓到尖叫",
+      "onboard_time": 1770639140,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 82019,
+      "num": 82019,
+      "word": "桃黑黑直播",
+      "onboard_time": 1770652160,
+      "rank": 37,
+      "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 81867,
+      "num": 81867,
+      "word": "网传丁程鑫常驻开推4",
+      "onboard_time": 1770647542,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 79678,
+      "num": 78718,
+      "word": "谷爱凌跟妈妈边抱边哭40秒",
+      "onboard_time": 1770643701,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 79180,
+      "num": 79180,
+      "word": "郑钦文复出首秀20记ACE",
+      "onboard_time": 1770652702,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 78185,
+      "num": 78185,
+      "word": "郑钦文逆转前澳网冠军",
+      "onboard_time": 1770652400,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 76314,
+      "num": 76314,
+      "word": "迪丽热巴爸爸的唱功",
+      "onboard_time": 1770651860,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 75228,
+      "num": 75228,
+      "word": "杨洋吸血鬼伯爵",
+      "onboard_time": 1770635480,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 71871,
+      "num": 71871,
+      "word": "王者荣耀",
+      "onboard_time": 1770648623,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 71851,
+      "num": 71851,
+      "word": "太平年赵匡胤杯酒释兵权这段",
+      "onboard_time": 1770652940,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 68684,
+      "num": 68684,
+      "word": "陈梦去看谷爱凌决赛了",
+      "onboard_time": 1770647061,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 68578,
+      "num": 68578,
+      "word": "宝宝爬到床边爸爸睡梦中惊醒抓住",
+      "onboard_time": 1770648742,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 53166,
+      "num": 127091,
+      "word": "南博成立藏品管理社会监督委员会",
+      "onboard_time": 1770652461,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 46434,
+      "num": 81872,
+      "word": "刘少昂米兰奥运村选pin",
+      "onboard_time": 1770652760,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 45315,
+      "num": 612318,
+      "word": "动车组终点站有科幻片那味儿了",
+      "onboard_time": 1770642621,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 4847,
+      "num": 84876,
+      "word": "问界M9车主聚会堪比春晚",
+      "onboard_time": 1770648682,
+      "rank": 34,
+      "category": "汽车"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#读懂总书记这次考察的三个不一般#"
+    }
+  ]
+}
