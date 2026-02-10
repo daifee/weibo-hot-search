@@ -1,0 +1,410 @@
+{
+  "runTime": 1770707761655,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1123171,
+        "num": 1179707,
+        "word": "瑞幸 错别字",
+        "onboard_time": 1770701960,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 841846,
+        "num": 853938,
+        "word": "元宝微信发红包",
+        "onboard_time": 1770700279,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 17947,
+        "num": 668773,
+        "word": "中国人自己的新年气氛组",
+        "onboard_time": 1770691340,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 658490,
+        "num": 658490,
+        "word": "金像奖提名",
+        "onboard_time": 1770705621,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 636919,
+        "num": 636919,
+        "word": "陈星旭 没提前让我背稿",
+        "onboard_time": 1770705919,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 509843,
+        "num": 509843,
+        "word": "骑手给妻子换手机被反复要求退货",
+        "onboard_time": 1770701359,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 510858,
+        "num": 446701,
+        "word": "我们的少年时代2",
+        "onboard_time": 1770699381,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 293579,
+        "num": 293579,
+        "word": "黑神话钟馗",
+        "onboard_time": 1770691221,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 253208,
+        "num": 253208,
+        "word": "46岁女儿被89岁妈妈轻拍哄睡",
+        "onboard_time": 1770700581,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84681,
+        "num": 243839,
+        "word": "浙江省坚决拥护党中央决定",
+        "onboard_time": 1770706939,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 296796,
+        "num": 242208,
+        "word": "易烊千玺 别剧透",
+        "onboard_time": 1770702980,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240515,
+        "num": 240515,
+        "word": "杨紫迎来剧生嫡长女",
+        "onboard_time": 1770704719,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 229786,
+        "num": 229786,
+        "word": "易炼红被查",
+        "onboard_time": 1770687438,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 225390,
+        "num": 225390,
+        "word": "喜人脱口秀演员 后台变脸",
+        "onboard_time": 1770705978,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216124,
+        "num": 216124,
+        "word": "谷爱凌回应特朗普大骂冬奥运动员",
+        "onboard_time": 1770694280,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 210218,
+        "num": 210218,
+        "word": "车祸后妹妹以为冷却液是血嚎啕大哭",
+        "onboard_time": 1770699020,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22805,
+        "num": 166042,
+        "word": "南北过小年都爱轻松聚",
+        "onboard_time": 1770707059,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154128,
+        "num": 154128,
+        "word": "虞书欣新歌WouldYouLikeThat",
+        "onboard_time": 1770704899,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 153438,
+        "num": 153438,
+        "word": "元宝回应微信福袋",
+        "onboard_time": 1770704240,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 130711,
+        "num": 130711,
+        "word": "外卖员跑腿买药被判贩卖毒品罪",
+        "onboard_time": 1770699979,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 359172,
+        "num": 130608,
+        "word": "弯刀裤",
+        "onboard_time": 1770694219,
+        "rank": 20,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 176020,
+        "num": 130467,
+        "word": "安徽一大姨烫头6小时狗都等emo了",
+        "onboard_time": 1770705141,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143913,
+        "num": 130386,
+        "word": "杨紫新剧1集头发全白了",
+        "onboard_time": 1770696800,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129982,
+        "num": 129982,
+        "word": "成毅杀青不限量奶茶",
+        "onboard_time": 1770700941,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 128446,
+        "num": 129470,
+        "word": "女子孕期被疑出轨公公转650万安抚",
+        "onboard_time": 1770655698,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129401,
+        "num": 129401,
+        "word": "AI短剧",
+        "onboard_time": 1770696980,
+        "rank": 25,
+        "category": "互联网,剧集"
+      },
+      {
+        "raw_hot": 127338,
+        "num": 127338,
+        "word": "BLACKPINK什么时候换人了",
+        "onboard_time": 1770704839,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 120319,
+        "num": 120319,
+        "word": "山东金矿事故致7死11人被控制",
+        "onboard_time": 1770705381,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101865,
+        "num": 101865,
+        "word": "金枝",
+        "onboard_time": 1770686719,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99761,
+        "num": 99761,
+        "word": "隐性嫉妒",
+        "onboard_time": 1770705801,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 95084,
+        "num": 95084,
+        "word": "千万粉丝网红晒妻子生产过程遭质疑",
+        "onboard_time": 1770707480,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 92500,
+        "num": 92500,
+        "word": "黄子华 我到死都不用老年公交卡",
+        "onboard_time": 1770707480,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82591,
+        "num": 82591,
+        "word": "汕头亚朵酒店春节一晚4200",
+        "onboard_time": 1770696381,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86777,
+        "num": 82591,
+        "word": "李兰迪眼神满是对卢昱晓抽象的欣赏",
+        "onboard_time": 1770706041,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86408,
+        "num": 82559,
+        "word": "春节档预售票房",
+        "onboard_time": 1770704899,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 22796,
+        "num": 82541,
+        "word": "在青岛举杯接福",
+        "onboard_time": 1770703400,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43308,
+        "num": 82533,
+        "word": "央视采访能开美颜吗",
+        "onboard_time": 1770707241,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56839,
+        "num": 82519,
+        "word": "男子用妻子生日号中2个千万大奖",
+        "onboard_time": 1770707241,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22871,
+        "num": 82490,
+        "word": "俄称若遭欧洲攻击将全面反击",
+        "onboard_time": 1770706820,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 16784,
+        "num": 82477,
+        "word": "杭州春运路上福气值拉满",
+        "onboard_time": 1770706880,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82468,
+        "num": 82468,
+        "word": "小年",
+        "onboard_time": 1770678136,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80777,
+        "num": 80777,
+        "word": "中国短道速滑冲金",
+        "onboard_time": 1770703462,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 50595,
+        "num": 80265,
+        "word": "千年古树燃烧近10小时后还活着",
+        "onboard_time": 1770707720,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80052,
+        "num": 80052,
+        "word": "谷爱凌错失金牌根本原因",
+        "onboard_time": 1770689660,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 58905,
+        "num": 78677,
+        "word": "哪个瞬间突然觉得父母老了",
+        "onboard_time": 1770707539,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 78169,
+        "num": 78169,
+        "word": "蔡徐坤colder花絮",
+        "onboard_time": 1770704539,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 10031,
+        "num": 77676,
+        "word": "记者实测Seedance2.0",
+        "onboard_time": 1770707181,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 77432,
+        "num": 77432,
+        "word": "孙颖莎ELLE开季封面预告",
+        "onboard_time": 1770693320,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77281,
+        "num": 77281,
+        "word": "2026央视网络春晚节目单来了",
+        "onboard_time": 1770693741,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 76066,
+        "num": 76066,
+        "word": "李一桐陈星旭领衔主演金枝",
+        "onboard_time": 1770689299,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记关注科技自立自强#"
+    }
+  }
+}
