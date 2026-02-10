@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1770743525576,
+  "endTime": 1770744915264,
   "band_list": [
     {
       "raw_hot": 12386962,
@@ -8740,7 +8740,7 @@
     },
     {
       "raw_hot": 218530,
-      "num": 218530,
+      "num": 302310,
       "word": "韩媒质问这还是体育吗",
       "onboard_time": 1770736941,
       "rank": 5,
@@ -15457,6 +15457,14 @@
       "onboard_time": 1769958802,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 113419,
+      "num": 113419,
+      "word": "王濛说中国队尽力了",
+      "onboard_time": 1770741138,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 113328,
@@ -22243,6 +22251,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 78913,
+      "num": 78913,
+      "word": "米兰的冰有点软",
+      "onboard_time": 1770740420,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 78904,
       "num": 182016,
       "word": "挪瓦为咖啡人喊话千问免单咖啡",
@@ -23427,14 +23443,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 70447,
-      "num": 102552,
-      "word": "王濛说中国队尽力了",
-      "onboard_time": 1770741138,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 70206,
       "num": 141506,
       "word": "高铁部分车次已有遛娃舱",
@@ -24489,14 +24497,6 @@
       "onboard_time": 1770220041,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 60973,
-      "num": 60973,
-      "word": "米兰的冰有点软",
-      "onboard_time": 1770740420,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 60889,
@@ -26371,6 +26371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 40724,
+      "num": 45521,
+      "word": "这3件事是生命力的表现",
+      "onboard_time": 1770739101,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 40579,
       "num": 90901,
       "word": "日男子诱骗单亲妈妈拍女儿私密视频",
@@ -26899,6 +26907,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 35912,
+      "num": 35912,
+      "word": "成毅两京十五日杀青",
+      "onboard_time": 1770743598,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 35807,
       "num": 72716,
       "word": "日本选民直言谁当选都一样",
@@ -27025,14 +27041,6 @@
       "onboard_time": 1769865382,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 34721,
-      "num": 45521,
-      "word": "这3件事是生命力的表现",
-      "onboard_time": 1770739101,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 34575,
@@ -28025,6 +28033,14 @@
       "onboard_time": 1770614000,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 26235,
+      "num": 34560,
+      "word": "汪苏泷十万伏特live",
+      "onboard_time": 1770744018,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 26232,

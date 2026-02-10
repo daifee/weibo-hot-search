@@ -1,6 +1,6 @@
 {
   "startTime": 1770743525576,
-  "endTime": 1770743525576,
+  "endTime": 1770744915264,
   "band_list": [
     {
       "raw_hot": 431965,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 218530,
-      "num": 218530,
+      "num": 302310,
       "word": "韩媒质问这还是体育吗",
       "onboard_time": 1770736941,
       "rank": 3,
@@ -123,6 +123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 113419,
+      "num": 113419,
+      "word": "王濛说中国队尽力了",
+      "onboard_time": 1770741138,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106448,
       "num": 100075,
       "word": "王曼昱决胜局擦边球尊重裁判",
@@ -171,6 +179,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 78913,
+      "num": 78913,
+      "word": "米兰的冰有点软",
+      "onboard_time": 1770740420,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 75222,
+      "num": 75222,
+      "word": "74岁肥猫被医生建议注射药物镇痛",
+      "onboard_time": 1770729741,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 70459,
       "num": 70459,
       "word": "12306回应高铁座椅钻出活蜥蜴",
@@ -179,36 +203,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 70447,
-      "num": 102552,
-      "word": "王濛说中国队尽力了",
-      "onboard_time": 1770741138,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 69072,
-      "num": 69072,
-      "word": "74岁肥猫被医生建议注射药物镇痛",
-      "onboard_time": 1770729741,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 62964,
       "num": 62964,
       "word": "生命树最讽刺的一幕",
       "onboard_time": 1770732321,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 60973,
-      "num": 60973,
-      "word": "米兰的冰有点软",
-      "onboard_time": 1770740420,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 58680,
@@ -315,6 +315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 40724,
+      "num": 45521,
+      "word": "这3件事是生命力的表现",
+      "onboard_time": 1770739101,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 39631,
       "num": 45565,
       "word": "郑则仕因不想终生注射药物开始跑步",
@@ -355,20 +363,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 35912,
+      "num": 35912,
+      "word": "成毅两京十五日杀青",
+      "onboard_time": 1770743598,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 35349,
       "num": 45531,
       "word": "惊蛰无声预售票房",
       "onboard_time": 1770737661,
       "rank": 45,
       "category": "电影"
-    },
-    {
-      "raw_hot": 34721,
-      "num": 45521,
-      "word": "这3件事是生命力的表现",
-      "onboard_time": 1770739101,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 33826,
@@ -401,11 +409,22 @@
       "onboard_time": 1770729920,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26235,
+      "num": 34560,
+      "word": "汪苏泷十万伏特live",
+      "onboard_time": 1770744018,
+      "rank": 47,
+      "category": "音乐"
     }
   ],
   "hotgov_list": [
     {
       "word": "#习近平在北京看望慰问基层干部群众#"
+    },
+    {
+      "word": "#总书记向大家拜年#"
     }
   ]
 }
