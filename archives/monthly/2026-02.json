@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1770709175999,
+  "endTime": 1770714357627,
   "band_list": [
     {
       "raw_hot": 12386962,
@@ -809,6 +809,14 @@
       "onboard_time": 1769945661,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1046313,
+      "num": 213311,
+      "word": "白鹿孟子义一起去了大孤山",
+      "onboard_time": 1770711678,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1045088,
@@ -2443,6 +2451,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 564235,
+      "num": 564235,
+      "word": "薛之谦万兽之王演唱会官宣",
+      "onboard_time": 1770709639,
+      "rank": 3,
+      "category": "演出"
+    },
+    {
       "raw_hot": 562288,
       "num": 314946,
       "word": "这还是我认识的锤娜丽莎吗",
@@ -3889,6 +3905,14 @@
       "onboard_time": 1770552741,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 414967,
+      "num": 219702,
+      "word": "千万粉丝网红晒妻子生产过程遭质疑",
+      "onboard_time": 1770707480,
+      "rank": 30,
+      "category": "网红"
     },
     {
       "raw_hot": 414795,
@@ -5675,6 +5699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 315708,
+      "num": 315708,
+      "word": "铁路回应女乘务员裙装换裤装建议",
+      "onboard_time": 1770708319,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 315169,
       "num": 315169,
       "word": "张本美和采访哭了",
@@ -6507,6 +6539,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 274749,
+      "num": 213010,
+      "word": "爱泼斯坦案出现一名9岁受害者",
+      "onboard_time": 1770711800,
+      "rank": 12,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 274555,
       "num": 193451,
       "word": "陛下 How are you",
@@ -6889,14 +6929,6 @@
       "onboard_time": 1770538219,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 259450,
-      "num": 219702,
-      "word": "千万粉丝网红晒妻子生产过程遭质疑",
-      "onboard_time": 1770707480,
-      "rank": 30,
-      "category": "网红"
     },
     {
       "raw_hot": 259127,
@@ -8483,12 +8515,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 213362,
+      "num": 213362,
+      "word": "两周内三名正部级落马",
+      "onboard_time": 1770710600,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 213272,
       "num": 161593,
       "word": "断联一年的闺蜜突然发消息",
       "onboard_time": 1770524901,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 212888,
+      "num": 212888,
+      "word": "大孤山到底有谁在啊",
+      "onboard_time": 1770712701,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 212355,
@@ -8883,6 +8931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199349,
+      "num": 199349,
+      "word": "两京十五日",
+      "onboard_time": 1770713361,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 199243,
       "num": 199243,
       "word": "蒯曼铜牌",
@@ -9009,6 +9065,14 @@
       "onboard_time": 1770169938,
       "rank": 15,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 196534,
+      "num": 196534,
+      "word": "黄子华 我到死都不用老年公交卡",
+      "onboard_time": 1770707480,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 196493,
@@ -9873,6 +9937,14 @@
       "onboard_time": 1770565401,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 174378,
+      "num": 204070,
+      "word": "隐性嫉妒",
+      "onboard_time": 1770705801,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 173995,
@@ -11153,6 +11225,14 @@
       "onboard_time": 1770350241,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 150312,
+      "num": 150312,
+      "word": "金像奖最佳女配角提名",
+      "onboard_time": 1770712039,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 150244,
@@ -12459,14 +12539,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 134145,
-      "num": 134145,
-      "word": "隐性嫉妒",
-      "onboard_time": 1770705801,
-      "rank": 29,
-      "category": "情感"
-    },
-    {
       "raw_hot": 134140,
       "num": 623718,
       "word": "卫健委回应湖北部分精神病院问题",
@@ -12721,14 +12793,6 @@
       "onboard_time": 1770040162,
       "rank": 30,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 131319,
-      "num": 131319,
-      "word": "黄子华 我到死都不用老年公交卡",
-      "onboard_time": 1770707480,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 131238,
@@ -13017,6 +13081,14 @@
       "onboard_time": 1770481400,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 127804,
+      "num": 118444,
+      "word": "酱园弄男主女配男配0提名",
+      "onboard_time": 1770712820,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 127736,
@@ -14377,6 +14449,14 @@
       "onboard_time": 1770390022,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 116197,
+      "num": 116197,
+      "word": "单身即地狱5",
+      "onboard_time": 1770712220,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 115799,
@@ -18331,6 +18411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 92499,
+      "num": 92499,
+      "word": "A股全线大涨原因找到了",
+      "onboard_time": 1770708561,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 92454,
       "num": 138758,
       "word": "大扫除时霉菌是怎么进入大脑的",
@@ -19707,6 +19795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 86024,
+      "num": 86024,
+      "word": "蔡徐坤colder花絮",
+      "onboard_time": 1770704539,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 85931,
       "num": 85931,
       "word": "白银再爆发",
@@ -20371,6 +20467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 82834,
+      "num": 82834,
+      "word": "柳智敏实物比例",
+      "onboard_time": 1770708800,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 82783,
       "num": 82783,
       "word": "千问称免单权益禁止倒卖",
@@ -20529,14 +20633,6 @@
       "onboard_time": 1770428600,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 81640,
-      "num": 77827,
-      "word": "柳智敏实物比例",
-      "onboard_time": 1770708800,
-      "rank": 46,
-      "category": "演出"
     },
     {
       "raw_hot": 81618,
@@ -21315,14 +21411,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 78169,
-      "num": 78169,
-      "word": "蔡徐坤colder花絮",
-      "onboard_time": 1770704539,
-      "rank": 45,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 78132,
       "num": 78132,
       "word": "坦克没有后视镜 但吴京有兔耳朵",
@@ -21344,6 +21432,14 @@
       "word": "闪耀暖暖",
       "onboard_time": 1770603019,
       "rank": 38,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 77601,
+      "num": 77601,
+      "word": "查理苏财神",
+      "onboard_time": 1770713960,
+      "rank": 43,
       "category": "游戏"
     },
     {
@@ -21459,6 +21555,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 77084,
+      "num": 77084,
+      "word": "我不在意你了 我在意大利",
+      "onboard_time": 1770711920,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 77075,
       "num": 77075,
       "word": "年夜饭试试这道漂亮菜",
@@ -21561,6 +21665,14 @@
       "onboard_time": 1770607400,
       "rank": 42,
       "category": "财经"
+    },
+    {
+      "raw_hot": 76524,
+      "num": 76524,
+      "word": "我们的少年时代2六人主角团",
+      "onboard_time": 1770713781,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 76441,
@@ -21835,6 +21947,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 74631,
+      "num": 74631,
+      "word": "台独武装胆敢挑起战端必遭灭顶之灾",
+      "onboard_time": 1770711440,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 74627,
       "num": 305907,
       "word": "多地频现在编职工不在岗",
@@ -21880,6 +22000,14 @@
       "word": "姜思达说电饭锅不需要AI",
       "onboard_time": 1770607460,
       "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 74529,
+      "num": 74529,
+      "word": "乐华 NDOUBLE",
+      "onboard_time": 1770712520,
+      "rank": 48,
       "category": "艺人"
     },
     {
@@ -23291,14 +23419,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 61443,
-      "num": 147177,
-      "word": "铁路回应女乘务员裙装换裤装建议",
-      "onboard_time": 1770708319,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 61390,
       "num": 174350,
       "word": "王楚钦3连胜晋级",
@@ -23313,6 +23433,14 @@
       "onboard_time": 1770173361,
       "rank": 46,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 61205,
+      "num": 85227,
+      "word": "问AI亲生父母之间能不能结婚",
+      "onboard_time": 1770713960,
+      "rank": 37,
+      "category": "互联网"
     },
     {
       "raw_hot": 61122,
@@ -24035,6 +24163,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 51673,
+      "num": 85226,
+      "word": "即梦回应紧急下架真人素材生成",
+      "onboard_time": 1770714021,
+      "rank": 39,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 51652,
       "num": 51652,
       "word": "能激活生命力的3个爱好",
@@ -24507,6 +24643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 47548,
+      "num": 637630,
+      "word": "提供无人机破解服务是犯罪",
+      "onboard_time": 1770712759,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 47505,
       "num": 224154,
       "word": "谷爱凌期待第三次参加奥运",
@@ -24707,6 +24851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 45864,
+      "num": 85226,
+      "word": "孟子义包20场支持王鹤棣星河入梦",
+      "onboard_time": 1770713600,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 45756,
       "num": 49428,
       "word": "网友疑似污蔑存包奶奶偷包",
@@ -24745,6 +24897,14 @@
       "onboard_time": 1769988378,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 45190,
+      "num": 197204,
+      "word": "平均每天倒闭7家绝味鸭脖撑不住了",
+      "onboard_time": 1770713720,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 45117,
@@ -25939,6 +26099,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 33333,
+      "num": 196617,
+      "word": "短道速滑混团接力",
+      "onboard_time": 1770713659,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 33284,
       "num": 33284,
       "word": "苏翊鸣第二跳完成",
@@ -26505,6 +26673,14 @@
       "onboard_time": 1770161477,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28086,
+      "num": 74714,
+      "word": "小年用千问加道菜",
+      "onboard_time": 1770710481,
+      "rank": 46,
+      "category": "互联网"
     },
     {
       "raw_hot": 28021,
@@ -28563,6 +28739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 10432,
+      "num": 196707,
+      "word": "Seedance2.0生成视频可用率高达90%",
+      "onboard_time": 1770714021,
+      "rank": 18,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 10372,
       "num": 116852,
       "word": "女子在园区被罚抱水桶深蹲300个",
@@ -28721,6 +28905,14 @@
       "onboard_time": 1770212361,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 6852,
+      "num": 104124,
+      "word": "举杯青岛福气倾倒",
+      "onboard_time": 1770714259,
+      "rank": 32,
+      "category": "旅游"
     },
     {
       "raw_hot": 6719,
