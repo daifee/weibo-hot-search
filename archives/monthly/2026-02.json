@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1770732038039,
+  "endTime": 1770736011658,
   "band_list": [
     {
       "raw_hot": 12386962,
@@ -297,6 +297,14 @@
       "onboard_time": 1770642861,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1912876,
+      "num": 188327,
+      "word": "日本彻底失控",
+      "onboard_time": 1770733282,
+      "rank": 10,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1872190,
@@ -1427,6 +1435,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 811702,
+      "num": 1129872,
+      "word": "王濛快哭了",
+      "onboard_time": 1770734364,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 811116,
       "num": 445061,
       "word": "小户型去客厅化",
@@ -1756,7 +1772,7 @@
     },
     {
       "raw_hot": 711070,
-      "num": 156052,
+      "num": 183801,
       "word": "井柏然刘雯机场十指紧扣",
       "onboard_time": 1770724761,
       "rank": 34,
@@ -2145,6 +2161,14 @@
       "onboard_time": 1769867483,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 635894,
+      "num": 635894,
+      "word": "林孝埈捂脸长时间低头",
+      "onboard_time": 1770730582,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 635796,
@@ -2857,6 +2881,14 @@
       "onboard_time": 1770682700,
       "rank": 11,
       "category": "情感"
+    },
+    {
+      "raw_hot": 522429,
+      "num": 185238,
+      "word": "哇唧唧哇年会",
+      "onboard_time": 1770731420,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 521423,
@@ -3633,14 +3665,6 @@
       "onboard_time": 1770719538,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 447194,
-      "num": 447194,
-      "word": "林孝埈捂脸长时间低头",
-      "onboard_time": 1770730582,
-      "rank": 3,
-      "category": "体育"
     },
     {
       "raw_hot": 447018,
@@ -5499,6 +5523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 333554,
+      "num": 180298,
+      "word": "博主保罗在美国回应妻子状态",
+      "onboard_time": 1770733222,
+      "rank": 20,
+      "category": "网红"
+    },
+    {
       "raw_hot": 333330,
       "num": 333330,
       "word": "女子离婚5天后丈夫去世女儿成被告",
@@ -5913,6 +5945,14 @@
       "onboard_time": 1769936061,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 314013,
+      "num": 184057,
+      "word": "印度大一男生求婚遭拒将女生枪杀",
+      "onboard_time": 1770733883,
+      "rank": 13,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 313681,
@@ -7355,6 +7395,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 254971,
+      "num": 254971,
+      "word": "生命树",
+      "onboard_time": 1769852721,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 254454,
       "num": 170662,
       "word": "王玉雯说现在项目太少会尽量进组",
@@ -7505,6 +7553,14 @@
       "onboard_time": 1770297567,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 248833,
+      "num": 248833,
+      "word": "12306回应高铁座椅钻出活蜥蜴",
+      "onboard_time": 1770728421,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 248710,
@@ -8547,6 +8603,14 @@
       "category": "民生新闻,汽车"
     },
     {
+      "raw_hot": 221102,
+      "num": 221102,
+      "word": "生命树最讽刺的一幕",
+      "onboard_time": 1770732321,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 220439,
       "num": 220439,
       "word": "刘梦婷第二滑摔倒",
@@ -8673,14 +8737,6 @@
       "onboard_time": 1770298228,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 217193,
-      "num": 217193,
-      "word": "生命树",
-      "onboard_time": 1769852721,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 216684,
@@ -9123,6 +9179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 203422,
+      "num": 203422,
+      "word": "深圳一公司发巨额年终奖",
+      "onboard_time": 1770729681,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 203253,
       "num": 203253,
       "word": "时代少年团俺的图图呢",
@@ -9297,6 +9361,14 @@
       "onboard_time": 1770116120,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 197500,
+      "num": 178978,
+      "word": "杨洋换风格了",
+      "onboard_time": 1770727761,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 197489,
@@ -9595,6 +9667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 189743,
+      "num": 179505,
+      "word": "特朗普表面祝贺高市私下大发雷霆",
+      "onboard_time": 1770730102,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 189715,
       "num": 209471,
       "word": "孙颖莎逆转赢了",
@@ -9609,6 +9689,14 @@
       "onboard_time": 1770204861,
       "rank": 29,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 189274,
+      "num": 189274,
+      "word": "刘少昂回应混接无缘奖牌",
+      "onboard_time": 1770734302,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 189202,
@@ -9763,6 +9851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185707,
+      "num": 178823,
+      "word": "射雕英雄传侠之大者金像奖0提",
+      "onboard_time": 1770735323,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 185301,
       "num": 323560,
       "word": "马年的每一个假期都是马嘉祺",
@@ -9865,14 +9961,6 @@
       "onboard_time": 1770201981,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 182546,
-      "num": 142772,
-      "word": "杨洋换风格了",
-      "onboard_time": 1770727761,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 182543,
@@ -10433,14 +10521,6 @@
       "onboard_time": 1770087800,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 171281,
-      "num": 130618,
-      "word": "哇唧唧哇年会",
-      "onboard_time": 1770731420,
-      "rank": 23,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 171231,
@@ -11009,6 +11089,14 @@
       "onboard_time": 1770465200,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 158817,
+      "num": 128240,
+      "word": "李兰迪生图好美",
+      "onboard_time": 1770733523,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 158812,
@@ -13539,14 +13627,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 127956,
-      "num": 127956,
-      "word": "深圳一公司发巨额年终奖",
-      "onboard_time": 1770729681,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 127736,
       "num": 127736,
       "word": "张艺谋看王鹤棣这小伙子有礼貌",
@@ -13577,14 +13657,6 @@
       "onboard_time": 1770528320,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 127467,
-      "num": 127467,
-      "word": "12306回应高铁座椅钻出活蜥蜴",
-      "onboard_time": 1770728421,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 127391,
@@ -14241,6 +14313,14 @@
       "onboard_time": 1770370941,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 121316,
+      "num": 121316,
+      "word": "武大靖说失误确实不应该",
+      "onboard_time": 1770734002,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 121312,
@@ -14961,6 +15041,14 @@
       "onboard_time": 1770564441,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 115674,
+      "num": 115674,
+      "word": "零下20度逛吃东北早市",
+      "onboard_time": 1770735562,
+      "rank": 34,
+      "category": "美食"
     },
     {
       "raw_hot": 115561,
@@ -16163,14 +16251,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 107936,
-      "num": 107936,
-      "word": "特朗普表面祝贺高市私下大发雷霆",
-      "onboard_time": 1770730102,
-      "rank": 49,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 107853,
       "num": 107853,
       "word": "KPL",
@@ -16705,6 +16785,14 @@
       "onboard_time": 1770041604,
       "rank": 39,
       "category": "网红"
+    },
+    {
+      "raw_hot": 104797,
+      "num": 104797,
+      "word": "肖战蚌埠拍戏吃烧饼夹里脊",
+      "onboard_time": 1770735202,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 104775,
@@ -18163,6 +18251,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 97108,
+      "num": 97108,
+      "word": "公俐哭了",
+      "onboard_time": 1770734843,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 97064,
       "num": 97064,
       "word": "林孝埈感恩加入中国队",
@@ -18979,6 +19075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 92904,
+      "num": 95108,
+      "word": "刘少昂混接赛后安慰队友",
+      "onboard_time": 1770730521,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 92896,
       "num": 127487,
       "word": "第一批千问万元生活卡锦鲤已出现",
@@ -19401,6 +19505,14 @@
       "onboard_time": 1770396318,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 90946,
+      "num": 116113,
+      "word": "微博之夜红毯封神了",
+      "onboard_time": 1770732081,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 90905,
@@ -20153,6 +20265,22 @@
       "onboard_time": 1770202462,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 87587,
+      "num": 87587,
+      "word": "林孝埈李文龙场边观赛",
+      "onboard_time": 1770734122,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 87534,
+      "num": 87534,
+      "word": "雷军确认第一代SU7停产",
+      "onboard_time": 1770735861,
+      "rank": 43,
+      "category": "汽车"
     },
     {
       "raw_hot": 87527,
@@ -20915,6 +21043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 83874,
+      "num": 83787,
+      "word": "孙杨开口以为泳池来水了",
+      "onboard_time": 1770735920,
+      "rank": 47,
+      "category": "综艺,体育"
+    },
+    {
       "raw_hot": 83866,
       "num": 83866,
       "word": "胡歌欢迎马思纯",
@@ -21123,6 +21259,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 82967,
+      "num": 82967,
+      "word": "海外已夸爆Seedance2.0",
+      "onboard_time": 1770735801,
+      "rank": 49,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 82929,
       "num": 82929,
       "word": "iPhone18再爆料",
@@ -21321,6 +21465,14 @@
       "onboard_time": 1770208462,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 81894,
+      "num": 83106,
+      "word": "陈添祥柯淳姚冠宇张翅舞台很夯",
+      "onboard_time": 1770734603,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 81891,
@@ -21641,6 +21793,14 @@
       "onboard_time": 1769858781,
       "rank": 27,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 80421,
+      "num": 181423,
+      "word": "堂姐介绍已婚男致女子遇害事后失联",
+      "onboard_time": 1770735622,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 80410,
@@ -23323,6 +23483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 68989,
+      "num": 779224,
+      "word": "中国无人机大山里运腊肠",
+      "onboard_time": 1770729920,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 68959,
       "num": 144904,
       "word": "何小鹏官宣首款大六座SUV小鹏GX",
@@ -23979,14 +24147,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 63252,
-      "num": 779224,
-      "word": "中国无人机大山里运腊肠",
-      "onboard_time": 1770729920,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 63151,
       "num": 93976,
       "word": "谷爱凌决赛第11位出场",
@@ -24401,6 +24561,14 @@
       "onboard_time": 1769902157,
       "rank": 36,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 59359,
+      "num": 180811,
+      "word": "教师回应被举报强奸学生拐走孩子",
+      "onboard_time": 1770735263,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 59239,
@@ -25113,6 +25281,14 @@
       "onboard_time": 1770606380,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 50194,
+      "num": 181676,
+      "word": "遭前男友杀害女护士生前日记本曝光",
+      "onboard_time": 1770735142,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 50131,
@@ -29966,6 +30142,9 @@
     },
     {
       "word": "#总书记向大家拜年#"
+    },
+    {
+      "word": "#习近平在北京看望慰问基层干部群众#"
     }
   ]
 }

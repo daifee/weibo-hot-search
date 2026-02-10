@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1770732038039,
+  "endTime": 1770736011658,
   "band_list": [
     {
       "raw_hot": 22742360,
@@ -881,6 +881,14 @@
       "onboard_time": 1769058561,
       "rank": 3,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1912876,
+      "num": 188327,
+      "word": "日本彻底失控",
+      "onboard_time": 1770733282,
+      "rank": 10,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1906595,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1768984341,
       "rank": 30,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 1102189,
-      "num": 1162180,
-      "word": "聂卫平逝世",
-      "onboard_time": 1768435160,
-      "rank": 1,
-      "category": "体育"
     }
   ],
   "hotgov_list": [
