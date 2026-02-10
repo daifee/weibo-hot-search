@@ -1,0 +1,410 @@
+{
+  "runTime": 1770700298289,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 723512,
+        "num": 1115761,
+        "word": "易炼红被查",
+        "onboard_time": 1770687438,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 428440,
+        "num": 819580,
+        "word": "2026央视网络春晚节目单来了",
+        "onboard_time": 1770693741,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 4016,
+        "num": 651948,
+        "word": "来北京过年吧",
+        "onboard_time": 1770691880,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 306823,
+        "num": 306823,
+        "word": "黑神话钟馗",
+        "onboard_time": 1770691221,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 911735,
+        "num": 299085,
+        "word": "弯刀裤",
+        "onboard_time": 1770694219,
+        "rank": 4,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 287455,
+        "num": 287455,
+        "word": "汕头亚朵酒店春节一晚4200",
+        "onboard_time": 1770696381,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 684023,
+        "num": 247544,
+        "word": "蔡徐坤扫楼",
+        "onboard_time": 1770696080,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 538677,
+        "num": 215794,
+        "word": "杨紫新剧1集头发全白了",
+        "onboard_time": 1770696800,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182200,
+        "num": 182200,
+        "word": "22岁当村支书28岁晒成绩火了",
+        "onboard_time": 1770689539,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161291,
+        "num": 161291,
+        "word": "AI短剧",
+        "onboard_time": 1770696980,
+        "rank": 9,
+        "category": "互联网,剧集"
+      },
+      {
+        "raw_hot": 1117167,
+        "num": 161290,
+        "word": "谷爱凌回应特朗普大骂冬奥运动员",
+        "onboard_time": 1770694280,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 474918,
+        "num": 161267,
+        "word": "订婚强奸案女方身上淤青清清楚楚",
+        "onboard_time": 1770694519,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 390739,
+        "num": 161230,
+        "word": "女子孕期被疑出轨公公转650万安抚",
+        "onboard_time": 1770655698,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 257115,
+        "num": 161220,
+        "word": "不要对AI说谢谢",
+        "onboard_time": 1770681980,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 229888,
+        "num": 161203,
+        "word": "宋威龙赵今麦代言娇兰",
+        "onboard_time": 1770699080,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217982,
+        "num": 161172,
+        "word": "孙颖莎ELLE开季封面预告",
+        "onboard_time": 1770693320,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209758,
+        "num": 161157,
+        "word": "谷爱凌错失金牌根本原因",
+        "onboard_time": 1770689660,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 224361,
+        "num": 161139,
+        "word": "宋威龙赵今麦贴脸比心",
+        "onboard_time": 1770690858,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143385,
+        "num": 161115,
+        "word": "外国游客被长白山百万皇冠整破防了",
+        "onboard_time": 1770689539,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32133,
+        "num": 161095,
+        "word": "白客说马年要放自己一马",
+        "onboard_time": 1770696260,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20077,
+        "num": 161076,
+        "word": "外卖员跑腿买药被判贩卖毒品罪",
+        "onboard_time": 1770699979,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183968,
+        "num": 161038,
+        "word": "家长把4岁和8岁孩子塞进后备箱返乡",
+        "onboard_time": 1770687500,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 346400,
+        "num": 161028,
+        "word": "董璇张维伊陪小酒窝上课",
+        "onboard_time": 1770698000,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274026,
+        "num": 161007,
+        "word": "车祸后妹妹以为冷却液是血嚎啕大哭",
+        "onboard_time": 1770699020,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 230331,
+        "num": 160984,
+        "word": "向太自曝因脑下垂体瘤一直发胖",
+        "onboard_time": 1770697580,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181575,
+        "num": 160965,
+        "word": "李一桐陈星旭领衔主演金枝",
+        "onboard_time": 1770689299,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135634,
+        "num": 160941,
+        "word": "女硕士当礼品规划师月入20万",
+        "onboard_time": 1770696800,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160928,
+        "num": 160928,
+        "word": "金枝",
+        "onboard_time": 1770686719,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160717,
+        "num": 160717,
+        "word": "虞书欣诉黑粉名誉侵权",
+        "onboard_time": 1770692539,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113788,
+        "num": 149719,
+        "word": "刘少昂林孝埈孙龙米兰冬奥首秀",
+        "onboard_time": 1770699020,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142731,
+        "num": 142731,
+        "word": "哈登关键绝平三分",
+        "onboard_time": 1770699801,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142260,
+        "num": 142260,
+        "word": "我们的少年时代2",
+        "onboard_time": 1770699381,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138037,
+        "num": 138037,
+        "word": "当我冷脸和EXO合照",
+        "onboard_time": 1770698241,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123209,
+        "num": 123209,
+        "word": "羊了个羊",
+        "onboard_time": 1770699439,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 119916,
+        "num": 119916,
+        "word": "光与夜之恋",
+        "onboard_time": 1770686422,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 118397,
+        "num": 118397,
+        "word": "胡意旋工伤2.0",
+        "onboard_time": 1770692480,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115961,
+        "num": 115961,
+        "word": "辛芷蕾威尼斯之后的变化",
+        "onboard_time": 1770691999,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115740,
+        "num": 115740,
+        "word": "小年",
+        "onboard_time": 1770678136,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57783,
+        "num": 115181,
+        "word": "91岁爷爷百米跑出18秒61",
+        "onboard_time": 1770699679,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95883,
+        "num": 113969,
+        "word": "恰逢雨连天男主",
+        "onboard_time": 1770699201,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107471,
+        "num": 112903,
+        "word": "人只是一块生肉",
+        "onboard_time": 1770697940,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 117292,
+        "num": 111625,
+        "word": "谢永儿官配",
+        "onboard_time": 1770686000,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 111327,
+        "num": 111327,
+        "word": "内耗的人一定要去一次鄂尔多斯",
+        "onboard_time": 1770698120,
+        "rank": 42,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 109055,
+        "num": 109055,
+        "word": "李信伽罗明世隐水墨皮肤",
+        "onboard_time": 1770699561,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 105013,
+        "num": 105013,
+        "word": "仙逆打戏",
+        "onboard_time": 1770700042,
+        "rank": 44,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 100432,
+        "num": 100432,
+        "word": "杨幂朱一龙相识20年首合作",
+        "onboard_time": 1770700042,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 100144,
+        "num": 100144,
+        "word": "骑士战胜掘金",
+        "onboard_time": 1770700042,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96764,
+        "num": 96764,
+        "word": "成龙问乔杉为什么不屑谢霆锋",
+        "onboard_time": 1770695060,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94808,
+        "num": 94808,
+        "word": "金枝开机",
+        "onboard_time": 1770687259,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94653,
+        "num": 94653,
+        "word": "元宝微信发红包",
+        "onboard_time": 1770700279,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记关注科技自立自强#"
+    }
+  }
+}
