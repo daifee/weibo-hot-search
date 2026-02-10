@@ -1,6 +1,6 @@
 {
   "startTime": 1770653180155,
-  "endTime": 1770692126395,
+  "endTime": 1770694839091,
   "band_list": [
     {
       "raw_hot": 1559474,
@@ -19,12 +19,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1060406,
+      "num": 796467,
+      "word": "农村抑郁症确诊率低自杀率反而更高",
+      "onboard_time": 1770692599,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 965200,
       "num": 965200,
       "word": "谷爱凌错失金牌根本原因",
       "onboard_time": 1770689660,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 782520,
+      "num": 184991,
+      "word": "孙颖莎ELLE开季封面预告",
+      "onboard_time": 1770693320,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 767633,
+      "num": 767633,
+      "word": "黑神话钟馗",
+      "onboard_time": 1770691221,
+      "rank": 6,
+      "category": "游戏"
     },
     {
       "raw_hot": 588753,
@@ -67,20 +91,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 477683,
+      "num": 220123,
+      "word": "宋威龙赵今麦贴脸比心",
+      "onboard_time": 1770690858,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 467380,
       "num": 467380,
       "word": "不要对AI说谢谢",
       "onboard_time": 1770681980,
       "rank": 3,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 450894,
-      "num": 220123,
-      "word": "宋威龙赵今麦贴脸比心",
-      "onboard_time": 1770690858,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 417076,
@@ -124,7 +148,7 @@
     },
     {
       "raw_hot": 383197,
-      "num": 383197,
+      "num": 851873,
       "word": "22岁当村支书28岁晒成绩火了",
       "onboard_time": 1770689539,
       "rank": 5,
@@ -145,6 +169,14 @@
       "onboard_time": 1770643223,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 344511,
+      "num": 217091,
+      "word": "李一桐陈星旭领衔主演金枝",
+      "onboard_time": 1770689299,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 343538,
@@ -171,12 +203,28 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 284461,
-      "num": 217091,
-      "word": "李一桐陈星旭领衔主演金枝",
-      "onboard_time": 1770689299,
-      "rank": 15,
-      "category": "剧集"
+      "raw_hot": 273725,
+      "num": 182266,
+      "word": "虞书欣诉黑粉名誉侵权",
+      "onboard_time": 1770692539,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 255851,
+      "num": 183621,
+      "word": "辛芷蕾威尼斯之后的变化",
+      "onboard_time": 1770691999,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 246092,
+      "num": 182748,
+      "word": "龙麦这和官宣有什么区别",
+      "onboard_time": 1770691760,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 241351,
@@ -211,20 +259,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 227435,
-      "num": 227435,
-      "word": "黑神话钟馗",
-      "onboard_time": 1770691221,
-      "rank": 6,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 225517,
       "num": 225517,
       "word": "小年",
       "onboard_time": 1770678136,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 223791,
+      "num": 223791,
+      "word": "谷爱凌回应特朗普大骂冬奥运动员",
+      "onboard_time": 1770694280,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 214699,
@@ -243,12 +291,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 209706,
+      "num": 181936,
+      "word": "胡意旋工伤2.0",
+      "onboard_time": 1770692480,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 206706,
+      "num": 182424,
+      "word": "黄金白银突然开跌",
+      "onboard_time": 1770683659,
+      "rank": 20,
+      "category": "财经"
+    },
+    {
       "raw_hot": 206089,
       "num": 206089,
       "word": "谷爱凌决赛",
       "onboard_time": 1770635721,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 199956,
+      "num": 180084,
+      "word": "TF四代开机应援",
+      "onboard_time": 1770693559,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 198493,
@@ -275,6 +347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194171,
+      "num": 194171,
+      "word": "林宥嘉 拉踩令人反感",
+      "onboard_time": 1770692480,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188463,
       "num": 188463,
       "word": "谷爱凌拿出了自己的最佳表现",
@@ -291,12 +371,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 184272,
+      "num": 179791,
+      "word": "2026央视网络春晚节目单来了",
+      "onboard_time": 1770693741,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 182410,
       "num": 85281,
       "word": "女子给哥哥买房后却不许除夕留宿",
       "onboard_time": 1770678195,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 178016,
+      "num": 178016,
+      "word": "雷军回应美国高速出现YU7",
+      "onboard_time": 1770692061,
+      "rank": 48,
+      "category": "汽车"
     },
     {
       "raw_hot": 175436,
@@ -307,16 +403,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 173815,
-      "num": 171398,
-      "word": "黄金白银突然开跌",
-      "onboard_time": 1770683659,
-      "rank": 20,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 171947,
-      "num": 171947,
+      "raw_hot": 172107,
+      "num": 172107,
       "word": "李沛恩解约",
       "onboard_time": 1770680838,
       "rank": 24,
@@ -403,6 +491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 129613,
+      "num": 183347,
+      "word": "过年走亲戚要化妆吗",
+      "onboard_time": 1770692959,
+      "rank": 18,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 127736,
       "num": 127736,
       "word": "张艺谋看王鹤棣这小伙子有礼貌",
@@ -425,14 +521,6 @@
       "onboard_time": 1770648863,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 123837,
-      "num": 123837,
-      "word": "龙麦这和官宣有什么区别",
-      "onboard_time": 1770691760,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 123484,
@@ -491,6 +579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 112373,
+      "num": 134708,
+      "word": "弯刀裤",
+      "onboard_time": 1770694219,
+      "rank": 31,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 112297,
       "num": 112297,
       "word": "吴克群说做自媒体拍吃喝很无聊",
@@ -513,6 +609,14 @@
       "onboard_time": 1770682398,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 107273,
+      "num": 107273,
+      "word": "订婚强奸案女方身上淤青清清楚楚",
+      "onboard_time": 1770694519,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 106865,
@@ -539,6 +643,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 103483,
+      "num": 103483,
+      "word": "爱马仕橙引爆苹果在华销量",
+      "onboard_time": 1770693501,
+      "rank": 39,
+      "category": "数码"
+    },
+    {
       "raw_hot": 102636,
       "num": 102636,
       "word": "这家人的住商好高",
@@ -563,6 +675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99009,
+      "num": 99009,
+      "word": "黄蜂活塞冲突",
+      "onboard_time": 1770693380,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 95962,
       "num": 95962,
       "word": "齐司礼桃礼呈祥",
@@ -579,12 +699,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 94211,
-      "num": 94211,
-      "word": "辛芷蕾威尼斯之后的变化",
-      "onboard_time": 1770691999,
-      "rank": 45,
-      "category": "艺人"
+      "raw_hot": 94726,
+      "num": 94726,
+      "word": "爱泼斯坦案文件6男子姓名被涂黑",
+      "onboard_time": 1770692599,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 92147,
+      "num": 92147,
+      "word": "光与夜之恋新活动马上好",
+      "onboard_time": 1770694400,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 91833,
@@ -611,20 +739,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 90905,
+      "num": 90905,
+      "word": "套马",
+      "onboard_time": 1770693559,
+      "rank": 46,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 88331,
       "num": 88331,
       "word": "第一次看到机器人i成这样",
       "onboard_time": 1770691822,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 87775,
-      "num": 87775,
-      "word": "雷军回应美国高速出现YU7",
-      "onboard_time": 1770692061,
-      "rank": 48,
-      "category": "汽车"
     },
     {
       "raw_hot": 87421,
@@ -803,6 +931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 69187,
+      "num": 122586,
+      "word": "哈梅内伊发表全国电视讲话",
+      "onboard_time": 1770694700,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 68684,
       "num": 68684,
       "word": "陈梦去看谷爱凌决赛了",
@@ -825,6 +961,14 @@
       "onboard_time": 1770675494,
       "rank": 29,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 58538,
+      "num": 182998,
+      "word": "谷爱凌一个举动太暖了",
+      "onboard_time": 1770694160,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 57052,
@@ -865,6 +1009,14 @@
       "onboard_time": 1770681078,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 50439,
+      "num": 184278,
+      "word": "青岛真正的快乐在街上",
+      "onboard_time": 1770692480,
+      "rank": 14,
+      "category": "旅游"
     },
     {
       "raw_hot": 49684,
@@ -937,6 +1089,14 @@
       "onboard_time": 1770690858,
       "rank": 25,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 43875,
+      "num": 126581,
+      "word": "人民日报评南博事件通报",
+      "onboard_time": 1770693380,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 43027,
@@ -1017,6 +1177,14 @@
       "onboard_time": 1770690921,
       "rank": 38,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 28789,
+      "num": 87504,
+      "word": "如果AI误诊应该由谁负责",
+      "onboard_time": 1770693559,
+      "rank": 47,
+      "category": "互联网"
     },
     {
       "raw_hot": 28573,
@@ -1195,8 +1363,16 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 6096,
-      "num": 710647,
+      "raw_hot": 7323,
+      "num": 121962,
+      "word": "南博松风萧寺图轴仍在全力追查",
+      "onboard_time": 1770694821,
+      "rank": 35,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 6627,
+      "num": 797955,
       "word": "来北京过年吧",
       "onboard_time": 1770691880,
       "rank": 2,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1770694839091,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 931283,
+        "num": 1149005,
+        "word": "易炼红被查",
+        "onboard_time": 1770687438,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 346156,
+        "num": 851873,
+        "word": "22岁当村支书28岁晒成绩火了",
+        "onboard_time": 1770689539,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 6627,
+        "num": 797955,
+        "word": "来北京过年吧",
+        "onboard_time": 1770691880,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1060406,
+        "num": 796467,
+        "word": "农村抑郁症确诊率低自杀率反而更高",
+        "onboard_time": 1770692599,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 767633,
+        "num": 767633,
+        "word": "黑神话钟馗",
+        "onboard_time": 1770691221,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 272135,
+        "num": 272135,
+        "word": "外国游客被长白山百万皇冠整破防了",
+        "onboard_time": 1770689539,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223791,
+        "num": 223791,
+        "word": "谷爱凌回应特朗普大骂冬奥运动员",
+        "onboard_time": 1770694280,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194171,
+        "num": 194171,
+        "word": "林宥嘉 拉踩令人反感",
+        "onboard_time": 1770692480,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 339907,
+        "num": 193178,
+        "word": "不要对AI说谢谢",
+        "onboard_time": 1770681980,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 185230,
+        "num": 185230,
+        "word": "小年",
+        "onboard_time": 1770678136,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 869182,
+        "num": 185148,
+        "word": "谷爱凌错失金牌根本原因",
+        "onboard_time": 1770689660,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 782520,
+        "num": 184991,
+        "word": "孙颖莎ELLE开季封面预告",
+        "onboard_time": 1770693320,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 494994,
+        "num": 184577,
+        "word": "女子孕期被疑出轨公公转650万安抚",
+        "onboard_time": 1770655698,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 477683,
+        "num": 184410,
+        "word": "宋威龙赵今麦贴脸比心",
+        "onboard_time": 1770690858,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50439,
+        "num": 184278,
+        "word": "青岛真正的快乐在街上",
+        "onboard_time": 1770692480,
+        "rank": 14,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 287544,
+        "num": 184049,
+        "word": "谢永儿官配",
+        "onboard_time": 1770686000,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 283051,
+        "num": 183845,
+        "word": "家长把4岁和8岁孩子塞进后备箱返乡",
+        "onboard_time": 1770687500,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 255851,
+        "num": 183621,
+        "word": "辛芷蕾威尼斯之后的变化",
+        "onboard_time": 1770691999,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129613,
+        "num": 183347,
+        "word": "过年走亲戚要化妆吗",
+        "onboard_time": 1770692959,
+        "rank": 18,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 58538,
+        "num": 182998,
+        "word": "谷爱凌一个举动太暖了",
+        "onboard_time": 1770694160,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 344511,
+        "num": 182788,
+        "word": "李一桐陈星旭领衔主演金枝",
+        "onboard_time": 1770689299,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 246092,
+        "num": 182748,
+        "word": "龙麦这和官宣有什么区别",
+        "onboard_time": 1770691760,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206706,
+        "num": 182424,
+        "word": "黄金白银突然开跌",
+        "onboard_time": 1770683659,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 273725,
+        "num": 182266,
+        "word": "虞书欣诉黑粉名誉侵权",
+        "onboard_time": 1770692539,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209706,
+        "num": 181936,
+        "word": "胡意旋工伤2.0",
+        "onboard_time": 1770692480,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181862,
+        "num": 181862,
+        "word": "光与夜之恋",
+        "onboard_time": 1770686422,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 199956,
+        "num": 180084,
+        "word": "TF四代开机应援",
+        "onboard_time": 1770693559,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184272,
+        "num": 179791,
+        "word": "2026央视网络春晚节目单来了",
+        "onboard_time": 1770693741,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178016,
+        "num": 178016,
+        "word": "雷军回应美国高速出现YU7",
+        "onboard_time": 1770692061,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 175881,
+        "num": 175881,
+        "word": "金枝开机",
+        "onboard_time": 1770687259,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172107,
+        "num": 172107,
+        "word": "李沛恩解约",
+        "onboard_time": 1770680838,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112373,
+        "num": 134708,
+        "word": "弯刀裤",
+        "onboard_time": 1770694219,
+        "rank": 31,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 133781,
+        "num": 133781,
+        "word": "范丞丞拍的胡先煦",
+        "onboard_time": 1770690200,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43875,
+        "num": 126581,
+        "word": "人民日报评南博事件通报",
+        "onboard_time": 1770693380,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69187,
+        "num": 122586,
+        "word": "哈梅内伊发表全国电视讲话",
+        "onboard_time": 1770694700,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 7323,
+        "num": 121962,
+        "word": "南博松风萧寺图轴仍在全力追查",
+        "onboard_time": 1770694821,
+        "rank": 35,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 121595,
+        "num": 121595,
+        "word": "金枝",
+        "onboard_time": 1770686719,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107273,
+        "num": 107273,
+        "word": "订婚强奸案女方身上淤青清清楚楚",
+        "onboard_time": 1770694519,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105681,
+        "num": 105681,
+        "word": "妻子孕期丈夫却在女厕爬马桶偷拍",
+        "onboard_time": 1770678256,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103483,
+        "num": 103483,
+        "word": "爱马仕橙引爆苹果在华销量",
+        "onboard_time": 1770693501,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 101912,
+        "num": 101912,
+        "word": "县城转岗教师发声",
+        "onboard_time": 1770684380,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99009,
+        "num": 99009,
+        "word": "黄蜂活塞冲突",
+        "onboard_time": 1770693380,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94726,
+        "num": 94726,
+        "word": "爱泼斯坦案文件6男子姓名被涂黑",
+        "onboard_time": 1770692599,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 93494,
+        "num": 93494,
+        "word": "张艺谋说刘耀文不一定要去考伯克利",
+        "onboard_time": 1770682398,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 92147,
+        "num": 92147,
+        "word": "光与夜之恋新活动马上好",
+        "onboard_time": 1770694400,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 81476,
+        "num": 91277,
+        "word": "孙颖莎 ELLE",
+        "onboard_time": 1770679398,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90905,
+        "num": 90905,
+        "word": "套马",
+        "onboard_time": 1770693559,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 28789,
+        "num": 87504,
+        "word": "如果AI误诊应该由谁负责",
+        "onboard_time": 1770693559,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 86890,
+        "num": 86890,
+        "word": "米兰冬奥会偶遇关晓彤",
+        "onboard_time": 1770686299,
+        "rank": 48,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 85246,
+        "num": 85246,
+        "word": "元宝红包",
+        "onboard_time": 1770685640,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记关注科技自立自强#"
+    }
+  }
+}

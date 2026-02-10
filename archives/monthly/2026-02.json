@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1770692126395,
+  "endTime": 1770694839091,
   "band_list": [
     {
       "raw_hot": 12386962,
@@ -779,6 +779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1060406,
+      "num": 796467,
+      "word": "农村抑郁症确诊率低自杀率反而更高",
+      "onboard_time": 1770692599,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1050077,
       "num": 1168012,
       "word": "央视迎00后新主播",
@@ -1419,6 +1427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 782520,
+      "num": 184991,
+      "word": "孙颖莎ELLE开季封面预告",
+      "onboard_time": 1770693320,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 781684,
       "num": 212475,
       "word": "汪苏泷陈哲远撞衫",
@@ -1473,6 +1489,14 @@
       "onboard_time": 1770179602,
       "rank": 9,
       "category": "情感"
+    },
+    {
+      "raw_hot": 767633,
+      "num": 767633,
+      "word": "黑神话钟馗",
+      "onboard_time": 1770691221,
+      "rank": 6,
+      "category": "游戏"
     },
     {
       "raw_hot": 762332,
@@ -3043,6 +3067,14 @@
       "category": "互联网,美食"
     },
     {
+      "raw_hot": 477683,
+      "num": 220123,
+      "word": "宋威龙赵今麦贴脸比心",
+      "onboard_time": 1770690858,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 476329,
       "num": 310286,
       "word": "宋威龙红丝绒深V",
@@ -3369,14 +3401,6 @@
       "onboard_time": 1770090561,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 450894,
-      "num": 220123,
-      "word": "宋威龙赵今麦贴脸比心",
-      "onboard_time": 1770690858,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 450164,
@@ -4228,7 +4252,7 @@
     },
     {
       "raw_hot": 383197,
-      "num": 383197,
+      "num": 851873,
       "word": "22岁当村支书28岁晒成绩火了",
       "onboard_time": 1770689539,
       "rank": 5,
@@ -4904,6 +4928,14 @@
       "word": "生命树18集12分57秒",
       "onboard_time": 1770387983,
       "rank": 9,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 344511,
+      "num": 217091,
+      "word": "李一桐陈星旭领衔主演金枝",
+      "onboard_time": 1770689299,
+      "rank": 15,
       "category": "剧集"
     },
     {
@@ -6131,14 +6163,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 284461,
-      "num": 217091,
-      "word": "李一桐陈星旭领衔主演金枝",
-      "onboard_time": 1770689299,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 284221,
       "num": 284221,
       "word": "牛奶炸鸡",
@@ -6345,6 +6369,14 @@
       "onboard_time": 1770367459,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 273725,
+      "num": 182266,
+      "word": "虞书欣诉黑粉名誉侵权",
+      "onboard_time": 1770692539,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 273270,
@@ -6843,6 +6875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 255851,
+      "num": 183621,
+      "word": "辛芷蕾威尼斯之后的变化",
+      "onboard_time": 1770691999,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 255539,
       "num": 159079,
       "word": "硕士娶离异农村妇女守护留守儿童",
@@ -7121,6 +7161,14 @@
       "onboard_time": 1770522320,
       "rank": 7,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 246092,
+      "num": 182748,
+      "word": "龙麦这和官宣有什么区别",
+      "onboard_time": 1770691760,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 245671,
@@ -7779,14 +7827,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 227435,
-      "num": 227435,
-      "word": "黑神话钟馗",
-      "onboard_time": 1770691221,
-      "rank": 6,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 227273,
       "num": 203932,
       "word": "穆祉丞说不愧对任何人",
@@ -7913,6 +7953,14 @@
       "onboard_time": 1770117141,
       "rank": 17,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 223791,
+      "num": 223791,
+      "word": "谷爱凌回应特朗普大骂冬奥运动员",
+      "onboard_time": 1770694280,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 223714,
@@ -8339,6 +8387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 209706,
+      "num": 181936,
+      "word": "胡意旋工伤2.0",
+      "onboard_time": 1770692480,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 208890,
       "num": 208890,
       "word": "太平年改档",
@@ -8393,6 +8449,14 @@
       "onboard_time": 1770199520,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 206706,
+      "num": 182424,
+      "word": "黄金白银突然开跌",
+      "onboard_time": 1770683659,
+      "rank": 20,
+      "category": "财经"
     },
     {
       "raw_hot": 206174,
@@ -8593,6 +8657,14 @@
       "onboard_time": 1770424999,
       "rank": 8,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 199956,
+      "num": 180084,
+      "word": "TF四代开机应援",
+      "onboard_time": 1770693559,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 199243,
@@ -8817,6 +8889,14 @@
       "onboard_time": 1770438080,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 194171,
+      "num": 194171,
+      "word": "林宥嘉 拉踩令人反感",
+      "onboard_time": 1770692480,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 194110,
@@ -9163,6 +9243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 184272,
+      "num": 179791,
+      "word": "2026央视网络春晚节目单来了",
+      "onboard_time": 1770693741,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 184094,
       "num": 159509,
       "word": "金饰克价一夜跌134元",
@@ -9419,6 +9507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 178016,
+      "num": 178016,
+      "word": "雷军回应美国高速出现YU7",
+      "onboard_time": 1770692061,
+      "rank": 48,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 177750,
       "num": 135118,
       "word": "白鹿穿高定录综艺",
@@ -9595,14 +9691,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 173815,
-      "num": 171398,
-      "word": "黄金白银突然开跌",
-      "onboard_time": 1770683659,
-      "rank": 20,
-      "category": "财经"
-    },
-    {
       "raw_hot": 173538,
       "num": 173538,
       "word": "云合",
@@ -9707,6 +9795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 172107,
+      "num": 172107,
+      "word": "李沛恩解约",
+      "onboard_time": 1770680838,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 172036,
       "num": 157691,
       "word": "芒果女主持上新了",
@@ -9721,14 +9817,6 @@
       "onboard_time": 1770207021,
       "rank": 22,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 171947,
-      "num": 171947,
-      "word": "李沛恩解约",
-      "onboard_time": 1770680838,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 171750,
@@ -12507,6 +12595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 129613,
+      "num": 183347,
+      "word": "过年走亲戚要化妆吗",
+      "onboard_time": 1770692959,
+      "rank": 18,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 129527,
       "num": 129527,
       "word": "国投瑞银基金成立工作组",
@@ -12937,14 +13033,6 @@
       "onboard_time": 1770014240,
       "rank": 37,
       "category": "电影"
-    },
-    {
-      "raw_hot": 123837,
-      "num": 123837,
-      "word": "龙麦这和官宣有什么区别",
-      "onboard_time": 1770691760,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 123766,
@@ -14491,6 +14579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 112373,
+      "num": 134708,
+      "word": "弯刀裤",
+      "onboard_time": 1770694219,
+      "rank": 31,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 112368,
       "num": 112368,
       "word": "孙颖莎3比1金娜英",
@@ -15243,6 +15339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 107273,
+      "num": 107273,
+      "word": "订婚强奸案女方身上淤青清清楚楚",
+      "onboard_time": 1770694519,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107238,
       "num": 107238,
       "word": "陈奕恒外套斜穿",
@@ -15929,6 +16033,14 @@
       "onboard_time": 1770207501,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103483,
+      "num": 103483,
+      "word": "爱马仕橙引爆苹果在华销量",
+      "onboard_time": 1770693501,
+      "rank": 39,
+      "category": "数码"
     },
     {
       "raw_hot": 103467,
@@ -16657,6 +16769,14 @@
       "onboard_time": 1770653660,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 99009,
+      "num": 99009,
+      "word": "黄蜂活塞冲突",
+      "onboard_time": 1770693380,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 98835,
@@ -17427,6 +17547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 94726,
+      "num": 94726,
+      "word": "爱泼斯坦案文件6男子姓名被涂黑",
+      "onboard_time": 1770692599,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 94681,
       "num": 94681,
       "word": "寒武纪跳水",
@@ -17553,14 +17681,6 @@
       "onboard_time": 1770022820,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 94211,
-      "num": 94211,
-      "word": "辛芷蕾威尼斯之后的变化",
-      "onboard_time": 1770691999,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 94209,
@@ -17907,6 +18027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 92147,
+      "num": 92147,
+      "word": "光与夜之恋新活动马上好",
+      "onboard_time": 1770694400,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 92114,
       "num": 92114,
       "word": "生命树热度破8500了",
@@ -18193,6 +18321,14 @@
       "onboard_time": 1770396318,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 90905,
+      "num": 90905,
+      "word": "套马",
+      "onboard_time": 1770693559,
+      "rank": 46,
+      "category": "互联网"
     },
     {
       "raw_hot": 90786,
@@ -18817,14 +18953,6 @@
       "onboard_time": 1770009141,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 87775,
-      "num": 87775,
-      "word": "雷军回应美国高速出现YU7",
-      "onboard_time": 1770692061,
-      "rank": 48,
-      "category": "汽车"
     },
     {
       "raw_hot": 87756,
@@ -21803,6 +21931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 69187,
+      "num": 122586,
+      "word": "哈梅内伊发表全国电视讲话",
+      "onboard_time": 1770694700,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 69047,
       "num": 69047,
       "word": "吃娃娃菜中毒夫妻曾注册两家公司",
@@ -22931,6 +23067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 58538,
+      "num": 182998,
+      "word": "谷爱凌一个举动太暖了",
+      "onboard_time": 1770694160,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 58397,
       "num": 59509,
       "word": "伊朗阿巴斯港一栋居民楼传出爆炸声",
@@ -23505,6 +23649,14 @@
       "onboard_time": 1770507377,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 50439,
+      "num": 184278,
+      "word": "青岛真正的快乐在街上",
+      "onboard_time": 1770692480,
+      "rank": 14,
+      "category": "旅游"
     },
     {
       "raw_hot": 50376,
@@ -24192,6 +24344,14 @@
       "word": "山西朔州车间爆炸致7死1失联",
       "onboard_time": 1770481520,
       "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 43875,
+      "num": 126581,
+      "word": "人民日报评南博事件通报",
+      "onboard_time": 1770693380,
+      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -25721,6 +25881,14 @@
       "onboard_time": 1770690921,
       "rank": 38,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 28789,
+      "num": 87504,
+      "word": "如果AI误诊应该由谁负责",
+      "onboard_time": 1770693559,
+      "rank": 47,
+      "category": "互联网"
     },
     {
       "raw_hot": 28769,
@@ -27923,6 +28091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 7323,
+      "num": 121962,
+      "word": "南博松风萧寺图轴仍在全力追查",
+      "onboard_time": 1770694821,
+      "rank": 35,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 7005,
       "num": 1538649,
       "word": "我国互联网普及率超8成",
@@ -27947,19 +28123,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 6627,
+      "num": 797955,
+      "word": "来北京过年吧",
+      "onboard_time": 1770691880,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 6406,
       "num": 164347,
       "word": "代表建议取消房产税",
       "onboard_time": 1770282566,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 6096,
-      "num": 710647,
-      "word": "来北京过年吧",
-      "onboard_time": 1770691880,
-      "rank": 2,
       "category": "民生新闻"
     },
     {
