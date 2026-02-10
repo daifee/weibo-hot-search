@@ -1,7 +1,15 @@
 {
   "startTime": 1770743525576,
-  "endTime": 1770763864350,
+  "endTime": 1770764914850,
   "band_list": [
+    {
+      "raw_hot": 458159,
+      "num": 102002,
+      "word": "肖战",
+      "onboard_time": 1770735983,
+      "rank": 10,
+      "category": "艺人"
+    },
     {
       "raw_hot": 431965,
       "num": 68377,
@@ -11,16 +19,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 421125,
-      "num": 102002,
-      "word": "肖战",
-      "onboard_time": 1770735983,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 312824,
-      "num": 545902,
+      "num": 644382,
       "word": "男子为避酒店春节涨价花1万多租房",
       "onboard_time": 1770738023,
       "rank": 0,
@@ -83,6 +83,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 150249,
+      "num": 75825,
+      "word": "李谷一回应缺席马年春晚",
+      "onboard_time": 1770745157,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 145637,
       "num": 61611,
       "word": "林孝埈捂脸长时间低头",
@@ -92,7 +100,7 @@
     },
     {
       "raw_hot": 145170,
-      "num": 380717,
+      "num": 467153,
       "word": "付费假装上班被要求不迟到不玩手机",
       "onboard_time": 1770736941,
       "rank": 5,
@@ -139,11 +147,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 106026,
-      "num": 52156,
-      "word": "李谷一回应缺席马年春晚",
-      "onboard_time": 1770745157,
-      "rank": 11,
+      "raw_hot": 104945,
+      "num": 75451,
+      "word": "郑则仕因不想终生注射药物开始跑步",
+      "onboard_time": 1770731420,
+      "rank": 40,
       "category": "艺人"
     },
     {
@@ -171,6 +179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 91140,
+      "num": 75225,
+      "word": "74岁肥猫被医生建议注射药物镇痛",
+      "onboard_time": 1770729741,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 84146,
       "num": 84146,
       "word": "印度大一男生求婚遭拒将女生枪杀",
@@ -187,6 +203,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 80541,
+      "num": 91523,
+      "word": "金博洋短节目86.55分",
+      "onboard_time": 1770752475,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 78913,
       "num": 78913,
       "word": "米兰的冰有点软",
@@ -195,12 +219,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 75222,
-      "num": 75222,
-      "word": "74岁肥猫被医生建议注射药物镇痛",
-      "onboard_time": 1770729741,
-      "rank": 19,
-      "category": "艺人"
+      "raw_hot": 75326,
+      "num": 75326,
+      "word": "爱泼斯坦别墅内老虎标本栩栩如生",
+      "onboard_time": 1770724701,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 70459,
@@ -211,28 +235,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 65603,
-      "num": 91523,
-      "word": "金博洋短节目86.55分",
-      "onboard_time": 1770752475,
-      "rank": 0,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 64640,
-      "num": 50611,
-      "word": "郑则仕因不想终生注射药物开始跑步",
-      "onboard_time": 1770731420,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 62964,
       "num": 62964,
       "word": "生命树最讽刺的一幕",
       "onboard_time": 1770732321,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 58941,
+      "num": 58941,
+      "word": "于正回应明星扎堆前往大孤山",
+      "onboard_time": 1770720740,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 58814,
@@ -259,12 +275,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 53019,
-      "num": 50111,
-      "word": "爱泼斯坦别墅内老虎标本栩栩如生",
-      "onboard_time": 1770724701,
-      "rank": 30,
-      "category": "海外新闻"
+      "raw_hot": 51769,
+      "num": 51769,
+      "word": "成毅两京十五日杀青",
+      "onboard_time": 1770743598,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 49106,
+      "num": 49106,
+      "word": "特朗普表面祝贺高市私下大发雷霆",
+      "onboard_time": 1770730102,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 49005,
@@ -273,6 +297,14 @@
       "onboard_time": 1770739880,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 49001,
+      "num": 49001,
+      "word": "这3件事是生命力的表现",
+      "onboard_time": 1770739101,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 48914,
@@ -292,7 +324,7 @@
     },
     {
       "raw_hot": 48228,
-      "num": 41815,
+      "num": 46804,
       "word": "AI制图骗局",
       "onboard_time": 1770747854,
       "rank": 18,
@@ -316,7 +348,7 @@
     },
     {
       "raw_hot": 45598,
-      "num": 45598,
+      "num": 46798,
       "word": "镖人",
       "onboard_time": 1770738500,
       "rank": 35,
@@ -324,7 +356,7 @@
     },
     {
       "raw_hot": 44289,
-      "num": 45587,
+      "num": 46806,
       "word": "洪世贤掉到榜二了",
       "onboard_time": 1770714560,
       "rank": 37,
@@ -339,16 +371,16 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 43085,
-      "num": 43085,
-      "word": "成毅两京十五日杀青",
-      "onboard_time": 1770743598,
-      "rank": 35,
-      "category": "剧集"
+      "raw_hot": 42783,
+      "num": 46818,
+      "word": "平手友梨奈结婚",
+      "onboard_time": 1770764896,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 41788,
-      "num": 45577,
+      "num": 46806,
       "word": "小年",
       "onboard_time": 1770718400,
       "rank": 39,
@@ -356,19 +388,11 @@
     },
     {
       "raw_hot": 41676,
-      "num": 45596,
+      "num": 46793,
       "word": "生命树",
       "onboard_time": 1770724341,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 40724,
-      "num": 45521,
-      "word": "这3件事是生命力的表现",
-      "onboard_time": 1770739101,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 39323,
@@ -377,22 +401,6 @@
       "onboard_time": 1770731541,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 39243,
-      "num": 45553,
-      "word": "于正回应明星扎堆前往大孤山",
-      "onboard_time": 1770720740,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 37811,
-      "num": 45541,
-      "word": "特朗普表面祝贺高市私下大发雷霆",
-      "onboard_time": 1770730102,
-      "rank": 43,
-      "category": "国际时政"
     },
     {
       "raw_hot": 36780,
@@ -412,7 +420,7 @@
     },
     {
       "raw_hot": 34823,
-      "num": 34823,
+      "num": 46809,
       "word": "千问说30亿免单卡快领完了",
       "onboard_time": 1770750073,
       "rank": 26,
@@ -444,7 +452,7 @@
     },
     {
       "raw_hot": 30452,
-      "num": 25985,
+      "num": 46812,
       "word": "韩国又一非法拍摄网站曝光",
       "onboard_time": 1770747435,
       "rank": 30,
@@ -452,7 +460,7 @@
     },
     {
       "raw_hot": 28169,
-      "num": 313215,
+      "num": 355380,
       "word": "中国无人机大山里运腊肠",
       "onboard_time": 1770729920,
       "rank": 2,
@@ -460,7 +468,7 @@
     },
     {
       "raw_hot": 26382,
-      "num": 26382,
+      "num": 46801,
       "word": "金博洋男单晋级自由滑",
       "onboard_time": 1770752594,
       "rank": 8,
@@ -475,6 +483,38 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 24062,
+      "num": 46802,
+      "word": "白鹿心疼壁上花案里的女孩",
+      "onboard_time": 1770748335,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 23690,
+      "num": 46800,
+      "word": "曲春雨退役",
+      "onboard_time": 1770730700,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 23569,
+      "num": 76107,
+      "word": "瑞典组合冬奥冰壶混双金牌",
+      "onboard_time": 1770763575,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 21968,
+      "num": 46798,
+      "word": "易烊千玺晒严迪剧照",
+      "onboard_time": 1770746896,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 21921,
       "num": 21921,
       "word": "非遗傩舞",
@@ -484,26 +524,18 @@
     },
     {
       "raw_hot": 21549,
-      "num": 25797,
+      "num": 46791,
       "word": "春晚",
       "onboard_time": 1770720081,
       "rank": 36,
       "category": "综艺"
     },
     {
-      "raw_hot": 20644,
-      "num": 25749,
-      "word": "白鹿心疼壁上花案里的女孩",
-      "onboard_time": 1770748335,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 20194,
-      "num": 25889,
-      "word": "曲春雨退役",
-      "onboard_time": 1770730700,
-      "rank": 43,
+      "raw_hot": 20769,
+      "num": 46795,
+      "word": "刘少昂说不分是谁的责任",
+      "onboard_time": 1770764896,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -523,28 +555,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 18657,
-      "num": 25834,
-      "word": "易烊千玺晒严迪剧照",
-      "onboard_time": 1770746896,
-      "rank": 45,
-      "category": "电影"
-    },
-    {
       "raw_hot": 16131,
       "num": 16063,
       "word": "央视网络春晚",
       "onboard_time": 1770723860,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 15115,
-      "num": 52879,
-      "word": "瑞典组合冬奥冰壶混双金牌",
-      "onboard_time": 1770763575,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 14585,
