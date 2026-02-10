@@ -1,6 +1,6 @@
 {
   "startTime": 1770653180155,
-  "endTime": 1770700298289,
+  "endTime": 1770703069265,
   "band_list": [
     {
       "raw_hot": 1559474,
@@ -73,6 +73,14 @@
       "onboard_time": 1770696080,
       "rank": 6,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 670634,
+      "num": 1107301,
+      "word": "元宝微信发红包",
+      "onboard_time": 1770700279,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 588753,
@@ -153,6 +161,14 @@
       "onboard_time": 1770693741,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 427000,
+      "num": 812959,
+      "word": "瑞幸 错别字",
+      "onboard_time": 1770701960,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 417076,
@@ -243,6 +259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 316871,
+      "num": 316871,
+      "word": "AI短剧",
+      "onboard_time": 1770696980,
+      "rank": 9,
+      "category": "互联网,剧集"
+    },
+    {
       "raw_hot": 309329,
       "num": 224637,
       "word": "金枝开机",
@@ -268,7 +292,7 @@
     },
     {
       "raw_hot": 274026,
-      "num": 161007,
+      "num": 174705,
       "word": "车祸后妹妹以为冷却液是血嚎啕大哭",
       "onboard_time": 1770699020,
       "rank": 23,
@@ -297,6 +321,14 @@
       "onboard_time": 1770691760,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 244381,
+      "num": 244381,
+      "word": "我们的少年时代2",
+      "onboard_time": 1770699381,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 241351,
@@ -331,6 +363,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 232013,
+      "num": 169354,
+      "word": "成毅杀青不限量奶茶",
+      "onboard_time": 1770700941,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 230331,
       "num": 160984,
       "word": "向太自曝因脑下垂体瘤一直发胖",
@@ -340,7 +380,7 @@
     },
     {
       "raw_hot": 229888,
-      "num": 161203,
+      "num": 161605,
       "word": "宋威龙赵今麦代言娇兰",
       "onboard_time": 1770699080,
       "rank": 14,
@@ -352,6 +392,14 @@
       "word": "小年",
       "onboard_time": 1770678136,
       "rank": 6,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 216372,
+      "num": 216372,
+      "word": "外卖员跑腿买药被判贩卖毒品罪",
+      "onboard_time": 1770699979,
+      "rank": 20,
       "category": "民生新闻"
     },
     {
@@ -499,14 +547,6 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 161291,
-      "num": 161291,
-      "word": "AI短剧",
-      "onboard_time": 1770696980,
-      "rank": 9,
-      "category": "互联网,剧集"
-    },
-    {
       "raw_hot": 160928,
       "num": 160928,
       "word": "金枝",
@@ -521,6 +561,14 @@
       "onboard_time": 1770636680,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 152794,
+      "num": 152794,
+      "word": "羊了个羊",
+      "onboard_time": 1770699439,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 152140,
@@ -547,14 +595,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 142260,
-      "num": 142260,
-      "word": "我们的少年时代2",
-      "onboard_time": 1770699381,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 141491,
       "num": 125736,
       "word": "生命树白菊爆头",
@@ -577,6 +617,14 @@
       "onboard_time": 1770681560,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 138919,
+      "num": 138919,
+      "word": "骑手给妻子换手机被反复要求退货",
+      "onboard_time": 1770701359,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 138037,
@@ -643,14 +691,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 123209,
-      "num": 123209,
-      "word": "羊了个羊",
-      "onboard_time": 1770699439,
-      "rank": 33,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 122918,
       "num": 120664,
       "word": "男子在女厕所偷拍摔倒被当场抓获",
@@ -707,6 +747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 113154,
+      "num": 113154,
+      "word": "46岁女儿被89岁妈妈轻拍哄睡",
+      "onboard_time": 1770700581,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 112297,
       "num": 112297,
       "word": "吴克群说做自媒体拍吃喝很无聊",
@@ -745,6 +793,14 @@
       "onboard_time": 1770699561,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 108610,
+      "num": 108610,
+      "word": "现在的老人vs以后的老人",
+      "onboard_time": 1770702080,
+      "rank": 31,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 107471,
@@ -883,14 +939,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 94653,
-      "num": 94653,
-      "word": "元宝微信发红包",
-      "onboard_time": 1770700279,
-      "rank": 49,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 92147,
       "num": 92147,
       "word": "光与夜之恋新活动马上好",
@@ -939,6 +987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 87698,
+      "num": 87698,
+      "word": "雷霆战胜湖人",
+      "onboard_time": 1770703041,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 87421,
       "num": 87421,
       "word": "金饰价一夜涨了6元",
@@ -971,6 +1027,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 86106,
+      "num": 86106,
+      "word": "无畏报了张远阿云嘎的大师班",
+      "onboard_time": 1770703041,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 84597,
       "num": 73598,
       "word": "高市早苗修宪扩军将畅通无阻",
@@ -993,6 +1057,14 @@
       "onboard_time": 1770652220,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 83301,
+      "num": 83301,
+      "word": "易烊千玺 别剧透",
+      "onboard_time": 1770702980,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 82169,
@@ -1027,12 +1099,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 79947,
+      "num": 79947,
+      "word": "手机出现这些问题就是被控屏了",
+      "onboard_time": 1770702800,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 79678,
       "num": 78718,
       "word": "谷爱凌跟妈妈边抱边哭40秒",
       "onboard_time": 1770643701,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 79490,
+      "num": 79490,
+      "word": "黄金白银节前突然巨震",
+      "onboard_time": 1770702921,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 79180,
@@ -1411,6 +1499,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 27113,
+      "num": 138413,
+      "word": "黑白颠周媛被立案后已结案传闻不实",
+      "onboard_time": 1770702379,
+      "rank": 19,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 27064,
       "num": 25767,
       "word": "王鹤棣就这样水灵灵的入梦了",
@@ -1456,14 +1552,6 @@
       "word": "第一个起飞最后一个着舰只为守护",
       "onboard_time": 1770691521,
       "rank": 42,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 20077,
-      "num": 161076,
-      "word": "外卖员跑腿买药被判贩卖毒品罪",
-      "onboard_time": 1770699979,
-      "rank": 20,
       "category": "民生新闻"
     },
     {
@@ -1515,6 +1603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 15478,
+      "num": 648942,
+      "word": "中国人自己的新年气氛组",
+      "onboard_time": 1770691340,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 15433,
       "num": 21605,
       "word": "女子自由式滑雪坡面障碍技巧决赛",
@@ -1537,6 +1633,14 @@
       "onboard_time": 1770661334,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 13562,
+      "num": 88608,
+      "word": "王楚然的人生哭戏镜头",
+      "onboard_time": 1770702980,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 12653,
