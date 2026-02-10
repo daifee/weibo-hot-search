@@ -1,0 +1,410 @@
+{
+  "runTime": 1770715955932,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 552221,
+        "num": 1088355,
+        "word": "元宝微信发红包",
+        "onboard_time": 1770700279,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 409037,
+        "num": 788650,
+        "word": "我们的少年时代2",
+        "onboard_time": 1770699381,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 51454,
+        "num": 641883,
+        "word": "提供无人机破解服务是犯罪",
+        "onboard_time": 1770712759,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 660841,
+        "num": 636369,
+        "word": "洪世贤掉到榜二了",
+        "onboard_time": 1770714560,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 271139,
+        "num": 271139,
+        "word": "两周内三名正部级落马",
+        "onboard_time": 1770710600,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 708151,
+        "num": 270851,
+        "word": "瑞幸 错别字",
+        "onboard_time": 1770701960,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 447380,
+        "num": 256244,
+        "word": "薛之谦万兽之王演唱会官宣",
+        "onboard_time": 1770709639,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 241635,
+        "num": 241635,
+        "word": "浙江省坚决拥护党中央决定",
+        "onboard_time": 1770706939,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 216295,
+        "num": 216295,
+        "word": "铁路回应女乘务员裙装换裤装建议",
+        "onboard_time": 1770708319,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204063,
+        "num": 204063,
+        "word": "女子短道速滑500米预赛",
+        "onboard_time": 1770715281,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 380120,
+        "num": 202270,
+        "word": "金像奖最佳女配角提名",
+        "onboard_time": 1770712039,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 303723,
+        "num": 200445,
+        "word": "爱泼斯坦案出现一名9岁受害者",
+        "onboard_time": 1770711800,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 267433,
+        "num": 198405,
+        "word": "陈星旭 没提前让我背稿",
+        "onboard_time": 1770705919,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 239310,
+        "num": 193986,
+        "word": "两京十五日",
+        "onboard_time": 1770713361,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192769,
+        "num": 192769,
+        "word": "黑神话钟馗",
+        "onboard_time": 1770691221,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 195326,
+        "num": 188029,
+        "word": "金像奖提名",
+        "onboard_time": 1770705621,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 162989,
+        "num": 162989,
+        "word": "平均每天倒闭7家绝味鸭脖撑不住了",
+        "onboard_time": 1770713720,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33049,
+        "num": 158251,
+        "word": "举杯青岛福气倾倒",
+        "onboard_time": 1770714259,
+        "rank": 17,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 156334,
+        "num": 156334,
+        "word": "隐性嫉妒",
+        "onboard_time": 1770705801,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142862,
+        "num": 142862,
+        "word": "车祸后妹妹以为冷却液是血嚎啕大哭",
+        "onboard_time": 1770699020,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 996959,
+        "num": 142820,
+        "word": "白鹿孟子义一起去了大孤山",
+        "onboard_time": 1770711678,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 300691,
+        "num": 142716,
+        "word": "千万粉丝网红晒妻子生产过程遭质疑",
+        "onboard_time": 1770707480,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 33321,
+        "num": 142559,
+        "word": "瑞幸回应杯套出现错别字",
+        "onboard_time": 1770715700,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217998,
+        "num": 142409,
+        "word": "大孤山到底有谁在啊",
+        "onboard_time": 1770712701,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142287,
+        "num": 142287,
+        "word": "酱园弄男主女配男配0提名",
+        "onboard_time": 1770712820,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 119714,
+        "num": 119714,
+        "word": "NBA交易",
+        "onboard_time": 1770709520,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136397,
+        "num": 119034,
+        "word": "单身即地狱5",
+        "onboard_time": 1770712220,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118189,
+        "num": 118189,
+        "word": "关系再好也不要说的事",
+        "onboard_time": 1770715521,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 117842,
+        "num": 117842,
+        "word": "黄子华 我到死都不用老年公交卡",
+        "onboard_time": 1770707480,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 111957,
+        "num": 111957,
+        "word": "安徽一大姨烫头6小时狗都等emo了",
+        "onboard_time": 1770705141,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109444,
+        "num": 109444,
+        "word": "杨紫迎来剧生嫡长女",
+        "onboard_time": 1770704719,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103948,
+        "num": 103948,
+        "word": "问AI亲生父母之间能不能结婚",
+        "onboard_time": 1770713960,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 99830,
+        "num": 99830,
+        "word": "易炼红被查",
+        "onboard_time": 1770687438,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 94885,
+        "num": 94885,
+        "word": "蔡徐坤colder花絮",
+        "onboard_time": 1770704539,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 87907,
+        "num": 87907,
+        "word": "谷爱凌回应特朗普大骂冬奥运动员",
+        "onboard_time": 1770694280,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85920,
+        "num": 85920,
+        "word": "金像奖",
+        "onboard_time": 1770707779,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 66345,
+        "num": 85885,
+        "word": "于适让C位失败后表情",
+        "onboard_time": 1770715160,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51094,
+        "num": 85162,
+        "word": "网友找千问新人找到香港去了",
+        "onboard_time": 1770715101,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 49854,
+        "num": 84611,
+        "word": "丁程鑫叠穿",
+        "onboard_time": 1770715700,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23224,
+        "num": 84530,
+        "word": "王牌对王牌到底在找神马",
+        "onboard_time": 1770714800,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84122,
+        "num": 84122,
+        "word": "王楚钦孙颖莎樊振东热搜运动员前三",
+        "onboard_time": 1770714978,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85723,
+        "num": 83815,
+        "word": "白鹿 原来见到时代少年团要这样",
+        "onboard_time": 1770708080,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83414,
+        "num": 83414,
+        "word": "骑手给妻子换手机被反复要求退货",
+        "onboard_time": 1770701359,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78174,
+        "num": 78174,
+        "word": "深圳人把高速堵成停车场了",
+        "onboard_time": 1770713179,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76061,
+        "num": 76061,
+        "word": "乐华 NDOUBLE",
+        "onboard_time": 1770712520,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74579,
+        "num": 74579,
+        "word": "易烊千玺 别剧透",
+        "onboard_time": 1770702980,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 74518,
+        "num": 74518,
+        "word": "我这一生如绿豆冰",
+        "onboard_time": 1770714978,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 73853,
+        "num": 73853,
+        "word": "2025体育十大热搜运动员",
+        "onboard_time": 1770715101,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 72736,
+        "num": 72736,
+        "word": "孟子义包20场支持王鹤棣星河入梦",
+        "onboard_time": 1770713600,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 71602,
+        "num": 71602,
+        "word": "小年",
+        "onboard_time": 1770678136,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平心系京华大地#"
+    }
+  }
+}

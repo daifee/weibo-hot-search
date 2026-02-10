@@ -1,6 +1,6 @@
 {
   "startTime": 1770653180155,
-  "endTime": 1770714357627,
+  "endTime": 1770715955932,
   "band_list": [
     {
       "raw_hot": 1559474,
@@ -107,6 +107,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 660841,
+      "num": 636369,
+      "word": "洪世贤掉到榜二了",
+      "onboard_time": 1770714560,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 658490,
       "num": 658490,
       "word": "金像奖提名",
@@ -156,7 +164,7 @@
     },
     {
       "raw_hot": 510858,
-      "num": 488782,
+      "num": 788650,
       "word": "我们的少年时代2",
       "onboard_time": 1770699381,
       "rank": 31,
@@ -283,6 +291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 380120,
+      "num": 202270,
+      "word": "金像奖最佳女配角提名",
+      "onboard_time": 1770712039,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 378569,
       "num": 1060571,
       "word": "南博文物事件24人被处理",
@@ -355,6 +371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 303723,
+      "num": 213010,
+      "word": "爱泼斯坦案出现一名9岁受害者",
+      "onboard_time": 1770711800,
+      "rank": 12,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 297525,
       "num": 236240,
       "word": "喜人脱口秀演员 后台变脸",
@@ -387,14 +411,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 274749,
-      "num": 213010,
-      "word": "爱泼斯坦案出现一名9岁受害者",
-      "onboard_time": 1770711800,
-      "rank": 12,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 274026,
       "num": 222893,
       "word": "车祸后妹妹以为冷却液是血嚎啕大哭",
@@ -409,6 +425,14 @@
       "onboard_time": 1770692539,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 271139,
+      "num": 271139,
+      "word": "两周内三名正部级落马",
+      "onboard_time": 1770710600,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 255851,
@@ -467,6 +491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 239310,
+      "num": 199349,
+      "word": "两京十五日",
+      "onboard_time": 1770713361,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 238366,
       "num": 215246,
       "word": "光与夜之恋",
@@ -507,6 +539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 217998,
+      "num": 212888,
+      "word": "大孤山到底有谁在啊",
+      "onboard_time": 1770712701,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 216372,
       "num": 216372,
       "word": "外卖员跑腿买药被判贩卖毒品罪",
@@ -520,22 +560,6 @@
       "word": "范丞丞拍的胡先煦",
       "onboard_time": 1770690200,
       "rank": 17,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 213362,
-      "num": 213362,
-      "word": "两周内三名正部级落马",
-      "onboard_time": 1770710600,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 212888,
-      "num": 212888,
-      "word": "大孤山到底有谁在啊",
-      "onboard_time": 1770712701,
-      "rank": 14,
       "category": "艺人"
     },
     {
@@ -579,19 +603,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 204063,
+      "num": 204063,
+      "word": "女子短道速滑500米预赛",
+      "onboard_time": 1770715281,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 199956,
       "num": 180084,
       "word": "TF四代开机应援",
       "onboard_time": 1770693559,
       "rank": 26,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 199349,
-      "num": 199349,
-      "word": "两京十五日",
-      "onboard_time": 1770713361,
-      "rank": 16,
       "category": "剧集"
     },
     {
@@ -707,6 +731,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 162989,
+      "num": 197204,
+      "word": "平均每天倒闭7家绝味鸭脖撑不住了",
+      "onboard_time": 1770713720,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 160928,
       "num": 160928,
       "word": "金枝",
@@ -763,14 +795,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 150312,
-      "num": 150312,
-      "word": "金像奖最佳女配角提名",
-      "onboard_time": 1770712039,
-      "rank": 23,
-      "category": "电影"
-    },
-    {
       "raw_hot": 143265,
       "num": 143265,
       "word": "老舅躲催婚带外甥一起跑路",
@@ -785,6 +809,14 @@
       "onboard_time": 1770699801,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 142287,
+      "num": 142287,
+      "word": "酱园弄男主女配男配0提名",
+      "onboard_time": 1770712820,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 141491,
@@ -819,6 +851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 136397,
+      "num": 119034,
+      "word": "单身即地狱5",
+      "onboard_time": 1770712220,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 135634,
       "num": 160941,
       "word": "女硕士当礼品规划师月入20万",
@@ -841,14 +881,6 @@
       "onboard_time": 1770692959,
       "rank": 18,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 127804,
-      "num": 118444,
-      "word": "酱园弄男主女配男配0提名",
-      "onboard_time": 1770712820,
-      "rank": 27,
-      "category": "电影"
     },
     {
       "raw_hot": 127736,
@@ -915,6 +947,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 118189,
+      "num": 118189,
+      "word": "关系再好也不要说的事",
+      "onboard_time": 1770715521,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 117353,
       "num": 117353,
       "word": "女子1月结婚2次孩子竟是第3人的",
@@ -929,14 +969,6 @@
       "onboard_time": 1770642202,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 116197,
-      "num": 116197,
-      "word": "单身即地狱5",
-      "onboard_time": 1770712220,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 115463,
@@ -1067,6 +1099,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 103948,
+      "num": 103948,
+      "word": "问AI亲生父母之间能不能结婚",
+      "onboard_time": 1770713960,
+      "rank": 37,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 103483,
       "num": 103483,
       "word": "爱马仕橙引爆苹果在华销量",
@@ -1153,6 +1193,14 @@
       "onboard_time": 1770678977,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 94885,
+      "num": 94885,
+      "word": "蔡徐坤colder花絮",
+      "onboard_time": 1770704539,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 94726,
@@ -1283,14 +1331,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 86024,
-      "num": 86024,
-      "word": "蔡徐坤colder花絮",
-      "onboard_time": 1770704539,
-      "rank": 45,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 85541,
       "num": 85541,
       "word": "章子怡提名金像奖影后",
@@ -1313,6 +1353,14 @@
       "onboard_time": 1770637941,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 84122,
+      "num": 84122,
+      "word": "王楚钦孙颖莎樊振东热搜运动员前三",
+      "onboard_time": 1770714978,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 83969,
@@ -1419,6 +1467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 78174,
+      "num": 78174,
+      "word": "深圳人把高速堵成停车场了",
+      "onboard_time": 1770713179,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77601,
       "num": 77601,
       "word": "查理苏财神",
@@ -1459,6 +1515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 76061,
+      "num": 76061,
+      "word": "乐华 NDOUBLE",
+      "onboard_time": 1770712520,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 75228,
       "num": 75228,
       "word": "杨洋吸血鬼伯爵",
@@ -1483,12 +1547,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 74529,
-      "num": 74529,
-      "word": "乐华 NDOUBLE",
-      "onboard_time": 1770712520,
-      "rank": 48,
-      "category": "艺人"
+      "raw_hot": 74518,
+      "num": 74518,
+      "word": "我这一生如绿豆冰",
+      "onboard_time": 1770714978,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 74337,
@@ -1497,6 +1561,22 @@
       "onboard_time": 1770641480,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 73853,
+      "num": 73853,
+      "word": "2025体育十大热搜运动员",
+      "onboard_time": 1770715101,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 72736,
+      "num": 85226,
+      "word": "孟子义包20场支持王鹤棣星河入梦",
+      "onboard_time": 1770713600,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 71871,
@@ -1571,20 +1651,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 66345,
+      "num": 85885,
+      "word": "于适让C位失败后表情",
+      "onboard_time": 1770715160,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 64085,
       "num": 64085,
       "word": "高德打车被约谈整改",
       "onboard_time": 1770675494,
       "rank": 29,
       "category": "民生新闻,互联网"
-    },
-    {
-      "raw_hot": 61205,
-      "num": 85227,
-      "word": "问AI亲生父母之间能不能结婚",
-      "onboard_time": 1770713960,
-      "rank": 37,
-      "category": "互联网"
     },
     {
       "raw_hot": 60016,
@@ -1667,6 +1747,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 51454,
+      "num": 641883,
+      "word": "提供无人机破解服务是犯罪",
+      "onboard_time": 1770712759,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51151,
       "num": 51151,
       "word": "C罗硬刚到底",
@@ -1675,12 +1763,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 51094,
+      "num": 85162,
+      "word": "网友找千问新人找到香港去了",
+      "onboard_time": 1770715101,
+      "rank": 37,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 50439,
       "num": 184278,
       "word": "青岛真正的快乐在街上",
       "onboard_time": 1770692480,
       "rank": 14,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 49854,
+      "num": 84611,
+      "word": "丁程鑫叠穿",
+      "onboard_time": 1770715700,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 49684,
@@ -1705,14 +1809,6 @@
       "onboard_time": 1770678256,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 47548,
-      "num": 637630,
-      "word": "提供无人机破解服务是犯罪",
-      "onboard_time": 1770712759,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 47505,
@@ -1755,28 +1851,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 45864,
-      "num": 85226,
-      "word": "孟子义包20场支持王鹤棣星河入梦",
-      "onboard_time": 1770713600,
-      "rank": 38,
-      "category": "电影"
-    },
-    {
       "raw_hot": 45315,
       "num": 612318,
       "word": "动车组终点站有科幻片那味儿了",
       "onboard_time": 1770642621,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 45190,
-      "num": 197204,
-      "word": "平均每天倒闭7家绝味鸭脖撑不住了",
-      "onboard_time": 1770713720,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 44763,
@@ -1849,6 +1929,22 @@
       "onboard_time": 1770713659,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 33321,
+      "num": 142559,
+      "word": "瑞幸回应杯套出现错别字",
+      "onboard_time": 1770715700,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33049,
+      "num": 158251,
+      "word": "举杯青岛福气倾倒",
+      "onboard_time": 1770714259,
+      "rank": 32,
+      "category": "旅游"
     },
     {
       "raw_hot": 32133,
@@ -1985,6 +2081,14 @@
       "onboard_time": 1770658876,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 23224,
+      "num": 84530,
+      "word": "王牌对王牌到底在找神马",
+      "onboard_time": 1770714800,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 23149,
@@ -2169,14 +2273,6 @@
       "onboard_time": 1770694821,
       "rank": 35,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 6852,
-      "num": 104124,
-      "word": "举杯青岛福气倾倒",
-      "onboard_time": 1770714259,
-      "rank": 32,
-      "category": "旅游"
     },
     {
       "raw_hot": 6627,
