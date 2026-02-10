@@ -1,6 +1,6 @@
 {
   "startTime": 1770482461321,
-  "endTime": 1770681687586,
+  "endTime": 1770692126395,
   "band_list": [
     {
       "raw_hot": 7279878,
@@ -83,6 +83,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1559474,
+      "num": 1559474,
+      "word": "易炼红被查",
+      "onboard_time": 1770687438,
+      "rank": 0,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1557075,
       "num": 1068571,
       "word": "订婚强奸案电梯视频首曝光",
@@ -156,7 +164,7 @@
     },
     {
       "raw_hot": 1067441,
-      "num": 88704,
+      "num": 223105,
       "word": "女子孕期被疑出轨公公转650万安抚",
       "onboard_time": 1770655698,
       "rank": 10,
@@ -177,6 +185,14 @@
       "onboard_time": 1770541880,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 965200,
+      "num": 965200,
+      "word": "谷爱凌错失金牌根本原因",
+      "onboard_time": 1770689660,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 938447,
@@ -507,6 +523,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 522881,
+      "num": 221041,
+      "word": "AI 恐怖",
+      "onboard_time": 1770682700,
+      "rank": 11,
+      "category": "情感"
+    },
+    {
       "raw_hot": 520833,
       "num": 520833,
       "word": "亚洲杯",
@@ -635,6 +659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 467380,
+      "num": 467380,
+      "word": "不要对AI说谢谢",
+      "onboard_time": 1770681980,
+      "rank": 3,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 462912,
       "num": 1074065,
       "word": "白日提灯",
@@ -681,6 +713,14 @@
       "onboard_time": 1770622879,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 450894,
+      "num": 220123,
+      "word": "宋威龙赵今麦贴脸比心",
+      "onboard_time": 1770690858,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 446336,
@@ -779,6 +819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 417076,
+      "num": 219285,
+      "word": "家长把4岁和8岁孩子塞进后备箱返乡",
+      "onboard_time": 1770687500,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 416635,
       "num": 333622,
       "word": "男嬛传",
@@ -793,6 +841,14 @@
       "onboard_time": 1770592638,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 409201,
+      "num": 218126,
+      "word": "谢永儿官配",
+      "onboard_time": 1770686000,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 408457,
@@ -841,6 +897,14 @@
       "onboard_time": 1770625521,
       "rank": 7,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 405373,
+      "num": 405373,
+      "word": "外国游客被长白山百万皇冠整破防了",
+      "onboard_time": 1770689539,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 403229,
@@ -945,6 +1009,14 @@
       "onboard_time": 1770507018,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 383197,
+      "num": 383197,
+      "word": "22岁当村支书28岁晒成绩火了",
+      "onboard_time": 1770689539,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 378569,
@@ -1251,6 +1323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 309329,
+      "num": 224637,
+      "word": "金枝开机",
+      "onboard_time": 1770687259,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 308783,
       "num": 308783,
       "word": "92岁老人集装箱离世留下19万存款",
@@ -1369,6 +1449,14 @@
       "onboard_time": 1770565641,
       "rank": 13,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 284461,
+      "num": 217091,
+      "word": "李一桐陈星旭领衔主演金枝",
+      "onboard_time": 1770689299,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 284221,
@@ -1651,6 +1739,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 238366,
+      "num": 215246,
+      "word": "光与夜之恋",
+      "onboard_time": 1770686422,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 238074,
       "num": 178587,
       "word": "曝爱泼斯坦为印度首富弟弟献女郎",
@@ -1715,6 +1811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 227435,
+      "num": 227435,
+      "word": "黑神话钟馗",
+      "onboard_time": 1770691221,
+      "rank": 6,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 226351,
       "num": 185476,
       "word": "爱泼斯坦曾订购大量硫酸",
@@ -1737,6 +1841,14 @@
       "onboard_time": 1770512360,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 225517,
+      "num": 225517,
+      "word": "小年",
+      "onboard_time": 1770678136,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 222494,
@@ -1827,6 +1939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 214699,
+      "num": 214699,
+      "word": "范丞丞拍的胡先煦",
+      "onboard_time": 1770690200,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 213971,
       "num": 187931,
       "word": "赵樱子曝娜扎打游戏很厉害",
@@ -1857,14 +1977,6 @@
       "onboard_time": 1770533181,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 211828,
-      "num": 211828,
-      "word": "小年",
-      "onboard_time": 1770678136,
-      "rank": 6,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 211738,
@@ -2067,6 +2179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 188078,
+      "num": 188078,
+      "word": "孙颖莎 ELLE",
+      "onboard_time": 1770679398,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 187401,
       "num": 187401,
       "word": "LadyGaga空降超级碗中场秀",
@@ -2187,6 +2307,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 173815,
+      "num": 171398,
+      "word": "黄金白银突然开跌",
+      "onboard_time": 1770683659,
+      "rank": 20,
+      "category": "财经"
+    },
+    {
       "raw_hot": 173487,
       "num": 170289,
       "word": "为挣10万假离婚让丈夫跟他人结婚",
@@ -2201,6 +2329,14 @@
       "onboard_time": 1770476482,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 171947,
+      "num": 171947,
+      "word": "李沛恩解约",
+      "onboard_time": 1770680838,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 171040,
@@ -2273,6 +2409,14 @@
       "onboard_time": 1770559042,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 164188,
+      "num": 164188,
+      "word": "米兰冬奥会偶遇关晓彤",
+      "onboard_time": 1770686299,
+      "rank": 21,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 163756,
@@ -2409,6 +2553,14 @@
       "onboard_time": 1770558742,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 152140,
+      "num": 152140,
+      "word": "县城转岗教师发声",
+      "onboard_time": 1770684380,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 151907,
@@ -2571,6 +2723,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 143984,
+      "num": 143984,
+      "word": "金枝",
+      "onboard_time": 1770686719,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 143460,
       "num": 143460,
       "word": "镖人",
@@ -2585,6 +2745,14 @@
       "onboard_time": 1770507918,
       "rank": 22,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 143265,
+      "num": 143265,
+      "word": "老舅躲催婚带外甥一起跑路",
+      "onboard_time": 1770688397,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 143159,
@@ -2664,6 +2832,14 @@
       "word": "冬奥会",
       "onboard_time": 1770642502,
       "rank": 21,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 139269,
+      "num": 139269,
+      "word": "谷爱凌1个项目收入1墩1蒂娜",
+      "onboard_time": 1770681560,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -2819,6 +2995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 132796,
+      "num": 132796,
+      "word": "妻子孕期丈夫却在女厕爬马桶偷拍",
+      "onboard_time": 1770678256,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132758,
       "num": 132758,
       "word": "BLG十六番战EDG",
@@ -2913,6 +3097,22 @@
       "onboard_time": 1770539719,
       "rank": 26,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 123837,
+      "num": 123837,
+      "word": "龙麦这和官宣有什么区别",
+      "onboard_time": 1770691760,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 123484,
+      "num": 123484,
+      "word": "乔杉回应看谢霆锋的眼神",
+      "onboard_time": 1770686478,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 123094,
@@ -3075,11 +3275,11 @@
       "category": "国际时政,体育"
     },
     {
-      "raw_hot": 117395,
-      "num": 84027,
-      "word": "妻子孕期丈夫却在女厕爬马桶偷拍",
-      "onboard_time": 1770678256,
-      "rank": 22,
+      "raw_hot": 117353,
+      "num": 117353,
+      "word": "女子1月结婚2次孩子竟是第3人的",
+      "onboard_time": 1770688279,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -3185,6 +3385,22 @@
       "onboard_time": 1770561143,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 114212,
+      "num": 114212,
+      "word": "黑神话钟馗实机短片",
+      "onboard_time": 1770691340,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 113449,
+      "num": 113449,
+      "word": "TF我们的少年时代2开机",
+      "onboard_time": 1770683721,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 113436,
@@ -3363,6 +3579,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 109397,
+      "num": 109397,
+      "word": "网传开推4常驻女嘉宾只剩下金靖了",
+      "onboard_time": 1770683780,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 109388,
       "num": 109388,
       "word": "苏翊鸣说判罚完全公平",
@@ -3377,6 +3601,14 @@
       "onboard_time": 1770507618,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109192,
+      "num": 105405,
+      "word": "张艺谋说刘耀文不一定要去考伯克利",
+      "onboard_time": 1770682398,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 109158,
@@ -3531,6 +3763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 106865,
+      "num": 106865,
+      "word": "一生气就不说话",
+      "onboard_time": 1770684500,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 106788,
       "num": 106788,
       "word": "张钧甯 果然年上最知道疼人",
@@ -3561,6 +3801,14 @@
       "onboard_time": 1770563360,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 105210,
+      "num": 105210,
+      "word": "天才游戏",
+      "onboard_time": 1770690022,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 105172,
@@ -3987,6 +4235,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 95962,
+      "num": 95962,
+      "word": "齐司礼桃礼呈祥",
+      "onboard_time": 1770691760,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 95502,
       "num": 82183,
       "word": "网传迪丽热巴不参加开推4",
@@ -4057,6 +4313,14 @@
       "onboard_time": 1770630801,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 94211,
+      "num": 94211,
+      "word": "辛芷蕾威尼斯之后的变化",
+      "onboard_time": 1770691999,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 94030,
@@ -4211,6 +4475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 91181,
+      "num": 91181,
+      "word": "元宝红包",
+      "onboard_time": 1770685640,
+      "rank": 46,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 91095,
       "num": 91095,
       "word": "全红婵双马尾皮衣造型登杂志封面",
@@ -4331,6 +4603,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 88331,
+      "num": 88331,
+      "word": "第一次看到机器人i成这样",
+      "onboard_time": 1770691822,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 88259,
       "num": 84918,
       "word": "沈腾范丞丞现场赛车解说",
@@ -4345,14 +4625,6 @@
       "onboard_time": 1770630261,
       "rank": 17,
       "category": "美食"
-    },
-    {
-      "raw_hot": 88124,
-      "num": 80708,
-      "word": "孙颖莎 ELLE",
-      "onboard_time": 1770679398,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 88060,
@@ -4379,12 +4651,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 87758,
-      "num": 80264,
-      "word": "李沛恩解约",
-      "onboard_time": 1770680838,
-      "rank": 24,
-      "category": "艺人"
+      "raw_hot": 87775,
+      "num": 87775,
+      "word": "雷军回应美国高速出现YU7",
+      "onboard_time": 1770692061,
+      "rank": 48,
+      "category": "汽车"
     },
     {
       "raw_hot": 87755,
@@ -4425,6 +4697,14 @@
       "onboard_time": 1770542841,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 87421,
+      "num": 87421,
+      "word": "金饰价一夜涨了6元",
+      "onboard_time": 1770692061,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 87409,
@@ -6091,6 +6371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 47505,
+      "num": 224154,
+      "word": "谷爱凌期待第三次参加奥运",
+      "onboard_time": 1770690979,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 46764,
       "num": 46764,
       "word": "美国防部称在印度洋拦截一艘油轮",
@@ -6139,6 +6427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 44763,
+      "num": 143389,
+      "word": "Seedance2.0杀死了AI视频比赛",
+      "onboard_time": 1770690858,
+      "rank": 25,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 44594,
       "num": 50407,
       "word": "跳台滑雪",
@@ -6185,14 +6481,6 @@
       "onboard_time": 1770569238,
       "rank": 49,
       "category": "电影"
-    },
-    {
-      "raw_hot": 44120,
-      "num": 44120,
-      "word": "谷爱凌1个项目收入1墩1蒂娜",
-      "onboard_time": 1770681560,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 43966,
@@ -6635,12 +6923,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 28954,
+      "num": 106225,
+      "word": "官方回应黑茶传销事件进展",
+      "onboard_time": 1770690921,
+      "rank": 38,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 28648,
       "num": 28648,
       "word": "苏翊鸣决赛首跳成功",
       "onboard_time": 1770490395,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 28573,
+      "num": 143440,
+      "word": "过年模式正在开启",
+      "onboard_time": 1770691700,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27983,
@@ -6833,6 +7137,14 @@
       "onboard_time": 1770498254,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 22993,
+      "num": 96805,
+      "word": "第一个起飞最后一个着舰只为守护",
+      "onboard_time": 1770691521,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 22812,
@@ -7155,6 +7467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 10475,
+      "num": 106575,
+      "word": "生命树博拉木拉保护区成立",
+      "onboard_time": 1770691999,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 9892,
       "num": 87018,
       "word": "申聪回家5年后首谈养家生活",
@@ -7193,6 +7513,22 @@
       "onboard_time": 1770550941,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 6096,
+      "num": 710647,
+      "word": "来北京过年吧",
+      "onboard_time": 1770691880,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 4075,
+      "num": 105704,
+      "word": "海尔周云杰携高管集体拜年",
+      "onboard_time": 1770689480,
+      "rank": 39,
+      "category": "互联网"
     }
   ],
   "hotgov_list": [
@@ -7216,6 +7552,9 @@
     },
     {
       "word": "#读懂总书记这次考察的三个不一般#"
+    },
+    {
+      "word": "#习近平总书记关注科技自立自强#"
     }
   ]
 }
