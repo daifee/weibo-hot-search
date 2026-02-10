@@ -1,6 +1,6 @@
 {
   "startTime": 1770482461321,
-  "endTime": 1770680763695,
+  "endTime": 1770681687586,
   "band_list": [
     {
       "raw_hot": 7279878,
@@ -155,20 +155,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1067441,
+      "num": 88704,
+      "word": "女子孕期被疑出轨公公转650万安抚",
+      "onboard_time": 1770655698,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1034346,
       "num": 781279,
       "word": "爱吃柚子的人天塌了",
       "onboard_time": 1770516620,
       "rank": 5,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1034091,
-      "num": 88704,
-      "word": "女子孕期被疑出轨公公转650万安抚",
-      "onboard_time": 1770655698,
-      "rank": 10,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1030763,
@@ -555,6 +555,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 509649,
+      "num": 948680,
+      "word": "夏雨荷和乾隆一见误终生是这样的",
+      "onboard_time": 1770678256,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 508520,
       "num": 167557,
       "word": "白鹿女装牛仔裤",
@@ -689,14 +697,6 @@
       "onboard_time": 1770640338,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 436086,
-      "num": 948680,
-      "word": "夏雨荷和乾隆一见误终生是这样的",
-      "onboard_time": 1770678256,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 433783,
@@ -868,7 +868,7 @@
     },
     {
       "raw_hot": 399787,
-      "num": 779368,
+      "num": 795151,
       "word": "车厘子价格崩了口感也崩了",
       "onboard_time": 1770650421,
       "rank": 19,
@@ -947,6 +947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 378569,
+      "num": 1060571,
+      "word": "南博文物事件24人被处理",
+      "onboard_time": 1770643223,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 376244,
       "num": 268388,
       "word": "高市早苗赌赢日本更危险了",
@@ -985,14 +993,6 @@
       "onboard_time": 1770543080,
       "rank": 30,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 369286,
-      "num": 696064,
-      "word": "南博文物事件24人被处理",
-      "onboard_time": 1770643223,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 368593,
@@ -1611,6 +1611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 241234,
+      "num": 241234,
+      "word": "15岁男生徒手掰苹果掰断80公斤臂力器",
+      "onboard_time": 1770678316,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 240298,
       "num": 240298,
       "word": "民宿老板得知携程被调查放烟花庆祝",
@@ -1851,6 +1859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 211828,
+      "num": 211828,
+      "word": "小年",
+      "onboard_time": 1770678136,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 211738,
       "num": 706408,
       "word": "张维伊被内推再见爱人",
@@ -1947,14 +1963,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 200355,
-      "num": 200355,
-      "word": "15岁男生徒手掰苹果掰断80公斤臂力器",
-      "onboard_time": 1770678316,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 199243,
       "num": 199243,
       "word": "蒯曼铜牌",
@@ -1969,6 +1977,14 @@
       "onboard_time": 1770595879,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 198493,
+      "num": 198493,
+      "word": "内存价格飙升90%",
+      "onboard_time": 1770679096,
+      "rank": 8,
+      "category": "财经"
     },
     {
       "raw_hot": 197431,
@@ -2043,6 +2059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 188463,
+      "num": 188463,
+      "word": "谷爱凌拿出了自己的最佳表现",
+      "onboard_time": 1770676694,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 187401,
       "num": 187401,
       "word": "LadyGaga空降超级碗中场秀",
@@ -2091,6 +2115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 182410,
+      "num": 85281,
+      "word": "女子给哥哥买房后却不许除夕留宿",
+      "onboard_time": 1770678195,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 181154,
       "num": 181154,
       "word": "办婚礼没领证女子在爱人祭日被赶婚房",
@@ -2128,14 +2160,6 @@
       "word": "河南拆迁时发现乾隆年间雕花木梁",
       "onboard_time": 1770635959,
       "rank": 7,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 175269,
-      "num": 175269,
-      "word": "小年",
-      "onboard_time": 1770678136,
-      "rank": 6,
       "category": "民生新闻"
     },
     {
@@ -2224,14 +2248,6 @@
       "word": "一句快递停运网友连下20单",
       "onboard_time": 1770552441,
       "rank": 28,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 166120,
-      "num": 85281,
-      "word": "女子给哥哥买房后却不许除夕留宿",
-      "onboard_time": 1770678195,
-      "rank": 20,
       "category": "民生新闻"
     },
     {
@@ -2611,14 +2627,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 141708,
-      "num": 141708,
-      "word": "谷爱凌拿出了自己的最佳表现",
-      "onboard_time": 1770676694,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 141605,
       "num": 290926,
       "word": "王楚钦4比0张佑安",
@@ -2931,6 +2939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 122918,
+      "num": 120664,
+      "word": "男子在女厕所偷拍摔倒被当场抓获",
+      "onboard_time": 1770649162,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122526,
       "num": 122526,
       "word": "飞驰人生3",
@@ -2961,14 +2977,6 @@
       "onboard_time": 1770532821,
       "rank": 28,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 120664,
-      "num": 120664,
-      "word": "男子在女厕所偷拍摔倒被当场抓获",
-      "onboard_time": 1770649162,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 119973,
@@ -3035,14 +3043,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 118360,
-      "num": 118360,
-      "word": "内存价格飙升90%",
-      "onboard_time": 1770679096,
-      "rank": 8,
-      "category": "财经"
-    },
-    {
       "raw_hot": 118327,
       "num": 118327,
       "word": "EDG 醒一醒",
@@ -3073,6 +3073,14 @@
       "onboard_time": 1770626421,
       "rank": 36,
       "category": "国际时政,体育"
+    },
+    {
+      "raw_hot": 117395,
+      "num": 84027,
+      "word": "妻子孕期丈夫却在女厕爬马桶偷拍",
+      "onboard_time": 1770678256,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 116912,
@@ -3361,14 +3369,6 @@
       "onboard_time": 1770507557,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 109292,
-      "num": 84027,
-      "word": "妻子孕期丈夫却在女厕爬马桶偷拍",
-      "onboard_time": 1770678256,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 109242,
@@ -3875,6 +3875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 99039,
+      "num": 87470,
+      "word": "山东招远一金矿发生坠罐事故致7死",
+      "onboard_time": 1770653660,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 98835,
       "num": 98835,
       "word": "罗云熙陈瑶是同个公司的",
@@ -3977,6 +3985,14 @@
       "onboard_time": 1770538878,
       "rank": 28,
       "category": "财经"
+    },
+    {
+      "raw_hot": 95502,
+      "num": 82183,
+      "word": "网传迪丽热巴不参加开推4",
+      "onboard_time": 1770678977,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 95226,
@@ -4275,14 +4291,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 89534,
-      "num": 87470,
-      "word": "山东招远一金矿发生坠罐事故致7死",
-      "onboard_time": 1770653660,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 89477,
       "num": 89477,
       "word": "小米租车测试引争议",
@@ -4339,6 +4347,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 88124,
+      "num": 80708,
+      "word": "孙颖莎 ELLE",
+      "onboard_time": 1770679398,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 88060,
       "num": 88060,
       "word": "苹果将发布多款新品",
@@ -4361,6 +4377,14 @@
       "onboard_time": 1770610101,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 87758,
+      "num": 80264,
+      "word": "李沛恩解约",
+      "onboard_time": 1770680838,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 87755,
@@ -4563,6 +4587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 84597,
+      "num": 73598,
+      "word": "高市早苗修宪扩军将畅通无阻",
+      "onboard_time": 1770679036,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 84375,
       "num": 84375,
       "word": "喝牛奶补钙的真相",
@@ -4723,14 +4755,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 81482,
-      "num": 74951,
-      "word": "网传迪丽热巴不参加开推4",
-      "onboard_time": 1770678977,
-      "rank": 25,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 81477,
       "num": 81477,
       "word": "王楚钦孙颖莎troy",
@@ -4801,6 +4825,14 @@
       "onboard_time": 1770523699,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 80262,
+      "num": 80262,
+      "word": "开推4阵容",
+      "onboard_time": 1770680599,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 80008,
@@ -4961,6 +4993,14 @@
       "onboard_time": 1770616099,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 77096,
+      "num": 77096,
+      "word": "成何体统的刀是延迟生效的",
+      "onboard_time": 1770680718,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 77084,
@@ -5235,6 +5275,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 71184,
+      "num": 71184,
+      "word": "北方GDP十强城市出炉",
+      "onboard_time": 1770679997,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 71140,
       "num": 71140,
       "word": "A股再现00后董事长",
@@ -5265,6 +5313,14 @@
       "onboard_time": 1770602238,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 70561,
+      "num": 70561,
+      "word": "王诗玥柳鑫宇无缘冰舞决赛",
+      "onboard_time": 1770679817,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 70181,
@@ -5427,14 +5483,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 66566,
-      "num": 66566,
-      "word": "王诗玥柳鑫宇无缘冰舞决赛",
-      "onboard_time": 1770679817,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 65832,
       "num": 122604,
       "word": "1500余名缅甸赌诈嫌犯押解回国",
@@ -5579,14 +5627,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 61592,
-      "num": 61592,
-      "word": "高市早苗修宪扩军将畅通无阻",
-      "onboard_time": 1770679036,
-      "rank": 31,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 61482,
       "num": 76704,
       "word": "女子被拐32年曾离父母家仅1公里",
@@ -5601,14 +5641,6 @@
       "onboard_time": 1770623961,
       "rank": 19,
       "category": "综艺,艺人"
-    },
-    {
-      "raw_hot": 60606,
-      "num": 60606,
-      "word": "孙颖莎 ELLE",
-      "onboard_time": 1770679398,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 60281,
@@ -5755,6 +5787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 56066,
+      "num": 56066,
+      "word": "万能斜刘海适合肉肉脸方圆脸",
+      "onboard_time": 1770681619,
+      "rank": 41,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 55042,
       "num": 55042,
       "word": "唐宫第10集开局一群人结尾一堆坟",
@@ -5801,6 +5841,14 @@
       "onboard_time": 1770475463,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 52493,
+      "num": 52493,
+      "word": "苏翊鸣现场观看女子大跳台决赛",
+      "onboard_time": 1770681499,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 52182,
@@ -5857,6 +5905,14 @@
       "onboard_time": 1770507978,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 51151,
+      "num": 51151,
+      "word": "C罗硬刚到底",
+      "onboard_time": 1770681078,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 50852,
@@ -5987,6 +6043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 48984,
+      "num": 56800,
+      "word": "极氪召回超3.8万辆车",
+      "onboard_time": 1770680479,
+      "rank": 39,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 48913,
       "num": 102770,
       "word": "孙颖莎晒照三面五星红旗同时升起",
@@ -6027,12 +6091,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 47557,
-      "num": 47557,
-      "word": "北方GDP十强城市出炉",
-      "onboard_time": 1770679997,
-      "rank": 40,
-      "category": "民生新闻"
+      "raw_hot": 46764,
+      "num": 46764,
+      "word": "美国防部称在印度洋拦截一艘油轮",
+      "onboard_time": 1770680960,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 46504,
@@ -6123,6 +6187,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 44120,
+      "num": 44120,
+      "word": "谷爱凌1个项目收入1墩1蒂娜",
+      "onboard_time": 1770681560,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 43966,
       "num": 269792,
       "word": "山西朔州车间爆炸致7死1失联",
@@ -6171,20 +6243,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 42522,
+      "num": 42522,
+      "word": "丞磊 原来你这么帅啊",
+      "onboard_time": 1770681560,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 41563,
       "num": 89254,
       "word": "办婚礼未领证男方去世彩礼该退吗",
       "onboard_time": 1770539540,
       "rank": 39,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 41378,
-      "num": 41378,
-      "word": "成何体统的刀是延迟生效的",
-      "onboard_time": 1770680718,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 41107,
@@ -6401,14 +6473,6 @@
       "onboard_time": 1770485956,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 34455,
-      "num": 47589,
-      "word": "极氪召回超3.8万辆车",
-      "onboard_time": 1770680479,
-      "rank": 39,
-      "category": "汽车"
     },
     {
       "raw_hot": 34452,
@@ -7067,6 +7131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 12653,
+      "num": 628263,
+      "word": "冰上版速度与激情观看指南",
+      "onboard_time": 1770642142,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 11934,
       "num": 16264,
       "word": "张真源小张盲盒外出记录",
@@ -7081,14 +7153,6 @@
       "onboard_time": 1770663016,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 11166,
-      "num": 540728,
-      "word": "冰上版速度与激情观看指南",
-      "onboard_time": 1770642142,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 9892,

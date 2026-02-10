@@ -1,0 +1,410 @@
+{
+  "runTime": 1770681687586,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 378569,
+        "num": 1060571,
+        "word": "南博文物事件24人被处理",
+        "onboard_time": 1770643223,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 247064,
+        "num": 795151,
+        "word": "车厘子价格崩了口感也崩了",
+        "onboard_time": 1770650421,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12653,
+        "num": 628263,
+        "word": "冰上版速度与激情观看指南",
+        "onboard_time": 1770642142,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 509649,
+        "num": 509649,
+        "word": "夏雨荷和乾隆一见误终生是这样的",
+        "onboard_time": 1770678256,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 241234,
+        "num": 241234,
+        "word": "15岁男生徒手掰苹果掰断80公斤臂力器",
+        "onboard_time": 1770678316,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234925,
+        "num": 234925,
+        "word": "开始推理吧4",
+        "onboard_time": 1770644843,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211828,
+        "num": 211828,
+        "word": "小年",
+        "onboard_time": 1770678136,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198493,
+        "num": 198493,
+        "word": "内存价格飙升90%",
+        "onboard_time": 1770679096,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 188463,
+        "num": 188463,
+        "word": "谷爱凌拿出了自己的最佳表现",
+        "onboard_time": 1770676694,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84965,
+        "num": 84965,
+        "word": "陈飞宇 阿瑟帅回宫了",
+        "onboard_time": 1770645922,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1067441,
+        "num": 84934,
+        "word": "女子孕期被疑出轨公公转650万安抚",
+        "onboard_time": 1770655698,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 258497,
+        "num": 84551,
+        "word": "爱泼斯坦被爆可能没死",
+        "onboard_time": 1770638720,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 231851,
+        "num": 84321,
+        "word": "保姆按要求分房睡老人离世成被告",
+        "onboard_time": 1770644720,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138852,
+        "num": 83906,
+        "word": "受害者第1次见爱泼斯坦被带进红房间",
+        "onboard_time": 1770654858,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 122918,
+        "num": 83424,
+        "word": "男子在女厕所偷拍摔倒被当场抓获",
+        "onboard_time": 1770649162,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118679,
+        "num": 83393,
+        "word": "只要华为不跪产品就不贵",
+        "onboard_time": 1770642263,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 99987,
+        "num": 82996,
+        "word": "男子让6个月孩子看电视女友劝阻后被打",
+        "onboard_time": 1770646462,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99039,
+        "num": 82513,
+        "word": "山东招远一金矿发生坠罐事故致7死",
+        "onboard_time": 1770653660,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95502,
+        "num": 82183,
+        "word": "网传迪丽热巴不参加开推4",
+        "onboard_time": 1770678977,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 90972,
+        "num": 82007,
+        "word": "吴克群说做自媒体拍吃喝很无聊",
+        "onboard_time": 1770650660,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182410,
+        "num": 81695,
+        "word": "女子给哥哥买房后却不许除夕留宿",
+        "onboard_time": 1770678195,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122596,
+        "num": 81326,
+        "word": "易烊千玺打耳洞了",
+        "onboard_time": 1770647362,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117395,
+        "num": 81058,
+        "word": "妻子孕期丈夫却在女厕爬马桶偷拍",
+        "onboard_time": 1770678256,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88124,
+        "num": 80708,
+        "word": "孙颖莎 ELLE",
+        "onboard_time": 1770679398,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87758,
+        "num": 80264,
+        "word": "李沛恩解约",
+        "onboard_time": 1770680838,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80262,
+        "num": 80262,
+        "word": "开推4阵容",
+        "onboard_time": 1770680599,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79284,
+        "num": 79284,
+        "word": "多只小鸟撞西安万象城玻璃墙死亡",
+        "onboard_time": 1770641060,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77096,
+        "num": 77096,
+        "word": "成何体统的刀是延迟生效的",
+        "onboard_time": 1770680718,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75287,
+        "num": 75287,
+        "word": "生命树白菊爆头",
+        "onboard_time": 1770651500,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74337,
+        "num": 74337,
+        "word": "伊朗向中俄通报美伊谈判细节",
+        "onboard_time": 1770641480,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 84597,
+        "num": 73598,
+        "word": "高市早苗修宪扩军将畅通无阻",
+        "onboard_time": 1770679036,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 71184,
+        "num": 71184,
+        "word": "北方GDP十强城市出炉",
+        "onboard_time": 1770679997,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70561,
+        "num": 70561,
+        "word": "王诗玥柳鑫宇无缘冰舞决赛",
+        "onboard_time": 1770679817,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 70507,
+        "num": 70507,
+        "word": "南京博物院事件最新通报",
+        "onboard_time": 1770642861,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67114,
+        "num": 67114,
+        "word": "成毅片场被冻到",
+        "onboard_time": 1770678316,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63142,
+        "num": 63142,
+        "word": "谷爱凌回应米兰冬奥银牌",
+        "onboard_time": 1770644902,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 61646,
+        "num": 61646,
+        "word": "这家人的住商好高",
+        "onboard_time": 1770642983,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 57443,
+        "num": 57443,
+        "word": "郑钦文逆转前澳网冠军",
+        "onboard_time": 1770652400,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 57312,
+        "num": 57312,
+        "word": "时代少年团 外务",
+        "onboard_time": 1770647780,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48984,
+        "num": 56800,
+        "word": "极氪召回超3.8万辆车",
+        "onboard_time": 1770680479,
+        "rank": 39,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 56620,
+        "num": 56620,
+        "word": "高德打车被约谈整改",
+        "onboard_time": 1770675494,
+        "rank": 40,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 56066,
+        "num": 56066,
+        "word": "万能斜刘海适合肉肉脸方圆脸",
+        "onboard_time": 1770681619,
+        "rank": 41,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 52493,
+        "num": 52493,
+        "word": "苏翊鸣现场观看女子大跳台决赛",
+        "onboard_time": 1770681499,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 51482,
+        "num": 51482,
+        "word": "宋祺武创男子跳台滑雪历史",
+        "onboard_time": 1770676817,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 51151,
+        "num": 51151,
+        "word": "C罗硬刚到底",
+        "onboard_time": 1770681078,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 50067,
+        "num": 50067,
+        "word": "金晨风波后现身澳门",
+        "onboard_time": 1770646761,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46764,
+        "num": 46764,
+        "word": "美国防部称在印度洋拦截一艘油轮",
+        "onboard_time": 1770680960,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 44284,
+        "num": 44284,
+        "word": "白鹿新剧放过了自己没放过别人",
+        "onboard_time": 1770664694,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44120,
+        "num": 44120,
+        "word": "谷爱凌1个项目收入1墩1蒂娜",
+        "onboard_time": 1770681560,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 42522,
+        "num": 42522,
+        "word": "丞磊 原来你这么帅啊",
+        "onboard_time": 1770681560,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#读懂总书记这次考察的三个不一般#"
+    }
+  }
+}
