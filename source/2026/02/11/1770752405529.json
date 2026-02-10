@@ -1,0 +1,410 @@
+{
+  "runTime": 1770752405529,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 69758,
+        "num": 69758,
+        "word": "男子为避酒店春节涨价花1万多租房",
+        "onboard_time": 1770738023,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42596,
+        "num": 42596,
+        "word": "韩媒质问这还是体育吗",
+        "onboard_time": 1770736941,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13796,
+        "num": 41867,
+        "word": "中国无人机大山里运腊肠",
+        "onboard_time": 1770729920,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48228,
+        "num": 41815,
+        "word": "AI制图骗局",
+        "onboard_time": 1770747854,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41311,
+        "num": 41311,
+        "word": "海外已夸爆Seedance2.0",
+        "onboard_time": 1770735801,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 36838,
+        "num": 36838,
+        "word": "短道队多人为孙龙发声",
+        "onboard_time": 1770736401,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35123,
+        "num": 35123,
+        "word": "成何体统",
+        "onboard_time": 1770722600,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34590,
+        "num": 34590,
+        "word": "付费假装上班被要求不迟到不玩手机",
+        "onboard_time": 1770736941,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34590,
+        "num": 34590,
+        "word": "千问说30亿免单卡快领完了",
+        "onboard_time": 1770750073,
+        "rank": 8,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 31082,
+        "num": 31082,
+        "word": "德云社封箱",
+        "onboard_time": 1770736342,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 152139,
+        "num": 31080,
+        "word": "肖战",
+        "onboard_time": 1770735983,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71365,
+        "num": 31049,
+        "word": "李谷一回应缺席马年春晚",
+        "onboard_time": 1770745157,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44702,
+        "num": 31042,
+        "word": "射雕英雄传侠之大者金像奖0提",
+        "onboard_time": 1770735323,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 40946,
+        "num": 31021,
+        "word": "堂姐介绍已婚男致女子遇害事后失联",
+        "onboard_time": 1770735622,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40880,
+        "num": 30990,
+        "word": "陈星旭 情商",
+        "onboard_time": 1770721161,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31496,
+        "num": 30968,
+        "word": "74岁肥猫被医生建议注射药物镇痛",
+        "onboard_time": 1770729741,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30964,
+        "num": 30964,
+        "word": "雷军确认第一代SU7停产",
+        "onboard_time": 1770735861,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 27603,
+        "num": 27603,
+        "word": "惊蛰无声",
+        "onboard_time": 1770739880,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 25186,
+        "num": 25186,
+        "word": "王曼昱决胜局擦边球尊重裁判",
+        "onboard_time": 1770722299,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24381,
+        "num": 24381,
+        "word": "生命树",
+        "onboard_time": 1770724341,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 66549,
+        "num": 24149,
+        "word": "王濛快哭了",
+        "onboard_time": 1770734364,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 48772,
+        "num": 23995,
+        "word": "日本彻底失控",
+        "onboard_time": 1770733282,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 40960,
+        "num": 23824,
+        "word": "孙龙失误",
+        "onboard_time": 1770728061,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33679,
+        "num": 23382,
+        "word": "我们的少年时代2 双男主",
+        "onboard_time": 1770717980,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25423,
+        "num": 23208,
+        "word": "林孝埈捂脸长时间低头",
+        "onboard_time": 1770730582,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23125,
+        "num": 23125,
+        "word": "成毅两京十五日杀青",
+        "onboard_time": 1770743598,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22918,
+        "num": 22918,
+        "word": "印度大一男生求婚遭拒将女生枪杀",
+        "onboard_time": 1770733883,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 20286,
+        "num": 20286,
+        "word": "爱泼斯坦别墅内老虎标本栩栩如生",
+        "onboard_time": 1770724701,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 19636,
+        "num": 19636,
+        "word": "小年",
+        "onboard_time": 1770718400,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18965,
+        "num": 19600,
+        "word": "这3件事是生命力的表现",
+        "onboard_time": 1770739101,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 26073,
+        "num": 19587,
+        "word": "韩国又一非法拍摄网站曝光",
+        "onboard_time": 1770747435,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 21461,
+        "num": 19583,
+        "word": "镖人",
+        "onboard_time": 1770738500,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 19568,
+        "num": 19568,
+        "word": "瑞典兄妹组合冰壶混双夺金",
+        "onboard_time": 1770750255,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18961,
+        "num": 18961,
+        "word": "井柏然刘雯机场十指紧扣",
+        "onboard_time": 1770724761,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18929,
+        "num": 18929,
+        "word": "洪世贤掉到榜二了",
+        "onboard_time": 1770714560,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18704,
+        "num": 18704,
+        "word": "白鹿心疼壁上花案里的女孩",
+        "onboard_time": 1770748335,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17997,
+        "num": 18697,
+        "word": "特朗普表面祝贺高市私下大发雷霆",
+        "onboard_time": 1770730102,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 17403,
+        "num": 18692,
+        "word": "王濛说中国队尽力了",
+        "onboard_time": 1770741138,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17174,
+        "num": 18688,
+        "word": "春晚",
+        "onboard_time": 1770720081,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15857,
+        "num": 18683,
+        "word": "易烊千玺晒严迪剧照",
+        "onboard_time": 1770746896,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 15750,
+        "num": 18675,
+        "word": "非遗傩舞",
+        "onboard_time": 1770745576,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15464,
+        "num": 18666,
+        "word": "张杰给100多名员工发超万元红包",
+        "onboard_time": 1770736282,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15433,
+        "num": 18658,
+        "word": "米兰的冰有点软",
+        "onboard_time": 1770740420,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15401,
+        "num": 18648,
+        "word": "曲春雨退役",
+        "onboard_time": 1770730700,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15391,
+        "num": 18644,
+        "word": "中国短道混接无缘奖牌",
+        "onboard_time": 1770726022,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14628,
+        "num": 18636,
+        "word": "郑则仕因不想终生注射药物开始跑步",
+        "onboard_time": 1770731420,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14617,
+        "num": 18630,
+        "word": "生命树最讽刺的一幕",
+        "onboard_time": 1770732321,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14486,
+        "num": 18623,
+        "word": "杨洋换风格了",
+        "onboard_time": 1770727761,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14338,
+        "num": 18617,
+        "word": "于正回应明星扎堆前往大孤山",
+        "onboard_time": 1770720740,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13424,
+        "num": 18608,
+        "word": "白敬亭真的拿出手机调静音了",
+        "onboard_time": 1770727641,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在北京看望慰问基层干部群众#"
+    }
+  }
+}
