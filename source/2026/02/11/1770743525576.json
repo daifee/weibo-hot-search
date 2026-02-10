@@ -1,0 +1,410 @@
+{
+  "runTime": 1770743525576,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 312824,
+        "num": 545902,
+        "word": "男子为避酒店春节涨价花1万多租房",
+        "onboard_time": 1770738023,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222833,
+        "num": 391466,
+        "word": "短道队多人为孙龙发声",
+        "onboard_time": 1770736401,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28169,
+        "num": 313215,
+        "word": "中国无人机大山里运腊肠",
+        "onboard_time": 1770729920,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218530,
+        "num": 218530,
+        "word": "韩媒质问这还是体育吗",
+        "onboard_time": 1770736941,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213084,
+        "num": 213084,
+        "word": "海外已夸爆Seedance2.0",
+        "onboard_time": 1770735801,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 145170,
+        "num": 145170,
+        "word": "付费假装上班被要求不迟到不玩手机",
+        "onboard_time": 1770736941,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144863,
+        "num": 144863,
+        "word": "雷军确认第一代SU7停产",
+        "onboard_time": 1770735861,
+        "rank": 6,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 123374,
+        "num": 123374,
+        "word": "成何体统",
+        "onboard_time": 1770722600,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103251,
+        "num": 103251,
+        "word": "德云社封箱",
+        "onboard_time": 1770736342,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 70447,
+        "num": 102552,
+        "word": "王濛说中国队尽力了",
+        "onboard_time": 1770741138,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 421125,
+        "num": 102002,
+        "word": "肖战",
+        "onboard_time": 1770735983,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245828,
+        "num": 101036,
+        "word": "陈星旭 情商",
+        "onboard_time": 1770721161,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152218,
+        "num": 100460,
+        "word": "射雕英雄传侠之大者金像奖0提",
+        "onboard_time": 1770735323,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 106448,
+        "num": 100075,
+        "word": "王曼昱决胜局擦边球尊重裁判",
+        "onboard_time": 1770722299,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99342,
+        "num": 99342,
+        "word": "堂姐介绍已婚男致女子遇害事后失联",
+        "onboard_time": 1770735622,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92886,
+        "num": 92886,
+        "word": "井柏然刘雯机场十指紧扣",
+        "onboard_time": 1770724761,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84146,
+        "num": 84146,
+        "word": "印度大一男生求婚遭拒将女生枪杀",
+        "onboard_time": 1770733883,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 80587,
+        "num": 80587,
+        "word": "哇唧唧哇年会",
+        "onboard_time": 1770731420,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 70459,
+        "num": 70459,
+        "word": "12306回应高铁座椅钻出活蜥蜴",
+        "onboard_time": 1770728421,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69072,
+        "num": 69072,
+        "word": "74岁肥猫被医生建议注射药物镇痛",
+        "onboard_time": 1770729741,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 431965,
+        "num": 68377,
+        "word": "王濛快哭了",
+        "onboard_time": 1770734364,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 62964,
+        "num": 62964,
+        "word": "生命树最讽刺的一幕",
+        "onboard_time": 1770732321,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 251161,
+        "num": 62676,
+        "word": "日本彻底失控",
+        "onboard_time": 1770733282,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 246658,
+        "num": 62233,
+        "word": "孙龙失误",
+        "onboard_time": 1770728061,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145637,
+        "num": 61611,
+        "word": "林孝埈捂脸长时间低头",
+        "onboard_time": 1770730582,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140255,
+        "num": 61156,
+        "word": "我们的少年时代2 双男主",
+        "onboard_time": 1770717980,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60973,
+        "num": 60973,
+        "word": "米兰的冰有点软",
+        "onboard_time": 1770740420,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 58680,
+        "num": 58680,
+        "word": "张杰给100多名员工发超万元红包",
+        "onboard_time": 1770736282,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56361,
+        "num": 56361,
+        "word": "哇唧唧哇年会廖俊涛 丹妮丹妮",
+        "onboard_time": 1770738023,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 48617,
+        "num": 51804,
+        "word": "刘少昂回应混接无缘奖牌",
+        "onboard_time": 1770734302,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 50030,
+        "num": 50030,
+        "word": "爱泼斯坦别墅内老虎标本栩栩如生",
+        "onboard_time": 1770724701,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 49005,
+        "num": 49005,
+        "word": "惊蛰无声",
+        "onboard_time": 1770739880,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 48914,
+        "num": 48914,
+        "word": "杨洋换风格了",
+        "onboard_time": 1770727761,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47478,
+        "num": 47478,
+        "word": "白敬亭真的拿出手机调静音了",
+        "onboard_time": 1770727641,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46304,
+        "num": 46304,
+        "word": "中国短道混接无缘奖牌",
+        "onboard_time": 1770726022,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 45598,
+        "num": 45598,
+        "word": "镖人",
+        "onboard_time": 1770738500,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 41676,
+        "num": 45596,
+        "word": "生命树",
+        "onboard_time": 1770724341,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44289,
+        "num": 45587,
+        "word": "洪世贤掉到榜二了",
+        "onboard_time": 1770714560,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43239,
+        "num": 45577,
+        "word": "深圳一公司发巨额年终奖",
+        "onboard_time": 1770729681,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41788,
+        "num": 45577,
+        "word": "小年",
+        "onboard_time": 1770718400,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39631,
+        "num": 45565,
+        "word": "郑则仕因不想终生注射药物开始跑步",
+        "onboard_time": 1770731420,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39323,
+        "num": 45556,
+        "word": "NDOUBLE 接生",
+        "onboard_time": 1770731541,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38204,
+        "num": 45553,
+        "word": "于正回应明星扎堆前往大孤山",
+        "onboard_time": 1770720740,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37811,
+        "num": 45541,
+        "word": "特朗普表面祝贺高市私下大发雷霆",
+        "onboard_time": 1770730102,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 36780,
+        "num": 45539,
+        "word": "教师回应被举报强奸学生拐走孩子",
+        "onboard_time": 1770735263,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35349,
+        "num": 45531,
+        "word": "惊蛰无声预售票房",
+        "onboard_time": 1770737661,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 34721,
+        "num": 45521,
+        "word": "这3件事是生命力的表现",
+        "onboard_time": 1770739101,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 33826,
+        "num": 45518,
+        "word": "肖战蚌埠拍戏吃烧饼夹里脊",
+        "onboard_time": 1770735202,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 32581,
+        "num": 45511,
+        "word": "何与白色背心肌肉男",
+        "onboard_time": 1770738023,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 31489,
+        "num": 45503,
+        "word": "关系再好也不要说的事",
+        "onboard_time": 1770715521,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在北京看望慰问基层干部群众#"
+    }
+  }
+}
