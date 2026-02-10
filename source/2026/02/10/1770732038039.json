@@ -1,0 +1,410 @@
+{
+  "runTime": 1770732038039,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1789224,
+        "num": 1789224,
+        "word": "孙龙失误",
+        "onboard_time": 1770728061,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 426360,
+        "num": 951869,
+        "word": "中国短道混接无缘奖牌",
+        "onboard_time": 1770726022,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 63252,
+        "num": 715196,
+        "word": "中国无人机大山里运腊肠",
+        "onboard_time": 1770729920,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 447194,
+        "num": 447194,
+        "word": "林孝埈捂脸长时间低头",
+        "onboard_time": 1770730582,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 290381,
+        "num": 290381,
+        "word": "曲春雨退役",
+        "onboard_time": 1770730700,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 217193,
+        "num": 217193,
+        "word": "生命树",
+        "onboard_time": 1770724341,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210938,
+        "num": 210938,
+        "word": "女子年会中4克黄金熔后变白银",
+        "onboard_time": 1770725181,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203464,
+        "num": 203464,
+        "word": "武大靖笑得太大声了",
+        "onboard_time": 1770725061,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174067,
+        "num": 174067,
+        "word": "韩国申诉未果",
+        "onboard_time": 1770724881,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168888,
+        "num": 168888,
+        "word": "央视网络春晚",
+        "onboard_time": 1770723860,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 658049,
+        "num": 167382,
+        "word": "陈星旭 情商",
+        "onboard_time": 1770721161,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 292238,
+        "num": 163463,
+        "word": "王曼昱决胜局擦边球尊重裁判",
+        "onboard_time": 1770722299,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 547833,
+        "num": 156052,
+        "word": "井柏然刘雯机场十指紧扣",
+        "onboard_time": 1770724761,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 295951,
+        "num": 148739,
+        "word": "原来GAI早就官宣了",
+        "onboard_time": 1770729441,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32366,
+        "num": 144832,
+        "word": "微博之夜怼脸拍合集",
+        "onboard_time": 1770728479,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 143056,
+        "num": 143056,
+        "word": "关系再好也不要说的事",
+        "onboard_time": 1770715521,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 185101,
+        "num": 142223,
+        "word": "于正回应明星扎堆前往大孤山",
+        "onboard_time": 1770720740,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182546,
+        "num": 141291,
+        "word": "杨洋换风格了",
+        "onboard_time": 1770727761,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140228,
+        "num": 140228,
+        "word": "小年",
+        "onboard_time": 1770718400,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65838,
+        "num": 132852,
+        "word": "宋威龙分享手机里的私藏照片",
+        "onboard_time": 1770731240,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 310283,
+        "num": 132837,
+        "word": "我们的少年时代2 双男主",
+        "onboard_time": 1770717980,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131365,
+        "num": 131365,
+        "word": "米哈游宣布解雇常年法律顾问",
+        "onboard_time": 1770721759,
+        "rank": 21,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 186595,
+        "num": 131145,
+        "word": "洪世贤掉到榜二了",
+        "onboard_time": 1770714560,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171281,
+        "num": 130618,
+        "word": "哇唧唧哇年会",
+        "onboard_time": 1770731420,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 128997,
+        "num": 128997,
+        "word": "林孝埈晋级",
+        "onboard_time": 1770720081,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157141,
+        "num": 128898,
+        "word": "白鹿孟子义一起去了大孤山",
+        "onboard_time": 1770711678,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156283,
+        "num": 128525,
+        "word": "白敬亭真的拿出手机调静音了",
+        "onboard_time": 1770727641,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127956,
+        "num": 127956,
+        "word": "深圳一公司发巨额年终奖",
+        "onboard_time": 1770729681,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149770,
+        "num": 127732,
+        "word": "74岁肥猫被医生建议注射药物镇痛",
+        "onboard_time": 1770729741,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87459,
+        "num": 127536,
+        "word": "瑞幸回应杯套出现错别字",
+        "onboard_time": 1770715700,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127467,
+        "num": 127467,
+        "word": "12306回应高铁座椅钻出活蜥蜴",
+        "onboard_time": 1770728421,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128353,
+        "num": 126689,
+        "word": "薛之谦万兽之王演唱会官宣",
+        "onboard_time": 1770709639,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 128176,
+        "num": 126675,
+        "word": "郑则仕因不想终生注射药物开始跑步",
+        "onboard_time": 1770731420,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125891,
+        "num": 125891,
+        "word": "成何体统",
+        "onboard_time": 1770722600,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117432,
+        "num": 117432,
+        "word": "爱泼斯坦别墅内老虎标本栩栩如生",
+        "onboard_time": 1770724701,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 113580,
+        "num": 113580,
+        "word": "金像奖",
+        "onboard_time": 1770707779,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 109626,
+        "num": 109626,
+        "word": "儿子药物过敏女子协商未果怒砸设备",
+        "onboard_time": 1770730282,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84473,
+        "num": 109417,
+        "word": "20岁小伙做新郎跟妆师月入2万",
+        "onboard_time": 1770730463,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109370,
+        "num": 109370,
+        "word": "张楚桐 交接棒",
+        "onboard_time": 1770728600,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107707,
+        "num": 108580,
+        "word": "汕头4200一晚的亚朵已订满",
+        "onboard_time": 1770718520,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108570,
+        "num": 108570,
+        "word": "女子短道速滑500米预赛",
+        "onboard_time": 1770715281,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107936,
+        "num": 107936,
+        "word": "特朗普表面祝贺高市私下大发雷霆",
+        "onboard_time": 1770730102,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 107518,
+        "num": 107518,
+        "word": "短道速滑混团接力",
+        "onboard_time": 1770721399,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98661,
+        "num": 98661,
+        "word": "九尾四连胜后的自拍",
+        "onboard_time": 1770731602,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 95749,
+        "num": 95749,
+        "word": "武大靖解说",
+        "onboard_time": 1770728121,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89418,
+        "num": 93150,
+        "word": "韩媒称韩国队太冤枉了",
+        "onboard_time": 1770730341,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92494,
+        "num": 92494,
+        "word": "35岁以上租房族越来越多",
+        "onboard_time": 1770728181,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90687,
+        "num": 90687,
+        "word": "任子威说你还求上了",
+        "onboard_time": 1770725300,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90235,
+        "num": 90235,
+        "word": "NDOUBLE 接生",
+        "onboard_time": 1770731541,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89668,
+        "num": 89668,
+        "word": "OMG战胜EDG",
+        "onboard_time": 1770731482,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记向大家拜年#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1770482461321,
-  "endTime": 1770730163610,
+  "endTime": 1770732038039,
   "band_list": [
     {
       "raw_hot": 7279878,
@@ -436,7 +436,7 @@
     },
     {
       "raw_hot": 711070,
-      "num": 155978,
+      "num": 156052,
       "word": "井柏然刘雯机场十指紧扣",
       "onboard_time": 1770724761,
       "rank": 34,
@@ -969,6 +969,14 @@
       "onboard_time": 1770719538,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 447194,
+      "num": 447194,
+      "word": "林孝埈捂脸长时间低头",
+      "onboard_time": 1770730582,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 446336,
@@ -1811,6 +1819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 295951,
+      "num": 148739,
+      "word": "原来GAI早就官宣了",
+      "onboard_time": 1770729441,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 294252,
       "num": 170389,
       "word": "于谦被恢复执行",
@@ -1840,6 +1856,14 @@
       "word": "短道速滑 紧张",
       "onboard_time": 1770717620,
       "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 290381,
+      "num": 290381,
+      "word": "曲春雨退役",
+      "onboard_time": 1770730700,
+      "rank": 4,
       "category": "体育"
     },
     {
@@ -2443,6 +2467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 217193,
+      "num": 217193,
+      "word": "生命树",
+      "onboard_time": 1770558202,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 216407,
       "num": 151488,
       "word": "苏翊鸣教科书般的1980",
@@ -2851,6 +2883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 182546,
+      "num": 142772,
+      "word": "杨洋换风格了",
+      "onboard_time": 1770727761,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 182410,
       "num": 85281,
       "word": "女子给哥哥买房后却不许除夕留宿",
@@ -3003,6 +3043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171281,
+      "num": 130618,
+      "word": "哇唧唧哇年会",
+      "onboard_time": 1770731420,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 171040,
       "num": 171040,
       "word": "男子经常口干一查血糖超出正常值两倍",
@@ -3035,14 +3083,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 168301,
-      "num": 142772,
-      "word": "杨洋换风格了",
-      "onboard_time": 1770727761,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 166970,
       "num": 146503,
       "word": "蒲熠星突然发现单条微博不能超2000字",
@@ -3073,14 +3113,6 @@
       "onboard_time": 1770507557,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 165797,
-      "num": 139941,
-      "word": "原来GAI早就官宣了",
-      "onboard_time": 1770729441,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 165032,
@@ -3121,14 +3153,6 @@
       "onboard_time": 1770537860,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 163347,
-      "num": 163347,
-      "word": "生命树",
-      "onboard_time": 1770558202,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 162133,
@@ -3401,6 +3425,14 @@
       "onboard_time": 1770558026,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 149770,
+      "num": 127732,
+      "word": "74岁肥猫被医生建议注射药物镇痛",
+      "onboard_time": 1770729741,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 149323,
@@ -3899,12 +3931,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 128176,
+      "num": 126675,
+      "word": "郑则仕因不想终生注射药物开始跑步",
+      "onboard_time": 1770731420,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127977,
       "num": 99762,
       "word": "甲状腺是怎么一步一步失控的",
       "onboard_time": 1770481400,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 127956,
+      "num": 127956,
+      "word": "深圳一公司发巨额年终奖",
+      "onboard_time": 1770729681,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 127736,
@@ -3921,6 +3969,14 @@
       "onboard_time": 1770528320,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 127467,
+      "num": 127467,
+      "word": "12306回应高铁座椅钻出活蜥蜴",
+      "onboard_time": 1770728421,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 127338,
@@ -4153,6 +4209,14 @@
       "onboard_time": 1770626421,
       "rank": 36,
       "category": "国际时政,体育"
+    },
+    {
+      "raw_hot": 117432,
+      "num": 117432,
+      "word": "爱泼斯坦别墅内老虎标本栩栩如生",
+      "onboard_time": 1770724701,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 117353,
@@ -4499,6 +4563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 109626,
+      "num": 109626,
+      "word": "儿子药物过敏女子协商未果怒砸设备",
+      "onboard_time": 1770730282,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109484,
       "num": 109484,
       "word": "貂蝉年限美神降临",
@@ -4619,14 +4691,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 108723,
-      "num": 108723,
-      "word": "爱泼斯坦别墅内老虎标本栩栩如生",
-      "onboard_time": 1770724701,
-      "rank": 49,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 108610,
       "num": 108610,
       "word": "现在的老人vs以后的老人",
@@ -4689,6 +4753,14 @@
       "onboard_time": 1770534260,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 107936,
+      "num": 107936,
+      "word": "特朗普表面祝贺高市私下大发雷霆",
+      "onboard_time": 1770730102,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 107557,
@@ -5211,6 +5283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 98661,
+      "num": 98661,
+      "word": "九尾四连胜后的自拍",
+      "onboard_time": 1770731602,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 98549,
       "num": 98549,
       "word": "全红婵人物年度面孔封面",
@@ -5345,14 +5425,6 @@
       "onboard_time": 1770719121,
       "rank": 33,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 95602,
-      "num": 95602,
-      "word": "深圳一公司发巨额年终奖",
-      "onboard_time": 1770729681,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 95502,
@@ -5707,6 +5779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 90235,
+      "num": 90235,
+      "word": "NDOUBLE 接生",
+      "onboard_time": 1770731541,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 90149,
       "num": 90149,
       "word": "过年前的冰箱",
@@ -5723,6 +5803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 89668,
+      "num": 89668,
+      "word": "OMG战胜EDG",
+      "onboard_time": 1770731482,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 89582,
       "num": 89582,
       "word": "熬夜后怎么补觉",
@@ -5737,6 +5825,14 @@
       "onboard_time": 1770539901,
       "rank": 42,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 89418,
+      "num": 93150,
+      "word": "韩媒称韩国队太冤枉了",
+      "onboard_time": 1770730341,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 89237,
@@ -5785,14 +5881,6 @@
       "onboard_time": 1770691822,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 88325,
-      "num": 88325,
-      "word": "12306回应高铁座椅钻出活蜥蜴",
-      "onboard_time": 1770728421,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 88259,
@@ -6091,6 +6179,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 84473,
+      "num": 109417,
+      "word": "20岁小伙做新郎跟妆师月入2万",
+      "onboard_time": 1770730463,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84449,
       "num": 83312,
       "word": "张凌赫剑挑林允下巴路透",
@@ -6129,14 +6225,6 @@
       "onboard_time": 1770465981,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 83580,
-      "num": 83580,
-      "word": "74岁肥猫被医生建议注射药物镇痛",
-      "onboard_time": 1770729741,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 83563,
@@ -6489,14 +6577,6 @@
       "onboard_time": 1770722000,
       "rank": 36,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 78862,
-      "num": 78862,
-      "word": "特朗普表面祝贺高市私下大发雷霆",
-      "onboard_time": 1770730102,
-      "rank": 49,
-      "category": "国际时政"
     },
     {
       "raw_hot": 78545,
@@ -7203,6 +7283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 65838,
+      "num": 132852,
+      "word": "宋威龙分享手机里的私藏照片",
+      "onboard_time": 1770731240,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 65832,
       "num": 122604,
       "word": "1500余名缅甸赌诈嫌犯押解回国",
@@ -7297,6 +7385,14 @@
       "onboard_time": 1770602779,
       "rank": 49,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 63252,
+      "num": 779224,
+      "word": "中国无人机大山里运腊肠",
+      "onboard_time": 1770729920,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 63151,
@@ -8403,6 +8499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 32366,
+      "num": 153402,
+      "word": "微博之夜怼脸拍合集",
+      "onboard_time": 1770728479,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 32245,
       "num": 36027,
       "word": "刘瀚彬创中国速滑5000米冬奥最好成绩",
@@ -8561,14 +8665,6 @@
       "onboard_time": 1770691700,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 28371,
-      "num": 153402,
-      "word": "微博之夜怼脸拍合集",
-      "onboard_time": 1770728479,
-      "rank": 14,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 28313,
@@ -9083,14 +9179,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 16593,
-      "num": 779224,
-      "word": "中国无人机大山里运腊肠",
-      "onboard_time": 1770729920,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 16452,
       "num": 20224,
       "word": "蔡徐坤新专辑",
@@ -9374,6 +9462,9 @@
     },
     {
       "word": "#习近平心系京华大地#"
+    },
+    {
+      "word": "#总书记向大家拜年#"
     }
   ]
 }
