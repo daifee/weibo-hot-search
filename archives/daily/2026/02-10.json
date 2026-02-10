@@ -1,6 +1,6 @@
 {
   "startTime": 1770653180155,
-  "endTime": 1770707761655,
+  "endTime": 1770709175999,
   "band_list": [
     {
       "raw_hot": 1559474,
@@ -83,6 +83,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 694650,
+      "num": 652295,
+      "word": "陈星旭 没提前让我背稿",
+      "onboard_time": 1770705919,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 684023,
       "num": 247544,
       "word": "蔡徐坤扫楼",
@@ -97,14 +105,6 @@
       "onboard_time": 1770705621,
       "rank": 3,
       "category": "电影"
-    },
-    {
-      "raw_hot": 636919,
-      "num": 636919,
-      "word": "陈星旭 没提前让我背稿",
-      "onboard_time": 1770705919,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 588753,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 510858,
-      "num": 446701,
+      "num": 488782,
       "word": "我们的少年时代2",
       "onboard_time": 1770699381,
       "rank": 31,
@@ -267,6 +267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 370984,
+      "num": 370984,
+      "word": "浙江省坚决拥护党中央决定",
+      "onboard_time": 1770706939,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 346400,
       "num": 161028,
       "word": "董璇张维伊陪小酒窝上课",
@@ -291,6 +299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 336011,
+      "num": 239531,
+      "word": "金像奖",
+      "onboard_time": 1770707779,
+      "rank": 10,
+      "category": "电影"
+    },
+    {
       "raw_hot": 316871,
       "num": 316871,
       "word": "AI短剧",
@@ -305,6 +321,14 @@
       "onboard_time": 1770687259,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 297525,
+      "num": 236240,
+      "word": "喜人脱口秀演员 后台变脸",
+      "onboard_time": 1770705978,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 296796,
@@ -332,7 +356,7 @@
     },
     {
       "raw_hot": 274026,
-      "num": 210218,
+      "num": 222893,
       "word": "车祸后妹妹以为冷却液是血嚎啕大哭",
       "onboard_time": 1770699020,
       "rank": 23,
@@ -345,6 +369,14 @@
       "onboard_time": 1770692539,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 259450,
+      "num": 219702,
+      "word": "千万粉丝网红晒妻子生产过程遭质疑",
+      "onboard_time": 1770707480,
+      "rank": 30,
+      "category": "网红"
     },
     {
       "raw_hot": 255851,
@@ -443,14 +475,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 225390,
-      "num": 225390,
-      "word": "喜人脱口秀演员 后台变脸",
-      "onboard_time": 1770705978,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 216372,
       "num": 216372,
       "word": "外卖员跑腿买药被判贩卖毒品罪",
@@ -481,6 +505,14 @@
       "onboard_time": 1770692480,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 207229,
+      "num": 142088,
+      "word": "安徽一大姨烫头6小时狗都等emo了",
+      "onboard_time": 1770705141,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 206706,
@@ -569,14 +601,6 @@
       "onboard_time": 1770692061,
       "rank": 48,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 176020,
-      "num": 130467,
-      "word": "安徽一大姨烫头6小时狗都等emo了",
-      "onboard_time": 1770705141,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 175436,
@@ -715,12 +739,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 134145,
+      "num": 134145,
+      "word": "隐性嫉妒",
+      "onboard_time": 1770705801,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 132796,
       "num": 132796,
       "word": "妻子孕期丈夫却在女厕爬马桶偷拍",
       "onboard_time": 1770678256,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 131319,
+      "num": 131319,
+      "word": "黄子华 我到死都不用老年公交卡",
+      "onboard_time": 1770707480,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 129613,
@@ -809,6 +849,22 @@
       "onboard_time": 1770642202,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 115463,
+      "num": 94769,
+      "word": "许玮甯邱泽儿子会站了",
+      "onboard_time": 1770708259,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 114253,
+      "num": 94383,
+      "word": "白鹿 原来见到时代少年团要这样",
+      "onboard_time": 1770708080,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 114212,
@@ -955,14 +1011,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 99761,
-      "num": 99761,
-      "word": "隐性嫉妒",
-      "onboard_time": 1770705801,
-      "rank": 29,
-      "category": "情感"
-    },
-    {
       "raw_hot": 99633,
       "num": 99633,
       "word": "谷爱凌第二滑23.00分",
@@ -1019,28 +1067,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 95084,
-      "num": 95084,
-      "word": "千万粉丝网红晒妻子生产过程遭质疑",
-      "onboard_time": 1770707480,
-      "rank": 30,
-      "category": "网红"
-    },
-    {
       "raw_hot": 94726,
       "num": 94726,
       "word": "爱泼斯坦案文件6男子姓名被涂黑",
       "onboard_time": 1770692599,
       "rank": 42,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 92500,
-      "num": 92500,
-      "word": "黄子华 我到死都不用老年公交卡",
-      "onboard_time": 1770707480,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 92147,
@@ -1083,6 +1115,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 90407,
+      "num": 90407,
+      "word": "李兰迪眼神满是对卢昱晓抽象的欣赏",
+      "onboard_time": 1770706041,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 88331,
       "num": 88331,
       "word": "第一次看到机器人i成这样",
@@ -1111,14 +1151,6 @@
       "num": 87334,
       "word": "奚梦瑶三步变超模脸",
       "onboard_time": 1770639379,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 86777,
-      "num": 82591,
-      "word": "李兰迪眼神满是对卢昱晓抽象的欣赏",
-      "onboard_time": 1770706041,
       "rank": 33,
       "category": "艺人"
     },
@@ -1155,12 +1187,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 84681,
-      "num": 243839,
-      "word": "浙江省坚决拥护党中央决定",
-      "onboard_time": 1770706939,
-      "rank": 9,
-      "category": "国内时政"
+      "raw_hot": 85541,
+      "num": 85541,
+      "word": "章子怡提名金像奖影后",
+      "onboard_time": 1770708740,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 84597,
@@ -1187,6 +1219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 82576,
+      "num": 92632,
+      "word": "原来变色后车厘子就开始变质了",
+      "onboard_time": 1770706939,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
       "raw_hot": 82169,
       "num": 82169,
       "word": "成毅片场被冻到",
@@ -1209,6 +1249,14 @@
       "onboard_time": 1770647542,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 81640,
+      "num": 77827,
+      "word": "柳智敏实物比例",
+      "onboard_time": 1770708800,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 80777,
@@ -1299,6 +1347,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 75121,
+      "num": 90659,
+      "word": "千年古树燃烧近10小时后还活着",
+      "onboard_time": 1770707720,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 74337,
       "num": 74337,
       "word": "伊朗向中俄通报美伊谈判细节",
@@ -1323,6 +1379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 71792,
+      "num": 71792,
+      "word": "曝搭载摄像头AirPodsPro今年上市",
+      "onboard_time": 1770708679,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
       "raw_hot": 71184,
       "num": 71184,
       "word": "北方GDP十强城市出炉",
@@ -1337,6 +1401,14 @@
       "onboard_time": 1770679817,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 70117,
+      "num": 92224,
+      "word": "杨幂姚晨感觉下一秒就要上炕了",
+      "onboard_time": 1770708441,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 69187,
@@ -1371,8 +1443,24 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 61443,
+      "num": 147177,
+      "word": "铁路回应女乘务员裙装换裤装建议",
+      "onboard_time": 1770708319,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 60016,
+      "num": 91691,
+      "word": "两外国人从海南打车到哈尔滨",
+      "onboard_time": 1770708441,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58905,
-      "num": 78677,
+      "num": 78906,
       "word": "哪个瞬间突然觉得父母老了",
       "onboard_time": 1770707539,
       "rank": 44,
@@ -1443,14 +1531,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 50595,
-      "num": 80265,
-      "word": "千年古树燃烧近10小时后还活着",
-      "onboard_time": 1770707720,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 50439,
       "num": 184278,
       "word": "青岛真正的快乐在街上",
@@ -1497,6 +1577,14 @@
       "onboard_time": 1770680960,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 46536,
+      "num": 138928,
+      "word": "请查收马年第一份走心祝福",
+      "onboard_time": 1770708859,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 46434,
@@ -1699,6 +1787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 25919,
+      "num": 214630,
+      "word": "南北过小年都爱轻松聚",
+      "onboard_time": 1770707059,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25371,
       "num": 25371,
       "word": "白鹿严选出手就是破万",
@@ -1729,14 +1825,6 @@
       "onboard_time": 1770706820,
       "rank": 38,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 22805,
-      "num": 166042,
-      "word": "南北过小年都爱轻松聚",
-      "onboard_time": 1770707059,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 22796,
@@ -1780,7 +1868,7 @@
     },
     {
       "raw_hot": 17947,
-      "num": 668773,
+      "num": 681244,
       "word": "中国人自己的新年气氛组",
       "onboard_time": 1770691340,
       "rank": 2,
@@ -1804,7 +1892,7 @@
     },
     {
       "raw_hot": 16784,
-      "num": 82477,
+      "num": 91144,
       "word": "杭州春运路上福气值拉满",
       "onboard_time": 1770706880,
       "rank": 39,
@@ -1924,6 +2012,9 @@
     },
     {
       "word": "#习近平总书记关注科技自立自强#"
+    },
+    {
+      "word": "#习近平心系京华大地#"
     }
   ]
 }
