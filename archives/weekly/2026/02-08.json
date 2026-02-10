@@ -1,6 +1,6 @@
 {
   "startTime": 1770482461321,
-  "endTime": 1770725291622,
+  "endTime": 1770730163610,
   "band_list": [
     {
       "raw_hot": 7279878,
@@ -41,6 +41,14 @@
       "onboard_time": 1770531380,
       "rank": 0,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 2342955,
+      "num": 2342955,
+      "word": "孙龙失误",
+      "onboard_time": 1770728061,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 2213882,
@@ -129,6 +137,14 @@
       "onboard_time": 1770537019,
       "rank": 24,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1153066,
+      "num": 1153066,
+      "word": "中国短道混接无缘奖牌",
+      "onboard_time": 1770726022,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 1139987,
@@ -417,6 +433,14 @@
       "onboard_time": 1770555021,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 711070,
+      "num": 155978,
+      "word": "井柏然刘雯机场十指紧扣",
+      "onboard_time": 1770724761,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 707827,
@@ -1691,6 +1715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 308778,
+      "num": 308778,
+      "word": "女子年会中4克黄金熔后变白银",
+      "onboard_time": 1770725181,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 307578,
       "num": 223668,
       "word": "杨洋吸血鬼伯爵",
@@ -1785,6 +1817,14 @@
       "onboard_time": 1770623540,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 293371,
+      "num": 293371,
+      "word": "武大靖笑得太大声了",
+      "onboard_time": 1770725061,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 292030,
@@ -1972,7 +2012,7 @@
     },
     {
       "raw_hot": 265331,
-      "num": 153708,
+      "num": 208971,
       "word": "韩国申诉未果",
       "onboard_time": 1770724881,
       "rank": 30,
@@ -2939,6 +2979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 173118,
+      "num": 151174,
+      "word": "白敬亭真的拿出手机调静音了",
+      "onboard_time": 1770727641,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 172107,
       "num": 172107,
       "word": "李沛恩解约",
@@ -2987,6 +3035,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 168301,
+      "num": 142772,
+      "word": "杨洋换风格了",
+      "onboard_time": 1770727761,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 166970,
       "num": 146503,
       "word": "蒲熠星突然发现单条微博不能超2000字",
@@ -3017,6 +3073,14 @@
       "onboard_time": 1770507557,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 165797,
+      "num": 139941,
+      "word": "原来GAI早就官宣了",
+      "onboard_time": 1770729441,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 165032,
@@ -3057,6 +3121,14 @@
       "onboard_time": 1770537860,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 163347,
+      "num": 163347,
+      "word": "生命树",
+      "onboard_time": 1770558202,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 162133,
@@ -3131,6 +3203,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 157650,
+      "num": 157650,
+      "word": "任子威说你还求上了",
+      "onboard_time": 1770725300,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 157450,
       "num": 152902,
       "word": "你好星期六收视率第一",
@@ -3184,6 +3264,14 @@
       "word": "元宝回应微信福袋",
       "onboard_time": 1770704240,
       "rank": 18,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 153258,
+      "num": 207750,
+      "word": "豆包将上春晚发10万份科技好礼",
+      "onboard_time": 1770723561,
+      "rank": 28,
       "category": "互联网"
     },
     {
@@ -3459,14 +3547,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 142451,
-      "num": 142451,
-      "word": "生命树",
-      "onboard_time": 1770558202,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 142349,
       "num": 142349,
       "word": "丝芭的清华理工科直博",
@@ -3481,14 +3561,6 @@
       "onboard_time": 1770712820,
       "rank": 27,
       "category": "电影"
-    },
-    {
-      "raw_hot": 142136,
-      "num": 207750,
-      "word": "豆包将上春晚发10万份科技好礼",
-      "onboard_time": 1770723561,
-      "rank": 28,
-      "category": "互联网"
     },
     {
       "raw_hot": 141964,
@@ -3523,14 +3595,6 @@
       "category": "民生新闻,休闲"
     },
     {
-      "raw_hot": 140900,
-      "num": 140900,
-      "word": "井柏然刘雯机场十指紧扣",
-      "onboard_time": 1770724761,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 139948,
       "num": 139948,
       "word": "王楚钦沉浸式观赛",
@@ -3561,6 +3625,14 @@
       "onboard_time": 1770592638,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 139065,
+      "num": 143123,
+      "word": "张楚桐 交接棒",
+      "onboard_time": 1770728600,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 138970,
@@ -3803,12 +3875,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 130030,
+      "num": 130030,
+      "word": "武大靖解说",
+      "onboard_time": 1770728121,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 129613,
       "num": 183347,
       "word": "过年走亲戚要化妆吗",
       "onboard_time": 1770692959,
       "rank": 18,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 128532,
+      "num": 128532,
+      "word": "特朗普称自己犯了大错",
+      "onboard_time": 1770725241,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 127977,
@@ -3969,14 +4057,6 @@
       "onboard_time": 1770717680,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 120080,
-      "num": 120080,
-      "word": "武大靖笑得太大声了",
-      "onboard_time": 1770725061,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 119973,
@@ -4539,6 +4619,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 108723,
+      "num": 108723,
+      "word": "爱泼斯坦别墅内老虎标本栩栩如生",
+      "onboard_time": 1770724701,
+      "rank": 49,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 108610,
       "num": 108610,
       "word": "现在的老人vs以后的老人",
@@ -5011,14 +5099,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 100145,
-      "num": 112500,
-      "word": "特朗普称自己犯了大错",
-      "onboard_time": 1770725241,
-      "rank": 44,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 100144,
       "num": 100144,
       "word": "骑士战胜掘金",
@@ -5267,6 +5347,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 95602,
+      "num": 95602,
+      "word": "深圳一公司发巨额年终奖",
+      "onboard_time": 1770729681,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 95502,
       "num": 82183,
       "word": "网传迪丽热巴不参加开推4",
@@ -5345,6 +5433,14 @@
       "onboard_time": 1770643161,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 94324,
+      "num": 94324,
+      "word": "35岁以上租房族越来越多",
+      "onboard_time": 1770728181,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 94259,
@@ -5675,12 +5771,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 88650,
+      "num": 88650,
+      "word": "任子威说请继续支持中国短道队",
+      "onboard_time": 1770729081,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 88331,
       "num": 88331,
       "word": "第一次看到机器人i成这样",
       "onboard_time": 1770691822,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 88325,
+      "num": 88325,
+      "word": "12306回应高铁座椅钻出活蜥蜴",
+      "onboard_time": 1770728421,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 88259,
@@ -5721,14 +5833,6 @@
       "onboard_time": 1770604521,
       "rank": 32,
       "category": "财经"
-    },
-    {
-      "raw_hot": 87980,
-      "num": 87980,
-      "word": "爱泼斯坦别墅内老虎标本栩栩如生",
-      "onboard_time": 1770724701,
-      "rank": 49,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 87878,
@@ -6027,6 +6131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 83580,
+      "num": 83580,
+      "word": "74岁肥猫被医生建议注射药物镇痛",
+      "onboard_time": 1770729741,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 83563,
       "num": 83563,
       "word": "没你是家宴有你是聚餐",
@@ -6161,6 +6273,14 @@
       "onboard_time": 1770548360,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 82003,
+      "num": 82003,
+      "word": "意大利短道混接金牌",
+      "onboard_time": 1770729800,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 81598,
@@ -6369,6 +6489,14 @@
       "onboard_time": 1770722000,
       "rank": 36,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 78862,
+      "num": 78862,
+      "word": "特朗普表面祝贺高市私下大发雷霆",
+      "onboard_time": 1770730102,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 78545,
@@ -8131,14 +8259,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 37284,
-      "num": 127986,
-      "word": "女子年会中4克黄金熔后变白银",
-      "onboard_time": 1770725181,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 37278,
       "num": 194715,
       "word": "谷爱凌把要强写在骨子里",
@@ -8441,6 +8561,14 @@
       "onboard_time": 1770691700,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28371,
+      "num": 153402,
+      "word": "微博之夜怼脸拍合集",
+      "onboard_time": 1770728479,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 28313,
@@ -8859,6 +8987,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 18820,
+      "num": 100114,
+      "word": "聚焦2026年春运",
+      "onboard_time": 1770729319,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18628,
       "num": 20220,
       "word": "唐宫奇案之青雾风鸣",
@@ -8947,6 +9083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 16593,
+      "num": 779224,
+      "word": "中国无人机大山里运腊肠",
+      "onboard_time": 1770729920,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 16452,
       "num": 20224,
       "word": "蔡徐坤新专辑",
@@ -8992,6 +9136,14 @@
       "word": "梅姨案受害人申聪今日大婚",
       "onboard_time": 1770606979,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14478,
+      "num": 145346,
+      "word": "开始数日子盼过年",
+      "onboard_time": 1770729623,
+      "rank": 20,
       "category": "民生新闻"
     },
     {
