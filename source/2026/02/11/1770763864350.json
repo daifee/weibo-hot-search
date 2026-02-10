@@ -1,0 +1,410 @@
+{
+  "runTime": 1770763864350,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 137657,
+        "num": 523761,
+        "word": "男子为避酒店春节涨价花1万多租房",
+        "onboard_time": 1770738023,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96593,
+        "num": 380717,
+        "word": "付费假装上班被要求不迟到不玩手机",
+        "onboard_time": 1770736941,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16538,
+        "num": 297627,
+        "word": "中国无人机大山里运腊肠",
+        "onboard_time": 1770729920,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83189,
+        "num": 83189,
+        "word": "海外已夸爆Seedance2.0",
+        "onboard_time": 1770735801,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 83181,
+        "num": 83181,
+        "word": "短道队多人为孙龙发声",
+        "onboard_time": 1770736401,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66918,
+        "num": 66918,
+        "word": "韩媒质问这还是体育吗",
+        "onboard_time": 1770736941,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 58814,
+        "num": 58814,
+        "word": "中国跳台滑雪再创历史",
+        "onboard_time": 1770755534,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 54800,
+        "num": 54800,
+        "word": "金博洋短节目86.55分",
+        "onboard_time": 1770752475,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 52927,
+        "num": 52927,
+        "word": "德云社封箱",
+        "onboard_time": 1770736342,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 15115,
+        "num": 52879,
+        "word": "瑞典组合冬奥冰壶混双金牌",
+        "onboard_time": 1770763575,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 312350,
+        "num": 52249,
+        "word": "肖战",
+        "onboard_time": 1770735983,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106026,
+        "num": 52156,
+        "word": "李谷一回应缺席马年春晚",
+        "onboard_time": 1770745157,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100416,
+        "num": 51871,
+        "word": "堂姐介绍已婚男致女子遇害事后失联",
+        "onboard_time": 1770735622,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78161,
+        "num": 51427,
+        "word": "射雕英雄传侠之大者金像奖0提",
+        "onboard_time": 1770735323,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 66398,
+        "num": 51015,
+        "word": "74岁肥猫被医生建议注射药物镇痛",
+        "onboard_time": 1770729741,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64640,
+        "num": 50611,
+        "word": "郑则仕因不想终生注射药物开始跑步",
+        "onboard_time": 1770731420,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56126,
+        "num": 50316,
+        "word": "印度大一男生求婚遭拒将女生枪杀",
+        "onboard_time": 1770733883,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 53019,
+        "num": 50111,
+        "word": "爱泼斯坦别墅内老虎标本栩栩如生",
+        "onboard_time": 1770724701,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 49771,
+        "num": 49771,
+        "word": "雷军确认第一代SU7停产",
+        "onboard_time": 1770735861,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 46631,
+        "num": 46631,
+        "word": "王曼昱决胜局擦边球尊重裁判",
+        "onboard_time": 1770722299,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143925,
+        "num": 46487,
+        "word": "王濛快哭了",
+        "onboard_time": 1770734364,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132542,
+        "num": 45150,
+        "word": "日本彻底失控",
+        "onboard_time": 1770733282,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 49802,
+        "num": 44390,
+        "word": "林孝埈捂脸长时间低头",
+        "onboard_time": 1770730582,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 47850,
+        "num": 43133,
+        "word": "孙龙失误",
+        "onboard_time": 1770728061,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43085,
+        "num": 43085,
+        "word": "成毅两京十五日杀青",
+        "onboard_time": 1770743598,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39243,
+        "num": 39243,
+        "word": "于正回应明星扎堆前往大孤山",
+        "onboard_time": 1770720740,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37097,
+        "num": 37097,
+        "word": "这3件事是生命力的表现",
+        "onboard_time": 1770739101,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 35824,
+        "num": 35824,
+        "word": "陈星旭 情商",
+        "onboard_time": 1770721161,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34699,
+        "num": 34699,
+        "word": "特朗普表面祝贺高市私下大发雷霆",
+        "onboard_time": 1770730102,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 33338,
+        "num": 33338,
+        "word": "洪世贤掉到榜二了",
+        "onboard_time": 1770714560,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32778,
+        "num": 32778,
+        "word": "井柏然刘雯机场十指紧扣",
+        "onboard_time": 1770724761,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30232,
+        "num": 30232,
+        "word": "张杰给100多名员工发超万元红包",
+        "onboard_time": 1770736282,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28065,
+        "num": 28065,
+        "word": "12306回应高铁座椅钻出活蜥蜴",
+        "onboard_time": 1770728421,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26653,
+        "num": 26653,
+        "word": "小年",
+        "onboard_time": 1770718400,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26070,
+        "num": 26070,
+        "word": "千问说30亿免单卡快领完了",
+        "onboard_time": 1770750073,
+        "rank": 34,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 24158,
+        "num": 26051,
+        "word": "杨洋换风格了",
+        "onboard_time": 1770727761,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23234,
+        "num": 26023,
+        "word": "惊蛰无声",
+        "onboard_time": 1770739880,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 23099,
+        "num": 26009,
+        "word": "镖人",
+        "onboard_time": 1770738500,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 23097,
+        "num": 25985,
+        "word": "韩国又一非法拍摄网站曝光",
+        "onboard_time": 1770747435,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 22279,
+        "num": 25956,
+        "word": "AI制图骗局",
+        "onboard_time": 1770747854,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20968,
+        "num": 25951,
+        "word": "生命树最讽刺的一幕",
+        "onboard_time": 1770732321,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20788,
+        "num": 25918,
+        "word": "金博洋男单晋级自由滑",
+        "onboard_time": 1770752594,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20194,
+        "num": 25889,
+        "word": "曲春雨退役",
+        "onboard_time": 1770730700,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18791,
+        "num": 25868,
+        "word": "生命树",
+        "onboard_time": 1770724341,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18657,
+        "num": 25834,
+        "word": "易烊千玺晒严迪剧照",
+        "onboard_time": 1770746896,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 18243,
+        "num": 25833,
+        "word": "成何体统",
+        "onboard_time": 1770722600,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18139,
+        "num": 25797,
+        "word": "春晚",
+        "onboard_time": 1770720081,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17619,
+        "num": 25765,
+        "word": "中国短道混接无缘奖牌",
+        "onboard_time": 1770726022,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16723,
+        "num": 25749,
+        "word": "白鹿心疼壁上花案里的女孩",
+        "onboard_time": 1770748335,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16294,
+        "num": 25735,
+        "word": "米兰的冰有点软",
+        "onboard_time": 1770740420,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记向大家拜年#"
+    }
+  }
+}
