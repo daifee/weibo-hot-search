@@ -1,0 +1,410 @@
+{
+  "runTime": 1770725291622,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 865315,
+        "num": 1138450,
+        "word": "短道速滑混团接力",
+        "onboard_time": 1770721399,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 783052,
+        "num": 843852,
+        "word": "中国短道队混接进决赛",
+        "onboard_time": 1770722481,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31980,
+        "num": 656083,
+        "word": "2026丝路春晚",
+        "onboard_time": 1770709581,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 650929,
+        "num": 650929,
+        "word": "男子短道速滑1000米预赛",
+        "onboard_time": 1770717980,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 437125,
+        "num": 437125,
+        "word": "女子短道速滑500米预赛",
+        "onboard_time": 1770715281,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 415232,
+        "num": 415232,
+        "word": "央视网络春晚",
+        "onboard_time": 1770723860,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 408943,
+        "num": 408943,
+        "word": "瑞幸回应杯套出现错别字",
+        "onboard_time": 1770715700,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 367986,
+        "num": 367986,
+        "word": "米哈游宣布解雇常年法律顾问",
+        "onboard_time": 1770721759,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 359053,
+        "num": 359053,
+        "word": "韩国队无缘短道混接决赛",
+        "onboard_time": 1770724821,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 299443,
+        "num": 299443,
+        "word": "林孝埈晋级",
+        "onboard_time": 1770720081,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 947609,
+        "num": 299035,
+        "word": "陈星旭 情商",
+        "onboard_time": 1770721161,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 678548,
+        "num": 298972,
+        "word": "王曼昱决胜局擦边球尊重裁判",
+        "onboard_time": 1770722299,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 494920,
+        "num": 298586,
+        "word": "于正回应明星扎堆前往大孤山",
+        "onboard_time": 1770720740,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 304197,
+        "num": 298191,
+        "word": "白鹿孟子义一起去了大孤山",
+        "onboard_time": 1770711678,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76984,
+        "num": 297754,
+        "word": "微博之夜像素画",
+        "onboard_time": 1770724881,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 281641,
+        "num": 297047,
+        "word": "关系再好也不要说的事",
+        "onboard_time": 1770715521,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 296955,
+        "num": 296955,
+        "word": "范可新哭了",
+        "onboard_time": 1770722780,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 256786,
+        "num": 256786,
+        "word": "薛之谦万兽之王演唱会官宣",
+        "onboard_time": 1770709639,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 103923,
+        "num": 256775,
+        "word": "身边人均十多张免单卡的含金量",
+        "onboard_time": 1770721460,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 26115,
+        "num": 256506,
+        "word": "祭祖被捕猎网电死男子小儿子刚毕业",
+        "onboard_time": 1770724821,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 509591,
+        "num": 256348,
+        "word": "我们的少年时代2 双男主",
+        "onboard_time": 1770717980,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 253312,
+        "num": 256188,
+        "word": "汕头4200一晚的亚朵已订满",
+        "onboard_time": 1770718520,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 505420,
+        "num": 256125,
+        "word": "洪世贤掉到榜二了",
+        "onboard_time": 1770714560,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 256037,
+        "num": 256037,
+        "word": "任子威解说",
+        "onboard_time": 1770722119,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 236358,
+        "num": 236358,
+        "word": "成何体统",
+        "onboard_time": 1770722600,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210059,
+        "num": 210059,
+        "word": "黄子弘凡TF四代cha无想",
+        "onboard_time": 1770719538,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 142136,
+        "num": 207750,
+        "word": "豆包将上春晚发10万份科技好礼",
+        "onboard_time": 1770723561,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 206688,
+        "num": 206688,
+        "word": "小年",
+        "onboard_time": 1770718400,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191518,
+        "num": 191518,
+        "word": "关晓彤观赛中国短道速滑",
+        "onboard_time": 1770722840,
+        "rank": 28,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 153792,
+        "num": 153792,
+        "word": "小年夜",
+        "onboard_time": 1770721280,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 265331,
+        "num": 153708,
+        "word": "韩国申诉未果",
+        "onboard_time": 1770724881,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152102,
+        "num": 152102,
+        "word": "千问接入大麦",
+        "onboard_time": 1770720381,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 151299,
+        "num": 151299,
+        "word": "爱泼斯坦案出现一名9岁受害者",
+        "onboard_time": 1770711800,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 148001,
+        "num": 148001,
+        "word": "林孝埈1000米被对手犯规",
+        "onboard_time": 1770722481,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140900,
+        "num": 140900,
+        "word": "井柏然刘雯机场十指紧扣",
+        "onboard_time": 1770724761,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128004,
+        "num": 128004,
+        "word": "不二之臣直播",
+        "onboard_time": 1770722900,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37284,
+        "num": 127986,
+        "word": "女子年会中4克黄金熔后变白银",
+        "onboard_time": 1770725181,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37535,
+        "num": 125347,
+        "word": "赖伟明不是庄序的时候也太帅了",
+        "onboard_time": 1770724402,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42453,
+        "num": 124273,
+        "word": "亲人丧事3个月后被告知给错骨灰",
+        "onboard_time": 1770725181,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26062,
+        "num": 122397,
+        "word": "村书记拍下全村0到102岁村民",
+        "onboard_time": 1770724821,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116446,
+        "num": 120094,
+        "word": "瑞幸 错别字",
+        "onboard_time": 1770701960,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120080,
+        "num": 120080,
+        "word": "武大靖笑得太大声了",
+        "onboard_time": 1770725061,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115904,
+        "num": 117661,
+        "word": "易烊千玺严迪分手记得改密码",
+        "onboard_time": 1770719420,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 116735,
+        "num": 116735,
+        "word": "生命树",
+        "onboard_time": 1770724341,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100145,
+        "num": 112500,
+        "word": "特朗普称自己犯了大错",
+        "onboard_time": 1770725241,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 111201,
+        "num": 111201,
+        "word": "春晚",
+        "onboard_time": 1770720081,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 49707,
+        "num": 111037,
+        "word": "今年春节还回家吃饭吗",
+        "onboard_time": 1770722000,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 110932,
+        "num": 110932,
+        "word": "王橹杰饰演徐安博",
+        "onboard_time": 1770722660,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106332,
+        "num": 106332,
+        "word": "第一个拒绝宋雨琦的人出现了",
+        "onboard_time": 1770721642,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94774,
+        "num": 94774,
+        "word": "元宝微信发红包",
+        "onboard_time": 1770700279,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平心系京华大地#"
+    }
+  }
+}

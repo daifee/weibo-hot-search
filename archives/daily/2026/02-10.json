@@ -1,6 +1,6 @@
 {
   "startTime": 1770653180155,
-  "endTime": 1770724742272,
+  "endTime": 1770725291622,
   "band_list": [
     {
       "raw_hot": 1559474,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1046313,
-      "num": 213311,
+      "num": 298191,
       "word": "白鹿孟子义一起去了大孤山",
       "onboard_time": 1770711678,
       "rank": 10,
@@ -91,8 +91,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 930570,
-      "num": 182546,
+      "raw_hot": 947609,
+      "num": 299035,
       "word": "陈星旭 情商",
       "onboard_time": 1770721161,
       "rank": 23,
@@ -120,6 +120,14 @@
       "word": "林孝埈晋级",
       "onboard_time": 1770720081,
       "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 783052,
+      "num": 843852,
+      "word": "中国短道队混接进决赛",
+      "onboard_time": 1770722481,
+      "rank": 4,
       "category": "体育"
     },
     {
@@ -155,6 +163,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 678548,
+      "num": 298972,
+      "word": "王曼昱决胜局擦边球尊重裁判",
+      "onboard_time": 1770722299,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 669356,
       "num": 815461,
       "word": "女子短道速滑500米预赛",
@@ -171,28 +187,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 647090,
-      "num": 647090,
-      "word": "中国短道队混接进决赛",
-      "onboard_time": 1770722481,
-      "rank": 4,
-      "category": "体育"
-    },
-    {
       "raw_hot": 603305,
       "num": 294710,
       "word": "我们的少年时代2 双男主",
       "onboard_time": 1770717980,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 602472,
-      "num": 295756,
-      "word": "王曼昱决胜局擦边球尊重裁判",
-      "onboard_time": 1770722299,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 588753,
@@ -212,7 +212,7 @@
     },
     {
       "raw_hot": 548606,
-      "num": 181506,
+      "num": 298586,
       "word": "于正回应明星扎堆前往大孤山",
       "onboard_time": 1770720740,
       "rank": 28,
@@ -331,6 +331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 415232,
+      "num": 415232,
+      "word": "央视网络春晚",
+      "onboard_time": 1770723860,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 414967,
       "num": 219702,
       "word": "千万粉丝网红晒妻子生产过程遭质疑",
@@ -409,6 +417,22 @@
       "onboard_time": 1770706939,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 367986,
+      "num": 367986,
+      "word": "米哈游宣布解雇常年法律顾问",
+      "onboard_time": 1770721759,
+      "rank": 28,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 359053,
+      "num": 359053,
+      "word": "韩国队无缘短道混接决赛",
+      "onboard_time": 1770724821,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 346400,
@@ -499,14 +523,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 299260,
-      "num": 299260,
-      "word": "央视网络春晚",
-      "onboard_time": 1770723860,
-      "rank": 9,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 297525,
       "num": 236240,
       "word": "喜人脱口秀演员 后台变脸",
@@ -579,6 +595,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 265331,
+      "num": 153708,
+      "word": "韩国申诉未果",
+      "onboard_time": 1770724881,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 256037,
+      "num": 256037,
+      "word": "任子威解说",
+      "onboard_time": 1770722119,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 255851,
       "num": 183621,
       "word": "辛芷蕾威尼斯之后的变化",
@@ -601,14 +633,6 @@
       "onboard_time": 1770722840,
       "rank": 24,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 246475,
-      "num": 246475,
-      "word": "任子威解说",
-      "onboard_time": 1770722119,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 246092,
@@ -667,6 +691,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 236358,
+      "num": 236358,
+      "word": "成何体统",
+      "onboard_time": 1770722600,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 232013,
       "num": 169354,
       "word": "成毅杀青不限量奶茶",
@@ -691,14 +723,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 226664,
-      "num": 226664,
-      "word": "成何体统",
-      "onboard_time": 1770722600,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 225517,
       "num": 225517,
       "word": "小年",
@@ -708,7 +732,7 @@
     },
     {
       "raw_hot": 222654,
-      "num": 157934,
+      "num": 191518,
       "word": "关晓彤观赛中国短道速滑",
       "onboard_time": 1770722840,
       "rank": 29,
@@ -793,14 +817,6 @@
       "onboard_time": 1770693559,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 199784,
-      "num": 199784,
-      "word": "米哈游宣布解雇常年法律顾问",
-      "onboard_time": 1770721759,
-      "rank": 28,
-      "category": "互联网"
     },
     {
       "raw_hot": 198493,
@@ -1011,6 +1027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 152102,
+      "num": 152102,
+      "word": "千问接入大麦",
+      "onboard_time": 1770720381,
+      "rank": 40,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 150640,
       "num": 150640,
       "word": "NBA交易",
@@ -1051,6 +1075,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 142136,
+      "num": 207750,
+      "word": "豆包将上春晚发10万份科技好礼",
+      "onboard_time": 1770723561,
+      "rank": 28,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 141491,
       "num": 125736,
       "word": "生命树白菊爆头",
@@ -1067,6 +1099,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 140900,
+      "num": 140900,
+      "word": "井柏然刘雯机场十指紧扣",
+      "onboard_time": 1770724761,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 139269,
       "num": 139269,
       "word": "谷爱凌1个项目收入1墩1蒂娜",
@@ -1081,14 +1121,6 @@
       "onboard_time": 1770698241,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 136909,
-      "num": 131158,
-      "word": "千问接入大麦",
-      "onboard_time": 1770720381,
-      "rank": 40,
-      "category": "互联网"
     },
     {
       "raw_hot": 136397,
@@ -1219,6 +1251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 120080,
+      "num": 120080,
+      "word": "武大靖笑得太大声了",
+      "onboard_time": 1770725061,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 118679,
       "num": 93155,
       "word": "只要华为不跪产品就不贵",
@@ -1233,6 +1273,14 @@
       "onboard_time": 1770688279,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116735,
+      "num": 116735,
+      "word": "生命树",
+      "onboard_time": 1770637941,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 116458,
@@ -1292,7 +1340,7 @@
     },
     {
       "raw_hot": 112558,
-      "num": 183719,
+      "num": 256775,
       "word": "身边人均十多张免单卡的含金量",
       "onboard_time": 1770721460,
       "rank": 19,
@@ -1315,11 +1363,11 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 109408,
-      "num": 101874,
-      "word": "生命树",
-      "onboard_time": 1770637941,
-      "rank": 35,
+      "raw_hot": 110932,
+      "num": 122431,
+      "word": "王橹杰饰演徐安博",
+      "onboard_time": 1770722660,
+      "rank": 38,
       "category": "剧集"
     },
     {
@@ -1361,14 +1409,6 @@
       "onboard_time": 1770702080,
       "rank": 31,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 108347,
-      "num": 132869,
-      "word": "豆包将上春晚发10万份科技好礼",
-      "onboard_time": 1770723561,
-      "rank": 28,
-      "category": "互联网"
     },
     {
       "raw_hot": 108165,
@@ -1451,14 +1491,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 103649,
-      "num": 122431,
-      "word": "王橹杰饰演徐安博",
-      "onboard_time": 1770722660,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 103483,
       "num": 103483,
       "word": "爱马仕橙引爆苹果在华销量",
@@ -1489,6 +1521,14 @@
       "onboard_time": 1770700042,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 100145,
+      "num": 112500,
+      "word": "特朗普称自己犯了大错",
+      "onboard_time": 1770725241,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 100144,
@@ -1931,6 +1971,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 76984,
+      "num": 297754,
+      "word": "微博之夜像素画",
+      "onboard_time": 1770724881,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 76524,
       "num": 76524,
       "word": "我们的少年时代2六人主角团",
@@ -2331,6 +2379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 42453,
+      "num": 124273,
+      "word": "亲人丧事3个月后被告知给错骨灰",
+      "onboard_time": 1770725181,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40027,
       "num": 40027,
       "word": "冬奥会",
@@ -2344,6 +2400,22 @@
       "word": "瓦窑沟墓地M1墓主或为商代鬼方之王",
       "onboard_time": 1770663974,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37535,
+      "num": 125347,
+      "word": "赖伟明不是庄序的时候也太帅了",
+      "onboard_time": 1770724402,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 37284,
+      "num": 127986,
+      "word": "女子年会中4克黄金熔后变白银",
+      "onboard_time": 1770725181,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -2387,6 +2459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 31980,
+      "num": 701110,
+      "word": "2026丝路春晚",
+      "onboard_time": 1770709581,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31888,
       "num": 31888,
       "word": "谷爱凌为做到自己最好感到骄傲",
@@ -2401,14 +2481,6 @@
       "onboard_time": 1770636680,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 30922,
-      "num": 701110,
-      "word": "2026丝路春晚",
-      "onboard_time": 1770709581,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 30688,
@@ -2515,12 +2587,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 26115,
+      "num": 256506,
+      "word": "祭祖被捕猎网电死男子小儿子刚毕业",
+      "onboard_time": 1770724821,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26086,
       "num": 26086,
       "word": "谷爱凌米兰冬奥还有2个项目",
       "onboard_time": 1770658936,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 26062,
+      "num": 122397,
+      "word": "村书记拍下全村0到102岁村民",
+      "onboard_time": 1770724821,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25919,
@@ -2681,14 +2769,6 @@
       "onboard_time": 1770661334,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 13865,
-      "num": 104776,
-      "word": "赖伟明不是庄序的时候也太帅了",
-      "onboard_time": 1770724402,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 13562,
