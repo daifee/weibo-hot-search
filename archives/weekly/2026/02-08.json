@@ -1,6 +1,6 @@
 {
   "startTime": 1770482461321,
-  "endTime": 1770715955932,
+  "endTime": 1770719654474,
   "band_list": [
     {
       "raw_hot": 7279878,
@@ -195,6 +195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1046895,
+      "num": 405471,
+      "word": "关系再好也不要说的事",
+      "onboard_time": 1770715521,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1046313,
       "num": 213311,
       "word": "白鹿孟子义一起去了大孤山",
@@ -225,6 +233,14 @@
       "onboard_time": 1770689660,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 952694,
+      "num": 636369,
+      "word": "洪世贤掉到榜二了",
+      "onboard_time": 1770714560,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 938447,
@@ -363,6 +379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 709855,
+      "num": 1113576,
+      "word": "男子短道速滑1000米预赛",
+      "onboard_time": 1770717980,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 707827,
       "num": 279748,
       "word": "朋友圈跳赞",
@@ -456,14 +480,6 @@
       "word": "白鹿破万四连拍",
       "onboard_time": 1770556584,
       "rank": 7,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 660841,
-      "num": 636369,
-      "word": "洪世贤掉到榜二了",
-      "onboard_time": 1770714560,
-      "rank": 3,
       "category": "剧集"
     },
     {
@@ -777,6 +793,14 @@
       "onboard_time": 1770690858,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 477435,
+      "num": 815461,
+      "word": "女子短道速滑500米预赛",
+      "onboard_time": 1770715281,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 474918,
@@ -1172,7 +1196,7 @@
     },
     {
       "raw_hot": 380120,
-      "num": 202270,
+      "num": 230989,
       "word": "金像奖最佳女配角提名",
       "onboard_time": 1770712039,
       "rank": 23,
@@ -1393,6 +1417,14 @@
       "onboard_time": 1770689299,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 344198,
+      "num": 344198,
+      "word": "瑞幸回应杯套出现错别字",
+      "onboard_time": 1770715700,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 343538,
@@ -1819,6 +1851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 262079,
+      "num": 262079,
+      "word": "短道速滑 紧张",
+      "onboard_time": 1770717620,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 261010,
       "num": 178090,
       "word": "沈腾回应参加泡泡玛特年会",
@@ -2131,6 +2171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 228085,
+      "num": 117674,
+      "word": "黄子弘凡TF四代cha无想",
+      "onboard_time": 1770719538,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 226351,
       "num": 185476,
       "word": "爱泼斯坦曾订购大量硫酸",
@@ -2161,6 +2209,14 @@
       "onboard_time": 1770678136,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 223681,
+      "num": 223681,
+      "word": "我们的少年时代2 双男主",
+      "onboard_time": 1770717980,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 222494,
@@ -2233,6 +2289,14 @@
       "onboard_time": 1770560963,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 216039,
+      "num": 223910,
+      "word": "平均每天倒闭7家绝味鸭脖撑不住了",
+      "onboard_time": 1770713720,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 215613,
@@ -2368,14 +2432,6 @@
       "word": "女子自由式滑雪坡面障碍技巧决赛",
       "onboard_time": 1770636620,
       "rank": 16,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 204063,
-      "num": 204063,
-      "word": "女子短道速滑500米预赛",
-      "onboard_time": 1770715281,
-      "rank": 9,
       "category": "体育"
     },
     {
@@ -2643,6 +2699,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 178415,
+      "num": 112217,
+      "word": "网友找千问新人找到香港去了",
+      "onboard_time": 1770715101,
+      "rank": 37,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 178148,
       "num": 159724,
       "word": "赵丽颖2025年全球观众最喜爱演员",
@@ -2673,6 +2737,14 @@
       "onboard_time": 1770635959,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 175333,
+      "num": 113597,
+      "word": "黄子弘凡AnotherMan开年刊封面",
+      "onboard_time": 1770718879,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 174602,
@@ -2825,14 +2897,6 @@
       "onboard_time": 1770537860,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 162989,
-      "num": 197204,
-      "word": "平均每天倒闭7家绝味鸭脖撑不住了",
-      "onboard_time": 1770713720,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 160928,
@@ -3507,6 +3571,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 131036,
+      "num": 112977,
+      "word": "成何体统第13集开始地下恋",
+      "onboard_time": 1770718099,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 130914,
+      "num": 112001,
+      "word": "易烊千玺严迪分手记得改密码",
+      "onboard_time": 1770719420,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 130106,
       "num": 130106,
       "word": "BLACKPINK预告照",
@@ -3737,14 +3817,6 @@
       "onboard_time": 1770642801,
       "rank": 41,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 118189,
-      "num": 118189,
-      "word": "关系再好也不要说的事",
-      "onboard_time": 1770715521,
-      "rank": 27,
-      "category": "情感"
     },
     {
       "raw_hot": 118044,
@@ -4339,6 +4411,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105797,
+      "num": 105797,
+      "word": "我拍的王一博",
+      "onboard_time": 1770717680,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 105660,
+      "num": 224240,
+      "word": "刘少昂1000米顺利晋级",
+      "onboard_time": 1770719240,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 105532,
       "num": 101813,
       "word": "丑照全在骑手的手机里",
@@ -4731,6 +4819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 98841,
+      "num": 114109,
+      "word": "王濛现场观看短道速滑",
+      "onboard_time": 1770718280,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 98835,
       "num": 98835,
       "word": "罗云熙陈瑶是同个公司的",
@@ -4859,12 +4955,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 95835,
+      "num": 107655,
+      "word": "困在半径一公里的候鸟老人",
+      "onboard_time": 1770719121,
+      "rank": 33,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 95502,
       "num": 82183,
       "word": "网传迪丽热巴不参加开推4",
       "onboard_time": 1770678977,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 95251,
+      "num": 95251,
+      "word": "百万精装房变霉菌房3岁孩子查出肺炎",
+      "onboard_time": 1770716900,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 95226,
@@ -5049,6 +5161,22 @@
       "onboard_time": 1770694400,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 92080,
+      "num": 92080,
+      "word": "宋威龙趾高气昂具象化",
+      "onboard_time": 1770718219,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 92068,
+      "num": 106592,
+      "word": "范可新500米晋级",
+      "onboard_time": 1770718941,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 92059,
@@ -5273,6 +5401,14 @@
       "onboard_time": 1770636680,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 88161,
+      "num": 92772,
+      "word": "长胖 下面条理论",
+      "onboard_time": 1770718821,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 88135,
@@ -5555,6 +5691,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 84449,
+      "num": 83312,
+      "word": "张凌赫剑挑林允下巴路透",
+      "onboard_time": 1770717380,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 84375,
       "num": 84375,
       "word": "喝牛奶补钙的真相",
@@ -5593,6 +5737,14 @@
       "onboard_time": 1770533959,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 83474,
+      "num": 83474,
+      "word": "切角蛋糕价格",
+      "onboard_time": 1770719480,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 83462,
@@ -5777,6 +5929,14 @@
       "onboard_time": 1770703462,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 80777,
+      "num": 112561,
+      "word": "家的幸福感太真实了",
+      "onboard_time": 1770717860,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 80692,
@@ -6611,6 +6771,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 65660,
+      "num": 180085,
+      "word": "汕头4200一晚的亚朵已订满",
+      "onboard_time": 1770718520,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 65334,
       "num": 181527,
       "word": "问界M9车主聚会堪比春晚",
@@ -6795,6 +6963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 59742,
+      "num": 95736,
+      "word": "女生拔牙自行吃止痛药进ICU",
+      "onboard_time": 1770718879,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 59239,
       "num": 88135,
       "word": "苏翊鸣健康接力棒接接接",
@@ -6937,6 +7113,14 @@
       "onboard_time": 1770544700,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 56586,
+      "num": 95296,
+      "word": "人类首次无肺生存48小时",
+      "onboard_time": 1770718759,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 56502,
@@ -7089,14 +7273,6 @@
       "onboard_time": 1770681078,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 51094,
-      "num": 85162,
-      "word": "网友找千问新人找到香港去了",
-      "onboard_time": 1770715101,
-      "rank": 37,
-      "category": "互联网"
     },
     {
       "raw_hot": 50852,
@@ -7659,6 +7835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 36782,
+      "num": 225239,
+      "word": "王欣然张楚桐范可新全员晋级",
+      "onboard_time": 1770718400,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 36407,
       "num": 180415,
       "word": "偏方缓解情绪小青盒整顿流感",
@@ -7747,14 +7931,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 33321,
-      "num": 142559,
-      "word": "瑞幸回应杯套出现错别字",
-      "onboard_time": 1770715700,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 33284,
       "num": 33284,
       "word": "苏翊鸣第二跳完成",
@@ -7785,6 +7961,14 @@
       "onboard_time": 1770714259,
       "rank": 32,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 32756,
+      "num": 96870,
+      "word": "吴磊用芦苇杆止鼻血",
+      "onboard_time": 1770719538,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 32245,

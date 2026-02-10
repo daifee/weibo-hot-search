@@ -1,6 +1,6 @@
 {
   "startTime": 1770653180155,
-  "endTime": 1770715955932,
+  "endTime": 1770719654474,
   "band_list": [
     {
       "raw_hot": 1559474,
@@ -43,6 +43,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1046895,
+      "num": 405471,
+      "word": "关系再好也不要说的事",
+      "onboard_time": 1770715521,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1046313,
       "num": 213311,
       "word": "白鹿孟子义一起去了大孤山",
@@ -57,6 +65,14 @@
       "onboard_time": 1770689660,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 952694,
+      "num": 636369,
+      "word": "洪世贤掉到榜二了",
+      "onboard_time": 1770714560,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 911735,
@@ -91,6 +107,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 709855,
+      "num": 1113576,
+      "word": "男子短道速滑1000米预赛",
+      "onboard_time": 1770717980,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 694650,
       "num": 652295,
       "word": "陈星旭 没提前让我背稿",
@@ -105,14 +129,6 @@
       "onboard_time": 1770696080,
       "rank": 6,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 660841,
-      "num": 636369,
-      "word": "洪世贤掉到榜二了",
-      "onboard_time": 1770714560,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 658490,
@@ -201,6 +217,14 @@
       "onboard_time": 1770690858,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 477435,
+      "num": 815461,
+      "word": "女子短道速滑500米预赛",
+      "onboard_time": 1770715281,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 474918,
@@ -292,7 +316,7 @@
     },
     {
       "raw_hot": 380120,
-      "num": 202270,
+      "num": 230989,
       "word": "金像奖最佳女配角提名",
       "onboard_time": 1770712039,
       "rank": 23,
@@ -329,6 +353,14 @@
       "onboard_time": 1770689299,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 344198,
+      "num": 344198,
+      "word": "瑞幸回应杯套出现错别字",
+      "onboard_time": 1770715700,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 343538,
@@ -435,6 +467,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 262079,
+      "num": 262079,
+      "word": "短道速滑 紧张",
+      "onboard_time": 1770717620,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 255851,
       "num": 183621,
       "word": "辛芷蕾威尼斯之后的变化",
@@ -531,12 +571,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 228085,
+      "num": 117674,
+      "word": "黄子弘凡TF四代cha无想",
+      "onboard_time": 1770719538,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 225517,
       "num": 225517,
       "word": "小年",
       "onboard_time": 1770678136,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 223681,
+      "num": 223681,
+      "word": "我们的少年时代2 双男主",
+      "onboard_time": 1770717980,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 217998,
@@ -552,6 +608,14 @@
       "word": "外卖员跑腿买药被判贩卖毒品罪",
       "onboard_time": 1770699979,
       "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 216039,
+      "num": 223910,
+      "word": "平均每天倒闭7家绝味鸭脖撑不住了",
+      "onboard_time": 1770713720,
+      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -600,14 +664,6 @@
       "word": "谷爱凌决赛",
       "onboard_time": 1770635721,
       "rank": 6,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 204063,
-      "num": 204063,
-      "word": "女子短道速滑500米预赛",
-      "onboard_time": 1770715281,
-      "rank": 9,
       "category": "体育"
     },
     {
@@ -683,6 +739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 178415,
+      "num": 112217,
+      "word": "网友找千问新人找到香港去了",
+      "onboard_time": 1770715101,
+      "rank": 37,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 178016,
       "num": 178016,
       "word": "雷军回应美国高速出现YU7",
@@ -697,6 +761,14 @@
       "onboard_time": 1770641722,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 175333,
+      "num": 113597,
+      "word": "黄子弘凡AnotherMan开年刊封面",
+      "onboard_time": 1770718879,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 174378,
@@ -729,14 +801,6 @@
       "onboard_time": 1770686299,
       "rank": 21,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 162989,
-      "num": 197204,
-      "word": "平均每天倒闭7家绝味鸭脖撑不住了",
-      "onboard_time": 1770713720,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 160928,
@@ -875,6 +939,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 131036,
+      "num": 112977,
+      "word": "成何体统第13集开始地下恋",
+      "onboard_time": 1770718099,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 130914,
+      "num": 112001,
+      "word": "易烊千玺严迪分手记得改密码",
+      "onboard_time": 1770719420,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 129613,
       "num": 183347,
       "word": "过年走亲戚要化妆吗",
@@ -945,14 +1025,6 @@
       "onboard_time": 1770642263,
       "rank": 30,
       "category": "数码"
-    },
-    {
-      "raw_hot": 118189,
-      "num": 118189,
-      "word": "关系再好也不要说的事",
-      "onboard_time": 1770715521,
-      "rank": 27,
-      "category": "情感"
     },
     {
       "raw_hot": 117353,
@@ -1075,6 +1147,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 105797,
+      "num": 105797,
+      "word": "我拍的王一博",
+      "onboard_time": 1770717680,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 105660,
+      "num": 224240,
+      "word": "刘少昂1000米顺利晋级",
+      "onboard_time": 1770719240,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 105242,
       "num": 105242,
       "word": "谷爱凌第一跳后哭了",
@@ -1163,6 +1251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 98841,
+      "num": 114109,
+      "word": "王濛现场观看短道速滑",
+      "onboard_time": 1770718280,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 96764,
       "num": 96764,
       "word": "成龙问乔杉为什么不屑谢霆锋",
@@ -1187,12 +1283,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 95835,
+      "num": 107655,
+      "word": "困在半径一公里的候鸟老人",
+      "onboard_time": 1770719121,
+      "rank": 33,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 95502,
       "num": 82183,
       "word": "网传迪丽热巴不参加开推4",
       "onboard_time": 1770678977,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 95251,
+      "num": 95251,
+      "word": "百万精装房变霉菌房3岁孩子查出肺炎",
+      "onboard_time": 1770716900,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 94885,
@@ -1225,6 +1337,22 @@
       "onboard_time": 1770694400,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 92080,
+      "num": 92080,
+      "word": "宋威龙趾高气昂具象化",
+      "onboard_time": 1770718219,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 92068,
+      "num": 106592,
+      "word": "范可新500米晋级",
+      "onboard_time": 1770718941,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 91833,
@@ -1273,6 +1401,14 @@
       "onboard_time": 1770691822,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 88161,
+      "num": 92772,
+      "word": "长胖 下面条理论",
+      "onboard_time": 1770718821,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 87698,
@@ -1355,6 +1491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 84449,
+      "num": 83312,
+      "word": "张凌赫剑挑林允下巴路透",
+      "onboard_time": 1770717380,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 84122,
       "num": 84122,
       "word": "王楚钦孙颖莎樊振东热搜运动员前三",
@@ -1369,6 +1513,14 @@
       "onboard_time": 1770652220,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 83474,
+      "num": 83474,
+      "word": "切角蛋糕价格",
+      "onboard_time": 1770719480,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 82834,
@@ -1417,6 +1569,14 @@
       "onboard_time": 1770703462,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 80777,
+      "num": 112561,
+      "word": "家的幸福感太真实了",
+      "onboard_time": 1770717860,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 80262,
@@ -1659,6 +1819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 65660,
+      "num": 180085,
+      "word": "汕头4200一晚的亚朵已订满",
+      "onboard_time": 1770718520,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 64085,
       "num": 64085,
       "word": "高德打车被约谈整改",
@@ -1671,6 +1839,14 @@
       "num": 91691,
       "word": "两外国人从海南打车到哈尔滨",
       "onboard_time": 1770708441,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 59742,
+      "num": 95736,
+      "word": "女生拔牙自行吃止痛药进ICU",
+      "onboard_time": 1770718879,
       "rank": 38,
       "category": "民生新闻"
     },
@@ -1713,6 +1889,14 @@
       "onboard_time": 1770707241,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 56586,
+      "num": 95296,
+      "word": "人类首次无肺生存48小时",
+      "onboard_time": 1770718759,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 56066,
@@ -1761,14 +1945,6 @@
       "onboard_time": 1770681078,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 51094,
-      "num": 85162,
-      "word": "网友找千问新人找到香港去了",
-      "onboard_time": 1770715101,
-      "rank": 37,
-      "category": "互联网"
     },
     {
       "raw_hot": 50439,
@@ -1915,6 +2091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 36782,
+      "num": 225239,
+      "word": "王欣然张楚桐范可新全员晋级",
+      "onboard_time": 1770718400,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 35535,
       "num": 35535,
       "word": "从未上过班却有6份社保记录",
@@ -1931,20 +2115,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 33321,
-      "num": 142559,
-      "word": "瑞幸回应杯套出现错别字",
-      "onboard_time": 1770715700,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 33049,
       "num": 158251,
       "word": "举杯青岛福气倾倒",
       "onboard_time": 1770714259,
       "rank": 32,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 32756,
+      "num": 96870,
+      "word": "吴磊用芦苇杆止鼻血",
+      "onboard_time": 1770719538,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 32133,
