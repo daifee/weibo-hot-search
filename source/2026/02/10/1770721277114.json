@@ -1,0 +1,410 @@
+{
+  "runTime": 1770721277114,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 955108,
+        "num": 1152817,
+        "word": "男子短道速滑1000米预赛",
+        "onboard_time": 1770717980,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 806072,
+        "num": 844164,
+        "word": "林孝埈晋级",
+        "onboard_time": 1770720081,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39884,
+        "num": 681877,
+        "word": "提供无人机破解服务是犯罪",
+        "onboard_time": 1770712759,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 536456,
+        "num": 536456,
+        "word": "女子短道速滑500米预赛",
+        "onboard_time": 1770715281,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 389012,
+        "num": 389012,
+        "word": "瑞幸回应杯套出现错别字",
+        "onboard_time": 1770715700,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 836946,
+        "num": 370551,
+        "word": "关系再好也不要说的事",
+        "onboard_time": 1770715521,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 745527,
+        "num": 349716,
+        "word": "洪世贤掉到榜二了",
+        "onboard_time": 1770714560,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 449289,
+        "num": 335203,
+        "word": "黄子弘凡TF四代cha无想",
+        "onboard_time": 1770719538,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 295037,
+        "num": 295037,
+        "word": "元宝微信发红包",
+        "onboard_time": 1770700279,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 364936,
+        "num": 294710,
+        "word": "我们的少年时代2 双男主",
+        "onboard_time": 1770717980,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 352644,
+        "num": 293218,
+        "word": "薛之谦万兽之王演唱会官宣",
+        "onboard_time": 1770709639,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 290398,
+        "num": 290398,
+        "word": "短道速滑 紧张",
+        "onboard_time": 1770717620,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 275941,
+        "num": 275941,
+        "word": "孙龙1000米顺利晋级",
+        "onboard_time": 1770720560,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 222018,
+        "num": 222018,
+        "word": "我们的少年时代2",
+        "onboard_time": 1770699381,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217258,
+        "num": 217258,
+        "word": "小年",
+        "onboard_time": 1770718400,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196602,
+        "num": 196602,
+        "word": "浙江省坚决拥护党中央决定",
+        "onboard_time": 1770706939,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 195595,
+        "num": 195595,
+        "word": "爱泼斯坦案出现一名9岁受害者",
+        "onboard_time": 1770711800,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 188563,
+        "num": 188563,
+        "word": "陈星旭 没提前让我背稿",
+        "onboard_time": 1770705919,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177948,
+        "num": 177948,
+        "word": "金像奖最佳女配角提名",
+        "onboard_time": 1770712039,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 13443,
+        "num": 177566,
+        "word": "春节红包是AI味的",
+        "onboard_time": 1770720921,
+        "rank": 19,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 447095,
+        "num": 177490,
+        "word": "瑞幸 错别字",
+        "onboard_time": 1770701960,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 363080,
+        "num": 177427,
+        "word": "白鹿孟子义一起去了大孤山",
+        "onboard_time": 1770711678,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177294,
+        "num": 177294,
+        "word": "刘少昂1000米顺利晋级",
+        "onboard_time": 1770719240,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165777,
+        "num": 165777,
+        "word": "陈星旭 情商",
+        "onboard_time": 1770721161,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162133,
+        "num": 162133,
+        "word": "易烊千玺严迪分手记得改密码",
+        "onboard_time": 1770719420,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 159197,
+        "num": 159197,
+        "word": "平均每天倒闭7家绝味鸭脖撑不住了",
+        "onboard_time": 1770713720,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158212,
+        "num": 158212,
+        "word": "千万粉丝网红晒妻子生产过程遭质疑",
+        "onboard_time": 1770707480,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 155396,
+        "num": 155396,
+        "word": "汕头4200一晚的亚朵已订满",
+        "onboard_time": 1770718520,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148121,
+        "num": 148121,
+        "word": "于正回应明星扎堆前往大孤山",
+        "onboard_time": 1770720740,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35617,
+        "num": 147505,
+        "word": "家的幸福感太真实了",
+        "onboard_time": 1770717860,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147303,
+        "num": 147303,
+        "word": "春晚",
+        "onboard_time": 1770720081,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124900,
+        "num": 124900,
+        "word": "范可新500米晋级",
+        "onboard_time": 1770718941,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120265,
+        "num": 120265,
+        "word": "我拍的王一博",
+        "onboard_time": 1770717680,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114470,
+        "num": 114470,
+        "word": "切角蛋糕价格",
+        "onboard_time": 1770719480,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 112448,
+        "num": 112448,
+        "word": "黄子弘凡AnotherMan开年刊封面",
+        "onboard_time": 1770718879,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108165,
+        "num": 108165,
+        "word": "百万精装房变霉菌房3岁孩子查出肺炎",
+        "onboard_time": 1770716900,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76971,
+        "num": 108017,
+        "word": "网友找千问新人找到香港去了",
+        "onboard_time": 1770715101,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 28776,
+        "num": 107089,
+        "word": "杨紫对金巴说你会越来越火",
+        "onboard_time": 1770720081,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 9853,
+        "num": 106457,
+        "word": "村民打标语向丽江植物园讨要租金",
+        "onboard_time": 1770720439,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21253,
+        "num": 105621,
+        "word": "年会降级的最大受害者是谁",
+        "onboard_time": 1770721161,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112224,
+        "num": 104515,
+        "word": "金像奖提名",
+        "onboard_time": 1770705621,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 104218,
+        "num": 104218,
+        "word": "无畏社交合照加7",
+        "onboard_time": 1770720740,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 104639,
+        "num": 104132,
+        "word": "王濛现场观看短道速滑",
+        "onboard_time": 1770718280,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38873,
+        "num": 101618,
+        "word": "困在半径一公里的候鸟老人",
+        "onboard_time": 1770719121,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 100061,
+        "num": 100061,
+        "word": "乒乓球为何成为微博顶流",
+        "onboard_time": 1770720860,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95884,
+        "num": 95884,
+        "word": "200元一斤 炒货刺客",
+        "onboard_time": 1770717560,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95525,
+        "num": 95525,
+        "word": "女生拔牙自行吃止痛药进ICU",
+        "onboard_time": 1770718879,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90608,
+        "num": 90608,
+        "word": "杨紫迎来剧生嫡长女",
+        "onboard_time": 1770704719,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28313,
+        "num": 89260,
+        "word": "全国多地被马屁装饰刷屏",
+        "onboard_time": 1770719960,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88239,
+        "num": 88239,
+        "word": "宋威龙趾高气昂具象化",
+        "onboard_time": 1770718219,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平心系京华大地#"
+    }
+  }
+}

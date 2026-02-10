@@ -1,6 +1,6 @@
 {
   "startTime": 1770653180155,
-  "endTime": 1770719654474,
+  "endTime": 1770721277114,
   "band_list": [
     {
       "raw_hot": 1559474,
@@ -67,6 +67,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 955108,
+      "num": 1152817,
+      "word": "男子短道速滑1000米预赛",
+      "onboard_time": 1770717980,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 952694,
       "num": 636369,
       "word": "洪世贤掉到榜二了",
@@ -91,6 +99,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 806072,
+      "num": 844164,
+      "word": "林孝埈晋级",
+      "onboard_time": 1770720081,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 782520,
       "num": 184991,
       "word": "孙颖莎ELLE开季封面预告",
@@ -105,14 +121,6 @@
       "onboard_time": 1770691221,
       "rank": 6,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 709855,
-      "num": 1113576,
-      "word": "男子短道速滑1000米预赛",
-      "onboard_time": 1770717980,
-      "rank": 0,
-      "category": "体育"
     },
     {
       "raw_hot": 694650,
@@ -161,6 +169,14 @@
       "onboard_time": 1770696800,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 536456,
+      "num": 815461,
+      "word": "女子短道速滑500米预赛",
+      "onboard_time": 1770715281,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 522881,
@@ -219,14 +235,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 477435,
-      "num": 815461,
-      "word": "女子短道速滑500米预赛",
-      "onboard_time": 1770715281,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 474918,
       "num": 161267,
       "word": "订婚强奸案女方身上淤青清清楚楚",
@@ -241,6 +249,14 @@
       "onboard_time": 1770681980,
       "rank": 3,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 449289,
+      "num": 335203,
+      "word": "黄子弘凡TF四代cha无想",
+      "onboard_time": 1770719538,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 428440,
@@ -299,6 +315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 389012,
+      "num": 389012,
+      "word": "瑞幸回应杯套出现错别字",
+      "onboard_time": 1770715700,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 383197,
       "num": 851873,
       "word": "22岁当村支书28岁晒成绩火了",
@@ -339,6 +363,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 364936,
+      "num": 294710,
+      "word": "我们的少年时代2 双男主",
+      "onboard_time": 1770717980,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 346400,
       "num": 161028,
       "word": "董璇张维伊陪小酒窝上课",
@@ -353,14 +385,6 @@
       "onboard_time": 1770689299,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 344198,
-      "num": 344198,
-      "word": "瑞幸回应杯套出现错别字",
-      "onboard_time": 1770715700,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 343538,
@@ -427,6 +451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 290398,
+      "num": 290398,
+      "word": "短道速滑 紧张",
+      "onboard_time": 1770717620,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 288716,
       "num": 158017,
       "word": "爱泼斯坦被爆可能没死",
@@ -441,6 +473,14 @@
       "onboard_time": 1770696381,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 275941,
+      "num": 275941,
+      "word": "孙龙1000米顺利晋级",
+      "onboard_time": 1770720560,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 274026,
@@ -465,14 +505,6 @@
       "onboard_time": 1770710600,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 262079,
-      "num": 262079,
-      "word": "短道速滑 紧张",
-      "onboard_time": 1770717620,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 255851,
@@ -571,28 +603,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 228085,
-      "num": 117674,
-      "word": "黄子弘凡TF四代cha无想",
-      "onboard_time": 1770719538,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 225517,
       "num": 225517,
       "word": "小年",
       "onboard_time": 1770678136,
       "rank": 6,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 223681,
-      "num": 223681,
-      "word": "我们的少年时代2 双男主",
-      "onboard_time": 1770717980,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 217998,
@@ -755,6 +771,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 177294,
+      "num": 224240,
+      "word": "刘少昂1000米顺利晋级",
+      "onboard_time": 1770719240,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 175436,
       "num": 175436,
       "word": "谷爱凌冬奥银牌",
@@ -795,6 +819,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 165777,
+      "num": 165777,
+      "word": "陈星旭 情商",
+      "onboard_time": 1770721161,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 164188,
       "num": 164188,
       "word": "米兰冬奥会偶遇关晓彤",
@@ -803,12 +835,28 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 162133,
+      "num": 162133,
+      "word": "易烊千玺严迪分手记得改密码",
+      "onboard_time": 1770719420,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 160928,
       "num": 160928,
       "word": "金枝",
       "onboard_time": 1770686719,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 155396,
+      "num": 180085,
+      "word": "汕头4200一晚的亚朵已订满",
+      "onboard_time": 1770718520,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 154128,
@@ -857,6 +905,22 @@
       "onboard_time": 1770709520,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 148121,
+      "num": 148121,
+      "word": "于正回应明星扎堆前往大孤山",
+      "onboard_time": 1770720740,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 147303,
+      "num": 147303,
+      "word": "春晚",
+      "onboard_time": 1770720081,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 143265,
@@ -947,14 +1011,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 130914,
-      "num": 112001,
-      "word": "易烊千玺严迪分手记得改密码",
-      "onboard_time": 1770719420,
-      "rank": 31,
-      "category": "电影"
-    },
-    {
       "raw_hot": 129613,
       "num": 183347,
       "word": "过年走亲戚要化妆吗",
@@ -995,6 +1051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 124900,
+      "num": 124900,
+      "word": "范可新500米晋级",
+      "onboard_time": 1770718941,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 123484,
       "num": 123484,
       "word": "乔杉回应看谢霆锋的眼神",
@@ -1017,6 +1081,14 @@
       "onboard_time": 1770705381,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120265,
+      "num": 120265,
+      "word": "我拍的王一博",
+      "onboard_time": 1770717680,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 118679,
@@ -1049,6 +1121,14 @@
       "onboard_time": 1770708259,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 114470,
+      "num": 114470,
+      "word": "切角蛋糕价格",
+      "onboard_time": 1770719480,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 114253,
@@ -1131,6 +1211,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 108165,
+      "num": 108165,
+      "word": "百万精装房变霉菌房3岁孩子查出肺炎",
+      "onboard_time": 1770716900,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107471,
       "num": 112903,
       "word": "人只是一块生肉",
@@ -1145,22 +1233,6 @@
       "onboard_time": 1770684500,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 105797,
-      "num": 105797,
-      "word": "我拍的王一博",
-      "onboard_time": 1770717680,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 105660,
-      "num": 224240,
-      "word": "刘少昂1000米顺利晋级",
-      "onboard_time": 1770719240,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 105242,
@@ -1185,6 +1257,22 @@
       "onboard_time": 1770700042,
       "rank": 44,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 104639,
+      "num": 114109,
+      "word": "王濛现场观看短道速滑",
+      "onboard_time": 1770718280,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 104218,
+      "num": 104218,
+      "word": "无畏社交合照加7",
+      "onboard_time": 1770720740,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 103948,
@@ -1227,6 +1315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 100061,
+      "num": 100061,
+      "word": "乒乓球为何成为微博顶流",
+      "onboard_time": 1770720860,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 99633,
       "num": 99633,
       "word": "谷爱凌第二滑23.00分",
@@ -1251,14 +1347,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 98841,
-      "num": 114109,
-      "word": "王濛现场观看短道速滑",
-      "onboard_time": 1770718280,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 96764,
       "num": 96764,
       "word": "成龙问乔杉为什么不屑谢霆锋",
@@ -1273,6 +1361,14 @@
       "onboard_time": 1770691760,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 95884,
+      "num": 95884,
+      "word": "200元一斤 炒货刺客",
+      "onboard_time": 1770717560,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 95883,
@@ -1291,20 +1387,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 95525,
+      "num": 95736,
+      "word": "女生拔牙自行吃止痛药进ICU",
+      "onboard_time": 1770718879,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 95502,
       "num": 82183,
       "word": "网传迪丽热巴不参加开推4",
       "onboard_time": 1770678977,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 95251,
-      "num": 95251,
-      "word": "百万精装房变霉菌房3岁孩子查出肺炎",
-      "onboard_time": 1770716900,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 94885,
@@ -1345,14 +1441,6 @@
       "onboard_time": 1770718219,
       "rank": 44,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 92068,
-      "num": 106592,
-      "word": "范可新500米晋级",
-      "onboard_time": 1770718941,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 91833,
@@ -1515,14 +1603,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 83474,
-      "num": 83474,
-      "word": "切角蛋糕价格",
-      "onboard_time": 1770719480,
-      "rank": 46,
-      "category": "美食"
-    },
-    {
       "raw_hot": 82834,
       "num": 82834,
       "word": "柳智敏实物比例",
@@ -1572,7 +1652,7 @@
     },
     {
       "raw_hot": 80777,
-      "num": 112561,
+      "num": 147505,
       "word": "家的幸福感太真实了",
       "onboard_time": 1770717860,
       "rank": 29,
@@ -1819,14 +1899,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 65660,
-      "num": 180085,
-      "word": "汕头4200一晚的亚朵已订满",
-      "onboard_time": 1770718520,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 64085,
       "num": 64085,
       "word": "高德打车被约谈整改",
@@ -1839,14 +1911,6 @@
       "num": 91691,
       "word": "两外国人从海南打车到哈尔滨",
       "onboard_time": 1770708441,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 59742,
-      "num": 95736,
-      "word": "女生拔牙自行吃止痛药进ICU",
-      "onboard_time": 1770718879,
       "rank": 38,
       "category": "民生新闻"
     },
@@ -1932,7 +1996,7 @@
     },
     {
       "raw_hot": 51454,
-      "num": 641883,
+      "num": 681877,
       "word": "提供无人机破解服务是犯罪",
       "onboard_time": 1770712759,
       "rank": 2,
@@ -2187,11 +2251,27 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 28776,
+      "num": 107089,
+      "word": "杨紫对金巴说你会越来越火",
+      "onboard_time": 1770720081,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 28573,
       "num": 143440,
       "word": "过年模式正在开启",
       "onboard_time": 1770691700,
       "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28313,
+      "num": 89260,
+      "word": "全国多地被马屁装饰刷屏",
+      "onboard_time": 1770719960,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -2307,6 +2387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 21253,
+      "num": 105621,
+      "word": "年会降级的最大受害者是谁",
+      "onboard_time": 1770721161,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19968,
       "num": 26670,
       "word": "宋祺武创男子标准台历史",
@@ -2403,6 +2491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 13443,
+      "num": 177566,
+      "word": "春节红包是AI味的",
+      "onboard_time": 1770720921,
+      "rank": 19,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 12653,
       "num": 628263,
       "word": "冰上版速度与激情观看指南",
@@ -2449,6 +2545,14 @@
       "onboard_time": 1770707181,
       "rank": 46,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 9853,
+      "num": 106457,
+      "word": "村民打标语向丽江植物园讨要租金",
+      "onboard_time": 1770720439,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 7323,
