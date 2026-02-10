@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1770721277114,
+  "endTime": 1770723086258,
   "band_list": [
     {
       "raw_hot": 12386962,
@@ -812,7 +812,7 @@
     },
     {
       "raw_hot": 1046895,
-      "num": 405471,
+      "num": 431235,
       "word": "关系再好也不要说的事",
       "onboard_time": 1770715521,
       "rank": 27,
@@ -2051,6 +2051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 644615,
+      "num": 799388,
+      "word": "短道速滑混团接力",
+      "onboard_time": 1770713659,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 642781,
       "num": 642781,
       "word": "周也牛仔裤 大大方方",
@@ -2427,6 +2435,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 576427,
+      "num": 294710,
+      "word": "我们的少年时代2 双男主",
+      "onboard_time": 1770717980,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 575023,
       "num": 575023,
       "word": "无畏契约",
@@ -2545,6 +2561,14 @@
       "onboard_time": 1770121222,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 554409,
+      "num": 182546,
+      "word": "陈星旭 情商",
+      "onboard_time": 1770721161,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 553155,
@@ -3033,6 +3057,14 @@
       "onboard_time": 1769990720,
       "rank": 21,
       "category": "财经"
+    },
+    {
+      "raw_hot": 498277,
+      "num": 181506,
+      "word": "于正回应明星扎堆前往大孤山",
+      "onboard_time": 1770720740,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 498183,
@@ -3947,6 +3979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 416700,
+      "num": 416700,
+      "word": "瑞幸回应杯套出现错别字",
+      "onboard_time": 1770715700,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 416635,
       "num": 333622,
       "word": "男嬛传",
@@ -4337,14 +4377,6 @@
       "onboard_time": 1769867602,
       "rank": 3,
       "category": "民生新闻,财经"
-    },
-    {
-      "raw_hot": 389012,
-      "num": 389012,
-      "word": "瑞幸回应杯套出现错别字",
-      "onboard_time": 1770715700,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 388899,
@@ -4801,14 +4833,6 @@
       "onboard_time": 1769912182,
       "rank": 9,
       "category": "财经"
-    },
-    {
-      "raw_hot": 364936,
-      "num": 294710,
-      "word": "我们的少年时代2 双男主",
-      "onboard_time": 1770717980,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 364542,
@@ -5649,6 +5673,14 @@
       "onboard_time": 1770274823,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 320858,
+      "num": 320858,
+      "word": "中国短道队混接晋级",
+      "onboard_time": 1770722481,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 320051,
@@ -6851,6 +6883,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 267390,
+      "num": 267390,
+      "word": "汕头4200一晚的亚朵已订满",
+      "onboard_time": 1770718520,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 266957,
       "num": 266957,
       "word": "赵睿道歉",
@@ -7249,6 +7289,14 @@
       "onboard_time": 1770548721,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 251614,
+      "num": 176970,
+      "word": "关晓彤晒冬奥会现场照",
+      "onboard_time": 1770722840,
+      "rank": 24,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 251403,
@@ -8123,6 +8171,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 228361,
+      "num": 228361,
+      "word": "王曼昱决胜局擦边球尊重裁判",
+      "onboard_time": 1770722299,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 228329,
       "num": 195916,
       "word": "于正发的杨采钰",
@@ -8643,6 +8699,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 212566,
+      "num": 157934,
+      "word": "关晓彤观赛中国短道速滑",
+      "onboard_time": 1770722840,
+      "rank": 29,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 212355,
       "num": 212355,
       "word": "张本智和vs户上隼辅",
@@ -8969,6 +9033,14 @@
       "onboard_time": 1770626661,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 202050,
+      "num": 202050,
+      "word": "任子威解说",
+      "onboard_time": 1770722119,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 201903,
@@ -10011,6 +10083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 175000,
+      "num": 175000,
+      "word": "小年夜",
+      "onboard_time": 1770721280,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 174856,
       "num": 153867,
       "word": "白鹿cha了娃娃脸",
@@ -10427,14 +10507,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 165777,
-      "num": 165777,
-      "word": "陈星旭 情商",
-      "onboard_time": 1770721161,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 165382,
       "num": 150006,
       "word": "黄子韬 你要退圈啊",
@@ -10715,6 +10787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160314,
+      "num": 160314,
+      "word": "米哈游宣布解雇常年法律顾问",
+      "onboard_time": 1770721759,
+      "rank": 28,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 160149,
       "num": 167586,
       "word": "seedance 2.0",
@@ -10937,14 +11017,6 @@
       "onboard_time": 1770493515,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 155396,
-      "num": 180085,
-      "word": "汕头4200一晚的亚朵已订满",
-      "onboard_time": 1770718520,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 155337,
@@ -11561,14 +11633,6 @@
       "onboard_time": 1770647542,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 148121,
-      "num": 148121,
-      "word": "于正回应明星扎堆前往大孤山",
-      "onboard_time": 1770720740,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 148119,
@@ -12513,6 +12577,14 @@
       "onboard_time": 1769959581,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 136209,
+      "num": 127398,
+      "word": "第一个拒绝宋雨琦的人出现了",
+      "onboard_time": 1770721642,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 136149,
@@ -15483,6 +15555,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 109616,
+      "num": 109616,
+      "word": "范可新哭了",
+      "onboard_time": 1770722780,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 109611,
       "num": 109611,
       "word": "谷爱凌说自己是i人",
@@ -16459,6 +16539,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 104344,
+      "num": 104344,
+      "word": "女生拔牙自行吃止痛药进ICU",
+      "onboard_time": 1770718879,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104248,
       "num": 104248,
       "word": "英首相斯塔默为访华之行辩护",
@@ -17339,6 +17427,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 99696,
+      "num": 99696,
+      "word": "不二之臣直播",
+      "onboard_time": 1770722900,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 99654,
       "num": 99654,
       "word": "王楚钦王皓互动太有爱了",
@@ -18081,14 +18177,6 @@
       "onboard_time": 1770129622,
       "rank": 43,
       "category": "数码"
-    },
-    {
-      "raw_hot": 95525,
-      "num": 95736,
-      "word": "女生拔牙自行吃止痛药进ICU",
-      "onboard_time": 1770718879,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 95524,
@@ -19137,6 +19225,14 @@
       "onboard_time": 1770706041,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 90387,
+      "num": 119649,
+      "word": "千问接入大麦",
+      "onboard_time": 1770720381,
+      "rank": 40,
+      "category": "互联网"
     },
     {
       "raw_hot": 90328,
@@ -21595,6 +21691,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 78863,
+      "num": 124437,
+      "word": "今年春节还回家吃饭吗",
+      "onboard_time": 1770722000,
+      "rank": 36,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 78799,
       "num": 78799,
       "word": "金饰克价重回1600元",
@@ -22689,6 +22793,14 @@
       "onboard_time": 1770192021,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 71111,
+      "num": 183719,
+      "word": "身边人均十多张免单卡的含金量",
+      "onboard_time": 1770721460,
+      "rank": 19,
+      "category": "互联网"
     },
     {
       "raw_hot": 71071,
@@ -26075,6 +26187,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 36936,
+      "num": 122431,
+      "word": "王橹杰饰演徐安博",
+      "onboard_time": 1770722660,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 36870,
       "num": 36870,
       "word": "黄金创40年来最大跌幅",
@@ -26425,14 +26545,6 @@
       "onboard_time": 1770008961,
       "rank": 19,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 33333,
-      "num": 196617,
-      "word": "短道速滑混团接力",
-      "onboard_time": 1770713659,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 33284,
@@ -28483,6 +28595,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 17575,
+      "num": 678101,
+      "word": "2026丝路春晚",
+      "onboard_time": 1770709581,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 17566,
       "num": 94532,
       "word": "朱孝天47岁状态",
@@ -28843,6 +28963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 14449,
+      "num": 122954,
+      "word": "就这样握到了娜扎的手",
+      "onboard_time": 1770722840,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 14279,
       "num": 26898,
       "word": "朱一龙怼脸海报",
@@ -29171,6 +29299,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 9570,
+      "num": 121139,
+      "word": "seedance2.0爆火网友担忧身份冒用",
+      "onboard_time": 1770722361,
+      "rank": 39,
+      "category": "互联网,民生新闻"
+    },
+    {
       "raw_hot": 9498,
       "num": 117026,
       "word": "妻子失联6小时老伴报警才知在烫头",
@@ -29249,6 +29385,14 @@
       "onboard_time": 1770454522,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 7782,
+      "num": 125797,
+      "word": "没红包你还会用AI软件吗",
+      "onboard_time": 1770722960,
+      "rank": 34,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 7663,
