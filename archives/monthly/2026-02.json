@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1770764914850,
+  "endTime": 1770767112575,
   "band_list": [
     {
       "raw_hot": 12386962,
@@ -2099,6 +2099,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 650579,
+      "num": 975203,
+      "word": "毒皇后扮演者被解雇原因曝光",
+      "onboard_time": 1770765196,
+      "rank": 0,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 647010,
       "num": 1102532,
       "word": "马斯克暗示克林顿盖茨等人有罪",
@@ -3321,6 +3329,14 @@
       "onboard_time": 1770359060,
       "rank": 6,
       "category": "互联网,美食"
+    },
+    {
+      "raw_hot": 478169,
+      "num": 88606,
+      "word": "女子被男友割喉600天后家属等来判决",
+      "onboard_time": 1770766577,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 477683,
@@ -5996,7 +6012,7 @@
     },
     {
       "raw_hot": 312824,
-      "num": 644382,
+      "num": 701976,
       "word": "男子为避酒店春节涨价花1万多租房",
       "onboard_time": 1770738023,
       "rank": 45,
@@ -7601,6 +7617,14 @@
       "onboard_time": 1769936180,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 248519,
+      "num": 88574,
+      "word": "李谷一回应缺席马年春晚",
+      "onboard_time": 1770745157,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 248449,
@@ -9355,6 +9379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199800,
+      "num": 467153,
+      "word": "付费假装上班被要求不迟到不玩手机",
+      "onboard_time": 1770736941,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 199243,
       "num": 199243,
       "word": "蒯曼铜牌",
@@ -10401,6 +10433,14 @@
       "onboard_time": 1770705801,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 174203,
+      "num": 79178,
+      "word": "高市早苗赌赢后彻底不装了",
+      "onboard_time": 1770765796,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 173995,
@@ -11683,6 +11723,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 150824,
+      "num": 150824,
+      "word": "生命树看到一半像换了部剧",
+      "onboard_time": 1770766398,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 150713,
       "num": 187631,
       "word": "马嘉祺年终奖和丁程鑫的一起飞了",
@@ -11745,14 +11793,6 @@
       "onboard_time": 1770350241,
       "rank": 46,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 150249,
-      "num": 75825,
-      "word": "李谷一回应缺席马年春晚",
-      "onboard_time": 1770745157,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 150244,
@@ -12152,14 +12192,6 @@
       "word": "16岁烤鸡少年爆火一个月后的现状",
       "onboard_time": 1769872223,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 145170,
-      "num": 467153,
-      "word": "付费假装上班被要求不迟到不玩手机",
-      "onboard_time": 1770736941,
-      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -12664,6 +12696,14 @@
       "word": "肖战捎来春天",
       "onboard_time": 1770392061,
       "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 138990,
+      "num": 126675,
+      "word": "郑则仕因不想终生注射药物开始跑步",
+      "onboard_time": 1770731420,
+      "rank": 32,
       "category": "艺人"
     },
     {
@@ -13689,14 +13729,6 @@
       "onboard_time": 1770449542,
       "rank": 36,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 128176,
-      "num": 126675,
-      "word": "郑则仕因不想终生注射药物开始跑步",
-      "onboard_time": 1770731420,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 128094,
@@ -19443,6 +19475,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 91816,
+      "num": 88145,
+      "word": "女子反复瘙痒竟因常年吃面食",
+      "onboard_time": 1770765978,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91723,
       "num": 91723,
       "word": "多哈WTA1000",
@@ -19923,6 +19963,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 89395,
+      "num": 88084,
+      "word": "平手友梨奈结婚",
+      "onboard_time": 1770764896,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 89394,
       "num": 89394,
       "word": "世界之外",
@@ -20107,6 +20155,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 88620,
+      "num": 91523,
+      "word": "金博洋短节目86.55分",
+      "onboard_time": 1770752475,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 88543,
       "num": 88543,
       "word": "特朗普发视频把奥巴马夫妇P成猴子",
@@ -20217,6 +20273,14 @@
       "onboard_time": 1770630261,
       "rank": 17,
       "category": "美食"
+    },
+    {
+      "raw_hot": 88083,
+      "num": 88083,
+      "word": "白菊邵云飞离婚",
+      "onboard_time": 1770766098,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 88078,
@@ -21571,6 +21635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 81948,
+      "num": 81948,
+      "word": "黄金盘中巨震",
+      "onboard_time": 1770766337,
+      "rank": 26,
+      "category": "财经"
+    },
+    {
       "raw_hot": 81894,
       "num": 83106,
       "word": "陈添祥柯淳姚冠宇张翅舞台很夯",
@@ -21899,14 +21971,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 80541,
-      "num": 91523,
-      "word": "金博洋短节目86.55分",
-      "onboard_time": 1770752475,
-      "rank": 0,
-      "category": "体育"
-    },
-    {
       "raw_hot": 80410,
       "num": 80410,
       "word": "谷爱凌说抱歉吓到你们啦",
@@ -22233,6 +22297,14 @@
       "onboard_time": 1770198321,
       "rank": 44,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 79070,
+      "num": 79070,
+      "word": "涠洲岛网红鲸鱼被渔船高速撞击",
+      "onboard_time": 1770766398,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 79058,
@@ -22825,6 +22897,14 @@
       "onboard_time": 1770181822,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 75533,
+      "num": 75533,
+      "word": "别奖励了肖战",
+      "onboard_time": 1770765196,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 75431,
@@ -23499,6 +23579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 69938,
+      "num": 69938,
+      "word": "英国国王遭民众大喊质问",
+      "onboard_time": 1770765017,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 69883,
       "num": 72222,
       "word": "20多人住店不登记还自称是皇室后代",
@@ -23539,6 +23627,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 69590,
+      "num": 69590,
+      "word": "原来你们真有年终奖啊",
+      "onboard_time": 1770765677,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 69461,
       "num": 93063,
       "word": "男子实名举报村支书与其妻有染",
@@ -23560,6 +23656,14 @@
       "word": "阿尔卡拉斯vs德约科维奇",
       "onboard_time": 1769916621,
       "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 69282,
+      "num": 69282,
+      "word": "郑钦文将战新科澳网冠军",
+      "onboard_time": 1770766337,
+      "rank": 39,
       "category": "体育"
     },
     {
@@ -24827,6 +24931,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 57295,
+      "num": 57295,
+      "word": "郑钦文晋级多哈女单16强",
+      "onboard_time": 1770766277,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 57109,
       "num": 152261,
       "word": "60岁女子驾车失控撞路灯死亡",
@@ -25089,6 +25201,14 @@
       "onboard_time": 1770276504,
       "rank": 41,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 53613,
+      "num": 79184,
+      "word": "这3件事是生命力的表现",
+      "onboard_time": 1770739101,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 53386,
@@ -25587,14 +25707,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 49001,
-      "num": 49001,
-      "word": "这3件事是生命力的表现",
-      "onboard_time": 1770739101,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 48984,
       "num": 56800,
       "word": "极氪召回超3.8万辆车",
@@ -25649,6 +25761,14 @@
       "onboard_time": 1770294869,
       "rank": 17,
       "category": "数码,作品衍生"
+    },
+    {
+      "raw_hot": 48310,
+      "num": 88345,
+      "word": "Seedance2.0中外同步发布",
+      "onboard_time": 1770765796,
+      "rank": 17,
+      "category": "互联网"
     },
     {
       "raw_hot": 48302,
@@ -25795,12 +25915,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 47173,
+      "num": 47173,
+      "word": "年终奖",
+      "onboard_time": 1770767059,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 46959,
       "num": 106335,
       "word": "英国48家集团主席呼吁到中国去",
       "onboard_time": 1770469341,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 46903,
+      "num": 46903,
+      "word": "米兰冬奥会奖牌",
+      "onboard_time": 1770766758,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 46872,
@@ -25993,6 +26129,22 @@
       "onboard_time": 1769988378,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 45420,
+      "num": 45420,
+      "word": "金博洋男单短节目排名第13",
+      "onboard_time": 1770765077,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 45363,
+      "num": 45363,
+      "word": "特朗普称或向中东再派航母打击群",
+      "onboard_time": 1770766818,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 45117,
@@ -26241,14 +26393,6 @@
       "onboard_time": 1770247457,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 42783,
-      "num": 46818,
-      "word": "平手友梨奈结婚",
-      "onboard_time": 1770764896,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 42745,
@@ -28468,7 +28612,7 @@
     },
     {
       "raw_hot": 23569,
-      "num": 76107,
+      "num": 88470,
       "word": "瑞典组合冬奥冰壶混双金牌",
       "onboard_time": 1770763575,
       "rank": 9,

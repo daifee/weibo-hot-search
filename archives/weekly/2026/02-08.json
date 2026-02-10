@@ -1,6 +1,6 @@
 {
   "startTime": 1770482461321,
-  "endTime": 1770764914850,
+  "endTime": 1770767112575,
   "band_list": [
     {
       "raw_hot": 7279878,
@@ -587,6 +587,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 650579,
+      "num": 975203,
+      "word": "毒皇后扮演者被解雇原因曝光",
+      "onboard_time": 1770765196,
+      "rank": 0,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 646911,
       "num": 1103505,
       "word": "苏翊鸣疑似被日本裁判压分",
@@ -921,6 +929,14 @@
       "onboard_time": 1770542960,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 478169,
+      "num": 88606,
+      "word": "女子被男友割喉600天后家属等来判决",
+      "onboard_time": 1770766577,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 477683,
@@ -1748,7 +1764,7 @@
     },
     {
       "raw_hot": 312824,
-      "num": 644382,
+      "num": 701976,
       "word": "男子为避酒店春节涨价花1万多租房",
       "onboard_time": 1770738023,
       "rank": 45,
@@ -2249,6 +2265,14 @@
       "onboard_time": 1770728421,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 248519,
+      "num": 88574,
+      "word": "李谷一回应缺席马年春晚",
+      "onboard_time": 1770745157,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 248449,
@@ -2835,6 +2859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199800,
+      "num": 467153,
+      "word": "付费假装上班被要求不迟到不玩手机",
+      "onboard_time": 1770736941,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 199243,
       "num": 199243,
       "word": "蒯曼铜牌",
@@ -3137,6 +3169,14 @@
       "onboard_time": 1770705801,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 174203,
+      "num": 79178,
+      "word": "高市早苗赌赢后彻底不装了",
+      "onboard_time": 1770765796,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 173947,
@@ -3523,6 +3563,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 150824,
+      "num": 150824,
+      "word": "生命树看到一半像换了部剧",
+      "onboard_time": 1770766398,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 150640,
       "num": 150640,
       "word": "NBA交易",
@@ -3553,14 +3601,6 @@
       "onboard_time": 1770561502,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 150249,
-      "num": 75825,
-      "word": "李谷一回应缺席马年春晚",
-      "onboard_time": 1770745157,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 150202,
@@ -3680,14 +3720,6 @@
       "word": "15岁男生天生神力面无表情掰苹果",
       "onboard_time": 1770644361,
       "rank": 28,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 145170,
-      "num": 467153,
-      "word": "付费假装上班被要求不迟到不玩手机",
-      "onboard_time": 1770736941,
-      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -3833,6 +3865,14 @@
       "onboard_time": 1770728600,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 138990,
+      "num": 126675,
+      "word": "郑则仕因不想终生注射药物开始跑步",
+      "onboard_time": 1770731420,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 138970,
@@ -4105,14 +4145,6 @@
       "onboard_time": 1770725241,
       "rank": 44,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 128176,
-      "num": 126675,
-      "word": "郑则仕因不想终生注射药物开始跑步",
-      "onboard_time": 1770731420,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 127977,
@@ -5883,6 +5915,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 91816,
+      "num": 88145,
+      "word": "女子反复瘙痒竟因常年吃面食",
+      "onboard_time": 1770765978,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91723,
       "num": 91723,
       "word": "多哈WTA1000",
@@ -6075,6 +6115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 89395,
+      "num": 88084,
+      "word": "平手友梨奈结婚",
+      "onboard_time": 1770764896,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 89237,
       "num": 89237,
       "word": "谷爱凌说摔倒与赛道无关",
@@ -6115,6 +6163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 88620,
+      "num": 91523,
+      "word": "金博洋短节目86.55分",
+      "onboard_time": 1770752475,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 88331,
       "num": 88331,
       "word": "第一次看到机器人i成这样",
@@ -6145,6 +6201,14 @@
       "onboard_time": 1770630261,
       "rank": 17,
       "category": "美食"
+    },
+    {
+      "raw_hot": 88083,
+      "num": 88083,
+      "word": "白菊邵云飞离婚",
+      "onboard_time": 1770766098,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 88060,
@@ -6619,6 +6683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 81948,
+      "num": 81948,
+      "word": "黄金盘中巨震",
+      "onboard_time": 1770766337,
+      "rank": 26,
+      "category": "财经"
+    },
+    {
       "raw_hot": 81894,
       "num": 83106,
       "word": "陈添祥柯淳姚冠宇张翅舞台很夯",
@@ -6713,14 +6785,6 @@
       "onboard_time": 1770593598,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 80541,
-      "num": 91523,
-      "word": "金博洋短节目86.55分",
-      "onboard_time": 1770752475,
-      "rank": 0,
-      "category": "体育"
     },
     {
       "raw_hot": 80365,
@@ -6833,6 +6897,14 @@
       "onboard_time": 1770652702,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 79070,
+      "num": 79070,
+      "word": "涠洲岛网红鲸鱼被渔船高速撞击",
+      "onboard_time": 1770766398,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 78913,
@@ -7089,6 +7161,14 @@
       "onboard_time": 1770606919,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 75533,
+      "num": 75533,
+      "word": "别奖励了肖战",
+      "onboard_time": 1770765196,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 75237,
@@ -7395,6 +7475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 69938,
+      "num": 69938,
+      "word": "英国国王遭民众大喊质问",
+      "onboard_time": 1770765017,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 69719,
       "num": 69719,
       "word": "每天睡几小时才健康",
@@ -7417,6 +7505,22 @@
       "onboard_time": 1770468741,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 69590,
+      "num": 69590,
+      "word": "原来你们真有年终奖啊",
+      "onboard_time": 1770765677,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 69282,
+      "num": 69282,
+      "word": "郑钦文将战新科澳网冠军",
+      "onboard_time": 1770766337,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 69187,
@@ -7883,6 +7987,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 57295,
+      "num": 57295,
+      "word": "郑钦文晋级多哈女单16强",
+      "onboard_time": 1770766277,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 57209,
+      "num": 57209,
+      "word": "王者荣耀小马糕",
+      "onboard_time": 1770765317,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 57111,
       "num": 57111,
       "word": "谷爱凌第一滑摔倒",
@@ -7977,6 +8097,14 @@
       "onboard_time": 1770475824,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 53613,
+      "num": 79184,
+      "word": "这3件事是生命力的表现",
+      "onboard_time": 1770739101,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 53293,
@@ -8243,14 +8371,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 49001,
-      "num": 49001,
-      "word": "这3件事是生命力的表现",
-      "onboard_time": 1770739101,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 48984,
       "num": 56800,
       "word": "极氪召回超3.8万辆车",
@@ -8283,6 +8403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 48310,
+      "num": 88345,
+      "word": "Seedance2.0中外同步发布",
+      "onboard_time": 1770765796,
+      "rank": 17,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 48228,
       "num": 46804,
       "word": "AI制图骗局",
@@ -8312,6 +8440,22 @@
       "word": "谷爱凌期待第三次参加奥运",
       "onboard_time": 1770690979,
       "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 47173,
+      "num": 47173,
+      "word": "年终奖",
+      "onboard_time": 1770767059,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 46903,
+      "num": 46903,
+      "word": "米兰冬奥会奖牌",
+      "onboard_time": 1770766758,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -8361,6 +8505,22 @@
       "onboard_time": 1770664694,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 45420,
+      "num": 45420,
+      "word": "金博洋男单短节目排名第13",
+      "onboard_time": 1770765077,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 45363,
+      "num": 45363,
+      "word": "特朗普称或向中东再派航母打击群",
+      "onboard_time": 1770766818,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 44998,
@@ -8473,14 +8633,6 @@
       "onboard_time": 1770637880,
       "rank": 28,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 42783,
-      "num": 46818,
-      "word": "平手友梨奈结婚",
-      "onboard_time": 1770764896,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 42650,
@@ -9260,7 +9412,7 @@
     },
     {
       "raw_hot": 23569,
-      "num": 76107,
+      "num": 88470,
       "word": "瑞典组合冬奥冰壶混双金牌",
       "onboard_time": 1770763575,
       "rank": 9,
