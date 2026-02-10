@@ -1,6 +1,6 @@
 {
   "startTime": 1770482461321,
-  "endTime": 1770736011658,
+  "endTime": 1770738165859,
   "band_list": [
     {
       "raw_hot": 7279878,
@@ -259,6 +259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1021242,
+      "num": 1163398,
+      "word": "王濛快哭了",
+      "onboard_time": 1770734364,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 965200,
       "num": 965200,
       "word": "谷爱凌错失金牌根本原因",
@@ -371,20 +379,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 811702,
-      "num": 1129872,
-      "word": "王濛快哭了",
-      "onboard_time": 1770734364,
-      "rank": 0,
-      "category": "体育"
-    },
-    {
       "raw_hot": 806072,
       "num": 844164,
       "word": "林孝埈晋级",
       "onboard_time": 1770720081,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 795207,
+      "num": 172038,
+      "word": "肖战",
+      "onboard_time": 1770735983,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 791539,
@@ -649,6 +657,14 @@
       "onboard_time": 1770624919,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 596363,
+      "num": 181423,
+      "word": "堂姐介绍已婚男致女子遇害事后失联",
+      "onboard_time": 1770735622,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 589382,
@@ -1483,6 +1499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 357893,
+      "num": 184057,
+      "word": "印度大一男生求婚遭拒将女生枪杀",
+      "onboard_time": 1770733883,
+      "rank": 13,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 355696,
       "num": 779238,
       "word": "21岁国际名模在新家猝然离世",
@@ -1713,14 +1737,6 @@
       "onboard_time": 1770537860,
       "rank": 15,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 314013,
-      "num": 184057,
-      "word": "印度大一男生求婚遭拒将女生枪杀",
-      "onboard_time": 1770733883,
-      "rank": 13,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 313681,
@@ -2179,6 +2195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 254557,
+      "num": 178823,
+      "word": "射雕英雄传侠之大者金像奖0提",
+      "onboard_time": 1770735323,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 253208,
       "num": 253208,
       "word": "46岁女儿被89岁妈妈轻拍哄睡",
@@ -2353,6 +2377,14 @@
       "onboard_time": 1770510620,
       "rank": 12,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 237328,
+      "num": 237328,
+      "word": "刘少昂回应混接无缘奖牌",
+      "onboard_time": 1770734302,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 236311,
@@ -2659,6 +2691,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 210508,
+      "num": 210508,
+      "word": "韩媒质问这还是体育吗",
+      "onboard_time": 1770736941,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 209822,
       "num": 111856,
       "word": "张凌赫这个出场",
@@ -2899,11 +2939,11 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 189274,
-      "num": 189274,
-      "word": "刘少昂回应混接无缘奖牌",
-      "onboard_time": 1770734302,
-      "rank": 9,
+      "raw_hot": 189016,
+      "num": 189016,
+      "word": "短道队多人为孙龙发声",
+      "onboard_time": 1770736401,
+      "rank": 7,
       "category": "体育"
     },
     {
@@ -2937,14 +2977,6 @@
       "onboard_time": 1770494655,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 185707,
-      "num": 178823,
-      "word": "射雕英雄传侠之大者金像奖0提",
-      "onboard_time": 1770735323,
-      "rank": 24,
-      "category": "电影"
     },
     {
       "raw_hot": 185275,
@@ -3491,6 +3523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 150462,
+      "num": 150462,
+      "word": "雷军确认第一代SU7停产",
+      "onboard_time": 1770735861,
+      "rank": 43,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 150371,
       "num": 150371,
       "word": "太平年赵匡胤黄袍加身",
@@ -3593,6 +3633,14 @@
       "onboard_time": 1770720081,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 146182,
+      "num": 146182,
+      "word": "武大靖说失误确实不应该",
+      "onboard_time": 1770734002,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 145882,
@@ -3979,6 +4027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 130602,
+      "num": 130602,
+      "word": "谢腾飞长这么大了",
+      "onboard_time": 1770736702,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 130515,
       "num": 130515,
       "word": "不二之臣直播",
@@ -4171,12 +4227,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 121316,
-      "num": 121316,
-      "word": "武大靖说失误确实不应该",
-      "onboard_time": 1770734002,
-      "rank": 31,
-      "category": "体育"
+      "raw_hot": 121194,
+      "num": 121194,
+      "word": "德云社封箱",
+      "onboard_time": 1770736342,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 120368,
+      "num": 120368,
+      "word": "海外已夸爆Seedance2.0",
+      "onboard_time": 1770735801,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 120319,
@@ -4243,6 +4307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 118903,
+      "num": 118903,
+      "word": "孙杨开口以为泳池来水了",
+      "onboard_time": 1770735920,
+      "rank": 47,
+      "category": "综艺,体育"
+    },
+    {
       "raw_hot": 118684,
       "num": 117722,
       "word": "张艺谋易烊千玺朱一龙坐一起",
@@ -4273,6 +4345,14 @@
       "onboard_time": 1770518659,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 118011,
+      "num": 180811,
+      "word": "教师回应被举报强奸学生拐走孩子",
+      "onboard_time": 1770735263,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 117722,
@@ -5707,6 +5787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 92892,
+      "num": 92892,
+      "word": "张杰给100多名员工发超万元红包",
+      "onboard_time": 1770736282,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 92499,
       "num": 92499,
       "word": "A股全线大涨原因找到了",
@@ -5931,6 +6019,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 89582,
+      "num": 181676,
+      "word": "遭前男友杀害女护士生前日记本曝光",
+      "onboard_time": 1770735142,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89477,
       "num": 89477,
       "word": "小米租车测试引争议",
@@ -6089,14 +6185,6 @@
       "onboard_time": 1770734122,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 87534,
-      "num": 87534,
-      "word": "雷军确认第一代SU7停产",
-      "onboard_time": 1770735861,
-      "rank": 43,
-      "category": "汽车"
     },
     {
       "raw_hot": 87462,
@@ -6347,14 +6435,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 83874,
-      "num": 83787,
-      "word": "孙杨开口以为泳池来水了",
-      "onboard_time": 1770735920,
-      "rank": 47,
-      "category": "综艺,体育"
-    },
-    {
       "raw_hot": 83711,
       "num": 83711,
       "word": "肖战网络视听出图",
@@ -6425,14 +6505,6 @@
       "onboard_time": 1770593598,
       "rank": 31,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 82967,
-      "num": 82967,
-      "word": "海外已夸爆Seedance2.0",
-      "onboard_time": 1770735801,
-      "rank": 49,
-      "category": "互联网"
     },
     {
       "raw_hot": 82834,
@@ -6609,14 +6681,6 @@
       "onboard_time": 1770593598,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 80421,
-      "num": 181423,
-      "word": "堂姐介绍已婚男致女子遇害事后失联",
-      "onboard_time": 1770735622,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 80365,
@@ -7379,6 +7443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 67377,
+      "num": 67377,
+      "word": "男子为避酒店春节涨价花1万多租房",
+      "onboard_time": 1770738023,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 67361,
       "num": 67361,
       "word": "一个说不了话一个认不了字",
@@ -7515,6 +7587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 64443,
+      "num": 64443,
+      "word": "哇唧唧哇年会廖俊涛 丹妮丹妮",
+      "onboard_time": 1770738023,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 64180,
       "num": 64180,
       "word": "花滑团体终究比的还是短板",
@@ -7569,6 +7649,14 @@
       "onboard_time": 1770550402,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 62434,
+      "num": 62434,
+      "word": "伊朗感谢中方主持公道",
+      "onboard_time": 1770732982,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 62042,
@@ -7648,14 +7736,6 @@
       "word": "广东受冷空气暴击",
       "onboard_time": 1770546619,
       "rank": 49,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 59359,
-      "num": 180811,
-      "word": "教师回应被举报强奸学生拐走孩子",
-      "onboard_time": 1770735263,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -8009,14 +8089,6 @@
       "onboard_time": 1770606380,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 50194,
-      "num": 181676,
-      "word": "遭前男友杀害女护士生前日记本曝光",
-      "onboard_time": 1770735142,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 50004,
@@ -8569,6 +8641,14 @@
       "onboard_time": 1770554840,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 35894,
+      "num": 90537,
+      "word": "付费假装上班被要求不迟到不玩手机",
+      "onboard_time": 1770736941,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 35807,
