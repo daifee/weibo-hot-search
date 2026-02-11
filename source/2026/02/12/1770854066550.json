@@ -1,0 +1,410 @@
+{
+  "runTime": 1770854066550,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 312158,
+        "num": 992462,
+        "word": "廉子文被取消成绩",
+        "onboard_time": 1770841274,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 279100,
+        "num": 729733,
+        "word": "KK园区2.0内部照首曝光",
+        "onboard_time": 1770805460,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29041,
+        "num": 563203,
+        "word": "春运路上藏着这些马年彩蛋",
+        "onboard_time": 1770814100,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210818,
+        "num": 210818,
+        "word": "谭松韵上春晚没和家人说",
+        "onboard_time": 1770851296,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197847,
+        "num": 197847,
+        "word": "250桌婚宴52万嫌贵拒付款进展",
+        "onboard_time": 1770824842,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 674444,
+        "num": 197230,
+        "word": "生小孩需要一个发达的前额叶",
+        "onboard_time": 1770851356,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 196542,
+        "num": 196542,
+        "word": "中国队又添一枚奖牌",
+        "onboard_time": 1770848715,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181090,
+        "num": 181090,
+        "word": "阚清子长文告别乔海伦",
+        "onboard_time": 1770851418,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169891,
+        "num": 169891,
+        "word": "伊朗总统道歉",
+        "onboard_time": 1770823941,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 105441,
+        "num": 105441,
+        "word": "郑钦文vs莱巴金娜",
+        "onboard_time": 1770823761,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 432811,
+        "num": 104315,
+        "word": "女演员投资失败搬进出租屋",
+        "onboard_time": 1770821361,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180719,
+        "num": 103471,
+        "word": "沈梦辰换了10套少数民族服装",
+        "onboard_time": 1770851296,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193287,
+        "num": 102093,
+        "word": "保姆遇到有钱雇主吓得下户",
+        "onboard_time": 1770821540,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 380420,
+        "num": 100799,
+        "word": "李一桐 假唱",
+        "onboard_time": 1770818482,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173362,
+        "num": 99186,
+        "word": "宋亚轩怎么那么高",
+        "onboard_time": 1770824361,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123682,
+        "num": 98159,
+        "word": "月薪2000的环卫工困在电子镣铐",
+        "onboard_time": 1770811280,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114541,
+        "num": 97007,
+        "word": "英王室地产发现疑似涉爱泼斯坦案尸体",
+        "onboard_time": 1770812961,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 106331,
+        "num": 95047,
+        "word": "宋威龙抽到马上有对象的反应",
+        "onboard_time": 1770823282,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94426,
+        "num": 94426,
+        "word": "何以琛今年50多岁了",
+        "onboard_time": 1770817762,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 77975,
+        "num": 77975,
+        "word": "郑钦文无缘多哈站八强",
+        "onboard_time": 1770848715,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 366055,
+        "num": 77944,
+        "word": "黄金",
+        "onboard_time": 1770819982,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 315006,
+        "num": 76321,
+        "word": "郭麒麟 爸爸还是您不争气啊",
+        "onboard_time": 1770809540,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 211109,
+        "num": 74874,
+        "word": "男子出轨公婆照料婚外幼童刺痛女子",
+        "onboard_time": 1770851418,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109978,
+        "num": 73810,
+        "word": "长期积怨妻子疑用锅袭击丈夫致死",
+        "onboard_time": 1770825620,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98923,
+        "num": 72357,
+        "word": "彭小苒拍照忘把夹子取下来了",
+        "onboard_time": 1770852020,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93240,
+        "num": 71015,
+        "word": "周深忘词",
+        "onboard_time": 1770821361,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 83482,
+        "num": 69908,
+        "word": "这种看似舒服的睡姿最伤脊椎",
+        "onboard_time": 1770850876,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 69194,
+        "num": 69194,
+        "word": "全网最会卖鞋的人出现了",
+        "onboard_time": 1770852857,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 61859,
+        "num": 61859,
+        "word": "郑钦文1比2莱巴金娜",
+        "onboard_time": 1770848715,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 59429,
+        "num": 59429,
+        "word": "王艳儿子球球回应是否进演艺圈",
+        "onboard_time": 1770806959,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96587,
+        "num": 59416,
+        "word": "美国一男子开枪杀死女儿",
+        "onboard_time": 1770852497,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 73659,
+        "num": 59400,
+        "word": "新郎投壶未中箭矢回弹指向新娘",
+        "onboard_time": 1770853098,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59384,
+        "num": 59384,
+        "word": "小狗看到主人穿得毛茸茸的反应",
+        "onboard_time": 1770852198,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 59091,
+        "num": 59091,
+        "word": "肖战粉丝已经在合肥吃上了",
+        "onboard_time": 1770818122,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56622,
+        "num": 56622,
+        "word": "警方回应2岁男童在家失踪超140天",
+        "onboard_time": 1770822919,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55851,
+        "num": 55851,
+        "word": "切除子宫的她们",
+        "onboard_time": 1770853518,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54806,
+        "num": 54806,
+        "word": "比尔盖茨最新回应爱泼斯坦案",
+        "onboard_time": 1770829278,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 53904,
+        "num": 53904,
+        "word": "廉子文赛后发文回应",
+        "onboard_time": 1770853999,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 52979,
+        "num": 52979,
+        "word": "全国房价止跌信号出现",
+        "onboard_time": 1770805339,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51378,
+        "num": 51378,
+        "word": "米兰冬奥首位三金王诞生",
+        "onboard_time": 1770817701,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 49868,
+        "num": 49868,
+        "word": "爱泼斯坦案6名大人物被公开",
+        "onboard_time": 1770821901,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 48457,
+        "num": 48457,
+        "word": "薛之谦歌曲被抄袭部分歌词被照搬",
+        "onboard_time": 1770821423,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 48092,
+        "num": 48092,
+        "word": "冰壶",
+        "onboard_time": 1770853459,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 47761,
+        "num": 47761,
+        "word": "一大批年轻人开始反向过年",
+        "onboard_time": 1770802221,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47362,
+        "num": 47362,
+        "word": "生命树",
+        "onboard_time": 1770811520,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45135,
+        "num": 45135,
+        "word": "宁忠岩成绩在北奥能拿金牌",
+        "onboard_time": 1770852438,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43606,
+        "num": 43606,
+        "word": "中国队员面带鲜血过终点线",
+        "onboard_time": 1770852798,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43463,
+        "num": 43463,
+        "word": "湖南卫视春晚收视率",
+        "onboard_time": 1770851296,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43385,
+        "num": 43385,
+        "word": "虞书欣新歌",
+        "onboard_time": 1770853819,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 40116,
+        "num": 40116,
+        "word": "Xiaohu点名Bin世一上",
+        "onboard_time": 1770853939,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向党外人士致以新春祝福#"
+    }
+  }
+}

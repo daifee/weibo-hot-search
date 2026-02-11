@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/02/12 00:13:58 ~ 2026/02/12 07:41:21
+本榜单时间：2026/02/12 00:13:58 ~ 2026/02/12 07:54:26
 </p>
 </blockquote>
 <p>
@@ -28,7 +28,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%9F%E5%B0%8F%E5%AD%A9%E9%9C%80%E8%A6%81%E4%B8%80%E4%B8%AA%E5%8F%91%E8%BE%BE%E7%9A%84%E5%89%8D%E9%A2%9D%E5%8F%B6%23" target="weibo">
-生小孩需要一个发达的前额叶（热度：595121）
+生小孩需要一个发达的前额叶（热度：674444）
 </a>
 </li>
 
@@ -112,13 +112,19 @@ KK园区2.0内部照首曝光（热度：390076）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%87%BA%E8%BD%A8%E5%85%AC%E5%A9%86%E7%85%A7%E6%96%99%E5%A9%9A%E5%A4%96%E5%B9%BC%E7%AB%A5%E5%88%BA%E7%97%9B%E5%A5%B3%E5%AD%90%23" target="weibo">
-男子出轨公婆照料婚外幼童刺痛女子（热度：207266）
+男子出轨公婆照料婚外幼童刺痛女子（热度：211109）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B0%AD%E6%9D%BE%E9%9F%B5%E4%B8%8A%E6%98%A5%E6%99%9A%E6%B2%A1%E5%92%8C%E5%AE%B6%E4%BA%BA%E8%AF%B4%23" target="weibo">
+谭松韵上春晚没和家人说（热度：210818）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%8F%88%E6%B7%BB%E4%B8%80%E6%9E%9A%E5%A5%96%E7%89%8C%23" target="weibo">
-中国队又添一枚奖牌（热度：195277）
+中国队又添一枚奖牌（热度：196542）
 </a>
 </li>
 
@@ -141,8 +147,8 @@ KK园区2.0内部照首曝光（热度：390076）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B0%AD%E6%9D%BE%E9%9F%B5%E4%B8%8A%E6%98%A5%E6%99%9A%E6%B2%A1%E5%92%8C%E5%AE%B6%E4%BA%BA%E8%AF%B4%23" target="weibo">
-谭松韵上春晚没和家人说（热度：178135）
+<a href="https://s.weibo.com/weibo?q=%23%E9%98%9A%E6%B8%85%E5%AD%90%E9%95%BF%E6%96%87%E5%91%8A%E5%88%AB%E4%B9%94%E6%B5%B7%E4%BC%A6%23" target="weibo">
+阚清子长文告别乔海伦（热度：181090）
 </a>
 </li>
 
@@ -189,12 +195,6 @@ KK园区2.0内部照首曝光（热度：390076）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%98%9A%E6%B8%85%E5%AD%90%E9%95%BF%E6%96%87%E5%91%8A%E5%88%AB%E4%B9%94%E6%B5%B7%E4%BC%A6%23" target="weibo">
-阚清子长文告别乔海伦（热度：143995）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%9F%E7%A7%AF%E6%80%A8%E5%A6%BB%E5%AD%90%E7%96%91%E7%94%A8%E9%94%85%E8%A2%AD%E5%87%BB%E4%B8%88%E5%A4%AB%E8%87%B4%E6%AD%BB%23" target="weibo">
 长期积怨妻子疑用锅袭击丈夫致死（热度：138711）
 </a>
@@ -237,6 +237,18 @@ KK园区2.0内部照首曝光（热度：390076）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BD%AD%E5%B0%8F%E8%8B%92%E6%8B%8D%E7%85%A7%E5%BF%98%E6%8A%8A%E5%A4%B9%E5%AD%90%E5%8F%96%E4%B8%8B%E6%9D%A5%E4%BA%86%23" target="weibo">
+彭小苒拍照忘把夹子取下来了（热度：98923）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%B8%80%E7%94%B7%E5%AD%90%E5%BC%80%E6%9E%AA%E6%9D%80%E6%AD%BB%E5%A5%B3%E5%84%BF%23" target="weibo">
+美国一男子开枪杀死女儿（热度：96587）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E4%BD%95%E4%BD%93%E7%BB%9F%23" target="weibo">
 成何体统（热度：94989）
 </a>
@@ -244,19 +256,13 @@ KK园区2.0内部照首曝光（热度：390076）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E4%BB%A5%E7%90%9B%E4%BB%8A%E5%B9%B450%E5%A4%9A%E5%B2%81%E4%BA%86%23" target="weibo">
-何以琛今年50多岁了（热度：93803）
+何以琛今年50多岁了（热度：94426）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%942%E5%B2%81%E7%94%B7%E7%AB%A5%E5%9C%A8%E5%AE%B6%E5%A4%B1%E8%B8%AA%E8%B6%85140%E5%A4%A9%23" target="weibo">
 警方回应2岁男童在家失踪超140天（热度：87664）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BD%AD%E5%B0%8F%E8%8B%92%E6%8B%8D%E7%85%A7%E5%BF%98%E6%8A%8A%E5%A4%B9%E5%AD%90%E5%8F%96%E4%B8%8B%E6%9D%A5%E4%BA%86%23" target="weibo">
-彭小苒拍照忘把夹子取下来了（热度：87566）
 </a>
 </li>
 
@@ -269,6 +275,12 @@ KK园区2.0内部照首曝光（热度：390076）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%82%85%E5%9B%9E%E5%BA%94%E5%97%93%E5%AD%90%E5%93%91%E4%BA%86%23" target="weibo">
 何炅回应嗓子哑了（热度：84828）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E7%A7%8D%E7%9C%8B%E4%BC%BC%E8%88%92%E6%9C%8D%E7%9A%84%E7%9D%A1%E5%A7%BF%E6%9C%80%E4%BC%A4%E8%84%8A%E6%A4%8E%23" target="weibo">
+这种看似舒服的睡姿最伤脊椎（热度：83482）
 </a>
 </li>
 
@@ -291,8 +303,20 @@ KK园区2.0内部照首曝光（热度：390076）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87%E6%97%A0%E7%BC%98%E5%A4%9A%E5%93%88%E7%AB%99%E5%85%AB%E5%BC%BA%23" target="weibo">
+郑钦文无缘多哈站八强（热度：77975）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E6%88%BF%E4%BB%B7%E6%AD%A2%E8%B7%8C%E4%BF%A1%E5%8F%B7%E5%87%BA%E7%8E%B0%23" target="weibo">
 全国房价止跌信号出现（热度：75076）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E9%83%8E%E6%8A%95%E5%A3%B6%E6%9C%AA%E4%B8%AD%E7%AE%AD%E7%9F%A2%E5%9B%9E%E5%BC%B9%E6%8C%87%E5%90%91%E6%96%B0%E5%A8%98%23" target="weibo">
+新郎投壶未中箭矢回弹指向新娘（热度：73659）
 </a>
 </li>
 
@@ -327,20 +351,14 @@ KK园区2.0内部照首曝光（热度：390076）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BD%91%E6%9C%80%E4%BC%9A%E5%8D%96%E9%9E%8B%E7%9A%84%E4%BA%BA%E5%87%BA%E7%8E%B0%E4%BA%86%23" target="weibo">
+全网最会卖鞋的人出现了（热度：69194）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%99%E8%8C%B5%E6%9B%BE%E5%A4%9A%E6%AC%A1%E4%B8%8E%E7%99%BD%E9%B9%BF%E6%92%9E%E8%A1%AB%23" target="weibo">
 余茵曾多次与白鹿撞衫（热度：68946）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%B8%80%E7%94%B7%E5%AD%90%E5%BC%80%E6%9E%AA%E6%9D%80%E6%AD%BB%E5%A5%B3%E5%84%BF%23" target="weibo">
-美国一男子开枪杀死女儿（热度：68773）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E7%A7%8D%E7%9C%8B%E4%BC%BC%E8%88%92%E6%9C%8D%E7%9A%84%E7%9D%A1%E5%A7%BF%E6%9C%80%E4%BC%A4%E8%84%8A%E6%A4%8E%23" target="weibo">
-这种看似舒服的睡姿最伤脊椎（热度：68410）
 </a>
 </li>
 
@@ -381,20 +399,8 @@ KK园区2.0内部照首曝光（热度：390076）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87%E6%97%A0%E7%BC%98%E5%A4%9A%E5%93%88%E7%AB%99%E5%85%AB%E5%BC%BA%23" target="weibo">
-郑钦文无缘多哈站八强（热度：59957）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%8B%97%E7%9C%8B%E5%88%B0%E4%B8%BB%E4%BA%BA%E7%A9%BF%E5%BE%97%E6%AF%9B%E8%8C%B8%E8%8C%B8%E7%9A%84%E5%8F%8D%E5%BA%94%23" target="weibo">
 小狗看到主人穿得毛茸茸的反应（热度：59478）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BD%91%E6%9C%80%E4%BC%9A%E5%8D%96%E9%9E%8B%E7%9A%84%E4%BA%BA%E5%87%BA%E7%8E%B0%E4%BA%86%23" target="weibo">
-全网最会卖鞋的人出现了（热度：56398）
 </a>
 </li>
 
@@ -405,8 +411,26 @@ KK园区2.0内部照首曝光（热度：390076）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%87%E9%99%A4%E5%AD%90%E5%AE%AB%E7%9A%84%E5%A5%B9%E4%BB%AC%23" target="weibo">
+切除子宫的她们（热度：55851）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B2%B3%E9%98%B3%E4%B8%80%E6%95%91%E6%8A%A4%E8%BD%A6%E8%A3%85%E6%A9%98%E5%AD%90%E5%BC%80%E8%AD%A6%E7%81%AF%E9%97%AF%E7%BA%A2%E7%81%AF%23" target="weibo">
 岳阳一救护车装橘子开警灯闯红灯（热度：54976）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AF%94%E5%B0%94%E7%9B%96%E8%8C%A8%E6%9C%80%E6%96%B0%E5%9B%9E%E5%BA%94%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%23" target="weibo">
+比尔盖茨最新回应爱泼斯坦案（热度：54806）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BB%89%E5%AD%90%E6%96%87%E8%B5%9B%E5%90%8E%E5%8F%91%E6%96%87%E5%9B%9E%E5%BA%94%23" target="weibo">
+廉子文赛后发文回应（热度：53904）
 </a>
 </li>
 
@@ -423,14 +447,32 @@ KK园区2.0内部照首曝光（热度：390076）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%886%E5%90%8D%E5%A4%A7%E4%BA%BA%E7%89%A9%E8%A2%AB%E5%85%AC%E5%BC%80%23" target="weibo">
+爱泼斯坦案6名大人物被公开（热度：49868）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E5%B8%A6%E5%9B%9E%E5%AE%B6%E7%9A%84%E7%94%B7%E5%8F%8B%E6%98%AF%E5%A0%82%E5%BC%9F%E5%88%9D%E4%B8%AD%E5%90%8C%E5%AD%A6%23" target="weibo">
 女生带回家的男友是堂弟初中同学（热度：49021）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E9%83%8E%E6%8A%95%E5%A3%B6%E6%9C%AA%E4%B8%AD%E7%AE%AD%E7%9F%A2%E5%9B%9E%E5%BC%B9%E6%8C%87%E5%90%91%E6%96%B0%E5%A8%98%23" target="weibo">
-新郎投壶未中箭矢回弹指向新娘（热度：44515）
+<a href="https://s.weibo.com/weibo?q=%23%E5%86%B0%E5%A3%B6%23" target="weibo">
+冰壶（热度：48092）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%A4%A7%E6%89%B9%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%BC%80%E5%A7%8B%E5%8F%8D%E5%90%91%E8%BF%87%E5%B9%B4%23" target="weibo">
+一大批年轻人开始反向过年（热度：47761）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%81%E5%BF%A0%E5%B2%A9%E6%88%90%E7%BB%A9%E5%9C%A8%E5%8C%97%E5%A5%A5%E8%83%BD%E6%8B%BF%E9%87%91%E7%89%8C%23" target="weibo">
+宁忠岩成绩在北奥能拿金牌（热度：45135）
 </a>
 </li>
 
@@ -447,8 +489,8 @@ KK园区2.0内部照首曝光（热度：390076）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AF%94%E5%B0%94%E7%9B%96%E8%8C%A8%E6%9C%80%E6%96%B0%E5%9B%9E%E5%BA%94%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%23" target="weibo">
-比尔盖茨最新回应爱泼斯坦案（热度：43788）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%91%98%E9%9D%A2%E5%B8%A6%E9%B2%9C%E8%A1%80%E8%BF%87%E7%BB%88%E7%82%B9%E7%BA%BF%23" target="weibo">
+中国队员面带鲜血过终点线（热度：43606）
 </a>
 </li>
 
@@ -459,8 +501,8 @@ KK园区2.0内部照首曝光（热度：390076）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%91%98%E9%9D%A2%E5%B8%A6%E9%B2%9C%E8%A1%80%E8%BF%87%E7%BB%88%E7%82%B9%E7%BA%BF%23" target="weibo">
-中国队员面带鲜血过终点线（热度：41956）
+<a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E6%96%B0%E6%AD%8C%23" target="weibo">
+虞书欣新歌（热度：43385）
 </a>
 </li>
 
@@ -477,8 +519,8 @@ KK园区2.0内部照首曝光（热度：390076）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%A4%A7%E6%89%B9%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%BC%80%E5%A7%8B%E5%8F%8D%E5%90%91%E8%BF%87%E5%B9%B4%23" target="weibo">
-一大批年轻人开始反向过年（热度：39276）
+<a href="https://s.weibo.com/weibo?q=%23Xiaohu%E7%82%B9%E5%90%8DBin%E4%B8%96%E4%B8%80%E4%B8%8A%23" target="weibo">
+Xiaohu点名Bin世一上（热度：40116）
 </a>
 </li>
 
@@ -496,7 +538,7 @@ KK园区2.0内部照首曝光（热度：390076）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%A5%E8%BF%90%E8%B7%AF%E4%B8%8A%E8%97%8F%E7%9D%80%E8%BF%99%E4%BA%9B%E9%A9%AC%E5%B9%B4%E5%BD%A9%E8%9B%8B%23" target="weibo">
-春运路上藏着这些马年彩蛋（热度：28933）
+春运路上藏着这些马年彩蛋（热度：29041）
 </a>
 </li>
 

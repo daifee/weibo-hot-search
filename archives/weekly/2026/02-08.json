@@ -1,6 +1,6 @@
 {
   "startTime": 1770482461321,
-  "endTime": 1770853281708,
+  "endTime": 1770854066550,
   "band_list": [
     {
       "raw_hot": 7279878,
@@ -691,6 +691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 674444,
+      "num": 197230,
+      "word": "生小孩需要一个发达的前额叶",
+      "onboard_time": 1770851356,
+      "rank": 5,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 669356,
       "num": 815461,
       "word": "女子短道速滑500米预赛",
@@ -833,14 +841,6 @@
       "onboard_time": 1770796099,
       "rank": 39,
       "category": "财经"
-    },
-    {
-      "raw_hot": 595121,
-      "num": 185915,
-      "word": "生小孩需要一个发达的前额叶",
-      "onboard_time": 1770851356,
-      "rank": 5,
-      "category": "幽默"
     },
     {
       "raw_hot": 589382,
@@ -2188,7 +2188,7 @@
     },
     {
       "raw_hot": 336832,
-      "num": 894170,
+      "num": 992462,
       "word": "廉子文被取消成绩",
       "onboard_time": 1770841274,
       "rank": 9,
@@ -3691,12 +3691,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 211109,
+      "num": 74874,
+      "word": "男子出轨公婆照料婚外幼童刺痛女子",
+      "onboard_time": 1770851418,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 211076,
       "num": 211076,
       "word": "一个普通人被121个热搜改变之后",
       "onboard_time": 1770649222,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 210818,
+      "num": 210818,
+      "word": "谭松韵上春晚没和家人说",
+      "onboard_time": 1770851296,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 210707,
@@ -3737,14 +3753,6 @@
       "onboard_time": 1770769998,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 207266,
-      "num": 72592,
-      "word": "男子出轨公婆照料婚外幼童刺痛女子",
-      "onboard_time": 1770851418,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 207229,
@@ -3931,6 +3939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 196542,
+      "num": 196542,
+      "word": "中国队又添一枚奖牌",
+      "onboard_time": 1770848715,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 196534,
       "num": 196534,
       "word": "黄子华 我到死都不用老年公交卡",
@@ -3961,14 +3977,6 @@
       "onboard_time": 1770790461,
       "rank": 24,
       "category": "电影"
-    },
-    {
-      "raw_hot": 195277,
-      "num": 195277,
-      "word": "中国队又添一枚奖牌",
-      "onboard_time": 1770848715,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 194214,
@@ -4195,6 +4203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 181090,
+      "num": 181090,
+      "word": "阚清子长文告别乔海伦",
+      "onboard_time": 1770851418,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 178965,
       "num": 178965,
       "word": "时代峰峻包场支持惊蛰无声",
@@ -4217,14 +4233,6 @@
       "onboard_time": 1770506057,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 178135,
-      "num": 178135,
-      "word": "谭松韵上春晚没和家人说",
-      "onboard_time": 1770851296,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 178016,
@@ -4937,14 +4945,6 @@
       "onboard_time": 1770621319,
       "rank": 26,
       "category": "电影"
-    },
-    {
-      "raw_hot": 143995,
-      "num": 105565,
-      "word": "阚清子长文告别乔海伦",
-      "onboard_time": 1770851418,
-      "rank": 14,
-      "category": "剧集"
     },
     {
       "raw_hot": 143460,
@@ -7315,6 +7315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 98923,
+      "num": 72357,
+      "word": "彭小苒拍照忘把夹子取下来了",
+      "onboard_time": 1770852020,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 98835,
       "num": 98835,
       "word": "罗云熙陈瑶是同个公司的",
@@ -7489,6 +7497,14 @@
       "onboard_time": 1770695060,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 96587,
+      "num": 62736,
+      "word": "美国一男子开枪杀死女儿",
+      "onboard_time": 1770852497,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 96581,
@@ -8363,14 +8379,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 87566,
-      "num": 69467,
-      "word": "彭小苒拍照忘把夹子取下来了",
-      "onboard_time": 1770852020,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 87470,
       "num": 87470,
       "word": "你们单位福利好吵",
@@ -8705,6 +8713,14 @@
       "onboard_time": 1770533959,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 83482,
+      "num": 69908,
+      "word": "这种看似舒服的睡姿最伤脊椎",
+      "onboard_time": 1770850876,
+      "rank": 26,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 83462,
@@ -9291,6 +9307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 77975,
+      "num": 77975,
+      "word": "郑钦文无缘多哈站八强",
+      "onboard_time": 1770848715,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 77927,
       "num": 115327,
       "word": "美发生枪击事件多人死亡",
@@ -9619,6 +9643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 73659,
+      "num": 59400,
+      "word": "新郎投壶未中箭矢回弹指向新娘",
+      "onboard_time": 1770853098,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 73636,
       "num": 73636,
       "word": "田曦薇春晚第四次联排路透",
@@ -9851,6 +9883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 69194,
+      "num": 69194,
+      "word": "全网最会卖鞋的人出现了",
+      "onboard_time": 1770852857,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 69187,
       "num": 122586,
       "word": "哈梅内伊发表全国电视讲话",
@@ -9881,22 +9921,6 @@
       "onboard_time": 1770635841,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 68773,
-      "num": 62736,
-      "word": "美国一男子开枪杀死女儿",
-      "onboard_time": 1770852497,
-      "rank": 30,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 68410,
-      "num": 68410,
-      "word": "这种看似舒服的睡姿最伤脊椎",
-      "onboard_time": 1770850876,
-      "rank": 26,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 68390,
@@ -10339,14 +10363,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 59957,
-      "num": 59957,
-      "word": "郑钦文无缘多哈站八强",
-      "onboard_time": 1770848715,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 59745,
       "num": 59745,
       "word": "广东受冷空气暴击",
@@ -10539,20 +10555,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 56398,
-      "num": 56398,
-      "word": "全网最会卖鞋的人出现了",
-      "onboard_time": 1770852857,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 56066,
       "num": 56066,
       "word": "万能斜刘海适合肉肉脸方圆脸",
       "onboard_time": 1770681619,
       "rank": 41,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 55851,
+      "num": 55851,
+      "word": "切除子宫的她们",
+      "onboard_time": 1770853518,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 55042,
@@ -10571,6 +10587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 54806,
+      "num": 54806,
+      "word": "比尔盖茨最新回应爱泼斯坦案",
+      "onboard_time": 1770829278,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 54576,
       "num": 206046,
       "word": "首次载人飞船返回舱海上搜索回收完成",
@@ -10585,6 +10609,14 @@
       "onboard_time": 1770767839,
       "rank": 47,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 53904,
+      "num": 53904,
+      "word": "廉子文赛后发文回应",
+      "onboard_time": 1770853999,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 53881,
@@ -11003,6 +11035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 48092,
+      "num": 48092,
+      "word": "冰壶",
+      "onboard_time": 1770853459,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 47920,
       "num": 112464,
       "word": "餐厅可坐55人大圆桌无包厢费",
@@ -11115,6 +11155,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 45135,
+      "num": 45135,
+      "word": "宁忠岩成绩在北奥能拿金牌",
+      "onboard_time": 1770852438,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 44998,
       "num": 183499,
       "word": "今年春节的汉范儿超标了",
@@ -11137,14 +11185,6 @@
       "onboard_time": 1770484578,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 44515,
-      "num": 44515,
-      "word": "新郎投壶未中箭矢回弹指向新娘",
-      "onboard_time": 1770853098,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 44506,
@@ -11235,12 +11275,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 43788,
-      "num": 43788,
-      "word": "比尔盖茨最新回应爱泼斯坦案",
-      "onboard_time": 1770829278,
-      "rank": 19,
-      "category": "海外新闻"
+      "raw_hot": 43606,
+      "num": 43606,
+      "word": "中国队员面带鲜血过终点线",
+      "onboard_time": 1770852798,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 43568,
@@ -11257,6 +11297,14 @@
       "onboard_time": 1770594800,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 43385,
+      "num": 43385,
+      "word": "虞书欣新歌",
+      "onboard_time": 1770853819,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 43317,
@@ -11321,14 +11369,6 @@
       "onboard_time": 1770725181,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 41956,
-      "num": 41956,
-      "word": "中国队员面带鲜血过终点线",
-      "onboard_time": 1770852798,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 41804,
@@ -11409,6 +11449,14 @@
       "onboard_time": 1770623302,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40116,
+      "num": 40116,
+      "word": "Xiaohu点名Bin世一上",
+      "onboard_time": 1770853939,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 39968,
@@ -11931,20 +11979,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 29041,
+      "num": 643584,
+      "word": "春运路上藏着这些马年彩蛋",
+      "onboard_time": 1770814100,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28954,
       "num": 106225,
       "word": "官方回应黑茶传销事件进展",
       "onboard_time": 1770690921,
       "rank": 38,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 28933,
-      "num": 643584,
-      "word": "春运路上藏着这些马年彩蛋",
-      "onboard_time": 1770814100,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 28789,
