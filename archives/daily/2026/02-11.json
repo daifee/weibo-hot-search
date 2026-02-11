@@ -1,6 +1,6 @@
 {
   "startTime": 1770743525576,
-  "endTime": 1770804158477,
+  "endTime": 1770805035258,
   "band_list": [
     {
       "raw_hot": 984549,
@@ -137,6 +137,14 @@
       "onboard_time": 1770784640,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 557086,
+      "num": 1089133,
+      "word": "方圆阿爆拍了双女主短剧",
+      "onboard_time": 1770802823,
+      "rank": 1,
+      "category": "剧集"
     },
     {
       "raw_hot": 556354,
@@ -331,20 +339,20 @@
       "category": "军事"
     },
     {
+      "raw_hot": 369782,
+      "num": 141164,
+      "word": "保罗在美国被禁言",
+      "onboard_time": 1770803240,
+      "rank": 29,
+      "category": "网红"
+    },
+    {
       "raw_hot": 364668,
       "num": 355409,
       "word": "第一批到家的人已经开始送奶了",
       "onboard_time": 1770799940,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 363338,
-      "num": 818045,
-      "word": "方圆阿爆拍了双女主短剧",
-      "onboard_time": 1770802823,
-      "rank": 1,
-      "category": "剧集"
     },
     {
       "raw_hot": 361923,
@@ -380,7 +388,7 @@
     },
     {
       "raw_hot": 349110,
-      "num": 207490,
+      "num": 208855,
       "word": "女子举报初中老师性侵产子被起诉",
       "onboard_time": 1770800840,
       "rank": 25,
@@ -515,12 +523,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 268503,
+      "num": 140021,
+      "word": "喜欢侧睡的受害者出现了",
+      "onboard_time": 1770800660,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 265272,
       "num": 167849,
       "word": "日本彻底失控",
       "onboard_time": 1770733282,
       "rank": 22,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 264300,
+      "num": 136761,
+      "word": "竟然陪时代峰峻闹了这么久了",
+      "onboard_time": 1770799222,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 255193,
@@ -545,6 +569,14 @@
       "onboard_time": 1770745157,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 248180,
+      "num": 207200,
+      "word": "白鹿3剧连播反思脚步太快",
+      "onboard_time": 1770801260,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 246711,
@@ -579,28 +611,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 244015,
-      "num": 134900,
-      "word": "喜欢侧睡的受害者出现了",
-      "onboard_time": 1770800660,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 243872,
       "num": 175495,
       "word": "王濛和关晓彤合照",
       "onboard_time": 1770785960,
       "rank": 43,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 238052,
-      "num": 124958,
-      "word": "竟然陪时代峰峻闹了这么久了",
-      "onboard_time": 1770799222,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 237452,
@@ -723,6 +739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 205519,
+      "num": 205519,
+      "word": "女教师群聊八卦被拘案最新进展",
+      "onboard_time": 1770803060,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 205297,
       "num": 205297,
       "word": "绝意 K甲",
@@ -737,14 +761,6 @@
       "onboard_time": 1770778459,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 202225,
-      "num": 202225,
-      "word": "白鹿3剧连播反思脚步太快",
-      "onboard_time": 1770801260,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 198678,
@@ -825,14 +841,6 @@
       "onboard_time": 1770735323,
       "rank": 12,
       "category": "电影"
-    },
-    {
-      "raw_hot": 176697,
-      "num": 119319,
-      "word": "保罗在美国被禁言",
-      "onboard_time": 1770803240,
-      "rank": 29,
-      "category": "网红"
     },
     {
       "raw_hot": 175063,
@@ -1019,6 +1027,22 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 131534,
+      "num": 131534,
+      "word": "一大批年轻人开始反向过年",
+      "onboard_time": 1770802221,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 130830,
+      "num": 130830,
+      "word": "00后cp来整顿古偶圈了",
+      "onboard_time": 1770804499,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129622,
       "num": 117308,
       "word": "胡意旋演了个A市来的追星女",
@@ -1059,14 +1083,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 123391,
-      "num": 123391,
-      "word": "一大批年轻人开始反向过年",
-      "onboard_time": 1770802221,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 123374,
       "num": 123374,
       "word": "成何体统",
@@ -1083,10 +1099,26 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 120169,
+      "num": 120169,
+      "word": "日本法律只罚卖淫卖方不罚买方",
+      "onboard_time": 1770803600,
+      "rank": 45,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 118956,
       "num": 118956,
       "word": "理解了人为什么要有好朋友",
       "onboard_time": 1770792681,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 118905,
+      "num": 131082,
+      "word": "当两个梗王谈恋爱",
+      "onboard_time": 1770804319,
       "rank": 32,
       "category": "幽默"
     },
@@ -1267,6 +1299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 102069,
+      "num": 102069,
+      "word": "当老爸的社保比我工资还高",
+      "onboard_time": 1770801800,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 101989,
       "num": 101989,
       "word": "法国想对中国复制广场协议",
@@ -1339,12 +1379,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 98170,
-      "num": 98170,
-      "word": "当老爸的社保比我工资还高",
-      "onboard_time": 1770801800,
+      "raw_hot": 98079,
+      "num": 98079,
+      "word": "邓为直播状态",
+      "onboard_time": 1770804680,
       "rank": 36,
-      "category": "幽默"
+      "category": "艺人"
     },
     {
       "raw_hot": 97415,
@@ -1395,6 +1435,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 94531,
+      "num": 94531,
+      "word": "J人已经买好27年的过年机票",
+      "onboard_time": 1770804861,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 94268,
       "num": 94268,
       "word": "张元英捐款2亿韩元",
@@ -1443,6 +1491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 90841,
+      "num": 90841,
+      "word": "爸妈眼中的职场",
+      "onboard_time": 1770804200,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 89588,
       "num": 108647,
       "word": "在成龙眼里再大也是小孩",
@@ -1457,6 +1513,14 @@
       "onboard_time": 1770752475,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 88391,
+      "num": 88391,
+      "word": "过年回村前VS回村后",
+      "onboard_time": 1770804920,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 88350,
@@ -1507,8 +1571,16 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 85105,
+      "num": 134182,
+      "word": "阿福发16.8红包给奶茶解腻",
+      "onboard_time": 1770804260,
+      "rank": 27,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 84204,
-      "num": 84204,
+      "num": 85483,
       "word": "iG进入淘汰赛",
       "onboard_time": 1770802520,
       "rank": 43,
@@ -1537,14 +1609,6 @@
       "onboard_time": 1770800900,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 82569,
-      "num": 82569,
-      "word": "日本法律只罚卖淫卖方不罚买方",
-      "onboard_time": 1770803600,
-      "rank": 45,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 82296,
@@ -2075,6 +2139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 41577,
+      "num": 663495,
+      "word": "坐高铁感受经济脉动",
+      "onboard_time": 1770800600,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41461,
       "num": 738860,
       "word": "到中国过年成为热潮",
@@ -2107,14 +2179,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 36680,
-      "num": 663495,
-      "word": "坐高铁感受经济脉动",
-      "onboard_time": 1770800600,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 35349,
       "num": 45531,
       "word": "惊蛰无声预售票房",
@@ -2129,14 +2193,6 @@
       "onboard_time": 1770750073,
       "rank": 26,
       "category": "民生新闻,互联网"
-    },
-    {
-      "raw_hot": 34272,
-      "num": 150668,
-      "word": "女教师群聊八卦被拘案最新进展",
-      "onboard_time": 1770803060,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 33826,
@@ -2163,12 +2219,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 32734,
+      "num": 97408,
+      "word": "15年闺蜜因医美毁容反目",
+      "onboard_time": 1770804620,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32581,
       "num": 45511,
       "word": "何与白色背心肌肉男",
       "onboard_time": 1770738023,
       "rank": 48,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 32037,
+      "num": 97408,
+      "word": "早产儿疑因医院违规接种疫苗脑出血",
+      "onboard_time": 1770804620,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32012,
@@ -2209,6 +2281,14 @@
       "onboard_time": 1770791118,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 26872,
+      "num": 97408,
+      "word": "虞书欣唱歌又仙又甜",
+      "onboard_time": 1770803780,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 26382,
@@ -2315,6 +2395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 18234,
+      "num": 143949,
+      "word": "春运广州南站发车间隔堪比地铁",
+      "onboard_time": 1770804260,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 17669,
       "num": 98206,
       "word": "女护士被割喉案凶手至今未道歉",
@@ -2385,14 +2473,6 @@
       "onboard_time": 1770793280,
       "rank": 14,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 8784,
-      "num": 97225,
-      "word": "虞书欣唱歌又仙又甜",
-      "onboard_time": 1770803780,
-      "rank": 37,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [
