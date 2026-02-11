@@ -1,0 +1,410 @@
+{
+  "runTime": 1770818201924,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 830155,
+        "num": 1132824,
+        "word": "湖南卫视春晚",
+        "onboard_time": 1770808699,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 401757,
+        "num": 799613,
+        "word": "KK园区2.0内部照首曝光",
+        "onboard_time": 1770805460,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 4765,
+        "num": 648221,
+        "word": "2026新春走基层",
+        "onboard_time": 1770710421,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 350507,
+        "num": 350507,
+        "word": "何老师嗓子哑了",
+        "onboard_time": 1770812060,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 241841,
+        "num": 241841,
+        "word": "全国房价止跌信号出现",
+        "onboard_time": 1770805339,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 636619,
+        "num": 238807,
+        "word": "郭麒麟 爸爸还是您不争气啊",
+        "onboard_time": 1770809540,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 231239,
+        "num": 231239,
+        "word": "青海一家35口人开大巴春节自驾游",
+        "onboard_time": 1770807260,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187600,
+        "num": 187600,
+        "word": "J人已经买好27年的过年机票",
+        "onboard_time": 1770804861,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 174336,
+        "num": 174336,
+        "word": "日本法律只罚卖淫卖方不罚买方",
+        "onboard_time": 1770803600,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 159404,
+        "num": 159404,
+        "word": "于东来账号已改名傻坏蛋",
+        "onboard_time": 1770815962,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 365132,
+        "num": 158617,
+        "word": "英王室地产发现疑似涉爱泼斯坦案尸体",
+        "onboard_time": 1770812961,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 352815,
+        "num": 157583,
+        "word": "权志龙Chanel",
+        "onboard_time": 1770814280,
+        "rank": 11,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 311654,
+        "num": 157211,
+        "word": "月薪2000的环卫工困在电子镣铐",
+        "onboard_time": 1770811280,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 297958,
+        "num": 156259,
+        "word": "生命树下篇狂飙上了",
+        "onboard_time": 1770812781,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222625,
+        "num": 154900,
+        "word": "爱泼斯坦羞辱性展示女孩视频曝光",
+        "onboard_time": 1770792860,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 210759,
+        "num": 153905,
+        "word": "保罗在美国被禁言",
+        "onboard_time": 1770803240,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 192514,
+        "num": 153292,
+        "word": "余茵曾多次与白鹿撞衫",
+        "onboard_time": 1770808281,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152316,
+        "num": 152316,
+        "word": "9岁抗癌女孩去世前整夜呼喊妈妈",
+        "onboard_time": 1770806841,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180572,
+        "num": 152131,
+        "word": "刘亦菲陈瑶 双虞姬",
+        "onboard_time": 1770817221,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 176783,
+        "num": 149554,
+        "word": "马嘉祺丁程鑫本命年戴了红绳",
+        "onboard_time": 1770812961,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 710078,
+        "num": 147667,
+        "word": "女护士与已婚男吃饭被灌醉拍私密照",
+        "onboard_time": 1770810860,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 235710,
+        "num": 146271,
+        "word": "刘佳宇摔倒",
+        "onboard_time": 1770808879,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145471,
+        "num": 145471,
+        "word": "成何体统",
+        "onboard_time": 1770804499,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133855,
+        "num": 133855,
+        "word": "听闻姐姐分家产儿子打了母亲两巴掌",
+        "onboard_time": 1770815181,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132170,
+        "num": 132170,
+        "word": "何以琛今年50多岁了",
+        "onboard_time": 1770817762,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129246,
+        "num": 129246,
+        "word": "米兰冬奥首位三金王诞生",
+        "onboard_time": 1770817701,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126533,
+        "num": 126533,
+        "word": "陈楚生 卡拉永远OK",
+        "onboard_time": 1770815901,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125716,
+        "num": 125716,
+        "word": "时代少年团唱我是李飞马上起飞",
+        "onboard_time": 1770816741,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124564,
+        "num": 124564,
+        "word": "刘宇宁伴舞呆米",
+        "onboard_time": 1770814941,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 75900,
+        "num": 124062,
+        "word": "湖南卫视春晚节目单来了",
+        "onboard_time": 1770799401,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123731,
+        "num": 123731,
+        "word": "赵睿停赛三场罚款5万",
+        "onboard_time": 1770817221,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120286,
+        "num": 120286,
+        "word": "向华强谈比尔盖茨去萝莉岛很反智",
+        "onboard_time": 1770813802,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112086,
+        "num": 112086,
+        "word": "王者安琪拉典藏皮肤爆料",
+        "onboard_time": 1770806660,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 108434,
+        "num": 108434,
+        "word": "HYBE冲击前的Kpop",
+        "onboard_time": 1770814341,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103492,
+        "num": 103492,
+        "word": "一大批年轻人开始反向过年",
+        "onboard_time": 1770802221,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103388,
+        "num": 103388,
+        "word": "敢想敢做才懂人生可能性有多大",
+        "onboard_time": 1770818001,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 102529,
+        "num": 102529,
+        "word": "虞书欣连线几分钟也做足功课",
+        "onboard_time": 1770815482,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99960,
+        "num": 99960,
+        "word": "迪丽热巴 高智感妈咪",
+        "onboard_time": 1770805700,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99902,
+        "num": 99902,
+        "word": "喜欢侧睡的受害者出现了",
+        "onboard_time": 1770800660,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 98009,
+        "num": 98009,
+        "word": "陈楚生 全开麦",
+        "onboard_time": 1770816801,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97407,
+        "num": 97407,
+        "word": "肖战粉丝已经在合肥吃上了",
+        "onboard_time": 1770818122,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97059,
+        "num": 97059,
+        "word": "刘佳宇初步诊断为头部磕碰",
+        "onboard_time": 1770817101,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24024,
+        "num": 96109,
+        "word": "当新能源冠军遇上英超冠军",
+        "onboard_time": 1770813260,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94652,
+        "num": 95807,
+        "word": "黄朔直播",
+        "onboard_time": 1770815240,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95550,
+        "num": 95550,
+        "word": "女子将敬酒服穿脏后焊接吊牌退货",
+        "onboard_time": 1770799280,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95256,
+        "num": 95256,
+        "word": "陈都灵生图长这样啥意思",
+        "onboard_time": 1770812301,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90403,
+        "num": 90403,
+        "word": "生命树收视破2点5",
+        "onboard_time": 1770815842,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89418,
+        "num": 89418,
+        "word": "非农数据",
+        "onboard_time": 1770818122,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 89277,
+        "num": 89277,
+        "word": "萨摩不耶被摸头后变成萨摩耶了",
+        "onboard_time": 1770817041,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 88479,
+        "num": 88479,
+        "word": "演员郑恩宇去世",
+        "onboard_time": 1770791960,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席春节前夕慰问部队#"
+    }
+  }
+}

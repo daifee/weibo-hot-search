@@ -1,6 +1,6 @@
 {
   "startTime": 1770743525576,
-  "endTime": 1770816381696,
+  "endTime": 1770818201924,
   "band_list": [
     {
       "raw_hot": 984549,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 912182,
-      "num": 138879,
+      "num": 147667,
       "word": "女护士与已婚男吃饭被灌醉拍私密照",
       "onboard_time": 1770810860,
       "rank": 20,
@@ -49,6 +49,14 @@
       "onboard_time": 1770766577,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 830155,
+      "num": 1132824,
+      "word": "湖南卫视春晚",
+      "onboard_time": 1770808699,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 796606,
@@ -81,14 +89,6 @@
       "onboard_time": 1770786619,
       "rank": 24,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 740002,
-      "num": 1118400,
-      "word": "湖南卫视春晚",
-      "onboard_time": 1770808699,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 720620,
@@ -252,7 +252,7 @@
     },
     {
       "raw_hot": 482842,
-      "num": 795403,
+      "num": 799613,
       "word": "KK园区2.0内部照首曝光",
       "onboard_time": 1770805460,
       "rank": 1,
@@ -308,7 +308,7 @@
     },
     {
       "raw_hot": 451123,
-      "num": 190762,
+      "num": 350507,
       "word": "何老师嗓子哑了",
       "onboard_time": 1770812060,
       "rank": 5,
@@ -372,7 +372,7 @@
     },
     {
       "raw_hot": 400707,
-      "num": 142110,
+      "num": 157211,
       "word": "月薪2000的环卫工困在电子镣铐",
       "onboard_time": 1770811280,
       "rank": 33,
@@ -412,7 +412,7 @@
     },
     {
       "raw_hot": 390399,
-      "num": 141675,
+      "num": 158617,
       "word": "英王室地产发现疑似涉爱泼斯坦案尸体",
       "onboard_time": 1770812961,
       "rank": 11,
@@ -483,6 +483,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 352815,
+      "num": 157583,
+      "word": "权志龙Chanel",
+      "onboard_time": 1770814280,
+      "rank": 17,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 349110,
       "num": 208855,
       "word": "女子举报初中老师性侵产子被起诉",
@@ -500,7 +508,7 @@
     },
     {
       "raw_hot": 342796,
-      "num": 141647,
+      "num": 156259,
       "word": "生命树下篇狂飙上了",
       "onboard_time": 1770812781,
       "rank": 12,
@@ -811,14 +819,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 222337,
-      "num": 139870,
-      "word": "权志龙Chanel",
-      "onboard_time": 1770814280,
-      "rank": 17,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 219709,
       "num": 219709,
       "word": "长十火箭托举梦舟飞船点火升空",
@@ -1019,12 +1019,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 180572,
+      "num": 152131,
+      "word": "刘亦菲陈瑶 双虞姬",
+      "onboard_time": 1770817221,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 178806,
       "num": 137905,
       "word": "射雕英雄传侠之大者金像奖0提",
       "onboard_time": 1770735323,
       "rank": 12,
       "category": "电影"
+    },
+    {
+      "raw_hot": 176783,
+      "num": 149554,
+      "word": "马嘉祺丁程鑫本命年戴了红绳",
+      "onboard_time": 1770812961,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 175063,
@@ -1051,6 +1067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 159404,
+      "num": 159404,
+      "word": "于东来账号已改名傻坏蛋",
+      "onboard_time": 1770815962,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 156271,
       "num": 148788,
       "word": "吴京 以后可以明目张胆涂唇膏了",
@@ -1063,14 +1087,6 @@
       "num": 135755,
       "word": "74岁肥猫被医生建议注射药物镇痛",
       "onboard_time": 1770729741,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 153016,
-      "num": 139094,
-      "word": "马嘉祺丁程鑫本命年戴了红绳",
-      "onboard_time": 1770812961,
       "rank": 19,
       "category": "艺人"
     },
@@ -1097,6 +1113,14 @@
       "onboard_time": 1770730582,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 145471,
+      "num": 145471,
+      "word": "成何体统",
+      "onboard_time": 1770722600,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 145372,
@@ -1163,14 +1187,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 137926,
-      "num": 137926,
-      "word": "成何体统",
-      "onboard_time": 1770722600,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 137912,
       "num": 133308,
       "word": "白鹿赵晴 彼此的微博铁粉",
@@ -1219,6 +1235,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 133855,
+      "num": 133855,
+      "word": "听闻姐姐分家产儿子打了母亲两巴掌",
+      "onboard_time": 1770815181,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133603,
       "num": 133603,
       "word": "金价震荡频现千万元级套现",
@@ -1235,20 +1259,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 132764,
-      "num": 142413,
-      "word": "于东来账号已改名傻坏蛋",
-      "onboard_time": 1770815962,
-      "rank": 9,
-      "category": "财经"
-    },
-    {
       "raw_hot": 132340,
       "num": 132340,
       "word": "冬奥会多国要求运动员戴口罩",
       "onboard_time": 1770777260,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 132170,
+      "num": 132170,
+      "word": "何以琛今年50多岁了",
+      "onboard_time": 1770817762,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 131549,
@@ -1283,6 +1307,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 129246,
+      "num": 129246,
+      "word": "米兰冬奥首位三金王诞生",
+      "onboard_time": 1770817701,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 128808,
       "num": 128808,
       "word": "特朗普被曝现爱泼斯坦文件超百万次",
@@ -1299,12 +1331,44 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 126533,
+      "num": 126533,
+      "word": "陈楚生 卡拉永远OK",
+      "onboard_time": 1770815901,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 125716,
+      "num": 125716,
+      "word": "时代少年团唱我是李飞马上起飞",
+      "onboard_time": 1770816741,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 124564,
+      "num": 124564,
+      "word": "刘宇宁伴舞呆米",
+      "onboard_time": 1770814941,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 124527,
       "num": 115719,
       "word": "乔杉 王橹杰我懂你了",
       "onboard_time": 1770797961,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 123731,
+      "num": 123731,
+      "word": "赵睿停赛三场罚款5万",
+      "onboard_time": 1770817221,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 122640,
@@ -1321,6 +1385,14 @@
       "onboard_time": 1770793820,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 120286,
+      "num": 120286,
+      "word": "向华强谈比尔盖茨去萝莉岛很反智",
+      "onboard_time": 1770813802,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 119723,
@@ -1345,14 +1417,6 @@
       "onboard_time": 1770804319,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 118491,
-      "num": 118491,
-      "word": "刘宇宁伴舞呆米",
-      "onboard_time": 1770814941,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 118410,
@@ -1579,6 +1643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 103388,
+      "num": 103388,
+      "word": "敢想敢做才懂人生可能性有多大",
+      "onboard_time": 1770818001,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 103336,
       "num": 103336,
       "word": "德云社封箱",
@@ -1609,14 +1681,6 @@
       "onboard_time": 1770767179,
       "rank": 32,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 101965,
-      "num": 116026,
-      "word": "向华强谈比尔盖茨去萝莉岛很反智",
-      "onboard_time": 1770813802,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 101853,
@@ -1707,14 +1771,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 98682,
-      "num": 95688,
-      "word": "陈楚生 卡拉永远OK",
-      "onboard_time": 1770815901,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 98289,
       "num": 98289,
       "word": "星穹下的格桑花公益片",
@@ -1737,6 +1793,14 @@
       "onboard_time": 1770804680,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 98009,
+      "num": 98009,
+      "word": "陈楚生 全开麦",
+      "onboard_time": 1770816801,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 97832,
@@ -1763,12 +1827,28 @@
       "category": "艺人,游戏"
     },
     {
+      "raw_hot": 97407,
+      "num": 97407,
+      "word": "肖战粉丝已经在合肥吃上了",
+      "onboard_time": 1770818122,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 97362,
       "num": 97362,
       "word": "艾尔海森",
       "onboard_time": 1770785359,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 97059,
+      "num": 97059,
+      "word": "刘佳宇初步诊断为头部磕碰",
+      "onboard_time": 1770817101,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 96581,
@@ -1883,14 +1963,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 92543,
-      "num": 92543,
-      "word": "听闻姐姐分家产儿子打了母亲两巴掌",
-      "onboard_time": 1770815181,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 92439,
       "num": 99157,
       "word": "想看王一博跳舞了",
@@ -1929,6 +2001,22 @@
       "onboard_time": 1770780260,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 89418,
+      "num": 89418,
+      "word": "非农数据",
+      "onboard_time": 1770818122,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 89277,
+      "num": 89277,
+      "word": "萨摩不耶被摸头后变成萨摩耶了",
+      "onboard_time": 1770817041,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 89274,
@@ -3069,6 +3157,9 @@
     },
     {
       "word": "#习近平向党外人士致以新春祝福#"
+    },
+    {
+      "word": "#习主席春节前夕慰问部队#"
     }
   ]
 }
