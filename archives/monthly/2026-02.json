@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1770811486136,
+  "endTime": 1770816381696,
   "band_list": [
     {
       "raw_hot": 12386962,
@@ -1131,6 +1131,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 912182,
+      "num": 138879,
+      "word": "女护士与已婚男吃饭被灌醉拍私密照",
+      "onboard_time": 1770810860,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 911735,
       "num": 299085,
       "word": "弯刀裤",
@@ -1739,6 +1747,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 740002,
+      "num": 1118400,
+      "word": "湖南卫视春晚",
+      "onboard_time": 1770808699,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 739308,
       "num": 1118289,
       "word": "2026春晚主持人阵容",
@@ -1859,14 +1875,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 714261,
-      "num": 850108,
-      "word": "湖南卫视春晚",
-      "onboard_time": 1770808699,
-      "rank": 1,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 713937,
       "num": 713937,
       "word": "千问登顶AppStore免费榜第一",
@@ -1881,6 +1889,14 @@
       "onboard_time": 1770772940,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 712147,
+      "num": 649587,
+      "word": "郭麒麟 爸爸还是您不争气啊",
+      "onboard_time": 1770809540,
+      "rank": 3,
+      "category": "演出"
     },
     {
       "raw_hot": 711070,
@@ -2177,14 +2193,6 @@
       "onboard_time": 1770344360,
       "rank": 7,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 664319,
-      "num": 625450,
-      "word": "郭麒麟 爸爸还是您不争气啊",
-      "onboard_time": 1770809540,
-      "rank": 3,
-      "category": "演出"
     },
     {
       "raw_hot": 663762,
@@ -3532,7 +3540,7 @@
     },
     {
       "raw_hot": 482842,
-      "num": 778268,
+      "num": 795403,
       "word": "KK园区2.0内部照首曝光",
       "onboard_time": 1770805460,
       "rank": 1,
@@ -3953,6 +3961,14 @@
       "onboard_time": 1770090561,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 451123,
+      "num": 190762,
+      "word": "何老师嗓子哑了",
+      "onboard_time": 1770812060,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 450164,
@@ -4659,6 +4675,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 400707,
+      "num": 142110,
+      "word": "月薪2000的环卫工困在电子镣铐",
+      "onboard_time": 1770811280,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 400381,
       "num": 400381,
       "word": "吴京跳刀马刀马",
@@ -4825,6 +4849,14 @@
       "onboard_time": 1770085939,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 390399,
+      "num": 141675,
+      "word": "英王室地产发现疑似涉爱泼斯坦案尸体",
+      "onboard_time": 1770812961,
+      "rank": 11,
+      "category": "国际时政"
     },
     {
       "raw_hot": 390134,
@@ -5769,6 +5801,14 @@
       "onboard_time": 1770129862,
       "rank": 38,
       "category": "财经"
+    },
+    {
+      "raw_hot": 342796,
+      "num": 141647,
+      "word": "生命树下篇狂飙上了",
+      "onboard_time": 1770812781,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 342691,
@@ -9315,6 +9355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 222337,
+      "num": 139870,
+      "word": "权志龙Chanel",
+      "onboard_time": 1770814280,
+      "rank": 17,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 222200,
       "num": 176368,
       "word": "克林顿夫妇将配合爱泼斯坦案调查",
@@ -10515,6 +10563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 191982,
+      "num": 191982,
+      "word": "日本法律只罚卖淫卖方不罚买方",
+      "onboard_time": 1770803600,
+      "rank": 45,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 191911,
       "num": 574075,
       "word": "孙颖莎我们最后一名啊",
@@ -11587,14 +11643,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 167523,
-      "num": 167523,
-      "word": "日本法律只罚卖淫卖方不罚买方",
-      "onboard_time": 1770803600,
-      "rank": 45,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 167417,
       "num": 138863,
       "word": "邬君梅与外籍丈夫婚姻持续近30年",
@@ -12369,6 +12417,14 @@
       "onboard_time": 1770723561,
       "rank": 28,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 153016,
+      "num": 139094,
+      "word": "马嘉祺丁程鑫本命年戴了红绳",
+      "onboard_time": 1770812961,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 152794,
@@ -13667,6 +13723,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 138349,
+      "num": 138349,
+      "word": "黄朔直播",
+      "onboard_time": 1770815240,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 138273,
       "num": 138273,
       "word": "张本智和银牌",
@@ -14265,6 +14329,14 @@
       "onboard_time": 1770678256,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132764,
+      "num": 142413,
+      "word": "于东来账号已改名傻坏蛋",
+      "onboard_time": 1770815962,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 132758,
@@ -15875,6 +15947,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 118491,
+      "num": 118491,
+      "word": "刘宇宁伴舞呆米",
+      "onboard_time": 1770814941,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 118475,
       "num": 118475,
       "word": "杜克拉黑小马哥",
@@ -16201,6 +16281,14 @@
       "onboard_time": 1770101300,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116317,
+      "num": 116317,
+      "word": "HYBE冲击前的Kpop",
+      "onboard_time": 1770814341,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 116292,
@@ -17019,6 +17107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 110892,
+      "num": 110892,
+      "word": "虞书欣连线几分钟也做足功课",
+      "onboard_time": 1770815482,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 110882,
       "num": 129769,
       "word": "抗炎蔬菜界的五虎将",
@@ -17451,6 +17547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 108583,
+      "num": 108583,
+      "word": "陈都灵生图长这样啥意思",
+      "onboard_time": 1770812301,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 108469,
       "num": 108469,
       "word": "森林北回应上过非诚勿扰",
@@ -17601,6 +17705,14 @@
       "onboard_time": 1770420858,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 107782,
+      "num": 107782,
+      "word": "TOP队长带头和师兄打招呼",
+      "onboard_time": 1770811520,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 107762,
@@ -18403,6 +18515,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 103716,
+      "num": 116581,
+      "word": "刘佳宇无缘U型场地决赛",
+      "onboard_time": 1770809300,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 103660,
       "num": 103660,
       "word": "Homme向HLE粉丝道歉",
@@ -18715,6 +18835,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 101965,
+      "num": 116026,
+      "word": "向华强谈比尔盖茨去萝莉岛很反智",
+      "onboard_time": 1770813802,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101938,
       "num": 112846,
       "word": "12306没票微信平台还能买到",
@@ -18769,6 +18897,14 @@
       "onboard_time": 1770190401,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 101634,
+      "num": 95699,
+      "word": "生命树收视破2点5",
+      "onboard_time": 1770815842,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 101626,
@@ -19339,6 +19475,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 98682,
+      "num": 95688,
+      "word": "陈楚生 卡拉永远OK",
+      "onboard_time": 1770815901,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 98661,
       "num": 98661,
       "word": "九尾四连胜后的自拍",
@@ -19393,14 +19537,6 @@
       "onboard_time": 1770607518,
       "rank": 29,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 98411,
-      "num": 98411,
-      "word": "月薪2000的环卫工困在电子镣铐",
-      "onboard_time": 1770811280,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 98408,
@@ -20019,12 +20155,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 95710,
+      "num": 95710,
+      "word": "情久对战DYG",
+      "onboard_time": 1770816083,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 95694,
       "num": 95694,
       "word": "看着自己成长",
       "onboard_time": 1770022162,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 95680,
+      "num": 95680,
+      "word": "展轩直播",
+      "onboard_time": 1770814640,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 95648,
@@ -20681,6 +20833,14 @@
       "onboard_time": 1770476061,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 92543,
+      "num": 92543,
+      "word": "听闻姐姐分家产儿子打了母亲两巴掌",
+      "onboard_time": 1770815181,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 92540,
@@ -21457,6 +21617,14 @@
       "onboard_time": 1770098181,
       "rank": 46,
       "category": "数码"
+    },
+    {
+      "raw_hot": 89274,
+      "num": 89274,
+      "word": "TF四代情人节发歌",
+      "onboard_time": 1770812603,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 89273,
@@ -22337,6 +22505,14 @@
       "onboard_time": 1770810201,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 85582,
+      "num": 85582,
+      "word": "沈月双马尾机械姬",
+      "onboard_time": 1770811940,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 85577,
@@ -28443,6 +28619,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 40455,
+      "num": 140138,
+      "word": "当新能源冠军遇上英超冠军",
+      "onboard_time": 1770813260,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 40303,
       "num": 147283,
       "word": "伊朗在谈判前夕展示先进弹道导弹",
@@ -31339,6 +31523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 18758,
+      "num": 95695,
+      "word": "安徽硬汉逆转KO日本选手称不能输",
+      "onboard_time": 1770816021,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 18732,
       "num": 148624,
       "word": "俄军一中将险遭暗杀",
@@ -32610,6 +32802,9 @@
     },
     {
       "word": "#习近平总书记心头的牵挂#"
+    },
+    {
+      "word": "#习近平向党外人士致以新春祝福#"
     }
   ]
 }

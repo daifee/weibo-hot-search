@@ -1,0 +1,410 @@
+{
+  "runTime": 1770816381696,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 740002,
+        "num": 1118400,
+        "word": "湖南卫视春晚",
+        "onboard_time": 1770808699,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 424688,
+        "num": 795403,
+        "word": "KK园区2.0内部照首曝光",
+        "onboard_time": 1770805460,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 5121,
+        "num": 651918,
+        "word": "2026新春走基层",
+        "onboard_time": 1770710421,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 712147,
+        "num": 649587,
+        "word": "郭麒麟 爸爸还是您不争气啊",
+        "onboard_time": 1770809540,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 191982,
+        "num": 191982,
+        "word": "日本法律只罚卖淫卖方不罚买方",
+        "onboard_time": 1770803600,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 451123,
+        "num": 190762,
+        "word": "何老师嗓子哑了",
+        "onboard_time": 1770812060,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184093,
+        "num": 184093,
+        "word": "全国房价止跌信号出现",
+        "onboard_time": 1770805339,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175385,
+        "num": 175385,
+        "word": "青海一家35口人开大巴春节自驾游",
+        "onboard_time": 1770807260,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142640,
+        "num": 142640,
+        "word": "J人已经买好27年的过年机票",
+        "onboard_time": 1770804861,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132764,
+        "num": 142413,
+        "word": "于东来账号已改名傻坏蛋",
+        "onboard_time": 1770815962,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 400707,
+        "num": 142110,
+        "word": "月薪2000的环卫工困在电子镣铐",
+        "onboard_time": 1770811280,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 390399,
+        "num": 141675,
+        "word": "英王室地产发现疑似涉爱泼斯坦案尸体",
+        "onboard_time": 1770812961,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 342796,
+        "num": 141647,
+        "word": "生命树下篇狂飙上了",
+        "onboard_time": 1770812781,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 239100,
+        "num": 141263,
+        "word": "保罗在美国被禁言",
+        "onboard_time": 1770803240,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 261937,
+        "num": 140810,
+        "word": "爱泼斯坦羞辱性展示女孩视频曝光",
+        "onboard_time": 1770792860,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 225967,
+        "num": 140485,
+        "word": "余茵曾多次与白鹿撞衫",
+        "onboard_time": 1770808281,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40455,
+        "num": 140138,
+        "word": "当新能源冠军遇上英超冠军",
+        "onboard_time": 1770813260,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 222337,
+        "num": 139870,
+        "word": "权志龙Chanel",
+        "onboard_time": 1770814280,
+        "rank": 17,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 167658,
+        "num": 139566,
+        "word": "9岁抗癌女孩去世前整夜呼喊妈妈",
+        "onboard_time": 1770806841,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153016,
+        "num": 139094,
+        "word": "马嘉祺丁程鑫本命年戴了红绳",
+        "onboard_time": 1770812961,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 912182,
+        "num": 138879,
+        "word": "女护士与已婚男吃饭被灌醉拍私密照",
+        "onboard_time": 1770810860,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 273021,
+        "num": 138609,
+        "word": "刘佳宇摔倒",
+        "onboard_time": 1770808879,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138349,
+        "num": 138349,
+        "word": "黄朔直播",
+        "onboard_time": 1770815240,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137926,
+        "num": 137926,
+        "word": "成何体统",
+        "onboard_time": 1770804499,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126957,
+        "num": 126957,
+        "word": "王者安琪拉典藏皮肤爆料",
+        "onboard_time": 1770806660,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 118491,
+        "num": 118491,
+        "word": "刘宇宁伴舞呆米",
+        "onboard_time": 1770814941,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117431,
+        "num": 117431,
+        "word": "迪丽热巴 高智感妈咪",
+        "onboard_time": 1770805700,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103716,
+        "num": 116581,
+        "word": "刘佳宇无缘U型场地决赛",
+        "onboard_time": 1770809300,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116317,
+        "num": 116317,
+        "word": "HYBE冲击前的Kpop",
+        "onboard_time": 1770814341,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69427,
+        "num": 116082,
+        "word": "湖南卫视春晚节目单来了",
+        "onboard_time": 1770799401,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101965,
+        "num": 116026,
+        "word": "向华强谈比尔盖茨去萝莉岛很反智",
+        "onboard_time": 1770813802,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116016,
+        "num": 116016,
+        "word": "网传浪姐7有郑秀晶",
+        "onboard_time": 1770808762,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110892,
+        "num": 110892,
+        "word": "虞书欣连线几分钟也做足功课",
+        "onboard_time": 1770815482,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101605,
+        "num": 108981,
+        "word": "女子将敬酒服穿脏后焊接吊牌退货",
+        "onboard_time": 1770799280,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108583,
+        "num": 108583,
+        "word": "陈都灵生图长这样啥意思",
+        "onboard_time": 1770812301,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107782,
+        "num": 107782,
+        "word": "TOP队长带头和师兄打招呼",
+        "onboard_time": 1770811520,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95710,
+        "num": 95710,
+        "word": "情久对战DYG",
+        "onboard_time": 1770816083,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 101853,
+        "num": 95708,
+        "word": "生命树",
+        "onboard_time": 1770811520,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101634,
+        "num": 95699,
+        "word": "生命树收视破2点5",
+        "onboard_time": 1770815842,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18758,
+        "num": 95695,
+        "word": "安徽硬汉逆转KO日本选手称不能输",
+        "onboard_time": 1770816021,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98682,
+        "num": 95688,
+        "word": "陈楚生 卡拉永远OK",
+        "onboard_time": 1770815901,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95680,
+        "num": 95680,
+        "word": "展轩直播",
+        "onboard_time": 1770814640,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92543,
+        "num": 92543,
+        "word": "听闻姐姐分家产儿子打了母亲两巴掌",
+        "onboard_time": 1770815181,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91870,
+        "num": 91870,
+        "word": "演员郑恩宇去世",
+        "onboard_time": 1770791960,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91655,
+        "num": 91655,
+        "word": "王者荣耀杨玉环",
+        "onboard_time": 1770798799,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 89274,
+        "num": 89274,
+        "word": "TF四代情人节发歌",
+        "onboard_time": 1770812603,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 89082,
+        "num": 89082,
+        "word": "喜欢侧睡的受害者出现了",
+        "onboard_time": 1770800660,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 88037,
+        "num": 88037,
+        "word": "一大批年轻人开始反向过年",
+        "onboard_time": 1770802221,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85582,
+        "num": 85582,
+        "word": "沈月双马尾机械姬",
+        "onboard_time": 1770811940,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84916,
+        "num": 84916,
+        "word": "女护士被堂姐介绍已婚男割喉身亡",
+        "onboard_time": 1770806480,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向党外人士致以新春祝福#"
+    }
+  }
+}

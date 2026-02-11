@@ -1,6 +1,6 @@
 {
   "startTime": 1770743525576,
-  "endTime": 1770811486136,
+  "endTime": 1770816381696,
   "band_list": [
     {
       "raw_hot": 984549,
@@ -33,6 +33,14 @@
       "onboard_time": 1770783859,
       "rank": 10,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 912182,
+      "num": 138879,
+      "word": "女护士与已婚男吃饭被灌醉拍私密照",
+      "onboard_time": 1770810860,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 859955,
@@ -75,6 +83,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 740002,
+      "num": 1118400,
+      "word": "湖南卫视春晚",
+      "onboard_time": 1770808699,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 720620,
       "num": 272767,
       "word": "沈腾找了个最帅的演自己",
@@ -91,20 +107,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 714261,
-      "num": 850108,
-      "word": "湖南卫视春晚",
-      "onboard_time": 1770808699,
-      "rank": 1,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 712317,
       "num": 291758,
       "word": "李佳琦感谢助理旺旺",
       "onboard_time": 1770772940,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 712147,
+      "num": 649587,
+      "word": "郭麒麟 爸爸还是您不争气啊",
+      "onboard_time": 1770809540,
+      "rank": 3,
+      "category": "演出"
     },
     {
       "raw_hot": 688759,
@@ -121,14 +137,6 @@
       "onboard_time": 1770765196,
       "rank": 0,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 664319,
-      "num": 625450,
-      "word": "郭麒麟 爸爸还是您不争气啊",
-      "onboard_time": 1770809540,
-      "rank": 3,
-      "category": "演出"
     },
     {
       "raw_hot": 648781,
@@ -244,7 +252,7 @@
     },
     {
       "raw_hot": 482842,
-      "num": 778268,
+      "num": 795403,
       "word": "KK园区2.0内部照首曝光",
       "onboard_time": 1770805460,
       "rank": 1,
@@ -297,6 +305,14 @@
       "onboard_time": 1770735983,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 451123,
+      "num": 190762,
+      "word": "何老师嗓子哑了",
+      "onboard_time": 1770812060,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 436153,
@@ -355,6 +371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 400707,
+      "num": 142110,
+      "word": "月薪2000的环卫工困在电子镣铐",
+      "onboard_time": 1770811280,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 400381,
       "num": 400381,
       "word": "吴京跳刀马刀马",
@@ -385,6 +409,14 @@
       "onboard_time": 1770775339,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 390399,
+      "num": 141675,
+      "word": "英王室地产发现疑似涉爱泼斯坦案尸体",
+      "onboard_time": 1770812961,
+      "rank": 11,
+      "category": "国际时政"
     },
     {
       "raw_hot": 388482,
@@ -465,6 +497,14 @@
       "onboard_time": 1770801201,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 342796,
+      "num": 141647,
+      "word": "生命树下篇狂飙上了",
+      "onboard_time": 1770812781,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 337906,
@@ -771,6 +811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 222337,
+      "num": 139870,
+      "word": "权志龙Chanel",
+      "onboard_time": 1770814280,
+      "rank": 17,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 219709,
       "num": 219709,
       "word": "长十火箭托举梦舟飞船点火升空",
@@ -931,6 +979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 191982,
+      "num": 191982,
+      "word": "日本法律只罚卖淫卖方不罚买方",
+      "onboard_time": 1770803600,
+      "rank": 45,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 190411,
       "num": 167182,
       "word": "赵今麦宋威龙情人节物料花絮",
@@ -987,14 +1043,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 167523,
-      "num": 167523,
-      "word": "日本法律只罚卖淫卖方不罚买方",
-      "onboard_time": 1770803600,
-      "rank": 45,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 163697,
       "num": 163697,
       "word": "园长用录播冒充直播隐瞒小老虎死亡",
@@ -1015,6 +1063,14 @@
       "num": 135755,
       "word": "74岁肥猫被医生建议注射药物镇痛",
       "onboard_time": 1770729741,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 153016,
+      "num": 139094,
+      "word": "马嘉祺丁程鑫本命年戴了红绳",
+      "onboard_time": 1770812961,
       "rank": 19,
       "category": "艺人"
     },
@@ -1099,6 +1155,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 138349,
+      "num": 138349,
+      "word": "黄朔直播",
+      "onboard_time": 1770815240,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 137926,
+      "num": 137926,
+      "word": "成何体统",
+      "onboard_time": 1770722600,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 137912,
       "num": 133308,
       "word": "白鹿赵晴 彼此的微博铁粉",
@@ -1163,6 +1235,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 132764,
+      "num": 142413,
+      "word": "于东来账号已改名傻坏蛋",
+      "onboard_time": 1770815962,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 132340,
       "num": 132340,
       "word": "冬奥会多国要求运动员戴口罩",
@@ -1184,14 +1264,6 @@
       "word": "00后cp来整顿古偶圈了",
       "onboard_time": 1770804499,
       "rank": 33,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 129700,
-      "num": 129700,
-      "word": "成何体统",
-      "onboard_time": 1770722600,
-      "rank": 7,
       "category": "剧集"
     },
     {
@@ -1275,6 +1347,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 118491,
+      "num": 118491,
+      "word": "刘宇宁伴舞呆米",
+      "onboard_time": 1770814941,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 118410,
       "num": 118410,
       "word": "SM对CBX资产扣押",
@@ -1305,6 +1385,14 @@
       "onboard_time": 1770724701,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 116317,
+      "num": 116317,
+      "word": "HYBE冲击前的Kpop",
+      "onboard_time": 1770814341,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 116209,
@@ -1353,6 +1441,14 @@
       "onboard_time": 1770774620,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 110892,
+      "num": 110892,
+      "word": "虞书欣连线几分钟也做足功课",
+      "onboard_time": 1770815482,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 110662,
@@ -1411,12 +1507,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 108583,
+      "num": 108583,
+      "word": "陈都灵生图长这样啥意思",
+      "onboard_time": 1770812301,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 107998,
       "num": 107998,
       "word": "过年新人设是鲜衣怒马",
       "onboard_time": 1770799280,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 107782,
+      "num": 107782,
+      "word": "TOP队长带头和师兄打招呼",
+      "onboard_time": 1770811520,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 106474,
@@ -1449,6 +1561,14 @@
       "onboard_time": 1770809601,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 103716,
+      "num": 116581,
+      "word": "刘佳宇无缘U型场地决赛",
+      "onboard_time": 1770809300,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 103410,
@@ -1489,6 +1609,30 @@
       "onboard_time": 1770767179,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 101965,
+      "num": 116026,
+      "word": "向华强谈比尔盖茨去萝莉岛很反智",
+      "onboard_time": 1770813802,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 101853,
+      "num": 95708,
+      "word": "生命树",
+      "onboard_time": 1770724341,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 101634,
+      "num": 95699,
+      "word": "生命树收视破2点5",
+      "onboard_time": 1770815842,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 101578,
@@ -1563,12 +1707,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 98411,
-      "num": 98411,
-      "word": "月薪2000的环卫工困在电子镣铐",
-      "onboard_time": 1770811280,
-      "rank": 33,
-      "category": "民生新闻"
+      "raw_hot": 98682,
+      "num": 95688,
+      "word": "陈楚生 卡拉永远OK",
+      "onboard_time": 1770815901,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 98289,
@@ -1651,6 +1795,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 95710,
+      "num": 95710,
+      "word": "情久对战DYG",
+      "onboard_time": 1770816083,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 95680,
+      "num": 95680,
+      "word": "展轩直播",
+      "onboard_time": 1770814640,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 95648,
       "num": 95648,
       "word": "刘耀文说男人的花期很短",
@@ -1723,6 +1883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 92543,
+      "num": 92543,
+      "word": "听闻姐姐分家产儿子打了母亲两巴掌",
+      "onboard_time": 1770815181,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 92439,
       "num": 99157,
       "word": "想看王一博跳舞了",
@@ -1761,6 +1929,14 @@
       "onboard_time": 1770780260,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 89274,
+      "num": 89274,
+      "word": "TF四代情人节发歌",
+      "onboard_time": 1770812603,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 88620,
@@ -1833,6 +2009,14 @@
       "onboard_time": 1770810201,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 85582,
+      "num": 85582,
+      "word": "沈月双马尾机械姬",
+      "onboard_time": 1770811940,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 85105,
@@ -2467,14 +2651,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 41676,
-      "num": 46793,
-      "word": "生命树",
-      "onboard_time": 1770724341,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 41577,
       "num": 663495,
       "word": "坐高铁感受经济脉动",
@@ -2489,6 +2665,14 @@
       "onboard_time": 1770778640,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40455,
+      "num": 140138,
+      "word": "当新能源冠军遇上英超冠军",
+      "onboard_time": 1770813260,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 40403,
@@ -2763,6 +2947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 18758,
+      "num": 95695,
+      "word": "安徽硬汉逆转KO日本选手称不能输",
+      "onboard_time": 1770816021,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 18234,
       "num": 143949,
       "word": "春运广州南站发车间隔堪比地铁",
@@ -2849,6 +3041,14 @@
       "onboard_time": 1770811401,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 5121,
+      "num": 651918,
+      "word": "2026新春走基层",
+      "onboard_time": 1770710421,
+      "rank": 2,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
@@ -2866,6 +3066,9 @@
     },
     {
       "word": "#习近平总书记心头的牵挂#"
+    },
+    {
+      "word": "#习近平向党外人士致以新春祝福#"
     }
   ]
 }
