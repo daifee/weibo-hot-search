@@ -1,6 +1,6 @@
 {
   "startTime": 1770743525576,
-  "endTime": 1770780751972,
+  "endTime": 1770786611606,
   "band_list": [
     {
       "raw_hot": 859955,
@@ -9,6 +9,22 @@
       "onboard_time": 1770766577,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 858328,
+      "num": 205472,
+      "word": "爱泼斯坦狱警用假尸体伪装现场",
+      "onboard_time": 1770783859,
+      "rank": 10,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 720620,
+      "num": 272767,
+      "word": "沈腾找了个最帅的演自己",
+      "onboard_time": 1770779959,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 712317,
@@ -27,11 +43,35 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 648781,
+      "num": 1103805,
+      "word": "微信9大更新",
+      "onboard_time": 1770779420,
+      "rank": 0,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 606388,
       "num": 606388,
       "word": "姚安娜古装",
       "onboard_time": 1770778281,
       "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 573622,
+      "num": 168389,
+      "word": "徐冬冬 孕相",
+      "onboard_time": 1770784640,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 556354,
+      "num": 796096,
+      "word": "被央妈看上的偶像剧",
+      "onboard_time": 1770784521,
+      "rank": 1,
       "category": "剧集"
     },
     {
@@ -67,20 +107,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 465230,
+      "num": 301665,
+      "word": "第一次见双胞胎不是一个物种",
+      "onboard_time": 1770780680,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 464363,
       "num": 762997,
       "word": "8年还清百万债务第一次回老家过年",
       "onboard_time": 1770776719,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 459194,
-      "num": 1073471,
-      "word": "微信9大更新",
-      "onboard_time": 1770779420,
-      "rank": 0,
-      "category": "互联网"
     },
     {
       "raw_hot": 458159,
@@ -97,6 +137,22 @@
       "onboard_time": 1770734364,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 420301,
+      "num": 420301,
+      "word": "饲养员娜娜被责令公开道歉",
+      "onboard_time": 1770783080,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 415715,
+      "num": 204758,
+      "word": "女子出手8公斤金条套现近900万",
+      "onboard_time": 1770781401,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 402603,
@@ -137,6 +193,22 @@
       "onboard_time": 1770777740,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 345446,
+      "num": 204107,
+      "word": "韩国是一个巨大的县城",
+      "onboard_time": 1770785301,
+      "rank": 13,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 343302,
+      "num": 204037,
+      "word": "28岁员工年会饮酒后死亡",
+      "onboard_time": 1770783378,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 334794,
@@ -195,20 +267,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 272767,
-      "num": 272767,
-      "word": "沈腾找了个最帅的演自己",
-      "onboard_time": 1770779959,
-      "rank": 16,
-      "category": "电影"
-    },
-    {
       "raw_hot": 265272,
       "num": 167849,
       "word": "日本彻底失控",
       "onboard_time": 1770733282,
       "rank": 22,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 260282,
+      "num": 260282,
+      "word": "大侦探",
+      "onboard_time": 1770783080,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 249652,
@@ -299,6 +371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 214987,
+      "num": 154056,
+      "word": "金价波动",
+      "onboard_time": 1770780680,
+      "rank": 41,
+      "category": "财经"
+    },
+    {
       "raw_hot": 214469,
       "num": 467153,
       "word": "付费假装上班被要求不迟到不玩手机",
@@ -331,6 +411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 203302,
+      "num": 203302,
+      "word": "刘雨昕 伤人的话一定要三思而行",
+      "onboard_time": 1770778459,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 197063,
       "num": 197063,
       "word": "美国队带走韩国队瞬间",
@@ -353,6 +441,14 @@
       "onboard_time": 1770776959,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 186140,
+      "num": 177320,
+      "word": "大孤山",
+      "onboard_time": 1770784941,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 178806,
@@ -379,20 +475,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 152695,
+      "num": 138320,
+      "word": "就知道姚安娜舍不得这个刘海",
+      "onboard_time": 1770785540,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 151921,
       "num": 151921,
       "word": "镖人不知道孩子爱看啥就全都拍了",
       "onboard_time": 1770776839,
       "rank": 23,
       "category": "电影"
-    },
-    {
-      "raw_hot": 150579,
-      "num": 150579,
-      "word": "刘雨昕 伤人的话一定要三思而行",
-      "onboard_time": 1770778459,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 149608,
@@ -409,6 +505,14 @@
       "onboard_time": 1770730582,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 145372,
+      "num": 145372,
+      "word": "明世隐墨染江湖皮肤",
+      "onboard_time": 1770785301,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 144863,
@@ -507,12 +611,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 124852,
-      "num": 124852,
-      "word": "第一次见双胞胎不是一个物种",
-      "onboard_time": 1770780680,
-      "rank": 30,
-      "category": "幽默"
+      "raw_hot": 125988,
+      "num": 125988,
+      "word": "王者荣耀",
+      "onboard_time": 1770786260,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 123374,
@@ -523,6 +627,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121507,
+      "num": 121507,
+      "word": "白鹿赵晴 彼此的微博铁粉",
+      "onboard_time": 1770786080,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 118410,
+      "num": 118410,
+      "word": "SM对CBX资产扣押",
+      "onboard_time": 1770785120,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 116696,
       "num": 104819,
       "word": "爱泼斯坦别墅内老虎标本栩栩如生",
@@ -531,12 +651,36 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 114439,
+      "num": 114439,
+      "word": "2025年热搜爆了434次",
+      "onboard_time": 1770785301,
+      "rank": 31,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 113419,
       "num": 113419,
       "word": "王濛说中国队尽力了",
       "onboard_time": 1770741138,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 113342,
+      "num": 113342,
+      "word": "大侦探11定档",
+      "onboard_time": 1770783020,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 112901,
+      "num": 112900,
+      "word": "特朗普被曝现爱泼斯坦文件超百万次",
+      "onboard_time": 1770781039,
+      "rank": 36,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 110920,
@@ -561,6 +705,22 @@
       "onboard_time": 1770780319,
       "rank": 35,
       "category": "美食"
+    },
+    {
+      "raw_hot": 109404,
+      "num": 109404,
+      "word": "王橹杰拿剧本上班",
+      "onboard_time": 1770783378,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 109157,
+      "num": 109157,
+      "word": "网传杨博文饰演周扬",
+      "onboard_time": 1770786439,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 108739,
@@ -627,6 +787,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 101578,
+      "num": 101578,
+      "word": "现在就想提前回家过年了",
+      "onboard_time": 1770786140,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 101563,
       "num": 101563,
       "word": "涠洲岛网红鲸鱼被渔船高速撞击",
@@ -651,12 +819,36 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 93960,
-      "num": 93960,
-      "word": "金价波动",
-      "onboard_time": 1770780680,
-      "rank": 41,
-      "category": "财经"
+      "raw_hot": 98634,
+      "num": 98634,
+      "word": "王濛和关晓彤合照",
+      "onboard_time": 1770785960,
+      "rank": 43,
+      "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 98289,
+      "num": 98289,
+      "word": "星穹下的格桑花公益片",
+      "onboard_time": 1770786500,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 97362,
+      "num": 97362,
+      "word": "艾尔海森",
+      "onboard_time": 1770785359,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 94268,
+      "num": 94268,
+      "word": "张元英捐款2亿韩元",
+      "onboard_time": 1770783261,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 93018,
@@ -689,6 +881,14 @@
       "onboard_time": 1770752475,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 87470,
+      "num": 87470,
+      "word": "你们单位福利好吵",
+      "onboard_time": 1770784820,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 86050,
@@ -811,6 +1011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 68038,
+      "num": 112973,
+      "word": "国台办回应立陶宛涉台言论",
+      "onboard_time": 1770782900,
+      "rank": 33,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 67637,
       "num": 67637,
       "word": "在厨房放一把椅子有多方便",
@@ -849,6 +1057,14 @@
       "onboard_time": 1770765796,
       "rank": 17,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 62177,
+      "num": 112901,
+      "word": "我是大彬同学被判赔鸿蒙智行150万",
+      "onboard_time": 1770782780,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 61223,
@@ -897,6 +1113,14 @@
       "onboard_time": 1770738023,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 55421,
+      "num": 98379,
+      "word": "投千万买保险105岁才能取",
+      "onboard_time": 1770785359,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 54545,
@@ -1044,7 +1268,7 @@
     },
     {
       "raw_hot": 41461,
-      "num": 626756,
+      "num": 632103,
       "word": "到中国过年成为热潮",
       "onboard_time": 1770778640,
       "rank": 2,
@@ -1131,6 +1355,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 29561,
+      "num": 206046,
+      "word": "首次载人飞船返回舱海上搜索回收完成",
+      "onboard_time": 1770785540,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 26382,
       "num": 46801,
       "word": "金博洋男单晋级自由滑",
@@ -1145,6 +1377,22 @@
       "onboard_time": 1770744018,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 25455,
+      "num": 100598,
+      "word": "白菊把女儿留给了邵云飞",
+      "onboard_time": 1770786560,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 24553,
+      "num": 173668,
+      "word": "千人在线给Seedance2.0提意见",
+      "onboard_time": 1770786140,
+      "rank": 19,
+      "category": "互联网"
     },
     {
       "raw_hot": 24269,
