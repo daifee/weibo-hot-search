@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/02/12 00:13:58 ~ 2026/02/12 05:03:34
+本榜单时间：2026/02/12 00:13:58 ~ 2026/02/12 05:41:48
 </p>
 </blockquote>
 <p>
@@ -219,6 +219,12 @@ KK园区2.0内部照首曝光（热度：390076）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BB%89%E5%AD%90%E6%96%87%E8%A2%AB%E5%8F%96%E6%B6%88%E6%88%90%E7%BB%A9%23" target="weibo">
+廉子文被取消成绩（热度：85093）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%82%85%E5%9B%9E%E5%BA%94%E5%97%93%E5%AD%90%E5%93%91%E4%BA%86%23" target="weibo">
 何炅回应嗓子哑了（热度：84828）
 </a>
@@ -311,12 +317,6 @@ KK园区2.0内部照首曝光（热度：390076）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E8%BF%9E%E7%BA%BF%E5%87%A0%E5%88%86%E9%92%9F%E4%B9%9F%E5%81%9A%E8%B6%B3%E5%8A%9F%E8%AF%BE%23" target="weibo">
 虞书欣连线几分钟也做足功课（热度：55989）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BB%89%E5%AD%90%E6%96%87%E8%A2%AB%E5%8F%96%E6%B6%88%E6%88%90%E7%BB%A9%23" target="weibo">
-廉子文被取消成绩（热度：55117）
 </a>
 </li>
 

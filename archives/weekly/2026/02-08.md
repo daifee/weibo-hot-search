@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/02/08 00:41:01 ~ 2026/02/12 05:03:34
+本榜单时间：2026/02/08 00:41:01 ~ 2026/02/12 05:41:48
 </p>
 </blockquote>
 <p>
@@ -6417,6 +6417,12 @@ BLG选择NIP（热度：86886）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BB%89%E5%AD%90%E6%96%87%E8%A2%AB%E5%8F%96%E6%B6%88%E6%88%90%E7%BB%A9%23" target="weibo">
+廉子文被取消成绩（热度：85093）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%A5%E8%8A%82%E6%A1%A3%E7%94%B5%E5%BD%B1%E7%A5%A8%E6%88%BF%E9%A2%84%E5%94%AE%E5%89%8D%E4%B8%89%23" target="weibo">
 春节档电影票房预售前三（热度：84966）
 </a>
@@ -7841,12 +7847,6 @@ Gala回复Bin（热度：60281）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%87%E8%83%BD%E6%96%9C%E5%88%98%E6%B5%B7%E9%80%82%E5%90%88%E8%82%89%E8%82%89%E8%84%B8%E6%96%B9%E5%9C%86%E8%84%B8%23" target="weibo">
 万能斜刘海适合肉肉脸方圆脸（热度：56066）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BB%89%E5%AD%90%E6%96%87%E8%A2%AB%E5%8F%96%E6%B6%88%E6%88%90%E7%BB%A9%23" target="weibo">
-廉子文被取消成绩（热度：55117）
 </a>
 </li>
 
