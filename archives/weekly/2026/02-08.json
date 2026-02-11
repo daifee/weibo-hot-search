@@ -1,6 +1,6 @@
 {
   "startTime": 1770482461321,
-  "endTime": 1770849525168,
+  "endTime": 1770850813515,
   "band_list": [
     {
       "raw_hot": 7279878,
@@ -4427,6 +4427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 163483,
+      "num": 582424,
+      "word": "廉子文被取消成绩",
+      "onboard_time": 1770841274,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 163391,
       "num": 128146,
       "word": "吴昕用千问把长沙小吃点了个遍",
@@ -5137,14 +5145,6 @@
       "onboard_time": 1770786080,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 137755,
-      "num": 455443,
-      "word": "廉子文被取消成绩",
-      "onboard_time": 1770841274,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 137593,
@@ -6753,6 +6753,14 @@
       "onboard_time": 1770735202,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 104648,
+      "num": 104648,
+      "word": "中国队又添一枚奖牌",
+      "onboard_time": 1770848715,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 104639,
@@ -10467,14 +10475,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 54747,
-      "num": 54747,
-      "word": "中国队又添一枚奖牌",
-      "onboard_time": 1770848715,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
       "raw_hot": 54576,
       "num": 206046,
       "word": "首次载人飞船返回舱海上搜索回收完成",
@@ -11412,7 +11412,7 @@
     },
     {
       "raw_hot": 36928,
-      "num": 36928,
+      "num": 63664,
       "word": "宁忠岩1000米速滑铜牌",
       "onboard_time": 1770842354,
       "rank": 8,
@@ -11424,6 +11424,14 @@
       "word": "王欣然张楚桐范可新全员晋级",
       "onboard_time": 1770718400,
       "rank": 13,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 36654,
+      "num": 36654,
+      "word": "郑钦文无缘多哈站八强",
+      "onboard_time": 1770848715,
+      "rank": 25,
       "category": "体育"
     },
     {
@@ -11569,6 +11577,14 @@
       "onboard_time": 1770808340,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33069,
+      "num": 33069,
+      "word": "宁忠岩苦等15分钟圆梦速滑铜牌",
+      "onboard_time": 1770848775,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 33049,
@@ -11763,20 +11779,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 29971,
-      "num": 29971,
-      "word": "郑钦文无缘多哈站八强",
-      "onboard_time": 1770848715,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 29767,
       "num": 108969,
       "word": "飞机餐真的缩水了吗",
       "onboard_time": 1770563903,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29498,
+      "num": 29498,
+      "word": "郑钦文1比2莱巴金娜",
+      "onboard_time": 1770848715,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 29390,
@@ -11947,6 +11963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 26785,
+      "num": 29707,
+      "word": "唐宫奇案之青雾风鸣",
+      "onboard_time": 1770575056,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 26762,
       "num": 663835,
       "word": "新时代推动法治进程2025十大案件",
@@ -12091,14 +12115,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 24481,
-      "num": 24481,
-      "word": "宁忠岩苦等15分钟圆梦速滑铜牌",
-      "onboard_time": 1770848775,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 24445,
       "num": 643584,
       "word": "春运路上藏着这些马年彩蛋",
@@ -12129,14 +12145,6 @@
       "onboard_time": 1770607279,
       "rank": 16,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 24070,
-      "num": 29707,
-      "word": "唐宫奇案之青雾风鸣",
-      "onboard_time": 1770575056,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 24062,
@@ -12208,14 +12216,6 @@
       "word": "莱尔丹破奥运纪录夺冠",
       "onboard_time": 1770660616,
       "rank": 49,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 23122,
-      "num": 23122,
-      "word": "郑钦文1比2莱巴金娜",
-      "onboard_time": 1770848715,
-      "rank": 34,
       "category": "体育"
     },
     {
@@ -12345,6 +12345,14 @@
       "onboard_time": 1770489615,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 21269,
+      "num": 25683,
+      "word": "刘宇宁湖南春晚扑通扑通",
+      "onboard_time": 1770840193,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 21253,
@@ -12531,14 +12539,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 17719,
-      "num": 21914,
-      "word": "刘宇宁湖南春晚扑通扑通",
-      "onboard_time": 1770840193,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 17669,
       "num": 98206,
       "word": "女护士被割喉案凶手至今未道歉",
@@ -12595,6 +12595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 16584,
+      "num": 25679,
+      "word": "KPL春季赛",
+      "onboard_time": 1770809540,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 16452,
       "num": 20224,
       "word": "蔡徐坤新专辑",
@@ -12617,6 +12625,14 @@
       "onboard_time": 1770846795,
       "rank": 35,
       "category": "美食"
+    },
+    {
+      "raw_hot": 15883,
+      "num": 25679,
+      "word": "廉子文回应被取消成绩",
+      "onboard_time": 1770850636,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 15806,
@@ -12665,14 +12681,6 @@
       "onboard_time": 1770791721,
       "rank": 39,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 14741,
-      "num": 21843,
-      "word": "KPL春季赛",
-      "onboard_time": 1770809540,
-      "rank": 44,
-      "category": "电竞"
     },
     {
       "raw_hot": 14734,
@@ -12785,6 +12793,14 @@
       "onboard_time": 1770803299,
       "rank": 38,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 13791,
+      "num": 61628,
+      "word": "廉子文说被荷兰选手打了一下",
+      "onboard_time": 1770850756,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 13629,

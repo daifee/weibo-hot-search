@@ -1,6 +1,6 @@
 {
   "startTime": 1770826438780,
-  "endTime": 1770849525168,
+  "endTime": 1770850813515,
   "band_list": [
     {
       "raw_hot": 1042177,
@@ -147,6 +147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 163483,
+      "num": 582424,
+      "word": "廉子文被取消成绩",
+      "onboard_time": 1770841274,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 158912,
       "num": 158912,
       "word": "以前的宠妃美貌都是这种级别",
@@ -185,14 +193,6 @@
       "onboard_time": 1770818662,
       "rank": 24,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 137755,
-      "num": 455443,
-      "word": "廉子文被取消成绩",
-      "onboard_time": 1770841274,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 129524,
@@ -241,6 +241,14 @@
       "onboard_time": 1770812961,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 104648,
+      "num": 104648,
+      "word": "中国队又添一枚奖牌",
+      "onboard_time": 1770848715,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 102097,
@@ -419,14 +427,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 54747,
-      "num": 54747,
-      "word": "中国队又添一枚奖牌",
-      "onboard_time": 1770848715,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
       "raw_hot": 52588,
       "num": 52588,
       "word": "女教师群聊八卦被拘案最新进展",
@@ -460,10 +460,26 @@
     },
     {
       "raw_hot": 36928,
-      "num": 36928,
+      "num": 63664,
       "word": "宁忠岩1000米速滑铜牌",
       "onboard_time": 1770842354,
       "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 36654,
+      "num": 36654,
+      "word": "郑钦文无缘多哈站八强",
+      "onboard_time": 1770848715,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 33069,
+      "num": 33069,
+      "word": "宁忠岩苦等15分钟圆梦速滑铜牌",
+      "onboard_time": 1770848775,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -475,11 +491,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 29971,
-      "num": 29971,
-      "word": "郑钦文无缘多哈站八强",
+      "raw_hot": 29498,
+      "num": 29498,
+      "word": "郑钦文1比2莱巴金娜",
       "onboard_time": 1770848715,
-      "rank": 25,
+      "rank": 34,
       "category": "体育"
     },
     {
@@ -489,6 +505,14 @@
       "onboard_time": 1770831017,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 26785,
+      "num": 29707,
+      "word": "唐宫奇案之青雾风鸣",
+      "onboard_time": 1770831257,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 25829,
@@ -515,36 +539,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 24481,
-      "num": 24481,
-      "word": "宁忠岩苦等15分钟圆梦速滑铜牌",
-      "onboard_time": 1770848775,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 24070,
-      "num": 29707,
-      "word": "唐宫奇案之青雾风鸣",
-      "onboard_time": 1770831257,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 23122,
-      "num": 23122,
-      "word": "郑钦文1比2莱巴金娜",
-      "onboard_time": 1770848715,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 21779,
       "num": 29516,
       "word": "DeepSeek更新上下文达百万级token",
       "onboard_time": 1770828438,
       "rank": 48,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 21269,
+      "num": 25683,
+      "word": "刘宇宁湖南春晚扑通扑通",
+      "onboard_time": 1770840193,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 20419,
@@ -571,12 +579,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 17719,
-      "num": 21914,
-      "word": "刘宇宁湖南春晚扑通扑通",
-      "onboard_time": 1770840193,
-      "rank": 35,
-      "category": "综艺"
+      "raw_hot": 16584,
+      "num": 25679,
+      "word": "KPL春季赛",
+      "onboard_time": 1770809540,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 16127,
@@ -587,20 +595,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 15883,
+      "num": 25679,
+      "word": "廉子文回应被取消成绩",
+      "onboard_time": 1770850636,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 15183,
       "num": 21049,
       "word": "张博恒抽中特等奖好运爆棚",
       "onboard_time": 1770835756,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 14741,
-      "num": 21843,
-      "word": "KPL春季赛",
-      "onboard_time": 1770809540,
-      "rank": 44,
-      "category": "电竞"
     },
     {
       "raw_hot": 14734,
@@ -649,6 +657,14 @@
       "onboard_time": 1770834255,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 13791,
+      "num": 61628,
+      "word": "廉子文说被荷兰选手打了一下",
+      "onboard_time": 1770850756,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 11322,
