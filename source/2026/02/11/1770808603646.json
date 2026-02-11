@@ -1,0 +1,410 @@
+{
+  "runTime": 1770808603646,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 501083,
+        "num": 1080173,
+        "word": "女教师群聊八卦被拘案最新进展",
+        "onboard_time": 1770803060,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 404215,
+        "num": 766970,
+        "word": "KK园区2.0内部照首曝光",
+        "onboard_time": 1770805460,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32078,
+        "num": 627738,
+        "word": "坐高铁感受经济脉动",
+        "onboard_time": 1770800600,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 409686,
+        "num": 409686,
+        "word": "王者安琪拉典藏皮肤爆料",
+        "onboard_time": 1770806660,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 271116,
+        "num": 271116,
+        "word": "全国房价止跌信号出现",
+        "onboard_time": 1770805339,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 296415,
+        "num": 256068,
+        "word": "J人已经买好27年的过年机票",
+        "onboard_time": 1770804861,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 219107,
+        "num": 219107,
+        "word": "一大批年轻人开始反向过年",
+        "onboard_time": 1770802221,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172241,
+        "num": 172241,
+        "word": "永辉超市CEO发全员信致歉",
+        "onboard_time": 1770796099,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 154015,
+        "num": 154015,
+        "word": "日本法律只罚卖淫卖方不罚买方",
+        "onboard_time": 1770803600,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 136570,
+        "num": 136570,
+        "word": "9岁抗癌女孩去世前整夜呼喊妈妈",
+        "onboard_time": 1770806841,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 631898,
+        "num": 136476,
+        "word": "方圆阿爆拍了双女主短剧",
+        "onboard_time": 1770802823,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 492794,
+        "num": 135084,
+        "word": "女子将敬酒服穿脏后焊接吊牌退货",
+        "onboard_time": 1770799280,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 355675,
+        "num": 133151,
+        "word": "爱泼斯坦羞辱性展示女孩视频曝光",
+        "onboard_time": 1770792860,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 164837,
+        "num": 132328,
+        "word": "我将辞职在家研究苏醒这段话",
+        "onboard_time": 1770801201,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131095,
+        "num": 131095,
+        "word": "14万房子涨到180万等20年才拿回",
+        "onboard_time": 1770794120,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136689,
+        "num": 128798,
+        "word": "明日方舟",
+        "onboard_time": 1770807140,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 119238,
+        "num": 119238,
+        "word": "湖南卫视春晚节目单来了",
+        "onboard_time": 1770799401,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112000,
+        "num": 112000,
+        "word": "终于有人吐槽语音评论了",
+        "onboard_time": 1770789980,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 103696,
+        "num": 111986,
+        "word": "成何体统",
+        "onboard_time": 1770804499,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96503,
+        "num": 111946,
+        "word": "青海一家35口人开大巴春节自驾游",
+        "onboard_time": 1770807260,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 463700,
+        "num": 111922,
+        "word": "保罗在美国被禁言",
+        "onboard_time": 1770803240,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 365415,
+        "num": 111895,
+        "word": "余茵曾多次与白鹿撞衫",
+        "onboard_time": 1770808281,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40883,
+        "num": 111876,
+        "word": "Seedance必玩提示词模板",
+        "onboard_time": 1770807199,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 249796,
+        "num": 111827,
+        "word": "王者荣耀杨玉环",
+        "onboard_time": 1770798799,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 209130,
+        "num": 111815,
+        "word": "女护士被堂姐介绍已婚男割喉身亡",
+        "onboard_time": 1770806480,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191661,
+        "num": 111770,
+        "word": "竟然陪时代峰峻闹了这么久了",
+        "onboard_time": 1770799222,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33136,
+        "num": 111730,
+        "word": "女子洗衣机掏出丢失1年金项链",
+        "onboard_time": 1770808340,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224332,
+        "num": 111704,
+        "word": "余茵否认模仿白鹿",
+        "onboard_time": 1770793460,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190246,
+        "num": 111687,
+        "word": "Jennie200亿韩元买房",
+        "onboard_time": 1770805880,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127084,
+        "num": 111648,
+        "word": "喜欢侧睡的受害者出现了",
+        "onboard_time": 1770800660,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 170684,
+        "num": 111634,
+        "word": "迪丽热巴 高智感妈咪",
+        "onboard_time": 1770805700,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161908,
+        "num": 111591,
+        "word": "李一桐新剧空降第一",
+        "onboard_time": 1770797422,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111578,
+        "num": 111578,
+        "word": "当两个梗王谈恋爱",
+        "onboard_time": 1770804319,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 129983,
+        "num": 111549,
+        "word": "徐艺洋回应黄子韬开始不在意颜值",
+        "onboard_time": 1770796461,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111451,
+        "num": 111451,
+        "word": "演员郑恩宇去世",
+        "onboard_time": 1770791960,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95811,
+        "num": 111200,
+        "word": "王昶钱天一领证vlog",
+        "onboard_time": 1770807800,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111077,
+        "num": 111077,
+        "word": "郑秀晶大小姐和保镖神图",
+        "onboard_time": 1770807439,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 40201,
+        "num": 106858,
+        "word": "杨幂说自己是老姐姐",
+        "onboard_time": 1770808520,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 26279,
+        "num": 103844,
+        "word": "张馨予 美人鱼上岸了",
+        "onboard_time": 1770808159,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23175,
+        "num": 103646,
+        "word": "合肥一块石头引全国网友集体思念",
+        "onboard_time": 1770808222,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103533,
+        "num": 103533,
+        "word": "网红沐言感染合胞病毒",
+        "onboard_time": 1770794780,
+        "rank": 40,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 97527,
+        "num": 97527,
+        "word": "博主保罗妻子回应分娩视频争议",
+        "onboard_time": 1770808159,
+        "rank": 41,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 95695,
+        "num": 95695,
+        "word": "单板滑雪女子U型场地技巧预赛",
+        "onboard_time": 1770804260,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 53585,
+        "num": 95694,
+        "word": "有环卫工时薪仅3元低于共享充电宝",
+        "onboard_time": 1770807319,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97191,
+        "num": 95678,
+        "word": "刘宇宁 你的直播King来了",
+        "onboard_time": 1770806000,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62054,
+        "num": 95671,
+        "word": "阿福发16.8红包给奶茶解腻",
+        "onboard_time": 1770804260,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 96231,
+        "num": 95660,
+        "word": "王艳儿子球球回应是否进演艺圈",
+        "onboard_time": 1770806959,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95648,
+        "num": 95648,
+        "word": "刘耀文说男人的花期很短",
+        "onboard_time": 1770807080,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92082,
+        "num": 92082,
+        "word": "强者Rookie回来了",
+        "onboard_time": 1770808401,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 86326,
+        "num": 86326,
+        "word": "虞书欣cos黑色碧琪",
+        "onboard_time": 1770796522,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记心头的牵挂#"
+    }
+  }
+}

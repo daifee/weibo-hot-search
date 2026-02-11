@@ -1,6 +1,6 @@
 {
   "startTime": 1770482461321,
-  "endTime": 1770807915331,
+  "endTime": 1770808603646,
   "band_list": [
     {
       "raw_hot": 7279878,
@@ -1083,8 +1083,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 499839,
-      "num": 1079974,
+      "raw_hot": 501083,
+      "num": 1080173,
       "word": "女教师群聊八卦被拘案最新进展",
       "onboard_time": 1770803060,
       "rank": 19,
@@ -1801,6 +1801,14 @@
       "onboard_time": 1770612801,
       "rank": 21,
       "category": "美食"
+    },
+    {
+      "raw_hot": 365415,
+      "num": 111895,
+      "word": "余茵曾多次与白鹿撞衫",
+      "onboard_time": 1770808281,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 364668,
@@ -2587,6 +2595,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 271116,
+      "num": 271116,
+      "word": "全国房价止跌信号出现",
+      "onboard_time": 1770805339,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 271113,
       "num": 228378,
       "word": "自从你出道很少看内娱营销富二代人设",
@@ -2657,14 +2673,6 @@
       "onboard_time": 1770799222,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 263433,
-      "num": 263433,
-      "word": "全国房价止跌信号出现",
-      "onboard_time": 1770805339,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 261010,
@@ -3443,6 +3451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 209130,
+      "num": 112947,
+      "word": "女护士被堂姐介绍已婚男割喉身亡",
+      "onboard_time": 1770806480,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 207925,
       "num": 207925,
       "word": "李谷一确认缺席马年春晚",
@@ -3552,14 +3568,6 @@
       "word": "谁给了窗口人员收1614万的勇气",
       "onboard_time": 1770554962,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 200261,
-      "num": 112947,
-      "word": "女护士被堂姐介绍已婚男割喉身亡",
-      "onboard_time": 1770806480,
-      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -3736,6 +3744,14 @@
       "word": "赵今麦宋威龙情人节物料花絮",
       "onboard_time": 1770795079,
       "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 190246,
+      "num": 111687,
+      "word": "Jennie200亿韩元买房",
+      "onboard_time": 1770805880,
+      "rank": 29,
       "category": "艺人"
     },
     {
@@ -4011,6 +4027,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 170684,
+      "num": 111634,
+      "word": "迪丽热巴 高智感妈咪",
+      "onboard_time": 1770805700,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 168439,
       "num": 158642,
       "word": "没领证男子去世遭索18万彩礼女方发声",
@@ -4203,14 +4227,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 156871,
-      "num": 111548,
-      "word": "Jennie200亿韩元买房",
-      "onboard_time": 1770805880,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 156271,
       "num": 148788,
       "word": "吴京 以后可以明目张胆涂唇膏了",
@@ -4259,6 +4275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 154015,
+      "num": 154015,
+      "word": "日本法律只罚卖淫卖方不罚买方",
+      "onboard_time": 1770803600,
+      "rank": 45,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 153787,
       "num": 215869,
       "word": "第五人格",
@@ -4281,14 +4305,6 @@
       "onboard_time": 1770723561,
       "rank": 28,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 152956,
-      "num": 111155,
-      "word": "迪丽热巴 高智感妈咪",
-      "onboard_time": 1770805700,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 152794,
@@ -4843,6 +4859,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 136689,
+      "num": 135267,
+      "word": "明日方舟",
+      "onboard_time": 1770611479,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 136570,
+      "num": 136570,
+      "word": "9岁抗癌女孩去世前整夜呼喊妈妈",
+      "onboard_time": 1770806841,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 136397,
       "num": 119034,
       "word": "单身即地狱5",
@@ -4889,14 +4921,6 @@
       "onboard_time": 1770521000,
       "rank": 21,
       "category": "演出"
-    },
-    {
-      "raw_hot": 135267,
-      "num": 135267,
-      "word": "明日方舟",
-      "onboard_time": 1770611479,
-      "rank": 43,
-      "category": "游戏"
     },
     {
       "raw_hot": 135183,
@@ -5281,14 +5305,6 @@
       "onboard_time": 1770717680,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 120169,
-      "num": 120169,
-      "word": "日本法律只罚卖淫卖方不罚买方",
-      "onboard_time": 1770803600,
-      "rank": 45,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 119973,
@@ -5779,6 +5795,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 111077,
+      "num": 111077,
+      "word": "郑秀晶大小姐和保镖神图",
+      "onboard_time": 1770807439,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 110932,
       "num": 122431,
       "word": "王橹杰饰演徐安博",
@@ -5825,14 +5849,6 @@
       "onboard_time": 1770777620,
       "rank": 36,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 110474,
-      "num": 110474,
-      "word": "9岁抗癌女孩去世前整夜呼喊妈妈",
-      "onboard_time": 1770806841,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 110224,
@@ -6451,14 +6467,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 102028,
-      "num": 102028,
-      "word": "郑秀晶大小姐和保镖神图",
-      "onboard_time": 1770807439,
-      "rank": 35,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 101989,
       "num": 101989,
       "word": "法国想对中国复制广场协议",
@@ -6819,6 +6827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 97527,
+      "num": 97527,
+      "word": "博主保罗妻子回应分娩视频争议",
+      "onboard_time": 1770808159,
+      "rank": 41,
+      "category": "网红"
+    },
+    {
       "raw_hot": 97415,
       "num": 97415,
       "word": "双高胎 鹅鸭杀",
@@ -6867,6 +6883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 96503,
+      "num": 113750,
+      "word": "青海一家35口人开大巴春节自驾游",
+      "onboard_time": 1770807260,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96452,
       "num": 96452,
       "word": "留几手买房从大平层问到小小平层",
@@ -6889,6 +6913,14 @@
       "onboard_time": 1770538878,
       "rank": 28,
       "category": "财经"
+    },
+    {
+      "raw_hot": 96231,
+      "num": 101995,
+      "word": "王艳儿子球球回应是否进演艺圈",
+      "onboard_time": 1770806959,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 95962,
@@ -6921,6 +6953,30 @@
       "onboard_time": 1770719121,
       "rank": 33,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 95811,
+      "num": 111200,
+      "word": "王昶钱天一领证vlog",
+      "onboard_time": 1770807800,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 95695,
+      "num": 95695,
+      "word": "单板滑雪女子U型场地技巧预赛",
+      "onboard_time": 1770804260,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 95648,
+      "num": 95648,
+      "word": "刘耀文说男人的花期很短",
+      "onboard_time": 1770807080,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 95502,
@@ -7195,6 +7251,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 92082,
+      "num": 92082,
+      "word": "强者Rookie回来了",
+      "onboard_time": 1770808401,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 92080,
       "num": 92080,
       "word": "宋威龙趾高气昂具象化",
@@ -7257,14 +7321,6 @@
       "onboard_time": 1770507497,
       "rank": 25,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 91427,
-      "num": 91427,
-      "word": "单板滑雪女子U型场地技巧预赛",
-      "onboard_time": 1770804260,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 91263,
@@ -7659,14 +7715,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 86816,
-      "num": 86816,
-      "word": "刘耀文说男人的花期很短",
-      "onboard_time": 1770807080,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 86667,
       "num": 86667,
       "word": "华策拍一部历史长剧熬十年",
@@ -8009,14 +8057,6 @@
       "onboard_time": 1770593598,
       "rank": 31,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 82856,
-      "num": 82856,
-      "word": "王昶钱天一领证vlog",
-      "onboard_time": 1770807800,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 82834,
@@ -9083,14 +9123,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 68479,
-      "num": 101995,
-      "word": "王艳儿子球球回应是否进演艺圈",
-      "onboard_time": 1770806959,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 68390,
       "num": 68390,
       "word": "这6个因素竟是甲状腺癌催化剂",
@@ -9731,6 +9763,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 53585,
+      "num": 101834,
+      "word": "有环卫工时薪仅3元低于共享充电宝",
+      "onboard_time": 1770807319,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 53293,
       "num": 69696,
       "word": "日本在菲律宾培植代理人挑衅中国",
@@ -10115,14 +10155,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 47292,
-      "num": 113750,
-      "word": "青海一家35口人开大巴春节自驾游",
-      "onboard_time": 1770807260,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 46903,
       "num": 46903,
       "word": "米兰冬奥会奖牌",
@@ -10411,6 +10443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 40201,
+      "num": 106858,
+      "word": "杨幂说自己是老姐姐",
+      "onboard_time": 1770808520,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 40123,
       "num": 101990,
       "word": "Prada不锈钢勺子售价1200元",
@@ -10456,14 +10496,6 @@
       "word": "急上厕所在取纸机操作10分钟未果",
       "onboard_time": 1770484638,
       "rank": 43,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 39531,
-      "num": 101834,
-      "word": "有环卫工时薪仅3元低于共享充电宝",
-      "onboard_time": 1770807319,
-      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -10713,6 +10745,14 @@
       "onboard_time": 1770493875,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 33136,
+      "num": 111730,
+      "word": "女子洗衣机掏出丢失1年金项链",
+      "onboard_time": 1770808340,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 33049,
@@ -11075,6 +11115,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 26279,
+      "num": 103844,
+      "word": "张馨予 美人鱼上岸了",
+      "onboard_time": 1770808159,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 26235,
       "num": 34560,
       "word": "汪苏泷十万伏特live",
@@ -11241,6 +11289,14 @@
       "onboard_time": 1770714800,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 23175,
+      "num": 103646,
+      "word": "合肥一块石头引全国网友集体思念",
+      "onboard_time": 1770808222,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23172,
