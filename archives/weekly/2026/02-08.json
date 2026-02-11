@@ -1,6 +1,6 @@
 {
   "startTime": 1770482461321,
-  "endTime": 1770778425992,
+  "endTime": 1770780751972,
   "band_list": [
     {
       "raw_hot": 7279878,
@@ -468,7 +468,7 @@
     },
     {
       "raw_hot": 712317,
-      "num": 196990,
+      "num": 291758,
       "word": "李佳琦感谢助理旺旺",
       "onboard_time": 1770772940,
       "rank": 10,
@@ -665,6 +665,14 @@
       "onboard_time": 1770519020,
       "rank": 3,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 606388,
+      "num": 606388,
+      "word": "姚安娜古装",
+      "onboard_time": 1770778281,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 603305,
@@ -1004,7 +1012,7 @@
     },
     {
       "raw_hot": 467520,
-      "num": 196902,
+      "num": 278610,
       "word": "卜凡 道士下山",
       "onboard_time": 1770773300,
       "rank": 11,
@@ -1017,6 +1025,14 @@
       "onboard_time": 1770681980,
       "rank": 3,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 464363,
+      "num": 762997,
+      "word": "8年还清百万债务第一次回老家过年",
+      "onboard_time": 1770776719,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 462912,
@@ -1033,6 +1049,14 @@
       "onboard_time": 1770625401,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 459194,
+      "num": 1073471,
+      "word": "微信9大更新",
+      "onboard_time": 1770779420,
+      "rank": 0,
+      "category": "互联网"
     },
     {
       "raw_hot": 458705,
@@ -1299,6 +1323,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 402603,
+      "num": 402603,
+      "word": "孙海洋夫妇将名下公司转给孙卓",
+      "onboard_time": 1770779600,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 401485,
       "num": 401485,
       "word": "无畏契约直播",
@@ -1363,6 +1395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 392577,
+      "num": 802318,
+      "word": "隐瞒小老虎死讯园长被停职",
+      "onboard_time": 1770775339,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 390534,
       "num": 305250,
       "word": "成何体统 改词",
@@ -1409,6 +1449,14 @@
       "onboard_time": 1770712039,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 378982,
+      "num": 378982,
+      "word": "火箭回收",
+      "onboard_time": 1770778459,
+      "rank": 6,
+      "category": "军事"
     },
     {
       "raw_hot": 378569,
@@ -1507,14 +1555,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 365154,
-      "num": 762997,
-      "word": "8年还清百万债务第一次回老家过年",
-      "onboard_time": 1770776719,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 364542,
       "num": 163798,
       "word": "Bin腹肌对标Gala",
@@ -1548,7 +1588,7 @@
     },
     {
       "raw_hot": 361923,
-      "num": 196765,
+      "num": 217156,
       "word": "日本考虑引入针对嫖娼者处罚措施",
       "onboard_time": 1770773118,
       "rank": 12,
@@ -1577,6 +1617,14 @@
       "onboard_time": 1770733883,
       "rank": 13,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 356104,
+      "num": 291387,
+      "word": "易烊千玺 努力超越满江红",
+      "onboard_time": 1770777740,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 355696,
@@ -1723,6 +1771,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 333002,
+      "num": 333002,
+      "word": "鹅鸭杀",
+      "onboard_time": 1770776180,
+      "rank": 4,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 332844,
       "num": 332844,
       "word": "苏翊鸣第一跳1980",
@@ -1745,6 +1801,14 @@
       "onboard_time": 1770634581,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 326704,
+      "num": 283349,
+      "word": "杨紫都演妈妈了",
+      "onboard_time": 1770777798,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 321722,
@@ -1849,14 +1913,6 @@
       "onboard_time": 1770718520,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 310107,
-      "num": 310107,
-      "word": "鹅鸭杀",
-      "onboard_time": 1770776180,
-      "rank": 4,
-      "category": "游戏"
     },
     {
       "raw_hot": 309329,
@@ -1987,6 +2043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 293617,
+      "num": 293617,
+      "word": "长征十号甲火箭",
+      "onboard_time": 1770779119,
+      "rank": 9,
+      "category": "军事"
+    },
+    {
       "raw_hot": 293371,
       "num": 293371,
       "word": "武大靖笑得太大声了",
@@ -2003,14 +2067,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 291512,
-      "num": 291512,
-      "word": "隐瞒小老虎死讯园长被停职",
-      "onboard_time": 1770775339,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 290398,
       "num": 290398,
       "word": "短道速滑 紧张",
@@ -2025,6 +2081,14 @@
       "onboard_time": 1770730700,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 287779,
+      "num": 287779,
+      "word": "伽罗水墨皮肤爆料",
+      "onboard_time": 1770778640,
+      "rank": 12,
+      "category": "游戏"
     },
     {
       "raw_hot": 287749,
@@ -2153,6 +2217,14 @@
       "onboard_time": 1770556883,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 272767,
+      "num": 272767,
+      "word": "沈腾找了个最帅的演自己",
+      "onboard_time": 1770779959,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 272755,
@@ -2347,6 +2419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 249652,
+      "num": 249652,
+      "word": "怎样的结局才配得上这25集",
+      "onboard_time": 1770778759,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 248833,
       "num": 248833,
       "word": "12306回应高铁座椅钻出活蜥蜴",
@@ -2504,6 +2584,14 @@
       "word": "曝爱泼斯坦为印度首富弟弟献女郎",
       "onboard_time": 1770510620,
       "rank": 12,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 237452,
+      "num": 273481,
+      "word": "爱泼斯坦案录像现可疑橙色身影",
+      "onboard_time": 1770776539,
+      "rank": 18,
       "category": "海外新闻"
     },
     {
@@ -2683,6 +2771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 219709,
+      "num": 219709,
+      "word": "长十火箭托举梦舟飞船点火升空",
+      "onboard_time": 1770780140,
+      "rank": 19,
+      "category": "军事"
+    },
+    {
       "raw_hot": 219612,
       "num": 219612,
       "word": "李昀锐的桃花马在孟子义那",
@@ -2716,7 +2812,7 @@
     },
     {
       "raw_hot": 216737,
-      "num": 196414,
+      "num": 204000,
       "word": "苏新皓 韩国",
       "onboard_time": 1770768800,
       "rank": 14,
@@ -2833,6 +2929,14 @@
       "onboard_time": 1770735801,
       "rank": 49,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 212741,
+      "num": 212741,
+      "word": "王橹杰 付彬言",
+      "onboard_time": 1770778699,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 212355,
@@ -3403,14 +3507,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 166005,
-      "num": 166005,
-      "word": "易烊千玺 努力超越满江红",
-      "onboard_time": 1770777740,
-      "rank": 21,
-      "category": "电影"
-    },
-    {
       "raw_hot": 165957,
       "num": 165957,
       "word": "林孝埈1000米被对手犯规",
@@ -3473,14 +3569,6 @@
       "onboard_time": 1770537860,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 162497,
-      "num": 172200,
-      "word": "爱泼斯坦案录像现可疑橙色身影",
-      "onboard_time": 1770776539,
-      "rank": 18,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 162133,
@@ -3753,6 +3841,14 @@
       "onboard_time": 1770638421,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 150579,
+      "num": 150579,
+      "word": "刘雨昕 伤人的话一定要三思而行",
+      "onboard_time": 1770778459,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 150462,
@@ -4227,12 +4323,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135083,
+      "num": 135083,
+      "word": "加拿大枪击事件已致10人死亡",
+      "onboard_time": 1770778640,
+      "rank": 27,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 133927,
       "num": 126568,
       "word": "对尺寸有了清晰的概念",
       "onboard_time": 1770610340,
       "rank": 31,
       "category": "幽默,休闲"
+    },
+    {
+      "raw_hot": 133603,
+      "num": 133603,
+      "word": "金价震荡频现千万元级套现",
+      "onboard_time": 1770780080,
+      "rank": 28,
+      "category": "财经"
     },
     {
       "raw_hot": 133295,
@@ -4347,6 +4459,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 129339,
+      "num": 129339,
+      "word": "微信删好友能保留聊天记录",
+      "onboard_time": 1770779780,
+      "rank": 29,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 128532,
       "num": 128532,
       "word": "特朗普称自己犯了大错",
@@ -4409,6 +4529,14 @@
       "onboard_time": 1770561383,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 124852,
+      "num": 124852,
+      "word": "第一次见双胞胎不是一个物种",
+      "onboard_time": 1770780680,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 124593,
@@ -4979,6 +5107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 110578,
+      "num": 110578,
+      "word": "千问帮我",
+      "onboard_time": 1770777620,
+      "rank": 36,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 110224,
       "num": 110224,
       "word": "王皓赛后为王楚钦耐心擦眼泪",
@@ -5009,6 +5145,14 @@
       "onboard_time": 1770615320,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 109681,
+      "num": 109681,
+      "word": "不会包饺子的建议反复观看",
+      "onboard_time": 1770780319,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 109626,
@@ -5131,6 +5275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 108739,
+      "num": 108739,
+      "word": "樊振东脚边有球急坏了所有人",
+      "onboard_time": 1770779060,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 108723,
       "num": 108723,
       "word": "甘肃浆水面",
@@ -5145,6 +5297,14 @@
       "onboard_time": 1770702080,
       "rank": 31,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 108594,
+      "num": 108594,
+      "word": "黄奕 口条",
+      "onboard_time": 1770779240,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 108469,
@@ -5611,14 +5771,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 100997,
-      "num": 100997,
-      "word": "千问帮我",
-      "onboard_time": 1770777620,
-      "rank": 36,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 100892,
       "num": 100892,
       "word": "刘少昂林孝埈孙龙顺利晋级",
@@ -6043,6 +6195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 93960,
+      "num": 93960,
+      "word": "金价波动",
+      "onboard_time": 1770780680,
+      "rank": 41,
+      "category": "财经"
+    },
+    {
       "raw_hot": 93871,
       "num": 93871,
       "word": "BTS免费开演唱会",
@@ -6219,14 +6379,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 91383,
-      "num": 91383,
-      "word": "姚安娜古装",
-      "onboard_time": 1770778281,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 91263,
       "num": 103067,
       "word": "吉克隽逸 过年了老子要美翻全世界",
@@ -6353,6 +6505,14 @@
       "onboard_time": 1770731482,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 89588,
+      "num": 108647,
+      "word": "在成龙眼里再大也是小孩",
+      "onboard_time": 1770780260,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 89582,
@@ -6665,6 +6825,14 @@
       "onboard_time": 1770628461,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 85751,
+      "num": 85751,
+      "word": "趁小狗睡觉时玩它的嘴筒子",
+      "onboard_time": 1770780501,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 85541,
@@ -8075,14 +8243,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 63146,
-      "num": 167850,
-      "word": "杨紫都演妈妈了",
-      "onboard_time": 1770777798,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 62766,
       "num": 88345,
       "word": "Seedance2.0中外同步发布",
@@ -8755,6 +8915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 47441,
+      "num": 104611,
+      "word": "在青岛把生活过成一篇散文",
+      "onboard_time": 1770778880,
+      "rank": 39,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 46903,
       "num": 46903,
       "word": "米兰冬奥会奖牌",
@@ -8977,6 +9145,14 @@
       "onboard_time": 1770539540,
       "rank": 39,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 41461,
+      "num": 626756,
+      "word": "到中国过年成为热潮",
+      "onboard_time": 1770778640,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 41107,

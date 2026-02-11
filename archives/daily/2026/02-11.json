@@ -1,6 +1,6 @@
 {
   "startTime": 1770743525576,
-  "endTime": 1770778425992,
+  "endTime": 1770780751972,
   "band_list": [
     {
       "raw_hot": 859955,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 712317,
-      "num": 196990,
+      "num": 291758,
       "word": "李佳琦感谢助理旺旺",
       "onboard_time": 1770772940,
       "rank": 10,
@@ -25,6 +25,14 @@
       "onboard_time": 1770765196,
       "rank": 0,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 606388,
+      "num": 606388,
+      "word": "姚安娜古装",
+      "onboard_time": 1770778281,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 537887,
@@ -52,11 +60,27 @@
     },
     {
       "raw_hot": 467520,
-      "num": 196902,
+      "num": 278610,
       "word": "卜凡 道士下山",
       "onboard_time": 1770773300,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 464363,
+      "num": 762997,
+      "word": "8年还清百万债务第一次回老家过年",
+      "onboard_time": 1770776719,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 459194,
+      "num": 1073471,
+      "word": "微信9大更新",
+      "onboard_time": 1770779420,
+      "rank": 0,
+      "category": "互联网"
     },
     {
       "raw_hot": 458159,
@@ -75,20 +99,44 @@
       "category": "体育"
     },
     {
-      "raw_hot": 365154,
-      "num": 762997,
-      "word": "8年还清百万债务第一次回老家过年",
-      "onboard_time": 1770776719,
-      "rank": 1,
+      "raw_hot": 402603,
+      "num": 402603,
+      "word": "孙海洋夫妇将名下公司转给孙卓",
+      "onboard_time": 1770779600,
+      "rank": 5,
       "category": "民生新闻"
     },
     {
+      "raw_hot": 392577,
+      "num": 802318,
+      "word": "隐瞒小老虎死讯园长被停职",
+      "onboard_time": 1770775339,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 378982,
+      "num": 378982,
+      "word": "火箭回收",
+      "onboard_time": 1770778459,
+      "rank": 6,
+      "category": "军事"
+    },
+    {
       "raw_hot": 361923,
-      "num": 196765,
+      "num": 217156,
       "word": "日本考虑引入针对嫖娼者处罚措施",
       "onboard_time": 1770773118,
       "rank": 12,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 356104,
+      "num": 291387,
+      "word": "易烊千玺 努力超越满江红",
+      "onboard_time": 1770777740,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 334794,
@@ -96,6 +144,22 @@
       "word": "白菊邵云飞离婚",
       "onboard_time": 1770766098,
       "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 333002,
+      "num": 333002,
+      "word": "鹅鸭杀",
+      "onboard_time": 1770776180,
+      "rank": 4,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 326704,
+      "num": 283349,
+      "word": "杨紫都演妈妈了",
+      "onboard_time": 1770777798,
+      "rank": 19,
       "category": "剧集"
     },
     {
@@ -107,20 +171,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 310107,
-      "num": 310107,
-      "word": "鹅鸭杀",
-      "onboard_time": 1770776180,
-      "rank": 4,
-      "category": "游戏"
+      "raw_hot": 293617,
+      "num": 293617,
+      "word": "长征十号甲火箭",
+      "onboard_time": 1770779119,
+      "rank": 9,
+      "category": "军事"
     },
     {
-      "raw_hot": 291512,
-      "num": 291512,
-      "word": "隐瞒小老虎死讯园长被停职",
-      "onboard_time": 1770775339,
-      "rank": 5,
-      "category": "民生新闻"
+      "raw_hot": 287779,
+      "num": 287779,
+      "word": "伽罗水墨皮肤爆料",
+      "onboard_time": 1770778640,
+      "rank": 12,
+      "category": "游戏"
     },
     {
       "raw_hot": 287312,
@@ -131,12 +195,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 272767,
+      "num": 272767,
+      "word": "沈腾找了个最帅的演自己",
+      "onboard_time": 1770779959,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 265272,
       "num": 167849,
       "word": "日本彻底失控",
       "onboard_time": 1770733282,
       "rank": 22,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 249652,
+      "num": 249652,
+      "word": "怎样的结局才配得上这25集",
+      "onboard_time": 1770778759,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 248519,
@@ -171,6 +251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 237452,
+      "num": 273481,
+      "word": "爱泼斯坦案录像现可疑橙色身影",
+      "onboard_time": 1770776539,
+      "rank": 18,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 231663,
       "num": 231663,
       "word": "生命树看到一半像换了部剧",
@@ -187,6 +275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 219709,
+      "num": 219709,
+      "word": "长十火箭托举梦舟飞船点火升空",
+      "onboard_time": 1770780140,
+      "rank": 19,
+      "category": "军事"
+    },
+    {
       "raw_hot": 218530,
       "num": 302310,
       "word": "韩媒质问这还是体育吗",
@@ -196,7 +292,7 @@
     },
     {
       "raw_hot": 216737,
-      "num": 196414,
+      "num": 204000,
       "word": "苏新皓 韩国",
       "onboard_time": 1770768800,
       "rank": 14,
@@ -217,6 +313,14 @@
       "onboard_time": 1770735801,
       "rank": 4,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 212741,
+      "num": 212741,
+      "word": "王橹杰 付彬言",
+      "onboard_time": 1770778699,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 207925,
@@ -259,28 +363,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 166005,
-      "num": 166005,
-      "word": "易烊千玺 努力超越满江红",
-      "onboard_time": 1770777740,
-      "rank": 21,
-      "category": "电影"
-    },
-    {
       "raw_hot": 163697,
       "num": 163697,
       "word": "园长用录播冒充直播隐瞒小老虎死亡",
       "onboard_time": 1770774979,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 162497,
-      "num": 172200,
-      "word": "爱泼斯坦案录像现可疑橙色身影",
-      "onboard_time": 1770776539,
-      "rank": 18,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 154343,
@@ -297,6 +385,14 @@
       "onboard_time": 1770776839,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 150579,
+      "num": 150579,
+      "word": "刘雨昕 伤人的话一定要三思而行",
+      "onboard_time": 1770778459,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 149608,
@@ -371,6 +467,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 135083,
+      "num": 135083,
+      "word": "加拿大枪击事件已致10人死亡",
+      "onboard_time": 1770778640,
+      "rank": 27,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 133603,
+      "num": 133603,
+      "word": "金价震荡频现千万元级套现",
+      "onboard_time": 1770780080,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 133207,
       "num": 133207,
       "word": "印度大一男生求婚遭拒将女生枪杀",
@@ -385,6 +497,22 @@
       "onboard_time": 1770777260,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129339,
+      "num": 129339,
+      "word": "微信删好友能保留聊天记录",
+      "onboard_time": 1770779780,
+      "rank": 29,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 124852,
+      "num": 124852,
+      "word": "第一次见双胞胎不是一个物种",
+      "onboard_time": 1770780680,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 123374,
@@ -417,6 +545,38 @@
       "onboard_time": 1770774620,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 110578,
+      "num": 110578,
+      "word": "千问帮我",
+      "onboard_time": 1770777620,
+      "rank": 36,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 109681,
+      "num": 109681,
+      "word": "不会包饺子的建议反复观看",
+      "onboard_time": 1770780319,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 108739,
+      "num": 108739,
+      "word": "樊振东脚边有球急坏了所有人",
+      "onboard_time": 1770779060,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 108594,
+      "num": 108594,
+      "word": "黄奕 口条",
+      "onboard_time": 1770779240,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 106474,
@@ -475,14 +635,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 100997,
-      "num": 100997,
-      "word": "千问帮我",
-      "onboard_time": 1770777620,
-      "rank": 36,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 100416,
       "num": 99342,
       "word": "堂姐介绍已婚男致女子遇害事后失联",
@@ -497,6 +649,14 @@
       "onboard_time": 1770765317,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 93960,
+      "num": 93960,
+      "word": "金价波动",
+      "onboard_time": 1770780680,
+      "rank": 41,
+      "category": "财经"
     },
     {
       "raw_hot": 93018,
@@ -515,12 +675,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 91383,
-      "num": 91383,
-      "word": "姚安娜古装",
-      "onboard_time": 1770778281,
-      "rank": 40,
-      "category": "剧集"
+      "raw_hot": 89588,
+      "num": 108647,
+      "word": "在成龙眼里再大也是小孩",
+      "onboard_time": 1770780260,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 88620,
@@ -537,6 +697,14 @@
       "onboard_time": 1770777620,
       "rank": 41,
       "category": "美食"
+    },
+    {
+      "raw_hot": 85751,
+      "num": 85751,
+      "word": "趁小狗睡觉时玩它的嘴筒子",
+      "onboard_time": 1770780501,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 80652,
@@ -665,14 +833,6 @@
       "onboard_time": 1770765619,
       "rank": 45,
       "category": "财经"
-    },
-    {
-      "raw_hot": 63146,
-      "num": 167850,
-      "word": "杨紫都演妈妈了",
-      "onboard_time": 1770777798,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 62964,
@@ -811,6 +971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 47441,
+      "num": 104611,
+      "word": "在青岛把生活过成一篇散文",
+      "onboard_time": 1770778880,
+      "rank": 39,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 46903,
       "num": 46903,
       "word": "米兰冬奥会奖牌",
@@ -873,6 +1041,14 @@
       "onboard_time": 1770724341,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 41461,
+      "num": 626756,
+      "word": "到中国过年成为热潮",
+      "onboard_time": 1770778640,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 40403,

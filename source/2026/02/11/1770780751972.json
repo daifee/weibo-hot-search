@@ -1,0 +1,410 @@
+{
+  "runTime": 1770780751972,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 459194,
+        "num": 1073471,
+        "word": "微信9大更新",
+        "onboard_time": 1770779420,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 392577,
+        "num": 802318,
+        "word": "隐瞒小老虎死讯园长被停职",
+        "onboard_time": 1770775339,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41461,
+        "num": 626756,
+        "word": "到中国过年成为热潮",
+        "onboard_time": 1770778640,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 606388,
+        "num": 606388,
+        "word": "姚安娜古装",
+        "onboard_time": 1770778281,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 464363,
+        "num": 464363,
+        "word": "8年还清百万债务第一次回老家过年",
+        "onboard_time": 1770776719,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 402603,
+        "num": 402603,
+        "word": "孙海洋夫妇将名下公司转给孙卓",
+        "onboard_time": 1770779600,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 378982,
+        "num": 378982,
+        "word": "火箭回收",
+        "onboard_time": 1770778459,
+        "rank": 6,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 349916,
+        "num": 349916,
+        "word": "电影射雕英雄传侠之大者",
+        "onboard_time": 1770769520,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 333002,
+        "num": 333002,
+        "word": "鹅鸭杀",
+        "onboard_time": 1770776180,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 293617,
+        "num": 293617,
+        "word": "长征十号甲火箭",
+        "onboard_time": 1770779119,
+        "rank": 9,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 549912,
+        "num": 291758,
+        "word": "李佳琦感谢助理旺旺",
+        "onboard_time": 1770772940,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 356104,
+        "num": 291387,
+        "word": "易烊千玺 努力超越满江红",
+        "onboard_time": 1770777740,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 287779,
+        "num": 287779,
+        "word": "伽罗水墨皮肤爆料",
+        "onboard_time": 1770778640,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 326704,
+        "num": 283349,
+        "word": "杨紫都演妈妈了",
+        "onboard_time": 1770777798,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 300524,
+        "num": 278610,
+        "word": "卜凡 道士下山",
+        "onboard_time": 1770773300,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237452,
+        "num": 273481,
+        "word": "爱泼斯坦案录像现可疑橙色身影",
+        "onboard_time": 1770776539,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 272767,
+        "num": 272767,
+        "word": "沈腾找了个最帅的演自己",
+        "onboard_time": 1770779959,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 249652,
+        "num": 249652,
+        "word": "怎样的结局才配得上这25集",
+        "onboard_time": 1770778759,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231054,
+        "num": 231054,
+        "word": "公公丈夫2天相继离世大姑子在ICU",
+        "onboard_time": 1770776059,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219709,
+        "num": 219709,
+        "word": "长十火箭托举梦舟飞船点火升空",
+        "onboard_time": 1770780140,
+        "rank": 19,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 217156,
+        "num": 217156,
+        "word": "日本考虑引入针对嫖娼者处罚措施",
+        "onboard_time": 1770773118,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 212741,
+        "num": 212741,
+        "word": "王橹杰 付彬言",
+        "onboard_time": 1770778699,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204000,
+        "num": 204000,
+        "word": "苏新皓 韩国",
+        "onboard_time": 1770768800,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157507,
+        "num": 157507,
+        "word": "日本彻底失控",
+        "onboard_time": 1770733282,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 155649,
+        "num": 155649,
+        "word": "白菊邵云飞离婚",
+        "onboard_time": 1770766098,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150579,
+        "num": 150579,
+        "word": "刘雨昕 伤人的话一定要三思而行",
+        "onboard_time": 1770778459,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146258,
+        "num": 146258,
+        "word": "带领意大利队夺金的是中国教练",
+        "onboard_time": 1770768139,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135083,
+        "num": 135083,
+        "word": "加拿大枪击事件已致10人死亡",
+        "onboard_time": 1770778640,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 133603,
+        "num": 133603,
+        "word": "金价震荡频现千万元级套现",
+        "onboard_time": 1770780080,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 129339,
+        "num": 129339,
+        "word": "微信删好友能保留聊天记录",
+        "onboard_time": 1770779780,
+        "rank": 29,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 124852,
+        "num": 124852,
+        "word": "第一次见双胞胎不是一个物种",
+        "onboard_time": 1770780680,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119034,
+        "num": 119034,
+        "word": "赵今麦小年营业照",
+        "onboard_time": 1770774559,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229659,
+        "num": 117972,
+        "word": "年终奖",
+        "onboard_time": 1770767059,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113273,
+        "num": 113273,
+        "word": "龙丹妮跳舞",
+        "onboard_time": 1770776959,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110578,
+        "num": 110578,
+        "word": "千问帮我",
+        "onboard_time": 1770777620,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 109681,
+        "num": 109681,
+        "word": "不会包饺子的建议反复观看",
+        "onboard_time": 1770780319,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 108739,
+        "num": 108739,
+        "word": "樊振东脚边有球急坏了所有人",
+        "onboard_time": 1770779060,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89588,
+        "num": 108647,
+        "word": "在成龙眼里再大也是小孩",
+        "onboard_time": 1770780260,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 108594,
+        "num": 108594,
+        "word": "黄奕 口条",
+        "onboard_time": 1770779240,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47441,
+        "num": 104611,
+        "word": "在青岛把生活过成一篇散文",
+        "onboard_time": 1770778880,
+        "rank": 39,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 101590,
+        "num": 101590,
+        "word": "美国队带走韩国队瞬间",
+        "onboard_time": 1770768259,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93960,
+        "num": 93960,
+        "word": "金价波动",
+        "onboard_time": 1770780680,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 93672,
+        "num": 93672,
+        "word": "李谷一确认缺席马年春晚",
+        "onboard_time": 1770769998,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92378,
+        "num": 92378,
+        "word": "原来你们真有年终奖啊",
+        "onboard_time": 1770765677,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 92139,
+        "num": 92139,
+        "word": "毒皇后扮演者被解雇原因曝光",
+        "onboard_time": 1770765196,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 89383,
+        "num": 89383,
+        "word": "王濛回应中国队短道混接第4",
+        "onboard_time": 1770774620,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85908,
+        "num": 88722,
+        "word": "镖人不知道孩子爱看啥就全都拍了",
+        "onboard_time": 1770776839,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 88542,
+        "num": 88542,
+        "word": "王者荣耀小马糕",
+        "onboard_time": 1770765317,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 85998,
+        "num": 85998,
+        "word": "园长用录播冒充直播隐瞒小老虎死亡",
+        "onboard_time": 1770774979,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85751,
+        "num": 85751,
+        "word": "趁小狗睡觉时玩它的嘴筒子",
+        "onboard_time": 1770780501,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记向全国各族人民拜年#"
+    }
+  }
+}
