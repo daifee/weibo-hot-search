@@ -1,7 +1,15 @@
 {
   "startTime": 1770743525576,
-  "endTime": 1770787173894,
+  "endTime": 1770792040139,
   "band_list": [
+    {
+      "raw_hot": 926255,
+      "num": 1148200,
+      "word": "女子点外卖点到僵尸店骑手被罚款",
+      "onboard_time": 1770788362,
+      "rank": 0,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 918629,
       "num": 205472,
@@ -19,12 +27,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 796606,
+      "num": 268344,
+      "word": "韩国是一个巨大的县城",
+      "onboard_time": 1770785301,
+      "rank": 13,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 749487,
+      "num": 822075,
+      "word": "国台办回应吴克群帮农民卖3万斤菜",
+      "onboard_time": 1770786619,
+      "rank": 24,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 720620,
       "num": 272767,
       "word": "沈腾找了个最帅的演自己",
       "onboard_time": 1770779959,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 715741,
+      "num": 715741,
+      "word": "2025年热搜爆了434次",
+      "onboard_time": 1770785301,
+      "rank": 31,
+      "category": "互联网"
     },
     {
       "raw_hot": 712317,
@@ -75,14 +107,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 554380,
-      "num": 268344,
-      "word": "韩国是一个巨大的县城",
-      "onboard_time": 1770785301,
-      "rank": 13,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 537887,
       "num": 537887,
       "word": "公公丈夫2天相继离世大姑子在ICU",
@@ -105,6 +129,14 @@
       "onboard_time": 1770765796,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 501125,
+      "num": 501125,
+      "word": "就知道姚安娜舍不得这个刘海",
+      "onboard_time": 1770785540,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 467520,
@@ -259,6 +291,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 287647,
+      "num": 137082,
+      "word": "程潇七年后给偶练F班选手评了A",
+      "onboard_time": 1770788840,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 287312,
       "num": 287312,
       "word": "年终奖",
@@ -267,20 +307,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 277890,
+      "num": 277890,
+      "word": "大侦探",
+      "onboard_time": 1770783080,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 270104,
+      "num": 134455,
+      "word": "公司刮奖以为中3万结果是30万",
+      "onboard_time": 1770788362,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 265272,
       "num": 167849,
       "word": "日本彻底失控",
       "onboard_time": 1770733282,
       "rank": 22,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 260282,
-      "num": 260282,
-      "word": "大侦探",
-      "onboard_time": 1770783080,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 249652,
@@ -323,12 +371,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 238624,
-      "num": 238624,
-      "word": "就知道姚安娜舍不得这个刘海",
-      "onboard_time": 1770785540,
-      "rank": 26,
-      "category": "剧集"
+      "raw_hot": 243872,
+      "num": 175495,
+      "word": "王濛和关晓彤合照",
+      "onboard_time": 1770785960,
+      "rank": 43,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 237452,
@@ -345,6 +393,22 @@
       "onboard_time": 1770766398,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 229001,
+      "num": 172282,
+      "word": "陈奕恒看贺峻霖视频",
+      "onboard_time": 1770790461,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 228366,
+      "num": 228366,
+      "word": "96岁爷爷为祛老年斑坚持三年医美",
+      "onboard_time": 1770787160,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 222833,
@@ -393,6 +457,14 @@
       "onboard_time": 1770736941,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 213161,
+      "num": 163512,
+      "word": "欧阳娜娜在北疆慢生活",
+      "onboard_time": 1770788720,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 213084,
@@ -467,6 +539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 183587,
+      "num": 183587,
+      "word": "全国过年统一姿势",
+      "onboard_time": 1770790760,
+      "rank": 8,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 178806,
       "num": 137905,
       "word": "射雕英雄传侠之大者金像奖0提",
@@ -507,14 +587,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 149363,
-      "num": 149363,
-      "word": "2025年热搜爆了434次",
-      "onboard_time": 1770785301,
-      "rank": 31,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 145637,
       "num": 107729,
       "word": "林孝埈捂脸长时间低头",
@@ -531,14 +603,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 145130,
-      "num": 145130,
-      "word": "王濛和关晓彤合照",
-      "onboard_time": 1770785960,
-      "rank": 43,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 144863,
       "num": 144863,
       "word": "雷军确认第一代SU7停产",
@@ -553,6 +617,14 @@
       "onboard_time": 1770774138,
       "rank": 24,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 142268,
+      "num": 142268,
+      "word": "吴京跳刀马刀马",
+      "onboard_time": 1770791481,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 140829,
@@ -619,6 +691,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 133842,
+      "num": 133842,
+      "word": "沈腾回应让王安宇演自己",
+      "onboard_time": 1770790461,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 133603,
       "num": 133603,
       "word": "金价震荡频现千万元级套现",
@@ -659,12 +739,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 126614,
+      "num": 126614,
+      "word": "帕梅拉背后必有高人指点",
+      "onboard_time": 1770791481,
+      "rank": 28,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 123374,
       "num": 123374,
       "word": "成何体统",
       "onboard_time": 1770722600,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 120990,
+      "num": 120990,
+      "word": "终于有人吐槽语音评论了",
+      "onboard_time": 1770789980,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 118410,
@@ -681,6 +777,14 @@
       "onboard_time": 1770724701,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 116209,
+      "num": 116209,
+      "word": "妈妈外出3岁宝宝看店卖出一包烟",
+      "onboard_time": 1770787160,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 113419,
@@ -843,6 +947,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 95061,
+      "num": 95061,
+      "word": "医生科普三级撕裂到底是什么概念",
+      "onboard_time": 1770788060,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 94268,
       "num": 94268,
       "word": "张元英捐款2亿韩元",
@@ -907,6 +1019,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 83265,
+      "num": 82313,
+      "word": "彭小苒这腰这腿这脸",
+      "onboard_time": 1770787579,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 82296,
       "num": 82296,
       "word": "收到了最有用的年终奖",
@@ -923,6 +1043,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 81989,
+      "num": 81989,
+      "word": "关晓彤全英文采访",
+      "onboard_time": 1770791960,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 81765,
+      "num": 80369,
+      "word": "演员郑恩宇去世",
+      "onboard_time": 1770791960,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 80652,
       "num": 80652,
       "word": "鹤男这张脸说十八岁我都信",
@@ -937,6 +1073,14 @@
       "onboard_time": 1770731420,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 80561,
+      "num": 80561,
+      "word": "打麻将输了直接走人",
+      "onboard_time": 1770790220,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 79948,
@@ -1051,14 +1195,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 63547,
-      "num": 147292,
-      "word": "国台办回应吴克群帮农民卖3万斤菜",
-      "onboard_time": 1770786619,
-      "rank": 24,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 63332,
       "num": 63332,
       "word": "A股行情",
@@ -1083,6 +1219,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 62752,
+      "num": 126815,
+      "word": "吉利高管谈全球研发和验证",
+      "onboard_time": 1770789800,
+      "rank": 26,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 62177,
       "num": 146082,
       "word": "我是大彬同学被判赔鸿蒙智行150万",
@@ -1099,6 +1243,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 61016,
+      "num": 142213,
+      "word": "隐瞒死讯骗打赏饲养员发声",
+      "onboard_time": 1770791599,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 60968,
       "num": 91515,
       "word": "乔杉看谢霆锋这事居然还能有后续",
@@ -1113,6 +1265,14 @@
       "onboard_time": 1770785359,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 59859,
+      "num": 121276,
+      "word": "韩官员因称进口女性被开除党籍",
+      "onboard_time": 1770789918,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 58814,
@@ -1185,6 +1345,14 @@
       "onboard_time": 1770743598,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 49218,
+      "num": 104058,
+      "word": "黄子华不仅老了帅了还爱上班了",
+      "onboard_time": 1770791180,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 49005,
@@ -1316,7 +1484,7 @@
     },
     {
       "raw_hot": 41461,
-      "num": 632103,
+      "num": 738860,
       "word": "到中国过年成为热潮",
       "onboard_time": 1770778640,
       "rank": 2,
@@ -1409,6 +1577,14 @@
       "onboard_time": 1770747435,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 28171,
+      "num": 104064,
+      "word": "毒皇后扮演者被迪士尼解雇的原因",
+      "onboard_time": 1770791118,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 26382,
@@ -1513,6 +1689,14 @@
       "onboard_time": 1770723860,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 15073,
+      "num": 104055,
+      "word": "实测Seedance2.0人人可做AI导演",
+      "onboard_time": 1770791721,
+      "rank": 39,
+      "category": "互联网"
     },
     {
       "raw_hot": 14585,

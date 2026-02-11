@@ -1,6 +1,6 @@
 {
   "startTime": 1770482461321,
-  "endTime": 1770787173894,
+  "endTime": 1770792040139,
   "band_list": [
     {
       "raw_hot": 7279878,
@@ -315,6 +315,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 926255,
+      "num": 1148200,
+      "word": "女子点外卖点到僵尸店骑手被罚款",
+      "onboard_time": 1770788362,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 918629,
       "num": 205472,
       "word": "爱泼斯坦狱警用假尸体伪装现场",
@@ -403,6 +411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 796606,
+      "num": 268344,
+      "word": "韩国是一个巨大的县城",
+      "onboard_time": 1770785301,
+      "rank": 13,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 795207,
       "num": 172038,
       "word": "肖战",
@@ -451,6 +467,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 749487,
+      "num": 822075,
+      "word": "国台办回应吴克群帮农民卖3万斤菜",
+      "onboard_time": 1770786619,
+      "rank": 24,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 738277,
       "num": 738277,
       "word": "这才是真正的道歉",
@@ -481,6 +505,14 @@
       "onboard_time": 1770555021,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 715741,
+      "num": 715741,
+      "word": "2025年热搜爆了434次",
+      "onboard_time": 1770785301,
+      "rank": 31,
+      "category": "互联网"
     },
     {
       "raw_hot": 712317,
@@ -803,14 +835,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 554380,
-      "num": 268344,
-      "word": "韩国是一个巨大的县城",
-      "onboard_time": 1770785301,
-      "rank": 13,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 551804,
       "num": 244546,
       "word": "黄多多斜肩黑裙",
@@ -985,6 +1009,14 @@
       "onboard_time": 1770532821,
       "rank": 13,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 501125,
+      "num": 501125,
+      "word": "就知道姚安娜舍不得这个刘海",
+      "onboard_time": 1770785540,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 497033,
@@ -2171,6 +2203,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 287647,
+      "num": 137082,
+      "word": "程潇七年后给偶练F班选手评了A",
+      "onboard_time": 1770788840,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 287455,
       "num": 287455,
       "word": "汕头亚朵酒店春节一晚4200",
@@ -2241,6 +2281,14 @@
       "onboard_time": 1770476541,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 277890,
+      "num": 277890,
+      "word": "大侦探",
+      "onboard_time": 1770783080,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 275941,
@@ -2315,6 +2363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 270104,
+      "num": 134455,
+      "word": "公司刮奖以为中3万结果是30万",
+      "onboard_time": 1770788362,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 269829,
       "num": 269829,
       "word": "日本执政联盟将获众议院过半议席",
@@ -2369,14 +2425,6 @@
       "onboard_time": 1770612860,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 260282,
-      "num": 260282,
-      "word": "大侦探",
-      "onboard_time": 1770783080,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 260021,
@@ -2579,6 +2627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 243872,
+      "num": 175495,
+      "word": "王濛和关晓彤合照",
+      "onboard_time": 1770785960,
+      "rank": 43,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 241490,
       "num": 178641,
       "word": "吴彤经历了一次病危",
@@ -2640,14 +2696,6 @@
       "word": "两京十五日",
       "onboard_time": 1770713361,
       "rank": 16,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 238624,
-      "num": 238624,
-      "word": "就知道姚安娜舍不得这个刘海",
-      "onboard_time": 1770785540,
-      "rank": 26,
       "category": "剧集"
     },
     {
@@ -2769,6 +2817,22 @@
       "onboard_time": 1770699080,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 229001,
+      "num": 172282,
+      "word": "陈奕恒看贺峻霖视频",
+      "onboard_time": 1770790461,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 228366,
+      "num": 228366,
+      "word": "96岁爷爷为祛老年斑坚持三年医美",
+      "onboard_time": 1770787160,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 226351,
@@ -3009,6 +3073,14 @@
       "onboard_time": 1770524901,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 213161,
+      "num": 163512,
+      "word": "欧阳娜娜在北疆慢生活",
+      "onboard_time": 1770788720,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 213084,
@@ -3417,6 +3489,14 @@
       "onboard_time": 1770556464,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 183587,
+      "num": 183587,
+      "word": "全国过年统一姿势",
+      "onboard_time": 1770790760,
+      "rank": 8,
+      "category": "幽默"
     },
     {
       "raw_hot": 182410,
@@ -3995,14 +4075,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 149363,
-      "num": 149363,
-      "word": "2025年热搜爆了434次",
-      "onboard_time": 1770785301,
-      "rank": 31,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 149323,
       "num": 228173,
       "word": "开心消消乐 甄嬛",
@@ -4107,14 +4179,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 145130,
-      "num": 145130,
-      "word": "王濛和关晓彤合照",
-      "onboard_time": 1770785960,
-      "rank": 43,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 144288,
       "num": 144288,
       "word": "Seedance2.0模型",
@@ -4192,6 +4256,14 @@
       "word": "酱园弄男主女配男配0提名",
       "onboard_time": 1770712820,
       "rank": 27,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 142268,
+      "num": 142268,
+      "word": "吴京跳刀马刀马",
+      "onboard_time": 1770791481,
+      "rank": 18,
       "category": "电影"
     },
     {
@@ -4475,6 +4547,14 @@
       "category": "幽默,休闲"
     },
     {
+      "raw_hot": 133842,
+      "num": 133842,
+      "word": "沈腾回应让王安宇演自己",
+      "onboard_time": 1770790461,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 133603,
       "num": 133603,
       "word": "金价震荡频现千万元级套现",
@@ -4651,6 +4731,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 126614,
+      "num": 126614,
+      "word": "帕梅拉背后必有高人指点",
+      "onboard_time": 1770791481,
+      "rank": 28,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 125738,
       "num": 91839,
       "word": "王楚钦倒地爆冲张本智和",
@@ -4769,6 +4857,14 @@
       "onboard_time": 1770736342,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 120990,
+      "num": 120990,
+      "word": "终于有人吐槽语音评论了",
+      "onboard_time": 1770789980,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 120319,
@@ -4945,6 +5041,14 @@
       "onboard_time": 1770522260,
       "rank": 46,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 116209,
+      "num": 116209,
+      "word": "妈妈外出3岁宝宝看店卖出一包烟",
+      "onboard_time": 1770787160,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 115817,
@@ -6291,6 +6395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 95061,
+      "num": 95061,
+      "word": "医生科普三级撕裂到底是什么概念",
+      "onboard_time": 1770788060,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 95046,
       "num": 95046,
       "word": "爱的成本实在是太高了",
@@ -7211,6 +7323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 83265,
+      "num": 82313,
+      "word": "彭小苒这腰这腿这脸",
+      "onboard_time": 1770787579,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 83196,
       "num": 83196,
       "word": "除夕朋友聚餐",
@@ -7323,12 +7443,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 81989,
+      "num": 81989,
+      "word": "关晓彤全英文采访",
+      "onboard_time": 1770791960,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 81894,
       "num": 83106,
       "word": "陈添祥柯淳姚冠宇张翅舞台很夯",
       "onboard_time": 1770734603,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 81765,
+      "num": 80369,
+      "word": "演员郑恩宇去世",
+      "onboard_time": 1770791960,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 81598,
@@ -7425,6 +7561,14 @@
       "onboard_time": 1770593598,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 80561,
+      "num": 80561,
+      "word": "打麻将输了直接走人",
+      "onboard_time": 1770790220,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 80365,
@@ -8451,14 +8595,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 63547,
-      "num": 147292,
-      "word": "国台办回应吴克群帮农民卖3万斤菜",
-      "onboard_time": 1770786619,
-      "rank": 24,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 63151,
       "num": 93976,
       "word": "谷爱凌决赛第11位出场",
@@ -8473,6 +8609,14 @@
       "onboard_time": 1770765796,
       "rank": 17,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 62752,
+      "num": 126815,
+      "word": "吉利高管谈全球研发和验证",
+      "onboard_time": 1770789800,
+      "rank": 26,
+      "category": "汽车"
     },
     {
       "raw_hot": 62455,
@@ -8547,6 +8691,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 61016,
+      "num": 142213,
+      "word": "隐瞒死讯骗打赏饲养员发声",
+      "onboard_time": 1770791599,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 60968,
       "num": 91515,
       "word": "乔杉看谢霆锋这事居然还能有后续",
@@ -8593,6 +8745,14 @@
       "onboard_time": 1770606801,
       "rank": 36,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 59859,
+      "num": 121276,
+      "word": "韩官员因称进口女性被开除党籍",
+      "onboard_time": 1770789918,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 59745,
@@ -9083,6 +9243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 49218,
+      "num": 104058,
+      "word": "黄子华不仅老了帅了还爱上班了",
+      "onboard_time": 1770791180,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 49096,
       "num": 49096,
       "word": "孙颖莎疯狂擦手",
@@ -9412,7 +9580,7 @@
     },
     {
       "raw_hot": 41461,
-      "num": 632103,
+      "num": 738860,
       "word": "到中国过年成为热潮",
       "onboard_time": 1770778640,
       "rank": 2,
@@ -9945,6 +10113,14 @@
       "onboard_time": 1770719960,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28171,
+      "num": 104064,
+      "word": "毒皇后扮演者被迪士尼解雇的原因",
+      "onboard_time": 1770791118,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 28086,
@@ -10585,6 +10761,14 @@
       "onboard_time": 1770606979,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15073,
+      "num": 104055,
+      "word": "实测Seedance2.0人人可做AI导演",
+      "onboard_time": 1770791721,
+      "rank": 39,
+      "category": "互联网"
     },
     {
       "raw_hot": 14585,
