@@ -1,0 +1,410 @@
+{
+  "runTime": 1770822164701,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 609208,
+        "num": 1097473,
+        "word": "湖南卫视春晚",
+        "onboard_time": 1770808699,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 390347,
+        "num": 810002,
+        "word": "KK园区2.0内部照首曝光",
+        "onboard_time": 1770805460,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17460,
+        "num": 643584,
+        "word": "春运路上藏着这些马年彩蛋",
+        "onboard_time": 1770814100,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 552779,
+        "num": 552779,
+        "word": "新加坡女子误以为中大奖",
+        "onboard_time": 1770818722,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 416872,
+        "num": 416872,
+        "word": "陈哲远李一桐用一个麦",
+        "onboard_time": 1770818722,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 315695,
+        "num": 315695,
+        "word": "米兰冬奥首位三金王诞生",
+        "onboard_time": 1770817701,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 235709,
+        "num": 235709,
+        "word": "周深忘词",
+        "onboard_time": 1770821361,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 235029,
+        "num": 235029,
+        "word": "以前的宠妃美貌都是这种级别",
+        "onboard_time": 1770818662,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 234899,
+        "num": 234899,
+        "word": "刘佳宇现场救治近10分钟",
+        "onboard_time": 1770818722,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175838,
+        "num": 175838,
+        "word": "全国房价止跌信号出现",
+        "onboard_time": 1770805339,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1799156,
+        "num": 175805,
+        "word": "李一桐 假唱",
+        "onboard_time": 1770818482,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 470411,
+        "num": 173296,
+        "word": "黄金",
+        "onboard_time": 1770819982,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 297763,
+        "num": 171591,
+        "word": "查理苏",
+        "onboard_time": 1770818601,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 285645,
+        "num": 170388,
+        "word": "何以琛今年50多岁了",
+        "onboard_time": 1770817762,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 282846,
+        "num": 168476,
+        "word": "月薪2000的环卫工困在电子镣铐",
+        "onboard_time": 1770811280,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 270547,
+        "num": 168299,
+        "word": "宋威龙赵今麦惊天动地的一秒",
+        "onboard_time": 1770818662,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 222584,
+        "num": 165728,
+        "word": "刘亦菲陈瑶 双虞姬",
+        "onboard_time": 1770817221,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 181857,
+        "num": 164482,
+        "word": "英王室地产发现疑似涉爱泼斯坦案尸体",
+        "onboard_time": 1770812961,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 206750,
+        "num": 163044,
+        "word": "张函瑞跳自己的进行曲",
+        "onboard_time": 1770819743,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51820,
+        "num": 161002,
+        "word": "女骑手春节纠结回家还是挣1万补贴",
+        "onboard_time": 1770820941,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 590994,
+        "num": 160916,
+        "word": "郭麒麟 爸爸还是您不争气啊",
+        "onboard_time": 1770809540,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 477855,
+        "num": 158642,
+        "word": "女护士与已婚男吃饭被灌醉拍私密照",
+        "onboard_time": 1770810860,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189506,
+        "num": 157841,
+        "word": "何老师嗓子哑了",
+        "onboard_time": 1770812060,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27303,
+        "num": 155646,
+        "word": "好多明星发神马卡啊啊啊",
+        "onboard_time": 1770818482,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154975,
+        "num": 154975,
+        "word": "爱泼斯坦羞辱性展示女孩视频曝光",
+        "onboard_time": 1770792860,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 183703,
+        "num": 146785,
+        "word": "沈月晒春晚后台合照",
+        "onboard_time": 1770821242,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131168,
+        "num": 131168,
+        "word": "保罗在美国被禁言",
+        "onboard_time": 1770803240,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 118977,
+        "num": 118977,
+        "word": "青海一家35口人开大巴春节自驾游",
+        "onboard_time": 1770807260,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130690,
+        "num": 118367,
+        "word": "权志龙Chanel",
+        "onboard_time": 1770814280,
+        "rank": 28,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 51947,
+        "num": 117878,
+        "word": "武侠小说的瘴气竟真实存在",
+        "onboard_time": 1770819262,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128229,
+        "num": 117367,
+        "word": "成何体统",
+        "onboard_time": 1770804499,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 279439,
+        "num": 116681,
+        "word": "女演员投资失败搬进出租屋",
+        "onboard_time": 1770821361,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132373,
+        "num": 116013,
+        "word": "保姆遇到有钱雇主吓得下户",
+        "onboard_time": 1770821540,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128064,
+        "num": 115291,
+        "word": "时代少年团有自己的食物链",
+        "onboard_time": 1770820102,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 119836,
+        "num": 114858,
+        "word": "生命树下篇狂飙上了",
+        "onboard_time": 1770812781,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114525,
+        "num": 114525,
+        "word": "赵睿停赛三场罚款5万",
+        "onboard_time": 1770817221,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111059,
+        "num": 111059,
+        "word": "肖战粉丝已经在合肥吃上了",
+        "onboard_time": 1770818122,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108461,
+        "num": 108461,
+        "word": "张拿铁两国交战全靠使者",
+        "onboard_time": 1770820342,
+        "rank": 37,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 101841,
+        "num": 101841,
+        "word": "刘佳宇摔倒",
+        "onboard_time": 1770808879,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28191,
+        "num": 98722,
+        "word": "工行回应买年后机票立减2000元",
+        "onboard_time": 1770822023,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107279,
+        "num": 98543,
+        "word": "何炅回应嗓子哑了",
+        "onboard_time": 1770821961,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97571,
+        "num": 97571,
+        "word": "演员郑恩宇去世",
+        "onboard_time": 1770791960,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90535,
+        "num": 97555,
+        "word": "黄金白银再度爆发",
+        "onboard_time": 1770820163,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 97544,
+        "num": 97544,
+        "word": "余茵曾多次与白鹿撞衫",
+        "onboard_time": 1770808281,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93554,
+        "num": 93554,
+        "word": "陈楚生 卡拉永远OK",
+        "onboard_time": 1770815901,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88656,
+        "num": 91275,
+        "word": "爱泼斯坦案6名大人物被公开",
+        "onboard_time": 1770821901,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 90942,
+        "num": 90942,
+        "word": "周深 何老师的嗓子好",
+        "onboard_time": 1770822023,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33560,
+        "num": 89786,
+        "word": "夫妻回家过年带一锅饭上高速",
+        "onboard_time": 1770820824,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89221,
+        "num": 89221,
+        "word": "沈月双马尾机械姬",
+        "onboard_time": 1770811940,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87171,
+        "num": 87171,
+        "word": "生命树",
+        "onboard_time": 1770811520,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席春节前夕慰问部队#"
+    }
+  }
+}

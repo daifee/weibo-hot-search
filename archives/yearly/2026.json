@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1770818201924,
+  "endTime": 1770822164701,
   "band_list": [
     {
       "raw_hot": 22742360,
@@ -993,6 +993,14 @@
       "onboard_time": 1769927840,
       "rank": 5,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1799156,
+      "num": 175805,
+      "word": "李一桐 假唱",
+      "onboard_time": 1770818482,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 1775880,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1768548080,
       "rank": 14,
       "category": "民生新闻,互联网"
-    },
-    {
-      "raw_hot": 1106742,
-      "num": 178772,
-      "word": "美国现在连尸体脂肪都不放过",
-      "onboard_time": 1768984341,
-      "rank": 30,
-      "category": "海外新闻"
     }
   ],
   "hotgov_list": [
