@@ -1,6 +1,6 @@
 {
   "startTime": 1770482461321,
-  "endTime": 1770808603646,
+  "endTime": 1770811486136,
   "band_list": [
     {
       "raw_hot": 7279878,
@@ -268,7 +268,7 @@
     },
     {
       "raw_hot": 984549,
-      "num": 213730,
+      "num": 241117,
       "word": "爱泼斯坦羞辱性展示女孩视频曝光",
       "onboard_time": 1770792860,
       "rank": 10,
@@ -313,6 +313,14 @@
       "onboard_time": 1770537860,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 937634,
+      "num": 1150021,
+      "word": "刘佳宇摔倒",
+      "onboard_time": 1770808879,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 932363,
@@ -539,6 +547,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 714261,
+      "num": 850108,
+      "word": "湖南卫视春晚",
+      "onboard_time": 1770808699,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 712317,
       "num": 291758,
       "word": "李佳琦感谢助理旺旺",
@@ -673,6 +689,14 @@
       "onboard_time": 1770765196,
       "rank": 0,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 664319,
+      "num": 625450,
+      "word": "郭麒麟 爸爸还是您不争气啊",
+      "onboard_time": 1770809540,
+      "rank": 3,
+      "category": "演出"
     },
     {
       "raw_hot": 663762,
@@ -1124,11 +1148,19 @@
     },
     {
       "raw_hot": 485927,
-      "num": 141164,
+      "num": 242275,
       "word": "保罗在美国被禁言",
       "onboard_time": 1770803240,
       "rank": 29,
       "category": "网红"
+    },
+    {
+      "raw_hot": 482842,
+      "num": 778268,
+      "word": "KK园区2.0内部照首曝光",
+      "onboard_time": 1770805460,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 481810,
@@ -1207,14 +1239,6 @@
       "num": 762997,
       "word": "8年还清百万债务第一次回老家过年",
       "onboard_time": 1770776719,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 464277,
-      "num": 778268,
-      "word": "KK园区2.0内部照首曝光",
-      "onboard_time": 1770805460,
       "rank": 1,
       "category": "民生新闻"
     },
@@ -1659,6 +1683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 388482,
+      "num": 388482,
+      "word": "青海一家35口人开大巴春节自驾游",
+      "onboard_time": 1770807260,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 388215,
       "num": 235457,
       "word": "丝芭学历最高的人出现了",
@@ -1804,7 +1836,7 @@
     },
     {
       "raw_hot": 365415,
-      "num": 111895,
+      "num": 241536,
       "word": "余茵曾多次与白鹿撞衫",
       "onboard_time": 1770808281,
       "rank": 21,
@@ -2307,6 +2339,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 299852,
+      "num": 299852,
+      "word": "全国房价止跌信号出现",
+      "onboard_time": 1770805339,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 298549,
       "num": 298549,
       "word": "湖南卫视春晚节目单来了",
@@ -2593,14 +2633,6 @@
       "onboard_time": 1770710600,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 271116,
-      "num": 271116,
-      "word": "全国房价止跌信号出现",
-      "onboard_time": 1770805339,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 271113,
@@ -2923,6 +2955,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 242733,
+      "num": 242733,
+      "word": "9岁抗癌女孩去世前整夜呼喊妈妈",
+      "onboard_time": 1770806841,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 241490,
       "num": 178641,
       "word": "吴彤经历了一次病危",
@@ -3139,6 +3179,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 226361,
+      "num": 226361,
+      "word": "迪丽热巴 高智感妈咪",
+      "onboard_time": 1770805700,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 226351,
       "num": 185476,
       "word": "爱泼斯坦曾订购大量硫酸",
@@ -3265,6 +3313,14 @@
       "onboard_time": 1770768800,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 216522,
+      "num": 242688,
+      "word": "杨幂说自己是老姐姐",
+      "onboard_time": 1770808520,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 216407,
@@ -3452,7 +3508,7 @@
     },
     {
       "raw_hot": 209130,
-      "num": 112947,
+      "num": 147229,
       "word": "女护士被堂姐介绍已婚男割喉身亡",
       "onboard_time": 1770806480,
       "rank": 23,
@@ -3731,6 +3787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192196,
+      "num": 192196,
+      "word": "Jennie200亿韩元买房",
+      "onboard_time": 1770805880,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 191488,
       "num": 191488,
       "word": "甲状腺结节的忌口食物",
@@ -3747,12 +3811,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 190246,
-      "num": 111687,
-      "word": "Jennie200亿韩元买房",
-      "onboard_time": 1770805880,
-      "rank": 29,
-      "category": "艺人"
+      "raw_hot": 190021,
+      "num": 190021,
+      "word": "小米车主遭特斯拉车主别车辱骂",
+      "onboard_time": 1770808879,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 189775,
@@ -4027,11 +4091,11 @@
       "category": "数码"
     },
     {
-      "raw_hot": 170684,
-      "num": 111634,
-      "word": "迪丽热巴 高智感妈咪",
-      "onboard_time": 1770805700,
-      "rank": 31,
+      "raw_hot": 170167,
+      "num": 170167,
+      "word": "网传浪姐7有郑秀晶",
+      "onboard_time": 1770808762,
+      "rank": 18,
       "category": "艺人"
     },
     {
@@ -4048,6 +4112,14 @@
       "word": "受害者第1次见爱泼斯坦被带进红房间",
       "onboard_time": 1770654858,
       "rank": 14,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 167523,
+      "num": 167523,
+      "word": "日本法律只罚卖淫卖方不罚买方",
+      "onboard_time": 1770803600,
+      "rank": 45,
       "category": "海外新闻"
     },
     {
@@ -4273,14 +4345,6 @@
       "onboard_time": 1770484338,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 154015,
-      "num": 154015,
-      "word": "日本法律只罚卖淫卖方不罚买方",
-      "onboard_time": 1770803600,
-      "rank": 45,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 153787,
@@ -4867,14 +4931,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 136570,
-      "num": 136570,
-      "word": "9岁抗癌女孩去世前整夜呼喊妈妈",
-      "onboard_time": 1770806841,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 136397,
       "num": 119034,
       "word": "单身即地狱5",
@@ -5243,6 +5299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 122640,
+      "num": 122640,
+      "word": "DeepSeek更新新模型",
+      "onboard_time": 1770810261,
+      "rank": 27,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 122526,
       "num": 122526,
       "word": "飞驰人生3",
@@ -5313,6 +5377,14 @@
       "onboard_time": 1770621080,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 119723,
+      "num": 119723,
+      "word": "万兽之王巡回演唱会官号",
+      "onboard_time": 1770808762,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 119565,
@@ -5971,6 +6043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 109067,
+      "num": 109067,
+      "word": "单板滑雪女子U型场地技巧预赛",
+      "onboard_time": 1770804260,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 109055,
       "num": 109055,
       "word": "李信伽罗明世隐水墨皮肤",
@@ -6273,6 +6353,14 @@
       "onboard_time": 1770718280,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 104550,
+      "num": 104550,
+      "word": "肖战马场一片红海",
+      "onboard_time": 1770809601,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 104480,
@@ -6691,6 +6779,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 99140,
+      "num": 99140,
+      "word": "相声演员卢鑫被法院执行悬赏1万",
+      "onboard_time": 1770809000,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 99120,
       "num": 99120,
       "word": "王者荣耀小马糕",
@@ -6763,6 +6859,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 98411,
+      "num": 98411,
+      "word": "月薪2000的环卫工困在电子镣铐",
+      "onboard_time": 1770811280,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 98289,
       "num": 98289,
       "word": "星穹下的格桑花公益片",
@@ -6801,6 +6905,14 @@
       "onboard_time": 1770538400,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 97832,
+      "num": 111200,
+      "word": "王昶钱天一领证vlog",
+      "onboard_time": 1770807800,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 97770,
@@ -6883,12 +6995,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 96503,
-      "num": 113750,
-      "word": "青海一家35口人开大巴春节自驾游",
-      "onboard_time": 1770807260,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 96581,
+      "num": 96581,
+      "word": "现货黄金重回5100美元",
+      "onboard_time": 1770811160,
+      "rank": 40,
+      "category": "财经"
     },
     {
       "raw_hot": 96452,
@@ -6953,22 +7065,6 @@
       "onboard_time": 1770719121,
       "rank": 33,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 95811,
-      "num": 111200,
-      "word": "王昶钱天一领证vlog",
-      "onboard_time": 1770807800,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 95695,
-      "num": 95695,
-      "word": "单板滑雪女子U型场地技巧预赛",
-      "onboard_time": 1770804260,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 95648,
@@ -7411,6 +7507,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 90541,
+      "num": 90541,
+      "word": "多家银行清退贵金属三无客户",
+      "onboard_time": 1770810920,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 90407,
       "num": 90407,
       "word": "李兰迪眼神满是对卢昱晓抽象的欣赏",
@@ -7827,6 +7931,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 85626,
+      "num": 85626,
+      "word": "刘佳宇摔得好重",
+      "onboard_time": 1770810201,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 85541,
       "num": 85541,
       "word": "章子怡提名金像奖影后",
@@ -8121,6 +8233,22 @@
       "onboard_time": 1770787100,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 82240,
+      "num": 82240,
+      "word": "女友无法原谅挪威出轨选手",
+      "onboard_time": 1770810441,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 82225,
+      "num": 96608,
+      "word": "小伙说被教练骂头发娘化肚子怀孕",
+      "onboard_time": 1770810680,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 82169,
@@ -8777,6 +8905,14 @@
       "onboard_time": 1770537980,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 74866,
+      "num": 87009,
+      "word": "孙颖莎说回家有种轻松的氛围",
+      "onboard_time": 1770810501,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 74749,
@@ -9771,6 +9907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 53468,
+      "num": 96755,
+      "word": "叶祖新经纪人最喜欢张凌赫",
+      "onboard_time": 1770811101,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 53293,
       "num": 69696,
       "word": "日本在菲律宾培植代理人挑衅中国",
@@ -10441,14 +10585,6 @@
       "onboard_time": 1770589154,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 40201,
-      "num": 106858,
-      "word": "杨幂说自己是老姐姐",
-      "onboard_time": 1770808520,
-      "rank": 37,
-      "category": "电影"
     },
     {
       "raw_hot": 40123,
@@ -11945,6 +12081,14 @@
       "onboard_time": 1770694821,
       "rank": 35,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 6930,
+      "num": 96585,
+      "word": "超市老板投资黄金赚千万全分给员工",
+      "onboard_time": 1770811401,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 6627,

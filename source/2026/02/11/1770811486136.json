@@ -1,0 +1,410 @@
+{
+  "runTime": 1770811486136,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 937634,
+        "num": 1150021,
+        "word": "刘佳宇摔倒",
+        "onboard_time": 1770808879,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 714261,
+        "num": 850108,
+        "word": "湖南卫视春晚",
+        "onboard_time": 1770808699,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37262,
+        "num": 645740,
+        "word": "坐高铁感受经济脉动",
+        "onboard_time": 1770800600,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 664319,
+        "num": 625450,
+        "word": "郭麒麟 爸爸还是您不争气啊",
+        "onboard_time": 1770809540,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 482842,
+        "num": 482842,
+        "word": "KK园区2.0内部照首曝光",
+        "onboard_time": 1770805460,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 388482,
+        "num": 388482,
+        "word": "青海一家35口人开大巴春节自驾游",
+        "onboard_time": 1770807260,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 299852,
+        "num": 299852,
+        "word": "全国房价止跌信号出现",
+        "onboard_time": 1770805339,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 251671,
+        "num": 251671,
+        "word": "J人已经买好27年的过年机票",
+        "onboard_time": 1770804861,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 242733,
+        "num": 242733,
+        "word": "9岁抗癌女孩去世前整夜呼喊妈妈",
+        "onboard_time": 1770806841,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216522,
+        "num": 242688,
+        "word": "杨幂说自己是老姐姐",
+        "onboard_time": 1770808520,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 358015,
+        "num": 242275,
+        "word": "保罗在美国被禁言",
+        "onboard_time": 1770803240,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 266057,
+        "num": 241947,
+        "word": "女教师群聊八卦被拘案最新进展",
+        "onboard_time": 1770803060,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 319144,
+        "num": 241536,
+        "word": "余茵曾多次与白鹿撞衫",
+        "onboard_time": 1770808281,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245391,
+        "num": 241322,
+        "word": "女子将敬酒服穿脏后焊接吊牌退货",
+        "onboard_time": 1770799280,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 241117,
+        "num": 241117,
+        "word": "爱泼斯坦羞辱性展示女孩视频曝光",
+        "onboard_time": 1770792860,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 226361,
+        "num": 226361,
+        "word": "迪丽热巴 高智感妈咪",
+        "onboard_time": 1770805700,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192196,
+        "num": 192196,
+        "word": "Jennie200亿韩元买房",
+        "onboard_time": 1770805880,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190021,
+        "num": 190021,
+        "word": "小米车主遭特斯拉车主别车辱骂",
+        "onboard_time": 1770808879,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170167,
+        "num": 170167,
+        "word": "网传浪姐7有郑秀晶",
+        "onboard_time": 1770808762,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167523,
+        "num": 167523,
+        "word": "日本法律只罚卖淫卖方不罚买方",
+        "onboard_time": 1770803600,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 371095,
+        "num": 163645,
+        "word": "方圆阿爆拍了双女主短剧",
+        "onboard_time": 1770802823,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 330041,
+        "num": 161657,
+        "word": "王者安琪拉典藏皮肤爆料",
+        "onboard_time": 1770806660,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 157192,
+        "num": 157192,
+        "word": "王者荣耀杨玉环",
+        "onboard_time": 1770798799,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 147229,
+        "num": 147229,
+        "word": "女护士被堂姐介绍已婚男割喉身亡",
+        "onboard_time": 1770806480,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136840,
+        "num": 136840,
+        "word": "一大批年轻人开始反向过年",
+        "onboard_time": 1770802221,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132386,
+        "num": 132386,
+        "word": "白鹿3剧连播反思脚步太快",
+        "onboard_time": 1770801260,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129700,
+        "num": 129700,
+        "word": "成何体统",
+        "onboard_time": 1770804499,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122640,
+        "num": 122640,
+        "word": "DeepSeek更新新模型",
+        "onboard_time": 1770810261,
+        "rank": 27,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 119723,
+        "num": 119723,
+        "word": "万兽之王巡回演唱会官号",
+        "onboard_time": 1770808762,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 118847,
+        "num": 118847,
+        "word": "湖南卫视春晚节目单来了",
+        "onboard_time": 1770799401,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109067,
+        "num": 109067,
+        "word": "单板滑雪女子U型场地技巧预赛",
+        "onboard_time": 1770804260,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104550,
+        "num": 104550,
+        "word": "肖战马场一片红海",
+        "onboard_time": 1770809601,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99140,
+        "num": 99140,
+        "word": "相声演员卢鑫被法院执行悬赏1万",
+        "onboard_time": 1770809000,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98411,
+        "num": 98411,
+        "word": "月薪2000的环卫工困在电子镣铐",
+        "onboard_time": 1770811280,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98147,
+        "num": 98147,
+        "word": "冬奥会",
+        "onboard_time": 1770805520,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97900,
+        "num": 97900,
+        "word": "演员郑恩宇去世",
+        "onboard_time": 1770791960,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97832,
+        "num": 97832,
+        "word": "王昶钱天一领证vlog",
+        "onboard_time": 1770807800,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 53468,
+        "num": 96755,
+        "word": "叶祖新经纪人最喜欢张凌赫",
+        "onboard_time": 1770811101,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82225,
+        "num": 96608,
+        "word": "小伙说被教练骂头发娘化肚子怀孕",
+        "onboard_time": 1770810680,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 6930,
+        "num": 96585,
+        "word": "超市老板投资黄金赚千万全分给员工",
+        "onboard_time": 1770811401,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96581,
+        "num": 96581,
+        "word": "现货黄金重回5100美元",
+        "onboard_time": 1770811160,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 94664,
+        "num": 94664,
+        "word": "竟然陪时代峰峻闹了这么久了",
+        "onboard_time": 1770799222,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90541,
+        "num": 90541,
+        "word": "多家银行清退贵金属三无客户",
+        "onboard_time": 1770810920,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 89489,
+        "num": 89489,
+        "word": "喜欢侧睡的受害者出现了",
+        "onboard_time": 1770800660,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 88688,
+        "num": 88688,
+        "word": "郑秀晶大小姐和保镖神图",
+        "onboard_time": 1770807439,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 74866,
+        "num": 87009,
+        "word": "孙颖莎说回家有种轻松的氛围",
+        "onboard_time": 1770810501,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85626,
+        "num": 85626,
+        "word": "刘佳宇摔得好重",
+        "onboard_time": 1770810201,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83482,
+        "num": 83482,
+        "word": "博主保罗妻子回应分娩视频争议",
+        "onboard_time": 1770808159,
+        "rank": 47,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 82240,
+        "num": 82240,
+        "word": "女友无法原谅挪威出轨选手",
+        "onboard_time": 1770810441,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81601,
+        "num": 81601,
+        "word": "李一桐新剧空降第一",
+        "onboard_time": 1770797422,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记心头的牵挂#"
+    }
+  }
+}
