@@ -1,0 +1,410 @@
+{
+  "runTime": 1770807915331,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 499839,
+        "num": 1079974,
+        "word": "女教师群聊八卦被拘案最新进展",
+        "onboard_time": 1770803060,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 464277,
+        "num": 778268,
+        "word": "KK园区2.0内部照首曝光",
+        "onboard_time": 1770805460,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33100,
+        "num": 606807,
+        "word": "坐高铁感受经济脉动",
+        "onboard_time": 1770800600,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 436153,
+        "num": 436153,
+        "word": "王者安琪拉典藏皮肤爆料",
+        "onboard_time": 1770806660,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 263433,
+        "num": 263433,
+        "word": "全国房价止跌信号出现",
+        "onboard_time": 1770805339,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 305879,
+        "num": 263262,
+        "word": "J人已经买好27年的过年机票",
+        "onboard_time": 1770804861,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 232673,
+        "num": 232673,
+        "word": "一大批年轻人开始反向过年",
+        "onboard_time": 1770802221,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 227701,
+        "num": 227701,
+        "word": "白鹿3剧连播反思脚步太快",
+        "onboard_time": 1770801260,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203494,
+        "num": 203494,
+        "word": "永辉超市CEO发全员信致歉",
+        "onboard_time": 1770796099,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 43966,
+        "num": 193722,
+        "word": "Seedance必玩提示词模板",
+        "onboard_time": 1770807199,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 688759,
+        "num": 189088,
+        "word": "方圆阿爆拍了双女主短剧",
+        "onboard_time": 1770802823,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 563303,
+        "num": 166945,
+        "word": "女子将敬酒服穿脏后焊接吊牌退货",
+        "onboard_time": 1770799280,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 402578,
+        "num": 156594,
+        "word": "爱泼斯坦羞辱性展示女孩视频曝光",
+        "onboard_time": 1770792860,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 213111,
+        "num": 151150,
+        "word": "我将辞职在家研究苏醒这段话",
+        "onboard_time": 1770801201,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138138,
+        "num": 138138,
+        "word": "14万房子涨到180万等20年才拿回",
+        "onboard_time": 1770794120,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135267,
+        "num": 135267,
+        "word": "明日方舟",
+        "onboard_time": 1770807140,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 130350,
+        "num": 130350,
+        "word": "湖南卫视春晚节目单来了",
+        "onboard_time": 1770799401,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114704,
+        "num": 114704,
+        "word": "日本法律只罚卖淫卖方不罚买方",
+        "onboard_time": 1770803600,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 113965,
+        "num": 113965,
+        "word": "终于有人吐槽语音评论了",
+        "onboard_time": 1770789980,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 47292,
+        "num": 113750,
+        "word": "青海一家35口人开大巴春节自驾游",
+        "onboard_time": 1770807260,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 485927,
+        "num": 113533,
+        "word": "保罗在美国被禁言",
+        "onboard_time": 1770803240,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 271210,
+        "num": 113320,
+        "word": "王者荣耀杨玉环",
+        "onboard_time": 1770798799,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 255587,
+        "num": 113157,
+        "word": "余茵否认模仿白鹿",
+        "onboard_time": 1770793460,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200261,
+        "num": 112947,
+        "word": "女护士被堂姐介绍已婚男割喉身亡",
+        "onboard_time": 1770806480,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190491,
+        "num": 112637,
+        "word": "竟然陪时代峰峻闹了这么久了",
+        "onboard_time": 1770799222,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47920,
+        "num": 112464,
+        "word": "餐厅可坐55人大圆桌无包厢费",
+        "onboard_time": 1770806660,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165845,
+        "num": 112264,
+        "word": "李一桐新剧空降第一",
+        "onboard_time": 1770797422,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60732,
+        "num": 112079,
+        "word": "阿福发16.8红包给奶茶解腻",
+        "onboard_time": 1770804260,
+        "rank": 27,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 158355,
+        "num": 111655,
+        "word": "徐艺洋回应黄子韬开始不在意颜值",
+        "onboard_time": 1770796461,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156871,
+        "num": 111548,
+        "word": "Jennie200亿韩元买房",
+        "onboard_time": 1770805880,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127215,
+        "num": 111250,
+        "word": "喜欢侧睡的受害者出现了",
+        "onboard_time": 1770800660,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 152956,
+        "num": 111155,
+        "word": "迪丽热巴 高智感妈咪",
+        "onboard_time": 1770805700,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128631,
+        "num": 110929,
+        "word": "网红沐言感染合胞病毒",
+        "onboard_time": 1770794780,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 114527,
+        "num": 110530,
+        "word": "当两个梗王谈恋爱",
+        "onboard_time": 1770804319,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 110474,
+        "num": 110474,
+        "word": "9岁抗癌女孩去世前整夜呼喊妈妈",
+        "onboard_time": 1770806841,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102028,
+        "num": 102028,
+        "word": "郑秀晶大小姐和保镖神图",
+        "onboard_time": 1770807439,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 68479,
+        "num": 101995,
+        "word": "王艳儿子球球回应是否进演艺圈",
+        "onboard_time": 1770806959,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50914,
+        "num": 101891,
+        "word": "金瀚你别演了我害怕",
+        "onboard_time": 1770806900,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39531,
+        "num": 101834,
+        "word": "有环卫工时薪仅3元低于共享充电宝",
+        "onboard_time": 1770807319,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22364,
+        "num": 101701,
+        "word": "大马男子在缅甸电诈园挨打被迫截趾",
+        "onboard_time": 1770807023,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101678,
+        "num": 101678,
+        "word": "女子举报初中老师性侵产子被起诉",
+        "onboard_time": 1770800840,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100417,
+        "num": 100417,
+        "word": "刘宇宁 你的直播King来了",
+        "onboard_time": 1770806000,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94459,
+        "num": 94459,
+        "word": "成何体统",
+        "onboard_time": 1770804499,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91427,
+        "num": 91427,
+        "word": "单板滑雪女子U型场地技巧预赛",
+        "onboard_time": 1770804260,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86816,
+        "num": 86816,
+        "word": "刘耀文说男人的花期很短",
+        "onboard_time": 1770807080,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85337,
+        "num": 85337,
+        "word": "台当局胆敢在春节挑事必担恶果",
+        "onboard_time": 1770797060,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 83820,
+        "num": 83820,
+        "word": "虞书欣cos黑色碧琪",
+        "onboard_time": 1770796522,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82856,
+        "num": 82856,
+        "word": "王昶钱天一领证vlog",
+        "onboard_time": 1770807800,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 80088,
+        "num": 80088,
+        "word": "鬼鬼带女儿去迪士尼",
+        "onboard_time": 1770795921,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79496,
+        "num": 79496,
+        "word": "会跳舞和不会跳舞的都沉默了",
+        "onboard_time": 1770806179,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记心头的牵挂#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1770743525576,
-  "endTime": 1770805035258,
+  "endTime": 1770807915331,
   "band_list": [
     {
       "raw_hot": 984549,
@@ -91,6 +91,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 688759,
+      "num": 1089133,
+      "word": "方圆阿爆拍了双女主短剧",
+      "onboard_time": 1770802823,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 665830,
       "num": 1106532,
       "word": "毒皇后扮演者被解雇原因曝光",
@@ -137,14 +145,6 @@
       "onboard_time": 1770784640,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 557086,
-      "num": 1089133,
-      "word": "方圆阿爆拍了双女主短剧",
-      "onboard_time": 1770802823,
-      "rank": 1,
-      "category": "剧集"
     },
     {
       "raw_hot": 556354,
@@ -203,6 +203,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 499839,
+      "num": 1079974,
+      "word": "女教师群聊八卦被拘案最新进展",
+      "onboard_time": 1770803060,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 485927,
+      "num": 141164,
+      "word": "保罗在美国被禁言",
+      "onboard_time": 1770803240,
+      "rank": 29,
+      "category": "网红"
+    },
+    {
       "raw_hot": 469814,
       "num": 198080,
       "word": "网红沐言感染合胞病毒",
@@ -235,6 +251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 464277,
+      "num": 778268,
+      "word": "KK园区2.0内部照首曝光",
+      "onboard_time": 1770805460,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 460295,
       "num": 391357,
       "word": "终于有人吐槽语音评论了",
@@ -249,6 +273,14 @@
       "onboard_time": 1770735983,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 436153,
+      "num": 436153,
+      "word": "王者安琪拉典藏皮肤爆料",
+      "onboard_time": 1770806660,
+      "rank": 3,
+      "category": "游戏"
     },
     {
       "raw_hot": 435038,
@@ -337,14 +369,6 @@
       "onboard_time": 1770778459,
       "rank": 6,
       "category": "军事"
-    },
-    {
-      "raw_hot": 369782,
-      "num": 141164,
-      "word": "保罗在美国被禁言",
-      "onboard_time": 1770803240,
-      "rank": 29,
-      "category": "网红"
     },
     {
       "raw_hot": 364668,
@@ -459,6 +483,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 305879,
+      "num": 263262,
+      "word": "J人已经买好27年的过年机票",
+      "onboard_time": 1770804861,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 298549,
       "num": 298549,
       "word": "湖南卫视春晚节目单来了",
@@ -547,6 +579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 263433,
+      "num": 263433,
+      "word": "全国房价止跌信号出现",
+      "onboard_time": 1770805339,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 255193,
       "num": 170011,
       "word": "关晓彤全英文采访",
@@ -572,7 +612,7 @@
     },
     {
       "raw_hot": 248180,
-      "num": 207200,
+      "num": 227701,
       "word": "白鹿3剧连播反思脚步太快",
       "onboard_time": 1770801260,
       "rank": 15,
@@ -625,6 +665,14 @@
       "onboard_time": 1770776539,
       "rank": 18,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 232673,
+      "num": 232673,
+      "word": "一大批年轻人开始反向过年",
+      "onboard_time": 1770802221,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 231663,
@@ -739,14 +787,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 205519,
-      "num": 205519,
-      "word": "女教师群聊八卦被拘案最新进展",
-      "onboard_time": 1770803060,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 205297,
       "num": 205297,
       "word": "绝意 K甲",
@@ -761,6 +801,14 @@
       "onboard_time": 1770778459,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 200261,
+      "num": 112947,
+      "word": "女护士被堂姐介绍已婚男割喉身亡",
+      "onboard_time": 1770806480,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 198678,
@@ -859,6 +907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 156871,
+      "num": 111548,
+      "word": "Jennie200亿韩元买房",
+      "onboard_time": 1770805880,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 156271,
       "num": 148788,
       "word": "吴京 以后可以明目张胆涂唇膏了",
@@ -872,6 +928,14 @@
       "word": "74岁肥猫被医生建议注射药物镇痛",
       "onboard_time": 1770729741,
       "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 152956,
+      "num": 111155,
+      "word": "迪丽热巴 高智感妈咪",
+      "onboard_time": 1770805700,
+      "rank": 31,
       "category": "艺人"
     },
     {
@@ -979,6 +1043,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 135267,
+      "num": 135267,
+      "word": "明日方舟",
+      "onboard_time": 1770807140,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 135083,
       "num": 135083,
       "word": "加拿大枪击事件已致10人死亡",
@@ -1025,14 +1097,6 @@
       "onboard_time": 1770791481,
       "rank": 28,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 131534,
-      "num": 131534,
-      "word": "一大批年轻人开始反向过年",
-      "onboard_time": 1770802221,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 130830,
@@ -1211,6 +1275,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 110474,
+      "num": 110474,
+      "word": "9岁抗癌女孩去世前整夜呼喊妈妈",
+      "onboard_time": 1770806841,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109681,
       "num": 109681,
       "word": "不会包饺子的建议反复观看",
@@ -1307,6 +1379,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 102028,
+      "num": 102028,
+      "word": "郑秀晶大小姐和保镖神图",
+      "onboard_time": 1770807439,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 101989,
       "num": 101989,
       "word": "法国想对中国复制广场协议",
@@ -1337,6 +1417,14 @@
       "onboard_time": 1770799521,
       "rank": 40,
       "category": "财经"
+    },
+    {
+      "raw_hot": 100417,
+      "num": 100417,
+      "word": "刘宇宁 你的直播King来了",
+      "onboard_time": 1770806000,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 100416,
@@ -1435,14 +1523,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 94531,
-      "num": 94531,
-      "word": "J人已经买好27年的过年机票",
-      "onboard_time": 1770804861,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 94268,
       "num": 94268,
       "word": "张元英捐款2亿韩元",
@@ -1489,6 +1569,14 @@
       "onboard_time": 1770796761,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 91427,
+      "num": 91427,
+      "word": "单板滑雪女子U型场地技巧预赛",
+      "onboard_time": 1770804260,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 90841,
@@ -1547,6 +1635,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 86816,
+      "num": 86816,
+      "word": "刘耀文说男人的花期很短",
+      "onboard_time": 1770807080,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 86667,
       "num": 86667,
       "word": "华策拍一部历史长剧熬十年",
@@ -1601,6 +1697,14 @@
       "onboard_time": 1770787579,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 82856,
+      "num": 82856,
+      "word": "王昶钱天一领证vlog",
+      "onboard_time": 1770807800,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 82825,
@@ -1697,6 +1801,14 @@
       "onboard_time": 1770802400,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 79496,
+      "num": 79496,
+      "word": "会跳舞和不会跳舞的都沉默了",
+      "onboard_time": 1770806179,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 79405,
@@ -1801,6 +1913,14 @@
       "onboard_time": 1770728421,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 68479,
+      "num": 101995,
+      "word": "王艳儿子球球回应是否进演艺圈",
+      "onboard_time": 1770806959,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 68038,
@@ -1979,6 +2099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 50914,
+      "num": 101891,
+      "word": "金瀚你别演了我害怕",
+      "onboard_time": 1770806900,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 50895,
       "num": 156528,
       "word": "王男的剑南春被王广嚯嚯了",
@@ -2035,6 +2163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 47920,
+      "num": 112464,
+      "word": "餐厅可坐55人大圆桌无包厢费",
+      "onboard_time": 1770806660,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 47478,
       "num": 47478,
       "word": "白敬亭真的拿出手机调静音了",
@@ -2049,6 +2185,14 @@
       "onboard_time": 1770778880,
       "rank": 39,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 47292,
+      "num": 113750,
+      "word": "青海一家35口人开大巴春节自驾游",
+      "onboard_time": 1770807260,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 46903,
@@ -2097,6 +2241,14 @@
       "onboard_time": 1770798560,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 43966,
+      "num": 193722,
+      "word": "Seedance必玩提示词模板",
+      "onboard_time": 1770807199,
+      "rank": 9,
+      "category": "互联网"
     },
     {
       "raw_hot": 43239,
@@ -2160,6 +2312,14 @@
       "word": "中国无人机大山里运腊肠",
       "onboard_time": 1770729920,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39531,
+      "num": 101834,
+      "word": "有环卫工时薪仅3元低于共享充电宝",
+      "onboard_time": 1770807319,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -2345,6 +2505,14 @@
       "onboard_time": 1770763575,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 22364,
+      "num": 101701,
+      "word": "大马男子在缅甸电诈园挨打被迫截趾",
+      "onboard_time": 1770807023,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21977,
