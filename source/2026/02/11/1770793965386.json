@@ -1,0 +1,410 @@
+{
+  "runTime": 1770793965386,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 906693,
+        "num": 1145070,
+        "word": "女子点外卖点到僵尸店骑手被罚款",
+        "onboard_time": 1770788362,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 522118,
+        "num": 816975,
+        "word": "国台办回应吴克群帮农民卖3万斤菜",
+        "onboard_time": 1770786619,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 22451,
+        "num": 650439,
+        "word": "今天二十四扫房子",
+        "onboard_time": 1770768379,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 481607,
+        "num": 481607,
+        "word": "2025年热搜爆了434次",
+        "onboard_time": 1770785301,
+        "rank": 3,
+        "category": "互联网,作品衍生"
+      },
+      {
+        "raw_hot": 400381,
+        "num": 400381,
+        "word": "吴京跳刀马刀马",
+        "onboard_time": 1770791481,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 460295,
+        "num": 391357,
+        "word": "终于有人吐槽语音评论了",
+        "onboard_time": 1770789980,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 373689,
+        "num": 373689,
+        "word": "就知道姚安娜舍不得这个刘海",
+        "onboard_time": 1770785540,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 255558,
+        "num": 255558,
+        "word": "大侦探",
+        "onboard_time": 1770783080,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185817,
+        "num": 185817,
+        "word": "96岁爷爷为祛老年斑坚持三年医美",
+        "onboard_time": 1770787160,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174105,
+        "num": 174105,
+        "word": "微信9大更新",
+        "onboard_time": 1770779420,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 540772,
+        "num": 173638,
+        "word": "爱泼斯坦羞辱性展示女孩视频曝光",
+        "onboard_time": 1770792860,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 255193,
+        "num": 170011,
+        "word": "关晓彤全英文采访",
+        "onboard_time": 1770791960,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245690,
+        "num": 164404,
+        "word": "全国过年统一姿势",
+        "onboard_time": 1770790760,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 456858,
+        "num": 162773,
+        "word": "爱泼斯坦狱警用假尸体伪装现场",
+        "onboard_time": 1770783859,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 9573,
+        "num": 155384,
+        "word": "微博之夜台下也这么精彩",
+        "onboard_time": 1770793280,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 196288,
+        "num": 154260,
+        "word": "沈腾回应让王安宇演自己",
+        "onboard_time": 1770790461,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 151560,
+        "num": 151560,
+        "word": "大孤山 大师",
+        "onboard_time": 1770792860,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189002,
+        "num": 150925,
+        "word": "余茵否认模仿白鹿",
+        "onboard_time": 1770793460,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50895,
+        "num": 144481,
+        "word": "王男的剑南春被王广嚯嚯了",
+        "onboard_time": 1770793520,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140793,
+        "num": 140793,
+        "word": "绝意 K甲",
+        "onboard_time": 1770793040,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 459234,
+        "num": 139261,
+        "word": "韩国是一个巨大的县城",
+        "onboard_time": 1770785301,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 176280,
+        "num": 138686,
+        "word": "欧阳娜娜在北疆慢生活",
+        "onboard_time": 1770788720,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 425599,
+        "num": 137371,
+        "word": "演员郑恩宇去世",
+        "onboard_time": 1770791960,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251030,
+        "num": 135298,
+        "word": "公司刮奖以为中3万结果是30万",
+        "onboard_time": 1770788362,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 245769,
+        "num": 134474,
+        "word": "沈腾找了个最帅的演自己",
+        "onboard_time": 1770779959,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 165720,
+        "num": 131626,
+        "word": "陈奕恒看贺峻霖视频",
+        "onboard_time": 1770790461,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131549,
+        "num": 131549,
+        "word": "帕梅拉背后必有高人指点",
+        "onboard_time": 1770791481,
+        "rank": 26,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 46228,
+        "num": 126988,
+        "word": "吉利高管谈全球研发和验证",
+        "onboard_time": 1770789800,
+        "rank": 27,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 124716,
+        "num": 124716,
+        "word": "孙海洋夫妇将名下公司转给孙卓",
+        "onboard_time": 1770779600,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61599,
+        "num": 119572,
+        "word": "韩官员因称进口女性被开除党籍",
+        "onboard_time": 1770789918,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 161329,
+        "num": 119485,
+        "word": "程潇七年后给偶练F班选手评了A",
+        "onboard_time": 1770788840,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133299,
+        "num": 119226,
+        "word": "徐冬冬 孕相",
+        "onboard_time": 1770784640,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118956,
+        "num": 118956,
+        "word": "理解了人为什么要有好朋友",
+        "onboard_time": 1770792681,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 129622,
+        "num": 117308,
+        "word": "胡意旋演了个A市来的追星女",
+        "onboard_time": 1770792561,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125400,
+        "num": 117018,
+        "word": "王濛和关晓彤合照",
+        "onboard_time": 1770785960,
+        "rank": 34,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 115523,
+        "num": 115523,
+        "word": "李信首款无双新皮肤",
+        "onboard_time": 1770792921,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 121337,
+        "num": 114772,
+        "word": "被央妈看上的偶像剧",
+        "onboard_time": 1770784521,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112250,
+        "num": 112250,
+        "word": "28岁员工年会饮酒后死亡",
+        "onboard_time": 1770783378,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109298,
+        "num": 109298,
+        "word": "公公丈夫2天相继离世大姑子在ICU",
+        "onboard_time": 1770776059,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28191,
+        "num": 102944,
+        "word": "陌生车辆交替伴行远嫁婚车",
+        "onboard_time": 1770792921,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99037,
+        "num": 99037,
+        "word": "鹅鸭杀",
+        "onboard_time": 1770776180,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 99031,
+        "num": 99031,
+        "word": "隐瞒死讯骗打赏饲养员发声",
+        "onboard_time": 1770791599,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97655,
+        "num": 97655,
+        "word": "坐高铁买到了特等座",
+        "onboard_time": 1770793820,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 96483,
+        "num": 96483,
+        "word": "女子出手8公斤金条套现近900万",
+        "onboard_time": 1770781401,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95253,
+        "num": 95253,
+        "word": "肖凯文谈和王楚钦一起生活的十年",
+        "onboard_time": 1770793280,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95200,
+        "num": 95200,
+        "word": "妈妈外出3岁宝宝看店卖出一包烟",
+        "onboard_time": 1770787160,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93567,
+        "num": 93567,
+        "word": "李昀锐的回旋镖飞了7年",
+        "onboard_time": 1770792319,
+        "rank": 46,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 89431,
+        "num": 89431,
+        "word": "易烊千玺 努力超越满江红",
+        "onboard_time": 1770777740,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 88010,
+        "num": 88010,
+        "word": "多辆陌生车为孤独的婚车陪跑",
+        "onboard_time": 1770791540,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87892,
+        "num": 87892,
+        "word": "千问帮我",
+        "onboard_time": 1770777620,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记向全国各族人民拜年#"
+    }
+  }
+}
