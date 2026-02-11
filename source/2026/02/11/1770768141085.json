@@ -1,0 +1,410 @@
+{
+  "runTime": 1770768141085,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 665830,
+        "num": 1106532,
+        "word": "毒皇后扮演者被解雇原因曝光",
+        "onboard_time": 1770765196,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 280004,
+        "num": 790576,
+        "word": "男子为避酒店春节涨价花1万多租房",
+        "onboard_time": 1770738023,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40403,
+        "num": 649639,
+        "word": "中国无人机大山里运腊肠",
+        "onboard_time": 1770729920,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 231663,
+        "num": 231663,
+        "word": "生命树看到一半像换了部剧",
+        "onboard_time": 1770766398,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214469,
+        "num": 214469,
+        "word": "付费假装上班被要求不迟到不玩手机",
+        "onboard_time": 1770736941,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198053,
+        "num": 198053,
+        "word": "海外已夸爆Seedance2.0",
+        "onboard_time": 1770735801,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 197104,
+        "num": 197104,
+        "word": "白菊邵云飞离婚",
+        "onboard_time": 1770766098,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178218,
+        "num": 178218,
+        "word": "短道队多人为孙龙发声",
+        "onboard_time": 1770736401,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143228,
+        "num": 143228,
+        "word": "韩媒质问这还是体育吗",
+        "onboard_time": 1770736941,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33325,
+        "num": 142803,
+        "word": "金博洋期待自由滑有完美发挥",
+        "onboard_time": 1770767422,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 859955,
+        "num": 141761,
+        "word": "女子被男友割喉600天后家属等来判决",
+        "onboard_time": 1770766577,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 518313,
+        "num": 139987,
+        "word": "高市早苗赌赢后彻底不装了",
+        "onboard_time": 1770765796,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 246853,
+        "num": 138885,
+        "word": "李谷一回应缺席马年春晚",
+        "onboard_time": 1770745157,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178806,
+        "num": 137905,
+        "word": "射雕英雄传侠之大者金像奖0提",
+        "onboard_time": 1770735323,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 136806,
+        "num": 136806,
+        "word": "黄金盘中巨震",
+        "onboard_time": 1770766337,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 154343,
+        "num": 135755,
+        "word": "74岁肥猫被医生建议注射药物镇痛",
+        "onboard_time": 1770729741,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133207,
+        "num": 133207,
+        "word": "印度大一男生求婚遭拒将女生枪杀",
+        "onboard_time": 1770733883,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 132758,
+        "num": 132758,
+        "word": "雷军确认第一代SU7停产",
+        "onboard_time": 1770735861,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 124869,
+        "num": 124869,
+        "word": "郑则仕因不想终生注射药物开始跑步",
+        "onboard_time": 1770731420,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115727,
+        "num": 115727,
+        "word": "原来你们真有年终奖啊",
+        "onboard_time": 1770765677,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 367532,
+        "num": 112521,
+        "word": "王濛快哭了",
+        "onboard_time": 1770734364,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 263671,
+        "num": 111127,
+        "word": "日本彻底失控",
+        "onboard_time": 1770733282,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 149608,
+        "num": 110934,
+        "word": "女子反复瘙痒竟因常年吃面食",
+        "onboard_time": 1770765978,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107729,
+        "num": 107729,
+        "word": "林孝埈捂脸长时间低头",
+        "onboard_time": 1770730582,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105729,
+        "num": 105729,
+        "word": "平手友梨奈结婚",
+        "onboard_time": 1770764896,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104819,
+        "num": 104819,
+        "word": "爱泼斯坦别墅内老虎标本栩栩如生",
+        "onboard_time": 1770724701,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 103336,
+        "num": 103336,
+        "word": "德云社封箱",
+        "onboard_time": 1770736342,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 98722,
+        "num": 98722,
+        "word": "涠洲岛网红鲸鱼被渔船高速撞击",
+        "onboard_time": 1770766398,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96742,
+        "num": 96742,
+        "word": "陈星旭 情商",
+        "onboard_time": 1770721161,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61223,
+        "num": 94650,
+        "word": "这3件事是生命力的表现",
+        "onboard_time": 1770739101,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 93837,
+        "num": 93837,
+        "word": "于正回应明星扎堆前往大孤山",
+        "onboard_time": 1770720740,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93018,
+        "num": 93018,
+        "word": "别奖励了肖战",
+        "onboard_time": 1770765196,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87446,
+        "num": 87446,
+        "word": "法国想对中国复制广场协议",
+        "onboard_time": 1770767179,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 81853,
+        "num": 81853,
+        "word": "金博洋短节目86.55分",
+        "onboard_time": 1770752475,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77645,
+        "num": 77645,
+        "word": "英国国王遭民众大喊质问",
+        "onboard_time": 1770765017,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 74545,
+        "num": 74545,
+        "word": "郑钦文将战新科澳网冠军",
+        "onboard_time": 1770766337,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 73994,
+        "num": 73994,
+        "word": "张杰给100多名员工发超万元红包",
+        "onboard_time": 1770736282,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72091,
+        "num": 72091,
+        "word": "孙龙失误",
+        "onboard_time": 1770728061,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 68015,
+        "num": 68015,
+        "word": "堂姐介绍已婚男致女子遇害事后失联",
+        "onboard_time": 1770735622,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67637,
+        "num": 67637,
+        "word": "在厨房放一把椅子有多方便",
+        "onboard_time": 1770767718,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 67382,
+        "num": 67382,
+        "word": "整个年会因为这首歌变成了国宴",
+        "onboard_time": 1770767179,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 66375,
+        "num": 66375,
+        "word": "年终奖",
+        "onboard_time": 1770767059,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 65476,
+        "num": 65476,
+        "word": "特朗普表面祝贺高市私下大发雷霆",
+        "onboard_time": 1770730102,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 63921,
+        "num": 63921,
+        "word": "王曼昱决胜局擦边球尊重裁判",
+        "onboard_time": 1770722299,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 63332,
+        "num": 63332,
+        "word": "A股行情",
+        "onboard_time": 1770765619,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 62766,
+        "num": 62766,
+        "word": "Seedance2.0中外同步发布",
+        "onboard_time": 1770765796,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 55363,
+        "num": 55363,
+        "word": "郑钦文晋级多哈女单16强",
+        "onboard_time": 1770766277,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 54545,
+        "num": 54545,
+        "word": "追觅CEO回应喊余承东加入",
+        "onboard_time": 1770767839,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 53646,
+        "num": 53646,
+        "word": "镖人",
+        "onboard_time": 1770738500,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 53204,
+        "num": 53204,
+        "word": "Knight说比赛换线要提前报位置",
+        "onboard_time": 1770765017,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记向大家拜年#"
+    }
+  }
+}

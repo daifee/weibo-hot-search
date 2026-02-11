@@ -1,6 +1,6 @@
 {
   "startTime": 1770482461321,
-  "endTime": 1770767112575,
+  "endTime": 1770768141085,
   "band_list": [
     {
       "raw_hot": 7279878,
@@ -355,6 +355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 859955,
+      "num": 141761,
+      "word": "女子被男友割喉600天后家属等来判决",
+      "onboard_time": 1770766577,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 841846,
       "num": 1107301,
       "word": "元宝微信发红包",
@@ -571,6 +579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 665830,
+      "num": 1106532,
+      "word": "毒皇后扮演者被解雇原因曝光",
+      "onboard_time": 1770765196,
+      "rank": 0,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 663762,
       "num": 663762,
       "word": "白鹿破万四连拍",
@@ -585,14 +601,6 @@
       "onboard_time": 1770705621,
       "rank": 3,
       "category": "电影"
-    },
-    {
-      "raw_hot": 650579,
-      "num": 975203,
-      "word": "毒皇后扮演者被解雇原因曝光",
-      "onboard_time": 1770765196,
-      "rank": 0,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 646911,
@@ -819,6 +827,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 518313,
+      "num": 139987,
+      "word": "高市早苗赌赢后彻底不装了",
+      "onboard_time": 1770765796,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 516779,
       "num": 516779,
       "word": "丁真劝向佐退圈",
@@ -929,14 +945,6 @@
       "onboard_time": 1770542960,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 478169,
-      "num": 88606,
-      "word": "女子被男友割喉600天后家属等来判决",
-      "onboard_time": 1770766577,
-      "rank": 10,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 477683,
@@ -1764,7 +1772,7 @@
     },
     {
       "raw_hot": 312824,
-      "num": 701976,
+      "num": 790576,
       "word": "男子为避酒店春节涨价花1万多租房",
       "onboard_time": 1770738023,
       "rank": 45,
@@ -2268,7 +2276,7 @@
     },
     {
       "raw_hot": 248519,
-      "num": 88574,
+      "num": 138885,
       "word": "李谷一回应缺席马年春晚",
       "onboard_time": 1770745157,
       "rank": 11,
@@ -2483,6 +2491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 231663,
+      "num": 231663,
+      "word": "生命树看到一半像换了部剧",
+      "onboard_time": 1770766398,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 230331,
       "num": 160984,
       "word": "向太自曝因脑下垂体瘤一直发胖",
@@ -2683,6 +2699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 214469,
+      "num": 467153,
+      "word": "付费假装上班被要求不迟到不玩手机",
+      "onboard_time": 1770736941,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 213971,
       "num": 187931,
       "word": "赵樱子曝娜扎打游戏很厉害",
@@ -2859,14 +2883,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 199800,
-      "num": 467153,
-      "word": "付费假装上班被要求不迟到不玩手机",
-      "onboard_time": 1770736941,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 199243,
       "num": 199243,
       "word": "蒯曼铜牌",
@@ -2905,6 +2921,14 @@
       "onboard_time": 1770460100,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 197104,
+      "num": 197104,
+      "word": "白菊邵云飞离婚",
+      "onboard_time": 1770766098,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 196534,
@@ -3171,14 +3195,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 174203,
-      "num": 79178,
-      "word": "高市早苗赌赢后彻底不装了",
-      "onboard_time": 1770765796,
-      "rank": 30,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 173947,
       "num": 173947,
       "word": "这家人的住商好高",
@@ -3427,6 +3443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 154343,
+      "num": 135755,
+      "word": "74岁肥猫被医生建议注射药物镇痛",
+      "onboard_time": 1770729741,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 154312,
       "num": 154312,
       "word": "白鹿第四部破万剧",
@@ -3563,14 +3587,6 @@
       "category": "民生新闻,互联网"
     },
     {
-      "raw_hot": 150824,
-      "num": 150824,
-      "word": "生命树看到一半像换了部剧",
-      "onboard_time": 1770766398,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 150640,
       "num": 150640,
       "word": "NBA交易",
@@ -3619,12 +3635,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 149770,
-      "num": 127732,
-      "word": "74岁肥猫被医生建议注射药物镇痛",
-      "onboard_time": 1770729741,
-      "rank": 46,
-      "category": "艺人"
+      "raw_hot": 149608,
+      "num": 110934,
+      "word": "女子反复瘙痒竟因常年吃面食",
+      "onboard_time": 1770765978,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 149323,
@@ -3961,6 +3977,14 @@
       "onboard_time": 1770625639,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 136806,
+      "num": 136806,
+      "word": "黄金盘中巨震",
+      "onboard_time": 1770766337,
+      "rank": 26,
+      "category": "财经"
     },
     {
       "raw_hot": 136716,
@@ -4489,6 +4513,14 @@
       "onboard_time": 1770564441,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 115727,
+      "num": 115727,
+      "word": "原来你们真有年终奖啊",
+      "onboard_time": 1770765677,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 115674,
@@ -5067,6 +5099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105729,
+      "num": 105729,
+      "word": "平手友梨奈结婚",
+      "onboard_time": 1770764896,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 105532,
       "num": 101813,
       "word": "丑照全在骑手的手机里",
@@ -5515,6 +5555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 98722,
+      "num": 98722,
+      "word": "涠洲岛网红鲸鱼被渔船高速撞击",
+      "onboard_time": 1770766398,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 98661,
       "num": 98661,
       "word": "九尾四连胜后的自拍",
@@ -5843,6 +5891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 93018,
+      "num": 93018,
+      "word": "别奖励了肖战",
+      "onboard_time": 1770765196,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 92904,
       "num": 95108,
       "word": "刘少昂混接赛后安慰队友",
@@ -5913,14 +5969,6 @@
       "onboard_time": 1770637340,
       "rank": 39,
       "category": "电影"
-    },
-    {
-      "raw_hot": 91816,
-      "num": 88145,
-      "word": "女子反复瘙痒竟因常年吃面食",
-      "onboard_time": 1770765978,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 91723,
@@ -6115,14 +6163,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 89395,
-      "num": 88084,
-      "word": "平手友梨奈结婚",
-      "onboard_time": 1770764896,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 89237,
       "num": 89237,
       "word": "谷爱凌说摔倒与赛道无关",
@@ -6203,14 +6243,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 88083,
-      "num": 88083,
-      "word": "白菊邵云飞离婚",
-      "onboard_time": 1770766098,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 88060,
       "num": 88060,
       "word": "苹果将发布多款新品",
@@ -6289,6 +6321,14 @@
       "onboard_time": 1770542841,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 87446,
+      "num": 87446,
+      "word": "法国想对中国复制广场协议",
+      "onboard_time": 1770767179,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 87421,
@@ -6683,14 +6723,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 81948,
-      "num": 81948,
-      "word": "黄金盘中巨震",
-      "onboard_time": 1770766337,
-      "rank": 26,
-      "category": "财经"
-    },
-    {
       "raw_hot": 81894,
       "num": 83106,
       "word": "陈添祥柯淳姚冠宇张翅舞台很夯",
@@ -6899,14 +6931,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 79070,
-      "num": 79070,
-      "word": "涠洲岛网红鲸鱼被渔船高速撞击",
-      "onboard_time": 1770766398,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 78913,
       "num": 78913,
       "word": "米兰的冰有点软",
@@ -6969,6 +6993,14 @@
       "onboard_time": 1770519980,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 77645,
+      "num": 77645,
+      "word": "英国国王遭民众大喊质问",
+      "onboard_time": 1770765017,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 77640,
@@ -7163,14 +7195,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 75533,
-      "num": 75533,
-      "word": "别奖励了肖战",
-      "onboard_time": 1770765196,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 75237,
       "num": 75237,
       "word": "过年拍全家福",
@@ -7233,6 +7257,14 @@
       "onboard_time": 1770544160,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 74545,
+      "num": 74545,
+      "word": "郑钦文将战新科澳网冠军",
+      "onboard_time": 1770766337,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 74543,
@@ -7475,14 +7507,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 69938,
-      "num": 69938,
-      "word": "英国国王遭民众大喊质问",
-      "onboard_time": 1770765017,
-      "rank": 37,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 69719,
       "num": 69719,
       "word": "每天睡几小时才健康",
@@ -7505,22 +7529,6 @@
       "onboard_time": 1770468741,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 69590,
-      "num": 69590,
-      "word": "原来你们真有年终奖啊",
-      "onboard_time": 1770765677,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 69282,
-      "num": 69282,
-      "word": "郑钦文将战新科澳网冠军",
-      "onboard_time": 1770766337,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 69187,
@@ -7595,6 +7603,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 67637,
+      "num": 67637,
+      "word": "在厨房放一把椅子有多方便",
+      "onboard_time": 1770767718,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 67382,
+      "num": 67382,
+      "word": "整个年会因为这首歌变成了国宴",
+      "onboard_time": 1770767179,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 67361,
       "num": 67361,
       "word": "一个说不了话一个认不了字",
@@ -7657,6 +7681,14 @@
       "onboard_time": 1770543981,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 66375,
+      "num": 66375,
+      "word": "年终奖",
+      "onboard_time": 1770767059,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 66345,
@@ -7787,6 +7819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 62766,
+      "num": 88345,
+      "word": "Seedance2.0中外同步发布",
+      "onboard_time": 1770765796,
+      "rank": 17,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 62455,
       "num": 148611,
       "word": "缅北白家说对不起中国人民",
@@ -7841,6 +7881,14 @@
       "onboard_time": 1770521240,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 61223,
+      "num": 94650,
+      "word": "这3件事是生命力的表现",
+      "onboard_time": 1770739101,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 60648,
@@ -8083,6 +8131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 54545,
+      "num": 54545,
+      "word": "追觅CEO回应喊余承东加入",
+      "onboard_time": 1770767839,
+      "rank": 47,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 53881,
       "num": 119504,
       "word": "何同学谢谢AI请客",
@@ -8099,20 +8155,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 53613,
-      "num": 79184,
-      "word": "这3件事是生命力的表现",
-      "onboard_time": 1770739101,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 53293,
       "num": 69696,
       "word": "日本在菲律宾培植代理人挑衅中国",
       "onboard_time": 1770475701,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 53204,
+      "num": 53204,
+      "word": "Knight说比赛换线要提前报位置",
+      "onboard_time": 1770765017,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 53166,
@@ -8403,14 +8459,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 48310,
-      "num": 88345,
-      "word": "Seedance2.0中外同步发布",
-      "onboard_time": 1770765796,
-      "rank": 17,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 48228,
       "num": 46804,
       "word": "AI制图骗局",
@@ -8441,14 +8489,6 @@
       "onboard_time": 1770690979,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 47173,
-      "num": 47173,
-      "word": "年终奖",
-      "onboard_time": 1770767059,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 46903,
@@ -8953,6 +8993,14 @@
       "onboard_time": 1770538460,
       "rank": 19,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 33325,
+      "num": 142803,
+      "word": "金博洋期待自由滑有完美发挥",
+      "onboard_time": 1770767422,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 33284,
