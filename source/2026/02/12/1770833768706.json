@@ -1,0 +1,410 @@
+{
+  "runTime": 1770833768706,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 172125,
+        "num": 218946,
+        "word": "KK园区2.0内部照首曝光",
+        "onboard_time": 1770805460,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136896,
+        "num": 164039,
+        "word": "郑钦文vs莱巴金娜",
+        "onboard_time": 1770823761,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15287,
+        "num": 129975,
+        "word": "春运路上藏着这些马年彩蛋",
+        "onboard_time": 1770814100,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89527,
+        "num": 89527,
+        "word": "宋威龙抽到马上有对象的反应",
+        "onboard_time": 1770823282,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81073,
+        "num": 81073,
+        "word": "250桌婚宴52万嫌贵拒付款进展",
+        "onboard_time": 1770824842,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69287,
+        "num": 69287,
+        "word": "新加坡女子误以为中大奖",
+        "onboard_time": 1770818722,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 58316,
+        "num": 58316,
+        "word": "伊朗总统道歉",
+        "onboard_time": 1770823941,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 56402,
+        "num": 56402,
+        "word": "时代少年团 麦克风",
+        "onboard_time": 1770825921,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 55659,
+        "num": 55659,
+        "word": "湖南卫视春晚",
+        "onboard_time": 1770808699,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 46232,
+        "num": 46232,
+        "word": "以前的宠妃美貌都是这种级别",
+        "onboard_time": 1770818662,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 282679,
+        "num": 46001,
+        "word": "李一桐 假唱",
+        "onboard_time": 1770818482,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195669,
+        "num": 45575,
+        "word": "宋亚轩怎么那么高",
+        "onboard_time": 1770824361,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177279,
+        "num": 45448,
+        "word": "女演员投资失败搬进出租屋",
+        "onboard_time": 1770821361,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93541,
+        "num": 44784,
+        "word": "查理苏",
+        "onboard_time": 1770818601,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 68342,
+        "num": 44477,
+        "word": "月薪2000的环卫工困在电子镣铐",
+        "onboard_time": 1770811280,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53075,
+        "num": 44037,
+        "word": "内娱CP粉众生相",
+        "onboard_time": 1770820580,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43892,
+        "num": 43892,
+        "word": "沈月晒春晚后台合照",
+        "onboard_time": 1770821242,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43788,
+        "num": 43788,
+        "word": "比尔盖茨最新回应爱泼斯坦案",
+        "onboard_time": 1770829278,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 41234,
+        "num": 41234,
+        "word": "保姆遇到有钱雇主吓得下户",
+        "onboard_time": 1770821540,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36625,
+        "num": 36625,
+        "word": "陈哲远李一桐用一个麦",
+        "onboard_time": 1770818722,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197558,
+        "num": 36495,
+        "word": "黄金",
+        "onboard_time": 1770819982,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 113441,
+        "num": 36375,
+        "word": "长期积怨妻子疑用锅袭击丈夫致死",
+        "onboard_time": 1770825620,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110537,
+        "num": 36315,
+        "word": "秦彻",
+        "onboard_time": 1770832455,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 89383,
+        "num": 36059,
+        "word": "郭麒麟 爸爸还是您不争气啊",
+        "onboard_time": 1770809540,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 69377,
+        "num": 36014,
+        "word": "周深忘词",
+        "onboard_time": 1770821361,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 36891,
+        "num": 35817,
+        "word": "强迫症兔子每天为主人铺床",
+        "onboard_time": 1770825500,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 35742,
+        "num": 35742,
+        "word": "张函瑞跳自己的进行曲",
+        "onboard_time": 1770819743,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35336,
+        "num": 35336,
+        "word": "生命树",
+        "onboard_time": 1770811520,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30169,
+        "num": 31655,
+        "word": "网球直播",
+        "onboard_time": 1770830956,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28404,
+        "num": 31601,
+        "word": "宁忠岩将冲击冬奥奖牌",
+        "onboard_time": 1770832756,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31592,
+        "num": 31592,
+        "word": "国家宝藏官宣田曦薇",
+        "onboard_time": 1770826340,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30296,
+        "num": 30296,
+        "word": "成何体统",
+        "onboard_time": 1770804499,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30261,
+        "num": 30261,
+        "word": "英王室地产发现疑似涉爱泼斯坦案尸体",
+        "onboard_time": 1770812961,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 29893,
+        "num": 29893,
+        "word": "薛之谦歌曲被抄袭部分歌词被照搬",
+        "onboard_time": 1770821423,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 26224,
+        "num": 29886,
+        "word": "警方回应2岁男童在家失踪超140天",
+        "onboard_time": 1770822919,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26148,
+        "num": 29852,
+        "word": "米兰冬奥首位三金王诞生",
+        "onboard_time": 1770817701,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25938,
+        "num": 29812,
+        "word": "刘亦菲陈瑶 双虞姬",
+        "onboard_time": 1770817221,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 25757,
+        "num": 29780,
+        "word": "网球",
+        "onboard_time": 1770824242,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25422,
+        "num": 29760,
+        "word": "何以琛今年50多岁了",
+        "onboard_time": 1770817762,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 24260,
+        "num": 29739,
+        "word": "TF家族五代练习生吕政熙 宜宾春晚",
+        "onboard_time": 1770831017,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23511,
+        "num": 29707,
+        "word": "唐宫奇案之青雾风鸣",
+        "onboard_time": 1770831257,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23033,
+        "num": 29661,
+        "word": "大侦探这个首发我一直在爽",
+        "onboard_time": 1770826101,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22221,
+        "num": 29635,
+        "word": "肖战粉丝已经在合肥吃上了",
+        "onboard_time": 1770818122,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21905,
+        "num": 29602,
+        "word": "全国房价止跌信号出现",
+        "onboard_time": 1770805339,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20955,
+        "num": 29563,
+        "word": "时代少年团春晚ilikeulike舞台",
+        "onboard_time": 1770823941,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20898,
+        "num": 29536,
+        "word": "开始推理吧",
+        "onboard_time": 1770829517,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20694,
+        "num": 29516,
+        "word": "DeepSeek更新上下文达百万级token",
+        "onboard_time": 1770828438,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 20608,
+        "num": 29487,
+        "word": "唐宫奇案",
+        "onboard_time": 1770831917,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20456,
+        "num": 29450,
+        "word": "权志龙Chanel",
+        "onboard_time": 1770814280,
+        "rank": 48,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 20088,
+        "num": 29416,
+        "word": "宋威龙赵今麦惊天动地的一秒",
+        "onboard_time": 1770818662,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向党外人士致以新春祝福#"
+    }
+  }
+}
