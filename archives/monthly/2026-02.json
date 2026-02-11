@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1770822164701,
+  "endTime": 1770824009474,
   "band_list": [
     {
       "raw_hot": 12386962,
@@ -340,7 +340,7 @@
     },
     {
       "raw_hot": 1799156,
-      "num": 175805,
+      "num": 221256,
       "word": "李一桐 假唱",
       "onboard_time": 1770818482,
       "rank": 10,
@@ -3027,6 +3027,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 535343,
+      "num": 535343,
+      "word": "周深忘词",
+      "onboard_time": 1770821361,
+      "rank": 6,
+      "category": "演出"
+    },
+    {
       "raw_hot": 533950,
       "num": 533950,
       "word": "黄金白银直线飙涨原因",
@@ -4259,6 +4267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 427060,
+      "num": 221164,
+      "word": "女演员投资失败搬进出租屋",
+      "onboard_time": 1770821361,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 426974,
       "num": 181480,
       "word": "王俊凯的话只有朱志鑫听进去了",
@@ -4700,7 +4716,7 @@
     },
     {
       "raw_hot": 400707,
-      "num": 168476,
+      "num": 177624,
       "word": "月薪2000的环卫工困在电子镣铐",
       "onboard_time": 1770811280,
       "rank": 33,
@@ -6443,6 +6459,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 317203,
+      "num": 221074,
+      "word": "宋威龙赵今麦惊天动地的一秒",
+      "onboard_time": 1770818662,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 316894,
       "num": 316894,
       "word": "周生生情况通报",
@@ -6924,7 +6948,7 @@
     },
     {
       "raw_hot": 297763,
-      "num": 171591,
+      "num": 221023,
       "word": "查理苏",
       "onboard_time": 1770818601,
       "rank": 12,
@@ -7155,6 +7179,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 288945,
+      "num": 221046,
+      "word": "保姆遇到有钱雇主吓得下户",
+      "onboard_time": 1770821540,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 288136,
       "num": 152693,
       "word": "虞书欣cos黑色碧琪",
@@ -7260,7 +7292,7 @@
     },
     {
       "raw_hot": 285645,
-      "num": 170388,
+      "num": 190204,
       "word": "何以琛今年50多岁了",
       "onboard_time": 1770817762,
       "rank": 24,
@@ -7401,14 +7433,6 @@
       "onboard_time": 1769921778,
       "rank": 33,
       "category": "财经"
-    },
-    {
-      "raw_hot": 279439,
-      "num": 116681,
-      "word": "女演员投资失败搬进出租屋",
-      "onboard_time": 1770821361,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 279306,
@@ -7633,14 +7657,6 @@
       "onboard_time": 1770215303,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 270547,
-      "num": 168299,
-      "word": "宋威龙赵今麦惊天动地的一秒",
-      "onboard_time": 1770818662,
-      "rank": 15,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 270198,
@@ -8891,14 +8907,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 235709,
-      "num": 235709,
-      "word": "周深忘词",
-      "onboard_time": 1770821361,
-      "rank": 6,
-      "category": "演出"
-    },
-    {
       "raw_hot": 235656,
       "num": 235656,
       "word": "2026网络视听盛典阵容官宣",
@@ -9497,6 +9505,14 @@
       "onboard_time": 1770732321,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 220978,
+      "num": 220978,
+      "word": "沈月晒春晚后台合照",
+      "onboard_time": 1770821242,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 220439,
@@ -11011,14 +11027,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 183703,
-      "num": 146785,
-      "word": "沈月晒春晚后台合照",
-      "onboard_time": 1770821242,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 183381,
       "num": 183381,
       "word": "惠英红给她的宝贝张凌赫送花了",
@@ -11049,6 +11057,14 @@
       "onboard_time": 1770371241,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 182416,
+      "num": 147922,
+      "word": "内娱CP粉众生相",
+      "onboard_time": 1770820580,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 182410,
@@ -13307,6 +13323,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 144275,
+      "num": 144275,
+      "word": "何炅回应嗓子哑了",
+      "onboard_time": 1770821961,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 144075,
       "num": 136951,
       "word": "沈佳润的资源",
@@ -13745,6 +13769,14 @@
       "onboard_time": 1770681560,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139235,
+      "num": 221279,
+      "word": "香港女记者转型警队重案组总督察",
+      "onboard_time": 1770822142,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 139211,
@@ -14473,14 +14505,6 @@
       "onboard_time": 1770352883,
       "rank": 45,
       "category": "数码"
-    },
-    {
-      "raw_hot": 132373,
-      "num": 116013,
-      "word": "保姆遇到有钱雇主吓得下户",
-      "onboard_time": 1770821540,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 132340,
@@ -15513,6 +15537,14 @@
       "onboard_time": 1770356121,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 122385,
+      "num": 122385,
+      "word": "宋威龙抽到马上有对象的反应",
+      "onboard_time": 1770823282,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 122360,
@@ -17979,14 +18011,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 107279,
-      "num": 98543,
-      "word": "何炅回应嗓子哑了",
-      "onboard_time": 1770821961,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 107277,
       "num": 107277,
       "word": "杨紫回应与胡歌合作",
@@ -18249,6 +18273,14 @@
       "onboard_time": 1770462740,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 105610,
+      "num": 105610,
+      "word": "伊朗总统道歉",
+      "onboard_time": 1770823941,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 105564,
@@ -20643,6 +20675,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 94522,
+      "num": 86502,
+      "word": "时代少年团春晚ilikeulike舞台",
+      "onboard_time": 1770823941,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 94512,
       "num": 94512,
       "word": "王楚钦进决赛",
@@ -22467,6 +22507,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 87042,
+      "num": 85492,
+      "word": "薛之谦歌曲被抄袭部分歌词被照搬",
+      "onboard_time": 1770821423,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 86987,
       "num": 114071,
       "word": "千元锦鲤身亡主人含泪做成酸菜鱼",
@@ -22489,6 +22537,14 @@
       "onboard_time": 1770219441,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 86886,
+      "num": 86886,
+      "word": "BLG选择NIP",
+      "onboard_time": 1770822502,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 86877,
@@ -22833,6 +22889,14 @@
       "onboard_time": 1770390440,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 85308,
+      "num": 85308,
+      "word": "郑钦文vs莱巴金娜",
+      "onboard_time": 1770823761,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 85294,
@@ -23227,6 +23291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 83424,
+      "num": 85545,
+      "word": "赵睿道歉声明",
+      "onboard_time": 1770823579,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 83412,
       "num": 103855,
       "word": "印度旋转秋千空中断裂甩飞15人",
@@ -23361,6 +23433,14 @@
       "onboard_time": 1770205822,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 83022,
+      "num": 83022,
+      "word": "陈数母仪天下既视感",
+      "onboard_time": 1770822023,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 83014,
@@ -24793,6 +24873,14 @@
       "onboard_time": 1770637521,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 76708,
+      "num": 83801,
+      "word": "警方回应2岁男童在家失踪超140天",
+      "onboard_time": 1770822919,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 76661,
@@ -27371,6 +27459,14 @@
       "category": "互联网,网红"
     },
     {
+      "raw_hot": 53747,
+      "num": 85995,
+      "word": "全球每年约有数百万人切除子宫",
+      "onboard_time": 1770823222,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 53719,
       "num": 192277,
       "word": "全球首款量产钠电池乘用车",
@@ -29915,6 +30011,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 32184,
+      "num": 177175,
+      "word": "羽绒服定制店家订单已排到年后",
+      "onboard_time": 1770823343,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32150,
       "num": 670446,
       "word": "中国元素绽放米兰冬奥舞台",
@@ -30937,6 +31041,14 @@
       "onboard_time": 1770015020,
       "rank": 48,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 24445,
+      "num": 643584,
+      "word": "春运路上藏着这些马年彩蛋",
+      "onboard_time": 1770814100,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24310,
@@ -32041,14 +32153,6 @@
       "onboard_time": 1770321075,
       "rank": 47,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 17460,
-      "num": 643584,
-      "word": "春运路上藏着这些马年彩蛋",
-      "onboard_time": 1770814100,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 17414,
