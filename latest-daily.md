@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/02/12 00:13:58 ~ 2026/02/12 07:00:13
+本榜单时间：2026/02/12 00:13:58 ~ 2026/02/12 07:41:21
 </p>
 </blockquote>
 <p>
@@ -23,6 +23,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%23" target="weibo">
 黄金（热度：682779）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%9F%E5%B0%8F%E5%AD%A9%E9%9C%80%E8%A6%81%E4%B8%80%E4%B8%AA%E5%8F%91%E8%BE%BE%E7%9A%84%E5%89%8D%E9%A2%9D%E5%8F%B6%23" target="weibo">
+生小孩需要一个发达的前额叶（热度：595121）
 </a>
 </li>
 
@@ -53,6 +59,12 @@ KK园区2.0内部照首曝光（热度：390076）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E5%A8%81%E9%BE%99%E6%8A%BD%E5%88%B0%E9%A9%AC%E4%B8%8A%E6%9C%89%E5%AF%B9%E8%B1%A1%E7%9A%84%E5%8F%8D%E5%BA%94%23" target="weibo">
 宋威龙抽到马上有对象的反应（热度：347441）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BB%89%E5%AD%90%E6%96%87%E8%A2%AB%E5%8F%96%E6%B6%88%E6%88%90%E7%BB%A9%23" target="weibo">
+廉子文被取消成绩（热度：336832）
 </a>
 </li>
 
@@ -99,6 +111,18 @@ KK园区2.0内部照首曝光（热度：390076）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%87%BA%E8%BD%A8%E5%85%AC%E5%A9%86%E7%85%A7%E6%96%99%E5%A9%9A%E5%A4%96%E5%B9%BC%E7%AB%A5%E5%88%BA%E7%97%9B%E5%A5%B3%E5%AD%90%23" target="weibo">
+男子出轨公婆照料婚外幼童刺痛女子（热度：207266）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%8F%88%E6%B7%BB%E4%B8%80%E6%9E%9A%E5%A5%96%E7%89%8C%23" target="weibo">
+中国队又添一枚奖牌（热度：195277）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9F%A5%E7%90%86%E8%8B%8F%23" target="weibo">
 查理苏（热度：195115）
 </a>
@@ -111,6 +135,18 @@ KK园区2.0内部照首曝光（热度：390076）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E6%A2%A6%E8%BE%B0%E6%8D%A2%E4%BA%8610%E5%A5%97%E5%B0%91%E6%95%B0%E6%B0%91%E6%97%8F%E6%9C%8D%E8%A3%85%23" target="weibo">
+沈梦辰换了10套少数民族服装（热度：181154）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B0%AD%E6%9D%BE%E9%9F%B5%E4%B8%8A%E6%98%A5%E6%99%9A%E6%B2%A1%E5%92%8C%E5%AE%B6%E4%BA%BA%E8%AF%B4%23" target="weibo">
+谭松韵上春晚没和家人说（热度：178135）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87vs%E8%8E%B1%E5%B7%B4%E9%87%91%E5%A8%9C%23" target="weibo">
 郑钦文vs莱巴金娜（热度：172704）
 </a>
@@ -119,12 +155,6 @@ KK园区2.0内部照首曝光（热度：390076）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%93%B2%E8%BF%9C%E6%9D%8E%E4%B8%80%E6%A1%90%E7%94%A8%E4%B8%80%E4%B8%AA%E9%BA%A6%23" target="weibo">
 陈哲远李一桐用一个麦（热度：168592）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BB%89%E5%AD%90%E6%96%87%E8%A2%AB%E5%8F%96%E6%B6%88%E6%88%90%E7%BB%A9%23" target="weibo">
-廉子文被取消成绩（热度：163483）
 </a>
 </li>
 
@@ -159,20 +189,32 @@ KK园区2.0内部照首曝光（热度：390076）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%98%9A%E6%B8%85%E5%AD%90%E9%95%BF%E6%96%87%E5%91%8A%E5%88%AB%E4%B9%94%E6%B5%B7%E4%BC%A6%23" target="weibo">
+阚清子长文告别乔海伦（热度：143995）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%9F%E7%A7%AF%E6%80%A8%E5%A6%BB%E5%AD%90%E7%96%91%E7%94%A8%E9%94%85%E8%A2%AD%E5%87%BB%E4%B8%88%E5%A4%AB%E8%87%B4%E6%AD%BB%23" target="weibo">
+长期积怨妻子疑用锅袭击丈夫致死（热度：138711）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%81%E5%BF%A0%E5%B2%A9%E5%B0%86%E5%86%B2%E5%87%BB%E5%86%AC%E5%A5%A5%E5%A5%96%E7%89%8C%23" target="weibo">
 宁忠岩将冲击冬奥奖牌（热度：129524）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%9F%E7%A7%AF%E6%80%A8%E5%A6%BB%E5%AD%90%E7%96%91%E7%94%A8%E9%94%85%E8%A2%AD%E5%87%BB%E4%B8%88%E5%A4%AB%E8%87%B4%E6%AD%BB%23" target="weibo">
-长期积怨妻子疑用锅袭击丈夫致死（热度：125131）
+<a href="https://s.weibo.com/weibo?q=%23%E7%B1%B3%E5%85%B0%E5%86%AC%E5%A5%A5%E9%A6%96%E4%BD%8D%E4%B8%89%E9%87%91%E7%8E%8B%E8%AF%9E%E7%94%9F%23" target="weibo">
+米兰冬奥首位三金王诞生（热度：123341）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%B1%B3%E5%85%B0%E5%86%AC%E5%A5%A5%E9%A6%96%E4%BD%8D%E4%B8%89%E9%87%91%E7%8E%8B%E8%AF%9E%E7%94%9F%23" target="weibo">
-米兰冬奥首位三金王诞生（热度：123341）
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E7%8E%8B%E5%AE%A4%E5%9C%B0%E4%BA%A7%E5%8F%91%E7%8E%B0%E7%96%91%E4%BC%BC%E6%B6%89%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E5%B0%B8%E4%BD%93%23" target="weibo">
+英王室地产发现疑似涉爱泼斯坦案尸体（热度：121592）
 </a>
 </li>
 
@@ -185,18 +227,6 @@ KK园区2.0内部照首曝光（热度：390076）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%BD%BB%23" target="weibo">
 秦彻（热度：113507）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E7%8E%8B%E5%AE%A4%E5%9C%B0%E4%BA%A7%E5%8F%91%E7%8E%B0%E7%96%91%E4%BC%BC%E6%B6%89%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E5%B0%B8%E4%BD%93%23" target="weibo">
-英王室地产发现疑似涉爱泼斯坦案尸体（热度：109011）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%8F%88%E6%B7%BB%E4%B8%80%E6%9E%9A%E5%A5%96%E7%89%8C%23" target="weibo">
-中国队又添一枚奖牌（热度：104648）
 </a>
 </li>
 
@@ -221,6 +251,12 @@ KK园区2.0内部照首曝光（热度：390076）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%942%E5%B2%81%E7%94%B7%E7%AB%A5%E5%9C%A8%E5%AE%B6%E5%A4%B1%E8%B8%AA%E8%B6%85140%E5%A4%A9%23" target="weibo">
 警方回应2岁男童在家失踪超140天（热度：87664）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BD%AD%E5%B0%8F%E8%8B%92%E6%8B%8D%E7%85%A7%E5%BF%98%E6%8A%8A%E5%A4%B9%E5%AD%90%E5%8F%96%E4%B8%8B%E6%9D%A5%E4%BA%86%23" target="weibo">
+彭小苒拍照忘把夹子取下来了（热度：87566）
 </a>
 </li>
 
@@ -297,6 +333,24 @@ KK园区2.0内部照首曝光（热度：390076）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%B8%80%E7%94%B7%E5%AD%90%E5%BC%80%E6%9E%AA%E6%9D%80%E6%AD%BB%E5%A5%B3%E5%84%BF%23" target="weibo">
+美国一男子开枪杀死女儿（热度：68773）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E7%A7%8D%E7%9C%8B%E4%BC%BC%E8%88%92%E6%9C%8D%E7%9A%84%E7%9D%A1%E5%A7%BF%E6%9C%80%E4%BC%A4%E8%84%8A%E6%A4%8E%23" target="weibo">
+这种看似舒服的睡姿最伤脊椎（热度：68410）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%871%E6%AF%942%E8%8E%B1%E5%B7%B4%E9%87%91%E5%A8%9C%23" target="weibo">
+郑钦文1比2莱巴金娜（热度：67968）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E4%BE%A6%E6%8E%A2%E8%BF%99%E4%B8%AA%E9%A6%96%E5%8F%91%E6%88%91%E4%B8%80%E7%9B%B4%E5%9C%A8%E7%88%BD%23" target="weibo">
 大侦探这个首发我一直在爽（热度：66905）
 </a>
@@ -309,6 +363,12 @@ KK园区2.0内部照首曝光（热度：390076）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%89%B3%E5%84%BF%E5%AD%90%E7%90%83%E7%90%83%E5%9B%9E%E5%BA%94%E6%98%AF%E5%90%A6%E8%BF%9B%E6%BC%94%E8%89%BA%E5%9C%88%23" target="weibo">
+王艳儿子球球回应是否进演艺圈（热度：62897）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E5%BE%81%E5%8D%81%E5%8F%B7%E7%AE%AD%E4%BD%93%E8%90%BD%E7%82%B9%E5%B9%B6%E9%9D%9E%E5%A4%B1%E8%AF%AF%23" target="weibo">
 长征十号箭体落点并非失误（热度：62896）
 </a>
@@ -317,6 +377,24 @@ KK园区2.0内部照首曝光（热度：390076）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%AE%B6%E5%AE%9D%E8%97%8F%E5%AE%98%E5%AE%A3%E7%94%B0%E6%9B%A6%E8%96%87%23" target="weibo">
 国家宝藏官宣田曦薇（热度：61298）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87%E6%97%A0%E7%BC%98%E5%A4%9A%E5%93%88%E7%AB%99%E5%85%AB%E5%BC%BA%23" target="weibo">
+郑钦文无缘多哈站八强（热度：59957）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%8B%97%E7%9C%8B%E5%88%B0%E4%B8%BB%E4%BA%BA%E7%A9%BF%E5%BE%97%E6%AF%9B%E8%8C%B8%E8%8C%B8%E7%9A%84%E5%8F%8D%E5%BA%94%23" target="weibo">
+小狗看到主人穿得毛茸茸的反应（热度：59478）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BD%91%E6%9C%80%E4%BC%9A%E5%8D%96%E9%9E%8B%E7%9A%84%E4%BA%BA%E5%87%BA%E7%8E%B0%E4%BA%86%23" target="weibo">
+全网最会卖鞋的人出现了（热度：56398）
 </a>
 </li>
 
@@ -345,6 +423,30 @@ KK园区2.0内部照首曝光（热度：390076）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E5%B8%A6%E5%9B%9E%E5%AE%B6%E7%9A%84%E7%94%B7%E5%8F%8B%E6%98%AF%E5%A0%82%E5%BC%9F%E5%88%9D%E4%B8%AD%E5%90%8C%E5%AD%A6%23" target="weibo">
+女生带回家的男友是堂弟初中同学（热度：49021）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E9%83%8E%E6%8A%95%E5%A3%B6%E6%9C%AA%E4%B8%AD%E7%AE%AD%E7%9F%A2%E5%9B%9E%E5%BC%B9%E6%8C%87%E5%90%91%E6%96%B0%E5%A8%98%23" target="weibo">
+新郎投壶未中箭矢回弹指向新娘（热度：44515）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E6%98%A5%E6%99%9A%E6%94%B6%E8%A7%86%E7%8E%87%23" target="weibo">
+湖南卫视春晚收视率（热度：44062）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E5%AE%AB%E5%A5%87%E6%A1%88%E4%B9%8B%E9%9D%92%E9%9B%BE%E9%A3%8E%E9%B8%A3%23" target="weibo">
+唐宫奇案之青雾风鸣（热度：43802）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AF%94%E5%B0%94%E7%9B%96%E8%8C%A8%E6%9C%80%E6%96%B0%E5%9B%9E%E5%BA%94%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%23" target="weibo">
 比尔盖茨最新回应爱泼斯坦案（热度：43788）
 </a>
@@ -357,20 +459,32 @@ KK园区2.0内部照首曝光（热度：390076）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%81%E5%BF%A0%E5%B2%A91000%E7%B1%B3%E9%80%9F%E6%BB%91%E9%93%9C%E7%89%8C%23" target="weibo">
-宁忠岩1000米速滑铜牌（热度：36928）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%91%98%E9%9D%A2%E5%B8%A6%E9%B2%9C%E8%A1%80%E8%BF%87%E7%BB%88%E7%82%B9%E7%BA%BF%23" target="weibo">
+中国队员面带鲜血过终点线（热度：41956）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87%E6%97%A0%E7%BC%98%E5%A4%9A%E5%93%88%E7%AB%99%E5%85%AB%E5%BC%BA%23" target="weibo">
-郑钦文无缘多哈站八强（热度：36654）
+<a href="https://s.weibo.com/weibo?q=%23%E9%80%9F%E5%BA%A6%E6%BB%91%E5%86%B0%23" target="weibo">
+速度滑冰（热度：41713）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%81%E5%BF%A0%E5%B2%A9%E8%8B%A6%E7%AD%8915%E5%88%86%E9%92%9F%E5%9C%86%E6%A2%A6%E9%80%9F%E6%BB%91%E9%93%9C%E7%89%8C%23" target="weibo">
-宁忠岩苦等15分钟圆梦速滑铜牌（热度：33069）
+宁忠岩苦等15分钟圆梦速滑铜牌（热度：40286）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%A4%A7%E6%89%B9%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%BC%80%E5%A7%8B%E5%8F%8D%E5%90%91%E8%BF%87%E5%B9%B4%23" target="weibo">
+一大批年轻人开始反向过年（热度：39276）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%81%E5%BF%A0%E5%B2%A91000%E7%B1%B3%E9%80%9F%E6%BB%91%E9%93%9C%E7%89%8C%23" target="weibo">
+宁忠岩1000米速滑铜牌（热度：36928）
 </a>
 </li>
 
@@ -381,20 +495,14 @@ KK园区2.0内部照首曝光（热度：390076）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%871%E6%AF%942%E8%8E%B1%E5%B7%B4%E9%87%91%E5%A8%9C%23" target="weibo">
-郑钦文1比2莱巴金娜（热度：29498）
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%A5%E8%BF%90%E8%B7%AF%E4%B8%8A%E8%97%8F%E7%9D%80%E8%BF%99%E4%BA%9B%E9%A9%AC%E5%B9%B4%E5%BD%A9%E8%9B%8B%23" target="weibo">
+春运路上藏着这些马年彩蛋（热度：28933）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23TF%E5%AE%B6%E6%97%8F%E4%BA%94%E4%BB%A3%E7%BB%83%E4%B9%A0%E7%94%9F%E5%90%95%E6%94%BF%E7%86%99%20%E5%AE%9C%E5%AE%BE%E6%98%A5%E6%99%9A%23" target="weibo">
 TF家族五代练习生吕政熙 宜宾春晚（热度：27460）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E5%AE%AB%E5%A5%87%E6%A1%88%E4%B9%8B%E9%9D%92%E9%9B%BE%E9%A3%8E%E9%B8%A3%23" target="weibo">
-唐宫奇案之青雾风鸣（热度：26785）
 </a>
 </li>
 
@@ -425,12 +533,6 @@ DeepSeek更新上下文达百万级token（热度：21779）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E6%B9%96%E5%8D%97%E6%98%A5%E6%99%9A%E6%89%91%E9%80%9A%E6%89%91%E9%80%9A%23" target="weibo">
 刘宇宁湖南春晚扑通扑通（热度：21269）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%98%A5%E8%BF%90%E8%B7%AF%E4%B8%8A%E8%97%8F%E7%9D%80%E8%BF%99%E4%BA%9B%E9%A9%AC%E5%B9%B4%E5%BD%A9%E8%9B%8B%23" target="weibo">
-春运路上藏着这些马年彩蛋（热度：20419）
 </a>
 </li>
 

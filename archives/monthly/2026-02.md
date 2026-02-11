@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/02/01 00:39:22 ~ 2026/02/12 07:00:13
+本榜单时间：2026/02/01 00:39:22 ~ 2026/02/12 07:41:21
 </p>
 </blockquote>
 <p>
@@ -1955,6 +1955,12 @@ Gucci出了一个对子 YSL反手就是炸弹（热度：619225）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B0%B8%E8%BE%89%E8%B6%85%E5%B8%82CEO%E5%8F%91%E5%85%A8%E5%91%98%E4%BF%A1%E8%87%B4%E6%AD%89%23" target="weibo">
 永辉超市CEO发全员信致歉（热度：595626）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%9F%E5%B0%8F%E5%AD%A9%E9%9C%80%E8%A6%81%E4%B8%80%E4%B8%AA%E5%8F%91%E8%BE%BE%E7%9A%84%E5%89%8D%E9%A2%9D%E5%8F%B6%23" target="weibo">
+生小孩需要一个发达的前额叶（热度：595121）
 </a>
 </li>
 
@@ -4521,6 +4527,12 @@ IVE新歌BANG BANG（热度：354872）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BB%89%E5%AD%90%E6%96%87%E8%A2%AB%E5%8F%96%E6%B6%88%E6%88%90%E7%BB%A9%23" target="weibo">
+廉子文被取消成绩（热度：336832）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%81%B6%E9%81%87exo%E4%B8%8A%E6%B5%B7%E5%90%83%E7%81%AB%E9%94%85%23" target="weibo">
 偶遇exo上海吃火锅（热度：336232）
 </a>
@@ -5999,18 +6011,6 @@ A股市场迎来调整（热度：268994）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%A5%E6%99%9A%E5%BD%A9%E6%8E%92%23" target="weibo">
 春晚彩排（热度：260021）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%8C%96%E5%88%B0%E7%A8%80%E5%9C%9F%E6%B3%A5%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E4%BA%AE%E4%BA%86%23" target="weibo">
-日本挖到稀土泥中方回应亮了（热度：259127）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E9%A3%9E%E5%AE%87%20%E9%98%BF%E7%91%9F%E5%B8%85%E5%9B%9E%E5%AE%AB%E4%BA%86%23" target="weibo">
-陈飞宇 阿瑟帅回宫了（热度：259038）
 </a>
 </li>
 
