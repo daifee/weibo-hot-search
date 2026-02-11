@@ -1,6 +1,6 @@
 {
   "startTime": 1770482461321,
-  "endTime": 1770826438780,
+  "endTime": 1770827927695,
   "band_list": [
     {
       "raw_hot": 7279878,
@@ -971,6 +971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 541366,
+      "num": 158289,
+      "word": "宋亚轩怎么那么高",
+      "onboard_time": 1770824361,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 538677,
       "num": 215794,
       "word": "杨紫新剧1集头发全白了",
@@ -1185,14 +1193,6 @@
       "onboard_time": 1770625521,
       "rank": 4,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 486273,
-      "num": 158289,
-      "word": "宋亚轩怎么那么高",
-      "onboard_time": 1770824361,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 485927,
@@ -2107,6 +2107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 347441,
+      "num": 347441,
+      "word": "宋威龙抽到马上有对象的反应",
+      "onboard_time": 1770823282,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 346470,
       "num": 346470,
       "word": "我将辞职在家研究苏醒这段话",
@@ -2339,6 +2347,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 313911,
+      "num": 547785,
+      "word": "250桌婚宴52万嫌贵拒付款进展",
+      "onboard_time": 1770824842,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 313681,
       "num": 313681,
       "word": "张杰演唱会现场官宣鸟巢",
@@ -2385,14 +2401,6 @@
       "onboard_time": 1770687259,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 309184,
-      "num": 309184,
-      "word": "宋威龙抽到马上有对象的反应",
-      "onboard_time": 1770823282,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 308783,
@@ -3305,6 +3313,14 @@
       "onboard_time": 1770766398,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 231282,
+      "num": 186938,
+      "word": "时代少年团 麦克风",
+      "onboard_time": 1770825921,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 230331,
@@ -4275,6 +4291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 172704,
+      "num": 172704,
+      "word": "郑钦文vs莱巴金娜",
+      "onboard_time": 1770823761,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 172107,
       "num": 172107,
       "word": "李沛恩解约",
@@ -4305,14 +4329,6 @@
       "onboard_time": 1770606380,
       "rank": 15,
       "category": "数码"
-    },
-    {
-      "raw_hot": 170564,
-      "num": 170564,
-      "word": "郑钦文vs莱巴金娜",
-      "onboard_time": 1770823761,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 170167,
@@ -5627,14 +5643,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 122087,
-      "num": 109945,
-      "word": "时代少年团 麦克风",
-      "onboard_time": 1770825921,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 122064,
       "num": 122064,
       "word": "坐高铁买到了特等座",
@@ -6265,14 +6273,6 @@
       "onboard_time": 1770777620,
       "rank": 36,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 110290,
-      "num": 110290,
-      "word": "250桌婚宴52万嫌贵拒付款进展",
-      "onboard_time": 1770824842,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 110224,
@@ -8313,6 +8313,14 @@
       "onboard_time": 1770547760,
       "rank": 39,
       "category": "财经"
+    },
+    {
+      "raw_hot": 87094,
+      "num": 108130,
+      "word": "长期积怨妻子疑用锅袭击丈夫致死",
+      "onboard_time": 1770825620,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 86981,
@@ -10427,6 +10435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 54976,
+      "num": 54976,
+      "word": "岳阳一救护车装橘子开警灯闯红灯",
+      "onboard_time": 1770824422,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 54576,
       "num": 206046,
       "word": "首次载人飞船返回舱海上搜索回收完成",
@@ -10544,6 +10560,14 @@
       "word": "武侠小说的瘴气竟真实存在",
       "onboard_time": 1770819262,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 51919,
+      "num": 157801,
+      "word": "男子揣10年前和前女友情书骑行回家",
+      "onboard_time": 1770825741,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -11339,14 +11363,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 36851,
-      "num": 157801,
-      "word": "男子揣10年前和前女友情书骑行回家",
-      "onboard_time": 1770825741,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 36782,
       "num": 225239,
       "word": "王欣然张楚桐范可新全员晋级",
@@ -11417,14 +11433,6 @@
       "onboard_time": 1770485956,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 34475,
-      "num": 72959,
-      "word": "长期积怨妻子疑用锅袭击丈夫致死",
-      "onboard_time": 1770825620,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 34452,
@@ -12315,6 +12323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 19149,
+      "num": 157842,
+      "word": "沈月王赫野春晚约好带ta串门",
+      "onboard_time": 1770824361,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 18867,
       "num": 21709,
       "word": "惊蛰无声直播",
@@ -12361,14 +12377,6 @@
       "onboard_time": 1770490215,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 18352,
-      "num": 157842,
-      "word": "沈月王赫野春晚约好带ta串门",
-      "onboard_time": 1770824361,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 18236,

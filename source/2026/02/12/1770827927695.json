@@ -1,0 +1,410 @@
+{
+  "runTime": 1770827927695,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 338908,
+        "num": 762628,
+        "word": "KK园区2.0内部照首曝光",
+        "onboard_time": 1770805460,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 313911,
+        "num": 547785,
+        "word": "250桌婚宴52万嫌贵拒付款进展",
+        "onboard_time": 1770824842,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19694,
+        "num": 442324,
+        "word": "春运路上藏着这些马年彩蛋",
+        "onboard_time": 1770814100,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 347441,
+        "num": 347441,
+        "word": "宋威龙抽到马上有对象的反应",
+        "onboard_time": 1770823282,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186955,
+        "num": 186955,
+        "word": "伊朗总统道歉",
+        "onboard_time": 1770823941,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 231282,
+        "num": 186938,
+        "word": "时代少年团 麦克风",
+        "onboard_time": 1770825921,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184526,
+        "num": 184526,
+        "word": "湖南卫视春晚",
+        "onboard_time": 1770808699,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177132,
+        "num": 177132,
+        "word": "新加坡女子误以为中大奖",
+        "onboard_time": 1770818722,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 172704,
+        "num": 172704,
+        "word": "郑钦文vs莱巴金娜",
+        "onboard_time": 1770823761,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108618,
+        "num": 108618,
+        "word": "以前的宠妃美貌都是这种级别",
+        "onboard_time": 1770818662,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 744300,
+        "num": 108608,
+        "word": "李一桐 假唱",
+        "onboard_time": 1770818482,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 541366,
+        "num": 108562,
+        "word": "宋亚轩怎么那么高",
+        "onboard_time": 1770824361,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218099,
+        "num": 108507,
+        "word": "保姆遇到有钱雇主吓得下户",
+        "onboard_time": 1770821540,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 435192,
+        "num": 108477,
+        "word": "女演员投资失败搬进出租屋",
+        "onboard_time": 1770821361,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194802,
+        "num": 108435,
+        "word": "内娱CP粉众生相",
+        "onboard_time": 1770820580,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186300,
+        "num": 108424,
+        "word": "查理苏",
+        "onboard_time": 1770818601,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 125964,
+        "num": 108360,
+        "word": "月薪2000的环卫工困在电子镣铐",
+        "onboard_time": 1770811280,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115535,
+        "num": 108349,
+        "word": "张函瑞跳自己的进行曲",
+        "onboard_time": 1770819743,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19149,
+        "num": 108316,
+        "word": "沈月王赫野春晚约好带ta串门",
+        "onboard_time": 1770824361,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79141,
+        "num": 108273,
+        "word": "米兰冬奥首位三金王诞生",
+        "onboard_time": 1770817701,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 564965,
+        "num": 108213,
+        "word": "黄金",
+        "onboard_time": 1770819982,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 413508,
+        "num": 108191,
+        "word": "周深忘词",
+        "onboard_time": 1770821361,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 235733,
+        "num": 108152,
+        "word": "郭麒麟 爸爸还是您不争气啊",
+        "onboard_time": 1770809540,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 87094,
+        "num": 108130,
+        "word": "长期积怨妻子疑用锅袭击丈夫致死",
+        "onboard_time": 1770825620,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108099,
+        "num": 108099,
+        "word": "陈哲远李一桐用一个麦",
+        "onboard_time": 1770818722,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94433,
+        "num": 94433,
+        "word": "沈月晒春晚后台合照",
+        "onboard_time": 1770821242,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75790,
+        "num": 91339,
+        "word": "英王室地产发现疑似涉爱泼斯坦案尸体",
+        "onboard_time": 1770812961,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 89563,
+        "num": 89563,
+        "word": "成何体统",
+        "onboard_time": 1770804499,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 79782,
+        "num": 79782,
+        "word": "宋威龙赵今麦惊天动地的一秒",
+        "onboard_time": 1770818662,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 71053,
+        "num": 75922,
+        "word": "警方回应2岁男童在家失踪超140天",
+        "onboard_time": 1770822919,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101056,
+        "num": 75664,
+        "word": "强迫症兔子每天为主人铺床",
+        "onboard_time": 1770825500,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 75326,
+        "num": 75326,
+        "word": "时代少年团春晚ilikeulike舞台",
+        "onboard_time": 1770823941,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 73822,
+        "num": 73822,
+        "word": "薛之谦歌曲被抄袭部分歌词被照搬",
+        "onboard_time": 1770821423,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 59744,
+        "num": 69299,
+        "word": "女教师聊八卦被拘口头传播者没被罚",
+        "onboard_time": 1770824540,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67240,
+        "num": 67240,
+        "word": "何炅回应嗓子哑了",
+        "onboard_time": 1770821961,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 66610,
+        "num": 66610,
+        "word": "何以琛今年50多岁了",
+        "onboard_time": 1770817762,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 59305,
+        "num": 65829,
+        "word": "赵睿道歉声明",
+        "onboard_time": 1770823579,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 65590,
+        "num": 65590,
+        "word": "生命树",
+        "onboard_time": 1770811520,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62873,
+        "num": 62873,
+        "word": "大侦探这个首发我一直在爽",
+        "onboard_time": 1770826101,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 56979,
+        "num": 56979,
+        "word": "全国房价止跌信号出现",
+        "onboard_time": 1770805339,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55989,
+        "num": 55989,
+        "word": "虞书欣连线几分钟也做足功课",
+        "onboard_time": 1770815482,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55469,
+        "num": 55469,
+        "word": "国家宝藏官宣田曦薇",
+        "onboard_time": 1770826340,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54976,
+        "num": 54976,
+        "word": "岳阳一救护车装橘子开警灯闯红灯",
+        "onboard_time": 1770824422,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55056,
+        "num": 54802,
+        "word": "权志龙Chanel",
+        "onboard_time": 1770814280,
+        "rank": 43,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 53975,
+        "num": 53975,
+        "word": "肖战粉丝已经在合肥吃上了",
+        "onboard_time": 1770818122,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52588,
+        "num": 52588,
+        "word": "女教师群聊八卦被拘案最新进展",
+        "onboard_time": 1770803060,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51919,
+        "num": 51919,
+        "word": "男子揣10年前和前女友情书骑行回家",
+        "onboard_time": 1770825741,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51266,
+        "num": 51266,
+        "word": "香港女记者转型警队重案组总督察",
+        "onboard_time": 1770822142,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51106,
+        "num": 51106,
+        "word": "刘亦菲陈瑶 双虞姬",
+        "onboard_time": 1770817221,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 50790,
+        "num": 50790,
+        "word": "余茵曾多次与白鹿撞衫",
+        "onboard_time": 1770808281,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向党外人士致以新春祝福#"
+    }
+  }
+}

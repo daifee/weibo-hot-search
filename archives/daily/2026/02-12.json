@@ -1,6 +1,6 @@
 {
   "startTime": 1770826438780,
-  "endTime": 1770826438780,
+  "endTime": 1770827927695,
   "band_list": [
     {
       "raw_hot": 1042177,
@@ -27,7 +27,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 486273,
+      "raw_hot": 541366,
       "num": 158289,
       "word": "宋亚轩怎么那么高",
       "onboard_time": 1770824361,
@@ -51,6 +51,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 347441,
+      "num": 347441,
+      "word": "宋威龙抽到马上有对象的反应",
+      "onboard_time": 1770823282,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 331240,
       "num": 157664,
       "word": "郭麒麟 爸爸还是您不争气啊",
@@ -59,12 +67,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 309184,
-      "num": 309184,
-      "word": "宋威龙抽到马上有对象的反应",
-      "onboard_time": 1770823282,
-      "rank": 3,
-      "category": "综艺"
+      "raw_hot": 313911,
+      "num": 547785,
+      "word": "250桌婚宴52万嫌贵拒付款进展",
+      "onboard_time": 1770824842,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 276944,
@@ -99,6 +107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 231282,
+      "num": 186938,
+      "word": "时代少年团 麦克风",
+      "onboard_time": 1770825921,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 195115,
       "num": 158068,
       "word": "查理苏",
@@ -115,8 +131,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 170564,
-      "num": 170564,
+      "raw_hot": 172704,
+      "num": 172704,
       "word": "郑钦文vs莱巴金娜",
       "onboard_time": 1770823761,
       "rank": 7,
@@ -179,28 +195,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 122087,
-      "num": 109945,
-      "word": "时代少年团 麦克风",
-      "onboard_time": 1770825921,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 113760,
       "num": 94741,
       "word": "强迫症兔子每天为主人铺床",
       "onboard_time": 1770825500,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 110290,
-      "num": 110290,
-      "word": "250桌婚宴52万嫌贵拒付款进展",
-      "onboard_time": 1770824842,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 109011,
@@ -240,6 +240,14 @@
       "word": "警方回应2岁男童在家失踪超140天",
       "onboard_time": 1770822919,
       "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 87094,
+      "num": 108130,
+      "word": "长期积怨妻子疑用锅袭击丈夫致死",
+      "onboard_time": 1770825620,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -371,19 +379,35 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 36851,
+      "raw_hot": 55989,
+      "num": 55989,
+      "word": "虞书欣连线几分钟也做足功课",
+      "onboard_time": 1770815482,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 54976,
+      "num": 54976,
+      "word": "岳阳一救护车装橘子开警灯闯红灯",
+      "onboard_time": 1770824422,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 52588,
+      "num": 52588,
+      "word": "女教师群聊八卦被拘案最新进展",
+      "onboard_time": 1770803060,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 51919,
       "num": 157801,
       "word": "男子揣10年前和前女友情书骑行回家",
       "onboard_time": 1770825741,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 34475,
-      "num": 72959,
-      "word": "长期积怨妻子疑用锅袭击丈夫致死",
-      "onboard_time": 1770825620,
-      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -395,7 +419,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 18352,
+      "raw_hot": 19149,
       "num": 157842,
       "word": "沈月王赫野春晚约好带ta串门",
       "onboard_time": 1770824361,
@@ -406,6 +430,9 @@
   "hotgov_list": [
     {
       "word": "#习主席春节前夕慰问部队#"
+    },
+    {
+      "word": "#习近平向党外人士致以新春祝福#"
     }
   ]
 }
