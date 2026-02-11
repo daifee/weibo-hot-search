@@ -1,6 +1,6 @@
 {
   "startTime": 1770743525576,
-  "endTime": 1770801256106,
+  "endTime": 1770804158477,
   "band_list": [
     {
       "raw_hot": 984549,
@@ -51,6 +51,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 769138,
+      "num": 1123062,
+      "word": "女子将敬酒服穿脏后焊接吊牌退货",
+      "onboard_time": 1770799280,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 749487,
       "num": 822075,
       "word": "国台办回应吴克群帮农民卖3万斤菜",
@@ -97,14 +105,6 @@
       "onboard_time": 1770779420,
       "rank": 0,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 627124,
-      "num": 1100339,
-      "word": "女子将敬酒服穿脏后焊接吊牌退货",
-      "onboard_time": 1770799280,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 606388,
@@ -331,6 +331,22 @@
       "category": "军事"
     },
     {
+      "raw_hot": 364668,
+      "num": 355409,
+      "word": "第一批到家的人已经开始送奶了",
+      "onboard_time": 1770799940,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 363338,
+      "num": 818045,
+      "word": "方圆阿爆拍了双女主短剧",
+      "onboard_time": 1770802823,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 361923,
       "num": 217156,
       "word": "日本考虑引入针对嫖娼者处罚措施",
@@ -356,11 +372,27 @@
     },
     {
       "raw_hot": 353029,
-      "num": 184852,
+      "num": 206610,
       "word": "爱泼斯坦",
       "onboard_time": 1770797722,
       "rank": 13,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 349110,
+      "num": 207490,
+      "word": "女子举报初中老师性侵产子被起诉",
+      "onboard_time": 1770800840,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 346470,
+      "num": 346470,
+      "word": "我将辞职在家研究苏醒这段话",
+      "onboard_time": 1770801201,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 337906,
@@ -417,6 +449,14 @@
       "onboard_time": 1770796400,
       "rank": 19,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 298549,
+      "num": 298549,
+      "word": "湖南卫视春晚节目单来了",
+      "onboard_time": 1770799401,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 293617,
@@ -539,12 +579,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 244015,
+      "num": 134900,
+      "word": "喜欢侧睡的受害者出现了",
+      "onboard_time": 1770800660,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 243872,
       "num": 175495,
       "word": "王濛和关晓彤合照",
       "onboard_time": 1770785960,
       "rank": 43,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 238052,
+      "num": 124958,
+      "word": "竟然陪时代峰峻闹了这么久了",
+      "onboard_time": 1770799222,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 237452,
@@ -683,6 +739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202225,
+      "num": 202225,
+      "word": "白鹿3剧连播反思脚步太快",
+      "onboard_time": 1770801260,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 198678,
       "num": 175384,
       "word": "央视主持人怎么全面成这样了",
@@ -739,6 +803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 189264,
+      "num": 189264,
+      "word": "孙策大乔星传说皮肤",
+      "onboard_time": 1770802823,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 184798,
       "num": 145337,
       "word": "网传杨博文饰演周扬",
@@ -753,6 +825,14 @@
       "onboard_time": 1770735323,
       "rank": 12,
       "category": "电影"
+    },
+    {
+      "raw_hot": 176697,
+      "num": 119319,
+      "word": "保罗在美国被禁言",
+      "onboard_time": 1770803240,
+      "rank": 29,
+      "category": "网红"
     },
     {
       "raw_hot": 175063,
@@ -785,14 +865,6 @@
       "onboard_time": 1770729741,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 154241,
-      "num": 117976,
-      "word": "湖南卫视春晚节目单来了",
-      "onboard_time": 1770799401,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 151921,
@@ -833,14 +905,6 @@
       "onboard_time": 1770735861,
       "rank": 6,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 144664,
-      "num": 144664,
-      "word": "第一批到家的人已经开始送奶了",
-      "onboard_time": 1770799940,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 144288,
@@ -979,12 +1043,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 128535,
+      "num": 119279,
+      "word": "第一次这么直观感受萝卜岗",
+      "onboard_time": 1770802101,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 124527,
       "num": 115719,
       "word": "乔杉 王橹杰我懂你了",
       "onboard_time": 1770797961,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 123391,
+      "num": 123391,
+      "word": "一大批年轻人开始反向过年",
+      "onboard_time": 1770802221,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 123374,
@@ -1019,28 +1099,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 118104,
-      "num": 115486,
-      "word": "我将辞职在家研究苏醒这段话",
-      "onboard_time": 1770801201,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 117981,
       "num": 117981,
       "word": "花木兰新皮肤异界灵契",
       "onboard_time": 1770796939,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 117275,
-      "num": 117275,
-      "word": "女子举报初中老师性侵产子被起诉",
-      "onboard_time": 1770800840,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 116747,
@@ -1211,14 +1275,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 101801,
-      "num": 102140,
-      "word": "竟然陪时代峰峻闹了这么久了",
-      "onboard_time": 1770799222,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 101578,
       "num": 101578,
       "word": "现在就想提前回家过年了",
@@ -1283,6 +1339,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 98170,
+      "num": 98170,
+      "word": "当老爸的社保比我工资还高",
+      "onboard_time": 1770801800,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 97415,
       "num": 97415,
       "word": "双高胎 鹅鸭杀",
@@ -1299,12 +1363,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 95892,
-      "num": 95892,
-      "word": "喜欢侧睡的受害者出现了",
-      "onboard_time": 1770800660,
-      "rank": 41,
-      "category": "幽默"
+      "raw_hot": 96452,
+      "num": 96452,
+      "word": "留几手买房从大平层问到小小平层",
+      "onboard_time": 1770801681,
+      "rank": 40,
+      "category": "网红"
     },
     {
       "raw_hot": 95271,
@@ -1443,6 +1507,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 84204,
+      "num": 84204,
+      "word": "iG进入淘汰赛",
+      "onboard_time": 1770802520,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 83638,
       "num": 83638,
       "word": "中国卖货车的小伙子在外网火了",
@@ -1465,6 +1537,14 @@
       "onboard_time": 1770800900,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 82569,
+      "num": 82569,
+      "word": "日本法律只罚卖淫卖方不罚买方",
+      "onboard_time": 1770803600,
+      "rank": 45,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 82296,
@@ -1523,6 +1603,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 79873,
+      "num": 79873,
+      "word": "年味不怎么浓班味很浓",
+      "onboard_time": 1770803959,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 79834,
       "num": 79834,
       "word": "大侦探11首发阵容",
@@ -1537,6 +1625,14 @@
       "onboard_time": 1770797841,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 79557,
+      "num": 79557,
+      "word": "KPL",
+      "onboard_time": 1770802400,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 79405,
@@ -2011,6 +2107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 36680,
+      "num": 663495,
+      "word": "坐高铁感受经济脉动",
+      "onboard_time": 1770800600,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35349,
       "num": 45531,
       "word": "惊蛰无声预售票房",
@@ -2025,6 +2129,14 @@
       "onboard_time": 1770750073,
       "rank": 26,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 34272,
+      "num": 150668,
+      "word": "女教师群聊八卦被拘案最新进展",
+      "onboard_time": 1770803060,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 33826,
@@ -2155,6 +2267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 21977,
+      "num": 96470,
+      "word": "业内谈Seedance2.0有多恐怖",
+      "onboard_time": 1770803421,
+      "rank": 39,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 21968,
       "num": 46798,
       "word": "易烊千玺晒严迪剧照",
@@ -2177,14 +2297,6 @@
       "onboard_time": 1770764896,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 19768,
-      "num": 620434,
-      "word": "坐高铁感受经济脉动",
-      "onboard_time": 1770800600,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 19568,
@@ -2251,6 +2363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 13821,
+      "num": 96632,
+      "word": "华裔研究生研发出AI相亲软件",
+      "onboard_time": 1770803299,
+      "rank": 38,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 13683,
       "num": 16071,
       "word": "短道速滑混团接力",
@@ -2265,6 +2385,14 @@
       "onboard_time": 1770793280,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 8784,
+      "num": 97225,
+      "word": "虞书欣唱歌又仙又甜",
+      "onboard_time": 1770803780,
+      "rank": 37,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [
