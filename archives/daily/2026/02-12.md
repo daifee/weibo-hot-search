@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/02/12 00:13:58 ~ 2026/02/12 04:48:52
+本榜单时间：2026/02/12 00:13:58 ~ 2026/02/12 05:03:34
 </p>
 </blockquote>
 <p>
@@ -315,6 +315,12 @@ KK园区2.0内部照首曝光（热度：390076）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BB%89%E5%AD%90%E6%96%87%E8%A2%AB%E5%8F%96%E6%B6%88%E6%88%90%E7%BB%A9%23" target="weibo">
+廉子文被取消成绩（热度：55117）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B2%B3%E9%98%B3%E4%B8%80%E6%95%91%E6%8A%A4%E8%BD%A6%E8%A3%85%E6%A9%98%E5%AD%90%E5%BC%80%E8%AD%A6%E7%81%AF%E9%97%AF%E7%BA%A2%E7%81%AF%23" target="weibo">
 岳阳一救护车装橘子开警灯闯红灯（热度：54976）
 </a>
@@ -347,12 +353,6 @@ KK园区2.0内部照首曝光（热度：390076）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%81%E5%BF%A0%E5%B2%A91000%E7%B1%B3%E9%80%9F%E6%BB%91%E9%93%9C%E7%89%8C%23" target="weibo">
 宁忠岩1000米速滑铜牌（热度：34588）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BB%89%E5%AD%90%E6%96%87%E8%A2%AB%E5%8F%96%E6%B6%88%E6%88%90%E7%BB%A9%23" target="weibo">
-廉子文被取消成绩（热度：31163）
 </a>
 </li>
 
@@ -418,7 +418,7 @@ DeepSeek更新上下文达百万级token（热度：21779）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E6%B9%96%E5%8D%97%E6%98%A5%E6%99%9A%E6%89%91%E9%80%9A%E6%89%91%E9%80%9A%23" target="weibo">
-刘宇宁湖南春晚扑通扑通（热度：15299）
+刘宇宁湖南春晚扑通扑通（热度：15765）
 </a>
 </li>
 

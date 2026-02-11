@@ -1,6 +1,6 @@
 {
   "startTime": 1770826438780,
-  "endTime": 1770842932440,
+  "endTime": 1770843814491,
   "band_list": [
     {
       "raw_hot": 1042177,
@@ -403,6 +403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 55117,
+      "num": 55351,
+      "word": "廉子文被取消成绩",
+      "onboard_time": 1770841274,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 54976,
       "num": 54976,
       "word": "岳阳一救护车装橘子开警灯闯红灯",
@@ -448,14 +456,6 @@
       "word": "宁忠岩1000米速滑铜牌",
       "onboard_time": 1770842354,
       "rank": 8,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 31163,
-      "num": 31163,
-      "word": "廉子文被取消成绩",
-      "onboard_time": 1770841274,
-      "rank": 9,
       "category": "体育"
     },
     {
@@ -539,8 +539,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 15299,
-      "num": 15299,
+      "raw_hot": 15765,
+      "num": 15765,
       "word": "刘宇宁湖南春晚扑通扑通",
       "onboard_time": 1770840193,
       "rank": 35,
@@ -604,7 +604,7 @@
     },
     {
       "raw_hot": 11322,
-      "num": 15234,
+      "num": 15520,
       "word": "TBZ 没有消息就是好消息",
       "onboard_time": 1770839834,
       "rank": 44,
