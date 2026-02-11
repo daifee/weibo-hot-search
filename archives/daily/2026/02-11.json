@@ -1,6 +1,6 @@
 {
   "startTime": 1770743525576,
-  "endTime": 1770768141085,
+  "endTime": 1770778425992,
   "band_list": [
     {
       "raw_hot": 859955,
@@ -11,6 +11,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 712317,
+      "num": 196990,
+      "word": "李佳琦感谢助理旺旺",
+      "onboard_time": 1770772940,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 665830,
       "num": 1106532,
       "word": "毒皇后扮演者被解雇原因曝光",
@@ -19,12 +27,36 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 537887,
+      "num": 537887,
+      "word": "公公丈夫2天相继离世大姑子在ICU",
+      "onboard_time": 1770776059,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 528420,
+      "num": 1084547,
+      "word": "电影射雕英雄传侠之大者",
+      "onboard_time": 1770769520,
+      "rank": 0,
+      "category": "电影"
+    },
+    {
       "raw_hot": 518313,
       "num": 139987,
       "word": "高市早苗赌赢后彻底不装了",
       "onboard_time": 1770765796,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 467520,
+      "num": 196902,
+      "word": "卜凡 道士下山",
+      "onboard_time": 1770773300,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 458159,
@@ -36,11 +68,35 @@
     },
     {
       "raw_hot": 431965,
-      "num": 112521,
+      "num": 131183,
       "word": "王濛快哭了",
       "onboard_time": 1770734364,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 365154,
+      "num": 762997,
+      "word": "8年还清百万债务第一次回老家过年",
+      "onboard_time": 1770776719,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 361923,
+      "num": 196765,
+      "word": "日本考虑引入针对嫖娼者处罚措施",
+      "onboard_time": 1770773118,
+      "rank": 12,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 334794,
+      "num": 197104,
+      "word": "白菊邵云飞离婚",
+      "onboard_time": 1770766098,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 312824,
@@ -51,8 +107,32 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 310107,
+      "num": 310107,
+      "word": "鹅鸭杀",
+      "onboard_time": 1770776180,
+      "rank": 4,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 291512,
+      "num": 291512,
+      "word": "隐瞒小老虎死讯园长被停职",
+      "onboard_time": 1770775339,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 287312,
+      "num": 287312,
+      "word": "年终奖",
+      "onboard_time": 1770767059,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 265272,
-      "num": 111127,
+      "num": 167849,
       "word": "日本彻底失控",
       "onboard_time": 1770733282,
       "rank": 22,
@@ -65,6 +145,14 @@
       "onboard_time": 1770745157,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 246711,
+      "num": 246711,
+      "word": "带领意大利队夺金的是中国教练",
+      "onboard_time": 1770768139,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 246658,
@@ -107,6 +195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 216737,
+      "num": 196414,
+      "word": "苏新皓 韩国",
+      "onboard_time": 1770768800,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 214469,
       "num": 467153,
       "word": "付费假装上班被要求不迟到不玩手机",
@@ -123,12 +219,36 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 197104,
-      "num": 197104,
-      "word": "白菊邵云飞离婚",
-      "onboard_time": 1770766098,
-      "rank": 25,
-      "category": "剧集"
+      "raw_hot": 207925,
+      "num": 207925,
+      "word": "李谷一确认缺席马年春晚",
+      "onboard_time": 1770769998,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 197063,
+      "num": 197063,
+      "word": "美国队带走韩国队瞬间",
+      "onboard_time": 1770768259,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 194214,
+      "num": 194214,
+      "word": "赵今麦小年营业照",
+      "onboard_time": 1770774559,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 192539,
+      "num": 192539,
+      "word": "龙丹妮跳舞",
+      "onboard_time": 1770776959,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 178806,
@@ -139,12 +259,44 @@
       "category": "电影"
     },
     {
+      "raw_hot": 166005,
+      "num": 166005,
+      "word": "易烊千玺 努力超越满江红",
+      "onboard_time": 1770777740,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 163697,
+      "num": 163697,
+      "word": "园长用录播冒充直播隐瞒小老虎死亡",
+      "onboard_time": 1770774979,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 162497,
+      "num": 172200,
+      "word": "爱泼斯坦案录像现可疑橙色身影",
+      "onboard_time": 1770776539,
+      "rank": 18,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 154343,
       "num": 135755,
       "word": "74岁肥猫被医生建议注射药物镇痛",
       "onboard_time": 1770729741,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 151921,
+      "num": 151921,
+      "word": "镖人不知道孩子爱看啥就全都拍了",
+      "onboard_time": 1770776839,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 149608,
@@ -171,6 +323,22 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 144288,
+      "num": 144288,
+      "word": "Seedance2.0模型",
+      "onboard_time": 1770774138,
+      "rank": 24,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 140829,
+      "num": 140829,
+      "word": "李连杰说王宝强的成功是百万分之一",
+      "onboard_time": 1770768800,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 140255,
       "num": 61156,
       "word": "我们的少年时代2 双男主",
@@ -185,6 +353,14 @@
       "onboard_time": 1770731420,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 137010,
+      "num": 137010,
+      "word": "原来你们真有年终奖啊",
+      "onboard_time": 1770765677,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 136806,
@@ -203,6 +379,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 132340,
+      "num": 132340,
+      "word": "冬奥会多国要求运动员戴口罩",
+      "onboard_time": 1770777260,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 123374,
       "num": 123374,
       "word": "成何体统",
@@ -219,20 +403,28 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 115727,
-      "num": 115727,
-      "word": "原来你们真有年终奖啊",
-      "onboard_time": 1770765677,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 113419,
       "num": 113419,
       "word": "王濛说中国队尽力了",
       "onboard_time": 1770741138,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 110920,
+      "num": 110920,
+      "word": "王濛回应中国队短道混接第4",
+      "onboard_time": 1770774620,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 106474,
+      "num": 106474,
+      "word": "闪耀暖暖",
+      "onboard_time": 1770776959,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 106448,
@@ -267,6 +459,30 @@
       "category": "演出"
     },
     {
+      "raw_hot": 101989,
+      "num": 101989,
+      "word": "法国想对中国复制广场协议",
+      "onboard_time": 1770767179,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 101563,
+      "num": 101563,
+      "word": "涠洲岛网红鲸鱼被渔船高速撞击",
+      "onboard_time": 1770766398,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100997,
+      "num": 100997,
+      "word": "千问帮我",
+      "onboard_time": 1770777620,
+      "rank": 36,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 100416,
       "num": 99342,
       "word": "堂姐介绍已婚男致女子遇害事后失联",
@@ -275,12 +491,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 98722,
-      "num": 98722,
-      "word": "涠洲岛网红鲸鱼被渔船高速撞击",
-      "onboard_time": 1770766398,
-      "rank": 31,
-      "category": "民生新闻"
+      "raw_hot": 99120,
+      "num": 99120,
+      "word": "王者荣耀小马糕",
+      "onboard_time": 1770765317,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 93018,
@@ -299,6 +515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 91383,
+      "num": 91383,
+      "word": "姚安娜古装",
+      "onboard_time": 1770778281,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 88620,
       "num": 91523,
       "word": "金博洋短节目86.55分",
@@ -307,12 +531,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 87446,
-      "num": 87446,
-      "word": "法国想对中国复制广场协议",
-      "onboard_time": 1770767179,
-      "rank": 32,
-      "category": "国际时政"
+      "raw_hot": 86050,
+      "num": 86050,
+      "word": "霸王茶姬新年限定",
+      "onboard_time": 1770777620,
+      "rank": 41,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 80652,
+      "num": 80652,
+      "word": "鹤男这张脸说十八岁我都信",
+      "onboard_time": 1770773420,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 80587,
@@ -323,12 +555,52 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 79948,
+      "num": 79948,
+      "word": "金饰价涨到1564元",
+      "onboard_time": 1770775099,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 79274,
+      "num": 79274,
+      "word": "猫咪偷叼邻居零钱女子发现后全归还",
+      "onboard_time": 1770775219,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 79076,
+      "num": 79076,
+      "word": "车银优新剧定档",
+      "onboard_time": 1770778221,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 79028,
+      "num": 79028,
+      "word": "第一代SU7交付总量",
+      "onboard_time": 1770777860,
+      "rank": 49,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 78913,
       "num": 78913,
       "word": "米兰的冰有点软",
       "onboard_time": 1770740420,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 77927,
+      "num": 115327,
+      "word": "美发生枪击事件多人死亡",
+      "onboard_time": 1770775999,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 77645,
@@ -387,20 +659,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 66375,
-      "num": 66375,
-      "word": "年终奖",
-      "onboard_time": 1770767059,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 63332,
       "num": 63332,
       "word": "A股行情",
       "onboard_time": 1770765619,
       "rank": 45,
       "category": "财经"
+    },
+    {
+      "raw_hot": 63146,
+      "num": 167850,
+      "word": "杨紫都演妈妈了",
+      "onboard_time": 1770777798,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 62964,
@@ -427,6 +699,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 60968,
+      "num": 91515,
+      "word": "乔杉看谢霆锋这事居然还能有后续",
+      "onboard_time": 1770777260,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 58814,
       "num": 58814,
       "word": "中国跳台滑雪再创历史",
@@ -441,14 +721,6 @@
       "onboard_time": 1770766277,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 57209,
-      "num": 57209,
-      "word": "王者荣耀小马糕",
-      "onboard_time": 1770765317,
-      "rank": 41,
-      "category": "游戏"
     },
     {
       "raw_hot": 56700,
@@ -699,6 +971,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 24269,
+      "num": 106662,
+      "word": "一到老家就变回了孩子",
+      "onboard_time": 1770770720,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24062,
       "num": 46802,
       "word": "白鹿心疼壁上花案里的女孩",
@@ -763,6 +1043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 17585,
+      "num": 620210,
+      "word": "今天二十四扫房子",
+      "onboard_time": 1770768379,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 16131,
       "num": 16063,
       "word": "央视网络春晚",
@@ -801,6 +1089,9 @@
     },
     {
       "word": "#总书记向大家拜年#"
+    },
+    {
+      "word": "#习近平总书记向全国各族人民拜年#"
     }
   ]
 }
