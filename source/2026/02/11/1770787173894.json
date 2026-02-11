@@ -1,0 +1,410 @@
+{
+  "runTime": 1770787173894,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 572875,
+        "num": 1091660,
+        "word": "微信9大更新",
+        "onboard_time": 1770779420,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 477766,
+        "num": 805359,
+        "word": "被央妈看上的偶像剧",
+        "onboard_time": 1770784521,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36576,
+        "num": 607440,
+        "word": "到中国过年成为热潮",
+        "onboard_time": 1770778640,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 426268,
+        "num": 426268,
+        "word": "饲养员娜娜被责令公开道歉",
+        "onboard_time": 1770783080,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 274508,
+        "num": 274508,
+        "word": "孙海洋夫妇将名下公司转给孙卓",
+        "onboard_time": 1770779600,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 554380,
+        "num": 268344,
+        "word": "韩国是一个巨大的县城",
+        "onboard_time": 1770785301,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 238624,
+        "num": 238624,
+        "word": "就知道姚安娜舍不得这个刘海",
+        "onboard_time": 1770785540,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 230860,
+        "num": 230860,
+        "word": "大侦探",
+        "onboard_time": 1770783080,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230812,
+        "num": 230812,
+        "word": "火箭回收",
+        "onboard_time": 1770778459,
+        "rank": 8,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 163701,
+        "num": 163701,
+        "word": "鹅鸭杀",
+        "onboard_time": 1770776180,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 48563,
+        "num": 162640,
+        "word": "挑战用Seedance2.0生成最燃瞬间",
+        "onboard_time": 1770786740,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 918629,
+        "num": 160775,
+        "word": "爱泼斯坦狱警用假尸体伪装现场",
+        "onboard_time": 1770783859,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 390277,
+        "num": 159968,
+        "word": "女子出手8公斤金条套现近900万",
+        "onboard_time": 1770781401,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 693073,
+        "num": 156892,
+        "word": "沈腾找了个最帅的演自己",
+        "onboard_time": 1770779959,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 378867,
+        "num": 155885,
+        "word": "第一次见双胞胎不是一个物种",
+        "onboard_time": 1770780680,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 354408,
+        "num": 153341,
+        "word": "28岁员工年会饮酒后死亡",
+        "onboard_time": 1770783378,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 236529,
+        "num": 151834,
+        "word": "易烊千玺 努力超越满江红",
+        "onboard_time": 1770777740,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 228948,
+        "num": 150342,
+        "word": "李佳琦感谢助理旺旺",
+        "onboard_time": 1770772940,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149363,
+        "num": 149363,
+        "word": "2025年热搜爆了434次",
+        "onboard_time": 1770785301,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 32012,
+        "num": 149253,
+        "word": "千人在线给Seedance2.0提意见",
+        "onboard_time": 1770786140,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 543315,
+        "num": 148968,
+        "word": "徐冬冬 孕相",
+        "onboard_time": 1770784640,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 295674,
+        "num": 148575,
+        "word": "姚安娜古装",
+        "onboard_time": 1770778281,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 274464,
+        "num": 148035,
+        "word": "公公丈夫2天相继离世大姑子在ICU",
+        "onboard_time": 1770776059,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60633,
+        "num": 147912,
+        "word": "投千万买保险105岁才能取",
+        "onboard_time": 1770785359,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63547,
+        "num": 147292,
+        "word": "国台办回应吴克群帮农民卖3万斤菜",
+        "onboard_time": 1770786619,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 197320,
+        "num": 147037,
+        "word": "大孤山",
+        "onboard_time": 1770784941,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 188315,
+        "num": 146553,
+        "word": "刘雨昕 伤人的话一定要三思而行",
+        "onboard_time": 1770778459,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179500,
+        "num": 146205,
+        "word": "金价波动",
+        "onboard_time": 1770780680,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 58450,
+        "num": 146082,
+        "word": "我是大彬同学被判赔鸿蒙智行150万",
+        "onboard_time": 1770782780,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54576,
+        "num": 145639,
+        "word": "首次载人飞船返回舱海上搜索回收完成",
+        "onboard_time": 1770785540,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 184798,
+        "num": 145337,
+        "word": "网传杨博文饰演周扬",
+        "onboard_time": 1770786439,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145130,
+        "num": 145130,
+        "word": "王濛和关晓彤合照",
+        "onboard_time": 1770785960,
+        "rank": 31,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 134160,
+        "num": 134160,
+        "word": "王者荣耀",
+        "onboard_time": 1770786260,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 137912,
+        "num": 133308,
+        "word": "白鹿赵晴 彼此的微博铁粉",
+        "onboard_time": 1770786080,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132110,
+        "num": 132110,
+        "word": "杨紫都演妈妈了",
+        "onboard_time": 1770777798,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128808,
+        "num": 128808,
+        "word": "特朗普被曝现爱泼斯坦文件超百万次",
+        "onboard_time": 1770781039,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 114200,
+        "num": 114200,
+        "word": "SM对CBX资产扣押",
+        "onboard_time": 1770785120,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43231,
+        "num": 111227,
+        "word": "白菊把女儿留给了邵云飞",
+        "onboard_time": 1770786560,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108556,
+        "num": 108556,
+        "word": "明世隐墨染江湖皮肤",
+        "onboard_time": 1770785301,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 109751,
+        "num": 107959,
+        "word": "卜凡 道士下山",
+        "onboard_time": 1770773300,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101914,
+        "num": 101914,
+        "word": "大侦探11定档",
+        "onboard_time": 1770783020,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100143,
+        "num": 100143,
+        "word": "千问帮我",
+        "onboard_time": 1770777620,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 101904,
+        "num": 99340,
+        "word": "王橹杰拿剧本上班",
+        "onboard_time": 1770783378,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 54653,
+        "num": 97377,
+        "word": "国台办回应立陶宛涉台言论",
+        "onboard_time": 1770782900,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 97338,
+        "num": 97338,
+        "word": "星穹下的格桑花公益片",
+        "onboard_time": 1770786500,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 89341,
+        "num": 89341,
+        "word": "艾尔海森",
+        "onboard_time": 1770785359,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 85726,
+        "num": 85726,
+        "word": "微信删好友能保留聊天记录",
+        "onboard_time": 1770779780,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 84413,
+        "num": 84413,
+        "word": "张元英捐款2亿韩元",
+        "onboard_time": 1770783261,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82296,
+        "num": 82296,
+        "word": "收到了最有用的年终奖",
+        "onboard_time": 1770787100,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 82097,
+        "num": 82097,
+        "word": "无限暖暖",
+        "onboard_time": 1770785721,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记亲切慰问快递小哥#"
+    }
+  }
+}
