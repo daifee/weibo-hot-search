@@ -1,0 +1,410 @@
+{
+  "runTime": 1770838463188,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 109230,
+        "num": 109230,
+        "word": "郑钦文vs莱巴金娜",
+        "onboard_time": 1770823761,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84197,
+        "num": 84197,
+        "word": "KK园区2.0内部照首曝光",
+        "onboard_time": 1770805460,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10354,
+        "num": 50052,
+        "word": "春运路上藏着这些马年彩蛋",
+        "onboard_time": 1770814100,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100212,
+        "num": 47348,
+        "word": "宁忠岩将冲击冬奥奖牌",
+        "onboard_time": 1770832756,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43897,
+        "num": 43897,
+        "word": "生命树",
+        "onboard_time": 1770811520,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41349,
+        "num": 41349,
+        "word": "250桌婚宴52万嫌贵拒付款进展",
+        "onboard_time": 1770824842,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39785,
+        "num": 39785,
+        "word": "新加坡女子误以为中大奖",
+        "onboard_time": 1770818722,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 36763,
+        "num": 36763,
+        "word": "宋威龙抽到马上有对象的反应",
+        "onboard_time": 1770823282,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36116,
+        "num": 36116,
+        "word": "伊朗总统道歉",
+        "onboard_time": 1770823941,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 33423,
+        "num": 33423,
+        "word": "湖南卫视春晚",
+        "onboard_time": 1770808699,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123616,
+        "num": 33319,
+        "word": "李一桐 假唱",
+        "onboard_time": 1770818482,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105985,
+        "num": 32915,
+        "word": "女演员投资失败搬进出租屋",
+        "onboard_time": 1770821361,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84370,
+        "num": 32715,
+        "word": "宋亚轩怎么那么高",
+        "onboard_time": 1770824361,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53427,
+        "num": 32359,
+        "word": "查理苏",
+        "onboard_time": 1770818601,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 38111,
+        "num": 32220,
+        "word": "月薪2000的环卫工困在电子镣铐",
+        "onboard_time": 1770811280,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32022,
+        "num": 32022,
+        "word": "保姆遇到有钱雇主吓得下户",
+        "onboard_time": 1770821540,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29915,
+        "num": 29915,
+        "word": "内娱CP粉众生相",
+        "onboard_time": 1770820580,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28870,
+        "num": 28870,
+        "word": "以前的宠妃美貌都是这种级别",
+        "onboard_time": 1770818662,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 28701,
+        "num": 28701,
+        "word": "比尔盖茨最新回应爱泼斯坦案",
+        "onboard_time": 1770829278,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 23446,
+        "num": 23446,
+        "word": "张函瑞跳自己的进行曲",
+        "onboard_time": 1770819743,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94823,
+        "num": 23399,
+        "word": "黄金",
+        "onboard_time": 1770819982,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 51508,
+        "num": 23287,
+        "word": "秦彻",
+        "onboard_time": 1770832455,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 51251,
+        "num": 23190,
+        "word": "郭麒麟 爸爸还是您不争气啊",
+        "onboard_time": 1770809540,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 36407,
+        "num": 23101,
+        "word": "长期积怨妻子疑用锅袭击丈夫致死",
+        "onboard_time": 1770825620,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28823,
+        "num": 23092,
+        "word": "周深忘词",
+        "onboard_time": 1770821361,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 25518,
+        "num": 22936,
+        "word": "英王室地产发现疑似涉爱泼斯坦案尸体",
+        "onboard_time": 1770812961,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 22928,
+        "num": 22928,
+        "word": "成何体统",
+        "onboard_time": 1770804499,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21507,
+        "num": 21507,
+        "word": "薛之谦歌曲被抄袭部分歌词被照搬",
+        "onboard_time": 1770821423,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 20365,
+        "num": 20365,
+        "word": "沈月晒春晚后台合照",
+        "onboard_time": 1770821242,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20156,
+        "num": 20156,
+        "word": "网球",
+        "onboard_time": 1770824242,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19874,
+        "num": 19874,
+        "word": "唐宫奇案之青雾风鸣",
+        "onboard_time": 1770831257,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19249,
+        "num": 19874,
+        "word": "时代少年团 麦克风",
+        "onboard_time": 1770825921,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19032,
+        "num": 19873,
+        "word": "网球直播",
+        "onboard_time": 1770830956,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18357,
+        "num": 19872,
+        "word": "警方回应2岁男童在家失踪超140天",
+        "onboard_time": 1770822919,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17954,
+        "num": 19870,
+        "word": "米兰冬奥会",
+        "onboard_time": 1770810080,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17455,
+        "num": 19870,
+        "word": "刘亦菲陈瑶 双虞姬",
+        "onboard_time": 1770817221,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 17445,
+        "num": 19868,
+        "word": "强迫症兔子每天为主人铺床",
+        "onboard_time": 1770825500,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 16967,
+        "num": 19867,
+        "word": "全国房价止跌信号出现",
+        "onboard_time": 1770805339,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16848,
+        "num": 19866,
+        "word": "陈哲远李一桐用一个麦",
+        "onboard_time": 1770818722,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16789,
+        "num": 19865,
+        "word": "何以琛今年50多岁了",
+        "onboard_time": 1770817762,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 16401,
+        "num": 19865,
+        "word": "米兰冬奥首位三金王诞生",
+        "onboard_time": 1770817701,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15635,
+        "num": 19863,
+        "word": "唐宫奇案",
+        "onboard_time": 1770831917,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14573,
+        "num": 19863,
+        "word": "卓沅鹭卓湘西二十四时",
+        "onboard_time": 1770837734,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14342,
+        "num": 19862,
+        "word": "权志龙Chanel",
+        "onboard_time": 1770814280,
+        "rank": 43,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 14293,
+        "num": 19861,
+        "word": "KPL春季赛",
+        "onboard_time": 1770809540,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 13874,
+        "num": 19860,
+        "word": "肖战粉丝已经在合肥吃上了",
+        "onboard_time": 1770818122,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13694,
+        "num": 19858,
+        "word": "刘宇抖中幡",
+        "onboard_time": 1770835575,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13313,
+        "num": 19857,
+        "word": "国家宝藏官宣田曦薇",
+        "onboard_time": 1770826340,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13186,
+        "num": 19857,
+        "word": "张博恒抽中特等奖好运爆棚",
+        "onboard_time": 1770835756,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12990,
+        "num": 19856,
+        "word": "李昀锐温柔版恭喜发财",
+        "onboard_time": 1770837556,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席春节前夕慰问部队#"
+    }
+  }
+}
