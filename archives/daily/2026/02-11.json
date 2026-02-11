@@ -1,10 +1,10 @@
 {
   "startTime": 1770743525576,
-  "endTime": 1770800364646,
+  "endTime": 1770801256106,
   "band_list": [
     {
       "raw_hot": 984549,
-      "num": 197943,
+      "num": 213730,
       "word": "爱泼斯坦羞辱性展示女孩视频曝光",
       "onboard_time": 1770792860,
       "rank": 10,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 791913,
-      "num": 193583,
+      "num": 206844,
       "word": "余茵否认模仿白鹿",
       "onboard_time": 1770793460,
       "rank": 17,
@@ -99,6 +99,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 627124,
+      "num": 1100339,
+      "word": "女子将敬酒服穿脏后焊接吊牌退货",
+      "onboard_time": 1770799280,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 606388,
       "num": 606388,
       "word": "姚安娜古装",
@@ -107,20 +115,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 595626,
+      "num": 1091815,
+      "word": "永辉超市CEO发全员信致歉",
+      "onboard_time": 1770796099,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 583117,
       "num": 583117,
       "word": "自曝出轨冬奥铜牌选手想挽回女友",
       "onboard_time": 1770792740,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 573844,
-      "num": 1091815,
-      "word": "永辉超市CEO发全员信致歉",
-      "onboard_time": 1770796099,
-      "rank": 39,
-      "category": "财经"
     },
     {
       "raw_hot": 573622,
@@ -145,6 +153,14 @@
       "onboard_time": 1770776059,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 535572,
+      "num": 535572,
+      "word": "王者荣耀杨玉环",
+      "onboard_time": 1770798799,
+      "rank": 3,
+      "category": "游戏"
     },
     {
       "raw_hot": 528420,
@@ -179,16 +195,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 472025,
-      "num": 472025,
-      "word": "王者荣耀杨玉环",
-      "onboard_time": 1770798799,
-      "rank": 3,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 469814,
-      "num": 177399,
+      "num": 198080,
       "word": "网红沐言感染合胞病毒",
       "onboard_time": 1770794780,
       "rank": 12,
@@ -355,6 +363,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 337906,
+      "num": 337906,
+      "word": "李一桐新剧空降第一",
+      "onboard_time": 1770797422,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 334794,
       "num": 197104,
       "word": "白菊邵云飞离婚",
@@ -371,6 +387,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 327480,
+      "num": 327480,
+      "word": "英国国王公开表态",
+      "onboard_time": 1770797241,
+      "rank": 8,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 326704,
       "num": 283349,
       "word": "杨紫都演妈妈了",
@@ -385,6 +409,14 @@
       "onboard_time": 1770738023,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 309998,
+      "num": 187492,
+      "word": "小区买房送黄金房价跌了住户却赚了",
+      "onboard_time": 1770796400,
+      "rank": 19,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 293617,
@@ -449,14 +481,6 @@
       "onboard_time": 1770733282,
       "rank": 22,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 259858,
-      "num": 210401,
-      "word": "英国国王公开表态",
-      "onboard_time": 1770797241,
-      "rank": 8,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 255193,
@@ -555,6 +579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 226751,
+      "num": 226751,
+      "word": "台当局胆敢在春节挑事必担恶果",
+      "onboard_time": 1770797060,
+      "rank": 26,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 222833,
       "num": 391466,
       "word": "短道队多人为孙龙发声",
@@ -563,28 +595,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 221140,
-      "num": 811315,
-      "word": "女子将敬酒服穿脏后焊接吊牌退货",
-      "onboard_time": 1770799280,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 219709,
       "num": 219709,
       "word": "长十火箭托举梦舟飞船点火升空",
       "onboard_time": 1770780140,
       "rank": 19,
       "category": "军事"
-    },
-    {
-      "raw_hot": 219681,
-      "num": 219681,
-      "word": "台当局胆敢在春节挑事必担恶果",
-      "onboard_time": 1770797060,
-      "rank": 26,
-      "category": "国内时政"
     },
     {
       "raw_hot": 218530,
@@ -667,14 +683,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 200427,
-      "num": 200427,
-      "word": "李一桐新剧空降第一",
-      "onboard_time": 1770797422,
-      "rank": 9,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 198678,
       "num": 175384,
       "word": "央视主持人怎么全面成这样了",
@@ -747,6 +755,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 175063,
+      "num": 175063,
+      "word": "陈星旭金枝雪夜撑伞路透",
+      "onboard_time": 1770800061,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 163697,
       "num": 163697,
       "word": "园长用录播冒充直播隐瞒小老虎死亡",
@@ -755,12 +771,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 156271,
+      "num": 148788,
+      "word": "吴京 以后可以明目张胆涂唇膏了",
+      "onboard_time": 1770799102,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 154343,
       "num": 135755,
       "word": "74岁肥猫被医生建议注射药物镇痛",
       "onboard_time": 1770729741,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 154241,
+      "num": 117976,
+      "word": "湖南卫视春晚节目单来了",
+      "onboard_time": 1770799401,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 151921,
@@ -803,6 +835,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 144664,
+      "num": 144664,
+      "word": "第一批到家的人已经开始送奶了",
+      "onboard_time": 1770799940,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 144288,
       "num": 144288,
       "word": "Seedance2.0模型",
@@ -833,14 +873,6 @@
       "onboard_time": 1770717980,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 140238,
-      "num": 132633,
-      "word": "吴京 以后可以明目张胆涂唇膏了",
-      "onboard_time": 1770799102,
-      "rank": 27,
-      "category": "电影"
     },
     {
       "raw_hot": 138990,
@@ -907,14 +939,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 132574,
-      "num": 132574,
-      "word": "陈星旭金枝雪夜撑伞路透",
-      "onboard_time": 1770800061,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 132340,
       "num": 132340,
       "word": "冬奥会多国要求运动员戴口罩",
@@ -955,20 +979,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 124527,
+      "num": 115719,
+      "word": "乔杉 王橹杰我懂你了",
+      "onboard_time": 1770797961,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 123374,
       "num": 123374,
       "word": "成何体统",
       "onboard_time": 1770722600,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 122696,
-      "num": 122696,
-      "word": "第一批到家的人已经开始送奶了",
-      "onboard_time": 1770799940,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 122064,
@@ -995,12 +1019,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 118104,
+      "num": 115486,
+      "word": "我将辞职在家研究苏醒这段话",
+      "onboard_time": 1770801201,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 117981,
       "num": 117981,
       "word": "花木兰新皮肤异界灵契",
       "onboard_time": 1770796939,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 117275,
+      "num": 117275,
+      "word": "女子举报初中老师性侵产子被起诉",
+      "onboard_time": 1770800840,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 116747,
@@ -1131,28 +1171,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 106409,
-      "num": 106409,
-      "word": "乔杉 王橹杰我懂你了",
-      "onboard_time": 1770797961,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 105729,
       "num": 105729,
       "word": "平手友梨奈结婚",
       "onboard_time": 1770764896,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 105502,
-      "num": 155629,
-      "word": "小区买房送黄金房价跌了住户却赚了",
-      "onboard_time": 1770796400,
-      "rank": 19,
-      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 103410,
@@ -1171,14 +1195,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 103324,
-      "num": 103324,
-      "word": "湖南卫视春晚节目单来了",
-      "onboard_time": 1770799401,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 102913,
       "num": 102913,
       "word": "穆祉丞楼外玩这么大",
@@ -1193,6 +1209,14 @@
       "onboard_time": 1770767179,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 101801,
+      "num": 102140,
+      "word": "竟然陪时代峰峻闹了这么久了",
+      "onboard_time": 1770799222,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 101578,
@@ -1259,14 +1283,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 98166,
-      "num": 102140,
-      "word": "竟然陪时代峰峻闹了这么久了",
-      "onboard_time": 1770799222,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 97415,
       "num": 97415,
       "word": "双高胎 鹅鸭杀",
@@ -1281,6 +1297,14 @@
       "onboard_time": 1770785359,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 95892,
+      "num": 95892,
+      "word": "喜欢侧睡的受害者出现了",
+      "onboard_time": 1770800660,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 95271,
@@ -1435,6 +1459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 82825,
+      "num": 82825,
+      "word": "还以为陈都灵给撒贝宁喂红薯",
+      "onboard_time": 1770800900,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 82296,
       "num": 82296,
       "word": "收到了最有用的年终奖",
@@ -1505,6 +1537,14 @@
       "onboard_time": 1770797841,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 79405,
+      "num": 79405,
+      "word": "中国人的年夜饭节目单",
+      "onboard_time": 1770801201,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 79274,
@@ -1625,6 +1665,14 @@
       "onboard_time": 1770767179,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 66387,
+      "num": 77673,
+      "word": "14岁男孩文身后遭异样眼光不敢上学",
+      "onboard_time": 1770801201,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 63332,
@@ -1907,6 +1955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 41804,
+      "num": 163139,
+      "word": "印尼一飞机遭枪击坠毁",
+      "onboard_time": 1770799940,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 41788,
       "num": 46806,
       "word": "小年",
@@ -2027,14 +2083,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 30089,
-      "num": 163139,
-      "word": "印尼一飞机遭枪击坠毁",
-      "onboard_time": 1770799940,
-      "rank": 19,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 28191,
       "num": 102944,
       "word": "陌生车辆交替伴行远嫁婚车",
@@ -2131,6 +2179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 19768,
+      "num": 620434,
+      "word": "坐高铁感受经济脉动",
+      "onboard_time": 1770800600,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19568,
       "num": 32919,
       "word": "瑞典兄妹组合冰壶混双夺金",
@@ -2145,6 +2201,22 @@
       "onboard_time": 1770754455,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 17669,
+      "num": 98206,
+      "word": "女护士被割喉案凶手至今未道歉",
+      "onboard_time": 1770800421,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17644,
+      "num": 98914,
+      "word": "张艺谋剧组 减肥训练营",
+      "onboard_time": 1770800421,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 16131,
