@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/02/13 00:01:40 ~ 2026/02/13 03:34:56
+本榜单时间：2026/02/13 00:01:40 ~ 2026/02/13 04:43:48
 </p>
 </blockquote>
 <p>
@@ -41,6 +41,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BA%9A%E8%BD%A9%E9%81%87%E5%88%B0%E4%BA%86%E6%9C%80%E6%87%82%E4%BB%96%E7%9A%84%E5%88%98%E8%80%80%E6%96%87%23" target="weibo">
 宋亚轩遇到了最懂他的刘耀文（热度：329320）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%AD%9D%E5%9F%88%E6%97%A0%E7%BC%98%E7%94%B7%E5%AD%901000%E7%B1%B3%E5%8D%8A%E5%86%B3%E8%B5%9B%23" target="weibo">
+林孝埈无缘男子1000米半决赛（热度：315136）
 </a>
 </li>
 
@@ -87,6 +93,18 @@ Deepseek被指变冷淡了（热度：298484）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9F%AD%E9%81%93%E9%80%9F%E6%BB%91%23" target="weibo">
+短道速滑（热度：220445）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%BB%E5%AD%90%E5%A8%81%20%E9%BB%84%E5%A4%A7%E5%AE%AA%E6%88%90%E5%8A%9F%E6%B7%98%E6%B1%B0%23" target="weibo">
+任子威 黄大宪成功淘汰（热度：209053）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2336%E5%B2%81%E4%BD%95%E7%A9%97%E7%8A%B6%E6%80%81%23" target="weibo">
 36岁何穗状态（热度：196860）
 </a>
@@ -125,6 +143,12 @@ Deepseek被指变冷淡了（热度：298484）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E8%A1%A3%E5%B8%BD%E9%97%B4%23" target="weibo">
 虞书欣衣帽间（热度：167879）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%B0%91%E6%98%82%E5%A5%BD%E7%A8%B3%23" target="weibo">
+刘少昂好稳（热度：166636）
 </a>
 </li>
 
@@ -189,6 +213,18 @@ Deepseek被指变冷淡了（热度：298484）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%86%AC%E5%A5%A5%E7%9F%AD%E9%81%93%E9%80%9F%E6%BB%91%E7%94%B7%E5%AD%901000%E7%B1%B3%23" target="weibo">
+冬奥短道速滑男子1000米（热度：108241）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%86%AC%E5%A5%A5%E7%9F%AD%E9%81%93%E9%80%9F%E6%BB%91%E5%A5%B3%E5%AD%90500%E7%B1%B3%23" target="weibo">
+冬奥短道速滑女子500米（热度：107618）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%B4%E5%B0%91%E6%9C%89%E4%B8%BA%23" target="weibo">
 年少有为（热度：104259）
 </a>
@@ -215,6 +251,12 @@ Deepseek被指变冷淡了（热度：298484）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%8D%95%E6%9D%BFU%E6%B1%A0%E5%86%B3%E8%B5%9B%23" target="weibo">
 女子单板U池决赛（热度：98928）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%B0%91%E6%98%821000%E7%B1%B3%E6%97%A0%E7%BC%98%E5%86%B3%E8%B5%9B%23" target="weibo">
+刘少昂1000米无缘决赛（热度：98550）
 </a>
 </li>
 
@@ -297,8 +339,20 @@ Deepseek被指变冷淡了（热度：298484）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%BE%99%E8%BF%9B1000%E7%B1%B3%E5%8D%8A%E5%86%B3%E8%B5%9B%23" target="weibo">
+孙龙进1000米半决赛（热度：64714）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%98%89%E7%A5%BA%E9%BB%91%E8%A5%BF%E8%A3%85live%23" target="weibo">
 马嘉祺黑西装live（热度：64648）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B4%94%E4%BD%B3%E6%81%A9%20%E6%84%9F%E6%83%85%E5%88%86%23" target="weibo">
+崔佳恩 感情分（热度：63558）
 </a>
 </li>
 
@@ -357,6 +411,12 @@ Deepseek被指变冷淡了（热度：298484）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%BE%991000%E7%B1%B3%E8%BF%9B%E5%86%B3%E8%B5%9B%23" target="weibo">
+孙龙1000米进决赛（热度：56829）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BA%9A%E8%BD%A9%20%E6%B2%A1%E6%9C%89%E4%BB%BB%E4%BD%95%E5%87%BB%E6%9D%80%E4%BD%86%E6%98%AFMVP%23" target="weibo">
 宋亚轩 没有任何击杀但是MVP（热度：55918）
 </a>
@@ -375,8 +435,32 @@ Deepseek被指变冷淡了（热度：298484）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8C%83%E5%8F%AF%E6%96%B0%E6%97%A0%E7%BC%98500%E7%B1%B3%E5%86%B3%E8%B5%9B%23" target="weibo">
+范可新无缘500米决赛（热度：41455）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%A5%9A%E6%A1%90%E7%8A%AF%E8%A7%84%23" target="weibo">
+张楚桐犯规（热度：40769）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%238%E5%B2%81%E5%B0%8F%E5%AD%A9%E5%A7%90%E5%BE%92%E6%AD%A5117%E5%85%AC%E9%87%8C%E5%9B%9E%E8%80%81%E5%AE%B6%23" target="weibo">
 8岁小孩姐徒步117公里回老家（热度：40046）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%A4%A7%E5%AE%AA%E7%8A%AF%E8%A7%84%E6%97%A0%E7%BC%98%E6%99%8B%E7%BA%A7%23" target="weibo">
+黄大宪犯规无缘晋级（热度：37870）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%B4%94%E4%BD%B3%E6%81%A9U%E6%B1%A0%E5%A4%BA%E5%86%A0%23" target="weibo">
+韩国崔佳恩U池夺冠（热度：37603）
 </a>
 </li>
 
@@ -411,6 +495,18 @@ Deepseek被指变冷淡了（热度：298484）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%B0%91%E6%98%82%E8%BF%9B1000%E7%B1%B3%E5%8D%8A%E5%86%B3%E8%B5%9B%23" target="weibo">
+刘少昂进1000米半决赛（热度：27184）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8C%83%E5%8F%AF%E6%96%B0%E6%99%8B%E7%BA%A7500%E7%B1%B3%E5%8D%8A%E5%86%B3%E8%B5%9B%23" target="weibo">
+范可新晋级500米半决赛（热度：26614）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%B1%B3%E5%85%B0%E5%86%AC%E5%A5%A5%E4%B8%AD%E5%9B%BD%E5%8D%95%E6%9D%BF%E5%8F%8C%E5%A7%9D%E9%80%90%E6%A2%A6%23" target="weibo">
 米兰冬奥中国单板双姝逐梦（热度：25295）
 </a>
@@ -419,6 +515,12 @@ Deepseek被指变冷淡了（热度：298484）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AD%A6%E7%BB%8D%E6%A1%90U%E6%B1%A0%E9%A6%96%E8%BD%AE67.75%E5%88%86%23" target="weibo">
 武绍桐U池首轮67.75分（热度：24609）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8C%83%E5%8F%AF%E6%96%B0%E7%BB%88%E7%82%B9%E5%86%B2%E5%88%BA%23" target="weibo">
+范可新终点冲刺（热度：23726）
 </a>
 </li>
 
@@ -435,20 +537,32 @@ Deepseek被指变冷淡了（热度：298484）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B4%94%E4%BD%B3%E6%81%A9%E6%91%94%E5%BE%97%E5%A5%BD%E9%87%8D%23" target="weibo">
+崔佳恩摔得好重（热度：20493）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E9%9B%AA%E6%A1%90%E7%AC%AC%E4%B8%80%E6%BB%9173%E5%88%86%23" target="weibo">
 蔡雪桐第一滑73分（热度：19949）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AD%A6%E7%BB%8D%E6%A1%90U%E6%B1%A0%E9%A6%96%E8%BD%AE%E9%A1%BA%E5%88%A9%E5%AE%8C%E6%88%90%23" target="weibo">
-武绍桐U池首轮顺利完成（热度：18607）
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%BB%E5%AD%90%E5%A8%81%E8%AF%B4%E8%A6%81%E5%BD%93%E5%BF%83%E9%9F%A9%E5%9B%BD%E9%80%89%E6%89%8B%23" target="weibo">
+任子威说要当心韩国选手（热度：19556）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%AA%E5%B9%B3%E5%B9%B4%E7%9C%8B%E5%93%AD%E4%BA%86%23" target="weibo">
-太平年看哭了（热度：17641）
+太平年看哭了（热度：19113）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AD%A6%E7%BB%8D%E6%A1%90U%E6%B1%A0%E9%A6%96%E8%BD%AE%E9%A1%BA%E5%88%A9%E5%AE%8C%E6%88%90%23" target="weibo">
+武绍桐U池首轮顺利完成（热度：18607）
 </a>
 </li>
 
@@ -479,12 +593,6 @@ Deepseek被指变冷淡了（热度：298484）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%AA%E5%B9%B3%E5%B9%B4%23" target="weibo">
 太平年（热度：14838）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BB%BB%E5%AD%90%E5%A8%81%E8%AF%B4%E8%A6%81%E5%BD%93%E5%BF%83%E9%9F%A9%E5%9B%BD%E9%80%89%E6%89%8B%23" target="weibo">
-任子威说要当心韩国选手（热度：14482）
 </a>
 </li>
 
