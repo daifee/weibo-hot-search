@@ -1,7 +1,15 @@
 {
   "startTime": 1770826438780,
-  "endTime": 1770866918587,
+  "endTime": 1770872729191,
   "band_list": [
+    {
+      "raw_hot": 1221534,
+      "num": 1221534,
+      "word": "男子用AI一夜赚够一线房首付",
+      "onboard_time": 1770869119,
+      "rank": 0,
+      "category": "民生新闻,互联网"
+    },
     {
       "raw_hot": 1042177,
       "num": 158744,
@@ -25,6 +33,14 @@
       "onboard_time": 1770855020,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 761592,
+      "num": 182769,
+      "word": "姐姐被藏尸位置就在弟弟店铺正上方",
+      "onboard_time": 1770870440,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 682779,
@@ -65,6 +81,14 @@
       "onboard_time": 1770863898,
       "rank": 7,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 578310,
+      "num": 289118,
+      "word": "相亲吃烤肉",
+      "onboard_time": 1770870139,
+      "rank": 5,
+      "category": "幽默"
     },
     {
       "raw_hot": 554547,
@@ -123,6 +147,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 430624,
+      "num": 856793,
+      "word": "2025年全国结婚登记676.3万对",
+      "onboard_time": 1770867741,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 410506,
+      "num": 410506,
+      "word": "陈妍希官宣喜综",
+      "onboard_time": 1770868399,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 404819,
       "num": 228041,
       "word": "男子称亲吻搂抱女子说不算恋爱",
@@ -179,12 +219,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 318947,
+      "num": 193477,
+      "word": "孙颖莎ELLE 6个封面",
+      "onboard_time": 1770868999,
+      "rank": 11,
+      "category": "体育,时尚"
+    },
+    {
       "raw_hot": 313911,
       "num": 547785,
       "word": "250桌婚宴52万嫌贵拒付款进展",
       "onboard_time": 1770824842,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 309089,
+      "num": 101483,
+      "word": "飞驰人生 全男班宣发",
+      "onboard_time": 1770870260,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 306228,
@@ -200,6 +256,38 @@
       "word": "沈梦辰体态",
       "onboard_time": 1770864140,
       "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 289419,
+      "num": 289419,
+      "word": "从Deepseek到Seedance中国AI成了",
+      "onboard_time": 1770870200,
+      "rank": 4,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 287101,
+      "num": 193046,
+      "word": "闵熙珍胜诉",
+      "onboard_time": 1770867622,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 284779,
+      "num": 192644,
+      "word": "当街摔死多只兔子摊贩被行拘5天",
+      "onboard_time": 1770867500,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 283713,
+      "num": 191993,
+      "word": "井柏然就这样静静等着刘雯",
+      "onboard_time": 1770871461,
+      "rank": 14,
       "category": "艺人"
     },
     {
@@ -257,6 +345,14 @@
       "onboard_time": 1770859999,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 250716,
+      "num": 250716,
+      "word": "李健 春晚",
+      "onboard_time": 1770866240,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 244774,
@@ -339,12 +435,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 194364,
+      "num": 194364,
+      "word": "法国3名婴儿因食用问题奶粉死亡",
+      "onboard_time": 1770867560,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 193836,
       "num": 193836,
       "word": "伊朗总统道歉",
       "onboard_time": 1770823941,
       "rank": 6,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 189284,
+      "num": 189284,
+      "word": "中国速滑米兰冬奥首枚奖牌",
+      "onboard_time": 1770866720,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 184552,
@@ -387,14 +499,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 180057,
-      "num": 180057,
-      "word": "李健 春晚",
-      "onboard_time": 1770866240,
-      "rank": 27,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 172704,
       "num": 190299,
       "word": "郑钦文vs莱巴金娜",
@@ -419,6 +523,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 159126,
+      "num": 159126,
+      "word": "长期侧睡对颜值的影响",
+      "onboard_time": 1770866179,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 158912,
       "num": 158912,
       "word": "以前的宠妃美貌都是这种级别",
@@ -433,6 +545,22 @@
       "onboard_time": 1770819743,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 157418,
+      "num": 157418,
+      "word": "马思纯王楚然 表妹长大了",
+      "onboard_time": 1770871880,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 152718,
+      "num": 152718,
+      "word": "人为什么要经常出去旅游",
+      "onboard_time": 1770871040,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 152493,
@@ -483,6 +611,38 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 143815,
+      "num": 143815,
+      "word": "杨紫白菊真变白局了",
+      "onboard_time": 1770871821,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 143482,
+      "num": 143482,
+      "word": "敖瑞鹏王玉雯和平精英cos",
+      "onboard_time": 1770868999,
+      "rank": 30,
+      "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 142199,
+      "num": 142199,
+      "word": "赫丽摸金宇",
+      "onboard_time": 1770869660,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 139547,
+      "num": 139547,
+      "word": "蔡徐坤Colder纪录片",
+      "onboard_time": 1770872360,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 138711,
       "num": 108130,
       "word": "长期积怨妻子疑用锅袭击丈夫致死",
@@ -505,14 +665,6 @@
       "onboard_time": 1770858499,
       "rank": 24,
       "category": "数码"
-    },
-    {
-      "raw_hot": 132823,
-      "num": 136463,
-      "word": "长期侧睡对颜值的影响",
-      "onboard_time": 1770866179,
-      "rank": 31,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 129524,
@@ -563,6 +715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 113956,
+      "num": 99262,
+      "word": "前妻回应陶白白爆火时飘了",
+      "onboard_time": 1770872360,
+      "rank": 42,
+      "category": "网红"
+    },
+    {
       "raw_hot": 113760,
       "num": 94741,
       "word": "强迫症兔子每天为主人铺床",
@@ -577,6 +737,14 @@
       "onboard_time": 1770832455,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 112474,
+      "num": 139618,
+      "word": "爸爸愣了一分钟才开始夸我",
+      "onboard_time": 1770871940,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 109717,
@@ -611,12 +779,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 103039,
+      "num": 103039,
+      "word": "TF四代新歌川渝春晚首秀",
+      "onboard_time": 1770871580,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 102097,
       "num": 102097,
       "word": "薛之谦歌曲被抄袭部分歌词被照搬",
       "onboard_time": 1770821423,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 99195,
+      "num": 99195,
+      "word": "美司法部长爱泼斯坦案听证会上发飙",
+      "onboard_time": 1770869479,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 98923,
@@ -633,6 +817,14 @@
       "onboard_time": 1770864379,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 97905,
+      "num": 97905,
+      "word": "猫 你最好赶紧给我删了",
+      "onboard_time": 1770872240,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 96660,
@@ -667,20 +859,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 93472,
+      "num": 93472,
+      "word": "iPhone18Pro再爆料",
+      "onboard_time": 1770871580,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 91786,
+      "num": 91786,
+      "word": "Knight说自己收到病危通知书",
+      "onboard_time": 1770872301,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 90463,
+      "num": 90463,
+      "word": "郑嘉颖现在比九子夺嫡的时候还累",
+      "onboard_time": 1770870921,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 90192,
       "num": 90192,
       "word": "年少有为",
       "onboard_time": 1770859222,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 89714,
-      "num": 89714,
-      "word": "中国速滑米兰冬奥首枚奖牌",
-      "onboard_time": 1770866720,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 88781,
@@ -785,6 +993,14 @@
       "onboard_time": 1770811520,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 80740,
+      "num": 190108,
+      "word": "爱泼斯坦最神秘女友身份曝光",
+      "onboard_time": 1770872059,
+      "rank": 18,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 79286,
@@ -1099,6 +1315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 43637,
+      "num": 100589,
+      "word": "极氪8X启动车企首次环中国路测",
+      "onboard_time": 1770868222,
+      "rank": 41,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 43606,
       "num": 43606,
       "word": "中国队员面带鲜血过终点线",
@@ -1155,6 +1379,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 33750,
+      "num": 102350,
+      "word": "受害者称被爱泼斯坦要求多人性活动",
+      "onboard_time": 1770872059,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 32481,
+      "num": 705000,
+      "word": "中国人离登月又近了一步",
+      "onboard_time": 1770871821,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31406,
+      "num": 189399,
+      "word": "千克黄金跑赢一套房",
+      "onboard_time": 1770871699,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30169,
       "num": 36609,
       "word": "网球直播",
@@ -1201,6 +1449,14 @@
       "onboard_time": 1770829517,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 23465,
+      "num": 101733,
+      "word": "美媒爆料特朗普正考虑退群",
+      "onboard_time": 1770871641,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 21779,
@@ -1337,6 +1593,9 @@
     },
     {
       "word": "#习近平向党外人士致以新春祝福#"
+    },
+    {
+      "word": "#总书记在十五五开局之年的首次考察#"
     }
   ]
 }
