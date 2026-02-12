@@ -1,6 +1,6 @@
 {
   "startTime": 1770826438780,
-  "endTime": 1770896851658,
+  "endTime": 1770897752100,
   "band_list": [
     {
       "raw_hot": 1793500,
@@ -235,6 +235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 470820,
+      "num": 470820,
+      "word": "纸质文件",
+      "onboard_time": 1770896239,
+      "rank": 3,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 459644,
       "num": 825949,
       "word": "谷爱凌不是输给第一名的第二名",
@@ -257,6 +265,14 @@
       "onboard_time": 1770854540,
       "rank": 20,
       "category": "艺人,健康医疗"
+    },
+    {
+      "raw_hot": 449522,
+      "num": 177217,
+      "word": "成龙把掉地上的口香糖捡起来吃了",
+      "onboard_time": 1770893420,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 446069,
@@ -289,6 +305,14 @@
       "onboard_time": 1770886281,
       "rank": 27,
       "category": "网红"
+    },
+    {
+      "raw_hot": 418326,
+      "num": 172530,
+      "word": "高市早苗或将释放三大恶魔",
+      "onboard_time": 1770892639,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 410506,
@@ -396,7 +420,7 @@
     },
     {
       "raw_hot": 322080,
-      "num": 148889,
+      "num": 170244,
       "word": "张凌赫粉丝爬半天山拍了三遍林允",
       "onboard_time": 1770893719,
       "rank": 37,
@@ -489,14 +513,6 @@
       "onboard_time": 1770870200,
       "rank": 4,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 295206,
-      "num": 169973,
-      "word": "高市早苗或将释放三大恶魔",
-      "onboard_time": 1770892639,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 287101,
@@ -683,14 +699,6 @@
       "category": "音乐,电竞"
     },
     {
-      "raw_hot": 228494,
-      "num": 228494,
-      "word": "纸质文件",
-      "onboard_time": 1770896239,
-      "rank": 3,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 225291,
       "num": 211185,
       "word": "沈阳暴风雨温泉洗浴",
@@ -705,6 +713,30 @@
       "onboard_time": 1770859222,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 223951,
+      "num": 165779,
+      "word": "可是妈妈何炅不是别的黄毛",
+      "onboard_time": 1770895280,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 220397,
+      "num": 161711,
+      "word": "母亲花6万为智力残障儿子娶外籍妻子",
+      "onboard_time": 1770896420,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 216501,
+      "num": 161620,
+      "word": "30岁男子没买车父母不愿出门拜年",
+      "onboard_time": 1770894443,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 216160,
@@ -739,6 +771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 209378,
+      "num": 209378,
+      "word": "庾晚音 北京是个小县城",
+      "onboard_time": 1770895520,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 207538,
       "num": 204083,
       "word": "时代少年团你们吵到陈都灵了",
@@ -753,6 +793,22 @@
       "onboard_time": 1770865280,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 204723,
+      "num": 160262,
+      "word": "小伙3万彩礼3万首饰娶埃及姑娘",
+      "onboard_time": 1770894680,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 201963,
+      "num": 209134,
+      "word": "成何体统",
+      "onboard_time": 1770804499,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 196814,
@@ -780,7 +836,7 @@
     },
     {
       "raw_hot": 194572,
-      "num": 140726,
+      "num": 156963,
       "word": "鞠婧祎做了雪花玫瑰花",
       "onboard_time": 1770895401,
       "rank": 30,
@@ -859,14 +915,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 181621,
-      "num": 209134,
-      "word": "成何体统",
-      "onboard_time": 1770804499,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 181154,
       "num": 181154,
       "word": "沈梦辰换了10套少数民族服装",
@@ -899,20 +947,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 176000,
-      "num": 176000,
-      "word": "成龙把掉地上的口香糖捡起来吃了",
-      "onboard_time": 1770893420,
-      "rank": 38,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 175597,
-      "num": 142841,
-      "word": "小伙3万彩礼3万首饰娶埃及姑娘",
-      "onboard_time": 1770894680,
-      "rank": 43,
-      "category": "民生新闻"
+      "raw_hot": 178799,
+      "num": 187294,
+      "word": "钢架雪车",
+      "onboard_time": 1770893601,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 172704,
@@ -947,14 +987,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 163751,
-      "num": 163751,
-      "word": "可是妈妈何炅不是别的黄毛",
-      "onboard_time": 1770895280,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 163570,
       "num": 244419,
       "word": "上海地铁嘉闵线发生局部渗漏",
@@ -971,20 +1003,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 161449,
-      "num": 161449,
-      "word": "30岁男子没买车父母不愿出门拜年",
-      "onboard_time": 1770894443,
-      "rank": 39,
+      "raw_hot": 160016,
+      "num": 160016,
+      "word": "男子就医喊饿竟是全身血液已近流干",
+      "onboard_time": 1770897201,
+      "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 161309,
-      "num": 175509,
-      "word": "庾晚音 北京是个小县城",
-      "onboard_time": 1770895520,
-      "rank": 9,
-      "category": "剧集"
     },
     {
       "raw_hot": 159126,
@@ -1051,6 +1075,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 148934,
+      "num": 148934,
+      "word": "时代少年团跳大绳",
+      "onboard_time": 1770896480,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 148512,
       "num": 148512,
       "word": "林孝埈刘少昂孙龙出战1000米",
@@ -1113,14 +1145,6 @@
       "onboard_time": 1770869660,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 141443,
-      "num": 187294,
-      "word": "钢架雪车",
-      "onboard_time": 1770893601,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 141254,
@@ -1187,20 +1211,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 132205,
-      "num": 132205,
-      "word": "母亲花6万为智力残障儿子娶外籍妻子",
-      "onboard_time": 1770896420,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 129772,
       "num": 242528,
       "word": "爱泼斯坦偷拍潜在受害者视频曝光",
       "onboard_time": 1770887001,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 129602,
+      "num": 129602,
+      "word": "肖战宝诗龙巨幅地广墙",
+      "onboard_time": 1770896660,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 129524,
@@ -1331,14 +1355,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 113264,
-      "num": 113264,
-      "word": "时代少年团跳大绳",
-      "onboard_time": 1770896480,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 113160,
       "num": 113160,
       "word": "一诺主持全明星表演赛",
@@ -1361,6 +1377,14 @@
       "onboard_time": 1770863898,
       "rank": 26,
       "category": "财经"
+    },
+    {
+      "raw_hot": 107767,
+      "num": 96934,
+      "word": "曝惊蛰无声发行方强制影院排片",
+      "onboard_time": 1770896900,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 107597,
@@ -1539,14 +1563,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 96127,
-      "num": 96127,
-      "word": "肖战宝诗龙巨幅地广墙",
-      "onboard_time": 1770896660,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 95735,
       "num": 180205,
       "word": "中方提要求立陶宛新总理称能改",
@@ -1624,6 +1640,14 @@
       "word": "这不是陪床这是解药",
       "onboard_time": 1770892280,
       "rank": 41,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 92369,
+      "num": 92369,
+      "word": "最亲密的关系是分享视频会员",
+      "onboard_time": 1770897500,
+      "rank": 49,
       "category": "情感"
     },
     {
@@ -1924,7 +1948,7 @@
     },
     {
       "raw_hot": 76679,
-      "num": 161079,
+      "num": 168857,
       "word": "王者新春AppStore有礼",
       "onboard_time": 1770895820,
       "rank": 18,
@@ -1987,12 +2011,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 72646,
+      "num": 157888,
+      "word": "人民币对美元汇率升破6.9",
+      "onboard_time": 1770897322,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
       "raw_hot": 72505,
       "num": 72505,
       "word": "刘佳宇现场救治近10分钟",
       "onboard_time": 1770818722,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 72127,
+      "num": 160123,
+      "word": "央行将开展10000亿逆回购操作",
+      "onboard_time": 1770895280,
+      "rank": 32,
+      "category": "财经"
     },
     {
       "raw_hot": 70938,
@@ -2113,6 +2153,14 @@
       "onboard_time": 1770824302,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 61732,
+      "num": 166448,
+      "word": "杜甫遇上Seedance2.0",
+      "onboard_time": 1770897322,
+      "rank": 19,
+      "category": "互联网"
     },
     {
       "raw_hot": 61298,
@@ -2347,6 +2395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 41040,
+      "num": 164696,
+      "word": "六家人合建的农村自建房像所学校",
+      "onboard_time": 1770897381,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40286,
       "num": 40286,
       "word": "宁忠岩苦等15分钟圆梦速滑铜牌",
@@ -2411,6 +2467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 33457,
+      "num": 149264,
+      "word": "女子称收养2000只猫狗欠医院几十万",
+      "onboard_time": 1770897620,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33006,
       "num": 705000,
       "word": "中国人离登月又近了一步",
@@ -2451,20 +2515,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 27689,
+      "num": 159352,
+      "word": "救人英雄栾留伟曾说让店门口排长队",
+      "onboard_time": 1770896120,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27506,
+      "num": 209827,
+      "word": "马年本命年攻略",
+      "onboard_time": 1770894080,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27460,
       "num": 29739,
       "word": "TF家族五代练习生吕政熙 宜宾春晚",
       "onboard_time": 1770831017,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 26125,
-      "num": 209827,
-      "word": "马年本命年攻略",
-      "onboard_time": 1770894080,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 25829,
@@ -2481,6 +2553,14 @@
       "onboard_time": 1770831917,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 24776,
+      "num": 148979,
+      "word": "日本军备70年三连跳",
+      "onboard_time": 1770896841,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 24639,
@@ -2603,6 +2683,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 16009,
+      "num": 149648,
+      "word": "想在丈母娘家表现劈柴失误致骨折",
+      "onboard_time": 1770897620,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 15883,
       "num": 25679,
       "word": "廉子文回应被取消成绩",
@@ -2617,14 +2705,6 @@
       "onboard_time": 1770835756,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 14988,
-      "num": 159352,
-      "word": "救人英雄栾留伟曾说让店门口排长队",
-      "onboard_time": 1770896120,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 14734,

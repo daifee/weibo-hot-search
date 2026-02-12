@@ -1,0 +1,410 @@
+{
+  "runTime": 1770897752100,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 377717,
+        "num": 1060434,
+        "word": "车厘子卖家赌涨价压货",
+        "onboard_time": 1770887359,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 253534,
+        "num": 759497,
+        "word": "谷爱凌不是输给第一名的第二名",
+        "onboard_time": 1770883161,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 11767,
+        "num": 632586,
+        "word": "过年的仪式感从赶大集开始",
+        "onboard_time": 1770888801,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 470820,
+        "num": 470820,
+        "word": "纸质文件",
+        "onboard_time": 1770896239,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 209378,
+        "num": 209378,
+        "word": "庾晚音 北京是个小县城",
+        "onboard_time": 1770895520,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 486525,
+        "num": 206214,
+        "word": "第一次看到一箱草莓毫无食欲",
+        "onboard_time": 1770887600,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 201963,
+        "num": 201963,
+        "word": "成何体统",
+        "onboard_time": 1770891259,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178799,
+        "num": 178799,
+        "word": "钢架雪车",
+        "onboard_time": 1770893601,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120087,
+        "num": 178476,
+        "word": "中戏表演系原主任陈刚主动投案",
+        "onboard_time": 1770885081,
+        "rank": 8,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 449522,
+        "num": 177217,
+        "word": "成龙把掉地上的口香糖捡起来吃了",
+        "onboard_time": 1770893420,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 939620,
+        "num": 175826,
+        "word": "张馨予 你很有钱是吗",
+        "onboard_time": 1770881719,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28850,
+        "num": 175194,
+        "word": "严厉打击无AI标识虚假不实信息",
+        "onboard_time": 1770892999,
+        "rank": 11,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 848217,
+        "num": 173634,
+        "word": "王者荣耀马年全明星表演赛",
+        "onboard_time": 1770891981,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 418326,
+        "num": 172530,
+        "word": "高市早苗或将释放三大恶魔",
+        "onboard_time": 1770892639,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 388102,
+        "num": 172251,
+        "word": "蒋欣 当年真的错怪你了",
+        "onboard_time": 1770880820,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 292027,
+        "num": 170244,
+        "word": "张凌赫粉丝爬半天山拍了三遍林允",
+        "onboard_time": 1770893719,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269962,
+        "num": 170097,
+        "word": "团购12箱车厘子收到陈年僵尸果",
+        "onboard_time": 1770883820,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69271,
+        "num": 168857,
+        "word": "王者新春AppStore有礼",
+        "onboard_time": 1770895820,
+        "rank": 17,
+        "category": "游戏,数码"
+      },
+      {
+        "raw_hot": 271077,
+        "num": 167502,
+        "word": "杨幂校花学姐",
+        "onboard_time": 1770890959,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61732,
+        "num": 166448,
+        "word": "杜甫遇上Seedance2.0",
+        "onboard_time": 1770897322,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 223951,
+        "num": 165779,
+        "word": "可是妈妈何炅不是别的黄毛",
+        "onboard_time": 1770895280,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 41040,
+        "num": 164696,
+        "word": "六家人合建的农村自建房像所学校",
+        "onboard_time": 1770897381,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27506,
+        "num": 163161,
+        "word": "马年本命年攻略",
+        "onboard_time": 1770894080,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 220397,
+        "num": 161711,
+        "word": "母亲花6万为智力残障儿子娶外籍妻子",
+        "onboard_time": 1770896420,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216501,
+        "num": 161620,
+        "word": "30岁男子没买车父母不愿出门拜年",
+        "onboard_time": 1770894443,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160590,
+        "num": 160590,
+        "word": "第一批回村的人已经出片了",
+        "onboard_time": 1770888140,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 310821,
+        "num": 160565,
+        "word": "男子性侵前妻闺蜜被判10年8个月",
+        "onboard_time": 1770885380,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 261686,
+        "num": 160510,
+        "word": "姐姐被藏尸位置就在弟弟店铺正上方",
+        "onboard_time": 1770870440,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218738,
+        "num": 160403,
+        "word": "年少有为",
+        "onboard_time": 1770893902,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102386,
+        "num": 160312,
+        "word": "孙颖莎头像挂件换成了皇冠",
+        "onboard_time": 1770889041,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204723,
+        "num": 160262,
+        "word": "小伙3万彩礼3万首饰娶埃及姑娘",
+        "onboard_time": 1770894680,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185414,
+        "num": 160205,
+        "word": "20岁邓恩熙演30岁蒋龙的妈",
+        "onboard_time": 1770889280,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72127,
+        "num": 160123,
+        "word": "央行将开展10000亿逆回购操作",
+        "onboard_time": 1770895280,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 177406,
+        "num": 160084,
+        "word": "无畏支持蔡徐坤新歌",
+        "onboard_time": 1770892220,
+        "rank": 33,
+        "category": "音乐,电竞"
+      },
+      {
+        "raw_hot": 160016,
+        "num": 160016,
+        "word": "男子就医喊饿竟是全身血液已近流干",
+        "onboard_time": 1770897201,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72646,
+        "num": 157888,
+        "word": "人民币对美元汇率升破6.9",
+        "onboard_time": 1770897322,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 156963,
+        "num": 156963,
+        "word": "鞠婧祎做了雪花玫瑰花",
+        "onboard_time": 1770895401,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16009,
+        "num": 149648,
+        "word": "想在丈母娘家表现劈柴失误致骨折",
+        "onboard_time": 1770897620,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33457,
+        "num": 149264,
+        "word": "女子称收养2000只猫狗欠医院几十万",
+        "onboard_time": 1770897620,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24776,
+        "num": 148979,
+        "word": "日本军备70年三连跳",
+        "onboard_time": 1770896841,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 148934,
+        "num": 148934,
+        "word": "时代少年团跳大绳",
+        "onboard_time": 1770896480,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129602,
+        "num": 129602,
+        "word": "肖战宝诗龙巨幅地广墙",
+        "onboard_time": 1770896660,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93285,
+        "num": 101958,
+        "word": "沈阳暴风雨温泉洗浴",
+        "onboard_time": 1770888499,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 97670,
+        "num": 97670,
+        "word": "立威廉 短剧应该只能用手机看吧",
+        "onboard_time": 1770894620,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107767,
+        "num": 96934,
+        "word": "曝惊蛰无声发行方强制影院排片",
+        "onboard_time": 1770896900,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 95374,
+        "num": 95374,
+        "word": "舌头翘一翘身体好坏都知道",
+        "onboard_time": 1770892461,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 27689,
+        "num": 95168,
+        "word": "救人英雄栾留伟曾说让店门口排长队",
+        "onboard_time": 1770896120,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96010,
+        "num": 95160,
+        "word": "时代少年团你们吵到陈都灵了",
+        "onboard_time": 1770887421,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95080,
+        "num": 95080,
+        "word": "程潇 我只眼神给出去",
+        "onboard_time": 1770892520,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92369,
+        "num": 92369,
+        "word": "最亲密的关系是分享视频会员",
+        "onboard_time": 1770897500,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#支持广大科研人员勇攀科学高峰#"
+    }
+  }
+}
