@@ -1,0 +1,410 @@
+{
+  "runTime": 1770883542808,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 457709,
+        "num": 1073233,
+        "word": "王莉霞严重违纪违法被双开",
+        "onboard_time": 1770876799,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 367154,
+        "num": 796543,
+        "word": "霉变车厘子毒性可达砒霜68倍",
+        "onboard_time": 1770879919,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30566,
+        "num": 622881,
+        "word": "中国人离登月又近了一步",
+        "onboard_time": 1770871821,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222777,
+        "num": 222777,
+        "word": "钟南山院士说会用证据让全世界服气",
+        "onboard_time": 1770874640,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192936,
+        "num": 192936,
+        "word": "从Deepseek到Seedance中国AI成了",
+        "onboard_time": 1770870200,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 239063,
+        "num": 192448,
+        "word": "相亲吃烤肉",
+        "onboard_time": 1770870139,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 191361,
+        "num": 191361,
+        "word": "为什么奶茶封口还要盖盖子",
+        "onboard_time": 1770874160,
+        "rank": 6,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 187744,
+        "num": 187744,
+        "word": "荷兰选手回应与廉子文碰撞",
+        "onboard_time": 1770877880,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141745,
+        "num": 141745,
+        "word": "杭州有一趟永不发车的列车",
+        "onboard_time": 1770873560,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55407,
+        "num": 141744,
+        "word": "整治AI生成鸡汤网文霸总爽剧",
+        "onboard_time": 1770882980,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1182115,
+        "num": 141700,
+        "word": "张馨予 你很有钱是吗",
+        "onboard_time": 1770881719,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 576240,
+        "num": 141675,
+        "word": "12306新增低人一等座提醒",
+        "onboard_time": 1770880759,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1127424,
+        "num": 141668,
+        "word": "蒋欣 当年真的错怪你了",
+        "onboard_time": 1770880820,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 499310,
+        "num": 141645,
+        "word": "孙颖莎ELLE 6个封面",
+        "onboard_time": 1770868999,
+        "rank": 13,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 402975,
+        "num": 141605,
+        "word": "孙颖莎ELLE",
+        "onboard_time": 1770866479,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 356254,
+        "num": 141590,
+        "word": "李一桐发了49999的红包",
+        "onboard_time": 1770855020,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 334023,
+        "num": 141558,
+        "word": "ILLIT NewJeans",
+        "onboard_time": 1770875480,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199671,
+        "num": 141539,
+        "word": "微博红包",
+        "onboard_time": 1770863898,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 45584,
+        "num": 141509,
+        "word": "反向压岁钱金额远高于压岁钱",
+        "onboard_time": 1770882980,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17462,
+        "num": 141489,
+        "word": "香港女新闻主播转型成为警界总督察",
+        "onboard_time": 1770882980,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 688431,
+        "num": 141450,
+        "word": "姐姐被藏尸位置就在弟弟店铺正上方",
+        "onboard_time": 1770870440,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 304303,
+        "num": 141431,
+        "word": "赵樱子do高颅顶",
+        "onboard_time": 1770873080,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248890,
+        "num": 141423,
+        "word": "韩国粉丝喊话陈哲远必须演现偶",
+        "onboard_time": 1770879079,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207956,
+        "num": 141391,
+        "word": "二胎妈妈跪求丈夫离婚放过自己",
+        "onboard_time": 1770874341,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211089,
+        "num": 141357,
+        "word": "宋威龙晒被赵今麦扯开的领带",
+        "onboard_time": 1770872841,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168663,
+        "num": 141348,
+        "word": "孙颖莎 E人的I人属性",
+        "onboard_time": 1770869599,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151410,
+        "num": 141305,
+        "word": "医生建议刷牙后先别漱口",
+        "onboard_time": 1770875900,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 146941,
+        "num": 141282,
+        "word": "TFBOYS 你永远比别人多两个观众",
+        "onboard_time": 1770882920,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146544,
+        "num": 141270,
+        "word": "建议把前额叶纳入择偶标准",
+        "onboard_time": 1770879680,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 141254,
+        "num": 141254,
+        "word": "安徽一小伙迎娶00后埃及女生",
+        "onboard_time": 1770878780,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140207,
+        "num": 140207,
+        "word": "妈妈做了一桌预制菜年夜饭",
+        "onboard_time": 1770880759,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 139552,
+        "num": 139552,
+        "word": "辛芷蕾倪妮高叶 火象三人组",
+        "onboard_time": 1770877399,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139450,
+        "num": 139450,
+        "word": "七莘路",
+        "onboard_time": 1770879619,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135836,
+        "num": 135836,
+        "word": "谁懂刘亦菲脸的对称度",
+        "onboard_time": 1770874759,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125471,
+        "num": 125471,
+        "word": "年前和年后的美甲店",
+        "onboard_time": 1770880220,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 122632,
+        "num": 122632,
+        "word": "张婧仪 别乱说我没多大",
+        "onboard_time": 1770881479,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111449,
+        "num": 111449,
+        "word": "谷爱凌不是输给第一名的第二名",
+        "onboard_time": 1770883161,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108812,
+        "num": 108812,
+        "word": "李一桐 我比张凌赫强是吧",
+        "onboard_time": 1770883040,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36852,
+        "num": 103449,
+        "word": "张小斐不认识星黛露",
+        "onboard_time": 1770882620,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34712,
+        "num": 101366,
+        "word": "领导年会喝酒倒地同事跪地哭求救人",
+        "onboard_time": 1770883461,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99744,
+        "num": 99744,
+        "word": "时团粉丝年底没钱就退款",
+        "onboard_time": 1770880519,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98204,
+        "num": 98204,
+        "word": "上海地铁嘉闵线发生局部渗漏",
+        "onboard_time": 1770881660,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97148,
+        "num": 97148,
+        "word": "比特币24小时近15万人爆仓",
+        "onboard_time": 1770883161,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 96315,
+        "num": 96315,
+        "word": "国乒拉练",
+        "onboard_time": 1770883220,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95340,
+        "num": 95340,
+        "word": "2025年全国结婚登记676.3万对",
+        "onboard_time": 1770867741,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91155,
+        "num": 91155,
+        "word": "第五人格",
+        "onboard_time": 1770882141,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 87831,
+        "num": 87831,
+        "word": "两名小孩扔爆竹致1200年古树起火",
+        "onboard_time": 1770860600,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85476,
+        "num": 85476,
+        "word": "前妻回应陶白白爆火时飘了",
+        "onboard_time": 1770872360,
+        "rank": 47,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 82547,
+        "num": 82547,
+        "word": "长期侧睡对颜值的影响",
+        "onboard_time": 1770866179,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 75485,
+        "num": 75485,
+        "word": "蔡徐坤Colder纪录片",
+        "onboard_time": 1770872360,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记在十五五开局之年的首次考察#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1770826438780,
-  "endTime": 1770880315909,
+  "endTime": 1770883542808,
   "band_list": [
     {
       "raw_hot": 1221534,
@@ -17,6 +17,22 @@
       "onboard_time": 1770870440,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1182115,
+      "num": 141700,
+      "word": "张馨予 你很有钱是吗",
+      "onboard_time": 1770881719,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1127424,
+      "num": 141668,
+      "word": "蒋欣 当年真的错怪你了",
+      "onboard_time": 1770880820,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 1042177,
@@ -99,6 +115,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 576240,
+      "num": 141675,
+      "word": "12306新增低人一等座提醒",
+      "onboard_time": 1770880759,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 564709,
       "num": 1090353,
       "word": "钟南山院士说会用证据让全世界服气",
@@ -145,6 +169,14 @@
       "onboard_time": 1770875480,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 499310,
+      "num": 193477,
+      "word": "孙颖莎ELLE 6个封面",
+      "onboard_time": 1770868999,
+      "rank": 11,
+      "category": "体育,时尚"
     },
     {
       "raw_hot": 477357,
@@ -235,6 +267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 367154,
+      "num": 796543,
+      "word": "霉变车厘子毒性可达砒霜68倍",
+      "onboard_time": 1770879919,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 350932,
       "num": 350932,
       "word": "春节中国赴日旅客量腰斩了",
@@ -273,14 +313,6 @@
       "onboard_time": 1770858920,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 318947,
-      "num": 193477,
-      "word": "孙颖莎ELLE 6个封面",
-      "onboard_time": 1770868999,
-      "rank": 11,
-      "category": "体育,时尚"
     },
     {
       "raw_hot": 313911,
@@ -332,7 +364,7 @@
     },
     {
       "raw_hot": 301249,
-      "num": 140187,
+      "num": 141391,
       "word": "二胎妈妈跪求丈夫离婚放过自己",
       "onboard_time": 1770874341,
       "rank": 21,
@@ -364,7 +396,7 @@
     },
     {
       "raw_hot": 277385,
-      "num": 140510,
+      "num": 141305,
       "word": "医生建议刷牙后先别漱口",
       "onboard_time": 1770875900,
       "rank": 22,
@@ -441,6 +473,14 @@
       "onboard_time": 1770876380,
       "rank": 8,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 248890,
+      "num": 141423,
+      "word": "韩国粉丝喊话陈哲远必须演现偶",
+      "onboard_time": 1770879079,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 244774,
@@ -547,11 +587,27 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 191361,
+      "num": 191361,
+      "word": "为什么奶茶封口还要盖盖子",
+      "onboard_time": 1770874160,
+      "rank": 32,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 189284,
       "num": 189284,
       "word": "中国速滑米兰冬奥首枚奖牌",
       "onboard_time": 1770866720,
       "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 187744,
+      "num": 187744,
+      "word": "荷兰选手回应与廉子文碰撞",
+      "onboard_time": 1770877880,
+      "rank": 9,
       "category": "体育"
     },
     {
@@ -611,20 +667,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 168663,
+      "num": 141348,
+      "word": "孙颖莎 E人的I人属性",
+      "onboard_time": 1770869599,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 168592,
       "num": 157948,
       "word": "陈哲远李一桐用一个麦",
       "onboard_time": 1770818722,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 161852,
-      "num": 174344,
-      "word": "荷兰选手回应与廉子文碰撞",
-      "onboard_time": 1770877880,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 161612,
@@ -715,6 +771,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 146941,
+      "num": 141282,
+      "word": "TFBOYS 你永远比别人多两个观众",
+      "onboard_time": 1770882920,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 146544,
+      "num": 141270,
+      "word": "建议把前额叶纳入择偶标准",
+      "onboard_time": 1770879680,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 143815,
       "num": 143815,
       "word": "杨紫白菊真变白局了",
@@ -739,12 +811,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 141198,
-      "num": 117627,
-      "word": "韩国粉丝喊话陈哲远必须演现偶",
-      "onboard_time": 1770879079,
-      "rank": 27,
-      "category": "艺人"
+      "raw_hot": 141254,
+      "num": 141254,
+      "word": "安徽一小伙迎娶00后埃及女生",
+      "onboard_time": 1770878780,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 140207,
+      "num": 140207,
+      "word": "妈妈做了一桌预制菜年夜饭",
+      "onboard_time": 1770880759,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 139890,
@@ -761,6 +841,14 @@
       "onboard_time": 1770872360,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 139450,
+      "num": 139450,
+      "word": "七莘路",
+      "onboard_time": 1770879619,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 138711,
@@ -795,14 +883,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 132481,
-      "num": 132481,
-      "word": "安徽一小伙迎娶00后埃及女生",
-      "onboard_time": 1770878780,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 129524,
       "num": 47348,
       "word": "宁忠岩将冲击冬奥奖牌",
@@ -811,11 +891,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 127095,
-      "num": 101680,
-      "word": "建议把前额叶纳入择偶标准",
-      "onboard_time": 1770879680,
-      "rank": 30,
+      "raw_hot": 125471,
+      "num": 125471,
+      "word": "年前和年后的美甲店",
+      "onboard_time": 1770880220,
+      "rank": 48,
       "category": "幽默"
     },
     {
@@ -841,6 +921,14 @@
       "onboard_time": 1770872059,
       "rank": 18,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 122632,
+      "num": 122632,
+      "word": "张婧仪 别乱说我没多大",
+      "onboard_time": 1770881479,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 121592,
@@ -899,12 +987,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 111449,
+      "num": 111449,
+      "word": "谷爱凌不是输给第一名的第二名",
+      "onboard_time": 1770883161,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 109717,
       "num": 109717,
       "word": "韩国股民疯抢中国大模型龙头",
       "onboard_time": 1770863898,
       "rank": 26,
       "category": "财经"
+    },
+    {
+      "raw_hot": 108812,
+      "num": 108812,
+      "word": "李一桐 我比张凌赫强是吧",
+      "onboard_time": 1770883040,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 107597,
@@ -921,14 +1025,6 @@
       "onboard_time": 1770872301,
       "rank": 47,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 106490,
-      "num": 106490,
-      "word": "为什么奶茶封口还要盖盖子",
-      "onboard_time": 1770874160,
-      "rank": 32,
-      "category": "科学科普"
     },
     {
       "raw_hot": 106052,
@@ -955,20 +1051,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 102224,
-      "num": 102224,
-      "word": "霉变车厘子毒性可达砒霜68倍",
-      "onboard_time": 1770879919,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 102097,
       "num": 102097,
       "word": "薛之谦歌曲被抄袭部分歌词被照搬",
       "onboard_time": 1770821423,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 99744,
+      "num": 99744,
+      "word": "时团粉丝年底没钱就退款",
+      "onboard_time": 1770880519,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 99225,
@@ -995,6 +1091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 98204,
+      "num": 98204,
+      "word": "上海地铁嘉闵线发生局部渗漏",
+      "onboard_time": 1770881660,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 98021,
       "num": 98021,
       "word": "两京十五日杀青",
@@ -1009,6 +1113,14 @@
       "onboard_time": 1770872240,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 97148,
+      "num": 97148,
+      "word": "比特币24小时近15万人爆仓",
+      "onboard_time": 1770883161,
+      "rank": 42,
+      "category": "财经"
     },
     {
       "raw_hot": 96660,
@@ -1027,12 +1139,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 95456,
-      "num": 95456,
-      "word": "七莘路",
-      "onboard_time": 1770879619,
-      "rank": 34,
-      "category": "民生新闻"
+      "raw_hot": 96315,
+      "num": 96315,
+      "word": "国乒拉练",
+      "onboard_time": 1770883220,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 94989,
@@ -1065,6 +1177,14 @@
       "onboard_time": 1770872779,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 91155,
+      "num": 91155,
+      "word": "第五人格",
+      "onboard_time": 1770882141,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 91009,
@@ -1323,14 +1443,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 75901,
-      "num": 75901,
-      "word": "年前和年后的美甲店",
-      "onboard_time": 1770880220,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 75076,
       "num": 75076,
       "word": "全国房价止跌信号出现",
@@ -1499,6 +1611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 55407,
+      "num": 141744,
+      "word": "整治AI生成鸡汤网文霸总爽剧",
+      "onboard_time": 1770882980,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 54976,
       "num": 54976,
       "word": "岳阳一救护车装橘子开警灯闯红灯",
@@ -1576,6 +1696,14 @@
       "word": "一大批年轻人开始反向过年",
       "onboard_time": 1770802221,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45584,
+      "num": 141509,
+      "word": "反向压岁钱金额远高于压岁钱",
+      "onboard_time": 1770882980,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -1681,6 +1809,22 @@
       "onboard_time": 1770842354,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 36852,
+      "num": 103449,
+      "word": "张小斐不认识星黛露",
+      "onboard_time": 1770882620,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 34712,
+      "num": 101366,
+      "word": "领导年会喝酒倒地同事跪地哭求救人",
+      "onboard_time": 1770883461,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 33006,
@@ -1801,6 +1945,14 @@
       "onboard_time": 1770810080,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 17462,
+      "num": 141489,
+      "word": "香港女新闻主播转型成为警界总督察",
+      "onboard_time": 1770882980,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 16584,
