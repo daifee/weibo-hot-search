@@ -1,6 +1,6 @@
 {
   "startTime": 1770912100688,
-  "endTime": 1770913084497,
+  "endTime": 1770916379148,
   "band_list": [
     {
       "raw_hot": 1459168,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 671666,
-      "num": 279227,
+      "num": 318432,
       "word": "丞磊在飞机上帮王楚然剔牙",
       "onboard_time": 1770909261,
       "rank": 5,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 309951,
-      "num": 309951,
+      "num": 377129,
       "word": "王者荣耀超话爆了",
       "onboard_time": 1770905181,
       "rank": 4,
@@ -57,6 +57,14 @@
       "onboard_time": 1770907522,
       "rank": 1,
       "category": "互联网,民生新闻"
+    },
+    {
+      "raw_hot": 297557,
+      "num": 297557,
+      "word": "连续五年都没有年三十",
+      "onboard_time": 1770910761,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 258889,
@@ -72,6 +80,14 @@
       "word": "蒋欣 当年真的错怪你了",
       "onboard_time": 1770880820,
       "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 237219,
+      "num": 109172,
+      "word": "律师解读杨幂新增60件告黑案",
+      "onboard_time": 1770913040,
+      "rank": 18,
       "category": "艺人"
     },
     {
@@ -123,6 +139,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 156949,
+      "num": 156949,
+      "word": "速度滑冰女子5000米",
+      "onboard_time": 1770911239,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 156051,
       "num": 128024,
       "word": "彭小苒 古早韩剧财阀家大小姐",
@@ -155,12 +179,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 130717,
+      "num": 87616,
+      "word": "远洋船员持菜刀砍杀船长后分尸抛海",
+      "onboard_time": 1770911000,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 128053,
       "num": 111632,
       "word": "蔡徐坤回复无畏",
       "onboard_time": 1770899660,
       "rank": 22,
       "category": "音乐,游戏"
+    },
+    {
+      "raw_hot": 127156,
+      "num": 62141,
+      "word": "35年前乳汁救武警今患癌红嫂回应",
+      "onboard_time": 1770912860,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 124981,
@@ -177,22 +217,6 @@
       "onboard_time": 1770887600,
       "rank": 19,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 113248,
-      "num": 109172,
-      "word": "律师解读杨幂新增60件告黑案",
-      "onboard_time": 1770913040,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 109367,
-      "num": 109367,
-      "word": "速度滑冰女子5000米",
-      "onboard_time": 1770911239,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 104259,
@@ -251,14 +275,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 87616,
-      "num": 87616,
-      "word": "远洋船员持菜刀砍杀船长后分尸抛海",
-      "onboard_time": 1770911000,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 85616,
       "num": 85616,
       "word": "严浩翔贺峻霖抽到同一条红绳",
@@ -291,11 +307,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 75897,
-      "num": 75897,
-      "word": "连续五年都没有年三十",
-      "onboard_time": 1770910761,
-      "rank": 33,
+      "raw_hot": 77965,
+      "num": 77965,
+      "word": "10岁女生校内晕倒称遭多名男生殴打",
+      "onboard_time": 1770914358,
+      "rank": 15,
       "category": "民生新闻"
     },
     {
@@ -371,6 +387,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 60586,
+      "num": 60586,
+      "word": "33岁男子开特斯拉跑货拉拉",
+      "onboard_time": 1770912979,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 60488,
       "num": 60488,
       "word": "生命树今晚自爆两狼",
@@ -411,19 +435,51 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 55675,
-      "num": 55675,
-      "word": "35年前乳汁救武警今患癌红嫂回应",
-      "onboard_time": 1770912860,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 44219,
       "num": 599455,
       "word": "我家的C位年货",
       "onboard_time": 1770902599,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40046,
+      "num": 40046,
+      "word": "8岁小孩姐徒步117公里回老家",
+      "onboard_time": 1770913400,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37661,
+      "num": 92407,
+      "word": "意大利老将5000米0.1秒绝杀夺金",
+      "onboard_time": 1770915258,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 32831,
+      "num": 32831,
+      "word": "蔡雪桐武绍桐出征单板U池决赛",
+      "onboard_time": 1770915978,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 30727,
+      "num": 32215,
+      "word": "张凌赫粉丝爬半天山拍了三遍林允",
+      "onboard_time": 1770893719,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 29506,
+      "num": 32214,
+      "word": "苏州一老板给2万员工发黄金",
+      "onboard_time": 1770914899,
+      "rank": 49,
       "category": "民生新闻"
     }
   ],

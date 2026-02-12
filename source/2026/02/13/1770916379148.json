@@ -1,0 +1,410 @@
+{
+  "runTime": 1770916379148,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 269618,
+        "num": 533138,
+        "word": "22岁主播每天焊妆两次确诊肺炎",
+        "onboard_time": 1770906560,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210908,
+        "num": 377129,
+        "word": "王者荣耀超话爆了",
+        "onboard_time": 1770905181,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 28679,
+        "num": 341554,
+        "word": "我家的C位年货",
+        "onboard_time": 1770902599,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 318432,
+        "num": 318432,
+        "word": "丞磊在飞机上帮王楚然剔牙",
+        "onboard_time": 1770909261,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 305477,
+        "num": 305477,
+        "word": "虞书欣直播",
+        "onboard_time": 1770907400,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 297557,
+        "num": 297557,
+        "word": "连续五年都没有年三十",
+        "onboard_time": 1770910761,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174845,
+        "num": 174845,
+        "word": "Deepseek被指变冷淡了",
+        "onboard_time": 1770907522,
+        "rank": 6,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 156949,
+        "num": 156949,
+        "word": "速度滑冰女子5000米",
+        "onboard_time": 1770911239,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95698,
+        "num": 95698,
+        "word": "坏果太多胖东来下架全部智利车厘子",
+        "onboard_time": 1770899721,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37661,
+        "num": 92407,
+        "word": "意大利老将5000米0.1秒绝杀夺金",
+        "onboard_time": 1770915258,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 237219,
+        "num": 90422,
+        "word": "律师解读杨幂新增60件告黑案",
+        "onboard_time": 1770913040,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162545,
+        "num": 88848,
+        "word": "宋亚轩遇到了最懂他的刘耀文",
+        "onboard_time": 1770908540,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140828,
+        "num": 82913,
+        "word": "蒋欣 当年真的错怪你了",
+        "onboard_time": 1770880820,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110671,
+        "num": 81552,
+        "word": "王者荣耀马年全明星表演赛",
+        "onboard_time": 1770891981,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 79113,
+        "num": 79113,
+        "word": "36岁何穗状态",
+        "onboard_time": 1770901641,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77965,
+        "num": 77965,
+        "word": "10岁女生校内晕倒称遭多名男生殴打",
+        "onboard_time": 1770914358,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70607,
+        "num": 70607,
+        "word": "成何体统",
+        "onboard_time": 1770891259,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68576,
+        "num": 68576,
+        "word": "小马打架被咬伤负气出逃跑上高架",
+        "onboard_time": 1770908061,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64423,
+        "num": 64423,
+        "word": "太平年大结局",
+        "onboard_time": 1770906441,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 64283,
+        "num": 64283,
+        "word": "女子火车上熟睡8000元手机被偷",
+        "onboard_time": 1770905001,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 270757,
+        "num": 64027,
+        "word": "吃烤全羊发现大量粪便店家赔偿1500",
+        "onboard_time": 1770898580,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178934,
+        "num": 63273,
+        "word": "男子就医喊饿竟是全身血液已近流干",
+        "onboard_time": 1770897201,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130717,
+        "num": 62940,
+        "word": "远洋船员持菜刀砍杀船长后分尸抛海",
+        "onboard_time": 1770911000,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127156,
+        "num": 62141,
+        "word": "35年前乳汁救武警今患癌红嫂回应",
+        "onboard_time": 1770912860,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78721,
+        "num": 61225,
+        "word": "蔡徐坤回复无畏",
+        "onboard_time": 1770899660,
+        "rank": 24,
+        "category": "音乐,游戏"
+      },
+      {
+        "raw_hot": 70976,
+        "num": 61149,
+        "word": "年少有为",
+        "onboard_time": 1770893902,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60586,
+        "num": 60586,
+        "word": "33岁男子开特斯拉跑货拉拉",
+        "onboard_time": 1770912979,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58734,
+        "num": 58734,
+        "word": "母亲花6万为智力残障儿子娶外籍妻子",
+        "onboard_time": 1770896420,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54911,
+        "num": 54911,
+        "word": "印度要买114架阵风",
+        "onboard_time": 1770910460,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 46658,
+        "num": 46658,
+        "word": "马嘉祺黑西装live",
+        "onboard_time": 1770911421,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46612,
+        "num": 46612,
+        "word": "六国联名反对欧盟加大对华限制",
+        "onboard_time": 1770906740,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 46592,
+        "num": 46592,
+        "word": "微博之夜 绝美打光",
+        "onboard_time": 1770892579,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 45263,
+        "num": 45263,
+        "word": "杨幂白色高筒袜",
+        "onboard_time": 1770901940,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43989,
+        "num": 43989,
+        "word": "彭小苒 古早韩剧财阀家大小姐",
+        "onboard_time": 1770909440,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42948,
+        "num": 42948,
+        "word": "曝陈哲远每年让员工带薪出国旅游",
+        "onboard_time": 1770894739,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40210,
+        "num": 40210,
+        "word": "舌头翘一翘身体好坏都知道",
+        "onboard_time": 1770892461,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 40046,
+        "num": 40046,
+        "word": "8岁小孩姐徒步117公里回老家",
+        "onboard_time": 1770913400,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39591,
+        "num": 39591,
+        "word": "爸爸被劝酒女儿站身后霸气挡酒",
+        "onboard_time": 1770898702,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38997,
+        "num": 38997,
+        "word": "何与miumiu活动生图路透",
+        "onboard_time": 1770907281,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38289,
+        "num": 38289,
+        "word": "张函瑞高会语音",
+        "onboard_time": 1770910400,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37859,
+        "num": 37859,
+        "word": "今年为啥没有年三十",
+        "onboard_time": 1770898041,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36924,
+        "num": 36924,
+        "word": "杭州9岁男孩拍短剧1天赚2000元",
+        "onboard_time": 1770910641,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36396,
+        "num": 36396,
+        "word": "严浩翔贺峻霖抽到同一条红绳",
+        "onboard_time": 1770907281,
+        "rank": 42,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 35588,
+        "num": 35588,
+        "word": "张元英BANGBANG直拍",
+        "onboard_time": 1770906382,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 34227,
+        "num": 34227,
+        "word": "第一次看到一箱草莓毫无食欲",
+        "onboard_time": 1770887600,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 32888,
+        "num": 32888,
+        "word": "姐姐被藏尸位置就在弟弟店铺正上方",
+        "onboard_time": 1770870440,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32831,
+        "num": 32831,
+        "word": "蔡雪桐武绍桐出征单板U池决赛",
+        "onboard_time": 1770915978,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32217,
+        "num": 32217,
+        "word": "车厘子卖家赌涨价压货",
+        "onboard_time": 1770887359,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30727,
+        "num": 32215,
+        "word": "张凌赫粉丝爬半天山拍了三遍林允",
+        "onboard_time": 1770893719,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29506,
+        "num": 32214,
+        "word": "苏州一老板给2万员工发黄金",
+        "onboard_time": 1770914899,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记同我们共赶新春市集#"
+    }
+  }
+}
