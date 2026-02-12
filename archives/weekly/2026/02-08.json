@@ -1,6 +1,6 @@
 {
   "startTime": 1770482461321,
-  "endTime": 1770894839376,
+  "endTime": 1770896851658,
   "band_list": [
     {
       "raw_hot": 7279878,
@@ -2587,6 +2587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 322080,
+      "num": 148889,
+      "word": "张凌赫粉丝爬半天山拍了三遍林允",
+      "onboard_time": 1770893719,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 321722,
       "num": 241812,
       "word": "巨火但很反感的梗",
@@ -2953,6 +2961,14 @@
       "onboard_time": 1770729441,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 295206,
+      "num": 169973,
+      "word": "高市早苗或将释放三大恶魔",
+      "onboard_time": 1770892639,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 294252,
@@ -3883,12 +3899,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 229817,
+      "num": 224354,
+      "word": "无畏支持蔡徐坤新歌",
+      "onboard_time": 1770892220,
+      "rank": 6,
+      "category": "音乐,电竞"
+    },
+    {
       "raw_hot": 229001,
       "num": 172282,
       "word": "陈奕恒看贺峻霖视频",
       "onboard_time": 1770790461,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 228494,
+      "num": 228494,
+      "word": "纸质文件",
+      "onboard_time": 1770896239,
+      "rank": 3,
+      "category": "游戏"
     },
     {
       "raw_hot": 228366,
@@ -3955,12 +3987,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 225101,
-      "num": 224354,
-      "word": "无畏支持蔡徐坤新歌",
-      "onboard_time": 1770892220,
-      "rank": 6,
-      "category": "音乐,电竞"
+      "raw_hot": 224639,
+      "num": 211981,
+      "word": "年少有为",
+      "onboard_time": 1770721941,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 222833,
@@ -4137,14 +4169,6 @@
       "onboard_time": 1770568518,
       "rank": 30,
       "category": "演出"
-    },
-    {
-      "raw_hot": 215286,
-      "num": 211981,
-      "word": "年少有为",
-      "onboard_time": 1770721941,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 215222,
@@ -4571,6 +4595,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 194572,
+      "num": 140726,
+      "word": "鞠婧祎做了雪花玫瑰花",
+      "onboard_time": 1770895401,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 194364,
       "num": 194364,
       "word": "法国3名婴儿因食用问题奶粉死亡",
@@ -4939,11 +4971,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 176000,
+      "num": 176000,
+      "word": "成龙把掉地上的口香糖捡起来吃了",
+      "onboard_time": 1770893420,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 175665,
       "num": 175665,
       "word": "河南拆迁时发现乾隆年间雕花木梁",
       "onboard_time": 1770635959,
       "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 175597,
+      "num": 142841,
+      "word": "小伙3万彩礼3万首饰娶埃及姑娘",
+      "onboard_time": 1770894680,
+      "rank": 43,
       "category": "民生新闻"
     },
     {
@@ -5163,6 +5211,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 163751,
+      "num": 163751,
+      "word": "可是妈妈何炅不是别的黄毛",
+      "onboard_time": 1770895280,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 163697,
       "num": 163697,
       "word": "园长用录播冒充直播隐瞒小老虎死亡",
@@ -5201,6 +5257,22 @@
       "onboard_time": 1770860960,
       "rank": 21,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 161449,
+      "num": 161449,
+      "word": "30岁男子没买车父母不愿出门拜年",
+      "onboard_time": 1770894443,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 161309,
+      "num": 175509,
+      "word": "庾晚音 北京是个小县城",
+      "onboard_time": 1770895520,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 160928,
@@ -5827,6 +5899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141443,
+      "num": 187294,
+      "word": "钢架雪车",
+      "onboard_time": 1770893601,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141254,
       "num": 141254,
       "word": "安徽一小伙迎娶00后埃及女生",
@@ -5977,14 +6057,6 @@
       "onboard_time": 1770547520,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 138607,
-      "num": 132184,
-      "word": "高市早苗或将释放三大恶魔",
-      "onboard_time": 1770892639,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 138349,
@@ -6219,14 +6291,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 132799,
-      "num": 130275,
-      "word": "张凌赫粉丝爬半天山拍了三遍林允",
-      "onboard_time": 1770893719,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 132796,
       "num": 132796,
       "word": "妻子孕期丈夫却在女厕爬马桶偷拍",
@@ -6249,6 +6313,14 @@
       "onboard_time": 1770777260,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 132205,
+      "num": 132205,
+      "word": "母亲花6万为智力残障儿子娶外籍妻子",
+      "onboard_time": 1770896420,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 131549,
@@ -6473,6 +6545,14 @@
       "onboard_time": 1770880220,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 125355,
+      "num": 125355,
+      "word": "程潇 我只眼神给出去",
+      "onboard_time": 1770892520,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 125329,
@@ -6737,6 +6817,14 @@
       "onboard_time": 1770648742,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119027,
+      "num": 119027,
+      "word": "立威廉 短剧应该只能用手机看吧",
+      "onboard_time": 1770894620,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 118956,
@@ -7115,12 +7203,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 113264,
+      "num": 113264,
+      "word": "时代少年团跳大绳",
+      "onboard_time": 1770896480,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 113215,
       "num": 113215,
       "word": "申聪结婚",
       "onboard_time": 1770601999,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 113160,
+      "num": 113160,
+      "word": "一诺主持全明星表演赛",
+      "onboard_time": 1770896480,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 113041,
@@ -7307,14 +7411,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 110436,
-      "num": 110436,
-      "word": "钢架雪车",
-      "onboard_time": 1770893601,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 110224,
       "num": 110224,
       "word": "王皓赛后为王楚钦耐心擦眼泪",
@@ -7353,14 +7449,6 @@
       "onboard_time": 1770863898,
       "rank": 26,
       "category": "财经"
-    },
-    {
-      "raw_hot": 109701,
-      "num": 109701,
-      "word": "程潇 我只眼神给出去",
-      "onboard_time": 1770892520,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 109681,
@@ -8123,6 +8211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 101372,
+      "num": 101372,
+      "word": "曝陈哲远每年让员工带薪出国旅游",
+      "onboard_time": 1770894739,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 101371,
       "num": 101371,
       "word": "女子做美甲后摔倒致指甲断裂",
@@ -8659,6 +8755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 96127,
+      "num": 96127,
+      "word": "肖战宝诗龙巨幅地广墙",
+      "onboard_time": 1770896660,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 95962,
       "num": 95962,
       "word": "齐司礼桃礼呈祥",
@@ -8777,6 +8881,14 @@
       "onboard_time": 1770599720,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 95013,
+      "num": 95013,
+      "word": "九尾今天是学院风",
+      "onboard_time": 1770896720,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 94885,
@@ -8969,6 +9081,14 @@
       "onboard_time": 1770872779,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 93084,
+      "num": 96711,
+      "word": "对奶奶的爱被一个行李箱具像化了",
+      "onboard_time": 1770895401,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 93057,
@@ -10475,14 +10595,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 79808,
-      "num": 79808,
-      "word": "小伙3万彩礼3万首饰娶埃及姑娘",
-      "onboard_time": 1770894680,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 79788,
       "num": 79788,
       "word": "为什么很多餐馆都在提供免费柠檬水",
@@ -10715,14 +10827,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 77678,
-      "num": 77678,
-      "word": "立威廉 短剧应该只能用手机看吧",
-      "onboard_time": 1770894620,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 77645,
       "num": 77645,
       "word": "英国国王遭民众大喊质问",
@@ -10841,6 +10945,14 @@
       "onboard_time": 1770637521,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 76679,
+      "num": 161079,
+      "word": "王者新春AppStore有礼",
+      "onboard_time": 1770895820,
+      "rank": 18,
+      "category": "游戏,数码"
     },
     {
       "raw_hot": 76599,
@@ -11113,14 +11225,6 @@
       "onboard_time": 1770889820,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 72963,
-      "num": 72963,
-      "word": "曝陈哲远每年让员工带薪出国旅游",
-      "onboard_time": 1770894739,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 72736,
@@ -12739,19 +12843,19 @@
       "category": "电影"
     },
     {
+      "raw_hot": 44280,
+      "num": 152218,
+      "word": "孙颖莎王楚钦王曼昱新春祝福",
+      "onboard_time": 1770896540,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 44184,
       "num": 612890,
       "word": "一趟复兴号每周五变校车",
       "onboard_time": 1770798560,
       "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 44132,
-      "num": 86602,
-      "word": "30岁男子没买车父母不愿出门拜年",
-      "onboard_time": 1770894443,
-      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -13033,14 +13137,6 @@
       "onboard_time": 1770571097,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 39688,
-      "num": 97647,
-      "word": "成龙把掉地上的口香糖捡起来吃了",
-      "onboard_time": 1770893420,
-      "rank": 38,
-      "category": "电影"
     },
     {
       "raw_hot": 39609,
@@ -13811,6 +13907,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 26125,
+      "num": 209827,
+      "word": "马年本命年攻略",
+      "onboard_time": 1770894080,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26117,
       "num": 134176,
       "word": "张峻豪看完上吊的力气都没了",
@@ -14363,14 +14467,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 17797,
-      "num": 209827,
-      "word": "马年本命年攻略",
-      "onboard_time": 1770894080,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 17669,
       "num": 98206,
       "word": "女护士被割喉案凶手至今未道歉",
@@ -14539,6 +14635,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 14988,
+      "num": 159352,
+      "word": "救人英雄栾留伟曾说让店门口排长队",
+      "onboard_time": 1770896120,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14734,
       "num": 21047,
       "word": "刘宇抖中幡",
@@ -14705,6 +14809,14 @@
       "onboard_time": 1770580155,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 11647,
+      "num": 109783,
+      "word": "万元国库券换的宅基地被分给别人",
+      "onboard_time": 1770895640,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11389,
