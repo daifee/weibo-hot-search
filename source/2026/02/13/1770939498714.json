@@ -1,0 +1,410 @@
+{
+  "runTime": 1770939498714,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 522549,
+        "num": 901125,
+        "word": "孙龙银牌",
+        "onboard_time": 1770930674,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 281280,
+        "num": 645559,
+        "word": "林孝埈无缘男子1000米半决赛",
+        "onboard_time": 1770926235,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36027,
+        "num": 513695,
+        "word": "我家的C位年货",
+        "onboard_time": 1770902599,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 227939,
+        "num": 227939,
+        "word": "22岁主播每天焊妆两次确诊肺炎",
+        "onboard_time": 1770906560,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213088,
+        "num": 213088,
+        "word": "Deepseek被指变冷淡了",
+        "onboard_time": 1770907522,
+        "rank": 4,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 163216,
+        "num": 163216,
+        "word": "六国联名反对欧盟加大对华限制",
+        "onboard_time": 1770906740,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 156362,
+        "num": 156362,
+        "word": "任子威 黄大宪成功淘汰",
+        "onboard_time": 1770925573,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143532,
+        "num": 143532,
+        "word": "丞磊在飞机上帮王楚然剔牙",
+        "onboard_time": 1770909261,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119763,
+        "num": 119763,
+        "word": "坏果太多胖东来下架全部智利车厘子",
+        "onboard_time": 1770899721,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107061,
+        "num": 107061,
+        "word": "冬奥短道速滑男子1000米",
+        "onboard_time": 1770925334,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 278838,
+        "num": 106632,
+        "word": "虞书欣衣帽间",
+        "onboard_time": 1770920055,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174548,
+        "num": 105578,
+        "word": "10岁女生校内晕倒称遭多名男生殴打",
+        "onboard_time": 1770914358,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152445,
+        "num": 105072,
+        "word": "太平年结局每个人都不得善终",
+        "onboard_time": 1770937877,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131620,
+        "num": 104263,
+        "word": "肥猫郑则仕减重70斤感谢周润发",
+        "onboard_time": 1770902722,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127764,
+        "num": 103008,
+        "word": "母亲花6万为智力残障儿子娶外籍妻子",
+        "onboard_time": 1770896420,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120951,
+        "num": 102198,
+        "word": "微博之夜 台上顶流台下好友",
+        "onboard_time": 1770918016,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 101771,
+        "num": 101771,
+        "word": "8岁小孩姐徒步117公里回老家",
+        "onboard_time": 1770913400,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100992,
+        "num": 100992,
+        "word": "周深收到金条的反应",
+        "onboard_time": 1770937877,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99002,
+        "num": 99002,
+        "word": "孙龙回应1000米摘银",
+        "onboard_time": 1770936376,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22431,
+        "num": 98639,
+        "word": "中国AI一年两炸",
+        "onboard_time": 1770939137,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 291800,
+        "num": 98229,
+        "word": "男子就医喊饿竟是全身血液已近流干",
+        "onboard_time": 1770897201,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228658,
+        "num": 97842,
+        "word": "吃烤全羊发现大量粪便店家赔偿1500",
+        "onboard_time": 1770898580,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140362,
+        "num": 96946,
+        "word": "远洋船员持菜刀砍杀船长后分尸抛海",
+        "onboard_time": 1770911000,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96892,
+        "num": 96892,
+        "word": "草莓真的是最脏的水果吗",
+        "onboard_time": 1770937817,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90989,
+        "num": 90989,
+        "word": "美股",
+        "onboard_time": 1770938779,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 90460,
+        "num": 90460,
+        "word": "金价银价深夜跳水",
+        "onboard_time": 1770939137,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 88311,
+        "num": 88311,
+        "word": "菲一博主吃剧毒魔鬼蟹后不治身亡",
+        "onboard_time": 1770939077,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 83175,
+        "num": 83175,
+        "word": "影石公司年会一员工获保时捷",
+        "onboard_time": 1770939020,
+        "rank": 27,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 82618,
+        "num": 82618,
+        "word": "孙龙",
+        "onboard_time": 1770931216,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 79574,
+        "num": 79574,
+        "word": "宋亚轩遇到了最懂他的刘耀文",
+        "onboard_time": 1770908540,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77004,
+        "num": 77004,
+        "word": "律师解读杨幂新增60件告黑案",
+        "onboard_time": 1770913040,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76361,
+        "num": 76361,
+        "word": "短道速滑",
+        "onboard_time": 1770925573,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 76392,
+        "num": 75493,
+        "word": "成何体统这段失败的吻戏",
+        "onboard_time": 1770937877,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 71646,
+        "num": 71646,
+        "word": "刘少昂1000米无缘决赛",
+        "onboard_time": 1770927735,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71583,
+        "num": 71583,
+        "word": "连续五年都没有年三十",
+        "onboard_time": 1770910761,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58152,
+        "num": 58152,
+        "word": "蒋欣 当年真的错怪你了",
+        "onboard_time": 1770880820,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57090,
+        "num": 57090,
+        "word": "任子威说女子500米成绩夸张",
+        "onboard_time": 1770932894,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 56768,
+        "num": 56768,
+        "word": "冬奥短道速滑女子500米",
+        "onboard_time": 1770925334,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 56421,
+        "num": 56421,
+        "word": "女子火车上熟睡8000元手机被偷",
+        "onboard_time": 1770905001,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55793,
+        "num": 55793,
+        "word": "摄影师曝檀健次拍摄几乎一条过",
+        "onboard_time": 1770901281,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48748,
+        "num": 48748,
+        "word": "虞书欣直播",
+        "onboard_time": 1770907400,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47114,
+        "num": 47114,
+        "word": "气血不足的人一定要早睡早起",
+        "onboard_time": 1770939318,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 45563,
+        "num": 45563,
+        "word": "林孝埈状态",
+        "onboard_time": 1770939077,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 44935,
+        "num": 44935,
+        "word": "女子单板U池决赛",
+        "onboard_time": 1770921615,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 44732,
+        "num": 44732,
+        "word": "曝惊蛰无声发行方强制影院排片",
+        "onboard_time": 1770896900,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 44313,
+        "num": 44313,
+        "word": "33岁男子开特斯拉跑货拉拉",
+        "onboard_time": 1770912979,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42437,
+        "num": 42437,
+        "word": "孙龙激动落泪",
+        "onboard_time": 1770932715,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 42389,
+        "num": 42389,
+        "word": "官方回应高速路边发现一只小狮子",
+        "onboard_time": 1770939377,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42245,
+        "num": 42245,
+        "word": "孙龙摘银后哭了",
+        "onboard_time": 1770939318,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 41811,
+        "num": 41811,
+        "word": "意大利老将5000米0.1秒绝杀夺金",
+        "onboard_time": 1770915258,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记同我们共赶新春市集#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1770482461321,
-  "endTime": 1770937096163,
+  "endTime": 1770939498714,
   "band_list": [
     {
       "raw_hot": 7279878,
@@ -1249,6 +1249,14 @@
       "onboard_time": 1770682700,
       "rank": 11,
       "category": "情感"
+    },
+    {
+      "raw_hot": 522549,
+      "num": 901125,
+      "word": "孙龙银牌",
+      "onboard_time": 1770930674,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 522429,
@@ -2844,7 +2852,7 @@
     },
     {
       "raw_hot": 315136,
-      "num": 427612,
+      "num": 645559,
       "word": "林孝埈无缘男子1000米半决赛",
       "onboard_time": 1770926235,
       "rank": 0,
@@ -3203,14 +3211,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 288740,
-      "num": 590104,
-      "word": "孙龙银牌",
-      "onboard_time": 1770930674,
-      "rank": 1,
-      "category": "体育"
-    },
-    {
       "raw_hot": 288136,
       "num": 152693,
       "word": "虞书欣cos黑色碧琪",
@@ -3337,6 +3337,14 @@
       "onboard_time": 1770616340,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 278838,
+      "num": 106632,
+      "word": "虞书欣衣帽间",
+      "onboard_time": 1770920055,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 278463,
@@ -5075,16 +5083,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 184752,
-      "num": 80683,
-      "word": "虞书欣衣帽间",
-      "onboard_time": 1770920055,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 184624,
-      "num": 79565,
+      "num": 105578,
       "word": "10岁女生校内晕倒称遭多名男生殴打",
       "onboard_time": 1770914358,
       "rank": 15,
@@ -5507,6 +5507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 163216,
+      "num": 163216,
+      "word": "六国联名反对欧盟加大对华限制",
+      "onboard_time": 1770906740,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 162133,
       "num": 162133,
       "word": "易烊千玺严迪分手记得改密码",
@@ -5752,6 +5760,14 @@
       "word": "至此生命树已成艺术",
       "onboard_time": 1770648863,
       "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 152445,
+      "num": 105072,
+      "word": "太平年结局每个人都不得善终",
+      "onboard_time": 1770937877,
+      "rank": 12,
       "category": "剧集"
     },
     {
@@ -6219,6 +6235,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 140362,
+      "num": 96946,
+      "word": "远洋船员持菜刀砍杀船长后分尸抛海",
+      "onboard_time": 1770911000,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 140207,
       "num": 140207,
       "word": "妈妈做了一桌预制菜年夜饭",
@@ -6603,6 +6627,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 131620,
+      "num": 120355,
+      "word": "肥猫郑则仕减重70斤感谢周润发",
+      "onboard_time": 1770902722,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 131549,
       "num": 131549,
       "word": "帕梅拉背后必有高人指点",
@@ -6649,14 +6681,6 @@
       "onboard_time": 1770804499,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 130717,
-      "num": 87616,
-      "word": "远洋船员持菜刀砍杀船长后分尸抛海",
-      "onboard_time": 1770911000,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 130602,
@@ -7059,12 +7083,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 120355,
-      "num": 120355,
-      "word": "肥猫郑则仕减重70斤感谢周润发",
-      "onboard_time": 1770902722,
-      "rank": 33,
-      "category": "艺人"
+      "raw_hot": 120951,
+      "num": 102198,
+      "word": "微博之夜 台上顶流台下好友",
+      "onboard_time": 1770918016,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 120319,
@@ -7609,14 +7633,6 @@
       "onboard_time": 1770620840,
       "rank": 33,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 112761,
-      "num": 112761,
-      "word": "六国联名反对欧盟加大对华限制",
-      "onboard_time": 1770906740,
-      "rank": 32,
-      "category": "国际时政"
     },
     {
       "raw_hot": 112613,
@@ -8563,6 +8579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 101771,
+      "num": 101771,
+      "word": "8岁小孩姐徒步117公里回老家",
+      "onboard_time": 1770913400,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101755,
       "num": 101755,
       "word": "范宗沛去世",
@@ -8649,6 +8673,14 @@
       "onboard_time": 1770554061,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 100992,
+      "num": 100992,
+      "word": "周深收到金条的反应",
+      "onboard_time": 1770937877,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 100892,
@@ -8867,6 +8899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 99002,
+      "num": 99002,
+      "word": "孙龙回应1000米摘银",
+      "onboard_time": 1770936376,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 98928,
       "num": 98928,
       "word": "女子单板U池决赛",
@@ -9081,6 +9121,14 @@
       "onboard_time": 1770887060,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 96892,
+      "num": 96892,
+      "word": "草莓真的是最脏的水果吗",
+      "onboard_time": 1770937817,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96850,
@@ -9715,6 +9763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 90989,
+      "num": 90989,
+      "word": "美股",
+      "onboard_time": 1770938779,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 90946,
       "num": 116113,
       "word": "微博之夜红毯封神了",
@@ -9793,6 +9849,14 @@
       "onboard_time": 1770870921,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 90460,
+      "num": 90460,
+      "word": "金价银价深夜跳水",
+      "onboard_time": 1770939137,
+      "rank": 25,
+      "category": "财经"
     },
     {
       "raw_hot": 90407,
@@ -10025,6 +10089,14 @@
       "onboard_time": 1770865100,
       "rank": 45,
       "category": "财经"
+    },
+    {
+      "raw_hot": 88311,
+      "num": 88311,
+      "word": "菲一博主吃剧毒魔鬼蟹后不治身亡",
+      "onboard_time": 1770939077,
+      "rank": 26,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 88259,
@@ -10659,6 +10731,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 83175,
+      "num": 83175,
+      "word": "影石公司年会一员工获保时捷",
+      "onboard_time": 1770939020,
+      "rank": 27,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 83100,
       "num": 69117,
       "word": "胡锡进称日本此次选举是自娱自乐",
@@ -10712,14 +10792,6 @@
       "word": "女子一针玻尿酸竟把眼睛打斜了",
       "onboard_time": 1770863960,
       "rank": 42,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 82597,
-      "num": 82597,
-      "word": "8岁小孩姐徒步117公里回老家",
-      "onboard_time": 1770913400,
-      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -11507,6 +11579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 76392,
+      "num": 75493,
+      "word": "成何体统这段失败的吻戏",
+      "onboard_time": 1770937877,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 76314,
       "num": 76314,
       "word": "迪丽热巴爸爸的唱功",
@@ -11897,14 +11977,6 @@
       "onboard_time": 1770483621,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 71615,
-      "num": 71615,
-      "word": "微博之夜 台上顶流台下好友",
-      "onboard_time": 1770918016,
-      "rank": 10,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 71564,
@@ -13411,6 +13483,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 47114,
+      "num": 47114,
+      "word": "气血不足的人一定要早睡早起",
+      "onboard_time": 1770939318,
+      "rank": 41,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 46903,
       "num": 46903,
       "word": "米兰冬奥会奖牌",
@@ -13473,6 +13553,14 @@
       "onboard_time": 1770882980,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45563,
+      "num": 45563,
+      "word": "林孝埈状态",
+      "onboard_time": 1770939077,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 45420,
@@ -13771,6 +13859,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 42437,
+      "num": 42437,
+      "word": "孙龙激动落泪",
+      "onboard_time": 1770932715,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 42389,
+      "num": 42389,
+      "word": "官方回应高速路边发现一只小狮子",
+      "onboard_time": 1770939377,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42245,
+      "num": 42245,
+      "word": "孙龙摘银后哭了",
+      "onboard_time": 1770939318,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 41804,
       "num": 163139,
       "word": "印尼一飞机遭枪击坠毁",
@@ -14016,14 +14128,6 @@
       "word": "看苏翊鸣决赛不敢呼吸",
       "onboard_time": 1770492375,
       "rank": 33,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 38239,
-      "num": 38239,
-      "word": "孙龙激动落泪",
-      "onboard_time": 1770932715,
-      "rank": 31,
       "category": "体育"
     },
     {
@@ -14811,14 +14915,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 26298,
-      "num": 75392,
-      "word": "孙龙回应1000米摘银",
-      "onboard_time": 1770936376,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 26289,
       "num": 100960,
       "word": "立陶宛被台当局忽悠惨了",
@@ -15192,6 +15288,14 @@
       "word": "吃上AI主理人的席了",
       "onboard_time": 1770537681,
       "rank": 14,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 22431,
+      "num": 98639,
+      "word": "中国AI一年两炸",
+      "onboard_time": 1770939137,
+      "rank": 19,
       "category": "互联网"
     },
     {

@@ -1,6 +1,6 @@
 {
   "startTime": 1770912100688,
-  "endTime": 1770937096163,
+  "endTime": 1770939498714,
   "band_list": [
     {
       "raw_hot": 1459168,
@@ -35,6 +35,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 522549,
+      "num": 901125,
+      "word": "孙龙银牌",
+      "onboard_time": 1770930674,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 460213,
       "num": 116641,
       "word": "吃烤全羊发现大量粪便店家赔偿1500",
@@ -52,7 +60,7 @@
     },
     {
       "raw_hot": 315136,
-      "num": 427612,
+      "num": 645559,
       "word": "林孝埈无缘男子1000米半决赛",
       "onboard_time": 1770926235,
       "rank": 0,
@@ -83,20 +91,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 288740,
-      "num": 590104,
-      "word": "孙龙银牌",
-      "onboard_time": 1770930674,
-      "rank": 1,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 258889,
+      "raw_hot": 291800,
       "num": 111723,
       "word": "男子就医喊饿竟是全身血液已近流干",
       "onboard_time": 1770897201,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 278838,
+      "num": 106632,
+      "word": "虞书欣衣帽间",
+      "onboard_time": 1770920055,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 245066,
@@ -163,16 +171,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 184752,
-      "num": 80683,
-      "word": "虞书欣衣帽间",
-      "onboard_time": 1770920055,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 184624,
-      "num": 79565,
+      "num": 105578,
       "word": "10岁女生校内晕倒称遭多名男生殴打",
       "onboard_time": 1770914358,
       "rank": 15,
@@ -203,6 +203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 163216,
+      "num": 163216,
+      "word": "六国联名反对欧盟加大对华限制",
+      "onboard_time": 1770906740,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 156949,
       "num": 156949,
       "word": "速度滑冰女子5000米",
@@ -217,6 +225,14 @@
       "onboard_time": 1770909440,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 152445,
+      "num": 105072,
+      "word": "太平年结局每个人都不得善终",
+      "onboard_time": 1770937877,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 150721,
@@ -235,6 +251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 140362,
+      "num": 96946,
+      "word": "远洋船员持菜刀砍杀船长后分尸抛海",
+      "onboard_time": 1770911000,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133962,
       "num": 133962,
       "word": "成何体统",
@@ -243,12 +267,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 130717,
-      "num": 87616,
-      "word": "远洋船员持菜刀砍杀船长后分尸抛海",
-      "onboard_time": 1770911000,
-      "rank": 33,
-      "category": "民生新闻"
+      "raw_hot": 131620,
+      "num": 104263,
+      "word": "肥猫郑则仕减重70斤感谢周润发",
+      "onboard_time": 1770902722,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 128053,
@@ -259,6 +283,14 @@
       "category": "音乐,游戏"
     },
     {
+      "raw_hot": 127764,
+      "num": 124981,
+      "word": "母亲花6万为智力残障儿子娶外籍妻子",
+      "onboard_time": 1770896420,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127156,
       "num": 62141,
       "word": "35年前乳汁救武警今患癌红嫂回应",
@@ -267,12 +299,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 124981,
-      "num": 124981,
-      "word": "母亲花6万为智力残障儿子娶外籍妻子",
-      "onboard_time": 1770896420,
-      "rank": 18,
-      "category": "民生新闻"
+      "raw_hot": 120951,
+      "num": 102198,
+      "word": "微博之夜 台上顶流台下好友",
+      "onboard_time": 1770918016,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 117382,
@@ -331,12 +363,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 101771,
+      "num": 101771,
+      "word": "8岁小孩姐徒步117公里回老家",
+      "onboard_time": 1770913400,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101755,
       "num": 101755,
       "word": "范宗沛去世",
       "onboard_time": 1770910940,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 100992,
+      "num": 100992,
+      "word": "周深收到金条的反应",
+      "onboard_time": 1770937877,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 99002,
+      "num": 99002,
+      "word": "孙龙回应1000米摘银",
+      "onboard_time": 1770936376,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 98928,
@@ -355,6 +411,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 96892,
+      "num": 96892,
+      "word": "草莓真的是最脏的水果吗",
+      "onboard_time": 1770937817,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96750,
       "num": 96750,
       "word": "印度要买114架阵风",
@@ -363,12 +427,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 91986,
-      "num": 91986,
-      "word": "六国联名反对欧盟加大对华限制",
-      "onboard_time": 1770906740,
-      "rank": 30,
-      "category": "国际时政"
+      "raw_hot": 90989,
+      "num": 90989,
+      "word": "美股",
+      "onboard_time": 1770938779,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 90460,
+      "num": 90460,
+      "word": "金价银价深夜跳水",
+      "onboard_time": 1770939137,
+      "rank": 25,
+      "category": "财经"
     },
     {
       "raw_hot": 88762,
@@ -379,6 +451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 88311,
+      "num": 88311,
+      "word": "菲一博主吃剧毒魔鬼蟹后不治身亡",
+      "onboard_time": 1770939077,
+      "rank": 26,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 85616,
       "num": 85616,
       "word": "严浩翔贺峻霖抽到同一条红绳",
@@ -387,12 +467,12 @@
       "category": "艺人,游戏"
     },
     {
-      "raw_hot": 82597,
-      "num": 82597,
-      "word": "8岁小孩姐徒步117公里回老家",
-      "onboard_time": 1770913400,
-      "rank": 36,
-      "category": "民生新闻"
+      "raw_hot": 83175,
+      "num": 83175,
+      "word": "影石公司年会一员工获保时捷",
+      "onboard_time": 1770939020,
+      "rank": 27,
+      "category": "互联网"
     },
     {
       "raw_hot": 81924,
@@ -419,6 +499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 76392,
+      "num": 75493,
+      "word": "成何体统这段失败的吻戏",
+      "onboard_time": 1770937877,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 75650,
       "num": 75650,
       "word": "车厘子卖家赌涨价压货",
@@ -433,14 +521,6 @@
       "onboard_time": 1770905181,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 71615,
-      "num": 71615,
-      "word": "微博之夜 台上顶流台下好友",
-      "onboard_time": 1770918016,
-      "rank": 10,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 71407,
@@ -579,11 +659,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 55797,
-      "num": 55797,
-      "word": "肥猫郑则仕减重70斤感谢周润发",
-      "onboard_time": 1770902722,
-      "rank": 44,
+      "raw_hot": 55793,
+      "num": 55793,
+      "word": "摄影师曝檀健次拍摄几乎一条过",
+      "onboard_time": 1770901281,
+      "rank": 39,
       "category": "艺人"
     },
     {
@@ -611,12 +691,60 @@
       "category": "体育"
     },
     {
+      "raw_hot": 47114,
+      "num": 47114,
+      "word": "气血不足的人一定要早睡早起",
+      "onboard_time": 1770939318,
+      "rank": 41,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 45563,
+      "num": 45563,
+      "word": "林孝埈状态",
+      "onboard_time": 1770939077,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 44732,
+      "num": 44732,
+      "word": "曝惊蛰无声发行方强制影院排片",
+      "onboard_time": 1770896900,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 44219,
       "num": 599455,
       "word": "我家的C位年货",
       "onboard_time": 1770902599,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42437,
+      "num": 42437,
+      "word": "孙龙激动落泪",
+      "onboard_time": 1770932715,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 42389,
+      "num": 42389,
+      "word": "官方回应高速路边发现一只小狮子",
+      "onboard_time": 1770939377,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42245,
+      "num": 42245,
+      "word": "孙龙摘银后哭了",
+      "onboard_time": 1770939318,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 41847,
@@ -640,14 +768,6 @@
       "word": "张楚桐犯规",
       "onboard_time": 1770924914,
       "rank": 15,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 38239,
-      "num": 38239,
-      "word": "孙龙激动落泪",
-      "onboard_time": 1770932715,
-      "rank": 31,
       "category": "体育"
     },
     {
@@ -747,14 +867,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 26298,
-      "num": 75392,
-      "word": "孙龙回应1000米摘银",
-      "onboard_time": 1770936376,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 25510,
       "num": 25510,
       "word": "米兰冬奥会冰壶女子团体赛",
@@ -809,6 +921,14 @@
       "onboard_time": 1770930193,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 22431,
+      "num": 98639,
+      "word": "中国AI一年两炸",
+      "onboard_time": 1770939137,
+      "rank": 19,
+      "category": "互联网"
     },
     {
       "raw_hot": 20493,
