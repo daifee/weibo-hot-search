@@ -1,6 +1,6 @@
 {
   "startTime": 1770912100688,
-  "endTime": 1770912100688,
+  "endTime": 1770913084497,
   "band_list": [
     {
       "raw_hot": 1459168,
@@ -11,8 +11,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 664285,
-      "num": 272510,
+      "raw_hot": 671666,
+      "num": 279227,
       "word": "丞磊在飞机上帮王楚然剔牙",
       "onboard_time": 1770909261,
       "rank": 5,
@@ -27,7 +27,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 435654,
+      "raw_hot": 460213,
       "num": 116641,
       "word": "吃烤全羊发现大量粪便店家赔偿1500",
       "onboard_time": 1770898580,
@@ -35,7 +35,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 312644,
+      "raw_hot": 329320,
       "num": 149340,
       "word": "宋亚轩遇到了最懂他的刘耀文",
       "onboard_time": 1770908540,
@@ -59,20 +59,20 @@
       "category": "互联网,民生新闻"
     },
     {
+      "raw_hot": 258889,
+      "num": 111723,
+      "word": "男子就医喊饿竟是全身血液已近流干",
+      "onboard_time": 1770897201,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 245066,
       "num": 145500,
       "word": "蒋欣 当年真的错怪你了",
       "onboard_time": 1770880820,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 238733,
-      "num": 111723,
-      "word": "男子就医喊饿竟是全身血液已近流干",
-      "onboard_time": 1770897201,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 229178,
@@ -91,19 +91,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 194762,
+      "num": 194762,
+      "word": "小马打架被咬伤负气出逃跑上高架",
+      "onboard_time": 1770908061,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 190381,
       "num": 147824,
       "word": "女子火车上熟睡8000元手机被偷",
       "onboard_time": 1770905001,
       "rank": 11,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 184765,
-      "num": 184765,
-      "word": "小马打架被咬伤负气出逃跑上高架",
-      "onboard_time": 1770908061,
-      "rank": 7,
       "category": "民生新闻"
     },
     {
@@ -121,6 +121,14 @@
       "onboard_time": 1770891981,
       "rank": 14,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 156051,
+      "num": 128024,
+      "word": "彭小苒 古早韩剧财阀家大小姐",
+      "onboard_time": 1770909440,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 150721,
@@ -155,14 +163,6 @@
       "category": "音乐,游戏"
     },
     {
-      "raw_hot": 128024,
-      "num": 128024,
-      "word": "彭小苒 古早韩剧财阀家大小姐",
-      "onboard_time": 1770909440,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 124981,
       "num": 124981,
       "word": "母亲花6万为智力残障儿子娶外籍妻子",
@@ -179,8 +179,16 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 105770,
-      "num": 105770,
+      "raw_hot": 113248,
+      "num": 109172,
+      "word": "律师解读杨幂新增60件告黑案",
+      "onboard_time": 1770913040,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 109367,
+      "num": 109367,
       "word": "速度滑冰女子5000米",
       "onboard_time": 1770911239,
       "rank": 23,
@@ -211,8 +219,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 99134,
-      "num": 99134,
+      "raw_hot": 101755,
+      "num": 101755,
       "word": "范宗沛去世",
       "onboard_time": 1770910940,
       "rank": 27,
@@ -227,8 +235,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 95174,
-      "num": 95174,
+      "raw_hot": 96750,
+      "num": 96750,
       "word": "印度要买114架阵风",
       "onboard_time": 1770910460,
       "rank": 28,
@@ -241,6 +249,14 @@
       "onboard_time": 1770906740,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 87616,
+      "num": 87616,
+      "word": "远洋船员持菜刀砍杀船长后分尸抛海",
+      "onboard_time": 1770911000,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 85616,
@@ -267,10 +283,18 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 78749,
-      "num": 78749,
-      "word": "远洋船员持菜刀砍杀船长后分尸抛海",
-      "onboard_time": 1770911000,
+      "raw_hot": 81055,
+      "num": 81055,
+      "word": "张函瑞高会语音",
+      "onboard_time": 1770910400,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 75897,
+      "num": 75897,
+      "word": "连续五年都没有年三十",
+      "onboard_time": 1770910761,
       "rank": 33,
       "category": "民生新闻"
     },
@@ -291,14 +315,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 71389,
-      "num": 71389,
-      "word": "张函瑞高会语音",
-      "onboard_time": 1770910400,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 67670,
       "num": 67670,
       "word": "曝陈哲远每年让员工带薪出国旅游",
@@ -315,6 +331,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 65862,
+      "num": 72213,
+      "word": "男子性侵前妻闺蜜被判10年8个月",
+      "onboard_time": 1770885380,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 65388,
+      "num": 65388,
+      "word": "微博之夜 绝美打光",
+      "onboard_time": 1770892579,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 64648,
+      "num": 64648,
+      "word": "马嘉祺黑西装live",
+      "onboard_time": 1770911421,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 62404,
       "num": 62404,
       "word": "第一批回村的人已经出片了",
@@ -323,16 +363,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 62090,
-      "num": 62090,
-      "word": "微博之夜 绝美打光",
-      "onboard_time": 1770892579,
-      "rank": 41,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 60650,
-      "num": 60650,
+      "raw_hot": 61203,
+      "num": 61203,
       "word": "舌头翘一翘身体好坏都知道",
       "onboard_time": 1770892461,
       "rank": 42,
@@ -355,27 +387,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 59272,
-      "num": 59272,
-      "word": "马嘉祺黑西装live",
-      "onboard_time": 1770911421,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 58932,
       "num": 58932,
       "word": "12306回应绿皮车到底能不能开窗",
       "onboard_time": 1770907821,
       "rank": 46,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 58379,
-      "num": 58379,
-      "word": "男子性侵前妻闺蜜被判10年8个月",
-      "onboard_time": 1770885380,
-      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -393,6 +409,14 @@
       "onboard_time": 1770899240,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 55675,
+      "num": 55675,
+      "word": "35年前乳汁救武警今患癌红嫂回应",
+      "onboard_time": 1770912860,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 44219,

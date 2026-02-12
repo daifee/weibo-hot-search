@@ -1,6 +1,6 @@
 {
   "startTime": 1770482461321,
-  "endTime": 1770912100688,
+  "endTime": 1770913084497,
   "band_list": [
     {
       "raw_hot": 7279878,
@@ -811,6 +811,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 671666,
+      "num": 279227,
+      "word": "丞磊在飞机上帮王楚然剔牙",
+      "onboard_time": 1770909261,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 669356,
       "num": 815461,
       "word": "女子短道速滑500米预赛",
@@ -833,14 +841,6 @@
       "onboard_time": 1770765196,
       "rank": 0,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 664285,
-      "num": 272510,
-      "word": "丞磊在飞机上帮王楚然剔牙",
-      "onboard_time": 1770909261,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 663762,
@@ -2691,6 +2691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 329320,
+      "num": 190261,
+      "word": "宋亚轩遇到了最懂他的刘耀文",
+      "onboard_time": 1770908540,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 327480,
       "num": 327480,
       "word": "英国国王公开表态",
@@ -2857,14 +2865,6 @@
       "onboard_time": 1770738023,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 312644,
-      "num": 190261,
-      "word": "宋亚轩遇到了最懂他的刘耀文",
-      "onboard_time": 1770908540,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 312538,
@@ -4787,6 +4787,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 194762,
+      "num": 194762,
+      "word": "小马打架被咬伤负气出逃跑上高架",
+      "onboard_time": 1770908061,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 194572,
       "num": 156963,
       "word": "鞠婧祎做了雪花玫瑰花",
@@ -5009,14 +5017,6 @@
       "onboard_time": 1770786439,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 184765,
-      "num": 184765,
-      "word": "小马打架被咬伤负气出逃跑上高架",
-      "onboard_time": 1770908061,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 184552,
@@ -5561,6 +5561,14 @@
       "onboard_time": 1770799102,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 156051,
+      "num": 128024,
+      "word": "彭小苒 古早韩剧财阀家大小姐",
+      "onboard_time": 1770909440,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 155447,
@@ -6675,14 +6683,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 128024,
-      "num": 128024,
-      "word": "彭小苒 古早韩剧财阀家大小姐",
-      "onboard_time": 1770909440,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 127977,
       "num": 99762,
       "word": "甲状腺是怎么一步一步失控的",
@@ -7443,6 +7443,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 113248,
+      "num": 109172,
+      "word": "律师解读杨幂新增60件告黑案",
+      "onboard_time": 1770913040,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 113215,
       "num": 113215,
       "word": "申聪结婚",
@@ -7760,6 +7768,14 @@
       "word": "苏翊鸣说判罚完全公平",
       "onboard_time": 1770507557,
       "rank": 17,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 109367,
+      "num": 109367,
+      "word": "速度滑冰女子5000米",
+      "onboard_time": 1770911239,
+      "rank": 23,
       "category": "体育"
     },
     {
@@ -8089,14 +8105,6 @@
       "onboard_time": 1770611542,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 105770,
-      "num": 105770,
-      "word": "速度滑冰女子5000米",
-      "onboard_time": 1770911239,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 105729,
@@ -8443,6 +8451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 101755,
+      "num": 101755,
+      "word": "范宗沛去世",
+      "onboard_time": 1770910940,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 101634,
       "num": 95699,
       "word": "生命树收视破2点5",
@@ -8696,14 +8712,6 @@
       "word": "相声演员卢鑫被法院执行悬赏1万",
       "onboard_time": 1770809000,
       "rank": 32,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 99134,
-      "num": 99134,
-      "word": "范宗沛去世",
-      "onboard_time": 1770910940,
-      "rank": 27,
       "category": "艺人"
     },
     {
@@ -8971,6 +8979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 96750,
+      "num": 96750,
+      "word": "印度要买114架阵风",
+      "onboard_time": 1770910460,
+      "rank": 28,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 96660,
       "num": 96660,
       "word": "iPhoneFold或引爆大折叠市场",
@@ -9145,14 +9161,6 @@
       "onboard_time": 1770642983,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 95174,
-      "num": 95174,
-      "word": "印度要买114架阵风",
-      "onboard_time": 1770910460,
-      "rank": 28,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 95061,
@@ -10011,6 +10019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 87616,
+      "num": 87616,
+      "word": "远洋船员持菜刀砍杀船长后分尸抛海",
+      "onboard_time": 1770911000,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87587,
       "num": 87587,
       "word": "林孝埈李文龙场边观赛",
@@ -10747,6 +10763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 81055,
+      "num": 81055,
+      "word": "张函瑞高会语音",
+      "onboard_time": 1770910400,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 80986,
       "num": 80986,
       "word": "打野怎么打回来一堆问号",
@@ -11091,14 +11115,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 78749,
-      "num": 78749,
-      "word": "远洋船员持菜刀砍杀船长后分尸抛海",
-      "onboard_time": 1770911000,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 78545,
       "num": 78545,
       "word": "湖人战胜勇士",
@@ -11417,6 +11433,14 @@
       "onboard_time": 1770638481,
       "rank": 45,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 75897,
+      "num": 75897,
+      "word": "连续五年都没有年三十",
+      "onboard_time": 1770910761,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 75860,
@@ -11777,14 +11801,6 @@
       "onboard_time": 1770907821,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 71389,
-      "num": 71389,
-      "word": "张函瑞高会语音",
-      "onboard_time": 1770910400,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 71239,
@@ -12203,6 +12219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 64648,
+      "num": 64648,
+      "word": "马嘉祺黑西装live",
+      "onboard_time": 1770911421,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 64609,
       "num": 64609,
       "word": "超级碗好多人啊",
@@ -12467,14 +12491,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 59272,
-      "num": 59272,
-      "word": "马嘉祺黑西装live",
-      "onboard_time": 1770911421,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 59239,
       "num": 88135,
       "word": "苏翊鸣健康接力棒接接接",
@@ -12673,6 +12689,14 @@
       "onboard_time": 1770873259,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 55675,
+      "num": 55675,
+      "word": "35年前乳汁救武警今患癌红嫂回应",
+      "onboard_time": 1770912860,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 55407,
