@@ -1,6 +1,6 @@
 {
   "startTime": 1770826438780,
-  "endTime": 1770908198967,
+  "endTime": 1770909309963,
   "band_list": [
     {
       "raw_hot": 1793500,
@@ -15,6 +15,14 @@
       "num": 242134,
       "word": "张馨予 你很有钱是吗",
       "onboard_time": 1770881719,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1225199,
+      "num": 193305,
+      "word": "虞书欣直播",
+      "onboard_time": 1770907400,
       "rank": 10,
       "category": "艺人"
     },
@@ -44,7 +52,7 @@
     },
     {
       "raw_hot": 1094312,
-      "num": 141605,
+      "num": 141862,
       "word": "吃烤全羊发现大量粪便店家赔偿1500",
       "onboard_time": 1770898580,
       "rank": 20,
@@ -155,6 +163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 606514,
+      "num": 1097042,
+      "word": "22岁主播每天焊妆两次确诊肺炎",
+      "onboard_time": 1770906560,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 584354,
       "num": 1093496,
       "word": "微博红包",
@@ -227,20 +243,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 518604,
-      "num": 1082976,
-      "word": "22岁主播每天焊妆两次确诊肺炎",
-      "onboard_time": 1770906560,
-      "rank": 0,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 499310,
       "num": 243932,
       "word": "孙颖莎ELLE 6个封面",
       "onboard_time": 1770868999,
       "rank": 11,
       "category": "体育,时尚"
+    },
+    {
+      "raw_hot": 498580,
+      "num": 498580,
+      "word": "王者荣耀超话爆了",
+      "onboard_time": 1770905181,
+      "rank": 3,
+      "category": "游戏"
     },
     {
       "raw_hot": 486731,
@@ -291,14 +307,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 454497,
-      "num": 454497,
-      "word": "王者荣耀超话爆了",
-      "onboard_time": 1770905181,
-      "rank": 3,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 453260,
       "num": 155835,
       "word": "宋威龙晒被赵今麦扯开的领带",
@@ -339,14 +347,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 433820,
-      "num": 167356,
-      "word": "虞书欣直播",
-      "onboard_time": 1770907400,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 430624,
       "num": 1066723,
       "word": "2025年全国结婚登记676.3万对",
@@ -372,7 +372,7 @@
     },
     {
       "raw_hot": 411262,
-      "num": 156891,
+      "num": 191343,
       "word": "36岁何穗状态",
       "onboard_time": 1770901641,
       "rank": 17,
@@ -457,6 +457,14 @@
       "onboard_time": 1770871461,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 369402,
+      "num": 192766,
+      "word": "女子火车上熟睡8000元手机被偷",
+      "onboard_time": 1770905001,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 367154,
@@ -547,14 +555,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 309798,
-      "num": 158602,
-      "word": "女子火车上熟睡8000元手机被偷",
-      "onboard_time": 1770905001,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 309089,
       "num": 101483,
       "word": "飞驰人生 全男班宣发",
@@ -604,7 +604,7 @@
     },
     {
       "raw_hot": 301281,
-      "num": 131499,
+      "num": 132269,
       "word": "杨幂白色高筒袜",
       "onboard_time": 1770901940,
       "rank": 30,
@@ -724,7 +724,7 @@
     },
     {
       "raw_hot": 256350,
-      "num": 161711,
+      "num": 161729,
       "word": "母亲花6万为智力残障儿子娶外籍妻子",
       "onboard_time": 1770896420,
       "rank": 33,
@@ -843,20 +843,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 224342,
+      "num": 224342,
+      "word": "太平年大结局",
+      "onboard_time": 1770906441,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 223951,
       "num": 165779,
       "word": "可是妈妈何炅不是别的黄毛",
       "onboard_time": 1770895280,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 218255,
-      "num": 218255,
-      "word": "太平年大结局",
-      "onboard_time": 1770906441,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 216501,
@@ -923,6 +923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 207071,
+      "num": 207071,
+      "word": "Deepseek被指变冷淡了",
+      "onboard_time": 1770907522,
+      "rank": 27,
+      "category": "互联网,民生新闻"
+    },
+    {
       "raw_hot": 204723,
       "num": 160262,
       "word": "小伙3万彩礼3万首饰娶埃及姑娘",
@@ -985,6 +993,14 @@
       "onboard_time": 1770874160,
       "rank": 32,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 190261,
+      "num": 190261,
+      "word": "宋亚轩遇到了最懂他的刘耀文",
+      "onboard_time": 1770908540,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 189284,
@@ -1057,6 +1073,14 @@
       "onboard_time": 1770863960,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 179689,
+      "num": 179689,
+      "word": "丞磊在飞机上帮王楚然剔牙",
+      "onboard_time": 1770909261,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 179598,
@@ -1347,6 +1371,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 129833,
+      "num": 129833,
+      "word": "书源心脏不适",
+      "onboard_time": 1770908901,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 129772,
       "num": 242528,
       "word": "爱泼斯坦偷拍潜在受害者视频曝光",
@@ -1409,6 +1441,14 @@
       "onboard_time": 1770877159,
       "rank": 28,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 124277,
+      "num": 124277,
+      "word": "张元英BANGBANG直拍",
+      "onboard_time": 1770906382,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 123341,
@@ -1475,6 +1515,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 117867,
+      "num": 117867,
+      "word": "王濛精准预判有新的纪录产生",
+      "onboard_time": 1770905181,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115304,
       "num": 115304,
       "word": "生命树集体沉默的60秒",
@@ -1515,6 +1563,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 112761,
+      "num": 112761,
+      "word": "六国联名反对欧盟加大对华限制",
+      "onboard_time": 1770906740,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 112474,
       "num": 139618,
       "word": "爸爸愣了一分钟才开始夸我",
@@ -1529,14 +1585,6 @@
       "onboard_time": 1770900860,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 110823,
-      "num": 110823,
-      "word": "Deepseek被指变冷淡了",
-      "onboard_time": 1770907522,
-      "rank": 27,
-      "category": "互联网,民生新闻"
     },
     {
       "raw_hot": 110040,
@@ -1601,22 +1649,6 @@
       "onboard_time": 1770865881,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 104005,
-      "num": 104005,
-      "word": "六国联名反对欧盟加大对华限制",
-      "onboard_time": 1770906740,
-      "rank": 32,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 103215,
-      "num": 103215,
-      "word": "张元英BANGBANG直拍",
-      "onboard_time": 1770906382,
-      "rank": 33,
-      "category": "演出"
     },
     {
       "raw_hot": 103039,
@@ -1851,14 +1883,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 92240,
-      "num": 106725,
-      "word": "王濛精准预判有新的纪录产生",
-      "onboard_time": 1770905181,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 91155,
       "num": 91155,
       "word": "第五人格",
@@ -1977,6 +2001,14 @@
       "onboard_time": 1770823941,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 86153,
+      "num": 137940,
+      "word": "小马打架被咬伤负气出逃跑上高架",
+      "onboard_time": 1770908061,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 86027,
@@ -2195,6 +2227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 77487,
+      "num": 87035,
+      "word": "男子天生患致命心脏病60年才发现",
+      "onboard_time": 1770906621,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77402,
       "num": 77402,
       "word": "桃黑黑语音包",
@@ -2220,7 +2260,7 @@
     },
     {
       "raw_hot": 76436,
-      "num": 621699,
+      "num": 635597,
       "word": "我家的C位年货",
       "onboard_time": 1770902599,
       "rank": 2,
@@ -2275,6 +2315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 74573,
+      "num": 74573,
+      "word": "郑思维带员工游轮团建6天5夜",
+      "onboard_time": 1770909141,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 73659,
       "num": 59400,
       "word": "新郎投壶未中箭矢回弹指向新娘",
@@ -2289,14 +2337,6 @@
       "onboard_time": 1770886222,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 73318,
-      "num": 73318,
-      "word": "男子天生患致命心脏病60年才发现",
-      "onboard_time": 1770906621,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 73039,
@@ -2443,6 +2483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 67882,
+      "num": 67882,
+      "word": "和小狗击掌小狗会回咬手礼",
+      "onboard_time": 1770906680,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 66976,
       "num": 66976,
       "word": "完全可以上春晚的程度",
@@ -2513,6 +2561,14 @@
       "onboard_time": 1770826340,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 60364,
+      "num": 124755,
+      "word": "12306回应绿皮车到底能不能开窗",
+      "onboard_time": 1770907821,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 59478,
@@ -2819,20 +2875,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 36801,
+      "num": 144706,
+      "word": "寒假作业被偷温州民警5小时找回",
+      "onboard_time": 1770908421,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36355,
       "num": 773752,
       "word": "严厉打击无AI标识虚假不实信息",
       "onboard_time": 1770892999,
       "rank": 2,
       "category": "民生新闻,互联网"
-    },
-    {
-      "raw_hot": 36123,
-      "num": 105021,
-      "word": "小马打架被咬伤负气出逃跑上高架",
-      "onboard_time": 1770908061,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 34712,
@@ -2888,6 +2944,14 @@
       "word": "千克黄金跑赢一套房",
       "onboard_time": 1770871699,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30577,
+      "num": 136985,
+      "word": "三亚春节机票翻倍酒店涨超200%",
+      "onboard_time": 1770909021,
+      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -3017,14 +3081,6 @@
       "onboard_time": 1770840193,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 20352,
-      "num": 124755,
-      "word": "12306回应绿皮车到底能不能开窗",
-      "onboard_time": 1770907821,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 19149,
