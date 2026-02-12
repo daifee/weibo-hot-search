@@ -1,6 +1,6 @@
 {
   "startTime": 1770482461321,
-  "endTime": 1770883542808,
+  "endTime": 1770886747066,
   "band_list": [
     {
       "raw_hot": 7279878,
@@ -99,6 +99,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1648080,
+      "num": 181974,
+      "word": "张馨予 你很有钱是吗",
+      "onboard_time": 1770881719,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1611555,
       "num": 1140266,
       "word": "蔡徐坤直播",
@@ -155,14 +163,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1182115,
-      "num": 141700,
-      "word": "张馨予 你很有钱是吗",
-      "onboard_time": 1770881719,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1167973,
       "num": 1167973,
       "word": "唐宫奇案破万",
@@ -196,7 +196,7 @@
     },
     {
       "raw_hot": 1127424,
-      "num": 141668,
+      "num": 181849,
       "word": "蒋欣 当年真的错怪你了",
       "onboard_time": 1770880820,
       "rank": 12,
@@ -923,6 +923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 587423,
+      "num": 179994,
+      "word": "男子性侵前妻闺蜜被判10年8个月",
+      "onboard_time": 1770885380,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 585596,
       "num": 240441,
       "word": "金晨风波后现身澳门",
@@ -1180,7 +1188,7 @@
     },
     {
       "raw_hot": 520310,
-      "num": 164574,
+      "num": 180622,
       "word": "ILLIT NewJeans",
       "onboard_time": 1770875480,
       "rank": 11,
@@ -1747,6 +1755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 412185,
+      "num": 1065949,
+      "word": "孙颖莎装修微博",
+      "onboard_time": 1770884421,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 410506,
       "num": 410506,
       "word": "陈妍希官宣喜综",
@@ -1913,6 +1929,14 @@
       "onboard_time": 1770639379,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 397919,
+      "num": 784313,
+      "word": "团购12箱车厘子收到陈年僵尸果",
+      "onboard_time": 1770883820,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 397600,
@@ -2531,6 +2555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 318466,
+      "num": 181184,
+      "word": "TFBOYS 你永远比别人多两个观众",
+      "onboard_time": 1770882920,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 317522,
       "num": 232403,
       "word": "男子让6个月孩子看电视女友劝阻后被打",
@@ -2827,6 +2859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 296572,
+      "num": 296572,
+      "word": "中戏表演系原主任陈刚主动投案",
+      "onboard_time": 1770885081,
+      "rank": 4,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 296114,
       "num": 296114,
       "word": "男生寒假打工烤糊200多个鸡翅",
@@ -3011,6 +3051,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 283343,
+      "num": 283343,
+      "word": "中方回应特朗普预计4月初访华",
+      "onboard_time": 1770884182,
+      "rank": 5,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 279949,
       "num": 279949,
       "word": "王楚然剧宣送黄金",
@@ -3041,6 +3089,14 @@
       "onboard_time": 1770783080,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 277629,
+      "num": 277629,
+      "word": "王楚钦跑一万米",
+      "onboard_time": 1770884421,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 277385,
@@ -3667,6 +3723,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 233348,
+      "num": 179506,
+      "word": "李一桐 我比张凌赫强是吧",
+      "onboard_time": 1770883040,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 232673,
       "num": 232673,
       "word": "一大批年轻人开始反向过年",
@@ -3736,6 +3800,14 @@
       "word": "宋威龙赵今麦代言娇兰",
       "onboard_time": 1770699080,
       "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 229310,
+      "num": 180364,
+      "word": "时代峰峻春联贴反了",
+      "onboard_time": 1770884361,
+      "rank": 18,
       "category": "艺人"
     },
     {
@@ -4635,6 +4707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 183616,
+      "num": 179387,
+      "word": "七莘路",
+      "onboard_time": 1770879619,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 182410,
       "num": 85281,
       "word": "女子给哥哥买房后却不许除夕留宿",
@@ -4681,6 +4761,14 @@
       "onboard_time": 1770877399,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 179292,
+      "num": 179292,
+      "word": "男子出轨离婚出轨对象又出轨",
+      "onboard_time": 1770884781,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 178965,
@@ -4971,6 +5059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 162666,
+      "num": 162666,
+      "word": "国庆前做的美甲忍到了现在",
+      "onboard_time": 1770884722,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 162133,
       "num": 162133,
       "word": "易烊千玺严迪分手记得改密码",
@@ -5081,6 +5177,14 @@
       "onboard_time": 1770725300,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 157644,
+      "num": 157644,
+      "word": "保罗老婆生娃大出血3L",
+      "onboard_time": 1770886281,
+      "rank": 27,
+      "category": "网红"
     },
     {
       "raw_hot": 157450,
@@ -5419,14 +5523,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 146941,
-      "num": 141282,
-      "word": "TFBOYS 你永远比别人多两个观众",
-      "onboard_time": 1770882920,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 146544,
       "num": 141270,
       "word": "建议把前额叶纳入择偶标准",
@@ -5441,6 +5537,14 @@
       "onboard_time": 1770734002,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 146105,
+      "num": 146105,
+      "word": "白鹿红包封面",
+      "onboard_time": 1770885500,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 145882,
@@ -5665,14 +5769,6 @@
       "onboard_time": 1770872360,
       "rank": 33,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 139450,
-      "num": 139450,
-      "word": "七莘路",
-      "onboard_time": 1770879619,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 139315,
@@ -6931,6 +7027,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 112333,
+      "num": 112333,
+      "word": "谷爱凌不是输给第一名的第二名",
+      "onboard_time": 1770883161,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 112297,
       "num": 112297,
       "word": "吴克群说做自媒体拍吃喝很无聊",
@@ -6969,14 +7073,6 @@
       "onboard_time": 1770552261,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 111449,
-      "num": 111449,
-      "word": "谷爱凌不是输给第一名的第二名",
-      "onboard_time": 1770883161,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 111327,
@@ -7241,14 +7337,6 @@
       "onboard_time": 1770470241,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 108812,
-      "num": 108812,
-      "word": "李一桐 我比张凌赫强是吧",
-      "onboard_time": 1770883040,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 108739,
@@ -7865,6 +7953,14 @@
       "onboard_time": 1770529398,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 101354,
+      "num": 101354,
+      "word": "辛芷蕾秦岚 你祝福我吧",
+      "onboard_time": 1770883881,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 101185,
@@ -8699,6 +8795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 92680,
+      "num": 92680,
+      "word": "宋威龙赵今麦 马场有对象",
+      "onboard_time": 1770883820,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 92499,
       "num": 92499,
       "word": "A股全线大涨原因找到了",
@@ -9161,6 +9265,14 @@
       "onboard_time": 1770636680,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 88212,
+      "num": 96347,
+      "word": "为什么美国人说中国人是精灵族",
+      "onboard_time": 1770885860,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 88161,
@@ -9931,6 +10043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 81073,
+      "num": 81073,
+      "word": "杨幂到达长沙参加王者表演赛",
+      "onboard_time": 1770886521,
+      "rank": 44,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 80986,
       "num": 80986,
       "word": "打野怎么打回来一堆问号",
@@ -10547,6 +10667,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 75833,
+      "num": 75833,
+      "word": "北京冬奥爆火的凌智去哪了",
+      "onboard_time": 1770886701,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 75237,
       "num": 75237,
       "word": "过年拍全家福",
@@ -10691,6 +10819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 73473,
+      "num": 97590,
+      "word": "白宇演技",
+      "onboard_time": 1770886222,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 73446,
       "num": 73446,
       "word": "苏翊鸣太帅了",
@@ -10705,6 +10841,14 @@
       "onboard_time": 1770536601,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 73042,
+      "num": 180205,
+      "word": "中方提要求立陶宛新总理称能改",
+      "onboard_time": 1770886160,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 72736,
