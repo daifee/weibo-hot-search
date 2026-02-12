@@ -1,0 +1,410 @@
+{
+  "runTime": 1770890427332,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 530845,
+        "num": 1084935,
+        "word": "车厘子卖家赌涨价压货",
+        "onboard_time": 1770887359,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 472268,
+        "num": 768345,
+        "word": "团购12箱车厘子收到陈年僵尸果",
+        "onboard_time": 1770883820,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21823,
+        "num": 632926,
+        "word": "跨海列车背后的守护",
+        "onboard_time": 1770889159,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 309454,
+        "num": 309454,
+        "word": "中戏表演系原主任陈刚主动投案",
+        "onboard_time": 1770885081,
+        "rank": 3,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 279416,
+        "num": 279416,
+        "word": "20岁邓恩熙演30岁蒋龙的妈",
+        "onboard_time": 1770889280,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 639665,
+        "num": 258909,
+        "word": "第一次看到一箱草莓毫无食欲",
+        "onboard_time": 1770887600,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 195823,
+        "num": 195823,
+        "word": "谷爱凌不是输给第一名的第二名",
+        "onboard_time": 1770883161,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183258,
+        "num": 183258,
+        "word": "中方回应特朗普预计4月初访华",
+        "onboard_time": 1770884182,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 153318,
+        "num": 153318,
+        "word": "上海地铁嘉闵线发生局部渗漏",
+        "onboard_time": 1770881660,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145105,
+        "num": 145105,
+        "word": "为什么奶茶封口还要盖盖子",
+        "onboard_time": 1770874160,
+        "rank": 9,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 270095,
+        "num": 143151,
+        "word": "孙颖莎ELLE 6个封面",
+        "onboard_time": 1770868999,
+        "rank": 10,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 265366,
+        "num": 142253,
+        "word": "马龙和妻子回家过年",
+        "onboard_time": 1770888621,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 212008,
+        "num": 138298,
+        "word": "王楚钦跑一万米",
+        "onboard_time": 1770884421,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209763,
+        "num": 136763,
+        "word": "孙颖莎ELLE",
+        "onboard_time": 1770866479,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135079,
+        "num": 135079,
+        "word": "相亲吃烤肉",
+        "onboard_time": 1770870139,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 122710,
+        "num": 122710,
+        "word": "爱泼斯坦偷拍潜在受害者视频曝光",
+        "onboard_time": 1770887001,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 28057,
+        "num": 120552,
+        "word": "当明星遇上冬奥计时欧米茄",
+        "onboard_time": 1770887001,
+        "rank": 16,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 120125,
+        "num": 120125,
+        "word": "第一批回村的人已经出片了",
+        "onboard_time": 1770888140,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 99197,
+        "num": 119892,
+        "word": "孙颖莎 E人的I人属性",
+        "onboard_time": 1770869599,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95795,
+        "num": 118870,
+        "word": "微博红包",
+        "onboard_time": 1770863898,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1134917,
+        "num": 117715,
+        "word": "张馨予 你很有钱是吗",
+        "onboard_time": 1770881719,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 548615,
+        "num": 117162,
+        "word": "男子性侵前妻闺蜜被判10年8个月",
+        "onboard_time": 1770885380,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 496544,
+        "num": 116636,
+        "word": "蒋欣 当年真的错怪你了",
+        "onboard_time": 1770880820,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 427917,
+        "num": 115840,
+        "word": "保罗老婆生娃大出血3L",
+        "onboard_time": 1770886281,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 316129,
+        "num": 114503,
+        "word": "姐姐被藏尸位置就在弟弟店铺正上方",
+        "onboard_time": 1770870440,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 286401,
+        "num": 113967,
+        "word": "时代峰峻春联贴反了",
+        "onboard_time": 1770884361,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210941,
+        "num": 113190,
+        "word": "ILLIT NewJeans",
+        "onboard_time": 1770875480,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142772,
+        "num": 112296,
+        "word": "国庆前做的美甲忍到了现在",
+        "onboard_time": 1770884722,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 195951,
+        "num": 111410,
+        "word": "TFBOYS 你永远比别人多两个观众",
+        "onboard_time": 1770882920,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162253,
+        "num": 110466,
+        "word": "李一桐发了49999的红包",
+        "onboard_time": 1770855020,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216160,
+        "num": 110059,
+        "word": "孙颖莎头像挂件换成了皇冠",
+        "onboard_time": 1770889041,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146809,
+        "num": 109256,
+        "word": "时代少年团你们吵到陈都灵了",
+        "onboard_time": 1770887421,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108440,
+        "num": 108440,
+        "word": "男子出轨离婚出轨对象又出轨",
+        "onboard_time": 1770884781,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107918,
+        "num": 107918,
+        "word": "赵樱子do高颅顶",
+        "onboard_time": 1770873080,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142234,
+        "num": 107813,
+        "word": "李一桐 我比张凌赫强是吧",
+        "onboard_time": 1770883040,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94879,
+        "num": 106458,
+        "word": "太好了是烂梗我们没救了",
+        "onboard_time": 1770889280,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 105664,
+        "num": 105664,
+        "word": "白鹿红包封面",
+        "onboard_time": 1770885500,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75207,
+        "num": 104184,
+        "word": "霉变车厘子毒性可达砒霜68倍",
+        "onboard_time": 1770879919,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103906,
+        "num": 103906,
+        "word": "宋雨琦 出去就要大大方方的",
+        "onboard_time": 1770889461,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73039,
+        "num": 98166,
+        "word": "程潇沈月明日乐园杀青照",
+        "onboard_time": 1770889820,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91596,
+        "num": 97750,
+        "word": "沈阳暴风雨温泉洗浴",
+        "onboard_time": 1770888499,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 97344,
+        "num": 97344,
+        "word": "宋威龙晒被赵今麦扯开的领带",
+        "onboard_time": 1770872841,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97021,
+        "num": 97021,
+        "word": "丁程鑫是不是刷到朱志鑫崴脚了",
+        "onboard_time": 1770887060,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93595,
+        "num": 93595,
+        "word": "原来睡觉要用两个枕头",
+        "onboard_time": 1770886939,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 92874,
+        "num": 92874,
+        "word": "TOP 最纯正的青梅牛马",
+        "onboard_time": 1770888621,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85843,
+        "num": 85843,
+        "word": "逛大集偶遇李昀锐",
+        "onboard_time": 1770889999,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85604,
+        "num": 85604,
+        "word": "七莘路",
+        "onboard_time": 1770879619,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79695,
+        "num": 79695,
+        "word": "照片留痕的重要性",
+        "onboard_time": 1770890300,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 73988,
+        "num": 73988,
+        "word": "王莉霞严重违纪违法被双开",
+        "onboard_time": 1770876799,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 68183,
+        "num": 73617,
+        "word": "世界羽联同意采用新计分方式",
+        "onboard_time": 1770890360,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#感受总书记的新春牵挂#"
+    }
+  }
+}

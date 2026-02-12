@@ -1,6 +1,6 @@
 {
   "startTime": 1770826438780,
-  "endTime": 1770887597800,
+  "endTime": 1770890427332,
   "band_list": [
     {
       "raw_hot": 1648080,
@@ -91,6 +91,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 639665,
+      "num": 258909,
+      "word": "第一次看到一箱草莓毫无食欲",
+      "onboard_time": 1770887600,
+      "rank": 5,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 639273,
       "num": 1102283,
       "word": "体操运动员坠楼涉事教练被立案调查",
@@ -171,6 +179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 530845,
+      "num": 1084935,
+      "word": "车厘子卖家赌涨价压货",
+      "onboard_time": 1770887359,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 520310,
       "num": 180622,
       "word": "ILLIT NewJeans",
@@ -203,6 +219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 472268,
+      "num": 1071667,
+      "word": "团购12箱车厘子收到陈年僵尸果",
+      "onboard_time": 1770883820,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 453260,
       "num": 155835,
       "word": "宋威龙晒被赵今麦扯开的领带",
@@ -217,14 +241,6 @@
       "onboard_time": 1770854540,
       "rank": 20,
       "category": "艺人,健康医疗"
-    },
-    {
-      "raw_hot": 447923,
-      "num": 1071667,
-      "word": "团购12箱车厘子收到陈年僵尸果",
-      "onboard_time": 1770883820,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 446069,
@@ -249,6 +265,14 @@
       "onboard_time": 1770867741,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 427917,
+      "num": 159283,
+      "word": "保罗老婆生娃大出血3L",
+      "onboard_time": 1770886281,
+      "rank": 27,
+      "category": "网红"
     },
     {
       "raw_hot": 410506,
@@ -289,14 +313,6 @@
       "onboard_time": 1770805460,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 383571,
-      "num": 159283,
-      "word": "保罗老婆生娃大出血3L",
-      "onboard_time": 1770886281,
-      "rank": 27,
-      "category": "网红"
     },
     {
       "raw_hot": 375467,
@@ -435,6 +451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 286401,
+      "num": 180364,
+      "word": "时代峰峻春联贴反了",
+      "onboard_time": 1770884361,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 284779,
       "num": 192644,
       "word": "当街摔死多只兔子摊贩被行拘5天",
@@ -449,6 +473,14 @@
       "onboard_time": 1770884182,
       "rank": 5,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 279416,
+      "num": 279416,
+      "word": "20岁邓恩熙演30岁蒋龙的妈",
+      "onboard_time": 1770889280,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 277629,
@@ -491,6 +523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 265366,
+      "num": 142253,
+      "word": "马龙和妻子回家过年",
+      "onboard_time": 1770888621,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 262108,
       "num": 220290,
       "word": "巴黎是杨超越家",
@@ -520,14 +560,6 @@
       "word": "ZB1将以五人组活动",
       "onboard_time": 1770859999,
       "rank": 16,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 252974,
-      "num": 180364,
-      "word": "时代峰峻春联贴反了",
-      "onboard_time": 1770884361,
-      "rank": 18,
       "category": "艺人"
     },
     {
@@ -595,6 +627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 216160,
+      "num": 110059,
+      "word": "孙颖莎头像挂件换成了皇冠",
+      "onboard_time": 1770889041,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 211109,
       "num": 105805,
       "word": "男子出轨公婆照料婚外幼童刺痛女子",
@@ -640,6 +680,14 @@
       "word": "中国队又添一枚奖牌",
       "onboard_time": 1770848715,
       "rank": 7,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 195823,
+      "num": 195823,
+      "word": "谷爱凌不是输给第一名的第二名",
+      "onboard_time": 1770883161,
+      "rank": 36,
       "category": "体育"
     },
     {
@@ -819,6 +867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 153318,
+      "num": 153318,
+      "word": "上海地铁嘉闵线发生局部渗漏",
+      "onboard_time": 1770881660,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 152718,
       "num": 152718,
       "word": "人为什么要经常出去旅游",
@@ -872,6 +928,14 @@
       "word": "王广又闯祸了",
       "onboard_time": 1770864320,
       "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 146809,
+      "num": 109256,
+      "word": "时代少年团你们吵到陈都灵了",
+      "onboard_time": 1770887421,
+      "rank": 37,
       "category": "艺人"
     },
     {
@@ -1019,6 +1083,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 122710,
+      "num": 160214,
+      "word": "爱泼斯坦偷拍潜在受害者视频曝光",
+      "onboard_time": 1770887001,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 122632,
       "num": 122632,
       "word": "张婧仪 别乱说我没多大",
@@ -1033,6 +1105,14 @@
       "onboard_time": 1770812961,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 120125,
+      "num": 120125,
+      "word": "第一批回村的人已经出片了",
+      "onboard_time": 1770888140,
+      "rank": 17,
+      "category": "幽默"
     },
     {
       "raw_hot": 118950,
@@ -1083,14 +1163,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 112333,
-      "num": 112333,
-      "word": "谷爱凌不是输给第一名的第二名",
-      "onboard_time": 1770883161,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 109717,
       "num": 109717,
       "word": "韩国股民疯抢中国大模型龙头",
@@ -1129,6 +1201,14 @@
       "onboard_time": 1770865881,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103906,
+      "num": 103906,
+      "word": "宋雨琦 出去就要大大方方的",
+      "onboard_time": 1770889461,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 103039,
@@ -1187,14 +1267,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 98204,
-      "num": 98204,
-      "word": "上海地铁嘉闵线发生局部渗漏",
-      "onboard_time": 1770881660,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 98021,
       "num": 98021,
       "word": "两京十五日杀青",
@@ -1217,6 +1289,14 @@
       "onboard_time": 1770883161,
       "rank": 42,
       "category": "财经"
+    },
+    {
+      "raw_hot": 97021,
+      "num": 97021,
+      "word": "丁程鑫是不是刷到朱志鑫崴脚了",
+      "onboard_time": 1770887060,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 96660,
@@ -1259,12 +1339,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 94879,
+      "num": 106458,
+      "word": "太好了是烂梗我们没救了",
+      "onboard_time": 1770889280,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 94426,
       "num": 94426,
       "word": "何以琛今年50多岁了",
       "onboard_time": 1770817762,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 93595,
+      "num": 93595,
+      "word": "原来睡觉要用两个枕头",
+      "onboard_time": 1770886939,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 93472,
@@ -1283,12 +1379,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 92874,
+      "num": 92874,
+      "word": "TOP 最纯正的青梅牛马",
+      "onboard_time": 1770888621,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 92680,
       "num": 92680,
       "word": "宋威龙赵今麦 马场有对象",
       "onboard_time": 1770883820,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 91596,
+      "num": 97750,
+      "word": "沈阳暴风雨温泉洗浴",
+      "onboard_time": 1770888499,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 91155,
@@ -1419,6 +1531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 85843,
+      "num": 85843,
+      "word": "逛大集偶遇李昀锐",
+      "onboard_time": 1770889999,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 85797,
       "num": 85797,
       "word": "刘宇宁2026全都要",
@@ -1441,14 +1561,6 @@
       "onboard_time": 1770821961,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 84452,
-      "num": 84452,
-      "word": "车厘子卖家赌涨价压货",
-      "onboard_time": 1770887359,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 84418,
@@ -1521,6 +1633,14 @@
       "onboard_time": 1770877640,
       "rank": 43,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 79695,
+      "num": 79695,
+      "word": "照片留痕的重要性",
+      "onboard_time": 1770890300,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 79286,
@@ -1619,6 +1739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 73039,
+      "num": 98166,
+      "word": "程潇沈月明日乐园杀青照",
+      "onboard_time": 1770889820,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 72505,
       "num": 72505,
       "word": "刘佳宇现场救治近10分钟",
@@ -1681,6 +1809,14 @@
       "onboard_time": 1770866299,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 68183,
+      "num": 73617,
+      "word": "世界羽联同意采用新计分方式",
+      "onboard_time": 1770890360,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 67968,
@@ -1955,14 +2091,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 39476,
-      "num": 91647,
-      "word": "丁程鑫是不是刷到朱志鑫崴脚了",
-      "onboard_time": 1770887060,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 39216,
       "num": 160950,
       "word": "当明星遇上冬奥计时欧米茄",
@@ -1985,14 +2113,6 @@
       "onboard_time": 1770882620,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 34912,
-      "num": 160214,
-      "word": "爱泼斯坦偷拍潜在受害者视频曝光",
-      "onboard_time": 1770887001,
-      "rank": 19,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 34712,
@@ -2091,6 +2211,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 21823,
+      "num": 632926,
+      "word": "跨海列车背后的守护",
+      "onboard_time": 1770889159,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21779,
       "num": 29516,
       "word": "DeepSeek更新上下文达百万级token",
@@ -2105,14 +2233,6 @@
       "onboard_time": 1770840193,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 21024,
-      "num": 92841,
-      "word": "时代少年团你们吵到陈都灵了",
-      "onboard_time": 1770887421,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 19149,
@@ -2255,6 +2375,9 @@
     },
     {
       "word": "#总书记心系老字号传承发展#"
+    },
+    {
+      "word": "#感受总书记的新春牵挂#"
     }
   ]
 }
