@@ -1,6 +1,6 @@
 {
   "startTime": 1770482461321,
-  "endTime": 1770873319905,
+  "endTime": 1770878417758,
   "band_list": [
     {
       "raw_hot": 7279878,
@@ -145,6 +145,14 @@
       "onboard_time": 1770869119,
       "rank": 0,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 1191377,
+      "num": 182769,
+      "word": "姐姐被藏尸位置就在弟弟店铺正上方",
+      "onboard_time": 1770870440,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1167973,
@@ -337,14 +345,6 @@
       "onboard_time": 1770721161,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 943524,
-      "num": 182769,
-      "word": "姐姐被藏尸位置就在弟弟店铺正上方",
-      "onboard_time": 1770870440,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 938447,
@@ -963,6 +963,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 564709,
+      "num": 1090353,
+      "word": "钟南山院士说会用证据让全世界服气",
+      "onboard_time": 1770874640,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 564235,
       "num": 564235,
       "word": "薛之谦万兽之王演唱会官宣",
@@ -1009,6 +1017,14 @@
       "onboard_time": 1770818722,
       "rank": 3,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 551871,
+      "num": 171444,
+      "word": "赵樱子do高颅顶",
+      "onboard_time": 1770873080,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 551804,
@@ -1129,6 +1145,14 @@
       "onboard_time": 1770556944,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 519008,
+      "num": 164574,
+      "word": "ILLIT NewJeans",
+      "onboard_time": 1770875480,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 518869,
@@ -1427,6 +1451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 453260,
+      "num": 155835,
+      "word": "宋威龙晒被赵今麦扯开的领带",
+      "onboard_time": 1770872841,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 452892,
       "num": 180503,
       "word": "英国名媛称未入爱泼斯坦档案是侮辱",
@@ -1681,6 +1713,14 @@
       "onboard_time": 1770868399,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 410104,
+      "num": 150740,
+      "word": "前妻回应陶白白爆火时飘了",
+      "onboard_time": 1770872360,
+      "rank": 42,
+      "category": "网红"
     },
     {
       "raw_hot": 409201,
@@ -2651,6 +2691,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 303011,
+      "num": 764080,
+      "word": "杭州有一趟永不发车的列车",
+      "onboard_time": 1770873560,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 301249,
+      "num": 130100,
+      "word": "二胎妈妈跪求丈夫离婚放过自己",
+      "onboard_time": 1770874341,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 300166,
       "num": 300166,
       "word": "台团体不敢用ChineseNewYear",
@@ -2673,6 +2729,14 @@
       "onboard_time": 1770799401,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 298088,
+      "num": 773269,
+      "word": "从Deepseek到Seedance中国AI成了",
+      "onboard_time": 1770870200,
+      "rank": 4,
+      "category": "互联网"
     },
     {
       "raw_hot": 297977,
@@ -2785,14 +2849,6 @@
       "onboard_time": 1770730700,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 289419,
-      "num": 773269,
-      "word": "从Deepseek到Seedance中国AI成了",
-      "onboard_time": 1770870200,
-      "rank": 4,
-      "category": "互联网"
     },
     {
       "raw_hot": 288945,
@@ -3184,6 +3240,14 @@
       "word": "辛芷蕾威尼斯之后的变化",
       "onboard_time": 1770691999,
       "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 255293,
+      "num": 137630,
+      "word": "谁懂刘亦菲脸的对称度",
+      "onboard_time": 1770874759,
+      "rank": 17,
       "category": "艺人"
     },
     {
@@ -3939,6 +4003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 212339,
+      "num": 129260,
+      "word": "医生建议刷牙后先别漱口",
+      "onboard_time": 1770875900,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 211738,
       "num": 706408,
       "word": "张维伊被内推再见爱人",
@@ -4491,6 +4563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 183525,
+      "num": 183525,
+      "word": "王莉霞严重违纪违法被双开",
+      "onboard_time": 1770876799,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 182410,
       "num": 85281,
       "word": "女子给哥哥买房后却不许除夕留宿",
@@ -4585,6 +4665,14 @@
       "onboard_time": 1770524241,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 176209,
+      "num": 176209,
+      "word": "马斯克感慨Seedance2.0发展快",
+      "onboard_time": 1770876380,
+      "rank": 8,
+      "category": "互联网"
     },
     {
       "raw_hot": 175665,
@@ -4729,14 +4817,6 @@
       "onboard_time": 1770654858,
       "rank": 14,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 167876,
-      "num": 167876,
-      "word": "赵樱子do高颅顶",
-      "onboard_time": 1770873080,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 166970,
@@ -5779,6 +5859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133266,
+      "num": 122599,
+      "word": "剧还没播先吻上王子文",
+      "onboard_time": 1770877821,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 133239,
       "num": 133239,
       "word": "男子网购椅子竟多出15公斤银板",
@@ -5889,14 +5977,6 @@
       "onboard_time": 1770728121,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 130020,
-      "num": 130020,
-      "word": "宋威龙晒被赵今麦扯开的领带",
-      "onboard_time": 1770872841,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 129622,
@@ -6091,6 +6171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123079,
+      "num": 190108,
+      "word": "爱泼斯坦最神秘女友身份曝光",
+      "onboard_time": 1770872059,
+      "rank": 18,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 123040,
       "num": 123040,
       "word": "孙颖莎回应首夺亚洲杯冠军",
@@ -6155,14 +6243,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 121993,
-      "num": 121993,
-      "word": "前妻回应陶白白爆火时飘了",
-      "onboard_time": 1770872360,
-      "rank": 42,
-      "category": "网红"
-    },
-    {
       "raw_hot": 121916,
       "num": 121916,
       "word": "00后拜年方式",
@@ -6171,12 +6251,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 121904,
-      "num": 190108,
-      "word": "爱泼斯坦最神秘女友身份曝光",
-      "onboard_time": 1770872059,
-      "rank": 18,
-      "category": "海外新闻"
+      "raw_hot": 121505,
+      "num": 121505,
+      "word": "辛芷蕾倪妮高叶 火象三人组",
+      "onboard_time": 1770877399,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 121194,
@@ -6689,6 +6769,14 @@
       "onboard_time": 1770620840,
       "rank": 33,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 112702,
+      "num": 112702,
+      "word": "王莉霞被双开",
+      "onboard_time": 1770877159,
+      "rank": 28,
+      "category": "国内时政"
     },
     {
       "raw_hot": 112613,
@@ -7225,6 +7313,14 @@
       "onboard_time": 1770611001,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 106490,
+      "num": 106490,
+      "word": "为什么奶茶封口还要盖盖子",
+      "onboard_time": 1770874160,
+      "rank": 32,
+      "category": "科学科普"
     },
     {
       "raw_hot": 106474,
@@ -7793,6 +7889,14 @@
       "onboard_time": 1770649162,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 99225,
+      "num": 99225,
+      "word": "杨瀚森半个NBA职业生涯是摸爬滚打",
+      "onboard_time": 1770875239,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 99195,
@@ -8427,6 +8531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 92812,
+      "num": 174344,
+      "word": "荷兰选手回应与廉子文碰撞",
+      "onboard_time": 1770877880,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 92499,
       "num": 92499,
       "word": "A股全线大涨原因找到了",
@@ -8569,6 +8681,14 @@
       "onboard_time": 1770521780,
       "rank": 31,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 91009,
+      "num": 91009,
+      "word": "姜珮瑶拿火把 疯批美人",
+      "onboard_time": 1770874519,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 90946,
@@ -9059,6 +9179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 86563,
+      "num": 86563,
+      "word": "第一次有人把祛魅讲这么清楚",
+      "onboard_time": 1770877100,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86518,
       "num": 86518,
       "word": "白厄同人游戏PV初火",
@@ -9203,6 +9331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 85355,
+      "num": 85355,
+      "word": "李乃文陈飞宇 大孤山吃草莓",
+      "onboard_time": 1770873981,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 85294,
       "num": 85294,
       "word": "夫妇凌晨3点返乡家中灯火通明",
@@ -9281,6 +9417,14 @@
       "onboard_time": 1770717380,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 84418,
+      "num": 110326,
+      "word": "千问说买得开心过两天见",
+      "onboard_time": 1770876261,
+      "rank": 29,
+      "category": "互联网"
     },
     {
       "raw_hot": 84375,
@@ -9755,6 +9899,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 79933,
+      "num": 79933,
+      "word": "过年第一批烫发的人",
+      "onboard_time": 1770878181,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 79873,
       "num": 79873,
       "word": "年味不怎么浓班味很浓",
@@ -9801,6 +9953,14 @@
       "onboard_time": 1770546921,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 79739,
+      "num": 79739,
+      "word": "小米发布机器人基座模型",
+      "onboard_time": 1770877640,
+      "rank": 43,
+      "category": "互联网"
     },
     {
       "raw_hot": 79715,
@@ -12433,6 +12593,14 @@
       "onboard_time": 1770635121,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 34091,
+      "num": 88050,
+      "word": "女子用药后突然耳聋药店只赔200",
+      "onboard_time": 1770878000,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 33815,

@@ -1,6 +1,6 @@
 {
   "startTime": 1770826438780,
-  "endTime": 1770873319905,
+  "endTime": 1770878417758,
   "band_list": [
     {
       "raw_hot": 1221534,
@@ -9,6 +9,14 @@
       "onboard_time": 1770869119,
       "rank": 0,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 1191377,
+      "num": 182769,
+      "word": "姐姐被藏尸位置就在弟弟店铺正上方",
+      "onboard_time": 1770870440,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1042177,
@@ -33,14 +41,6 @@
       "onboard_time": 1770855020,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 943524,
-      "num": 182769,
-      "word": "姐姐被藏尸位置就在弟弟店铺正上方",
-      "onboard_time": 1770870440,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 682779,
@@ -91,11 +91,27 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 564709,
+      "num": 1090353,
+      "word": "钟南山院士说会用证据让全世界服气",
+      "onboard_time": 1770874640,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 554547,
       "num": 158595,
       "word": "女演员投资失败搬进出租屋",
       "onboard_time": 1770821361,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 551871,
+      "num": 171444,
+      "word": "赵樱子do高颅顶",
+      "onboard_time": 1770873080,
+      "rank": 22,
       "category": "艺人"
     },
     {
@@ -115,12 +131,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 519008,
+      "num": 164574,
+      "word": "ILLIT NewJeans",
+      "onboard_time": 1770875480,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 477357,
       "num": 802557,
       "word": "两名小孩扔爆竹致1200年古树起火",
       "onboard_time": 1770860600,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 453260,
+      "num": 155835,
+      "word": "宋威龙晒被赵今麦扯开的领带",
+      "onboard_time": 1770872841,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 452622,
@@ -161,6 +193,14 @@
       "onboard_time": 1770868399,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 410104,
+      "num": 150740,
+      "word": "前妻回应陶白白爆火时飘了",
+      "onboard_time": 1770872360,
+      "rank": 42,
+      "category": "网红"
     },
     {
       "raw_hot": 404819,
@@ -267,7 +307,23 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 289419,
+      "raw_hot": 303011,
+      "num": 764080,
+      "word": "杭州有一趟永不发车的列车",
+      "onboard_time": 1770873560,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 301249,
+      "num": 130100,
+      "word": "二胎妈妈跪求丈夫离婚放过自己",
+      "onboard_time": 1770874341,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 298088,
       "num": 773269,
       "word": "从Deepseek到Seedance中国AI成了",
       "onboard_time": 1770870200,
@@ -339,6 +395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 255293,
+      "num": 137630,
+      "word": "谁懂刘亦菲脸的对称度",
+      "onboard_time": 1770874759,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 254859,
       "num": 199755,
       "word": "ZB1将以五人组活动",
@@ -385,6 +449,14 @@
       "onboard_time": 1770825921,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 212339,
+      "num": 129260,
+      "word": "医生建议刷牙后先别漱口",
+      "onboard_time": 1770875900,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 211109,
@@ -483,6 +555,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 183525,
+      "num": 183525,
+      "word": "王莉霞严重违纪违法被双开",
+      "onboard_time": 1770876799,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 181154,
       "num": 181154,
       "word": "沈梦辰换了10套少数民族服装",
@@ -507,6 +587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 176209,
+      "num": 176209,
+      "word": "马斯克感慨Seedance2.0发展快",
+      "onboard_time": 1770876380,
+      "rank": 8,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 172704,
       "num": 190299,
       "word": "郑钦文vs莱巴金娜",
@@ -521,14 +609,6 @@
       "onboard_time": 1770818722,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 167876,
-      "num": 167876,
-      "word": "赵樱子do高颅顶",
-      "onboard_time": 1770873080,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 161612,
@@ -675,12 +755,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 130020,
-      "num": 130020,
-      "word": "宋威龙晒被赵今麦扯开的领带",
-      "onboard_time": 1770872841,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 133266,
+      "num": 122599,
+      "word": "剧还没播先吻上王子文",
+      "onboard_time": 1770877821,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 129524,
@@ -699,15 +779,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 121993,
-      "num": 121993,
-      "word": "前妻回应陶白白爆火时飘了",
-      "onboard_time": 1770872360,
-      "rank": 42,
-      "category": "网红"
-    },
-    {
-      "raw_hot": 121904,
+      "raw_hot": 123079,
       "num": 190108,
       "word": "爱泼斯坦最神秘女友身份曝光",
       "onboard_time": 1770872059,
@@ -721,6 +793,14 @@
       "onboard_time": 1770812961,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 121505,
+      "num": 121505,
+      "word": "辛芷蕾倪妮高叶 火象三人组",
+      "onboard_time": 1770877399,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 118950,
@@ -763,6 +843,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 112702,
+      "num": 112702,
+      "word": "王莉霞被双开",
+      "onboard_time": 1770877159,
+      "rank": 28,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 112474,
       "num": 139618,
       "word": "爸爸愣了一分钟才开始夸我",
@@ -795,6 +883,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 106490,
+      "num": 106490,
+      "word": "为什么奶茶封口还要盖盖子",
+      "onboard_time": 1770874160,
+      "rank": 32,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 106052,
       "num": 96585,
       "word": "王楚然有效播剧",
@@ -825,6 +921,14 @@
       "onboard_time": 1770821423,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 99225,
+      "num": 99225,
+      "word": "杨瀚森半个NBA职业生涯是摸爬滚打",
+      "onboard_time": 1770875239,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 99195,
@@ -907,6 +1011,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 92812,
+      "num": 174344,
+      "word": "荷兰选手回应与廉子文碰撞",
+      "onboard_time": 1770877880,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 91009,
+      "num": 91009,
+      "word": "姜珮瑶拿火把 疯批美人",
+      "onboard_time": 1770874519,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 90463,
       "num": 90463,
       "word": "郑嘉颖现在比九子夺嫡的时候还累",
@@ -979,6 +1099,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 86563,
+      "num": 86563,
+      "word": "第一次有人把祛魅讲这么清楚",
+      "onboard_time": 1770877100,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86413,
       "num": 86413,
       "word": "时代少年团春晚ilikeulike舞台",
@@ -987,12 +1115,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 85355,
+      "num": 85355,
+      "word": "李乃文陈飞宇 大孤山吃草莓",
+      "onboard_time": 1770873981,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 84828,
       "num": 84828,
       "word": "何炅回应嗓子哑了",
       "onboard_time": 1770821961,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 84418,
+      "num": 110326,
+      "word": "千问说买得开心过两天见",
+      "onboard_time": 1770876261,
+      "rank": 29,
+      "category": "互联网"
     },
     {
       "raw_hot": 83482,
@@ -1033,6 +1177,22 @@
       "onboard_time": 1770811520,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 79933,
+      "num": 79933,
+      "word": "过年第一批烫发的人",
+      "onboard_time": 1770878181,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 79739,
+      "num": 79739,
+      "word": "小米发布机器人基座模型",
+      "onboard_time": 1770877640,
+      "rank": 43,
+      "category": "互联网"
     },
     {
       "raw_hot": 79286,
@@ -1433,6 +1593,14 @@
       "onboard_time": 1770842354,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 34091,
+      "num": 88050,
+      "word": "女子用药后突然耳聋药店只赔200",
+      "onboard_time": 1770878000,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32603,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1770878417758,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 564709,
+        "num": 1090353,
+        "word": "钟南山院士说会用证据让全世界服气",
+        "onboard_time": 1770874640,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 303011,
+        "num": 764080,
+        "word": "杭州有一趟永不发车的列车",
+        "onboard_time": 1770873560,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32532,
+        "num": 637972,
+        "word": "中国人离登月又近了一步",
+        "onboard_time": 1770871821,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 298088,
+        "num": 298088,
+        "word": "从Deepseek到Seedance中国AI成了",
+        "onboard_time": 1770870200,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 209737,
+        "num": 209737,
+        "word": "两名小孩扔爆竹致1200年古树起火",
+        "onboard_time": 1770860600,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 308912,
+        "num": 199641,
+        "word": "相亲吃烤肉",
+        "onboard_time": 1770870139,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 185358,
+        "num": 185358,
+        "word": "2025年全国结婚登记676.3万对",
+        "onboard_time": 1770867741,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183525,
+        "num": 183525,
+        "word": "王莉霞严重违纪违法被双开",
+        "onboard_time": 1770876799,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 176209,
+        "num": 176209,
+        "word": "马斯克感慨Seedance2.0发展快",
+        "onboard_time": 1770876380,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 92812,
+        "num": 174344,
+        "word": "荷兰选手回应与廉子文碰撞",
+        "onboard_time": 1770877880,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 551871,
+        "num": 171444,
+        "word": "赵樱子do高颅顶",
+        "onboard_time": 1770873080,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 519008,
+        "num": 164574,
+        "word": "ILLIT NewJeans",
+        "onboard_time": 1770875480,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183316,
+        "num": 158829,
+        "word": "微博红包",
+        "onboard_time": 1770863898,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 453260,
+        "num": 155835,
+        "word": "宋威龙晒被赵今麦扯开的领带",
+        "onboard_time": 1770872841,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 410104,
+        "num": 150740,
+        "word": "前妻回应陶白白爆火时飘了",
+        "onboard_time": 1770872360,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 177684,
+        "num": 146561,
+        "word": "孙颖莎ELLE 6个封面",
+        "onboard_time": 1770868999,
+        "rank": 15,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 369658,
+        "num": 143147,
+        "word": "李一桐发了49999的红包",
+        "onboard_time": 1770855020,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255293,
+        "num": 137630,
+        "word": "谁懂刘亦菲脸的对称度",
+        "onboard_time": 1770874759,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136447,
+        "num": 136447,
+        "word": "法国3名婴儿因食用问题奶粉死亡",
+        "onboard_time": 1770867560,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 186863,
+        "num": 135865,
+        "word": "马思纯王楚然 表妹长大了",
+        "onboard_time": 1770871880,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1191377,
+        "num": 132727,
+        "word": "姐姐被藏尸位置就在弟弟店铺正上方",
+        "onboard_time": 1770870440,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 301249,
+        "num": 130100,
+        "word": "二胎妈妈跪求丈夫离婚放过自己",
+        "onboard_time": 1770874341,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212339,
+        "num": 129260,
+        "word": "医生建议刷牙后先别漱口",
+        "onboard_time": 1770875900,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 204355,
+        "num": 126594,
+        "word": "李一桐高情商公关",
+        "onboard_time": 1770862700,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166643,
+        "num": 124475,
+        "word": "井柏然就这样静静等着刘雯",
+        "onboard_time": 1770871461,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123079,
+        "num": 123079,
+        "word": "爱泼斯坦最神秘女友身份曝光",
+        "onboard_time": 1770872059,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 133266,
+        "num": 122599,
+        "word": "剧还没播先吻上王子文",
+        "onboard_time": 1770877821,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121505,
+        "num": 121505,
+        "word": "辛芷蕾倪妮高叶 火象三人组",
+        "onboard_time": 1770877399,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112702,
+        "num": 112702,
+        "word": "王莉霞被双开",
+        "onboard_time": 1770877159,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 84418,
+        "num": 110326,
+        "word": "千问说买得开心过两天见",
+        "onboard_time": 1770876261,
+        "rank": 29,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 116036,
+        "num": 110302,
+        "word": "陈妍希官宣喜综",
+        "onboard_time": 1770868399,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109043,
+        "num": 109043,
+        "word": "孙颖莎ELLE",
+        "onboard_time": 1770866479,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106490,
+        "num": 106490,
+        "word": "为什么奶茶封口还要盖盖子",
+        "onboard_time": 1770874160,
+        "rank": 32,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 99225,
+        "num": 99225,
+        "word": "杨瀚森半个NBA职业生涯是摸爬滚打",
+        "onboard_time": 1770875239,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99174,
+        "num": 99174,
+        "word": "游乐王子的女儿感染合胞病毒",
+        "onboard_time": 1770854540,
+        "rank": 34,
+        "category": "艺人,健康医疗"
+      },
+      {
+        "raw_hot": 98844,
+        "num": 98844,
+        "word": "李健 春晚",
+        "onboard_time": 1770866240,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 91901,
+        "num": 91901,
+        "word": "iPhone18Pro再爆料",
+        "onboard_time": 1770871580,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 91426,
+        "num": 91426,
+        "word": "长期侧睡对颜值的影响",
+        "onboard_time": 1770866179,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 91009,
+        "num": 91009,
+        "word": "姜珮瑶拿火把 疯批美人",
+        "onboard_time": 1770874519,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34091,
+        "num": 88050,
+        "word": "女子用药后突然耳聋药店只赔200",
+        "onboard_time": 1770878000,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86563,
+        "num": 86563,
+        "word": "第一次有人把祛魅讲这么清楚",
+        "onboard_time": 1770877100,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85355,
+        "num": 85355,
+        "word": "李乃文陈飞宇 大孤山吃草莓",
+        "onboard_time": 1770873981,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79933,
+        "num": 79933,
+        "word": "过年第一批烫发的人",
+        "onboard_time": 1770878181,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 79739,
+        "num": 79739,
+        "word": "小米发布机器人基座模型",
+        "onboard_time": 1770877640,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 78097,
+        "num": 78097,
+        "word": "中国速滑米兰冬奥首枚奖牌",
+        "onboard_time": 1770866720,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77953,
+        "num": 77953,
+        "word": "玫瑰丛生定档",
+        "onboard_time": 1770863059,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 77107,
+        "num": 77107,
+        "word": "成毅朱瞻基特辑",
+        "onboard_time": 1770865460,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74845,
+        "num": 74845,
+        "word": "4岁假肢女孩穿满钻假肢走秀",
+        "onboard_time": 1770872779,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77851,
+        "num": 74837,
+        "word": "蔡徐坤Colder纪录片",
+        "onboard_time": 1770872360,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 74755,
+        "num": 74755,
+        "word": "Knight说自己收到病危通知书",
+        "onboard_time": 1770872301,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记心系老字号传承发展#"
+    }
+  }
+}
