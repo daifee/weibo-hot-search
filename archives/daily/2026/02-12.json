@@ -1,6 +1,6 @@
 {
   "startTime": 1770826438780,
-  "endTime": 1770891245508,
+  "endTime": 1770893963157,
   "band_list": [
     {
       "raw_hot": 1648080,
@@ -67,6 +67,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 764458,
+      "num": 764458,
+      "word": "王者荣耀马年全明星表演赛",
+      "onboard_time": 1770891981,
+      "rank": 3,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 716154,
       "num": 1114584,
       "word": "王莉霞严重违纪违法被双开",
@@ -76,7 +84,7 @@
     },
     {
       "raw_hot": 683837,
-      "num": 258909,
+      "num": 591124,
       "word": "第一次看到一箱草莓毫无食欲",
       "onboard_time": 1770887600,
       "rank": 5,
@@ -227,6 +235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 459644,
+      "num": 825949,
+      "word": "谷爱凌不是输给第一名的第二名",
+      "onboard_time": 1770883161,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 453260,
       "num": 155835,
       "word": "宋威龙晒被赵今麦扯开的领带",
@@ -347,6 +363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 345014,
+      "num": 125554,
+      "word": "杨幂校花学姐",
+      "onboard_time": 1770890959,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 336832,
       "num": 992462,
       "word": "廉子文被取消成绩",
@@ -380,7 +404,7 @@
     },
     {
       "raw_hot": 315258,
-      "num": 315258,
+      "num": 599216,
       "word": "20岁邓恩熙演30岁蒋龙的妈",
       "onboard_time": 1770889280,
       "rank": 4,
@@ -433,6 +457,14 @@
       "onboard_time": 1770873560,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 302693,
+      "num": 243558,
+      "word": "第一批回村的人已经出片了",
+      "onboard_time": 1770888140,
+      "rank": 17,
+      "category": "幽默"
     },
     {
       "raw_hot": 301249,
@@ -539,14 +571,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 259013,
-      "num": 259013,
-      "word": "谷爱凌不是输给第一名的第二名",
-      "onboard_time": 1770883161,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 257710,
       "num": 212871,
       "word": "黄金白银直线下跌",
@@ -635,6 +659,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 225291,
+      "num": 181945,
+      "word": "沈阳暴风雨温泉洗浴",
+      "onboard_time": 1770888499,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 224354,
+      "num": 224354,
+      "word": "无畏支持蔡徐坤新歌",
+      "onboard_time": 1770892220,
+      "rank": 6,
+      "category": "音乐,电竞"
+    },
+    {
       "raw_hot": 216160,
       "num": 243424,
       "word": "孙颖莎头像挂件换成了皇冠",
@@ -667,12 +707,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 207995,
-      "num": 243558,
-      "word": "第一批回村的人已经出片了",
-      "onboard_time": 1770888140,
-      "rank": 17,
-      "category": "幽默"
+      "raw_hot": 207538,
+      "num": 188192,
+      "word": "时代少年团你们吵到陈都灵了",
+      "onboard_time": 1770887421,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 207119,
@@ -723,6 +763,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 191565,
+      "num": 191565,
+      "word": "年少有为",
+      "onboard_time": 1770859222,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 191361,
       "num": 244107,
       "word": "为什么奶茶封口还要盖盖子",
@@ -737,14 +785,6 @@
       "onboard_time": 1770866720,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 188192,
-      "num": 188192,
-      "word": "时代少年团你们吵到陈都灵了",
-      "onboard_time": 1770887421,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 187744,
@@ -851,6 +891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 163570,
+      "num": 244419,
+      "word": "上海地铁嘉闵线发生局部渗漏",
+      "onboard_time": 1770881660,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 161612,
       "num": 161612,
       "word": "爱泼斯坦死后遗体被秘密转移",
@@ -881,14 +929,6 @@
       "onboard_time": 1770819743,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 153318,
-      "num": 244419,
-      "word": "上海地铁嘉闵线发生局部渗漏",
-      "onboard_time": 1770881660,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 152718,
@@ -963,6 +1003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 143986,
+      "num": 143986,
+      "word": "成何体统",
+      "onboard_time": 1770804499,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 143815,
       "num": 143815,
       "word": "杨紫白菊真变白局了",
@@ -1027,6 +1075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 138607,
+      "num": 102749,
+      "word": "高市早苗或将释放三大恶魔",
+      "onboard_time": 1770892639,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 136356,
       "num": 136356,
       "word": "你们蛋蛋后都是这么剧宣的吗",
@@ -1075,20 +1131,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 125554,
-      "num": 125554,
-      "word": "杨幂校花学姐",
-      "onboard_time": 1770890959,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 125471,
       "num": 125471,
       "word": "年前和年后的美甲店",
       "onboard_time": 1770880220,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 125329,
+      "num": 103906,
+      "word": "宋雨琦 出去就要大大方方的",
+      "onboard_time": 1770889461,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 124706,
@@ -1129,14 +1185,6 @@
       "onboard_time": 1770812961,
       "rank": 27,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 119933,
-      "num": 138643,
-      "word": "沈阳暴风雨温泉洗浴",
-      "onboard_time": 1770888499,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 118950,
@@ -1227,14 +1275,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 103906,
-      "num": 103906,
-      "word": "宋雨琦 出去就要大大方方的",
-      "onboard_time": 1770889461,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 103039,
       "num": 103039,
       "word": "TF四代新歌川渝春晚首秀",
@@ -1243,12 +1283,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 102790,
+      "num": 102790,
+      "word": "男子称外籍妻子失联后转走全部家当",
+      "onboard_time": 1770892399,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102724,
+      "num": 102724,
+      "word": "LOL登顶网吧游戏热力榜",
+      "onboard_time": 1770892999,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 102097,
       "num": 102097,
       "word": "薛之谦歌曲被抄袭部分歌词被照搬",
       "onboard_time": 1770821423,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 101970,
+      "num": 101970,
+      "word": "舌头翘一翘身体好坏都知道",
+      "onboard_time": 1770892461,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 101354,
@@ -1363,14 +1427,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 94989,
-      "num": 94989,
-      "word": "成何体统",
-      "onboard_time": 1770804499,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 94879,
       "num": 106458,
       "word": "太好了是烂梗我们没救了",
@@ -1419,6 +1475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 92399,
+      "num": 92399,
+      "word": "这不是陪床这是解药",
+      "onboard_time": 1770892280,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 91155,
       "num": 91155,
       "word": "第五人格",
@@ -1441,14 +1505,6 @@
       "onboard_time": 1770870921,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 90192,
-      "num": 90192,
-      "word": "年少有为",
-      "onboard_time": 1770859222,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 89835,
@@ -1587,6 +1643,30 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 84145,
+      "num": 84145,
+      "word": "王一博搞笑很多年了",
+      "onboard_time": 1770892999,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 84028,
+      "num": 84028,
+      "word": "微博之夜 绝美打光",
+      "onboard_time": 1770892579,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 83755,
+      "num": 83755,
+      "word": "程潇 我只眼神给出去",
+      "onboard_time": 1770892520,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 83482,
       "num": 69908,
       "word": "这种看似舒服的睡姿最伤脊椎",
@@ -1601,6 +1681,14 @@
       "onboard_time": 1770863960,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 82637,
+      "num": 102762,
+      "word": "钢架雪车",
+      "onboard_time": 1770893601,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 82524,
@@ -1739,6 +1827,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 73822,
+      "num": 100271,
+      "word": "张凌赫粉丝爬半天山拍了三遍林允",
+      "onboard_time": 1770893719,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 73659,
       "num": 59400,
       "word": "新郎投壶未中箭矢回弹指向新娘",
@@ -1828,7 +1924,7 @@
     },
     {
       "raw_hot": 68183,
-      "num": 73617,
+      "num": 75160,
       "word": "世界羽联同意采用新计分方式",
       "onboard_time": 1770890360,
       "rank": 49,
@@ -2027,6 +2123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 44706,
+      "num": 243223,
+      "word": "马年生肖运势",
+      "onboard_time": 1770890482,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 44504,
       "num": 203542,
       "word": "用鸿蒙把春节过成爽剧",
@@ -2115,20 +2219,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 39688,
+      "num": 97647,
+      "word": "成龙把掉地上的口香糖捡起来吃了",
+      "onboard_time": 1770893420,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 39216,
       "num": 242744,
       "word": "当明星遇上冬奥计时欧米茄",
       "onboard_time": 1770887001,
       "rank": 17,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 38173,
-      "num": 243223,
-      "word": "马年生肖运势",
-      "onboard_time": 1770890482,
-      "rank": 14,
-      "category": "情感"
     },
     {
       "raw_hot": 36928,
@@ -2145,6 +2249,14 @@
       "onboard_time": 1770882620,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 36355,
+      "num": 773752,
+      "word": "严厉打击无AI标识虚假不实信息",
+      "onboard_time": 1770892999,
+      "rank": 2,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 34712,
@@ -2233,6 +2345,14 @@
       "onboard_time": 1770871641,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 22842,
+      "num": 96709,
+      "word": "孩子丢东西家长强行搜身同学",
+      "onboard_time": 1770893241,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 22841,
@@ -2387,6 +2507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 12242,
+      "num": 102732,
+      "word": "45亿红包背后的巨头AI卡位战",
+      "onboard_time": 1770893719,
+      "rank": 32,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 11322,
       "num": 17815,
       "word": "TBZ 没有消息就是好消息",
@@ -2434,6 +2562,9 @@
     },
     {
       "word": "#感受总书记的新春牵挂#"
+    },
+    {
+      "word": "#支持广大科研人员勇攀科学高峰#"
     }
   ]
 }

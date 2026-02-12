@@ -1,0 +1,410 @@
+{
+  "runTime": 1770893963157,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 665807,
+        "num": 1106529,
+        "word": "车厘子卖家赌涨价压货",
+        "onboard_time": 1770887359,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 459644,
+        "num": 825949,
+        "word": "谷爱凌不是输给第一名的第二名",
+        "onboard_time": 1770883161,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36355,
+        "num": 773752,
+        "word": "严厉打击无AI标识虚假不实信息",
+        "onboard_time": 1770892999,
+        "rank": 2,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 764458,
+        "num": 764458,
+        "word": "王者荣耀马年全明星表演赛",
+        "onboard_time": 1770891981,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 299997,
+        "num": 599216,
+        "word": "20岁邓恩熙演30岁蒋龙的妈",
+        "onboard_time": 1770889280,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 591124,
+        "num": 591124,
+        "word": "第一次看到一箱草莓毫无食欲",
+        "onboard_time": 1770887600,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 224354,
+        "num": 224354,
+        "word": "无畏支持蔡徐坤新歌",
+        "onboard_time": 1770892220,
+        "rank": 6,
+        "category": "音乐,电竞"
+      },
+      {
+        "raw_hot": 193978,
+        "num": 193978,
+        "word": "团购12箱车厘子收到陈年僵尸果",
+        "onboard_time": 1770883820,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191565,
+        "num": 191565,
+        "word": "年少有为",
+        "onboard_time": 1770893902,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163570,
+        "num": 183840,
+        "word": "上海地铁嘉闵线发生局部渗漏",
+        "onboard_time": 1770881660,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 302693,
+        "num": 182305,
+        "word": "第一批回村的人已经出片了",
+        "onboard_time": 1770888140,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 225291,
+        "num": 181945,
+        "word": "沈阳暴风雨温泉洗浴",
+        "onboard_time": 1770888499,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 178983,
+        "num": 178983,
+        "word": "马龙和妻子回家过年",
+        "onboard_time": 1770888621,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167246,
+        "num": 167246,
+        "word": "孙颖莎头像挂件换成了皇冠",
+        "onboard_time": 1770889041,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 44706,
+        "num": 162961,
+        "word": "马年生肖运势",
+        "onboard_time": 1770890482,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 162226,
+        "num": 162226,
+        "word": "中戏表演系原主任陈刚主动投案",
+        "onboard_time": 1770885081,
+        "rank": 15,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 149968,
+        "num": 149968,
+        "word": "孙颖莎ELLE 6个封面",
+        "onboard_time": 1770868999,
+        "rank": 16,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 143986,
+        "num": 143986,
+        "word": "成何体统",
+        "onboard_time": 1770891259,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115025,
+        "num": 115025,
+        "word": "孙颖莎ELLE",
+        "onboard_time": 1770866479,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110715,
+        "num": 110715,
+        "word": "唐宫姚安娜身份果然不简单",
+        "onboard_time": 1770890661,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 966123,
+        "num": 109954,
+        "word": "张馨予 你很有钱是吗",
+        "onboard_time": 1770881719,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 408714,
+        "num": 106939,
+        "word": "男子性侵前妻闺蜜被判10年8个月",
+        "onboard_time": 1770885380,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 353726,
+        "num": 106523,
+        "word": "蒋欣 当年真的错怪你了",
+        "onboard_time": 1770880820,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 345014,
+        "num": 102950,
+        "word": "杨幂校花学姐",
+        "onboard_time": 1770890959,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102790,
+        "num": 102790,
+        "word": "男子称外籍妻子失联后转走全部家当",
+        "onboard_time": 1770892399,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 328564,
+        "num": 102789,
+        "word": "姐姐被藏尸位置就在弟弟店铺正上方",
+        "onboard_time": 1770870440,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207538,
+        "num": 102779,
+        "word": "时代少年团你们吵到陈都灵了",
+        "onboard_time": 1770887421,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167209,
+        "num": 102773,
+        "word": "ILLIT NewJeans",
+        "onboard_time": 1770875480,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82637,
+        "num": 102762,
+        "word": "钢架雪车",
+        "onboard_time": 1770893601,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151789,
+        "num": 102758,
+        "word": "时代峰峻春联贴反了",
+        "onboard_time": 1770884361,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138607,
+        "num": 102749,
+        "word": "高市早苗或将释放三大恶魔",
+        "onboard_time": 1770892639,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 125329,
+        "num": 102746,
+        "word": "宋雨琦 出去就要大大方方的",
+        "onboard_time": 1770889461,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12242,
+        "num": 102732,
+        "word": "45亿红包背后的巨头AI卡位战",
+        "onboard_time": 1770893719,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 112883,
+        "num": 102731,
+        "word": "TFBOYS 你永远比别人多两个观众",
+        "onboard_time": 1770882920,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102724,
+        "num": 102724,
+        "word": "LOL登顶网吧游戏热力榜",
+        "onboard_time": 1770892999,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 101970,
+        "num": 101970,
+        "word": "舌头翘一翘身体好坏都知道",
+        "onboard_time": 1770892461,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 79868,
+        "num": 100728,
+        "word": "中方回应特朗普预计4月初访华",
+        "onboard_time": 1770884182,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 73822,
+        "num": 100271,
+        "word": "张凌赫粉丝爬半天山拍了三遍林允",
+        "onboard_time": 1770893719,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39688,
+        "num": 97647,
+        "word": "成龙把掉地上的口香糖捡起来吃了",
+        "onboard_time": 1770893420,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 22842,
+        "num": 96709,
+        "word": "孩子丢东西家长强行搜身同学",
+        "onboard_time": 1770893241,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95271,
+        "num": 95271,
+        "word": "李一桐发了49999的红包",
+        "onboard_time": 1770855020,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92399,
+        "num": 92399,
+        "word": "这不是陪床这是解药",
+        "onboard_time": 1770892280,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 84145,
+        "num": 84145,
+        "word": "王一博搞笑很多年了",
+        "onboard_time": 1770892999,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84028,
+        "num": 84028,
+        "word": "微博之夜 绝美打光",
+        "onboard_time": 1770892579,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 76058,
+        "num": 83883,
+        "word": "太好了是烂梗我们没救了",
+        "onboard_time": 1770889280,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 83755,
+        "num": 83755,
+        "word": "程潇 我只眼神给出去",
+        "onboard_time": 1770892520,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81002,
+        "num": 81002,
+        "word": "TOP 最纯正的青梅牛马",
+        "onboard_time": 1770888621,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75543,
+        "num": 75543,
+        "word": "国庆前做的美甲忍到了现在",
+        "onboard_time": 1770884722,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 75431,
+        "num": 75431,
+        "word": "为什么奶茶封口还要盖盖子",
+        "onboard_time": 1770874160,
+        "rank": 48,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 67885,
+        "num": 75160,
+        "word": "世界羽联同意采用新计分方式",
+        "onboard_time": 1770890360,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#支持广大科研人员勇攀科学高峰#"
+    }
+  }
+}
