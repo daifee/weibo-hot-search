@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/02/01 00:39:22 ~ 2026/02/12 14:40:17
+本榜单时间：2026/02/01 00:39:22 ~ 2026/02/12 15:11:55
 </p>
 </blockquote>
 <p>
@@ -1437,6 +1437,12 @@ TOP不解散不单飞（热度：983065）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%8E%89%E9%9C%9E%E4%B8%A5%E9%87%8D%E8%BF%9D%E7%BA%AA%E8%BF%9D%E6%B3%95%E8%A2%AB%E5%8F%8C%E5%BC%80%23" target="weibo">
+王莉霞严重违纪违法被双开（热度：716154）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%232025%E5%B9%B4%E7%83%AD%E6%90%9C%E7%88%86%E4%BA%86434%E6%AC%A1%23" target="weibo">
 2025年热搜爆了434次（热度：715741）
 </a>
@@ -2470,7 +2476,7 @@ AI 恐怖（热度：522881）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23ILLIT%20NewJeans%23" target="weibo">
-ILLIT NewJeans（热度：519008）
+ILLIT NewJeans（热度：520310）
 </a>
 </li>
 
@@ -5223,6 +5229,12 @@ whywhywhy没上榜（热度：314129）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B0%81%E6%87%82%E5%88%98%E4%BA%A6%E8%8F%B2%E8%84%B8%E7%9A%84%E5%AF%B9%E7%A7%B0%E5%BA%A6%23" target="weibo">
+谁懂刘亦菲脸的对称度（热度：308004）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%88%E5%A4%AB%E8%A2%AB%E6%8C%87%E5%87%BA%E8%BD%A8%E6%80%92%E6%8F%AD%E5%A6%BB%E5%AD%90%E5%A9%9A%E5%89%8D%E5%A4%9A%E6%AC%A1%E5%A0%95%E8%83%8E%23" target="weibo">
 丈夫被指出轨怒揭妻子婚前多次堕胎（热度：307928）
 </a>
@@ -5841,6 +5853,12 @@ GAI周延儿子柚柚近照（热度：287257）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E5%BB%BA%E8%AE%AE%E5%88%B7%E7%89%99%E5%90%8E%E5%85%88%E5%88%AB%E6%BC%B1%E5%8F%A3%23" target="weibo">
+医生建议刷牙后先别漱口（热度：277385）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%8E%E6%9C%97%E8%B0%88%E4%B8%8D%E5%86%8D%E4%B8%8A%E7%BB%BC%E8%89%BA%E7%9A%84%E5%8E%9F%E5%9B%A0%23" target="weibo">
 郎朗谈不再上综艺的原因（热度：277014）
 </a>
@@ -5993,24 +6011,6 @@ GAI周延儿子柚柚近照（热度：287257）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B6%E8%8C%B6%E5%93%81%E7%89%8C%E4%B8%BA%E5%8D%83%E9%97%AE%E5%85%8D%E5%8D%95%E6%8B%BC%E4%BA%86%23" target="weibo">
 奶茶品牌为千问免单拼了（热度：270044）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%89%A7%E6%94%BF%E8%81%94%E7%9B%9F%E5%B0%86%E8%8E%B7%E4%BC%97%E8%AE%AE%E9%99%A2%E8%BF%87%E5%8D%8A%E8%AE%AE%E5%B8%AD%23" target="weibo">
-日本执政联盟将获众议院过半议席（热度：269829）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%B8%82%E5%9C%BA%E8%BF%8E%E6%9D%A5%E8%B0%83%E6%95%B4%23" target="weibo">
-A股市场迎来调整（热度：268994）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E7%BD%91%E6%80%80%E7%96%91%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E8%A2%AB%E6%8E%89%E5%8C%85%23" target="weibo">
-外网怀疑爱泼斯坦被掉包（热度：268722）
 </a>
 </li>
 

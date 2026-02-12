@@ -1,0 +1,410 @@
+{
+  "runTime": 1770880315909,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 716154,
+        "num": 1114584,
+        "word": "王莉霞严重违纪违法被双开",
+        "onboard_time": 1770876799,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 405050,
+        "num": 820254,
+        "word": "钟南山院士说会用证据让全世界服气",
+        "onboard_time": 1770874640,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33006,
+        "num": 627682,
+        "word": "中国人离登月又近了一步",
+        "onboard_time": 1770871821,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228010,
+        "num": 228010,
+        "word": "杭州有一趟永不发车的列车",
+        "onboard_time": 1770873560,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209653,
+        "num": 209653,
+        "word": "从Deepseek到Seedance中国AI成了",
+        "onboard_time": 1770870200,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 273778,
+        "num": 200759,
+        "word": "相亲吃烤肉",
+        "onboard_time": 1770870139,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 182653,
+        "num": 182653,
+        "word": "两名小孩扔爆竹致1200年古树起火",
+        "onboard_time": 1770860600,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161852,
+        "num": 161852,
+        "word": "荷兰选手回应与廉子文碰撞",
+        "onboard_time": 1770877880,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143317,
+        "num": 143317,
+        "word": "2025年全国结婚登记676.3万对",
+        "onboard_time": 1770867741,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97345,
+        "num": 143227,
+        "word": "法国3名婴儿因食用问题奶粉死亡",
+        "onboard_time": 1770867560,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 520310,
+        "num": 142908,
+        "word": "ILLIT NewJeans",
+        "onboard_time": 1770875480,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 508412,
+        "num": 142744,
+        "word": "赵樱子do高颅顶",
+        "onboard_time": 1770873080,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249679,
+        "num": 142447,
+        "word": "马斯克感慨Seedance2.0发展快",
+        "onboard_time": 1770876380,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 401371,
+        "num": 142346,
+        "word": "宋威龙晒被赵今麦扯开的领带",
+        "onboard_time": 1770872841,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 324510,
+        "num": 142150,
+        "word": "李一桐发了49999的红包",
+        "onboard_time": 1770855020,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163950,
+        "num": 141725,
+        "word": "微博红包",
+        "onboard_time": 1770863898,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 308004,
+        "num": 141489,
+        "word": "谁懂刘亦菲脸的对称度",
+        "onboard_time": 1770874759,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221895,
+        "num": 141290,
+        "word": "前妻回应陶白白爆火时飘了",
+        "onboard_time": 1770872360,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 153738,
+        "num": 141048,
+        "word": "孙颖莎ELLE 6个封面",
+        "onboard_time": 1770868999,
+        "rank": 18,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 179598,
+        "num": 141021,
+        "word": "辛芷蕾倪妮高叶 火象三人组",
+        "onboard_time": 1770877399,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1143224,
+        "num": 140785,
+        "word": "姐姐被藏尸位置就在弟弟店铺正上方",
+        "onboard_time": 1770870440,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 277385,
+        "num": 140510,
+        "word": "医生建议刷牙后先别漱口",
+        "onboard_time": 1770875900,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 270210,
+        "num": 140187,
+        "word": "二胎妈妈跪求丈夫离婚放过自己",
+        "onboard_time": 1770874341,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176184,
+        "num": 139949,
+        "word": "李一桐高情商公关",
+        "onboard_time": 1770862700,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139890,
+        "num": 139890,
+        "word": "王一博2025总结",
+        "onboard_time": 1770879619,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132481,
+        "num": 132481,
+        "word": "安徽一小伙迎娶00后埃及女生",
+        "onboard_time": 1770878780,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124706,
+        "num": 124706,
+        "word": "王莉霞被双开",
+        "onboard_time": 1770877159,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 141198,
+        "num": 117627,
+        "word": "韩国粉丝喊话陈哲远必须演现偶",
+        "onboard_time": 1770879079,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140832,
+        "num": 110276,
+        "word": "马思纯王楚然 表妹长大了",
+        "onboard_time": 1770871880,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102224,
+        "num": 102224,
+        "word": "霉变车厘子毒性可达砒霜68倍",
+        "onboard_time": 1770879919,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127095,
+        "num": 101680,
+        "word": "建议把前额叶纳入择偶标准",
+        "onboard_time": 1770879680,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 108017,
+        "num": 101552,
+        "word": "井柏然就这样静静等着刘雯",
+        "onboard_time": 1770871461,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55955,
+        "num": 100960,
+        "word": "千问说买得开心过两天见",
+        "onboard_time": 1770876261,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 100758,
+        "num": 100758,
+        "word": "长期侧睡对颜值的影响",
+        "onboard_time": 1770866179,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 95456,
+        "num": 95456,
+        "word": "七莘路",
+        "onboard_time": 1770879619,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91592,
+        "num": 91592,
+        "word": "为什么奶茶封口还要盖盖子",
+        "onboard_time": 1770874160,
+        "rank": 35,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 89642,
+        "num": 89642,
+        "word": "孙颖莎ELLE",
+        "onboard_time": 1770866479,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88960,
+        "num": 88960,
+        "word": "生命树里袁弘和胡歌什么关系",
+        "onboard_time": 1770879979,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87655,
+        "num": 87655,
+        "word": "剧还没播先吻上王子文",
+        "onboard_time": 1770877821,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22841,
+        "num": 86339,
+        "word": "刘耀文嘘从张峻豪",
+        "onboard_time": 1770880160,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 85797,
+        "num": 85797,
+        "word": "刘宇宁2026全都要",
+        "onboard_time": 1770879020,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 80245,
+        "num": 84976,
+        "word": "女子用药后突然耳聋药店只赔200",
+        "onboard_time": 1770878000,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84309,
+        "num": 84309,
+        "word": "陈妍希官宣喜综",
+        "onboard_time": 1770868399,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82532,
+        "num": 82532,
+        "word": "游乐王子的女儿感染合胞病毒",
+        "onboard_time": 1770854540,
+        "rank": 43,
+        "category": "艺人,健康医疗"
+      },
+      {
+        "raw_hot": 77080,
+        "num": 79185,
+        "word": "iPhone18Pro再爆料",
+        "onboard_time": 1770871580,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 78221,
+        "num": 78221,
+        "word": "李乃文陈飞宇 大孤山吃草莓",
+        "onboard_time": 1770873981,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77120,
+        "num": 77120,
+        "word": "蔡徐坤Colder纪录片",
+        "onboard_time": 1770872360,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 76675,
+        "num": 76675,
+        "word": "爱泼斯坦最神秘女友身份曝光",
+        "onboard_time": 1770872059,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 75901,
+        "num": 75901,
+        "word": "年前和年后的美甲店",
+        "onboard_time": 1770880220,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 74624,
+        "num": 74624,
+        "word": "惊蛰无声",
+        "onboard_time": 1770878539,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记在十五五开局之年的首次考察#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1770878417758,
+  "endTime": 1770880315909,
   "band_list": [
     {
       "raw_hot": 12386962,
@@ -1899,6 +1899,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 716154,
+      "num": 1114584,
+      "word": "王莉霞严重违纪违法被双开",
+      "onboard_time": 1770876799,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 715741,
       "num": 715741,
       "word": "2025年热搜爆了434次",
@@ -3275,7 +3283,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 519008,
+      "raw_hot": 520310,
       "num": 164574,
       "word": "ILLIT NewJeans",
       "onboard_time": 1770875480,
@@ -6947,6 +6955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 308004,
+      "num": 141489,
+      "word": "谁懂刘亦菲脸的对称度",
+      "onboard_time": 1770874759,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 307928,
       "num": 164669,
       "word": "丈夫被指出轨怒揭妻子婚前多次堕胎",
@@ -7116,7 +7132,7 @@
     },
     {
       "raw_hot": 301249,
-      "num": 130100,
+      "num": 140187,
       "word": "二胎妈妈跪求丈夫离婚放过自己",
       "onboard_time": 1770874341,
       "rank": 21,
@@ -7769,6 +7785,14 @@
       "onboard_time": 1770440419,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 277385,
+      "num": 140510,
+      "word": "医生建议刷牙后先别漱口",
+      "onboard_time": 1770875900,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 277014,
@@ -8451,14 +8475,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 255293,
-      "num": 137630,
-      "word": "谁懂刘亦菲脸的对称度",
-      "onboard_time": 1770874759,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 255193,
       "num": 170011,
       "word": "关晓彤全英文采访",
@@ -8617,6 +8633,14 @@
       "onboard_time": 1770207321,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 249679,
+      "num": 176209,
+      "word": "马斯克感慨Seedance2.0发展快",
+      "onboard_time": 1770876380,
+      "rank": 8,
+      "category": "互联网"
     },
     {
       "raw_hot": 249652,
@@ -10251,14 +10275,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 212339,
-      "num": 129260,
-      "word": "医生建议刷牙后先别漱口",
-      "onboard_time": 1770875900,
-      "rank": 22,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 211907,
       "num": 211907,
       "word": "戚薇李承铉原来是长期主义父母",
@@ -11499,14 +11515,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 183525,
-      "num": 183525,
-      "word": "王莉霞严重违纪违法被双开",
-      "onboard_time": 1770876799,
-      "rank": 7,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 183381,
       "num": 183381,
       "word": "惠英红给她的宝贝张凌赫送花了",
@@ -11683,6 +11691,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 179598,
+      "num": 141021,
+      "word": "辛芷蕾倪妮高叶 火象三人组",
+      "onboard_time": 1770877399,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 179576,
       "num": 167652,
       "word": "女子室外上雾化透明厕所",
@@ -11825,14 +11841,6 @@
       "onboard_time": 1770073937,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 176209,
-      "num": 176209,
-      "word": "马斯克感慨Seedance2.0发展快",
-      "onboard_time": 1770876380,
-      "rank": 8,
-      "category": "互联网"
     },
     {
       "raw_hot": 176198,
@@ -12593,6 +12601,14 @@
       "onboard_time": 1770082880,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 161852,
+      "num": 174344,
+      "word": "荷兰选手回应与廉子文碰撞",
+      "onboard_time": 1770877880,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 161612,
@@ -14187,6 +14203,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 141198,
+      "num": 117627,
+      "word": "韩国粉丝喊话陈哲远必须演现偶",
+      "onboard_time": 1770879079,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141118,
       "num": 141118,
       "word": "泡泡玛特年会跳那么开心我也有责任",
@@ -14337,6 +14361,14 @@
       "onboard_time": 1770560783,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139890,
+      "num": 139890,
+      "word": "王一博2025总结",
+      "onboard_time": 1770879619,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 139547,
@@ -15123,6 +15155,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 132481,
+      "num": 132481,
+      "word": "安徽一小伙迎娶00后埃及女生",
+      "onboard_time": 1770878780,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132373,
       "num": 152739,
       "word": "iPhone18ProMax或是续航最强苹果机",
@@ -15675,6 +15715,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 127095,
+      "num": 101680,
+      "word": "建议把前额叶纳入择偶标准",
+      "onboard_time": 1770879680,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 127094,
       "num": 127094,
       "word": "花楼回应",
@@ -15897,6 +15945,14 @@
       "onboard_time": 1770336680,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124706,
+      "num": 124706,
+      "word": "王莉霞被双开",
+      "onboard_time": 1770877159,
+      "rank": 28,
+      "category": "国内时政"
     },
     {
       "raw_hot": 124593,
@@ -16345,14 +16401,6 @@
       "onboard_time": 1770383301,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 121505,
-      "num": 121505,
-      "word": "辛芷蕾倪妮高叶 火象三人组",
-      "onboard_time": 1770877399,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 121489,
@@ -17721,14 +17769,6 @@
       "onboard_time": 1770168799,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 112702,
-      "num": 112702,
-      "word": "王莉霞被双开",
-      "onboard_time": 1770877159,
-      "rank": 28,
-      "category": "国内时政"
     },
     {
       "raw_hot": 112613,
@@ -19771,6 +19811,14 @@
       "category": "电影,体育"
     },
     {
+      "raw_hot": 102224,
+      "num": 102224,
+      "word": "霉变车厘子毒性可达砒霜68倍",
+      "onboard_time": 1770879919,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 102112,
       "num": 111609,
       "word": "丘妈为中国冬奥选手加油",
@@ -21267,6 +21315,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 95456,
+      "num": 95456,
+      "word": "七莘路",
+      "onboard_time": 1770879619,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 95402,
       "num": 89405,
       "word": "3个月没工资还干得起劲",
@@ -21881,14 +21937,6 @@
       "onboard_time": 1770736282,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 92812,
-      "num": 174344,
-      "word": "荷兰选手回应与廉子文碰撞",
-      "onboard_time": 1770877880,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 92685,
@@ -22811,6 +22859,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 88960,
+      "num": 88960,
+      "word": "生命树里袁弘和胡歌什么关系",
+      "onboard_time": 1770879979,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 88907,
       "num": 88907,
       "word": "尚公主双端预约人数破200万",
@@ -23641,6 +23697,14 @@
       "onboard_time": 1770195201,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 85797,
+      "num": 85797,
+      "word": "刘宇宁2026全都要",
+      "onboard_time": 1770879020,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 85786,
@@ -25059,6 +25123,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 80245,
+      "num": 88050,
+      "word": "女子用药后突然耳聋药店只赔200",
+      "onboard_time": 1770878000,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 80179,
       "num": 80179,
       "word": "孙颖莎王楚钦训练状态满格",
@@ -26017,6 +26089,14 @@
       "onboard_time": 1769922020,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 75901,
+      "num": 75901,
+      "word": "年前和年后的美甲店",
+      "onboard_time": 1770880220,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 75888,
@@ -30931,14 +31011,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 34091,
-      "num": 88050,
-      "word": "女子用药后突然耳聋药店只赔200",
-      "onboard_time": 1770878000,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 34001,
       "num": 256580,
       "word": "校长师德不合格认定将重启调查",
@@ -31107,6 +31179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 33006,
+      "num": 705000,
+      "word": "中国人离登月又近了一步",
+      "onboard_time": 1770871821,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32960,
       "num": 641882,
       "word": "春运第1天流动量预计超1.8亿人次",
@@ -31185,14 +31265,6 @@
       "onboard_time": 1769880797,
       "rank": 40,
       "category": "演出"
-    },
-    {
-      "raw_hot": 32603,
-      "num": 705000,
-      "word": "中国人离登月又近了一步",
-      "onboard_time": 1770871821,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 32581,
@@ -32593,6 +32665,14 @@
       "onboard_time": 1770706820,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 22841,
+      "num": 86339,
+      "word": "刘耀文嘘从张峻豪",
+      "onboard_time": 1770880160,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 22812,
