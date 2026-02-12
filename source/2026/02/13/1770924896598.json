@@ -1,0 +1,410 @@
+{
+  "runTime": 1770924896598,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 98928,
+        "num": 98928,
+        "word": "女子单板U池决赛",
+        "onboard_time": 1770921615,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 76255,
+        "num": 76255,
+        "word": "Deepseek被指变冷淡了",
+        "onboard_time": 1770907522,
+        "rank": 1,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 15764,
+        "num": 64767,
+        "word": "我家的C位年货",
+        "onboard_time": 1770902599,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58465,
+        "num": 58465,
+        "word": "丞磊在飞机上帮王楚然剔牙",
+        "onboard_time": 1770909261,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 56013,
+        "num": 56013,
+        "word": "虞书欣直播",
+        "onboard_time": 1770907400,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54266,
+        "num": 54266,
+        "word": "王者荣耀超话爆了",
+        "onboard_time": 1770905181,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 52006,
+        "num": 52006,
+        "word": "22岁主播每天焊妆两次确诊肺炎",
+        "onboard_time": 1770906560,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50592,
+        "num": 50592,
+        "word": "连续五年都没有年三十",
+        "onboard_time": 1770910761,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13187,
+        "num": 49445,
+        "word": "武绍桐第二滑70.25分",
+        "onboard_time": 1770924554,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29661,
+        "num": 48882,
+        "word": "王欣然犯规无缘晋级",
+        "onboard_time": 1770924374,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137924,
+        "num": 48835,
+        "word": "虞书欣衣帽间",
+        "onboard_time": 1770920055,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48624,
+        "num": 48624,
+        "word": "微博之夜 台上顶流台下好友",
+        "onboard_time": 1770918016,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 48599,
+        "num": 48599,
+        "word": "10岁女生校内晕倒称遭多名男生殴打",
+        "onboard_time": 1770914358,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35253,
+        "num": 35253,
+        "word": "王者荣耀马年全明星表演赛",
+        "onboard_time": 1770891981,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 14482,
+        "num": 34999,
+        "word": "任子威说要当心韩国选手",
+        "onboard_time": 1770924495,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34902,
+        "num": 34902,
+        "word": "速度滑冰女子5000米",
+        "onboard_time": 1770911239,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34537,
+        "num": 34537,
+        "word": "宋亚轩遇到了最懂他的刘耀文",
+        "onboard_time": 1770908540,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32913,
+        "num": 32913,
+        "word": "律师解读杨幂新增60件告黑案",
+        "onboard_time": 1770913040,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32599,
+        "num": 32599,
+        "word": "意大利老将5000米0.1秒绝杀夺金",
+        "onboard_time": 1770915258,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 10582,
+        "num": 32294,
+        "word": "蔡雪桐的冬奥松弛感",
+        "onboard_time": 1770924554,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 67958,
+        "num": 32284,
+        "word": "吃烤全羊发现大量粪便店家赔偿1500",
+        "onboard_time": 1770898580,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62950,
+        "num": 32279,
+        "word": "男子就医喊饿竟是全身血液已近流干",
+        "onboard_time": 1770897201,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32275,
+        "num": 32275,
+        "word": "远洋船员持菜刀砍杀船长后分尸抛海",
+        "onboard_time": 1770911000,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31080,
+        "num": 31080,
+        "word": "蒋欣 当年真的错怪你了",
+        "onboard_time": 1770880820,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28070,
+        "num": 28070,
+        "word": "年少有为",
+        "onboard_time": 1770893902,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27053,
+        "num": 27053,
+        "word": "坏果太多胖东来下架全部智利车厘子",
+        "onboard_time": 1770899721,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24956,
+        "num": 24956,
+        "word": "母亲花6万为智力残障儿子娶外籍妻子",
+        "onboard_time": 1770896420,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23887,
+        "num": 23887,
+        "word": "8岁小孩姐徒步117公里回老家",
+        "onboard_time": 1770913400,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22251,
+        "num": 22251,
+        "word": "六国联名反对欧盟加大对华限制",
+        "onboard_time": 1770906740,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 21210,
+        "num": 21210,
+        "word": "微博之夜 绝美打光",
+        "onboard_time": 1770892579,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 23990,
+        "num": 21177,
+        "word": "武绍桐U池首轮67.75分",
+        "onboard_time": 1770921855,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21095,
+        "num": 21095,
+        "word": "唐宫奇案",
+        "onboard_time": 1770917297,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21000,
+        "num": 21000,
+        "word": "米兰冬奥会冰壶女子团体赛",
+        "onboard_time": 1770923055,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19949,
+        "num": 19949,
+        "word": "蔡雪桐第一滑73分",
+        "onboard_time": 1770924794,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20746,
+        "num": 19886,
+        "word": "中国雪橇队米兰冬奥书写新历史",
+        "onboard_time": 1770921136,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19328,
+        "num": 19328,
+        "word": "张凌赫粉丝爬半天山拍了三遍林允",
+        "onboard_time": 1770893719,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19144,
+        "num": 19144,
+        "word": "36岁何穗状态",
+        "onboard_time": 1770901641,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19107,
+        "num": 19107,
+        "word": "肥猫郑则仕减重70斤感谢周润发",
+        "onboard_time": 1770902722,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18161,
+        "num": 18161,
+        "word": "33岁男子开特斯拉跑货拉拉",
+        "onboard_time": 1770912979,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18123,
+        "num": 18123,
+        "word": "女子火车上熟睡8000元手机被偷",
+        "onboard_time": 1770905001,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17641,
+        "num": 17641,
+        "word": "太平年看哭了",
+        "onboard_time": 1770918855,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17294,
+        "num": 17294,
+        "word": "成何体统",
+        "onboard_time": 1770891259,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16417,
+        "num": 16417,
+        "word": "左航有新朋友来家一起过年了",
+        "onboard_time": 1770922034,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16410,
+        "num": 16410,
+        "word": "米兰冬奥中国单板双姝逐梦",
+        "onboard_time": 1770913939,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15865,
+        "num": 15865,
+        "word": "蔡徐坤回复无畏",
+        "onboard_time": 1770899660,
+        "rank": 44,
+        "category": "音乐,游戏"
+      },
+      {
+        "raw_hot": 15625,
+        "num": 15625,
+        "word": "太平年大结局",
+        "onboard_time": 1770906441,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15563,
+        "num": 15563,
+        "word": "马嘉祺黑西装live",
+        "onboard_time": 1770911421,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15562,
+        "num": 15562,
+        "word": "宋亚轩关羽MVP",
+        "onboard_time": 1770920775,
+        "rank": 47,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 15313,
+        "num": 15313,
+        "word": "爸爸被劝酒女儿站身后霸气挡酒",
+        "onboard_time": 1770898702,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15151,
+        "num": 15151,
+        "word": "檀健次干净白皙皮肤肌肉线条",
+        "onboard_time": 1770920715,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记同我们共赶新春市集#"
+    }
+  }
+}
