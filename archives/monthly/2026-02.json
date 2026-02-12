@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1770936012863,
+  "endTime": 1770937096163,
   "band_list": [
     {
       "raw_hot": 12386962,
@@ -7052,7 +7052,7 @@
     },
     {
       "raw_hot": 315136,
-      "num": 351017,
+      "num": 427612,
       "word": "林孝埈无缘男子1000米半决赛",
       "onboard_time": 1770926235,
       "rank": 0,
@@ -7803,6 +7803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 288740,
+      "num": 590104,
+      "word": "孙龙银牌",
+      "onboard_time": 1770930674,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 288136,
       "num": 152693,
       "word": "虞书欣cos黑色碧琪",
@@ -8545,14 +8553,6 @@
       "onboard_time": 1770351321,
       "rank": 36,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 263493,
-      "num": 481065,
-      "word": "孙龙银牌",
-      "onboard_time": 1770930674,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 263220,
@@ -11971,8 +11971,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 184752,
+      "num": 80683,
+      "word": "虞书欣衣帽间",
+      "onboard_time": 1770920055,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 184624,
-      "num": 77965,
+      "num": 79565,
       "word": "10岁女生校内晕倒称遭多名男生殴打",
       "onboard_time": 1770914358,
       "rank": 15,
@@ -12865,14 +12873,6 @@
       "onboard_time": 1769924179,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 167879,
-      "num": 80683,
-      "word": "虞书欣衣帽间",
-      "onboard_time": 1770920055,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 167696,
@@ -23883,6 +23883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 88762,
+      "num": 88762,
+      "word": "任子威说女子500米成绩夸张",
+      "onboard_time": 1770932894,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 88753,
       "num": 88753,
       "word": "俄军中将在莫斯科遭枪击",
@@ -25520,6 +25528,14 @@
       "word": "女子一针玻尿酸竟把眼睛打斜了",
       "onboard_time": 1770863960,
       "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 82597,
+      "num": 82597,
+      "word": "8岁小孩姐徒步117公里回老家",
+      "onboard_time": 1770913400,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -27859,6 +27875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 71615,
+      "num": 71615,
+      "word": "微博之夜 台上顶流台下好友",
+      "onboard_time": 1770918016,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 71581,
       "num": 183784,
       "word": "闪购骑手服新增千问logo",
@@ -27995,14 +28019,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 70764,
-      "num": 70764,
-      "word": "8岁小孩姐徒步117公里回老家",
-      "onboard_time": 1770913400,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 70677,
       "num": 70677,
       "word": "白鹿我来试试这个新功能",
@@ -28121,14 +28137,6 @@
       "onboard_time": 1770260600,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 69371,
-      "num": 69371,
-      "word": "任子威说女子500米成绩夸张",
-      "onboard_time": 1770932894,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 69355,
@@ -29233,14 +29241,6 @@
       "onboard_time": 1769905099,
       "rank": 49,
       "category": "财经"
-    },
-    {
-      "raw_hot": 61506,
-      "num": 52499,
-      "word": "微博之夜 台上顶流台下好友",
-      "onboard_time": 1770918016,
-      "rank": 10,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 61482,
@@ -33147,6 +33147,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 30450,
+      "num": 30450,
+      "word": "太平年看哭了",
+      "onboard_time": 1770918855,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 30309,
       "num": 98916,
       "word": "老人水滴保扣0.7元次月暴涨5百倍",
@@ -33265,6 +33273,14 @@
       "onboard_time": 1770097819,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29302,
+      "num": 29302,
+      "word": "米兰冬奥会韩国队首金",
+      "onboard_time": 1770936796,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 29258,
@@ -33723,6 +33739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 26298,
+      "num": 75392,
+      "word": "孙龙回应1000米摘银",
+      "onboard_time": 1770936376,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 26289,
       "num": 100960,
       "word": "立陶宛被台当局忽悠惨了",
@@ -33929,14 +33953,6 @@
       "onboard_time": 1770913939,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 25258,
-      "num": 25258,
-      "word": "太平年看哭了",
-      "onboard_time": 1770918855,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 25252,
@@ -34291,6 +34307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23247,
+      "num": 27578,
+      "word": "范可新三人碰撞摔倒",
+      "onboard_time": 1770930193,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 23243,
       "num": 75844,
       "word": "法国也没逃过爱泼斯坦文件",
@@ -34361,14 +34385,6 @@
       "onboard_time": 1770691521,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 22985,
-      "num": 22985,
-      "word": "范可新三人碰撞摔倒",
-      "onboard_time": 1770930193,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 22871,
@@ -34897,6 +34913,14 @@
       "onboard_time": 1770568101,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 19911,
+      "num": 27546,
+      "word": "任子威说范可新倾其所有",
+      "onboard_time": 1770936735,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 19862,

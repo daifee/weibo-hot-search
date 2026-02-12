@@ -1,6 +1,6 @@
 {
   "startTime": 1770912100688,
-  "endTime": 1770936012863,
+  "endTime": 1770937096163,
   "band_list": [
     {
       "raw_hot": 1459168,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 315136,
-      "num": 351017,
+      "num": 427612,
       "word": "林孝埈无缘男子1000米半决赛",
       "onboard_time": 1770926235,
       "rank": 0,
@@ -83,8 +83,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 263493,
-      "num": 481065,
+      "raw_hot": 288740,
+      "num": 590104,
       "word": "孙龙银牌",
       "onboard_time": 1770930674,
       "rank": 1,
@@ -163,8 +163,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 184752,
+      "num": 80683,
+      "word": "虞书欣衣帽间",
+      "onboard_time": 1770920055,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 184624,
-      "num": 77965,
+      "num": 79565,
       "word": "10岁女生校内晕倒称遭多名男生殴打",
       "onboard_time": 1770914358,
       "rank": 15,
@@ -185,14 +193,6 @@
       "onboard_time": 1770891981,
       "rank": 14,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 167879,
-      "num": 80683,
-      "word": "虞书欣衣帽间",
-      "onboard_time": 1770920055,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 166636,
@@ -371,12 +371,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 88762,
+      "num": 88762,
+      "word": "任子威说女子500米成绩夸张",
+      "onboard_time": 1770932894,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 85616,
       "num": 85616,
       "word": "严浩翔贺峻霖抽到同一条红绳",
       "onboard_time": 1770907281,
       "rank": 31,
       "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 82597,
+      "num": 82597,
+      "word": "8岁小孩姐徒步117公里回老家",
+      "onboard_time": 1770913400,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 81924,
@@ -419,27 +435,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 71615,
+      "num": 71615,
+      "word": "微博之夜 台上顶流台下好友",
+      "onboard_time": 1770918016,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 71407,
       "num": 86532,
       "word": "孙龙1000米进决赛",
       "onboard_time": 1770927674,
       "rank": 8,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 70764,
-      "num": 70764,
-      "word": "8岁小孩姐徒步117公里回老家",
-      "onboard_time": 1770913400,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 69371,
-      "num": 69371,
-      "word": "任子威说女子500米成绩夸张",
-      "onboard_time": 1770932894,
-      "rank": 30,
       "category": "体育"
     },
     {
@@ -507,14 +515,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 61506,
-      "num": 52499,
-      "word": "微博之夜 台上顶流台下好友",
-      "onboard_time": 1770918016,
-      "rank": 10,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 61203,
       "num": 61203,
       "word": "舌头翘一翘身体好坏都知道",
@@ -579,6 +579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 55797,
+      "num": 55797,
+      "word": "肥猫郑则仕减重70斤感谢周润发",
+      "onboard_time": 1770902722,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 55057,
       "num": 55057,
       "word": "孙龙短道1000米银牌",
@@ -616,14 +624,6 @@
       "word": "张凌赫粉丝爬半天山拍了三遍林允",
       "onboard_time": 1770893719,
       "rank": 48,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 41822,
-      "num": 41822,
-      "word": "肥猫郑则仕减重70斤感谢周润发",
-      "onboard_time": 1770902722,
-      "rank": 44,
       "category": "艺人"
     },
     {
@@ -683,6 +683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 30450,
+      "num": 30450,
+      "word": "太平年看哭了",
+      "onboard_time": 1770918855,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 29661,
       "num": 48882,
       "word": "王欣然犯规无缘晋级",
@@ -697,6 +705,14 @@
       "onboard_time": 1770914899,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29302,
+      "num": 29302,
+      "word": "米兰冬奥会韩国队首金",
+      "onboard_time": 1770936796,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 28975,
@@ -731,6 +747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 26298,
+      "num": 75392,
+      "word": "孙龙回应1000米摘银",
+      "onboard_time": 1770936376,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 25510,
       "num": 25510,
       "word": "米兰冬奥会冰壶女子团体赛",
@@ -745,14 +769,6 @@
       "onboard_time": 1770913939,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 25258,
-      "num": 25258,
-      "word": "太平年看哭了",
-      "onboard_time": 1770918855,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 24609,
@@ -787,8 +803,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 22985,
-      "num": 22985,
+      "raw_hot": 23247,
+      "num": 27578,
       "word": "范可新三人碰撞摔倒",
       "onboard_time": 1770930193,
       "rank": 41,
@@ -808,6 +824,14 @@
       "word": "蔡雪桐第一滑73分",
       "onboard_time": 1770924794,
       "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 19911,
+      "num": 27546,
+      "word": "任子威说范可新倾其所有",
+      "onboard_time": 1770936735,
+      "rank": 48,
       "category": "体育"
     },
     {
