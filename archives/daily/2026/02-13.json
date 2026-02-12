@@ -1,6 +1,6 @@
 {
   "startTime": 1770912100688,
-  "endTime": 1770939498714,
+  "endTime": 1770940494779,
   "band_list": [
     {
       "raw_hot": 1459168,
@@ -27,6 +27,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 536215,
+      "num": 1036419,
+      "word": "孙龙银牌",
+      "onboard_time": 1770930674,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 533027,
       "num": 1085284,
       "word": "22岁主播每天焊妆两次确诊肺炎",
@@ -35,16 +43,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 522549,
-      "num": 901125,
-      "word": "孙龙银牌",
-      "onboard_time": 1770930674,
-      "rank": 1,
-      "category": "体育"
-    },
-    {
       "raw_hot": 460213,
-      "num": 116641,
+      "num": 119642,
       "word": "吃烤全羊发现大量粪便店家赔偿1500",
       "onboard_time": 1770898580,
       "rank": 20,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 315136,
-      "num": 645559,
+      "num": 757273,
       "word": "林孝埈无缘男子1000米半决赛",
       "onboard_time": 1770926235,
       "rank": 0,
@@ -73,6 +73,14 @@
       "onboard_time": 1770905181,
       "rank": 4,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 299261,
+      "num": 120128,
+      "word": "男子就医喊饿竟是全身血液已近流干",
+      "onboard_time": 1770897201,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 298484,
@@ -91,20 +99,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 291800,
-      "num": 111723,
-      "word": "男子就医喊饿竟是全身血液已近流干",
-      "onboard_time": 1770897201,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 278838,
-      "num": 106632,
+      "num": 140620,
       "word": "虞书欣衣帽间",
       "onboard_time": 1770920055,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 275448,
+      "num": 143541,
+      "word": "金价银价深夜跳水",
+      "onboard_time": 1770939137,
+      "rank": 25,
+      "category": "财经"
     },
     {
       "raw_hot": 245066,
@@ -139,12 +147,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 220100,
+      "num": 141356,
+      "word": "太平年结局每个人都不得善终",
+      "onboard_time": 1770937877,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 209053,
       "num": 209053,
       "word": "任子威 黄大宪成功淘汰",
       "onboard_time": 1770925573,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 200511,
+      "num": 200511,
+      "word": "影石公司年会一员工获保时捷",
+      "onboard_time": 1770939020,
+      "rank": 27,
+      "category": "互联网"
     },
     {
       "raw_hot": 196860,
@@ -172,7 +196,7 @@
     },
     {
       "raw_hot": 184624,
-      "num": 105578,
+      "num": 138411,
       "word": "10岁女生校内晕倒称遭多名男生殴打",
       "onboard_time": 1770914358,
       "rank": 15,
@@ -195,6 +219,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 170745,
+      "num": 137827,
+      "word": "菲一博主吃剧毒魔鬼蟹后不治身亡",
+      "onboard_time": 1770939077,
+      "rank": 26,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 166636,
       "num": 166636,
       "word": "刘少昂好稳",
@@ -203,12 +235,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 163216,
-      "num": 163216,
+      "raw_hot": 165091,
+      "num": 165091,
       "word": "六国联名反对欧盟加大对华限制",
       "onboard_time": 1770906740,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 159358,
+      "num": 135473,
+      "word": "周深收到金条的反应",
+      "onboard_time": 1770937877,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 156949,
@@ -227,20 +267,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 152445,
-      "num": 105072,
-      "word": "太平年结局每个人都不得善终",
-      "onboard_time": 1770937877,
-      "rank": 12,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 150721,
       "num": 150721,
       "word": "太平年大结局",
       "onboard_time": 1770906441,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 144519,
+      "num": 144519,
+      "word": "林孝埈状态",
+      "onboard_time": 1770939077,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 141702,
@@ -252,11 +292,19 @@
     },
     {
       "raw_hot": 140362,
-      "num": 96946,
+      "num": 118971,
       "word": "远洋船员持菜刀砍杀船长后分尸抛海",
       "onboard_time": 1770911000,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 134925,
+      "num": 134925,
+      "word": "微博之夜 台上顶流台下好友",
+      "onboard_time": 1770918016,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 133962,
@@ -268,11 +316,19 @@
     },
     {
       "raw_hot": 131620,
-      "num": 104263,
+      "num": 127238,
       "word": "肥猫郑则仕减重70斤感谢周润发",
       "onboard_time": 1770902722,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 129946,
+      "num": 129946,
+      "word": "孙龙回应1000米摘银",
+      "onboard_time": 1770936376,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 128053,
@@ -299,20 +355,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 120951,
-      "num": 102198,
-      "word": "微博之夜 台上顶流台下好友",
-      "onboard_time": 1770918016,
-      "rank": 10,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 117382,
       "num": 117382,
       "word": "第一次看到一箱草莓毫无食欲",
       "onboard_time": 1770887600,
       "rank": 19,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 117178,
+      "num": 117178,
+      "word": "草莓真的是最脏的水果吗",
+      "onboard_time": 1770937817,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116581,
+      "num": 116581,
+      "word": "成何体统这段失败的吻戏",
+      "onboard_time": 1770937877,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 114409,
@@ -331,6 +395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 108044,
+      "num": 108044,
+      "word": "气血不足的人一定要早睡早起",
+      "onboard_time": 1770939318,
+      "rank": 41,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 107618,
       "num": 97324,
       "word": "冬奥短道速滑女子500米",
@@ -345,6 +417,14 @@
       "onboard_time": 1770893902,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 103673,
+      "num": 103673,
+      "word": "中国AI一年两炸",
+      "onboard_time": 1770939137,
+      "rank": 19,
+      "category": "互联网"
     },
     {
       "raw_hot": 103361,
@@ -379,22 +459,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 100992,
-      "num": 100992,
-      "word": "周深收到金条的反应",
-      "onboard_time": 1770937877,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 99002,
-      "num": 99002,
-      "word": "孙龙回应1000米摘银",
-      "onboard_time": 1770936376,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 98928,
       "num": 98928,
       "word": "女子单板U池决赛",
@@ -411,12 +475,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 96892,
-      "num": 96892,
-      "word": "草莓真的是最脏的水果吗",
-      "onboard_time": 1770937817,
-      "rank": 23,
-      "category": "民生新闻"
+      "raw_hot": 97741,
+      "num": 97741,
+      "word": "美股",
+      "onboard_time": 1770938779,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 96750,
@@ -427,22 +491,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 90989,
-      "num": 90989,
-      "word": "美股",
-      "onboard_time": 1770938779,
-      "rank": 24,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 90460,
-      "num": 90460,
-      "word": "金价银价深夜跳水",
-      "onboard_time": 1770939137,
-      "rank": 25,
-      "category": "财经"
-    },
-    {
       "raw_hot": 88762,
       "num": 88762,
       "word": "任子威说女子500米成绩夸张",
@@ -451,12 +499,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 88311,
-      "num": 88311,
-      "word": "菲一博主吃剧毒魔鬼蟹后不治身亡",
-      "onboard_time": 1770939077,
-      "rank": 26,
-      "category": "海外新闻"
+      "raw_hot": 87519,
+      "num": 87519,
+      "word": "刘少昂 运气",
+      "onboard_time": 1770939798,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 85616,
@@ -465,14 +513,6 @@
       "onboard_time": 1770907281,
       "rank": 31,
       "category": "艺人,游戏"
-    },
-    {
-      "raw_hot": 83175,
-      "num": 83175,
-      "word": "影石公司年会一员工获保时捷",
-      "onboard_time": 1770939020,
-      "rank": 27,
-      "category": "互联网"
     },
     {
       "raw_hot": 81924,
@@ -497,14 +537,6 @@
       "onboard_time": 1770910400,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 76392,
-      "num": 75493,
-      "word": "成何体统这段失败的吻戏",
-      "onboard_time": 1770937877,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 75650,
@@ -555,6 +587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 65415,
+      "num": 65415,
+      "word": "官方回应高速路边发现一只小狮子",
+      "onboard_time": 1770939377,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 65388,
       "num": 65388,
       "word": "微博之夜 绝美打光",
@@ -585,6 +625,22 @@
       "onboard_time": 1770927194,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 63405,
+      "num": 63405,
+      "word": "冬奥会",
+      "onboard_time": 1770940038,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 62413,
+      "num": 62413,
+      "word": "叫爷爷没反应孙子下意识反应太可爱",
+      "onboard_time": 1770898640,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 62404,
@@ -627,6 +683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 59680,
+      "num": 59680,
+      "word": "印度大手笔军购3.6万亿",
+      "onboard_time": 1770939739,
+      "rank": 41,
+      "category": "军事"
+    },
+    {
       "raw_hot": 59655,
       "num": 59655,
       "word": "杭州9岁男孩拍短剧1天赚2000元",
@@ -641,6 +705,14 @@
       "onboard_time": 1770907821,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 58619,
+      "num": 58619,
+      "word": "孙龙摘银后哭了",
+      "onboard_time": 1770939318,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 57656,
@@ -667,6 +739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 55504,
+      "num": 55504,
+      "word": "韩国选手吐槽米兰冬奥会伙食",
+      "onboard_time": 1770939498,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 55057,
       "num": 55057,
       "word": "孙龙短道1000米银牌",
@@ -683,27 +763,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 47774,
+      "num": 47774,
+      "word": "中国队短道速滑第1块奖牌",
+      "onboard_time": 1770940279,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 47508,
       "num": 27636,
       "word": "韩国崔佳恩U池夺冠",
       "onboard_time": 1770927014,
       "rank": 31,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 47114,
-      "num": 47114,
-      "word": "气血不足的人一定要早睡早起",
-      "onboard_time": 1770939318,
-      "rank": 41,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 45563,
-      "num": 45563,
-      "word": "林孝埈状态",
-      "onboard_time": 1770939077,
-      "rank": 42,
       "category": "体育"
     },
     {
@@ -715,7 +787,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 44219,
+      "raw_hot": 44487,
       "num": 599455,
       "word": "我家的C位年货",
       "onboard_time": 1770902599,
@@ -728,22 +800,6 @@
       "word": "孙龙激动落泪",
       "onboard_time": 1770932715,
       "rank": 31,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 42389,
-      "num": 42389,
-      "word": "官方回应高速路边发现一只小狮子",
-      "onboard_time": 1770939377,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 42245,
-      "num": 42245,
-      "word": "孙龙摘银后哭了",
-      "onboard_time": 1770939318,
-      "rank": 48,
       "category": "体育"
     },
     {
@@ -921,14 +977,6 @@
       "onboard_time": 1770930193,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 22431,
-      "num": 98639,
-      "word": "中国AI一年两炸",
-      "onboard_time": 1770939137,
-      "rank": 19,
-      "category": "互联网"
     },
     {
       "raw_hot": 20493,
