@@ -1,6 +1,6 @@
 {
   "startTime": 1770912100688,
-  "endTime": 1770933551400,
+  "endTime": 1770936012863,
   "band_list": [
     {
       "raw_hot": 1459168,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 315136,
-      "num": 315136,
+      "num": 351017,
       "word": "林孝埈无缘男子1000米半决赛",
       "onboard_time": 1770926235,
       "rank": 0,
@@ -83,6 +83,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 263493,
+      "num": 481065,
+      "word": "孙龙银牌",
+      "onboard_time": 1770930674,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 258889,
       "num": 111723,
       "word": "男子就医喊饿竟是全身血液已近流干",
@@ -97,14 +105,6 @@
       "onboard_time": 1770880820,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 242071,
-      "num": 242071,
-      "word": "孙龙银牌",
-      "onboard_time": 1770930674,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 237219,
@@ -427,6 +427,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 70764,
+      "num": 70764,
+      "word": "8岁小孩姐徒步117公里回老家",
+      "onboard_time": 1770913400,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 69371,
+      "num": 69371,
+      "word": "任子威说女子500米成绩夸张",
+      "onboard_time": 1770932894,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 67670,
       "num": 67670,
       "word": "曝陈哲远每年让员工带薪出国旅游",
@@ -571,6 +587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 47911,
+      "num": 47911,
+      "word": "心疼范可新",
+      "onboard_time": 1770929594,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 47508,
       "num": 27636,
       "word": "韩国崔佳恩U池夺冠",
@@ -595,19 +619,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 41822,
+      "num": 41822,
+      "word": "肥猫郑则仕减重70斤感谢周润发",
+      "onboard_time": 1770902722,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 41455,
       "num": 39819,
       "word": "范可新无缘500米决赛",
       "onboard_time": 1770927674,
       "rank": 19,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 41405,
-      "num": 41405,
-      "word": "心疼范可新",
-      "onboard_time": 1770929594,
-      "rank": 24,
       "category": "体育"
     },
     {
@@ -619,12 +643,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 40046,
-      "num": 40777,
-      "word": "8岁小孩姐徒步117公里回老家",
-      "onboard_time": 1770913400,
-      "rank": 36,
-      "category": "民生新闻"
+      "raw_hot": 38239,
+      "num": 38239,
+      "word": "孙龙激动落泪",
+      "onboard_time": 1770932715,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 37870,
@@ -632,22 +656,6 @@
       "word": "黄大宪犯规无缘晋级",
       "onboard_time": 1770925634,
       "rank": 17,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 36016,
-      "num": 26743,
-      "word": "任子威说女子500米成绩夸张",
-      "onboard_time": 1770932894,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 36001,
-      "num": 26492,
-      "word": "孙龙激动落泪",
-      "onboard_time": 1770932715,
-      "rank": 31,
       "category": "体育"
     },
     {
@@ -699,14 +707,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 27362,
-      "num": 40700,
-      "word": "肥猫郑则仕减重70斤感谢周润发",
-      "onboard_time": 1770902722,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 27184,
       "num": 27184,
       "word": "刘少昂进1000米半决赛",
@@ -745,6 +745,14 @@
       "onboard_time": 1770913939,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 25258,
+      "num": 25258,
+      "word": "太平年看哭了",
+      "onboard_time": 1770918855,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 24609,
@@ -787,14 +795,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 22010,
-      "num": 22215,
-      "word": "太平年看哭了",
-      "onboard_time": 1770918855,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 20493,
       "num": 20493,
       "word": "崔佳恩摔得好重",
@@ -809,6 +809,14 @@
       "onboard_time": 1770924794,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 19638,
+      "num": 22166,
+      "word": "太平年",
+      "onboard_time": 1770904702,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 19556,
@@ -873,14 +881,6 @@
       "onboard_time": 1770920715,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 14838,
-      "num": 22166,
-      "word": "太平年",
-      "onboard_time": 1770904702,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 13187,
