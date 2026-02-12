@@ -1,6 +1,6 @@
 {
   "startTime": 1770482461321,
-  "endTime": 1770897752100,
+  "endTime": 1770902669604,
   "band_list": [
     {
       "raw_hot": 7279878,
@@ -233,6 +233,14 @@
       "onboard_time": 1770694280,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1094312,
+      "num": 136017,
+      "word": "吃烤全羊发现大量粪便店家赔偿1500",
+      "onboard_time": 1770898580,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1094099,
@@ -875,6 +883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 628311,
+      "num": 789757,
+      "word": "成何体统",
+      "onboard_time": 1770471443,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 626109,
       "num": 552988,
       "word": "梁源发文怼吴克群",
@@ -1009,6 +1025,14 @@
       "onboard_time": 1770526519,
       "rank": 18,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 574249,
+      "num": 1091879,
+      "word": "坏果太多胖东来下架全部智利车厘子",
+      "onboard_time": 1770899721,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 573622,
@@ -1643,6 +1667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 434805,
+      "num": 434805,
+      "word": "今年为啥没有年三十",
+      "onboard_time": 1770898041,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 433783,
       "num": 1066374,
       "word": "女子吐槽飞机餐仅一根青菜配米饭",
@@ -2011,6 +2043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 397518,
+      "num": 160016,
+      "word": "男子就医喊饿竟是全身血液已近流干",
+      "onboard_time": 1770897201,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 397315,
       "num": 807171,
       "word": "大孤山 大师",
@@ -2201,6 +2241,14 @@
       "onboard_time": 1770516922,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 368292,
+      "num": 146059,
+      "word": "蔡徐坤回复无畏",
+      "onboard_time": 1770899660,
+      "rank": 13,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 368270,
@@ -3219,14 +3267,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 275190,
-      "num": 275190,
-      "word": "成何体统",
-      "onboard_time": 1770471443,
-      "rank": 12,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 274026,
       "num": 222893,
       "word": "车祸后妹妹以为冷却液是血嚎啕大哭",
@@ -3419,6 +3459,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 256350,
+      "num": 161711,
+      "word": "母亲花6万为智力残障儿子娶外籍妻子",
+      "onboard_time": 1770896420,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 256336,
       "num": 256336,
       "word": "苏翊鸣暂列第二",
@@ -3545,6 +3593,14 @@
       "onboard_time": 1770866240,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 250500,
+      "num": 140385,
+      "word": "宋亚轩 没有任何击杀但是MVP",
+      "onboard_time": 1770899240,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 249679,
@@ -3801,6 +3857,14 @@
       "onboard_time": 1770628821,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 235657,
+      "num": 235657,
+      "word": "爸爸被劝酒女儿站身后霸气挡酒",
+      "onboard_time": 1770898702,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 235029,
@@ -4065,14 +4129,6 @@
       "onboard_time": 1770639200,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 220397,
-      "num": 161711,
-      "word": "母亲花6万为智力残障儿子娶外籍妻子",
-      "onboard_time": 1770896420,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 219736,
@@ -4441,6 +4497,14 @@
       "onboard_time": 1770793040,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 204993,
+      "num": 138238,
+      "word": "36岁何穗状态",
+      "onboard_time": 1770901641,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 204723,
@@ -5283,6 +5347,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 161723,
+      "num": 134260,
+      "word": "左航嗓子哑了",
+      "onboard_time": 1770899060,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 161612,
       "num": 161612,
       "word": "爱泼斯坦死后遗体被秘密转移",
@@ -5313,14 +5385,6 @@
       "onboard_time": 1770632902,
       "rank": 28,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 160016,
-      "num": 160016,
-      "word": "男子就医喊饿竟是全身血液已近流干",
-      "onboard_time": 1770897201,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 159404,
@@ -5473,6 +5537,14 @@
       "onboard_time": 1770723561,
       "rank": 28,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 152997,
+      "num": 152997,
+      "word": "生命树今晚自爆两狼",
+      "onboard_time": 1770899601,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 152794,
@@ -6315,6 +6387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133057,
+      "num": 106929,
+      "word": "杨幂白色高筒袜",
+      "onboard_time": 1770901940,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 132796,
       "num": 132796,
       "word": "妻子孕期丈夫却在女厕爬马桶偷拍",
@@ -6337,6 +6417,14 @@
       "onboard_time": 1770777260,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131731,
+      "num": 131731,
+      "word": "叫爷爷没反应孙子下意识反应太可爱",
+      "onboard_time": 1770898640,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 131549,
@@ -7323,6 +7411,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 112193,
+      "num": 112193,
+      "word": "迪丽热巴棉花娃娃都会跳舞了",
+      "onboard_time": 1770900860,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 112089,
       "num": 112089,
       "word": "BLG",
@@ -7724,7 +7820,7 @@
     },
     {
       "raw_hot": 107767,
-      "num": 96934,
+      "num": 104534,
       "word": "曝惊蛰无声发行方强制影院排片",
       "onboard_time": 1770896900,
       "rank": 44,
@@ -8059,6 +8155,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 103131,
+      "num": 103131,
+      "word": "曝陈哲远每年让员工带薪出国旅游",
+      "onboard_time": 1770894739,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 103129,
       "num": 103129,
       "word": "王曼昱4比2战胜张本美和",
@@ -8233,14 +8337,6 @@
       "onboard_time": 1770648442,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 101372,
-      "num": 101372,
-      "word": "曝陈哲远每年让员工带薪出国旅游",
-      "onboard_time": 1770894739,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 101371,
@@ -8601,6 +8697,14 @@
       "onboard_time": 1770807800,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 97824,
+      "num": 97824,
+      "word": "摄影师曝檀健次拍摄几乎一条过",
+      "onboard_time": 1770901281,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 97770,
@@ -9425,6 +9529,14 @@
       "onboard_time": 1770521240,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 90055,
+      "num": 90055,
+      "word": "生命树集体沉默的60秒",
+      "onboard_time": 1770900382,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 89862,
@@ -11107,12 +11219,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 74898,
+      "num": 107452,
+      "word": "54岁农民工提塑料桶和行李返乡过年",
+      "onboard_time": 1770899721,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 74866,
       "num": 87009,
       "word": "孙颖莎说回家有种轻松的氛围",
       "onboard_time": 1770810501,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 74820,
+      "num": 74820,
+      "word": "Selina说二胎顺其自然",
+      "onboard_time": 1770900860,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 74749,
@@ -11145,6 +11273,14 @@
       "onboard_time": 1770544160,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 74606,
+      "num": 74606,
+      "word": "生命树第2集回旋镖正中眉心",
+      "onboard_time": 1770902001,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 74545,
@@ -11283,6 +11419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 72546,
+      "num": 88853,
+      "word": "俱乐部称已与樊振东沟通过续约",
+      "onboard_time": 1770902419,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 72384,
       "num": 72384,
       "word": "中国军网点名宝可梦和名侦探柯南",
@@ -11345,6 +11489,14 @@
       "onboard_time": 1770483621,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 71746,
+      "num": 71746,
+      "word": "72岁老母亲替离世儿女看乐山大佛",
+      "onboard_time": 1770902302,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 71564,
@@ -11707,6 +11859,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 65653,
+      "num": 88441,
+      "word": "美国28岁华人女子遇害前监控曝光",
+      "onboard_time": 1770898999,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 65502,
       "num": 96413,
       "word": "31省份人均收入排名",
@@ -11809,6 +11969,14 @@
       "onboard_time": 1770602779,
       "rank": 49,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 63487,
+      "num": 87937,
+      "word": "影石CEO回应年会送房",
+      "onboard_time": 1770900680,
+      "rank": 41,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 63151,
@@ -12105,6 +12273,14 @@
       "onboard_time": 1770594860,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 57476,
+      "num": 71186,
+      "word": "吉林省将进行中考改革",
+      "onboard_time": 1770898461,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 57295,
@@ -13107,6 +13283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41159,
+      "num": 103583,
+      "word": "我国再次成功发射一箭七星",
+      "onboard_time": 1770901521,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41107,
       "num": 158458,
       "word": "我是炸鸡薄皮党",
@@ -13641,6 +13825,14 @@
       "onboard_time": 1770678256,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 31714,
+      "num": 72081,
+      "word": "多所高校推出1分钱年夜饭",
+      "onboard_time": 1770900921,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 31568,
@@ -14979,6 +15171,14 @@
       "category": "互联网,民生新闻"
     },
     {
+      "raw_hot": 9421,
+      "num": 151585,
+      "word": "20.5亿元新春礼包即将派送",
+      "onboard_time": 1770902302,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 9408,
       "num": 96783,
       "word": "过年回家路上后备箱两只鸭子一路互殴",
@@ -15033,6 +15233,14 @@
       "onboard_time": 1770694821,
       "rank": 35,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 7046,
+      "num": 601511,
+      "word": "我家的C位年货",
+      "onboard_time": 1770902599,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 6930,
@@ -15135,6 +15343,9 @@
     },
     {
       "word": "#支持广大科研人员勇攀科学高峰#"
+    },
+    {
+      "word": "#习近平总书记同我们共赶新春市集#"
     }
   ]
 }
