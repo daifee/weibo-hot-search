@@ -1,0 +1,410 @@
+{
+  "runTime": 1770894839376,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 663625,
+        "num": 1106180,
+        "word": "车厘子卖家赌涨价压货",
+        "onboard_time": 1770887359,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 438524,
+        "num": 818887,
+        "word": "谷爱凌不是输给第一名的第二名",
+        "onboard_time": 1770883161,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16358,
+        "num": 633215,
+        "word": "过年的仪式感从赶大集开始",
+        "onboard_time": 1770888801,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1793500,
+        "num": 578061,
+        "word": "王者荣耀马年全明星表演赛",
+        "onboard_time": 1770891981,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 213934,
+        "num": 213934,
+        "word": "团购12箱车厘子收到陈年僵尸果",
+        "onboard_time": 1770883820,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 541528,
+        "num": 213780,
+        "word": "第一次看到一箱草莓毫无食欲",
+        "onboard_time": 1770887600,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 261709,
+        "num": 213184,
+        "word": "20岁邓恩熙演30岁蒋龙的妈",
+        "onboard_time": 1770889280,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 225101,
+        "num": 212732,
+        "word": "无畏支持蔡徐坤新歌",
+        "onboard_time": 1770892220,
+        "rank": 7,
+        "category": "音乐,电竞"
+      },
+      {
+        "raw_hot": 137434,
+        "num": 212191,
+        "word": "中戏表演系原主任陈刚主动投案",
+        "onboard_time": 1770885081,
+        "rank": 8,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 215286,
+        "num": 211981,
+        "word": "年少有为",
+        "onboard_time": 1770893902,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 255454,
+        "num": 211479,
+        "word": "第一批回村的人已经出片了",
+        "onboard_time": 1770888140,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 221157,
+        "num": 211185,
+        "word": "沈阳暴风雨温泉洗浴",
+        "onboard_time": 1770888499,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 26585,
+        "num": 210551,
+        "word": "严厉打击无AI标识虚假不实信息",
+        "onboard_time": 1770892999,
+        "rank": 12,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 176702,
+        "num": 210223,
+        "word": "孙颖莎头像挂件换成了皇冠",
+        "onboard_time": 1770889041,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17797,
+        "num": 209827,
+        "word": "马年本命年攻略",
+        "onboard_time": 1770894080,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163646,
+        "num": 209134,
+        "word": "成何体统",
+        "onboard_time": 1770891259,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152426,
+        "num": 208924,
+        "word": "马龙和妻子回家过年",
+        "onboard_time": 1770888621,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147384,
+        "num": 208345,
+        "word": "男子称外籍妻子失联后转走全部家当",
+        "onboard_time": 1770892399,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42812,
+        "num": 207818,
+        "word": "飘钱气球解开瞬间带着1000元飞走",
+        "onboard_time": 1770894020,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32950,
+        "num": 207591,
+        "word": "45亿红包背后的巨头AI卡位战",
+        "onboard_time": 1770893719,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 158464,
+        "num": 207145,
+        "word": "上海地铁嘉闵线发生局部渗漏",
+        "onboard_time": 1770881660,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 970060,
+        "num": 206419,
+        "word": "张馨予 你很有钱是吗",
+        "onboard_time": 1770881719,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 461765,
+        "num": 206061,
+        "word": "男子性侵前妻闺蜜被判10年8个月",
+        "onboard_time": 1770885380,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 407685,
+        "num": 205585,
+        "word": "蒋欣 当年真的错怪你了",
+        "onboard_time": 1770880820,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 390301,
+        "num": 205037,
+        "word": "杨幂校花学姐",
+        "onboard_time": 1770890959,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308236,
+        "num": 204617,
+        "word": "姐姐被藏尸位置就在弟弟店铺正上方",
+        "onboard_time": 1770870440,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139039,
+        "num": 204523,
+        "word": "孙颖莎ELLE 6个封面",
+        "onboard_time": 1770868999,
+        "rank": 26,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 204083,
+        "num": 204083,
+        "word": "时代少年团你们吵到陈都灵了",
+        "onboard_time": 1770887421,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153787,
+        "num": 153787,
+        "word": "ILLIT NewJeans",
+        "onboard_time": 1770875480,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132184,
+        "num": 132184,
+        "word": "高市早苗或将释放三大恶魔",
+        "onboard_time": 1770892639,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 132799,
+        "num": 130275,
+        "word": "张凌赫粉丝爬半天山拍了三遍林允",
+        "onboard_time": 1770893719,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124892,
+        "num": 124892,
+        "word": "时代峰峻春联贴反了",
+        "onboard_time": 1770884361,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110436,
+        "num": 110436,
+        "word": "钢架雪车",
+        "onboard_time": 1770893601,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109701,
+        "num": 109701,
+        "word": "程潇 我只眼神给出去",
+        "onboard_time": 1770892520,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105241,
+        "num": 105241,
+        "word": "孙颖莎ELLE",
+        "onboard_time": 1770866479,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97814,
+        "num": 97814,
+        "word": "TFBOYS 你永远比别人多两个观众",
+        "onboard_time": 1770882920,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95930,
+        "num": 95930,
+        "word": "宋雨琦 出去就要大大方方的",
+        "onboard_time": 1770889461,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89325,
+        "num": 89325,
+        "word": "舌头翘一翘身体好坏都知道",
+        "onboard_time": 1770892461,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 34171,
+        "num": 87058,
+        "word": "爸爸春节前急着帮女儿相亲被骗17万",
+        "onboard_time": 1770894020,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44132,
+        "num": 86602,
+        "word": "30岁男子没买车父母不愿出门拜年",
+        "onboard_time": 1770894443,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86283,
+        "num": 86283,
+        "word": "唐宫姚安娜身份果然不简单",
+        "onboard_time": 1770890661,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85101,
+        "num": 85101,
+        "word": "李一桐发了49999的红包",
+        "onboard_time": 1770855020,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82595,
+        "num": 82595,
+        "word": "LOL登顶网吧游戏热力榜",
+        "onboard_time": 1770892999,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 79808,
+        "num": 79808,
+        "word": "小伙3万彩礼3万首饰娶埃及姑娘",
+        "onboard_time": 1770894680,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79757,
+        "num": 79757,
+        "word": "太好了是烂梗我们没救了",
+        "onboard_time": 1770889280,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 78554,
+        "num": 78554,
+        "word": "微博之夜 绝美打光",
+        "onboard_time": 1770892579,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 77678,
+        "num": 77678,
+        "word": "立威廉 短剧应该只能用手机看吧",
+        "onboard_time": 1770894620,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75788,
+        "num": 75788,
+        "word": "这不是陪床这是解药",
+        "onboard_time": 1770892280,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 72963,
+        "num": 72963,
+        "word": "曝陈哲远每年让员工带薪出国旅游",
+        "onboard_time": 1770894739,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72280,
+        "num": 72280,
+        "word": "王一博搞笑很多年了",
+        "onboard_time": 1770892999,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#感受总书记的新春牵挂#"
+    }
+  }
+}
