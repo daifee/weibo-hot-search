@@ -1,0 +1,410 @@
+{
+  "runTime": 1770873319905,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 417021,
+        "num": 1066723,
+        "word": "2025年全国结婚登记676.3万对",
+        "onboard_time": 1770867741,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 258639,
+        "num": 773269,
+        "word": "从Deepseek到Seedance中国AI成了",
+        "onboard_time": 1770870200,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 32603,
+        "num": 636811,
+        "word": "中国人离登月又近了一步",
+        "onboard_time": 1770871821,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 399421,
+        "num": 399421,
+        "word": "陈妍希官宣喜综",
+        "onboard_time": 1770868399,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208291,
+        "num": 208291,
+        "word": "玫瑰丛生定档",
+        "onboard_time": 1770863059,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 499028,
+        "num": 199071,
+        "word": "相亲吃烤肉",
+        "onboard_time": 1770870139,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 215735,
+        "num": 197360,
+        "word": "李健 春晚",
+        "onboard_time": 1770866240,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 187849,
+        "num": 187849,
+        "word": "两名小孩扔爆竹致1200年古树起火",
+        "onboard_time": 1770860600,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1145139,
+        "num": 187606,
+        "word": "男子用AI一夜赚够一线房首付",
+        "onboard_time": 1770869119,
+        "rank": 8,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 165756,
+        "num": 187193,
+        "word": "法国3名婴儿因食用问题奶粉死亡",
+        "onboard_time": 1770867560,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 584787,
+        "num": 186542,
+        "word": "李一桐发了49999的红包",
+        "onboard_time": 1770855020,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 375467,
+        "num": 186042,
+        "word": "井柏然就这样静静等着刘雯",
+        "onboard_time": 1770871461,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 310866,
+        "num": 185547,
+        "word": "孙颖莎ELLE 6个封面",
+        "onboard_time": 1770868999,
+        "rank": 12,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 257619,
+        "num": 185231,
+        "word": "闵熙珍胜诉",
+        "onboard_time": 1770867622,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230305,
+        "num": 184624,
+        "word": "当街摔死多只兔子摊贩被行拘5天",
+        "onboard_time": 1770867500,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 512003,
+        "num": 184143,
+        "word": "李一桐高情商公关",
+        "onboard_time": 1770862700,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209599,
+        "num": 183482,
+        "word": "马思纯王楚然 表妹长大了",
+        "onboard_time": 1770871880,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203104,
+        "num": 183433,
+        "word": "微博红包",
+        "onboard_time": 1770863898,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 182962,
+        "num": 182962,
+        "word": "孙颖莎ELLE",
+        "onboard_time": 1770866479,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 51412,
+        "num": 168933,
+        "word": "过年回家父母为什么不能好好说话",
+        "onboard_time": 1770872900,
+        "rank": 19,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 943524,
+        "num": 168599,
+        "word": "姐姐被藏尸位置就在弟弟店铺正上方",
+        "onboard_time": 1770870440,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 259973,
+        "num": 168443,
+        "word": "游乐王子的女儿感染合胞病毒",
+        "onboard_time": 1770854540,
+        "rank": 21,
+        "category": "艺人,健康医疗"
+      },
+      {
+        "raw_hot": 167876,
+        "num": 167876,
+        "word": "赵樱子do高颅顶",
+        "onboard_time": 1770873080,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121904,
+        "num": 151735,
+        "word": "爱泼斯坦最神秘女友身份曝光",
+        "onboard_time": 1770872059,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 147356,
+        "num": 147356,
+        "word": "中国速滑米兰冬奥首枚奖牌",
+        "onboard_time": 1770866720,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145581,
+        "num": 145581,
+        "word": "生小孩需要一个发达的前额叶",
+        "onboard_time": 1770851356,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 140337,
+        "num": 140337,
+        "word": "长期侧睡对颜值的影响",
+        "onboard_time": 1770866179,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 133585,
+        "num": 133585,
+        "word": "杨紫白菊真变白局了",
+        "onboard_time": 1770871821,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130620,
+        "num": 130620,
+        "word": "成毅朱瞻基特辑",
+        "onboard_time": 1770865460,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 57437,
+        "num": 130282,
+        "word": "部分去日本航线取消全部航班",
+        "onboard_time": 1770865881,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130020,
+        "num": 130020,
+        "word": "宋威龙晒被赵今麦扯开的领带",
+        "onboard_time": 1770872841,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121993,
+        "num": 121993,
+        "word": "前妻回应陶白白爆火时飘了",
+        "onboard_time": 1770872360,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 107153,
+        "num": 119387,
+        "word": "Knight说自己收到病危通知书",
+        "onboard_time": 1770872301,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 119215,
+        "num": 119215,
+        "word": "敖瑞鹏王玉雯和平精英cos",
+        "onboard_time": 1770868999,
+        "rank": 33,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 93597,
+        "num": 113681,
+        "word": "国际雪联阴阳谷爱凌后道歉",
+        "onboard_time": 1770863960,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113283,
+        "num": 113283,
+        "word": "宋旻浩或将被判刑",
+        "onboard_time": 1770860239,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110844,
+        "num": 110844,
+        "word": "蔡徐坤Colder纪录片",
+        "onboard_time": 1770872360,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 55898,
+        "num": 106208,
+        "word": "易烊千玺累出痛苦面具了",
+        "onboard_time": 1770873259,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89835,
+        "num": 106114,
+        "word": "4岁假肢女孩穿满钻假肢走秀",
+        "onboard_time": 1770872779,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24639,
+        "num": 106113,
+        "word": "一根细绳让隐藏39年凶手现形",
+        "onboard_time": 1770872841,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106113,
+        "num": 106112,
+        "word": "人为什么要经常出去旅游",
+        "onboard_time": 1770871040,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 110213,
+        "num": 106042,
+        "word": "赫丽摸金宇",
+        "onboard_time": 1770869660,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 95784,
+        "num": 95784,
+        "word": "爸爸愣了一分钟才开始夸我",
+        "onboard_time": 1770871940,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 43344,
+        "num": 93317,
+        "word": "受害者称被爱泼斯坦要求多人性活动",
+        "onboard_time": 1770872059,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 99587,
+        "num": 93237,
+        "word": "开始推理吧 接原班人马",
+        "onboard_time": 1770858920,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93147,
+        "num": 93147,
+        "word": "杨瀚森双手补扣",
+        "onboard_time": 1770872779,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90790,
+        "num": 90790,
+        "word": "周深杂志",
+        "onboard_time": 1770865881,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 89460,
+        "num": 89460,
+        "word": "郑嘉颖现在比九子夺嫡的时候还累",
+        "onboard_time": 1770870921,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89208,
+        "num": 89208,
+        "word": "猫 你最好赶紧给我删了",
+        "onboard_time": 1770872240,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 88158,
+        "num": 88158,
+        "word": "体操运动员坠楼涉事教练被立案调查",
+        "onboard_time": 1770860300,
+        "rank": 49,
+        "category": "民生新闻,体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记心系老字号传承发展#"
+    }
+  }
+}

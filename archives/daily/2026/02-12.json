@@ -1,6 +1,6 @@
 {
   "startTime": 1770826438780,
-  "endTime": 1770872729191,
+  "endTime": 1770873319905,
   "band_list": [
     {
       "raw_hot": 1221534,
@@ -35,7 +35,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 761592,
+      "raw_hot": 943524,
       "num": 182769,
       "word": "姐姐被藏尸位置就在弟弟店铺正上方",
       "onboard_time": 1770870440,
@@ -148,7 +148,7 @@
     },
     {
       "raw_hot": 430624,
-      "num": 856793,
+      "num": 1066723,
       "word": "2025年全国结婚登记676.3万对",
       "onboard_time": 1770867741,
       "rank": 1,
@@ -177,6 +177,14 @@
       "onboard_time": 1770805460,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 375467,
+      "num": 191993,
+      "word": "井柏然就这样静静等着刘雯",
+      "onboard_time": 1770871461,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 350932,
@@ -260,7 +268,7 @@
     },
     {
       "raw_hot": 289419,
-      "num": 289419,
+      "num": 773269,
       "word": "从Deepseek到Seedance中国AI成了",
       "onboard_time": 1770870200,
       "rank": 4,
@@ -281,14 +289,6 @@
       "onboard_time": 1770867500,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 283713,
-      "num": 191993,
-      "word": "井柏然就这样静静等着刘雯",
-      "onboard_time": 1770871461,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 276944,
@@ -403,6 +403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 209599,
+      "num": 183482,
+      "word": "马思纯王楚然 表妹长大了",
+      "onboard_time": 1770871880,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 207119,
       "num": 207119,
       "word": "薛文姐35年前乳汁救武警今患癌",
@@ -515,6 +523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 167876,
+      "num": 167876,
+      "word": "赵樱子do高颅顶",
+      "onboard_time": 1770873080,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 161612,
       "num": 161612,
       "word": "爱泼斯坦死后遗体被秘密转移",
@@ -544,14 +560,6 @@
       "word": "张函瑞跳自己的进行曲",
       "onboard_time": 1770819743,
       "rank": 21,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 157418,
-      "num": 157418,
-      "word": "马思纯王楚然 表妹长大了",
-      "onboard_time": 1770871880,
-      "rank": 25,
       "category": "艺人"
     },
     {
@@ -667,6 +675,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 130020,
+      "num": 130020,
+      "word": "宋威龙晒被赵今麦扯开的领带",
+      "onboard_time": 1770872841,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 129524,
       "num": 47348,
       "word": "宁忠岩将冲击冬奥奖牌",
@@ -681,6 +697,22 @@
       "onboard_time": 1770817701,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 121993,
+      "num": 121993,
+      "word": "前妻回应陶白白爆火时飘了",
+      "onboard_time": 1770872360,
+      "rank": 42,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 121904,
+      "num": 190108,
+      "word": "爱泼斯坦最神秘女友身份曝光",
+      "onboard_time": 1770872059,
+      "rank": 18,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 121592,
@@ -713,14 +745,6 @@
       "onboard_time": 1770864920,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 113956,
-      "num": 99262,
-      "word": "前妻回应陶白白爆火时飘了",
-      "onboard_time": 1770872360,
-      "rank": 42,
-      "category": "网红"
     },
     {
       "raw_hot": 113760,
@@ -761,6 +785,14 @@
       "onboard_time": 1770856340,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 107153,
+      "num": 119387,
+      "word": "Knight说自己收到病危通知书",
+      "onboard_time": 1770872301,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 106052,
@@ -867,12 +899,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 91786,
-      "num": 91786,
-      "word": "Knight说自己收到病危通知书",
-      "onboard_time": 1770872301,
-      "rank": 47,
-      "category": "电竞"
+      "raw_hot": 93147,
+      "num": 93147,
+      "word": "杨瀚森双手补扣",
+      "onboard_time": 1770872779,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 90463,
@@ -889,6 +921,14 @@
       "onboard_time": 1770859222,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 89835,
+      "num": 106114,
+      "word": "4岁假肢女孩穿满钻假肢走秀",
+      "onboard_time": 1770872779,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 88781,
@@ -993,14 +1033,6 @@
       "onboard_time": 1770811520,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 80740,
-      "num": 190108,
-      "word": "爱泼斯坦最神秘女友身份曝光",
-      "onboard_time": 1770872059,
-      "rank": 18,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 79286,
@@ -1211,6 +1243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 55898,
+      "num": 106208,
+      "word": "易烊千玺累出痛苦面具了",
+      "onboard_time": 1770873259,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 54976,
       "num": 54976,
       "word": "岳阳一救护车装橘子开警灯闯红灯",
@@ -1249,6 +1289,14 @@
       "onboard_time": 1770825741,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 51412,
+      "num": 168933,
+      "word": "过年回家父母为什么不能好好说话",
+      "onboard_time": 1770872900,
+      "rank": 19,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 49868,
@@ -1347,6 +1395,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 43344,
+      "num": 102350,
+      "word": "受害者称被爱泼斯坦要求多人性活动",
+      "onboard_time": 1770872059,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 41713,
       "num": 41713,
       "word": "速度滑冰",
@@ -1379,15 +1435,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 33750,
-      "num": 102350,
-      "word": "受害者称被爱泼斯坦要求多人性活动",
-      "onboard_time": 1770872059,
-      "rank": 38,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 32481,
+      "raw_hot": 32603,
       "num": 705000,
       "word": "中国人离登月又近了一步",
       "onboard_time": 1770871821,
@@ -1441,6 +1489,14 @@
       "onboard_time": 1770831917,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 24639,
+      "num": 106113,
+      "word": "一根细绳让隐藏39年凶手现形",
+      "onboard_time": 1770872841,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24548,
@@ -1596,6 +1652,9 @@
     },
     {
       "word": "#总书记在十五五开局之年的首次考察#"
+    },
+    {
+      "word": "#总书记心系老字号传承发展#"
     }
   ]
 }
