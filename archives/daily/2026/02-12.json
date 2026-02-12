@@ -1,6 +1,6 @@
 {
   "startTime": 1770826438780,
-  "endTime": 1770886747066,
+  "endTime": 1770887597800,
   "band_list": [
     {
       "raw_hot": 1648080,
@@ -99,7 +99,7 @@
       "category": "民生新闻,体育"
     },
     {
-      "raw_hot": 587423,
+      "raw_hot": 611776,
       "num": 179994,
       "word": "男子性侵前妻闺蜜被判10年8个月",
       "onboard_time": 1770885380,
@@ -187,6 +187,14 @@
       "category": "体育,时尚"
     },
     {
+      "raw_hot": 486731,
+      "num": 1065949,
+      "word": "孙颖莎装修微博",
+      "onboard_time": 1770884421,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 477357,
       "num": 802557,
       "word": "两名小孩扔爆竹致1200年古树起火",
@@ -209,6 +217,14 @@
       "onboard_time": 1770854540,
       "rank": 20,
       "category": "艺人,健康医疗"
+    },
+    {
+      "raw_hot": 447923,
+      "num": 1071667,
+      "word": "团购12箱车厘子收到陈年僵尸果",
+      "onboard_time": 1770883820,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 446069,
@@ -235,14 +251,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 412185,
-      "num": 1065949,
-      "word": "孙颖莎装修微博",
-      "onboard_time": 1770884421,
-      "rank": 0,
-      "category": "体育"
-    },
-    {
       "raw_hot": 410506,
       "num": 410506,
       "word": "陈妍希官宣喜综",
@@ -267,12 +275,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 397919,
-      "num": 784313,
-      "word": "团购12箱车厘子收到陈年僵尸果",
-      "onboard_time": 1770883820,
-      "rank": 1,
-      "category": "民生新闻"
+      "raw_hot": 393473,
+      "num": 802271,
+      "word": "中戏表演系原主任陈刚主动投案",
+      "onboard_time": 1770885081,
+      "rank": 4,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 390076,
@@ -281,6 +289,14 @@
       "onboard_time": 1770805460,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 383571,
+      "num": 159283,
+      "word": "保罗老婆生娃大出血3L",
+      "onboard_time": 1770886281,
+      "rank": 27,
+      "category": "网红"
     },
     {
       "raw_hot": 375467,
@@ -411,14 +427,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 296572,
-      "num": 296572,
-      "word": "中戏表演系原主任陈刚主动投案",
-      "onboard_time": 1770885081,
-      "rank": 4,
-      "category": "民生新闻,教育"
-    },
-    {
       "raw_hot": 287101,
       "num": 193046,
       "word": "闵熙珍胜诉",
@@ -515,6 +523,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 252974,
+      "num": 180364,
+      "word": "时代峰峻春联贴反了",
+      "onboard_time": 1770884361,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 252580,
+      "num": 179506,
+      "word": "李一桐 我比张凌赫强是吧",
+      "onboard_time": 1770883040,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 250716,
       "num": 250716,
       "word": "李健 春晚",
@@ -563,28 +587,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 233348,
-      "num": 179506,
-      "word": "李一桐 我比张凌赫强是吧",
-      "onboard_time": 1770883040,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 231282,
       "num": 186938,
       "word": "时代少年团 麦克风",
       "onboard_time": 1770825921,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 229310,
-      "num": 180364,
-      "word": "时代峰峻春联贴反了",
-      "onboard_time": 1770884361,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 211109,
@@ -707,6 +715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 181674,
+      "num": 179292,
+      "word": "男子出轨离婚出轨对象又出轨",
+      "onboard_time": 1770884781,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 181154,
       "num": 181154,
       "word": "沈梦辰换了10套少数民族服装",
@@ -739,14 +755,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 179292,
-      "num": 179292,
-      "word": "男子出轨离婚出轨对象又出轨",
-      "onboard_time": 1770884781,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 172704,
       "num": 190299,
       "word": "郑钦文vs莱巴金娜",
@@ -755,8 +763,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 170960,
+      "num": 162666,
+      "word": "国庆前做的美甲忍到了现在",
+      "onboard_time": 1770884722,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 168663,
-      "num": 141348,
+      "num": 151348,
       "word": "孙颖莎 E人的I人属性",
       "onboard_time": 1770869599,
       "rank": 25,
@@ -769,14 +785,6 @@
       "onboard_time": 1770818722,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 162666,
-      "num": 162666,
-      "word": "国庆前做的美甲忍到了现在",
-      "onboard_time": 1770884722,
-      "rank": 26,
-      "category": "幽默"
     },
     {
       "raw_hot": 161612,
@@ -801,14 +809,6 @@
       "onboard_time": 1770818662,
       "rank": 8,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 157644,
-      "num": 157644,
-      "word": "保罗老婆生娃大出血3L",
-      "onboard_time": 1770886281,
-      "rank": 27,
-      "category": "网红"
     },
     {
       "raw_hot": 157610,
@@ -1243,6 +1243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 95735,
+      "num": 180205,
+      "word": "中方提要求立陶宛新总理称能改",
+      "onboard_time": 1770886160,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 94989,
       "num": 94989,
       "word": "成何体统",
@@ -1371,6 +1379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 87439,
+      "num": 87439,
+      "word": "杨幂到达长沙参加王者表演赛",
+      "onboard_time": 1770886521,
+      "rank": 44,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 87369,
       "num": 87369,
       "word": "当狗狗发现挠它的人不认识时",
@@ -1427,6 +1443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 84452,
+      "num": 84452,
+      "word": "车厘子卖家赌涨价压货",
+      "onboard_time": 1770887359,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84418,
       "num": 110326,
       "word": "千问说买得开心过两天见",
@@ -1473,14 +1497,6 @@
       "onboard_time": 1770811520,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 81073,
-      "num": 81073,
-      "word": "杨幂到达长沙参加王者表演赛",
-      "onboard_time": 1770886521,
-      "rank": 44,
-      "category": "艺人,游戏"
     },
     {
       "raw_hot": 80245,
@@ -1601,14 +1617,6 @@
       "onboard_time": 1770886222,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 73042,
-      "num": 180205,
-      "word": "中方提要求立陶宛新总理称能改",
-      "onboard_time": 1770886160,
-      "rank": 19,
-      "category": "国内时政"
     },
     {
       "raw_hot": 72505,
@@ -1947,6 +1955,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 39476,
+      "num": 91647,
+      "word": "丁程鑫是不是刷到朱志鑫崴脚了",
+      "onboard_time": 1770887060,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 39216,
+      "num": 160950,
+      "word": "当明星遇上冬奥计时欧米茄",
+      "onboard_time": 1770887001,
+      "rank": 17,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 36928,
       "num": 63664,
       "word": "宁忠岩1000米速滑铜牌",
@@ -1961,6 +1985,14 @@
       "onboard_time": 1770882620,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 34912,
+      "num": 160214,
+      "word": "爱泼斯坦偷拍潜在受害者视频曝光",
+      "onboard_time": 1770887001,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 34712,
@@ -2073,6 +2105,14 @@
       "onboard_time": 1770840193,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 21024,
+      "num": 92841,
+      "word": "时代少年团你们吵到陈都灵了",
+      "onboard_time": 1770887421,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 19149,
@@ -2193,6 +2233,14 @@
       "onboard_time": 1770839834,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 6448,
+      "num": 91593,
+      "word": "春节小城酒店住宿暴涨到3000元",
+      "onboard_time": 1770887540,
+      "rank": 39,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

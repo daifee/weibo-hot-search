@@ -1,0 +1,410 @@
+{
+  "runTime": 1770887597800,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 447923,
+        "num": 1071667,
+        "word": "团购12箱车厘子收到陈年僵尸果",
+        "onboard_time": 1770883820,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 393473,
+        "num": 802271,
+        "word": "中戏表演系原主任陈刚主动投案",
+        "onboard_time": 1770885081,
+        "rank": 1,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 26575,
+        "num": 625921,
+        "word": "中国人离登月又近了一步",
+        "onboard_time": 1770871821,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 276974,
+        "num": 276974,
+        "word": "中方回应特朗普预计4月初访华",
+        "onboard_time": 1770884182,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 274800,
+        "num": 274800,
+        "word": "王楚钦跑一万米",
+        "onboard_time": 1770884421,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 486731,
+        "num": 268506,
+        "word": "孙颖莎装修微博",
+        "onboard_time": 1770884421,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205655,
+        "num": 205655,
+        "word": "霉变车厘子毒性可达砒霜68倍",
+        "onboard_time": 1770879919,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193922,
+        "num": 193922,
+        "word": "相亲吃烤肉",
+        "onboard_time": 1770870139,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 174252,
+        "num": 174252,
+        "word": "为什么奶茶封口还要盖盖子",
+        "onboard_time": 1770874160,
+        "rank": 8,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 131065,
+        "num": 174061,
+        "word": "王莉霞严重违纪违法被双开",
+        "onboard_time": 1770876799,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1475595,
+        "num": 171483,
+        "word": "张馨予 你很有钱是吗",
+        "onboard_time": 1770881719,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 715252,
+        "num": 170140,
+        "word": "蒋欣 当年真的错怪你了",
+        "onboard_time": 1770880820,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 443418,
+        "num": 166846,
+        "word": "孙颖莎ELLE 6个封面",
+        "onboard_time": 1770868999,
+        "rank": 12,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 344460,
+        "num": 166322,
+        "word": "孙颖莎ELLE",
+        "onboard_time": 1770866479,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 309220,
+        "num": 163286,
+        "word": "TFBOYS 你永远比别人多两个观众",
+        "onboard_time": 1770882920,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267563,
+        "num": 162154,
+        "word": "李一桐发了49999的红包",
+        "onboard_time": 1770855020,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160989,
+        "num": 160989,
+        "word": "微博红包",
+        "onboard_time": 1770863898,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 39216,
+        "num": 160950,
+        "word": "当明星遇上冬奥计时欧米茄",
+        "onboard_time": 1770887001,
+        "rank": 17,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 252974,
+        "num": 160378,
+        "word": "时代峰峻春联贴反了",
+        "onboard_time": 1770884361,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34912,
+        "num": 160214,
+        "word": "爱泼斯坦偷拍潜在受害者视频曝光",
+        "onboard_time": 1770887001,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 611776,
+        "num": 159700,
+        "word": "男子性侵前妻闺蜜被判10年8个月",
+        "onboard_time": 1770885380,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 408467,
+        "num": 159650,
+        "word": "姐姐被藏尸位置就在弟弟店铺正上方",
+        "onboard_time": 1770870440,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 383571,
+        "num": 159283,
+        "word": "保罗老婆生娃大出血3L",
+        "onboard_time": 1770886281,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 252580,
+        "num": 158889,
+        "word": "李一桐 我比张凌赫强是吧",
+        "onboard_time": 1770883040,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181674,
+        "num": 158614,
+        "word": "男子出轨离婚出轨对象又出轨",
+        "onboard_time": 1770884781,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 241499,
+        "num": 158178,
+        "word": "ILLIT NewJeans",
+        "onboard_time": 1770875480,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170960,
+        "num": 157894,
+        "word": "国庆前做的美甲忍到了现在",
+        "onboard_time": 1770884722,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 157754,
+        "num": 157754,
+        "word": "七莘路",
+        "onboard_time": 1770879619,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152677,
+        "num": 152677,
+        "word": "赵樱子do高颅顶",
+        "onboard_time": 1770873080,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151348,
+        "num": 151348,
+        "word": "孙颖莎 E人的I人属性",
+        "onboard_time": 1770869599,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126195,
+        "num": 126195,
+        "word": "白鹿红包封面",
+        "onboard_time": 1770885500,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117159,
+        "num": 117159,
+        "word": "宋威龙晒被赵今麦扯开的领带",
+        "onboard_time": 1770872841,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99110,
+        "num": 99110,
+        "word": "二胎妈妈跪求丈夫离婚放过自己",
+        "onboard_time": 1770874341,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98355,
+        "num": 98355,
+        "word": "医生建议刷牙后先别漱口",
+        "onboard_time": 1770875900,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 98318,
+        "num": 98318,
+        "word": "妈妈做了一桌预制菜年夜饭",
+        "onboard_time": 1770880759,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 96042,
+        "num": 96042,
+        "word": "谷爱凌不是输给第一名的第二名",
+        "onboard_time": 1770883161,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95735,
+        "num": 95735,
+        "word": "中方提要求立陶宛新总理称能改",
+        "onboard_time": 1770886160,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 21024,
+        "num": 92841,
+        "word": "时代少年团你们吵到陈都灵了",
+        "onboard_time": 1770887421,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39476,
+        "num": 91647,
+        "word": "丁程鑫是不是刷到朱志鑫崴脚了",
+        "onboard_time": 1770887060,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 6448,
+        "num": 91593,
+        "word": "春节小城酒店住宿暴涨到3000元",
+        "onboard_time": 1770887540,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91545,
+        "num": 91545,
+        "word": "上海地铁嘉闵线发生局部渗漏",
+        "onboard_time": 1770881660,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91155,
+        "num": 91155,
+        "word": "从Deepseek到Seedance中国AI成了",
+        "onboard_time": 1770870200,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 88209,
+        "num": 88209,
+        "word": "为什么美国人说中国人是精灵族",
+        "onboard_time": 1770885860,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 87439,
+        "num": 87439,
+        "word": "杨幂到达长沙参加王者表演赛",
+        "onboard_time": 1770886521,
+        "rank": 43,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 86629,
+        "num": 86629,
+        "word": "辛芷蕾秦岚 你祝福我吧",
+        "onboard_time": 1770883881,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84452,
+        "num": 84452,
+        "word": "车厘子卖家赌涨价压货",
+        "onboard_time": 1770887359,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85688,
+        "num": 83151,
+        "word": "宋威龙赵今麦 马场有对象",
+        "onboard_time": 1770883820,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81796,
+        "num": 81796,
+        "word": "钟南山院士说会用证据让全世界服气",
+        "onboard_time": 1770874640,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76229,
+        "num": 76229,
+        "word": "安徽一小伙迎娶00后埃及女生",
+        "onboard_time": 1770878780,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75831,
+        "num": 75831,
+        "word": "2025年全国结婚登记676.3万对",
+        "onboard_time": 1770867741,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记心系老字号传承发展#"
+    }
+  }
+}
