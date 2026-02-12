@@ -1,6 +1,6 @@
 {
   "startTime": 1770482461321,
-  "endTime": 1770909309963,
+  "endTime": 1770912100688,
   "band_list": [
     {
       "raw_hot": 7279878,
@@ -139,6 +139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1459168,
+      "num": 517864,
+      "word": "虞书欣直播",
+      "onboard_time": 1770907400,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1344252,
       "num": 1344252,
       "word": "大连地震",
@@ -153,14 +161,6 @@
       "onboard_time": 1770610040,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1225199,
-      "num": 193305,
-      "word": "虞书欣直播",
-      "onboard_time": 1770907400,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1221534,
@@ -833,6 +833,14 @@
       "onboard_time": 1770765196,
       "rank": 0,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 664285,
+      "num": 272510,
+      "word": "丞磊在飞机上帮王楚然剔牙",
+      "onboard_time": 1770909261,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 663762,
@@ -2851,6 +2859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 312644,
+      "num": 190261,
+      "word": "宋亚轩遇到了最懂他的刘耀文",
+      "onboard_time": 1770908540,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 312538,
       "num": 234193,
       "word": "贾乃亮公司年会奖励万元红包",
@@ -3025,6 +3041,14 @@
       "onboard_time": 1770799401,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 298484,
+      "num": 783277,
+      "word": "Deepseek被指变冷淡了",
+      "onboard_time": 1770907522,
+      "rank": 27,
+      "category": "互联网,民生新闻"
     },
     {
       "raw_hot": 298088,
@@ -4531,14 +4555,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 207071,
-      "num": 207071,
-      "word": "Deepseek被指变冷淡了",
-      "onboard_time": 1770907522,
-      "rank": 27,
-      "category": "互联网,民生新闻"
-    },
-    {
       "raw_hot": 206750,
       "num": 163044,
       "word": "张函瑞跳自己的进行曲",
@@ -4891,14 +4907,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 190261,
-      "num": 190261,
-      "word": "宋亚轩遇到了最懂他的刘耀文",
-      "onboard_time": 1770908540,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 190021,
       "num": 190021,
       "word": "小米车主遭特斯拉车主别车辱骂",
@@ -5003,6 +5011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 184765,
+      "num": 184765,
+      "word": "小马打架被咬伤负气出逃跑上高架",
+      "onboard_time": 1770908061,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 184552,
       "num": 176850,
       "word": "德云社陶阳结婚",
@@ -5089,14 +5105,6 @@
       "onboard_time": 1770863960,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 179689,
-      "num": 179689,
-      "word": "丞磊在飞机上帮王楚然剔牙",
-      "onboard_time": 1770909261,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 179598,
@@ -6667,6 +6675,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 128024,
+      "num": 128024,
+      "word": "彭小苒 古早韩剧财阀家大小姐",
+      "onboard_time": 1770909440,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127977,
       "num": 99762,
       "word": "甲状腺是怎么一步一步失控的",
@@ -8075,6 +8091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105770,
+      "num": 105770,
+      "word": "速度滑冰女子5000米",
+      "onboard_time": 1770911239,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 105729,
       "num": 105729,
       "word": "平手友梨奈结婚",
@@ -8675,6 +8699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 99134,
+      "num": 99134,
+      "word": "范宗沛去世",
+      "onboard_time": 1770910940,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 99120,
       "num": 99120,
       "word": "王者荣耀小马糕",
@@ -9113,6 +9145,14 @@
       "onboard_time": 1770642983,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 95174,
+      "num": 95174,
+      "word": "印度要买114架阵风",
+      "onboard_time": 1770910460,
+      "rank": 28,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 95061,
@@ -10099,14 +10139,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 86153,
-      "num": 137940,
-      "word": "小马打架被咬伤负气出逃跑上高架",
-      "onboard_time": 1770908061,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 86151,
       "num": 86151,
       "word": "张凌赫耳夹皮衣造型",
@@ -10675,6 +10707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 81724,
+      "num": 77511,
+      "word": "王楚然丞磊怎么会熟成这样",
+      "onboard_time": 1770909321,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 81598,
       "num": 81598,
       "word": "订婚强奸案关键证据证明女方激烈反抗",
@@ -11049,6 +11089,14 @@
       "onboard_time": 1770722000,
       "rank": 36,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 78749,
+      "num": 78749,
+      "word": "远洋船员持菜刀砍杀船长后分尸抛海",
+      "onboard_time": 1770911000,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 78545,
@@ -11731,6 +11779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 71389,
+      "num": 71389,
+      "word": "张函瑞高会语音",
+      "onboard_time": 1770910400,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 71239,
       "num": 71239,
       "word": "这届年轻人买黄金心态就是稳",
@@ -12395,12 +12451,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 59655,
+      "num": 59655,
+      "word": "杭州9岁男孩拍短剧1天赚2000元",
+      "onboard_time": 1770910641,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 59478,
       "num": 59478,
       "word": "小狗看到主人穿得毛茸茸的反应",
       "onboard_time": 1770852198,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 59272,
+      "num": 59272,
+      "word": "马嘉祺黑西装live",
+      "onboard_time": 1770911421,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 59239,
