@@ -1,6 +1,6 @@
 {
   "startTime": 1770826438780,
-  "endTime": 1770864528680,
+  "endTime": 1770866918587,
   "band_list": [
     {
       "raw_hot": 1042177,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 954154,
-      "num": 210008,
+      "num": 211615,
       "word": "李一桐发了49999的红包",
       "onboard_time": 1770855020,
       "rank": 14,
@@ -36,11 +36,19 @@
     },
     {
       "raw_hot": 674444,
-      "num": 298172,
+      "num": 300357,
       "word": "生小孩需要一个发达的前额叶",
       "onboard_time": 1770851356,
       "rank": 5,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 657958,
+      "num": 219851,
+      "word": "孙颖莎ELLE",
+      "onboard_time": 1770866479,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 639273,
@@ -51,12 +59,28 @@
       "category": "民生新闻,体育"
     },
     {
+      "raw_hot": 584354,
+      "num": 1093496,
+      "word": "微博红包",
+      "onboard_time": 1770863898,
+      "rank": 7,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 554547,
       "num": 158595,
       "word": "女演员投资失败搬进出租屋",
       "onboard_time": 1770821361,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 548205,
+      "num": 790024,
+      "word": "玫瑰丛生定档",
+      "onboard_time": 1770863059,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 541366,
@@ -76,7 +100,7 @@
     },
     {
       "raw_hot": 452622,
-      "num": 169810,
+      "num": 190185,
       "word": "游乐王子的女儿感染合胞病毒",
       "onboard_time": 1770854540,
       "rank": 20,
@@ -115,12 +139,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 353094,
-      "num": 353094,
-      "word": "玫瑰丛生定档",
-      "onboard_time": 1770863059,
-      "rank": 4,
-      "category": "剧集"
+      "raw_hot": 350932,
+      "num": 350932,
+      "word": "春节中国赴日旅客量腰斩了",
+      "onboard_time": 1770861260,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 347441,
@@ -171,6 +195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 303018,
+      "num": 188779,
+      "word": "沈梦辰体态",
+      "onboard_time": 1770864140,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 276944,
       "num": 276944,
       "word": "新加坡女子误以为中大奖",
@@ -195,14 +227,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 265033,
-      "num": 265033,
-      "word": "微博红包",
-      "onboard_time": 1770863898,
-      "rank": 7,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 262108,
       "num": 220290,
       "word": "巴黎是杨超越家",
@@ -212,11 +236,19 @@
     },
     {
       "raw_hot": 257710,
-      "num": 207310,
+      "num": 212871,
       "word": "黄金白银直线下跌",
       "onboard_time": 1770856161,
       "rank": 15,
       "category": "财经"
+    },
+    {
+      "raw_hot": 256327,
+      "num": 256327,
+      "word": "成毅朱瞻基特辑",
+      "onboard_time": 1770865460,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 254859,
@@ -243,6 +275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 233504,
+      "num": 207199,
+      "word": "周深杂志",
+      "onboard_time": 1770865881,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 231282,
       "num": 186938,
       "word": "时代少年团 麦克风",
@@ -265,6 +305,14 @@
       "onboard_time": 1770851296,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 207119,
+      "num": 207119,
+      "word": "薛文姐35年前乳汁救武警今患癌",
+      "onboard_time": 1770865280,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 196814,
@@ -307,6 +355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 184509,
+      "num": 184509,
+      "word": "换头像就是换人设了",
+      "onboard_time": 1770856639,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 181154,
       "num": 181154,
       "word": "沈梦辰换了10套少数民族服装",
@@ -323,12 +379,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 179474,
-      "num": 179474,
-      "word": "换头像就是换人设了",
-      "onboard_time": 1770856639,
-      "rank": 18,
-      "category": "情感"
+      "raw_hot": 180571,
+      "num": 180571,
+      "word": "国际雪联阴阳谷爱凌后道歉",
+      "onboard_time": 1770863960,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 180057,
+      "num": 180057,
+      "word": "李健 春晚",
+      "onboard_time": 1770866240,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 172704,
@@ -345,14 +409,6 @@
       "onboard_time": 1770818722,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 167960,
-      "num": 241705,
-      "word": "春节中国赴日旅客量腰斩了",
-      "onboard_time": 1770861260,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 161612,
@@ -387,6 +443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 151384,
+      "num": 151384,
+      "word": "哥哥安抚腮腺炎弟弟得知传染秒变脸",
+      "onboard_time": 1770864499,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 150849,
       "num": 150849,
       "word": "沈月晒春晚后台合照",
@@ -411,12 +475,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 147450,
+      "num": 147450,
+      "word": "王广又闯祸了",
+      "onboard_time": 1770864320,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 138711,
       "num": 108130,
       "word": "长期积怨妻子疑用锅袭击丈夫致死",
       "onboard_time": 1770825620,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 136356,
+      "num": 136356,
+      "word": "你们蛋蛋后都是这么剧宣的吗",
+      "onboard_time": 1770864739,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 135694,
@@ -427,12 +507,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 134747,
-      "num": 98675,
-      "word": "哥哥安抚腮腺炎弟弟得知传染秒变脸",
-      "onboard_time": 1770864499,
-      "rank": 30,
-      "category": "民生新闻"
+      "raw_hot": 132823,
+      "num": 136463,
+      "word": "长期侧睡对颜值的影响",
+      "onboard_time": 1770866179,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 129524,
@@ -459,12 +539,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 118950,
+      "num": 118950,
+      "word": "辛芷蕾的国际影响力",
+      "onboard_time": 1770864858,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 118528,
       "num": 118528,
       "word": "28岁华人女孩遭前男友枪杀",
       "onboard_time": 1770855620,
       "rank": 25,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 114495,
+      "num": 97020,
+      "word": "宋雨琦程潇看秀生图",
+      "onboard_time": 1770864920,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 113760,
@@ -499,12 +595,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 104554,
-      "num": 98430,
-      "word": "沈梦辰体态",
-      "onboard_time": 1770864140,
-      "rank": 31,
-      "category": "艺人"
+      "raw_hot": 106052,
+      "num": 96585,
+      "word": "王楚然有效播剧",
+      "onboard_time": 1770864440,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 104646,
+      "num": 198928,
+      "word": "部分去日本航线取消全部航班",
+      "onboard_time": 1770865881,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 102097,
@@ -523,20 +627,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 98682,
-      "num": 98682,
-      "word": "国际雪联阴阳谷爱凌后道歉",
-      "onboard_time": 1770863960,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 98021,
       "num": 98021,
       "word": "两京十五日杀青",
       "onboard_time": 1770864379,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 96660,
+      "num": 96660,
+      "word": "iPhoneFold或引爆大折叠市场",
+      "onboard_time": 1770863301,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 96587,
@@ -571,12 +675,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 89714,
+      "num": 89714,
+      "word": "中国速滑米兰冬奥首枚奖牌",
+      "onboard_time": 1770866720,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 88781,
       "num": 90826,
       "word": "小马糕",
       "onboard_time": 1770858140,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 88323,
+      "num": 88323,
+      "word": "金饰价跌到1556元",
+      "onboard_time": 1770865100,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 87708,
@@ -635,6 +755,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 82692,
+      "num": 82692,
+      "word": "女子一针玻尿酸竟把眼睛打斜了",
+      "onboard_time": 1770863960,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 82524,
+      "num": 82524,
+      "word": "马年春晚首发单曲",
+      "onboard_time": 1770866840,
+      "rank": 48,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 82342,
       "num": 82342,
       "word": "丞磊 上位者",
@@ -667,11 +803,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 78273,
-      "num": 78273,
-      "word": "女子一针玻尿酸竟把眼睛打斜了",
-      "onboard_time": 1770863960,
-      "rank": 42,
+      "raw_hot": 78056,
+      "num": 78056,
+      "word": "男子火车上打盹5分钟49000元被偷",
+      "onboard_time": 1770865820,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -731,14 +867,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 71017,
-      "num": 71017,
-      "word": "王楚然有效播剧",
-      "onboard_time": 1770864440,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 70938,
       "num": 70938,
       "word": "权志龙Chanel",
@@ -761,14 +889,6 @@
       "onboard_time": 1770817221,
       "rank": 44,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 69966,
-      "num": 69966,
-      "word": "王广又闯祸了",
-      "onboard_time": 1770864320,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 69905,
@@ -795,12 +915,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 68065,
-      "num": 68065,
-      "word": "iPhoneFold或引爆大折叠市场",
-      "onboard_time": 1770863301,
-      "rank": 48,
-      "category": "数码"
+      "raw_hot": 68407,
+      "num": 96787,
+      "word": "这怎么能不算是藏海传第二季的剧透呢",
+      "onboard_time": 1770866299,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 67968,
@@ -955,6 +1075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 44504,
+      "num": 203542,
+      "word": "用鸿蒙把春节过成爽剧",
+      "onboard_time": 1770865519,
+      "rank": 18,
+      "category": "数码"
+    },
+    {
       "raw_hot": 44062,
       "num": 44062,
       "word": "湖南卫视春晚收视率",
@@ -1036,7 +1164,7 @@
     },
     {
       "raw_hot": 29041,
-      "num": 612645,
+      "num": 617263,
       "word": "春运路上藏着这些马年彩蛋",
       "onboard_time": 1770814100,
       "rank": 2,

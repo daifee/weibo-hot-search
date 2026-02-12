@@ -1,0 +1,410 @@
+{
+  "runTime": 1770866918587,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 584354,
+        "num": 1093496,
+        "word": "微博红包",
+        "onboard_time": 1770863898,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 548205,
+        "num": 790024,
+        "word": "玫瑰丛生定档",
+        "onboard_time": 1770863059,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16006,
+        "num": 617263,
+        "word": "春运路上藏着这些马年彩蛋",
+        "onboard_time": 1770814100,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 432872,
+        "num": 432872,
+        "word": "体操运动员坠楼涉事教练被立案调查",
+        "onboard_time": 1770860300,
+        "rank": 3,
+        "category": "民生新闻,体育"
+      },
+      {
+        "raw_hot": 422605,
+        "num": 422605,
+        "word": "两名小孩扔爆竹致1200年古树起火",
+        "onboard_time": 1770860600,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 350932,
+        "num": 350932,
+        "word": "春节中国赴日旅客量腰斩了",
+        "onboard_time": 1770861260,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 300357,
+        "num": 300357,
+        "word": "生小孩需要一个发达的前额叶",
+        "onboard_time": 1770851356,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 256327,
+        "num": 256327,
+        "word": "成毅朱瞻基特辑",
+        "onboard_time": 1770865460,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 225859,
+        "num": 225859,
+        "word": "阚清子演技",
+        "onboard_time": 1770860360,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 224147,
+        "num": 224147,
+        "word": "12家第三方火车票网售平台被约谈",
+        "onboard_time": 1770860540,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 877247,
+        "num": 223929,
+        "word": "李一桐高情商公关",
+        "onboard_time": 1770862700,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 657958,
+        "num": 219851,
+        "word": "孙颖莎ELLE",
+        "onboard_time": 1770866479,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 346501,
+        "num": 218466,
+        "word": "男子称亲吻搂抱女子说不算恋爱",
+        "onboard_time": 1770862399,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 259881,
+        "num": 215962,
+        "word": "宋旻浩或将被判刑",
+        "onboard_time": 1770860239,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233960,
+        "num": 212871,
+        "word": "黄金白银直线下跌",
+        "onboard_time": 1770856161,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 740370,
+        "num": 211615,
+        "word": "李一桐发了49999的红包",
+        "onboard_time": 1770855020,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233504,
+        "num": 207199,
+        "word": "周深杂志",
+        "onboard_time": 1770865881,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 207119,
+        "num": 207119,
+        "word": "薛文姐35年前乳汁救武警今患癌",
+        "onboard_time": 1770865280,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44504,
+        "num": 203542,
+        "word": "用鸿蒙把春节过成爽剧",
+        "onboard_time": 1770865519,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 104646,
+        "num": 198928,
+        "word": "部分去日本航线取消全部航班",
+        "onboard_time": 1770865881,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 409262,
+        "num": 190185,
+        "word": "游乐王子的女儿感染合胞病毒",
+        "onboard_time": 1770854540,
+        "rank": 20,
+        "category": "艺人,健康医疗"
+      },
+      {
+        "raw_hot": 303018,
+        "num": 188779,
+        "word": "沈梦辰体态",
+        "onboard_time": 1770864140,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184509,
+        "num": 184509,
+        "word": "换头像就是换人设了",
+        "onboard_time": 1770856639,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 218637,
+        "num": 182582,
+        "word": "ZB1将以五人组活动",
+        "onboard_time": 1770859999,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215039,
+        "num": 182048,
+        "word": "开始推理吧 接原班人马",
+        "onboard_time": 1770858920,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180571,
+        "num": 180571,
+        "word": "国际雪联阴阳谷爱凌后道歉",
+        "onboard_time": 1770863960,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187987,
+        "num": 180554,
+        "word": "巴黎是杨超越家",
+        "onboard_time": 1770856941,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180057,
+        "num": 180057,
+        "word": "李健 春晚",
+        "onboard_time": 1770866240,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 151384,
+        "num": 151384,
+        "word": "哥哥安抚腮腺炎弟弟得知传染秒变脸",
+        "onboard_time": 1770864499,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147450,
+        "num": 147450,
+        "word": "王广又闯祸了",
+        "onboard_time": 1770864320,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138968,
+        "num": 138968,
+        "word": "周深忘词 天花板没有提词器",
+        "onboard_time": 1770856041,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132823,
+        "num": 136463,
+        "word": "长期侧睡对颜值的影响",
+        "onboard_time": 1770866179,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 136356,
+        "num": 136356,
+        "word": "你们蛋蛋后都是这么剧宣的吗",
+        "onboard_time": 1770864739,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133332,
+        "num": 133332,
+        "word": "宋亚轩怎么那么高",
+        "onboard_time": 1770824361,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98875,
+        "num": 132024,
+        "word": "查理苏",
+        "onboard_time": 1770818601,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 131460,
+        "num": 131460,
+        "word": "德云社陶阳结婚",
+        "onboard_time": 1770858199,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118950,
+        "num": 118950,
+        "word": "辛芷蕾的国际影响力",
+        "onboard_time": 1770864858,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97350,
+        "num": 97350,
+        "word": "林孝埈刘少昂孙龙出战1000米",
+        "onboard_time": 1770855680,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114495,
+        "num": 97020,
+        "word": "宋雨琦程潇看秀生图",
+        "onboard_time": 1770864920,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68407,
+        "num": 96787,
+        "word": "这怎么能不算是藏海传第二季的剧透呢",
+        "onboard_time": 1770866299,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96660,
+        "num": 96660,
+        "word": "iPhoneFold或引爆大折叠市场",
+        "onboard_time": 1770863301,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 106052,
+        "num": 96585,
+        "word": "王楚然有效播剧",
+        "onboard_time": 1770864440,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96297,
+        "num": 96297,
+        "word": "28岁华人女孩遭前男友枪杀",
+        "onboard_time": 1770855620,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 91759,
+        "num": 91759,
+        "word": "韩国股民疯抢中国大模型龙头",
+        "onboard_time": 1770863898,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 89714,
+        "num": 89714,
+        "word": "中国速滑米兰冬奥首枚奖牌",
+        "onboard_time": 1770866720,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88323,
+        "num": 88323,
+        "word": "金饰价跌到1556元",
+        "onboard_time": 1770865100,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 83239,
+        "num": 83239,
+        "word": "男子出轨公婆照料婚外幼童刺痛女子",
+        "onboard_time": 1770851418,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82692,
+        "num": 82692,
+        "word": "女子一针玻尿酸竟把眼睛打斜了",
+        "onboard_time": 1770863960,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82524,
+        "num": 82524,
+        "word": "马年春晚首发单曲",
+        "onboard_time": 1770866840,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 78056,
+        "num": 78056,
+        "word": "男子火车上打盹5分钟49000元被偷",
+        "onboard_time": 1770865820,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席春节前夕慰问部队#"
+    }
+  }
+}
