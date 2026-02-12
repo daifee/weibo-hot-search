@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1770902669604,
+  "endTime": 1770904280479,
   "band_list": [
     {
       "raw_hot": 12386962,
@@ -820,7 +820,7 @@
     },
     {
       "raw_hot": 1094312,
-      "num": 136017,
+      "num": 141605,
       "word": "吃烤全羊发现大量粪便店家赔偿1500",
       "onboard_time": 1770898580,
       "rank": 20,
@@ -2051,6 +2051,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 702108,
+      "num": 1112337,
+      "word": "坏果太多胖东来下架全部智利车厘子",
+      "onboard_time": 1770899721,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 700320,
       "num": 239819,
       "word": "爱泼斯坦被爆可能没死",
@@ -2865,14 +2873,6 @@
       "onboard_time": 1770006562,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 574249,
-      "num": 1091879,
-      "word": "坏果太多胖东来下架全部智利车厘子",
-      "onboard_time": 1770899721,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 573810,
@@ -3811,6 +3811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 478629,
+      "num": 478629,
+      "word": "今年为啥没有年三十",
+      "onboard_time": 1770898041,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 478622,
       "num": 478622,
       "word": "千问让奶茶店爆单了",
@@ -4443,14 +4451,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 434805,
-      "num": 434805,
-      "word": "今年为啥没有年三十",
-      "onboard_time": 1770898041,
-      "rank": 3,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 434375,
       "num": 154349,
       "word": "男子轮奸幼女强迫卖淫被执行死刑",
@@ -4841,6 +4841,14 @@
       "onboard_time": 1770008122,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 411262,
+      "num": 156891,
+      "word": "36岁何穗状态",
+      "onboard_time": 1770901641,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 411010,
@@ -5267,6 +5275,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 389848,
+      "num": 389848,
+      "word": "蔡徐坤回复无畏",
+      "onboard_time": 1770899660,
+      "rank": 13,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 388899,
       "num": 512518,
       "word": "慕胥辞改名白日提灯过审",
@@ -5337,6 +5353,14 @@
       "onboard_time": 1770186021,
       "rank": 16,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 384597,
+      "num": 384597,
+      "word": "爸爸被劝酒女儿站身后霸气挡酒",
+      "onboard_time": 1770898702,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 383539,
@@ -5657,14 +5681,6 @@
       "onboard_time": 1769994261,
       "rank": 5,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 368292,
-      "num": 146059,
-      "word": "蔡徐坤回复无畏",
-      "onboard_time": 1770899660,
-      "rank": 13,
-      "category": "艺人,游戏"
     },
     {
       "raw_hot": 368270,
@@ -6697,6 +6713,14 @@
       "onboard_time": 1770000499,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 324080,
+      "num": 155909,
+      "word": "宋亚轩 没有任何击杀但是MVP",
+      "onboard_time": 1770899240,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 323370,
@@ -8891,14 +8915,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 250500,
-      "num": 140385,
-      "word": "宋亚轩 没有任何击杀但是MVP",
-      "onboard_time": 1770899240,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 249679,
       "num": 176209,
       "word": "马斯克感慨Seedance2.0发展快",
@@ -9371,6 +9387,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 239913,
+      "num": 153649,
+      "word": "生命树今晚自爆两狼",
+      "onboard_time": 1770899601,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 239679,
       "num": 239679,
       "word": "鞠婧祎指尖蝴蝶",
@@ -9560,14 +9584,6 @@
       "word": "女子托运宠物猫至哈尔滨却送到新疆",
       "onboard_time": 1770469701,
       "rank": 8,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 235657,
-      "num": 235657,
-      "word": "爸爸被劝酒女儿站身后霸气挡酒",
-      "onboard_time": 1770898702,
-      "rank": 4,
       "category": "民生新闻"
     },
     {
@@ -10888,14 +10904,6 @@
       "word": "肖战工作室用的BGM",
       "onboard_time": 1770421038,
       "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 204993,
-      "num": 138238,
-      "word": "36岁何穗状态",
-      "onboard_time": 1770901641,
-      "rank": 17,
       "category": "艺人"
     },
     {
@@ -13036,7 +13044,7 @@
     },
     {
       "raw_hot": 161723,
-      "num": 134260,
+      "num": 144658,
       "word": "左航嗓子哑了",
       "onboard_time": 1770899060,
       "rank": 22,
@@ -13537,14 +13545,6 @@
       "onboard_time": 1770723561,
       "rank": 28,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 152997,
-      "num": 152997,
-      "word": "生命树今晚自爆两狼",
-      "onboard_time": 1770899601,
-      "rank": 9,
-      "category": "剧集"
     },
     {
       "raw_hot": 152794,
@@ -14128,6 +14128,14 @@
       "word": "王广又闯祸了",
       "onboard_time": 1770864320,
       "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 147450,
+      "num": 131499,
+      "word": "杨幂白色高筒袜",
+      "onboard_time": 1770901940,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -15577,14 +15585,6 @@
       "onboard_time": 1770430040,
       "rank": 30,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 133057,
-      "num": 106929,
-      "word": "杨幂白色高筒袜",
-      "onboard_time": 1770901940,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 132999,
@@ -17867,6 +17867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 115304,
+      "num": 115304,
+      "word": "生命树集体沉默的60秒",
+      "onboard_time": 1770900382,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 115295,
       "num": 125218,
       "word": "千问回应系统崩了",
@@ -19115,6 +19123,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 108278,
+      "num": 103321,
+      "word": "曝陈哲远每年让员工带薪出国旅游",
+      "onboard_time": 1770894739,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 108243,
       "num": 108243,
       "word": "孙颖莎解锁新冠军",
@@ -20163,14 +20179,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 103131,
-      "num": 103131,
-      "word": "曝陈哲远每年让员工带薪出国旅游",
-      "onboard_time": 1770894739,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 103130,
       "num": 103130,
       "word": "一年一度二次元春晚来了",
@@ -20457,6 +20465,14 @@
       "onboard_time": 1770108020,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 101732,
+      "num": 101732,
+      "word": "肥猫郑则仕减重70斤感谢周润发",
+      "onboard_time": 1770902722,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 101709,
@@ -23283,14 +23299,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 90055,
-      "num": 90055,
-      "word": "生命树集体沉默的60秒",
-      "onboard_time": 1770900382,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 89900,
       "num": 89900,
       "word": "美国将向联合国支付部分拖欠会费",
@@ -24715,6 +24723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 84828,
+      "num": 82172,
+      "word": "刘耀文 真正想赢的人是没有表情的",
+      "onboard_time": 1770903921,
+      "rank": 38,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 84816,
       "num": 84816,
       "word": "刘耀文你找亲是不是",
@@ -24993,6 +25009,14 @@
       "onboard_time": 1770540801,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 83447,
+      "num": 95621,
+      "word": "影石CEO回应年会送房",
+      "onboard_time": 1770900680,
+      "rank": 41,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 83424,
@@ -25347,6 +25371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 82214,
+      "num": 82214,
+      "word": "倒模自己的耳朵当手机壳",
+      "onboard_time": 1770902779,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 82198,
       "num": 82198,
       "word": "黄金一夜暴涨3%上车还是跑路",
@@ -25401,6 +25433,14 @@
       "onboard_time": 1770432380,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 82037,
+      "num": 82037,
+      "word": "多少人每天都在无效刷牙",
+      "onboard_time": 1770904162,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 82003,
@@ -26435,6 +26475,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 77809,
+      "num": 77809,
+      "word": "Selina说二胎顺其自然",
+      "onboard_time": 1770900860,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 77802,
       "num": 77802,
       "word": "王楚钦孙颖莎亚洲杯冲金",
@@ -26481,6 +26529,14 @@
       "onboard_time": 1770520578,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 77402,
+      "num": 77402,
+      "word": "桃黑黑语音包",
+      "onboard_time": 1770898881,
+      "rank": 43,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 77325,
@@ -26995,14 +27051,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 74820,
-      "num": 74820,
-      "word": "Selina说二胎顺其自然",
-      "onboard_time": 1770900860,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 74749,
       "num": 74749,
       "word": "意大利女选手抱娃采访被狂叫妈妈",
@@ -27435,12 +27483,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 72052,
+      "num": 72052,
+      "word": "小米汽车逆袭登顶新能源榜首",
+      "onboard_time": 1770901881,
+      "rank": 46,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 71956,
       "num": 71956,
       "word": "毫无察觉的求婚",
       "onboard_time": 1770520218,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 71948,
+      "num": 71948,
+      "word": "72岁老母亲替离世儿女看乐山大佛",
+      "onboard_time": 1770902302,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 71851,
@@ -27465,14 +27529,6 @@
       "onboard_time": 1770483621,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 71746,
-      "num": 71746,
-      "word": "72岁老母亲替离世儿女看乐山大佛",
-      "onboard_time": 1770902302,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 71581,
@@ -28483,14 +28539,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 63487,
-      "num": 87937,
-      "word": "影石CEO回应年会送房",
-      "onboard_time": 1770900680,
-      "rank": 41,
-      "category": "民生新闻,互联网"
-    },
-    {
       "raw_hot": 63480,
       "num": 812438,
       "word": "把春运检修拍成了科幻电影",
@@ -29337,6 +29385,14 @@
       "onboard_time": 1770873259,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 55874,
+      "num": 621699,
+      "word": "我家的C位年货",
+      "onboard_time": 1770902599,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 55843,
@@ -30593,6 +30649,14 @@
       "onboard_time": 1770631462,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 44876,
+      "num": 143609,
+      "word": "武大靖解析男子1000米分组",
+      "onboard_time": 1770903921,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 44840,
@@ -35577,14 +35641,6 @@
       "onboard_time": 1770694821,
       "rank": 35,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 7046,
-      "num": 601511,
-      "word": "我家的C位年货",
-      "onboard_time": 1770902599,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 7005,

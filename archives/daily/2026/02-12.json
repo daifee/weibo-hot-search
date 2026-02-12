@@ -1,6 +1,6 @@
 {
   "startTime": 1770826438780,
-  "endTime": 1770902669604,
+  "endTime": 1770904280479,
   "band_list": [
     {
       "raw_hot": 1793500,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1094312,
-      "num": 136017,
+      "num": 141605,
       "word": "吃烤全羊发现大量粪便店家赔偿1500",
       "onboard_time": 1770898580,
       "rank": 20,
@@ -83,12 +83,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 733676,
+      "num": 804592,
+      "word": "成何体统",
+      "onboard_time": 1770804499,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 716154,
       "num": 1114584,
       "word": "王莉霞严重违纪违法被双开",
       "onboard_time": 1770876799,
       "rank": 7,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 702108,
+      "num": 1112337,
+      "word": "坏果太多胖东来下架全部智利车厘子",
+      "onboard_time": 1770899721,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 683837,
@@ -131,14 +147,6 @@
       "category": "民生新闻,体育"
     },
     {
-      "raw_hot": 628311,
-      "num": 789757,
-      "word": "成何体统",
-      "onboard_time": 1770804499,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 611776,
       "num": 241925,
       "word": "男子性侵前妻闺蜜被判10年8个月",
@@ -168,14 +176,6 @@
       "word": "12306新增低人一等座提醒",
       "onboard_time": 1770880759,
       "rank": 11,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 574249,
-      "num": 1091879,
-      "word": "坏果太多胖东来下架全部智利车厘子",
-      "onboard_time": 1770899721,
-      "rank": 0,
       "category": "民生新闻"
     },
     {
@@ -241,6 +241,14 @@
       "onboard_time": 1770884421,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 478629,
+      "num": 478629,
+      "word": "今年为啥没有年三十",
+      "onboard_time": 1770898041,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 477357,
@@ -315,14 +323,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 434805,
-      "num": 434805,
-      "word": "今年为啥没有年三十",
-      "onboard_time": 1770898041,
-      "rank": 3,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 430624,
       "num": 1066723,
       "word": "2025年全国结婚登记676.3万对",
@@ -345,6 +345,14 @@
       "onboard_time": 1770892639,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 411262,
+      "num": 156891,
+      "word": "36岁何穗状态",
+      "onboard_time": 1770901641,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 410506,
@@ -403,20 +411,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 389848,
+      "num": 389848,
+      "word": "蔡徐坤回复无畏",
+      "onboard_time": 1770899660,
+      "rank": 13,
+      "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 384597,
+      "num": 384597,
+      "word": "爸爸被劝酒女儿站身后霸气挡酒",
+      "onboard_time": 1770898702,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 375467,
       "num": 191993,
       "word": "井柏然就这样静静等着刘雯",
       "onboard_time": 1770871461,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 368292,
-      "num": 146059,
-      "word": "蔡徐坤回复无畏",
-      "onboard_time": 1770899660,
-      "rank": 13,
-      "category": "艺人,游戏"
     },
     {
       "raw_hot": 367154,
@@ -457,6 +473,14 @@
       "onboard_time": 1770809540,
       "rank": 20,
       "category": "演出"
+    },
+    {
+      "raw_hot": 324080,
+      "num": 155909,
+      "word": "宋亚轩 没有任何击杀但是MVP",
+      "onboard_time": 1770899240,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 322376,
@@ -699,14 +723,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 250500,
-      "num": 140385,
-      "word": "宋亚轩 没有任何击杀但是MVP",
-      "onboard_time": 1770899240,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 249679,
       "num": 176209,
       "word": "马斯克感慨Seedance2.0发展快",
@@ -731,20 +747,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 239913,
+      "num": 153649,
+      "word": "生命树今晚自爆两狼",
+      "onboard_time": 1770899601,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 237115,
       "num": 681604,
       "word": "湖南卫视春晚",
       "onboard_time": 1770808699,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 235657,
-      "num": 235657,
-      "word": "爸爸被劝酒女儿站身后霸气挡酒",
-      "onboard_time": 1770898702,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 233504,
@@ -857,14 +873,6 @@
       "onboard_time": 1770865280,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 204993,
-      "num": 138238,
-      "word": "36岁何穗状态",
-      "onboard_time": 1770901641,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 204723,
@@ -1060,7 +1068,7 @@
     },
     {
       "raw_hot": 161723,
-      "num": 134260,
+      "num": 144658,
       "word": "左航嗓子哑了",
       "onboard_time": 1770899060,
       "rank": 22,
@@ -1097,14 +1105,6 @@
       "onboard_time": 1770819743,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 152997,
-      "num": 152997,
-      "word": "生命树今晚自爆两狼",
-      "onboard_time": 1770899601,
-      "rank": 9,
-      "category": "剧集"
     },
     {
       "raw_hot": 152718,
@@ -1168,6 +1168,14 @@
       "word": "王广又闯祸了",
       "onboard_time": 1770864320,
       "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 147450,
+      "num": 131499,
+      "word": "杨幂白色高筒袜",
+      "onboard_time": 1770901940,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -1281,14 +1289,6 @@
       "onboard_time": 1770877821,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 133057,
-      "num": 106929,
-      "word": "杨幂白色高筒袜",
-      "onboard_time": 1770901940,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 131731,
@@ -1419,6 +1419,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 115304,
+      "num": 115304,
+      "word": "生命树集体沉默的60秒",
+      "onboard_time": 1770900382,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 114495,
       "num": 97020,
       "word": "宋雨琦程潇看秀生图",
@@ -1475,6 +1483,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 108278,
+      "num": 103321,
+      "word": "曝陈哲远每年让员工带薪出国旅游",
+      "onboard_time": 1770894739,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 107767,
       "num": 104534,
       "word": "曝惊蛰无声发行方强制影院排片",
@@ -1515,14 +1531,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 103131,
-      "num": 103131,
-      "word": "曝陈哲远每年让员工带薪出国旅游",
-      "onboard_time": 1770894739,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 103039,
       "num": 103039,
       "word": "TF四代新歌川渝春晚首秀",
@@ -1553,6 +1561,14 @@
       "onboard_time": 1770892461,
       "rank": 35,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 101732,
+      "num": 101732,
+      "word": "肥猫郑则仕减重70斤感谢周润发",
+      "onboard_time": 1770902722,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 101354,
@@ -1779,14 +1795,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 90055,
-      "num": 90055,
-      "word": "生命树集体沉默的60秒",
-      "onboard_time": 1770900382,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 89835,
       "num": 106114,
       "word": "4岁假肢女孩穿满钻假肢走秀",
@@ -1915,6 +1923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 84828,
+      "num": 82172,
+      "word": "刘耀文 真正想赢的人是没有表情的",
+      "onboard_time": 1770903921,
+      "rank": 38,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 84418,
       "num": 110326,
       "word": "千问说买得开心过两天见",
@@ -1947,6 +1963,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 83447,
+      "num": 95621,
+      "word": "影石CEO回应年会送房",
+      "onboard_time": 1770900680,
+      "rank": 41,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 82692,
       "num": 82692,
       "word": "女子一针玻尿酸竟把眼睛打斜了",
@@ -1969,6 +1993,22 @@
       "onboard_time": 1770860659,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 82214,
+      "num": 82214,
+      "word": "倒模自己的耳朵当手机壳",
+      "onboard_time": 1770902779,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 82037,
+      "num": 82037,
+      "word": "多少人每天都在无效刷牙",
+      "onboard_time": 1770904162,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 81277,
@@ -2051,6 +2091,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 77809,
+      "num": 77809,
+      "word": "Selina说二胎顺其自然",
+      "onboard_time": 1770900860,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 77402,
+      "num": 77402,
+      "word": "桃黑黑语音包",
+      "onboard_time": 1770898881,
+      "rank": 43,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 77275,
       "num": 77275,
       "word": "黄晓明 时代少年团永远在一起",
@@ -2097,14 +2153,6 @@
       "onboard_time": 1770899721,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 74820,
-      "num": 74820,
-      "word": "Selina说二胎顺其自然",
-      "onboard_time": 1770900860,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 74624,
@@ -2179,8 +2227,16 @@
       "category": "财经"
     },
     {
-      "raw_hot": 71746,
-      "num": 71746,
+      "raw_hot": 72052,
+      "num": 72052,
+      "word": "小米汽车逆袭登顶新能源榜首",
+      "onboard_time": 1770901881,
+      "rank": 46,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 71948,
+      "num": 71948,
       "word": "72岁老母亲替离世儿女看乐山大佛",
       "onboard_time": 1770902302,
       "rank": 48,
@@ -2299,14 +2355,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 63487,
-      "num": 87937,
-      "word": "影石CEO回应年会送房",
-      "onboard_time": 1770900680,
-      "rank": 41,
-      "category": "民生新闻,互联网"
-    },
-    {
       "raw_hot": 62897,
       "num": 62897,
       "word": "王艳儿子球球回应是否进演艺圈",
@@ -2369,6 +2417,14 @@
       "onboard_time": 1770873259,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 55874,
+      "num": 621699,
+      "word": "我家的C位年货",
+      "onboard_time": 1770902599,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 55407,
@@ -2472,6 +2528,14 @@
       "word": "宁忠岩成绩在北奥能拿金牌",
       "onboard_time": 1770852438,
       "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 44876,
+      "num": 143609,
+      "word": "武大靖解析男子1000米分组",
+      "onboard_time": 1770903921,
+      "rank": 19,
       "category": "体育"
     },
     {
@@ -2992,14 +3056,6 @@
       "word": "过年回家路上后备箱两只鸭子一路互殴",
       "onboard_time": 1770890900,
       "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 7046,
-      "num": 601511,
-      "word": "我家的C位年货",
-      "onboard_time": 1770902599,
-      "rank": 2,
       "category": "民生新闻"
     },
     {

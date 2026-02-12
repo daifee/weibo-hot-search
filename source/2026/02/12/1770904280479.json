@@ -1,0 +1,410 @@
+{
+  "runTime": 1770904280479,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 702108,
+        "num": 1112337,
+        "word": "坏果太多胖东来下架全部智利车厘子",
+        "onboard_time": 1770899721,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 733676,
+        "num": 804592,
+        "word": "成何体统",
+        "onboard_time": 1770891259,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 55874,
+        "num": 621699,
+        "word": "我家的C位年货",
+        "onboard_time": 1770902599,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 478629,
+        "num": 478629,
+        "word": "今年为啥没有年三十",
+        "onboard_time": 1770898041,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 389848,
+        "num": 389848,
+        "word": "蔡徐坤回复无畏",
+        "onboard_time": 1770899660,
+        "rank": 4,
+        "category": "音乐,游戏"
+      },
+      {
+        "raw_hot": 384597,
+        "num": 384597,
+        "word": "爸爸被劝酒女儿站身后霸气挡酒",
+        "onboard_time": 1770898702,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 285438,
+        "num": 285438,
+        "word": "第一次看到一箱草莓毫无食欲",
+        "onboard_time": 1770887600,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 179605,
+        "num": 179605,
+        "word": "车厘子卖家赌涨价压货",
+        "onboard_time": 1770887359,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162983,
+        "num": 162983,
+        "word": "谷爱凌不是输给第一名的第二名",
+        "onboard_time": 1770883161,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159215,
+        "num": 159215,
+        "word": "纸质文件",
+        "onboard_time": 1770896239,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 793141,
+        "num": 158604,
+        "word": "张馨予 你很有钱是吗",
+        "onboard_time": 1770881719,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 457948,
+        "num": 158234,
+        "word": "王者荣耀马年全明星表演赛",
+        "onboard_time": 1770891981,
+        "rank": 11,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 411262,
+        "num": 156891,
+        "word": "36岁何穗状态",
+        "onboard_time": 1770901641,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 324080,
+        "num": 155909,
+        "word": "宋亚轩 没有任何击杀但是MVP",
+        "onboard_time": 1770899240,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225460,
+        "num": 155759,
+        "word": "母亲花6万为智力残障儿子娶外籍妻子",
+        "onboard_time": 1770896420,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 303236,
+        "num": 154438,
+        "word": "蒋欣 当年真的错怪你了",
+        "onboard_time": 1770880820,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239913,
+        "num": 153649,
+        "word": "生命树今晚自爆两狼",
+        "onboard_time": 1770899601,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153272,
+        "num": 153272,
+        "word": "第一批回村的人已经出片了",
+        "onboard_time": 1770888140,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144658,
+        "num": 144658,
+        "word": "左航嗓子哑了",
+        "onboard_time": 1770899060,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44876,
+        "num": 143609,
+        "word": "武大靖解析男子1000米分组",
+        "onboard_time": 1770903921,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 917242,
+        "num": 141605,
+        "word": "吃烤全羊发现大量粪便店家赔偿1500",
+        "onboard_time": 1770898580,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 360568,
+        "num": 138701,
+        "word": "男子就医喊饿竟是全身血液已近流干",
+        "onboard_time": 1770897201,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 292999,
+        "num": 136467,
+        "word": "姐姐被藏尸位置就在弟弟店铺正上方",
+        "onboard_time": 1770870440,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155209,
+        "num": 133886,
+        "word": "年少有为",
+        "onboard_time": 1770893902,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147450,
+        "num": 131499,
+        "word": "杨幂白色高筒袜",
+        "onboard_time": 1770901940,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129102,
+        "num": 129102,
+        "word": "叫爷爷没反应孙子下意识反应太可爱",
+        "onboard_time": 1770898640,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 115304,
+        "num": 115304,
+        "word": "生命树集体沉默的60秒",
+        "onboard_time": 1770900382,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112564,
+        "num": 112564,
+        "word": "张凌赫粉丝爬半天山拍了三遍林允",
+        "onboard_time": 1770893719,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104591,
+        "num": 104591,
+        "word": "男子性侵前妻闺蜜被判10年8个月",
+        "onboard_time": 1770885380,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118668,
+        "num": 103848,
+        "word": "杨幂校花学姐",
+        "onboard_time": 1770890959,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108278,
+        "num": 103321,
+        "word": "曝陈哲远每年让员工带薪出国旅游",
+        "onboard_time": 1770894739,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83602,
+        "num": 102476,
+        "word": "30岁男子没买车父母不愿出门拜年",
+        "onboard_time": 1770894443,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102416,
+        "num": 102416,
+        "word": "迪丽热巴棉花娃娃都会跳舞了",
+        "onboard_time": 1770900860,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101732,
+        "num": 101732,
+        "word": "肥猫郑则仕减重70斤感谢周润发",
+        "onboard_time": 1770902722,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83447,
+        "num": 95621,
+        "word": "影石CEO回应年会送房",
+        "onboard_time": 1770900680,
+        "rank": 34,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 94510,
+        "num": 94510,
+        "word": "摄影师曝檀健次拍摄几乎一条过",
+        "onboard_time": 1770901281,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90629,
+        "num": 90629,
+        "word": "时代少年团跳大绳",
+        "onboard_time": 1770896480,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82214,
+        "num": 82214,
+        "word": "倒模自己的耳朵当手机壳",
+        "onboard_time": 1770902779,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 84828,
+        "num": 82172,
+        "word": "刘耀文 真正想赢的人是没有表情的",
+        "onboard_time": 1770903921,
+        "rank": 38,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 82037,
+        "num": 82037,
+        "word": "多少人每天都在无效刷牙",
+        "onboard_time": 1770904162,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 78482,
+        "num": 78482,
+        "word": "曝惊蛰无声发行方强制影院排片",
+        "onboard_time": 1770896900,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 77809,
+        "num": 77809,
+        "word": "Selina说二胎顺其自然",
+        "onboard_time": 1770900860,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77680,
+        "num": 77680,
+        "word": "孙颖莎头像挂件换成了皇冠",
+        "onboard_time": 1770889041,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77402,
+        "num": 77402,
+        "word": "桃黑黑语音包",
+        "onboard_time": 1770898881,
+        "rank": 43,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 76946,
+        "num": 76946,
+        "word": "肖战宝诗龙巨幅地广墙",
+        "onboard_time": 1770896660,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76611,
+        "num": 76611,
+        "word": "小伙3万彩礼3万首饰娶埃及姑娘",
+        "onboard_time": 1770894680,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72052,
+        "num": 72052,
+        "word": "小米汽车逆袭登顶新能源榜首",
+        "onboard_time": 1770901881,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 71948,
+        "num": 71948,
+        "word": "72岁老母亲替离世儿女看乐山大佛",
+        "onboard_time": 1770902302,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71059,
+        "num": 71059,
+        "word": "俱乐部称已与樊振东沟通过续约",
+        "onboard_time": 1770902419,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 68603,
+        "num": 68603,
+        "word": "庾晚音 北京是个小县城",
+        "onboard_time": 1770895520,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记同我们共赶新春市集#"
+    }
+  }
+}
