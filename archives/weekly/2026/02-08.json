@@ -1,6 +1,6 @@
 {
   "startTime": 1770482461321,
-  "endTime": 1770854066550,
+  "endTime": 1770864528680,
   "band_list": [
     {
       "raw_hot": 7279878,
@@ -291,12 +291,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 962382,
+      "num": 233285,
+      "word": "李一桐高情商公关",
+      "onboard_time": 1770862700,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 955108,
       "num": 1152817,
       "word": "男子短道速滑1000米预赛",
       "onboard_time": 1770717980,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 954154,
+      "num": 210008,
+      "word": "李一桐发了49999的红包",
+      "onboard_time": 1770855020,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 952694,
@@ -692,7 +708,7 @@
     },
     {
       "raw_hot": 674444,
-      "num": 197230,
+      "num": 298172,
       "word": "生小孩需要一个发达的前额叶",
       "onboard_time": 1770851356,
       "rank": 5,
@@ -761,6 +777,14 @@
       "onboard_time": 1770545960,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 639273,
+      "num": 1102283,
+      "word": "体操运动员坠楼涉事教练被立案调查",
+      "onboard_time": 1770860300,
+      "rank": 0,
+      "category": "民生新闻,体育"
     },
     {
       "raw_hot": 635894,
@@ -1235,6 +1259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 477357,
+      "num": 802557,
+      "word": "两名小孩扔爆竹致1200年古树起火",
+      "onboard_time": 1770860600,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 474918,
       "num": 161267,
       "word": "订婚强奸案女方身上淤青清清楚楚",
@@ -1355,6 +1387,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 452622,
+      "num": 169810,
+      "word": "游乐王子的女儿感染合胞病毒",
+      "onboard_time": 1770854540,
+      "rank": 20,
+      "category": "艺人,健康医疗"
+    },
+    {
       "raw_hot": 451123,
       "num": 350507,
       "word": "何老师嗓子哑了",
@@ -1377,6 +1417,14 @@
       "onboard_time": 1770527119,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 446069,
+      "num": 446069,
+      "word": "12家第三方火车票网售平台被约谈",
+      "onboard_time": 1770860540,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 441901,
@@ -1632,6 +1680,14 @@
       "word": "外国游客被长白山百万皇冠整破防了",
       "onboard_time": 1770689539,
       "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 404819,
+      "num": 228041,
+      "word": "男子称亲吻搂抱女子说不算恋爱",
+      "onboard_time": 1770862399,
+      "rank": 11,
       "category": "民生新闻"
     },
     {
@@ -2059,6 +2115,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 353094,
+      "num": 353094,
+      "word": "玫瑰丛生定档",
+      "onboard_time": 1770863059,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 353073,
       "num": 159921,
       "word": "何与忍住",
@@ -2275,6 +2339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 322376,
+      "num": 322376,
+      "word": "开始推理吧 接原班人马",
+      "onboard_time": 1770858920,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 321722,
       "num": 241812,
       "word": "巨火但很反感的梗",
@@ -2457,6 +2529,14 @@
       "onboard_time": 1770477322,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 306228,
+      "num": 226323,
+      "word": "宋旻浩或将被判刑",
+      "onboard_time": 1770860239,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 305879,
@@ -2867,6 +2947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 265033,
+      "num": 265033,
+      "word": "微博红包",
+      "onboard_time": 1770863898,
+      "rank": 7,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 264544,
       "num": 190772,
       "word": "王楚钦在训练场围观女单决赛",
@@ -2880,6 +2968,14 @@
       "word": "竟然陪时代峰峻闹了这么久了",
       "onboard_time": 1770799222,
       "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 262108,
+      "num": 220290,
+      "word": "巴黎是杨超越家",
+      "onboard_time": 1770856941,
+      "rank": 13,
       "category": "艺人"
     },
     {
@@ -2913,6 +3009,14 @@
       "onboard_time": 1770645922,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 257710,
+      "num": 207310,
+      "word": "黄金白银直线下跌",
+      "onboard_time": 1770856161,
+      "rank": 15,
+      "category": "财经"
     },
     {
       "raw_hot": 257562,
@@ -2977,6 +3081,14 @@
       "onboard_time": 1770558202,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 254859,
+      "num": 199755,
+      "word": "ZB1将以五人组活动",
+      "onboard_time": 1770859999,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 254557,
@@ -3113,6 +3225,14 @@
       "onboard_time": 1770610460,
       "rank": 26,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 244774,
+      "num": 244774,
+      "word": "阚清子演技",
+      "onboard_time": 1770860360,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 243975,
@@ -3692,7 +3812,7 @@
     },
     {
       "raw_hot": 211109,
-      "num": 74874,
+      "num": 105805,
       "word": "男子出轨公婆照料婚外幼童刺痛女子",
       "onboard_time": 1770851418,
       "rank": 22,
@@ -3939,6 +4059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 196814,
+      "num": 196814,
+      "word": "周深忘词 天花板没有提词器",
+      "onboard_time": 1770856041,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 196542,
       "num": 196542,
       "word": "中国队又添一枚奖牌",
@@ -4163,6 +4291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 184552,
+      "num": 176850,
+      "word": "德云社陶阳结婚",
+      "onboard_time": 1770858199,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 184304,
       "num": 238176,
       "word": "唐宫奇案第10集32分40秒",
@@ -4209,6 +4345,14 @@
       "onboard_time": 1770851418,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 179474,
+      "num": 179474,
+      "word": "换头像就是换人设了",
+      "onboard_time": 1770856639,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 178965,
@@ -4411,6 +4555,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 167960,
+      "num": 241705,
+      "word": "春节中国赴日旅客量腰斩了",
+      "onboard_time": 1770861260,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 166970,
       "num": 146503,
       "word": "蒲熠星突然发现单条微博不能超2000字",
@@ -4497,6 +4649,14 @@
       "onboard_time": 1770719420,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 161612,
+      "num": 161612,
+      "word": "爱泼斯坦死后遗体被秘密转移",
+      "onboard_time": 1770860960,
+      "rank": 21,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 160928,
@@ -4825,6 +4985,14 @@
       "onboard_time": 1770605300,
       "rank": 9,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 148512,
+      "num": 148512,
+      "word": "林孝埈刘少昂孙龙出战1000米",
+      "onboard_time": 1770855680,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 148435,
@@ -5291,6 +5459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 135694,
+      "num": 135694,
+      "word": "iPhone安卓无缝换机",
+      "onboard_time": 1770858499,
+      "rank": 24,
+      "category": "数码"
+    },
+    {
       "raw_hot": 135634,
       "num": 160941,
       "word": "女硕士当礼品规划师月入20万",
@@ -5321,6 +5497,14 @@
       "onboard_time": 1770778640,
       "rank": 27,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 134747,
+      "num": 98675,
+      "word": "哥哥安抚腮腺炎弟弟得知传染秒变脸",
+      "onboard_time": 1770864499,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 133927,
@@ -5849,6 +6033,14 @@
       "onboard_time": 1770630980,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 118528,
+      "num": 118528,
+      "word": "28岁华人女孩遭前男友枪杀",
+      "onboard_time": 1770855620,
+      "rank": 25,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 118428,
@@ -6387,6 +6579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 109717,
+      "num": 109717,
+      "word": "韩国股民疯抢中国大模型龙头",
+      "onboard_time": 1770863898,
+      "rank": 26,
+      "category": "财经"
+    },
+    {
       "raw_hot": 109681,
       "num": 109681,
       "word": "不会包饺子的建议反复观看",
@@ -6651,6 +6851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 107597,
+      "num": 107597,
+      "word": "郑嘉颖越说越快越说越气越说越疯",
+      "onboard_time": 1770856340,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 107557,
       "num": 103990,
       "word": "QQ音乐巅峰榜将退款误购套餐",
@@ -6809,6 +7017,14 @@
       "onboard_time": 1770718280,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 104554,
+      "num": 98430,
+      "word": "沈梦辰体态",
+      "onboard_time": 1770864140,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 104550,
@@ -7331,6 +7547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 98682,
+      "num": 98682,
+      "word": "国际雪联阴阳谷爱凌后道歉",
+      "onboard_time": 1770863960,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 98661,
       "num": 98661,
       "word": "九尾四连胜后的自拍",
@@ -7392,6 +7616,14 @@
       "word": "许凯魏哲鸣新剧阴湿诡味好重",
       "onboard_time": 1770538400,
       "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 98021,
+      "num": 98021,
+      "word": "两京十五日杀青",
+      "onboard_time": 1770864379,
+      "rank": 32,
       "category": "剧集"
     },
     {
@@ -8347,6 +8579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 87708,
+      "num": 87708,
+      "word": "点外卖点到僵尸店当事女子发声",
+      "onboard_time": 1770857241,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87698,
       "num": 87698,
       "word": "雷霆战胜湖人",
@@ -8409,6 +8649,22 @@
       "onboard_time": 1770547760,
       "rank": 39,
       "category": "财经"
+    },
+    {
+      "raw_hot": 87369,
+      "num": 87369,
+      "word": "当狗狗发现挠它的人不认识时",
+      "onboard_time": 1770858318,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 86987,
+      "num": 86987,
+      "word": "美国反对特朗普",
+      "onboard_time": 1770859399,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 86981,
@@ -8851,6 +9107,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 82342,
+      "num": 82342,
+      "word": "丞磊 上位者",
+      "onboard_time": 1770860659,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 82334,
       "num": 82334,
       "word": "婚礼排练的时候没人拦一下吗",
@@ -9283,6 +9547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 78273,
+      "num": 78273,
+      "word": "女子一针玻尿酸竟把眼睛打斜了",
+      "onboard_time": 1770863960,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 78232,
       "num": 81741,
       "word": "鲁迅从百草园杀到三味书屋",
@@ -9313,6 +9585,14 @@
       "onboard_time": 1770848715,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 77931,
+      "num": 77931,
+      "word": "切除子宫的她们",
+      "onboard_time": 1770853518,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 77927,
@@ -9385,6 +9665,14 @@
       "onboard_time": 1770602900,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 77275,
+      "num": 77275,
+      "word": "黄晓明 时代少年团永远在一起",
+      "onboard_time": 1770859340,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 77222,
@@ -9505,6 +9793,14 @@
       "onboard_time": 1770712520,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 76029,
+      "num": 76029,
+      "word": "廉子文向对手致歉反遭挥打",
+      "onboard_time": 1770862099,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 75955,
@@ -9811,6 +10107,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 71017,
+      "num": 71017,
+      "word": "王楚然有效播剧",
+      "onboard_time": 1770864440,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 70823,
       "num": 70823,
       "word": "摔倒后妈妈让谷爱凌喝点咖啡醒醒",
@@ -9857,6 +10161,14 @@
       "onboard_time": 1770535400,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 69966,
+      "num": 69966,
+      "word": "王广又闯祸了",
+      "onboard_time": 1770864320,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 69719,
@@ -9963,6 +10275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 68065,
+      "num": 68065,
+      "word": "iPhoneFold或引爆大折叠市场",
+      "onboard_time": 1770863301,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
       "raw_hot": 68038,
       "num": 112973,
       "word": "国台办回应立陶宛涉台言论",
@@ -10017,6 +10337,14 @@
       "onboard_time": 1770603622,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 66976,
+      "num": 66976,
+      "word": "完全可以上春晚的程度",
+      "onboard_time": 1770860300,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 66974,
@@ -10561,14 +10889,6 @@
       "onboard_time": 1770681619,
       "rank": 41,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 55851,
-      "num": 55851,
-      "word": "切除子宫的她们",
-      "onboard_time": 1770853518,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 55042,
