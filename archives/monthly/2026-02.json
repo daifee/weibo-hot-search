@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1770932549913,
+  "endTime": 1770933551400,
   "band_list": [
     {
       "raw_hot": 12386962,
@@ -31595,6 +31595,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 41405,
+      "num": 41405,
+      "word": "心疼范可新",
+      "onboard_time": 1770929594,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 41402,
       "num": 220043,
       "word": "王楚钦11比6周启豪",
@@ -31905,14 +31913,6 @@
       "onboard_time": 1770620840,
       "rank": 29,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 38974,
-      "num": 38974,
-      "word": "心疼范可新",
-      "onboard_time": 1770929594,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 38853,
@@ -32291,12 +32291,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 36016,
+      "num": 26743,
+      "word": "任子威说女子500米成绩夸张",
+      "onboard_time": 1770932894,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 36011,
       "num": 89804,
       "word": "吃鸡基础搭子就不基础",
       "onboard_time": 1769920279,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 36001,
+      "num": 26492,
+      "word": "孙龙激动落泪",
+      "onboard_time": 1770932715,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 35807,
@@ -34483,6 +34499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 22010,
+      "num": 22215,
+      "word": "太平年看哭了",
+      "onboard_time": 1770918855,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 21977,
       "num": 96470,
       "word": "业内谈Seedance2.0有多恐怖",
@@ -34513,14 +34537,6 @@
       "onboard_time": 1770745576,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 21784,
-      "num": 22215,
-      "word": "太平年看哭了",
-      "onboard_time": 1770918855,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 21779,
@@ -35083,6 +35099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 18590,
+      "num": 18590,
+      "word": "任子威说计划赶不上变化",
+      "onboard_time": 1770933195,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 18563,
       "num": 639251,
       "word": "中国健儿蓝白红配色冰雪感拉满",
@@ -35161,6 +35185,14 @@
       "onboard_time": 1770102021,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18120,
+      "num": 18120,
+      "word": "任子威像预言家",
+      "onboard_time": 1770933195,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 18111,

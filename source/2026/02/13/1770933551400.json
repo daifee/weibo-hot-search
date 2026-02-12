@@ -1,0 +1,410 @@
+{
+  "runTime": 1770933551400,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 314294,
+        "num": 314294,
+        "word": "孙龙",
+        "onboard_time": 1770931216,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213732,
+        "num": 213732,
+        "word": "孙龙银牌",
+        "onboard_time": 1770930674,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13339,
+        "num": 165927,
+        "word": "我家的C位年货",
+        "onboard_time": 1770902599,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128347,
+        "num": 128347,
+        "word": "任子威 黄大宪成功淘汰",
+        "onboard_time": 1770925573,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123465,
+        "num": 123465,
+        "word": "林孝埈无缘男子1000米半决赛",
+        "onboard_time": 1770926235,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 78624,
+        "num": 78624,
+        "word": "短道速滑",
+        "onboard_time": 1770925573,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 72862,
+        "num": 72862,
+        "word": "Deepseek被指变冷淡了",
+        "onboard_time": 1770907522,
+        "rank": 6,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 71192,
+        "num": 71192,
+        "word": "刘少昂1000米无缘决赛",
+        "onboard_time": 1770927735,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 59486,
+        "num": 59486,
+        "word": "22岁主播每天焊妆两次确诊肺炎",
+        "onboard_time": 1770906560,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47136,
+        "num": 47136,
+        "word": "刘少昂好稳",
+        "onboard_time": 1770925814,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84246,
+        "num": 46620,
+        "word": "虞书欣衣帽间",
+        "onboard_time": 1770920055,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53911,
+        "num": 46394,
+        "word": "10岁女生校内晕倒称遭多名男生殴打",
+        "onboard_time": 1770914358,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46085,
+        "num": 46085,
+        "word": "冬奥短道速滑男子1000米",
+        "onboard_time": 1770925334,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 41405,
+        "num": 41405,
+        "word": "心疼范可新",
+        "onboard_time": 1770929594,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 45015,
+        "num": 41395,
+        "word": "冬奥短道速滑女子500米",
+        "onboard_time": 1770925334,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 41339,
+        "num": 41339,
+        "word": "律师解读杨幂新增60件告黑案",
+        "onboard_time": 1770913040,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38057,
+        "num": 38057,
+        "word": "孙龙短道1000米银牌",
+        "onboard_time": 1770930674,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 37008,
+        "num": 37008,
+        "word": "孙龙进1000米半决赛",
+        "onboard_time": 1770925814,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36340,
+        "num": 36340,
+        "word": "8岁小孩姐徒步117公里回老家",
+        "onboard_time": 1770913400,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33107,
+        "num": 33107,
+        "word": "丞磊在飞机上帮王楚然剔牙",
+        "onboard_time": 1770909261,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 77806,
+        "num": 32621,
+        "word": "男子就医喊饿竟是全身血液已近流干",
+        "onboard_time": 1770897201,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48873,
+        "num": 32264,
+        "word": "吃烤全羊发现大量粪便店家赔偿1500",
+        "onboard_time": 1770898580,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39463,
+        "num": 31896,
+        "word": "远洋船员持菜刀砍杀船长后分尸抛海",
+        "onboard_time": 1770911000,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31511,
+        "num": 31511,
+        "word": "六国联名反对欧盟加大对华限制",
+        "onboard_time": 1770906740,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 31336,
+        "num": 31336,
+        "word": "蒋欣 当年真的错怪你了",
+        "onboard_time": 1770880820,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30404,
+        "num": 30404,
+        "word": "坏果太多胖东来下架全部智利车厘子",
+        "onboard_time": 1770899721,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29299,
+        "num": 29299,
+        "word": "孙龙1000米进决赛",
+        "onboard_time": 1770927674,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28990,
+        "num": 28990,
+        "word": "微博之夜 台上顶流台下好友",
+        "onboard_time": 1770918016,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 27392,
+        "num": 27392,
+        "word": "母亲花6万为智力残障儿子娶外籍妻子",
+        "onboard_time": 1770896420,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27175,
+        "num": 27175,
+        "word": "崔佳恩 感情分",
+        "onboard_time": 1770927194,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36016,
+        "num": 26743,
+        "word": "任子威说女子500米成绩夸张",
+        "onboard_time": 1770932894,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36001,
+        "num": 26492,
+        "word": "孙龙激动落泪",
+        "onboard_time": 1770932715,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29148,
+        "num": 26400,
+        "word": "孙龙举起五星红旗",
+        "onboard_time": 1770932114,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26173,
+        "num": 26173,
+        "word": "王濛喊话中国短道要争气",
+        "onboard_time": 1770929594,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26172,
+        "num": 26172,
+        "word": "女子单板U池决赛",
+        "onboard_time": 1770921615,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26144,
+        "num": 26144,
+        "word": "肥猫郑则仕减重70斤感谢周润发",
+        "onboard_time": 1770902722,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25331,
+        "num": 25331,
+        "word": "中国冰壶女队7比4英国",
+        "onboard_time": 1770929894,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24931,
+        "num": 24931,
+        "word": "36岁何穗状态",
+        "onboard_time": 1770901641,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23985,
+        "num": 23985,
+        "word": "速度滑冰女子5000米",
+        "onboard_time": 1770911239,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23495,
+        "num": 23495,
+        "word": "连续五年都没有年三十",
+        "onboard_time": 1770910761,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23263,
+        "num": 23263,
+        "word": "虞书欣直播",
+        "onboard_time": 1770907400,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23141,
+        "num": 23141,
+        "word": "宋亚轩遇到了最懂他的刘耀文",
+        "onboard_time": 1770908540,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22319,
+        "num": 22319,
+        "word": "王者荣耀马年全明星表演赛",
+        "onboard_time": 1770891981,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 22010,
+        "num": 22010,
+        "word": "太平年看哭了",
+        "onboard_time": 1770918855,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20197,
+        "num": 20197,
+        "word": "王者荣耀超话爆了",
+        "onboard_time": 1770905181,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 18590,
+        "num": 18590,
+        "word": "任子威说计划赶不上变化",
+        "onboard_time": 1770933195,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18552,
+        "num": 18552,
+        "word": "唐宫奇案",
+        "onboard_time": 1770917297,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18447,
+        "num": 18447,
+        "word": "33岁男子开特斯拉跑货拉拉",
+        "onboard_time": 1770912979,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18120,
+        "num": 18120,
+        "word": "任子威像预言家",
+        "onboard_time": 1770933195,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17551,
+        "num": 18095,
+        "word": "贝尔塞伯短道500米金牌",
+        "onboard_time": 1770929714,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记同我们共赶新春市集#"
+    }
+  }
+}
