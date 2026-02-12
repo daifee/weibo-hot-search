@@ -1,6 +1,6 @@
 {
   "startTime": 1770826438780,
-  "endTime": 1770904280479,
+  "endTime": 1770908198967,
   "band_list": [
     {
       "raw_hot": 1793500,
@@ -227,6 +227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 518604,
+      "num": 1082976,
+      "word": "22岁主播每天焊妆两次确诊肺炎",
+      "onboard_time": 1770906560,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 499310,
       "num": 243932,
       "word": "孙颖莎ELLE 6个封面",
@@ -283,6 +291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 454497,
+      "num": 454497,
+      "word": "王者荣耀超话爆了",
+      "onboard_time": 1770905181,
+      "rank": 3,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 453260,
       "num": 155835,
       "word": "宋威龙晒被赵今麦扯开的领带",
@@ -321,6 +337,14 @@
       "onboard_time": 1770821361,
       "rank": 5,
       "category": "演出"
+    },
+    {
+      "raw_hot": 433820,
+      "num": 167356,
+      "word": "虞书欣直播",
+      "onboard_time": 1770907400,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 430624,
@@ -523,6 +547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 309798,
+      "num": 158602,
+      "word": "女子火车上熟睡8000元手机被偷",
+      "onboard_time": 1770905001,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 309089,
       "num": 101483,
       "word": "飞驰人生 全男班宣发",
@@ -569,6 +601,14 @@
       "onboard_time": 1770888140,
       "rank": 17,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 301281,
+      "num": 131499,
+      "word": "杨幂白色高筒袜",
+      "onboard_time": 1770901940,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 301249,
@@ -809,6 +849,14 @@
       "onboard_time": 1770895280,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 218255,
+      "num": 218255,
+      "word": "太平年大结局",
+      "onboard_time": 1770906441,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 216501,
@@ -1171,14 +1219,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 147450,
-      "num": 131499,
-      "word": "杨幂白色高筒袜",
-      "onboard_time": 1770901940,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 147384,
       "num": 208345,
       "word": "男子称外籍妻子失联后转走全部家当",
@@ -1225,6 +1265,14 @@
       "onboard_time": 1770869660,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 141842,
+      "num": 141842,
+      "word": "何与miumiu活动生图路透",
+      "onboard_time": 1770907281,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 141254,
@@ -1395,6 +1443,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 120355,
+      "num": 120355,
+      "word": "肥猫郑则仕减重70斤感谢周润发",
+      "onboard_time": 1770902722,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 119027,
       "num": 119027,
       "word": "立威廉 短剧应该只能用手机看吧",
@@ -1475,6 +1531,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 110823,
+      "num": 110823,
+      "word": "Deepseek被指变冷淡了",
+      "onboard_time": 1770907522,
+      "rank": 27,
+      "category": "互联网,民生新闻"
+    },
+    {
+      "raw_hot": 110040,
+      "num": 110040,
+      "word": "严浩翔贺峻霖抽到同一条红绳",
+      "onboard_time": 1770907281,
+      "rank": 29,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 109717,
       "num": 109717,
       "word": "韩国股民疯抢中国大模型龙头",
@@ -1531,6 +1603,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 104005,
+      "num": 104005,
+      "word": "六国联名反对欧盟加大对华限制",
+      "onboard_time": 1770906740,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 103215,
+      "num": 103215,
+      "word": "张元英BANGBANG直拍",
+      "onboard_time": 1770906382,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 103039,
       "num": 103039,
       "word": "TF四代新歌川渝春晚首秀",
@@ -1561,14 +1649,6 @@
       "onboard_time": 1770892461,
       "rank": 35,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 101732,
-      "num": 101732,
-      "word": "肥猫郑则仕减重70斤感谢周润发",
-      "onboard_time": 1770902722,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 101354,
@@ -1769,6 +1849,14 @@
       "onboard_time": 1770897500,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 92240,
+      "num": 106725,
+      "word": "王濛精准预判有新的纪录产生",
+      "onboard_time": 1770905181,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 91155,
@@ -2059,6 +2147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 79032,
+      "num": 79032,
+      "word": "花海SDG表演赛合体",
+      "onboard_time": 1770906981,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 78582,
       "num": 78582,
       "word": "香港女记者转型警队重案组总督察",
@@ -2121,6 +2217,14 @@
       "onboard_time": 1770895820,
       "rank": 18,
       "category": "游戏,数码"
+    },
+    {
+      "raw_hot": 76436,
+      "num": 621699,
+      "word": "我家的C位年货",
+      "onboard_time": 1770902599,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 76029,
@@ -2187,6 +2291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 73318,
+      "num": 73318,
+      "word": "男子天生患致命心脏病60年才发现",
+      "onboard_time": 1770906621,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 73039,
       "num": 98166,
       "word": "程潇沈月明日乐园杀青照",
@@ -2243,6 +2355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 71438,
+      "num": 73275,
+      "word": "医生谈过季车厘子",
+      "onboard_time": 1770907821,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 70938,
       "num": 70938,
       "word": "权志龙Chanel",
@@ -2256,6 +2376,14 @@
       "word": "肖战粉丝已经在合肥吃上了",
       "onboard_time": 1770818122,
       "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 70677,
+      "num": 70677,
+      "word": "白鹿我来试试这个新功能",
+      "onboard_time": 1770907881,
+      "rank": 49,
       "category": "艺人"
     },
     {
@@ -2419,14 +2547,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 55874,
-      "num": 621699,
-      "word": "我家的C位年货",
-      "onboard_time": 1770902599,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 55407,
       "num": 141744,
       "word": "整治AI生成鸡汤网文霸总爽剧",
@@ -2579,6 +2699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 43706,
+      "num": 73281,
+      "word": "有门诊接到儿童吃车厘子呕吐情况",
+      "onboard_time": 1770906560,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43637,
       "num": 100589,
       "word": "极氪8X启动车企首次环中国路测",
@@ -2697,6 +2825,14 @@
       "onboard_time": 1770892999,
       "rank": 2,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 36123,
+      "num": 105021,
+      "word": "小马打架被咬伤负气出逃跑上高架",
+      "onboard_time": 1770908061,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 34712,
@@ -2881,6 +3017,14 @@
       "onboard_time": 1770840193,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 20352,
+      "num": 124755,
+      "word": "12306回应绿皮车到底能不能开窗",
+      "onboard_time": 1770907821,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19149,

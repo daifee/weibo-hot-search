@@ -1,0 +1,410 @@
+{
+  "runTime": 1770908198967,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 518604,
+        "num": 1082976,
+        "word": "22岁主播每天焊妆两次确诊肺炎",
+        "onboard_time": 1770906560,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 521009,
+        "num": 764807,
+        "word": "成何体统",
+        "onboard_time": 1770891259,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76436,
+        "num": 609314,
+        "word": "我家的C位年货",
+        "onboard_time": 1770902599,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 454497,
+        "num": 454497,
+        "word": "王者荣耀超话爆了",
+        "onboard_time": 1770905181,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 438445,
+        "num": 438445,
+        "word": "坏果太多胖东来下架全部智利车厘子",
+        "onboard_time": 1770899721,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 319358,
+        "num": 319358,
+        "word": "爸爸被劝酒女儿站身后霸气挡酒",
+        "onboard_time": 1770898702,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228441,
+        "num": 228441,
+        "word": "第一次看到一箱草莓毫无食欲",
+        "onboard_time": 1770887600,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 218255,
+        "num": 218255,
+        "word": "太平年大结局",
+        "onboard_time": 1770906441,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182716,
+        "num": 182716,
+        "word": "今年为啥没有年三十",
+        "onboard_time": 1770898041,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167470,
+        "num": 167470,
+        "word": "车厘子卖家赌涨价压货",
+        "onboard_time": 1770887359,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 433820,
+        "num": 167356,
+        "word": "虞书欣直播",
+        "onboard_time": 1770907400,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 358549,
+        "num": 161894,
+        "word": "蒋欣 当年真的错怪你了",
+        "onboard_time": 1770880820,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 309798,
+        "num": 158602,
+        "word": "女子火车上熟睡8000元手机被偷",
+        "onboard_time": 1770905001,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 350653,
+        "num": 154747,
+        "word": "36岁何穗状态",
+        "onboard_time": 1770901641,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287944,
+        "num": 150588,
+        "word": "王者荣耀马年全明星表演赛",
+        "onboard_time": 1770891981,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 177463,
+        "num": 146568,
+        "word": "宋亚轩 没有任何击杀但是MVP",
+        "onboard_time": 1770899240,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174980,
+        "num": 144426,
+        "word": "母亲花6万为智力残障儿子娶外籍妻子",
+        "onboard_time": 1770896420,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141842,
+        "num": 141842,
+        "word": "何与miumiu活动生图路透",
+        "onboard_time": 1770907281,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137849,
+        "num": 137849,
+        "word": "第一批回村的人已经出片了",
+        "onboard_time": 1770888140,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 126881,
+        "num": 126881,
+        "word": "生命树今晚自爆两狼",
+        "onboard_time": 1770899601,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 656155,
+        "num": 125905,
+        "word": "吃烤全羊发现大量粪便店家赔偿1500",
+        "onboard_time": 1770898580,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20352,
+        "num": 124755,
+        "word": "12306回应绿皮车到底能不能开窗",
+        "onboard_time": 1770907821,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 303344,
+        "num": 123737,
+        "word": "男子就医喊饿竟是全身血液已近流干",
+        "onboard_time": 1770897201,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 301281,
+        "num": 122935,
+        "word": "杨幂白色高筒袜",
+        "onboard_time": 1770901940,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263814,
+        "num": 121744,
+        "word": "姐姐被藏尸位置就在弟弟店铺正上方",
+        "onboard_time": 1770870440,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209893,
+        "num": 121293,
+        "word": "蔡徐坤回复无畏",
+        "onboard_time": 1770899660,
+        "rank": 25,
+        "category": "音乐,游戏"
+      },
+      {
+        "raw_hot": 120355,
+        "num": 120355,
+        "word": "肥猫郑则仕减重70斤感谢周润发",
+        "onboard_time": 1770902722,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110823,
+        "num": 110823,
+        "word": "Deepseek被指变冷淡了",
+        "onboard_time": 1770907522,
+        "rank": 27,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 119428,
+        "num": 110812,
+        "word": "年少有为",
+        "onboard_time": 1770893902,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110040,
+        "num": 110040,
+        "word": "严浩翔贺峻霖抽到同一条红绳",
+        "onboard_time": 1770907281,
+        "rank": 29,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 92240,
+        "num": 106725,
+        "word": "王濛精准预判有新的纪录产生",
+        "onboard_time": 1770905181,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36123,
+        "num": 105021,
+        "word": "小马打架被咬伤负气出逃跑上高架",
+        "onboard_time": 1770908061,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104005,
+        "num": 104005,
+        "word": "六国联名反对欧盟加大对华限制",
+        "onboard_time": 1770906740,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 103215,
+        "num": 103215,
+        "word": "张元英BANGBANG直拍",
+        "onboard_time": 1770906382,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 88871,
+        "num": 103031,
+        "word": "纸质文件",
+        "onboard_time": 1770896239,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 103011,
+        "num": 103011,
+        "word": "生命树集体沉默的60秒",
+        "onboard_time": 1770900382,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102643,
+        "num": 102643,
+        "word": "杨幂校花学姐",
+        "onboard_time": 1770890959,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87307,
+        "num": 87307,
+        "word": "谷爱凌不是输给第一名的第二名",
+        "onboard_time": 1770883161,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86211,
+        "num": 86211,
+        "word": "曝陈哲远每年让员工带薪出国旅游",
+        "onboard_time": 1770894739,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83262,
+        "num": 83262,
+        "word": "男子性侵前妻闺蜜被判10年8个月",
+        "onboard_time": 1770885380,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81061,
+        "num": 81061,
+        "word": "舌头翘一翘身体好坏都知道",
+        "onboard_time": 1770892461,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 80703,
+        "num": 80703,
+        "word": "刘耀文 真正想赢的人是没有表情的",
+        "onboard_time": 1770903921,
+        "rank": 41,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 80661,
+        "num": 80661,
+        "word": "微博之夜 绝美打光",
+        "onboard_time": 1770892579,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 80446,
+        "num": 80446,
+        "word": "多少人每天都在无效刷牙",
+        "onboard_time": 1770904162,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 79032,
+        "num": 79032,
+        "word": "花海SDG表演赛合体",
+        "onboard_time": 1770906981,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 73318,
+        "num": 73318,
+        "word": "男子天生患致命心脏病60年才发现",
+        "onboard_time": 1770906621,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43706,
+        "num": 73281,
+        "word": "有门诊接到儿童吃车厘子呕吐情况",
+        "onboard_time": 1770906560,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71438,
+        "num": 73275,
+        "word": "医生谈过季车厘子",
+        "onboard_time": 1770907821,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73273,
+        "num": 73273,
+        "word": "张凌赫粉丝爬半天山拍了三遍林允",
+        "onboard_time": 1770893719,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70677,
+        "num": 70677,
+        "word": "白鹿我来试试这个新功能",
+        "onboard_time": 1770907881,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记同我们共赶新春市集#"
+    }
+  }
+}

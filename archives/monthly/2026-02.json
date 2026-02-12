@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1770904280479,
+  "endTime": 1770908198967,
   "band_list": [
     {
       "raw_hot": 12386962,
@@ -3371,6 +3371,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 518604,
+      "num": 1082976,
+      "word": "22岁主播每天焊妆两次确诊肺炎",
+      "onboard_time": 1770906560,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 518313,
       "num": 139987,
       "word": "高市早苗赌赢后彻底不装了",
@@ -4171,6 +4179,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 454497,
+      "num": 454497,
+      "word": "王者荣耀超话爆了",
+      "onboard_time": 1770905181,
+      "rank": 3,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 454420,
       "num": 392959,
       "word": "金价创2009年以来最大单日涨幅",
@@ -4457,6 +4473,14 @@
       "onboard_time": 1770440300,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 433820,
+      "num": 167356,
+      "word": "虞书欣直播",
+      "onboard_time": 1770907400,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 433783,
@@ -7123,6 +7147,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 309798,
+      "num": 158602,
+      "word": "女子火车上熟睡8000元手机被偷",
+      "onboard_time": 1770905001,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 309764,
       "num": 204041,
       "word": "成何体统定档节奏",
@@ -7361,6 +7393,14 @@
       "onboard_time": 1770390082,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 301281,
+      "num": 131499,
+      "word": "杨幂白色高筒袜",
+      "onboard_time": 1770901940,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 301249,
@@ -10345,6 +10385,14 @@
       "onboard_time": 1770559103,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 218255,
+      "num": 218255,
+      "word": "太平年大结局",
+      "onboard_time": 1770906441,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 218112,
@@ -14131,14 +14179,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 147450,
-      "num": 131499,
-      "word": "杨幂白色高筒袜",
-      "onboard_time": 1770901940,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 147384,
       "num": 208345,
       "word": "男子称外籍妻子失联后转走全部家当",
@@ -14593,6 +14633,14 @@
       "onboard_time": 1770094461,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 141842,
+      "num": 141842,
+      "word": "何与miumiu活动生图路透",
+      "onboard_time": 1770907281,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 141777,
@@ -17051,6 +17099,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 120355,
+      "num": 120355,
+      "word": "肥猫郑则仕减重70斤感谢周润发",
+      "onboard_time": 1770902722,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 120319,
       "num": 120319,
       "word": "山东金矿事故致7死11人被控制",
@@ -18627,6 +18683,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 110823,
+      "num": 110823,
+      "word": "Deepseek被指变冷淡了",
+      "onboard_time": 1770907522,
+      "rank": 27,
+      "category": "互联网,民生新闻"
+    },
+    {
       "raw_hot": 110749,
       "num": 110749,
       "word": "ALin哭了",
@@ -18721,6 +18785,14 @@
       "onboard_time": 1770440602,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 110040,
+      "num": 110040,
+      "word": "严浩翔贺峻霖抽到同一条红绳",
+      "onboard_time": 1770907281,
+      "rank": 29,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 109987,
@@ -20011,6 +20083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 104005,
+      "num": 104005,
+      "word": "六国联名反对欧盟加大对华限制",
+      "onboard_time": 1770906740,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 103974,
       "num": 103319,
       "word": "这居然是胡歌",
@@ -20169,6 +20249,14 @@
       "onboard_time": 1770818001,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 103215,
+      "num": 103215,
+      "word": "张元英BANGBANG直拍",
+      "onboard_time": 1770906382,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 103183,
@@ -20465,14 +20553,6 @@
       "onboard_time": 1770108020,
       "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 101732,
-      "num": 101732,
-      "word": "肥猫郑则仕减重70斤感谢周润发",
-      "onboard_time": 1770902722,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 101709,
@@ -22753,6 +22833,14 @@
       "onboard_time": 1770088459,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92240,
+      "num": 106725,
+      "word": "王濛精准预判有新的纪录产生",
+      "onboard_time": 1770905181,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 92147,
@@ -26267,6 +26355,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 79032,
+      "num": 79032,
+      "word": "花海SDG表演赛合体",
+      "onboard_time": 1770906981,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 79028,
       "num": 79028,
       "word": "第一代SU7交付总量",
@@ -26777,6 +26873,14 @@
       "onboard_time": 1770075620,
       "rank": 28,
       "category": "财经"
+    },
+    {
+      "raw_hot": 76436,
+      "num": 621699,
+      "word": "我家的C位年货",
+      "onboard_time": 1770902599,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 76383,
@@ -27323,6 +27427,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 73318,
+      "num": 73318,
+      "word": "男子天生患致命心脏病60年才发现",
+      "onboard_time": 1770906621,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 73275,
       "num": 189954,
       "word": "同航班三个同款行李箱三箱主全拿错",
@@ -27571,6 +27683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 71438,
+      "num": 73275,
+      "word": "医生谈过季车厘子",
+      "onboard_time": 1770907821,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 71239,
       "num": 71239,
       "word": "这届年轻人买黄金心态就是稳",
@@ -27649,6 +27769,14 @@
       "onboard_time": 1769989279,
       "rank": 32,
       "category": "财经"
+    },
+    {
+      "raw_hot": 70677,
+      "num": 70677,
+      "word": "白鹿我来试试这个新功能",
+      "onboard_time": 1770907881,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 70674,
@@ -29387,14 +29515,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 55874,
-      "num": 621699,
-      "word": "我家的C位年货",
-      "onboard_time": 1770902599,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 55843,
       "num": 193088,
       "word": "医生从男子左心房里掏出鸭蛋大血栓",
@@ -30851,6 +30971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43706,
+      "num": 73281,
+      "word": "有门诊接到儿童吃车厘子呕吐情况",
+      "onboard_time": 1770906560,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43689,
       "num": 101688,
       "word": "妻子回忆丈夫如厕猝死前5天",
@@ -31801,6 +31929,14 @@
       "onboard_time": 1770361520,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 36123,
+      "num": 105021,
+      "word": "小马打架被咬伤负气出逃跑上高架",
+      "onboard_time": 1770908061,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 36011,
@@ -34153,6 +34289,14 @@
       "onboard_time": 1770405016,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 20352,
+      "num": 124755,
+      "word": "12306回应绿皮车到底能不能开窗",
+      "onboard_time": 1770907821,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20329,
