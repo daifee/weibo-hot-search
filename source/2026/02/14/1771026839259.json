@@ -1,0 +1,410 @@
+{
+  "runTime": 1771026839259,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 401926,
+        "num": 1006825,
+        "word": "马里宁自由滑重大失误",
+        "onboard_time": 1771023616,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 323600,
+        "num": 711143,
+        "word": "樊振东2比3高茨",
+        "onboard_time": 1771024037,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23964,
+        "num": 572233,
+        "word": "回家路上随手拍",
+        "onboard_time": 1770990501,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 295252,
+        "num": 295252,
+        "word": "樊振东2比3温瑞博",
+        "onboard_time": 1771024337,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 289625,
+        "num": 289625,
+        "word": "中戏表演系连续三任系主任主动投案",
+        "onboard_time": 1771024337,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 251878,
+        "num": 251878,
+        "word": "女子幽门螺杆菌阳性3年后查出胃癌",
+        "onboard_time": 1770992422,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223509,
+        "num": 223509,
+        "word": "情人节",
+        "onboard_time": 1770996381,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201795,
+        "num": 201795,
+        "word": "萨摩耶得知自己被托孤角落偷落泪",
+        "onboard_time": 1771019593,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180257,
+        "num": 180257,
+        "word": "黄冈通报产检正常娃出生却先天畸形",
+        "onboard_time": 1770997461,
+        "rank": 8,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 167695,
+        "num": 167695,
+        "word": "金博洋自由滑142.53分",
+        "onboard_time": 1771019955,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 376993,
+        "num": 162988,
+        "word": "新娘称婚宴4000一桌被亲友说最难吃",
+        "onboard_time": 1771000699,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 319607,
+        "num": 154948,
+        "word": "曝高市早苗手部病情恶化",
+        "onboard_time": 1771024397,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 293739,
+        "num": 153550,
+        "word": "瑶一瑶小肉包近30天掉粉6万",
+        "onboard_time": 1770990023,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 209490,
+        "num": 144886,
+        "word": "民警厕所打人受害人被打致小便失禁",
+        "onboard_time": 1770998241,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168238,
+        "num": 138767,
+        "word": "瑶一瑶藏剪刀被安检发现",
+        "onboard_time": 1770967102,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 135619,
+        "num": 135619,
+        "word": "男子卖前女友送的银镯子竟是银包金",
+        "onboard_time": 1770998179,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130292,
+        "num": 130292,
+        "word": "莫雷加德秀樊振东大头照",
+        "onboard_time": 1771025418,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121401,
+        "num": 121401,
+        "word": "主动投案的王鑫是易烊千玺等人老师",
+        "onboard_time": 1770974180,
+        "rank": 17,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 117757,
+        "num": 117757,
+        "word": "6000万年终奖有人数走9万5",
+        "onboard_time": 1771025298,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102014,
+        "num": 102014,
+        "word": "豆包红包",
+        "onboard_time": 1770986539,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1080888,
+        "num": 101634,
+        "word": "白敬亭 宋轶",
+        "onboard_time": 1770992123,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 634161,
+        "num": 101165,
+        "word": "王栎鑫女儿因被怼脸拍生气",
+        "onboard_time": 1771024277,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102085,
+        "num": 101111,
+        "word": "5类人需要定期检测幽门螺杆菌",
+        "onboard_time": 1771024277,
+        "rank": 22,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 100697,
+        "num": 100697,
+        "word": "全球最大航母驶向中东",
+        "onboard_time": 1770996861,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 100582,
+        "num": 100582,
+        "word": "张凌赫田曦薇hi6预告",
+        "onboard_time": 1771025478,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88983,
+        "num": 88983,
+        "word": "保罗正式宣布退役",
+        "onboard_time": 1771022775,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86767,
+        "num": 86767,
+        "word": "2700克金条388元购入1121元出手",
+        "onboard_time": 1771026077,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83902,
+        "num": 83902,
+        "word": "萨多洛夫花滑男单金牌",
+        "onboard_time": 1771021094,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83218,
+        "num": 83218,
+        "word": "宋轶换微博背景",
+        "onboard_time": 1770992123,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45144,
+        "num": 80827,
+        "word": "鼻梁两侧长黄色颗粒或是胆固醇升高",
+        "onboard_time": 1771026378,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 80462,
+        "num": 80462,
+        "word": "22岁中国男子在巴厘岛溺亡",
+        "onboard_time": 1771026318,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78658,
+        "num": 78658,
+        "word": "花滑米兰惨案",
+        "onboard_time": 1771026258,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 78047,
+        "num": 78047,
+        "word": "乌运动员因头盔被取消冬奥资格",
+        "onboard_time": 1771002618,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 74760,
+        "num": 74760,
+        "word": "李在明遇刺案幕后人曝光",
+        "onboard_time": 1771025478,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 71852,
+        "num": 71852,
+        "word": "脑综打败清北学霸的才女陷淘汰危机",
+        "onboard_time": 1771024397,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 71378,
+        "num": 71378,
+        "word": "谁给迪丽热巴买的手机壳",
+        "onboard_time": 1770982520,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71354,
+        "num": 71354,
+        "word": "武大靖解说冬奥会引热议",
+        "onboard_time": 1771025418,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 70941,
+        "num": 70941,
+        "word": "小狗来大姨妈以为得了不治之症",
+        "onboard_time": 1771025478,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 67785,
+        "num": 67785,
+        "word": "三亚通报8499元订民宿被临时毁约",
+        "onboard_time": 1770990681,
+        "rank": 38,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 65101,
+        "num": 65101,
+        "word": "马里宁第八",
+        "onboard_time": 1771025298,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 58656,
+        "num": 58656,
+        "word": "脑综出现了马年的第一匹黑马",
+        "onboard_time": 1771024337,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 58193,
+        "num": 58193,
+        "word": "主人回应边牧凌晨下单100多个灯笼",
+        "onboard_time": 1770986242,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52875,
+        "num": 52875,
+        "word": "花滑",
+        "onboard_time": 1771025298,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 52128,
+        "num": 52128,
+        "word": "王俊凯周杰伦到底还有多少合照",
+        "onboard_time": 1770985341,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51254,
+        "num": 51254,
+        "word": "市民吐槽百果园一根甘蔗卖87元",
+        "onboard_time": 1770998179,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51140,
+        "num": 51140,
+        "word": "金博洋第17",
+        "onboard_time": 1771025658,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 50653,
+        "num": 50653,
+        "word": "王橹杰彝族血统发力了",
+        "onboard_time": 1770991642,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50173,
+        "num": 50173,
+        "word": "春晚",
+        "onboard_time": 1771026620,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48871,
+        "num": 48871,
+        "word": "泰山 禁石令",
+        "onboard_time": 1770995422,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47131,
+        "num": 47131,
+        "word": "21岁孙子97岁奶奶都觉得对方很好带",
+        "onboard_time": 1770984440,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记感受年味儿#"
+    }
+  }
+}

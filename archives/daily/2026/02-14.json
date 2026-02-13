@@ -1,6 +1,6 @@
 {
   "startTime": 1770998880163,
-  "endTime": 1771025963112,
+  "endTime": 1771026839259,
   "band_list": [
     {
       "raw_hot": 4412806,
@@ -43,8 +43,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 561870,
-      "num": 94766,
+      "raw_hot": 634161,
+      "num": 101165,
       "word": "王栎鑫女儿因被怼脸拍生气",
       "onboard_time": 1771024277,
       "rank": 21,
@@ -59,20 +59,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 401926,
+      "num": 1006825,
+      "word": "马里宁自由滑重大失误",
+      "onboard_time": 1771023616,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 376993,
+      "num": 182537,
+      "word": "新娘称婚宴4000一桌被亲友说最难吃",
+      "onboard_time": 1771000699,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 373207,
       "num": 167819,
       "word": "王橹杰彝族血统发力了",
       "onboard_time": 1770991642,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 358761,
-      "num": 182537,
-      "word": "新娘称婚宴4000一桌被亲友说最难吃",
-      "onboard_time": 1771000699,
-      "rank": 11,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 352862,
@@ -83,23 +91,31 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 301912,
-      "num": 873375,
-      "word": "马里宁自由滑重大失误",
-      "onboard_time": 1771023616,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 298862,
-      "num": 613589,
+      "raw_hot": 323600,
+      "num": 711143,
       "word": "樊振东2比3高茨",
       "onboard_time": 1771024037,
       "rank": 1,
       "category": "体育"
     },
     {
-      "raw_hot": 287026,
+      "raw_hot": 319607,
+      "num": 172143,
+      "word": "曝高市早苗手部病情恶化",
+      "onboard_time": 1771024397,
+      "rank": 12,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 295252,
+      "num": 295252,
+      "word": "樊振东2比3温瑞博",
+      "onboard_time": 1771024337,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 293739,
       "num": 175911,
       "word": "瑶一瑶小肉包近30天掉粉6万",
       "onboard_time": 1770990023,
@@ -107,12 +123,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 276811,
-      "num": 172143,
-      "word": "曝高市早苗手部病情恶化",
-      "onboard_time": 1771024397,
-      "rank": 12,
-      "category": "国际时政"
+      "raw_hot": 289625,
+      "num": 289625,
+      "word": "中戏表演系连续三任系主任主动投案",
+      "onboard_time": 1771024337,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 272797,
@@ -121,14 +137,6 @@
       "onboard_time": 1770998179,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 258904,
-      "num": 258904,
-      "word": "樊振东2比3温瑞博",
-      "onboard_time": 1771024337,
-      "rank": 3,
-      "category": "体育"
     },
     {
       "raw_hot": 231534,
@@ -155,20 +163,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 210319,
-      "num": 210319,
-      "word": "中戏表演系连续三任系主任主动投案",
-      "onboard_time": 1771024337,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 203288,
       "num": 351251,
       "word": "黄冈通报产检正常娃出生却先天畸形",
       "onboard_time": 1770997461,
       "rank": 15,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 201795,
+      "num": 201795,
+      "word": "萨摩耶得知自己被托孤角落偷落泪",
+      "onboard_time": 1771019593,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 199068,
@@ -184,14 +192,6 @@
       "word": "21岁孙子97岁奶奶都觉得对方很好带",
       "onboard_time": 1770984440,
       "rank": 6,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 186114,
-      "num": 186114,
-      "word": "萨摩耶得知自己被托孤角落偷落泪",
-      "onboard_time": 1771019593,
-      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -275,6 +275,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 130292,
+      "num": 130292,
+      "word": "莫雷加德秀樊振东大头照",
+      "onboard_time": 1771025418,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 125968,
       "num": 125968,
       "word": "主动投案的王鑫是易烊千玺等人老师",
@@ -289,6 +297,14 @@
       "onboard_time": 1770989120,
       "rank": 18,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 117757,
+      "num": 117757,
+      "word": "6000万年终奖有人数走9万5",
+      "onboard_time": 1771025298,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 114126,
@@ -371,20 +387,28 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 95883,
-      "num": 94737,
+      "raw_hot": 102085,
+      "num": 101111,
       "word": "5类人需要定期检测幽门螺杆菌",
       "onboard_time": 1771024277,
       "rank": 22,
       "category": "健康医疗,民生新闻"
     },
     {
-      "raw_hot": 95578,
-      "num": 95578,
+      "raw_hot": 100697,
+      "num": 100697,
       "word": "全球最大航母驶向中东",
       "onboard_time": 1770996861,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 100582,
+      "num": 100582,
+      "word": "张凌赫田曦薇hi6预告",
+      "onboard_time": 1771025478,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 92826,
@@ -400,14 +424,6 @@
       "word": "脑综打败清北学霸的才女陷淘汰危机",
       "onboard_time": 1771024397,
       "rank": 25,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 88884,
-      "num": 88884,
-      "word": "张凌赫田曦薇hi6预告",
-      "onboard_time": 1771025478,
-      "rank": 26,
       "category": "综艺"
     },
     {
@@ -427,6 +443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 86767,
+      "num": 86767,
+      "word": "2700克金条388元购入1121元出手",
+      "onboard_time": 1771026077,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83847,
       "num": 83847,
       "word": "懒懒自曝78斤",
@@ -441,6 +465,14 @@
       "onboard_time": 1770979760,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 80462,
+      "num": 80462,
+      "word": "22岁中国男子在巴厘岛溺亡",
+      "onboard_time": 1771026318,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 80408,
@@ -459,11 +491,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 79126,
-      "num": 79126,
-      "word": "莫雷加德秀樊振东大头照",
-      "onboard_time": 1771025418,
-      "rank": 28,
+      "raw_hot": 78658,
+      "num": 78658,
+      "word": "花滑米兰惨案",
+      "onboard_time": 1771026258,
+      "rank": 31,
       "category": "体育"
     },
     {
@@ -483,12 +515,12 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 74619,
-      "num": 74619,
-      "word": "6000万年终奖有人数走9万5",
-      "onboard_time": 1771025298,
-      "rank": 31,
-      "category": "民生新闻"
+      "raw_hot": 74760,
+      "num": 74760,
+      "word": "李在明遇刺案幕后人曝光",
+      "onboard_time": 1771025478,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 74250,
@@ -497,6 +529,22 @@
       "onboard_time": 1770986300,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 71354,
+      "num": 71354,
+      "word": "武大靖解说冬奥会引热议",
+      "onboard_time": 1771025418,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 70941,
+      "num": 70941,
+      "word": "小狗来大姨妈以为得了不治之症",
+      "onboard_time": 1771025478,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 69906,
@@ -523,28 +571,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 65101,
+      "num": 65101,
+      "word": "马里宁第八",
+      "onboard_time": 1771025298,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 64737,
       "num": 68193,
       "word": "市民吐槽百果园一根甘蔗卖87元",
       "onboard_time": 1770998179,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 63624,
-      "num": 63624,
-      "word": "武大靖解说冬奥会引热议",
-      "onboard_time": 1771025418,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 60386,
-      "num": 60386,
-      "word": "马里宁第八",
-      "onboard_time": 1771025298,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 59118,
@@ -555,12 +595,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 58595,
-      "num": 58595,
-      "word": "李在明遇刺案幕后人曝光",
-      "onboard_time": 1771025478,
-      "rank": 36,
-      "category": "国际时政"
+      "raw_hot": 58193,
+      "num": 58193,
+      "word": "主人回应边牧凌晨下单100多个灯笼",
+      "onboard_time": 1770986242,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 55515,
@@ -579,12 +619,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 50896,
-      "num": 50896,
+      "raw_hot": 51140,
+      "num": 51140,
       "word": "金博洋第17",
       "onboard_time": 1771025658,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 50173,
+      "num": 50173,
+      "word": "春晚",
+      "onboard_time": 1771026620,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 49945,
@@ -595,14 +643,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 49910,
-      "num": 49910,
-      "word": "主人回应边牧凌晨下单100多个灯笼",
-      "onboard_time": 1770986242,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 47023,
       "num": 118747,
       "word": "宜昌一精神病院患者自杀情况属实",
@@ -611,12 +651,12 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 43622,
-      "num": 43622,
-      "word": "小狗来大姨妈以为得了不治之症",
-      "onboard_time": 1771025478,
-      "rank": 46,
-      "category": "幽默"
+      "raw_hot": 45144,
+      "num": 80827,
+      "word": "鼻梁两侧长黄色颗粒或是胆固醇升高",
+      "onboard_time": 1771026378,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 38965,
@@ -707,7 +747,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 22474,
+      "raw_hot": 23964,
       "num": 616703,
       "word": "回家路上随手拍",
       "onboard_time": 1770990501,
