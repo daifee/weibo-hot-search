@@ -1,0 +1,410 @@
+{
+  "runTime": 1770973790740,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 680376,
+        "num": 1108860,
+        "word": "中戏发生了什么",
+        "onboard_time": 1770961281,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 290474,
+        "num": 821793,
+        "word": "华为内部反腐通报",
+        "onboard_time": 1770970700,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 23942,
+        "num": 663368,
+        "word": "战马贺春热血沸腾",
+        "onboard_time": 1770971901,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 350418,
+        "num": 350418,
+        "word": "章若楠王安宇新剧开机",
+        "onboard_time": 1770971720,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 282906,
+        "num": 282906,
+        "word": "公司利润2.7亿拿1.8亿发年终奖",
+        "onboard_time": 1770954501,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 269835,
+        "num": 269835,
+        "word": "杭州大哥开1人公司靠AI月入200万",
+        "onboard_time": 1770972199,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 268782,
+        "num": 268782,
+        "word": "父母花了几十万装修的房子",
+        "onboard_time": 1770962721,
+        "rank": 6,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 191216,
+        "num": 191216,
+        "word": "白鹿李昀锐春晚造型",
+        "onboard_time": 1770964400,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184154,
+        "num": 184154,
+        "word": "中戏已有两位表演系主任主动投案",
+        "onboard_time": 1770951980,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140558,
+        "num": 140558,
+        "word": "世乒赛冠军将直接获得复刻奖杯",
+        "onboard_time": 1770970640,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 990523,
+        "num": 140255,
+        "word": "瑶一瑶藏剪刀被安检发现",
+        "onboard_time": 1770967102,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 632682,
+        "num": 139843,
+        "word": "任敏回老家也得穿省服",
+        "onboard_time": 1770965902,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 505072,
+        "num": 139381,
+        "word": "爱泼斯坦假尸体事件披露",
+        "onboard_time": 1770967761,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 458481,
+        "num": 138933,
+        "word": "王艺瑾你对你的脸做了什么",
+        "onboard_time": 1770969741,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19266,
+        "num": 137951,
+        "word": "属马的快乐",
+        "onboard_time": 1770973219,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 334744,
+        "num": 137739,
+        "word": "高叶 聊得我都想我前男友了",
+        "onboard_time": 1770970041,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 276031,
+        "num": 136847,
+        "word": "前女友送的40克银镯子内含30克黄金",
+        "onboard_time": 1770958340,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 220689,
+        "num": 136417,
+        "word": "关晓彤从小巷人家到大厂子弟",
+        "onboard_time": 1770972801,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200885,
+        "num": 135769,
+        "word": "外交部回应日本扣押中国渔船",
+        "onboard_time": 1770969082,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 28893,
+        "num": 135589,
+        "word": "智驾返乡排面拉满",
+        "onboard_time": 1770971181,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 572373,
+        "num": 135096,
+        "word": "虞书欣每天一杯奶茶",
+        "onboard_time": 1770969140,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197348,
+        "num": 134440,
+        "word": "大衣哥朱之文女儿结婚",
+        "onboard_time": 1770969501,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134156,
+        "num": 134156,
+        "word": "爸妈嘴里的大大方方",
+        "onboard_time": 1770962239,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 186220,
+        "num": 134131,
+        "word": "陈哲远回家过年",
+        "onboard_time": 1770971361,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184066,
+        "num": 134030,
+        "word": "肖战回复侯鸿亮",
+        "onboard_time": 1770965120,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 129168,
+        "num": 133879,
+        "word": "A股蛇年十大牛股",
+        "onboard_time": 1770972860,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 168882,
+        "num": 133762,
+        "word": "薛之谦广州站官宣",
+        "onboard_time": 1770966560,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 133689,
+        "num": 133689,
+        "word": "王橹杰 祝你永远闪烁",
+        "onboard_time": 1770963921,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127057,
+        "num": 131713,
+        "word": "湛江一海滩发现疑似儒艮尸体",
+        "onboard_time": 1770955339,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131489,
+        "num": 131489,
+        "word": "张凌赫给后面小孩哥看傻了",
+        "onboard_time": 1770969620,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128391,
+        "num": 128391,
+        "word": "王楚然越素越美",
+        "onboard_time": 1770972681,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111995,
+        "num": 111995,
+        "word": "女子摔碎2400元茅台丈夫淡定安抚",
+        "onboard_time": 1770972021,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105531,
+        "num": 105531,
+        "word": "明星红包分组",
+        "onboard_time": 1770953901,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103279,
+        "num": 103279,
+        "word": "6个男艺人屁股夹筷子综艺雷霆画面",
+        "onboard_time": 1770967640,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74484,
+        "num": 100301,
+        "word": "马克龙获赠中国龙谕",
+        "onboard_time": 1770973701,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 98481,
+        "num": 98481,
+        "word": "王者农家乐新春特辑上线",
+        "onboard_time": 1770972801,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 72538,
+        "num": 97318,
+        "word": "除夕来京东抽1折机器人",
+        "onboard_time": 1770973701,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 97289,
+        "num": 97289,
+        "word": "洛奥乒乓球配额及项目规格出炉",
+        "onboard_time": 1770973761,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28925,
+        "num": 94902,
+        "word": "杨紫袁弘新剧相亲八百个心眼子",
+        "onboard_time": 1770972922,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26978,
+        "num": 94652,
+        "word": "国家集采原研药中标不到1成",
+        "onboard_time": 1770972681,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94418,
+        "num": 94418,
+        "word": "洛奥乒乓球参赛资格该如何获得",
+        "onboard_time": 1770973280,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90742,
+        "num": 90742,
+        "word": "丞磊王楚然 京洛再无佳人",
+        "onboard_time": 1770956540,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90319,
+        "num": 90319,
+        "word": "懒懒回应整容",
+        "onboard_time": 1770969920,
+        "rank": 42,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 84400,
+        "num": 84400,
+        "word": "A股",
+        "onboard_time": 1770964039,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 82292,
+        "num": 82292,
+        "word": "小S晒开工照",
+        "onboard_time": 1770962420,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82172,
+        "num": 82172,
+        "word": "小时候画的饼在20岁出锅了",
+        "onboard_time": 1770972261,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 81646,
+        "num": 81646,
+        "word": "网红兔狲狲三郎死亡",
+        "onboard_time": 1770966500,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80474,
+        "num": 80474,
+        "word": "和平精英敖瑞鹏花絮",
+        "onboard_time": 1770973761,
+        "rank": 47,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 79232,
+        "num": 79232,
+        "word": "白日提灯",
+        "onboard_time": 1770950719,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 71023,
+        "num": 77791,
+        "word": "溜肩小猫",
+        "onboard_time": 1770973642,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#春节前夕中央领导同志看望老同志#"
+    }
+  }
+}
