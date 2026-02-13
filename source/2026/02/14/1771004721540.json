@@ -1,0 +1,410 @@
+{
+  "runTime": 1771004721540,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 389635,
+        "num": 389635,
+        "word": "情人节",
+        "onboard_time": 1770996381,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 247912,
+        "num": 281414,
+        "word": "豆包红包",
+        "onboard_time": 1770986539,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 18098,
+        "num": 220701,
+        "word": "回家路上随手拍",
+        "onboard_time": 1770990501,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109771,
+        "num": 109771,
+        "word": "孟子义情人节三部剧物料",
+        "onboard_time": 1770998841,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105247,
+        "num": 105247,
+        "word": "女子幽门螺杆菌阳性3年后查出胃癌",
+        "onboard_time": 1770992422,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89054,
+        "num": 89054,
+        "word": "黄冈通报产检正常娃出生却先天畸形",
+        "onboard_time": 1770997461,
+        "rank": 5,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 68275,
+        "num": 68275,
+        "word": "我家那小子首发阵容官宣",
+        "onboard_time": 1770979881,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 61606,
+        "num": 67928,
+        "word": "乌运动员因头盔被取消冬奥资格",
+        "onboard_time": 1771002618,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 52225,
+        "num": 67649,
+        "word": "王者荣耀农家乐村晚",
+        "onboard_time": 1770982223,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 51796,
+        "num": 67198,
+        "word": "市民吐槽百果园一根甘蔗卖87元",
+        "onboard_time": 1770998179,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 280506,
+        "num": 66924,
+        "word": "新娘称婚宴4000一桌被亲友说最难吃",
+        "onboard_time": 1771000699,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190980,
+        "num": 66109,
+        "word": "民警厕所打人受害人被打致小便失禁",
+        "onboard_time": 1770998241,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165773,
+        "num": 65693,
+        "word": "瑶一瑶藏剪刀被安检发现",
+        "onboard_time": 1770967102,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 137410,
+        "num": 65229,
+        "word": "瑶一瑶小肉包近30天掉粉6万",
+        "onboard_time": 1770990023,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 131137,
+        "num": 65053,
+        "word": "男子卖前女友送的银镯子竟是银包金",
+        "onboard_time": 1770998179,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127640,
+        "num": 64561,
+        "word": "谁给迪丽热巴买的手机壳",
+        "onboard_time": 1770982520,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104313,
+        "num": 63992,
+        "word": "王橹杰彝族血统发力了",
+        "onboard_time": 1770991642,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63797,
+        "num": 63797,
+        "word": "王星越白鹿居家风合照",
+        "onboard_time": 1770991762,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48382,
+        "num": 48382,
+        "word": "张函瑞单人cha纪录",
+        "onboard_time": 1770997042,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47646,
+        "num": 47646,
+        "word": "微博之夜 二刷",
+        "onboard_time": 1770990861,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 995700,
+        "num": 45615,
+        "word": "白敬亭 宋轶",
+        "onboard_time": 1770992123,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51849,
+        "num": 44888,
+        "word": "原著粉最满意的阵容出现了",
+        "onboard_time": 1770982280,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42682,
+        "num": 42682,
+        "word": "Angelababy兔耳朵撕拉片",
+        "onboard_time": 1770975140,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41281,
+        "num": 41281,
+        "word": "王俊凯周杰伦到底还有多少合照",
+        "onboard_time": 1770985341,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40869,
+        "num": 40869,
+        "word": "21岁孙子97岁奶奶都觉得对方很好带",
+        "onboard_time": 1770984440,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148291,
+        "num": 40628,
+        "word": "宋轶换微博背景",
+        "onboard_time": 1770992123,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39788,
+        "num": 39788,
+        "word": "冰壶",
+        "onboard_time": 1770983422,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38991,
+        "num": 38991,
+        "word": "生命树 敢拍",
+        "onboard_time": 1770993683,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36749,
+        "num": 36749,
+        "word": "男子出手2700克金条5年净赚196万",
+        "onboard_time": 1770995483,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29847,
+        "num": 36577,
+        "word": "宜昌一精神病院患者自杀情况属实",
+        "onboard_time": 1770998660,
+        "rank": 29,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 43871,
+        "num": 36559,
+        "word": "骨折女生乘卧铺从乌鲁木齐躺回江西",
+        "onboard_time": 1771003517,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36482,
+        "num": 36482,
+        "word": "主动投案的王鑫是易烊千玺等人老师",
+        "onboard_time": 1770974180,
+        "rank": 31,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 35787,
+        "num": 35787,
+        "word": "薛之谦湖泊唱片版",
+        "onboard_time": 1770989301,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 34136,
+        "num": 34136,
+        "word": "成何体统",
+        "onboard_time": 1770978622,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32880,
+        "num": 32880,
+        "word": "三亚通报8499元订民宿被临时毁约",
+        "onboard_time": 1770990681,
+        "rank": 34,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 32132,
+        "num": 32132,
+        "word": "生命树",
+        "onboard_time": 1770999139,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31971,
+        "num": 31971,
+        "word": "湖北精神病医院有关问题调查结果",
+        "onboard_time": 1770989120,
+        "rank": 36,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 30397,
+        "num": 30397,
+        "word": "全球最大航母驶向中东",
+        "onboard_time": 1770996861,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 30231,
+        "num": 30231,
+        "word": "颜人中演唱会延迟1小时送1场",
+        "onboard_time": 1770992663,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 29571,
+        "num": 29571,
+        "word": "没有彭昱畅的6点半是不完整的",
+        "onboard_time": 1771000341,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29549,
+        "num": 29549,
+        "word": "张峻豪直播",
+        "onboard_time": 1770994343,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28689,
+        "num": 28689,
+        "word": "官方回应湛江发现儒艮尸体",
+        "onboard_time": 1770978559,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27261,
+        "num": 27261,
+        "word": "王者荣耀福气码",
+        "onboard_time": 1771000341,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 26010,
+        "num": 26010,
+        "word": "懒懒自曝78斤",
+        "onboard_time": 1770992962,
+        "rank": 43,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 25948,
+        "num": 25948,
+        "word": "最强大脑",
+        "onboard_time": 1770990923,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25674,
+        "num": 25674,
+        "word": "丞磊第20集6分47秒",
+        "onboard_time": 1770988821,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25660,
+        "num": 25660,
+        "word": "常州汽水音乐节阵容官宣",
+        "onboard_time": 1771002677,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 24942,
+        "num": 25660,
+        "word": "童星叮当称关晓彤火是应该的",
+        "onboard_time": 1770994523,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23953,
+        "num": 25657,
+        "word": "中国队何时能摘首金",
+        "onboard_time": 1770979760,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22823,
+        "num": 25657,
+        "word": "李家诚告周秀娜诽谤及骚扰",
+        "onboard_time": 1770980841,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记感受年味儿#"
+    }
+  }
+}
