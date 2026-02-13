@@ -1,0 +1,410 @@
+{
+  "runTime": 1770979868486,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 452398,
+        "num": 1072383,
+        "word": "杭州大哥开1人公司靠AI月入200万",
+        "onboard_time": 1770972199,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 376081,
+        "num": 771734,
+        "word": "13年后天娱又签了选秀冠军",
+        "onboard_time": 1770975380,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19007,
+        "num": 627438,
+        "word": "战马贺春热血沸腾",
+        "onboard_time": 1770971901,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 424757,
+        "num": 424757,
+        "word": "TF家族新年音乐会纪录片",
+        "onboard_time": 1770977421,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 317859,
+        "num": 317859,
+        "word": "任子威首个且唯一1000米奥运冠军",
+        "onboard_time": 1770976402,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192557,
+        "num": 192557,
+        "word": "父母花了几十万装修的房子",
+        "onboard_time": 1770962721,
+        "rank": 5,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 137828,
+        "num": 192100,
+        "word": "公司利润2.7亿拿1.8亿发年终奖",
+        "onboard_time": 1770954501,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133685,
+        "num": 188681,
+        "word": "我家那小子定档大年初六",
+        "onboard_time": 1770979701,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120783,
+        "num": 184904,
+        "word": "华为内部反腐通报",
+        "onboard_time": 1770970700,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 108086,
+        "num": 183465,
+        "word": "返乡大哥打工30多年攒近300万",
+        "onboard_time": 1770978200,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 559954,
+        "num": 181695,
+        "word": "中戏发生了什么",
+        "onboard_time": 1770961281,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 391821,
+        "num": 178052,
+        "word": "苍蝇搓手为什么会意外截头",
+        "onboard_time": 1770976402,
+        "rank": 11,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 128710,
+        "num": 175819,
+        "word": "白鹿李昀锐春晚造型",
+        "onboard_time": 1770964400,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174301,
+        "num": 174301,
+        "word": "前女友送的40克银镯子内含30克黄金",
+        "onboard_time": 1770958340,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21423,
+        "num": 170435,
+        "word": "马年来许愿",
+        "onboard_time": 1770976880,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 169468,
+        "num": 169468,
+        "word": "爱泼斯坦假尸体事件披露",
+        "onboard_time": 1770967761,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 147805,
+        "num": 169404,
+        "word": "章若楠王安宇新剧开机",
+        "onboard_time": 1770971720,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147335,
+        "num": 169371,
+        "word": "中戏已有两位表演系主任主动投案",
+        "onboard_time": 1770951980,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123508,
+        "num": 169236,
+        "word": "关晓彤从小巷人家到大厂子弟",
+        "onboard_time": 1770972801,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114277,
+        "num": 169188,
+        "word": "肖战回复侯鸿亮",
+        "onboard_time": 1770965120,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 230308,
+        "num": 169020,
+        "word": "衡水中学变了",
+        "onboard_time": 1770977060,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 578502,
+        "num": 168991,
+        "word": "Angelababy兔耳朵撕拉片",
+        "onboard_time": 1770975140,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 503878,
+        "num": 168888,
+        "word": "主动投案的王鑫是易烊千玺等人老师",
+        "onboard_time": 1770974180,
+        "rank": 22,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 181870,
+        "num": 168808,
+        "word": "女子为喝中药不苦嘴里塞塑料袋",
+        "onboard_time": 1770976521,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100714,
+        "num": 168719,
+        "word": "中国队何时能摘首金",
+        "onboard_time": 1770979760,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 467204,
+        "num": 168595,
+        "word": "瑶一瑶藏剪刀被安检发现",
+        "onboard_time": 1770967102,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 95136,
+        "num": 168551,
+        "word": "A股蛇年十大牛股",
+        "onboard_time": 1770972860,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 93418,
+        "num": 168447,
+        "word": "沙特空军第一款隐身战机来自中国",
+        "onboard_time": 1770978200,
+        "rank": 27,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 67444,
+        "num": 168353,
+        "word": "马克龙获赠中国龙谕",
+        "onboard_time": 1770973701,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 25428,
+        "num": 168278,
+        "word": "马上有乾崑好事即发生",
+        "onboard_time": 1770976280,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 48155,
+        "num": 168152,
+        "word": "官方回应湛江发现儒艮尸体",
+        "onboard_time": 1770978559,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 321976,
+        "num": 168068,
+        "word": "偶遇向佐郭碧婷带女儿买衣服",
+        "onboard_time": 1770977060,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245426,
+        "num": 167981,
+        "word": "虞书欣每天一杯奶茶",
+        "onboard_time": 1770969140,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186268,
+        "num": 167880,
+        "word": "加拿大小偷已经放飞自我了",
+        "onboard_time": 1770977302,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 196627,
+        "num": 167739,
+        "word": "王艺瑾你对你的脸做了什么",
+        "onboard_time": 1770969741,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85411,
+        "num": 167693,
+        "word": "WB对战狼队",
+        "onboard_time": 1770976039,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 182013,
+        "num": 167617,
+        "word": "TFING直播",
+        "onboard_time": 1770977302,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167555,
+        "num": 167555,
+        "word": "任敏回老家也得穿省服",
+        "onboard_time": 1770965902,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28269,
+        "num": 165414,
+        "word": "宋亚轩以为是个阿哥结果是个格格",
+        "onboard_time": 1770979221,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35920,
+        "num": 157117,
+        "word": "AI将短剧5秒特效镜头成本降至3元",
+        "onboard_time": 1770979459,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 28551,
+        "num": 154074,
+        "word": "给员工发1.8亿年终奖的老板招人了",
+        "onboard_time": 1770979760,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46743,
+        "num": 149582,
+        "word": "车厘子或痛失年货水果C位",
+        "onboard_time": 1770979760,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144796,
+        "num": 144796,
+        "word": "惠英红的眉眼 棠夫人的灵魂",
+        "onboard_time": 1770975680,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123166,
+        "num": 123166,
+        "word": "时代少年团庆祝出道2222天",
+        "onboard_time": 1770979281,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103538,
+        "num": 110437,
+        "word": "关于婆婆带我花两百块烫了个头",
+        "onboard_time": 1770977238,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 105838,
+        "num": 105838,
+        "word": "宋雨琦跳了张函瑞进行曲",
+        "onboard_time": 1770975081,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104073,
+        "num": 104073,
+        "word": "薛之谦广州站官宣",
+        "onboard_time": 1770966560,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 90161,
+        "num": 98513,
+        "word": "命运会带你去见匹配的人",
+        "onboard_time": 1770979579,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 95907,
+        "num": 95907,
+        "word": "成何体统",
+        "onboard_time": 1770978622,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93872,
+        "num": 93872,
+        "word": "陈哲远回家过年",
+        "onboard_time": 1770971361,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#春节前夕中央领导同志看望老同志#"
+    }
+  }
+}
