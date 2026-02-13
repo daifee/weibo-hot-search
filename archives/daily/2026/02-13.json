@@ -1,6 +1,6 @@
 {
   "startTime": 1770912100688,
-  "endTime": 1770969373039,
+  "endTime": 1770969895840,
   "band_list": [
     {
       "raw_hot": 1583868,
@@ -19,20 +19,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1196856,
+      "num": 155754,
+      "word": "瑶一瑶藏剪刀被安检发现",
+      "onboard_time": 1770967102,
+      "rank": 10,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1189654,
       "num": 1190344,
       "word": "王鑫被查",
       "onboard_time": 1770950660,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1065597,
-      "num": 154639,
-      "word": "瑶一瑶藏剪刀被安检发现",
-      "onboard_time": 1770967102,
-      "rank": 10,
-      "category": "网红"
     },
     {
       "raw_hot": 1023123,
@@ -51,8 +51,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 778563,
-      "num": 154059,
+      "raw_hot": 790540,
+      "num": 155662,
       "word": "任敏回老家也得穿省服",
       "onboard_time": 1770965902,
       "rank": 11,
@@ -171,6 +171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 404626,
+      "num": 155292,
+      "word": "爱泼斯坦假尸体事件披露",
+      "onboard_time": 1770967761,
+      "rank": 15,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 391027,
       "num": 1062564,
       "word": "中国短道速滑",
@@ -244,7 +252,7 @@
     },
     {
       "raw_hot": 325448,
-      "num": 153421,
+      "num": 154952,
       "word": "肖战回复侯鸿亮",
       "onboard_time": 1770965120,
       "rank": 13,
@@ -260,7 +268,7 @@
     },
     {
       "raw_hot": 318389,
-      "num": 337335,
+      "num": 435709,
       "word": "薛之谦广州站官宣",
       "onboard_time": 1770966560,
       "rank": 3,
@@ -380,7 +388,7 @@
     },
     {
       "raw_hot": 257439,
-      "num": 152782,
+      "num": 154693,
       "word": "冯巩想死我了 张兴朝哭死我了",
       "onboard_time": 1770964882,
       "rank": 14,
@@ -425,14 +433,6 @@
       "onboard_time": 1770913040,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 231338,
-      "num": 152537,
-      "word": "爱泼斯坦假尸体事件披露",
-      "onboard_time": 1770967761,
-      "rank": 15,
-      "category": "国际时政"
     },
     {
       "raw_hot": 229178,
@@ -507,6 +507,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 203196,
+      "num": 153344,
+      "word": "虞书欣每天一杯奶茶",
+      "onboard_time": 1770969140,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 203133,
       "num": 169814,
       "word": "以为王俊凯要向周杰伦告白",
@@ -572,7 +580,7 @@
     },
     {
       "raw_hot": 185637,
-      "num": 151854,
+      "num": 154318,
       "word": "A股",
       "onboard_time": 1770964039,
       "rank": 31,
@@ -723,6 +731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160896,
+      "num": 153998,
+      "word": "北京规则怪谈",
+      "onboard_time": 1770964641,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 160145,
       "num": 115495,
       "word": "水贝黄金暴雷后血本无归的普通人",
@@ -740,7 +756,7 @@
     },
     {
       "raw_hot": 158392,
-      "num": 145388,
+      "num": 153276,
       "word": "王橹杰 祝你永远闪烁",
       "onboard_time": 1770963921,
       "rank": 34,
@@ -819,14 +835,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 144014,
-      "num": 144014,
-      "word": "北京规则怪谈",
-      "onboard_time": 1770964641,
-      "rank": 21,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 141702,
       "num": 141702,
       "word": "今年为啥没有年三十",
@@ -873,6 +881,14 @@
       "onboard_time": 1770918016,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 134692,
+      "num": 131653,
+      "word": "6个男艺人屁股夹筷子综艺雷霆画面",
+      "onboard_time": 1770967640,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 134101,
@@ -971,14 +987,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 123721,
-      "num": 123721,
-      "word": "6个男艺人屁股夹筷子综艺雷霆画面",
-      "onboard_time": 1770967640,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 123546,
       "num": 116909,
       "word": "周杰伦杭州演唱会",
@@ -1011,6 +1019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 117909,
+      "num": 117909,
+      "word": "IVE娃专",
+      "onboard_time": 1770969859,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 117694,
       "num": 94333,
       "word": "郑嘉颖被问还记得若曦吗",
@@ -1033,6 +1049,14 @@
       "onboard_time": 1770937817,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117018,
+      "num": 117018,
+      "word": "钎城后羿四杀",
+      "onboard_time": 1770969320,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 116581,
@@ -1072,6 +1096,14 @@
       "word": "时代峰峻马场大户",
       "onboard_time": 1770961939,
       "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 110927,
+      "num": 110927,
+      "word": "大衣哥朱之文女儿结婚",
+      "onboard_time": 1770969501,
+      "rank": 32,
       "category": "艺人"
     },
     {
@@ -1139,14 +1171,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 104329,
-      "num": 104329,
-      "word": "钎城后羿四杀",
-      "onboard_time": 1770969320,
-      "rank": 34,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 104259,
       "num": 104259,
       "word": "年少有为",
@@ -1161,6 +1185,14 @@
       "onboard_time": 1770939137,
       "rank": 19,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 103541,
+      "num": 103541,
+      "word": "60岁男子硬座返乡谈彩礼几十万",
+      "onboard_time": 1770966979,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 103361,
@@ -1200,14 +1232,6 @@
       "word": "范宗沛去世",
       "onboard_time": 1770910940,
       "rank": 27,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 101639,
-      "num": 101639,
-      "word": "虞书欣每天一杯奶茶",
-      "onboard_time": 1770969140,
-      "rank": 36,
       "category": "艺人"
     },
     {
@@ -1259,14 +1283,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 96916,
-      "num": 96916,
-      "word": "60岁男子硬座返乡谈彩礼几十万",
-      "onboard_time": 1770966979,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 96750,
       "num": 96750,
       "word": "印度要买114架阵风",
@@ -1297,6 +1313,22 @@
       "onboard_time": 1770967580,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92304,
+      "num": 153645,
+      "word": "外交部回应日本扣押中国渔船",
+      "onboard_time": 1770969082,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 91949,
+      "num": 91949,
+      "word": "小猫下意识的把头伸过去",
+      "onboard_time": 1770967340,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 91447,
@@ -1363,14 +1395,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 86054,
-      "num": 86054,
-      "word": "小猫下意识的把头伸过去",
-      "onboard_time": 1770967340,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 85616,
       "num": 85616,
       "word": "严浩翔贺峻霖抽到同一条红绳",
@@ -1403,12 +1427,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 83194,
-      "num": 146630,
-      "word": "外交部回应日本扣押中国渔船",
-      "onboard_time": 1770969082,
-      "rank": 19,
-      "category": "国内时政"
+      "raw_hot": 83060,
+      "num": 83060,
+      "word": "小猫因为剪指甲干架没干过",
+      "onboard_time": 1770968900,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 81979,
+      "num": 81979,
+      "word": "林俊杰回归音乐",
+      "onboard_time": 1770969501,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 81924,
@@ -1425,6 +1457,14 @@
       "onboard_time": 1770909321,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 81562,
+      "num": 81562,
+      "word": "DYG战胜TTG",
+      "onboard_time": 1770969800,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 81055,
@@ -1691,6 +1731,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 62005,
+      "num": 76958,
+      "word": "创业板指蛇年收涨近60%",
+      "onboard_time": 1770969681,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 61203,
       "num": 61203,
       "word": "舌头翘一翘身体好坏都知道",
@@ -1931,6 +1979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 40768,
+      "num": 93022,
+      "word": "张凌赫给后面小孩哥看傻了",
+      "onboard_time": 1770969620,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 40454,
       "num": 75935,
       "word": "高市早苗赢了选举输了国运",
@@ -2009,6 +2065,14 @@
       "onboard_time": 1770915978,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 30458,
+      "num": 92148,
+      "word": "王艺瑾你对你的脸做了什么",
+      "onboard_time": 1770969741,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 30450,
