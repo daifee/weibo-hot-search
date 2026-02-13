@@ -1,6 +1,6 @@
 {
   "startTime": 1770912100688,
-  "endTime": 1770973790740,
+  "endTime": 1770976568519,
   "band_list": [
     {
       "raw_hot": 1583868,
@@ -91,6 +91,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 599343,
+      "num": 1095894,
+      "word": "杭州大哥开1人公司靠AI月入200万",
+      "onboard_time": 1770972199,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 572373,
       "num": 153344,
       "word": "虞书欣每天一杯奶茶",
@@ -100,7 +108,7 @@
     },
     {
       "raw_hot": 559800,
-      "num": 155292,
+      "num": 166809,
       "word": "爱泼斯坦假尸体事件披露",
       "onboard_time": 1770967761,
       "rank": 15,
@@ -145,6 +153,14 @@
       "onboard_time": 1770906560,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 521557,
+      "num": 117353,
+      "word": "主动投案的王鑫是易烊千玺等人老师",
+      "onboard_time": 1770974180,
+      "rank": 21,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 501605,
@@ -193,6 +209,14 @@
       "onboard_time": 1770955339,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 429734,
+      "num": 117097,
+      "word": "Angelababy兔耳朵撕拉片",
+      "onboard_time": 1770975140,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 391027,
@@ -427,14 +451,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 269835,
-      "num": 269835,
-      "word": "杭州大哥开1人公司靠AI月入200万",
-      "onboard_time": 1770972199,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 257439,
       "num": 154693,
       "word": "冯巩想死我了 张兴朝哭死我了",
@@ -532,7 +548,7 @@
     },
     {
       "raw_hot": 220689,
-      "num": 136417,
+      "num": 210846,
       "word": "关晓彤从小巷人家到大厂子弟",
       "onboard_time": 1770972801,
       "rank": 49,
@@ -641,6 +657,14 @@
       "onboard_time": 1770905001,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 186564,
+      "num": 186564,
+      "word": "13年后天娱又签了选秀冠军",
+      "onboard_time": 1770975380,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 186220,
@@ -779,6 +803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 166523,
+      "num": 95917,
+      "word": "惠英红的眉眼 棠夫人的灵魂",
+      "onboard_time": 1770975680,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 165190,
       "num": 165190,
       "word": "林孝埈赛后更新自动回复",
@@ -801,6 +833,14 @@
       "onboard_time": 1770950719,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 163288,
+      "num": 83872,
+      "word": "宋雨琦跳了张函瑞进行曲",
+      "onboard_time": 1770975081,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 160896,
@@ -916,7 +956,7 @@
     },
     {
       "raw_hot": 140558,
-      "num": 140558,
+      "num": 177902,
       "word": "世乒赛冠军将直接获得复刻奖杯",
       "onboard_time": 1770970640,
       "rank": 31,
@@ -1163,6 +1203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 117139,
+      "num": 117139,
+      "word": "WB对战狼队",
+      "onboard_time": 1770976039,
+      "rank": 22,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 117018,
       "num": 117018,
       "word": "钎城后羿四杀",
@@ -1177,6 +1225,14 @@
       "onboard_time": 1770937877,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 116534,
+      "num": 116534,
+      "word": "当代人购买年货的实力",
+      "onboard_time": 1770974900,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 116459,
@@ -1211,6 +1267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 113451,
+      "num": 82334,
+      "word": "我们的少年时代2外拍路透",
+      "onboard_time": 1770976039,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 112262,
       "num": 112262,
       "word": "时代峰峻马场大户",
@@ -1225,6 +1289,14 @@
       "onboard_time": 1770972021,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111528,
+      "num": 82322,
+      "word": "李昇基得二胎了",
+      "onboard_time": 1770975380,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 108241,
@@ -1379,6 +1451,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 98129,
+      "num": 98129,
+      "word": "女子为喝中药不苦嘴里塞塑料袋",
+      "onboard_time": 1770976521,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97741,
       "num": 97741,
       "word": "美股",
@@ -1499,6 +1579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 89463,
+      "num": 89463,
+      "word": "任子威首个且唯一1000米奥运冠军",
+      "onboard_time": 1770976402,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 89304,
       "num": 89304,
       "word": "小时候画的饼在20岁出锅了",
@@ -1577,6 +1665,30 @@
       "onboard_time": 1770968900,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 82403,
+      "num": 82403,
+      "word": "语文老师笑了半个小时才扣分",
+      "onboard_time": 1770976461,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 82379,
+      "num": 119585,
+      "word": "马克龙获赠中国龙谕",
+      "onboard_time": 1770973701,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 82315,
+      "num": 82315,
+      "word": "苍蝇搓手为什么会意外截头",
+      "onboard_time": 1770976402,
+      "rank": 43,
+      "category": "科学科普"
     },
     {
       "raw_hot": 81979,
@@ -1707,14 +1819,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 74484,
-      "num": 100301,
-      "word": "马克龙获赠中国龙谕",
-      "onboard_time": 1770973701,
-      "rank": 34,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 74048,
       "num": 74048,
       "word": "王濛精准预判有新的纪录产生",
@@ -1723,8 +1827,24 @@
       "category": "体育"
     },
     {
+      "raw_hot": 73706,
+      "num": 73706,
+      "word": "BLG主教练通宵训练",
+      "onboard_time": 1770976521,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 73259,
+      "num": 73259,
+      "word": "马上有乾崑好事即发生",
+      "onboard_time": 1770976280,
+      "rank": 49,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 72538,
-      "num": 97318,
+      "num": 118708,
       "word": "除夕来京东抽1折机器人",
       "onboard_time": 1770973701,
       "rank": 36,
@@ -2123,6 +2243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43345,
+      "num": 82369,
+      "word": "B站春晚节目单来了",
+      "onboard_time": 1770976339,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 42907,
       "num": 89657,
       "word": "蒙古感谢中方",
@@ -2177,6 +2305,14 @@
       "onboard_time": 1770949940,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 39836,
+      "num": 82346,
+      "word": "央视曝光春节红包骗局",
+      "onboard_time": 1770973881,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37870,
@@ -2241,6 +2377,14 @@
       "onboard_time": 1770958340,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 34194,
+      "num": 82383,
+      "word": "文俊辉春晚舞台",
+      "onboard_time": 1770975680,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 34038,
@@ -2313,6 +2457,14 @@
       "onboard_time": 1770972922,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 27389,
+      "num": 143519,
+      "word": "属马的快乐",
+      "onboard_time": 1770973219,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27333,
@@ -2481,14 +2633,6 @@
       "onboard_time": 1770924495,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 19266,
-      "num": 137951,
-      "word": "属马的快乐",
-      "onboard_time": 1770973219,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 18607,
