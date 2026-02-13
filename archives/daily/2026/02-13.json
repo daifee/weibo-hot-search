@@ -1,6 +1,6 @@
 {
   "startTime": 1770912100688,
-  "endTime": 1770979868486,
+  "endTime": 1770980997831,
   "band_list": [
     {
       "raw_hot": 1583868,
@@ -65,6 +65,14 @@
       "onboard_time": 1770954681,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 738044,
+      "num": 738044,
+      "word": "我家那小子首发阵容官宣",
+      "onboard_time": 1770979881,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 700852,
@@ -187,6 +195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 488745,
+      "num": 178052,
+      "word": "苍蝇搓手为什么会意外截头",
+      "onboard_time": 1770976402,
+      "rank": 43,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 460213,
       "num": 119642,
       "word": "吃烤全羊发现大量粪便店家赔偿1500",
@@ -225,14 +241,6 @@
       "onboard_time": 1770977421,
       "rank": 3,
       "category": "演出"
-    },
-    {
-      "raw_hot": 391821,
-      "num": 178052,
-      "word": "苍蝇搓手为什么会意外截头",
-      "onboard_time": 1770976402,
-      "rank": 43,
-      "category": "科学科普"
     },
     {
       "raw_hot": 391027,
@@ -307,6 +315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 332293,
+      "num": 771674,
+      "word": "任子威首个且唯一1000米奥运冠军",
+      "onboard_time": 1770976402,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 331005,
       "num": 331005,
       "word": "父母花了几十万装修的房子",
@@ -361,14 +377,6 @@
       "onboard_time": 1770966560,
       "rank": 3,
       "category": "演出"
-    },
-    {
-      "raw_hot": 317859,
-      "num": 317859,
-      "word": "任子威首个且唯一1000米奥运冠军",
-      "onboard_time": 1770976402,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 315136,
@@ -539,20 +547,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 234494,
+      "num": 169020,
+      "word": "衡水中学变了",
+      "onboard_time": 1770977060,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 234385,
       "num": 134440,
       "word": "大衣哥朱之文女儿结婚",
       "onboard_time": 1770969501,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 230308,
-      "num": 169020,
-      "word": "衡水中学变了",
-      "onboard_time": 1770977060,
-      "rank": 30,
-      "category": "教育"
     },
     {
       "raw_hot": 229178,
@@ -667,6 +675,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 198645,
+      "num": 167617,
+      "word": "TFING直播",
+      "onboard_time": 1770977302,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198248,
       "num": 145837,
       "word": "内娱穿裙子跑酷的女主来了",
@@ -745,14 +761,6 @@
       "onboard_time": 1770899721,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 182013,
-      "num": 167617,
-      "word": "TFING直播",
-      "onboard_time": 1770977302,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 181870,
@@ -961,6 +969,14 @@
       "onboard_time": 1770909440,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 151830,
+      "num": 738067,
+      "word": "中国队何时能摘首金",
+      "onboard_time": 1770979760,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 150721,
@@ -1347,6 +1363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 113799,
+      "num": 183465,
+      "word": "返乡大哥打工30多年攒近300万",
+      "onboard_time": 1770978200,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 113451,
       "num": 89688,
       "word": "我们的少年时代2外拍路透",
@@ -1371,6 +1395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 111714,
+      "num": 168152,
+      "word": "官方回应湛江发现儒艮尸体",
+      "onboard_time": 1770978559,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111528,
       "num": 109346,
       "word": "李昇基得二胎了",
@@ -1385,14 +1417,6 @@
       "onboard_time": 1770925334,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 108086,
-      "num": 183465,
-      "word": "返乡大哥打工30多年攒近300万",
-      "onboard_time": 1770978200,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 107898,
@@ -1411,12 +1435,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 107272,
+      "num": 102076,
+      "word": "突然明白了葬礼的意义",
+      "onboard_time": 1770979881,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 107174,
       "num": 131744,
       "word": "林孝埈从不怕重来一次",
       "onboard_time": 1770951919,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 106753,
+      "num": 106753,
+      "word": "车厘子或痛失年货水果头把交椅",
+      "onboard_time": 1770978379,
+      "rank": 17,
+      "category": "美食"
     },
     {
       "raw_hot": 105084,
@@ -1521,14 +1561,6 @@
       "onboard_time": 1770910940,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 100714,
-      "num": 168719,
-      "word": "中国队何时能摘首金",
-      "onboard_time": 1770979760,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 99901,
@@ -1707,6 +1739,30 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 89170,
+      "num": 88973,
+      "word": "李家诚告周秀娜诽谤及骚扰",
+      "onboard_time": 1770980841,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 89141,
+      "num": 89141,
+      "word": "今年这个班就先上到这吧",
+      "onboard_time": 1770980238,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 88922,
+      "num": 102229,
+      "word": "拼多多食品安全保障持续加码",
+      "onboard_time": 1770980721,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 88762,
       "num": 88762,
       "word": "任子威说女子500米成绩夸张",
@@ -1769,6 +1825,14 @@
       "onboard_time": 1770955880,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 85079,
+      "num": 85079,
+      "word": "白宇豆瓣四部八分以上剧",
+      "onboard_time": 1770979160,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 84521,
@@ -1873,6 +1937,14 @@
       "onboard_time": 1770952521,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 77437,
+      "num": 83516,
+      "word": "全国养宠人都在等除夕",
+      "onboard_time": 1770980841,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 76634,
@@ -2147,6 +2219,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 61475,
+      "num": 149582,
+      "word": "车厘子或痛失年货水果C位",
+      "onboard_time": 1770979760,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 61203,
       "num": 61203,
       "word": "舌头翘一翘身体好坏都知道",
@@ -2299,20 +2379,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 51415,
+      "num": 154074,
+      "word": "给员工发1.8亿年终奖的老板招人了",
+      "onboard_time": 1770979760,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49994,
       "num": 111799,
       "word": "AI该不该提供情绪价值",
       "onboard_time": 1770953180,
       "rank": 30,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 48155,
-      "num": 168152,
-      "word": "官方回应湛江发现儒艮尸体",
-      "onboard_time": 1770978559,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 47911,
@@ -2337,14 +2417,6 @@
       "onboard_time": 1770927014,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 46743,
-      "num": 149582,
-      "word": "车厘子或痛失年货水果C位",
-      "onboard_time": 1770979760,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 46210,
@@ -2571,6 +2643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 29154,
+      "num": 102052,
+      "word": "中国各地年夜饭的必吃硬菜榜",
+      "onboard_time": 1770980960,
+      "rank": 38,
+      "category": "美食"
+    },
+    {
       "raw_hot": 28975,
       "num": 40728,
       "word": "唐宫奇案",
@@ -2585,14 +2665,6 @@
       "onboard_time": 1770972922,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 28551,
-      "num": 154074,
-      "word": "给员工发1.8亿年终奖的老板招人了",
-      "onboard_time": 1770979760,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 28269,
@@ -2700,7 +2772,7 @@
     },
     {
       "raw_hot": 24155,
-      "num": 663368,
+      "num": 739737,
       "word": "战马贺春热血沸腾",
       "onboard_time": 1770971901,
       "rank": 2,
@@ -2793,6 +2865,14 @@
       "onboard_time": 1770924495,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 19002,
+      "num": 102034,
+      "word": "爱心妈妈李艳霞不当得利案最新进展",
+      "onboard_time": 1770980960,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18607,
