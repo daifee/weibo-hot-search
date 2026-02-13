@@ -1,0 +1,410 @@
+{
+  "runTime": 1770962936259,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1123574,
+        "num": 1179771,
+        "word": "中戏发生了什么",
+        "onboard_time": 1770961281,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 508461,
+        "num": 848696,
+        "word": "公司利润2.7亿拿1.8亿发年终奖",
+        "onboard_time": 1770954501,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20509,
+        "num": 680850,
+        "word": "春节回家看老师",
+        "onboard_time": 1770951681,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 493218,
+        "num": 493218,
+        "word": "中戏已有两位表演系主任主动投案",
+        "onboard_time": 1770951980,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 319491,
+        "num": 319491,
+        "word": "微信 贴图",
+        "onboard_time": 1770958161,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 310220,
+        "num": 310220,
+        "word": "湛江一海滩发现疑似儒艮尸体",
+        "onboard_time": 1770955339,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 308159,
+        "num": 308159,
+        "word": "丞磊王楚然 京洛再无佳人",
+        "onboard_time": 1770956540,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 258561,
+        "num": 258561,
+        "word": "王菲 春晚",
+        "onboard_time": 1770953061,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245975,
+        "num": 245975,
+        "word": "王鑫被查",
+        "onboard_time": 1770950660,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190386,
+        "num": 190386,
+        "word": "我的妈妈是校花开播",
+        "onboard_time": 1770956540,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 696239,
+        "num": 180002,
+        "word": "前女友送的40克银镯子内含30克黄金",
+        "onboard_time": 1770958340,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 457259,
+        "num": 176555,
+        "word": "医院一天接诊30多例性早熟儿童",
+        "onboard_time": 1770959902,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200070,
+        "num": 168058,
+        "word": "周柯宇陈妍希情人节封面",
+        "onboard_time": 1770962060,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 197206,
+        "num": 151112,
+        "word": "董璇被自己以前说过的话恶心到了",
+        "onboard_time": 1770962060,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147079,
+        "num": 147079,
+        "word": "交警查酒驾意外见家长一秒脸红",
+        "onboard_time": 1770953781,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169653,
+        "num": 146984,
+        "word": "沙一汀掉美颜",
+        "onboard_time": 1770960860,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167620,
+        "num": 146928,
+        "word": "小S晒开工照",
+        "onboard_time": 1770962420,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135777,
+        "num": 146757,
+        "word": "家长回应女儿因神似敦煌美人走红",
+        "onboard_time": 1770959902,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149467,
+        "num": 146676,
+        "word": "魏大勋敢说我都不敢听",
+        "onboard_time": 1770959241,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 52968,
+        "num": 146483,
+        "word": "过年打麻将一场输赢超300就算赌博",
+        "onboard_time": 1770962239,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 366626,
+        "num": 146337,
+        "word": "橹穆双人卡",
+        "onboard_time": 1770954681,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 358760,
+        "num": 146286,
+        "word": "小酒窝朵朵三亚度假",
+        "onboard_time": 1770956181,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285381,
+        "num": 146092,
+        "word": "女演员曾公开称美国上流精英吃婴儿",
+        "onboard_time": 1770948739,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 104528,
+        "num": 145994,
+        "word": "家乡那家肯德基",
+        "onboard_time": 1770960800,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 198248,
+        "num": 145837,
+        "word": "内娱穿裙子跑酷的女主来了",
+        "onboard_time": 1770961520,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46210,
+        "num": 145670,
+        "word": "孙龙披国旗绕场后整整齐齐叠好",
+        "onboard_time": 1770961580,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172654,
+        "num": 145602,
+        "word": "无锡威玛犬",
+        "onboard_time": 1770958581,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147510,
+        "num": 145390,
+        "word": "明星红包分组",
+        "onboard_time": 1770953901,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145364,
+        "num": 145364,
+        "word": "伴侣感染HPV是不干净吗",
+        "onboard_time": 1770956421,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 138311,
+        "num": 138311,
+        "word": "央视主持人的含金量还在上升",
+        "onboard_time": 1770957260,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134101,
+        "num": 134101,
+        "word": "29岁女子因怕过年失眠近1个月",
+        "onboard_time": 1770960200,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122291,
+        "num": 122291,
+        "word": "AI替代不了付航是有原因的",
+        "onboard_time": 1770962780,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116041,
+        "num": 116041,
+        "word": "尾号777777手机号拍出51.5万元",
+        "onboard_time": 1770957200,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112262,
+        "num": 112262,
+        "word": "时代峰峻马场大户",
+        "onboard_time": 1770961939,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101279,
+        "num": 101279,
+        "word": "白日提灯",
+        "onboard_time": 1770950719,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86310,
+        "num": 86310,
+        "word": "中戏",
+        "onboard_time": 1770953901,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87336,
+        "num": 86243,
+        "word": "方家翊整容",
+        "onboard_time": 1770952940,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85939,
+        "num": 85939,
+        "word": "BLACKPINK新专配置公开",
+        "onboard_time": 1770951381,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 84574,
+        "num": 84574,
+        "word": "爸妈嘴里的大大方方",
+        "onboard_time": 1770962239,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 82359,
+        "num": 82359,
+        "word": "以为王俊凯要向周杰伦告白",
+        "onboard_time": 1770953241,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77843,
+        "num": 77843,
+        "word": "在韩国用中文训英国小狗",
+        "onboard_time": 1770962839,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 76121,
+        "num": 76121,
+        "word": "生命树杨紫张哲华卧一半没底了",
+        "onboard_time": 1770958521,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75534,
+        "num": 75534,
+        "word": "孙龙哽咽是我的问题我承认",
+        "onboard_time": 1770953539,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 74610,
+        "num": 74610,
+        "word": "章若楠感谢粉丝",
+        "onboard_time": 1770959419,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74348,
+        "num": 74348,
+        "word": "金银铜全线上涨",
+        "onboard_time": 1770957441,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 73270,
+        "num": 73270,
+        "word": "有个一直说话的人真的太重要了",
+        "onboard_time": 1770953600,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 72908,
+        "num": 72908,
+        "word": "林孝埈赛后更新自动回复",
+        "onboard_time": 1770955942,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 72184,
+        "num": 72184,
+        "word": "草莓用流水冲洗后就能吃",
+        "onboard_time": 1770959902,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 71923,
+        "num": 71923,
+        "word": "父母花了几十万装修的房子",
+        "onboard_time": 1770962721,
+        "rank": 48,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 66777,
+        "num": 66777,
+        "word": "红马年能不能穿红",
+        "onboard_time": 1770955100,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记一起品味年俗文化#"
+    }
+  }
+}

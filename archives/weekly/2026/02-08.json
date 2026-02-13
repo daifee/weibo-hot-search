@@ -1,6 +1,6 @@
 {
   "startTime": 1770482461321,
-  "endTime": 1770959434678,
+  "endTime": 1770962936259,
   "band_list": [
     {
       "raw_hot": 7279878,
@@ -225,6 +225,14 @@
       "onboard_time": 1770880820,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1123574,
+      "num": 1179771,
+      "word": "中戏发生了什么",
+      "onboard_time": 1770961281,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1123563,
@@ -745,6 +753,14 @@
       "onboard_time": 1770638720,
       "rank": 10,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 696239,
+      "num": 180002,
+      "word": "前女友送的40克银镯子内含30克黄金",
+      "onboard_time": 1770958340,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 695344,
@@ -1635,14 +1651,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 465334,
-      "num": 172252,
-      "word": "前女友送的40克银镯子内含30克黄金",
-      "onboard_time": 1770958340,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 465230,
       "num": 301665,
       "word": "第一次见双胞胎不是一个物种",
@@ -1697,6 +1705,14 @@
       "onboard_time": 1770633140,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 457259,
+      "num": 176555,
+      "word": "医院一天接诊30多例性早熟儿童",
+      "onboard_time": 1770959902,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 456503,
@@ -2905,6 +2921,14 @@
       "onboard_time": 1770613879,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 319491,
+      "num": 319491,
+      "word": "微信 贴图",
+      "onboard_time": 1770958161,
+      "rank": 34,
+      "category": "互联网"
     },
     {
       "raw_hot": 318466,
@@ -4980,7 +5004,7 @@
     },
     {
       "raw_hot": 200768,
-      "num": 170183,
+      "num": 190386,
       "word": "我的妈妈是校花开播",
       "onboard_time": 1770956540,
       "rank": 19,
@@ -4993,6 +5017,14 @@
       "onboard_time": 1770945380,
       "rank": 6,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 200070,
+      "num": 168058,
+      "word": "周柯宇陈妍希情人节封面",
+      "onboard_time": 1770962060,
+      "rank": 12,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 199956,
@@ -5035,6 +5067,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 198248,
+      "num": 145837,
+      "word": "内娱穿裙子跑酷的女主来了",
+      "onboard_time": 1770961520,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 197500,
       "num": 178978,
       "word": "杨洋换风格了",
@@ -5057,6 +5097,14 @@
       "onboard_time": 1770784941,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 197206,
+      "num": 151112,
+      "word": "董璇被自己以前说过的话恶心到了",
+      "onboard_time": 1770962060,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 197063,
@@ -5667,6 +5715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 172654,
+      "num": 145602,
+      "word": "无锡威玛犬",
+      "onboard_time": 1770958581,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 172107,
       "num": 172107,
       "word": "李沛恩解约",
@@ -5723,6 +5779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 169653,
+      "num": 146984,
+      "word": "沙一汀掉美颜",
+      "onboard_time": 1770960860,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 168663,
       "num": 151348,
       "word": "孙颖莎 E人的I人属性",
@@ -5745,6 +5809,14 @@
       "onboard_time": 1770654858,
       "rank": 14,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 167620,
+      "num": 146928,
+      "word": "小S晒开工照",
+      "onboard_time": 1770962420,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 166970,
@@ -6267,6 +6339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 149467,
+      "num": 146676,
+      "word": "魏大勋敢说我都不敢听",
+      "onboard_time": 1770959241,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 149323,
       "num": 228173,
       "word": "开心消消乐 甄嬛",
@@ -6763,6 +6843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 138311,
+      "num": 138311,
+      "word": "央视主持人的含金量还在上升",
+      "onboard_time": 1770957260,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 138273,
       "num": 138273,
       "word": "张本智和银牌",
@@ -6899,6 +6987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 135777,
+      "num": 146757,
+      "word": "家长回应女儿因神似敦煌美人走红",
+      "onboard_time": 1770959902,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135694,
       "num": 135694,
       "word": "iPhone安卓无缝换机",
@@ -6945,6 +7041,14 @@
       "onboard_time": 1770918016,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 134101,
+      "num": 134101,
+      "word": "29岁女子因怕过年失眠近1个月",
+      "onboard_time": 1770960200,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 133927,
@@ -7491,6 +7595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 122291,
+      "num": 122291,
+      "word": "AI替代不了付航是有原因的",
+      "onboard_time": 1770962780,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 122209,
       "num": 119930,
       "word": "tws回归预告封面没有韩振",
@@ -7811,14 +7923,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 116571,
-      "num": 106300,
-      "word": "央视主持人的含金量还在上升",
-      "onboard_time": 1770957260,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 116317,
       "num": 116317,
       "word": "HYBE冲击前的Kpop",
@@ -7832,6 +7936,14 @@
       "word": "妈妈外出3岁宝宝看店卖出一包烟",
       "onboard_time": 1770787160,
       "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116041,
+      "num": 116041,
+      "word": "尾号777777手机号拍出51.5万元",
+      "onboard_time": 1770957200,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -8136,6 +8248,14 @@
       "word": "吴克群说做自媒体拍吃喝很无聊",
       "onboard_time": 1770650660,
       "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 112262,
+      "num": 112262,
+      "word": "时代峰峻马场大户",
+      "onboard_time": 1770961939,
+      "rank": 33,
       "category": "艺人"
     },
     {
@@ -8627,14 +8747,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 107384,
-      "num": 107384,
-      "word": "微信 贴图",
-      "onboard_time": 1770958161,
-      "rank": 34,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 107331,
       "num": 107331,
       "word": "林孝埈冬奥会赛程",
@@ -8817,6 +8929,14 @@
       "onboard_time": 1770809601,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 104528,
+      "num": 145994,
+      "word": "家乡那家肯德基",
+      "onboard_time": 1770960800,
+      "rank": 23,
+      "category": "美食"
     },
     {
       "raw_hot": 104480,
@@ -11099,6 +11219,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 84574,
+      "num": 84574,
+      "word": "爸妈嘴里的大大方方",
+      "onboard_time": 1770962239,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 84521,
       "num": 84521,
       "word": "金价银价再转涨",
@@ -11297,14 +11425,6 @@
       "onboard_time": 1770822023,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 82880,
-      "num": 82880,
-      "word": "无锡威玛犬",
-      "onboard_time": 1770958581,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 82834,
@@ -11947,6 +12067,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 77843,
+      "num": 77843,
+      "word": "在韩国用中文训英国小狗",
+      "onboard_time": 1770962839,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 77809,
       "num": 77809,
       "word": "Selina说二胎顺其自然",
@@ -12331,6 +12459,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 74610,
+      "num": 74610,
+      "word": "章若楠感谢粉丝",
+      "onboard_time": 1770959419,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 74606,
       "num": 74606,
       "word": "生命树第2集回旋镖正中眉心",
@@ -12499,6 +12635,14 @@
       "category": "国际时政,动漫"
     },
     {
+      "raw_hot": 72184,
+      "num": 72184,
+      "word": "草莓用流水冲洗后就能吃",
+      "onboard_time": 1770959902,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 72128,
       "num": 72128,
       "word": "谷爱凌身边的东北甜妹是谁",
@@ -12545,6 +12689,14 @@
       "onboard_time": 1770902302,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 71923,
+      "num": 71923,
+      "word": "父母花了几十万装修的房子",
+      "onboard_time": 1770962721,
+      "rank": 48,
+      "category": "休闲"
     },
     {
       "raw_hot": 71851,
@@ -12704,14 +12856,6 @@
       "word": "时代峰峻的年会在马场",
       "onboard_time": 1770535400,
       "rank": 42,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 69725,
-      "num": 69725,
-      "word": "魏大勋敢说我都不敢听",
-      "onboard_time": 1770959241,
-      "rank": 49,
       "category": "综艺"
     },
     {
@@ -13755,6 +13899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 52968,
+      "num": 146483,
+      "word": "过年打麻将一场输赢超300就算赌博",
+      "onboard_time": 1770962239,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 52493,
       "num": 52493,
       "word": "苏翊鸣现场观看女子大跳台决赛",
@@ -14224,6 +14376,14 @@
       "word": "刘少昂米兰奥运村选pin",
       "onboard_time": 1770652760,
       "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 46210,
+      "num": 145670,
+      "word": "孙龙披国旗绕场后整整齐齐叠好",
+      "onboard_time": 1770961580,
+      "rank": 25,
       "category": "体育"
     },
     {
@@ -16128,6 +16288,14 @@
       "word": "北欧卖酱肉包情侣称最高日入2千",
       "onboard_time": 1770650363,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20509,
+      "num": 680850,
+      "word": "春节回家看老师",
+      "onboard_time": 1770951681,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
