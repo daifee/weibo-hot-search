@@ -1,0 +1,410 @@
+{
+  "runTime": 1770964614734,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1583868,
+        "num": 1583868,
+        "word": "中戏发生了什么",
+        "onboard_time": 1770961281,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 428786,
+        "num": 917077,
+        "word": "公司利润2.7亿拿1.8亿发年终奖",
+        "onboard_time": 1770954501,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24850,
+        "num": 740178,
+        "word": "春节回家看老师",
+        "onboard_time": 1770951681,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 279691,
+        "num": 279691,
+        "word": "中戏已有两位表演系主任主动投案",
+        "onboard_time": 1770951980,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 278394,
+        "num": 278394,
+        "word": "湛江一海滩发现疑似儒艮尸体",
+        "onboard_time": 1770955339,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 258987,
+        "num": 258987,
+        "word": "丞磊王楚然 京洛再无佳人",
+        "onboard_time": 1770956540,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 254768,
+        "num": 254768,
+        "word": "爸妈嘴里的大大方方",
+        "onboard_time": 1770962239,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 234531,
+        "num": 234531,
+        "word": "王菲 春晚",
+        "onboard_time": 1770953061,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222424,
+        "num": 222424,
+        "word": "微信 贴图",
+        "onboard_time": 1770958161,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 214759,
+        "num": 214759,
+        "word": "父母花了几十万装修的房子",
+        "onboard_time": 1770962721,
+        "rank": 9,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 660686,
+        "num": 208632,
+        "word": "前女友送的40克银镯子内含30克黄金",
+        "onboard_time": 1770958340,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 388591,
+        "num": 199994,
+        "word": "医院一天接诊30多例性早熟儿童",
+        "onboard_time": 1770959902,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 364444,
+        "num": 180397,
+        "word": "小S晒开工照",
+        "onboard_time": 1770962420,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 325559,
+        "num": 169225,
+        "word": "董璇被自己以前说过的话恶心到了",
+        "onboard_time": 1770962060,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164823,
+        "num": 164823,
+        "word": "王鑫被查",
+        "onboard_time": 1770950660,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 279814,
+        "num": 164625,
+        "word": "周柯宇陈妍希情人节封面",
+        "onboard_time": 1770962060,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 226936,
+        "num": 160191,
+        "word": "白鹿李昀锐春晚造型",
+        "onboard_time": 1770964400,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145328,
+        "num": 145328,
+        "word": "TTG对战DYG",
+        "onboard_time": 1770963680,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 142434,
+        "num": 142434,
+        "word": "我的妈妈是校花开播",
+        "onboard_time": 1770956540,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158230,
+        "num": 142150,
+        "word": "沙一汀掉美颜",
+        "onboard_time": 1770960860,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234073,
+        "num": 141928,
+        "word": "女演员曾公开称美国上流精英吃婴儿",
+        "onboard_time": 1770948739,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 284461,
+        "num": 141685,
+        "word": "橹穆双人卡",
+        "onboard_time": 1770954681,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265250,
+        "num": 141328,
+        "word": "小酒窝朵朵三亚度假",
+        "onboard_time": 1770956181,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77544,
+        "num": 141113,
+        "word": "家乡那家肯德基",
+        "onboard_time": 1770960800,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 126639,
+        "num": 140584,
+        "word": "家长回应女儿因神似敦煌美人走红",
+        "onboard_time": 1770959902,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166497,
+        "num": 140430,
+        "word": "无锡威玛犬",
+        "onboard_time": 1770958581,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140174,
+        "num": 140174,
+        "word": "内娱穿裙子跑酷的女主来了",
+        "onboard_time": 1770961520,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137357,
+        "num": 137357,
+        "word": "明星红包分组",
+        "onboard_time": 1770953901,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122870,
+        "num": 122870,
+        "word": "交警查酒驾意外见家长一秒脸红",
+        "onboard_time": 1770953781,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88393,
+        "num": 121048,
+        "word": "春节前夕中央领导同志看望老同志",
+        "onboard_time": 1770963320,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 134707,
+        "num": 120934,
+        "word": "魏大勋敢说我都不敢听",
+        "onboard_time": 1770959241,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120547,
+        "num": 120547,
+        "word": "A股",
+        "onboard_time": 1770964039,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 115521,
+        "num": 115521,
+        "word": "爹 生了两个活爹",
+        "onboard_time": 1770963141,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 115238,
+        "num": 115238,
+        "word": "魏晨你是住在央视了吗",
+        "onboard_time": 1770964341,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106334,
+        "num": 106334,
+        "word": "王橹杰 祝你永远闪烁",
+        "onboard_time": 1770963921,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98642,
+        "num": 98642,
+        "word": "29岁女子因怕过年失眠近1个月",
+        "onboard_time": 1770960200,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97571,
+        "num": 97571,
+        "word": "在韩国用中文训英国小狗",
+        "onboard_time": 1770962839,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 52008,
+        "num": 94073,
+        "word": "中方就日本选举提出极严厉预警",
+        "onboard_time": 1770963860,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 93205,
+        "num": 93205,
+        "word": "王鑫生万物戏份仍在",
+        "onboard_time": 1770963621,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19791,
+        "num": 88154,
+        "word": "记者调查泰山脚下的石头禁寄",
+        "onboard_time": 1770963560,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86447,
+        "num": 86447,
+        "word": "东北过年的紧迫感",
+        "onboard_time": 1770964220,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 79010,
+        "num": 79010,
+        "word": "章若楠感谢粉丝",
+        "onboard_time": 1770959419,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78238,
+        "num": 78238,
+        "word": "伴侣感染HPV是不干净吗",
+        "onboard_time": 1770956421,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 75302,
+        "num": 75302,
+        "word": "白日提灯",
+        "onboard_time": 1770950719,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72082,
+        "num": 72082,
+        "word": "尾号777777手机号拍出51.5万元",
+        "onboard_time": 1770957200,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71564,
+        "num": 71564,
+        "word": "BLACKPINK新专配置公开",
+        "onboard_time": 1770951381,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 70493,
+        "num": 70493,
+        "word": "金银铜全线上涨",
+        "onboard_time": 1770957441,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 69884,
+        "num": 69884,
+        "word": "孙龙哽咽是我的问题我承认",
+        "onboard_time": 1770953539,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 68675,
+        "num": 68675,
+        "word": "方家翊整容",
+        "onboard_time": 1770952940,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66172,
+        "num": 66172,
+        "word": "浙江卫视关注了TF四代",
+        "onboard_time": 1770963500,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记一起品味年俗文化#"
+    }
+  }
+}

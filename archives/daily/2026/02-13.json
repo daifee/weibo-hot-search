@@ -1,7 +1,15 @@
 {
   "startTime": 1770912100688,
-  "endTime": 1770962936259,
+  "endTime": 1770964614734,
   "band_list": [
+    {
+      "raw_hot": 1583868,
+      "num": 1583868,
+      "word": "中戏发生了什么",
+      "onboard_time": 1770961281,
+      "rank": 0,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 1459168,
       "num": 517864,
@@ -16,14 +24,6 @@
       "word": "王鑫被查",
       "onboard_time": 1770950660,
       "rank": 10,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1123574,
-      "num": 1179771,
-      "word": "中戏发生了什么",
-      "onboard_time": 1770961281,
-      "rank": 0,
       "category": "民生新闻"
     },
     {
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 696239,
-      "num": 180002,
+      "num": 208632,
       "word": "前女友送的40克银镯子内含30克黄金",
       "onboard_time": 1770958340,
       "rank": 13,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 457259,
-      "num": 176555,
+      "num": 199994,
       "word": "医院一天接诊30多例性早熟儿童",
       "onboard_time": 1770959902,
       "rank": 11,
@@ -169,6 +169,14 @@
       "onboard_time": 1770949999,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 364444,
+      "num": 180397,
+      "word": "小S晒开工照",
+      "onboard_time": 1770962420,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 360120,
@@ -201,6 +209,14 @@
       "onboard_time": 1770908540,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 325559,
+      "num": 169225,
+      "word": "董璇被自己以前说过的话恶心到了",
+      "onboard_time": 1770962060,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 319491,
@@ -283,6 +299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 279814,
+      "num": 168058,
+      "word": "周柯宇陈妍希情人节封面",
+      "onboard_time": 1770962060,
+      "rank": 12,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 278838,
       "num": 140620,
       "word": "虞书欣衣帽间",
@@ -305,6 +329,14 @@
       "onboard_time": 1770953901,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 254768,
+      "num": 254768,
+      "word": "爸妈嘴里的大大方方",
+      "onboard_time": 1770962239,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 252689,
@@ -355,6 +387,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 226936,
+      "num": 160191,
+      "word": "白鹿李昀锐春晚造型",
+      "onboard_time": 1770964400,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 223424,
       "num": 129578,
       "word": "炎亚纶自曝通过吴尊传话",
@@ -385,6 +425,14 @@
       "onboard_time": 1770937877,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 214759,
+      "num": 214759,
+      "word": "父母花了几十万装修的房子",
+      "onboard_time": 1770962721,
+      "rank": 48,
+      "category": "休闲"
     },
     {
       "raw_hot": 209053,
@@ -435,28 +483,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 200070,
-      "num": 168058,
-      "word": "周柯宇陈妍希情人节封面",
-      "onboard_time": 1770962060,
-      "rank": 12,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 198248,
       "num": 145837,
       "word": "内娱穿裙子跑酷的女主来了",
       "onboard_time": 1770961520,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 197206,
-      "num": 151112,
-      "word": "董璇被自己以前说过的话恶心到了",
-      "onboard_time": 1770962060,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 196860,
@@ -595,14 +627,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 167620,
-      "num": 146928,
-      "word": "小S晒开工照",
-      "onboard_time": 1770962420,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 166636,
       "num": 166636,
       "word": "刘少昂好稳",
@@ -705,6 +729,14 @@
       "onboard_time": 1770942679,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 145328,
+      "num": 145328,
+      "word": "TTG对战DYG",
+      "onboard_time": 1770963680,
+      "rank": 17,
+      "category": "电竞"
     },
     {
       "raw_hot": 144519,
@@ -859,6 +891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 120547,
+      "num": 120547,
+      "word": "A股",
+      "onboard_time": 1770964039,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
       "raw_hot": 119557,
       "num": 94972,
       "word": "刘耀文哄宋亚轩",
@@ -907,6 +947,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 115521,
+      "num": 115521,
+      "word": "爹 生了两个活爹",
+      "onboard_time": 1770963141,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 115238,
+      "num": 115238,
+      "word": "魏晨你是住在央视了吗",
+      "onboard_time": 1770964341,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 114409,
       "num": 114409,
       "word": "刘少昂1000米无缘决赛",
@@ -945,6 +1001,14 @@
       "onboard_time": 1770951919,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 106334,
+      "num": 106334,
+      "word": "王橹杰 祝你永远闪烁",
+      "onboard_time": 1770963921,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 105084,
@@ -1051,6 +1115,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 97571,
+      "num": 97571,
+      "word": "在韩国用中文训英国小狗",
+      "onboard_time": 1770962839,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 96750,
       "num": 96750,
       "word": "印度要买114架阵风",
@@ -1072,6 +1144,14 @@
       "word": "李一桐陈雀儿好美",
       "onboard_time": 1770951080,
       "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 93205,
+      "num": 93205,
+      "word": "王鑫生万物戏份仍在",
+      "onboard_time": 1770963621,
+      "rank": 38,
       "category": "剧集"
     },
     {
@@ -1115,6 +1195,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 88393,
+      "num": 121048,
+      "word": "春节前夕中央领导同志看望老同志",
+      "onboard_time": 1770963320,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 86447,
+      "num": 86447,
+      "word": "东北过年的紧迫感",
+      "onboard_time": 1770964220,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 85616,
       "num": 85616,
       "word": "严浩翔贺峻霖抽到同一条红绳",
@@ -1137,14 +1233,6 @@
       "onboard_time": 1770955880,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 84574,
-      "num": 84574,
-      "word": "爸妈嘴里的大大方方",
-      "onboard_time": 1770962239,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 84521,
@@ -1179,20 +1267,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 79010,
+      "num": 79010,
+      "word": "章若楠感谢粉丝",
+      "onboard_time": 1770959419,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 78471,
       "num": 78471,
       "word": "网友称绿皮车太热乘务员开窗又关上",
       "onboard_time": 1770952521,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 77843,
-      "num": 77843,
-      "word": "在韩国用中文训英国小狗",
-      "onboard_time": 1770962839,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 76634,
@@ -1243,14 +1331,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 74610,
-      "num": 74610,
-      "word": "章若楠感谢粉丝",
-      "onboard_time": 1770959419,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 74048,
       "num": 74048,
       "word": "王濛精准预判有新的纪录产生",
@@ -1265,14 +1345,6 @@
       "onboard_time": 1770959902,
       "rank": 47,
       "category": "美食"
-    },
-    {
-      "raw_hot": 71923,
-      "num": 71923,
-      "word": "父母花了几十万装修的房子",
-      "onboard_time": 1770962721,
-      "rank": 48,
-      "category": "休闲"
     },
     {
       "raw_hot": 71636,
@@ -1336,6 +1408,14 @@
       "word": "杨幂校花学姐",
       "onboard_time": 1770890959,
       "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 66172,
+      "num": 66172,
+      "word": "浙江卫视关注了TF四代",
+      "onboard_time": 1770963500,
+      "rank": 49,
       "category": "艺人"
     },
     {
@@ -1537,6 +1617,14 @@
       "onboard_time": 1770962239,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 52008,
+      "num": 94073,
+      "word": "中方就日本选举提出极严厉预警",
+      "onboard_time": 1770963860,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 49994,
@@ -1795,6 +1883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 24850,
+      "num": 740178,
+      "word": "春节回家看老师",
+      "onboard_time": 1770951681,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24609,
       "num": 60293,
       "word": "武绍桐U池首轮67.75分",
@@ -1835,14 +1931,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 20509,
-      "num": 680850,
-      "word": "春节回家看老师",
-      "onboard_time": 1770951681,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 20493,
       "num": 20493,
       "word": "崔佳恩摔得好重",
@@ -1873,6 +1961,14 @@
       "onboard_time": 1770936735,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 19791,
+      "num": 88154,
+      "word": "记者调查泰山脚下的石头禁寄",
+      "onboard_time": 1770963560,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19638,

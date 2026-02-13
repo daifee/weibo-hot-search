@@ -1,6 +1,6 @@
 {
   "startTime": 1770482461321,
-  "endTime": 1770962936259,
+  "endTime": 1770964614734,
   "band_list": [
     {
       "raw_hot": 7279878,
@@ -123,6 +123,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1583868,
+      "num": 1583868,
+      "word": "中戏发生了什么",
+      "onboard_time": 1770961281,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1559474,
       "num": 1559474,
       "word": "易炼红被查",
@@ -225,14 +233,6 @@
       "onboard_time": 1770880820,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1123574,
-      "num": 1179771,
-      "word": "中戏发生了什么",
-      "onboard_time": 1770961281,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1123563,
@@ -756,7 +756,7 @@
     },
     {
       "raw_hot": 696239,
-      "num": 180002,
+      "num": 208632,
       "word": "前女友送的40克银镯子内含30克黄金",
       "onboard_time": 1770958340,
       "rank": 13,
@@ -1708,7 +1708,7 @@
     },
     {
       "raw_hot": 457259,
-      "num": 176555,
+      "num": 199994,
       "word": "医院一天接诊30多例性早熟儿童",
       "onboard_time": 1770959902,
       "rank": 11,
@@ -2515,6 +2515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 364444,
+      "num": 180397,
+      "word": "小S晒开工照",
+      "onboard_time": 1770962420,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 363985,
       "num": 338333,
       "word": "高市将继续执政",
@@ -2873,6 +2881,14 @@
       "onboard_time": 1770777798,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 325559,
+      "num": 169225,
+      "word": "董璇被自己以前说过的话恶心到了",
+      "onboard_time": 1770962060,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 324080,
@@ -3523,6 +3539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 279814,
+      "num": 168058,
+      "word": "周柯宇陈妍希情人节封面",
+      "onboard_time": 1770962060,
+      "rank": 12,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 278838,
       "num": 140620,
       "word": "虞书欣衣帽间",
@@ -3865,6 +3889,14 @@
       "onboard_time": 1770859999,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 254768,
+      "num": 254768,
+      "word": "爸妈嘴里的大大方方",
+      "onboard_time": 1770962239,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 254557,
@@ -4355,6 +4387,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 226936,
+      "num": 160191,
+      "word": "白鹿李昀锐春晚造型",
+      "onboard_time": 1770964400,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 226751,
       "num": 226751,
       "word": "台当局胆敢在春节挑事必担恶果",
@@ -4673,6 +4713,14 @@
       "onboard_time": 1770522740,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 214759,
+      "num": 214759,
+      "word": "父母花了几十万装修的房子",
+      "onboard_time": 1770962721,
+      "rank": 48,
+      "category": "休闲"
     },
     {
       "raw_hot": 214699,
@@ -5019,14 +5067,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 200070,
-      "num": 168058,
-      "word": "周柯宇陈妍希情人节封面",
-      "onboard_time": 1770962060,
-      "rank": 12,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 199956,
       "num": 180084,
       "word": "TF四代开机应援",
@@ -5097,14 +5137,6 @@
       "onboard_time": 1770784941,
       "rank": 18,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 197206,
-      "num": 151112,
-      "word": "董璇被自己以前说过的话恶心到了",
-      "onboard_time": 1770962060,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 197063,
@@ -5811,14 +5843,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 167620,
-      "num": 146928,
-      "word": "小S晒开工照",
-      "onboard_time": 1770962420,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 166970,
       "num": 146503,
       "word": "蒲熠星突然发现单条微博不能超2000字",
@@ -6513,6 +6537,14 @@
       "onboard_time": 1770785301,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 145328,
+      "num": 145328,
+      "word": "TTG对战DYG",
+      "onboard_time": 1770963680,
+      "rank": 17,
+      "category": "电竞"
     },
     {
       "raw_hot": 144519,
@@ -7635,6 +7667,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 120547,
+      "num": 120547,
+      "word": "A股",
+      "onboard_time": 1770964039,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
       "raw_hot": 120319,
       "num": 120319,
       "word": "山东金矿事故致7死11人被控制",
@@ -8003,6 +8043,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 115521,
+      "num": 115521,
+      "word": "爹 生了两个活爹",
+      "onboard_time": 1770963141,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 115472,
       "num": 115472,
       "word": "山姆你还续卡吗",
@@ -8049,6 +8097,14 @@
       "onboard_time": 1770900382,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 115238,
+      "num": 115238,
+      "word": "魏晨你是住在央视了吗",
+      "onboard_time": 1770964341,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 115130,
@@ -8817,6 +8873,14 @@
       "onboard_time": 1770603019,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 106334,
+      "num": 106334,
+      "word": "王橹杰 祝你永远闪烁",
+      "onboard_time": 1770963921,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 106052,
@@ -9691,6 +9755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 97571,
+      "num": 97571,
+      "word": "在韩国用中文训英国小狗",
+      "onboard_time": 1770962839,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 97527,
       "num": 97527,
       "word": "博主保罗妻子回应分娩视频争议",
@@ -10169,6 +10241,14 @@
       "onboard_time": 1770610400,
       "rank": 45,
       "category": "财经"
+    },
+    {
+      "raw_hot": 93205,
+      "num": 93205,
+      "word": "王鑫生万物戏份仍在",
+      "onboard_time": 1770963621,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 93202,
@@ -10715,6 +10795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 88393,
+      "num": 121048,
+      "word": "春节前夕中央领导同志看望老同志",
+      "onboard_time": 1770963320,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 88391,
       "num": 88391,
       "word": "过年回村前VS回村后",
@@ -10971,6 +11059,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 86447,
+      "num": 86447,
+      "word": "东北过年的紧迫感",
+      "onboard_time": 1770964220,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 86408,
       "num": 82559,
       "word": "春节档预售票房",
@@ -11217,14 +11313,6 @@
       "onboard_time": 1770679036,
       "rank": 31,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 84574,
-      "num": 84574,
-      "word": "爸妈嘴里的大大方方",
-      "onboard_time": 1770962239,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 84521,
@@ -11963,6 +12051,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 79010,
+      "num": 79010,
+      "word": "章若楠感谢粉丝",
+      "onboard_time": 1770959419,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 78989,
       "num": 100405,
       "word": "王艳与儿子合体大片",
@@ -12065,14 +12161,6 @@
       "onboard_time": 1770775999,
       "rank": 29,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 77843,
-      "num": 77843,
-      "word": "在韩国用中文训英国小狗",
-      "onboard_time": 1770962839,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 77809,
@@ -12459,14 +12547,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 74610,
-      "num": 74610,
-      "word": "章若楠感谢粉丝",
-      "onboard_time": 1770959419,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 74606,
       "num": 74606,
       "word": "生命树第2集回旋镖正中眉心",
@@ -12689,14 +12769,6 @@
       "onboard_time": 1770902302,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 71923,
-      "num": 71923,
-      "word": "父母花了几十万装修的房子",
-      "onboard_time": 1770962721,
-      "rank": 48,
-      "category": "休闲"
     },
     {
       "raw_hot": 71851,
@@ -13136,6 +13208,14 @@
       "word": "于适让C位失败后表情",
       "onboard_time": 1770715160,
       "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 66172,
+      "num": 66172,
+      "word": "浙江卫视关注了TF四代",
+      "onboard_time": 1770963500,
+      "rank": 49,
       "category": "艺人"
     },
     {
@@ -13929,6 +14009,14 @@
       "onboard_time": 1770507497,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 52008,
+      "num": 94073,
+      "word": "中方就日本选举提出极严厉预警",
+      "onboard_time": 1770963860,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 51947,
@@ -15931,6 +16019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 24850,
+      "num": 740178,
+      "word": "春节回家看老师",
+      "onboard_time": 1770951681,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24776,
       "num": 148979,
       "word": "日本军备70年三连跳",
@@ -16291,14 +16387,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 20509,
-      "num": 680850,
-      "word": "春节回家看老师",
-      "onboard_time": 1770951681,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 20493,
       "num": 20493,
       "word": "崔佳恩摔得好重",
@@ -16361,6 +16449,14 @@
       "onboard_time": 1770936735,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 19791,
+      "num": 88154,
+      "word": "记者调查泰山脚下的石头禁寄",
+      "onboard_time": 1770963560,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19736,
