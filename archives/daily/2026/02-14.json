@@ -1,6 +1,6 @@
 {
   "startTime": 1770998880163,
-  "endTime": 1771010137083,
+  "endTime": 1771012220266,
   "band_list": [
     {
       "raw_hot": 4412806,
@@ -515,6 +515,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 18035,
+      "num": 19390,
+      "word": "yushi六代男豆首支百万饭拍",
+      "onboard_time": 1771010054,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 17506,
       "num": 19442,
       "word": "白幼薇的MVP结算画面",
@@ -523,12 +531,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 15230,
-      "num": 19390,
-      "word": "yushi六代男豆首支百万饭拍",
-      "onboard_time": 1771010054,
-      "rank": 46,
-      "category": "音乐"
+      "raw_hot": 15799,
+      "num": 14284,
+      "word": "陈文浩第三滑55秒96",
+      "onboard_time": 1771011855,
+      "rank": 49,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
