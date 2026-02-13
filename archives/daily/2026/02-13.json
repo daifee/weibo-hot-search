@@ -1,10 +1,10 @@
 {
   "startTime": 1770912100688,
-  "endTime": 1770994241719,
+  "endTime": 1770995379320,
   "band_list": [
     {
-      "raw_hot": 8474543,
-      "num": 8474543,
+      "raw_hot": 8690838,
+      "num": 8690838,
       "word": "白敬亭 宋轶",
       "onboard_time": 1770992123,
       "rank": 20,
@@ -123,7 +123,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 680762,
+      "raw_hot": 682104,
       "num": 826012,
       "word": "女子幽门螺杆菌阳性3年后查出胃癌",
       "onboard_time": 1770992422,
@@ -555,20 +555,20 @@
       "category": "互联网,民生新闻"
     },
     {
+      "raw_hot": 297932,
+      "num": 297932,
+      "word": "三亚通报8499元订民宿被临时毁约",
+      "onboard_time": 1770990681,
+      "rank": 3,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 297557,
       "num": 408548,
       "word": "连续五年都没有年三十",
       "onboard_time": 1770910761,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 295829,
-      "num": 295829,
-      "word": "三亚通报8499元订民宿被临时毁约",
-      "onboard_time": 1770990681,
-      "rank": 3,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 290474,
@@ -1267,19 +1267,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 146996,
+      "num": 146996,
+      "word": "冰壶",
+      "onboard_time": 1770983422,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 144519,
       "num": 144519,
       "word": "林孝埈状态",
       "onboard_time": 1770939077,
       "rank": 42,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 144366,
-      "num": 144366,
-      "word": "冰壶",
-      "onboard_time": 1770983422,
-      "rank": 23,
       "category": "体育"
     },
     {
@@ -1305,6 +1305,14 @@
       "onboard_time": 1770985341,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 140716,
+      "num": 115588,
+      "word": "生命树 敢拍",
+      "onboard_time": 1770993683,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 140677,
@@ -1481,6 +1489,14 @@
       "onboard_time": 1770896420,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127515,
+      "num": 109194,
+      "word": "颜人中演唱会延迟1小时送1场",
+      "onboard_time": 1770992663,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 127156,
@@ -1787,14 +1803,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 106788,
-      "num": 106788,
-      "word": "颜人中演唱会延迟1小时送1场",
-      "onboard_time": 1770992663,
-      "rank": 31,
-      "category": "演出"
-    },
-    {
       "raw_hot": 106753,
       "num": 106753,
       "word": "车厘子或痛失年货水果头把交椅",
@@ -1833,6 +1841,14 @@
       "onboard_time": 1770967460,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 104741,
+      "num": 135749,
+      "word": "发1.8亿企业员工现场数钱画面曝光",
+      "onboard_time": 1770993083,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104528,
@@ -2107,14 +2123,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 91436,
-      "num": 91436,
-      "word": "生命树 敢拍",
-      "onboard_time": 1770993683,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 91275,
       "num": 91275,
       "word": "陆虎老人味溢出屏幕",
@@ -2323,6 +2331,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 81218,
+      "num": 81218,
+      "word": "沈梦辰芒果年会上的发言",
+      "onboard_time": 1770995182,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 81055,
       "num": 81055,
       "word": "张函瑞高会语音",
@@ -2483,6 +2499,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 74774,
+      "num": 74774,
+      "word": "童星叮当称关晓彤火是应该的",
+      "onboard_time": 1770994523,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 74642,
       "num": 74642,
       "word": "迪丽热巴陈飞宇主演白日提灯",
@@ -2547,6 +2571,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 71846,
+      "num": 71846,
+      "word": "张峻豪直播",
+      "onboard_time": 1770994343,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 71636,
       "num": 71636,
       "word": "潮汕英歌舞到底有多震撼",
@@ -2579,11 +2611,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 70892,
-      "num": 135749,
-      "word": "发1.8亿企业员工现场数钱画面曝光",
-      "onboard_time": 1770993083,
-      "rank": 19,
+      "raw_hot": 69153,
+      "num": 69153,
+      "word": "重庆江心岛近600年佛像露出水面",
+      "onboard_time": 1770995302,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -3363,8 +3395,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 21903,
+      "num": 115596,
+      "word": "各大AI春节前密集更新",
+      "onboard_time": 1770994283,
+      "rank": 19,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 21460,
-      "num": 667484,
+      "num": 677143,
       "word": "回家路上随手拍",
       "onboard_time": 1770990501,
       "rank": 2,
@@ -3545,6 +3585,14 @@
       "onboard_time": 1770965480,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 7159,
+      "num": 136215,
+      "word": "微博之夜品牌与星光双向奔赴",
+      "onboard_time": 1770994881,
+      "rank": 14,
+      "category": "作品衍生"
     }
   ],
   "hotgov_list": [

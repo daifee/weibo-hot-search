@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1770994241719,
+  "endTime": 1770995379320,
   "band_list": [
     {
       "raw_hot": 22742360,
@@ -131,19 +131,19 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 8690838,
+      "num": 8690838,
+      "word": "白敬亭 宋轶",
+      "onboard_time": 1770992123,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 8542912,
       "num": 8542912,
       "word": "曝金晨肇事逃逸",
       "onboard_time": 1769659642,
       "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 8474543,
-      "num": 8474543,
-      "word": "白敬亭 宋轶",
-      "onboard_time": 1770992123,
-      "rank": 20,
       "category": "艺人"
     },
     {
