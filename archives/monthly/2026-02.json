@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1771012220266,
+  "endTime": 1771012775314,
   "band_list": [
     {
       "raw_hot": 12386962,
@@ -38865,6 +38865,14 @@
       "onboard_time": 1770457582,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12657,
+      "num": 16151,
+      "word": "马克龙手上的中国葡萄酒什么来头",
+      "onboard_time": 1770983900,
+      "rank": 48,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 12653,
