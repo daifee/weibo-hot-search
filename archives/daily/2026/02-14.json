@@ -1,6 +1,6 @@
 {
   "startTime": 1770998880163,
-  "endTime": 1771009276481,
+  "endTime": 1771010137083,
   "band_list": [
     {
       "raw_hot": 4412806,
@@ -516,11 +516,19 @@
     },
     {
       "raw_hot": 17506,
-      "num": 17506,
+      "num": 19442,
       "word": "白幼薇的MVP结算画面",
       "onboard_time": 1771006815,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 15230,
+      "num": 19390,
+      "word": "yushi六代男豆首支百万饭拍",
+      "onboard_time": 1771010054,
+      "rank": 46,
+      "category": "音乐"
     }
   ],
   "hotgov_list": [
