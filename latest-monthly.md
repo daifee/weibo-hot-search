@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/02/01 00:39:22 ~ 2026/02/13 23:09:39
+本榜单时间：2026/02/01 00:39:22 ~ 2026/02/13 23:52:50
 </p>
 </blockquote>
 <p>
@@ -1539,6 +1539,12 @@ TOP不解散不单飞（热度：983065）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%B9%BD%E9%97%A8%E8%9E%BA%E6%9D%86%E8%8F%8C%E9%98%B3%E6%80%A73%E5%B9%B4%E5%90%8E%E6%9F%A5%E5%87%BA%E8%83%83%E7%99%8C%23" target="weibo">
+女子幽门螺杆菌阳性3年后查出胃癌（热度：717452）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B1%86%E7%93%A3%E5%B4%A9%E4%BA%86%23" target="weibo">
 豆瓣崩了（热度：716305）
 </a>
@@ -1749,12 +1755,6 @@ Angelababy兔耳朵撕拉片（热度：700852）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%B9%BD%E9%97%A8%E8%9E%BA%E6%9D%86%E8%8F%8C%E9%98%B3%E6%80%A73%E5%B9%B4%E5%90%8E%E6%9F%A5%E5%87%BA%E8%83%83%E7%99%8C%23" target="weibo">
-女子幽门螺杆菌阳性3年后查出胃癌（热度：682104）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%91%B6%E4%B8%80%E7%91%B6%E6%91%86%E6%8B%8D%E5%90%8E%E4%B8%80%E5%B9%B4%E6%8E%89%E7%B2%89%E8%BF%91120%E4%B8%87%23" target="weibo">
 瑶一瑶摆拍后一年掉粉近120万（热度：681675）
 </a>
@@ -1889,6 +1889,12 @@ Angelababy兔耳朵撕拉片（热度：700852）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E6%9A%97%E7%A4%BA%E5%85%8B%E6%9E%97%E9%A1%BF%E7%9B%96%E8%8C%A8%E7%AD%89%E4%BA%BA%E6%9C%89%E7%BD%AA%23" target="weibo">
 马斯克暗示克林顿盖茨等人有罪（热度：647010）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%83%85%E4%BA%BA%E8%8A%82%23" target="weibo">
+情人节（热度：646979）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ Deepseek被指变冷淡了（热度：298484）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E5%A4%9A%E6%89%80%E9%AB%98%E6%A0%A1%E6%94%B6%E5%88%B0%E5%A4%A7%E9%87%8F0.01%E5%85%83%E6%8D%90%E6%AC%BE%23" target="weibo">
 湖南多所高校收到大量0.01元捐款（热度：298229）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BB%8EDeepseek%E5%88%B0Seedance%E4%B8%AD%E5%9B%BDAI%E6%88%90%E4%BA%86%23" target="weibo">
-从Deepseek到Seedance中国AI成了（热度：298088）
 </a>
 </li>
 

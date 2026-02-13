@@ -1,6 +1,6 @@
 {
   "startTime": 1770912100688,
-  "endTime": 1770995379320,
+  "endTime": 1770997970898,
   "band_list": [
     {
       "raw_hot": 8690838,
@@ -107,6 +107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 717452,
+      "num": 826012,
+      "word": "女子幽门螺杆菌阳性3年后查出胃癌",
+      "onboard_time": 1770992422,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 700852,
       "num": 168991,
       "word": "Angelababy兔耳朵撕拉片",
@@ -123,20 +131,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 682104,
-      "num": 826012,
-      "word": "女子幽门螺杆菌阳性3年后查出胃癌",
-      "onboard_time": 1770992422,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 671666,
       "num": 318432,
       "word": "丞磊在飞机上帮王楚然剔牙",
       "onboard_time": 1770909261,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 646979,
+      "num": 155020,
+      "word": "情人节",
+      "onboard_time": 1770996381,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 602062,
@@ -827,6 +835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 213645,
+      "num": 213645,
+      "word": "生命树 敢拍",
+      "onboard_time": 1770993683,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 209525,
       "num": 139300,
       "word": "王星越白鹿居家风合照",
@@ -937,6 +953,14 @@
       "onboard_time": 1770905001,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 187125,
+      "num": 187125,
+      "word": "冰壶",
+      "onboard_time": 1770983422,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 186268,
@@ -1088,6 +1112,14 @@
       "word": "吉林卫视春晚",
       "onboard_time": 1770982940,
       "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 170770,
+      "num": 170770,
+      "word": "沈梦辰芒果年会上的发言",
+      "onboard_time": 1770995182,
+      "rank": 39,
       "category": "综艺"
     },
     {
@@ -1267,14 +1299,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 146996,
-      "num": 146996,
-      "word": "冰壶",
-      "onboard_time": 1770983422,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 144519,
       "num": 144519,
       "word": "林孝埈状态",
@@ -1305,14 +1329,6 @@
       "onboard_time": 1770985341,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 140716,
-      "num": 115588,
-      "word": "生命树 敢拍",
-      "onboard_time": 1770993683,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 140677,
@@ -1353,6 +1369,14 @@
       "onboard_time": 1770957260,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 136012,
+      "num": 115662,
+      "word": "颜人中演唱会延迟1小时送1场",
+      "onboard_time": 1770992663,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 135794,
@@ -1491,19 +1515,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 127515,
-      "num": 109194,
-      "word": "颜人中演唱会延迟1小时送1场",
-      "onboard_time": 1770992663,
-      "rank": 31,
-      "category": "演出"
-    },
-    {
       "raw_hot": 127156,
       "num": 62141,
       "word": "35年前乳汁救武警今患癌红嫂回应",
       "onboard_time": 1770912860,
       "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126897,
+      "num": 126897,
+      "word": "男子出手2700克金条5年净赚196万",
+      "onboard_time": 1770995483,
+      "rank": 16,
       "category": "民生新闻"
     },
     {
@@ -1612,7 +1636,7 @@
     },
     {
       "raw_hot": 117962,
-      "num": 98478,
+      "num": 98722,
       "word": "Bin晒侧脸照",
       "onboard_time": 1770993024,
       "rank": 35,
@@ -1633,6 +1657,14 @@
       "onboard_time": 1770947180,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 117512,
+      "num": 117512,
+      "word": "泰山 禁石令",
+      "onboard_time": 1770995422,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 117382,
@@ -1721,6 +1753,14 @@
       "onboard_time": 1770976039,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 113301,
+      "num": 135749,
+      "word": "发1.8亿企业员工现场数钱画面曝光",
+      "onboard_time": 1770993083,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112262,
@@ -1841,14 +1881,6 @@
       "onboard_time": 1770967460,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 104741,
-      "num": 135749,
-      "word": "发1.8亿企业员工现场数钱画面曝光",
-      "onboard_time": 1770993083,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 104528,
@@ -1979,6 +2011,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 97928,
+      "num": 97928,
+      "word": "最强大脑",
+      "onboard_time": 1770990923,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 97764,
       "num": 97764,
       "word": "徐梦桃已抵达米兰冬奥村",
@@ -2067,6 +2107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 93821,
+      "num": 93821,
+      "word": "张函瑞单人cha纪录",
+      "onboard_time": 1770997042,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 93418,
       "num": 168447,
       "word": "沙特空军第一款隐身战机来自中国",
@@ -2089,14 +2137,6 @@
       "onboard_time": 1770951080,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 92820,
-      "num": 92820,
-      "word": "最强大脑",
-      "onboard_time": 1770990923,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 92575,
@@ -2283,6 +2323,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 83945,
+      "num": 83945,
+      "word": "全球最大航母驶向中东",
+      "onboard_time": 1770996861,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 83060,
       "num": 83060,
       "word": "小猫因为剪指甲干架没干过",
@@ -2329,14 +2377,6 @@
       "onboard_time": 1770969800,
       "rank": 47,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 81218,
-      "num": 81218,
-      "word": "沈梦辰芒果年会上的发言",
-      "onboard_time": 1770995182,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 81055,
@@ -2427,6 +2467,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 77797,
+      "num": 77797,
+      "word": "年夜饭这些肉最好别上桌",
+      "onboard_time": 1770996261,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77437,
       "num": 83516,
       "word": "全国养宠人都在等除夕",
@@ -2449,6 +2497,22 @@
       "onboard_time": 1770984861,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 76783,
+      "num": 76783,
+      "word": "童星叮当称关晓彤火是应该的",
+      "onboard_time": 1770994523,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 76750,
+      "num": 76749,
+      "word": "重庆江心岛近600年佛像露出水面",
+      "onboard_time": 1770995302,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 76634,
@@ -2497,14 +2561,6 @@
       "onboard_time": 1770982460,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 74774,
-      "num": 74774,
-      "word": "童星叮当称关晓彤火是应该的",
-      "onboard_time": 1770994523,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 74642,
@@ -2611,12 +2667,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 69153,
-      "num": 69153,
-      "word": "重庆江心岛近600年佛像露出水面",
-      "onboard_time": 1770995302,
-      "rank": 46,
-      "category": "民生新闻"
+      "raw_hot": 70679,
+      "num": 76750,
+      "word": "JDG战胜AG",
+      "onboard_time": 1770995961,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 68709,
@@ -3051,6 +3107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 41344,
+      "num": 86128,
+      "word": "AI求生欲一个比一个强",
+      "onboard_time": 1770997461,
+      "rank": 39,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 40769,
       "num": 40769,
       "word": "张楚桐犯规",
@@ -3113,6 +3177,14 @@
       "onboard_time": 1770970461,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 36086,
+      "num": 121893,
+      "word": "黄冈通报产检正常娃出生却先天畸形",
+      "onboard_time": 1770997461,
+      "rank": 19,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 35920,
@@ -3411,6 +3483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 21416,
+      "num": 136215,
+      "word": "微博之夜品牌与星光双向奔赴",
+      "onboard_time": 1770994881,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 20493,
       "num": 20493,
       "word": "崔佳恩摔得好重",
@@ -3585,14 +3665,6 @@
       "onboard_time": 1770965480,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 7159,
-      "num": 136215,
-      "word": "微博之夜品牌与星光双向奔赴",
-      "onboard_time": 1770994881,
-      "rank": 14,
-      "category": "作品衍生"
     }
   ],
   "hotgov_list": [
