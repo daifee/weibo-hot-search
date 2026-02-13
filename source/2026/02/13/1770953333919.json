@@ -1,0 +1,410 @@
+{
+  "runTime": 1770953333919,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1189654,
+        "num": 1190344,
+        "word": "王鑫被查",
+        "onboard_time": 1770950660,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 543907,
+        "num": 844344,
+        "word": "总台声明",
+        "onboard_time": 1770951919,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35012,
+        "num": 664470,
+        "word": "解锁年味儿中的幸福密码",
+        "onboard_time": 1770952340,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 402830,
+        "num": 402830,
+        "word": "中戏已有两位表演系主任主动投案",
+        "onboard_time": 1770951980,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 373325,
+        "num": 373325,
+        "word": "胖东来永不上市",
+        "onboard_time": 1770949999,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 372998,
+        "num": 372998,
+        "word": "不要跟老人提喜欢吃什么",
+        "onboard_time": 1770946099,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 345486,
+        "num": 345486,
+        "word": "男子中940万大奖以为自己没睡醒",
+        "onboard_time": 1770949459,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 305502,
+        "num": 305502,
+        "word": "慕胥辞官宣改名白日提灯",
+        "onboard_time": 1770950660,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 301703,
+        "num": 301703,
+        "word": "刘少昂短短几秒发生了什么",
+        "onboard_time": 1770949580,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199404,
+        "num": 199404,
+        "word": "中国短道速滑",
+        "onboard_time": 1770947539,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 237633,
+        "num": 197986,
+        "word": "王俊凯新歌",
+        "onboard_time": 1770949099,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 228199,
+        "num": 195094,
+        "word": "BLACKPINK新专配置公开",
+        "onboard_time": 1770951381,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 190589,
+        "num": 190589,
+        "word": "美国年轻人为何想成为中国人",
+        "onboard_time": 1770949519,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 173801,
+        "num": 173801,
+        "word": "TFING头像换回来了",
+        "onboard_time": 1770951200,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156444,
+        "num": 156444,
+        "word": "今天也没变成玩偶呢官宣",
+        "onboard_time": 1770949459,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142283,
+        "num": 142283,
+        "word": "菲一博主吃剧毒魔鬼蟹后不治身亡",
+        "onboard_time": 1770939077,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 151052,
+        "num": 139639,
+        "word": "赵今麦打碟",
+        "onboard_time": 1770948441,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131763,
+        "num": 131763,
+        "word": "白日提灯",
+        "onboard_time": 1770950719,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107174,
+        "num": 131744,
+        "word": "林孝埈从不怕重来一次",
+        "onboard_time": 1770951919,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 57883,
+        "num": 131073,
+        "word": "我驻日大使重磅发声",
+        "onboard_time": 1770952820,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 845647,
+        "num": 130728,
+        "word": "女演员曾公开称美国上流精英吃婴儿",
+        "onboard_time": 1770948739,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 250917,
+        "num": 130031,
+        "word": "炎亚纶称飞轮海情分有可能重新点燃",
+        "onboard_time": 1770947660,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223424,
+        "num": 129578,
+        "word": "炎亚纶自曝通过吴尊传话",
+        "onboard_time": 1770950959,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148309,
+        "num": 128907,
+        "word": "民警拖男子进女厕群殴获刑8月",
+        "onboard_time": 1770942019,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128752,
+        "num": 128752,
+        "word": "爱泼斯坦牵出美国学术界名人",
+        "onboard_time": 1770945380,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 132147,
+        "num": 126383,
+        "word": "金价银价深夜跳水",
+        "onboard_time": 1770939137,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 123806,
+        "num": 123806,
+        "word": "王菲 春晚",
+        "onboard_time": 1770953061,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118598,
+        "num": 118598,
+        "word": "保罗夫妇决定暂别创作",
+        "onboard_time": 1770946400,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 115495,
+        "num": 115495,
+        "word": "水贝黄金暴雷后血本无归的普通人",
+        "onboard_time": 1770941177,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 118200,
+        "num": 114352,
+        "word": "虞书欣衣帽间",
+        "onboard_time": 1770920055,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 49994,
+        "num": 111799,
+        "word": "AI该不该提供情绪价值",
+        "onboard_time": 1770953180,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 111208,
+        "num": 111208,
+        "word": "影石公司年会一员工获保时捷",
+        "onboard_time": 1770939020,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 105088,
+        "num": 105088,
+        "word": "气血不足的人一定要早睡早起",
+        "onboard_time": 1770939318,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 94799,
+        "num": 94799,
+        "word": "刘耀文哄宋亚轩",
+        "onboard_time": 1770940699,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93634,
+        "num": 93634,
+        "word": "连亏7年TVB终于赚钱了",
+        "onboard_time": 1770942200,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 93100,
+        "num": 93100,
+        "word": "22岁主播每天焊妆两次确诊肺炎",
+        "onboard_time": 1770906560,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93333,
+        "num": 92237,
+        "word": "李一桐陈雀儿好美",
+        "onboard_time": 1770951080,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90112,
+        "num": 90112,
+        "word": "中国冰壶女队队员回应战胜卫冕冠军",
+        "onboard_time": 1770951620,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 59175,
+        "num": 89819,
+        "word": "方家翊整容",
+        "onboard_time": 1770952940,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42907,
+        "num": 89657,
+        "word": "蒙古感谢中方",
+        "onboard_time": 1770952820,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 89578,
+        "num": 89578,
+        "word": "丞磊在飞机上帮王楚然剔牙",
+        "onboard_time": 1770909261,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87869,
+        "num": 87869,
+        "word": "Deepseek被指变冷淡了",
+        "onboard_time": 1770907522,
+        "rank": 41,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 84300,
+        "num": 84300,
+        "word": "潮汕女孩一出场像从壁画走出来",
+        "onboard_time": 1770941600,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81967,
+        "num": 81967,
+        "word": "以为王俊凯要向周杰伦告白",
+        "onboard_time": 1770953241,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27333,
+        "num": 81299,
+        "word": "特种兵之后年轻人爱上中转式旅行",
+        "onboard_time": 1770952100,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81164,
+        "num": 81164,
+        "word": "郑嘉颖被问还记得若曦吗",
+        "onboard_time": 1770947180,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78825,
+        "num": 78825,
+        "word": "48岁上中老年恋综追爱",
+        "onboard_time": 1770944479,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 78471,
+        "num": 78471,
+        "word": "网友称绿皮车太热乘务员开窗又关上",
+        "onboard_time": 1770952521,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77803,
+        "num": 77803,
+        "word": "林孝埈状态",
+        "onboard_time": 1770939077,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 72458,
+        "num": 72458,
+        "word": "任子威 黄大宪成功淘汰",
+        "onboard_time": 1770925573,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记一起品味年俗文化#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1770950954719,
+  "endTime": 1770953333919,
   "band_list": [
     {
       "raw_hot": 22742360,
@@ -2051,6 +2051,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 1189654,
+      "num": 1190344,
+      "word": "王鑫被查",
+      "onboard_time": 1770950660,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1189524,
       "num": 216542,
       "word": "金晨逃逸顶包争议应有个明白说法",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1768824201,
       "rank": 10,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 1118560,
-      "num": 176144,
-      "word": "王橹杰 这次不是草莓蛋糕了",
-      "onboard_time": 1767886341,
-      "rank": 21,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
