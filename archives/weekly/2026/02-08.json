@@ -1,6 +1,6 @@
 {
   "startTime": 1770482461321,
-  "endTime": 1770958874955,
+  "endTime": 1770959434678,
   "band_list": [
     {
       "raw_hot": 7279878,
@@ -332,7 +332,7 @@
     },
     {
       "raw_hot": 1023123,
-      "num": 160426,
+      "num": 165468,
       "word": "女演员曾公开称美国上流精英吃婴儿",
       "onboard_time": 1770948739,
       "rank": 20,
@@ -628,7 +628,7 @@
     },
     {
       "raw_hot": 766171,
-      "num": 159025,
+      "num": 166295,
       "word": "橹穆双人卡",
       "onboard_time": 1770954681,
       "rank": 21,
@@ -1499,6 +1499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 491869,
+      "num": 165601,
+      "word": "小酒窝朵朵三亚度假",
+      "onboard_time": 1770956181,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 489321,
       "num": 489321,
       "word": "王者荣耀貂蝉",
@@ -1521,14 +1529,6 @@
       "onboard_time": 1770803240,
       "rank": 29,
       "category": "网红"
-    },
-    {
-      "raw_hot": 484508,
-      "num": 156030,
-      "word": "小酒窝朵朵三亚度假",
-      "onboard_time": 1770956181,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 482842,
@@ -1633,6 +1633,14 @@
       "onboard_time": 1770681980,
       "rank": 3,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 465334,
+      "num": 172252,
+      "word": "前女友送的40克银镯子内含30克黄金",
+      "onboard_time": 1770958340,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 465230,
@@ -1753,6 +1761,14 @@
       "onboard_time": 1770719538,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 446673,
+      "num": 446673,
+      "word": "湛江一海滩发现疑似儒艮尸体",
+      "onboard_time": 1770955339,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 446336,
@@ -1897,14 +1913,6 @@
       "onboard_time": 1770622280,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 421370,
-      "num": 421370,
-      "word": "湛江一海滩发现疑似儒艮尸体",
-      "onboard_time": 1770955339,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 419882,
@@ -2513,6 +2521,14 @@
       "onboard_time": 1770773118,
       "rank": 12,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 360120,
+      "num": 360120,
+      "word": "丞磊王楚然 京洛再无佳人",
+      "onboard_time": 1770956540,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 359053,
@@ -3419,14 +3435,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 286650,
-      "num": 286650,
-      "word": "丞磊王楚然 京洛再无佳人",
-      "onboard_time": 1770956540,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 286401,
       "num": 240980,
       "word": "时代峰峻春联贴反了",
@@ -4267,14 +4275,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 231636,
-      "num": 172252,
-      "word": "前女友送的40克银镯子内含30克黄金",
-      "onboard_time": 1770958340,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 231282,
       "num": 186938,
       "word": "时代少年团 麦克风",
@@ -4867,6 +4867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 205974,
+      "num": 164690,
+      "word": "伴侣感染HPV是不干净吗",
+      "onboard_time": 1770956421,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 205576,
       "num": 205576,
       "word": "女子自由式滑雪坡面障碍技巧决赛",
@@ -4969,6 +4977,14 @@
       "onboard_time": 1770554962,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 200768,
+      "num": 170183,
+      "word": "我的妈妈是校花开播",
+      "onboard_time": 1770956540,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 200192,
@@ -5619,6 +5635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 173157,
+      "num": 169261,
+      "word": "有个一直说话的人真的太重要了",
+      "onboard_time": 1770953600,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
       "raw_hot": 173118,
       "num": 151174,
       "word": "白敬亭真的拿出手机调静音了",
@@ -5691,28 +5715,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 170732,
-      "num": 153545,
-      "word": "伴侣感染HPV是不干净吗",
-      "onboard_time": 1770956421,
-      "rank": 24,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 170167,
       "num": 170167,
       "word": "网传浪姐7有郑秀晶",
       "onboard_time": 1770808762,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 169261,
-      "num": 169261,
-      "word": "有个一直说话的人真的太重要了",
-      "onboard_time": 1770953600,
-      "rank": 16,
-      "category": "情感"
     },
     {
       "raw_hot": 168663,
@@ -5873,14 +5881,6 @@
       "onboard_time": 1770860960,
       "rank": 21,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 161373,
-      "num": 161373,
-      "word": "我的妈妈是校花开播",
-      "onboard_time": 1770956540,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 160928,
@@ -7387,6 +7387,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 123822,
+      "num": 123822,
+      "word": "LOLM送给玩家的情书",
+      "onboard_time": 1770959119,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 123731,
       "num": 123731,
       "word": "赵睿停赛三场罚款5万",
@@ -7396,7 +7404,7 @@
     },
     {
       "raw_hot": 123546,
-      "num": 106005,
+      "num": 116909,
       "word": "周杰伦杭州演唱会",
       "onboard_time": 1770955161,
       "rank": 30,
@@ -7804,7 +7812,7 @@
     },
     {
       "raw_hot": 116571,
-      "num": 93598,
+      "num": 106300,
       "word": "央视主持人的含金量还在上升",
       "onboard_time": 1770957260,
       "rank": 32,
@@ -8619,6 +8627,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 107384,
+      "num": 107384,
+      "word": "微信 贴图",
+      "onboard_time": 1770958161,
+      "rank": 34,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 107331,
       "num": 107331,
       "word": "林孝埈冬奥会赛程",
@@ -8753,6 +8769,14 @@
       "onboard_time": 1770624440,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 105084,
+      "num": 98775,
+      "word": "生命树杨紫张哲华卧一半没底了",
+      "onboard_time": 1770958521,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 105013,
@@ -9249,6 +9273,14 @@
       "onboard_time": 1770491835,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 99901,
+      "num": 99901,
+      "word": "DeepSeek回应被指冷淡",
+      "onboard_time": 1770953901,
+      "rank": 31,
+      "category": "互联网"
     },
     {
       "raw_hot": 99889,
@@ -9913,14 +9945,6 @@
       "onboard_time": 1770630801,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 94051,
-      "num": 94051,
-      "word": "DeepSeek回应被指冷淡",
-      "onboard_time": 1770953901,
-      "rank": 31,
-      "category": "互联网"
     },
     {
       "raw_hot": 94030,
@@ -10803,14 +10827,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 86668,
-      "num": 86668,
-      "word": "微信 贴图",
-      "onboard_time": 1770958161,
-      "rank": 34,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 86667,
       "num": 86667,
       "word": "华策拍一部历史长剧熬十年",
@@ -11281,6 +11297,14 @@
       "onboard_time": 1770822023,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 82880,
+      "num": 82880,
+      "word": "无锡威玛犬",
+      "onboard_time": 1770958581,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 82834,
@@ -12067,14 +12091,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 76868,
-      "num": 76868,
-      "word": "生命树杨紫张哲华卧一半没底了",
-      "onboard_time": 1770958521,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 76787,
       "num": 76787,
       "word": "回家后喝杯奶茶有多难",
@@ -12211,6 +12227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 75274,
+      "num": 75274,
+      "word": "金银铜全线上涨",
+      "onboard_time": 1770957441,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 75237,
       "num": 75237,
       "word": "过年拍全家福",
@@ -12225,6 +12249,14 @@
       "onboard_time": 1770707720,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 75010,
+      "num": 75010,
+      "word": "我已经不是在熬夜了",
+      "onboard_time": 1770959119,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 75004,
@@ -12377,14 +12409,6 @@
       "onboard_time": 1770600919,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 73565,
-      "num": 73565,
-      "word": "金银铜全线上涨",
-      "onboard_time": 1770957441,
-      "rank": 44,
-      "category": "财经"
     },
     {
       "raw_hot": 73517,
@@ -12683,6 +12707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 69725,
+      "num": 69725,
+      "word": "魏大勋敢说我都不敢听",
+      "onboard_time": 1770959241,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 69719,
       "num": 69719,
       "word": "每天睡几小时才健康",
@@ -12705,14 +12737,6 @@
       "onboard_time": 1770468741,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 69329,
-      "num": 69329,
-      "word": "无锡威玛犬",
-      "onboard_time": 1770958581,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 69194,
@@ -14843,6 +14867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 36888,
+      "num": 167031,
+      "word": "专家称全国六成分娩量在县城",
+      "onboard_time": 1770958821,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36852,
       "num": 103449,
       "word": "张小斐不认识星黛露",
@@ -14953,6 +14985,14 @@
       "onboard_time": 1770750073,
       "rank": 26,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 34722,
+      "num": 90841,
+      "word": "青海省副省长点赞生命树",
+      "onboard_time": 1770958340,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 34721,
@@ -15259,14 +15299,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 31044,
-      "num": 77723,
-      "word": "专家称全国六成分娩量在县城",
-      "onboard_time": 1770958821,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 30818,
       "num": 36104,
       "word": "隋文静看金博洋短节目哭了",
@@ -15369,14 +15401,6 @@
       "onboard_time": 1770936796,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 29070,
-      "num": 77306,
-      "word": "青海省副省长点赞生命树",
-      "onboard_time": 1770958340,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 29041,
@@ -16123,6 +16147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 20400,
+      "num": 89809,
+      "word": "王鹤棣宋茜对彼此的初印象",
+      "onboard_time": 1770959181,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 20118,
       "num": 22604,
       "word": "张小楠出战女子大跳台预赛",
@@ -16312,6 +16344,14 @@
       "word": "中国人自己的新年气氛组",
       "onboard_time": 1770691340,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17773,
+      "num": 169468,
+      "word": "马年好运到",
+      "onboard_time": 1770958881,
+      "rank": 14,
       "category": "民生新闻"
     },
     {

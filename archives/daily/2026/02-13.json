@@ -1,6 +1,6 @@
 {
   "startTime": 1770912100688,
-  "endTime": 1770958874955,
+  "endTime": 1770959434678,
   "band_list": [
     {
       "raw_hot": 1459168,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1023123,
-      "num": 160426,
+      "num": 165468,
       "word": "女演员曾公开称美国上流精英吃婴儿",
       "onboard_time": 1770948739,
       "rank": 20,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 766171,
-      "num": 159025,
+      "num": 166295,
       "word": "橹穆双人卡",
       "onboard_time": 1770954681,
       "rank": 21,
@@ -107,12 +107,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 484508,
-      "num": 156030,
+      "raw_hot": 491869,
+      "num": 165601,
       "word": "小酒窝朵朵三亚度假",
       "onboard_time": 1770956181,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 465334,
+      "num": 172252,
+      "word": "前女友送的40克银镯子内含30克黄金",
+      "onboard_time": 1770958340,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 460213,
@@ -123,8 +131,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 421370,
-      "num": 421370,
+      "raw_hot": 446673,
+      "num": 446673,
       "word": "湛江一海滩发现疑似儒艮尸体",
       "onboard_time": 1770955339,
       "rank": 4,
@@ -145,6 +153,14 @@
       "onboard_time": 1770949999,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 360120,
+      "num": 360120,
+      "word": "丞磊王楚然 京洛再无佳人",
+      "onboard_time": 1770956540,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 358568,
@@ -243,14 +259,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 286650,
-      "num": 286650,
-      "word": "丞磊王楚然 京洛再无佳人",
-      "onboard_time": 1770956540,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 278838,
       "num": 140620,
       "word": "虞书欣衣帽间",
@@ -305,14 +313,6 @@
       "onboard_time": 1770913040,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 231636,
-      "num": 172252,
-      "word": "前女友送的40克银镯子内含30克黄金",
-      "onboard_time": 1770958340,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 229178,
@@ -379,12 +379,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 205974,
+      "num": 164690,
+      "word": "伴侣感染HPV是不干净吗",
+      "onboard_time": 1770956421,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 203133,
       "num": 169814,
       "word": "以为王俊凯要向周杰伦告白",
       "onboard_time": 1770953241,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 200768,
+      "num": 170183,
+      "word": "我的妈妈是校花开播",
+      "onboard_time": 1770956540,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 200192,
@@ -491,6 +507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 173157,
+      "num": 169261,
+      "word": "有个一直说话的人真的太重要了",
+      "onboard_time": 1770953600,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
       "raw_hot": 172734,
       "num": 172734,
       "word": "48岁上中老年恋综追爱",
@@ -505,22 +529,6 @@
       "onboard_time": 1770939077,
       "rank": 26,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 170732,
-      "num": 153545,
-      "word": "伴侣感染HPV是不干净吗",
-      "onboard_time": 1770956421,
-      "rank": 24,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 169261,
-      "num": 169261,
-      "word": "有个一直说话的人真的太重要了",
-      "onboard_time": 1770953600,
-      "rank": 16,
-      "category": "情感"
     },
     {
       "raw_hot": 166636,
@@ -547,19 +555,11 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 162253,
-      "num": 162253,
+      "raw_hot": 164437,
+      "num": 164437,
       "word": "白日提灯",
       "onboard_time": 1770950719,
       "rank": 41,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 161373,
-      "num": 161373,
-      "word": "我的妈妈是校花开播",
-      "onboard_time": 1770956540,
-      "rank": 19,
       "category": "剧集"
     },
     {
@@ -731,8 +731,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 123822,
+      "num": 123822,
+      "word": "LOLM送给玩家的情书",
+      "onboard_time": 1770959119,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 123546,
-      "num": 106005,
+      "num": 116909,
       "word": "周杰伦杭州演唱会",
       "onboard_time": 1770955161,
       "rank": 30,
@@ -780,7 +788,7 @@
     },
     {
       "raw_hot": 116571,
-      "num": 93598,
+      "num": 106300,
       "word": "央视主持人的含金量还在上升",
       "onboard_time": 1770957260,
       "rank": 32,
@@ -811,12 +819,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 107384,
+      "num": 107384,
+      "word": "微信 贴图",
+      "onboard_time": 1770958161,
+      "rank": 34,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 107174,
       "num": 131744,
       "word": "林孝埈从不怕重来一次",
       "onboard_time": 1770951919,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 105084,
+      "num": 98775,
+      "word": "生命树杨紫张哲华卧一半没底了",
+      "onboard_time": 1770958521,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 104259,
@@ -875,6 +899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 99901,
+      "num": 99901,
+      "word": "DeepSeek回应被指冷淡",
+      "onboard_time": 1770953901,
+      "rank": 31,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 98928,
       "num": 98928,
       "word": "女子单板U池决赛",
@@ -905,14 +937,6 @@
       "onboard_time": 1770910460,
       "rank": 28,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 94051,
-      "num": 94051,
-      "word": "DeepSeek回应被指冷淡",
-      "onboard_time": 1770953901,
-      "rank": 31,
-      "category": "互联网"
     },
     {
       "raw_hot": 94009,
@@ -971,14 +995,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 86668,
-      "num": 86668,
-      "word": "微信 贴图",
-      "onboard_time": 1770958161,
-      "rank": 34,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 85616,
       "num": 85616,
       "word": "严浩翔贺峻霖抽到同一条红绳",
@@ -1009,6 +1025,14 @@
       "onboard_time": 1770950480,
       "rank": 37,
       "category": "财经"
+    },
+    {
+      "raw_hot": 82880,
+      "num": 82880,
+      "word": "无锡威玛犬",
+      "onboard_time": 1770958581,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 81924,
@@ -1043,14 +1067,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 76868,
-      "num": 76868,
-      "word": "生命树杨紫张哲华卧一半没底了",
-      "onboard_time": 1770958521,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 76634,
       "num": 77296,
       "word": "任何生物都受不了舟车劳顿",
@@ -1075,6 +1091,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 75274,
+      "num": 75274,
+      "word": "金银铜全线上涨",
+      "onboard_time": 1770957441,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 75010,
+      "num": 75010,
+      "word": "我已经不是在熬夜了",
+      "onboard_time": 1770959119,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 74642,
       "num": 74642,
       "word": "迪丽热巴陈飞宇主演白日提灯",
@@ -1089,14 +1121,6 @@
       "onboard_time": 1770905181,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 73565,
-      "num": 73565,
-      "word": "金银铜全线上涨",
-      "onboard_time": 1770957441,
-      "rank": 44,
-      "category": "财经"
     },
     {
       "raw_hot": 71636,
@@ -1123,12 +1147,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 69329,
-      "num": 69329,
-      "word": "无锡威玛犬",
-      "onboard_time": 1770958581,
-      "rank": 48,
-      "category": "民生新闻"
+      "raw_hot": 69725,
+      "num": 69725,
+      "word": "魏大勋敢说我都不敢听",
+      "onboard_time": 1770959241,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 68241,
@@ -1467,6 +1491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 36888,
+      "num": 167031,
+      "word": "专家称全国六成分娩量在县城",
+      "onboard_time": 1770958821,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35165,
       "num": 27599,
       "word": "孙龙举起五星红旗",
@@ -1491,6 +1523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 34722,
+      "num": 90841,
+      "word": "青海省副省长点赞生命树",
+      "onboard_time": 1770958340,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 34038,
       "num": 77400,
       "word": "王楚然成何体统落泪吻",
@@ -1505,14 +1545,6 @@
       "onboard_time": 1770915978,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 31044,
-      "num": 77723,
-      "word": "专家称全国六成分娩量在县城",
-      "onboard_time": 1770958821,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 30450,
@@ -1545,14 +1577,6 @@
       "onboard_time": 1770936796,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 29070,
-      "num": 77306,
-      "word": "青海省副省长点赞生命树",
-      "onboard_time": 1770958340,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 28975,
@@ -1659,6 +1683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 20400,
+      "num": 89809,
+      "word": "王鹤棣宋茜对彼此的初印象",
+      "onboard_time": 1770959181,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 19949,
       "num": 19949,
       "word": "蔡雪桐第一滑73分",
@@ -1713,6 +1745,14 @@
       "onboard_time": 1770933195,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 17773,
+      "num": 169468,
+      "word": "马年好运到",
+      "onboard_time": 1770958881,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17330,
