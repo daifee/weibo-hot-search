@@ -1,6 +1,6 @@
 {
   "startTime": 1770998880163,
-  "endTime": 1771012775314,
+  "endTime": 1771015753065,
   "band_list": [
     {
       "raw_hot": 4412806,
@@ -540,11 +540,19 @@
     },
     {
       "raw_hot": 12657,
-      "num": 16151,
+      "num": 16792,
       "word": "马克龙手上的中国葡萄酒什么来头",
       "onboard_time": 1770983900,
       "rank": 48,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 12259,
+      "num": 16802,
+      "word": "商务部回应安世半导体案裁决结果",
+      "onboard_time": 1771015093,
+      "rank": 45,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
