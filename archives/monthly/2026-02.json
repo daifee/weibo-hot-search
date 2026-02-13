@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1770990179540,
+  "endTime": 1770994241719,
   "band_list": [
     {
       "raw_hot": 12386962,
@@ -49,6 +49,14 @@
       "onboard_time": 1770266423,
       "rank": 0,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 8474543,
+      "num": 8474543,
+      "word": "白敬亭 宋轶",
+      "onboard_time": 1770992123,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 8120856,
@@ -513,6 +521,14 @@
       "onboard_time": 1770287846,
       "rank": 7,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1421375,
+      "num": 119740,
+      "word": "宋轶换微博背景",
+      "onboard_time": 1770992123,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 1391996,
@@ -2315,6 +2331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 680762,
+      "num": 826012,
+      "word": "女子幽门螺杆菌阳性3年后查出胃癌",
+      "onboard_time": 1770992422,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 680570,
       "num": 1106026,
       "word": "中方回应日本挖到含稀土淤泥",
@@ -4011,6 +4035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 482516,
+      "num": 155121,
+      "word": "王橹杰彝族血统发力了",
+      "onboard_time": 1770991642,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 481976,
       "num": 223369,
       "word": "爱泼斯坦被曝15年前秘密生子",
@@ -5515,6 +5547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 390741,
+      "num": 353640,
+      "word": "湖北精神病医院有关问题调查结果",
+      "onboard_time": 1770989120,
+      "rank": 3,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 390534,
       "num": 305250,
       "word": "成何体统 改词",
@@ -5689,6 +5729,14 @@
       "onboard_time": 1770128122,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 382421,
+      "num": 154221,
+      "word": "瑶一瑶小肉包近30天掉粉6万",
+      "onboard_time": 1770990023,
+      "rank": 21,
+      "category": "网红"
     },
     {
       "raw_hot": 381072,
@@ -6369,14 +6417,6 @@
       "onboard_time": 1770624860,
       "rank": 20,
       "category": "网红"
-    },
-    {
-      "raw_hot": 353640,
-      "num": 353640,
-      "word": "湖北精神病医院有关问题调查结果",
-      "onboard_time": 1770989120,
-      "rank": 3,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 353381,
@@ -8099,6 +8139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 295829,
+      "num": 295829,
+      "word": "三亚通报8499元订民宿被临时毁约",
+      "onboard_time": 1770990681,
+      "rank": 3,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 294252,
       "num": 170389,
       "word": "于谦被恢复执行",
@@ -8841,6 +8889,14 @@
       "onboard_time": 1770788362,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 270073,
+      "num": 270073,
+      "word": "AG对战JDG",
+      "onboard_time": 1770986300,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 270044,
@@ -11499,6 +11555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 209525,
+      "num": 139300,
+      "word": "王星越白鹿居家风合照",
+      "onboard_time": 1770991762,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 209378,
       "num": 209378,
       "word": "庾晚音 北京是个小县城",
@@ -11929,6 +11993,14 @@
       "onboard_time": 1770450799,
       "rank": 24,
       "category": "美食"
+    },
+    {
+      "raw_hot": 198790,
+      "num": 198790,
+      "word": "微博之夜 二刷",
+      "onboard_time": 1770990861,
+      "rank": 7,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 198757,
@@ -13001,14 +13073,6 @@
       "onboard_time": 1770385099,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 179473,
-      "num": 154221,
-      "word": "瑶一瑶小肉包近30天掉粉6万",
-      "onboard_time": 1770990023,
-      "rank": 21,
-      "category": "网红"
     },
     {
       "raw_hot": 179302,
@@ -15499,6 +15563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144366,
+      "num": 144366,
+      "word": "冰壶",
+      "onboard_time": 1770853459,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 144362,
       "num": 144362,
       "word": "黄金定投",
@@ -16529,6 +16601,14 @@
       "onboard_time": 1770189740,
       "rank": 21,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 135695,
+      "num": 135695,
+      "word": "3次吸毒后驾车撞人致4死被判死刑",
+      "onboard_time": 1770990981,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 135694,
@@ -17803,6 +17883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124871,
+      "num": 124871,
+      "word": "AG蝉联周冠",
+      "onboard_time": 1770991341,
+      "rank": 23,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 124869,
       "num": 124869,
       "word": "U17国足",
@@ -18947,6 +19035,14 @@
       "category": "幽默,财经"
     },
     {
+      "raw_hot": 117962,
+      "num": 98478,
+      "word": "Bin晒侧脸照",
+      "onboard_time": 1770993024,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 117952,
       "num": 233691,
       "word": "被分到静音车厢的带娃乘客提心吊胆",
@@ -18993,14 +19089,6 @@
       "onboard_time": 1770905181,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 117750,
-      "num": 117750,
-      "word": "AG对战JDG",
-      "onboard_time": 1770986300,
-      "rank": 37,
-      "category": "电竞"
     },
     {
       "raw_hot": 117722,
@@ -19113,14 +19201,6 @@
       "onboard_time": 1770028040,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 116977,
-      "num": 121508,
-      "word": "冰壶",
-      "onboard_time": 1770853459,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 116931,
@@ -21083,6 +21163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 106788,
+      "num": 106788,
+      "word": "颜人中演唱会延迟1小时送1场",
+      "onboard_time": 1770992663,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 106760,
       "num": 106760,
       "word": "时代少年团行程图",
@@ -21225,6 +21313,14 @@
       "onboard_time": 1770611542,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105756,
+      "num": 108736,
+      "word": "大司马鹅鸭杀首播排面",
+      "onboard_time": 1770991701,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 105729,
@@ -22275,6 +22371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 101432,
+      "num": 101432,
+      "word": "懒懒自曝78斤",
+      "onboard_time": 1770992962,
+      "rank": 33,
+      "category": "网红"
+    },
+    {
       "raw_hot": 101402,
       "num": 101402,
       "word": "苏翊鸣堆雪球比赛第一名",
@@ -23137,6 +23241,14 @@
       "onboard_time": 1770438562,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 97764,
+      "num": 97764,
+      "word": "徐梦桃已抵达米兰冬奥村",
+      "onboard_time": 1770991880,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 97746,
@@ -24315,6 +24427,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 93379,
+      "num": 93379,
+      "word": "钎城手写信",
+      "onboard_time": 1770994043,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 93343,
       "num": 93343,
       "word": "封神香辣蟹已争气争气再争气",
@@ -24817,6 +24937,14 @@
       "onboard_time": 1770955880,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 91436,
+      "num": 91436,
+      "word": "生命树 敢拍",
+      "onboard_time": 1770993683,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 91409,
@@ -29467,6 +29595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 73850,
+      "num": 73850,
+      "word": "故宫也用上Seedance2.0了",
+      "onboard_time": 1770991522,
+      "rank": 44,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 73804,
       "num": 73804,
       "word": "宋佳工作室维权",
@@ -29947,6 +30083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 70892,
+      "num": 135749,
+      "word": "发1.8亿企业员工现场数钱画面曝光",
+      "onboard_time": 1770993083,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 70823,
       "num": 70823,
       "word": "摔倒后妈妈让谷爱凌喝点咖啡醒醒",
@@ -30273,6 +30417,14 @@
       "onboard_time": 1770603860,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 68326,
+      "num": 72793,
+      "word": "刘诗雯回应当选广州乒协新任会长",
+      "onboard_time": 1770993743,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 68256,
@@ -36955,6 +37107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 21460,
+      "num": 667484,
+      "word": "回家路上随手拍",
+      "onboard_time": 1770990501,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21457,
       "num": 154670,
       "word": "有人花7万打83支玻尿酸造腹肌",
@@ -37809,6 +37969,14 @@
       "onboard_time": 1770590475,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 16738,
+      "num": 145822,
+      "word": "微博之夜第三视角",
+      "onboard_time": 1770991701,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 16599,
