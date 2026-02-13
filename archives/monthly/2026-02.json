@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1770969895840,
+  "endTime": 1770972908731,
   "band_list": [
     {
       "raw_hot": 12386962,
@@ -3075,6 +3075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 559800,
+      "num": 155292,
+      "word": "爱泼斯坦假尸体事件披露",
+      "onboard_time": 1770967761,
+      "rank": 15,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 559293,
       "num": 223766,
       "word": "爱泼斯坦案秘密照片曝光",
@@ -3112,6 +3120,14 @@
       "word": "女演员投资失败搬进出租屋",
       "onboard_time": 1770821361,
       "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 553787,
+      "num": 153344,
+      "word": "虞书欣每天一杯奶茶",
+      "onboard_time": 1770969140,
+      "rank": 36,
       "category": "艺人"
     },
     {
@@ -5163,14 +5179,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 404626,
-      "num": 155292,
-      "word": "爱泼斯坦假尸体事件披露",
-      "onboard_time": 1770967761,
-      "rank": 15,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 404400,
       "num": 404400,
       "word": "马凡舒上了两次马年春晚",
@@ -5696,6 +5704,14 @@
       "word": "井柏然就这样静静等着刘雯",
       "onboard_time": 1770871461,
       "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 375086,
+      "num": 144159,
+      "word": "王艺瑾你对你的脸做了什么",
+      "onboard_time": 1770969741,
+      "rank": 39,
       "category": "艺人"
     },
     {
@@ -6473,6 +6489,14 @@
       "onboard_time": 1770647780,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 343406,
+      "num": 143745,
+      "word": "高叶 聊得我都想我前男友了",
+      "onboard_time": 1770970041,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 343290,
@@ -7817,6 +7841,14 @@
       "onboard_time": 1770620600,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 297609,
+      "num": 297609,
+      "word": "章若楠王安宇新剧开机",
+      "onboard_time": 1770971720,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 297557,
@@ -9243,6 +9275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 252440,
+      "num": 256327,
+      "word": "华为内部反腐通报",
+      "onboard_time": 1770970700,
+      "rank": 4,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 252215,
       "num": 164222,
       "word": "微信为什么要打自家人元宝",
@@ -10091,6 +10131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 234385,
+      "num": 128296,
+      "word": "大衣哥朱之文女儿结婚",
+      "onboard_time": 1770969501,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 234229,
       "num": 314238,
       "word": "特朗普与爱泼斯坦聚会视频曝光",
@@ -10385,6 +10433,14 @@
       "onboard_time": 1770124401,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 227566,
+      "num": 153645,
+      "word": "外交部回应日本扣押中国渔船",
+      "onboard_time": 1770969082,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 227508,
@@ -11497,14 +11553,6 @@
       "onboard_time": 1770276084,
       "rank": 37,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 203196,
-      "num": 153344,
-      "word": "虞书欣每天一杯奶茶",
-      "onboard_time": 1770969140,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 203133,
@@ -13441,6 +13489,14 @@
       "onboard_time": 1770722481,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 165894,
+      "num": 126669,
+      "word": "陈哲远回家过年",
+      "onboard_time": 1770971361,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 165831,
@@ -15627,6 +15683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139935,
+      "num": 114471,
+      "word": "张凌赫给后面小孩哥看傻了",
+      "onboard_time": 1770969620,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 139890,
       "num": 139890,
       "word": "王一博2025总结",
@@ -15681,6 +15745,14 @@
       "onboard_time": 1770592638,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 139191,
+      "num": 139191,
+      "word": "杭州大哥开1人公司靠AI月入200万",
+      "onboard_time": 1770972199,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 139065,
@@ -17177,6 +17249,14 @@
       "onboard_time": 1770033142,
       "rank": 27,
       "category": "财经"
+    },
+    {
+      "raw_hot": 126653,
+      "num": 115812,
+      "word": "王者农家乐新春特辑上线",
+      "onboard_time": 1770972801,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 126533,
@@ -18715,6 +18795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 116459,
+      "num": 134912,
+      "word": "跟着易烊千玺教爸妈用千问",
+      "onboard_time": 1770968421,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 116317,
       "num": 116317,
       "word": "HYBE冲击前的Kpop",
@@ -19435,6 +19523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 112160,
+      "num": 112160,
+      "word": "A股蛇年十大牛股",
+      "onboard_time": 1770972860,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
       "raw_hot": 112112,
       "num": 112112,
       "word": "985毕业生放弃几万月薪转行理发",
@@ -19497,6 +19593,14 @@
       "onboard_time": 1770044062,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111604,
+      "num": 111604,
+      "word": "世乒赛冠军将直接获得复刻奖杯",
+      "onboard_time": 1770970640,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 111560,
@@ -19609,14 +19713,6 @@
       "onboard_time": 1770456321,
       "rank": 35,
       "category": "演出"
-    },
-    {
-      "raw_hot": 110927,
-      "num": 110927,
-      "word": "大衣哥朱之文女儿结婚",
-      "onboard_time": 1770969501,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 110920,
@@ -19784,14 +19880,6 @@
       "word": "海清 不要再卷孩子有本事卷自己",
       "onboard_time": 1770615320,
       "rank": 28,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 109788,
-      "num": 134912,
-      "word": "跟着易烊千玺教爸妈用千问",
-      "onboard_time": 1770968421,
-      "rank": 24,
       "category": "艺人"
     },
     {
@@ -22275,6 +22363,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 98734,
+      "num": 98734,
+      "word": "王楚然越素越美",
+      "onboard_time": 1770972681,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 98661,
       "num": 98661,
       "word": "九尾四连胜后的自拍",
@@ -23443,6 +23539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94288,
+      "num": 94288,
+      "word": "懒懒回应整容",
+      "onboard_time": 1770969920,
+      "rank": 35,
+      "category": "网红"
+    },
+    {
       "raw_hot": 94268,
       "num": 94268,
       "word": "张元英捐款2亿韩元",
@@ -23931,14 +24035,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 92304,
-      "num": 153645,
-      "word": "外交部回应日本扣押中国渔船",
-      "onboard_time": 1770969082,
-      "rank": 19,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 92282,
       "num": 92282,
       "word": "Faker发博",
@@ -24387,6 +24483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 90545,
+      "num": 87751,
+      "word": "朱志鑫放假第一件事",
+      "onboard_time": 1770972199,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 90541,
       "num": 90541,
       "word": "多家银行清退贵金属三无客户",
@@ -24697,6 +24801,14 @@
       "onboard_time": 1769937980,
       "rank": 44,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 89304,
+      "num": 89304,
+      "word": "小时候画的饼在20岁出锅了",
+      "onboard_time": 1770972261,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 89298,
@@ -25851,6 +25963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 85333,
+      "num": 85333,
+      "word": "女子摔碎2400元茅台丈夫淡定安抚",
+      "onboard_time": 1770972021,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85309,
       "num": 85309,
       "word": "无畏袁一琦送新春祝福",
@@ -26265,6 +26385,14 @@
       "onboard_time": 1770533959,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 83525,
+      "num": 83525,
+      "word": "关晓彤从小巷人家到大厂子弟",
+      "onboard_time": 1770972801,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 83524,
@@ -31307,12 +31435,28 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 52757,
+      "num": 112229,
+      "word": "宋威龙春晚合唱",
+      "onboard_time": 1770970160,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 52542,
       "num": 60384,
       "word": "守望先锋",
       "onboard_time": 1770248778,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 52521,
+      "num": 86678,
+      "word": "马克龙说法国葡萄酒有对手了",
+      "onboard_time": 1770971419,
+      "rank": 41,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 52493,
@@ -32987,14 +33131,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 40768,
-      "num": 93022,
-      "word": "张凌赫给后面小孩哥看傻了",
-      "onboard_time": 1770969620,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 40579,
       "num": 90901,
       "word": "日男子诱骗单亲妈妈拍女儿私密视频",
@@ -33547,6 +33683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 36666,
+      "num": 140631,
+      "word": "智驾返乡排面拉满",
+      "onboard_time": 1770971181,
+      "rank": 18,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 36658,
       "num": 218757,
       "word": "华为Mate双旗舰镜头下的群星大片",
@@ -33600,6 +33744,14 @@
       "word": "王一博的贴贴攻略",
       "onboard_time": 1770361520,
       "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 36194,
+      "num": 89159,
+      "word": "刘耀文兄弟生怕吃不着青春饭了",
+      "onboard_time": 1770970461,
+      "rank": 38,
       "category": "艺人"
     },
     {
@@ -34465,14 +34617,6 @@
       "onboard_time": 1770492734,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 30458,
-      "num": 92148,
-      "word": "王艺瑾你对你的脸做了什么",
-      "onboard_time": 1770969741,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 30452,
@@ -35491,6 +35635,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 24155,
+      "num": 657243,
+      "word": "战马贺春热血沸腾",
+      "onboard_time": 1770971901,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24137,
       "num": 69558,
       "word": "求学逆袭王周信静母校发声",
@@ -36297,6 +36449,14 @@
       "onboard_time": 1770492314,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 19715,
+      "num": 88525,
+      "word": "国家集采原研药中标不到1成",
+      "onboard_time": 1770972681,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19568,
@@ -37978,6 +38138,9 @@
     },
     {
       "word": "#跟着总书记一起品味年俗文化#"
+    },
+    {
+      "word": "#春节前夕中央领导同志看望老同志#"
     }
   ]
 }
