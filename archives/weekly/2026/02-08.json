@@ -1,6 +1,6 @@
 {
   "startTime": 1770482461321,
-  "endTime": 1770953333919,
+  "endTime": 1770958874955,
   "band_list": [
     {
       "raw_hot": 7279878,
@@ -332,7 +332,7 @@
     },
     {
       "raw_hot": 1023123,
-      "num": 130728,
+      "num": 160426,
       "word": "女演员曾公开称美国上流精英吃婴儿",
       "onboard_time": 1770948739,
       "rank": 20,
@@ -353,6 +353,14 @@
       "onboard_time": 1770792860,
       "rank": 10,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 975954,
+      "num": 1156152,
+      "word": "公司利润2.7亿拿1.8亿发年终奖",
+      "onboard_time": 1770954501,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 965200,
@@ -617,6 +625,14 @@
       "onboard_time": 1770691221,
       "rank": 6,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 766171,
+      "num": 159025,
+      "word": "橹穆双人卡",
+      "onboard_time": 1770954681,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 749487,
@@ -1243,6 +1259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 536748,
+      "num": 536748,
+      "word": "王菲 春晚",
+      "onboard_time": 1770953061,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 536215,
       "num": 1036419,
       "word": "孙龙银牌",
@@ -1411,6 +1435,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 501605,
+      "num": 864377,
+      "word": "中戏已有两位表演系主任主动投案",
+      "onboard_time": 1770951980,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 501125,
       "num": 501125,
       "word": "就知道姚安娜舍不得这个刘海",
@@ -1489,6 +1521,14 @@
       "onboard_time": 1770803240,
       "rank": 29,
       "category": "网红"
+    },
+    {
+      "raw_hot": 484508,
+      "num": 156030,
+      "word": "小酒窝朵朵三亚度假",
+      "onboard_time": 1770956181,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 482842,
@@ -1859,6 +1899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 421370,
+      "num": 421370,
+      "word": "湛江一海滩发现疑似儒艮尸体",
+      "onboard_time": 1770955339,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 419882,
       "num": 765736,
       "word": "时代峰峻只包1场",
@@ -2049,14 +2097,6 @@
       "onboard_time": 1770623600,
       "rank": 6,
       "category": "电影"
-    },
-    {
-      "raw_hot": 402830,
-      "num": 402830,
-      "word": "中戏已有两位表演系主任主动投案",
-      "onboard_time": 1770951980,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 402603,
@@ -2488,6 +2528,14 @@
       "word": "川大博导被举报83页材料公开",
       "onboard_time": 1770477681,
       "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 358568,
+      "num": 358568,
+      "word": "交警查酒驾意外见家长一秒脸红",
+      "onboard_time": 1770953781,
+      "rank": 6,
       "category": "民生新闻"
     },
     {
@@ -2947,6 +2995,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 313644,
+      "num": 177440,
+      "word": "日本当局再次扣押中国大陆渔船",
+      "onboard_time": 1770957501,
+      "rank": 10,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 312824,
       "num": 790576,
       "word": "男子为避酒店春节涨价花1万多租房",
@@ -3299,6 +3355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 288118,
+      "num": 175354,
+      "word": "方家翊整容",
+      "onboard_time": 1770952940,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 287779,
       "num": 287779,
       "word": "伽罗水墨皮肤爆料",
@@ -3353,6 +3417,14 @@
       "onboard_time": 1770867622,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 286650,
+      "num": 286650,
+      "word": "丞磊王楚然 京洛再无佳人",
+      "onboard_time": 1770956540,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 286401,
@@ -3504,6 +3576,14 @@
       "word": "多只小鸟撞西安万象城玻璃墙死亡",
       "onboard_time": 1770641060,
       "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 272824,
+      "num": 174143,
+      "word": "中戏",
+      "onboard_time": 1770953901,
+      "rank": 12,
       "category": "民生新闻"
     },
     {
@@ -4187,6 +4267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 231636,
+      "num": 172252,
+      "word": "前女友送的40克银镯子内含30克黄金",
+      "onboard_time": 1770958340,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 231282,
       "num": 186938,
       "word": "时代少年团 麦克风",
@@ -4771,6 +4859,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 206674,
+      "num": 171698,
+      "word": "明星红包分组",
+      "onboard_time": 1770953901,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 205576,
       "num": 205576,
       "word": "女子自由式滑雪坡面障碍技巧决赛",
@@ -4832,6 +4928,14 @@
       "word": "刘雨昕 伤人的话一定要三思而行",
       "onboard_time": 1770778459,
       "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 203133,
+      "num": 169814,
+      "word": "以为王俊凯要向周杰伦告白",
+      "onboard_time": 1770953241,
+      "rank": 43,
       "category": "艺人"
     },
     {
@@ -5387,12 +5491,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 177539,
+      "num": 177539,
+      "word": "孙龙哽咽是我的问题我承认",
+      "onboard_time": 1770953539,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 177294,
       "num": 224240,
       "word": "刘少昂1000米顺利晋级",
       "onboard_time": 1770719240,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 176983,
+      "num": 155745,
+      "word": "红马年能不能穿红",
+      "onboard_time": 1770955100,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 176783,
@@ -5571,12 +5691,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 170732,
+      "num": 153545,
+      "word": "伴侣感染HPV是不干净吗",
+      "onboard_time": 1770956421,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 170167,
       "num": 170167,
       "word": "网传浪姐7有郑秀晶",
       "onboard_time": 1770808762,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 169261,
+      "num": 169261,
+      "word": "有个一直说话的人真的太重要了",
+      "onboard_time": 1770953600,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 168663,
@@ -5640,6 +5776,14 @@
       "word": "苏翊鸣赛后哭了",
       "onboard_time": 1770507557,
       "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 165190,
+      "num": 165190,
+      "word": "林孝埈赛后更新自动回复",
+      "onboard_time": 1770955942,
+      "rank": 17,
       "category": "体育"
     },
     {
@@ -5729,6 +5873,14 @@
       "onboard_time": 1770860960,
       "rank": 21,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 161373,
+      "num": 161373,
+      "word": "我的妈妈是校花开播",
+      "onboard_time": 1770956540,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 160928,
@@ -7027,6 +7179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129377,
+      "num": 129377,
+      "word": "开心麻花也是拍上长剧了",
+      "onboard_time": 1770957801,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129339,
       "num": 129339,
       "word": "微信删好友能保留聊天记录",
@@ -7227,20 +7387,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 123806,
-      "num": 123806,
-      "word": "王菲 春晚",
-      "onboard_time": 1770953061,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 123731,
       "num": 123731,
       "word": "赵睿停赛三场罚款5万",
       "onboard_time": 1770817221,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 123546,
+      "num": 106005,
+      "word": "周杰伦杭州演唱会",
+      "onboard_time": 1770955161,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 123484,
@@ -7641,6 +7801,14 @@
       "onboard_time": 1770937877,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 116571,
+      "num": 93598,
+      "word": "央视主持人的含金量还在上升",
+      "onboard_time": 1770957260,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 116317,
@@ -9747,6 +9915,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 94051,
+      "num": 94051,
+      "word": "DeepSeek回应被指冷淡",
+      "onboard_time": 1770953901,
+      "rank": 31,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 94030,
       "num": 107897,
       "word": "6个中国人在太空聚餐烧烤",
@@ -10033,6 +10209,14 @@
       "onboard_time": 1770507497,
       "rank": 25,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 91447,
+      "num": 91447,
+      "word": "网红贵州民工回应抚养8个孩子",
+      "onboard_time": 1770955880,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 91263,
@@ -10619,6 +10803,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 86668,
+      "num": 86668,
+      "word": "微信 贴图",
+      "onboard_time": 1770958161,
+      "rank": 34,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 86667,
       "num": 86667,
       "word": "华策拍一部历史长剧熬十年",
@@ -10833,6 +11025,14 @@
       "onboard_time": 1770650781,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 85143,
+      "num": 85143,
+      "word": "孙龙摘银后刘少昂比他还激动",
+      "onboard_time": 1770955880,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 85105,
@@ -11241,14 +11441,6 @@
       "onboard_time": 1770729800,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 81967,
-      "num": 81967,
-      "word": "以为王俊凯要向周杰伦告白",
-      "onboard_time": 1770953241,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 81894,
@@ -11875,6 +12067,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 76868,
+      "num": 76868,
+      "word": "生命树杨紫张哲华卧一半没底了",
+      "onboard_time": 1770958521,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 76787,
       "num": 76787,
       "word": "回家后喝杯奶茶有多难",
@@ -11889,6 +12089,14 @@
       "onboard_time": 1770895820,
       "rank": 18,
       "category": "游戏,数码"
+    },
+    {
+      "raw_hot": 76634,
+      "num": 77296,
+      "word": "任何生物都受不了舟车劳顿",
+      "onboard_time": 1770955761,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 76599,
@@ -11945,6 +12153,14 @@
       "onboard_time": 1770537019,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 76131,
+      "num": 73032,
+      "word": "这是剧宣不是官宣啊",
+      "onboard_time": 1770954681,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 76062,
@@ -12059,6 +12275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 74642,
+      "num": 74642,
+      "word": "迪丽热巴陈飞宇主演白日提灯",
+      "onboard_time": 1770957441,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 74631,
       "num": 74631,
       "word": "台独武装胆敢挑起战端必遭灭顶之灾",
@@ -12153,6 +12377,14 @@
       "onboard_time": 1770600919,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 73565,
+      "num": 73565,
+      "word": "金银铜全线上涨",
+      "onboard_time": 1770957441,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 73517,
@@ -12315,6 +12547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 71636,
+      "num": 71636,
+      "word": "潮汕英歌舞到底有多震撼",
+      "onboard_time": 1770958220,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 71564,
       "num": 132660,
       "word": "帮爸妈下载阿福有16.8元红包",
@@ -12465,6 +12705,14 @@
       "onboard_time": 1770468741,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 69329,
+      "num": 69329,
+      "word": "无锡威玛犬",
+      "onboard_time": 1770958581,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 69194,
@@ -13137,14 +13385,6 @@
       "onboard_time": 1770463521,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 59175,
-      "num": 89819,
-      "word": "方家翊整容",
-      "onboard_time": 1770952940,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 59068,
@@ -14692,7 +14932,7 @@
     },
     {
       "raw_hot": 35012,
-      "num": 664470,
+      "num": 665722,
       "word": "解锁年味儿中的幸福密码",
       "onboard_time": 1770952340,
       "rank": 2,
@@ -14753,6 +14993,14 @@
       "onboard_time": 1770894020,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34038,
+      "num": 77400,
+      "word": "王楚然成何体统落泪吻",
+      "onboard_time": 1770957801,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 33815,
@@ -15011,6 +15259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 31044,
+      "num": 77723,
+      "word": "专家称全国六成分娩量在县城",
+      "onboard_time": 1770958821,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30818,
       "num": 36104,
       "word": "隋文静看金博洋短节目哭了",
@@ -15113,6 +15369,14 @@
       "onboard_time": 1770936796,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 29070,
+      "num": 77306,
+      "word": "青海省副省长点赞生命树",
+      "onboard_time": 1770958340,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 29041,

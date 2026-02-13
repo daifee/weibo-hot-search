@@ -1,0 +1,410 @@
+{
+  "runTime": 1770958874955,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 975954,
+        "num": 1156152,
+        "word": "公司利润2.7亿拿1.8亿发年终奖",
+        "onboard_time": 1770954501,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 501605,
+        "num": 864377,
+        "word": "中戏已有两位表演系主任主动投案",
+        "onboard_time": 1770951980,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18780,
+        "num": 665722,
+        "word": "解锁年味儿中的幸福密码",
+        "onboard_time": 1770952340,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 536748,
+        "num": 536748,
+        "word": "王菲 春晚",
+        "onboard_time": 1770953061,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 421370,
+        "num": 421370,
+        "word": "湛江一海滩发现疑似儒艮尸体",
+        "onboard_time": 1770955339,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 388856,
+        "num": 388856,
+        "word": "王鑫被查",
+        "onboard_time": 1770950660,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 358568,
+        "num": 358568,
+        "word": "交警查酒驾意外见家长一秒脸红",
+        "onboard_time": 1770953781,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 286650,
+        "num": 286650,
+        "word": "丞磊王楚然 京洛再无佳人",
+        "onboard_time": 1770956540,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 274487,
+        "num": 274487,
+        "word": "总台声明",
+        "onboard_time": 1770951919,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177539,
+        "num": 177539,
+        "word": "孙龙哽咽是我的问题我承认",
+        "onboard_time": 1770953539,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 313644,
+        "num": 177440,
+        "word": "日本当局再次扣押中国大陆渔船",
+        "onboard_time": 1770957501,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 288118,
+        "num": 175354,
+        "word": "方家翊整容",
+        "onboard_time": 1770952940,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272824,
+        "num": 174143,
+        "word": "中戏",
+        "onboard_time": 1770953901,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 231636,
+        "num": 172252,
+        "word": "前女友送的40克银镯子内含30克黄金",
+        "onboard_time": 1770958340,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206674,
+        "num": 171698,
+        "word": "明星红包分组",
+        "onboard_time": 1770953901,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203133,
+        "num": 169814,
+        "word": "以为王俊凯要向周杰伦告白",
+        "onboard_time": 1770953241,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169261,
+        "num": 169261,
+        "word": "有个一直说话的人真的太重要了",
+        "onboard_time": 1770953600,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 165190,
+        "num": 165190,
+        "word": "林孝埈赛后更新自动回复",
+        "onboard_time": 1770955942,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162253,
+        "num": 162253,
+        "word": "白日提灯",
+        "onboard_time": 1770950719,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161373,
+        "num": 161373,
+        "word": "我的妈妈是校花开播",
+        "onboard_time": 1770956540,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 302000,
+        "num": 160426,
+        "word": "女演员曾公开称美国上流精英吃婴儿",
+        "onboard_time": 1770948739,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 766171,
+        "num": 159025,
+        "word": "橹穆双人卡",
+        "onboard_time": 1770954681,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 484508,
+        "num": 156030,
+        "word": "小酒窝朵朵三亚度假",
+        "onboard_time": 1770956181,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176983,
+        "num": 155745,
+        "word": "红马年能不能穿红",
+        "onboard_time": 1770955100,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170732,
+        "num": 153545,
+        "word": "伴侣感染HPV是不干净吗",
+        "onboard_time": 1770956421,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 152038,
+        "num": 152038,
+        "word": "不要跟老人提喜欢吃什么",
+        "onboard_time": 1770946099,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 135808,
+        "num": 135808,
+        "word": "BLACKPINK新专配置公开",
+        "onboard_time": 1770951381,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 129377,
+        "num": 129377,
+        "word": "开心麻花也是拍上长剧了",
+        "onboard_time": 1770957801,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108295,
+        "num": 108295,
+        "word": "男子中940万大奖以为自己没睡醒",
+        "onboard_time": 1770949459,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126673,
+        "num": 108186,
+        "word": "炎亚纶自曝通过吴尊传话",
+        "onboard_time": 1770950959,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123546,
+        "num": 106005,
+        "word": "周杰伦杭州演唱会",
+        "onboard_time": 1770955161,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 94051,
+        "num": 94051,
+        "word": "DeepSeek回应被指冷淡",
+        "onboard_time": 1770953901,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 116571,
+        "num": 93598,
+        "word": "央视主持人的含金量还在上升",
+        "onboard_time": 1770957260,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91447,
+        "num": 91447,
+        "word": "网红贵州民工回应抚养8个孩子",
+        "onboard_time": 1770955880,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 86668,
+        "num": 86668,
+        "word": "微信 贴图",
+        "onboard_time": 1770958161,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 85143,
+        "num": 85143,
+        "word": "孙龙摘银后刘少昂比他还激动",
+        "onboard_time": 1770955880,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31044,
+        "num": 77723,
+        "word": "专家称全国六成分娩量在县城",
+        "onboard_time": 1770958821,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77523,
+        "num": 77523,
+        "word": "李一桐陈雀儿好美",
+        "onboard_time": 1770951080,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34038,
+        "num": 77400,
+        "word": "王楚然成何体统落泪吻",
+        "onboard_time": 1770957801,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29070,
+        "num": 77306,
+        "word": "青海省副省长点赞生命树",
+        "onboard_time": 1770958340,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76634,
+        "num": 77296,
+        "word": "任何生物都受不了舟车劳顿",
+        "onboard_time": 1770955761,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 77286,
+        "num": 77286,
+        "word": "TFING头像换回来了",
+        "onboard_time": 1770951200,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76868,
+        "num": 76868,
+        "word": "生命树杨紫张哲华卧一半没底了",
+        "onboard_time": 1770958521,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74642,
+        "num": 74642,
+        "word": "迪丽热巴陈飞宇主演白日提灯",
+        "onboard_time": 1770957441,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73565,
+        "num": 73565,
+        "word": "金银铜全线上涨",
+        "onboard_time": 1770957441,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 76131,
+        "num": 73032,
+        "word": "这是剧宣不是官宣啊",
+        "onboard_time": 1770954681,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72365,
+        "num": 72365,
+        "word": "王俊凯新歌",
+        "onboard_time": 1770949099,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 71636,
+        "num": 71636,
+        "word": "潮汕英歌舞到底有多震撼",
+        "onboard_time": 1770958220,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 69329,
+        "num": 69329,
+        "word": "无锡威玛犬",
+        "onboard_time": 1770958581,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68291,
+        "num": 68291,
+        "word": "虞书欣衣帽间",
+        "onboard_time": 1770920055,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记一起品味年俗文化#"
+    }
+  }
+}
