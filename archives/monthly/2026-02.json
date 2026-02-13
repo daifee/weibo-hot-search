@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1770964614734,
+  "endTime": 1770969373039,
   "band_list": [
     {
       "raw_hot": 12386962,
@@ -907,6 +907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1065597,
+      "num": 154639,
+      "word": "瑶一瑶藏剪刀被安检发现",
+      "onboard_time": 1770967102,
+      "rank": 10,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1060406,
       "num": 796467,
       "word": "农村抑郁症确诊率低自杀率反而更高",
@@ -1801,6 +1809,14 @@
       "onboard_time": 1770296369,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 778563,
+      "num": 154059,
+      "word": "任敏回老家也得穿省服",
+      "onboard_time": 1770965902,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 772830,
@@ -6803,6 +6819,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 331005,
+      "num": 331005,
+      "word": "父母花了几十万装修的房子",
+      "onboard_time": 1770962721,
+      "rank": 48,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 330464,
       "num": 330464,
       "word": "网剧炽热吸引",
@@ -6929,6 +6953,14 @@
       "onboard_time": 1770962060,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 325448,
+      "num": 153421,
+      "word": "肖战回复侯鸿亮",
+      "onboard_time": 1770965120,
+      "rank": 13,
+      "category": "电影"
     },
     {
       "raw_hot": 324128,
@@ -7105,6 +7137,14 @@
       "onboard_time": 1770882920,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 318389,
+      "num": 337335,
+      "word": "薛之谦广州站官宣",
+      "onboard_time": 1770966560,
+      "rank": 3,
+      "category": "演出"
     },
     {
       "raw_hot": 317801,
@@ -8515,6 +8555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 272677,
+      "num": 272677,
+      "word": "白鹿李昀锐春晚造型",
+      "onboard_time": 1770964400,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 272149,
       "num": 272149,
       "word": "沈腾 想起来了全想起来了",
@@ -8977,6 +9025,14 @@
       "onboard_time": 1770008902,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 257439,
+      "num": 152782,
+      "word": "冯巩想死我了 张兴朝哭死我了",
+      "onboard_time": 1770964882,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 256627,
@@ -10155,6 +10211,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 231338,
+      "num": 152537,
+      "word": "爱泼斯坦假尸体事件披露",
+      "onboard_time": 1770967761,
+      "rank": 15,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 231282,
       "num": 186938,
       "word": "时代少年团 麦克风",
@@ -10345,14 +10409,6 @@
       "onboard_time": 1769946082,
       "rank": 18,
       "category": "演出"
-    },
-    {
-      "raw_hot": 226936,
-      "num": 160191,
-      "word": "白鹿李昀锐春晚造型",
-      "onboard_time": 1770964400,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 226751,
@@ -10929,14 +10985,6 @@
       "onboard_time": 1770522740,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 214759,
-      "num": 214759,
-      "word": "父母花了几十万装修的房子",
-      "onboard_time": 1770962721,
-      "rank": 48,
-      "category": "休闲"
     },
     {
       "raw_hot": 214699,
@@ -12595,6 +12643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 179850,
+      "num": 179850,
+      "word": "TTG对战DYG",
+      "onboard_time": 1770963680,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 179700,
       "num": 179700,
       "word": "刘耀文走了3次红毯",
@@ -13875,6 +13931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 158392,
+      "num": 145388,
+      "word": "王橹杰 祝你永远闪烁",
+      "onboard_time": 1770963921,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 158367,
       "num": 158367,
       "word": "网红战痘神药副作用竟影响性功能",
@@ -14987,14 +15051,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 145328,
-      "num": 145328,
-      "word": "TTG对战DYG",
-      "onboard_time": 1770963680,
-      "rank": 17,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 144921,
       "num": 194316,
       "word": "久哲卸任RNGM主教练",
@@ -15081,6 +15137,14 @@
       "onboard_time": 1770621319,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 144014,
+      "num": 144014,
+      "word": "北京规则怪谈",
+      "onboard_time": 1770964641,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 143890,
@@ -16003,6 +16067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 135794,
+      "num": 135794,
+      "word": "网红兔狲狲三郎死亡",
+      "onboard_time": 1770966500,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135777,
       "num": 146757,
       "word": "家长回应女儿因神似敦煌美人走红",
@@ -16505,6 +16577,14 @@
       "onboard_time": 1770040162,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 131303,
+      "num": 131303,
+      "word": "爹 生了两个活爹",
+      "onboard_time": 1770963141,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 131238,
@@ -17099,6 +17179,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 126364,
+      "num": 126364,
+      "word": "发1.8亿年终奖老板再招63人",
+      "onboard_time": 1770967220,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 126357,
       "num": 126357,
       "word": "希望台湾尽快取消对两岸航空限制",
@@ -17355,6 +17443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123721,
+      "num": 123721,
+      "word": "6个男艺人屁股夹筷子综艺雷霆画面",
+      "onboard_time": 1770967640,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 123673,
       "num": 123673,
       "word": "恋综男嘉宾吃女嘉宾剩饭",
@@ -17401,6 +17497,14 @@
       "onboard_time": 1770686478,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 123431,
+      "num": 123431,
+      "word": "胡意旋 灵灵花",
+      "onboard_time": 1770966319,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 123422,
@@ -18699,14 +18803,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 115521,
-      "num": 115521,
-      "word": "爹 生了两个活爹",
-      "onboard_time": 1770963141,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 115463,
       "num": 94769,
       "word": "许玮甯邱泽儿子会站了",
@@ -19659,6 +19755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 109788,
+      "num": 134912,
+      "word": "跟着易烊千玺教爸妈用千问",
+      "onboard_time": 1770968421,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 109717,
       "num": 109717,
       "word": "韩国股民疯抢中国大模型龙头",
@@ -20123,6 +20227,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 107898,
+      "num": 104738,
+      "word": "王鑫生万物戏份仍在",
+      "onboard_time": 1770963621,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 107853,
       "num": 107853,
       "word": "KPL",
@@ -20467,14 +20579,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 106334,
-      "num": 106334,
-      "word": "王橹杰 祝你永远闪烁",
-      "onboard_time": 1770963921,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 106209,
       "num": 106209,
       "word": "LadyGaga格莱美最佳专辑",
@@ -20731,6 +20835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104890,
+      "num": 104890,
+      "word": "王濛说范可新挺不容易的",
+      "onboard_time": 1770967460,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 104880,
       "num": 104880,
       "word": "2026中国网络视听盛典红毯",
@@ -20873,6 +20985,14 @@
       "onboard_time": 1770718879,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104329,
+      "num": 104329,
+      "word": "钎城后羿四杀",
+      "onboard_time": 1770969320,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 104248,
@@ -21483,6 +21603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 101639,
+      "num": 101639,
+      "word": "虞书欣每天一杯奶茶",
+      "onboard_time": 1770969140,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 101634,
       "num": 95699,
       "word": "生命树收视破2点5",
@@ -22083,6 +22211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 98850,
+      "num": 98850,
+      "word": "林允骨相",
+      "onboard_time": 1770967281,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 98835,
       "num": 98835,
       "word": "罗云熙陈瑶是同个公司的",
@@ -22601,6 +22737,14 @@
       "onboard_time": 1770276144,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 96916,
+      "num": 96916,
+      "word": "60岁男子硬座返乡谈彩礼几十万",
+      "onboard_time": 1770966979,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96900,
@@ -23547,14 +23691,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 93205,
-      "num": 93205,
-      "word": "王鑫生万物戏份仍在",
-      "onboard_time": 1770963621,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 93202,
       "num": 93202,
       "word": "花样滑冰团体决赛",
@@ -23665,6 +23801,14 @@
       "onboard_time": 1770476061,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 92575,
+      "num": 92575,
+      "word": "中戏院长郝戎落马不足两个月",
+      "onboard_time": 1770967580,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 92540,
@@ -25267,6 +25411,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 86969,
+      "num": 86969,
+      "word": "蛇年A股收官",
+      "onboard_time": 1770967999,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
       "raw_hot": 86917,
       "num": 86917,
       "word": "邹明轩瘦了好多",
@@ -25449,6 +25601,14 @@
       "onboard_time": 1770074958,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 86054,
+      "num": 86054,
+      "word": "小猫下意识的把头伸过去",
+      "onboard_time": 1770967340,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 86050,
@@ -26217,6 +26377,14 @@
       "onboard_time": 1770626960,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 83194,
+      "num": 146630,
+      "word": "外交部回应日本扣押中国渔船",
+      "onboard_time": 1770969082,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 83173,
@@ -27051,6 +27219,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 80156,
+      "num": 80156,
+      "word": "蔡徐坤 COLDY",
+      "onboard_time": 1770967520,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 80125,
       "num": 160750,
       "word": "女子兼职羽绒服代购最高日赚3000多",
@@ -27273,6 +27449,14 @@
       "onboard_time": 1770246978,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 79547,
+      "num": 79547,
+      "word": "DYG这是什么阵容",
+      "onboard_time": 1770965660,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 79496,
@@ -29435,6 +29619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 66765,
+      "num": 79118,
+      "word": "樊振东本赛季出场计划",
+      "onboard_time": 1770968960,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 66690,
       "num": 66690,
       "word": "沈腾 不方便的话全让AI说了",
@@ -30265,6 +30457,14 @@
       "onboard_time": 1769920700,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 60680,
+      "num": 79070,
+      "word": "詹姆斯史上最老三双",
+      "onboard_time": 1770964162,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 60676,
@@ -32619,6 +32819,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 41483,
+      "num": 97750,
+      "word": "张柏芝婴儿肥时期",
+      "onboard_time": 1770968181,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 41461,
       "num": 738860,
       "word": "到中国过年成为热潮",
@@ -33657,6 +33865,14 @@
       "onboard_time": 1770538460,
       "rank": 19,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 33681,
+      "num": 97239,
+      "word": "谭松韵演的小胡姬",
+      "onboard_time": 1770968481,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 33677,

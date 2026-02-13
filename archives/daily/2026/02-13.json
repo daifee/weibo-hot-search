@@ -1,6 +1,6 @@
 {
   "startTime": 1770912100688,
-  "endTime": 1770964614734,
+  "endTime": 1770969373039,
   "band_list": [
     {
       "raw_hot": 1583868,
@@ -27,6 +27,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1065597,
+      "num": 154639,
+      "word": "瑶一瑶藏剪刀被安检发现",
+      "onboard_time": 1770967102,
+      "rank": 10,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1023123,
       "num": 165468,
       "word": "女演员曾公开称美国上流精英吃婴儿",
@@ -41,6 +49,14 @@
       "onboard_time": 1770954501,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 778563,
+      "num": 154059,
+      "word": "任敏回老家也得穿省服",
+      "onboard_time": 1770965902,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 766171,
@@ -203,6 +219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 331005,
+      "num": 331005,
+      "word": "父母花了几十万装修的房子",
+      "onboard_time": 1770962721,
+      "rank": 48,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 329320,
       "num": 149340,
       "word": "宋亚轩遇到了最懂他的刘耀文",
@@ -219,12 +243,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 325448,
+      "num": 153421,
+      "word": "肖战回复侯鸿亮",
+      "onboard_time": 1770965120,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
       "raw_hot": 319491,
       "num": 319491,
       "word": "微信 贴图",
       "onboard_time": 1770958161,
       "rank": 34,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 318389,
+      "num": 337335,
+      "word": "薛之谦广州站官宣",
+      "onboard_time": 1770966560,
+      "rank": 3,
+      "category": "演出"
     },
     {
       "raw_hot": 315136,
@@ -331,6 +371,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 272677,
+      "num": 272677,
+      "word": "白鹿李昀锐春晚造型",
+      "onboard_time": 1770964400,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 257439,
+      "num": 152782,
+      "word": "冯巩想死我了 张兴朝哭死我了",
+      "onboard_time": 1770964882,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 254768,
       "num": 254768,
       "word": "爸妈嘴里的大大方方",
@@ -371,6 +427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 231338,
+      "num": 152537,
+      "word": "爱泼斯坦假尸体事件披露",
+      "onboard_time": 1770967761,
+      "rank": 15,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 229178,
       "num": 229178,
       "word": "爸爸被劝酒女儿站身后霸气挡酒",
@@ -385,14 +449,6 @@
       "onboard_time": 1770951381,
       "rank": 11,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 226936,
-      "num": 160191,
-      "word": "白鹿李昀锐春晚造型",
-      "onboard_time": 1770964400,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 223424,
@@ -425,14 +481,6 @@
       "onboard_time": 1770937877,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 214759,
-      "num": 214759,
-      "word": "父母花了几十万装修的房子",
-      "onboard_time": 1770962721,
-      "rank": 48,
-      "category": "休闲"
     },
     {
       "raw_hot": 209053,
@@ -523,6 +571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 185637,
+      "num": 151854,
+      "word": "A股",
+      "onboard_time": 1770964039,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
       "raw_hot": 184624,
       "num": 138411,
       "word": "10岁女生校内晕倒称遭多名男生殴打",
@@ -544,6 +600,14 @@
       "word": "王者荣耀马年全明星表演赛",
       "onboard_time": 1770891981,
       "rank": 14,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 179850,
+      "num": 179850,
+      "word": "TTG对战DYG",
+      "onboard_time": 1770963680,
+      "rank": 17,
       "category": "电竞"
     },
     {
@@ -675,6 +739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 158392,
+      "num": 145388,
+      "word": "王橹杰 祝你永远闪烁",
+      "onboard_time": 1770963921,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 156949,
       "num": 156949,
       "word": "速度滑冰女子5000米",
@@ -731,14 +803,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 145328,
-      "num": 145328,
-      "word": "TTG对战DYG",
-      "onboard_time": 1770963680,
-      "rank": 17,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 144519,
       "num": 144519,
       "word": "林孝埈状态",
@@ -753,6 +817,14 @@
       "onboard_time": 1770946400,
       "rank": 17,
       "category": "网红"
+    },
+    {
+      "raw_hot": 144014,
+      "num": 144014,
+      "word": "北京规则怪谈",
+      "onboard_time": 1770964641,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 141702,
@@ -777,6 +849,14 @@
       "onboard_time": 1770957260,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 135794,
+      "num": 135794,
+      "word": "网红兔狲狲三郎死亡",
+      "onboard_time": 1770966500,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 135777,
@@ -817,6 +897,14 @@
       "onboard_time": 1770902722,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 131303,
+      "num": 131303,
+      "word": "爹 生了两个活爹",
+      "onboard_time": 1770963141,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 130705,
@@ -867,12 +955,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 126364,
+      "num": 126364,
+      "word": "发1.8亿年终奖老板再招63人",
+      "onboard_time": 1770967220,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 123822,
       "num": 123822,
       "word": "LOLM送给玩家的情书",
       "onboard_time": 1770959119,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 123721,
+      "num": 123721,
+      "word": "6个男艺人屁股夹筷子综艺雷霆画面",
+      "onboard_time": 1770967640,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 123546,
@@ -883,20 +987,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 123431,
+      "num": 123431,
+      "word": "胡意旋 灵灵花",
+      "onboard_time": 1770966319,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 122291,
       "num": 122291,
       "word": "AI替代不了付航是有原因的",
       "onboard_time": 1770962780,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 120547,
-      "num": 120547,
-      "word": "A股",
-      "onboard_time": 1770964039,
-      "rank": 31,
-      "category": "财经"
     },
     {
       "raw_hot": 119557,
@@ -947,14 +1051,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 115521,
-      "num": 115521,
-      "word": "爹 生了两个活爹",
-      "onboard_time": 1770963141,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 115238,
       "num": 115238,
       "word": "魏晨你是住在央视了吗",
@@ -979,12 +1075,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 109788,
+      "num": 134912,
+      "word": "跟着易烊千玺教爸妈用千问",
+      "onboard_time": 1770968421,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 108241,
       "num": 108241,
       "word": "冬奥短道速滑男子1000米",
       "onboard_time": 1770925334,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 107898,
+      "num": 104738,
+      "word": "王鑫生万物戏份仍在",
+      "onboard_time": 1770963621,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 107618,
@@ -1003,14 +1115,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 106334,
-      "num": 106334,
-      "word": "王橹杰 祝你永远闪烁",
-      "onboard_time": 1770963921,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 105084,
       "num": 98775,
       "word": "生命树杨紫张哲华卧一半没底了",
@@ -1019,12 +1123,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 104890,
+      "num": 104890,
+      "word": "王濛说范可新挺不容易的",
+      "onboard_time": 1770967460,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 104528,
       "num": 145994,
       "word": "家乡那家肯德基",
       "onboard_time": 1770960800,
       "rank": 23,
       "category": "美食"
+    },
+    {
+      "raw_hot": 104329,
+      "num": 104329,
+      "word": "钎城后羿四杀",
+      "onboard_time": 1770969320,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 104259,
@@ -1083,6 +1203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 101639,
+      "num": 101639,
+      "word": "虞书欣每天一杯奶茶",
+      "onboard_time": 1770969140,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 99901,
       "num": 99901,
       "word": "DeepSeek回应被指冷淡",
@@ -1097,6 +1225,14 @@
       "onboard_time": 1770921615,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 98850,
+      "num": 98850,
+      "word": "林允骨相",
+      "onboard_time": 1770967281,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 98251,
@@ -1123,6 +1259,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 96916,
+      "num": 96916,
+      "word": "60岁男子硬座返乡谈彩礼几十万",
+      "onboard_time": 1770966979,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96750,
       "num": 96750,
       "word": "印度要买114架阵风",
@@ -1147,12 +1291,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 93205,
-      "num": 93205,
-      "word": "王鑫生万物戏份仍在",
-      "onboard_time": 1770963621,
-      "rank": 38,
-      "category": "剧集"
+      "raw_hot": 92575,
+      "num": 92575,
+      "word": "中戏院长郝戎落马不足两个月",
+      "onboard_time": 1770967580,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 91447,
@@ -1203,11 +1347,27 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 86969,
+      "num": 86969,
+      "word": "蛇年A股收官",
+      "onboard_time": 1770967999,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
       "raw_hot": 86447,
       "num": 86447,
       "word": "东北过年的紧迫感",
       "onboard_time": 1770964220,
       "rank": 40,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 86054,
+      "num": 86054,
+      "word": "小猫下意识的把头伸过去",
+      "onboard_time": 1770967340,
+      "rank": 44,
       "category": "幽默"
     },
     {
@@ -1243,6 +1403,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 83194,
+      "num": 146630,
+      "word": "外交部回应日本扣押中国渔船",
+      "onboard_time": 1770969082,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 81924,
       "num": 81924,
       "word": "何与miumiu活动生图路透",
@@ -1265,6 +1433,22 @@
       "onboard_time": 1770910400,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 80156,
+      "num": 80156,
+      "word": "蔡徐坤 COLDY",
+      "onboard_time": 1770967520,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 79547,
+      "num": 79547,
+      "word": "DYG这是什么阵容",
+      "onboard_time": 1770965660,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 79010,
@@ -1395,6 +1579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 66765,
+      "num": 79118,
+      "word": "樊振东本赛季出场计划",
+      "onboard_time": 1770968960,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 66471,
       "num": 69014,
       "word": "莱巴金娜无缘多哈赛四强",
@@ -1505,6 +1697,14 @@
       "onboard_time": 1770892461,
       "rank": 42,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 60680,
+      "num": 79070,
+      "word": "詹姆斯史上最老三双",
+      "onboard_time": 1770964162,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 60586,
@@ -1707,6 +1907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 41483,
+      "num": 97750,
+      "word": "张柏芝婴儿肥时期",
+      "onboard_time": 1770968181,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 41455,
       "num": 39819,
       "word": "范可新无缘500米决赛",
@@ -1785,6 +1993,14 @@
       "onboard_time": 1770957801,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 33681,
+      "num": 97239,
+      "word": "谭松韵演的小胡姬",
+      "onboard_time": 1770968481,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 32831,
