@@ -1,6 +1,6 @@
 {
   "startTime": 1770482461321,
-  "endTime": 1770988565510,
+  "endTime": 1770990179540,
   "band_list": [
     {
       "raw_hot": 7279878,
@@ -49,6 +49,14 @@
       "onboard_time": 1770728061,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2277608,
+      "num": 2277608,
+      "word": "豆包红包",
+      "onboard_time": 1770986539,
+      "rank": 0,
+      "category": "互联网"
     },
     {
       "raw_hot": 2213882,
@@ -105,14 +113,6 @@
       "onboard_time": 1770891981,
       "rank": 3,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 1713569,
-      "num": 1713569,
-      "word": "豆包红包",
-      "onboard_time": 1770986539,
-      "rank": 0,
-      "category": "互联网"
     },
     {
       "raw_hot": 1648080,
@@ -540,7 +540,7 @@
     },
     {
       "raw_hot": 842941,
-      "num": 939716,
+      "num": 971563,
       "word": "我家那小子首发阵容官宣",
       "onboard_time": 1770979881,
       "rank": 5,
@@ -2787,6 +2787,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 353640,
+      "num": 353640,
+      "word": "湖北精神病医院有关问题调查结果",
+      "onboard_time": 1770989120,
+      "rank": 3,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 353318,
       "num": 353318,
       "word": "成龙沈佳润合唱",
@@ -3265,6 +3273,14 @@
       "onboard_time": 1770957501,
       "rank": 10,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 313470,
+      "num": 163111,
+      "word": "美团预计净亏损233亿至243亿",
+      "onboard_time": 1770988100,
+      "rank": 33,
+      "category": "互联网"
     },
     {
       "raw_hot": 313004,
@@ -4012,7 +4028,7 @@
     },
     {
       "raw_hot": 262043,
-      "num": 161282,
+      "num": 161650,
       "word": "周秀娜回应",
       "onboard_time": 1770986961,
       "rank": 18,
@@ -4129,6 +4145,14 @@
       "onboard_time": 1770691999,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 255228,
+      "num": 255228,
+      "word": "主人回应边牧凌晨下单100多个灯笼",
+      "onboard_time": 1770986242,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 255193,
@@ -4500,7 +4524,7 @@
     },
     {
       "raw_hot": 236635,
-      "num": 145803,
+      "num": 156283,
       "word": "橹穆双人采访预告",
       "onboard_time": 1770983480,
       "rank": 41,
@@ -4513,6 +4537,14 @@
       "onboard_time": 1770528858,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 236131,
+      "num": 236131,
+      "word": "惠英红的眉眼 棠夫人的灵魂",
+      "onboard_time": 1770975680,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 235980,
@@ -4633,14 +4665,6 @@
       "onboard_time": 1770825921,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 230880,
-      "num": 230880,
-      "word": "惠英红的眉眼 棠夫人的灵魂",
-      "onboard_time": 1770975680,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 230331,
@@ -5907,6 +5931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 179473,
+      "num": 154221,
+      "word": "瑶一瑶小肉包近30天掉粉6万",
+      "onboard_time": 1770990023,
+      "rank": 21,
+      "category": "网红"
+    },
+    {
       "raw_hot": 178965,
       "num": 178965,
       "word": "时代峰峻包场支持惊蛰无声",
@@ -6299,6 +6331,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 164190,
+      "num": 164190,
+      "word": "此刻想去泰国的心达到了顶峰",
+      "onboard_time": 1770989361,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 164188,
       "num": 164188,
       "word": "米兰冬奥会偶遇关晓彤",
@@ -6472,6 +6512,14 @@
       "word": "王橹杰 祝你永远闪烁",
       "onboard_time": 1770963921,
       "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 158367,
+      "num": 150818,
+      "word": "王玉雯敖瑞鹏游戏直播",
+      "onboard_time": 1770986179,
+      "rank": 19,
       "category": "艺人"
     },
     {
@@ -6713,14 +6761,6 @@
       "onboard_time": 1770557243,
       "rank": 33,
       "category": "民生新闻,互联网"
-    },
-    {
-      "raw_hot": 150818,
-      "num": 150818,
-      "word": "王玉雯敖瑞鹏游戏直播",
-      "onboard_time": 1770986179,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 150640,
@@ -7171,6 +7211,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 140677,
+      "num": 135008,
+      "word": "丞磊第20集6分47秒",
+      "onboard_time": 1770988821,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 140558,
       "num": 177902,
       "word": "世乒赛冠军将直接获得复刻奖杯",
@@ -7617,6 +7665,14 @@
       "onboard_time": 1770777260,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 132319,
+      "num": 132319,
+      "word": "薛之谦湖泊唱片版",
+      "onboard_time": 1770989301,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 131731,
@@ -8203,6 +8259,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 120600,
+      "num": 120600,
+      "word": "DeepSeek也不想假装关心",
+      "onboard_time": 1770987860,
+      "rank": 28,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 120319,
       "num": 120319,
       "word": "山东金矿事故致7死11人被控制",
@@ -8225,14 +8289,6 @@
       "onboard_time": 1770717680,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 119979,
-      "num": 119979,
-      "word": "主人回应边牧凌晨下单100多个灯笼",
-      "onboard_time": 1770986242,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 119973,
@@ -8425,6 +8481,14 @@
       "onboard_time": 1770905181,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 117750,
+      "num": 117750,
+      "word": "AG对战JDG",
+      "onboard_time": 1770986300,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 117722,
@@ -9505,14 +9569,6 @@
       "onboard_time": 1770611001,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 106774,
-      "num": 106774,
-      "word": "美团预计净亏损233亿至243亿",
-      "onboard_time": 1770988100,
-      "rank": 33,
-      "category": "互联网"
     },
     {
       "raw_hot": 106753,
@@ -10907,6 +10963,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 93831,
+      "num": 93831,
+      "word": "暗访黑煤矿发现全是自己人",
+      "onboard_time": 1770988640,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 93696,
       "num": 93696,
       "word": "老式东北人VS新式东北人",
@@ -11097,14 +11161,6 @@
       "onboard_time": 1770897500,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 92256,
-      "num": 92256,
-      "word": "AG对战JDG",
-      "onboard_time": 1770986300,
-      "rank": 37,
-      "category": "电竞"
     },
     {
       "raw_hot": 92147,
@@ -12755,20 +12811,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 80017,
+      "num": 80017,
+      "word": "生命树黑吃黑",
+      "onboard_time": 1770988400,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 80008,
       "num": 80008,
       "word": "爆雷的第四大汽车巨头有14个汽车品牌",
       "onboard_time": 1770534079,
       "rank": 47,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 79983,
-      "num": 79983,
-      "word": "生命树黑吃黑",
-      "onboard_time": 1770988400,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 79948,
@@ -12889,6 +12945,14 @@
       "onboard_time": 1770965660,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 79509,
+      "num": 89572,
+      "word": "男子通宵打牌身亡家属索赔牌友28万",
+      "onboard_time": 1770987621,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 79496,
@@ -13169,6 +13233,14 @@
       "onboard_time": 1770898881,
       "rank": 43,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 77341,
+      "num": 77341,
+      "word": "苏新皓 棉花娃娃最严厉的父亲",
+      "onboard_time": 1770989060,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 77320,
@@ -15475,6 +15547,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 47254,
+      "num": 91613,
+      "word": "24岁女孩骑车不戴头盔被撞脑出血",
+      "onboard_time": 1770989782,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46903,
       "num": 46903,
       "word": "米兰冬奥会奖牌",
@@ -16527,14 +16607,6 @@
       "num": 97408,
       "word": "15年闺蜜因医美毁容反目",
       "onboard_time": 1770804620,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 32630,
-      "num": 89572,
-      "word": "男子通宵打牌身亡家属索赔牌友28万",
-      "onboard_time": 1770987621,
       "rank": 39,
       "category": "民生新闻"
     },
@@ -18355,6 +18427,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 8213,
+      "num": 810380,
+      "word": "我国首次海上实施运载火箭搜索回收",
+      "onboard_time": 1770965480,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 7782,
       "num": 125797,
       "word": "没红包你还会用AI软件吗",
@@ -18488,6 +18568,9 @@
     },
     {
       "word": "#春节前夕中央领导同志看望老同志#"
+    },
+    {
+      "word": "#跟着总书记感受年味儿#"
     }
   ]
 }
