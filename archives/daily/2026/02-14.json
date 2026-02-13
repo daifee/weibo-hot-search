@@ -1,0 +1,411 @@
+{
+  "startTime": 1770998880163,
+  "endTime": 1770998880163,
+  "band_list": [
+    {
+      "raw_hot": 4412806,
+      "num": 133351,
+      "word": "白敬亭 宋轶",
+      "onboard_time": 1770992123,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 963183,
+      "num": 567264,
+      "word": "情人节",
+      "onboard_time": 1770996381,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 920119,
+      "num": 1089736,
+      "word": "豆包红包",
+      "onboard_time": 1770986539,
+      "rank": 0,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 805794,
+      "num": 114111,
+      "word": "宋轶换微博背景",
+      "onboard_time": 1770992123,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 737919,
+      "num": 781143,
+      "word": "女子幽门螺杆菌阳性3年后查出胃癌",
+      "onboard_time": 1770992422,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 445041,
+      "num": 168290,
+      "word": "瑶一瑶藏剪刀被安检发现",
+      "onboard_time": 1770967102,
+      "rank": 10,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 373207,
+      "num": 167819,
+      "word": "王橹杰彝族血统发力了",
+      "onboard_time": 1770991642,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 352862,
+      "num": 160050,
+      "word": "谁给迪丽热巴买的手机壳",
+      "onboard_time": 1770982520,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 227562,
+      "num": 227562,
+      "word": "生命树 敢拍",
+      "onboard_time": 1770993683,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 225298,
+      "num": 225298,
+      "word": "我家那小子首发阵容官宣",
+      "onboard_time": 1770979881,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 217630,
+      "num": 158905,
+      "word": "瑶一瑶小肉包近30天掉粉6万",
+      "onboard_time": 1770990023,
+      "rank": 14,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 197690,
+      "num": 197690,
+      "word": "21岁孙子97岁奶奶都觉得对方很好带",
+      "onboard_time": 1770984440,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 169833,
+      "num": 169833,
+      "word": "沈梦辰芒果年会上的发言",
+      "onboard_time": 1770995182,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 169317,
+      "num": 169317,
+      "word": "三亚通报8499元订民宿被临时毁约",
+      "onboard_time": 1770990681,
+      "rank": 8,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 168736,
+      "num": 168736,
+      "word": "男子出手2700克金条5年净赚196万",
+      "onboard_time": 1770995483,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 162870,
+      "num": 162870,
+      "word": "冰壶",
+      "onboard_time": 1770983422,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 150999,
+      "num": 138258,
+      "word": "Angelababy兔耳朵撕拉片",
+      "onboard_time": 1770975140,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 148932,
+      "num": 130709,
+      "word": "泰山 禁石令",
+      "onboard_time": 1770995422,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 138420,
+      "num": 138420,
+      "word": "黄冈通报产检正常娃出生却先天畸形",
+      "onboard_time": 1770997461,
+      "rank": 15,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 136237,
+      "num": 136237,
+      "word": "王星越白鹿居家风合照",
+      "onboard_time": 1770991762,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 134873,
+      "num": 134873,
+      "word": "薛之谦湖泊唱片版",
+      "onboard_time": 1770989301,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 124080,
+      "num": 124080,
+      "word": "主动投案的王鑫是易烊千玺等人老师",
+      "onboard_time": 1770974180,
+      "rank": 22,
+      "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 121002,
+      "num": 135102,
+      "word": "湖北精神病医院有关问题调查结果",
+      "onboard_time": 1770989120,
+      "rank": 18,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 114126,
+      "num": 114126,
+      "word": "官方回应湛江发现儒艮尸体",
+      "onboard_time": 1770978559,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 113637,
+      "num": 113637,
+      "word": "颜人中演唱会延迟1小时送1场",
+      "onboard_time": 1770992663,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 113541,
+      "num": 113541,
+      "word": "王者荣耀农家乐村晚",
+      "onboard_time": 1770982223,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 113129,
+      "num": 113129,
+      "word": "成何体统",
+      "onboard_time": 1770978622,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 110082,
+      "num": 110082,
+      "word": "原著粉最满意的阵容出现了",
+      "onboard_time": 1770982280,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 108810,
+      "num": 108810,
+      "word": "张函瑞单人cha纪录",
+      "onboard_time": 1770997042,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 108064,
+      "num": 108064,
+      "word": "张峻豪直播",
+      "onboard_time": 1770994343,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 105984,
+      "num": 109372,
+      "word": "突然明白了葬礼的意义",
+      "onboard_time": 1770979881,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 104034,
+      "num": 91320,
+      "word": "微博之夜 二刷",
+      "onboard_time": 1770990861,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 92457,
+      "num": 92457,
+      "word": "男子卖前女友送的银镯子竟是银包金",
+      "onboard_time": 1770998179,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 87716,
+      "num": 87716,
+      "word": "王俊凯周杰伦到底还有多少合照",
+      "onboard_time": 1770985341,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 86767,
+      "num": 84851,
+      "word": "李家诚告周秀娜诽谤及骚扰",
+      "onboard_time": 1770980841,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 85252,
+      "num": 85252,
+      "word": "全球最大航母驶向中东",
+      "onboard_time": 1770996861,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 83847,
+      "num": 83847,
+      "word": "懒懒自曝78斤",
+      "onboard_time": 1770992962,
+      "rank": 39,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 82005,
+      "num": 82005,
+      "word": "中国队何时能摘首金",
+      "onboard_time": 1770979760,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 80408,
+      "num": 80408,
+      "word": "Bin晒侧脸照",
+      "onboard_time": 1770993024,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 79775,
+      "num": 79775,
+      "word": "最强大脑",
+      "onboard_time": 1770990923,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 78409,
+      "num": 78409,
+      "word": "发1.8亿企业员工现场数钱画面曝光",
+      "onboard_time": 1770993083,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 75140,
+      "num": 75140,
+      "word": "苍蝇搓手为什么会意外截头",
+      "onboard_time": 1770976402,
+      "rank": 44,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 74250,
+      "num": 74250,
+      "word": "AG对战JDG",
+      "onboard_time": 1770986300,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 69906,
+      "num": 69906,
+      "word": "童星叮当称关晓彤火是应该的",
+      "onboard_time": 1770994523,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 69637,
+      "num": 69637,
+      "word": "DeepSeek或在春节再扔王炸",
+      "onboard_time": 1770995483,
+      "rank": 47,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 67883,
+      "num": 67883,
+      "word": "孟子义情人节三部剧物料",
+      "onboard_time": 1770998841,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 67335,
+      "num": 67335,
+      "word": "重庆江心岛近600年佛像露出水面",
+      "onboard_time": 1770995302,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 63027,
+      "num": 84308,
+      "word": "民警厕所打人受害人被打致小便失禁",
+      "onboard_time": 1770998241,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35512,
+      "num": 118747,
+      "word": "宜昌一精神病院患者自杀情况属实",
+      "onboard_time": 1770998660,
+      "rank": 23,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 22474,
+      "num": 616703,
+      "word": "回家路上随手拍",
+      "onboard_time": 1770990501,
+      "rank": 2,
+      "category": "民生新闻"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#跟着总书记感受年味儿#"
+    }
+  ]
+}

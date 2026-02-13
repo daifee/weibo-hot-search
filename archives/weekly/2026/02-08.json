@@ -1,6 +1,6 @@
 {
   "startTime": 1770482461321,
-  "endTime": 1770997970898,
+  "endTime": 1770998880163,
   "band_list": [
     {
       "raw_hot": 8690838,
@@ -411,6 +411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 963183,
+      "num": 567264,
+      "word": "情人节",
+      "onboard_time": 1770996381,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 962382,
       "num": 233285,
       "word": "李一桐高情商公关",
@@ -715,6 +723,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 737919,
+      "num": 826012,
+      "word": "女子幽门螺杆菌阳性3年后查出胃癌",
+      "onboard_time": 1770992422,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 737748,
       "num": 234666,
       "word": "都暻秀 奶茶也太好喝了",
@@ -744,14 +760,6 @@
       "word": "父亲去世试管婴儿获工亡抚恤金",
       "onboard_time": 1770555021,
       "rank": 22,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 717452,
-      "num": 826012,
-      "word": "女子幽门螺杆菌阳性3年后查出胃癌",
-      "onboard_time": 1770992422,
-      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -993,14 +1001,6 @@
       "onboard_time": 1770779420,
       "rank": 0,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 646979,
-      "num": 155020,
-      "word": "情人节",
-      "onboard_time": 1770996381,
-      "rank": 10,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 646911,
@@ -1676,7 +1676,7 @@
     },
     {
       "raw_hot": 482516,
-      "num": 155121,
+      "num": 167819,
       "word": "王橹杰彝族血统发力了",
       "onboard_time": 1770991642,
       "rank": 11,
@@ -2524,7 +2524,7 @@
     },
     {
       "raw_hot": 382421,
-      "num": 154221,
+      "num": 158905,
       "word": "瑶一瑶小肉包近30天掉粉6万",
       "onboard_time": 1770990023,
       "rank": 21,
@@ -4787,6 +4787,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 227562,
+      "num": 227562,
+      "word": "生命树 敢拍",
+      "onboard_time": 1770993683,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 226751,
       "num": 226751,
       "word": "台当局胆敢在春节挑事必担恶果",
@@ -5153,14 +5161,6 @@
       "onboard_time": 1770527960,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 213645,
-      "num": 213645,
-      "word": "生命树 敢拍",
-      "onboard_time": 1770993683,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 213272,
@@ -6331,6 +6331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 168736,
+      "num": 168736,
+      "word": "男子出手2700克金条5年净赚196万",
+      "onboard_time": 1770995483,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 168663,
       "num": 151348,
       "word": "孙颖莎 E人的I人属性",
@@ -6955,6 +6963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 148932,
+      "num": 130709,
+      "word": "泰山 禁石令",
+      "onboard_time": 1770995422,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 148639,
       "num": 106411,
       "word": "中国男壶加时局惜败",
@@ -7459,6 +7475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 138420,
+      "num": 138420,
+      "word": "黄冈通报产检正常娃出生却先天畸形",
+      "onboard_time": 1770997461,
+      "rank": 19,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 138349,
       "num": 138349,
       "word": "黄朔直播",
@@ -7691,6 +7715,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 134873,
+      "num": 134873,
+      "word": "薛之谦湖泊唱片版",
+      "onboard_time": 1770989301,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 134692,
       "num": 131653,
       "word": "6个男艺人屁股夹筷子综艺雷霆画面",
@@ -7777,14 +7809,6 @@
       "onboard_time": 1770777260,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 132319,
-      "num": 132319,
-      "word": "薛之谦湖泊唱片版",
-      "onboard_time": 1770989301,
-      "rank": 27,
-      "category": "音乐"
     },
     {
       "raw_hot": 131731,
@@ -8056,14 +8080,6 @@
       "word": "35年前乳汁救武警今患癌红嫂回应",
       "onboard_time": 1770912860,
       "rank": 45,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 126897,
-      "num": 126897,
-      "word": "男子出手2700克金条5年净赚196万",
-      "onboard_time": 1770995483,
-      "rank": 16,
       "category": "民生新闻"
     },
     {
@@ -8641,14 +8657,6 @@
       "onboard_time": 1770947180,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 117512,
-      "num": 117512,
-      "word": "泰山 禁石令",
-      "onboard_time": 1770995422,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 117432,
@@ -9435,6 +9443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 108810,
+      "num": 108810,
+      "word": "张函瑞单人cha纪录",
+      "onboard_time": 1770997042,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 108739,
       "num": 108739,
       "word": "樊振东脚边有球急坏了所有人",
@@ -9561,6 +9577,14 @@
       "onboard_time": 1770534260,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 108064,
+      "num": 108064,
+      "word": "张峻豪直播",
+      "onboard_time": 1770994343,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 107998,
@@ -11139,14 +11163,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 93821,
-      "num": 93821,
-      "word": "张函瑞单人cha纪录",
-      "onboard_time": 1770997042,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 93696,
       "num": 93696,
       "word": "老式东北人VS新式东北人",
@@ -11313,6 +11329,14 @@
       "onboard_time": 1770708561,
       "rank": 34,
       "category": "财经"
+    },
+    {
+      "raw_hot": 92457,
+      "num": 92457,
+      "word": "男子卖前女友送的银镯子竟是银包金",
+      "onboard_time": 1770998179,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 92439,
@@ -12315,6 +12339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 85252,
+      "num": 85252,
+      "word": "全球最大航母驶向中东",
+      "onboard_time": 1770996861,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 85159,
       "num": 85159,
       "word": "高市早苗喊话俄罗斯",
@@ -12473,14 +12505,6 @@
       "onboard_time": 1770652220,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 83945,
-      "num": 83945,
-      "word": "全球最大航母驶向中东",
-      "onboard_time": 1770996861,
-      "rank": 43,
-      "category": "国际时政"
     },
     {
       "raw_hot": 83711,
@@ -14059,14 +14083,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 71846,
-      "num": 71846,
-      "word": "张峻豪直播",
-      "onboard_time": 1770994343,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 71792,
       "num": 71792,
       "word": "曝搭载摄像头AirPodsPro今年上市",
@@ -14251,6 +14267,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 69637,
+      "num": 69637,
+      "word": "DeepSeek或在春节再扔王炸",
+      "onboard_time": 1770995483,
+      "rank": 47,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 69629,
       "num": 69726,
       "word": "立威廉得知恶耗时才49岁",
@@ -14393,6 +14417,14 @@
       "onboard_time": 1770848715,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 67883,
+      "num": 67883,
+      "word": "孟子义情人节三部剧物料",
+      "onboard_time": 1770998841,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 67882,
@@ -14737,6 +14769,14 @@
       "onboard_time": 1770618980,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 63027,
+      "num": 84308,
+      "word": "民警厕所打人受害人被打致小便失禁",
+      "onboard_time": 1770998241,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 62896,
@@ -16595,14 +16635,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 36086,
-      "num": 121893,
-      "word": "黄冈通报产检正常娃出生却先天畸形",
-      "onboard_time": 1770997461,
-      "rank": 19,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 35920,
       "num": 157117,
       "word": "AI将短剧5秒特效镜头成本降至3元",
@@ -16625,6 +16657,14 @@
       "onboard_time": 1770655338,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35512,
+      "num": 118747,
+      "word": "宜昌一精神病院患者自杀情况属实",
+      "onboard_time": 1770998660,
+      "rank": 23,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 35426,
@@ -17803,6 +17843,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 22474,
+      "num": 677143,
+      "word": "回家路上随手拍",
+      "onboard_time": 1770990501,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22364,
       "num": 101701,
       "word": "大马男子在缅甸电诈园挨打被迫截趾",
@@ -17873,14 +17921,6 @@
       "onboard_time": 1770499334,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 21460,
-      "num": 677143,
-      "word": "回家路上随手拍",
-      "onboard_time": 1770990501,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 21416,
