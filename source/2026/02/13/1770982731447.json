@@ -1,0 +1,410 @@
+{
+  "runTime": 1770982731447,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 303250,
+        "num": 1048520,
+        "word": "中国队何时能摘首金",
+        "onboard_time": 1770979760,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 485682,
+        "num": 771281,
+        "word": "杭州大哥开1人公司靠AI月入200万",
+        "onboard_time": 1770972199,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21431,
+        "num": 577023,
+        "word": "战马贺春热血沸腾",
+        "onboard_time": 1770971901,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 268466,
+        "num": 268466,
+        "word": "王者荣耀农家乐村晚",
+        "onboard_time": 1770982223,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 266901,
+        "num": 266901,
+        "word": "任子威首个且唯一1000米奥运冠军",
+        "onboard_time": 1770976402,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 842941,
+        "num": 260052,
+        "word": "我家那小子首发阵容官宣",
+        "onboard_time": 1770979881,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206894,
+        "num": 206894,
+        "word": "TF家族新年音乐会纪录片",
+        "onboard_time": 1770977421,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 199314,
+        "num": 199314,
+        "word": "官方回应湛江发现儒艮尸体",
+        "onboard_time": 1770978559,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180166,
+        "num": 180166,
+        "word": "WB对战狼队",
+        "onboard_time": 1770976039,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 155149,
+        "num": 155149,
+        "word": "13年后天娱又签了选秀冠军",
+        "onboard_time": 1770975380,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 366436,
+        "num": 154433,
+        "word": "突然明白了葬礼的意义",
+        "onboard_time": 1770979881,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 331084,
+        "num": 153683,
+        "word": "苍蝇搓手为什么会意外截头",
+        "onboard_time": 1770976402,
+        "rank": 11,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 186127,
+        "num": 151744,
+        "word": "中戏发生了什么",
+        "onboard_time": 1770961281,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177244,
+        "num": 151444,
+        "word": "爱泼斯坦假尸体事件披露",
+        "onboard_time": 1770967761,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 22791,
+        "num": 150328,
+        "word": "微博之夜星光齐聚",
+        "onboard_time": 1770981140,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 149419,
+        "num": 149419,
+        "word": "返乡大哥打工30多年攒近300万",
+        "onboard_time": 1770978200,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130825,
+        "num": 130825,
+        "word": "父母花了几十万装修的房子",
+        "onboard_time": 1770962721,
+        "rank": 16,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 54412,
+        "num": 129196,
+        "word": "拼多多食品安全保障持续加码",
+        "onboard_time": 1770980721,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128541,
+        "num": 128541,
+        "word": "公司利润2.7亿拿1.8亿发年终奖",
+        "onboard_time": 1770954501,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25251,
+        "num": 127323,
+        "word": "商场吸烟室紧邻母婴室引质疑后续",
+        "onboard_time": 1770982160,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 443869,
+        "num": 122569,
+        "word": "瑶一瑶藏剪刀被安检发现",
+        "onboard_time": 1770967102,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 385179,
+        "num": 120792,
+        "word": "主动投案的王鑫是易烊千玺等人老师",
+        "onboard_time": 1770974180,
+        "rank": 21,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 191594,
+        "num": 118054,
+        "word": "衡水中学变了",
+        "onboard_time": 1770977060,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 372588,
+        "num": 113699,
+        "word": "Angelababy兔耳朵撕拉片",
+        "onboard_time": 1770975140,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258792,
+        "num": 112618,
+        "word": "李家诚告周秀娜诽谤及骚扰",
+        "onboard_time": 1770980841,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109801,
+        "num": 109801,
+        "word": "女子为喝中药不苦嘴里塞塑料袋",
+        "onboard_time": 1770976521,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210734,
+        "num": 108464,
+        "word": "偶遇向佐郭碧婷带女儿买衣服",
+        "onboard_time": 1770977060,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207900,
+        "num": 107598,
+        "word": "王艺瑾你对你的脸做了什么",
+        "onboard_time": 1770969741,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86277,
+        "num": 105366,
+        "word": "海关查获老鼠肉干和酱汤泡蚂蚁卵",
+        "onboard_time": 1770979940,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72131,
+        "num": 102115,
+        "word": "车厘子或痛失年货水果C位",
+        "onboard_time": 1770979760,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120785,
+        "num": 101299,
+        "word": "我家那小子定档大年初六",
+        "onboard_time": 1770979701,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179372,
+        "num": 97968,
+        "word": "虞书欣每天一杯奶茶",
+        "onboard_time": 1770969140,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97896,
+        "num": 97896,
+        "word": "加拿大小偷已经放飞自我了",
+        "onboard_time": 1770977302,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 151873,
+        "num": 97744,
+        "word": "惠英红的眉眼 棠夫人的灵魂",
+        "onboard_time": 1770975680,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131362,
+        "num": 97162,
+        "word": "TFING直播",
+        "onboard_time": 1770977302,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94696,
+        "num": 94696,
+        "word": "关于婆婆带我花两百块烫了个头",
+        "onboard_time": 1770977238,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119539,
+        "num": 90757,
+        "word": "谁给迪丽热巴买的手机壳",
+        "onboard_time": 1770982520,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117490,
+        "num": 88658,
+        "word": "章若楠王安宇新剧开机",
+        "onboard_time": 1770971720,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84486,
+        "num": 84486,
+        "word": "给员工发1.8亿年终奖的老板招人了",
+        "onboard_time": 1770979760,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115091,
+        "num": 83311,
+        "word": "黄景瑜关晓彤定档海报",
+        "onboard_time": 1770979881,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112220,
+        "num": 83022,
+        "word": "成何体统",
+        "onboard_time": 1770978622,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 77951,
+        "num": 77951,
+        "word": "爷爷抢走了爸爸的猫",
+        "onboard_time": 1770982640,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 111526,
+        "num": 77115,
+        "word": "原著粉最满意的阵容出现了",
+        "onboard_time": 1770982280,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107338,
+        "num": 77063,
+        "word": "时代少年团庆祝出道2222天",
+        "onboard_time": 1770979281,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74921,
+        "num": 74921,
+        "word": "两个人沟通其实是八个人沟通",
+        "onboard_time": 1770982460,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 100371,
+        "num": 74689,
+        "word": "白鹿李昀锐春晚造型",
+        "onboard_time": 1770964400,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95310,
+        "num": 74498,
+        "word": "陶喆在线道歉",
+        "onboard_time": 1770982460,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65127,
+        "num": 74278,
+        "word": "AG女子战队AGE成立",
+        "onboard_time": 1770982580,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 88122,
+        "num": 73982,
+        "word": "陈哲远回家过年",
+        "onboard_time": 1770971361,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79570,
+        "num": 73816,
+        "word": "任敏回老家也得穿省服",
+        "onboard_time": 1770965902,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#春节前夕中央领导同志看望老同志#"
+    }
+  }
+}
