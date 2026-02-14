@@ -1,0 +1,410 @@
+{
+  "runTime": 1771038871696,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 678522,
+        "num": 1108563,
+        "word": "花滑米兰惨案",
+        "onboard_time": 1771026258,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 452737,
+        "num": 804035,
+        "word": "羽生结弦的含金量还在上升",
+        "onboard_time": 1771030099,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15918,
+        "num": 628177,
+        "word": "回家路上随手拍",
+        "onboard_time": 1770990501,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 602905,
+        "num": 602905,
+        "word": "蔡文静工伤",
+        "onboard_time": 1771038199,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 399183,
+        "num": 399183,
+        "word": "骄阳似我",
+        "onboard_time": 1771036279,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 326004,
+        "num": 326004,
+        "word": "情人节红包",
+        "onboard_time": 1771028359,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 275122,
+        "num": 275122,
+        "word": "白鹿 剧宣的神",
+        "onboard_time": 1771031000,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 313061,
+        "num": 274385,
+        "word": "情人节",
+        "onboard_time": 1770996381,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 243138,
+        "num": 243138,
+        "word": "这一秒过火",
+        "onboard_time": 1771035020,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 242926,
+        "num": 242926,
+        "word": "迪士尼指控Seedance侵权",
+        "onboard_time": 1771033099,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 285397,
+        "num": 235631,
+        "word": "孟子义何与吻戏",
+        "onboard_time": 1771035439,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217690,
+        "num": 217690,
+        "word": "新娘称婚宴4000一桌被亲友说最难吃",
+        "onboard_time": 1771000699,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224778,
+        "num": 217100,
+        "word": "百花杀",
+        "onboard_time": 1771035141,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213907,
+        "num": 213907,
+        "word": "王鹤棣cortis拍了cha",
+        "onboard_time": 1771030820,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 7796,
+        "num": 202943,
+        "word": "送阿福成为各地新年俗",
+        "onboard_time": 1771038020,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200645,
+        "num": 200645,
+        "word": "孟子义李昀锐情人节九宫格",
+        "onboard_time": 1771036519,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 196881,
+        "num": 196881,
+        "word": "给iPhone7配二手苹果表担心来路不正",
+        "onboard_time": 1771037060,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 181831,
+        "num": 181831,
+        "word": "杨瀚森首次亮相NBA全明星",
+        "onboard_time": 1771037300,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180808,
+        "num": 180808,
+        "word": "樊振东2比3温瑞博",
+        "onboard_time": 1771024337,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66136,
+        "num": 177316,
+        "word": "台湾艺人在郑州做主播称有奔头儿",
+        "onboard_time": 1771037660,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 847229,
+        "num": 176425,
+        "word": "白敬亭 宋轶",
+        "onboard_time": 1770992123,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 570728,
+        "num": 175688,
+        "word": "得知22岁儿子巴厘岛溺亡母亲哭晕",
+        "onboard_time": 1771037120,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174479,
+        "num": 174479,
+        "word": "女子29元韭菜炒蚌肉吃出1颗粉珍珠",
+        "onboard_time": 1771030340,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180040,
+        "num": 171461,
+        "word": "檀健次卢昱晓捧杯海报",
+        "onboard_time": 1771037660,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160302,
+        "num": 160302,
+        "word": "矿山员工10分钟数9.5万现金手抽筋",
+        "onboard_time": 1771035920,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 468659,
+        "num": 160273,
+        "word": "宋轶好刚",
+        "onboard_time": 1771027460,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154165,
+        "num": 154165,
+        "word": "玉簟秋揽腰吻海报",
+        "onboard_time": 1771035020,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142632,
+        "num": 142632,
+        "word": "月薪6000春节加班4天拿4400元",
+        "onboard_time": 1771038260,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142832,
+        "num": 139072,
+        "word": "亲爱的客栈定档",
+        "onboard_time": 1771038380,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 68141,
+        "num": 133478,
+        "word": "孙龙林孝埈刘少昂出战1500米",
+        "onboard_time": 1771030520,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132820,
+        "num": 132820,
+        "word": "生命树后期尺度",
+        "onboard_time": 1771028960,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130726,
+        "num": 130726,
+        "word": "何不同舟渡",
+        "onboard_time": 1771036881,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118059,
+        "num": 118059,
+        "word": "女子幽门螺杆菌阳性3年后查出胃癌",
+        "onboard_time": 1770992422,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117150,
+        "num": 117150,
+        "word": "王栎鑫女儿因被怼脸拍生气",
+        "onboard_time": 1771024277,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112246,
+        "num": 112246,
+        "word": "意大利失联中国博士生最新进展",
+        "onboard_time": 1771028898,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 33955,
+        "num": 110873,
+        "word": "德国总理说美国独行无法伟大",
+        "onboard_time": 1771037480,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 110805,
+        "num": 110805,
+        "word": "这两幕居然是白宇同一天拍的",
+        "onboard_time": 1771038080,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110273,
+        "num": 110273,
+        "word": "逐玉速抬",
+        "onboard_time": 1771037360,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109085,
+        "num": 109085,
+        "word": "樊振东2比3高茨",
+        "onboard_time": 1771024037,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18247,
+        "num": 105498,
+        "word": "张艺谋模仿刘耀文",
+        "onboard_time": 1771038260,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 104972,
+        "num": 104972,
+        "word": "杨瀚森10分2板",
+        "onboard_time": 1771038560,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99282,
+        "num": 99282,
+        "word": "2700克金条388元购入1121元出手",
+        "onboard_time": 1771026077,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97116,
+        "num": 97116,
+        "word": "民警厕所打人受害人被打致小便失禁",
+        "onboard_time": 1770998241,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96699,
+        "num": 96699,
+        "word": "马里宁自由滑重大失误",
+        "onboard_time": 1771023616,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92241,
+        "num": 92241,
+        "word": "樊振东最淡定输球",
+        "onboard_time": 1771034301,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87513,
+        "num": 87513,
+        "word": "金饰价格涨到1551元",
+        "onboard_time": 1771035500,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 86485,
+        "num": 86485,
+        "word": "情人节翻垃圾桶",
+        "onboard_time": 1771036759,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 85814,
+        "num": 85814,
+        "word": "情人节微信开放520元红包",
+        "onboard_time": 1771033701,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 80070,
+        "num": 80070,
+        "word": "逐玉情人节爱在西固巷",
+        "onboard_time": 1771038321,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80032,
+        "num": 80032,
+        "word": "爸爸回应21岁儿子在家带97岁奶奶",
+        "onboard_time": 1771032501,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记感受年味儿#"
+    }
+  }
+}

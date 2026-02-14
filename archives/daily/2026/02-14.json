@@ -1,10 +1,10 @@
 {
   "startTime": 1770998880163,
-  "endTime": 1771036592231,
+  "endTime": 1771038871696,
   "band_list": [
     {
       "raw_hot": 4412806,
-      "num": 133351,
+      "num": 176425,
       "word": "白敬亭 宋轶",
       "onboard_time": 1770992123,
       "rank": 20,
@@ -59,6 +59,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 602905,
+      "num": 602905,
+      "word": "蔡文静工伤",
+      "onboard_time": 1771038199,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 574733,
       "num": 830137,
       "word": "羽生结弦的含金量还在上升",
@@ -67,8 +75,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 570728,
+      "num": 175688,
+      "word": "得知22岁儿子巴厘岛溺亡母亲哭晕",
+      "onboard_time": 1771037120,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 536945,
-      "num": 120309,
+      "num": 160273,
       "word": "宋轶好刚",
       "onboard_time": 1771027460,
       "rank": 25,
@@ -91,8 +107,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 399183,
+      "num": 399183,
+      "word": "骄阳似我",
+      "onboard_time": 1771036279,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 376993,
-      "num": 195608,
+      "num": 217690,
       "word": "新娘称婚宴4000一桌被亲友说最难吃",
       "onboard_time": 1771000699,
       "rank": 11,
@@ -100,7 +124,7 @@
     },
     {
       "raw_hot": 376274,
-      "num": 119762,
+      "num": 275122,
       "word": "白鹿 剧宣的神",
       "onboard_time": 1771031000,
       "rank": 26,
@@ -124,7 +148,7 @@
     },
     {
       "raw_hot": 351311,
-      "num": 290348,
+      "num": 326004,
       "word": "情人节红包",
       "onboard_time": 1771028359,
       "rank": 5,
@@ -179,6 +203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 285397,
+      "num": 235631,
+      "word": "孟子义何与吻戏",
+      "onboard_time": 1771035439,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 279134,
       "num": 279134,
       "word": "女子29元韭菜炒蚌肉吃出1颗粉珍珠",
@@ -196,7 +228,7 @@
     },
     {
       "raw_hot": 266626,
-      "num": 198342,
+      "num": 213907,
       "word": "王鹤棣cortis拍了cha",
       "onboard_time": 1771030820,
       "rank": 10,
@@ -208,14 +240,6 @@
       "word": "这一秒过火",
       "onboard_time": 1771035020,
       "rank": 7,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 232454,
-      "num": 192687,
-      "word": "孟子义何与吻戏",
-      "onboard_time": 1771035439,
-      "rank": 12,
       "category": "剧集"
     },
     {
@@ -243,6 +267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 224778,
+      "num": 217100,
+      "word": "百花杀",
+      "onboard_time": 1771035141,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 220498,
       "num": 220498,
       "word": "生命树后期尺度",
@@ -267,6 +299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 200645,
+      "num": 200645,
+      "word": "孟子义李昀锐情人节九宫格",
+      "onboard_time": 1771036519,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 199068,
       "num": 419527,
       "word": "金博洋自由滑142.53分",
@@ -281,6 +321,30 @@
       "onboard_time": 1770984440,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 196881,
+      "num": 196881,
+      "word": "给iPhone7配二手苹果表担心来路不正",
+      "onboard_time": 1771037060,
+      "rank": 16,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 181831,
+      "num": 181831,
+      "word": "杨瀚森首次亮相NBA全明星",
+      "onboard_time": 1771037300,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 180040,
+      "num": 171461,
+      "word": "檀健次卢昱晓捧杯海报",
+      "onboard_time": 1771037660,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 174179,
@@ -339,12 +403,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 157401,
-      "num": 157401,
-      "word": "百花杀",
-      "onboard_time": 1771035141,
-      "rank": 17,
-      "category": "剧集"
+      "raw_hot": 160302,
+      "num": 160302,
+      "word": "矿山员工10分钟数9.5万现金手抽筋",
+      "onboard_time": 1771035920,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 155557,
@@ -371,6 +435,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 142832,
+      "num": 139072,
+      "word": "亲爱的客栈定档",
+      "onboard_time": 1771038380,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 142632,
+      "num": 142632,
+      "word": "月薪6000春节加班4天拿4400元",
+      "onboard_time": 1771038260,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 137369,
       "num": 109771,
       "word": "孟子义情人节三部剧物料",
@@ -393,6 +473,14 @@
       "onboard_time": 1770989301,
       "rank": 19,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 130726,
+      "num": 130726,
+      "word": "何不同舟渡",
+      "onboard_time": 1771036881,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 130292,
@@ -484,11 +572,27 @@
     },
     {
       "raw_hot": 110814,
-      "num": 113863,
+      "num": 133478,
       "word": "孙龙林孝埈刘少昂出战1500米",
       "onboard_time": 1771030520,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 110805,
+      "num": 110805,
+      "word": "这两幕居然是白宇同一天拍的",
+      "onboard_time": 1771038080,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 110273,
+      "num": 110273,
+      "word": "逐玉速抬",
+      "onboard_time": 1771037360,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 110082,
@@ -537,6 +641,14 @@
       "onboard_time": 1770979881,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 104972,
+      "num": 104972,
+      "word": "杨瀚森10分2板",
+      "onboard_time": 1771038560,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 104034,
@@ -595,14 +707,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 99384,
-      "num": 99384,
-      "word": "骄阳似我",
-      "onboard_time": 1771036279,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 92826,
       "num": 92826,
       "word": "保罗正式宣布退役",
@@ -635,12 +739,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 87513,
+      "num": 87513,
+      "word": "金饰价格涨到1551元",
+      "onboard_time": 1771035500,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 86767,
       "num": 84851,
       "word": "李家诚告周秀娜诽谤及骚扰",
       "onboard_time": 1770980841,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 86485,
+      "num": 86485,
+      "word": "情人节翻垃圾桶",
+      "onboard_time": 1771036759,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 83847,
@@ -665,6 +785,14 @@
       "onboard_time": 1770993024,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 80070,
+      "num": 80070,
+      "word": "逐玉情人节爱在西固巷",
+      "onboard_time": 1771038321,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 79775,
@@ -723,14 +851,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 70998,
-      "num": 70998,
-      "word": "孟子义李昀锐情人节九宫格",
-      "onboard_time": 1771036519,
-      "rank": 49,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 70941,
       "num": 70941,
       "word": "小狗来大姨妈以为得了不治之症",
@@ -760,6 +880,14 @@
       "word": "重庆江心岛近600年佛像露出水面",
       "onboard_time": 1770995302,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 66136,
+      "num": 177316,
+      "word": "台湾艺人在郑州做主播称有奔头儿",
+      "onboard_time": 1771037660,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -907,12 +1035,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 34127,
-      "num": 131949,
-      "word": "矿山员工10分钟数9.5万现金手抽筋",
-      "onboard_time": 1771035920,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 33955,
+      "num": 110873,
+      "word": "德国总理说美国独行无法伟大",
+      "onboard_time": 1771037480,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 33567,
@@ -1003,6 +1131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 18247,
+      "num": 105498,
+      "word": "张艺谋模仿刘耀文",
+      "onboard_time": 1771038260,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 18035,
       "num": 19390,
       "word": "yushi六代男豆首支百万饭拍",
@@ -1033,6 +1169,14 @@
       "onboard_time": 1771011855,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 7796,
+      "num": 202943,
+      "word": "送阿福成为各地新年俗",
+      "onboard_time": 1771038020,
+      "rank": 14,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
