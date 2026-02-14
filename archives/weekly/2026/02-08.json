@@ -1,6 +1,6 @@
 {
   "startTime": 1770482461321,
-  "endTime": 1771062923395,
+  "endTime": 1771065375958,
   "band_list": [
     {
       "raw_hot": 8690838,
@@ -539,6 +539,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 911082,
+      "num": 1145773,
+      "word": "红包",
+      "onboard_time": 1771050141,
+      "rank": 10,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 909229,
       "num": 221195,
       "word": "黄金",
@@ -612,7 +620,7 @@
     },
     {
       "raw_hot": 823459,
-      "num": 100143,
+      "num": 125350,
       "word": "小酒窝做了长美甲",
       "onboard_time": 1771059440,
       "rank": 38,
@@ -625,14 +633,6 @@
       "onboard_time": 1770597502,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 816982,
-      "num": 1130717,
-      "word": "红包",
-      "onboard_time": 1771050141,
-      "rank": 10,
-      "category": "互联网"
     },
     {
       "raw_hot": 814066,
@@ -907,6 +907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 690851,
+      "num": 124052,
+      "word": "吃猪脚被卡喉10岁男孩现已去世",
+      "onboard_time": 1771063221,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 688759,
       "num": 1089133,
       "word": "方圆阿爆拍了双女主短剧",
@@ -1124,7 +1132,7 @@
     },
     {
       "raw_hot": 618447,
-      "num": 185787,
+      "num": 241705,
       "word": "突然发现朋友圈没人晒花了",
       "onboard_time": 1771055719,
       "rank": 5,
@@ -2427,6 +2435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 402286,
+      "num": 817869,
+      "word": "红包分组",
+      "onboard_time": 1771062620,
+      "rank": 9,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 401926,
       "num": 1006825,
       "word": "马里宁自由滑重大失误",
@@ -2892,7 +2908,7 @@
     },
     {
       "raw_hot": 364500,
-      "num": 173435,
+      "num": 255668,
       "word": "汉尼拔用的是张小泉菜刀",
       "onboard_time": 1771059561,
       "rank": 6,
@@ -3468,7 +3484,7 @@
     },
     {
       "raw_hot": 319411,
-      "num": 112032,
+      "num": 122829,
       "word": "吃席偶遇丁程鑫",
       "onboard_time": 1771058060,
       "rank": 26,
@@ -3633,6 +3649,14 @@
       "onboard_time": 1770641422,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 312492,
+      "num": 265746,
+      "word": "这么大的架子竟然一点官都没有",
+      "onboard_time": 1771060340,
+      "rank": 7,
+      "category": "幽默"
     },
     {
       "raw_hot": 311593,
@@ -4100,7 +4124,7 @@
     },
     {
       "raw_hot": 286269,
-      "num": 156017,
+      "num": 185253,
       "word": "女子称健身被哄骗注射药物变阴阳人",
       "onboard_time": 1771060940,
       "rank": 11,
@@ -4177,14 +4201,6 @@
       "onboard_time": 1770884182,
       "rank": 5,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 281465,
-      "num": 169296,
-      "word": "这么大的架子竟然一点官都没有",
-      "onboard_time": 1771060340,
-      "rank": 7,
-      "category": "幽默"
     },
     {
       "raw_hot": 280291,
@@ -4289,6 +4305,14 @@
       "onboard_time": 1770939137,
       "rank": 25,
       "category": "财经"
+    },
+    {
+      "raw_hot": 274403,
+      "num": 185842,
+      "word": "伊能静脸太紧致了",
+      "onboard_time": 1771061720,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 274026,
@@ -4433,6 +4457,14 @@
       "onboard_time": 1771030820,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 266429,
+      "num": 266429,
+      "word": "哈尔滨18米雪王鸡王被连夜拆除",
+      "onboard_time": 1771060940,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 265650,
@@ -6043,6 +6075,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 200187,
+      "num": 200187,
+      "word": "女子998买全程票变半程警方已介入",
+      "onboard_time": 1771061120,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 199956,
       "num": 180084,
       "word": "TF四代开机应援",
@@ -6387,6 +6427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 188224,
+      "num": 188224,
+      "word": "王鹤棣让黄子韬跟徐艺洋离婚",
+      "onboard_time": 1771061120,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188078,
       "num": 188078,
       "word": "孙颖莎 ELLE",
@@ -6411,28 +6459,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 187646,
-      "num": 187646,
-      "word": "哈尔滨18米雪王鸡王被连夜拆除",
-      "onboard_time": 1771060940,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 187401,
       "num": 187401,
       "word": "LadyGaga空降超级碗中场秀",
       "onboard_time": 1770607879,
       "rank": 22,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 187183,
-      "num": 155547,
-      "word": "伊能静脸太紧致了",
-      "onboard_time": 1771061720,
-      "rank": 43,
-      "category": "电影"
     },
     {
       "raw_hot": 187125,
@@ -7195,14 +7227,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 160310,
-      "num": 160310,
-      "word": "红包分组",
-      "onboard_time": 1771062620,
-      "rank": 9,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 160302,
       "num": 160302,
       "word": "矿山员工10分钟数9.5万现金手抽筋",
@@ -7345,6 +7369,14 @@
       "onboard_time": 1770911239,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 156821,
+      "num": 156821,
+      "word": "王一博边走边唱",
+      "onboard_time": 1771062260,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 156444,
@@ -8172,7 +8204,7 @@
     },
     {
       "raw_hot": 138965,
-      "num": 98085,
+      "num": 121533,
       "word": "iPhone18Pro五项新功能",
       "onboard_time": 1771061180,
       "rank": 25,
@@ -8249,6 +8281,14 @@
       "onboard_time": 1770698241,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 138030,
+      "num": 138030,
+      "word": "无畏祝你爱情滚滚来",
+      "onboard_time": 1771065200,
+      "rank": 17,
+      "category": "电竞"
     },
     {
       "raw_hot": 137918,
@@ -8425,14 +8465,6 @@
       "onboard_time": 1770521000,
       "rank": 21,
       "category": "演出"
-    },
-    {
-      "raw_hot": 135386,
-      "num": 135386,
-      "word": "王鹤棣让黄子韬跟徐艺洋离婚",
-      "onboard_time": 1771061120,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 135183,
@@ -10171,6 +10203,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 110651,
+      "num": 110651,
+      "word": "TF家族纪录片",
+      "onboard_time": 1771064961,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 110578,
       "num": 110578,
       "word": "千问帮我",
@@ -10785,6 +10825,14 @@
       "onboard_time": 1771042701,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 105272,
+      "num": 78950,
+      "word": "出现6个症状的人请立刻休息",
+      "onboard_time": 1771063640,
+      "rank": 40,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 105210,
@@ -11523,6 +11571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 99267,
+      "num": 111853,
+      "word": "小偷一打开门以为穿越时空了",
+      "onboard_time": 1771063460,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 99225,
       "num": 99225,
       "word": "杨瀚森半个NBA职业生涯是摸爬滚打",
@@ -11729,14 +11785,6 @@
       "onboard_time": 1770872240,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 97857,
-      "num": 97857,
-      "word": "女子998买全程票变半程警方已介入",
-      "onboard_time": 1771061120,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 97832,
@@ -13043,6 +13091,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 88353,
+      "num": 684043,
+      "word": "年夜饭送到家搜索量暴增600%",
+      "onboard_time": 1771059859,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 88350,
       "num": 88350,
       "word": "WB对战KSG",
@@ -13628,7 +13684,7 @@
     },
     {
       "raw_hot": 84576,
-      "num": 93320,
+      "num": 95985,
       "word": "心理医生醍醐灌顶的人生建议",
       "onboard_time": 1771060820,
       "rank": 32,
@@ -14875,14 +14931,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 76691,
-      "num": 635845,
-      "word": "年夜饭送到家搜索量暴增600%",
-      "onboard_time": 1771059859,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 76679,
       "num": 168857,
       "word": "王者新春AppStore有礼",
@@ -15323,6 +15371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 73426,
+      "num": 73426,
+      "word": "看完怪奇物语的EXO队长的观后感",
+      "onboard_time": 1771063460,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 73259,
       "num": 168278,
       "word": "马上有乾崑好事即发生",
@@ -15569,6 +15625,14 @@
       "onboard_time": 1770679997,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 71169,
+      "num": 90895,
+      "word": "白鹿王星越敖瑞鹏评论区语音",
+      "onboard_time": 1771061840,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 71140,
@@ -15915,14 +15979,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 67337,
-      "num": 90886,
-      "word": "王一博边走边唱",
-      "onboard_time": 1771062260,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 67230,
       "num": 67230,
       "word": "预防甲状腺结节的4种饮食习惯",
@@ -16025,14 +16081,6 @@
       "onboard_time": 1770950839,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 66411,
-      "num": 90895,
-      "word": "白鹿王星越敖瑞鹏评论区语音",
-      "onboard_time": 1771061840,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 66387,
@@ -16251,6 +16299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 63955,
+      "num": 80710,
+      "word": "冬奥花滑教练一人执教13国16名选手",
+      "onboard_time": 1771065022,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 63814,
       "num": 63814,
       "word": "陈浚铭从baby到daddy只需要一个月",
@@ -16259,12 +16315,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 63810,
+      "num": 72653,
+      "word": "泰总理与恋爱4年的女友登记结婚",
+      "onboard_time": 1771062920,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 63805,
       "num": 63805,
       "word": "LGDNBW对战 DRG",
       "onboard_time": 1770546080,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 63652,
+      "num": 116421,
+      "word": "待宰大鹅流泪主人放弃宰杀",
+      "onboard_time": 1771061899,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 63587,
@@ -16659,6 +16731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 58456,
+      "num": 115871,
+      "word": "中方将对53个非洲建交国全面零关税",
+      "onboard_time": 1771063701,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 58169,
       "num": 69658,
       "word": "肖战再次拿下奢牌新季首秀",
@@ -16787,6 +16867,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 56051,
+      "num": 69109,
+      "word": "7家平台企业被约谈",
+      "onboard_time": 1771064300,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55898,
       "num": 106208,
       "word": "易烊千玺累出痛苦面具了",
@@ -16873,6 +16961,14 @@
       "onboard_time": 1770767839,
       "rank": 47,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 54103,
+      "num": 68876,
+      "word": "洛奥乒乓运动员或兼四项",
+      "onboard_time": 1771064540,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 53904,
@@ -17409,6 +17505,14 @@
       "onboard_time": 1770940279,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 47618,
+      "num": 156841,
+      "word": "千问免单卡可以买电影票了",
+      "onboard_time": 1771064480,
+      "rank": 15,
+      "category": "互联网"
     },
     {
       "raw_hot": 47603,
@@ -20059,14 +20163,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 17738,
-      "num": 98182,
-      "word": "待宰大鹅流泪主人放弃宰杀",
-      "onboard_time": 1771061899,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 17669,
       "num": 98206,
       "word": "女护士被割喉案凶手至今未道歉",
@@ -20241,6 +20337,14 @@
       "onboard_time": 1770897620,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15983,
+      "num": 125885,
+      "word": "中国AI为何再次惊艳世界",
+      "onboard_time": 1771064180,
+      "rank": 19,
+      "category": "互联网"
     },
     {
       "raw_hot": 15909,
@@ -20617,6 +20721,14 @@
       "onboard_time": 1770722361,
       "rank": 39,
       "category": "互联网,民生新闻"
+    },
+    {
+      "raw_hot": 9461,
+      "num": 156968,
+      "word": "本命年才懂的仪式感",
+      "onboard_time": 1771063281,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 9421,
