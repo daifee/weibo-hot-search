@@ -1,6 +1,6 @@
 {
   "startTime": 1770482461321,
-  "endTime": 1771026839259,
+  "endTime": 1771036592231,
   "band_list": [
     {
       "raw_hot": 8690838,
@@ -603,6 +603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 814066,
+      "num": 1130250,
+      "word": "花滑米兰惨案",
+      "onboard_time": 1771026258,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 806072,
       "num": 844164,
       "word": "林孝埈晋级",
@@ -1036,7 +1044,7 @@
     },
     {
       "raw_hot": 634161,
-      "num": 101165,
+      "num": 130902,
       "word": "王栎鑫女儿因被怼脸拍生气",
       "onboard_time": 1771024277,
       "rank": 21,
@@ -1209,6 +1217,14 @@
       "onboard_time": 1770526519,
       "rank": 18,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 574733,
+      "num": 830137,
+      "word": "羽生结弦的含金量还在上升",
+      "onboard_time": 1771030099,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 573622,
@@ -1393,6 +1409,14 @@
       "onboard_time": 1770776059,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 536945,
+      "num": 120309,
+      "word": "宋轶好刚",
+      "onboard_time": 1771027460,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 536748,
@@ -2572,11 +2596,19 @@
     },
     {
       "raw_hot": 376993,
-      "num": 182537,
+      "num": 195608,
       "word": "新娘称婚宴4000一桌被亲友说最难吃",
       "onboard_time": 1771000699,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 376274,
+      "num": 119762,
+      "word": "白鹿 剧宣的神",
+      "onboard_time": 1771031000,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 376244,
@@ -2913,6 +2945,14 @@
       "onboard_time": 1770645800,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 351311,
+      "num": 290348,
+      "word": "情人节红包",
+      "onboard_time": 1771028359,
+      "rank": 5,
+      "category": "情感"
     },
     {
       "raw_hot": 350932,
@@ -3691,6 +3731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 293862,
+      "num": 293862,
+      "word": "迪士尼指控Seedance侵权",
+      "onboard_time": 1771033099,
+      "rank": 4,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 293617,
       "num": 293617,
       "word": "长征十号甲火箭",
@@ -3907,6 +3955,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 279134,
+      "num": 279134,
+      "word": "女子29元韭菜炒蚌肉吃出1颗粉珍珠",
+      "onboard_time": 1771030340,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 278838,
       "num": 140620,
       "word": "虞书欣衣帽间",
@@ -4104,6 +4160,14 @@
       "word": "内娱CP粉众生相",
       "onboard_time": 1770820580,
       "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 266626,
+      "num": 198342,
+      "word": "王鹤棣cortis拍了cha",
+      "onboard_time": 1771030820,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -4345,6 +4409,14 @@
       "onboard_time": 1770883040,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 252426,
+      "num": 252426,
+      "word": "这一秒过火",
+      "onboard_time": 1771035020,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 252100,
@@ -4747,6 +4819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 232454,
+      "num": 192687,
+      "word": "孟子义何与吻戏",
+      "onboard_time": 1771035439,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 232448,
       "num": 782612,
       "word": "孙颖莎VS蒯曼",
@@ -5016,6 +5096,14 @@
       "word": "关晓彤从小巷人家到大厂子弟",
       "onboard_time": 1770972801,
       "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 220498,
+      "num": 220498,
+      "word": "生命树后期尺度",
+      "onboard_time": 1771028960,
+      "rank": 9,
       "category": "剧集"
     },
     {
@@ -6275,6 +6363,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 174179,
+      "num": 174179,
+      "word": "意大利失联中国博士生最新进展",
+      "onboard_time": 1771028898,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 174070,
       "num": 139639,
       "word": "赵今麦打碟",
@@ -6411,6 +6507,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 170387,
+      "num": 170387,
+      "word": "玉簟秋揽腰吻海报",
+      "onboard_time": 1771035020,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 170167,
       "num": 170167,
       "word": "网传浪姐7有郑秀晶",
@@ -6480,6 +6584,14 @@
       "word": "一句快递停运网友连下20单",
       "onboard_time": 1770552441,
       "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 166078,
+      "num": 166078,
+      "word": "2700克金条388元购入1121元出手",
+      "onboard_time": 1771026077,
+      "rank": 26,
       "category": "民生新闻"
     },
     {
@@ -6753,6 +6865,14 @@
       "onboard_time": 1770511098,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 157401,
+      "num": 157401,
+      "word": "百花杀",
+      "onboard_time": 1771035141,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 156949,
@@ -8035,6 +8155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130003,
+      "num": 130003,
+      "word": "陈飞宇什么时候才能原谅现偶",
+      "onboard_time": 1771028898,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 129946,
       "num": 129946,
       "word": "孙龙回应1000米摘银",
@@ -9003,6 +9131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 115141,
+      "num": 115141,
+      "word": "爸爸回应21岁儿子在家带97岁奶奶",
+      "onboard_time": 1771032501,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115130,
       "num": 115130,
       "word": "李一桐腰伤",
@@ -9137,6 +9273,14 @@
       "onboard_time": 1770558026,
       "rank": 46,
       "category": "财经"
+    },
+    {
+      "raw_hot": 113231,
+      "num": 113231,
+      "word": "尚公主",
+      "onboard_time": 1771035860,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 113215,
@@ -9345,6 +9489,14 @@
       "onboard_time": 1770985281,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110814,
+      "num": 113863,
+      "word": "孙龙林孝埈刘少昂出战1500米",
+      "onboard_time": 1771030520,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 110749,
@@ -9875,6 +10027,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 106390,
+      "num": 106390,
+      "word": "莫雷加德扮演樊振东",
+      "onboard_time": 1771033223,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106052,
       "num": 96585,
       "word": "王楚然有效播剧",
@@ -10227,6 +10387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 102745,
+      "num": 102745,
+      "word": "日本高官有意调查Seedance2.0",
+      "onboard_time": 1771035800,
+      "rank": 33,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 102724,
       "num": 102724,
       "word": "LOL登顶网吧游戏热力榜",
@@ -10443,6 +10611,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 100614,
+      "num": 100614,
+      "word": "樊振东最淡定输球",
+      "onboard_time": 1771034301,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 100582,
       "num": 100582,
       "word": "张凌赫田曦薇hi6预告",
@@ -10497,6 +10673,14 @@
       "onboard_time": 1770806000,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 100311,
+      "num": 100311,
+      "word": "情人节微信开放520元红包",
+      "onboard_time": 1771033701,
+      "rank": 35,
+      "category": "互联网"
     },
     {
       "raw_hot": 100144,
@@ -10593,6 +10777,14 @@
       "onboard_time": 1770645024,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 99384,
+      "num": 99384,
+      "word": "骄阳似我",
+      "onboard_time": 1771036279,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 99369,
@@ -11947,6 +12139,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 89056,
+      "num": 89056,
+      "word": "22岁中国男子在巴厘岛溺亡",
+      "onboard_time": 1771026318,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 88960,
       "num": 88960,
       "word": "生命树里袁弘和胡歌什么关系",
@@ -12281,14 +12481,6 @@
       "onboard_time": 1770988161,
       "rank": 42,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 86767,
-      "num": 86767,
-      "word": "2700克金条388元购入1121元出手",
-      "onboard_time": 1771026077,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 86667,
@@ -13123,14 +13315,6 @@
       "category": "艺人,游戏"
     },
     {
-      "raw_hot": 80462,
-      "num": 80462,
-      "word": "22岁中国男子在巴厘岛溺亡",
-      "onboard_time": 1771026318,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 80456,
       "num": 80456,
       "word": "望台湾方面取消两岸航空不合理限制",
@@ -13449,14 +13633,6 @@
       "onboard_time": 1770722000,
       "rank": 36,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 78658,
-      "num": 78658,
-      "word": "花滑米兰惨案",
-      "onboard_time": 1771026258,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 78545,
@@ -14291,6 +14467,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 71605,
+      "num": 71605,
+      "word": "白鹿 情人节快乐宝贝们",
+      "onboard_time": 1771027039,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 71564,
       "num": 132660,
       "word": "帮爸妈下载阿福有16.8元红包",
@@ -14377,6 +14561,14 @@
       "onboard_time": 1770973642,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 70998,
+      "num": 70998,
+      "word": "孟子义李昀锐情人节九宫格",
+      "onboard_time": 1771036519,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 70941,
@@ -15217,6 +15409,14 @@
       "onboard_time": 1770852198,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 59383,
+      "num": 100090,
+      "word": "7年前买的空墓地被他人强占",
+      "onboard_time": 1771035561,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 59239,
@@ -16147,6 +16347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 45958,
+      "num": 99924,
+      "word": "乘客拍下客机发动机整流罩爆裂脱落",
+      "onboard_time": 1771035860,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 45584,
       "num": 141509,
       "word": "反向压岁钱金额远高于压岁钱",
@@ -16225,6 +16433,14 @@
       "onboard_time": 1770484578,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 44577,
+      "num": 100291,
+      "word": "北京一老楼换新居只用了46天",
+      "onboard_time": 1771035920,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 44506,
@@ -17024,6 +17240,14 @@
       "word": "爸爸春节前急着帮女儿相亲被骗17万",
       "onboard_time": 1770894020,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34127,
+      "num": 131949,
+      "word": "矿山员工10分钟数9.5万现金手抽筋",
+      "onboard_time": 1771035920,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -18649,6 +18873,14 @@
       "onboard_time": 1770809540,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 16579,
+      "num": 99832,
+      "word": "租豪车回家过年正丧失吸引力",
+      "onboard_time": 1771035920,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 16556,

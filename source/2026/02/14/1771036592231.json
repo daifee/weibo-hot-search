@@ -1,0 +1,410 @@
+{
+  "runTime": 1771036592231,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 814066,
+        "num": 1130250,
+        "word": "花滑米兰惨案",
+        "onboard_time": 1771026258,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 574733,
+        "num": 830137,
+        "word": "羽生结弦的含金量还在上升",
+        "onboard_time": 1771030099,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15454,
+        "num": 655402,
+        "word": "回家路上随手拍",
+        "onboard_time": 1770990501,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 314006,
+        "num": 314006,
+        "word": "情人节",
+        "onboard_time": 1770996381,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 293862,
+        "num": 293862,
+        "word": "迪士尼指控Seedance侵权",
+        "onboard_time": 1771033099,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 351311,
+        "num": 290348,
+        "word": "情人节红包",
+        "onboard_time": 1771028359,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 279134,
+        "num": 279134,
+        "word": "女子29元韭菜炒蚌肉吃出1颗粉珍珠",
+        "onboard_time": 1771030340,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 252426,
+        "num": 252426,
+        "word": "这一秒过火",
+        "onboard_time": 1771035020,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 226821,
+        "num": 226821,
+        "word": "樊振东2比3温瑞博",
+        "onboard_time": 1771024337,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 220498,
+        "num": 220498,
+        "word": "生命树后期尺度",
+        "onboard_time": 1771028960,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 266626,
+        "num": 198342,
+        "word": "王鹤棣cortis拍了cha",
+        "onboard_time": 1771030820,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234087,
+        "num": 195608,
+        "word": "新娘称婚宴4000一桌被亲友说最难吃",
+        "onboard_time": 1771000699,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 232454,
+        "num": 192687,
+        "word": "孟子义何与吻戏",
+        "onboard_time": 1771035439,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174179,
+        "num": 174179,
+        "word": "意大利失联中国博士生最新进展",
+        "onboard_time": 1771028898,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 170387,
+        "num": 170387,
+        "word": "玉簟秋揽腰吻海报",
+        "onboard_time": 1771035020,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166078,
+        "num": 166078,
+        "word": "2700克金条388元购入1121元出手",
+        "onboard_time": 1771026077,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161439,
+        "num": 161439,
+        "word": "樊振东2比3高茨",
+        "onboard_time": 1771024037,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157401,
+        "num": 157401,
+        "word": "百花杀",
+        "onboard_time": 1771035141,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135011,
+        "num": 135011,
+        "word": "女子幽门螺杆菌阳性3年后查出胃癌",
+        "onboard_time": 1770992422,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34127,
+        "num": 131949,
+        "word": "矿山员工10分钟数9.5万现金手抽筋",
+        "onboard_time": 1771035920,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 968601,
+        "num": 131257,
+        "word": "白敬亭 宋轶",
+        "onboard_time": 1770992123,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269784,
+        "num": 130902,
+        "word": "王栎鑫女儿因被怼脸拍生气",
+        "onboard_time": 1771024277,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130227,
+        "num": 130227,
+        "word": "民警厕所打人受害人被打致小便失禁",
+        "onboard_time": 1770998241,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130003,
+        "num": 130003,
+        "word": "陈飞宇什么时候才能原谅现偶",
+        "onboard_time": 1771028898,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122788,
+        "num": 122788,
+        "word": "马里宁自由滑重大失误",
+        "onboard_time": 1771023616,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 536945,
+        "num": 120309,
+        "word": "宋轶好刚",
+        "onboard_time": 1771027460,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 376274,
+        "num": 119762,
+        "word": "白鹿 剧宣的神",
+        "onboard_time": 1771031000,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 115141,
+        "num": 115141,
+        "word": "爸爸回应21岁儿子在家带97岁奶奶",
+        "onboard_time": 1771032501,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120278,
+        "num": 114849,
+        "word": "瑶一瑶小肉包近30天掉粉6万",
+        "onboard_time": 1770990023,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 110814,
+        "num": 113863,
+        "word": "孙龙林孝埈刘少昂出战1500米",
+        "onboard_time": 1771030520,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113231,
+        "num": 113231,
+        "word": "尚公主",
+        "onboard_time": 1771035860,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109537,
+        "num": 109537,
+        "word": "中戏表演系连续三任系主任主动投案",
+        "onboard_time": 1771024337,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106390,
+        "num": 106390,
+        "word": "莫雷加德扮演樊振东",
+        "onboard_time": 1771033223,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102745,
+        "num": 102745,
+        "word": "日本高官有意调查Seedance2.0",
+        "onboard_time": 1771035800,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 100614,
+        "num": 100614,
+        "word": "樊振东最淡定输球",
+        "onboard_time": 1771034301,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100311,
+        "num": 100311,
+        "word": "情人节微信开放520元红包",
+        "onboard_time": 1771033701,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 44577,
+        "num": 100291,
+        "word": "北京一老楼换新居只用了46天",
+        "onboard_time": 1771035920,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59383,
+        "num": 100090,
+        "word": "7年前买的空墓地被他人强占",
+        "onboard_time": 1771035561,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45958,
+        "num": 99924,
+        "word": "乘客拍下客机发动机整流罩爆裂脱落",
+        "onboard_time": 1771035860,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 16579,
+        "num": 99832,
+        "word": "租豪车回家过年正丧失吸引力",
+        "onboard_time": 1771035920,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99765,
+        "num": 99765,
+        "word": "男子卖前女友送的银镯子竟是银包金",
+        "onboard_time": 1770998179,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99384,
+        "num": 99384,
+        "word": "骄阳似我",
+        "onboard_time": 1771036279,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89056,
+        "num": 89056,
+        "word": "22岁中国男子在巴厘岛溺亡",
+        "onboard_time": 1771026318,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88554,
+        "num": 88554,
+        "word": "萨摩耶得知自己被托孤角落偷落泪",
+        "onboard_time": 1771019593,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87011,
+        "num": 87011,
+        "word": "豆包红包",
+        "onboard_time": 1770986539,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 85111,
+        "num": 85111,
+        "word": "5类人需要定期检测幽门螺杆菌",
+        "onboard_time": 1771024277,
+        "rank": 45,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 77259,
+        "num": 77259,
+        "word": "6000万年终奖有人数走9万5",
+        "onboard_time": 1771025298,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72140,
+        "num": 72140,
+        "word": "黄冈通报产检正常娃出生却先天畸形",
+        "onboard_time": 1770997461,
+        "rank": 47,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 71605,
+        "num": 71605,
+        "word": "白鹿 情人节快乐宝贝们",
+        "onboard_time": 1771027039,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70998,
+        "num": 70998,
+        "word": "孟子义李昀锐情人节九宫格",
+        "onboard_time": 1771036519,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记感受年味儿#"
+    }
+  }
+}
