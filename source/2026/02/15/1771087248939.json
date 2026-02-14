@@ -1,0 +1,410 @@
+{
+  "runTime": 1771087248939,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 635575,
+        "num": 796136,
+        "word": "高亭宇男子500米",
+        "onboard_time": 1771084762,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 573868,
+        "num": 585271,
+        "word": "河南春晚 没有主持人和舞台",
+        "onboard_time": 1771073901,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19386,
+        "num": 455752,
+        "word": "一杯热水暖了几十年归途",
+        "onboard_time": 1771076302,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 308812,
+        "num": 308812,
+        "word": "关晓彤 青鸟神女",
+        "onboard_time": 1771076782,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 304191,
+        "num": 304191,
+        "word": "千问红包",
+        "onboard_time": 1771072762,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 244286,
+        "num": 244286,
+        "word": "红包",
+        "onboard_time": 1771050141,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 235134,
+        "num": 235134,
+        "word": "宁艺卓 曼谷",
+        "onboard_time": 1771080803,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 141709,
+        "num": 141709,
+        "word": "红包分组",
+        "onboard_time": 1771062620,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 126464,
+        "num": 126464,
+        "word": "王毅就中日关系重申严正立场",
+        "onboard_time": 1771079062,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 109627,
+        "num": 109627,
+        "word": "生命树多杰死因反转",
+        "onboard_time": 1771079244,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1113157,
+        "num": 109550,
+        "word": "曝黄子弘凡爸爸诈骗学生",
+        "onboard_time": 1771077023,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192489,
+        "num": 109433,
+        "word": "林孝埈短道速滑1500米加油",
+        "onboard_time": 1771084400,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 716645,
+        "num": 109321,
+        "word": "迪丽热巴作品豆瓣评分",
+        "onboard_time": 1771081523,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213109,
+        "num": 109196,
+        "word": "河南春晚 大量广告里穿插了少量节目",
+        "onboard_time": 1771071382,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145145,
+        "num": 108969,
+        "word": "四川大学",
+        "onboard_time": 1771073722,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108953,
+        "num": 108953,
+        "word": "影视飓风Tim称将完整记录素人登珠峰",
+        "onboard_time": 1771077622,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 404338,
+        "num": 108883,
+        "word": "黄子弘凡工作室辟谣",
+        "onboard_time": 1771079844,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212171,
+        "num": 108880,
+        "word": "杨博文高会",
+        "onboard_time": 1771079363,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77507,
+        "num": 108759,
+        "word": "中外网友对账对到了菜市场",
+        "onboard_time": 1771081044,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201307,
+        "num": 108699,
+        "word": "张凌赫空降超话",
+        "onboard_time": 1771081044,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238769,
+        "num": 108641,
+        "word": "医院回应男童吃猪脚被卡喉去世",
+        "onboard_time": 1771084461,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164217,
+        "num": 108539,
+        "word": "白鹿虞书欣同款剧宣姿势",
+        "onboard_time": 1771067061,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 159798,
+        "num": 108485,
+        "word": "从疲劳到癌症只有4步",
+        "onboard_time": 1771076902,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 133094,
+        "num": 108418,
+        "word": "张杰 春晚",
+        "onboard_time": 1771082662,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129243,
+        "num": 108303,
+        "word": "马君妍宣布二胎宝宝已有30周",
+        "onboard_time": 1771076902,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89781,
+        "num": 108241,
+        "word": "56岁阿姨长期情绪失控痛哭右眼失明",
+        "onboard_time": 1771076181,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109591,
+        "num": 108173,
+        "word": "王橹杰高会",
+        "onboard_time": 1771067781,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108153,
+        "num": 108153,
+        "word": "张函瑞高会",
+        "onboard_time": 1771082001,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79724,
+        "num": 102170,
+        "word": "女子染发头皮溃烂过年只能光头",
+        "onboard_time": 1771078944,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77432,
+        "num": 99506,
+        "word": "沈阳有雷电暴雨式洗浴了",
+        "onboard_time": 1771083860,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98801,
+        "num": 98801,
+        "word": "情人节发现男朋友联系高中女同学",
+        "onboard_time": 1771079484,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 90493,
+        "num": 90493,
+        "word": "明星红包",
+        "onboard_time": 1771073841,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82656,
+        "num": 82656,
+        "word": "石凯钓鱼",
+        "onboard_time": 1771085600,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72728,
+        "num": 79744,
+        "word": "千问口令",
+        "onboard_time": 1771077622,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 79010,
+        "num": 79010,
+        "word": "王一博人鱼演职表更新",
+        "onboard_time": 1771076902,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 75696,
+        "num": 75696,
+        "word": "黄子韬回应扇了徐艺洋",
+        "onboard_time": 1771066223,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 70754,
+        "num": 70754,
+        "word": "林孝埈八年冬奥路太长了",
+        "onboard_time": 1771077802,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71303,
+        "num": 70203,
+        "word": "向佐表白郭碧婷和孩子",
+        "onboard_time": 1771082001,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69463,
+        "num": 69463,
+        "word": "高亭宇滑出34秒47",
+        "onboard_time": 1771087222,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 69239,
+        "num": 69239,
+        "word": "千问补发免单卡",
+        "onboard_time": 1771078882,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 69187,
+        "num": 69187,
+        "word": "情人节的朋友圈比春晚还热闹",
+        "onboard_time": 1771075943,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 67971,
+        "num": 67971,
+        "word": "她真的很懂中国学生的内驱力",
+        "onboard_time": 1771082362,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 65401,
+        "num": 67969,
+        "word": "黄金还能买吗",
+        "onboard_time": 1771080264,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 58357,
+        "num": 67962,
+        "word": "河南卫视春晚",
+        "onboard_time": 1771068741,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 55423,
+        "num": 67951,
+        "word": "林孝埈术后康复影像首次曝光",
+        "onboard_time": 1771083860,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 54759,
+        "num": 67950,
+        "word": "刘一手承认欠款2000万",
+        "onboard_time": 1771068560,
+        "rank": 45,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 54568,
+        "num": 67943,
+        "word": "师傅上门开锁发现屋内老人已去世",
+        "onboard_time": 1771082183,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53125,
+        "num": 67935,
+        "word": "中国2银2铜暂列冬奥奖牌榜第18",
+        "onboard_time": 1771071261,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 52827,
+        "num": 67925,
+        "word": "周冬雨从不发朋友圈",
+        "onboard_time": 1771071501,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 52554,
+        "num": 67922,
+        "word": "檀健次也太欲太会钓了",
+        "onboard_time": 1771087099,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#2026春节团拜会举行#"
+    }
+  }
+}
