@@ -1,0 +1,410 @@
+{
+  "runTime": 1771084194513,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 618081,
+        "num": 1098893,
+        "word": "千问红包",
+        "onboard_time": 1771072762,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 601386,
+        "num": 772295,
+        "word": "河南春晚 没有主持人和舞台",
+        "onboard_time": 1771073901,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23176,
+        "num": 638999,
+        "word": "一杯热水暖了几十年归途",
+        "onboard_time": 1771076302,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 659055,
+        "num": 601892,
+        "word": "迪丽热巴作品豆瓣评分",
+        "onboard_time": 1771081523,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 289063,
+        "num": 289063,
+        "word": "红包",
+        "onboard_time": 1771050141,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 456527,
+        "num": 280193,
+        "word": "关晓彤 青鸟神女",
+        "onboard_time": 1771076782,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234758,
+        "num": 234758,
+        "word": "林孝埈八年冬奥路太长了",
+        "onboard_time": 1771077802,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 230024,
+        "num": 230024,
+        "word": "红包分组",
+        "onboard_time": 1771062620,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 205297,
+        "num": 205297,
+        "word": "生命树多杰死因反转",
+        "onboard_time": 1771079244,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201316,
+        "num": 201316,
+        "word": "影视飓风Tim称将完整记录素人登珠峰",
+        "onboard_time": 1771077622,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2340242,
+        "num": 201179,
+        "word": "曝黄子弘凡爸爸诈骗学生",
+        "onboard_time": 1771077023,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 385634,
+        "num": 200631,
+        "word": "河南春晚 大量广告里穿插了少量节目",
+        "onboard_time": 1771071382,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200050,
+        "num": 200050,
+        "word": "王毅就中日关系重申严正立场",
+        "onboard_time": 1771079062,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 328118,
+        "num": 190460,
+        "word": "宁艺卓 曼谷",
+        "onboard_time": 1771080803,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 280557,
+        "num": 186170,
+        "word": "张凌赫空降超话",
+        "onboard_time": 1771081044,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179618,
+        "num": 179618,
+        "word": "四川大学",
+        "onboard_time": 1771073722,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 653129,
+        "num": 177777,
+        "word": "黄子弘凡工作室辟谣",
+        "onboard_time": 1771079844,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239201,
+        "num": 176756,
+        "word": "马君妍宣布二胎宝宝已有30周",
+        "onboard_time": 1771076902,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138150,
+        "num": 175325,
+        "word": "千问补发免单卡",
+        "onboard_time": 1771078882,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 22647,
+        "num": 172052,
+        "word": "曲春雨说离黄大宪远一点",
+        "onboard_time": 1771083323,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 247276,
+        "num": 171322,
+        "word": "从疲劳到癌症只有4步",
+        "onboard_time": 1771076902,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 215365,
+        "num": 168061,
+        "word": "白鹿虞书欣同款剧宣姿势",
+        "onboard_time": 1771067061,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 168031,
+        "num": 168031,
+        "word": "56岁阿姨长期情绪失控痛哭右眼失明",
+        "onboard_time": 1771076181,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163226,
+        "num": 163226,
+        "word": "女子染发头皮溃烂过年只能光头",
+        "onboard_time": 1771078944,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158301,
+        "num": 158301,
+        "word": "杨博文高会",
+        "onboard_time": 1771079363,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106592,
+        "num": 155556,
+        "word": "听刘宇唱马上来财领到千问红包",
+        "onboard_time": 1771079844,
+        "rank": 25,
+        "category": "音乐,互联网"
+      },
+      {
+        "raw_hot": 23536,
+        "num": 154207,
+        "word": "沈阳有雷电暴雨式洗浴了",
+        "onboard_time": 1771083860,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153545,
+        "num": 153545,
+        "word": "张杰 春晚",
+        "onboard_time": 1771082662,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130978,
+        "num": 152946,
+        "word": "中外网友对账对到了菜市场",
+        "onboard_time": 1771081044,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37008,
+        "num": 152661,
+        "word": "美军正为打击伊朗行动做准备",
+        "onboard_time": 1771079724,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 152604,
+        "num": 152604,
+        "word": "情人节发现男朋友联系高中女同学",
+        "onboard_time": 1771079484,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140151,
+        "num": 140151,
+        "word": "王一博人鱼演职表更新",
+        "onboard_time": 1771076902,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 137962,
+        "num": 137962,
+        "word": "王橹杰高会",
+        "onboard_time": 1771067781,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135185,
+        "num": 135185,
+        "word": "千问口令",
+        "onboard_time": 1771077622,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 129330,
+        "num": 129330,
+        "word": "张函瑞高会",
+        "onboard_time": 1771082001,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122008,
+        "num": 122008,
+        "word": "黄金还能买吗",
+        "onboard_time": 1771080264,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 112395,
+        "num": 112395,
+        "word": "明星红包",
+        "onboard_time": 1771073841,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84452,
+        "num": 84452,
+        "word": "河南卫视春晚",
+        "onboard_time": 1771068741,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83818,
+        "num": 83818,
+        "word": "情人节的朋友圈比春晚还热闹",
+        "onboard_time": 1771075943,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 80151,
+        "num": 83003,
+        "word": "中国2银2铜暂列冬奥奖牌榜第18",
+        "onboard_time": 1771071261,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82951,
+        "num": 82951,
+        "word": "小酒窝做了长美甲",
+        "onboard_time": 1771059440,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81939,
+        "num": 81939,
+        "word": "周冬雨从不发朋友圈",
+        "onboard_time": 1771071501,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 80131,
+        "num": 80131,
+        "word": "师傅上门开锁发现屋内老人已去世",
+        "onboard_time": 1771082183,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79380,
+        "num": 79380,
+        "word": "她真的很懂中国学生的内驱力",
+        "onboard_time": 1771082362,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 77453,
+        "num": 77453,
+        "word": "向佐表白郭碧婷和孩子",
+        "onboard_time": 1771082001,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75249,
+        "num": 75249,
+        "word": "林孝埈术后康复影像首次曝光",
+        "onboard_time": 1771083860,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 72597,
+        "num": 72597,
+        "word": "千问回应大免单再加3天",
+        "onboard_time": 1771069160,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 69278,
+        "num": 69278,
+        "word": "宋茜陈好你们根本没喝中药",
+        "onboard_time": 1771075461,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66182,
+        "num": 66182,
+        "word": "黄子韬回应扇了徐艺洋",
+        "onboard_time": 1771066223,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 63683,
+        "num": 63683,
+        "word": "小鹿妈妈说雪深到大腿",
+        "onboard_time": 1771080444,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#2026春节团拜会举行#"
+    }
+  }
+}
