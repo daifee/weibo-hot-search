@@ -1,0 +1,410 @@
+{
+  "runTime": 1771109475996,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 555968,
+        "num": 590691,
+        "word": "英国选手撞倒孙龙刘少昂",
+        "onboard_time": 1771107074,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184598,
+        "num": 426100,
+        "word": "林孝埈1500米摔倒",
+        "onboard_time": 1771098015,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 11086,
+        "num": 345606,
+        "word": "一杯热水暖了几十年归途",
+        "onboard_time": 1771076302,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156241,
+        "num": 156241,
+        "word": "短道速滑",
+        "onboard_time": 1771096155,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154412,
+        "num": 154412,
+        "word": "谷爱凌",
+        "onboard_time": 1771107195,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135242,
+        "num": 135242,
+        "word": "河南春晚 没有主持人和舞台",
+        "onboard_time": 1771073901,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120336,
+        "num": 120336,
+        "word": "谷爱凌第2跳摔倒",
+        "onboard_time": 1771097234,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84183,
+        "num": 84183,
+        "word": "王者荣耀崩了",
+        "onboard_time": 1771087818,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 65244,
+        "num": 65244,
+        "word": "谷爱凌第一跳86.00分",
+        "onboard_time": 1771095796,
+        "rank": 8,
+        "category": "民生新闻,体育"
+      },
+      {
+        "raw_hot": 62905,
+        "num": 62905,
+        "word": "关晓彤 青鸟神女",
+        "onboard_time": 1771076782,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106516,
+        "num": 60318,
+        "word": "黄子韬回应扇了徐艺洋",
+        "onboard_time": 1771066223,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96193,
+        "num": 59897,
+        "word": "霍启刚三兄弟飞米兰为父庆生",
+        "onboard_time": 1771090457,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52532,
+        "num": 52532,
+        "word": "王毅就中日关系重申严正立场",
+        "onboard_time": 1771079062,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 52229,
+        "num": 52229,
+        "word": "河南春晚 大量广告里穿插了少量节目",
+        "onboard_time": 1771071382,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51443,
+        "num": 51443,
+        "word": "马君妍宣布二胎宝宝已有30周",
+        "onboard_time": 1771076902,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49010,
+        "num": 49010,
+        "word": "高亭宇奥运纪录被打破",
+        "onboard_time": 1771087579,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 48865,
+        "num": 48865,
+        "word": "千问红包",
+        "onboard_time": 1771072762,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 42781,
+        "num": 42781,
+        "word": "林孝埈短道速滑1500米加油",
+        "onboard_time": 1771084400,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 42692,
+        "num": 42692,
+        "word": "中国队无缘女子3000米接力决赛",
+        "onboard_time": 1771107134,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 41787,
+        "num": 41787,
+        "word": "四川大学",
+        "onboard_time": 1771073722,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171052,
+        "num": 41608,
+        "word": "医院回应男童吃猪脚被卡喉去世",
+        "onboard_time": 1771084461,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96812,
+        "num": 41071,
+        "word": "迪丽热巴作品豆瓣评分",
+        "onboard_time": 1771081523,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76690,
+        "num": 40717,
+        "word": "曝黄子弘凡爸爸诈骗学生",
+        "onboard_time": 1771077023,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61833,
+        "num": 40317,
+        "word": "从疲劳到癌症只有4步",
+        "onboard_time": 1771076902,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 59416,
+        "num": 40034,
+        "word": "56岁阿姨长期情绪失控痛哭右眼失明",
+        "onboard_time": 1771076181,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39821,
+        "num": 39821,
+        "word": "刘一手承认欠款2000万",
+        "onboard_time": 1771068560,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 39378,
+        "num": 39378,
+        "word": "生命树多杰死因反转",
+        "onboard_time": 1771079244,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33952,
+        "num": 33952,
+        "word": "女子染发头皮溃烂过年只能光头",
+        "onboard_time": 1771078944,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32686,
+        "num": 32686,
+        "word": "黄金还能买吗",
+        "onboard_time": 1771080264,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 32560,
+        "num": 32560,
+        "word": "任子威说黄大宪有点手法",
+        "onboard_time": 1771100293,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30563,
+        "num": 30563,
+        "word": "王一博人鱼演职表更新",
+        "onboard_time": 1771076902,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 30525,
+        "num": 30525,
+        "word": "情人节发现男朋友联系高中女同学",
+        "onboard_time": 1771079484,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 28156,
+        "num": 28156,
+        "word": "红包",
+        "onboard_time": 1771050141,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 27779,
+        "num": 27779,
+        "word": "情人节的朋友圈比春晚还热闹",
+        "onboard_time": 1771075943,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 26620,
+        "num": 26620,
+        "word": "中国2银2铜暂列冬奥奖牌榜第18",
+        "onboard_time": 1771071261,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26274,
+        "num": 26274,
+        "word": "黄子弘凡工作室辟谣",
+        "onboard_time": 1771079844,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24896,
+        "num": 26274,
+        "word": "檀健次也太欲太会钓了",
+        "onboard_time": 1771087099,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22618,
+        "num": 26273,
+        "word": "谷爱凌大跳台晋级决赛",
+        "onboard_time": 1771107134,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21221,
+        "num": 26273,
+        "word": "千问口令",
+        "onboard_time": 1771077622,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 20120,
+        "num": 26272,
+        "word": "谷爱凌第三跳84.75分",
+        "onboard_time": 1771107315,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19431,
+        "num": 26272,
+        "word": "苏翊鸣比赛改期",
+        "onboard_time": 1771107795,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19209,
+        "num": 26272,
+        "word": "刘少昂进1500米半决赛",
+        "onboard_time": 1771098254,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18752,
+        "num": 26271,
+        "word": "高亭宇男子500米",
+        "onboard_time": 1771084762,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18648,
+        "num": 26271,
+        "word": "电影惊蛰无声",
+        "onboard_time": 1771099694,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 18597,
+        "num": 26271,
+        "word": "林孝埈术后康复影像首次曝光",
+        "onboard_time": 1771083860,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18576,
+        "num": 26270,
+        "word": "红包分组",
+        "onboard_time": 1771062620,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 18448,
+        "num": 26270,
+        "word": "明星红包",
+        "onboard_time": 1771073841,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18047,
+        "num": 26270,
+        "word": "谷爱凌抗压能力绝了",
+        "onboard_time": 1771108696,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17229,
+        "num": 26270,
+        "word": "千问超级免单卡",
+        "onboard_time": 1771070661,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 16644,
+        "num": 26269,
+        "word": "男子500米前三名全破奥运纪录",
+        "onboard_time": 1771103893,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#新征程上策马扬鞭勇往直前#"
+    }
+  }
+}
