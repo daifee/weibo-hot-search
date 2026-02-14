@@ -1,6 +1,6 @@
 {
   "startTime": 1770998880163,
-  "endTime": 1771044499405,
+  "endTime": 1771045060872,
   "band_list": [
     {
       "raw_hot": 4412806,
@@ -11,10 +11,18 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1526254,
+      "raw_hot": 1581913,
       "num": 160273,
       "word": "宋轶好刚",
       "onboard_time": 1771027460,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1215567,
+      "num": 127579,
+      "word": "宋轶无名指戴了戒指",
+      "onboard_time": 1771044559,
       "rank": 25,
       "category": "艺人"
     },
@@ -75,6 +83,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 578030,
+      "num": 174928,
+      "word": "中戏 主动投案",
+      "onboard_time": 1771040660,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 574733,
       "num": 830137,
       "word": "羽生结弦的含金量还在上升",
@@ -88,14 +104,6 @@
       "word": "得知22岁儿子巴厘岛溺亡母亲哭晕",
       "onboard_time": 1771037120,
       "rank": 21,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 511860,
-      "num": 164647,
-      "word": "中戏 主动投案",
-      "onboard_time": 1771040660,
-      "rank": 10,
       "category": "民生新闻"
     },
     {
@@ -156,7 +164,7 @@
     },
     {
       "raw_hot": 351311,
-      "num": 326004,
+      "num": 338690,
       "word": "情人节红包",
       "onboard_time": 1771028359,
       "rank": 5,
@@ -164,7 +172,7 @@
     },
     {
       "raw_hot": 343294,
-      "num": 343294,
+      "num": 367402,
       "word": "游客已在胖东来买到搬不动了",
       "onboard_time": 1771039940,
       "rank": 3,
@@ -185,6 +193,14 @@
       "onboard_time": 1771024397,
       "rank": 12,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 296032,
+      "num": 351792,
+      "word": "张萌说浪姐收手机是因为黄圣依",
+      "onboard_time": 1771044140,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 295252,
@@ -243,20 +259,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 266793,
+      "num": 134244,
+      "word": "为什么微信红包最多只能200元",
+      "onboard_time": 1771040600,
+      "rank": 22,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 266626,
       "num": 213907,
       "word": "王鹤棣cortis拍了cha",
       "onboard_time": 1771030820,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 265085,
-      "num": 131218,
-      "word": "为什么微信红包最多只能200元",
-      "onboard_time": 1771040600,
-      "rank": 22,
-      "category": "互联网"
     },
     {
       "raw_hot": 252426,
@@ -276,7 +292,7 @@
     },
     {
       "raw_hot": 238706,
-      "num": 160434,
+      "num": 167808,
       "word": "王鹤棣NBA全明星总得分30分",
       "onboard_time": 1771041441,
       "rank": 11,
@@ -284,7 +300,7 @@
     },
     {
       "raw_hot": 235338,
-      "num": 151644,
+      "num": 164503,
       "word": "野狗骨头",
       "onboard_time": 1771038920,
       "rank": 12,
@@ -475,6 +491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160458,
+      "num": 160458,
+      "word": "中国男子巴厘岛溺亡同伴连滚带爬求救",
+      "onboard_time": 1771043300,
+      "rank": 15,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 160302,
       "num": 160302,
       "word": "矿山员工10分钟数9.5万现金手抽筋",
@@ -483,11 +507,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 159655,
+      "num": 159655,
+      "word": "岳云鹏蔡文静亲密戏",
+      "onboard_time": 1771044260,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 155557,
       "num": 155557,
       "word": "萨多洛夫花滑男单金牌",
       "onboard_time": 1771021094,
       "rank": 4,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 152654,
+      "num": 172805,
+      "word": "刘少昂孙龙林孝埈1500米冲金",
+      "onboard_time": 1771041380,
+      "rank": 9,
       "category": "体育"
     },
     {
@@ -547,22 +587,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 134730,
-      "num": 134730,
-      "word": "中国男子巴厘岛溺亡同伴连滚带爬求救",
-      "onboard_time": 1771043300,
-      "rank": 15,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 130935,
-      "num": 172805,
-      "word": "刘少昂孙龙林孝埈1500米冲金",
-      "onboard_time": 1771041380,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 130726,
       "num": 130726,
       "word": "何不同舟渡",
@@ -571,12 +595,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 130563,
-      "num": 130563,
-      "word": "岳云鹏蔡文静亲密戏",
-      "onboard_time": 1771044260,
-      "rank": 24,
-      "category": "剧集"
+      "raw_hot": 130394,
+      "num": 121938,
+      "word": "陈卓璇治好了乐评人爱挑刺的毛病",
+      "onboard_time": 1771044859,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 130292,
@@ -595,20 +619,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 126780,
+      "num": 126780,
+      "word": "没有撤回微信红包的需求",
+      "onboard_time": 1771042280,
+      "rank": 25,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 125968,
       "num": 125968,
       "word": "主动投案的王鑫是易烊千玺等人老师",
       "onboard_time": 1770974180,
       "rank": 22,
       "category": "艺人,民生新闻"
-    },
-    {
-      "raw_hot": 121163,
-      "num": 121163,
-      "word": "没有撤回微信红包的需求",
-      "onboard_time": 1771042280,
-      "rank": 25,
-      "category": "互联网"
     },
     {
       "raw_hot": 121002,
@@ -624,6 +648,14 @@
       "word": "6000万年终奖有人数走9万5",
       "onboard_time": 1771025298,
       "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115506,
+      "num": 115506,
+      "word": "男子打牌被亲戚作弊骗走175万",
+      "onboard_time": 1771043539,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -723,14 +755,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 109879,
-      "num": 109879,
-      "word": "张萌说浪姐收手机是因为黄圣依",
-      "onboard_time": 1771044140,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 109135,
       "num": 109135,
       "word": "乌运动员因头盔被取消冬奥资格",
@@ -753,6 +777,14 @@
       "onboard_time": 1770994343,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 108033,
+      "num": 102673,
+      "word": "宋威龙张婧仪揽腰共舞",
+      "onboard_time": 1771044082,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 106390,
@@ -793,14 +825,6 @@
       "onboard_time": 1770990861,
       "rank": 34,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 102972,
-      "num": 110922,
-      "word": "男子打牌被亲戚作弊骗走175万",
-      "onboard_time": 1771043539,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 102745,
@@ -865,14 +889,6 @@
       "onboard_time": 1771042400,
       "rank": 35,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 95179,
-      "num": 95179,
-      "word": "宋威龙张婧仪揽腰共舞",
-      "onboard_time": 1771044082,
-      "rank": 37,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 92826,
@@ -947,6 +963,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 86031,
+      "num": 86031,
+      "word": "今年的班就上到这儿了",
+      "onboard_time": 1771044799,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 85181,
       "num": 85181,
       "word": "这就是我赚钱的意义",
@@ -1003,20 +1027,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 77599,
+      "num": 77599,
+      "word": "高亭宇男子速滑500米冲金",
+      "onboard_time": 1771044380,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 76910,
       "num": 76910,
       "word": "雀骨",
       "onboard_time": 1771044440,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 76308,
-      "num": 76308,
-      "word": "高亭宇男子速滑500米冲金",
-      "onboard_time": 1771044380,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 75505,
@@ -1131,6 +1155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 59166,
+      "num": 142610,
+      "word": "200名车友为爱发车跨城接亲",
+      "onboard_time": 1771043781,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 59118,
       "num": 59118,
       "word": "脑综出现了马年的第一匹黑马",
@@ -1144,14 +1176,6 @@
       "word": "主人回应边牧凌晨下单100多个灯笼",
       "onboard_time": 1770986242,
       "rank": 43,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 56313,
-      "num": 133351,
-      "word": "200名车友为爱发车跨城接亲",
-      "onboard_time": 1771043781,
-      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -1196,7 +1220,7 @@
     },
     {
       "raw_hot": 47976,
-      "num": 137506,
+      "num": 159879,
       "word": "千问集卡大军回村了",
       "onboard_time": 1771041619,
       "rank": 14,
@@ -1209,6 +1233,14 @@
       "onboard_time": 1770998660,
       "rank": 23,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 46278,
+      "num": 140452,
+      "word": "新年和荣耀500一起舞摆一起Live",
+      "onboard_time": 1771043600,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 45958,
@@ -1305,14 +1337,6 @@
       "onboard_time": 1771000579,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 30003,
-      "num": 132717,
-      "word": "新年和荣耀500一起舞摆一起Live",
-      "onboard_time": 1771043600,
-      "rank": 19,
-      "category": "数码"
     },
     {
       "raw_hot": 26634,

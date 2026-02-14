@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1771044499405,
+  "endTime": 1771045060872,
   "band_list": [
     {
       "raw_hot": 22742360,
@@ -1235,6 +1235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1581913,
+      "num": 160273,
+      "word": "宋轶好刚",
+      "onboard_time": 1771027460,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1581316,
       "num": 613368,
       "word": "关晓彤婉拒马上有对象",
@@ -1345,14 +1353,6 @@
       "onboard_time": 1767757102,
       "rank": 10,
       "category": "演出"
-    },
-    {
-      "raw_hot": 1526254,
-      "num": 160273,
-      "word": "宋轶好刚",
-      "onboard_time": 1771027460,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 1522691,
@@ -1979,6 +1979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1215567,
+      "num": 127579,
+      "word": "宋轶无名指戴了戒指",
+      "onboard_time": 1771044559,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1215104,
       "num": 313426,
       "word": "妻子曾多次九十点催程序员丈夫下班",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1770880820,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1127372,
-      "num": 1029037,
-      "word": "骄阳似我",
-      "onboard_time": 1767264681,
-      "rank": 15,
-      "category": "剧集"
     }
   ],
   "hotgov_list": [
