@@ -1,6 +1,6 @@
 {
   "startTime": 1771087248939,
-  "endTime": 1771112029274,
+  "endTime": 1771112891030,
   "band_list": [
     {
       "raw_hot": 1113157,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 656302,
-      "num": 892664,
+      "num": 980833,
       "word": "英国选手撞倒孙龙刘少昂",
       "onboard_time": 1771107074,
       "rank": 0,
@@ -67,6 +67,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 375457,
+      "num": 117268,
+      "word": "黄子弘凡爸爸是国家一级演员",
+      "onboard_time": 1771111457,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 375048,
+      "num": 375048,
+      "word": "王毅警告日本现场爆发热烈掌声",
+      "onboard_time": 1771111338,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 365914,
       "num": 108641,
       "word": "医院回应男童吃猪脚被卡喉去世",
@@ -84,7 +100,7 @@
     },
     {
       "raw_hot": 309997,
-      "num": 652802,
+      "num": 719833,
       "word": "林孝埈1500米摔倒",
       "onboard_time": 1771098015,
       "rank": 5,
@@ -105,6 +121,14 @@
       "onboard_time": 1771087222,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 245906,
+      "num": 245906,
+      "word": "王一博2026年央视总台春晚",
+      "onboard_time": 1771110737,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 244286,
@@ -155,6 +179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 211770,
+      "num": 114229,
+      "word": "丈夫破产负债10亿妻子卖珠宝帮还债",
+      "onboard_time": 1771112057,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 201307,
       "num": 121153,
       "word": "张凌赫空降超话",
@@ -171,20 +203,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190956,
+      "num": 190956,
+      "word": "谷爱凌",
+      "onboard_time": 1771107195,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 174904,
       "num": 174904,
       "word": "谷爱凌第一跳86.00分",
       "onboard_time": 1771095796,
       "rank": 3,
       "category": "民生新闻,体育"
-    },
-    {
-      "raw_hot": 174067,
-      "num": 174067,
-      "word": "王毅警告日本现场爆发热烈掌声",
-      "onboard_time": 1771111338,
-      "rank": 4,
-      "category": "国内时政"
     },
     {
       "raw_hot": 164217,
@@ -195,28 +227,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 162988,
-      "num": 117268,
-      "word": "黄子弘凡爸爸是国家一级演员",
-      "onboard_time": 1771111457,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 159798,
       "num": 108485,
       "word": "从疲劳到癌症只有4步",
       "onboard_time": 1771076902,
       "rank": 22,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 157475,
-      "num": 157475,
-      "word": "王一博2026年央视总台春晚",
-      "onboard_time": 1771110737,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 157048,
@@ -227,12 +243,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 154412,
-      "num": 154412,
-      "word": "谷爱凌",
-      "onboard_time": 1771107195,
-      "rank": 4,
-      "category": "体育"
+      "raw_hot": 151657,
+      "num": 114200,
+      "word": "霍启刚三兄弟飞米兰为父庆生",
+      "onboard_time": 1771090457,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 149537,
@@ -251,15 +267,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 143848,
-      "num": 114200,
-      "word": "霍启刚三兄弟飞米兰为父庆生",
-      "onboard_time": 1771090457,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 142362,
+      "raw_hot": 143122,
       "num": 112046,
       "word": "黄子韬回应扇了徐艺洋",
       "onboard_time": 1771066223,
@@ -299,6 +307,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 116933,
+      "num": 116933,
+      "word": "王菲春晚后台路透",
+      "onboard_time": 1771111338,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 116548,
+      "num": 108241,
+      "word": "56岁阿姨长期情绪失控痛哭右眼失明",
+      "onboard_time": 1771076181,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109627,
       "num": 109627,
       "word": "生命树多杰死因反转",
@@ -331,14 +355,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 104559,
-      "num": 108241,
-      "word": "56岁阿姨长期情绪失控痛哭右眼失明",
-      "onboard_time": 1771076181,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 100370,
       "num": 100370,
       "word": "CORTIS新单YCC引发热议",
@@ -353,6 +369,22 @@
       "onboard_time": 1771079484,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 91459,
+      "num": 91459,
+      "word": "谷爱凌大跳台170.75分",
+      "onboard_time": 1771112118,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 91289,
+      "num": 72531,
+      "word": "黄大宪1500米银牌",
+      "onboard_time": 1771112118,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 90493,
@@ -385,14 +417,6 @@
       "onboard_time": 1771076902,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 78547,
-      "num": 78547,
-      "word": "王菲春晚后台路透",
-      "onboard_time": 1771111338,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 77507,
@@ -435,12 +459,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 70972,
+      "num": 70972,
+      "word": "白百何孩子五岁了",
+      "onboard_time": 1771072401,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 70754,
       "num": 70754,
       "word": "林孝埈八年冬奥路太长了",
       "onboard_time": 1771077802,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 70081,
+      "num": 78143,
+      "word": "央视官宣王菲春晚新歌",
+      "onboard_time": 1771112598,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 69239,
@@ -456,6 +496,14 @@
       "word": "情人节的朋友圈比春晚还热闹",
       "onboard_time": 1771075943,
       "rank": 40,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 68931,
+      "num": 68931,
+      "word": "为什么朋友圈没人秀恩爱了",
+      "onboard_time": 1771111756,
+      "rank": 41,
       "category": "情感"
     },
     {
@@ -483,12 +531,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 62331,
+      "num": 62331,
+      "word": "任子威说中国队战术太保守了",
+      "onboard_time": 1771112236,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 61611,
+      "num": 61611,
+      "word": "为什么招上门女婿的女性越来越多了",
+      "onboard_time": 1771068622,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 60659,
       "num": 60659,
       "word": "任子威说黄大宪有点手法",
       "onboard_time": 1771100293,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 59924,
+      "num": 59924,
+      "word": "吉林一女子中1204万大奖",
+      "onboard_time": 1771112298,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 59390,
@@ -539,14 +611,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 53237,
-      "num": 53237,
-      "word": "白百何孩子五岁了",
-      "onboard_time": 1771072401,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 53125,
       "num": 67935,
       "word": "中国2银2铜暂列冬奥奖牌榜第18",
@@ -568,6 +632,22 @@
       "word": "高亭宇500米奥运纪录被打破",
       "onboard_time": 1771088118,
       "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 50147,
+      "num": 50147,
+      "word": "孙龙安慰林孝埈",
+      "onboard_time": 1771112236,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 49280,
+      "num": 49280,
+      "word": "速度滑冰",
+      "onboard_time": 1771112057,
+      "rank": 41,
       "category": "体育"
     },
     {
@@ -595,6 +675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 41258,
+      "num": 41799,
+      "word": "王者荣耀",
+      "onboard_time": 1771111035,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 39482,
       "num": 62923,
       "word": "钢架雪车",
@@ -603,28 +691,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 37295,
-      "num": 41799,
-      "word": "王者荣耀",
-      "onboard_time": 1771111035,
-      "rank": 39,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 36590,
       "num": 62776,
       "word": "斯托尔兹再破500米奥运纪录",
       "onboard_time": 1771088718,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 33233,
-      "num": 41793,
-      "word": "为什么朋友圈没人秀恩爱了",
-      "onboard_time": 1771111756,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 32271,
@@ -692,7 +764,7 @@
     },
     {
       "raw_hot": 19386,
-      "num": 513941,
+      "num": 560752,
       "word": "一杯热水暖了几十年归途",
       "onboard_time": 1771076302,
       "rank": 2,
