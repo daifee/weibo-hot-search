@@ -1,21 +1,21 @@
 {
   "startTime": 1770998880163,
-  "endTime": 1771077683332,
+  "endTime": 1771079775289,
   "band_list": [
+    {
+      "raw_hot": 6181369,
+      "num": 6181369,
+      "word": "曝黄子弘凡爸爸诈骗学生",
+      "onboard_time": 1771077023,
+      "rank": 10,
+      "category": "艺人"
+    },
     {
       "raw_hot": 4412806,
       "num": 176425,
       "word": "白敬亭 宋轶",
       "onboard_time": 1770992123,
       "rank": 20,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1730271,
-      "num": 205065,
-      "word": "曝黄子弘凡爸爸诈骗学生",
-      "onboard_time": 1771077023,
-      "rank": 10,
       "category": "艺人"
     },
     {
@@ -235,6 +235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 534770,
+      "num": 534770,
+      "word": "关晓彤 青鸟神女",
+      "onboard_time": 1771076782,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 452128,
       "num": 217237,
       "word": "明星红包",
@@ -291,6 +299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 403735,
+      "num": 177735,
+      "word": "马君妍宣布二胎宝宝已有30周",
+      "onboard_time": 1771076902,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 401926,
       "num": 1006825,
       "word": "马里宁自由滑重大失误",
@@ -313,6 +329,14 @@
       "onboard_time": 1771076902,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 379682,
+      "num": 379682,
+      "word": "马年不宜婚嫁真的假的",
+      "onboard_time": 1771076122,
+      "rank": 6,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 378632,
@@ -339,6 +363,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 374024,
+      "num": 192510,
+      "word": "王橹杰高会",
+      "onboard_time": 1771067781,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 373207,
       "num": 167819,
       "word": "王橹杰彝族血统发力了",
@@ -361,14 +393,6 @@
       "onboard_time": 1771049241,
       "rank": 33,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 356434,
-      "num": 192510,
-      "word": "王橹杰高会",
-      "onboard_time": 1771067781,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 356314,
@@ -531,6 +555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 297021,
+      "num": 217392,
+      "word": "四川大学",
+      "onboard_time": 1771073722,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 295252,
       "num": 295252,
       "word": "樊振东2比3温瑞博",
@@ -585,14 +617,6 @@
       "onboard_time": 1771035439,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 283801,
-      "num": 217392,
-      "word": "四川大学",
-      "onboard_time": 1771073722,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 283570,
@@ -715,6 +739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 242770,
+      "num": 242770,
+      "word": "林孝埈八年冬奥路太长了",
+      "onboard_time": 1771077802,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 238706,
       "num": 167808,
       "word": "王鹤棣NBA全明星总得分30分",
@@ -745,14 +777,6 @@
       "onboard_time": 1770998241,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 229781,
-      "num": 229781,
-      "word": "马年不宜婚嫁真的假的",
-      "onboard_time": 1771076122,
-      "rank": 6,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 227562,
@@ -835,6 +859,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 209849,
+      "num": 209849,
+      "word": "王一博人鱼演职表更新",
+      "onboard_time": 1771076902,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 207795,
       "num": 420252,
       "word": "生命树豆瓣开分8.1",
@@ -849,14 +881,6 @@
       "onboard_time": 1771045280,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 205517,
-      "num": 205517,
-      "word": "关晓彤 青鸟神女",
-      "onboard_time": 1771076782,
-      "rank": 9,
-      "category": "综艺"
     },
     {
       "raw_hot": 203288,
@@ -899,20 +923,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 197653,
-      "num": 197653,
-      "word": "王一博人鱼演职表更新",
-      "onboard_time": 1771076902,
-      "rank": 15,
-      "category": "电影"
-    },
-    {
       "raw_hot": 196881,
       "num": 196881,
       "word": "给iPhone7配二手苹果表担心来路不正",
       "onboard_time": 1771037060,
       "rank": 16,
       "category": "数码"
+    },
+    {
+      "raw_hot": 195685,
+      "num": 156438,
+      "word": "56岁阿姨长期情绪失控痛哭右眼失明",
+      "onboard_time": 1771076181,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 187651,
@@ -1035,6 +1059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 166005,
+      "num": 166005,
+      "word": "杨丽萍和千问的马舞封神",
+      "onboard_time": 1771077682,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 162870,
       "num": 162870,
       "word": "冰壶",
@@ -1083,14 +1115,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 156438,
-      "num": 156438,
-      "word": "56岁阿姨长期情绪失控痛哭右眼失明",
-      "onboard_time": 1771076181,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 156405,
       "num": 156405,
       "word": "马立奥即将成为哥哥",
@@ -1129,14 +1153,6 @@
       "onboard_time": 1771041380,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 151096,
-      "num": 134556,
-      "word": "马君妍宣布二胎宝宝已有30周",
-      "onboard_time": 1771076902,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 150999,
@@ -1195,6 +1211,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 141612,
+      "num": 133955,
+      "word": "生命树多杰死因反转",
+      "onboard_time": 1771079244,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 139454,
       "num": 139454,
       "word": "小偷一打开门以为穿越时空了",
@@ -1233,6 +1257,14 @@
       "onboard_time": 1770991762,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 136153,
+      "num": 136153,
+      "word": "影视飓风Tim称将完整记录素人登珠峰",
+      "onboard_time": 1771077622,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 136012,
@@ -1305,6 +1337,14 @@
       "onboard_time": 1771025418,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130195,
+      "num": 119328,
+      "word": "白鹿唐宫22集4分20秒",
+      "onboard_time": 1771076543,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 130003,
@@ -1395,12 +1435,28 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 119883,
+      "num": 118048,
+      "word": "王毅就中日关系重申严正立场",
+      "onboard_time": 1771079062,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 117757,
       "num": 117757,
       "word": "6000万年终奖有人数走9万5",
       "onboard_time": 1771025298,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117450,
+      "num": 117450,
+      "word": "情人节的朋友圈比春晚还热闹",
+      "onboard_time": 1771075943,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 117030,
@@ -1417,6 +1473,14 @@
       "onboard_time": 1771043539,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115355,
+      "num": 115355,
+      "word": "千问补发免单卡",
+      "onboard_time": 1771078882,
+      "rank": 36,
+      "category": "互联网"
     },
     {
       "raw_hot": 115141,
@@ -1537,14 +1601,6 @@
       "onboard_time": 1771073121,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 111726,
-      "num": 111726,
-      "word": "白鹿唐宫22集4分20秒",
-      "onboard_time": 1771076543,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 111638,
@@ -1683,6 +1739,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 105494,
+      "num": 105494,
+      "word": "杨博文高会",
+      "onboard_time": 1771079363,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 105317,
       "num": 105317,
       "word": "张凌赫王楚然胶片",
@@ -1745,14 +1809,6 @@
       "onboard_time": 1771035800,
       "rank": 33,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 102674,
-      "num": 112829,
-      "word": "情人节的朋友圈比春晚还热闹",
-      "onboard_time": 1771075943,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 102091,
@@ -1827,14 +1883,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 99671,
-      "num": 99671,
-      "word": "影视飓风Tim称将完整记录素人登珠峰",
-      "onboard_time": 1771077622,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 99333,
       "num": 97198,
       "word": "王鹤棣G社出图",
@@ -1905,6 +1953,14 @@
       "onboard_time": 1771059920,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 94522,
+      "num": 94522,
+      "word": "王毅敲打日本军国主义",
+      "onboard_time": 1771079604,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 93252,
@@ -2009,6 +2065,14 @@
       "onboard_time": 1771061899,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 87719,
+      "num": 87719,
+      "word": "女子染发头皮溃烂过年只能光头",
+      "onboard_time": 1771078944,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87716,
@@ -2707,6 +2771,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 48947,
+      "num": 100398,
+      "word": "美军正为打击伊朗行动做准备",
+      "onboard_time": 1771079724,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 47976,
       "num": 159879,
       "word": "千问集卡大军回村了",
@@ -2915,6 +2987,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 28500,
+      "num": 686410,
+      "word": "一杯热水暖了几十年归途",
+      "onboard_time": 1771076302,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27252,
+      "num": 107538,
+      "word": "情人节发现男朋友联系高中女同学",
+      "onboard_time": 1771079484,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 26634,
       "num": 29896,
       "word": "马克龙手上的中国葡萄酒什么来头",
@@ -2923,20 +3011,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 26405,
-      "num": 686410,
-      "word": "一杯热水暖了几十年归途",
-      "onboard_time": 1771076302,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 26229,
       "num": 151048,
       "word": "春节吃喝指南",
       "onboard_time": 1771045280,
       "rank": 14,
       "category": "美食"
+    },
+    {
+      "raw_hot": 25878,
+      "num": 106894,
+      "word": "春节10倍酒店房价的定价秘密",
+      "onboard_time": 1771078703,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25700,
