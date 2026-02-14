@@ -1,0 +1,410 @@
+{
+  "runTime": 1771069593607,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 845245,
+        "num": 1135239,
+        "word": "人民日报红包",
+        "onboard_time": 1771067000,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 263046,
+        "num": 806202,
+        "word": "红包分组",
+        "onboard_time": 1771062620,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 17494,
+        "num": 650398,
+        "word": "我和国宝过大年",
+        "onboard_time": 1771068980,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 549208,
+        "num": 549208,
+        "word": "红包",
+        "onboard_time": 1771050141,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 231322,
+        "num": 231322,
+        "word": "女子998买全程票变半程警方已介入",
+        "onboard_time": 1771061120,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 320804,
+        "num": 229449,
+        "word": "河南卫视春晚",
+        "onboard_time": 1771068741,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243087,
+        "num": 225408,
+        "word": "这么大的架子竟然一点官都没有",
+        "onboard_time": 1771060340,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 217571,
+        "num": 217571,
+        "word": "突然发现朋友圈没人晒花了",
+        "onboard_time": 1771055719,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 189990,
+        "num": 189990,
+        "word": "情人节",
+        "onboard_time": 1770996381,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 650071,
+        "num": 189819,
+        "word": "白鹿虞书欣同款剧宣姿势",
+        "onboard_time": 1771067061,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189294,
+        "num": 189294,
+        "word": "哈尔滨18米雪王鸡王被连夜拆除",
+        "onboard_time": 1771060940,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180507,
+        "num": 180507,
+        "word": "女子称健身被哄骗注射药物变阴阳人",
+        "onboard_time": 1771060940,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176048,
+        "num": 176048,
+        "word": "iPhone18Pro五项新功能",
+        "onboard_time": 1771061180,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 148469,
+        "num": 148469,
+        "word": "米兰花滑惨案是什么级别的爆冷",
+        "onboard_time": 1771066101,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24601,
+        "num": 144312,
+        "word": "情人节一起马卡叭卡",
+        "onboard_time": 1771066881,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 144308,
+        "num": 144308,
+        "word": "北大毕业年薪180万想做上门女婿",
+        "onboard_time": 1771066223,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141859,
+        "num": 141859,
+        "word": "千问免单卡可以买电影票了",
+        "onboard_time": 1771064480,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 139454,
+        "num": 139454,
+        "word": "小偷一打开门以为穿越时空了",
+        "onboard_time": 1771063460,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 137423,
+        "num": 137423,
+        "word": "妈妈回应林孝埈加入中国队",
+        "onboard_time": 1771059859,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22225,
+        "num": 136600,
+        "word": "春节这4天加班拿4倍工资",
+        "onboard_time": 1771068441,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 754911,
+        "num": 135853,
+        "word": "刘一手承认欠款2000万",
+        "onboard_time": 1771068560,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 536003,
+        "num": 133808,
+        "word": "小酒窝做了长美甲",
+        "onboard_time": 1771059440,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 524470,
+        "num": 132735,
+        "word": "吃猪脚被卡喉10岁男孩现已去世",
+        "onboard_time": 1771063221,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 356434,
+        "num": 131405,
+        "word": "王橹杰高会",
+        "onboard_time": 1771067781,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270818,
+        "num": 129209,
+        "word": "王鹤棣让黄子韬跟徐艺洋离婚",
+        "onboard_time": 1771061120,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128458,
+        "num": 128458,
+        "word": "汉尼拔用的是张小泉菜刀",
+        "onboard_time": 1771059561,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 254792,
+        "num": 127395,
+        "word": "宋轶好刚",
+        "onboard_time": 1771027460,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66180,
+        "num": 126764,
+        "word": "年夜饭送到家搜索量暴增600%",
+        "onboard_time": 1771059859,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62784,
+        "num": 126122,
+        "word": "4人撤离车辆20秒后轿车被撞变形",
+        "onboard_time": 1771068681,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18936,
+        "num": 124043,
+        "word": "张晚意林允希林娜依高硬控情人节",
+        "onboard_time": 1771065861,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 314111,
+        "num": 123589,
+        "word": "王橹杰穆祉丞加上联系方式了",
+        "onboard_time": 1771068142,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107793,
+        "num": 122645,
+        "word": "爱上一个人的4个真实表现",
+        "onboard_time": 1771067000,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 215589,
+        "num": 120826,
+        "word": "王玉雯妈妈最喜欢的扎紧点发型",
+        "onboard_time": 1771065741,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149488,
+        "num": 120260,
+        "word": "网友偶遇了易烊千玺",
+        "onboard_time": 1771054340,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106149,
+        "num": 119381,
+        "word": "千问回应大免单再加3天",
+        "onboard_time": 1771069160,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 118302,
+        "num": 118302,
+        "word": "王一博边走边唱",
+        "onboard_time": 1771062260,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117030,
+        "num": 117030,
+        "word": "河南春晚",
+        "onboard_time": 1771068861,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99568,
+        "num": 114511,
+        "word": "出现6个症状的人请立刻休息",
+        "onboard_time": 1771063640,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 97661,
+        "num": 114195,
+        "word": "中国冰壶女队8比7意大利",
+        "onboard_time": 1771067660,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113933,
+        "num": 113933,
+        "word": "王安宇 潦草小狗",
+        "onboard_time": 1771068320,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101906,
+        "num": 101906,
+        "word": "申惠善李俊赫新剧杀疯了",
+        "onboard_time": 1771067119,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98351,
+        "num": 98351,
+        "word": "为什么招上门女婿的女性越来越多了",
+        "onboard_time": 1771068622,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101298,
+        "num": 98350,
+        "word": "偶遇黄子韬徐艺洋回青岛过年",
+        "onboard_time": 1771069281,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98075,
+        "num": 98075,
+        "word": "暖阳发文",
+        "onboard_time": 1771053799,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 94882,
+        "num": 94882,
+        "word": "橹穆采访",
+        "onboard_time": 1771068802,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91178,
+        "num": 91178,
+        "word": "伊能静脸太紧致了",
+        "onboard_time": 1771061720,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 91001,
+        "num": 91001,
+        "word": "中国女子冰壶偷分逆转东道主",
+        "onboard_time": 1771069042,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77213,
+        "num": 77213,
+        "word": "宋轶无名指戴了戒指",
+        "onboard_time": 1771044559,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74461,
+        "num": 74461,
+        "word": "TF家族纪录片",
+        "onboard_time": 1771064961,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71986,
+        "num": 71986,
+        "word": "门禁卡有多不安全",
+        "onboard_time": 1771065861,
+        "rank": 49,
+        "category": "科学科普"
+      }
+    ],
+    "hotgov": {
+      "word": "#心系万家的人民情怀#"
+    }
+  }
+}

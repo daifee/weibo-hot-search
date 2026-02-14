@@ -1,6 +1,6 @@
 {
   "startTime": 1770998880163,
-  "endTime": 1771068623564,
+  "endTime": 1771069593607,
   "band_list": [
     {
       "raw_hot": 4412806,
@@ -83,6 +83,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 754911,
+      "num": 135853,
+      "word": "刘一手承认欠款2000万",
+      "onboard_time": 1771068560,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 737919,
       "num": 781143,
       "word": "女子幽门螺杆菌阳性3年后查出胃癌",
@@ -105,6 +113,14 @@
       "onboard_time": 1771049420,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 650071,
+      "num": 247458,
+      "word": "白鹿虞书欣同款剧宣姿势",
+      "onboard_time": 1771067061,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 646073,
@@ -161,14 +177,6 @@
       "onboard_time": 1771037120,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 559671,
-      "num": 247458,
-      "word": "白鹿虞书欣同款剧宣姿势",
-      "onboard_time": 1771067061,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 541311,
@@ -283,6 +291,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 356434,
+      "num": 131405,
+      "word": "王橹杰高会",
+      "onboard_time": 1771067781,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 354702,
       "num": 298702,
       "word": "暖阳发文",
@@ -305,14 +321,6 @@
       "onboard_time": 1771028359,
       "rank": 5,
       "category": "情感"
-    },
-    {
-      "raw_hot": 349621,
-      "num": 120593,
-      "word": "王橹杰高会",
-      "onboard_time": 1771067781,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 345787,
@@ -363,6 +371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 320804,
+      "num": 229449,
+      "word": "河南卫视春晚",
+      "onboard_time": 1771068741,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 319607,
       "num": 172143,
       "word": "曝高市早苗手部病情恶化",
@@ -384,6 +400,14 @@
       "word": "网友偶遇了易烊千玺",
       "onboard_time": 1771054340,
       "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 314111,
+      "num": 123589,
+      "word": "王橹杰穆祉丞加上联系方式了",
+      "onboard_time": 1771068142,
+      "rank": 27,
       "category": "艺人"
     },
     {
@@ -465,14 +489,6 @@
       "onboard_time": 1771060940,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 285845,
-      "num": 118667,
-      "word": "王橹杰穆祉丞加上联系方式了",
-      "onboard_time": 1771068142,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 285397,
@@ -561,14 +577,6 @@
       "onboard_time": 1771054760,
       "rank": 12,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 258088,
-      "num": 120041,
-      "word": "刘一手承认欠款2000万",
-      "onboard_time": 1771068560,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 254006,
@@ -811,8 +819,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 175196,
-      "num": 175196,
+      "raw_hot": 176048,
+      "num": 176048,
       "word": "iPhone18Pro五项新功能",
       "onboard_time": 1771061180,
       "rank": 25,
@@ -947,11 +955,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 148469,
+      "num": 148469,
+      "word": "米兰花滑惨案是什么级别的爆冷",
+      "onboard_time": 1771066101,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 144422,
       "num": 144422,
       "word": "75岁老人祭祖烧纸引发大火获刑",
       "onboard_time": 1771055660,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144308,
+      "num": 144308,
+      "word": "北大毕业年薪180万想做上门女婿",
+      "onboard_time": 1771066223,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -961,6 +985,22 @@
       "onboard_time": 1771038260,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 141859,
+      "num": 164662,
+      "word": "千问免单卡可以买电影票了",
+      "onboard_time": 1771064480,
+      "rank": 15,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 139454,
+      "num": 139454,
+      "word": "小偷一打开门以为穿越时空了",
+      "onboard_time": 1771063460,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 138664,
@@ -1051,14 +1091,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 127281,
-      "num": 127281,
-      "word": "小偷一打开门以为穿越时空了",
-      "onboard_time": 1771063460,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 127049,
       "num": 127049,
       "word": "金虔佑 霸凌工作人员",
@@ -1115,14 +1147,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 121130,
-      "num": 164662,
-      "word": "千问免单卡可以买电影票了",
-      "onboard_time": 1771064480,
-      "rank": 15,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 121002,
       "num": 135102,
       "word": "湖北精神病医院有关问题调查结果",
@@ -1131,20 +1155,20 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 120027,
-      "num": 120027,
-      "word": "北大毕业年薪180万想做上门女婿",
-      "onboard_time": 1771066223,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 117757,
       "num": 117757,
       "word": "6000万年终奖有人数走9万5",
       "onboard_time": 1771025298,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117030,
+      "num": 117030,
+      "word": "河南春晚",
+      "onboard_time": 1771068861,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 115506,
@@ -1177,6 +1201,14 @@
       "onboard_time": 1770978559,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 113933,
+      "num": 113933,
+      "word": "王安宇 潦草小狗",
+      "onboard_time": 1771068320,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 113637,
@@ -1212,7 +1244,7 @@
     },
     {
       "raw_hot": 113136,
-      "num": 113136,
+      "num": 114195,
       "word": "中国冰壶女队8比7意大利",
       "onboard_time": 1771067660,
       "rank": 32,
@@ -1339,12 +1371,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 107793,
+      "num": 122645,
+      "word": "爱上一个人的4个真实表现",
+      "onboard_time": 1771067000,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 106390,
       "num": 106390,
       "word": "莫雷加德扮演樊振东",
       "onboard_time": 1771033223,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 106149,
+      "num": 119381,
+      "word": "千问回应大免单再加3天",
+      "onboard_time": 1771069160,
+      "rank": 34,
+      "category": "互联网"
     },
     {
       "raw_hot": 105984,
@@ -1364,7 +1412,7 @@
     },
     {
       "raw_hot": 105272,
-      "num": 98962,
+      "num": 114511,
       "word": "出现6个症状的人请立刻休息",
       "onboard_time": 1771063640,
       "rank": 40,
@@ -1419,6 +1467,22 @@
       "category": "健康医疗,民生新闻"
     },
     {
+      "raw_hot": 101906,
+      "num": 101906,
+      "word": "申惠善李俊赫新剧杀疯了",
+      "onboard_time": 1771067119,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 101298,
+      "num": 98350,
+      "word": "偶遇黄子韬徐艺洋回青岛过年",
+      "onboard_time": 1771069281,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 100884,
       "num": 100884,
       "word": "容祖儿上春晚没唱粤语歌被骂",
@@ -1459,20 +1523,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 99856,
-      "num": 98048,
-      "word": "爱上一个人的4个真实表现",
-      "onboard_time": 1771067000,
-      "rank": 36,
-      "category": "情感"
-    },
-    {
       "raw_hot": 99333,
       "num": 97198,
       "word": "王鹤棣G社出图",
       "onboard_time": 1771041800,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 98351,
+      "num": 98351,
+      "word": "为什么招上门女婿的女性越来越多了",
+      "onboard_time": 1771068622,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 98287,
@@ -1499,20 +1563,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 95619,
-      "num": 97725,
-      "word": "米兰花滑惨案是什么级别的爆冷",
-      "onboard_time": 1771066101,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 95119,
       "num": 83494,
       "word": "熊大熊二回应资源分配不均",
       "onboard_time": 1771056200,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 94882,
+      "num": 94882,
+      "word": "橹穆采访",
+      "onboard_time": 1771068802,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 94658,
@@ -1539,19 +1603,19 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 92143,
-      "num": 92143,
-      "word": "申惠善李俊赫新剧杀疯了",
-      "onboard_time": 1771067119,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 91401,
       "num": 91401,
       "word": "马里宁回应自由滑失误",
       "onboard_time": 1771043900,
       "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 91001,
+      "num": 91001,
+      "word": "中国女子冰壶偷分逆转东道主",
+      "onboard_time": 1771069042,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -1689,14 +1753,6 @@
       "onboard_time": 1771048099,
       "rank": 41,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 82687,
-      "num": 82687,
-      "word": "王安宇 潦草小狗",
-      "onboard_time": 1771068320,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 82517,
@@ -2123,6 +2179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 62784,
+      "num": 126122,
+      "word": "4人撤离车辆20秒后轿车被撞变形",
+      "onboard_time": 1771068681,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 62643,
       "num": 77966,
       "word": "杨瀚森的正确使用方式",
@@ -2516,7 +2580,7 @@
     },
     {
       "raw_hot": 24327,
-      "num": 117986,
+      "num": 124043,
       "word": "张晚意林允希林娜依高硬控情人节",
       "onboard_time": 1771065861,
       "rank": 29,
@@ -2536,6 +2600,14 @@
       "word": "回家路上随手拍",
       "onboard_time": 1770990501,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22225,
+      "num": 136600,
+      "word": "春节这4天加班拿4倍工资",
+      "onboard_time": 1771068441,
+      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -2603,11 +2675,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 16902,
-      "num": 114063,
-      "word": "春节这4天加班拿4倍工资",
-      "onboard_time": 1771068441,
-      "rank": 31,
+      "raw_hot": 17494,
+      "num": 650398,
+      "word": "我和国宝过大年",
+      "onboard_time": 1771068980,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
