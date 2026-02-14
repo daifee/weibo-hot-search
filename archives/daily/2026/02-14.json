@@ -1,6 +1,6 @@
 {
   "startTime": 1770998880163,
-  "endTime": 1771069593607,
+  "endTime": 1771074291701,
   "band_list": [
     {
       "raw_hot": 4412806,
@@ -27,12 +27,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1183710,
+      "num": 1189393,
+      "word": "河南春晚 大量广告里穿插了少量节目",
+      "onboard_time": 1771071382,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 963183,
       "num": 789276,
       "word": "情人节",
       "onboard_time": 1770996381,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 955597,
+      "num": 1145773,
+      "word": "红包",
+      "onboard_time": 1771050141,
+      "rank": 10,
+      "category": "互联网"
     },
     {
       "raw_hot": 920119,
@@ -51,16 +67,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 911082,
-      "num": 1145773,
-      "word": "红包",
-      "onboard_time": 1771050141,
-      "rank": 10,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 823459,
-      "num": 145579,
+      "num": 178299,
       "word": "小酒窝做了长美甲",
       "onboard_time": 1771059440,
       "rank": 38,
@@ -84,7 +92,7 @@
     },
     {
       "raw_hot": 754911,
-      "num": 135853,
+      "num": 247397,
       "word": "刘一手承认欠款2000万",
       "onboard_time": 1771068560,
       "rank": 25,
@@ -100,7 +108,7 @@
     },
     {
       "raw_hot": 724587,
-      "num": 145569,
+      "num": 178479,
       "word": "吃猪脚被卡喉10岁男孩现已去世",
       "onboard_time": 1771063221,
       "rank": 21,
@@ -153,6 +161,14 @@
       "onboard_time": 1771038199,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 585260,
+      "num": 843744,
+      "word": "川大通报王竹卿事件调查结果",
+      "onboard_time": 1771071561,
+      "rank": 1,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 578030,
@@ -227,6 +243,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 412418,
+      "num": 412418,
+      "word": "河南卫视春晚",
+      "onboard_time": 1771068741,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 401926,
       "num": 1006825,
       "word": "马里宁自由滑重大失误",
@@ -241,6 +265,14 @@
       "onboard_time": 1771036279,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 383764,
+      "num": 245811,
+      "word": "黄子弘凡红包",
+      "onboard_time": 1771071501,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 378632,
@@ -291,8 +323,16 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 359492,
+      "num": 359492,
+      "word": "千问红包",
+      "onboard_time": 1771072762,
+      "rank": 5,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 356434,
-      "num": 131405,
+      "num": 178031,
       "word": "王橹杰高会",
       "onboard_time": 1771067781,
       "rank": 22,
@@ -311,6 +351,14 @@
       "num": 160050,
       "word": "谁给迪丽热巴买的手机壳",
       "onboard_time": 1770982520,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 352704,
+      "num": 222851,
+      "word": "穆祉丞比王橹杰还急",
+      "onboard_time": 1771072341,
       "rank": 13,
       "category": "艺人"
     },
@@ -369,14 +417,6 @@
       "onboard_time": 1771024037,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 320804,
-      "num": 229449,
-      "word": "河南卫视春晚",
-      "onboard_time": 1771068741,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 319607,
@@ -499,6 +539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 283990,
+      "num": 283990,
+      "word": "第一批来中国的老外过年现状",
+      "onboard_time": 1771071921,
+      "rank": 6,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 283570,
       "num": 170000,
       "word": "56岁阿姨离婚后10年游43国",
@@ -529,6 +577,14 @@
       "onboard_time": 1771061720,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 273987,
+      "num": 273987,
+      "word": "周冬雨从不发朋友圈",
+      "onboard_time": 1771071501,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 272797,
@@ -747,6 +803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 201080,
+      "num": 177581,
+      "word": "四川大学",
+      "onboard_time": 1771073722,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 200645,
       "num": 200645,
       "word": "孟子义李昀锐情人节九宫格",
@@ -803,6 +867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 180044,
+      "num": 180044,
+      "word": "王昶钱天一情人节仪式感",
+      "onboard_time": 1771071261,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 180040,
       "num": 171461,
       "word": "檀健次卢昱晓捧杯海报",
@@ -817,6 +889,14 @@
       "onboard_time": 1771040179,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 177250,
+      "num": 177250,
+      "word": "大理一女子民宿被指歧视男性",
+      "onboard_time": 1771072882,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 176048,
@@ -835,6 +915,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 172565,
+      "num": 172565,
+      "word": "河南春晚 AI感",
+      "onboard_time": 1771072521,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170387,
       "num": 170387,
       "word": "玉簟秋揽腰吻海报",
@@ -849,6 +937,14 @@
       "onboard_time": 1770995182,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 169429,
+      "num": 169429,
+      "word": "明星红包",
+      "onboard_time": 1771073841,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 169317,
@@ -891,6 +987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 159360,
+      "num": 159360,
+      "word": "为什么招上门女婿的女性越来越多了",
+      "onboard_time": 1771068622,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 158564,
       "num": 115821,
       "word": "黄子韬回应扇了徐艺洋",
@@ -913,6 +1017,14 @@
       "onboard_time": 1771062260,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 155609,
+      "num": 171674,
+      "word": "米兰花滑惨案是什么级别的爆冷",
+      "onboard_time": 1771066101,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 155557,
@@ -953,14 +1065,6 @@
       "onboard_time": 1770995422,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 148469,
-      "num": 148469,
-      "word": "米兰花滑惨案是什么级别的爆冷",
-      "onboard_time": 1771066101,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 144422,
@@ -1035,6 +1139,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 135942,
+      "num": 170666,
+      "word": "中国2银2铜暂列冬奥奖牌榜第18",
+      "onboard_time": 1771071261,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 135380,
+      "num": 205452,
+      "word": "千问超级免单卡",
+      "onboard_time": 1771070661,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 134873,
       "num": 134873,
       "word": "薛之谦湖泊唱片版",
@@ -1075,6 +1195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130223,
+      "num": 130223,
+      "word": "河南春晚 没有主持人和舞台",
+      "onboard_time": 1771073901,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 130003,
       "num": 130003,
       "word": "陈飞宇什么时候才能原谅现偶",
@@ -1089,6 +1217,14 @@
       "onboard_time": 1771049959,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 127363,
+      "num": 114899,
+      "word": "河南春晚神还原樊楼飞天舞",
+      "onboard_time": 1771071200,
+      "rank": 36,
+      "category": "综艺,游戏"
     },
     {
       "raw_hot": 127049,
@@ -1187,6 +1323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 115032,
+      "num": 115032,
+      "word": "辞职当守岛人女高管下岛时哭了",
+      "onboard_time": 1771069880,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 114336,
       "num": 114336,
       "word": "Seedance2.0被评价为全球最强",
@@ -1273,6 +1417,14 @@
       "onboard_time": 1771051519,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111638,
+      "num": 111638,
+      "word": "克莱汤普森终身合同",
+      "onboard_time": 1771072281,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 110814,
@@ -1388,7 +1540,7 @@
     },
     {
       "raw_hot": 106149,
-      "num": 119381,
+      "num": 169623,
       "word": "千问回应大免单再加3天",
       "onboard_time": 1771069160,
       "rank": 34,
@@ -1443,6 +1595,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 103540,
+      "num": 179827,
+      "word": "前月饼大王从市值49亿到负债10亿",
+      "onboard_time": 1771073121,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103281,
       "num": 369507,
       "word": "北京WB严正声明",
@@ -1456,6 +1616,14 @@
       "word": "日本高官有意调查Seedance2.0",
       "onboard_time": 1771035800,
       "rank": 33,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 102091,
+      "num": 171868,
+      "word": "千问超级免单卡再加3天",
+      "onboard_time": 1771074082,
+      "rank": 27,
       "category": "互联网"
     },
     {
@@ -1531,14 +1699,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 98351,
-      "num": 98351,
-      "word": "为什么招上门女婿的女性越来越多了",
-      "onboard_time": 1771068622,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 98287,
       "num": 132218,
       "word": "情人节金莎想要金莎得到",
@@ -1569,6 +1729,14 @@
       "onboard_time": 1771056200,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 95100,
+      "num": 95100,
+      "word": "女子移植与亡夫胚胎遭医院拒绝",
+      "onboard_time": 1771073061,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 94882,
@@ -1627,12 +1795,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 90793,
+      "num": 90793,
+      "word": "白百何孩子五岁了",
+      "onboard_time": 1771072401,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 89629,
       "num": 89629,
       "word": "求婚是件很私密的事",
       "onboard_time": 1771056800,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 89343,
+      "num": 89343,
+      "word": "鞠婧祎糖亲",
+      "onboard_time": 1771073421,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 89056,
@@ -1769,6 +1953,14 @@
       "onboard_time": 1770979760,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 81861,
+      "num": 126122,
+      "word": "4人撤离车辆20秒后轿车被撞变形",
+      "onboard_time": 1771068681,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 81437,
@@ -2177,14 +2369,6 @@
       "onboard_time": 1771065679,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 62784,
-      "num": 126122,
-      "word": "4人撤离车辆20秒后轿车被撞变形",
-      "onboard_time": 1771068681,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 62643,
@@ -2651,6 +2835,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 18598,
+      "num": 699347,
+      "word": "团圆是最好的新年礼物",
+      "onboard_time": 1771059440,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18247,
       "num": 105498,
       "word": "张艺谋模仿刘耀文",
@@ -2681,6 +2873,14 @@
       "onboard_time": 1771068980,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16933,
+      "num": 179253,
+      "word": "生成电影级视频的AI大模型来了",
+      "onboard_time": 1771073121,
+      "rank": 19,
+      "category": "互联网"
     },
     {
       "raw_hot": 16579,
@@ -2715,12 +2915,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 15763,
-      "num": 636518,
-      "word": "团圆是最好的新年礼物",
-      "onboard_time": 1771059440,
-      "rank": 2,
-      "category": "民生新闻"
+      "raw_hot": 12708,
+      "num": 95304,
+      "word": "世界是个巨大的宋亚轩",
+      "onboard_time": 1771074261,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 11878,
@@ -2748,6 +2948,9 @@
     },
     {
       "word": "#习近平在2026春节团拜会上的讲话#"
+    },
+    {
+      "word": "#习近平向第39届非洲联盟峰会致贺电#"
     }
   ]
 }

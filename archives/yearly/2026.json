@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1771069593607,
+  "endTime": 1771074291701,
   "band_list": [
     {
       "raw_hot": 22742360,
@@ -2155,6 +2155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1183710,
+      "num": 1189393,
+      "word": "河南春晚 大量广告里穿插了少量节目",
+      "onboard_time": 1771071382,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1183637,
       "num": 1409771,
       "word": "跨年",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1770212001,
       "rank": 30,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 1127424,
-      "num": 241708,
-      "word": "蒋欣 当年真的错怪你了",
-      "onboard_time": 1770880820,
-      "rank": 12,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
