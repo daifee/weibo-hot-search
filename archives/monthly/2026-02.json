@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1771090401674,
+  "endTime": 1771091527058,
   "band_list": [
     {
       "raw_hot": 12386962,
@@ -2523,6 +2523,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 672454,
+      "num": 672454,
+      "word": "王者荣耀崩了",
+      "onboard_time": 1771087818,
+      "rank": 5,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 671666,
       "num": 318432,
       "word": "丞磊在飞机上帮王楚然剔牙",
@@ -2817,14 +2825,6 @@
       "onboard_time": 1770446361,
       "rank": 11,
       "category": "体育"
-    },
-    {
-      "raw_hot": 624610,
-      "num": 624610,
-      "word": "王者荣耀崩了",
-      "onboard_time": 1771087818,
-      "rank": 5,
-      "category": "游戏"
     },
     {
       "raw_hot": 624421,
@@ -24443,6 +24443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 100370,
+      "num": 100370,
+      "word": "CORTIS新单YCC引发热议",
+      "onboard_time": 1771089378,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 100311,
       "num": 100311,
       "word": "情人节微信开放520元红包",
@@ -34723,14 +34731,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 55309,
-      "num": 70703,
-      "word": "CORTIS新单YCC引发热议",
-      "onboard_time": 1771089378,
-      "rank": 19,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 55246,
       "num": 55324,
       "word": "家委会收每生263元家长报警",
@@ -34817,6 +34817,14 @@
       "onboard_time": 1770026003,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 54611,
+      "num": 42130,
+      "word": "霍启刚三兄弟飞米兰为父庆生",
+      "onboard_time": 1771090457,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 54576,
@@ -38241,6 +38249,14 @@
       "onboard_time": 1770709581,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31932,
+      "num": 37545,
+      "word": "田曦薇现身央视春晚备播录制",
+      "onboard_time": 1771091177,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 31888,
