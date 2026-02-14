@@ -1,10 +1,10 @@
 {
   "startTime": 1770998880163,
-  "endTime": 1771079775289,
+  "endTime": 1771080872782,
   "band_list": [
     {
-      "raw_hot": 6181369,
-      "num": 6181369,
+      "raw_hot": 6313808,
+      "num": 6313808,
       "word": "曝黄子弘凡爸爸诈骗学生",
       "onboard_time": 1771077023,
       "rank": 10,
@@ -33,6 +33,14 @@
       "onboard_time": 1771071382,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1403922,
+      "num": 187738,
+      "word": "黄子弘凡工作室辟谣",
+      "onboard_time": 1771079844,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 1215567,
@@ -76,7 +84,7 @@
     },
     {
       "raw_hot": 856232,
-      "num": 916779,
+      "num": 1093923,
       "word": "千问红包",
       "onboard_time": 1771072762,
       "rank": 5,
@@ -116,7 +124,7 @@
     },
     {
       "raw_hot": 743579,
-      "num": 645691,
+      "num": 797681,
       "word": "河南春晚 没有主持人和舞台",
       "onboard_time": 1771073901,
       "rank": 34,
@@ -203,6 +211,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 591291,
+      "num": 591291,
+      "word": "关晓彤 青鸟神女",
+      "onboard_time": 1771076782,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 578030,
       "num": 176232,
       "word": "中戏 主动投案",
@@ -235,12 +251,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 534770,
-      "num": 534770,
-      "word": "关晓彤 青鸟神女",
-      "onboard_time": 1771076782,
-      "rank": 9,
-      "category": "综艺"
+      "raw_hot": 453530,
+      "num": 197350,
+      "word": "马君妍宣布二胎宝宝已有30周",
+      "onboard_time": 1771076902,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 452128,
@@ -299,14 +315,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 403735,
-      "num": 177735,
-      "word": "马君妍宣布二胎宝宝已有30周",
-      "onboard_time": 1771076902,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 401926,
       "num": 1006825,
       "word": "马里宁自由滑重大失误",
@@ -324,14 +332,14 @@
     },
     {
       "raw_hot": 383244,
-      "num": 186780,
+      "num": 186921,
       "word": "从疲劳到癌症只有4步",
       "onboard_time": 1771076902,
       "rank": 22,
       "category": "健康医疗"
     },
     {
-      "raw_hot": 379682,
+      "raw_hot": 382957,
       "num": 379682,
       "word": "马年不宜婚嫁真的假的",
       "onboard_time": 1771076122,
@@ -771,6 +779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 232652,
+      "num": 186395,
+      "word": "千问口令",
+      "onboard_time": 1771077622,
+      "rank": 25,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 231534,
       "num": 168614,
       "word": "民警厕所打人受害人被打致小便失禁",
@@ -932,11 +948,19 @@
     },
     {
       "raw_hot": 195685,
-      "num": 156438,
+      "num": 186184,
       "word": "56岁阿姨长期情绪失控痛哭右眼失明",
       "onboard_time": 1771076181,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 188114,
+      "num": 188114,
+      "word": "杨丽萍和千问的马舞封神",
+      "onboard_time": 1771077682,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 187651,
@@ -945,6 +969,14 @@
       "onboard_time": 1771052780,
       "rank": 15,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 185044,
+      "num": 185044,
+      "word": "千问补发免单卡",
+      "onboard_time": 1771078882,
+      "rank": 36,
+      "category": "互联网"
     },
     {
       "raw_hot": 184663,
@@ -961,14 +993,6 @@
       "onboard_time": 1771037300,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 181605,
-      "num": 181605,
-      "word": "千问口令",
-      "onboard_time": 1771077622,
-      "rank": 25,
-      "category": "互联网"
     },
     {
       "raw_hot": 180044,
@@ -1051,20 +1075,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 168598,
+      "num": 168598,
+      "word": "杨博文高会",
+      "onboard_time": 1771079363,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 166360,
+      "num": 166360,
+      "word": "生命树多杰死因反转",
+      "onboard_time": 1771079244,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 166078,
       "num": 166078,
       "word": "2700克金条388元购入1121元出手",
       "onboard_time": 1771026077,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 166005,
-      "num": 166005,
-      "word": "杨丽萍和千问的马舞封神",
-      "onboard_time": 1771077682,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 162870,
@@ -1089,6 +1121,14 @@
       "onboard_time": 1771068622,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 159207,
+      "num": 159207,
+      "word": "情人节的朋友圈比春晚还热闹",
+      "onboard_time": 1771075943,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 158564,
@@ -1121,6 +1161,14 @@
       "onboard_time": 1771074923,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 156042,
+      "num": 156042,
+      "word": "黄金还能买吗",
+      "onboard_time": 1771080264,
+      "rank": 33,
+      "category": "财经"
     },
     {
       "raw_hot": 155609,
@@ -1163,6 +1211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 149909,
+      "num": 187283,
+      "word": "影视飓风Tim称将完整记录素人登珠峰",
+      "onboard_time": 1771077622,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 148932,
       "num": 130709,
       "word": "泰山 禁石令",
@@ -1195,6 +1251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 142700,
+      "num": 187234,
+      "word": "王毅就中日关系重申严正立场",
+      "onboard_time": 1771079062,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 142632,
       "num": 142632,
       "word": "月薪6000春节加班4天拿4400元",
@@ -1209,14 +1273,6 @@
       "onboard_time": 1771064480,
       "rank": 15,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 141612,
-      "num": 133955,
-      "word": "生命树多杰死因反转",
-      "onboard_time": 1771079244,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 139454,
@@ -1257,14 +1313,6 @@
       "onboard_time": 1770991762,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 136153,
-      "num": 136153,
-      "word": "影视飓风Tim称将完整记录素人登珠峰",
-      "onboard_time": 1771077622,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 136012,
@@ -1435,28 +1483,12 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 119883,
-      "num": 118048,
-      "word": "王毅就中日关系重申严正立场",
-      "onboard_time": 1771079062,
-      "rank": 32,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 117757,
       "num": 117757,
       "word": "6000万年终奖有人数走9万5",
       "onboard_time": 1771025298,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 117450,
-      "num": 117450,
-      "word": "情人节的朋友圈比春晚还热闹",
-      "onboard_time": 1771075943,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 117030,
@@ -1473,14 +1505,6 @@
       "onboard_time": 1771043539,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 115355,
-      "num": 115355,
-      "word": "千问补发免单卡",
-      "onboard_time": 1771078882,
-      "rank": 36,
-      "category": "互联网"
     },
     {
       "raw_hot": 115141,
@@ -1667,6 +1691,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 109840,
+      "num": 109840,
+      "word": "常吃这类食品增加幽门螺杆菌感染风险",
+      "onboard_time": 1771077144,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 109135,
       "num": 109135,
       "word": "乌运动员因头盔被取消冬奥资格",
@@ -1739,14 +1771,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 105494,
-      "num": 105494,
-      "word": "杨博文高会",
-      "onboard_time": 1771079363,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 105317,
       "num": 105317,
       "word": "张凌赫王楚然胶片",
@@ -1787,20 +1811,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 103860,
+      "num": 103860,
+      "word": "女子染发头皮溃烂过年只能光头",
+      "onboard_time": 1771078944,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103281,
       "num": 369507,
       "word": "北京WB严正声明",
       "onboard_time": 1771055060,
       "rank": 7,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 102777,
-      "num": 102777,
-      "word": "常吃这类食品增加幽门螺杆菌感染风险",
-      "onboard_time": 1771077144,
-      "rank": 44,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 102745,
@@ -1915,6 +1939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 95974,
+      "num": 95974,
+      "word": "小鹿妈妈说雪深到大腿",
+      "onboard_time": 1771080444,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 95896,
       "num": 95896,
       "word": "鹅鸭杀",
@@ -1963,8 +1995,16 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 93715,
+      "num": 93715,
+      "word": "难哄动画新设定公开",
+      "onboard_time": 1771079424,
+      "rank": 46,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 93252,
-      "num": 105159,
+      "num": 125543,
       "word": "多特情人节晒樊振东雪中漫步",
       "onboard_time": 1771077440,
       "rank": 43,
@@ -2027,6 +2067,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 89523,
+      "num": 168803,
+      "word": "米兰的风请对林孝埈温柔些",
+      "onboard_time": 1771079965,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 89343,
       "num": 89343,
       "word": "鞠婧祎糖亲",
@@ -2051,6 +2099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 88813,
+      "num": 88813,
+      "word": "宁艺卓 曼谷",
+      "onboard_time": 1771080803,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 88353,
       "num": 684043,
       "word": "年夜饭送到家搜索量暴增600%",
@@ -2065,14 +2121,6 @@
       "onboard_time": 1771061899,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 87719,
-      "num": 87719,
-      "word": "女子染发头皮溃烂过年只能光头",
-      "onboard_time": 1771078944,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 87716,
@@ -2323,6 +2371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 75905,
+      "num": 120453,
+      "word": "情人节发现男朋友联系高中女同学",
+      "onboard_time": 1771079484,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 75505,
       "num": 75505,
       "word": "莫雷加德把樊振东逗笑了",
@@ -2417,6 +2473,14 @@
       "onboard_time": 1771060401,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 71723,
+      "num": 118064,
+      "word": "你好星期六下期大侦探来团建",
+      "onboard_time": 1771080143,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 71624,
@@ -2739,6 +2803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 51865,
+      "num": 169404,
+      "word": "听刘宇唱马上来财领到千问红包",
+      "onboard_time": 1771079844,
+      "rank": 28,
+      "category": "音乐,互联网"
+    },
+    {
       "raw_hot": 51140,
       "num": 51140,
       "word": "金博洋第17",
@@ -2899,6 +2971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 38336,
+      "num": 208984,
+      "word": "王毅说中国人不接受高市错误言论",
+      "onboard_time": 1771079844,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 38127,
       "num": 38127,
       "word": "丞磊第20集6分47秒",
@@ -2987,20 +3067,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 28500,
+      "raw_hot": 29656,
       "num": 686410,
       "word": "一杯热水暖了几十年归途",
       "onboard_time": 1771076302,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 27252,
-      "num": 107538,
-      "word": "情人节发现男朋友联系高中女同学",
-      "onboard_time": 1771079484,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 26634,
