@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1771038871696,
+  "endTime": 1771044499405,
   "band_list": [
     {
       "raw_hot": 22742360,
@@ -1347,6 +1347,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1526254,
+      "num": 160273,
+      "word": "宋轶好刚",
+      "onboard_time": 1771027460,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1522691,
       "num": 373486,
       "word": "宋威龙赵今麦完全是婚礼现场",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1767264681,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1123563,
-      "num": 213850,
-      "word": "邓超忘给孙俪准备16年纪念日的礼物",
-      "onboard_time": 1770533000,
-      "rank": 11,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [

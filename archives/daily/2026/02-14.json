@@ -1,6 +1,6 @@
 {
   "startTime": 1770998880163,
-  "endTime": 1771038871696,
+  "endTime": 1771044499405,
   "band_list": [
     {
       "raw_hot": 4412806,
@@ -11,8 +11,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1526254,
+      "num": 160273,
+      "word": "宋轶好刚",
+      "onboard_time": 1771027460,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 963183,
-      "num": 683056,
+      "num": 784457,
       "word": "情人节",
       "onboard_time": 1770996381,
       "rank": 3,
@@ -83,12 +91,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 536945,
-      "num": 160273,
-      "word": "宋轶好刚",
-      "onboard_time": 1771027460,
-      "rank": 25,
-      "category": "艺人"
+      "raw_hot": 511860,
+      "num": 164647,
+      "word": "中戏 主动投案",
+      "onboard_time": 1771040660,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 445041,
@@ -153,6 +161,14 @@
       "onboard_time": 1771028359,
       "rank": 5,
       "category": "情感"
+    },
+    {
+      "raw_hot": 343294,
+      "num": 343294,
+      "word": "游客已在胖东来买到搬不动了",
+      "onboard_time": 1771039940,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 323600,
@@ -235,11 +251,43 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 265085,
+      "num": 131218,
+      "word": "为什么微信红包最多只能200元",
+      "onboard_time": 1771040600,
+      "rank": 22,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 252426,
       "num": 252426,
       "word": "这一秒过火",
       "onboard_time": 1771035020,
       "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 248409,
+      "num": 139072,
+      "word": "亲爱的客栈定档",
+      "onboard_time": 1771038380,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 238706,
+      "num": 160434,
+      "word": "王鹤棣NBA全明星总得分30分",
+      "onboard_time": 1771041441,
+      "rank": 11,
+      "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 235338,
+      "num": 151644,
+      "word": "野狗骨头",
+      "onboard_time": 1771038920,
+      "rank": 12,
       "category": "剧集"
     },
     {
@@ -281,6 +329,22 @@
       "onboard_time": 1771028960,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 219677,
+      "num": 219677,
+      "word": "离婚后45岁的她去冰岛当公务员",
+      "onboard_time": 1771039820,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 212856,
+      "num": 212856,
+      "word": "日本释放被扣押中国渔船船长",
+      "onboard_time": 1771038920,
+      "rank": 7,
+      "category": "国际时政"
     },
     {
       "raw_hot": 203288,
@@ -344,6 +408,14 @@
       "word": "檀健次卢昱晓捧杯海报",
       "onboard_time": 1771037660,
       "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 179963,
+      "num": 179963,
+      "word": "天才女友田曦薇胡一天捏脸贴贴",
+      "onboard_time": 1771040179,
+      "rank": 8,
       "category": "剧集"
     },
     {
@@ -435,12 +507,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 142832,
-      "num": 139072,
-      "word": "亲爱的客栈定档",
-      "onboard_time": 1771038380,
-      "rank": 28,
-      "category": "综艺"
+      "raw_hot": 145033,
+      "num": 145033,
+      "word": "产检正常生出畸形儿医院被罚2.5万",
+      "onboard_time": 1771044200,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 142632,
@@ -475,11 +547,35 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 134730,
+      "num": 134730,
+      "word": "中国男子巴厘岛溺亡同伴连滚带爬求救",
+      "onboard_time": 1771043300,
+      "rank": 15,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 130935,
+      "num": 172805,
+      "word": "刘少昂孙龙林孝埈1500米冲金",
+      "onboard_time": 1771041380,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130726,
       "num": 130726,
       "word": "何不同舟渡",
       "onboard_time": 1771036881,
       "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 130563,
+      "num": 130563,
+      "word": "岳云鹏蔡文静亲密戏",
+      "onboard_time": 1771044260,
+      "rank": 24,
       "category": "剧集"
     },
     {
@@ -507,6 +603,14 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 121163,
+      "num": 121163,
+      "word": "没有撤回微信红包的需求",
+      "onboard_time": 1771042280,
+      "rank": 25,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 121002,
       "num": 135102,
       "word": "湖北精神病医院有关问题调查结果",
@@ -529,6 +633,14 @@
       "onboard_time": 1771032501,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 114336,
+      "num": 114336,
+      "word": "Seedance2.0被评价为全球最强",
+      "onboard_time": 1771042701,
+      "rank": 28,
+      "category": "互联网"
     },
     {
       "raw_hot": 114126,
@@ -561,6 +673,14 @@
       "onboard_time": 1771035860,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 113194,
+      "num": 113194,
+      "word": "美媒坐实斩杀线",
+      "onboard_time": 1771039940,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 113129,
@@ -603,6 +723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 109879,
+      "num": 109879,
+      "word": "张萌说浪姐收手机是因为黄圣依",
+      "onboard_time": 1771044140,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 109135,
       "num": 109135,
       "word": "乌运动员因头盔被取消冬奥资格",
@@ -643,6 +771,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 105317,
+      "num": 105317,
+      "word": "张凌赫王楚然胶片",
+      "onboard_time": 1771042701,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 104972,
       "num": 104972,
       "word": "杨瀚森10分2板",
@@ -657,6 +793,14 @@
       "onboard_time": 1770990861,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 102972,
+      "num": 110922,
+      "word": "男子打牌被亲戚作弊骗走175万",
+      "onboard_time": 1771043539,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 102745,
@@ -707,12 +851,52 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 99333,
+      "num": 97198,
+      "word": "王鹤棣G社出图",
+      "onboard_time": 1771041800,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 98080,
+      "num": 98080,
+      "word": "日本放人",
+      "onboard_time": 1771042400,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 95179,
+      "num": 95179,
+      "word": "宋威龙张婧仪揽腰共舞",
+      "onboard_time": 1771044082,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 92826,
       "num": 92826,
       "word": "保罗正式宣布退役",
       "onboard_time": 1771022775,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 91401,
+      "num": 91401,
+      "word": "马里宁回应自由滑失误",
+      "onboard_time": 1771043900,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 90802,
+      "num": 90802,
+      "word": "年夜饭中的C位菜到底该是谁",
+      "onboard_time": 1771042460,
+      "rank": 40,
+      "category": "美食"
     },
     {
       "raw_hot": 89056,
@@ -763,6 +947,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 85181,
+      "num": 85181,
+      "word": "这就是我赚钱的意义",
+      "onboard_time": 1771043241,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 83847,
       "num": 83847,
       "word": "懒懒自曝78斤",
@@ -809,6 +1001,30 @@
       "onboard_time": 1770993083,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76910,
+      "num": 76910,
+      "word": "雀骨",
+      "onboard_time": 1771044440,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 76308,
+      "num": 76308,
+      "word": "高亭宇男子速滑500米冲金",
+      "onboard_time": 1771044380,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 75505,
+      "num": 75505,
+      "word": "莫雷加德把樊振东逗笑了",
+      "onboard_time": 1771042820,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 75140,
@@ -931,6 +1147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 56313,
+      "num": 133351,
+      "word": "200名车友为爱发车跨城接亲",
+      "onboard_time": 1771043781,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55515,
       "num": 55515,
       "word": "花滑",
@@ -971,6 +1195,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 47976,
+      "num": 137506,
+      "word": "千问集卡大军回村了",
+      "onboard_time": 1771041619,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 47023,
       "num": 118747,
       "word": "宜昌一精神病院患者自杀情况属实",
@@ -1000,6 +1232,14 @@
       "word": "北京一老楼换新居只用了46天",
       "onboard_time": 1771035920,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 38985,
+      "num": 622081,
+      "word": "看电影的快乐正全面升级",
+      "onboard_time": 1771040779,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -1065,6 +1305,14 @@
       "onboard_time": 1771000579,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 30003,
+      "num": 132717,
+      "word": "新年和荣耀500一起舞摆一起Live",
+      "onboard_time": 1771043600,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 26634,
@@ -1182,6 +1430,9 @@
   "hotgov_list": [
     {
       "word": "#跟着总书记感受年味儿#"
+    },
+    {
+      "word": "#心系万家的人民情怀#"
     }
   ]
 }
