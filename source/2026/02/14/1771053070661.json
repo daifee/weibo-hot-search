@@ -1,0 +1,410 @@
+{
+  "runTime": 1771053070661,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 363489,
+        "num": 1058158,
+        "word": "百果园回应一根甘蔗卖87元",
+        "onboard_time": 1771047199,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 231940,
+        "num": 775274,
+        "word": "情人节",
+        "onboard_time": 1770996381,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27131,
+        "num": 606512,
+        "word": "看电影的快乐正全面升级",
+        "onboard_time": 1771040779,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 609481,
+        "num": 539824,
+        "word": "红包",
+        "onboard_time": 1771050141,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 234257,
+        "num": 234257,
+        "word": "黄子韬借综艺扇了徐艺洋",
+        "onboard_time": 1771051039,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247141,
+        "num": 221341,
+        "word": "产检正常生出畸形儿医院被罚2.5万",
+        "onboard_time": 1771044200,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205545,
+        "num": 205545,
+        "word": "生命树豆瓣开分8.1",
+        "onboard_time": 1771052121,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180297,
+        "num": 180297,
+        "word": "情人节朋友圈",
+        "onboard_time": 1771046541,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 167760,
+        "num": 167760,
+        "word": "微信回应红包手气最佳攻略",
+        "onboard_time": 1771049241,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 55102,
+        "num": 167518,
+        "word": "刘少昂孙龙林孝埈1500米冲金",
+        "onboard_time": 1771041380,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 405287,
+        "num": 166971,
+        "word": "张萌说浪姐收手机是因为黄圣依",
+        "onboard_time": 1771044140,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214259,
+        "num": 166548,
+        "word": "黄轩回村了",
+        "onboard_time": 1771050982,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193107,
+        "num": 166412,
+        "word": "成都天府大道事故酒驾司机全责",
+        "onboard_time": 1771045580,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166088,
+        "num": 166088,
+        "word": "奶奶笑了半天才开始充电",
+        "onboard_time": 1771048880,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 37423,
+        "num": 160657,
+        "word": "春节氛围头像",
+        "onboard_time": 1771052419,
+        "rank": 14,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 192380,
+        "num": 159280,
+        "word": "马龙滑雪乌龟都摔懵了",
+        "onboard_time": 1771049179,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155865,
+        "num": 155865,
+        "word": "Jennie高智感妈咪",
+        "onboard_time": 1771048700,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 141873,
+        "num": 141873,
+        "word": "中戏 主动投案",
+        "onboard_time": 1771040660,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132581,
+        "num": 132581,
+        "word": "成何体统圆房镜头要钓我几天",
+        "onboard_time": 1771045880,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40862,
+        "num": 132465,
+        "word": "过年小聚怎么轻松怎么来",
+        "onboard_time": 1771052719,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 633722,
+        "num": 131598,
+        "word": "陈妍希和儿子分开过年",
+        "onboard_time": 1771049420,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 417572,
+        "num": 131482,
+        "word": "宋轶无名指戴了戒指",
+        "onboard_time": 1771044559,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16298,
+        "num": 130930,
+        "word": "中国AI迭代快过美国抹黑速度",
+        "onboard_time": 1771052780,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 283341,
+        "num": 130410,
+        "word": "王艺瑾回应整容争议",
+        "onboard_time": 1771047501,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127269,
+        "num": 129989,
+        "word": "岳云鹏蔡文静亲密戏",
+        "onboard_time": 1771044260,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171464,
+        "num": 129308,
+        "word": "56岁阿姨离婚后10年游43国",
+        "onboard_time": 1771050319,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129004,
+        "num": 129004,
+        "word": "杨幂挑了个最老实的马嘉祺",
+        "onboard_time": 1771049959,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113553,
+        "num": 113553,
+        "word": "羽生结弦的含金量还在上升",
+        "onboard_time": 1771030099,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112646,
+        "num": 112646,
+        "word": "福建一彩民15元中奖6022万",
+        "onboard_time": 1771051519,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106912,
+        "num": 106912,
+        "word": "金虔佑 霸凌工作人员",
+        "onboard_time": 1771047921,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105949,
+        "num": 105949,
+        "word": "黄大宪一直盯着看林孝埈",
+        "onboard_time": 1771045280,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99940,
+        "num": 99940,
+        "word": "当小姨回家过年时",
+        "onboard_time": 1771050020,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 98879,
+        "num": 98879,
+        "word": "爱泼斯坦案中多国未成年人被诱拐",
+        "onboard_time": 1771048401,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 98182,
+        "num": 98182,
+        "word": "侯明昊艾米搂腰共舞",
+        "onboard_time": 1771052121,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 97470,
+        "num": 97470,
+        "word": "为什么微信红包最多只能200元",
+        "onboard_time": 1771040600,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 93115,
+        "num": 93115,
+        "word": "白鹿 剧宣的神",
+        "onboard_time": 1771031000,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 644806,
+        "num": 92037,
+        "word": "宋轶好刚",
+        "onboard_time": 1771027460,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88121,
+        "num": 88121,
+        "word": "中国男子巴厘岛溺亡同伴连滚带爬求救",
+        "onboard_time": 1771043300,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 92386,
+        "num": 87656,
+        "word": "陈妍希周柯宇芭莎",
+        "onboard_time": 1771049241,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 11878,
+        "num": 86573,
+        "word": "3988一桌婚宴菜冷肉硬被吐槽",
+        "onboard_time": 1771052419,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86258,
+        "num": 86258,
+        "word": "王鹤棣NBA全明星总得分30分",
+        "onboard_time": 1771041441,
+        "rank": 40,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 78931,
+        "num": 78931,
+        "word": "美甲师最无助的时候",
+        "onboard_time": 1771052480,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 75313,
+        "num": 75313,
+        "word": "游客已在胖东来买到搬不动了",
+        "onboard_time": 1771039940,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37257,
+        "num": 74979,
+        "word": "成龙回应近些年微博都是悼念",
+        "onboard_time": 1771051819,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 74796,
+        "num": 74796,
+        "word": "情人节金莎想要金莎得到",
+        "onboard_time": 1771046780,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70113,
+        "num": 70113,
+        "word": "得知22岁儿子巴厘岛溺亡母亲哭晕",
+        "onboard_time": 1771037120,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72427,
+        "num": 70100,
+        "word": "卫视春晚节目单",
+        "onboard_time": 1771048401,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 69415,
+        "num": 69415,
+        "word": "当我回村把大侦探当八卦讲",
+        "onboard_time": 1771053021,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 69148,
+        "num": 69148,
+        "word": "中戏 招生",
+        "onboard_time": 1771046000,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67237,
+        "num": 67237,
+        "word": "鞠婧祎张云龙烟花点燃大橘大利",
+        "onboard_time": 1771047441,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#心系万家的人民情怀#"
+    }
+  }
+}
