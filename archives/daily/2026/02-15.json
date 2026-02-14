@@ -1,6 +1,6 @@
 {
   "startTime": 1771087248939,
-  "endTime": 1771109475996,
+  "endTime": 1771112029274,
   "band_list": [
     {
       "raw_hot": 1113157,
@@ -35,6 +35,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 656302,
+      "num": 892664,
+      "word": "英国选手撞倒孙龙刘少昂",
+      "onboard_time": 1771107074,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 584377,
       "num": 584377,
       "word": "短道速滑",
@@ -49,14 +57,6 @@
       "onboard_time": 1771073901,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 555968,
-      "num": 590691,
-      "word": "英国选手撞倒孙龙刘少昂",
-      "onboard_time": 1771107074,
-      "rank": 0,
-      "category": "体育"
     },
     {
       "raw_hot": 404338,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 309997,
-      "num": 426100,
+      "num": 652802,
       "word": "林孝埈1500米摔倒",
       "onboard_time": 1771098015,
       "rank": 5,
@@ -163,12 +163,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 192293,
+      "num": 192293,
+      "word": "孙龙膝盖流血",
+      "onboard_time": 1771110136,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 174904,
       "num": 174904,
       "word": "谷爱凌第一跳86.00分",
       "onboard_time": 1771095796,
       "rank": 3,
       "category": "民生新闻,体育"
+    },
+    {
+      "raw_hot": 174067,
+      "num": 174067,
+      "word": "王毅警告日本现场爆发热烈掌声",
+      "onboard_time": 1771111338,
+      "rank": 4,
+      "category": "国内时政"
     },
     {
       "raw_hot": 164217,
@@ -179,12 +195,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 162988,
+      "num": 117268,
+      "word": "黄子弘凡爸爸是国家一级演员",
+      "onboard_time": 1771111457,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 159798,
       "num": 108485,
       "word": "从疲劳到癌症只有4步",
       "onboard_time": 1771076902,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 157475,
+      "num": 157475,
+      "word": "王一博2026年央视总台春晚",
+      "onboard_time": 1771110737,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 157048,
@@ -219,6 +251,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 143848,
+      "num": 114200,
+      "word": "霍启刚三兄弟飞米兰为父庆生",
+      "onboard_time": 1771090457,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 142362,
+      "num": 112046,
+      "word": "黄子韬回应扇了徐艺洋",
+      "onboard_time": 1771066223,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 141709,
       "num": 141709,
       "word": "红包分组",
@@ -241,14 +289,6 @@
       "onboard_time": 1771076902,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 128262,
-      "num": 87227,
-      "word": "黄子韬回应扇了徐艺洋",
-      "onboard_time": 1771066223,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 126464,
@@ -291,6 +331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 104559,
+      "num": 108241,
+      "word": "56岁阿姨长期情绪失控痛哭右眼失明",
+      "onboard_time": 1771076181,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100370,
       "num": 100370,
       "word": "CORTIS新单YCC引发热议",
@@ -305,22 +353,6 @@
       "onboard_time": 1771079484,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 96193,
-      "num": 59897,
-      "word": "霍启刚三兄弟飞米兰为父庆生",
-      "onboard_time": 1771090457,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 92139,
-      "num": 108241,
-      "word": "56岁阿姨长期情绪失控痛哭右眼失明",
-      "onboard_time": 1771076181,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 90493,
@@ -353,6 +385,14 @@
       "onboard_time": 1771076902,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 78547,
+      "num": 78547,
+      "word": "王菲春晚后台路透",
+      "onboard_time": 1771111338,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 77507,
@@ -499,6 +539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 53237,
+      "num": 53237,
+      "word": "白百何孩子五岁了",
+      "onboard_time": 1771072401,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 53125,
       "num": 67935,
       "word": "中国2银2铜暂列冬奥奖牌榜第18",
@@ -531,8 +579,16 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 42692,
-      "num": 42692,
+      "raw_hot": 48023,
+      "num": 48023,
+      "word": "孙龙受伤",
+      "onboard_time": 1771109475,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 44637,
+      "num": 44637,
       "word": "中国队无缘女子3000米接力决赛",
       "onboard_time": 1771107134,
       "rank": 16,
@@ -547,12 +603,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 37295,
+      "num": 41799,
+      "word": "王者荣耀",
+      "onboard_time": 1771111035,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 36590,
       "num": 62776,
       "word": "斯托尔兹再破500米奥运纪录",
       "onboard_time": 1771088718,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 33233,
+      "num": 41793,
+      "word": "为什么朋友圈没人秀恩爱了",
+      "onboard_time": 1771111756,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 32271,
+      "num": 41789,
+      "word": "李健总台马年春晚首发单曲公布",
+      "onboard_time": 1771111097,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 31932,
@@ -579,6 +659,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 28244,
+      "num": 41779,
+      "word": "陈丽君花木兰又美又飒",
+      "onboard_time": 1771097414,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 28180,
+      "num": 41778,
+      "word": "冬奥会赛程",
+      "onboard_time": 1771111397,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 27143,
       "num": 27143,
       "word": "谷爱凌第三跳84.75分",
@@ -595,16 +691,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 19506,
-      "num": 22688,
-      "word": "陈丽君花木兰又美又飒",
-      "onboard_time": 1771097414,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 19386,
-      "num": 455752,
+      "num": 513941,
       "word": "一杯热水暖了几十年归途",
       "onboard_time": 1771076302,
       "rank": 2,
