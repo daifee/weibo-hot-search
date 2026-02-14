@@ -1,6 +1,6 @@
 {
   "startTime": 1770998880163,
-  "endTime": 1771055722780,
+  "endTime": 1771058552692,
   "band_list": [
     {
       "raw_hot": 4412806,
@@ -67,8 +67,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 690748,
-      "num": 539824,
+      "raw_hot": 708182,
+      "num": 1113309,
       "word": "红包",
       "onboard_time": 1771050141,
       "rank": 10,
@@ -97,6 +97,14 @@
       "onboard_time": 1771024277,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 618447,
+      "num": 149065,
+      "word": "突然发现朋友圈没人晒花了",
+      "onboard_time": 1771055719,
+      "rank": 5,
+      "category": "情感"
     },
     {
       "raw_hot": 602905,
@@ -147,6 +155,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 420595,
+      "num": 384045,
+      "word": "黄子韬借综艺扇了徐艺洋",
+      "onboard_time": 1771051039,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 419038,
       "num": 179281,
       "word": "中国男子巴厘岛溺亡同伴连滚带爬求救",
@@ -169,14 +185,6 @@
       "onboard_time": 1771036279,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 384045,
-      "num": 384045,
-      "word": "黄子韬借综艺扇了徐艺洋",
-      "onboard_time": 1771051039,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 378632,
@@ -217,6 +225,14 @@
       "onboard_time": 1771049241,
       "rank": 33,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 354702,
+      "num": 298702,
+      "word": "暖阳发文",
+      "onboard_time": 1771053799,
+      "rank": 10,
+      "category": "电竞"
     },
     {
       "raw_hot": 352862,
@@ -283,6 +299,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 317123,
+      "num": 234698,
+      "word": "网友偶遇了易烊千玺",
+      "onboard_time": 1771054340,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 313302,
       "num": 313302,
       "word": "人民大会堂偶遇易烊千玺",
@@ -297,14 +321,6 @@
       "onboard_time": 1771045880,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 298702,
-      "num": 298702,
-      "word": "暖阳发文",
-      "onboard_time": 1771053799,
-      "rank": 10,
-      "category": "电竞"
     },
     {
       "raw_hot": 295252,
@@ -449,14 +465,6 @@
       "onboard_time": 1771038920,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 234698,
-      "num": 234698,
-      "word": "网友偶遇了易烊千玺",
-      "onboard_time": 1771054340,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 233469,
@@ -755,6 +763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 144496,
+      "num": 144496,
+      "word": "檀健次卢昱晓剧宣",
+      "onboard_time": 1771057460,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142632,
       "num": 142632,
       "word": "月薪6000春节加班4天拿4400元",
@@ -841,6 +857,14 @@
       "onboard_time": 1771042280,
       "rank": 25,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 126115,
+      "num": 126115,
+      "word": "75岁老人祭祖烧纸引发大火获刑",
+      "onboard_time": 1771055660,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 125968,
@@ -979,6 +1003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 112032,
+      "num": 112032,
+      "word": "吃席偶遇丁程鑫",
+      "onboard_time": 1771058060,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 110814,
       "num": 133478,
       "word": "孙龙林孝埈刘少昂出战1500米",
@@ -993,6 +1025,14 @@
       "onboard_time": 1771038080,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 110418,
+      "num": 110418,
+      "word": "金靖 你为什么要来衡量我",
+      "onboard_time": 1771058000,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 110273,
@@ -1235,6 +1275,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 89629,
+      "num": 89629,
+      "word": "求婚是件很私密的事",
+      "onboard_time": 1771056800,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 89056,
       "num": 89056,
       "word": "22岁中国男子在巴厘岛溺亡",
@@ -1297,6 +1345,14 @@
       "onboard_time": 1771043241,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 84231,
+      "num": 190967,
+      "word": "保姆辞职前偷卖雇主24万黄金",
+      "onboard_time": 1771055179,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 83847,
@@ -1411,6 +1467,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 76129,
+      "num": 113423,
+      "word": "羽生结弦索契冬奥会夺金12周年",
+      "onboard_time": 1771057941,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 76125,
+      "num": 110464,
+      "word": "男子12万买矮马日租金3000",
+      "onboard_time": 1771056380,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75505,
       "num": 75505,
       "word": "莫雷加德把樊振东逗笑了",
@@ -1441,6 +1513,14 @@
       "onboard_time": 1771025478,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 74270,
+      "num": 74270,
+      "word": "丞磊 谁是我的情人",
+      "onboard_time": 1771055360,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 74250,
@@ -1475,6 +1555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 71305,
+      "num": 71305,
+      "word": "熊大熊二回应资源分配不均",
+      "onboard_time": 1771056200,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 70941,
       "num": 70941,
       "word": "小狗来大姨妈以为得了不治之症",
@@ -1489,6 +1577,14 @@
       "onboard_time": 1771053021,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 69908,
+      "num": 71534,
+      "word": "12万买矮马租给游乐场40天回本",
+      "onboard_time": 1771057760,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 69906,
@@ -1547,6 +1643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 67176,
+      "num": 118177,
+      "word": "刘亦菲LVMonogram大片",
+      "onboard_time": 1771056260,
+      "rank": 18,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 66136,
       "num": 177316,
       "word": "台湾艺人在郑州做主播称有奔头儿",
@@ -1593,6 +1697,30 @@
       "onboard_time": 1771049060,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 62414,
+      "num": 62414,
+      "word": "回村见同龄人会尴尬",
+      "onboard_time": 1771058241,
+      "rank": 42,
+      "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 60095,
+      "num": 60095,
+      "word": "一坨小猫很卖力地在吃饭",
+      "onboard_time": 1771057700,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 59633,
+      "num": 59633,
+      "word": "情人节没有收到花的不要难过了",
+      "onboard_time": 1771057700,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 59383,
@@ -1732,7 +1860,7 @@
     },
     {
       "raw_hot": 38985,
-      "num": 645638,
+      "num": 666575,
       "word": "看电影的快乐正全面升级",
       "onboard_time": 1771040779,
       "rank": 2,
@@ -1777,14 +1905,6 @@
       "onboard_time": 1771051819,
       "rank": 39,
       "category": "电影"
-    },
-    {
-      "raw_hot": 37257,
-      "num": 190967,
-      "word": "保姆辞职前偷卖雇主24万黄金",
-      "onboard_time": 1771055179,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 37005,
@@ -1849,14 +1969,6 @@
       "onboard_time": 1771045280,
       "rank": 14,
       "category": "美食"
-    },
-    {
-      "raw_hot": 26131,
-      "num": 120669,
-      "word": "75岁老人祭祖烧纸引发大火获刑",
-      "onboard_time": 1771055660,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 25700,

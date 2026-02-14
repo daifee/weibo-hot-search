@@ -1,6 +1,6 @@
 {
   "startTime": 1770482461321,
-  "endTime": 1771055722780,
+  "endTime": 1771058552692,
   "band_list": [
     {
       "raw_hot": 8690838,
@@ -827,6 +827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 708182,
+      "num": 1113309,
+      "word": "红包",
+      "onboard_time": 1771050141,
+      "rank": 10,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 707827,
       "num": 279748,
       "word": "朋友圈跳赞",
@@ -889,14 +897,6 @@
       "onboard_time": 1770603799,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 690748,
-      "num": 539824,
-      "word": "红包",
-      "onboard_time": 1771050141,
-      "rank": 10,
-      "category": "互联网"
     },
     {
       "raw_hot": 688759,
@@ -1113,6 +1113,14 @@
       "onboard_time": 1770539480,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 618447,
+      "num": 149065,
+      "word": "突然发现朋友圈没人晒花了",
+      "onboard_time": 1771055719,
+      "rank": 5,
+      "category": "情感"
     },
     {
       "raw_hot": 615323,
@@ -2187,6 +2195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 420595,
+      "num": 384045,
+      "word": "黄子韬借综艺扇了徐艺洋",
+      "onboard_time": 1771051039,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 419882,
       "num": 765736,
       "word": "时代峰峻只包1场",
@@ -2619,14 +2635,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 384045,
-      "num": 384045,
-      "word": "黄子韬借综艺扇了徐艺洋",
-      "onboard_time": 1771051039,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 383870,
       "num": 383870,
       "word": "王者荣耀农家乐村晚",
@@ -2977,6 +2985,14 @@
       "onboard_time": 1770629302,
       "rank": 3,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 354702,
+      "num": 298702,
+      "word": "暖阳发文",
+      "onboard_time": 1771053799,
+      "rank": 10,
+      "category": "电竞"
     },
     {
       "raw_hot": 354596,
@@ -3451,6 +3467,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 317123,
+      "num": 234698,
+      "word": "网友偶遇了易烊千玺",
+      "onboard_time": 1771054340,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 316871,
       "num": 316871,
       "word": "AI短剧",
@@ -3761,14 +3785,6 @@
       "onboard_time": 1770805339,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 298702,
-      "num": 298702,
-      "word": "暖阳发文",
-      "onboard_time": 1771053799,
-      "rank": 10,
-      "category": "电竞"
     },
     {
       "raw_hot": 298549,
@@ -5017,14 +5033,6 @@
       "onboard_time": 1770492135,
       "rank": 4,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 234698,
-      "num": 234698,
-      "word": "网友偶遇了易烊千玺",
-      "onboard_time": 1771054340,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 234494,
@@ -7739,6 +7747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144496,
+      "num": 144496,
+      "word": "檀健次卢昱晓剧宣",
+      "onboard_time": 1771057460,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 144288,
       "num": 144288,
       "word": "Seedance2.0模型",
@@ -8785,6 +8801,14 @@
       "onboard_time": 1770988282,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 126115,
+      "num": 126115,
+      "word": "75岁老人祭祖烧纸引发大火获刑",
+      "onboard_time": 1771055660,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 125738,
@@ -9899,6 +9923,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 112032,
+      "num": 112032,
+      "word": "吃席偶遇丁程鑫",
+      "onboard_time": 1771058060,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 111995,
       "num": 111995,
       "word": "女子摔碎2400元茅台丈夫淡定安抚",
@@ -10033,6 +10065,14 @@
       "onboard_time": 1770777620,
       "rank": 36,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 110418,
+      "num": 110418,
+      "word": "金靖 你为什么要来衡量我",
+      "onboard_time": 1771058000,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 110273,
@@ -12667,6 +12707,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 89629,
+      "num": 89629,
+      "word": "求婚是件很私密的事",
+      "onboard_time": 1771056800,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 89588,
       "num": 108647,
       "word": "在成龙眼里再大也是小孩",
@@ -13473,6 +13521,14 @@
       "onboard_time": 1770606738,
       "rank": 37,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 84231,
+      "num": 190967,
+      "word": "保姆辞职前偷卖雇主24万黄金",
+      "onboard_time": 1771055179,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 84204,
@@ -14731,6 +14787,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 76129,
+      "num": 113423,
+      "word": "羽生结弦索契冬奥会夺金12周年",
+      "onboard_time": 1771057941,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 76125,
+      "num": 110464,
+      "word": "男子12万买矮马日租金3000",
+      "onboard_time": 1771056380,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 76062,
       "num": 93444,
       "word": "唐九洲说也是喝上了AI点的奶茶",
@@ -14969,6 +15041,14 @@
       "onboard_time": 1770517580,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 74270,
+      "num": 74270,
+      "word": "丞磊 谁是我的情人",
+      "onboard_time": 1771055360,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 74056,
@@ -15275,6 +15355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 71305,
+      "num": 71305,
+      "word": "熊大熊二回应资源分配不均",
+      "onboard_time": 1771056200,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 71239,
       "num": 71239,
       "word": "这届年轻人买黄金心态就是稳",
@@ -15393,6 +15481,14 @@
       "onboard_time": 1770535400,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 69908,
+      "num": 71534,
+      "word": "12万买矮马租给游乐场40天回本",
+      "onboard_time": 1771057760,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 69719,
@@ -15641,6 +15737,14 @@
       "onboard_time": 1770603622,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 67176,
+      "num": 118177,
+      "word": "刘亦菲LVMonogram大片",
+      "onboard_time": 1771056260,
+      "rank": 18,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 67130,
@@ -16027,6 +16131,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 62414,
+      "num": 62414,
+      "word": "回村见同龄人会尴尬",
+      "onboard_time": 1771058241,
+      "rank": 42,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 62177,
       "num": 146082,
       "word": "我是大彬同学被判赔鸿蒙智行150万",
@@ -16179,6 +16291,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 60095,
+      "num": 60095,
+      "word": "一坨小猫很卖力地在吃饭",
+      "onboard_time": 1771057700,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 60016,
       "num": 91691,
       "word": "两外国人从海南打车到哈尔滨",
@@ -16217,6 +16337,14 @@
       "onboard_time": 1770910641,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 59633,
+      "num": 59633,
+      "word": "情人节没有收到花的不要难过了",
+      "onboard_time": 1771057700,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 59478,
@@ -17788,7 +17916,7 @@
     },
     {
       "raw_hot": 38985,
-      "num": 645638,
+      "num": 666575,
       "word": "看电影的快乐正全面升级",
       "onboard_time": 1771040779,
       "rank": 2,
@@ -17897,14 +18025,6 @@
       "onboard_time": 1771051819,
       "rank": 39,
       "category": "电影"
-    },
-    {
-      "raw_hot": 37257,
-      "num": 190967,
-      "word": "保姆辞职前偷卖雇主24万黄金",
-      "onboard_time": 1771055179,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 37122,
@@ -18865,14 +18985,6 @@
       "onboard_time": 1770976880,
       "rank": 14,
       "category": "情感"
-    },
-    {
-      "raw_hot": 26131,
-      "num": 120669,
-      "word": "75岁老人祭祖烧纸引发大火获刑",
-      "onboard_time": 1771055660,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 26117,
