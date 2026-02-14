@@ -1,0 +1,410 @@
+{
+  "runTime": 1771052240728,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 271647,
+        "num": 1043463,
+        "word": "百果园回应一根甘蔗卖87元",
+        "onboard_time": 1771047199,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213019,
+        "num": 772152,
+        "word": "情人节",
+        "onboard_time": 1770996381,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28162,
+        "num": 618709,
+        "word": "看电影的快乐正全面升级",
+        "onboard_time": 1771040779,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164756,
+        "num": 350593,
+        "word": "生命树豆瓣开分8.1",
+        "onboard_time": 1771052121,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 272130,
+        "num": 272130,
+        "word": "产检正常生出畸形儿医院被罚2.5万",
+        "onboard_time": 1771044200,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 262957,
+        "num": 262957,
+        "word": "情人节朋友圈",
+        "onboard_time": 1771046541,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 209317,
+        "num": 209317,
+        "word": "成都天府大道事故酒驾司机全责",
+        "onboard_time": 1771045580,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164470,
+        "num": 194777,
+        "word": "黄子韬借综艺扇了徐艺洋",
+        "onboard_time": 1771051039,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184663,
+        "num": 184663,
+        "word": "奶奶笑了半天才开始充电",
+        "onboard_time": 1771048880,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 109474,
+        "num": 183857,
+        "word": "羽生结弦的含金量还在上升",
+        "onboard_time": 1771030099,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 690748,
+        "num": 182477,
+        "word": "红包",
+        "onboard_time": 1771050141,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 395477,
+        "num": 180452,
+        "word": "张萌说浪姐收手机是因为黄圣依",
+        "onboard_time": 1771044140,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233469,
+        "num": 178572,
+        "word": "马龙滑雪乌龟都摔懵了",
+        "onboard_time": 1771049179,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178550,
+        "num": 178550,
+        "word": "黄轩回村了",
+        "onboard_time": 1771050982,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176232,
+        "num": 176232,
+        "word": "中戏 主动投案",
+        "onboard_time": 1771040660,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174699,
+        "num": 174699,
+        "word": "成何体统圆房镜头要钓我几天",
+        "onboard_time": 1771045880,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124811,
+        "num": 166186,
+        "word": "当小姨回家过年时",
+        "onboard_time": 1771050020,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158511,
+        "num": 158511,
+        "word": "Jennie高智感妈咪",
+        "onboard_time": 1771048700,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 152730,
+        "num": 152730,
+        "word": "岳云鹏蔡文静亲密戏",
+        "onboard_time": 1771044260,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126697,
+        "num": 126697,
+        "word": "黄大宪一直盯着看林孝埈",
+        "onboard_time": 1771045280,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 827552,
+        "num": 126465,
+        "word": "宋轶好刚",
+        "onboard_time": 1771027460,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 675350,
+        "num": 126262,
+        "word": "陈妍希和儿子分开过年",
+        "onboard_time": 1771049420,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123580,
+        "num": 123580,
+        "word": "中国男子巴厘岛溺亡同伴连滚带爬求救",
+        "onboard_time": 1771043300,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 345143,
+        "num": 123264,
+        "word": "王艺瑾回应整容争议",
+        "onboard_time": 1771047501,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122253,
+        "num": 122253,
+        "word": "杨幂挑了个最老实的马嘉祺",
+        "onboard_time": 1771049959,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120574,
+        "num": 120574,
+        "word": "56岁阿姨离婚后10年游43国",
+        "onboard_time": 1771050319,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 467531,
+        "num": 120430,
+        "word": "宋轶无名指戴了戒指",
+        "onboard_time": 1771044559,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109861,
+        "num": 118345,
+        "word": "爱泼斯坦案中多国未成年人被诱拐",
+        "onboard_time": 1771048401,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 103783,
+        "num": 116957,
+        "word": "中戏 招生",
+        "onboard_time": 1771046000,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102561,
+        "num": 115858,
+        "word": "福建一彩民15元中奖6022万",
+        "onboard_time": 1771051519,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121696,
+        "num": 115175,
+        "word": "王鹤棣NBA全明星总得分30分",
+        "onboard_time": 1771041441,
+        "rank": 30,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 114299,
+        "num": 114299,
+        "word": "为什么微信红包最多只能200元",
+        "onboard_time": 1771040600,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 109995,
+        "num": 109995,
+        "word": "陈妍希周柯宇芭莎",
+        "onboard_time": 1771049241,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 107894,
+        "num": 107894,
+        "word": "微信回应红包手气最佳攻略",
+        "onboard_time": 1771049241,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 96297,
+        "num": 96297,
+        "word": "白鹿 剧宣的神",
+        "onboard_time": 1771031000,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88250,
+        "num": 88250,
+        "word": "情人节金莎想要金莎得到",
+        "onboard_time": 1771046780,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87828,
+        "num": 87828,
+        "word": "游客已在胖东来买到搬不动了",
+        "onboard_time": 1771039940,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86942,
+        "num": 86942,
+        "word": "得知22岁儿子巴厘岛溺亡母亲哭晕",
+        "onboard_time": 1771037120,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77502,
+        "num": 77502,
+        "word": "春节反向旅游",
+        "onboard_time": 1771051400,
+        "rank": 38,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 16674,
+        "num": 75531,
+        "word": "成龙回应近些年微博都是悼念",
+        "onboard_time": 1771051819,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 75383,
+        "num": 75383,
+        "word": "马年春晚备播录制",
+        "onboard_time": 1771050020,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 68555,
+        "num": 68555,
+        "word": "情人节没对象我就这样",
+        "onboard_time": 1771046720,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 74882,
+        "num": 68524,
+        "word": "何不同舟渡",
+        "onboard_time": 1771036881,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 69382,
+        "num": 68349,
+        "word": "朱一龙刘诗诗冷战戏",
+        "onboard_time": 1771049721,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 67992,
+        "num": 67992,
+        "word": "全新Gemini一夜血洗编程",
+        "onboard_time": 1771050860,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 67927,
+        "num": 67927,
+        "word": "卫视春晚节目单",
+        "onboard_time": 1771048401,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 66006,
+        "num": 66006,
+        "word": "侯明昊艾米搂腰共舞",
+        "onboard_time": 1771052121,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 63267,
+        "num": 63267,
+        "word": "刘少昂孙龙林孝埈1500米冲金",
+        "onboard_time": 1771041380,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 65883,
+        "num": 62525,
+        "word": "蔡文静工伤",
+        "onboard_time": 1771038199,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 53542,
+        "num": 61798,
+        "word": "男子打牌被亲戚作弊骗走175万",
+        "onboard_time": 1771043539,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#心系万家的人民情怀#"
+    }
+  }
+}
