@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1771088253677,
+  "endTime": 1771090401674,
   "band_list": [
     {
       "raw_hot": 12386962,
@@ -2817,6 +2817,14 @@
       "onboard_time": 1770446361,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 624610,
+      "num": 624610,
+      "word": "王者荣耀崩了",
+      "onboard_time": 1771087818,
+      "rank": 5,
+      "category": "游戏"
     },
     {
       "raw_hot": 624421,
@@ -10611,14 +10619,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 244856,
-      "num": 244856,
-      "word": "王者荣耀崩了",
-      "onboard_time": 1771087818,
-      "rank": 5,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 244774,
       "num": 244774,
       "word": "阚清子演技",
@@ -11993,6 +11993,14 @@
       "onboard_time": 1770357742,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 218100,
+      "num": 218100,
+      "word": "高亭宇奥运纪录被打破",
+      "onboard_time": 1771087579,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 217998,
@@ -24867,14 +24875,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 98312,
-      "num": 55082,
-      "word": "高亭宇奥运纪录被打破",
-      "onboard_time": 1771087579,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 98289,
       "num": 98289,
       "word": "星穹下的格桑花公益片",
@@ -34723,6 +34723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 55309,
+      "num": 70703,
+      "word": "CORTIS新单YCC引发热议",
+      "onboard_time": 1771089378,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 55246,
       "num": 55324,
       "word": "家委会收每生263元家长报警",
@@ -35499,6 +35507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 49277,
+      "num": 63471,
+      "word": "朱志鑫来真的",
+      "onboard_time": 1771088058,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 49218,
       "num": 104058,
       "word": "黄子华不仅老了帅了还爱上班了",
@@ -35601,14 +35617,6 @@
       "onboard_time": 1770533539,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 48495,
-      "num": 49123,
-      "word": "朱志鑫来真的",
-      "onboard_time": 1771088058,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 48437,
@@ -37467,6 +37475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 36590,
+      "num": 62776,
+      "word": "斯托尔兹再破500米奥运纪录",
+      "onboard_time": 1771088718,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 36581,
       "num": 36581,
       "word": "宋亚轩感谢摄影大师丁程鑫",
@@ -38505,6 +38521,14 @@
       "onboard_time": 1769917098,
       "rank": 39,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 29926,
+      "num": 189832,
+      "word": "高亭宇男子500米第7",
+      "onboard_time": 1771087938,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 29844,
@@ -39913,14 +39937,6 @@
       "onboard_time": 1770468801,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 22596,
-      "num": 189832,
-      "word": "高亭宇男子500米第7",
-      "onboard_time": 1771087938,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 22481,
