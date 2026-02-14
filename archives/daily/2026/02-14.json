@@ -1,6 +1,6 @@
 {
   "startTime": 1770998880163,
-  "endTime": 1771054861481,
+  "endTime": 1771055722780,
   "band_list": [
     {
       "raw_hot": 4412806,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1581913,
-      "num": 168244,
+      "num": 186485,
       "word": "宋轶好刚",
       "onboard_time": 1771027460,
       "rank": 25,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1215567,
-      "num": 131482,
+      "num": 154951,
       "word": "宋轶无名指戴了戒指",
       "onboard_time": 1771044559,
       "rank": 25,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 675350,
-      "num": 167771,
+      "num": 172317,
       "word": "陈妍希和儿子分开过年",
       "onboard_time": 1771049420,
       "rank": 21,
@@ -171,6 +171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 384045,
+      "num": 384045,
+      "word": "黄子韬借综艺扇了徐艺洋",
+      "onboard_time": 1771051039,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 378632,
       "num": 1058158,
       "word": "百果园回应一根甘蔗卖87元",
@@ -203,12 +211,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 355084,
-      "num": 355084,
-      "word": "黄子韬借综艺扇了徐艺洋",
-      "onboard_time": 1771051039,
-      "rank": 7,
-      "category": "综艺"
+      "raw_hot": 362139,
+      "num": 1057942,
+      "word": "微信回应红包手气最佳攻略",
+      "onboard_time": 1771049241,
+      "rank": 33,
+      "category": "互联网"
     },
     {
       "raw_hot": 352862,
@@ -259,14 +267,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 336650,
-      "num": 1053864,
-      "word": "微信回应红包手气最佳攻略",
-      "onboard_time": 1771049241,
-      "rank": 33,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 323600,
       "num": 711143,
       "word": "樊振东2比3高茨",
@@ -281,6 +281,14 @@
       "onboard_time": 1771024397,
       "rank": 12,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 313302,
+      "num": 313302,
+      "word": "人民大会堂偶遇易烊千玺",
+      "onboard_time": 1771054100,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 300628,
@@ -339,6 +347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 283570,
+      "num": 170000,
+      "word": "56岁阿姨离婚后10年游43国",
+      "onboard_time": 1771050319,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 280291,
       "num": 166347,
       "word": "邵子恒邵子娇 内娱颜霸双胞胎兄妹",
@@ -379,12 +395,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 265650,
+      "num": 265650,
+      "word": "陈天润姚昱辰合照",
+      "onboard_time": 1771054340,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 262957,
-      "num": 317741,
+      "num": 366270,
       "word": "情人节朋友圈",
       "onboard_time": 1771046541,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 262788,
+      "num": 262788,
+      "word": "泰国女校长当人质换学生不幸身亡",
+      "onboard_time": 1771054760,
+      "rank": 12,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 252426,
@@ -417,6 +449,14 @@
       "onboard_time": 1771038920,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 234698,
+      "num": 234698,
+      "word": "网友偶遇了易烊千玺",
+      "onboard_time": 1771054340,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 233469,
@@ -491,14 +531,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 216334,
-      "num": 216334,
-      "word": "泰国女校长当人质换学生不幸身亡",
-      "onboard_time": 1771054760,
-      "rank": 12,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 212856,
       "num": 212856,
       "word": "日本释放被扣押中国渔船船长",
@@ -507,28 +539,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 207795,
+      "num": 420252,
+      "word": "生命树豆瓣开分8.1",
+      "onboard_time": 1771052121,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 206952,
       "num": 206952,
       "word": "黄大宪一直盯着看林孝埈",
       "onboard_time": 1771045280,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 205741,
-      "num": 167332,
-      "word": "56岁阿姨离婚后10年游43国",
-      "onboard_time": 1771050319,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 205545,
-      "num": 350593,
-      "word": "生命树豆瓣开分8.1",
-      "onboard_time": 1771052121,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 203288,
@@ -579,8 +603,16 @@
       "category": "数码"
     },
     {
+      "raw_hot": 187651,
+      "num": 187651,
+      "word": "一阳",
+      "onboard_time": 1771052780,
+      "rank": 15,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 184663,
-      "num": 324324,
+      "num": 382079,
       "word": "奶奶笑了半天才开始充电",
       "onboard_time": 1771048880,
       "rank": 34,
@@ -611,28 +643,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 177536,
-      "num": 177536,
-      "word": "一阳",
-      "onboard_time": 1771052780,
-      "rank": 15,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 174179,
       "num": 174179,
       "word": "意大利失联中国博士生最新进展",
       "onboard_time": 1771028898,
       "rank": 13,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 171503,
-      "num": 171503,
-      "word": "陈天润姚昱辰合照",
-      "onboard_time": 1771054340,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 170387,
@@ -673,14 +689,6 @@
       "onboard_time": 1771026077,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 162932,
-      "num": 162932,
-      "word": "人民大会堂偶遇易烊千玺",
-      "onboard_time": 1771054100,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 162870,
@@ -843,14 +851,6 @@
       "category": "艺人,民生新闻"
     },
     {
-      "raw_hot": 124994,
-      "num": 124994,
-      "word": "网友偶遇了易烊千玺",
-      "onboard_time": 1771054340,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 124811,
       "num": 166186,
       "word": "当小姨回家过年时",
@@ -865,6 +865,14 @@
       "onboard_time": 1771046720,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 121888,
+      "num": 121888,
+      "word": "新加坡偶遇向太郭碧婷",
+      "onboard_time": 1771053320,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 121002,
@@ -1012,7 +1020,7 @@
     },
     {
       "raw_hot": 109861,
-      "num": 137029,
+      "num": 141673,
       "word": "爱泼斯坦案中多国未成年人被诱拐",
       "onboard_time": 1771048401,
       "rank": 47,
@@ -1105,6 +1113,14 @@
       "onboard_time": 1770990861,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 103281,
+      "num": 369507,
+      "word": "北京WB严正声明",
+      "onboard_time": 1771055060,
+      "rank": 7,
+      "category": "电竞"
     },
     {
       "raw_hot": 102745,
@@ -1299,6 +1315,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 82517,
+      "num": 98623,
+      "word": "黄金手撕甘蔗一根87贵不贵",
+      "onboard_time": 1771054941,
+      "rank": 43,
+      "category": "美食"
+    },
+    {
       "raw_hot": 82005,
       "num": 82005,
       "word": "中国队何时能摘首金",
@@ -1377,14 +1401,6 @@
       "onboard_time": 1771051400,
       "rank": 38,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 77075,
-      "num": 77075,
-      "word": "新加坡偶遇向太郭碧婷",
-      "onboard_time": 1771053320,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 76910,
@@ -1467,6 +1483,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 70301,
+      "num": 70301,
+      "word": "当我回村把大侦探当八卦讲",
+      "onboard_time": 1771053021,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 69906,
       "num": 69906,
       "word": "童星叮当称关晓彤火是应该的",
@@ -1483,20 +1507,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 69415,
-      "num": 69415,
-      "word": "当我回村把大侦探当八卦讲",
-      "onboard_time": 1771053021,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 69382,
       "num": 68349,
       "word": "朱一龙刘诗诗冷战戏",
       "onboard_time": 1771049721,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 68639,
+      "num": 141793,
+      "word": "大雨暴雪即将来袭",
+      "onboard_time": 1771051639,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 68420,
@@ -1592,14 +1616,6 @@
       "word": "主人回应边牧凌晨下单100多个灯笼",
       "onboard_time": 1770986242,
       "rank": 43,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 56565,
-      "num": 64437,
-      "word": "大雨暴雪即将来袭",
-      "onboard_time": 1771051639,
-      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -1699,8 +1715,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 44247,
+      "num": 111390,
+      "word": "陈靖可 情人节最忙的男明星",
+      "onboard_time": 1771054880,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 40862,
-      "num": 170150,
+      "num": 188456,
       "word": "过年小聚怎么轻松怎么来",
       "onboard_time": 1771052719,
       "rank": 19,
@@ -1740,7 +1764,7 @@
     },
     {
       "raw_hot": 37423,
-      "num": 178365,
+      "num": 264058,
       "word": "春节氛围头像",
       "onboard_time": 1771052419,
       "rank": 14,
@@ -1753,6 +1777,14 @@
       "onboard_time": 1771051819,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 37257,
+      "num": 190967,
+      "word": "保姆辞职前偷卖雇主24万黄金",
+      "onboard_time": 1771055179,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37005,
@@ -1776,6 +1808,14 @@
       "word": "王玉雯敖瑞鹏游戏直播",
       "onboard_time": 1770986179,
       "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 31787,
+      "num": 115298,
+      "word": "丁程鑫也看桃黑黑吗",
+      "onboard_time": 1771054880,
+      "rank": 38,
       "category": "艺人"
     },
     {
@@ -1809,6 +1849,14 @@
       "onboard_time": 1771045280,
       "rank": 14,
       "category": "美食"
+    },
+    {
+      "raw_hot": 26131,
+      "num": 120669,
+      "word": "75岁老人祭祖烧纸引发大火获刑",
+      "onboard_time": 1771055660,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25700,
@@ -1849,6 +1897,14 @@
       "onboard_time": 1771015093,
       "rank": 45,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 21175,
+      "num": 117957,
+      "word": "油污清洁工错峰过年洗澡要用钢丝球",
+      "onboard_time": 1771055660,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20749,
