@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1771074291701,
+  "endTime": 1771075662966,
   "band_list": [
     {
       "raw_hot": 12386962,
@@ -523,6 +523,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 1455221,
+      "num": 1455221,
+      "word": "河南春晚 大量广告里穿插了少量节目",
+      "onboard_time": 1771071382,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1428420,
       "num": 1428420,
       "word": "哇塞居然是脏话",
@@ -721,14 +729,6 @@
       "onboard_time": 1770024922,
       "rank": 5,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1183710,
-      "num": 1189393,
-      "word": "河南春晚 大量广告里穿插了少量节目",
-      "onboard_time": 1771071382,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 1181160,
@@ -2163,6 +2163,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 712809,
+      "num": 916779,
+      "word": "千问红包",
+      "onboard_time": 1771072762,
+      "rank": 5,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 712317,
       "num": 291758,
       "word": "李佳琦感谢助理旺旺",
@@ -2963,6 +2971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 601707,
+      "num": 843744,
+      "word": "川大通报王竹卿事件调查结果",
+      "onboard_time": 1771071561,
+      "rank": 1,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 601415,
       "num": 601415,
       "word": "马嘉祺 对不起李飞",
@@ -3073,14 +3089,6 @@
       "onboard_time": 1770646761,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 585260,
-      "num": 843744,
-      "word": "川大通报王竹卿事件调查结果",
-      "onboard_time": 1771071561,
-      "rank": 1,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 584354,
@@ -4187,6 +4195,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 483052,
+      "num": 245811,
+      "word": "黄子弘凡红包",
+      "onboard_time": 1771071501,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 482964,
       "num": 239207,
       "word": "白鹿孟子义热聊张凌赫突然走过来",
@@ -4673,6 +4689,14 @@
       "onboard_time": 1770854540,
       "rank": 20,
       "category": "艺人,健康医疗"
+    },
+    {
+      "raw_hot": 452128,
+      "num": 217237,
+      "word": "明星红包",
+      "onboard_time": 1771073841,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 452045,
@@ -5915,14 +5939,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 383764,
-      "num": 245811,
-      "word": "黄子弘凡红包",
-      "onboard_time": 1771071501,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 383539,
       "num": 383539,
       "word": "桃黑黑请假",
@@ -6547,14 +6563,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 359492,
-      "num": 359492,
-      "word": "千问红包",
-      "onboard_time": 1771072762,
-      "rank": 5,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 359253,
       "num": 359253,
       "word": "Knight心率偏高就医",
@@ -6632,6 +6640,14 @@
       "word": "王橹杰高会",
       "onboard_time": 1771067781,
       "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 356314,
+      "num": 222851,
+      "word": "穆祉丞比王橹杰还急",
+      "onboard_time": 1771072341,
+      "rank": 13,
       "category": "艺人"
     },
     {
@@ -6745,14 +6761,6 @@
       "onboard_time": 1770814280,
       "rank": 17,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 352704,
-      "num": 222851,
-      "word": "穆祉丞比王橹杰还急",
-      "onboard_time": 1771072341,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 352385,
@@ -7947,6 +7955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 313000,
+      "num": 313000,
+      "word": "第一批来中国的老外过年现状",
+      "onboard_time": 1771071921,
+      "rank": 6,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 312824,
       "num": 790576,
       "word": "男子为避酒店春节涨价花1万多租房",
@@ -8955,14 +8971,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 283990,
-      "num": 283990,
-      "word": "第一批来中国的老外过年现状",
-      "onboard_time": 1771071921,
-      "rank": 6,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 283909,
       "num": 283909,
       "word": "柳宗源拍的白鹿",
@@ -9025,6 +9033,14 @@
       "onboard_time": 1769999421,
       "rank": 9,
       "category": "财经"
+    },
+    {
+      "raw_hot": 282156,
+      "num": 282156,
+      "word": "周冬雨从不发朋友圈",
+      "onboard_time": 1771071501,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 281841,
@@ -9249,14 +9265,6 @@
       "onboard_time": 1770699020,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 273987,
-      "num": 273987,
-      "word": "周冬雨从不发朋友圈",
-      "onboard_time": 1771071501,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 273889,
@@ -11307,6 +11315,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 228183,
+      "num": 217392,
+      "word": "四川大学",
+      "onboard_time": 1771073722,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 228003,
       "num": 174933,
       "word": "谢霆锋慷慨且大方",
@@ -11875,6 +11891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 216773,
+      "num": 125411,
+      "word": "河南春晚 千问到底给了多少",
+      "onboard_time": 1771074622,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 216737,
       "num": 204000,
       "word": "苏新皓 韩国",
@@ -11937,6 +11961,14 @@
       "onboard_time": 1770306146,
       "rank": 27,
       "category": "财经"
+    },
+    {
+      "raw_hot": 216165,
+      "num": 216165,
+      "word": "河南春晚 没有主持人和舞台",
+      "onboard_time": 1771073901,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 216160,
@@ -12648,14 +12680,6 @@
       "word": "谁给了窗口人员收1614万的勇气",
       "onboard_time": 1770554962,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 201080,
-      "num": 177581,
-      "word": "四川大学",
-      "onboard_time": 1771073722,
-      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -13435,6 +13459,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 187161,
+      "num": 177250,
+      "word": "大理一女子民宿被指歧视男性",
+      "onboard_time": 1771072882,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 187125,
       "num": 187125,
       "word": "冰壶",
@@ -14011,14 +14043,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 177250,
-      "num": 177250,
-      "word": "大理一女子民宿被指歧视男性",
-      "onboard_time": 1771072882,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 176983,
       "num": 155745,
       "word": "红马年能不能穿红",
@@ -14552,14 +14576,6 @@
       "word": "沙一汀掉美颜",
       "onboard_time": 1770960860,
       "rank": 15,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 169429,
-      "num": 169429,
-      "word": "明星红包",
-      "onboard_time": 1771073841,
-      "rank": 31,
       "category": "艺人"
     },
     {
@@ -17555,6 +17571,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 136012,
+      "num": 136012,
+      "word": "宋茜陈好你们根本没喝中药",
+      "onboard_time": 1771075461,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 135949,
       "num": 135949,
       "word": "生命树云合",
@@ -18305,14 +18329,6 @@
       "onboard_time": 1771025418,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 130223,
-      "num": 130223,
-      "word": "河南春晚 没有主持人和舞台",
-      "onboard_time": 1771073901,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 130197,
@@ -19777,6 +19793,14 @@
       "onboard_time": 1770029422,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120004,
+      "num": 120004,
+      "word": "马立奥即将成为哥哥",
+      "onboard_time": 1771074923,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 119973,
@@ -21345,6 +21369,14 @@
       "onboard_time": 1770619581,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 111789,
+      "num": 179827,
+      "word": "前月饼大王从市值49亿到负债10亿",
+      "onboard_time": 1771073121,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111731,
@@ -23299,14 +23331,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 103540,
-      "num": 179827,
-      "word": "前月饼大王从市值49亿到负债10亿",
-      "onboard_time": 1771073121,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 103538,
       "num": 110437,
       "word": "关于婆婆带我花两百块烫了个头",
@@ -23620,7 +23644,7 @@
     },
     {
       "raw_hot": 102091,
-      "num": 171868,
+      "num": 216489,
       "word": "千问超级免单卡再加3天",
       "onboard_time": 1771074082,
       "rank": 27,
@@ -24833,6 +24857,14 @@
       "onboard_time": 1770808159,
       "rank": 41,
       "category": "网红"
+    },
+    {
+      "raw_hot": 97447,
+      "num": 97447,
+      "word": "白百何孩子五岁了",
+      "onboard_time": 1771072401,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 97420,
@@ -26673,14 +26705,6 @@
       "onboard_time": 1771042460,
       "rank": 40,
       "category": "美食"
-    },
-    {
-      "raw_hot": 90793,
-      "num": 90793,
-      "word": "白百何孩子五岁了",
-      "onboard_time": 1771072401,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 90786,
@@ -31451,6 +31475,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 74230,
+      "num": 80766,
+      "word": "Kiin复刻Bin名场面",
+      "onboard_time": 1771074502,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 74143,
       "num": 74143,
       "word": "一觉醒来全跌了",
@@ -31857,6 +31889,14 @@
       "onboard_time": 1770958220,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 71624,
+      "num": 78510,
+      "word": "高亭宇目标是卫冕冬奥冠军",
+      "onboard_time": 1771075582,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 71605,
@@ -39835,6 +39875,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 20130,
+      "num": 699347,
+      "word": "团圆是最好的新年礼物",
+      "onboard_time": 1771059440,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20118,
       "num": 22604,
       "word": "张小楠出战女子大跳台预赛",
@@ -40128,14 +40176,6 @@
       "word": "精神病医院骗保事件应提级调查",
       "onboard_time": 1770129502,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 18598,
-      "num": 699347,
-      "word": "团圆是最好的新年礼物",
-      "onboard_time": 1771059440,
-      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -41521,6 +41561,14 @@
       "onboard_time": 1770722960,
       "rank": 34,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 7761,
+      "num": 704696,
+      "word": "复兴号遇见小慢车",
+      "onboard_time": 1771075342,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 7663,

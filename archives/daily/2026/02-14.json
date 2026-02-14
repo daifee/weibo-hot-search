@@ -1,6 +1,6 @@
 {
   "startTime": 1770998880163,
-  "endTime": 1771074291701,
+  "endTime": 1771075662966,
   "band_list": [
     {
       "raw_hot": 4412806,
@@ -19,20 +19,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1455221,
+      "num": 1455221,
+      "word": "河南春晚 大量广告里穿插了少量节目",
+      "onboard_time": 1771071382,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1215567,
       "num": 154951,
       "word": "宋轶无名指戴了戒指",
       "onboard_time": 1771044559,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1183710,
-      "num": 1189393,
-      "word": "河南春晚 大量广告里穿插了少量节目",
-      "onboard_time": 1771071382,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 963183,
@@ -115,6 +115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 712809,
+      "num": 916779,
+      "word": "千问红包",
+      "onboard_time": 1771072762,
+      "rank": 5,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 675350,
       "num": 172317,
       "word": "陈妍希和儿子分开过年",
@@ -163,7 +171,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 585260,
+      "raw_hot": 601707,
       "num": 843744,
       "word": "川大通报王竹卿事件调查结果",
       "onboard_time": 1771071561,
@@ -201,6 +209,22 @@
       "onboard_time": 1771044200,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 483052,
+      "num": 245811,
+      "word": "黄子弘凡红包",
+      "onboard_time": 1771071501,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 452128,
+      "num": 217237,
+      "word": "明星红包",
+      "onboard_time": 1771073841,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 445041,
@@ -267,14 +291,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 383764,
-      "num": 245811,
-      "word": "黄子弘凡红包",
-      "onboard_time": 1771071501,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 378632,
       "num": 1058158,
       "word": "百果园回应一根甘蔗卖87元",
@@ -323,19 +339,19 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 359492,
-      "num": 359492,
-      "word": "千问红包",
-      "onboard_time": 1771072762,
-      "rank": 5,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 356434,
       "num": 178031,
       "word": "王橹杰高会",
       "onboard_time": 1771067781,
       "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 356314,
+      "num": 222851,
+      "word": "穆祉丞比王橹杰还急",
+      "onboard_time": 1771072341,
+      "rank": 13,
       "category": "艺人"
     },
     {
@@ -351,14 +367,6 @@
       "num": 160050,
       "word": "谁给迪丽热巴买的手机壳",
       "onboard_time": 1770982520,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 352704,
-      "num": 222851,
-      "word": "穆祉丞比王橹杰还急",
-      "onboard_time": 1771072341,
       "rank": 13,
       "category": "艺人"
     },
@@ -451,6 +459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 313000,
+      "num": 313000,
+      "word": "第一批来中国的老外过年现状",
+      "onboard_time": 1771071921,
+      "rank": 6,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 312492,
       "num": 265746,
       "word": "这么大的架子竟然一点官都没有",
@@ -539,20 +555,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 283990,
-      "num": 283990,
-      "word": "第一批来中国的老外过年现状",
-      "onboard_time": 1771071921,
-      "rank": 6,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 283570,
       "num": 170000,
       "word": "56岁阿姨离婚后10年游43国",
       "onboard_time": 1771050319,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 282156,
+      "num": 282156,
+      "word": "周冬雨从不发朋友圈",
+      "onboard_time": 1771071501,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 280291,
@@ -577,14 +593,6 @@
       "onboard_time": 1771061720,
       "rank": 43,
       "category": "电影"
-    },
-    {
-      "raw_hot": 273987,
-      "num": 273987,
-      "word": "周冬雨从不发朋友圈",
-      "onboard_time": 1771071501,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 272797,
@@ -699,6 +707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 228183,
+      "num": 217392,
+      "word": "四川大学",
+      "onboard_time": 1771073722,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 227562,
       "num": 227562,
       "word": "生命树 敢拍",
@@ -763,6 +779,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 216773,
+      "num": 125411,
+      "word": "河南春晚 千问到底给了多少",
+      "onboard_time": 1771074622,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 216165,
+      "num": 216165,
+      "word": "河南春晚 没有主持人和舞台",
+      "onboard_time": 1771073901,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 212856,
       "num": 212856,
       "word": "日本释放被扣押中国渔船船长",
@@ -800,14 +832,6 @@
       "word": "萨摩耶得知自己被托孤角落偷落泪",
       "onboard_time": 1771019593,
       "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 201080,
-      "num": 177581,
-      "word": "四川大学",
-      "onboard_time": 1771073722,
-      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -851,6 +875,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 187161,
+      "num": 177250,
+      "word": "大理一女子民宿被指歧视男性",
+      "onboard_time": 1771072882,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 184663,
       "num": 382079,
       "word": "奶奶笑了半天才开始充电",
@@ -891,14 +923,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 177250,
-      "num": 177250,
-      "word": "大理一女子民宿被指歧视男性",
-      "onboard_time": 1771072882,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 176048,
       "num": 176048,
       "word": "iPhone18Pro五项新功能",
@@ -937,14 +961,6 @@
       "onboard_time": 1770995182,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 169429,
-      "num": 169429,
-      "word": "明星红包",
-      "onboard_time": 1771073841,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 169317,
@@ -1139,6 +1155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 136012,
+      "num": 136012,
+      "word": "宋茜陈好你们根本没喝中药",
+      "onboard_time": 1771075461,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 135942,
       "num": 170666,
       "word": "中国2银2铜暂列冬奥奖牌榜第18",
@@ -1193,14 +1217,6 @@
       "onboard_time": 1771025418,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 130223,
-      "num": 130223,
-      "word": "河南春晚 没有主持人和舞台",
-      "onboard_time": 1771073901,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 130003,
@@ -1289,6 +1305,14 @@
       "onboard_time": 1770989120,
       "rank": 18,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 120004,
+      "num": 120004,
+      "word": "马立奥即将成为哥哥",
+      "onboard_time": 1771074923,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 117757,
@@ -1416,6 +1440,14 @@
       "word": "福建一彩民15元中奖6022万",
       "onboard_time": 1771051519,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111789,
+      "num": 179827,
+      "word": "前月饼大王从市值49亿到负债10亿",
+      "onboard_time": 1771073121,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -1595,14 +1627,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 103540,
-      "num": 179827,
-      "word": "前月饼大王从市值49亿到负债10亿",
-      "onboard_time": 1771073121,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 103281,
       "num": 369507,
       "word": "北京WB严正声明",
@@ -1620,7 +1644,7 @@
     },
     {
       "raw_hot": 102091,
-      "num": 171868,
+      "num": 216489,
       "word": "千问超级免单卡再加3天",
       "onboard_time": 1771074082,
       "rank": 27,
@@ -1715,6 +1739,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 97447,
+      "num": 97447,
+      "word": "白百何孩子五岁了",
+      "onboard_time": 1771072401,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 95896,
       "num": 95896,
       "word": "鹅鸭杀",
@@ -1793,14 +1825,6 @@
       "onboard_time": 1771042460,
       "rank": 40,
       "category": "美食"
-    },
-    {
-      "raw_hot": 90793,
-      "num": 90793,
-      "word": "白百何孩子五岁了",
-      "onboard_time": 1771072401,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 89629,
@@ -2171,6 +2195,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 74230,
+      "num": 80766,
+      "word": "Kiin复刻Bin名场面",
+      "onboard_time": 1771074502,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 73712,
       "num": 80691,
       "word": "这届女中医还是太强了",
@@ -2184,6 +2216,14 @@
       "word": "谷爱凌大跳台预赛",
       "onboard_time": 1771060401,
       "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 71624,
+      "num": 78510,
+      "word": "高亭宇目标是卫冕冬奥冠军",
+      "onboard_time": 1771075582,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -2819,6 +2859,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 20130,
+      "num": 699347,
+      "word": "团圆是最好的新年礼物",
+      "onboard_time": 1771059440,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19409,
       "num": 29895,
       "word": "快捷酒店卖出五星级酒店价格",
@@ -2833,14 +2881,6 @@
       "onboard_time": 1771063281,
       "rank": 14,
       "category": "情感"
-    },
-    {
-      "raw_hot": 18598,
-      "num": 699347,
-      "word": "团圆是最好的新年礼物",
-      "onboard_time": 1771059440,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 18247,
@@ -2936,6 +2976,14 @@
       "word": "送阿福成为各地新年俗",
       "onboard_time": 1771038020,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 7761,
+      "num": 704696,
+      "word": "复兴号遇见小慢车",
+      "onboard_time": 1771075342,
+      "rank": 2,
       "category": "民生新闻"
     }
   ],
