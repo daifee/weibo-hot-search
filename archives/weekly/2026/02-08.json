@@ -1,6 +1,6 @@
 {
   "startTime": 1770482461321,
-  "endTime": 1771062011788,
+  "endTime": 1771062923395,
   "band_list": [
     {
       "raw_hot": 8690838,
@@ -611,12 +611,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 823459,
+      "num": 100143,
+      "word": "小酒窝做了长美甲",
+      "onboard_time": 1771059440,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 821190,
       "num": 1131390,
       "word": "超级碗",
       "onboard_time": 1770597502,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 816982,
+      "num": 1130717,
+      "word": "红包",
+      "onboard_time": 1771050141,
+      "rank": 10,
+      "category": "互联网"
     },
     {
       "raw_hot": 814066,
@@ -633,14 +649,6 @@
       "onboard_time": 1770720081,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 800283,
-      "num": 1128045,
-      "word": "红包",
-      "onboard_time": 1771050141,
-      "rank": 10,
-      "category": "互联网"
     },
     {
       "raw_hot": 796606,
@@ -896,14 +904,6 @@
       "word": "龙麦娇兰",
       "onboard_time": 1770603799,
       "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 691220,
-      "num": 100143,
-      "word": "小酒窝做了长美甲",
-      "onboard_time": 1771059440,
-      "rank": 38,
       "category": "艺人"
     },
     {
@@ -2139,6 +2139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 427121,
+      "num": 822487,
+      "word": "妈妈回应林孝埈加入中国队",
+      "onboard_time": 1771059859,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 426974,
       "num": 181480,
       "word": "王俊凯的话只有朱志鑫听进去了",
@@ -2675,14 +2683,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 381322,
-      "num": 822487,
-      "word": "妈妈回应林孝埈加入中国队",
-      "onboard_time": 1771059859,
-      "rank": 1,
-      "category": "体育"
-    },
-    {
       "raw_hot": 380120,
       "num": 230989,
       "word": "金像奖最佳女配角提名",
@@ -2891,6 +2891,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 364500,
+      "num": 173435,
+      "word": "汉尼拔用的是张小泉菜刀",
+      "onboard_time": 1771059561,
+      "rank": 6,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 364462,
       "num": 907893,
       "word": "蒯曼vs张本美和",
@@ -3025,14 +3033,6 @@
       "onboard_time": 1770783378,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 354248,
-      "num": 173435,
-      "word": "汉尼拔用的是张小泉菜刀",
-      "onboard_time": 1771059561,
-      "rank": 6,
-      "category": "幽默"
     },
     {
       "raw_hot": 353701,
@@ -4099,6 +4099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 286269,
+      "num": 156017,
+      "word": "女子称健身被哄骗注射药物变阴阳人",
+      "onboard_time": 1771060940,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 286032,
       "num": 286032,
       "word": "王皓说张本智和拉不死王楚钦",
@@ -4169,6 +4177,14 @@
       "onboard_time": 1770884182,
       "rank": 5,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 281465,
+      "num": 169296,
+      "word": "这么大的架子竟然一点官都没有",
+      "onboard_time": 1771060340,
+      "rank": 7,
+      "category": "幽默"
     },
     {
       "raw_hot": 280291,
@@ -5731,14 +5747,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 211042,
-      "num": 124241,
-      "word": "女子称健身被哄骗注射药物变阴阳人",
-      "onboard_time": 1771060940,
-      "rank": 11,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 210818,
       "num": 210818,
       "word": "谭松韵上春晚没和家人说",
@@ -6403,12 +6411,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 187646,
+      "num": 187646,
+      "word": "哈尔滨18米雪王鸡王被连夜拆除",
+      "onboard_time": 1771060940,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 187401,
       "num": 187401,
       "word": "LadyGaga空降超级碗中场秀",
       "onboard_time": 1770607879,
       "rank": 22,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 187183,
+      "num": 155547,
+      "word": "伊能静脸太紧致了",
+      "onboard_time": 1771061720,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 187125,
@@ -7171,6 +7195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160310,
+      "num": 160310,
+      "word": "红包分组",
+      "onboard_time": 1771062620,
+      "rank": 9,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 160302,
       "num": 160302,
       "word": "矿山员工10分钟数9.5万现金手抽筋",
@@ -7699,14 +7731,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 147905,
-      "num": 147905,
-      "word": "这么大的架子竟然一点官都没有",
-      "onboard_time": 1771060340,
-      "rank": 7,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 147748,
       "num": 147748,
       "word": "只要华为不跪产品就不贵",
@@ -8147,6 +8171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 138965,
+      "num": 98085,
+      "word": "iPhone18Pro五项新功能",
+      "onboard_time": 1771061180,
+      "rank": 25,
+      "category": "数码"
+    },
+    {
       "raw_hot": 138943,
       "num": 138943,
       "word": "山西朔州车间爆炸已致7人遇难",
@@ -8395,6 +8427,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 135386,
+      "num": 135386,
+      "word": "王鹤棣让黄子韬跟徐艺洋离婚",
+      "onboard_time": 1771061120,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 135183,
       "num": 135183,
       "word": "金博洋84.15分",
@@ -8577,6 +8617,14 @@
       "onboard_time": 1770718099,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 130888,
+      "num": 130888,
+      "word": "千问免单将可用于打车和充话费",
+      "onboard_time": 1771060219,
+      "rank": 17,
+      "category": "互联网"
     },
     {
       "raw_hot": 130830,
@@ -9180,7 +9228,7 @@
     },
     {
       "raw_hot": 121589,
-      "num": 79238,
+      "num": 95767,
       "word": "朱志鑫 整个时代峰峻最没办法的人",
       "onboard_time": 1771059500,
       "rank": 40,
@@ -9344,14 +9392,6 @@
       "word": "给员工发1.8亿年终奖的老板招人了",
       "onboard_time": 1770979760,
       "rank": 40,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 118532,
-      "num": 114460,
-      "word": "哈尔滨18米雪王鸡王被连夜拆除",
-      "onboard_time": 1771060940,
-      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -11227,14 +11267,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 101465,
-      "num": 101465,
-      "word": "千问免单将可用于打车和充话费",
-      "onboard_time": 1771060219,
-      "rank": 17,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 101432,
       "num": 101432,
       "word": "懒懒自曝78斤",
@@ -11699,6 +11731,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 97857,
+      "num": 97857,
+      "word": "女子998买全程票变半程警方已介入",
+      "onboard_time": 1771061120,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97832,
       "num": 111200,
       "word": "王昶钱天一领证vlog",
@@ -11931,14 +11971,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 96010,
-      "num": 79095,
-      "word": "伊能静脸太紧致了",
-      "onboard_time": 1771061720,
-      "rank": 43,
-      "category": "电影"
-    },
-    {
       "raw_hot": 95962,
       "num": 95962,
       "word": "齐司礼桃礼呈祥",
@@ -12132,7 +12164,7 @@
     },
     {
       "raw_hot": 94658,
-      "num": 82610,
+      "num": 90880,
       "word": "20岁刘耀文叫63岁张凯丽姐姐",
       "onboard_time": 1771059920,
       "rank": 31,
@@ -12731,14 +12763,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 90282,
-      "num": 90282,
-      "word": "iPhone18Pro五项新功能",
-      "onboard_time": 1771061180,
-      "rank": 25,
-      "category": "数码"
-    },
-    {
       "raw_hot": 90276,
       "num": 90276,
       "word": "谷爱凌个人冬奥已拿2金2银",
@@ -13108,7 +13132,7 @@
     },
     {
       "raw_hot": 87808,
-      "num": 79277,
+      "num": 82169,
       "word": "丁程鑫跳舞十级震感",
       "onboard_time": 1771061899,
       "rank": 39,
@@ -13257,6 +13281,14 @@
       "onboard_time": 1770967999,
       "rank": 43,
       "category": "财经"
+    },
+    {
+      "raw_hot": 86890,
+      "num": 86890,
+      "word": "苏新皓出镜Prada全新宣传视频",
+      "onboard_time": 1771061960,
+      "rank": 46,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 86886,
@@ -13593,6 +13625,14 @@
       "onboard_time": 1770679036,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 84576,
+      "num": 93320,
+      "word": "心理医生醍醐灌顶的人生建议",
+      "onboard_time": 1771060820,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 84521,
@@ -14059,14 +14099,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 81417,
-      "num": 81417,
-      "word": "心理医生醍醐灌顶的人生建议",
-      "onboard_time": 1771060820,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 81055,
       "num": 81055,
       "word": "张函瑞高会语音",
@@ -14137,6 +14169,14 @@
       "onboard_time": 1770773420,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 80612,
+      "num": 90897,
+      "word": "春节原来是劳动节假扮的",
+      "onboard_time": 1771062560,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 80599,
@@ -14835,6 +14875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 76691,
+      "num": 635845,
+      "word": "年夜饭送到家搜索量暴增600%",
+      "onboard_time": 1771059859,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 76679,
       "num": 168857,
       "word": "王者新春AppStore有礼",
@@ -15019,6 +15067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 75068,
+      "num": 86891,
+      "word": "能不能单纯的放一个长假",
+      "onboard_time": 1771062500,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 75010,
       "num": 75010,
       "word": "我已经不是在熬夜了",
@@ -15171,6 +15227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 74324,
+      "num": 74324,
+      "word": "唐宫21集刀麻了",
+      "onboard_time": 1771062681,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 74270,
       "num": 74270,
       "word": "丞磊 谁是我的情人",
@@ -15249,14 +15313,6 @@
       "onboard_time": 1770886222,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 73450,
-      "num": 625984,
-      "word": "年夜饭送到家搜索量暴增600%",
-      "onboard_time": 1771059859,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 73446,
@@ -15571,14 +15627,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 70612,
-      "num": 70612,
-      "word": "苏新皓出镜Prada全新宣传视频",
-      "onboard_time": 1771061960,
-      "rank": 46,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 70601,
       "num": 70601,
       "word": "年夜饭私厨团队一天赚10万",
@@ -15867,6 +15915,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 67337,
+      "num": 90886,
+      "word": "王一博边走边唱",
+      "onboard_time": 1771062260,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 67230,
       "num": 67230,
       "word": "预防甲状腺结节的4种饮食习惯",
@@ -15969,6 +16025,14 @@
       "onboard_time": 1770950839,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 66411,
+      "num": 90895,
+      "word": "白鹿王星越敖瑞鹏评论区语音",
+      "onboard_time": 1771061840,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 66387,
@@ -16723,20 +16787,20 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 55979,
-      "num": 101123,
-      "word": "王鹤棣让黄子韬跟徐艺洋离婚",
-      "onboard_time": 1771061120,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 55898,
       "num": 106208,
       "word": "易烊千玺累出痛苦面具了",
       "onboard_time": 1770873259,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 55563,
+      "num": 100983,
+      "word": "女生春节上门喂猫9天赚8500元",
+      "onboard_time": 1771061599,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 55515,
@@ -16969,14 +17033,6 @@
       "onboard_time": 1770825741,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 51877,
-      "num": 79307,
-      "word": "白鹿王星越敖瑞鹏评论区语音",
-      "onboard_time": 1771061840,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 51820,
@@ -18203,14 +18259,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 37243,
-      "num": 100983,
-      "word": "女生春节上门喂猫9天赚8500元",
-      "onboard_time": 1771061599,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 37122,
       "num": 171099,
       "word": "天选守护者苏翊鸣",
@@ -18240,6 +18288,14 @@
       "word": "专家称全国六成分娩量在县城",
       "onboard_time": 1770958821,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36867,
+      "num": 125554,
+      "word": "蛇年的班就上到这里",
+      "onboard_time": 1771061540,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -19315,6 +19371,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 24680,
+      "num": 98170,
+      "word": "假千金骗婚案二审维持原判",
+      "onboard_time": 1771062022,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24639,
       "num": 106113,
       "word": "一根细绳让隐藏39年凶手现形",
@@ -19593,14 +19657,6 @@
       "onboard_time": 1770552261,
       "rank": 17,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 22156,
-      "num": 125554,
-      "word": "蛇年的班就上到这里",
-      "onboard_time": 1771061540,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 22012,
@@ -20000,6 +20056,14 @@
       "word": "马年好运到",
       "onboard_time": 1770958881,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17738,
+      "num": 98182,
+      "word": "待宰大鹅流泪主人放弃宰杀",
+      "onboard_time": 1771061899,
+      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -20656,14 +20720,6 @@
       "word": "春节小城酒店住宿暴涨到3000元",
       "onboard_time": 1770887540,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 6137,
-      "num": 79370,
-      "word": "待宰大鹅流泪主人放弃宰杀",
-      "onboard_time": 1771061899,
-      "rank": 34,
       "category": "民生新闻"
     },
     {
