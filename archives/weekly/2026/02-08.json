@@ -1,6 +1,6 @@
 {
   "startTime": 1770482461321,
-  "endTime": 1771075662966,
+  "endTime": 1771077683332,
   "band_list": [
     {
       "raw_hot": 8690838,
@@ -121,6 +121,14 @@
       "onboard_time": 1770891981,
       "rank": 3,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 1730271,
+      "num": 205065,
+      "word": "曝黄子弘凡爸爸诈骗学生",
+      "onboard_time": 1771077023,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1648080,
@@ -603,6 +611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 856232,
+      "num": 916779,
+      "word": "千问红包",
+      "onboard_time": 1771072762,
+      "rank": 5,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 842941,
       "num": 971563,
       "word": "我家那小子首发阵容官宣",
@@ -636,7 +652,7 @@
     },
     {
       "raw_hot": 823459,
-      "num": 178299,
+      "num": 182791,
       "word": "小酒窝做了长美甲",
       "onboard_time": 1771059440,
       "rank": 38,
@@ -779,6 +795,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 743579,
+      "num": 645691,
+      "word": "河南春晚 没有主持人和舞台",
+      "onboard_time": 1771073901,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 738277,
       "num": 738277,
       "word": "这才是真正的道歉",
@@ -812,7 +836,7 @@
     },
     {
       "raw_hot": 724587,
-      "num": 178479,
+      "num": 187251,
       "word": "吃猪脚被卡喉10岁男孩现已去世",
       "onboard_time": 1771063221,
       "rank": 21,
@@ -848,14 +872,6 @@
       "word": "2025年热搜爆了434次",
       "onboard_time": 1770785301,
       "rank": 31,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 712809,
-      "num": 916779,
-      "word": "千问红包",
-      "onboard_time": 1771072762,
-      "rank": 5,
       "category": "互联网"
     },
     {
@@ -1193,6 +1209,14 @@
       "onboard_time": 1770885380,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 611500,
+      "num": 245811,
+      "word": "黄子弘凡红包",
+      "onboard_time": 1771071501,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 606514,
@@ -1833,14 +1857,6 @@
       "onboard_time": 1770803240,
       "rank": 29,
       "category": "网红"
-    },
-    {
-      "raw_hot": 483052,
-      "num": 245811,
-      "word": "黄子弘凡红包",
-      "onboard_time": 1771071501,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 482842,
@@ -2755,6 +2771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 383244,
+      "num": 186780,
+      "word": "从疲劳到癌症只有4步",
+      "onboard_time": 1771076902,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 383197,
       "num": 851873,
       "word": "22岁当村支书28岁晒成绩火了",
@@ -3076,7 +3100,7 @@
     },
     {
       "raw_hot": 356434,
-      "num": 178031,
+      "num": 192510,
       "word": "王橹杰高会",
       "onboard_time": 1771067781,
       "rank": 22,
@@ -3481,6 +3505,14 @@
       "onboard_time": 1770962060,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 325551,
+      "num": 203025,
+      "word": "大理一女子民宿被指歧视男性",
+      "onboard_time": 1771072882,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 325448,
@@ -4305,6 +4337,14 @@
       "onboard_time": 1770542000,
       "rank": 44,
       "category": "美食"
+    },
+    {
+      "raw_hot": 283801,
+      "num": 217392,
+      "word": "四川大学",
+      "onboard_time": 1771073722,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 283570,
@@ -5387,6 +5427,14 @@
       "category": "音乐,电竞"
     },
     {
+      "raw_hot": 229781,
+      "num": 229781,
+      "word": "马年不宜婚嫁真的假的",
+      "onboard_time": 1771076122,
+      "rank": 6,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 229001,
       "num": 172282,
       "word": "陈奕恒看贺峻霖视频",
@@ -5409,14 +5457,6 @@
       "onboard_time": 1770951381,
       "rank": 11,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 228183,
-      "num": 217392,
-      "word": "四川大学",
-      "onboard_time": 1771073722,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 227566,
@@ -5708,7 +5748,7 @@
     },
     {
       "raw_hot": 216773,
-      "num": 125411,
+      "num": 164756,
       "word": "河南春晚 千问到底给了多少",
       "onboard_time": 1771074622,
       "rank": 32,
@@ -5761,14 +5801,6 @@
       "onboard_time": 1770560963,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 216165,
-      "num": 216165,
-      "word": "河南春晚 没有主持人和舞台",
-      "onboard_time": 1771073901,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 216160,
@@ -6099,6 +6131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 205517,
+      "num": 205517,
+      "word": "关晓彤 青鸟神女",
+      "onboard_time": 1771076782,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205297,
       "num": 205297,
       "word": "绝意 K甲",
@@ -6305,6 +6345,14 @@
       "onboard_time": 1770961520,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 197653,
+      "num": 197653,
+      "word": "王一博人鱼演职表更新",
+      "onboard_time": 1771076902,
+      "rank": 15,
+      "category": "电影"
     },
     {
       "raw_hot": 197500,
@@ -6611,14 +6659,6 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 187161,
-      "num": 177250,
-      "word": "大理一女子民宿被指歧视男性",
-      "onboard_time": 1771072882,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 187125,
       "num": 187125,
       "word": "冰壶",
@@ -6769,6 +6809,14 @@
       "onboard_time": 1770884781,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 181605,
+      "num": 181605,
+      "word": "千问口令",
+      "onboard_time": 1771077622,
+      "rank": 25,
+      "category": "互联网"
     },
     {
       "raw_hot": 181154,
@@ -7579,6 +7627,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 156438,
+      "num": 156438,
+      "word": "56岁阿姨长期情绪失控痛哭右眼失明",
+      "onboard_time": 1771076181,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156405,
+      "num": 156405,
+      "word": "马立奥即将成为哥哥",
+      "onboard_time": 1771074923,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 156271,
       "num": 148788,
       "word": "吴京 以后可以明目张胆涂唇膏了",
@@ -7596,7 +7660,7 @@
     },
     {
       "raw_hot": 155609,
-      "num": 171674,
+      "num": 172537,
       "word": "米兰花滑惨案是什么级别的爆冷",
       "onboard_time": 1771066101,
       "rank": 34,
@@ -7784,6 +7848,14 @@
       "word": "任敏素颜",
       "onboard_time": 1770629122,
       "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 151096,
+      "num": 134556,
+      "word": "马君妍宣布二胎宝宝已有30周",
+      "onboard_time": 1771076902,
+      "rank": 37,
       "category": "艺人"
     },
     {
@@ -8041,6 +8113,14 @@
       "onboard_time": 1770618680,
       "rank": 26,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 145877,
+      "num": 145877,
+      "word": "沈佳润哪来的小牛劲",
+      "onboard_time": 1771076543,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 145862,
@@ -8628,7 +8708,7 @@
     },
     {
       "raw_hot": 135942,
-      "num": 170666,
+      "num": 194770,
       "word": "中国2银2铜暂列冬奥奖牌榜第18",
       "onboard_time": 1771071261,
       "rank": 29,
@@ -8889,6 +8969,14 @@
       "onboard_time": 1770718099,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 130934,
+      "num": 130934,
+      "word": "千问陪每个人度过八十一难",
+      "onboard_time": 1771075762,
+      "rank": 38,
+      "category": "综艺,互联网"
     },
     {
       "raw_hot": 130888,
@@ -9551,14 +9639,6 @@
       "num": 120265,
       "word": "我拍的王一博",
       "onboard_time": 1770717680,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 120004,
-      "num": 120004,
-      "word": "马立奥即将成为哥哥",
-      "onboard_time": 1771074923,
       "rank": 35,
       "category": "艺人"
     },
@@ -10267,6 +10347,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 113002,
+      "num": 137568,
+      "word": "韩媒seedance2.0横空出世影响巨大",
+      "onboard_time": 1771076002,
+      "rank": 36,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 112946,
       "num": 146180,
       "word": "除夕夜iPhone降价",
@@ -10385,6 +10473,14 @@
       "onboard_time": 1771073121,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111726,
+      "num": 111726,
+      "word": "白鹿唐宫22集4分20秒",
+      "onboard_time": 1771076543,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 111638,
@@ -11475,6 +11571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 102777,
+      "num": 102777,
+      "word": "常吃这类食品增加幽门螺杆菌感染风险",
+      "onboard_time": 1771077144,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 102745,
       "num": 102745,
       "word": "日本高官有意调查Seedance2.0",
@@ -11489,6 +11593,14 @@
       "onboard_time": 1770892999,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 102674,
+      "num": 112829,
+      "word": "情人节的朋友圈比春晚还热闹",
+      "onboard_time": 1771075943,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 102478,
@@ -11873,6 +11985,14 @@
       "onboard_time": 1770880519,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 99671,
+      "num": 99671,
+      "word": "影视飓风Tim称将完整记录素人登珠峰",
+      "onboard_time": 1771077622,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 99654,
@@ -12771,6 +12891,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 93252,
+      "num": 105159,
+      "word": "多特情人节晒樊振东雪中漫步",
+      "onboard_time": 1771077440,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 93202,
       "num": 93202,
       "word": "花样滑冰团体决赛",
@@ -13097,6 +13225,14 @@
       "onboard_time": 1770693559,
       "rank": 46,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 90872,
+      "num": 90872,
+      "word": "张柏芝情人节和大儿子约会",
+      "onboard_time": 1771075882,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 90841,
@@ -16691,6 +16827,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 64245,
+      "num": 117923,
+      "word": "韩国AI女友Clawra引爆社交网络",
+      "onboard_time": 1771077505,
+      "rank": 39,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 64212,
       "num": 64212,
       "word": "接某红公然驾车撞向警务人员",
@@ -17177,6 +17321,14 @@
       "onboard_time": 1771063701,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 58363,
+      "num": 191000,
+      "word": "12306回应长途有票短途无票问题",
+      "onboard_time": 1771076902,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 58169,
@@ -19739,6 +19891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 26405,
+      "num": 686410,
+      "word": "一杯热水暖了几十年归途",
+      "onboard_time": 1771076302,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26382,
       "num": 46801,
       "word": "金博洋男单晋级自由滑",
@@ -21436,6 +21596,9 @@
     },
     {
       "word": "#习近平向第39届非洲联盟峰会致贺电#"
+    },
+    {
+      "word": "#新征程上策马扬鞭勇往直前#"
     }
   ]
 }

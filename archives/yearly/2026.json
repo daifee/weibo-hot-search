@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1771075662966,
+  "endTime": 1771077683332,
   "band_list": [
     {
       "raw_hot": 22742360,
@@ -1073,6 +1073,14 @@
       "onboard_time": 1768131560,
       "rank": 48,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1730271,
+      "num": 205065,
+      "word": "曝黄子弘凡爸爸诈骗学生",
+      "onboard_time": 1771077023,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1725086,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1768128381,
       "rank": 20,
       "category": "网红,民生新闻"
-    },
-    {
-      "raw_hot": 1128241,
-      "num": 1180518,
-      "word": "马斯克被激怒",
-      "onboard_time": 1770212001,
-      "rank": 30,
-      "category": "国际时政"
     }
   ],
   "hotgov_list": [
