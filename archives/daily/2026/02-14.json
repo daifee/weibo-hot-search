@@ -1,6 +1,6 @@
 {
   "startTime": 1770998880163,
-  "endTime": 1771045060872,
+  "endTime": 1771048427209,
   "band_list": [
     {
       "raw_hot": 4412806,
@@ -67,6 +67,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 646073,
+      "num": 476352,
+      "word": "张萌说浪姐收手机是因为黄圣依",
+      "onboard_time": 1771044140,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 634161,
       "num": 130902,
       "word": "王栎鑫女儿因被怼脸拍生气",
@@ -107,12 +115,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 464968,
+      "num": 1074394,
+      "word": "产检正常生出畸形儿医院被罚2.5万",
+      "onboard_time": 1771044200,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 445041,
       "num": 168290,
       "word": "瑶一瑶藏剪刀被安检发现",
       "onboard_time": 1770967102,
       "rank": 10,
       "category": "网红"
+    },
+    {
+      "raw_hot": 419038,
+      "num": 160458,
+      "word": "中国男子巴厘岛溺亡同伴连滚带爬求救",
+      "onboard_time": 1771043300,
+      "rank": 15,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 401926,
@@ -195,12 +219,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 296032,
-      "num": 351792,
-      "word": "张萌说浪姐收手机是因为黄圣依",
-      "onboard_time": 1771044140,
-      "rank": 33,
-      "category": "综艺"
+      "raw_hot": 312876,
+      "num": 361824,
+      "word": "成都天府大道事故酒驾司机全责",
+      "onboard_time": 1771045580,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 295252,
@@ -243,6 +267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 283432,
+      "num": 159655,
+      "word": "岳云鹏蔡文静亲密戏",
+      "onboard_time": 1771044260,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 279134,
       "num": 279134,
       "word": "女子29元韭菜炒蚌肉吃出1颗粉珍珠",
@@ -273,6 +305,14 @@
       "onboard_time": 1771030820,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 254608,
+      "num": 151439,
+      "word": "成何体统圆房镜头要钓我几天",
+      "onboard_time": 1771045880,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 252426,
@@ -339,6 +379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 222221,
+      "num": 150285,
+      "word": "中戏 招生",
+      "onboard_time": 1771046000,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 220498,
       "num": 220498,
       "word": "生命树后期尺度",
@@ -355,12 +403,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 215594,
+      "num": 114601,
+      "word": "王艺瑾回应整容争议",
+      "onboard_time": 1771047501,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 212856,
       "num": 212856,
       "word": "日本释放被扣押中国渔船船长",
       "onboard_time": 1771038920,
       "rank": 7,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 206952,
+      "num": 206952,
+      "word": "黄大宪一直盯着看林孝埈",
+      "onboard_time": 1771045280,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 203288,
@@ -491,28 +555,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 160458,
-      "num": 160458,
-      "word": "中国男子巴厘岛溺亡同伴连滚带爬求救",
-      "onboard_time": 1771043300,
-      "rank": 15,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 160302,
       "num": 160302,
       "word": "矿山员工10分钟数9.5万现金手抽筋",
       "onboard_time": 1771035920,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 159655,
-      "num": 159655,
-      "word": "岳云鹏蔡文静亲密戏",
-      "onboard_time": 1771044260,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 155557,
@@ -523,7 +571,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 152654,
+      "raw_hot": 153259,
       "num": 172805,
       "word": "刘少昂孙龙林孝埈1500米冲金",
       "onboard_time": 1771041380,
@@ -539,19 +587,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 149533,
+      "num": 149533,
+      "word": "百果园回应一根甘蔗卖87元",
+      "onboard_time": 1771047199,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 148932,
       "num": 130709,
       "word": "泰山 禁石令",
       "onboard_time": 1770995422,
       "rank": 21,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 145033,
-      "num": 145033,
-      "word": "产检正常生出畸形儿医院被罚2.5万",
-      "onboard_time": 1771044200,
-      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -633,6 +681,22 @@
       "onboard_time": 1770974180,
       "rank": 22,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 125893,
+      "num": 118013,
+      "word": "易烊千玺宋佳张译这段破防率100%",
+      "onboard_time": 1771047858,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 122344,
+      "num": 122344,
+      "word": "情人节没对象我就这样",
+      "onboard_time": 1771046720,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 121002,
@@ -723,6 +787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 112876,
+      "num": 112876,
+      "word": "张凯丽回应录花少被骂",
+      "onboard_time": 1771045460,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 110814,
       "num": 133478,
       "word": "孙龙林孝埈刘少昂出战1500米",
@@ -745,6 +817,14 @@
       "onboard_time": 1771037360,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 110098,
+      "num": 110098,
+      "word": "金虔佑 霸凌工作人员",
+      "onboard_time": 1771047921,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 110082,
@@ -803,6 +883,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 105817,
+      "num": 77242,
+      "word": "情人节朋友圈",
+      "onboard_time": 1771046541,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 105317,
       "num": 105317,
       "word": "张凌赫王楚然胶片",
@@ -817,6 +905,14 @@
       "onboard_time": 1771038560,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 104301,
+      "num": 104301,
+      "word": "偶遇宋祖儿潜水",
+      "onboard_time": 1771046000,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 104034,
@@ -841,6 +937,14 @@
       "onboard_time": 1771024277,
       "rank": 22,
       "category": "健康医疗,民生新闻"
+    },
+    {
+      "raw_hot": 100884,
+      "num": 100884,
+      "word": "容祖儿上春晚没唱粤语歌被骂",
+      "onboard_time": 1771045221,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 100697,
@@ -883,6 +987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 98287,
+      "num": 122121,
+      "word": "情人节金莎想要金莎得到",
+      "onboard_time": 1771046780,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 98080,
       "num": 98080,
       "word": "日本放人",
@@ -897,6 +1009,14 @@
       "onboard_time": 1771022775,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 92810,
+      "num": 92810,
+      "word": "鞠婧祎张云龙烟花点燃大橘大利",
+      "onboard_time": 1771047441,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 91401,
@@ -987,6 +1107,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 83320,
+      "num": 83320,
+      "word": "KPL年夜饭正式上线",
+      "onboard_time": 1771048099,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 82005,
       "num": 82005,
       "word": "中国队何时能摘首金",
@@ -1035,6 +1163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 77435,
+      "num": 77435,
+      "word": "卫视春晚节目单",
+      "onboard_time": 1771048401,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 76910,
       "num": 76910,
       "word": "雀骨",
@@ -1073,6 +1209,14 @@
       "onboard_time": 1770986300,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 73712,
+      "num": 80691,
+      "word": "这届女中医还是太强了",
+      "onboard_time": 1771045460,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 71605,
@@ -1115,6 +1259,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 68955,
+      "num": 77908,
+      "word": "爱泼斯坦案中多国未成年人被诱拐",
+      "onboard_time": 1771048401,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 67335,
       "num": 67335,
       "word": "重庆江心岛近600年佛像露出水面",
@@ -1147,19 +1299,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 64044,
+      "num": 142610,
+      "word": "200名车友为爱发车跨城接亲",
+      "onboard_time": 1771043781,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 59383,
       "num": 100090,
       "word": "7年前买的空墓地被他人强占",
       "onboard_time": 1771035561,
       "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 59166,
-      "num": 142610,
-      "word": "200名车友为爱发车跨城接亲",
-      "onboard_time": 1771043781,
-      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -1193,6 +1345,14 @@
       "onboard_time": 1771003517,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 51213,
+      "num": 118675,
+      "word": "谷爱凌美猴王回花果山",
+      "onboard_time": 1771048040,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 51140,
@@ -1345,6 +1505,14 @@
       "onboard_time": 1770983900,
       "rank": 48,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 26229,
+      "num": 151048,
+      "word": "春节吃喝指南",
+      "onboard_time": 1771045280,
+      "rank": 14,
+      "category": "美食"
     },
     {
       "raw_hot": 25700,
