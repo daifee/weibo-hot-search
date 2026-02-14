@@ -1,6 +1,6 @@
 {
   "startTime": 1770998880163,
-  "endTime": 1771058552692,
+  "endTime": 1771059494505,
   "band_list": [
     {
       "raw_hot": 4412806,
@@ -59,20 +59,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 792542,
+      "num": 1126806,
+      "word": "红包",
+      "onboard_time": 1771050141,
+      "rank": 10,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 737919,
       "num": 781143,
       "word": "女子幽门螺杆菌阳性3年后查出胃癌",
       "onboard_time": 1770992422,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 708182,
-      "num": 1113309,
-      "word": "红包",
-      "onboard_time": 1771050141,
-      "rank": 10,
-      "category": "互联网"
     },
     {
       "raw_hot": 675350,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 618447,
-      "num": 149065,
+      "num": 185787,
       "word": "突然发现朋友圈没人晒花了",
       "onboard_time": 1771055719,
       "rank": 5,
@@ -251,6 +251,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 345787,
+      "num": 313302,
+      "word": "人民大会堂偶遇易烊千玺",
+      "onboard_time": 1771054100,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 345143,
       "num": 166148,
       "word": "王艺瑾回应整容争议",
@@ -304,14 +312,6 @@
       "word": "网友偶遇了易烊千玺",
       "onboard_time": 1771054340,
       "rank": 34,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 313302,
-      "num": 313302,
-      "word": "人民大会堂偶遇易烊千玺",
-      "onboard_time": 1771054100,
-      "rank": 27,
       "category": "艺人"
     },
     {
@@ -451,6 +451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 246008,
+      "num": 112032,
+      "word": "吃席偶遇丁程鑫",
+      "onboard_time": 1771058060,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 238706,
       "num": 167808,
       "word": "王鹤棣NBA全明星总得分30分",
@@ -537,6 +545,14 @@
       "onboard_time": 1771039820,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 216960,
+      "num": 216960,
+      "word": "檀健次卢昱晓剧宣",
+      "onboard_time": 1771057460,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 212856,
@@ -763,12 +779,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 144496,
-      "num": 144496,
-      "word": "檀健次卢昱晓剧宣",
-      "onboard_time": 1771057460,
-      "rank": 6,
-      "category": "剧集"
+      "raw_hot": 144422,
+      "num": 144422,
+      "word": "75岁老人祭祖烧纸引发大火获刑",
+      "onboard_time": 1771055660,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 142632,
@@ -776,6 +792,14 @@
       "word": "月薪6000春节加班4天拿4400元",
       "onboard_time": 1771038260,
       "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 138664,
+      "num": 190967,
+      "word": "保姆辞职前偷卖雇主24万黄金",
+      "onboard_time": 1771055179,
+      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -801,6 +825,14 @@
       "onboard_time": 1770989301,
       "rank": 19,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 133150,
+      "num": 110418,
+      "word": "金靖 你为什么要来衡量我",
+      "onboard_time": 1771058000,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 130726,
@@ -857,14 +889,6 @@
       "onboard_time": 1771042280,
       "rank": 25,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 126115,
-      "num": 126115,
-      "word": "75岁老人祭祖烧纸引发大火获刑",
-      "onboard_time": 1771055660,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 125968,
@@ -1003,14 +1027,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 112032,
-      "num": 112032,
-      "word": "吃席偶遇丁程鑫",
-      "onboard_time": 1771058060,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 110814,
       "num": 133478,
       "word": "孙龙林孝埈刘少昂出战1500米",
@@ -1025,14 +1041,6 @@
       "onboard_time": 1771038080,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 110418,
-      "num": 110418,
-      "word": "金靖 你为什么要来衡量我",
-      "onboard_time": 1771058000,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 110273,
@@ -1243,6 +1251,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 95119,
+      "num": 83494,
+      "word": "熊大熊二回应资源分配不均",
+      "onboard_time": 1771056200,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 92826,
       "num": 92826,
       "word": "保罗正式宣布退役",
@@ -1347,14 +1363,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 84231,
-      "num": 190967,
-      "word": "保姆辞职前偷卖雇主24万黄金",
-      "onboard_time": 1771055179,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 83847,
       "num": 83847,
       "word": "懒懒自曝78斤",
@@ -1419,6 +1427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 79481,
+      "num": 118177,
+      "word": "刘亦菲LVMonogram大片",
+      "onboard_time": 1771056260,
+      "rank": 18,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 78976,
       "num": 115706,
       "word": "小动物之间的冷暴力",
@@ -1480,6 +1496,14 @@
       "word": "男子12万买矮马日租金3000",
       "onboard_time": 1771056380,
       "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 75821,
+      "num": 95463,
+      "word": "12万买矮马租给游乐场40天回本",
+      "onboard_time": 1771057760,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -1555,14 +1579,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 71305,
-      "num": 71305,
-      "word": "熊大熊二回应资源分配不均",
-      "onboard_time": 1771056200,
-      "rank": 40,
-      "category": "电影"
-    },
-    {
       "raw_hot": 70941,
       "num": 70941,
       "word": "小狗来大姨妈以为得了不治之症",
@@ -1577,14 +1593,6 @@
       "onboard_time": 1771053021,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 69908,
-      "num": 71534,
-      "word": "12万买矮马租给游乐场40天回本",
-      "onboard_time": 1771057760,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 69906,
@@ -1627,6 +1635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 68096,
+      "num": 68096,
+      "word": "刘耀文张真源马场邻居",
+      "onboard_time": 1771058901,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 67992,
       "num": 67992,
       "word": "全新Gemini一夜血洗编程",
@@ -1643,12 +1659,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 67176,
-      "num": 118177,
-      "word": "刘亦菲LVMonogram大片",
-      "onboard_time": 1771056260,
-      "rank": 18,
-      "category": "作品衍生,时尚"
+      "raw_hot": 67134,
+      "num": 67134,
+      "word": "一诺评论暖阳这我是真支持",
+      "onboard_time": 1771056500,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 66136,
@@ -2059,6 +2075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 16748,
+      "num": 69552,
+      "word": "小酒窝做了长美甲",
+      "onboard_time": 1771059440,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 16579,
       "num": 99832,
       "word": "租豪车回家过年正丧失吸引力",
@@ -2083,6 +2107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 15763,
+      "num": 636518,
+      "word": "团圆是最好的新年礼物",
+      "onboard_time": 1771059440,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 11878,
       "num": 86573,
       "word": "3988一桌婚宴菜冷肉硬被吐槽",
@@ -2105,6 +2137,9 @@
     },
     {
       "word": "#心系万家的人民情怀#"
+    },
+    {
+      "word": "#习近平在2026春节团拜会上的讲话#"
     }
   ]
 }
