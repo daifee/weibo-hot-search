@@ -1,10 +1,10 @@
 {
   "startTime": 1771087248939,
-  "endTime": 1771087248939,
+  "endTime": 1771088253677,
   "band_list": [
     {
       "raw_hot": 1113157,
-      "num": 109550,
+      "num": 126082,
       "word": "曝黄子弘凡爸爸诈骗学生",
       "onboard_time": 1771077023,
       "rank": 10,
@@ -19,7 +19,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 635575,
+      "raw_hot": 667263,
       "num": 796136,
       "word": "高亭宇男子500米",
       "onboard_time": 1771084762,
@@ -43,8 +43,16 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 308812,
-      "num": 308812,
+      "raw_hot": 365914,
+      "num": 108641,
+      "word": "医院回应男童吃猪脚被卡喉去世",
+      "onboard_time": 1771084461,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 323852,
+      "num": 323852,
       "word": "关晓彤 青鸟神女",
       "onboard_time": 1771076782,
       "rank": 3,
@@ -59,6 +67,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 269837,
+      "num": 269837,
+      "word": "高亭宇滑出34秒47",
+      "onboard_time": 1771087222,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 244856,
+      "num": 244856,
+      "word": "王者荣耀崩了",
+      "onboard_time": 1771087818,
+      "rank": 5,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 244286,
       "num": 244286,
       "word": "红包",
@@ -67,12 +91,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 238769,
-      "num": 108641,
-      "word": "医院回应男童吃猪脚被卡喉去世",
-      "onboard_time": 1771084461,
-      "rank": 20,
-      "category": "民生新闻"
+      "raw_hot": 238059,
+      "num": 238059,
+      "word": "林孝埈短道速滑1500米加油",
+      "onboard_time": 1771084400,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 235134,
@@ -84,7 +108,7 @@
     },
     {
       "raw_hot": 213109,
-      "num": 109196,
+      "num": 123878,
       "word": "河南春晚 大量广告里穿插了少量节目",
       "onboard_time": 1771071382,
       "rank": 13,
@@ -92,7 +116,7 @@
     },
     {
       "raw_hot": 212171,
-      "num": 108880,
+      "num": 167937,
       "word": "杨博文高会",
       "onboard_time": 1771079363,
       "rank": 17,
@@ -100,19 +124,11 @@
     },
     {
       "raw_hot": 201307,
-      "num": 108699,
+      "num": 121153,
       "word": "张凌赫空降超话",
       "onboard_time": 1771081044,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 192489,
-      "num": 109433,
-      "word": "林孝埈短道速滑1500米加油",
-      "onboard_time": 1771084400,
-      "rank": 11,
-      "category": "体育"
     },
     {
       "raw_hot": 164217,
@@ -132,7 +148,7 @@
     },
     {
       "raw_hot": 145145,
-      "num": 108969,
+      "num": 128945,
       "word": "四川大学",
       "onboard_time": 1771073722,
       "rank": 14,
@@ -180,7 +196,7 @@
     },
     {
       "raw_hot": 109591,
-      "num": 108173,
+      "num": 109379,
       "word": "王橹杰高会",
       "onboard_time": 1771067781,
       "rank": 26,
@@ -211,20 +227,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 98312,
+      "num": 55082,
+      "word": "高亭宇奥运纪录被打破",
+      "onboard_time": 1771087579,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 92139,
+      "num": 108241,
+      "word": "56岁阿姨长期情绪失控痛哭右眼失明",
+      "onboard_time": 1771076181,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90493,
       "num": 90493,
       "word": "明星红包",
       "onboard_time": 1771073841,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 89781,
-      "num": 108241,
-      "word": "56岁阿姨长期情绪失控痛哭右眼失明",
-      "onboard_time": 1771076181,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 82656,
@@ -299,14 +323,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 69463,
-      "num": 69463,
-      "word": "高亭宇滑出34秒47",
-      "onboard_time": 1771087222,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 69239,
       "num": 69239,
       "word": "千问补发免单卡",
@@ -337,6 +353,14 @@
       "onboard_time": 1771080264,
       "rank": 42,
       "category": "财经"
+    },
+    {
+      "raw_hot": 62609,
+      "num": 67922,
+      "word": "檀健次也太欲太会钓了",
+      "onboard_time": 1771087099,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 58357,
@@ -387,12 +411,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 52554,
-      "num": 67922,
-      "word": "檀健次也太欲太会钓了",
-      "onboard_time": 1771087099,
+      "raw_hot": 51300,
+      "num": 49123,
+      "word": "高亭宇500米奥运纪录被打破",
+      "onboard_time": 1771088118,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 48495,
+      "num": 49123,
+      "word": "朱志鑫来真的",
+      "onboard_time": 1771088058,
       "rank": 49,
-      "category": "剧集"
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 22596,
+      "num": 189832,
+      "word": "高亭宇男子500米第7",
+      "onboard_time": 1771087938,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 19386,
@@ -406,6 +446,9 @@
   "hotgov_list": [
     {
       "word": "#2026春节团拜会举行#"
+    },
+    {
+      "word": "#新征程上策马扬鞭勇往直前#"
     }
   ]
 }

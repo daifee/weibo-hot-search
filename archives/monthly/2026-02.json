@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1771087248939,
+  "endTime": 1771088253677,
   "band_list": [
     {
       "raw_hot": 12386962,
@@ -2547,6 +2547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 667263,
+      "num": 796136,
+      "word": "高亭宇男子500米",
+      "onboard_time": 1771084762,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 666271,
       "num": 379023,
       "word": "肖战有顶流命没有顶流病",
@@ -2737,14 +2745,6 @@
       "onboard_time": 1770341901,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 635575,
-      "num": 796136,
-      "word": "高亭宇男子500米",
-      "onboard_time": 1771084762,
-      "rank": 0,
-      "category": "体育"
     },
     {
       "raw_hot": 634161,
@@ -6475,6 +6475,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 365914,
+      "num": 108641,
+      "word": "医院回应男童吃猪脚被卡喉去世",
+      "onboard_time": 1771084461,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 365910,
       "num": 197462,
       "word": "爱吃桃酥的人天塌了",
@@ -9539,6 +9547,14 @@
       "category": "美食,互联网"
     },
     {
+      "raw_hot": 269837,
+      "num": 269837,
+      "word": "高亭宇滑出34秒47",
+      "onboard_time": 1771087222,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 269829,
       "num": 269829,
       "word": "日本执政联盟将获众议院过半议席",
@@ -10595,6 +10611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 244856,
+      "num": 244856,
+      "word": "王者荣耀崩了",
+      "onboard_time": 1771087818,
+      "rank": 5,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 244774,
       "num": 244774,
       "word": "阚清子演技",
@@ -10851,14 +10875,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 238769,
-      "num": 108641,
-      "word": "医院回应男童吃猪脚被卡喉去世",
-      "onboard_time": 1771084461,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 238735,
       "num": 98737,
       "word": "医生提醒不要长期用吸管喝水",
@@ -10897,6 +10913,14 @@
       "onboard_time": 1770510620,
       "rank": 12,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 238059,
+      "num": 238059,
+      "word": "林孝埈短道速滑1500米加油",
+      "onboard_time": 1771084400,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 238056,
@@ -13329,14 +13353,6 @@
       "onboard_time": 1770627620,
       "rank": 29,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 192489,
-      "num": 109433,
-      "word": "林孝埈短道速滑1500米加油",
-      "onboard_time": 1771084400,
-      "rank": 11,
-      "category": "体育"
     },
     {
       "raw_hot": 192394,
@@ -24851,6 +24867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 98312,
+      "num": 55082,
+      "word": "高亭宇奥运纪录被打破",
+      "onboard_time": 1771087579,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 98289,
       "num": 98289,
       "word": "星穹下的格桑花公益片",
@@ -32611,14 +32635,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 69463,
-      "num": 69463,
-      "word": "高亭宇滑出34秒47",
-      "onboard_time": 1771087222,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 69461,
       "num": 93063,
       "word": "男子实名举报村支书与其妻有染",
@@ -33777,6 +33793,14 @@
       "onboard_time": 1771049060,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 62609,
+      "num": 67922,
+      "word": "檀健次也太欲太会钓了",
+      "onboard_time": 1771087099,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 62567,
@@ -34955,14 +34979,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 52554,
-      "num": 67922,
-      "word": "檀健次也太欲太会钓了",
-      "onboard_time": 1771087099,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 52542,
       "num": 60384,
       "word": "守望先锋",
@@ -35201,6 +35217,14 @@
       "onboard_time": 1770507978,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 51300,
+      "num": 49123,
+      "word": "高亭宇500米奥运纪录被打破",
+      "onboard_time": 1771088118,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 51151,
@@ -35577,6 +35601,14 @@
       "onboard_time": 1770533539,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 48495,
+      "num": 49123,
+      "word": "朱志鑫来真的",
+      "onboard_time": 1771088058,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 48437,
@@ -39881,6 +39913,14 @@
       "onboard_time": 1770468801,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22596,
+      "num": 189832,
+      "word": "高亭宇男子500米第7",
+      "onboard_time": 1771087938,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 22481,
