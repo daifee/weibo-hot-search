@@ -1,6 +1,6 @@
 {
   "startTime": 1771087248939,
-  "endTime": 1771162139576,
+  "endTime": 1771164104715,
   "band_list": [
     {
       "raw_hot": 3500523,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1099304,
-      "num": 201557,
+      "num": 234554,
       "word": "男子聚会被下药提前离场躲过一劫",
       "onboard_time": 1771145479,
       "rank": 23,
@@ -73,6 +73,14 @@
       "onboard_time": 1771081523,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 714635,
+      "num": 323466,
+      "word": "黄子弘凡与父亲责任各自独立",
+      "onboard_time": 1771160303,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 672454,
@@ -204,7 +212,7 @@
     },
     {
       "raw_hot": 531507,
-      "num": 427324,
+      "num": 438044,
       "word": "生命树大结局",
       "onboard_time": 1771158802,
       "rank": 6,
@@ -259,6 +267,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 437799,
+      "num": 322864,
+      "word": "江苏东海通报烟花爆竹爆燃事故",
+      "onboard_time": 1771162582,
+      "rank": 11,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 428687,
       "num": 199300,
       "word": "迪丽热巴说酒店不让贴春联",
@@ -268,19 +284,11 @@
     },
     {
       "raw_hot": 425408,
-      "num": 285695,
+      "num": 380666,
       "word": "王菲只需轻轻出手",
       "onboard_time": 1771159880,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 417313,
-      "num": 253430,
-      "word": "黄子弘凡与父亲责任各自独立",
-      "onboard_time": 1771160303,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 410487,
@@ -315,6 +323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 390248,
+      "num": 390248,
+      "word": "元宝红包",
+      "onboard_time": 1771161383,
+      "rank": 24,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 388629,
       "num": 388629,
       "word": "苏翊鸣第一滑70.83分",
@@ -332,7 +348,7 @@
     },
     {
       "raw_hot": 376730,
-      "num": 239501,
+      "num": 318372,
       "word": "大胖媳妇非教武大靖滑冰",
       "onboard_time": 1771160240,
       "rank": 26,
@@ -395,6 +411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 343283,
+      "num": 321911,
+      "word": "冯远征妻子梁丹妮退休团拜会献舞",
+      "onboard_time": 1771160062,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 343260,
       "num": 184332,
       "word": "赵今麦女团门面级别的美貌",
@@ -443,11 +467,27 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 324530,
+      "num": 324530,
+      "word": "姐姐脱落的乳牙呛入1岁宝宝气道",
+      "onboard_time": 1771160903,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 323852,
       "num": 323852,
       "word": "关晓彤 青鸟神女",
       "onboard_time": 1771076782,
       "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 321490,
+      "num": 321490,
+      "word": "李宗恒小品 旧梗",
+      "onboard_time": 1771160841,
+      "rank": 13,
       "category": "综艺"
     },
     {
@@ -481,6 +521,14 @@
       "onboard_time": 1771130840,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 314384,
+      "num": 314384,
+      "word": "黄子弘凡白鹿瞎掰王",
+      "onboard_time": 1771162582,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 314050,
@@ -627,6 +675,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 270899,
+      "num": 270899,
+      "word": "王菲凤凰传奇满屏雅俗通杀",
+      "onboard_time": 1771163003,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 269837,
       "num": 269837,
       "word": "高亭宇滑出34秒47",
@@ -636,7 +692,7 @@
     },
     {
       "raw_hot": 269461,
-      "num": 269461,
+      "num": 319155,
       "word": "樊振东身穿中国红队服",
       "onboard_time": 1771159100,
       "rank": 11,
@@ -697,14 +753,6 @@
       "onboard_time": 1771135640,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 251174,
-      "num": 219397,
-      "word": "李宗恒小品 旧梗",
-      "onboard_time": 1771160841,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 250240,
@@ -828,7 +876,7 @@
     },
     {
       "raw_hot": 229068,
-      "num": 229068,
+      "num": 239148,
       "word": "日本男子全文背滕王阁序免票进景区",
       "onboard_time": 1771158862,
       "rank": 13,
@@ -907,12 +955,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 217173,
-      "num": 217173,
-      "word": "姐姐脱落的乳牙呛入1岁宝宝气道",
-      "onboard_time": 1771160903,
-      "rank": 14,
-      "category": "民生新闻"
+      "raw_hot": 214167,
+      "num": 214167,
+      "word": "王安宇胡先煦范丞丞家乡话拜年",
+      "onboard_time": 1771162582,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 213109,
@@ -1019,6 +1067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184652,
+      "num": 175081,
+      "word": "汪苏泷毛衣",
+      "onboard_time": 1771161202,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 176487,
       "num": 176487,
       "word": "樊振东vs贾哈",
@@ -1041,14 +1097,6 @@
       "onboard_time": 1771095796,
       "rank": 3,
       "category": "民生新闻,体育"
-    },
-    {
-      "raw_hot": 172147,
-      "num": 154915,
-      "word": "元宝红包",
-      "onboard_time": 1771161383,
-      "rank": 24,
-      "category": "互联网"
     },
     {
       "raw_hot": 170721,
@@ -1099,6 +1147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 160041,
+      "num": 160041,
+      "word": "杨鸣好帅",
+      "onboard_time": 1771163963,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 159798,
       "num": 108485,
       "word": "从疲劳到癌症只有4步",
@@ -1131,11 +1187,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 154057,
-      "num": 154057,
-      "word": "冯远征妻子梁丹妮退休团拜会献舞",
-      "onboard_time": 1771160062,
-      "rank": 43,
+      "raw_hot": 153655,
+      "num": 153655,
+      "word": "伤心swimming 预录取",
+      "onboard_time": 1771163123,
+      "rank": 27,
       "category": "艺人"
     },
     {
@@ -1169,14 +1225,6 @@
       "onboard_time": 1771073722,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 144634,
-      "num": 144634,
-      "word": "汪苏泷毛衣",
-      "onboard_time": 1771161202,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 141358,
@@ -1243,6 +1291,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132112,
+      "num": 132112,
+      "word": "河南下雪",
+      "onboard_time": 1771162822,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 131661,
+      "num": 131661,
+      "word": "黄金和房子买哪个更保值",
+      "onboard_time": 1771161802,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 131575,
       "num": 127663,
       "word": "穆祉丞小穆骑士",
@@ -1256,6 +1320,14 @@
       "word": "马君妍宣布二胎宝宝已有30周",
       "onboard_time": 1771076902,
       "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 128322,
+      "num": 128322,
+      "word": "伤心swimming 语言成绩",
+      "onboard_time": 1771163602,
+      "rank": 32,
       "category": "艺人"
     },
     {
@@ -1371,6 +1443,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 116318,
+      "num": 116318,
+      "word": "林孝埈用中文真诚回应",
+      "onboard_time": 1771162463,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 116237,
       "num": 116237,
       "word": "刘少昂眼神里都看见金牌了",
@@ -1379,12 +1459,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 115702,
+      "num": 115702,
+      "word": "黄金中事件 录音",
+      "onboard_time": 1771163783,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 115688,
       "num": 115688,
       "word": "害怕过年的原因",
       "onboard_time": 1771144879,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 112983,
+      "num": 112983,
+      "word": "周深郎朗是对我耳朵最好的人",
+      "onboard_time": 1771163363,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 112440,
@@ -1483,6 +1579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104694,
+      "num": 132368,
+      "word": "爱泼斯坦案名单竟出现梦露等人",
+      "onboard_time": 1771162463,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 104400,
       "num": 104400,
       "word": "王菲春晚歌曲原唱乐队毕业于北大",
@@ -1491,20 +1595,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 103195,
-      "num": 103195,
+      "raw_hot": 104368,
+      "num": 104368,
       "word": "川渝春晚节目单",
       "onboard_time": 1771161743,
       "rank": 41,
       "category": "综艺"
     },
     {
-      "raw_hot": 102968,
-      "num": 102968,
-      "word": "黄金和房子买哪个更保值",
-      "onboard_time": 1771161802,
-      "rank": 42,
-      "category": "财经"
+      "raw_hot": 102531,
+      "num": 102531,
+      "word": "曾舜晞星空舞台",
+      "onboard_time": 1771163783,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 101420,
@@ -1553,6 +1657,14 @@
       "onboard_time": 1771135640,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 99383,
+      "num": 99383,
+      "word": "谷爱凌已获额外测试训练邀请",
+      "onboard_time": 1771163063,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 98884,
@@ -1667,6 +1779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 91723,
+      "num": 100132,
+      "word": "除夕夜微博抢红包攻略",
+      "onboard_time": 1771158322,
+      "rank": 46,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 91320,
       "num": 91320,
       "word": "80后未婚男子纠结过年是否发红包",
@@ -1721,14 +1841,6 @@
       "onboard_time": 1771131139,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 87634,
-      "num": 100132,
-      "word": "除夕夜微博抢红包攻略",
-      "onboard_time": 1771158322,
-      "rank": 46,
-      "category": "互联网"
     },
     {
       "raw_hot": 87358,
@@ -2307,6 +2419,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 63549,
+      "num": 108227,
+      "word": "5人团队春节上门喂猫预计收入16万",
+      "onboard_time": 1771164022,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 63236,
       "num": 72626,
       "word": "WTA1000",
@@ -2777,6 +2897,14 @@
       "onboard_time": 1771107795,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 21358,
+      "num": 106017,
+      "word": "日警方被曝伪造2700张交通罚单",
+      "onboard_time": 1771163182,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 21103,

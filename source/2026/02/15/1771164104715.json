@@ -1,0 +1,410 @@
+{
+  "runTime": 1771164104715,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 839891,
+        "num": 1134382,
+        "word": "2026红包分组",
+        "onboard_time": 1771138999,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 521809,
+        "num": 822467,
+        "word": "千问红包雨",
+        "onboard_time": 1771147700,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 34071,
+        "num": 680141,
+        "word": "咱们空间站过年氛围拉满了",
+        "onboard_time": 1771147580,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 471167,
+        "num": 471167,
+        "word": "春晚彩排",
+        "onboard_time": 1771155502,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 438044,
+        "num": 438044,
+        "word": "生命树大结局",
+        "onboard_time": 1771158802,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 390248,
+        "num": 390248,
+        "word": "元宝红包",
+        "onboard_time": 1771161383,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 406243,
+        "num": 380666,
+        "word": "王菲只需轻轻出手",
+        "onboard_time": 1771159880,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 365309,
+        "num": 365309,
+        "word": "辽宁卫视春晚",
+        "onboard_time": 1771154540,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 324530,
+        "num": 324530,
+        "word": "姐姐脱落的乳牙呛入1岁宝宝气道",
+        "onboard_time": 1771160903,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 240111,
+        "num": 323812,
+        "word": "高速免费倒计时全国车主统一操作",
+        "onboard_time": 1771158681,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 714635,
+        "num": 323466,
+        "word": "黄子弘凡与父亲责任各自独立",
+        "onboard_time": 1771160303,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 437799,
+        "num": 322864,
+        "word": "江苏东海通报烟花爆竹爆燃事故",
+        "onboard_time": 1771162582,
+        "rank": 11,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 343283,
+        "num": 321911,
+        "word": "冯远征妻子梁丹妮退休团拜会献舞",
+        "onboard_time": 1771160062,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 321490,
+        "num": 321490,
+        "word": "李宗恒小品 旧梗",
+        "onboard_time": 1771160841,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213991,
+        "num": 319155,
+        "word": "樊振东身穿中国红队服",
+        "onboard_time": 1771159100,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 318372,
+        "num": 318372,
+        "word": "大胖媳妇非教武大靖滑冰",
+        "onboard_time": 1771160240,
+        "rank": 15,
+        "category": "网红,体育"
+      },
+      {
+        "raw_hot": 314384,
+        "num": 314384,
+        "word": "黄子弘凡白鹿瞎掰王",
+        "onboard_time": 1771162582,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192760,
+        "num": 287929,
+        "word": "00后已经快奔三了",
+        "onboard_time": 1771153461,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 270899,
+        "num": 270899,
+        "word": "王菲凤凰传奇满屏雅俗通杀",
+        "onboard_time": 1771163003,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189030,
+        "num": 239148,
+        "word": "日本男子全文背滕王阁序免票进景区",
+        "onboard_time": 1771158862,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 389237,
+        "num": 234554,
+        "word": "男子聚会被下药提前离场躲过一劫",
+        "onboard_time": 1771145479,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221074,
+        "num": 221074,
+        "word": "白敬亭 宋轶",
+        "onboard_time": 1771120940,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214167,
+        "num": 214167,
+        "word": "王安宇胡先煦范丞丞家乡话拜年",
+        "onboard_time": 1771162582,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176184,
+        "num": 176184,
+        "word": "几杯去世",
+        "onboard_time": 1771137622,
+        "rank": 23,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 184652,
+        "num": 175081,
+        "word": "汪苏泷毛衣",
+        "onboard_time": 1771161202,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168055,
+        "num": 168055,
+        "word": "有人把4万元金饰剪碎做成美甲",
+        "onboard_time": 1771150040,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160041,
+        "num": 160041,
+        "word": "杨鸣好帅",
+        "onboard_time": 1771163963,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153655,
+        "num": 153655,
+        "word": "伤心swimming 预录取",
+        "onboard_time": 1771163123,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136213,
+        "num": 136213,
+        "word": "樊振东vs贾哈",
+        "onboard_time": 1771161922,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104694,
+        "num": 132368,
+        "word": "爱泼斯坦案名单竟出现梦露等人",
+        "onboard_time": 1771162463,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 132112,
+        "num": 132112,
+        "word": "河南下雪",
+        "onboard_time": 1771162822,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131661,
+        "num": 131661,
+        "word": "黄金和房子买哪个更保值",
+        "onboard_time": 1771161802,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 128322,
+        "num": 128322,
+        "word": "伤心swimming 语言成绩",
+        "onboard_time": 1771163602,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124287,
+        "num": 124287,
+        "word": "程晓玥自曝怀二胎吃了很多垃圾食品",
+        "onboard_time": 1771148481,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120299,
+        "num": 120299,
+        "word": "张水华爆火辞职后现状",
+        "onboard_time": 1771160421,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116318,
+        "num": 116318,
+        "word": "林孝埈用中文真诚回应",
+        "onboard_time": 1771162463,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115702,
+        "num": 115702,
+        "word": "黄金中事件 录音",
+        "onboard_time": 1771163783,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112983,
+        "num": 112983,
+        "word": "周深郎朗是对我耳朵最好的人",
+        "onboard_time": 1771163363,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 63549,
+        "num": 108227,
+        "word": "5人团队春节上门喂猫预计收入16万",
+        "onboard_time": 1771164022,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21358,
+        "num": 106017,
+        "word": "日警方被曝伪造2700张交通罚单",
+        "onboard_time": 1771163182,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 104368,
+        "num": 104368,
+        "word": "川渝春晚节目单",
+        "onboard_time": 1771161743,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102531,
+        "num": 102531,
+        "word": "曾舜晞星空舞台",
+        "onboard_time": 1771163783,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 100059,
+        "num": 100059,
+        "word": "单板滑雪男子坡障技巧预赛",
+        "onboard_time": 1771147159,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99383,
+        "num": 99383,
+        "word": "谷爱凌已获额外测试训练邀请",
+        "onboard_time": 1771163063,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98736,
+        "num": 98736,
+        "word": "烟花",
+        "onboard_time": 1771156760,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91723,
+        "num": 91723,
+        "word": "除夕夜微博抢红包攻略",
+        "onboard_time": 1771158322,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 90831,
+        "num": 90831,
+        "word": "辽宁春晚 于适骑马出场",
+        "onboard_time": 1771156281,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89663,
+        "num": 89663,
+        "word": "迪丽热巴说酒店不让贴春联",
+        "onboard_time": 1771150340,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89480,
+        "num": 89480,
+        "word": "女子打开野餐垫袋子掉出一条蛇",
+        "onboard_time": 1771158862,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87936,
+        "num": 87936,
+        "word": "Angelababy邓超即将合拍",
+        "onboard_time": 1771141580,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的声声祝福直抵人心#"
+    }
+  }
+}
