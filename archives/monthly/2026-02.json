@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1771152897901,
+  "endTime": 1771155085944,
   "band_list": [
     {
       "raw_hot": 12386962,
@@ -1347,6 +1347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 920665,
+      "num": 1147306,
+      "word": "千问红包雨",
+      "onboard_time": 1771147700,
+      "rank": 3,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 919498,
       "num": 1147119,
       "word": "人民日报红包",
@@ -1361,14 +1369,6 @@
       "onboard_time": 1770783859,
       "rank": 10,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 914445,
-      "num": 1146311,
-      "word": "千问红包雨",
-      "onboard_time": 1771147700,
-      "rank": 3,
-      "category": "互联网"
     },
     {
       "raw_hot": 912182,
@@ -3612,7 +3612,7 @@
     },
     {
       "raw_hot": 549044,
-      "num": 114822,
+      "num": 128897,
       "word": "程晓玥自曝怀二胎吃了很多垃圾食品",
       "onboard_time": 1771148481,
       "rank": 32,
@@ -3760,6 +3760,14 @@
       "word": "王菲 春晚",
       "onboard_time": 1770953061,
       "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 536406,
+      "num": 342007,
+      "word": "辽宁卫视春晚",
+      "onboard_time": 1771154540,
+      "rank": 5,
       "category": "综艺"
     },
     {
@@ -5011,6 +5019,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 443040,
+      "num": 443040,
+      "word": "苏翊鸣第二滑72.78分",
+      "onboard_time": 1771153101,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 442905,
       "num": 442905,
       "word": "隋文静摔倒",
@@ -5244,7 +5260,7 @@
     },
     {
       "raw_hot": 428687,
-      "num": 100716,
+      "num": 105793,
       "word": "迪丽热巴说酒店不让贴春联",
       "onboard_time": 1771150340,
       "rank": 29,
@@ -6987,6 +7003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 357472,
+      "num": 230490,
+      "word": "有人把4万元金饰剪碎做成美甲",
+      "onboard_time": 1771150040,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 356314,
       "num": 222851,
       "word": "穆祉丞比王橹杰还急",
@@ -7009,14 +7033,6 @@
       "onboard_time": 1770564200,
       "rank": 19,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 355422,
-      "num": 172361,
-      "word": "有人把4万元金饰剪碎做成美甲",
-      "onboard_time": 1771150040,
-      "rank": 10,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 355118,
@@ -8425,6 +8441,14 @@
       "onboard_time": 1771060340,
       "rank": 7,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 312161,
+      "num": 104268,
+      "word": "方家翊因整容鼻子修复3次",
+      "onboard_time": 1771151241,
+      "rank": 45,
+      "category": "网红"
     },
     {
       "raw_hot": 312147,
@@ -10331,6 +10355,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 260640,
+      "num": 260640,
+      "word": "王者年限销量排行",
+      "onboard_time": 1771152201,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 260390,
       "num": 167373,
       "word": "中国特警vs美国特警",
@@ -11883,6 +11915,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 231403,
+      "num": 231403,
+      "word": "00后已经快奔三了",
+      "onboard_time": 1771153461,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
       "raw_hot": 231282,
       "num": 186938,
       "word": "时代少年团 麦克风",
@@ -11993,6 +12033,14 @@
       "onboard_time": 1770790461,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 228990,
+      "num": 228990,
+      "word": "饶雪漫 黄圣依一个结节一个结节地长",
+      "onboard_time": 1771149560,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 228671,
@@ -12459,20 +12507,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 220239,
-      "num": 220239,
-      "word": "饶雪漫 黄圣依一个结节一个结节地长",
-      "onboard_time": 1771149560,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 220220,
       "num": 220220,
       "word": "杨紫直播",
       "onboard_time": 1770214762,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 220200,
+      "num": 220200,
+      "word": "辽宁春晚官宣节目单",
+      "onboard_time": 1771141519,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 220100,
@@ -13315,14 +13363,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 204538,
-      "num": 204538,
-      "word": "辽宁春晚官宣节目单",
-      "onboard_time": 1771141519,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 204200,
       "num": 204200,
       "word": "杨紫素颜拒用替身",
@@ -13441,6 +13481,14 @@
       "onboard_time": 1770626661,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 202176,
+      "num": 202176,
+      "word": "中国对加拿大英国免签",
+      "onboard_time": 1771151779,
+      "rank": 44,
+      "category": "国内时政"
     },
     {
       "raw_hot": 201903,
@@ -16169,6 +16217,14 @@
       "onboard_time": 1770542059,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 159299,
+      "num": 159299,
+      "word": "T1对战BFX",
+      "onboard_time": 1771146741,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 159266,
@@ -19091,14 +19147,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 132254,
-      "num": 88815,
-      "word": "方家翊因整容鼻子修复3次",
-      "onboard_time": 1771151241,
-      "rank": 45,
-      "category": "网红"
-    },
-    {
       "raw_hot": 132209,
       "num": 132209,
       "word": "前夫回应女子离世前留3000万给女儿",
@@ -19785,6 +19833,14 @@
       "onboard_time": 1771071200,
       "rank": 36,
       "category": "综艺,游戏"
+    },
+    {
+      "raw_hot": 127359,
+      "num": 127359,
+      "word": "川渝春晚",
+      "onboard_time": 1771154060,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 127338,
@@ -21201,6 +21257,14 @@
       "onboard_time": 1770855620,
       "rank": 25,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 118510,
+      "num": 88723,
+      "word": "庾晚音夏侯澹圆房",
+      "onboard_time": 1771152440,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 118507,
@@ -22945,14 +23009,6 @@
       "onboard_time": 1770615320,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 109792,
-      "num": 88723,
-      "word": "庾晚音夏侯澹圆房",
-      "onboard_time": 1771152440,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 109717,
@@ -28643,14 +28699,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 88993,
-      "num": 88993,
-      "word": "王者年限销量排行",
-      "onboard_time": 1771152201,
-      "rank": 33,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 88980,
       "num": 88980,
       "word": "30克金镯子2天降6000多元",
@@ -29945,6 +29993,14 @@
       "onboard_time": 1770201260,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 85108,
+      "num": 85108,
+      "word": "张博恒祝冬奥健儿新春快乐",
+      "onboard_time": 1771154540,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 85105,
@@ -32171,6 +32227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 77652,
+      "num": 77652,
+      "word": "余承东谈和特斯拉差距",
+      "onboard_time": 1771153042,
+      "rank": 44,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 77645,
       "num": 77645,
       "word": "英国国王遭民众大喊质问",
@@ -33235,14 +33299,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 73954,
-      "num": 77840,
-      "word": "T1对战BFX",
-      "onboard_time": 1771146741,
-      "rank": 36,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 73853,
       "num": 73853,
       "word": "2025体育十大热搜运动员",
@@ -33755,6 +33811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 71400,
+      "num": 71400,
+      "word": "周翊然直播",
+      "onboard_time": 1771154960,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 71354,
       "num": 71354,
       "word": "武大靖解说冬奥会引热议",
@@ -33849,6 +33913,14 @@
       "onboard_time": 1771025478,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 70886,
+      "num": 70886,
+      "word": "不会保存车厘子的有福了",
+      "onboard_time": 1771152800,
+      "rank": 47,
+      "category": "科学科普"
     },
     {
       "raw_hot": 70823,
@@ -34531,14 +34603,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 67078,
-      "num": 173783,
-      "word": "中国对加拿大英国免签",
-      "onboard_time": 1771151779,
-      "rank": 44,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 66976,
       "num": 66976,
       "word": "完全可以上春晚的程度",
@@ -34729,14 +34793,6 @@
       "onboard_time": 1770199700,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 65709,
-      "num": 65709,
-      "word": "不会保存车厘子的有福了",
-      "onboard_time": 1771152800,
-      "rank": 47,
-      "category": "科学科普"
     },
     {
       "raw_hot": 65683,
@@ -42481,6 +42537,14 @@
       "onboard_time": 1770980960,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18921,
+      "num": 195481,
+      "word": "千问口令红包",
+      "onboard_time": 1771153220,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 18875,
