@@ -1,6 +1,6 @@
 {
   "startTime": 1771087248939,
-  "endTime": 1771151833785,
+  "endTime": 1771152897901,
   "band_list": [
     {
       "raw_hot": 3500523,
@@ -35,19 +35,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 914445,
+      "num": 1146311,
+      "word": "千问红包雨",
+      "onboard_time": 1771147700,
+      "rank": 3,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 888248,
       "num": 1142119,
       "word": "2026红包分组",
       "onboard_time": 1771138999,
       "rank": 8,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 885337,
-      "num": 1141653,
-      "word": "千问红包雨",
-      "onboard_time": 1771147700,
-      "rank": 3,
       "category": "互联网"
     },
     {
@@ -163,7 +163,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 500299,
+      "raw_hot": 549044,
       "num": 114822,
       "word": "程晓玥自曝怀二胎吃了很多垃圾食品",
       "onboard_time": 1771148481,
@@ -211,6 +211,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 428687,
+      "num": 100716,
+      "word": "迪丽热巴说酒店不让贴春联",
+      "onboard_time": 1771150340,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 410487,
       "num": 225245,
       "word": "乡镇公务员相亲称现实有时远超感情",
@@ -241,6 +249,14 @@
       "onboard_time": 1771079844,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 388629,
+      "num": 388629,
+      "word": "苏翊鸣第一滑70.83分",
+      "onboard_time": 1771149020,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 386290,
@@ -299,6 +315,22 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 358111,
+      "num": 358111,
+      "word": "单板滑雪男子坡障技巧预赛",
+      "onboard_time": 1771147159,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 355422,
+      "num": 172361,
+      "word": "有人把4万元金饰剪碎做成美甲",
+      "onboard_time": 1771150040,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 343260,
       "num": 184332,
       "word": "赵今麦女团门面级别的美貌",
@@ -337,14 +369,6 @@
       "onboard_time": 1771142660,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 333554,
-      "num": 333554,
-      "word": "苏翊鸣第一滑70.83分",
-      "onboard_time": 1771149020,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 323852,
@@ -443,28 +467,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 287817,
-      "num": 287817,
-      "word": "单板滑雪男子坡障技巧预赛",
-      "onboard_time": 1771147159,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 287604,
       "num": 184250,
       "word": "奥巴马回应被特朗普恶搞成猴",
       "onboard_time": 1771143799,
       "rank": 12,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 287268,
-      "num": 157964,
-      "word": "有人把4万元金饰剪碎做成美甲",
-      "onboard_time": 1771150040,
-      "rank": 10,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 286236,
@@ -569,6 +577,14 @@
       "onboard_time": 1771145959,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 249337,
+      "num": 249337,
+      "word": "苏翊鸣坡面障碍技巧预赛",
+      "onboard_time": 1771148060,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 246669,
@@ -691,12 +707,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 221609,
-      "num": 94375,
-      "word": "迪丽热巴说酒店不让贴春联",
-      "onboard_time": 1771150340,
-      "rank": 29,
-      "category": "艺人"
+      "raw_hot": 220239,
+      "num": 220239,
+      "word": "饶雪漫 黄圣依一个结节一个结节地长",
+      "onboard_time": 1771149560,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 219043,
@@ -801,14 +817,6 @@
       "onboard_time": 1771123998,
       "rank": 14,
       "category": "财经"
-    },
-    {
-      "raw_hot": 196671,
-      "num": 196671,
-      "word": "饶雪漫 黄圣依一个结节一个结节地长",
-      "onboard_time": 1771149560,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 192293,
@@ -923,14 +931,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 155213,
-      "num": 155213,
-      "word": "苏翊鸣坡面障碍技巧预赛",
-      "onboard_time": 1771148060,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 151657,
       "num": 114200,
       "word": "霍启刚三兄弟飞米兰为父庆生",
@@ -985,6 +985,14 @@
       "onboard_time": 1771082662,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 132254,
+      "num": 88815,
+      "word": "方家翊因整容鼻子修复3次",
+      "onboard_time": 1771151241,
+      "rank": 45,
+      "category": "网红"
     },
     {
       "raw_hot": 129243,
@@ -1115,6 +1123,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110695,
+      "num": 110695,
+      "word": "中方对加拿大英国免签",
+      "onboard_time": 1771151779,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 109792,
+      "num": 88723,
+      "word": "庾晚音夏侯澹圆房",
+      "onboard_time": 1771152440,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 109627,
       "num": 109627,
       "word": "生命树多杰死因反转",
@@ -1171,6 +1195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 104267,
+      "num": 104267,
+      "word": "成何体统",
+      "onboard_time": 1771150279,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 101420,
       "num": 180205,
       "word": "差5分钟赶上回家火车女子崩溃大哭",
@@ -1209,6 +1241,14 @@
       "onboard_time": 1771135640,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 98884,
+      "num": 89430,
+      "word": "葛夕回应上春晚",
+      "onboard_time": 1771148900,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 98801,
@@ -1267,14 +1307,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 94532,
-      "num": 89430,
-      "word": "葛夕回应上春晚",
-      "onboard_time": 1771148900,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 94276,
       "num": 142206,
       "word": "千问总裁回应一夜爆火",
@@ -1331,12 +1363,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 88608,
-      "num": 87278,
-      "word": "成何体统",
-      "onboard_time": 1771150279,
-      "rank": 42,
-      "category": "剧集"
+      "raw_hot": 88993,
+      "num": 88993,
+      "word": "王者年限销量排行",
+      "onboard_time": 1771152201,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 88105,
@@ -1401,14 +1433,6 @@
       "onboard_time": 1771128319,
       "rank": 16,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 83861,
-      "num": 83861,
-      "word": "方家翊因整容鼻子修复3次",
-      "onboard_time": 1771151241,
-      "rank": 45,
-      "category": "网红"
     },
     {
       "raw_hot": 83091,
@@ -1731,14 +1755,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 69830,
-      "num": 69830,
-      "word": "中方对加拿大英国免签",
-      "onboard_time": 1771151779,
-      "rank": 49,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 69592,
       "num": 68828,
       "word": "英凯 清清进货式拓展人脉",
@@ -1843,12 +1859,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 67078,
+      "num": 173783,
+      "word": "中国对加拿大英国免签",
+      "onboard_time": 1771151779,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 66060,
       "num": 66060,
       "word": "国乒2026新年祝福",
       "onboard_time": 1771148780,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 65709,
+      "num": 65709,
+      "word": "不会保存车厘子的有福了",
+      "onboard_time": 1771152800,
+      "rank": 47,
+      "category": "科学科普"
     },
     {
       "raw_hot": 65401,
@@ -1865,6 +1897,22 @@
       "onboard_time": 1771144279,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 64498,
+      "num": 87876,
+      "word": "张萌 我不走这是我定的桌",
+      "onboard_time": 1771151539,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 64158,
+      "num": 64158,
+      "word": "好想看活人气息的朋友圈",
+      "onboard_time": 1771149560,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 63801,
@@ -2012,7 +2060,7 @@
     },
     {
       "raw_hot": 52956,
-      "num": 670119,
+      "num": 679150,
       "word": "咱们空间站过年氛围拉满了",
       "onboard_time": 1771147580,
       "rank": 2,
@@ -2027,7 +2075,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 52407,
+      "raw_hot": 52459,
       "num": 84760,
       "word": "已经定好了千问红包雨的闹钟了",
       "onboard_time": 1771149799,
@@ -2089,14 +2137,6 @@
       "onboard_time": 1771109475,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 47402,
-      "num": 87876,
-      "word": "张萌 我不走这是我定的桌",
-      "onboard_time": 1771151539,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 47265,
@@ -2441,14 +2481,6 @@
       "onboard_time": 1771141399,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 10184,
-      "num": 84179,
-      "word": "中国对加拿大英国免签",
-      "onboard_time": 1771151779,
-      "rank": 44,
-      "category": "国内时政"
     }
   ],
   "hotgov_list": [
