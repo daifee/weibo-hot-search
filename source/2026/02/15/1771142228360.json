@@ -1,0 +1,410 @@
+{
+  "runTime": 1771142228360,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 246497,
+        "num": 1039439,
+        "word": "谷爱凌被迫损失1天U池训练时间",
+        "onboard_time": 1771129639,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211578,
+        "num": 751196,
+        "word": "春晚是第一个用上Seedance2.0的",
+        "onboard_time": 1771135760,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18924,
+        "num": 583149,
+        "word": "过年放假模式已开启",
+        "onboard_time": 1771127479,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 311718,
+        "num": 493417,
+        "word": "迪丽热巴马年央视春晚",
+        "onboard_time": 1771141580,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216113,
+        "num": 462596,
+        "word": "2026红包分组",
+        "onboard_time": 1771138999,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 461945,
+        "num": 461945,
+        "word": "猫 算我求你了洗洗脚吧",
+        "onboard_time": 1771135760,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 291032,
+        "num": 291032,
+        "word": "春节偏财运爆表的星座",
+        "onboard_time": 1771137559,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 189500,
+        "num": 189500,
+        "word": "过年做美甲别窝囊",
+        "onboard_time": 1771130719,
+        "rank": 7,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 170721,
+        "num": 170721,
+        "word": "谷爱凌直言睡不太够想多休息",
+        "onboard_time": 1771135399,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157277,
+        "num": 157277,
+        "word": "郑钦文退赛",
+        "onboard_time": 1771141339,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 318600,
+        "num": 157177,
+        "word": "李沅禧购物视频被日本网友炎上",
+        "onboard_time": 1771138640,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248510,
+        "num": 156768,
+        "word": "宋威龙赵今麦抱着同一束花",
+        "onboard_time": 1771134680,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206573,
+        "num": 156185,
+        "word": "土耳其一航班上发生大规模斗殴",
+        "onboard_time": 1771134739,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 47726,
+        "num": 155688,
+        "word": "戴建业谈年味为什么变了",
+        "onboard_time": 1771139540,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61889,
+        "num": 155591,
+        "word": "千问30元钟点房一抢而空",
+        "onboard_time": 1771138880,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 47265,
+        "num": 154997,
+        "word": "被10万多人点赞的翟女士找到了",
+        "onboard_time": 1771141040,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154894,
+        "num": 154894,
+        "word": "副省长电话被拉黑后",
+        "onboard_time": 1771131319,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19192,
+        "num": 154825,
+        "word": "七成受访年轻人在悄悄攒金",
+        "onboard_time": 1771141519,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204681,
+        "num": 152766,
+        "word": "马年清清来送签名红包",
+        "onboard_time": 1771131859,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 25706,
+        "num": 151749,
+        "word": "男子驾车返乡途中被猫锁在车外",
+        "onboard_time": 1771141339,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2267167,
+        "num": 150914,
+        "word": "几杯去世",
+        "onboard_time": 1771137622,
+        "rank": 20,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 985184,
+        "num": 148471,
+        "word": "白敬亭 宋轶",
+        "onboard_time": 1771120940,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197564,
+        "num": 148238,
+        "word": "Angelababy撕拉片 权威脸蛋",
+        "onboard_time": 1771127960,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260224,
+        "num": 146503,
+        "word": "建议大家千万不要一边做一边怀疑",
+        "onboard_time": 1771137622,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 349564,
+        "num": 144740,
+        "word": "小S小女儿长大了",
+        "onboard_time": 1771136419,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219372,
+        "num": 143713,
+        "word": "伤心swimming爆料后再怒发8条",
+        "onboard_time": 1771135640,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143139,
+        "num": 143139,
+        "word": "27岁乡村女教师相亲20次",
+        "onboard_time": 1771132340,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42044,
+        "num": 137903,
+        "word": "千问再次激活群聊",
+        "onboard_time": 1771138999,
+        "rank": 27,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 210090,
+        "num": 133225,
+        "word": "宋轶 情侣背景",
+        "onboard_time": 1771120879,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100491,
+        "num": 129915,
+        "word": "马年春晚部分节目单曝光",
+        "onboard_time": 1771115239,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186147,
+        "num": 123360,
+        "word": "郭富城王一博 法拉利遇上兰博基尼",
+        "onboard_time": 1771126339,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 122030,
+        "num": 122030,
+        "word": "乡镇公务员相亲称现实有时远超感情",
+        "onboard_time": 1771129218,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171295,
+        "num": 116156,
+        "word": "陪宋威龙忍住什么",
+        "onboard_time": 1771137980,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164685,
+        "num": 112829,
+        "word": "Angelababy邓超即将合拍",
+        "onboard_time": 1771141580,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106375,
+        "num": 106375,
+        "word": "Faker与Uzi迎来名人堂新成员",
+        "onboard_time": 1771135039,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 161620,
+        "num": 106043,
+        "word": "迪丽热巴六点多就起床健身",
+        "onboard_time": 1771132340,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140089,
+        "num": 102486,
+        "word": "吴迪说后悔生三个孩子",
+        "onboard_time": 1771141999,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 97767,
+        "num": 97767,
+        "word": "甚至都没把你孩子当人看",
+        "onboard_time": 1771140140,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 83444,
+        "num": 83444,
+        "word": "千问超级免单卡在闲鱼杀疯了",
+        "onboard_time": 1771138580,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 14547,
+        "num": 83429,
+        "word": "属马的人在古代可能属鹿",
+        "onboard_time": 1771141399,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139189,
+        "num": 83240,
+        "word": "奥斯卡回应什么时候和孙乐言结婚",
+        "onboard_time": 1771140620,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116925,
+        "num": 83087,
+        "word": "辽宁春晚官宣节目单",
+        "onboard_time": 1771141519,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89757,
+        "num": 82954,
+        "word": "女子左手被50吨冲床碾成泥",
+        "onboard_time": 1771122559,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101756,
+        "num": 82841,
+        "word": "王菲春晚歌曲原唱乐队毕业于北大",
+        "onboard_time": 1771138999,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91710,
+        "num": 82658,
+        "word": "张予曦返场cos小舞",
+        "onboard_time": 1771140198,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79647,
+        "num": 82545,
+        "word": "大疆前销售副总裁被刑拘",
+        "onboard_time": 1771139599,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82491,
+        "num": 82491,
+        "word": "王鹤棣比马丁大十岁",
+        "onboard_time": 1771134619,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80330,
+        "num": 80330,
+        "word": "律师解读黄子弘凡父亲被曝诈骗学生",
+        "onboard_time": 1771140438,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73868,
+        "num": 79220,
+        "word": "出去一个好留子回来一个好厨子",
+        "onboard_time": 1771138699,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 79131,
+        "num": 79131,
+        "word": "白鹿7天10组物料",
+        "onboard_time": 1771125679,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#热气腾腾的中国年#"
+    }
+  }
+}

@@ -1,10 +1,10 @@
 {
   "startTime": 1771087248939,
-  "endTime": 1771141426372,
+  "endTime": 1771142228360,
   "band_list": [
     {
       "raw_hot": 3500523,
-      "num": 147019,
+      "num": 150914,
       "word": "几杯去世",
       "onboard_time": 1771137622,
       "rank": 10,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 475196,
-      "num": 459374,
+      "num": 461945,
       "word": "猫 算我求你了洗洗脚吧",
       "onboard_time": 1771135760,
       "rank": 36,
@@ -243,6 +243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 318600,
+      "num": 157177,
+      "word": "李沅禧购物视频被日本网友炎上",
+      "onboard_time": 1771138640,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 314756,
       "num": 226359,
       "word": "迪丽热巴六点多就起床健身",
@@ -265,6 +273,14 @@
       "onboard_time": 1771134680,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 311718,
+      "num": 493417,
+      "word": "迪丽热巴马年央视春晚",
+      "onboard_time": 1771141580,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 309997,
@@ -307,20 +323,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 291032,
+      "num": 291032,
+      "word": "春节偏财运爆表的星座",
+      "onboard_time": 1771137559,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 286236,
       "num": 119963,
       "word": "伤心swimming发完整时间线",
       "onboard_time": 1771116200,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 283489,
-      "num": 283489,
-      "word": "春节偏财运爆表的星座",
-      "onboard_time": 1771137559,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 281660,
@@ -379,20 +395,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 260224,
+      "num": 146503,
+      "word": "建议大家千万不要一边做一边怀疑",
+      "onboard_time": 1771137622,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 256790,
       "num": 145586,
       "word": "伤心swimming爆料后再怒发8条",
       "onboard_time": 1771135640,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 252910,
-      "num": 145743,
-      "word": "建议大家千万不要一边做一边怀疑",
-      "onboard_time": 1771137622,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 246669,
@@ -417,14 +433,6 @@
       "onboard_time": 1771110737,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 244344,
-      "num": 144164,
-      "word": "李沅禧购物视频被日本网友炎上",
-      "onboard_time": 1771138640,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 244286,
@@ -539,6 +547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 216113,
+      "num": 505737,
+      "word": "2026红包分组",
+      "onboard_time": 1771138999,
+      "rank": 8,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 213109,
       "num": 123878,
       "word": "河南春晚 大量广告里穿插了少量节目",
@@ -627,20 +643,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 184748,
-      "num": 505737,
-      "word": "2026红包分组",
-      "onboard_time": 1771138999,
-      "rank": 8,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 174904,
       "num": 174904,
       "word": "谷爱凌第一跳86.00分",
       "onboard_time": 1771095796,
       "rank": 3,
       "category": "民生新闻,体育"
+    },
+    {
+      "raw_hot": 170721,
+      "num": 170721,
+      "word": "谷爱凌直言睡不太够想多休息",
+      "onboard_time": 1771135399,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 169060,
@@ -657,6 +673,14 @@
       "onboard_time": 1771123279,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 164685,
+      "num": 112829,
+      "word": "Angelababy邓超即将合拍",
+      "onboard_time": 1771141580,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 164217,
@@ -681,6 +705,14 @@
       "onboard_time": 1771076902,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 157277,
+      "num": 157277,
+      "word": "郑钦文退赛",
+      "onboard_time": 1771141339,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 157048,
@@ -723,11 +755,27 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 140089,
+      "num": 102486,
+      "word": "吴迪说后悔生三个孩子",
+      "onboard_time": 1771141999,
+      "rank": 36,
+      "category": "网红"
+    },
+    {
       "raw_hot": 139793,
       "num": 139793,
       "word": "王鹤棣比马丁大十岁",
       "onboard_time": 1771134619,
       "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 139189,
+      "num": 116961,
+      "word": "奥斯卡回应什么时候和孙乐言结婚",
+      "onboard_time": 1771140620,
+      "rank": 32,
       "category": "艺人"
     },
     {
@@ -753,14 +801,6 @@
       "onboard_time": 1771076902,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 128013,
-      "num": 146052,
-      "word": "谷爱凌直言睡不太够想多休息",
-      "onboard_time": 1771135399,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 126464,
@@ -827,19 +867,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 116961,
-      "num": 116961,
-      "word": "奥斯卡回应什么时候和孙乐言结婚",
-      "onboard_time": 1771140620,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 116933,
       "num": 116933,
       "word": "王菲春晚后台路透",
       "onboard_time": 1771111338,
       "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 116925,
+      "num": 83087,
+      "word": "辽宁春晚官宣节目单",
+      "onboard_time": 1771141519,
+      "rank": 41,
       "category": "综艺"
     },
     {
@@ -987,6 +1027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 97767,
+      "num": 97767,
+      "word": "甚至都没把你孩子当人看",
+      "onboard_time": 1771140140,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 96796,
       "num": 224482,
       "word": "大阪持刀伤人事件致1死2伤",
@@ -1009,14 +1057,6 @@
       "onboard_time": 1771139599,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 93544,
-      "num": 93544,
-      "word": "甚至都没把你孩子当人看",
-      "onboard_time": 1771140140,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 91289,
@@ -1099,14 +1139,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 83057,
-      "num": 97798,
-      "word": "郑钦文退赛",
-      "onboard_time": 1771141339,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 82656,
       "num": 82656,
       "word": "石凯钓鱼",
@@ -1144,6 +1176,14 @@
       "word": "时代少年团活整到蛇年最后一天了",
       "onboard_time": 1771133720,
       "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 80330,
+      "num": 80330,
+      "word": "律师解读黄子弘凡父亲被曝诈骗学生",
+      "onboard_time": 1771140438,
+      "rank": 49,
       "category": "艺人"
     },
     {
@@ -1212,7 +1252,7 @@
     },
     {
       "raw_hot": 76478,
-      "num": 76478,
+      "num": 79220,
       "word": "出去一个好留子回来一个好厨子",
       "onboard_time": 1771138699,
       "rank": 43,
@@ -1268,7 +1308,7 @@
     },
     {
       "raw_hot": 72828,
-      "num": 144271,
+      "num": 155688,
       "word": "戴建业谈年味为什么变了",
       "onboard_time": 1771139540,
       "rank": 28,
@@ -1340,7 +1380,7 @@
     },
     {
       "raw_hot": 70283,
-      "num": 146583,
+      "num": 155591,
       "word": "千问30元钟点房一抢而空",
       "onboard_time": 1771138880,
       "rank": 14,
@@ -1353,14 +1393,6 @@
       "onboard_time": 1771120821,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 69701,
-      "num": 69701,
-      "word": "律师解读黄子弘凡父亲被曝诈骗学生",
-      "onboard_time": 1771140438,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 69592,
@@ -1643,6 +1675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 47265,
+      "num": 154997,
+      "word": "被10万多人点赞的翟女士找到了",
+      "onboard_time": 1771141040,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46783,
       "num": 147165,
       "word": "中国AI改变电影制作让老外惊叹",
@@ -1705,14 +1745,6 @@
       "onboard_time": 1771088718,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 35540,
-      "num": 126423,
-      "word": "被10万多人点赞的翟女士找到了",
-      "onboard_time": 1771141040,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 32271,
@@ -1803,6 +1835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25706,
+      "num": 151749,
+      "word": "男子驾车返乡途中被猫锁在车外",
+      "onboard_time": 1771141339,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25063,
       "num": 118546,
       "word": "法医解读爱泼斯坦真正死因",
@@ -1859,6 +1899,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 19192,
+      "num": 154825,
+      "word": "七成受访年轻人在悄悄攒金",
+      "onboard_time": 1771141519,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18700,
       "num": 22432,
       "word": "苏新皓情人节礼物",
@@ -1899,15 +1947,7 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 10503,
-      "num": 118286,
-      "word": "男子驾车返乡途中被猫锁在车外",
-      "onboard_time": 1771141339,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 6354,
+      "raw_hot": 14547,
       "num": 96143,
       "word": "属马的人在古代可能属鹿",
       "onboard_time": 1771141399,
