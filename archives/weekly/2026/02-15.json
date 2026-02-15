@@ -1,6 +1,6 @@
 {
   "startTime": 1771087248939,
-  "endTime": 1771187816567,
+  "endTime": 1771188693345,
   "band_list": [
     {
       "raw_hot": 3500523,
@@ -3139,6 +3139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 32956,
+      "num": 32956,
+      "word": "田曦薇首登央视春晚",
+      "onboard_time": 1771182795,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 32271,
       "num": 41789,
       "word": "李健总台马年春晚首发单曲公布",
@@ -3257,14 +3265,6 @@
       "onboard_time": 1771161262,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 27172,
-      "num": 27172,
-      "word": "田曦薇首登央视春晚",
-      "onboard_time": 1771182795,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 27143,
