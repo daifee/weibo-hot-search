@@ -1,6 +1,6 @@
 {
   "startTime": 1771087248939,
-  "endTime": 1771195933404,
+  "endTime": 1771198559445,
   "band_list": [
     {
       "raw_hot": 3500523,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 3070536,
-      "num": 550075,
+      "num": 876339,
       "word": "红包",
       "onboard_time": 1771050141,
       "rank": 5,
@@ -1275,6 +1275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 170130,
+      "num": 619875,
+      "word": "升温后有东北人500斤年货无处安放",
+      "onboard_time": 1771170082,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 169060,
       "num": 202473,
       "word": "Faker与Uzi迎来名人堂新成员",
@@ -1361,6 +1369,14 @@
       "onboard_time": 1771148839,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 157213,
+      "num": 157213,
+      "word": "除夕",
+      "onboard_time": 1771198338,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 157048,
@@ -1763,6 +1779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 107634,
+      "num": 136503,
+      "word": "有人提前2天上高速省1400元高速费",
+      "onboard_time": 1771169422,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107352,
       "num": 107352,
       "word": "狗 没大没小的",
@@ -1785,14 +1809,6 @@
       "onboard_time": 1771161501,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 105564,
-      "num": 136503,
-      "word": "有人提前2天上高速省1400元高速费",
-      "onboard_time": 1771169422,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 104951,
@@ -1825,6 +1841,14 @@
       "onboard_time": 1771163783,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 102281,
+      "num": 102281,
+      "word": "县公务员称合适比喜欢更长久",
+      "onboard_time": 1771170322,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 101420,
@@ -1881,6 +1905,14 @@
       "onboard_time": 1771148900,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 98831,
+      "num": 98831,
+      "word": "除夕文案",
+      "onboard_time": 1771198338,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 98801,
@@ -1963,6 +1995,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 96206,
+      "num": 59973,
+      "word": "5种炎症时间长了可能会变癌症",
+      "onboard_time": 1771198277,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 95731,
+      "num": 95731,
+      "word": "男子录下与妻子共舞不速之客加入",
+      "onboard_time": 1771198397,
+      "rank": 8,
+      "category": "情感"
+    },
+    {
       "raw_hot": 94276,
       "num": 142206,
       "word": "千问总裁回应一夜爆火",
@@ -1993,6 +2041,14 @@
       "onboard_time": 1771158381,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 93391,
+      "num": 93391,
+      "word": "罗翔说人类不应该树立人造的偶像",
+      "onboard_time": 1771198517,
+      "rank": 9,
+      "category": "情感"
     },
     {
       "raw_hot": 91837,
@@ -2057,14 +2113,6 @@
       "onboard_time": 1771138580,
       "rank": 39,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 88412,
-      "num": 394347,
-      "word": "升温后有东北人500斤年货无处安放",
-      "onboard_time": 1771170082,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 88409,
@@ -2139,12 +2187,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 86012,
+      "num": 86012,
+      "word": "隋文静韩聪短节目72.66分",
+      "onboard_time": 1771182974,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 85778,
       "num": 85778,
       "word": "年轻人备的年货",
       "onboard_time": 1771143021,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 85525,
+      "num": 57123,
+      "word": "杜海涛晒与沈梦辰情人节约会照",
+      "onboard_time": 1771198037,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 85108,
@@ -2283,14 +2347,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 79244,
-      "num": 79244,
-      "word": "县公务员称合适比喜欢更长久",
-      "onboard_time": 1771170322,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 79061,
       "num": 172774,
       "word": "刘少昂说我们没有planB",
@@ -2411,6 +2467,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 74658,
+      "num": 47161,
+      "word": "王菲还未唱已带火你我经历的一刻",
+      "onboard_time": 1771198217,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 74422,
       "num": 74422,
       "word": "中国成奔驰跌幅最大单一市场",
@@ -2433,6 +2497,14 @@
       "onboard_time": 1771095736,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 72900,
+      "num": 72900,
+      "word": "女子回应徒步3000公里后发现怀孕",
+      "onboard_time": 1771198457,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 72828,
@@ -2947,14 +3019,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 50257,
-      "num": 53099,
-      "word": "隋文静韩聪短节目72.66分",
-      "onboard_time": 1771182974,
-      "rank": 4,
-      "category": "体育"
-    },
-    {
       "raw_hot": 50252,
       "num": 76791,
       "word": "安徽一女子称买零食抽中10克金条",
@@ -3027,6 +3091,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 46128,
+      "num": 46128,
+      "word": "田曦薇首登央视春晚",
+      "onboard_time": 1771182795,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 45395,
       "num": 45395,
       "word": "隋文静韩聪双人滑短节目",
@@ -3040,6 +3112,14 @@
       "word": "中国队无缘女子3000米接力决赛",
       "onboard_time": 1771107134,
       "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 42344,
+      "num": 42344,
+      "word": "2026NBA全明星",
+      "onboard_time": 1771196776,
+      "rank": 32,
       "category": "体育"
     },
     {
@@ -3107,14 +3187,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 35479,
-      "num": 35479,
-      "word": "田曦薇首登央视春晚",
-      "onboard_time": 1771182795,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 34126,
       "num": 99917,
       "word": "湖北省博保洁因擦玻璃0水渍走红",
@@ -3153,6 +3225,14 @@
       "onboard_time": 1771111097,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 32003,
+      "num": 32003,
+      "word": "用砂糖橘制作马年小橘灯",
+      "onboard_time": 1771194434,
+      "rank": 43,
+      "category": "休闲"
     },
     {
       "raw_hot": 31932,
@@ -3289,6 +3369,14 @@
       "onboard_time": 1771141339,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25642,
+      "num": 31964,
+      "word": "和平精英",
+      "onboard_time": 1771198457,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 25063,
@@ -3491,6 +3579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 18011,
+      "num": 512642,
+      "word": "骏马贺新春电子贺卡",
+      "onboard_time": 1771193774,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 17921,
       "num": 100232,
       "word": "喵娲娲除夕要发30万红包",
@@ -3563,28 +3659,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 16208,
-      "num": 23031,
-      "word": "用砂糖橘制作马年小橘灯",
-      "onboard_time": 1771194434,
-      "rank": 43,
-      "category": "休闲"
-    },
-    {
       "raw_hot": 15612,
       "num": 26848,
       "word": "惊蛰无声芭莎电影新春封面",
       "onboard_time": 1771182255,
       "rank": 44,
       "category": "电影"
-    },
-    {
-      "raw_hot": 15535,
-      "num": 303405,
-      "word": "骏马贺新春电子贺卡",
-      "onboard_time": 1771193774,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 14758,
