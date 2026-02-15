@@ -1,6 +1,6 @@
 {
   "startTime": 1771087248939,
-  "endTime": 1771148474649,
+  "endTime": 1771149386813,
   "band_list": [
     {
       "raw_hot": 3500523,
@@ -35,6 +35,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 888248,
+      "num": 1142119,
+      "word": "2026红包分组",
+      "onboard_time": 1771138999,
+      "rank": 8,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 794263,
+      "num": 841169,
+      "word": "千问红包雨",
+      "onboard_time": 1771147700,
+      "rank": 3,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 734787,
       "num": 196450,
       "word": "宋轶 情侣背景",
@@ -49,14 +65,6 @@
       "onboard_time": 1771081523,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 710871,
-      "num": 1113739,
-      "word": "2026红包分组",
-      "onboard_time": 1771138999,
-      "rank": 8,
-      "category": "互联网"
     },
     {
       "raw_hot": 672454,
@@ -235,14 +243,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 381438,
-      "num": 381438,
-      "word": "千问红包雨",
-      "onboard_time": 1771147700,
-      "rank": 3,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 375457,
       "num": 117268,
       "word": "黄子弘凡爸爸是国家一级演员",
@@ -355,20 +355,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 311633,
+      "num": 311633,
+      "word": "男子在胖东来买5000元年货花500寄出",
+      "onboard_time": 1771146199,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 309997,
       "num": 719833,
       "word": "林孝埈1500米摔倒",
       "onboard_time": 1771098015,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 306529,
-      "num": 306529,
-      "word": "男子在胖东来买5000元年货花500寄出",
-      "onboard_time": 1771146199,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 305832,
@@ -384,6 +384,14 @@
       "word": "千问红包",
       "onboard_time": 1771072762,
       "rank": 4,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 303669,
+      "num": 141709,
+      "word": "红包分组",
+      "onboard_time": 1771062620,
+      "rank": 7,
       "category": "互联网"
     },
     {
@@ -436,7 +444,7 @@
     },
     {
       "raw_hot": 277552,
-      "num": 205486,
+      "num": 218456,
       "word": "原来侯佩岑三岁时就有明星相",
       "onboard_time": 1771144400,
       "rank": 8,
@@ -449,6 +457,14 @@
       "onboard_time": 1771131441,
       "rank": 42,
       "category": "网红"
+    },
+    {
+      "raw_hot": 270081,
+      "num": 270081,
+      "word": "单板滑雪男子坡障技巧预赛",
+      "onboard_time": 1771147159,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 269837,
@@ -499,6 +515,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 257103,
+      "num": 115015,
+      "word": "宋亚轩去了新疆",
+      "onboard_time": 1771147159,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 256790,
       "num": 145586,
       "word": "伤心swimming爆料后再怒发8条",
@@ -507,8 +531,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 248748,
-      "num": 94622,
+      "raw_hot": 250240,
+      "num": 115031,
       "word": "签约前买家突然砍价40万房东怒了",
       "onboard_time": 1771145959,
       "rank": 24,
@@ -537,6 +561,14 @@
       "onboard_time": 1771110737,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 244534,
+      "num": 114896,
+      "word": "黄一鸣整下巴了",
+      "onboard_time": 1771147880,
+      "rank": 34,
+      "category": "网红"
     },
     {
       "raw_hot": 244286,
@@ -635,6 +667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 222545,
+      "num": 114822,
+      "word": "程晓玥自曝怀二胎吃了很多垃圾食品",
+      "onboard_time": 1771148481,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 219043,
       "num": 227300,
       "word": "外语专业大退潮曾经的王牌不香了",
@@ -665,14 +705,6 @@
       "onboard_time": 1771087579,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 217098,
-      "num": 93020,
-      "word": "宋亚轩去了新疆",
-      "onboard_time": 1771147159,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 213109,
@@ -771,14 +803,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 186435,
-      "num": 186435,
-      "word": "单板滑雪男子坡障技巧预赛",
-      "onboard_time": 1771147159,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 175353,
       "num": 120396,
       "word": "结婚20年给妻子转52给情人转21万",
@@ -859,6 +883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 155213,
+      "num": 155213,
+      "word": "苏翊鸣坡面障碍技巧预赛",
+      "onboard_time": 1771148060,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 151657,
       "num": 114200,
       "word": "霍启刚三兄弟飞米兰为父庆生",
@@ -881,14 +913,6 @@
       "onboard_time": 1771073722,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 141709,
-      "num": 141709,
-      "word": "红包分组",
-      "onboard_time": 1771062620,
-      "rank": 7,
-      "category": "互联网"
     },
     {
       "raw_hot": 139793,
@@ -937,14 +961,6 @@
       "onboard_time": 1771079062,
       "rank": 8,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 124130,
-      "num": 90353,
-      "word": "黄一鸣整下巴了",
-      "onboard_time": 1771147880,
-      "rank": 34,
-      "category": "网红"
     },
     {
       "raw_hot": 121800,
@@ -1051,6 +1067,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 112774,
+      "num": 112774,
+      "word": "苏翊鸣第一滑70.83分",
+      "onboard_time": 1771149020,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 112440,
       "num": 112440,
       "word": "苏翊鸣第10位登场",
@@ -1113,14 +1137,6 @@
       "onboard_time": 1771138999,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 102939,
-      "num": 102939,
-      "word": "苏翊鸣坡面障碍技巧预赛",
-      "onboard_time": 1771148060,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 101420,
@@ -1212,7 +1228,7 @@
     },
     {
       "raw_hot": 94276,
-      "num": 134065,
+      "num": 142206,
       "word": "千问总裁回应一夜爆火",
       "onboard_time": 1771146080,
       "rank": 14,
@@ -1379,6 +1395,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 80877,
+      "num": 80877,
+      "word": "豆包Seedance2.0折服百万海外网友",
+      "onboard_time": 1771149020,
+      "rank": 43,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 80579,
+      "num": 80579,
+      "word": "权志龙新challenge",
+      "onboard_time": 1771148180,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 80330,
       "num": 80330,
       "word": "律师解读黄子弘凡父亲被曝诈骗学生",
@@ -1475,6 +1507,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 75756,
+      "num": 137921,
+      "word": "苏翊鸣主要竞争对手退赛",
+      "onboard_time": 1771148780,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 75618,
       "num": 75618,
       "word": "英语口语水平恐怕在我之上",
@@ -1513,6 +1553,14 @@
       "onboard_time": 1771146741,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 73849,
+      "num": 71995,
+      "word": "葛夕回应上春晚",
+      "onboard_time": 1771148900,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 73095,
@@ -1635,6 +1683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 69265,
+      "num": 69265,
+      "word": "学校很好的朋友寒假根本不联系",
+      "onboard_time": 1771148958,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 69253,
       "num": 69253,
       "word": "刘少昂回应摔倒",
@@ -1657,14 +1713,6 @@
       "onboard_time": 1771075943,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 69144,
-      "num": 69144,
-      "word": "权志龙新challenge",
-      "onboard_time": 1771148180,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 68983,
@@ -1721,6 +1769,14 @@
       "onboard_time": 1771125919,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 66060,
+      "num": 66060,
+      "word": "国乒2026新年祝福",
+      "onboard_time": 1771148780,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 65401,
@@ -1884,7 +1940,7 @@
     },
     {
       "raw_hot": 52956,
-      "num": 637400,
+      "num": 647072,
       "word": "咱们空间站过年氛围拉满了",
       "onboard_time": 1771147580,
       "rank": 2,
@@ -2033,6 +2089,22 @@
       "onboard_time": 1771143799,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34126,
+      "num": 99917,
+      "word": "湖北省博保洁因擦玻璃0水渍走红",
+      "onboard_time": 1771148601,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33627,
+      "num": 169170,
+      "word": "苏翊鸣第一滑稳健开局",
+      "onboard_time": 1771148839,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 32271,
@@ -2249,6 +2321,14 @@
       "onboard_time": 1771145000,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17425,
+      "num": 115363,
+      "word": "王毅和德国总理比身高",
+      "onboard_time": 1771148839,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 17333,

@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1771148474649,
+  "endTime": 1771149386813,
   "band_list": [
     {
       "raw_hot": 12386962,
@@ -1451,6 +1451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 888248,
+      "num": 1142119,
+      "word": "2026红包分组",
+      "onboard_time": 1771138999,
+      "rank": 8,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 886574,
       "num": 1141851,
       "word": "快手发文致歉",
@@ -1833,6 +1841,14 @@
       "onboard_time": 1770735983,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 794263,
+      "num": 841169,
+      "word": "千问红包雨",
+      "onboard_time": 1771147700,
+      "rank": 3,
+      "category": "互联网"
     },
     {
       "raw_hot": 793572,
@@ -2249,14 +2265,6 @@
       "onboard_time": 1770724761,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 710871,
-      "num": 1113739,
-      "word": "2026红包分组",
-      "onboard_time": 1771138999,
-      "rank": 8,
-      "category": "互联网"
     },
     {
       "raw_hot": 708148,
@@ -6235,14 +6243,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 381438,
-      "num": 381438,
-      "word": "千问红包雨",
-      "onboard_time": 1771147700,
-      "rank": 3,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 381072,
       "num": 381072,
       "word": "GEN对战HLE",
@@ -8379,6 +8379,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 311633,
+      "num": 311633,
+      "word": "男子在胖东来买5000元年货花500寄出",
+      "onboard_time": 1771146199,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 311593,
       "num": 311593,
       "word": "汕头4200一晚的亚朵已订满",
@@ -8529,14 +8537,6 @@
       "onboard_time": 1770477322,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 306529,
-      "num": 306529,
-      "word": "男子在胖东来买5000元年货花500寄出",
-      "onboard_time": 1771146199,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 306319,
@@ -9644,7 +9644,7 @@
     },
     {
       "raw_hot": 277552,
-      "num": 205486,
+      "num": 218456,
       "word": "原来侯佩岑三岁时就有明星相",
       "onboard_time": 1771144400,
       "rank": 8,
@@ -9905,6 +9905,14 @@
       "onboard_time": 1770788362,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 270081,
+      "num": 270081,
+      "word": "单板滑雪男子坡障技巧预赛",
+      "onboard_time": 1771147159,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 270073,
@@ -10427,6 +10435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 257103,
+      "num": 115015,
+      "word": "宋亚轩去了新疆",
+      "onboard_time": 1771147159,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 256790,
       "num": 145586,
       "word": "伤心swimming爆料后再怒发8条",
@@ -10739,6 +10755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 250240,
+      "num": 115031,
+      "word": "签约前买家突然砍价40万房东怒了",
+      "onboard_time": 1771145959,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 249679,
       "num": 176209,
       "word": "马斯克感慨Seedance2.0发展快",
@@ -10800,14 +10824,6 @@
       "word": "12306回应高铁座椅钻出活蜥蜴",
       "onboard_time": 1770728421,
       "rank": 45,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 248748,
-      "num": 94622,
-      "word": "签约前买家突然砍价40万房东怒了",
-      "onboard_time": 1771145959,
-      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -11081,6 +11097,14 @@
       "onboard_time": 1770105261,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 244534,
+      "num": 114896,
+      "word": "黄一鸣整下巴了",
+      "onboard_time": 1771147880,
+      "rank": 34,
+      "category": "网红"
     },
     {
       "raw_hot": 244177,
@@ -12291,6 +12315,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 222545,
+      "num": 114822,
+      "word": "程晓玥自曝怀二胎吃了很多垃圾食品",
+      "onboard_time": 1771148481,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 222494,
       "num": 222494,
       "word": "网友称买到无座票在静音车厢被劝离",
@@ -12569,14 +12601,6 @@
       "onboard_time": 1770298228,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 217098,
-      "num": 93020,
-      "word": "宋亚轩去了新疆",
-      "onboard_time": 1771147159,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 216960,
@@ -14297,14 +14321,6 @@
       "onboard_time": 1770088100,
       "rank": 34,
       "category": "财经"
-    },
-    {
-      "raw_hot": 186435,
-      "num": 186435,
-      "word": "单板滑雪男子坡障技巧预赛",
-      "onboard_time": 1771147159,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 186375,
@@ -16433,6 +16449,14 @@
       "onboard_time": 1770451580,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 155213,
+      "num": 155213,
+      "word": "苏翊鸣坡面障碍技巧预赛",
+      "onboard_time": 1771148060,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 155031,
@@ -20099,14 +20123,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 124130,
-      "num": 90353,
-      "word": "黄一鸣整下巴了",
-      "onboard_time": 1771147880,
-      "rank": 34,
-      "category": "网红"
-    },
-    {
       "raw_hot": 124092,
       "num": 124092,
       "word": "一诺浮潜",
@@ -22289,6 +22305,14 @@
       "onboard_time": 1769909360,
       "rank": 27,
       "category": "财经"
+    },
+    {
+      "raw_hot": 112774,
+      "num": 112774,
+      "word": "苏翊鸣第一滑70.83分",
+      "onboard_time": 1771149020,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 112767,
@@ -24623,14 +24647,6 @@
       "num": 181610,
       "word": "谷爱凌青花瓷龙战袍绝美",
       "onboard_time": 1770649466,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 102939,
-      "num": 102939,
-      "word": "苏翊鸣坡面障碍技巧预赛",
-      "onboard_time": 1771148060,
       "rank": 17,
       "category": "体育"
     },
@@ -27012,7 +27028,7 @@
     },
     {
       "raw_hot": 94276,
-      "num": 134065,
+      "num": 142206,
       "word": "千问总裁回应一夜爆火",
       "onboard_time": 1771146080,
       "rank": 14,
@@ -31059,6 +31075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 80877,
+      "num": 80877,
+      "word": "豆包Seedance2.0折服百万海外网友",
+      "onboard_time": 1771149020,
+      "rank": 43,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 80830,
       "num": 80830,
       "word": "乌拉圭总统见到烤红薯表情亮了",
@@ -31161,6 +31185,14 @@
       "onboard_time": 1770170359,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 80579,
+      "num": 80579,
+      "word": "权志龙新challenge",
+      "onboard_time": 1771148180,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 80573,
@@ -32659,6 +32691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 75756,
+      "num": 137921,
+      "word": "苏翊鸣主要竞争对手退赛",
+      "onboard_time": 1771148780,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 75618,
       "num": 75618,
       "word": "英语口语水平恐怕在我之上",
@@ -33129,6 +33169,14 @@
       "onboard_time": 1770991522,
       "rank": 44,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 73849,
+      "num": 71995,
+      "word": "葛夕回应上春晚",
+      "onboard_time": 1771148900,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 73804,
@@ -33939,6 +33987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 69265,
+      "num": 69265,
+      "word": "学校很好的朋友寒假根本不联系",
+      "onboard_time": 1771148958,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 69253,
       "num": 69253,
       "word": "刘少昂回应摔倒",
@@ -33961,14 +34017,6 @@
       "onboard_time": 1770694700,
       "rank": 34,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 69144,
-      "num": 69144,
-      "word": "权志龙新challenge",
-      "onboard_time": 1771148180,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 69047,
@@ -34528,6 +34576,14 @@
       "word": "中国冰壶男队6比8挪威",
       "onboard_time": 1770983361,
       "rank": 20,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 66060,
+      "num": 66060,
+      "word": "国乒2026新年祝福",
+      "onboard_time": 1771148780,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -36396,7 +36452,7 @@
     },
     {
       "raw_hot": 52956,
-      "num": 637400,
+      "num": 647072,
       "word": "咱们空间站过年氛围拉满了",
       "onboard_time": 1771147580,
       "rank": 2,
@@ -39331,6 +39387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34126,
+      "num": 99917,
+      "word": "湖北省博保洁因擦玻璃0水渍走红",
+      "onboard_time": 1771148601,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34038,
       "num": 77400,
       "word": "王楚然成何体统落泪吻",
@@ -39417,6 +39481,14 @@
       "onboard_time": 1770015741,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 33627,
+      "num": 169170,
+      "word": "苏翊鸣第一滑稳健开局",
+      "onboard_time": 1771148839,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 33560,
@@ -42697,6 +42769,14 @@
       "onboard_time": 1770882980,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17425,
+      "num": 115363,
+      "word": "王毅和德国总理比身高",
+      "onboard_time": 1771148839,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 17414,
