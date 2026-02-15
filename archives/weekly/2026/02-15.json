@@ -1,6 +1,6 @@
 {
   "startTime": 1771087248939,
-  "endTime": 1771169660257,
+  "endTime": 1771170605747,
   "band_list": [
     {
       "raw_hot": 3500523,
@@ -83,6 +83,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 762546,
+      "num": 704257,
+      "word": "陈哲远 散财童子",
+      "onboard_time": 1771167864,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 734787,
       "num": 196450,
       "word": "宋轶 情侣背景",
@@ -105,14 +113,6 @@
       "onboard_time": 1771081523,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 704257,
-      "num": 704257,
-      "word": "陈哲远 散财童子",
-      "onboard_time": 1771167864,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 672454,
@@ -267,6 +267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 553827,
+      "num": 228291,
+      "word": "辣目洋子这么瘦了",
+      "onboard_time": 1771169062,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 549044,
       "num": 186175,
       "word": "程晓玥自曝怀二胎吃了很多垃圾食品",
@@ -339,6 +347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 450428,
+      "num": 801418,
+      "word": "背滕王阁序被免票日本男子发声",
+      "onboard_time": 1771168462,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 441670,
       "num": 230220,
       "word": "喝牛奶开出了隐藏款勺子",
@@ -400,6 +416,14 @@
       "word": "黄子弘凡工作室辟谣",
       "onboard_time": 1771079844,
       "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 393118,
+      "num": 269910,
+      "word": "学术界 仅退款",
+      "onboard_time": 1771167923,
+      "rank": 20,
       "category": "艺人"
     },
     {
@@ -755,14 +779,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 269910,
-      "num": 269910,
-      "word": "学术界 仅退款",
-      "onboard_time": 1771167923,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 269837,
       "num": 269837,
       "word": "高亭宇滑出34秒47",
@@ -841,14 +857,6 @@
       "onboard_time": 1771135640,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 255052,
-      "num": 801418,
-      "word": "背滕王阁序被免票日本男子发声",
-      "onboard_time": 1771168462,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 250240,
@@ -1019,20 +1027,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 228291,
-      "num": 228291,
-      "word": "辣目洋子这么瘦了",
-      "onboard_time": 1771169062,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 224396,
       "num": 224396,
       "word": "冯小刚徐帆一家三口大片",
       "onboard_time": 1771132400,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 223495,
+      "num": 656888,
+      "word": "爱泼斯坦案名单竟出现梦露等人",
+      "onboard_time": 1771162463,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 222840,
@@ -1083,14 +1091,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 217419,
-      "num": 656888,
-      "word": "爱泼斯坦案名单竟出现梦露等人",
-      "onboard_time": 1771162463,
-      "rank": 29,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 213109,
       "num": 123878,
       "word": "河南春晚 大量广告里穿插了少量节目",
@@ -1139,6 +1139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 203112,
+      "num": 356040,
+      "word": "中国冰壶女队vs美国",
+      "onboard_time": 1771166602,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 201431,
       "num": 117877,
       "word": "黄子弘凡方起诉伤心swimming",
@@ -1169,14 +1177,6 @@
       "onboard_time": 1771123998,
       "rank": 14,
       "category": "财经"
-    },
-    {
-      "raw_hot": 194682,
-      "num": 356040,
-      "word": "中国冰壶女队vs美国",
-      "onboard_time": 1771166602,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 192293,
@@ -1364,7 +1364,7 @@
     },
     {
       "raw_hot": 151246,
-      "num": 127469,
+      "num": 136911,
       "word": "央妈王安宇粉上了",
       "onboard_time": 1771167623,
       "rank": 28,
@@ -1396,7 +1396,7 @@
     },
     {
       "raw_hot": 145419,
-      "num": 125650,
+      "num": 136085,
       "word": "这是普通人接触到的行业天花板了",
       "onboard_time": 1771169123,
       "rank": 31,
@@ -1451,6 +1451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 139142,
+      "num": 152427,
+      "word": "猫爪美甲",
+      "onboard_time": 1771165043,
+      "rank": 34,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 139118,
       "num": 203238,
       "word": "张水华爆火辞职后现状",
@@ -1481,14 +1489,6 @@
       "onboard_time": 1771082662,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 132658,
-      "num": 152427,
-      "word": "猫爪美甲",
-      "onboard_time": 1771165043,
-      "rank": 34,
-      "category": "美妆"
     },
     {
       "raw_hot": 131575,
@@ -1753,6 +1753,14 @@
       "onboard_time": 1771161501,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 105564,
+      "num": 136503,
+      "word": "有人提前2天上高速省1400元高速费",
+      "onboard_time": 1771169422,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104951,
@@ -2099,14 +2107,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 85215,
-      "num": 85215,
-      "word": "有人提前2天上高速省1400元高速费",
-      "onboard_time": 1771169422,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 85108,
       "num": 85108,
       "word": "张博恒祝冬奥健儿新春快乐",
@@ -2121,6 +2121,14 @@
       "onboard_time": 1771128319,
       "rank": 16,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 83231,
+      "num": 80969,
+      "word": "李子柒回应作品更新慢",
+      "onboard_time": 1771169301,
+      "rank": 40,
+      "category": "网红"
     },
     {
       "raw_hot": 83175,
@@ -2187,6 +2195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 80956,
+      "num": 80956,
+      "word": "高度近视的日常就王楚然这样",
+      "onboard_time": 1771170261,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 80877,
       "num": 80877,
       "word": "豆包Seedance2.0折服百万海外网友",
@@ -2235,6 +2251,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 79244,
+      "num": 79244,
+      "word": "县公务员称合适比喜欢更长久",
+      "onboard_time": 1771170322,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 79061,
       "num": 172774,
       "word": "刘少昂说我们没有planB",
@@ -2257,6 +2281,14 @@
       "onboard_time": 1771146678,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 77772,
+      "num": 77772,
+      "word": "升温后有东北人500斤年货无处安放",
+      "onboard_time": 1771170082,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 77652,

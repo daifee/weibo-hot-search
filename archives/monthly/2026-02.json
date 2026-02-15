@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1771169660257,
+  "endTime": 1771170605747,
   "band_list": [
     {
       "raw_hot": 12386962,
@@ -2051,6 +2051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 762546,
+      "num": 704257,
+      "word": "陈哲远 散财童子",
+      "onboard_time": 1771167864,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 762332,
       "num": 252884,
       "word": "金饰价格涨到1542元",
@@ -2337,14 +2345,6 @@
       "onboard_time": 1770262821,
       "rank": 9,
       "category": "互联网,综艺"
-    },
-    {
-      "raw_hot": 704257,
-      "num": 704257,
-      "word": "陈哲远 散财童子",
-      "onboard_time": 1771167864,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 703232,
@@ -3641,6 +3641,14 @@
       "onboard_time": 1771141580,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 553827,
+      "num": 228291,
+      "word": "辣目洋子这么瘦了",
+      "onboard_time": 1771169062,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 553155,
@@ -5075,6 +5083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 450428,
+      "num": 801418,
+      "word": "背滕王阁序被免票日本男子发声",
+      "onboard_time": 1771168462,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 450164,
       "num": 450164,
       "word": "朴彩英火星哥格莱美开场",
@@ -6144,6 +6160,14 @@
       "word": "沈腾左脚确诊多动症",
       "onboard_time": 1770180442,
       "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 393118,
+      "num": 269910,
+      "word": "学术界 仅退款",
+      "onboard_time": 1771167923,
+      "rank": 20,
       "category": "艺人"
     },
     {
@@ -10211,14 +10235,6 @@
       "category": "美食,互联网"
     },
     {
-      "raw_hot": 269910,
-      "num": 269910,
-      "word": "学术界 仅退款",
-      "onboard_time": 1771167923,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 269837,
       "num": 269837,
       "word": "高亭宇滑出34秒47",
@@ -10857,14 +10873,6 @@
       "onboard_time": 1770791960,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 255052,
-      "num": 801418,
-      "word": "背滕王阁序被免票日本男子发声",
-      "onboard_time": 1771168462,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 254971,
@@ -12339,14 +12347,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 228291,
-      "num": 228291,
-      "word": "辣目洋子这么瘦了",
-      "onboard_time": 1771169062,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 228199,
       "num": 195094,
       "word": "BLACKPINK新专配置公开",
@@ -12617,6 +12617,14 @@
       "onboard_time": 1770196520,
       "rank": 7,
       "category": "演出"
+    },
+    {
+      "raw_hot": 223495,
+      "num": 656888,
+      "word": "爱泼斯坦案名单竟出现梦露等人",
+      "onboard_time": 1771162463,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 223424,
@@ -12945,14 +12953,6 @@
       "onboard_time": 1770209541,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 217419,
-      "num": 656888,
-      "word": "爱泼斯坦案名单竟出现梦露等人",
-      "onboard_time": 1771162463,
-      "rank": 29,
-      "category": "国际时政"
     },
     {
       "raw_hot": 217342,
@@ -13731,6 +13731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 203112,
+      "num": 356040,
+      "word": "中国冰壶女队vs美国",
+      "onboard_time": 1771166602,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 202881,
       "num": 210251,
       "word": "郑大一附院医生诈骗94名患者获刑",
@@ -14217,14 +14225,6 @@
       "onboard_time": 1770908061,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 194682,
-      "num": 356040,
-      "word": "中国冰壶女队vs美国",
-      "onboard_time": 1771166602,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 194572,
@@ -17260,7 +17260,7 @@
     },
     {
       "raw_hot": 151246,
-      "num": 127469,
+      "num": 136911,
       "word": "央妈王安宇粉上了",
       "onboard_time": 1771167623,
       "rank": 28,
@@ -17916,7 +17916,7 @@
     },
     {
       "raw_hot": 145419,
-      "num": 125650,
+      "num": 136085,
       "word": "这是普通人接触到的行业天花板了",
       "onboard_time": 1771169123,
       "rank": 31,
@@ -18665,6 +18665,14 @@
       "onboard_time": 1771140620,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 139142,
+      "num": 152427,
+      "word": "猫爪美甲",
+      "onboard_time": 1771165043,
+      "rank": 34,
+      "category": "美妆"
     },
     {
       "raw_hot": 139118,
@@ -19545,14 +19553,6 @@
       "onboard_time": 1770636199,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 132658,
-      "num": 152427,
-      "word": "猫爪美甲",
-      "onboard_time": 1771165043,
-      "rank": 34,
-      "category": "美妆"
     },
     {
       "raw_hot": 132373,
@@ -24513,6 +24513,14 @@
       "onboard_time": 1770008661,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 105564,
+      "num": 136503,
+      "word": "有人提前2天上高速省1400元高速费",
+      "onboard_time": 1771169422,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 105554,
@@ -30515,14 +30523,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 85215,
-      "num": 85215,
-      "word": "有人提前2天上高速省1400元高速费",
-      "onboard_time": 1771169422,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 85199,
       "num": 85199,
       "word": "王楚钦抵达海南",
@@ -31081,6 +31081,14 @@
       "onboard_time": 1770075378,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 83231,
+      "num": 80969,
+      "word": "李子柒回应作品更新慢",
+      "onboard_time": 1771169301,
+      "rank": 40,
+      "category": "网红"
     },
     {
       "raw_hot": 83230,
@@ -31795,6 +31803,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 80956,
+      "num": 80956,
+      "word": "高度近视的日常就王楚然这样",
+      "onboard_time": 1771170261,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 80954,
       "num": 80954,
       "word": "孙颖莎状态调整太快了",
@@ -32483,6 +32499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 79244,
+      "num": 79244,
+      "word": "县公务员称合适比喜欢更长久",
+      "onboard_time": 1771170322,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 79206,
       "num": 95463,
       "word": "12万买矮马租给游乐场40天回本",
@@ -32832,6 +32856,14 @@
       "word": "年夜饭这些肉最好别上桌",
       "onboard_time": 1770996261,
       "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 77772,
+      "num": 77772,
+      "word": "升温后有东北人500斤年货无处安放",
+      "onboard_time": 1771170082,
+      "rank": 44,
       "category": "民生新闻"
     },
     {

@@ -1,0 +1,410 @@
+{
+  "runTime": 1771170605747,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 618796,
+        "num": 1099007,
+        "word": "2026红包分组",
+        "onboard_time": 1771138999,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 450428,
+        "num": 788367,
+        "word": "背滕王阁序被免票日本男子发声",
+        "onboard_time": 1771168462,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27347,
+        "num": 628365,
+        "word": "航天人以圆满成功给全国人民拜年",
+        "onboard_time": 1771168523,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 422399,
+        "num": 422399,
+        "word": "包贝尔一家 看提词器",
+        "onboard_time": 1771166663,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 267081,
+        "num": 267081,
+        "word": "春晚彩排",
+        "onboard_time": 1771155502,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223495,
+        "num": 223495,
+        "word": "爱泼斯坦案名单竟出现梦露等人",
+        "onboard_time": 1771162463,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 205759,
+        "num": 205759,
+        "word": "周深 小品天赋",
+        "onboard_time": 1771168462,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203112,
+        "num": 203112,
+        "word": "中国冰壶女队vs美国",
+        "onboard_time": 1771166602,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201741,
+        "num": 201741,
+        "word": "辽宁卫视春晚",
+        "onboard_time": 1771154540,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180603,
+        "num": 180603,
+        "word": "姐姐脱落的乳牙呛入1岁宝宝气道",
+        "onboard_time": 1771160903,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1068334,
+        "num": 180225,
+        "word": "白鹿 红包金额",
+        "onboard_time": 1771167562,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 762546,
+        "num": 173824,
+        "word": "陈哲远 散财童子",
+        "onboard_time": 1771167864,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208286,
+        "num": 169868,
+        "word": "千问红包雨",
+        "onboard_time": 1771147700,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 469777,
+        "num": 164386,
+        "word": "Angelababy内娱顶级脸蛋回归",
+        "onboard_time": 1771164982,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 428180,
+        "num": 162292,
+        "word": "黄金中事件 录音",
+        "onboard_time": 1771163783,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158872,
+        "num": 158872,
+        "word": "元宝红包",
+        "onboard_time": 1771161383,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 424170,
+        "num": 154175,
+        "word": "张子墨自拍",
+        "onboard_time": 1771167802,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 393118,
+        "num": 148151,
+        "word": "学术界 仅退款",
+        "onboard_time": 1771167923,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139142,
+        "num": 139142,
+        "word": "猫爪美甲",
+        "onboard_time": 1771165043,
+        "rank": 18,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 102194,
+        "num": 139041,
+        "word": "樊振东身穿中国红队服",
+        "onboard_time": 1771159100,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 553827,
+        "num": 138799,
+        "word": "辣目洋子这么瘦了",
+        "onboard_time": 1771169062,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 326547,
+        "num": 138415,
+        "word": "黄子弘凡白鹿瞎掰王",
+        "onboard_time": 1771162582,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257475,
+        "num": 138177,
+        "word": "男子聚会被下药提前离场躲过一劫",
+        "onboard_time": 1771145479,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190570,
+        "num": 138008,
+        "word": "生命树大结局",
+        "onboard_time": 1771158802,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178955,
+        "num": 137666,
+        "word": "一栗小莎子大年初四化疗",
+        "onboard_time": 1771164262,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 113500,
+        "num": 137255,
+        "word": "00后已经快奔三了",
+        "onboard_time": 1771153461,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 167217,
+        "num": 136924,
+        "word": "伤心swimming 语言成绩",
+        "onboard_time": 1771163602,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146644,
+        "num": 136911,
+        "word": "央妈王安宇粉上了",
+        "onboard_time": 1771167623,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105564,
+        "num": 136503,
+        "word": "有人提前2天上高速省1400元高速费",
+        "onboard_time": 1771169422,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95343,
+        "num": 136090,
+        "word": "河南下雪",
+        "onboard_time": 1771162822,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136085,
+        "num": 136085,
+        "word": "这是普通人接触到的行业天花板了",
+        "onboard_time": 1771169123,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 118583,
+        "num": 118583,
+        "word": "王菲只需轻轻出手",
+        "onboard_time": 1771159880,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127981,
+        "num": 114234,
+        "word": "王安宇胡先煦范丞丞熟人局",
+        "onboard_time": 1771165222,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107190,
+        "num": 107190,
+        "word": "被卖菜爷爷的微信名感动了",
+        "onboard_time": 1771164563,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 101072,
+        "num": 101072,
+        "word": "宋威龙田曦薇恐怖箱挑战",
+        "onboard_time": 1771165762,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90404,
+        "num": 90404,
+        "word": "周深演老头",
+        "onboard_time": 1771168702,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90039,
+        "num": 90039,
+        "word": "有人把4万元金饰剪碎做成美甲",
+        "onboard_time": 1771150040,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104573,
+        "num": 89486,
+        "word": "王菲凤凰传奇满屏雅俗通杀",
+        "onboard_time": 1771163003,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88194,
+        "num": 88194,
+        "word": "伤心swimming 预录取",
+        "onboard_time": 1771163123,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80976,
+        "num": 80976,
+        "word": "樊振东vs贾哈",
+        "onboard_time": 1771161922,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83231,
+        "num": 80969,
+        "word": "李子柒回应作品更新慢",
+        "onboard_time": 1771169301,
+        "rank": 40,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 80956,
+        "num": 80956,
+        "word": "高度近视的日常就王楚然这样",
+        "onboard_time": 1771170261,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 79244,
+        "num": 79244,
+        "word": "县公务员称合适比喜欢更长久",
+        "onboard_time": 1771170322,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80016,
+        "num": 78766,
+        "word": "大胖媳妇非教武大靖滑冰",
+        "onboard_time": 1771160240,
+        "rank": 43,
+        "category": "网红,体育"
+      },
+      {
+        "raw_hot": 77772,
+        "num": 77772,
+        "word": "升温后有东北人500斤年货无处安放",
+        "onboard_time": 1771170082,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77087,
+        "num": 77087,
+        "word": "黄金和房子买哪个更保值",
+        "onboard_time": 1771161802,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 76947,
+        "num": 76947,
+        "word": "郝熠然隔空投送瞬间",
+        "onboard_time": 1771169602,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76912,
+        "num": 76912,
+        "word": "李宗恒小品 旧梗",
+        "onboard_time": 1771160841,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 69988,
+        "num": 75058,
+        "word": "烟花",
+        "onboard_time": 1771156760,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74929,
+        "num": 74929,
+        "word": "杨鸣好帅",
+        "onboard_time": 1771163963,
+        "rank": 49,
+        "category": "综艺,体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#热气腾腾的中国年#"
+    }
+  }
+}
