@@ -1,6 +1,6 @@
 {
   "startTime": 1771087248939,
-  "endTime": 1771139691612,
+  "endTime": 1771141426372,
   "band_list": [
     {
       "raw_hot": 3500523,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 475196,
-      "num": 200751,
+      "num": 459374,
       "word": "猫 算我求你了洗洗脚吧",
       "onboard_time": 1771135760,
       "rank": 36,
@@ -155,19 +155,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 407427,
+      "num": 145833,
+      "word": "小S小女儿长大了",
+      "onboard_time": 1771136419,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 404338,
       "num": 108883,
       "word": "黄子弘凡工作室辟谣",
       "onboard_time": 1771079844,
       "rank": 16,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 388703,
-      "num": 145833,
-      "word": "小S小女儿长大了",
-      "onboard_time": 1771136419,
-      "rank": 21,
       "category": "艺人"
     },
     {
@@ -315,6 +315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 283489,
+      "num": 283489,
+      "word": "春节偏财运爆表的星座",
+      "onboard_time": 1771137559,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 281660,
       "num": 236476,
       "word": "马年清清来送签名红包",
@@ -371,6 +379,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 256790,
+      "num": 145586,
+      "word": "伤心swimming爆料后再怒发8条",
+      "onboard_time": 1771135640,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 252910,
+      "num": 145743,
+      "word": "建议大家千万不要一边做一边怀疑",
+      "onboard_time": 1771137622,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 246669,
       "num": 146422,
       "word": "陪宋威龙忍住什么",
@@ -393,6 +417,14 @@
       "onboard_time": 1771110737,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 244344,
+      "num": 144164,
+      "word": "李沅禧购物视频被日本网友炎上",
+      "onboard_time": 1771138640,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 244286,
@@ -457,6 +489,14 @@
       "onboard_time": 1771126159,
       "rank": 6,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 228520,
+      "num": 769692,
+      "word": "春晚是第一个用上Seedance2.0的",
+      "onboard_time": 1771135760,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 224396,
@@ -531,14 +571,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 210968,
-      "num": 210968,
-      "word": "春晚是第一个用上Seedance2.0的",
-      "onboard_time": 1771135760,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 207520,
       "num": 154035,
       "word": "明星回老家也得穿省服",
@@ -563,28 +595,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 199049,
-      "num": 145743,
-      "word": "建议大家千万不要一边做一边怀疑",
-      "onboard_time": 1771137622,
-      "rank": 22,
-      "category": "情感"
-    },
-    {
       "raw_hot": 196720,
       "num": 196720,
       "word": "金饰价格一夜跌17元",
       "onboard_time": 1771123998,
       "rank": 14,
       "category": "财经"
-    },
-    {
-      "raw_hot": 195981,
-      "num": 145586,
-      "word": "伤心swimming爆料后再怒发8条",
-      "onboard_time": 1771135640,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 192293,
@@ -609,6 +625,14 @@
       "onboard_time": 1771107195,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 184748,
+      "num": 505737,
+      "word": "2026红包分组",
+      "onboard_time": 1771138999,
+      "rank": 8,
+      "category": "互联网"
     },
     {
       "raw_hot": 174904,
@@ -683,28 +707,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 147239,
-      "num": 147239,
-      "word": "2026红包分组",
-      "onboard_time": 1771138999,
-      "rank": 8,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 145145,
       "num": 128945,
       "word": "四川大学",
       "onboard_time": 1771073722,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 144164,
-      "num": 144164,
-      "word": "李沅禧购物视频被日本网友炎上",
-      "onboard_time": 1771138640,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 141709,
@@ -747,12 +755,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 126669,
-      "num": 126669,
-      "word": "春节偏财运爆表的星座",
-      "onboard_time": 1771137559,
-      "rank": 32,
-      "category": "情感"
+      "raw_hot": 128013,
+      "num": 146052,
+      "word": "谷爱凌直言睡不太够想多休息",
+      "onboard_time": 1771135399,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 126464,
@@ -816,6 +824,14 @@
       "word": "刘亦菲情人节素颜营业",
       "onboard_time": 1771117520,
       "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 116961,
+      "num": 116961,
+      "word": "奥斯卡回应什么时候和孙乐言结婚",
+      "onboard_time": 1771140620,
+      "rank": 32,
       "category": "艺人"
     },
     {
@@ -899,6 +915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 104400,
+      "num": 104400,
+      "word": "王菲春晚歌曲原唱乐队毕业于北大",
+      "onboard_time": 1771138999,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 101420,
       "num": 180205,
       "word": "差5分钟赶上回家火车女子崩溃大哭",
@@ -955,12 +979,44 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 98533,
+      "num": 98533,
+      "word": "张予曦返场cos小舞",
+      "onboard_time": 1771140198,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 96796,
       "num": 224482,
       "word": "大阪持刀伤人事件致1死2伤",
       "onboard_time": 1771134978,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 96752,
+      "num": 100819,
+      "word": "恋爱还得老一辈谈才甜",
+      "onboard_time": 1771140140,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 93816,
+      "num": 93816,
+      "word": "大疆前销售副总裁被刑拘",
+      "onboard_time": 1771139599,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93544,
+      "num": 93544,
+      "word": "甚至都没把你孩子当人看",
+      "onboard_time": 1771140140,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 91289,
@@ -977,6 +1033,14 @@
       "onboard_time": 1771073841,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 89384,
+      "num": 97120,
+      "word": "千问超级免单卡在闲鱼杀疯了",
+      "onboard_time": 1771138580,
+      "rank": 39,
+      "category": "互联网"
     },
     {
       "raw_hot": 88105,
@@ -1035,6 +1099,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 83057,
+      "num": 97798,
+      "word": "郑钦文退赛",
+      "onboard_time": 1771141339,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 82656,
       "num": 82656,
       "word": "石凯钓鱼",
@@ -1081,14 +1153,6 @@
       "onboard_time": 1771078944,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 79524,
-      "num": 79524,
-      "word": "王菲春晚歌曲原唱乐队毕业于北大",
-      "onboard_time": 1771138999,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 79447,
@@ -1139,6 +1203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 76819,
+      "num": 76819,
+      "word": "第一批回村的狗已经在挨打了",
+      "onboard_time": 1771141098,
+      "rank": 46,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 76478,
       "num": 76478,
       "word": "出去一个好留子回来一个好厨子",
@@ -1155,28 +1227,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 75987,
-      "num": 146052,
-      "word": "谷爱凌直言睡不太够想多休息",
-      "onboard_time": 1771135399,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 75618,
       "num": 75618,
       "word": "英语口语水平恐怕在我之上",
       "onboard_time": 1771124720,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 75505,
-      "num": 75505,
-      "word": "大疆前销售副总裁被刑拘",
-      "onboard_time": 1771139599,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 75026,
@@ -1209,6 +1265,14 @@
       "onboard_time": 1771095736,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 72828,
+      "num": 144271,
+      "word": "戴建业谈年味为什么变了",
+      "onboard_time": 1771139540,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 72806,
@@ -1289,6 +1353,14 @@
       "onboard_time": 1771120821,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 69701,
+      "num": 69701,
+      "word": "律师解读黄子弘凡父亲被曝诈骗学生",
+      "onboard_time": 1771140438,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 69592,
@@ -1427,6 +1499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 60718,
+      "num": 72823,
+      "word": "小伙从成都开飞机回重庆过年",
+      "onboard_time": 1771136778,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 60659,
       "num": 60659,
       "word": "任子威说黄大宪有点手法",
@@ -1465,14 +1545,6 @@
       "onboard_time": 1771068741,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 57365,
-      "num": 96775,
-      "word": "千问超级免单卡在闲鱼杀疯了",
-      "onboard_time": 1771138580,
-      "rank": 39,
-      "category": "互联网"
     },
     {
       "raw_hot": 57076,
@@ -1619,14 +1691,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 38678,
-      "num": 144271,
-      "word": "戴建业谈年味为什么变了",
-      "onboard_time": 1771139540,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 36736,
       "num": 225437,
       "word": "今年的年货都是AI一手包办",
@@ -1641,6 +1705,14 @@
       "onboard_time": 1771088718,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 35540,
+      "num": 126423,
+      "word": "被10万多人点赞的翟女士找到了",
+      "onboard_time": 1771141040,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32271,
@@ -1825,6 +1897,22 @@
       "onboard_time": 1771070661,
       "rank": 47,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 10503,
+      "num": 118286,
+      "word": "男子驾车返乡途中被猫锁在车外",
+      "onboard_time": 1771141339,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 6354,
+      "num": 96143,
+      "word": "属马的人在古代可能属鹿",
+      "onboard_time": 1771141399,
+      "rank": 39,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
