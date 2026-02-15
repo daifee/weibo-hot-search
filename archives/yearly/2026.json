@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1771170605747,
+  "endTime": 1771173652789,
   "band_list": [
     {
       "raw_hot": 22742360,
@@ -417,6 +417,14 @@
       "onboard_time": 1769996779,
       "rank": 10,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 3070536,
+      "num": 1145773,
+      "word": "红包",
+      "onboard_time": 1771050141,
+      "rank": 10,
+      "category": "互联网"
     },
     {
       "raw_hot": 3060016,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1769925740,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1131092,
-      "num": 264067,
-      "word": "空姐月工资收入",
-      "onboard_time": 1770115220,
-      "rank": 31,
-      "category": "情感"
     }
   ],
   "hotgov_list": [
