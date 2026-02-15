@@ -1,6 +1,6 @@
 {
   "startTime": 1771087248939,
-  "endTime": 1771145961033,
+  "endTime": 1771148474649,
   "band_list": [
     {
       "raw_hot": 3500523,
@@ -27,6 +27,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1099304,
+      "num": 158887,
+      "word": "男子聚会被下药提前离场躲过一劫",
+      "onboard_time": 1771145479,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 734787,
       "num": 196450,
       "word": "宋轶 情侣背景",
@@ -41,6 +49,14 @@
       "onboard_time": 1771081523,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 710871,
+      "num": 1113739,
+      "word": "2026红包分组",
+      "onboard_time": 1771138999,
+      "rank": 8,
+      "category": "互联网"
     },
     {
       "raw_hot": 672454,
@@ -81,6 +97,14 @@
       "onboard_time": 1771127960,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 615024,
+      "num": 827160,
+      "word": "再次提醒中国公民避免赴日",
+      "onboard_time": 1771144340,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 613202,
@@ -171,20 +195,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 427775,
-      "num": 1068444,
-      "word": "2026红包分组",
-      "onboard_time": 1771138999,
-      "rank": 8,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 410487,
       "num": 225245,
       "word": "乡镇公务员相亲称现实有时远超感情",
       "onboard_time": 1771129218,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 407758,
+      "num": 153292,
+      "word": "冯提莫因被网友说矮生气了",
+      "onboard_time": 1771144519,
+      "rank": 32,
+      "category": "网红"
     },
     {
       "raw_hot": 407427,
@@ -209,6 +233,14 @@
       "onboard_time": 1771130299,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 381438,
+      "num": 381438,
+      "word": "千问红包雨",
+      "onboard_time": 1771147700,
+      "rank": 3,
+      "category": "互联网"
     },
     {
       "raw_hot": 375457,
@@ -331,6 +363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 306529,
+      "num": 306529,
+      "word": "男子在胖东来买5000元年货花500寄出",
+      "onboard_time": 1771146199,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 305832,
       "num": 225733,
       "word": "27岁乡村女教师相亲20次",
@@ -396,7 +436,7 @@
     },
     {
       "raw_hot": 277552,
-      "num": 184646,
+      "num": 205486,
       "word": "原来侯佩岑三岁时就有明星相",
       "onboard_time": 1771144400,
       "rank": 8,
@@ -459,20 +499,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 258491,
-      "num": 153292,
-      "word": "冯提莫因被网友说矮生气了",
-      "onboard_time": 1771144519,
-      "rank": 32,
-      "category": "网红"
-    },
-    {
       "raw_hot": 256790,
       "num": 145586,
       "word": "伤心swimming爆料后再怒发8条",
       "onboard_time": 1771135640,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 248748,
+      "num": 94622,
+      "word": "签约前买家突然砍价40万房东怒了",
+      "onboard_time": 1771145959,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 246669,
@@ -536,14 +576,6 @@
       "word": "网红99元4斤带货牛肉自称假一赔万",
       "onboard_time": 1771122980,
       "rank": 27,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 235501,
-      "num": 158887,
-      "word": "男子聚会被下药提前离场躲过一劫",
-      "onboard_time": 1771145479,
-      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -633,6 +665,14 @@
       "onboard_time": 1771087579,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 217098,
+      "num": 93020,
+      "word": "宋亚轩去了新疆",
+      "onboard_time": 1771147159,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 213109,
@@ -729,6 +769,22 @@
       "onboard_time": 1771107195,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 186435,
+      "num": 186435,
+      "word": "单板滑雪男子坡障技巧预赛",
+      "onboard_time": 1771147159,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 175353,
+      "num": 120396,
+      "word": "结婚20年给妻子转52给情人转21万",
+      "onboard_time": 1771145118,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 174904,
@@ -883,6 +939,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 124130,
+      "num": 90353,
+      "word": "黄一鸣整下巴了",
+      "onboard_time": 1771147880,
+      "rank": 34,
+      "category": "网红"
+    },
+    {
       "raw_hot": 121800,
       "num": 121800,
       "word": "王鹤棣 长红至今的前辈还有谁在",
@@ -897,14 +961,6 @@
       "onboard_time": 1771144639,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 120396,
-      "num": 120396,
-      "word": "结婚20年给妻子转52给情人转21万",
-      "onboard_time": 1771145118,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 119607,
@@ -995,12 +1051,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 115092,
-      "num": 115092,
-      "word": "再次提醒中国公民避免赴日",
-      "onboard_time": 1771144340,
-      "rank": 34,
-      "category": "国内时政"
+      "raw_hot": 112440,
+      "num": 112440,
+      "word": "苏翊鸣第10位登场",
+      "onboard_time": 1771146498,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 109627,
@@ -1057,6 +1113,14 @@
       "onboard_time": 1771138999,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 102939,
+      "num": 102939,
+      "word": "苏翊鸣坡面障碍技巧预赛",
+      "onboard_time": 1771148060,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 101420,
@@ -1145,6 +1209,14 @@
       "onboard_time": 1771140140,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 94276,
+      "num": 134065,
+      "word": "千问总裁回应一夜爆火",
+      "onboard_time": 1771146080,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 93816,
@@ -1347,6 +1419,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 78162,
+      "num": 78162,
+      "word": "王铮亮五登央视春晚",
+      "onboard_time": 1771146678,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 77507,
       "num": 108759,
       "word": "中外网友对账对到了菜市场",
@@ -1427,6 +1507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 73954,
+      "num": 77840,
+      "word": "T1对战BFX",
+      "onboard_time": 1771146741,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 73095,
       "num": 73095,
       "word": "自由式滑雪女子大跳台预赛",
@@ -1473,6 +1561,14 @@
       "onboard_time": 1771135999,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 72232,
+      "num": 74268,
+      "word": "房东为出一口气少卖10万元",
+      "onboard_time": 1771146800,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 71861,
@@ -1561,6 +1657,14 @@
       "onboard_time": 1771075943,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 69144,
+      "num": 69144,
+      "word": "权志龙新challenge",
+      "onboard_time": 1771148180,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 68983,
@@ -1779,6 +1883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 52956,
+      "num": 637400,
+      "word": "咱们空间站过年氛围拉满了",
+      "onboard_time": 1771147580,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 52827,
       "num": 67925,
       "word": "周冬雨从不发朋友圈",
@@ -1801,6 +1913,14 @@
       "onboard_time": 1771133059,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 50252,
+      "num": 76791,
+      "word": "安徽一女子称买零食抽中10克金条",
+      "onboard_time": 1771147400,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 50147,
@@ -2027,6 +2147,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 23455,
+      "num": 95715,
+      "word": "看不懂但大受震撼的女书春联",
+      "onboard_time": 1771147342,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23319,
       "num": 99441,
       "word": "还以为王阳衣服湿了",
@@ -2156,6 +2284,9 @@
     },
     {
       "word": "#热气腾腾的中国年#"
+    },
+    {
+      "word": "#总书记的声声祝福直抵人心#"
     }
   ]
 }
