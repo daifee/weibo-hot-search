@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1771136097036,
+  "endTime": 1771139691612,
   "band_list": [
     {
       "raw_hot": 22742360,
@@ -369,6 +369,14 @@
       "onboard_time": 1768041321,
       "rank": 21,
       "category": "网红"
+    },
+    {
+      "raw_hot": 3500523,
+      "num": 147019,
+      "word": "几杯去世",
+      "onboard_time": 1771137622,
+      "rank": 10,
+      "category": "读书作家"
     },
     {
       "raw_hot": 3481750,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1770115220,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1130397,
-      "num": 357113,
-      "word": "糖霜苹果",
-      "onboard_time": 1768811902,
-      "rank": 5,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

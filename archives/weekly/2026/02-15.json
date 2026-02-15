@@ -1,7 +1,15 @@
 {
   "startTime": 1771087248939,
-  "endTime": 1771136097036,
+  "endTime": 1771139691612,
   "band_list": [
+    {
+      "raw_hot": 3500523,
+      "num": 147019,
+      "word": "几杯去世",
+      "onboard_time": 1771137622,
+      "rank": 10,
+      "category": "读书作家"
+    },
     {
       "raw_hot": 1481205,
       "num": 221156,
@@ -115,6 +123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 475196,
+      "num": 200751,
+      "word": "猫 算我求你了洗洗脚吧",
+      "onboard_time": 1771135760,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 461233,
       "num": 208739,
       "word": "黄子韬回应扇了徐艺洋",
@@ -144,6 +160,14 @@
       "word": "黄子弘凡工作室辟谣",
       "onboard_time": 1771079844,
       "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 388703,
+      "num": 145833,
+      "word": "小S小女儿长大了",
+      "onboard_time": 1771136419,
+      "rank": 21,
       "category": "艺人"
     },
     {
@@ -204,7 +228,7 @@
     },
     {
       "raw_hot": 337689,
-      "num": 397319,
+      "num": 754061,
       "word": "副省长电话被拉黑后",
       "onboard_time": 1771131319,
       "rank": 31,
@@ -232,6 +256,14 @@
       "word": "宋威龙和新郎官有什么区别",
       "onboard_time": 1771130840,
       "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 314050,
+      "num": 209848,
+      "word": "宋威龙赵今麦抱着同一束花",
+      "onboard_time": 1771134680,
+      "rank": 24,
       "category": "艺人"
     },
     {
@@ -291,14 +323,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 279855,
-      "num": 209848,
-      "word": "宋威龙赵今麦抱着同一束花",
-      "onboard_time": 1771134680,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 274201,
       "num": 213177,
       "word": "迅猛龙自曝身体状况",
@@ -337,6 +361,22 @@
       "onboard_time": 1771122378,
       "rank": 11,
       "category": "电影"
+    },
+    {
+      "raw_hot": 260317,
+      "num": 180070,
+      "word": "土耳其一航班上发生大规模斗殴",
+      "onboard_time": 1771134739,
+      "rank": 32,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 246669,
+      "num": 146422,
+      "word": "陪宋威龙忍住什么",
+      "onboard_time": 1771137980,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 246055,
@@ -491,6 +531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 210968,
+      "num": 210968,
+      "word": "春晚是第一个用上Seedance2.0的",
+      "onboard_time": 1771135760,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 207520,
       "num": 154035,
       "word": "明星回老家也得穿省服",
@@ -515,12 +563,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 199049,
+      "num": 145743,
+      "word": "建议大家千万不要一边做一边怀疑",
+      "onboard_time": 1771137622,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 196720,
       "num": 196720,
       "word": "金饰价格一夜跌17元",
       "onboard_time": 1771123998,
       "rank": 14,
       "category": "财经"
+    },
+    {
+      "raw_hot": 195981,
+      "num": 145586,
+      "word": "伤心swimming爆料后再怒发8条",
+      "onboard_time": 1771135640,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 192293,
@@ -547,20 +611,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 180070,
-      "num": 180070,
-      "word": "土耳其一航班上发生大规模斗殴",
-      "onboard_time": 1771134739,
-      "rank": 32,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 174904,
       "num": 174904,
       "word": "谷爱凌第一跳86.00分",
       "onboard_time": 1771095796,
       "rank": 3,
       "category": "民生新闻,体育"
+    },
+    {
+      "raw_hot": 169060,
+      "num": 202473,
+      "word": "Faker与Uzi迎来名人堂新成员",
+      "onboard_time": 1771135039,
+      "rank": 25,
+      "category": "电竞"
     },
     {
       "raw_hot": 168014,
@@ -619,6 +683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 147239,
+      "num": 147239,
+      "word": "2026红包分组",
+      "onboard_time": 1771138999,
+      "rank": 8,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 145145,
       "num": 128945,
       "word": "四川大学",
@@ -627,12 +699,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 144164,
+      "num": 144164,
+      "word": "李沅禧购物视频被日本网友炎上",
+      "onboard_time": 1771138640,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141709,
       "num": 141709,
       "word": "红包分组",
       "onboard_time": 1771062620,
       "rank": 7,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 139793,
+      "num": 139793,
+      "word": "王鹤棣比马丁大十岁",
+      "onboard_time": 1771134619,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 138641,
@@ -651,20 +739,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 132771,
-      "num": 132771,
-      "word": "王鹤棣比马丁大十岁",
-      "onboard_time": 1771134619,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 129243,
       "num": 108303,
       "word": "马君妍宣布二胎宝宝已有30周",
       "onboard_time": 1771076902,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 126669,
+      "num": 126669,
+      "word": "春节偏财运爆表的星座",
+      "onboard_time": 1771137559,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 126464,
@@ -681,6 +769,14 @@
       "onboard_time": 1771130599,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 119607,
+      "num": 74760,
+      "word": "郑钦文因病退赛",
+      "onboard_time": 1771139420,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 119462,
@@ -753,14 +849,6 @@
       "onboard_time": 1771124059,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 115318,
-      "num": 202473,
-      "word": "Faker与Uzi迎来名人堂新成员",
-      "onboard_time": 1771135039,
-      "rank": 25,
-      "category": "电竞"
     },
     {
       "raw_hot": 109627,
@@ -867,20 +955,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 93240,
-      "num": 93240,
-      "word": "猫 算我求你了洗洗脚吧",
-      "onboard_time": 1771135760,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 92364,
-      "num": 92364,
-      "word": "伤心swimming爆料后再怒发8条",
-      "onboard_time": 1771135640,
-      "rank": 39,
-      "category": "艺人"
+      "raw_hot": 96796,
+      "num": 224482,
+      "word": "大阪持刀伤人事件致1死2伤",
+      "onboard_time": 1771134978,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 91289,
@@ -1003,6 +1083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 79524,
+      "num": 79524,
+      "word": "王菲春晚歌曲原唱乐队毕业于北大",
+      "onboard_time": 1771138999,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 79447,
       "num": 79447,
       "word": "出国旅行信息差",
@@ -1051,6 +1139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 76478,
+      "num": 76478,
+      "word": "出去一个好留子回来一个好厨子",
+      "onboard_time": 1771138699,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 75995,
       "num": 83519,
       "word": "回忆性羞耻感",
@@ -1059,12 +1155,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 75987,
+      "num": 146052,
+      "word": "谷爱凌直言睡不太够想多休息",
+      "onboard_time": 1771135399,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 75618,
       "num": 75618,
       "word": "英语口语水平恐怕在我之上",
       "onboard_time": 1771124720,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 75505,
+      "num": 75505,
+      "word": "大疆前销售副总裁被刑拘",
+      "onboard_time": 1771139599,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 75026,
@@ -1099,6 +1211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 72806,
+      "num": 72806,
+      "word": "章昊请把假发焊在头上",
+      "onboard_time": 1771137980,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 72802,
       "num": 72802,
       "word": "奶奶为了分清充电器",
@@ -1113,6 +1233,14 @@
       "onboard_time": 1771077622,
       "rank": 33,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 72615,
+      "num": 72615,
+      "word": "床头吵架床尾也和不了",
+      "onboard_time": 1771135999,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 71861,
@@ -1147,20 +1275,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 70283,
+      "num": 146583,
+      "word": "千问30元钟点房一抢而空",
+      "onboard_time": 1771138880,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 70199,
       "num": 70199,
       "word": "儿子一家悄悄回家母亲开心到跺脚",
       "onboard_time": 1771120821,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 69733,
-      "num": 69733,
-      "word": "谷爱凌直言睡不太够想多休息",
-      "onboard_time": 1771135399,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 69592,
@@ -1219,6 +1347,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 68785,
+      "num": 144492,
+      "word": "千问再次激活群聊",
+      "onboard_time": 1771138999,
+      "rank": 27,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 68422,
       "num": 116706,
       "word": "尼格买提Mate80探班春晚后台",
@@ -1257,6 +1393,14 @@
       "onboard_time": 1771115178,
       "rank": 48,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 63236,
+      "num": 72626,
+      "word": "WTA1000",
+      "onboard_time": 1771139420,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 62609,
@@ -1323,20 +1467,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 57365,
+      "num": 96775,
+      "word": "千问超级免单卡在闲鱼杀疯了",
+      "onboard_time": 1771138580,
+      "rank": 39,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 57076,
       "num": 116238,
       "word": "苏翊鸣比赛时间提前1天",
       "onboard_time": 1771132039,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 56896,
-      "num": 188808,
-      "word": "春晚是第一个用上Seedance2.0的",
-      "onboard_time": 1771135760,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 55423,
@@ -1427,12 +1571,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 46442,
-      "num": 224482,
-      "word": "大阪持刀伤人事件致1死2伤",
-      "onboard_time": 1771134978,
-      "rank": 19,
-      "category": "海外新闻"
+      "raw_hot": 46783,
+      "num": 147165,
+      "word": "中国AI改变电影制作让老外惊叹",
+      "onboard_time": 1771138999,
+      "rank": 9,
+      "category": "互联网"
     },
     {
       "raw_hot": 44637,
@@ -1473,6 +1617,14 @@
       "onboard_time": 1771090218,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 38678,
+      "num": 144271,
+      "word": "戴建业谈年味为什么变了",
+      "onboard_time": 1771139540,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 36736,
