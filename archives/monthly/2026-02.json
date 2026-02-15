@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1771164104715,
+  "endTime": 1771166190270,
   "band_list": [
     {
       "raw_hot": 12386962,
@@ -924,7 +924,7 @@
     },
     {
       "raw_hot": 1099304,
-      "num": 234554,
+      "num": 260553,
       "word": "男子聚会被下药提前离场躲过一劫",
       "onboard_time": 1771145479,
       "rank": 23,
@@ -1531,6 +1531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 862350,
+      "num": 322864,
+      "word": "江苏东海通报烟花爆竹爆燃事故",
+      "onboard_time": 1771162582,
+      "rank": 11,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 861695,
       "num": 192752,
       "word": "男童点火烧死萨摩耶家属发声",
@@ -1923,6 +1931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 782964,
+      "num": 316531,
+      "word": "黄金中事件 录音",
+      "onboard_time": 1771163783,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 782520,
       "num": 184991,
       "word": "孙颖莎ELLE开季封面预告",
@@ -2179,6 +2195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 721286,
+      "num": 323466,
+      "word": "黄子弘凡与父亲责任各自独立",
+      "onboard_time": 1771160303,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 720620,
       "num": 272767,
       "word": "沈腾找了个最帅的演自己",
@@ -2240,14 +2264,6 @@
       "word": "李心艾老公宣布退圈",
       "onboard_time": 1769922679,
       "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 714635,
-      "num": 323466,
-      "word": "黄子弘凡与父亲责任各自独立",
-      "onboard_time": 1771160303,
-      "rank": 30,
       "category": "艺人"
     },
     {
@@ -5171,14 +5187,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 437799,
-      "num": 322864,
-      "word": "江苏东海通报烟花爆竹爆燃事故",
-      "onboard_time": 1771162582,
-      "rank": 11,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 436826,
       "num": 1069892,
       "word": "意大利失联博士疑似被看到买咖啡",
@@ -5201,6 +5209,14 @@
       "onboard_time": 1770806660,
       "rank": 3,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 435924,
+      "num": 314384,
+      "word": "黄子弘凡白鹿瞎掰王",
+      "onboard_time": 1771162582,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 435878,
@@ -5656,6 +5672,14 @@
       "word": "武汉龙门吊倒塌事故致1死1伤",
       "onboard_time": 1769946442,
       "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 412516,
+      "num": 412516,
+      "word": "姐姐脱落的乳牙呛入1岁宝宝气道",
+      "onboard_time": 1771160903,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -8019,14 +8043,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 324530,
-      "num": 324530,
-      "word": "姐姐脱落的乳牙呛入1岁宝宝气道",
-      "onboard_time": 1771160903,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 324128,
       "num": 324128,
       "word": "陈小春一家四口首登春晚",
@@ -8115,20 +8131,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 321627,
+      "num": 321627,
+      "word": "李宗恒小品 旧梗",
+      "onboard_time": 1771160841,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 321586,
       "num": 231301,
       "word": "向太认可是自己娶了郭碧婷",
       "onboard_time": 1770001640,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 321490,
-      "num": 321490,
-      "word": "李宗恒小品 旧梗",
-      "onboard_time": 1771160841,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 321371,
@@ -8425,14 +8441,6 @@
       "onboard_time": 1771130840,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 314384,
-      "num": 314384,
-      "word": "黄子弘凡白鹿瞎掰王",
-      "onboard_time": 1771162582,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 314129,
@@ -8953,6 +8961,14 @@
       "onboard_time": 1770174321,
       "rank": 12,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 300007,
+      "num": 300007,
+      "word": "王菲凤凰传奇满屏雅俗通杀",
+      "onboard_time": 1771163003,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 299852,
@@ -10099,14 +10115,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 270899,
-      "num": 270899,
-      "word": "王菲凤凰传奇满屏雅俗通杀",
-      "onboard_time": 1771163003,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 270198,
       "num": 270198,
       "word": "杨幂内场热聊握手好忙",
@@ -10369,6 +10377,14 @@
       "onboard_time": 1770081080,
       "rank": 6,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 264984,
+      "num": 264984,
+      "word": "伤心swimming 语言成绩",
+      "onboard_time": 1771163602,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 264850,
@@ -12147,6 +12163,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 229427,
+      "num": 305006,
+      "word": "国投瑞银基金制定专项工作方案",
+      "onboard_time": 1771165162,
+      "rank": 12,
+      "category": "财经"
+    },
+    {
       "raw_hot": 229359,
       "num": 229359,
       "word": "30岁男子上完厕所突然离世",
@@ -12155,8 +12179,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 229332,
+      "num": 229332,
+      "word": "王安宇胡先煦范丞丞家乡话拜年",
+      "onboard_time": 1771162582,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 229068,
-      "num": 239148,
+      "num": 271757,
       "word": "日本男子全文背滕王阁序免票进景区",
       "onboard_time": 1771158862,
       "rank": 13,
@@ -12971,6 +13003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 214829,
+      "num": 214829,
+      "word": "一栗小莎子大年初四化疗",
+      "onboard_time": 1771164262,
+      "rank": 26,
+      "category": "网红"
+    },
+    {
       "raw_hot": 214815,
       "num": 160236,
       "word": "吴谨言洪尧同框现身机场",
@@ -13001,14 +13041,6 @@
       "onboard_time": 1770736941,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 214167,
-      "num": 214167,
-      "word": "王安宇胡先煦范丞丞家乡话拜年",
-      "onboard_time": 1771162582,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 213971,
@@ -13377,6 +13409,14 @@
       "onboard_time": 1770865280,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 206959,
+      "num": 206959,
+      "word": "Angelababy内娱顶级脸蛋回归",
+      "onboard_time": 1771164982,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 206952,
@@ -13961,6 +14001,14 @@
       "onboard_time": 1770169938,
       "rank": 15,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 196566,
+      "num": 319811,
+      "word": "河南下雪",
+      "onboard_time": 1771162822,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 196542,
@@ -16939,6 +16987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 152668,
+      "num": 152668,
+      "word": "宋威龙田曦薇恐怖箱挑战",
+      "onboard_time": 1771165762,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 152600,
       "num": 250535,
       "word": "有人在千问免单525元是真的吗",
@@ -17593,6 +17649,14 @@
       "onboard_time": 1770456021,
       "rank": 17,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 146803,
+      "num": 146803,
+      "word": "被卖菜爷爷的微信名感动了",
+      "onboard_time": 1771164563,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 146737,
@@ -19355,6 +19419,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 132658,
+      "num": 132658,
+      "word": "猫爪美甲",
+      "onboard_time": 1771165043,
+      "rank": 34,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 132373,
       "num": 152739,
       "word": "iPhone18ProMax或是续航最强苹果机",
@@ -19385,14 +19457,6 @@
       "onboard_time": 1770461481,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 132112,
-      "num": 132112,
-      "word": "河南下雪",
-      "onboard_time": 1771162822,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 131892,
@@ -20003,14 +20067,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 128322,
-      "num": 128322,
-      "word": "伤心swimming 语言成绩",
-      "onboard_time": 1771163602,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 128220,
       "num": 128220,
       "word": "AG诸葛亮打野",
@@ -20073,6 +20129,14 @@
       "onboard_time": 1770528320,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 127448,
+      "num": 127448,
+      "word": "王安宇胡先煦范丞丞熟人局",
+      "onboard_time": 1771165222,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 127391,
@@ -21331,6 +21395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119315,
+      "num": 208230,
+      "word": "谷爱凌已获额外测试训练邀请",
+      "onboard_time": 1771163063,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119305,
       "num": 124784,
       "word": "辛芷蕾新剧豆瓣开分7.5",
@@ -21883,6 +21955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 116759,
+      "num": 207456,
+      "word": "爱泼斯坦案名单竟出现梦露等人",
+      "onboard_time": 1771162463,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 116747,
       "num": 116747,
       "word": "程潇开美颜前后对比",
@@ -21972,7 +22052,7 @@
     },
     {
       "raw_hot": 116318,
-      "num": 116318,
+      "num": 123310,
       "word": "林孝埈用中文真诚回应",
       "onboard_time": 1771162463,
       "rank": 35,
@@ -22065,14 +22145,6 @@
       "onboard_time": 1770564441,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 115702,
-      "num": 115702,
-      "word": "黄金中事件 录音",
-      "onboard_time": 1771163783,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 115688,
@@ -24587,14 +24659,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 104694,
-      "num": 132368,
-      "word": "爱泼斯坦案名单竟出现梦露等人",
-      "onboard_time": 1771162463,
-      "rank": 29,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 104654,
       "num": 104654,
       "word": "BTS完整体机场",
@@ -26009,14 +26073,6 @@
       "onboard_time": 1770645024,
       "rank": 40,
       "category": "电影"
-    },
-    {
-      "raw_hot": 99383,
-      "num": 99383,
-      "word": "谷爱凌已获额外测试训练邀请",
-      "onboard_time": 1771163063,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 99369,
@@ -28243,6 +28299,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 91837,
+      "num": 91837,
+      "word": "樊振东迈斯纳vs邱党卡尔伯格",
+      "onboard_time": 1771166003,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 91723,
       "num": 91723,
       "word": "多哈WTA1000",
@@ -28425,6 +28489,14 @@
       "onboard_time": 1770375261,
       "rank": 46,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 91169,
+      "num": 91169,
+      "word": "李子柒一口气推荐了6样宜宾非遗",
+      "onboard_time": 1771163722,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 91119,
@@ -28705,6 +28777,14 @@
       "onboard_time": 1770645261,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 90257,
+      "num": 120978,
+      "word": "周深想要周深得到",
+      "onboard_time": 1771165523,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 90235,
