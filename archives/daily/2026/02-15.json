@@ -1,6 +1,6 @@
 {
   "startTime": 1771087248939,
-  "endTime": 1771166190270,
+  "endTime": 1771167262927,
   "band_list": [
     {
       "raw_hot": 3500523,
@@ -51,6 +51,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 924721,
+      "num": 316531,
+      "word": "黄金中事件 录音",
+      "onboard_time": 1771163783,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 862350,
       "num": 322864,
       "word": "江苏东海通报烟花爆竹爆燃事故",
@@ -59,11 +67,11 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 782964,
-      "num": 316531,
-      "word": "黄金中事件 录音",
-      "onboard_time": 1771163783,
-      "rank": 36,
+      "raw_hot": 817666,
+      "num": 323466,
+      "word": "黄子弘凡与父亲责任各自独立",
+      "onboard_time": 1771160303,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -81,14 +89,6 @@
       "onboard_time": 1771153461,
       "rank": 9,
       "category": "情感"
-    },
-    {
-      "raw_hot": 721286,
-      "num": 323466,
-      "word": "黄子弘凡与父亲责任各自独立",
-      "onboard_time": 1771160303,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 716645,
@@ -203,6 +203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 569149,
+      "num": 256146,
+      "word": "杨博文后台照",
+      "onboard_time": 1771166663,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 567264,
       "num": 567264,
       "word": "单板滑雪男子坡障技巧预赛",
@@ -227,6 +235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 531924,
+      "num": 314384,
+      "word": "黄子弘凡白鹿瞎掰王",
+      "onboard_time": 1771162582,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 531507,
       "num": 438044,
       "word": "生命树大结局",
@@ -236,7 +252,7 @@
     },
     {
       "raw_hot": 531062,
-      "num": 816246,
+      "num": 827691,
       "word": "元宝红包",
       "onboard_time": 1771161383,
       "rank": 24,
@@ -289,14 +305,6 @@
       "onboard_time": 1771126339,
       "rank": 5,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 435924,
-      "num": 314384,
-      "word": "黄子弘凡白鹿瞎掰王",
-      "onboard_time": 1771162582,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 428687,
@@ -419,6 +427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 362469,
+      "num": 238654,
+      "word": "一栗小莎子大年初四化疗",
+      "onboard_time": 1771164262,
+      "rank": 26,
+      "category": "网红"
+    },
+    {
       "raw_hot": 362386,
       "num": 362386,
       "word": "过年做美甲别窝囊",
@@ -489,6 +505,14 @@
       "onboard_time": 1771142660,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 330611,
+      "num": 249184,
+      "word": "Angelababy内娱顶级脸蛋回归",
+      "onboard_time": 1771164982,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 323852,
@@ -883,6 +907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 232862,
+      "num": 232862,
+      "word": "包贝尔一家 看提词器",
+      "onboard_time": 1771166663,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 230772,
       "num": 227467,
       "word": "王菲 你我经历的一刻",
@@ -987,14 +1019,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 214829,
-      "num": 214829,
-      "word": "一栗小莎子大年初四化疗",
-      "onboard_time": 1771164262,
-      "rank": 26,
-      "category": "网红"
-    },
-    {
       "raw_hot": 213109,
       "num": 123878,
       "word": "河南春晚 大量广告里穿插了少量节目",
@@ -1035,14 +1059,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 206959,
-      "num": 206959,
-      "word": "Angelababy内娱顶级脸蛋回归",
-      "onboard_time": 1771164982,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 206589,
       "num": 206589,
       "word": "烟花",
@@ -1067,20 +1083,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196780,
+      "num": 319811,
+      "word": "河南下雪",
+      "onboard_time": 1771162822,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 196720,
       "num": 196720,
       "word": "金饰价格一夜跌17元",
       "onboard_time": 1771123998,
       "rank": 14,
       "category": "财经"
-    },
-    {
-      "raw_hot": 196566,
-      "num": 319811,
-      "word": "河南下雪",
-      "onboard_time": 1771162822,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 192293,
@@ -1195,6 +1211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 160980,
+      "num": 160980,
+      "word": "伤心swimming 预录取",
+      "onboard_time": 1771163123,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 160041,
       "num": 160041,
       "word": "杨鸣好帅",
@@ -1209,6 +1233,14 @@
       "onboard_time": 1771076902,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 159438,
+      "num": 159438,
+      "word": "宋威龙田曦薇恐怖箱挑战",
+      "onboard_time": 1771165762,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 159299,
@@ -1235,22 +1267,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 153655,
-      "num": 153655,
-      "word": "伤心swimming 预录取",
-      "onboard_time": 1771163123,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 152668,
-      "num": 152668,
-      "word": "宋威龙田曦薇恐怖箱挑战",
-      "onboard_time": 1771165762,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 152066,
       "num": 152066,
       "word": "苏翊鸣晋级坡障决赛",
@@ -1265,6 +1281,14 @@
       "onboard_time": 1771090457,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149745,
+      "num": 149745,
+      "word": "周深郎朗是对我耳朵最好的人",
+      "onboard_time": 1771163363,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 149537,
@@ -1297,6 +1321,14 @@
       "onboard_time": 1771160121,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 140971,
+      "num": 164429,
+      "word": "黄金和房子买哪个更保值",
+      "onboard_time": 1771161802,
+      "rank": 42,
+      "category": "财经"
     },
     {
       "raw_hot": 139793,
@@ -1347,6 +1379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 135819,
+      "num": 219052,
+      "word": "爱泼斯坦案名单竟出现梦露等人",
+      "onboard_time": 1771162463,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 133094,
       "num": 108418,
       "word": "张杰 春晚",
@@ -1356,19 +1396,11 @@
     },
     {
       "raw_hot": 132658,
-      "num": 132658,
+      "num": 152427,
       "word": "猫爪美甲",
       "onboard_time": 1771165043,
       "rank": 34,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 131661,
-      "num": 131661,
-      "word": "黄金和房子买哪个更保值",
-      "onboard_time": 1771161802,
-      "rank": 42,
-      "category": "财经"
     },
     {
       "raw_hot": 131575,
@@ -1379,20 +1411,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 130202,
+      "num": 127448,
+      "word": "王安宇胡先煦范丞丞熟人局",
+      "onboard_time": 1771165222,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 129243,
       "num": 108303,
       "word": "马君妍宣布二胎宝宝已有30周",
       "onboard_time": 1771076902,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 127448,
-      "num": 127448,
-      "word": "王安宇胡先煦范丞丞熟人局",
-      "onboard_time": 1771165222,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 126804,
@@ -1409,6 +1441,22 @@
       "onboard_time": 1771079062,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 126427,
+      "num": 218935,
+      "word": "谷爱凌已获额外测试训练邀请",
+      "onboard_time": 1771163063,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 122230,
+      "num": 218838,
+      "word": "中国冰壶女队vs美国",
+      "onboard_time": 1771166602,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 121800,
@@ -1451,14 +1499,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 119315,
-      "num": 208230,
-      "word": "谷爱凌已获额外测试训练邀请",
-      "onboard_time": 1771163063,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 119039,
       "num": 119039,
       "word": "惊蛰无声",
@@ -1499,14 +1539,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 116759,
-      "num": 207456,
-      "word": "爱泼斯坦案名单竟出现梦露等人",
-      "onboard_time": 1771162463,
-      "rank": 29,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 116548,
       "num": 108241,
       "word": "56岁阿姨长期情绪失控痛哭右眼失明",
@@ -1545,14 +1577,6 @@
       "onboard_time": 1771144879,
       "rank": 33,
       "category": "情感"
-    },
-    {
-      "raw_hot": 112983,
-      "num": 112983,
-      "word": "周深郎朗是对我耳朵最好的人",
-      "onboard_time": 1771163363,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 112440,
@@ -1827,6 +1851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 93712,
+      "num": 93712,
+      "word": "李子柒一口气推荐了6样宜宾非遗",
+      "onboard_time": 1771163722,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 93426,
       "num": 93426,
       "word": "谷爱凌回应雪杖断了",
@@ -1865,14 +1897,6 @@
       "onboard_time": 1771112118,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 91169,
-      "num": 91169,
-      "word": "李子柒一口气推荐了6样宜宾非遗",
-      "onboard_time": 1771163722,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 90493,
@@ -2081,6 +2105,14 @@
       "onboard_time": 1771078944,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 79469,
+      "num": 79469,
+      "word": "常远海宝小品 好看",
+      "onboard_time": 1771167082,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 79447,
