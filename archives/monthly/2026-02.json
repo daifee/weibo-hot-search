@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1771144977842,
+  "endTime": 1771145961033,
   "band_list": [
     {
       "raw_hot": 12386962,
@@ -148,7 +148,7 @@
     },
     {
       "raw_hot": 3500523,
-      "num": 150914,
+      "num": 169013,
       "word": "几杯去世",
       "onboard_time": 1771137622,
       "rank": 10,
@@ -3011,6 +3011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 610316,
+      "num": 163872,
+      "word": "吴迪说后悔生三个孩子",
+      "onboard_time": 1771141999,
+      "rank": 36,
+      "category": "网红"
+    },
+    {
       "raw_hot": 606514,
       "num": 1097042,
       "word": "22岁主播每天焊妆两次确诊肺炎",
@@ -3491,20 +3499,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 554438,
+      "num": 184390,
+      "word": "Angelababy邓超即将合拍",
+      "onboard_time": 1771141580,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 553155,
       "num": 210419,
       "word": "女星放弃抢救老公遭儿子责怪",
       "onboard_time": 1769919140,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 553042,
-      "num": 132452,
-      "word": "吴迪说后悔生三个孩子",
-      "onboard_time": 1771141999,
-      "rank": 36,
-      "category": "网红"
     },
     {
       "raw_hot": 552779,
@@ -4193,14 +4201,6 @@
       "onboard_time": 1770525080,
       "rank": 30,
       "category": "民生新闻,互联网"
-    },
-    {
-      "raw_hot": 496871,
-      "num": 132750,
-      "word": "Angelababy邓超即将合拍",
-      "onboard_time": 1771141580,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 495579,
@@ -5225,6 +5225,14 @@
       "onboard_time": 1770886281,
       "rank": 27,
       "category": "网红"
+    },
+    {
+      "raw_hot": 427775,
+      "num": 1068444,
+      "word": "2026红包分组",
+      "onboard_time": 1771138999,
+      "rank": 8,
+      "category": "互联网"
     },
     {
       "raw_hot": 427484,
@@ -7067,14 +7075,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 350640,
-      "num": 1056102,
-      "word": "2026红包分组",
-      "onboard_time": 1771138999,
-      "rank": 8,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 350418,
       "num": 350418,
       "word": "章若楠王安宇新剧开机",
@@ -7281,6 +7281,14 @@
       "onboard_time": 1770128062,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 343260,
+      "num": 184332,
+      "word": "赵今麦女团门面级别的美貌",
+      "onboard_time": 1771143319,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 343229,
@@ -7563,6 +7571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 333847,
+      "num": 184210,
+      "word": "EXO公主泡泡袖",
+      "onboard_time": 1771142660,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 333669,
       "num": 201352,
       "word": "李冰冰晒和妹妹李雪合照",
@@ -7785,14 +7801,6 @@
       "onboard_time": 1770777798,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 326548,
-      "num": 132727,
-      "word": "EXO公主泡泡袖",
-      "onboard_time": 1771142660,
-      "rank": 11,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 326173,
@@ -8028,7 +8036,7 @@
     },
     {
       "raw_hot": 318600,
-      "num": 157177,
+      "num": 184119,
       "word": "李沅禧购物视频被日本网友炎上",
       "onboard_time": 1771138640,
       "rank": 29,
@@ -8489,14 +8497,6 @@
       "onboard_time": 1770477322,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 306610,
-      "num": 132651,
-      "word": "赵今麦女团门面级别的美貌",
-      "onboard_time": 1771143319,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 306319,
@@ -9211,6 +9211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 287604,
+      "num": 184250,
+      "word": "奥巴马回应被特朗普恶搞成猴",
+      "onboard_time": 1771143799,
+      "rank": 12,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 287580,
       "num": 135850,
       "word": "gala生活照九宫格",
@@ -9593,6 +9601,14 @@
       "onboard_time": 1770884421,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 277552,
+      "num": 184646,
+      "word": "原来侯佩岑三岁时就有明星相",
+      "onboard_time": 1771144400,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 277385,
@@ -10297,6 +10313,14 @@
       "onboard_time": 1769859202,
       "rank": 4,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 258491,
+      "num": 153292,
+      "word": "冯提莫因被网友说矮生气了",
+      "onboard_time": 1771144519,
+      "rank": 32,
+      "category": "网红"
     },
     {
       "raw_hot": 258409,
@@ -11483,6 +11507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 235501,
+      "num": 158887,
+      "word": "男子聚会被下药提前离场躲过一劫",
+      "onboard_time": 1771145479,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 235470,
       "num": 235470,
       "word": "四川大学已成立工作专班",
@@ -11545,6 +11577,14 @@
       "onboard_time": 1770384442,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 234648,
+      "num": 748534,
+      "word": "郑钦文退赛",
+      "onboard_time": 1771141339,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 234600,
@@ -11649,6 +11689,14 @@
       "onboard_time": 1771049179,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 233246,
+      "num": 152611,
+      "word": "30多岁中国女子在韩机场高架桥坠亡",
+      "onboard_time": 1771143079,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 232673,
@@ -12395,14 +12443,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 219601,
-      "num": 132710,
-      "word": "奥巴马回应被特朗普恶搞成猴",
-      "onboard_time": 1771143799,
-      "rank": 12,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 219460,
       "num": 207633,
       "word": "千问让我认识到25元的购买力",
@@ -12993,14 +13033,6 @@
       "onboard_time": 1771052121,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 207754,
-      "num": 746097,
-      "word": "郑钦文退赛",
-      "onboard_time": 1771141339,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 207715,
@@ -14419,14 +14451,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 183084,
-      "num": 132397,
-      "word": "30多岁中国女子在韩机场高架桥坠亡",
-      "onboard_time": 1771143079,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 182588,
       "num": 159508,
       "word": "浙江卫视力挺白鹿",
@@ -15316,7 +15340,7 @@
     },
     {
       "raw_hot": 170721,
-      "num": 170721,
+      "num": 184012,
       "word": "谷爱凌直言睡不太够想多休息",
       "onboard_time": 1771135399,
       "rank": 46,
@@ -15619,6 +15643,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 164901,
+      "num": 184502,
+      "word": "九尾买完票被取消了",
+      "onboard_time": 1771142421,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 164851,
       "num": 164851,
       "word": "TTG对战狼队",
@@ -15849,14 +15881,6 @@
       "onboard_time": 1770082880,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 161784,
-      "num": 132261,
-      "word": "九尾买完票被取消了",
-      "onboard_time": 1771142421,
-      "rank": 30,
-      "category": "电竞"
     },
     {
       "raw_hot": 161723,
@@ -17899,14 +17923,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 140524,
-      "num": 140524,
-      "word": "原来侯佩岑三岁时就有明星相",
-      "onboard_time": 1771144400,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 140466,
       "num": 140466,
       "word": "重庆一女生被多人殴打6人被行拘",
@@ -18953,14 +18969,6 @@
       "onboard_time": 1770777260,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 132235,
-      "num": 132235,
-      "word": "冯提莫因被网友说矮生气了",
-      "onboard_time": 1771144519,
-      "rank": 32,
-      "category": "网红"
     },
     {
       "raw_hot": 132209,
@@ -20579,6 +20587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121259,
+      "num": 121259,
+      "word": "连中通都被黄景瑜拿下了",
+      "onboard_time": 1771144639,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 121194,
       "num": 121194,
       "word": "德云社封箱",
@@ -20648,6 +20664,14 @@
       "word": "夫妻离婚抢尾号7777手机号闹上法庭",
       "onboard_time": 1770128601,
       "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120396,
+      "num": 120396,
+      "word": "结婚20年给妻子转52给情人转21万",
+      "onboard_time": 1771145118,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -21729,6 +21753,14 @@
       "onboard_time": 1770561143,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 115092,
+      "num": 115092,
+      "word": "再次提醒中国公民避免赴日",
+      "onboard_time": 1771144340,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 115091,
@@ -27483,14 +27515,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 92165,
-      "num": 92165,
-      "word": "连中通都被黄景瑜拿下了",
-      "onboard_time": 1771144639,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 92147,
       "num": 92147,
       "word": "光与夜之恋新活动马上好",
@@ -28185,6 +28209,14 @@
       "onboard_time": 1770116720,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 89771,
+      "num": 89771,
+      "word": "白百何带娃随地小便该不该被指责",
+      "onboard_time": 1771145239,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 89668,
@@ -30793,6 +30825,14 @@
       "onboard_time": 1770389902,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 81325,
+      "num": 81325,
+      "word": "老同学聚会男子被下药设局诈骗",
+      "onboard_time": 1771145539,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 81304,
@@ -34011,6 +34051,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 68384,
+      "num": 175896,
+      "word": "Seedance2.0和Kling3.0视频对比",
+      "onboard_time": 1771144939,
+      "rank": 41,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 68371,
       "num": 190170,
       "word": "霸王茶姬福贴放自己一马",
@@ -35763,6 +35811,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 57319,
+      "num": 137917,
+      "word": "千问让我实现了景区门票自由",
+      "onboard_time": 1771142840,
+      "rank": 29,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 57306,
       "num": 267214,
       "word": "李宇春微博之夜幕后神图",
@@ -35889,6 +35945,14 @@
       "onboard_time": 1770051738,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 56310,
+      "num": 107189,
+      "word": "谷爱凌回应赛场吃韭菜盒子",
+      "onboard_time": 1771143799,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 56250,
@@ -36843,14 +36907,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 49026,
-      "num": 132286,
-      "word": "千问让我实现了景区门票自由",
-      "onboard_time": 1771142840,
-      "rank": 29,
-      "category": "民生新闻,互联网"
-    },
-    {
       "raw_hot": 49021,
       "num": 49021,
       "word": "女生带回家的男友是堂弟初中同学",
@@ -37073,14 +37129,6 @@
       "onboard_time": 1770482660,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 47519,
-      "num": 97239,
-      "word": "Seedance2.0和Kling3.0视频对比",
-      "onboard_time": 1771144939,
-      "rank": 41,
-      "category": "互联网"
     },
     {
       "raw_hot": 47508,
@@ -41235,6 +41283,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 23319,
+      "num": 99441,
+      "word": "还以为王阳衣服湿了",
+      "onboard_time": 1771144699,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 23308,
       "num": 640186,
       "word": "华龙一号有新进展",
@@ -42411,6 +42467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 17789,
+      "num": 97574,
+      "word": "沈阳一温泉酒店推暴风雨主题SPA",
+      "onboard_time": 1771145000,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 17773,
       "num": 169468,
       "word": "马年好运到",
@@ -43369,14 +43433,6 @@
       "onboard_time": 1771052419,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 11862,
-      "num": 99441,
-      "word": "还以为王阳衣服湿了",
-      "onboard_time": 1771144699,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 11800,
