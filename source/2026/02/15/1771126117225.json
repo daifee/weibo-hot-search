@@ -1,0 +1,410 @@
+{
+  "runTime": 1771126117225,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 557882,
+        "num": 1089261,
+        "word": "马年春晚部分节目单曝光",
+        "onboard_time": 1771115239,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 342302,
+        "num": 784758,
+        "word": "深圳18岁CEO爆火后现状",
+        "onboard_time": 1771122140,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18240,
+        "num": 629332,
+        "word": "京彩闹春不打烊",
+        "onboard_time": 1771120821,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 326738,
+        "num": 326738,
+        "word": "谷爱凌吐槽国际雪联安排不公平",
+        "onboard_time": 1771119678,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 326253,
+        "num": 326253,
+        "word": "裁判无视中国队员举手示意",
+        "onboard_time": 1771119500,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 267695,
+        "num": 267695,
+        "word": "一搭二搭全是青梅竹马",
+        "onboard_time": 1771123581,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218416,
+        "num": 218416,
+        "word": "王一博太燃根本拦不住",
+        "onboard_time": 1771122319,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213534,
+        "num": 213534,
+        "word": "为什么朋友圈没人秀恩爱了",
+        "onboard_time": 1771111756,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 211402,
+        "num": 211402,
+        "word": "cbc解说林孝埈摔倒似脚下冰面裂开",
+        "onboard_time": 1771122140,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208808,
+        "num": 208808,
+        "word": "央视官宣王菲春晚新歌",
+        "onboard_time": 1771112598,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 330504,
+        "num": 208739,
+        "word": "黄子韬回应扇了徐艺洋",
+        "onboard_time": 1771066223,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237062,
+        "num": 203254,
+        "word": "网红99元4斤带货牛肉自称假一赔万",
+        "onboard_time": 1771122980,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 267634,
+        "num": 201081,
+        "word": "留几手聊葛夕上春晚",
+        "onboard_time": 1771122440,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223732,
+        "num": 197896,
+        "word": "镖人",
+        "onboard_time": 1771122378,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 196720,
+        "num": 196720,
+        "word": "金饰价格一夜跌17元",
+        "onboard_time": 1771123998,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 167801,
+        "num": 167801,
+        "word": "谷爱凌大跳台170.75分",
+        "onboard_time": 1771112118,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146886,
+        "num": 146886,
+        "word": "家政大姐带4个空瓶回家过年",
+        "onboard_time": 1771123279,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140610,
+        "num": 140610,
+        "word": "一中国公民在新加坡赌博跳楼身亡",
+        "onboard_time": 1771114939,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136529,
+        "num": 136529,
+        "word": "丈夫破产负债10亿妻子卖珠宝帮还债",
+        "onboard_time": 1771112057,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123653,
+        "num": 123653,
+        "word": "电影镖人新春版特别预告",
+        "onboard_time": 1771123218,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 21103,
+        "num": 120261,
+        "word": "王毅正告日本别走回头路",
+        "onboard_time": 1771125859,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1481205,
+        "num": 120155,
+        "word": "白敬亭 宋轶",
+        "onboard_time": 1771120940,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261709,
+        "num": 119963,
+        "word": "伤心swimming发完整时间线",
+        "onboard_time": 1771116200,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119039,
+        "num": 119039,
+        "word": "惊蛰无声",
+        "onboard_time": 1771124839,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 241451,
+        "num": 118835,
+        "word": "女子左手被50吨冲床碾成泥",
+        "onboard_time": 1771122559,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184708,
+        "num": 117877,
+        "word": "黄子弘凡方起诉伤心swimming",
+        "onboard_time": 1771117279,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 710228,
+        "num": 117330,
+        "word": "宋轶 情侣背景",
+        "onboard_time": 1771120879,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68422,
+        "num": 116706,
+        "word": "尼格买提Mate80探班春晚后台",
+        "onboard_time": 1771123518,
+        "rank": 27,
+        "category": "综艺,数码"
+      },
+      {
+        "raw_hot": 116237,
+        "num": 116237,
+        "word": "刘少昂眼神里都看见金牌了",
+        "onboard_time": 1771124059,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143771,
+        "num": 109355,
+        "word": "伤心swimming晒聊天转账记录",
+        "onboard_time": 1771124120,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137987,
+        "num": 103989,
+        "word": "曝黄子弘凡爸爸诈骗学生",
+        "onboard_time": 1771077023,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95634,
+        "num": 95634,
+        "word": "王毅警告日本现场爆发热烈掌声",
+        "onboard_time": 1771111338,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 110917,
+        "num": 94273,
+        "word": "陈小春言承旭罗嘉豪易烊千玺同台",
+        "onboard_time": 1771118179,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105079,
+        "num": 93939,
+        "word": "白鹿7天10组物料",
+        "onboard_time": 1771125679,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92106,
+        "num": 92106,
+        "word": "林孝埈1500米摔倒",
+        "onboard_time": 1771098015,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98608,
+        "num": 92050,
+        "word": "张凌赫超话20秒语音",
+        "onboard_time": 1771119260,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88310,
+        "num": 88310,
+        "word": "虞书欣从苍兰诀就用胶片拍群像了",
+        "onboard_time": 1771113558,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88105,
+        "num": 88105,
+        "word": "建设银行被罚没超4350万",
+        "onboard_time": 1771123518,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 87290,
+        "num": 87290,
+        "word": "佟丽娅美得像AI仙鹤真得像特效",
+        "onboard_time": 1771125199,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19845,
+        "num": 84262,
+        "word": "巴厘岛溺亡男子朋友称海滩无警示",
+        "onboard_time": 1771125379,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 82565,
+        "num": 82565,
+        "word": "情绪不好时马上可以做的10件小事",
+        "onboard_time": 1771116500,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 79447,
+        "num": 79447,
+        "word": "出国旅行信息差",
+        "onboard_time": 1771125919,
+        "rank": 41,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 75847,
+        "num": 75847,
+        "word": "扣篮大赛",
+        "onboard_time": 1771116920,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75618,
+        "num": 75618,
+        "word": "英语口语水平恐怕在我之上",
+        "onboard_time": 1771124720,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 75026,
+        "num": 75026,
+        "word": "东北文学",
+        "onboard_time": 1771125437,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 72802,
+        "num": 72802,
+        "word": "奶奶为了分清充电器",
+        "onboard_time": 1771125738,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 72188,
+        "num": 72188,
+        "word": "央视春晚彩排碰到了易烊千玺",
+        "onboard_time": 1771113499,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 69359,
+        "num": 69359,
+        "word": "女孩跟家人打扫老房脑部遭真菌侵蚀",
+        "onboard_time": 1771125919,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67693,
+        "num": 67693,
+        "word": "张桂源高会语音",
+        "onboard_time": 1771125919,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64597,
+        "num": 67607,
+        "word": "迪丽热巴作品豆瓣评分",
+        "onboard_time": 1771081523,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#新征程上策马扬鞭勇往直前#"
+    }
+  }
+}
