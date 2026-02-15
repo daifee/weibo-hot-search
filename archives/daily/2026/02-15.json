@@ -1,6 +1,6 @@
 {
   "startTime": 1771087248939,
-  "endTime": 1771135554045,
+  "endTime": 1771136097036,
   "band_list": [
     {
       "raw_hot": 1481205,
@@ -187,6 +187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 362386,
+      "num": 362386,
+      "word": "过年做美甲别窝囊",
+      "onboard_time": 1771130719,
+      "rank": 34,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 342302,
       "num": 784758,
       "word": "深圳18岁CEO爆火后现状",
@@ -196,19 +204,11 @@
     },
     {
       "raw_hot": 337689,
-      "num": 337689,
+      "num": 397319,
       "word": "副省长电话被拉黑后",
       "onboard_time": 1771131319,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 333048,
-      "num": 333048,
-      "word": "过年做美甲别窝囊",
-      "onboard_time": 1771130719,
-      "rank": 34,
-      "category": "美妆"
     },
     {
       "raw_hot": 323852,
@@ -241,6 +241,14 @@
       "onboard_time": 1771098015,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 305832,
+      "num": 225733,
+      "word": "27岁乡村女教师相亲20次",
+      "onboard_time": 1771132340,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 304191,
@@ -283,6 +291,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 279855,
+      "num": 209848,
+      "word": "宋威龙赵今麦抱着同一束花",
+      "onboard_time": 1771134680,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 274201,
+      "num": 213177,
+      "word": "迅猛龙自曝身体状况",
+      "onboard_time": 1771131441,
+      "rank": 42,
+      "category": "网红"
+    },
+    {
       "raw_hot": 269837,
       "num": 269837,
       "word": "高亭宇滑出34秒47",
@@ -307,28 +331,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 263064,
-      "num": 213177,
-      "word": "迅猛龙自曝身体状况",
-      "onboard_time": 1771131441,
-      "rank": 42,
-      "category": "网红"
-    },
-    {
       "raw_hot": 260810,
       "num": 197896,
       "word": "镖人",
       "onboard_time": 1771122378,
       "rank": 11,
       "category": "电影"
-    },
-    {
-      "raw_hot": 256243,
-      "num": 225733,
-      "word": "27岁乡村女教师相亲20次",
-      "onboard_time": 1771132340,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 246055,
@@ -483,14 +491,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 209848,
-      "num": 209848,
-      "word": "宋威龙赵今麦抱着同一束花",
-      "onboard_time": 1771134680,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 207520,
       "num": 154035,
       "word": "明星回老家也得穿省服",
@@ -545,6 +545,14 @@
       "onboard_time": 1771107195,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 180070,
+      "num": 180070,
+      "word": "土耳其一航班上发生大规模斗殴",
+      "onboard_time": 1771134739,
+      "rank": 32,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 174904,
@@ -643,6 +651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132771,
+      "num": 132771,
+      "word": "王鹤棣比马丁大十岁",
+      "onboard_time": 1771134619,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 129243,
       "num": 108303,
       "word": "马君妍宣布二胎宝宝已有30周",
@@ -657,14 +673,6 @@
       "onboard_time": 1771079062,
       "rank": 8,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 124009,
-      "num": 124009,
-      "word": "土耳其一航班上发生大规模斗殴",
-      "onboard_time": 1771134739,
-      "rank": 32,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 121800,
@@ -715,14 +723,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 117400,
-      "num": 117400,
-      "word": "王鹤棣比马丁大十岁",
-      "onboard_time": 1771134619,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 116933,
       "num": 116933,
       "word": "王菲春晚后台路透",
@@ -753,6 +753,14 @@
       "onboard_time": 1771124059,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 115318,
+      "num": 202473,
+      "word": "Faker与Uzi迎来名人堂新成员",
+      "onboard_time": 1771135039,
+      "rank": 25,
+      "category": "电竞"
     },
     {
       "raw_hot": 109627,
@@ -803,16 +811,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 105831,
-      "num": 197195,
-      "word": "Faker与Uzi迎来名人堂新成员",
-      "onboard_time": 1771135039,
-      "rank": 25,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 101420,
-      "num": 101420,
+      "num": 180205,
       "word": "差5分钟赶上回家火车女子崩溃大哭",
       "onboard_time": 1771127299,
       "rank": 36,
@@ -833,6 +833,14 @@
       "onboard_time": 1771114399,
       "rank": 30,
       "category": "国际时政,互联网"
+    },
+    {
+      "raw_hot": 99683,
+      "num": 92985,
+      "word": "吃完菌子的状态百年内没人能懂",
+      "onboard_time": 1771135640,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 98801,
@@ -856,6 +864,22 @@
       "word": "张凌赫超话20秒语音",
       "onboard_time": 1771119260,
       "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 93240,
+      "num": 93240,
+      "word": "猫 算我求你了洗洗脚吧",
+      "onboard_time": 1771135760,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 92364,
+      "num": 92364,
+      "word": "伤心swimming爆料后再怒发8条",
+      "onboard_time": 1771135640,
+      "rank": 39,
       "category": "艺人"
     },
     {
@@ -963,6 +987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 81363,
+      "num": 79800,
+      "word": "时代少年团活整到蛇年最后一天了",
+      "onboard_time": 1771133720,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 79724,
       "num": 102170,
       "word": "女子染发头皮溃烂过年只能光头",
@@ -993,14 +1025,6 @@
       "onboard_time": 1771076902,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 77868,
-      "num": 77868,
-      "word": "时代少年团活整到蛇年最后一天了",
-      "onboard_time": 1771133720,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 77507,
@@ -1059,6 +1083,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 74197,
+      "num": 74197,
+      "word": "成毅2025总结vlog",
+      "onboard_time": 1771135939,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 73095,
       "num": 73095,
       "word": "自由式滑雪女子大跳台预赛",
@@ -1083,6 +1115,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 71861,
+      "num": 71861,
+      "word": "笨笨小狗和聪明小狗",
+      "onboard_time": 1771133659,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 71303,
       "num": 70203,
       "word": "向佐表白郭碧婷和孩子",
@@ -1105,14 +1145,6 @@
       "onboard_time": 1771077802,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 70336,
-      "num": 70336,
-      "word": "笨笨小狗和聪明小狗",
-      "onboard_time": 1771133659,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 70199,
@@ -1299,6 +1331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 56896,
+      "num": 188808,
+      "word": "春晚是第一个用上Seedance2.0的",
+      "onboard_time": 1771135760,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 55423,
       "num": 67951,
       "word": "林孝埈术后康复影像首次曝光",
@@ -1387,6 +1427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 46442,
+      "num": 224482,
+      "word": "大阪持刀伤人事件致1死2伤",
+      "onboard_time": 1771134978,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 44637,
       "num": 44637,
       "word": "中国队无缘女子3000米接力决赛",
@@ -1417,14 +1465,6 @@
       "onboard_time": 1771111035,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 40497,
-      "num": 224482,
-      "word": "大阪持刀伤人事件致1死2伤",
-      "onboard_time": 1771134978,
-      "rank": 19,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 39482,
@@ -1492,7 +1532,7 @@
     },
     {
       "raw_hot": 28834,
-      "num": 629730,
+      "num": 652989,
       "word": "过年放假模式已开启",
       "onboard_time": 1771127479,
       "rank": 2,
