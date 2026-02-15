@@ -1,0 +1,410 @@
+{
+  "runTime": 1771132224186,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 370842,
+        "num": 1059334,
+        "word": "马年春晚部分节目单曝光",
+        "onboard_time": 1771115239,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229219,
+        "num": 755787,
+        "word": "谷爱凌吐槽国际雪联安排不公平",
+        "onboard_time": 1771119678,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17532,
+        "num": 596296,
+        "word": "京彩闹春不打烊",
+        "onboard_time": 1771120821,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 386290,
+        "num": 386290,
+        "word": "秦昊汤唯领衔主演孔雀东南飞",
+        "onboard_time": 1771130299,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 236476,
+        "num": 236476,
+        "word": "马年清清来送签名红包",
+        "onboard_time": 1771131859,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 434010,
+        "num": 230220,
+        "word": "喝牛奶开出了隐藏款勺子",
+        "onboard_time": 1771126339,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 219043,
+        "num": 219043,
+        "word": "外语专业大退潮曾经的王牌不香了",
+        "onboard_time": 1771128019,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211683,
+        "num": 211683,
+        "word": "王菲 你我经历的一刻",
+        "onboard_time": 1771126159,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 195276,
+        "num": 195276,
+        "word": "裁判无视中国队员举手示意",
+        "onboard_time": 1771119500,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155001,
+        "num": 155001,
+        "word": "谷爱凌被迫损失1天U池训练时间",
+        "onboard_time": 1771129639,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 601542,
+        "num": 154752,
+        "word": "Angelababy撕拉片 权威脸蛋",
+        "onboard_time": 1771127960,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 410487,
+        "num": 153946,
+        "word": "乡镇公务员相亲称现实有时远超感情",
+        "onboard_time": 1771129218,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 359240,
+        "num": 153340,
+        "word": "郭富城王一博 法拉利遇上兰博基尼",
+        "onboard_time": 1771126339,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 30633,
+        "num": 152811,
+        "word": "沃尔沃XC70冰封40天破冰而出",
+        "onboard_time": 1771128440,
+        "rank": 13,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 27601,
+        "num": 152099,
+        "word": "上千问请你看惊蛰无声",
+        "onboard_time": 1771131680,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 151518,
+        "num": 151518,
+        "word": "家政大姐带4个空瓶回家过年",
+        "onboard_time": 1771123279,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207520,
+        "num": 147536,
+        "word": "明星回老家也得穿省服",
+        "onboard_time": 1771129218,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135832,
+        "num": 135832,
+        "word": "过年做美甲别窝囊",
+        "onboard_time": 1771130719,
+        "rank": 17,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 84822,
+        "num": 134091,
+        "word": "千问第二波薅羊毛攻略",
+        "onboard_time": 1771128319,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 132431,
+        "num": 132431,
+        "word": "网红99元4斤带货牛肉自称假一赔万",
+        "onboard_time": 1771122980,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1230591,
+        "num": 131849,
+        "word": "白敬亭 宋轶",
+        "onboard_time": 1771120940,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 292930,
+        "num": 129857,
+        "word": "向佐郭碧婷3岁儿子留长发",
+        "onboard_time": 1771129819,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137009,
+        "num": 129657,
+        "word": "女子左手被50吨冲床碾成泥",
+        "onboard_time": 1771122559,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212195,
+        "num": 127207,
+        "word": "伤心swimming晒聊天转账记录",
+        "onboard_time": 1771124120,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127022,
+        "num": 127022,
+        "word": "宋威龙和新郎官有什么区别",
+        "onboard_time": 1771130840,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113394,
+        "num": 123713,
+        "word": "罗小黑",
+        "onboard_time": 1771129700,
+        "rank": 25,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 402174,
+        "num": 122786,
+        "word": "宋轶 情侣背景",
+        "onboard_time": 1771120879,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121800,
+        "num": 121800,
+        "word": "王鹤棣 长红至今的前辈还有谁在",
+        "onboard_time": 1771130599,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99042,
+        "num": 119337,
+        "word": "深圳18岁CEO爆火后现状",
+        "onboard_time": 1771122140,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29260,
+        "num": 118701,
+        "word": "杨丽萍67岁仍在学习AI",
+        "onboard_time": 1771128440,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163153,
+        "num": 118636,
+        "word": "副省长电话被拉黑后",
+        "onboard_time": 1771131319,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118530,
+        "num": 118530,
+        "word": "白鹿7天10组物料",
+        "onboard_time": 1771125679,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117033,
+        "num": 117033,
+        "word": "伤心swimming发完整时间线",
+        "onboard_time": 1771116200,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100563,
+        "num": 116519,
+        "word": "金饰价格一夜跌17元",
+        "onboard_time": 1771123998,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 57076,
+        "num": 116238,
+        "word": "苏翊鸣比赛时间提前1天",
+        "onboard_time": 1771132039,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116138,
+        "num": 116138,
+        "word": "黄子韬回应扇了徐艺洋",
+        "onboard_time": 1771066223,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114486,
+        "num": 114486,
+        "word": "留几手聊葛夕上春晚",
+        "onboard_time": 1771122440,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92537,
+        "num": 92537,
+        "word": "差5分钟赶上回家火车女子崩溃大哭",
+        "onboard_time": 1771127299,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64309,
+        "num": 88001,
+        "word": "还以为是沈腾染头发了",
+        "onboard_time": 1771131859,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87929,
+        "num": 87929,
+        "word": "张柏芝儿子身高",
+        "onboard_time": 1771131139,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89844,
+        "num": 87908,
+        "word": "狗 没大没小的",
+        "onboard_time": 1771129519,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 113230,
+        "num": 87814,
+        "word": "迅猛龙自曝身体状况",
+        "onboard_time": 1771131441,
+        "rank": 41,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 87678,
+        "num": 87678,
+        "word": "cbc解说林孝埈摔倒似脚下冰面裂开",
+        "onboard_time": 1771122140,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84795,
+        "num": 84795,
+        "word": "王一博太燃根本拦不住",
+        "onboard_time": 1771122319,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81900,
+        "num": 81900,
+        "word": "曝黄子弘凡爸爸诈骗学生",
+        "onboard_time": 1771077023,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80662,
+        "num": 80662,
+        "word": "领导只审了前2分钟文案吧",
+        "onboard_time": 1771131980,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 79786,
+        "num": 79786,
+        "word": "为什么朋友圈没人秀恩爱了",
+        "onboard_time": 1771111756,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 79061,
+        "num": 79061,
+        "word": "刘少昂说我们没有planB",
+        "onboard_time": 1771132160,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77388,
+        "num": 77388,
+        "word": "白菊找回了多杰也找回了少年气性",
+        "onboard_time": 1771129819,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76072,
+        "num": 76072,
+        "word": "王楚钦蹲下与小朋友合影",
+        "onboard_time": 1771130000,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#热气腾腾的中国年#"
+    }
+  }
+}

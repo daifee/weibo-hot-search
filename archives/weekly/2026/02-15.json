@@ -1,10 +1,10 @@
 {
   "startTime": 1771087248939,
-  "endTime": 1771131744092,
+  "endTime": 1771132224186,
   "band_list": [
     {
       "raw_hot": 1481205,
-      "num": 120334,
+      "num": 131849,
       "word": "白敬亭 宋轶",
       "onboard_time": 1771120940,
       "rank": 21,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 734787,
-      "num": 118448,
+      "num": 122786,
       "word": "宋轶 情侣背景",
       "onboard_time": 1771120879,
       "rank": 26,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 495150,
-      "num": 749832,
+      "num": 755787,
       "word": "谷爱凌吐槽国际雪联安排不公平",
       "onboard_time": 1771119678,
       "rank": 3,
@@ -116,11 +116,19 @@
     },
     {
       "raw_hot": 441670,
-      "num": 181496,
+      "num": 230220,
       "word": "喝牛奶开出了隐藏款勺子",
       "onboard_time": 1771126339,
       "rank": 5,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 410487,
+      "num": 159537,
+      "word": "乡镇公务员相亲称现实有时远超感情",
+      "onboard_time": 1771129218,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 404338,
@@ -131,12 +139,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 401516,
-      "num": 159537,
-      "word": "乡镇公务员相亲称现实有时远超感情",
-      "onboard_time": 1771129218,
-      "rank": 11,
-      "category": "民生新闻"
+      "raw_hot": 386290,
+      "num": 386290,
+      "word": "秦昊汤唯领衔主演孔雀东南飞",
+      "onboard_time": 1771130299,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 375457,
@@ -171,14 +179,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 365444,
-      "num": 365444,
-      "word": "秦昊汤唯领衔主演孔雀东南飞",
-      "onboard_time": 1771130299,
-      "rank": 3,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 342302,
       "num": 784758,
       "word": "深圳18岁CEO爆火后现状",
@@ -211,6 +211,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 292930,
+      "num": 129857,
+      "word": "向佐郭碧婷3岁儿子留长发",
+      "onboard_time": 1771129819,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 292650,
       "num": 292650,
       "word": "央视官宣王菲春晚新歌",
@@ -224,14 +232,6 @@
       "word": "伤心swimming发完整时间线",
       "onboard_time": 1771116200,
       "rank": 23,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 272391,
-      "num": 118469,
-      "word": "向佐郭碧婷3岁儿子留长发",
-      "onboard_time": 1771129819,
-      "rank": 24,
       "category": "艺人"
     },
     {
@@ -292,7 +292,7 @@
     },
     {
       "raw_hot": 241451,
-      "num": 118904,
+      "num": 129657,
       "word": "女子左手被50吨冲床碾成泥",
       "onboard_time": 1771122559,
       "rank": 22,
@@ -323,6 +323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 236476,
+      "num": 236476,
+      "word": "马年清清来送签名红包",
+      "onboard_time": 1771131859,
+      "rank": 4,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 235134,
       "num": 235134,
       "word": "宁艺卓 曼谷",
@@ -340,15 +348,23 @@
     },
     {
       "raw_hot": 230772,
-      "num": 181329,
+      "num": 211683,
       "word": "王菲 你我经历的一刻",
       "onboard_time": 1771126159,
       "rank": 6,
       "category": "音乐"
     },
     {
+      "raw_hot": 219043,
+      "num": 219043,
+      "word": "外语专业大退潮曾经的王牌不香了",
+      "onboard_time": 1771128019,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 218493,
-      "num": 118263,
+      "num": 127207,
       "word": "伤心swimming晒聊天转账记录",
       "onboard_time": 1771124120,
       "rank": 29,
@@ -403,6 +419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 207520,
+      "num": 154035,
+      "word": "明星回老家也得穿省服",
+      "onboard_time": 1771129218,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201431,
       "num": 117877,
       "word": "黄子弘凡方起诉伤心swimming",
@@ -416,14 +440,6 @@
       "word": "张凌赫空降超话",
       "onboard_time": 1771081044,
       "rank": 19,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 199781,
-      "num": 154035,
-      "word": "明星回老家也得穿省服",
-      "onboard_time": 1771129218,
-      "rank": 13,
       "category": "艺人"
     },
     {
@@ -451,14 +467,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 177790,
-      "num": 177790,
-      "word": "外语专业大退潮曾经的王牌不香了",
-      "onboard_time": 1771128019,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 174904,
       "num": 174904,
       "word": "谷爱凌第一跳86.00分",
@@ -483,6 +491,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 163153,
+      "num": 118636,
+      "word": "副省长电话被拉黑后",
+      "onboard_time": 1771131319,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 162363,
       "num": 162363,
       "word": "一中国公民在新加坡赌博跳楼身亡",
@@ -504,6 +520,14 @@
       "word": "谷爱凌第2跳摔倒",
       "onboard_time": 1771097234,
       "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 155001,
+      "num": 155001,
+      "word": "谷爱凌被迫损失1天U池训练时间",
+      "onboard_time": 1771129639,
+      "rank": 18,
       "category": "体育"
     },
     {
@@ -539,20 +563,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 138901,
-      "num": 138901,
-      "word": "谷爱凌被迫损失1天U池训练时间",
-      "onboard_time": 1771129639,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 138641,
       "num": 138641,
       "word": "电影镖人新春版特别预告",
       "onboard_time": 1771123218,
       "rank": 14,
       "category": "电影"
+    },
+    {
+      "raw_hot": 135832,
+      "num": 135832,
+      "word": "过年做美甲别窝囊",
+      "onboard_time": 1771130719,
+      "rank": 34,
+      "category": "美妆"
     },
     {
       "raw_hot": 133094,
@@ -571,6 +595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 127022,
+      "num": 127022,
+      "word": "宋威龙和新郎官有什么区别",
+      "onboard_time": 1771130840,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 126464,
       "num": 126464,
       "word": "王毅就中日关系重申严正立场",
@@ -579,8 +611,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 121360,
-      "num": 121360,
+      "raw_hot": 121800,
+      "num": 121800,
       "word": "王鹤棣 长红至今的前辈还有谁在",
       "onboard_time": 1771130599,
       "rank": 19,
@@ -588,7 +620,7 @@
     },
     {
       "raw_hot": 119462,
-      "num": 118363,
+      "num": 123713,
       "word": "罗小黑",
       "onboard_time": 1771129700,
       "rank": 26,
@@ -611,28 +643,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 118530,
+      "num": 118530,
+      "word": "白鹿7天10组物料",
+      "onboard_time": 1771125679,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 118419,
       "num": 118419,
       "word": "刘亦菲情人节素颜营业",
       "onboard_time": 1771117520,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 118045,
-      "num": 118045,
-      "word": "副省长电话被拉黑后",
-      "onboard_time": 1771131319,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 116977,
-      "num": 116977,
-      "word": "白鹿7天10组物料",
-      "onboard_time": 1771125679,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 116933,
@@ -659,12 +683,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 113526,
-      "num": 113526,
-      "word": "过年做美甲别窝囊",
-      "onboard_time": 1771130719,
-      "rank": 34,
-      "category": "美妆"
+      "raw_hot": 113230,
+      "num": 88723,
+      "word": "迅猛龙自曝身体状况",
+      "onboard_time": 1771131441,
+      "rank": 42,
+      "category": "网红"
     },
     {
       "raw_hot": 109627,
@@ -771,20 +795,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 88723,
-      "num": 88723,
-      "word": "迅猛龙自曝身体状况",
-      "onboard_time": 1771131441,
-      "rank": 42,
-      "category": "网红"
-    },
-    {
       "raw_hot": 88105,
       "num": 88105,
       "word": "建设银行被罚没超4350万",
       "onboard_time": 1771123518,
       "rank": 38,
       "category": "财经"
+    },
+    {
+      "raw_hot": 87929,
+      "num": 90313,
+      "word": "张柏芝儿子身高",
+      "onboard_time": 1771131139,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 87358,
@@ -811,12 +835,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 84990,
-      "num": 91032,
-      "word": "宋威龙和新郎官有什么区别",
-      "onboard_time": 1771130840,
-      "rank": 38,
-      "category": "艺人"
+      "raw_hot": 84822,
+      "num": 140148,
+      "word": "千问第二波薅羊毛攻略",
+      "onboard_time": 1771128319,
+      "rank": 16,
+      "category": "互联网"
     },
     {
       "raw_hot": 83091,
@@ -859,6 +883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 80662,
+      "num": 80662,
+      "word": "领导只审了前2分钟文案吧",
+      "onboard_time": 1771131980,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 79724,
       "num": 102170,
       "word": "女子染发头皮溃烂过年只能光头",
@@ -873,6 +905,14 @@
       "onboard_time": 1771125919,
       "rank": 41,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 79061,
+      "num": 79061,
+      "word": "刘少昂说我们没有planB",
+      "onboard_time": 1771132160,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 79010,
@@ -899,12 +939,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 76033,
-      "num": 90313,
-      "word": "张柏芝儿子身高",
-      "onboard_time": 1771131139,
-      "rank": 39,
-      "category": "艺人"
+      "raw_hot": 77388,
+      "num": 77388,
+      "word": "白菊找回了多杰也找回了少年气性",
+      "onboard_time": 1771129819,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 75618,
@@ -952,14 +992,6 @@
       "word": "千问口令",
       "onboard_time": 1771077622,
       "rank": 33,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 72507,
-      "num": 140148,
-      "word": "千问第二波薅羊毛攻略",
-      "onboard_time": 1771128319,
-      "rank": 16,
       "category": "互联网"
     },
     {
@@ -1075,6 +1107,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 64309,
+      "num": 88001,
+      "word": "还以为是沈腾染头发了",
+      "onboard_time": 1771131859,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 63801,
       "num": 68876,
       "word": "意大利男子误将20根金条当垃圾扔掉",
@@ -1145,6 +1185,14 @@
       "onboard_time": 1771068741,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 57076,
+      "num": 116238,
+      "word": "苏翊鸣比赛时间提前1天",
+      "onboard_time": 1771132039,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 55423,
@@ -1236,7 +1284,7 @@
     },
     {
       "raw_hot": 41981,
-      "num": 139156,
+      "num": 152811,
       "word": "沃尔沃XC70冰封40天破冰而出",
       "onboard_time": 1771128440,
       "rank": 17,
@@ -1244,7 +1292,7 @@
     },
     {
       "raw_hot": 41785,
-      "num": 85046,
+      "num": 152099,
       "word": "上千问请你看惊蛰无声",
       "onboard_time": 1771131680,
       "rank": 44,
@@ -1307,6 +1355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 29260,
+      "num": 118701,
+      "word": "杨丽萍67岁仍在学习AI",
+      "onboard_time": 1771128440,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 28244,
       "num": 41779,
       "word": "陈丽君花木兰又美又飒",
@@ -1321,14 +1377,6 @@
       "onboard_time": 1771111397,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 27858,
-      "num": 118127,
-      "word": "杨丽萍67岁仍在学习AI",
-      "onboard_time": 1771128440,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 27268,
