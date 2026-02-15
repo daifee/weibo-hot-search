@@ -1,0 +1,410 @@
+{
+  "runTime": 1771151833785,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 885337,
+        "num": 1141653,
+        "word": "千问红包雨",
+        "onboard_time": 1771147700,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 664913,
+        "num": 802865,
+        "word": "2026红包分组",
+        "onboard_time": 1771138999,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 38103,
+        "num": 670119,
+        "word": "咱们空间站过年氛围拉满了",
+        "onboard_time": 1771147580,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 367633,
+        "num": 367633,
+        "word": "男子在胖东来买5000元年货花500寄出",
+        "onboard_time": 1771146199,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 334365,
+        "num": 334365,
+        "word": "再次提醒中国公民避免赴日",
+        "onboard_time": 1771144340,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 333554,
+        "num": 333554,
+        "word": "苏翊鸣第一滑70.83分",
+        "onboard_time": 1771149020,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 287817,
+        "num": 287817,
+        "word": "单板滑雪男子坡障技巧预赛",
+        "onboard_time": 1771147159,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196671,
+        "num": 196671,
+        "word": "饶雪漫 黄圣依一个结节一个结节地长",
+        "onboard_time": 1771149560,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195977,
+        "num": 195977,
+        "word": "迪丽热巴马年央视春晚",
+        "onboard_time": 1771141580,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158680,
+        "num": 158680,
+        "word": "王毅和德国总理比身高",
+        "onboard_time": 1771148839,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 287268,
+        "num": 157964,
+        "word": "有人把4万元金饰剪碎做成美甲",
+        "onboard_time": 1771150040,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178186,
+        "num": 157786,
+        "word": "马年清清来送签名红包",
+        "onboard_time": 1771131859,
+        "rank": 11,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 153336,
+        "num": 153336,
+        "word": "苏翊鸣坡面障碍技巧预赛",
+        "onboard_time": 1771148060,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152431,
+        "num": 152431,
+        "word": "辽宁春晚官宣节目单",
+        "onboard_time": 1771141519,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136883,
+        "num": 136883,
+        "word": "原来侯佩岑三岁时就有明星相",
+        "onboard_time": 1771144400,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134367,
+        "num": 134367,
+        "word": "猫 算我求你了洗洗脚吧",
+        "onboard_time": 1771135760,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 126362,
+        "num": 126362,
+        "word": "郑钦文退赛",
+        "onboard_time": 1771141339,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122650,
+        "num": 122650,
+        "word": "马年春晚部分节目单曝光",
+        "onboard_time": 1771115239,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114426,
+        "num": 114426,
+        "word": "春节偏财运爆表的星座",
+        "onboard_time": 1771137559,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 18785,
+        "num": 113962,
+        "word": "璎黎药业搬迁救命药断供",
+        "onboard_time": 1771151241,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 817271,
+        "num": 112106,
+        "word": "男子聚会被下药提前离场躲过一劫",
+        "onboard_time": 1771145479,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 727836,
+        "num": 109799,
+        "word": "几杯去世",
+        "onboard_time": 1771137622,
+        "rank": 21,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 500299,
+        "num": 108220,
+        "word": "程晓玥自曝怀二胎吃了很多垃圾食品",
+        "onboard_time": 1771148481,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 452753,
+        "num": 106993,
+        "word": "白敬亭 宋轶",
+        "onboard_time": 1771120940,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156624,
+        "num": 105589,
+        "word": "签约前买家突然砍价40万房东怒了",
+        "onboard_time": 1771145959,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 353164,
+        "num": 104104,
+        "word": "Angelababy邓超即将合拍",
+        "onboard_time": 1771141580,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 341755,
+        "num": 101910,
+        "word": "黄一鸣整下巴了",
+        "onboard_time": 1771147880,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 100728,
+        "num": 100728,
+        "word": "当00后过年走亲戚时",
+        "onboard_time": 1771151180,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 242568,
+        "num": 98275,
+        "word": "冯提莫因被网友说矮生气了",
+        "onboard_time": 1771144519,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 221609,
+        "num": 94375,
+        "word": "迪丽热巴说酒店不让贴春联",
+        "onboard_time": 1771150340,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89972,
+        "num": 89972,
+        "word": "九尾买完票被取消了",
+        "onboard_time": 1771142421,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 213332,
+        "num": 89970,
+        "word": "宋亚轩去了新疆",
+        "onboard_time": 1771147159,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184429,
+        "num": 89818,
+        "word": "吴迪说后悔生三个孩子",
+        "onboard_time": 1771141999,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 85890,
+        "num": 89734,
+        "word": "建议大家千万不要一边做一边怀疑",
+        "onboard_time": 1771137622,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126524,
+        "num": 89674,
+        "word": "赵今麦女团门面级别的美貌",
+        "onboard_time": 1771143319,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107536,
+        "num": 89631,
+        "word": "EXO公主泡泡袖",
+        "onboard_time": 1771142660,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 82507,
+        "num": 89525,
+        "word": "结婚20年给妻子转52给情人转21万",
+        "onboard_time": 1771145118,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94532,
+        "num": 89430,
+        "word": "葛夕回应上春晚",
+        "onboard_time": 1771148900,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89417,
+        "num": 89417,
+        "word": "李沅禧购物视频被日本网友炎上",
+        "onboard_time": 1771138640,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47402,
+        "num": 87876,
+        "word": "张萌 我不走这是我定的桌",
+        "onboard_time": 1771151539,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 76329,
+        "num": 87604,
+        "word": "奥巴马回应被特朗普恶搞成猴",
+        "onboard_time": 1771143799,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 87332,
+        "num": 87332,
+        "word": "汪顺马年新春vlog",
+        "onboard_time": 1771151660,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88608,
+        "num": 87278,
+        "word": "成何体统",
+        "onboard_time": 1771150279,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52407,
+        "num": 84760,
+        "word": "已经定好了千问红包雨的闹钟了",
+        "onboard_time": 1771149799,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 10184,
+        "num": 84179,
+        "word": "中国对加拿大英国免签",
+        "onboard_time": 1771151779,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 83861,
+        "num": 83861,
+        "word": "方家翊因整容鼻子修复3次",
+        "onboard_time": 1771151241,
+        "rank": 45,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 82745,
+        "num": 82745,
+        "word": "郭富城王一博 法拉利遇上兰博基尼",
+        "onboard_time": 1771126339,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 76288,
+        "num": 76288,
+        "word": "红包分组",
+        "onboard_time": 1771149080,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 77077,
+        "num": 75865,
+        "word": "王铮亮五登央视春晚",
+        "onboard_time": 1771146678,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 69830,
+        "num": 69830,
+        "word": "中方对加拿大英国免签",
+        "onboard_time": 1771151779,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的声声祝福直抵人心#"
+    }
+  }
+}
