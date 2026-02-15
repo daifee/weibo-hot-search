@@ -1,6 +1,6 @@
 {
   "startTime": 1771087248939,
-  "endTime": 1771160769044,
+  "endTime": 1771162139576,
   "band_list": [
     {
       "raw_hot": 3500523,
@@ -35,8 +35,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1030874,
-      "num": 1164939,
+      "raw_hot": 1089725,
+      "num": 1174356,
       "word": "2026红包分组",
       "onboard_time": 1771138999,
       "rank": 8,
@@ -203,7 +203,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 528851,
+      "raw_hot": 531507,
       "num": 427324,
       "word": "生命树大结局",
       "onboard_time": 1771158802,
@@ -267,6 +267,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 425408,
+      "num": 285695,
+      "word": "王菲只需轻轻出手",
+      "onboard_time": 1771159880,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 417313,
+      "num": 253430,
+      "word": "黄子弘凡与父亲责任各自独立",
+      "onboard_time": 1771160303,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 410487,
       "num": 225245,
       "word": "乡镇公务员相亲称现实有时远超感情",
@@ -313,6 +329,14 @@
       "onboard_time": 1771130299,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 376730,
+      "num": 239501,
+      "word": "大胖媳妇非教武大靖滑冰",
+      "onboard_time": 1771160240,
+      "rank": 26,
+      "category": "网红,体育"
     },
     {
       "raw_hot": 375457,
@@ -571,14 +595,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 277928,
-      "num": 273519,
-      "word": "王菲只需轻轻出手",
-      "onboard_time": 1771159880,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 277552,
       "num": 218456,
       "word": "原来侯佩岑三岁时就有明星相",
@@ -681,6 +697,14 @@
       "onboard_time": 1771135640,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 251174,
+      "num": 219397,
+      "word": "李宗恒小品 旧梗",
+      "onboard_time": 1771160841,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 250240,
@@ -883,6 +907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 217173,
+      "num": 217173,
+      "word": "姐姐脱落的乳牙呛入1岁宝宝气道",
+      "onboard_time": 1771160903,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 213109,
       "num": 123878,
       "word": "河南春晚 大量广告里穿插了少量节目",
@@ -987,12 +1019,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 177083,
-      "num": 153603,
-      "word": "大胖媳妇非教武大靖滑冰",
-      "onboard_time": 1771160240,
-      "rank": 26,
-      "category": "网红,体育"
+      "raw_hot": 176487,
+      "num": 176487,
+      "word": "樊振东vs贾哈",
+      "onboard_time": 1771161922,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 175353,
@@ -1009,6 +1041,14 @@
       "onboard_time": 1771095796,
       "rank": 3,
       "category": "民生新闻,体育"
+    },
+    {
+      "raw_hot": 172147,
+      "num": 154915,
+      "word": "元宝红包",
+      "onboard_time": 1771161383,
+      "rank": 24,
+      "category": "互联网"
     },
     {
       "raw_hot": 170721,
@@ -1059,14 +1099,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 160087,
-      "num": 149842,
-      "word": "黄子弘凡与父亲责任各自独立",
-      "onboard_time": 1771160303,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 159798,
       "num": 108485,
       "word": "从疲劳到癌症只有4步",
@@ -1097,6 +1129,14 @@
       "onboard_time": 1771097234,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 154057,
+      "num": 154057,
+      "word": "冯远征妻子梁丹妮退休团拜会献舞",
+      "onboard_time": 1771160062,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 152066,
@@ -1131,6 +1171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 144634,
+      "num": 144634,
+      "word": "汪苏泷毛衣",
+      "onboard_time": 1771161202,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 141358,
       "num": 141358,
       "word": "辽宁春晚收视",
@@ -1147,12 +1195,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 139670,
+      "num": 139670,
+      "word": "黄子弘凡 三折叠",
+      "onboard_time": 1771159641,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 139189,
       "num": 116961,
       "word": "奥斯卡回应什么时候和孙乐言结婚",
       "onboard_time": 1771140620,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 139118,
+      "num": 203238,
+      "word": "张水华爆火辞职后现状",
+      "onboard_time": 1771160421,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 138641,
@@ -1176,14 +1240,6 @@
       "word": "张杰 春晚",
       "onboard_time": 1771082662,
       "rank": 23,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 132968,
-      "num": 128008,
-      "word": "黄子弘凡 三折叠",
-      "onboard_time": 1771159641,
-      "rank": 35,
       "category": "综艺"
     },
     {
@@ -1411,6 +1467,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 106078,
+      "num": 106078,
+      "word": "TF四代川渝春晚新歌初舞台",
+      "onboard_time": 1771161501,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 104951,
+      "num": 104951,
+      "word": "樊振东赢了贾哈",
+      "onboard_time": 1771161983,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 104400,
       "num": 104400,
       "word": "王菲春晚歌曲原唱乐队毕业于北大",
@@ -1419,12 +1491,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 103007,
-      "num": 103007,
-      "word": "冯远征妻子梁丹妮退休团拜会献舞",
-      "onboard_time": 1771160062,
-      "rank": 43,
-      "category": "艺人"
+      "raw_hot": 103195,
+      "num": 103195,
+      "word": "川渝春晚节目单",
+      "onboard_time": 1771161743,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 102968,
+      "num": 102968,
+      "word": "黄金和房子买哪个更保值",
+      "onboard_time": 1771161802,
+      "rank": 42,
+      "category": "财经"
     },
     {
       "raw_hot": 101420,
@@ -1523,6 +1603,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 97449,
+      "num": 201827,
+      "word": "年会发6000万老板多次喊话财务加钱",
+      "onboard_time": 1771160062,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96889,
       "num": 96889,
       "word": "仙逆",
@@ -1569,6 +1657,14 @@
       "onboard_time": 1771139599,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93426,
+      "num": 93426,
+      "word": "谷爱凌回应雪杖断了",
+      "onboard_time": 1771158381,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 91320,
@@ -1625,6 +1721,14 @@
       "onboard_time": 1771131139,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 87634,
+      "num": 100132,
+      "word": "除夕夜微博抢红包攻略",
+      "onboard_time": 1771158322,
+      "rank": 46,
+      "category": "互联网"
     },
     {
       "raw_hot": 87358,
@@ -1809,14 +1913,6 @@
       "onboard_time": 1771076902,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 78741,
-      "num": 203238,
-      "word": "张水华爆火辞职后现状",
-      "onboard_time": 1771160421,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 78162,
@@ -2348,7 +2444,7 @@
     },
     {
       "raw_hot": 52956,
-      "num": 679150,
+      "num": 698375,
       "word": "咱们空间站过年氛围拉满了",
       "onboard_time": 1771147580,
       "rank": 2,
@@ -2433,6 +2529,14 @@
       "onboard_time": 1771109475,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 47891,
+      "num": 104656,
+      "word": "韩国人被深圳灯光秀震撼到了",
+      "onboard_time": 1771161983,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 47265,
@@ -2603,6 +2707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 27268,
+      "num": 160022,
+      "word": "00后回村接班父母办乡村大席",
+      "onboard_time": 1771161262,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27143,
       "num": 27143,
       "word": "谷爱凌第三跳84.75分",
@@ -2665,14 +2777,6 @@
       "onboard_time": 1771107795,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 22151,
-      "num": 201827,
-      "word": "年会发6000万老板多次喊话财务加钱",
-      "onboard_time": 1771160062,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 21103,
