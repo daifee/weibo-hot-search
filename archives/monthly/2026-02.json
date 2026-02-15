@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1771167262927,
+  "endTime": 1771169660257,
   "band_list": [
     {
       "raw_hot": 12386962,
@@ -923,8 +923,16 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1099828,
+      "num": 713139,
+      "word": "白鹿 红包金额",
+      "onboard_time": 1771167562,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1099304,
-      "num": 260553,
+      "num": 263002,
       "word": "男子聚会被下药提前离场躲过一劫",
       "onboard_time": 1771145479,
       "rank": 23,
@@ -1356,7 +1364,7 @@
     },
     {
       "raw_hot": 924721,
-      "num": 316531,
+      "num": 610090,
       "word": "黄金中事件 录音",
       "onboard_time": 1771163783,
       "rank": 36,
@@ -2331,6 +2339,14 @@
       "category": "互联网,综艺"
     },
     {
+      "raw_hot": 704257,
+      "num": 704257,
+      "word": "陈哲远 散财童子",
+      "onboard_time": 1771167864,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 703232,
       "num": 703232,
       "word": "小偷偷十几万刮刮乐刮完未中大奖",
@@ -2724,7 +2740,7 @@
     },
     {
       "raw_hot": 654427,
-      "num": 654427,
+      "num": 781249,
       "word": "辽宁卫视春晚",
       "onboard_time": 1771154540,
       "rank": 5,
@@ -2793,6 +2809,14 @@
       "onboard_time": 1770545960,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 644162,
+      "num": 644162,
+      "word": "黄子弘凡白鹿瞎掰王",
+      "onboard_time": 1771162582,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 642781,
@@ -3268,7 +3292,7 @@
     },
     {
       "raw_hot": 587070,
-      "num": 582069,
+      "num": 835499,
       "word": "春晚彩排",
       "onboard_time": 1770538219,
       "rank": 4,
@@ -3411,6 +3435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 574139,
+      "num": 574139,
+      "word": "Angelababy内娱顶级脸蛋回归",
+      "onboard_time": 1771164982,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 573810,
       "num": 231740,
       "word": "寒武纪",
@@ -3489,6 +3521,14 @@
       "onboard_time": 1771147159,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 565873,
+      "num": 808173,
+      "word": "包贝尔一家 看提词器",
+      "onboard_time": 1771166663,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 565161,
@@ -3883,14 +3923,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 531924,
-      "num": 314384,
-      "word": "黄子弘凡白鹿瞎掰王",
-      "onboard_time": 1771162582,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 531748,
       "num": 531748,
       "word": "谢娜宣布明年开演唱会",
@@ -3900,7 +3932,7 @@
     },
     {
       "raw_hot": 531507,
-      "num": 438044,
+      "num": 765556,
       "word": "生命树大结局",
       "onboard_time": 1771158802,
       "rank": 6,
@@ -4225,6 +4257,14 @@
       "onboard_time": 1770428359,
       "rank": 3,
       "category": "体育,财经"
+    },
+    {
+      "raw_hot": 502683,
+      "num": 502683,
+      "word": "张子墨自拍",
+      "onboard_time": 1771167802,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 501605,
@@ -5684,7 +5724,7 @@
     },
     {
       "raw_hot": 412516,
-      "num": 412516,
+      "num": 738466,
       "word": "姐姐脱落的乳牙呛入1岁宝宝气道",
       "onboard_time": 1771160903,
       "rank": 14,
@@ -6964,7 +7004,7 @@
     },
     {
       "raw_hot": 362469,
-      "num": 238654,
+      "num": 258401,
       "word": "一栗小莎子大年初四化疗",
       "onboard_time": 1771164262,
       "rank": 26,
@@ -7905,14 +7945,6 @@
       "onboard_time": 1770962721,
       "rank": 48,
       "category": "休闲"
-    },
-    {
-      "raw_hot": 330611,
-      "num": 249184,
-      "word": "Angelababy内娱顶级脸蛋回归",
-      "onboard_time": 1771164982,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 330464,
@@ -9859,6 +9891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 278218,
+      "num": 278218,
+      "word": "喵娲娲 30万红包",
+      "onboard_time": 1771167502,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 277888,
       "num": 277888,
       "word": "局长收370元礼品被免职",
@@ -10169,6 +10209,14 @@
       "onboard_time": 1770383482,
       "rank": 25,
       "category": "美食,互联网"
+    },
+    {
+      "raw_hot": 269910,
+      "num": 269910,
+      "word": "学术界 仅退款",
+      "onboard_time": 1771167923,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 269837,
@@ -10809,6 +10857,14 @@
       "onboard_time": 1770791960,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 255052,
+      "num": 801418,
+      "word": "背滕王阁序被免票日本男子发声",
+      "onboard_time": 1771168462,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 254971,
@@ -12003,14 +12059,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 232862,
-      "num": 232862,
-      "word": "包贝尔一家 看提词器",
-      "onboard_time": 1771166663,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 232673,
       "num": 232673,
       "word": "一大批年轻人开始反向过年",
@@ -12275,12 +12323,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 228330,
+      "num": 228330,
+      "word": "周深 小品天赋",
+      "onboard_time": 1771168462,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 228329,
       "num": 195916,
       "word": "于正发的杨采钰",
       "onboard_time": 1769924959,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 228291,
+      "num": 228291,
+      "word": "辣目洋子这么瘦了",
+      "onboard_time": 1771169062,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 228199,
@@ -12881,6 +12945,14 @@
       "onboard_time": 1770209541,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 217419,
+      "num": 656888,
+      "word": "爱泼斯坦案名单竟出现梦露等人",
+      "onboard_time": 1771162463,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 217342,
@@ -14145,6 +14217,14 @@
       "onboard_time": 1770908061,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 194682,
+      "num": 356040,
+      "word": "中国冰壶女队vs美国",
+      "onboard_time": 1771166602,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 194572,
@@ -17179,6 +17259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 151246,
+      "num": 127469,
+      "word": "央妈王安宇粉上了",
+      "onboard_time": 1771167623,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 151168,
       "num": 67987,
       "word": "韦德和曹格是对家",
@@ -17825,6 +17913,14 @@
       "onboard_time": 1770340882,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 145419,
+      "num": 125650,
+      "word": "这是普通人接触到的行业天花板了",
+      "onboard_time": 1771169123,
+      "rank": 31,
+      "category": "教育"
     },
     {
       "raw_hot": 145372,
@@ -19033,14 +19129,6 @@
       "onboard_time": 1770285147,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 135819,
-      "num": 219052,
-      "word": "爱泼斯坦案名单竟出现梦露等人",
-      "onboard_time": 1771162463,
-      "rank": 29,
-      "category": "国际时政"
     },
     {
       "raw_hot": 135794,
@@ -20915,14 +21003,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 122230,
-      "num": 218838,
-      "word": "中国冰壶女队vs美国",
-      "onboard_time": 1771166602,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 122209,
       "num": 119930,
       "word": "tws回归预告封面没有韩振",
@@ -21337,6 +21417,14 @@
       "onboard_time": 1770382040,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 119930,
+      "num": 119930,
+      "word": "周深演老头",
+      "onboard_time": 1771168702,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 119841,
@@ -29363,6 +29451,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 88409,
+      "num": 88409,
+      "word": "郝熠然隔空投送瞬间",
+      "onboard_time": 1771169602,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 88393,
       "num": 121048,
       "word": "春节前夕中央领导同志看望老同志",
@@ -29417,6 +29513,14 @@
       "onboard_time": 1770865100,
       "rank": 45,
       "category": "财经"
+    },
+    {
+      "raw_hot": 88273,
+      "num": 88273,
+      "word": "多杰是因为伤势太重失血过多死的",
+      "onboard_time": 1771167383,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 88269,
@@ -30409,6 +30513,14 @@
       "onboard_time": 1770205462,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 85215,
+      "num": 85215,
+      "word": "有人提前2天上高速省1400元高速费",
+      "onboard_time": 1771169422,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 85199,
@@ -35345,6 +35457,14 @@
       "onboard_time": 1770891140,
       "rank": 38,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 65470,
+      "num": 728403,
+      "word": "金博洋总结三届冬奥会",
+      "onboard_time": 1771168462,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 65432,
@@ -40321,6 +40441,14 @@
       "onboard_time": 1770714259,
       "rank": 32,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 33044,
+      "num": 833920,
+      "word": "航天人以圆满成功给全国人民拜年",
+      "onboard_time": 1771168523,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 33011,
