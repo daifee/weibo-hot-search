@@ -1,22 +1,30 @@
 {
   "startTime": 1771173652789,
-  "endTime": 1771209918991,
+  "endTime": 1771212395582,
   "band_list": [
     {
+      "raw_hot": 3530354,
+      "num": 184908,
+      "word": "明星红包",
+      "onboard_time": 1771203439,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 3070536,
-      "num": 1443874,
+      "num": 2189900,
       "word": "红包",
       "onboard_time": 1771171402,
       "rank": 3,
       "category": "互联网"
     },
     {
-      "raw_hot": 2582130,
-      "num": 184908,
-      "word": "明星红包",
-      "onboard_time": 1771203439,
-      "rank": 10,
-      "category": "艺人"
+      "raw_hot": 2990936,
+      "num": 2990936,
+      "word": "红包分组",
+      "onboard_time": 1771203079,
+      "rank": 1,
+      "category": "互联网"
     },
     {
       "raw_hot": 2308822,
@@ -27,14 +35,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 2306315,
-      "num": 2306315,
-      "word": "红包分组",
-      "onboard_time": 1771203079,
-      "rank": 1,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 1052016,
       "num": 130346,
       "word": "白鹿 红包金额",
@@ -43,12 +43,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 810808,
+      "raw_hot": 989888,
       "num": 810808,
       "word": "春晚大赏",
       "onboard_time": 1771204220,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 775689,
+      "num": 156476,
+      "word": "等白鹿红包",
+      "onboard_time": 1771201038,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 721216,
@@ -59,19 +67,19 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 689204,
+      "num": 92947,
+      "word": "李亚鹏饮酒后83岁母亲开车接其回家",
+      "onboard_time": 1771208181,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 666527,
       "num": 129657,
       "word": "陈哲远 散财童子",
       "onboard_time": 1771167864,
       "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 590423,
-      "num": 92947,
-      "word": "李亚鹏饮酒后83岁母亲开车接其回家",
-      "onboard_time": 1771208181,
-      "rank": 20,
       "category": "艺人"
     },
     {
@@ -83,11 +91,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 586729,
-      "num": 156476,
-      "word": "等白鹿红包",
-      "onboard_time": 1771201038,
-      "rank": 12,
+      "raw_hot": 557782,
+      "num": 132584,
+      "word": "祝绪丹口令红包",
+      "onboard_time": 1771207700,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -107,6 +115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 458857,
+      "num": 86103,
+      "word": "白鹿红包没门槛",
+      "onboard_time": 1771210459,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 453602,
       "num": 218251,
       "word": "学术界 仅退款",
@@ -123,12 +139,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 417594,
+      "num": 97356,
+      "word": "陈星旭的红包",
+      "onboard_time": 1771211601,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 388645,
       "num": 657790,
       "word": "背滕王阁序被免票日本男子发声",
       "onboard_time": 1771168462,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 350966,
+      "num": 350966,
+      "word": "金色朋友圈怎么弄",
+      "onboard_time": 1771210520,
+      "rank": 5,
+      "category": "互联网"
     },
     {
       "raw_hot": 319544,
@@ -147,11 +179,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 305902,
-      "num": 83376,
-      "word": "祝绪丹口令红包",
-      "onboard_time": 1771207700,
-      "rank": 30,
+      "raw_hot": 296688,
+      "num": 93056,
+      "word": "楼晚",
+      "onboard_time": 1771210941,
+      "rank": 17,
       "category": "艺人"
     },
     {
@@ -193,6 +225,14 @@
       "onboard_time": 1771147700,
       "rank": 12,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 214829,
+      "num": 214829,
+      "word": "狗 你放心睡我给你拦着",
+      "onboard_time": 1771206499,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 202767,
@@ -339,6 +379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 127605,
+      "num": 87868,
+      "word": "租对象除夕回家一天1500元",
+      "onboard_time": 1771208300,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 126878,
       "num": 89173,
       "word": "父亲去世母亲手术14岁男孩摆摊卖对联",
@@ -368,14 +416,6 @@
       "word": "21年老店因帅儿子逆袭",
       "onboard_time": 1771203259,
       "rank": 25,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 112937,
-      "num": 87868,
-      "word": "租对象除夕回家一天1500元",
-      "onboard_time": 1771208300,
-      "rank": 26,
       "category": "民生新闻"
     },
     {
@@ -427,6 +467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 102432,
+      "num": 102432,
+      "word": "韩聪哽咽回应晋级自由滑",
+      "onboard_time": 1771209920,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 99164,
       "num": 99164,
       "word": "姐姐脱落的乳牙呛入1岁宝宝气道",
@@ -467,12 +515,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 84507,
-      "num": 84507,
-      "word": "狗 你放心睡我给你拦着",
-      "onboard_time": 1771206499,
-      "rank": 28,
-      "category": "幽默"
+      "raw_hot": 83824,
+      "num": 83824,
+      "word": "各国选手冬奥村沉浸式体验中国年",
+      "onboard_time": 1771212141,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 82691,
@@ -481,6 +529,22 @@
       "onboard_time": 1771204760,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 80371,
+      "num": 77360,
+      "word": "杨幂贺岁图",
+      "onboard_time": 1771211900,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 78797,
+      "num": 78797,
+      "word": "过年必备饮品出现了",
+      "onboard_time": 1771212020,
+      "rank": 33,
+      "category": "美食"
     },
     {
       "raw_hot": 76002,
@@ -497,6 +561,14 @@
       "onboard_time": 1771208900,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 72869,
+      "num": 72869,
+      "word": "谷爱凌再登自由式滑雪大跳台",
+      "onboard_time": 1771212141,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 71356,
@@ -587,6 +659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 64487,
+      "num": 64487,
+      "word": "樊振东像个小福娃",
+      "onboard_time": 1771212020,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 64470,
       "num": 64470,
       "word": "云旗 明年还要一起玩",
@@ -675,6 +755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 60295,
+      "num": 60295,
+      "word": "李现四登央视春晚",
+      "onboard_time": 1771209739,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 59605,
       "num": 62437,
       "word": "一栗小莎子大年初四化疗",
@@ -691,11 +779,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 59178,
-      "num": 59178,
-      "word": "李现四登央视春晚",
-      "onboard_time": 1771209739,
-      "rank": 42,
+      "raw_hot": 58710,
+      "num": 58710,
+      "word": "王一博连续2年登央视春晚",
+      "onboard_time": 1771211241,
+      "rank": 44,
       "category": "综艺"
     },
     {
@@ -705,6 +793,14 @@
       "onboard_time": 1771169602,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 56277,
+      "num": 56277,
+      "word": "古人抽象的过年方式",
+      "onboard_time": 1771210941,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 55409,
@@ -721,6 +817,22 @@
       "onboard_time": 1771173141,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 55255,
+      "num": 55255,
+      "word": "今天你洗头了吗",
+      "onboard_time": 1771210158,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 53165,
+      "num": 53165,
+      "word": "神二十乘组通过40倍显微镜发现裂纹",
+      "onboard_time": 1771212259,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 53034,
@@ -835,6 +947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 38936,
+      "num": 84043,
+      "word": "春晚团圆冬奥冲金咪咕除夕转不停",
+      "onboard_time": 1771211781,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 33623,
       "num": 222636,
       "word": "荷兰包揽速滑女子500米金银牌",
@@ -896,6 +1016,14 @@
       "word": "海南节后离岛热门航线经济舱售罄",
       "onboard_time": 1771209380,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27817,
+      "num": 163951,
+      "word": "南方局地降温10摄氏度",
+      "onboard_time": 1771211180,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -987,6 +1115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 19402,
+      "num": 83883,
+      "word": "原来春联的C位是由横批决定的",
+      "onboard_time": 1771212200,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18767,
       "num": 34522,
       "word": "田曦薇下一站春晚剧照",
@@ -1004,7 +1140,7 @@
     },
     {
       "raw_hot": 18011,
-      "num": 1779898,
+      "num": 2229513,
       "word": "骏马贺新春电子贺卡",
       "onboard_time": 1771193774,
       "rank": 2,

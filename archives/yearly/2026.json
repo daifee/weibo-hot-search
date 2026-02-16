@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1771209918991,
+  "endTime": 1771212395582,
   "band_list": [
     {
       "raw_hot": 22742360,
@@ -371,6 +371,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 3530354,
+      "num": 217237,
+      "word": "明星红包",
+      "onboard_time": 1771073841,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 3500523,
       "num": 199323,
       "word": "几杯去世",
@@ -420,7 +428,7 @@
     },
     {
       "raw_hot": 3070536,
-      "num": 1443874,
+      "num": 2189900,
       "word": "红包",
       "onboard_time": 1771050141,
       "rank": 10,
@@ -456,6 +464,14 @@
       "word": "刘一诺 没义务替檀健次承受抹黑",
       "onboard_time": 1768014739,
       "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2990936,
+      "num": 2990936,
+      "word": "红包分组",
+      "onboard_time": 1767174140,
+      "rank": 23,
       "category": "艺人"
     },
     {
@@ -603,14 +619,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 2582130,
-      "num": 217237,
-      "word": "明星红包",
-      "onboard_time": 1771073841,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 2536475,
       "num": 204117,
       "word": "阿Sa官宣恋情",
@@ -681,14 +689,6 @@
       "onboard_time": 1771207399,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2306315,
-      "num": 2306315,
-      "word": "红包分组",
-      "onboard_time": 1767174140,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 2304718,
