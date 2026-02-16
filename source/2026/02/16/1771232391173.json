@@ -1,0 +1,410 @@
+{
+  "runTime": 1771232391173,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 13733104,
+        "num": 13733104,
+        "word": "明星红包",
+        "onboard_time": 1771203439,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 689857,
+        "num": 2949966,
+        "word": "年夜饭",
+        "onboard_time": 1771215082,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13279,
+        "num": 2261341,
+        "word": "宇宙级新春祝福上新了",
+        "onboard_time": 1771215802,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 5294251,
+        "num": 5294251,
+        "word": "春晚节目单",
+        "onboard_time": 1771207399,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 267941,
+        "num": 1695833,
+        "word": "千问红包",
+        "onboard_time": 1771222284,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1597743,
+        "num": 1597743,
+        "word": "红包分组",
+        "onboard_time": 1771203079,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1235602,
+        "num": 1235602,
+        "word": "红包",
+        "onboard_time": 1771171402,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 170529,
+        "num": 1192596,
+        "word": "你的骑手正在和外卖箱打架",
+        "onboard_time": 1771226182,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 142221,
+        "num": 1190626,
+        "word": "除夕",
+        "onboard_time": 1771198338,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128026,
+        "num": 1188887,
+        "word": "口令红包",
+        "onboard_time": 1771213342,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1188769,
+        "num": 1188769,
+        "word": "陈都灵红包单包的金额设置好高",
+        "onboard_time": 1771231343,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1117047,
+        "num": 1117047,
+        "word": "蹲王星越红包",
+        "onboard_time": 1771231523,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113827,
+        "num": 1062284,
+        "word": "微博 全世界最有年味的地方",
+        "onboard_time": 1771231523,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1056437,
+        "num": 1056437,
+        "word": "李一桐定时红包",
+        "onboard_time": 1771228162,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 929901,
+        "num": 929901,
+        "word": "春晚大赏",
+        "onboard_time": 1771204220,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110726,
+        "num": 913267,
+        "word": "麻将鸡蛋",
+        "onboard_time": 1771226963,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 898849,
+        "num": 898849,
+        "word": "敖瑞鹏发红包还有前菜",
+        "onboard_time": 1771223244,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 738787,
+        "num": 738787,
+        "word": "迪丽热巴人鱼公主",
+        "onboard_time": 1771231466,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84517,
+        "num": 646744,
+        "word": "今天又要集体洗头了",
+        "onboard_time": 1771208300,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80822,
+        "num": 582657,
+        "word": "被王毅痛斥后日本急了",
+        "onboard_time": 1771217844,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 17853,
+        "num": 581189,
+        "word": "除夕福到团圆到",
+        "onboard_time": 1771217362,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 580051,
+        "num": 580051,
+        "word": "沈腾马丽没小品",
+        "onboard_time": 1771229301,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107346,
+        "num": 565244,
+        "word": "一阳双排",
+        "onboard_time": 1771228403,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 560151,
+        "num": 560151,
+        "word": "梁洁红包",
+        "onboard_time": 1771224264,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 424253,
+        "num": 424253,
+        "word": "陈哲远 15万红包",
+        "onboard_time": 1771212920,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184201,
+        "num": 382730,
+        "word": "孙颖莎红包",
+        "onboard_time": 1771227920,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87051,
+        "num": 377938,
+        "word": "终于有人把抢红包算法讲明白了",
+        "onboard_time": 1771230683,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 376101,
+        "num": 376101,
+        "word": "周翊然小号",
+        "onboard_time": 1771230804,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21026,
+        "num": 374648,
+        "word": "年夜饭变身大型千问拉新现场",
+        "onboard_time": 1771229122,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 34001,
+        "num": 374578,
+        "word": "小孩哥教爷爷抢千问红包",
+        "onboard_time": 1771229122,
+        "rank": 29,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 374577,
+        "num": 374577,
+        "word": "张凌赫 七个红包",
+        "onboard_time": 1771219945,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155938,
+        "num": 371397,
+        "word": "否认南京大屠杀的日本酒店老板死了",
+        "onboard_time": 1771224264,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 371106,
+        "num": 371106,
+        "word": "孟子义 先发美图再发红包",
+        "onboard_time": 1771226902,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 347780,
+        "num": 347780,
+        "word": "李沁 没抢到但这张图好美",
+        "onboard_time": 1771230503,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145005,
+        "num": 333232,
+        "word": "小偷打开门都以为自己穿越了",
+        "onboard_time": 1771231343,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 326560,
+        "num": 326560,
+        "word": "王楚然空降",
+        "onboard_time": 1771231704,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 320104,
+        "num": 320104,
+        "word": "春晚3个小品",
+        "onboard_time": 1771227742,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100713,
+        "num": 316393,
+        "word": "马年壁纸",
+        "onboard_time": 1771231283,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 314454,
+        "num": 314454,
+        "word": "谭松韵 年画娃娃",
+        "onboard_time": 1771230683,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95387,
+        "num": 283364,
+        "word": "泰国机场凌晨堵满中国人",
+        "onboard_time": 1771231763,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 275822,
+        "num": 275822,
+        "word": "曾舜晞红包",
+        "onboard_time": 1771227920,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 271978,
+        "num": 271978,
+        "word": "周翊然红包",
+        "onboard_time": 1771220842,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95890,
+        "num": 95890,
+        "word": "红包雨",
+        "onboard_time": 1771217903,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 256245,
+        "num": 95873,
+        "word": "孟子义红包",
+        "onboard_time": 1771230323,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232025,
+        "num": 95842,
+        "word": "春晚没有相声",
+        "onboard_time": 1771228342,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84919,
+        "num": 95770,
+        "word": "弟弟为了过年真的尽力了",
+        "onboard_time": 1771230503,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 220353,
+        "num": 95764,
+        "word": "春晚没人愿意和邓超搭档了吗",
+        "onboard_time": 1771231466,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208625,
+        "num": 95709,
+        "word": "王橹杰高会",
+        "onboard_time": 1771232185,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73446,
+        "num": 95682,
+        "word": "短道速滑男子5000米接力",
+        "onboard_time": 1771230503,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 70690,
+        "num": 95603,
+        "word": "孙颖莎除夕发文",
+        "onboard_time": 1771230083,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记和我们一起置办年货#"
+    }
+  }
+}
