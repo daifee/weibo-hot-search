@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1771199464399,
+  "endTime": 1771209918991,
   "band_list": [
     {
       "raw_hot": 12386962,
@@ -164,7 +164,7 @@
     },
     {
       "raw_hot": 3070536,
-      "num": 1145773,
+      "num": 1443874,
       "word": "红包",
       "onboard_time": 1771050141,
       "rank": 10,
@@ -227,6 +227,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 2582130,
+      "num": 217237,
+      "word": "明星红包",
+      "onboard_time": 1771073841,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2530180,
       "num": 2530180,
       "word": "谷爱凌第一滑摔倒",
@@ -257,6 +265,22 @@
       "onboard_time": 1770359000,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2308822,
+      "num": 2308822,
+      "word": "春晚节目单",
+      "onboard_time": 1771207399,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 2306315,
+      "num": 2306315,
+      "word": "红包分组",
+      "onboard_time": 1771062620,
+      "rank": 9,
+      "category": "互联网"
     },
     {
       "raw_hot": 2277608,
@@ -1819,6 +1843,14 @@
       "category": "休闲,情感"
     },
     {
+      "raw_hot": 810808,
+      "num": 810808,
+      "word": "春晚大赏",
+      "onboard_time": 1771204220,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 808277,
       "num": 1129324,
       "word": "微博之夜阵容夯爆了",
@@ -3267,6 +3299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 590423,
+      "num": 92947,
+      "word": "李亚鹏饮酒后83岁母亲开车接其回家",
+      "onboard_time": 1771208181,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 589564,
       "num": 221571,
       "word": "马思纯",
@@ -3321,6 +3361,14 @@
       "onboard_time": 1769953943,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 586729,
+      "num": 156476,
+      "word": "等白鹿红包",
+      "onboard_time": 1771201038,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 585596,
@@ -3712,6 +3760,14 @@
       "word": "贺娇龙抢救前还在安排工作",
       "onboard_time": 1770609980,
       "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 550291,
+      "num": 550291,
+      "word": "今天又要集体洗头了",
+      "onboard_time": 1771208300,
+      "rank": 6,
       "category": "民生新闻"
     },
     {
@@ -5059,14 +5115,6 @@
       "category": "艺人,健康医疗"
     },
     {
-      "raw_hot": 452128,
-      "num": 217237,
-      "word": "明星红包",
-      "onboard_time": 1771073841,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 452045,
       "num": 768004,
       "word": "男子90万买彩票未中奖起诉彩票中心",
@@ -5371,6 +5419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 431868,
+      "num": 92220,
+      "word": "奥巴马称外星人的确存在",
+      "onboard_time": 1771202240,
+      "rank": 21,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 431200,
       "num": 1068992,
       "word": "官员落马导致16亿项目烂尾",
@@ -5625,14 +5681,6 @@
       "onboard_time": 1771043300,
       "rank": 15,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 418756,
-      "num": 1067001,
-      "word": "红包分组",
-      "onboard_time": 1771062620,
-      "rank": 9,
-      "category": "互联网"
     },
     {
       "raw_hot": 418467,
@@ -8315,6 +8363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 319544,
+      "num": 91168,
+      "word": "几杯辟谣去世",
+      "onboard_time": 1771203259,
+      "rank": 22,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 319491,
       "num": 319491,
       "word": "微信 贴图",
@@ -8848,6 +8904,14 @@
       "word": "宋旻浩或将被判刑",
       "onboard_time": 1770860239,
       "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 305902,
+      "num": 83376,
+      "word": "祝绪丹口令红包",
+      "onboard_time": 1771207700,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -13011,6 +13075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 216688,
+      "num": 216688,
+      "word": "除夕文案",
+      "onboard_time": 1771198338,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 216684,
       "num": 216684,
       "word": "比伯后背纹了海莉纹身",
@@ -13780,7 +13852,7 @@
     },
     {
       "raw_hot": 202767,
-      "num": 76063,
+      "num": 90434,
       "word": "杜海涛晒与沈梦辰情人节约会照",
       "onboard_time": 1771198037,
       "rank": 24,
@@ -13881,6 +13953,14 @@
       "onboard_time": 1771036519,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 200611,
+      "num": 139931,
+      "word": "杨迪除夕红包",
+      "onboard_time": 1771202900,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 200192,
@@ -14689,6 +14769,14 @@
       "onboard_time": 1770176241,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 187549,
+      "num": 187549,
+      "word": "春晚大赏明星红包",
+      "onboard_time": 1771200499,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 187524,
@@ -15577,6 +15665,14 @@
       "onboard_time": 1770948441,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 174063,
+      "num": 174063,
+      "word": "今年除夕为啥不是年三十",
+      "onboard_time": 1771205600,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 173995,
@@ -17281,14 +17377,6 @@
       "onboard_time": 1770616279,
       "rank": 23,
       "category": "电影"
-    },
-    {
-      "raw_hot": 151725,
-      "num": 151725,
-      "word": "除夕文案",
-      "onboard_time": 1771198338,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 151684,
@@ -20435,6 +20523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 126878,
+      "num": 89173,
+      "word": "父亲去世母亲手术14岁男孩摆摊卖对联",
+      "onboard_time": 1771203919,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 126814,
       "num": 123255,
       "word": "爱泼斯坦装修家具很多购自佛山",
@@ -21097,6 +21193,14 @@
       "onboard_time": 1770962780,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 122237,
+      "num": 122237,
+      "word": "李子柒真诚",
+      "onboard_time": 1771202720,
+      "rank": 14,
+      "category": "美食,网红"
     },
     {
       "raw_hot": 122209,
@@ -22803,6 +22907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 113427,
+      "num": 89044,
+      "word": "21年老店因帅儿子逆袭",
+      "onboard_time": 1771203259,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 113419,
       "num": 113419,
       "word": "王濛说中国队尽力了",
@@ -22937,6 +23049,14 @@
       "onboard_time": 1770624199,
       "rank": 27,
       "category": "数码"
+    },
+    {
+      "raw_hot": 112937,
+      "num": 87868,
+      "word": "租对象除夕回家一天1500元",
+      "onboard_time": 1771208300,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112885,
@@ -30035,6 +30155,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 87410,
+      "num": 87410,
+      "word": "文班亚马拯救全明星",
+      "onboard_time": 1771208181,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 87409,
       "num": 87409,
       "word": "国投白银LOF停复牌安排",
@@ -30907,6 +31035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 84507,
+      "num": 84507,
+      "word": "狗 你放心睡我给你拦着",
+      "onboard_time": 1771206499,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 84473,
       "num": 109417,
       "word": "20岁小伙做新郎跟妆师月入2万",
@@ -31393,6 +31529,14 @@
       "onboard_time": 1770863960,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 82691,
+      "num": 82691,
+      "word": "伦纳德全明星单节31分",
+      "onboard_time": 1771204760,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 82656,
@@ -33803,6 +33947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 74862,
+      "num": 54142,
+      "word": "沪上阿姨鞠婧祎红包封面",
+      "onboard_time": 1771208900,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 74829,
       "num": 193543,
       "word": "迪丽热巴交出眼镜攻略",
@@ -35315,6 +35467,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 67441,
+      "num": 67441,
+      "word": "半个娱乐圈都来宜宾过年了",
+      "onboard_time": 1771203380,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 67382,
       "num": 67382,
       "word": "整个年会因为这首歌变成了国宴",
@@ -35480,6 +35640,14 @@
       "word": "莱巴金娜无缘多哈赛四强",
       "onboard_time": 1770950839,
       "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 66390,
+      "num": 66390,
+      "word": "樊振东朝达科撒娇",
+      "onboard_time": 1771209139,
+      "rank": 35,
       "category": "体育"
     },
     {
@@ -36003,6 +36171,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 63677,
+      "num": 63677,
+      "word": "床头床尾说话要带个对讲机",
+      "onboard_time": 1771206739,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 63654,
       "num": 63654,
       "word": "白鹿发型没乱王星越心乱了",
@@ -36027,6 +36203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 63611,
+      "num": 63611,
+      "word": "张杰马年贺岁单曲策马",
+      "onboard_time": 1771209559,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 63587,
       "num": 63587,
       "word": "爱泼斯坦曾形容科技巨头晚宴很疯狂",
@@ -36041,6 +36225,14 @@
       "onboard_time": 1770927194,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 63552,
+      "num": 63552,
+      "word": "田曦薇首登央视春晚",
+      "onboard_time": 1771182795,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 63549,
@@ -36121,6 +36313,14 @@
       "onboard_time": 1770162139,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 63095,
+      "num": 63095,
+      "word": "长大后终于成为了自己讨厌的亲戚",
+      "onboard_time": 1771203919,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 62976,
@@ -36419,6 +36619,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 61501,
+      "num": 61501,
+      "word": "古特雷斯呼吁发达国家效法中国",
+      "onboard_time": 1771208119,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 61482,
       "num": 76704,
       "word": "女子被拐32年曾离父母家仅1公里",
@@ -36611,6 +36819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 60335,
+      "num": 60335,
+      "word": "马年春晚彩排",
+      "onboard_time": 1771204760,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 60281,
       "num": 60281,
       "word": "Gala回复Bin",
@@ -36793,6 +37009,14 @@
       "onboard_time": 1770518119,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 59178,
+      "num": 59178,
+      "word": "李现四登央视春晚",
+      "onboard_time": 1771209739,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 59137,
@@ -37403,14 +37627,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 53590,
-      "num": 53590,
-      "word": "田曦薇首登央视春晚",
-      "onboard_time": 1771182795,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 53585,
       "num": 101834,
       "word": "有环卫工时薪仅3元低于共享充电宝",
@@ -37459,6 +37675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 53034,
+      "num": 53034,
+      "word": "春节被白鹿唐宫追着喂饭吃",
+      "onboard_time": 1771209680,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 52968,
       "num": 146483,
       "word": "过年打麻将一场输赢超300就算赌博",
@@ -37505,6 +37729,14 @@
       "onboard_time": 1770248778,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 52525,
+      "num": 52525,
+      "word": "隋文静韩聪把只此青绿带到奥运赛场",
+      "onboard_time": 1771203199,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 52521,
@@ -38977,6 +39209,14 @@
       "onboard_time": 1770807199,
       "rank": 9,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 43962,
+      "num": 83382,
+      "word": "老农坐火车卖菜十多年挣出一栋房",
+      "onboard_time": 1771208600,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 43875,
@@ -41147,6 +41387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 30852,
+      "num": 985139,
+      "word": "米兰冬奥会16日看点",
+      "onboard_time": 1771207819,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 30818,
       "num": 36104,
       "word": "隋文静看金博洋短节目哭了",
@@ -41593,6 +41841,14 @@
       "onboard_time": 1771111397,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 28175,
+      "num": 93304,
+      "word": "海南节后离岛热门航线经济舱售罄",
+      "onboard_time": 1771209380,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 28171,
@@ -43900,7 +44156,7 @@
     },
     {
       "raw_hot": 18011,
-      "num": 580215,
+      "num": 1779898,
       "word": "骏马贺新春电子贺卡",
       "onboard_time": 1771193774,
       "rank": 2,
