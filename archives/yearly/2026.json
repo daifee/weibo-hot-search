@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1771212395582,
+  "endTime": 1771218436247,
   "band_list": [
     {
       "raw_hot": 22742360,
@@ -25,6 +25,14 @@
       "onboard_time": 1767195447,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14435032,
+      "num": 14435032,
+      "word": "明星红包",
+      "onboard_time": 1771073841,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 13350510,
@@ -121,6 +129,14 @@
       "onboard_time": 1770276924,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 8860827,
+      "num": 8860827,
+      "word": "鞠婧祎20万红包",
+      "onboard_time": 1771217121,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 8698031,
@@ -371,20 +387,20 @@
       "category": "网红"
     },
     {
-      "raw_hot": 3530354,
-      "num": 217237,
-      "word": "明星红包",
-      "onboard_time": 1771073841,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 3500523,
       "num": 199323,
       "word": "几杯去世",
       "onboard_time": 1771137622,
       "rank": 10,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 3492554,
+      "num": 2990936,
+      "word": "红包分组",
+      "onboard_time": 1767174140,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 3481750,
@@ -464,14 +480,6 @@
       "word": "刘一诺 没义务替檀健次承受抹黑",
       "onboard_time": 1768014739,
       "rank": 20,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 2990936,
-      "num": 2990936,
-      "word": "红包分组",
-      "onboard_time": 1767174140,
-      "rank": 23,
       "category": "艺人"
     },
     {
@@ -955,12 +963,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1911600,
+      "num": 143761,
+      "word": "陈哲远 15万红包",
+      "onboard_time": 1771212920,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1906595,
       "num": 434864,
       "word": "委内瑞拉发布讣告",
       "onboard_time": 1767748102,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1899886,
+      "num": 810808,
+      "word": "春晚大赏",
+      "onboard_time": 1771204220,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 1878190,
@@ -2043,6 +2067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1217004,
+      "num": 142072,
+      "word": "鞠婧祎工作室发图",
+      "onboard_time": 1771213220,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1215567,
       "num": 154951,
       "word": "宋轶无名指戴了戒指",
@@ -2369,38 +2401,6 @@
       "onboard_time": 1769941461,
       "rank": 33,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1149237,
-      "num": 219135,
-      "word": "猝死程序员底薪3千干7个人的活",
-      "onboard_time": 1769130201,
-      "rank": 10,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1147369,
-      "num": 400072,
-      "word": "觉得没情商的可以看看作者文案",
-      "onboard_time": 1770362661,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 1146034,
-      "num": 591406,
-      "word": "4.5天工作制",
-      "onboard_time": 1769576303,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1144759,
-      "num": 1183161,
-      "word": "元宝红包",
-      "onboard_time": 1769915059,
-      "rank": 0,
-      "category": "互联网"
     }
   ],
   "hotgov_list": [
