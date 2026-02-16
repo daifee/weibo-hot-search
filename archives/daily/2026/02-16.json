@@ -1,10 +1,10 @@
 {
   "startTime": 1771173652789,
-  "endTime": 1771233227994,
+  "endTime": 1771236358379,
   "band_list": [
     {
-      "raw_hot": 16325951,
-      "num": 16325951,
+      "raw_hot": 17180747,
+      "num": 17180747,
       "word": "明星红包",
       "onboard_time": 1771203439,
       "rank": 10,
@@ -51,6 +51,38 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 2362619,
+      "num": 2362619,
+      "word": "敖瑞鹏发红包还有前菜",
+      "onboard_time": 1771223244,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2080280,
+      "num": 2080280,
+      "word": "侯明昊发红包",
+      "onboard_time": 1771235364,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 2012411,
+      "num": 2012411,
+      "word": "王安宇红包",
+      "onboard_time": 1771234347,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1944339,
+      "num": 1944339,
+      "word": "王楚然红包",
+      "onboard_time": 1771233264,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1911600,
       "num": 424253,
       "word": "陈哲远 15万红包",
@@ -60,7 +92,7 @@
     },
     {
       "raw_hot": 1899886,
-      "num": 1006724,
+      "num": 1025256,
       "word": "春晚大赏",
       "onboard_time": 1771204220,
       "rank": 5,
@@ -83,12 +115,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1390106,
-      "num": 1390106,
-      "word": "敖瑞鹏发红包还有前菜",
-      "onboard_time": 1771223244,
-      "rank": 17,
-      "category": "艺人"
+      "raw_hot": 1403784,
+      "num": 4083433,
+      "word": "年夜饭",
+      "onboard_time": 1771215082,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1255483,
@@ -99,8 +131,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1188514,
+      "num": 1188514,
+      "word": "卢昱晓发红包时间",
+      "onboard_time": 1771235004,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1145472,
-      "num": 1145472,
+      "num": 1232010,
       "word": "迪丽热巴人鱼公主",
       "onboard_time": 1771231466,
       "rank": 17,
@@ -129,14 +169,6 @@
       "onboard_time": 1771167562,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 784072,
-      "num": 3990448,
-      "word": "年夜饭",
-      "onboard_time": 1771215082,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 775689,
@@ -227,6 +259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 587749,
+      "num": 587749,
+      "word": "孟子义 先发美图再发红包",
+      "onboard_time": 1771226902,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 580051,
       "num": 580051,
       "word": "沈腾马丽没小品",
@@ -240,14 +280,6 @@
       "word": "祝绪丹口令红包",
       "onboard_time": 1771207700,
       "rank": 30,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 556158,
-      "num": 455473,
-      "word": "孟子义 先发美图再发红包",
-      "onboard_time": 1771226902,
-      "rank": 17,
       "category": "艺人"
     },
     {
@@ -291,12 +323,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 442174,
+      "num": 442174,
+      "word": "好想带李昀锐回家过年",
+      "onboard_time": 1771234226,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 431868,
       "num": 122528,
       "word": "奥巴马称外星人的确存在",
       "onboard_time": 1771202240,
       "rank": 21,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 428937,
+      "num": 1199135,
+      "word": "大年初一不洗头不煮饭",
+      "onboard_time": 1771232607,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 417594,
@@ -308,7 +356,7 @@
     },
     {
       "raw_hot": 397791,
-      "num": 1041253,
+      "num": 1195074,
       "word": "红包雨",
       "onboard_time": 1771217903,
       "rank": 30,
@@ -379,11 +427,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 332908,
-      "num": 332908,
+      "raw_hot": 347005,
+      "num": 347005,
       "word": "孟子义红包",
       "onboard_time": 1771230323,
       "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 345620,
+      "num": 345620,
+      "word": "成毅的年夜饭",
+      "onboard_time": 1771234585,
+      "rank": 33,
       "category": "艺人"
     },
     {
@@ -404,7 +460,7 @@
     },
     {
       "raw_hot": 315586,
-      "num": 1538330,
+      "num": 1836287,
       "word": "除夕",
       "onboard_time": 1771198338,
       "rank": 3,
@@ -427,14 +483,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 293456,
-      "num": 1199135,
-      "word": "大年初一不洗头不煮饭",
-      "onboard_time": 1771232607,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 281872,
       "num": 124913,
       "word": "包贝尔一家 看提词器",
@@ -444,7 +492,7 @@
     },
     {
       "raw_hot": 278478,
-      "num": 406646,
+      "num": 453919,
       "word": "否认南京大屠杀的日本酒店老板死了",
       "onboard_time": 1771224264,
       "rank": 25,
@@ -483,6 +531,38 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 260119,
+      "num": 260119,
+      "word": "陈星旭红包里有什么秘密",
+      "onboard_time": 1771235065,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 259629,
+      "num": 259629,
+      "word": "范丞丞首登春晚三个节目",
+      "onboard_time": 1771233206,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 251690,
+      "num": 251690,
+      "word": "张远春晚出发图",
+      "onboard_time": 1771232786,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 243020,
+      "num": 243020,
+      "word": "钟丽缇目睹2人海边溺水身亡",
+      "onboard_time": 1771236207,
+      "rank": 44,
+      "category": "艺人,民生新闻"
+    },
+    {
       "raw_hot": 238846,
       "num": 238846,
       "word": "王橹杰高会",
@@ -499,12 +579,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 226679,
-      "num": 226679,
-      "word": "张远春晚出发图",
-      "onboard_time": 1771232786,
-      "rank": 43,
-      "category": "综艺"
+      "raw_hot": 227611,
+      "num": 2044635,
+      "word": "泰国机场凌晨堵满中国人",
+      "onboard_time": 1771231763,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 223248,
@@ -529,6 +609,14 @@
       "onboard_time": 1771231466,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 219377,
+      "num": 219377,
+      "word": "张艺兴 莲池春晚",
+      "onboard_time": 1771231223,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 216855,
@@ -601,6 +689,14 @@
       "onboard_time": 1771229361,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 198262,
+      "num": 2015467,
+      "word": "小偷打开门都以为自己穿越了",
+      "onboard_time": 1771231343,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 192400,
@@ -683,14 +779,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 179983,
-      "num": 179983,
-      "word": "范丞丞首登春晚三个节目",
-      "onboard_time": 1771233206,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 178582,
       "num": 107913,
       "word": "吾妻晚音 我叫张三",
@@ -739,6 +827,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 167817,
+      "num": 580340,
+      "word": "江苏提级调查连云港烟花爆竹爆炸",
+      "onboard_time": 1771234168,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 167242,
       "num": 167242,
       "word": "罗翔说人类不应该树立人造的偶像",
@@ -777,14 +873,6 @@
       "onboard_time": 1771221687,
       "rank": 21,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 155734,
-      "num": 341785,
-      "word": "小偷打开门都以为自己穿越了",
-      "onboard_time": 1771231343,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 155459,
@@ -851,6 +939,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 134482,
+      "num": 350945,
+      "word": "新年祝福语",
+      "onboard_time": 1771233086,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133784,
       "num": 133784,
       "word": "中国冰壶女队5比6美国",
@@ -875,6 +971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131411,
+      "num": 332501,
+      "word": "回家三天定律",
+      "onboard_time": 1771234465,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 130449,
       "num": 565244,
       "word": "一阳双排",
@@ -889,6 +993,14 @@
       "onboard_time": 1771198217,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 127694,
+      "num": 259675,
+      "word": "压岁钱",
+      "onboard_time": 1771235485,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 127605,
@@ -923,6 +1035,14 @@
       "category": "美食,网红"
     },
     {
+      "raw_hot": 121333,
+      "num": 1615218,
+      "word": "大年初一的电影票在千问上抢疯了",
+      "onboard_time": 1771236027,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 120167,
       "num": 76921,
       "word": "微信可以发金色朋友圈",
@@ -936,14 +1056,6 @@
       "word": "女子回应徒步3000公里后发现怀孕",
       "onboard_time": 1771198457,
       "rank": 16,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 119418,
-      "num": 385271,
-      "word": "泰国机场凌晨堵满中国人",
-      "onboard_time": 1771231763,
-      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -963,12 +1075,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 114919,
+      "num": 251949,
+      "word": "甘蔗老板不敢睁开眼",
+      "onboard_time": 1771234644,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 113827,
       "num": 1062284,
       "word": "微博 全世界最有年味的地方",
       "onboard_time": 1771231523,
       "rank": 12,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 113635,
+      "num": 230985,
+      "word": "冬奥短道速滑女子1000米",
+      "onboard_time": 1771236207,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 113427,
@@ -1019,6 +1147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 109771,
+      "num": 182102,
+      "word": "年夜饭文案",
+      "onboard_time": 1771235485,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 107389,
       "num": 225871,
       "word": "这是普通人接触到的行业天花板了",
@@ -1041,14 +1177,6 @@
       "onboard_time": 1771182974,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 102651,
-      "num": 249670,
-      "word": "新年祝福语",
-      "onboard_time": 1771233086,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 102432,
@@ -1795,6 +1923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 39368,
+      "num": 1190593,
+      "word": "全宇宙最高的年夜饭",
+      "onboard_time": 1771235724,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38936,
       "num": 84043,
       "word": "春晚团圆冬奥冲金咪咕除夕转不停",
@@ -1857,6 +1993,14 @@
       "onboard_time": 1771174999,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 31583,
+      "num": 3398846,
+      "word": "智能科技创新点亮万家生活",
+      "onboard_time": 1771234945,
+      "rank": 2,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 30852,
@@ -1977,6 +2121,14 @@
       "onboard_time": 1771154540,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 23835,
+      "num": 2013855,
+      "word": "航天员空间站报年夜饭菜名",
+      "onboard_time": 1771235724,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23760,
@@ -2185,6 +2337,22 @@
       "onboard_time": 1771233145,
       "rank": 36,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 8893,
+      "num": 305359,
+      "word": "豆包科技好礼有春晚同款机器人",
+      "onboard_time": 1771236267,
+      "rank": 36,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 897,
+      "num": 182084,
+      "word": "大年初一谷爱凌决赛",
+      "onboard_time": 1771236325,
+      "rank": 49,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
