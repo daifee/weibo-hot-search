@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1771253580873,
+  "endTime": 1771254583516,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -179,12 +179,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 6122932,
+      "num": 6122932,
+      "word": "魔术 比小品好笑",
+      "onboard_time": 1771252300,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 5986163,
       "num": 5986163,
       "word": "孙颖莎vs王曼昱",
       "onboard_time": 1770549860,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 5646705,
+      "num": 5646705,
+      "word": "李一桐红包",
+      "onboard_time": 1771252719,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 5037712,
@@ -259,14 +275,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 3752703,
-      "num": 3752703,
-      "word": "魔术 比小品好笑",
-      "onboard_time": 1771252300,
-      "rank": 5,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 3647947,
       "num": 3647947,
       "word": "四川地震",
@@ -281,6 +289,14 @@
       "onboard_time": 1770297868,
       "rank": 1,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 3548710,
+      "num": 3548710,
+      "word": "春晚 台湾回家",
+      "onboard_time": 1771253437,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 3500523,
@@ -635,6 +651,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 1744541,
+      "num": 1744541,
+      "word": "邓超 魔丸变灵珠",
+      "onboard_time": 1771251399,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1714835,
       "num": 254716,
       "word": "萝莉岛 恶魔岛",
@@ -681,22 +705,6 @@
       "onboard_time": 1770881719,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1646158,
-      "num": 1646158,
-      "word": "邓超 魔丸变灵珠",
-      "onboard_time": 1771251399,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1614989,
-      "num": 1614989,
-      "word": "春晚 台湾回家",
-      "onboard_time": 1771253437,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 1611555,
@@ -1628,7 +1636,7 @@
     },
     {
       "raw_hot": 962804,
-      "num": 1157805,
+      "num": 1268668,
       "word": "烟花",
       "onboard_time": 1771156760,
       "rank": 15,
@@ -1913,6 +1921,14 @@
       "onboard_time": 1770276144,
       "rank": 6,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 888971,
+      "num": 1677196,
+      "word": "马丽单飞了 沈腾怎么办",
+      "onboard_time": 1771254514,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 888285,
@@ -3660,7 +3676,7 @@
     },
     {
       "raw_hot": 619138,
-      "num": 1644300,
+      "num": 1744267,
       "word": "豆包抽奖",
       "onboard_time": 1771247977,
       "rank": 9,
@@ -4364,7 +4380,7 @@
     },
     {
       "raw_hot": 552257,
-      "num": 807466,
+      "num": 1226382,
       "word": "2162227",
       "onboard_time": 1771253437,
       "rank": 38,
@@ -6212,7 +6228,7 @@
     },
     {
       "raw_hot": 428937,
-      "num": 1199135,
+      "num": 1210443,
       "word": "大年初一不洗头不煮饭",
       "onboard_time": 1771232607,
       "rank": 12,
@@ -11537,6 +11553,14 @@
       "onboard_time": 1770724881,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 265329,
+      "num": 546457,
+      "word": "哈尔滨分会场 全场最佳",
+      "onboard_time": 1771253796,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 265269,
@@ -21011,6 +21035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133304,
+      "num": 1141921,
+      "word": "张钧甯春晚口红色号",
+      "onboard_time": 1771250858,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 133295,
       "num": 133295,
       "word": "史上最长的春节要来了",
@@ -21401,14 +21433,6 @@
       "onboard_time": 1771228403,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 130415,
-      "num": 1141921,
-      "word": "张钧甯春晚口红色号",
-      "onboard_time": 1771250858,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 130394,
@@ -39259,6 +39283,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 55619,
+      "num": 1499341,
+      "word": "千问上抢的红包比广东人包的多",
+      "onboard_time": 1771254096,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 55563,
       "num": 100983,
       "word": "女生春节上门喂猫9天赚8500元",
@@ -39281,6 +39313,14 @@
       "onboard_time": 1770939498,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 55484,
+      "num": 829409,
+      "word": "撒贝宁 你有八十了吗",
+      "onboard_time": 1771253796,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 55407,
@@ -47635,11 +47675,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 7650,
+      "num": 995698,
+      "word": "马年春晚华为出镜率",
+      "onboard_time": 1771254333,
+      "rank": 36,
+      "category": "综艺,数码"
+    },
+    {
       "raw_hot": 7567,
       "num": 230618,
       "word": "血友病患者卷入巨额医保诈骗案",
       "onboard_time": 1770289704,
       "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 7534,
+      "num": 1258830,
+      "word": "今天熬夜不叫熬夜叫守岁",
+      "onboard_time": 1771254333,
+      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -47649,6 +47705,22 @@
       "onboard_time": 1770694821,
       "rank": 35,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 7283,
+      "num": 1236218,
+      "word": "这届春晚大家都在找豆包帮忙",
+      "onboard_time": 1771254333,
+      "rank": 26,
+      "category": "综艺,互联网"
+    },
+    {
+      "raw_hot": 7237,
+      "num": 1203551,
+      "word": "蚂蚁阿福上春晚了",
+      "onboard_time": 1771254333,
+      "rank": 29,
+      "category": "综艺,互联网"
     },
     {
       "raw_hot": 7005,
@@ -47673,6 +47745,14 @@
       "onboard_time": 1770811401,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 6930,
+      "num": 949591,
+      "word": "在春晚看见义乌的世界情",
+      "onboard_time": 1771254333,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 6719,

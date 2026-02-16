@@ -1,6 +1,6 @@
 {
   "startTime": 1771173652789,
-  "endTime": 1771253580873,
+  "endTime": 1771254583516,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -91,6 +91,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 6122932,
+      "num": 6122932,
+      "word": "魔术 比小品好笑",
+      "onboard_time": 1771252300,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 5646705,
+      "num": 5646705,
+      "word": "李一桐红包",
+      "onboard_time": 1771252719,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 4997267,
       "num": 4997267,
       "word": "李健开净化了",
@@ -131,11 +147,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 3752703,
-      "num": 3752703,
-      "word": "魔术 比小品好笑",
-      "onboard_time": 1771252300,
-      "rank": 5,
+      "raw_hot": 3548710,
+      "num": 3548710,
+      "word": "春晚 台湾回家",
+      "onboard_time": 1771253437,
+      "rank": 22,
       "category": "综艺"
     },
     {
@@ -251,28 +267,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1694346,
-      "num": 754151,
-      "word": "梁洁红包",
-      "onboard_time": 1771224264,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1646158,
-      "num": 1646158,
+      "raw_hot": 1744541,
+      "num": 1744541,
       "word": "邓超 魔丸变灵珠",
       "onboard_time": 1771251399,
       "rank": 7,
       "category": "综艺"
     },
     {
-      "raw_hot": 1614989,
-      "num": 1614989,
-      "word": "春晚 台湾回家",
-      "onboard_time": 1771253437,
-      "rank": 22,
-      "category": "综艺"
+      "raw_hot": 1694346,
+      "num": 754151,
+      "word": "梁洁红包",
+      "onboard_time": 1771224264,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1607463,
@@ -412,7 +420,7 @@
     },
     {
       "raw_hot": 962804,
-      "num": 1157805,
+      "num": 1268668,
       "word": "烟花",
       "onboard_time": 1771156760,
       "rank": 31,
@@ -457,6 +465,14 @@
       "onboard_time": 1771247441,
       "rank": 11,
       "category": "财经,互联网"
+    },
+    {
+      "raw_hot": 888971,
+      "num": 1677196,
+      "word": "马丽单飞了 沈腾怎么办",
+      "onboard_time": 1771254514,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 866352,
@@ -684,7 +700,7 @@
     },
     {
       "raw_hot": 619138,
-      "num": 1644300,
+      "num": 1744267,
       "word": "豆包抽奖",
       "onboard_time": 1771247977,
       "rank": 9,
@@ -740,7 +756,7 @@
     },
     {
       "raw_hot": 552257,
-      "num": 807466,
+      "num": 1226382,
       "word": "2162227",
       "onboard_time": 1771253437,
       "rank": 38,
@@ -900,7 +916,7 @@
     },
     {
       "raw_hot": 428937,
-      "num": 1199135,
+      "num": 1210443,
       "word": "大年初一不洗头不煮饭",
       "onboard_time": 1771232607,
       "rank": 12,
@@ -1193,6 +1209,14 @@
       "onboard_time": 1771198397,
       "rank": 8,
       "category": "情感"
+    },
+    {
+      "raw_hot": 265329,
+      "num": 546457,
+      "word": "哈尔滨分会场 全场最佳",
+      "onboard_time": 1771253796,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 261934,
@@ -1747,6 +1771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 133304,
+      "num": 1141921,
+      "word": "张钧甯春晚口红色号",
+      "onboard_time": 1771250858,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 131411,
       "num": 332501,
       "word": "回家三天定律",
@@ -1761,14 +1793,6 @@
       "onboard_time": 1771228403,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 130415,
-      "num": 1141921,
-      "word": "张钧甯春晚口红色号",
-      "onboard_time": 1771250858,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 130212,
@@ -2627,6 +2651,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 55619,
+      "num": 1499341,
+      "word": "千问上抢的红包比广东人包的多",
+      "onboard_time": 1771254096,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 55484,
+      "num": 829409,
+      "word": "撒贝宁 你有八十了吗",
+      "onboard_time": 1771253796,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 55409,
       "num": 62289,
       "word": "被卖菜爷爷的微信名感动了",
@@ -3265,6 +3305,46 @@
       "onboard_time": 1771233145,
       "rank": 36,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 7650,
+      "num": 995698,
+      "word": "马年春晚华为出镜率",
+      "onboard_time": 1771254333,
+      "rank": 36,
+      "category": "综艺,数码"
+    },
+    {
+      "raw_hot": 7534,
+      "num": 1258830,
+      "word": "今天熬夜不叫熬夜叫守岁",
+      "onboard_time": 1771254333,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 7283,
+      "num": 1236218,
+      "word": "这届春晚大家都在找豆包帮忙",
+      "onboard_time": 1771254333,
+      "rank": 26,
+      "category": "综艺,互联网"
+    },
+    {
+      "raw_hot": 7237,
+      "num": 1203551,
+      "word": "蚂蚁阿福上春晚了",
+      "onboard_time": 1771254333,
+      "rank": 29,
+      "category": "综艺,互联网"
+    },
+    {
+      "raw_hot": 6930,
+      "num": 949591,
+      "word": "在春晚看见义乌的世界情",
+      "onboard_time": 1771254333,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 897,
