@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1771282659234,
+  "endTime": 1771285081236,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -4668,7 +4668,7 @@
     },
     {
       "raw_hot": 543792,
-      "num": 543792,
+      "num": 888857,
       "word": "谷爱凌大跳台银牌",
       "onboard_time": 1771275015,
       "rank": 0,
@@ -5057,6 +5057,14 @@
       "onboard_time": 1770097041,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 511855,
+      "num": 511855,
+      "word": "沈腾 说错词",
+      "onboard_time": 1771280956,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 511460,
@@ -13083,6 +13091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 239183,
+      "num": 626807,
+      "word": "谷爱凌创造自由式滑雪奖牌纪录",
+      "onboard_time": 1771275434,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 238947,
       "num": 238947,
       "word": "王一博官宣微博之夜",
@@ -14163,6 +14179,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 222099,
+      "num": 163359,
+      "word": "短剧上春晚了",
+      "onboard_time": 1771272494,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 221967,
       "num": 185822,
       "word": "小英辣妹妆",
@@ -14553,6 +14577,14 @@
       "onboard_time": 1770560963,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 216309,
+      "num": 216309,
+      "word": "大年初一",
+      "onboard_time": 1771283658,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 216189,
@@ -18123,14 +18155,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 161669,
-      "num": 161669,
-      "word": "谷爱凌创造自由式滑雪奖牌纪录",
-      "onboard_time": 1771275434,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
       "raw_hot": 161612,
       "num": 161612,
       "word": "爱泼斯坦死后遗体被秘密转移",
@@ -18851,14 +18875,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 153430,
-      "num": 153430,
-      "word": "短剧上春晚了",
-      "onboard_time": 1771272494,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 153259,
       "num": 172805,
       "word": "刘少昂孙龙林孝埈1500米冲金",
@@ -19553,14 +19569,6 @@
       "onboard_time": 1770942679,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 147108,
-      "num": 92999,
-      "word": "沈腾 说错词",
-      "onboard_time": 1771280956,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 146936,
@@ -20897,6 +20905,14 @@
       "onboard_time": 1770022820,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 136408,
+      "num": 102469,
+      "word": "张新成和邓超的节目是不是上反了",
+      "onboard_time": 1771282278,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 136397,
@@ -22425,6 +22441,14 @@
       "onboard_time": 1770089782,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 125837,
+      "num": 98152,
+      "word": "春晚汉族小朋友穿了汉服",
+      "onboard_time": 1771249779,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 125782,
@@ -29723,6 +29747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 94630,
+      "num": 94630,
+      "word": "王一博这腰力谁看了能睡得着",
+      "onboard_time": 1771278555,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 94610,
       "num": 94610,
       "word": "知名品牌被曝牛奶吐司吃出牙齿",
@@ -32459,14 +32491,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 86090,
-      "num": 86090,
-      "word": "王一博这腰力谁看了能睡得着",
-      "onboard_time": 1771278555,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 86070,
       "num": 86070,
       "word": "佘诗曼回应2亿身家",
@@ -33017,6 +33041,14 @@
       "onboard_time": 1770478102,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 84478,
+      "num": 84478,
+      "word": "杨紫又是一年剧组年夜饭",
+      "onboard_time": 1771280896,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 84473,
@@ -36195,6 +36227,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 74469,
+      "num": 74469,
+      "word": "肖战拜年",
+      "onboard_time": 1771284739,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 74442,
       "num": 74442,
       "word": "学生称王竹卿被举报后消极应对",
@@ -36817,6 +36857,14 @@
       "onboard_time": 1770927674,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 71397,
+      "num": 71397,
+      "word": "左肩有你",
+      "onboard_time": 1771269075,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 71356,
@@ -38747,6 +38795,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 61937,
+      "num": 101072,
+      "word": "近视600度是眼球的风险临界值",
+      "onboard_time": 1771284258,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 61929,
       "num": 93844,
       "word": "成何体统男二女二私会男主女主看戏",
@@ -39169,14 +39225,6 @@
       "onboard_time": 1770910641,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 59645,
-      "num": 59645,
-      "word": "左肩有你",
-      "onboard_time": 1771269075,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 59633,
@@ -40243,6 +40291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 51748,
+      "num": 89968,
+      "word": "神超官宣女友",
+      "onboard_time": 1771283719,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 51673,
       "num": 85226,
       "word": "即梦回应紧急下架真人素材生成",
@@ -41003,14 +41059,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 47375,
-      "num": 47375,
-      "word": "杨紫又是一年剧组年夜饭",
-      "onboard_time": 1771280896,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 47367,
       "num": 47367,
       "word": "谷爱凌米兰冬奥首秀",
@@ -41041,14 +41089,6 @@
       "onboard_time": 1770989782,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 47180,
-      "num": 47180,
-      "word": "张新成和邓超的节目是不是上反了",
-      "onboard_time": 1771282278,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 47023,
@@ -42691,6 +42731,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 37010,
+      "num": 74484,
+      "word": "谷爱凌四年没比过大跳台",
+      "onboard_time": 1771276634,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 37005,
       "num": 63455,
       "word": "没有彭昱畅的6点半是不完整的",
@@ -43329,14 +43377,6 @@
       "onboard_time": 1770008961,
       "rank": 19,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 33338,
-      "num": 66837,
-      "word": "谷爱凌四年没比过大跳台",
-      "onboard_time": 1771276634,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 33325,

@@ -1,6 +1,6 @@
 {
   "startTime": 1771257884055,
-  "endTime": 1771282659234,
+  "endTime": 1771285081236,
   "band_list": [
     {
       "raw_hot": 7753211,
@@ -276,11 +276,19 @@
     },
     {
       "raw_hot": 543792,
-      "num": 543792,
+      "num": 888857,
       "word": "谷爱凌大跳台银牌",
       "onboard_time": 1771275015,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 511855,
+      "num": 511855,
+      "word": "沈腾 说错词",
+      "onboard_time": 1771280956,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 498246,
@@ -435,6 +443,30 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 239183,
+      "num": 626807,
+      "word": "谷爱凌创造自由式滑雪奖牌纪录",
+      "onboard_time": 1771275434,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 222099,
+      "num": 163359,
+      "word": "短剧上春晚了",
+      "onboard_time": 1771272494,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 216309,
+      "num": 216309,
+      "word": "大年初一",
+      "onboard_time": 1771283658,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 191128,
       "num": 1284033,
       "word": "合肥分会场排面最尊",
@@ -467,14 +499,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 161669,
-      "num": 161669,
-      "word": "谷爱凌创造自由式滑雪奖牌纪录",
-      "onboard_time": 1771275434,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
       "raw_hot": 159590,
       "num": 1466341,
       "word": "花海晚上直播发红包",
@@ -483,28 +507,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 153430,
-      "num": 153430,
-      "word": "短剧上春晚了",
-      "onboard_time": 1771272494,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 149737,
       "num": 1548364,
       "word": "短道速滑",
       "onboard_time": 1771236445,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 147108,
-      "num": 92999,
-      "word": "沈腾 说错词",
-      "onboard_time": 1771280956,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 137980,
@@ -531,6 +539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 136408,
+      "num": 102469,
+      "word": "张新成和邓超的节目是不是上反了",
+      "onboard_time": 1771282278,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 134448,
       "num": 899735,
       "word": "豆包抽奖",
@@ -545,6 +561,22 @@
       "onboard_time": 1771276995,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 126310,
+      "num": 99141,
+      "word": "春晚进步最快的是蔡明的孙子",
+      "onboard_time": 1771251934,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 125837,
+      "num": 98152,
+      "word": "春晚汉族小朋友穿了汉服",
+      "onboard_time": 1771249779,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 124860,
@@ -595,12 +627,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 86090,
-      "num": 86090,
+      "raw_hot": 94630,
+      "num": 94630,
       "word": "王一博这腰力谁看了能睡得着",
       "onboard_time": 1771278555,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 84478,
+      "num": 84478,
+      "word": "杨紫又是一年剧组年夜饭",
+      "onboard_time": 1771280896,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 74469,
+      "num": 74469,
+      "word": "肖战拜年",
+      "onboard_time": 1771284739,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 73768,
@@ -609,6 +657,14 @@
       "onboard_time": 1771253796,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 71397,
+      "num": 71397,
+      "word": "左肩有你",
+      "onboard_time": 1771269075,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 70997,
@@ -625,6 +681,14 @@
       "onboard_time": 1771279035,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 61937,
+      "num": 101072,
+      "word": "近视600度是眼球的风险临界值",
+      "onboard_time": 1771284258,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 61240,
@@ -649,14 +713,6 @@
       "onboard_time": 1771254333,
       "rank": 36,
       "category": "综艺,数码"
-    },
-    {
-      "raw_hot": 59645,
-      "num": 59645,
-      "word": "左肩有你",
-      "onboard_time": 1771269075,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 58270,
@@ -691,20 +747,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 47375,
-      "num": 47375,
-      "word": "杨紫又是一年剧组年夜饭",
-      "onboard_time": 1771280896,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 47180,
-      "num": 47180,
-      "word": "张新成和邓超的节目是不是上反了",
-      "onboard_time": 1771282278,
-      "rank": 48,
-      "category": "综艺"
+      "raw_hot": 51748,
+      "num": 89968,
+      "word": "神超官宣女友",
+      "onboard_time": 1771283719,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 45923,
@@ -715,20 +763,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 37010,
+      "num": 74484,
+      "word": "谷爱凌四年没比过大跳台",
+      "onboard_time": 1771276634,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 34727,
       "num": 888507,
       "word": "在春晚看见义乌的世界情",
       "onboard_time": 1771254333,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 33338,
-      "num": 66837,
-      "word": "谷爱凌四年没比过大跳台",
-      "onboard_time": 1771276634,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 33316,
