@@ -1,0 +1,410 @@
+{
+  "runTime": 1771242349406,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 17152999,
+        "num": 17152999,
+        "word": "明星红包",
+        "onboard_time": 1771203439,
+        "rank": 0,
+        "category": "民生新闻,作品衍生"
+      },
+      {
+        "raw_hot": 5273167,
+        "num": 5273167,
+        "word": "春晚节目单",
+        "onboard_time": 1771207399,
+        "rank": 1,
+        "category": "民生新闻,综艺"
+      },
+      {
+        "raw_hot": 43387,
+        "num": 3241382,
+        "word": "除夕祝你万事胜意",
+        "onboard_time": 1771232727,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 966989,
+        "num": 966989,
+        "word": "年夜饭",
+        "onboard_time": 1771215082,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 958510,
+        "num": 958510,
+        "word": "短道速滑",
+        "onboard_time": 1771236445,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 842797,
+        "num": 842797,
+        "word": "中国短道队男子5000米无缘决赛",
+        "onboard_time": 1771241549,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 637659,
+        "num": 637659,
+        "word": "红包",
+        "onboard_time": 1771171402,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 851748,
+        "num": 626989,
+        "word": "迪丽热巴人鱼公主",
+        "onboard_time": 1771231466,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 551305,
+        "num": 551305,
+        "word": "冬奥短道速滑男子500米预赛",
+        "onboard_time": 1771237706,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28587,
+        "num": 483170,
+        "word": "2026年为啥晚春节",
+        "onboard_time": 1771241787,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 607256,
+        "num": 477541,
+        "word": "敖瑞鹏发红包还有前菜",
+        "onboard_time": 1771223244,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 564889,
+        "num": 476130,
+        "word": "红包分组",
+        "onboard_time": 1771203079,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 422317,
+        "num": 422317,
+        "word": "千问红包",
+        "onboard_time": 1771222284,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 495331,
+        "num": 377087,
+        "word": "肖战 刘铮亮的新年祝福",
+        "onboard_time": 1771241487,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 54204,
+        "num": 327820,
+        "word": "易烊千玺邀你上千问领红包",
+        "onboard_time": 1771239690,
+        "rank": 14,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 310480,
+        "num": 310480,
+        "word": "短道速滑男子5000米接力",
+        "onboard_time": 1771230503,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 489033,
+        "num": 286217,
+        "word": "陈哲远 15万红包",
+        "onboard_time": 1771212920,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 417715,
+        "num": 270270,
+        "word": "春晚后台直播",
+        "onboard_time": 1771241127,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234114,
+        "num": 234114,
+        "word": "林孝埈500米顺利晋级",
+        "onboard_time": 1771239569,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23721,
+        "num": 230380,
+        "word": "刘瀚彬蓄力团体追逐半决赛",
+        "onboard_time": 1771241726,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 5539245,
+        "num": 5539245,
+        "word": "白鹿红包预告",
+        "onboard_time": 1771237104,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 699963,
+        "num": 229435,
+        "word": "陈楚生 我们春天见",
+        "onboard_time": 1771237285,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228186,
+        "num": 228186,
+        "word": "孙龙500米pen",
+        "onboard_time": 1771238965,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 507904,
+        "num": 227925,
+        "word": "张碧晨晚饭后还有红包",
+        "onboard_time": 1771239690,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 4719014,
+        "num": 227700,
+        "word": "陈哲远红包",
+        "onboard_time": 1771241607,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227273,
+        "num": 227273,
+        "word": "千问能不能帮我自动抢红包",
+        "onboard_time": 1771239868,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 506893,
+        "num": 226277,
+        "word": "丁程鑫年会发了66666",
+        "onboard_time": 1771240165,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 446722,
+        "num": 224881,
+        "word": "王俊凯 大师炫技之作",
+        "onboard_time": 1771241067,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222202,
+        "num": 222202,
+        "word": "新年祝福语",
+        "onboard_time": 1771233086,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44627,
+        "num": 222057,
+        "word": "谁懂啊春晚骐骥竟然不是马",
+        "onboard_time": 1771240165,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2300617,
+        "num": 220839,
+        "word": "张凌赫发了好多红包",
+        "onboard_time": 1771241726,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 368477,
+        "num": 219137,
+        "word": "田曦薇好萌",
+        "onboard_time": 1771240766,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238004,
+        "num": 218424,
+        "word": "九尾家的年夜饭",
+        "onboard_time": 1771241607,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 217984,
+        "num": 217984,
+        "word": "浙江压岁钱",
+        "onboard_time": 1771238725,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1240489,
+        "num": 216512,
+        "word": "孟子义 先发美图再发红包",
+        "onboard_time": 1771226902,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 357937,
+        "num": 215389,
+        "word": "时代峰峻年会",
+        "onboard_time": 1771241726,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 213609,
+        "num": 213609,
+        "word": "刘少昂500米晋级",
+        "onboard_time": 1771239204,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161433,
+        "num": 212900,
+        "word": "易烊千玺9登春晚",
+        "onboard_time": 1771223783,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 519723,
+        "num": 212178,
+        "word": "卢昱晓发红包时间",
+        "onboard_time": 1771235004,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34918,
+        "num": 211207,
+        "word": "奥巴马改口了",
+        "onboard_time": 1771241787,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 328579,
+        "num": 210289,
+        "word": "王一博出图",
+        "onboard_time": 1771237643,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 291750,
+        "num": 209051,
+        "word": "成毅的年夜饭",
+        "onboard_time": 1771234585,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208912,
+        "num": 208912,
+        "word": "清融发红包",
+        "onboard_time": 1771239385,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 279553,
+        "num": 207057,
+        "word": "时代少年团楼晚特别栏目",
+        "onboard_time": 1771238005,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 278183,
+        "num": 205268,
+        "word": "春晚时间",
+        "onboard_time": 1771239809,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187886,
+        "num": 187886,
+        "word": "年夜饭文案",
+        "onboard_time": 1771235485,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 468203,
+        "num": 187647,
+        "word": "王鹤棣红包",
+        "onboard_time": 1771240286,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219266,
+        "num": 182062,
+        "word": "宋威龙 新郎官",
+        "onboard_time": 1771237464,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172517,
+        "num": 172517,
+        "word": "除夕",
+        "onboard_time": 1771198338,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 338675,
+        "num": 172284,
+        "word": "王楚然红包",
+        "onboard_time": 1771233264,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#万水千山镌刻着最温暖的牵挂#"
+    }
+  }
+}

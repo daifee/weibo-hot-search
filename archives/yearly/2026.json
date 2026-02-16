@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1771240431595,
+  "endTime": 1771242349406,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -304,6 +304,14 @@
       "word": "周翊然红包",
       "onboard_time": 1771220842,
       "rank": 5,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 4719014,
+      "num": 227700,
+      "word": "陈哲远红包",
+      "onboard_time": 1771241607,
+      "rank": 24,
       "category": "艺人"
     },
     {
@@ -729,6 +737,14 @@
       "onboard_time": 1768718239,
       "rank": 33,
       "category": "美食"
+    },
+    {
+      "raw_hot": 2300617,
+      "num": 220839,
+      "word": "张凌赫发了好多红包",
+      "onboard_time": 1771241726,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 2285482,
@@ -2059,6 +2075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1240489,
+      "num": 587749,
+      "word": "孟子义 先发美图再发红包",
+      "onboard_time": 1771226902,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1236208,
       "num": 1236208,
       "word": "女子发现超市漏洞薅了20多万",
@@ -2377,30 +2401,6 @@
       "onboard_time": 1767866061,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1173465,
-      "num": 283503,
-      "word": "BLG上调新上单Wenbo",
-      "onboard_time": 1769681903,
-      "rank": 28,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 1170739,
-      "num": 309199,
-      "word": "章泽天完全不给孩子看社媒",
-      "onboard_time": 1768295241,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1168144,
-      "num": 251117,
-      "word": "男子因1条评论杀害2人",
-      "onboard_time": 1770468741,
-      "rank": 30,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
