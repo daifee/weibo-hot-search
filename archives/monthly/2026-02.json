@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1771243274445,
+  "endTime": 1771247962416,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -11,19 +11,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 20885446,
+      "num": 12714799,
+      "word": "春晚",
+      "onboard_time": 1770720081,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 13045157,
       "num": 13045157,
       "word": "春晚节目单",
       "onboard_time": 1771207399,
       "rank": 0,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 12714799,
-      "num": 12714799,
-      "word": "春晚",
-      "onboard_time": 1770720081,
-      "rank": 30,
       "category": "综艺"
     },
     {
@@ -33,6 +33,14 @@
       "onboard_time": 1770441981,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 10929253,
+      "num": 10929253,
+      "word": "机器人全面入侵春晚",
+      "onboard_time": 1771244980,
+      "rank": 1,
+      "category": "综艺,互联网"
     },
     {
       "raw_hot": 10406029,
@@ -73,6 +81,14 @@
       "onboard_time": 1770303088,
       "rank": 1,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 9453737,
+      "num": 5900054,
+      "word": "王一博郭富城炸场",
+      "onboard_time": 1771246123,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 9251702,
@@ -123,6 +139,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 7267347,
+      "num": 5080608,
+      "word": "谁给迪丽热巴化的妆",
+      "onboard_time": 1771247027,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 7011372,
+      "num": 5033292,
+      "word": "秦岚李沁王楚然美成啥了",
+      "onboard_time": 1771246123,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 6494502,
       "num": 6494502,
       "word": "陈哲远红包",
@@ -155,6 +187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 4826318,
+      "num": 4826318,
+      "word": "易烊千玺压得住场",
+      "onboard_time": 1771245576,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 4770738,
       "num": 356819,
       "word": "周翊然红包",
@@ -172,7 +212,7 @@
     },
     {
       "raw_hot": 4061180,
-      "num": 377934,
+      "num": 958811,
       "word": "张凌赫发了好多红包",
       "onboard_time": 1771241726,
       "rank": 30,
@@ -273,6 +313,14 @@
       "onboard_time": 1770297029,
       "rank": 5,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 2725743,
+      "num": 2725743,
+      "word": "十二花神 好看",
+      "onboard_time": 1771246483,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 2615393,
@@ -443,6 +491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1919749,
+      "num": 974302,
+      "word": "机器人武术 宇树无敌",
+      "onboard_time": 1771245704,
+      "rank": 19,
+      "category": "综艺,互联网"
+    },
+    {
       "raw_hot": 1912876,
       "num": 188327,
       "word": "日本彻底失控",
@@ -481,6 +537,14 @@
       "onboard_time": 1770428420,
       "rank": 0,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1855581,
+      "num": 966634,
+      "word": "撒贝宁依旧蜡笔小新眉毛",
+      "onboard_time": 1771244017,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 1848020,
@@ -713,6 +777,14 @@
       "onboard_time": 1770992123,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1403997,
+      "num": 1403997,
+      "word": "宇树",
+      "onboard_time": 1771246970,
+      "rank": 9,
+      "category": "互联网,综艺"
     },
     {
       "raw_hot": 1403922,
@@ -1211,12 +1283,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1063142,
+      "num": 1063142,
+      "word": "元宝",
+      "onboard_time": 1770185601,
+      "rank": 15,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1060406,
       "num": 796467,
       "word": "农村抑郁症确诊率低自杀率反而更高",
       "onboard_time": 1770692599,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1054745,
+      "num": 947611,
+      "word": "春晚后台直播",
+      "onboard_time": 1771241127,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 1050077,
@@ -1475,6 +1563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 951507,
+      "num": 951507,
+      "word": "烟花",
+      "onboard_time": 1771156760,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 950232,
       "num": 177540,
       "word": "谁给迪丽热巴买的手机壳",
@@ -1531,6 +1627,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 939467,
+      "num": 939467,
+      "word": "机器人cos撒贝宁",
+      "onboard_time": 1771245223,
+      "rank": 30,
+      "category": "综艺,互联网"
+    },
+    {
       "raw_hot": 938447,
       "num": 598552,
       "word": "外卖小哥打翻32杯奶茶原地发愣",
@@ -1571,14 +1675,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 924452,
-      "num": 924452,
-      "word": "春晚后台直播",
-      "onboard_time": 1771241127,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 920877,
       "num": 192520,
       "word": "20岁黄多多好漂亮",
@@ -1601,6 +1697,14 @@
       "onboard_time": 1770783859,
       "rank": 10,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 918562,
+      "num": 918562,
+      "word": "张杰魏晨相视一笑",
+      "onboard_time": 1771246776,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 912182,
@@ -1756,7 +1860,7 @@
     },
     {
       "raw_hot": 864452,
-      "num": 864452,
+      "num": 942873,
       "word": "中国短道队男子5000米无缘决赛",
       "onboard_time": 1771241549,
       "rank": 5,
@@ -1899,6 +2003,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 840601,
+      "num": 840601,
+      "word": "易烊千玺垫肩",
+      "onboard_time": 1771247085,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 839677,
       "num": 202018,
       "word": "黄子韬自曝卫生巾工厂现状",
@@ -1923,12 +2035,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 830733,
+      "num": 830733,
+      "word": "蔡明仿生机器人30年返场",
+      "onboard_time": 1771245223,
+      "rank": 35,
+      "category": "综艺,互联网"
+    },
+    {
       "raw_hot": 830155,
       "num": 1132824,
       "word": "湖南卫视春晚",
       "onboard_time": 1770808699,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 829952,
+      "num": 829952,
+      "word": "田曦薇好萌",
+      "onboard_time": 1771240766,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 825343,
+      "num": 825343,
+      "word": "春晚 机器人统治世界",
+      "onboard_time": 1771246304,
+      "rank": 37,
+      "category": "综艺,互联网"
     },
     {
       "raw_hot": 824629,
@@ -1985,6 +2121,14 @@
       "onboard_time": 1770004161,
       "rank": 11,
       "category": "演出"
+    },
+    {
+      "raw_hot": 817721,
+      "num": 817721,
+      "word": "王天放出息了",
+      "onboard_time": 1771244737,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 817666,
@@ -2145,6 +2289,14 @@
       "onboard_time": 1770550521,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 789835,
+      "num": 789835,
+      "word": "易烊千玺春晚限定笑容",
+      "onboard_time": 1771247324,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 785701,
@@ -2336,6 +2488,14 @@
       "word": "河南春晚 没有主持人和舞台",
       "onboard_time": 1771073901,
       "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 743532,
+      "num": 743532,
+      "word": "蔡明推出了蔡明",
+      "onboard_time": 1771245759,
+      "rank": 40,
       "category": "综艺"
     },
     {
@@ -3195,6 +3355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 632513,
+      "num": 632513,
+      "word": "王一博春晚笑了",
+      "onboard_time": 1771246657,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 628413,
       "num": 233063,
       "word": "老人连续7年用冥币买遍半条街",
@@ -3875,6 +4043,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 562947,
+      "num": 562947,
+      "word": "肖战 刘铮亮的新年祝福",
+      "onboard_time": 1771241487,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 562288,
       "num": 314946,
       "word": "这还是我认识的锤娜丽莎吗",
@@ -4475,6 +4651,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 514822,
+      "num": 514822,
+      "word": "卢昱晓发红包",
+      "onboard_time": 1771246902,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 513593,
       "num": 800711,
       "word": "自嗨锅濒临破产",
@@ -4715,14 +4899,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 497842,
-      "num": 497842,
-      "word": "肖战 刘铮亮的新年祝福",
-      "onboard_time": 1771241487,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 497551,
       "num": 497551,
       "word": "周深第三次春晚独唱",
@@ -4939,6 +5115,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 480940,
+      "num": 480940,
+      "word": "TFING红包",
+      "onboard_time": 1771238305,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 479380,
       "num": 138605,
       "word": "宋亚轩中指无名指比耶",
@@ -5083,6 +5267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 470108,
+      "num": 470108,
+      "word": "机器人小品 恐怖谷",
+      "onboard_time": 1771246304,
+      "rank": 45,
+      "category": "综艺,互联网"
+    },
+    {
       "raw_hot": 469874,
       "num": 354789,
       "word": "王玉雯透纱紧身裙",
@@ -5137,6 +5329,14 @@
       "onboard_time": 1770214162,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 467710,
+      "num": 467710,
+      "word": "春晚红包",
+      "onboard_time": 1771246970,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 467520,
@@ -5217,6 +5417,14 @@
       "onboard_time": 1769953643,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 462914,
+      "num": 462914,
+      "word": "机器人笑声",
+      "onboard_time": 1771245339,
+      "rank": 47,
+      "category": "综艺,互联网"
     },
     {
       "raw_hot": 462147,
@@ -6931,14 +7139,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 378449,
-      "num": 366658,
-      "word": "田曦薇好萌",
-      "onboard_time": 1771240766,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 377880,
       "num": 168958,
       "word": "立威廉去年已进行2次手术",
@@ -7937,14 +8137,6 @@
       "onboard_time": 1771230323,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 346709,
-      "num": 190303,
-      "word": "元宝",
-      "onboard_time": 1770185601,
-      "rank": 15,
-      "category": "互联网"
     },
     {
       "raw_hot": 346470,
@@ -9371,6 +9563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 308249,
+      "num": 1046867,
+      "word": "新年祝福语",
+      "onboard_time": 1771233086,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 308004,
       "num": 141489,
       "word": "谁懂刘亦菲脸的对称度",
@@ -10304,14 +10504,6 @@
       "word": "当街摔死多只兔子摊贩被行拘5天",
       "onboard_time": 1770867500,
       "rank": 13,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 284635,
-      "num": 497822,
-      "word": "新年祝福语",
-      "onboard_time": 1771233086,
-      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -11412,7 +11604,7 @@
     },
     {
       "raw_hot": 257694,
-      "num": 372581,
+      "num": 461206,
       "word": "九尾家的年夜饭",
       "onboard_time": 1771241607,
       "rank": 32,
@@ -13763,6 +13955,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 217939,
+      "num": 950620,
+      "word": "压岁钱",
+      "onboard_time": 1771235485,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 217436,
       "num": 217436,
       "word": "张婧仪 我记得你的姓",
@@ -14403,14 +14603,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 206589,
-      "num": 206589,
-      "word": "烟花",
-      "onboard_time": 1771156760,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 206184,
       "num": 206184,
       "word": "红包封面",
@@ -14736,14 +14928,6 @@
       "word": "杨迪除夕红包",
       "onboard_time": 1771202900,
       "rank": 13,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 200600,
-      "num": 185581,
-      "word": "TFING红包",
-      "onboard_time": 1771238305,
-      "rank": 46,
       "category": "艺人"
     },
     {
@@ -21403,14 +21587,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 127694,
-      "num": 259675,
-      "word": "压岁钱",
-      "onboard_time": 1771235485,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 127689,
       "num": 127689,
       "word": "肖战签名专辑",
@@ -21905,6 +22081,14 @@
       "onboard_time": 1770174560,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 123738,
+      "num": 945456,
+      "word": "义乌震撼出场",
+      "onboard_time": 1771245339,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 123731,
@@ -25993,6 +26177,14 @@
       "onboard_time": 1770700042,
       "rank": 44,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 104980,
+      "num": 940082,
+      "word": "追觅全生态春晚C位出场",
+      "onboard_time": 1771247085,
+      "rank": 29,
+      "category": "综艺,互联网"
     },
     {
       "raw_hot": 104972,
@@ -35987,6 +36179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 71349,
+      "num": 943774,
+      "word": "千问3.5成本仅为谷歌大模型5%",
+      "onboard_time": 1771243654,
+      "rank": 27,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 71239,
       "num": 71239,
       "word": "这届年轻人买黄金心态就是稳",
@@ -36193,6 +36393,14 @@
       "onboard_time": 1770708441,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 70086,
+      "num": 1004393,
+      "word": "合肥圆子炸进春晚分会场",
+      "onboard_time": 1771245576,
+      "rank": 17,
+      "category": "综艺,美食"
     },
     {
       "raw_hot": 70062,
@@ -38019,6 +38227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 60826,
+      "num": 985564,
+      "word": "春晚的底气是豆包大模型",
+      "onboard_time": 1771247085,
+      "rank": 18,
+      "category": "综艺,互联网"
+    },
+    {
       "raw_hot": 60718,
       "num": 72823,
       "word": "小伙从成都开飞机回重庆过年",
@@ -38633,6 +38849,14 @@
       "onboard_time": 1771218443,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 56663,
+      "num": 4983348,
+      "word": "除夕祝你万事胜意",
+      "onboard_time": 1771232727,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 56651,
@@ -40072,14 +40296,6 @@
       "word": "24岁女孩骑车不戴头盔被撞脑出血",
       "onboard_time": 1770989782,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 47075,
-      "num": 3717217,
-      "word": "除夕祝你万事胜意",
-      "onboard_time": 1771232727,
-      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -42353,6 +42569,14 @@
       "onboard_time": 1770491715,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 33239,
+      "num": 1037214,
+      "word": "艾特千问扒春晚同款真好使",
+      "onboard_time": 1771246842,
+      "rank": 14,
+      "category": "综艺,互联网"
     },
     {
       "raw_hot": 33225,

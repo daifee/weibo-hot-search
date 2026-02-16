@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1771243274445,
+  "endTime": 1771247962416,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -17,6 +17,14 @@
       "onboard_time": 1769766446,
       "rank": 3,
       "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 20885446,
+      "num": 12714799,
+      "word": "春晚",
+      "onboard_time": 1768651641,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 16741456,
@@ -51,14 +59,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 12714799,
-      "num": 12714799,
-      "word": "春晚",
-      "onboard_time": 1768651641,
-      "rank": 5,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 12386962,
       "num": 12386962,
       "word": "王昶钱天一结婚",
@@ -73,6 +73,14 @@
       "onboard_time": 1769598862,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 10929253,
+      "num": 10929253,
+      "word": "机器人全面入侵春晚",
+      "onboard_time": 1771244980,
+      "rank": 1,
+      "category": "综艺,互联网"
     },
     {
       "raw_hot": 10607824,
@@ -145,6 +153,14 @@
       "onboard_time": 1768556121,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9453737,
+      "num": 5900054,
+      "word": "王一博郭富城炸场",
+      "onboard_time": 1771246123,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 9430476,
@@ -243,6 +259,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 7267347,
+      "num": 5080608,
+      "word": "谁给迪丽热巴化的妆",
+      "onboard_time": 1771247027,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 7011372,
+      "num": 5033292,
+      "word": "秦岚李沁王楚然美成啥了",
+      "onboard_time": 1771246123,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 6840252,
       "num": 6840252,
       "word": "颜安长文回应",
@@ -315,6 +347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 4826318,
+      "num": 4826318,
+      "word": "易烊千玺压得住场",
+      "onboard_time": 1771245576,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 4770738,
       "num": 356819,
       "word": "周翊然红包",
@@ -348,7 +388,7 @@
     },
     {
       "raw_hot": 4061180,
-      "num": 377934,
+      "num": 958811,
       "word": "张凌赫发了好多红包",
       "onboard_time": 1771241726,
       "rank": 30,
@@ -585,6 +625,14 @@
       "onboard_time": 1769139140,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2725743,
+      "num": 2725743,
+      "word": "十二花神 好看",
+      "onboard_time": 1771246483,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 2704539,
@@ -1027,6 +1075,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1919749,
+      "num": 974302,
+      "word": "机器人武术 宇树无敌",
+      "onboard_time": 1771245704,
+      "rank": 19,
+      "category": "综艺,互联网"
+    },
+    {
       "raw_hot": 1912876,
       "num": 188327,
       "word": "日本彻底失控",
@@ -1105,6 +1161,14 @@
       "onboard_time": 1770428420,
       "rank": 0,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1855581,
+      "num": 966634,
+      "word": "撒贝宁依旧蜡笔小新眉毛",
+      "onboard_time": 1771244017,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 1854135,
@@ -1731,6 +1795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1403997,
+      "num": 1403997,
+      "word": "宇树",
+      "onboard_time": 1771246970,
+      "rank": 9,
+      "category": "互联网,综艺"
+    },
+    {
       "raw_hot": 1403922,
       "num": 187738,
       "word": "黄子弘凡工作室辟谣",
@@ -2328,78 +2400,6 @@
       "word": "金晨逃逸顶包争议应有个明白说法",
       "onboard_time": 1769745381,
       "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1187949,
-      "num": 418679,
-      "word": "马斯克发现岛上是少女派对果断离开",
-      "onboard_time": 1770031461,
-      "rank": 13,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 1187384,
-      "num": 807681,
-      "word": "16号集体洗头",
-      "onboard_time": 1770024922,
-      "rank": 5,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 1184276,
-      "num": 759953,
-      "word": "海底捞 点炮制度",
-      "onboard_time": 1769172802,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1183970,
-      "num": 250226,
-      "word": "乔任梁父亲回忆儿子出事当天",
-      "onboard_time": 1769348544,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1183637,
-      "num": 1409771,
-      "word": "跨年",
-      "onboard_time": 1767193410,
-      "rank": 5,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 1181160,
-      "num": 687524,
-      "word": "格莱美",
-      "onboard_time": 1769988918,
-      "rank": 1,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 1178032,
-      "num": 1188485,
-      "word": "警方通报中山一货车碰撞多车",
-      "onboard_time": 1768836021,
-      "rank": 0,
-      "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 1174284,
-      "num": 420138,
-      "word": "结婚证就得考啊",
-      "onboard_time": 1767507802,
-      "rank": 16,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 1173749,
-      "num": 199381,
-      "word": "曝男艺人因负面骂助理",
-      "onboard_time": 1767866061,
-      "rank": 21,
       "category": "艺人"
     }
   ],
