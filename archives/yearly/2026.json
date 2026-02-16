@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1771242349406,
+  "endTime": 1771243274445,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -41,6 +41,22 @@
       "onboard_time": 1767432625,
       "rank": 0,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 13045157,
+      "num": 13045157,
+      "word": "春晚节目单",
+      "onboard_time": 1771207399,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 12714799,
+      "num": 12714799,
+      "word": "春晚",
+      "onboard_time": 1768651641,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 12386962,
@@ -171,14 +187,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 8411605,
-      "num": 8411605,
-      "word": "春晚节目单",
-      "onboard_time": 1771207399,
-      "rank": 0,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 8120856,
       "num": 8120856,
       "word": "肖战 害羞笑",
@@ -251,6 +259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 6494502,
+      "num": 6494502,
+      "word": "陈哲远红包",
+      "onboard_time": 1771241607,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 6313808,
       "num": 6313808,
       "word": "曝黄子弘凡爸爸诈骗学生",
@@ -307,14 +323,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 4719014,
-      "num": 227700,
-      "word": "陈哲远红包",
-      "onboard_time": 1771241607,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 4325889,
       "num": 565714,
       "word": "李湘全平台账号被禁止关注",
@@ -337,6 +345,14 @@
       "onboard_time": 1768394242,
       "rank": 0,
       "category": "教育"
+    },
+    {
+      "raw_hot": 4061180,
+      "num": 377934,
+      "word": "张凌赫发了好多红包",
+      "onboard_time": 1771241726,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 4038416,
@@ -737,14 +753,6 @@
       "onboard_time": 1768718239,
       "rank": 33,
       "category": "美食"
-    },
-    {
-      "raw_hot": 2300617,
-      "num": 220839,
-      "word": "张凌赫发了好多红包",
-      "onboard_time": 1771241726,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 2285482,
@@ -2361,14 +2369,6 @@
       "onboard_time": 1767193410,
       "rank": 5,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1181709,
-      "num": 1181709,
-      "word": "春晚",
-      "onboard_time": 1768651641,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 1181160,
