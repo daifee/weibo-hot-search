@@ -1,0 +1,410 @@
+{
+  "runTime": 1771277870909,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 543792,
+        "num": 543792,
+        "word": "谷爱凌大跳台银牌",
+        "onboard_time": 1771275015,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 266794,
+        "num": 266794,
+        "word": "春晚收视率",
+        "onboard_time": 1771257213,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23103,
+        "num": 140594,
+        "word": "春晚分会场上大分",
+        "onboard_time": 1771250076,
+        "rank": 2,
+        "category": "民生新闻,综艺"
+      },
+      {
+        "raw_hot": 120388,
+        "num": 120388,
+        "word": "谷爱凌刘梦婷大跳台决赛",
+        "onboard_time": 1771265538,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111677,
+        "num": 111677,
+        "word": "王菲接了李谷一的班",
+        "onboard_time": 1771252054,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107819,
+        "num": 107819,
+        "word": "春晚",
+        "onboard_time": 1771242506,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93539,
+        "num": 93539,
+        "word": "马丽单飞了 沈腾怎么办",
+        "onboard_time": 1771254514,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83106,
+        "num": 83106,
+        "word": "田曦薇宋威龙 谁来递个本子",
+        "onboard_time": 1771261824,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 70529,
+        "num": 70529,
+        "word": "过年好",
+        "onboard_time": 1771256913,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70022,
+        "num": 70022,
+        "word": "王菲水滴耳环",
+        "onboard_time": 1771257333,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133936,
+        "num": 69995,
+        "word": "谁给迪丽热巴化的妆",
+        "onboard_time": 1771247027,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 69466,
+        "num": 69466,
+        "word": "王一博这一脚用了多大力气",
+        "onboard_time": 1771259909,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 58270,
+        "num": 58270,
+        "word": "隋文静韩聪双人自由滑",
+        "onboard_time": 1771276694,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 56737,
+        "num": 56737,
+        "word": "谷爱凌创造自由式滑雪奖牌纪录",
+        "onboard_time": 1771275434,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 52431,
+        "num": 52431,
+        "word": "谷爱凌第一跳90.00分",
+        "onboard_time": 1771272675,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 65012,
+        "num": 52167,
+        "word": "短剧上春晚了",
+        "onboard_time": 1771272494,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 64536,
+        "num": 51600,
+        "word": "TFBOYS怎么变四个人了",
+        "onboard_time": 1771264518,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 50653,
+        "num": 50653,
+        "word": "隋文静韩聪自由滑135.98分",
+        "onboard_time": 1771276995,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 49354,
+        "num": 49354,
+        "word": "刘浩存 北舞严选",
+        "onboard_time": 1771256974,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48887,
+        "num": 48887,
+        "word": "白鹿好美",
+        "onboard_time": 1771261644,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48525,
+        "num": 48525,
+        "word": "张万森 下机器人了",
+        "onboard_time": 1771256256,
+        "rank": 20,
+        "category": "综艺,互联网"
+      },
+      {
+        "raw_hot": 46569,
+        "num": 46569,
+        "word": "宇树科技股票",
+        "onboard_time": 1771247441,
+        "rank": 21,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 43360,
+        "num": 43360,
+        "word": "邓超妈妈",
+        "onboard_time": 1771256794,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 42546,
+        "num": 42546,
+        "word": "王玉雯扛住了春晚镜头",
+        "onboard_time": 1771269195,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29299,
+        "num": 29299,
+        "word": "冬奥会",
+        "onboard_time": 1771263980,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 41251,
+        "num": 28875,
+        "word": "魔术 比小品好笑",
+        "onboard_time": 1771252300,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40709,
+        "num": 28665,
+        "word": "王亚飞给迪丽热巴化的妆",
+        "onboard_time": 1771261046,
+        "rank": 26,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 28358,
+        "num": 28358,
+        "word": "新年文案",
+        "onboard_time": 1771258952,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25066,
+        "num": 28358,
+        "word": "支付宝口令红包",
+        "onboard_time": 1771250375,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 19533,
+        "num": 28350,
+        "word": "花瓣落在田曦薇头顶",
+        "onboard_time": 1771264220,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35415,
+        "num": 28350,
+        "word": "春晚导演 米莱狄",
+        "onboard_time": 1771251703,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32680,
+        "num": 28345,
+        "word": "王一博郭富城炸场",
+        "onboard_time": 1771246123,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31775,
+        "num": 28341,
+        "word": "难忘今宵",
+        "onboard_time": 1771267156,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31299,
+        "num": 28335,
+        "word": "王楚然 天选王昭君",
+        "onboard_time": 1771264399,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25008,
+        "num": 28332,
+        "word": "烟花",
+        "onboard_time": 1771243718,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30633,
+        "num": 28330,
+        "word": "机器人假摔",
+        "onboard_time": 1771257992,
+        "rank": 35,
+        "category": "综艺,互联网"
+      },
+      {
+        "raw_hot": 30013,
+        "num": 28325,
+        "word": "李健开净化了",
+        "onboard_time": 1771248821,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29722,
+        "num": 28321,
+        "word": "刘浩存实在美丽",
+        "onboard_time": 1771257273,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28416,
+        "num": 28317,
+        "word": "易烊千玺压得住场",
+        "onboard_time": 1771245576,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28315,
+        "num": 28315,
+        "word": "秦岚李沁王楚然美成啥了",
+        "onboard_time": 1771246123,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28282,
+        "num": 28282,
+        "word": "镖人",
+        "onboard_time": 1771270935,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 27746,
+        "num": 27746,
+        "word": "春晚小品这个帅哥是谁",
+        "onboard_time": 1771251641,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25065,
+        "num": 25065,
+        "word": "范丞丞王安宇同台",
+        "onboard_time": 1771257750,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24684,
+        "num": 24684,
+        "word": "陈哲远 你的运气额度省下来了",
+        "onboard_time": 1771250678,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24403,
+        "num": 24403,
+        "word": "魏晨站山顶",
+        "onboard_time": 1771254938,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23633,
+        "num": 23633,
+        "word": "林孝埈无奈摇头",
+        "onboard_time": 1771264399,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23232,
+        "num": 23232,
+        "word": "左肩有你",
+        "onboard_time": 1771269075,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23172,
+        "num": 23172,
+        "word": "谷爱凌第3跳89.00分",
+        "onboard_time": 1771275915,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21755,
+        "num": 21755,
+        "word": "谷爱凌总分179.00",
+        "onboard_time": 1771275915,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20442,
+        "num": 20442,
+        "word": "女子大跳台决赛推迟",
+        "onboard_time": 1771267395,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的春节祝福#"
+    }
+  }
+}

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/02/15 00:40:48 ~ 2026/02/17 04:56:52
+本榜单时间：2026/02/15 00:40:48 ~ 2026/02/17 05:37:50
 </p>
 </blockquote>
 <p>
@@ -897,6 +897,12 @@ Angelababy邓超即将合拍（热度：554438）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E5%A4%A7%E8%B7%B3%E5%8F%B0%E9%93%B6%E7%89%8C%23" target="weibo">
+谷爱凌大跳台银牌（热度：543792）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E7%84%B6%E4%B8%9E%E7%A3%8A%E5%90%8C%E6%97%B6%E5%8F%91%E7%BA%A2%E5%8C%85%23" target="weibo">
 王楚然丞磊同时发红包（热度：537852）
 </a>
@@ -947,12 +953,6 @@ Angelababy邓超即将合拍（热度：554438）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E8%B6%85%E5%8F%8D%E5%B7%AE%23" target="weibo">
 邓超反差（热度：493989）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E5%A4%A7%E8%B7%B3%E5%8F%B0%E9%93%B6%E7%89%8C%23" target="weibo">
-谷爱凌大跳台银牌（热度：490827）
 </a>
 </li>
 
@@ -4065,6 +4065,12 @@ papi酱春晚视频（热度：61240）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9A%8B%E6%96%87%E9%9D%99%E9%9F%A9%E8%81%AA%E5%8F%8C%E4%BA%BA%E8%87%AA%E7%94%B1%E6%BB%91%23" target="weibo">
+隋文静韩聪双人自由滑（热度：58270）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9A%BE%E5%BF%98%E4%BB%8A%E5%AE%B5%23" target="weibo">
 难忘今宵（热度：57756）
 </a>
@@ -4085,6 +4091,12 @@ papi酱春晚视频（热度：61240）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E7%BF%8A%E9%B8%A3%E6%AF%94%E8%B5%9B%E6%97%B6%E9%97%B4%E6%8F%90%E5%89%8D1%E5%A4%A9%23" target="weibo">
 苏翊鸣比赛时间提前1天（热度：57076）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E5%88%9B%E9%80%A0%E8%87%AA%E7%94%B1%E5%BC%8F%E6%BB%91%E9%9B%AA%E5%A5%96%E7%89%8C%E7%BA%AA%E5%BD%95%23" target="weibo">
+谷爱凌创造自由式滑雪奖牌纪录（热度：56737）
 </a>
 </li>
 
@@ -4229,6 +4241,12 @@ papi酱春晚视频（热度：61240）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%90%A7%E6%97%AD%E9%A6%96%E7%99%BB%E6%98%A5%E6%99%9A%E8%88%9E%E5%8F%B0%23" target="weibo">
 刘萧旭首登春晚舞台（热度：50703）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9A%8B%E6%96%87%E9%9D%99%E9%9F%A9%E8%81%AA%E8%87%AA%E7%94%B1%E6%BB%91135.98%E5%88%86%23" target="weibo">
+隋文静韩聪自由滑135.98分（热度：50653）
 </a>
 </li>
 
@@ -4719,6 +4737,12 @@ Seedance2.0为啥能火爆出圈（热度：23776）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E7%AC%AC3%E8%B7%B389.00%E5%88%86%23" target="weibo">
+谷爱凌第3跳89.00分（热度：23172）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E7%BA%A2%E5%8C%85%E5%B0%81%E9%9D%A2%E5%A4%A7%E8%B5%8F%23" target="weibo">
 王楚钦红包封面大赏（热度：23162）
 </a>
@@ -4739,6 +4763,12 @@ Seedance2.0为啥能火爆出圈（热度：23776）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E7%BF%8A%E9%B8%A3%E6%AF%94%E8%B5%9B%E6%94%B9%E6%9C%9F%23" target="weibo">
 苏翊鸣比赛改期（热度：22152）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E6%80%BB%E5%88%86179.00%23" target="weibo">
+谷爱凌总分179.00（热度：21755）
 </a>
 </li>
 
