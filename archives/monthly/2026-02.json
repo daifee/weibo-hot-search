@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1771285081236,
+  "endTime": 1771286068096,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -4403,6 +4403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 562383,
+      "num": 562383,
+      "word": "沈腾 说错词",
+      "onboard_time": 1771280956,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 562288,
       "num": 314946,
       "word": "这还是我认识的锤娜丽莎吗",
@@ -4668,7 +4676,7 @@
     },
     {
       "raw_hot": 543792,
-      "num": 888857,
+      "num": 1018394,
       "word": "谷爱凌大跳台银牌",
       "onboard_time": 1771275015,
       "rank": 0,
@@ -5057,14 +5065,6 @@
       "onboard_time": 1770097041,
       "rank": 6,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 511855,
-      "num": 511855,
-      "word": "沈腾 说错词",
-      "onboard_time": 1771280956,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 511460,
@@ -9995,6 +9995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 309370,
+      "num": 730599,
+      "word": "大年初一",
+      "onboard_time": 1771283658,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 309329,
       "num": 224637,
       "word": "金枝开机",
@@ -11707,6 +11715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 266946,
+      "num": 183885,
+      "word": "短剧上春晚了",
+      "onboard_time": 1771272494,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 266867,
       "num": 139035,
       "word": "短剧八位男女顶流春晚合体",
@@ -12507,6 +12523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 249505,
+      "num": 626807,
+      "word": "谷爱凌创造自由式滑雪奖牌纪录",
+      "onboard_time": 1771275434,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 249337,
       "num": 249337,
       "word": "苏翊鸣坡面障碍技巧预赛",
@@ -13089,14 +13113,6 @@
       "onboard_time": 1770713361,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 239183,
-      "num": 626807,
-      "word": "谷爱凌创造自由式滑雪奖牌纪录",
-      "onboard_time": 1771275434,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 238947,
@@ -14179,14 +14195,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 222099,
-      "num": 163359,
-      "word": "短剧上春晚了",
-      "onboard_time": 1771272494,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 221967,
       "num": 185822,
       "word": "小英辣妹妆",
@@ -14577,14 +14585,6 @@
       "onboard_time": 1770560963,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 216309,
-      "num": 216309,
-      "word": "大年初一",
-      "onboard_time": 1771283658,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 216189,
@@ -16161,6 +16161,14 @@
       "onboard_time": 1771170082,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 189529,
+      "num": 114796,
+      "word": "春晚汉族小朋友穿了汉服",
+      "onboard_time": 1771249779,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 189284,
@@ -19555,6 +19563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 147405,
+      "num": 109815,
+      "word": "张新成和邓超的节目是不是上反了",
+      "onboard_time": 1771282278,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 147384,
       "num": 208345,
       "word": "男子称外籍妻子失联后转走全部家当",
@@ -20907,14 +20923,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 136408,
-      "num": 102469,
-      "word": "张新成和邓超的节目是不是上反了",
-      "onboard_time": 1771282278,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 136397,
       "num": 119034,
       "word": "单身即地狱5",
@@ -20961,6 +20969,14 @@
       "onboard_time": 1770246978,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 136036,
+      "num": 107340,
+      "word": "王一博回应春晚舞台脚滑",
+      "onboard_time": 1771285760,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 136012,
@@ -22441,14 +22457,6 @@
       "onboard_time": 1770089782,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 125837,
-      "num": 98152,
-      "word": "春晚汉族小朋友穿了汉服",
-      "onboard_time": 1771249779,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 125782,
@@ -26451,6 +26459,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 106671,
+      "num": 106671,
+      "word": "肖战拜年",
+      "onboard_time": 1771284739,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 106656,
       "num": 106656,
       "word": "彭昱畅红包口令",
@@ -27249,6 +27265,14 @@
       "onboard_time": 1770088879,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 103546,
+      "num": 103546,
+      "word": "小演员暖宝宝掉了成龙亲手贴上",
+      "onboard_time": 1771285280,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 103541,
@@ -30897,6 +30921,14 @@
       "onboard_time": 1770396318,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 90953,
+      "num": 109950,
+      "word": "近视600度是眼球的风险临界值",
+      "onboard_time": 1771284258,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 90946,
@@ -35179,6 +35211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 77710,
+      "num": 109642,
+      "word": "拜年",
+      "onboard_time": 1771285579,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77699,
       "num": 221119,
       "word": "无法融入猴群小猴一直抱着玩偶",
@@ -36225,14 +36265,6 @@
       "onboard_time": 1770248960,
       "rank": 37,
       "category": "财经"
-    },
-    {
-      "raw_hot": 74469,
-      "num": 74469,
-      "word": "肖战拜年",
-      "onboard_time": 1771284739,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 74442,
@@ -38795,14 +38827,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 61937,
-      "num": 101072,
-      "word": "近视600度是眼球的风险临界值",
-      "onboard_time": 1771284258,
-      "rank": 23,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 61929,
       "num": 93844,
       "word": "成何体统男二女二私会男主女主看戏",
@@ -40083,6 +40107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 52938,
+      "num": 101504,
+      "word": "神超官宣女友",
+      "onboard_time": 1771283719,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 52815,
       "num": 52815,
       "word": "官方回应局长因80万年薪未兑现仲裁",
@@ -40289,14 +40321,6 @@
       "onboard_time": 1770743598,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 51748,
-      "num": 89968,
-      "word": "神超官宣女友",
-      "onboard_time": 1771283719,
-      "rank": 32,
-      "category": "电竞"
     },
     {
       "raw_hot": 51673,
@@ -42011,6 +42035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41641,
+      "num": 74484,
+      "word": "谷爱凌四年没比过大跳台",
+      "onboard_time": 1771276634,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 41577,
       "num": 663495,
       "word": "坐高铁感受经济脉动",
@@ -42729,14 +42761,6 @@
       "onboard_time": 1769902818,
       "rank": 42,
       "category": "数码"
-    },
-    {
-      "raw_hot": 37010,
-      "num": 74484,
-      "word": "谷爱凌四年没比过大跳台",
-      "onboard_time": 1771276634,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 37005,

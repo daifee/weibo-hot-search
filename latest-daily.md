@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/02/17 00:04:44 ~ 2026/02/17 07:38:01
+本榜单时间：2026/02/17 00:04:44 ~ 2026/02/17 07:54:28
 </p>
 </blockquote>
 <p>
@@ -207,6 +207,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E8%85%BE%20%E8%AF%B4%E9%94%99%E8%AF%8D%23" target="weibo">
+沈腾 说错词（热度：562383）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E8%B6%85%20%E9%AD%94%E4%B8%B8%E5%8F%98%E7%81%B5%E7%8F%A0%23" target="weibo">
 邓超 魔丸变灵珠（热度：555894）
 </a>
@@ -221,12 +227,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E5%A4%A7%E8%B7%B3%E5%8F%B0%E9%93%B6%E7%89%8C%23" target="weibo">
 谷爱凌大跳台银牌（热度：543792）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E8%85%BE%20%E8%AF%B4%E9%94%99%E8%AF%8D%23" target="weibo">
-沈腾 说错词（热度：511855）
 </a>
 </li>
 
@@ -321,6 +321,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%B9%B4%E5%88%9D%E4%B8%80%23" target="weibo">
+大年初一（热度：309370）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23TFBOYS%E6%80%8E%E4%B9%88%E5%8F%98%E5%9B%9B%E4%B8%AA%E4%BA%BA%E4%BA%86%23" target="weibo">
 TFBOYS怎么变四个人了（热度：307529）
 </a>
@@ -339,6 +345,12 @@ TFBOYS怎么变四个人了（热度：307529）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9F%AD%E5%89%A7%E4%B8%8A%E6%98%A5%E6%99%9A%E4%BA%86%23" target="weibo">
+短剧上春晚了（热度：266946）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BA%9A%E9%A3%9E%E7%BB%99%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%8C%96%E7%9A%84%E5%A6%86%23" target="weibo">
 王亚飞给迪丽热巴化的妆（热度：257846）
 </a>
@@ -346,25 +358,19 @@ TFBOYS怎么变四个人了（热度：307529）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E5%88%9B%E9%80%A0%E8%87%AA%E7%94%B1%E5%BC%8F%E6%BB%91%E9%9B%AA%E5%A5%96%E7%89%8C%E7%BA%AA%E5%BD%95%23" target="weibo">
-谷爱凌创造自由式滑雪奖牌纪录（热度：239183）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%9F%AD%E5%89%A7%E4%B8%8A%E6%98%A5%E6%99%9A%E4%BA%86%23" target="weibo">
-短剧上春晚了（热度：222099）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%B9%B4%E5%88%9D%E4%B8%80%23" target="weibo">
-大年初一（热度：216309）
+谷爱凌创造自由式滑雪奖牌纪录（热度：249505）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%88%E8%82%A5%E5%88%86%E4%BC%9A%E5%9C%BA%E6%8E%92%E9%9D%A2%E6%9C%80%E5%B0%8A%23" target="weibo">
 合肥分会场排面最尊（热度：191128）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%A5%E6%99%9A%E6%B1%89%E6%97%8F%E5%B0%8F%E6%9C%8B%E5%8F%8B%E7%A9%BF%E4%BA%86%E6%B1%89%E6%9C%8D%23" target="weibo">
+春晚汉族小朋友穿了汉服（热度：189529）
 </a>
 </li>
 
@@ -399,6 +405,18 @@ TFBOYS怎么变四个人了（热度：307529）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%96%B0%E6%88%90%E5%92%8C%E9%82%93%E8%B6%85%E7%9A%84%E8%8A%82%E7%9B%AE%E6%98%AF%E4%B8%8D%E6%98%AF%E4%B8%8A%E5%8F%8D%E4%BA%86%23" target="weibo">
+张新成和邓超的节目是不是上反了（热度：147405）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%A5%E6%99%9A%E8%BF%9B%E6%AD%A5%E6%9C%80%E5%BF%AB%E7%9A%84%E6%98%AF%E8%94%A1%E6%98%8E%E7%9A%84%E5%AD%99%E5%AD%90%23" target="weibo">
+春晚进步最快的是蔡明的孙子（热度：140967）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%83%E5%AE%9D%23" target="weibo">
 元宝（热度：137980）
 </a>
@@ -417,8 +435,8 @@ TFBOYS怎么变四个人了（热度：307529）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%96%B0%E6%88%90%E5%92%8C%E9%82%93%E8%B6%85%E7%9A%84%E8%8A%82%E7%9B%AE%E6%98%AF%E4%B8%8D%E6%98%AF%E4%B8%8A%E5%8F%8D%E4%BA%86%23" target="weibo">
-张新成和邓超的节目是不是上反了（热度：136408）
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%9B%9E%E5%BA%94%E6%98%A5%E6%99%9A%E8%88%9E%E5%8F%B0%E8%84%9A%E6%BB%91%23" target="weibo">
+王一博回应春晚舞台脚滑（热度：136036）
 </a>
 </li>
 
@@ -431,18 +449,6 @@ TFBOYS怎么变四个人了（热度：307529）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9A%8B%E6%96%87%E9%9D%99%E9%9F%A9%E8%81%AA%E8%87%AA%E7%94%B1%E6%BB%91135.98%E5%88%86%23" target="weibo">
 隋文静韩聪自由滑135.98分（热度：132025）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%98%A5%E6%99%9A%E8%BF%9B%E6%AD%A5%E6%9C%80%E5%BF%AB%E7%9A%84%E6%98%AF%E8%94%A1%E6%98%8E%E7%9A%84%E5%AD%99%E5%AD%90%23" target="weibo">
-春晚进步最快的是蔡明的孙子（热度：126310）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%98%A5%E6%99%9A%E6%B1%89%E6%97%8F%E5%B0%8F%E6%9C%8B%E5%8F%8B%E7%A9%BF%E4%BA%86%E6%B1%89%E6%9C%8D%23" target="weibo">
-春晚汉族小朋友穿了汉服（热度：125837）
 </a>
 </li>
 
@@ -465,8 +471,20 @@ TFBOYS怎么变四个人了（热度：307529）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%8B%9C%E5%B9%B4%23" target="weibo">
+肖战拜年（热度：106671）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E7%8E%89%E9%9B%AF%E6%89%9B%E4%BD%8F%E4%BA%86%E6%98%A5%E6%99%9A%E9%95%9C%E5%A4%B4%23" target="weibo">
 王玉雯扛住了春晚镜头（热度：105173）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%BC%94%E5%91%98%E6%9A%96%E5%AE%9D%E5%AE%9D%E6%8E%89%E4%BA%86%E6%88%90%E9%BE%99%E4%BA%B2%E6%89%8B%E8%B4%B4%E4%B8%8A%23" target="weibo">
+小演员暖宝宝掉了成龙亲手贴上（热度：103546）
 </a>
 </li>
 
@@ -489,14 +507,20 @@ TFBOYS怎么变四个人了（热度：307529）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%91%E8%A7%86600%E5%BA%A6%E6%98%AF%E7%9C%BC%E7%90%83%E7%9A%84%E9%A3%8E%E9%99%A9%E4%B8%B4%E7%95%8C%E5%80%BC%23" target="weibo">
+近视600度是眼球的风险临界值（热度：90953）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%8F%88%E6%98%AF%E4%B8%80%E5%B9%B4%E5%89%A7%E7%BB%84%E5%B9%B4%E5%A4%9C%E9%A5%AD%23" target="weibo">
 杨紫又是一年剧组年夜饭（热度：84478）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%8B%9C%E5%B9%B4%23" target="weibo">
-肖战拜年（热度：74469）
+<a href="https://s.weibo.com/weibo?q=%23%E6%8B%9C%E5%B9%B4%23" target="weibo">
+拜年（热度：77710）
 </a>
 </li>
 
@@ -521,12 +545,6 @@ TFBOYS怎么变四个人了（热度：307529）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%AD%E7%BB%B4%E7%BB%B4%E9%9A%BE%E5%BF%98%E4%BB%8A%E5%AE%B5C%E4%BD%8D%23" target="weibo">
 谭维维难忘今宵C位（热度：70711）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%91%E8%A7%86600%E5%BA%A6%E6%98%AF%E7%9C%BC%E7%90%83%E7%9A%84%E9%A3%8E%E9%99%A9%E4%B8%B4%E7%95%8C%E5%80%BC%23" target="weibo">
-近视600度是眼球的风险临界值（热度：61937）
 </a>
 </li>
 
@@ -574,7 +592,7 @@ papi酱春晚视频（热度：61240）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A5%9E%E8%B6%85%E5%AE%98%E5%AE%A3%E5%A5%B3%E5%8F%8B%23" target="weibo">
-神超官宣女友（热度：51748）
+神超官宣女友（热度：52938）
 </a>
 </li>
 
@@ -586,7 +604,7 @@ papi酱春晚视频（热度：61240）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E5%9B%9B%E5%B9%B4%E6%B2%A1%E6%AF%94%E8%BF%87%E5%A4%A7%E8%B7%B3%E5%8F%B0%23" target="weibo">
-谷爱凌四年没比过大跳台（热度：37010）
+谷爱凌四年没比过大跳台（热度：41641）
 </a>
 </li>
 
