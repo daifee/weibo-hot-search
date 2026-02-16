@@ -1,0 +1,410 @@
+{
+  "runTime": 1771240431595,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 26112442,
+        "num": 26112442,
+        "word": "明星红包",
+        "onboard_time": 1771203439,
+        "rank": 0,
+        "category": "民生新闻,作品衍生"
+      },
+      {
+        "raw_hot": 5302072,
+        "num": 5302072,
+        "word": "春晚节目单",
+        "onboard_time": 1771207399,
+        "rank": 1,
+        "category": "民生新闻,综艺"
+      },
+      {
+        "raw_hot": 41564,
+        "num": 3717217,
+        "word": "除夕祝你万事胜意",
+        "onboard_time": 1771232727,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1101856,
+        "num": 1101856,
+        "word": "年夜饭",
+        "onboard_time": 1771215082,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 897021,
+        "num": 897021,
+        "word": "红包",
+        "onboard_time": 1771171402,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1238163,
+        "num": 873262,
+        "word": "敖瑞鹏发红包还有前菜",
+        "onboard_time": 1771223244,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 497231,
+        "num": 497231,
+        "word": "短道速滑",
+        "onboard_time": 1771236445,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 804163,
+        "num": 494912,
+        "word": "红包分组",
+        "onboard_time": 1771203079,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 790507,
+        "num": 480502,
+        "word": "迪丽热巴人鱼公主",
+        "onboard_time": 1771231466,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 398797,
+        "num": 398797,
+        "word": "千问红包",
+        "onboard_time": 1771222284,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 619350,
+        "num": 394020,
+        "word": "陈哲远 15万红包",
+        "onboard_time": 1771212920,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 425489,
+        "num": 386689,
+        "word": "王楚然红包",
+        "onboard_time": 1771233264,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 374541,
+        "num": 374541,
+        "word": "冬奥短道速滑男子500米预赛",
+        "onboard_time": 1771237706,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 572927,
+        "num": 358672,
+        "word": "蹲王星越红包",
+        "onboard_time": 1771231523,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17973,
+        "num": 342415,
+        "word": "易烊千玺邀你上千问领红包",
+        "onboard_time": 1771239690,
+        "rank": 14,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 335100,
+        "num": 335100,
+        "word": "孙龙500米pen",
+        "onboard_time": 1771238965,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 460567,
+        "num": 333292,
+        "word": "侯明昊发红包",
+        "onboard_time": 1771235364,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 318550,
+        "num": 318550,
+        "word": "王一博出图",
+        "onboard_time": 1771237643,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256273,
+        "num": 256273,
+        "word": "林孝埈500米顺利晋级",
+        "onboard_time": 1771239569,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101538,
+        "num": 241628,
+        "word": "刘少昂黄大宪500米同组",
+        "onboard_time": 1771239325,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 9646262,
+        "num": 9646262,
+        "word": "白鹿红包预告",
+        "onboard_time": 1771237104,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1346467,
+        "num": 238431,
+        "word": "卢昱晓发红包时间",
+        "onboard_time": 1771235004,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236545,
+        "num": 236545,
+        "word": "大年初一不洗头不煮饭",
+        "onboard_time": 1771232607,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 314536,
+        "num": 230276,
+        "word": "时代少年团楼晚特别栏目",
+        "onboard_time": 1771238005,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 986158,
+        "num": 225825,
+        "word": "孟子义 先发美图再发红包",
+        "onboard_time": 1771226902,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216769,
+        "num": 216769,
+        "word": "千问能不能帮我自动抢红包",
+        "onboard_time": 1771239868,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 819469,
+        "num": 216763,
+        "word": "TOP红包",
+        "onboard_time": 1771238545,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 376262,
+        "num": 216741,
+        "word": "穆祉丞红包",
+        "onboard_time": 1771237706,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168715,
+        "num": 216696,
+        "word": "易烊千玺9登春晚",
+        "onboard_time": 1771223783,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34940,
+        "num": 216670,
+        "word": "谁懂啊春晚骐骥竟然不是马",
+        "onboard_time": 1771240165,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 293762,
+        "num": 216631,
+        "word": "清融发红包",
+        "onboard_time": 1771239385,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 698188,
+        "num": 216609,
+        "word": "王鹤棣红包",
+        "onboard_time": 1771240286,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24414,
+        "num": 216602,
+        "word": "豆包科技好礼有春晚同款机器人",
+        "onboard_time": 1771236267,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 537852,
+        "num": 216563,
+        "word": "王楚然丞磊同时发红包",
+        "onboard_time": 1771236506,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 522342,
+        "num": 216538,
+        "word": "丁程鑫年会发了66666",
+        "onboard_time": 1771240165,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216522,
+        "num": 216522,
+        "word": "红包雨",
+        "onboard_time": 1771217903,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 496184,
+        "num": 213722,
+        "word": "陈都灵红包单包的金额设置好高",
+        "onboard_time": 1771231343,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 474784,
+        "num": 211119,
+        "word": "李一桐定时红包",
+        "onboard_time": 1771228162,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206184,
+        "num": 206184,
+        "word": "红包封面",
+        "onboard_time": 1771217780,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 420524,
+        "num": 204226,
+        "word": "陈楚生 我们春天见",
+        "onboard_time": 1771237285,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 362791,
+        "num": 200971,
+        "word": "朱志鑫红包 抢不到",
+        "onboard_time": 1771238605,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191483,
+        "num": 191483,
+        "word": "新年祝福语",
+        "onboard_time": 1771233086,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 330208,
+        "num": 191430,
+        "word": "成毅的年夜饭",
+        "onboard_time": 1771234585,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284245,
+        "num": 190742,
+        "word": "张碧晨晚饭后还有红包",
+        "onboard_time": 1771239690,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187370,
+        "num": 187370,
+        "word": "除夕",
+        "onboard_time": 1771198338,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 268504,
+        "num": 187351,
+        "word": "宋威龙 新郎官",
+        "onboard_time": 1771237464,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200600,
+        "num": 185581,
+        "word": "TFING红包",
+        "onboard_time": 1771238305,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169028,
+        "num": 183809,
+        "word": "浙江压岁钱",
+        "onboard_time": 1771238725,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 183613,
+        "num": 183613,
+        "word": "冬奥短道速滑女子1000米",
+        "onboard_time": 1771236207,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182488,
+        "num": 182488,
+        "word": "TF家族新音纪录片",
+        "onboard_time": 1771240106,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#万水千山镌刻着最温暖的牵挂#"
+    }
+  }
+}
