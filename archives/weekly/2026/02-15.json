@@ -1,6 +1,6 @@
 {
   "startTime": 1771087248939,
-  "endTime": 1771219030267,
+  "endTime": 1771224090546,
   "band_list": [
     {
       "raw_hot": 14435032,
@@ -17,6 +17,22 @@
       "onboard_time": 1771217121,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 5116656,
+      "num": 5116656,
+      "word": "春晚节目单",
+      "onboard_time": 1771207399,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 4770738,
+      "num": 356819,
+      "word": "周翊然红包",
+      "onboard_time": 1771220842,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 3500523,
@@ -41,14 +57,6 @@
       "onboard_time": 1771050141,
       "rank": 5,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 2308822,
-      "num": 2308822,
-      "word": "春晚节目单",
-      "onboard_time": 1771207399,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 1911600,
@@ -76,7 +84,7 @@
     },
     {
       "raw_hot": 1255483,
-      "num": 177800,
+      "num": 181489,
       "word": "鞠婧祎工作室发图",
       "onboard_time": 1771213220,
       "rank": 14,
@@ -200,6 +208,14 @@
       "word": "李亚鹏饮酒后83岁母亲开车接其回家",
       "onboard_time": 1771208181,
       "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 674965,
+      "num": 170979,
+      "word": "张凌赫 七个红包",
+      "onboard_time": 1771219945,
+      "rank": 16,
       "category": "艺人"
     },
     {
@@ -355,6 +371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 565923,
+      "num": 170015,
+      "word": "敖瑞鹏发红包还有前菜",
+      "onboard_time": 1771223244,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 565873,
       "num": 808173,
       "word": "包贝尔一家 看提词器",
@@ -364,7 +388,7 @@
     },
     {
       "raw_hot": 557782,
-      "num": 132584,
+      "num": 145115,
       "word": "祝绪丹口令红包",
       "onboard_time": 1771207700,
       "rank": 30,
@@ -433,6 +457,14 @@
       "onboard_time": 1771119678,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 487436,
+      "num": 2749792,
+      "word": "千问红包",
+      "onboard_time": 1771072762,
+      "rank": 4,
+      "category": "互联网"
     },
     {
       "raw_hot": 486976,
@@ -571,6 +603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 397791,
+      "num": 397791,
+      "word": "红包雨",
+      "onboard_time": 1771217903,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 388629,
       "num": 388629,
       "word": "苏翊鸣第一滑70.83分",
@@ -612,7 +652,7 @@
     },
     {
       "raw_hot": 371417,
-      "num": 137025,
+      "num": 144714,
       "word": "毛晓彤红包",
       "onboard_time": 1771215262,
       "rank": 22,
@@ -835,14 +875,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 304191,
-      "num": 304191,
-      "word": "千问红包",
-      "onboard_time": 1771072762,
-      "rank": 4,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 300007,
       "num": 300007,
       "word": "王菲凤凰传奇满屏雅俗通杀",
@@ -1027,6 +1059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 261934,
+      "num": 156335,
+      "word": "马年春晚节目单公布",
+      "onboard_time": 1771222643,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 260810,
       "num": 197896,
       "word": "镖人",
@@ -1049,14 +1089,6 @@
       "onboard_time": 1771137622,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 260046,
-      "num": 260046,
-      "word": "红包雨",
-      "onboard_time": 1771217903,
-      "rank": 30,
-      "category": "互联网"
     },
     {
       "raw_hot": 257103,
@@ -1419,6 +1451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 199250,
+      "num": 151320,
+      "word": "范丞丞红包",
+      "onboard_time": 1771221327,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 196780,
       "num": 319811,
       "word": "河南下雪",
@@ -1433,6 +1473,14 @@
       "onboard_time": 1771123998,
       "rank": 14,
       "category": "财经"
+    },
+    {
+      "raw_hot": 192400,
+      "num": 150652,
+      "word": "田曦薇春晚洋娃娃",
+      "onboard_time": 1771221566,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 192293,
@@ -1465,6 +1513,14 @@
       "onboard_time": 1771170082,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 188801,
+      "num": 188801,
+      "word": "爷错了 别哭了",
+      "onboard_time": 1771222043,
+      "rank": 9,
+      "category": "情感"
     },
     {
       "raw_hot": 187549,
@@ -1635,6 +1691,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 159718,
+      "num": 197458,
+      "word": "被王毅痛斥后日本急了",
+      "onboard_time": 1771217844,
+      "rank": 15,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 159438,
       "num": 159438,
       "word": "宋威龙田曦薇恐怖箱挑战",
@@ -1649,6 +1713,14 @@
       "onboard_time": 1771146741,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 159093,
+      "num": 159093,
+      "word": "雷军换头像",
+      "onboard_time": 1771221687,
+      "rank": 21,
+      "category": "互联网"
     },
     {
       "raw_hot": 158680,
@@ -1667,14 +1739,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 155943,
-      "num": 197458,
-      "word": "被王毅痛斥后日本急了",
-      "onboard_time": 1771217844,
-      "rank": 15,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 155459,
       "num": 75587,
       "word": "5种炎症时间长了可能会变癌症",
@@ -1689,6 +1753,14 @@
       "onboard_time": 1771156221,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 151762,
+      "num": 151762,
+      "word": "深圳除夕当天租男友3000元一天",
+      "onboard_time": 1771221388,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 151657,
@@ -1817,6 +1889,14 @@
       "onboard_time": 1771123218,
       "rank": 14,
       "category": "电影"
+    },
+    {
+      "raw_hot": 138468,
+      "num": 138468,
+      "word": "鹿晗最新素颜照",
+      "onboard_time": 1771220902,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 136848,
@@ -2155,6 +2235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 109164,
+      "num": 109164,
+      "word": "易烊千玺9登春晚",
+      "onboard_time": 1771223783,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 108953,
       "num": 108953,
       "word": "影视飓风Tim称将完整记录素人登珠峰",
@@ -2249,6 +2337,14 @@
       "onboard_time": 1771209920,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 101992,
+      "num": 101992,
+      "word": "吴宣仪已争气争气再争气",
+      "onboard_time": 1771219043,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 101420,
@@ -2379,6 +2475,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 96459,
+      "num": 148820,
+      "word": "林孝埈孙龙刘少昂除夕出战",
+      "onboard_time": 1771220842,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 96239,
       "num": 96239,
       "word": "假期是补气血的最佳时机",
@@ -2433,6 +2537,14 @@
       "onboard_time": 1771166003,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 91793,
+      "num": 146214,
+      "word": "春节洗头日历",
+      "onboard_time": 1771220184,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 91723,
@@ -2673,6 +2785,14 @@
       "onboard_time": 1771130000,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 82056,
+      "num": 141301,
+      "word": "港股半导体板块爆发",
+      "onboard_time": 1771223603,
+      "rank": 35,
+      "category": "财经"
     },
     {
       "raw_hot": 81377,
@@ -3003,6 +3123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 71037,
+      "num": 109518,
+      "word": "过年聚会时的我",
+      "onboard_time": 1771222942,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 70972,
       "num": 70972,
       "word": "白百何孩子五岁了",
@@ -3153,6 +3281,14 @@
       "onboard_time": 1771144939,
       "rank": 41,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 68273,
+      "num": 103693,
+      "word": "没有真正小众的东西",
+      "onboard_time": 1771223902,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 67971,
@@ -3441,6 +3577,14 @@
       "onboard_time": 1771098254,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 59291,
+      "num": 99182,
+      "word": "广西人把年鸭扔河里让小鱼拔毛",
+      "onboard_time": 1771223543,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 59275,
@@ -4059,6 +4203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25766,
+      "num": 148052,
+      "word": "每个地方都有一道别人不理解的菜",
+      "onboard_time": 1771221867,
+      "rank": 29,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 25706,
       "num": 151749,
       "word": "男子驾车返乡途中被猫锁在车外",
@@ -4089,6 +4241,14 @@
       "onboard_time": 1771143740,
       "rank": 23,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 23760,
+      "num": 3005217,
+      "word": "话百家姓过中国年",
+      "onboard_time": 1771217780,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23507,
@@ -4399,14 +4559,6 @@
       "num": 129630,
       "word": "归家行李里的浓浓年味",
       "onboard_time": 1771167743,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 5554,
-      "num": 3005217,
-      "word": "话百家姓过中国年",
-      "onboard_time": 1771217780,
       "rank": 2,
       "category": "民生新闻"
     }

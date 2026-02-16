@@ -1,6 +1,6 @@
 {
   "startTime": 1771173652789,
-  "endTime": 1771219030267,
+  "endTime": 1771224090546,
   "band_list": [
     {
       "raw_hot": 14435032,
@@ -19,6 +19,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 5116656,
+      "num": 5116656,
+      "word": "春晚节目单",
+      "onboard_time": 1771207399,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 4770738,
+      "num": 356819,
+      "word": "周翊然红包",
+      "onboard_time": 1771220842,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 3492554,
       "num": 2990936,
       "word": "红包分组",
@@ -33,14 +49,6 @@
       "onboard_time": 1771171402,
       "rank": 3,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 2308822,
-      "num": 2308822,
-      "word": "春晚节目单",
-      "onboard_time": 1771207399,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 1911600,
@@ -60,7 +68,7 @@
     },
     {
       "raw_hot": 1255483,
-      "num": 177800,
+      "num": 181489,
       "word": "鞠婧祎工作室发图",
       "onboard_time": 1771213220,
       "rank": 14,
@@ -107,6 +115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 674965,
+      "num": 170979,
+      "word": "张凌赫 七个红包",
+      "onboard_time": 1771219945,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 666527,
       "num": 129657,
       "word": "陈哲远 散财童子",
@@ -131,8 +147,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 565923,
+      "num": 170015,
+      "word": "敖瑞鹏发红包还有前菜",
+      "onboard_time": 1771223244,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 557782,
-      "num": 132584,
+      "num": 145115,
       "word": "祝绪丹口令红包",
       "onboard_time": 1771207700,
       "rank": 30,
@@ -153,6 +177,14 @@
       "onboard_time": 1771169062,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 487436,
+      "num": 2749792,
+      "word": "千问红包",
+      "onboard_time": 1771222284,
+      "rank": 1,
+      "category": "互联网"
     },
     {
       "raw_hot": 458857,
@@ -187,6 +219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 397791,
+      "num": 397791,
+      "word": "红包雨",
+      "onboard_time": 1771217903,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 388645,
       "num": 657790,
       "word": "背滕王阁序被免票日本男子发声",
@@ -196,7 +236,7 @@
     },
     {
       "raw_hot": 371417,
-      "num": 137025,
+      "num": 144714,
       "word": "毛晓彤红包",
       "onboard_time": 1771215262,
       "rank": 22,
@@ -275,12 +315,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 260046,
-      "num": 260046,
-      "word": "红包雨",
-      "onboard_time": 1771217903,
-      "rank": 30,
-      "category": "互联网"
+      "raw_hot": 261934,
+      "num": 156335,
+      "word": "马年春晚节目单公布",
+      "onboard_time": 1771222643,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 234491,
@@ -347,6 +387,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 199250,
+      "num": 151320,
+      "word": "范丞丞红包",
+      "onboard_time": 1771221327,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 192400,
+      "num": 150652,
+      "word": "田曦薇春晚洋娃娃",
+      "onboard_time": 1771221566,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 190903,
       "num": 234994,
       "word": "爱泼斯坦案名单竟出现梦露等人",
@@ -377,6 +433,14 @@
       "onboard_time": 1771155502,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 188801,
+      "num": 188801,
+      "word": "爷错了 别哭了",
+      "onboard_time": 1771222043,
+      "rank": 9,
+      "category": "情感"
     },
     {
       "raw_hot": 187549,
@@ -443,12 +507,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 155943,
+      "raw_hot": 159718,
       "num": 197458,
       "word": "被王毅痛斥后日本急了",
       "onboard_time": 1771217844,
       "rank": 15,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 159093,
+      "num": 159093,
+      "word": "雷军换头像",
+      "onboard_time": 1771221687,
+      "rank": 21,
+      "category": "互联网"
     },
     {
       "raw_hot": 155459,
@@ -457,6 +529,14 @@
       "onboard_time": 1771198277,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 151762,
+      "num": 151762,
+      "word": "深圳除夕当天租男友3000元一天",
+      "onboard_time": 1771221388,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 147227,
@@ -472,6 +552,14 @@
       "word": "敖瑞鹏今晚还发红包时间不定",
       "onboard_time": 1771217362,
       "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 138468,
+      "num": 138468,
+      "word": "鹿晗最新素颜照",
+      "onboard_time": 1771220902,
+      "rank": 36,
       "category": "艺人"
     },
     {
@@ -603,6 +691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 109164,
+      "num": 109164,
+      "word": "易烊千玺9登春晚",
+      "onboard_time": 1771223783,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 107389,
       "num": 225871,
       "word": "这是普通人接触到的行业天花板了",
@@ -635,12 +731,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 101992,
+      "num": 101992,
+      "word": "吴宣仪已争气争气再争气",
+      "onboard_time": 1771219043,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 99164,
       "num": 99164,
       "word": "姐姐脱落的乳牙呛入1岁宝宝气道",
       "onboard_time": 1771160903,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96459,
+      "num": 148820,
+      "word": "林孝埈孙龙刘少昂除夕出战",
+      "onboard_time": 1771220842,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 94327,
@@ -657,6 +769,14 @@
       "onboard_time": 1771166602,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 91793,
+      "num": 146214,
+      "word": "春节洗头日历",
+      "onboard_time": 1771220184,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 89955,
@@ -715,6 +835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 82056,
+      "num": 141301,
+      "word": "港股半导体板块爆发",
+      "onboard_time": 1771223603,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
       "raw_hot": 80230,
       "num": 94233,
       "word": "刘涛该叫妈妈还是叫姐姐",
@@ -771,6 +899,14 @@
       "category": "民生新闻,艺人"
     },
     {
+      "raw_hot": 71037,
+      "num": 109518,
+      "word": "过年聚会时的我",
+      "onboard_time": 1771222942,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 70986,
       "num": 70986,
       "word": "猫爪美甲",
@@ -801,6 +937,14 @@
       "onboard_time": 1771214122,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 68273,
+      "num": 103693,
+      "word": "没有真正小众的东西",
+      "onboard_time": 1771223902,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 67912,
@@ -1009,6 +1153,14 @@
       "onboard_time": 1771165762,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 59291,
+      "num": 99182,
+      "word": "广西人把年鸭扔河里让小鱼拔毛",
+      "onboard_time": 1771223543,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 59275,
@@ -1315,6 +1467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 25766,
+      "num": 148052,
+      "word": "每个地方都有一道别人不理解的菜",
+      "onboard_time": 1771221867,
+      "rank": 29,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 25642,
       "num": 31964,
       "word": "和平精英",
@@ -1329,6 +1489,14 @@
       "onboard_time": 1771154540,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 23760,
+      "num": 3005217,
+      "word": "话百家姓过中国年",
+      "onboard_time": 1771217780,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23507,
@@ -1487,14 +1655,6 @@
       "num": 129630,
       "word": "归家行李里的浓浓年味",
       "onboard_time": 1771167743,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 5554,
-      "num": 3005217,
-      "word": "话百家姓过中国年",
-      "onboard_time": 1771217780,
       "rank": 2,
       "category": "民生新闻"
     }

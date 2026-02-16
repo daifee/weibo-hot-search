@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1771219030267,
+  "endTime": 1771224090546,
   "band_list": [
     {
       "raw_hot": 22742360,
@@ -275,12 +275,28 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 5116656,
+      "num": 5116656,
+      "word": "春晚节目单",
+      "onboard_time": 1771207399,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 5037712,
       "num": 6287712,
       "word": "谷爱凌决赛",
       "onboard_time": 1770635721,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 4770738,
+      "num": 356819,
+      "word": "周翊然红包",
+      "onboard_time": 1771220842,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 4325889,
@@ -689,14 +705,6 @@
       "onboard_time": 1770359000,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 2308822,
-      "num": 2308822,
-      "word": "春晚节目单",
-      "onboard_time": 1771207399,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 2304718,
@@ -1940,7 +1948,7 @@
     },
     {
       "raw_hot": 1255483,
-      "num": 177800,
+      "num": 181489,
       "word": "鞠婧祎工作室发图",
       "onboard_time": 1771213220,
       "rank": 14,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1769476219,
       "rank": 29,
       "category": "财经,民生新闻"
-    },
-    {
-      "raw_hot": 1149380,
-      "num": 290310,
-      "word": "为什么有女性不做美甲",
-      "onboard_time": 1769941461,
-      "rank": 33,
-      "category": "情感"
     }
   ],
   "hotgov_list": [
