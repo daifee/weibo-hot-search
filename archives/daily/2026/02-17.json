@@ -1,6 +1,6 @@
 {
   "startTime": 1771257884055,
-  "endTime": 1771261884212,
+  "endTime": 1771263873138,
   "band_list": [
     {
       "raw_hot": 7753211,
@@ -67,6 +67,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1543637,
+      "num": 1543637,
+      "word": "春晚收视率",
+      "onboard_time": 1771257213,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1516293,
       "num": 1516293,
       "word": "沈腾马丽 嗑晕了",
@@ -107,14 +115,6 @@
       "category": "综艺,互联网"
     },
     {
-      "raw_hot": 1348871,
-      "num": 1348871,
-      "word": "春晚收视率",
-      "onboard_time": 1771257213,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1192882,
       "num": 1192882,
       "word": "春晚 台湾回家",
@@ -152,6 +152,14 @@
       "word": "春晚导演 米莱狄",
       "onboard_time": 1771251703,
       "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 959159,
+      "num": 959159,
+      "word": "田曦薇宋威龙 谁来递个本子",
+      "onboard_time": 1771261824,
+      "rank": 38,
       "category": "综艺"
     },
     {
@@ -200,6 +208,14 @@
       "word": "魏晨站山顶",
       "onboard_time": 1771254938,
       "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 743081,
+      "num": 743081,
+      "word": "白鹿好美",
+      "onboard_time": 1771261644,
+      "rank": 25,
       "category": "综艺"
     },
     {
@@ -256,14 +272,6 @@
       "word": "合肥分会场",
       "onboard_time": 1771256672,
       "rank": 45,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 521093,
-      "num": 521093,
-      "word": "白鹿好美",
-      "onboard_time": 1771261644,
-      "rank": 25,
       "category": "综艺"
     },
     {
@@ -339,14 +347,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 356914,
-      "num": 356914,
-      "word": "田曦薇宋威龙 谁来递个本子",
-      "onboard_time": 1771261824,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 346334,
       "num": 346334,
       "word": "李健开净化了",
@@ -417,6 +417,14 @@
       "onboard_time": 1771232607,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 166475,
+      "num": 166475,
+      "word": "王橹杰晒的年夜饭",
+      "onboard_time": 1771263262,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 159590,
@@ -520,6 +528,14 @@
       "word": "在春晚看见义乌的世界情",
       "onboard_time": 1771254333,
       "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 31613,
+      "num": 453141,
+      "word": "迪丽热巴檀绯裸",
+      "onboard_time": 1771262601,
+      "rank": 19,
       "category": "综艺"
     },
     {

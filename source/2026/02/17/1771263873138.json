@@ -1,0 +1,410 @@
+{
+  "runTime": 1771263873138,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1543637,
+        "num": 1543637,
+        "word": "春晚收视率",
+        "onboard_time": 1771257213,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1305789,
+        "num": 1305789,
+        "word": "过年好",
+        "onboard_time": 1771256913,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118732,
+        "num": 1117289,
+        "word": "春晚分会场上大分",
+        "onboard_time": 1771250076,
+        "rank": 2,
+        "category": "民生新闻,综艺"
+      },
+      {
+        "raw_hot": 959159,
+        "num": 959159,
+        "word": "田曦薇宋威龙 谁来递个本子",
+        "onboard_time": 1771261824,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 900424,
+        "num": 900424,
+        "word": "刘浩存实在美丽",
+        "onboard_time": 1771257273,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 881888,
+        "num": 881888,
+        "word": "春晚",
+        "onboard_time": 1771242506,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 783324,
+        "num": 783324,
+        "word": "王菲接了李谷一的班",
+        "onboard_time": 1771252054,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 743081,
+        "num": 743081,
+        "word": "白鹿好美",
+        "onboard_time": 1771261644,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 640942,
+        "num": 640942,
+        "word": "张万森 下机器人了",
+        "onboard_time": 1771256256,
+        "rank": 8,
+        "category": "综艺,互联网"
+      },
+      {
+        "raw_hot": 166619,
+        "num": 635602,
+        "word": "刘少昂赛后道歉",
+        "onboard_time": 1771258891,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2005081,
+        "num": 628104,
+        "word": "谁给迪丽热巴化的妆",
+        "onboard_time": 1771247027,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237842,
+        "num": 622008,
+        "word": "宇树科技股票",
+        "onboard_time": 1771247441,
+        "rank": 11,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 105776,
+        "num": 616001,
+        "word": "新年文案",
+        "onboard_time": 1771258952,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89800,
+        "num": 608943,
+        "word": "豆包红包",
+        "onboard_time": 1771252175,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 75411,
+        "num": 602418,
+        "word": "谷爱凌大年初一凌晨争金",
+        "onboard_time": 1771252598,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 598892,
+        "num": 598892,
+        "word": "马丽单飞了 沈腾怎么办",
+        "onboard_time": 1771254514,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 571342,
+        "num": 571342,
+        "word": "王一博这一脚用了多大力气",
+        "onboard_time": 1771259909,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 497688,
+        "num": 497688,
+        "word": "刘浩存 北舞严选",
+        "onboard_time": 1771256974,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 52722,
+        "num": 468143,
+        "word": "花海晚上直播发红包",
+        "onboard_time": 1771256612,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 31613,
+        "num": 453141,
+        "word": "迪丽热巴檀绯裸",
+        "onboard_time": 1771262601,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 446841,
+        "num": 446841,
+        "word": "邓超妈妈",
+        "onboard_time": 1771256794,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 417917,
+        "num": 417917,
+        "word": "王菲水滴耳环",
+        "onboard_time": 1771257333,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 353959,
+        "num": 353959,
+        "word": "范丞丞王安宇同台",
+        "onboard_time": 1771257750,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140852,
+        "num": 328739,
+        "word": "烟花",
+        "onboard_time": 1771243718,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120595,
+        "num": 321330,
+        "word": "支付宝口令红包",
+        "onboard_time": 1771250375,
+        "rank": 24,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 319691,
+        "num": 319691,
+        "word": "陈哲远 你的运气额度省下来了",
+        "onboard_time": 1771250678,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 312134,
+        "num": 312134,
+        "word": "张凌赫发了好多红包",
+        "onboard_time": 1771241726,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173396,
+        "num": 291282,
+        "word": "快乐小马对我眼睛很友好",
+        "onboard_time": 1771258170,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86700,
+        "num": 286449,
+        "word": "大年初一不洗头不煮饭",
+        "onboard_time": 1771232607,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41588,
+        "num": 283369,
+        "word": "压岁钱",
+        "onboard_time": 1771235485,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 282939,
+        "num": 282939,
+        "word": "王一博郭富城炸场",
+        "onboard_time": 1771246123,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 282869,
+        "num": 282869,
+        "word": "秦岚李沁王楚然美成啥了",
+        "onboard_time": 1771246123,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 267993,
+        "num": 267993,
+        "word": "机器人假摔",
+        "onboard_time": 1771257992,
+        "rank": 32,
+        "category": "综艺,互联网"
+      },
+      {
+        "raw_hot": 261918,
+        "num": 261918,
+        "word": "魔术 比小品好笑",
+        "onboard_time": 1771252300,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37590,
+        "num": 232940,
+        "word": "年夜饭",
+        "onboard_time": 1771215082,
+        "rank": 34,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 230687,
+        "num": 230687,
+        "word": "春晚导演 米莱狄",
+        "onboard_time": 1771251703,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220394,
+        "num": 220394,
+        "word": "易烊千玺压得住场",
+        "onboard_time": 1771245576,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209941,
+        "num": 209941,
+        "word": "春晚小品这个帅哥是谁",
+        "onboard_time": 1771251641,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201845,
+        "num": 201845,
+        "word": "张桂源和陈浚铭一起过年",
+        "onboard_time": 1771260569,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199452,
+        "num": 199452,
+        "word": "李昀锐内娱舒肤佳",
+        "onboard_time": 1771249056,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15040,
+        "num": 193528,
+        "word": "蚂蚁阿福跟春晚的联动绝了",
+        "onboard_time": 1771259909,
+        "rank": 40,
+        "category": "综艺,互联网"
+      },
+      {
+        "raw_hot": 189408,
+        "num": 189408,
+        "word": "李健开净化了",
+        "onboard_time": 1771248821,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183573,
+        "num": 183573,
+        "word": "串门指南 这八个人没亲过嘴",
+        "onboard_time": 1771259190,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181208,
+        "num": 181208,
+        "word": "白鹿 陈哲远951",
+        "onboard_time": 1771250978,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166475,
+        "num": 166475,
+        "word": "王橹杰晒的年夜饭",
+        "onboard_time": 1771263262,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153106,
+        "num": 153106,
+        "word": "田曦薇好萌",
+        "onboard_time": 1771240766,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133426,
+        "num": 133426,
+        "word": "魏晨站山顶",
+        "onboard_time": 1771254938,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132051,
+        "num": 132051,
+        "word": "撒贝宁领嗑沈马",
+        "onboard_time": 1771256794,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31365,
+        "num": 117569,
+        "word": "短道速滑",
+        "onboard_time": 1771236445,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28181,
+        "num": 116887,
+        "word": "张柏浩说请相信中国短道速滑队",
+        "onboard_time": 1771261107,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的春节祝福#"
+    }
+  }
+}
