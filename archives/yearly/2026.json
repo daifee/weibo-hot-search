@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1771224090546,
+  "endTime": 1771226108211,
   "band_list": [
     {
       "raw_hot": 22742360,
@@ -163,6 +163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 8411605,
+      "num": 8411605,
+      "word": "春晚节目单",
+      "onboard_time": 1771207399,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 8120856,
       "num": 8120856,
       "word": "肖战 害羞笑",
@@ -273,14 +281,6 @@
       "onboard_time": 1769411423,
       "rank": 1,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 5116656,
-      "num": 5116656,
-      "word": "春晚节目单",
-      "onboard_time": 1771207399,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 5037712,
@@ -1193,6 +1193,14 @@
       "onboard_time": 1769508680,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1694346,
+      "num": 157861,
+      "word": "梁洁红包",
+      "onboard_time": 1771224264,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1683061,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1770726022,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1151892,
-      "num": 1184302,
-      "word": "50万亿存款将到期用户寻找存款贵替",
-      "onboard_time": 1769476219,
-      "rank": 29,
-      "category": "财经,民生新闻"
     }
   ],
   "hotgov_list": [

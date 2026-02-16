@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1771224090546,
+  "endTime": 1771226108211,
   "band_list": [
     {
       "raw_hot": 14435032,
@@ -75,6 +75,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 8411605,
+      "num": 8411605,
+      "word": "春晚节目单",
+      "onboard_time": 1771207399,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 8120856,
       "num": 8120856,
       "word": "肖战 害羞笑",
@@ -113,14 +121,6 @@
       "onboard_time": 1770549860,
       "rank": 10,
       "category": "体育"
-    },
-    {
-      "raw_hot": 5116656,
-      "num": 5116656,
-      "word": "春晚节目单",
-      "onboard_time": 1771207399,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 5037712,
@@ -473,6 +473,14 @@
       "onboard_time": 1770278727,
       "rank": 6,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1694346,
+      "num": 157861,
+      "word": "梁洁红包",
+      "onboard_time": 1771224264,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1652728,
@@ -1660,7 +1668,7 @@
     },
     {
       "raw_hot": 856232,
-      "num": 2749792,
+      "num": 2858475,
       "word": "千问红包",
       "onboard_time": 1771072762,
       "rank": 5,
@@ -3267,6 +3275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 602463,
+      "num": 170015,
+      "word": "敖瑞鹏发红包还有前菜",
+      "onboard_time": 1771223244,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 602062,
       "num": 602062,
       "word": "孙龙",
@@ -3633,14 +3649,6 @@
       "onboard_time": 1771147159,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 565923,
-      "num": 170015,
-      "word": "敖瑞鹏发红包还有前菜",
-      "onboard_time": 1771223244,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 565873,
@@ -6483,6 +6491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 385962,
+      "num": 135976,
+      "word": "黄景瑜红包",
+      "onboard_time": 1771224324,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 385920,
       "num": 187563,
       "word": "李一桐张艺凡快亲上了",
@@ -6761,6 +6777,14 @@
       "onboard_time": 1771111338,
       "rank": 4,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 374932,
+      "num": 135760,
+      "word": "沈腾马丽微电影",
+      "onboard_time": 1771224623,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 374853,
@@ -7481,6 +7505,14 @@
       "onboard_time": 1771028359,
       "rank": 5,
       "category": "情感"
+    },
+    {
+      "raw_hot": 351265,
+      "num": 135411,
+      "word": "余承恩红包",
+      "onboard_time": 1771224503,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 350966,
@@ -8209,6 +8241,14 @@
       "onboard_time": 1771080803,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 328011,
+      "num": 206353,
+      "word": "年夜饭",
+      "onboard_time": 1771215082,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 327844,
@@ -9473,14 +9513,6 @@
       "onboard_time": 1771024337,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 294410,
-      "num": 206353,
-      "word": "年夜饭",
-      "onboard_time": 1771215082,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 294252,
@@ -10809,6 +10841,14 @@
       "onboard_time": 1770300088,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 261804,
+      "num": 136056,
+      "word": "否认南京大屠杀的日本酒店老板死了",
+      "onboard_time": 1771224264,
+      "rank": 25,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 261274,
@@ -13211,6 +13251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 216855,
+      "num": 151320,
+      "word": "范丞丞红包",
+      "onboard_time": 1771221327,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 216773,
       "num": 164756,
       "word": "河南春晚 千问到底给了多少",
@@ -14169,14 +14217,6 @@
       "onboard_time": 1770693559,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 199250,
-      "num": 151320,
-      "word": "范丞丞红包",
-      "onboard_time": 1771221327,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 199243,
@@ -15283,6 +15323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 182024,
+      "num": 182024,
+      "word": "深圳除夕当天租男友3000元一天",
+      "onboard_time": 1771221388,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 181952,
       "num": 181952,
       "word": "A股行情",
@@ -16353,6 +16401,14 @@
       "onboard_time": 1770514520,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 166750,
+      "num": 134035,
+      "word": "魏晨刘宇宁许我再少年",
+      "onboard_time": 1771224384,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 166636,
@@ -17601,14 +17657,6 @@
       "onboard_time": 1770616279,
       "rank": 23,
       "category": "电影"
-    },
-    {
-      "raw_hot": 151762,
-      "num": 151762,
-      "word": "深圳除夕当天租男友3000元一天",
-      "onboard_time": 1771221388,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 151684,
@@ -19883,6 +19931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 133698,
+      "num": 133698,
+      "word": "易烊千玺9登春晚",
+      "onboard_time": 1771223783,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 133603,
       "num": 133603,
       "word": "金价震荡频现千万元级套现",
@@ -22107,6 +22163,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 118971,
+      "num": 118971,
+      "word": "迪丽热巴春晚跳舞",
+      "onboard_time": 1771226062,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 118956,
       "num": 118956,
       "word": "理解了人为什么要有好朋友",
@@ -22241,6 +22305,14 @@
       "onboard_time": 1770785120,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 118347,
+      "num": 118347,
+      "word": "秦海璐衣品",
+      "onboard_time": 1771225642,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 118327,
@@ -24185,14 +24257,6 @@
       "onboard_time": 1771158862,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 109164,
-      "num": 109164,
-      "word": "易烊千玺9登春晚",
-      "onboard_time": 1771223783,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 109158,
@@ -31819,6 +31883,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 82966,
+      "num": 134319,
+      "word": "装修不能相信任何一个师傅",
+      "onboard_time": 1771225944,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 82929,
       "num": 82929,
       "word": "iPhone18再爆料",
@@ -33523,6 +33595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 77544,
+      "num": 118656,
+      "word": "00后的拜年串门新方式",
+      "onboard_time": 1771224503,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 77515,
       "num": 94070,
       "word": "新一代iPad爆料",
@@ -34563,6 +34643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 74177,
+      "num": 108770,
+      "word": "马桶本命年",
+      "onboard_time": 1771226002,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 74143,
       "num": 74143,
       "word": "一觉醒来全跌了",
@@ -34785,6 +34873,14 @@
       "onboard_time": 1770183561,
       "rank": 46,
       "category": "财经"
+    },
+    {
+      "raw_hot": 72882,
+      "num": 151046,
+      "word": "喵娲娲发30万红包",
+      "onboard_time": 1771225223,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 72869,
@@ -39675,6 +39771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 44156,
+      "num": 135121,
+      "word": "除夕到底除的啥",
+      "onboard_time": 1771224681,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44130,
       "num": 44130,
       "word": "重返狼群导演晒出格林留的纪念物品",
@@ -41955,6 +42059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 30465,
+      "num": 148682,
+      "word": "以旅行见新年",
+      "onboard_time": 1771225464,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30452,
       "num": 46812,
       "word": "韩国又一非法拍摄网站曝光",
@@ -42056,6 +42168,14 @@
       "word": "杰我睿客户称兑付方案或打2折",
       "onboard_time": 1769879418,
       "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29811,
+      "num": 140867,
+      "word": "过年背着妈妈点外卖",
+      "onboard_time": 1771225522,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -43195,6 +43315,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 24560,
+      "num": 136270,
+      "word": "今年春晚机器人有好多节目",
+      "onboard_time": 1771225883,
+      "rank": 24,
+      "category": "综艺,互联网"
+    },
+    {
       "raw_hot": 24548,
       "num": 29536,
       "word": "开始推理吧",
@@ -43497,6 +43625,14 @@
       "onboard_time": 1770714800,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 23178,
+      "num": 133784,
+      "word": "马年没有年三十都是因为月亮",
+      "onboard_time": 1771224681,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23175,
