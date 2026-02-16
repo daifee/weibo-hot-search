@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1771257018706,
+  "endTime": 1771257884055,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -283,6 +283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 7158270,
+      "num": 7158270,
+      "word": "过年好",
+      "onboard_time": 1771256913,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 7011372,
       "num": 5033292,
       "word": "秦岚李沁王楚然美成啥了",
@@ -428,7 +436,7 @@
     },
     {
       "raw_hot": 4061180,
-      "num": 990055,
+      "num": 1435769,
       "word": "张凌赫发了好多红包",
       "onboard_time": 1771241726,
       "rank": 30,
@@ -595,6 +603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 3092079,
+      "num": 3092079,
+      "word": "刘浩存实在美丽",
+      "onboard_time": 1771257273,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 3070536,
       "num": 2189900,
       "word": "红包",
@@ -713,6 +729,14 @@
       "onboard_time": 1768188080,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2692344,
+      "num": 1796749,
+      "word": "刘浩存 北舞严选",
+      "onboard_time": 1771256974,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 2679279,
@@ -1315,14 +1339,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1796749,
-      "num": 1796749,
-      "word": "刘浩存 北舞严选",
-      "onboard_time": 1771256974,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1793500,
       "num": 764458,
       "word": "王者荣耀马年全明星表演赛",
@@ -1441,6 +1457,14 @@
       "onboard_time": 1767514642,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1664887,
+      "num": 1664887,
+      "word": "范丞丞王安宇同台",
+      "onboard_time": 1771257750,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 1664569,
@@ -2377,30 +2401,6 @@
       "onboard_time": 1768822882,
       "rank": 0,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 1219910,
-      "num": 616344,
-      "word": "吴佩慈婆婆在美被捕",
-      "onboard_time": 1768524919,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1219069,
-      "num": 804887,
-      "word": "黄金遭遇40年来最大下跌",
-      "onboard_time": 1769830400,
-      "rank": 3,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 1219011,
-      "num": 193687,
-      "word": "车银优或被判刑",
-      "onboard_time": 1769230579,
-      "rank": 20,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [

@@ -1,6 +1,6 @@
 {
   "startTime": 1771087248939,
-  "endTime": 1771257018706,
+  "endTime": 1771257884055,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -83,6 +83,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 7158270,
+      "num": 7158270,
+      "word": "过年好",
+      "onboard_time": 1771256913,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 7011372,
       "num": 5033292,
       "word": "秦岚李沁王楚然美成啥了",
@@ -140,7 +148,7 @@
     },
     {
       "raw_hot": 4061180,
-      "num": 990055,
+      "num": 1435769,
       "word": "张凌赫发了好多红包",
       "onboard_time": 1771241726,
       "rank": 30,
@@ -187,6 +195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 3092079,
+      "num": 3092079,
+      "word": "刘浩存实在美丽",
+      "onboard_time": 1771257273,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 3070536,
       "num": 2189900,
       "word": "红包",
@@ -200,6 +216,14 @@
       "word": "十二花神 好看",
       "onboard_time": 1771246483,
       "rank": 8,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 2692344,
+      "num": 1796749,
+      "word": "刘浩存 北舞严选",
+      "onboard_time": 1771256974,
+      "rank": 11,
       "category": "综艺"
     },
     {
@@ -291,14 +315,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1796749,
-      "num": 1796749,
-      "word": "刘浩存 北舞严选",
-      "onboard_time": 1771256974,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1744541,
       "num": 1744541,
       "word": "邓超 魔丸变灵珠",
@@ -313,6 +329,14 @@
       "onboard_time": 1771224264,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1664887,
+      "num": 1664887,
+      "word": "范丞丞王安宇同台",
+      "onboard_time": 1771257750,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 1607463,
@@ -496,6 +520,22 @@
       "word": "春晚后台直播",
       "onboard_time": 1771241127,
       "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1025992,
+      "num": 1025992,
+      "word": "张万森 下机器人了",
+      "onboard_time": 1771256256,
+      "rank": 37,
+      "category": "综艺,互联网"
+    },
+    {
+      "raw_hot": 995678,
+      "num": 995678,
+      "word": "撒贝宁领嗑沈马",
+      "onboard_time": 1771256794,
+      "rank": 40,
       "category": "综艺"
     },
     {
@@ -683,14 +723,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 765126,
-      "num": 643669,
-      "word": "张万森 下机器人了",
-      "onboard_time": 1771256256,
-      "rank": 37,
-      "category": "综艺,互联网"
-    },
-    {
       "raw_hot": 762546,
       "num": 704257,
       "word": "陈哲远 散财童子",
@@ -700,7 +732,7 @@
     },
     {
       "raw_hot": 762036,
-      "num": 644490,
+      "num": 682867,
       "word": "邓超妈妈",
       "onboard_time": 1771256794,
       "rank": 36,
@@ -772,7 +804,7 @@
     },
     {
       "raw_hot": 708476,
-      "num": 651086,
+      "num": 916485,
       "word": "任素汐毛不易神仙组合",
       "onboard_time": 1771255593,
       "rank": 34,
@@ -875,14 +907,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 635638,
-      "num": 635638,
-      "word": "撒贝宁领嗑沈马",
-      "onboard_time": 1771256794,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 632513,
       "num": 632513,
       "word": "王一博春晚笑了",
@@ -905,6 +929,14 @@
       "onboard_time": 1771127960,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 623193,
+      "num": 623193,
+      "word": "王菲水滴耳环",
+      "onboard_time": 1771257333,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 619138,
@@ -1091,6 +1123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 547200,
+      "num": 547200,
+      "word": "合肥分会场",
+      "onboard_time": 1771256672,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 537852,
       "num": 290867,
       "word": "王楚然丞磊同时发红包",
@@ -1115,20 +1155,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 523258,
-      "num": 523258,
-      "word": "合肥分会场",
-      "onboard_time": 1771256672,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 522342,
       "num": 367645,
       "word": "丁程鑫年会发了66666",
       "onboard_time": 1771240165,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 517326,
+      "num": 517326,
+      "word": "春晚收视率",
+      "onboard_time": 1771257213,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 514822,
@@ -1145,14 +1185,6 @@
       "onboard_time": 1771250076,
       "rank": 2,
       "category": "民生新闻,综艺"
-    },
-    {
-      "raw_hot": 503064,
-      "num": 1944957,
-      "word": "过年好",
-      "onboard_time": 1771256913,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 502683,
@@ -2947,6 +2979,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 159590,
+      "num": 1466341,
+      "word": "花海晚上直播发红包",
+      "onboard_time": 1771256612,
+      "rank": 14,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 159438,
       "num": 159438,
       "word": "宋威龙田曦薇恐怖箱挑战",
@@ -3147,12 +3187,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 137515,
+      "num": 911318,
+      "word": "合肥分会场排面最尊",
+      "onboard_time": 1771257691,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 136848,
       "num": 117003,
       "word": "苏新皓红包",
       "onboard_time": 1771217962,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 136719,
+      "num": 1639022,
+      "word": "千问上抢的红包比广东人包的多",
+      "onboard_time": 1771254096,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 136695,
@@ -3257,14 +3313,6 @@
       "onboard_time": 1771230683,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 127285,
-      "num": 1639022,
-      "word": "千问上抢的红包比广东人包的多",
-      "onboard_time": 1771254096,
-      "rank": 14,
-      "category": "互联网"
     },
     {
       "raw_hot": 126878,
@@ -3851,6 +3899,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 96462,
+      "num": 704877,
+      "word": "谷爱凌大年初一凌晨争金",
+      "onboard_time": 1771252598,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 96459,
       "num": 148820,
       "word": "林孝埈孙龙刘少昂除夕出战",
@@ -3921,14 +3977,6 @@
       "onboard_time": 1771220184,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 91743,
-      "num": 637286,
-      "word": "谷爱凌大年初一凌晨争金",
-      "onboard_time": 1771252598,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 91723,
@@ -4492,7 +4540,7 @@
     },
     {
       "raw_hot": 73227,
-      "num": 391023,
+      "num": 419011,
       "word": "中国冰壶男队除夕夜收获首胜",
       "onboard_time": 1771254578,
       "rank": 49,
