@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1771261021186,
+  "endTime": 1771261884212,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -2035,6 +2035,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1348871,
+      "num": 1348871,
+      "word": "春晚收视率",
+      "onboard_time": 1771257213,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1346467,
       "num": 1188514,
       "word": "卢昱晓发红包时间",
@@ -2153,14 +2161,6 @@
       "onboard_time": 1767870680,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1304249,
-      "num": 1304249,
-      "word": "春晚收视率",
-      "onboard_time": 1771257213,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 1298438,
