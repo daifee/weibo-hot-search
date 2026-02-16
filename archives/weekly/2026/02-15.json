@@ -1,6 +1,6 @@
 {
   "startTime": 1771087248939,
-  "endTime": 1771270726901,
+  "endTime": 1771271590749,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -4651,6 +4651,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 74994,
+      "num": 74994,
+      "word": "王玉雯扛住了春晚镜头",
+      "onboard_time": 1771269195,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 74862,
       "num": 54142,
       "word": "沪上阿姨鞠婧祎红包封面",
@@ -5011,14 +5019,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 67550,
-      "num": 67550,
-      "word": "王玉雯扛住了春晚镜头",
-      "onboard_time": 1771269195,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 67441,
       "num": 67441,
       "word": "半个娱乐圈都来宜宾过年了",
@@ -5323,6 +5323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 59645,
+      "num": 59645,
+      "word": "左肩有你",
+      "onboard_time": 1771269075,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 59390,
       "num": 59390,
       "word": "刘少昂进1500米半决赛",
@@ -5417,14 +5425,6 @@
       "onboard_time": 1771232727,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 56348,
-      "num": 56348,
-      "word": "左肩有你",
-      "onboard_time": 1771269075,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 56310,

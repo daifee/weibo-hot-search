@@ -1,6 +1,6 @@
 {
   "startTime": 1771257884055,
-  "endTime": 1771270726901,
+  "endTime": 1771271590749,
   "band_list": [
     {
       "raw_hot": 7753211,
@@ -539,6 +539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 74994,
+      "num": 74994,
+      "word": "王玉雯扛住了春晚镜头",
+      "onboard_time": 1771269195,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 73768,
       "num": 347379,
       "word": "哈尔滨分会场 全场最佳",
@@ -553,14 +561,6 @@
       "onboard_time": 1771254578,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 67550,
-      "num": 67550,
-      "word": "王玉雯扛住了春晚镜头",
-      "onboard_time": 1771269195,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 61240,
@@ -587,20 +587,20 @@
       "category": "综艺,数码"
     },
     {
+      "raw_hot": 59645,
+      "num": 59645,
+      "word": "左肩有你",
+      "onboard_time": 1771269075,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 57756,
       "num": 57756,
       "word": "难忘今宵",
       "onboard_time": 1771267156,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 56348,
-      "num": 56348,
-      "word": "左肩有你",
-      "onboard_time": 1771269075,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 55894,
@@ -633,6 +633,14 @@
       "onboard_time": 1771266617,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 32509,
+      "num": 32509,
+      "word": "镖人",
+      "onboard_time": 1771270935,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 30425,
