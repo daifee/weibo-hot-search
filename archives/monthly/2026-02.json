@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1771218436247,
+  "endTime": 1771219030267,
   "band_list": [
     {
       "raw_hot": 14435032,
@@ -17,6 +17,14 @@
       "onboard_time": 1770441981,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 10406029,
+      "num": 10406029,
+      "word": "鞠婧祎20万红包",
+      "onboard_time": 1771217121,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 10390810,
@@ -49,14 +57,6 @@
       "onboard_time": 1770276924,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 8860827,
-      "num": 8860827,
-      "word": "鞠婧祎20万红包",
-      "onboard_time": 1771217121,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 8698031,
@@ -380,7 +380,7 @@
     },
     {
       "raw_hot": 1911600,
-      "num": 143761,
+      "num": 214336,
       "word": "陈哲远 15万红包",
       "onboard_time": 1771212920,
       "rank": 10,
@@ -707,6 +707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1255483,
+      "num": 177800,
+      "word": "鞠婧祎工作室发图",
+      "onboard_time": 1771213220,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1254738,
       "num": 1254738,
       "word": "立春",
@@ -745,14 +753,6 @@
       "onboard_time": 1770869119,
       "rank": 0,
       "category": "民生新闻,互联网"
-    },
-    {
-      "raw_hot": 1217004,
-      "num": 142072,
-      "word": "鞠婧祎工作室发图",
-      "onboard_time": 1771213220,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 1215567,
@@ -2068,7 +2068,7 @@
     },
     {
       "raw_hot": 775689,
-      "num": 156476,
+      "num": 176793,
       "word": "等白鹿红包",
       "onboard_time": 1771201038,
       "rank": 12,
@@ -2377,6 +2377,14 @@
       "onboard_time": 1770724761,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 709892,
+      "num": 4036324,
+      "word": "口令红包",
+      "onboard_time": 1771213342,
+      "rank": 1,
+      "category": "互联网"
     },
     {
       "raw_hot": 708148,
@@ -2819,14 +2827,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 650105,
-      "num": 4036324,
-      "word": "口令红包",
-      "onboard_time": 1771213342,
-      "rank": 1,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 650071,
       "num": 247458,
       "word": "白鹿虞书欣同款剧宣姿势",
@@ -3000,6 +3000,14 @@
       "word": "梁源发文怼吴克群",
       "onboard_time": 1770521240,
       "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 625915,
+      "num": 168917,
+      "word": "Angelababy红包金额",
+      "onboard_time": 1771216702,
+      "rank": 20,
       "category": "艺人"
     },
     {
@@ -3289,14 +3297,6 @@
       "onboard_time": 1770972199,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 599289,
-      "num": 139389,
-      "word": "Angelababy红包金额",
-      "onboard_time": 1771216702,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 598816,
@@ -5004,7 +5004,7 @@
     },
     {
       "raw_hot": 458857,
-      "num": 125750,
+      "num": 155093,
       "word": "白鹿红包没门槛",
       "onboard_time": 1771210459,
       "rank": 19,
@@ -8444,7 +8444,7 @@
     },
     {
       "raw_hot": 319544,
-      "num": 112794,
+      "num": 117382,
       "word": "几杯辟谣去世",
       "onboard_time": 1771203259,
       "rank": 22,
@@ -9380,7 +9380,7 @@
     },
     {
       "raw_hot": 296688,
-      "num": 109507,
+      "num": 116946,
       "word": "楼晚",
       "onboard_time": 1771210941,
       "rank": 17,
@@ -9444,7 +9444,7 @@
     },
     {
       "raw_hot": 294410,
-      "num": 142693,
+      "num": 206353,
       "word": "年夜饭",
       "onboard_time": 1771215082,
       "rank": 12,
@@ -10243,6 +10243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 273855,
+      "num": 168423,
+      "word": "明星红包预约",
+      "onboard_time": 1771214001,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 273725,
       "num": 182266,
       "word": "虞书欣诉黑粉名誉侵权",
@@ -10825,6 +10833,14 @@
       "onboard_time": 1770290726,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 260046,
+      "num": 260046,
+      "word": "红包雨",
+      "onboard_time": 1771217903,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 259127,
@@ -12251,14 +12267,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 233134,
-      "num": 136319,
-      "word": "明星红包预约",
-      "onboard_time": 1771214001,
-      "rank": 23,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 232673,
       "num": 232673,
       "word": "一大批年轻人开始反向过年",
@@ -12833,6 +12841,14 @@
       "onboard_time": 1769924121,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 223248,
+      "num": 223248,
+      "word": "元宝红包雨",
+      "onboard_time": 1771215262,
+      "rank": 8,
+      "category": "互联网"
     },
     {
       "raw_hot": 223213,
@@ -13464,6 +13480,14 @@
       "word": "张维伊被内推再见爱人",
       "onboard_time": 1770521780,
       "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 211630,
+      "num": 146466,
+      "word": "时代少年团马年楼晚节目单",
+      "onboard_time": 1771215561,
+      "rank": 29,
       "category": "综艺"
     },
     {
@@ -14115,14 +14139,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 199272,
-      "num": 199272,
-      "word": "元宝红包雨",
-      "onboard_time": 1771215262,
-      "rank": 8,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 199243,
       "num": 199243,
       "word": "蒯曼铜牌",
@@ -14257,14 +14273,6 @@
       "onboard_time": 1770784941,
       "rank": 18,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 197220,
-      "num": 125730,
-      "word": "时代少年团马年楼晚节目单",
-      "onboard_time": 1771215561,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 197160,
@@ -15835,6 +15843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 173721,
+      "num": 173721,
+      "word": "金饰价格涨到1544元",
+      "onboard_time": 1771217780,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 173538,
       "num": 173538,
       "word": "云合",
@@ -16659,6 +16675,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 161576,
+      "num": 161576,
+      "word": "省服 睡衣",
+      "onboard_time": 1771214122,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 161459,
       "num": 169845,
       "word": "黑飞无人机最近时距客机仅800米",
@@ -17131,6 +17155,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 155943,
+      "num": 197458,
+      "word": "被王毅痛斥后日本急了",
+      "onboard_time": 1771217844,
+      "rank": 15,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 155860,
       "num": 155860,
       "word": "王橹杰月光下的白玫瑰",
@@ -17177,14 +17209,6 @@
       "onboard_time": 1770377841,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 155326,
-      "num": 133180,
-      "word": "金饰价格涨到1544元",
-      "onboard_time": 1771217780,
-      "rank": 24,
-      "category": "财经"
     },
     {
       "raw_hot": 155320,
@@ -18243,6 +18267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 145082,
+      "num": 122987,
+      "word": "敖瑞鹏今晚还发红包时间不定",
+      "onboard_time": 1771217362,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 144921,
       "num": 194316,
       "word": "久哲卸任RNGM主教练",
@@ -18931,14 +18963,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 139376,
-      "num": 139376,
-      "word": "省服 睡衣",
-      "onboard_time": 1771214122,
-      "rank": 21,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 139269,
       "num": 139269,
       "word": "谷爱凌1个项目收入1墩1蒂娜",
@@ -19307,6 +19331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 136848,
+      "num": 117003,
+      "word": "苏新皓红包",
+      "onboard_time": 1771217962,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 136806,
       "num": 136806,
       "word": "黄金盘中巨震",
@@ -19433,14 +19465,6 @@
       "onboard_time": 1770647061,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 135893,
-      "num": 122987,
-      "word": "敖瑞鹏今晚还发红包时间不定",
-      "onboard_time": 1771217362,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 135862,
@@ -20929,14 +20953,6 @@
       "onboard_time": 1770889461,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 125005,
-      "num": 125005,
-      "word": "红包雨",
-      "onboard_time": 1771217903,
-      "rank": 30,
-      "category": "互联网"
     },
     {
       "raw_hot": 124979,
@@ -24667,6 +24683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 106980,
+      "num": 106980,
+      "word": "抢红包",
+      "onboard_time": 1771217541,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 106966,
       "num": 106966,
       "word": "杨紫回复梅婷",
@@ -25897,14 +25921,6 @@
       "onboard_time": 1770801800,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 102037,
-      "num": 102037,
-      "word": "苏新皓红包",
-      "onboard_time": 1771217962,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 102008,
@@ -28115,6 +28131,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 94327,
+      "num": 94327,
+      "word": "杨幂贺岁图",
+      "onboard_time": 1771211900,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 94324,
       "num": 94324,
       "word": "35岁以上租房族越来越多",
@@ -28273,14 +28297,6 @@
       "onboard_time": 1771139599,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 93814,
-      "num": 93814,
-      "word": "杨幂贺岁图",
-      "onboard_time": 1771211900,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 93806,
@@ -28729,14 +28745,6 @@
       "onboard_time": 1770088459,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 92257,
-      "num": 141504,
-      "word": "被王毅痛斥后日本急了",
-      "onboard_time": 1771217844,
-      "rank": 15,
-      "category": "国内时政"
     },
     {
       "raw_hot": 92147,
@@ -29419,6 +29427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 89955,
+      "num": 185069,
+      "word": "小伙带女友回家全家十几人列队欢迎",
+      "onboard_time": 1771217844,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89900,
       "num": 89900,
       "word": "美国将向联合国支付部分拖欠会费",
@@ -29785,14 +29801,6 @@
       "onboard_time": 1770209722,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 88816,
-      "num": 88816,
-      "word": "抢红包",
-      "onboard_time": 1771217541,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 88809,
@@ -30580,7 +30588,7 @@
     },
     {
       "raw_hot": 86789,
-      "num": 141213,
+      "num": 191993,
       "word": "千问超级请客卡集卡仅剩一天",
       "onboard_time": 1771216582,
       "rank": 16,
@@ -32571,6 +32579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 80230,
+      "num": 94233,
+      "word": "刘涛该叫妈妈还是叫姐姐",
+      "onboard_time": 1771214541,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 80187,
       "num": 149582,
       "word": "车厘子或痛失年货水果C位",
@@ -33148,7 +33164,7 @@
     },
     {
       "raw_hot": 78797,
-      "num": 96416,
+      "num": 117126,
       "word": "过年必备饮品出现了",
       "onboard_time": 1771212020,
       "rank": 33,
@@ -33249,14 +33265,6 @@
       "onboard_time": 1770201742,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 78213,
-      "num": 78213,
-      "word": "刘涛该叫妈妈还是叫姐姐",
-      "onboard_time": 1771214541,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 78185,
@@ -33756,7 +33764,7 @@
     },
     {
       "raw_hot": 76558,
-      "num": 140358,
+      "num": 201667,
       "word": "蚂蚁阿福16.8红包春节还能领",
       "onboard_time": 1771218024,
       "rank": 18,
@@ -34587,14 +34595,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 73392,
-      "num": 140942,
-      "word": "小伙带女友回家全家十几人列队欢迎",
-      "onboard_time": 1771217844,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 73355,
       "num": 196363,
       "word": "文淇的性感是自由生长的",
@@ -35316,7 +35316,7 @@
     },
     {
       "raw_hot": 69355,
-      "num": 69355,
+      "num": 94177,
       "word": "微博抓马",
       "onboard_time": 1770335001,
       "rank": 36,
@@ -35444,7 +35444,7 @@
     },
     {
       "raw_hot": 68745,
-      "num": 103554,
+      "num": 125982,
       "word": "谷爱凌刘梦婷携手出战决赛",
       "onboard_time": 1771214122,
       "rank": 39,
@@ -36588,7 +36588,7 @@
     },
     {
       "raw_hot": 63152,
-      "num": 90319,
+      "num": 93899,
       "word": "原来春联的C位是由横批决定的",
       "onboard_time": 1771212200,
       "rank": 29,
@@ -37307,6 +37307,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 59275,
+      "num": 94019,
+      "word": "贾樟柯用seedance做的贺岁短片",
+      "onboard_time": 1771218562,
+      "rank": 48,
+      "category": "艺人,互联网"
+    },
+    {
       "raw_hot": 59239,
       "num": 88135,
       "word": "苏翊鸣健康接力棒接接接",
@@ -37593,6 +37601,14 @@
       "onboard_time": 1770203300,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 56706,
+      "num": 97724,
+      "word": "库里将参加2027全明星三分大赛",
+      "onboard_time": 1771218443,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 56651,
@@ -38788,7 +38804,7 @@
     },
     {
       "raw_hot": 48291,
-      "num": 123339,
+      "num": 187936,
       "word": "和平精英权威皮肤这一块",
       "onboard_time": 1771218264,
       "rank": 31,
@@ -45979,20 +45995,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 5554,
+      "num": 3005217,
+      "word": "话百家姓过中国年",
+      "onboard_time": 1771217780,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 4075,
       "num": 105704,
       "word": "海尔周云杰携高管集体拜年",
       "onboard_time": 1770689480,
       "rank": 39,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 2419,
-      "num": 3005217,
-      "word": "话百家姓过中国年",
-      "onboard_time": 1771217780,
-      "rank": 2,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

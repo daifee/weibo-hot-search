@@ -1,6 +1,6 @@
 {
   "startTime": 1771173652789,
-  "endTime": 1771218436247,
+  "endTime": 1771219030267,
   "band_list": [
     {
       "raw_hot": 14435032,
@@ -11,8 +11,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 8860827,
-      "num": 8860827,
+      "raw_hot": 10406029,
+      "num": 10406029,
       "word": "鞠婧祎20万红包",
       "onboard_time": 1771217121,
       "rank": 3,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1911600,
-      "num": 143761,
+      "num": 214336,
       "word": "陈哲远 15万红包",
       "onboard_time": 1771212920,
       "rank": 10,
@@ -59,8 +59,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1217004,
-      "num": 142072,
+      "raw_hot": 1255483,
+      "num": 177800,
       "word": "鞠婧祎工作室发图",
       "onboard_time": 1771213220,
       "rank": 14,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 775689,
-      "num": 156476,
+      "num": 176793,
       "word": "等白鹿红包",
       "onboard_time": 1771201038,
       "rank": 12,
@@ -88,6 +88,14 @@
       "word": "2026红包分组",
       "onboard_time": 1771138999,
       "rank": 0,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 709892,
+      "num": 4036324,
+      "word": "口令红包",
+      "onboard_time": 1771213342,
+      "rank": 1,
       "category": "互联网"
     },
     {
@@ -107,16 +115,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 650105,
-      "num": 4036324,
-      "word": "口令红包",
-      "onboard_time": 1771213342,
-      "rank": 1,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 599289,
-      "num": 139389,
+      "raw_hot": 625915,
+      "num": 168917,
       "word": "Angelababy红包金额",
       "onboard_time": 1771216702,
       "rank": 20,
@@ -156,7 +156,7 @@
     },
     {
       "raw_hot": 458857,
-      "num": 125750,
+      "num": 155093,
       "word": "白鹿红包没门槛",
       "onboard_time": 1771210459,
       "rank": 19,
@@ -212,7 +212,7 @@
     },
     {
       "raw_hot": 319544,
-      "num": 112794,
+      "num": 117382,
       "word": "几杯辟谣去世",
       "onboard_time": 1771203259,
       "rank": 22,
@@ -228,7 +228,7 @@
     },
     {
       "raw_hot": 296688,
-      "num": 109507,
+      "num": 116946,
       "word": "楼晚",
       "onboard_time": 1771210941,
       "rank": 17,
@@ -236,7 +236,7 @@
     },
     {
       "raw_hot": 294410,
-      "num": 142693,
+      "num": 206353,
       "word": "年夜饭",
       "onboard_time": 1771215082,
       "rank": 12,
@@ -249,6 +249,14 @@
       "onboard_time": 1771166663,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 273855,
+      "num": 168423,
+      "word": "明星红包预约",
+      "onboard_time": 1771214001,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 273240,
@@ -267,6 +275,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 260046,
+      "num": 260046,
+      "word": "红包雨",
+      "onboard_time": 1771217903,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 234491,
       "num": 121604,
       "word": "张子墨自拍",
@@ -275,12 +291,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 233134,
-      "num": 136319,
-      "word": "明星红包预约",
-      "onboard_time": 1771214001,
-      "rank": 23,
-      "category": "作品衍生"
+      "raw_hot": 223248,
+      "num": 223248,
+      "word": "元宝红包雨",
+      "onboard_time": 1771215262,
+      "rank": 8,
+      "category": "互联网"
     },
     {
       "raw_hot": 216688,
@@ -307,6 +323,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 211630,
+      "num": 146466,
+      "word": "时代少年团马年楼晚节目单",
+      "onboard_time": 1771215561,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 202767,
       "num": 90434,
       "word": "杜海涛晒与沈梦辰情人节约会照",
@@ -321,22 +345,6 @@
       "onboard_time": 1771202900,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 199272,
-      "num": 199272,
-      "word": "元宝红包雨",
-      "onboard_time": 1771215262,
-      "rank": 8,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 197220,
-      "num": 125730,
-      "word": "时代少年团马年楼晚节目单",
-      "onboard_time": 1771215561,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 190903,
@@ -403,6 +411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 173721,
+      "num": 173721,
+      "word": "金饰价格涨到1544元",
+      "onboard_time": 1771217780,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 171077,
       "num": 119825,
       "word": "黄金中事件 录音",
@@ -419,20 +435,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 161576,
+      "num": 161576,
+      "word": "省服 睡衣",
+      "onboard_time": 1771214122,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 155943,
+      "num": 197458,
+      "word": "被王毅痛斥后日本急了",
+      "onboard_time": 1771217844,
+      "rank": 15,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 155459,
       "num": 75587,
       "word": "5种炎症时间长了可能会变癌症",
       "onboard_time": 1771198277,
       "rank": 22,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 155326,
-      "num": 133180,
-      "word": "金饰价格涨到1544元",
-      "onboard_time": 1771217780,
-      "rank": 24,
-      "category": "财经"
     },
     {
       "raw_hot": 147227,
@@ -443,12 +467,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 139376,
-      "num": 139376,
-      "word": "省服 睡衣",
-      "onboard_time": 1771214122,
-      "rank": 21,
-      "category": "幽默"
+      "raw_hot": 145082,
+      "num": 122987,
+      "word": "敖瑞鹏今晚还发红包时间不定",
+      "onboard_time": 1771217362,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 136848,
+      "num": 117003,
+      "word": "苏新皓红包",
+      "onboard_time": 1771217962,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 136361,
@@ -457,14 +489,6 @@
       "onboard_time": 1771161383,
       "rank": 15,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 135893,
-      "num": 122987,
-      "word": "敖瑞鹏今晚还发红包时间不定",
-      "onboard_time": 1771217362,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 133784,
@@ -505,14 +529,6 @@
       "onboard_time": 1771203919,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 125005,
-      "num": 125005,
-      "word": "红包雨",
-      "onboard_time": 1771217903,
-      "rank": 30,
-      "category": "互联网"
     },
     {
       "raw_hot": 122237,
@@ -595,6 +611,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 106980,
+      "num": 106980,
+      "word": "抢红包",
+      "onboard_time": 1771217541,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 102677,
       "num": 102677,
       "word": "隋文静韩聪短节目72.66分",
@@ -611,14 +635,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 102037,
-      "num": 102037,
-      "word": "苏新皓红包",
-      "onboard_time": 1771217962,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 99164,
       "num": 99164,
       "word": "姐姐脱落的乳牙呛入1岁宝宝气道",
@@ -627,8 +643,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 93814,
-      "num": 93814,
+      "raw_hot": 94327,
+      "num": 94327,
       "word": "杨幂贺岁图",
       "onboard_time": 1771211900,
       "rank": 34,
@@ -643,20 +659,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 92257,
-      "num": 141504,
-      "word": "被王毅痛斥后日本急了",
+      "raw_hot": 89955,
+      "num": 185069,
+      "word": "小伙带女友回家全家十几人列队欢迎",
       "onboard_time": 1771217844,
-      "rank": 15,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 88816,
-      "num": 88816,
-      "word": "抢红包",
-      "onboard_time": 1771217541,
-      "rank": 45,
-      "category": "综艺"
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 88200,
@@ -676,7 +684,7 @@
     },
     {
       "raw_hot": 86789,
-      "num": 141213,
+      "num": 191993,
       "word": "千问超级请客卡集卡仅剩一天",
       "onboard_time": 1771216582,
       "rank": 16,
@@ -707,24 +715,24 @@
       "category": "体育"
     },
     {
-      "raw_hot": 78797,
-      "num": 96416,
-      "word": "过年必备饮品出现了",
-      "onboard_time": 1771212020,
-      "rank": 33,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 78213,
-      "num": 78213,
+      "raw_hot": 80230,
+      "num": 94233,
       "word": "刘涛该叫妈妈还是叫姐姐",
       "onboard_time": 1771214541,
       "rank": 46,
       "category": "综艺"
     },
     {
+      "raw_hot": 78797,
+      "num": 117126,
+      "word": "过年必备饮品出现了",
+      "onboard_time": 1771212020,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
       "raw_hot": 76558,
-      "num": 140358,
+      "num": 201667,
       "word": "蚂蚁阿福16.8红包春节还能领",
       "onboard_time": 1771218024,
       "rank": 18,
@@ -745,14 +753,6 @@
       "onboard_time": 1771208900,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 73392,
-      "num": 140942,
-      "word": "小伙带女友回家全家十几人列队欢迎",
-      "onboard_time": 1771217844,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 72869,
@@ -796,7 +796,7 @@
     },
     {
       "raw_hot": 68745,
-      "num": 103554,
+      "num": 125982,
       "word": "谷爱凌刘梦婷携手出战决赛",
       "onboard_time": 1771214122,
       "rank": 39,
@@ -924,7 +924,7 @@
     },
     {
       "raw_hot": 63152,
-      "num": 90319,
+      "num": 93899,
       "word": "原来春联的C位是由横批决定的",
       "onboard_time": 1771212200,
       "rank": 29,
@@ -937,6 +937,14 @@
       "onboard_time": 1771203919,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 62935,
+      "num": 116279,
+      "word": "恋与深空",
+      "onboard_time": 1771212380,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 62509,
@@ -1003,6 +1011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 59275,
+      "num": 94019,
+      "word": "贾樟柯用seedance做的贺岁短片",
+      "onboard_time": 1771218562,
+      "rank": 48,
+      "category": "艺人,互联网"
+    },
+    {
       "raw_hot": 58710,
       "num": 58710,
       "word": "王一博连续2年登央视春晚",
@@ -1019,12 +1035,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 56706,
+      "num": 97724,
+      "word": "库里将参加2027全明星三分大赛",
+      "onboard_time": 1771218443,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 56277,
       "num": 56277,
       "word": "古人抽象的过年方式",
       "onboard_time": 1771210941,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 56050,
+      "num": 94177,
+      "word": "微博抓马",
+      "onboard_time": 1771218683,
+      "rank": 47,
+      "category": "互联网"
     },
     {
       "raw_hot": 55409,
@@ -1100,7 +1132,7 @@
     },
     {
       "raw_hot": 48291,
-      "num": 123339,
+      "num": 187936,
       "word": "和平精英权威皮肤这一块",
       "onboard_time": 1771218264,
       "rank": 31,
@@ -1459,7 +1491,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 2419,
+      "raw_hot": 5554,
       "num": 3005217,
       "word": "话百家姓过中国年",
       "onboard_time": 1771217780,
