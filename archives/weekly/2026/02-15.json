@@ -1,6 +1,6 @@
 {
   "startTime": 1771087248939,
-  "endTime": 1771271590749,
+  "endTime": 1771274472915,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -3243,6 +3243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 141952,
+      "num": 141952,
+      "word": "谷爱凌第一跳90.00分",
+      "onboard_time": 1771272675,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141358,
       "num": 141358,
       "word": "辽宁春晚收视",
@@ -5203,6 +5211,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 62707,
+      "num": 62707,
+      "word": "短剧上春晚了",
+      "onboard_time": 1771272494,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 62609,
       "num": 67922,
       "word": "檀健次也太欲太会钓了",
@@ -6321,6 +6337,14 @@
       "onboard_time": 1771125379,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 19834,
+      "num": 19834,
+      "word": "郝熠然看春晚了",
+      "onboard_time": 1771271894,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 19631,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/02/17 00:04:44 ~ 2026/02/17 03:53:10
+本榜单时间：2026/02/17 00:04:44 ~ 2026/02/17 04:41:12
 </p>
 </blockquote>
 <p>
@@ -363,6 +363,12 @@ TFBOYS怎么变四个人了（热度：307529）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E7%AC%AC%E4%B8%80%E8%B7%B390.00%E5%88%86%23" target="weibo">
+谷爱凌第一跳90.00分（热度：141952）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%83%E5%AE%9D%23" target="weibo">
 元宝（热度：137980）
 </a>
@@ -435,6 +441,12 @@ TFBOYS怎么变四个人了（热度：307529）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9F%AD%E5%89%A7%E4%B8%8A%E6%98%A5%E6%99%9A%E4%BA%86%23" target="weibo">
+短剧上春晚了（热度：62707）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23papi%E9%85%B1%E6%98%A5%E6%99%9A%E8%A7%86%E9%A2%91%23" target="weibo">
 papi酱春晚视频（热度：61240）
 </a>
@@ -503,6 +515,12 @@ papi酱春晚视频（热度：61240）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9F%8F%E6%B5%A9%E8%AF%B4%E8%AF%B7%E7%9B%B8%E4%BF%A1%E4%B8%AD%E5%9B%BD%E7%9F%AD%E9%81%93%E9%80%9F%E6%BB%91%E9%98%9F%23" target="weibo">
 张柏浩说请相信中国短道速滑队（热度：29560）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%83%9D%E7%86%A0%E7%84%B6%E7%9C%8B%E6%98%A5%E6%99%9A%E4%BA%86%23" target="weibo">
+郝熠然看春晚了（热度：19834）
 </a>
 </li>
 
