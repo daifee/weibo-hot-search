@@ -1,0 +1,410 @@
+{
+  "runTime": 1771249588894,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 21182945,
+        "num": 21182945,
+        "word": "谁给迪丽热巴化的妆",
+        "onboard_time": 1771247027,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 10837229,
+        "num": 10837229,
+        "word": "机器人全面入侵春晚",
+        "onboard_time": 1771244980,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19004,
+        "num": 4999455,
+        "word": "2026新春走基层",
+        "onboard_time": 1771249363,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13638832,
+        "num": 5840555,
+        "word": "春晚",
+        "onboard_time": 1771242506,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 6208624,
+        "num": 5190214,
+        "word": "王一博郭富城炸场",
+        "onboard_time": 1771246123,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 4997267,
+        "num": 4997267,
+        "word": "李健开净化了",
+        "onboard_time": 1771248821,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 4955895,
+        "num": 4955895,
+        "word": "秦岚李沁王楚然美成啥了",
+        "onboard_time": 1771246123,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 3153650,
+        "num": 3153650,
+        "word": "我在春晚刷短视频",
+        "onboard_time": 1771248821,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 948724,
+        "num": 948724,
+        "word": "宇树",
+        "onboard_time": 1771246970,
+        "rank": 8,
+        "category": "互联网,综艺"
+      },
+      {
+        "raw_hot": 546321,
+        "num": 947582,
+        "word": "豆包抽奖",
+        "onboard_time": 1771247977,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1023401,
+        "num": 946295,
+        "word": "元宝",
+        "onboard_time": 1771247501,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 610876,
+        "num": 944813,
+        "word": "宇树科技股票",
+        "onboard_time": 1771247441,
+        "rank": 11,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 301593,
+        "num": 944014,
+        "word": "短道速滑",
+        "onboard_time": 1771236445,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 262977,
+        "num": 942392,
+        "word": "新年祝福语",
+        "onboard_time": 1771233086,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44816,
+        "num": 940219,
+        "word": "艾特千问扒春晚同款真好使",
+        "onboard_time": 1771246842,
+        "rank": 14,
+        "category": "综艺,互联网"
+      },
+      {
+        "raw_hot": 4398409,
+        "num": 939583,
+        "word": "春晚节目单",
+        "onboard_time": 1771207399,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193670,
+        "num": 937237,
+        "word": "压岁钱",
+        "onboard_time": 1771235485,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116687,
+        "num": 935608,
+        "word": "冬奥短道速滑男子500米预赛",
+        "onboard_time": 1771237706,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114883,
+        "num": 935209,
+        "word": "春晚的底气是豆包大模型",
+        "onboard_time": 1771247085,
+        "rank": 18,
+        "category": "综艺,互联网"
+      },
+      {
+        "raw_hot": 58627,
+        "num": 933345,
+        "word": "合肥圆子炸进春晚分会场",
+        "onboard_time": 1771245576,
+        "rank": 19,
+        "category": "综艺,美食"
+      },
+      {
+        "raw_hot": 2471267,
+        "num": 931525,
+        "word": "明星红包",
+        "onboard_time": 1771203439,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2362994,
+        "num": 931090,
+        "word": "易烊千玺压得住场",
+        "onboard_time": 1771245576,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1607463,
+        "num": 928793,
+        "word": "迪丽热巴 朵莉亚新皮肤",
+        "onboard_time": 1771249177,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1517173,
+        "num": 928105,
+        "word": "张凌赫发了好多红包",
+        "onboard_time": 1771241726,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 962804,
+        "num": 926121,
+        "word": "烟花",
+        "onboard_time": 1771243718,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56648,
+        "num": 924641,
+        "word": "除夕祝你万事胜意",
+        "onboard_time": 1771232727,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104583,
+        "num": 922782,
+        "word": "义乌震撼出场",
+        "onboard_time": 1771245339,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1295672,
+        "num": 921606,
+        "word": "十二花神 好看",
+        "onboard_time": 1771246483,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 441378,
+        "num": 919484,
+        "word": "年夜饭",
+        "onboard_time": 1771215082,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62334,
+        "num": 918718,
+        "word": "追觅全生态春晚C位出场",
+        "onboard_time": 1771247085,
+        "rank": 29,
+        "category": "综艺,互联网"
+      },
+      {
+        "raw_hot": 1266018,
+        "num": 916894,
+        "word": "还得是周深",
+        "onboard_time": 1771248215,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1001756,
+        "num": 915436,
+        "word": "机器人武术 宇树无敌",
+        "onboard_time": 1771245704,
+        "rank": 31,
+        "category": "综艺,互联网"
+      },
+      {
+        "raw_hot": 914951,
+        "num": 914951,
+        "word": "陈哲远红包",
+        "onboard_time": 1771241607,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 808062,
+        "num": 808062,
+        "word": "B站弹幕",
+        "onboard_time": 1771247977,
+        "rank": 33,
+        "category": "综艺,互联网"
+      },
+      {
+        "raw_hot": 258855,
+        "num": 800557,
+        "word": "大年初一不洗头不煮饭",
+        "onboard_time": 1771232607,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 796417,
+        "num": 796417,
+        "word": "李昀锐内娱舒肤佳",
+        "onboard_time": 1771249056,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 786153,
+        "num": 786153,
+        "word": "张杰魏晨相视一笑",
+        "onboard_time": 1771246776,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 755618,
+        "num": 755618,
+        "word": "撒贝宁依旧蜡笔小新眉毛",
+        "onboard_time": 1771244017,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 805806,
+        "num": 738849,
+        "word": "红包",
+        "onboard_time": 1771171402,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 670230,
+        "num": 670230,
+        "word": "春晚后台直播",
+        "onboard_time": 1771241127,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 596055,
+        "num": 596055,
+        "word": "田曦薇好萌",
+        "onboard_time": 1771240766,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51722,
+        "num": 583462,
+        "word": "千问3.5成本仅为谷歌大模型5%",
+        "onboard_time": 1771243654,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 571908,
+        "num": 571908,
+        "word": "周深第三次春晚独唱",
+        "onboard_time": 1771242748,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 559871,
+        "num": 559871,
+        "word": "易烊千玺春晚限定笑容",
+        "onboard_time": 1771247324,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 483614,
+        "num": 483614,
+        "word": "王一博春晚笑了",
+        "onboard_time": 1771246657,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 451934,
+        "num": 451934,
+        "word": "肖战 刘铮亮的新年祝福",
+        "onboard_time": 1771241487,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 448518,
+        "num": 448518,
+        "word": "蔡明仿生机器人30年返场",
+        "onboard_time": 1771245223,
+        "rank": 46,
+        "category": "综艺,互联网"
+      },
+      {
+        "raw_hot": 433388,
+        "num": 433388,
+        "word": "王亚飞给热巴化的人鱼姬妆",
+        "onboard_time": 1771249482,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 73490,
+        "num": 421874,
+        "word": "林孝埈500米顺利晋级",
+        "onboard_time": 1771239569,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 70686,
+        "num": 417870,
+        "word": "二舅来了一朵",
+        "onboard_time": 1771249116,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#万水千山镌刻着最温暖的牵挂#"
+    }
+  }
+}

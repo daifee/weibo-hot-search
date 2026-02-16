@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1771247962416,
+  "endTime": 1771249588894,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -17,6 +17,14 @@
       "onboard_time": 1769766446,
       "rank": 3,
       "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 21182945,
+      "num": 21182945,
+      "word": "谁给迪丽热巴化的妆",
+      "onboard_time": 1771247027,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 20885446,
@@ -259,14 +267,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 7267347,
-      "num": 5080608,
-      "word": "谁给迪丽热巴化的妆",
-      "onboard_time": 1771247027,
-      "rank": 5,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 7011372,
       "num": 5033292,
       "word": "秦岚李沁王楚然美成啥了",
@@ -345,6 +345,14 @@
       "onboard_time": 1770635721,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 4997267,
+      "num": 4997267,
+      "word": "李健开净化了",
+      "onboard_time": 1771248821,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 4826318,
@@ -529,6 +537,14 @@
       "onboard_time": 1769996779,
       "rank": 10,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 3153650,
+      "num": 3153650,
+      "word": "我在春晚刷短视频",
+      "onboard_time": 1771248821,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 3070536,
@@ -1403,6 +1419,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1607463,
+      "num": 928793,
+      "word": "迪丽热巴 朵莉亚新皮肤",
+      "onboard_time": 1771249177,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1607103,
       "num": 1607103,
       "word": "彭十六偷税案",
@@ -2083,6 +2107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1266018,
+      "num": 916894,
+      "word": "还得是周深",
+      "onboard_time": 1771248215,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1265298,
       "num": 206552,
       "word": "王一博自曝是否考虑结婚",
@@ -2367,38 +2399,6 @@
       "num": 735813,
       "word": "王玉雯掉马",
       "onboard_time": 1768575441,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1191377,
-      "num": 241132,
-      "word": "姐姐被藏尸位置就在弟弟店铺正上方",
-      "onboard_time": 1770870440,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1190595,
-      "num": 1752341,
-      "word": "MRC对战Gr",
-      "onboard_time": 1767264259,
-      "rank": 6,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 1189654,
-      "num": 1190344,
-      "word": "王鑫被查",
-      "onboard_time": 1770950660,
-      "rank": 10,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1189524,
-      "num": 216542,
-      "word": "金晨逃逸顶包争议应有个明白说法",
-      "onboard_time": 1769745381,
       "rank": 10,
       "category": "艺人"
     }

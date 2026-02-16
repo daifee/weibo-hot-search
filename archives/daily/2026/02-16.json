@@ -1,6 +1,6 @@
 {
   "startTime": 1771173652789,
-  "endTime": 1771247962416,
+  "endTime": 1771249588894,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -9,6 +9,14 @@
       "onboard_time": 1771203439,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 21182945,
+      "num": 21182945,
+      "word": "谁给迪丽热巴化的妆",
+      "onboard_time": 1771247027,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 20885446,
@@ -59,14 +67,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 7267347,
-      "num": 5080608,
-      "word": "谁给迪丽热巴化的妆",
-      "onboard_time": 1771247027,
-      "rank": 5,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 7011372,
       "num": 5033292,
       "word": "秦岚李沁王楚然美成啥了",
@@ -81,6 +81,14 @@
       "onboard_time": 1771241607,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 4997267,
+      "num": 4997267,
+      "word": "李健开净化了",
+      "onboard_time": 1771248821,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 4826318,
@@ -113,6 +121,14 @@
       "onboard_time": 1771203079,
       "rank": 1,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 3153650,
+      "num": 3153650,
+      "word": "我在春晚刷短视频",
+      "onboard_time": 1771248821,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 3070536,
@@ -203,6 +219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1607463,
+      "num": 928793,
+      "word": "迪丽热巴 朵莉亚新皮肤",
+      "onboard_time": 1771249177,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1536855,
       "num": 1536855,
       "word": "陈都灵红包单包的金额设置好高",
@@ -233,6 +257,14 @@
       "onboard_time": 1771235004,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1266018,
+      "num": 916894,
+      "word": "还得是周深",
+      "onboard_time": 1771248215,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 1255483,
@@ -299,20 +331,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 962804,
+      "num": 951507,
+      "word": "烟花",
+      "onboard_time": 1771156760,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 958510,
       "num": 2319537,
       "word": "短道速滑",
       "onboard_time": 1771236445,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 951507,
-      "num": 951507,
-      "word": "烟花",
-      "onboard_time": 1771156760,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 939467,
@@ -384,6 +416,22 @@
       "word": "王天放出息了",
       "onboard_time": 1771244737,
       "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 808062,
+      "num": 808062,
+      "word": "B站弹幕",
+      "onboard_time": 1771247977,
+      "rank": 33,
+      "category": "综艺,互联网"
+    },
+    {
+      "raw_hot": 796417,
+      "num": 796417,
+      "word": "李昀锐内娱舒肤佳",
+      "onboard_time": 1771249056,
+      "rank": 35,
       "category": "综艺"
     },
     {
@@ -507,6 +555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 610876,
+      "num": 944813,
+      "word": "宇树科技股票",
+      "onboard_time": 1771247441,
+      "rank": 11,
+      "category": "财经,互联网"
+    },
+    {
       "raw_hot": 598688,
       "num": 383987,
       "word": "曾舜晞红包",
@@ -531,6 +587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 571908,
+      "num": 571908,
+      "word": "周深第三次春晚独唱",
+      "onboard_time": 1771242748,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 562947,
       "num": 562947,
       "word": "肖战 刘铮亮的新年祝福",
@@ -548,7 +612,7 @@
     },
     {
       "raw_hot": 551305,
-      "num": 551305,
+      "num": 935608,
       "word": "冬奥短道速滑男子500米预赛",
       "onboard_time": 1771237706,
       "rank": 12,
@@ -561,6 +625,14 @@
       "onboard_time": 1771208300,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 546321,
+      "num": 947582,
+      "word": "豆包抽奖",
+      "onboard_time": 1771247977,
+      "rank": 9,
+      "category": "互联网"
     },
     {
       "raw_hot": 537852,
@@ -592,14 +664,6 @@
       "word": "辣目洋子这么瘦了",
       "onboard_time": 1771169062,
       "rank": 20,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 497551,
-      "num": 497551,
-      "word": "周深第三次春晚独唱",
-      "onboard_time": 1771242748,
-      "rank": 23,
       "category": "综艺"
     },
     {
@@ -673,6 +737,14 @@
       "onboard_time": 1771234226,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 433388,
+      "num": 433388,
+      "word": "王亚飞给热巴化的人鱼姬妆",
+      "onboard_time": 1771249482,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 431868,
@@ -1012,7 +1084,7 @@
     },
     {
       "raw_hot": 256273,
-      "num": 380358,
+      "num": 421874,
       "word": "林孝埈500米顺利晋级",
       "onboard_time": 1771239569,
       "rank": 18,
@@ -1635,6 +1707,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 114883,
+      "num": 985564,
+      "word": "春晚的底气是豆包大模型",
+      "onboard_time": 1771247085,
+      "rank": 18,
+      "category": "综艺,互联网"
+    },
+    {
       "raw_hot": 113827,
       "num": 1062284,
       "word": "微博 全世界最有年味的地方",
@@ -2019,6 +2099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 70686,
+      "num": 417870,
+      "word": "二舅来了一朵",
+      "onboard_time": 1771249116,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 70086,
       "num": 1004393,
       "word": "合肥圆子炸进春晚分会场",
@@ -2225,14 +2313,6 @@
       "onboard_time": 1771208119,
       "rank": 40,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 60826,
-      "num": 985564,
-      "word": "春晚的底气是豆包大模型",
-      "onboard_time": 1771247085,
-      "rank": 18,
-      "category": "综艺,互联网"
     },
     {
       "raw_hot": 60345,
@@ -2483,6 +2563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 44816,
+      "num": 1037214,
+      "word": "艾特千问扒春晚同款真好使",
+      "onboard_time": 1771246842,
+      "rank": 14,
+      "category": "综艺,互联网"
+    },
+    {
       "raw_hot": 44788,
       "num": 1190593,
       "word": "全宇宙最高的年夜饭",
@@ -2601,14 +2689,6 @@
       "onboard_time": 1771199297,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 33239,
-      "num": 1037214,
-      "word": "艾特千问扒春晚同款真好使",
-      "onboard_time": 1771246842,
-      "rank": 14,
-      "category": "综艺,互联网"
     },
     {
       "raw_hot": 32003,
@@ -2825,6 +2905,14 @@
       "onboard_time": 1771185016,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 19004,
+      "num": 4999455,
+      "word": "2026新春走基层",
+      "onboard_time": 1771249363,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18947,
