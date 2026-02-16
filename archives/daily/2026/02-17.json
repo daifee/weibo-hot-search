@@ -1,6 +1,6 @@
 {
   "startTime": 1771257884055,
-  "endTime": 1771274472915,
+  "endTime": 1771275412312,
   "band_list": [
     {
       "raw_hot": 7753211,
@@ -283,6 +283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 490827,
+      "num": 490827,
+      "word": "谷爱凌大跳台银牌",
+      "onboard_time": 1771275015,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 455515,
       "num": 455515,
       "word": "易烊千玺压得住场",
@@ -329,6 +337,14 @@
       "onboard_time": 1771255593,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 384460,
+      "num": 384460,
+      "word": "谷爱凌刘梦婷大跳台决赛",
+      "onboard_time": 1771265538,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 376809,
@@ -395,14 +411,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 301680,
-      "num": 301680,
-      "word": "谷爱凌刘梦婷大跳台决赛",
-      "onboard_time": 1771265538,
-      "rank": 5,
-      "category": "体育"
-    },
-    {
       "raw_hot": 282554,
       "num": 282554,
       "word": "女子大跳台决赛推迟",
@@ -443,6 +451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 167906,
+      "num": 167906,
+      "word": "谷爱凌第一跳90.00分",
+      "onboard_time": 1771272675,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 166475,
       "num": 166475,
       "word": "王橹杰晒的年夜饭",
@@ -464,14 +480,6 @@
       "word": "短道速滑",
       "onboard_time": 1771236445,
       "rank": 9,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 141952,
-      "num": 141952,
-      "word": "谷爱凌第一跳90.00分",
-      "onboard_time": 1771272675,
-      "rank": 3,
       "category": "体育"
     },
     {
@@ -555,6 +563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 74949,
+      "num": 74949,
+      "word": "短剧上春晚了",
+      "onboard_time": 1771272494,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 73768,
       "num": 347379,
       "word": "哈尔滨分会场 全场最佳",
@@ -569,14 +585,6 @@
       "onboard_time": 1771254578,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 62707,
-      "num": 62707,
-      "word": "短剧上春晚了",
-      "onboard_time": 1771272494,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 61240,
@@ -675,8 +683,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 19834,
-      "num": 19834,
+      "raw_hot": 20149,
+      "num": 20149,
       "word": "郝熠然看春晚了",
       "onboard_time": 1771271894,
       "rank": 48,
