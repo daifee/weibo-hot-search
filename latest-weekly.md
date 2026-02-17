@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/02/15 00:40:48 ~ 2026/02/18 02:32:44
+本榜单时间：2026/02/15 00:40:48 ~ 2026/02/18 03:07:18
 </p>
 </blockquote>
 <p>
@@ -5787,6 +5787,12 @@ NBA（热度：50119）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%91%9E%E9%98%B3%E5%A5%B3%E5%8D%95%E7%9F%AD%E8%8A%82%E7%9B%AE59.38%E5%88%86%23" target="weibo">
+张瑞阳女单短节目59.38分（热度：49081）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%80%9F%E6%BB%91%E7%94%B7%E5%9B%A2%E5%86%B2%E5%87%BB%E6%96%B0%E5%8E%86%E5%8F%B2%23" target="weibo">
 中国速滑男团冲击新历史（热度：48535）
 </a>
@@ -6557,6 +6563,12 @@ Seedance2.0为啥能火爆出圈（热度：23776）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E6%80%BB%E5%88%86179.00%23" target="weibo">
 谷爱凌总分179.00（热度：21755）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E4%BB%A3%E5%A8%83%E5%A8%83%23" target="weibo">
+四代娃娃（热度：21502）
 </a>
 </li>
 
