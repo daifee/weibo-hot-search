@@ -1,0 +1,410 @@
+{
+  "runTime": 1771372483825,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 403968,
+        "num": 1015259,
+        "word": "B站春晚 夯",
+        "onboard_time": 1771335562,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116586,
+        "num": 716873,
+        "word": "李琰教练庆祝中国队铜牌",
+        "onboard_time": 1771368795,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2076,
+        "num": 562926,
+        "word": "2026新春走基层",
+        "onboard_time": 1771249363,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 458240,
+        "num": 458240,
+        "word": "宋小宝 小品翻车",
+        "onboard_time": 1771340001,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163473,
+        "num": 163473,
+        "word": "全妈回应全红婵退役计划",
+        "onboard_time": 1771370296,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211731,
+        "num": 161459,
+        "word": "沈腾坦言因春晚说错词十分自责",
+        "onboard_time": 1771340842,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 158886,
+        "num": 158886,
+        "word": "谷爱凌说痛失2块金牌说法太荒谬",
+        "onboard_time": 1771371076,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121836,
+        "num": 121836,
+        "word": "B站语言类节目 赢麻了",
+        "onboard_time": 1771340661,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99923,
+        "num": 99923,
+        "word": "中国速滑男团铜牌",
+        "onboard_time": 1771342882,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92992,
+        "num": 92992,
+        "word": "山东一村600多人集体磕头拜年",
+        "onboard_time": 1771338802,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 239158,
+        "num": 92923,
+        "word": "王菲化妆师改口问就是AI",
+        "onboard_time": 1771341381,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216770,
+        "num": 92871,
+        "word": "今年所有法定假日全与周末重合",
+        "onboard_time": 1771339341,
+        "rank": 11,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 176585,
+        "num": 92822,
+        "word": "马頔发视频炫耀李纯登上央视春晚",
+        "onboard_time": 1771371136,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158340,
+        "num": 92723,
+        "word": "肖战好漂亮",
+        "onboard_time": 1771331483,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98783,
+        "num": 92651,
+        "word": "全国初二回娘家的女婿belike",
+        "onboard_time": 1771328362,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148697,
+        "num": 92610,
+        "word": "小酒窝做管乐的花童了",
+        "onboard_time": 1771337782,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92574,
+        "num": 92574,
+        "word": "冬奥会露内衣品牌女选手引来广告商",
+        "onboard_time": 1771336462,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71590,
+        "num": 71590,
+        "word": "三文鱼其实是海底大肥猪",
+        "onboard_time": 1771331002,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 59686,
+        "num": 59686,
+        "word": "初二和初五的财神一样吗",
+        "onboard_time": 1771341201,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55697,
+        "num": 59619,
+        "word": "中国游客被困俄罗斯极光村超40小时",
+        "onboard_time": 1771340001,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 174847,
+        "num": 59412,
+        "word": "金价",
+        "onboard_time": 1771322001,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 101422,
+        "num": 59195,
+        "word": "都穿亮片裙不告诉王玉雯",
+        "onboard_time": 1771346060,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95131,
+        "num": 59153,
+        "word": "正确走路姿势是用臀而不是腿",
+        "onboard_time": 1771336102,
+        "rank": 22,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 91421,
+        "num": 58868,
+        "word": "李子柒在春晚后台手搓非遗饰品",
+        "onboard_time": 1771371197,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86994,
+        "num": 58693,
+        "word": "B站小品 笑力竭了",
+        "onboard_time": 1771338681,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85854,
+        "num": 58613,
+        "word": "马斯克机器人涉色情被爱尔兰调查",
+        "onboard_time": 1771341501,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 78319,
+        "num": 58317,
+        "word": "宋小宝现挂",
+        "onboard_time": 1771371738,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77778,
+        "num": 58307,
+        "word": "女生上门做年夜饭10个菜包食材1888元",
+        "onboard_time": 1771370475,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70242,
+        "num": 58061,
+        "word": "瞿颖胡兵 为啥没在一起",
+        "onboard_time": 1771337123,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 66750,
+        "num": 57885,
+        "word": "不是年味淡了而是轮到我们做主了",
+        "onboard_time": 1771328123,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64091,
+        "num": 57744,
+        "word": "春晚总导演说贺花神非常非常难",
+        "onboard_time": 1771372396,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 63682,
+        "num": 57613,
+        "word": "还是B站春晚敢演",
+        "onboard_time": 1771340842,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 60530,
+        "num": 57414,
+        "word": "父母出门孩子点外卖招待亲戚",
+        "onboard_time": 1771370716,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57276,
+        "num": 57276,
+        "word": "沙溢给白鹿发了多少压岁钱",
+        "onboard_time": 1771332502,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 56781,
+        "num": 56781,
+        "word": "孟子义在刻意增肥",
+        "onboard_time": 1771343900,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53603,
+        "num": 53603,
+        "word": "千万别贪便宜买监控",
+        "onboard_time": 1771332563,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 55079,
+        "num": 52050,
+        "word": "蔡徐坤迪拜音乐节",
+        "onboard_time": 1771371197,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 49859,
+        "num": 49859,
+        "word": "蓝盈莹央视年度观众喜爱演员",
+        "onboard_time": 1771372219,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48179,
+        "num": 48179,
+        "word": "比艺人还帅的韩国花滑天才",
+        "onboard_time": 1771338144,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 48463,
+        "num": 48174,
+        "word": "成何体统 与妻书",
+        "onboard_time": 1771343481,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47985,
+        "num": 47985,
+        "word": "金价银价直线跳水",
+        "onboard_time": 1771333101,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 46694,
+        "num": 46694,
+        "word": "父亲去世摆摊卖对联男孩母亲发声",
+        "onboard_time": 1771372097,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45042,
+        "num": 45042,
+        "word": "宁忠岩回应中国速滑男团铜牌",
+        "onboard_time": 1771371738,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 44361,
+        "num": 44361,
+        "word": "母女过年炸丸子变大型翻车现场",
+        "onboard_time": 1771332743,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42486,
+        "num": 42486,
+        "word": "哈梅内伊说特朗普你也做不到",
+        "onboard_time": 1771370838,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 41642,
+        "num": 41642,
+        "word": "原来马生气了也会已读不回",
+        "onboard_time": 1771369215,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 41631,
+        "num": 41631,
+        "word": "王菲同款耳环官网售罄",
+        "onboard_time": 1771347498,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 41007,
+        "num": 41007,
+        "word": "镖人 真的好看",
+        "onboard_time": 1771330223,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 39703,
+        "num": 39703,
+        "word": "95后女生上门做年夜饭爆单月入4万",
+        "onboard_time": 1771344802,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39688,
+        "num": 39688,
+        "word": "本菲卡vs皇马",
+        "onboard_time": 1771371437,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的马年祝福#"
+    }
+  }
+}
