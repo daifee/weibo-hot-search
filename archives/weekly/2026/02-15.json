@@ -1,6 +1,6 @@
 {
   "startTime": 1771087248939,
-  "endTime": 1771344101416,
+  "endTime": 1771344992375,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -1835,6 +1835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 414262,
+      "num": 131808,
+      "word": "王菲化妆师改口问就是AI",
+      "onboard_time": 1771341381,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 412516,
       "num": 738466,
       "word": "姐姐脱落的乳牙呛入1岁宝宝气道",
@@ -1937,6 +1945,14 @@
       "onboard_time": 1771228342,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 377322,
+      "num": 762220,
+      "word": "中国速滑男团铜牌",
+      "onboard_time": 1771342882,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 376809,
@@ -2081,14 +2097,6 @@
       "onboard_time": 1771130719,
       "rank": 34,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 361142,
-      "num": 120096,
-      "word": "王菲化妆师改口问就是AI",
-      "onboard_time": 1771341381,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 357472,
@@ -3891,6 +3899,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 169135,
+      "num": 124161,
+      "word": "还是B站春晚敢演",
+      "onboard_time": 1771340842,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 169060,
       "num": 202473,
       "word": "Faker与Uzi迎来名人堂新成员",
@@ -4523,14 +4539,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 132071,
-      "num": 176609,
-      "word": "中国速滑男团铜牌",
-      "onboard_time": 1771342882,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 132025,
       "num": 132025,
       "word": "隋文静韩聪自由滑135.98分",
@@ -4713,14 +4721,6 @@
       "onboard_time": 1771316899,
       "rank": 44,
       "category": "电影"
-    },
-    {
-      "raw_hot": 124161,
-      "num": 124161,
-      "word": "还是B站春晚敢演",
-      "onboard_time": 1771340842,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 123738,
@@ -5523,6 +5523,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 96176,
+      "num": 96176,
+      "word": "成何体统 与妻书",
+      "onboard_time": 1771343481,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 95958,
       "num": 416853,
       "word": "美国日本春节想针对台海搞事",
@@ -5691,6 +5699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 88366,
+      "num": 88366,
+      "word": "A市纸啊",
+      "onboard_time": 1771344802,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 88273,
       "num": 88273,
       "word": "多杰是因为伤势太重失血过多死的",
@@ -5835,6 +5851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 84397,
+      "num": 66722,
+      "word": "孟子义在刻意增肥",
+      "onboard_time": 1771343900,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 83824,
       "num": 83824,
       "word": "各国选手冬奥村沉浸式体验中国年",
@@ -5881,6 +5905,14 @@
       "onboard_time": 1771225944,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 82946,
+      "num": 164250,
+      "word": "初二和初五的财神一样吗",
+      "onboard_time": 1771341201,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 82691,
@@ -6059,14 +6091,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 79601,
-      "num": 74266,
-      "word": "成何体统 与妻书",
-      "onboard_time": 1771343481,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 79469,
       "num": 79469,
       "word": "常远海宝小品 好看",
@@ -6097,14 +6121,6 @@
       "onboard_time": 1771076902,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 78927,
-      "num": 164250,
-      "word": "初二和初五的财神一样吗",
-      "onboard_time": 1771341201,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 78852,
@@ -6220,7 +6236,7 @@
     },
     {
       "raw_hot": 76652,
-      "num": 76652,
+      "num": 87590,
       "word": "中国队速度滑冰男子团体摘铜",
       "onboard_time": 1771343599,
       "rank": 39,
@@ -6577,6 +6593,14 @@
       "onboard_time": 1771319420,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 69784,
+      "num": 121036,
+      "word": "甄泽权的千问魔术是怎么变的",
+      "onboard_time": 1771342400,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 69592,
@@ -7012,7 +7036,7 @@
     },
     {
       "raw_hot": 62715,
-      "num": 62715,
+      "num": 64732,
       "word": "马斯克机器人涉色情被爱尔兰调查",
       "onboard_time": 1771341501,
       "rank": 49,
@@ -7995,14 +8019,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 37190,
-      "num": 121036,
-      "word": "甄泽权的千问魔术是怎么变的",
-      "onboard_time": 1771342400,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 36736,
       "num": 225437,
       "word": "今年的年货都是AI一手包办",
@@ -8144,6 +8160,14 @@
       "word": "航天人以圆满成功给全国人民拜年",
       "onboard_time": 1771168523,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 32695,
+      "num": 142926,
+      "word": "当地对摆摊卖对联14岁男孩展开帮扶",
+      "onboard_time": 1771343599,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -8603,14 +8627,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 22957,
-      "num": 142926,
-      "word": "当地对摆摊卖对联14岁男孩展开帮扶",
-      "onboard_time": 1771343599,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 22737,
       "num": 242094,
       "word": "中国队晋级男子团体追逐半决赛",
@@ -8633,6 +8649,14 @@
       "onboard_time": 1771107795,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 22004,
+      "num": 116375,
+      "word": "95后女生上门做年夜饭爆单月入4万",
+      "onboard_time": 1771344802,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21755,
@@ -8921,6 +8945,14 @@
       "onboard_time": 1771254333,
       "rank": 29,
       "category": "综艺,互联网"
+    },
+    {
+      "raw_hot": 17393,
+      "num": 122182,
+      "word": "网恋遇套路反转成青梅竹马",
+      "onboard_time": 1771344260,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 17333,
