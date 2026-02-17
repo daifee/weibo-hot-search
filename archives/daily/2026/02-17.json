@@ -1,6 +1,6 @@
 {
   "startTime": 1771257884055,
-  "endTime": 1771313645277,
+  "endTime": 1771314952080,
   "band_list": [
     {
       "raw_hot": 7753211,
@@ -136,6 +136,14 @@
       "word": "央妈不会找王一博赔地板吧",
       "onboard_time": 1771296141,
       "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1208855,
+      "num": 585940,
+      "word": "王楚然春晚20秒破2亿",
+      "onboard_time": 1771312880,
+      "rank": 31,
       "category": "综艺"
     },
     {
@@ -460,7 +468,7 @@
     },
     {
       "raw_hot": 448568,
-      "num": 842982,
+      "num": 869990,
       "word": "大年初一不能做哪些事",
       "onboard_time": 1771311501,
       "rank": 1,
@@ -488,14 +496,6 @@
       "word": "快乐小马对我眼睛很友好",
       "onboard_time": 1771258170,
       "rank": 27,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 424443,
-      "num": 172496,
-      "word": "王楚然春晚20秒破2亿",
-      "onboard_time": 1771312880,
-      "rank": 31,
       "category": "综艺"
     },
     {
@@ -643,6 +643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 288981,
+      "num": 246292,
+      "word": "春晚小品讽刺拉满尺度不小",
+      "onboard_time": 1771311441,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 282554,
       "num": 282554,
       "word": "女子大跳台决赛推迟",
@@ -707,14 +715,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 246292,
-      "num": 246292,
-      "word": "春晚小品讽刺拉满尺度不小",
-      "onboard_time": 1771311441,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 245228,
       "num": 245228,
       "word": "白鹿收到了沙溢的红包",
@@ -771,6 +771,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 208812,
+      "num": 172109,
+      "word": "飞驰人生3口碑两极分化",
+      "onboard_time": 1771310780,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 202450,
+      "num": 187965,
+      "word": "范丞丞贴脸开大沈腾忘词",
+      "onboard_time": 1771310959,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 200822,
       "num": 227737,
       "word": "春节档",
@@ -819,12 +835,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 187965,
-      "num": 187965,
-      "word": "范丞丞贴脸开大沈腾忘词",
-      "onboard_time": 1771310959,
-      "rank": 26,
-      "category": "电影"
+      "raw_hot": 180051,
+      "num": 149367,
+      "word": "李昀锐扛住了春晚镜头1分钟",
+      "onboard_time": 1771312640,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 179041,
@@ -857,14 +873,6 @@
       "onboard_time": 1771307962,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 172109,
-      "num": 172109,
-      "word": "飞驰人生3口碑两极分化",
-      "onboard_time": 1771310780,
-      "rank": 32,
-      "category": "电影"
     },
     {
       "raw_hot": 167906,
@@ -947,12 +955,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 149367,
-      "num": 149367,
-      "word": "李昀锐扛住了春晚镜头1分钟",
-      "onboard_time": 1771312640,
-      "rank": 35,
-      "category": "综艺"
+      "raw_hot": 149554,
+      "num": 557783,
+      "word": "开始吃剩菜",
+      "onboard_time": 1771302321,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 147405,
@@ -969,14 +977,6 @@
       "onboard_time": 1771295902,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 144707,
-      "num": 557783,
-      "word": "开始吃剩菜",
-      "onboard_time": 1771302321,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 140967,
@@ -1091,6 +1091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 117954,
+      "num": 117954,
+      "word": "丁禹兮cos白龙马",
+      "onboard_time": 1771314501,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 115290,
       "num": 416647,
       "word": "国防部发文时刻准备着",
@@ -1113,6 +1121,14 @@
       "onboard_time": 1771307661,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 111539,
+      "num": 172674,
+      "word": "千问没有免单卡也能天天减免",
+      "onboard_time": 1771310001,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 111048,
@@ -1267,14 +1283,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 77112,
-      "num": 172674,
-      "word": "千问没有免单卡也能天天减免",
-      "onboard_time": 1771310001,
-      "rank": 30,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 74614,
       "num": 132623,
       "word": "罗小黑这几个人当门神很安心",
@@ -1299,6 +1307,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 73098,
+      "num": 164136,
+      "word": "猫 死腿快跑啊",
+      "onboard_time": 1771311020,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 71466,
+      "num": 281033,
+      "word": "蔡磊一家三口除夕送祝福",
+      "onboard_time": 1771309041,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 70997,
       "num": 419011,
       "word": "中国冰壶男队除夕夜收获首胜",
@@ -1313,6 +1337,14 @@
       "onboard_time": 1771279035,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 70546,
+      "num": 113999,
+      "word": "朱一龙这次表演要把理智丢掉一点",
+      "onboard_time": 1771314859,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 68436,
@@ -1353,22 +1385,6 @@
       "onboard_time": 1771298003,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 64141,
-      "num": 164136,
-      "word": "猫 死腿快跑啊",
-      "onboard_time": 1771311020,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 62453,
-      "num": 281033,
-      "word": "蔡磊一家三口除夕送祝福",
-      "onboard_time": 1771309041,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 62440,
@@ -1419,6 +1435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 58543,
+      "num": 91499,
+      "word": "张艺谋反转预判",
+      "onboard_time": 1771314080,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 58270,
       "num": 58890,
       "word": "隋文静韩聪双人自由滑",
@@ -1433,6 +1457,14 @@
       "onboard_time": 1771267156,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 57364,
+      "num": 117107,
+      "word": "家里最没用的把最受宠的吵醒了",
+      "onboard_time": 1771314740,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 56397,
@@ -1499,7 +1531,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 51391,
+      "raw_hot": 51417,
       "num": 128666,
       "word": "反应慢的人其实是脑子转太快了",
       "onboard_time": 1771310480,
@@ -1529,6 +1561,14 @@
       "onboard_time": 1771310540,
       "rank": 45,
       "category": "美食"
+    },
+    {
+      "raw_hot": 47158,
+      "num": 90636,
+      "word": "谷爱凌5枚冬奥奖牌创造纪录",
+      "onboard_time": 1771314260,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 46742,
@@ -1603,6 +1643,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 33965,
+      "num": 679759,
+      "word": "春晚首启中国式智能科技新篇章",
+      "onboard_time": 1771312940,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 33316,
       "num": 72017,
       "word": "女子自由式滑雪大跳台决赛",
@@ -1659,6 +1707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 27572,
+      "num": 148626,
+      "word": "春晚机器人都在用火山引擎",
+      "onboard_time": 1771313961,
+      "rank": 27,
+      "category": "综艺,互联网"
+    },
+    {
       "raw_hot": 26704,
       "num": 35747,
       "word": "一觉醒来谷爱凌再夺一银",
@@ -1691,12 +1747,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 20259,
+      "num": 111983,
+      "word": "镖人的排片",
+      "onboard_time": 1771314201,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 20149,
       "num": 24129,
       "word": "郝熠然看春晚了",
       "onboard_time": 1771271894,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 20068,
+      "num": 148997,
+      "word": "俄罗斯民众冒雪看春晚",
+      "onboard_time": 1771314319,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 18252,
@@ -1761,14 +1833,6 @@
       "onboard_time": 1771308261,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 13710,
-      "num": 679759,
-      "word": "春晚首启中国式智能科技新篇章",
-      "onboard_time": 1771312940,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 11159,
