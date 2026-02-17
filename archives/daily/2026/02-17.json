@@ -1,6 +1,6 @@
 {
   "startTime": 1771257884055,
-  "endTime": 1771340149045,
+  "endTime": 1771341284622,
   "band_list": [
     {
       "raw_hot": 7753211,
@@ -235,6 +235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 959689,
+      "num": 622566,
+      "word": "宋小宝 小品翻车",
+      "onboard_time": 1771340001,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 959159,
       "num": 959159,
       "word": "田曦薇宋威龙 谁来递个本子",
@@ -448,6 +456,14 @@
       "word": "王一博这一脚用了多大力气",
       "onboard_time": 1771259909,
       "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 607515,
+      "num": 234679,
+      "word": "B站小品 笑力竭了",
+      "onboard_time": 1771338681,
+      "rank": 30,
       "category": "综艺"
     },
     {
@@ -723,6 +739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 373715,
+      "num": 228206,
+      "word": "瞿颖胡兵 为啥没在一起",
+      "onboard_time": 1771337123,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 371106,
       "num": 371106,
       "word": "田曦薇好萌",
@@ -923,14 +947,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 289093,
-      "num": 220104,
-      "word": "瞿颖胡兵 为啥没在一起",
-      "onboard_time": 1771337123,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 288981,
       "num": 246292,
       "word": "春晚小品讽刺拉满尺度不小",
@@ -1035,14 +1051,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 261139,
-      "num": 212206,
-      "word": "B站小品 笑力竭了",
-      "onboard_time": 1771338681,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 257846,
       "num": 257846,
       "word": "王亚飞给迪丽热巴化的妆",
@@ -1057,6 +1065,14 @@
       "onboard_time": 1771332863,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 252543,
+      "num": 228854,
+      "word": "冬奥会露内衣品牌女选手引来广告商",
+      "onboard_time": 1771336462,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 250181,
@@ -1075,14 +1091,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 248635,
-      "num": 228854,
-      "word": "冬奥会露内衣品牌女选手引来广告商",
-      "onboard_time": 1771336462,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
       "raw_hot": 245228,
       "num": 245228,
       "word": "白鹿收到了沙溢的红包",
@@ -1097,6 +1105,14 @@
       "onboard_time": 1771323021,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 241149,
+      "num": 201804,
+      "word": "易烊千玺台词含金量",
+      "onboard_time": 1771340540,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 237570,
@@ -1211,6 +1227,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 202221,
+      "num": 202221,
+      "word": "今年所有法定假日全与周末重合",
+      "onboard_time": 1771339341,
+      "rank": 41,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 200822,
       "num": 227737,
       "word": "春节档",
@@ -1225,6 +1249,14 @@
       "onboard_time": 1771298003,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 198549,
+      "num": 198549,
+      "word": "B站语言类节目 赢麻了",
+      "onboard_time": 1771340661,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 196191,
@@ -1273,6 +1305,14 @@
       "onboard_time": 1771308200,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 177227,
+      "num": 233166,
+      "word": "比艺人还帅的韩国花滑天才",
+      "onboard_time": 1771338144,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 175808,
@@ -1347,6 +1387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 164054,
+      "num": 164054,
+      "word": "肖战大年初一祝你岁岁安康",
+      "onboard_time": 1771340302,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 162827,
       "num": 266418,
       "word": "俄罗斯民众冒雪看春晚",
@@ -1355,7 +1403,7 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 159844,
+      "raw_hot": 161898,
       "num": 218423,
       "word": "正确走路姿势是用臀而不是腿",
       "onboard_time": 1771336102,
@@ -1369,14 +1417,6 @@
       "onboard_time": 1771256612,
       "rank": 14,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 159347,
-      "num": 159347,
-      "word": "宋小宝 小品翻车",
-      "onboard_time": 1771340001,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 159313,
@@ -1579,6 +1619,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 134727,
+      "num": 134727,
+      "word": "短剧演员唱歌 大白嗓",
+      "onboard_time": 1771340421,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 134448,
       "num": 899735,
       "word": "豆包抽奖",
@@ -1633,6 +1681,14 @@
       "onboard_time": 1771325601,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 128880,
+      "num": 232008,
+      "word": "山东一村600多人集体磕头拜年",
+      "onboard_time": 1771338802,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128638,
@@ -1721,14 +1777,6 @@
       "onboard_time": 1771334061,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 117533,
-      "num": 163608,
-      "word": "今年所有法定假日全与周末重合",
-      "onboard_time": 1771339341,
-      "rank": 41,
-      "category": "科学科普"
     },
     {
       "raw_hot": 115323,
@@ -1867,6 +1915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104138,
+      "num": 169545,
+      "word": "千问在春晚当起了恋爱军师",
+      "onboard_time": 1771338621,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 103546,
       "num": 103546,
       "word": "小演员暖宝宝掉了成龙亲手贴上",
@@ -1955,14 +2011,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 91501,
-      "num": 228349,
-      "word": "比艺人还帅的韩国花滑天才",
-      "onboard_time": 1771338144,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 90953,
       "num": 109950,
       "word": "近视600度是眼球的风险临界值",
@@ -2009,6 +2057,14 @@
       "onboard_time": 1771298361,
       "rank": 21,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 81882,
+      "num": 137757,
+      "word": "肖战北京春晚岁岁年年舞台",
+      "onboard_time": 1771341201,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 81221,
@@ -2107,6 +2163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 73716,
+      "num": 214078,
+      "word": "凌晨4点起床吃年夜饭是什么体验",
+      "onboard_time": 1771336462,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 73548,
       "num": 281197,
       "word": "小猫和主人都占到了对方的便宜",
@@ -2171,20 +2235,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 69054,
+      "num": 213084,
+      "word": "中国游客被困俄罗斯极光村超40小时",
+      "onboard_time": 1771340001,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 68436,
       "num": 98435,
       "word": "谷爱凌说我没有首金压力",
       "onboard_time": 1771286420,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 68013,
-      "num": 214078,
-      "word": "凌晨4点起床吃年夜饭是什么体验",
-      "onboard_time": 1771336462,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 67208,
@@ -2243,14 +2307,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 65760,
-      "num": 169545,
-      "word": "千问在春晚当起了恋爱军师",
-      "onboard_time": 1771338621,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 65263,
       "num": 97744,
       "word": "徐梦桃齐广璞米兰冬奥首秀",
@@ -2265,14 +2321,6 @@
       "onboard_time": 1771326023,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 63592,
-      "num": 194125,
-      "word": "山东一村600多人集体磕头拜年",
-      "onboard_time": 1771338802,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 62440,
@@ -2635,12 +2683,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 41596,
-      "num": 213084,
-      "word": "中国游客被困俄罗斯极光村超40小时",
-      "onboard_time": 1771340001,
-      "rank": 29,
-      "category": "海外新闻"
+      "raw_hot": 40676,
+      "num": 164250,
+      "word": "初二和初五的财神一样吗",
+      "onboard_time": 1771341201,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 40237,
@@ -2939,6 +2987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 20024,
+      "num": 162527,
+      "word": "沈腾坦言因春晚说错词十分自责",
+      "onboard_time": 1771340842,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 19531,
       "num": 248865,
       "word": "千问请我看春节档第一场电影",
@@ -3041,6 +3097,14 @@
       "onboard_time": 1771322420,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 13066,
+      "num": 155203,
+      "word": "百名后辈给104岁老人磕头拜年",
+      "onboard_time": 1771340842,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 12978,
