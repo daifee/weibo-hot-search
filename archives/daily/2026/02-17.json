@@ -1,6 +1,6 @@
 {
   "startTime": 1771257884055,
-  "endTime": 1771323225129,
+  "endTime": 1771325819775,
   "band_list": [
     {
       "raw_hot": 7753211,
@@ -339,6 +339,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 633861,
+      "num": 1101417,
+      "word": "飞驰人生3票房",
+      "onboard_time": 1771318821,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 632684,
       "num": 918917,
       "word": "支付宝口令红包",
@@ -377,14 +385,6 @@
       "onboard_time": 1771259909,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 607374,
-      "num": 252208,
-      "word": "飞驰人生3票房",
-      "onboard_time": 1771318821,
-      "rank": 37,
-      "category": "电影"
     },
     {
       "raw_hot": 594964,
@@ -483,6 +483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 456564,
+      "num": 195924,
+      "word": "金价",
+      "onboard_time": 1771322001,
+      "rank": 25,
+      "category": "财经"
+    },
+    {
       "raw_hot": 455515,
       "num": 455515,
       "word": "易烊千玺压得住场",
@@ -539,6 +547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 430328,
+      "num": 430328,
+      "word": "惊蛰无声票房",
+      "onboard_time": 1771324522,
+      "rank": 5,
+      "category": "电影"
+    },
+    {
       "raw_hot": 414917,
       "num": 1586937,
       "word": "豆包红包",
@@ -553,6 +569,14 @@
       "onboard_time": 1771305801,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 406526,
+      "num": 406526,
+      "word": "镖人 武侠群像",
+      "onboard_time": 1771324101,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 403716,
@@ -755,6 +779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 277843,
+      "num": 121246,
+      "word": "迪丽热巴穿红色太惊艳",
+      "onboard_time": 1771322302,
+      "rank": 44,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 276415,
       "num": 276415,
       "word": "喵娲娲红包返场",
@@ -849,6 +881,14 @@
       "onboard_time": 1771314740,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 226492,
+      "num": 459831,
+      "word": "23个小辈拜年舅舅给每人发100元红包",
+      "onboard_time": 1771323321,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 221330,
@@ -987,12 +1027,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 173436,
+      "num": 120935,
+      "word": "押中春晚魔术博主称对不起邓男子",
+      "onboard_time": 1771323021,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 172449,
       "num": 172449,
       "word": "王安宇春晚全程截不到一张清晰的",
       "onboard_time": 1771307962,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 168500,
+      "num": 168500,
+      "word": "谷爱凌U型场地数据近乎完美",
+      "onboard_time": 1771324761,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 167906,
@@ -1099,6 +1155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 145688,
+      "num": 177098,
+      "word": "马斯克母亲向中国人民拜年",
+      "onboard_time": 1771321821,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 145325,
       "num": 145325,
       "word": "春晚最惊艳的明星",
@@ -1129,6 +1193,14 @@
       "onboard_time": 1771306822,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 138839,
+      "num": 107302,
+      "word": "Kimi估值超100亿美元",
+      "onboard_time": 1771324761,
+      "rank": 32,
+      "category": "互联网"
     },
     {
       "raw_hot": 138216,
@@ -1187,14 +1259,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 132690,
-      "num": 121246,
-      "word": "迪丽热巴穿红色太惊艳",
-      "onboard_time": 1771322302,
-      "rank": 44,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 132461,
       "num": 132461,
       "word": "丁禹兮cos白龙马",
@@ -1225,14 +1289,6 @@
       "onboard_time": 1771252598,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 124791,
-      "num": 195924,
-      "word": "金价",
-      "onboard_time": 1771322001,
-      "rank": 25,
-      "category": "财经"
     },
     {
       "raw_hot": 124275,
@@ -1339,6 +1395,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 106954,
+      "num": 106954,
+      "word": "梁家辉 我也没有工作证",
+      "onboard_time": 1771321821,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 105537,
+      "num": 105537,
+      "word": "怎么不找张维伊演机器人蔡明",
+      "onboard_time": 1771322662,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 105173,
       "num": 74994,
       "word": "王玉雯扛住了春晚镜头",
@@ -1353,6 +1425,14 @@
       "onboard_time": 1771285280,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 101961,
+      "num": 101961,
+      "word": "杨幂你是苏妲己",
+      "onboard_time": 1771325601,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 100071,
@@ -1377,14 +1457,6 @@
       "onboard_time": 1771313180,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 98943,
-      "num": 98943,
-      "word": "梁家辉 我也没有工作证",
-      "onboard_time": 1771321821,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 98396,
@@ -1427,6 +1499,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 91623,
+      "num": 91623,
+      "word": "刘宇宁攻击春晚大厅天花板",
+      "onboard_time": 1771322720,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 91049,
+      "num": 106806,
+      "word": "马嘉祺 那天我离大奖就差一个数字",
+      "onboard_time": 1771321340,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 90953,
       "num": 109950,
       "word": "近视600度是眼球的风险临界值",
@@ -1459,20 +1547,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 82531,
-      "num": 177098,
-      "word": "马斯克母亲向中国人民拜年",
-      "onboard_time": 1771321821,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 82346,
       "num": 203727,
       "word": "解放军位南海海域进行战备警巡",
       "onboard_time": 1771298361,
       "rank": 21,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 81221,
+      "num": 115773,
+      "word": "中国冰壶男队vs美国",
+      "onboard_time": 1771324161,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 81009,
@@ -1513,6 +1601,14 @@
       "onboard_time": 1771318279,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 74784,
+      "num": 124178,
+      "word": "抽中豆包科技大礼的人找到了",
+      "onboard_time": 1771322600,
+      "rank": 17,
+      "category": "综艺,互联网"
     },
     {
       "raw_hot": 74614,
@@ -1617,6 +1713,14 @@
       "onboard_time": 1771298003,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 63912,
+      "num": 111665,
+      "word": "13个发小初一登门给彼此父母磕头拜年",
+      "onboard_time": 1771324462,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 62440,
@@ -1763,19 +1867,19 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 52701,
-      "num": 106806,
-      "word": "马嘉祺 那天我离大奖就差一个数字",
-      "onboard_time": 1771321340,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 52199,
       "num": 132961,
       "word": "德国电视剧里有樊振东",
       "onboard_time": 1771304902,
       "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 51820,
+      "num": 98529,
+      "word": "徐梦桃齐广璞今日出战",
+      "onboard_time": 1771324820,
+      "rank": 39,
       "category": "体育"
     },
     {
@@ -1803,14 +1907,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 49772,
-      "num": 120935,
-      "word": "押中春晚魔术博主称对不起邓男子",
-      "onboard_time": 1771323021,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 48535,
       "num": 128352,
       "word": "中国速滑男团冲击新历史",
@@ -1825,6 +1921,22 @@
       "onboard_time": 1771310540,
       "rank": 45,
       "category": "美食"
+    },
+    {
+      "raw_hot": 47843,
+      "num": 124071,
+      "word": "女子喊话亲戚过年串门拿点实惠物品",
+      "onboard_time": 1771322420,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 47369,
+      "num": 124787,
+      "word": "老家的人早就认识阿福了",
+      "onboard_time": 1771322482,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 47158,
@@ -1907,20 +2019,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 39892,
+      "num": 97489,
+      "word": "家里太热东北人的年夜饭蚕蛹变蛾",
+      "onboard_time": 1771323201,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39848,
       "num": 106806,
       "word": "樊振东送祝福太喜庆了",
       "onboard_time": 1771320560,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 39635,
-      "num": 97489,
-      "word": "家里太热东北人的年夜饭蚕蛹变蛾",
-      "onboard_time": 1771323201,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 39225,
@@ -1963,6 +2075,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 35636,
+      "num": 90648,
+      "word": "德国乒乓名将说春风得意马蹄疾",
+      "onboard_time": 1771324820,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 34727,
       "num": 888507,
       "word": "在春晚看见义乌的世界情",
@@ -1977,14 +2097,6 @@
       "onboard_time": 1771300041,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 34667,
-      "num": 124178,
-      "word": "抽中豆包科技大礼的人找到了",
-      "onboard_time": 1771322600,
-      "rank": 17,
-      "category": "综艺,互联网"
     },
     {
       "raw_hot": 33965,
@@ -2025,14 +2137,6 @@
       "onboard_time": 1771301299,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 31396,
-      "num": 124787,
-      "word": "老家的人早就认识阿福了",
-      "onboard_time": 1771322482,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 30425,
@@ -2091,6 +2195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 28011,
+      "num": 644510,
+      "word": "马年祝你马上有好运",
+      "onboard_time": 1771317558,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27572,
       "num": 148626,
       "word": "春晚机器人都在用火山引擎",
@@ -2099,28 +2211,12 @@
       "category": "综艺,互联网"
     },
     {
-      "raw_hot": 27079,
-      "num": 124071,
-      "word": "女子喊话亲戚过年串门拿点实惠物品",
-      "onboard_time": 1771322420,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 26704,
       "num": 35747,
       "word": "一觉醒来谷爱凌再夺一银",
       "onboard_time": 1771279095,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 23185,
-      "num": 103032,
-      "word": "马年祝你马上有好运",
-      "onboard_time": 1771317558,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 23172,
