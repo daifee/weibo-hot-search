@@ -1,6 +1,6 @@
 {
   "startTime": 1771087248939,
-  "endTime": 1771341284622,
+  "endTime": 1771344101416,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -363,6 +363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1618654,
+      "num": 622566,
+      "word": "宋小宝 小品翻车",
+      "onboard_time": 1771340001,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1607463,
       "num": 928793,
       "word": "迪丽热巴 朵莉亚新皮肤",
@@ -449,6 +457,14 @@
       "onboard_time": 1771251578,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1344928,
+      "num": 557514,
+      "word": "西双版纳地震",
+      "onboard_time": 1771341381,
+      "rank": 4,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 1343063,
@@ -641,14 +657,6 @@
       "onboard_time": 1771156760,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 959689,
-      "num": 622566,
-      "word": "宋小宝 小品翻车",
-      "onboard_time": 1771340001,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 959159,
@@ -1212,7 +1220,7 @@
     },
     {
       "raw_hot": 607515,
-      "num": 234679,
+      "num": 419170,
       "word": "B站小品 笑力竭了",
       "onboard_time": 1771338681,
       "rank": 30,
@@ -1497,6 +1505,14 @@
       "onboard_time": 1771250076,
       "rank": 2,
       "category": "民生新闻,综艺"
+    },
+    {
+      "raw_hot": 503833,
+      "num": 202221,
+      "word": "今年所有法定假日全与周末重合",
+      "onboard_time": 1771339341,
+      "rank": 41,
+      "category": "科学科普"
     },
     {
       "raw_hot": 502683,
@@ -2067,6 +2083,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 361142,
+      "num": 120096,
+      "word": "王菲化妆师改口问就是AI",
+      "onboard_time": 1771341381,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 357472,
       "num": 280009,
       "word": "有人把4万元金饰剪碎做成美甲",
@@ -2312,6 +2336,14 @@
       "word": "辽宁春晚官宣节目单",
       "onboard_time": 1771141519,
       "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 315972,
+      "num": 198549,
+      "word": "B站语言类节目 赢麻了",
+      "onboard_time": 1771340661,
+      "rank": 31,
       "category": "综艺"
     },
     {
@@ -3507,14 +3539,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 202221,
-      "num": 202221,
-      "word": "今年所有法定假日全与周末重合",
-      "onboard_time": 1771339341,
-      "rank": 41,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 201431,
       "num": 117877,
       "word": "黄子弘凡方起诉伤心swimming",
@@ -3563,12 +3587,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 198549,
-      "num": 198549,
-      "word": "B站语言类节目 赢麻了",
-      "onboard_time": 1771340661,
-      "rank": 31,
-      "category": "综艺"
+      "raw_hot": 196966,
+      "num": 864019,
+      "word": "速度滑冰",
+      "onboard_time": 1771112057,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 196780,
@@ -3771,20 +3795,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 177830,
+      "num": 233166,
+      "word": "比艺人还帅的韩国花滑天才",
+      "onboard_time": 1771338144,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 177696,
       "num": 118700,
       "word": "高度近视的日常就王楚然这样",
       "onboard_time": 1771170261,
       "rank": 41,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 177227,
-      "num": 233166,
-      "word": "比艺人还帅的韩国花滑天才",
-      "onboard_time": 1771338144,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 176487,
@@ -4499,6 +4523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 132071,
+      "num": 176609,
+      "word": "中国速滑男团铜牌",
+      "onboard_time": 1771342882,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132025,
       "num": 132025,
       "word": "隋文静韩聪自由滑135.98分",
@@ -4683,6 +4715,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 124161,
+      "num": 124161,
+      "word": "还是B站春晚敢演",
+      "onboard_time": 1771340842,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 123738,
       "num": 945456,
       "word": "义乌震撼出场",
@@ -4841,6 +4881,14 @@
       "onboard_time": 1771225642,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 117884,
+      "num": 117884,
+      "word": "谁来给王玉雯递个古装本子",
+      "onboard_time": 1771341981,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 116933,
@@ -5579,6 +5627,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 90926,
+      "num": 76571,
+      "word": "王安宇 不知道飞驰人生太曼妙",
+      "onboard_time": 1771342222,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 90257,
       "num": 120978,
       "word": "周深想要周深得到",
@@ -5939,12 +5995,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 80717,
+      "num": 214078,
+      "word": "凌晨4点起床吃年夜饭是什么体验",
+      "onboard_time": 1771336462,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 80579,
       "num": 80579,
       "word": "权志龙新challenge",
       "onboard_time": 1771148180,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 80335,
+      "num": 76014,
+      "word": "肖战在观众席笑得好甜",
+      "onboard_time": 1771344020,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 80330,
@@ -5987,6 +6059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 79601,
+      "num": 74266,
+      "word": "成何体统 与妻书",
+      "onboard_time": 1771343481,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 79469,
       "num": 79469,
       "word": "常远海宝小品 好看",
@@ -6017,6 +6097,14 @@
       "onboard_time": 1771076902,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 78927,
+      "num": 164250,
+      "word": "初二和初五的财神一样吗",
+      "onboard_time": 1771341201,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 78852,
@@ -6131,6 +6219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 76652,
+      "num": 76652,
+      "word": "中国队速度滑冰男子团体摘铜",
+      "onboard_time": 1771343599,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 76558,
       "num": 201667,
       "word": "蚂蚁阿福16.8红包春节还能领",
@@ -6219,6 +6315,14 @@
       "category": "综艺,互联网"
     },
     {
+      "raw_hot": 74691,
+      "num": 76432,
+      "word": "全家没带钥匙猫咪开门一片哇声",
+      "onboard_time": 1771343361,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 74614,
       "num": 132623,
       "word": "罗小黑这几个人当门神很安心",
@@ -6249,14 +6353,6 @@
       "onboard_time": 1771226002,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 73716,
-      "num": 214078,
-      "word": "凌晨4点起床吃年夜饭是什么体验",
-      "onboard_time": 1771336462,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 73548,
@@ -6353,14 +6449,6 @@
       "onboard_time": 1771133659,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 71771,
-      "num": 224721,
-      "word": "速度滑冰",
-      "onboard_time": 1771112057,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 71466,
@@ -6497,6 +6585,14 @@
       "onboard_time": 1771134859,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 69530,
+      "num": 69530,
+      "word": "大年初一出门最划算",
+      "onboard_time": 1771342400,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 69526,
@@ -6913,6 +7009,14 @@
       "onboard_time": 1771212380,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 62715,
+      "num": 62715,
+      "word": "马斯克机器人涉色情被爱尔兰调查",
+      "onboard_time": 1771341501,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 62609,
@@ -7803,14 +7907,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 40676,
-      "num": 164250,
-      "word": "初二和初五的财神一样吗",
-      "onboard_time": 1771341201,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 40366,
       "num": 40366,
       "word": "三角洲",
@@ -7896,6 +7992,14 @@
       "word": "这一夜让更多人看见义乌",
       "onboard_time": 1771297582,
       "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 37190,
+      "num": 121036,
+      "word": "甄泽权的千问魔术是怎么变的",
+      "onboard_time": 1771342400,
+      "rank": 29,
       "category": "综艺"
     },
     {
@@ -8497,6 +8601,14 @@
       "onboard_time": 1771177457,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 22957,
+      "num": 142926,
+      "word": "当地对摆摊卖对联14岁男孩展开帮扶",
+      "onboard_time": 1771343599,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 22737,

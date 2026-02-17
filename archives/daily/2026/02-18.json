@@ -1,0 +1,411 @@
+{
+  "startTime": 1771344101416,
+  "endTime": 1771344101416,
+  "band_list": [
+    {
+      "raw_hot": 1618654,
+      "num": 568832,
+      "word": "宋小宝 小品翻车",
+      "onboard_time": 1771340001,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1344928,
+      "num": 557514,
+      "word": "西双版纳地震",
+      "onboard_time": 1771341381,
+      "rank": 4,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 1062748,
+      "num": 1170039,
+      "word": "B站春晚 夯",
+      "onboard_time": 1771335562,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 503833,
+      "num": 165613,
+      "word": "今年所有法定假日全与周末重合",
+      "onboard_time": 1771339341,
+      "rank": 10,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 483176,
+      "num": 142848,
+      "word": "金价",
+      "onboard_time": 1771322001,
+      "rank": 20,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 440296,
+      "num": 163183,
+      "word": "肖战好漂亮",
+      "onboard_time": 1771331483,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 419170,
+      "num": 419170,
+      "word": "B站小品 笑力竭了",
+      "onboard_time": 1771338681,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 363685,
+      "num": 363685,
+      "word": "镖人 真的好看",
+      "onboard_time": 1771330223,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 361142,
+      "num": 120096,
+      "word": "王菲化妆师改口问就是AI",
+      "onboard_time": 1771341381,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 315972,
+      "num": 157123,
+      "word": "B站语言类节目 赢麻了",
+      "onboard_time": 1771340661,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 252284,
+      "num": 151529,
+      "word": "瞿颖胡兵 为啥没在一起",
+      "onboard_time": 1771337123,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 232246,
+      "num": 148652,
+      "word": "飞驰人生",
+      "onboard_time": 1771335143,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 196966,
+      "num": 864019,
+      "word": "速度滑冰",
+      "onboard_time": 1771337123,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 192687,
+      "num": 192687,
+      "word": "很火但难吃的小吃",
+      "onboard_time": 1771327762,
+      "rank": 7,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 192107,
+      "num": 142511,
+      "word": "年度女演员杨幂",
+      "onboard_time": 1771336642,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 177830,
+      "num": 177830,
+      "word": "比艺人还帅的韩国花滑天才",
+      "onboard_time": 1771338144,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 152931,
+      "num": 152931,
+      "word": "冬奥会露内衣品牌女选手引来广告商",
+      "onboard_time": 1771336462,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 143898,
+      "num": 143898,
+      "word": "广州烟花",
+      "onboard_time": 1771331422,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 142273,
+      "num": 142273,
+      "word": "沙溢给白鹿发了多少压岁钱",
+      "onboard_time": 1771332502,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 132071,
+      "num": 176609,
+      "word": "中国速滑男团铜牌",
+      "onboard_time": 1771342882,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 128313,
+      "num": 128313,
+      "word": "飞驰人生3票房",
+      "onboard_time": 1771318821,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 125097,
+      "num": 125097,
+      "word": "短剧演员唱歌 大白嗓",
+      "onboard_time": 1771340421,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 124161,
+      "num": 124161,
+      "word": "还是B站春晚敢演",
+      "onboard_time": 1771340842,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 117884,
+      "num": 117884,
+      "word": "谁来给王玉雯递个古装本子",
+      "onboard_time": 1771341981,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 109394,
+      "num": 109394,
+      "word": "易烊千玺台词含金量",
+      "onboard_time": 1771340540,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 109293,
+      "num": 143700,
+      "word": "全国初二回娘家的女婿belike",
+      "onboard_time": 1771328362,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108745,
+      "num": 108745,
+      "word": "北京台春晚",
+      "onboard_time": 1771328061,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 105447,
+      "num": 130648,
+      "word": "不是年味淡了而是轮到我们做主了",
+      "onboard_time": 1771328123,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105093,
+      "num": 124165,
+      "word": "正确走路姿势是用臀而不是腿",
+      "onboard_time": 1771336102,
+      "rank": 26,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 104525,
+      "num": 104525,
+      "word": "镖人 武侠群像",
+      "onboard_time": 1771324101,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 104520,
+      "num": 76880,
+      "word": "成何体统",
+      "onboard_time": 1771337482,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 102493,
+      "num": 143440,
+      "word": "千万别贪便宜买监控",
+      "onboard_time": 1771332563,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 90926,
+      "num": 76571,
+      "word": "王安宇 不知道飞驰人生太曼妙",
+      "onboard_time": 1771342222,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 87908,
+      "num": 118083,
+      "word": "金价银价直线跳水",
+      "onboard_time": 1771333101,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 82512,
+      "num": 76087,
+      "word": "杨幂朱一龙吻戏",
+      "onboard_time": 1771319780,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 80717,
+      "num": 123202,
+      "word": "凌晨4点起床吃年夜饭是什么体验",
+      "onboard_time": 1771336462,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 80335,
+      "num": 76014,
+      "word": "肖战在观众席笑得好甜",
+      "onboard_time": 1771344020,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 79601,
+      "num": 74266,
+      "word": "成何体统 与妻书",
+      "onboard_time": 1771343481,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 78927,
+      "num": 108809,
+      "word": "初二和初五的财神一样吗",
+      "onboard_time": 1771341201,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 78402,
+      "num": 73099,
+      "word": "穆祉丞高会 落叶归根",
+      "onboard_time": 1771333942,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 76890,
+      "num": 76890,
+      "word": "埃及土耳其等8国联合声明",
+      "onboard_time": 1771337062,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 76652,
+      "num": 76652,
+      "word": "中国队速度滑冰男子团体摘铜",
+      "onboard_time": 1771343599,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 75859,
+      "num": 75859,
+      "word": "山东一村600多人集体磕头拜年",
+      "onboard_time": 1771338802,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 74691,
+      "num": 76432,
+      "word": "全家没带钥匙猫咪开门一片哇声",
+      "onboard_time": 1771343361,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 69530,
+      "num": 69530,
+      "word": "大年初一出门最划算",
+      "onboard_time": 1771342400,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 66223,
+      "num": 66223,
+      "word": "三文鱼其实是海底大肥猪",
+      "onboard_time": 1771331002,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 62715,
+      "num": 62715,
+      "word": "马斯克机器人涉色情被爱尔兰调查",
+      "onboard_time": 1771341501,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 37190,
+      "num": 121036,
+      "word": "甄泽权的千问魔术是怎么变的",
+      "onboard_time": 1771342400,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 22957,
+      "num": 142926,
+      "word": "当地对摆摊卖对联14岁男孩展开帮扶",
+      "onboard_time": 1771343599,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 5191,
+      "num": 684419,
+      "word": "2026新春走基层",
+      "onboard_time": 1771249363,
+      "rank": 2,
+      "category": "民生新闻"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#总书记的马年祝福#"
+    }
+  ]
+}
