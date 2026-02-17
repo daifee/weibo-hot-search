@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1771286068096,
+  "endTime": 1771296096773,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -2083,6 +2083,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1343063,
+      "num": 551905,
+      "word": "王一博郭富城 坚持手搓",
+      "onboard_time": 1771294822,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1340322,
       "num": 284630,
       "word": "金宣虎或被判刑",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1769695584,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1228740,
-      "num": 299706,
-      "word": "金饰克价涨至1708元",
-      "onboard_time": 1769650759,
-      "rank": 5,
-      "category": "财经"
     }
   ],
   "hotgov_list": [
