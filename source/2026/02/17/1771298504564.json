@@ -1,0 +1,410 @@
+{
+  "runTime": 1771298504564,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1217019,
+        "num": 1217019,
+        "word": "红包",
+        "onboard_time": 1771290862,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 390035,
+        "num": 861213,
+        "word": "惊蛰无声",
+        "onboard_time": 1771291283,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 62440,
+        "num": 669331,
+        "word": "北京台春晚神马都好看",
+        "onboard_time": 1771297642,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1303425,
+        "num": 632033,
+        "word": "央妈不会找王一博赔地板吧",
+        "onboard_time": 1771296141,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 293376,
+        "num": 293376,
+        "word": "谷爱凌大跳台银牌",
+        "onboard_time": 1771275015,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 610302,
+        "num": 291719,
+        "word": "春晚总导演回应机器人浓度高",
+        "onboard_time": 1771290743,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 386503,
+        "num": 291090,
+        "word": "明星红包",
+        "onboard_time": 1771296202,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 289504,
+        "num": 289504,
+        "word": "马宝宝出生",
+        "onboard_time": 1771293681,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216395,
+        "num": 216395,
+        "word": "很好的人都是淡淡的",
+        "onboard_time": 1771286959,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 214475,
+        "num": 214475,
+        "word": "男生回应春节上门喂猫爆赚16万",
+        "onboard_time": 1771294942,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1151714,
+        "num": 213809,
+        "word": "王一博郭富城 坚持手搓",
+        "onboard_time": 1771294822,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51723,
+        "num": 213518,
+        "word": "义乌春晚震撼出圈",
+        "onboard_time": 1771293865,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134485,
+        "num": 211900,
+        "word": "宇树科技股票",
+        "onboard_time": 1771247441,
+        "rank": 12,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 626590,
+        "num": 211345,
+        "word": "春晚拍出了王楚然的人生镜头",
+        "onboard_time": 1771286360,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119551,
+        "num": 210732,
+        "word": "大年初一记得别扫地别泼水",
+        "onboard_time": 1771296442,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 427501,
+        "num": 209741,
+        "word": "沈腾说错词白鹿宋威龙憋笑",
+        "onboard_time": 1771291702,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 378273,
+        "num": 207932,
+        "word": "刘浩存的小马就这么飞出去了",
+        "onboard_time": 1771294162,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37725,
+        "num": 207512,
+        "word": "这一夜让更多人看见义乌",
+        "onboard_time": 1771297582,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92505,
+        "num": 206370,
+        "word": "谷爱凌创造自由式滑雪奖牌纪录",
+        "onboard_time": 1771275434,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28543,
+        "num": 205310,
+        "word": "近百只国宝空降宜宾贺新年",
+        "onboard_time": 1771297942,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 368563,
+        "num": 205036,
+        "word": "春晚",
+        "onboard_time": 1771242506,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82346,
+        "num": 203727,
+        "word": "解放军位南海海域进行战备警巡",
+        "onboard_time": 1771298361,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 449719,
+        "num": 202458,
+        "word": "王楚然春晚登场涨粉超65万",
+        "onboard_time": 1771296802,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 296912,
+        "num": 202134,
+        "word": "镖人",
+        "onboard_time": 1771270935,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 176417,
+        "num": 201386,
+        "word": "钟意",
+        "onboard_time": 1771291522,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 66569,
+        "num": 200243,
+        "word": "年夜饭上抽中年度猎装轿跑引爆全网",
+        "onboard_time": 1771297582,
+        "rank": 25,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 252565,
+        "num": 199191,
+        "word": "真正的魔术 押中春晚魔术",
+        "onboard_time": 1771287501,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198581,
+        "num": 198581,
+        "word": "李昀锐演上白鹿助理了",
+        "onboard_time": 1771298003,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82274,
+        "num": 197202,
+        "word": "中国国家队祝贺隋文静韩聪",
+        "onboard_time": 1771289121,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196480,
+        "num": 196480,
+        "word": "谁给迪丽热巴化的妆",
+        "onboard_time": 1771247027,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225052,
+        "num": 195640,
+        "word": "飞驰人生3",
+        "onboard_time": 1771295842,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 75042,
+        "num": 194333,
+        "word": "美国日本春节想针对台海搞事",
+        "onboard_time": 1771297223,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 194087,
+        "num": 194087,
+        "word": "北京台春晚官宣节目单",
+        "onboard_time": 1771293442,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188232,
+        "num": 188232,
+        "word": "春节档",
+        "onboard_time": 1771292603,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 7543,
+        "num": 182465,
+        "word": "驻日使馆三连反问日本",
+        "onboard_time": 1771298422,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 177382,
+        "num": 177382,
+        "word": "窦靖童 挖嘞个亲娘",
+        "onboard_time": 1771288461,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168298,
+        "num": 168298,
+        "word": "TFBOYS怎么变四个人了",
+        "onboard_time": 1771264518,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 70296,
+        "num": 163642,
+        "word": "客服回应春晚同款机器人85000元",
+        "onboard_time": 1771288461,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53858,
+        "num": 161861,
+        "word": "王菲眼妆",
+        "onboard_time": 1771297704,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15427,
+        "num": 154195,
+        "word": "家人饭桌上最期待的一顿饭",
+        "onboard_time": 1771297642,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 67748,
+        "num": 148107,
+        "word": "大年初一",
+        "onboard_time": 1771283658,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145325,
+        "num": 145325,
+        "word": "春晚最惊艳的明星",
+        "onboard_time": 1771295902,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136529,
+        "num": 136529,
+        "word": "左肩有你",
+        "onboard_time": 1771269075,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68289,
+        "num": 129768,
+        "word": "谷爱凌刘梦婷大跳台决赛",
+        "onboard_time": 1771265538,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129665,
+        "num": 129665,
+        "word": "刘浩存这个空翻和控腿力度",
+        "onboard_time": 1771291341,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122942,
+        "num": 122942,
+        "word": "肖战拜年",
+        "onboard_time": 1771284739,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65366,
+        "num": 112563,
+        "word": "林孝埈500米突出重围",
+        "onboard_time": 1771290562,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111481,
+        "num": 111481,
+        "word": "田曦薇宋威龙 谁来递个本子",
+        "onboard_time": 1771261824,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98295,
+        "num": 98295,
+        "word": "汪苏泷长李现笑点上了吧",
+        "onboard_time": 1771295962,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 65263,
+        "num": 97744,
+        "word": "徐梦桃齐广璞米兰冬奥首秀",
+        "onboard_time": 1771298003,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的春节祝福#"
+    }
+  }
+}
