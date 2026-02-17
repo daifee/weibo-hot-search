@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/02/17 00:04:44 ~ 2026/02/17 18:56:59
+本榜单时间：2026/02/17 00:04:44 ~ 2026/02/17 19:13:23
 </p>
 </blockquote>
 <p>
@@ -261,14 +261,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23ELLE%E4%B8%BB%E7%BC%96%E6%9C%8B%E5%8F%8B%E5%9C%88%23" target="weibo">
-ELLE主编朋友圈（热度：660822）
+<a href="https://s.weibo.com/weibo?q=%23%E9%A3%9E%E9%A9%B0%E4%BA%BA%E7%94%9F3%E7%A5%A8%E6%88%BF%23" target="weibo">
+飞驰人生3票房（热度：662593）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A3%9E%E9%A9%B0%E4%BA%BA%E7%94%9F3%E7%A5%A8%E6%88%BF%23" target="weibo">
-飞驰人生3票房（热度：633861）
+<a href="https://s.weibo.com/weibo?q=%23ELLE%E4%B8%BB%E7%BC%96%E6%9C%8B%E5%8F%8B%E5%9C%88%23" target="weibo">
+ELLE主编朋友圈（热度：660822）
 </a>
 </li>
 
@@ -369,14 +369,14 @@ ELLE主编朋友圈（热度：660822）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E9%A6%96%E4%BD%8D%E9%A9%AC%E5%AE%9D%E5%AE%9D%E5%8F%96%E5%90%8D%E5%88%9D%E4%B8%80%23" target="weibo">
-北京首位马宝宝取名初一（热度：464535）
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%23" target="weibo">
+金价（热度：494297）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%23" target="weibo">
-金价（热度：456564）
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E9%A6%96%E4%BD%8D%E9%A9%AC%E5%AE%9D%E5%AE%9D%E5%8F%96%E5%90%8D%E5%88%9D%E4%B8%80%23" target="weibo">
+北京首位马宝宝取名初一（热度：464535）
 </a>
 </li>
 
@@ -549,6 +549,12 @@ ELLE主编朋友圈（热度：660822）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2323%E4%B8%AA%E5%B0%8F%E8%BE%88%E6%8B%9C%E5%B9%B4%E8%88%85%E8%88%85%E7%BB%99%E6%AF%8F%E4%BA%BA%E5%8F%91100%E5%85%83%E7%BA%A2%E5%8C%85%23" target="weibo">
+23个小辈拜年舅舅给每人发100元红包（热度：309945）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%B9%B4%E5%88%9D%E4%B8%80%23" target="weibo">
 大年初一（热度：309370）
 </a>
@@ -675,12 +681,6 @@ TFBOYS怎么变四个人了（热度：307529）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%2323%E4%B8%AA%E5%B0%8F%E8%BE%88%E6%8B%9C%E5%B9%B4%E8%88%85%E8%88%85%E7%BB%99%E6%AF%8F%E4%BA%BA%E5%8F%91100%E5%85%83%E7%BA%A2%E5%8C%85%23" target="weibo">
-23个小辈拜年舅舅给每人发100元红包（热度：226492）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%20%E5%8C%85%E5%AE%BF%E5%93%A5%23" target="weibo">
 刘宇宁 包宿哥（热度：221330）
 </a>
@@ -729,6 +729,12 @@ TFBOYS怎么变四个人了（热度：307529）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8A%BC%E4%B8%AD%E6%98%A5%E6%99%9A%E9%AD%94%E6%9C%AF%E5%8D%9A%E4%B8%BB%E7%A7%B0%E5%AF%B9%E4%B8%8D%E8%B5%B7%E9%82%93%E7%94%B7%E5%AD%90%23" target="weibo">
+押中春晚魔术博主称对不起邓男子（热度：199204）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%98%80%E9%94%90%E6%BC%94%E4%B8%8A%E7%99%BD%E9%B9%BF%E5%8A%A9%E7%90%86%E4%BA%86%23" target="weibo">
 李昀锐演上白鹿助理了（热度：198581）
 </a>
@@ -771,6 +777,12 @@ TFBOYS怎么变四个人了（热度：307529）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8CU%E5%9E%8B%E5%9C%BA%E5%9C%B0%E6%95%B0%E6%8D%AE%E8%BF%91%E4%B9%8E%E5%AE%8C%E7%BE%8E%23" target="weibo">
+谷爱凌U型场地数据近乎完美（热度：177197）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B0%8F%E6%96%90%20%E4%BD%A0%E7%9A%84%E8%8F%9C%E6%AD%A3%E5%9C%A8%E5%90%83%E8%8F%9C%23" target="weibo">
 张小斐 你的菜正在吃菜（热度：175808）
 </a>
@@ -783,20 +795,8 @@ TFBOYS怎么变四个人了（热度：307529）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%8A%BC%E4%B8%AD%E6%98%A5%E6%99%9A%E9%AD%94%E6%9C%AF%E5%8D%9A%E4%B8%BB%E7%A7%B0%E5%AF%B9%E4%B8%8D%E8%B5%B7%E9%82%93%E7%94%B7%E5%AD%90%23" target="weibo">
-押中春晚魔术博主称对不起邓男子（热度：173436）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%89%E5%AE%87%E6%98%A5%E6%99%9A%E5%85%A8%E7%A8%8B%E6%88%AA%E4%B8%8D%E5%88%B0%E4%B8%80%E5%BC%A0%E6%B8%85%E6%99%B0%E7%9A%84%23" target="weibo">
 王安宇春晚全程截不到一张清晰的（热度：172449）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8CU%E5%9E%8B%E5%9C%BA%E5%9C%B0%E6%95%B0%E6%8D%AE%E8%BF%91%E4%B9%8E%E5%AE%8C%E7%BE%8E%23" target="weibo">
-谷爱凌U型场地数据近乎完美（热度：168500）
 </a>
 </li>
 
@@ -969,8 +969,20 @@ Kimi估值超100亿美元（热度：138839）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E4%BD%A0%E6%98%AF%E8%8B%8F%E5%A6%B2%E5%B7%B1%23" target="weibo">
+杨幂你是苏妲己（热度：129026）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8C%AB%20%E8%99%BE%E7%9A%84%E5%91%B3%E9%81%93%E5%92%AA%E7%9F%A5%E9%81%93%23" target="weibo">
 猫 虾的味道咪知道（热度：126728）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%98%89%E7%A5%BA%20%E9%82%A3%E5%A4%A9%E6%88%91%E7%A6%BB%E5%A4%A7%E5%A5%96%E5%B0%B1%E5%B7%AE%E4%B8%80%E4%B8%AA%E6%95%B0%E5%AD%97%23" target="weibo">
+马嘉祺 那天我离大奖就差一个数字（热度：125270）
 </a>
 </li>
 
@@ -989,6 +1001,12 @@ Kimi估值超100亿美元（热度：138839）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%95%96%E4%BA%BA%E7%AC%AC%E4%B8%80%E6%B3%A2%E5%8F%8D%E9%A6%88%23" target="weibo">
 镖人第一波反馈（热度：124267）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E6%94%BB%E5%87%BB%E6%98%A5%E6%99%9A%E5%A4%A7%E5%8E%85%E5%A4%A9%E8%8A%B1%E6%9D%BF%23" target="weibo">
+刘宇宁攻击春晚大厅天花板（热度：121667）
 </a>
 </li>
 
@@ -1077,14 +1095,20 @@ Kimi估值超100亿美元（热度：138839）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E6%B5%A9%E5%AD%98%E6%8B%9C%E5%B9%B4%23" target="weibo">
+刘浩存拜年（热度：104325）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%BC%94%E5%91%98%E6%9A%96%E5%AE%9D%E5%AE%9D%E6%8E%89%E4%BA%86%E6%88%90%E9%BE%99%E4%BA%B2%E6%89%8B%E8%B4%B4%E4%B8%8A%23" target="weibo">
 小演员暖宝宝掉了成龙亲手贴上（热度：103546）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E4%BD%A0%E6%98%AF%E8%8B%8F%E5%A6%B2%E5%B7%B1%23" target="weibo">
-杨幂你是苏妲己（热度：101961）
+<a href="https://s.weibo.com/weibo?q=%23%E5%86%AC%E6%A2%85%E6%B1%82%E7%82%B9%E5%A4%8F%E6%B4%9B%E5%94%B1%E6%AD%8C%20%E9%A9%AC%E4%B8%BD%E6%B1%82%E7%BB%99%E6%B2%88%E8%85%BE%E8%8A%82%E7%9B%AE%23" target="weibo">
+冬梅求点夏洛唱歌 马丽求给沈腾节目（热度：100419）
 </a>
 </li>
 
@@ -1137,14 +1161,8 @@ iPhone18ProMax或无重大更新（热度：96956）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E6%94%BB%E5%87%BB%E6%98%A5%E6%99%9A%E5%A4%A7%E5%8E%85%E5%A4%A9%E8%8A%B1%E6%9D%BF%23" target="weibo">
-刘宇宁攻击春晚大厅天花板（热度：91623）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%98%89%E7%A5%BA%20%E9%82%A3%E5%A4%A9%E6%88%91%E7%A6%BB%E5%A4%A7%E5%A5%96%E5%B0%B1%E5%B7%AE%E4%B8%80%E4%B8%AA%E6%95%B0%E5%AD%97%23" target="weibo">
-马嘉祺 那天我离大奖就差一个数字（热度：91049）
+<a href="https://s.weibo.com/weibo?q=%2313%E4%B8%AA%E5%8F%91%E5%B0%8F%E5%88%9D%E4%B8%80%E7%99%BB%E9%97%A8%E7%BB%99%E5%BD%BC%E6%AD%A4%E7%88%B6%E6%AF%8D%E7%A3%95%E5%A4%B4%E6%8B%9C%E5%B9%B4%23" target="weibo">
+13个发小初一登门给彼此父母磕头拜年（热度：92074）
 </a>
 </li>
 
@@ -1227,6 +1245,12 @@ iPhone18ProMax或无重大更新（热度：96956）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%86%AC%E5%A5%A5%E5%A5%B3%E9%80%89%E6%89%8B%E5%BA%86%E7%A5%9D%E4%B8%BE%E5%8A%A8%E6%88%96%E8%B5%9A%E7%99%BE%E4%B8%87%E7%BE%8E%E5%85%83%23" target="weibo">
+冬奥女选手庆祝举动或赚百万美元（热度：73814）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B0%94%E6%BB%A8%E5%88%86%E4%BC%9A%E5%9C%BA%20%E5%85%A8%E5%9C%BA%E6%9C%80%E4%BD%B3%23" target="weibo">
 哈尔滨分会场 全场最佳（热度：73768）
 </a>
@@ -1299,8 +1323,8 @@ iPhone18ProMax或无重大更新（热度：96956）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%2313%E4%B8%AA%E5%8F%91%E5%B0%8F%E5%88%9D%E4%B8%80%E7%99%BB%E9%97%A8%E7%BB%99%E5%BD%BC%E6%AD%A4%E7%88%B6%E6%AF%8D%E7%A3%95%E5%A4%B4%E6%8B%9C%E5%B9%B4%23" target="weibo">
-13个发小初一登门给彼此父母磕头拜年（热度：63912）
+<a href="https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E8%8A%B1%E5%B8%82%E5%8F%8D%E5%90%91%E6%8B%8D%E5%8D%96%23" target="weibo">
+深圳花市反向拍卖（热度：65257）
 </a>
 </li>
 
@@ -1407,6 +1431,12 @@ papi酱春晚视频（热度：61240）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%B6%E9%87%8C%E5%A4%AA%E7%83%AD%E4%B8%9C%E5%8C%97%E4%BA%BA%E7%9A%84%E5%B9%B4%E5%A4%9C%E9%A5%AD%E8%9A%95%E8%9B%B9%E5%8F%98%E8%9B%BE%23" target="weibo">
+家里太热东北人的年夜饭蚕蛹变蛾（热度：53168）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%B6%E9%87%8C%E7%9A%84%E7%8C%AB%E4%BC%9A%E5%BC%80%E9%97%A8%E6%8A%8A%E5%A4%A7%E5%AE%B6%E5%85%A8%E6%95%91%E4%BA%86%23" target="weibo">
 家里的猫会开门把大家全救了（热度：52968）
 </a>
@@ -1451,6 +1481,12 @@ papi酱春晚视频（热度：61240）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%83%9F%E8%8A%B1%E8%8F%9C%23" target="weibo">
 烟花菜（热度：47926）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E5%A4%A7%E8%B5%9E%E5%BC%A0%E6%9D%B0%E6%98%A5%E6%99%9A%E8%88%9E%E5%8F%B0%23" target="weibo">
+谢娜大赞张杰春晚舞台（热度：47883）
 </a>
 </li>
 
@@ -1527,8 +1563,8 @@ papi酱春晚视频（热度：61240）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%B6%E9%87%8C%E5%A4%AA%E7%83%AD%E4%B8%9C%E5%8C%97%E4%BA%BA%E7%9A%84%E5%B9%B4%E5%A4%9C%E9%A5%AD%E8%9A%95%E8%9B%B9%E5%8F%98%E8%9B%BE%23" target="weibo">
-家里太热东北人的年夜饭蚕蛹变蛾（热度：39892）
+<a href="https://s.weibo.com/weibo?q=%2313%E4%B8%AA00%E5%90%8E%E5%8F%91%E5%B0%8F%E7%BB%99%E5%BD%BC%E6%AD%A4%E7%88%B6%E6%AF%8D%E7%A3%95%E5%A4%B4%E6%8B%9C%E5%B9%B4%23" target="weibo">
+13个00后发小给彼此父母磕头拜年（热度：40813）
 </a>
 </li>
 
@@ -1677,6 +1713,12 @@ BGM一响山东过年最高礼仪登场（热度：28811）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E9%A3%9E%E5%BE%80%E4%B8%96%E7%95%8C%E5%90%84%E5%9C%B0%E8%BF%87%E5%B9%B4%23" target="weibo">
+中国游客飞往世界各地过年（热度：24378）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E7%AC%AC3%E8%B7%B389.00%E5%88%86%23" target="weibo">
 谷爱凌第3跳89.00分（热度：23172）
 </a>
@@ -1731,6 +1773,12 @@ BGM一响山东过年最高礼仪登场（热度：28811）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%83%E9%97%AE%E5%B8%A6%E7%9D%80%E6%9D%A8%E4%B8%BD%E8%90%8D%E4%B8%87%E9%A9%AC%E5%A5%94%E8%85%BE%E5%87%BA%E6%B5%B7%E4%BA%86%23" target="weibo">
+千问带着杨丽萍万马奔腾出海了（热度：16910）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B1%8A%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%BF%87%E5%B9%B4%E5%BC%80%E5%A7%8B%E6%95%B4%E9%A1%BF%E5%B9%B4%E8%B4%A7%E4%BA%86%23" target="weibo">
 这届年轻人过年开始整顿年货了（热度：16805）
 </a>
@@ -1761,6 +1809,12 @@ BGM一响山东过年最高礼仪登场（热度：28811）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%83%E9%97%AE%E6%B1%9F%E6%B5%99%E6%B2%AA%E6%98%A5%E6%99%9A%E7%BB%99%E4%BD%A0%E5%8F%91%E7%BA%A2%E5%8C%85%23" target="weibo">
+千问江浙沪春晚给你发红包（热度：14922）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E8%B6%85%E7%94%A8%E8%B1%86%E5%8C%85%E9%87%8D%E5%9B%9E%E5%A6%88%E5%A6%88%E7%94%B5%E5%BD%B1%E9%99%A2%23" target="weibo">
 邓超用豆包重回妈妈电影院（热度：14291）
 </a>
@@ -1781,6 +1835,12 @@ BGM一响山东过年最高礼仪登场（热度：28811）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%86%9B%E5%90%91%E4%B8%AD%E4%B8%9C%E5%A4%A7%E8%A7%84%E6%A8%A1%E5%A2%9E%E5%85%B5%23" target="weibo">
 美军向中东大规模增兵（热度：13509）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9C%8B%E9%98%85%E5%85%B5%E8%90%BD%E6%B3%AA%E7%9A%84%E5%A4%96%E5%9B%BD%E5%B0%8F%E4%BC%99%E4%B8%8A%E6%98%A5%E6%99%9A%E4%BA%86%23" target="weibo">
+看阅兵落泪的外国小伙上春晚了（热度：12978）
 </a>
 </li>
 

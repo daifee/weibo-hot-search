@@ -1,0 +1,410 @@
+{
+  "runTime": 1771326803834,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 309945,
+        "num": 1049591,
+        "word": "23个小辈拜年舅舅给每人发100元红包",
+        "onboard_time": 1771323321,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201331,
+        "num": 752770,
+        "word": "大年初一机票价格腰斩",
+        "onboard_time": 1771315520,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26675,
+        "num": 673593,
+        "word": "马年祝你马上有好运",
+        "onboard_time": 1771317558,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193827,
+        "num": 667093,
+        "word": "大年初一不煮饭",
+        "onboard_time": 1771318759,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177197,
+        "num": 663596,
+        "word": "谷爱凌U型场地数据近乎完美",
+        "onboard_time": 1771324761,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 662593,
+        "num": 662593,
+        "word": "飞驰人生3票房",
+        "onboard_time": 1771318821,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 598197,
+        "num": 598197,
+        "word": "王楚然一脸懵不像演的",
+        "onboard_time": 1771317558,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208304,
+        "num": 208304,
+        "word": "爸妈来后冰箱都变老了",
+        "onboard_time": 1771315700,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 422241,
+        "num": 190410,
+        "word": "惊蛰无声票房",
+        "onboard_time": 1771324522,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 12978,
+        "num": 181215,
+        "word": "看阅兵落泪的外国小伙上春晚了",
+        "onboard_time": 1771326023,
+        "rank": 9,
+        "category": "民生新闻,综艺"
+      },
+      {
+        "raw_hot": 494297,
+        "num": 165777,
+        "word": "金价",
+        "onboard_time": 1771322001,
+        "rank": 10,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 400655,
+        "num": 140115,
+        "word": "镖人 武侠群像",
+        "onboard_time": 1771324101,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 299975,
+        "num": 135623,
+        "word": "星河入梦 黑马",
+        "onboard_time": 1771310480,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 118615,
+        "num": 118615,
+        "word": "马斯克母亲向中国人民拜年",
+        "onboard_time": 1771321821,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14922,
+        "num": 109611,
+        "word": "千问江浙沪春晚给你发红包",
+        "onboard_time": 1771326081,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 297012,
+        "num": 108713,
+        "word": "杨幂朱一龙吻戏",
+        "onboard_time": 1771319780,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 107736,
+        "num": 107736,
+        "word": "大年初一不能做哪些事",
+        "onboard_time": 1771311501,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107177,
+        "num": 107177,
+        "word": "开始吃剩菜",
+        "onboard_time": 1771302321,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 71073,
+        "num": 107105,
+        "word": "抽中豆包科技大礼的人找到了",
+        "onboard_time": 1771322600,
+        "rank": 18,
+        "category": "综艺,互联网"
+      },
+      {
+        "raw_hot": 40813,
+        "num": 107056,
+        "word": "13个00后发小给彼此父母磕头拜年",
+        "onboard_time": 1771326023,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 271582,
+        "num": 106923,
+        "word": "迪丽热巴穿红色太惊艳",
+        "onboard_time": 1771322302,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 248626,
+        "num": 106797,
+        "word": "36岁为什么还来主持人大赛 为今天",
+        "onboard_time": 1771319481,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92074,
+        "num": 106716,
+        "word": "13个发小初一登门给彼此父母磕头拜年",
+        "onboard_time": 1771324462,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212958,
+        "num": 106544,
+        "word": "王楚然春晚20秒破2亿",
+        "onboard_time": 1771312880,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194004,
+        "num": 106422,
+        "word": "红包",
+        "onboard_time": 1771290862,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 72870,
+        "num": 106377,
+        "word": "新加坡反思日本侵略",
+        "onboard_time": 1771318161,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 179365,
+        "num": 106251,
+        "word": "央妈不会找王一博赔地板吧",
+        "onboard_time": 1771296141,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174191,
+        "num": 106171,
+        "word": "惊蛰无声",
+        "onboard_time": 1771291283,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 68274,
+        "num": 106047,
+        "word": "砂糖橘这样摆太有年味了",
+        "onboard_time": 1771319481,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 16910,
+        "num": 105928,
+        "word": "千问带着杨丽萍万马奔腾出海了",
+        "onboard_time": 1771326622,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199204,
+        "num": 105838,
+        "word": "押中春晚魔术博主称对不起邓男子",
+        "onboard_time": 1771323021,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129026,
+        "num": 105653,
+        "word": "杨幂你是苏妲己",
+        "onboard_time": 1771325601,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 128420,
+        "num": 105598,
+        "word": "Kimi估值超100亿美元",
+        "onboard_time": 1771324761,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 125270,
+        "num": 105523,
+        "word": "马嘉祺 那天我离大奖就差一个数字",
+        "onboard_time": 1771321340,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121667,
+        "num": 105341,
+        "word": "刘宇宁攻击春晚大厅天花板",
+        "onboard_time": 1771322720,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 73814,
+        "num": 105268,
+        "word": "冬奥女选手庆祝举动或赚百万美元",
+        "onboard_time": 1771326622,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 65257,
+        "num": 105109,
+        "word": "深圳花市反向拍卖",
+        "onboard_time": 1771326023,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 63715,
+        "num": 105092,
+        "word": "家里最没用的把最受宠的吵醒了",
+        "onboard_time": 1771314740,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 47883,
+        "num": 104934,
+        "word": "谢娜大赞张杰春晚舞台",
+        "onboard_time": 1771326682,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24378,
+        "num": 104857,
+        "word": "中国游客飞往世界各地过年",
+        "onboard_time": 1771326023,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118558,
+        "num": 104660,
+        "word": "李昀锐扛住了春晚镜头1分钟",
+        "onboard_time": 1771312640,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113511,
+        "num": 104629,
+        "word": "甜馨跟爸爸爷爷奶奶一起过年",
+        "onboard_time": 1771318220,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63697,
+        "num": 104462,
+        "word": "俄罗斯民众冒雪看春晚",
+        "onboard_time": 1771314319,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 107366,
+        "num": 104426,
+        "word": "时代少年团红包",
+        "onboard_time": 1771311020,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104325,
+        "num": 104325,
+        "word": "刘浩存拜年",
+        "onboard_time": 1771325841,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64757,
+        "num": 102245,
+        "word": "镖人第一波反馈",
+        "onboard_time": 1771316899,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 56394,
+        "num": 100879,
+        "word": "中国冰壶男队vs美国",
+        "onboard_time": 1771324161,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100419,
+        "num": 100419,
+        "word": "冬梅求点夏洛唱歌 马丽求给沈腾节目",
+        "onboard_time": 1771325960,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 53168,
+        "num": 99462,
+        "word": "家里太热东北人的年夜饭蚕蛹变蛾",
+        "onboard_time": 1771323201,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51808,
+        "num": 99118,
+        "word": "徐梦桃齐广璞今日出战",
+        "onboard_time": 1771324820,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#祝福大家新的一年一切都好好上加好#"
+    }
+  }
+}
