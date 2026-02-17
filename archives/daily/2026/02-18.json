@@ -1,6 +1,6 @@
 {
   "startTime": 1771344101416,
-  "endTime": 1771362245682,
+  "endTime": 1771364646827,
   "band_list": [
     {
       "raw_hot": 1618654,
@@ -576,6 +576,14 @@
       "word": "宋小宝 重生之我在豪门当宝总",
       "onboard_time": 1771362015,
       "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 11982,
+      "num": 13019,
+      "word": "江苏卫视春晚",
+      "onboard_time": 1771328182,
+      "rank": 49,
       "category": "综艺"
     },
     {
