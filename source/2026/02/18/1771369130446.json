@@ -1,0 +1,410 @@
+{
+  "runTime": 1771369130446,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 174806,
+        "num": 578038,
+        "word": "B站春晚 夯",
+        "onboard_time": 1771335562,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 68878,
+        "num": 418252,
+        "word": "中国速滑男团铜牌",
+        "onboard_time": 1771342882,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1685,
+        "num": 346674,
+        "word": "2026新春走基层",
+        "onboard_time": 1771249363,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216611,
+        "num": 216611,
+        "word": "宋小宝 小品翻车",
+        "onboard_time": 1771340001,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 57877,
+        "num": 57877,
+        "word": "都穿亮片裙不告诉王玉雯",
+        "onboard_time": 1771346060,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51401,
+        "num": 51401,
+        "word": "B站语言类节目 赢麻了",
+        "onboard_time": 1771340661,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40220,
+        "num": 40220,
+        "word": "三文鱼其实是海底大肥猪",
+        "onboard_time": 1771331002,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 38905,
+        "num": 38905,
+        "word": "山东一村600多人集体磕头拜年",
+        "onboard_time": 1771338802,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37242,
+        "num": 37242,
+        "word": "李琰教练庆祝中国队铜牌",
+        "onboard_time": 1771368795,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19226,
+        "num": 37192,
+        "word": "张瑞阳女单晋级自由滑",
+        "onboard_time": 1771357753,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114537,
+        "num": 36825,
+        "word": "今年所有法定假日全与周末重合",
+        "onboard_time": 1771339341,
+        "rank": 10,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 98989,
+        "num": 36391,
+        "word": "王菲化妆师改口问就是AI",
+        "onboard_time": 1771341381,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 71550,
+        "num": 36045,
+        "word": "肖战好漂亮",
+        "onboard_time": 1771331483,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 41106,
+        "num": 36027,
+        "word": "冬奥会露内衣品牌女选手引来广告商",
+        "onboard_time": 1771336462,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38017,
+        "num": 35737,
+        "word": "千万别贪便宜买监控",
+        "onboard_time": 1771332563,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 35436,
+        "num": 35436,
+        "word": "比艺人还帅的韩国花滑天才",
+        "onboard_time": 1771338144,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35211,
+        "num": 35211,
+        "word": "B站小品 笑力竭了",
+        "onboard_time": 1771338681,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34534,
+        "num": 34534,
+        "word": "全国初二回娘家的女婿belike",
+        "onboard_time": 1771328362,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34169,
+        "num": 34169,
+        "word": "镖人 真的好看",
+        "onboard_time": 1771330223,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 33992,
+        "num": 33992,
+        "word": "中国游客被困俄罗斯极光村超40小时",
+        "onboard_time": 1771340001,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 86917,
+        "num": 33891,
+        "word": "金价",
+        "onboard_time": 1771322001,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 54192,
+        "num": 33810,
+        "word": "马斯克机器人涉色情被爱尔兰调查",
+        "onboard_time": 1771341501,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 37841,
+        "num": 33666,
+        "word": "金价银价直线跳水",
+        "onboard_time": 1771333101,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 35354,
+        "num": 33609,
+        "word": "正确走路姿势是用臀而不是腿",
+        "onboard_time": 1771336102,
+        "rank": 23,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 33522,
+        "num": 33522,
+        "word": "瞿颖胡兵 为啥没在一起",
+        "onboard_time": 1771337123,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30884,
+        "num": 30884,
+        "word": "不是年味淡了而是轮到我们做主了",
+        "onboard_time": 1771328123,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30740,
+        "num": 30740,
+        "word": "很火但难吃的小吃",
+        "onboard_time": 1771327762,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 27259,
+        "num": 27259,
+        "word": "沙溢给白鹿发了多少压岁钱",
+        "onboard_time": 1771332502,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 27086,
+        "num": 27086,
+        "word": "母女过年炸丸子变大型翻车现场",
+        "onboard_time": 1771332743,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26781,
+        "num": 26781,
+        "word": "凌晨4点起床吃年夜饭是什么体验",
+        "onboard_time": 1771336462,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30206,
+        "num": 26301,
+        "word": "俄罗斯警告欧洲大国",
+        "onboard_time": 1771346119,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 25813,
+        "num": 25813,
+        "word": "飞驰人生",
+        "onboard_time": 1771335143,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 25140,
+        "num": 25140,
+        "word": "95后女生上门做年夜饭爆单月入4万",
+        "onboard_time": 1771344802,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24131,
+        "num": 24131,
+        "word": "张瑞阳灵魂发问为啥没上60分",
+        "onboard_time": 1771360094,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22844,
+        "num": 22844,
+        "word": "成何体统 与妻书",
+        "onboard_time": 1771343481,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22717,
+        "num": 22717,
+        "word": "张瑞阳女单短节目59.38分",
+        "onboard_time": 1771354095,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22710,
+        "num": 22710,
+        "word": "还是B站春晚敢演",
+        "onboard_time": 1771340842,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20599,
+        "num": 20599,
+        "word": "易烊千玺台词含金量",
+        "onboard_time": 1771340540,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20485,
+        "num": 20485,
+        "word": "A市纸啊",
+        "onboard_time": 1771344802,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20433,
+        "num": 20433,
+        "word": "B站春晚",
+        "onboard_time": 1771332082,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20400,
+        "num": 20400,
+        "word": "王菲同款耳环官网售罄",
+        "onboard_time": 1771347498,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20208,
+        "num": 20208,
+        "word": "初二和初五的财神一样吗",
+        "onboard_time": 1771341201,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17741,
+        "num": 20208,
+        "word": "虞书欣云初令拜年照",
+        "onboard_time": 1771342821,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17407,
+        "num": 20202,
+        "word": "中国队速度滑冰男子团体摘铜",
+        "onboard_time": 1771343599,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17371,
+        "num": 20198,
+        "word": "惊蛰",
+        "onboard_time": 1771349417,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 16943,
+        "num": 20194,
+        "word": "飞驰人生3票房",
+        "onboard_time": 1771318821,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 16624,
+        "num": 20186,
+        "word": "镖人打戏",
+        "onboard_time": 1771356494,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 16552,
+        "num": 20182,
+        "word": "年度女演员杨幂",
+        "onboard_time": 1771336642,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16057,
+        "num": 20180,
+        "word": "速度滑冰",
+        "onboard_time": 1771337123,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15735,
+        "num": 20173,
+        "word": "唐宫奇案",
+        "onboard_time": 1771358474,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的马年祝福#"
+    }
+  }
+}
