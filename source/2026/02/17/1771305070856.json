@@ -1,0 +1,410 @@
+{
+  "runTime": 1771305070856,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 572352,
+        "num": 1091576,
+        "word": "明星红包",
+        "onboard_time": 1771296202,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 412204,
+        "num": 787741,
+        "word": "北京首位马宝宝取名初一",
+        "onboard_time": 1771299622,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30716,
+        "num": 633926,
+        "word": "祖国大江南北子弟兵声声祝福",
+        "onboard_time": 1771300041,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1387702,
+        "num": 619091,
+        "word": "红包",
+        "onboard_time": 1771290862,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236322,
+        "num": 600785,
+        "word": "宇树今年目标出货量1至2万台",
+        "onboard_time": 1771299501,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 875544,
+        "num": 579423,
+        "word": "央妈不会找王一博赔地板吧",
+        "onboard_time": 1771296141,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 873849,
+        "num": 545868,
+        "word": "范丞丞这个笑太漂亮了",
+        "onboard_time": 1771299082,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204145,
+        "num": 513936,
+        "word": "春晚AI率比我论文高",
+        "onboard_time": 1771300282,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 182818,
+        "num": 488959,
+        "word": "准爸爸拿B超单替宝宝给爷奶拜年",
+        "onboard_time": 1771300161,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148164,
+        "num": 466087,
+        "word": "谷爱凌大跳台银牌",
+        "onboard_time": 1771275015,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 448099,
+        "num": 448099,
+        "word": "李健怎么看叙利亚局势",
+        "onboard_time": 1771300102,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 433551,
+        "num": 433551,
+        "word": "镖人",
+        "onboard_time": 1771270935,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 146921,
+        "num": 360895,
+        "word": "男生回应春节上门喂猫爆赚16万",
+        "onboard_time": 1771294942,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 321327,
+        "num": 321327,
+        "word": "惊蛰无声",
+        "onboard_time": 1771291283,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 122085,
+        "num": 320332,
+        "word": "猫 虾的味道咪知道",
+        "onboard_time": 1771299443,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 15559,
+        "num": 317435,
+        "word": "春晚严选靠谱车",
+        "onboard_time": 1771304662,
+        "rank": 15,
+        "category": "汽车,综艺"
+      },
+      {
+        "raw_hot": 101163,
+        "num": 316732,
+        "word": "马宝宝出生",
+        "onboard_time": 1771293681,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100157,
+        "num": 312908,
+        "word": "很好的人都是淡淡的",
+        "onboard_time": 1771286959,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 88618,
+        "num": 311788,
+        "word": "美国日本春节想针对台海搞事",
+        "onboard_time": 1771297223,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 50948,
+        "num": 309428,
+        "word": "想学张钧甯春晚妆容",
+        "onboard_time": 1771301299,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 660822,
+        "num": 306660,
+        "word": "ELLE主编朋友圈",
+        "onboard_time": 1771303103,
+        "rank": 20,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 542015,
+        "num": 304845,
+        "word": "王楚然春晚登场涨粉超65万",
+        "onboard_time": 1771296802,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 304313,
+        "num": 304313,
+        "word": "王菲连续两年带火小众耳环",
+        "onboard_time": 1771303941,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131582,
+        "num": 289650,
+        "word": "钟意",
+        "onboard_time": 1771291522,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 281727,
+        "num": 281727,
+        "word": "春晚",
+        "onboard_time": 1771242506,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115398,
+        "num": 280782,
+        "word": "北京台春晚官宣节目单",
+        "onboard_time": 1771293442,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 39225,
+        "num": 280121,
+        "word": "谷爱凌转身就有妈妈在场边",
+        "onboard_time": 1771301299,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85889,
+        "num": 279439,
+        "word": "大年初一记得别扫地别泼水",
+        "onboard_time": 1771296442,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 286361,
+        "num": 277592,
+        "word": "春晚拍出了王楚然的人生镜头",
+        "onboard_time": 1771286360,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27952,
+        "num": 277070,
+        "word": "上咪咕为徐梦桃加油",
+        "onboard_time": 1771301299,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 276415,
+        "num": 276415,
+        "word": "喵娲娲红包返场",
+        "onboard_time": 1771302623,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 261128,
+        "num": 261128,
+        "word": "票房",
+        "onboard_time": 1771304181,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 92147,
+        "num": 248946,
+        "word": "交卷的时候才看见学霸的题",
+        "onboard_time": 1771301901,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 243192,
+        "num": 243192,
+        "word": "飞驰人生3",
+        "onboard_time": 1771295842,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 213770,
+        "num": 213770,
+        "word": "40岁朱洁静抗癌归来状态",
+        "onboard_time": 1771302143,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 66635,
+        "num": 181375,
+        "word": "大年初一",
+        "onboard_time": 1771283658,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111048,
+        "num": 176781,
+        "word": "光与夜之恋",
+        "onboard_time": 1771304422,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 172648,
+        "num": 172648,
+        "word": "春节档",
+        "onboard_time": 1771292603,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 152080,
+        "num": 152080,
+        "word": "星河入梦",
+        "onboard_time": 1771295422,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 29880,
+        "num": 148263,
+        "word": "曾毅 不能轻松挣一半钱了",
+        "onboard_time": 1771304841,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 65753,
+        "num": 146445,
+        "word": "开始吃剩菜",
+        "onboard_time": 1771302321,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 146001,
+        "num": 146001,
+        "word": "陈丽君 镖人",
+        "onboard_time": 1771301961,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 50211,
+        "num": 141313,
+        "word": "邓超春晚人民日报撰文",
+        "onboard_time": 1771300943,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 561009,
+        "num": 141075,
+        "word": "王一博郭富城 坚持手搓",
+        "onboard_time": 1771294822,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 64907,
+        "num": 139794,
+        "word": "宇树科技股票",
+        "onboard_time": 1771247441,
+        "rank": 44,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 138607,
+        "num": 138607,
+        "word": "张小斐 你的菜正在吃菜",
+        "onboard_time": 1771303462,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175873,
+        "num": 138256,
+        "word": "沈腾说错词白鹿宋威龙憋笑",
+        "onboard_time": 1771291702,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 63409,
+        "num": 135174,
+        "word": "凡人修仙传2D版韩立",
+        "onboard_time": 1771303882,
+        "rank": 47,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 56062,
+        "num": 132511,
+        "word": "林孝埈500米突出重围",
+        "onboard_time": 1771290562,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2105,
+        "num": 130523,
+        "word": "公俐1000米第五",
+        "onboard_time": 1771304781,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记给大家拜年了#"
+    }
+  }
+}
