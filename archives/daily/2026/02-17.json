@@ -1,6 +1,6 @@
 {
   "startTime": 1771257884055,
-  "endTime": 1771319514996,
+  "endTime": 1771322323293,
   "band_list": [
     {
       "raw_hot": 7753211,
@@ -251,6 +251,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 898892,
+      "num": 494691,
+      "word": "转转 对不起大家没钱上春晚",
+      "onboard_time": 1771320862,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 891009,
       "num": 891009,
       "word": "王菲水滴耳环",
@@ -280,6 +288,14 @@
       "word": "沈腾说错词白鹿宋威龙憋笑",
       "onboard_time": 1771291702,
       "rank": 10,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 824339,
+      "num": 262115,
+      "word": "王楚然一脸懵不像演的",
+      "onboard_time": 1771317558,
+      "rank": 30,
       "category": "综艺"
     },
     {
@@ -363,14 +379,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 619891,
-      "num": 231411,
-      "word": "王楚然一脸懵不像演的",
-      "onboard_time": 1771317558,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 594964,
       "num": 352047,
       "word": "王楚然春晚登场涨粉超65万",
@@ -393,6 +401,14 @@
       "onboard_time": 1771280956,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 557002,
+      "num": 252208,
+      "word": "飞驰人生3票房",
+      "onboard_time": 1771318821,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 555894,
@@ -515,6 +531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 429022,
+      "num": 251532,
+      "word": "杨幂朱一龙吻戏",
+      "onboard_time": 1771319780,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
       "raw_hot": 414917,
       "num": 1586937,
       "word": "豆包红包",
@@ -580,7 +604,7 @@
     },
     {
       "raw_hot": 368495,
-      "num": 214107,
+      "num": 242934,
       "word": "甜馨跟爸爸爷爷奶奶一起过年",
       "onboard_time": 1771318220,
       "rank": 28,
@@ -616,6 +640,14 @@
       "word": "春晚小品这个帅哥是谁",
       "onboard_time": 1771251641,
       "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 328312,
+      "num": 243401,
+      "word": "36岁为什么还来主持人大赛 为今天",
+      "onboard_time": 1771319481,
+      "rank": 46,
       "category": "综艺"
     },
     {
@@ -747,6 +779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 265267,
+      "num": 265267,
+      "word": "大年初一不煮饭",
+      "onboard_time": 1771318759,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 262752,
       "num": 322996,
       "word": "很好的人都是淡淡的",
@@ -804,7 +844,7 @@
     },
     {
       "raw_hot": 229512,
-      "num": 229512,
+      "num": 254473,
       "word": "家里最没用的把最受宠的吵醒了",
       "onboard_time": 1771314740,
       "rank": 35,
@@ -955,14 +995,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 171656,
-      "num": 155823,
-      "word": "飞驰人生3票房",
-      "onboard_time": 1771318821,
-      "rank": 37,
-      "category": "电影"
-    },
-    {
       "raw_hot": 167906,
       "num": 167906,
       "word": "谷爱凌第一跳90.00分",
@@ -996,7 +1028,7 @@
     },
     {
       "raw_hot": 162827,
-      "num": 223039,
+      "num": 246449,
       "word": "俄罗斯民众冒雪看春晚",
       "onboard_time": 1771314319,
       "rank": 19,
@@ -1017,14 +1049,6 @@
       "onboard_time": 1771301901,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 159203,
-      "num": 189785,
-      "word": "大年初一不煮饭",
-      "onboard_time": 1771318759,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 154762,
@@ -1083,6 +1107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 142505,
+      "num": 250735,
+      "word": "新加坡反思日本侵略",
+      "onboard_time": 1771318161,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 140967,
       "num": 109776,
       "word": "春晚进步最快的是蔡明的孙子",
@@ -1121,6 +1153,14 @@
       "onboard_time": 1771254096,
       "rank": 37,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 136484,
+      "num": 136484,
+      "word": "董璇和张维伊带酒窝在海南过年",
+      "onboard_time": 1771321280,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 136036,
@@ -1259,14 +1299,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 108103,
-      "num": 108103,
-      "word": "36岁为什么还来主持人大赛 为今天",
-      "onboard_time": 1771319481,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 107774,
       "num": 211597,
       "word": "九尾新年照",
@@ -1281,6 +1313,14 @@
       "onboard_time": 1771317680,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 106806,
+      "num": 106806,
+      "word": "迪丽热巴穿红色太惊艳",
+      "onboard_time": 1771322302,
+      "rank": 44,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 105173,
@@ -1379,14 +1419,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 89574,
-      "num": 179502,
-      "word": "新加坡反思日本侵略",
-      "onboard_time": 1771318161,
-      "rank": 33,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 84478,
       "num": 84478,
       "word": "杨紫又是一年剧组年夜饭",
@@ -1419,6 +1451,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 78945,
+      "num": 242389,
+      "word": "砂糖橘这样摆太有年味了",
+      "onboard_time": 1771319481,
+      "rank": 24,
+      "category": "美食"
+    },
+    {
       "raw_hot": 78107,
       "num": 138305,
       "word": "新年祝福",
@@ -1436,7 +1476,7 @@
     },
     {
       "raw_hot": 75535,
-      "num": 170313,
+      "num": 185544,
       "word": "樊振东新年吉祥话",
       "onboard_time": 1771318279,
       "rank": 32,
@@ -1465,6 +1505,14 @@
       "onboard_time": 1771306700,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 72811,
+      "num": 177098,
+      "word": "马斯克母亲向中国人民拜年",
+      "onboard_time": 1771321821,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 71466,
@@ -1515,14 +1563,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 67632,
-      "num": 210790,
-      "word": "砂糖橘这样摆太有年味了",
-      "onboard_time": 1771319481,
-      "rank": 24,
-      "category": "美食"
-    },
-    {
       "raw_hot": 67208,
       "num": 101504,
       "word": "神超官宣女友",
@@ -1553,6 +1593,14 @@
       "onboard_time": 1771298003,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 65018,
+      "num": 195924,
+      "word": "金价",
+      "onboard_time": 1771322001,
+      "rank": 25,
+      "category": "财经"
     },
     {
       "raw_hot": 62440,
@@ -1675,6 +1723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 53871,
+      "num": 245064,
+      "word": "中国车大年初一勇闯米兰",
+      "onboard_time": 1771321041,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 53858,
       "num": 161861,
       "word": "王菲眼妆",
@@ -1689,6 +1745,14 @@
       "onboard_time": 1771314980,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 52701,
+      "num": 106806,
+      "word": "马嘉祺 那天我离大奖就差一个数字",
+      "onboard_time": 1771321340,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 52199,
@@ -1771,6 +1835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 44621,
+      "num": 212632,
+      "word": "给爸妈换头我是认真的",
+      "onboard_time": 1771316300,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 44308,
       "num": 86724,
       "word": "韩聪米兰下班",
@@ -1787,11 +1859,35 @@
       "category": "体育"
     },
     {
+      "raw_hot": 41720,
+      "num": 137048,
+      "word": "潮汕女孩庄恩琪跳英歌舞超有生命力",
+      "onboard_time": 1771319661,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41641,
       "num": 74484,
       "word": "谷爱凌四年没比过大跳台",
       "onboard_time": 1771276634,
       "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 41066,
+      "num": 106806,
+      "word": "大年初一多地网友集体出门捡柴",
+      "onboard_time": 1771321880,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39848,
+      "num": 106806,
+      "word": "樊振东送祝福太喜庆了",
+      "onboard_time": 1771320560,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -1883,14 +1979,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 31445,
-      "num": 212632,
-      "word": "给爸妈换头我是认真的",
-      "onboard_time": 1771316300,
-      "rank": 26,
-      "category": "情感"
-    },
-    {
       "raw_hot": 30425,
       "num": 1237777,
       "word": "爷爷奶奶也爱用豆包",
@@ -1931,6 +2019,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 28339,
+      "num": 639953,
+      "word": "春节坚守岗位的人",
+      "onboard_time": 1771318580,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28125,
+      "num": 252914,
+      "word": "硬核数据分析谷爱凌U型池有多强",
+      "onboard_time": 1771320201,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 27572,
       "num": 148626,
       "word": "春晚机器人都在用火山引擎",
@@ -1945,6 +2049,14 @@
       "onboard_time": 1771279095,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 23607,
+      "num": 244247,
+      "word": "今起对加拿大英国持普通护照者免签",
+      "onboard_time": 1771321160,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 23185,
@@ -1995,12 +2107,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 19929,
-      "num": 639953,
-      "word": "春节坚守岗位的人",
-      "onboard_time": 1771318580,
-      "rank": 2,
-      "category": "民生新闻"
+      "raw_hot": 19531,
+      "num": 248865,
+      "word": "千问请我看春节档第一场电影",
+      "onboard_time": 1771312519,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 19173,
@@ -2009,14 +2121,6 @@
       "onboard_time": 1771317200,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 18613,
-      "num": 213390,
-      "word": "千问请我看春节档第一场电影",
-      "onboard_time": 1771312519,
-      "rank": 14,
-      "category": "电影"
     },
     {
       "raw_hot": 18252,
@@ -2081,6 +2185,14 @@
       "onboard_time": 1771308261,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 13846,
+      "num": 177176,
+      "word": "夸王建国长得真帅有千问红包",
+      "onboard_time": 1771320560,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 13767,
