@@ -1,6 +1,6 @@
 {
   "startTime": 1771257884055,
-  "endTime": 1771305070856,
+  "endTime": 1771308283056,
   "band_list": [
     {
       "raw_hot": 7753211,
@@ -219,6 +219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 901960,
+      "num": 1144313,
+      "word": "票房",
+      "onboard_time": 1771304181,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 891009,
       "num": 891009,
       "word": "王菲水滴耳环",
@@ -275,8 +283,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 670840,
+      "num": 670840,
+      "word": "王菲连续两年带火小众耳环",
+      "onboard_time": 1771303941,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 660822,
-      "num": 306660,
+      "num": 320157,
       "word": "ELLE主编朋友圈",
       "onboard_time": 1771303103,
       "rank": 32,
@@ -324,7 +340,7 @@
     },
     {
       "raw_hot": 594964,
-      "num": 304845,
+      "num": 352047,
       "word": "王楚然春晚登场涨粉超65万",
       "onboard_time": 1771296802,
       "rank": 22,
@@ -369,6 +385,14 @@
       "onboard_time": 1771275015,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 540747,
+      "num": 540747,
+      "word": "汪苏泷 我在春晚闯祸",
+      "onboard_time": 1771305081,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 538904,
@@ -443,6 +467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 434493,
+      "num": 861213,
+      "word": "惊蛰无声",
+      "onboard_time": 1771291283,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 414917,
       "num": 1586937,
       "word": "豆包红包",
@@ -467,14 +499,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 390035,
-      "num": 861213,
-      "word": "惊蛰无声",
-      "onboard_time": 1771291283,
-      "rank": 26,
-      "category": "电影"
-    },
-    {
       "raw_hot": 384460,
       "num": 384460,
       "word": "谷爱凌刘梦婷大跳台决赛",
@@ -496,6 +520,14 @@
       "word": "田曦薇好萌",
       "onboard_time": 1771240766,
       "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 360156,
+      "num": 360156,
+      "word": "王一博 工作留痕",
+      "onboard_time": 1771305801,
+      "rank": 15,
       "category": "综艺"
     },
     {
@@ -563,16 +595,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 304313,
-      "num": 304313,
-      "word": "王菲连续两年带火小众耳环",
-      "onboard_time": 1771303941,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 289504,
-      "num": 316732,
+      "num": 359200,
       "word": "马宝宝出生",
       "onboard_time": 1771293681,
       "rank": 8,
@@ -619,14 +643,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 261128,
-      "num": 261128,
-      "word": "票房",
-      "onboard_time": 1771304181,
-      "rank": 43,
-      "category": "电影"
-    },
-    {
       "raw_hot": 257846,
       "num": 257846,
       "word": "王亚飞给迪丽热巴化的妆",
@@ -643,6 +659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 249001,
+      "num": 249001,
+      "word": "飞驰人生3",
+      "onboard_time": 1771295842,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 245228,
       "num": 245228,
       "word": "白鹿收到了沙溢的红包",
@@ -651,16 +675,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 243192,
-      "num": 243192,
-      "word": "飞驰人生3",
-      "onboard_time": 1771295842,
-      "rank": 49,
-      "category": "电影"
-    },
-    {
       "raw_hot": 236322,
-      "num": 600785,
+      "num": 731600,
       "word": "宇树今年目标出货量1至2万台",
       "onboard_time": 1771299501,
       "rank": 4,
@@ -683,8 +699,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 217288,
+      "num": 832952,
+      "word": "准爸爸拿B超单替宝宝给爷奶拜年",
+      "onboard_time": 1771300161,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 214475,
-      "num": 512897,
+      "num": 544537,
       "word": "男生回应春节上门喂猫爆赚16万",
       "onboard_time": 1771294942,
       "rank": 17,
@@ -747,12 +771,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 182818,
-      "num": 488959,
-      "word": "准爸爸拿B超单替宝宝给爷奶拜年",
-      "onboard_time": 1771300161,
-      "rank": 12,
-      "category": "民生新闻"
+      "raw_hot": 175808,
+      "num": 175808,
+      "word": "张小斐 你的菜正在吃菜",
+      "onboard_time": 1771303462,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 174388,
@@ -801,6 +825,14 @@
       "onboard_time": 1771256612,
       "rank": 14,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 159313,
+      "num": 575849,
+      "word": "交卷的时候才看见学霸的题",
+      "onboard_time": 1771301901,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 154762,
@@ -859,14 +891,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 138607,
-      "num": 138607,
-      "word": "张小斐 你的菜正在吃菜",
-      "onboard_time": 1771303462,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 138216,
       "num": 138216,
       "word": "王楚然 天选王昭君",
@@ -881,6 +905,14 @@
       "onboard_time": 1771247501,
       "rank": 19,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 136867,
+      "num": 136867,
+      "word": "春晚台下 无实物表演",
+      "onboard_time": 1771306822,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 136719,
@@ -915,6 +947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129788,
+      "num": 129788,
+      "word": "王安宇春晚全程截不到一张清晰的",
+      "onboard_time": 1771307962,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 126728,
       "num": 332298,
       "word": "猫 虾的味道咪知道",
@@ -929,6 +969,14 @@
       "onboard_time": 1771252598,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 124667,
+      "num": 557783,
+      "word": "开始吃剩菜",
+      "onboard_time": 1771302321,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 124275,
@@ -961,6 +1009,14 @@
       "onboard_time": 1771264220,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 112267,
+      "num": 112267,
+      "word": "惊蛰无声观后感来了",
+      "onboard_time": 1771307661,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 111048,
@@ -1012,7 +1068,7 @@
     },
     {
       "raw_hot": 95958,
-      "num": 311788,
+      "num": 353022,
       "word": "美国日本春节想针对台海搞事",
       "onboard_time": 1771297223,
       "rank": 31,
@@ -1025,14 +1081,6 @@
       "onboard_time": 1771278555,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 92147,
-      "num": 248946,
-      "word": "交卷的时候才看见学霸的题",
-      "onboard_time": 1771301901,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 90953,
@@ -1107,6 +1155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 73548,
+      "num": 176116,
+      "word": "小猫和主人都占到了对方的便宜",
+      "onboard_time": 1771306700,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 70997,
       "num": 419011,
       "word": "中国冰壶男队除夕夜收获首胜",
@@ -1145,14 +1201,6 @@
       "onboard_time": 1771297582,
       "rank": 25,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 65753,
-      "num": 146445,
-      "word": "开始吃剩菜",
-      "onboard_time": 1771302321,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 65263,
@@ -1203,6 +1251,14 @@
       "category": "综艺,数码"
     },
     {
+      "raw_hot": 58840,
+      "num": 149774,
+      "word": "国防部发文时刻准备着",
+      "onboard_time": 1771305861,
+      "rank": 33,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 58270,
       "num": 58890,
       "word": "隋文静韩聪双人自由滑",
@@ -1217,6 +1273,14 @@
       "onboard_time": 1771267156,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 57576,
+      "num": 144116,
+      "word": "iPhone18ProMax或无重大更新",
+      "onboard_time": 1771307962,
+      "rank": 36,
+      "category": "数码"
     },
     {
       "raw_hot": 56397,
@@ -1251,6 +1315,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 52692,
+      "num": 139965,
+      "word": "背着小被子离家出走的萨摩耶",
+      "onboard_time": 1771307601,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 52199,
+      "num": 132961,
+      "word": "德国电视剧里有樊振东",
+      "onboard_time": 1771304902,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 51723,
       "num": 262171,
       "word": "义乌春晚震撼出圈",
@@ -1265,6 +1345,14 @@
       "onboard_time": 1771300943,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 48755,
+      "num": 109423,
+      "word": "10万元现金被娃当垃圾扔掉",
+      "onboard_time": 1771308261,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 48535,
@@ -1324,7 +1412,7 @@
     },
     {
       "raw_hot": 34679,
-      "num": 633926,
+      "num": 809309,
       "word": "祖国大江南北子弟兵声声祝福",
       "onboard_time": 1771300041,
       "rank": 2,
@@ -1387,6 +1475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 23213,
+      "num": 264135,
+      "word": "BGM一响山东过年最高礼仪登场",
+      "onboard_time": 1771308021,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23172,
       "num": 23172,
       "word": "谷爱凌第3跳89.00分",
@@ -1436,7 +1532,7 @@
     },
     {
       "raw_hot": 15559,
-      "num": 317435,
+      "num": 391125,
       "word": "春晚严选靠谱车",
       "onboard_time": 1771304662,
       "rank": 15,
@@ -1465,6 +1561,22 @@
       "onboard_time": 1771298422,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 5365,
+      "num": 144826,
+      "word": "邓超用豆包重回妈妈电影院",
+      "onboard_time": 1771308261,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 5128,
+      "num": 142583,
+      "word": "汪苏泷教你绣出拜年大片",
+      "onboard_time": 1771308261,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 2916,
