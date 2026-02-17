@@ -1,6 +1,6 @@
 {
   "startTime": 1771344101416,
-  "endTime": 1771344992375,
+  "endTime": 1771348230266,
   "band_list": [
     {
       "raw_hot": 1618654,
@@ -107,6 +107,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 203644,
+      "num": 203644,
+      "word": "都穿亮片裙不告诉王玉雯",
+      "onboard_time": 1771346060,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 196966,
       "num": 864019,
       "word": "速度滑冰",
@@ -128,6 +136,14 @@
       "word": "年度女演员杨幂",
       "onboard_time": 1771336642,
       "rank": 21,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 179039,
+      "num": 179039,
+      "word": "成何体统 与妻书",
+      "onboard_time": 1771343481,
+      "rank": 45,
       "category": "剧集"
     },
     {
@@ -227,6 +243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 106979,
+      "num": 116375,
+      "word": "95后女生上门做年夜饭爆单月入4万",
+      "onboard_time": 1771344802,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105447,
       "num": 130648,
       "word": "不是年味淡了而是轮到我们做主了",
@@ -257,14 +281,6 @@
       "onboard_time": 1771332563,
       "rank": 18,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 96176,
-      "num": 96176,
-      "word": "成何体统 与妻书",
-      "onboard_time": 1771343481,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 90926,
@@ -388,7 +404,7 @@
     },
     {
       "raw_hot": 66389,
-      "num": 66389,
+      "num": 88154,
       "word": "三文鱼其实是海底大肥猪",
       "onboard_time": 1771331002,
       "rank": 48,
@@ -403,6 +419,30 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 54589,
+      "num": 54589,
+      "word": "王菲同款耳环官网售罄",
+      "onboard_time": 1771347498,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 52931,
+      "num": 52931,
+      "word": "虞书欣云初令拜年照",
+      "onboard_time": 1771342821,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 42294,
+      "num": 54618,
+      "word": "俄罗斯警告欧洲大国",
+      "onboard_time": 1771346119,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 32695,
       "num": 142926,
       "word": "当地对摆摊卖对联14岁男孩展开帮扶",
@@ -411,15 +451,15 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 22004,
-      "num": 116375,
-      "word": "95后女生上门做年夜饭爆单月入4万",
-      "onboard_time": 1771344802,
-      "rank": 31,
-      "category": "民生新闻"
+      "raw_hot": 31631,
+      "num": 48165,
+      "word": "中国游客被困俄罗斯极光村超40小时",
+      "onboard_time": 1771340001,
+      "rank": 46,
+      "category": "海外新闻"
     },
     {
-      "raw_hot": 17393,
+      "raw_hot": 20253,
       "num": 122182,
       "word": "网恋遇套路反转成青梅竹马",
       "onboard_time": 1771344260,
