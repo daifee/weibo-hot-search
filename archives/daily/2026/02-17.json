@@ -1,6 +1,6 @@
 {
   "startTime": 1771257884055,
-  "endTime": 1771326803834,
+  "endTime": 1771328731768,
   "band_list": [
     {
       "raw_hot": 7753211,
@@ -88,6 +88,14 @@
       "word": "沈腾马丽 嗑晕了",
       "onboard_time": 1771254640,
       "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1489267,
+      "num": 629278,
+      "word": "北京台春晚",
+      "onboard_time": 1771328061,
+      "rank": 5,
       "category": "综艺"
     },
     {
@@ -323,6 +331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 702401,
+      "num": 211553,
+      "word": "金价",
+      "onboard_time": 1771322001,
+      "rank": 25,
+      "category": "财经"
+    },
+    {
       "raw_hot": 680275,
       "num": 670840,
       "word": "王菲连续两年带火小众耳环",
@@ -473,14 +489,6 @@
       "onboard_time": 1771241127,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 494297,
-      "num": 195924,
-      "word": "金价",
-      "onboard_time": 1771322001,
-      "rank": 25,
-      "category": "财经"
     },
     {
       "raw_hot": 464535,
@@ -715,7 +723,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 309945,
+      "raw_hot": 310642,
       "num": 1049591,
       "word": "23个小辈拜年舅舅给每人发100元红包",
       "onboard_time": 1771323321,
@@ -788,7 +796,7 @@
     },
     {
       "raw_hot": 277843,
-      "num": 121246,
+      "num": 208930,
       "word": "迪丽热巴穿红色太惊艳",
       "onboard_time": 1771322302,
       "rank": 44,
@@ -843,6 +851,22 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 255267,
+      "num": 222876,
+      "word": "江苏卫视春晚",
+      "onboard_time": 1771328182,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 250181,
+      "num": 225354,
+      "word": "Kimi估值超100亿美元",
+      "onboard_time": 1771324761,
+      "rank": 32,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 249505,
       "num": 626807,
       "word": "谷爱凌创造自由式滑雪奖牌纪录",
@@ -857,6 +881,22 @@
       "onboard_time": 1771292783,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 244875,
+      "num": 181059,
+      "word": "押中春晚魔术博主称对不起邓男子",
+      "onboard_time": 1771323021,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 239229,
+      "num": 1038276,
+      "word": "谷爱凌U型场地数据近乎完美",
+      "onboard_time": 1771324761,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 236322,
@@ -955,14 +995,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 199204,
-      "num": 120935,
-      "word": "押中春晚魔术博主称对不起邓男子",
-      "onboard_time": 1771323021,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 198581,
       "num": 198581,
       "word": "李昀锐演上白鹿助理了",
@@ -1019,20 +1051,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 177197,
-      "num": 663596,
-      "word": "谷爱凌U型场地数据近乎完美",
-      "onboard_time": 1771324761,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 175808,
       "num": 175808,
       "word": "张小斐 你的菜正在吃菜",
       "onboard_time": 1771303462,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 175699,
+      "num": 175699,
+      "word": "镖人 排片",
+      "onboard_time": 1771326800,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 174388,
@@ -1156,7 +1188,7 @@
     },
     {
       "raw_hot": 145688,
-      "num": 177098,
+      "num": 185210,
       "word": "马斯克母亲向中国人民拜年",
       "onboard_time": 1771321821,
       "rank": 30,
@@ -1169,6 +1201,14 @@
       "onboard_time": 1771295902,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 144907,
+      "num": 144907,
+      "word": "刘浩存拜年",
+      "onboard_time": 1771325841,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 142505,
@@ -1193,14 +1233,6 @@
       "onboard_time": 1771306822,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 138839,
-      "num": 107302,
-      "word": "Kimi估值超100亿美元",
-      "onboard_time": 1771324761,
-      "rank": 32,
-      "category": "互联网"
     },
     {
       "raw_hot": 138216,
@@ -1259,6 +1291,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 133756,
+      "num": 133756,
+      "word": "浙江卫视春晚",
+      "onboard_time": 1771328061,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 132461,
       "num": 132461,
       "word": "丁禹兮cos白龙马",
@@ -1276,7 +1316,7 @@
     },
     {
       "raw_hot": 129026,
-      "num": 105653,
+      "num": 115857,
       "word": "杨幂你是苏妲己",
       "onboard_time": 1771325601,
       "rank": 36,
@@ -1347,6 +1387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 118105,
+      "num": 152559,
+      "word": "老君山惊现灵气护罩",
+      "onboard_time": 1771327221,
+      "rank": 35,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 115323,
       "num": 115323,
       "word": "春晚的机器人节目给五竹看哭了",
@@ -1379,6 +1427,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 112137,
+      "num": 112137,
+      "word": "小酒窝和朵朵拜年合照",
+      "onboard_time": 1771328661,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 111539,
       "num": 172674,
       "word": "千问没有免单卡也能天天减免",
@@ -1393,6 +1449,14 @@
       "onboard_time": 1771304422,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 108508,
+      "num": 108508,
+      "word": "刘诗诗大屏对我眼睛特别友好",
+      "onboard_time": 1771327881,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 108281,
@@ -1443,12 +1507,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 104325,
-      "num": 104325,
-      "word": "刘浩存拜年",
-      "onboard_time": 1771325841,
-      "rank": 44,
-      "category": "艺人"
+      "raw_hot": 103966,
+      "num": 676662,
+      "word": "13个00后发小给彼此父母磕头拜年",
+      "onboard_time": 1771326023,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 103546,
@@ -1532,7 +1596,7 @@
     },
     {
       "raw_hot": 92074,
-      "num": 111665,
+      "num": 206472,
       "word": "13个发小初一登门给彼此父母磕头拜年",
       "onboard_time": 1771324462,
       "rank": 25,
@@ -1579,6 +1643,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 81586,
+      "num": 141164,
+      "word": "不是年味淡了而是轮到我们做主了",
+      "onboard_time": 1771328123,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 81221,
       "num": 115773,
       "word": "中国冰壶男队vs美国",
@@ -1603,12 +1675,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 78852,
+      "num": 133945,
+      "word": "东北嫡长闺具象化了",
+      "onboard_time": 1771328123,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 78107,
       "num": 138305,
       "word": "新年祝福",
       "onboard_time": 1771289243,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 77870,
+      "num": 116783,
+      "word": "冬奥女选手庆祝举动或赚百万美元",
+      "onboard_time": 1771326622,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 77710,
@@ -1643,14 +1731,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 73814,
-      "num": 105268,
-      "word": "冬奥女选手庆祝举动或赚百万美元",
-      "onboard_time": 1771326622,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 73768,
       "num": 347379,
       "word": "哈尔滨分会场 全场最佳",
@@ -1665,6 +1745,14 @@
       "onboard_time": 1771306700,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 71637,
+      "num": 108517,
+      "word": "很火但难吃的小吃",
+      "onboard_time": 1771327762,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 71466,
@@ -1721,6 +1809,14 @@
       "onboard_time": 1771283719,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 66951,
+      "num": 216231,
+      "word": "中国冰壶男队8比5美国队",
+      "onboard_time": 1771327221,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 66569,
@@ -1875,6 +1971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 54363,
+      "num": 214550,
+      "word": "Viper晒家猫",
+      "onboard_time": 1771328661,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 53871,
       "num": 245064,
       "word": "中国车大年初一勇闯米兰",
@@ -1916,7 +2020,7 @@
     },
     {
       "raw_hot": 51820,
-      "num": 99118,
+      "num": 204814,
       "word": "徐梦桃齐广璞今日出战",
       "onboard_time": 1771324820,
       "rank": 39,
@@ -2043,6 +2147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 42526,
+      "num": 133801,
+      "word": "女子空中技巧预赛因大雪延迟",
+      "onboard_time": 1771327221,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 42466,
       "num": 127701,
       "word": "中国速滑男队再战团体追逐",
@@ -2065,14 +2177,6 @@
       "onboard_time": 1771276634,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 40813,
-      "num": 107056,
-      "word": "13个00后发小给彼此父母磕头拜年",
-      "onboard_time": 1771326023,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 39848,
@@ -2235,6 +2339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 28450,
+      "num": 220388,
+      "word": "千问江浙沪春晚给你发红包",
+      "onboard_time": 1771326081,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 28125,
       "num": 252914,
       "word": "硬核数据分析谷爱凌U型池有多强",
@@ -2315,6 +2427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 19981,
+      "num": 203659,
+      "word": "千问带着杨丽萍万马奔腾出海了",
+      "onboard_time": 1771326622,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 19531,
       "num": 248865,
       "word": "千问请我看春节档第一场电影",
@@ -2345,14 +2465,6 @@
       "onboard_time": 1771254333,
       "rank": 29,
       "category": "综艺,互联网"
-    },
-    {
-      "raw_hot": 16910,
-      "num": 105928,
-      "word": "千问带着杨丽萍万马奔腾出海了",
-      "onboard_time": 1771326622,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 16805,
@@ -2395,12 +2507,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 14922,
-      "num": 109611,
-      "word": "千问江浙沪春晚给你发红包",
-      "onboard_time": 1771326081,
-      "rank": 14,
-      "category": "综艺"
+      "raw_hot": 14637,
+      "num": 213824,
+      "word": "多地居民家中开启彩灯PK",
+      "onboard_time": 1771328422,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14291,
@@ -2497,6 +2609,14 @@
       "onboard_time": 1771304781,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 822,
+      "num": 762241,
+      "word": "骏马贺新春电子贺卡",
+      "onboard_time": 1771193774,
+      "rank": 2,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
