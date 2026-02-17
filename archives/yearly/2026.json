@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1771322323293,
+  "endTime": 1771323225129,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -1371,6 +1371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1757992,
+      "num": 1757992,
+      "word": "转转 对不起大家没钱上春晚",
+      "onboard_time": 1771320862,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1755553,
       "num": 595615,
       "word": "周杰伦昆凌 生理性喜欢",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1770091581,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1229235,
-      "num": 1053890,
-      "word": "白银跌麻了",
-      "onboard_time": 1769762122,
-      "rank": 5,
-      "category": "财经"
     }
   ],
   "hotgov_list": [
