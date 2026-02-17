@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1771309067594,
+  "endTime": 1771313645277,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -1257,6 +1257,14 @@
       "onboard_time": 1770435138,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1158428,
+      "num": 1185348,
+      "word": "星河入梦 黑马",
+      "onboard_time": 1771310480,
+      "rank": 0,
+      "category": "电影"
     },
     {
       "raw_hot": 1156645,
@@ -6235,6 +6243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 448568,
+      "num": 842982,
+      "word": "大年初一不能做哪些事",
+      "onboard_time": 1771311501,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 447018,
       "num": 447018,
       "word": "吴京回应唇部紧急护理",
@@ -6427,6 +6443,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 436377,
+      "num": 861213,
+      "word": "惊蛰无声",
+      "onboard_time": 1769889194,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 436153,
       "num": 436153,
       "word": "王者安琪拉典藏皮肤爆料",
@@ -6457,14 +6481,6 @@
       "onboard_time": 1771258170,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 434493,
-      "num": 861213,
-      "word": "惊蛰无声",
-      "onboard_time": 1769889194,
-      "rank": 30,
-      "category": "电影"
     },
     {
       "raw_hot": 434375,
@@ -6721,6 +6737,14 @@
       "onboard_time": 1770279506,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 424443,
+      "num": 172496,
+      "word": "王楚然春晚20秒破2亿",
+      "onboard_time": 1771312880,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 424144,
@@ -8451,6 +8475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 356611,
+      "num": 280667,
+      "word": "10万元现金被娃当垃圾扔掉",
+      "onboard_time": 1771308261,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 356314,
       "num": 222851,
       "word": "穆祉丞比王橹杰还急",
@@ -9553,6 +9585,14 @@
       "onboard_time": 1770104600,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 321762,
+      "num": 321762,
+      "word": "飞驰人生3",
+      "onboard_time": 1770265942,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 321722,
@@ -11243,6 +11283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 282258,
+      "num": 282258,
+      "word": "时代少年团红包",
+      "onboard_time": 1771311020,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 282198,
       "num": 282198,
       "word": "黄金有望涨至6000美元",
@@ -11961,14 +12009,6 @@
       "onboard_time": 1771054340,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 265641,
-      "num": 265641,
-      "word": "飞驰人生3",
-      "onboard_time": 1770265942,
-      "rank": 25,
-      "category": "电影"
     },
     {
       "raw_hot": 265604,
@@ -12953,6 +12993,14 @@
       "onboard_time": 1770978559,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 246292,
+      "num": 246292,
+      "word": "春晚小品讽刺拉满尺度不小",
+      "onboard_time": 1771311441,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 246092,
@@ -16539,6 +16587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 187965,
+      "num": 187965,
+      "word": "范丞丞贴脸开大沈腾忘词",
+      "onboard_time": 1771310959,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 187907,
       "num": 187907,
       "word": "成何体统热度超了生命树太平年",
@@ -17147,6 +17203,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 179041,
+      "num": 179041,
+      "word": "迪丽热巴红裙摇曳",
+      "onboard_time": 1771308200,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 178996,
       "num": 126007,
       "word": "杨雪晒老公作品",
@@ -17721,6 +17785,14 @@
       "onboard_time": 1769957003,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 172109,
+      "num": 172109,
+      "word": "飞驰人生3口碑两极分化",
+      "onboard_time": 1771310780,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 172107,
@@ -19667,6 +19739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 149367,
+      "num": 149367,
+      "word": "李昀锐扛住了春晚镜头1分钟",
+      "onboard_time": 1771312640,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 149323,
       "num": 228173,
       "word": "开心消消乐 甄嬛",
@@ -20137,6 +20217,14 @@
       "onboard_time": 1769951362,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 144707,
+      "num": 557783,
+      "word": "开始吃剩菜",
+      "onboard_time": 1771302321,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 144621,
@@ -21457,6 +21545,14 @@
       "onboard_time": 1770521000,
       "rank": 21,
       "category": "演出"
+    },
+    {
+      "raw_hot": 135399,
+      "num": 318574,
+      "word": "过年当天的你和妈妈",
+      "onboard_time": 1771310120,
+      "rank": 12,
+      "category": "幽默"
     },
     {
       "raw_hot": 135380,
@@ -22961,14 +23057,6 @@
       "onboard_time": 1770877159,
       "rank": 28,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 124667,
-      "num": 557783,
-      "word": "开始吃剩菜",
-      "onboard_time": 1771302321,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 124593,
@@ -24769,6 +24857,14 @@
       "onboard_time": 1770356301,
       "rank": 35,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 115290,
+      "num": 416647,
+      "word": "国防部发文时刻准备着",
+      "onboard_time": 1771305861,
+      "rank": 33,
+      "category": "国内时政"
     },
     {
       "raw_hot": 115238,
@@ -28779,6 +28875,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 99240,
+      "num": 99240,
+      "word": "田曦薇特写美我一大跳",
+      "onboard_time": 1771313180,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 99225,
       "num": 99225,
       "word": "杨瀚森半个NBA职业生涯是摸爬滚打",
@@ -29473,6 +29577,14 @@
       "onboard_time": 1770066674,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 96956,
+      "num": 219864,
+      "word": "iPhone18ProMax或无重大更新",
+      "onboard_time": 1771307962,
+      "rank": 36,
+      "category": "数码"
     },
     {
       "raw_hot": 96919,
@@ -33483,14 +33595,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 84403,
-      "num": 204826,
-      "word": "10万元现金被娃当垃圾扔掉",
-      "onboard_time": 1771308261,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 84386,
       "num": 84386,
       "word": "梁小龙百万粉丝账号疑被弟子霸占",
@@ -35835,6 +35939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 77112,
+      "num": 172674,
+      "word": "千问没有免单卡也能天天减免",
+      "onboard_time": 1771310001,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 77110,
       "num": 77110,
       "word": "医院通报暴露患者隐私部位",
@@ -36595,6 +36707,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 74614,
+      "num": 132623,
+      "word": "罗小黑这几个人当门神很安心",
+      "onboard_time": 1771313000,
+      "rank": 38,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 74606,
       "num": 74606,
       "word": "生命树第2集回旋镖正中眉心",
@@ -36860,7 +36980,7 @@
     },
     {
       "raw_hot": 73548,
-      "num": 176116,
+      "num": 281197,
       "word": "小猫和主人都占到了对方的便宜",
       "onboard_time": 1771306700,
       "rank": 30,
@@ -36937,14 +37057,6 @@
       "onboard_time": 1769924481,
       "rank": 49,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 73194,
-      "num": 416647,
-      "word": "国防部发文时刻准备着",
-      "onboard_time": 1771305861,
-      "rank": 33,
-      "category": "国内时政"
     },
     {
       "raw_hot": 73184,
@@ -38411,6 +38523,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 65932,
+      "num": 175207,
+      "word": "年度女演员荣誉提名",
+      "onboard_time": 1771309101,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 65909,
       "num": 65909,
       "word": "冬奥会首轮比赛遭遇意外停电",
@@ -38803,6 +38923,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 64141,
+      "num": 164136,
+      "word": "猫 死腿快跑啊",
+      "onboard_time": 1771311020,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 64085,
       "num": 64085,
       "word": "高德打车被约谈整改",
@@ -39172,7 +39300,7 @@
     },
     {
       "raw_hot": 62453,
-      "num": 171002,
+      "num": 281033,
       "word": "蔡磊一家三口除夕送祝福",
       "onboard_time": 1771309041,
       "rank": 37,
@@ -40027,14 +40155,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 57576,
-      "num": 144116,
-      "word": "iPhone18ProMax或无重大更新",
-      "onboard_time": 1771307962,
-      "rank": 36,
-      "category": "数码"
-    },
-    {
       "raw_hot": 57476,
       "num": 71186,
       "word": "吉林省将进行中考改革",
@@ -40483,6 +40603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 54418,
+      "num": 144514,
+      "word": "小伙开车1.6万公里从巴黎回山东过年",
+      "onboard_time": 1771310721,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 54187,
       "num": 51702,
       "word": "这个商场的装饰太吓人了",
@@ -40913,6 +41041,14 @@
       "onboard_time": 1769848702,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 51391,
+      "num": 128666,
+      "word": "反应慢的人其实是脑子转太快了",
+      "onboard_time": 1771310480,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 51381,
@@ -41481,6 +41617,14 @@
       "onboard_time": 1771041619,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 47926,
+      "num": 91668,
+      "word": "烟花菜",
+      "onboard_time": 1771310540,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 47920,
@@ -42169,6 +42313,14 @@
       "onboard_time": 1770569238,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 44308,
+      "num": 86724,
+      "word": "韩聪米兰下班",
+      "onboard_time": 1771309880,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 44280,
@@ -48441,6 +48593,14 @@
       "onboard_time": 1771308261,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 13710,
+      "num": 679759,
+      "word": "春晚首启中国式智能科技新篇章",
+      "onboard_time": 1771312940,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 13629,
