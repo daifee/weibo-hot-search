@@ -1,6 +1,6 @@
 {
   "startTime": 1771087248939,
-  "endTime": 1771318670363,
+  "endTime": 1771319514996,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -1083,6 +1083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 619891,
+      "num": 231411,
+      "word": "王楚然一脸懵不像演的",
+      "onboard_time": 1771317558,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 619138,
       "num": 1744267,
       "word": "豆包抽奖",
@@ -1819,6 +1827,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 368495,
+      "num": 214107,
+      "word": "甜馨跟爸爸爷爷奶奶一起过年",
+      "onboard_time": 1771318220,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 367633,
       "num": 367633,
       "word": "男子在胖东来买5000元年货花500寄出",
@@ -1961,6 +1977,14 @@
       "onboard_time": 1771147880,
       "rank": 34,
       "category": "网红"
+    },
+    {
+      "raw_hot": 340828,
+      "num": 807061,
+      "word": "大年初一机票价格腰斩",
+      "onboard_time": 1771315520,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 337689,
@@ -2161,14 +2185,6 @@
       "onboard_time": 1771098015,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 309533,
-      "num": 177057,
-      "word": "王楚然一脸懵不像演的",
-      "onboard_time": 1771317558,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 309370,
@@ -3067,6 +3083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 210536,
+      "num": 210536,
+      "word": "王玉雯合照堪称小型春晚聚会",
+      "onboard_time": 1771316661,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 208812,
       "num": 192993,
       "word": "飞驰人生3口碑两极分化",
@@ -3283,22 +3307,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 188702,
-      "num": 188702,
-      "word": "甜馨跟爸爸爷爷奶奶一起过年",
-      "onboard_time": 1771318220,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 188304,
-      "num": 426442,
-      "word": "大年初一机票价格腰斩",
-      "onboard_time": 1771315520,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 187886,
       "num": 187886,
       "word": "年夜饭文案",
@@ -3329,6 +3337,14 @@
       "onboard_time": 1771227323,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 185573,
+      "num": 185573,
+      "word": "刘亦菲对着狗狗夹飞了",
+      "onboard_time": 1771318759,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 185256,
@@ -3443,6 +3459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171656,
+      "num": 155823,
+      "word": "飞驰人生3票房",
+      "onboard_time": 1771318821,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 170721,
       "num": 184012,
       "word": "谷爱凌直言睡不太够想多休息",
@@ -3457,14 +3481,6 @@
       "onboard_time": 1771226182,
       "rank": 12,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 169475,
-      "num": 169475,
-      "word": "王玉雯合照堪称小型春晚聚会",
-      "onboard_time": 1771316661,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 169060,
@@ -3649,6 +3665,14 @@
       "onboard_time": 1771146741,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 159203,
+      "num": 189785,
+      "word": "大年初一不煮饭",
+      "onboard_time": 1771318759,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 159093,
@@ -4099,6 +4123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124267,
+      "num": 124267,
+      "word": "镖人第一波反馈",
+      "onboard_time": 1771316899,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 123738,
       "num": 945456,
       "word": "义乌震撼出场",
@@ -4443,14 +4475,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 108737,
-      "num": 108737,
-      "word": "镖人第一波反馈",
-      "onboard_time": 1771316899,
-      "rank": 44,
-      "category": "电影"
-    },
-    {
       "raw_hot": 108221,
       "num": 489321,
       "word": "宋佳喊小孩",
@@ -4465,6 +4489,22 @@
       "onboard_time": 1771082001,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 108103,
+      "num": 108103,
+      "word": "36岁为什么还来主持人大赛 为今天",
+      "onboard_time": 1771319481,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 107774,
+      "num": 211597,
+      "word": "九尾新年照",
+      "onboard_time": 1771318999,
+      "rank": 21,
+      "category": "电竞"
     },
     {
       "raw_hot": 107352,
@@ -4921,6 +4961,14 @@
       "onboard_time": 1771145239,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 89574,
+      "num": 179502,
+      "word": "新加坡反思日本侵略",
+      "onboard_time": 1771318161,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 89439,
@@ -5707,6 +5755,14 @@
       "category": "综艺,美食"
     },
     {
+      "raw_hot": 69937,
+      "num": 157269,
+      "word": "樊振东与德甲队友过年氛围感",
+      "onboard_time": 1771319420,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 69592,
       "num": 68828,
       "word": "英凯 清清进货式拓展人脉",
@@ -5865,6 +5921,14 @@
       "onboard_time": 1771125919,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 67632,
+      "num": 210790,
+      "word": "砂糖橘这样摆太有年味了",
+      "onboard_time": 1771319481,
+      "rank": 24,
+      "category": "美食"
     },
     {
       "raw_hot": 67441,
@@ -6731,6 +6795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 46510,
+      "num": 166023,
+      "word": "全家晒千问战绩",
+      "onboard_time": 1771315759,
+      "rank": 37,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 45923,
       "num": 47793,
       "word": "隋文静韩聪双人滑第五",
@@ -6857,14 +6929,6 @@
       "onboard_time": 1771198877,
       "rank": 40,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 40325,
-      "num": 166023,
-      "word": "全家晒千问战绩",
-      "onboard_time": 1771315759,
-      "rank": 37,
-      "category": "互联网"
     },
     {
       "raw_hot": 39864,
@@ -7059,6 +7123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 32160,
+      "num": 166128,
+      "word": "杨雨光用AI点外卖没用千问免单卡",
+      "onboard_time": 1771317200,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 32003,
       "num": 32003,
       "word": "用砂糖橘制作马年小橘灯",
@@ -7107,20 +7179,20 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 31445,
+      "num": 212632,
+      "word": "给爸妈换头我是认真的",
+      "onboard_time": 1771316300,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 30852,
       "num": 985139,
       "word": "米兰冬奥会16日看点",
       "onboard_time": 1771207819,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 30747,
-      "num": 193336,
-      "word": "给爸妈换头我是认真的",
-      "onboard_time": 1771316300,
-      "rank": 26,
-      "category": "情感"
     },
     {
       "raw_hot": 30465,
@@ -7321,14 +7393,6 @@
       "onboard_time": 1771279095,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 25823,
-      "num": 166128,
-      "word": "杨雨光用AI点外卖没用千问免单卡",
-      "onboard_time": 1771317200,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 25766,
@@ -7547,6 +7611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 19929,
+      "num": 639953,
+      "word": "春节坚守岗位的人",
+      "onboard_time": 1771318580,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19845,
       "num": 84262,
       "word": "巴厘岛溺亡男子朋友称海滩无警示",
@@ -7649,6 +7721,14 @@
       "onboard_time": 1771095135,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 18613,
+      "num": 213390,
+      "word": "千问请我看春节档第一场电影",
+      "onboard_time": 1771312519,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 18305,
@@ -7784,6 +7864,14 @@
       "word": "这届年轻人过年开始整顿年货了",
       "onboard_time": 1771308321,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16659,
+      "num": 212252,
+      "word": "春节为何定在正月初一",
+      "onboard_time": 1771318821,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -7937,14 +8025,6 @@
       "onboard_time": 1771308682,
       "rank": 38,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 5702,
-      "num": 639953,
-      "word": "春节坚守岗位的人",
-      "onboard_time": 1771318580,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 2105,
