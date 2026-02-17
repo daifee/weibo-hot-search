@@ -1,0 +1,410 @@
+{
+  "runTime": 1771318670363,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 865303,
+        "num": 1138448,
+        "word": "星河入梦 黑马",
+        "onboard_time": 1771310480,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 264560,
+        "num": 807966,
+        "word": "大年初一不能做哪些事",
+        "onboard_time": 1771311501,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 5702,
+        "num": 639953,
+        "word": "春节坚守岗位的人",
+        "onboard_time": 1771318580,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1191255,
+        "num": 609839,
+        "word": "沈腾说错词自责打了半宿掼蛋",
+        "onboard_time": 1771315100,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 188304,
+        "num": 426442,
+        "word": "大年初一机票价格腰斩",
+        "onboard_time": 1771315520,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 394432,
+        "num": 394432,
+        "word": "爸妈来后冰箱都变老了",
+        "onboard_time": 1771315700,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 353230,
+        "num": 353230,
+        "word": "惊蛰无声",
+        "onboard_time": 1771291283,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 292851,
+        "num": 292851,
+        "word": "李昀锐扛住了春晚镜头1分钟",
+        "onboard_time": 1771312640,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229512,
+        "num": 229512,
+        "word": "家里最没用的把最受宠的吵醒了",
+        "onboard_time": 1771314740,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 44504,
+        "num": 228208,
+        "word": "宇树今年目标出货量1至2万台",
+        "onboard_time": 1771299501,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 450506,
+        "num": 227853,
+        "word": "央妈不会找王一博赔地板吧",
+        "onboard_time": 1771296141,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 346391,
+        "num": 225706,
+        "word": "王菲连续两年带火小众耳环",
+        "onboard_time": 1771303941,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162827,
+        "num": 223039,
+        "word": "俄罗斯民众冒雪看春晚",
+        "onboard_time": 1771314319,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 8895,
+        "num": 222801,
+        "word": "天南海北喊出同一声过年好",
+        "onboard_time": 1771318279,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221330,
+        "num": 221330,
+        "word": "刘宇宁 包宿哥",
+        "onboard_time": 1771315340,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 320334,
+        "num": 220976,
+        "word": "王一博攀岩拜年",
+        "onboard_time": 1771316358,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135503,
+        "num": 220791,
+        "word": "开始吃剩菜",
+        "onboard_time": 1771302321,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 96834,
+        "num": 220316,
+        "word": "猫 死腿快跑啊",
+        "onboard_time": 1771311020,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 36490,
+        "num": 220131,
+        "word": "迪奥红运开年",
+        "onboard_time": 1771315520,
+        "rank": 18,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 75136,
+        "num": 219445,
+        "word": "男生回应春节上门喂猫爆赚16万",
+        "onboard_time": 1771294942,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219402,
+        "num": 219402,
+        "word": "飞驰人生3",
+        "onboard_time": 1771295842,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 358236,
+        "num": 218017,
+        "word": "王楚然春晚20秒破2亿",
+        "onboard_time": 1771312880,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 68641,
+        "num": 214016,
+        "word": "北京台春晚官宣节目单",
+        "onboard_time": 1771293442,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 213447,
+        "num": 213447,
+        "word": "红包",
+        "onboard_time": 1771290862,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201081,
+        "num": 201081,
+        "word": "镖人",
+        "onboard_time": 1771270935,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 59537,
+        "num": 194087,
+        "word": "iPhone18ProMax或无重大更新",
+        "onboard_time": 1771307962,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 30747,
+        "num": 193336,
+        "word": "给爸妈换头我是认真的",
+        "onboard_time": 1771316300,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 192993,
+        "num": 192993,
+        "word": "飞驰人生3口碑两极分化",
+        "onboard_time": 1771310780,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 188702,
+        "num": 188702,
+        "word": "甜馨跟爸爸爷爷奶奶一起过年",
+        "onboard_time": 1771318220,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44467,
+        "num": 178777,
+        "word": "国防部发文时刻准备着",
+        "onboard_time": 1771305861,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 309533,
+        "num": 177057,
+        "word": "王楚然一脸懵不像演的",
+        "onboard_time": 1771317558,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171956,
+        "num": 171956,
+        "word": "春晚小品讽刺拉满尺度不小",
+        "onboard_time": 1771311441,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 75535,
+        "num": 170313,
+        "word": "樊振东新年吉祥话",
+        "onboard_time": 1771318279,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169475,
+        "num": 169475,
+        "word": "王玉雯合照堪称小型春晚聚会",
+        "onboard_time": 1771316661,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69955,
+        "num": 169334,
+        "word": "千问没有免单卡也能天天减免",
+        "onboard_time": 1771310001,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 19173,
+        "num": 167969,
+        "word": "自由式滑雪女子空中技巧预赛",
+        "onboard_time": 1771317200,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25823,
+        "num": 166128,
+        "word": "杨雨光用AI点外卖没用千问免单卡",
+        "onboard_time": 1771317200,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40325,
+        "num": 166023,
+        "word": "全家晒千问战绩",
+        "onboard_time": 1771315759,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 32430,
+        "num": 164809,
+        "word": "易烊千玺的眼睛",
+        "onboard_time": 1771318161,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 55718,
+        "num": 163423,
+        "word": "春晚第一眼没认出这是胡兵",
+        "onboard_time": 1771317500,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 55770,
+        "num": 161821,
+        "word": "10万元现金被娃当垃圾扔掉",
+        "onboard_time": 1771308261,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161592,
+        "num": 161592,
+        "word": "时代少年团红包",
+        "onboard_time": 1771311020,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132461,
+        "num": 132461,
+        "word": "丁禹兮cos白龙马",
+        "onboard_time": 1771314501,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52968,
+        "num": 108947,
+        "word": "家里的猫会开门把大家全救了",
+        "onboard_time": 1771314980,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 108737,
+        "num": 108737,
+        "word": "镖人第一波反馈",
+        "onboard_time": 1771316899,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 107100,
+        "num": 107100,
+        "word": "飞驰人生3 没彩蛋",
+        "onboard_time": 1771317680,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 23185,
+        "num": 103032,
+        "word": "马年祝你马上有好运",
+        "onboard_time": 1771317558,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101337,
+        "num": 101337,
+        "word": "票房",
+        "onboard_time": 1771304181,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 42466,
+        "num": 100990,
+        "word": "中国速滑男队再战团体追逐",
+        "onboard_time": 1771318100,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34910,
+        "num": 100455,
+        "word": "马宝宝出生",
+        "onboard_time": 1771293681,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#祝福大家新的一年一切都好好上加好#"
+    }
+  }
+}
