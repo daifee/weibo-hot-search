@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1771385058922,
+  "endTime": 1771390885991,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -1771,6 +1771,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 984491,
+      "num": 107959,
+      "word": "娜然与霍家父子同游意大利",
+      "onboard_time": 1771387698,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 983065,
       "num": 596728,
       "word": "TOP不解散不单飞",
@@ -3473,6 +3481,14 @@
       "onboard_time": 1770014060,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 682251,
+      "num": 437412,
+      "word": "沈腾看似鼓掌实则扔橘子皮",
+      "onboard_time": 1771388059,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 681675,
@@ -6177,6 +6193,14 @@
       "onboard_time": 1770789980,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 460038,
+      "num": 1073606,
+      "word": "镖人口碑",
+      "onboard_time": 1771382418,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 459644,
@@ -9747,6 +9771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 326818,
+      "num": 219008,
+      "word": "过年期间的胃",
+      "onboard_time": 1771385839,
+      "rank": 5,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 326704,
       "num": 283349,
       "word": "杨紫都演妈妈了",
@@ -9777,14 +9809,6 @@
       "onboard_time": 1770040944,
       "rank": 23,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 325772,
-      "num": 749344,
-      "word": "镖人口碑",
-      "onboard_time": 1771382418,
-      "rank": 44,
-      "category": "电影"
     },
     {
       "raw_hot": 325559,
@@ -11043,6 +11067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 297408,
+      "num": 754702,
+      "word": "大年初二不午睡",
+      "onboard_time": 1771381218,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 297178,
       "num": 195347,
       "word": "王楚然演技",
@@ -11209,6 +11241,14 @@
       "onboard_time": 1770779119,
       "rank": 9,
       "category": "军事"
+    },
+    {
+      "raw_hot": 293531,
+      "num": 218405,
+      "word": "刘浩存 你就是有天赋",
+      "onboard_time": 1771388899,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 293371,
@@ -12177,6 +12217,14 @@
       "onboard_time": 1770563302,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 271104,
+      "num": 136535,
+      "word": "拉宏桑春晚后台探班 没有一秒不好笑",
+      "onboard_time": 1771383979,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 270991,
@@ -15091,6 +15139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 220201,
+      "num": 220201,
+      "word": "谷爱凌 顶级alpha",
+      "onboard_time": 1771382358,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 220100,
       "num": 141356,
       "word": "太平年结局每个人都不得善终",
@@ -15697,6 +15753,14 @@
       "onboard_time": 1770082999,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 211331,
+      "num": 211331,
+      "word": "成何体统大结局",
+      "onboard_time": 1771387938,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 211109,
@@ -16752,6 +16816,14 @@
       "word": "肖战这和演唱会现场有什么区别",
       "onboard_time": 1771377621,
       "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 194960,
+      "num": 129754,
+      "word": "王楚然出圈镜头",
+      "onboard_time": 1771383739,
+      "rank": 32,
       "category": "综艺"
     },
     {
@@ -17811,14 +17883,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 179480,
-      "num": 179480,
-      "word": "谷爱凌 顶级alpha",
-      "onboard_time": 1771382358,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 179302,
       "num": 179302,
       "word": "肖战再次拿下奢牌新季首秀",
@@ -18491,6 +18555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 171408,
+      "num": 130846,
+      "word": "女子回应回娘家只需1秒钟",
+      "onboard_time": 1771386439,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 171231,
       "num": 171231,
       "word": "宋亚轩刘耀文一起滑雪",
@@ -18585,14 +18657,6 @@
       "onboard_time": 1771035020,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 170279,
-      "num": 83950,
-      "word": "拉宏桑春晚后台探班 没有一秒不好笑",
-      "onboard_time": 1771383979,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 170167,
@@ -20211,6 +20275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 151466,
+      "num": 126871,
+      "word": "大侦探11开播",
+      "onboard_time": 1771389138,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 151384,
       "num": 151384,
       "word": "哥哥安抚腮腺炎弟弟得知传染秒变脸",
@@ -20753,14 +20825,6 @@
       "onboard_time": 1770942679,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 147246,
-      "num": 147246,
-      "word": "大年初二不午睡",
-      "onboard_time": 1771381218,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 146936,
@@ -23875,6 +23939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 125687,
+      "num": 125687,
+      "word": "闲置1年的6米农村大炕过年睡满了",
+      "onboard_time": 1771389678,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 125650,
       "num": 241219,
       "word": "唐宫姚安娜身份果然不简单",
@@ -25427,6 +25499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 117455,
+      "num": 104282,
+      "word": "飞驰人生3 爽片",
+      "onboard_time": 1771388598,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 117432,
       "num": 117432,
       "word": "爱泼斯坦别墅内老虎标本栩栩如生",
@@ -25673,6 +25753,14 @@
       "onboard_time": 1770472582,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 116243,
+      "num": 100670,
+      "word": "一部短剧凑齐七个男妲己",
+      "onboard_time": 1771388959,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 116237,
@@ -26649,6 +26737,14 @@
       "onboard_time": 1771073121,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111755,
+      "num": 111755,
+      "word": "i人的过年现状",
+      "onboard_time": 1771387280,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 111731,
@@ -28203,6 +28299,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 105533,
+      "num": 80781,
+      "word": "薛凯琪过年45了",
+      "onboard_time": 1771387578,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 105532,
       "num": 101813,
       "word": "丑照全在骑手的手机里",
@@ -28265,6 +28369,14 @@
       "onboard_time": 1770411853,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 105422,
+      "num": 80780,
+      "word": "朱一龙梦男",
+      "onboard_time": 1771389199,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 105360,
@@ -29017,14 +29129,6 @@
       "onboard_time": 1770794901,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 102801,
-      "num": 83582,
-      "word": "王楚然出圈镜头",
-      "onboard_time": 1771383739,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 102783,
@@ -30185,6 +30289,14 @@
       "onboard_time": 1770731602,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 98620,
+      "num": 80746,
+      "word": "电影惊蛰无声",
+      "onboard_time": 1771099694,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 98608,
@@ -32979,6 +33091,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 89620,
+      "num": 80743,
+      "word": "猫 你没有自己的家吗",
+      "onboard_time": 1771389259,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 89609,
       "num": 89609,
       "word": "曼联vs热刺",
@@ -34963,6 +35083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 83817,
+      "num": 80732,
+      "word": "蓝溪镇君清话",
+      "onboard_time": 1771390221,
+      "rank": 33,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 83803,
       "num": 95035,
       "word": "超负荷的县城学校挤满了疲惫的师生",
@@ -36011,6 +36139,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 80729,
+      "num": 80729,
+      "word": "飞驰人生3票房或超50亿",
+      "onboard_time": 1771390459,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 80717,
       "num": 214078,
       "word": "凌晨4点起床吃年夜饭是什么体验",
@@ -36521,6 +36657,14 @@
       "onboard_time": 1770424519,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 79649,
+      "num": 79649,
+      "word": "选择困难症最该有的饭搭子",
+      "onboard_time": 1771390398,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 79590,
@@ -37195,6 +37339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 77350,
+      "num": 77350,
+      "word": "谷爱凌的黄金起跳角拿下近乎完美高分",
+      "onboard_time": 1771387459,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 77341,
       "num": 77341,
       "word": "苏新皓 棉花娃娃最严厉的父亲",
@@ -37252,7 +37404,7 @@
     },
     {
       "raw_hot": 77170,
-      "num": 77170,
+      "num": 80766,
       "word": "小主人给狗狗拜年曾落水被狗救上岸",
       "onboard_time": 1771383858,
       "rank": 45,
@@ -37753,6 +37905,14 @@
       "onboard_time": 1771148780,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 75753,
+      "num": 75753,
+      "word": "给馒头抽真空",
+      "onboard_time": 1771389621,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 75618,
@@ -38275,6 +38435,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 73928,
+      "num": 73928,
+      "word": "沈腾选王安宇演自己是搓子里拔大个",
+      "onboard_time": 1771386860,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 73853,
       "num": 73853,
       "word": "2025体育十大热搜运动员",
@@ -38729,6 +38897,14 @@
       "onboard_time": 1770483621,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 71720,
+      "num": 71720,
+      "word": "南方过年vs北方过年",
+      "onboard_time": 1771387459,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 71636,
@@ -39265,6 +39441,14 @@
       "onboard_time": 1769916621,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 69317,
+      "num": 69317,
+      "word": "山西人不语只是一味在阳台上安插座",
+      "onboard_time": 1771388839,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 69265,
@@ -40035,6 +40219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 65898,
+      "num": 65898,
+      "word": "怀疑老家的床有魔",
+      "onboard_time": 1771388539,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 65838,
       "num": 132852,
       "word": "宋威龙分享手机里的私藏照片",
@@ -40395,6 +40587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 64371,
+      "num": 64371,
+      "word": "李云霄演的燕子娘",
+      "onboard_time": 1771390819,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 64356,
       "num": 64356,
       "word": "老款小孩",
@@ -40521,6 +40721,14 @@
       "onboard_time": 1771115178,
       "rank": 48,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 63779,
+      "num": 63779,
+      "word": "豆包的心眼子",
+      "onboard_time": 1771387459,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 63677,
@@ -40753,6 +40961,14 @@
       "onboard_time": 1770013760,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 62651,
+      "num": 62651,
+      "word": "罗小黑雨水节气图是玄离",
+      "onboard_time": 1771388059,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 62643,
@@ -42527,6 +42743,14 @@
       "num": 157801,
       "word": "男子揣10年前和前女友情书骑行回家",
       "onboard_time": 1770825741,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 51844,
+      "num": 109202,
+      "word": "一大批年轻人独自出国旅行过年",
+      "onboard_time": 1771390039,
       "rank": 19,
       "category": "民生新闻"
     },
@@ -46339,6 +46563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 32023,
+      "num": 598840,
+      "word": "2026春节消费迎来开门红",
+      "onboard_time": 1771386918,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32012,
       "num": 173668,
       "word": "千人在线给Seedance2.0提意见",
@@ -49291,14 +49523,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 19200,
-      "num": 26271,
-      "word": "电影惊蛰无声",
-      "onboard_time": 1771099694,
-      "rank": 41,
-      "category": "电影"
-    },
-    {
       "raw_hot": 19195,
       "num": 178181,
       "word": "旅客乘摆渡车往返两次仍未能上飞机",
@@ -49545,6 +49769,14 @@
       "onboard_time": 1770439580,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 18344,
+      "num": 80759,
+      "word": "又长一岁也要元气满满",
+      "onboard_time": 1771387578,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18305,
@@ -50835,6 +51067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 12538,
+      "num": 68077,
+      "word": "春节AI嘴替已上线",
+      "onboard_time": 1771387759,
+      "rank": 43,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 12416,
       "num": 223518,
       "word": "徐梦桃本命年再战冬奥",
@@ -51551,6 +51791,9 @@
     },
     {
       "word": "#总书记的马年祝福#"
+    },
+    {
+      "word": "#接收总书记的新春祝福#"
     }
   ]
 }
