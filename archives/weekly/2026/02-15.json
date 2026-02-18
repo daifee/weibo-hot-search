@@ -1,6 +1,6 @@
 {
   "startTime": 1771087248939,
-  "endTime": 1771422466092,
+  "endTime": 1771426504911,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -617,6 +617,14 @@
       "onboard_time": 1771312880,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1197988,
+      "num": 1352301,
+      "word": "徐梦桃 文能浪姐唱跳武能冬奥夺冠",
+      "onboard_time": 1771424782,
+      "rank": 1,
+      "category": "体育,综艺"
     },
     {
       "raw_hot": 1191255,
@@ -2196,7 +2204,7 @@
     },
     {
       "raw_hot": 406219,
-      "num": 174735,
+      "num": 331050,
       "word": "苏翊鸣教练双膝跪地",
       "onboard_time": 1771420704,
       "rank": 30,
@@ -2984,6 +2992,14 @@
       "word": "27岁乡村女教师相亲20次",
       "onboard_time": 1771132340,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 300991,
+      "num": 155721,
+      "word": "台湾女子被臭豆腐店熏到焦虑拔头发",
+      "onboard_time": 1771421964,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -4491,6 +4507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190800,
+      "num": 190800,
+      "word": "惠英红 姐别累着但也别闲着",
+      "onboard_time": 1771415722,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 189658,
       "num": 619875,
       "word": "升温后有东北人500斤年货无处安放",
@@ -4603,6 +4627,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 183103,
+      "num": 183103,
+      "word": "奖牌榜",
+      "onboard_time": 1771422983,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 182488,
       "num": 182488,
       "word": "TF家族新音纪录片",
@@ -4665,14 +4697,6 @@
       "onboard_time": 1771170261,
       "rank": 41,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 177604,
-      "num": 174205,
-      "word": "惠英红 姐别累着但也别闲着",
-      "onboard_time": 1771415722,
-      "rank": 26,
-      "category": "电影"
     },
     {
       "raw_hot": 177591,
@@ -4771,6 +4795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171839,
+      "num": 171839,
+      "word": "孔凡钰 可惜",
+      "onboard_time": 1771422324,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 171408,
       "num": 131284,
       "word": "女子回应回娘家只需1秒钟",
@@ -4851,6 +4883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 168391,
+      "num": 128365,
+      "word": "镖人 对吴京黑转BLACKPINK",
+      "onboard_time": 1771426462,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 168014,
       "num": 168014,
       "word": "家政大姐带4个空瓶回家过年",
@@ -4881,14 +4921,6 @@
       "onboard_time": 1771301961,
       "rank": 37,
       "category": "电影"
-    },
-    {
-      "raw_hot": 167250,
-      "num": 167250,
-      "word": "孔凡钰 可惜",
-      "onboard_time": 1771422324,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 167242,
@@ -5443,6 +5475,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 142263,
+      "num": 142263,
+      "word": "中储粮平仓机器人问世",
+      "onboard_time": 1771423703,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 141431,
       "num": 190534,
       "word": "双胞胎姐姐 我将防守你每一步动作",
@@ -5739,6 +5779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131977,
+      "num": 131977,
+      "word": "年入35万扛楼小伙回应买车质疑",
+      "onboard_time": 1771423283,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 131575,
       "num": 127663,
       "word": "穆祉丞小穆骑士",
@@ -5859,12 +5907,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 128616,
+      "num": 128616,
+      "word": "澳大利亚 空中技巧",
+      "onboard_time": 1771425082,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 127697,
       "num": 676662,
       "word": "13个00后发小给彼此父母磕头拜年",
       "onboard_time": 1771326023,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127646,
+      "num": 127646,
+      "word": "徐梦桃 王心迪",
+      "onboard_time": 1771425561,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 127605,
@@ -6307,6 +6371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 113404,
+      "num": 113404,
+      "word": "中国国家队祝贺徐梦桃卫冕夺金",
+      "onboard_time": 1771424302,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 113296,
       "num": 97651,
       "word": "王楚然美到成何体统",
@@ -6361,6 +6433,14 @@
       "onboard_time": 1771413021,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 111846,
+      "num": 111846,
+      "word": "教练说苏翊鸣米兰夺金前不能谈恋爱",
+      "onboard_time": 1771425626,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 111808,
@@ -6699,6 +6779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 104360,
+      "num": 104360,
+      "word": "徐梦桃回应夺金",
+      "onboard_time": 1771422925,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 104138,
       "num": 169545,
       "word": "千问在春晚当起了恋爱军师",
@@ -6873,6 +6961,14 @@
       "onboard_time": 1771159761,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 99813,
+      "num": 99813,
+      "word": "中国队已集齐奖牌九宫格",
+      "onboard_time": 1771425561,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 99748,
@@ -7059,6 +7155,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 95674,
+      "num": 105752,
+      "word": "千玺听到粉丝说他总演小苦瓜的反应",
+      "onboard_time": 1771425443,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 95533,
       "num": 81845,
       "word": "春晚看迪丽热巴看入迷了",
@@ -7145,6 +7249,14 @@
       "onboard_time": 1771220184,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 91761,
+      "num": 155549,
+      "word": "中国香港居民在北海道遇袭",
+      "onboard_time": 1771422084,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 91723,
@@ -7241,6 +7353,14 @@
       "onboard_time": 1771217844,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 89946,
+      "num": 89946,
+      "word": "徐梦桃金牌采访先喊口号",
+      "onboard_time": 1771426342,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 89771,
@@ -9107,14 +9227,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 62288,
-      "num": 155721,
-      "word": "台湾女子被臭豆腐店熏到焦虑拔头发",
-      "onboard_time": 1771421964,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 62183,
       "num": 62183,
       "word": "张瑞阳女单短节目59.38分",
@@ -9353,6 +9465,14 @@
       "onboard_time": 1771241787,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 57498,
+      "num": 191850,
+      "word": "徐梦桃让世界看见中国红",
+      "onboard_time": 1771423283,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 57319,
@@ -10219,14 +10339,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 40398,
-      "num": 155549,
-      "word": "中国香港居民在北海道遇袭",
-      "onboard_time": 1771422084,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 40366,
       "num": 40366,
       "word": "三角洲",
@@ -10305,6 +10417,14 @@
       "onboard_time": 1771235724,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37789,
+      "num": 105861,
+      "word": "刘诗诗劝观众妈妈",
+      "onboard_time": 1771425743,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 37725,
