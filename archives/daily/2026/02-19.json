@@ -1,6 +1,6 @@
 {
   "startTime": 1771430429513,
-  "endTime": 1771430429513,
+  "endTime": 1771431488584,
   "band_list": [
     {
       "raw_hot": 1323093,
@@ -27,6 +27,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 837082,
+      "num": 138651,
+      "word": "酷滕 双取",
+      "onboard_time": 1771428562,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 676858,
       "num": 226660,
       "word": "镖人 对吴京黑转BLACKPINK",
@@ -41,14 +49,6 @@
       "onboard_time": 1771428382,
       "rank": 11,
       "category": "体育"
-    },
-    {
-      "raw_hot": 639432,
-      "num": 138651,
-      "word": "酷滕 双取",
-      "onboard_time": 1771428562,
-      "rank": 20,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 613014,
@@ -67,19 +67,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 440186,
+      "num": 440186,
+      "word": "苏翊鸣祝贺徐梦桃",
+      "onboard_time": 1771428500,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 390415,
       "num": 390415,
       "word": "中国队米兰冬奥首金",
       "onboard_time": 1771415905,
       "rank": 6,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 366638,
-      "num": 366638,
-      "word": "苏翊鸣祝贺徐梦桃",
-      "onboard_time": 1771428500,
-      "rank": 7,
       "category": "体育"
     },
     {
@@ -163,6 +163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 128336,
+      "num": 128336,
+      "word": "飞驰人生3",
+      "onboard_time": 1771423103,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 117566,
       "num": 117566,
       "word": "怪不得叫膨胀螺丝",
@@ -187,11 +195,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 100914,
-      "num": 100914,
-      "word": "飞驰人生3",
-      "onboard_time": 1771423103,
-      "rank": 26,
+      "raw_hot": 111859,
+      "num": 111859,
+      "word": "成何体统",
+      "onboard_time": 1771416565,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 110237,
+      "num": 110237,
+      "word": "星河入梦",
+      "onboard_time": 1771428801,
+      "rank": 29,
       "category": "电影"
     },
     {
@@ -203,11 +219,11 @@
       "category": "电影"
     },
     {
-      "raw_hot": 98385,
-      "num": 98385,
-      "word": "星河入梦",
-      "onboard_time": 1771428801,
-      "rank": 29,
+      "raw_hot": 97782,
+      "num": 716026,
+      "word": "春节档总票房已破22亿",
+      "onboard_time": 1771428321,
+      "rank": 2,
       "category": "电影"
     },
     {
@@ -243,12 +259,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 90847,
-      "num": 716026,
-      "word": "春节档总票房已破22亿",
-      "onboard_time": 1771428321,
-      "rank": 2,
-      "category": "电影"
+      "raw_hot": 94529,
+      "num": 94529,
+      "word": "徐梦桃说没法冷静",
+      "onboard_time": 1771427483,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 92948,
+      "num": 92948,
+      "word": "苏翊鸣回应中国队一天两金",
+      "onboard_time": 1771429461,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 89599,
@@ -283,27 +307,11 @@
       "category": "情感"
     },
     {
-      "raw_hot": 87634,
-      "num": 87634,
-      "word": "徐梦桃说没法冷静",
-      "onboard_time": 1771427483,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 86897,
       "num": 86897,
       "word": "徐梦桃说需要继续保持专注",
       "onboard_time": 1771417704,
       "rank": 39,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 86725,
-      "num": 86725,
-      "word": "苏翊鸣回应中国队一天两金",
-      "onboard_time": 1771429461,
-      "rank": 40,
       "category": "体育"
     },
     {
@@ -323,8 +331,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 83348,
-      "num": 83348,
+      "raw_hot": 85888,
+      "num": 85888,
       "word": "中国香港居民在北海道遇袭",
       "onboard_time": 1771422084,
       "rank": 43,
@@ -337,14 +345,6 @@
       "onboard_time": 1771423163,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 79442,
-      "num": 79442,
-      "word": "成何体统",
-      "onboard_time": 1771416565,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 78759,
@@ -361,6 +361,14 @@
       "onboard_time": 1771409300,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 72292,
+      "num": 72292,
+      "word": "徐梦桃真了不起",
+      "onboard_time": 1771430900,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 71931,
@@ -401,6 +409,22 @@
       "onboard_time": 1771427301,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 35388,
+      "num": 128371,
+      "word": "被冠军妈妈的育儿观狠狠圈粉",
+      "onboard_time": 1771430781,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 10512,
+      "num": 575763,
+      "word": "00后新兵有啥心愿",
+      "onboard_time": 1771419202,
+      "rank": 2,
+      "category": "军事"
     }
   ],
   "hotgov_list": [

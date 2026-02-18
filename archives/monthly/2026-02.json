@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1771430429513,
+  "endTime": 1771431488584,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -2563,6 +2563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 837082,
+      "num": 138651,
+      "word": "酷滕 双取",
+      "onboard_time": 1771428562,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 835339,
       "num": 1133654,
       "word": "躲春",
@@ -4055,14 +4063,6 @@
       "num": 639897,
       "word": "杨幂辛芷蕾杨紫坐一起",
       "onboard_time": 1770291745,
-      "rank": 20,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 639432,
-      "num": 138651,
-      "word": "酷滕 双取",
-      "onboard_time": 1771428562,
       "rank": 20,
       "category": "作品衍生"
     },
@@ -6843,6 +6843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 440186,
+      "num": 440186,
+      "word": "苏翊鸣祝贺徐梦桃",
+      "onboard_time": 1771428500,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 439546,
       "num": 439546,
       "word": "穆祉丞高会 落叶归根",
@@ -8800,14 +8808,6 @@
       "word": "德约科维奇vs阿尔卡拉斯",
       "onboard_time": 1769936302,
       "rank": 8,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 366638,
-      "num": 366638,
-      "word": "苏翊鸣祝贺徐梦桃",
-      "onboard_time": 1771428500,
-      "rank": 7,
       "category": "体育"
     },
     {
@@ -31851,6 +31851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 97782,
+      "num": 716026,
+      "word": "春节档总票房已破22亿",
+      "onboard_time": 1771428321,
+      "rank": 2,
+      "category": "电影"
+    },
+    {
       "raw_hot": 97770,
       "num": 97770,
       "word": "花样滑冰团体赛",
@@ -33395,6 +33403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 92948,
+      "num": 92948,
+      "word": "苏翊鸣回应中国队一天两金",
+      "onboard_time": 1771429461,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 92904,
       "num": 95108,
       "word": "刘少昂混接赛后安慰队友",
@@ -34057,14 +34073,6 @@
       "onboard_time": 1771075882,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 90847,
-      "num": 716026,
-      "word": "春节档总票房已破22亿",
-      "onboard_time": 1771428321,
-      "rank": 2,
-      "category": "电影"
     },
     {
       "raw_hot": 90841,
@@ -35617,14 +35625,6 @@
       "onboard_time": 1771216582,
       "rank": 16,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 86725,
-      "num": 86725,
-      "word": "苏翊鸣回应中国队一天两金",
-      "onboard_time": 1771429461,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 86667,
@@ -40377,6 +40377,14 @@
       "onboard_time": 1770035003,
       "rank": 49,
       "category": "网红"
+    },
+    {
+      "raw_hot": 72292,
+      "num": 72292,
+      "word": "徐梦桃真了不起",
+      "onboard_time": 1771430900,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 72232,
@@ -47571,6 +47579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 35388,
+      "num": 128371,
+      "word": "被冠军妈妈的育儿观狠狠圈粉",
+      "onboard_time": 1771430781,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 35357,
       "num": 35357,
       "word": "流量不能凌驾于医疗伦理之上",
@@ -53145,6 +53161,14 @@
       "onboard_time": 1771233145,
       "rank": 36,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 10512,
+      "num": 575763,
+      "word": "00后新兵有啥心愿",
+      "onboard_time": 1771419202,
+      "rank": 2,
+      "category": "军事"
     },
     {
       "raw_hot": 10475,
