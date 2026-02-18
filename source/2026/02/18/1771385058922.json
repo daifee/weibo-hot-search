@@ -1,0 +1,410 @@
+{
+  "runTime": 1771385058922,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 382430,
+        "num": 1061188,
+        "word": "谷爱凌才是货真价实的夯爆了",
+        "onboard_time": 1771379779,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 325772,
+        "num": 749344,
+        "word": "镖人口碑",
+        "onboard_time": 1771382418,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 4682,
+        "num": 697926,
+        "word": "2026新春走基层",
+        "onboard_time": 1771249363,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 659220,
+        "num": 659220,
+        "word": "日本要当冤大头了",
+        "onboard_time": 1771382538,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 569551,
+        "num": 620331,
+        "word": "丞磊真的读了与妻书",
+        "onboard_time": 1771380140,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 612653,
+        "num": 612653,
+        "word": "大年初二不能做哪些事",
+        "onboard_time": 1771377621,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 317679,
+        "num": 317679,
+        "word": "B站春晚 夯",
+        "onboard_time": 1771335562,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 314120,
+        "num": 314120,
+        "word": "回老家后根本没有穿衣焦虑",
+        "onboard_time": 1771382299,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 229660,
+        "num": 229660,
+        "word": "中国速滑男团0.09秒绝杀",
+        "onboard_time": 1771377139,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204979,
+        "num": 204979,
+        "word": "刘诗诗 美人落泪",
+        "onboard_time": 1771379059,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 744452,
+        "num": 204898,
+        "word": "高市早苗内阁集体辞职",
+        "onboard_time": 1771374737,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 202144,
+        "num": 202144,
+        "word": "刘少昂林孝埈携手出战",
+        "onboard_time": 1771384038,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179480,
+        "num": 179480,
+        "word": "谷爱凌 顶级alpha",
+        "onboard_time": 1771382358,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150544,
+        "num": 150544,
+        "word": "肖战这和演唱会现场有什么区别",
+        "onboard_time": 1771377621,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24673,
+        "num": 139023,
+        "word": "千问让散装苏超具象化了",
+        "onboard_time": 1771383679,
+        "rank": 14,
+        "category": "综艺,互联网"
+      },
+      {
+        "raw_hot": 137069,
+        "num": 137069,
+        "word": "有游客大年初一捡漏机票出游",
+        "onboard_time": 1771380619,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132455,
+        "num": 132455,
+        "word": "大年初二不午睡",
+        "onboard_time": 1771381218,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130382,
+        "num": 130382,
+        "word": "谷爱凌说痛失2块金牌说法太荒谬",
+        "onboard_time": 1771371076,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125511,
+        "num": 125511,
+        "word": "谈恋爱要跟有少年气的人谈",
+        "onboard_time": 1771382358,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 111159,
+        "num": 111159,
+        "word": "李子柒在春晚后台手搓非遗饰品",
+        "onboard_time": 1771371197,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137749,
+        "num": 110539,
+        "word": "女子楼道晾晒16斤咸肉撒手没",
+        "onboard_time": 1771382719,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136735,
+        "num": 110203,
+        "word": "春晚总导演说贺花神非常非常难",
+        "onboard_time": 1771372396,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128885,
+        "num": 110031,
+        "word": "父亲去世摆摊卖对联男孩母亲发声",
+        "onboard_time": 1771372097,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109852,
+        "num": 109852,
+        "word": "刘三瞳回应抄袭",
+        "onboard_time": 1771378220,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126995,
+        "num": 104095,
+        "word": "小孩哥称在小区搞了2千多红包",
+        "onboard_time": 1771384038,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113296,
+        "num": 97651,
+        "word": "王楚然美到成何体统",
+        "onboard_time": 1771382358,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37229,
+        "num": 90386,
+        "word": "四士同堂的小品彩蛋埋在千问里",
+        "onboard_time": 1771380259,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87803,
+        "num": 87803,
+        "word": "全家忘带钥匙小猫用5分钟开门",
+        "onboard_time": 1771382418,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103837,
+        "num": 86727,
+        "word": "央视春晚直播总收视份额创13年来新高",
+        "onboard_time": 1771379359,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100770,
+        "num": 86586,
+        "word": "宇树科技CEO回应春晚款机器人",
+        "onboard_time": 1771377558,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84001,
+        "num": 84001,
+        "word": "全妈回应全红婵退役计划",
+        "onboard_time": 1771370296,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170279,
+        "num": 83950,
+        "word": "拉宏桑春晚后台探班 没有一秒不好笑",
+        "onboard_time": 1771383979,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102801,
+        "num": 83582,
+        "word": "王楚然出圈镜头",
+        "onboard_time": 1771383739,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99748,
+        "num": 82688,
+        "word": "镖人玉面鬼",
+        "onboard_time": 1771382959,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 81310,
+        "num": 81310,
+        "word": "王楠任主教练",
+        "onboard_time": 1771377800,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98988,
+        "num": 81277,
+        "word": "B站语言类节目 赢麻了",
+        "onboard_time": 1771340661,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95533,
+        "num": 80982,
+        "word": "春晚看迪丽热巴看入迷了",
+        "onboard_time": 1771381100,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 80330,
+        "num": 80330,
+        "word": "蓝溪镇完结",
+        "onboard_time": 1771382299,
+        "rank": 37,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 89304,
+        "num": 80274,
+        "word": "飞驰人生3成大年初一票房冠军",
+        "onboard_time": 1771383679,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 20317,
+        "num": 79775,
+        "word": "哪些菜名提到就馋了",
+        "onboard_time": 1771384038,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 88941,
+        "num": 79377,
+        "word": "成何体统",
+        "onboard_time": 1771383559,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86659,
+        "num": 78545,
+        "word": "陈小春父子三人共用一张脸",
+        "onboard_time": 1771378879,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 296210,
+        "num": 78321,
+        "word": "建议麻将桌全面禁止AI眼镜",
+        "onboard_time": 1771382480,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85512,
+        "num": 77914,
+        "word": "王菲化妆师改口问就是AI",
+        "onboard_time": 1771341381,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84181,
+        "num": 77200,
+        "word": "都穿亮片裙不告诉王玉雯",
+        "onboard_time": 1771346060,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77170,
+        "num": 77170,
+        "word": "小主人给狗狗拜年曾落水被狗救上岸",
+        "onboard_time": 1771383858,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74232,
+        "num": 74232,
+        "word": "王一博闪耀动起来春晚舞台TOP1",
+        "onboard_time": 1771382658,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 70684,
+        "num": 70684,
+        "word": "黄金白银大跌原因找到了",
+        "onboard_time": 1771379599,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 70217,
+        "num": 70217,
+        "word": "你说这是王安宇路演生图",
+        "onboard_time": 1771382838,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 64356,
+        "num": 64356,
+        "word": "老款小孩",
+        "onboard_time": 1771384940,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的马年祝福#"
+    }
+  }
+}

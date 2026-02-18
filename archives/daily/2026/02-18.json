@@ -1,6 +1,6 @@
 {
   "startTime": 1771344101416,
-  "endTime": 1771382715620,
+  "endTime": 1771385058922,
   "band_list": [
     {
       "raw_hot": 1618654,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 872871,
-      "num": 233362,
+      "num": 612653,
       "word": "大年初二不能做哪些事",
       "onboard_time": 1771377621,
       "rank": 5,
@@ -36,11 +36,27 @@
     },
     {
       "raw_hot": 807423,
-      "num": 121638,
+      "num": 204898,
       "word": "高市早苗内阁集体辞职",
       "onboard_time": 1771374737,
       "rank": 10,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 659220,
+      "num": 659220,
+      "word": "日本要当冤大头了",
+      "onboard_time": 1771382538,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 569551,
+      "num": 620331,
+      "word": "丞磊真的读了与妻书",
+      "onboard_time": 1771380140,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 503833,
@@ -67,14 +83,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 429185,
-      "num": 429185,
-      "word": "丞磊真的读了与妻书",
-      "onboard_time": 1771380140,
-      "rank": 3,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 419170,
       "num": 419170,
       "word": "B站小品 笑力竭了",
@@ -89,6 +97,14 @@
       "onboard_time": 1771341381,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 382430,
+      "num": 1061188,
+      "word": "谷爱凌才是货真价实的夯爆了",
+      "onboard_time": 1771379779,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 377322,
@@ -107,6 +123,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 325772,
+      "num": 749344,
+      "word": "镖人口碑",
+      "onboard_time": 1771382418,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 315972,
       "num": 157123,
       "word": "B站语言类节目 赢麻了",
@@ -115,12 +139,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 284075,
-      "num": 84651,
-      "word": "谷爱凌才是货真价实的夯爆了",
-      "onboard_time": 1771379779,
-      "rank": 30,
-      "category": "体育"
+      "raw_hot": 314120,
+      "num": 314120,
+      "word": "回老家后根本没有穿衣焦虑",
+      "onboard_time": 1771382299,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 296210,
+      "num": 90311,
+      "word": "建议麻将桌全面禁止AI眼镜",
+      "onboard_time": 1771382480,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 282826,
@@ -187,6 +219,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 204979,
+      "num": 204979,
+      "word": "刘诗诗 美人落泪",
+      "onboard_time": 1771379059,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 202144,
+      "num": 202144,
+      "word": "刘少昂林孝埈携手出战",
+      "onboard_time": 1771384038,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 196966,
       "num": 864019,
       "word": "速度滑冰",
@@ -219,12 +267,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 185230,
-      "num": 108160,
-      "word": "刘诗诗 美人落泪",
-      "onboard_time": 1771379059,
-      "rank": 12,
-      "category": "电影"
+      "raw_hot": 179480,
+      "num": 179480,
+      "word": "谷爱凌 顶级alpha",
+      "onboard_time": 1771382358,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 179039,
@@ -251,6 +299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 170279,
+      "num": 83950,
+      "word": "拉宏桑春晚后台探班 没有一秒不好笑",
+      "onboard_time": 1771383979,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 169135,
       "num": 124161,
       "word": "还是B站春晚敢演",
@@ -267,14 +323,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 163114,
-      "num": 90311,
-      "word": "建议麻将桌全面禁止AI眼镜",
-      "onboard_time": 1771382480,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 152931,
       "num": 152931,
       "word": "冬奥会露内衣品牌女选手引来广告商",
@@ -284,7 +332,7 @@
     },
     {
       "raw_hot": 152926,
-      "num": 90177,
+      "num": 110203,
       "word": "春晚总导演说贺花神非常非常难",
       "onboard_time": 1771372396,
       "rank": 30,
@@ -331,6 +379,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137749,
+      "num": 110539,
+      "word": "女子楼道晾晒16斤咸肉撒手没",
+      "onboard_time": 1771382719,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 137069,
+      "num": 137069,
+      "word": "有游客大年初一捡漏机票出游",
+      "onboard_time": 1771380619,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 134233,
       "num": 89082,
       "word": "陈小春父子三人共用一张脸",
@@ -339,12 +403,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 128885,
+      "num": 110031,
+      "word": "父亲去世摆摊卖对联男孩母亲发声",
+      "onboard_time": 1771372097,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 128313,
       "num": 128313,
       "word": "飞驰人生3票房",
       "onboard_time": 1771318821,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 126995,
+      "num": 104095,
+      "word": "小孩哥称在小区搞了2千多红包",
+      "onboard_time": 1771384038,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125511,
+      "num": 125511,
+      "word": "谈恋爱要跟有少年气的人谈",
+      "onboard_time": 1771382358,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 125097,
@@ -363,14 +451,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 117568,
-      "num": 87758,
-      "word": "父亲去世摆摊卖对联男孩母亲发声",
-      "onboard_time": 1771372097,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 116586,
       "num": 716873,
       "word": "李琰教练庆祝中国队铜牌",
@@ -385,6 +465,14 @@
       "onboard_time": 1771337482,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 113296,
+      "num": 97651,
+      "word": "王楚然美到成何体统",
+      "onboard_time": 1771382358,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 109394,
@@ -451,11 +539,27 @@
       "category": "电影"
     },
     {
+      "raw_hot": 103837,
+      "num": 86727,
+      "word": "央视春晚直播总收视份额创13年来新高",
+      "onboard_time": 1771379359,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 103614,
       "num": 88366,
       "word": "A市纸啊",
       "onboard_time": 1771344802,
       "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 102801,
+      "num": 83582,
+      "word": "王楚然出圈镜头",
+      "onboard_time": 1771383739,
+      "rank": 32,
       "category": "综艺"
     },
     {
@@ -467,14 +571,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 102249,
-      "num": 86251,
-      "word": "央视春晚直播总收视份额创13年来新高",
-      "onboard_time": 1771379359,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 100818,
       "num": 83225,
       "word": "七旬母亲坐客厅一夜未眠等女儿回家",
@@ -483,20 +579,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 98952,
-      "num": 98952,
-      "word": "有游客大年初一捡漏机票出游",
-      "onboard_time": 1771380619,
-      "rank": 13,
-      "category": "民生新闻"
+      "raw_hot": 99748,
+      "num": 82688,
+      "word": "镖人玉面鬼",
+      "onboard_time": 1771382959,
+      "rank": 33,
+      "category": "电影"
     },
     {
-      "raw_hot": 95824,
-      "num": 95824,
-      "word": "回老家后根本没有穿衣焦虑",
-      "onboard_time": 1771382299,
-      "rank": 16,
-      "category": "幽默"
+      "raw_hot": 95533,
+      "num": 81845,
+      "word": "春晚看迪丽热巴看入迷了",
+      "onboard_time": 1771381100,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 92992,
@@ -505,14 +601,6 @@
       "onboard_time": 1771338802,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 91903,
-      "num": 81845,
-      "word": "春晚看迪丽热巴看入迷了",
-      "onboard_time": 1771381100,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 90926,
@@ -539,12 +627,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 89304,
+      "num": 80274,
+      "word": "飞驰人生3成大年初一票房冠军",
+      "onboard_time": 1771383679,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 87908,
       "num": 118506,
       "word": "金价银价直线跳水",
       "onboard_time": 1771333101,
       "rank": 31,
       "category": "财经"
+    },
+    {
+      "raw_hot": 87803,
+      "num": 90573,
+      "word": "全家忘带钥匙小猫用5分钟开门",
+      "onboard_time": 1771382418,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 85854,
@@ -561,14 +665,6 @@
       "onboard_time": 1771343900,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 83824,
-      "num": 66948,
-      "word": "谷爱凌 顶级alpha",
-      "onboard_time": 1771382358,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 82946,
@@ -611,14 +707,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 80304,
-      "num": 80304,
-      "word": "谈恋爱要跟有少年气的人谈",
-      "onboard_time": 1771382358,
-      "rank": 36,
-      "category": "情感"
-    },
-    {
       "raw_hot": 79854,
       "num": 79854,
       "word": "蔡徐坤迪拜音乐节",
@@ -651,6 +739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 77170,
+      "num": 77170,
+      "word": "小主人给狗狗拜年曾落水被狗救上岸",
+      "onboard_time": 1771383858,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 76890,
       "num": 76890,
       "word": "埃及土耳其等8国联合声明",
@@ -675,20 +771,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 74717,
-      "num": 69913,
-      "word": "王楚然美到成何体统",
-      "onboard_time": 1771382358,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 74691,
       "num": 76432,
       "word": "全家没带钥匙猫咪开门一片哇声",
       "onboard_time": 1771343361,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 74232,
+      "num": 74232,
+      "word": "王一博闪耀动起来春晚舞台TOP1",
+      "onboard_time": 1771382658,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 71590,
@@ -699,12 +795,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 70122,
-      "num": 70122,
+      "raw_hot": 70684,
+      "num": 70684,
       "word": "黄金白银大跌原因找到了",
       "onboard_time": 1771379599,
       "rank": 42,
       "category": "财经"
+    },
+    {
+      "raw_hot": 70217,
+      "num": 70217,
+      "word": "你说这是王安宇路演生图",
+      "onboard_time": 1771382838,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 69784,
@@ -713,14 +817,6 @@
       "onboard_time": 1771342400,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 69697,
-      "num": 69697,
-      "word": "镖人口碑",
-      "onboard_time": 1771382418,
-      "rank": 44,
-      "category": "电影"
     },
     {
       "raw_hot": 69530,
@@ -739,20 +835,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 66754,
-      "num": 66754,
-      "word": "日本要当冤大头了",
-      "onboard_time": 1771382538,
-      "rank": 48,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 65004,
-      "num": 65004,
-      "word": "王一博闪耀动起来春晚舞台TOP1",
-      "onboard_time": 1771382658,
+      "raw_hot": 64356,
+      "num": 64356,
+      "word": "老款小孩",
+      "onboard_time": 1771384940,
       "rank": 49,
-      "category": "综艺"
+      "category": "情感"
     },
     {
       "raw_hot": 62183,
@@ -883,12 +971,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 36800,
-      "num": 90573,
-      "word": "全家忘带钥匙小猫用5分钟开门",
-      "onboard_time": 1771382418,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 37229,
+      "num": 90386,
+      "word": "四士同堂的小品彩蛋埋在千问里",
+      "onboard_time": 1771380259,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 35432,
@@ -897,14 +985,6 @@
       "onboard_time": 1771370716,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 34049,
-      "num": 89865,
-      "word": "四士同堂的小品彩蛋埋在千问里",
-      "onboard_time": 1771380259,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 32988,
@@ -939,6 +1019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 24673,
+      "num": 139023,
+      "word": "千问让散装苏超具象化了",
+      "onboard_time": 1771383679,
+      "rank": 14,
+      "category": "综艺,互联网"
+    },
+    {
       "raw_hot": 23049,
       "num": 79128,
       "word": "王楚然花神造型解析",
@@ -969,6 +1057,14 @@
       "onboard_time": 1771332082,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 20317,
+      "num": 79775,
+      "word": "哪些菜名提到就馋了",
+      "onboard_time": 1771384038,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 20253,
@@ -1028,7 +1124,7 @@
     },
     {
       "raw_hot": 5259,
-      "num": 684419,
+      "num": 697926,
       "word": "2026新春走基层",
       "onboard_time": 1771249363,
       "rank": 2,
