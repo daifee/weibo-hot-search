@@ -1,6 +1,6 @@
 {
   "startTime": 1771344101416,
-  "endTime": 1771405952304,
+  "endTime": 1771408740674,
   "band_list": [
     {
       "raw_hot": 1706962,
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 510165,
-      "num": 820072,
+      "num": 1061956,
       "word": "孩子存1000比你存20万利息高",
       "onboard_time": 1771395079,
       "rank": 1,
@@ -227,6 +227,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 361027,
+      "num": 187615,
+      "word": "写族谱发现祖上是正二品",
+      "onboard_time": 1771405519,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 346814,
       "num": 195479,
       "word": "我和papi酱的愿望是一样的",
@@ -249,6 +257,22 @@
       "onboard_time": 1771385839,
       "rank": 5,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 318410,
+      "num": 179735,
+      "word": "演出后台卫生巾",
+      "onboard_time": 1771405461,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 317819,
+      "num": 744930,
+      "word": "镖人",
+      "onboard_time": 1771396640,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 317180,
@@ -331,14 +355,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 276833,
-      "num": 276833,
-      "word": "镖人",
-      "onboard_time": 1771396640,
-      "rank": 17,
-      "category": "电影"
-    },
-    {
       "raw_hot": 271104,
       "num": 179819,
       "word": "拉宏桑春晚后台探班 没有一秒不好笑",
@@ -379,6 +395,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 252879,
+      "num": 241329,
+      "word": "朕与吴京何时有过嫌隙",
+      "onboard_time": 1771401320,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 252284,
       "num": 151529,
       "word": "瞿颖胡兵 为啥没在一起",
@@ -393,6 +417,14 @@
       "onboard_time": 1771400958,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 242132,
+      "num": 242132,
+      "word": "16个月宝宝拜年收红包当场验货",
+      "onboard_time": 1771405819,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 235968,
@@ -411,6 +443,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 231239,
+      "num": 192584,
+      "word": "俩人谈恋爱四个人烧脑",
+      "onboard_time": 1771404198,
+      "rank": 13,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 230809,
       "num": 230809,
       "word": "朱一龙梦男",
@@ -425,6 +465,14 @@
       "onboard_time": 1771346060,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 226970,
+      "num": 226970,
+      "word": "谷爱凌大跳台决赛第三跳前眼神",
+      "onboard_time": 1771407140,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 226060,
@@ -499,14 +547,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 200777,
-      "num": 192584,
-      "word": "俩人谈恋爱四个人烧脑",
-      "onboard_time": 1771404198,
-      "rank": 13,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 196966,
       "num": 864019,
       "word": "速度滑冰",
@@ -555,12 +595,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 191320,
-      "num": 176696,
-      "word": "朕与吴京何时有过嫌隙",
-      "onboard_time": 1771401320,
-      "rank": 35,
-      "category": "电影"
+      "raw_hot": 188300,
+      "num": 199494,
+      "word": "特朗普女儿伊万卡中文拜年",
+      "onboard_time": 1771404380,
+      "rank": 17,
+      "category": "国际时政"
     },
     {
       "raw_hot": 184315,
@@ -635,14 +675,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 167929,
-      "num": 199494,
-      "word": "特朗普女儿伊万卡中文拜年",
-      "onboard_time": 1771404380,
-      "rank": 17,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 163473,
       "num": 163473,
       "word": "全妈回应全红婵退役计划",
@@ -651,12 +683,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 163162,
+      "num": 163162,
+      "word": "镖人 武侠不死",
+      "onboard_time": 1771406179,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 159684,
+      "num": 159684,
+      "word": "党员干部春节期间打麻将违规吗",
+      "onboard_time": 1771406659,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 158654,
-      "num": 158654,
+      "num": 172154,
       "word": "柯基被老家的狗羞辱了",
       "onboard_time": 1771402520,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 156382,
+      "num": 187513,
+      "word": "Faker说成有钱人咯",
+      "onboard_time": 1771405098,
+      "rank": 16,
+      "category": "电竞"
     },
     {
       "raw_hot": 154745,
@@ -771,6 +827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 139001,
+      "num": 139001,
+      "word": "赖清德被喷溅呕吐物",
+      "onboard_time": 1771408401,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 137749,
       "num": 110539,
       "word": "女子楼道晾晒16斤咸肉撒手没",
@@ -851,6 +915,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 127851,
+      "num": 127851,
+      "word": "成何体统大结局 仓促",
+      "onboard_time": 1771407023,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 126995,
       "num": 104095,
       "word": "小孩哥称在小区搞了2千多红包",
@@ -891,12 +963,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 118046,
-      "num": 187513,
-      "word": "Faker说成有钱人咯",
+      "raw_hot": 118191,
+      "num": 118191,
+      "word": "飞驰人生3赢麻了",
       "onboard_time": 1771405098,
-      "rank": 16,
-      "category": "电竞"
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 117884,
@@ -923,6 +995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 114229,
+      "num": 157421,
+      "word": "徐梦桃第一跳89.29分",
+      "onboard_time": 1771408221,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 113296,
       "num": 97651,
       "word": "王楚然美到成何体统",
@@ -945,6 +1025,14 @@
       "onboard_time": 1771399400,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 110963,
+      "num": 110963,
+      "word": "TF家族 奔跑四",
+      "onboard_time": 1771408040,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 109394,
@@ -1083,6 +1171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 100721,
+      "num": 100721,
+      "word": "电影票房",
+      "onboard_time": 1771408160,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 99748,
       "num": 82688,
       "word": "镖人玉面鬼",
@@ -1115,6 +1211,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 96607,
+      "num": 96607,
+      "word": "黄景瑜关晓彤发小变对象",
+      "onboard_time": 1771408520,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 95533,
       "num": 81845,
       "word": "春晚看迪丽热巴看入迷了",
@@ -1137,14 +1241,6 @@
       "onboard_time": 1771338802,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 91410,
-      "num": 91410,
-      "word": "飞驰人生3赢麻了",
-      "onboard_time": 1771405098,
-      "rank": 48,
-      "category": "电影"
     },
     {
       "raw_hot": 90926,
@@ -1259,14 +1355,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 86577,
-      "num": 91481,
-      "word": "写族谱发现祖上是正二品",
-      "onboard_time": 1771405519,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 85921,
       "num": 92952,
       "word": "你家姑爷今天贡献了什么名场面",
@@ -1297,6 +1385,14 @@
       "onboard_time": 1771390221,
       "rank": 33,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 83381,
+      "num": 96271,
+      "word": "不要轻易尝试吃黄糕不嚼",
+      "onboard_time": 1771407621,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 83061,
@@ -1427,6 +1523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 77214,
+      "num": 95367,
+      "word": "这跟自己生的有什么区别",
+      "onboard_time": 1771405760,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 77170,
       "num": 102346,
       "word": "小主人给狗狗拜年曾落水被狗救上岸",
@@ -1481,6 +1585,14 @@
       "onboard_time": 1771343361,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 74260,
+      "num": 86868,
+      "word": "谷爱凌大雪中完成U池训练",
+      "onboard_time": 1771408701,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 74232,
@@ -1571,6 +1683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 68989,
+      "num": 103466,
+      "word": "朱一龙才是真景天",
+      "onboard_time": 1771408460,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 67795,
       "num": 67795,
       "word": "讨好型狗格",
@@ -1643,6 +1763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 62348,
+      "num": 103479,
+      "word": "喝不上酒的交警女婿发声",
+      "onboard_time": 1771407320,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 62183,
       "num": 62183,
       "word": "张瑞阳女单短节目59.38分",
@@ -1699,20 +1827,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 53626,
-      "num": 138758,
-      "word": "16个月宝宝拜年收红包当场验货",
-      "onboard_time": 1771405819,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 52931,
       "num": 52931,
       "word": "虞书欣云初令拜年照",
       "onboard_time": 1771342821,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 52137,
+      "num": 105954,
+      "word": "初二回娘家山路上全是拜年大军",
+      "onboard_time": 1771407380,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 50908,
@@ -1731,20 +1859,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 49932,
+      "num": 158676,
+      "word": "印度一大学拿中国机器狗冒充自研",
+      "onboard_time": 1771403299,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 49859,
       "num": 49859,
       "word": "蓝盈莹央视年度观众喜爱演员",
       "onboard_time": 1771372219,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 49635,
-      "num": 158676,
-      "word": "印度一大学拿中国机器狗冒充自研",
-      "onboard_time": 1771403299,
-      "rank": 38,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 47139,
@@ -1817,14 +1945,6 @@
       "onboard_time": 1771392379,
       "rank": 37,
       "category": "综艺,互联网"
-    },
-    {
-      "raw_hot": 42704,
-      "num": 179735,
-      "word": "演出后台卫生巾",
-      "onboard_time": 1771405461,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 42486,
@@ -2051,19 +2171,19 @@
       "category": "电影"
     },
     {
+      "raw_hot": 17154,
+      "num": 704906,
+      "word": "AI眼中的二十四节气",
+      "onboard_time": 1771381339,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 16805,
       "num": 102857,
       "word": "航司回应新年伊始机票价腰斩",
       "onboard_time": 1771401620,
       "rank": 24,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 16517,
-      "num": 704906,
-      "word": "AI眼中的二十四节气",
-      "onboard_time": 1771381339,
-      "rank": 2,
       "category": "民生新闻"
     },
     {

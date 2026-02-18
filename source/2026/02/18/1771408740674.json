@@ -1,0 +1,410 @@
+{
+  "runTime": 1771408740674,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 387227,
+        "num": 1061956,
+        "word": "孩子存1000比你存20万利息高",
+        "onboard_time": 1771395079,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 317819,
+        "num": 744930,
+        "word": "镖人",
+        "onboard_time": 1771396640,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 17154,
+        "num": 590827,
+        "word": "AI眼中的二十四节气",
+        "onboard_time": 1771381339,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 615128,
+        "num": 509694,
+        "word": "龙洋主持完春晚哭了",
+        "onboard_time": 1771393520,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242132,
+        "num": 242132,
+        "word": "16个月宝宝拜年收红包当场验货",
+        "onboard_time": 1771405819,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 356713,
+        "num": 242096,
+        "word": "贡菜是莴笋",
+        "onboard_time": 1771400958,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 252879,
+        "num": 241329,
+        "word": "朕与吴京何时有过嫌隙",
+        "onboard_time": 1771401320,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 249934,
+        "num": 239615,
+        "word": "诗幂",
+        "onboard_time": 1771395980,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 226970,
+        "num": 226970,
+        "word": "谷爱凌大跳台决赛第三跳前眼神",
+        "onboard_time": 1771407140,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188300,
+        "num": 188300,
+        "word": "特朗普女儿伊万卡中文拜年",
+        "onboard_time": 1771404380,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 361027,
+        "num": 187615,
+        "word": "写族谱发现祖上是正二品",
+        "onboard_time": 1771405519,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 358835,
+        "num": 186619,
+        "word": "高市早苗再当选日本首相",
+        "onboard_time": 1771394958,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 231239,
+        "num": 186395,
+        "word": "俩人谈恋爱四个人烧脑",
+        "onboard_time": 1771404198,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 184118,
+        "num": 184118,
+        "word": "看完惊蛰无声想掏垃圾桶",
+        "onboard_time": 1771402401,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 155217,
+        "num": 172154,
+        "word": "柯基被老家的狗羞辱了",
+        "onboard_time": 1771402520,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 163162,
+        "num": 163162,
+        "word": "镖人 武侠不死",
+        "onboard_time": 1771406179,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 318410,
+        "num": 161514,
+        "word": "演出后台卫生巾",
+        "onboard_time": 1771405461,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159684,
+        "num": 159684,
+        "word": "党员干部春节期间打麻将违规吗",
+        "onboard_time": 1771406659,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114229,
+        "num": 157421,
+        "word": "徐梦桃第一跳89.29分",
+        "onboard_time": 1771408221,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156382,
+        "num": 156382,
+        "word": "Faker说成有钱人咯",
+        "onboard_time": 1771405098,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 746320,
+        "num": 153724,
+        "word": "打麻将输7万4名牌友全获刑",
+        "onboard_time": 1771401199,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 343326,
+        "num": 153200,
+        "word": "娜然与霍家父子同游意大利",
+        "onboard_time": 1771387698,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205695,
+        "num": 151072,
+        "word": "我和papi酱的愿望是一样的",
+        "onboard_time": 1771400059,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148162,
+        "num": 148162,
+        "word": "过年不要一直穿睡衣",
+        "onboard_time": 1771393279,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 93081,
+        "num": 145160,
+        "word": "印一大学被曝买宇树机器狗冒充自研",
+        "onboard_time": 1771401500,
+        "rank": 24,
+        "category": "海外新闻,数码"
+      },
+      {
+        "raw_hot": 174974,
+        "num": 144469,
+        "word": "王橹杰娃娃",
+        "onboard_time": 1771400958,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 143753,
+        "num": 143753,
+        "word": "飞驰人生3票房或超50亿",
+        "onboard_time": 1771390459,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 117079,
+        "num": 143333,
+        "word": "今年过年没人催婚了",
+        "onboard_time": 1771393159,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143298,
+        "num": 143298,
+        "word": "刘诗诗给杨幂拿话筒",
+        "onboard_time": 1771398259,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 49932,
+        "num": 139301,
+        "word": "印度一大学拿中国机器狗冒充自研",
+        "onboard_time": 1771403299,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 139001,
+        "num": 139001,
+        "word": "赖清德被喷溅呕吐物",
+        "onboard_time": 1771408401,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 127851,
+        "num": 127851,
+        "word": "成何体统大结局 仓促",
+        "onboard_time": 1771407023,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118191,
+        "num": 118191,
+        "word": "飞驰人生3赢麻了",
+        "onboard_time": 1771405098,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 55745,
+        "num": 113075,
+        "word": "听说全国女婿到丈母娘家都这样",
+        "onboard_time": 1771391779,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110963,
+        "num": 110963,
+        "word": "TF家族 奔跑四",
+        "onboard_time": 1771408040,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 52137,
+        "num": 105954,
+        "word": "初二回娘家山路上全是拜年大军",
+        "onboard_time": 1771407380,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104938,
+        "num": 104938,
+        "word": "TF四代娃娃",
+        "onboard_time": 1771401379,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 104282,
+        "num": 104282,
+        "word": "大年初二黄景瑜喊关晓彤吃饭了",
+        "onboard_time": 1771402039,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62348,
+        "num": 103479,
+        "word": "喝不上酒的交警女婿发声",
+        "onboard_time": 1771407320,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68989,
+        "num": 103466,
+        "word": "朱一龙才是真景天",
+        "onboard_time": 1771408460,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 103458,
+        "num": 103458,
+        "word": "看小说时莫名其妙的生理反应",
+        "onboard_time": 1771401679,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 100721,
+        "num": 100721,
+        "word": "电影票房",
+        "onboard_time": 1771408160,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 96607,
+        "num": 96607,
+        "word": "黄景瑜关晓彤发小变对象",
+        "onboard_time": 1771408520,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83381,
+        "num": 96271,
+        "word": "不要轻易尝试吃黄糕不嚼",
+        "onboard_time": 1771407621,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 96087,
+        "num": 96087,
+        "word": "成何体统大结局",
+        "onboard_time": 1771387938,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95963,
+        "num": 95963,
+        "word": "B站回应宋小宝小品搭档滞留台下",
+        "onboard_time": 1771404080,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77214,
+        "num": 95367,
+        "word": "这跟自己生的有什么区别",
+        "onboard_time": 1771405760,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 95182,
+        "num": 95182,
+        "word": "镖人4D版 打谁都是打我",
+        "onboard_time": 1771403840,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 74260,
+        "num": 86868,
+        "word": "谷爱凌大雪中完成U池训练",
+        "onboard_time": 1771408701,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 56272,
+        "num": 82128,
+        "word": "不会扫兴的母亲培养出谷爱凌",
+        "onboard_time": 1771404621,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平复信美国艾奥瓦州友人#"
+    }
+  }
+}
