@@ -1,6 +1,6 @@
 {
   "startTime": 1771087248939,
-  "endTime": 1771420911972,
+  "endTime": 1771422466092,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -33,6 +33,14 @@
       "onboard_time": 1771207399,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 11188156,
+      "num": 11188156,
+      "word": "徐梦桃金牌",
+      "onboard_time": 1771420644,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 10929253,
@@ -169,14 +177,6 @@
       "onboard_time": 1771220842,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 4289722,
-      "num": 4289722,
-      "word": "徐梦桃金牌",
-      "onboard_time": 1771420644,
-      "rank": 0,
-      "category": "体育"
     },
     {
       "raw_hot": 4061180,
@@ -364,7 +364,7 @@
     },
     {
       "raw_hot": 1868534,
-      "num": 344561,
+      "num": 414022,
       "word": "商洛地震",
       "onboard_time": 1771420342,
       "rank": 10,
@@ -539,6 +539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1327331,
+      "num": 278042,
+      "word": "祝贺老将徐梦桃",
+      "onboard_time": 1771421424,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1303425,
       "num": 632033,
       "word": "央妈不会找王一博赔地板吧",
@@ -580,7 +588,7 @@
     },
     {
       "raw_hot": 1244318,
-      "num": 338981,
+      "num": 406044,
       "word": "曝邓超怒怼项目方维护孙俪",
       "onboard_time": 1771412660,
       "rank": 23,
@@ -593,6 +601,14 @@
       "onboard_time": 1771226902,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1232095,
+      "num": 1072625,
+      "word": "初三一定记得睡懒觉",
+      "onboard_time": 1771419442,
+      "rank": 6,
+      "category": "幽默"
     },
     {
       "raw_hot": 1208855,
@@ -689,6 +705,14 @@
       "onboard_time": 1771250375,
       "rank": 24,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1074096,
+      "num": 1074096,
+      "word": "中国队第二金",
+      "onboard_time": 1771421126,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 1063142,
@@ -1027,14 +1051,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 777530,
-      "num": 777530,
-      "word": "初三一定记得睡懒觉",
-      "onboard_time": 1771419442,
-      "rank": 6,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 775689,
       "num": 176793,
       "word": "等白鹿红包",
@@ -1321,6 +1337,14 @@
       "onboard_time": 1771224324,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 648509,
+      "num": 175095,
+      "word": "徐梦桃说需要继续保持专注",
+      "onboard_time": 1771417704,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 644162,
@@ -1633,6 +1657,14 @@
       "onboard_time": 1771256672,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 546193,
+      "num": 546193,
+      "word": "众星祝贺苏翊鸣",
+      "onboard_time": 1771421066,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 544922,
@@ -2075,6 +2107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 418972,
+      "num": 418972,
+      "word": "苏翊鸣成中国单板滑雪首位双金王",
+      "onboard_time": 1771417285,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 417594,
       "num": 123002,
       "word": "陈星旭的红包",
@@ -2113,14 +2153,6 @@
       "onboard_time": 1771160903,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 411913,
-      "num": 411913,
-      "word": "苏翊鸣成中国单板滑雪首位双金王",
-      "onboard_time": 1771417285,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 410487,
@@ -2163,6 +2195,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 406219,
+      "num": 174735,
+      "word": "苏翊鸣教练双膝跪地",
+      "onboard_time": 1771420704,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 404338,
       "num": 108883,
       "word": "黄子弘凡工作室辟谣",
@@ -2193,6 +2233,14 @@
       "onboard_time": 1771315700,
       "rank": 5,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 392674,
+      "num": 392674,
+      "word": "苏翊鸣边唱国歌边哭",
+      "onboard_time": 1771419564,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 388629,
@@ -2611,6 +2659,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 332984,
+      "num": 332984,
+      "word": "谁把郭富城鞋踩掉了",
+      "onboard_time": 1771418243,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 331234,
+      "num": 331234,
+      "word": "谷爱凌 顶级狩猎者的眼神",
+      "onboard_time": 1771413140,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 328579,
       "num": 318550,
       "word": "王一博出图",
@@ -2675,6 +2739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 320788,
+      "num": 320788,
+      "word": "邵琪铜牌",
+      "onboard_time": 1771421366,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 320334,
       "num": 220976,
       "word": "王一博攀岩拜年",
@@ -2689,14 +2761,6 @@
       "onboard_time": 1771203259,
       "rank": 22,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 319430,
-      "num": 305727,
-      "word": "谷爱凌 顶级狩猎者的眼神",
-      "onboard_time": 1771413140,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 318600,
@@ -2936,14 +3000,6 @@
       "word": "江苏卫视春晚",
       "onboard_time": 1771328182,
       "rank": 12,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 296950,
-      "num": 296950,
-      "word": "谁把郭富城鞋踩掉了",
-      "onboard_time": 1771418243,
-      "rank": 14,
       "category": "综艺"
     },
     {
@@ -3579,14 +3635,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 244790,
-      "num": 244790,
-      "word": "苏翊鸣边唱国歌边哭",
-      "onboard_time": 1771419564,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 243822,
       "num": 194202,
       "word": "王橹杰娃娃",
@@ -3883,6 +3931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 224389,
+      "num": 224389,
+      "word": "冬奥会直播",
+      "onboard_time": 1771414460,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 223495,
       "num": 656888,
       "word": "爱泼斯坦案名单竟出现梦露等人",
@@ -4155,6 +4211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 206382,
+      "num": 206382,
+      "word": "苏翊鸣第三跳 裁判压分",
+      "onboard_time": 1771418543,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 206184,
       "num": 206184,
       "word": "红包封面",
@@ -4163,12 +4227,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 205783,
-      "num": 205783,
-      "word": "冬奥会直播",
-      "onboard_time": 1771414460,
-      "rank": 23,
-      "category": "体育"
+      "raw_hot": 205699,
+      "num": 205699,
+      "word": "小猫以为人也是怀孕两个月就生",
+      "onboard_time": 1771420403,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 205361,
@@ -4235,6 +4299,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 202340,
+      "num": 202340,
+      "word": "李现祝贺苏翊鸣",
+      "onboard_time": 1771417823,
+      "rank": 23,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 202144,
       "num": 202144,
       "word": "刘少昂林孝埈携手出战",
@@ -4289,14 +4361,6 @@
       "onboard_time": 1771229361,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 198614,
-      "num": 186889,
-      "word": "李现祝贺苏翊鸣",
-      "onboard_time": 1771417823,
-      "rank": 23,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 198581,
@@ -4467,14 +4531,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 187638,
-      "num": 187638,
-      "word": "苏翊鸣第三跳 裁判压分",
-      "onboard_time": 1771418543,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
       "raw_hot": 187549,
       "num": 187549,
       "word": "春晚大赏明星红包",
@@ -4571,14 +4627,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 179975,
-      "num": 154752,
-      "word": "苏翊鸣教练双膝跪地",
-      "onboard_time": 1771420704,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 179041,
       "num": 179041,
       "word": "迪丽热巴红裙摇曳",
@@ -4620,7 +4668,7 @@
     },
     {
       "raw_hot": 177604,
-      "num": 169174,
+      "num": 174205,
       "word": "惠英红 姐别累着但也别闲着",
       "onboard_time": 1771415722,
       "rank": 26,
@@ -4657,6 +4705,14 @@
       "onboard_time": 1771303462,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 175741,
+      "num": 175741,
+      "word": "汕头烟花",
+      "onboard_time": 1771419983,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 175633,
@@ -4697,6 +4753,14 @@
       "onboard_time": 1771217780,
       "rank": 24,
       "category": "财经"
+    },
+    {
+      "raw_hot": 172929,
+      "num": 172929,
+      "word": "冬奥会奖牌榜",
+      "onboard_time": 1771419323,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 172449,
@@ -4817,6 +4881,14 @@
       "onboard_time": 1771301961,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 167250,
+      "num": 167250,
+      "word": "孔凡钰 可惜",
+      "onboard_time": 1771422324,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 167242,
@@ -5051,12 +5123,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 156035,
+      "num": 156035,
+      "word": "徐梦桃大喊我怎么跳这么漂亮",
+      "onboard_time": 1771422204,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 155718,
       "num": 155718,
       "word": "刘浩存拜年",
       "onboard_time": 1771325841,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 155539,
+      "num": 155539,
+      "word": "2026势头最猛的星座",
+      "onboard_time": 1771422084,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 155459,
@@ -5089,14 +5177,6 @@
       "onboard_time": 1771334663,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 153259,
-      "num": 153259,
-      "word": "汕头烟花",
-      "onboard_time": 1771419983,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 152926,
@@ -5252,7 +5332,7 @@
     },
     {
       "raw_hot": 146756,
-      "num": 125944,
+      "num": 141829,
       "word": "镖人惠英红没打戏好可惜",
       "onboard_time": 1771412420,
       "rank": 31,
@@ -5339,6 +5419,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 142739,
+      "num": 142739,
+      "word": "孔凡钰113.33分",
+      "onboard_time": 1771421663,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 142505,
       "num": 250735,
       "word": "新加坡反思日本侵略",
@@ -5393,6 +5481,14 @@
       "onboard_time": 1771306822,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 140539,
+      "num": 140539,
+      "word": "张虹为苏翊鸣颁奖",
+      "onboard_time": 1771422204,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 139793,
@@ -5569,14 +5665,6 @@
       "onboard_time": 1771401199,
       "rank": 33,
       "category": "电影"
-    },
-    {
-      "raw_hot": 135067,
-      "num": 135067,
-      "word": "小猫以为人也是怀孕两个月就生",
-      "onboard_time": 1771420403,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 134727,
@@ -7899,6 +7987,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 77521,
+      "num": 280764,
+      "word": "8岁小姨给晚辈发红包亲属发声",
+      "onboard_time": 1771421663,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77507,
       "num": 108759,
       "word": "中外网友对账对到了菜市场",
@@ -9011,6 +9107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 62288,
+      "num": 155721,
+      "word": "台湾女子被臭豆腐店熏到焦虑拔头发",
+      "onboard_time": 1771421964,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 62183,
       "num": 62183,
       "word": "张瑞阳女单短节目59.38分",
@@ -9265,6 +9369,14 @@
       "onboard_time": 1771132039,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 56997,
+      "num": 290426,
+      "word": "假期打麻将打到肢体抽搐口吐白沫",
+      "onboard_time": 1771421663,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 56706,
@@ -9692,7 +9804,7 @@
     },
     {
       "raw_hot": 49808,
-      "num": 163478,
+      "num": 203865,
       "word": "盼盼在手冠军我有",
       "onboard_time": 1771419802,
       "rank": 27,
@@ -10003,6 +10115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 42596,
+      "num": 2571721,
+      "word": "2026春节消费市场红火开场",
+      "onboard_time": 1771419323,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42526,
       "num": 133801,
       "word": "女子空中技巧预赛因大雪延迟",
@@ -10095,6 +10215,14 @@
       "num": 95472,
       "word": "孩子持烟花瞄准妈妈发射",
       "onboard_time": 1771400059,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40398,
+      "num": 155549,
+      "word": "中国香港居民在北海道遇袭",
+      "onboard_time": 1771422084,
       "rank": 39,
       "category": "民生新闻"
     },
@@ -10257,14 +10385,6 @@
       "onboard_time": 1771254333,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 35255,
-      "num": 2571721,
-      "word": "2026春节消费市场红火开场",
-      "onboard_time": 1771419323,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 34979,
@@ -10793,6 +10913,14 @@
       "onboard_time": 1771229061,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 25524,
+      "num": 155563,
+      "word": "澳男子摸鱼找工作遭解雇获赔15万元",
+      "onboard_time": 1771421366,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25063,
@@ -11513,6 +11641,14 @@
       "onboard_time": 1771184534,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 11822,
+      "num": 279690,
+      "word": "海口至上海机票高达11560元",
+      "onboard_time": 1771422024,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11589,

@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1771420911972,
+  "endTime": 1771422466092,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -40,6 +40,14 @@
       "word": "王昶钱天一结婚",
       "onboard_time": 1770441981,
       "rank": 3,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 11188156,
+      "num": 11188156,
+      "word": "徐梦桃金牌",
+      "onboard_time": 1771420644,
+      "rank": 0,
       "category": "体育"
     },
     {
@@ -280,14 +288,6 @@
       "word": "孙颖莎金牌",
       "onboard_time": 1770556402,
       "rank": 1,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 4289722,
-      "num": 4289722,
-      "word": "徐梦桃金牌",
-      "onboard_time": 1771420644,
-      "rank": 0,
       "category": "体育"
     },
     {
@@ -700,7 +700,7 @@
     },
     {
       "raw_hot": 1868534,
-      "num": 344561,
+      "num": 414022,
       "word": "商洛地震",
       "onboard_time": 1771420342,
       "rank": 10,
@@ -1123,6 +1123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1327331,
+      "num": 278042,
+      "word": "祝贺老将徐梦桃",
+      "onboard_time": 1771421424,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1319071,
       "num": 234420,
       "word": "爱泼斯坦案中一女孩穿水手服跪地",
@@ -1228,7 +1236,7 @@
     },
     {
       "raw_hot": 1244318,
-      "num": 338981,
+      "num": 406044,
       "word": "曝邓超怒怼项目方维护孙俪",
       "onboard_time": 1771412660,
       "rank": 23,
@@ -1241,6 +1249,14 @@
       "onboard_time": 1771226902,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1232095,
+      "num": 1072625,
+      "word": "初三一定记得睡懒觉",
+      "onboard_time": 1771419442,
+      "rank": 6,
+      "category": "幽默"
     },
     {
       "raw_hot": 1229303,
@@ -1625,6 +1641,14 @@
       "onboard_time": 1771250375,
       "rank": 24,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1074096,
+      "num": 1074096,
+      "word": "中国队第二金",
+      "onboard_time": 1771421126,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 1070566,
@@ -2947,14 +2971,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 777530,
-      "num": 777530,
-      "word": "初三一定记得睡懒觉",
-      "onboard_time": 1771419442,
-      "rank": 6,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 775689,
       "num": 176793,
       "word": "等白鹿红包",
@@ -3913,6 +3929,14 @@
       "onboard_time": 1770779420,
       "rank": 0,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 648509,
+      "num": 175095,
+      "word": "徐梦桃说需要继续保持专注",
+      "onboard_time": 1771417704,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 647010,
@@ -5097,6 +5121,14 @@
       "onboard_time": 1771256672,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 546193,
+      "num": 546193,
+      "word": "众星祝贺苏翊鸣",
+      "onboard_time": 1771421066,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 545581,
@@ -7267,6 +7299,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 418972,
+      "num": 418972,
+      "word": "苏翊鸣成中国单板滑雪首位双金王",
+      "onboard_time": 1771417285,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 418467,
       "num": 418467,
       "word": "孙颖莎生涯首个亚洲杯冠军",
@@ -7443,14 +7483,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 411913,
-      "num": 411913,
-      "word": "苏翊鸣成中国单板滑雪首位双金王",
-      "onboard_time": 1771417285,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 411362,
       "num": 333288,
       "word": "网传迪丽热巴张小斐女足上春节档",
@@ -7593,6 +7625,14 @@
       "onboard_time": 1771324101,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 406219,
+      "num": 174735,
+      "word": "苏翊鸣教练双膝跪地",
+      "onboard_time": 1771420704,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 406062,
@@ -7897,6 +7937,14 @@
       "onboard_time": 1770984440,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 392674,
+      "num": 392674,
+      "word": "苏翊鸣边唱国歌边哭",
+      "onboard_time": 1771419564,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 392577,
@@ -9883,6 +9931,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 332984,
+      "num": 332984,
+      "word": "谁把郭富城鞋踩掉了",
+      "onboard_time": 1771418243,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 332844,
       "num": 332844,
       "word": "苏翊鸣第一跳1980",
@@ -9945,6 +10001,14 @@
       "onboard_time": 1770019341,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 331234,
+      "num": 331234,
+      "word": "谷爱凌 顶级狩猎者的眼神",
+      "onboard_time": 1771413140,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 331005,
@@ -10299,6 +10363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 320788,
+      "num": 320788,
+      "word": "邵琪铜牌",
+      "onboard_time": 1771421366,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 320334,
       "num": 220976,
       "word": "王一博攀岩拜年",
@@ -10361,14 +10433,6 @@
       "onboard_time": 1770958161,
       "rank": 34,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 319430,
-      "num": 305727,
-      "word": "谷爱凌 顶级狩猎者的眼神",
-      "onboard_time": 1771413140,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 319411,
@@ -11433,14 +11497,6 @@
       "onboard_time": 1771073722,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 296950,
-      "num": 296950,
-      "word": "谁把郭富城鞋踩掉了",
-      "onboard_time": 1771418243,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 296796,
@@ -14043,14 +14099,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 244790,
-      "num": 244790,
-      "word": "苏翊鸣边唱国歌边哭",
-      "onboard_time": 1771419564,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 244774,
       "num": 244774,
       "word": "阚清子演技",
@@ -15355,6 +15403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 224389,
+      "num": 224389,
+      "word": "冬奥会直播",
+      "onboard_time": 1770461061,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 224342,
       "num": 224342,
       "word": "太平年大结局",
@@ -16523,6 +16579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 206382,
+      "num": 206382,
+      "word": "苏翊鸣第三跳 裁判压分",
+      "onboard_time": 1771418543,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 206184,
       "num": 206184,
       "word": "红包封面",
@@ -16563,12 +16627,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 205783,
-      "num": 205783,
-      "word": "冬奥会直播",
-      "onboard_time": 1770461061,
-      "rank": 33,
-      "category": "体育"
+      "raw_hot": 205699,
+      "num": 205699,
+      "word": "小猫以为人也是怀孕两个月就生",
+      "onboard_time": 1771420403,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 205576,
@@ -16811,6 +16875,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 202340,
+      "num": 202340,
+      "word": "李现祝贺苏翊鸣",
+      "onboard_time": 1771417823,
+      "rank": 23,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 202144,
       "num": 202144,
       "word": "刘少昂林孝埈携手出战",
@@ -17033,14 +17105,6 @@
       "onboard_time": 1770977302,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 198614,
-      "num": 186889,
-      "word": "李现祝贺苏翊鸣",
-      "onboard_time": 1771417823,
-      "rank": 23,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 198581,
@@ -17859,14 +17923,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 187638,
-      "num": 187638,
-      "word": "苏翊鸣第三跳 裁判压分",
-      "onboard_time": 1771418543,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
       "raw_hot": 187602,
       "num": 180177,
       "word": "文淇加入东申未来",
@@ -18411,14 +18467,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 179975,
-      "num": 154752,
-      "word": "苏翊鸣教练双膝跪地",
-      "onboard_time": 1771420704,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 179963,
       "num": 179963,
       "word": "天才女友田曦薇胡一天捏脸贴贴",
@@ -18620,7 +18668,7 @@
     },
     {
       "raw_hot": 177604,
-      "num": 169174,
+      "num": 174205,
       "word": "惠英红 姐别累着但也别闲着",
       "onboard_time": 1771415722,
       "rank": 26,
@@ -18761,6 +18809,14 @@
       "onboard_time": 1771303462,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 175741,
+      "num": 175741,
+      "word": "汕头烟花",
+      "onboard_time": 1771419983,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 175665,
@@ -19025,6 +19081,14 @@
       "onboard_time": 1770034402,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 172929,
+      "num": 172929,
+      "word": "冬奥会奖牌榜",
+      "onboard_time": 1771419323,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 172873,
@@ -19489,6 +19553,14 @@
       "onboard_time": 1770093922,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 167250,
+      "num": 167250,
+      "word": "孔凡钰 可惜",
+      "onboard_time": 1771422324,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 167242,
@@ -20491,6 +20563,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 156035,
+      "num": 156035,
+      "word": "徐梦桃大喊我怎么跳这么漂亮",
+      "onboard_time": 1771422204,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 155959,
       "num": 155959,
       "word": "王者小马宝莉联动",
@@ -20529,6 +20609,14 @@
       "onboard_time": 1771021094,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 155539,
+      "num": 155539,
+      "word": "2026势头最猛的星座",
+      "onboard_time": 1771422084,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 155459,
@@ -20745,14 +20833,6 @@
       "onboard_time": 1771041380,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 153259,
-      "num": 153259,
-      "word": "汕头烟花",
-      "onboard_time": 1771419983,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 153258,
@@ -21564,7 +21644,7 @@
     },
     {
       "raw_hot": 146756,
-      "num": 125944,
+      "num": 141829,
       "word": "镖人惠英红没打戏好可惜",
       "onboard_time": 1771412420,
       "rank": 31,
@@ -21995,6 +22075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142739,
+      "num": 142739,
+      "word": "孔凡钰113.33分",
+      "onboard_time": 1771421663,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 142731,
       "num": 142731,
       "word": "哈登关键绝平三分",
@@ -22392,6 +22480,14 @@
       "word": "世乒赛冠军将直接获得复刻奖杯",
       "onboard_time": 1770970640,
       "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 140539,
+      "num": 140539,
+      "word": "张虹为苏翊鸣颁奖",
+      "onboard_time": 1771422204,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -23297,14 +23393,6 @@
       "onboard_time": 1770357800,
       "rank": 40,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 135067,
-      "num": 135067,
-      "word": "小猫以为人也是怀孕两个月就生",
-      "onboard_time": 1771420403,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 134990,
@@ -38419,6 +38507,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 77521,
+      "num": 280764,
+      "word": "8岁小姨给晚辈发红包亲属发声",
+      "onboard_time": 1771421663,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77515,
       "num": 94070,
       "word": "新一代iPad爆料",
@@ -42355,6 +42451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 62288,
+      "num": 155721,
+      "word": "台湾女子被臭豆腐店熏到焦虑拔头发",
+      "onboard_time": 1771421964,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 62245,
       "num": 175343,
       "word": "孩子私卖家长22克金镯涉事金店发声",
@@ -43265,6 +43369,14 @@
       "onboard_time": 1770625222,
       "rank": 41,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 56997,
+      "num": 290426,
+      "word": "假期打麻将打到肢体抽搐口吐白沫",
+      "onboard_time": 1771421663,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 56839,
@@ -44492,7 +44604,7 @@
     },
     {
       "raw_hot": 49808,
-      "num": 163478,
+      "num": 203865,
       "word": "盼盼在手冠军我有",
       "onboard_time": 1771419802,
       "rank": 27,
@@ -45931,6 +46043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 42596,
+      "num": 2571721,
+      "word": "2026春节消费市场红火开场",
+      "onboard_time": 1771419323,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42584,
       "num": 177837,
       "word": "拍奶茶给阿福看",
@@ -46297,6 +46417,14 @@
       "onboard_time": 1770949940,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 40398,
+      "num": 155549,
+      "word": "中国香港居民在北海道遇袭",
+      "onboard_time": 1771422084,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 40366,
@@ -47201,14 +47329,6 @@
       "onboard_time": 1771254333,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 35255,
-      "num": 2571721,
-      "word": "2026春节消费市场红火开场",
-      "onboard_time": 1771419323,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 35165,
@@ -49456,6 +49576,14 @@
       "word": "2026春运奔赴团圆路",
       "onboard_time": 1770037222,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25524,
+      "num": 155563,
+      "word": "澳男子摸鱼找工作遭解雇获赔15万元",
+      "onboard_time": 1771421366,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -52632,6 +52760,14 @@
       "word": "3988一桌婚宴菜冷肉硬被吐槽",
       "onboard_time": 1771052419,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11822,
+      "num": 279690,
+      "word": "海口至上海机票高达11560元",
+      "onboard_time": 1771422024,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
