@@ -1,6 +1,6 @@
 {
   "startTime": 1771430429513,
-  "endTime": 1771431488584,
+  "endTime": 1771434971860,
   "band_list": [
     {
       "raw_hot": 1323093,
@@ -80,6 +80,14 @@
       "word": "中国队米兰冬奥首金",
       "onboard_time": 1771415905,
       "rank": 6,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 348349,
+      "num": 260401,
+      "word": "苏翊鸣甜蜜回复朱易",
+      "onboard_time": 1771433119,
+      "rank": 4,
       "category": "体育"
     },
     {
@@ -211,19 +219,19 @@
       "category": "电影"
     },
     {
+      "raw_hot": 100842,
+      "num": 716026,
+      "word": "春节档总票房已破22亿",
+      "onboard_time": 1771428321,
+      "rank": 2,
+      "category": "电影"
+    },
+    {
       "raw_hot": 98404,
       "num": 98404,
       "word": "镖人",
       "onboard_time": 1771396640,
       "rank": 28,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 97782,
-      "num": 716026,
-      "word": "春节档总票房已破22亿",
-      "onboard_time": 1771428321,
-      "rank": 2,
       "category": "电影"
     },
     {
@@ -339,6 +347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 85112,
+      "num": 85112,
+      "word": "太奶奶实在是上边没人了",
+      "onboard_time": 1771431680,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 81311,
       "num": 81311,
       "word": "短道速滑",
@@ -387,6 +403,22 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 60687,
+      "num": 60687,
+      "word": "飞驰人生3 没有彩蛋",
+      "onboard_time": 1771431559,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 58270,
+      "num": 58270,
+      "word": "汕头烟花",
+      "onboard_time": 1771419983,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57235,
       "num": 138318,
       "word": "中国队赢了就是牛",
@@ -403,6 +435,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 52676,
+      "num": 52676,
+      "word": "大年初三",
+      "onboard_time": 1771432639,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 46344,
+      "num": 128371,
+      "word": "被冠军妈妈的育儿观狠狠圈粉",
+      "onboard_time": 1771430781,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 43200,
+      "num": 43200,
+      "word": "云南通报3名公职人员涉嫌酒驾",
+      "onboard_time": 1771432819,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38968,
       "num": 98756,
       "word": "苏翊鸣呼吁HPV健康接力",
@@ -411,15 +467,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 35388,
-      "num": 128371,
-      "word": "被冠军妈妈的育儿观狠狠圈粉",
-      "onboard_time": 1771430781,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 10512,
+      "raw_hot": 19431,
       "num": 575763,
       "word": "00后新兵有啥心愿",
       "onboard_time": 1771419202,

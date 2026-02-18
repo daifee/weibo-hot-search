@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1771431488584,
+  "endTime": 1771434971860,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -9409,6 +9409,14 @@
       "onboard_time": 1770282028,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 348349,
+      "num": 260401,
+      "word": "苏翊鸣甜蜜回复朱易",
+      "onboard_time": 1771433119,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 348019,
@@ -30947,6 +30955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 100842,
+      "num": 716026,
+      "word": "春节档总票房已破22亿",
+      "onboard_time": 1771428321,
+      "rank": 2,
+      "category": "电影"
+    },
+    {
       "raw_hot": 100818,
       "num": 83225,
       "word": "七旬母亲坐客厅一夜未眠等女儿回家",
@@ -31849,14 +31865,6 @@
       "onboard_time": 1770901281,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 97782,
-      "num": 716026,
-      "word": "春节档总票房已破22亿",
-      "onboard_time": 1771428321,
-      "rank": 2,
-      "category": "电影"
     },
     {
       "raw_hot": 97770,
@@ -36136,6 +36144,14 @@
       "word": "真马版小马宝莉",
       "onboard_time": 1770201260,
       "rank": 37,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 85112,
+      "num": 85112,
+      "word": "太奶奶实在是上边没人了",
+      "onboard_time": 1771431680,
+      "rank": 16,
       "category": "幽默"
     },
     {
@@ -42987,6 +43003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 60687,
+      "num": 60687,
+      "word": "飞驰人生3 没有彩蛋",
+      "onboard_time": 1771431559,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 60680,
       "num": 79070,
       "word": "詹姆斯史上最老三双",
@@ -44275,6 +44299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 52676,
+      "num": 52676,
+      "word": "大年初三",
+      "onboard_time": 1771432639,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 52638,
       "num": 105954,
       "word": "初二回娘家山路上全是拜年大军",
@@ -45555,6 +45587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 46344,
+      "num": 128371,
+      "word": "被冠军妈妈的育儿观狠狠圈粉",
+      "onboard_time": 1771430781,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 46278,
       "num": 140452,
       "word": "新年和荣耀500一起舞摆一起Live",
@@ -46241,6 +46281,14 @@
       "onboard_time": 1770786560,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 43200,
+      "num": 43200,
+      "word": "云南通报3名公职人员涉嫌酒驾",
+      "onboard_time": 1771432819,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 43153,
@@ -47576,14 +47624,6 @@
       "word": "米兰冬奥会首个奥运纪录",
       "onboard_time": 1770481219,
       "rank": 8,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 35388,
-      "num": 128371,
-      "word": "被冠军妈妈的育儿观狠狠圈粉",
-      "onboard_time": 1771430781,
-      "rank": 16,
       "category": "体育"
     },
     {
@@ -51371,6 +51411,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 19431,
+      "num": 575763,
+      "word": "00后新兵有啥心愿",
+      "onboard_time": 1771419202,
+      "rank": 2,
+      "category": "军事"
+    },
+    {
       "raw_hot": 19409,
       "num": 29895,
       "word": "快捷酒店卖出五星级酒店价格",
@@ -53161,14 +53209,6 @@
       "onboard_time": 1771233145,
       "rank": 36,
       "category": "民生新闻,互联网"
-    },
-    {
-      "raw_hot": 10512,
-      "num": 575763,
-      "word": "00后新兵有啥心愿",
-      "onboard_time": 1771419202,
-      "rank": 2,
-      "category": "军事"
     },
     {
       "raw_hot": 10475,
