@@ -1,0 +1,410 @@
+{
+  "runTime": 1771427600280,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3963495,
+        "num": 3963495,
+        "word": "徐梦桃金牌",
+        "onboard_time": 1771420644,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1200117,
+        "num": 1200117,
+        "word": "徐梦桃 文能浪姐唱跳武能冬奥夺冠",
+        "onboard_time": 1771424782,
+        "rank": 1,
+        "category": "体育,综艺"
+      },
+      {
+        "raw_hot": 30451,
+        "num": 965561,
+        "word": "2026春节消费市场红火开场",
+        "onboard_time": 1771419323,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 881901,
+        "num": 881901,
+        "word": "苏翊鸣金牌",
+        "onboard_time": 1771415905,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 518773,
+        "num": 518773,
+        "word": "中国队米兰冬奥首金",
+        "onboard_time": 1771415905,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 799818,
+        "num": 461625,
+        "word": "初三一定记得睡懒觉",
+        "onboard_time": 1771419442,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 288537,
+        "num": 288537,
+        "word": "众星祝贺苏翊鸣",
+        "onboard_time": 1771421066,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 239522,
+        "num": 239522,
+        "word": "苏翊鸣想让国歌在全世界面前奏响",
+        "onboard_time": 1771426522,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 227081,
+        "num": 227081,
+        "word": "苏翊鸣教练双膝跪地",
+        "onboard_time": 1771420704,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 219433,
+        "num": 219433,
+        "word": "谁把郭富城鞋踩掉了",
+        "onboard_time": 1771418243,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 406432,
+        "num": 215899,
+        "word": "镖人 对吴京黑转BLACKPINK",
+        "onboard_time": 1771426462,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 210557,
+        "num": 210557,
+        "word": "奖牌榜",
+        "onboard_time": 1771422983,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 278779,
+        "num": 209883,
+        "word": "曝邓超怒怼项目方维护孙俪",
+        "onboard_time": 1771412660,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208708,
+        "num": 208708,
+        "word": "教练说苏翊鸣米兰夺金前不能谈恋爱",
+        "onboard_time": 1771425626,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203193,
+        "num": 203193,
+        "word": "惠英红 姐别累着但也别闲着",
+        "onboard_time": 1771415722,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 176841,
+        "num": 176841,
+        "word": "苏翊鸣成中国单板滑雪首位双金王",
+        "onboard_time": 1771417285,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173180,
+        "num": 173180,
+        "word": "中国队第二金",
+        "onboard_time": 1771421126,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171823,
+        "num": 171823,
+        "word": "谷爱凌 顶级狩猎者的眼神",
+        "onboard_time": 1771413140,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169409,
+        "num": 169409,
+        "word": "飞驰人生3",
+        "onboard_time": 1771423103,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 164622,
+        "num": 164622,
+        "word": "中储粮平仓机器人问世",
+        "onboard_time": 1771423703,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 244540,
+        "num": 162624,
+        "word": "台湾女子被臭豆腐店熏到焦虑拔头发",
+        "onboard_time": 1771421964,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181985,
+        "num": 162613,
+        "word": "祝贺老将徐梦桃",
+        "onboard_time": 1771421424,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159690,
+        "num": 159690,
+        "word": "短道速滑",
+        "onboard_time": 1771423163,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153041,
+        "num": 153041,
+        "word": "年入35万扛楼小伙回应买车质疑",
+        "onboard_time": 1771423283,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143651,
+        "num": 143651,
+        "word": "镖人",
+        "onboard_time": 1771396640,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 134493,
+        "num": 134493,
+        "word": "苏翊鸣边唱国歌边哭",
+        "onboard_time": 1771419564,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133461,
+        "num": 133461,
+        "word": "云旗郝熠然滑雪",
+        "onboard_time": 1771409300,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131976,
+        "num": 131976,
+        "word": "镖人惠英红没打戏好可惜",
+        "onboard_time": 1771412420,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 57007,
+        "num": 131869,
+        "word": "苏翊鸣呼吁HPV健康接力",
+        "onboard_time": 1771427301,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131863,
+        "num": 131863,
+        "word": "商洛地震",
+        "onboard_time": 1771420342,
+        "rank": 29,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 153182,
+        "num": 131794,
+        "word": "怪不得叫膨胀螺丝",
+        "onboard_time": 1771426822,
+        "rank": 30,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 131158,
+        "num": 131158,
+        "word": "中国队已集齐奖牌九宫格",
+        "onboard_time": 1771425561,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129943,
+        "num": 129943,
+        "word": "李健 媚眼抛给瞎子看",
+        "onboard_time": 1771417224,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125287,
+        "num": 125287,
+        "word": "日本挖到含稀土泥浆的真相来了",
+        "onboard_time": 1771411339,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 123442,
+        "num": 123442,
+        "word": "孔凡钰 可惜",
+        "onboard_time": 1771422324,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116720,
+        "num": 116720,
+        "word": "徐梦桃说没法冷静",
+        "onboard_time": 1771427483,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116019,
+        "num": 116019,
+        "word": "米卡称爸爸想搬来中国",
+        "onboard_time": 1771426582,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115914,
+        "num": 115914,
+        "word": "2026势头最猛的星座",
+        "onboard_time": 1771422084,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 112864,
+        "num": 112864,
+        "word": "小猫以为人也是怀孕两个月就生",
+        "onboard_time": 1771420403,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112785,
+        "num": 112785,
+        "word": "徐梦桃说需要继续保持专注",
+        "onboard_time": 1771417704,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108728,
+        "num": 108728,
+        "word": "中国香港居民在北海道遇袭",
+        "onboard_time": 1771422084,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103755,
+        "num": 103755,
+        "word": "千玺听到粉丝说他总演小苦瓜的反应",
+        "onboard_time": 1771425443,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 102648,
+        "num": 102648,
+        "word": "苏翊鸣回应夺首金",
+        "onboard_time": 1771427242,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99611,
+        "num": 99611,
+        "word": "刘慈欣盛赞的科幻IP拍漫剧了",
+        "onboard_time": 1771427361,
+        "rank": 43,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 98721,
+        "num": 98721,
+        "word": "成何体统",
+        "onboard_time": 1771416565,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98224,
+        "num": 98224,
+        "word": "澳大利亚 空中技巧",
+        "onboard_time": 1771425082,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97848,
+        "num": 97848,
+        "word": "镖人 武侠不死",
+        "onboard_time": 1771406179,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 95895,
+        "num": 95895,
+        "word": "苏翊鸣18岁生日1金22岁生日1金",
+        "onboard_time": 1771427242,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94486,
+        "num": 94486,
+        "word": "5个月宝宝抬头巧变磕头喜提红包",
+        "onboard_time": 1771427420,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92328,
+        "num": 92328,
+        "word": "西安震感",
+        "onboard_time": 1771426041,
+        "rank": 49,
+        "category": "突发/灾害"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记最深切的牵挂#"
+    }
+  }
+}
