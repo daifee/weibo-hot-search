@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1771408740674,
+  "endTime": 1771409535545,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -5460,7 +5460,7 @@
     },
     {
       "raw_hot": 510165,
-      "num": 1061956,
+      "num": 1062117,
       "word": "孩子存1000比你存20万利息高",
       "onboard_time": 1771395079,
       "rank": 1,
@@ -8731,6 +8731,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 362375,
+      "num": 179735,
+      "word": "演出后台卫生巾",
+      "onboard_time": 1771405461,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 362245,
       "num": 362245,
       "word": "92岁老人集装箱离世留下19万存款",
@@ -9755,6 +9763,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 331326,
+      "num": 139001,
+      "word": "赖清德被喷溅呕吐物",
+      "onboard_time": 1771408401,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 331005,
       "num": 331005,
       "word": "父母花了几十万装修的房子",
@@ -10203,14 +10219,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 318410,
-      "num": 179735,
-      "word": "演出后台卫生巾",
-      "onboard_time": 1771405461,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 318389,
       "num": 435709,
       "word": "薛之谦广州站官宣",
@@ -10553,6 +10561,14 @@
       "onboard_time": 1771071921,
       "rank": 6,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 312881,
+      "num": 353466,
+      "word": "谷爱凌大跳台决赛第三跳前眼神",
+      "onboard_time": 1771407140,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 312824,
@@ -13979,6 +13995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 240510,
+      "num": 152881,
+      "word": "黄景瑜关晓彤发小变对象",
+      "onboard_time": 1771408520,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 240433,
       "num": 240433,
       "word": "华晨宇直播",
@@ -14953,14 +14977,6 @@
       "onboard_time": 1771239868,
       "rank": 25,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 226970,
-      "num": 226970,
-      "word": "谷爱凌大跳台决赛第三跳前眼神",
-      "onboard_time": 1771407140,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 226751,
@@ -17267,6 +17283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 192188,
+      "num": 192188,
+      "word": "徐梦桃第一跳89.29分",
+      "onboard_time": 1771408221,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 191982,
       "num": 191982,
       "word": "日本法律只罚卖淫卖方不罚买方",
@@ -18307,6 +18331,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 177584,
+      "num": 159684,
+      "word": "党员干部春节期间打麻将违规吗",
+      "onboard_time": 1771406659,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 177568,
       "num": 154475,
       "word": "燕云十六声",
@@ -18393,6 +18425,14 @@
       "onboard_time": 1771161922,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 176230,
+      "num": 110700,
+      "word": "云旗郝熠然滑雪",
+      "onboard_time": 1771409300,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 176198,
@@ -18976,6 +19016,14 @@
       "word": "肖战要来微博之夜",
       "onboard_time": 1769960421,
       "rank": 44,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 169149,
+      "num": 110963,
+      "word": "TF家族 奔跑四",
+      "onboard_time": 1771408040,
+      "rank": 34,
       "category": "作品衍生"
     },
     {
@@ -19753,14 +19801,6 @@
       "onboard_time": 1771217844,
       "rank": 15,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 159684,
-      "num": 159684,
-      "word": "党员干部春节期间打麻将违规吗",
-      "onboard_time": 1771406659,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 159683,
@@ -21555,6 +21595,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 143535,
+      "num": 118191,
+      "word": "飞驰人生3赢麻了",
+      "onboard_time": 1771405098,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 143482,
       "num": 143482,
       "word": "敖瑞鹏王玉雯和平精英cos",
@@ -21688,6 +21736,14 @@
       "word": "酱园弄男主女配男配0提名",
       "onboard_time": 1770712820,
       "rank": 27,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 142264,
+      "num": 100721,
+      "word": "电影票房",
+      "onboard_time": 1771408160,
+      "rank": 41,
       "category": "电影"
     },
     {
@@ -22219,14 +22275,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 139001,
-      "num": 139001,
-      "word": "赖清德被喷溅呕吐物",
-      "onboard_time": 1771408401,
-      "rank": 30,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 138990,
       "num": 126675,
       "word": "郑则仕因不想终生注射药物开始跑步",
@@ -22673,6 +22721,14 @@
       "onboard_time": 1770246978,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 136142,
+      "num": 127851,
+      "word": "成何体统大结局 仓促",
+      "onboard_time": 1771407023,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 136036,
@@ -24003,14 +24059,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 127851,
-      "num": 127851,
-      "word": "成何体统大结局 仓促",
-      "onboard_time": 1771407023,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 127736,
       "num": 127736,
       "word": "张艺谋看王鹤棣这小伙子有礼貌",
@@ -24297,6 +24345,14 @@
       "onboard_time": 1770180623,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 126298,
+      "num": 103466,
+      "word": "朱一龙才是真景天",
+      "onboard_time": 1771408460,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 126182,
@@ -25771,14 +25827,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 118191,
-      "num": 118191,
-      "word": "飞驰人生3赢麻了",
-      "onboard_time": 1771405098,
-      "rank": 48,
-      "category": "电影"
-    },
-    {
       "raw_hot": 118129,
       "num": 118129,
       "word": "56岁窦唯状态",
@@ -26515,6 +26563,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 114614,
+      "num": 93075,
+      "word": "卢昱晓赵昭仪 走AI的路让AI无路可走",
+      "onboard_time": 1771409060,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 114508,
       "num": 226589,
       "word": "无畏皮衣酷guy",
@@ -26585,14 +26641,6 @@
       "onboard_time": 1771264220,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 114229,
-      "num": 157421,
-      "word": "徐梦桃第一跳89.29分",
-      "onboard_time": 1771408221,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 114212,
@@ -27337,14 +27385,6 @@
       "onboard_time": 1769955683,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 110963,
-      "num": 110963,
-      "word": "TF家族 奔跑四",
-      "onboard_time": 1771408040,
-      "rank": 34,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 110932,
@@ -30203,14 +30243,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 100721,
-      "num": 100721,
-      "word": "电影票房",
-      "onboard_time": 1771408160,
-      "rank": 41,
-      "category": "电影"
-    },
-    {
       "raw_hot": 100713,
       "num": 316393,
       "word": "马年壁纸",
@@ -31473,14 +31505,6 @@
       "onboard_time": 1769939181,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 96607,
-      "num": 96607,
-      "word": "黄景瑜关晓彤发小变对象",
-      "onboard_time": 1771408520,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 96587,
@@ -37411,6 +37435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 79252,
+      "num": 93488,
+      "word": "狗第一次吃酸奶后念念不忘",
+      "onboard_time": 1771408941,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 79206,
       "num": 95463,
       "word": "12万买矮马租给游乐场40天回本",
@@ -37768,6 +37800,14 @@
       "word": "爷爷抢走了爸爸的猫",
       "onboard_time": 1770982640,
       "rank": 41,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 77948,
+      "num": 128397,
+      "word": "年轻人的过年现状",
+      "onboard_time": 1771406780,
+      "rank": 19,
       "category": "幽默"
     },
     {
@@ -38376,6 +38416,14 @@
       "word": "熬夜看苏翊鸣决赛",
       "onboard_time": 1770478701,
       "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 76238,
+      "num": 93424,
+      "word": "谷爱凌大雪中完成U池训练",
+      "onboard_time": 1771408701,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -39011,14 +39059,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 74260,
-      "num": 86868,
-      "word": "谷爱凌大雪中完成U池训练",
-      "onboard_time": 1771408701,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 74232,
       "num": 74232,
       "word": "王一博闪耀动起来春晚舞台TOP1",
@@ -39121,6 +39161,14 @@
       "onboard_time": 1770030803,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 73769,
+      "num": 91089,
+      "word": "只有舅舅读懂了孩子的玩具",
+      "onboard_time": 1771407380,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 73768,
@@ -39264,6 +39312,14 @@
       "word": "小猫出去就是为了进来",
       "onboard_time": 1770536601,
       "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 73141,
+      "num": 86754,
+      "word": "这视频是真拿命在拍",
+      "onboard_time": 1771409481,
+      "rank": 49,
       "category": "幽默"
     },
     {
@@ -40185,14 +40241,6 @@
       "onboard_time": 1770729920,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 68989,
-      "num": 103466,
-      "word": "朱一龙才是真景天",
-      "onboard_time": 1771408460,
-      "rank": 39,
-      "category": "电影"
     },
     {
       "raw_hot": 68983,
@@ -43307,6 +43355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 52638,
+      "num": 105954,
+      "word": "初二回娘家山路上全是拜年大军",
+      "onboard_time": 1771407380,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 52542,
       "num": 60384,
       "word": "守望先锋",
@@ -43425,14 +43481,6 @@
       "onboard_time": 1770507497,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 52137,
-      "num": 105954,
-      "word": "初二回娘家山路上全是拜年大军",
-      "onboard_time": 1771407380,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 52008,
@@ -48507,6 +48555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26723,
+      "num": 93276,
+      "word": "滞留俄罗斯极光村中国游客发声",
+      "onboard_time": 1771409359,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26707,
       "num": 4999455,
       "word": "2026新春走基层",
@@ -51384,6 +51440,14 @@
       "word": "惊蛰无声芭莎电影新春封面",
       "onboard_time": 1771182255,
       "rank": 44,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 15581,
+      "num": 93296,
+      "word": "熊出没一股哪吒味",
+      "onboard_time": 1771409300,
+      "rank": 38,
       "category": "电影"
     },
     {

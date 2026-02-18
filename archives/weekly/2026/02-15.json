@@ -1,6 +1,6 @@
 {
   "startTime": 1771087248939,
-  "endTime": 1771408740674,
+  "endTime": 1771409535545,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -1604,7 +1604,7 @@
     },
     {
       "raw_hot": 510165,
-      "num": 1061956,
+      "num": 1062117,
       "word": "孩子存1000比你存20万利息高",
       "onboard_time": 1771395079,
       "rank": 1,
@@ -2243,6 +2243,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 362375,
+      "num": 179735,
+      "word": "演出后台卫生巾",
+      "onboard_time": 1771405461,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 361027,
       "num": 187615,
       "word": "写族谱发现祖上是正二品",
@@ -2419,6 +2427,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 331326,
+      "num": 139001,
+      "word": "赖清德被喷溅呕吐物",
+      "onboard_time": 1771408401,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 328579,
       "num": 318550,
       "word": "王一博出图",
@@ -2505,14 +2521,6 @@
       "onboard_time": 1771138640,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 318410,
-      "num": 179735,
-      "word": "演出后台卫生巾",
-      "onboard_time": 1771405461,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 317180,
@@ -2624,6 +2632,14 @@
       "word": "谷爱凌U型场地数据近乎完美",
       "onboard_time": 1771324761,
       "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 312881,
+      "num": 353466,
+      "word": "谷爱凌大跳台决赛第三跳前眼神",
+      "onboard_time": 1771407140,
+      "rank": 8,
       "category": "体育"
     },
     {
@@ -3379,6 +3395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 240510,
+      "num": 152881,
+      "word": "黄景瑜关晓彤发小变对象",
+      "onboard_time": 1771408520,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 238846,
       "num": 238846,
       "word": "王橹杰高会",
@@ -3609,14 +3633,6 @@
       "onboard_time": 1771239868,
       "rank": 25,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 226970,
-      "num": 226970,
-      "word": "谷爱凌大跳台决赛第三跳前眼神",
-      "onboard_time": 1771407140,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 226060,
@@ -4107,6 +4123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192188,
+      "num": 192188,
+      "word": "徐梦桃第一跳89.29分",
+      "onboard_time": 1771408221,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 191761,
       "num": 179414,
       "word": "i人的过年现状",
@@ -4307,6 +4331,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 177584,
+      "num": 159684,
+      "word": "党员干部春节期间打麻将违规吗",
+      "onboard_time": 1771406659,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 176585,
       "num": 92822,
       "word": "马頔发视频炫耀李纯登上央视春晚",
@@ -4321,6 +4353,14 @@
       "onboard_time": 1771161922,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 176230,
+      "num": 110700,
+      "word": "云旗郝熠然滑雪",
+      "onboard_time": 1771409300,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 175808,
@@ -4401,6 +4441,14 @@
       "onboard_time": 1771226182,
       "rank": 12,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 169149,
+      "num": 110963,
+      "word": "TF家族 奔跑四",
+      "onboard_time": 1771408040,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 169135,
@@ -4617,14 +4665,6 @@
       "onboard_time": 1771217844,
       "rank": 15,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 159684,
-      "num": 159684,
-      "word": "党员干部春节期间打麻将违规吗",
-      "onboard_time": 1771406659,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 159590,
@@ -4947,12 +4987,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 143535,
+      "num": 118191,
+      "word": "飞驰人生3赢麻了",
+      "onboard_time": 1771405098,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 142505,
       "num": 250735,
       "word": "新加坡反思日本侵略",
       "onboard_time": 1771318161,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 142264,
+      "num": 100721,
+      "word": "电影票房",
+      "onboard_time": 1771408160,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 141431,
@@ -5043,14 +5099,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 139001,
-      "num": 139001,
-      "word": "赖清德被喷溅呕吐物",
-      "onboard_time": 1771408401,
-      "rank": 30,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 138641,
       "num": 138641,
       "word": "电影镖人新春版特别预告",
@@ -5129,6 +5177,14 @@
       "onboard_time": 1771321280,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 136142,
+      "num": 127851,
+      "word": "成何体统大结局 仓促",
+      "onboard_time": 1771407023,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 136036,
@@ -5347,14 +5403,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 127851,
-      "num": 127851,
-      "word": "成何体统大结局 仓促",
-      "onboard_time": 1771407023,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 127697,
       "num": 676662,
       "word": "13个00后发小给彼此父母磕头拜年",
@@ -5433,6 +5481,14 @@
       "onboard_time": 1771163063,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 126298,
+      "num": 103466,
+      "word": "朱一龙才是真景天",
+      "onboard_time": 1771408460,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 125511,
@@ -5635,14 +5691,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 118191,
-      "num": 118191,
-      "word": "飞驰人生3赢麻了",
-      "onboard_time": 1771405098,
-      "rank": 48,
-      "category": "电影"
-    },
-    {
       "raw_hot": 117884,
       "num": 117884,
       "word": "谁来给王玉雯递个古装本子",
@@ -5755,20 +5803,20 @@
       "category": "综艺,互联网"
     },
     {
+      "raw_hot": 114614,
+      "num": 93075,
+      "word": "卢昱晓赵昭仪 走AI的路让AI无路可走",
+      "onboard_time": 1771409060,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 114238,
       "num": 147069,
       "word": "花瓣落在田曦薇头顶",
       "onboard_time": 1771264220,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 114229,
-      "num": 157421,
-      "word": "徐梦桃第一跳89.29分",
-      "onboard_time": 1771408221,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 113827,
@@ -5857,14 +5905,6 @@
       "onboard_time": 1771304422,
       "rank": 36,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 110963,
-      "num": 110963,
-      "word": "TF家族 奔跑四",
-      "onboard_time": 1771408040,
-      "rank": 34,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 110887,
@@ -6235,14 +6275,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 100721,
-      "num": 100721,
-      "word": "电影票房",
-      "onboard_time": 1771408160,
-      "rank": 41,
-      "category": "电影"
-    },
-    {
       "raw_hot": 100713,
       "num": 316393,
       "word": "马年壁纸",
@@ -6441,14 +6473,6 @@
       "onboard_time": 1771140140,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 96607,
-      "num": 96607,
-      "word": "黄景瑜关晓彤发小变对象",
-      "onboard_time": 1771408520,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 96459,
@@ -7227,6 +7251,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 79252,
+      "num": 93488,
+      "word": "狗第一次吃酸奶后念念不忘",
+      "onboard_time": 1771408941,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 79061,
       "num": 172774,
       "word": "刘少昂说我们没有planB",
@@ -7297,6 +7329,14 @@
       "onboard_time": 1771289243,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 77948,
+      "num": 128397,
+      "word": "年轻人的过年现状",
+      "onboard_time": 1771406780,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 77870,
@@ -7451,6 +7491,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 76238,
+      "num": 93424,
+      "word": "谷爱凌大雪中完成U池训练",
+      "onboard_time": 1771408701,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 75995,
       "num": 83519,
       "word": "回忆性羞耻感",
@@ -7555,14 +7603,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 74260,
-      "num": 86868,
-      "word": "谷爱凌大雪中完成U池训练",
-      "onboard_time": 1771408701,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 74232,
       "num": 74232,
       "word": "王一博闪耀动起来春晚舞台TOP1",
@@ -7595,6 +7635,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 73769,
+      "num": 91089,
+      "word": "只有舅舅读懂了孩子的玩具",
+      "onboard_time": 1771407380,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 73548,
       "num": 281197,
       "word": "小猫和主人都占到了对方的便宜",
@@ -7609,6 +7657,14 @@
       "onboard_time": 1771254578,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 73141,
+      "num": 86754,
+      "word": "这视频是真拿命在拍",
+      "onboard_time": 1771409481,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 73095,
@@ -7953,14 +8009,6 @@
       "onboard_time": 1771340001,
       "rank": 29,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 68989,
-      "num": 103466,
-      "word": "朱一龙才是真景天",
-      "onboard_time": 1771408460,
-      "rank": 39,
-      "category": "电影"
     },
     {
       "raw_hot": 68983,
@@ -8915,6 +8963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 52638,
+      "num": 105954,
+      "word": "初二回娘家山路上全是拜年大军",
+      "onboard_time": 1771407380,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 52525,
       "num": 52525,
       "word": "隋文静韩聪把只此青绿带到奥运赛场",
@@ -8953,14 +9009,6 @@
       "onboard_time": 1771304902,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 52137,
-      "num": 105954,
-      "word": "初二回娘家山路上全是拜年大军",
-      "onboard_time": 1771407380,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 51820,
@@ -10099,6 +10147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26723,
+      "num": 93276,
+      "word": "滞留俄罗斯极光村中国游客发声",
+      "onboard_time": 1771409359,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26704,
       "num": 35747,
       "word": "一觉醒来谷爱凌再夺一银",
@@ -10736,6 +10792,14 @@
       "word": "惊蛰无声芭莎电影新春封面",
       "onboard_time": 1771182255,
       "rank": 44,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 15581,
+      "num": 93296,
+      "word": "熊出没一股哪吒味",
+      "onboard_time": 1771409300,
+      "rank": 38,
       "category": "电影"
     },
     {
