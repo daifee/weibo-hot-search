@@ -1,6 +1,6 @@
 {
   "startTime": 1771344101416,
-  "endTime": 1771405033602,
+  "endTime": 1771405952304,
   "band_list": [
     {
       "raw_hot": 1706962,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1051094,
-      "num": 654176,
+      "num": 658591,
       "word": "龙洋主持完春晚哭了",
       "onboard_time": 1771393520,
       "rank": 5,
@@ -67,20 +67,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 705290,
-      "num": 1112846,
-      "word": "诗幂",
-      "onboard_time": 1771395980,
-      "rank": 14,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 682331,
+      "raw_hot": 797158,
       "num": 175081,
       "word": "打麻将输7万4名牌友全获刑",
       "onboard_time": 1771401199,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 729567,
+      "num": 1116730,
+      "word": "诗幂",
+      "onboard_time": 1771395980,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 682251,
@@ -227,6 +227,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 346814,
+      "num": 195479,
+      "word": "我和papi酱的愿望是一样的",
+      "onboard_time": 1771400059,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 345166,
       "num": 345166,
       "word": "女生半年卖出800多只点翠大蟑螂",
@@ -297,14 +305,6 @@
       "onboard_time": 1771391779,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 286982,
-      "num": 178065,
-      "word": "我和papi酱的愿望是一样的",
-      "onboard_time": 1771400059,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 286957,
@@ -387,8 +387,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 238314,
-      "num": 177669,
+      "raw_hot": 243822,
+      "num": 194202,
       "word": "王橹杰娃娃",
       "onboard_time": 1771400958,
       "rank": 23,
@@ -443,20 +443,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 215393,
+      "num": 215393,
+      "word": "看完惊蛰无声想掏垃圾桶",
+      "onboard_time": 1771402401,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 214679,
       "num": 214679,
       "word": "李子柒在春晚后台手搓非遗饰品",
       "onboard_time": 1771371197,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 214618,
-      "num": 179241,
-      "word": "看完惊蛰无声想掏垃圾桶",
-      "onboard_time": 1771402401,
-      "rank": 7,
-      "category": "电影"
     },
     {
       "raw_hot": 211731,
@@ -497,6 +497,14 @@
       "onboard_time": 1771384038,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 200777,
+      "num": 192584,
+      "word": "俩人谈恋爱四个人烧脑",
+      "onboard_time": 1771404198,
+      "rank": 13,
+      "category": "幽默"
     },
     {
       "raw_hot": 196966,
@@ -555,14 +563,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 188072,
-      "num": 177316,
-      "word": "俩人谈恋爱四个人烧脑",
-      "onboard_time": 1771404198,
-      "rank": 13,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 184315,
       "num": 126203,
       "word": "王一博易烊千玺春晚穿搭上榜最佳",
@@ -619,12 +619,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 169076,
+      "num": 169076,
+      "word": "大年初二黄景瑜喊关晓彤吃饭了",
+      "onboard_time": 1771402039,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 168847,
       "num": 164717,
       "word": "TF四代娃娃",
       "onboard_time": 1771401379,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 167929,
+      "num": 199494,
+      "word": "特朗普女儿伊万卡中文拜年",
+      "onboard_time": 1771404380,
+      "rank": 17,
+      "category": "国际时政"
     },
     {
       "raw_hot": 163473,
@@ -635,12 +651,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 160651,
-      "num": 160651,
-      "word": "大年初二黄景瑜喊关晓彤吃饭了",
-      "onboard_time": 1771402039,
-      "rank": 25,
-      "category": "剧集"
+      "raw_hot": 158654,
+      "num": 158654,
+      "word": "柯基被老家的狗羞辱了",
+      "onboard_time": 1771402520,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 154745,
@@ -684,7 +700,7 @@
     },
     {
       "raw_hot": 148819,
-      "num": 179001,
+      "num": 198117,
       "word": "印一大学被曝买宇树机器狗冒充自研",
       "onboard_time": 1771401500,
       "rank": 15,
@@ -739,6 +755,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 141431,
+      "num": 190534,
+      "word": "双胞胎姐姐 我将防守你每一步动作",
+      "onboard_time": 1771400180,
+      "rank": 9,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 139429,
       "num": 90006,
       "word": "宇树科技CEO回应春晚款机器人",
@@ -753,6 +777,14 @@
       "onboard_time": 1771382719,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 137104,
+      "num": 137104,
+      "word": "B站回应宋小宝小品搭档滞留台下",
+      "onboard_time": 1771404080,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 137069,
@@ -819,20 +851,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 127047,
-      "num": 127047,
-      "word": "柯基被老家的狗羞辱了",
-      "onboard_time": 1771402520,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 126995,
       "num": 104095,
       "word": "小孩哥称在小区搞了2千多红包",
       "onboard_time": 1771384038,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126815,
+      "num": 152303,
+      "word": "看小说时莫名其妙的生理反应",
+      "onboard_time": 1771401679,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 125511,
@@ -851,14 +883,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 124850,
-      "num": 152303,
-      "word": "看小说时莫名其妙的生理反应",
-      "onboard_time": 1771401679,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
       "raw_hot": 120569,
       "num": 120569,
       "word": "刘宇宁说大家进了春晚休息间鸦雀无声",
@@ -867,12 +891,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 119874,
-      "num": 178857,
-      "word": "双胞胎姐姐 我将防守你每一步动作",
-      "onboard_time": 1771400180,
-      "rank": 9,
-      "category": "幽默"
+      "raw_hot": 118046,
+      "num": 187513,
+      "word": "Faker说成有钱人咯",
+      "onboard_time": 1771405098,
+      "rank": 16,
+      "category": "电竞"
     },
     {
       "raw_hot": 117884,
@@ -996,7 +1020,7 @@
     },
     {
       "raw_hot": 104581,
-      "num": 104581,
+      "num": 173854,
       "word": "空气炸锅烤奶茶",
       "onboard_time": 1771404198,
       "rank": 42,
@@ -1059,14 +1083,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 99946,
-      "num": 176032,
-      "word": "特朗普女儿伊万卡中文拜年",
-      "onboard_time": 1771404380,
-      "rank": 17,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 99748,
       "num": 82688,
       "word": "镖人玉面鬼",
@@ -1099,14 +1115,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 97894,
-      "num": 97894,
-      "word": "B站回应宋小宝小品搭档滞留台下",
-      "onboard_time": 1771404080,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 95533,
       "num": 81845,
       "word": "春晚看迪丽热巴看入迷了",
@@ -1116,7 +1124,7 @@
     },
     {
       "raw_hot": 93165,
-      "num": 134985,
+      "num": 158989,
       "word": "不会扫兴的母亲培养出谷爱凌",
       "onboard_time": 1771404621,
       "rank": 29,
@@ -1129,6 +1137,14 @@
       "onboard_time": 1771338802,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 91410,
+      "num": 91410,
+      "word": "飞驰人生3赢麻了",
+      "onboard_time": 1771405098,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 90926,
@@ -1203,6 +1219,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 88292,
+      "num": 94936,
+      "word": "男子起诉相恋6年前女友还77万转账",
+      "onboard_time": 1771405400,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87913,
       "num": 97352,
       "word": "一个人的春节",
@@ -1233,6 +1257,14 @@
       "onboard_time": 1771403058,
       "rank": 30,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 86577,
+      "num": 91481,
+      "word": "写族谱发现祖上是正二品",
+      "onboard_time": 1771405519,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 85921,
@@ -1627,6 +1659,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 61644,
+      "num": 113230,
+      "word": "谭维维 在春晚困的迷瞪",
+      "onboard_time": 1771405280,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 60530,
       "num": 57414,
       "word": "父母出门孩子点外卖招待亲戚",
@@ -1657,6 +1697,14 @@
       "onboard_time": 1771347498,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 53626,
+      "num": 138758,
+      "word": "16个月宝宝拜年收红包当场验货",
+      "onboard_time": 1771405819,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 52931,
@@ -1691,6 +1739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 49635,
+      "num": 158676,
+      "word": "印度一大学拿中国机器狗冒充自研",
+      "onboard_time": 1771403299,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 47139,
       "num": 131141,
       "word": "姐妹俩年年用压岁钱买黄金攒下80克",
@@ -1715,12 +1771,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 45335,
-      "num": 106000,
-      "word": "印度一大学拿中国机器狗冒充自研",
-      "onboard_time": 1771403299,
-      "rank": 38,
-      "category": "海外新闻"
+      "raw_hot": 45374,
+      "num": 111759,
+      "word": "峰峻妹眼里的李飞",
+      "onboard_time": 1771404979,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 45042,
@@ -1761,6 +1817,14 @@
       "onboard_time": 1771392379,
       "rank": 37,
       "category": "综艺,互联网"
+    },
+    {
+      "raw_hot": 42704,
+      "num": 179735,
+      "word": "演出后台卫生巾",
+      "onboard_time": 1771405461,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 42486,
@@ -1995,6 +2059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 16517,
+      "num": 704906,
+      "word": "AI眼中的二十四节气",
+      "onboard_time": 1771381339,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 16396,
       "num": 103238,
       "word": "体育AI过大年",
@@ -2043,14 +2115,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 11984,
-      "num": 100496,
-      "word": "峰峻妹眼里的李飞",
-      "onboard_time": 1771404979,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 11589,
       "num": 13986,
       "word": "宁忠岩回应速滑历史性突破",
@@ -2059,11 +2123,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 7703,
-      "num": 704906,
-      "word": "AI眼中的二十四节气",
-      "onboard_time": 1771381339,
-      "rank": 2,
+      "raw_hot": 6731,
+      "num": 102769,
+      "word": "新年第一站为什么是金店",
+      "onboard_time": 1771405880,
+      "rank": 41,
       "category": "民生新闻"
     },
     {
