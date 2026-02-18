@@ -1,6 +1,6 @@
 {
   "startTime": 1771344101416,
-  "endTime": 1771412190973,
+  "endTime": 1771413215059,
   "band_list": [
     {
       "raw_hot": 1706962,
@@ -91,6 +91,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 704083,
+      "num": 162142,
+      "word": "网红阿沁直播首次谈前任刘阳",
+      "onboard_time": 1771409900,
+      "rank": 23,
+      "category": "网红"
+    },
+    {
       "raw_hot": 682251,
       "num": 571464,
       "word": "沈腾看似鼓掌实则扔橘子皮",
@@ -131,14 +139,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 626997,
-      "num": 162142,
-      "word": "网红阿沁直播首次谈前任刘阳",
-      "onboard_time": 1771409900,
-      "rank": 23,
-      "category": "网红"
-    },
-    {
       "raw_hot": 579853,
       "num": 1092776,
       "word": "谷爱凌大跳台决赛第三跳前眼神",
@@ -171,6 +171,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 501632,
+      "num": 120910,
+      "word": "曝邓超怒怼项目方维护孙俪",
+      "onboard_time": 1771412660,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 483176,
       "num": 142848,
       "word": "金价",
@@ -185,6 +193,14 @@
       "onboard_time": 1771382418,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 462236,
+      "num": 462236,
+      "word": "新婚第一次回婆家过年全程尬笑",
+      "onboard_time": 1771410321,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 440296,
@@ -259,6 +275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 381116,
+      "num": 354446,
+      "word": "太奶摇来了我太奶",
+      "onboard_time": 1771410680,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 377322,
       "num": 762220,
       "word": "中国速滑男团铜牌",
@@ -283,6 +307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 362326,
+      "num": 799743,
+      "word": "苏翊鸣单板滑雪坡障技巧决赛",
+      "onboard_time": 1771411880,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 361027,
       "num": 213700,
       "word": "写族谱发现祖上是正二品",
@@ -291,8 +323,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 352439,
-      "num": 352439,
+      "raw_hot": 359179,
+      "num": 359179,
       "word": "徐梦桃第一跳89.29分",
       "onboard_time": 1771408221,
       "rank": 18,
@@ -321,6 +353,22 @@
       "onboard_time": 1771385839,
       "rank": 5,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 319430,
+      "num": 102216,
+      "word": "谷爱凌 顶级狩猎者的眼神",
+      "onboard_time": 1771413140,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 319001,
+      "num": 237808,
+      "word": "日本挖到含稀土泥浆的真相来了",
+      "onboard_time": 1771411339,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 317180,
@@ -435,12 +483,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 258810,
-      "num": 258810,
-      "word": "新婚第一次回婆家过年全程尬笑",
-      "onboard_time": 1771410321,
-      "rank": 7,
-      "category": "民生新闻"
+      "raw_hot": 259428,
+      "num": 242350,
+      "word": "成何体统大结局 仓促",
+      "onboard_time": 1771407023,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 256412,
@@ -483,28 +531,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 242350,
-      "num": 242350,
-      "word": "成何体统大结局 仓促",
-      "onboard_time": 1771407023,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 242132,
       "num": 242132,
       "word": "16个月宝宝拜年收红包当场验货",
       "onboard_time": 1771405819,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 239210,
-      "num": 222989,
-      "word": "太奶摇来了我太奶",
-      "onboard_time": 1771410680,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 235968,
@@ -571,14 +603,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 218568,
-      "num": 218568,
-      "word": "苏翊鸣单板滑雪坡障技巧决赛",
-      "onboard_time": 1771411880,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
       "raw_hot": 214679,
       "num": 214679,
       "word": "李子柒在春晚后台手搓非遗饰品",
@@ -601,6 +625,14 @@
       "onboard_time": 1771378220,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 207241,
+      "num": 207241,
+      "word": "朱一龙 家里诗诗外面师姐",
+      "onboard_time": 1771411161,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 205361,
@@ -680,14 +712,6 @@
       "word": "特朗普女儿伊万卡中文拜年",
       "onboard_time": 1771404380,
       "rank": 17,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 186987,
-      "num": 147540,
-      "word": "日本挖到含稀土泥浆的真相来了",
-      "onboard_time": 1771411339,
-      "rank": 31,
       "category": "国际时政"
     },
     {
@@ -939,14 +963,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 138765,
-      "num": 138765,
-      "word": "朱一龙 家里诗诗外面师姐",
-      "onboard_time": 1771411161,
-      "rank": 33,
-      "category": "电影"
-    },
-    {
       "raw_hot": 137749,
       "num": 110539,
       "word": "女子楼道晾晒16斤咸肉撒手没",
@@ -1000,6 +1016,14 @@
       "word": "陈小春父子三人共用一张脸",
       "onboard_time": 1771378879,
       "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 134086,
+      "num": 112780,
+      "word": "赵丽颖王源也是当上门神了",
+      "onboard_time": 1771411459,
+      "rank": 39,
       "category": "艺人"
     },
     {
@@ -1075,6 +1099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 122524,
+      "num": 122524,
+      "word": "冰壶",
+      "onboard_time": 1771412480,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 120569,
       "num": 120569,
       "word": "刘宇宁说大家进了春晚休息间鸦雀无声",
@@ -1107,6 +1139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 113459,
+      "num": 101770,
+      "word": "沈腾听到王安宇没有他帅的反应",
+      "onboard_time": 1771413081,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 113296,
       "num": 97651,
       "word": "王楚然美到成何体统",
@@ -1120,6 +1160,14 @@
       "word": "刘诗诗回应每场戏都在流泪",
       "onboard_time": 1771399818,
       "rank": 29,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 112309,
+      "num": 98348,
+      "word": "熊出没一股哪吒味",
+      "onboard_time": 1771409300,
+      "rank": 38,
       "category": "电影"
     },
     {
@@ -1137,14 +1185,6 @@
       "onboard_time": 1771409601,
       "rank": 38,
       "category": "网红"
-    },
-    {
-      "raw_hot": 110104,
-      "num": 110104,
-      "word": "赵丽颖王源也是当上门神了",
-      "onboard_time": 1771411459,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 109394,
@@ -1235,6 +1275,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 103915,
+      "num": 127687,
+      "word": "走亲戚时父母说的要走了",
+      "onboard_time": 1771411580,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 103837,
       "num": 86727,
       "word": "央视春晚直播总收视份额创13年来新高",
@@ -1267,11 +1315,27 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 102402,
+      "num": 168807,
+      "word": "摆摊卖春联姐弟13天收入3万元",
+      "onboard_time": 1771411039,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 102176,
       "num": 172212,
       "word": "短道速滑局面像8年前平昌",
       "onboard_time": 1771397599,
       "rank": 13,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 101697,
+      "num": 148461,
+      "word": "中国女队全员晋级空中技巧决赛",
+      "onboard_time": 1771412061,
+      "rank": 28,
       "category": "体育"
     },
     {
@@ -1329,14 +1393,6 @@
       "onboard_time": 1771381100,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 93837,
-      "num": 148461,
-      "word": "中国女队全员晋级空中技巧决赛",
-      "onboard_time": 1771412061,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 93165,
@@ -1401,14 +1457,6 @@
       "onboard_time": 1771383679,
       "rank": 38,
       "category": "电影"
-    },
-    {
-      "raw_hot": 88913,
-      "num": 127687,
-      "word": "走亲戚时父母说的要走了",
-      "onboard_time": 1771411580,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 88723,
@@ -1491,12 +1539,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 85193,
-      "num": 93296,
-      "word": "熊出没一股哪吒味",
-      "onboard_time": 1771409300,
-      "rank": 38,
-      "category": "电影"
+      "raw_hot": 85760,
+      "num": 85760,
+      "word": "韩信踏浪归皮肤",
+      "onboard_time": 1771413021,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 85221,
+      "num": 122261,
+      "word": "苏翊鸣第一滑82.41分",
+      "onboard_time": 1771412240,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 84397,
@@ -1515,20 +1571,20 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 83674,
-      "num": 168807,
-      "word": "摆摊卖春联姐弟13天收入3万元",
-      "onboard_time": 1771411039,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 83381,
       "num": 96271,
       "word": "不要轻易尝试吃黄糕不嚼",
       "onboard_time": 1771407621,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 83290,
+      "num": 83290,
+      "word": "张维伊将头发梳成了大人模样",
+      "onboard_time": 1771412600,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 83061,
@@ -1791,6 +1847,14 @@
       "num": 86754,
       "word": "这视频是真拿命在拍",
       "onboard_time": 1771409481,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 73042,
+      "num": 79839,
+      "word": "萨摩耶 融不进的圈子也要硬融",
+      "onboard_time": 1771409961,
       "rank": 49,
       "category": "幽默"
     },
