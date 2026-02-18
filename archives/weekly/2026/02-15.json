@@ -1,6 +1,6 @@
 {
   "startTime": 1771087248939,
-  "endTime": 1771427600280,
+  "endTime": 1771430429513,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -627,6 +627,14 @@
       "category": "体育,综艺"
     },
     {
+      "raw_hot": 1194185,
+      "num": 1194185,
+      "word": "朱易发合影祝贺苏翊鸣",
+      "onboard_time": 1771428562,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1191255,
       "num": 609839,
       "word": "沈腾说错词自责打了半宿掼蛋",
@@ -1243,12 +1251,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 676858,
+      "num": 226660,
+      "word": "镖人 对吴京黑转BLACKPINK",
+      "onboard_time": 1771426462,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 674965,
       "num": 510727,
       "word": "张凌赫 七个红包",
       "onboard_time": 1771219945,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 672938,
+      "num": 224563,
+      "word": "朱易 苏翊鸣",
+      "onboard_time": 1771428382,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 672454,
@@ -1369,6 +1393,14 @@
       "onboard_time": 1771227742,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 639432,
+      "num": 138651,
+      "word": "酷滕 双取",
+      "onboard_time": 1771428562,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 632513,
@@ -2203,14 +2235,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 406432,
-      "num": 215899,
-      "word": "镖人 对吴京黑转BLACKPINK",
-      "onboard_time": 1771426462,
-      "rank": 30,
-      "category": "电影"
-    },
-    {
       "raw_hot": 406219,
       "num": 331050,
       "word": "苏翊鸣教练双膝跪地",
@@ -2417,6 +2441,14 @@
       "onboard_time": 1771146199,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 366638,
+      "num": 366638,
+      "word": "苏翊鸣祝贺徐梦桃",
+      "onboard_time": 1771428500,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 365914,
@@ -3571,6 +3603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 251522,
+      "num": 251522,
+      "word": "教练说苏翊鸣米兰夺金前不能谈恋爱",
+      "onboard_time": 1771425626,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 250240,
       "num": 115031,
       "word": "签约前买家突然砍价40万房东怒了",
@@ -4235,14 +4275,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 208708,
-      "num": 208708,
-      "word": "教练说苏翊鸣米兰夺金前不能谈恋爱",
-      "onboard_time": 1771425626,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 207629,
       "num": 112006,
       "word": "刘三瞳回应抄袭",
@@ -4505,6 +4537,14 @@
       "onboard_time": 1771110136,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 191865,
+      "num": 191865,
+      "word": "年入35万扛楼小伙回应买车质疑",
+      "onboard_time": 1771423283,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 191761,
@@ -5241,14 +5281,6 @@
       "onboard_time": 1771426822,
       "rank": 30,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 153041,
-      "num": 153041,
-      "word": "年入35万扛楼小伙回应买车质疑",
-      "onboard_time": 1771423283,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 152926,
@@ -6411,6 +6443,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 113696,
+      "num": 113696,
+      "word": "5个月宝宝抬头巧变磕头喜提红包",
+      "onboard_time": 1771427420,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 113427,
       "num": 89044,
       "word": "21年老店因帅儿子逆袭",
@@ -7251,14 +7291,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 94486,
-      "num": 94486,
-      "word": "5个月宝宝抬头巧变磕头喜提红包",
-      "onboard_time": 1771427420,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 94327,
       "num": 94327,
       "word": "杨幂贺岁图",
@@ -7376,6 +7408,14 @@
       "word": "王安宇 不知道飞驰人生太曼妙",
       "onboard_time": 1771342222,
       "rank": 40,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 90847,
+      "num": 716026,
+      "word": "春节档总票房已破22亿",
+      "onboard_time": 1771428321,
+      "rank": 2,
       "category": "电影"
     },
     {
@@ -7633,6 +7673,14 @@
       "onboard_time": 1771216582,
       "rank": 16,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 86725,
+      "num": 86725,
+      "word": "苏翊鸣回应中国队一天两金",
+      "onboard_time": 1771429461,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 86117,
@@ -8081,6 +8129,14 @@
       "onboard_time": 1771212020,
       "rank": 33,
       "category": "美食"
+    },
+    {
+      "raw_hot": 78759,
+      "num": 78759,
+      "word": "李现称苏翊鸣太不容易了",
+      "onboard_time": 1771428264,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 78672,
@@ -9555,6 +9611,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 57235,
+      "num": 138318,
+      "word": "中国队赢了就是牛",
+      "onboard_time": 1771427962,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 57076,
       "num": 116238,
       "word": "苏翊鸣比赛时间提前1天",
@@ -9776,6 +9840,14 @@
       "word": "中国2银2铜暂列冬奥奖牌榜第18",
       "onboard_time": 1771071261,
       "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 53117,
+      "num": 138664,
+      "word": "徐梦桃就是中国冰雪的底气",
+      "onboard_time": 1771427962,
+      "rank": 19,
       "category": "体育"
     },
     {
