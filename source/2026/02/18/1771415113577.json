@@ -1,0 +1,410 @@
+{
+  "runTime": 1771415113577,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2475382,
+        "num": 2475382,
+        "word": "苏翊鸣单板滑雪坡障技巧决赛",
+        "onboard_time": 1771411880,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 598848,
+        "num": 982655,
+        "word": "新婚第一次回婆家过年全程尬笑",
+        "onboard_time": 1771410321,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30501,
+        "num": 786560,
+        "word": "北京台春晚收视十三连冠",
+        "onboard_time": 1771414161,
+        "rank": 2,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 337052,
+        "num": 337052,
+        "word": "谷爱凌大跳台决赛第三跳前眼神",
+        "onboard_time": 1771407140,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 298552,
+        "num": 298552,
+        "word": "孩子存1000比你存20万利息高",
+        "onboard_time": 1771395079,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 404209,
+        "num": 296044,
+        "word": "龙洋主持完春晚哭了",
+        "onboard_time": 1771393520,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 333380,
+        "num": 293604,
+        "word": "朱一龙 家里诗诗外面师姐",
+        "onboard_time": 1771411161,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 286452,
+        "num": 286452,
+        "word": "谷爱凌 顶级狩猎者的眼神",
+        "onboard_time": 1771413140,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 275352,
+        "num": 275352,
+        "word": "镖人",
+        "onboard_time": 1771396640,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 243462,
+        "num": 243462,
+        "word": "徐梦桃第一跳89.29分",
+        "onboard_time": 1771408221,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 427308,
+        "num": 242714,
+        "word": "日本挖到含稀土泥浆的真相来了",
+        "onboard_time": 1771411339,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 268628,
+        "num": 234983,
+        "word": "太奶摇来了我太奶",
+        "onboard_time": 1771410680,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 227021,
+        "num": 227021,
+        "word": "成何体统大结局 仓促",
+        "onboard_time": 1771407023,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 226769,
+        "num": 226769,
+        "word": "贡菜是莴笋",
+        "onboard_time": 1771400958,
+        "rank": 13,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 202551,
+        "num": 202551,
+        "word": "苏翊鸣第一滑82.41分",
+        "onboard_time": 1771412240,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181704,
+        "num": 181704,
+        "word": "镖人 武侠不死",
+        "onboard_time": 1771406179,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 164464,
+        "num": 164464,
+        "word": "走亲戚时父母说的要走了",
+        "onboard_time": 1771411580,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154795,
+        "num": 154795,
+        "word": "段永平1200亿持仓曝光",
+        "onboard_time": 1771414701,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 146892,
+        "num": 146892,
+        "word": "冬奥会",
+        "onboard_time": 1771413981,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 47630,
+        "num": 144737,
+        "word": "豆包解密春晚魔术",
+        "onboard_time": 1771414400,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178737,
+        "num": 141281,
+        "word": "看完惊蛰无声想掏垃圾桶",
+        "onboard_time": 1771402401,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 386823,
+        "num": 138008,
+        "word": "打麻将输7万4名牌友全获刑",
+        "onboard_time": 1771401199,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1244318,
+        "num": 134254,
+        "word": "曝邓超怒怼项目方维护孙俪",
+        "onboard_time": 1771412660,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 568367,
+        "num": 131760,
+        "word": "网红阿沁直播首次谈前任刘阳",
+        "onboard_time": 1771409900,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 130401,
+        "num": 130401,
+        "word": "写族谱发现祖上是正二品",
+        "onboard_time": 1771405519,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 535772,
+        "num": 130242,
+        "word": "云旗郝熠然滑雪",
+        "onboard_time": 1771409300,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169817,
+        "num": 129470,
+        "word": "沈腾听到王安宇没有他帅的反应",
+        "onboard_time": 1771413081,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 128052,
+        "num": 128052,
+        "word": "党员干部春节期间打麻将违规吗",
+        "onboard_time": 1771406659,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50025,
+        "num": 126786,
+        "word": "徐梦桃邵琪孔凡钰进决赛",
+        "onboard_time": 1771411101,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 37045,
+        "num": 124691,
+        "word": "印度一大学拿中国机器狗冒充自研",
+        "onboard_time": 1771403299,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 258894,
+        "num": 123422,
+        "word": "赖清德被喷溅呕吐物",
+        "onboard_time": 1771408401,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 146756,
+        "num": 120139,
+        "word": "镖人惠英红没打戏好可惜",
+        "onboard_time": 1771412420,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 144482,
+        "num": 119170,
+        "word": "赵丽颖王源也是当上门神了",
+        "onboard_time": 1771411459,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117404,
+        "num": 117404,
+        "word": "摆摊卖春联姐弟13天收入3万元",
+        "onboard_time": 1771411039,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130412,
+        "num": 117386,
+        "word": "惊蛰无声 反转",
+        "onboard_time": 1771409601,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 117196,
+        "num": 117196,
+        "word": "第一次感受到了宗族的威力",
+        "onboard_time": 1771414640,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 116768,
+        "num": 116768,
+        "word": "娜然与霍家父子同游意大利",
+        "onboard_time": 1771387698,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112021,
+        "num": 112021,
+        "word": "韩信踏浪归皮肤",
+        "onboard_time": 1771413021,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 108204,
+        "num": 108204,
+        "word": "诗幂",
+        "onboard_time": 1771395980,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 108028,
+        "num": 108028,
+        "word": "苏翊鸣第二滑79.90分",
+        "onboard_time": 1771414881,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106855,
+        "num": 106855,
+        "word": "CCTV6 三女休夫",
+        "onboard_time": 1771414881,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 47892,
+        "num": 102722,
+        "word": "大年初二迎福健康是第一福",
+        "onboard_time": 1771414521,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 101213,
+        "num": 101213,
+        "word": "陈梅婷第二跳100.29分",
+        "onboard_time": 1771414881,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99968,
+        "num": 99968,
+        "word": "中国女队全员晋级空中技巧决赛",
+        "onboard_time": 1771412061,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98055,
+        "num": 98055,
+        "word": "飞驰人生3赢麻了",
+        "onboard_time": 1771405098,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 97612,
+        "num": 97612,
+        "word": "冰壶",
+        "onboard_time": 1771412480,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91063,
+        "num": 91063,
+        "word": "老铺黄金回应调价",
+        "onboard_time": 1771413560,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 90735,
+        "num": 90735,
+        "word": "苏翊鸣首轮排第一",
+        "onboard_time": 1771413261,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90407,
+        "num": 90407,
+        "word": "演出后台卫生巾",
+        "onboard_time": 1771405461,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89575,
+        "num": 89575,
+        "word": "过年期间的胃vs平时的胃",
+        "onboard_time": 1771414100,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平复信美国艾奥瓦州友人#"
+    }
+  }
+}
