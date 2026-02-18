@@ -1,6 +1,6 @@
 {
   "startTime": 1771087248939,
-  "endTime": 1771457945893,
+  "endTime": 1771458871462,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -1932,7 +1932,7 @@
     },
     {
       "raw_hot": 461629,
-      "num": 326962,
+      "num": 374958,
       "word": "苏翊鸣甜蜜回复朱易",
       "onboard_time": 1771433119,
       "rank": 4,
@@ -2780,7 +2780,7 @@
     },
     {
       "raw_hot": 321691,
-      "num": 876540,
+      "num": 993861,
       "word": "林孝埈 遗憾",
       "onboard_time": 1771443494,
       "rank": 3,
@@ -3260,7 +3260,7 @@
     },
     {
       "raw_hot": 279536,
-      "num": 634835,
+      "num": 721103,
       "word": "刘少昂摔了",
       "onboard_time": 1771444693,
       "rank": 1,
@@ -3289,6 +3289,14 @@
       "onboard_time": 1771239809,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 277846,
+      "num": 68183,
+      "word": "半藏森林转型",
+      "onboard_time": 1771456637,
+      "rank": 21,
+      "category": "网红"
     },
     {
       "raw_hot": 277843,
@@ -4523,14 +4531,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 196299,
-      "num": 54936,
-      "word": "半藏森林转型",
-      "onboard_time": 1771456637,
-      "rank": 21,
-      "category": "网红"
-    },
-    {
       "raw_hot": 196191,
       "num": 196191,
       "word": "刘浩存这个空翻和控腿力度",
@@ -4771,12 +4771,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 181812,
+      "num": 181812,
+      "word": "浪姐首位冬奥会卫冕冠军",
+      "onboard_time": 1771435456,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 181704,
       "num": 181704,
       "word": "镖人 武侠不死",
       "onboard_time": 1771406179,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 179282,
+      "num": 116093,
+      "word": "复旦大学教授讲自己儿子是学渣怎么办",
+      "onboard_time": 1771456876,
+      "rank": 10,
+      "category": "教育"
     },
     {
       "raw_hot": 179041,
@@ -4817,14 +4833,6 @@
       "onboard_time": 1771170261,
       "rank": 41,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 177597,
-      "num": 177597,
-      "word": "浪姐首位冬奥会卫冕冠军",
-      "onboard_time": 1771435456,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 177591,
@@ -4873,6 +4881,14 @@
       "onboard_time": 1771332743,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 175549,
+      "num": 175549,
+      "word": "外网如何评价春晚机器人",
+      "onboard_time": 1771453215,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 175353,
@@ -5145,14 +5161,6 @@
       "onboard_time": 1771336102,
       "rank": 24,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 161808,
-      "num": 161808,
-      "word": "外网如何评价春晚机器人",
-      "onboard_time": 1771453215,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 161576,
@@ -5483,6 +5491,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 147514,
+      "num": 147514,
+      "word": "飞驰人生3杀疯了",
+      "onboard_time": 1771436418,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 147405,
       "num": 109815,
       "word": "张新成和邓超的节目是不是上反了",
@@ -5713,6 +5729,14 @@
       "onboard_time": 1771165043,
       "rank": 34,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 139139,
+      "num": 51276,
+      "word": "湖北宜城一爆竹店爆炸附近居民发声",
+      "onboard_time": 1771457538,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 139118,
@@ -6203,14 +6227,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 123611,
-      "num": 110137,
-      "word": "复旦大学教授讲自己儿子是学渣怎么办",
-      "onboard_time": 1771456876,
-      "rank": 10,
-      "category": "教育"
-    },
-    {
       "raw_hot": 122524,
       "num": 122524,
       "word": "冰壶",
@@ -6395,6 +6411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 117157,
+      "num": 117157,
+      "word": "中国奖牌榜反超韩国",
+      "onboard_time": 1771454835,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 116933,
       "num": 116933,
       "word": "王菲春晚后台路透",
@@ -6499,14 +6523,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 115126,
-      "num": 115126,
-      "word": "中国奖牌榜反超韩国",
-      "onboard_time": 1771454835,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 114919,
       "num": 251949,
       "word": "甘蔗老板不敢睁开眼",
@@ -6537,14 +6553,6 @@
       "onboard_time": 1771264220,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 114129,
-      "num": 114129,
-      "word": "飞驰人生3杀疯了",
-      "onboard_time": 1771436418,
-      "rank": 6,
-      "category": "电影"
     },
     {
       "raw_hot": 113827,
@@ -7075,6 +7083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 102376,
+      "num": 102376,
+      "word": "徐梦桃回应是否参加下届冬奥会",
+      "onboard_time": 1771457056,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 102176,
       "num": 172212,
       "word": "短道速滑局面像8年前平昌",
@@ -7216,6 +7232,14 @@
       "word": "林孝埈无奈摇头",
       "onboard_time": 1771264399,
       "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 99399,
+      "num": 68191,
+      "word": "苏翊鸣和亚军季军角落等分好搞笑",
+      "onboard_time": 1771456876,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -7881,6 +7905,14 @@
       "onboard_time": 1771343900,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 84375,
+      "num": 67865,
+      "word": "5种高危剩菜宁可倒掉也不能吃",
+      "onboard_time": 1771457056,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 83824,
@@ -8587,14 +8619,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 74287,
-      "num": 45082,
-      "word": "苏翊鸣和亚军季军角落等分好搞笑",
-      "onboard_time": 1771456876,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 74232,
       "num": 74232,
       "word": "王一博闪耀动起来春晚舞台TOP1",
@@ -9099,6 +9123,14 @@
       "category": "综艺,数码"
     },
     {
+      "raw_hot": 68418,
+      "num": 68418,
+      "word": "朱一龙回应家里刘诗诗外面杨幂",
+      "onboard_time": 1771458020,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 68384,
       "num": 175896,
       "word": "Seedance2.0和Kling3.0视频对比",
@@ -9113,14 +9145,6 @@
       "onboard_time": 1771223902,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 68258,
-      "num": 54666,
-      "word": "5种高危剩菜宁可倒掉也不能吃",
-      "onboard_time": 1771457056,
-      "rank": 23,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 67971,
@@ -9169,6 +9193,14 @@
       "onboard_time": 1771379779,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 67279,
+      "num": 67279,
+      "word": "爱泼斯坦通过伦敦机场贩运女性",
+      "onboard_time": 1771457176,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 67208,
@@ -9483,6 +9515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 62541,
+      "num": 62541,
+      "word": "杨幂刘诗诗时隔16年同框宣发",
+      "onboard_time": 1771437435,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 62512,
       "num": 62512,
       "word": "提前买机票一家四口血亏4000",
@@ -9593,14 +9633,6 @@
       "onboard_time": 1771266676,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 61016,
-      "num": 61016,
-      "word": "徐梦桃回应是否参加下届冬奥会",
-      "onboard_time": 1771457056,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 60718,
@@ -9819,19 +9851,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 56687,
+      "num": 68309,
+      "word": "刘宇宁展示最满意的身体部位",
+      "onboard_time": 1771457717,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 56663,
       "num": 4983348,
       "word": "除夕祝你万事胜意",
       "onboard_time": 1771232727,
       "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 56462,
-      "num": 44704,
-      "word": "湖北宜城一爆竹店爆炸附近居民发声",
-      "onboard_time": 1771457538,
-      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -9969,14 +10001,6 @@
       "onboard_time": 1771310721,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 54416,
-      "num": 54416,
-      "word": "杨幂刘诗诗时隔16年同框宣发",
-      "onboard_time": 1771437435,
-      "rank": 32,
-      "category": "电影"
     },
     {
       "raw_hot": 54363,
@@ -10187,14 +10211,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 51117,
-      "num": 44517,
-      "word": "爱泼斯坦通过伦敦机场贩运女性",
-      "onboard_time": 1771457176,
-      "rank": 32,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 50908,
       "num": 96796,
       "word": "有王安宇这样的老公你几点回家",
@@ -10308,7 +10324,7 @@
     },
     {
       "raw_hot": 49085,
-      "num": 44130,
+      "num": 49031,
       "word": "任子威说500米名单太恐怖",
       "onboard_time": 1771445294,
       "rank": 30,
@@ -10715,6 +10731,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 41241,
+      "num": 42641,
+      "word": "今年的假放了但没完全放",
+      "onboard_time": 1771458378,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41138,
       "num": 41138,
       "word": "刘少昂500米B组第一",
@@ -10993,14 +11017,6 @@
       "onboard_time": 1771266617,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 33126,
-      "num": 33126,
-      "word": "刘宇宁展示最满意的身体部位",
-      "onboard_time": 1771457717,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 33044,
@@ -11715,6 +11731,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 21079,
+      "num": 575763,
+      "word": "00后新兵有啥心愿",
+      "onboard_time": 1771419202,
+      "rank": 2,
+      "category": "军事"
+    },
+    {
       "raw_hot": 21026,
       "num": 374648,
       "word": "年夜饭变身大型千问拉新现场",
@@ -11809,14 +11833,6 @@
       "onboard_time": 1771312519,
       "rank": 14,
       "category": "电影"
-    },
-    {
-      "raw_hot": 19431,
-      "num": 575763,
-      "word": "00后新兵有啥心愿",
-      "onboard_time": 1771419202,
-      "rank": 2,
-      "category": "军事"
     },
     {
       "raw_hot": 19386,
