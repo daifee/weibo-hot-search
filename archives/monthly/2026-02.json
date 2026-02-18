@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1771442987744,
+  "endTime": 1771445081693,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -11075,6 +11075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 308576,
+      "num": 308576,
+      "word": "林孝埈无缘500米半决赛",
+      "onboard_time": 1771443135,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 308249,
       "num": 1732791,
       "word": "新年祝福语",
@@ -12321,6 +12329,14 @@
       "onboard_time": 1769921778,
       "rank": 33,
       "category": "财经"
+    },
+    {
+      "raw_hot": 279536,
+      "num": 279536,
+      "word": "刘少昂摔了",
+      "onboard_time": 1771444693,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 279306,
@@ -15347,6 +15363,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 226385,
+      "num": 226385,
+      "word": "林孝埈 遗憾",
+      "onboard_time": 1771443494,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 226361,
       "num": 226361,
       "word": "迪丽热巴 高智感妈咪",
@@ -16321,6 +16345,14 @@
       "onboard_time": 1771112057,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 211751,
+      "num": 211751,
+      "word": "冬奥短道速滑男子500米",
+      "onboard_time": 1771442114,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 211738,
@@ -18321,6 +18353,14 @@
       "onboard_time": 1770879619,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 183587,
+      "num": 183587,
+      "word": "刘少昂进500米半决赛",
+      "onboard_time": 1771442954,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 183381,
@@ -24979,6 +25019,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 125744,
+      "num": 125744,
+      "word": "刘少昂无缘500米决赛",
+      "onboard_time": 1771444693,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 125738,
       "num": 91839,
       "word": "王楚钦倒地爆冲张本智和",
@@ -27977,14 +28025,6 @@
       "onboard_time": 1770698120,
       "rank": 42,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 111316,
-      "num": 63618,
-      "word": "冬奥短道速滑男子500米",
-      "onboard_time": 1771442114,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 111311,
@@ -52011,14 +52051,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 17683,
-      "num": 18225,
-      "word": "刘少昂进500米半决赛",
-      "onboard_time": 1771442954,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 17669,
       "num": 98206,
       "word": "女护士被割喉案凶手至今未道歉",
@@ -52201,6 +52233,14 @@
       "onboard_time": 1770302487,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16951,
+      "num": 16951,
+      "word": "冬奥短道速滑女子3000米决赛",
+      "onboard_time": 1771443494,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 16933,
