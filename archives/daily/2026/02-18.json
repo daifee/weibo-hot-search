@@ -1,6 +1,6 @@
 {
   "startTime": 1771344101416,
-  "endTime": 1771401421746,
+  "endTime": 1771401914383,
   "band_list": [
     {
       "raw_hot": 1706962,
@@ -67,6 +67,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 705290,
+      "num": 1112846,
+      "word": "诗幂",
+      "onboard_time": 1771395980,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 682251,
       "num": 571464,
       "word": "沈腾看似鼓掌实则扔橘子皮",
@@ -89,14 +97,6 @@
       "onboard_time": 1771394958,
       "rank": 49,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 662569,
-      "num": 1106011,
-      "word": "诗幂",
-      "onboard_time": 1771395980,
-      "rank": 14,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 659220,
@@ -324,7 +324,7 @@
     },
     {
       "raw_hot": 261165,
-      "num": 112796,
+      "num": 150214,
       "word": "时代峰峻高会崩了",
       "onboard_time": 1771399698,
       "rank": 30,
@@ -363,8 +363,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 233691,
-      "num": 180996,
+      "raw_hot": 235068,
+      "num": 235068,
       "word": "镖人",
       "onboard_time": 1771396640,
       "rank": 17,
@@ -403,6 +403,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 225540,
+      "num": 103630,
+      "word": "打麻将输7万4名牌友全获刑",
+      "onboard_time": 1771401199,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 220201,
       "num": 339476,
       "word": "谷爱凌 顶级alpha",
@@ -417,6 +425,14 @@
       "onboard_time": 1771371197,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 212960,
+      "num": 212960,
+      "word": "贡菜是莴笋",
+      "onboard_time": 1771400958,
+      "rank": 42,
+      "category": "美食"
     },
     {
       "raw_hot": 211731,
@@ -465,6 +481,14 @@
       "onboard_time": 1771337123,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 196392,
+      "num": 159022,
+      "word": "王橹杰娃娃",
+      "onboard_time": 1771400958,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 194975,
@@ -523,6 +547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 179619,
+      "num": 172164,
+      "word": "我和papi酱的愿望是一样的",
+      "onboard_time": 1771400059,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 179039,
       "num": 179039,
       "word": "成何体统 与妻书",
@@ -547,14 +579,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 172632,
-      "num": 172164,
-      "word": "我和papi酱的愿望是一样的",
-      "onboard_time": 1771400059,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 171408,
       "num": 131284,
       "word": "女子回应回娘家只需1秒钟",
@@ -571,20 +595,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 168847,
+      "num": 128253,
+      "word": "TF四代娃娃",
+      "onboard_time": 1771401379,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 163473,
       "num": 163473,
       "word": "全妈回应全红婵退役计划",
       "onboard_time": 1771370296,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 159022,
-      "num": 159022,
-      "word": "王橹杰娃娃",
-      "onboard_time": 1771400958,
-      "rank": 23,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 154745,
@@ -699,6 +723,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 135248,
+      "num": 107158,
+      "word": "易烊千玺嗓子哑因过于疲惫",
+      "onboard_time": 1771401199,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 134580,
       "num": 134580,
       "word": "猫 你没有自己的家吗",
@@ -737,14 +769,6 @@
       "onboard_time": 1771318821,
       "rank": 24,
       "category": "电影"
-    },
-    {
-      "raw_hot": 128253,
-      "num": 128253,
-      "word": "TF四代娃娃",
-      "onboard_time": 1771401379,
-      "rank": 27,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 126995,
@@ -827,6 +851,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 110588,
+      "num": 99208,
+      "word": "朕与吴京何时有过嫌隙",
+      "onboard_time": 1771401320,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 109990,
+      "num": 109990,
+      "word": "印一大学被曝买宇树机器狗冒充自研",
+      "onboard_time": 1771401500,
+      "rank": 15,
+      "category": "海外新闻,数码"
+    },
+    {
       "raw_hot": 109394,
       "num": 109394,
       "word": "易烊千玺台词含金量",
@@ -859,20 +899,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 107158,
-      "num": 107158,
-      "word": "易烊千玺嗓子哑因过于疲惫",
-      "onboard_time": 1771401199,
-      "rank": 33,
-      "category": "电影"
-    },
-    {
       "raw_hot": 106979,
       "num": 116375,
       "word": "95后女生上门做年夜饭爆单月入4万",
       "onboard_time": 1771344802,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 106271,
+      "num": 98354,
+      "word": "杨幂 好有说服力的女特务",
+      "onboard_time": 1771401021,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 105533,
@@ -955,14 +995,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 100388,
-      "num": 100388,
-      "word": "打麻将输7万4名牌友全获刑",
-      "onboard_time": 1771401199,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 99748,
       "num": 82688,
       "word": "镖人玉面鬼",
@@ -1001,14 +1033,6 @@
       "onboard_time": 1771381100,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 93144,
-      "num": 93144,
-      "word": "杨幂 好有说服力的女特务",
-      "onboard_time": 1771401021,
-      "rank": 44,
-      "category": "电影"
     },
     {
       "raw_hot": 92992,
@@ -1123,6 +1147,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 84703,
+      "num": 97658,
+      "word": "看小说时莫名其妙的生理反应",
+      "onboard_time": 1771401679,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 84397,
       "num": 66722,
       "word": "孟子义在刻意增肥",
@@ -1169,6 +1201,14 @@
       "onboard_time": 1771382299,
       "rank": 34,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 80751,
+      "num": 91030,
+      "word": "25岁女生在景区扮财神爷走红",
+      "onboard_time": 1771400899,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 80717,
@@ -1283,14 +1323,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 74947,
-      "num": 94533,
-      "word": "贡菜是莴笋",
-      "onboard_time": 1771400958,
-      "rank": 42,
-      "category": "美食"
-    },
-    {
       "raw_hot": 74848,
       "num": 74848,
       "word": "B站春晚活人感",
@@ -1400,14 +1432,6 @@
       "word": "山西人不语只是一味在阳台上安插座",
       "onboard_time": 1771388839,
       "rank": 42,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 67926,
-      "num": 90419,
-      "word": "25岁女生在景区扮财神爷走红",
-      "onboard_time": 1771400899,
-      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -1537,6 +1561,14 @@
       "onboard_time": 1771342821,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 50908,
+      "num": 96796,
+      "word": "有王安宇这样的老公你几点回家",
+      "onboard_time": 1771401679,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 49859,
@@ -1732,7 +1764,7 @@
     },
     {
       "raw_hot": 24803,
-      "num": 628019,
+      "num": 635995,
       "word": "大年初二回门日",
       "onboard_time": 1771376479,
       "rank": 2,
@@ -1817,6 +1849,14 @@
       "onboard_time": 1771356494,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 16805,
+      "num": 102857,
+      "word": "航司回应新年伊始机票价腰斩",
+      "onboard_time": 1771401620,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 16396,

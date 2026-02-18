@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/02/15 00:40:48 ~ 2026/02/18 15:57:01
+本榜单时间：2026/02/15 00:40:48 ~ 2026/02/18 16:05:14
 </p>
 </blockquote>
 <p>
@@ -813,6 +813,12 @@ B站弹幕（热度：808062）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AF%97%E5%B9%82%23" target="weibo">
+诗幂（热度：705290）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A5%9A%E7%94%9F%20%E6%88%91%E4%BB%AC%E6%98%A5%E5%A4%A9%E8%A7%81%23" target="weibo">
 陈楚生 我们春天见（热度：699963）
 </a>
@@ -875,12 +881,6 @@ B站弹幕（热度：808062）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A3%9E%E9%A9%B0%E4%BA%BA%E7%94%9F3%E7%A5%A8%E6%88%BF%23" target="weibo">
 飞驰人生3票房（热度：662593）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AF%97%E5%B9%82%23" target="weibo">
-诗幂（热度：662569）
 </a>
 </li>
 
@@ -2673,6 +2673,12 @@ Kimi估值超100亿美元（热度：250181）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%89%93%E9%BA%BB%E5%B0%86%E8%BE%937%E4%B8%874%E5%90%8D%E7%89%8C%E5%8F%8B%E5%85%A8%E8%8E%B7%E5%88%91%23" target="weibo">
+打麻将输7万4名牌友全获刑（热度：225540）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%AF%E5%B0%8F%E5%88%9A%E5%BE%90%E5%B8%86%E4%B8%80%E5%AE%B6%E4%B8%89%E5%8F%A3%E5%A4%A7%E7%89%87%23" target="weibo">
 冯小刚徐帆一家三口大片（热度：224396）
 </a>
@@ -2819,6 +2825,12 @@ Kimi估值超100亿美元（热度：250181）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E6%98%A5%E6%99%9A%20%E5%A4%A7%E9%87%8F%E5%B9%BF%E5%91%8A%E9%87%8C%E7%A9%BF%E6%8F%92%E4%BA%86%E5%B0%91%E9%87%8F%E8%8A%82%E7%9B%AE%23" target="weibo">
 河南春晚 大量广告里穿插了少量节目（热度：213109）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B4%A1%E8%8F%9C%E6%98%AF%E8%8E%B4%E7%AC%8B%23" target="weibo">
+贡菜是莴笋（热度：212960）
 </a>
 </li>
 
@@ -2985,6 +2997,12 @@ cbc解说林孝埈摔倒似脚下冰面裂开（热度：211402）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A9%B9%E6%9D%B0%E5%A8%83%E5%A8%83%23" target="weibo">
+王橹杰娃娃（热度：196392）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E6%B5%A9%E5%AD%98%E8%BF%99%E4%B8%AA%E7%A9%BA%E7%BF%BB%E5%92%8C%E6%8E%A7%E8%85%BF%E5%8A%9B%E5%BA%A6%23" target="weibo">
 刘浩存这个空翻和控腿力度（热度：196191）
 </a>
@@ -3141,6 +3159,12 @@ TF家族新音纪录片（热度：182488）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E5%92%8Cpapi%E9%85%B1%E7%9A%84%E6%84%BF%E6%9C%9B%E6%98%AF%E4%B8%80%E6%A0%B7%E7%9A%84%23" target="weibo">
+我和papi酱的愿望是一样的（热度：179619）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%BA%A2%E8%A3%99%E6%91%87%E6%9B%B3%23" target="weibo">
 迪丽热巴红裙摇曳（热度：179041）
 </a>
@@ -3219,12 +3243,6 @@ TF家族新音纪录片（热度：182488）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E5%92%8Cpapi%E9%85%B1%E7%9A%84%E6%84%BF%E6%9C%9B%E6%98%AF%E4%B8%80%E6%A0%B7%E7%9A%84%23" target="weibo">
-我和papi酱的愿望是一样的（热度：172632）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%89%E5%AE%87%E6%98%A5%E6%99%9A%E5%85%A8%E7%A8%8B%E6%88%AA%E4%B8%8D%E5%88%B0%E4%B8%80%E5%BC%A0%E6%B8%85%E6%99%B0%E7%9A%84%23" target="weibo">
 王安宇春晚全程截不到一张清晰的（热度：172449）
 </a>
@@ -3257,6 +3275,12 @@ TF家族新音纪录片（热度：182488）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Faker%E4%B8%8EUzi%E8%BF%8E%E6%9D%A5%E5%90%8D%E4%BA%BA%E5%A0%82%E6%96%B0%E6%88%90%E5%91%98%23" target="weibo">
 Faker与Uzi迎来名人堂新成员（热度：169060）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23TF%E5%9B%9B%E4%BB%A3%E5%A8%83%E5%A8%83%23" target="weibo">
+TF四代娃娃（热度：168847）
 </a>
 </li>
 
@@ -3419,12 +3443,6 @@ T1对战BFX（热度：159299）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E6%8D%A2%E5%A4%B4%E5%83%8F%23" target="weibo">
 雷军换头像（热度：159093）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A9%B9%E6%9D%B0%E5%A8%83%E5%A8%83%23" target="weibo">
-王橹杰娃娃（热度：159022）
 </a>
 </li>
 
@@ -3759,6 +3777,12 @@ TF家族族综（热度：151901）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%97%93%E5%AD%90%E5%93%91%E5%9B%A0%E8%BF%87%E4%BA%8E%E7%96%B2%E6%83%AB%23" target="weibo">
+易烊千玺嗓子哑因过于疲惫（热度：135248）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9F%AD%E5%89%A7%E6%BC%94%E5%91%98%E5%94%B1%E6%AD%8C%20%E5%A4%A7%E7%99%BD%E5%97%93%23" target="weibo">
 短剧演员唱歌 大白嗓（热度：134727）
 </a>
@@ -3887,12 +3911,6 @@ TF家族族综（热度：151901）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E6%8C%91%E7%9C%89%23" target="weibo">
 檀健次挑眉（热度：128638）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23TF%E5%9B%9B%E4%BB%A3%E5%A8%83%E5%A8%83%23" target="weibo">
-TF四代娃娃（热度：128253）
 </a>
 </li>
 
@@ -4269,6 +4287,18 @@ T1被BFX虐泉（热度：126804）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%95%E4%B8%8E%E5%90%B4%E4%BA%AC%E4%BD%95%E6%97%B6%E6%9C%89%E8%BF%87%E5%AB%8C%E9%9A%99%23" target="weibo">
+朕与吴京何时有过嫌隙（热度：110588）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E4%B8%80%E5%A4%A7%E5%AD%A6%E8%A2%AB%E6%9B%9D%E4%B9%B0%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E7%8B%97%E5%86%92%E5%85%85%E8%87%AA%E7%A0%94%23" target="weibo">
+印一大学被曝买宇树机器狗冒充自研（热度：109990）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E5%9B%9E%E8%80%81%E5%AE%B6%E8%BF%87%E5%B9%B4%23" target="weibo">
 孙颖莎回老家过年（热度：109855）
 </a>
@@ -4341,12 +4371,6 @@ T1被BFX虐泉（热度：126804）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%97%93%E5%AD%90%E5%93%91%E5%9B%A0%E8%BF%87%E4%BA%8E%E7%96%B2%E6%83%AB%23" target="weibo">
-易烊千玺嗓子哑因过于疲惫（热度：107158）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%2313%E4%B8%AA%E5%8F%91%E5%B0%8F%E5%88%9D%E4%B8%80%E7%99%BB%E9%97%A8%E7%BB%99%E5%BD%BC%E6%AD%A4%E7%88%B6%E6%AF%8D%E7%A3%95%E5%A4%B4%E6%8B%9C%E5%B9%B4%23" target="weibo">
 13个发小初一登门给彼此父母磕头拜年（热度：107132）
 </a>
@@ -4373,6 +4397,12 @@ T1被BFX虐泉（热度：126804）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A2%81%E5%AE%B6%E8%BE%89%20%E6%88%91%E4%B9%9F%E6%B2%A1%E6%9C%89%E5%B7%A5%E4%BD%9C%E8%AF%81%23" target="weibo">
 梁家辉 我也没有工作证（热度：106954）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%20%E5%A5%BD%E6%9C%89%E8%AF%B4%E6%9C%8D%E5%8A%9B%E7%9A%84%E5%A5%B3%E7%89%B9%E5%8A%A1%23" target="weibo">
+杨幂 好有说服力的女特务（热度：106271）
 </a>
 </li>
 
@@ -4535,12 +4565,6 @@ A市纸啊（热度：103614）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%AC%E6%A2%85%E6%B1%82%E7%82%B9%E5%A4%8F%E6%B4%9B%E5%94%B1%E6%AD%8C%20%E9%A9%AC%E4%B8%BD%E6%B1%82%E7%BB%99%E6%B2%88%E8%85%BE%E8%8A%82%E7%9B%AE%23" target="weibo">
 冬梅求点夏洛唱歌 马丽求给沈腾节目（热度：100419）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%89%93%E9%BA%BB%E5%B0%86%E8%BE%937%E4%B8%874%E5%90%8D%E7%89%8C%E5%8F%8B%E5%85%A8%E8%8E%B7%E5%88%91%23" target="weibo">
-打麻将输7万4名牌友全获刑（热度：100388）
 </a>
 </li>
 
@@ -4739,12 +4763,6 @@ iPhone18ProMax或无重大更新（热度：96956）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E5%9B%9E%E5%BA%94%E9%9B%AA%E6%9D%96%E6%96%AD%E4%BA%86%23" target="weibo">
 谷爱凌回应雪杖断了（热度：93426）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%20%E5%A5%BD%E6%9C%89%E8%AF%B4%E6%9C%8D%E5%8A%9B%E7%9A%84%E5%A5%B3%E7%89%B9%E5%8A%A1%23" target="weibo">
-杨幂 好有说服力的女特务（热度：93144）
 </a>
 </li>
 
@@ -5001,6 +5019,12 @@ iPhone18ProMax或无重大更新（热度：96956）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9C%8B%E5%B0%8F%E8%AF%B4%E6%97%B6%E8%8E%AB%E5%90%8D%E5%85%B6%E5%A6%99%E7%9A%84%E7%94%9F%E7%90%86%E5%8F%8D%E5%BA%94%23" target="weibo">
+看小说时莫名其妙的生理反应（热度：84703）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%8F%88%E6%98%AF%E4%B8%80%E5%B9%B4%E5%89%A7%E7%BB%84%E5%B9%B4%E5%A4%9C%E9%A5%AD%23" target="weibo">
 杨紫又是一年剧组年夜饭（热度：84478）
 </a>
@@ -5153,6 +5177,12 @@ iPhone18ProMax或无重大更新（热度：96956）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%93%9D%E6%BA%AA%E9%95%87%E5%AE%8C%E7%BB%93%23" target="weibo">
 蓝溪镇完结（热度：80753）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2325%E5%B2%81%E5%A5%B3%E7%94%9F%E5%9C%A8%E6%99%AF%E5%8C%BA%E6%89%AE%E8%B4%A2%E7%A5%9E%E7%88%B7%E8%B5%B0%E7%BA%A2%23" target="weibo">
+25岁女生在景区扮财神爷走红（热度：80751）
 </a>
 </li>
 
@@ -5423,12 +5453,6 @@ iPhone18ProMax或无重大更新（热度：96956）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E6%96%87%E5%AD%A6%23" target="weibo">
 东北文学（热度：75026）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B4%A1%E8%8F%9C%E6%98%AF%E8%8E%B4%E7%AC%8B%23" target="weibo">
-贡菜是莴笋（热度：74947）
 </a>
 </li>
 
@@ -5825,12 +5849,6 @@ Seedance2.0和Kling3.0视频对比（热度：68384）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B9%E7%9C%9F%E7%9A%84%E5%BE%88%E6%87%82%E4%B8%AD%E5%9B%BD%E5%AD%A6%E7%94%9F%E7%9A%84%E5%86%85%E9%A9%B1%E5%8A%9B%23" target="weibo">
 她真的很懂中国学生的内驱力（热度：67971）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2325%E5%B2%81%E5%A5%B3%E7%94%9F%E5%9C%A8%E6%99%AF%E5%8C%BA%E6%89%AE%E8%B4%A2%E7%A5%9E%E7%88%B7%E8%B5%B0%E7%BA%A2%23" target="weibo">
-25岁女生在景区扮财神爷走红（热度：67926）
 </a>
 </li>
 
@@ -6539,6 +6557,12 @@ Viper晒家猫（热度：54363）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AD%A6%E6%9E%97%E5%A4%96%E4%BC%A020%E5%B9%B4%E9%87%8D%E8%81%9A%E4%BA%92%E9%80%81%E6%8B%9C%E5%B9%B4%E7%A4%BC%23" target="weibo">
 武林外传20年重聚互送拜年礼（热度：51291）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%89%E7%8E%8B%E5%AE%89%E5%AE%87%E8%BF%99%E6%A0%B7%E7%9A%84%E8%80%81%E5%85%AC%E4%BD%A0%E5%87%A0%E7%82%B9%E5%9B%9E%E5%AE%B6%23" target="weibo">
+有王安宇这样的老公你几点回家（热度：50908）
 </a>
 </li>
 
@@ -7757,6 +7781,12 @@ Seedance2.0为啥能火爆出圈（热度：23776）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B1%8A%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%BF%87%E5%B9%B4%E5%BC%80%E5%A7%8B%E6%95%B4%E9%A1%BF%E5%B9%B4%E8%B4%A7%E4%BA%86%23" target="weibo">
 这届年轻人过年开始整顿年货了（热度：16805）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%88%AA%E5%8F%B8%E5%9B%9E%E5%BA%94%E6%96%B0%E5%B9%B4%E4%BC%8A%E5%A7%8B%E6%9C%BA%E7%A5%A8%E4%BB%B7%E8%85%B0%E6%96%A9%23" target="weibo">
+航司回应新年伊始机票价腰斩（热度：16805）
 </a>
 </li>
 
