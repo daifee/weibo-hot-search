@@ -1,6 +1,6 @@
 {
   "startTime": 1771344101416,
-  "endTime": 1771416128885,
+  "endTime": 1771420911972,
   "band_list": [
     {
       "raw_hot": 6730449,
@@ -27,12 +27,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 4289722,
+      "num": 4289722,
+      "word": "徐梦桃金牌",
+      "onboard_time": 1771420644,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2010516,
       "num": 2010516,
       "word": "苏翊鸣两轮排第一",
       "onboard_time": 1771415300,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1906624,
+      "num": 1906624,
+      "word": "自由式滑雪女子空中技巧决赛",
+      "onboard_time": 1771417585,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1868534,
+      "num": 344561,
+      "word": "商洛地震",
+      "onboard_time": 1771420342,
+      "rank": 10,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 1706962,
@@ -60,7 +84,7 @@
     },
     {
       "raw_hot": 1244318,
-      "num": 308142,
+      "num": 338981,
       "word": "曝邓超怒怼项目方维护孙俪",
       "onboard_time": 1771412660,
       "rank": 23,
@@ -123,6 +147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 777530,
+      "num": 777530,
+      "word": "初三一定记得睡懒觉",
+      "onboard_time": 1771419442,
+      "rank": 6,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 729567,
       "num": 1116730,
       "word": "诗幂",
@@ -169,6 +201,14 @@
       "onboard_time": 1771400958,
       "rank": 42,
       "category": "美食"
+    },
+    {
+      "raw_hot": 661145,
+      "num": 661145,
+      "word": "徐梦桃邵琪孔凡钰进决赛",
+      "onboard_time": 1771411101,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 659220,
@@ -299,6 +339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 411913,
+      "num": 411913,
+      "word": "苏翊鸣成中国单板滑雪首位双金王",
+      "onboard_time": 1771417285,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 398641,
       "num": 233239,
       "word": "黄景瑜关晓彤发小变对象",
@@ -327,6 +375,14 @@
       "num": 762220,
       "word": "中国速滑男团铜牌",
       "onboard_time": 1771342882,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 368255,
+      "num": 368255,
+      "word": "徐梦桃107.75分",
+      "onboard_time": 1771418842,
       "rank": 9,
       "category": "体育"
     },
@@ -404,7 +460,7 @@
     },
     {
       "raw_hot": 319430,
-      "num": 297277,
+      "num": 305727,
       "word": "谷爱凌 顶级狩猎者的眼神",
       "onboard_time": 1771413140,
       "rank": 31,
@@ -449,6 +505,22 @@
       "onboard_time": 1771382299,
       "rank": 16,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 312607,
+      "num": 312607,
+      "word": "李健 媚眼抛给瞎子看",
+      "onboard_time": 1771417224,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 296950,
+      "num": 296950,
+      "word": "谁把郭富城鞋踩掉了",
+      "onboard_time": 1771418243,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 296210,
@@ -579,6 +651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 244790,
+      "num": 244790,
+      "word": "苏翊鸣边唱国歌边哭",
+      "onboard_time": 1771419564,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 243822,
       "num": 194202,
       "word": "王橹杰娃娃",
@@ -633,6 +713,14 @@
       "onboard_time": 1771346060,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 228391,
+      "num": 193890,
+      "word": "朱志鑫 墨尔本",
+      "onboard_time": 1771415423,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 226060,
@@ -723,6 +811,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 200936,
+      "num": 200936,
+      "word": "苏翊鸣身披国旗大喊",
+      "onboard_time": 1771417464,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 198614,
+      "num": 186889,
+      "word": "李现祝贺苏翊鸣",
+      "onboard_time": 1771417823,
+      "rank": 23,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 196966,
       "num": 864019,
       "word": "速度滑冰",
@@ -779,6 +883,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 187638,
+      "num": 187638,
+      "word": "苏翊鸣第三跳 裁判压分",
+      "onboard_time": 1771418543,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 184315,
       "num": 126203,
       "word": "王一博易烊千玺春晚穿搭上榜最佳",
@@ -811,6 +923,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 179975,
+      "num": 154752,
+      "word": "苏翊鸣教练双膝跪地",
+      "onboard_time": 1771420704,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 179039,
       "num": 179039,
       "word": "成何体统 与妻书",
@@ -827,19 +947,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 177604,
+      "num": 169174,
+      "word": "惠英红 姐别累着但也别闲着",
+      "onboard_time": 1771415722,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 177591,
+      "num": 177591,
+      "word": "妈妈为苏翊鸣擦眼泪",
+      "onboard_time": 1771420342,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 176585,
       "num": 92822,
       "word": "马頔发视频炫耀李纯登上央视春晚",
       "onboard_time": 1771371136,
       "rank": 22,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 172172,
-      "num": 172172,
-      "word": "朱志鑫 墨尔本",
-      "onboard_time": 1771415423,
-      "rank": 31,
       "category": "艺人"
     },
     {
@@ -939,6 +1067,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 153259,
+      "num": 153259,
+      "word": "汕头烟花",
+      "onboard_time": 1771419983,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 152931,
       "num": 152931,
       "word": "冬奥会露内衣品牌女选手引来广告商",
@@ -1012,7 +1148,7 @@
     },
     {
       "raw_hot": 146756,
-      "num": 125001,
+      "num": 125944,
       "word": "镖人惠英红没打戏好可惜",
       "onboard_time": 1771412420,
       "rank": 31,
@@ -1025,6 +1161,14 @@
       "onboard_time": 1771337482,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 145245,
+      "num": 145245,
+      "word": "白鹿 大大方方的满分女",
+      "onboard_time": 1771417104,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 144854,
@@ -1083,6 +1227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 139244,
+      "num": 139244,
+      "word": "国家队祝贺苏翊鸣夺得首金",
+      "onboard_time": 1771420767,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 137749,
       "num": 110539,
       "word": "女子楼道晾晒16斤咸肉撒手没",
@@ -1123,6 +1275,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 135067,
+      "num": 135067,
+      "word": "小猫以为人也是怀孕两个月就生",
+      "onboard_time": 1771420403,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 134580,
       "num": 134580,
       "word": "猫 你没有自己的家吗",
@@ -1161,6 +1321,14 @@
       "onboard_time": 1771372097,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 128804,
+      "num": 128804,
+      "word": "王楚然看与妻书哭了",
+      "onboard_time": 1771418483,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 128313,
@@ -1299,6 +1467,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 111808,
+      "num": 111808,
+      "word": "会生孩子的烟花",
+      "onboard_time": 1771420704,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 111545,
+      "num": 111545,
+      "word": "朱之文女儿和新婚丈夫一起回娘家",
+      "onboard_time": 1771418182,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 111531,
       "num": 111531,
       "word": "曝肖战皮肤状态很好",
@@ -1371,12 +1555,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 106504,
+      "num": 106504,
+      "word": "苏翊鸣妈妈说这是最好的生日礼物",
+      "onboard_time": 1771418962,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106441,
       "num": 106441,
       "word": "杨幂 好有说服力的女特务",
       "onboard_time": 1771401021,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 105729,
+      "num": 105729,
+      "word": "2026将学会谷爱凌开头这个大笑方式",
+      "onboard_time": 1771419681,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 105533,
@@ -1513,14 +1713,6 @@
       "onboard_time": 1771386499,
       "rank": 31,
       "category": "电影"
-    },
-    {
-      "raw_hot": 97018,
-      "num": 175771,
-      "word": "徐梦桃邵琪孔凡钰进决赛",
-      "onboard_time": 1771411101,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 95533,
@@ -2283,6 +2475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 49808,
+      "num": 163478,
+      "word": "盼盼在手冠军我有",
+      "onboard_time": 1771419802,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 47892,
       "num": 136542,
       "word": "大年初二迎福健康是第一福",
@@ -2363,6 +2563,14 @@
       "category": "综艺,互联网"
     },
     {
+      "raw_hot": 42777,
+      "num": 135284,
+      "word": "魏大勋接受这个人设太快了",
+      "onboard_time": 1771420342,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 42486,
       "num": 42486,
       "word": "哈梅内伊说特朗普你也做不到",
@@ -2417,6 +2625,22 @@
       "onboard_time": 1771370716,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 35255,
+      "num": 2571721,
+      "word": "2026春节消费市场红火开场",
+      "onboard_time": 1771419323,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34979,
+      "num": 135068,
+      "word": "带女儿开出租单亲妈妈除夕仍在跑车",
+      "onboard_time": 1771419863,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32988,
@@ -2708,6 +2932,9 @@
     },
     {
       "word": "#习近平复信美国艾奥瓦州友人#"
+    },
+    {
+      "word": "#总书记最深切的牵挂#"
     }
   ]
 }

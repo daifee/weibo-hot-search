@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/02/18 00:01:41 ~ 2026/02/18 20:02:08
+本榜单时间：2026/02/18 00:01:41 ~ 2026/02/18 21:21:51
 </p>
 </blockquote>
 <p>
@@ -33,8 +33,26 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E6%A2%A6%E6%A1%83%E9%87%91%E7%89%8C%23" target="weibo">
+徐梦桃金牌（热度：4289722）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E7%BF%8A%E9%B8%A3%E4%B8%A4%E8%BD%AE%E6%8E%92%E7%AC%AC%E4%B8%80%23" target="weibo">
 苏翊鸣两轮排第一（热度：2010516）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%87%AA%E7%94%B1%E5%BC%8F%E6%BB%91%E9%9B%AA%E5%A5%B3%E5%AD%90%E7%A9%BA%E4%B8%AD%E6%8A%80%E5%B7%A7%E5%86%B3%E8%B5%9B%23" target="weibo">
+自由式滑雪女子空中技巧决赛（热度：1906624）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%95%86%E6%B4%9B%E5%9C%B0%E9%9C%87%23" target="weibo">
+商洛地震（热度：1868534）
 </a>
 </li>
 
@@ -105,6 +123,12 @@ B站春晚 夯（热度：1062748）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%9D%E4%B8%89%E4%B8%80%E5%AE%9A%E8%AE%B0%E5%BE%97%E7%9D%A1%E6%87%92%E8%A7%89%23" target="weibo">
+初三一定记得睡懒觉（热度：777530）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AF%97%E5%B9%82%23" target="weibo">
 诗幂（热度：729567）
 </a>
@@ -137,6 +161,12 @@ B站春晚 夯（热度：1062748）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B4%A1%E8%8F%9C%E6%98%AF%E8%8E%B4%E7%AC%8B%23" target="weibo">
 贡菜是莴笋（热度：667125）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E6%A2%A6%E6%A1%83%E9%82%B5%E7%90%AA%E5%AD%94%E5%87%A1%E9%92%B0%E8%BF%9B%E5%86%B3%E8%B5%9B%23" target="weibo">
+徐梦桃邵琪孔凡钰进决赛（热度：661145）
 </a>
 </li>
 
@@ -237,6 +267,12 @@ B站小品 笑力竭了（热度：419170）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E7%BF%8A%E9%B8%A3%E6%88%90%E4%B8%AD%E5%9B%BD%E5%8D%95%E6%9D%BF%E6%BB%91%E9%9B%AA%E9%A6%96%E4%BD%8D%E5%8F%8C%E9%87%91%E7%8E%8B%23" target="weibo">
+苏翊鸣成中国单板滑雪首位双金王（热度：411913）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%AF%E7%91%9C%E5%85%B3%E6%99%93%E5%BD%A4%E5%8F%91%E5%B0%8F%E5%8F%98%E5%AF%B9%E8%B1%A1%23" target="weibo">
 黄景瑜关晓彤发小变对象（热度：398641）
 </a>
@@ -257,6 +293,12 @@ B站小品 笑力竭了（热度：419170）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%80%9F%E6%BB%91%E7%94%B7%E5%9B%A2%E9%93%9C%E7%89%8C%23" target="weibo">
 中国速滑男团铜牌（热度：377322）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E6%A2%A6%E6%A1%83107.75%E5%88%86%23" target="weibo">
+徐梦桃107.75分（热度：368255）
 </a>
 </li>
 
@@ -347,6 +389,18 @@ B站语言类节目 赢麻了（热度：315972）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%9E%E8%80%81%E5%AE%B6%E5%90%8E%E6%A0%B9%E6%9C%AC%E6%B2%A1%E6%9C%89%E7%A9%BF%E8%A1%A3%E7%84%A6%E8%99%91%23" target="weibo">
 回老家后根本没有穿衣焦虑（热度：314120）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%81%A5%20%E5%AA%9A%E7%9C%BC%E6%8A%9B%E7%BB%99%E7%9E%8E%E5%AD%90%E7%9C%8B%23" target="weibo">
+李健 媚眼抛给瞎子看（热度：312607）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B0%81%E6%8A%8A%E9%83%AD%E5%AF%8C%E5%9F%8E%E9%9E%8B%E8%B8%A9%E6%8E%89%E4%BA%86%23" target="weibo">
+谁把郭富城鞋踩掉了（热度：296950）
 </a>
 </li>
 
@@ -447,6 +501,12 @@ B站语言类节目 赢麻了（热度：315972）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E7%BF%8A%E9%B8%A3%E8%BE%B9%E5%94%B1%E5%9B%BD%E6%AD%8C%E8%BE%B9%E5%93%AD%23" target="weibo">
+苏翊鸣边唱国歌边哭（热度：244790）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A9%B9%E6%9D%B0%E5%A8%83%E5%A8%83%23" target="weibo">
 王橹杰娃娃（热度：243822）
 </a>
@@ -485,6 +545,12 @@ B站语言类节目 赢麻了（热度：315972）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%BD%E7%A9%BF%E4%BA%AE%E7%89%87%E8%A3%99%E4%B8%8D%E5%91%8A%E8%AF%89%E7%8E%8B%E7%8E%89%E9%9B%AF%23" target="weibo">
 都穿亮片裙不告诉王玉雯（热度：230075）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E5%BF%97%E9%91%AB%20%E5%A2%A8%E5%B0%94%E6%9C%AC%23" target="weibo">
+朱志鑫 墨尔本（热度：228391）
 </a>
 </li>
 
@@ -555,6 +621,18 @@ B站语言类节目 赢麻了（热度：315972）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E7%BF%8A%E9%B8%A3%E8%BA%AB%E6%8A%AB%E5%9B%BD%E6%97%97%E5%A4%A7%E5%96%8A%23" target="weibo">
+苏翊鸣身披国旗大喊（热度：200936）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%B0%E7%A5%9D%E8%B4%BA%E8%8B%8F%E7%BF%8A%E9%B8%A3%23" target="weibo">
+李现祝贺苏翊鸣（热度：198614）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%80%9F%E5%BA%A6%E6%BB%91%E5%86%B0%23" target="weibo">
 速度滑冰（热度：196966）
 </a>
@@ -597,6 +675,12 @@ i人的过年现状（热度：191761）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E7%BF%8A%E9%B8%A3%E7%AC%AC%E4%B8%89%E8%B7%B3%20%E8%A3%81%E5%88%A4%E5%8E%8B%E5%88%86%23" target="weibo">
+苏翊鸣第三跳 裁判压分（热度：187638）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E6%98%A5%E6%99%9A%E7%A9%BF%E6%90%AD%E4%B8%8A%E6%A6%9C%E6%9C%80%E4%BD%B3%23" target="weibo">
 王一博易烊千玺春晚穿搭上榜最佳（热度：184315）
 </a>
@@ -621,6 +705,12 @@ i人的过年现状（热度：191761）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E7%BF%8A%E9%B8%A3%E6%95%99%E7%BB%83%E5%8F%8C%E8%86%9D%E8%B7%AA%E5%9C%B0%23" target="weibo">
+苏翊鸣教练双膝跪地（热度：179975）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E4%BD%95%E4%BD%93%E7%BB%9F%20%E4%B8%8E%E5%A6%BB%E4%B9%A6%23" target="weibo">
 成何体统 与妻书（热度：179039）
 </a>
@@ -633,14 +723,20 @@ i人的过年现状（热度：191761）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%A0%94%E5%8F%91%E8%A7%86%E9%A2%91%E7%82%AB%E8%80%80%E6%9D%8E%E7%BA%AF%E7%99%BB%E4%B8%8A%E5%A4%AE%E8%A7%86%E6%98%A5%E6%99%9A%23" target="weibo">
-马頔发视频炫耀李纯登上央视春晚（热度：176585）
+<a href="https://s.weibo.com/weibo?q=%23%E6%83%A0%E8%8B%B1%E7%BA%A2%20%E5%A7%90%E5%88%AB%E7%B4%AF%E7%9D%80%E4%BD%86%E4%B9%9F%E5%88%AB%E9%97%B2%E7%9D%80%23" target="weibo">
+惠英红 姐别累着但也别闲着（热度：177604）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E5%BF%97%E9%91%AB%20%E5%A2%A8%E5%B0%94%E6%9C%AC%23" target="weibo">
-朱志鑫 墨尔本（热度：172172）
+<a href="https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E4%B8%BA%E8%8B%8F%E7%BF%8A%E9%B8%A3%E6%93%A6%E7%9C%BC%E6%B3%AA%23" target="weibo">
+妈妈为苏翊鸣擦眼泪（热度：177591）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%A0%94%E5%8F%91%E8%A7%86%E9%A2%91%E7%82%AB%E8%80%80%E6%9D%8E%E7%BA%AF%E7%99%BB%E4%B8%8A%E5%A4%AE%E8%A7%86%E6%98%A5%E6%99%9A%23" target="weibo">
+马頔发视频炫耀李纯登上央视春晚（热度：176585）
 </a>
 </li>
 
@@ -717,6 +813,12 @@ Faker说成有钱人咯（热度：156382）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B1%95%E5%A4%B4%E7%83%9F%E8%8A%B1%23" target="weibo">
+汕头烟花（热度：153259）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%AC%E5%A5%A5%E4%BC%9A%E9%9C%B2%E5%86%85%E8%A1%A3%E5%93%81%E7%89%8C%E5%A5%B3%E9%80%89%E6%89%8B%E5%BC%95%E6%9D%A5%E5%B9%BF%E5%91%8A%E5%95%86%23" target="weibo">
 冬奥会露内衣品牌女选手引来广告商（热度：152931）
 </a>
@@ -783,6 +885,12 @@ Faker说成有钱人咯（热度：156382）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%20%E5%A4%A7%E5%A4%A7%E6%96%B9%E6%96%B9%E7%9A%84%E6%BB%A1%E5%88%86%E5%A5%B3%23" target="weibo">
+白鹿 大大方方的满分女（热度：145245）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%88%E5%AB%82%E5%9B%9E%E5%BA%94%E4%B8%BA%E5%85%A5%E7%8B%B1%E9%9B%87%E4%B8%BB%E6%97%A0%E5%81%BF%E5%B8%A6%E5%A8%83%23" target="weibo">
 月嫂回应为入狱雇主无偿带娃（热度：144854）
 </a>
@@ -825,6 +933,12 @@ Faker说成有钱人咯（热度：156382）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%AE%B6%E9%98%9F%E7%A5%9D%E8%B4%BA%E8%8B%8F%E7%BF%8A%E9%B8%A3%E5%A4%BA%E5%BE%97%E9%A6%96%E9%87%91%23" target="weibo">
+国家队祝贺苏翊鸣夺得首金（热度：139244）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%A5%BC%E9%81%93%E6%99%BE%E6%99%9216%E6%96%A4%E5%92%B8%E8%82%89%E6%92%92%E6%89%8B%E6%B2%A1%23" target="weibo">
 女子楼道晾晒16斤咸肉撒手没（热度：137749）
 </a>
@@ -855,6 +969,12 @@ B站回应宋小宝小品搭档滞留台下（热度：137104）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%8C%AB%E4%BB%A5%E4%B8%BA%E4%BA%BA%E4%B9%9F%E6%98%AF%E6%80%80%E5%AD%95%E4%B8%A4%E4%B8%AA%E6%9C%88%E5%B0%B1%E7%94%9F%23" target="weibo">
+小猫以为人也是怀孕两个月就生（热度：135067）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8C%AB%20%E4%BD%A0%E6%B2%A1%E6%9C%89%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AE%B6%E5%90%97%23" target="weibo">
 猫 你没有自己的家吗（热度：134580）
 </a>
@@ -881,6 +1001,12 @@ B站回应宋小宝小品搭档滞留台下（热度：137104）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E5%8E%BB%E4%B8%96%E6%91%86%E6%91%8A%E5%8D%96%E5%AF%B9%E8%81%94%E7%94%B7%E5%AD%A9%E6%AF%8D%E4%BA%B2%E5%8F%91%E5%A3%B0%23" target="weibo">
 父亲去世摆摊卖对联男孩母亲发声（热度：128885）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E7%84%B6%E7%9C%8B%E4%B8%8E%E5%A6%BB%E4%B9%A6%E5%93%AD%E4%BA%86%23" target="weibo">
+王楚然看与妻书哭了（热度：128804）
 </a>
 </li>
 
@@ -987,6 +1113,18 @@ B站回应宋小宝小品搭档滞留台下（热度：137104）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BC%9A%E7%94%9F%E5%AD%A9%E5%AD%90%E7%9A%84%E7%83%9F%E8%8A%B1%23" target="weibo">
+会生孩子的烟花（热度：111808）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B9%8B%E6%96%87%E5%A5%B3%E5%84%BF%E5%92%8C%E6%96%B0%E5%A9%9A%E4%B8%88%E5%A4%AB%E4%B8%80%E8%B5%B7%E5%9B%9E%E5%A8%98%E5%AE%B6%23" target="weibo">
+朱之文女儿和新婚丈夫一起回娘家（热度：111545）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E8%82%96%E6%88%98%E7%9A%AE%E8%82%A4%E7%8A%B6%E6%80%81%E5%BE%88%E5%A5%BD%23" target="weibo">
 曝肖战皮肤状态很好（热度：111531）
 </a>
@@ -1041,8 +1179,20 @@ B站回应宋小宝小品搭档滞留台下（热度：137104）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E7%BF%8A%E9%B8%A3%E5%A6%88%E5%A6%88%E8%AF%B4%E8%BF%99%E6%98%AF%E6%9C%80%E5%A5%BD%E7%9A%84%E7%94%9F%E6%97%A5%E7%A4%BC%E7%89%A9%23" target="weibo">
+苏翊鸣妈妈说这是最好的生日礼物（热度：106504）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%20%E5%A5%BD%E6%9C%89%E8%AF%B4%E6%9C%8D%E5%8A%9B%E7%9A%84%E5%A5%B3%E7%89%B9%E5%8A%A1%23" target="weibo">
 杨幂 好有说服力的女特务（热度：106441）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%232026%E5%B0%86%E5%AD%A6%E4%BC%9A%E8%B0%B7%E7%88%B1%E5%87%8C%E5%BC%80%E5%A4%B4%E8%BF%99%E4%B8%AA%E5%A4%A7%E7%AC%91%E6%96%B9%E5%BC%8F%23" target="weibo">
+2026将学会谷爱凌开头这个大笑方式（热度：105729）
 </a>
 </li>
 
@@ -1145,12 +1295,6 @@ A市纸啊（热度：103614）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%BD%B1%E6%83%8A%E8%9B%B0%E6%97%A0%E5%A3%B0%23" target="weibo">
 电影惊蛰无声（热度：98620）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E6%A2%A6%E6%A1%83%E9%82%B5%E7%90%AA%E5%AD%94%E5%87%A1%E9%92%B0%E8%BF%9B%E5%86%B3%E8%B5%9B%23" target="weibo">
-徐梦桃邵琪孔凡钰进决赛（热度：97018）
 </a>
 </li>
 
@@ -1725,6 +1869,12 @@ B站春晚活人感（热度：74848）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9B%BC%E7%9B%BC%E5%9C%A8%E6%89%8B%E5%86%A0%E5%86%9B%E6%88%91%E6%9C%89%23" target="weibo">
+盼盼在手冠军我有（热度：49808）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%B9%B4%E5%88%9D%E4%BA%8C%E8%BF%8E%E7%A6%8F%E5%81%A5%E5%BA%B7%E6%98%AF%E7%AC%AC%E4%B8%80%E7%A6%8F%23" target="weibo">
 大年初二迎福健康是第一福（热度：47892）
 </a>
@@ -1785,6 +1935,12 @@ B站春晚活人感（热度：74848）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E6%8E%A5%E5%8F%97%E8%BF%99%E4%B8%AA%E4%BA%BA%E8%AE%BE%E5%A4%AA%E5%BF%AB%E4%BA%86%23" target="weibo">
+魏大勋接受这个人设太快了（热度：42777）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%93%88%E6%A2%85%E5%86%85%E4%BC%8A%E8%AF%B4%E7%89%B9%E6%9C%97%E6%99%AE%E4%BD%A0%E4%B9%9F%E5%81%9A%E4%B8%8D%E5%88%B0%23" target="weibo">
 哈梅内伊说特朗普你也做不到（热度：42486）
 </a>
@@ -1823,6 +1979,18 @@ B站春晚活人感（热度：74848）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E5%8F%91%E7%8E%B0%E5%A4%A7%E5%A4%9A%E6%95%B0%E4%BA%BA%E9%83%BD%E4%B8%8D%E4%BC%9A%E7%9C%9F%E6%AD%A3%E7%9A%84%E4%BC%91%E6%81%AF%23" target="weibo">
 我发现大多数人都不会真正的休息（热度：35432）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%232026%E6%98%A5%E8%8A%82%E6%B6%88%E8%B4%B9%E5%B8%82%E5%9C%BA%E7%BA%A2%E7%81%AB%E5%BC%80%E5%9C%BA%23" target="weibo">
+2026春节消费市场红火开场（热度：35255）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B8%A6%E5%A5%B3%E5%84%BF%E5%BC%80%E5%87%BA%E7%A7%9F%E5%8D%95%E4%BA%B2%E5%A6%88%E5%A6%88%E9%99%A4%E5%A4%95%E4%BB%8D%E5%9C%A8%E8%B7%91%E8%BD%A6%23" target="weibo">
+带女儿开出租单亲妈妈除夕仍在跑车（热度：34979）
 </a>
 </li>
 
@@ -2057,6 +2225,12 @@ AI眼中的二十四节气（热度：17154）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%A4%8D%E4%BF%A1%E7%BE%8E%E5%9B%BD%E8%89%BE%E5%A5%A5%E7%93%A6%E5%B7%9E%E5%8F%8B%E4%BA%BA%23%23" target="weibo">
 #习近平复信美国艾奥瓦州友人#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E6%9C%80%E6%B7%B1%E5%88%87%E7%9A%84%E7%89%B5%E6%8C%82%23%23" target="weibo">
+#总书记最深切的牵挂#
 </a>
 </li>
 

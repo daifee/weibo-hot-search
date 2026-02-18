@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/02/01 00:39:22 ~ 2026/02/18 20:02:08
+本榜单时间：2026/02/01 00:39:22 ~ 2026/02/18 21:21:51
 </p>
 </blockquote>
 <p>
@@ -221,6 +221,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E9%87%91%E7%89%8C%23" target="weibo">
 孙颖莎金牌（热度：4318292）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E6%A2%A6%E6%A1%83%E9%87%91%E7%89%8C%23" target="weibo">
+徐梦桃金牌（热度：4289722）
 </a>
 </li>
 
@@ -513,6 +519,12 @@ B站春晚 夯（热度：2280239）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%87%AA%E7%94%B1%E5%BC%8F%E6%BB%91%E9%9B%AA%E5%A5%B3%E5%AD%90%E7%A9%BA%E4%B8%AD%E6%8A%80%E5%B7%A7%E5%86%B3%E8%B5%9B%23" target="weibo">
+自由式滑雪女子空中技巧决赛（热度：1906624）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%A5%E6%99%9A%E5%A4%A7%E8%B5%8F%23" target="weibo">
 春晚大赏（热度：1899886）
 </a>
@@ -521,6 +533,12 @@ B站春晚 夯（热度：2280239）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E5%86%AC%E5%A5%A5%E9%93%B6%E7%89%8C%23" target="weibo">
 谷爱凌冬奥银牌（热度：1872190）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%95%86%E6%B4%9B%E5%9C%B0%E9%9C%87%23" target="weibo">
+商洛地震（热度：1868534）
 </a>
 </li>
 
@@ -2205,6 +2223,12 @@ B站弹幕（热度：808062）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%9D%E4%B8%89%E4%B8%80%E5%AE%9A%E8%AE%B0%E5%BE%97%E7%9D%A1%E6%87%92%E8%A7%89%23" target="weibo">
+初三一定记得睡懒觉（热度：777530）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AD%89%E7%99%BD%E9%B9%BF%E7%BA%A2%E5%8C%85%23" target="weibo">
 等白鹿红包（热度：775689）
 </a>
@@ -2843,6 +2867,12 @@ Angelababy兔耳朵撕拉片（热度：700852）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A3%9E%E9%A9%B0%E4%BA%BA%E7%94%9F3%E7%A5%A8%E6%88%BF%23" target="weibo">
 飞驰人生3票房（热度：662593）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E6%A2%A6%E6%A1%83%E9%82%B5%E7%90%AA%E5%AD%94%E5%87%A1%E9%92%B0%E8%BF%9B%E5%86%B3%E8%B5%9B%23" target="weibo">
+徐梦桃邵琪孔凡钰进决赛（热度：661145）
 </a>
 </li>
 
@@ -5565,6 +5595,12 @@ TOP重回第一（热度：413957）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E7%BF%8A%E9%B8%A3%E6%88%90%E4%B8%AD%E5%9B%BD%E5%8D%95%E6%9D%BF%E6%BB%91%E9%9B%AA%E9%A6%96%E4%BD%8D%E5%8F%8C%E9%87%91%E7%8E%8B%23" target="weibo">
+苏翊鸣成中国单板滑雪首位双金王（热度：411913）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%BC%A0%E5%B0%8F%E6%96%90%E5%A5%B3%E8%B6%B3%E4%B8%8A%E6%98%A5%E8%8A%82%E6%A1%A3%23" target="weibo">
 网传迪丽热巴张小斐女足上春节档（热度：411362）
 </a>
@@ -5978,42 +6014,6 @@ Jasmine的MV是蔡徐坤自己剪的（热度：394558）
 </a>
 </li>
 
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E7%BF%8A%E9%B8%A3%E7%AC%AC%E4%B8%80%E6%BB%9170.83%E5%88%86%23" target="weibo">
-苏翊鸣第一滑70.83分（热度：388629）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9D%92%E6%B5%B7%E4%B8%80%E5%AE%B635%E5%8F%A3%E4%BA%BA%E5%BC%80%E5%A4%A7%E5%B7%B4%E6%98%A5%E8%8A%82%E8%87%AA%E9%A9%BE%E6%B8%B8%23" target="weibo">
-青海一家35口人开大巴春节自驾游（热度：388482）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%9D%E8%8A%AD%E5%AD%A6%E5%8E%86%E6%9C%80%E9%AB%98%E7%9A%84%E4%BA%BA%E5%87%BA%E7%8E%B0%E4%BA%86%23" target="weibo">
-丝芭学历最高的人出现了（热度：388215）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%8B%AC%E8%87%AA%E5%B8%A6%E4%B8%89%E5%A8%83%E8%B5%B6%E7%81%AB%E8%BD%A6%E4%B8%A2%E4%BA%86%E4%BF%A9%23" target="weibo">
-女子独自带三娃赶火车丢了俩（热度：387757）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E5%9B%9E%E5%BA%94%E5%86%B3%E8%83%9C%E5%B1%80%E4%BA%89%E8%AE%AE%E5%88%A4%E7%BD%9A%23" target="weibo">
-孙颖莎回应决胜局争议判罚（热度：386421）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A7%A6%E6%98%8A%E6%B1%A4%E5%94%AF%E9%A2%86%E8%A1%94%E4%B8%BB%E6%BC%94%E5%AD%94%E9%9B%80%E4%B8%9C%E5%8D%97%E9%A3%9E%23" target="weibo">
-秦昊汤唯领衔主演孔雀东南飞（热度：386290）
-</a>
-</li>
-
 </ol>
 <h2>
 正能量
@@ -6389,6 +6389,12 @@ Jasmine的MV是蔡徐坤自己剪的（热度：394558）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%A4%8D%E4%BF%A1%E7%BE%8E%E5%9B%BD%E8%89%BE%E5%A5%A5%E7%93%A6%E5%B7%9E%E5%8F%8B%E4%BA%BA%23%23" target="weibo">
 #习近平复信美国艾奥瓦州友人#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E6%9C%80%E6%B7%B1%E5%88%87%E7%9A%84%E7%89%B5%E6%8C%82%23%23" target="weibo">
+#总书记最深切的牵挂#
 </a>
 </li>
 
