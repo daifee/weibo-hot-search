@@ -1,0 +1,410 @@
+{
+  "runTime": 1771405033602,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 681848,
+        "num": 1109095,
+        "word": "诗幂",
+        "onboard_time": 1771395980,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 349903,
+        "num": 778532,
+        "word": "孩子存1000比你存20万利息高",
+        "onboard_time": 1771395079,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 7703,
+        "num": 704906,
+        "word": "AI眼中的二十四节气",
+        "onboard_time": 1771381339,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 667125,
+        "num": 667125,
+        "word": "贡菜是莴笋",
+        "onboard_time": 1771400958,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 654176,
+        "num": 654176,
+        "word": "龙洋主持完春晚哭了",
+        "onboard_time": 1771393520,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 276833,
+        "num": 276833,
+        "word": "镖人",
+        "onboard_time": 1771396640,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 179548,
+        "num": 179548,
+        "word": "过年不要一直穿睡衣",
+        "onboard_time": 1771393279,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 214618,
+        "num": 179241,
+        "word": "看完惊蛰无声想掏垃圾桶",
+        "onboard_time": 1771402401,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 148819,
+        "num": 179001,
+        "word": "印一大学被曝买宇树机器狗冒充自研",
+        "onboard_time": 1771401500,
+        "rank": 8,
+        "category": "海外新闻,数码"
+      },
+      {
+        "raw_hot": 119874,
+        "num": 178857,
+        "word": "双胞胎姐姐 我将防守你每一步动作",
+        "onboard_time": 1771400180,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 750483,
+        "num": 178426,
+        "word": "高市早苗再当选日本首相",
+        "onboard_time": 1771394958,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 286982,
+        "num": 178065,
+        "word": "我和papi酱的愿望是一样的",
+        "onboard_time": 1771400059,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238314,
+        "num": 177669,
+        "word": "王橹杰娃娃",
+        "onboard_time": 1771400958,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 188072,
+        "num": 177316,
+        "word": "俩人谈恋爱四个人烧脑",
+        "onboard_time": 1771404198,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 201375,
+        "num": 176963,
+        "word": "飞驰人生3票房或超50亿",
+        "onboard_time": 1771390459,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 191320,
+        "num": 176696,
+        "word": "朕与吴京何时有过嫌隙",
+        "onboard_time": 1771401320,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 103697,
+        "num": 176498,
+        "word": "听说全国女婿到丈母娘家都这样",
+        "onboard_time": 1771391779,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99946,
+        "num": 176032,
+        "word": "特朗普女儿伊万卡中文拜年",
+        "onboard_time": 1771404380,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 96470,
+        "num": 175574,
+        "word": "大年初二不午睡",
+        "onboard_time": 1771381218,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50154,
+        "num": 175146,
+        "word": "孩子的压岁钱到底该归谁",
+        "onboard_time": 1771404321,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 682331,
+        "num": 175081,
+        "word": "打麻将输7万4名牌友全获刑",
+        "onboard_time": 1771401199,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 341601,
+        "num": 174715,
+        "word": "娜然与霍家父子同游意大利",
+        "onboard_time": 1771387698,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174468,
+        "num": 174468,
+        "word": "刘诗诗给杨幂拿话筒",
+        "onboard_time": 1771398259,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 140328,
+        "num": 168447,
+        "word": "今年过年没人催婚了",
+        "onboard_time": 1771393159,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164717,
+        "num": 164717,
+        "word": "TF四代娃娃",
+        "onboard_time": 1771401379,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 160651,
+        "num": 160651,
+        "word": "大年初二黄景瑜喊关晓彤吃饭了",
+        "onboard_time": 1771402039,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124850,
+        "num": 152303,
+        "word": "看小说时莫名其妙的生理反应",
+        "onboard_time": 1771401679,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 149904,
+        "num": 149904,
+        "word": "成何体统大结局",
+        "onboard_time": 1771387938,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149819,
+        "num": 149819,
+        "word": "镖人4D版 打谁都是打我",
+        "onboard_time": 1771403840,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 93165,
+        "num": 134985,
+        "word": "不会扫兴的母亲培养出谷爱凌",
+        "onboard_time": 1771404621,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87626,
+        "num": 132889,
+        "word": "仙逆王林的8步过年法",
+        "onboard_time": 1771403058,
+        "rank": 30,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 132488,
+        "num": 132488,
+        "word": "马凡舒回应春晚发型争议",
+        "onboard_time": 1771391838,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127047,
+        "num": 127047,
+        "word": "柯基被老家的狗羞辱了",
+        "onboard_time": 1771402520,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117613,
+        "num": 117613,
+        "word": "易烊千玺嗓子哑因过于疲惫",
+        "onboard_time": 1771401199,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 116009,
+        "num": 116009,
+        "word": "特朗普公开警告",
+        "onboard_time": 1771400299,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 111177,
+        "num": 111177,
+        "word": "宋小宝 掉微博热搜池里了救救我",
+        "onboard_time": 1771393880,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85414,
+        "num": 107596,
+        "word": "短道速滑局面像8年前平昌",
+        "onboard_time": 1771397599,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106441,
+        "num": 106441,
+        "word": "杨幂 好有说服力的女特务",
+        "onboard_time": 1771401021,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 45335,
+        "num": 106000,
+        "word": "印度一大学拿中国机器狗冒充自研",
+        "onboard_time": 1771403299,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 22641,
+        "num": 105762,
+        "word": "范丞丞现场预约飞驰人生4",
+        "onboard_time": 1771403960,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 44915,
+        "num": 105417,
+        "word": "菲律宾海警在南海投放不明物体",
+        "onboard_time": 1771391598,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 23602,
+        "num": 104724,
+        "word": "深海一号咋过春节",
+        "onboard_time": 1771403900,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 104581,
+        "num": 104581,
+        "word": "空气炸锅烤奶茶",
+        "onboard_time": 1771404198,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 11984,
+        "num": 100496,
+        "word": "峰峻妹眼里的李飞",
+        "onboard_time": 1771404979,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97894,
+        "num": 97894,
+        "word": "B站回应宋小宝小品搭档滞留台下",
+        "onboard_time": 1771404080,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87913,
+        "num": 97352,
+        "word": "一个人的春节",
+        "onboard_time": 1771403660,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 97007,
+        "num": 97007,
+        "word": "成何体统",
+        "onboard_time": 1771383559,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89786,
+        "num": 89786,
+        "word": "惊蛰无声豆瓣开分6.3",
+        "onboard_time": 1771394000,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 81392,
+        "num": 81392,
+        "word": "语文老师下手没轻没重的",
+        "onboard_time": 1771403360,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 89397,
+        "num": 80853,
+        "word": "曝肖战皮肤状态很好",
+        "onboard_time": 1771399400,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平复信美国艾奥瓦州友人#"
+    }
+  }
+}
