@@ -1,0 +1,410 @@
+{
+  "runTime": 1771436164005,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 330869,
+        "num": 417956,
+        "word": "徐梦桃金牌",
+        "onboard_time": 1771420644,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 316176,
+        "num": 316176,
+        "word": "朱易发合影祝贺苏翊鸣",
+        "onboard_time": 1771428562,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14271,
+        "num": 235919,
+        "word": "00后新兵有啥心愿",
+        "onboard_time": 1771419202,
+        "rank": 2,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 461629,
+        "num": 226643,
+        "word": "苏翊鸣甜蜜回复朱易",
+        "onboard_time": 1771433119,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 379296,
+        "num": 184801,
+        "word": "初三一定记得睡懒觉",
+        "onboard_time": 1771419442,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 136637,
+        "num": 136637,
+        "word": "苏翊鸣金牌",
+        "onboard_time": 1771415905,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118692,
+        "num": 118692,
+        "word": "中国队米兰冬奥首金",
+        "onboard_time": 1771415905,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91021,
+        "num": 91021,
+        "word": "苏翊鸣祝贺徐梦桃",
+        "onboard_time": 1771428500,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99290,
+        "num": 89211,
+        "word": "徐梦桃 文能浪姐唱跳武能冬奥夺冠",
+        "onboard_time": 1771424782,
+        "rank": 8,
+        "category": "体育,综艺"
+      },
+      {
+        "raw_hot": 79065,
+        "num": 79065,
+        "word": "飞驰人生3",
+        "onboard_time": 1771423103,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 164155,
+        "num": 77590,
+        "word": "镖人 对吴京黑转BLACKPINK",
+        "onboard_time": 1771426462,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 124670,
+        "num": 76320,
+        "word": "朱易 苏翊鸣",
+        "onboard_time": 1771428382,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94106,
+        "num": 74941,
+        "word": "曝邓超怒怼项目方维护孙俪",
+        "onboard_time": 1771412660,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88323,
+        "num": 71350,
+        "word": "太奶奶实在是上边没人了",
+        "onboard_time": 1771431680,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 71222,
+        "num": 71222,
+        "word": "成何体统",
+        "onboard_time": 1771416565,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67356,
+        "num": 67356,
+        "word": "星河入梦",
+        "onboard_time": 1771428801,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 66280,
+        "num": 66280,
+        "word": "春节档总票房已破22亿",
+        "onboard_time": 1771428321,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 64618,
+        "num": 64618,
+        "word": "飞驰人生3 没有彩蛋",
+        "onboard_time": 1771431559,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 64573,
+        "num": 64573,
+        "word": "汕头烟花",
+        "onboard_time": 1771419983,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58962,
+        "num": 58962,
+        "word": "惠英红 姐别累着但也别闲着",
+        "onboard_time": 1771415722,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 443578,
+        "num": 58404,
+        "word": "酷滕 双取",
+        "onboard_time": 1771428562,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 56482,
+        "num": 56482,
+        "word": "年入35万扛楼小伙回应买车质疑",
+        "onboard_time": 1771423283,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50975,
+        "num": 50975,
+        "word": "中国香港居民在北海道遇袭",
+        "onboard_time": 1771422084,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50607,
+        "num": 50607,
+        "word": "苏翊鸣回应中国队一天两金",
+        "onboard_time": 1771429461,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 50199,
+        "num": 50199,
+        "word": "短道速滑",
+        "onboard_time": 1771423163,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 48150,
+        "num": 48150,
+        "word": "苏翊鸣想让国歌在全世界面前奏响",
+        "onboard_time": 1771426522,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 47913,
+        "num": 47913,
+        "word": "众星祝贺苏翊鸣",
+        "onboard_time": 1771421066,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 47092,
+        "num": 47092,
+        "word": "2026势头最猛的星座",
+        "onboard_time": 1771422084,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 46370,
+        "num": 46370,
+        "word": "教练说苏翊鸣米兰夺金前不能谈恋爱",
+        "onboard_time": 1771425626,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 45401,
+        "num": 45401,
+        "word": "白鹿 大大方方的满分女",
+        "onboard_time": 1771417104,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56015,
+        "num": 44995,
+        "word": "镖人",
+        "onboard_time": 1771396640,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 45799,
+        "num": 44729,
+        "word": "徐梦桃说没法冷静",
+        "onboard_time": 1771427483,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43441,
+        "num": 43441,
+        "word": "浪姐首位冬奥会卫冕冠军",
+        "onboard_time": 1771435456,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 42668,
+        "num": 42668,
+        "word": "云南通报3名公职人员涉嫌酒驾",
+        "onboard_time": 1771432819,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42178,
+        "num": 42178,
+        "word": "大年初三",
+        "onboard_time": 1771432639,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41793,
+        "num": 41793,
+        "word": "谷爱凌 顶级狩猎者的眼神",
+        "onboard_time": 1771413140,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 41307,
+        "num": 41307,
+        "word": "台湾女子被臭豆腐店熏到焦虑拔头发",
+        "onboard_time": 1771421964,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39400,
+        "num": 39400,
+        "word": "中国队第二金",
+        "onboard_time": 1771421126,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38908,
+        "num": 38908,
+        "word": "网红阿沁直播首次谈前任刘阳",
+        "onboard_time": 1771409900,
+        "rank": 38,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 38569,
+        "num": 38569,
+        "word": "镖人惠英红没打戏好可惜",
+        "onboard_time": 1771412420,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 37301,
+        "num": 37301,
+        "word": "5个月宝宝抬头巧变磕头喜提红包",
+        "onboard_time": 1771427420,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36853,
+        "num": 36853,
+        "word": "谁把郭富城鞋踩掉了",
+        "onboard_time": 1771418243,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36479,
+        "num": 36479,
+        "word": "祝贺老将徐梦桃",
+        "onboard_time": 1771421424,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36049,
+        "num": 36049,
+        "word": "怪不得叫膨胀螺丝",
+        "onboard_time": 1771426822,
+        "rank": 43,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 32846,
+        "num": 32846,
+        "word": "苏翊鸣教练双膝跪地",
+        "onboard_time": 1771420704,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32291,
+        "num": 32291,
+        "word": "日本挖到含稀土泥浆的真相来了",
+        "onboard_time": 1771411339,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 31499,
+        "num": 31499,
+        "word": "被冠军妈妈的育儿观狠狠圈粉",
+        "onboard_time": 1771430781,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30892,
+        "num": 30892,
+        "word": "奖牌榜",
+        "onboard_time": 1771422983,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30520,
+        "num": 30520,
+        "word": "云旗郝熠然滑雪",
+        "onboard_time": 1771409300,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30215,
+        "num": 30215,
+        "word": "苏翊鸣赛前1小时才决定动作方案",
+        "onboard_time": 1771436117,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记最深切的牵挂#"
+    }
+  }
+}
