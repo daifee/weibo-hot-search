@@ -1,6 +1,6 @@
 {
   "startTime": 1771087248939,
-  "endTime": 1771395021769,
+  "endTime": 1771396808318,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -635,6 +635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1051094,
+      "num": 476070,
+      "word": "龙洋主持完春晚哭了",
+      "onboard_time": 1771393520,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1009616,
       "num": 129039,
       "word": "娜然与霍家父子同游意大利",
@@ -1115,6 +1123,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 668682,
+      "num": 122431,
+      "word": "高市早苗基本确定当选日本新任首相",
+      "onboard_time": 1771394958,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 667263,
       "num": 796136,
       "word": "高亭宇男子500米",
@@ -1312,14 +1328,6 @@
       "word": "马年春晚部分节目单曝光",
       "onboard_time": 1771115239,
       "rank": 1,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 584011,
-      "num": 343374,
-      "word": "龙洋主持完春晚哭了",
-      "onboard_time": 1771393520,
-      "rank": 5,
       "category": "综艺"
     },
     {
@@ -1811,6 +1819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 438397,
+      "num": 787748,
+      "word": "孩子存1000比你存20万利息高",
+      "onboard_time": 1771395079,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 436564,
       "num": 308136,
       "word": "杨幂朱一龙吻戏",
@@ -1889,6 +1905,14 @@
       "onboard_time": 1771252175,
       "rank": 11,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 420166,
+      "num": 283620,
+      "word": "宋小宝 掉微博热搜池里了救救我",
+      "onboard_time": 1771393880,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 419445,
@@ -2435,6 +2459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 317180,
+      "num": 344951,
+      "word": "飞驰人生3票房或超50亿",
+      "onboard_time": 1771390459,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 317055,
       "num": 1288032,
       "word": "新年文案",
@@ -2473,6 +2505,14 @@
       "onboard_time": 1771336642,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 314837,
+      "num": 127756,
+      "word": "今年过年没人催婚了",
+      "onboard_time": 1771393159,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 314756,
@@ -2731,14 +2771,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 288794,
-      "num": 344951,
-      "word": "飞驰人生3票房或超50亿",
-      "onboard_time": 1771390459,
-      "rank": 34,
-      "category": "电影"
-    },
-    {
       "raw_hot": 288434,
       "num": 786603,
       "word": "听说全国女婿到丈母娘家都这样",
@@ -2755,12 +2787,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 286957,
+      "num": 340583,
+      "word": "过年不要一直穿睡衣",
+      "onboard_time": 1771393279,
+      "rank": 8,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 286783,
       "num": 456238,
       "word": "老君山惊现灵气护罩",
       "onboard_time": 1771327221,
       "rank": 35,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 286335,
+      "num": 127907,
+      "word": "马凡舒回应春晚发型争议",
+      "onboard_time": 1771391838,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 286236,
@@ -3003,6 +3051,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 262119,
+      "num": 262119,
+      "word": "惊蛰无声豆瓣开分6.3",
+      "onboard_time": 1771394000,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 261934,
       "num": 156335,
       "word": "马年春晚节目单公布",
@@ -3081,6 +3137,14 @@
       "onboard_time": 1771242626,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 256412,
+      "num": 342224,
+      "word": "豆包打麻将",
+      "onboard_time": 1771392679,
+      "rank": 6,
+      "category": "幽默"
     },
     {
       "raw_hot": 256273,
@@ -3587,6 +3651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 216854,
+      "num": 121885,
+      "word": "诗幂",
+      "onboard_time": 1771395980,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 216688,
       "num": 216688,
       "word": "除夕文案",
@@ -3675,14 +3747,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 211539,
-      "num": 342224,
-      "word": "豆包打麻将",
-      "onboard_time": 1771392679,
-      "rank": 6,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 211402,
       "num": 211402,
       "word": "cbc解说林孝埈摔倒似脚下冰面裂开",
@@ -3707,14 +3771,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 208423,
-      "num": 208423,
-      "word": "宋小宝 掉微博热搜池里了救救我",
-      "onboard_time": 1771393880,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 207629,
       "num": 112006,
       "word": "刘三瞳回应抄袭",
@@ -3729,14 +3785,6 @@
       "onboard_time": 1771129218,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 206514,
-      "num": 127907,
-      "word": "马凡舒回应春晚发型争议",
-      "onboard_time": 1771391838,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 206184,
@@ -3859,14 +3907,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 197947,
-      "num": 127756,
-      "word": "今年过年没人催婚了",
-      "onboard_time": 1771393159,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 196966,
       "num": 864019,
       "word": "速度滑冰",
@@ -3929,14 +3969,6 @@
       "onboard_time": 1771293442,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 192801,
-      "num": 340583,
-      "word": "过年不要一直穿睡衣",
-      "onboard_time": 1771393279,
-      "rank": 8,
-      "category": "幽默"
     },
     {
       "raw_hot": 192400,
@@ -4707,6 +4739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 144854,
+      "num": 117244,
+      "word": "月嫂回应为入狱雇主无偿带娃",
+      "onboard_time": 1771393638,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 142505,
       "num": 250735,
       "word": "新加坡反思日本侵略",
@@ -4883,28 +4923,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 135479,
+      "num": 134744,
+      "word": "洗衣机竟用错了那么多年",
+      "onboard_time": 1771394179,
+      "rank": 16,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 135399,
       "num": 318574,
       "word": "过年当天的你和妈妈",
       "onboard_time": 1771310120,
       "rank": 12,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 134966,
-      "num": 117244,
-      "word": "月嫂回应为入狱雇主无偿带娃",
-      "onboard_time": 1771393638,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 134744,
-      "num": 134744,
-      "word": "洗衣机竟用错了那么多年",
-      "onboard_time": 1771394179,
-      "rank": 16,
-      "category": "休闲"
     },
     {
       "raw_hot": 134727,
@@ -4961,14 +4993,6 @@
       "onboard_time": 1771082662,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 132514,
-      "num": 122104,
-      "word": "惊蛰无声豆瓣开分6.3",
-      "onboard_time": 1771394000,
-      "rank": 27,
-      "category": "电影"
     },
     {
       "raw_hot": 132461,
@@ -5256,6 +5280,14 @@
       "word": "李沁春晚穿的是非遗花罗",
       "onboard_time": 1771295123,
       "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 120569,
+      "num": 120569,
+      "word": "刘宇宁说大家进了春晚休息间鸦雀无声",
+      "onboard_time": 1771393459,
+      "rank": 40,
       "category": "综艺"
     },
     {
@@ -5955,6 +5987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 99189,
+      "num": 107821,
+      "word": "国外长大的中国娃回老家过年反应亮了",
+      "onboard_time": 1771394958,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 98884,
       "num": 89430,
       "word": "葛夕回应上春晚",
@@ -6187,14 +6227,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 91224,
-      "num": 91224,
-      "word": "刘宇宁说大家进了春晚休息间鸦雀无声",
-      "onboard_time": 1771393459,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 90953,
       "num": 109950,
       "word": "近视600度是眼球的风险临界值",
@@ -6259,6 +6291,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 89558,
+      "num": 89558,
+      "word": "第一次见古装剧男主叫女主紫啧",
+      "onboard_time": 1771395261,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 89439,
       "num": 484114,
       "word": "豆包科技好礼有春晚同款机器人",
@@ -6289,6 +6329,14 @@
       "onboard_time": 1771391958,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 88546,
+      "num": 98905,
+      "word": "特斯拉宣布首辆Cybercab下线",
+      "onboard_time": 1771392499,
+      "rank": 38,
+      "category": "汽车"
     },
     {
       "raw_hot": 88409,
@@ -6417,14 +6465,6 @@
       "onboard_time": 1771143021,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 85573,
-      "num": 98905,
-      "word": "特斯拉宣布首辆Cybercab下线",
-      "onboard_time": 1771392499,
-      "rank": 38,
-      "category": "汽车"
     },
     {
       "raw_hot": 85539,
@@ -6795,12 +6835,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 78672,
+      "num": 78672,
+      "word": "南非发现80亿光年外宇宙灯塔",
+      "onboard_time": 1771391958,
+      "rank": 44,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 78319,
       "num": 67064,
       "word": "宋小宝现挂",
       "onboard_time": 1771371738,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 78254,
+      "num": 78254,
+      "word": "各大银行盯上压岁钱",
+      "onboard_time": 1771395379,
+      "rank": 42,
+      "category": "财经"
     },
     {
       "raw_hot": 78162,
@@ -7115,6 +7171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 72991,
+      "num": 72991,
+      "word": "你家姑爷今天贡献了什么名场面",
+      "onboard_time": 1771395798,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 72882,
       "num": 151046,
       "word": "喵娲娲发30万红包",
@@ -7177,14 +7241,6 @@
       "onboard_time": 1771146800,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 72182,
-      "num": 72182,
-      "word": "南非发现80亿光年外宇宙灯塔",
-      "onboard_time": 1771391958,
-      "rank": 44,
-      "category": "科学科普"
     },
     {
       "raw_hot": 71861,
@@ -7537,6 +7593,14 @@
       "onboard_time": 1771198697,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 67795,
+      "num": 67795,
+      "word": "讨好型狗格",
+      "onboard_time": 1771393520,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 67693,
@@ -7937,14 +8001,6 @@
       "onboard_time": 1771172360,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 61693,
-      "num": 61693,
-      "word": "高市早苗基本确定当选日本新任首相",
-      "onboard_time": 1771394958,
-      "rank": 49,
-      "category": "国际时政"
     },
     {
       "raw_hot": 61611,
@@ -8683,14 +8739,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 46008,
-      "num": 107821,
-      "word": "国外长大的中国娃回老家过年反应亮了",
-      "onboard_time": 1771394958,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 45923,
       "num": 47793,
       "word": "隋文静韩聪双人滑第五",
@@ -9203,6 +9251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 32136,
+      "num": 121474,
+      "word": "妈妈炸丸子翻车立刻去姥姥家求助",
+      "onboard_time": 1771396220,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32023,
       "num": 640411,
       "word": "2026春节消费迎来开门红",
@@ -9289,6 +9345,14 @@
       "onboard_time": 1771258409,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 30377,
+      "num": 121372,
+      "word": "2026年所有法定假日全与周末重合",
+      "onboard_time": 1771396159,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30175,
@@ -9577,6 +9641,14 @@
       "onboard_time": 1771123279,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 24803,
+      "num": 621607,
+      "word": "大年初二回门日",
+      "onboard_time": 1771376479,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24673,
@@ -9937,6 +10009,14 @@
       "onboard_time": 1771308440,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 18250,
+      "num": 80040,
+      "word": "申公豹顶着敖丙的脸谁不沦陷",
+      "onboard_time": 1771396579,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 18231,

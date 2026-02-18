@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1771395021769,
+  "endTime": 1771396808318,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -1600,6 +1600,14 @@
       "word": "春晚后台直播",
       "onboard_time": 1771241127,
       "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1051094,
+      "num": 476070,
+      "word": "龙洋主持完春晚哭了",
+      "onboard_time": 1771393520,
+      "rank": 5,
       "category": "综艺"
     },
     {
@@ -3619,6 +3627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 668682,
+      "num": 122431,
+      "word": "高市早苗基本确定当选日本新任首相",
+      "onboard_time": 1771394958,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 667263,
       "num": 796136,
       "word": "高亭宇男子500米",
@@ -4417,14 +4433,6 @@
       "onboard_time": 1770863898,
       "rank": 7,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 584011,
-      "num": 343374,
-      "word": "龙洋主持完春晚哭了",
-      "onboard_time": 1771393520,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 583117,
@@ -6643,6 +6651,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 438397,
+      "num": 787748,
+      "word": "孩子存1000比你存20万利息高",
+      "onboard_time": 1771395079,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 438204,
       "num": 309352,
       "word": "比尔盖茨回应爱泼斯坦案",
@@ -7057,6 +7073,14 @@
       "onboard_time": 1770447501,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 420166,
+      "num": 283620,
+      "word": "宋小宝 掉微博热搜池里了救救我",
+      "onboard_time": 1771393880,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 419882,
@@ -10179,6 +10203,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 317180,
+      "num": 344951,
+      "word": "飞驰人生3票房或超50亿",
+      "onboard_time": 1771390459,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 317123,
       "num": 234698,
       "word": "网友偶遇了易烊千玺",
@@ -10321,6 +10353,14 @@
       "onboard_time": 1770537860,
       "rank": 15,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 314837,
+      "num": 127756,
+      "word": "今年过年没人催婚了",
+      "onboard_time": 1771393159,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 314756,
@@ -11459,14 +11499,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 288794,
-      "num": 344951,
-      "word": "飞驰人生3票房或超50亿",
-      "onboard_time": 1771390459,
-      "rank": 34,
-      "category": "电影"
-    },
-    {
       "raw_hot": 288434,
       "num": 786603,
       "word": "听说全国女婿到丈母娘家都这样",
@@ -11587,6 +11619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 286957,
+      "num": 340583,
+      "word": "过年不要一直穿睡衣",
+      "onboard_time": 1771393279,
+      "rank": 8,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 286783,
       "num": 456238,
       "word": "老君山惊现灵气护罩",
@@ -11601,6 +11641,14 @@
       "onboard_time": 1770884361,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 286335,
+      "num": 127907,
+      "word": "马凡舒回应春晚发型争议",
+      "onboard_time": 1771391838,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 286269,
@@ -12691,6 +12739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 262119,
+      "num": 262119,
+      "word": "惊蛰无声豆瓣开分6.3",
+      "onboard_time": 1771394000,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 262111,
       "num": 262111,
       "word": "难怪前一段时间车厘子降价了",
@@ -12961,6 +13017,14 @@
       "onboard_time": 1771242626,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 256412,
+      "num": 342224,
+      "word": "豆包打麻将",
+      "onboard_time": 1771392679,
+      "rank": 6,
+      "category": "幽默"
     },
     {
       "raw_hot": 256408,
@@ -15419,6 +15483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 216854,
+      "num": 121885,
+      "word": "诗幂",
+      "onboard_time": 1771395980,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 216773,
       "num": 164756,
       "word": "河南春晚 千问到底给了多少",
@@ -15771,14 +15843,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 211539,
-      "num": 342224,
-      "word": "豆包打麻将",
-      "onboard_time": 1771392679,
-      "rank": 6,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 211445,
       "num": 211445,
       "word": "巴拿马正成为第二个立陶宛",
@@ -15971,14 +16035,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 208423,
-      "num": 208423,
-      "word": "宋小宝 掉微博热搜池里了救救我",
-      "onboard_time": 1771393880,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 207981,
       "num": 1449637,
       "word": "90后的年龄跨度有多大",
@@ -16097,14 +16153,6 @@
       "onboard_time": 1770953901,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 206514,
-      "num": 127907,
-      "word": "马凡舒回应春晚发型争议",
-      "onboard_time": 1771391838,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 206184,
@@ -16651,14 +16699,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 197947,
-      "num": 127756,
-      "word": "今年过年没人催婚了",
-      "onboard_time": 1771393159,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 197500,
       "num": 178978,
       "word": "杨洋换风格了",
@@ -17041,14 +17081,6 @@
       "onboard_time": 1769946082,
       "rank": 39,
       "category": "电影"
-    },
-    {
-      "raw_hot": 192801,
-      "num": 340583,
-      "word": "过年不要一直穿睡衣",
-      "onboard_time": 1771393279,
-      "rank": 8,
-      "category": "幽默"
     },
     {
       "raw_hot": 192539,
@@ -21195,6 +21227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 144854,
+      "num": 117244,
+      "word": "月嫂回应为入狱雇主无偿带娃",
+      "onboard_time": 1771393638,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 144621,
       "num": 142521,
       "word": "王濛冠军的含金量还在上升",
@@ -22555,6 +22595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 135479,
+      "num": 134744,
+      "word": "洗衣机竟用错了那么多年",
+      "onboard_time": 1771394179,
+      "rank": 16,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 135413,
       "num": 135413,
       "word": "新音纪录片预告",
@@ -22635,14 +22683,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 134966,
-      "num": 117244,
-      "word": "月嫂回应为入狱雇主无偿带娃",
-      "onboard_time": 1771393638,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 134955,
       "num": 134955,
       "word": "白银2天跌光1个月涨幅",
@@ -22673,14 +22713,6 @@
       "onboard_time": 1770989301,
       "rank": 27,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 134744,
-      "num": 134744,
-      "word": "洗衣机竟用错了那么多年",
-      "onboard_time": 1771394179,
-      "rank": 16,
-      "category": "休闲"
     },
     {
       "raw_hot": 134727,
@@ -22969,14 +23001,6 @@
       "onboard_time": 1770636199,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 132514,
-      "num": 122104,
-      "word": "惊蛰无声豆瓣开分6.3",
-      "onboard_time": 1771394000,
-      "rank": 27,
-      "category": "电影"
     },
     {
       "raw_hot": 132461,
@@ -24929,6 +24953,14 @@
       "onboard_time": 1770987860,
       "rank": 28,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 120569,
+      "num": 120569,
+      "word": "刘宇宁说大家进了春晚休息间鸦雀无声",
+      "onboard_time": 1771393459,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 120459,
@@ -30299,6 +30331,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 99189,
+      "num": 107821,
+      "word": "国外长大的中国娃回老家过年反应亮了",
+      "onboard_time": 1771394958,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99183,
       "num": 99183,
       "word": "终于知道抗炎和促炎食物有哪些了",
@@ -32747,14 +32787,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 91224,
-      "num": 91224,
-      "word": "刘宇宁说大家进了春晚休息间鸦雀无声",
-      "onboard_time": 1771393459,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 91171,
       "num": 91171,
       "word": "Gucci官方认领的明星",
@@ -33259,6 +33291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 89558,
+      "num": 89558,
+      "word": "第一次见古装剧男主叫女主紫啧",
+      "onboard_time": 1771395261,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 89523,
       "num": 168803,
       "word": "米兰的风请对林孝埈温柔些",
@@ -33633,6 +33673,14 @@
       "onboard_time": 1770752475,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 88546,
+      "num": 98905,
+      "word": "特斯拉宣布首辆Cybercab下线",
+      "onboard_time": 1771392499,
+      "rank": 38,
+      "category": "汽车"
     },
     {
       "raw_hot": 88543,
@@ -34657,14 +34705,6 @@
       "onboard_time": 1770196940,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 85573,
-      "num": 98905,
-      "word": "特斯拉宣布首辆Cybercab下线",
-      "onboard_time": 1771392499,
-      "rank": 38,
-      "category": "汽车"
     },
     {
       "raw_hot": 85554,
@@ -37131,6 +37171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 78672,
+      "num": 78672,
+      "word": "南非发现80亿光年外宇宙灯塔",
+      "onboard_time": 1771391958,
+      "rank": 44,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 78655,
       "num": 106313,
       "word": "朱时茂张兴朝李嘉诚 春晚顶配",
@@ -37209,6 +37257,14 @@
       "onboard_time": 1770490515,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 78254,
+      "num": 78254,
+      "word": "各大银行盯上压岁钱",
+      "onboard_time": 1771395379,
+      "rank": 42,
+      "category": "财经"
     },
     {
       "raw_hot": 78232,
@@ -38787,6 +38843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 72991,
+      "num": 72991,
+      "word": "你家姑爷今天贡献了什么名场面",
+      "onboard_time": 1771395798,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 72922,
       "num": 72922,
       "word": "四川黄金逼近跌停",
@@ -38969,14 +39033,6 @@
       "onboard_time": 1770959902,
       "rank": 47,
       "category": "美食"
-    },
-    {
-      "raw_hot": 72182,
-      "num": 72182,
-      "word": "南非发现80亿光年外宇宙灯塔",
-      "onboard_time": 1771391958,
-      "rank": 44,
-      "category": "科学科普"
     },
     {
       "raw_hot": 72127,
@@ -40008,6 +40064,14 @@
       "word": "和小狗击掌小狗会回咬手礼",
       "onboard_time": 1770906680,
       "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 67795,
+      "num": 67795,
+      "word": "讨好型狗格",
+      "onboard_time": 1771393520,
+      "rank": 46,
       "category": "幽默"
     },
     {
@@ -41401,14 +41465,6 @@
       "onboard_time": 1771172360,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 61693,
-      "num": 61693,
-      "word": "高市早苗基本确定当选日本新任首相",
-      "onboard_time": 1771394958,
-      "rank": 49,
-      "category": "国际时政"
     },
     {
       "raw_hot": 61599,
@@ -44073,14 +44129,6 @@
       "onboard_time": 1770414134,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 46008,
-      "num": 107821,
-      "word": "国外长大的中国娃回老家过年反应亮了",
-      "onboard_time": 1771394958,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 46004,
@@ -46755,6 +46803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 32136,
+      "num": 121474,
+      "word": "妈妈炸丸子翻车立刻去姥姥家求助",
+      "onboard_time": 1771396220,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32133,
       "num": 161095,
       "word": "白客说马年要放自己一马",
@@ -47113,6 +47169,14 @@
       "onboard_time": 1771258409,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 30377,
+      "num": 121372,
+      "word": "2026年所有法定假日全与周末重合",
+      "onboard_time": 1771396159,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30309,
@@ -48417,6 +48481,14 @@
       "onboard_time": 1770459861,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 24803,
+      "num": 621607,
+      "word": "大年初二回门日",
+      "onboard_time": 1771376479,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24776,
@@ -50017,6 +50089,14 @@
       "onboard_time": 1771308440,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 18250,
+      "num": 80040,
+      "word": "申公豹顶着敖丙的脸谁不沦陷",
+      "onboard_time": 1771396579,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 18247,

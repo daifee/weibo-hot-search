@@ -1,0 +1,410 @@
+{
+  "runTime": 1771396808318,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 512939,
+        "num": 1082070,
+        "word": "大年初二不午睡",
+        "onboard_time": 1771381218,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 438397,
+        "num": 787748,
+        "word": "孩子存1000比你存20万利息高",
+        "onboard_time": 1771395079,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24803,
+        "num": 621607,
+        "word": "大年初二回门日",
+        "onboard_time": 1771376479,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1051094,
+        "num": 476070,
+        "word": "龙洋主持完春晚哭了",
+        "onboard_time": 1771393520,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 317180,
+        "num": 317180,
+        "word": "飞驰人生3票房或超50亿",
+        "onboard_time": 1771390459,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 286957,
+        "num": 286957,
+        "word": "过年不要一直穿睡衣",
+        "onboard_time": 1771393279,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 420166,
+        "num": 283620,
+        "word": "宋小宝 掉微博热搜池里了救救我",
+        "onboard_time": 1771393880,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 262119,
+        "num": 262119,
+        "word": "惊蛰无声豆瓣开分6.3",
+        "onboard_time": 1771394000,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 256412,
+        "num": 256412,
+        "word": "豆包打麻将",
+        "onboard_time": 1771392679,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 122446,
+        "num": 122446,
+        "word": "谷爱凌 顶级alpha",
+        "onboard_time": 1771382358,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 668682,
+        "num": 122431,
+        "word": "高市早苗基本确定当选日本新任首相",
+        "onboard_time": 1771394958,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 286335,
+        "num": 122311,
+        "word": "马凡舒回应春晚发型争议",
+        "onboard_time": 1771391838,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229414,
+        "num": 122179,
+        "word": "听说全国女婿到丈母娘家都这样",
+        "onboard_time": 1771391779,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224714,
+        "num": 122017,
+        "word": "女生半年卖出800多只点翠大蟑螂",
+        "onboard_time": 1771391478,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216854,
+        "num": 121885,
+        "word": "诗幂",
+        "onboard_time": 1771395980,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 202439,
+        "num": 121767,
+        "word": "刘浩存 你就是有天赋",
+        "onboard_time": 1771388899,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174379,
+        "num": 121698,
+        "word": "高市早苗内阁集体辞职",
+        "onboard_time": 1771374737,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 195825,
+        "num": 121623,
+        "word": "镖人",
+        "onboard_time": 1771396640,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 32136,
+        "num": 121474,
+        "word": "妈妈炸丸子翻车立刻去姥姥家求助",
+        "onboard_time": 1771396220,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30377,
+        "num": 121372,
+        "word": "2026年所有法定假日全与周末重合",
+        "onboard_time": 1771396159,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195406,
+        "num": 121247,
+        "word": "成何体统大结局",
+        "onboard_time": 1771387938,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 515579,
+        "num": 121072,
+        "word": "娜然与霍家父子同游意大利",
+        "onboard_time": 1771387698,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 314837,
+        "num": 120930,
+        "word": "今年过年没人催婚了",
+        "onboard_time": 1771393159,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192099,
+        "num": 120843,
+        "word": "沈腾看似鼓掌实则扔橘子皮",
+        "onboard_time": 1771388059,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136383,
+        "num": 120740,
+        "word": "王一博易烊千玺春晚穿搭上榜最佳",
+        "onboard_time": 1771391539,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135479,
+        "num": 120685,
+        "word": "洗衣机竟用错了那么多年",
+        "onboard_time": 1771394179,
+        "rank": 25,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 120569,
+        "num": 120569,
+        "word": "刘宇宁说大家进了春晚休息间鸦雀无声",
+        "onboard_time": 1771393459,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114062,
+        "num": 114062,
+        "word": "李兰迪 没有顺拐",
+        "onboard_time": 1771391239,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113221,
+        "num": 113221,
+        "word": "猫 你没有自己的家吗",
+        "onboard_time": 1771389259,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 94144,
+        "num": 112053,
+        "word": "菲律宾海警在南海投放不明物体",
+        "onboard_time": 1771391598,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 144854,
+        "num": 112024,
+        "word": "月嫂回应为入狱雇主无偿带娃",
+        "onboard_time": 1771393638,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111665,
+        "num": 111665,
+        "word": "朱一龙梦男",
+        "onboard_time": 1771389199,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 110716,
+        "num": 110716,
+        "word": "大侦探11开播",
+        "onboard_time": 1771389138,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99189,
+        "num": 99189,
+        "word": "国外长大的中国娃回老家过年反应亮了",
+        "onboard_time": 1771394958,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98703,
+        "num": 98703,
+        "word": "闲置1年的6米农村大炕过年睡满了",
+        "onboard_time": 1771389678,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98596,
+        "num": 98596,
+        "word": "王楚然出圈镜头",
+        "onboard_time": 1771383739,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89558,
+        "num": 89558,
+        "word": "第一次见古装剧男主叫女主紫啧",
+        "onboard_time": 1771395261,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88546,
+        "num": 88546,
+        "word": "特斯拉宣布首辆Cybercab下线",
+        "onboard_time": 1771392499,
+        "rank": 37,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 88797,
+        "num": 86204,
+        "word": "镖人口碑",
+        "onboard_time": 1771382418,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 18250,
+        "num": 80040,
+        "word": "申公豹顶着敖丙的脸谁不沦陷",
+        "onboard_time": 1771396579,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 78672,
+        "num": 78672,
+        "word": "南非发现80亿光年外宇宙灯塔",
+        "onboard_time": 1771391958,
+        "rank": 40,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 83743,
+        "num": 78481,
+        "word": "拉宏桑春晚后台探班 没有一秒不好笑",
+        "onboard_time": 1771383979,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 78254,
+        "num": 78254,
+        "word": "各大银行盯上压岁钱",
+        "onboard_time": 1771395379,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 72991,
+        "num": 72991,
+        "word": "你家姑爷今天贡献了什么名场面",
+        "onboard_time": 1771395798,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72142,
+        "num": 72142,
+        "word": "丞磊真的读了与妻书",
+        "onboard_time": 1771380140,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 71485,
+        "num": 71485,
+        "word": "过年期间的胃",
+        "onboard_time": 1771385839,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 67795,
+        "num": 67795,
+        "word": "讨好型狗格",
+        "onboard_time": 1771393520,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 67789,
+        "num": 67789,
+        "word": "成何体统",
+        "onboard_time": 1771383559,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 64760,
+        "num": 64760,
+        "word": "女子楼道晾晒16斤咸肉撒手没",
+        "onboard_time": 1771382719,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58102,
+        "num": 58102,
+        "word": "飞驰人生3 爽片",
+        "onboard_time": 1771388598,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#接收总书记的新春祝福#"
+    }
+  }
+}
