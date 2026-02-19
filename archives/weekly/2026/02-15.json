@@ -1,6 +1,6 @@
 {
   "startTime": 1771087248939,
-  "endTime": 1771491393396,
+  "endTime": 1771492301138,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -1419,6 +1419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 643381,
+      "num": 874676,
+      "word": "苏翊鸣 为了露表手忙脚乱",
+      "onboard_time": 1771487240,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 640561,
       "num": 320104,
       "word": "春晚3个小品",
@@ -1529,14 +1537,6 @@
       "onboard_time": 1771227920,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 597371,
-      "num": 855014,
-      "word": "苏翊鸣 为了露表手忙脚乱",
-      "onboard_time": 1771487240,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 594964,
@@ -1787,6 +1787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 544425,
+      "num": 135989,
+      "word": "易烊千玺弟弟13岁近照",
+      "onboard_time": 1771488560,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 543792,
       "num": 1018394,
       "word": "谷爱凌大跳台银牌",
@@ -1840,14 +1848,6 @@
       "word": "丁程鑫年会发了66666",
       "onboard_time": 1771240165,
       "rank": 34,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 521321,
-      "num": 122634,
-      "word": "易烊千玺弟弟13岁近照",
-      "onboard_time": 1771488560,
-      "rank": 11,
       "category": "艺人"
     },
     {
@@ -2329,6 +2329,14 @@
       "onboard_time": 1771341381,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 413687,
+      "num": 413687,
+      "word": "疯狂星期四调休",
+      "onboard_time": 1771490059,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 412696,
@@ -3827,14 +3835,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 257512,
-      "num": 257512,
-      "word": "疯狂星期四调休",
-      "onboard_time": 1771490059,
-      "rank": 3,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 257103,
       "num": 115015,
       "word": "宋亚轩去了新疆",
@@ -4284,7 +4284,7 @@
     },
     {
       "raw_hot": 229062,
-      "num": 183133,
+      "num": 199816,
       "word": "缺牙齿正在攻击缺牙齿",
       "onboard_time": 1771489340,
       "rank": 5,
@@ -4739,6 +4739,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 204491,
+      "num": 118346,
+      "word": "周杰伦点评给他拜年的朋友",
+      "onboard_time": 1771490479,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 203599,
       "num": 203599,
       "word": "8岁小姨给晚辈发红包",
@@ -4800,6 +4808,14 @@
       "word": "刘少昂林孝埈携手出战",
       "onboard_time": 1771384038,
       "rank": 11,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 201769,
+      "num": 201769,
+      "word": "王濛说自己以前快到教练都掐不上表",
+      "onboard_time": 1771488259,
+      "rank": 45,
       "category": "体育"
     },
     {
@@ -5067,6 +5083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 186171,
+      "num": 186171,
+      "word": "镖人票房破3亿",
+      "onboard_time": 1771488919,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 186096,
       "num": 111466,
       "word": "檀健次红包",
@@ -5097,14 +5121,6 @@
       "onboard_time": 1771154060,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 185199,
-      "num": 185199,
-      "word": "王濛说自己以前快到教练都掐不上表",
-      "onboard_time": 1771488259,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 184652,
@@ -5153,6 +5169,14 @@
       "onboard_time": 1771240106,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 182239,
+      "num": 182239,
+      "word": "韩延哽咽谈星河入梦排片",
+      "onboard_time": 1771489580,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 182024,
@@ -5337,14 +5361,6 @@
       "onboard_time": 1771217780,
       "rank": 24,
       "category": "财经"
-    },
-    {
-      "raw_hot": 173393,
-      "num": 173393,
-      "word": "镖人票房破3亿",
-      "onboard_time": 1771488919,
-      "rank": 8,
-      "category": "电影"
     },
     {
       "raw_hot": 172979,
@@ -6019,6 +6035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 145491,
+      "num": 88773,
+      "word": "金价迎来新一轮大涨",
+      "onboard_time": 1771490839,
+      "rank": 32,
+      "category": "财经"
+    },
+    {
       "raw_hot": 145419,
       "num": 225871,
       "word": "这是普通人接触到的行业天花板了",
@@ -6171,6 +6195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 139606,
+      "num": 139606,
+      "word": "旺旺雪饼vs仙贝",
+      "onboard_time": 1771491021,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 139429,
       "num": 90006,
       "word": "宇树科技CEO回应春晚款机器人",
@@ -6267,14 +6299,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 136860,
-      "num": 96136,
-      "word": "周杰伦点评给他拜年的朋友",
-      "onboard_time": 1771490479,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 136848,
       "num": 117003,
       "word": "苏新皓红包",
@@ -6305,14 +6329,6 @@
       "onboard_time": 1771321280,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 136276,
-      "num": 93236,
-      "word": "韩延哽咽谈星河入梦排片",
-      "onboard_time": 1771489580,
-      "rank": 24,
-      "category": "电影"
     },
     {
       "raw_hot": 136036,
@@ -6401,6 +6417,14 @@
       "onboard_time": 1771250858,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 133097,
+      "num": 81026,
+      "word": "曝Doinb参加TI15预选赛",
+      "onboard_time": 1771491140,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 133094,
@@ -6752,6 +6776,14 @@
       "word": "张杰说徐梦桃是中国的骄傲",
       "onboard_time": 1771486399,
       "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 122605,
+      "num": 78638,
+      "word": "我将学会谷爱凌这个大笑方式",
+      "onboard_time": 1771490958,
+      "rank": 40,
       "category": "体育"
     },
     {
@@ -7491,6 +7523,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 106088,
+      "num": 91041,
+      "word": "俞灏明做猪肝一个活口都不留",
+      "onboard_time": 1771489998,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 106078,
       "num": 106078,
       "word": "TF四代川渝春晚新歌初舞台",
@@ -7665,14 +7705,6 @@
       "onboard_time": 1771331902,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 102829,
-      "num": 91041,
-      "word": "俞灏明做猪肝一个活口都不留",
-      "onboard_time": 1771489998,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 102677,
@@ -7953,6 +7985,14 @@
       "onboard_time": 1771140198,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 98422,
+      "num": 82115,
+      "word": "阿沁自曝和刘阳分开后谈过两段感情",
+      "onboard_time": 1771491859,
+      "rank": 29,
+      "category": "网红"
     },
     {
       "raw_hot": 98396,
@@ -8651,6 +8691,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 83742,
+      "num": 83742,
+      "word": "尔滨气温让冰雪大世界临时闭园了",
+      "onboard_time": 1771490299,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83587,
       "num": 83587,
       "word": "韩国短道女子3000米接力夺金",
@@ -8923,14 +8971,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 80550,
-      "num": 80550,
-      "word": "金价迎来新一轮大涨",
-      "onboard_time": 1771490839,
-      "rank": 32,
-      "category": "财经"
-    },
-    {
       "raw_hot": 80419,
       "num": 80419,
       "word": "第一次看清楚眼妆怎么画",
@@ -8993,14 +9033,6 @@
       "onboard_time": 1771078944,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 79674,
-      "num": 79674,
-      "word": "曝Doinb参加TI15预选赛",
-      "onboard_time": 1771491140,
-      "rank": 33,
-      "category": "电竞"
     },
     {
       "raw_hot": 79649,
@@ -9355,6 +9387,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 75987,
+      "num": 75987,
+      "word": "高层看烟花有多吓人",
+      "onboard_time": 1771491560,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 75756,
       "num": 137921,
       "word": "苏翊鸣主要竞争对手退赛",
@@ -9561,14 +9601,6 @@
       "onboard_time": 1771409961,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 72977,
-      "num": 72977,
-      "word": "我将学会谷爱凌这个大笑方式",
-      "onboard_time": 1771490958,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 72882,
@@ -9963,14 +9995,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 69252,
-      "num": 69252,
-      "word": "旺旺雪饼vs仙贝",
-      "onboard_time": 1771491021,
-      "rank": 42,
-      "category": "美食"
-    },
-    {
       "raw_hot": 69239,
       "num": 69239,
       "word": "千问补发免单卡",
@@ -10081,14 +10105,6 @@
       "onboard_time": 1771223902,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 68273,
-      "num": 73427,
-      "word": "尔滨气温让冰雪大世界临时闭园了",
-      "onboard_time": 1771490299,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 68204,
@@ -10691,6 +10707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 61708,
+      "num": 61708,
+      "word": "致敬老将徐梦桃",
+      "onboard_time": 1771492039,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 61644,
       "num": 113230,
       "word": "谭维维 在春晚困的迷瞪",
@@ -10771,12 +10795,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 60570,
+      "num": 60570,
+      "word": "过年 二手烟",
+      "onboard_time": 1771492219,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 60530,
       "num": 57414,
       "word": "父母出门孩子点外卖招待亲戚",
       "onboard_time": 1771370716,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 60432,
+      "num": 60432,
+      "word": "秦新宇回应有儿子",
+      "onboard_time": 1771492279,
+      "rank": 46,
+      "category": "网红"
     },
     {
       "raw_hot": 60345,
@@ -10880,6 +10920,14 @@
       "word": "谷爱凌手敷冰袋",
       "onboard_time": 1771099394,
       "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 58900,
+      "num": 58900,
+      "word": "苏翊鸣说夺金后感觉一下都回来了",
+      "onboard_time": 1771488680,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -11017,6 +11065,14 @@
       "onboard_time": 1771468639,
       "rank": 46,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 56728,
+      "num": 56728,
+      "word": "女子骑车无接触摔倒索赔22万",
+      "onboard_time": 1771492279,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 56706,
@@ -12116,7 +12172,7 @@
     },
     {
       "raw_hot": 36420,
-      "num": 656178,
+      "num": 675242,
       "word": "春节不归人坚守汇成动人团圆",
       "onboard_time": 1771489940,
       "rank": 2,
@@ -12987,6 +13043,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 21209,
+      "num": 90889,
+      "word": "女子接代探父母订单排到初九",
+      "onboard_time": 1771491618,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21103,
       "num": 120261,
       "word": "王毅正告日本别走回头路",
@@ -13403,6 +13467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 16697,
+      "num": 66210,
+      "word": "入境游火爆导游感叹没有淡季",
+      "onboard_time": 1771491618,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 16659,
       "num": 212252,
       "word": "春节为何定在正月初一",
@@ -13733,6 +13805,9 @@
     },
     {
       "word": "#总书记走进吉好有果家的故事#"
+    },
+    {
+      "word": "#骏马追风扬气魄#"
     }
   ]
 }
