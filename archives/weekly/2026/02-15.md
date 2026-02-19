@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/02/15 00:40:48 ~ 2026/02/20 03:57:50
+本榜单时间：2026/02/15 00:40:48 ~ 2026/02/20 04:41:27
 </p>
 </blockquote>
 <p>
@@ -5427,6 +5427,12 @@ B站回应宋小宝小品搭档滞留台下（热度：137104）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E7%AC%AC%E4%BA%8C%E6%BB%9186.50%E5%88%86%23" target="weibo">
+谷爱凌第二滑86.50分（热度：127479）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A9%E5%93%A5%E7%A7%B0%E5%9C%A8%E5%B0%8F%E5%8C%BA%E6%90%9E%E4%BA%862%E5%8D%83%E5%A4%9A%E7%BA%A2%E5%8C%85%23" target="weibo">
 小孩哥称在小区搞了2千多红包（热度：126995）
 </a>
@@ -5633,12 +5639,6 @@ T1被BFX虐泉（热度：126804）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E5%8F%AF%E4%BB%A5%E5%8F%91%E9%87%91%E8%89%B2%E6%9C%8B%E5%8F%8B%E5%9C%88%23" target="weibo">
 微信可以发金色朋友圈（热度：120167）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E7%AC%AC%E4%BA%8C%E6%BB%9186.50%E5%88%86%23" target="weibo">
-谷爱凌第二滑86.50分（热度：120079）
 </a>
 </li>
 
@@ -9507,6 +9507,12 @@ Viper晒家猫（热度：54363）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E6%99%8B%E7%BA%A7U%E5%9E%8B%E5%9C%BA%E5%9C%B0%E5%86%B3%E8%B5%9B%23" target="weibo">
+谷爱凌晋级U型场地决赛（热度：50703）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%87%E5%B9%B4%E8%83%8C%E7%9D%80%E5%A6%88%E5%A6%88%E7%82%B9%E5%A4%96%E5%8D%96%23" target="weibo">
 过年背着妈妈点外卖（热度：50610）
 </a>
@@ -9743,6 +9749,12 @@ NBA（热度：50119）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%B9%B4%E5%88%9D%E4%B8%80%E5%A4%9A%E5%9C%B0%E7%BD%91%E5%8F%8B%E9%9B%86%E4%BD%93%E5%87%BA%E9%97%A8%E6%8D%A1%E6%9F%B4%23" target="weibo">
 大年初一多地网友集体出门捡柴（热度：45034）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%8B%BF%E5%A4%A7U%E6%B1%A0%E9%80%89%E6%89%8B%E9%87%8D%E6%91%94%E5%8F%97%E4%BC%A4%23" target="weibo">
+加拿大U池选手重摔受伤（热度：44930）
 </a>
 </li>
 

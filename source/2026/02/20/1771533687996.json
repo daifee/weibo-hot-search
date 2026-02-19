@@ -1,0 +1,410 @@
+{
+  "runTime": 1771533687996,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 276579,
+        "num": 276579,
+        "word": "宁忠岩金牌",
+        "onboard_time": 1771519938,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127479,
+        "num": 127479,
+        "word": "谷爱凌第二滑86.50分",
+        "onboard_time": 1771529834,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 7769,
+        "num": 92140,
+        "word": "他们在天山脚下脚踏冰河巡边",
+        "onboard_time": 1771510882,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66095,
+        "num": 66095,
+        "word": "谷爱凌第一滑摔倒",
+        "onboard_time": 1771528394,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 62009,
+        "num": 62009,
+        "word": "谢景行",
+        "onboard_time": 1771513220,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 57685,
+        "num": 57685,
+        "word": "美军力量被曝正快速集结",
+        "onboard_time": 1771516820,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 50703,
+        "num": 50703,
+        "word": "谷爱凌晋级U型场地决赛",
+        "onboard_time": 1771532413,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 47715,
+        "num": 47715,
+        "word": "宁忠岩打破奥运纪录",
+        "onboard_time": 1771519759,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 46222,
+        "num": 46222,
+        "word": "李琰连续5届冬奥会带队夺金",
+        "onboard_time": 1771525995,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 44930,
+        "num": 44930,
+        "word": "加拿大U池选手重摔受伤",
+        "onboard_time": 1771531394,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88578,
+        "num": 44113,
+        "word": "刘德华解冻失败",
+        "onboard_time": 1771495880,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40782,
+        "num": 40782,
+        "word": "觉得自己闯祸的可以看看美国四人雪车",
+        "onboard_time": 1771506502,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 40349,
+        "num": 40349,
+        "word": "张瑞阳自由滑118.65分",
+        "onboard_time": 1771527795,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39776,
+        "num": 39776,
+        "word": "冬奥花样滑冰女单自由滑",
+        "onboard_time": 1771527195,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39520,
+        "num": 39520,
+        "word": "宁忠岩 圆月弯刀斩落紫微星",
+        "onboard_time": 1771521917,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34437,
+        "num": 34437,
+        "word": "谭凯回应没戏拍回青岛开饺子店",
+        "onboard_time": 1771516161,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33966,
+        "num": 33966,
+        "word": "宁忠岩说滑疯了",
+        "onboard_time": 1771523415,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31108,
+        "num": 31108,
+        "word": "人的心气是能重新养回来的",
+        "onboard_time": 1771507883,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 31101,
+        "num": 31101,
+        "word": "美国若武力介入台湾代价巨大",
+        "onboard_time": 1771509203,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 28885,
+        "num": 28885,
+        "word": "酷滕 雷淞然",
+        "onboard_time": 1771507341,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27157,
+        "num": 27157,
+        "word": "郭晶晶霍启刚做马蹄糕拜年",
+        "onboard_time": 1771519759,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27154,
+        "num": 27154,
+        "word": "王鹤棣孟子义 将门独后",
+        "onboard_time": 1771508541,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26623,
+        "num": 26623,
+        "word": "大年初四",
+        "onboard_time": 1771520597,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 26332,
+        "num": 26332,
+        "word": "中国冰壶队米兰冬奥收官",
+        "onboard_time": 1771528933,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25555,
+        "num": 25555,
+        "word": "伊朗",
+        "onboard_time": 1771494740,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 24183,
+        "num": 24183,
+        "word": "杨幂开车都能出神图",
+        "onboard_time": 1771504760,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 22360,
+        "num": 22360,
+        "word": "中国队米兰冬奥第3金",
+        "onboard_time": 1771520238,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22218,
+        "num": 22218,
+        "word": "妈妈让上交2万压岁钱孩子不干了",
+        "onboard_time": 1771512201,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21317,
+        "num": 21317,
+        "word": "属相不是从立春开始算",
+        "onboard_time": 1771509921,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21310,
+        "num": 21310,
+        "word": "网剧双轨",
+        "onboard_time": 1771500439,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21307,
+        "num": 21307,
+        "word": "英国前王子安德鲁被捕",
+        "onboard_time": 1771497081,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 20908,
+        "num": 20908,
+        "word": "世界剧本接下来怎么写",
+        "onboard_time": 1771528154,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20129,
+        "num": 20129,
+        "word": "宁忠岩1分41秒98",
+        "onboard_time": 1771521797,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19980,
+        "num": 19980,
+        "word": "大量美军海空力量在中东地区集结",
+        "onboard_time": 1771519759,
+        "rank": 33,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 19941,
+        "num": 19941,
+        "word": "于奥点赞",
+        "onboard_time": 1771515200,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19834,
+        "num": 19834,
+        "word": "宁忠岩身披国旗哭了",
+        "onboard_time": 1771523957,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19496,
+        "num": 19496,
+        "word": "接李琰事业运",
+        "onboard_time": 1771523176,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19484,
+        "num": 19484,
+        "word": "浙江一地即日起禁售烟花爆竹",
+        "onboard_time": 1771515981,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18582,
+        "num": 18582,
+        "word": "美一高校兄弟会诡异入会仪式曝光",
+        "onboard_time": 1771505899,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 18466,
+        "num": 18466,
+        "word": "王菲为什么选中你我经历的一刻",
+        "onboard_time": 1771511720,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18156,
+        "num": 18156,
+        "word": "中国冰壶女队6比9日本队",
+        "onboard_time": 1771520060,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17369,
+        "num": 17369,
+        "word": "米兰冬奥速度滑冰男子1500米",
+        "onboard_time": 1771515800,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17325,
+        "num": 17325,
+        "word": "烟花爆竹该禁吗",
+        "onboard_time": 1771506140,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17094,
+        "num": 17094,
+        "word": "宁忠岩哭了",
+        "onboard_time": 1771521619,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17180,
+        "num": 17087,
+        "word": "生命树",
+        "onboard_time": 1771505241,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17067,
+        "num": 17067,
+        "word": "镖人票房逆跌",
+        "onboard_time": 1771503921,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 16923,
+        "num": 16923,
+        "word": "中国队冬奥旗手连续两届夺金",
+        "onboard_time": 1771528816,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16846,
+        "num": 16846,
+        "word": "苏翊鸣采访时徐梦桃打来电话",
+        "onboard_time": 1771514841,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16280,
+        "num": 16280,
+        "word": "宁忠岩李琰拥抱",
+        "onboard_time": 1771521257,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16221,
+        "num": 16221,
+        "word": "我们的少年时代2",
+        "onboard_time": 1771500500,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记谈自己最大的心愿#"
+    }
+  }
+}

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/02/20 00:13:00 ~ 2026/02/20 03:57:50
+本榜单时间：2026/02/20 00:13:00 ~ 2026/02/20 04:41:27
 </p>
 </blockquote>
 <p>
@@ -213,14 +213,14 @@ Deepseek神回复（热度：405476）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E5%BC%80%E8%BD%A6%E9%83%BD%E8%83%BD%E5%87%BA%E7%A5%9E%E5%9B%BE%23" target="weibo">
-杨幂开车都能出神图（热度：121921）
+<a href="https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E7%AC%AC%E4%BA%8C%E6%BB%9186.50%E5%88%86%23" target="weibo">
+谷爱凌第二滑86.50分（热度：127479）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E7%AC%AC%E4%BA%8C%E6%BB%9186.50%E5%88%86%23" target="weibo">
-谷爱凌第二滑86.50分（热度：120079）
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E5%BC%80%E8%BD%A6%E9%83%BD%E8%83%BD%E5%87%BA%E7%A5%9E%E5%9B%BE%23" target="weibo">
+杨幂开车都能出神图（热度：121921）
 </a>
 </li>
 
@@ -453,6 +453,12 @@ Deepseek神回复（热度：405476）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E6%99%8B%E7%BA%A7U%E5%9E%8B%E5%9C%BA%E5%9C%B0%E5%86%B3%E8%B5%9B%23" target="weibo">
+谷爱凌晋级U型场地决赛（热度：50703）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%86%B0%E5%A3%B6%E5%A5%B3%E9%98%9F6%E6%AF%949%E6%97%A5%E6%9C%AC%E9%98%9F%23" target="weibo">
 中国冰壶女队6比9日本队（热度：50236）
 </a>
@@ -461,6 +467,12 @@ Deepseek神回复（热度：405476）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%81%E5%BF%A0%E5%B2%A91%E5%88%8641%E7%A7%9298%23" target="weibo">
 宁忠岩1分41秒98（热度：49585）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%8B%BF%E5%A4%A7U%E6%B1%A0%E9%80%89%E6%89%8B%E9%87%8D%E6%91%94%E5%8F%97%E4%BC%A4%23" target="weibo">
+加拿大U池选手重摔受伤（热度：44930）
 </a>
 </li>
 
