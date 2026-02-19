@@ -1,6 +1,6 @@
 {
   "startTime": 1771430429513,
-  "endTime": 1771501497536,
+  "endTime": 1771502537320,
   "band_list": [
     {
       "raw_hot": 1540685,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1406007,
-      "num": 110734,
+      "num": 139371,
       "word": "刘德华解冻失败",
       "onboard_time": 1771495880,
       "rank": 44,
@@ -156,7 +156,7 @@
     },
     {
       "raw_hot": 570933,
-      "num": 110204,
+      "num": 111340,
       "word": "王嘉尔纠正阿玛尼官方",
       "onboard_time": 1771492398,
       "rank": 20,
@@ -236,7 +236,7 @@
     },
     {
       "raw_hot": 421002,
-      "num": 221772,
+      "num": 337817,
       "word": "首档中老年恋综成了4对",
       "onboard_time": 1771497141,
       "rank": 9,
@@ -267,8 +267,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 400006,
-      "num": 108829,
+      "raw_hot": 404942,
+      "num": 112076,
       "word": "海南偶遇吴谨言洪尧吃饭",
       "onboard_time": 1771499241,
       "rank": 30,
@@ -339,6 +339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 351552,
+      "num": 135290,
+      "word": "黄宗泽6岁已经是潮男",
+      "onboard_time": 1771501401,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 351545,
       "num": 351545,
       "word": "妻子回应丈夫初二坐丈人腿上告状",
@@ -401,6 +409,14 @@
       "onboard_time": 1771467860,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 292270,
+      "num": 292270,
+      "word": "吴京 朕们和我从来没有嫌隙",
+      "onboard_time": 1771498759,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 291723,
@@ -475,6 +491,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 271521,
+      "num": 107992,
+      "word": "自取其辱九件套",
+      "onboard_time": 1771499720,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 270261,
       "num": 194501,
       "word": "每天这4个小时最好在睡眠中度过",
@@ -483,12 +507,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 261423,
-      "num": 158124,
-      "word": "吴京 朕们和我从来没有嫌隙",
-      "onboard_time": 1771498759,
-      "rank": 19,
-      "category": "电影"
+      "raw_hot": 263179,
+      "num": 139373,
+      "word": "网剧双轨",
+      "onboard_time": 1771500439,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 253253,
@@ -537,6 +561,22 @@
       "onboard_time": 1771490299,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 240076,
+      "num": 231893,
+      "word": "希林娜依高7米变色长裙唱浮光",
+      "onboard_time": 1771496961,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 239485,
+      "num": 239485,
+      "word": "冬奥版美强惨出现了",
+      "onboard_time": 1771498400,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 237178,
@@ -675,14 +715,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 194647,
-      "num": 107992,
-      "word": "自取其辱九件套",
-      "onboard_time": 1771499720,
-      "rank": 26,
-      "category": "情感"
-    },
-    {
       "raw_hot": 194634,
       "num": 148024,
       "word": "王安宇你玩狼人杀不是这样的",
@@ -713,14 +745,6 @@
       "onboard_time": 1771488919,
       "rank": 8,
       "category": "电影"
-    },
-    {
-      "raw_hot": 186382,
-      "num": 139446,
-      "word": "希林娜依高7米变色长裙唱浮光",
-      "onboard_time": 1771496961,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 185306,
@@ -875,28 +899,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 152314,
-      "num": 152314,
-      "word": "冬奥版美强惨出现了",
-      "onboard_time": 1771498400,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 149203,
       "num": 149203,
       "word": "飞驰人生",
       "onboard_time": 1771491800,
       "rank": 35,
       "category": "电影"
-    },
-    {
-      "raw_hot": 148528,
-      "num": 107745,
-      "word": "黄宗泽6岁已经是潮男",
-      "onboard_time": 1771501401,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 147514,
@@ -947,11 +955,11 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 139373,
-      "num": 139373,
-      "word": "网剧双轨",
-      "onboard_time": 1771500439,
-      "rank": 15,
+      "raw_hot": 140627,
+      "num": 140627,
+      "word": "我们的少年时代2",
+      "onboard_time": 1771500500,
+      "rank": 18,
       "category": "剧集"
     },
     {
@@ -1147,12 +1155,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 112575,
-      "num": 112575,
-      "word": "我们的少年时代2",
-      "onboard_time": 1771500500,
-      "rank": 18,
-      "category": "剧集"
+      "raw_hot": 112366,
+      "num": 112366,
+      "word": "亲信透露尹锡悦为护妻铤而走险",
+      "onboard_time": 1771500623,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 111859,
@@ -1187,12 +1195,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 110227,
+      "num": 106746,
+      "word": "于适那么帅 吴京在后面像个帆布袋",
+      "onboard_time": 1771500320,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 109720,
       "num": 95158,
       "word": "刘烨妻子晒女儿骑马照",
       "onboard_time": 1771494080,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 108654,
+      "num": 108654,
+      "word": "苏翊鸣谷爱凌小时候训练日常",
+      "onboard_time": 1771501401,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 108175,
@@ -1217,14 +1241,6 @@
       "onboard_time": 1771475781,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 105080,
-      "num": 107543,
-      "word": "亲信透露尹锡悦为护妻铤而走险",
-      "onboard_time": 1771500623,
-      "rank": 29,
-      "category": "国际时政"
     },
     {
       "raw_hot": 103774,
@@ -1291,12 +1307,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 98235,
-      "num": 98235,
-      "word": "于适那么帅 吴京在后面像个帆布袋",
-      "onboard_time": 1771500320,
-      "rank": 34,
-      "category": "电影"
+      "raw_hot": 96640,
+      "num": 96640,
+      "word": "党中央国务院向中国体育代表团致贺电",
+      "onboard_time": 1771502000,
+      "rank": 31,
+      "category": "国内时政,体育"
     },
     {
       "raw_hot": 96240,
@@ -1603,6 +1619,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 81004,
+      "num": 81004,
+      "word": "2026春节档票房超30亿",
+      "onboard_time": 1771501581,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 80419,
       "num": 80419,
       "word": "第一次看清楚眼妆怎么画",
@@ -1843,6 +1867,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 68804,
+      "num": 68804,
+      "word": "学生回应哈工大为留校生发压岁钱",
+      "onboard_time": 1771501220,
+      "rank": 43,
+      "category": "教育"
+    },
+    {
       "raw_hot": 68669,
       "num": 68669,
       "word": "镖人吴京陈丽君太能打了",
@@ -1881,14 +1913,6 @@
       "onboard_time": 1771487300,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 67437,
-      "num": 67437,
-      "word": "学生回应哈工大为留校生发压岁钱",
-      "onboard_time": 1771501220,
-      "rank": 43,
-      "category": "教育"
     },
     {
       "raw_hot": 67387,
@@ -1984,14 +2008,6 @@
       "word": "谷爱凌出战U池",
       "onboard_time": 1771479799,
       "rank": 46,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 65498,
-      "num": 65498,
-      "word": "苏翊鸣谷爱凌小时候训练日常",
-      "onboard_time": 1771501401,
-      "rank": 44,
       "category": "体育"
     },
     {
@@ -2179,6 +2195,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 59321,
+      "num": 79320,
+      "word": "特巡队身高181超飒女警走红",
+      "onboard_time": 1771501823,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58900,
       "num": 58900,
       "word": "苏翊鸣说夺金后感觉一下都回来了",
@@ -2364,7 +2388,7 @@
     },
     {
       "raw_hot": 42651,
-      "num": 108586,
+      "num": 130588,
       "word": "中国冰壶男队4比6不敌德国队",
       "onboard_time": 1771501279,
       "rank": 23,
@@ -2591,6 +2615,14 @@
       "num": 66210,
       "word": "入境游火爆导游感叹没有淡季",
       "onboard_time": 1771491618,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10775,
+      "num": 78463,
+      "word": "女子春节回奶奶家发现儿时剪纸金鱼",
+      "onboard_time": 1771502420,
       "rank": 39,
       "category": "民生新闻"
     },

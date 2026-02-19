@@ -1,6 +1,6 @@
 {
   "startTime": 1771087248939,
-  "endTime": 1771501497536,
+  "endTime": 1771502537320,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -508,7 +508,7 @@
     },
     {
       "raw_hot": 1406007,
-      "num": 110734,
+      "num": 139371,
       "word": "刘德华解冻失败",
       "onboard_time": 1771495880,
       "rank": 44,
@@ -1684,7 +1684,7 @@
     },
     {
       "raw_hot": 570933,
-      "num": 110204,
+      "num": 111340,
       "word": "王嘉尔纠正阿玛尼官方",
       "onboard_time": 1771492398,
       "rank": 20,
@@ -2292,7 +2292,7 @@
     },
     {
       "raw_hot": 421002,
-      "num": 221772,
+      "num": 337817,
       "word": "首档中老年恋综成了4对",
       "onboard_time": 1771497141,
       "rank": 9,
@@ -2443,19 +2443,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 404942,
+      "num": 112076,
+      "word": "海南偶遇吴谨言洪尧吃饭",
+      "onboard_time": 1771499241,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 404338,
       "num": 108883,
       "word": "黄子弘凡工作室辟谣",
       "onboard_time": 1771079844,
       "rank": 16,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 400006,
-      "num": 108829,
-      "word": "海南偶遇吴谨言洪尧吃饭",
-      "onboard_time": 1771499241,
-      "rank": 30,
       "category": "艺人"
     },
     {
@@ -2817,6 +2817,14 @@
       "onboard_time": 1771236207,
       "rank": 44,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 351552,
+      "num": 135290,
+      "word": "黄宗泽6岁已经是潮男",
+      "onboard_time": 1771501401,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 351545,
@@ -3443,6 +3451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 292270,
+      "num": 292270,
+      "word": "吴京 朕们和我从来没有嫌隙",
+      "onboard_time": 1771498759,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 291723,
       "num": 773699,
       "word": "苏翊鸣说储备了没有人实现过的动作",
@@ -3715,6 +3731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 271521,
+      "num": 107992,
+      "word": "自取其辱九件套",
+      "onboard_time": 1771499720,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 271104,
       "num": 179819,
       "word": "拉宏桑春晚后台探班 没有一秒不好笑",
@@ -3835,6 +3859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 263179,
+      "num": 139373,
+      "word": "网剧双轨",
+      "onboard_time": 1771500439,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 262752,
       "num": 322996,
       "word": "很好的人都是淡淡的",
@@ -3857,14 +3889,6 @@
       "onboard_time": 1771222643,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 261423,
-      "num": 158124,
-      "word": "吴京 朕们和我从来没有嫌隙",
-      "onboard_time": 1771498759,
-      "rank": 19,
-      "category": "电影"
     },
     {
       "raw_hot": 261165,
@@ -4179,11 +4203,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 240076,
+      "num": 231893,
+      "word": "希林娜依高7米变色长裙唱浮光",
+      "onboard_time": 1771496961,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 239522,
       "num": 239522,
       "word": "苏翊鸣想让国歌在全世界面前奏响",
       "onboard_time": 1771426522,
       "rank": 7,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 239485,
+      "num": 239485,
+      "word": "冬奥版美强惨出现了",
+      "onboard_time": 1771498400,
+      "rank": 34,
       "category": "体育"
     },
     {
@@ -5083,14 +5123,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 194647,
-      "num": 107992,
-      "word": "自取其辱九件套",
-      "onboard_time": 1771499720,
-      "rank": 26,
-      "category": "情感"
-    },
-    {
       "raw_hot": 194634,
       "num": 148024,
       "word": "王安宇你玩狼人杀不是这样的",
@@ -5240,14 +5272,6 @@
       "word": "宋小宝小品 笑点",
       "onboard_time": 1771172541,
       "rank": 25,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 186382,
-      "num": 139446,
-      "word": "希林娜依高7米变色长裙唱浮光",
-      "onboard_time": 1771496961,
-      "rank": 19,
       "category": "综艺"
     },
     {
@@ -6035,14 +6059,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 152314,
-      "num": 152314,
-      "word": "冬奥版美强惨出现了",
-      "onboard_time": 1771498400,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 152066,
       "num": 152066,
       "word": "苏翊鸣晋级坡障决赛",
@@ -6153,14 +6169,6 @@
       "onboard_time": 1771401500,
       "rank": 15,
       "category": "海外新闻,数码"
-    },
-    {
-      "raw_hot": 148528,
-      "num": 107745,
-      "word": "黄宗泽6岁已经是潮男",
-      "onboard_time": 1771501401,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 147861,
@@ -6371,6 +6379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140627,
+      "num": 140627,
+      "word": "我们的少年时代2",
+      "onboard_time": 1771500500,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 140539,
       "num": 140539,
       "word": "张虹为苏翊鸣颁奖",
@@ -6401,14 +6417,6 @@
       "onboard_time": 1771377558,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 139373,
-      "num": 139373,
-      "word": "网剧双轨",
-      "onboard_time": 1771500439,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 139244,
@@ -7419,20 +7427,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 112575,
-      "num": 112575,
-      "word": "我们的少年时代2",
-      "onboard_time": 1771500500,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 112440,
       "num": 112440,
       "word": "苏翊鸣第10位登场",
       "onboard_time": 1771146498,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 112366,
+      "num": 112366,
+      "word": "亲信透露尹锡悦为护妻铤而走险",
+      "onboard_time": 1771500623,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 112309,
@@ -7555,6 +7563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 110227,
+      "num": 106746,
+      "word": "于适那么帅 吴京在后面像个帆布袋",
+      "onboard_time": 1771500320,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 109855,
       "num": 109855,
       "word": "孙颖莎回老家过年",
@@ -7609,6 +7625,14 @@
       "onboard_time": 1771422084,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108654,
+      "num": 108654,
+      "word": "苏翊鸣谷爱凌小时候训练日常",
+      "onboard_time": 1771501401,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 108508,
@@ -7801,14 +7825,6 @@
       "onboard_time": 1771269195,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 105080,
-      "num": 107543,
-      "word": "亲信透露尹锡悦为护妻铤而走险",
-      "onboard_time": 1771500623,
-      "rank": 29,
-      "category": "国际时政"
     },
     {
       "raw_hot": 104980,
@@ -8227,14 +8243,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 98235,
-      "num": 98235,
-      "word": "于适那么帅 吴京在后面像个帆布袋",
-      "onboard_time": 1771500320,
-      "rank": 34,
-      "category": "电影"
-    },
-    {
       "raw_hot": 97767,
       "num": 97767,
       "word": "甚至都没把你孩子当人看",
@@ -8289,6 +8297,14 @@
       "onboard_time": 1771140140,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 96640,
+      "num": 96640,
+      "word": "党中央国务院向中国体育代表团致贺电",
+      "onboard_time": 1771502000,
+      "rank": 31,
+      "category": "国内时政,体育"
     },
     {
       "raw_hot": 96459,
@@ -9201,6 +9217,14 @@
       "onboard_time": 1771303882,
       "rank": 34,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 81004,
+      "num": 81004,
+      "word": "2026春节档票房超30亿",
+      "onboard_time": 1771501581,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 80899,
@@ -10371,6 +10395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 68804,
+      "num": 68804,
+      "word": "学生回应哈工大为留校生发压岁钱",
+      "onboard_time": 1771501220,
+      "rank": 43,
+      "category": "教育"
+    },
+    {
       "raw_hot": 68798,
       "num": 68798,
       "word": "霉豆腐摊挤满认真学习的年轻人",
@@ -10505,14 +10537,6 @@
       "onboard_time": 1771203380,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 67437,
-      "num": 67437,
-      "word": "学生回应哈工大为留校生发压岁钱",
-      "onboard_time": 1771501220,
-      "rank": 43,
-      "category": "教育"
     },
     {
       "raw_hot": 67387,
@@ -10696,14 +10720,6 @@
       "word": "谷爱凌出战U池",
       "onboard_time": 1771479799,
       "rank": 46,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 65498,
-      "num": 65498,
-      "word": "苏翊鸣谷爱凌小时候训练日常",
-      "onboard_time": 1771501401,
-      "rank": 44,
       "category": "体育"
     },
     {
@@ -11289,6 +11305,14 @@
       "onboard_time": 1771326622,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 59321,
+      "num": 79320,
+      "word": "特巡队身高181超飒女警走红",
+      "onboard_time": 1771501823,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 59291,
@@ -12332,7 +12356,7 @@
     },
     {
       "raw_hot": 42651,
-      "num": 108586,
+      "num": 130588,
       "word": "中国冰壶男队4比6不敌德国队",
       "onboard_time": 1771501279,
       "rank": 23,
@@ -14080,6 +14104,14 @@
       "word": "归家行李里的浓浓年味",
       "onboard_time": 1771167743,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10775,
+      "num": 78463,
+      "word": "女子春节回奶奶家发现儿时剪纸金鱼",
+      "onboard_time": 1771502420,
+      "rank": 39,
       "category": "民生新闻"
     },
     {

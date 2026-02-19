@@ -1,0 +1,410 @@
+{
+  "runTime": 1771502537320,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 566818,
+        "num": 1090690,
+        "word": "英国前王子安德鲁被捕",
+        "onboard_time": 1771497081,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 398574,
+        "num": 796044,
+        "word": "苏翊鸣 为了露表手忙脚乱",
+        "onboard_time": 1771487240,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22654,
+        "num": 628412,
+        "word": "春节不归人坚守汇成动人团圆",
+        "onboard_time": 1771489940,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 337817,
+        "num": 337817,
+        "word": "首档中老年恋综成了4对",
+        "onboard_time": 1771497141,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 292270,
+        "num": 292270,
+        "word": "吴京 朕们和我从来没有嫌隙",
+        "onboard_time": 1771498759,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 239485,
+        "num": 239485,
+        "word": "冬奥版美强惨出现了",
+        "onboard_time": 1771498400,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 240076,
+        "num": 231893,
+        "word": "希林娜依高7米变色长裙唱浮光",
+        "onboard_time": 1771496961,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162327,
+        "num": 162327,
+        "word": "尹锡悦被判无期徒刑",
+        "onboard_time": 1771484899,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 153671,
+        "num": 153671,
+        "word": "鲍鱼壳 除蟑螂",
+        "onboard_time": 1771493180,
+        "rank": 8,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 140627,
+        "num": 140627,
+        "word": "我们的少年时代2",
+        "onboard_time": 1771500500,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1205071,
+        "num": 139371,
+        "word": "刘德华解冻失败",
+        "onboard_time": 1771495880,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 353145,
+        "num": 136752,
+        "word": "高层看烟花有多吓人",
+        "onboard_time": 1771491560,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 351552,
+        "num": 135290,
+        "word": "黄宗泽6岁已经是潮男",
+        "onboard_time": 1771501401,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40375,
+        "num": 130588,
+        "word": "中国冰壶男队4比6不敌德国队",
+        "onboard_time": 1771501279,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 277031,
+        "num": 128162,
+        "word": "白鹿韩国",
+        "onboard_time": 1771473980,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266314,
+        "num": 127167,
+        "word": "伊朗",
+        "onboard_time": 1771494740,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 263179,
+        "num": 124825,
+        "word": "网剧双轨",
+        "onboard_time": 1771500439,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179951,
+        "num": 121036,
+        "word": "过年 二手烟",
+        "onboard_time": 1771492219,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 120321,
+        "num": 120321,
+        "word": "我将学会谷爱凌这个大笑方式",
+        "onboard_time": 1771490958,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112366,
+        "num": 112366,
+        "word": "亲信透露尹锡悦为护妻铤而走险",
+        "onboard_time": 1771500623,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 404942,
+        "num": 112076,
+        "word": "海南偶遇吴谨言洪尧吃饭",
+        "onboard_time": 1771499241,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175755,
+        "num": 111340,
+        "word": "王嘉尔纠正阿玛尼官方",
+        "onboard_time": 1771492398,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170459,
+        "num": 110138,
+        "word": "王安宇你玩狼人杀不是这样的",
+        "onboard_time": 1771499059,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 337948,
+        "num": 109424,
+        "word": "2名初中生扶摔倒女子遭索赔22万",
+        "onboard_time": 1771487120,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108654,
+        "num": 108654,
+        "word": "苏翊鸣谷爱凌小时候训练日常",
+        "onboard_time": 1771501401,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126171,
+        "num": 107627,
+        "word": "镖人票房破3亿",
+        "onboard_time": 1771488919,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 110227,
+        "num": 106746,
+        "word": "于适那么帅 吴京在后面像个帆布袋",
+        "onboard_time": 1771500320,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 271521,
+        "num": 106031,
+        "word": "自取其辱九件套",
+        "onboard_time": 1771499720,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 179087,
+        "num": 105507,
+        "word": "爸爸除夕独自吃饺子女儿看监控哭了",
+        "onboard_time": 1771494799,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85709,
+        "num": 104443,
+        "word": "疯狂星期四调休",
+        "onboard_time": 1771490059,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103491,
+        "num": 103491,
+        "word": "玩手机是一件很私人的事情",
+        "onboard_time": 1771482020,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 96640,
+        "num": 96640,
+        "word": "党中央国务院向中国体育代表团致贺电",
+        "onboard_time": 1771502000,
+        "rank": 31,
+        "category": "国内时政,体育"
+      },
+      {
+        "raw_hot": 87085,
+        "num": 87085,
+        "word": "飞驰人生",
+        "onboard_time": 1771491800,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 82829,
+        "num": 82829,
+        "word": "韩延哽咽谈星河入梦排片",
+        "onboard_time": 1771489580,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 143925,
+        "num": 82635,
+        "word": "尹锡悦听宣判后叹气面色凝重",
+        "onboard_time": 1771494019,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 82411,
+        "num": 82411,
+        "word": "金价迎来新一轮大涨",
+        "onboard_time": 1771490839,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 81357,
+        "num": 81357,
+        "word": "中国短道速滑还有一个项目可冲金",
+        "onboard_time": 1771495581,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81004,
+        "num": 81004,
+        "word": "2026春节档票房超30亿",
+        "onboard_time": 1771501581,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 59321,
+        "num": 79320,
+        "word": "特巡队身高181超飒女警走红",
+        "onboard_time": 1771501823,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10775,
+        "num": 78463,
+        "word": "女子春节回奶奶家发现儿时剪纸金鱼",
+        "onboard_time": 1771502420,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77786,
+        "num": 77786,
+        "word": "昀牵孟绕",
+        "onboard_time": 1771483219,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74359,
+        "num": 74359,
+        "word": "左奇函外拍",
+        "onboard_time": 1771495161,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71442,
+        "num": 73809,
+        "word": "谷爱凌U池的权威我后知后觉",
+        "onboard_time": 1771500500,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 73318,
+        "num": 73318,
+        "word": "双轨还有售后",
+        "onboard_time": 1771494680,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73009,
+        "num": 73009,
+        "word": "镖人有望保三争二",
+        "onboard_time": 1771497499,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 70809,
+        "num": 70809,
+        "word": "小猫从伤痕累累到荣华富贵",
+        "onboard_time": 1771499360,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 71921,
+        "num": 70282,
+        "word": "白鹿用韩语和韩国粉丝聊天",
+        "onboard_time": 1771490299,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69414,
+        "num": 69414,
+        "word": "Doinb转型DOTA2选手",
+        "onboard_time": 1771493959,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 68804,
+        "num": 68804,
+        "word": "学生回应哈工大为留校生发压岁钱",
+        "onboard_time": 1771501220,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 67617,
+        "num": 67617,
+        "word": "阿沁自曝和刘阳分开后谈过两段感情",
+        "onboard_time": 1771491859,
+        "rank": 49,
+        "category": "网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#骏马追风扬气魄#"
+    }
+  }
+}
