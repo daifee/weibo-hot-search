@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1771495946918,
+  "endTime": 1771498530621,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -1385,6 +1385,14 @@
       "onboard_time": 1770024922,
       "rank": 5,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1181208,
+      "num": 110734,
+      "word": "刘德华解冻失败",
+      "onboard_time": 1771495880,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 1181160,
@@ -4628,7 +4636,7 @@
     },
     {
       "raw_hot": 588908,
-      "num": 104788,
+      "num": 111254,
       "word": "2名初中生扶摔倒女子遭索赔22万",
       "onboard_time": 1771487120,
       "rank": 30,
@@ -4884,7 +4892,7 @@
     },
     {
       "raw_hot": 570933,
-      "num": 100619,
+      "num": 110204,
       "word": "王嘉尔纠正阿玛尼官方",
       "onboard_time": 1771492398,
       "rank": 20,
@@ -6713,6 +6721,14 @@
       "onboard_time": 1770352401,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 453893,
+      "num": 766931,
+      "word": "英国前王子安德鲁被捕",
+      "onboard_time": 1771497081,
+      "rank": 1,
+      "category": "国际时政"
     },
     {
       "raw_hot": 453756,
@@ -11611,6 +11627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 300543,
+      "num": 248462,
+      "word": "过年 二手烟",
+      "onboard_time": 1771492219,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 300166,
       "num": 300166,
       "word": "台团体不敢用ChineseNewYear",
@@ -12563,6 +12587,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 280437,
+      "num": 798107,
+      "word": "尹锡悦听宣判后叹气面色凝重",
+      "onboard_time": 1771494019,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 280297,
       "num": 280297,
       "word": "岳云鹏一个人上春山",
@@ -12900,7 +12932,7 @@
     },
     {
       "raw_hot": 273316,
-      "num": 97675,
+      "num": 109186,
       "word": "阿沁自曝和刘阳分开后谈过两段感情",
       "onboard_time": 1771491859,
       "rank": 29,
@@ -13113,14 +13145,6 @@
       "onboard_time": 1771159100,
       "rank": 11,
       "category": "体育"
-    },
-    {
-      "raw_hot": 269165,
-      "num": 798107,
-      "word": "尹锡悦听宣判后叹气面色凝重",
-      "onboard_time": 1771494019,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 268994,
@@ -14065,6 +14089,14 @@
       "onboard_time": 1770722840,
       "rank": 24,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 251591,
+      "num": 110002,
+      "word": "爸爸除夕独自吃饺子女儿看监控哭了",
+      "onboard_time": 1771494799,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 251522,
@@ -16041,6 +16073,14 @@
       "onboard_time": 1770081140,
       "rank": 16,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 222166,
+      "num": 159843,
+      "word": "双轨还有售后",
+      "onboard_time": 1771494680,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 221967,
@@ -18707,14 +18747,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 184792,
-      "num": 96346,
-      "word": "爸爸除夕独自吃饺子女儿看监控哭了",
-      "onboard_time": 1771494799,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 184663,
       "num": 382079,
       "word": "奶奶笑了半天才开始充电",
@@ -20052,7 +20084,7 @@
     },
     {
       "raw_hot": 169600,
-      "num": 97328,
+      "num": 107532,
       "word": "金价迎来新一轮大涨",
       "onboard_time": 1771490839,
       "rank": 32,
@@ -20771,6 +20803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 161185,
+      "num": 161185,
+      "word": "首档中老年恋综成了4对",
+      "onboard_time": 1771497141,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 161097,
       "num": 206779,
       "word": "家里最没用的把最有用的吃了",
@@ -21001,6 +21041,14 @@
       "onboard_time": 1770465200,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 158959,
+      "num": 158959,
+      "word": "鲍鱼壳 除蟑螂",
+      "onboard_time": 1771493180,
+      "rank": 30,
+      "category": "科学科普"
     },
     {
       "raw_hot": 158817,
@@ -23315,14 +23363,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 140006,
-      "num": 140006,
-      "word": "双轨还有售后",
-      "onboard_time": 1771494680,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 139973,
       "num": 129430,
       "word": "惊蛰无声 王晰",
@@ -23960,6 +24000,14 @@
       "word": "宋茜陈好你们根本没喝中药",
       "onboard_time": 1771075461,
       "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 136005,
+      "num": 107880,
+      "word": "左奇函外拍",
+      "onboard_time": 1771495161,
+      "rank": 34,
       "category": "艺人"
     },
     {
@@ -25883,14 +25931,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 123958,
-      "num": 95397,
-      "word": "鲍鱼壳 除蟑螂",
-      "onboard_time": 1771493180,
-      "rank": 30,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 123856,
       "num": 151202,
       "word": "娜扎演绎尊界S800新春灯语",
@@ -26272,6 +26312,14 @@
       "word": "开幕还得看张艺谋",
       "onboard_time": 1770357921,
       "rank": 12,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 122147,
+      "num": 108593,
+      "word": "中国短道速滑还有一个项目可冲金",
+      "onboard_time": 1771495581,
+      "rank": 35,
       "category": "体育"
     },
     {
@@ -28731,6 +28779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 111364,
+      "num": 111364,
+      "word": "希林娜依高7米变色长裙唱浮光",
+      "onboard_time": 1771496961,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 111327,
       "num": 111327,
       "word": "内耗的人一定要去一次鄂尔多斯",
@@ -29771,14 +29827,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 107614,
-      "num": 87598,
-      "word": "左奇函外拍",
-      "onboard_time": 1771495161,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 107597,
       "num": 107597,
       "word": "郑嘉颖越说越快越说越气越说越疯",
@@ -29905,6 +29953,14 @@
       "onboard_time": 1770951919,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 107165,
+      "num": 107165,
+      "word": "关晓彤滑雪摔屁墩儿",
+      "onboard_time": 1771497921,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 107153,
@@ -31553,6 +31609,14 @@
       "onboard_time": 1771412061,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 101652,
+      "num": 101652,
+      "word": "17岁最后一天的张子墨",
+      "onboard_time": 1771498340,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 101634,
@@ -35827,6 +35891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 88552,
+      "num": 88552,
+      "word": "镖人有望保三争二",
+      "onboard_time": 1771497499,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 88546,
       "num": 98905,
       "word": "特斯拉宣布首辆Cybercab下线",
@@ -36273,6 +36345,14 @@
       "onboard_time": 1770734122,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 87582,
+      "num": 96685,
+      "word": "Doinb转型DOTA2选手",
+      "onboard_time": 1771493959,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 87527,
@@ -36873,14 +36953,6 @@
       "onboard_time": 1770780501,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 85724,
-      "num": 85724,
-      "word": "中国短道速滑还有一个项目可冲金",
-      "onboard_time": 1771495581,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 85665,
@@ -38241,6 +38313,14 @@
       "onboard_time": 1770909321,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 81678,
+      "num": 87588,
+      "word": "面包界需要一个蜜雪冰城",
+      "onboard_time": 1771496899,
+      "rank": 37,
+      "category": "美食"
     },
     {
       "raw_hot": 81618,
@@ -40347,14 +40427,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 76240,
-      "num": 91965,
-      "word": "过年 二手烟",
-      "onboard_time": 1771492219,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 76238,
       "num": 93424,
       "word": "谷爱凌大雪中完成U池训练",
@@ -41563,6 +41635,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 72181,
+      "num": 72181,
+      "word": "俄罗斯女婿给山东丈母娘磕头拜年",
+      "onboard_time": 1771496961,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 72127,
       "num": 160123,
       "word": "央行将开展10000亿逆回购操作",
@@ -41881,14 +41961,6 @@
       "onboard_time": 1771025478,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 70939,
-      "num": 70939,
-      "word": "刘德华解冻失败",
-      "onboard_time": 1771495880,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 70830,
@@ -42795,6 +42867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 67363,
+      "num": 67363,
+      "word": "2026票房排行",
+      "onboard_time": 1771493721,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 67362,
       "num": 67362,
       "word": "公司回应国投瑞银白银lof净值跌31.5%",
@@ -43027,14 +43107,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 66636,
-      "num": 66636,
-      "word": "Doinb转型DOTA2选手",
-      "onboard_time": 1771493959,
-      "rank": 47,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 66585,
       "num": 66585,
       "word": "张真源清唱",
@@ -43185,6 +43257,14 @@
       "onboard_time": 1770199700,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 65765,
+      "num": 75124,
+      "word": "美国首都因污水泄漏进入紧急状态",
+      "onboard_time": 1771494019,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 65683,
@@ -44441,6 +44521,14 @@
       "onboard_time": 1769920700,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 60829,
+      "num": 60829,
+      "word": "那个过年抗住全家战火的人",
+      "onboard_time": 1771496061,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 60822,
@@ -48667,6 +48755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 38805,
+      "num": 90636,
+      "word": "冬奥版美强惨出现了",
+      "onboard_time": 1771498400,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 38794,
       "num": 84107,
       "word": "易烊千玺连续七年用领养之家台历",
@@ -50379,6 +50475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 30525,
+      "num": 108341,
+      "word": "尹锡悦量刑细节曝光",
+      "onboard_time": 1771497199,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 30465,
       "num": 148682,
       "word": "以旅行见新年",
@@ -50417,14 +50521,6 @@
       "onboard_time": 1771396159,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 30374,
-      "num": 75124,
-      "word": "美国首都因污水泄漏进入紧急状态",
-      "onboard_time": 1771494019,
-      "rank": 39,
-      "category": "国际时政"
     },
     {
       "raw_hot": 30309,

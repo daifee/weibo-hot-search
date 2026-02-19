@@ -1,6 +1,6 @@
 {
   "startTime": 1771430429513,
-  "endTime": 1771495946918,
+  "endTime": 1771498530621,
   "band_list": [
     {
       "raw_hot": 1540685,
@@ -25,6 +25,14 @@
       "onboard_time": 1771428562,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1181208,
+      "num": 110734,
+      "word": "刘德华解冻失败",
+      "onboard_time": 1771495880,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 1140675,
@@ -108,7 +116,7 @@
     },
     {
       "raw_hot": 588908,
-      "num": 104788,
+      "num": 111254,
       "word": "2名初中生扶摔倒女子遭索赔22万",
       "onboard_time": 1771487120,
       "rank": 30,
@@ -140,7 +148,7 @@
     },
     {
       "raw_hot": 570933,
-      "num": 100619,
+      "num": 110204,
       "word": "王嘉尔纠正阿玛尼官方",
       "onboard_time": 1771492398,
       "rank": 20,
@@ -201,6 +209,14 @@
       "onboard_time": 1771433119,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 453893,
+      "num": 766931,
+      "word": "英国前王子安德鲁被捕",
+      "onboard_time": 1771497081,
+      "rank": 1,
+      "category": "国际时政"
     },
     {
       "raw_hot": 440984,
@@ -347,6 +363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 300543,
+      "num": 248462,
+      "word": "过年 二手烟",
+      "onboard_time": 1771492219,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 296373,
       "num": 200020,
       "word": "热水器出现明火女子被吓懵",
@@ -377,6 +401,14 @@
       "onboard_time": 1771465520,
       "rank": 13,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 280437,
+      "num": 798107,
+      "word": "尹锡悦听宣判后叹气面色凝重",
+      "onboard_time": 1771494019,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 279536,
@@ -412,7 +444,7 @@
     },
     {
       "raw_hot": 273316,
-      "num": 97675,
+      "num": 109186,
       "word": "阿沁自曝和刘阳分开后谈过两段感情",
       "onboard_time": 1771491859,
       "rank": 29,
@@ -427,11 +459,11 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 269165,
-      "num": 798107,
-      "word": "尹锡悦听宣判后叹气面色凝重",
-      "onboard_time": 1771494019,
-      "rank": 19,
+      "raw_hot": 260060,
+      "num": 159952,
+      "word": "伊朗",
+      "onboard_time": 1771494740,
+      "rank": 41,
       "category": "国际时政"
     },
     {
@@ -448,6 +480,14 @@
       "word": "香港尖沙咀市民排队看英歌舞",
       "onboard_time": 1771477821,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 251591,
+      "num": 110002,
+      "word": "爸爸除夕独自吃饺子女儿看监控哭了",
+      "onboard_time": 1771494799,
+      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -513,6 +553,14 @@
       "onboard_time": 1771470859,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 222166,
+      "num": 159843,
+      "word": "双轨还有售后",
+      "onboard_time": 1771494680,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 220390,
@@ -635,14 +683,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 184792,
-      "num": 96346,
-      "word": "爸爸除夕独自吃饺子女儿看监控哭了",
-      "onboard_time": 1771494799,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 183587,
       "num": 183587,
       "word": "刘少昂进500米半决赛",
@@ -716,7 +756,7 @@
     },
     {
       "raw_hot": 169600,
-      "num": 97328,
+      "num": 107532,
       "word": "金价迎来新一轮大涨",
       "onboard_time": 1771490839,
       "rank": 32,
@@ -745,6 +785,22 @@
       "onboard_time": 1771421066,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 161185,
+      "num": 161185,
+      "word": "首档中老年恋综成了4对",
+      "onboard_time": 1771497141,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 158959,
+      "num": 158959,
+      "word": "鲍鱼壳 除蟑螂",
+      "onboard_time": 1771493180,
+      "rank": 30,
+      "category": "科学科普"
     },
     {
       "raw_hot": 154991,
@@ -819,28 +875,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 141717,
-      "num": 141717,
-      "word": "伊朗",
-      "onboard_time": 1771494740,
-      "rank": 41,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 141413,
       "num": 141413,
       "word": "曝Doinb参加TI15预选赛",
       "onboard_time": 1771491140,
       "rank": 33,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 140006,
-      "num": 140006,
-      "word": "双轨还有售后",
-      "onboard_time": 1771494680,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 139320,
@@ -865,6 +905,14 @@
       "onboard_time": 1771421964,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 136005,
+      "num": 107880,
+      "word": "左奇函外拍",
+      "onboard_time": 1771495161,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 128336,
@@ -899,14 +947,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 123958,
-      "num": 95397,
-      "word": "鲍鱼壳 除蟑螂",
-      "onboard_time": 1771493180,
-      "rank": 30,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 123293,
       "num": 123293,
       "word": "今年的假放了但没完全放",
@@ -928,6 +968,14 @@
       "word": "张杰说徐梦桃是中国的骄傲",
       "onboard_time": 1771486399,
       "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 122147,
+      "num": 108593,
+      "word": "中国短道速滑还有一个项目可冲金",
+      "onboard_time": 1771495581,
+      "rank": 35,
       "category": "体育"
     },
     {
@@ -1035,6 +1083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 111364,
+      "num": 111364,
+      "word": "希林娜依高7米变色长裙唱浮光",
+      "onboard_time": 1771496961,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 110375,
       "num": 118350,
       "word": "张艺谋谈如何在垃圾桶捡手机",
@@ -1075,11 +1131,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 107614,
-      "num": 87598,
-      "word": "左奇函外拍",
-      "onboard_time": 1771495161,
-      "rank": 34,
+      "raw_hot": 107165,
+      "num": 107165,
+      "word": "关晓彤滑雪摔屁墩儿",
+      "onboard_time": 1771497921,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -1121,6 +1177,14 @@
       "onboard_time": 1771476320,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 101652,
+      "num": 101652,
+      "word": "17岁最后一天的张子墨",
+      "onboard_time": 1771498340,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 101501,
@@ -1291,6 +1355,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 88552,
+      "num": 88552,
+      "word": "镖人有望保三争二",
+      "onboard_time": 1771497499,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 88264,
       "num": 88264,
       "word": "网红阿沁直播首次谈前任刘阳",
@@ -1313,6 +1385,14 @@
       "onboard_time": 1771422084,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 87582,
+      "num": 96685,
+      "word": "Doinb转型DOTA2选手",
+      "onboard_time": 1771493959,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 86897,
@@ -1353,14 +1433,6 @@
       "onboard_time": 1771422084,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 85724,
-      "num": 85724,
-      "word": "中国短道速滑还有一个项目可冲金",
-      "onboard_time": 1771495581,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 84375,
@@ -1408,6 +1480,14 @@
       "word": "砂糖橘",
       "onboard_time": 1771486759,
       "rank": 35,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 81678,
+      "num": 87588,
+      "word": "面包界需要一个蜜雪冰城",
+      "onboard_time": 1771496899,
+      "rank": 37,
       "category": "美食"
     },
     {
@@ -1491,14 +1571,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 76240,
-      "num": 91965,
-      "word": "过年 二手烟",
-      "onboard_time": 1771492219,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 76081,
       "num": 76081,
       "word": "有一种过年叫莆田",
@@ -1579,6 +1651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 72181,
+      "num": 72181,
+      "word": "俄罗斯女婿给山东丈母娘磕头拜年",
+      "onboard_time": 1771496961,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 71931,
       "num": 71931,
       "word": "白鹿 大大方方的满分女",
@@ -1609,14 +1689,6 @@
       "onboard_time": 1771436117,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 70939,
-      "num": 70939,
-      "word": "刘德华解冻失败",
-      "onboard_time": 1771495880,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 70830,
@@ -1715,6 +1787,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 67363,
+      "num": 67363,
+      "word": "2026票房排行",
+      "onboard_time": 1771493721,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 67279,
       "num": 67279,
       "word": "爱泼斯坦通过伦敦机场贩运女性",
@@ -1755,20 +1835,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 66636,
-      "num": 66636,
-      "word": "Doinb转型DOTA2选手",
-      "onboard_time": 1771493959,
-      "rank": 47,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 66450,
       "num": 66450,
       "word": "商洛地震",
       "onboard_time": 1771420342,
       "rank": 49,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 65765,
+      "num": 75124,
+      "word": "美国首都因污水泄漏进入紧急状态",
+      "onboard_time": 1771494019,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 65606,
@@ -1883,6 +1963,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 61722,
+      "num": 61722,
+      "word": "唐宫奇案",
+      "onboard_time": 1771441816,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 61708,
       "num": 61708,
       "word": "致敬老将徐梦桃",
@@ -1905,6 +1993,14 @@
       "onboard_time": 1771470680,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 60829,
+      "num": 60829,
+      "word": "那个过年抗住全家战火的人",
+      "onboard_time": 1771496061,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 60822,
@@ -2155,6 +2251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 38805,
+      "num": 90636,
+      "word": "冬奥版美强惨出现了",
+      "onboard_time": 1771498400,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 36420,
       "num": 675242,
       "word": "春节不归人坚守汇成动人团圆",
@@ -2195,11 +2299,11 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 30374,
-      "num": 75124,
-      "word": "美国首都因污水泄漏进入紧急状态",
-      "onboard_time": 1771494019,
-      "rank": 39,
+      "raw_hot": 30525,
+      "num": 108341,
+      "word": "尹锡悦量刑细节曝光",
+      "onboard_time": 1771497199,
+      "rank": 27,
       "category": "国际时政"
     },
     {
@@ -2265,14 +2369,6 @@
       "onboard_time": 1771438276,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 21402,
-      "num": 26786,
-      "word": "唐宫奇案",
-      "onboard_time": 1771441816,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 21209,
