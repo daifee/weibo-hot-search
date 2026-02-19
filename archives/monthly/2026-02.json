@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1771458871462,
+  "endTime": 1771469083524,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -5563,6 +5563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 516250,
+      "num": 1082600,
+      "word": "尹锡悦今天或被判死刑",
+      "onboard_time": 1771464559,
+      "rank": 0,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 515090,
       "num": 391296,
       "word": "老一辈对子女睡懒觉的执念",
@@ -5889,6 +5897,14 @@
       "onboard_time": 1770294628,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 494454,
+      "num": 805514,
+      "word": "韩媒赛前嘲讽中国队0金被打脸",
+      "onboard_time": 1771465759,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 493989,
@@ -6841,6 +6857,14 @@
       "onboard_time": 1770468741,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 440984,
+      "num": 268408,
+      "word": "过年剩下的红包不要扔",
+      "onboard_time": 1771463658,
+      "rank": 5,
+      "category": "情感"
     },
     {
       "raw_hot": 440243,
@@ -8257,6 +8281,14 @@
       "onboard_time": 1770128122,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 382548,
+      "num": 382548,
+      "word": "苏翊鸣中日美关系最好的一集",
+      "onboard_time": 1771461559,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 382430,
@@ -12436,7 +12468,7 @@
     },
     {
       "raw_hot": 277846,
-      "num": 68183,
+      "num": 110753,
       "word": "半藏森林转型",
       "onboard_time": 1771456637,
       "rank": 21,
@@ -15203,6 +15235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 229070,
+      "num": 111369,
+      "word": "今年调休变少了",
+      "onboard_time": 1771465341,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 229068,
       "num": 271757,
       "word": "日本男子全文背滕王阁序免票进景区",
@@ -16891,6 +16931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 203599,
+      "num": 203599,
+      "word": "8岁小姨给晚辈发红包",
+      "onboard_time": 1771460838,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 203518,
       "num": 203518,
       "word": "格雷莫德",
@@ -17177,6 +17225,14 @@
       "onboard_time": 1770693559,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 199930,
+      "num": 172038,
+      "word": "朱志鑫伦敦",
+      "onboard_time": 1771465459,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 199243,
@@ -17513,6 +17569,14 @@
       "onboard_time": 1770369981,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 195424,
+      "num": 195424,
+      "word": "刘少昂只要国家需要我一直都在",
+      "onboard_time": 1771463540,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 195337,
@@ -18684,7 +18748,7 @@
     },
     {
       "raw_hot": 179282,
-      "num": 116093,
+      "num": 154081,
       "word": "复旦大学教授讲自己儿子是学渣怎么办",
       "onboard_time": 1771456876,
       "rank": 10,
@@ -19091,6 +19155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 174544,
+      "num": 174544,
+      "word": "镖人票房趋势",
+      "onboard_time": 1771462038,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 174527,
       "num": 193625,
       "word": "10万多元黄金被当垃圾扔了",
@@ -19241,6 +19313,14 @@
       "onboard_time": 1769901916,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 172979,
+      "num": 172979,
+      "word": "徐梦桃想当冬奥会六届元老",
+      "onboard_time": 1771464141,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 172953,
@@ -20435,6 +20515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 159232,
+      "num": 159232,
+      "word": "桃黑黑 大白菜",
+      "onboard_time": 1771465520,
+      "rank": 13,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 159207,
       "num": 159207,
       "word": "情人节的朋友圈比春晚还热闹",
@@ -20833,6 +20921,14 @@
       "onboard_time": 1770435801,
       "rank": 30,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 154807,
+      "num": 154807,
+      "word": "每天这4个小时最好在睡眠中度过",
+      "onboard_time": 1771467381,
+      "rank": 15,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 154762,
@@ -22393,6 +22489,14 @@
       "onboard_time": 1770559642,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 141961,
+      "num": 109765,
+      "word": "大年初三睡睡睡",
+      "onboard_time": 1771462038,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 141946,
@@ -25155,6 +25259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 125341,
+      "num": 125341,
+      "word": "朱一龙回应家里刘诗诗外面杨幂",
+      "onboard_time": 1771458020,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 125329,
       "num": 103906,
       "word": "宋雨琦 出去就要大大方方的",
@@ -25440,6 +25552,14 @@
       "word": "静音车厢不是只让乘客静音",
       "onboard_time": 1769906359,
       "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 123293,
+      "num": 123293,
+      "word": "今年的假放了但没完全放",
+      "onboard_time": 1771458378,
+      "rank": 41,
       "category": "民生新闻"
     },
     {
@@ -27259,6 +27379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 114699,
+      "num": 109080,
+      "word": "苏翊鸣将备战下一届冬奥",
+      "onboard_time": 1771465639,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 114650,
       "num": 114650,
       "word": "炽热吸引",
@@ -28929,6 +29057,14 @@
       "onboard_time": 1770215183,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 108175,
+      "num": 108175,
+      "word": "上海网红蛋糕店被拍到发霉草莓",
+      "onboard_time": 1771460838,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 108172,
@@ -32483,6 +32619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 96294,
+      "num": 96294,
+      "word": "热水器出现明火女子被吓懵",
+      "onboard_time": 1771467860,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96284,
       "num": 96284,
       "word": "TOP 最纯正的青梅牛马",
@@ -32873,6 +33017,14 @@
       "onboard_time": 1770388283,
       "rank": 45,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 94980,
+      "num": 94980,
+      "word": "武大靖谈男子短道速滑500米失利",
+      "onboard_time": 1771466119,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 94967,
@@ -33489,6 +33641,14 @@
       "onboard_time": 1770872779,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 93086,
+      "num": 93086,
+      "word": "2儿子熬到凌晨给跑单父亲磕头拜年",
+      "onboard_time": 1771463239,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 93084,
@@ -39475,6 +39635,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 76081,
+      "num": 76081,
+      "word": "有一种过年叫莆田",
+      "onboard_time": 1771467860,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 76062,
       "num": 93444,
       "word": "唐九洲说也是喝上了AI点的奶茶",
@@ -39753,6 +39921,14 @@
       "onboard_time": 1770537980,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 74974,
+      "num": 74974,
+      "word": "徐梦桃母校发喜报",
+      "onboard_time": 1771468399,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 74947,
@@ -41339,6 +41515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 68669,
+      "num": 68669,
+      "word": "镖人吴京陈丽君太能打了",
+      "onboard_time": 1771464681,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 68639,
       "num": 141793,
       "word": "大雨暴雪即将来袭",
@@ -41369,6 +41553,14 @@
       "onboard_time": 1770184340,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 68526,
+      "num": 68526,
+      "word": "冬季干敏皮护肤搭子",
+      "onboard_time": 1771468639,
+      "rank": 35,
+      "category": "美妆"
     },
     {
       "raw_hot": 68491,
@@ -41433,14 +41625,6 @@
       "onboard_time": 1771048040,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 68418,
-      "num": 68418,
-      "word": "朱一龙回应家里刘诗诗外面杨幂",
-      "onboard_time": 1771458020,
-      "rank": 18,
-      "category": "电影"
     },
     {
       "raw_hot": 68407,
@@ -41827,6 +42011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 66816,
+      "num": 68309,
+      "word": "刘宇宁展示最满意的身体部位",
+      "onboard_time": 1771457717,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 66807,
       "num": 180331,
       "word": "零下40度秀肌肉",
@@ -42201,6 +42393,14 @@
       "onboard_time": 1770189080,
       "rank": 47,
       "category": "旅游,民生新闻"
+    },
+    {
+      "raw_hot": 64990,
+      "num": 64990,
+      "word": "苏翊鸣徐梦桃夺金后东北话互动",
+      "onboard_time": 1771468220,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 64966,
@@ -43123,6 +43323,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 61145,
+      "num": 61145,
+      "word": "多方回应饭馆被熊锤门",
+      "onboard_time": 1771462581,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 61122,
       "num": 66879,
       "word": "道琼斯",
@@ -43337,6 +43545,14 @@
       "onboard_time": 1770708441,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 60004,
+      "num": 60004,
+      "word": "爱泼斯坦或在美本土也有萝莉岛",
+      "onboard_time": 1771467080,
+      "rank": 44,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 60003,
@@ -43675,6 +43891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 58248,
+      "num": 58248,
+      "word": "徐梦桃已争气争气再争气",
+      "onboard_time": 1771468639,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 58115,
       "num": 58115,
       "word": "原来春饼里有这么多养生门道",
@@ -43843,6 +44067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 56914,
+      "num": 56914,
+      "word": "走路摇殷紫萍cos",
+      "onboard_time": 1771468639,
+      "rank": 46,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 56839,
       "num": 82519,
       "word": "男子用妻子生日号中2个千万大奖",
@@ -43873,14 +44105,6 @@
       "onboard_time": 1771218443,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 56687,
-      "num": 68309,
-      "word": "刘宇宁展示最满意的身体部位",
-      "onboard_time": 1771457717,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 56663,
@@ -44041,6 +44265,14 @@
       "onboard_time": 1771317500,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 55675,
+      "num": 55675,
+      "word": "过年走亲戚全国统一话术",
+      "onboard_time": 1771467139,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 55563,
@@ -44323,6 +44555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 53755,
+      "num": 53755,
+      "word": "刘少昂一直带着哥哥的梦想去比赛",
+      "onboard_time": 1771468699,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 53747,
       "num": 85995,
       "word": "全球每年约有数百万人切除子宫",
@@ -44528,6 +44768,14 @@
       "word": "苏翊鸣现场观看女子大跳台决赛",
       "onboard_time": 1770681499,
       "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 52476,
+      "num": 52476,
+      "word": "美媒赞徐梦桃最伟大空中技巧选手",
+      "onboard_time": 1771465700,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -46467,6 +46715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43280,
+      "num": 65193,
+      "word": "全世界都在义乌过大年",
+      "onboard_time": 1771466480,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43269,
       "num": 54516,
       "word": "AL与BLG直通淘汰赛",
@@ -46833,14 +47089,6 @@
       "onboard_time": 1770319816,
       "rank": 42,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 41241,
-      "num": 42641,
-      "word": "今年的假放了但没完全放",
-      "onboard_time": 1771458378,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 41192,
@@ -51284,7 +51532,7 @@
     },
     {
       "raw_hot": 21079,
-      "num": 575763,
+      "num": 628275,
       "word": "00后新兵有啥心愿",
       "onboard_time": 1771419202,
       "rank": 2,
