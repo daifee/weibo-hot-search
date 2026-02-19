@@ -1,7 +1,23 @@
 {
   "startTime": 1771517580857,
-  "endTime": 1771517580857,
+  "endTime": 1771520670022,
   "band_list": [
+    {
+      "raw_hot": 3107205,
+      "num": 610081,
+      "word": "宁忠岩金牌",
+      "onboard_time": 1771519938,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1756013,
+      "num": 1756013,
+      "word": "宁忠岩打破奥运纪录",
+      "onboard_time": 1771519759,
+      "rank": 0,
+      "category": "体育"
+    },
     {
       "raw_hot": 1030470,
       "num": 1067375,
@@ -9,6 +25,14 @@
       "onboard_time": 1771513220,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 992931,
+      "num": 205032,
+      "word": "宁忠岩",
+      "onboard_time": 1771520357,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 549929,
@@ -27,6 +51,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 461037,
+      "num": 461037,
+      "word": "米兰冬奥速度滑冰男子1500米",
+      "onboard_time": 1771515800,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 405476,
       "num": 796234,
       "word": "Deepseek神回复",
@@ -43,12 +75,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 286847,
+      "num": 286847,
+      "word": "美军力量被曝正快速集结",
+      "onboard_time": 1771516820,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 277010,
       "num": 277010,
       "word": "将门独后官宣节奏",
       "onboard_time": 1771506020,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 258116,
+      "num": 258116,
+      "word": "宁忠岩刘瀚彬出战1500米",
+      "onboard_time": 1771516279,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 255744,
@@ -59,7 +107,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 236432,
+      "raw_hot": 238200,
       "num": 189660,
       "word": "于奥点赞",
       "onboard_time": 1771515200,
@@ -89,6 +137,14 @@
       "onboard_time": 1771503921,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 198659,
+      "num": 198659,
+      "word": "浙江一地即日起禁售烟花爆竹",
+      "onboard_time": 1771515981,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 198359,
@@ -147,6 +203,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 148153,
+      "num": 148153,
+      "word": "谭凯回应没戏拍回青岛开饺子店",
+      "onboard_time": 1771516161,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 142599,
+      "num": 142599,
+      "word": "中国队米兰冬奥第3金",
+      "onboard_time": 1771520238,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 139223,
       "num": 139223,
       "word": "属相不是从立春开始算",
@@ -161,14 +233,6 @@
       "onboard_time": 1771504760,
       "rank": 25,
       "category": "电影"
-    },
-    {
-      "raw_hot": 108921,
-      "num": 88253,
-      "word": "谭凯回应没戏拍回青岛开饺子店",
-      "onboard_time": 1771516161,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 105649,
@@ -193,14 +257,6 @@
       "onboard_time": 1771503140,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 94144,
-      "num": 135833,
-      "word": "浙江一地即日起禁售烟花爆竹",
-      "onboard_time": 1771515981,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 93151,
@@ -235,12 +291,44 @@
       "category": "电影"
     },
     {
+      "raw_hot": 89086,
+      "num": 89086,
+      "word": "大年初四",
+      "onboard_time": 1771520597,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 87143,
+      "num": 87143,
+      "word": "郭晶晶霍启刚做马蹄糕拜年",
+      "onboard_time": 1771519759,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 87109,
       "num": 87109,
       "word": "英国前王子安德鲁被捕",
       "onboard_time": 1771497081,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 85546,
+      "num": 124835,
+      "word": "特朗普称对台军售要跟中国商量",
+      "onboard_time": 1771516521,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 85439,
+      "num": 85439,
+      "word": "陈丽君 现代女演员里少见的英姿勃发",
+      "onboard_time": 1771517000,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 82186,
@@ -299,6 +387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 71893,
+      "num": 71893,
+      "word": "范丞丞主演电影票房破70亿",
+      "onboard_time": 1771515561,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 69242,
       "num": 69242,
       "word": "王一博表演现场版震感好爽",
@@ -313,14 +409,6 @@
       "onboard_time": 1771505241,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 67726,
-      "num": 64259,
-      "word": "陈丽君 现代女演员里少见的英姿勃发",
-      "onboard_time": 1771517000,
-      "rank": 43,
-      "category": "电影"
     },
     {
       "raw_hot": 64470,
@@ -347,14 +435,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 61641,
-      "num": 124835,
-      "word": "特朗普称对台军售要跟中国商量",
-      "onboard_time": 1771516521,
-      "rank": 19,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 58772,
       "num": 58772,
       "word": "我们的少年时代2",
@@ -379,28 +459,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 55648,
-      "num": 55648,
-      "word": "范丞丞主演电影票房破70亿",
-      "onboard_time": 1771515561,
-      "rank": 49,
+      "raw_hot": 51773,
+      "num": 51773,
+      "word": "电影镖人口碑",
+      "onboard_time": 1771518319,
+      "rank": 40,
       "category": "电影"
     },
     {
+      "raw_hot": 49730,
+      "num": 49730,
+      "word": "中国冰壶女队6比9日本队",
+      "onboard_time": 1771520060,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 26903,
-      "num": 636982,
+      "num": 700531,
       "word": "他们在天山脚下脚踏冰河巡边",
       "onboard_time": 1771510882,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 19558,
-      "num": 197557,
-      "word": "美军力量被曝正快速集结",
-      "onboard_time": 1771516820,
-      "rank": 9,
-      "category": "国际时政"
     }
   ],
   "hotgov_list": [
