@@ -1,6 +1,6 @@
 {
   "startTime": 1771517580857,
-  "endTime": 1771540847424,
+  "endTime": 1771542044249,
   "band_list": [
     {
       "raw_hot": 3454416,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 286847,
-      "num": 390979,
+      "num": 506803,
       "word": "美军力量被曝正快速集结",
       "onboard_time": 1771516820,
       "rank": 9,
@@ -267,8 +267,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 127479,
-      "num": 127479,
+      "raw_hot": 136405,
+      "num": 136405,
       "word": "谷爱凌第二滑86.50分",
       "onboard_time": 1771529834,
       "rank": 14,
@@ -297,6 +297,14 @@
       "onboard_time": 1771513880,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 102314,
+      "num": 102314,
+      "word": "李琰连续5届冬奥会带队夺金",
+      "onboard_time": 1771525995,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 96235,
@@ -435,6 +443,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 77329,
+      "num": 77329,
+      "word": "冬奥花样滑冰女单自由滑",
+      "onboard_time": 1771527195,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 77291,
       "num": 77291,
       "word": "哪吒的回旋镖正中眉心",
@@ -451,14 +467,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 76527,
-      "num": 76527,
-      "word": "冬奥花样滑冰女单自由滑",
-      "onboard_time": 1771527195,
-      "rank": 11,
-      "category": "体育"
-    },
-    {
       "raw_hot": 74714,
       "num": 74714,
       "word": "29岁男子日夜颠倒狂吃碳水ICU过年",
@@ -473,14 +481,6 @@
       "onboard_time": 1771515561,
       "rank": 49,
       "category": "电影"
-    },
-    {
-      "raw_hot": 69627,
-      "num": 69627,
-      "word": "李琰连续5届冬奥会带队夺金",
-      "onboard_time": 1771525995,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 69242,
@@ -643,6 +643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 39847,
+      "num": 39847,
+      "word": "美一高校兄弟会诡异入会仪式曝光",
+      "onboard_time": 1771505899,
+      "rank": 41,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 38078,
       "num": 38078,
       "word": "宁忠岩创造历史",
@@ -667,11 +675,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 30844,
+      "num": 79832,
+      "word": "中国国家队祝贺宁忠岩",
+      "onboard_time": 1771541776,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 28706,
       "num": 28706,
       "word": "宁忠岩举着国旗泪如雨下",
       "onboard_time": 1771524495,
       "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 28417,
+      "num": 28417,
+      "word": "中国队冬奥旗手连续两届夺金",
+      "onboard_time": 1771528816,
+      "rank": 40,
       "category": "体育"
     },
     {
@@ -684,19 +708,19 @@
     },
     {
       "raw_hot": 28338,
-      "num": 26326,
+      "num": 26843,
       "word": "中国4位女将晋级U型场地决赛",
       "onboard_time": 1771535355,
       "rank": 30,
       "category": "体育"
     },
     {
-      "raw_hot": 27662,
-      "num": 27662,
-      "word": "美一高校兄弟会诡异入会仪式曝光",
-      "onboard_time": 1771505899,
-      "rank": 41,
-      "category": "海外新闻"
+      "raw_hot": 27528,
+      "num": 27528,
+      "word": "烟花爆竹该禁吗",
+      "onboard_time": 1771506140,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26903,
@@ -715,27 +739,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 22730,
-      "num": 22883,
+      "raw_hot": 25251,
+      "num": 26839,
       "word": "世界剧本接下来怎么写",
       "onboard_time": 1771528154,
       "rank": 40,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 20934,
-      "num": 22881,
-      "word": "烟花爆竹该禁吗",
-      "onboard_time": 1771506140,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 20186,
-      "num": 22879,
-      "word": "中国队冬奥旗手连续两届夺金",
-      "onboard_time": 1771528816,
-      "rank": 40,
+      "raw_hot": 23249,
+      "num": 118725,
+      "word": "一觉醒来中国队再夺一金",
+      "onboard_time": 1771541776,
+      "rank": 4,
       "category": "体育"
     },
     {
