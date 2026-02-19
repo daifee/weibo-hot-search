@@ -1,6 +1,6 @@
 {
   "startTime": 1771087248939,
-  "endTime": 1771498530621,
+  "endTime": 1771499665974,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -507,6 +507,14 @@
       "category": "综艺,互联网"
     },
     {
+      "raw_hot": 1406007,
+      "num": 110734,
+      "word": "刘德华解冻失败",
+      "onboard_time": 1771495880,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1403997,
       "num": 1403997,
       "word": "宇树",
@@ -649,14 +657,6 @@
       "onboard_time": 1771315100,
       "rank": 3,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1181208,
-      "num": 110734,
-      "word": "刘德华解冻失败",
-      "onboard_time": 1771495880,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 1158428,
@@ -1507,6 +1507,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 619010,
+      "num": 1099041,
+      "word": "英国前王子安德鲁被捕",
+      "onboard_time": 1771497081,
+      "rank": 1,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 615024,
       "num": 827160,
       "word": "再次提醒中国公民避免赴日",
@@ -2107,14 +2115,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 453893,
-      "num": 766931,
-      "word": "英国前王子安德鲁被捕",
-      "onboard_time": 1771497081,
-      "rank": 1,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 453602,
       "num": 269910,
       "word": "学术界 仅退款",
@@ -2393,6 +2393,14 @@
       "onboard_time": 1771129218,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 408559,
+      "num": 221772,
+      "word": "首档中老年恋综成了4对",
+      "onboard_time": 1771497141,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 408096,
@@ -3347,6 +3355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 296807,
+      "num": 159952,
+      "word": "伊朗",
+      "onboard_time": 1771494740,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 296688,
       "num": 116946,
       "word": "楼晚",
@@ -3865,14 +3881,6 @@
       "onboard_time": 1771235065,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 260060,
-      "num": 159952,
-      "word": "伊朗",
-      "onboard_time": 1771494740,
-      "rank": 41,
-      "category": "国际时政"
     },
     {
       "raw_hot": 259629,
@@ -5451,6 +5459,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 174513,
+      "num": 174513,
+      "word": "鲍鱼壳 除蟑螂",
+      "onboard_time": 1771493180,
+      "rank": 30,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 174063,
       "num": 174063,
       "word": "今年除夕为啥不是年三十",
@@ -5755,14 +5771,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 161185,
-      "num": 161185,
-      "word": "首档中老年恋综成了4对",
-      "onboard_time": 1771497141,
-      "rank": 9,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 160980,
       "num": 160980,
       "word": "伤心swimming 预录取",
@@ -5835,14 +5843,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 158959,
-      "num": 158959,
-      "word": "鲍鱼壳 除蟑螂",
-      "onboard_time": 1771493180,
-      "rank": 30,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 158680,
       "num": 158680,
       "word": "王毅和德国总理比身高",
@@ -5864,6 +5864,14 @@
       "word": "赵丽颖王源也是当上门神了",
       "onboard_time": 1771411459,
       "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 157959,
+      "num": 101652,
+      "word": "17岁最后一天的张子墨",
+      "onboard_time": 1771498340,
+      "rank": 31,
       "category": "艺人"
     },
     {
@@ -6400,6 +6408,14 @@
       "word": "王楚然 天选王昭君",
       "onboard_time": 1771264399,
       "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 137964,
+      "num": 137964,
+      "word": "希林娜依高7米变色长裙唱浮光",
+      "onboard_time": 1771496961,
+      "rank": 19,
       "category": "综艺"
     },
     {
@@ -7115,6 +7131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 116786,
+      "num": 116786,
+      "word": "王安宇你玩狼人杀不是这样的",
+      "onboard_time": 1771499059,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 116720,
       "num": 116720,
       "word": "徐梦桃说没法冷静",
@@ -7219,6 +7243,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 115121,
+      "num": 91735,
+      "word": "海南偶遇吴谨言洪尧吃饭",
+      "onboard_time": 1771499241,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 114919,
       "num": 251949,
       "word": "甘蔗老板不敢睁开眼",
@@ -7313,6 +7345,14 @@
       "onboard_time": 1771488080,
       "rank": 25,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 113305,
+      "num": 103797,
+      "word": "吴京 朕们和我从来没有嫌隙",
+      "onboard_time": 1771498759,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 113296,
@@ -7427,14 +7467,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 111364,
-      "num": 111364,
-      "word": "希林娜依高7米变色长裙唱浮光",
-      "onboard_time": 1771496961,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 111048,
       "num": 176781,
       "word": "光与夜之恋",
@@ -7473,6 +7505,14 @@
       "onboard_time": 1771470439,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 110245,
+      "num": 107165,
+      "word": "关晓彤滑雪摔屁墩儿",
+      "onboard_time": 1771497921,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 109855,
@@ -7609,14 +7649,6 @@
       "onboard_time": 1771113558,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 107165,
-      "num": 107165,
-      "word": "关晓彤滑雪摔屁墩儿",
-      "onboard_time": 1771497921,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 107132,
@@ -7929,14 +7961,6 @@
       "onboard_time": 1771412061,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 101652,
-      "num": 101652,
-      "word": "17岁最后一天的张子墨",
-      "onboard_time": 1771498340,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 101538,
@@ -8483,6 +8507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 90224,
+      "num": 96685,
+      "word": "Doinb转型DOTA2选手",
+      "onboard_time": 1771493959,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 90180,
       "num": 169249,
       "word": "客服回应春晚同款机器人85000元",
@@ -8683,14 +8715,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 87582,
-      "num": 96685,
-      "word": "Doinb转型DOTA2选手",
-      "onboard_time": 1771493959,
-      "rank": 47,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 87437,
       "num": 87437,
       "word": "此猫丑得油光水滑",
@@ -8801,6 +8825,14 @@
       "onboard_time": 1771329562,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 85227,
+      "num": 85227,
+      "word": "陈梦手把手指导小运动员",
+      "onboard_time": 1771499360,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 85108,
@@ -9803,6 +9835,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 73020,
+      "num": 73020,
+      "word": "2026票房排行",
+      "onboard_time": 1771493721,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 72882,
       "num": 151046,
       "word": "喵娲娲发30万红包",
@@ -9905,6 +9945,14 @@
       "onboard_time": 1771496961,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 71976,
+      "num": 71976,
+      "word": "小猫从伤痕累累到荣华富贵",
+      "onboard_time": 1771499360,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 71861,
@@ -10411,14 +10459,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 67363,
-      "num": 67363,
-      "word": "2026票房排行",
-      "onboard_time": 1771493721,
-      "rank": 44,
-      "category": "电影"
-    },
-    {
       "raw_hot": 67324,
       "num": 67324,
       "word": "洋女婿第一次过年硬核敬酒笑翻全家",
@@ -10536,6 +10576,14 @@
       "word": "国乒2026新年祝福",
       "onboard_time": 1771148780,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 65946,
+      "num": 65946,
+      "word": "苏翊鸣想看分数又不敢像极查分的我",
+      "onboard_time": 1771499300,
+      "rank": 43,
       "category": "体育"
     },
     {
@@ -10715,6 +10763,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 64172,
+      "num": 64172,
+      "word": "以防你没见过小鸟摇屁股",
+      "onboard_time": 1771498040,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 64158,
       "num": 64158,
       "word": "好想看活人气息的朋友圈",
@@ -10873,6 +10929,14 @@
       "onboard_time": 1771297642,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 62412,
+      "num": 62412,
+      "word": "云南旅游指南",
+      "onboard_time": 1771499601,
+      "rank": 47,
+      "category": "旅游"
     },
     {
       "raw_hot": 62348,
@@ -11121,6 +11185,14 @@
       "onboard_time": 1771467080,
       "rank": 44,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 59980,
+      "num": 97969,
+      "word": "冬奥版美强惨出现了",
+      "onboard_time": 1771498400,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 59924,
@@ -12360,14 +12432,6 @@
       "word": "春晚团圆冬奥冲金咪咕除夕转不停",
       "onboard_time": 1771211781,
       "rank": 28,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 38805,
-      "num": 90636,
-      "word": "冬奥版美强惨出现了",
-      "onboard_time": 1771498400,
-      "rank": 34,
       "category": "体育"
     },
     {
