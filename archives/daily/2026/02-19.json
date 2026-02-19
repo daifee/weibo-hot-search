@@ -1,6 +1,6 @@
 {
   "startTime": 1771430429513,
-  "endTime": 1771495143698,
+  "endTime": 1771495946918,
   "band_list": [
     {
       "raw_hot": 1540685,
@@ -51,6 +51,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 731101,
+      "num": 186904,
+      "word": "高层看烟花有多吓人",
+      "onboard_time": 1771491560,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 676858,
       "num": 226660,
       "word": "镖人 对吴京黑转BLACKPINK",
@@ -67,14 +75,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 658388,
-      "num": 186904,
-      "word": "高层看烟花有多吓人",
-      "onboard_time": 1771491560,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 654849,
       "num": 85080,
       "word": "宜城烟花爆竹爆燃5名未成年人遇难",
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 643381,
-      "num": 1062216,
+      "num": 1083602,
       "word": "苏翊鸣 为了露表手忙脚乱",
       "onboard_time": 1771487240,
       "rank": 37,
@@ -139,20 +139,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 570933,
+      "num": 100619,
+      "word": "王嘉尔纠正阿玛尼官方",
+      "onboard_time": 1771492398,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 553794,
       "num": 1088607,
       "word": "韩媒赛前嘲讽中国队0金被打脸",
       "onboard_time": 1771465759,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 523620,
-      "num": 98295,
-      "word": "王嘉尔纠正阿玛尼官方",
-      "onboard_time": 1771492398,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 516250,
@@ -243,6 +243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 395781,
+      "num": 395781,
+      "word": "旺旺雪饼vs仙贝",
+      "onboard_time": 1771491021,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 394985,
       "num": 177999,
       "word": "白鹿曾舜晞陈鹤一梁永棋韩国旅游",
@@ -265,14 +273,6 @@
       "onboard_time": 1771461559,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 368144,
-      "num": 368144,
-      "word": "旺旺雪饼vs仙贝",
-      "onboard_time": 1771491021,
-      "rank": 42,
-      "category": "美食"
     },
     {
       "raw_hot": 365680,
@@ -316,7 +316,7 @@
     },
     {
       "raw_hot": 328819,
-      "num": 131973,
+      "num": 133473,
       "word": "昀牵孟绕",
       "onboard_time": 1771483219,
       "rank": 12,
@@ -427,6 +427,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 269165,
+      "num": 798107,
+      "word": "尹锡悦听宣判后叹气面色凝重",
+      "onboard_time": 1771494019,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 253253,
       "num": 215375,
       "word": "曝邓超怒怼项目方维护孙俪",
@@ -507,6 +515,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 220390,
+      "num": 220390,
+      "word": "我将学会谷爱凌这个大笑方式",
+      "onboard_time": 1771490958,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 211751,
       "num": 211751,
       "word": "冬奥短道速滑男子500米",
@@ -579,14 +595,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 197672,
-      "num": 197672,
-      "word": "我将学会谷爱凌这个大笑方式",
-      "onboard_time": 1771490958,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 195424,
       "num": 195424,
       "word": "刘少昂只要国家需要我一直都在",
@@ -625,6 +633,14 @@
       "onboard_time": 1771480100,
       "rank": 23,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 184792,
+      "num": 96346,
+      "word": "爸爸除夕独自吃饺子女儿看监控哭了",
+      "onboard_time": 1771494799,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 183587,
@@ -755,6 +771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 149203,
+      "num": 149203,
+      "word": "飞驰人生",
+      "onboard_time": 1771491800,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 147514,
       "num": 147514,
       "word": "飞驰人生3杀疯了",
@@ -795,12 +819,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 141717,
+      "num": 141717,
+      "word": "伊朗",
+      "onboard_time": 1771494740,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 141413,
       "num": 141413,
       "word": "曝Doinb参加TI15预选赛",
       "onboard_time": 1771491140,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 140006,
+      "num": 140006,
+      "word": "双轨还有售后",
+      "onboard_time": 1771494680,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 139320,
@@ -859,19 +899,19 @@
       "category": "电影"
     },
     {
+      "raw_hot": 123958,
+      "num": 95397,
+      "word": "鲍鱼壳 除蟑螂",
+      "onboard_time": 1771493180,
+      "rank": 30,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 123293,
       "num": 123293,
       "word": "今年的假放了但没完全放",
       "onboard_time": 1771458378,
       "rank": 41,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 123268,
-      "num": 96346,
-      "word": "爸爸除夕独自吃饺子女儿看监控哭了",
-      "onboard_time": 1771494799,
-      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -897,14 +937,6 @@
       "onboard_time": 1771473500,
       "rank": 25,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 118086,
-      "num": 118086,
-      "word": "飞驰人生",
-      "onboard_time": 1771491800,
-      "rank": 35,
-      "category": "电影"
     },
     {
       "raw_hot": 117566,
@@ -1043,20 +1075,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 107614,
+      "num": 87598,
+      "word": "左奇函外拍",
+      "onboard_time": 1771495161,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 106644,
       "num": 106644,
       "word": "6岁女孩拜年5岁小叔妈妈发声",
       "onboard_time": 1771475781,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 103792,
-      "num": 95397,
-      "word": "鲍鱼壳 除蟑螂",
-      "onboard_time": 1771493180,
-      "rank": 30,
-      "category": "科学科普"
     },
     {
       "raw_hot": 103774,
@@ -1145,14 +1177,6 @@
       "onboard_time": 1771413140,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 95088,
-      "num": 95088,
-      "word": "双轨还有售后",
-      "onboard_time": 1771494680,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 94980,
@@ -1259,6 +1283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 89142,
+      "num": 89142,
+      "word": "韩国民众对尹锡悦无期徒刑的反应",
+      "onboard_time": 1771495400,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 88264,
       "num": 88264,
       "word": "网红阿沁直播首次谈前任刘阳",
@@ -1321,6 +1353,14 @@
       "onboard_time": 1771422084,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 85724,
+      "num": 85724,
+      "word": "中国短道速滑还有一个项目可冲金",
+      "onboard_time": 1771495581,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 84375,
@@ -1451,14 +1491,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 76348,
-      "num": 98587,
-      "word": "尹锡悦听宣判后叹气面色凝重",
-      "onboard_time": 1771494019,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 76240,
       "num": 91965,
       "word": "过年 二手烟",
@@ -1515,20 +1547,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 74844,
-      "num": 74844,
-      "word": "伊朗",
-      "onboard_time": 1771494740,
-      "rank": 41,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 74348,
       "num": 74348,
       "word": "小猫咪能有什么坏心思",
       "onboard_time": 1771494320,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 72531,
+      "num": 72531,
+      "word": "女子过年散步路边水沟捞出800元",
+      "onboard_time": 1771494140,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 72505,
+      "num": 72505,
+      "word": "孟子义这该死的甜美",
+      "onboard_time": 1771492398,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 72292,
@@ -1571,6 +1611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 70939,
+      "num": 70939,
+      "word": "刘德华解冻失败",
+      "onboard_time": 1771495880,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 70830,
       "num": 70830,
       "word": "李兰迪说串门组都是她的舞蹈老师",
@@ -1611,28 +1659,12 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 69528,
-      "num": 69528,
-      "word": "女子过年散步路边水沟捞出800元",
-      "onboard_time": 1771494140,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 68669,
       "num": 68669,
       "word": "镖人吴京陈丽君太能打了",
       "onboard_time": 1771464681,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 68565,
-      "num": 68565,
-      "word": "孟子义这该死的甜美",
-      "onboard_time": 1771492398,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 68526,
@@ -1737,6 +1769,14 @@
       "onboard_time": 1771420342,
       "rank": 49,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 65606,
+      "num": 65606,
+      "word": "专家回应惊蛰无声是否泄密",
+      "onboard_time": 1771495700,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 65557,
@@ -2209,6 +2249,14 @@
       "onboard_time": 1771440794,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 23105,
+      "num": 74209,
+      "word": "西班牙男子篡改系统1分钱住酒店",
+      "onboard_time": 1771495220,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 22245,
