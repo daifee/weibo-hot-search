@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1771508940863,
+  "endTime": 1771513031540,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -1052,7 +1052,7 @@
     },
     {
       "raw_hot": 1406007,
-      "num": 258476,
+      "num": 280141,
       "word": "刘德华解冻失败",
       "onboard_time": 1771495880,
       "rank": 44,
@@ -1297,6 +1297,14 @@
       "onboard_time": 1770869119,
       "rank": 0,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 1217897,
+      "num": 408516,
+      "word": "湖南新化6名消防员因公牺牲",
+      "onboard_time": 1771508902,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1215567,
@@ -3260,7 +3268,7 @@
     },
     {
       "raw_hot": 731101,
-      "num": 256789,
+      "num": 278373,
       "word": "高层看烟花有多吓人",
       "onboard_time": 1771491560,
       "rank": 34,
@@ -6107,6 +6115,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 488753,
+      "num": 488753,
+      "word": "王鹤棣孟子义 将门独后",
+      "onboard_time": 1771508541,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 488745,
       "num": 178052,
       "word": "苍蝇搓手为什么会意外截头",
@@ -8947,6 +8963,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 370007,
+      "num": 811301,
+      "word": "美国若武力介入台湾代价巨大",
+      "onboard_time": 1771509203,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 369402,
       "num": 192766,
       "word": "女子火车上熟睡8000元手机被偷",
@@ -9249,6 +9273,14 @@
       "onboard_time": 1770463521,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 362540,
+      "num": 277852,
+      "word": "酷滕 雷淞然",
+      "onboard_time": 1771507341,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 362502,
@@ -9633,6 +9665,14 @@
       "onboard_time": 1770301828,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 351371,
+      "num": 351371,
+      "word": "人的心气是能重新养回来的",
+      "onboard_time": 1771507883,
+      "rank": 6,
+      "category": "情感"
     },
     {
       "raw_hot": 351311,
@@ -10440,14 +10480,6 @@
       "word": "宋亚轩遇到了最懂他的刘耀文",
       "onboard_time": 1770908540,
       "rank": 15,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 329155,
-      "num": 187097,
-      "word": "酷滕 雷淞然",
-      "onboard_time": 1771507341,
-      "rank": 14,
       "category": "艺人"
     },
     {
@@ -12003,6 +12035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 296003,
+      "num": 276568,
+      "word": "100多元订房酒店嫌价低不让入住",
+      "onboard_time": 1771509981,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 295951,
       "num": 148739,
       "word": "原来GAI早就官宣了",
@@ -12161,6 +12201,14 @@
       "onboard_time": 1770284965,
       "rank": 31,
       "category": "民生新闻,动漫"
+    },
+    {
+      "raw_hot": 291790,
+      "num": 417178,
+      "word": "Deepseek神回复",
+      "onboard_time": 1771509800,
+      "rank": 4,
+      "category": "互联网"
     },
     {
       "raw_hot": 291723,
@@ -12595,14 +12643,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 283139,
-      "num": 248813,
-      "word": "人的心气是能重新养回来的",
-      "onboard_time": 1771507883,
-      "rank": 6,
-      "category": "情感"
-    },
-    {
       "raw_hot": 282954,
       "num": 272621,
       "word": "张艺凡让时代少年团参见公主",
@@ -12937,6 +12977,14 @@
       "onboard_time": 1770017602,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 276023,
+      "num": 276023,
+      "word": "网剧双轨",
+      "onboard_time": 1771500439,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 275941,
@@ -13569,14 +13617,6 @@
       "onboard_time": 1770254061,
       "rank": 6,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 263179,
-      "num": 238777,
-      "word": "网剧双轨",
-      "onboard_time": 1771500439,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 262957,
@@ -16457,6 +16497,14 @@
       "onboard_time": 1771231223,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 219099,
+      "num": 219099,
+      "word": "属相不是从立春开始算",
+      "onboard_time": 1771509921,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 219043,
@@ -21371,6 +21419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 157515,
+      "num": 145644,
+      "word": "王菲为什么选中你我经历的一刻",
+      "onboard_time": 1771511720,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 157450,
       "num": 152902,
       "word": "你好星期六收视率第一",
@@ -22345,6 +22401,14 @@
       "onboard_time": 1770942200,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 149295,
+      "num": 145275,
+      "word": "王橹杰抽抽乐",
+      "onboard_time": 1771508121,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 149157,
@@ -23899,6 +23963,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 137930,
+      "num": 137930,
+      "word": "妈妈让上交2万压岁钱孩子不干了",
+      "onboard_time": 1771512201,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 137918,
       "num": 137918,
       "word": "成何体统谢永儿吓晕了",
@@ -24121,6 +24193,14 @@
       "onboard_time": 1771321280,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 136481,
+      "num": 117241,
+      "word": "北京大学陈江教授讲AI",
+      "onboard_time": 1771511181,
+      "rank": 29,
+      "category": "教育,互联网"
     },
     {
       "raw_hot": 136397,
@@ -24449,14 +24529,6 @@
       "onboard_time": 1770989301,
       "rank": 27,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 134757,
-      "num": 134757,
-      "word": "王橹杰抽抽乐",
-      "onboard_time": 1771508121,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 134727,
@@ -26491,6 +26563,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 122331,
+      "num": 122331,
+      "word": "王一博表演现场版震感好爽",
+      "onboard_time": 1771509322,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 122317,
       "num": 117821,
       "word": "虞书欣让桐哥抱走超大应援棒",
@@ -27019,6 +27099,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 119824,
+      "num": 119824,
+      "word": "29岁男子日夜颠倒狂吃碳水ICU过年",
+      "onboard_time": 1771512501,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119754,
       "num": 119754,
       "word": "王楚钦vs郭勇",
@@ -27427,6 +27515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 118052,
+      "num": 118052,
+      "word": "穆祉丞 没人打扰的感觉太爽了",
+      "onboard_time": 1771512501,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 118044,
       "num": 103853,
       "word": "晚11点到凌晨3点睡好有多重要",
@@ -27651,6 +27747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 117047,
+      "num": 117047,
+      "word": "科学解释不了只有爱能解释",
+      "onboard_time": 1771509260,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 117030,
       "num": 117030,
       "word": "河南春晚",
@@ -27688,6 +27792,14 @@
       "word": "32岁女子害怕催婚3年不敢回家过年",
       "onboard_time": 1770209961,
       "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116911,
+      "num": 116911,
+      "word": "山东晚高峰视频在推特火了",
+      "onboard_time": 1771510882,
+      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -34315,6 +34427,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 93897,
+      "num": 93897,
+      "word": "沈腾主演电影票房已超384亿",
+      "onboard_time": 1771512261,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 93881,
       "num": 93881,
       "word": "应急管理部坚决拥护党中央决定",
@@ -34881,6 +35001,14 @@
       "onboard_time": 1770088459,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92210,
+      "num": 92210,
+      "word": "沈腾回应马丽单飞",
+      "onboard_time": 1771511002,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 92147,
@@ -40115,6 +40243,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 77909,
+      "num": 90230,
+      "word": "刘少昂赛后发文",
+      "onboard_time": 1771511002,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 77870,
       "num": 116783,
       "word": "冬奥女选手庆祝举动或赚百万美元",
@@ -40697,14 +40833,6 @@
       "onboard_time": 1771152800,
       "rank": 47,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 76422,
-      "num": 76422,
-      "word": "王鹤棣孟子义 将门独后",
-      "onboard_time": 1771508541,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 76383,
@@ -41483,6 +41611,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 74170,
+      "num": 74170,
+      "word": "胡锡进称美国轰炸伊朗箭在弦上",
+      "onboard_time": 1771512741,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 74143,
       "num": 74143,
       "word": "一觉醒来全跌了",
@@ -42017,6 +42153,14 @@
       "onboard_time": 1770901881,
       "rank": 46,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 72024,
+      "num": 72024,
+      "word": "樊振东把球打进吉祥物嘴里",
+      "onboard_time": 1771512441,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 71976,
@@ -43049,6 +43193,14 @@
       "onboard_time": 1770205761,
       "rank": 46,
       "category": "美食"
+    },
+    {
+      "raw_hot": 68248,
+      "num": 68248,
+      "word": "爸爸的小手办也太可爱了叭",
+      "onboard_time": 1771511421,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 68241,
@@ -45945,14 +46097,6 @@
       "onboard_time": 1771173141,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 55309,
-      "num": 90299,
-      "word": "湖南新化6名消防员因公牺牲",
-      "onboard_time": 1771508902,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 55255,
@@ -50331,6 +50475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 32979,
+      "num": 624670,
+      "word": "他们在天山脚下脚踏冰河巡边",
+      "onboard_time": 1771510882,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32960,
       "num": 641882,
       "word": "春运第1天流动量预计超1.8亿人次",
@@ -51865,6 +52017,14 @@
       "onboard_time": 1770808159,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 26253,
+      "num": 111712,
+      "word": "老家短短2天热闹却是一整年盼头",
+      "onboard_time": 1771512921,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26235,

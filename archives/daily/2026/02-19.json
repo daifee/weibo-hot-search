@@ -1,6 +1,6 @@
 {
   "startTime": 1771430429513,
-  "endTime": 1771508940863,
+  "endTime": 1771513031540,
   "band_list": [
     {
       "raw_hot": 1540685,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1406007,
-      "num": 258476,
+      "num": 280141,
       "word": "刘德华解冻失败",
       "onboard_time": 1771495880,
       "rank": 44,
@@ -25,6 +25,14 @@
       "onboard_time": 1771420644,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1217897,
+      "num": 408516,
+      "word": "湖南新化6名消防员因公牺牲",
+      "onboard_time": 1771508902,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1194185,
@@ -68,7 +76,7 @@
     },
     {
       "raw_hot": 731101,
-      "num": 256789,
+      "num": 278373,
       "word": "高层看烟花有多吓人",
       "onboard_time": 1771491560,
       "rank": 34,
@@ -227,6 +235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 488753,
+      "num": 488753,
+      "word": "王鹤棣孟子义 将门独后",
+      "onboard_time": 1771508541,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 485764,
       "num": 236432,
       "word": "玩手机是一件很私人的事情",
@@ -355,6 +371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 370007,
+      "num": 811301,
+      "word": "美国若武力介入台湾代价巨大",
+      "onboard_time": 1771509203,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 365680,
       "num": 337030,
       "word": "陈丽君是怎么面试上镖人的",
@@ -369,6 +393,14 @@
       "onboard_time": 1771469838,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 362540,
+      "num": 277852,
+      "word": "酷滕 雷淞然",
+      "onboard_time": 1771507341,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 362129,
@@ -403,12 +435,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 329155,
-      "num": 187097,
-      "word": "酷滕 雷淞然",
-      "onboard_time": 1771507341,
-      "rank": 14,
-      "category": "艺人"
+      "raw_hot": 351371,
+      "num": 351371,
+      "word": "人的心气是能重新养回来的",
+      "onboard_time": 1771507883,
+      "rank": 6,
+      "category": "情感"
     },
     {
       "raw_hot": 328819,
@@ -475,6 +507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 296003,
+      "num": 276568,
+      "word": "100多元订房酒店嫌价低不让入住",
+      "onboard_time": 1771509981,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 292270,
       "num": 292270,
       "word": "吴京 朕们和我从来没有嫌隙",
@@ -483,20 +523,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 291790,
+      "num": 417178,
+      "word": "Deepseek神回复",
+      "onboard_time": 1771509800,
+      "rank": 4,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 291723,
       "num": 773699,
       "word": "苏翊鸣说储备了没有人实现过的动作",
       "onboard_time": 1771475359,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 283139,
-      "num": 248813,
-      "word": "人的心气是能重新养回来的",
-      "onboard_time": 1771507883,
-      "rank": 6,
-      "category": "情感"
     },
     {
       "raw_hot": 280593,
@@ -547,6 +587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 276023,
+      "num": 276023,
+      "word": "网剧双轨",
+      "onboard_time": 1771500439,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 273719,
       "num": 219154,
       "word": "刘晓庆 短剧还能有脱口秀掉价吗",
@@ -577,14 +625,6 @@
       "onboard_time": 1771467381,
       "rank": 15,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 263179,
-      "num": 238777,
-      "word": "网剧双轨",
-      "onboard_time": 1771500439,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 262722,
@@ -728,6 +768,14 @@
       "word": "女儿扶人遭索赔22万妈妈发声",
       "onboard_time": 1771489398,
       "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 219099,
+      "num": 219099,
+      "word": "属相不是从立春开始算",
+      "onboard_time": 1771509921,
+      "rank": 16,
       "category": "民生新闻"
     },
     {
@@ -995,6 +1043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 157515,
+      "num": 145644,
+      "word": "王菲为什么选中你我经历的一刻",
+      "onboard_time": 1771511720,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154991,
       "num": 154991,
       "word": "谁把郭富城鞋踩掉了",
@@ -1025,6 +1081,14 @@
       "onboard_time": 1771504221,
       "rank": 27,
       "category": "网红"
+    },
+    {
+      "raw_hot": 149295,
+      "num": 145275,
+      "word": "王橹杰抽抽乐",
+      "onboard_time": 1771508121,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 149203,
@@ -1115,19 +1179,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 137930,
+      "num": 137930,
+      "word": "妈妈让上交2万压岁钱孩子不干了",
+      "onboard_time": 1771512201,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 136481,
+      "num": 117241,
+      "word": "北京大学陈江教授讲AI",
+      "onboard_time": 1771511181,
+      "rank": 29,
+      "category": "教育,互联网"
+    },
+    {
       "raw_hot": 136005,
       "num": 107880,
       "word": "左奇函外拍",
       "onboard_time": 1771495161,
       "rank": 34,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 134757,
-      "num": 134757,
-      "word": "王橹杰抽抽乐",
-      "onboard_time": 1771508121,
-      "rank": 28,
       "category": "艺人"
     },
     {
@@ -1203,6 +1275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 122331,
+      "num": 122331,
+      "word": "王一博表演现场版震感好爽",
+      "onboard_time": 1771509322,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 122147,
       "num": 108593,
       "word": "中国短道速滑还有一个项目可冲金",
@@ -1235,12 +1315,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 119824,
+      "num": 119824,
+      "word": "29岁男子日夜颠倒狂吃碳水ICU过年",
+      "onboard_time": 1771512501,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 118305,
       "num": 229169,
       "word": "亲信透露尹锡悦为护妻铤而走险",
       "onboard_time": 1771500623,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 118052,
+      "num": 118052,
+      "word": "穆祉丞 没人打扰的感觉太爽了",
+      "onboard_time": 1771512501,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 117566,
@@ -1257,6 +1353,22 @@
       "onboard_time": 1771454835,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 117047,
+      "num": 117047,
+      "word": "科学解释不了只有爱能解释",
+      "onboard_time": 1771509260,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 116911,
+      "num": 116911,
+      "word": "山东晚高峰视频在推特火了",
+      "onboard_time": 1771510882,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 115949,
@@ -1491,6 +1603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 99397,
+      "num": 99397,
+      "word": "杨幂朱一龙吻戏",
+      "onboard_time": 1771512081,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 98404,
       "num": 98404,
       "word": "镖人",
@@ -1563,6 +1683,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 93897,
+      "num": 93897,
+      "word": "沈腾主演电影票房已超384亿",
+      "onboard_time": 1771512261,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 93757,
       "num": 93757,
       "word": "男子吐槽年夜饭12道菜仅受皮外伤",
@@ -1617,6 +1745,14 @@
       "onboard_time": 1771474760,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92210,
+      "num": 92210,
+      "word": "沈腾回应马丽单飞",
+      "onboard_time": 1771511002,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 92054,
@@ -1883,6 +2019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 77909,
+      "num": 90230,
+      "word": "刘少昂赛后发文",
+      "onboard_time": 1771511002,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 77706,
       "num": 77706,
       "word": "岳云鹏曾找郭德纲告状孙越",
@@ -1897,14 +2041,6 @@
       "onboard_time": 1771482020,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 76422,
-      "num": 76422,
-      "word": "王鹤棣孟子义 将门独后",
-      "onboard_time": 1771508541,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 76081,
@@ -1979,6 +2115,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 74170,
+      "num": 74170,
+      "word": "胡锡进称美国轰炸伊朗箭在弦上",
+      "onboard_time": 1771512741,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 74002,
       "num": 117828,
       "word": "刘少昂说祖国需要我就一直在",
@@ -2025,6 +2169,14 @@
       "onboard_time": 1771496961,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 72024,
+      "num": 72024,
+      "word": "樊振东把球打进吉祥物嘴里",
+      "onboard_time": 1771512441,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 71976,
@@ -2137,6 +2289,14 @@
       "onboard_time": 1771468639,
       "rank": 35,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 68248,
+      "num": 68248,
+      "word": "爸爸的小手办也太可爱了叭",
+      "onboard_time": 1771511421,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 68204,
@@ -2531,14 +2691,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 55309,
-      "num": 90299,
-      "word": "湖南新化6名消防员因公牺牲",
-      "onboard_time": 1771508902,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 54929,
       "num": 146606,
       "word": "以旅行见世界",
@@ -2707,6 +2859,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 32979,
+      "num": 624670,
+      "word": "他们在天山脚下脚踏冰河巡边",
+      "onboard_time": 1771510882,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31318,
       "num": 32856,
       "word": "狼队vs阿森纳",
@@ -2745,6 +2905,14 @@
       "onboard_time": 1771446134,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 26253,
+      "num": 111712,
+      "word": "老家短短2天热闹却是一整年盼头",
+      "onboard_time": 1771512921,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25865,
