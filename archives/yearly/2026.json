@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1771520670022,
+  "endTime": 1771522220136,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -603,6 +603,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 3454416,
+      "num": 3454416,
+      "word": "宁忠岩金牌",
+      "onboard_time": 1771519938,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 3441714,
       "num": 250987,
       "word": "前女友实名举报何健麒涉毒",
@@ -633,14 +641,6 @@
       "onboard_time": 1771248821,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 3107205,
-      "num": 610081,
-      "word": "宁忠岩金牌",
-      "onboard_time": 1771519938,
-      "rank": 3,
-      "category": "体育"
     },
     {
       "raw_hot": 3092079,

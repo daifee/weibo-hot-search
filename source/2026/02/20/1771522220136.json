@@ -1,0 +1,410 @@
+{
+  "runTime": 1771522220136,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3454416,
+        "num": 3454416,
+        "word": "宁忠岩金牌",
+        "onboard_time": 1771519938,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1001142,
+        "num": 1001142,
+        "word": "宁忠岩打破奥运纪录",
+        "onboard_time": 1771519759,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16270,
+        "num": 605616,
+        "word": "他们在天山脚下脚踏冰河巡边",
+        "onboard_time": 1771510882,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 364968,
+        "num": 364968,
+        "word": "谢景行",
+        "onboard_time": 1771513220,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 276519,
+        "num": 276519,
+        "word": "宁忠岩 圆月弯刀斩落紫微星",
+        "onboard_time": 1771521917,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206019,
+        "num": 206019,
+        "word": "美军力量被曝正快速集结",
+        "onboard_time": 1771516820,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 159846,
+        "num": 159846,
+        "word": "中国队米兰冬奥第3金",
+        "onboard_time": 1771520238,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152949,
+        "num": 152949,
+        "word": "宁忠岩飞起来了",
+        "onboard_time": 1771521557,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155498,
+        "num": 152482,
+        "word": "米兰冬奥速度滑冰男子1500米",
+        "onboard_time": 1771515800,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131853,
+        "num": 151270,
+        "word": "宁忠岩李琰拥抱",
+        "onboard_time": 1771521257,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 465535,
+        "num": 149995,
+        "word": "宁忠岩",
+        "onboard_time": 1771520357,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 286208,
+        "num": 148377,
+        "word": "刘德华解冻失败",
+        "onboard_time": 1771495880,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148273,
+        "num": 148273,
+        "word": "于奥点赞",
+        "onboard_time": 1771515200,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122325,
+        "num": 122325,
+        "word": "浙江一地即日起禁售烟花爆竹",
+        "onboard_time": 1771515981,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122176,
+        "num": 122176,
+        "word": "人的心气是能重新养回来的",
+        "onboard_time": 1771507883,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 120607,
+        "num": 120607,
+        "word": "谭凯回应没戏拍回青岛开饺子店",
+        "onboard_time": 1771516161,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112317,
+        "num": 112317,
+        "word": "酷滕 雷淞然",
+        "onboard_time": 1771507341,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108809,
+        "num": 108809,
+        "word": "Deepseek神回复",
+        "onboard_time": 1771509800,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 105507,
+        "num": 105507,
+        "word": "王鹤棣孟子义 将门独后",
+        "onboard_time": 1771508541,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86507,
+        "num": 86507,
+        "word": "宁忠岩哭了",
+        "onboard_time": 1771521619,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81344,
+        "num": 81344,
+        "word": "穆祉丞 没人打扰的感觉太爽了",
+        "onboard_time": 1771512501,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79862,
+        "num": 79862,
+        "word": "郭晶晶霍启刚做马蹄糕拜年",
+        "onboard_time": 1771519759,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77844,
+        "num": 77844,
+        "word": "苏翊鸣的第二枚奥运金牌",
+        "onboard_time": 1771513702,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75846,
+        "num": 75846,
+        "word": "陈丽君 现代女演员里少见的英姿勃发",
+        "onboard_time": 1771517000,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 74888,
+        "num": 74888,
+        "word": "镖人票房逆跌",
+        "onboard_time": 1771503921,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 72075,
+        "num": 72075,
+        "word": "特朗普称对台军售要跟中国商量",
+        "onboard_time": 1771516521,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 68341,
+        "num": 68341,
+        "word": "大年初四",
+        "onboard_time": 1771520597,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 67169,
+        "num": 67169,
+        "word": "杨幂开车都能出神图",
+        "onboard_time": 1771504760,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 65978,
+        "num": 65978,
+        "word": "伊朗",
+        "onboard_time": 1771494740,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 64340,
+        "num": 64340,
+        "word": "网剧双轨",
+        "onboard_time": 1771500439,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63703,
+        "num": 63703,
+        "word": "形象的演示了什么叫命里有财",
+        "onboard_time": 1771513880,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 62137,
+        "num": 62137,
+        "word": "苏翊鸣采访时徐梦桃打来电话",
+        "onboard_time": 1771514841,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 59450,
+        "num": 59450,
+        "word": "妈妈让上交2万压岁钱孩子不干了",
+        "onboard_time": 1771512201,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57957,
+        "num": 57957,
+        "word": "高层看烟花有多吓人",
+        "onboard_time": 1771491560,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 56797,
+        "num": 56797,
+        "word": "将门独后官宣节奏",
+        "onboard_time": 1771506020,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 56241,
+        "num": 56241,
+        "word": "宁忠岩泪洒赛场",
+        "onboard_time": 1771521797,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 54206,
+        "num": 54206,
+        "word": "宁忠岩刘瀚彬出战1500米",
+        "onboard_time": 1771516279,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 53416,
+        "num": 53416,
+        "word": "觉得自己闯祸的可以看看美国四人雪车",
+        "onboard_time": 1771506502,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 53097,
+        "num": 53097,
+        "word": "中国队第三金来了",
+        "onboard_time": 1771521379,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 52654,
+        "num": 52654,
+        "word": "范丞丞主演电影票房破70亿",
+        "onboard_time": 1771515561,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 50236,
+        "num": 50236,
+        "word": "中国冰壶女队6比9日本队",
+        "onboard_time": 1771520060,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 49585,
+        "num": 49585,
+        "word": "宁忠岩1分41秒98",
+        "onboard_time": 1771521797,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 49564,
+        "num": 49564,
+        "word": "王菲为什么选中你我经历的一刻",
+        "onboard_time": 1771511720,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48298,
+        "num": 48298,
+        "word": "生命树",
+        "onboard_time": 1771505241,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46231,
+        "num": 46231,
+        "word": "白鹿韩国",
+        "onboard_time": 1771473980,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46058,
+        "num": 46058,
+        "word": "属相不是从立春开始算",
+        "onboard_time": 1771509921,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43825,
+        "num": 43825,
+        "word": "文内马斯打破1500米奥运纪录",
+        "onboard_time": 1771520659,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 42957,
+        "num": 42957,
+        "word": "王橹杰抽抽乐",
+        "onboard_time": 1771508121,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42378,
+        "num": 42378,
+        "word": "谷爱凌凌晨亮相U型场地技巧",
+        "onboard_time": 1771518019,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 44425,
+        "num": 42368,
+        "word": "白鹿代露娃二搭疯批对疯批",
+        "onboard_time": 1771503140,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#骏马追风扬气魄#"
+    }
+  }
+}
