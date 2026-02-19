@@ -1,6 +1,6 @@
 {
   "startTime": 1771430429513,
-  "endTime": 1771477881890,
+  "endTime": 1771481335111,
   "band_list": [
     {
       "raw_hot": 1323093,
@@ -65,6 +65,14 @@
       "onboard_time": 1771471580,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 632294,
+      "num": 607134,
+      "word": "我承认之前对吴京太大声了",
+      "onboard_time": 1771477398,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 613014,
@@ -147,6 +155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 420654,
+      "num": 1067304,
+      "word": "飞驰人生3同期票房超哪吒2",
+      "onboard_time": 1771473980,
+      "rank": 4,
+      "category": "电影"
+    },
+    {
       "raw_hot": 414898,
       "num": 414898,
       "word": "今年调休变少了",
@@ -156,7 +172,7 @@
     },
     {
       "raw_hot": 394985,
-      "num": 155407,
+      "num": 177089,
       "word": "白鹿曾舜晞陈鹤一梁永棋韩国旅游",
       "onboard_time": 1771475899,
       "rank": 16,
@@ -179,14 +195,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 366325,
-      "num": 766172,
-      "word": "飞驰人生3同期票房超哪吒2",
-      "onboard_time": 1771473980,
-      "rank": 4,
-      "category": "电影"
-    },
-    {
       "raw_hot": 364916,
       "num": 776818,
       "word": "林孝埈已为中国短道燃尽所有",
@@ -201,6 +209,14 @@
       "onboard_time": 1771475781,
       "rank": 12,
       "category": "网红"
+    },
+    {
+      "raw_hot": 355240,
+      "num": 209536,
+      "word": "宜城烟花爆燃事故12名遇难者身份核实",
+      "onboard_time": 1771476079,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 321691,
@@ -220,7 +236,7 @@
     },
     {
       "raw_hot": 307480,
-      "num": 117561,
+      "num": 121225,
       "word": "女婿连续2年告状今年坐在丈人腿上",
       "onboard_time": 1771469360,
       "rank": 20,
@@ -233,6 +249,14 @@
       "onboard_time": 1771467860,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 291723,
+      "num": 769343,
+      "word": "苏翊鸣说储备了没有人实现过的动作",
+      "onboard_time": 1771475359,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 280522,
@@ -273,6 +297,14 @@
       "onboard_time": 1771467381,
       "rank": 15,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 257324,
+      "num": 208531,
+      "word": "陈丽君是怎么面试上镖人的",
+      "onboard_time": 1771478780,
+      "rank": 12,
+      "category": "电影"
     },
     {
       "raw_hot": 253253,
@@ -339,6 +371,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 207568,
+      "num": 207568,
+      "word": "徐梦桃回复黄奕了",
+      "onboard_time": 1771476320,
+      "rank": 24,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 203599,
       "num": 203599,
       "word": "8岁小姨给晚辈发红包",
@@ -361,6 +401,14 @@
       "onboard_time": 1771465459,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 195817,
+      "num": 211817,
+      "word": "妻子回应丈夫初二坐丈人腿上告状",
+      "onboard_time": 1771477460,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 195424,
@@ -419,14 +467,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 175278,
-      "num": 156161,
-      "word": "宜城烟花爆燃事故12名遇难者身份核实",
-      "onboard_time": 1771476079,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 174644,
       "num": 116403,
       "word": "马嘉祺珠海",
@@ -451,14 +491,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 170332,
-      "num": 153607,
-      "word": "徐梦桃回复黄奕了",
-      "onboard_time": 1771476320,
-      "rank": 24,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 162273,
       "num": 162273,
       "word": "众星祝贺苏翊鸣",
@@ -481,6 +513,14 @@
       "onboard_time": 1771469299,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 151705,
+      "num": 151705,
+      "word": "香港尖沙咀市民排队看英歌舞",
+      "onboard_time": 1771477821,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 147514,
@@ -521,6 +561,14 @@
       "onboard_time": 1771462038,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 140831,
+      "num": 105709,
+      "word": "印一大学展出泡沫无人机被赶出峰会",
+      "onboard_time": 1771480100,
+      "rank": 23,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 139320,
@@ -579,8 +627,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 123187,
+      "num": 123187,
+      "word": "飞驰人生3林臻东到底多有钱",
+      "onboard_time": 1771479979,
+      "rank": 20,
+      "category": "电影"
+    },
+    {
       "raw_hot": 121343,
-      "num": 121343,
+      "num": 135217,
       "word": "爸妈来后冰箱都变老了",
       "onboard_time": 1771473500,
       "rank": 25,
@@ -737,14 +793,6 @@
       "onboard_time": 1771396640,
       "rank": 28,
       "category": "电影"
-    },
-    {
-      "raw_hot": 97023,
-      "num": 97023,
-      "word": "苏翊鸣说储备了没有人实现过的动作",
-      "onboard_time": 1771475359,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 96240,
@@ -923,12 +971,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 81818,
-      "num": 81818,
-      "word": "我承认之前对吴京太大声了",
-      "onboard_time": 1771477398,
-      "rank": 36,
-      "category": "电影"
+      "raw_hot": 82855,
+      "num": 82855,
+      "word": "爷爷回消息方式太直接了",
+      "onboard_time": 1771477159,
+      "rank": 41,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 80419,
@@ -955,6 +1003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 77986,
+      "num": 77986,
+      "word": "谷爱凌说本可以选择退役但我没有",
+      "onboard_time": 1771480100,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 76081,
       "num": 76081,
       "word": "有一种过年叫莆田",
@@ -971,28 +1027,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 75246,
+      "num": 75246,
+      "word": "飞驰人生3争气争气再争气",
+      "onboard_time": 1771479618,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 74974,
       "num": 74974,
       "word": "徐梦桃母校发喜报",
       "onboard_time": 1771468399,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 74156,
-      "num": 78512,
-      "word": "爷爷回消息方式太直接了",
-      "onboard_time": 1771477159,
-      "rank": 41,
-      "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 73151,
-      "num": 73151,
-      "word": "妻子回应丈夫初二坐丈人腿上告状",
-      "onboard_time": 1771477460,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 72292,
@@ -1035,6 +1083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 69789,
+      "num": 69789,
+      "word": "高端化妆品又好卖了",
+      "onboard_time": 1771478060,
+      "rank": 40,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 68669,
       "num": 68669,
       "word": "镖人吴京陈丽君太能打了",
@@ -1057,6 +1113,22 @@
       "onboard_time": 1771473259,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 67387,
+      "num": 67387,
+      "word": "男朋友第一次去老丈人家",
+      "onboard_time": 1771480639,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 67367,
+      "num": 67367,
+      "word": "当闺蜜和你嫁到同一家",
+      "onboard_time": 1771478899,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 67279,
@@ -1097,6 +1169,14 @@
       "onboard_time": 1771420342,
       "rank": 49,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 65557,
+      "num": 65557,
+      "word": "谷爱凌出战U池",
+      "onboard_time": 1771479799,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 65325,
@@ -1145,6 +1225,14 @@
       "onboard_time": 1771472059,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 62862,
+      "num": 62862,
+      "word": "米兰冬奥会赛场闯入一只小狗",
+      "onboard_time": 1771480100,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 62541,
@@ -1259,6 +1347,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 54929,
+      "num": 105822,
+      "word": "以旅行见世界",
+      "onboard_time": 1771481120,
+      "rank": 22,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 53755,
       "num": 53755,
       "word": "刘少昂一直带着哥哥的梦想去比赛",
@@ -1313,6 +1409,22 @@
       "onboard_time": 1771445294,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 49022,
+      "num": 70071,
+      "word": "杨幂听到刘耀文说他老了的反应",
+      "onboard_time": 1771480939,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 47517,
+      "num": 62857,
+      "word": "北京台春晚把春天搬上了舞台",
+      "onboard_time": 1771479259,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 46344,
@@ -1371,6 +1483,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 36075,
+      "num": 78875,
+      "word": "美军向中东大幅增兵",
+      "onboard_time": 1771480039,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 35793,
+      "num": 84330,
+      "word": "伊朗备战",
+      "onboard_time": 1771481239,
+      "rank": 29,
+      "category": "军事"
+    },
+    {
       "raw_hot": 33462,
       "num": 596192,
       "word": "从小逛到大的庙会",
@@ -1409,6 +1537,14 @@
       "onboard_time": 1771443494,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 24828,
+      "num": 69815,
+      "word": "美军或对伊朗展开踹门行动",
+      "onboard_time": 1771480158,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 24171,
@@ -1499,20 +1635,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 11898,
+      "num": 609603,
+      "word": "春节档佳片云集总有一款适合你",
+      "onboard_time": 1771471999,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 10123,
       "num": 61977,
       "word": "喜剧就要和家人一起看",
       "onboard_time": 1771470260,
       "rank": 38,
       "category": "电影"
-    },
-    {
-      "raw_hot": 5414,
-      "num": 80888,
-      "word": "香港尖沙咀市民排队看英歌舞",
-      "onboard_time": 1771477821,
-      "rank": 39,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
