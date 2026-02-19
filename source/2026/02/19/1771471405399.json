@@ -1,0 +1,410 @@
+{
+  "runTime": 1771471405399,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 553794,
+        "num": 1088607,
+        "word": "韩媒赛前嘲讽中国队0金被打脸",
+        "onboard_time": 1771465759,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 436484,
+        "num": 779261,
+        "word": "尹锡悦今天或被判死刑",
+        "onboard_time": 1771464559,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 7114,
+        "num": 632350,
+        "word": "00后新兵有啥心愿",
+        "onboard_time": 1771419202,
+        "rank": 2,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 414898,
+        "num": 414898,
+        "word": "今年调休变少了",
+        "onboard_time": 1771465341,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 280522,
+        "num": 309774,
+        "word": "桃黑黑 大白菜",
+        "onboard_time": 1771465520,
+        "rank": 4,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 622678,
+        "num": 297314,
+        "word": "初三一定记得睡懒觉",
+        "onboard_time": 1771419442,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 282587,
+        "num": 282587,
+        "word": "过年剩下的红包不要扔",
+        "onboard_time": 1771463658,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 278259,
+        "num": 278259,
+        "word": "苏翊鸣甜蜜回复朱易",
+        "onboard_time": 1771433119,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 252088,
+        "num": 252088,
+        "word": "苏翊鸣中日美关系最好的一集",
+        "onboard_time": 1771461559,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207909,
+        "num": 207909,
+        "word": "林孝埈已为中国短道燃尽所有",
+        "onboard_time": 1771469838,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 296373,
+        "num": 200020,
+        "word": "热水器出现明火女子被吓懵",
+        "onboard_time": 1771467860,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 270261,
+        "num": 194501,
+        "word": "每天这4个小时最好在睡眠中度过",
+        "onboard_time": 1771467381,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 181390,
+        "num": 181390,
+        "word": "镖人 对吴京黑转BLACKPINK",
+        "onboard_time": 1771426462,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 180644,
+        "num": 180644,
+        "word": "朱志鑫伦敦",
+        "onboard_time": 1771465459,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154842,
+        "num": 154842,
+        "word": "谷爱凌U池技巧预赛首位出场",
+        "onboard_time": 1771469299,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154726,
+        "num": 154726,
+        "word": "宜城烟花爆燃事故应急处置情况通报",
+        "onboard_time": 1771471099,
+        "rank": 15,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 131220,
+        "num": 131220,
+        "word": "8岁小姨给晚辈发红包",
+        "onboard_time": 1771460838,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127286,
+        "num": 127286,
+        "word": "镖人票房趋势",
+        "onboard_time": 1771462038,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 123842,
+        "num": 123842,
+        "word": "浪姐首位冬奥会卫冕冠军",
+        "onboard_time": 1771435456,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110375,
+        "num": 118350,
+        "word": "张艺谋谈如何在垃圾桶捡手机",
+        "onboard_time": 1771470439,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 307480,
+        "num": 117561,
+        "word": "女婿连续2年告状今年坐在丈人腿上",
+        "onboard_time": 1771469360,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 251971,
+        "num": 117446,
+        "word": "酷滕 双取",
+        "onboard_time": 1771428562,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 116690,
+        "num": 116690,
+        "word": "大年初三睡睡睡",
+        "onboard_time": 1771462038,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113000,
+        "num": 113000,
+        "word": "半藏森林转型",
+        "onboard_time": 1771456637,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 105441,
+        "num": 105441,
+        "word": "苏翊鸣将备战下一届冬奥",
+        "onboard_time": 1771465639,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102496,
+        "num": 102496,
+        "word": "复旦大学教授讲自己儿子是学渣怎么办",
+        "onboard_time": 1771456876,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 99141,
+        "num": 99141,
+        "word": "朱一龙回应家里刘诗诗外面杨幂",
+        "onboard_time": 1771458020,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 87822,
+        "num": 87822,
+        "word": "刘少昂只要国家需要我一直都在",
+        "onboard_time": 1771463540,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86501,
+        "num": 86501,
+        "word": "拍了三个月得闲谨制妈妈却没认出自己",
+        "onboard_time": 1771470859,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 23542,
+        "num": 79366,
+        "word": "冬季干敏皮护肤搭子",
+        "onboard_time": 1771468639,
+        "rank": 29,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 74454,
+        "num": 74454,
+        "word": "今年的假放了但没完全放",
+        "onboard_time": 1771458378,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71867,
+        "num": 71867,
+        "word": "刘少昂摔了",
+        "onboard_time": 1771444693,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71378,
+        "num": 71378,
+        "word": "2儿子熬到凌晨给跑单父亲磕头拜年",
+        "onboard_time": 1771463239,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70710,
+        "num": 70710,
+        "word": "徐梦桃母校发喜报",
+        "onboard_time": 1771468399,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 70506,
+        "num": 70506,
+        "word": "林孝埈 遗憾",
+        "onboard_time": 1771443494,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 70144,
+        "num": 70144,
+        "word": "武大靖谈男子短道速滑500米失利",
+        "onboard_time": 1771466119,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 68237,
+        "num": 68237,
+        "word": "林孝埈无缘500米半决赛",
+        "onboard_time": 1771443135,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 63417,
+        "num": 63417,
+        "word": "太奶奶实在是上边没人了",
+        "onboard_time": 1771431680,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 10123,
+        "num": 61977,
+        "word": "喜剧就要和家人一起看",
+        "onboard_time": 1771470260,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 60931,
+        "num": 60931,
+        "word": "林孝埈竞技状态令人遗憾",
+        "onboard_time": 1771470680,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 60315,
+        "num": 60315,
+        "word": "镖人吴京陈丽君太能打了",
+        "onboard_time": 1771464681,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 60074,
+        "num": 60074,
+        "word": "苏翊鸣夺金动作组合只练了2遍",
+        "onboard_time": 1771471039,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 58765,
+        "num": 58765,
+        "word": "清华大学祝贺苏翊鸣夺首金",
+        "onboard_time": 1771471220,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 58338,
+        "num": 58338,
+        "word": "王一博春晚高清大图",
+        "onboard_time": 1771470740,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 57422,
+        "num": 57422,
+        "word": "大侦探",
+        "onboard_time": 1771471099,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 57041,
+        "num": 57041,
+        "word": "上海网红蛋糕店被拍到发霉草莓",
+        "onboard_time": 1771460838,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56578,
+        "num": 56578,
+        "word": "沈腾沙溢两大军艺校草同框",
+        "onboard_time": 1771469838,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 56317,
+        "num": 56317,
+        "word": "徐梦桃想当冬奥会六届元老",
+        "onboard_time": 1771464141,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 55415,
+        "num": 55415,
+        "word": "刘宇宁展示最满意的身体部位",
+        "onboard_time": 1771457717,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54686,
+        "num": 54686,
+        "word": "惊蛰无声致敬隐姓埋名的他们",
+        "onboard_time": 1771471159,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记最深切的牵挂#"
+    }
+  }
+}
