@@ -1,6 +1,6 @@
 {
   "startTime": 1771517580857,
-  "endTime": 1771544319775,
+  "endTime": 1771545291141,
   "band_list": [
     {
       "raw_hot": 3454416,
@@ -59,20 +59,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 436241,
+      "num": 123132,
+      "word": "男子放炮摘除眼球称无法面对5个月女儿",
+      "onboard_time": 1771543517,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 405476,
       "num": 796234,
       "word": "Deepseek神回复",
       "onboard_time": 1771509800,
       "rank": 1,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 340000,
-      "num": 104320,
-      "word": "男子放炮摘除眼球称无法面对5个月女儿",
-      "onboard_time": 1771543517,
-      "rank": 10,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 310633,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 286847,
-      "num": 744480,
+      "num": 808787,
       "word": "美军力量被曝正快速集结",
       "onboard_time": 1771516820,
       "rank": 9,
@@ -105,6 +105,14 @@
       "onboard_time": 1771521917,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 267078,
+      "num": 65021,
+      "word": "美24岁女子假扮15岁少女诱捕警察",
+      "onboard_time": 1771543576,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 258356,
@@ -163,6 +171,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 200382,
+      "num": 200382,
+      "word": "吴京票房成绩位列第二",
+      "onboard_time": 1771543697,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 198659,
       "num": 198659,
       "word": "浙江一地即日起禁售烟花爆竹",
@@ -187,7 +203,15 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 189936,
+      "raw_hot": 193109,
+      "num": 193109,
+      "word": "刘美贤夺冠",
+      "onboard_time": 1771544237,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 192711,
       "num": 148153,
       "word": "谭凯回应没戏拍回青岛开饺子店",
       "onboard_time": 1771516161,
@@ -209,14 +233,6 @@
       "onboard_time": 1771529834,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 181883,
-      "num": 52358,
-      "word": "美24岁女子假扮15岁少女诱捕警察",
-      "onboard_time": 1771543576,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 171025,
@@ -267,6 +283,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 156600,
+      "num": 156600,
+      "word": "属相不是从立春开始算",
+      "onboard_time": 1771509921,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 152949,
       "num": 152949,
       "word": "宁忠岩飞起来了",
@@ -291,12 +315,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 139223,
-      "num": 139223,
-      "word": "属相不是从立春开始算",
-      "onboard_time": 1771509921,
-      "rank": 17,
-      "category": "民生新闻"
+      "raw_hot": 129288,
+      "num": 77988,
+      "word": "张子墨",
+      "onboard_time": 1771542496,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 123854,
+      "num": 63914,
+      "word": "苏翊鸣曾入围香港金像奖最佳新人",
+      "onboard_time": 1771543936,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 121921,
@@ -307,14 +339,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 120181,
-      "num": 72381,
-      "word": "张子墨",
-      "onboard_time": 1771542496,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 110068,
       "num": 110068,
       "word": "宁忠岩说滑疯了",
@@ -323,12 +347,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 107049,
-      "num": 107049,
-      "word": "吴京票房成绩位列第二",
-      "onboard_time": 1771543697,
-      "rank": 9,
-      "category": "电影"
+      "raw_hot": 105810,
+      "num": 63336,
+      "word": "日本胆敢介入台湾中方必将迎头痛击",
+      "onboard_time": 1771544298,
+      "rank": 36,
+      "category": "国内时政"
     },
     {
       "raw_hot": 105649,
@@ -345,6 +369,14 @@
       "onboard_time": 1771513880,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 100242,
+      "num": 100242,
+      "word": "觉得自己闯祸的可以看看美国四人雪车",
+      "onboard_time": 1771506502,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 96235,
@@ -393,14 +425,6 @@
       "onboard_time": 1771520597,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 89810,
-      "num": 89810,
-      "word": "觉得自己闯祸的可以看看美国四人雪车",
-      "onboard_time": 1771506502,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 89375,
@@ -483,6 +507,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 78043,
+      "num": 62761,
+      "word": "拜年拜到园长家3岁萌娃崩溃大哭",
+      "onboard_time": 1771542736,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 77329,
       "num": 77329,
       "word": "冬奥花样滑冰女单自由滑",
@@ -523,6 +555,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 71383,
+      "num": 71383,
+      "word": "王楚钦剪了刘海",
+      "onboard_time": 1771544058,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 69242,
       "num": 69242,
       "word": "王一博表演现场版震感好爽",
@@ -539,20 +579,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 66667,
-      "num": 52327,
-      "word": "苏翊鸣曾入围香港金像奖最佳新人",
-      "onboard_time": 1771543936,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 65893,
       "num": 43841,
       "word": "大量美军海空力量在中东地区集结",
       "onboard_time": 1771519759,
       "rank": 30,
       "category": "军事"
+    },
+    {
+      "raw_hot": 65103,
+      "num": 65103,
+      "word": "美一高校兄弟会诡异入会仪式曝光",
+      "onboard_time": 1771505899,
+      "rank": 41,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 64591,
@@ -587,22 +627,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 61551,
-      "num": 52279,
-      "word": "拜年拜到园长家3岁萌娃崩溃大哭",
-      "onboard_time": 1771542736,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 59577,
-      "num": 59577,
-      "word": "美一高校兄弟会诡异入会仪式曝光",
-      "onboard_time": 1771505899,
-      "rank": 41,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 58772,
       "num": 58772,
       "word": "我们的少年时代2",
@@ -617,6 +641,14 @@
       "onboard_time": 1771515501,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 58323,
+      "num": 118725,
+      "word": "一觉醒来中国队再夺一金",
+      "onboard_time": 1771541776,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 57841,
@@ -643,14 +675,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 52494,
-      "num": 52494,
-      "word": "王楚钦剪了刘海",
-      "onboard_time": 1771544058,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 51773,
       "num": 51773,
       "word": "电影镖人口碑",
@@ -659,12 +683,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 50479,
+      "num": 50479,
+      "word": "没有杨紫这条线就没有生命树",
+      "onboard_time": 1771524675,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 50236,
       "num": 50236,
       "word": "中国冰壶女队6比9日本队",
       "onboard_time": 1771520060,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 50157,
+      "num": 50157,
+      "word": "TOP登陆少年官方后援会道歉",
+      "onboard_time": 1771544898,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 49585,
@@ -681,14 +721,6 @@
       "onboard_time": 1771543936,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 48008,
-      "num": 48008,
-      "word": "日本胆敢介入台湾中方必将迎头痛击",
-      "onboard_time": 1771544298,
-      "rank": 36,
-      "category": "国内时政"
     },
     {
       "raw_hot": 47908,
@@ -731,22 +763,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 40339,
-      "num": 118725,
-      "word": "一觉醒来中国队再夺一金",
-      "onboard_time": 1771541776,
-      "rank": 4,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 38331,
-      "num": 38331,
-      "word": "刘美贤夺冠",
-      "onboard_time": 1771544237,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 38078,
       "num": 38078,
       "word": "宁忠岩创造历史",
@@ -761,14 +777,6 @@
       "onboard_time": 1771523415,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 36814,
-      "num": 36814,
-      "word": "没有杨紫这条线就没有生命树",
-      "onboard_time": 1771524675,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 34744,
