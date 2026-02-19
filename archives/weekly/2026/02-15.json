@@ -1,6 +1,6 @@
 {
   "startTime": 1771087248939,
-  "endTime": 1771471405399,
+  "endTime": 1771477263870,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -657,6 +657,14 @@
       "onboard_time": 1771231466,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1140675,
+      "num": 212370,
+      "word": "白鹿韩国",
+      "onboard_time": 1771473980,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1132809,
@@ -1363,6 +1371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 654849,
+      "num": 85080,
+      "word": "宜城烟花爆竹爆燃5名未成年人遇难",
+      "onboard_time": 1771471580,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 654427,
       "num": 781249,
       "word": "辽宁卫视春晚",
@@ -1587,6 +1603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 570361,
+      "num": 348089,
+      "word": "春晚为什么不给我看这个",
+      "onboard_time": 1771474099,
+      "rank": 5,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 569551,
       "num": 620331,
       "word": "丞磊真的读了与妻书",
@@ -1787,6 +1811,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 515546,
+      "num": 515546,
+      "word": "蔡徐坤Chinese New Year",
+      "onboard_time": 1771474400,
+      "rank": 3,
+      "category": "演出"
+    },
+    {
       "raw_hot": 514822,
       "num": 514822,
       "word": "卢昱晓发红包",
@@ -1937,6 +1969,14 @@
       "onboard_time": 1771299622,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 463969,
+      "num": 1074235,
+      "word": "谷爱凌这串笑声嘲讽拉满",
+      "onboard_time": 1771471940,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 462914,
@@ -2523,6 +2563,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 364916,
+      "num": 776818,
+      "word": "林孝埈已为中国短道燃尽所有",
+      "onboard_time": 1771469838,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 362791,
       "num": 200971,
       "word": "朱志鑫红包 抢不到",
@@ -2553,6 +2601,14 @@
       "onboard_time": 1771405461,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 361998,
+      "num": 149410,
+      "word": "白鹿曾舜晞陈鹤一梁永棋韩国旅游",
+      "onboard_time": 1771475899,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 361027,
@@ -2625,6 +2681,14 @@
       "onboard_time": 1771210520,
       "rank": 5,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 348204,
+      "num": 348204,
+      "word": "飞驰人生3同期票房超哪吒2",
+      "onboard_time": 1771473980,
+      "rank": 4,
+      "category": "电影"
     },
     {
       "raw_hot": 348019,
@@ -3299,6 +3363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 281858,
+      "num": 209953,
+      "word": "时薪150和时薪800主播的区别",
+      "onboard_time": 1771475781,
+      "rank": 12,
+      "category": "网红"
+    },
+    {
       "raw_hot": 281660,
       "num": 236476,
       "word": "马年清清来送签名红包",
@@ -3787,6 +3859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 245290,
+      "num": 216805,
+      "word": "宜城烟花爆燃事故应急处置情况通报",
+      "onboard_time": 1771471099,
+      "rank": 15,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 245228,
       "num": 245228,
       "word": "白鹿收到了沙溢的红包",
@@ -4147,6 +4227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 222935,
+      "num": 222935,
+      "word": "拍了三个月得闲谨制妈妈却没认出自己",
+      "onboard_time": 1771470859,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 222840,
       "num": 222840,
       "word": "成何体统",
@@ -4193,6 +4281,14 @@
       "onboard_time": 1771231223,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 219154,
+      "num": 219154,
+      "word": "刘晓庆 短剧还能有脱口秀掉价吗",
+      "onboard_time": 1771475539,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 219043,
@@ -4273,6 +4369,14 @@
       "onboard_time": 1771198338,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 216197,
+      "num": 118732,
+      "word": "饿是血糖最诚实的闹钟",
+      "onboard_time": 1771473620,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 214829,
@@ -4387,20 +4491,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 209886,
+      "num": 117771,
+      "word": "马丽救场马丽",
+      "onboard_time": 1771474820,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 208812,
       "num": 192993,
       "word": "飞驰人生3口碑两极分化",
       "onboard_time": 1771310780,
       "rank": 32,
       "category": "电影"
-    },
-    {
-      "raw_hot": 207909,
-      "num": 207909,
-      "word": "林孝埈已为中国短道燃尽所有",
-      "onboard_time": 1771469838,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 207629,
@@ -4553,6 +4657,14 @@
       "onboard_time": 1771081044,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 201058,
+      "num": 201058,
+      "word": "一下子分不清是谁在过年了",
+      "onboard_time": 1771471698,
+      "rank": 13,
+      "category": "情感"
     },
     {
       "raw_hot": 200936,
@@ -4923,6 +5035,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 177953,
+      "num": 177953,
+      "word": "曝侯明昊美妆营业额一小时600万",
+      "onboard_time": 1771471878,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 177830,
       "num": 233166,
       "word": "比艺人还帅的韩国花滑天才",
@@ -5009,6 +5129,14 @@
       "onboard_time": 1771095796,
       "rank": 3,
       "category": "民生新闻,体育"
+    },
+    {
+      "raw_hot": 174644,
+      "num": 116403,
+      "word": "马嘉祺珠海",
+      "onboard_time": 1771472358,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 174544,
@@ -5209,6 +5337,14 @@
       "onboard_time": 1771263262,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 166101,
+      "num": 114274,
+      "word": "徐梦桃回复黄奕了",
+      "onboard_time": 1771476320,
+      "rank": 24,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 164901,
@@ -5473,14 +5609,6 @@
       "onboard_time": 1771398799,
       "rank": 24,
       "category": "电影"
-    },
-    {
-      "raw_hot": 154726,
-      "num": 154726,
-      "word": "宜城烟花爆燃事故应急处置情况通报",
-      "onboard_time": 1771471099,
-      "rank": 15,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 153470,
@@ -6755,6 +6883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 113364,
+      "num": 113364,
+      "word": "大侦探",
+      "onboard_time": 1771471099,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 113296,
       "num": 97651,
       "word": "王楚然美到成何体统",
@@ -7027,6 +7163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 107110,
+      "num": 107110,
+      "word": "宜城烟花爆燃事故12名遇难者身份核实",
+      "onboard_time": 1771476079,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107100,
       "num": 107100,
       "word": "飞驰人生3 没彩蛋",
@@ -7089,6 +7233,14 @@
       "onboard_time": 1771419681,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 105675,
+      "num": 105675,
+      "word": "王鸥长得最好看的先搜",
+      "onboard_time": 1771476379,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 105537,
@@ -7289,6 +7441,14 @@
       "onboard_time": 1771219043,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 101977,
+      "num": 101977,
+      "word": "从第二十条到第一百一十条",
+      "onboard_time": 1771476320,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 101697,
@@ -7523,6 +7683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 97023,
+      "num": 97023,
+      "word": "苏翊鸣说储备了没有人实现过的动作",
+      "onboard_time": 1771475359,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 96956,
       "num": 219864,
       "word": "iPhone18ProMax或无重大更新",
@@ -7689,6 +7857,14 @@
       "onboard_time": 1771429461,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 92473,
+      "num": 92473,
+      "word": "谁家熊猫过年不洗澡",
+      "onboard_time": 1771474760,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 92328,
@@ -7891,6 +8067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 88551,
+      "num": 88551,
+      "word": "6岁女孩拜年5岁小叔妈妈发声",
+      "onboard_time": 1771475781,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 88546,
       "num": 98905,
       "word": "特斯拉宣布首辆Cybercab下线",
@@ -8019,14 +8203,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 86501,
-      "num": 86501,
-      "word": "拍了三个月得闲谨制妈妈却没认出自己",
-      "onboard_time": 1771470859,
-      "rank": 28,
-      "category": "电影"
-    },
-    {
       "raw_hot": 86117,
       "num": 86117,
       "word": "徐明浩直播",
@@ -8123,6 +8299,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 84170,
+      "num": 84170,
+      "word": "iPhone17e或将今日发布",
+      "onboard_time": 1771471698,
+      "rank": 36,
+      "category": "数码"
+    },
+    {
       "raw_hot": 83824,
       "num": 83824,
       "word": "各国选手冬奥村沉浸式体验中国年",
@@ -8137,6 +8321,14 @@
       "onboard_time": 1771390221,
       "rank": 33,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 83648,
+      "num": 83648,
+      "word": "王濛说场上韩国队是周洋手下败将",
+      "onboard_time": 1771474580,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 83587,
@@ -8369,6 +8561,14 @@
       "onboard_time": 1771148180,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 80419,
+      "num": 80419,
+      "word": "第一次看清楚眼妆怎么画",
+      "onboard_time": 1771473259,
+      "rank": 38,
+      "category": "美妆"
     },
     {
       "raw_hot": 80335,
@@ -8899,6 +9099,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 73341,
+      "num": 73341,
+      "word": "机关食堂开放20元18道菜随便吃",
+      "onboard_time": 1771473859,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 73227,
       "num": 419011,
       "word": "中国冰壶男队除夕夜收获首胜",
@@ -9019,12 +9227,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 71722,
+      "num": 71722,
+      "word": "狗狗是世界上最容易哄好的",
+      "onboard_time": 1771476799,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 71720,
       "num": 71720,
       "word": "南方过年vs北方过年",
       "onboard_time": 1771387459,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 71695,
+      "num": 71695,
+      "word": "爷爷回消息方式太直接了",
+      "onboard_time": 1771477159,
+      "rank": 41,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 71466,
@@ -9081,6 +9305,14 @@
       "onboard_time": 1771072401,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 70826,
+      "num": 70826,
+      "word": "谷爱凌U型场地技巧预赛",
+      "onboard_time": 1771475480,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 70754,
@@ -9291,6 +9523,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 69043,
+      "num": 69043,
+      "word": "国产剧终于不演换乘恋爱了",
+      "onboard_time": 1771477039,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 68983,
       "num": 68983,
       "word": "谷爱凌大跳台决赛与U池首训时间重合",
@@ -9379,6 +9619,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 68204,
+      "num": 68204,
+      "word": "苏翊鸣徐梦桃相约拍金牌合照",
+      "onboard_time": 1771473259,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 67971,
       "num": 67971,
       "word": "她真的很懂中国学生的内驱力",
@@ -9451,6 +9699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 67103,
+      "num": 67103,
+      "word": "中国奇谭2里的动人瞬间",
+      "onboard_time": 1771476920,
+      "rank": 45,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 67081,
       "num": 132120,
       "word": "再上门喂两次猫咪都成肌肉猫了",
@@ -9481,6 +9737,14 @@
       "onboard_time": 1771457717,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 66706,
+      "num": 66706,
+      "word": "原来这才是人生真正的优先级",
+      "onboard_time": 1771474638,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 66692,
@@ -9552,6 +9816,14 @@
       "word": "郭艾伦林书豪比拼三分球",
       "onboard_time": 1771144279,
       "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 65325,
+      "num": 65325,
+      "word": "王濛的尺这回量到米兰了",
+      "onboard_time": 1771473799,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -9689,6 +9961,14 @@
       "onboard_time": 1771206739,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 63619,
+      "num": 63619,
+      "word": "感觉有1亿人在汕头看烟花",
+      "onboard_time": 1771472059,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 63611,
@@ -10105,14 +10385,6 @@
       "onboard_time": 1771423283,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 57422,
-      "num": 57422,
-      "word": "大侦探",
-      "onboard_time": 1771471099,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 57319,
@@ -11353,6 +11625,14 @@
       "onboard_time": 1771175718,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 33462,
+      "num": 596192,
+      "word": "从小逛到大的庙会",
+      "onboard_time": 1771472423,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 33403,
@@ -12802,6 +13082,9 @@
     },
     {
       "word": "#总书记最深切的牵挂#"
+    },
+    {
+      "word": "#总书记走进吉好有果家的故事#"
     }
   ]
 }
