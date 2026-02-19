@@ -1,6 +1,6 @@
 {
   "startTime": 1771517580857,
-  "endTime": 1771530372310,
+  "endTime": 1771531070487,
   "band_list": [
     {
       "raw_hot": 3454416,
@@ -273,6 +273,14 @@
       "onboard_time": 1771504760,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 120079,
+      "num": 120079,
+      "word": "谷爱凌第二滑86.50分",
+      "onboard_time": 1771529834,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 105649,
@@ -619,14 +627,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 40675,
-      "num": 40675,
-      "word": "谷爱凌第二滑86.50分",
-      "onboard_time": 1771529834,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 38078,
       "num": 38078,
       "word": "宁忠岩创造历史",
@@ -659,8 +659,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 27752,
-      "num": 27752,
+      "raw_hot": 28338,
+      "num": 28338,
       "word": "中国冰壶队米兰冬奥收官",
       "onboard_time": 1771528933,
       "rank": 24,
@@ -691,8 +691,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 22728,
-      "num": 22728,
+      "raw_hot": 22730,
+      "num": 22730,
       "word": "世界剧本接下来怎么写",
       "onboard_time": 1771528154,
       "rank": 40,
