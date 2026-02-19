@@ -1,6 +1,6 @@
 {
   "startTime": 1771430429513,
-  "endTime": 1771507344503,
+  "endTime": 1771508940863,
   "band_list": [
     {
       "raw_hot": 1540685,
@@ -51,6 +51,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 951429,
+      "num": 1152228,
+      "word": "将门独后官宣节奏",
+      "onboard_time": 1771506020,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 837082,
       "num": 138651,
       "word": "酷滕 双取",
@@ -65,14 +73,6 @@
       "onboard_time": 1771491560,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 712551,
-      "num": 1114008,
-      "word": "将门独后官宣节奏",
-      "onboard_time": 1771506020,
-      "rank": 0,
-      "category": "剧集"
     },
     {
       "raw_hot": 676858,
@@ -137,6 +137,14 @@
       "onboard_time": 1771424782,
       "rank": 3,
       "category": "体育,综艺"
+    },
+    {
+      "raw_hot": 593356,
+      "num": 190135,
+      "word": "5岁网红瑶一瑶小肉包晒俯卧撑挑战",
+      "onboard_time": 1771507041,
+      "rank": 35,
+      "category": "网红"
     },
     {
       "raw_hot": 588908,
@@ -323,6 +331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 390698,
+      "num": 838844,
+      "word": "苏翊鸣因北京冬奥会放弃当演员",
+      "onboard_time": 1771504160,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 390415,
       "num": 390415,
       "word": "中国队米兰冬奥首金",
@@ -387,6 +403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 329155,
+      "num": 187097,
+      "word": "酷滕 雷淞然",
+      "onboard_time": 1771507341,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 328819,
       "num": 133473,
       "word": "昀牵孟绕",
@@ -401,6 +425,14 @@
       "onboard_time": 1771443494,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 310505,
+      "num": 244033,
+      "word": "烟花爆竹该禁吗",
+      "onboard_time": 1771506140,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 308576,
@@ -419,14 +451,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 301175,
-      "num": 301175,
-      "word": "苏翊鸣因北京冬奥会放弃当演员",
-      "onboard_time": 1771504160,
-      "rank": 4,
-      "category": "体育"
-    },
-    {
       "raw_hot": 300543,
       "num": 248462,
       "word": "过年 二手烟",
@@ -435,7 +459,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 296807,
+      "raw_hot": 297217,
       "num": 256090,
       "word": "伊朗",
       "onboard_time": 1771494740,
@@ -465,6 +489,14 @@
       "onboard_time": 1771475359,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 283139,
+      "num": 248813,
+      "word": "人的心气是能重新养回来的",
+      "onboard_time": 1771507883,
+      "rank": 6,
+      "category": "情感"
     },
     {
       "raw_hot": 280593,
@@ -827,14 +859,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 186959,
-      "num": 244033,
-      "word": "烟花爆竹该禁吗",
-      "onboard_time": 1771506140,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 185306,
       "num": 185306,
       "word": "印一大学展出泡沫无人机被赶出峰会",
@@ -995,6 +1019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 152445,
+      "num": 152445,
+      "word": "大衣哥女儿回怼围观粉丝",
+      "onboard_time": 1771504221,
+      "rank": 27,
+      "category": "网红"
+    },
+    {
       "raw_hot": 149203,
       "num": 149203,
       "word": "飞驰人生",
@@ -1059,14 +1091,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 140365,
-      "num": 140365,
-      "word": "大衣哥女儿回怼围观粉丝",
-      "onboard_time": 1771504221,
-      "rank": 27,
-      "category": "网红"
-    },
-    {
       "raw_hot": 139320,
       "num": 139320,
       "word": "惠英红 姐别累着但也别闲着",
@@ -1099,12 +1123,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 134757,
+      "num": 134757,
+      "word": "王橹杰抽抽乐",
+      "onboard_time": 1771508121,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 129904,
+      "num": 129904,
+      "word": "觉得自己闯祸的可以看看美国四人雪车",
+      "onboard_time": 1771506502,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 128336,
       "num": 128336,
       "word": "飞驰人生3",
       "onboard_time": 1771423103,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 127738,
+      "num": 226127,
+      "word": "美两大人工智能巨头CEO拒绝牵手",
+      "onboard_time": 1771506201,
+      "rank": 19,
+      "category": "互联网"
     },
     {
       "raw_hot": 125744,
@@ -1163,6 +1211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121826,
+      "num": 135171,
+      "word": "美一高校兄弟会诡异入会仪式曝光",
+      "onboard_time": 1771505899,
+      "rank": 28,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 121343,
       "num": 135217,
       "word": "爸妈来后冰箱都变老了",
@@ -1185,14 +1241,6 @@
       "onboard_time": 1771500623,
       "rank": 29,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 117920,
-      "num": 117920,
-      "word": "觉得自己闯祸的可以看看美国四人雪车",
-      "onboard_time": 1771506502,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 117566,
@@ -1291,22 +1339,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 110751,
-      "num": 226127,
-      "word": "美两大人工智能巨头CEO拒绝牵手",
-      "onboard_time": 1771506201,
-      "rank": 19,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 110513,
-      "num": 100394,
-      "word": "5岁网红瑶一瑶小肉包晒俯卧撑挑战",
-      "onboard_time": 1771507041,
-      "rank": 35,
-      "category": "网红"
-    },
-    {
       "raw_hot": 110375,
       "num": 118350,
       "word": "张艺谋谈如何在垃圾桶捡手机",
@@ -1371,14 +1403,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 104445,
-      "num": 135171,
-      "word": "美一高校兄弟会诡异入会仪式曝光",
-      "onboard_time": 1771505899,
-      "rank": 28,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 103774,
       "num": 97745,
       "word": "镖人路演",
@@ -1412,7 +1436,7 @@
     },
     {
       "raw_hot": 101775,
-      "num": 132463,
+      "num": 182511,
       "word": "原来苏翊鸣谷爱凌从小就认识",
       "onboard_time": 1771503499,
       "rank": 29,
@@ -1436,11 +1460,19 @@
     },
     {
       "raw_hot": 100427,
-      "num": 100427,
+      "num": 131456,
       "word": "孙颖莎被球迷的新年祝福逗笑",
       "onboard_time": 1771506741,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 100006,
+      "num": 100006,
+      "word": "奔跑四热销",
+      "onboard_time": 1771506682,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 99455,
@@ -1539,12 +1571,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 93336,
-      "num": 91772,
-      "word": "奔跑四热销",
-      "onboard_time": 1771506682,
-      "rank": 39,
-      "category": "艺人"
+      "raw_hot": 93190,
+      "num": 104142,
+      "word": "29岁男子谈第一次在ICU过年",
+      "onboard_time": 1771508241,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 93086,
@@ -1867,6 +1899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 76422,
+      "num": 76422,
+      "word": "王鹤棣孟子义 将门独后",
+      "onboard_time": 1771508541,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 76081,
       "num": 76081,
       "word": "有一种过年叫莆田",
@@ -1937,6 +1977,14 @@
       "onboard_time": 1771494320,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 74002,
+      "num": 117828,
+      "word": "刘少昂说祖国需要我就一直在",
+      "onboard_time": 1771507642,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 73020,
@@ -2017,6 +2065,14 @@
       "onboard_time": 1771436117,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 70977,
+      "num": 68330,
+      "word": "安乾镐抽抽乐",
+      "onboard_time": 1771508902,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 70830,
@@ -2473,6 +2529,14 @@
       "onboard_time": 1771467139,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 55309,
+      "num": 90299,
+      "word": "湖南新化6名消防员因公牺牲",
+      "onboard_time": 1771508902,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 54929,
