@@ -1,6 +1,6 @@
 {
   "startTime": 1771087248939,
-  "endTime": 1771513031540,
+  "endTime": 1771514076986,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -2979,6 +2979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 345336,
+      "num": 417178,
+      "word": "Deepseek神回复",
+      "onboard_time": 1771509800,
+      "rank": 4,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 345166,
       "num": 345166,
       "word": "女生半年卖出800多只点翠大蟑螂",
@@ -3459,20 +3467,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 298791,
+      "num": 256090,
+      "word": "伊朗",
+      "onboard_time": 1771494740,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 298701,
       "num": 298701,
       "word": "江苏卫视春晚",
       "onboard_time": 1771328182,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 297217,
-      "num": 256090,
-      "word": "伊朗",
-      "onboard_time": 1771494740,
-      "rank": 41,
-      "category": "国际时政"
     },
     {
       "raw_hot": 296688,
@@ -3561,14 +3569,6 @@
       "onboard_time": 1771498759,
       "rank": 19,
       "category": "电影"
-    },
-    {
-      "raw_hot": 291790,
-      "num": 417178,
-      "word": "Deepseek神回复",
-      "onboard_time": 1771509800,
-      "rank": 4,
-      "category": "互联网"
     },
     {
       "raw_hot": 291723,
@@ -4177,6 +4177,14 @@
       "onboard_time": 1771425626,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 250907,
+      "num": 250907,
+      "word": "王菲为什么选中你我经历的一刻",
+      "onboard_time": 1771511720,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 250240,
@@ -5371,6 +5379,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 190563,
+      "num": 190563,
+      "word": "妈妈让上交2万压岁钱孩子不干了",
+      "onboard_time": 1771512201,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 189658,
       "num": 619875,
       "word": "升温后有东北人500斤年货无处安放",
@@ -5465,6 +5481,14 @@
       "onboard_time": 1771154060,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 185117,
+      "num": 185117,
+      "word": "穆祉丞 没人打扰的感觉太爽了",
+      "onboard_time": 1771512501,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 184652,
@@ -6107,19 +6131,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 157515,
-      "num": 145644,
-      "word": "王菲为什么选中你我经历的一刻",
-      "onboard_time": 1771511720,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 157048,
       "num": 157048,
       "word": "谷爱凌第2跳摔倒",
       "onboard_time": 1771097234,
       "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 156662,
+      "num": 156662,
+      "word": "苏翊鸣的第二枚奥运金牌",
+      "onboard_time": 1771513702,
+      "rank": 22,
       "category": "体育"
     },
     {
@@ -6361,6 +6385,14 @@
       "onboard_time": 1771401500,
       "rank": 15,
       "category": "海外新闻,数码"
+    },
+    {
+      "raw_hot": 148569,
+      "num": 116703,
+      "word": "形象的演示了什么叫命里有财",
+      "onboard_time": 1771513880,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 147861,
@@ -6675,12 +6707,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 137930,
-      "num": 137930,
-      "word": "妈妈让上交2万压岁钱孩子不干了",
-      "onboard_time": 1771512201,
-      "rank": 23,
-      "category": "民生新闻"
+      "raw_hot": 137901,
+      "num": 117241,
+      "word": "北京大学陈江教授讲AI",
+      "onboard_time": 1771511181,
+      "rank": 29,
+      "category": "教育,互联网"
     },
     {
       "raw_hot": 137749,
@@ -6688,6 +6720,14 @@
       "word": "女子楼道晾晒16斤咸肉撒手没",
       "onboard_time": 1771382719,
       "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 137484,
+      "num": 137484,
+      "word": "29岁男子日夜颠倒狂吃碳水ICU过年",
+      "onboard_time": 1771512501,
+      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -6737,14 +6777,6 @@
       "onboard_time": 1771321280,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 136481,
-      "num": 117241,
-      "word": "北京大学陈江教授讲AI",
-      "onboard_time": 1771511181,
-      "rank": 29,
-      "category": "教育,互联网"
     },
     {
       "raw_hot": 136036,
@@ -6945,6 +6977,14 @@
       "onboard_time": 1771506502,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129355,
+      "num": 129355,
+      "word": "山东晚高峰视频在推特火了",
+      "onboard_time": 1771510882,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129300,
@@ -7347,14 +7387,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 119824,
-      "num": 119824,
-      "word": "29岁男子日夜颠倒狂吃碳水ICU过年",
-      "onboard_time": 1771512501,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 119607,
       "num": 74760,
       "word": "郑钦文因病退赛",
@@ -7427,14 +7459,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 118052,
-      "num": 118052,
-      "word": "穆祉丞 没人打扰的感觉太爽了",
-      "onboard_time": 1771512501,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 117884,
       "num": 117884,
       "word": "谁来给王玉雯递个古装本子",
@@ -7473,14 +7497,6 @@
       "onboard_time": 1771111338,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 116911,
-      "num": 116911,
-      "word": "山东晚高峰视频在推特火了",
-      "onboard_time": 1771510882,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 116720,
@@ -8627,6 +8643,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 96045,
+      "num": 96045,
+      "word": "沈腾主演电影票房已超384亿",
+      "onboard_time": 1771512261,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 95958,
       "num": 416853,
       "word": "美国日本春节想针对台海搞事",
@@ -8696,14 +8720,6 @@
       "word": "好怕谢霆锋突然拿出把吉他",
       "onboard_time": 1771477340,
       "rank": 31,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 93897,
-      "num": 93897,
-      "word": "沈腾主演电影票房已超384亿",
-      "onboard_time": 1771512261,
-      "rank": 39,
       "category": "电影"
     },
     {
@@ -8777,6 +8793,14 @@
       "onboard_time": 1771500500,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 92842,
+      "num": 92842,
+      "word": "明确提出谈恋爱吧才算谈恋爱",
+      "onboard_time": 1771513880,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 92736,
@@ -10220,7 +10244,7 @@
     },
     {
       "raw_hot": 74170,
-      "num": 74170,
+      "num": 78162,
       "word": "胡锡进称美国轰炸伊朗箭在弦上",
       "onboard_time": 1771512741,
       "rank": 44,
@@ -10931,6 +10955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 67504,
+      "num": 72942,
+      "word": "白银涨5%",
+      "onboard_time": 1771513820,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 67441,
       "num": 67441,
       "word": "半个娱乐圈都来宜宾过年了",
@@ -11305,6 +11337,14 @@
       "onboard_time": 1771387459,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 63696,
+      "num": 187200,
+      "word": "老家短短2天热闹却是一整年盼头",
+      "onboard_time": 1771512921,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 63677,
@@ -13603,14 +13643,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 26253,
-      "num": 111712,
-      "word": "老家短短2天热闹却是一整年盼头",
-      "onboard_time": 1771512921,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 25986,
       "num": 26569,
       "word": "张瑞阳灵魂发问为啥没上60分",
@@ -13848,6 +13880,14 @@
       "word": "范丞丞现场预约飞驰人生4",
       "onboard_time": 1771403960,
       "rank": 39,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 22628,
+      "num": 200349,
+      "word": "吴京聊王嘉尔镖人主题曲创作",
+      "onboard_time": 1771513281,
+      "rank": 14,
       "category": "电影"
     },
     {
@@ -14672,6 +14712,9 @@
     },
     {
       "word": "#骏马追风扬气魄#"
+    },
+    {
+      "word": "#总书记谈自己最大的心愿#"
     }
   ]
 }

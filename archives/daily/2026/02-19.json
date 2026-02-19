@@ -1,6 +1,6 @@
 {
   "startTime": 1771430429513,
-  "endTime": 1771513031540,
+  "endTime": 1771514076986,
   "band_list": [
     {
       "raw_hot": 1540685,
@@ -443,6 +443,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 345336,
+      "num": 417178,
+      "word": "Deepseek神回复",
+      "onboard_time": 1771509800,
+      "rank": 4,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 328819,
       "num": 133473,
       "word": "昀牵孟绕",
@@ -491,7 +499,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 297217,
+      "raw_hot": 298791,
       "num": 256090,
       "word": "伊朗",
       "onboard_time": 1771494740,
@@ -521,14 +529,6 @@
       "onboard_time": 1771498759,
       "rank": 19,
       "category": "电影"
-    },
-    {
-      "raw_hot": 291790,
-      "num": 417178,
-      "word": "Deepseek神回复",
-      "onboard_time": 1771509800,
-      "rank": 4,
-      "category": "互联网"
     },
     {
       "raw_hot": 291723,
@@ -665,6 +665,14 @@
       "onboard_time": 1771425626,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 250907,
+      "num": 250907,
+      "word": "王菲为什么选中你我经历的一刻",
+      "onboard_time": 1771511720,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 245290,
@@ -899,6 +907,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 190563,
+      "num": 190563,
+      "word": "妈妈让上交2万压岁钱孩子不干了",
+      "onboard_time": 1771512201,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 187642,
       "num": 187642,
       "word": "镖人票房破3亿",
@@ -913,6 +929,14 @@
       "onboard_time": 1771480100,
       "rank": 23,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 185117,
+      "num": 185117,
+      "word": "穆祉丞 没人打扰的感觉太爽了",
+      "onboard_time": 1771512501,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 183587,
@@ -1043,12 +1067,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 157515,
-      "num": 145644,
-      "word": "王菲为什么选中你我经历的一刻",
-      "onboard_time": 1771511720,
-      "rank": 20,
-      "category": "综艺"
+      "raw_hot": 156662,
+      "num": 156662,
+      "word": "苏翊鸣的第二枚奥运金牌",
+      "onboard_time": 1771513702,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 154991,
@@ -1097,6 +1121,14 @@
       "onboard_time": 1771491800,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 148569,
+      "num": 116703,
+      "word": "形象的演示了什么叫命里有财",
+      "onboard_time": 1771513880,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 147514,
@@ -1179,20 +1211,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 137930,
-      "num": 137930,
-      "word": "妈妈让上交2万压岁钱孩子不干了",
-      "onboard_time": 1771512201,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 136481,
+      "raw_hot": 137901,
       "num": 117241,
       "word": "北京大学陈江教授讲AI",
       "onboard_time": 1771511181,
       "rank": 29,
       "category": "教育,互联网"
+    },
+    {
+      "raw_hot": 137484,
+      "num": 137484,
+      "word": "29岁男子日夜颠倒狂吃碳水ICU过年",
+      "onboard_time": 1771512501,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 136005,
@@ -1209,6 +1241,14 @@
       "onboard_time": 1771506502,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129355,
+      "num": 129355,
+      "word": "山东晚高峰视频在推特火了",
+      "onboard_time": 1771510882,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128336,
@@ -1315,28 +1355,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 119824,
-      "num": 119824,
-      "word": "29岁男子日夜颠倒狂吃碳水ICU过年",
-      "onboard_time": 1771512501,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 118305,
       "num": 229169,
       "word": "亲信透露尹锡悦为护妻铤而走险",
       "onboard_time": 1771500623,
       "rank": 29,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 118052,
-      "num": 118052,
-      "word": "穆祉丞 没人打扰的感觉太爽了",
-      "onboard_time": 1771512501,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 117566,
@@ -1361,14 +1385,6 @@
       "onboard_time": 1771509260,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 116911,
-      "num": 116911,
-      "word": "山东晚高峰视频在推特火了",
-      "onboard_time": 1771510882,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 115949,
@@ -1643,6 +1659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 96045,
+      "num": 96045,
+      "word": "沈腾主演电影票房已超384亿",
+      "onboard_time": 1771512261,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 95787,
       "num": 95787,
       "word": "谷爱凌 顶级狩猎者的眼神",
@@ -1680,14 +1704,6 @@
       "word": "好怕谢霆锋突然拿出把吉他",
       "onboard_time": 1771477340,
       "rank": 31,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 93897,
-      "num": 93897,
-      "word": "沈腾主演电影票房已超384亿",
-      "onboard_time": 1771512261,
-      "rank": 39,
       "category": "电影"
     },
     {
@@ -1729,6 +1745,14 @@
       "onboard_time": 1771500500,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 92842,
+      "num": 92842,
+      "word": "明确提出谈恋爱吧才算谈恋爱",
+      "onboard_time": 1771513880,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 92736,
@@ -2116,7 +2140,7 @@
     },
     {
       "raw_hot": 74170,
-      "num": 74170,
+      "num": 78162,
       "word": "胡锡进称美国轰炸伊朗箭在弦上",
       "onboard_time": 1771512741,
       "rank": 44,
@@ -2323,6 +2347,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 67504,
+      "num": 72942,
+      "word": "白银涨5%",
+      "onboard_time": 1771513820,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 67387,
       "num": 67387,
       "word": "男朋友第一次去老丈人家",
@@ -2473,6 +2505,14 @@
       "onboard_time": 1771498040,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 63696,
+      "num": 187200,
+      "word": "老家短短2天热闹却是一整年盼头",
+      "onboard_time": 1771512921,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 63619,
@@ -2907,14 +2947,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 26253,
-      "num": 111712,
-      "word": "老家短短2天热闹却是一整年盼头",
-      "onboard_time": 1771512921,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 25865,
       "num": 25865,
       "word": "500米世界纪录奥运纪录都是武大靖的",
@@ -2953,6 +2985,14 @@
       "onboard_time": 1771495220,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 22628,
+      "num": 200349,
+      "word": "吴京聊王嘉尔镖人主题曲创作",
+      "onboard_time": 1771513281,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 22245,
@@ -3068,6 +3108,9 @@
     },
     {
       "word": "#骏马追风扬气魄#"
+    },
+    {
+      "word": "#总书记谈自己最大的心愿#"
     }
   ]
 }

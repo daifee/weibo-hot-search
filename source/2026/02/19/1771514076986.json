@@ -1,0 +1,410 @@
+{
+  "runTime": 1771514076986,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 556472,
+        "num": 1089035,
+        "word": "将门独后官宣节奏",
+        "onboard_time": 1771506020,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 348820,
+        "num": 770059,
+        "word": "美国若武力介入台湾代价巨大",
+        "onboard_time": 1771509203,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 30588,
+        "num": 603598,
+        "word": "他们在天山脚下脚踏冰河巡边",
+        "onboard_time": 1771510882,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 428426,
+        "num": 428426,
+        "word": "王鹤棣孟子义 将门独后",
+        "onboard_time": 1771508541,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 345336,
+        "num": 345336,
+        "word": "Deepseek神回复",
+        "onboard_time": 1771509800,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1055474,
+        "num": 341560,
+        "word": "湖南新化6名消防员因公牺牲",
+        "onboard_time": 1771508902,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 315863,
+        "num": 315863,
+        "word": "人的心气是能重新养回来的",
+        "onboard_time": 1771507883,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 303170,
+        "num": 303170,
+        "word": "镖人票房逆跌",
+        "onboard_time": 1771503921,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 250907,
+        "num": 250907,
+        "word": "王菲为什么选中你我经历的一刻",
+        "onboard_time": 1771511720,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207387,
+        "num": 207387,
+        "word": "属相不是从立春开始算",
+        "onboard_time": 1771509921,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 669333,
+        "num": 207055,
+        "word": "刘德华解冻失败",
+        "onboard_time": 1771495880,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 340785,
+        "num": 206421,
+        "word": "高层看烟花有多吓人",
+        "onboard_time": 1771491560,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 314372,
+        "num": 205686,
+        "word": "酷滕 雷淞然",
+        "onboard_time": 1771507341,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203499,
+        "num": 203499,
+        "word": "苏翊鸣因北京冬奥会放弃当演员",
+        "onboard_time": 1771504160,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22628,
+        "num": 200349,
+        "word": "吴京聊王嘉尔镖人主题曲创作",
+        "onboard_time": 1771513281,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 298791,
+        "num": 199779,
+        "word": "伊朗",
+        "onboard_time": 1771494740,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 238405,
+        "num": 196769,
+        "word": "杨幂开车都能出神图",
+        "onboard_time": 1771504760,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 236321,
+        "num": 191774,
+        "word": "100多元订房酒店嫌价低不让入住",
+        "onboard_time": 1771509981,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190563,
+        "num": 190563,
+        "word": "妈妈让上交2万压岁钱孩子不干了",
+        "onboard_time": 1771512201,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63696,
+        "num": 187200,
+        "word": "老家短短2天热闹却是一整年盼头",
+        "onboard_time": 1771512921,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234314,
+        "num": 186551,
+        "word": "网剧双轨",
+        "onboard_time": 1771500439,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185117,
+        "num": 185117,
+        "word": "穆祉丞 没人打扰的感觉太爽了",
+        "onboard_time": 1771512501,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156662,
+        "num": 156662,
+        "word": "苏翊鸣的第二枚奥运金牌",
+        "onboard_time": 1771513702,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150128,
+        "num": 150128,
+        "word": "白鹿韩国",
+        "onboard_time": 1771473980,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137484,
+        "num": 137484,
+        "word": "29岁男子日夜颠倒狂吃碳水ICU过年",
+        "onboard_time": 1771512501,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132264,
+        "num": 132264,
+        "word": "英国前王子安德鲁被捕",
+        "onboard_time": 1771497081,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 131746,
+        "num": 131746,
+        "word": "自取其辱九件套",
+        "onboard_time": 1771499720,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129355,
+        "num": 129355,
+        "word": "山东晚高峰视频在推特火了",
+        "onboard_time": 1771510882,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127969,
+        "num": 127969,
+        "word": "2名初中生扶摔倒女子遭索赔22万",
+        "onboard_time": 1771487120,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117235,
+        "num": 117235,
+        "word": "爸爸除夕独自吃饺子女儿看监控哭了",
+        "onboard_time": 1771494799,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148569,
+        "num": 116703,
+        "word": "形象的演示了什么叫命里有财",
+        "onboard_time": 1771513880,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 137901,
+        "num": 116174,
+        "word": "北京大学陈江教授讲AI",
+        "onboard_time": 1771511181,
+        "rank": 31,
+        "category": "教育,互联网"
+      },
+      {
+        "raw_hot": 115164,
+        "num": 115164,
+        "word": "王橹杰抽抽乐",
+        "onboard_time": 1771508121,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112649,
+        "num": 112649,
+        "word": "王一博表演现场版震感好爽",
+        "onboard_time": 1771509322,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 101564,
+        "num": 106340,
+        "word": "科学解释不了只有爱能解释",
+        "onboard_time": 1771509260,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 105460,
+        "num": 105460,
+        "word": "白鹿代露娃二搭疯批对疯批",
+        "onboard_time": 1771503140,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101976,
+        "num": 101976,
+        "word": "生命树",
+        "onboard_time": 1771505241,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96070,
+        "num": 96070,
+        "word": "烟花爆竹该禁吗",
+        "onboard_time": 1771506140,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96045,
+        "num": 96045,
+        "word": "沈腾主演电影票房已超384亿",
+        "onboard_time": 1771512261,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 92842,
+        "num": 92842,
+        "word": "明确提出谈恋爱吧才算谈恋爱",
+        "onboard_time": 1771513880,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 92077,
+        "num": 92077,
+        "word": "觉得自己闯祸的可以看看美国四人雪车",
+        "onboard_time": 1771506502,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83990,
+        "num": 83990,
+        "word": "美一高校兄弟会诡异入会仪式曝光",
+        "onboard_time": 1771505899,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 83789,
+        "num": 83789,
+        "word": "女儿扶人遭索赔22万妈妈发声",
+        "onboard_time": 1771489398,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82345,
+        "num": 82345,
+        "word": "沈腾回应马丽单飞",
+        "onboard_time": 1771511002,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 80278,
+        "num": 80278,
+        "word": "王嘉尔纠正阿玛尼官方",
+        "onboard_time": 1771492398,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73708,
+        "num": 78162,
+        "word": "胡锡进称美国轰炸伊朗箭在弦上",
+        "onboard_time": 1771512741,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 76847,
+        "num": 76847,
+        "word": "杨幂朱一龙吻戏",
+        "onboard_time": 1771512081,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 74954,
+        "num": 74954,
+        "word": "我们的少年时代2",
+        "onboard_time": 1771500500,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67504,
+        "num": 72942,
+        "word": "白银涨5%",
+        "onboard_time": 1771513820,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 71788,
+        "num": 71788,
+        "word": "TF奔跑四",
+        "onboard_time": 1771502840,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记谈自己最大的心愿#"
+    }
+  }
+}
