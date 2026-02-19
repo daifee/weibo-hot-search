@@ -1,0 +1,410 @@
+{
+  "runTime": 1771516688662,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 821058,
+        "num": 1131369,
+        "word": "谢景行",
+        "onboard_time": 1771513220,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 499401,
+        "num": 804092,
+        "word": "Deepseek神回复",
+        "onboard_time": 1771509800,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 28718,
+        "num": 676399,
+        "word": "他们在天山脚下脚踏冰河巡边",
+        "onboard_time": 1771510882,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 326576,
+        "num": 326576,
+        "word": "将门独后官宣节奏",
+        "onboard_time": 1771506020,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 283986,
+        "num": 283986,
+        "word": "苏翊鸣的第二枚奥运金牌",
+        "onboard_time": 1771513702,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 563048,
+        "num": 278306,
+        "word": "湖南新化6名消防员因公牺牲",
+        "onboard_time": 1771508902,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 258577,
+        "num": 258577,
+        "word": "王鹤棣孟子义 将门独后",
+        "onboard_time": 1771508541,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 248367,
+        "num": 248367,
+        "word": "镖人票房逆跌",
+        "onboard_time": 1771503921,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 217824,
+        "num": 217824,
+        "word": "人的心气是能重新养回来的",
+        "onboard_time": 1771507883,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 199212,
+        "num": 199212,
+        "word": "美国若武力介入台湾代价巨大",
+        "onboard_time": 1771509203,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 604916,
+        "num": 196862,
+        "word": "刘德华解冻失败",
+        "onboard_time": 1771495880,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 282317,
+        "num": 194116,
+        "word": "穆祉丞 没人打扰的感觉太爽了",
+        "onboard_time": 1771512501,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218560,
+        "num": 193286,
+        "word": "高层看烟花有多吓人",
+        "onboard_time": 1771491560,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 258807,
+        "num": 188901,
+        "word": "酷滕 雷淞然",
+        "onboard_time": 1771507341,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31347,
+        "num": 186468,
+        "word": "吴京聊王嘉尔镖人主题曲创作",
+        "onboard_time": 1771513281,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 186054,
+        "num": 186054,
+        "word": "妈妈让上交2万压岁钱孩子不干了",
+        "onboard_time": 1771512201,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182624,
+        "num": 182624,
+        "word": "伊朗",
+        "onboard_time": 1771494740,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 165903,
+        "num": 165903,
+        "word": "属相不是从立春开始算",
+        "onboard_time": 1771509921,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111932,
+        "num": 111932,
+        "word": "100多元订房酒店嫌价低不让入住",
+        "onboard_time": 1771509981,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56895,
+        "num": 110096,
+        "word": "宜城全市全方位拉网式排查",
+        "onboard_time": 1771515501,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 236365,
+        "num": 109206,
+        "word": "王菲为什么选中你我经历的一刻",
+        "onboard_time": 1771511720,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183367,
+        "num": 108791,
+        "word": "网剧双轨",
+        "onboard_time": 1771500439,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108262,
+        "num": 108262,
+        "word": "形象的演示了什么叫命里有财",
+        "onboard_time": 1771513880,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 179075,
+        "num": 106690,
+        "word": "于奥点赞",
+        "onboard_time": 1771515200,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144424,
+        "num": 103311,
+        "word": "杨幂开车都能出神图",
+        "onboard_time": 1771504760,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 99274,
+        "num": 99274,
+        "word": "山东晚高峰视频在推特火了",
+        "onboard_time": 1771510882,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17032,
+        "num": 92430,
+        "word": "特朗普称对台军售要跟中国商量",
+        "onboard_time": 1771516521,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 100151,
+        "num": 92011,
+        "word": "白鹿韩国",
+        "onboard_time": 1771473980,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91361,
+        "num": 91361,
+        "word": "明确提出谈恋爱吧才算谈恋爱",
+        "onboard_time": 1771513880,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 90388,
+        "num": 90388,
+        "word": "沈腾主演电影票房已超384亿",
+        "onboard_time": 1771512261,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 106183,
+        "num": 90337,
+        "word": "苏翊鸣采访时徐梦桃打来电话",
+        "onboard_time": 1771514841,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88679,
+        "num": 88679,
+        "word": "29岁男子日夜颠倒狂吃碳水ICU过年",
+        "onboard_time": 1771512501,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86138,
+        "num": 86138,
+        "word": "苏翊鸣因北京冬奥会放弃当演员",
+        "onboard_time": 1771504160,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81281,
+        "num": 81281,
+        "word": "英国前王子安德鲁被捕",
+        "onboard_time": 1771497081,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 80940,
+        "num": 80940,
+        "word": "白鹿代露娃二搭疯批对疯批",
+        "onboard_time": 1771503140,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78341,
+        "num": 78341,
+        "word": "宁忠岩刘瀚彬出战1500米",
+        "onboard_time": 1771516279,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 78203,
+        "num": 78203,
+        "word": "爸爸除夕独自吃饺子女儿看监控哭了",
+        "onboard_time": 1771494799,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75838,
+        "num": 75838,
+        "word": "老家短短2天热闹却是一整年盼头",
+        "onboard_time": 1771512921,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25757,
+        "num": 74103,
+        "word": "伊朗总统说不屈服于美国胁迫",
+        "onboard_time": 1771515320,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 71666,
+        "num": 73767,
+        "word": "浙江一地即日起禁售烟花爆竹",
+        "onboard_time": 1771515981,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73702,
+        "num": 73702,
+        "word": "自取其辱九件套",
+        "onboard_time": 1771499720,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 72967,
+        "num": 72967,
+        "word": "王一博表演现场版震感好爽",
+        "onboard_time": 1771509322,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 72797,
+        "num": 72797,
+        "word": "北京大学陈江教授讲AI",
+        "onboard_time": 1771511181,
+        "rank": 42,
+        "category": "教育,互联网"
+      },
+      {
+        "raw_hot": 71544,
+        "num": 71544,
+        "word": "生命树",
+        "onboard_time": 1771505241,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 71420,
+        "num": 71420,
+        "word": "王艺迪过大年去烫头了",
+        "onboard_time": 1771516401,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 69058,
+        "num": 69058,
+        "word": "王橹杰抽抽乐",
+        "onboard_time": 1771508121,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68349,
+        "num": 68349,
+        "word": "谭凯回应没戏拍回青岛开饺子店",
+        "onboard_time": 1771516161,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65829,
+        "num": 65829,
+        "word": "科学解释不了只有爱能解释",
+        "onboard_time": 1771509260,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 64691,
+        "num": 64691,
+        "word": "觉得自己闯祸的可以看看美国四人雪车",
+        "onboard_time": 1771506502,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 57286,
+        "num": 57286,
+        "word": "哪吒的回旋镖正中眉心",
+        "onboard_time": 1771515800,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记谈自己最大的心愿#"
+    }
+  }
+}
