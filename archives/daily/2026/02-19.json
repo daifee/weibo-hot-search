@@ -1,6 +1,6 @@
 {
   "startTime": 1771430429513,
-  "endTime": 1771487762214,
+  "endTime": 1771488307248,
   "band_list": [
     {
       "raw_hot": 1540685,
@@ -91,20 +91,20 @@
       "category": "体育,综艺"
     },
     {
+      "raw_hot": 578335,
+      "num": 908341,
+      "word": "韩媒嘲讽林孝埈归化失败",
+      "onboard_time": 1771486099,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 572105,
       "num": 348089,
       "word": "春晚为什么不给我看这个",
       "onboard_time": 1771474099,
       "rank": 5,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 560064,
-      "num": 879834,
-      "word": "韩媒嘲讽林孝埈归化失败",
-      "onboard_time": 1771486099,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 553794,
@@ -260,11 +260,19 @@
     },
     {
       "raw_hot": 328819,
-      "num": 124109,
+      "num": 131973,
       "word": "昀牵孟绕",
       "onboard_time": 1771483219,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 324222,
+      "num": 102724,
+      "word": "2名初中生扶摔倒女子遭索赔22万",
+      "onboard_time": 1771487120,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 321691,
@@ -409,6 +417,14 @@
       "onboard_time": 1771473620,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 227084,
+      "num": 123164,
+      "word": "李健 禁烟大使",
+      "onboard_time": 1771486459,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 222935,
@@ -556,7 +572,7 @@
     },
     {
       "raw_hot": 170577,
-      "num": 100749,
+      "num": 102317,
       "word": "苏翊鸣右手蛋糕左手金牌",
       "onboard_time": 1771483398,
       "rank": 20,
@@ -579,12 +595,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 156294,
-      "num": 98004,
-      "word": "李健 禁烟大使",
-      "onboard_time": 1771486459,
-      "rank": 21,
-      "category": "艺人"
+      "raw_hot": 155376,
+      "num": 155376,
+      "word": "苏翊鸣 为了露表手忙脚乱",
+      "onboard_time": 1771487240,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 154991,
@@ -672,14 +688,6 @@
       "word": "台湾女子被臭豆腐店熏到焦虑拔头发",
       "onboard_time": 1771421964,
       "rank": 22,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 137627,
-      "num": 88793,
-      "word": "2名初中生扶摔倒女子遭索赔22万",
-      "onboard_time": 1771487120,
-      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -868,7 +876,7 @@
     },
     {
       "raw_hot": 103774,
-      "num": 89976,
+      "num": 97745,
       "word": "镖人路演",
       "onboard_time": 1771486339,
       "rank": 26,
@@ -897,6 +905,14 @@
       "onboard_time": 1771476320,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 101501,
+      "num": 93141,
+      "word": "林高远过年晒妈妈合照",
+      "onboard_time": 1771487360,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 100842,
@@ -995,6 +1011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 92736,
+      "num": 92736,
+      "word": "秦岚夸李沁像清水芙蓉般漂亮",
+      "onboard_time": 1771486039,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 92473,
       "num": 92473,
       "word": "谁家熊猫过年不洗澡",
@@ -1003,12 +1027,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 92470,
-      "num": 89034,
-      "word": "秦岚夸李沁像清水芙蓉般漂亮",
-      "onboard_time": 1771486039,
-      "rank": 29,
-      "category": "综艺"
+      "raw_hot": 92054,
+      "num": 92054,
+      "word": "机器人跳舞摔倒小伙查看时脸被踢破",
+      "onboard_time": 1771486879,
+      "rank": 34,
+      "category": "民生新闻,数码"
     },
     {
       "raw_hot": 90988,
@@ -1020,7 +1044,7 @@
     },
     {
       "raw_hot": 90111,
-      "num": 90111,
+      "num": 104572,
       "word": "大连焖子",
       "onboard_time": 1771482439,
       "rank": 44,
@@ -1123,12 +1147,12 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 82036,
-      "num": 82036,
-      "word": "机器人跳舞摔倒小伙查看时脸被踢破",
-      "onboard_time": 1771486879,
-      "rank": 34,
-      "category": "民生新闻,数码"
+      "raw_hot": 81878,
+      "num": 105534,
+      "word": "父亲称英歌舞女孩知道自己火了",
+      "onboard_time": 1771486939,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 81861,
@@ -1144,14 +1168,6 @@
       "word": "宁忠岩争金",
       "onboard_time": 1771481839,
       "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 80841,
-      "num": 80841,
-      "word": "苏翊鸣 为了露表手忙脚乱",
-      "onboard_time": 1771487240,
-      "rank": 37,
       "category": "体育"
     },
     {
@@ -1195,8 +1211,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 76911,
-      "num": 76911,
+      "raw_hot": 77065,
+      "num": 77065,
       "word": "大年初三既是休息日也是聚财日",
       "onboard_time": 1771482020,
       "rank": 39,
@@ -1225,14 +1241,6 @@
       "onboard_time": 1771484539,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 75365,
-      "num": 75365,
-      "word": "林高远过年晒妈妈合照",
-      "onboard_time": 1771487360,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 75246,
@@ -1305,6 +1313,14 @@
       "onboard_time": 1771480158,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 70375,
+      "num": 70375,
+      "word": "房产证差点过户给猫",
+      "onboard_time": 1771488020,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 69789,
@@ -1387,12 +1403,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 66840,
+      "num": 66840,
+      "word": "梨形身材怎么买裤子",
+      "onboard_time": 1771488020,
+      "rank": 44,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 66816,
       "num": 68309,
       "word": "刘宇宁展示最满意的身体部位",
       "onboard_time": 1771457717,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 66770,
+      "num": 66770,
+      "word": "王濛说自己以前快到教练都掐不上表",
+      "onboard_time": 1771488259,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 66706,
@@ -1563,14 +1595,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 58412,
-      "num": 105534,
-      "word": "父亲称英歌舞女孩知道自己火了",
-      "onboard_time": 1771486939,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 58338,
       "num": 58338,
       "word": "王一博春晚高清大图",
@@ -1649,6 +1673,14 @@
       "onboard_time": 1771468699,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 53620,
+      "num": 99141,
+      "word": "美网红感叹美国人被教唆恨中国",
+      "onboard_time": 1771488080,
+      "rank": 25,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 53117,
@@ -1788,11 +1820,19 @@
     },
     {
       "raw_hot": 31041,
-      "num": 689451,
+      "num": 696432,
       "word": "春节档佳片云集总有一款适合你",
       "onboard_time": 1771471999,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 29449,
+      "num": 102111,
+      "word": "8人携带超16万欧元现金出境被查",
+      "onboard_time": 1771486999,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26673,
@@ -1865,14 +1905,6 @@
       "onboard_time": 1771417585,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 19209,
-      "num": 102111,
-      "word": "8人携带超16万欧元现金出境被查",
-      "onboard_time": 1771486999,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 19192,

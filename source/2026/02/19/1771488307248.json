@@ -1,0 +1,410 @@
+{
+  "runTime": 1771488307248,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1353604,
+        "num": 1353604,
+        "word": "尹锡悦被判无期徒刑",
+        "onboard_time": 1771484899,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 578335,
+        "num": 908341,
+        "word": "韩媒嘲讽林孝埈归化失败",
+        "onboard_time": 1771486099,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27108,
+        "num": 696432,
+        "word": "春节档佳片云集总有一款适合你",
+        "onboard_time": 1771471999,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 271940,
+        "num": 271940,
+        "word": "宋佳刘诗诗有条通天道你俩走不走",
+        "onboard_time": 1771482439,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 226999,
+        "num": 226999,
+        "word": "妻子回应丈夫初二坐丈人腿上告状",
+        "onboard_time": 1771477460,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 440074,
+        "num": 207830,
+        "word": "玩手机是一件很私人的事情",
+        "onboard_time": 1771482020,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 235737,
+        "num": 201899,
+        "word": "我承认之前对吴京太大声了",
+        "onboard_time": 1771477398,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 182488,
+        "num": 182488,
+        "word": "飞驰人生3同期票房超哪吒2",
+        "onboard_time": 1771473980,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 155376,
+        "num": 155376,
+        "word": "苏翊鸣 为了露表手忙脚乱",
+        "onboard_time": 1771487240,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151353,
+        "num": 151353,
+        "word": "春晚为什么不给我看这个",
+        "onboard_time": 1771474099,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 421896,
+        "num": 139396,
+        "word": "白鹿韩国",
+        "onboard_time": 1771473980,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 295233,
+        "num": 131973,
+        "word": "昀牵孟绕",
+        "onboard_time": 1771483219,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124185,
+        "num": 124185,
+        "word": "伊朗备战",
+        "onboard_time": 1771481239,
+        "rank": 12,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 227084,
+        "num": 123164,
+        "word": "李健 禁烟大使",
+        "onboard_time": 1771486459,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173721,
+        "num": 122141,
+        "word": "陈丽君是怎么面试上镖人的",
+        "onboard_time": 1771478780,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 110450,
+        "num": 110450,
+        "word": "张杰说徐梦桃是中国的骄傲",
+        "onboard_time": 1771486399,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161531,
+        "num": 109966,
+        "word": "杨幂听到刘耀文说他老了的反应",
+        "onboard_time": 1771480939,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 104623,
+        "num": 104623,
+        "word": "印一大学展出泡沫无人机被赶出峰会",
+        "onboard_time": 1771480100,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 84454,
+        "num": 104572,
+        "word": "大连焖子",
+        "onboard_time": 1771482439,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 81878,
+        "num": 103327,
+        "word": "父亲称英歌舞女孩知道自己火了",
+        "onboard_time": 1771486939,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 324222,
+        "num": 102724,
+        "word": "2名初中生扶摔倒女子遭索赔22万",
+        "onboard_time": 1771487120,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146320,
+        "num": 102317,
+        "word": "苏翊鸣右手蛋糕左手金牌",
+        "onboard_time": 1771483398,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134692,
+        "num": 100900,
+        "word": "白鹿曾舜晞陈鹤一梁永棋韩国旅游",
+        "onboard_time": 1771475899,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118851,
+        "num": 100110,
+        "word": "惊蛰无声原型",
+        "onboard_time": 1771486399,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 124530,
+        "num": 99960,
+        "word": "男子被烟花炸伤眼球几乎全部流出",
+        "onboard_time": 1771482139,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53620,
+        "num": 99141,
+        "word": "美网红感叹美国人被教唆恨中国",
+        "onboard_time": 1771488080,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 112529,
+        "num": 98364,
+        "word": "蔡徐坤Chinese New Year",
+        "onboard_time": 1771474400,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 97745,
+        "num": 97745,
+        "word": "镖人路演",
+        "onboard_time": 1771486339,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 81778,
+        "num": 94195,
+        "word": "尹锡悦内乱头目罪罪名成立",
+        "onboard_time": 1771484240,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 29449,
+        "num": 93435,
+        "word": "8人携带超16万欧元现金出境被查",
+        "onboard_time": 1771486999,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101501,
+        "num": 93141,
+        "word": "林高远过年晒妈妈合照",
+        "onboard_time": 1771487360,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92764,
+        "num": 92764,
+        "word": "徐梦桃回复黄奕了",
+        "onboard_time": 1771476320,
+        "rank": 31,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 92736,
+        "num": 92736,
+        "word": "秦岚夸李沁像清水芙蓉般漂亮",
+        "onboard_time": 1771486039,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92054,
+        "num": 92054,
+        "word": "机器人跳舞摔倒小伙查看时脸被踢破",
+        "onboard_time": 1771486879,
+        "rank": 33,
+        "category": "民生新闻,数码"
+      },
+      {
+        "raw_hot": 78089,
+        "num": 78089,
+        "word": "谷爱凌这串笑声嘲讽拉满",
+        "onboard_time": 1771471940,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77297,
+        "num": 77297,
+        "word": "林孝埈已为中国短道燃尽所有",
+        "onboard_time": 1771469838,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77065,
+        "num": 77065,
+        "word": "大年初三既是休息日也是聚财日",
+        "onboard_time": 1771482020,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74049,
+        "num": 74049,
+        "word": "苏翊鸣说储备了没有人实现过的动作",
+        "onboard_time": 1771475359,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 72831,
+        "num": 72831,
+        "word": "香港尖沙咀市民排队看英歌舞",
+        "onboard_time": 1771477821,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72761,
+        "num": 72761,
+        "word": "法国1万人村庄连续10年自费过春节",
+        "onboard_time": 1771485080,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 72382,
+        "num": 72382,
+        "word": "时薪150和时薪800主播的区别",
+        "onboard_time": 1771475781,
+        "rank": 40,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 71071,
+        "num": 71071,
+        "word": "砂糖橘",
+        "onboard_time": 1771486759,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 70375,
+        "num": 70375,
+        "word": "房产证差点过户给猫",
+        "onboard_time": 1771488020,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 69279,
+        "num": 69279,
+        "word": "金智秀新剧预告",
+        "onboard_time": 1771484539,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 66840,
+        "num": 66840,
+        "word": "梨形身材怎么买裤子",
+        "onboard_time": 1771488020,
+        "rank": 44,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 66770,
+        "num": 66770,
+        "word": "王濛说自己以前快到教练都掐不上表",
+        "onboard_time": 1771488259,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 63489,
+        "num": 63489,
+        "word": "压岁钱上交",
+        "onboard_time": 1771487300,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 61636,
+        "num": 61636,
+        "word": "饿是血糖最诚实的闹钟",
+        "onboard_time": 1771473620,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 57684,
+        "num": 57684,
+        "word": "拍了三个月得闲谨制妈妈却没认出自己",
+        "onboard_time": 1771470859,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 57460,
+        "num": 57460,
+        "word": "惊蛰无声致敬隐姓埋名的他们",
+        "onboard_time": 1771471159,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记走进吉好有果家的故事#"
+    }
+  }
+}

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/02/01 00:39:22 ~ 2026/02/19 15:56:02
+本榜单时间：2026/02/01 00:39:22 ~ 2026/02/19 16:05:07
 </p>
 </blockquote>
 <p>
@@ -3573,6 +3573,12 @@ TF四代换登陆少年新歌海报头像（热度：583032）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%AA%92%E5%98%B2%E8%AE%BD%E6%9E%97%E5%AD%9D%E5%9F%88%E5%BD%92%E5%8C%96%E5%A4%B1%E8%B4%A5%23" target="weibo">
+韩媒嘲讽林孝埈归化失败（热度：578335）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9B%B8%E4%BA%B2%E5%90%83%E7%83%A4%E8%82%89%23" target="weibo">
 相亲吃烤肉（热度：578310）
 </a>
@@ -3749,12 +3755,6 @@ Angelababy内娱顶级脸蛋回归（热度：574139）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%AF%E4%B8%BD%E6%BE%84%E6%B8%854%E5%B9%B4%E5%89%8D%E8%8A%B1%E5%B0%91%E6%94%BE%E9%86%8B%E4%BA%8B%E4%BB%B6%23" target="weibo">
 张凯丽澄清4年前花少放醋事件（热度：561414）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%AA%92%E5%98%B2%E8%AE%BD%E6%9E%97%E5%AD%9D%E5%9F%88%E5%BD%92%E5%8C%96%E5%A4%B1%E8%B4%A5%23" target="weibo">
-韩媒嘲讽林孝埈归化失败（热度：560064）
 </a>
 </li>
 
