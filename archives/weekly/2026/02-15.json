@@ -1,6 +1,6 @@
 {
   "startTime": 1771087248939,
-  "endTime": 1771477263870,
+  "endTime": 1771477881890,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -1595,20 +1595,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 572105,
+      "num": 348089,
+      "word": "春晚为什么不给我看这个",
+      "onboard_time": 1771474099,
+      "rank": 5,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 571908,
       "num": 571908,
       "word": "周深第三次春晚独唱",
       "onboard_time": 1771242748,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 570361,
-      "num": 348089,
-      "word": "春晚为什么不给我看这个",
-      "onboard_time": 1771474099,
-      "rank": 5,
-      "category": "幽默"
     },
     {
       "raw_hot": 569551,
@@ -2355,6 +2355,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 394985,
+      "num": 155407,
+      "word": "白鹿曾舜晞陈鹤一梁永棋韩国旅游",
+      "onboard_time": 1771475899,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 394432,
       "num": 435436,
       "word": "爸妈来后冰箱都变老了",
@@ -2539,6 +2547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 366325,
+      "num": 766172,
+      "word": "飞驰人生3同期票房超哪吒2",
+      "onboard_time": 1771473980,
+      "rank": 4,
+      "category": "电影"
+    },
+    {
       "raw_hot": 365914,
       "num": 108641,
       "word": "医院回应男童吃猪脚被卡喉去世",
@@ -2603,12 +2619,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 361998,
-      "num": 149410,
-      "word": "白鹿曾舜晞陈鹤一梁永棋韩国旅游",
-      "onboard_time": 1771475899,
-      "rank": 16,
-      "category": "艺人"
+      "raw_hot": 362129,
+      "num": 209953,
+      "word": "时薪150和时薪800主播的区别",
+      "onboard_time": 1771475781,
+      "rank": 12,
+      "category": "网红"
     },
     {
       "raw_hot": 361027,
@@ -2681,14 +2697,6 @@
       "onboard_time": 1771210520,
       "rank": 5,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 348204,
-      "num": 348204,
-      "word": "飞驰人生3同期票房超哪吒2",
-      "onboard_time": 1771473980,
-      "rank": 4,
-      "category": "电影"
     },
     {
       "raw_hot": 348019,
@@ -3363,14 +3371,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 281858,
-      "num": 209953,
-      "word": "时薪150和时薪800主播的区别",
-      "onboard_time": 1771475781,
-      "rank": 12,
-      "category": "网红"
-    },
-    {
       "raw_hot": 281660,
       "num": 236476,
       "word": "马年清清来送签名红包",
@@ -3489,6 +3489,14 @@
       "onboard_time": 1771214001,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 273719,
+      "num": 219154,
+      "word": "刘晓庆 短剧还能有脱口秀掉价吗",
+      "onboard_time": 1771475539,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 273240,
@@ -4051,6 +4059,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 233690,
+      "num": 118732,
+      "word": "饿是血糖最诚实的闹钟",
+      "onboard_time": 1771473620,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 233246,
       "num": 152611,
       "word": "30多岁中国女子在韩机场高架桥坠亡",
@@ -4283,14 +4299,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 219154,
-      "num": 219154,
-      "word": "刘晓庆 短剧还能有脱口秀掉价吗",
-      "onboard_time": 1771475539,
-      "rank": 9,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 219043,
       "num": 227300,
       "word": "外语专业大退潮曾经的王牌不香了",
@@ -4369,14 +4377,6 @@
       "onboard_time": 1771198338,
       "rank": 7,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 216197,
-      "num": 118732,
-      "word": "饿是血糖最诚实的闹钟",
-      "onboard_time": 1771473620,
-      "rank": 20,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 214829,
@@ -5123,6 +5123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 175278,
+      "num": 156161,
+      "word": "宜城烟花爆燃事故12名遇难者身份核实",
+      "onboard_time": 1771476079,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 174904,
       "num": 174904,
       "word": "谷爱凌第一跳86.00分",
@@ -5217,6 +5225,14 @@
       "onboard_time": 1771226182,
       "rank": 12,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 170332,
+      "num": 153607,
+      "word": "徐梦桃回复黄奕了",
+      "onboard_time": 1771476320,
+      "rank": 24,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 169817,
@@ -5337,14 +5353,6 @@
       "onboard_time": 1771263262,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 166101,
-      "num": 114274,
-      "word": "徐梦桃回复黄奕了",
-      "onboard_time": 1771476320,
-      "rank": 24,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 164901,
@@ -6835,6 +6843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114623,
+      "num": 114623,
+      "word": "王鸥长得最好看的先搜",
+      "onboard_time": 1771476379,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 114413,
       "num": 103418,
       "word": "太奶奶实在是上边没人了",
@@ -7131,6 +7147,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 107634,
+      "num": 107634,
+      "word": "国产剧终于不演换乘恋爱了",
+      "onboard_time": 1771477039,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 107499,
       "num": 107499,
       "word": "东方卫视春晚",
@@ -7160,14 +7184,6 @@
       "word": "13个发小初一登门给彼此父母磕头拜年",
       "onboard_time": 1771324462,
       "rank": 25,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 107110,
-      "num": 107110,
-      "word": "宜城烟花爆燃事故12名遇难者身份核实",
-      "onboard_time": 1771476079,
-      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -7203,6 +7219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 106644,
+      "num": 106644,
+      "word": "6岁女孩拜年5岁小叔妈妈发声",
+      "onboard_time": 1771475781,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106504,
       "num": 106504,
       "word": "苏翊鸣妈妈说这是最好的生日礼物",
@@ -7233,14 +7257,6 @@
       "onboard_time": 1771419681,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 105675,
-      "num": 105675,
-      "word": "王鸥长得最好看的先搜",
-      "onboard_time": 1771476379,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 105537,
@@ -7811,6 +7827,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 94053,
+      "num": 94053,
+      "word": "好怕谢霆锋突然拿出把吉他",
+      "onboard_time": 1771477340,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 93816,
       "num": 93816,
       "word": "大疆前销售副总裁被刑拘",
@@ -7921,6 +7945,14 @@
       "onboard_time": 1771413560,
       "rank": 46,
       "category": "财经"
+    },
+    {
+      "raw_hot": 90988,
+      "num": 90988,
+      "word": "王濛说场上韩国队是周洋手下败将",
+      "onboard_time": 1771474580,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 90953,
@@ -8065,14 +8097,6 @@
       "onboard_time": 1771398619,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 88551,
-      "num": 88551,
-      "word": "6岁女孩拜年5岁小叔妈妈发声",
-      "onboard_time": 1771475781,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 88546,
@@ -8323,14 +8347,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 83648,
-      "num": 83648,
-      "word": "王濛说场上韩国队是周洋手下败将",
-      "onboard_time": 1771474580,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 83587,
       "num": 83587,
       "word": "韩国短道女子3000米接力夺金",
@@ -8465,6 +8481,14 @@
       "onboard_time": 1771341201,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 81818,
+      "num": 81818,
+      "word": "我承认之前对吴京太大声了",
+      "onboard_time": 1771477398,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 81392,
@@ -8721,6 +8745,14 @@
       "onboard_time": 1771395379,
       "rank": 42,
       "category": "财经"
+    },
+    {
+      "raw_hot": 78165,
+      "num": 78165,
+      "word": "机关食堂开放20元18道菜随便吃",
+      "onboard_time": 1771473859,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 78162,
@@ -9067,6 +9099,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 74156,
+      "num": 78512,
+      "word": "爷爷回消息方式太直接了",
+      "onboard_time": 1771477159,
+      "rank": 41,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 73928,
       "num": 73928,
       "word": "沈腾选王安宇演自己是搓子里拔大个",
@@ -9099,20 +9139,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 73341,
-      "num": 73341,
-      "word": "机关食堂开放20元18道菜随便吃",
-      "onboard_time": 1771473859,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 73227,
       "num": 419011,
       "word": "中国冰壶男队除夕夜收获首胜",
       "onboard_time": 1771254578,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 73151,
+      "num": 73151,
+      "word": "妻子回应丈夫初二坐丈人腿上告状",
+      "onboard_time": 1771477460,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 73141,
@@ -9241,14 +9281,6 @@
       "onboard_time": 1771387459,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 71695,
-      "num": 71695,
-      "word": "爷爷回消息方式太直接了",
-      "onboard_time": 1771477159,
-      "rank": 41,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 71466,
@@ -9521,14 +9553,6 @@
       "onboard_time": 1771340001,
       "rank": 29,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 69043,
-      "num": 69043,
-      "word": "国产剧终于不演换乘恋爱了",
-      "onboard_time": 1771477039,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 68983,
@@ -9841,6 +9865,14 @@
       "onboard_time": 1771326023,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 65134,
+      "num": 65134,
+      "word": "我确定我爱上了王楚然",
+      "onboard_time": 1771477821,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 64990,
@@ -10171,6 +10203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 60933,
+      "num": 60933,
+      "word": "惊蛰无声致敬隐姓埋名的他们",
+      "onboard_time": 1771471159,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 60931,
       "num": 60931,
       "word": "林孝埈竞技状态令人遗憾",
@@ -10185,6 +10225,14 @@
       "onboard_time": 1771136778,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 60714,
+      "num": 60714,
+      "word": "国乒出发新加坡大满贯",
+      "onboard_time": 1771475178,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 60659,
@@ -10569,14 +10617,6 @@
       "onboard_time": 1771068560,
       "rank": 45,
       "category": "网红"
-    },
-    {
-      "raw_hot": 54686,
-      "num": 54686,
-      "word": "惊蛰无声致敬隐姓埋名的他们",
-      "onboard_time": 1771471159,
-      "rank": 49,
-      "category": "电影"
     },
     {
       "raw_hot": 54589,
@@ -12635,6 +12675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 17796,
+      "num": 608518,
+      "word": "从春晚看智能科技跃迁",
+      "onboard_time": 1771477460,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 17789,
       "num": 97574,
       "word": "沈阳一温泉酒店推暴风雨主题SPA",
@@ -13025,6 +13073,14 @@
       "onboard_time": 1771308682,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 5414,
+      "num": 80888,
+      "word": "香港尖沙咀市民排队看英歌舞",
+      "onboard_time": 1771477821,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 2105,

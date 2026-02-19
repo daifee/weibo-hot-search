@@ -1,6 +1,6 @@
 {
   "startTime": 1771430429513,
-  "endTime": 1771477263870,
+  "endTime": 1771477881890,
   "band_list": [
     {
       "raw_hot": 1323093,
@@ -75,7 +75,7 @@
       "category": "体育,综艺"
     },
     {
-      "raw_hot": 570361,
+      "raw_hot": 572105,
       "num": 348089,
       "word": "春晚为什么不给我看这个",
       "onboard_time": 1771474099,
@@ -155,6 +155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 394985,
+      "num": 155407,
+      "word": "白鹿曾舜晞陈鹤一梁永棋韩国旅游",
+      "onboard_time": 1771475899,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 390415,
       "num": 390415,
       "word": "中国队米兰冬奥首金",
@@ -171,6 +179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 366325,
+      "num": 766172,
+      "word": "飞驰人生3同期票房超哪吒2",
+      "onboard_time": 1771473980,
+      "rank": 4,
+      "category": "电影"
+    },
+    {
       "raw_hot": 364916,
       "num": 776818,
       "word": "林孝埈已为中国短道燃尽所有",
@@ -179,20 +195,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 361998,
-      "num": 149410,
-      "word": "白鹿曾舜晞陈鹤一梁永棋韩国旅游",
-      "onboard_time": 1771475899,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 348204,
-      "num": 348204,
-      "word": "飞驰人生3同期票房超哪吒2",
-      "onboard_time": 1771473980,
-      "rank": 4,
-      "category": "电影"
+      "raw_hot": 362129,
+      "num": 209953,
+      "word": "时薪150和时薪800主播的区别",
+      "onboard_time": 1771475781,
+      "rank": 12,
+      "category": "网红"
     },
     {
       "raw_hot": 321691,
@@ -227,14 +235,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 281858,
-      "num": 209953,
-      "word": "时薪150和时薪800主播的区别",
-      "onboard_time": 1771475781,
-      "rank": 12,
-      "category": "网红"
-    },
-    {
       "raw_hot": 280522,
       "num": 309774,
       "word": "桃黑黑 大白菜",
@@ -257,6 +257,14 @@
       "onboard_time": 1771456637,
       "rank": 21,
       "category": "网红"
+    },
+    {
+      "raw_hot": 273719,
+      "num": 219154,
+      "word": "刘晓庆 短剧还能有脱口秀掉价吗",
+      "onboard_time": 1771475539,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 270261,
@@ -299,28 +307,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 233690,
+      "num": 118732,
+      "word": "饿是血糖最诚实的闹钟",
+      "onboard_time": 1771473620,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 222935,
       "num": 222935,
       "word": "拍了三个月得闲谨制妈妈却没认出自己",
       "onboard_time": 1771470859,
       "rank": 28,
       "category": "电影"
-    },
-    {
-      "raw_hot": 219154,
-      "num": 219154,
-      "word": "刘晓庆 短剧还能有脱口秀掉价吗",
-      "onboard_time": 1771475539,
-      "rank": 9,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 216197,
-      "num": 118732,
-      "word": "饿是血糖最诚实的闹钟",
-      "onboard_time": 1771473620,
-      "rank": 20,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 211751,
@@ -419,6 +419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175278,
+      "num": 156161,
+      "word": "宜城烟花爆燃事故12名遇难者身份核实",
+      "onboard_time": 1771476079,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 174644,
       "num": 116403,
       "word": "马嘉祺珠海",
@@ -443,8 +451,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 166101,
-      "num": 114274,
+      "raw_hot": 170332,
+      "num": 153607,
       "word": "徐梦桃回复黄奕了",
       "onboard_time": 1771476320,
       "rank": 24,
@@ -571,6 +579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121343,
+      "num": 121343,
+      "word": "爸妈来后冰箱都变老了",
+      "onboard_time": 1771473500,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 117566,
       "num": 117566,
       "word": "怪不得叫膨胀螺丝",
@@ -603,6 +619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114623,
+      "num": 114623,
+      "word": "王鸥长得最好看的先搜",
+      "onboard_time": 1771476379,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 114413,
       "num": 103418,
       "word": "太奶奶实在是上边没人了",
@@ -617,14 +641,6 @@
       "onboard_time": 1771427420,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 113590,
-      "num": 113590,
-      "word": "爸妈来后冰箱都变老了",
-      "onboard_time": 1771473500,
-      "rank": 25,
-      "category": "幽默"
     },
     {
       "raw_hot": 113364,
@@ -667,20 +683,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 107110,
-      "num": 107110,
-      "word": "宜城烟花爆燃事故12名遇难者身份核实",
-      "onboard_time": 1771476079,
-      "rank": 27,
-      "category": "民生新闻"
+      "raw_hot": 107634,
+      "num": 107634,
+      "word": "国产剧终于不演换乘恋爱了",
+      "onboard_time": 1771477039,
+      "rank": 43,
+      "category": "剧集"
     },
     {
-      "raw_hot": 105675,
-      "num": 105675,
-      "word": "王鸥长得最好看的先搜",
-      "onboard_time": 1771476379,
-      "rank": 28,
-      "category": "综艺"
+      "raw_hot": 106644,
+      "num": 106644,
+      "word": "6岁女孩拜年5岁小叔妈妈发声",
+      "onboard_time": 1771475781,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 102376,
@@ -779,6 +795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 94053,
+      "num": 94053,
+      "word": "好怕谢霆锋突然拿出把吉他",
+      "onboard_time": 1771477340,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 93086,
       "num": 93086,
       "word": "2儿子熬到凌晨给跑单父亲磕头拜年",
@@ -803,20 +827,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 90988,
+      "num": 90988,
+      "word": "王濛说场上韩国队是周洋手下败将",
+      "onboard_time": 1771474580,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 89599,
       "num": 89599,
       "word": "米卡称爸爸想搬来中国",
       "onboard_time": 1771426582,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 88551,
-      "num": 88551,
-      "word": "6岁女孩拜年5岁小叔妈妈发声",
-      "onboard_time": 1771475781,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 88264,
@@ -891,20 +915,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 83648,
-      "num": 83648,
-      "word": "王濛说场上韩国队是周洋手下败将",
-      "onboard_time": 1771474580,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 83587,
       "num": 83587,
       "word": "韩国短道女子3000米接力夺金",
       "onboard_time": 1771446074,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 81818,
+      "num": 81818,
+      "word": "我承认之前对吴京太大声了",
+      "onboard_time": 1771477398,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 80419,
@@ -921,6 +945,14 @@
       "onboard_time": 1771428264,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 78165,
+      "num": 78165,
+      "word": "机关食堂开放20元18道菜随便吃",
+      "onboard_time": 1771473859,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 76081,
@@ -947,11 +979,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 73341,
-      "num": 73341,
-      "word": "机关食堂开放20元18道菜随便吃",
-      "onboard_time": 1771473859,
-      "rank": 39,
+      "raw_hot": 74156,
+      "num": 78512,
+      "word": "爷爷回消息方式太直接了",
+      "onboard_time": 1771477159,
+      "rank": 41,
+      "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 73151,
+      "num": 73151,
+      "word": "妻子回应丈夫初二坐丈人腿上告状",
+      "onboard_time": 1771477460,
+      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -979,14 +1019,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 71695,
-      "num": 71695,
-      "word": "爷爷回消息方式太直接了",
-      "onboard_time": 1771477159,
-      "rank": 41,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 71009,
       "num": 71009,
       "word": "苏翊鸣赛前1小时才决定动作方案",
@@ -1001,14 +1033,6 @@
       "onboard_time": 1771475480,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 69043,
-      "num": 69043,
-      "word": "国产剧终于不演换乘恋爱了",
-      "onboard_time": 1771477039,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 68669,
@@ -1083,6 +1107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 65134,
+      "num": 65134,
+      "word": "我确定我爱上了王楚然",
+      "onboard_time": 1771477821,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 64990,
       "num": 64990,
       "word": "苏翊鸣徐梦桃夺金后东北话互动",
@@ -1131,11 +1163,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 60933,
+      "num": 60933,
+      "word": "惊蛰无声致敬隐姓埋名的他们",
+      "onboard_time": 1771471159,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 60931,
       "num": 60931,
       "word": "林孝埈竞技状态令人遗憾",
       "onboard_time": 1771470680,
       "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 60714,
+      "num": 60714,
+      "word": "国乒出发新加坡大满贯",
+      "onboard_time": 1771475178,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -1209,14 +1257,6 @@
       "onboard_time": 1771467139,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 54686,
-      "num": 54686,
-      "word": "惊蛰无声致敬隐姓埋名的他们",
-      "onboard_time": 1771471159,
-      "rank": 49,
-      "category": "电影"
     },
     {
       "raw_hot": 53755,
@@ -1427,6 +1467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 17796,
+      "num": 608518,
+      "word": "从春晚看智能科技跃迁",
+      "onboard_time": 1771477460,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 17466,
       "num": 20501,
       "word": "徐梦桃冬奥卫冕后发文",
@@ -1457,6 +1505,14 @@
       "onboard_time": 1771470260,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 5414,
+      "num": 80888,
+      "word": "香港尖沙咀市民排队看英歌舞",
+      "onboard_time": 1771477821,
+      "rank": 39,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
