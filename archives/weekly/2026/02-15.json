@@ -1,6 +1,6 @@
 {
   "startTime": 1771087248939,
-  "endTime": 1771492301138,
+  "endTime": 1771495143698,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -1363,6 +1363,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 658388,
+      "num": 186904,
+      "word": "高层看烟花有多吓人",
+      "onboard_time": 1771491560,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 656302,
       "num": 980833,
       "word": "英国选手撞倒孙龙刘少昂",
@@ -1420,7 +1428,7 @@
     },
     {
       "raw_hot": 643381,
-      "num": 874676,
+      "num": 1062216,
       "word": "苏翊鸣 为了露表手忙脚乱",
       "onboard_time": 1771487240,
       "rank": 37,
@@ -1577,6 +1585,14 @@
       "onboard_time": 1771115239,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 586095,
+      "num": 586095,
+      "word": "易烊千玺弟弟13岁近照",
+      "onboard_time": 1771488560,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 580051,
@@ -1787,14 +1803,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 544425,
-      "num": 135989,
-      "word": "易烊千玺弟弟13岁近照",
-      "onboard_time": 1771488560,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 543792,
       "num": 1018394,
       "word": "谷爱凌大跳台银牌",
@@ -1841,6 +1849,14 @@
       "onboard_time": 1771287501,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 523620,
+      "num": 98295,
+      "word": "王嘉尔纠正阿玛尼官方",
+      "onboard_time": 1771492398,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 522342,
@@ -2332,7 +2348,7 @@
     },
     {
       "raw_hot": 413687,
-      "num": 413687,
+      "num": 745239,
       "word": "疯狂星期四调休",
       "onboard_time": 1771490059,
       "rank": 3,
@@ -2609,6 +2625,14 @@
       "onboard_time": 1771418842,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 368144,
+      "num": 368144,
+      "word": "旺旺雪饼vs仙贝",
+      "onboard_time": 1771491021,
+      "rank": 42,
+      "category": "美食"
     },
     {
       "raw_hot": 367633,
@@ -3617,6 +3641,14 @@
       "onboard_time": 1771482439,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 273316,
+      "num": 97675,
+      "word": "阿沁自曝和刘阳分开后谈过两段感情",
+      "onboard_time": 1771491859,
+      "rank": 29,
+      "category": "网红"
     },
     {
       "raw_hot": 273240,
@@ -4883,12 +4915,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 198678,
+      "num": 198678,
+      "word": "韩延哽咽谈星河入梦排片",
+      "onboard_time": 1771489580,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 198581,
       "num": 198581,
       "word": "李昀锐演上白鹿助理了",
       "onboard_time": 1771298003,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 197672,
+      "num": 197672,
+      "word": "我将学会谷爱凌这个大笑方式",
+      "onboard_time": 1771490958,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 196966,
@@ -5027,6 +5075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190667,
+      "num": 96973,
+      "word": "秦新宇回应有儿子",
+      "onboard_time": 1771492279,
+      "rank": 46,
+      "category": "网红"
+    },
+    {
       "raw_hot": 189658,
       "num": 619875,
       "word": "升温后有东北人500斤年货无处安放",
@@ -5067,6 +5123,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 187642,
+      "num": 187642,
+      "word": "镖人票房破3亿",
+      "onboard_time": 1771488919,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 187549,
       "num": 187549,
       "word": "春晚大赏明星红包",
@@ -5081,14 +5145,6 @@
       "onboard_time": 1771172541,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 186171,
-      "num": 186171,
-      "word": "镖人票房破3亿",
-      "onboard_time": 1771488919,
-      "rank": 8,
-      "category": "电影"
     },
     {
       "raw_hot": 186096,
@@ -5169,14 +5225,6 @@
       "onboard_time": 1771240106,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 182239,
-      "num": 182239,
-      "word": "韩延哽咽谈星河入梦排片",
-      "onboard_time": 1771489580,
-      "rank": 24,
-      "category": "电影"
     },
     {
       "raw_hot": 182024,
@@ -5435,6 +5483,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 169600,
+      "num": 97328,
+      "word": "金价迎来新一轮大涨",
+      "onboard_time": 1771490839,
+      "rank": 32,
+      "category": "财经"
+    },
+    {
       "raw_hot": 169149,
       "num": 158062,
       "word": "TF家族 奔跑四",
@@ -5577,6 +5633,14 @@
       "onboard_time": 1771067061,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 164125,
+      "num": 164125,
+      "word": "樊振东迟到的年夜饭",
+      "onboard_time": 1771493119,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 164054,
@@ -6035,14 +6099,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 145491,
-      "num": 88773,
-      "word": "金价迎来新一轮大涨",
-      "onboard_time": 1771490839,
-      "rank": 32,
-      "category": "财经"
-    },
-    {
       "raw_hot": 145419,
       "num": 225871,
       "word": "这是普通人接触到的行业天花板了",
@@ -6139,6 +6195,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 141413,
+      "num": 141413,
+      "word": "曝Doinb参加TI15预选赛",
+      "onboard_time": 1771491140,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 141358,
       "num": 141358,
       "word": "辽宁春晚收视",
@@ -6193,14 +6257,6 @@
       "onboard_time": 1771159641,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 139606,
-      "num": 139606,
-      "word": "旺旺雪饼vs仙贝",
-      "onboard_time": 1771491021,
-      "rank": 42,
-      "category": "美食"
     },
     {
       "raw_hot": 139429,
@@ -6417,14 +6473,6 @@
       "onboard_time": 1771250858,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 133097,
-      "num": 81026,
-      "word": "曝Doinb参加TI15预选赛",
-      "onboard_time": 1771491140,
-      "rank": 33,
-      "category": "电竞"
     },
     {
       "raw_hot": 133094,
@@ -6763,6 +6811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 123268,
+      "num": 96346,
+      "word": "爸爸除夕独自吃饺子女儿看监控哭了",
+      "onboard_time": 1771494799,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 123187,
       "num": 123187,
       "word": "飞驰人生3林臻东到底多有钱",
@@ -6776,14 +6832,6 @@
       "word": "张杰说徐梦桃是中国的骄傲",
       "onboard_time": 1771486399,
       "rank": 14,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 122605,
-      "num": 78638,
-      "word": "我将学会谷爱凌这个大笑方式",
-      "onboard_time": 1771490958,
-      "rank": 40,
       "category": "体育"
     },
     {
@@ -7203,6 +7251,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 113079,
+      "num": 113079,
+      "word": "俞灏明做猪肝一个活口都不留",
+      "onboard_time": 1771489998,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 112904,
       "num": 112904,
       "word": "刘诗诗回应每场戏都在流泪",
@@ -7345,6 +7401,14 @@
       "onboard_time": 1771415541,
       "rank": 47,
       "category": "网红"
+    },
+    {
+      "raw_hot": 109720,
+      "num": 95158,
+      "word": "刘烨妻子晒女儿骑马照",
+      "onboard_time": 1771494080,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 109627,
@@ -7523,14 +7587,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 106088,
-      "num": 91041,
-      "word": "俞灏明做猪肝一个活口都不留",
-      "onboard_time": 1771489998,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 106078,
       "num": 106078,
       "word": "TF四代川渝春晚新歌初舞台",
@@ -7649,6 +7705,14 @@
       "onboard_time": 1771379359,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 103792,
+      "num": 95397,
+      "word": "鲍鱼壳 除蟑螂",
+      "onboard_time": 1771493180,
+      "rank": 30,
+      "category": "科学科普"
     },
     {
       "raw_hot": 103774,
@@ -7987,14 +8051,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 98422,
-      "num": 82115,
-      "word": "阿沁自曝和刘阳分开后谈过两段感情",
-      "onboard_time": 1771491859,
-      "rank": 29,
-      "category": "网红"
-    },
-    {
       "raw_hot": 98396,
       "num": 98396,
       "word": "汪苏泷长李现笑点上了吧",
@@ -8097,6 +8153,14 @@
       "onboard_time": 1771381100,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 95088,
+      "num": 95088,
+      "word": "双轨还有售后",
+      "onboard_time": 1771494680,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 94980,
@@ -8587,6 +8651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 86029,
+      "num": 86029,
+      "word": "尔滨气温让冰雪大世界临时闭园了",
+      "onboard_time": 1771490299,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85921,
       "num": 92952,
       "word": "你家姑爷今天贡献了什么名场面",
@@ -8689,14 +8761,6 @@
       "onboard_time": 1771390221,
       "rank": 33,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 83742,
-      "num": 83742,
-      "word": "尔滨气温让冰雪大世界临时闭园了",
-      "onboard_time": 1771490299,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 83587,
@@ -9211,6 +9275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 77706,
+      "num": 77706,
+      "word": "岳云鹏曾找郭德纲告状孙越",
+      "onboard_time": 1771493360,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 77699,
       "num": 221119,
       "word": "无法融入猴群小猴一直抱着玩偶",
@@ -9363,6 +9435,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 76348,
+      "num": 98587,
+      "word": "尹锡悦听宣判后叹气面色凝重",
+      "onboard_time": 1771494019,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 76240,
+      "num": 91965,
+      "word": "过年 二手烟",
+      "onboard_time": 1771492219,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 76238,
       "num": 93424,
       "word": "谷爱凌大雪中完成U池训练",
@@ -9385,14 +9473,6 @@
       "onboard_time": 1771133479,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 75987,
-      "num": 75987,
-      "word": "高层看烟花有多吓人",
-      "onboard_time": 1771491560,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 75756,
@@ -9435,6 +9515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 75480,
+      "num": 75480,
+      "word": "园方回应幼儿园现烧脑春联",
+      "onboard_time": 1771492821,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75246,
       "num": 75246,
       "word": "飞驰人生3争气争气再争气",
@@ -9475,6 +9563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 74844,
+      "num": 74844,
+      "word": "伊朗",
+      "onboard_time": 1771494740,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 74784,
       "num": 124178,
       "word": "抽中豆包科技大礼的人找到了",
@@ -9513,6 +9609,14 @@
       "onboard_time": 1771123458,
       "rank": 44,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 74348,
+      "num": 74348,
+      "word": "小猫咪能有什么坏心思",
+      "onboard_time": 1771494320,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 74232,
@@ -9947,6 +10051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 69528,
+      "num": 69528,
+      "word": "女子过年散步路边水沟捞出800元",
+      "onboard_time": 1771494140,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69526,
       "num": 203531,
       "word": "美国AI大牛盛赞杨丽萍千问节目",
@@ -10065,6 +10177,14 @@
       "onboard_time": 1771464681,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 68565,
+      "num": 68565,
+      "word": "孟子义这该死的甜美",
+      "onboard_time": 1771492398,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 68526,
@@ -10281,6 +10401,14 @@
       "onboard_time": 1771335562,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 66636,
+      "num": 66636,
+      "word": "Doinb转型DOTA2选手",
+      "onboard_time": 1771493959,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 66569,
@@ -10675,6 +10803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 61992,
+      "num": 61992,
+      "word": "狼犬误入冬奥赛道求摸摸",
+      "onboard_time": 1771493899,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 61975,
       "num": 61975,
       "word": "女孩子可以喜欢各种颜色",
@@ -10795,28 +10931,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 60570,
-      "num": 60570,
-      "word": "过年 二手烟",
-      "onboard_time": 1771492219,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 60530,
       "num": 57414,
       "word": "父母出门孩子点外卖招待亲戚",
       "onboard_time": 1771370716,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 60432,
-      "num": 60432,
-      "word": "秦新宇回应有儿子",
-      "onboard_time": 1771492279,
-      "rank": 46,
-      "category": "网红"
     },
     {
       "raw_hot": 60345,
@@ -12481,6 +12601,14 @@
       "onboard_time": 1771396159,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30374,
+      "num": 75124,
+      "word": "美国首都因污水泄漏进入紧急状态",
+      "onboard_time": 1771494019,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 30175,
