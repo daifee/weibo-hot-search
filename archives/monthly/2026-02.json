@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1771545291141,
+  "endTime": 1771555147866,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -497,6 +497,14 @@
       "onboard_time": 1770256878,
       "rank": 0,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 2433550,
+      "num": 2433550,
+      "word": "将门独后开机",
+      "onboard_time": 1771553359,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 2362619,
@@ -1083,6 +1091,14 @@
       "category": "互联网,综艺"
     },
     {
+      "raw_hot": 1403986,
+      "num": 809767,
+      "word": "将门独后官宣王鹤棣孟子义",
+      "onboard_time": 1771553539,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1403922,
       "num": 187738,
       "word": "黄子弘凡工作室辟谣",
@@ -1281,6 +1297,14 @@
       "onboard_time": 1771226902,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1235460,
+      "num": 205555,
+      "word": "吴京 我的夫人姓谢",
+      "onboard_time": 1771551499,
+      "rank": 10,
+      "category": "电影,作品衍生"
     },
     {
       "raw_hot": 1232095,
@@ -2833,6 +2857,14 @@
       "onboard_time": 1769929942,
       "rank": 5,
       "category": "休闲,情感"
+    },
+    {
+      "raw_hot": 810793,
+      "num": 467788,
+      "word": "将门毒后",
+      "onboard_time": 1771548979,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 808277,
@@ -6243,6 +6275,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 484540,
+      "num": 1028876,
+      "word": "刘美贤夺冠",
+      "onboard_time": 1771544237,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 484075,
       "num": 252124,
       "word": "王橹杰扔尾戒",
@@ -6305,6 +6345,14 @@
       "onboard_time": 1770542960,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 481733,
+      "num": 481733,
+      "word": "谷爱凌说不是故意吓大家",
+      "onboard_time": 1771551859,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 480940,
@@ -7212,7 +7260,7 @@
     },
     {
       "raw_hot": 436241,
-      "num": 123132,
+      "num": 198116,
       "word": "男子放炮摘除眼球称无法面对5个月女儿",
       "onboard_time": 1771543517,
       "rank": 10,
@@ -7585,6 +7633,14 @@
       "onboard_time": 1771051039,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 420405,
+      "num": 420405,
+      "word": "大年初四 扔穷",
+      "onboard_time": 1771550359,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 420216,
@@ -8241,6 +8297,14 @@
       "onboard_time": 1770792860,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 396317,
+      "num": 204389,
+      "word": "原来亲戚们都是故意的",
+      "onboard_time": 1771552339,
+      "rank": 11,
+      "category": "幽默"
     },
     {
       "raw_hot": 395781,
@@ -10139,6 +10203,14 @@
       "category": "民生新闻,动漫"
     },
     {
+      "raw_hot": 339974,
+      "num": 201705,
+      "word": "顾客称被桔子酒店短信恐吓",
+      "onboard_time": 1771550600,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 339973,
       "num": 339973,
       "word": "关晓彤鞋跟卡台上了",
@@ -11009,6 +11081,14 @@
       "onboard_time": 1771258952,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 316991,
+      "num": 114690,
+      "word": "特朗普称奥巴马涉外星人言论泄密",
+      "onboard_time": 1771550540,
+      "rank": 20,
+      "category": "国际时政"
     },
     {
       "raw_hot": 316894,
@@ -12121,6 +12201,14 @@
       "onboard_time": 1771024337,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 295167,
+      "num": 114601,
+      "word": "朱志鑫左航 伯克利",
+      "onboard_time": 1771545498,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 294875,
@@ -13500,7 +13588,7 @@
     },
     {
       "raw_hot": 267078,
-      "num": 65021,
+      "num": 135895,
       "word": "美24岁女子假扮15岁少女诱捕警察",
       "onboard_time": 1771543576,
       "rank": 30,
@@ -14449,6 +14537,14 @@
       "onboard_time": 1771324761,
       "rank": 32,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 250116,
+      "num": 250116,
+      "word": "中国队3金3银4铜",
+      "onboard_time": 1771549040,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 249850,
@@ -18507,14 +18603,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 193109,
-      "num": 193109,
-      "word": "刘美贤夺冠",
-      "onboard_time": 1771544237,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 192838,
       "num": 189770,
       "word": "宋茜说韩语梦回维多利亚",
@@ -18593,6 +18681,14 @@
       "onboard_time": 1770805880,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 191993,
+      "num": 99867,
+      "word": "谷爱凌说我快累死了",
+      "onboard_time": 1771553841,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 191982,
@@ -20347,6 +20443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 171005,
+      "num": 171005,
+      "word": "郭晶晶记不清结婚多少年",
+      "onboard_time": 1771545739,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 170976,
       "num": 170976,
       "word": "张瑞阳短节目59.83分",
@@ -20849,6 +20953,14 @@
       "onboard_time": 1771142421,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 164877,
+      "num": 114329,
+      "word": "一中国公民在奥克兰街头直播被打",
+      "onboard_time": 1771553000,
+      "rank": 22,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 164851,
@@ -21985,6 +22097,14 @@
       "onboard_time": 1769931978,
       "rank": 18,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 153547,
+      "num": 99674,
+      "word": "一家三口返乡途中患病儿子突然离世",
+      "onboard_time": 1771554920,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 153504,
@@ -26755,6 +26875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 122627,
+      "num": 122627,
+      "word": "恩利庾澄庆拜年",
+      "onboard_time": 1771553841,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 122438,
       "num": 1626386,
       "word": "春晚同款被追觅包圆了",
@@ -28411,6 +28539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 115055,
+      "num": 115055,
+      "word": "镖人 CP佛跳墙",
+      "onboard_time": 1771551439,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 115032,
       "num": 115032,
       "word": "辞职当守岛人女高管下岛时哭了",
@@ -28577,6 +28713,14 @@
       "onboard_time": 1771042701,
       "rank": 28,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 114276,
+      "num": 114276,
+      "word": "马丽中国电影票房最高女主",
+      "onboard_time": 1771551258,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 114253,
@@ -30299,6 +30443,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 107936,
+      "num": 107936,
+      "word": "将门独后造型",
+      "onboard_time": 1771554859,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 107898,
       "num": 104738,
       "word": "王鑫生万物戏份仍在",
@@ -31091,6 +31243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 105144,
+      "num": 114983,
+      "word": "宁忠岩确认夺冠一刻",
+      "onboard_time": 1771547899,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 105138,
       "num": 105138,
       "word": "去了后不祛魅的城市",
@@ -31392,6 +31552,14 @@
       "word": "李荣浩杨丞琳手牵手",
       "onboard_time": 1770179481,
       "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 104200,
+      "num": 104200,
+      "word": "TOP登陆少年官方后援会道歉",
+      "onboard_time": 1771544898,
+      "rank": 40,
       "category": "艺人"
     },
     {
@@ -31819,6 +31987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 102834,
+      "num": 108744,
+      "word": "谷爱凌为好友受伤而落泪",
+      "onboard_time": 1771554499,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 102783,
       "num": 102783,
       "word": "谷爱凌领奖前赶紧补个妆",
@@ -31849,6 +32025,14 @@
       "onboard_time": 1770892999,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 102712,
+      "num": 102712,
+      "word": "女子骑摩托失控坠坡画面火出圈",
+      "onboard_time": 1771549280,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 102706,
@@ -33105,6 +33289,14 @@
       "onboard_time": 1770731602,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 98653,
+      "num": 98653,
+      "word": "小狗醒了但是小狗想睡懒觉",
+      "onboard_time": 1771552458,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 98620,
@@ -36483,6 +36675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 88765,
+      "num": 88765,
+      "word": "中国队升至冬奥奖牌榜第12",
+      "onboard_time": 1771546518,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 88762,
       "num": 88762,
       "word": "任子威说女子500米成绩夸张",
@@ -36713,6 +36913,14 @@
       "onboard_time": 1770278125,
       "rank": 49,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 88241,
+      "num": 88241,
+      "word": "欧洲代表团只能在酒店等待",
+      "onboard_time": 1771549099,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 88233,
@@ -36977,6 +37185,14 @@
       "onboard_time": 1770377601,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 87676,
+      "num": 87676,
+      "word": "特朗普将解密外星生命相关文件",
+      "onboard_time": 1771553539,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 87664,
@@ -37651,6 +37867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 85589,
+      "num": 85589,
+      "word": "王阳跳屋顶着火身材好曼妙",
+      "onboard_time": 1771554258,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 85577,
       "num": 85577,
       "word": "男孩去东北吃几口雪发烧到39.1度",
@@ -38235,6 +38459,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 84009,
+      "num": 84009,
+      "word": "生命树白菊除了杨紫没考虑过别的演员",
+      "onboard_time": 1771552818,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 83969,
       "num": 83969,
       "word": "白鹿赵晴对手戏",
@@ -38608,6 +38840,14 @@
       "word": "初二和初五的财神一样吗",
       "onboard_time": 1771341201,
       "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 82935,
+      "num": 82935,
+      "word": "男子自办春晚1天走完17家亲戚",
+      "onboard_time": 1771554980,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -41283,6 +41523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 76032,
+      "num": 76032,
+      "word": "京嬷",
+      "onboard_time": 1771552399,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 76029,
       "num": 76029,
       "word": "廉子文向对手致歉反遭挥打",
@@ -41473,6 +41721,14 @@
       "onboard_time": 1770457042,
       "rank": 45,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 75306,
+      "num": 75306,
+      "word": "李方慧第二滑90.00分",
+      "onboard_time": 1771551859,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 75300,
@@ -41787,6 +42043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 74597,
+      "num": 74597,
+      "word": "春节机器人卖爆了",
+      "onboard_time": 1771554920,
+      "rank": 43,
+      "category": "数码"
+    },
+    {
       "raw_hot": 74573,
       "num": 74573,
       "word": "郑思维带员工游轮团建6天5夜",
@@ -41945,6 +42209,14 @@
       "onboard_time": 1771512741,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 74164,
+      "num": 74164,
+      "word": "刘昊然票房成绩",
+      "onboard_time": 1771555039,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 74143,
@@ -42283,6 +42555,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 72789,
+      "num": 72789,
+      "word": "宁忠岩夺冠解说激动大喊",
+      "onboard_time": 1771554258,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 72736,
       "num": 85226,
       "word": "孟子义包20场支持王鹤棣星河入梦",
@@ -42537,6 +42817,14 @@
       "onboard_time": 1770652940,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 71825,
+      "num": 71825,
+      "word": "网友又在阿那亚偶遇马龙",
+      "onboard_time": 1771553480,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 71792,
@@ -42913,6 +43201,14 @@
       "onboard_time": 1770191481,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 70664,
+      "num": 74253,
+      "word": "宁忠岩身后三人均打破奥运纪录",
+      "onboard_time": 1771551320,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 70601,
@@ -47475,14 +47771,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 50157,
-      "num": 50157,
-      "word": "TOP登陆少年官方后援会道歉",
-      "onboard_time": 1771544898,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 50154,
       "num": 175146,
       "word": "孩子的压岁钱到底该归谁",
@@ -50996,7 +51284,7 @@
     },
     {
       "raw_hot": 32979,
-      "num": 700531,
+      "num": 814337,
       "word": "他们在天山脚下脚踏冰河巡边",
       "onboard_time": 1771510882,
       "rank": 2,
@@ -53633,6 +53921,14 @@
       "onboard_time": 1770468801,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22482,
+      "num": 83051,
+      "word": "阿育娅 少女的葬礼女王的加冕",
+      "onboard_time": 1771554800,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 22481,
