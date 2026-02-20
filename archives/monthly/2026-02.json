@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1771581187228,
+  "endTime": 1771581979529,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -803,6 +803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1735741,
+      "num": 1735741,
+      "word": "将门独后 天崩开局",
+      "onboard_time": 1771578140,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1724440,
       "num": 809767,
       "word": "将门独后官宣王鹤棣孟子义",
@@ -889,14 +897,6 @@
       "onboard_time": 1771340001,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1612735,
-      "num": 1612735,
-      "word": "将门独后 天崩开局",
-      "onboard_time": 1771578140,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 1611555,
@@ -5707,6 +5707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 528802,
+      "num": 920181,
+      "word": "女子买20元奶茶中奖黄金约25000元",
+      "onboard_time": 1771578679,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 528420,
       "num": 1084547,
       "word": "电影射雕英雄传侠之大者",
@@ -5817,6 +5825,14 @@
       "onboard_time": 1770875480,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 520192,
+      "num": 520192,
+      "word": "男子用AI鉴定玉石8个月收入上百万",
+      "onboard_time": 1771578739,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 518869,
@@ -8219,14 +8235,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 404857,
-      "num": 480118,
-      "word": "女子买20元奶茶中奖黄金约25000元",
-      "onboard_time": 1771578679,
-      "rank": 3,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 404819,
       "num": 228041,
       "word": "男子称亲吻搂抱女子说不算恋爱",
@@ -8952,14 +8960,6 @@
       "word": "新娘称婚宴4000一桌被亲友说最难吃",
       "onboard_time": 1771000699,
       "rank": 11,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 376924,
-      "num": 459868,
-      "word": "男子用AI鉴定玉石8个月收入上百万",
-      "onboard_time": 1771578739,
-      "rank": 4,
       "category": "民生新闻"
     },
     {
@@ -11561,6 +11561,14 @@
       "onboard_time": 1770117260,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 313037,
+      "num": 313037,
+      "word": "父亲偷拿儿子压岁钱被判返还82750元",
+      "onboard_time": 1771580298,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 313004,
@@ -14859,6 +14867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 249868,
+      "num": 249868,
+      "word": "卖霉豆腐已经有人实操上了",
+      "onboard_time": 1771579820,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 249850,
       "num": 249850,
       "word": "冬奥会",
@@ -14969,6 +14985,14 @@
       "onboard_time": 1770506356,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 248413,
+      "num": 248413,
+      "word": "剧版镖人",
+      "onboard_time": 1771576820,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 248409,
@@ -15955,6 +15979,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 234223,
+      "num": 234223,
+      "word": "宁忠岩绝杀时刻各国解说员都疯了",
+      "onboard_time": 1771577899,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 234118,
       "num": 296941,
       "word": "千问提醒网友分散下单",
@@ -16169,6 +16201,14 @@
       "onboard_time": 1771126159,
       "rank": 6,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 230347,
+      "num": 230347,
+      "word": "WTT",
+      "onboard_time": 1771579820,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 230331,
@@ -16793,14 +16833,6 @@
       "onboard_time": 1770562583,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 222380,
-      "num": 222380,
-      "word": "剧版镖人",
-      "onboard_time": 1771576820,
-      "rank": 30,
-      "category": "电影"
     },
     {
       "raw_hot": 222221,
@@ -17931,27 +17963,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 206664,
-      "num": 206664,
-      "word": "WTT",
-      "onboard_time": 1771579820,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
       "raw_hot": 206382,
       "num": 206382,
       "word": "苏翊鸣第三跳 裁判压分",
       "onboard_time": 1771418543,
       "rank": 22,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 206314,
-      "num": 206314,
-      "word": "宁忠岩绝杀时刻各国解说员都疯了",
-      "onboard_time": 1771577899,
-      "rank": 39,
       "category": "体育"
     },
     {
@@ -18745,6 +18761,14 @@
       "onboard_time": 1770272064,
       "rank": 46,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 196488,
+      "num": 196488,
+      "word": "谷爱凌赌上职业生涯的一跳",
+      "onboard_time": 1771580479,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 196467,
@@ -21187,14 +21211,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 167808,
-      "num": 167808,
-      "word": "卖霉豆腐已经有人实操上了",
-      "onboard_time": 1771579820,
-      "rank": 18,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 167696,
       "num": 930959,
       "word": "黄镇廷3比1张本智和",
@@ -21408,14 +21424,6 @@
       "word": "丈夫半年收集妻子掉发细心熨烫保存",
       "onboard_time": 1769946922,
       "rank": 26,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 164637,
-      "num": 164637,
-      "word": "父亲偷拿儿子压岁钱被判返还82750元",
-      "onboard_time": 1771580298,
-      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -23827,6 +23835,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 143958,
+      "num": 143958,
+      "word": "黄景瑜你这么演我可要哭了",
+      "onboard_time": 1771581620,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 143890,
       "num": 143890,
       "word": "袁惟仁已与世界断联了四年",
@@ -24363,6 +24379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 140502,
+      "num": 106446,
+      "word": "飞驰3林臻东掏兜是黄景瑜本人",
+      "onboard_time": 1771580899,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 140466,
       "num": 140466,
       "word": "重庆一女生被多人殴打6人被行拘",
@@ -24721,6 +24745,14 @@
       "onboard_time": 1771264399,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 138216,
+      "num": 118754,
+      "word": "王鹤棣观众盘",
+      "onboard_time": 1771580298,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 138130,
@@ -25273,14 +25305,6 @@
       "onboard_time": 1770359300,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 135156,
-      "num": 135156,
-      "word": "谷爱凌赌上职业生涯的一跳",
-      "onboard_time": 1771580479,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 135107,
@@ -27083,6 +27107,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 124110,
+      "num": 124110,
+      "word": "初中生扶人被索赔22万摔倒老人发声",
+      "onboard_time": 1771581499,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 124092,
       "num": 124092,
       "word": "一诺浮潜",
@@ -28249,14 +28281,6 @@
       "onboard_time": 1770468922,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 118754,
-      "num": 118754,
-      "word": "王鹤棣观众盘",
-      "onboard_time": 1771580298,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 118733,
@@ -31147,6 +31171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 107705,
+      "num": 83920,
+      "word": "H2H新歌MV",
+      "onboard_time": 1771580899,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 107634,
       "num": 107634,
       "word": "国产剧终于不演换乘恋爱了",
@@ -33497,14 +33529,6 @@
       "onboard_time": 1770001341,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 100193,
-      "num": 65871,
-      "word": "H2H新歌MV",
-      "onboard_time": 1771580899,
-      "rank": 41,
-      "category": "音乐"
     },
     {
       "raw_hot": 100168,
@@ -36739,6 +36763,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 90789,
+      "num": 90789,
+      "word": "日本冰壶美女撞脸孙燕姿",
+      "onboard_time": 1771581560,
+      "rank": 33,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 90786,
       "num": 90786,
       "word": "陈天润见面会",
@@ -39569,6 +39601,14 @@
       "onboard_time": 1770445462,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 83223,
+      "num": 83223,
+      "word": "台湾上空的歼20之说或许是真的",
+      "onboard_time": 1771581620,
+      "rank": 42,
+      "category": "军事"
     },
     {
       "raw_hot": 83196,
@@ -45267,6 +45307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 66650,
+      "num": 66650,
+      "word": "宁忠岩夺金瞬间父母相拥而泣",
+      "onboard_time": 1771581380,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 66585,
       "num": 66585,
       "word": "张真源清唱",
@@ -47731,6 +47779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 55901,
+      "num": 67731,
+      "word": "檀健次委屈巴巴的告状",
+      "onboard_time": 1771580659,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 55898,
       "num": 106208,
       "word": "易烊千玺累出痛苦面具了",
@@ -49571,14 +49627,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 46704,
-      "num": 67731,
-      "word": "檀健次委屈巴巴的告状",
-      "onboard_time": 1771580659,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 46605,
       "num": 36671,
       "word": "陈都灵丁禹兮关晓彤孟子义张凌赫同台",
@@ -50859,14 +50907,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 40410,
-      "num": 66851,
-      "word": "飞驰3林臻东掏兜是黄景瑜本人",
-      "onboard_time": 1771580899,
-      "rank": 39,
-      "category": "电影"
-    },
-    {
       "raw_hot": 40366,
       "num": 40366,
       "word": "三角洲",
@@ -52011,6 +52051,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 34343,
+      "num": 85415,
+      "word": "女生扶老人被索赔应依法定责止争议",
+      "onboard_time": 1771581920,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34284,
       "num": 34284,
       "word": "意大利人的审美",
@@ -52152,6 +52200,14 @@
       "word": "春运加开哪趟车由候补订单说了算",
       "onboard_time": 1771081823,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33740,
+      "num": 87199,
+      "word": "父亲再婚偷拿10岁儿子8万压岁钱",
+      "onboard_time": 1771581859,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -53995,6 +54051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26102,
+      "num": 166154,
+      "word": "春节人形机器人都在忙啥",
+      "onboard_time": 1771580659,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 26086,
       "num": 26086,
       "word": "谷爱凌米兰冬奥还有2个项目",
@@ -55017,6 +55081,14 @@
       "onboard_time": 1770468801,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22581,
+      "num": 89116,
+      "word": "科技汽车就选鸿蒙智行",
+      "onboard_time": 1771581859,
+      "rank": 35,
+      "category": "汽车"
     },
     {
       "raw_hot": 22482,
@@ -56377,14 +56449,6 @@
       "onboard_time": 1770800421,
       "rank": 37,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 17638,
-      "num": 166154,
-      "word": "春节人形机器人都在忙啥",
-      "onboard_time": 1771580659,
-      "rank": 19,
-      "category": "互联网"
     },
     {
       "raw_hot": 17626,

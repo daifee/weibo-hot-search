@@ -1,0 +1,410 @@
+{
+  "runTime": 1771581979529,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1735741,
+        "num": 1735741,
+        "word": "将门独后 天崩开局",
+        "onboard_time": 1771578140,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 528802,
+        "num": 920181,
+        "word": "女子买20元奶茶中奖黄金约25000元",
+        "onboard_time": 1771578679,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20145,
+        "num": 711053,
+        "word": "每一位中国冰雪健儿都闪闪发光",
+        "onboard_time": 1771575799,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 520192,
+        "num": 520192,
+        "word": "男子用AI鉴定玉石8个月收入上百万",
+        "onboard_time": 1771578739,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 321365,
+        "num": 321365,
+        "word": "吴京 我的夫人姓谢",
+        "onboard_time": 1771551499,
+        "rank": 4,
+        "category": "电影,作品衍生"
+      },
+      {
+        "raw_hot": 406383,
+        "num": 320697,
+        "word": "充电器一拔又是一年",
+        "onboard_time": 1771577360,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 313037,
+        "num": 313037,
+        "word": "父亲偷拿儿子压岁钱被判返还82750元",
+        "onboard_time": 1771580298,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 258704,
+        "num": 258704,
+        "word": "广东地震",
+        "onboard_time": 1771569500,
+        "rank": 7,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 249868,
+        "num": 249868,
+        "word": "卖霉豆腐已经有人实操上了",
+        "onboard_time": 1771579820,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 248413,
+        "num": 248413,
+        "word": "剧版镖人",
+        "onboard_time": 1771576820,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 292377,
+        "num": 243783,
+        "word": "王腾回应换iPhone17",
+        "onboard_time": 1771575799,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 234223,
+        "num": 234223,
+        "word": "宁忠岩绝杀时刻各国解说员都疯了",
+        "onboard_time": 1771577899,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 230347,
+        "num": 230347,
+        "word": "WTT",
+        "onboard_time": 1771579820,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 217115,
+        "num": 217115,
+        "word": "容止 谢景行",
+        "onboard_time": 1771558100,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209318,
+        "num": 209318,
+        "word": "宁忠岩金牌含金量恐怖如斯",
+        "onboard_time": 1771573280,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196488,
+        "num": 196488,
+        "word": "谷爱凌赌上职业生涯的一跳",
+        "onboard_time": 1771580479,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179116,
+        "num": 179116,
+        "word": "露上牙说话和露下牙说话的区别",
+        "onboard_time": 1771573638,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 46777,
+        "num": 176243,
+        "word": "勇敢的陈妍希先享受生活",
+        "onboard_time": 1771578199,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176117,
+        "num": 176117,
+        "word": "扶老人被交警定次责非法院终局依据",
+        "onboard_time": 1771579460,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143958,
+        "num": 143958,
+        "word": "黄景瑜你这么演我可要哭了",
+        "onboard_time": 1771581620,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 406018,
+        "num": 143931,
+        "word": "王乐乐官宣恋情",
+        "onboard_time": 1771574540,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 130162,
+        "num": 130162,
+        "word": "女子回村吃饭被超大电动餐桌惊呆",
+        "onboard_time": 1771578259,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207712,
+        "num": 128694,
+        "word": "金泰亨指责闵熙珍泄露聊天记录",
+        "onboard_time": 1771573759,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200466,
+        "num": 126495,
+        "word": "关晓彤发表情后秒删",
+        "onboard_time": 1771561999,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139173,
+        "num": 126377,
+        "word": "将门独后官宣王鹤棣孟子义",
+        "onboard_time": 1771553539,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124110,
+        "num": 124110,
+        "word": "初中生扶人被索赔22万摔倒老人发声",
+        "onboard_time": 1771581499,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140707,
+        "num": 111237,
+        "word": "镖人",
+        "onboard_time": 1771553059,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 140502,
+        "num": 106446,
+        "word": "飞驰3林臻东掏兜是黄景瑜本人",
+        "onboard_time": 1771580899,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 96617,
+        "num": 96617,
+        "word": "儿子寒假睡到中午爸爸不许家人打扰",
+        "onboard_time": 1771569620,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96336,
+        "num": 96336,
+        "word": "解放军有效处置美军在黄海活动",
+        "onboard_time": 1771576040,
+        "rank": 29,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 26102,
+        "num": 93545,
+        "word": "春节人形机器人都在忙啥",
+        "onboard_time": 1771580659,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 135943,
+        "num": 92857,
+        "word": "穆祉丞 海口",
+        "onboard_time": 1771575860,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139400,
+        "num": 92036,
+        "word": "镖人改编 删吻戏",
+        "onboard_time": 1771564819,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 90789,
+        "num": 90789,
+        "word": "日本冰壶美女撞脸孙燕姿",
+        "onboard_time": 1771581560,
+        "rank": 33,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 138216,
+        "num": 89852,
+        "word": "王鹤棣观众盘",
+        "onboard_time": 1771580298,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22581,
+        "num": 89116,
+        "word": "科技汽车就选鸿蒙智行",
+        "onboard_time": 1771581859,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 288415,
+        "num": 87997,
+        "word": "无接触事故扶老人女生该不该担责",
+        "onboard_time": 1771575259,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33740,
+        "num": 87199,
+        "word": "父亲再婚偷拿10岁儿子8万压岁钱",
+        "onboard_time": 1771581859,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134042,
+        "num": 86954,
+        "word": "将门独后开机",
+        "onboard_time": 1771553359,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34343,
+        "num": 85415,
+        "word": "女生扶老人被索赔应依法定责止争议",
+        "onboard_time": 1771581920,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125272,
+        "num": 85101,
+        "word": "于适半夜三点还在刷二创",
+        "onboard_time": 1771579820,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107705,
+        "num": 83920,
+        "word": "H2H新歌MV",
+        "onboard_time": 1771580899,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 83223,
+        "num": 83223,
+        "word": "台湾上空的歼20之说或许是真的",
+        "onboard_time": 1771581620,
+        "rank": 42,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 32346,
+        "num": 69072,
+        "word": "王兴兴说宇树的对手就是自己",
+        "onboard_time": 1771578380,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 97535,
+        "num": 68739,
+        "word": "杨清柠祝福王乐乐",
+        "onboard_time": 1771573100,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 89361,
+        "num": 68502,
+        "word": "悉尼偶遇张极张峻豪",
+        "onboard_time": 1771572440,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66650,
+        "num": 66650,
+        "word": "宁忠岩夺金瞬间父母相拥而泣",
+        "onboard_time": 1771581380,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87073,
+        "num": 66594,
+        "word": "张元英ins更新",
+        "onboard_time": 1771576580,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55901,
+        "num": 66546,
+        "word": "檀健次委屈巴巴的告状",
+        "onboard_time": 1771580659,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66525,
+        "num": 66525,
+        "word": "苏翊鸣连考古都是高清的",
+        "onboard_time": 1771572620,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记走进李发顺家的故事#"
+    }
+  }
+}
