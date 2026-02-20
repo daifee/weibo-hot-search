@@ -1,6 +1,6 @@
 {
   "startTime": 1771603272383,
-  "endTime": 1771613981069,
+  "endTime": 1771614823166,
   "band_list": [
     {
       "raw_hot": 1609922,
@@ -611,12 +611,28 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 14402,
-      "num": 20820,
+      "raw_hot": 16619,
+      "num": 22667,
+      "word": "唐宫奇案",
+      "onboard_time": 1771614495,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 14668,
+      "num": 22615,
       "word": "中国队冬奥奖牌获得者7位00后",
       "onboard_time": 1771611795,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 14254,
+      "num": 22606,
+      "word": "人民日报于适访谈完整版",
+      "onboard_time": 1771611076,
+      "rank": 48,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [
