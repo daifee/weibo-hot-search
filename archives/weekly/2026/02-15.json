@@ -1,6 +1,6 @@
 {
   "startTime": 1771087248939,
-  "endTime": 1771598844507,
+  "endTime": 1771600094304,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -435,6 +435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1793431,
+      "num": 482349,
+      "word": "妈祖女孩被换神轿抬不动请回",
+      "onboard_time": 1771594222,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1757992,
       "num": 1757992,
       "word": "转转 对不起大家没钱上春晚",
@@ -553,14 +561,6 @@
       "onboard_time": 1771231343,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1509045,
-      "num": 482349,
-      "word": "妈祖女孩被换神轿抬不动请回",
-      "onboard_time": 1771594222,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1496794,
@@ -1883,6 +1883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 583298,
+      "num": 441131,
+      "word": "将门独后全阵容官宣",
+      "onboard_time": 1771597163,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 580051,
       "num": 580051,
       "word": "沈腾马丽没小品",
@@ -2267,14 +2275,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 501988,
-      "num": 413256,
-      "word": "将门独后全阵容官宣",
-      "onboard_time": 1771597163,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 501410,
       "num": 469212,
       "word": "鸡景房",
@@ -2377,6 +2377,14 @@
       "onboard_time": 1771554859,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 477019,
+      "num": 477019,
+      "word": "徐梦桃回应王心迪夺冠",
+      "onboard_time": 1771599802,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 475196,
@@ -3931,6 +3939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 308486,
+      "num": 308486,
+      "word": "将门独后",
+      "onboard_time": 1771596324,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 308249,
       "num": 1732791,
       "word": "新年祝福语",
@@ -4019,6 +4035,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 299380,
+      "num": 241737,
+      "word": "杨幂无意中摔出来意外的感觉",
+      "onboard_time": 1771597403,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 298791,
       "num": 256090,
       "word": "伊朗",
@@ -4105,14 +4129,6 @@
       "onboard_time": 1771326800,
       "rank": 33,
       "category": "电影"
-    },
-    {
-      "raw_hot": 294247,
-      "num": 294247,
-      "word": "将门独后",
-      "onboard_time": 1771596324,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 293762,
@@ -4915,6 +4931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 253599,
+      "num": 253599,
+      "word": "王心迪手套上有颗桃",
+      "onboard_time": 1771598182,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 252879,
       "num": 241329,
       "word": "朕与吴京何时有过嫌隙",
@@ -5113,14 +5137,6 @@
       "onboard_time": 1771405819,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 241634,
-      "num": 241634,
-      "word": "杨幂无意中摔出来意外的感觉",
-      "onboard_time": 1771597403,
-      "rank": 16,
-      "category": "电影"
     },
     {
       "raw_hot": 241486,
@@ -5721,14 +5737,6 @@
       "onboard_time": 1771300161,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 217207,
-      "num": 217207,
-      "word": "王心迪手套上有颗桃",
-      "onboard_time": 1771598182,
-      "rank": 20,
-      "category": "体育"
     },
     {
       "raw_hot": 216855,
@@ -6971,6 +6979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 166967,
+      "num": 166967,
+      "word": "徐梦桃拥抱王心迪",
+      "onboard_time": 1771599201,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 166819,
       "num": 166819,
       "word": "齐广璞王心迪晋级决赛",
@@ -6993,6 +7009,14 @@
       "onboard_time": 1771263262,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 165479,
+      "num": 98542,
+      "word": "中国游客赴日人数暴跌日媒回应没影响",
+      "onboard_time": 1771600041,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 165208,
@@ -7147,6 +7171,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 159733,
+      "num": 159733,
+      "word": "王心迪曾两次资格赛被挡在门外",
+      "onboard_time": 1771599201,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 159718,
       "num": 582657,
       "word": "被王毅痛斥后日本急了",
@@ -7177,6 +7209,14 @@
       "onboard_time": 1771301901,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 159306,
+      "num": 159306,
+      "word": "最强大脑变大型分手现场",
+      "onboard_time": 1771597163,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 159299,
@@ -7384,14 +7424,6 @@
       "word": "春晚总导演说贺花神非常非常难",
       "onboard_time": 1771372396,
       "rank": 30,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 152516,
-      "num": 152516,
-      "word": "最强大脑变大型分手现场",
-      "onboard_time": 1771597163,
-      "rank": 25,
       "category": "综艺"
     },
     {
@@ -7723,6 +7755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 143744,
+      "num": 96760,
+      "word": "王心迪采访提到徐梦桃眼睛亮了",
+      "onboard_time": 1771599623,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 143535,
       "num": 126872,
       "word": "飞驰人生3赢麻了",
@@ -7961,6 +8001,14 @@
       "onboard_time": 1771512501,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 137301,
+      "num": 95676,
+      "word": "苏翊鸣祝贺王心迪",
+      "onboard_time": 1771599024,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 137104,
@@ -9003,6 +9051,14 @@
       "category": "综艺,互联网"
     },
     {
+      "raw_hot": 114881,
+      "num": 114881,
+      "word": "中国队4金3银5铜",
+      "onboard_time": 1771598182,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 114699,
       "num": 109080,
       "word": "苏翊鸣将备战下一届冬奥",
@@ -9073,6 +9129,14 @@
       "onboard_time": 1771231523,
       "rank": 12,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 113734,
+      "num": 94214,
+      "word": "苏翊鸣昨天刚和徐梦桃王心迪合影",
+      "onboard_time": 1771599442,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 113696,
@@ -9947,6 +10011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 101200,
+      "num": 101200,
+      "word": "王建华 大状师",
+      "onboard_time": 1771599682,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 101148,
       "num": 101148,
       "word": "祭祖闯祸",
@@ -10155,6 +10227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 98962,
+      "num": 98962,
+      "word": "镖人总成本",
+      "onboard_time": 1771596922,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 98884,
       "num": 89430,
       "word": "葛夕回应上春晚",
@@ -10313,14 +10393,6 @@
       "onboard_time": 1771220842,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 96457,
-      "num": 96082,
-      "word": "镖人总成本",
-      "onboard_time": 1771596922,
-      "rank": 36,
-      "category": "电影"
     },
     {
       "raw_hot": 96239,
@@ -10659,6 +10731,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 92146,
+      "num": 92146,
+      "word": "新年最无语的烟花出现了",
+      "onboard_time": 1771599024,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 92054,
       "num": 92054,
       "word": "机器人跳舞摔倒小伙查看时脸被踢破",
@@ -10857,6 +10937,14 @@
       "onboard_time": 1771145239,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 89737,
+      "num": 89737,
+      "word": "苏翊鸣说拿到坡面障碍金牌非常伟大",
+      "onboard_time": 1771599981,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 89696,
@@ -12745,6 +12833,14 @@
       "onboard_time": 1771553480,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 71770,
+      "num": 77109,
+      "word": "九尾这摄影技术有感觉吗",
+      "onboard_time": 1771596263,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 71722,
@@ -17590,6 +17686,9 @@
     },
     {
       "word": "#总书记走进李发顺家的故事#"
+    },
+    {
+      "word": "#千年文脉川流不息#"
     }
   ]
 }
