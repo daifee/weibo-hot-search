@@ -1,6 +1,6 @@
 {
   "startTime": 1771603272383,
-  "endTime": 1771606343524,
+  "endTime": 1771607304575,
   "band_list": [
     {
       "raw_hot": 1609922,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 489495,
-      "num": 489495,
+      "num": 493387,
       "word": "将门独后 天崩开局",
       "onboard_time": 1771578140,
       "rank": 5,
@@ -75,8 +75,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 335102,
-      "num": 335102,
+      "raw_hot": 355031,
+      "num": 355031,
       "word": "王心迪夺冠后李天马大喊回家生孩子",
       "onboard_time": 1771604300,
       "rank": 4,
@@ -97,6 +97,14 @@
       "onboard_time": 1771600041,
       "rank": 11,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 220986,
+      "num": 220986,
+      "word": "世界难度第一人齐广璞",
+      "onboard_time": 1771603880,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 219431,
@@ -139,14 +147,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 171150,
-      "num": 71652,
-      "word": "世界难度第一人齐广璞",
-      "onboard_time": 1771603880,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 151815,
       "num": 151815,
       "word": "瑞幸 村里",
@@ -177,6 +177,14 @@
       "onboard_time": 1771588101,
       "rank": 22,
       "category": "美食"
+    },
+    {
+      "raw_hot": 131719,
+      "num": 83255,
+      "word": "初五迎财神",
+      "onboard_time": 1771606578,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 125983,
@@ -211,12 +219,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 105498,
+      "raw_hot": 109903,
       "num": 92055,
       "word": "你敢不敢用一年时间重启自己",
       "onboard_time": 1771604541,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 104972,
+      "num": 80019,
+      "word": "将门独后领衔主演杨仕泽姚弛",
+      "onboard_time": 1771604121,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 102514,
@@ -275,15 +291,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 79988,
-      "num": 79988,
-      "word": "将门独后领衔主演杨仕泽姚弛",
-      "onboard_time": 1771604121,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 79234,
+      "raw_hot": 80991,
       "num": 136265,
       "word": "美最高法院裁定特朗普关税违法",
       "onboard_time": 1771602981,
@@ -305,6 +313,22 @@
       "onboard_time": 1771591520,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 76378,
+      "num": 76378,
+      "word": "冬奥会速度滑冰女子1500米",
+      "onboard_time": 1771605140,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 74938,
+      "num": 74938,
+      "word": "谷爱凌进了第三个决赛",
+      "onboard_time": 1771606578,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 73729,
@@ -344,14 +368,6 @@
       "word": "苏翊鸣祝贺王心迪",
       "onboard_time": 1771599024,
       "rank": 40,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 71040,
-      "num": 71040,
-      "word": "冬奥会速度滑冰女子1500米",
-      "onboard_time": 1771605140,
-      "rank": 31,
       "category": "体育"
     },
     {
@@ -419,6 +435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 62967,
+      "num": 62967,
+      "word": "方大同去世一周年",
+      "onboard_time": 1771606938,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 60955,
       "num": 60955,
       "word": "王心迪采访",
@@ -441,6 +465,14 @@
       "onboard_time": 1771605078,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 52369,
+      "num": 52369,
+      "word": "徐梦桃说王心迪永远是洗袜子的那个",
+      "onboard_time": 1771606518,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 46994,
@@ -467,11 +499,35 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 38177,
+      "raw_hot": 39961,
+      "num": 49209,
+      "word": "有涉论文代写作者3年内不得晋级",
+      "onboard_time": 1771606338,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39403,
+      "num": 49198,
+      "word": "岁月有情时",
+      "onboard_time": 1771588402,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 39333,
       "num": 65783,
       "word": "中国队4金3银5铜",
       "onboard_time": 1771598182,
       "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 39262,
+      "num": 49185,
+      "word": "王心迪李天马把后背交给了对方",
+      "onboard_time": 1771606998,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -510,6 +566,9 @@
   "hotgov_list": [
     {
       "word": "#总书记走进李发顺家的故事#"
+    },
+    {
+      "word": "#千年文脉川流不息#"
     }
   ]
 }
