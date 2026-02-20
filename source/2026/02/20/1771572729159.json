@@ -1,0 +1,410 @@
+{
+  "runTime": 1771572729159,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1814102,
+        "num": 1814102,
+        "word": "广东地震",
+        "onboard_time": 1771569500,
+        "rank": 0,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 663263,
+        "num": 910041,
+        "word": "容止 谢景行",
+        "onboard_time": 1771558100,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23980,
+        "num": 714337,
+        "word": "骑马踏雪巡逻的边防战士",
+        "onboard_time": 1771558338,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 495705,
+        "num": 495705,
+        "word": "初中生扶摔倒女子遭索赔22万将开庭",
+        "onboard_time": 1771568958,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 473411,
+        "num": 473411,
+        "word": "将门独后官宣王鹤棣孟子义",
+        "onboard_time": 1771553539,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 501410,
+        "num": 469212,
+        "word": "鸡景房",
+        "onboard_time": 1771566440,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 449424,
+        "num": 449424,
+        "word": "吴京 我的夫人姓谢",
+        "onboard_time": 1771551499,
+        "rank": 6,
+        "category": "电影,作品衍生"
+      },
+      {
+        "raw_hot": 387057,
+        "num": 387057,
+        "word": "内蒙古男子因喂流浪猫被杀害",
+        "onboard_time": 1771564339,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 262689,
+        "num": 262689,
+        "word": "短剧上星",
+        "onboard_time": 1771565001,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174522,
+        "num": 174522,
+        "word": "谷爱凌妈妈眼圈哭红了",
+        "onboard_time": 1771557140,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 345925,
+        "num": 174440,
+        "word": "关晓彤发表情后秒删",
+        "onboard_time": 1771561999,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 334385,
+        "num": 174351,
+        "word": "吴京跳刀马 扣了16次扳机",
+        "onboard_time": 1771565540,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 286717,
+        "num": 174288,
+        "word": "深圳震感",
+        "onboard_time": 1771569740,
+        "rank": 12,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 223061,
+        "num": 174170,
+        "word": "镖人改编 删吻戏",
+        "onboard_time": 1771564819,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 209214,
+        "num": 174056,
+        "word": "80岁老人把金手镯做成5枚金戒指",
+        "onboard_time": 1771563020,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39647,
+        "num": 173956,
+        "word": "沃尔沃XC70绝望冰壶挑战",
+        "onboard_time": 1771570999,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 206245,
+        "num": 173838,
+        "word": "将门独后开机",
+        "onboard_time": 1771553359,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188136,
+        "num": 173777,
+        "word": "一家三口返乡途中患病儿子突然离世",
+        "onboard_time": 1771554920,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157032,
+        "num": 173655,
+        "word": "500块压岁钱发出5万的感觉",
+        "onboard_time": 1771557079,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 46698,
+        "num": 173607,
+        "word": "女子订洛杉矶民宿入住当天遭取消",
+        "onboard_time": 1771571779,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223574,
+        "num": 173516,
+        "word": "儿子寒假睡到中午爸爸不许家人打扰",
+        "onboard_time": 1771569620,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173422,
+        "num": 173422,
+        "word": "金泰亨说illit像newjeans",
+        "onboard_time": 1771560859,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160610,
+        "num": 160610,
+        "word": "陈妍希 勇敢的姐姐先收获李雾",
+        "onboard_time": 1771570699,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143742,
+        "num": 143742,
+        "word": "贫穷最可怕的是贫穷的思维基因",
+        "onboard_time": 1771560198,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 125558,
+        "num": 125558,
+        "word": "于正金粉红包 还没领完",
+        "onboard_time": 1771563800,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117738,
+        "num": 117738,
+        "word": "镖人",
+        "onboard_time": 1771553059,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 112098,
+        "num": 117621,
+        "word": "宁夏地震",
+        "onboard_time": 1771560558,
+        "rank": 26,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 117619,
+        "num": 117619,
+        "word": "孟子义沈妙的一滴泪",
+        "onboard_time": 1771567639,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113420,
+        "num": 113420,
+        "word": "黄一鸣回应长得像刘亦菲",
+        "onboard_time": 1771561880,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69930,
+        "num": 111261,
+        "word": "手术室为什么会放花生米",
+        "onboard_time": 1771558160,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 111115,
+        "num": 111115,
+        "word": "将门独后原著 大女主",
+        "onboard_time": 1771556179,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106403,
+        "num": 106403,
+        "word": "将门毒后",
+        "onboard_time": 1771548979,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95193,
+        "num": 95193,
+        "word": "命里有财具象化",
+        "onboard_time": 1771569438,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 94586,
+        "num": 94586,
+        "word": "女子疑似输液过敏导致不适身亡",
+        "onboard_time": 1771556719,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94529,
+        "num": 94529,
+        "word": "徐志胜回家过年忙成接客松",
+        "onboard_time": 1771568000,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93900,
+        "num": 93900,
+        "word": "张极悉尼到达",
+        "onboard_time": 1771571240,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92989,
+        "num": 92989,
+        "word": "五年了沃尔沃总裁怎么还在玩命",
+        "onboard_time": 1771563860,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 90334,
+        "num": 90334,
+        "word": "男子连番自摸突然栽倒血压200多",
+        "onboard_time": 1771562840,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86158,
+        "num": 86158,
+        "word": "夜王",
+        "onboard_time": 1771565001,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 79858,
+        "num": 79858,
+        "word": "短剧霸总都是黄晓明玩剩下的",
+        "onboard_time": 1771570520,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 72091,
+        "num": 72091,
+        "word": "低山臭水遇知音",
+        "onboard_time": 1771572199,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 87946,
+        "num": 72015,
+        "word": "悉尼偶遇张极张峻豪",
+        "onboard_time": 1771572440,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78450,
+        "num": 71983,
+        "word": "前TVB演员赵希洛官宣结婚",
+        "onboard_time": 1771568779,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71846,
+        "num": 71846,
+        "word": "宁忠岩金牌",
+        "onboard_time": 1771519938,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 73151,
+        "num": 71834,
+        "word": "复仇的决心 张小斐",
+        "onboard_time": 1771567401,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 71816,
+        "num": 71816,
+        "word": "珠海震感",
+        "onboard_time": 1771569740,
+        "rank": 45,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 71224,
+        "num": 71224,
+        "word": "春节机器人卖爆了",
+        "onboard_time": 1771554920,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 70304,
+        "num": 70304,
+        "word": "中国队还有三个夺金点",
+        "onboard_time": 1771559241,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 69204,
+        "num": 69204,
+        "word": "苏翊鸣连考古都是高清的",
+        "onboard_time": 1771572620,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 68241,
+        "num": 68241,
+        "word": "中国男子新西兰直播遭十余人抢劫",
+        "onboard_time": 1771569500,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记谈自己最大的心愿#"
+    }
+  }
+}

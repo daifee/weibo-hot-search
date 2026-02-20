@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1771571461029,
+  "endTime": 1771572729159,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -6067,6 +6067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 501410,
+      "num": 469212,
+      "word": "鸡景房",
+      "onboard_time": 1771566440,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 501380,
       "num": 868147,
       "word": "政务窗口工作人员8年收好处费1614万",
@@ -6161,6 +6169,14 @@
       "onboard_time": 1770525080,
       "rank": 30,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 495705,
+      "num": 495705,
+      "word": "初中生扶摔倒女子遭索赔22万将开庭",
+      "onboard_time": 1771568958,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 495579,
@@ -9025,14 +9041,6 @@
       "onboard_time": 1771067781,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 373934,
-      "num": 373934,
-      "word": "鸡景房",
-      "onboard_time": 1771566440,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 373899,
@@ -14171,14 +14179,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 259542,
-      "num": 259542,
-      "word": "初中生扶摔倒女子遭索赔22万将开庭",
-      "onboard_time": 1771568958,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 259428,
       "num": 242350,
       "word": "成何体统大结局 仓促",
@@ -16585,6 +16585,14 @@
       "onboard_time": 1770196520,
       "rank": 7,
       "category": "演出"
+    },
+    {
+      "raw_hot": 223574,
+      "num": 185042,
+      "word": "儿子寒假睡到中午爸爸不许家人打扰",
+      "onboard_time": 1771569620,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 223520,
@@ -19467,14 +19475,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 185042,
-      "num": 185042,
-      "word": "儿子寒假睡到中午爸爸不许家人打扰",
-      "onboard_time": 1771569620,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 184798,
       "num": 145337,
       "word": "网传杨博文饰演周扬",
@@ -21603,6 +21603,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 160610,
+      "num": 160610,
+      "word": "陈妍希 勇敢的姐姐先收获李雾",
+      "onboard_time": 1771570699,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 160541,
       "num": 160541,
       "word": "亚洲杯颁奖",
@@ -23161,14 +23169,6 @@
       "onboard_time": 1771388598,
       "rank": 23,
       "category": "电影"
-    },
-    {
-      "raw_hot": 147751,
-      "num": 147751,
-      "word": "陈妍希 勇敢的姐姐先收获李雾",
-      "onboard_time": 1771570699,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 147748,
@@ -29667,6 +29667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 112098,
+      "num": 117621,
+      "word": "宁夏地震",
+      "onboard_time": 1771560558,
+      "rank": 35,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 112089,
       "num": 112089,
       "word": "BLG",
@@ -31385,14 +31393,6 @@
       "onboard_time": 1770991701,
       "rank": 29,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 105752,
-      "num": 105752,
-      "word": "宁夏地震",
-      "onboard_time": 1771560558,
-      "rank": 35,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 105729,
@@ -34835,6 +34835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 95193,
+      "num": 95193,
+      "word": "命里有财具象化",
+      "onboard_time": 1771569438,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 95192,
       "num": 138950,
       "word": "全新QQ用AI重塑小车之王",
@@ -35067,6 +35075,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 94529,
+      "num": 94529,
+      "word": "徐志胜回家过年忙成接客松",
+      "onboard_time": 1771568000,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 94522,
       "num": 86502,
       "word": "时代少年团春晚ilikeulike舞台",
@@ -35297,6 +35313,14 @@
       "onboard_time": 1770376280,
       "rank": 37,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 93900,
+      "num": 93900,
+      "word": "张极悉尼到达",
+      "onboard_time": 1771571240,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 93881,
@@ -37539,6 +37563,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 87946,
+      "num": 72015,
+      "word": "悉尼偶遇张极张峻豪",
+      "onboard_time": 1771572440,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 87929,
       "num": 90313,
       "word": "张柏芝儿子身高",
@@ -39011,14 +39043,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 83807,
-      "num": 83807,
-      "word": "命里有财具象化",
-      "onboard_time": 1771569438,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 83803,
       "num": 95035,
       "word": "超负荷的县城学校挤满了疲惫的师生",
@@ -39265,14 +39289,6 @@
       "onboard_time": 1770112162,
       "rank": 47,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 83154,
-      "num": 83154,
-      "word": "徐志胜回家过年忙成接客松",
-      "onboard_time": 1771568000,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 83100,
@@ -39987,14 +40003,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 81226,
-      "num": 81226,
-      "word": "张极悉尼到达",
-      "onboard_time": 1771571240,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 81221,
       "num": 115773,
       "word": "中国冰壶男队vs美国",
@@ -40635,6 +40643,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 79858,
+      "num": 79858,
+      "word": "短剧霸总都是黄晓明玩剩下的",
+      "onboard_time": 1771570520,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 79854,
       "num": 79854,
       "word": "蔡徐坤迪拜音乐节",
@@ -41057,14 +41073,6 @@
       "onboard_time": 1770740420,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 78908,
-      "num": 78908,
-      "word": "短剧霸总都是黄晓明玩剩下的",
-      "onboard_time": 1771570520,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 78904,
@@ -43331,6 +43339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 72091,
+      "num": 72091,
+      "word": "低山臭水遇知音",
+      "onboard_time": 1771572199,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 72052,
       "num": 72052,
       "word": "小米汽车逆袭登顶新能源榜首",
@@ -44123,6 +44139,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 69204,
+      "num": 69204,
+      "word": "苏翊鸣连考古都是高清的",
+      "onboard_time": 1771572620,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 69194,
       "num": 69194,
       "word": "全网最会卖鞋的人出现了",
@@ -44465,6 +44489,14 @@
       "onboard_time": 1770949999,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 68241,
+      "num": 68241,
+      "word": "中国男子新西兰直播遭十余人抢劫",
+      "onboard_time": 1771569500,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 68238,
@@ -49153,6 +49185,14 @@
       "onboard_time": 1770205402,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 46698,
+      "num": 173607,
+      "word": "女子订洛杉矶民宿入住当天遭取消",
+      "onboard_time": 1771571779,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 46605,
@@ -54139,6 +54179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 23980,
+      "num": 851543,
+      "word": "骑马踏雪巡逻的边防战士",
+      "onboard_time": 1771558338,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23964,
       "num": 677143,
       "word": "回家路上随手拍",
@@ -54257,14 +54305,6 @@
       "onboard_time": 1770921136,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 23481,
-      "num": 851543,
-      "word": "骑马踏雪巡逻的边防战士",
-      "onboard_time": 1771558338,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 23476,
