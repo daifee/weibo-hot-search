@@ -1,6 +1,6 @@
 {
   "startTime": 1771517580857,
-  "endTime": 1771572729159,
+  "endTime": 1771574695179,
   "band_list": [
     {
       "raw_hot": 3454416,
@@ -75,6 +75,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 840072,
+      "num": 141933,
+      "word": "王乐乐官宣恋情",
+      "onboard_time": 1771574540,
+      "rank": 10,
+      "category": "网红"
+    },
+    {
       "raw_hot": 810793,
       "num": 467788,
       "word": "将门毒后",
@@ -131,20 +139,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 503853,
+      "num": 495705,
+      "word": "初中生扶摔倒女子遭索赔22万将开庭",
+      "onboard_time": 1771568958,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 501410,
       "num": 469212,
       "word": "鸡景房",
       "onboard_time": 1771566440,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 495705,
-      "num": 495705,
-      "word": "初中生扶摔倒女子遭索赔22万将开庭",
-      "onboard_time": 1771568958,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 484540,
@@ -307,6 +315,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 299713,
+      "num": 137598,
+      "word": "杨清柠祝福王乐乐",
+      "onboard_time": 1771573100,
+      "rank": 13,
+      "category": "网红"
+    },
+    {
       "raw_hot": 297918,
       "num": 297918,
       "word": "男子自办春晚1天走完17家亲戚",
@@ -355,6 +371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 281331,
+      "num": 126066,
+      "word": "悉尼偶遇张极张峻豪",
+      "onboard_time": 1771572440,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 277944,
       "num": 248495,
       "word": "镖人改编 删吻戏",
@@ -385,6 +409,14 @@
       "onboard_time": 1771556179,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 270998,
+      "num": 270998,
+      "word": "命里有财具象化",
+      "onboard_time": 1771569438,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 267078,
@@ -515,6 +547,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 202145,
+      "num": 160610,
+      "word": "陈妍希 勇敢的姐姐先收获李雾",
+      "onboard_time": 1771570699,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 200382,
       "num": 200382,
       "word": "吴京票房成绩位列第二",
@@ -569,6 +609,14 @@
       "onboard_time": 1771511720,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 189408,
+      "num": 139526,
+      "word": "露上牙说话和露下牙说话的区别",
+      "onboard_time": 1771573638,
+      "rank": 12,
+      "category": "幽默"
     },
     {
       "raw_hot": 186876,
@@ -635,14 +683,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 160610,
-      "num": 160610,
-      "word": "陈妍希 勇敢的姐姐先收获李雾",
-      "onboard_time": 1771570699,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 159846,
       "num": 679267,
       "word": "中国队米兰冬奥第3金",
@@ -665,6 +705,14 @@
       "onboard_time": 1771509921,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156009,
+      "num": 119113,
+      "word": "金泰亨指责闵熙珍泄露聊天记录",
+      "onboard_time": 1771573759,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 153370,
@@ -715,20 +763,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144346,
+      "num": 122719,
+      "word": "镖人",
+      "onboard_time": 1771553059,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 142008,
       "num": 156635,
       "word": "五年了沃尔沃总裁怎么还在玩命",
       "onboard_time": 1771563860,
       "rank": 16,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 133952,
-      "num": 122719,
-      "word": "镖人",
-      "onboard_time": 1771553059,
-      "rank": 24,
-      "category": "电影"
     },
     {
       "raw_hot": 132248,
@@ -811,12 +859,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 121510,
+      "num": 113216,
+      "word": "陈平自曝和韦雪前男友做朋友的原因",
+      "onboard_time": 1771572979,
+      "rank": 34,
+      "category": "网红"
+    },
+    {
       "raw_hot": 120642,
       "num": 120642,
       "word": "镖人 CP佛跳墙",
       "onboard_time": 1771551439,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 119242,
+      "num": 119242,
+      "word": "苏翊鸣连考古都是高清的",
+      "onboard_time": 1771572620,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 116551,
+      "num": 116551,
+      "word": "i人过年有的是力气和手段",
+      "onboard_time": 1771574000,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 114276,
@@ -835,12 +907,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 113066,
+      "num": 113066,
+      "word": "宁忠岩金牌含金量恐怖如斯",
+      "onboard_time": 1771573280,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 112665,
       "num": 112665,
       "word": "这部剧一个流量生都没有",
       "onboard_time": 1771559059,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 112509,
+      "num": 112509,
+      "word": "撒贝宁主持一半找不到龙洋了",
+      "onboard_time": 1771573879,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 112224,
@@ -857,6 +945,14 @@
       "onboard_time": 1771560558,
       "rank": 35,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 111568,
+      "num": 111568,
+      "word": "美国拦截多架俄罗斯军机",
+      "onboard_time": 1771574000,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 110293,
@@ -979,6 +1075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 99583,
+      "num": 97550,
+      "word": "一路高速免费到家门口收费了",
+      "onboard_time": 1771572739,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 98871,
       "num": 98871,
       "word": "过年发朋友圈要多800个心眼",
@@ -1003,6 +1107,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 97673,
+      "num": 173607,
+      "word": "女子订洛杉矶民宿入住当天遭取消",
+      "onboard_time": 1771571779,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96235,
       "num": 96235,
       "word": "白鹿代露娃二搭疯批对疯批",
@@ -1025,14 +1137,6 @@
       "onboard_time": 1771568779,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 95193,
-      "num": 95193,
-      "word": "命里有财具象化",
-      "onboard_time": 1771569438,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 94529,
@@ -1179,14 +1283,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 87946,
-      "num": 72015,
-      "word": "悉尼偶遇张极张峻豪",
-      "onboard_time": 1771572440,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 87676,
       "num": 87676,
       "word": "特朗普将解密外星生命相关文件",
@@ -1267,12 +1363,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 83503,
+      "num": 83503,
+      "word": "低山臭水遇知音",
+      "onboard_time": 1771572199,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 83377,
       "num": 83377,
       "word": "土豆的100种死法",
       "onboard_time": 1771567040,
       "rank": 45,
       "category": "美食"
+    },
+    {
+      "raw_hot": 83262,
+      "num": 83262,
+      "word": "春晚舞台比你想象中要小",
+      "onboard_time": 1771573819,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 82408,
@@ -1344,6 +1456,14 @@
       "word": "拜年拜到园长家3岁萌娃崩溃大哭",
       "onboard_time": 1771542736,
       "rank": 32,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 77370,
+      "num": 77370,
+      "word": "你家是开银行的啊",
+      "onboard_time": 1771574660,
+      "rank": 47,
       "category": "幽默"
     },
     {
@@ -1427,14 +1547,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 72091,
-      "num": 72091,
-      "word": "低山臭水遇知音",
-      "onboard_time": 1771572199,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 71893,
       "num": 71893,
       "word": "范丞丞主演电影票房破70亿",
@@ -1507,14 +1619,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 69204,
-      "num": 69204,
-      "word": "苏翊鸣连考古都是高清的",
-      "onboard_time": 1771572620,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 68529,
       "num": 68529,
       "word": "曹县汉服一年卖出130亿",
@@ -1537,6 +1641,14 @@
       "onboard_time": 1771569500,
       "rank": 49,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 67500,
+      "num": 116134,
+      "word": "丫丫马口夺食",
+      "onboard_time": 1771571841,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 66380,
@@ -1707,14 +1819,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 46698,
-      "num": 173607,
-      "word": "女子订洛杉矶民宿入住当天遭取消",
-      "onboard_time": 1771571779,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 44930,
       "num": 44930,
       "word": "加拿大U池选手重摔受伤",
@@ -1867,6 +1971,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 17935,
+      "num": 99479,
+      "word": "尹锡悦亲手打造的法律成回旋镖",
+      "onboard_time": 1771573700,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 17495,
       "num": 92679,
       "word": "雕刻奥特曼石窟男子近况",
@@ -1881,6 +1993,14 @@
       "onboard_time": 1771524916,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 9409,
+      "num": 98408,
+      "word": "新年第一会是AI癫疯大会",
+      "onboard_time": 1771574420,
+      "rank": 39,
+      "category": "互联网"
     }
   ],
   "hotgov_list": [

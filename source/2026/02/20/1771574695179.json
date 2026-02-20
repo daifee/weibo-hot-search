@@ -1,0 +1,410 @@
+{
+  "runTime": 1771574695179,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 952854,
+        "num": 1152456,
+        "word": "广东地震",
+        "onboard_time": 1771569500,
+        "rank": 0,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 633021,
+        "num": 848665,
+        "word": "容止 谢景行",
+        "onboard_time": 1771558100,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22053,
+        "num": 668896,
+        "word": "骑马踏雪巡逻的边防战士",
+        "onboard_time": 1771558338,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 442584,
+        "num": 442584,
+        "word": "将门独后官宣王鹤棣孟子义",
+        "onboard_time": 1771553539,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 503853,
+        "num": 434966,
+        "word": "初中生扶摔倒女子遭索赔22万将开庭",
+        "onboard_time": 1771568958,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 388525,
+        "num": 388525,
+        "word": "吴京 我的夫人姓谢",
+        "onboard_time": 1771551499,
+        "rank": 5,
+        "category": "电影,作品衍生"
+      },
+      {
+        "raw_hot": 294927,
+        "num": 294927,
+        "word": "内蒙古男子因喂流浪猫被杀害",
+        "onboard_time": 1771564339,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 270998,
+        "num": 270998,
+        "word": "命里有财具象化",
+        "onboard_time": 1771569438,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 262989,
+        "num": 262989,
+        "word": "鸡景房",
+        "onboard_time": 1771566440,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 143389,
+        "num": 143389,
+        "word": "谷爱凌妈妈眼圈哭红了",
+        "onboard_time": 1771557140,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 840072,
+        "num": 141933,
+        "word": "王乐乐官宣恋情",
+        "onboard_time": 1771574540,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 309670,
+        "num": 140524,
+        "word": "关晓彤发表情后秒删",
+        "onboard_time": 1771561999,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189408,
+        "num": 139526,
+        "word": "露上牙说话和露下牙说话的区别",
+        "onboard_time": 1771573638,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 299713,
+        "num": 137598,
+        "word": "杨清柠祝福王乐乐",
+        "onboard_time": 1771573100,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 229318,
+        "num": 136284,
+        "word": "镖人改编 删吻戏",
+        "onboard_time": 1771564819,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 176932,
+        "num": 134255,
+        "word": "深圳震感",
+        "onboard_time": 1771569740,
+        "rank": 15,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 207945,
+        "num": 133020,
+        "word": "吴京跳刀马 扣了16次扳机",
+        "onboard_time": 1771565540,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 172511,
+        "num": 130676,
+        "word": "一家三口返乡途中患病儿子突然离世",
+        "onboard_time": 1771554920,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32040,
+        "num": 128248,
+        "word": "沃尔沃XC70绝望冰壶挑战",
+        "onboard_time": 1771570999,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 170650,
+        "num": 126221,
+        "word": "80岁老人把金手镯做成5枚金戒指",
+        "onboard_time": 1771563020,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 281331,
+        "num": 126066,
+        "word": "悉尼偶遇张极张峻豪",
+        "onboard_time": 1771572440,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206352,
+        "num": 124108,
+        "word": "儿子寒假睡到中午爸爸不许家人打扰",
+        "onboard_time": 1771569620,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202145,
+        "num": 122273,
+        "word": "陈妍希 勇敢的姐姐先收获李雾",
+        "onboard_time": 1771570699,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192496,
+        "num": 119436,
+        "word": "将门独后开机",
+        "onboard_time": 1771553359,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119242,
+        "num": 119242,
+        "word": "苏翊鸣连考古都是高清的",
+        "onboard_time": 1771572620,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177606,
+        "num": 119170,
+        "word": "短剧上星",
+        "onboard_time": 1771565001,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156009,
+        "num": 119113,
+        "word": "金泰亨指责闵熙珍泄露聊天记录",
+        "onboard_time": 1771573759,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118862,
+        "num": 118862,
+        "word": "500块压岁钱发出5万的感觉",
+        "onboard_time": 1771557079,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 116551,
+        "num": 116551,
+        "word": "i人过年有的是力气和手段",
+        "onboard_time": 1771574000,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 67500,
+        "num": 116134,
+        "word": "丫丫马口夺食",
+        "onboard_time": 1771571841,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144346,
+        "num": 115804,
+        "word": "镖人",
+        "onboard_time": 1771553059,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 151885,
+        "num": 115007,
+        "word": "金泰亨说illit像newjeans",
+        "onboard_time": 1771560859,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118253,
+        "num": 114806,
+        "word": "贫穷最可怕的是贫穷的思维基因",
+        "onboard_time": 1771560198,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139095,
+        "num": 113959,
+        "word": "于正金粉红包 还没领完",
+        "onboard_time": 1771563800,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121510,
+        "num": 113216,
+        "word": "陈平自曝和韦雪前男友做朋友的原因",
+        "onboard_time": 1771572979,
+        "rank": 34,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 113066,
+        "num": 113066,
+        "word": "宁忠岩金牌含金量恐怖如斯",
+        "onboard_time": 1771573280,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112509,
+        "num": 112509,
+        "word": "撒贝宁主持一半找不到龙洋了",
+        "onboard_time": 1771573879,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111568,
+        "num": 111568,
+        "word": "美国拦截多架俄罗斯军机",
+        "onboard_time": 1771574000,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 17935,
+        "num": 99479,
+        "word": "尹锡悦亲手打造的法律成回旋镖",
+        "onboard_time": 1771573700,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 9409,
+        "num": 98408,
+        "word": "新年第一会是AI癫疯大会",
+        "onboard_time": 1771574420,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 97673,
+        "num": 97673,
+        "word": "女子订洛杉矶民宿入住当天遭取消",
+        "onboard_time": 1771571779,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99583,
+        "num": 97550,
+        "word": "一路高速免费到家门口收费了",
+        "onboard_time": 1771572739,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 96912,
+        "num": 96912,
+        "word": "将门毒后",
+        "onboard_time": 1771548979,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95613,
+        "num": 95613,
+        "word": "将门独后原著 大女主",
+        "onboard_time": 1771556179,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83503,
+        "num": 83503,
+        "word": "低山臭水遇知音",
+        "onboard_time": 1771572199,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 86503,
+        "num": 83386,
+        "word": "黄一鸣回应长得像刘亦菲",
+        "onboard_time": 1771561880,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83262,
+        "num": 83262,
+        "word": "春晚舞台比你想象中要小",
+        "onboard_time": 1771573819,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77370,
+        "num": 77370,
+        "word": "你家是开银行的啊",
+        "onboard_time": 1771574660,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 78956,
+        "num": 77367,
+        "word": "孟子义沈妙的一滴泪",
+        "onboard_time": 1771567639,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76396,
+        "num": 76396,
+        "word": "女子疑似输液过敏导致不适身亡",
+        "onboard_time": 1771556719,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记谈自己最大的心愿#"
+    }
+  }
+}
