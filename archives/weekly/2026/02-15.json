@@ -1,6 +1,6 @@
 {
   "startTime": 1771087248939,
-  "endTime": 1771594834868,
+  "endTime": 1771598844507,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -129,6 +129,14 @@
       "onboard_time": 1771241607,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 6462604,
+      "num": 6921313,
+      "word": "王心迪金牌",
+      "onboard_time": 1771595302,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 6122932,
@@ -313,6 +321,14 @@
       "onboard_time": 1771250678,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2356870,
+      "num": 2356870,
+      "word": "王心迪徐梦桃 金牌夫妻",
+      "onboard_time": 1771595546,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 2280239,
@@ -537,6 +553,14 @@
       "onboard_time": 1771231343,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1509045,
+      "num": 482349,
+      "word": "妈祖女孩被换神轿抬不动请回",
+      "onboard_time": 1771594222,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1496794,
@@ -1644,7 +1668,7 @@
     },
     {
       "raw_hot": 637255,
-      "num": 181075,
+      "num": 268196,
       "word": "贝加尔湖事件疑因司机强闯冰裂缝",
       "onboard_time": 1771592662,
       "rank": 19,
@@ -2243,6 +2267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 501988,
+      "num": 413256,
+      "word": "将门独后全阵容官宣",
+      "onboard_time": 1771597163,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 501410,
       "num": 469212,
       "word": "鸡景房",
@@ -2329,14 +2361,6 @@
       "onboard_time": 1771544237,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 482349,
-      "num": 482349,
-      "word": "妈祖女孩被换神轿抬不动请回",
-      "onboard_time": 1771594222,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 480940,
@@ -2473,6 +2497,14 @@
       "onboard_time": 1771577360,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 455594,
+      "num": 455594,
+      "word": "奖牌榜",
+      "onboard_time": 1771422983,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 453602,
@@ -3116,7 +3148,7 @@
     },
     {
       "raw_hot": 368739,
-      "num": 160082,
+      "num": 258741,
       "word": "张子墨长文",
       "onboard_time": 1771593502,
       "rank": 12,
@@ -4075,6 +4107,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 294247,
+      "num": 294247,
+      "word": "将门独后",
+      "onboard_time": 1771596324,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 293762,
       "num": 281377,
       "word": "清融发红包",
@@ -4092,7 +4132,7 @@
     },
     {
       "raw_hot": 293358,
-      "num": 142131,
+      "num": 167436,
       "word": "沈月 角色不要上升本人",
       "onboard_time": 1771592962,
       "rank": 38,
@@ -4243,6 +4283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 283000,
+      "num": 283000,
+      "word": "女子发现网购大衣出现手写名字",
+      "onboard_time": 1771594103,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 282826,
       "num": 794984,
       "word": "中国速滑男团0.09秒绝杀",
@@ -4283,6 +4331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 281234,
+      "num": 266447,
+      "word": "吴京 绿卡最严厉的父亲",
+      "onboard_time": 1771594643,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 280988,
       "num": 280988,
       "word": "贝加尔湖",
@@ -4321,6 +4377,14 @@
       "onboard_time": 1771333341,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 280284,
+      "num": 263017,
+      "word": "目击者还原车辆坠贝加尔湖经过",
+      "onboard_time": 1771597103,
+      "rank": 13,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 279536,
@@ -4665,6 +4729,14 @@
       "onboard_time": 1771394000,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 262085,
+      "num": 262085,
+      "word": "李天马铜牌",
+      "onboard_time": 1771595665,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 261934,
@@ -5043,6 +5115,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 241634,
+      "num": 241634,
+      "word": "杨幂无意中摔出来意外的感觉",
+      "onboard_time": 1771597403,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 241486,
+      "num": 241486,
+      "word": "齐广璞第六",
+      "onboard_time": 1771596744,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 241451,
       "num": 214472,
       "word": "女子左手被50吨冲床碾成泥",
@@ -5177,6 +5265,14 @@
       "onboard_time": 1771080803,
       "rank": 6,
       "category": "演出"
+    },
+    {
+      "raw_hot": 235026,
+      "num": 235026,
+      "word": "王心迪132.60分",
+      "onboard_time": 1771595302,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 234648,
@@ -5388,7 +5484,7 @@
     },
     {
       "raw_hot": 227125,
-      "num": 124875,
+      "num": 144772,
       "word": "陈奕迅女儿被曝新恋情",
       "onboard_time": 1771593082,
       "rank": 33,
@@ -5627,6 +5723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 217207,
+      "num": 217207,
+      "word": "王心迪手套上有颗桃",
+      "onboard_time": 1771598182,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 216855,
       "num": 151320,
       "word": "范丞丞红包",
@@ -5752,14 +5856,6 @@
       "word": "cbc解说林孝埈摔倒似脚下冰面裂开",
       "onboard_time": 1771122140,
       "rank": 25,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 210557,
-      "num": 210557,
-      "word": "奖牌榜",
-      "onboard_time": 1771422983,
-      "rank": 16,
       "category": "体育"
     },
     {
@@ -6361,6 +6457,14 @@
       "onboard_time": 1771553841,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 186109,
+      "num": 186109,
+      "word": "中国国家队祝贺王心迪夺金",
+      "onboard_time": 1771598002,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 186096,
@@ -7283,6 +7387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 152516,
+      "num": 152516,
+      "word": "最强大脑变大型分手现场",
+      "onboard_time": 1771597163,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 152445,
       "num": 152445,
       "word": "大衣哥女儿回怼围观粉丝",
@@ -8083,14 +8195,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 130380,
-      "num": 130380,
-      "word": "女子发现网购大衣出现手写名字",
-      "onboard_time": 1771594103,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 130342,
       "num": 130342,
       "word": "情绪稳定的一家人有多重要",
@@ -8739,14 +8843,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 117651,
-      "num": 103680,
-      "word": "吴京 绿卡最严厉的父亲",
-      "onboard_time": 1771594643,
-      "rank": 35,
-      "category": "电影"
-    },
-    {
       "raw_hot": 117404,
       "num": 168807,
       "word": "摆摊卖春联姐弟13天收入3万元",
@@ -9083,6 +9179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 112435,
+      "num": 112435,
+      "word": "黄金白银又飙涨原因",
+      "onboard_time": 1771597703,
+      "rank": 29,
+      "category": "财经"
+    },
+    {
       "raw_hot": 112309,
       "num": 98348,
       "word": "熊出没一股哪吒味",
@@ -9169,6 +9273,14 @@
       "onboard_time": 1771399400,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 111501,
+      "num": 111501,
+      "word": "齐广璞拥抱王心迪",
+      "onboard_time": 1771598182,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 111424,
@@ -10203,6 +10315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 96457,
+      "num": 96082,
+      "word": "镖人总成本",
+      "onboard_time": 1771596922,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 96239,
       "num": 96239,
       "word": "假期是补气血的最佳时机",
@@ -10257,6 +10377,14 @@
       "onboard_time": 1771381100,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 95411,
+      "num": 95411,
+      "word": "中国队提前锁定奖牌",
+      "onboard_time": 1771597403,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 94980,
@@ -10475,6 +10603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 92602,
+      "num": 92602,
+      "word": "中国队米兰第4金",
+      "onboard_time": 1771596503,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 92532,
       "num": 92532,
       "word": "谷爱凌晋级U型场地决赛",
@@ -10635,6 +10771,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 90607,
+      "num": 90607,
+      "word": "桃心组合滑最美的雪爱最美的人",
+      "onboard_time": 1771598541,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 90596,
       "num": 90596,
       "word": "刘瀚彬夺铜瞬间绷不住哭了",
@@ -10793,6 +10937,14 @@
       "onboard_time": 1771391958,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 88649,
+      "num": 88649,
+      "word": "有的剩菜宁可倒掉也不能吃",
+      "onboard_time": 1771598002,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 88557,
@@ -11019,12 +11171,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 85960,
+      "num": 85960,
+      "word": "商场里的书店到底是靠啥赚钱的",
+      "onboard_time": 1771596083,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 85921,
       "num": 92952,
       "word": "你家姑爷今天贡献了什么名场面",
       "onboard_time": 1771395798,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 85909,
+      "num": 85909,
+      "word": "向5战冬奥的齐广璞致敬",
+      "onboard_time": 1771598723,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 85854,
@@ -11241,6 +11409,14 @@
       "onboard_time": 1771169301,
       "rank": 40,
       "category": "网红"
+    },
+    {
+      "raw_hot": 83214,
+      "num": 83214,
+      "word": "王心迪哭了",
+      "onboard_time": 1771598243,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 83175,
@@ -12105,6 +12281,14 @@
       "onboard_time": 1771318279,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 75532,
+      "num": 1201594,
+      "word": "中国非遗给你亿点点震撼",
+      "onboard_time": 1771595002,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 75506,
@@ -15483,6 +15667,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 37729,
+      "num": 236545,
+      "word": "宝华月季二舅本尊露脸",
+      "onboard_time": 1771598243,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37725,
       "num": 207512,
       "word": "这一夜让更多人看见义乌",
@@ -17161,6 +17353,14 @@
       "onboard_time": 1771215802,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13096,
+      "num": 92928,
+      "word": "专家解读韩国青瓦台魔咒",
+      "onboard_time": 1771598361,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 13066,
