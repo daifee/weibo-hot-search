@@ -1,6 +1,6 @@
 {
   "startTime": 1771517580857,
-  "endTime": 1771557520646,
+  "endTime": 1771563308956,
   "band_list": [
     {
       "raw_hot": 3454416,
@@ -35,8 +35,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1395705,
+      "num": 1395705,
+      "word": "容止 谢景行",
+      "onboard_time": 1771558100,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1235460,
-      "num": 262159,
+      "num": 560468,
       "word": "吴京 我的夫人姓谢",
       "onboard_time": 1771551499,
       "rank": 10,
@@ -68,7 +76,7 @@
     },
     {
       "raw_hot": 754971,
-      "num": 838982,
+      "num": 910837,
       "word": "谷爱凌说不是故意吓大家",
       "onboard_time": 1771551859,
       "rank": 4,
@@ -76,7 +84,7 @@
     },
     {
       "raw_hot": 655725,
-      "num": 165660,
+      "num": 564037,
       "word": "一家三口返乡途中患病儿子突然离世",
       "onboard_time": 1771554920,
       "rank": 31,
@@ -89,6 +97,14 @@
       "onboard_time": 1771495880,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 504538,
+      "num": 259370,
+      "word": "杨烁居然转行做了导演",
+      "onboard_time": 1771562058,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 484540,
@@ -123,6 +139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 451370,
+      "num": 451370,
+      "word": "500块压岁钱发出5万的感觉",
+      "onboard_time": 1771557079,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 436241,
       "num": 198116,
       "word": "男子放炮摘除眼球称无法面对5个月女儿",
@@ -147,12 +171,36 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 401254,
+      "num": 257946,
+      "word": "金泰亨说illit像newjeans",
+      "onboard_time": 1771560859,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 396317,
       "num": 259061,
       "word": "原来亲戚们都是故意的",
       "onboard_time": 1771552339,
       "rank": 11,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 388694,
+      "num": 252857,
+      "word": "关晓彤发表情后秒删",
+      "onboard_time": 1771561999,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 340923,
+      "num": 340923,
+      "word": "女子疑似输液过敏导致不适身亡",
+      "onboard_time": 1771556719,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 339974,
@@ -179,6 +227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 305229,
+      "num": 255280,
+      "word": "手术室为什么会放花生米",
+      "onboard_time": 1771558160,
+      "rank": 12,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 297918,
       "num": 297918,
       "word": "男子自办春晚1天走完17家亲戚",
@@ -188,10 +244,18 @@
     },
     {
       "raw_hot": 295167,
-      "num": 161951,
+      "num": 184555,
       "word": "朱志鑫左航 伯克利",
       "onboard_time": 1771545498,
       "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 293490,
+      "num": 234607,
+      "word": "陈慧琳回应大儿子像宋仲基",
+      "onboard_time": 1771560441,
+      "rank": 20,
       "category": "艺人"
     },
     {
@@ -201,6 +265,14 @@
       "onboard_time": 1771516820,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 279926,
+      "num": 232166,
+      "word": "贫穷最可怕的是贫穷的思维基因",
+      "onboard_time": 1771560198,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 277010,
@@ -219,6 +291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 270351,
+      "num": 250963,
+      "word": "将门独后原著 大女主",
+      "onboard_time": 1771556179,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 267078,
       "num": 135895,
       "word": "美24岁女子假扮15岁少女诱捕警察",
@@ -232,6 +312,14 @@
       "word": "谷爱凌说我快累死了",
       "onboard_time": 1771553841,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 260580,
+      "num": 260580,
+      "word": "谷爱凌妈妈眼圈哭红了",
+      "onboard_time": 1771557140,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -267,6 +355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 250036,
+      "num": 250036,
+      "word": "中国队还有三个夺金点",
+      "onboard_time": 1771559241,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 240848,
       "num": 240848,
       "word": "曝王男融梗",
@@ -299,6 +395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 221444,
+      "num": 221444,
+      "word": "郭富城说与王一博只聊赛车",
+      "onboard_time": 1771557140,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 214602,
       "num": 214602,
       "word": "镖人票房逆跌",
@@ -321,6 +425,14 @@
       "onboard_time": 1771543697,
       "rank": 9,
       "category": "电影"
+    },
+    {
+      "raw_hot": 198749,
+      "num": 198749,
+      "word": "黄一鸣回应长得像刘亦菲",
+      "onboard_time": 1771561880,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 198659,
@@ -395,14 +507,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 179506,
-      "num": 116241,
-      "word": "500块压岁钱发出5万的感觉",
-      "onboard_time": 1771557079,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 171025,
       "num": 171025,
       "word": "妈妈让上交2万压岁钱孩子不干了",
@@ -443,16 +547,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 165573,
-      "num": 115894,
-      "word": "女子疑似输液过敏导致不适身亡",
-      "onboard_time": 1771556719,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 159846,
-      "num": 159846,
+      "num": 674065,
       "word": "中国队米兰冬奥第3金",
       "onboard_time": 1771520238,
       "rank": 16,
@@ -483,12 +579,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 151305,
-      "num": 151305,
-      "word": "将门独后原著 大女主",
-      "onboard_time": 1771556179,
-      "rank": 24,
-      "category": "剧集"
+      "raw_hot": 150699,
+      "num": 247687,
+      "word": "沃尔沃总裁硬刚绝望冰壶",
+      "onboard_time": 1771560260,
+      "rank": 16,
+      "category": "汽车"
     },
     {
       "raw_hot": 146723,
@@ -523,6 +619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 126301,
+      "num": 126301,
+      "word": "王鹤棣孟子义将门独后饮酒转场",
+      "onboard_time": 1771561340,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 123991,
       "num": 123991,
       "word": "去男朋友家害怕独处belike",
@@ -539,11 +643,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123307,
+      "num": 123307,
+      "word": "谢霆锋 天啊于适好可爱",
+      "onboard_time": 1771560019,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 121921,
       "num": 105464,
       "word": "杨幂开车都能出神图",
       "onboard_time": 1771504760,
       "rank": 25,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 121171,
+      "num": 121171,
+      "word": "镖人",
+      "onboard_time": 1771553059,
+      "rank": 24,
       "category": "电影"
     },
     {
@@ -555,14 +675,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 114599,
-      "num": 114599,
-      "word": "郭富城说与王一博只聊赛车",
-      "onboard_time": 1771557140,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 114276,
       "num": 114276,
       "word": "马丽中国电影票房最高女主",
@@ -571,20 +683,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 110701,
-      "num": 110701,
-      "word": "镖人",
-      "onboard_time": 1771553059,
-      "rank": 24,
-      "category": "电影"
+      "raw_hot": 113383,
+      "num": 113383,
+      "word": "80岁老人把金手镯做成5枚金戒指",
+      "onboard_time": 1771563020,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
-      "raw_hot": 110254,
-      "num": 71060,
-      "word": "谷爱凌妈妈眼圈哭红了",
-      "onboard_time": 1771557140,
-      "rank": 46,
-      "category": "体育"
+      "raw_hot": 112665,
+      "num": 112665,
+      "word": "这部剧一个流量生都没有",
+      "onboard_time": 1771559059,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 110068,
@@ -593,6 +705,14 @@
       "onboard_time": 1771523415,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 106110,
+      "num": 106110,
+      "word": "何炅的情商又发力了",
+      "onboard_time": 1771561278,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 105810,
@@ -627,12 +747,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104566,
+      "num": 104566,
+      "word": "中国队自由式男子空中技巧冲金",
+      "onboard_time": 1771563020,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 104200,
       "num": 104200,
       "word": "TOP登陆少年官方后援会道歉",
       "onboard_time": 1771544898,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 103368,
+      "num": 98517,
+      "word": "君霄",
+      "onboard_time": 1771563140,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 103365,
+      "num": 103365,
+      "word": "谷爱凌苏翊鸣配得感",
+      "onboard_time": 1771562419,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 102712,
@@ -691,6 +835,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 93424,
+      "num": 93424,
+      "word": "童锦程孩子妈回应不做亲子鉴定",
+      "onboard_time": 1771561340,
+      "rank": 46,
+      "category": "网红"
+    },
+    {
       "raw_hot": 93151,
       "num": 85371,
       "word": "白鹿韩国",
@@ -723,12 +875,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 91312,
+      "num": 91312,
+      "word": "宁忠岩说怀疑教练报假表了",
+      "onboard_time": 1771558040,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 90666,
       "num": 90666,
       "word": "大年初四",
       "onboard_time": 1771520597,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 90496,
+      "num": 90496,
+      "word": "女生路过好心扶起老太太被索赔22万元",
+      "onboard_time": 1771561999,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89938,
@@ -1099,12 +1267,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 57047,
+      "num": 105141,
+      "word": "影院第一排 朱一龙变大恐龙",
+      "onboard_time": 1771562780,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 56241,
       "num": 56241,
       "word": "宁忠岩泪洒赛场",
       "onboard_time": 1771521797,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 56221,
+      "num": 239478,
+      "word": "中国渔民致菲律宾的联名信",
+      "onboard_time": 1771562119,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 53547,
+      "num": 209028,
+      "word": "春节一火锅店排队超5000桌",
+      "onboard_time": 1771562058,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 53097,
@@ -1283,12 +1475,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 22724,
+      "num": 104840,
+      "word": "网红店现发霉草莓市监局已介入",
+      "onboard_time": 1771562240,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22482,
       "num": 83051,
       "word": "阿育娅 少女的葬礼女王的加冕",
       "onboard_time": 1771554800,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 19506,
+      "num": 98535,
+      "word": "原来成长是一辈子的事",
+      "onboard_time": 1771559659,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 16340,
