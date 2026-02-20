@@ -1,0 +1,410 @@
+{
+  "runTime": 1771557520646,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 945499,
+        "num": 1151279,
+        "word": "将门独后开机",
+        "onboard_time": 1771553359,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 754971,
+        "num": 838982,
+        "word": "谷爱凌说不是故意吓大家",
+        "onboard_time": 1771551859,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13344,
+        "num": 636986,
+        "word": "他们在天山脚下脚踏冰河巡边",
+        "onboard_time": 1771510882,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1724440,
+        "num": 631220,
+        "word": "将门独后官宣王鹤棣孟子义",
+        "onboard_time": 1771553539,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 312464,
+        "num": 312464,
+        "word": "刘美贤夺冠",
+        "onboard_time": 1771544237,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 480556,
+        "num": 312046,
+        "word": "将门独后造型",
+        "onboard_time": 1771554859,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 454528,
+        "num": 310090,
+        "word": "将门毒后",
+        "onboard_time": 1771548979,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 297918,
+        "num": 297918,
+        "word": "男子自办春晚1天走完17家亲戚",
+        "onboard_time": 1771554980,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 286395,
+        "num": 286395,
+        "word": "大年初四 扔穷",
+        "onboard_time": 1771550359,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 262938,
+        "num": 262938,
+        "word": "谷爱凌说我快累死了",
+        "onboard_time": 1771553841,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1010241,
+        "num": 262159,
+        "word": "吴京 我的夫人姓谢",
+        "onboard_time": 1771551499,
+        "rank": 10,
+        "category": "电影,作品衍生"
+      },
+      {
+        "raw_hot": 380641,
+        "num": 259061,
+        "word": "原来亲戚们都是故意的",
+        "onboard_time": 1771552339,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 267717,
+        "num": 257420,
+        "word": "顾客称被桔子酒店短信恐吓",
+        "onboard_time": 1771550600,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 240848,
+        "num": 240848,
+        "word": "曝王男融梗",
+        "onboard_time": 1771557260,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215594,
+        "num": 215594,
+        "word": "谢景行",
+        "onboard_time": 1771513220,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192083,
+        "num": 192083,
+        "word": "中国队3金3银4铜",
+        "onboard_time": 1771549040,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186876,
+        "num": 186876,
+        "word": "恩利庾澄庆拜年",
+        "onboard_time": 1771553841,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185095,
+        "num": 185095,
+        "word": "谷爱凌为好友受伤而落泪",
+        "onboard_time": 1771554499,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167915,
+        "num": 167915,
+        "word": "男子放炮摘除眼球称无法面对5个月女儿",
+        "onboard_time": 1771543517,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165884,
+        "num": 165884,
+        "word": "宁忠岩金牌",
+        "onboard_time": 1771519938,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 655725,
+        "num": 165660,
+        "word": "一家三口返乡途中患病儿子突然离世",
+        "onboard_time": 1771554920,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 285091,
+        "num": 161951,
+        "word": "朱志鑫左航 伯克利",
+        "onboard_time": 1771545498,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207261,
+        "num": 156429,
+        "word": "一中国公民在奥克兰街头直播被打",
+        "onboard_time": 1771553000,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 196408,
+        "num": 151607,
+        "word": "春节机器人卖爆了",
+        "onboard_time": 1771554920,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 151305,
+        "num": 151305,
+        "word": "将门独后原著 大女主",
+        "onboard_time": 1771556179,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130056,
+        "num": 130056,
+        "word": "文俊辉掉头就走",
+        "onboard_time": 1771555161,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 129982,
+        "num": 129982,
+        "word": "郭晶晶记不清结婚多少年",
+        "onboard_time": 1771545739,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123991,
+        "num": 123991,
+        "word": "去男朋友家害怕独处belike",
+        "onboard_time": 1771555520,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 120642,
+        "num": 120642,
+        "word": "镖人 CP佛跳墙",
+        "onboard_time": 1771551439,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 88256,
+        "num": 117020,
+        "word": "宁忠岩确认夺冠一刻",
+        "onboard_time": 1771547899,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179506,
+        "num": 116241,
+        "word": "500块压岁钱发出5万的感觉",
+        "onboard_time": 1771557079,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 165573,
+        "num": 115894,
+        "word": "女子疑似输液过敏导致不适身亡",
+        "onboard_time": 1771556719,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114599,
+        "num": 114599,
+        "word": "郭富城说与王一博只聊赛车",
+        "onboard_time": 1771557140,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103430,
+        "num": 103430,
+        "word": "吴京票房成绩位列第二",
+        "onboard_time": 1771543697,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 100909,
+        "num": 100909,
+        "word": "东北黑吉辽冬奥金牌齐了",
+        "onboard_time": 1771556241,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101690,
+        "num": 100484,
+        "word": "镖人",
+        "onboard_time": 1771553059,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 98871,
+        "num": 98871,
+        "word": "过年发朋友圈要多800个心眼",
+        "onboard_time": 1771556241,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 95833,
+        "num": 95833,
+        "word": "TOP登陆少年官方后援会道歉",
+        "onboard_time": 1771544898,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94041,
+        "num": 94041,
+        "word": "原来被子的咬合力这么惊人",
+        "onboard_time": 1771556959,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 93882,
+        "num": 93882,
+        "word": "马丽中国电影票房最高女主",
+        "onboard_time": 1771551258,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 89938,
+        "num": 89938,
+        "word": "王阳跳屋顶着火身材好曼妙",
+        "onboard_time": 1771554258,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86753,
+        "num": 86753,
+        "word": "美24岁女子假扮15岁少女诱捕警察",
+        "onboard_time": 1771543576,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 85098,
+        "num": 85098,
+        "word": "宁忠岩打破1500米项目欧美选手垄断",
+        "onboard_time": 1771556959,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 80148,
+        "num": 80148,
+        "word": "将门独后官宣海报",
+        "onboard_time": 1771556840,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78750,
+        "num": 78750,
+        "word": "初四全国人民各有各的忙",
+        "onboard_time": 1771555639,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71479,
+        "num": 71479,
+        "word": "没有尾巴的猫会变成一只蜜蜂",
+        "onboard_time": 1771555999,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 110254,
+        "num": 71060,
+        "word": "谷爱凌妈妈眼圈哭红了",
+        "onboard_time": 1771557140,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 70342,
+        "num": 70342,
+        "word": "虾的身材很曼妙",
+        "onboard_time": 1771557140,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 68529,
+        "num": 68529,
+        "word": "曹县汉服一年卖出130亿",
+        "onboard_time": 1771557499,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67859,
+        "num": 67859,
+        "word": "生命树白菊除了杨紫没考虑过别的演员",
+        "onboard_time": 1771552818,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#骏马追风扬气魄#"
+    }
+  }
+}

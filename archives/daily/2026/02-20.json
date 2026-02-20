@@ -1,6 +1,6 @@
 {
   "startTime": 1771517580857,
-  "endTime": 1771555147866,
+  "endTime": 1771557520646,
   "band_list": [
     {
       "raw_hot": 3454416,
@@ -27,7 +27,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1403986,
+      "raw_hot": 1724440,
       "num": 809767,
       "word": "将门独后官宣王鹤棣孟子义",
       "onboard_time": 1771553539,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1235460,
-      "num": 205555,
+      "num": 262159,
       "word": "吴京 我的夫人姓谢",
       "onboard_time": 1771551499,
       "rank": 10,
@@ -67,6 +67,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 754971,
+      "num": 838982,
+      "word": "谷爱凌说不是故意吓大家",
+      "onboard_time": 1771551859,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 655725,
+      "num": 165660,
+      "word": "一家三口返乡途中患病儿子突然离世",
+      "onboard_time": 1771554920,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 549929,
       "num": 196680,
       "word": "刘德华解冻失败",
@@ -83,12 +99,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 481733,
-      "num": 481733,
-      "word": "谷爱凌说不是故意吓大家",
-      "onboard_time": 1771551859,
-      "rank": 4,
-      "category": "体育"
+      "raw_hot": 480556,
+      "num": 312046,
+      "word": "将门独后造型",
+      "onboard_time": 1771554859,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 474615,
@@ -132,7 +148,7 @@
     },
     {
       "raw_hot": 396317,
-      "num": 204389,
+      "num": 259061,
       "word": "原来亲戚们都是故意的",
       "onboard_time": 1771552339,
       "rank": 11,
@@ -140,7 +156,7 @@
     },
     {
       "raw_hot": 339974,
-      "num": 201705,
+      "num": 257420,
       "word": "顾客称被桔子酒店短信恐吓",
       "onboard_time": 1771550600,
       "rank": 12,
@@ -163,8 +179,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 297918,
+      "num": 297918,
+      "word": "男子自办春晚1天走完17家亲戚",
+      "onboard_time": 1771554980,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 295167,
-      "num": 114601,
+      "num": 161951,
       "word": "朱志鑫左航 伯克利",
       "onboard_time": 1771545498,
       "rank": 21,
@@ -203,6 +227,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 262938,
+      "num": 262938,
+      "word": "谷爱凌说我快累死了",
+      "onboard_time": 1771553841,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 258356,
       "num": 258356,
       "word": "谷爱凌第一滑摔倒",
@@ -233,6 +265,14 @@
       "onboard_time": 1771549040,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 240848,
+      "num": 240848,
+      "word": "曝王男融梗",
+      "onboard_time": 1771557260,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 238200,
@@ -267,6 +307,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 207261,
+      "num": 156429,
+      "word": "一中国公民在奥克兰街头直播被打",
+      "onboard_time": 1771553000,
+      "rank": 22,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 200382,
       "num": 200382,
       "word": "吴京票房成绩位列第二",
@@ -291,6 +339,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 196408,
+      "num": 151607,
+      "word": "春节机器人卖爆了",
+      "onboard_time": 1771554920,
+      "rank": 43,
+      "category": "数码"
+    },
+    {
       "raw_hot": 195185,
       "num": 195185,
       "word": "高层看烟花有多吓人",
@@ -307,14 +363,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 191993,
-      "num": 99867,
-      "word": "谷爱凌说我快累死了",
-      "onboard_time": 1771553841,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 189704,
       "num": 117022,
       "word": "王菲为什么选中你我经历的一刻",
@@ -323,12 +371,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 186876,
+      "num": 186876,
+      "word": "恩利庾澄庆拜年",
+      "onboard_time": 1771553841,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 185095,
+      "num": 185095,
+      "word": "谷爱凌为好友受伤而落泪",
+      "onboard_time": 1771554499,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 184475,
       "num": 184475,
       "word": "谷爱凌第二滑86.50分",
       "onboard_time": 1771529834,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 179506,
+      "num": 116241,
+      "word": "500块压岁钱发出5万的感觉",
+      "onboard_time": 1771557079,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 171025,
@@ -371,12 +443,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 164877,
-      "num": 114329,
-      "word": "一中国公民在奥克兰街头直播被打",
-      "onboard_time": 1771553000,
-      "rank": 22,
-      "category": "海外新闻"
+      "raw_hot": 165573,
+      "num": 115894,
+      "word": "女子疑似输液过敏导致不适身亡",
+      "onboard_time": 1771556719,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 159846,
@@ -403,20 +475,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 153547,
-      "num": 99674,
-      "word": "一家三口返乡途中患病儿子突然离世",
-      "onboard_time": 1771554920,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 152949,
       "num": 152949,
       "word": "宁忠岩飞起来了",
       "onboard_time": 1771521557,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 151305,
+      "num": 151305,
+      "word": "将门独后原著 大女主",
+      "onboard_time": 1771556179,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 146723,
@@ -435,12 +507,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130056,
+      "num": 130056,
+      "word": "文俊辉掉头就走",
+      "onboard_time": 1771555161,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 129288,
       "num": 77988,
       "word": "张子墨",
       "onboard_time": 1771542496,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 123991,
+      "num": 123991,
+      "word": "去男朋友家害怕独处belike",
+      "onboard_time": 1771555520,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 123854,
@@ -451,14 +539,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 122627,
-      "num": 122627,
-      "word": "恩利庾澄庆拜年",
-      "onboard_time": 1771553841,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 121921,
       "num": 105464,
       "word": "杨幂开车都能出神图",
@@ -467,12 +547,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 115055,
-      "num": 115055,
+      "raw_hot": 120642,
+      "num": 120642,
       "word": "镖人 CP佛跳墙",
       "onboard_time": 1771551439,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 114599,
+      "num": 114599,
+      "word": "郭富城说与王一博只聊赛车",
+      "onboard_time": 1771557140,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 114276,
@@ -491,20 +579,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 110254,
+      "num": 71060,
+      "word": "谷爱凌妈妈眼圈哭红了",
+      "onboard_time": 1771557140,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 110068,
       "num": 110068,
       "word": "宁忠岩说滑疯了",
       "onboard_time": 1771523415,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 107936,
-      "num": 107936,
-      "word": "将门独后造型",
-      "onboard_time": 1771554859,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 105810,
@@ -532,7 +620,7 @@
     },
     {
       "raw_hot": 105144,
-      "num": 114983,
+      "num": 117020,
       "word": "宁忠岩确认夺冠一刻",
       "onboard_time": 1771547899,
       "rank": 19,
@@ -547,14 +635,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 102834,
-      "num": 108744,
-      "word": "谷爱凌为好友受伤而落泪",
-      "onboard_time": 1771554499,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 102712,
       "num": 102712,
       "word": "女子骑摩托失控坠坡画面火出圈",
@@ -563,12 +643,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 100909,
+      "num": 100909,
+      "word": "东北黑吉辽冬奥金牌齐了",
+      "onboard_time": 1771556241,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 100242,
       "num": 100242,
       "word": "觉得自己闯祸的可以看看美国四人雪车",
       "onboard_time": 1771506502,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 98871,
+      "num": 98871,
+      "word": "过年发朋友圈要多800个心眼",
+      "onboard_time": 1771556241,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 98653,
@@ -585,6 +681,14 @@
       "onboard_time": 1771503140,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 94041,
+      "num": 94041,
+      "word": "原来被子的咬合力这么惊人",
+      "onboard_time": 1771556959,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 93151,
@@ -625,6 +729,14 @@
       "onboard_time": 1771520597,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 89938,
+      "num": 89938,
+      "word": "王阳跳屋顶着火身材好曼妙",
+      "onboard_time": 1771554258,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 89375,
@@ -683,14 +795,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 85589,
-      "num": 85589,
-      "word": "王阳跳屋顶着火身材好曼妙",
-      "onboard_time": 1771554258,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 85546,
       "num": 124835,
       "word": "特朗普称对台军售要跟中国商量",
@@ -707,20 +811,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 85098,
+      "num": 85098,
+      "word": "宁忠岩打破1500米项目欧美选手垄断",
+      "onboard_time": 1771556959,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 84009,
       "num": 84009,
       "word": "生命树白菊除了杨紫没考虑过别的演员",
       "onboard_time": 1771552818,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 82935,
-      "num": 82935,
-      "word": "男子自办春晚1天走完17家亲戚",
-      "onboard_time": 1771554980,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 82186,
@@ -745,6 +849,22 @@
       "onboard_time": 1771513880,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 80148,
+      "num": 80148,
+      "word": "将门独后官宣海报",
+      "onboard_time": 1771556840,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 78750,
+      "num": 78750,
+      "word": "初四全国人民各有各的忙",
+      "onboard_time": 1771555639,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 78103,
@@ -811,14 +931,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 74597,
-      "num": 74597,
-      "word": "春节机器人卖爆了",
-      "onboard_time": 1771554920,
-      "rank": 43,
-      "category": "数码"
-    },
-    {
       "raw_hot": 74164,
       "num": 74164,
       "word": "刘昊然票房成绩",
@@ -851,6 +963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 71479,
+      "num": 71479,
+      "word": "没有尾巴的猫会变成一只蜜蜂",
+      "onboard_time": 1771555999,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 71383,
       "num": 71383,
       "word": "王楚钦剪了刘海",
@@ -867,12 +987,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 70342,
+      "num": 70342,
+      "word": "虾的身材很曼妙",
+      "onboard_time": 1771557140,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 69242,
       "num": 69242,
       "word": "王一博表演现场版震感好爽",
       "onboard_time": 1771509322,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 68529,
+      "num": 68529,
+      "word": "曹县汉服一年卖出130亿",
+      "onboard_time": 1771557499,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 68505,
