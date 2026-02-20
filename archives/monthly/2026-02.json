@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1771600094304,
+  "endTime": 1771602273139,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -3363,6 +3363,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 740883,
+      "num": 740883,
+      "word": "迎财神",
+      "onboard_time": 1771600401,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 739308,
       "num": 1118289,
       "word": "2026春晚主持人阵容",
@@ -3905,6 +3913,14 @@
       "onboard_time": 1771303941,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 679313,
+      "num": 679313,
+      "word": "将门独后全阵容官宣",
+      "onboard_time": 1771597163,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 678548,
@@ -4985,14 +5001,6 @@
       "onboard_time": 1770863898,
       "rank": 7,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 583298,
-      "num": 441131,
-      "word": "将门独后全阵容官宣",
-      "onboard_time": 1771597163,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 583117,
@@ -6313,6 +6321,14 @@
       "onboard_time": 1770905181,
       "rank": 3,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 498391,
+      "num": 498391,
+      "word": "杨幂无意中摔出来意外的感觉",
+      "onboard_time": 1771597403,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 498183,
@@ -12379,14 +12395,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 299380,
-      "num": 241737,
-      "word": "杨幂无意中摔出来意外的感觉",
-      "onboard_time": 1771597403,
-      "rank": 16,
-      "category": "电影"
-    },
-    {
       "raw_hot": 298952,
       "num": 298952,
       "word": "1集离谱2集爆笑3集笑炸了",
@@ -16515,6 +16523,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 230761,
+      "num": 98211,
+      "word": "6名消防员坠崖牺牲目击村民发声",
+      "onboard_time": 1771601062,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 230347,
       "num": 230347,
       "word": "WTT",
@@ -16633,6 +16649,14 @@
       "onboard_time": 1771162582,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 229244,
+      "num": 229244,
+      "word": "苏翊鸣昨天刚和徐梦桃王心迪合影",
+      "onboard_time": 1771599442,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 229068,
@@ -18867,6 +18891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 198728,
+      "num": 198728,
+      "word": "王心迪回应金牌夫妇",
+      "onboard_time": 1771600702,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 198678,
       "num": 175384,
       "word": "央视主持人怎么全面成这样了",
@@ -20089,6 +20121,14 @@
       "onboard_time": 1769997199,
       "rank": 23,
       "category": "财经"
+    },
+    {
+      "raw_hot": 184041,
+      "num": 184041,
+      "word": "瑞幸 村里",
+      "onboard_time": 1771601002,
+      "rank": 15,
+      "category": "美食"
     },
     {
       "raw_hot": 183999,
@@ -21371,6 +21411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 169836,
+      "num": 169836,
+      "word": "中国游客赴日人数暴跌日媒回应没影响",
+      "onboard_time": 1771600041,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 169817,
       "num": 162375,
       "word": "沈腾听到王安宇没有他帅的反应",
@@ -21721,14 +21769,6 @@
       "onboard_time": 1770211402,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 165479,
-      "num": 98542,
-      "word": "中国游客赴日人数暴跌日媒回应没影响",
-      "onboard_time": 1771600041,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 165382,
@@ -25364,7 +25404,7 @@
     },
     {
       "raw_hot": 137301,
-      "num": 95676,
+      "num": 120310,
       "word": "苏翊鸣祝贺王心迪",
       "onboard_time": 1771599024,
       "rank": 32,
@@ -28539,6 +28579,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 119787,
+      "num": 119787,
+      "word": "盘点中国奥运金牌夫妻",
+      "onboard_time": 1771601299,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119754,
       "num": 119754,
       "word": "王楚钦vs郭勇",
@@ -29971,14 +30019,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 113734,
-      "num": 94214,
-      "word": "苏翊鸣昨天刚和徐梦桃王心迪合影",
-      "onboard_time": 1771599442,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 113696,
       "num": 113696,
       "word": "5个月宝宝抬头巧变磕头喜提红包",
@@ -30393,6 +30433,14 @@
       "onboard_time": 1770871940,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 112470,
+      "num": 112470,
+      "word": "江苏这个小品敢拍",
+      "onboard_time": 1771599623,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 112440,
@@ -33171,6 +33219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 103077,
+      "num": 101200,
+      "word": "王建华 大状师",
+      "onboard_time": 1771599682,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 103076,
       "num": 103076,
       "word": "杨紫张哲华生命树告别吻",
@@ -33753,14 +33809,6 @@
       "onboard_time": 1771414881,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 101200,
-      "num": 101200,
-      "word": "王建华 大状师",
-      "onboard_time": 1771599682,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 101185,
@@ -35945,6 +35993,14 @@
       "onboard_time": 1770612860,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 94759,
+      "num": 94759,
+      "word": "王心迪站上最高领奖台",
+      "onboard_time": 1771601541,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 94726,
@@ -38187,6 +38243,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 88839,
+      "num": 88839,
+      "word": "爸爸回应不许家人打扰儿子睡懒觉",
+      "onboard_time": 1771595002,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 88809,
       "num": 88809,
       "word": "瘦的人可以和食物和平共处",
@@ -38617,6 +38681,14 @@
       "onboard_time": 1770610101,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 87852,
+      "num": 87852,
+      "word": "王心迪采访",
+      "onboard_time": 1771601901,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 87850,
@@ -40987,6 +41059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 81423,
+      "num": 81423,
+      "word": "方家翊整容后小区门禁人脸识别失败",
+      "onboard_time": 1771601720,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 81415,
       "num": 81415,
       "word": "咪的jio怎么可以顶这么多东西",
@@ -41233,6 +41313,14 @@
       "onboard_time": 1770636501,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 80890,
+      "num": 80890,
+      "word": "返乡年轻人春节挤爆县城酒店",
+      "onboard_time": 1771601180,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 80877,
@@ -42089,6 +42177,14 @@
       "onboard_time": 1770374062,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 79058,
+      "num": 79058,
+      "word": "徐嘉余祝贺王心迪夺冠",
+      "onboard_time": 1771600642,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 79039,
@@ -45235,6 +45331,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 69590,
+      "num": 69590,
+      "word": "林宥嘉怒怼记者",
+      "onboard_time": 1771600702,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 69530,
       "num": 69530,
       "word": "大年初一出门最划算",
@@ -46209,6 +46313,14 @@
       "onboard_time": 1770715160,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 66310,
+      "num": 66310,
+      "word": "王心迪李天马身披国旗",
+      "onboard_time": 1771601481,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 66172,
