@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/02/20 00:13:00 ~ 2026/02/20 12:55:08
+本榜单时间：2026/02/20 00:13:00 ~ 2026/02/20 13:04:29
 </p>
 </blockquote>
 <p>
@@ -81,14 +81,20 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%BE%B7%E5%8D%8E%E8%A7%A3%E5%86%BB%E5%A4%B1%E8%B4%A5%23" target="weibo">
-刘德华解冻失败（热度：549929）
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%83%81%E5%B1%85%E7%84%B6%E8%BD%AC%E8%A1%8C%E5%81%9A%E4%BA%86%E5%AF%BC%E6%BC%94%23" target="weibo">
+杨烁居然转行做了导演（热度：613104）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%83%81%E5%B1%85%E7%84%B6%E8%BD%AC%E8%A1%8C%E5%81%9A%E4%BA%86%E5%AF%BC%E6%BC%94%23" target="weibo">
-杨烁居然转行做了导演（热度：504538）
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E5%8F%91%E8%A1%A8%E6%83%85%E5%90%8E%E7%A7%92%E5%88%A0%23" target="weibo">
+关晓彤发表情后秒删（热度：600273）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%BE%B7%E5%8D%8E%E8%A7%A3%E5%86%BB%E5%A4%B1%E8%B4%A5%23" target="weibo">
+刘德华解冻失败（热度：549929）
 </a>
 </li>
 
@@ -153,12 +159,6 @@ Deepseek神回复（热度：405476）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E5%8F%91%E8%A1%A8%E6%83%85%E5%90%8E%E7%A7%92%E5%88%A0%23" target="weibo">
-关晓彤发表情后秒删（热度：388694）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%96%91%E4%BC%BC%E8%BE%93%E6%B6%B2%E8%BF%87%E6%95%8F%E5%AF%BC%E8%87%B4%E4%B8%8D%E9%80%82%E8%BA%AB%E4%BA%A1%23" target="weibo">
 女子疑似输液过敏导致不适身亡（热度：340923）
 </a>
@@ -207,14 +207,14 @@ Deepseek神回复（热度：405476）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%86%9B%E5%8A%9B%E9%87%8F%E8%A2%AB%E6%9B%9D%E6%AD%A3%E5%BF%AB%E9%80%9F%E9%9B%86%E7%BB%93%23" target="weibo">
-美军力量被曝正快速集结（热度：286847）
+<a href="https://s.weibo.com/weibo?q=%23%E8%B4%AB%E7%A9%B7%E6%9C%80%E5%8F%AF%E6%80%95%E7%9A%84%E6%98%AF%E8%B4%AB%E7%A9%B7%E7%9A%84%E6%80%9D%E7%BB%B4%E5%9F%BA%E5%9B%A0%23" target="weibo">
+贫穷最可怕的是贫穷的思维基因（热度：289408）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B4%AB%E7%A9%B7%E6%9C%80%E5%8F%AF%E6%80%95%E7%9A%84%E6%98%AF%E8%B4%AB%E7%A9%B7%E7%9A%84%E6%80%9D%E7%BB%B4%E5%9F%BA%E5%9B%A0%23" target="weibo">
-贫穷最可怕的是贫穷的思维基因（热度：279926）
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%86%9B%E5%8A%9B%E9%87%8F%E8%A2%AB%E6%9B%9D%E6%AD%A3%E5%BF%AB%E9%80%9F%E9%9B%86%E7%BB%93%23" target="weibo">
+美军力量被曝正快速集结（热度：286847）
 </a>
 </li>
 
@@ -232,7 +232,7 @@ Deepseek神回复（热度：405476）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%86%E9%97%A8%E7%8B%AC%E5%90%8E%E5%8E%9F%E8%91%97%20%E5%A4%A7%E5%A5%B3%E4%B8%BB%23" target="weibo">
-将门独后原著 大女主（热度：270351）
+将门独后原著 大女主（热度：275110）
 </a>
 </li>
 
@@ -255,6 +255,12 @@ Deepseek神回复（热度：405476）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E4%B8%80%E9%B8%A3%E5%9B%9E%E5%BA%94%E9%95%BF%E5%BE%97%E5%83%8F%E5%88%98%E4%BA%A6%E8%8F%B2%23" target="weibo">
+黄一鸣回应长得像刘亦菲（热度：258940）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E7%AC%AC%E4%B8%80%E6%BB%91%E6%91%94%E5%80%92%23" target="weibo">
 谷爱凌第一滑摔倒（热度：258356）
 </a>
@@ -267,6 +273,12 @@ Deepseek神回复（热度：405476）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%98%9F%E8%BF%98%E6%9C%89%E4%B8%89%E4%B8%AA%E5%A4%BA%E9%87%91%E7%82%B9%23" target="weibo">
+中国队还有三个夺金点（热度：257176）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E7%BF%8A%E9%B8%A3%E7%9A%84%E7%AC%AC%E4%BA%8C%E6%9E%9A%E5%A5%A5%E8%BF%90%E9%87%91%E7%89%8C%23" target="weibo">
 苏翊鸣的第二枚奥运金牌（热度：255744）
 </a>
@@ -275,12 +287,6 @@ Deepseek神回复（热度：405476）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%98%9F3%E9%87%913%E9%93%B64%E9%93%9C%23" target="weibo">
 中国队3金3银4铜（热度：250116）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%98%9F%E8%BF%98%E6%9C%89%E4%B8%89%E4%B8%AA%E5%A4%BA%E9%87%91%E7%82%B9%23" target="weibo">
-中国队还有三个夺金点（热度：250036）
 </a>
 </li>
 
@@ -329,12 +335,6 @@ Deepseek神回复（热度：405476）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E4%BA%AC%E7%A5%A8%E6%88%BF%E6%88%90%E7%BB%A9%E4%BD%8D%E5%88%97%E7%AC%AC%E4%BA%8C%23" target="weibo">
 吴京票房成绩位列第二（热度：200382）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E4%B8%80%E9%B8%A3%E5%9B%9E%E5%BA%94%E9%95%BF%E5%BE%97%E5%83%8F%E5%88%98%E4%BA%A6%E8%8F%B2%23" target="weibo">
-黄一鸣回应长得像刘亦菲（热度：198749）
 </a>
 </li>
 
@@ -441,6 +441,12 @@ Deepseek神回复（热度：405476）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2380%E5%B2%81%E8%80%81%E4%BA%BA%E6%8A%8A%E9%87%91%E6%89%8B%E9%95%AF%E5%81%9A%E6%88%905%E6%9E%9A%E9%87%91%E6%88%92%E6%8C%87%23" target="weibo">
+80岁老人把金手镯做成5枚金戒指（热度：153303）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%81%E5%BF%A0%E5%B2%A9%E9%A3%9E%E8%B5%B7%E6%9D%A5%E4%BA%86%23" target="weibo">
 宁忠岩飞起来了（热度：152949）
 </a>
@@ -525,14 +531,14 @@ Deepseek神回复（热度：405476）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%2380%E5%B2%81%E8%80%81%E4%BA%BA%E6%8A%8A%E9%87%91%E6%89%8B%E9%95%AF%E5%81%9A%E6%88%905%E6%9E%9A%E9%87%91%E6%88%92%E6%8C%87%23" target="weibo">
-80岁老人把金手镯做成5枚金戒指（热度：113383）
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E9%83%A8%E5%89%A7%E4%B8%80%E4%B8%AA%E6%B5%81%E9%87%8F%E7%94%9F%E9%83%BD%E6%B2%A1%E6%9C%89%23" target="weibo">
+这部剧一个流量生都没有（热度：112665）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E9%83%A8%E5%89%A7%E4%B8%80%E4%B8%AA%E6%B5%81%E9%87%8F%E7%94%9F%E9%83%BD%E6%B2%A1%E6%9C%89%23" target="weibo">
-这部剧一个流量生都没有（热度：112665）
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%9B%E9%9C%84%23" target="weibo">
+君霄（热度：110293）
 </a>
 </li>
 
@@ -585,12 +591,6 @@ TOP登陆少年官方后援会道歉（热度：104200）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%9B%E9%9C%84%23" target="weibo">
-君霄（热度：103368）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E8%8B%8F%E7%BF%8A%E9%B8%A3%E9%85%8D%E5%BE%97%E6%84%9F%23" target="weibo">
 谷爱凌苏翊鸣配得感（热度：103365）
 </a>
@@ -621,6 +621,12 @@ TOP登陆少年官方后援会道歉（热度：104200）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%B2%E7%88%B1%E7%9A%84%E5%AE%A2%E6%A0%88%23" target="weibo">
+亲爱的客栈（热度：98802）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%8B%97%E9%86%92%E4%BA%86%E4%BD%86%E6%98%AF%E5%B0%8F%E7%8B%97%E6%83%B3%E7%9D%A1%E6%87%92%E8%A7%89%23" target="weibo">
 小狗醒了但是小狗想睡懒觉（热度：98653）
 </a>
@@ -629,6 +635,12 @@ TOP登陆少年官方后援会道歉（热度：104200）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E4%BB%A3%E9%9C%B2%E5%A8%83%E4%BA%8C%E6%90%AD%E7%96%AF%E6%89%B9%E5%AF%B9%E7%96%AF%E6%89%B9%23" target="weibo">
 白鹿代露娃二搭疯批对疯批（热度：96235）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E8%B7%AF%E8%BF%87%E5%A5%BD%E5%BF%83%E6%89%B6%E8%B5%B7%E8%80%81%E5%A4%AA%E5%A4%AA%E8%A2%AB%E7%B4%A2%E8%B5%9422%E4%B8%87%E5%85%83%23" target="weibo">
+女生路过好心扶起老太太被索赔22万元（热度：96065）
 </a>
 </li>
 
@@ -657,8 +669,20 @@ TOP登陆少年官方后援会道歉（热度：104200）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%BF%9E%E7%95%AA%E8%87%AA%E6%91%B8%E7%AA%81%E7%84%B6%E6%A0%BD%E5%80%92%E8%A1%80%E5%8E%8B200%E5%A4%9A%23" target="weibo">
+男子连番自摸突然栽倒血压200多（热度：92543）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E6%99%8B%E7%BA%A7U%E5%9E%8B%E5%9C%BA%E5%9C%B0%E5%86%B3%E8%B5%9B%23" target="weibo">
 谷爱凌晋级U型场地决赛（热度：92532）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%B8%94%E6%B0%91%E8%87%B4%E8%8F%B2%E5%BE%8B%E5%AE%BE%E7%9A%84%E8%81%94%E5%90%8D%E4%BF%A1%23" target="weibo">
+中国渔民致菲律宾的联名信（热度：92480）
 </a>
 </li>
 
@@ -677,12 +701,6 @@ TOP登陆少年官方后援会道歉（热度：104200）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%B9%B4%E5%88%9D%E5%9B%9B%23" target="weibo">
 大年初四（热度：90666）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E8%B7%AF%E8%BF%87%E5%A5%BD%E5%BF%83%E6%89%B6%E8%B5%B7%E8%80%81%E5%A4%AA%E5%A4%AA%E8%A2%AB%E7%B4%A2%E8%B5%9422%E4%B8%87%E5%85%83%23" target="weibo">
-女生路过好心扶起老太太被索赔22万元（热度：90496）
 </a>
 </li>
 
@@ -777,6 +795,12 @@ TOP登陆少年官方后援会道歉（热度：104200）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%8C%AB%E7%9A%84%E9%9B%B7%E9%9C%86%E5%9D%90%E5%A7%BF%23" target="weibo">
+小猫的雷霆坐姿（热度：80873）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%86%E9%97%A8%E7%8B%AC%E5%90%8E%E5%AE%98%E5%AE%A3%E6%B5%B7%E6%8A%A5%23" target="weibo">
 将门独后官宣海报（热度：80148）
 </a>
@@ -821,6 +845,12 @@ TOP登陆少年官方后援会道歉（热度：104200）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%AC%E5%AC%B7%23" target="weibo">
 京嬷（热度：76032）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BF%AB%E8%88%B9vs%E6%B9%96%E4%BA%BA%23" target="weibo">
+快船vs湖人（热度：75339）
 </a>
 </li>
 
@@ -903,6 +933,12 @@ TOP登陆少年官方后援会道歉（热度：104200）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BD%B1%E9%99%A2%E7%AC%AC%E4%B8%80%E6%8E%92%20%E6%9C%B1%E4%B8%80%E9%BE%99%E5%8F%98%E5%A4%A7%E6%81%90%E9%BE%99%23" target="weibo">
+影院第一排 朱一龙变大恐龙（热度：66380）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E9%87%8F%E7%BE%8E%E5%86%9B%E6%B5%B7%E7%A9%BA%E5%8A%9B%E9%87%8F%E5%9C%A8%E4%B8%AD%E4%B8%9C%E5%9C%B0%E5%8C%BA%E9%9B%86%E7%BB%93%23" target="weibo">
 大量美军海空力量在中东地区集结（热度：65893）
 </a>
@@ -963,20 +999,14 @@ TOP登陆少年官方后援会道歉（热度：104200）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BD%B1%E9%99%A2%E7%AC%AC%E4%B8%80%E6%8E%92%20%E6%9C%B1%E4%B8%80%E9%BE%99%E5%8F%98%E5%A4%A7%E6%81%90%E9%BE%99%23" target="weibo">
-影院第一排 朱一龙变大恐龙（热度：57047）
+<a href="https://s.weibo.com/weibo?q=%2310%E5%B9%B4%E5%89%8D%E8%A2%AB%E6%8A%93%E6%8B%8D%E6%AF%8D%E5%A5%B3%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0%23" target="weibo">
+10年前被抓拍母女家属发声（热度：56242）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%81%E5%BF%A0%E5%B2%A9%E6%B3%AA%E6%B4%92%E8%B5%9B%E5%9C%BA%23" target="weibo">
 宁忠岩泪洒赛场（热度：56241）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%B8%94%E6%B0%91%E8%87%B4%E8%8F%B2%E5%BE%8B%E5%AE%BE%E7%9A%84%E8%81%94%E5%90%8D%E4%BF%A1%23" target="weibo">
-中国渔民致菲律宾的联名信（热度：56221）
 </a>
 </li>
 
@@ -1025,6 +1055,12 @@ TOP登陆少年官方后援会道歉（热度：104200）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%BA%E5%99%A8%E4%BA%BA%20%E5%AE%87%E6%A0%91%23" target="weibo">
 机器人 宇树（热度：47908）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%AD%A3%E9%87%91%E7%B2%89%E7%BA%A2%E5%8C%85%20%E8%BF%98%E6%B2%A1%E9%A2%86%E5%AE%8C%23" target="weibo">
+于正金粉红包 还没领完（热度：45132）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1771517580857,
-  "endTime": 1771563308956,
+  "endTime": 1771563869949,
   "band_list": [
     {
       "raw_hot": 3454416,
@@ -84,11 +84,27 @@
     },
     {
       "raw_hot": 655725,
-      "num": 564037,
+      "num": 624503,
       "word": "一家三口返乡途中患病儿子突然离世",
       "onboard_time": 1771554920,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 613104,
+      "num": 613104,
+      "word": "杨烁居然转行做了导演",
+      "onboard_time": 1771562058,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 600273,
+      "num": 600273,
+      "word": "关晓彤发表情后秒删",
+      "onboard_time": 1771561999,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 549929,
@@ -97,14 +113,6 @@
       "onboard_time": 1771495880,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 504538,
-      "num": 259370,
-      "word": "杨烁居然转行做了导演",
-      "onboard_time": 1771562058,
-      "rank": 10,
-      "category": "剧集"
     },
     {
       "raw_hot": 484540,
@@ -140,7 +148,7 @@
     },
     {
       "raw_hot": 451370,
-      "num": 451370,
+      "num": 606752,
       "word": "500块压岁钱发出5万的感觉",
       "onboard_time": 1771557079,
       "rank": 30,
@@ -187,16 +195,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 388694,
-      "num": 252857,
-      "word": "关晓彤发表情后秒删",
-      "onboard_time": 1771561999,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 340923,
-      "num": 340923,
+      "num": 606020,
       "word": "女子疑似输液过敏导致不适身亡",
       "onboard_time": 1771556719,
       "rank": 31,
@@ -228,7 +228,7 @@
     },
     {
       "raw_hot": 305229,
-      "num": 255280,
+      "num": 255829,
       "word": "手术室为什么会放花生米",
       "onboard_time": 1771558160,
       "rank": 12,
@@ -259,20 +259,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 289408,
+      "num": 232166,
+      "word": "贫穷最可怕的是贫穷的思维基因",
+      "onboard_time": 1771560198,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 286847,
       "num": 808787,
       "word": "美军力量被曝正快速集结",
       "onboard_time": 1771516820,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 279926,
-      "num": 232166,
-      "word": "贫穷最可怕的是贫穷的思维基因",
-      "onboard_time": 1771560198,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 277010,
@@ -291,7 +291,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 270351,
+      "raw_hot": 275110,
       "num": 250963,
       "word": "将门独后原著 大女主",
       "onboard_time": 1771556179,
@@ -323,6 +323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 258940,
+      "num": 198749,
+      "word": "黄一鸣回应长得像刘亦菲",
+      "onboard_time": 1771561880,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 258356,
       "num": 258356,
       "word": "谷爱凌第一滑摔倒",
@@ -339,6 +347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 257176,
+      "num": 601965,
+      "word": "中国队还有三个夺金点",
+      "onboard_time": 1771559241,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 255744,
       "num": 255744,
       "word": "苏翊鸣的第二枚奥运金牌",
@@ -352,14 +368,6 @@
       "word": "中国队3金3银4铜",
       "onboard_time": 1771549040,
       "rank": 8,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 250036,
-      "num": 250036,
-      "word": "中国队还有三个夺金点",
-      "onboard_time": 1771559241,
-      "rank": 15,
       "category": "体育"
     },
     {
@@ -425,14 +433,6 @@
       "onboard_time": 1771543697,
       "rank": 9,
       "category": "电影"
-    },
-    {
-      "raw_hot": 198749,
-      "num": 198749,
-      "word": "黄一鸣回应长得像刘亦菲",
-      "onboard_time": 1771561880,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 198659,
@@ -548,7 +548,7 @@
     },
     {
       "raw_hot": 159846,
-      "num": 674065,
+      "num": 679267,
       "word": "中国队米兰冬奥第3金",
       "onboard_time": 1771520238,
       "rank": 16,
@@ -568,6 +568,14 @@
       "word": "属相不是从立春开始算",
       "onboard_time": 1771509921,
       "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 153303,
+      "num": 127977,
+      "word": "80岁老人把金手镯做成5枚金戒指",
+      "onboard_time": 1771563020,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -683,20 +691,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 113383,
-      "num": 113383,
-      "word": "80岁老人把金手镯做成5枚金戒指",
-      "onboard_time": 1771563020,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 112665,
       "num": 112665,
       "word": "这部剧一个流量生都没有",
       "onboard_time": 1771559059,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 110293,
+      "num": 107581,
+      "word": "君霄",
+      "onboard_time": 1771563140,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 110068,
@@ -763,14 +771,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 103368,
-      "num": 98517,
-      "word": "君霄",
-      "onboard_time": 1771563140,
-      "rank": 43,
-      "category": "电影"
-    },
-    {
       "raw_hot": 103365,
       "num": 103365,
       "word": "谷爱凌苏翊鸣配得感",
@@ -811,6 +811,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 98802,
+      "num": 98802,
+      "word": "亲爱的客栈",
+      "onboard_time": 1771562720,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 98653,
       "num": 98653,
       "word": "小狗醒了但是小狗想睡懒觉",
@@ -825,6 +833,14 @@
       "onboard_time": 1771503140,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 96065,
+      "num": 101231,
+      "word": "女生路过好心扶起老太太被索赔22万元",
+      "onboard_time": 1771561999,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 94041,
@@ -859,12 +875,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 92543,
+      "num": 99515,
+      "word": "男子连番自摸突然栽倒血压200多",
+      "onboard_time": 1771562840,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 92532,
       "num": 92532,
       "word": "谷爱凌晋级U型场地决赛",
       "onboard_time": 1771532413,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 92480,
+      "num": 239478,
+      "word": "中国渔民致菲律宾的联名信",
+      "onboard_time": 1771562119,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 91702,
@@ -889,14 +921,6 @@
       "onboard_time": 1771520597,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 90496,
-      "num": 90496,
-      "word": "女生路过好心扶起老太太被索赔22万元",
-      "onboard_time": 1771561999,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 89938,
@@ -1019,6 +1043,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 80873,
+      "num": 91515,
+      "word": "小猫的雷霆坐姿",
+      "onboard_time": 1771563560,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 80148,
       "num": 80148,
       "word": "将门独后官宣海报",
@@ -1081,6 +1113,14 @@
       "onboard_time": 1771552399,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 75339,
+      "num": 91419,
+      "word": "快船vs湖人",
+      "onboard_time": 1771563800,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 75306,
@@ -1187,6 +1227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 66380,
+      "num": 105141,
+      "word": "影院第一排 朱一龙变大恐龙",
+      "onboard_time": 1771562780,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 65893,
       "num": 43841,
       "word": "大量美军海空力量在中东地区集结",
@@ -1267,12 +1315,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 57047,
-      "num": 105141,
-      "word": "影院第一排 朱一龙变大恐龙",
-      "onboard_time": 1771562780,
-      "rank": 38,
-      "category": "电影"
+      "raw_hot": 56242,
+      "num": 120146,
+      "word": "10年前被抓拍母女家属发声",
+      "onboard_time": 1771563679,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 56241,
@@ -1281,14 +1329,6 @@
       "onboard_time": 1771521797,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 56221,
-      "num": 239478,
-      "word": "中国渔民致菲律宾的联名信",
-      "onboard_time": 1771562119,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 53547,
@@ -1353,6 +1393,14 @@
       "onboard_time": 1771543936,
       "rank": 37,
       "category": "数码"
+    },
+    {
+      "raw_hot": 45132,
+      "num": 100459,
+      "word": "于正金粉红包 还没领完",
+      "onboard_time": 1771563800,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 44930,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1771563869949,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1383795,
+        "num": 1383795,
+        "word": "容止 谢景行",
+        "onboard_time": 1771558100,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 267736,
+        "num": 867162,
+        "word": "谷爱凌说不是故意吓大家",
+        "onboard_time": 1771551859,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 40259,
+        "num": 679267,
+        "word": "中国队米兰冬奥第3金",
+        "onboard_time": 1771520238,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 872438,
+        "num": 653759,
+        "word": "将门独后官宣王鹤棣孟子义",
+        "onboard_time": 1771553539,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 310853,
+        "num": 624503,
+        "word": "一家三口返乡途中患病儿子突然离世",
+        "onboard_time": 1771554920,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 613104,
+        "num": 613104,
+        "word": "杨烁居然转行做了导演",
+        "onboard_time": 1771562058,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 500932,
+        "num": 610515,
+        "word": "将门独后开机",
+        "onboard_time": 1771553359,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 448238,
+        "num": 606752,
+        "word": "500块压岁钱发出5万的感觉",
+        "onboard_time": 1771557079,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 301443,
+        "num": 606020,
+        "word": "女子疑似输液过敏导致不适身亡",
+        "onboard_time": 1771556719,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 257176,
+        "num": 601965,
+        "word": "中国队还有三个夺金点",
+        "onboard_time": 1771559241,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 600273,
+        "num": 600273,
+        "word": "关晓彤发表情后秒删",
+        "onboard_time": 1771561999,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 531105,
+        "num": 531105,
+        "word": "吴京 我的夫人姓谢",
+        "onboard_time": 1771551499,
+        "rank": 11,
+        "category": "电影,作品衍生"
+      },
+      {
+        "raw_hot": 255829,
+        "num": 255829,
+        "word": "手术室为什么会放花生米",
+        "onboard_time": 1771558160,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 397048,
+        "num": 250160,
+        "word": "金泰亨说illit像newjeans",
+        "onboard_time": 1771560859,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275110,
+        "num": 241178,
+        "word": "将门独后原著 大女主",
+        "onboard_time": 1771556179,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213093,
+        "num": 213093,
+        "word": "谷爱凌妈妈眼圈哭红了",
+        "onboard_time": 1771557140,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99472,
+        "num": 204959,
+        "word": "沃尔沃总裁硬刚绝望冰壶",
+        "onboard_time": 1771560260,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 202864,
+        "num": 202864,
+        "word": "原来亲戚们都是故意的",
+        "onboard_time": 1771552339,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 165721,
+        "num": 165721,
+        "word": "宁忠岩金牌",
+        "onboard_time": 1771519938,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132577,
+        "num": 132577,
+        "word": "大年初四 扔穷",
+        "onboard_time": 1771550359,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 289408,
+        "num": 131740,
+        "word": "贫穷最可怕的是贫穷的思维基因",
+        "onboard_time": 1771560198,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 278714,
+        "num": 131242,
+        "word": "陈慧琳回应大儿子像宋仲基",
+        "onboard_time": 1771560441,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258940,
+        "num": 129284,
+        "word": "黄一鸣回应长得像刘亦菲",
+        "onboard_time": 1771561880,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153303,
+        "num": 127977,
+        "word": "80岁老人把金手镯做成5枚金戒指",
+        "onboard_time": 1771563020,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218749,
+        "num": 127429,
+        "word": "将门毒后",
+        "onboard_time": 1771548979,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186594,
+        "num": 125466,
+        "word": "郭富城说与王一博只聊赛车",
+        "onboard_time": 1771557140,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141101,
+        "num": 125008,
+        "word": "春节机器人卖爆了",
+        "onboard_time": 1771554920,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 162141,
+        "num": 122602,
+        "word": "朱志鑫左航 伯克利",
+        "onboard_time": 1771545498,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146222,
+        "num": 121834,
+        "word": "曝王男融梗",
+        "onboard_time": 1771557260,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121224,
+        "num": 121224,
+        "word": "刘美贤夺冠",
+        "onboard_time": 1771544237,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120630,
+        "num": 120630,
+        "word": "谢霆锋 天啊于适好可爱",
+        "onboard_time": 1771560019,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 56242,
+        "num": 120146,
+        "word": "10年前被抓拍母女家属发声",
+        "onboard_time": 1771563679,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119922,
+        "num": 119922,
+        "word": "镖人",
+        "onboard_time": 1771553059,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 111731,
+        "num": 111731,
+        "word": "王鹤棣孟子义将门独后饮酒转场",
+        "onboard_time": 1771561340,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108503,
+        "num": 108503,
+        "word": "男子自办春晚1天走完17家亲戚",
+        "onboard_time": 1771554980,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110293,
+        "num": 107581,
+        "word": "君霄",
+        "onboard_time": 1771563140,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 104275,
+        "num": 104275,
+        "word": "这部剧一个流量生都没有",
+        "onboard_time": 1771559059,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101728,
+        "num": 101728,
+        "word": "中国队3金3银4铜",
+        "onboard_time": 1771549040,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96065,
+        "num": 101231,
+        "word": "女生路过好心扶起老太太被索赔22万元",
+        "onboard_time": 1771561999,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66380,
+        "num": 101058,
+        "word": "影院第一排 朱一龙变大恐龙",
+        "onboard_time": 1771562780,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 45132,
+        "num": 100459,
+        "word": "于正金粉红包 还没领完",
+        "onboard_time": 1771563800,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92543,
+        "num": 99515,
+        "word": "男子连番自摸突然栽倒血压200多",
+        "onboard_time": 1771562840,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99278,
+        "num": 99278,
+        "word": "将门独后造型",
+        "onboard_time": 1771554859,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98802,
+        "num": 98802,
+        "word": "亲爱的客栈",
+        "onboard_time": 1771562720,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92480,
+        "num": 96864,
+        "word": "中国渔民致菲律宾的联名信",
+        "onboard_time": 1771562119,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 95184,
+        "num": 95184,
+        "word": "何炅的情商又发力了",
+        "onboard_time": 1771561278,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93135,
+        "num": 93135,
+        "word": "童锦程孩子妈回应不做亲子鉴定",
+        "onboard_time": 1771561340,
+        "rank": 46,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 80873,
+        "num": 91515,
+        "word": "小猫的雷霆坐姿",
+        "onboard_time": 1771563560,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 75339,
+        "num": 91419,
+        "word": "快船vs湖人",
+        "onboard_time": 1771563800,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91412,
+        "num": 91412,
+        "word": "镖人 CP佛跳墙",
+        "onboard_time": 1771551439,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记谈自己最大的心愿#"
+    }
+  }
+}
