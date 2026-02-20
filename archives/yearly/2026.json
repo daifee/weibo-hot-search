@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1771581979529,
+  "endTime": 1771584413055,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -633,6 +633,14 @@
       "onboard_time": 1769996779,
       "rank": 10,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 3294086,
+      "num": 350211,
+      "word": "妈祖换人",
+      "onboard_time": 1771581979,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 3153650,
@@ -1827,6 +1835,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1537385,
+      "num": 344711,
+      "word": "妈祖 耀祖",
+      "onboard_time": 1771581739,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1536855,
       "num": 1536855,
       "word": "陈都灵红包单包的金额设置好高",
@@ -2385,22 +2401,6 @@
       "onboard_time": 1768645041,
       "rank": 21,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1294388,
-      "num": 667003,
-      "word": "霸王茶姬 手打",
-      "onboard_time": 1767657800,
-      "rank": 3,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 1293393,
-      "num": 216948,
-      "word": "王橹杰黑头纱",
-      "onboard_time": 1767868041,
-      "rank": 22,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [

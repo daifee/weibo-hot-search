@@ -1,6 +1,6 @@
 {
   "startTime": 1771517580857,
-  "endTime": 1771581979529,
+  "endTime": 1771584413055,
   "band_list": [
     {
       "raw_hot": 3454416,
@@ -9,6 +9,14 @@
       "onboard_time": 1771519938,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 3294086,
+      "num": 350211,
+      "word": "妈祖换人",
+      "onboard_time": 1771581979,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 3096782,
@@ -49,6 +57,14 @@
       "onboard_time": 1771553539,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1537385,
+      "num": 344711,
+      "word": "妈祖 耀祖",
+      "onboard_time": 1771581739,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1395705,
@@ -307,12 +323,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 370118,
+      "num": 370118,
+      "word": "谷爱凌赌上职业生涯的一跳",
+      "onboard_time": 1771580479,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 362177,
       "num": 362177,
       "word": "金泰亨指责闵熙珍泄露聊天记录",
       "onboard_time": 1771573759,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 358369,
+      "num": 358369,
+      "word": "父亲偷拿儿子压岁钱被判返还82750元",
+      "onboard_time": 1771580298,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 340923,
@@ -347,6 +379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 319356,
+      "num": 319356,
+      "word": "卖霉豆腐已经有人实操上了",
+      "onboard_time": 1771579820,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 317287,
       "num": 317287,
       "word": "于正金粉红包 还没领完",
@@ -363,14 +403,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 313037,
-      "num": 313037,
-      "word": "父亲偷拿儿子压岁钱被判返还82750元",
-      "onboard_time": 1771580298,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 310633,
       "num": 195581,
       "word": "穆祉丞 没人打扰的感觉太爽了",
@@ -385,6 +417,14 @@
       "onboard_time": 1771558160,
       "rank": 12,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 303214,
+      "num": 277322,
+      "word": "初中生扶人被索赔22万摔倒老人发声",
+      "onboard_time": 1771581499,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 299713,
@@ -555,14 +595,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 249868,
-      "num": 249868,
-      "word": "卖霉豆腐已经有人实操上了",
-      "onboard_time": 1771579820,
-      "rank": 18,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 248413,
       "num": 248413,
       "word": "剧版镖人",
@@ -576,6 +608,14 @@
       "word": "曝王男融梗",
       "onboard_time": 1771557260,
       "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 239309,
+      "num": 154988,
+      "word": "王鹤棣观众盘",
+      "onboard_time": 1771580298,
+      "rank": 33,
       "category": "艺人"
     },
     {
@@ -593,6 +633,14 @@
       "onboard_time": 1771577899,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 233886,
+      "num": 233886,
+      "word": "日本冰壶美女撞脸孙燕姿",
+      "onboard_time": 1771581560,
+      "rank": 33,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 230977,
@@ -715,14 +763,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 196488,
-      "num": 196488,
-      "word": "谷爱凌赌上职业生涯的一跳",
-      "onboard_time": 1771580479,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 196408,
       "num": 151607,
       "word": "春节机器人卖爆了",
@@ -771,6 +811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185184,
+      "num": 185184,
+      "word": "星期五练习生",
+      "onboard_time": 1771583421,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 185095,
       "num": 185095,
       "word": "谷爱凌为好友受伤而落泪",
@@ -785,6 +833,14 @@
       "onboard_time": 1771529834,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 179583,
+      "num": 179583,
+      "word": "镖人票房",
+      "onboard_time": 1771582999,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 171025,
@@ -827,6 +883,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 162348,
+      "num": 162348,
+      "word": "飞驰3林臻东掏兜是黄景瑜本人",
+      "onboard_time": 1771580899,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 160689,
       "num": 146641,
       "word": "镖人",
@@ -865,6 +929,14 @@
       "onboard_time": 1771576040,
       "rank": 19,
       "category": "军事"
+    },
+    {
+      "raw_hot": 153373,
+      "num": 153373,
+      "word": "上海小孩7万多压岁钱被爸妈弄丢",
+      "onboard_time": 1771583899,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 153370,
@@ -947,20 +1019,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 140502,
-      "num": 106446,
-      "word": "飞驰3林臻东掏兜是黄景瑜本人",
-      "onboard_time": 1771580899,
-      "rank": 39,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 138216,
-      "num": 118754,
-      "word": "王鹤棣观众盘",
-      "onboard_time": 1771580298,
-      "rank": 33,
-      "category": "艺人"
+      "raw_hot": 140516,
+      "num": 140516,
+      "word": "父亲再婚偷拿10岁儿子8万压岁钱",
+      "onboard_time": 1771581859,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 132248,
@@ -1009,14 +1073,6 @@
       "onboard_time": 1771561340,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 124110,
-      "num": 124110,
-      "word": "初中生扶人被索赔22万摔倒老人发声",
-      "onboard_time": 1771581499,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 123991,
@@ -1139,6 +1195,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 111498,
+      "num": 111498,
+      "word": "齐广璞王心迪晋级决赛",
+      "onboard_time": 1771583602,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 110658,
+      "num": 110658,
+      "word": "台湾上空的歼20之说或许是真的",
+      "onboard_time": 1771581620,
+      "rank": 42,
+      "category": "军事"
+    },
+    {
       "raw_hot": 110293,
       "num": 107581,
       "word": "君霄",
@@ -1217,6 +1289,14 @@
       "onboard_time": 1771544898,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 103790,
+      "num": 103790,
+      "word": "将门毒后书粉",
+      "onboard_time": 1771584140,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 103365,
@@ -1347,6 +1427,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 94618,
+      "num": 94618,
+      "word": "侯某某私藏807箱烟花爆竹被刑拘",
+      "onboard_time": 1771583421,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94529,
       "num": 94529,
       "word": "徐志胜回家过年忙成接客松",
@@ -1435,6 +1523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 91512,
+      "num": 91512,
+      "word": "镖人票房排名第二",
+      "onboard_time": 1771583899,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 91312,
       "num": 91312,
       "word": "宁忠岩说怀疑教练报假表了",
@@ -1449,14 +1545,6 @@
       "onboard_time": 1771577899,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 90789,
-      "num": 90789,
-      "word": "日本冰壶美女撞脸孙燕姿",
-      "onboard_time": 1771581560,
-      "rank": 33,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 90666,
@@ -1619,14 +1707,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 83223,
-      "num": 83223,
-      "word": "台湾上空的歼20之说或许是真的",
-      "onboard_time": 1771581620,
-      "rank": 42,
-      "category": "军事"
-    },
-    {
       "raw_hot": 82408,
       "num": 82408,
       "word": "2026锦鲤附体的星座",
@@ -1763,6 +1843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 74771,
+      "num": 74771,
+      "word": "歼20可能不知道进台湾多少次了",
+      "onboard_time": 1771582219,
+      "rank": 39,
+      "category": "国内时政,军事"
+    },
+    {
       "raw_hot": 74714,
       "num": 74714,
       "word": "29岁男子日夜颠倒狂吃碳水ICU过年",
@@ -1833,6 +1921,14 @@
       "onboard_time": 1771544058,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 70797,
+      "num": 70797,
+      "word": "老己已经到了气血不足的年纪",
+      "onboard_time": 1771580959,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 70664,
@@ -1971,6 +2067,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 64728,
+      "num": 64728,
+      "word": "虞书欣姜暮闪现",
+      "onboard_time": 1771583840,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 64615,
+      "num": 64615,
+      "word": "讨好型狗格",
+      "onboard_time": 1771582399,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 64591,
       "num": 64591,
       "word": "张瑞阳自由滑118.65分",
@@ -2001,14 +2113,6 @@
       "onboard_time": 1771512921,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 62312,
-      "num": 64995,
-      "word": "老己已经到了气血不足的年纪",
-      "onboard_time": 1771580959,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 62253,
@@ -2219,12 +2323,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 33740,
-      "num": 87199,
-      "word": "父亲再婚偷拿10岁儿子8万压岁钱",
+      "raw_hot": 33148,
+      "num": 155634,
+      "word": "科技汽车就选鸿蒙智行",
       "onboard_time": 1771581859,
-      "rank": 37,
-      "category": "民生新闻"
+      "rank": 35,
+      "category": "汽车"
     },
     {
       "raw_hot": 30844,
@@ -2321,14 +2425,6 @@
       "onboard_time": 1771562240,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 22581,
-      "num": 89116,
-      "word": "科技汽车就选鸿蒙智行",
-      "onboard_time": 1771581859,
-      "rank": 35,
-      "category": "汽车"
     },
     {
       "raw_hot": 22482,
