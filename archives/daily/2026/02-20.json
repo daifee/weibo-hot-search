@@ -1,6 +1,6 @@
 {
   "startTime": 1771517580857,
-  "endTime": 1771578422319,
+  "endTime": 1771581187228,
   "band_list": [
     {
       "raw_hot": 3454416,
@@ -40,6 +40,14 @@
       "word": "将门独后官宣王鹤棣孟子义",
       "onboard_time": 1771553539,
       "rank": 3,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1612735,
+      "num": 1612735,
+      "word": "将门独后 天崩开局",
+      "onboard_time": 1771578140,
+      "rank": 35,
       "category": "剧集"
     },
     {
@@ -203,6 +211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 455840,
+      "num": 455840,
+      "word": "充电器一拔又是一年",
+      "onboard_time": 1771577360,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 451370,
       "num": 606752,
       "word": "500块压岁钱发出5万的感觉",
@@ -235,6 +251,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 404857,
+      "num": 480118,
+      "word": "女子买20元奶茶中奖黄金约25000元",
+      "onboard_time": 1771578679,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 401254,
       "num": 257946,
       "word": "金泰亨说illit像newjeans",
@@ -257,6 +281,14 @@
       "onboard_time": 1771565540,
       "rank": 12,
       "category": "电影"
+    },
+    {
+      "raw_hot": 376924,
+      "num": 459868,
+      "word": "男子用AI鉴定玉石8个月收入上百万",
+      "onboard_time": 1771578739,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 376727,
@@ -299,19 +331,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 335330,
+      "num": 561660,
+      "word": "无接触事故扶老人女生该不该担责",
+      "onboard_time": 1771575259,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 320539,
       "num": 857702,
       "word": "80岁老人把金手镯做成5枚金戒指",
       "onboard_time": 1771563020,
       "rank": 35,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 318607,
-      "num": 561660,
-      "word": "无接触事故扶老人女生该不该担责",
-      "onboard_time": 1771575259,
-      "rank": 4,
       "category": "民生新闻"
     },
     {
@@ -369,14 +401,6 @@
       "onboard_time": 1771545498,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 294660,
-      "num": 294660,
-      "word": "充电器一拔又是一年",
-      "onboard_time": 1771577360,
-      "rank": 25,
-      "category": "情感"
     },
     {
       "raw_hot": 293490,
@@ -571,6 +595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 222380,
+      "num": 222380,
+      "word": "剧版镖人",
+      "onboard_time": 1771576820,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 221444,
       "num": 221444,
       "word": "郭富城说与王一博只聊赛车",
@@ -587,20 +619,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 212499,
+      "num": 893251,
+      "word": "宁忠岩金牌含金量恐怖如斯",
+      "onboard_time": 1771573280,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 211751,
-      "num": 114471,
+      "num": 144103,
       "word": "穆祉丞 海口",
       "onboard_time": 1771575860,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 211044,
-      "num": 211044,
-      "word": "剧版镖人",
-      "onboard_time": 1771576820,
-      "rank": 30,
-      "category": "电影"
     },
     {
       "raw_hot": 207681,
@@ -619,11 +651,19 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 203646,
-      "num": 797556,
-      "word": "宁忠岩金牌含金量恐怖如斯",
-      "onboard_time": 1771573280,
-      "rank": 35,
+      "raw_hot": 206664,
+      "num": 206664,
+      "word": "WTT",
+      "onboard_time": 1771579820,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 206314,
+      "num": 206314,
+      "word": "宁忠岩绝杀时刻各国解说员都疯了",
+      "onboard_time": 1771577899,
+      "rank": 39,
       "category": "体育"
     },
     {
@@ -673,6 +713,14 @@
       "onboard_time": 1771491560,
       "rank": 12,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 195045,
+      "num": 195045,
+      "word": "扶老人被交警定次责非法院终局依据",
+      "onboard_time": 1771579460,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 192711,
@@ -747,12 +795,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 167808,
+      "num": 167808,
+      "word": "卖霉豆腐已经有人实操上了",
+      "onboard_time": 1771579820,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 166514,
       "num": 166514,
       "word": "伊朗",
       "onboard_time": 1771494740,
       "rank": 16,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 164637,
+      "num": 164637,
+      "word": "父亲偷拿儿子压岁钱被判返还82750元",
+      "onboard_time": 1771580298,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 160689,
+      "num": 146641,
+      "word": "镖人",
+      "onboard_time": 1771553059,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 159846,
@@ -803,12 +875,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 152693,
-      "num": 122719,
-      "word": "镖人",
-      "onboard_time": 1771553059,
-      "rank": 24,
-      "category": "电影"
+      "raw_hot": 151151,
+      "num": 136385,
+      "word": "于适半夜三点还在刷二创",
+      "onboard_time": 1771579820,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 150699,
@@ -817,6 +889,14 @@
       "onboard_time": 1771560260,
       "rank": 16,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 146773,
+      "num": 146773,
+      "word": "女子回村吃饭被超大电动餐桌惊呆",
+      "onboard_time": 1771578259,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 146723,
@@ -849,6 +929,14 @@
       "onboard_time": 1771563860,
       "rank": 16,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 135156,
+      "num": 135156,
+      "word": "谷爱凌赌上职业生涯的一跳",
+      "onboard_time": 1771580479,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 132248,
@@ -947,6 +1035,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 118754,
+      "num": 118754,
+      "word": "王鹤棣观众盘",
+      "onboard_time": 1771580298,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 116551,
       "num": 116551,
       "word": "i人过年有的是力气和手段",
@@ -1033,14 +1129,6 @@
       "onboard_time": 1771523415,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 109879,
-      "num": 91358,
-      "word": "将门独后 天崩开局",
-      "onboard_time": 1771578140,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 106110,
@@ -1145,6 +1233,14 @@
       "onboard_time": 1771506502,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 100193,
+      "num": 65871,
+      "word": "H2H新歌MV",
+      "onboard_time": 1771580899,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 100076,
@@ -1443,12 +1539,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 84011,
-      "num": 84011,
-      "word": "宁忠岩绝杀时刻各国解说员都疯了",
-      "onboard_time": 1771577899,
-      "rank": 39,
-      "category": "体育"
+      "raw_hot": 84739,
+      "num": 81834,
+      "word": "陈妍希回应小笼包",
+      "onboard_time": 1771577059,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 84009,
@@ -1643,6 +1739,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 73128,
+      "num": 65046,
+      "word": "肖战和演员导演对戏完全不敷衍",
+      "onboard_time": 1771575500,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 73021,
       "num": 73021,
       "word": "第一批过年受害者",
@@ -1827,6 +1931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 64566,
+      "num": 65055,
+      "word": "宁忠岩夺金打破欧美百年垄断",
+      "onboard_time": 1771580240,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 64216,
       "num": 64216,
       "word": "宁忠岩没吹牛",
@@ -1843,20 +1955,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 62312,
+      "num": 64995,
+      "word": "老己已经到了气血不足的年纪",
+      "onboard_time": 1771580959,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 62253,
       "num": 62253,
       "word": "自取其辱九件套",
       "onboard_time": 1771499720,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 59764,
-      "num": 81834,
-      "word": "陈妍希回应小笼包",
-      "onboard_time": 1771577059,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 58772,
@@ -1963,12 +2075,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 48272,
+      "num": 180963,
+      "word": "勇敢的陈妍希先享受生活",
+      "onboard_time": 1771578199,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 47908,
       "num": 47908,
       "word": "机器人 宇树",
       "onboard_time": 1771543936,
       "rank": 37,
       "category": "数码"
+    },
+    {
+      "raw_hot": 46704,
+      "num": 67731,
+      "word": "檀健次委屈巴巴的告状",
+      "onboard_time": 1771580659,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 44930,
@@ -2003,6 +2131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 40410,
+      "num": 66851,
+      "word": "飞驰3林臻东掏兜是黄景瑜本人",
+      "onboard_time": 1771580899,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 38078,
       "num": 38078,
       "word": "宁忠岩创造历史",
@@ -2017,6 +2153,14 @@
       "onboard_time": 1771523415,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 35820,
+      "num": 206439,
+      "word": "王兴兴说宇树的对手就是自己",
+      "onboard_time": 1771578380,
+      "rank": 44,
+      "category": "互联网"
     },
     {
       "raw_hot": 34744,
@@ -2092,7 +2236,7 @@
     },
     {
       "raw_hot": 24073,
-      "num": 636148,
+      "num": 726033,
       "word": "每一位中国冰雪健儿都闪闪发光",
       "onboard_time": 1771575799,
       "rank": 2,
@@ -2123,14 +2267,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 21157,
-      "num": 95489,
-      "word": "勇敢的陈妍希先享受生活",
-      "onboard_time": 1771578199,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 19506,
       "num": 98535,
       "word": "原来成长是一辈子的事",
@@ -2145,6 +2281,14 @@
       "onboard_time": 1771573700,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 17638,
+      "num": 166154,
+      "word": "春节人形机器人都在忙啥",
+      "onboard_time": 1771580659,
+      "rank": 19,
+      "category": "互联网"
     },
     {
       "raw_hot": 17495,
@@ -2163,28 +2307,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 16089,
-      "num": 70359,
-      "word": "王兴兴说宇树的对手就是自己",
-      "onboard_time": 1771578380,
-      "rank": 44,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 13502,
       "num": 98408,
       "word": "新年第一会是AI癫疯大会",
       "onboard_time": 1771574420,
       "rank": 39,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 7676,
-      "num": 94545,
-      "word": "女子回村吃饭被超大电动餐桌惊呆",
-      "onboard_time": 1771578259,
-      "rank": 32,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

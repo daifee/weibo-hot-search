@@ -1,0 +1,410 @@
+{
+  "runTime": 1771581187228,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1612735,
+        "num": 1612735,
+        "word": "将门独后 天崩开局",
+        "onboard_time": 1771578140,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212499,
+        "num": 893251,
+        "word": "宁忠岩金牌含金量恐怖如斯",
+        "onboard_time": 1771573280,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23211,
+        "num": 726033,
+        "word": "每一位中国冰雪健儿都闪闪发光",
+        "onboard_time": 1771575799,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 404857,
+        "num": 480118,
+        "word": "女子买20元奶茶中奖黄金约25000元",
+        "onboard_time": 1771578679,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 376924,
+        "num": 459868,
+        "word": "男子用AI鉴定玉石8个月收入上百万",
+        "onboard_time": 1771578739,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 455840,
+        "num": 455840,
+        "word": "充电器一拔又是一年",
+        "onboard_time": 1771577360,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 303338,
+        "num": 303338,
+        "word": "广东地震",
+        "onboard_time": 1771569500,
+        "rank": 6,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 302472,
+        "num": 302472,
+        "word": "吴京 我的夫人姓谢",
+        "onboard_time": 1771551499,
+        "rank": 7,
+        "category": "电影,作品衍生"
+      },
+      {
+        "raw_hot": 261412,
+        "num": 261412,
+        "word": "容止 谢景行",
+        "onboard_time": 1771558100,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 233962,
+        "num": 233962,
+        "word": "露上牙说话和露下牙说话的区别",
+        "onboard_time": 1771573638,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 342083,
+        "num": 232047,
+        "word": "王腾回应换iPhone17",
+        "onboard_time": 1771575799,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 335330,
+        "num": 228235,
+        "word": "无接触事故扶老人女生该不该担责",
+        "onboard_time": 1771575259,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222380,
+        "num": 222380,
+        "word": "剧版镖人",
+        "onboard_time": 1771576820,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 206664,
+        "num": 206664,
+        "word": "WTT",
+        "onboard_time": 1771579820,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35820,
+        "num": 206439,
+        "word": "王兴兴说宇树的对手就是自己",
+        "onboard_time": 1771578380,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 206314,
+        "num": 206314,
+        "word": "宁忠岩绝杀时刻各国解说员都疯了",
+        "onboard_time": 1771577899,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195045,
+        "num": 195045,
+        "word": "扶老人被交警定次责非法院终局依据",
+        "onboard_time": 1771579460,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48272,
+        "num": 180963,
+        "word": "勇敢的陈妍希先享受生活",
+        "onboard_time": 1771578199,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167808,
+        "num": 167808,
+        "word": "卖霉豆腐已经有人实操上了",
+        "onboard_time": 1771579820,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 17638,
+        "num": 166154,
+        "word": "春节人形机器人都在忙啥",
+        "onboard_time": 1771580659,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 417738,
+        "num": 165982,
+        "word": "王乐乐官宣恋情",
+        "onboard_time": 1771574540,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 230916,
+        "num": 165411,
+        "word": "金泰亨指责闵熙珍泄露聊天记录",
+        "onboard_time": 1771573759,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164637,
+        "num": 164637,
+        "word": "父亲偷拿儿子压岁钱被判返还82750元",
+        "onboard_time": 1771580298,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167610,
+        "num": 161035,
+        "word": "将门独后官宣王鹤棣孟子义",
+        "onboard_time": 1771553539,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199437,
+        "num": 157091,
+        "word": "关晓彤发表情后秒删",
+        "onboard_time": 1771561999,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146773,
+        "num": 146773,
+        "word": "女子回村吃饭被超大电动餐桌惊呆",
+        "onboard_time": 1771578259,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160689,
+        "num": 146641,
+        "word": "镖人",
+        "onboard_time": 1771553059,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 160522,
+        "num": 144103,
+        "word": "穆祉丞 海口",
+        "onboard_time": 1771575860,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111131,
+        "num": 141150,
+        "word": "解放军有效处置美军在黄海活动",
+        "onboard_time": 1771576040,
+        "rank": 28,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 158599,
+        "num": 138805,
+        "word": "镖人改编 删吻戏",
+        "onboard_time": 1771564819,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 151151,
+        "num": 136385,
+        "word": "于适半夜三点还在刷二创",
+        "onboard_time": 1771579820,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135156,
+        "num": 135156,
+        "word": "谷爱凌赌上职业生涯的一跳",
+        "onboard_time": 1771580479,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145133,
+        "num": 132996,
+        "word": "将门独后开机",
+        "onboard_time": 1771553359,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118754,
+        "num": 118754,
+        "word": "王鹤棣观众盘",
+        "onboard_time": 1771580298,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97949,
+        "num": 97949,
+        "word": "苏翊鸣连考古都是高清的",
+        "onboard_time": 1771572620,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112520,
+        "num": 95437,
+        "word": "杨清柠祝福王乐乐",
+        "onboard_time": 1771573100,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 105447,
+        "num": 94219,
+        "word": "悉尼偶遇张极张峻豪",
+        "onboard_time": 1771572440,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90830,
+        "num": 90830,
+        "word": "儿子寒假睡到中午爸爸不许家人打扰",
+        "onboard_time": 1771569620,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46704,
+        "num": 67731,
+        "word": "檀健次委屈巴巴的告状",
+        "onboard_time": 1771580659,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40410,
+        "num": 66851,
+        "word": "飞驰3林臻东掏兜是黄景瑜本人",
+        "onboard_time": 1771580899,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 66316,
+        "num": 66316,
+        "word": "一家三口返乡途中患病儿子突然离世",
+        "onboard_time": 1771554920,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100193,
+        "num": 65871,
+        "word": "H2H新歌MV",
+        "onboard_time": 1771580899,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 98723,
+        "num": 65799,
+        "word": "张元英ins更新",
+        "onboard_time": 1771576580,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65109,
+        "num": 65109,
+        "word": "80岁老人把金手镯做成5枚金戒指",
+        "onboard_time": 1771563020,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90040,
+        "num": 65096,
+        "word": "将门毒后",
+        "onboard_time": 1771548979,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84739,
+        "num": 65076,
+        "word": "陈妍希回应小笼包",
+        "onboard_time": 1771577059,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 64566,
+        "num": 65055,
+        "word": "宁忠岩夺金打破欧美百年垄断",
+        "onboard_time": 1771580240,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 73128,
+        "num": 65046,
+        "word": "肖战和演员导演对戏完全不敷衍",
+        "onboard_time": 1771575500,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 65718,
+        "num": 65021,
+        "word": "奶奶养大的孩子看不得祝绪丹这段",
+        "onboard_time": 1771575619,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 62312,
+        "num": 64995,
+        "word": "老己已经到了气血不足的年纪",
+        "onboard_time": 1771580959,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记走进李发顺家的故事#"
+    }
+  }
+}
