@@ -1,0 +1,410 @@
+{
+  "runTime": 1771628092069,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 244711,
+        "num": 564778,
+        "word": "迎财神",
+        "onboard_time": 1771600401,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218797,
+        "num": 414174,
+        "word": "金吉莉1500米金牌",
+        "onboard_time": 1771623674,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15454,
+        "num": 328052,
+        "word": "中国非遗给你亿点点震撼",
+        "onboard_time": 1771595002,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106161,
+        "num": 106161,
+        "word": "王心迪夺冠后李天马大喊回家生孩子",
+        "onboard_time": 1771604300,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99791,
+        "num": 99791,
+        "word": "将门毒后不是大ip是巨ip",
+        "onboard_time": 1771591041,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97118,
+        "num": 97118,
+        "word": "王心迪金牌",
+        "onboard_time": 1771595302,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83095,
+        "num": 83095,
+        "word": "中国队男子5000米接力B组第一",
+        "onboard_time": 1771621093,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 80588,
+        "num": 80588,
+        "word": "米兰短道速滑女子1500米",
+        "onboard_time": 1771618635,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 74521,
+        "num": 74521,
+        "word": "王心迪徐梦桃 金牌夫妻",
+        "onboard_time": 1771595546,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 70376,
+        "num": 70376,
+        "word": "杨幂无意中摔出来意外的感觉",
+        "onboard_time": 1771597403,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 217199,
+        "num": 70239,
+        "word": "贝加尔湖事故遇难者遗体被找到",
+        "onboard_time": 1771618573,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 62362,
+        "num": 62362,
+        "word": "将门独后 天崩开局",
+        "onboard_time": 1771578140,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 58841,
+        "num": 58841,
+        "word": "中国短道队结束米兰冬奥征程",
+        "onboard_time": 1771625234,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 57838,
+        "num": 57838,
+        "word": "将门独后领衔主演杨仕泽姚弛",
+        "onboard_time": 1771604121,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52900,
+        "num": 52900,
+        "word": "五路财神",
+        "onboard_time": 1771618635,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51860,
+        "num": 51860,
+        "word": "谷爱凌进了第三个决赛",
+        "onboard_time": 1771606578,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 46440,
+        "num": 46440,
+        "word": "美最高法院裁定特朗普关税违法",
+        "onboard_time": 1771602981,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 42215,
+        "num": 42215,
+        "word": "中国游客赴日人数暴跌日媒回应没影响",
+        "onboard_time": 1771600041,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 38148,
+        "num": 38148,
+        "word": "方大同去世一周年",
+        "onboard_time": 1771606938,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36035,
+        "num": 36035,
+        "word": "女子发现网购大衣出现手写名字",
+        "onboard_time": 1771594103,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46709,
+        "num": 35963,
+        "word": "爸爸回应不许家人打扰儿子睡懒觉",
+        "onboard_time": 1771595002,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46550,
+        "num": 35890,
+        "word": "你敢不敢用一年时间重启自己",
+        "onboard_time": 1771604541,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 35799,
+        "num": 35799,
+        "word": "全世界为什么只有中国人吃炒菜",
+        "onboard_time": 1771588101,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 35501,
+        "num": 35501,
+        "word": "吴京 绿卡最严厉的父亲",
+        "onboard_time": 1771594643,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 35277,
+        "num": 35277,
+        "word": "兔子战术",
+        "onboard_time": 1771618752,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32018,
+        "num": 32018,
+        "word": "方家翊整容后小区门禁人脸识别失败",
+        "onboard_time": 1771601720,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30089,
+        "num": 30089,
+        "word": "目击者还原车辆坠贝加尔湖经过",
+        "onboard_time": 1771597103,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 29473,
+        "num": 29473,
+        "word": "将门独后全阵容官宣",
+        "onboard_time": 1771597163,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29021,
+        "num": 29021,
+        "word": "短剧上星 不匹配电视",
+        "onboard_time": 1771591821,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27951,
+        "num": 27951,
+        "word": "儿子离家1年母亲在短视频发现踪迹",
+        "onboard_time": 1771608377,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30456,
+        "num": 27935,
+        "word": "任子威哎哟一次摔倒一个",
+        "onboard_time": 1771621334,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27479,
+        "num": 27479,
+        "word": "年轻人装修的厨房有多方便",
+        "onboard_time": 1771608377,
+        "rank": 31,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 27357,
+        "num": 27357,
+        "word": "任子威不理解裁判判罚",
+        "onboard_time": 1771622834,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27356,
+        "num": 27356,
+        "word": "徐梦桃回应王心迪夺冠",
+        "onboard_time": 1771599802,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26550,
+        "num": 26550,
+        "word": "苏翊鸣昨天刚和徐梦桃王心迪合影",
+        "onboard_time": 1771599442,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25843,
+        "num": 25843,
+        "word": "正月初五接财神",
+        "onboard_time": 1771605441,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25000,
+        "num": 25000,
+        "word": "火锅店春节4天赚33.9万全给员工",
+        "onboard_time": 1771589182,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24862,
+        "num": 24862,
+        "word": "将门独后",
+        "onboard_time": 1771596324,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24785,
+        "num": 24785,
+        "word": "杨婧茹1500米第四",
+        "onboard_time": 1771623313,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21710,
+        "num": 21710,
+        "word": "郭宇欣主演短剧在电视播出",
+        "onboard_time": 1771604061,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21600,
+        "num": 21600,
+        "word": "任子威说宁忠岩金牌含金量最高",
+        "onboard_time": 1771626735,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21536,
+        "num": 21536,
+        "word": "徐梦桃说王心迪永远是洗袜子的那个",
+        "onboard_time": 1771606518,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19977,
+        "num": 21533,
+        "word": "惊蛰无声",
+        "onboard_time": 1771587260,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 19060,
+        "num": 21526,
+        "word": "世界难度第一人齐广璞",
+        "onboard_time": 1771603880,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18453,
+        "num": 21513,
+        "word": "中国队4金3银5铜",
+        "onboard_time": 1771598182,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17133,
+        "num": 21505,
+        "word": "比利时选手兔子战术成功",
+        "onboard_time": 1771618873,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15927,
+        "num": 21488,
+        "word": "李天马铜牌",
+        "onboard_time": 1771595665,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15084,
+        "num": 21485,
+        "word": "唐宫奇案",
+        "onboard_time": 1771614495,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14306,
+        "num": 21469,
+        "word": "人民日报于适访谈完整版",
+        "onboard_time": 1771611076,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14141,
+        "num": 21458,
+        "word": "岁月有情时",
+        "onboard_time": 1771588402,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#千年文脉川流不息#"
+    }
+  }
+}
