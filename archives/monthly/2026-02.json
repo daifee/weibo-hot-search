@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1771563869949,
+  "endTime": 1771567231711,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -4729,6 +4729,14 @@
       "onboard_time": 1771296802,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 594207,
+      "num": 157415,
+      "word": "内蒙古男子因喂流浪猫被杀害",
+      "onboard_time": 1771564339,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 593778,
@@ -10635,6 +10643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 330371,
+      "num": 157095,
+      "word": "吴京跳刀马 扣了16次扳机",
+      "onboard_time": 1771565540,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
       "raw_hot": 330348,
       "num": 188183,
       "word": "GALA的腹肌",
@@ -12867,6 +12883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 283386,
+      "num": 143588,
+      "word": "短剧上星",
+      "onboard_time": 1771565001,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 283343,
       "num": 283343,
       "word": "中方回应特朗普预计4月初访华",
@@ -12913,6 +12937,14 @@
       "onboard_time": 1771377139,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 282801,
+      "num": 198749,
+      "word": "黄一鸣回应长得像刘亦菲",
+      "onboard_time": 1771561880,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 282554,
@@ -13209,6 +13241,14 @@
       "onboard_time": 1770210921,
       "rank": 20,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 276845,
+      "num": 857702,
+      "word": "80岁老人把金手镯做成5枚金戒指",
+      "onboard_time": 1771563020,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 276602,
@@ -13691,6 +13731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 267339,
+      "num": 123655,
+      "word": "镖人改编 删吻戏",
+      "onboard_time": 1771564819,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 267078,
       "num": 135895,
       "word": "美24岁女子假扮15岁少女诱捕警察",
@@ -14123,14 +14171,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 258940,
-      "num": 198749,
-      "word": "黄一鸣回应长得像刘亦菲",
-      "onboard_time": 1771561880,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 258639,
       "num": 258639,
       "word": "名侦探柯南 联动",
@@ -14489,6 +14529,14 @@
       "onboard_time": 1770700581,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 253106,
+      "num": 116106,
+      "word": "于正金粉红包 还没领完",
+      "onboard_time": 1771563800,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 253012,
@@ -22291,14 +22339,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 153303,
-      "num": 127977,
-      "word": "80岁老人把金手镯做成5枚金戒指",
-      "onboard_time": 1771563020,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 153259,
       "num": 172805,
       "word": "刘少昂孙龙林孝埈1500米冲金",
@@ -23737,6 +23777,14 @@
       "onboard_time": 1770110660,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 142008,
+      "num": 156635,
+      "word": "五年了沃尔沃总裁怎么还在玩命",
+      "onboard_time": 1771563860,
+      "rank": 16,
+      "category": "汽车"
     },
     {
       "raw_hot": 141964,
@@ -25337,6 +25385,14 @@
       "onboard_time": 1770777260,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 132248,
+      "num": 101432,
+      "word": "夜王",
+      "onboard_time": 1771565001,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 132209,
@@ -28563,6 +28619,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 115851,
+      "num": 101137,
+      "word": "陈泽觉得张元英比柳智敏漂亮",
+      "onboard_time": 1771564339,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 115799,
       "num": 115799,
       "word": "谷爱凌第三滑摔倒",
@@ -28985,6 +29049,14 @@
       "onboard_time": 1771068320,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 113885,
+      "num": 100413,
+      "word": "陈妍希脱口秀首秀",
+      "onboard_time": 1771564581,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 113867,
@@ -29673,6 +29745,14 @@
       "onboard_time": 1771409601,
       "rank": 38,
       "category": "网红"
+    },
+    {
+      "raw_hot": 111422,
+      "num": 111422,
+      "word": "男子连番自摸突然栽倒血压200多",
+      "onboard_time": 1771562840,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111380,
@@ -32979,6 +33059,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 100510,
+      "num": 100510,
+      "word": "黑龙江体育局慰问宁忠岩父母",
+      "onboard_time": 1771565840,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 100503,
       "num": 114494,
       "word": "苏翊鸣决赛堪比神仙打架",
@@ -34979,6 +35067,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 94331,
+      "num": 94331,
+      "word": "祭祖闯祸",
+      "onboard_time": 1771564220,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 94327,
       "num": 94327,
       "word": "杨幂贺岁图",
@@ -35563,14 +35659,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 92543,
-      "num": 99515,
-      "word": "男子连番自摸突然栽倒血压200多",
-      "onboard_time": 1771562840,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 92540,
       "num": 92540,
       "word": "韩聪回应隋文静摔倒原因",
@@ -35641,6 +35729,14 @@
       "onboard_time": 1770796761,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 92431,
+      "num": 92431,
+      "word": "小猫的雷霆坐姿",
+      "onboard_time": 1771563560,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 92410,
@@ -37707,6 +37803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 87170,
+      "num": 87170,
+      "word": "齐广璞冲金",
+      "onboard_time": 1771565540,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 87143,
       "num": 87143,
       "word": "郭晶晶霍启刚做马蹄糕拜年",
@@ -38931,6 +39035,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 83377,
+      "num": 83377,
+      "word": "土豆的100种死法",
+      "onboard_time": 1771567040,
+      "rank": 45,
+      "category": "美食"
+    },
+    {
       "raw_hot": 83362,
       "num": 115978,
       "word": "领免费鸡蛋买高价产品老人后悔落泪",
@@ -39105,6 +39217,14 @@
       "onboard_time": 1770205822,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 83024,
+      "num": 83024,
+      "word": "鸡景房",
+      "onboard_time": 1771566440,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 83022,
@@ -39905,14 +40025,6 @@
       "onboard_time": 1771149020,
       "rank": 43,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 80873,
-      "num": 91515,
-      "word": "小猫的雷霆坐姿",
-      "onboard_time": 1771563560,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 80830,
@@ -46763,6 +46875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 57501,
+      "num": 154230,
+      "word": "打金店9个月收集300克金粉价值30万",
+      "onboard_time": 1771566259,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57498,
       "num": 191850,
       "word": "徐梦桃让世界看见中国红",
@@ -49169,14 +49289,6 @@
       "onboard_time": 1770852438,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 45132,
-      "num": 100459,
-      "word": "于正金粉红包 还没领完",
-      "onboard_time": 1771563800,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 45117,
@@ -54723,6 +54835,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 20909,
+      "num": 673712,
+      "word": "骑马踏雪巡逻的边防战士",
+      "onboard_time": 1771558338,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20876,
       "num": 33417,
       "word": "苏翊鸣预赛排名第四",
@@ -55705,6 +55825,14 @@
       "onboard_time": 1771006815,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 17495,
+      "num": 92679,
+      "word": "雕刻奥特曼石窟男子近况",
+      "onboard_time": 1771566200,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17494,

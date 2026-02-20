@@ -1,6 +1,6 @@
 {
   "startTime": 1771517580857,
-  "endTime": 1771563869949,
+  "endTime": 1771567231711,
   "band_list": [
     {
       "raw_hot": 3454416,
@@ -107,6 +107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 594207,
+      "num": 157415,
+      "word": "内蒙古男子因喂流浪猫被杀害",
+      "onboard_time": 1771564339,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 549929,
       "num": 196680,
       "word": "刘德华解冻失败",
@@ -211,6 +219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 330371,
+      "num": 157095,
+      "word": "吴京跳刀马 扣了16次扳机",
+      "onboard_time": 1771565540,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
       "raw_hot": 316991,
       "num": 114690,
       "word": "特朗普称奥巴马涉外星人言论泄密",
@@ -275,12 +291,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 283386,
+      "num": 143588,
+      "word": "短剧上星",
+      "onboard_time": 1771565001,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 282801,
+      "num": 198749,
+      "word": "黄一鸣回应长得像刘亦菲",
+      "onboard_time": 1771561880,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 277010,
       "num": 277010,
       "word": "将门独后官宣节奏",
       "onboard_time": 1771506020,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 276845,
+      "num": 857702,
+      "word": "80岁老人把金手镯做成5枚金戒指",
+      "onboard_time": 1771563020,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 276519,
@@ -297,6 +337,14 @@
       "onboard_time": 1771556179,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 267339,
+      "num": 123655,
+      "word": "镖人改编 删吻戏",
+      "onboard_time": 1771564819,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 267078,
@@ -321,14 +369,6 @@
       "onboard_time": 1771557140,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 258940,
-      "num": 198749,
-      "word": "黄一鸣回应长得像刘亦菲",
-      "onboard_time": 1771561880,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 258356,
@@ -361,6 +401,14 @@
       "onboard_time": 1771513702,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 253106,
+      "num": 116106,
+      "word": "于正金粉红包 还没领完",
+      "onboard_time": 1771563800,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 250116,
@@ -571,14 +619,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 153303,
-      "num": 127977,
-      "word": "80岁老人把金手镯做成5枚金戒指",
-      "onboard_time": 1771563020,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 152949,
       "num": 152949,
       "word": "宁忠岩飞起来了",
@@ -609,6 +649,30 @@
       "onboard_time": 1771525995,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 142008,
+      "num": 156635,
+      "word": "五年了沃尔沃总裁怎么还在玩命",
+      "onboard_time": 1771563860,
+      "rank": 16,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 133952,
+      "num": 121171,
+      "word": "镖人",
+      "onboard_time": 1771553059,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 132248,
+      "num": 101432,
+      "word": "夜王",
+      "onboard_time": 1771565001,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 130056,
@@ -667,20 +731,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 121171,
-      "num": 121171,
-      "word": "镖人",
-      "onboard_time": 1771553059,
-      "rank": 24,
-      "category": "电影"
-    },
-    {
       "raw_hot": 120642,
       "num": 120642,
       "word": "镖人 CP佛跳墙",
       "onboard_time": 1771551439,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 115851,
+      "num": 101137,
+      "word": "陈泽觉得张元英比柳智敏漂亮",
+      "onboard_time": 1771564339,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 114276,
@@ -691,12 +755,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 113885,
+      "num": 100413,
+      "word": "陈妍希脱口秀首秀",
+      "onboard_time": 1771564581,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 112665,
       "num": 112665,
       "word": "这部剧一个流量生都没有",
       "onboard_time": 1771559059,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 111422,
+      "num": 111422,
+      "word": "男子连番自摸突然栽倒血压200多",
+      "onboard_time": 1771562840,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 110293,
@@ -795,6 +875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 100510,
+      "num": 100510,
+      "word": "黑龙江体育局慰问宁忠岩父母",
+      "onboard_time": 1771565840,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 100242,
       "num": 100242,
       "word": "觉得自己闯祸的可以看看美国四人雪车",
@@ -843,6 +931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94331,
+      "num": 94331,
+      "word": "祭祖闯祸",
+      "onboard_time": 1771564220,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 94041,
       "num": 94041,
       "word": "原来被子的咬合力这么惊人",
@@ -875,14 +971,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 92543,
-      "num": 99515,
-      "word": "男子连番自摸突然栽倒血压200多",
-      "onboard_time": 1771562840,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 92532,
       "num": 92532,
       "word": "谷爱凌晋级U型场地决赛",
@@ -897,6 +985,14 @@
       "onboard_time": 1771562119,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 92431,
+      "num": 92431,
+      "word": "小猫的雷霆坐姿",
+      "onboard_time": 1771563560,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 91702,
@@ -939,6 +1035,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 89076,
+      "num": 89076,
+      "word": "飞驰人生3杀疯了",
+      "onboard_time": 1771562181,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 88765,
       "num": 88765,
       "word": "中国队升至冬奥奖牌榜第12",
@@ -961,6 +1065,14 @@
       "onboard_time": 1771553539,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 87170,
+      "num": 87170,
+      "word": "齐广璞冲金",
+      "onboard_time": 1771565540,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 87143,
@@ -1019,6 +1131,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 83377,
+      "num": 83377,
+      "word": "土豆的100种死法",
+      "onboard_time": 1771567040,
+      "rank": 45,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 83024,
+      "num": 83024,
+      "word": "鸡景房",
+      "onboard_time": 1771566440,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 82186,
       "num": 82186,
       "word": "苏翊鸣因北京冬奥会放弃当演员",
@@ -1041,14 +1169,6 @@
       "onboard_time": 1771513880,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 80873,
-      "num": 91515,
-      "word": "小猫的雷霆坐姿",
-      "onboard_time": 1771563560,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 80148,
@@ -1315,6 +1435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 57501,
+      "num": 154230,
+      "word": "打金店9个月收集300克金粉价值30万",
+      "onboard_time": 1771566259,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 56242,
       "num": 120146,
       "word": "10年前被抓拍母女家属发声",
@@ -1393,14 +1521,6 @@
       "onboard_time": 1771543936,
       "rank": 37,
       "category": "数码"
-    },
-    {
-      "raw_hot": 45132,
-      "num": 100459,
-      "word": "于正金粉红包 还没领完",
-      "onboard_time": 1771563800,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 44930,
@@ -1539,12 +1659,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 20909,
+      "num": 673712,
+      "word": "骑马踏雪巡逻的边防战士",
+      "onboard_time": 1771558338,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19506,
       "num": 98535,
       "word": "原来成长是一辈子的事",
       "onboard_time": 1771559659,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 17495,
+      "num": 92679,
+      "word": "雕刻奥特曼石窟男子近况",
+      "onboard_time": 1771566200,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 16340,
