@@ -1,10 +1,10 @@
 {
   "startTime": 1771603272383,
-  "endTime": 1771603272383,
+  "endTime": 1771606343524,
   "band_list": [
     {
-      "raw_hot": 1100818,
-      "num": 1176130,
+      "raw_hot": 1609922,
+      "num": 1609922,
       "word": "迎财神",
       "onboard_time": 1771600401,
       "rank": 0,
@@ -25,6 +25,14 @@
       "onboard_time": 1771597403,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 576299,
+      "num": 378386,
+      "word": "6名消防员坠崖牺牲目击村民发声",
+      "onboard_time": 1771601062,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 531241,
@@ -59,19 +67,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 378386,
-      "num": 378386,
-      "word": "6名消防员坠崖牺牲目击村民发声",
-      "onboard_time": 1771601062,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 372185,
       "num": 372185,
       "word": "苏翊鸣昨天刚和徐梦桃王心迪合影",
       "onboard_time": 1771599442,
       "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 335102,
+      "num": 335102,
+      "word": "王心迪夺冠后李天马大喊回家生孩子",
+      "onboard_time": 1771604300,
+      "rank": 4,
       "category": "体育"
     },
     {
@@ -107,6 +115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 186748,
+      "num": 156981,
+      "word": "方家翊整容后小区门禁人脸识别失败",
+      "onboard_time": 1771601720,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 185614,
       "num": 185614,
       "word": "火锅店春节4天赚33.9万全给员工",
@@ -121,6 +137,14 @@
       "onboard_time": 1771597103,
       "rank": 15,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 171150,
+      "num": 71652,
+      "word": "世界难度第一人齐广璞",
+      "onboard_time": 1771603880,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 151815,
@@ -155,20 +179,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 125983,
+      "num": 125983,
+      "word": "江苏这个小品敢拍",
+      "onboard_time": 1771599623,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 123305,
       "num": 123305,
       "word": "王心迪回应金牌夫妇",
       "onboard_time": 1771600702,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 120381,
-      "num": 120381,
-      "word": "方家翊整容后小区门禁人脸识别失败",
-      "onboard_time": 1771601720,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 117554,
@@ -179,20 +203,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 115736,
-      "num": 111253,
-      "word": "江苏这个小品敢拍",
-      "onboard_time": 1771599623,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 112564,
       "num": 112564,
       "word": "奖牌榜",
       "onboard_time": 1771596263,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 105498,
+      "num": 92055,
+      "word": "你敢不敢用一年时间重启自己",
+      "onboard_time": 1771604541,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 102514,
@@ -209,6 +233,14 @@
       "onboard_time": 1771599562,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 96033,
+      "num": 141763,
+      "word": "李天马快乐小马",
+      "onboard_time": 1771602920,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 94469,
@@ -243,20 +275,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 79988,
+      "num": 79988,
+      "word": "将门独后领衔主演杨仕泽姚弛",
+      "onboard_time": 1771604121,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 79234,
+      "num": 136265,
+      "word": "美最高法院裁定特朗普关税违法",
+      "onboard_time": 1771602981,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 78533,
       "num": 78533,
       "word": "徐梦桃拥抱王心迪",
       "onboard_time": 1771599201,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 77215,
-      "num": 136265,
-      "word": "美最高法院裁定特朗普关税违法",
-      "onboard_time": 1771602981,
-      "rank": 21,
-      "category": "国际时政"
     },
     {
       "raw_hot": 76866,
@@ -307,6 +347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 71040,
+      "num": 71040,
+      "word": "冬奥会速度滑冰女子1500米",
+      "onboard_time": 1771605140,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 70658,
       "num": 70658,
       "word": "返乡年轻人春节挤爆县城酒店",
@@ -339,8 +387,16 @@
       "category": "财经"
     },
     {
+      "raw_hot": 65821,
+      "num": 65821,
+      "word": "郭宇欣主演短剧在电视播出",
+      "onboard_time": 1771604061,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 64923,
-      "num": 64923,
+      "num": 65771,
       "word": "杨幂带火吊带条纹长裙",
       "onboard_time": 1771584440,
       "rank": 45,
@@ -379,6 +435,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 59320,
+      "num": 65821,
+      "word": "唐宫男女主从赐婚到退婚只用了一集",
+      "onboard_time": 1771605078,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 46994,
+      "num": 65802,
+      "word": "大侦探11云合登顶",
+      "onboard_time": 1771603520,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 43408,
       "num": 696798,
       "word": "中国非遗给你亿点点震撼",
@@ -387,12 +459,44 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 39217,
-      "num": 141763,
-      "word": "李天马快乐小马",
-      "onboard_time": 1771602920,
-      "rank": 19,
+      "raw_hot": 41014,
+      "num": 65789,
+      "word": "正月初五接财神",
+      "onboard_time": 1771605441,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 38177,
+      "num": 65783,
+      "word": "中国队4金3银5铜",
+      "onboard_time": 1771598182,
+      "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 37825,
+      "num": 65782,
+      "word": "李佩仪萧怀瑾分手",
+      "onboard_time": 1771590321,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 37472,
+      "num": 65778,
+      "word": "吴佳尼自曝离婚原因",
+      "onboard_time": 1771584500,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 35984,
+      "num": 65767,
+      "word": "宋威龙你顶着这张脸四肢爬行啊",
+      "onboard_time": 1771589542,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 28794,

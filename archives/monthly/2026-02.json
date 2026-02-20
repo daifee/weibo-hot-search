@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1771603272383,
+  "endTime": 1771606343524,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -955,6 +955,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1609922,
+      "num": 1609922,
+      "word": "迎财神",
+      "onboard_time": 1771600401,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1607463,
       "num": 928793,
       "word": "迪丽热巴 朵莉亚新皮肤",
@@ -1737,14 +1745,6 @@
       "onboard_time": 1770294929,
       "rank": 10,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1100818,
-      "num": 1176130,
-      "word": "迎财神",
-      "onboard_time": 1771600401,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1099828,
@@ -5121,6 +5121,14 @@
       "onboard_time": 1770019641,
       "rank": 4,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 576299,
+      "num": 378386,
+      "word": "6名消防员坠崖牺牲目击村民发声",
+      "onboard_time": 1771601062,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 576240,
@@ -9067,14 +9075,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 378386,
-      "num": 378386,
-      "word": "6名消防员坠崖牺牲目击村民发声",
-      "onboard_time": 1771601062,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 377880,
       "num": 168958,
       "word": "立威廉去年已进行2次手术",
@@ -10761,6 +10761,14 @@
       "onboard_time": 1771158681,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 335102,
+      "num": 335102,
+      "word": "王心迪夺冠后李天马大喊回家生孩子",
+      "onboard_time": 1771604300,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 335100,
@@ -19915,6 +19923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186748,
+      "num": 156981,
+      "word": "方家翊整容后小区门禁人脸识别失败",
+      "onboard_time": 1771601720,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186661,
       "num": 186661,
       "word": "国投白银LOF再次跌停",
@@ -21297,6 +21313,14 @@
       "onboard_time": 1770080839,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 171150,
+      "num": 71652,
+      "word": "世界难度第一人齐广璞",
+      "onboard_time": 1771603880,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 171040,
@@ -27379,6 +27403,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 125983,
+      "num": 125983,
+      "word": "江苏这个小品敢拍",
+      "onboard_time": 1771599623,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 125964,
       "num": 125036,
       "word": "那英曾说要在袁惟仁病床前唱梦醒了",
@@ -28433,14 +28465,6 @@
       "onboard_time": 1770212841,
       "rank": 28,
       "category": "军事"
-    },
-    {
-      "raw_hot": 120381,
-      "num": 120381,
-      "word": "方家翊整容后小区门禁人脸识别失败",
-      "onboard_time": 1771601720,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 120319,
@@ -29545,14 +29569,6 @@
       "onboard_time": 1770564441,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 115736,
-      "num": 112470,
-      "word": "江苏这个小品敢拍",
-      "onboard_time": 1771599623,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 115688,
@@ -32417,6 +32433,14 @@
       "onboard_time": 1771339103,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 105498,
+      "num": 92055,
+      "word": "你敢不敢用一年时间重启自己",
+      "onboard_time": 1771604541,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 105494,
@@ -35561,6 +35585,14 @@
       "onboard_time": 1771512261,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 96033,
+      "num": 141763,
+      "word": "李天马快乐小马",
+      "onboard_time": 1771602920,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 96024,
@@ -41747,6 +41779,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 79988,
+      "num": 79988,
+      "word": "将门独后领衔主演杨仕泽姚弛",
+      "onboard_time": 1771604121,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 79960,
       "num": 79960,
       "word": "子女与看护在医院抢102岁老人",
@@ -42113,6 +42153,14 @@
       "onboard_time": 1771408941,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 79234,
+      "num": 136265,
+      "word": "美最高法院裁定特朗普关税违法",
+      "onboard_time": 1771602981,
+      "rank": 21,
+      "category": "国际时政"
     },
     {
       "raw_hot": 79206,
@@ -42857,14 +42905,6 @@
       "onboard_time": 1771586781,
       "rank": 19,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 77215,
-      "num": 136265,
-      "word": "美最高法院裁定特朗普关税违法",
-      "onboard_time": 1771602981,
-      "rank": 21,
-      "category": "国际时政"
     },
     {
       "raw_hot": 77214,
@@ -44931,6 +44971,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 71040,
+      "num": 71040,
+      "word": "冬奥会速度滑冰女子1500米",
+      "onboard_time": 1771605140,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 71037,
       "num": 109518,
       "word": "过年聚会时的我",
@@ -46449,6 +46497,14 @@
       "onboard_time": 1770627742,
       "rank": 49,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 65821,
+      "num": 65821,
+      "word": "郭宇欣主演短剧在电视播出",
+      "onboard_time": 1771604061,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 65780,
@@ -48161,6 +48217,14 @@
       "onboard_time": 1771501823,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 59320,
+      "num": 65821,
+      "word": "唐宫男女主从赐婚到退婚只用了一集",
+      "onboard_time": 1771605078,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 59291,
@@ -50555,6 +50619,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 46994,
+      "num": 65802,
+      "word": "大侦探11云合登顶",
+      "onboard_time": 1771603520,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 46959,
       "num": 106335,
       "word": "英国48家集团主席呼吁到中国去",
@@ -51851,6 +51923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41014,
+      "num": 65789,
+      "word": "正月初五接财神",
+      "onboard_time": 1771605441,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41006,
       "num": 78799,
       "word": "义乌的梗多到追不过来",
@@ -52121,14 +52201,6 @@
       "onboard_time": 1770612502,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 39217,
-      "num": 141763,
-      "word": "李天马快乐小马",
-      "onboard_time": 1771602920,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 39216,
