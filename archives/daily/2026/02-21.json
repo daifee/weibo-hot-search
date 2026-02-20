@@ -1,6 +1,6 @@
 {
   "startTime": 1771603272383,
-  "endTime": 1771630663949,
+  "endTime": 1771631555285,
   "band_list": [
     {
       "raw_hot": 1609922,
@@ -33,6 +33,14 @@
       "onboard_time": 1771601062,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 556594,
+      "num": 123560,
+      "word": "那艺娜劣迹艺人",
+      "onboard_time": 1771631538,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 531241,
@@ -84,7 +92,7 @@
     },
     {
       "raw_hot": 346578,
-      "num": 667997,
+      "num": 739467,
       "word": "金吉莉1500米金牌",
       "onboard_time": 1771623674,
       "rank": 3,
@@ -92,15 +100,15 @@
     },
     {
       "raw_hot": 337154,
-      "num": 113046,
+      "num": 120092,
       "word": "贝加尔湖事故遇难者遗体被找到",
       "onboard_time": 1771618573,
       "rank": 10,
       "category": "海外新闻"
     },
     {
-      "raw_hot": 305286,
-      "num": 112055,
+      "raw_hot": 306860,
+      "num": 117357,
       "word": "这种致癌物在春节很常见",
       "onboard_time": 1771628895,
       "rank": 11,
@@ -139,12 +147,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 213953,
+      "num": 213953,
+      "word": "沈娇娇是个眼圆脸圆的甜妹",
+      "onboard_time": 1771629917,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 210189,
       "num": 210189,
       "word": "将门独后",
       "onboard_time": 1771596324,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 191441,
+      "num": 113388,
+      "word": "特朗普称将加征10%全球进口关税",
+      "onboard_time": 1771631176,
+      "rank": 13,
+      "category": "国际时政"
     },
     {
       "raw_hot": 186748,
@@ -179,6 +203,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 171417,
+      "num": 171417,
+      "word": "正月初五接财神",
+      "onboard_time": 1771605441,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 169185,
       "num": 100619,
       "word": "方大同去世一周年",
@@ -187,11 +219,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 156350,
-      "num": 156350,
-      "word": "正月初五接财神",
-      "onboard_time": 1771605441,
-      "rank": 42,
+      "raw_hot": 154302,
+      "num": 59059,
+      "word": "妹妹回应给60cm哥哥买新衣服",
+      "onboard_time": 1771628295,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -201,6 +233,14 @@
       "onboard_time": 1771601002,
       "rank": 16,
       "category": "美食"
+    },
+    {
+      "raw_hot": 144670,
+      "num": 144670,
+      "word": "华住回应桔子酒店恐吓女顾客",
+      "onboard_time": 1771628295,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 144284,
@@ -217,30 +257,6 @@
       "onboard_time": 1771593502,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 141269,
-      "num": 49386,
-      "word": "妹妹回应给60cm哥哥买新衣服",
-      "onboard_time": 1771628295,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 141260,
-      "num": 141260,
-      "word": "沈娇娇是个眼圆脸圆的甜妹",
-      "onboard_time": 1771629917,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 138275,
-      "num": 138275,
-      "word": "华住回应桔子酒店恐吓女顾客",
-      "onboard_time": 1771628295,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 132662,
@@ -291,6 +307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110829,
+      "num": 92705,
+      "word": "爸爸回应不许家人打扰儿子睡懒觉",
+      "onboard_time": 1771595002,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109903,
       "num": 92055,
       "word": "你敢不敢用一年时间重启自己",
@@ -300,7 +324,7 @@
     },
     {
       "raw_hot": 104972,
-      "num": 83686,
+      "num": 88881,
       "word": "将门独后领衔主演杨仕泽姚弛",
       "onboard_time": 1771604121,
       "rank": 25,
@@ -331,14 +355,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 97245,
-      "num": 92705,
-      "word": "爸爸回应不许家人打扰儿子睡懒觉",
-      "onboard_time": 1771595002,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 96033,
       "num": 141763,
       "word": "李天马快乐小马",
@@ -361,6 +377,14 @@
       "onboard_time": 1771621093,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 90781,
+      "num": 70760,
+      "word": "财神壁纸",
+      "onboard_time": 1771630397,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87728,
@@ -403,6 +427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 77462,
+      "num": 59051,
+      "word": "马克龙愤怒回应意大利总理涉法言论",
+      "onboard_time": 1771630037,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 76866,
       "num": 76866,
       "word": "吴京争取拍镖人第二部",
@@ -424,14 +456,6 @@
       "word": "儿子离家1年母亲在短视频发现踪迹",
       "onboard_time": 1771608377,
       "rank": 26,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 74547,
-      "num": 64237,
-      "word": "财神壁纸",
-      "onboard_time": 1771630397,
-      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -475,6 +499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 71442,
+      "num": 71442,
+      "word": "美国或需退还1750亿美元关税",
+      "onboard_time": 1771629977,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 70658,
       "num": 70658,
       "word": "返乡年轻人春节挤爆县城酒店",
@@ -491,6 +523,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 68064,
+      "num": 70412,
+      "word": "五路财神",
+      "onboard_time": 1771618635,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 67495,
       "num": 67495,
       "word": "新年最无语的烟花出现了",
@@ -499,12 +539,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 67129,
-      "num": 49382,
-      "word": "马克龙愤怒回应意大利总理涉法言论",
-      "onboard_time": 1771630037,
-      "rank": 31,
-      "category": "国际时政"
+      "raw_hot": 66958,
+      "num": 66958,
+      "word": "这些行为正在偷偷消耗你的气血",
+      "onboard_time": 1771629857,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 66057,
@@ -531,22 +571,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 64318,
-      "num": 64318,
-      "word": "五路财神",
-      "onboard_time": 1771618635,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 64174,
-      "num": 64174,
-      "word": "这些行为正在偷偷消耗你的气血",
-      "onboard_time": 1771629857,
-      "rank": 23,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 63904,
       "num": 63904,
       "word": "王心迪132.60分",
@@ -564,7 +588,7 @@
     },
     {
       "raw_hot": 61931,
-      "num": 44977,
+      "num": 56580,
       "word": "年轻人装修的厨房有多方便",
       "onboard_time": 1771608377,
       "rank": 30,
@@ -619,16 +643,16 @@
       "category": "体育"
     },
     {
-      "raw_hot": 49425,
-      "num": 49425,
-      "word": "美国或需退还1750亿美元关税",
-      "onboard_time": 1771629977,
-      "rank": 29,
-      "category": "国际时政"
+      "raw_hot": 48814,
+      "num": 48814,
+      "word": "徐梦桃这张照片含金量超高",
+      "onboard_time": 1771630276,
+      "rank": 37,
+      "category": "体育"
     },
     {
-      "raw_hot": 47223,
-      "num": 47223,
+      "raw_hot": 47906,
+      "num": 47906,
       "word": "短道速滑",
       "onboard_time": 1771629857,
       "rank": 34,
@@ -648,14 +672,6 @@
       "word": "兔子战术",
       "onboard_time": 1771618752,
       "rank": 9,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 44214,
-      "num": 44214,
-      "word": "徐梦桃这张照片含金量超高",
-      "onboard_time": 1771630276,
-      "rank": 37,
       "category": "体育"
     },
     {
@@ -683,6 +699,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 40773,
+      "num": 40773,
+      "word": "任子威说这什么比赛啊",
+      "onboard_time": 1771630818,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 39961,
       "num": 49209,
       "word": "有涉论文代写作者3年内不得晋级",
@@ -707,6 +731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 39622,
+      "num": 39622,
+      "word": "大年初五有啥习俗",
+      "onboard_time": 1771588882,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39403,
       "num": 49198,
       "word": "岁月有情时",
@@ -723,8 +755,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 38398,
-      "num": 38398,
+      "raw_hot": 39197,
+      "num": 39197,
       "word": "任子威不理解裁判判罚",
       "onboard_time": 1771622834,
       "rank": 47,
@@ -755,12 +787,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 36294,
-      "num": 36294,
-      "word": "大年初五有啥习俗",
-      "onboard_time": 1771588882,
+      "raw_hot": 36908,
+      "num": 36908,
+      "word": "白鹿孟子义李昀锐拼好剧 又争又抢",
+      "onboard_time": 1771631421,
       "rank": 47,
-      "category": "民生新闻"
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 36840,
+      "num": 36840,
+      "word": "十个勤天成立三周年",
+      "onboard_time": 1771630938,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 35984,

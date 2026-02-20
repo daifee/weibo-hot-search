@@ -1,0 +1,410 @@
+{
+  "runTime": 1771631555285,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 673265,
+        "num": 1042166,
+        "word": "迎财神",
+        "onboard_time": 1771600401,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 312938,
+        "num": 739467,
+        "word": "金吉莉1500米金牌",
+        "onboard_time": 1771623674,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35190,
+        "num": 577510,
+        "word": "中国非遗给你亿点点震撼",
+        "onboard_time": 1771595002,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213953,
+        "num": 213953,
+        "word": "沈娇娇是个眼圆脸圆的甜妹",
+        "onboard_time": 1771629917,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175153,
+        "num": 175153,
+        "word": "王心迪徐梦桃 金牌夫妻",
+        "onboard_time": 1771595546,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171417,
+        "num": 171417,
+        "word": "正月初五接财神",
+        "onboard_time": 1771605441,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164673,
+        "num": 164673,
+        "word": "将门毒后不是大ip是巨ip",
+        "onboard_time": 1771591041,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144670,
+        "num": 144670,
+        "word": "华住回应桔子酒店恐吓女顾客",
+        "onboard_time": 1771628295,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134242,
+        "num": 134242,
+        "word": "王心迪夺冠后李天马大喊回家生孩子",
+        "onboard_time": 1771604300,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125735,
+        "num": 125735,
+        "word": "杨幂无意中摔出来意外的感觉",
+        "onboard_time": 1771597403,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 556594,
+        "num": 123560,
+        "word": "那艺娜劣迹艺人",
+        "onboard_time": 1771631538,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 323435,
+        "num": 120092,
+        "word": "贝加尔湖事故遇难者遗体被找到",
+        "onboard_time": 1771618573,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 306860,
+        "num": 117357,
+        "word": "这种致癌物在春节很常见",
+        "onboard_time": 1771628895,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 191441,
+        "num": 113388,
+        "word": "特朗普称将加征10%全球进口关税",
+        "onboard_time": 1771631176,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 110488,
+        "num": 110488,
+        "word": "王心迪金牌",
+        "onboard_time": 1771595302,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105536,
+        "num": 105536,
+        "word": "将门独后 天崩开局",
+        "onboard_time": 1771578140,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89081,
+        "num": 89081,
+        "word": "中国游客赴日人数暴跌日媒回应没影响",
+        "onboard_time": 1771600041,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 93833,
+        "num": 88881,
+        "word": "将门独后领衔主演杨仕泽姚弛",
+        "onboard_time": 1771604121,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88125,
+        "num": 88125,
+        "word": "中国队男子5000米接力B组第一",
+        "onboard_time": 1771621093,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71442,
+        "num": 71442,
+        "word": "美国或需退还1750亿美元关税",
+        "onboard_time": 1771629977,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 110829,
+        "num": 71135,
+        "word": "爸爸回应不许家人打扰儿子睡懒觉",
+        "onboard_time": 1771595002,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90781,
+        "num": 70760,
+        "word": "财神壁纸",
+        "onboard_time": 1771630397,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68064,
+        "num": 70412,
+        "word": "五路财神",
+        "onboard_time": 1771618635,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70371,
+        "num": 70371,
+        "word": "女子发现网购大衣出现手写名字",
+        "onboard_time": 1771594103,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73249,
+        "num": 70199,
+        "word": "你敢不敢用一年时间重启自己",
+        "onboard_time": 1771604541,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 68417,
+        "num": 68417,
+        "word": "方家翊整容后小区门禁人脸识别失败",
+        "onboard_time": 1771601720,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66958,
+        "num": 66958,
+        "word": "这些行为正在偷偷消耗你的气血",
+        "onboard_time": 1771629857,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 65736,
+        "num": 65736,
+        "word": "中国短道队结束米兰冬奥征程",
+        "onboard_time": 1771625234,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 63313,
+        "num": 63313,
+        "word": "全世界为什么只有中国人吃炒菜",
+        "onboard_time": 1771588101,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 59691,
+        "num": 59691,
+        "word": "方大同去世一周年",
+        "onboard_time": 1771606938,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154302,
+        "num": 59059,
+        "word": "妹妹回应给60cm哥哥买新衣服",
+        "onboard_time": 1771628295,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77462,
+        "num": 59051,
+        "word": "马克龙愤怒回应意大利总理涉法言论",
+        "onboard_time": 1771630037,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 57259,
+        "num": 57259,
+        "word": "将门独后全阵容官宣",
+        "onboard_time": 1771597163,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 56580,
+        "num": 56580,
+        "word": "年轻人装修的厨房有多方便",
+        "onboard_time": 1771608377,
+        "rank": 33,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 51486,
+        "num": 51486,
+        "word": "儿子离家1年母亲在短视频发现踪迹",
+        "onboard_time": 1771608377,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52107,
+        "num": 51477,
+        "word": "谷爱凌进了第三个决赛",
+        "onboard_time": 1771606578,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 51434,
+        "num": 51434,
+        "word": "目击者还原车辆坠贝加尔湖经过",
+        "onboard_time": 1771597103,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 50901,
+        "num": 50901,
+        "word": "短剧上星 不匹配电视",
+        "onboard_time": 1771591821,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48814,
+        "num": 48814,
+        "word": "徐梦桃这张照片含金量超高",
+        "onboard_time": 1771630276,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 47906,
+        "num": 47906,
+        "word": "短道速滑",
+        "onboard_time": 1771629857,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 46088,
+        "num": 46088,
+        "word": "徐梦桃回应王心迪夺冠",
+        "onboard_time": 1771599802,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 44230,
+        "num": 44230,
+        "word": "火锅店春节4天赚33.9万全给员工",
+        "onboard_time": 1771589182,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42277,
+        "num": 42277,
+        "word": "将门独后",
+        "onboard_time": 1771596324,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41004,
+        "num": 41004,
+        "word": "苏翊鸣昨天刚和徐梦桃王心迪合影",
+        "onboard_time": 1771599442,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 40773,
+        "num": 40773,
+        "word": "任子威说这什么比赛啊",
+        "onboard_time": 1771630818,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39622,
+        "num": 39622,
+        "word": "大年初五有啥习俗",
+        "onboard_time": 1771588882,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39197,
+        "num": 39197,
+        "word": "任子威不理解裁判判罚",
+        "onboard_time": 1771622834,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36908,
+        "num": 36908,
+        "word": "白鹿孟子义李昀锐拼好剧 又争又抢",
+        "onboard_time": 1771631421,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36840,
+        "num": 36840,
+        "word": "十个勤天成立三周年",
+        "onboard_time": 1771630938,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36699,
+        "num": 36699,
+        "word": "常吃发酵食物带来的身体变化",
+        "onboard_time": 1771629917,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记走进李发顺家的故事#"
+    }
+  }
+}
