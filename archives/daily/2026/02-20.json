@@ -1,6 +1,6 @@
 {
   "startTime": 1771517580857,
-  "endTime": 1771577587116,
+  "endTime": 1771578422319,
   "band_list": [
     {
       "raw_hot": 3454416,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1235460,
-      "num": 560468,
+      "num": 571513,
       "word": "吴京 我的夫人姓谢",
       "onboard_time": 1771551499,
       "rank": 10,
@@ -307,6 +307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 318607,
+      "num": 561660,
+      "word": "无接触事故扶老人女生该不该担责",
+      "onboard_time": 1771575259,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 317287,
       "num": 317287,
       "word": "于正金粉红包 还没领完",
@@ -363,6 +371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 294660,
+      "num": 294660,
+      "word": "充电器一拔又是一年",
+      "onboard_time": 1771577360,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 293490,
       "num": 234607,
       "word": "陈慧琳回应大儿子像宋仲基",
@@ -385,14 +401,6 @@
       "onboard_time": 1771516820,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 284930,
-      "num": 561660,
-      "word": "无接触事故扶老人女生该不该担责",
-      "onboard_time": 1771575259,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 282801,
@@ -547,6 +555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 224159,
+      "num": 552727,
+      "word": "苏翊鸣连考古都是高清的",
+      "onboard_time": 1771572620,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 223574,
       "num": 185042,
       "word": "儿子寒假睡到中午爸爸不许家人打扰",
@@ -561,14 +577,6 @@
       "onboard_time": 1771557140,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 217322,
-      "num": 552727,
-      "word": "苏翊鸣连考古都是高清的",
-      "onboard_time": 1771572620,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 214602,
@@ -587,6 +595,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 211044,
+      "num": 211044,
+      "word": "剧版镖人",
+      "onboard_time": 1771576820,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 207681,
+      "num": 109462,
+      "word": "奶奶养大的孩子看不得祝绪丹这段",
+      "onboard_time": 1771575619,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 207261,
       "num": 156429,
       "word": "一中国公民在奥克兰街头直播被打",
@@ -595,12 +619,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 206995,
-      "num": 109462,
-      "word": "奶奶养大的孩子看不得祝绪丹这段",
-      "onboard_time": 1771575619,
-      "rank": 23,
-      "category": "综艺"
+      "raw_hot": 203646,
+      "num": 797556,
+      "word": "宁忠岩金牌含金量恐怖如斯",
+      "onboard_time": 1771573280,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 202145,
@@ -691,14 +715,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 177189,
-      "num": 550624,
-      "word": "宁忠岩金牌含金量恐怖如斯",
-      "onboard_time": 1771573280,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 171025,
       "num": 171025,
       "word": "妈妈让上交2万压岁钱孩子不干了",
@@ -763,6 +779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 153923,
+      "num": 220978,
+      "word": "解放军有效处置美军在黄海活动",
+      "onboard_time": 1771576040,
+      "rank": 19,
+      "category": "军事"
+    },
+    {
       "raw_hot": 153370,
       "num": 153370,
       "word": "男子连番自摸突然栽倒血压200多",
@@ -779,7 +803,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 150727,
+      "raw_hot": 152693,
       "num": 122719,
       "word": "镖人",
       "onboard_time": 1771553059,
@@ -793,14 +817,6 @@
       "onboard_time": 1771560260,
       "rank": 16,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 150076,
-      "num": 101241,
-      "word": "剧版镖人",
-      "onboard_time": 1771576820,
-      "rank": 30,
-      "category": "电影"
     },
     {
       "raw_hot": 146723,
@@ -923,14 +939,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 120931,
-      "num": 120931,
-      "word": "解放军有效处置美军在黄海活动",
-      "onboard_time": 1771576040,
-      "rank": 19,
-      "category": "军事"
-    },
-    {
       "raw_hot": 120642,
       "num": 120642,
       "word": "镖人 CP佛跳墙",
@@ -945,6 +953,14 @@
       "onboard_time": 1771574000,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 114279,
+      "num": 97859,
+      "word": "张元英ins更新",
+      "onboard_time": 1771576580,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 114276,
@@ -1019,6 +1035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 109879,
+      "num": 91358,
+      "word": "将门独后 天崩开局",
+      "onboard_time": 1771578140,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 106110,
       "num": 106110,
       "word": "何炅的情商又发力了",
@@ -1073,14 +1097,6 @@
       "onboard_time": 1771544898,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 103450,
-      "num": 103450,
-      "word": "充电器一拔又是一年",
-      "onboard_time": 1771577360,
-      "rank": 25,
-      "category": "情感"
     },
     {
       "raw_hot": 103365,
@@ -1171,14 +1187,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 97859,
-      "num": 97859,
-      "word": "张元英ins更新",
-      "onboard_time": 1771576580,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 97673,
       "num": 173607,
       "word": "女子订洛杉矶民宿入住当天遭取消",
@@ -1209,6 +1217,14 @@
       "onboard_time": 1771568779,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 94810,
+      "num": 94810,
+      "word": "香港黄金交易所展出近1吨金条银条",
+      "onboard_time": 1771577598,
+      "rank": 31,
+      "category": "财经"
     },
     {
       "raw_hot": 94529,
@@ -1305,6 +1321,14 @@
       "onboard_time": 1771558040,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 90956,
+      "num": 90956,
+      "word": "咪选择了生窝囊气",
+      "onboard_time": 1771577899,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 90666,
@@ -1416,6 +1440,14 @@
       "word": "宁忠岩打破1500米项目欧美选手垄断",
       "onboard_time": 1771556959,
       "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 84011,
+      "num": 84011,
+      "word": "宁忠岩绝杀时刻各国解说员都疯了",
+      "onboard_time": 1771577899,
+      "rank": 39,
       "category": "体育"
     },
     {
@@ -1721,6 +1753,22 @@
       "onboard_time": 1771569500,
       "rank": 49,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 68058,
+      "num": 68058,
+      "word": "谷爱凌要带大家一起享受新山顶",
+      "onboard_time": 1771578320,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 67856,
+      "num": 67856,
+      "word": "谷爱凌已经两个月没滑U型槽",
+      "onboard_time": 1771578019,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 67500,
@@ -2075,6 +2123,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 21157,
+      "num": 95489,
+      "word": "勇敢的陈妍希先享受生活",
+      "onboard_time": 1771578199,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 19506,
       "num": 98535,
       "word": "原来成长是一辈子的事",
@@ -2107,12 +2163,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 16089,
+      "num": 70359,
+      "word": "王兴兴说宇树的对手就是自己",
+      "onboard_time": 1771578380,
+      "rank": 44,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 13502,
       "num": 98408,
       "word": "新年第一会是AI癫疯大会",
       "onboard_time": 1771574420,
       "rank": 39,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 7676,
+      "num": 94545,
+      "word": "女子回村吃饭被超大电动餐桌惊呆",
+      "onboard_time": 1771578259,
+      "rank": 32,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
