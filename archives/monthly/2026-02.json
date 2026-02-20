@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1771568075030,
+  "endTime": 1771571461029,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -385,6 +385,14 @@
       "onboard_time": 1771248821,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 3096782,
+      "num": 3096782,
+      "word": "广东地震",
+      "onboard_time": 1771569500,
+      "rank": 0,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 3092079,
@@ -8899,6 +8907,14 @@
       "category": "网红,体育"
     },
     {
+      "raw_hot": 376727,
+      "num": 376727,
+      "word": "深圳震感",
+      "onboard_time": 1771569740,
+      "rank": 4,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 376433,
       "num": 376433,
       "word": "老君山一员工拍短视频5年被奖132万",
@@ -8963,6 +8979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 375254,
+      "num": 527972,
+      "word": "短剧上星",
+      "onboard_time": 1771565001,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 375048,
       "num": 375048,
       "word": "王毅警告日本现场爆发热烈掌声",
@@ -9001,6 +9025,14 @@
       "onboard_time": 1771067781,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 373934,
+      "num": 373934,
+      "word": "鸡景房",
+      "onboard_time": 1771566440,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 373899,
@@ -9440,14 +9472,6 @@
       "word": "尚公主杀青",
       "onboard_time": 1770039502,
       "rank": 30,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 363377,
-      "num": 527972,
-      "word": "短剧上星",
-      "onboard_time": 1771565001,
-      "rank": 20,
       "category": "剧集"
     },
     {
@@ -13180,7 +13204,7 @@
     },
     {
       "raw_hot": 277944,
-      "num": 123655,
+      "num": 248495,
       "word": "镖人改编 删吻戏",
       "onboard_time": 1771564819,
       "rank": 23,
@@ -14145,6 +14169,14 @@
       "onboard_time": 1771233206,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 259542,
+      "num": 259542,
+      "word": "初中生扶摔倒女子遭索赔22万将开庭",
+      "onboard_time": 1771568958,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 259428,
@@ -19435,6 +19467,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 185042,
+      "num": 185042,
+      "word": "儿子寒假睡到中午爸爸不许家人打扰",
+      "onboard_time": 1771569620,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 184798,
       "num": 145337,
       "word": "网传杨博文饰演周扬",
@@ -23123,6 +23163,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 147751,
+      "num": 147751,
+      "word": "陈妍希 勇敢的姐姐先收获李雾",
+      "onboard_time": 1771570699,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 147748,
       "num": 147748,
       "word": "只要华为不跪产品就不贵",
@@ -23409,6 +23457,14 @@
       "onboard_time": 1771169123,
       "rank": 31,
       "category": "教育"
+    },
+    {
+      "raw_hot": 145389,
+      "num": 150150,
+      "word": "珠海震感",
+      "onboard_time": 1771569740,
+      "rank": 23,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 145372,
@@ -26361,6 +26417,14 @@
       "onboard_time": 1771384038,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126994,
+      "num": 126994,
+      "word": "孟子义沈妙的一滴泪",
+      "onboard_time": 1771567639,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 126878,
@@ -31323,6 +31387,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 105752,
+      "num": 105752,
+      "word": "宁夏地震",
+      "onboard_time": 1771560558,
+      "rank": 35,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 105729,
       "num": 105729,
       "word": "平手友梨奈结婚",
@@ -33435,14 +33507,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 99340,
-      "num": 94623,
-      "word": "鸡景房",
-      "onboard_time": 1771566440,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 99333,
       "num": 97198,
       "word": "王鹤棣G社出图",
@@ -34593,6 +34657,14 @@
       "onboard_time": 1770719121,
       "rank": 33,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 95772,
+      "num": 95772,
+      "word": "前TVB演员赵希洛官宣结婚",
+      "onboard_time": 1771568779,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 95762,
@@ -36225,14 +36297,6 @@
       "onboard_time": 1771413560,
       "rank": 46,
       "category": "财经"
-    },
-    {
-      "raw_hot": 91042,
-      "num": 86836,
-      "word": "孟子义沈妙的一滴泪",
-      "onboard_time": 1771567639,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 91037,
@@ -38923,6 +38987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 83827,
+      "num": 222437,
+      "word": "沃尔沃XC70绝望冰壶挑战",
+      "onboard_time": 1771570999,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 83824,
       "num": 83824,
       "word": "各国选手冬奥村沉浸式体验中国年",
@@ -38937,6 +39009,14 @@
       "onboard_time": 1771390221,
       "rank": 33,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 83807,
+      "num": 83807,
+      "word": "命里有财具象化",
+      "onboard_time": 1771569438,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 83803,
@@ -39185,6 +39265,14 @@
       "onboard_time": 1770112162,
       "rank": 47,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 83154,
+      "num": 83154,
+      "word": "徐志胜回家过年忙成接客松",
+      "onboard_time": 1771568000,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 83100,
@@ -39897,6 +39985,14 @@
       "onboard_time": 1770193461,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 81226,
+      "num": 81226,
+      "word": "张极悉尼到达",
+      "onboard_time": 1771571240,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 81221,
@@ -40961,6 +41057,14 @@
       "onboard_time": 1770740420,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 78908,
+      "num": 78908,
+      "word": "短剧霸总都是黄晓明玩剩下的",
+      "onboard_time": 1771570520,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 78904,
@@ -42963,6 +43067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 73021,
+      "num": 73021,
+      "word": "第一批过年受害者",
+      "onboard_time": 1771571180,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 73020,
       "num": 73020,
       "word": "2026票房排行",
@@ -43691,6 +43803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 70574,
+      "num": 70574,
+      "word": "港股科网股大跌",
+      "onboard_time": 1771569800,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 70561,
       "num": 70561,
       "word": "王诗玥柳鑫宇无缘冰舞决赛",
@@ -43784,14 +43904,6 @@
       "word": "杨幂姚晨感觉下一秒就要上炕了",
       "onboard_time": 1770708441,
       "rank": 37,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 70093,
-      "num": 70093,
-      "word": "徐志胜回家过年忙成接客松",
-      "onboard_time": 1771568000,
-      "rank": 48,
       "category": "艺人"
     },
     {
@@ -44001,6 +44113,14 @@
       "onboard_time": 1771121718,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 69206,
+      "num": 69206,
+      "word": "当你穿得很潮回家过年时",
+      "onboard_time": 1771570878,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 69194,
@@ -54140,7 +54260,7 @@
     },
     {
       "raw_hot": 23481,
-      "num": 673712,
+      "num": 851543,
       "word": "骑马踏雪巡逻的边防战士",
       "onboard_time": 1771558338,
       "rank": 2,
