@@ -1,0 +1,410 @@
+{
+  "runTime": 1771593242073,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 866890,
+        "num": 1138702,
+        "word": "将门独后 天崩开局",
+        "onboard_time": 1771578140,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 585747,
+        "num": 797882,
+        "word": "火锅店春节4天赚33.9万全给员工",
+        "onboard_time": 1771589182,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19354,
+        "num": 681823,
+        "word": "每一位中国冰雪健儿都闪闪发光",
+        "onboard_time": 1771575799,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 479661,
+        "num": 479661,
+        "word": "将门毒后不是大ip是巨ip",
+        "onboard_time": 1771591041,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 238299,
+        "num": 238299,
+        "word": "全世界为什么只有中国人吃炒菜",
+        "onboard_time": 1771588101,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 296901,
+        "num": 228979,
+        "word": "为什么美人计使用率如此之高",
+        "onboard_time": 1771588582,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 214009,
+        "num": 214009,
+        "word": "镖人票房排名第二",
+        "onboard_time": 1771583899,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 179991,
+        "num": 179991,
+        "word": "拾石村暗箱操作到妈祖头上了",
+        "onboard_time": 1771588582,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173271,
+        "num": 173271,
+        "word": "广东地震",
+        "onboard_time": 1771569500,
+        "rank": 8,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 160656,
+        "num": 160656,
+        "word": "所有东西都必须支付两次",
+        "onboard_time": 1771588522,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1672993,
+        "num": 152382,
+        "word": "妈祖 掷圣杯",
+        "onboard_time": 1771587742,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1474943,
+        "num": 144469,
+        "word": "7名中国游客沉入贝加尔湖溺亡",
+        "onboard_time": 1771587980,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 221288,
+        "num": 138266,
+        "word": "李佩仪萧怀瑾分手",
+        "onboard_time": 1771590321,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185060,
+        "num": 117875,
+        "word": "杨幂带火吊带条纹长裙",
+        "onboard_time": 1771584440,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 117818,
+        "num": 117818,
+        "word": "情绪稳定的一家人有多重要",
+        "onboard_time": 1771586902,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 151579,
+        "num": 110792,
+        "word": "易烊千玺是有点演技症在身上",
+        "onboard_time": 1771589721,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 150782,
+        "num": 108594,
+        "word": "短剧上星 不匹配电视",
+        "onboard_time": 1771591821,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103428,
+        "num": 103428,
+        "word": "男子用AI鉴定玉石8个月收入上百万",
+        "onboard_time": 1771578739,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94097,
+        "num": 94097,
+        "word": "自由式滑雪男子空中技巧决赛",
+        "onboard_time": 1771592782,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 55862,
+        "num": 93820,
+        "word": "贝加尔湖事件疑因司机强闯冰裂缝",
+        "onboard_time": 1771592662,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 6431420,
+        "num": 6431420,
+        "word": "妈祖换人",
+        "onboard_time": 1771581979,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153460,
+        "num": 93765,
+        "word": "吴佳尼自曝离婚原因",
+        "onboard_time": 1771584500,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93686,
+        "num": 93686,
+        "word": "贝加尔湖 冰面行驶",
+        "onboard_time": 1771590262,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 142113,
+        "num": 93341,
+        "word": "酒店咖啡机洗内裤",
+        "onboard_time": 1771589000,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 130112,
+        "num": 93087,
+        "word": "宋威龙你顶着这张脸四肢爬行啊",
+        "onboard_time": 1771589542,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134880,
+        "num": 92641,
+        "word": "吴京争取拍镖人第二部",
+        "onboard_time": 1771591520,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 117763,
+        "num": 92468,
+        "word": "人人人人人天坛人人人人人",
+        "onboard_time": 1771589420,
+        "rank": 26,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 108846,
+        "num": 92045,
+        "word": "大年初五有啥习俗",
+        "onboard_time": 1771588882,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99587,
+        "num": 91732,
+        "word": "女子在洗浴中心浴池门口被人录像",
+        "onboard_time": 1771586181,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111266,
+        "num": 91114,
+        "word": "王鹤棣观众盘",
+        "onboard_time": 1771580298,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99942,
+        "num": 90869,
+        "word": "我真心疼小满了",
+        "onboard_time": 1771592121,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90631,
+        "num": 90631,
+        "word": "日本冰壶美女撞脸孙燕姿",
+        "onboard_time": 1771581560,
+        "rank": 31,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 91957,
+        "num": 90616,
+        "word": "TF四代五练结束了",
+        "onboard_time": 1771585100,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89936,
+        "num": 89936,
+        "word": "陈奕迅女儿被曝新恋情",
+        "onboard_time": 1771593082,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87072,
+        "num": 87072,
+        "word": "农历阴历阳历有啥区别",
+        "onboard_time": 1771593203,
+        "rank": 34,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 88845,
+        "num": 86333,
+        "word": "吴京 我的夫人姓谢",
+        "onboard_time": 1771551499,
+        "rank": 35,
+        "category": "电影,作品衍生"
+      },
+      {
+        "raw_hot": 84226,
+        "num": 84226,
+        "word": "陈雪凝回应在婚礼上唱歌",
+        "onboard_time": 1771586000,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83482,
+        "num": 83482,
+        "word": "齐广璞王心迪晋级决赛",
+        "onboard_time": 1771583602,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82997,
+        "num": 82997,
+        "word": "沈月 角色不要上升本人",
+        "onboard_time": 1771592962,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47247,
+        "num": 82883,
+        "word": "短短30秒丁程鑫做了好多事",
+        "onboard_time": 1771591581,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82781,
+        "num": 82781,
+        "word": "第一集就看到黄景瑜腹肌",
+        "onboard_time": 1771587203,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82581,
+        "num": 82581,
+        "word": "女子买20元奶茶中奖黄金约25000元",
+        "onboard_time": 1771578679,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82201,
+        "num": 82201,
+        "word": "虞书欣何与双人拍立得",
+        "onboard_time": 1771589542,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 80075,
+        "num": 80075,
+        "word": "周也11分钟vlog",
+        "onboard_time": 1771592602,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61101,
+        "num": 79619,
+        "word": "当地已禁止汽车在贝加尔湖冰面行驶",
+        "onboard_time": 1771592962,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 79231,
+        "num": 79231,
+        "word": "谷爱凌赌上职业生涯的一跳",
+        "onboard_time": 1771580479,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 76185,
+        "num": 79222,
+        "word": "特朗普赞中国仪仗队",
+        "onboard_time": 1771587203,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 140077,
+        "num": 79222,
+        "word": "一载有8人汽车在贝加尔湖沉没",
+        "onboard_time": 1771586000,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 79220,
+        "num": 79220,
+        "word": "镖人",
+        "onboard_time": 1771553059,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 76593,
+        "num": 76593,
+        "word": "惊蛰无声",
+        "onboard_time": 1771587260,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记走进李发顺家的故事#"
+    }
+  }
+}

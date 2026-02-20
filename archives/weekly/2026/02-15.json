@@ -1,6 +1,6 @@
 {
   "startTime": 1771087248939,
-  "endTime": 1771588476219,
+  "endTime": 1771593242073,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -483,6 +483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1672993,
+      "num": 188355,
+      "word": "妈祖 掷圣杯",
+      "onboard_time": 1771587742,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1664887,
       "num": 1664887,
       "word": "范丞丞王安宇同台",
@@ -553,6 +561,14 @@
       "onboard_time": 1771120940,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1474943,
+      "num": 793645,
+      "word": "7名中国游客沉入贝加尔湖溺亡",
+      "onboard_time": 1771587980,
+      "rank": 1,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1465833,
@@ -953,14 +969,6 @@
       "onboard_time": 1771251641,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 945686,
-      "num": 188355,
-      "word": "妈祖 掷圣杯",
-      "onboard_time": 1771587742,
-      "rank": 10,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 942260,
@@ -1819,12 +1827,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 585682,
-      "num": 793645,
-      "word": "7名中国游客沉入贝加尔湖溺亡",
-      "onboard_time": 1771587980,
+      "raw_hot": 585747,
+      "num": 797882,
+      "word": "火锅店春节4天赚33.9万全给员工",
+      "onboard_time": 1771589182,
       "rank": 1,
-      "category": "海外新闻"
+      "category": "民生新闻"
     },
     {
       "raw_hot": 580051,
@@ -2312,6 +2320,14 @@
       "word": "将门独后造型",
       "onboard_time": 1771554859,
       "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 479661,
+      "num": 479661,
+      "word": "将门毒后不是大ip是巨ip",
+      "onboard_time": 1771591041,
+      "rank": 3,
       "category": "剧集"
     },
     {
@@ -3955,6 +3971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 296901,
+      "num": 228979,
+      "word": "为什么美人计使用率如此之高",
+      "onboard_time": 1771588582,
+      "rank": 5,
+      "category": "电影"
+    },
+    {
       "raw_hot": 296688,
       "num": 116946,
       "word": "楼晚",
@@ -5027,6 +5051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 238299,
+      "num": 238299,
+      "word": "全世界为什么只有中国人吃炒菜",
+      "onboard_time": 1771588101,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 238200,
       "num": 189660,
       "word": "于奥点赞",
@@ -5409,6 +5441,14 @@
       "onboard_time": 1771315340,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 221288,
+      "num": 138266,
+      "word": "李佩仪萧怀瑾分手",
+      "onboard_time": 1771590321,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 220570,
@@ -6387,6 +6427,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 179991,
+      "num": 179991,
+      "word": "拾石村暗箱操作到妈祖头上了",
+      "onboard_time": 1771588582,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 179583,
       "num": 179583,
       "word": "镖人票房",
@@ -6569,14 +6617,6 @@
       "onboard_time": 1771217780,
       "rank": 24,
       "category": "财经"
-    },
-    {
-      "raw_hot": 173178,
-      "num": 123528,
-      "word": "全世界为什么只有中国人吃炒菜",
-      "onboard_time": 1771588101,
-      "rank": 30,
-      "category": "美食"
     },
     {
       "raw_hot": 172979,
@@ -6907,6 +6947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 160656,
+      "num": 160656,
+      "word": "所有东西都必须支付两次",
+      "onboard_time": 1771588522,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
       "raw_hot": 160041,
       "num": 160041,
       "word": "杨鸣好帅",
@@ -7195,6 +7243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 151579,
+      "num": 110792,
+      "word": "易烊千玺是有点演技症在身上",
+      "onboard_time": 1771589721,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 151466,
       "num": 126871,
       "word": "大侦探11开播",
@@ -7217,6 +7273,14 @@
       "onboard_time": 1771579820,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 150782,
+      "num": 108594,
+      "word": "短剧上星 不匹配电视",
+      "onboard_time": 1771591821,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 150699,
@@ -7513,6 +7577,14 @@
       "onboard_time": 1771408160,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 142113,
+      "num": 93341,
+      "word": "酒店咖啡机洗内裤",
+      "onboard_time": 1771589000,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 142008,
@@ -7819,6 +7891,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 134880,
+      "num": 92641,
+      "word": "吴京争取拍镖人第二部",
+      "onboard_time": 1771591520,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 134727,
       "num": 134727,
       "word": "短剧演员唱歌 大白嗓",
@@ -7969,6 +8049,14 @@
       "onboard_time": 1771165222,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 130112,
+      "num": 93087,
+      "word": "宋威龙你顶着这张脸四肢爬行啊",
+      "onboard_time": 1771589542,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 130056,
@@ -8579,6 +8667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 117763,
+      "num": 92468,
+      "word": "人人人人人天坛人人人人人",
+      "onboard_time": 1771589420,
+      "rank": 26,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 117404,
       "num": 168807,
       "word": "摆摊卖春联姐弟13天收入3万元",
@@ -9128,6 +9224,14 @@
       "word": "影视飓风Tim称将完整记录素人登珠峰",
       "onboard_time": 1771077622,
       "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108846,
+      "num": 92045,
+      "word": "大年初五有啥习俗",
+      "onboard_time": 1771588882,
+      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -9771,6 +9875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 99942,
+      "num": 90869,
+      "word": "我真心疼小满了",
+      "onboard_time": 1771592121,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 99748,
       "num": 82688,
       "word": "镖人玉面鬼",
@@ -10147,6 +10259,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 94097,
+      "num": 94097,
+      "word": "自由式滑雪男子空中技巧决赛",
+      "onboard_time": 1771592782,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 94053,
       "num": 94053,
       "word": "好怕谢霆锋突然拿出把吉他",
@@ -10193,6 +10313,14 @@
       "onboard_time": 1771163722,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93686,
+      "num": 93686,
+      "word": "贝加尔湖 冰面行驶",
+      "onboard_time": 1771590262,
+      "rank": 22,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 93426,
@@ -10499,6 +10627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 89936,
+      "num": 89936,
+      "word": "陈奕迅女儿被曝新恋情",
+      "onboard_time": 1771593082,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 89771,
       "num": 89771,
       "word": "白百何带娃随地小便该不该被指责",
@@ -10753,6 +10889,14 @@
       "onboard_time": 1771519759,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 87072,
+      "num": 87072,
+      "word": "农历阴历阳历有啥区别",
+      "onboard_time": 1771593203,
+      "rank": 34,
+      "category": "科学科普"
     },
     {
       "raw_hot": 86789,
@@ -11043,6 +11187,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 82997,
+      "num": 82997,
+      "word": "沈月 角色不要上升本人",
+      "onboard_time": 1771592962,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 82966,
       "num": 134319,
       "word": "装修不能相信任何一个师傅",
@@ -11113,6 +11265,14 @@
       "onboard_time": 1771298361,
       "rank": 21,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 82201,
+      "num": 82201,
+      "word": "虞书欣何与双人拍立得",
+      "onboard_time": 1771589542,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 82056,
@@ -11345,6 +11505,14 @@
       "onboard_time": 1771586300,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 80075,
+      "num": 80075,
+      "word": "周也11分钟vlog",
+      "onboard_time": 1771592602,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 79858,
@@ -13651,6 +13819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 61101,
+      "num": 79619,
+      "word": "当地已禁止汽车在贝加尔湖冰面行驶",
+      "onboard_time": 1771592962,
+      "rank": 44,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 60931,
       "num": 60931,
       "word": "林孝埈竞技状态令人遗憾",
@@ -14065,6 +14241,14 @@
       "onboard_time": 1771580659,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 55862,
+      "num": 93820,
+      "word": "贝加尔湖事件疑因司机强闯冰裂缝",
+      "onboard_time": 1771592662,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 55834,
@@ -14713,6 +14897,14 @@
       "onboard_time": 1771141040,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 47247,
+      "num": 82883,
+      "word": "短短30秒丁程鑫做了好多事",
+      "onboard_time": 1771591581,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 47158,
