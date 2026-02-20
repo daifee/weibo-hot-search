@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1771587611727,
+  "endTime": 1771588476219,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -219,20 +219,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 8630123,
+      "num": 8630123,
+      "word": "妈祖换人",
+      "onboard_time": 1771581979,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 8542912,
       "num": 8542912,
       "word": "曝金晨肇事逃逸",
       "onboard_time": 1769659642,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 8223987,
-      "num": 8223987,
-      "word": "妈祖换人",
-      "onboard_time": 1771581979,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 8120856,

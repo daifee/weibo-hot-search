@@ -1,10 +1,10 @@
 {
   "startTime": 1771517580857,
-  "endTime": 1771587611727,
+  "endTime": 1771588476219,
   "band_list": [
     {
-      "raw_hot": 8223987,
-      "num": 8223987,
+      "raw_hot": 8630123,
+      "num": 8630123,
       "word": "妈祖换人",
       "onboard_time": 1771581979,
       "rank": 5,
@@ -99,6 +99,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 945686,
+      "num": 188355,
+      "word": "妈祖 掷圣杯",
+      "onboard_time": 1771587742,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 840072,
       "num": 546394,
       "word": "王乐乐官宣恋情",
@@ -121,6 +129,14 @@
       "onboard_time": 1771551859,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 666589,
+      "num": 1922984,
+      "word": "一载有8人汽车在贝加尔湖沉没",
+      "onboard_time": 1771586000,
+      "rank": 0,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 655725,
@@ -161,6 +177,14 @@
       "onboard_time": 1771561999,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 585682,
+      "num": 793645,
+      "word": "7名中国游客沉入贝加尔湖溺亡",
+      "onboard_time": 1771587980,
+      "rank": 1,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 555181,
@@ -217,14 +241,6 @@
       "onboard_time": 1771566440,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 487288,
-      "num": 1922984,
-      "word": "一载有8人汽车在贝加尔湖沉没",
-      "onboard_time": 1771586000,
-      "rank": 0,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 484540,
@@ -363,8 +379,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 349694,
-      "num": 167492,
+      "raw_hot": 352570,
+      "num": 187123,
       "word": "吴佳尼自曝离婚原因",
       "onboard_time": 1771584500,
       "rank": 20,
@@ -388,7 +404,7 @@
     },
     {
       "raw_hot": 339037,
-      "num": 241375,
+      "num": 248213,
       "word": "镖人票房排名第二",
       "onboard_time": 1771583899,
       "rank": 34,
@@ -529,6 +545,14 @@
       "onboard_time": 1771572440,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 280988,
+      "num": 280988,
+      "word": "贝加尔湖",
+      "onboard_time": 1771586181,
+      "rank": 15,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 277944,
@@ -763,20 +787,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 207455,
+      "num": 207455,
+      "word": "杨幂带火吊带条纹长裙",
+      "onboard_time": 1771584440,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 207261,
       "num": 156429,
       "word": "一中国公民在奥克兰街头直播被打",
       "onboard_time": 1771553000,
       "rank": 22,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 207164,
-      "num": 207164,
-      "word": "杨幂带火吊带条纹长裙",
-      "onboard_time": 1771584440,
-      "rank": 33,
-      "category": "电影"
     },
     {
       "raw_hot": 202145,
@@ -828,7 +852,7 @@
     },
     {
       "raw_hot": 196154,
-      "num": 147076,
+      "num": 186935,
       "word": "陈雪凝回应在婚礼上唱歌",
       "onboard_time": 1771586000,
       "rank": 23,
@@ -900,11 +924,19 @@
     },
     {
       "raw_hot": 178406,
-      "num": 178406,
+      "num": 187866,
       "word": "TF四代五练结束了",
       "onboard_time": 1771585100,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 173178,
+      "num": 123528,
+      "word": "全世界为什么只有中国人吃炒菜",
+      "onboard_time": 1771588101,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 171025,
@@ -953,14 +985,6 @@
       "onboard_time": 1771494740,
       "rank": 16,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 163107,
-      "num": 163107,
-      "word": "贝加尔湖",
-      "onboard_time": 1771586181,
-      "rank": 15,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 162348,
@@ -1107,6 +1131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 138379,
+      "num": 128937,
+      "word": "第一集就看到黄景瑜腹肌",
+      "onboard_time": 1771587203,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 132248,
       "num": 101432,
       "word": "夜王",
@@ -1121,6 +1153,14 @@
       "onboard_time": 1771555161,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 129744,
+      "num": 129744,
+      "word": "情绪稳定的一家人有多重要",
+      "onboard_time": 1771586902,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 129288,
@@ -1159,14 +1199,6 @@
       "num": 126301,
       "word": "王鹤棣孟子义将门独后饮酒转场",
       "onboard_time": 1771561340,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 124814,
-      "num": 124814,
-      "word": "第一集就看到黄景瑜腹肌",
-      "onboard_time": 1771587203,
       "rank": 29,
       "category": "剧集"
     },
@@ -1275,6 +1307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 112982,
+      "num": 112982,
+      "word": "特朗普赞中国仪仗队",
+      "onboard_time": 1771587203,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 112665,
       "num": 112665,
       "word": "这部剧一个流量生都没有",
@@ -1289,6 +1329,14 @@
       "onboard_time": 1771573879,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 112271,
+      "num": 112271,
+      "word": "张函瑞抽抽乐",
+      "onboard_time": 1771586601,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 112224,
@@ -1313,14 +1361,6 @@
       "onboard_time": 1771574000,
       "rank": 37,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 111195,
-      "num": 111195,
-      "word": "情绪稳定的一家人有多重要",
-      "onboard_time": 1771586902,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 110293,
@@ -1467,14 +1507,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 100223,
-      "num": 100223,
-      "word": "特朗普赞中国仪仗队",
-      "onboard_time": 1771587203,
-      "rank": 36,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 100076,
       "num": 100076,
       "word": "尹锡悦称无法接受被判无期徒刑",
@@ -1521,14 +1553,6 @@
       "onboard_time": 1771571779,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 96745,
-      "num": 96745,
-      "word": "张函瑞抽抽乐",
-      "onboard_time": 1771586601,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 96235,
@@ -1827,6 +1851,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 83438,
+      "num": 83438,
+      "word": "惊蛰无声",
+      "onboard_time": 1771587260,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 83377,
       "num": 83377,
       "word": "土豆的100种死法",
@@ -1841,14 +1873,6 @@
       "onboard_time": 1771573819,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 82637,
-      "num": 82637,
-      "word": "惊蛰无声",
-      "onboard_time": 1771587260,
-      "rank": 46,
-      "category": "电影"
     },
     {
       "raw_hot": 82408,
@@ -1963,6 +1987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 77217,
+      "num": 149246,
+      "word": "贝加尔湖汽车落水1名中国游客获救",
+      "onboard_time": 1771586781,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 76813,
       "num": 76813,
       "word": "爸爸除夕独自吃饺子女儿看监控哭了",
@@ -1977,6 +2009,14 @@
       "onboard_time": 1771552399,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 75374,
+      "num": 75374,
+      "word": "初一离家工作爷爷哭了孙子发声",
+      "onboard_time": 1771587861,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 75339,
@@ -2049,6 +2089,14 @@
       "onboard_time": 1771584681,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 72052,
+      "num": 72052,
+      "word": "岁月有情时",
+      "onboard_time": 1771588402,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 71893,
@@ -2132,7 +2180,7 @@
     },
     {
       "raw_hot": 68784,
-      "num": 154505,
+      "num": 187322,
       "word": "安踏选人眼光有多绝",
       "onboard_time": 1771585400,
       "rank": 29,
@@ -2169,14 +2217,6 @@
       "onboard_time": 1771578320,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 68022,
-      "num": 149246,
-      "word": "贝加尔湖汽车落水1名中国游客获救",
-      "onboard_time": 1771586781,
-      "rank": 19,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 67856,
@@ -2577,6 +2617,14 @@
       "onboard_time": 1771580659,
       "rank": 19,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 25523,
+      "num": 187186,
+      "word": "哈尔滨多景区因气温调整运营时间",
+      "onboard_time": 1771587980,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25351,

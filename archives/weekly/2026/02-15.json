@@ -1,6 +1,6 @@
 {
   "startTime": 1771087248939,
-  "endTime": 1771587611727,
+  "endTime": 1771588476219,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -83,8 +83,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 8223987,
-      "num": 8223987,
+      "raw_hot": 8630123,
+      "num": 8630123,
       "word": "妈祖换人",
       "onboard_time": 1771581979,
       "rank": 5,
@@ -955,6 +955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 945686,
+      "num": 188355,
+      "word": "妈祖 掷圣杯",
+      "onboard_time": 1771587742,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 942260,
       "num": 1150761,
       "word": "千问红包雨",
@@ -1483,6 +1491,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 666589,
+      "num": 1922984,
+      "word": "一载有8人汽车在贝加尔湖沉没",
+      "onboard_time": 1771586000,
+      "rank": 0,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 665627,
       "num": 555018,
       "word": "镖人票房逆跌",
@@ -1801,6 +1817,14 @@
       "onboard_time": 1771488560,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 585682,
+      "num": 793645,
+      "word": "7名中国游客沉入贝加尔湖溺亡",
+      "onboard_time": 1771587980,
+      "rank": 1,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 580051,
@@ -2241,14 +2265,6 @@
       "onboard_time": 1771072762,
       "rank": 4,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 487288,
-      "num": 1922984,
-      "word": "一载有8人汽车在贝加尔湖沉没",
-      "onboard_time": 1771586000,
-      "rank": 0,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 487194,
@@ -3235,6 +3251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 352570,
+      "num": 187123,
+      "word": "吴佳尼自曝离婚原因",
+      "onboard_time": 1771584500,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 351980,
       "num": 324498,
       "word": "钟丽缇目睹2人海边溺水身亡",
@@ -3281,14 +3305,6 @@
       "onboard_time": 1771210520,
       "rank": 5,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 349694,
-      "num": 167492,
-      "word": "吴佳尼自曝离婚原因",
-      "onboard_time": 1771584500,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 348019,
@@ -3396,7 +3412,7 @@
     },
     {
       "raw_hot": 339037,
-      "num": 241375,
+      "num": 248213,
       "word": "镖人票房排名第二",
       "onboard_time": 1771583899,
       "rank": 34,
@@ -4193,6 +4209,14 @@
       "onboard_time": 1771572440,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 280988,
+      "num": 280988,
+      "word": "贝加尔湖",
+      "onboard_time": 1771586181,
+      "rank": 15,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 280593,
@@ -5699,20 +5723,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 207455,
+      "num": 207455,
+      "word": "杨幂带火吊带条纹长裙",
+      "onboard_time": 1771584440,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 207261,
       "num": 156429,
       "word": "一中国公民在奥克兰街头直播被打",
       "onboard_time": 1771553000,
       "rank": 22,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 207164,
-      "num": 207164,
-      "word": "杨幂带火吊带条纹长裙",
-      "onboard_time": 1771584440,
-      "rank": 33,
-      "category": "电影"
     },
     {
       "raw_hot": 206382,
@@ -6004,7 +6028,7 @@
     },
     {
       "raw_hot": 196154,
-      "num": 147076,
+      "num": 186935,
       "word": "陈雪凝回应在婚礼上唱歌",
       "onboard_time": 1771586000,
       "rank": 23,
@@ -6404,7 +6428,7 @@
     },
     {
       "raw_hot": 178406,
-      "num": 178406,
+      "num": 187866,
       "word": "TF四代五练结束了",
       "onboard_time": 1771585100,
       "rank": 28,
@@ -6545,6 +6569,14 @@
       "onboard_time": 1771217780,
       "rank": 24,
       "category": "财经"
+    },
+    {
+      "raw_hot": 173178,
+      "num": 123528,
+      "word": "全世界为什么只有中国人吃炒菜",
+      "onboard_time": 1771588101,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 172979,
@@ -6817,14 +6849,6 @@
       "onboard_time": 1771370296,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 163107,
-      "num": 163107,
-      "word": "贝加尔湖",
-      "onboard_time": 1771586181,
-      "rank": 15,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 162827,
@@ -7659,6 +7683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 138379,
+      "num": 128937,
+      "word": "第一集就看到黄景瑜腹肌",
+      "onboard_time": 1771587203,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 138216,
       "num": 138216,
       "word": "王楚然 天选王昭君",
@@ -7955,6 +7987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129744,
+      "num": 129744,
+      "word": "情绪稳定的一家人有多重要",
+      "onboard_time": 1771586902,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 129355,
       "num": 129355,
       "word": "山东晚高峰视频在推特火了",
@@ -8225,14 +8265,6 @@
       "onboard_time": 1771252598,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 124814,
-      "num": 124814,
-      "word": "第一集就看到黄景瑜腹肌",
-      "onboard_time": 1771587203,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 124267,
@@ -8843,6 +8875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 112982,
+      "num": 112982,
+      "word": "特朗普赞中国仪仗队",
+      "onboard_time": 1771587203,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 112904,
       "num": 112904,
       "word": "刘诗诗回应每场戏都在流泪",
@@ -8881,6 +8921,14 @@
       "onboard_time": 1771409300,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 112271,
+      "num": 112271,
+      "word": "张函瑞抽抽乐",
+      "onboard_time": 1771586601,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 112267,
@@ -8961,14 +9009,6 @@
       "onboard_time": 1771409601,
       "rank": 38,
       "category": "网红"
-    },
-    {
-      "raw_hot": 111195,
-      "num": 111195,
-      "word": "情绪稳定的一家人有多重要",
-      "onboard_time": 1771586902,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 111048,
@@ -9699,14 +9739,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 100223,
-      "num": 100223,
-      "word": "特朗普赞中国仪仗队",
-      "onboard_time": 1771587203,
-      "rank": 36,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 100168,
       "num": 100168,
       "word": "Seedance2.0爆火日本官员急了",
@@ -9961,14 +9993,6 @@
       "onboard_time": 1771140140,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 96745,
-      "num": 96745,
-      "word": "张函瑞抽抽乐",
-      "onboard_time": 1771586601,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 96640,
@@ -11667,6 +11691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 77217,
+      "num": 149246,
+      "word": "贝加尔湖汽车落水1名中国游客获救",
+      "onboard_time": 1771586781,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 77214,
       "num": 95367,
       "word": "这跟自己生的有什么区别",
@@ -11840,6 +11872,14 @@
       "word": "园方回应幼儿园现烧脑春联",
       "onboard_time": 1771492821,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 75374,
+      "num": 75374,
+      "word": "初一离家工作爷爷哭了孙子发声",
+      "onboard_time": 1771587861,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -12225,6 +12265,14 @@
       "onboard_time": 1771496961,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 72052,
+      "num": 72052,
+      "word": "岁月有情时",
+      "onboard_time": 1771588402,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 72024,
@@ -12700,7 +12748,7 @@
     },
     {
       "raw_hot": 68784,
-      "num": 154505,
+      "num": 187322,
       "word": "安踏选人眼光有多绝",
       "onboard_time": 1771585400,
       "rank": 29,
@@ -12817,14 +12865,6 @@
       "onboard_time": 1771578320,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 68022,
-      "num": 149246,
-      "word": "贝加尔湖汽车落水1名中国游客获救",
-      "onboard_time": 1771586781,
-      "rank": 19,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 67971,
@@ -15952,6 +15992,14 @@
       "word": "澳男子摸鱼找工作遭解雇获赔15万元",
       "onboard_time": 1771421366,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25523,
+      "num": 187186,
+      "word": "哈尔滨多景区因气温调整运营时间",
+      "onboard_time": 1771587980,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
