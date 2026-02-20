@@ -1,6 +1,6 @@
 {
   "startTime": 1771603272383,
-  "endTime": 1771616552598,
+  "endTime": 1771617284946,
   "band_list": [
     {
       "raw_hot": 1609922,
@@ -579,6 +579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 30621,
+      "num": 30621,
+      "word": "ANA签售态度",
+      "onboard_time": 1771615155,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 28794,
       "num": 142012,
       "word": "当事人回应全家60多人除夕合影",
@@ -603,14 +611,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 24646,
-      "num": 24646,
-      "word": "ANA签售态度",
-      "onboard_time": 1771615155,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 21601,
       "num": 27238,
       "word": "总领馆曾提醒贝加尔湖遍布细微裂缝",
@@ -619,7 +619,7 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 17413,
+      "raw_hot": 19238,
       "num": 22615,
       "word": "中国队冬奥奖牌获得者7位00后",
       "onboard_time": 1771611795,
