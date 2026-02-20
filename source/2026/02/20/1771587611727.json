@@ -1,0 +1,410 @@
+{
+  "runTime": 1771587611727,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 487288,
+        "num": 1922984,
+        "word": "一载有8人汽车在贝加尔湖沉没",
+        "onboard_time": 1771586000,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 600992,
+        "num": 1364152,
+        "word": "上海小孩7万多压岁钱被爸妈弄丢",
+        "onboard_time": 1771583899,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23564,
+        "num": 1147322,
+        "word": "每一位中国冰雪健儿都闪闪发光",
+        "onboard_time": 1771575799,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 279091,
+        "num": 279091,
+        "word": "谷爱凌赌上职业生涯的一跳",
+        "onboard_time": 1771580479,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 8223987,
+        "num": 8223987,
+        "word": "妈祖换人",
+        "onboard_time": 1771581979,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 396030,
+        "num": 249893,
+        "word": "将门独后 天崩开局",
+        "onboard_time": 1771578140,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 339037,
+        "num": 241375,
+        "word": "镖人票房排名第二",
+        "onboard_time": 1771583899,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 300259,
+        "num": 226973,
+        "word": "父亲偷拿儿子压岁钱被判返还82750元",
+        "onboard_time": 1771580298,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 220676,
+        "num": 220676,
+        "word": "星期五练习生",
+        "onboard_time": 1771583421,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2143745,
+        "num": 218350,
+        "word": "妈祖 耀祖",
+        "onboard_time": 1771581739,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 328175,
+        "num": 216466,
+        "word": "初中生扶人被索赔22万摔倒老人发声",
+        "onboard_time": 1771581499,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207164,
+        "num": 207164,
+        "word": "杨幂带火吊带条纹长裙",
+        "onboard_time": 1771584440,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 178406,
+        "num": 178406,
+        "word": "TF四代五练结束了",
+        "onboard_time": 1771585100,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174992,
+        "num": 174992,
+        "word": "日本冰壶美女撞脸孙燕姿",
+        "onboard_time": 1771581560,
+        "rank": 13,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 174816,
+        "num": 174816,
+        "word": "将门毒后书粉",
+        "onboard_time": 1771584140,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163107,
+        "num": 163107,
+        "word": "贝加尔湖",
+        "onboard_time": 1771586181,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 157762,
+        "num": 157762,
+        "word": "吴京 我的夫人姓谢",
+        "onboard_time": 1771551499,
+        "rank": 16,
+        "category": "电影,作品衍生"
+      },
+      {
+        "raw_hot": 68784,
+        "num": 154505,
+        "word": "安踏选人眼光有多绝",
+        "onboard_time": 1771585400,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152613,
+        "num": 152613,
+        "word": "男子用AI鉴定玉石8个月收入上百万",
+        "onboard_time": 1771578739,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68022,
+        "num": 149246,
+        "word": "贝加尔湖汽车落水1名中国游客获救",
+        "onboard_time": 1771586781,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 349694,
+        "num": 149242,
+        "word": "吴佳尼自曝离婚原因",
+        "onboard_time": 1771584500,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148706,
+        "num": 148706,
+        "word": "女子买20元奶茶中奖黄金约25000元",
+        "onboard_time": 1771578679,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203274,
+        "num": 147470,
+        "word": "王鹤棣观众盘",
+        "onboard_time": 1771580298,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196154,
+        "num": 147076,
+        "word": "陈雪凝回应在婚礼上唱歌",
+        "onboard_time": 1771586000,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51341,
+        "num": 142744,
+        "word": "一载有8名中国游客的汽车在俄沉没",
+        "onboard_time": 1771586241,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 141567,
+        "num": 141567,
+        "word": "女子在洗浴中心浴池门口被人录像",
+        "onboard_time": 1771586181,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140197,
+        "num": 140197,
+        "word": "卖霉豆腐已经有人实操上了",
+        "onboard_time": 1771579820,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 133945,
+        "num": 133945,
+        "word": "广东地震",
+        "onboard_time": 1771569500,
+        "rank": 27,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 129141,
+        "num": 129141,
+        "word": "曝网红鹿哈师徒恋",
+        "onboard_time": 1771584801,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 124814,
+        "num": 124814,
+        "word": "第一集就看到黄景瑜腹肌",
+        "onboard_time": 1771587203,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114326,
+        "num": 114326,
+        "word": "确实型人格",
+        "onboard_time": 1771585161,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 111195,
+        "num": 111195,
+        "word": "情绪稳定的一家人有多重要",
+        "onboard_time": 1771586902,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 110411,
+        "num": 110411,
+        "word": "充电器一拔又是一年",
+        "onboard_time": 1771577360,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 106981,
+        "num": 106981,
+        "word": "露上牙说话和露下牙说话的区别",
+        "onboard_time": 1771573638,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 103799,
+        "num": 103799,
+        "word": "齐广璞王心迪晋级决赛",
+        "onboard_time": 1771583602,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101777,
+        "num": 101777,
+        "word": "胡先煦cos胡先煦",
+        "onboard_time": 1771585100,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 100223,
+        "num": 100223,
+        "word": "特朗普赞中国仪仗队",
+        "onboard_time": 1771587203,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 96745,
+        "num": 96745,
+        "word": "张函瑞抽抽乐",
+        "onboard_time": 1771586601,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94860,
+        "num": 94860,
+        "word": "香港63岁男子为救猫坠亡",
+        "onboard_time": 1771585883,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94121,
+        "num": 94121,
+        "word": "宁忠岩金牌含金量恐怖如斯",
+        "onboard_time": 1771573280,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91603,
+        "num": 91603,
+        "word": "镖人票房",
+        "onboard_time": 1771582999,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 91522,
+        "num": 91522,
+        "word": "齐广璞第一跳120.80分",
+        "onboard_time": 1771583722,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91269,
+        "num": 91269,
+        "word": "王腾回应换iPhone17",
+        "onboard_time": 1771575799,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 86204,
+        "num": 86204,
+        "word": "容止 谢景行",
+        "onboard_time": 1771558100,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85702,
+        "num": 85702,
+        "word": "镖人",
+        "onboard_time": 1771553059,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 83966,
+        "num": 83966,
+        "word": "台湾上空的歼20之说或许是真的",
+        "onboard_time": 1771581620,
+        "rank": 45,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 82637,
+        "num": 82637,
+        "word": "惊蛰无声",
+        "onboard_time": 1771587260,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 80136,
+        "num": 80136,
+        "word": "中国男团4人进空中技巧决赛",
+        "onboard_time": 1771586300,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 72704,
+        "num": 72704,
+        "word": "魏晨曾问公司拍戏能不能发一张专辑",
+        "onboard_time": 1771584681,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72233,
+        "num": 72233,
+        "word": "穆祉丞 海口",
+        "onboard_time": 1771575860,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记走进李发顺家的故事#"
+    }
+  }
+}

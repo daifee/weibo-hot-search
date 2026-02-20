@@ -1,10 +1,10 @@
 {
   "startTime": 1771517580857,
-  "endTime": 1771585568786,
+  "endTime": 1771587611727,
   "band_list": [
     {
-      "raw_hot": 4350198,
-      "num": 350211,
+      "raw_hot": 8223987,
+      "num": 8223987,
       "word": "妈祖换人",
       "onboard_time": 1771581979,
       "rank": 5,
@@ -35,7 +35,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1801638,
+      "raw_hot": 2143745,
       "num": 344711,
       "word": "妈祖 耀祖",
       "onboard_time": 1771581739,
@@ -147,6 +147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 600992,
+      "num": 1364152,
+      "word": "上海小孩7万多压岁钱被爸妈弄丢",
+      "onboard_time": 1771583899,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 600273,
       "num": 600273,
       "word": "关晓彤发表情后秒删",
@@ -211,6 +219,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 487288,
+      "num": 1922984,
+      "word": "一载有8人汽车在贝加尔湖沉没",
+      "onboard_time": 1771586000,
+      "rank": 0,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 484540,
       "num": 1028876,
       "word": "刘美贤夺冠",
@@ -264,14 +280,6 @@
       "word": "男子放炮摘除眼球称无法面对5个月女儿",
       "onboard_time": 1771543517,
       "rank": 10,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 425810,
-      "num": 1068129,
-      "word": "上海小孩7万多压岁钱被爸妈弄丢",
-      "onboard_time": 1771583899,
-      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -355,6 +363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 349694,
+      "num": 167492,
+      "word": "吴佳尼自曝离婚原因",
+      "onboard_time": 1771584500,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 340923,
       "num": 606020,
       "word": "女子疑似输液过敏导致不适身亡",
@@ -371,6 +387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 339037,
+      "num": 241375,
+      "word": "镖人票房排名第二",
+      "onboard_time": 1771583899,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 335330,
       "num": 561660,
       "word": "无接触事故扶老人女生该不该担责",
@@ -385,14 +409,6 @@
       "onboard_time": 1771581499,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 324976,
-      "num": 167492,
-      "word": "吴佳尼自曝离婚原因",
-      "onboard_time": 1771584500,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 320539,
@@ -707,14 +723,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 222507,
-      "num": 222507,
-      "word": "镖人票房排名第二",
-      "onboard_time": 1771583899,
-      "rank": 34,
-      "category": "电影"
-    },
-    {
       "raw_hot": 221444,
       "num": 221444,
       "word": "郭富城说与王一博只聊赛车",
@@ -763,6 +771,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 207164,
+      "num": 207164,
+      "word": "杨幂带火吊带条纹长裙",
+      "onboard_time": 1771584440,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 202145,
       "num": 160610,
       "word": "陈妍希 勇敢的姐姐先收获李雾",
@@ -809,6 +825,14 @@
       "onboard_time": 1771554920,
       "rank": 43,
       "category": "数码"
+    },
+    {
+      "raw_hot": 196154,
+      "num": 147076,
+      "word": "陈雪凝回应在婚礼上唱歌",
+      "onboard_time": 1771586000,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 195185,
@@ -875,6 +899,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 178406,
+      "num": 178406,
+      "word": "TF四代五练结束了",
+      "onboard_time": 1771585100,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 171025,
       "num": 171025,
       "word": "妈妈让上交2万压岁钱孩子不干了",
@@ -921,6 +953,14 @@
       "onboard_time": 1771494740,
       "rank": 16,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 163107,
+      "num": 163107,
+      "word": "贝加尔湖",
+      "onboard_time": 1771586181,
+      "rank": 15,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 162348,
@@ -1051,6 +1091,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 141567,
+      "num": 141567,
+      "word": "女子在洗浴中心浴池门口被人录像",
+      "onboard_time": 1771586181,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 140516,
       "num": 140516,
       "word": "父亲再婚偷拿10岁儿子8万压岁钱",
@@ -1083,6 +1131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 129141,
+      "num": 129141,
+      "word": "曝网红鹿哈师徒恋",
+      "onboard_time": 1771584801,
+      "rank": 36,
+      "category": "网红"
+    },
+    {
       "raw_hot": 126994,
       "num": 126994,
       "word": "孟子义沈妙的一滴泪",
@@ -1103,6 +1159,14 @@
       "num": 126301,
       "word": "王鹤棣孟子义将门独后饮酒转场",
       "onboard_time": 1771561340,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 124814,
+      "num": 124814,
+      "word": "第一集就看到黄景瑜腹肌",
+      "onboard_time": 1771587203,
       "rank": 29,
       "category": "剧集"
     },
@@ -1179,12 +1243,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 115490,
-      "num": 115490,
-      "word": "TF四代五练结束了",
-      "onboard_time": 1771585100,
-      "rank": 28,
-      "category": "综艺"
+      "raw_hot": 114326,
+      "num": 114326,
+      "word": "确实型人格",
+      "onboard_time": 1771585161,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 114279,
@@ -1249,6 +1313,14 @@
       "onboard_time": 1771574000,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 111195,
+      "num": 111195,
+      "word": "情绪稳定的一家人有多重要",
+      "onboard_time": 1771586902,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 110293,
@@ -1331,14 +1403,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 104101,
-      "num": 100852,
-      "word": "杨幂带火吊带条纹长裙",
-      "onboard_time": 1771584440,
-      "rank": 33,
-      "category": "电影"
-    },
-    {
       "raw_hot": 103365,
       "num": 103365,
       "word": "谷爱凌苏翊鸣配得感",
@@ -1353,6 +1417,14 @@
       "onboard_time": 1771549280,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 101777,
+      "num": 101777,
+      "word": "胡先煦cos胡先煦",
+      "onboard_time": 1771585100,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 101148,
@@ -1395,6 +1467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 100223,
+      "num": 100223,
+      "word": "特朗普赞中国仪仗队",
+      "onboard_time": 1771587203,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 100076,
       "num": 100076,
       "word": "尹锡悦称无法接受被判无期徒刑",
@@ -1435,20 +1515,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 97941,
-      "num": 97941,
-      "word": "曝网红鹿哈师徒恋",
-      "onboard_time": 1771584801,
-      "rank": 36,
-      "category": "网红"
-    },
-    {
       "raw_hot": 97673,
       "num": 173607,
       "word": "女子订洛杉矶民宿入住当天遭取消",
       "onboard_time": 1771571779,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96745,
+      "num": 96745,
+      "word": "张函瑞抽抽乐",
+      "onboard_time": 1771586601,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 96235,
@@ -1473,6 +1553,14 @@
       "onboard_time": 1771568779,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 94860,
+      "num": 94860,
+      "word": "香港63岁男子为救猫坠亡",
+      "onboard_time": 1771585883,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 94810,
@@ -1683,14 +1771,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 85689,
-      "num": 85689,
-      "word": "胡先煦cos胡先煦",
-      "onboard_time": 1771585100,
-      "rank": 39,
-      "category": "电影"
-    },
-    {
       "raw_hot": 85546,
       "num": 124835,
       "word": "特朗普称对台军售要跟中国商量",
@@ -1763,6 +1843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 82637,
+      "num": 82637,
+      "word": "惊蛰无声",
+      "onboard_time": 1771587260,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 82408,
       "num": 82408,
       "word": "2026锦鲤附体的星座",
@@ -1801,6 +1889,14 @@
       "onboard_time": 1771556840,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 80136,
+      "num": 80136,
+      "word": "中国男团4人进空中技巧决赛",
+      "onboard_time": 1771586300,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 79858,
@@ -1923,14 +2019,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 73283,
-      "num": 73283,
-      "word": "确实型人格",
-      "onboard_time": 1771585161,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 73128,
       "num": 65046,
       "word": "肖战和演员导演对戏完全不敷衍",
@@ -1953,6 +2041,14 @@
       "onboard_time": 1771554258,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 72704,
+      "num": 72704,
+      "word": "魏晨曾问公司拍戏能不能发一张专辑",
+      "onboard_time": 1771584681,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 71893,
@@ -2035,6 +2131,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 68784,
+      "num": 154505,
+      "word": "安踏选人眼光有多绝",
+      "onboard_time": 1771585400,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 68529,
       "num": 68529,
       "word": "曹县汉服一年卖出130亿",
@@ -2065,6 +2169,14 @@
       "onboard_time": 1771578320,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 68022,
+      "num": 149246,
+      "word": "贝加尔湖汽车落水1名中国游客获救",
+      "onboard_time": 1771586781,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 67856,
@@ -2275,6 +2387,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 51341,
+      "num": 142744,
+      "word": "一载有8名中国游客的汽车在俄沉没",
+      "onboard_time": 1771586241,
+      "rank": 24,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 50479,
       "num": 50479,
       "word": "没有杨紫这条线就没有生命树",
@@ -2321,14 +2441,6 @@
       "onboard_time": 1771543936,
       "rank": 37,
       "category": "数码"
-    },
-    {
-      "raw_hot": 47310,
-      "num": 113957,
-      "word": "安踏选人眼光有多绝",
-      "onboard_time": 1771585400,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 44930,
@@ -2484,7 +2596,7 @@
     },
     {
       "raw_hot": 24073,
-      "num": 726033,
+      "num": 1147322,
       "word": "每一位中国冰雪健儿都闪闪发光",
       "onboard_time": 1771575799,
       "rank": 2,

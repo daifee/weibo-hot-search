@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1771585568786,
+  "endTime": 1771587611727,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -227,6 +227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 8223987,
+      "num": 8223987,
+      "word": "妈祖换人",
+      "onboard_time": 1771581979,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 8120856,
       "num": 8120856,
       "word": "肖战 害羞笑",
@@ -441,14 +449,6 @@
       "onboard_time": 1771220842,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 4350198,
-      "num": 350211,
-      "word": "妈祖换人",
-      "onboard_time": 1771581979,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 4325889,
@@ -1067,6 +1067,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 2143745,
+      "num": 344711,
+      "word": "妈祖 耀祖",
+      "onboard_time": 1771581739,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 2133729,
       "num": 2133729,
       "word": "霸王茶姬通报",
@@ -1425,14 +1433,6 @@
       "onboard_time": 1769927840,
       "rank": 5,
       "category": "演出"
-    },
-    {
-      "raw_hot": 1801638,
-      "num": 344711,
-      "word": "妈祖 耀祖",
-      "onboard_time": 1771581739,
-      "rank": 6,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1799156,
