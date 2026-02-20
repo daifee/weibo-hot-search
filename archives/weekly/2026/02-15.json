@@ -1,6 +1,6 @@
 {
   "startTime": 1771087248939,
-  "endTime": 1771628092069,
+  "endTime": 1771630663949,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -3475,6 +3475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 346578,
+      "num": 667997,
+      "word": "金吉莉1500米金牌",
+      "onboard_time": 1771623674,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 345878,
       "num": 345878,
       "word": "成毅的年夜饭",
@@ -3561,6 +3569,14 @@
       "onboard_time": 1771131319,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 337154,
+      "num": 113046,
+      "word": "贝加尔湖事故遇难者遗体被找到",
+      "onboard_time": 1771618573,
+      "rank": 10,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 335330,
@@ -4033,6 +4049,14 @@
       "onboard_time": 1771132340,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 305286,
+      "num": 112055,
+      "word": "这种致癌物在春节很常见",
+      "onboard_time": 1771628895,
+      "rank": 11,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 305229,
@@ -5731,14 +5755,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 218797,
-      "num": 414174,
-      "word": "金吉莉1500米金牌",
-      "onboard_time": 1771623674,
-      "rank": 3,
-      "category": "体育"
-    },
-    {
       "raw_hot": 218493,
       "num": 127207,
       "word": "伤心swimming晒聊天转账记录",
@@ -5793,14 +5809,6 @@
       "onboard_time": 1771300161,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 217199,
-      "num": 70239,
-      "word": "贝加尔湖事故遇难者遗体被找到",
-      "onboard_time": 1771618573,
-      "rank": 10,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 216855,
@@ -7403,6 +7411,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 156350,
+      "num": 156350,
+      "word": "正月初五接财神",
+      "onboard_time": 1771605441,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 156035,
       "num": 156035,
       "word": "徐梦桃大喊我怎么跳这么漂亮",
@@ -7939,6 +7955,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 141269,
+      "num": 49386,
+      "word": "妹妹回应给60cm哥哥买新衣服",
+      "onboard_time": 1771628295,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 141260,
+      "num": 141260,
+      "word": "沈娇娇是个眼圆脸圆的甜妹",
+      "onboard_time": 1771629917,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 140984,
       "num": 213208,
       "word": "北京春晚 活人",
@@ -8065,6 +8097,14 @@
       "onboard_time": 1771587203,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 138275,
+      "num": 138275,
+      "word": "华住回应桔子酒店恐吓女顾客",
+      "onboard_time": 1771628295,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 138216,
@@ -9852,7 +9892,7 @@
     },
     {
       "raw_hot": 104972,
-      "num": 80019,
+      "num": 83686,
       "word": "将门独后领衔主演杨仕泽姚弛",
       "onboard_time": 1771604121,
       "rank": 25,
@@ -10475,6 +10515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 97245,
+      "num": 92705,
+      "word": "爸爸回应不许家人打扰儿子睡懒觉",
+      "onboard_time": 1771595002,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96956,
       "num": 219864,
       "word": "iPhone18ProMax或无重大更新",
@@ -10827,14 +10875,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 92705,
-      "num": 92705,
-      "word": "爸爸回应不许家人打扰儿子睡懒觉",
-      "onboard_time": 1771595002,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 92602,
       "num": 92602,
       "word": "中国队米兰第4金",
@@ -10993,6 +11033,14 @@
       "onboard_time": 1771342222,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 90908,
+      "num": 90908,
+      "word": "中国队男子5000米接力B组第一",
+      "onboard_time": 1771621093,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 90735,
@@ -11419,6 +11467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 86041,
+      "num": 86041,
+      "word": "中国短道队结束米兰冬奥征程",
+      "onboard_time": 1771625234,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 86029,
       "num": 86029,
       "word": "尔滨气温让冰雪大世界临时闭园了",
@@ -11473,14 +11529,6 @@
       "onboard_time": 1771143021,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 85669,
-      "num": 85669,
-      "word": "中国队男子5000米接力B组第一",
-      "onboard_time": 1771621093,
-      "rank": 3,
-      "category": "体育"
     },
     {
       "raw_hot": 85546,
@@ -12555,6 +12603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 75660,
+      "num": 75660,
+      "word": "儿子离家1年母亲在短视频发现踪迹",
+      "onboard_time": 1771608377,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75618,
       "num": 75618,
       "word": "英语口语水平恐怕在我之上",
@@ -12721,6 +12777,14 @@
       "onboard_time": 1771313000,
       "rank": 38,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 74547,
+      "num": 64237,
+      "word": "财神壁纸",
+      "onboard_time": 1771630397,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 74422,
@@ -13731,6 +13795,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 67129,
+      "num": 49382,
+      "word": "马克龙愤怒回应意大利总理涉法言论",
+      "onboard_time": 1771630037,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 67124,
       "num": 226658,
       "word": "周深与千问定制马年新歌",
@@ -14099,12 +14171,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 64318,
+      "num": 64318,
+      "word": "五路财神",
+      "onboard_time": 1771618635,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 64216,
       "num": 64216,
       "word": "宁忠岩没吹牛",
       "onboard_time": 1771522398,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 64174,
+      "num": 64174,
+      "word": "这些行为正在偷偷消耗你的气血",
+      "onboard_time": 1771629857,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 64172,
@@ -14348,7 +14436,7 @@
     },
     {
       "raw_hot": 61931,
-      "num": 39030,
+      "num": 44977,
       "word": "年轻人装修的厨房有多方便",
       "onboard_time": 1771608377,
       "rank": 30,
@@ -14624,14 +14712,6 @@
       "word": "苏翊鸣说夺金后感觉一下都回来了",
       "onboard_time": 1771488680,
       "rank": 47,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 58841,
-      "num": 58841,
-      "word": "中国短道队结束米兰冬奥征程",
-      "onboard_time": 1771625234,
-      "rank": 22,
       "category": "体育"
     },
     {
@@ -14923,14 +15003,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 55419,
-      "num": 55419,
-      "word": "儿子离家1年母亲在短视频发现踪迹",
-      "onboard_time": 1771608377,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 55323,
       "num": 177841,
       "word": "王菲春晚歌曲原唱作品曾亮相歌手",
@@ -15137,14 +15209,6 @@
       "onboard_time": 1771342821,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 52900,
-      "num": 52900,
-      "word": "五路财神",
-      "onboard_time": 1771618635,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 52827,
@@ -15433,6 +15497,14 @@
       "onboard_time": 1771521797,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 49425,
+      "num": 49425,
+      "word": "美国或需退还1750亿美元关税",
+      "onboard_time": 1771629977,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 49277,
@@ -15763,6 +15835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 44214,
+      "num": 44214,
+      "word": "徐梦桃这张照片含金量超高",
+      "onboard_time": 1771630276,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 44156,
       "num": 135121,
       "word": "除夕到底除的啥",
@@ -15875,6 +15955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 42536,
+      "num": 42536,
+      "word": "黄金白银飙涨",
+      "onboard_time": 1771630578,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 42526,
       "num": 133801,
       "word": "女子空中技巧预赛因大雪延迟",
@@ -15963,20 +16051,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 41183,
+      "num": 41183,
+      "word": "常吃发酵食物带来的身体变化",
+      "onboard_time": 1771629917,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 41138,
       "num": 41138,
       "word": "刘少昂500米B组第一",
       "onboard_time": 1771448294,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 41014,
-      "num": 65789,
-      "word": "正月初五接财神",
-      "onboard_time": 1771605441,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 41006,
@@ -16035,6 +16123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 39642,
+      "num": 39642,
+      "word": "四中国选手无缘U型场地决赛",
+      "onboard_time": 1771629857,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 39482,
       "num": 62923,
       "word": "钢架雪车",
@@ -16072,6 +16168,14 @@
       "word": "春晚团圆冬奥冲金咪咕除夕转不停",
       "onboard_time": 1771211781,
       "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 38398,
+      "num": 38398,
+      "word": "任子威不理解裁判判罚",
+      "onboard_time": 1771622834,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -16129,6 +16233,14 @@
       "onboard_time": 1771523415,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 37278,
+      "num": 37278,
+      "word": "大年初五",
+      "onboard_time": 1771629796,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 37229,
@@ -16649,14 +16761,6 @@
       "onboard_time": 1771128440,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 28946,
-      "num": 27357,
-      "word": "任子威不理解裁判判罚",
-      "onboard_time": 1771622834,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 28834,

@@ -1,6 +1,6 @@
 {
   "startTime": 1771603272383,
-  "endTime": 1771628092069,
+  "endTime": 1771630663949,
   "band_list": [
     {
       "raw_hot": 1609922,
@@ -83,6 +83,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 346578,
+      "num": 667997,
+      "word": "金吉莉1500米金牌",
+      "onboard_time": 1771623674,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 337154,
+      "num": 113046,
+      "word": "贝加尔湖事故遇难者遗体被找到",
+      "onboard_time": 1771618573,
+      "rank": 10,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 305286,
+      "num": 112055,
+      "word": "这种致癌物在春节很常见",
+      "onboard_time": 1771628895,
+      "rank": 11,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 277883,
       "num": 290642,
       "word": "将门毒后不是大ip是巨ip",
@@ -113,22 +137,6 @@
       "onboard_time": 1771594103,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 218797,
-      "num": 414174,
-      "word": "金吉莉1500米金牌",
-      "onboard_time": 1771623674,
-      "rank": 3,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 217199,
-      "num": 70239,
-      "word": "贝加尔湖事故遇难者遗体被找到",
-      "onboard_time": 1771618573,
-      "rank": 10,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 210189,
@@ -179,6 +187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 156350,
+      "num": 156350,
+      "word": "正月初五接财神",
+      "onboard_time": 1771605441,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 151815,
       "num": 151815,
       "word": "瑞幸 村里",
@@ -201,6 +217,30 @@
       "onboard_time": 1771593502,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 141269,
+      "num": 49386,
+      "word": "妹妹回应给60cm哥哥买新衣服",
+      "onboard_time": 1771628295,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 141260,
+      "num": 141260,
+      "word": "沈娇娇是个眼圆脸圆的甜妹",
+      "onboard_time": 1771629917,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 138275,
+      "num": 138275,
+      "word": "华住回应桔子酒店恐吓女顾客",
+      "onboard_time": 1771628295,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 132662,
@@ -260,7 +300,7 @@
     },
     {
       "raw_hot": 104972,
-      "num": 80019,
+      "num": 83686,
       "word": "将门独后领衔主演杨仕泽姚弛",
       "onboard_time": 1771604121,
       "rank": 25,
@@ -291,6 +331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 97245,
+      "num": 92705,
+      "word": "爸爸回应不许家人打扰儿子睡懒觉",
+      "onboard_time": 1771595002,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96033,
       "num": 141763,
       "word": "李天马快乐小马",
@@ -307,12 +355,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 92705,
-      "num": 92705,
-      "word": "爸爸回应不许家人打扰儿子睡懒觉",
-      "onboard_time": 1771595002,
-      "rank": 31,
-      "category": "民生新闻"
+      "raw_hot": 90908,
+      "num": 90908,
+      "word": "中国队男子5000米接力B组第一",
+      "onboard_time": 1771621093,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 87728,
@@ -321,6 +369,14 @@
       "onboard_time": 1771597163,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 86041,
+      "num": 86041,
+      "word": "中国短道队结束米兰冬奥征程",
+      "onboard_time": 1771625234,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 85859,
@@ -337,14 +393,6 @@
       "onboard_time": 1771602981,
       "rank": 21,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 85669,
-      "num": 85669,
-      "word": "中国队男子5000米接力B组第一",
-      "onboard_time": 1771621093,
-      "rank": 3,
-      "category": "体育"
     },
     {
       "raw_hot": 78533,
@@ -369,6 +417,22 @@
       "onboard_time": 1771605140,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 75660,
+      "num": 75660,
+      "word": "儿子离家1年母亲在短视频发现踪迹",
+      "onboard_time": 1771608377,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 74547,
+      "num": 64237,
+      "word": "财神壁纸",
+      "onboard_time": 1771630397,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 73729,
@@ -435,6 +499,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 67129,
+      "num": 49382,
+      "word": "马克龙愤怒回应意大利总理涉法言论",
+      "onboard_time": 1771630037,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 66057,
       "num": 66057,
       "word": "白银重返80美元",
@@ -459,6 +531,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 64318,
+      "num": 64318,
+      "word": "五路财神",
+      "onboard_time": 1771618635,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 64174,
+      "num": 64174,
+      "word": "这些行为正在偷偷消耗你的气血",
+      "onboard_time": 1771629857,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 63904,
       "num": 63904,
       "word": "王心迪132.60分",
@@ -476,7 +564,7 @@
     },
     {
       "raw_hot": 61931,
-      "num": 39030,
+      "num": 44977,
       "word": "年轻人装修的厨房有多方便",
       "onboard_time": 1771608377,
       "rank": 30,
@@ -507,36 +595,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 58841,
-      "num": 58841,
-      "word": "中国短道队结束米兰冬奥征程",
-      "onboard_time": 1771625234,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 55419,
-      "num": 55419,
-      "word": "儿子离家1年母亲在短视频发现踪迹",
-      "onboard_time": 1771608377,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 54490,
       "num": 27935,
       "word": "任子威哎哟一次摔倒一个",
       "onboard_time": 1771621334,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 52900,
-      "num": 52900,
-      "word": "五路财神",
-      "onboard_time": 1771618635,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 52369,
@@ -552,6 +616,22 @@
       "word": "杨婧茹1500米第四",
       "onboard_time": 1771623313,
       "rank": 6,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 49425,
+      "num": 49425,
+      "word": "美国或需退还1750亿美元关税",
+      "onboard_time": 1771629977,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 47223,
+      "num": 47223,
+      "word": "短道速滑",
+      "onboard_time": 1771629857,
+      "rank": 34,
       "category": "体育"
     },
     {
@@ -571,6 +651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 44214,
+      "num": 44214,
+      "word": "徐梦桃这张照片含金量超高",
+      "onboard_time": 1771630276,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 43408,
       "num": 696798,
       "word": "中国非遗给你亿点点震撼",
@@ -579,12 +667,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 41014,
-      "num": 65789,
-      "word": "正月初五接财神",
-      "onboard_time": 1771605441,
+      "raw_hot": 42536,
+      "num": 42536,
+      "word": "黄金白银飙涨",
+      "onboard_time": 1771630578,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 41183,
+      "num": 41183,
+      "word": "常吃发酵食物带来的身体变化",
+      "onboard_time": 1771629917,
       "rank": 42,
-      "category": "民生新闻"
+      "category": "健康医疗"
     },
     {
       "raw_hot": 39961,
@@ -600,6 +696,14 @@
       "word": "中国队4金3银5铜",
       "onboard_time": 1771598182,
       "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 39642,
+      "num": 39642,
+      "word": "四中国选手无缘U型场地决赛",
+      "onboard_time": 1771629857,
+      "rank": 43,
       "category": "体育"
     },
     {
@@ -619,6 +723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 38398,
+      "num": 38398,
+      "word": "任子威不理解裁判判罚",
+      "onboard_time": 1771622834,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 37825,
       "num": 65782,
       "word": "李佩仪萧怀瑾分手",
@@ -633,6 +745,22 @@
       "onboard_time": 1771584500,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 37278,
+      "num": 37278,
+      "word": "大年初五",
+      "onboard_time": 1771629796,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 36294,
+      "num": 36294,
+      "word": "大年初五有啥习俗",
+      "onboard_time": 1771588882,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 35984,
@@ -680,14 +808,6 @@
       "word": "短道速滑男子5000米接力决赛",
       "onboard_time": 1771621093,
       "rank": 33,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 28946,
-      "num": 27357,
-      "word": "任子威不理解裁判判罚",
-      "onboard_time": 1771622834,
-      "rank": 47,
       "category": "体育"
     },
     {
