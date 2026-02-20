@@ -1,6 +1,6 @@
 {
   "startTime": 1771603272383,
-  "endTime": 1771607304575,
+  "endTime": 1771609487693,
   "band_list": [
     {
       "raw_hot": 1609922,
@@ -83,8 +83,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 273156,
-      "num": 273156,
+      "raw_hot": 275196,
+      "num": 290642,
       "word": "将门毒后不是大ip是巨ip",
       "onboard_time": 1771591041,
       "rank": 10,
@@ -153,6 +153,14 @@
       "onboard_time": 1771601002,
       "rank": 16,
       "category": "美食"
+    },
+    {
+      "raw_hot": 151018,
+      "num": 100619,
+      "word": "方大同去世一周年",
+      "onboard_time": 1771606938,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 144284,
@@ -243,6 +251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 101456,
+      "num": 101456,
+      "word": "谷爱凌进了第三个决赛",
+      "onboard_time": 1771606578,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 100178,
       "num": 100178,
       "word": "成何体统",
@@ -291,7 +307,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 80991,
+      "raw_hot": 85781,
       "num": 136265,
       "word": "美最高法院裁定特朗普关税违法",
       "onboard_time": 1771602981,
@@ -320,14 +336,6 @@
       "word": "冬奥会速度滑冰女子1500米",
       "onboard_time": 1771605140,
       "rank": 31,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 74938,
-      "num": 74938,
-      "word": "谷爱凌进了第三个决赛",
-      "onboard_time": 1771606578,
-      "rank": 25,
       "category": "体育"
     },
     {
@@ -435,12 +443,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 62967,
-      "num": 62967,
-      "word": "方大同去世一周年",
-      "onboard_time": 1771606938,
-      "rank": 32,
-      "category": "艺人"
+      "raw_hot": 61931,
+      "num": 39030,
+      "word": "年轻人装修的厨房有多方便",
+      "onboard_time": 1771608377,
+      "rank": 30,
+      "category": "休闲"
     },
     {
       "raw_hot": 60955,
@@ -491,6 +499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41321,
+      "num": 41321,
+      "word": "儿子离家1年母亲在短视频发现踪迹",
+      "onboard_time": 1771608377,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41014,
       "num": 65789,
       "word": "正月初五接财神",
@@ -507,20 +523,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39959,
+      "num": 65783,
+      "word": "中国队4金3银5铜",
+      "onboard_time": 1771598182,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 39403,
       "num": 49198,
       "word": "岁月有情时",
       "onboard_time": 1771588402,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 39333,
-      "num": 65783,
-      "word": "中国队4金3银5铜",
-      "onboard_time": 1771598182,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 39262,
@@ -555,12 +571,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 30988,
+      "num": 30988,
+      "word": "德容速滑女子1500米金牌",
+      "onboard_time": 1771607897,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 28794,
       "num": 142012,
       "word": "当事人回应全家60多人除夕合影",
       "onboard_time": 1771602381,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28653,
+      "num": 28653,
+      "word": "韩梅女子1500米第9名",
+      "onboard_time": 1771608196,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 26386,
+      "num": 26386,
+      "word": "DK与T1争夺败决席位",
+      "onboard_time": 1771604541,
+      "rank": 48,
+      "category": "电竞"
     }
   ],
   "hotgov_list": [

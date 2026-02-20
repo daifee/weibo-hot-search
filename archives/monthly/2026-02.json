@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1771607304575,
+  "endTime": 1771609487693,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -23387,6 +23387,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 151018,
+      "num": 100619,
+      "word": "方大同去世一周年",
+      "onboard_time": 1771606938,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 150900,
       "num": 150900,
       "word": "王昶钱天一是00后",
@@ -33795,6 +33803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 101456,
+      "num": 101456,
+      "word": "谷爱凌进了第三个决赛",
+      "onboard_time": 1771606578,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 101432,
       "num": 101432,
       "word": "懒懒自曝78斤",
@@ -39523,6 +39539,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 85781,
+      "num": 136265,
+      "word": "美最高法院裁定特朗普关税违法",
+      "onboard_time": 1771602981,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 85778,
       "num": 85778,
       "word": "年轻人备的年货",
@@ -41313,14 +41337,6 @@
       "onboard_time": 1770457701,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 80991,
-      "num": 136265,
-      "word": "美最高法院裁定特朗普关税违法",
-      "onboard_time": 1771602981,
-      "rank": 21,
-      "category": "国际时政"
     },
     {
       "raw_hot": 80986,
@@ -43745,14 +43761,6 @@
       "onboard_time": 1770112580,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 74938,
-      "num": 74938,
-      "word": "谷爱凌进了第三个决赛",
-      "onboard_time": 1771606578,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 74921,
@@ -47315,14 +47323,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 62967,
-      "num": 62967,
-      "word": "方大同去世一周年",
-      "onboard_time": 1771606938,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 62896,
       "num": 62896,
       "word": "长征十号箭体落点并非失误",
@@ -47641,6 +47641,14 @@
       "onboard_time": 1771480699,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 61931,
+      "num": 39030,
+      "word": "年轻人装修的厨房有多方便",
+      "onboard_time": 1771608377,
+      "rank": 30,
+      "category": "休闲"
     },
     {
       "raw_hot": 61929,
@@ -51883,6 +51891,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 41321,
+      "num": 41321,
+      "word": "儿子离家1年母亲在短视频发现踪迹",
+      "onboard_time": 1771608377,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41248,
       "num": 29198,
       "word": "熬夜看冬奥会开幕式",
@@ -54059,6 +54075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 30988,
+      "num": 30988,
+      "word": "德容速滑女子1500米金牌",
+      "onboard_time": 1771607897,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 30852,
       "num": 985139,
       "word": "米兰冬奥会16日看点",
@@ -54521,6 +54545,14 @@
       "onboard_time": 1769999179,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 28653,
+      "num": 28653,
+      "word": "韩梅女子1500米第9名",
+      "onboard_time": 1771608196,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 28648,
@@ -55121,6 +55153,14 @@
       "onboard_time": 1770409393,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 26386,
+      "num": 26386,
+      "word": "DK与T1争夺败决席位",
+      "onboard_time": 1771604541,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 26382,
