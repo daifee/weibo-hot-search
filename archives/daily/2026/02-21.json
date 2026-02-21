@@ -1,6 +1,6 @@
 {
   "startTime": 1771603272383,
-  "endTime": 1771680366554,
+  "endTime": 1771681988030,
   "band_list": [
     {
       "raw_hot": 7230243,
@@ -51,6 +51,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1537268,
+      "num": 551845,
+      "word": "白鹿 我家923",
+      "onboard_time": 1771680082,
+      "rank": 3,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1331060,
       "num": 178835,
       "word": "特朗普访华时间",
@@ -92,7 +100,7 @@
     },
     {
       "raw_hot": 943258,
-      "num": 180278,
+      "num": 188725,
       "word": "刘涛回应妈祖照被设为屏保",
       "onboard_time": 1771673661,
       "rank": 24,
@@ -139,11 +147,11 @@
       "category": "电影"
     },
     {
-      "raw_hot": 733618,
-      "num": 551845,
-      "word": "白鹿 我家923",
-      "onboard_time": 1771680082,
-      "rank": 3,
+      "raw_hot": 717162,
+      "num": 346828,
+      "word": "李晨发跑男团idle合照",
+      "onboard_time": 1771679842,
+      "rank": 31,
       "category": "演出"
     },
     {
@@ -251,6 +259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 503995,
+      "num": 1080639,
+      "word": "现在就出发",
+      "onboard_time": 1771673001,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 502923,
       "num": 623611,
       "word": "家属称平顶山被打女孩处半昏迷",
@@ -265,6 +281,14 @@
       "onboard_time": 1771640899,
       "rank": 30,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 493057,
+      "num": 334139,
+      "word": "辽宁春晚最大黑马小品以貌取人",
+      "onboard_time": 1771677025,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 489495,
@@ -291,20 +315,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 482617,
-      "num": 1077218,
-      "word": "现在就出发",
-      "onboard_time": 1771673001,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 479629,
       "num": 479629,
       "word": "北京沙尘暴",
       "onboard_time": 1771662020,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 460571,
+      "num": 188063,
+      "word": "陈丽君李云霄 避嫌避到一部电影里",
+      "onboard_time": 1771679303,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 449010,
@@ -339,20 +363,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 425715,
-      "num": 279684,
-      "word": "辽宁春晚最大黑马小品以貌取人",
-      "onboard_time": 1771677025,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 424777,
       "num": 424777,
       "word": "弟弟没钱但有的是力气和手段",
       "onboard_time": 1771652000,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 420740,
+      "num": 790626,
+      "word": "前方无厕所无烤肠无茶叶蛋",
+      "onboard_time": 1771681222,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 403146,
@@ -396,7 +420,7 @@
     },
     {
       "raw_hot": 364958,
-      "num": 130542,
+      "num": 130940,
       "word": "刘梦章称不存在出轨",
       "onboard_time": 1771678641,
       "rank": 27,
@@ -467,6 +491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 337576,
+      "num": 186098,
+      "word": "女生扶摔倒老人被索赔22万对方已撤诉",
+      "onboard_time": 1771679901,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 337154,
       "num": 120092,
       "word": "贝加尔湖事故遇难者遗体被找到",
@@ -515,7 +547,15 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 312389,
+      "raw_hot": 318981,
+      "num": 318981,
+      "word": "游客挤到悔不当初不如在家刷手机",
+      "onboard_time": 1771678462,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 316741,
       "num": 227537,
       "word": "宋雨琦用中文介绍跑男团",
       "onboard_time": 1771677383,
@@ -593,6 +633,14 @@
       "onboard_time": 1771637479,
       "rank": 9,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 284728,
+      "num": 181861,
+      "word": "烟花突然爆炸7户邻居玻璃被震碎",
+      "onboard_time": 1771676241,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 284148,
@@ -732,7 +780,7 @@
     },
     {
       "raw_hot": 229518,
-      "num": 135092,
+      "num": 144601,
       "word": "谷爱凌称收到过死亡威胁",
       "onboard_time": 1771676481,
       "rank": 22,
@@ -835,14 +883,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 200865,
-      "num": 175419,
-      "word": "烟花突然爆炸7户邻居玻璃被震碎",
-      "onboard_time": 1771676241,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 198745,
       "num": 198745,
       "word": "肖战杀青回北京",
@@ -867,20 +907,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 194555,
-      "num": 110966,
-      "word": "陈丽君李云霄 避嫌避到一部电影里",
-      "onboard_time": 1771679303,
-      "rank": 39,
-      "category": "电影"
-    },
-    {
       "raw_hot": 191441,
       "num": 113388,
       "word": "特朗普称将加征10%全球进口关税",
       "onboard_time": 1771631176,
       "rank": 13,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 190292,
+      "num": 190292,
+      "word": "上门喂猫不让人走",
+      "onboard_time": 1771676241,
+      "rank": 12,
+      "category": "幽默"
     },
     {
       "raw_hot": 186748,
@@ -907,12 +947,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 181628,
-      "num": 181628,
-      "word": "上门喂猫不让人走",
-      "onboard_time": 1771676241,
-      "rank": 12,
-      "category": "幽默"
+      "raw_hot": 181318,
+      "num": 181318,
+      "word": "徐梦桃安慰李天马王心迪吃醋",
+      "onboard_time": 1771681222,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 180489,
@@ -924,7 +964,7 @@
     },
     {
       "raw_hot": 174893,
-      "num": 127376,
+      "num": 142723,
       "word": "徐璐透露目前体重为96斤",
       "onboard_time": 1771679303,
       "rank": 26,
@@ -939,20 +979,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 169651,
+      "num": 169651,
+      "word": "将门毒后",
+      "onboard_time": 1771679603,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 169185,
       "num": 100619,
       "word": "方大同去世一周年",
       "onboard_time": 1771606938,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 168635,
-      "num": 168635,
-      "word": "游客挤到悔不当初不如在家刷手机",
-      "onboard_time": 1771678462,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 167127,
@@ -1043,6 +1083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 153516,
+      "num": 153516,
+      "word": "女子将900克黄金遗忘动车当场吓晕",
+      "onboard_time": 1771678582,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 151815,
       "num": 151815,
       "word": "瑞幸 村里",
@@ -1057,14 +1105,6 @@
       "onboard_time": 1771641200,
       "rank": 18,
       "category": "电影"
-    },
-    {
-      "raw_hot": 144782,
-      "num": 144782,
-      "word": "女生扶摔倒老人被索赔22万对方已撤诉",
-      "onboard_time": 1771679901,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 144670,
@@ -1203,14 +1243,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 132467,
-      "num": 117342,
-      "word": "李晨发跑男团idle合照",
-      "onboard_time": 1771679842,
-      "rank": 31,
-      "category": "演出"
-    },
-    {
       "raw_hot": 131719,
       "num": 83255,
       "word": "初五迎财神",
@@ -1225,6 +1257,14 @@
       "onboard_time": 1771672160,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 127627,
+      "num": 124481,
+      "word": "王鹤棣少年心气具象化了",
+      "onboard_time": 1771680381,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 127582,
@@ -1347,14 +1387,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 113173,
-      "num": 113173,
-      "word": "将门毒后",
-      "onboard_time": 1771679603,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 113063,
       "num": 127934,
       "word": "小伙撕去年对联天塌了",
@@ -1409,14 +1441,6 @@
       "onboard_time": 1771669519,
       "rank": 45,
       "category": "电影"
-    },
-    {
-      "raw_hot": 108036,
-      "num": 124138,
-      "word": "女子将900克黄金遗忘动车当场吓晕",
-      "onboard_time": 1771678582,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 107206,
@@ -1619,6 +1643,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 92784,
+      "num": 93011,
+      "word": "平顶山被打女孩家属称未获道歉",
+      "onboard_time": 1771679542,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92733,
+      "num": 92732,
+      "word": "吴谨言洪尧海南度假",
+      "onboard_time": 1771680442,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 92673,
       "num": 92673,
       "word": "打王者我只佩服一种人",
@@ -1665,6 +1705,14 @@
       "onboard_time": 1771674020,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 89540,
+      "num": 137165,
+      "word": "北京沙尘暴致大兴机场多趟航班备降",
+      "onboard_time": 1771679963,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89168,
@@ -1833,6 +1881,14 @@
       "onboard_time": 1771667422,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84297,
+      "num": 92755,
+      "word": "GEN晋级全球先锋赛",
+      "onboard_time": 1771681582,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 84158,
@@ -2083,6 +2139,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 72832,
+      "num": 88124,
+      "word": "当我竟然在12点前睡觉",
+      "onboard_time": 1771680682,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 72698,
       "num": 72698,
       "word": "黄金白银又飙涨原因",
@@ -2161,14 +2225,6 @@
       "onboard_time": 1771652239,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 69440,
-      "num": 93011,
-      "word": "平顶山被打女孩家属称未获道歉",
-      "onboard_time": 1771679542,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 69099,
@@ -2851,6 +2907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 38991,
+      "num": 151443,
+      "word": "初中生扶老人被索赔22万双方和解",
+      "onboard_time": 1771681283,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37825,
       "num": 65782,
       "word": "李佩仪萧怀瑾分手",
@@ -2939,6 +3003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 30405,
+      "num": 92771,
+      "word": "春天的气息扑面而来了",
+      "onboard_time": 1771681162,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30084,
       "num": 130382,
       "word": "外地游客凌晨3点到胖东来排队",
@@ -2953,14 +3025,6 @@
       "onboard_time": 1771621093,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 29209,
-      "num": 137165,
-      "word": "北京沙尘暴致大兴机场多趟航班备降",
-      "onboard_time": 1771679963,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 28794,
@@ -3016,6 +3080,14 @@
       "word": "小孩哥祭祖求打游戏没作业被当场驳回",
       "onboard_time": 1771669880,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22956,
+      "num": 630527,
+      "word": "热气腾腾的中国年",
+      "onboard_time": 1771681641,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -3129,6 +3201,14 @@
       "onboard_time": 1771644680,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 11212,
+      "num": 92777,
+      "word": "大同遭遇沙尘暴有游客被吹倒",
+      "onboard_time": 1771681760,
+      "rank": 39,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
@@ -3143,6 +3223,9 @@
     },
     {
       "word": "#祝各族人民不断过上更好生活#"
+    },
+    {
+      "word": "#总书记春节足迹里的文化情怀#"
     }
   ]
 }
