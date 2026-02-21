@@ -1,6 +1,6 @@
 {
   "startTime": 1771603272383,
-  "endTime": 1771666753747,
+  "endTime": 1771667691079,
   "band_list": [
     {
       "raw_hot": 1928940,
@@ -99,6 +99,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 740352,
+      "num": 380130,
+      "word": "镖人 那尔那茜",
+      "onboard_time": 1771665259,
+      "rank": 5,
+      "category": "电影"
+    },
+    {
       "raw_hot": 674103,
       "num": 810126,
       "word": "王濛现场观赛生气了",
@@ -169,14 +177,6 @@
       "onboard_time": 1771595546,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 520501,
-      "num": 376556,
-      "word": "镖人 那尔那茜",
-      "onboard_time": 1771665259,
-      "rank": 5,
-      "category": "电影"
     },
     {
       "raw_hot": 502923,
@@ -315,6 +315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 353312,
+      "num": 353312,
+      "word": "烤肠商战",
+      "onboard_time": 1771663519,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 349240,
       "num": 145576,
       "word": "阿勒泰 刘耀文宋亚轩",
@@ -379,6 +387,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 302492,
+      "num": 242653,
+      "word": "鹿晗编脏辫可以不洗",
+      "onboard_time": 1771663399,
+      "rank": 21,
+      "category": "演出"
+    },
+    {
       "raw_hot": 300576,
       "num": 300576,
       "word": "霍启刚还是忍不住秀恩爱",
@@ -411,20 +427,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 288909,
-      "num": 242653,
-      "word": "鹿晗编脏辫可以不洗",
-      "onboard_time": 1771663399,
-      "rank": 21,
-      "category": "演出"
-    },
-    {
       "raw_hot": 286940,
       "num": 229472,
       "word": "方大同才二十三MV",
       "onboard_time": 1771637479,
       "rank": 9,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 285838,
+      "num": 285838,
+      "word": "徐梦桃王心迪李天马出战混团",
+      "onboard_time": 1771666760,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 284148,
@@ -459,11 +475,11 @@
       "category": "电影"
     },
     {
-      "raw_hot": 268166,
-      "num": 268166,
-      "word": "烤肠商战",
-      "onboard_time": 1771663519,
-      "rank": 35,
+      "raw_hot": 271812,
+      "num": 223801,
+      "word": "精装朋友圈的苦",
+      "onboard_time": 1771663820,
+      "rank": 41,
       "category": "幽默"
     },
     {
@@ -473,6 +489,14 @@
       "onboard_time": 1771660820,
       "rank": 8,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 260593,
+      "num": 260593,
+      "word": "我家那小子",
+      "onboard_time": 1771664240,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 256962,
@@ -505,14 +529,6 @@
       "onboard_time": 1771638740,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 239439,
-      "num": 239439,
-      "word": "我家那小子",
-      "onboard_time": 1771664240,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 238131,
@@ -569,14 +585,6 @@
       "onboard_time": 1771648401,
       "rank": 30,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 214259,
-      "num": 214259,
-      "word": "精装朋友圈的苦",
-      "onboard_time": 1771663820,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 211886,
@@ -875,6 +883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 127582,
+      "num": 127582,
+      "word": "杭州天下第一财神庙幽默劝返",
+      "onboard_time": 1771665019,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 125983,
       "num": 125983,
       "word": "江苏这个小品敢拍",
@@ -915,6 +931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 120555,
+      "num": 120555,
+      "word": "在胖东来排队超4小时顾客发声",
+      "onboard_time": 1771667299,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119007,
       "num": 119007,
       "word": "王濛不是说遗憾就是滑得太难看",
@@ -952,6 +976,14 @@
       "word": "要被张凌赫的早期回复笑鼠",
       "onboard_time": 1771651701,
       "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 113411,
+      "num": 113411,
+      "word": "偶遇李昀锐合照",
+      "onboard_time": 1771666700,
+      "rank": 48,
       "category": "艺人"
     },
     {
@@ -1067,14 +1099,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 100865,
-      "num": 123020,
-      "word": "杭州天下第一财神庙幽默劝返",
-      "onboard_time": 1771665019,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 100178,
       "num": 100178,
       "word": "成何体统",
@@ -1089,6 +1113,14 @@
       "onboard_time": 1771648820,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 96689,
+      "num": 96689,
+      "word": "第一次见识人丁兴旺",
+      "onboard_time": 1771665320,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 96242,
@@ -1139,11 +1171,11 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 92004,
-      "num": 92004,
-      "word": "第一次见识人丁兴旺",
-      "onboard_time": 1771665320,
-      "rank": 37,
+      "raw_hot": 92259,
+      "num": 92259,
+      "word": "你淡淡的人生顺顺的",
+      "onboard_time": 1771667422,
+      "rank": 36,
       "category": "情感"
     },
     {
@@ -1443,6 +1475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 75320,
+      "num": 75320,
+      "word": "iPhoneFold参数汇总",
+      "onboard_time": 1771667001,
+      "rank": 41,
+      "category": "数码"
+    },
+    {
       "raw_hot": 75140,
       "num": 75140,
       "word": "听人劝真的能吃饱饭",
@@ -1723,6 +1763,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 66025,
+      "num": 66025,
+      "word": "徐梦桃说你这是卫冕冠军待遇",
+      "onboard_time": 1771666700,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 65944,
       "num": 65944,
       "word": "高市早苗求和被俄罗斯泼冷水",
@@ -1753,14 +1801,6 @@
       "onboard_time": 1771664781,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 65139,
-      "num": 65139,
-      "word": "徐梦桃说你这是卫冕冠军待遇",
-      "onboard_time": 1771666700,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 65062,
@@ -1809,14 +1849,6 @@
       "onboard_time": 1771595665,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 63673,
-      "num": 63673,
-      "word": "偶遇李昀锐合照",
-      "onboard_time": 1771666700,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 63258,
@@ -2099,6 +2131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 46576,
+      "num": 211151,
+      "word": "北方大部有大范围沙尘天气",
+      "onboard_time": 1771667422,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 45503,
       "num": 45503,
       "word": "兔子战术",
@@ -2121,6 +2161,14 @@
       "onboard_time": 1771645879,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 41750,
+      "num": 219512,
+      "word": "大年初五民众打卡财政部",
+      "onboard_time": 1771667422,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 41700,
@@ -2387,6 +2435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 16557,
+      "num": 238232,
+      "word": "春运后半程天气大反转",
+      "onboard_time": 1771666221,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 15421,
       "num": 19931,
       "word": "公俐犯规无缘半决赛",
@@ -2425,14 +2481,6 @@
       "onboard_time": 1771644680,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 10998,
-      "num": 238232,
-      "word": "春运后半程天气大反转",
-      "onboard_time": 1771666221,
-      "rank": 19,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
