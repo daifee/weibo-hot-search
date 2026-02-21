@@ -1,6 +1,6 @@
 {
   "startTime": 1771603272383,
-  "endTime": 1771681988030,
+  "endTime": 1771682380430,
   "band_list": [
     {
       "raw_hot": 7230243,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 943258,
-      "num": 188725,
+      "num": 200654,
       "word": "刘涛回应妈祖照被设为屏保",
       "onboard_time": 1771673661,
       "rank": 24,
@@ -121,6 +121,14 @@
       "onboard_time": 1771636940,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 844410,
+      "num": 346828,
+      "word": "李晨发跑男团idle合照",
+      "onboard_time": 1771679842,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 829300,
@@ -145,14 +153,6 @@
       "onboard_time": 1771665259,
       "rank": 5,
       "category": "电影"
-    },
-    {
-      "raw_hot": 717162,
-      "num": 346828,
-      "word": "李晨发跑男团idle合照",
-      "onboard_time": 1771679842,
-      "rank": 31,
-      "category": "演出"
     },
     {
       "raw_hot": 674103,
@@ -209,6 +209,22 @@
       "onboard_time": 1771601062,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 568414,
+      "num": 1090946,
+      "word": "前方无厕所无烤肠无茶叶蛋",
+      "onboard_time": 1771681222,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 554595,
+      "num": 791129,
+      "word": "陈丽君李云霄 避嫌避到一部电影里",
+      "onboard_time": 1771679303,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 552660,
@@ -323,14 +339,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 460571,
-      "num": 188063,
-      "word": "陈丽君李云霄 避嫌避到一部电影里",
-      "onboard_time": 1771679303,
-      "rank": 39,
-      "category": "电影"
-    },
-    {
       "raw_hot": 449010,
       "num": 213128,
       "word": "苹果史上首款折叠屏手机",
@@ -369,14 +377,6 @@
       "onboard_time": 1771652000,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 420740,
-      "num": 790626,
-      "word": "前方无厕所无烤肠无茶叶蛋",
-      "onboard_time": 1771681222,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 403146,
@@ -420,7 +420,7 @@
     },
     {
       "raw_hot": 364958,
-      "num": 130940,
+      "num": 139722,
       "word": "刘梦章称不存在出轨",
       "onboard_time": 1771678641,
       "rank": 27,
@@ -491,8 +491,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 337576,
-      "num": 186098,
+      "raw_hot": 343076,
+      "num": 197592,
       "word": "女生扶摔倒老人被索赔22万对方已撤诉",
       "onboard_time": 1771679901,
       "rank": 16,
@@ -552,6 +552,14 @@
       "word": "游客挤到悔不当初不如在家刷手机",
       "onboard_time": 1771678462,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 317275,
+      "num": 196000,
+      "word": "烟花突然爆炸7户邻居玻璃被震碎",
+      "onboard_time": 1771676241,
+      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -633,14 +641,6 @@
       "onboard_time": 1771637479,
       "rank": 9,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 284728,
-      "num": 181861,
-      "word": "烟花突然爆炸7户邻居玻璃被震碎",
-      "onboard_time": 1771676241,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 284148,
@@ -875,12 +875,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 203537,
+      "num": 203537,
+      "word": "上门喂猫不让人走",
+      "onboard_time": 1771676241,
+      "rank": 12,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 202865,
       "num": 202865,
       "word": "姐姐回应22岁小伙烫大波浪被质疑",
       "onboard_time": 1771643480,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 201694,
+      "num": 201694,
+      "word": "徐梦桃安慰李天马王心迪吃醋",
+      "onboard_time": 1771681222,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 198745,
@@ -907,20 +923,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 193376,
+      "num": 193376,
+      "word": "将门毒后",
+      "onboard_time": 1771679603,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 191441,
       "num": 113388,
       "word": "特朗普称将加征10%全球进口关税",
       "onboard_time": 1771631176,
       "rank": 13,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 190292,
-      "num": 190292,
-      "word": "上门喂猫不让人走",
-      "onboard_time": 1771676241,
-      "rank": 12,
-      "category": "幽默"
     },
     {
       "raw_hot": 186748,
@@ -947,14 +963,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 181318,
-      "num": 181318,
-      "word": "徐梦桃安慰李天马王心迪吃醋",
-      "onboard_time": 1771681222,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
       "raw_hot": 180489,
       "num": 180489,
       "word": "古言三巨头",
@@ -964,7 +972,7 @@
     },
     {
       "raw_hot": 174893,
-      "num": 142723,
+      "num": 142855,
       "word": "徐璐透露目前体重为96斤",
       "onboard_time": 1771679303,
       "rank": 26,
@@ -977,14 +985,6 @@
       "onboard_time": 1771597103,
       "rank": 15,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 169651,
-      "num": 169651,
-      "word": "将门毒后",
-      "onboard_time": 1771679603,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 169185,
@@ -1067,6 +1067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 155805,
+      "num": 155805,
+      "word": "女子将900克黄金遗忘动车当场吓晕",
+      "onboard_time": 1771678582,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 155448,
       "num": 123442,
       "word": "十个勤天其他八个人可以闹了",
@@ -1080,14 +1088,6 @@
       "word": "妹妹回应给60cm哥哥买新衣服",
       "onboard_time": 1771628295,
       "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 153516,
-      "num": 153516,
-      "word": "女子将900克黄金遗忘动车当场吓晕",
-      "onboard_time": 1771678582,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -1387,6 +1387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 113667,
+      "num": 137165,
+      "word": "北京沙尘暴致大兴机场多趟航班备降",
+      "onboard_time": 1771679963,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 113063,
       "num": 127934,
       "word": "小伙撕去年对联天塌了",
@@ -1507,6 +1515,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 104416,
+      "num": 98596,
+      "word": "刘浩存初五迎财神自拍",
+      "onboard_time": 1771682003,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 103599,
       "num": 123531,
       "word": "香港公布宏福苑长远居住安排方案",
@@ -1611,6 +1627,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 95186,
+      "num": 92732,
+      "word": "吴谨言洪尧海南度假",
+      "onboard_time": 1771680442,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 94469,
       "num": 94469,
       "word": "王建华 大状师",
@@ -1649,14 +1673,6 @@
       "onboard_time": 1771679542,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 92733,
-      "num": 92732,
-      "word": "吴谨言洪尧海南度假",
-      "onboard_time": 1771680442,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 92673,
@@ -1707,14 +1723,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 89540,
-      "num": 137165,
-      "word": "北京沙尘暴致大兴机场多趟航班备降",
-      "onboard_time": 1771679963,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 89168,
       "num": 89168,
       "word": "孙颖莎红温",
@@ -1737,6 +1745,14 @@
       "onboard_time": 1771649121,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 88608,
+      "num": 88608,
+      "word": "结婚五金起步价迈入10万元大关",
+      "onboard_time": 1771682061,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 88579,
@@ -2091,6 +2107,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 74283,
+      "num": 88124,
+      "word": "当我竟然在12点前睡觉",
+      "onboard_time": 1771680682,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 74046,
       "num": 74046,
       "word": "一栗莎子过年在医院治疗",
@@ -2112,6 +2136,14 @@
       "word": "齐广璞第六",
       "onboard_time": 1771596744,
       "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 73697,
+      "num": 73697,
+      "word": "林孝埈米兰出发回国",
+      "onboard_time": 1771681641,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -2137,14 +2169,6 @@
       "onboard_time": 1771569500,
       "rank": 37,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 72832,
-      "num": 88124,
-      "word": "当我竟然在12点前睡觉",
-      "onboard_time": 1771680682,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 72698,
@@ -2723,6 +2747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 50999,
+      "num": 151443,
+      "word": "初中生扶老人被索赔22万双方和解",
+      "onboard_time": 1771681283,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50307,
       "num": 50307,
       "word": "杨婧茹1500米第四",
@@ -2905,14 +2937,6 @@
       "onboard_time": 1771622834,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 38991,
-      "num": 151443,
-      "word": "初中生扶老人被索赔22万双方和解",
-      "onboard_time": 1771681283,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 37825,
@@ -3147,6 +3171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 17729,
+      "num": 92777,
+      "word": "大同遭遇沙尘暴有游客被吹倒",
+      "onboard_time": 1771681760,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 16619,
       "num": 22667,
       "word": "唐宫奇案",
@@ -3201,14 +3233,6 @@
       "onboard_time": 1771644680,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 11212,
-      "num": 92777,
-      "word": "大同遭遇沙尘暴有游客被吹倒",
-      "onboard_time": 1771681760,
-      "rank": 39,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
