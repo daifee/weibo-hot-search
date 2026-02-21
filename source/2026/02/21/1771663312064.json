@@ -1,0 +1,410 @@
+{
+  "runTime": 1771663312064,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 776271,
+        "num": 1124203,
+        "word": "舅舅送外甥女30斤银砖当压岁钱",
+        "onboard_time": 1771660999,
+        "rank": 0,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 552660,
+        "num": 796938,
+        "word": "镖人阿育娅 换人",
+        "onboard_time": 1771660880,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 72441,
+        "num": 653338,
+        "word": "多地气温断崖式下跌",
+        "onboard_time": 1771661541,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 975400,
+        "num": 551559,
+        "word": "黄晓明回应在澳门输掉十几亿",
+        "onboard_time": 1771650199,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 367697,
+        "num": 367697,
+        "word": "沙尘暴",
+        "onboard_time": 1771660160,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 369898,
+        "num": 343211,
+        "word": "刘涛演妈祖 三次圣杯",
+        "onboard_time": 1771644860,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 284148,
+        "num": 284148,
+        "word": "初一到初五我的精神状态",
+        "onboard_time": 1771659440,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 276897,
+        "num": 276897,
+        "word": "镖人 第二部",
+        "onboard_time": 1771659440,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 201665,
+        "num": 276354,
+        "word": "回村后用的都是名牌货",
+        "onboard_time": 1771660820,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132107,
+        "num": 266922,
+        "word": "王濛说签生死状复出",
+        "onboard_time": 1771636940,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 891817,
+        "num": 254265,
+        "word": "警方通报平顶山打人事件",
+        "onboard_time": 1771652721,
+        "rank": 10,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 583972,
+        "num": 244111,
+        "word": "王濛批评短道合理吗",
+        "onboard_time": 1771658781,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 373774,
+        "num": 234101,
+        "word": "黄晓明曝艺人红毯上假摔",
+        "onboard_time": 1771661240,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 352137,
+        "num": 225021,
+        "word": "金价",
+        "onboard_time": 1771652960,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 293142,
+        "num": 220711,
+        "word": "致7人溺亡的贝加尔湖旅游16888元起",
+        "onboard_time": 1771653800,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 211886,
+        "num": 211886,
+        "word": "沈腾这下不怕票房被黄渤超过了",
+        "onboard_time": 1771657640,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 203463,
+        "num": 203463,
+        "word": "那艺娜劣迹艺人",
+        "onboard_time": 1771631538,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201221,
+        "num": 201221,
+        "word": "苹果史上首款折叠屏手机",
+        "onboard_time": 1771650441,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 29622,
+        "num": 199822,
+        "word": "飞驰人生3路演现场乐事多",
+        "onboard_time": 1771662860,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 23145,
+        "num": 198801,
+        "word": "00后月租200住养老院2年",
+        "onboard_time": 1771662621,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198745,
+        "num": 198745,
+        "word": "肖战杀青回北京",
+        "onboard_time": 1771659501,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79906,
+        "num": 186783,
+        "word": "苏翊鸣下个周期最大目标法国冬奥",
+        "onboard_time": 1771655960,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180632,
+        "num": 180632,
+        "word": "刘耀文自曝时代峰峻选助理内幕",
+        "onboard_time": 1771657943,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163016,
+        "num": 163016,
+        "word": "韩维辰硬刚wk1",
+        "onboard_time": 1771648759,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80242,
+        "num": 138671,
+        "word": "初中女生若未满16岁骑电动车属违规",
+        "onboard_time": 1771657819,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134051,
+        "num": 134051,
+        "word": "弟弟没钱但有的是力气和手段",
+        "onboard_time": 1771652000,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 148736,
+        "num": 132669,
+        "word": "这2种饮料混着喝或永久损伤大脑",
+        "onboard_time": 1771648401,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 121455,
+        "num": 121455,
+        "word": "阿勒泰 刘耀文宋亚轩",
+        "onboard_time": 1771642459,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78855,
+        "num": 119913,
+        "word": "迎财神",
+        "onboard_time": 1771600401,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40948,
+        "num": 119477,
+        "word": "谷爱凌出战冲金",
+        "onboard_time": 1771648039,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208174,
+        "num": 119473,
+        "word": "三亚返程机票逼近万元",
+        "onboard_time": 1771658420,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119459,
+        "num": 119459,
+        "word": "孟子义沈妙",
+        "onboard_time": 1771654940,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112073,
+        "num": 112073,
+        "word": "意大利中国博士生已失联一个月",
+        "onboard_time": 1771660939,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 107761,
+        "num": 107761,
+        "word": "郭晶晶聊带娃读书叹气",
+        "onboard_time": 1771654700,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99159,
+        "num": 99159,
+        "word": "姚晨丢掉妈妈过期药品被骂了3天",
+        "onboard_time": 1771646839,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74577,
+        "num": 74577,
+        "word": "终于有人懂牛奶包装设计师了",
+        "onboard_time": 1771649121,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 74037,
+        "num": 74037,
+        "word": "一栗莎子过年在医院治疗",
+        "onboard_time": 1771662500,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 73789,
+        "num": 73789,
+        "word": "张柏芝让员工带薪休假一个月",
+        "onboard_time": 1771661059,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69617,
+        "num": 69617,
+        "word": "教练辟谣不让苏翊鸣谈恋爱",
+        "onboard_time": 1771661900,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 68501,
+        "num": 68501,
+        "word": "爸爸做年夜饭每个摆盘都出乎意料",
+        "onboard_time": 1771661240,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67125,
+        "num": 67125,
+        "word": "花10块钱买的齐天大圣烟花",
+        "onboard_time": 1771658480,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 67021,
+        "num": 67021,
+        "word": "一代人有一代人的财神",
+        "onboard_time": 1771660880,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 66761,
+        "num": 66761,
+        "word": "苏翊鸣让世界看到中国单板滑雪",
+        "onboard_time": 1771663100,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 62250,
+        "num": 62250,
+        "word": "侯明昊初五上早班困成啥了",
+        "onboard_time": 1771658360,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 58241,
+        "num": 58241,
+        "word": "三个黄景瑜都吻上来了",
+        "onboard_time": 1771659679,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 57451,
+        "num": 57451,
+        "word": "中国队剑指双金",
+        "onboard_time": 1771659021,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 57499,
+        "num": 57234,
+        "word": "陈飞宇减肥的证据被我找到了",
+        "onboard_time": 1771662200,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 56786,
+        "num": 56786,
+        "word": "OpenAI下调算力支出目标至6000亿美元",
+        "onboard_time": 1771661900,
+        "rank": 47,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 55668,
+        "num": 55668,
+        "word": "不让江山",
+        "onboard_time": 1771641500,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 55091,
+        "num": 55091,
+        "word": "春节档第11部长剧开播了",
+        "onboard_time": 1771659021,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#老胡同里的新生活#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1771603272383,
-  "endTime": 1771660348732,
+  "endTime": 1771663312064,
   "band_list": [
     {
       "raw_hot": 1928940,
@@ -83,6 +83,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 776271,
+      "num": 1124203,
+      "word": "舅舅送外甥女30斤银砖当压岁钱",
+      "onboard_time": 1771660999,
+      "rank": 0,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 745892,
       "num": 216401,
       "word": "一觉醒来特朗普改新打法了",
@@ -115,8 +123,16 @@
       "category": "电影"
     },
     {
+      "raw_hot": 583972,
+      "num": 244111,
+      "word": "王濛批评短道合理吗",
+      "onboard_time": 1771658781,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 582367,
-      "num": 207925,
+      "num": 225021,
       "word": "金价",
       "onboard_time": 1771652960,
       "rank": 42,
@@ -129,6 +145,14 @@
       "onboard_time": 1771601062,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 552660,
+      "num": 796938,
+      "word": "镖人阿育娅 换人",
+      "onboard_time": 1771660880,
+      "rank": 1,
+      "category": "电影"
     },
     {
       "raw_hot": 531241,
@@ -180,7 +204,7 @@
     },
     {
       "raw_hot": 436063,
-      "num": 112765,
+      "num": 220711,
       "word": "致7人溺亡的贝加尔湖旅游16888元起",
       "onboard_time": 1771653800,
       "rank": 49,
@@ -201,14 +225,6 @@
       "onboard_time": 1771652000,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 410225,
-      "num": 112300,
-      "word": "王濛批评短道合理吗",
-      "onboard_time": 1771658781,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 403146,
@@ -235,12 +251,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 373774,
+      "num": 234101,
+      "word": "黄晓明曝艺人红毯上假摔",
+      "onboard_time": 1771661240,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 372185,
       "num": 372185,
       "word": "苏翊鸣昨天刚和徐梦桃王心迪合影",
       "onboard_time": 1771599442,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 367697,
+      "num": 367697,
+      "word": "沙尘暴",
+      "onboard_time": 1771660160,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 364442,
@@ -355,12 +387,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 284148,
+      "num": 284148,
+      "word": "初一到初五我的精神状态",
+      "onboard_time": 1771659440,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 277883,
       "num": 290642,
       "word": "将门毒后不是大ip是巨ip",
       "onboard_time": 1771591041,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 276897,
+      "num": 276897,
+      "word": "镖人 第二部",
+      "onboard_time": 1771659440,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 256962,
@@ -451,6 +499,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 211886,
+      "num": 211886,
+      "word": "沈腾这下不怕票房被黄渤超过了",
+      "onboard_time": 1771657640,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 210189,
       "num": 210189,
       "word": "将门独后",
@@ -459,16 +515,16 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 208614,
-      "num": 208614,
-      "word": "镖人 第二部",
-      "onboard_time": 1771659440,
-      "rank": 33,
-      "category": "电影"
+      "raw_hot": 208174,
+      "num": 119473,
+      "word": "三亚返程机票逼近万元",
+      "onboard_time": 1771658420,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 207520,
-      "num": 110571,
+      "num": 180632,
       "word": "刘耀文自曝时代峰峻选助理内幕",
       "onboard_time": 1771657943,
       "rank": 20,
@@ -481,6 +537,22 @@
       "onboard_time": 1771643480,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 201665,
+      "num": 276354,
+      "word": "回村后用的都是名牌货",
+      "onboard_time": 1771660820,
+      "rank": 8,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 198745,
+      "num": 198745,
+      "word": "肖战杀青回北京",
+      "onboard_time": 1771659501,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 196293,
@@ -537,22 +609,6 @@
       "onboard_time": 1771645939,
       "rank": 9,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 180454,
-      "num": 109103,
-      "word": "沈腾这下不怕票房被黄渤超过了",
-      "onboard_time": 1771657640,
-      "rank": 27,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 175684,
-      "num": 102778,
-      "word": "三亚返程机票逼近万元",
-      "onboard_time": 1771658420,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 173887,
@@ -724,7 +780,7 @@
     },
     {
       "raw_hot": 132778,
-      "num": 106518,
+      "num": 138671,
       "word": "初中女生若未满16岁骑电动车属违规",
       "onboard_time": 1771657819,
       "rank": 28,
@@ -835,6 +891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 112073,
+      "num": 112073,
+      "word": "意大利中国博士生已失联一个月",
+      "onboard_time": 1771660939,
+      "rank": 32,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 110829,
       "num": 92705,
       "word": "爸爸回应不许家人打扰儿子睡懒觉",
@@ -857,14 +921,6 @@
       "onboard_time": 1771604541,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 107877,
-      "num": 107877,
-      "word": "肖战杀青回北京",
-      "onboard_time": 1771659501,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 107206,
@@ -905,14 +961,6 @@
       "onboard_time": 1771651101,
       "rank": 29,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 104321,
-      "num": 104321,
-      "word": "初一到初五我的精神状态",
-      "onboard_time": 1771659440,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 102514,
@@ -1251,6 +1299,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 74037,
+      "num": 74037,
+      "word": "一栗莎子过年在医院治疗",
+      "onboard_time": 1771662500,
+      "rank": 36,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 73789,
+      "num": 73789,
+      "word": "张柏芝让员工带薪休假一个月",
+      "onboard_time": 1771661059,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 73729,
       "num": 73729,
       "word": "齐广璞第六",
@@ -1289,6 +1353,14 @@
       "onboard_time": 1771654340,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 72441,
+      "num": 653338,
+      "word": "多地气温断崖式下跌",
+      "onboard_time": 1771661541,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 72005,
@@ -1355,6 +1427,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 69617,
+      "num": 69617,
+      "word": "教练辟谣不让苏翊鸣谈恋爱",
+      "onboard_time": 1771661900,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 69099,
       "num": 69099,
       "word": "王心迪追徐梦桃很有韧劲",
@@ -1393,6 +1473,14 @@
       "onboard_time": 1771596922,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 68501,
+      "num": 68501,
+      "word": "爸爸做年夜饭每个摆盘都出乎意料",
+      "onboard_time": 1771661240,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 68354,
@@ -1443,6 +1531,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 67021,
+      "num": 67021,
+      "word": "一代人有一代人的财神",
+      "onboard_time": 1771660880,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 66990,
       "num": 66990,
       "word": "王濛谈宁忠岩金牌含金量非常高",
@@ -1457,6 +1553,14 @@
       "onboard_time": 1771629857,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 66761,
+      "num": 66761,
+      "word": "苏翊鸣让世界看到中国单板滑雪",
+      "onboard_time": 1771663100,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 66139,
@@ -1651,8 +1755,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 58239,
-      "num": 58239,
+      "raw_hot": 58241,
+      "num": 58241,
       "word": "三个黄景瑜都吻上来了",
       "onboard_time": 1771659679,
       "rank": 48,
@@ -1664,6 +1768,22 @@
       "word": "王濛说宁忠岩滑完自己特别激动",
       "onboard_time": 1771635379,
       "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 57499,
+      "num": 57234,
+      "word": "陈飞宇减肥的证据被我找到了",
+      "onboard_time": 1771662200,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 57451,
+      "num": 57451,
+      "word": "中国队剑指双金",
+      "onboard_time": 1771659021,
+      "rank": 45,
       "category": "体育"
     },
     {
@@ -1683,6 +1803,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 56786,
+      "num": 56786,
+      "word": "OpenAI下调算力支出目标至6000亿美元",
+      "onboard_time": 1771661900,
+      "rank": 47,
+      "category": "财经,互联网"
+    },
+    {
       "raw_hot": 56696,
       "num": 56696,
       "word": "惊蛰无声这些取景地爆火出圈了",
@@ -1697,6 +1825,14 @@
       "onboard_time": 1771657278,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 55091,
+      "num": 55091,
+      "word": "春节档第11部长剧开播了",
+      "onboard_time": 1771659021,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 54490,
@@ -1963,6 +2099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 29622,
+      "num": 199822,
+      "word": "飞驰人生3路演现场乐事多",
+      "onboard_time": 1771662860,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 28794,
       "num": 142012,
       "word": "当事人回应全家60多人除夕合影",
@@ -2001,6 +2145,14 @@
       "onboard_time": 1771621754,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 23145,
+      "num": 198801,
+      "word": "00后月租200住养老院2年",
+      "onboard_time": 1771662621,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 22719,
