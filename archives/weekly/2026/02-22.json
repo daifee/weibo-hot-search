@@ -1,6 +1,6 @@
 {
   "startTime": 1771691977529,
-  "endTime": 1771695242515,
+  "endTime": 1771696311549,
   "band_list": [
     {
       "raw_hot": 1358190,
@@ -363,6 +363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 50235,
+      "num": 93440,
+      "word": "施暴者必被法律严惩",
+      "onboard_time": 1771691600,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50196,
       "num": 93424,
       "word": "中国队空中技巧混团铜牌",
@@ -377,14 +385,6 @@
       "onboard_time": 1771681222,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 45398,
-      "num": 93440,
-      "word": "施暴者必被法律严惩",
-      "onboard_time": 1771691600,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 45157,
@@ -419,6 +419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 38140,
+      "num": 68726,
+      "word": "去看idle演唱会的明星",
+      "onboard_time": 1771694357,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 37512,
       "num": 78637,
       "word": "徐梦桃笑称这是第一枚奥运铜牌",
@@ -427,20 +435,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 37048,
-      "num": 68726,
-      "word": "去看idle演唱会的明星",
-      "onboard_time": 1771694357,
-      "rank": 41,
-      "category": "演出"
-    },
-    {
       "raw_hot": 35442,
       "num": 68739,
       "word": "中国速滑米兰冬奥1金2铜收官",
       "onboard_time": 1771694836,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 19600,
+      "num": 37660,
+      "word": "滑雪比赛为啥非得带手机",
+      "onboard_time": 1771695916,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15362,

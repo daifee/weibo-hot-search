@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1771695242515,
+  "endTime": 1771696311549,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -52515,6 +52515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 50235,
+      "num": 93440,
+      "word": "施暴者必被法律严惩",
+      "onboard_time": 1771691600,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50211,
       "num": 141313,
       "word": "邓超春晚人民日报撰文",
@@ -53601,14 +53609,6 @@
       "onboard_time": 1770765077,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 45398,
-      "num": 93440,
-      "word": "施暴者必被法律严惩",
-      "onboard_time": 1771691600,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 45395,
@@ -55147,6 +55147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 38140,
+      "num": 68726,
+      "word": "去看idle演唱会的明星",
+      "onboard_time": 1771694357,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 38128,
       "num": 661800,
       "word": "淘宝新年礼让敖瑞鹏麻到成功",
@@ -55369,14 +55377,6 @@
       "onboard_time": 1769902818,
       "rank": 42,
       "category": "数码"
-    },
-    {
-      "raw_hot": 37048,
-      "num": 68726,
-      "word": "去看idle演唱会的明星",
-      "onboard_time": 1771694357,
-      "rank": 41,
-      "category": "演出"
     },
     {
       "raw_hot": 37005,
@@ -59857,6 +59857,14 @@
       "onboard_time": 1771155741,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 19600,
+      "num": 37660,
+      "word": "滑雪比赛为啥非得带手机",
+      "onboard_time": 1771695916,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19568,
