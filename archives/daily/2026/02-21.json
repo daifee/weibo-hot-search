@@ -1,7 +1,15 @@
 {
   "startTime": 1771603272383,
-  "endTime": 1771674355568,
+  "endTime": 1771679017767,
   "band_list": [
+    {
+      "raw_hot": 7230243,
+      "num": 7230243,
+      "word": "曝齐思钧刘梦章分手",
+      "onboard_time": 1771675342,
+      "rank": 21,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1928940,
       "num": 671793,
@@ -81,6 +89,14 @@
       "onboard_time": 1771666760,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 943258,
+      "num": 157713,
+      "word": "刘涛回应妈祖照被设为屏保",
+      "onboard_time": 1771673661,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 881273,
@@ -259,6 +275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 482617,
+      "num": 1077218,
+      "word": "现在就出发",
+      "onboard_time": 1771673001,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 479629,
       "num": 479629,
       "word": "北京沙尘暴",
@@ -305,6 +329,14 @@
       "onboard_time": 1771652000,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 412580,
+      "num": 412580,
+      "word": "白鹿去看idle演唱会",
+      "onboard_time": 1771675941,
+      "rank": 3,
+      "category": "演出"
     },
     {
       "raw_hot": 403146,
@@ -395,6 +427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 348443,
+      "num": 123627,
+      "word": "刘梦章称不存在出轨",
+      "onboard_time": 1771678641,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 346578,
       "num": 739467,
       "word": "金吉莉1500米金牌",
@@ -475,11 +515,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 298063,
+      "num": 283729,
+      "word": "演了4集男女主还没对齐颗粒度",
+      "onboard_time": 1771675400,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 298017,
       "num": 160219,
       "word": "曝那艺娜偷税漏税",
       "onboard_time": 1771644680,
       "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 294249,
+      "num": 153623,
+      "word": "陈飞宇发了49999红包",
+      "onboard_time": 1771677083,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -507,6 +563,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 285625,
+      "num": 285625,
+      "word": "徐梦桃笑称这是第一枚奥运铜牌",
+      "onboard_time": 1771677203,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 284148,
       "num": 284148,
       "word": "初一到初五我的精神状态",
@@ -515,12 +579,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 281202,
+      "num": 281202,
+      "word": "这位粤C车主你的鸭子掉了",
+      "onboard_time": 1771672700,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 280085,
       "num": 223801,
       "word": "精装朋友圈的苦",
       "onboard_time": 1771663820,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 279684,
+      "num": 279684,
+      "word": "辽宁春晚最大黑马小品以貌取人",
+      "onboard_time": 1771677025,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 279453,
@@ -595,6 +675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 243434,
+      "num": 243434,
+      "word": "瑞士女选手仅得44.37分获得银牌",
+      "onboard_time": 1771675700,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 238131,
       "num": 238131,
       "word": "中国游客赴日人数暴跌日媒回应没影响",
@@ -611,14 +699,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 233769,
-      "num": 233769,
-      "word": "现在就出发",
-      "onboard_time": 1771673001,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 229705,
       "num": 147941,
       "word": "偶遇李昀锐合照",
@@ -633,14 +713,6 @@
       "onboard_time": 1771648039,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 225032,
-      "num": 225032,
-      "word": "这位粤C车主你的鸭子掉了",
-      "onboard_time": 1771672700,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 223954,
@@ -715,6 +787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 208089,
+      "num": 123959,
+      "word": "谷爱凌称收到过死亡威胁",
+      "onboard_time": 1771676481,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 207520,
       "num": 180632,
       "word": "刘耀文自曝时代峰峻选助理内幕",
@@ -729,6 +809,14 @@
       "onboard_time": 1771643480,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 200066,
+      "num": 123847,
+      "word": "宋雨琦用中文介绍跑男团",
+      "onboard_time": 1771677383,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 198745,
@@ -835,11 +923,27 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 165097,
+      "num": 123717,
+      "word": "烟花突然爆炸7户邻居玻璃被震碎",
+      "onboard_time": 1771676241,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 165012,
       "num": 494002,
       "word": "苏翊鸣下个周期最大目标法国冬奥",
       "onboard_time": 1771655960,
       "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 164000,
+      "num": 164000,
+      "word": "心疼李天马",
+      "onboard_time": 1771677322,
+      "rank": 9,
       "category": "体育"
     },
     {
@@ -860,7 +964,7 @@
     },
     {
       "raw_hot": 158146,
-      "num": 110022,
+      "num": 123319,
       "word": "林孝埈谈黄大宪",
       "onboard_time": 1771673661,
       "rank": 30,
@@ -873,6 +977,14 @@
       "onboard_time": 1771638560,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 155448,
+      "num": 123442,
+      "word": "十个勤天其他八个人可以闹了",
+      "onboard_time": 1771677203,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 154302,
@@ -899,20 +1011,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 146502,
+      "num": 146502,
+      "word": "上门喂猫不让人走",
+      "onboard_time": 1771676241,
+      "rank": 12,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 144670,
       "num": 144670,
       "word": "华住回应桔子酒店恐吓女顾客",
       "onboard_time": 1771628295,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 144663,
-      "num": 128309,
-      "word": "刘涛回应妈祖照被设为屏保",
-      "onboard_time": 1771673661,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 144284,
@@ -961,6 +1073,14 @@
       "onboard_time": 1771637000,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 139439,
+      "num": 123438,
+      "word": "香奈儿完全新人美时期",
+      "onboard_time": 1771676962,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 138735,
@@ -1028,7 +1148,7 @@
     },
     {
       "raw_hot": 132629,
-      "num": 92714,
+      "num": 113836,
       "word": "秦昊伊能静在沈阳逛街",
       "onboard_time": 1771673902,
       "rank": 40,
@@ -1107,12 +1227,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 120493,
+      "num": 113930,
+      "word": "叶舒华solo舞台",
+      "onboard_time": 1771676781,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 119007,
       "num": 119007,
       "word": "王濛不是说遗憾就是滑得太难看",
       "onboard_time": 1771637181,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 118468,
+      "num": 123539,
+      "word": "身体5个表现说明需要除湿了",
+      "onboard_time": 1771676360,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 118425,
@@ -1137,6 +1273,14 @@
       "onboard_time": 1771649480,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 116402,
+      "num": 116402,
+      "word": "欧阳震华暴瘦引热议",
+      "onboard_time": 1771678404,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 116302,
@@ -1203,6 +1347,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 107940,
+      "num": 122214,
+      "word": "游客挤到悔不当初不如在家刷手机",
+      "onboard_time": 1771678462,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107206,
       "num": 131627,
       "word": "女子陷美男计拉丈夫当间谍17年",
@@ -1217,6 +1369,14 @@
       "onboard_time": 1771670479,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 106372,
+      "num": 88443,
+      "word": "关智斌称阿娇肥过瘦过没丑过",
+      "onboard_time": 1771678044,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 106237,
@@ -1467,6 +1627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 88104,
+      "num": 88104,
+      "word": "李天马哭了",
+      "onboard_time": 1771678282,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 87736,
       "num": 87736,
       "word": "镖人4天破5亿",
@@ -1505,6 +1673,14 @@
       "onboard_time": 1771631421,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 86562,
+      "num": 86562,
+      "word": "孙千红包",
+      "onboard_time": 1771678102,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 86291,
@@ -1603,6 +1779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 83921,
+      "num": 83921,
+      "word": "徐梦桃颁奖要笑的吉祥物",
+      "onboard_time": 1771678162,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 83166,
       "num": 83166,
       "word": "美最大航母进入地中海",
@@ -1643,6 +1827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 79324,
+      "num": 684839,
+      "word": "多地气温断崖式下跌",
+      "onboard_time": 1771661541,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 79130,
       "num": 79130,
       "word": "俄方公布贝加尔湖救援现场视频",
@@ -1657,14 +1849,6 @@
       "onboard_time": 1771599201,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 78265,
-      "num": 684839,
-      "word": "多地气温断崖式下跌",
-      "onboard_time": 1771661541,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 77462,
@@ -2171,6 +2355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 62067,
+      "num": 113941,
+      "word": "人类幼崽拜年主打一个出其不意",
+      "onboard_time": 1771678823,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 62056,
       "num": 159071,
       "word": "桔子酒店门禁都没装好为何营业",
@@ -2273,6 +2465,14 @@
       "onboard_time": 1771659679,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 57764,
+      "num": 124187,
+      "word": "哈尔滨游客到胖东来为妻子买金镯",
+      "onboard_time": 1771678342,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 57564,
@@ -2809,6 +3009,14 @@
       "onboard_time": 1771618573,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 12924,
+      "num": 124138,
+      "word": "女子将900克黄金遗忘动车当场吓晕",
+      "onboard_time": 1771678582,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 12919,
