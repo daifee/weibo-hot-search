@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1771703195404,
+  "endTime": 1771706082944,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -60065,6 +60065,14 @@
       "onboard_time": 1771236922,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18944,
+      "num": 18944,
+      "word": "周深五天出了三首好运歌曲",
+      "onboard_time": 1771705094,
+      "rank": 24,
+      "category": "音乐"
     },
     {
       "raw_hot": 18921,

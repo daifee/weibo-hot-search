@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2026/02/22 00:39:37 ~ 2026/02/22 03:46:35
+本榜单时间：2026/02/22 00:39:37 ~ 2026/02/22 04:34:42
 </p>
 </blockquote>
 <p>
@@ -377,6 +377,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E5%AE%AB%E5%A5%87%E6%A1%88%23" target="weibo">
 唐宫奇案（热度：19437）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E4%BA%94%E5%A4%A9%E5%87%BA%E4%BA%86%E4%B8%89%E9%A6%96%E5%A5%BD%E8%BF%90%E6%AD%8C%E6%9B%B2%23" target="weibo">
+周深五天出了三首好运歌曲（热度：18944）
 </a>
 </li>
 
