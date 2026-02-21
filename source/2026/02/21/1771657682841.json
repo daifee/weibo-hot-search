@@ -1,0 +1,410 @@
+{
+  "runTime": 1771657682841,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1320723,
+        "num": 1320723,
+        "word": "警方通报平顶山打人事件",
+        "onboard_time": 1771652721,
+        "rank": 0,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 288515,
+        "num": 887315,
+        "word": "王濛说签生死状复出",
+        "onboard_time": 1771636940,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31581,
+        "num": 676771,
+        "word": "马年春节新三样",
+        "onboard_time": 1771645879,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1295059,
+        "num": 642082,
+        "word": "黄晓明回应在澳门输掉十几亿",
+        "onboard_time": 1771650199,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 289782,
+        "num": 543306,
+        "word": "家属称平顶山被打女孩处半昏迷",
+        "onboard_time": 1771656079,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1201356,
+        "num": 538880,
+        "word": "圣杯八次不中概率",
+        "onboard_time": 1771655898,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 458450,
+        "num": 458450,
+        "word": "刘涛演妈祖 三次圣杯",
+        "onboard_time": 1771644860,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 372374,
+        "num": 372374,
+        "word": "弟弟没钱但有的是力气和手段",
+        "onboard_time": 1771652000,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 169435,
+        "num": 169435,
+        "word": "终于有人懂牛奶包装设计师了",
+        "onboard_time": 1771649121,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144389,
+        "num": 144389,
+        "word": "谷爱凌出战冲金",
+        "onboard_time": 1771648039,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 548375,
+        "num": 143716,
+        "word": "金价",
+        "onboard_time": 1771652960,
+        "rank": 10,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 355354,
+        "num": 143211,
+        "word": "那艺娜劣迹艺人",
+        "onboard_time": 1771631538,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 332737,
+        "num": 142297,
+        "word": "苹果史上首款折叠屏手机",
+        "onboard_time": 1771650441,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 268213,
+        "num": 141291,
+        "word": "韩维辰硬刚wk1",
+        "onboard_time": 1771648759,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56521,
+        "num": 140751,
+        "word": "过年发大财",
+        "onboard_time": 1771657278,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 229897,
+        "num": 140462,
+        "word": "郭晶晶聊带娃读书叹气",
+        "onboard_time": 1771654700,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221420,
+        "num": 139612,
+        "word": "姚晨丢掉妈妈过期药品被骂了3天",
+        "onboard_time": 1771646839,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208202,
+        "num": 138829,
+        "word": "孟子义沈妙",
+        "onboard_time": 1771654940,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108520,
+        "num": 138028,
+        "word": "苏翊鸣下个周期最大目标法国冬奥",
+        "onboard_time": 1771655960,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137413,
+        "num": 137413,
+        "word": "不让江山女主",
+        "onboard_time": 1771648100,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 237624,
+        "num": 135736,
+        "word": "阿勒泰 刘耀文宋亚轩",
+        "onboard_time": 1771642459,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133452,
+        "num": 133452,
+        "word": "这2种饮料混着喝或永久损伤大脑",
+        "onboard_time": 1771648401,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 124565,
+        "num": 124565,
+        "word": "李现香港扫街一日游",
+        "onboard_time": 1771656079,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123387,
+        "num": 123387,
+        "word": "镖人里的帅哥是消耗品",
+        "onboard_time": 1771652841,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 108352,
+        "num": 108352,
+        "word": "泡泡玛特创始人送小酒窝盲盒",
+        "onboard_time": 1771640899,
+        "rank": 24,
+        "category": "休闲,艺人"
+      },
+      {
+        "raw_hot": 106029,
+        "num": 106029,
+        "word": "女子陷美男计拉丈夫当间谍17年",
+        "onboard_time": 1771652480,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103364,
+        "num": 103364,
+        "word": "关晓彤我长大了不能被骗了",
+        "onboard_time": 1771647320,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96367,
+        "num": 96367,
+        "word": "沈腾这下不怕票房被黄渤超过了",
+        "onboard_time": 1771657640,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 87845,
+        "num": 87845,
+        "word": "迎财神",
+        "onboard_time": 1771600401,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95418,
+        "num": 87807,
+        "word": "不让江山官宣杨洋",
+        "onboard_time": 1771641680,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 296919,
+        "num": 87778,
+        "word": "致7人溺亡的贝加尔湖旅游16888元起",
+        "onboard_time": 1771653800,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 87683,
+        "num": 87683,
+        "word": "沈佳润有点百搭",
+        "onboard_time": 1771653680,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87284,
+        "num": 87284,
+        "word": "打开朋友圈以为到了天庭",
+        "onboard_time": 1771650199,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 86024,
+        "num": 86024,
+        "word": "赵美延全额现金购入龙山公寓",
+        "onboard_time": 1771655240,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85716,
+        "num": 85716,
+        "word": "曝那艺娜偷税漏税",
+        "onboard_time": 1771644680,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81176,
+        "num": 81176,
+        "word": "男子勇跳粪坑为老婆打捞新年手机",
+        "onboard_time": 1771653081,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84208,
+        "num": 81075,
+        "word": "镖人4天破5亿",
+        "onboard_time": 1771655598,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 78425,
+        "num": 78425,
+        "word": "慈母多败咪",
+        "onboard_time": 1771647019,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 76955,
+        "num": 76955,
+        "word": "要被张凌赫的早期回复笑鼠",
+        "onboard_time": 1771651701,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41700,
+        "num": 73526,
+        "word": "男童在上海外滩走失后淡定求助警察",
+        "onboard_time": 1771656560,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73210,
+        "num": 73210,
+        "word": "王橹杰举个旗可以当导游了",
+        "onboard_time": 1771653378,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72979,
+        "num": 72979,
+        "word": "一觉醒来特朗普改新打法了",
+        "onboard_time": 1771637839,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 71154,
+        "num": 71154,
+        "word": "鹿晗四巡纪录片",
+        "onboard_time": 1771653800,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 70428,
+        "num": 70428,
+        "word": "上海财神庙一炉子被烧起火",
+        "onboard_time": 1771656139,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68571,
+        "num": 68571,
+        "word": "王楚钦王曼昱领衔首日出战",
+        "onboard_time": 1771654399,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66935,
+        "num": 66935,
+        "word": "过年减肥规则怪谈",
+        "onboard_time": 1771649900,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 63754,
+        "num": 63754,
+        "word": "方大同才二十三MV",
+        "onboard_time": 1771637479,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 63519,
+        "num": 63519,
+        "word": "新疆有种美食像极了金元宝",
+        "onboard_time": 1771655719,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 63382,
+        "num": 63382,
+        "word": "不让江山",
+        "onboard_time": 1771641500,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 61485,
+        "num": 61485,
+        "word": "高市早苗求和被俄罗斯泼冷水",
+        "onboard_time": 1771656860,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#老胡同里的新生活#"
+    }
+  }
+}
