@@ -1,6 +1,6 @@
 {
   "startTime": 1771691977529,
-  "endTime": 1771716792262,
+  "endTime": 1771717640853,
   "band_list": [
     {
       "raw_hot": 1358190,
@@ -17,6 +17,14 @@
       "onboard_time": 1771675342,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 409153,
+      "num": 86821,
+      "word": "石家庄山火",
+      "onboard_time": 1771715956,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 363348,
@@ -51,28 +59,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 278972,
-      "num": 148554,
-      "word": "李昀锐拍宋雨琦",
-      "onboard_time": 1771687103,
-      "rank": 6,
-      "category": "演出"
+      "raw_hot": 286333,
+      "num": 286333,
+      "word": "王传君录综艺崩溃爆哭",
+      "onboard_time": 1771684041,
+      "rank": 23,
+      "category": "综艺"
     },
     {
-      "raw_hot": 278694,
-      "num": 824868,
+      "raw_hot": 285414,
+      "num": 932402,
       "word": "谷爱凌U型场地决赛推迟",
       "onboard_time": 1771692618,
       "rank": 20,
       "category": "体育"
     },
     {
-      "raw_hot": 278254,
-      "num": 235043,
-      "word": "王传君录综艺崩溃爆哭",
-      "onboard_time": 1771684041,
-      "rank": 23,
-      "category": "综艺"
+      "raw_hot": 278972,
+      "num": 148554,
+      "word": "李昀锐拍宋雨琦",
+      "onboard_time": 1771687103,
+      "rank": 6,
+      "category": "演出"
     },
     {
       "raw_hot": 243755,
@@ -83,6 +91,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 236506,
+      "num": 85879,
+      "word": "贝加尔湖中国游客遇难点旁再现事故",
+      "onboard_time": 1771715836,
+      "rank": 12,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 232122,
       "num": 298643,
       "word": "镖人",
@@ -91,12 +107,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 229468,
+      "num": 229468,
+      "word": "妈祖",
+      "onboard_time": 1771715836,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 226906,
       "num": 102602,
       "word": "刘梦章称不存在出轨",
       "onboard_time": 1771678641,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 193153,
+      "num": 193153,
+      "word": "美高官叫嚣27分钟接战台海",
+      "onboard_time": 1771716737,
+      "rank": 4,
+      "category": "国内时政"
     },
     {
       "raw_hot": 190995,
@@ -115,12 +147,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 180879,
-      "num": 70706,
-      "word": "石家庄山火",
-      "onboard_time": 1771715956,
-      "rank": 11,
-      "category": "民生新闻"
+      "raw_hot": 182455,
+      "num": 59540,
+      "word": "伊能静衣服吊牌没摘",
+      "onboard_time": 1771716256,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 180152,
@@ -129,6 +161,14 @@
       "onboard_time": 1771679842,
       "rank": 14,
       "category": "演出"
+    },
+    {
+      "raw_hot": 175475,
+      "num": 58768,
+      "word": "齐思钧刘梦章分手后还能友好同游",
+      "onboard_time": 1771685243,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 149606,
@@ -163,28 +203,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 120938,
-      "num": 57958,
-      "word": "伊能静衣服吊牌没摘",
-      "onboard_time": 1771716256,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 117405,
       "num": 103770,
       "word": "结婚五金起步价迈入10万元大关",
       "onboard_time": 1771682061,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 116386,
-      "num": 116386,
-      "word": "美高官叫嚣27分钟接战台海",
-      "onboard_time": 1771716737,
-      "rank": 4,
-      "category": "国内时政"
     },
     {
       "raw_hot": 109393,
@@ -235,12 +259,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 92748,
-      "num": 92748,
-      "word": "妈祖",
-      "onboard_time": 1771715836,
-      "rank": 7,
-      "category": "民生新闻"
+      "raw_hot": 100477,
+      "num": 58070,
+      "word": "每天早睡1小时身体就不一样",
+      "onboard_time": 1771717037,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 92464,
@@ -251,20 +275,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 89444,
-      "num": 70414,
-      "word": "贝加尔湖中国游客遇难点旁再现事故",
-      "onboard_time": 1771715836,
-      "rank": 12,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 88509,
       "num": 93539,
       "word": "张元英MiuMiu活动",
       "onboard_time": 1771687999,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 87336,
+      "num": 87336,
+      "word": "五台山景区突发火情",
+      "onboard_time": 1771716977,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 85561,
@@ -305,6 +329,14 @@
       "onboard_time": 1771679963,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 74069,
+      "num": 57835,
+      "word": "娱乐圈恋爱就是一个巨大的县城文学",
+      "onboard_time": 1771716919,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 73805,
@@ -379,6 +411,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 57659,
+      "num": 57659,
+      "word": "飞驰人生3在范丞丞家乡拍的",
+      "onboard_time": 1771717037,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 57292,
+      "num": 57292,
+      "word": "小伙撕去年对联天塌了",
+      "onboard_time": 1771673902,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57048,
       "num": 93454,
       "word": "纯真年代的爱情",
@@ -409,6 +457,14 @@
       "onboard_time": 1771678404,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 52792,
+      "num": 52792,
+      "word": "魏大勋不在大侦探群里",
+      "onboard_time": 1771715836,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 52733,
@@ -443,8 +499,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 45918,
-      "num": 45918,
+      "raw_hot": 46912,
+      "num": 46912,
       "word": "滑雪比赛为啥非得带手机",
       "onboard_time": 1771695916,
       "rank": 49,
@@ -507,12 +563,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 35906,
-      "num": 44128,
-      "word": "魏大勋不在大侦探群里",
-      "onboard_time": 1771715836,
-      "rank": 34,
-      "category": "综艺"
+      "raw_hot": 36374,
+      "num": 43830,
+      "word": "飞驰人生3",
+      "onboard_time": 1771716497,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 35442,
@@ -531,12 +587,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 25653,
-      "num": 43830,
-      "word": "飞驰人生3",
-      "onboard_time": 1771716497,
-      "rank": 42,
-      "category": "电影"
+      "raw_hot": 26591,
+      "num": 39917,
+      "word": "王心迪要陪徐梦桃六战冬奥",
+      "onboard_time": 1771717577,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 24053,
@@ -555,8 +611,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 18965,
-      "num": 464310,
+      "raw_hot": 19046,
+      "num": 519068,
       "word": "热气腾腾的中国年",
       "onboard_time": 1771681641,
       "rank": 2,
