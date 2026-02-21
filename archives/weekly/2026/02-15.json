@@ -1,6 +1,6 @@
 {
   "startTime": 1771087248939,
-  "endTime": 1771688075156,
+  "endTime": 1771688994403,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -2331,6 +2331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 550254,
+      "num": 550254,
+      "word": "李昀锐拍宋雨琦",
+      "onboard_time": 1771687103,
+      "rank": 5,
+      "category": "演出"
+    },
+    {
       "raw_hot": 549044,
       "num": 186175,
       "word": "程晓玥自曝怀二胎吃了很多垃圾食品",
@@ -2497,14 +2505,6 @@
       "onboard_time": 1771668799,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 513459,
-      "num": 239642,
-      "word": "李昀锐拍宋雨琦",
-      "onboard_time": 1771687103,
-      "rank": 5,
-      "category": "演出"
     },
     {
       "raw_hot": 511564,
@@ -7019,6 +7019,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 199954,
+      "num": 138491,
+      "word": "初六送穷怎么送",
+      "onboard_time": 1771684522,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 199930,
       "num": 180644,
       "word": "朱志鑫伦敦",
@@ -7323,6 +7331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189173,
+      "num": 143982,
+      "word": "李书名 26岁女房客",
+      "onboard_time": 1771685302,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 188801,
       "num": 188801,
       "word": "爷错了 别哭了",
@@ -7595,6 +7611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 178149,
+      "num": 128590,
+      "word": "陈丽君连续三年春节期间爆",
+      "onboard_time": 1771683142,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 177953,
       "num": 177953,
       "word": "曝侯明昊美妆营业额一小时600万",
@@ -7625,14 +7649,6 @@
       "onboard_time": 1771420342,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 177186,
-      "num": 138491,
-      "word": "初六送穷怎么送",
-      "onboard_time": 1771684522,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 176585,
@@ -8667,14 +8683,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 148326,
-      "num": 143982,
-      "word": "李书名 26岁女房客",
-      "onboard_time": 1771685302,
-      "rank": 40,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 147861,
       "num": 127137,
       "word": "飞驰人生3 爽片",
@@ -9339,14 +9347,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 133894,
-      "num": 114286,
-      "word": "陈丽君连续三年春节期间爆",
-      "onboard_time": 1771683142,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 133784,
       "num": 133784,
       "word": "中国冰壶女队5比6美国",
@@ -9977,6 +9977,14 @@
       "onboard_time": 1771687999,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 122373,
+      "num": 93534,
+      "word": "范丞丞李昀锐给宋雨琦举手幅",
+      "onboard_time": 1771688842,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 122331,
@@ -11859,6 +11867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 98670,
+      "num": 90441,
+      "word": "余承恩全家直接开启军训模式",
+      "onboard_time": 1771688481,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 98653,
       "num": 98653,
       "word": "小狗醒了但是小狗想睡懒觉",
@@ -12123,6 +12139,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 94778,
+      "num": 89198,
+      "word": "张元英MiuMiu活动",
+      "onboard_time": 1771687999,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 94759,
       "num": 94759,
       "word": "王心迪站上最高领奖台",
@@ -12265,6 +12289,14 @@
       "onboard_time": 1771590262,
       "rank": 22,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 93611,
+      "num": 93611,
+      "word": "律师解读15岁女孩被当街暴打事件",
+      "onboard_time": 1771685782,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 93426,
@@ -13321,14 +13353,6 @@
       "onboard_time": 1771681582,
       "rank": 43,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 84248,
-      "num": 84248,
-      "word": "律师解读15岁女孩被当街暴打事件",
-      "onboard_time": 1771685782,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 84170,
@@ -15985,14 +16009,6 @@
       "onboard_time": 1771297582,
       "rank": 25,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 66477,
-      "num": 66477,
-      "word": "张元英MiuMiu活动",
-      "onboard_time": 1771687999,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 66390,
@@ -19771,6 +19787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 23132,
+      "num": 107340,
+      "word": "解放军对澳舰过航全程跟监警戒",
+      "onboard_time": 1771687702,
+      "rank": 19,
+      "category": "军事"
+    },
+    {
       "raw_hot": 23105,
       "num": 74209,
       "word": "西班牙男子篡改系统1分钱住酒店",
@@ -20129,14 +20153,6 @@
       "onboard_time": 1771095135,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 18661,
-      "num": 107340,
-      "word": "解放军对澳舰过航全程跟监警戒",
-      "onboard_time": 1771687702,
-      "rank": 19,
-      "category": "军事"
     },
     {
       "raw_hot": 18344,

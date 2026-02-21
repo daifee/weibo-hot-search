@@ -1,6 +1,6 @@
 {
   "startTime": 1771603272383,
-  "endTime": 1771688075156,
+  "endTime": 1771688994403,
   "band_list": [
     {
       "raw_hot": 7230243,
@@ -259,6 +259,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 550254,
+      "num": 550254,
+      "word": "李昀锐拍宋雨琦",
+      "onboard_time": 1771687103,
+      "rank": 5,
+      "category": "演出"
+    },
+    {
       "raw_hot": 531241,
       "num": 531241,
       "word": "王心迪徐梦桃 金牌夫妻",
@@ -297,14 +305,6 @@
       "onboard_time": 1771668799,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 513459,
-      "num": 239642,
-      "word": "李昀锐拍宋雨琦",
-      "onboard_time": 1771687103,
-      "rank": 5,
-      "category": "演出"
     },
     {
       "raw_hot": 503995,
@@ -963,6 +963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199954,
+      "num": 138491,
+      "word": "初六送穷怎么送",
+      "onboard_time": 1771684522,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 198745,
       "num": 198745,
       "word": "肖战杀青回北京",
@@ -1003,6 +1011,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 189173,
+      "num": 143982,
+      "word": "李书名 26岁女房客",
+      "onboard_time": 1771685302,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 186748,
       "num": 156981,
       "word": "方家翊整容后小区门禁人脸识别失败",
@@ -1035,12 +1051,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 177186,
-      "num": 138491,
-      "word": "初六送穷怎么送",
-      "onboard_time": 1771684522,
-      "rank": 25,
-      "category": "民生新闻"
+      "raw_hot": 178149,
+      "num": 128590,
+      "word": "陈丽君连续三年春节期间爆",
+      "onboard_time": 1771683142,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 174893,
@@ -1203,14 +1219,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 148326,
-      "num": 143982,
-      "word": "李书名 26岁女房客",
-      "onboard_time": 1771685302,
-      "rank": 40,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 147091,
       "num": 147091,
       "word": "飞驰人生3五天破20亿",
@@ -1328,14 +1336,6 @@
       "word": "金度勋疑似骚扰女艺人",
       "onboard_time": 1771632078,
       "rank": 18,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 133894,
-      "num": 114286,
-      "word": "陈丽君连续三年春节期间爆",
-      "onboard_time": 1771683142,
-      "rank": 34,
       "category": "艺人"
     },
     {
@@ -1465,6 +1465,14 @@
       "onboard_time": 1771687999,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 122373,
+      "num": 93534,
+      "word": "范丞丞李昀锐给宋雨琦举手幅",
+      "onboard_time": 1771688842,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 121535,
@@ -1763,6 +1771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 98670,
+      "num": 90441,
+      "word": "余承恩全家直接开启军训模式",
+      "onboard_time": 1771688481,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 97734,
       "num": 97734,
       "word": "平顶山被打女孩家属称未获道歉",
@@ -1819,6 +1835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 94778,
+      "num": 89198,
+      "word": "张元英MiuMiu活动",
+      "onboard_time": 1771687999,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 94469,
       "num": 94469,
       "word": "王建华 大状师",
@@ -1849,6 +1873,14 @@
       "onboard_time": 1771687401,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 93611,
+      "num": 93611,
+      "word": "律师解读15岁女孩被当街暴打事件",
+      "onboard_time": 1771685782,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 92984,
@@ -2113,14 +2145,6 @@
       "onboard_time": 1771681582,
       "rank": 43,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 84248,
-      "num": 84248,
-      "word": "律师解读15岁女孩被当街暴打事件",
-      "onboard_time": 1771685782,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 84158,
@@ -2625,14 +2649,6 @@
       "onboard_time": 1771663100,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 66477,
-      "num": 66477,
-      "word": "张元英MiuMiu活动",
-      "onboard_time": 1771687999,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 66139,
@@ -3363,6 +3379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23132,
+      "num": 107340,
+      "word": "解放军对澳舰过航全程跟监警戒",
+      "onboard_time": 1771687702,
+      "rank": 19,
+      "category": "军事"
+    },
+    {
       "raw_hot": 22719,
       "num": 95822,
       "word": "这届年轻人为了发财什么都能干出来",
@@ -3401,14 +3425,6 @@
       "onboard_time": 1771611795,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 18661,
-      "num": 107340,
-      "word": "解放军对澳舰过航全程跟监警戒",
-      "onboard_time": 1771687702,
-      "rank": 19,
-      "category": "军事"
     },
     {
       "raw_hot": 17943,

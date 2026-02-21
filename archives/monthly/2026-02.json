@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1771688075156,
+  "endTime": 1771688994403,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -5747,6 +5747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 550254,
+      "num": 550254,
+      "word": "李昀锐拍宋雨琦",
+      "onboard_time": 1771687103,
+      "rank": 5,
+      "category": "演出"
+    },
+    {
       "raw_hot": 549503,
       "num": 1086473,
       "word": "谷爱凌回应米兰冬奥银牌",
@@ -6305,14 +6313,6 @@
       "onboard_time": 1770611361,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 513459,
-      "num": 239642,
-      "word": "李昀锐拍宋雨琦",
-      "onboard_time": 1771687103,
-      "rank": 5,
-      "category": "演出"
     },
     {
       "raw_hot": 513257,
@@ -19675,6 +19675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199954,
+      "num": 138491,
+      "word": "初六送穷怎么送",
+      "onboard_time": 1771684522,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 199930,
       "num": 180644,
       "word": "朱志鑫伦敦",
@@ -20585,6 +20593,14 @@
       "onboard_time": 1770261919,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 189173,
+      "num": 143982,
+      "word": "李书名 26岁女房客",
+      "onboard_time": 1771685302,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 189169,
@@ -21539,6 +21555,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 178149,
+      "num": 128590,
+      "word": "陈丽君连续三年春节期间爆",
+      "onboard_time": 1771683142,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 178148,
       "num": 159724,
       "word": "赵丽颖2025年全球观众最喜爱演员",
@@ -21617,14 +21641,6 @@
       "onboard_time": 1770719240,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 177186,
-      "num": 138491,
-      "word": "初六送穷怎么送",
-      "onboard_time": 1771684522,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 176983,
@@ -24811,14 +24827,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 148326,
-      "num": 143982,
-      "word": "李书名 26岁女房客",
-      "onboard_time": 1771685302,
-      "rank": 40,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 148299,
       "num": 148299,
       "word": "王星越送给粉丝的星星",
@@ -27163,14 +27171,6 @@
       "category": "幽默,休闲"
     },
     {
-      "raw_hot": 133894,
-      "num": 114286,
-      "word": "陈丽君连续三年春节期间爆",
-      "onboard_time": 1771683142,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 133855,
       "num": 133855,
       "word": "听闻姐姐分家产儿子打了母亲两巴掌",
@@ -29289,6 +29289,14 @@
       "onboard_time": 1771687999,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 122373,
+      "num": 93534,
+      "word": "范丞丞李昀锐给宋雨琦举手幅",
+      "onboard_time": 1771688842,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 122360,
@@ -36203,6 +36211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 98670,
+      "num": 90441,
+      "word": "余承恩全家直接开启军训模式",
+      "onboard_time": 1771688481,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 98661,
       "num": 98661,
       "word": "九尾四连胜后的自拍",
@@ -37579,6 +37595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 94778,
+      "num": 89198,
+      "word": "张元英MiuMiu活动",
+      "onboard_time": 1771687999,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 94769,
       "num": 99178,
       "word": "白鹿新剧创平台2026年最快破万记录",
@@ -38057,6 +38081,14 @@
       "onboard_time": 1771590262,
       "rank": 22,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 93611,
+      "num": 93611,
+      "word": "律师解读15岁女孩被当街暴打事件",
+      "onboard_time": 1771685782,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 93595,
@@ -41897,14 +41929,6 @@
       "onboard_time": 1771681582,
       "rank": 43,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 84248,
-      "num": 84248,
-      "word": "律师解读15岁女孩被当街暴打事件",
-      "onboard_time": 1771685782,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 84204,
@@ -48553,14 +48577,6 @@
       "onboard_time": 1771297582,
       "rank": 25,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 66477,
-      "num": 66477,
-      "word": "张元英MiuMiu活动",
-      "onboard_time": 1771687999,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 66471,
@@ -58843,6 +58859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 23132,
+      "num": 107340,
+      "word": "解放军对澳舰过航全程跟监警戒",
+      "onboard_time": 1771687702,
+      "rank": 19,
+      "category": "军事"
+    },
+    {
       "raw_hot": 23112,
       "num": 184772,
       "word": "预制菜国标六问六答",
@@ -60041,14 +60065,6 @@
       "onboard_time": 1770319933,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 18661,
-      "num": 107340,
-      "word": "解放军对澳舰过航全程跟监警戒",
-      "onboard_time": 1771687702,
-      "rank": 19,
-      "category": "军事"
     },
     {
       "raw_hot": 18607,
