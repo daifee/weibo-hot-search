@@ -1,6 +1,6 @@
 {
   "startTime": 1771603272383,
-  "endTime": 1771673420982,
+  "endTime": 1771674355568,
   "band_list": [
     {
       "raw_hot": 1928940,
@@ -51,20 +51,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1305238,
+      "num": 1305238,
+      "word": "中国队空中技巧混团铜牌",
+      "onboard_time": 1771672941,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1158443,
       "num": 628596,
       "word": "刘涛演妈祖 三次圣杯",
       "onboard_time": 1771644860,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1149325,
-      "num": 1183892,
-      "word": "中国队空中技巧混团铜牌",
-      "onboard_time": 1771672941,
-      "rank": 0,
-      "category": "体育"
     },
     {
       "raw_hot": 1113130,
@@ -148,7 +148,7 @@
     },
     {
       "raw_hot": 607689,
-      "num": 356719,
+      "num": 368487,
       "word": "黄晓明曝艺人红毯上假摔",
       "onboard_time": 1771661240,
       "rank": 12,
@@ -195,6 +195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 516946,
+      "num": 516946,
+      "word": "家属称平顶山被打女孩视力听力受影响",
+      "onboard_time": 1771672220,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 516579,
       "num": 516579,
       "word": "王心迪第二跳失误",
@@ -235,6 +243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 489423,
+      "num": 162513,
+      "word": "宋雨琦中韩人脉这一块",
+      "onboard_time": 1771668440,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 488196,
       "num": 399646,
       "word": "将门独后全阵容官宣",
@@ -249,14 +265,6 @@
       "onboard_time": 1771662020,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 457445,
-      "num": 162513,
-      "word": "宋雨琦中韩人脉这一块",
-      "onboard_time": 1771668440,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 449010,
@@ -372,7 +380,7 @@
     },
     {
       "raw_hot": 348990,
-      "num": 112568,
+      "num": 278018,
       "word": "教练说苏翊鸣夺金后一直想吐",
       "onboard_time": 1771670599,
       "rank": 30,
@@ -603,6 +611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 233769,
+      "num": 233769,
+      "word": "现在就出发",
+      "onboard_time": 1771673001,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 229705,
       "num": 147941,
       "word": "偶遇李昀锐合照",
@@ -616,6 +632,22 @@
       "word": "谷爱凌出战冲金",
       "onboard_time": 1771648039,
       "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 225032,
+      "num": 225032,
+      "word": "这位粤C车主你的鸭子掉了",
+      "onboard_time": 1771672700,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 223954,
+      "num": 223954,
+      "word": "米兰冬奥短道5000接力棒次失误",
+      "onboard_time": 1771669880,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -648,14 +680,6 @@
       "word": "牢A解释中国人游泳夺冠美国人破防",
       "onboard_time": 1771647019,
       "rank": 21,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 216135,
-      "num": 216135,
-      "word": "米兰冬奥短道5000接力棒次失误",
-      "onboard_time": 1771669880,
-      "rank": 44,
       "category": "体育"
     },
     {
@@ -697,14 +721,6 @@
       "onboard_time": 1771657943,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 205451,
-      "num": 205451,
-      "word": "家属称平顶山被打女孩视力听力受影响",
-      "onboard_time": 1771672220,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 202865,
@@ -843,6 +859,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 158146,
+      "num": 110022,
+      "word": "林孝埈谈黄大宪",
+      "onboard_time": 1771673661,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 156384,
       "num": 156384,
       "word": "黄景瑜演技",
@@ -881,6 +905,14 @@
       "onboard_time": 1771628295,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144663,
+      "num": 128309,
+      "word": "刘涛回应妈祖照被设为屏保",
+      "onboard_time": 1771673661,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 144284,
@@ -995,12 +1027,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 132629,
+      "num": 92714,
+      "word": "秦昊伊能静在沈阳逛街",
+      "onboard_time": 1771673902,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 131719,
       "num": 83255,
       "word": "初五迎财神",
       "onboard_time": 1771606578,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127813,
+      "num": 127813,
+      "word": "刘宇宁直播",
+      "onboard_time": 1771672160,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 127582,
@@ -1025,14 +1073,6 @@
       "onboard_time": 1771599623,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 125838,
-      "num": 125838,
-      "word": "这位粤C车主你的鸭子掉了",
-      "onboard_time": 1771672700,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 125599,
@@ -1065,14 +1105,6 @@
       "onboard_time": 1771647679,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 121346,
-      "num": 121346,
-      "word": "刘宇宁直播",
-      "onboard_time": 1771672160,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 119007,
@@ -1113,6 +1145,14 @@
       "onboard_time": 1771651701,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 113063,
+      "num": 127934,
+      "word": "小伙撕去年对联天塌了",
+      "onboard_time": 1771673902,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112564,
@@ -1299,14 +1339,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 95712,
-      "num": 95712,
-      "word": "现在就出发",
-      "onboard_time": 1771673001,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 95674,
       "num": 95674,
       "word": "特朗普自嘲是历史上最傻的总统",
@@ -1347,6 +1379,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 92673,
+      "num": 92673,
+      "word": "打王者我只佩服一种人",
+      "onboard_time": 1771674321,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 91099,
       "num": 91099,
       "word": "徐梦桃调整能力",
@@ -1376,6 +1416,14 @@
       "word": "教练辟谣不让苏翊鸣谈恋爱",
       "onboard_time": 1771661900,
       "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 89560,
+      "num": 89560,
+      "word": "中国空中技巧队2金3铜",
+      "onboard_time": 1771674020,
+      "rank": 42,
       "category": "体育"
     },
     {
@@ -1697,6 +1745,14 @@
       "onboard_time": 1771667001,
       "rank": 41,
       "category": "数码"
+    },
+    {
+      "raw_hot": 75150,
+      "num": 75150,
+      "word": "超过三行我就烦了",
+      "onboard_time": 1771674262,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 75140,
@@ -2059,6 +2115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 64606,
+      "num": 147133,
+      "word": "男子自驾游开10小时后弃车换高铁",
+      "onboard_time": 1771673961,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 64579,
       "num": 64579,
       "word": "中国短道新世纪冬奥会最差战绩",
@@ -2104,6 +2168,14 @@
       "word": "浙江人赚钱敏感度有多高",
       "onboard_time": 1771635741,
       "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 62056,
+      "num": 159071,
+      "word": "桔子酒店门禁都没装好为何营业",
+      "onboard_time": 1771673661,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -2529,6 +2601,14 @@
       "onboard_time": 1771662860,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 34562,
+      "num": 92737,
+      "word": "上海财神庙2万多人通宵求财",
+      "onboard_time": 1771673902,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 33424,
