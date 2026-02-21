@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1771649037391,
+  "endTime": 1771649616834,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -1268,7 +1268,7 @@
     },
     {
       "raw_hot": 1331060,
-      "num": 148250,
+      "num": 178835,
       "word": "特朗普访华时间",
       "onboard_time": 1771644621,
       "rank": 10,
@@ -1595,6 +1595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1158443,
+      "num": 628596,
+      "word": "刘涛演妈祖 三次圣杯",
+      "onboard_time": 1771644860,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1158428,
       "num": 1185348,
       "word": "星河入梦 黑马",
@@ -1657,14 +1665,6 @@
       "onboard_time": 1771473980,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1134811,
-      "num": 628596,
-      "word": "刘涛演妈祖 三次圣杯",
-      "onboard_time": 1771644860,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 1132809,
@@ -4483,6 +4483,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 628940,
+      "num": 173453,
+      "word": "姚晨丢掉妈妈过期药品被骂了3天",
+      "onboard_time": 1771646839,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 628413,
       "num": 233063,
       "word": "老人连续7年用冥币买遍半条街",
@@ -5953,14 +5961,6 @@
       "onboard_time": 1769902097,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 523496,
-      "num": 148123,
-      "word": "姚晨丢掉妈妈过期药品被骂了3天",
-      "onboard_time": 1771646839,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 523494,
@@ -9331,6 +9331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 374486,
+      "num": 170161,
+      "word": "关晓彤我长大了不能被骗了",
+      "onboard_time": 1771647320,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 374066,
       "num": 162966,
       "word": "特朗普社媒删除与奥巴马有关视频",
@@ -10035,6 +10043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 357674,
+      "num": 357674,
+      "word": "慈母多败咪",
+      "onboard_time": 1771647019,
+      "rank": 6,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 357472,
       "num": 280009,
       "word": "有人把4万元金饰剪碎做成美甲",
@@ -10331,6 +10347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 349240,
+      "num": 145576,
+      "word": "阿勒泰 刘耀文宋亚轩",
+      "onboard_time": 1771642459,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 349110,
       "num": 208855,
       "word": "女子举报初中老师性侵产子被起诉",
@@ -10409,14 +10433,6 @@
       "onboard_time": 1771230323,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 346883,
-      "num": 346883,
-      "word": "慈母多败咪",
-      "onboard_time": 1771647019,
-      "rank": 6,
-      "category": "幽默"
     },
     {
       "raw_hot": 346814,
@@ -11699,14 +11715,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 316378,
-      "num": 147635,
-      "word": "关晓彤我长大了不能被骗了",
-      "onboard_time": 1771647320,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 316304,
       "num": 316304,
       "word": "看完惊蛰无声想掏垃圾桶",
@@ -12291,14 +12299,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 306160,
-      "num": 145576,
-      "word": "阿勒泰 刘耀文宋亚轩",
-      "onboard_time": 1771642459,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 305879,
       "num": 263262,
       "word": "J人已经买好27年的过年机票",
@@ -12644,7 +12644,7 @@
     },
     {
       "raw_hot": 298017,
-      "num": 146944,
+      "num": 160219,
       "word": "曝那艺娜偷税漏税",
       "onboard_time": 1771644680,
       "rank": 14,
@@ -14939,6 +14939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 256962,
+      "num": 421366,
+      "word": "王濛别嗦了蜜了换衣服去比赛",
+      "onboard_time": 1771645999,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 256790,
       "num": 145586,
       "word": "伤心swimming爆料后再怒发8条",
@@ -15209,6 +15217,14 @@
       "onboard_time": 1770947660,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 252620,
+      "num": 252620,
+      "word": "不让江山女主",
+      "onboard_time": 1771648100,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 252580,
@@ -15601,14 +15617,6 @@
       "onboard_time": 1770281245,
       "rank": 38,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 247170,
-      "num": 421366,
-      "word": "王濛别嗦了蜜了换衣服去比赛",
-      "onboard_time": 1771645999,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 247146,
@@ -17932,7 +17940,7 @@
     },
     {
       "raw_hot": 215404,
-      "num": 95879,
+      "num": 105237,
       "word": "这2种饮料混着喝或永久损伤大脑",
       "onboard_time": 1771648401,
       "rank": 30,
@@ -18819,6 +18827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 202865,
+      "num": 202865,
+      "word": "姐姐回应22岁小伙烫大波浪被质疑",
+      "onboard_time": 1771643480,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 202854,
       "num": 182165,
       "word": "马琳远程收看王昶求婚钱天一",
@@ -19249,6 +19265,14 @@
       "onboard_time": 1770784941,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 197308,
+      "num": 154598,
+      "word": "韩维辰硬刚wk1",
+      "onboard_time": 1771648759,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 197160,
@@ -19971,14 +19995,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 189149,
-      "num": 189149,
-      "word": "不让江山女主",
-      "onboard_time": 1771648100,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 189119,
       "num": 300546,
       "word": "米兰冬奥主火炬点燃",
@@ -20297,6 +20313,14 @@
       "onboard_time": 1771154060,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 185106,
+      "num": 141131,
+      "word": "金饰价涨到1598元",
+      "onboard_time": 1771648700,
+      "rank": 22,
+      "category": "财经"
     },
     {
       "raw_hot": 185095,
@@ -20681,6 +20705,14 @@
       "onboard_time": 1770863960,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 180489,
+      "num": 180489,
+      "word": "古言三巨头",
+      "onboard_time": 1771645939,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 180166,
@@ -21553,14 +21585,6 @@
       "onboard_time": 1770087800,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 171412,
-      "num": 171412,
-      "word": "姐姐回应22岁小伙烫大波浪被质疑",
-      "onboard_time": 1771643480,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 171408,
@@ -22804,7 +22828,7 @@
     },
     {
       "raw_hot": 158652,
-      "num": 146040,
+      "num": 149518,
       "word": "医院回应女子死亡系自身过敏",
       "onboard_time": 1771642700,
       "rank": 30,
@@ -23691,14 +23715,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 150917,
-      "num": 141131,
-      "word": "金饰价涨到1598元",
-      "onboard_time": 1771648700,
-      "rank": 22,
-      "category": "财经"
-    },
-    {
       "raw_hot": 150900,
       "num": 150900,
       "word": "王昶钱天一是00后",
@@ -24081,14 +24097,6 @@
       "onboard_time": 1770855680,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 148457,
-      "num": 148457,
-      "word": "古言三巨头",
-      "onboard_time": 1771645939,
-      "rank": 9,
-      "category": "剧集"
     },
     {
       "raw_hot": 148435,
@@ -25977,6 +25985,14 @@
       "onboard_time": 1770721642,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 136193,
+      "num": 136193,
+      "word": "谷爱凌出战冲金",
+      "onboard_time": 1771648039,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 136149,
@@ -29659,6 +29675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 117185,
+      "num": 117185,
+      "word": "徐梦桃爱拍照全米兰都知道了",
+      "onboard_time": 1771649480,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 117178,
       "num": 117178,
       "word": "草莓真的是最脏的水果吗",
@@ -32331,14 +32355,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 107355,
-      "num": 95493,
-      "word": "谷爱凌出战冲金",
-      "onboard_time": 1771648039,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 107353,
       "num": 107353,
       "word": "爱泼斯坦豪宅悬挂不少裸女画像",
@@ -32817,6 +32833,14 @@
       "onboard_time": 1770462740,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 105608,
+      "num": 105608,
+      "word": "起猛了这下碰到真财神了",
+      "onboard_time": 1771648999,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 105564,
@@ -35339,6 +35363,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 98166,
+      "num": 98166,
+      "word": "沈腾有望成首位主演票房破400亿演员",
+      "onboard_time": 1771648820,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 98133,
       "num": 98133,
       "word": "王楚钦vs张佑安",
@@ -35649,14 +35681,6 @@
       "onboard_time": 1770785359,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 97320,
-      "num": 97320,
-      "word": "韩维辰硬刚wk1",
-      "onboard_time": 1771648759,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 97289,
@@ -38739,6 +38763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 88942,
+      "num": 88942,
+      "word": "老一辈迎财神vs年轻人迎财神",
+      "onboard_time": 1771649121,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 88933,
       "num": 88933,
       "word": "脑综打败清北学霸的才女陷淘汰危机",
@@ -40635,6 +40667,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 84158,
+      "num": 84158,
+      "word": "人形机器人",
+      "onboard_time": 1771646600,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 84145,
       "num": 84145,
       "word": "王一博搞笑很多年了",
@@ -41811,6 +41851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 81026,
+      "num": 81026,
+      "word": "贝加尔湖事故有很多中国人参与救援",
+      "onboard_time": 1771648999,
+      "rank": 46,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 81014,
       "num": 81014,
       "word": "职场中不要过度礼貌",
@@ -42611,6 +42659,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 79430,
+      "num": 79430,
+      "word": "终于有人懂牛奶包装设计师了",
+      "onboard_time": 1771649121,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 79405,
       "num": 79405,
       "word": "中国人的年夜饭节目单",
@@ -43257,14 +43313,6 @@
       "onboard_time": 1771044380,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 77598,
-      "num": 77598,
-      "word": "起猛了这下碰到真财神了",
-      "onboard_time": 1771648999,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 77544,
@@ -44097,14 +44145,6 @@
       "onboard_time": 1771595002,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 75508,
-      "num": 75508,
-      "word": "人形机器人",
-      "onboard_time": 1771646600,
-      "rank": 37,
-      "category": "财经"
     },
     {
       "raw_hot": 75506,
@@ -47643,14 +47683,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 64376,
-      "num": 64376,
-      "word": "沈腾有望成首位主演票房破400亿演员",
-      "onboard_time": 1771648820,
-      "rank": 42,
-      "category": "电影"
-    },
-    {
       "raw_hot": 64371,
       "num": 64371,
       "word": "李云霄演的燕子娘",
@@ -47945,6 +47977,14 @@
       "onboard_time": 1771139420,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 63166,
+      "num": 63166,
+      "word": "王牌对王牌",
+      "onboard_time": 1770139457,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 63152,
@@ -48419,6 +48459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 61672,
+      "num": 61672,
+      "word": "范可新说没上场比输还疼",
+      "onboard_time": 1771649600,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 61644,
       "num": 113230,
       "word": "谭维维 在春晚困的迷瞪",
@@ -48489,6 +48537,14 @@
       "onboard_time": 1770173361,
       "rank": 46,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 61243,
+      "num": 61243,
+      "word": "上班上出了结婚的感觉",
+      "onboard_time": 1771649600,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 61240,
@@ -49177,14 +49233,6 @@
       "onboard_time": 1771470740,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 58330,
-      "num": 58330,
-      "word": "贝加尔湖事故有很多中国人参与救援",
-      "onboard_time": 1771648999,
-      "rank": 46,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 58323,
@@ -52227,14 +52275,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 43564,
-      "num": 43564,
-      "word": "王牌对王牌",
-      "onboard_time": 1770139457,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 43529,
       "num": 310517,
       "word": "千问Qwen3.5大模型发布",
@@ -52392,6 +52432,14 @@
       "word": "蒙古感谢中方",
       "onboard_time": 1770952820,
       "rank": 39,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 42877,
+      "num": 646344,
+      "word": "马年春节新三样",
+      "onboard_time": 1771645879,
+      "rank": 2,
       "category": "国内时政"
     },
     {
@@ -53041,14 +53089,6 @@
       "onboard_time": 1770633201,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 39408,
-      "num": 646344,
-      "word": "马年春节新三样",
-      "onboard_time": 1771645879,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 39262,

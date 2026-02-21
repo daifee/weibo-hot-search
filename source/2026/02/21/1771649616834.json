@@ -1,0 +1,410 @@
+{
+  "runTime": 1771649616834,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 718885,
+        "num": 1115021,
+        "word": "王濛说签生死状复出",
+        "onboard_time": 1771636940,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 255045,
+        "num": 816710,
+        "word": "迎财神",
+        "onboard_time": 1771600401,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42877,
+        "num": 629526,
+        "word": "马年春节新三样",
+        "onboard_time": 1771645879,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1158443,
+        "num": 493856,
+        "word": "刘涛演妈祖 三次圣杯",
+        "onboard_time": 1771644860,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 256962,
+        "num": 413924,
+        "word": "王濛别嗦了蜜了换衣服去比赛",
+        "onboard_time": 1771645999,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 756622,
+        "num": 403068,
+        "word": "那艺娜劣迹艺人",
+        "onboard_time": 1771631538,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 357674,
+        "num": 357674,
+        "word": "慈母多败咪",
+        "onboard_time": 1771647019,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 252620,
+        "num": 252620,
+        "word": "不让江山女主",
+        "onboard_time": 1771648100,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202865,
+        "num": 202865,
+        "word": "姐姐回应22岁小伙烫大波浪被质疑",
+        "onboard_time": 1771643480,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180489,
+        "num": 180489,
+        "word": "古言三巨头",
+        "onboard_time": 1771645939,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1068011,
+        "num": 178835,
+        "word": "特朗普访华时间",
+        "onboard_time": 1771644621,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 628940,
+        "num": 173453,
+        "word": "姚晨丢掉妈妈过期药品被骂了3天",
+        "onboard_time": 1771646839,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 374486,
+        "num": 170161,
+        "word": "关晓彤我长大了不能被骗了",
+        "onboard_time": 1771647320,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 265662,
+        "num": 164698,
+        "word": "泡泡玛特创始人送小酒窝盲盒",
+        "onboard_time": 1771640899,
+        "rank": 13,
+        "category": "休闲,艺人"
+      },
+      {
+        "raw_hot": 288711,
+        "num": 160219,
+        "word": "曝那艺娜偷税漏税",
+        "onboard_time": 1771644680,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197308,
+        "num": 154598,
+        "word": "韩维辰硬刚wk1",
+        "onboard_time": 1771648759,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186589,
+        "num": 153931,
+        "word": "一觉醒来特朗普改新打法了",
+        "onboard_time": 1771637839,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 149518,
+        "num": 149518,
+        "word": "医院回应女子死亡系自身过敏",
+        "onboard_time": 1771642700,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 136600,
+        "num": 136600,
+        "word": "王濛现场观赛生气了",
+        "onboard_time": 1771636940,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136193,
+        "num": 136193,
+        "word": "谷爱凌出战冲金",
+        "onboard_time": 1771648039,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 349240,
+        "num": 134226,
+        "word": "阿勒泰 刘耀文宋亚轩",
+        "onboard_time": 1771642459,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192164,
+        "num": 131329,
+        "word": "牢A解释中国人游泳夺冠美国人破防",
+        "onboard_time": 1771647019,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188592,
+        "num": 130394,
+        "word": "方大同才二十三MV",
+        "onboard_time": 1771637479,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 185106,
+        "num": 125615,
+        "word": "金饰价涨到1598元",
+        "onboard_time": 1771648700,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 125127,
+        "num": 125127,
+        "word": "中韩体坛最唯美的爱情",
+        "onboard_time": 1771642281,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119676,
+        "num": 119676,
+        "word": "正月初五接财神",
+        "onboard_time": 1771605441,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117185,
+        "num": 117185,
+        "word": "徐梦桃爱拍照全米兰都知道了",
+        "onboard_time": 1771649480,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111135,
+        "num": 111135,
+        "word": "林孝埈采访",
+        "onboard_time": 1771647679,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109253,
+        "num": 109253,
+        "word": "不让江山官宣杨洋",
+        "onboard_time": 1771641680,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105608,
+        "num": 105608,
+        "word": "起猛了这下碰到真财神了",
+        "onboard_time": 1771648999,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 206808,
+        "num": 105237,
+        "word": "这2种饮料混着喝或永久损伤大脑",
+        "onboard_time": 1771648401,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 103822,
+        "num": 103822,
+        "word": "金度勋疑似骚扰女艺人",
+        "onboard_time": 1771632078,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101606,
+        "num": 101606,
+        "word": "苏翊鸣回复徐梦桃小鸣酱随500",
+        "onboard_time": 1771638740,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98166,
+        "num": 98166,
+        "word": "沈腾有望成首位主演票房破400亿演员",
+        "onboard_time": 1771648820,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 97750,
+        "num": 97750,
+        "word": "齐天大圣烟花",
+        "onboard_time": 1771645461,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 88942,
+        "num": 88942,
+        "word": "老一辈迎财神vs年轻人迎财神",
+        "onboard_time": 1771649121,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 84158,
+        "num": 84158,
+        "word": "人形机器人",
+        "onboard_time": 1771646600,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 82349,
+        "num": 82349,
+        "word": "当我问亲戚们存了多少钱",
+        "onboard_time": 1771634900,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 81536,
+        "num": 81536,
+        "word": "闭眼睡不着算熬夜吗",
+        "onboard_time": 1771642400,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 81026,
+        "num": 81026,
+        "word": "贝加尔湖事故有很多中国人参与救援",
+        "onboard_time": 1771648999,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 80393,
+        "num": 80393,
+        "word": "沈娇娇是个眼圆脸圆的甜妹",
+        "onboard_time": 1771629917,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 79430,
+        "num": 79430,
+        "word": "终于有人懂牛奶包装设计师了",
+        "onboard_time": 1771649121,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 77783,
+        "num": 77783,
+        "word": "飞驰人生3五天破20亿",
+        "onboard_time": 1771641200,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 73865,
+        "num": 73865,
+        "word": "霍启刚还是忍不住秀恩爱",
+        "onboard_time": 1771632499,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68770,
+        "num": 68770,
+        "word": "不让江山",
+        "onboard_time": 1771641500,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67460,
+        "num": 67460,
+        "word": "黄晓明红包",
+        "onboard_time": 1771645999,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63546,
+        "num": 63546,
+        "word": "王心迪追徐梦桃很有韧劲",
+        "onboard_time": 1771642340,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 63166,
+        "num": 63166,
+        "word": "王牌对王牌",
+        "onboard_time": 1771649300,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 61672,
+        "num": 61672,
+        "word": "范可新说没上场比输还疼",
+        "onboard_time": 1771649600,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 61243,
+        "num": 61243,
+        "word": "上班上出了结婚的感觉",
+        "onboard_time": 1771649600,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#老胡同里的新生活#"
+    }
+  }
+}
