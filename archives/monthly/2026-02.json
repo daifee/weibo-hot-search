@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1771700510793,
+  "endTime": 1771702399489,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -52763,6 +52763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 49239,
+      "num": 98232,
+      "word": "大年初六",
+      "onboard_time": 1771692918,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49218,
       "num": 104058,
       "word": "黄子华不仅老了帅了还爱上班了",
@@ -54209,14 +54217,6 @@
       "onboard_time": 1771392379,
       "rank": 37,
       "category": "综艺,互联网"
-    },
-    {
-      "raw_hot": 43108,
-      "num": 98232,
-      "word": "大年初六",
-      "onboard_time": 1771692918,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 43027,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1771702399489,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 93463,
+        "num": 93463,
+        "word": "谷爱凌U型场地决赛推迟",
+        "onboard_time": 1771692618,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 58285,
+        "num": 58285,
+        "word": "苏翊鸣闭幕式旗手",
+        "onboard_time": 1771697236,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 7968,
+        "num": 54489,
+        "word": "热气腾腾的中国年",
+        "onboard_time": 1771681641,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90591,
+        "num": 54419,
+        "word": "王传君录综艺崩溃爆哭",
+        "onboard_time": 1771684041,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 66542,
+        "num": 54388,
+        "word": "白鹿 我家923",
+        "onboard_time": 1771680082,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 54228,
+        "num": 54228,
+        "word": "谷爱凌决赛时间",
+        "onboard_time": 1771699695,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 49239,
+        "num": 49239,
+        "word": "大年初六",
+        "onboard_time": 1771692918,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47967,
+        "num": 47967,
+        "word": "将门毒后",
+        "onboard_time": 1771679603,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42987,
+        "num": 42987,
+        "word": "镖人",
+        "onboard_time": 1771683502,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 42636,
+        "num": 42636,
+        "word": "前方无厕所无烤肠无茶叶蛋",
+        "onboard_time": 1771681222,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180889,
+        "num": 42161,
+        "word": "齐思钧回应分手",
+        "onboard_time": 1771685843,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67151,
+        "num": 40435,
+        "word": "李书名 26岁女房客",
+        "onboard_time": 1771685302,
+        "rank": 11,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 48530,
+        "num": 39268,
+        "word": "刘涛回应妈祖照被设为屏保",
+        "onboard_time": 1771673661,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43761,
+        "num": 36082,
+        "word": "高敏感人一生的主线任务",
+        "onboard_time": 1771684222,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 36033,
+        "num": 36033,
+        "word": "李晨发跑男团idle合照",
+        "onboard_time": 1771679842,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 32338,
+        "num": 32338,
+        "word": "游客挤到悔不当初不如在家刷手机",
+        "onboard_time": 1771678462,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28717,
+        "num": 28717,
+        "word": "谷爱凌称收到过死亡威胁",
+        "onboard_time": 1771676481,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27076,
+        "num": 27076,
+        "word": "李昀锐拍宋雨琦",
+        "onboard_time": 1771687103,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 25397,
+        "num": 25397,
+        "word": "上门喂猫不让人走",
+        "onboard_time": 1771676241,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 24659,
+        "num": 24659,
+        "word": "结婚五金起步价迈入10万元大关",
+        "onboard_time": 1771682061,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78513,
+        "num": 24653,
+        "word": "曝齐思钧刘梦章分手",
+        "onboard_time": 1771675342,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57788,
+        "num": 23805,
+        "word": "今年好几对情侣都分了",
+        "onboard_time": 1771686201,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30821,
+        "num": 23312,
+        "word": "初六送穷怎么送",
+        "onboard_time": 1771684522,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22746,
+        "num": 22746,
+        "word": "现在就出发",
+        "onboard_time": 1771673001,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21250,
+        "num": 22746,
+        "word": "辽宁春晚最大黑马小品以貌取人",
+        "onboard_time": 1771677025,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36241,
+        "num": 22745,
+        "word": "刘梦章称不存在出轨",
+        "onboard_time": 1771678641,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20972,
+        "num": 22743,
+        "word": "身体5个表现说明需要除湿了",
+        "onboard_time": 1771676360,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 20269,
+        "num": 22742,
+        "word": "谷爱凌决赛时间更新",
+        "onboard_time": 1771697476,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19215,
+        "num": 22741,
+        "word": "施暴者必被法律严惩",
+        "onboard_time": 1771691600,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19034,
+        "num": 22740,
+        "word": "刘浩存初五迎财神自拍",
+        "onboard_time": 1771682003,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31880,
+        "num": 22738,
+        "word": "王力宏关于大同的影片",
+        "onboard_time": 1771697176,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24216,
+        "num": 22737,
+        "word": "滑雪比赛为啥非得带手机",
+        "onboard_time": 1771695916,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18932,
+        "num": 22735,
+        "word": "徐璐透露目前体重为96斤",
+        "onboard_time": 1771679303,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18796,
+        "num": 22735,
+        "word": "女财神被游客追得满场跑",
+        "onboard_time": 1771691181,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17911,
+        "num": 22732,
+        "word": "唐宫奇案",
+        "onboard_time": 1771701974,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17722,
+        "num": 22731,
+        "word": "中国速滑米兰冬奥1金2铜收官",
+        "onboard_time": 1771694836,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17512,
+        "num": 22731,
+        "word": "纯真年代的爱情",
+        "onboard_time": 1771688900,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17111,
+        "num": 22730,
+        "word": "北京沙尘暴致大兴机场多趟航班备降",
+        "onboard_time": 1771679963,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16950,
+        "num": 22727,
+        "word": "范丞丞李昀锐给宋雨琦举手幅",
+        "onboard_time": 1771688842,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 16754,
+        "num": 22726,
+        "word": "陈丽君连续三年春节期间爆",
+        "onboard_time": 1771683142,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16644,
+        "num": 22726,
+        "word": "欧阳震华暴瘦引热议",
+        "onboard_time": 1771678404,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16396,
+        "num": 22724,
+        "word": "中国队空中技巧混团铜牌",
+        "onboard_time": 1771672941,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16164,
+        "num": 22723,
+        "word": "六金郑元松分手",
+        "onboard_time": 1771668799,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15948,
+        "num": 22722,
+        "word": "张元英MiuMiu活动",
+        "onboard_time": 1771687999,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15738,
+        "num": 22720,
+        "word": "专家提醒过期药害猛如虎",
+        "onboard_time": 1771687462,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 15726,
+        "num": 22720,
+        "word": "女子将900克黄金遗忘动车当场吓晕",
+        "onboard_time": 1771678582,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15466,
+        "num": 22719,
+        "word": "idle演唱会",
+        "onboard_time": 1771668739,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 15095,
+        "num": 22718,
+        "word": "谷爱凌米兰冬奥收官战",
+        "onboard_time": 1771692140,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14556,
+        "num": 22717,
+        "word": "杨博文cha赛马娘手势舞",
+        "onboard_time": 1771679181,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 11874,
+        "num": 22714,
+        "word": "徐梦桃安慰李天马王心迪吃醋",
+        "onboard_time": 1771681222,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#祝各族人民不断过上更好生活#"
+    }
+  }
+}
