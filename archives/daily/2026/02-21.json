@@ -1,6 +1,6 @@
 {
   "startTime": 1771603272383,
-  "endTime": 1771671212694,
+  "endTime": 1771673420982,
   "band_list": [
     {
       "raw_hot": 1928940,
@@ -59,12 +59,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1149325,
+      "num": 1183892,
+      "word": "中国队空中技巧混团铜牌",
+      "onboard_time": 1771672941,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1113130,
       "num": 648143,
       "word": "那艺娜劣迹艺人",
       "onboard_time": 1771631538,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1096116,
+      "num": 1096116,
+      "word": "徐梦桃王心迪李天马出战混团",
+      "onboard_time": 1771666760,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 881273,
@@ -139,14 +155,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 590762,
-      "num": 1094521,
-      "word": "徐梦桃王心迪李天马出战混团",
-      "onboard_time": 1771666760,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
       "raw_hot": 583972,
       "num": 245484,
       "word": "王濛批评短道合理吗",
@@ -184,6 +192,14 @@
       "word": "王心迪徐梦桃 金牌夫妻",
       "onboard_time": 1771595546,
       "rank": 4,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 516579,
+      "num": 516579,
+      "word": "王心迪第二跳失误",
+      "onboard_time": 1771672220,
+      "rank": 3,
       "category": "体育"
     },
     {
@@ -355,6 +371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 348990,
+      "num": 112568,
+      "word": "教练说苏翊鸣夺金后一直想吐",
+      "onboard_time": 1771670599,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 348793,
       "num": 348793,
       "word": "正月初五接财神",
@@ -401,6 +425,14 @@
       "onboard_time": 1771634600,
       "rank": 6,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 328306,
+      "num": 328306,
+      "word": "idle演唱会",
+      "onboard_time": 1771668739,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 320242,
@@ -547,22 +579,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 251828,
-      "num": 221956,
-      "word": "idle演唱会",
-      "onboard_time": 1771668739,
-      "rank": 17,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 244920,
-      "num": 100026,
-      "word": "教练说苏翊鸣夺金后一直想吐",
-      "onboard_time": 1771670599,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 244039,
       "num": 244039,
       "word": "苏翊鸣回复徐梦桃小鸣酱随500",
@@ -635,6 +651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 216135,
+      "num": 216135,
+      "word": "米兰冬奥短道5000接力棒次失误",
+      "onboard_time": 1771669880,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 215404,
       "num": 155817,
       "word": "这2种饮料混着喝或永久损伤大脑",
@@ -673,6 +697,14 @@
       "onboard_time": 1771657943,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 205451,
+      "num": 205451,
+      "word": "家属称平顶山被打女孩视力听力受影响",
+      "onboard_time": 1771672220,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 202865,
@@ -859,6 +891,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 144025,
+      "num": 144025,
+      "word": "李天马第一跳116.74分",
+      "onboard_time": 1771671021,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 143159,
+      "num": 143159,
+      "word": "徐梦桃第二跳96.59分",
+      "onboard_time": 1771672160,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141923,
       "num": 141923,
       "word": "巧克力生煎",
@@ -923,6 +971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 133584,
+      "num": 130650,
+      "word": "你淡淡的人生顺顺的",
+      "onboard_time": 1771667422,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 132778,
       "num": 138671,
       "word": "初中女生若未满16岁骑电动车属违规",
@@ -947,14 +1003,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 130650,
-      "num": 130650,
-      "word": "你淡淡的人生顺顺的",
-      "onboard_time": 1771667422,
-      "rank": 36,
-      "category": "情感"
-    },
-    {
       "raw_hot": 127582,
       "num": 127582,
       "word": "杭州天下第一财神庙幽默劝返",
@@ -977,6 +1025,14 @@
       "onboard_time": 1771599623,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 125838,
+      "num": 125838,
+      "word": "这位粤C车主你的鸭子掉了",
+      "onboard_time": 1771672700,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 125599,
@@ -1009,6 +1065,14 @@
       "onboard_time": 1771647679,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 121346,
+      "num": 121346,
+      "word": "刘宇宁直播",
+      "onboard_time": 1771672160,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 119007,
@@ -1091,11 +1155,27 @@
       "category": "情感"
     },
     {
+      "raw_hot": 108645,
+      "num": 108645,
+      "word": "易烊千玺无实物表演被撞",
+      "onboard_time": 1771669519,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 107206,
       "num": 131627,
       "word": "女子陷美男计拉丈夫当间谍17年",
       "onboard_time": 1771652480,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 106981,
+      "num": 106981,
+      "word": "第一批返程的人已经堵在高速了",
+      "onboard_time": 1771670479,
+      "rank": 43,
       "category": "民生新闻"
     },
     {
@@ -1139,19 +1219,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 103505,
+      "num": 103505,
+      "word": "中国空中技巧队首轮总分315.02",
+      "onboard_time": 1771671500,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 102514,
       "num": 102514,
       "word": "王心迪手套上有颗桃",
       "onboard_time": 1771598182,
       "rank": 28,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 101633,
-      "num": 101633,
-      "word": "李天马第一跳116.74分",
-      "onboard_time": 1771671021,
-      "rank": 27,
       "category": "体育"
     },
     {
@@ -1187,12 +1267,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 99901,
-      "num": 99901,
-      "word": "米兰冬奥短道5000接力棒次失误",
-      "onboard_time": 1771669880,
-      "rank": 44,
-      "category": "体育"
+      "raw_hot": 99022,
+      "num": 99022,
+      "word": "把撒贝宁拍成何以琛了",
+      "onboard_time": 1771671080,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 96689,
@@ -1219,6 +1299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 95712,
+      "num": 95712,
+      "word": "现在就出发",
+      "onboard_time": 1771673001,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 95674,
       "num": 95674,
       "word": "特朗普自嘲是历史上最傻的总统",
@@ -1235,6 +1323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 94351,
+      "num": 94351,
+      "word": "近视眼的世界真这么离谱吗",
+      "onboard_time": 1771670360,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 94336,
       "num": 94336,
       "word": "不让江山",
@@ -1249,6 +1345,14 @@
       "onboard_time": 1771636940,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 91099,
+      "num": 91099,
+      "word": "徐梦桃调整能力",
+      "onboard_time": 1771673361,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 90908,
@@ -1475,14 +1579,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 81090,
-      "num": 81090,
-      "word": "易烊千玺无实物表演被撞",
-      "onboard_time": 1771669519,
-      "rank": 45,
-      "category": "电影"
-    },
-    {
       "raw_hot": 80302,
       "num": 80302,
       "word": "王橹杰举个旗可以当导游了",
@@ -1516,7 +1612,7 @@
     },
     {
       "raw_hot": 78265,
-      "num": 660158,
+      "num": 684839,
       "word": "多地气温断崖式下跌",
       "onboard_time": 1771661541,
       "rank": 2,
@@ -1537,14 +1633,6 @@
       "onboard_time": 1771663699,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 76916,
-      "num": 76916,
-      "word": "第一批返程的人已经堵在高速了",
-      "onboard_time": 1771670479,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 76866,
@@ -1617,14 +1705,6 @@
       "onboard_time": 1771663341,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 74577,
-      "num": 74577,
-      "word": "把撒贝宁拍成何以琛了",
-      "onboard_time": 1771671080,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 74046,
@@ -1801,6 +1881,14 @@
       "onboard_time": 1771661240,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 68366,
+      "num": 68366,
+      "word": "苏翊鸣全英文接受采访",
+      "onboard_time": 1771673301,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 68354,
@@ -2195,6 +2283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 53584,
+      "num": 113027,
+      "word": "全网都在帮济南找鳌鱼",
+      "onboard_time": 1771671021,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 52369,
       "num": 52369,
       "word": "徐梦桃说王心迪永远是洗袜子的那个",
@@ -2433,14 +2529,6 @@
       "onboard_time": 1771662860,
       "rank": 18,
       "category": "电影"
-    },
-    {
-      "raw_hot": 33564,
-      "num": 82558,
-      "word": "全网都在帮济南找鳌鱼",
-      "onboard_time": 1771671021,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 33424,

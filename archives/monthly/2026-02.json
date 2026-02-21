@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1771671212694,
+  "endTime": 1771673420982,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -1659,6 +1659,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1149325,
+      "num": 1183892,
+      "word": "中国队空中技巧混团铜牌",
+      "onboard_time": 1771672941,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1147369,
       "num": 400072,
       "word": "觉得没情商的可以看看作者文案",
@@ -1817,6 +1825,14 @@
       "onboard_time": 1771145479,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1096116,
+      "num": 1096116,
+      "word": "徐梦桃王心迪李天马出战混团",
+      "onboard_time": 1771666760,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 1094312,
@@ -5027,14 +5043,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 590762,
-      "num": 1094521,
-      "word": "徐梦桃王心迪李天马出战混团",
-      "onboard_time": 1771666760,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
       "raw_hot": 589564,
       "num": 221571,
       "word": "马思纯",
@@ -6153,6 +6161,14 @@
       "onboard_time": 1770464241,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 516579,
+      "num": 516579,
+      "word": "王心迪第二跳失误",
+      "onboard_time": 1771672220,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 516250,
@@ -10523,6 +10539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 348990,
+      "num": 112568,
+      "word": "教练说苏翊鸣夺金后一直想吐",
+      "onboard_time": 1771670599,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 348938,
       "num": 348938,
       "word": "孟子义尚公主杀青文",
@@ -11345,6 +11369,14 @@
       "onboard_time": 1771237643,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 328306,
+      "num": 328306,
+      "word": "idle演唱会",
+      "onboard_time": 1771668739,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 328264,
@@ -15523,14 +15555,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 251828,
-      "num": 221956,
-      "word": "idle演唱会",
-      "onboard_time": 1771668739,
-      "rank": 17,
-      "category": "演出"
-    },
-    {
       "raw_hot": 251690,
       "num": 251690,
       "word": "张远春晚出发图",
@@ -16033,14 +16057,6 @@
       "onboard_time": 1769959761,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 244920,
-      "num": 100026,
-      "word": "教练说苏翊鸣夺金后一直想吐",
-      "onboard_time": 1771670599,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 244875,
@@ -18203,6 +18219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 216135,
+      "num": 216135,
+      "word": "米兰冬奥短道5000接力棒次失误",
+      "onboard_time": 1771669880,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 216039,
       "num": 223910,
       "word": "平均每天倒闭7家绝味鸭脖撑不住了",
@@ -18937,6 +18961,14 @@
       "onboard_time": 1770636620,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 205451,
+      "num": 205451,
+      "word": "家属称平顶山被打女孩视力听力受影响",
+      "onboard_time": 1771672220,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 205361,
@@ -25027,6 +25059,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 144025,
+      "num": 144025,
+      "word": "李天马第一跳116.74分",
+      "onboard_time": 1771671021,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 143958,
       "num": 143958,
       "word": "黄景瑜你这么演我可要哭了",
@@ -25121,6 +25161,14 @@
       "onboard_time": 1770688397,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 143159,
+      "num": 143159,
+      "word": "徐梦桃第二跳96.59分",
+      "onboard_time": 1771672160,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 142949,
@@ -26835,6 +26883,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 133584,
+      "num": 130650,
+      "word": "你淡淡的人生顺顺的",
+      "onboard_time": 1771667422,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 133525,
       "num": 228764,
       "word": "7名中东游客在上海买满40多个行李箱",
@@ -27265,14 +27321,6 @@
       "onboard_time": 1770939318,
       "rank": 41,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 130650,
-      "num": 130650,
-      "word": "你淡淡的人生顺顺的",
-      "onboard_time": 1771667422,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 130626,
@@ -28203,6 +28251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 125838,
+      "num": 125838,
+      "word": "这位粤C车主你的鸭子掉了",
+      "onboard_time": 1771672700,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 125782,
       "num": 125782,
       "word": "低情商才是永远的必杀技",
@@ -29129,6 +29185,14 @@
       "onboard_time": 1770370941,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 121346,
+      "num": 121346,
+      "word": "刘宇宁直播",
+      "onboard_time": 1771672160,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 121333,
@@ -32371,6 +32435,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 108645,
+      "num": 108645,
+      "word": "易烊千玺无实物表演被撞",
+      "onboard_time": 1771669519,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 108610,
       "num": 108610,
       "word": "现在的老人vs以后的老人",
@@ -32913,6 +32985,14 @@
       "onboard_time": 1770629420,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 106981,
+      "num": 106981,
+      "word": "第一批返程的人已经堵在高速了",
+      "onboard_time": 1771670479,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 106980,
@@ -34051,6 +34131,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 103505,
+      "num": 103505,
+      "word": "中国空中技巧队首轮总分315.02",
+      "onboard_time": 1771671500,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 103483,
       "num": 103483,
       "word": "动物园回应白虎被指饿成纸片",
@@ -34633,14 +34721,6 @@
       "onboard_time": 1770815842,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 101633,
-      "num": 101633,
-      "word": "李天马第一跳116.74分",
-      "onboard_time": 1771671021,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 101626,
@@ -35275,14 +35355,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 99901,
-      "num": 99901,
-      "word": "米兰冬奥短道5000接力棒次失误",
-      "onboard_time": 1771669880,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 99889,
       "num": 99889,
       "word": "天津大姨对发型的开发",
@@ -35545,6 +35617,14 @@
       "onboard_time": 1770791599,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 99022,
+      "num": 99022,
+      "word": "把撒贝宁拍成何以琛了",
+      "onboard_time": 1771671080,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 99009,
@@ -36675,6 +36755,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 95712,
+      "num": 95712,
+      "word": "现在就出发",
+      "onboard_time": 1771673001,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 95710,
       "num": 95710,
       "word": "情久对战DYG",
@@ -37193,6 +37281,14 @@
       "onboard_time": 1770180863,
       "rank": 46,
       "category": "数码"
+    },
+    {
+      "raw_hot": 94351,
+      "num": 94351,
+      "word": "近视眼的世界真这么离谱吗",
+      "onboard_time": 1771670360,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 94341,
@@ -38369,6 +38465,14 @@
       "onboard_time": 1770284787,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 91099,
+      "num": 91099,
+      "word": "徐梦桃调整能力",
+      "onboard_time": 1771673361,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 91095,
@@ -42435,14 +42539,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 81090,
-      "num": 81090,
-      "word": "易烊千玺无实物表演被撞",
-      "onboard_time": 1771669519,
-      "rank": 45,
-      "category": "电影"
-    },
-    {
       "raw_hot": 81081,
       "num": 203830,
       "word": "乌克兰拟允许14岁结婚",
@@ -43676,7 +43772,7 @@
     },
     {
       "raw_hot": 78265,
-      "num": 660158,
+      "num": 684839,
       "word": "多地气温断崖式下跌",
       "onboard_time": 1771661541,
       "rank": 2,
@@ -44297,14 +44393,6 @@
       "onboard_time": 1771414400,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 76916,
-      "num": 76916,
-      "word": "第一批返程的人已经堵在高速了",
-      "onboard_time": 1771670479,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 76910,
@@ -45225,14 +45313,6 @@
       "onboard_time": 1770902001,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 74577,
-      "num": 74577,
-      "word": "把撒贝宁拍成何以琛了",
-      "onboard_time": 1771671080,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 74573,
@@ -47201,6 +47281,14 @@
       "onboard_time": 1770188841,
       "rank": 18,
       "category": "美食"
+    },
+    {
+      "raw_hot": 68366,
+      "num": 68366,
+      "word": "苏翊鸣全英文接受采访",
+      "onboard_time": 1771673301,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 68354,
@@ -50952,6 +51040,14 @@
       "word": "有环卫工时薪仅3元低于共享充电宝",
       "onboard_time": 1770807319,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 53584,
+      "num": 113027,
+      "word": "全网都在帮济南找鳌鱼",
+      "onboard_time": 1771671021,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -55233,14 +55329,6 @@
       "onboard_time": 1771175718,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 33564,
-      "num": 82558,
-      "word": "全网都在帮济南找鳌鱼",
-      "onboard_time": 1771671021,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 33560,
