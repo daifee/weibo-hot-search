@@ -1,6 +1,6 @@
 {
   "startTime": 1771087248939,
-  "endTime": 1771641178062,
+  "endTime": 1771643372419,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -1131,6 +1131,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 844736,
+      "num": 1135157,
+      "word": "王濛说签生死状复出",
+      "onboard_time": 1771636940,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 840601,
       "num": 840601,
       "word": "易烊千玺垫肩",
@@ -1337,6 +1345,14 @@
       "onboard_time": 1771239690,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 745892,
+      "num": 216401,
+      "word": "一觉醒来特朗普改新打法了",
+      "onboard_time": 1771637839,
+      "rank": 11,
+      "category": "国际时政"
     },
     {
       "raw_hot": 743532,
@@ -1705,14 +1721,6 @@
       "onboard_time": 1771227742,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 639386,
-      "num": 639386,
-      "word": "王濛说签生死状复出",
-      "onboard_time": 1771636940,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 637255,
@@ -2339,6 +2347,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 499902,
+      "num": 323534,
+      "word": "泡泡玛特创始人送小酒窝盲盒",
+      "onboard_time": 1771640899,
+      "rank": 30,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 499401,
       "num": 804092,
       "word": "Deepseek神回复",
@@ -2843,14 +2859,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 416633,
-      "num": 216401,
-      "word": "一觉醒来特朗普改新打法了",
-      "onboard_time": 1771637839,
-      "rank": 11,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 416343,
       "num": 173724,
       "word": "赖清德被喷溅呕吐物",
@@ -2993,6 +3001,14 @@
       "onboard_time": 1771217903,
       "rank": 30,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 397283,
+      "num": 206218,
+      "word": "贝加尔湖事故",
+      "onboard_time": 1771639341,
+      "rank": 12,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 396317,
@@ -3297,6 +3313,14 @@
       "onboard_time": 1771469838,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 364442,
+      "num": 176005,
+      "word": "不让江山官宣杨洋",
+      "onboard_time": 1771641680,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 362791,
@@ -4092,7 +4116,7 @@
     },
     {
       "raw_hot": 306860,
-      "num": 152048,
+      "num": 162634,
       "word": "这种致癌物在春节很常见",
       "onboard_time": 1771628895,
       "rank": 11,
@@ -4233,14 +4257,6 @@
       "onboard_time": 1771545498,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 294953,
-      "num": 206218,
-      "word": "贝加尔湖事故",
-      "onboard_time": 1771639341,
-      "rank": 12,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 294875,
@@ -4393,6 +4409,14 @@
       "onboard_time": 1771393279,
       "rank": 8,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 286940,
+      "num": 229472,
+      "word": "方大同才二十三MV",
+      "onboard_time": 1771637479,
+      "rank": 9,
+      "category": "音乐"
     },
     {
       "raw_hot": 286847,
@@ -5203,6 +5227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 246193,
+      "num": 145576,
+      "word": "阿勒泰 刘耀文宋亚轩",
+      "onboard_time": 1771642459,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 246055,
       "num": 246055,
       "word": "为什么朋友圈没人秀恩爱了",
@@ -5249,6 +5281,14 @@
       "onboard_time": 1771323021,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 244039,
+      "num": 244039,
+      "word": "苏翊鸣回复徐梦桃小鸣酱随500",
+      "onboard_time": 1771638740,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 243822,
@@ -5553,14 +5593,6 @@
       "onboard_time": 1771314740,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 229472,
-      "num": 229472,
-      "word": "方大同才二十三MV",
-      "onboard_time": 1771637479,
-      "rank": 9,
-      "category": "音乐"
     },
     {
       "raw_hot": 229427,
@@ -6427,14 +6459,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 195143,
-      "num": 195143,
-      "word": "苏翊鸣回复徐梦桃小鸣酱随500",
-      "onboard_time": 1771638740,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
       "raw_hot": 195045,
       "num": 195045,
       "word": "扶老人被交警定次责非法院终局依据",
@@ -7043,14 +7067,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 171305,
-      "num": 92091,
-      "word": "泡泡玛特创始人送小酒窝盲盒",
-      "onboard_time": 1771640899,
-      "rank": 30,
-      "category": "休闲"
-    },
-    {
       "raw_hot": 171005,
       "num": 171005,
       "word": "郭晶晶记不清结婚多少年",
@@ -7515,6 +7531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 157058,
+      "num": 106468,
+      "word": "医院回应女子死亡系自身过敏",
+      "onboard_time": 1771642700,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 157048,
       "num": 157048,
       "word": "谷爱凌第2跳摔倒",
@@ -7537,6 +7561,14 @@
       "onboard_time": 1771334241,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 156384,
+      "num": 156384,
+      "word": "黄景瑜演技",
+      "onboard_time": 1771638560,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 156382,
@@ -7851,6 +7883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 147091,
+      "num": 147091,
+      "word": "飞驰人生3五天破20亿",
+      "onboard_time": 1771641200,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 147030,
       "num": 147030,
       "word": "惊蛰无声 反转",
@@ -8067,6 +8107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 141923,
+      "num": 141923,
+      "word": "巧克力生煎",
+      "onboard_time": 1771638021,
+      "rank": 26,
+      "category": "美食"
+    },
+    {
       "raw_hot": 141567,
       "num": 141567,
       "word": "女子在洗浴中心浴池门口被人录像",
@@ -8281,6 +8329,14 @@
       "onboard_time": 1771599024,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 137135,
+      "num": 137135,
+      "word": "闭眼睡不着算熬夜吗",
+      "onboard_time": 1771642400,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 137104,
@@ -8521,14 +8577,6 @@
       "onboard_time": 1771410800,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 130895,
-      "num": 130895,
-      "word": "黄景瑜演技",
-      "onboard_time": 1771638560,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 130449,
@@ -9169,6 +9217,14 @@
       "onboard_time": 1771125679,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 118469,
+      "num": 118469,
+      "word": "中韩体坛最唯美的爱情",
+      "onboard_time": 1771642281,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 118419,
@@ -9955,14 +10011,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 106522,
-      "num": 106522,
-      "word": "巧克力生煎",
-      "onboard_time": 1771638021,
-      "rank": 26,
-      "category": "美食"
-    },
-    {
       "raw_hot": 106504,
       "num": 106504,
       "word": "苏翊鸣妈妈说这是最好的生日礼物",
@@ -9977,6 +10025,14 @@
       "onboard_time": 1771401021,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 106237,
+      "num": 106237,
+      "word": "谷爱凌李方慧等U型场地冲金",
+      "onboard_time": 1771637900,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 106183,
@@ -10627,14 +10683,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 98695,
-      "num": 98695,
-      "word": "谷爱凌李方慧等U型场地冲金",
-      "onboard_time": 1771637900,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 98653,
       "num": 98653,
       "word": "小狗醒了但是小狗想睡懒觉",
@@ -10751,6 +10799,14 @@
       "num": 148820,
       "word": "林孝埈孙龙刘少昂除夕出战",
       "onboard_time": 1771220842,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 96242,
+      "num": 96242,
+      "word": "王心迪是哈工大力学专业在读博士生",
+      "onboard_time": 1771637300,
       "rank": 28,
       "category": "体育"
     },
@@ -11009,14 +11065,6 @@
       "onboard_time": 1771463239,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 93018,
-      "num": 93018,
-      "word": "王心迪是哈工大力学专业在读博士生",
-      "onboard_time": 1771637300,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 92984,
@@ -11603,20 +11651,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 87222,
+      "num": 87222,
+      "word": "五路财神",
+      "onboard_time": 1771618635,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87186,
       "num": 87186,
       "word": "刘少昂赛后连说好几个遗憾",
       "onboard_time": 1771113919,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 87185,
-      "num": 87185,
-      "word": "五路财神",
-      "onboard_time": 1771618635,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 87170,
@@ -11857,6 +11905,14 @@
       "onboard_time": 1771552818,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 83922,
+      "num": 83922,
+      "word": "父亲偷取压岁钱被10岁儿子起诉",
+      "onboard_time": 1771642459,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 83827,
@@ -12763,6 +12819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 76631,
+      "num": 76631,
+      "word": "王濛直播",
+      "onboard_time": 1771635859,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 76558,
       "num": 201667,
       "word": "蚂蚁阿福16.8红包春节还能领",
@@ -12915,6 +12979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 75452,
+      "num": 75452,
+      "word": "不让江山",
+      "onboard_time": 1771641500,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 75374,
       "num": 75374,
       "word": "初一离家工作爷爷哭了孙子发声",
@@ -13027,14 +13099,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 74657,
-      "num": 74657,
-      "word": "王濛直播",
-      "onboard_time": 1771635859,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 74614,
       "num": 132623,
       "word": "罗小黑这几个人当门神很安心",
@@ -13137,6 +13201,14 @@
       "onboard_time": 1771306700,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 73308,
+      "num": 73308,
+      "word": "白宫确认终止部分关税措施",
+      "onboard_time": 1771638140,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 73227,
@@ -13387,6 +13459,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 71675,
+      "num": 71675,
+      "word": "王楚钦礼貌拒绝签名",
+      "onboard_time": 1771641680,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 71496,
       "num": 71496,
       "word": "医院除夕夜来了12位爆竹炸伤患者",
@@ -13449,14 +13529,6 @@
       "onboard_time": 1771082001,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 71107,
-      "num": 71107,
-      "word": "白宫确认终止部分关税措施",
-      "onboard_time": 1771638140,
-      "rank": 39,
-      "category": "国际时政"
     },
     {
       "raw_hot": 71037,
@@ -13787,6 +13859,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 69099,
+      "num": 69099,
+      "word": "王心迪追徐梦桃很有韧劲",
+      "onboard_time": 1771642340,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 69054,
       "num": 213084,
       "word": "中国游客被困俄罗斯极光村超40小时",
@@ -13897,6 +13977,14 @@
       "onboard_time": 1771144939,
       "rank": 41,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 68354,
+      "num": 68354,
+      "word": "桃心夫妇携手李天马冲金",
+      "onboard_time": 1771643060,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 68273,
@@ -14105,6 +14193,14 @@
       "onboard_time": 1771217722,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 66990,
+      "num": 66990,
+      "word": "王濛谈宁忠岩金牌含金量非常高",
+      "onboard_time": 1771640119,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 66958,
@@ -14585,6 +14681,14 @@
       "onboard_time": 1771638260,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 63008,
+      "num": 67382,
+      "word": "初五为啥又要吃饺子",
+      "onboard_time": 1771639519,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 62935,
@@ -15139,14 +15243,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 57473,
-      "num": 57473,
-      "word": "初五为啥又要吃饺子",
-      "onboard_time": 1771639519,
-      "rank": 49,
-      "category": "美食"
-    },
-    {
       "raw_hot": 57378,
       "num": 125555,
       "word": "四中国选手晋级空中技巧奖牌轮",
@@ -15192,6 +15288,14 @@
       "word": "假期打麻将打到肢体抽搐口吐白沫",
       "onboard_time": 1771421663,
       "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 56996,
+      "num": 75694,
+      "word": "爱老己从学会休息开始",
+      "onboard_time": 1771643240,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -18401,6 +18505,14 @@
       "onboard_time": 1771326023,
       "rank": 9,
       "category": "民生新闻,综艺"
+    },
+    {
+      "raw_hot": 12919,
+      "num": 145597,
+      "word": "特朗普评价鲁比奥慕尼黑表现",
+      "onboard_time": 1771642760,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 12538,
