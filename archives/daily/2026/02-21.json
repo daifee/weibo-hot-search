@@ -1,10 +1,10 @@
 {
   "startTime": 1771603272383,
-  "endTime": 1771653823200,
+  "endTime": 1771656902381,
   "band_list": [
     {
       "raw_hot": 1928940,
-      "num": 651536,
+      "num": 671793,
       "word": "黄晓明回应在澳门输掉十几亿",
       "onboard_time": 1771650199,
       "rank": 3,
@@ -27,20 +27,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1587825,
+      "num": 1587825,
+      "word": "警方通报平顶山打人事件",
+      "onboard_time": 1771652721,
+      "rank": 8,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 1331060,
       "num": 178835,
       "word": "特朗普访华时间",
       "onboard_time": 1771644621,
       "rank": 10,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 1176955,
-      "num": 1188312,
-      "word": "警方通报平顶山打人事件",
-      "onboard_time": 1771652721,
-      "rank": 8,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 1158443,
@@ -107,6 +107,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 605330,
+      "num": 605330,
+      "word": "圣杯八次不中概率",
+      "onboard_time": 1771655898,
+      "rank": 5,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 582367,
+      "num": 207925,
+      "word": "金价",
+      "onboard_time": 1771652960,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 576299,
       "num": 378386,
       "word": "6名消防员坠崖牺牲目击村民发声",
@@ -161,6 +177,14 @@
       "onboard_time": 1771648759,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 424777,
+      "num": 424777,
+      "word": "弟弟没钱但有的是力气和手段",
+      "onboard_time": 1771652000,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 403146,
@@ -315,6 +339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 270968,
+      "num": 93555,
+      "word": "致7人溺亡的贝加尔湖旅游16888元起",
+      "onboard_time": 1771653800,
+      "rank": 49,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 256962,
       "num": 421366,
       "word": "王濛别嗦了蜜了换衣服去比赛",
@@ -324,11 +356,19 @@
     },
     {
       "raw_hot": 252620,
-      "num": 252620,
+      "num": 291540,
       "word": "不让江山女主",
       "onboard_time": 1771648100,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 252262,
+      "num": 133838,
+      "word": "郭晶晶聊带娃读书叹气",
+      "onboard_time": 1771654700,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 244039,
@@ -337,14 +377,6 @@
       "onboard_time": 1771638740,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 238276,
-      "num": 207925,
-      "word": "金价",
-      "onboard_time": 1771652960,
-      "rank": 42,
-      "category": "财经"
     },
     {
       "raw_hot": 238131,
@@ -409,6 +441,14 @@
       "onboard_time": 1771643480,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 197568,
+      "num": 131543,
+      "word": "孟子义沈妙",
+      "onboard_time": 1771654940,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 196293,
@@ -547,6 +587,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 146764,
+      "num": 623611,
+      "word": "家属称平顶山被打女孩处半昏迷",
+      "onboard_time": 1771656079,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 144670,
       "num": 144670,
       "word": "华住回应桔子酒店恐吓女顾客",
@@ -603,6 +651,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 135246,
+      "num": 135246,
+      "word": "镖人里的帅哥是消耗品",
+      "onboard_time": 1771652841,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 134808,
       "num": 134808,
       "word": "中韩体坛最唯美的爱情",
@@ -635,20 +691,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 126351,
-      "num": 103323,
-      "word": "弟弟没钱但有的是力气和手段",
-      "onboard_time": 1771652000,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 125983,
       "num": 125983,
       "word": "江苏这个小品敢拍",
       "onboard_time": 1771599623,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 125599,
+      "num": 114808,
+      "word": "沈佳润有点百搭",
+      "onboard_time": 1771653680,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 123305,
@@ -715,14 +771,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 112284,
-      "num": 107958,
-      "word": "镖人里的帅哥是消耗品",
-      "onboard_time": 1771652841,
-      "rank": 40,
-      "category": "电影"
-    },
-    {
       "raw_hot": 110829,
       "num": 92705,
       "word": "爸爸回应不许家人打扰儿子睡懒觉",
@@ -745,6 +793,30 @@
       "onboard_time": 1771604541,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 107787,
+      "num": 107787,
+      "word": "苏翊鸣下个周期最大目标法国冬奥",
+      "onboard_time": 1771655960,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 107206,
+      "num": 131627,
+      "word": "女子陷美男计拉丈夫当间谍17年",
+      "onboard_time": 1771652480,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 106802,
+      "num": 106802,
+      "word": "李现香港扫街一日游",
+      "onboard_time": 1771656079,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 106237,
@@ -891,6 +963,30 @@
       "category": "情感"
     },
     {
+      "raw_hot": 88579,
+      "num": 88579,
+      "word": "新疆有种美食像极了金元宝",
+      "onboard_time": 1771655719,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 88306,
+      "num": 88306,
+      "word": "男子勇跳粪坑为老婆打捞新年手机",
+      "onboard_time": 1771653081,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 87736,
+      "num": 87736,
+      "word": "镖人4天破5亿",
+      "onboard_time": 1771655598,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 87728,
       "num": 87728,
       "word": "最强大脑变大型分手现场",
@@ -913,6 +1009,14 @@
       "onboard_time": 1771631421,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 86243,
+      "num": 84997,
+      "word": "鹿晗四巡纪录片",
+      "onboard_time": 1771653800,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 86041,
@@ -984,6 +1088,14 @@
       "word": "王橹杰举个旗可以当导游了",
       "onboard_time": 1771653378,
       "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 79473,
+      "num": 79473,
+      "word": "赵美延全额现金购入龙山公寓",
+      "onboard_time": 1771655240,
+      "rank": 40,
       "category": "艺人"
     },
     {
@@ -1091,6 +1203,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 72613,
+      "num": 72613,
+      "word": "湖人战胜快船",
+      "onboard_time": 1771654340,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 72005,
       "num": 72005,
       "word": "惊蛰无声",
@@ -1131,14 +1251,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 70525,
-      "num": 131627,
-      "word": "女子陷美男计拉丈夫当间谍17年",
-      "onboard_time": 1771652480,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 69675,
       "num": 69675,
       "word": "攒了一年的脸面全丢光了",
@@ -1153,14 +1265,6 @@
       "onboard_time": 1771642340,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 69086,
-      "num": 69086,
-      "word": "鹿晗四巡纪录片",
-      "onboard_time": 1771653800,
-      "rank": 45,
-      "category": "演出"
     },
     {
       "raw_hot": 68973,
@@ -1243,12 +1347,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 66520,
+      "num": 66520,
+      "word": "王楚钦王曼昱领衔首日出战",
+      "onboard_time": 1771654399,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 66057,
       "num": 66057,
       "word": "白银重返80美元",
       "onboard_time": 1771601901,
       "rank": 44,
       "category": "财经"
+    },
+    {
+      "raw_hot": 65944,
+      "num": 65944,
+      "word": "高市早苗求和被俄罗斯泼冷水",
+      "onboard_time": 1771656860,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 65821,
@@ -1289,14 +1409,6 @@
       "onboard_time": 1771635441,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 64295,
-      "num": 64295,
-      "word": "致7人溺亡的贝加尔湖旅游16888元起",
-      "onboard_time": 1771653800,
-      "rank": 49,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 63904,
@@ -1540,7 +1652,7 @@
     },
     {
       "raw_hot": 42877,
-      "num": 681282,
+      "num": 694114,
       "word": "马年春节新三样",
       "onboard_time": 1771645879,
       "rank": 2,
@@ -1713,6 +1825,14 @@
       "onboard_time": 1771608196,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 27295,
+      "num": 79591,
+      "word": "男童在上海外滩走失后淡定求助警察",
+      "onboard_time": 1771656560,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26799,
