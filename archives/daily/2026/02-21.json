@@ -1,6 +1,6 @@
 {
   "startTime": 1771603272383,
-  "endTime": 1771670137052,
+  "endTime": 1771671212694,
   "band_list": [
     {
       "raw_hot": 1928940,
@@ -132,11 +132,19 @@
     },
     {
       "raw_hot": 607689,
-      "num": 245596,
+      "num": 356719,
       "word": "黄晓明曝艺人红毯上假摔",
       "onboard_time": 1771661240,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 590762,
+      "num": 1094521,
+      "word": "徐梦桃王心迪李天马出战混团",
+      "onboard_time": 1771666760,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 583972,
@@ -163,14 +171,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 567846,
-      "num": 1090855,
-      "word": "徐梦桃王心迪李天马出战混团",
-      "onboard_time": 1771666760,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
       "raw_hot": 552660,
       "num": 799345,
       "word": "镖人阿育娅 换人",
@@ -187,6 +187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 514602,
+      "num": 168070,
+      "word": "六金郑元松分手",
+      "onboard_time": 1771668799,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 502923,
       "num": 623611,
       "word": "家属称平顶山被打女孩处半昏迷",
@@ -201,14 +209,6 @@
       "onboard_time": 1771640899,
       "rank": 30,
       "category": "休闲"
-    },
-    {
-      "raw_hot": 499265,
-      "num": 128989,
-      "word": "六金郑元松分手",
-      "onboard_time": 1771668799,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 489495,
@@ -235,20 +235,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 457445,
+      "num": 162513,
+      "word": "宋雨琦中韩人脉这一块",
+      "onboard_time": 1771668440,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 449010,
       "num": 213128,
       "word": "苹果史上首款折叠屏手机",
       "onboard_time": 1771650441,
       "rank": 12,
       "category": "数码"
-    },
-    {
-      "raw_hot": 445918,
-      "num": 128598,
-      "word": "宋雨琦中韩人脉这一块",
-      "onboard_time": 1771668440,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 438339,
@@ -379,6 +379,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 336615,
+      "num": 419918,
+      "word": "徐梦桃第一跳81.99分",
+      "onboard_time": 1771668619,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 332958,
       "num": 237653,
       "word": "镖人票房还有救吗",
@@ -467,14 +475,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 282670,
-      "num": 419918,
-      "word": "徐梦桃第一跳81.99分",
-      "onboard_time": 1771668619,
-      "rank": 4,
-      "category": "体育"
-    },
-    {
       "raw_hot": 280085,
       "num": 223801,
       "word": "精装朋友圈的苦",
@@ -547,6 +547,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 251828,
+      "num": 221956,
+      "word": "idle演唱会",
+      "onboard_time": 1771668739,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 244920,
+      "num": 100026,
+      "word": "教练说苏翊鸣夺金后一直想吐",
+      "onboard_time": 1771670599,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 244039,
       "num": 244039,
       "word": "苏翊鸣回复徐梦桃小鸣酱随500",
@@ -571,6 +587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 229705,
+      "num": 147941,
+      "word": "偶遇李昀锐合照",
+      "onboard_time": 1771666700,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 226686,
       "num": 785250,
       "word": "谷爱凌出战冲金",
@@ -585,6 +609,14 @@
       "onboard_time": 1771603880,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 220292,
+      "num": 220292,
+      "word": "陈丽君拍摄镖人时向梁家辉提了个请求",
+      "onboard_time": 1771668199,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 219431,
@@ -683,14 +715,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 190676,
-      "num": 126023,
-      "word": "偶遇李昀锐合照",
-      "onboard_time": 1771666700,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 186748,
       "num": 156981,
       "word": "方家翊整容后小区门禁人脸识别失败",
@@ -771,6 +795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 159983,
+      "num": 159983,
+      "word": "在胖东来排队超4小时顾客发声",
+      "onboard_time": 1771667299,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 158652,
       "num": 149518,
       "word": "医院回应女子死亡系自身过敏",
@@ -803,28 +835,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 148387,
-      "num": 131047,
-      "word": "idle演唱会",
-      "onboard_time": 1771668739,
-      "rank": 17,
-      "category": "演出"
-    },
-    {
       "raw_hot": 147091,
       "num": 147091,
       "word": "飞驰人生3五天破20亿",
       "onboard_time": 1771641200,
       "rank": 18,
       "category": "电影"
-    },
-    {
-      "raw_hot": 145190,
-      "num": 128062,
-      "word": "在胖东来排队超4小时顾客发声",
-      "onboard_time": 1771667299,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 144670,
@@ -931,12 +947,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 130461,
-      "num": 130461,
-      "word": "陈丽君拍摄镖人时向梁家辉提了个请求",
-      "onboard_time": 1771668199,
-      "rank": 18,
-      "category": "电影"
+      "raw_hot": 130650,
+      "num": 130650,
+      "word": "你淡淡的人生顺顺的",
+      "onboard_time": 1771667422,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 127582,
@@ -945,6 +961,14 @@
       "onboard_time": 1771665019,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126320,
+      "num": 175884,
+      "word": "王心迪第一跳116.29分",
+      "onboard_time": 1771670180,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 125983,
@@ -985,14 +1009,6 @@
       "onboard_time": 1771647679,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 119522,
-      "num": 119522,
-      "word": "你淡淡的人生顺顺的",
-      "onboard_time": 1771667422,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 119007,
@@ -1131,6 +1147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 101633,
+      "num": 101633,
+      "word": "李天马第一跳116.74分",
+      "onboard_time": 1771671021,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 101456,
       "num": 101456,
       "word": "谷爱凌进了第三个决赛",
@@ -1161,6 +1185,14 @@
       "onboard_time": 1771648820,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 99901,
+      "num": 99901,
+      "word": "米兰冬奥短道5000接力棒次失误",
+      "onboard_time": 1771669880,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 96689,
@@ -1331,6 +1363,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 86255,
+      "num": 86255,
+      "word": "00后在逛一种很新的博物馆",
+      "onboard_time": 1771670301,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 86243,
       "num": 84997,
       "word": "鹿晗四巡纪录片",
@@ -1369,6 +1409,14 @@
       "onboard_time": 1771602981,
       "rank": 21,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 85682,
+      "num": 85682,
+      "word": "GEN对战BFX",
+      "onboard_time": 1771670959,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 85065,
@@ -1427,6 +1475,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 81090,
+      "num": 81090,
+      "word": "易烊千玺无实物表演被撞",
+      "onboard_time": 1771669519,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 80302,
       "num": 80302,
       "word": "王橹杰举个旗可以当导游了",
@@ -1481,6 +1537,14 @@
       "onboard_time": 1771663699,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 76916,
+      "num": 76916,
+      "word": "第一批返程的人已经堵在高速了",
+      "onboard_time": 1771670479,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 76866,
@@ -1555,6 +1619,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 74577,
+      "num": 74577,
+      "word": "把撒贝宁拍成何以琛了",
+      "onboard_time": 1771671080,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 74046,
       "num": 74046,
       "word": "一栗莎子过年在医院治疗",
@@ -1579,14 +1651,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 73668,
-      "num": 73668,
-      "word": "米兰冬奥短道5000接力棒次失误",
-      "onboard_time": 1771669880,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 73308,
       "num": 73308,
       "word": "白宫确认终止部分关税措施",
@@ -1601,14 +1665,6 @@
       "onboard_time": 1771569500,
       "rank": 37,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 72770,
-      "num": 72770,
-      "word": "易烊千玺无实物表演被撞",
-      "onboard_time": 1771669519,
-      "rank": 45,
-      "category": "电影"
     },
     {
       "raw_hot": 72698,
@@ -2379,6 +2435,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 33564,
+      "num": 82558,
+      "word": "全网都在帮济南找鳌鱼",
+      "onboard_time": 1771671021,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33424,
       "num": 33424,
       "word": "杨婧茹半决赛小组第一",
@@ -2409,6 +2473,14 @@
       "onboard_time": 1771615155,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 30084,
+      "num": 130382,
+      "word": "外地游客凌晨3点到胖东来排队",
+      "onboard_time": 1771669880,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29813,
@@ -2467,11 +2539,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23868,
+      "num": 75380,
+      "word": "小孩哥祭祖求打游戏没作业被当场驳回",
+      "onboard_time": 1771669880,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22719,
       "num": 95822,
       "word": "这届年轻人为了发财什么都能干出来",
       "onboard_time": 1771658540,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21891,
+      "num": 74925,
+      "word": "济南鳌鱼飞走了",
+      "onboard_time": 1771669880,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -2547,14 +2635,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 14225,
-      "num": 74925,
-      "word": "济南鳌鱼飞走了",
-      "onboard_time": 1771669880,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 13353,
       "num": 19498,
       "word": "齐广璞说可以放心的离开了",
@@ -2577,22 +2657,6 @@
       "onboard_time": 1771644680,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 9231,
-      "num": 130382,
-      "word": "外地游客凌晨3点到胖东来排队",
-      "onboard_time": 1771669880,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 8667,
-      "num": 75380,
-      "word": "小孩哥祭祖求打游戏没作业被当场驳回",
-      "onboard_time": 1771669880,
-      "rank": 37,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

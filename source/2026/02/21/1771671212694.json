@@ -1,0 +1,410 @@
+{
+  "runTime": 1771671212694,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 590762,
+        "num": 1094521,
+        "word": "徐梦桃王心迪李天马出战混团",
+        "onboard_time": 1771666760,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 428112,
+        "num": 776486,
+        "word": "舅舅送外甥女30斤银砖当压岁钱",
+        "onboard_time": 1771660999,
+        "rank": 1,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 64604,
+        "num": 625486,
+        "word": "多地气温断崖式下跌",
+        "onboard_time": 1771661541,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 356719,
+        "num": 356719,
+        "word": "黄晓明曝艺人红毯上假摔",
+        "onboard_time": 1771661240,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 336615,
+        "num": 336615,
+        "word": "徐梦桃第一跳81.99分",
+        "onboard_time": 1771668619,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 278466,
+        "num": 278466,
+        "word": "刘涛演妈祖 三次圣杯",
+        "onboard_time": 1771644860,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 245035,
+        "num": 245035,
+        "word": "烤肠商战",
+        "onboard_time": 1771663519,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 225686,
+        "num": 225686,
+        "word": "我家那小子",
+        "onboard_time": 1771664240,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153406,
+        "num": 224788,
+        "word": "镖人阿育娅 换人",
+        "onboard_time": 1771660880,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 147412,
+        "num": 224541,
+        "word": "回村后用的都是名牌货",
+        "onboard_time": 1771660820,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 811703,
+        "num": 223096,
+        "word": "黄晓明回应在澳门输掉十几亿",
+        "onboard_time": 1771650199,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 266932,
+        "num": 222371,
+        "word": "精装朋友圈的苦",
+        "onboard_time": 1771663820,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 251828,
+        "num": 221956,
+        "word": "idle演唱会",
+        "onboard_time": 1771668739,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 232847,
+        "num": 221179,
+        "word": "王濛批评短道合理吗",
+        "onboard_time": 1771658781,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 220292,
+        "num": 220292,
+        "word": "陈丽君拍摄镖人时向梁家辉提了个请求",
+        "onboard_time": 1771668199,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 193879,
+        "num": 193879,
+        "word": "金价",
+        "onboard_time": 1771652960,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 187700,
+        "num": 187700,
+        "word": "00后月租200住养老院2年",
+        "onboard_time": 1771662621,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176931,
+        "num": 176931,
+        "word": "鹿晗编脏辫可以不洗",
+        "onboard_time": 1771663399,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 126320,
+        "num": 175884,
+        "word": "王心迪第一跳116.29分",
+        "onboard_time": 1771670180,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102926,
+        "num": 170228,
+        "word": "北京沙尘暴",
+        "onboard_time": 1771662020,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 514602,
+        "num": 168070,
+        "word": "六金郑元松分手",
+        "onboard_time": 1771668799,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 457445,
+        "num": 162513,
+        "word": "宋雨琦中韩人脉这一块",
+        "onboard_time": 1771668440,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159983,
+        "num": 159983,
+        "word": "在胖东来排队超4小时顾客发声",
+        "onboard_time": 1771667299,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229705,
+        "num": 147941,
+        "word": "偶遇李昀锐合照",
+        "onboard_time": 1771666700,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204011,
+        "num": 144471,
+        "word": "白鹿发了37张照片",
+        "onboard_time": 1771663699,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130650,
+        "num": 130650,
+        "word": "你淡淡的人生顺顺的",
+        "onboard_time": 1771667422,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 108695,
+        "num": 108695,
+        "word": "杭州天下第一财神庙幽默劝返",
+        "onboard_time": 1771665019,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101633,
+        "num": 101633,
+        "word": "李天马第一跳116.74分",
+        "onboard_time": 1771671021,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30084,
+        "num": 100246,
+        "word": "外地游客凌晨3点到胖东来排队",
+        "onboard_time": 1771669880,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74067,
+        "num": 100052,
+        "word": "大年初五民众打卡财政部",
+        "onboard_time": 1771667422,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 244920,
+        "num": 100026,
+        "word": "教练说苏翊鸣夺金后一直想吐",
+        "onboard_time": 1771670599,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99901,
+        "num": 99901,
+        "word": "米兰冬奥短道5000接力棒次失误",
+        "onboard_time": 1771669880,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99529,
+        "num": 99529,
+        "word": "沈腾这下不怕票房被黄渤超过了",
+        "onboard_time": 1771657640,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 92543,
+        "num": 92543,
+        "word": "肖战杀青回北京",
+        "onboard_time": 1771659501,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90909,
+        "num": 90909,
+        "word": "苹果史上首款折叠屏手机",
+        "onboard_time": 1771650441,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 91516,
+        "num": 89728,
+        "word": "镖人票房还有救吗",
+        "onboard_time": 1771663399,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 86255,
+        "num": 86255,
+        "word": "00后在逛一种很新的博物馆",
+        "onboard_time": 1771670301,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 85682,
+        "num": 85682,
+        "word": "GEN对战BFX",
+        "onboard_time": 1771670959,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 83326,
+        "num": 83326,
+        "word": "第一次见识人丁兴旺",
+        "onboard_time": 1771665320,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 33564,
+        "num": 82558,
+        "word": "全网都在帮济南找鳌鱼",
+        "onboard_time": 1771671021,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82553,
+        "num": 82553,
+        "word": "张集骏进组将门毒后",
+        "onboard_time": 1771668139,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 81111,
+        "num": 81111,
+        "word": "香港公布宏福苑长远居住安排方案",
+        "onboard_time": 1771666100,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81090,
+        "num": 81090,
+        "word": "易烊千玺无实物表演被撞",
+        "onboard_time": 1771669519,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 76916,
+        "num": 76916,
+        "word": "第一批返程的人已经堵在高速了",
+        "onboard_time": 1771670479,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76120,
+        "num": 76120,
+        "word": "孟子义沈妙",
+        "onboard_time": 1771654940,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74577,
+        "num": 74577,
+        "word": "把撒贝宁拍成何以琛了",
+        "onboard_time": 1771671080,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62456,
+        "num": 74567,
+        "word": "特朗普自嘲是历史上最傻的总统",
+        "onboard_time": 1771664541,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 23868,
+        "num": 74565,
+        "word": "小孩哥祭祖求打游戏没作业被当场驳回",
+        "onboard_time": 1771669880,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21891,
+        "num": 74554,
+        "word": "济南鳌鱼飞走了",
+        "onboard_time": 1771669880,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70752,
+        "num": 74546,
+        "word": "沙尘暴",
+        "onboard_time": 1771660160,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#老胡同里的新生活#"
+    }
+  }
+}
