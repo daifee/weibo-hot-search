@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1771643372419,
+  "endTime": 1771649037391,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -1267,6 +1267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1331060,
+      "num": 148250,
+      "word": "特朗普访华时间",
+      "onboard_time": 1771644621,
+      "rank": 10,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1327331,
       "num": 278042,
       "word": "祝贺老将徐梦桃",
@@ -1649,6 +1657,14 @@
       "onboard_time": 1771473980,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1134811,
+      "num": 628596,
+      "word": "刘涛演妈祖 三次圣杯",
+      "onboard_time": 1771644860,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 1132809,
@@ -5937,6 +5953,14 @@
       "onboard_time": 1769902097,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 523496,
+      "num": 148123,
+      "word": "姚晨丢掉妈妈过期药品被骂了3天",
+      "onboard_time": 1771646839,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 523494,
@@ -10387,6 +10411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 346883,
+      "num": 346883,
+      "word": "慈母多败咪",
+      "onboard_time": 1771647019,
+      "rank": 6,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 346814,
       "num": 195479,
       "word": "我和papi酱的愿望是一样的",
@@ -11667,6 +11699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 316378,
+      "num": 147635,
+      "word": "关晓彤我长大了不能被骗了",
+      "onboard_time": 1771647320,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 316304,
       "num": 316304,
       "word": "看完惊蛰无声想掏垃圾桶",
@@ -12251,6 +12291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 306160,
+      "num": 145576,
+      "word": "阿勒泰 刘耀文宋亚轩",
+      "onboard_time": 1771642459,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 305879,
       "num": 263262,
       "word": "J人已经买好27年的过年机票",
@@ -12593,6 +12641,14 @@
       "onboard_time": 1770870200,
       "rank": 4,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 298017,
+      "num": 146944,
+      "word": "曝那艺娜偷税漏税",
+      "onboard_time": 1771644680,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 297977,
@@ -15547,6 +15603,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 247170,
+      "num": 421366,
+      "word": "王濛别嗦了蜜了换衣服去比赛",
+      "onboard_time": 1771645999,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 247146,
       "num": 925806,
       "word": "米兰开幕式 好正常好好看",
@@ -15617,14 +15681,6 @@
       "onboard_time": 1770978559,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 246193,
-      "num": 145576,
-      "word": "阿勒泰 刘耀文宋亚轩",
-      "onboard_time": 1771642459,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 246092,
@@ -17707,6 +17763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 217482,
+      "num": 141337,
+      "word": "牢A解释中国人游泳夺冠美国人破防",
+      "onboard_time": 1771647019,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 217436,
       "num": 217436,
       "word": "张婧仪 我记得你的姓",
@@ -17865,6 +17929,14 @@
       "onboard_time": 1770568518,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 215404,
+      "num": 95879,
+      "word": "这2种饮料混着喝或永久损伤大脑",
+      "onboard_time": 1771648401,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 215292,
@@ -19899,6 +19971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 189149,
+      "num": 189149,
+      "word": "不让江山女主",
+      "onboard_time": 1771648100,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189119,
       "num": 300546,
       "word": "米兰冬奥主火炬点燃",
@@ -21475,6 +21555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 171412,
+      "num": 171412,
+      "word": "姐姐回应22岁小伙烫大波浪被质疑",
+      "onboard_time": 1771643480,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 171408,
       "num": 131284,
       "word": "女子回应回娘家只需1秒钟",
@@ -22715,6 +22803,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 158652,
+      "num": 146040,
+      "word": "医院回应女子死亡系自身过敏",
+      "onboard_time": 1771642700,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 158589,
       "num": 155848,
       "word": "赵丽颖王源也是当上门神了",
@@ -22857,14 +22953,6 @@
       "onboard_time": 1770184580,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 157058,
-      "num": 106468,
-      "word": "医院回应女子死亡系自身过敏",
-      "onboard_time": 1771642700,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 157048,
@@ -23603,6 +23691,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 150917,
+      "num": 141131,
+      "word": "金饰价涨到1598元",
+      "onboard_time": 1771648700,
+      "rank": 22,
+      "category": "财经"
+    },
+    {
       "raw_hot": 150900,
       "num": 150900,
       "word": "王昶钱天一是00后",
@@ -23985,6 +24081,14 @@
       "onboard_time": 1770855680,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 148457,
+      "num": 148457,
+      "word": "古言三巨头",
+      "onboard_time": 1771645939,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 148435,
@@ -26169,6 +26273,14 @@
       "onboard_time": 1770989301,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 134808,
+      "num": 134808,
+      "word": "中韩体坛最唯美的爱情",
+      "onboard_time": 1771642281,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 134727,
@@ -28571,6 +28683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121535,
+      "num": 121535,
+      "word": "林孝埈采访",
+      "onboard_time": 1771647679,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121510,
       "num": 113216,
       "word": "陈平自曝和韦雪前男友做朋友的原因",
@@ -29227,20 +29347,20 @@
       "category": "网红"
     },
     {
-      "raw_hot": 118469,
-      "num": 118469,
-      "word": "中韩体坛最唯美的爱情",
-      "onboard_time": 1771642281,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 118428,
       "num": 118428,
       "word": "时代少年团回应时代峰峻团建",
       "onboard_time": 1770542480,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 118425,
+      "num": 118425,
+      "word": "齐天大圣烟花",
+      "onboard_time": 1771645461,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 118419,
@@ -32209,6 +32329,14 @@
       "onboard_time": 1770697940,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 107355,
+      "num": 95493,
+      "word": "谷爱凌出战冲金",
+      "onboard_time": 1771648039,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 107353,
@@ -35521,6 +35649,14 @@
       "onboard_time": 1770785359,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 97320,
+      "num": 97320,
+      "word": "韩维辰硬刚wk1",
+      "onboard_time": 1771648759,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 97289,
@@ -43123,6 +43259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 77598,
+      "num": 77598,
+      "word": "起猛了这下碰到真财神了",
+      "onboard_time": 1771648999,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 77544,
       "num": 118656,
       "word": "00后的拜年串门新方式",
@@ -43953,6 +44097,14 @@
       "onboard_time": 1771595002,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 75508,
+      "num": 75508,
+      "word": "人形机器人",
+      "onboard_time": 1771646600,
+      "rank": 37,
+      "category": "财经"
     },
     {
       "raw_hot": 75506,
@@ -46283,6 +46435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 68322,
+      "num": 68322,
+      "word": "黄晓明红包",
+      "onboard_time": 1771645999,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 68273,
       "num": 103693,
       "word": "没有真正小众的东西",
@@ -47235,6 +47395,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 65062,
+      "num": 65062,
+      "word": "无父母参与年轻人装修的家",
+      "onboard_time": 1771647199,
+      "rank": 41,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 65059,
       "num": 65059,
       "word": "四川宜宾文旅上大分",
@@ -47473,6 +47641,14 @@
       "onboard_time": 1771390039,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 64376,
+      "num": 64376,
+      "word": "沈腾有望成首位主演票房破400亿演员",
+      "onboard_time": 1771648820,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 64371,
@@ -49003,6 +49179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 58330,
+      "num": 58330,
+      "word": "贝加尔湖事故有很多中国人参与救援",
+      "onboard_time": 1771648999,
+      "rank": 46,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 58323,
       "num": 118725,
       "word": "一觉醒来中国队再夺一金",
@@ -49235,6 +49419,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 56910,
+      "num": 56910,
+      "word": "奶奶养的小猫",
+      "onboard_time": 1771648999,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 56839,
       "num": 82519,
       "word": "男子用妻子生日号中2个千万大奖",
@@ -49273,6 +49465,14 @@
       "onboard_time": 1771218443,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 56696,
+      "num": 56696,
+      "word": "惊蛰无声这些取景地爆火出圈了",
+      "onboard_time": 1771648999,
+      "rank": 48,
+      "category": "旅游,电影"
     },
     {
       "raw_hot": 56663,
@@ -49705,6 +49905,14 @@
       "onboard_time": 1771310721,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 54380,
+      "num": 56388,
+      "word": "你好星期六",
+      "onboard_time": 1771648459,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 54363,
@@ -52833,6 +53041,14 @@
       "onboard_time": 1770633201,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39408,
+      "num": 646344,
+      "word": "马年春节新三样",
+      "onboard_time": 1771645879,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 39262,
@@ -60303,6 +60519,9 @@
     },
     {
       "word": "#千年文脉川流不息#"
+    },
+    {
+      "word": "#老胡同里的新生活#"
     }
   ]
 }
