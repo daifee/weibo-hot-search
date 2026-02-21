@@ -1,10 +1,10 @@
 {
   "startTime": 1771603272383,
-  "endTime": 1771653004623,
+  "endTime": 1771653823200,
   "band_list": [
     {
-      "raw_hot": 1885435,
-      "num": 494521,
+      "raw_hot": 1928940,
+      "num": 651536,
       "word": "黄晓明回应在澳门输掉十几亿",
       "onboard_time": 1771650199,
       "rank": 3,
@@ -33,6 +33,14 @@
       "onboard_time": 1771644621,
       "rank": 10,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1176955,
+      "num": 1188312,
+      "word": "警方通报平顶山打人事件",
+      "onboard_time": 1771652721,
+      "rank": 8,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 1158443,
@@ -84,7 +92,7 @@
     },
     {
       "raw_hot": 628940,
-      "num": 173453,
+      "num": 209409,
       "word": "姚晨丢掉妈妈过期药品被骂了3天",
       "onboard_time": 1771646839,
       "rank": 11,
@@ -139,20 +147,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 428966,
-      "num": 164191,
-      "word": "韩维辰硬刚wk1",
-      "onboard_time": 1771648759,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 421612,
-      "num": 161177,
+      "raw_hot": 449010,
+      "num": 213128,
       "word": "苹果史上首款折叠屏手机",
       "onboard_time": 1771650441,
       "rank": 12,
       "category": "数码"
+    },
+    {
+      "raw_hot": 428966,
+      "num": 211410,
+      "word": "韩维辰硬刚wk1",
+      "onboard_time": 1771648759,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 403146,
@@ -172,7 +180,7 @@
     },
     {
       "raw_hot": 374486,
-      "num": 170161,
+      "num": 206729,
       "word": "关晓彤我长大了不能被骗了",
       "onboard_time": 1771647320,
       "rank": 12,
@@ -275,6 +283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 292300,
+      "num": 223085,
+      "word": "终于有人懂牛奶包装设计师了",
+      "onboard_time": 1771649121,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 289707,
       "num": 289707,
       "word": "沈娇娇是个眼圆脸圆的甜妹",
@@ -297,14 +313,6 @@
       "onboard_time": 1771591041,
       "rank": 10,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 258348,
-      "num": 188995,
-      "word": "终于有人懂牛奶包装设计师了",
-      "onboard_time": 1771649121,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 256962,
@@ -331,6 +339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 238276,
+      "num": 207925,
+      "word": "金价",
+      "onboard_time": 1771652960,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 238131,
       "num": 238131,
       "word": "中国游客赴日人数暴跌日媒回应没影响",
@@ -339,7 +355,7 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 223730,
+      "raw_hot": 226686,
       "num": 785250,
       "word": "谷爱凌出战冲金",
       "onboard_time": 1771648039,
@@ -451,14 +467,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 174264,
-      "num": 174264,
-      "word": "警方通报平顶山打人事件",
-      "onboard_time": 1771652721,
-      "rank": 8,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 173887,
       "num": 173887,
       "word": "目击者还原车辆坠贝加尔湖经过",
@@ -491,6 +499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 166037,
+      "num": 166037,
+      "word": "贝加尔湖事故有很多中国人参与救援",
+      "onboard_time": 1771648999,
+      "rank": 46,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 158652,
       "num": 149518,
       "word": "医院回应女子死亡系自身过敏",
@@ -521,14 +537,6 @@
       "onboard_time": 1771601002,
       "rank": 16,
       "category": "美食"
-    },
-    {
-      "raw_hot": 151626,
-      "num": 151626,
-      "word": "贝加尔湖事故有很多中国人参与救援",
-      "onboard_time": 1771648999,
-      "rank": 46,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 147091,
@@ -627,6 +635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 126351,
+      "num": 103323,
+      "word": "弟弟没钱但有的是力气和手段",
+      "onboard_time": 1771652000,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 125983,
       "num": 125983,
       "word": "江苏这个小品敢拍",
@@ -683,12 +699,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116302,
+      "num": 112826,
+      "word": "要被张凌赫的早期回复笑鼠",
+      "onboard_time": 1771651701,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 112564,
       "num": 112564,
       "word": "奖牌榜",
       "onboard_time": 1771596263,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 112284,
+      "num": 107958,
+      "word": "镖人里的帅哥是消耗品",
+      "onboard_time": 1771652841,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 110829,
@@ -705,14 +737,6 @@
       "onboard_time": 1771649300,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 110133,
-      "num": 103323,
-      "word": "弟弟没钱但有的是力气和手段",
-      "onboard_time": 1771652000,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 109903,
@@ -779,14 +803,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 101034,
-      "num": 101034,
-      "word": "要被张凌赫的早期回复笑鼠",
-      "onboard_time": 1771651701,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 100178,
       "num": 100178,
       "word": "成何体统",
@@ -825,6 +841,14 @@
       "onboard_time": 1771599682,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 94336,
+      "num": 94336,
+      "word": "不让江山",
+      "onboard_time": 1771641500,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 92984,
@@ -947,14 +971,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 82802,
-      "num": 82802,
-      "word": "镖人里的帅哥是消耗品",
-      "onboard_time": 1771652841,
-      "rank": 40,
-      "category": "电影"
-    },
-    {
       "raw_hot": 82514,
       "num": 82514,
       "word": "曹颖回应卖房争议",
@@ -963,20 +979,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 80840,
-      "num": 80840,
-      "word": "金价",
-      "onboard_time": 1771652960,
-      "rank": 42,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 79574,
-      "num": 79574,
-      "word": "不让江山",
-      "onboard_time": 1771641500,
-      "rank": 40,
-      "category": "剧集"
+      "raw_hot": 80302,
+      "num": 80302,
+      "word": "王橹杰举个旗可以当导游了",
+      "onboard_time": 1771653378,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 79130,
@@ -1123,6 +1131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 70525,
+      "num": 131627,
+      "word": "女子陷美男计拉丈夫当间谍17年",
+      "onboard_time": 1771652480,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69675,
       "num": 69675,
       "word": "攒了一年的脸面全丢光了",
@@ -1137,6 +1153,14 @@
       "onboard_time": 1771642340,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 69086,
+      "num": 69086,
+      "word": "鹿晗四巡纪录片",
+      "onboard_time": 1771653800,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 68973,
@@ -1171,12 +1195,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 67600,
+      "num": 67600,
+      "word": "建议纳入北影教材",
+      "onboard_time": 1771650320,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 67533,
       "num": 67533,
       "word": "男子称医院未采取急救措施致妻子死亡",
       "onboard_time": 1771633640,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 67496,
+      "num": 67496,
+      "word": "王者终于又出新打野了",
+      "onboard_time": 1771651521,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 67495,
@@ -1227,6 +1267,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 64972,
+      "num": 64972,
+      "word": "现在的碰碰车都发展成这样了",
+      "onboard_time": 1771650559,
+      "rank": 48,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 64923,
       "num": 65771,
       "word": "杨幂带火吊带条纹长裙",
@@ -1241,6 +1289,14 @@
       "onboard_time": 1771635441,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 64295,
+      "num": 64295,
+      "word": "致7人溺亡的贝加尔湖旅游16888元起",
+      "onboard_time": 1771653800,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 63904,
@@ -1419,6 +1475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 49242,
+      "num": 81029,
+      "word": "女子食物被盗后吃上警察叔叔的饭",
+      "onboard_time": 1771653620,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48851,
       "num": 133360,
       "word": "为什么各地初五迎的财神不一样",
@@ -1476,7 +1540,7 @@
     },
     {
       "raw_hot": 42877,
-      "num": 646344,
+      "num": 681282,
       "word": "马年春节新三样",
       "onboard_time": 1771645879,
       "rank": 2,
@@ -1689,14 +1753,6 @@
       "onboard_time": 1771626735,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 19816,
-      "num": 131627,
-      "word": "女子陷美男计拉丈夫当间谍17年",
-      "onboard_time": 1771652480,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 19238,

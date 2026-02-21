@@ -1,0 +1,410 @@
+{
+  "runTime": 1771653823200,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1176955,
+        "num": 1188312,
+        "word": "警方通报平顶山打人事件",
+        "onboard_time": 1771652721,
+        "rank": 0,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 446567,
+        "num": 878453,
+        "word": "王濛说签生死状复出",
+        "onboard_time": 1771636940,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35926,
+        "num": 681282,
+        "word": "马年春节新三样",
+        "onboard_time": 1771645879,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1928940,
+        "num": 651536,
+        "word": "黄晓明回应在澳门输掉十几亿",
+        "onboard_time": 1771650199,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 226686,
+        "num": 226686,
+        "word": "谷爱凌出战冲金",
+        "onboard_time": 1771648039,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 609153,
+        "num": 224406,
+        "word": "刘涛演妈祖 三次圣杯",
+        "onboard_time": 1771644860,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 292300,
+        "num": 223085,
+        "word": "终于有人懂牛奶包装设计师了",
+        "onboard_time": 1771649121,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 219876,
+        "num": 219876,
+        "word": "慈母多败咪",
+        "onboard_time": 1771647019,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 216495,
+        "num": 216495,
+        "word": "不让江山女主",
+        "onboard_time": 1771648100,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146445,
+        "num": 215863,
+        "word": "迎财神",
+        "onboard_time": 1771600401,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 503604,
+        "num": 213644,
+        "word": "那艺娜劣迹艺人",
+        "onboard_time": 1771631538,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 449010,
+        "num": 213128,
+        "word": "苹果史上首款折叠屏手机",
+        "onboard_time": 1771650441,
+        "rank": 11,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 395334,
+        "num": 211410,
+        "word": "韩维辰硬刚wk1",
+        "onboard_time": 1771648759,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 357953,
+        "num": 209409,
+        "word": "姚晨丢掉妈妈过期药品被骂了3天",
+        "onboard_time": 1771646839,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238276,
+        "num": 207925,
+        "word": "金价",
+        "onboard_time": 1771652960,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 206729,
+        "num": 206729,
+        "word": "关晓彤我长大了不能被骗了",
+        "onboard_time": 1771647320,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166037,
+        "num": 166037,
+        "word": "贝加尔湖事故有很多中国人参与救援",
+        "onboard_time": 1771648999,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 134601,
+        "num": 134601,
+        "word": "曝那艺娜偷税漏税",
+        "onboard_time": 1771644680,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129619,
+        "num": 129619,
+        "word": "一觉醒来特朗普改新打法了",
+        "onboard_time": 1771637839,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 113019,
+        "num": 113019,
+        "word": "王濛别嗦了蜜了换衣服去比赛",
+        "onboard_time": 1771645999,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200330,
+        "num": 112999,
+        "word": "阿勒泰 刘耀文宋亚轩",
+        "onboard_time": 1771642459,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184441,
+        "num": 112900,
+        "word": "这2种饮料混着喝或永久损伤大脑",
+        "onboard_time": 1771648401,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 152785,
+        "num": 112850,
+        "word": "金饰价涨到1598元",
+        "onboard_time": 1771648700,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 116302,
+        "num": 112826,
+        "word": "要被张凌赫的早期回复笑鼠",
+        "onboard_time": 1771651701,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112777,
+        "num": 112777,
+        "word": "古言三巨头",
+        "onboard_time": 1771645939,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111327,
+        "num": 111327,
+        "word": "泡泡玛特创始人送小酒窝盲盒",
+        "onboard_time": 1771640899,
+        "rank": 25,
+        "category": "休闲,艺人"
+      },
+      {
+        "raw_hot": 112284,
+        "num": 107958,
+        "word": "镖人里的帅哥是消耗品",
+        "onboard_time": 1771652841,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 100014,
+        "num": 100014,
+        "word": "过年减肥规则怪谈",
+        "onboard_time": 1771649900,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 99567,
+        "num": 99567,
+        "word": "方大同才二十三MV",
+        "onboard_time": 1771637479,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 90179,
+        "num": 95446,
+        "word": "王濛现场观赛生气了",
+        "onboard_time": 1771636940,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126351,
+        "num": 95157,
+        "word": "弟弟没钱但有的是力气和手段",
+        "onboard_time": 1771652000,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 94336,
+        "num": 94336,
+        "word": "不让江山",
+        "onboard_time": 1771641500,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92064,
+        "num": 92064,
+        "word": "沈腾有望成首位主演票房破400亿演员",
+        "onboard_time": 1771648820,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 89965,
+        "num": 89965,
+        "word": "医院回应女子死亡系自身过敏",
+        "onboard_time": 1771642700,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 90170,
+        "num": 89064,
+        "word": "王牌对王牌",
+        "onboard_time": 1771649300,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 70525,
+        "num": 87627,
+        "word": "女子陷美男计拉丈夫当间谍17年",
+        "onboard_time": 1771652480,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86232,
+        "num": 86232,
+        "word": "贝加尔湖事故车贴着冰裂缝驶过",
+        "onboard_time": 1771651101,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 85288,
+        "num": 85288,
+        "word": "牢A解释中国人游泳夺冠美国人破防",
+        "onboard_time": 1771647019,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85100,
+        "num": 85100,
+        "word": "不让江山官宣杨洋",
+        "onboard_time": 1771641680,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49242,
+        "num": 81029,
+        "word": "女子食物被盗后吃上警察叔叔的饭",
+        "onboard_time": 1771653620,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80816,
+        "num": 80816,
+        "word": "打开朋友圈以为到了天庭",
+        "onboard_time": 1771650199,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 80302,
+        "num": 80302,
+        "word": "王橹杰举个旗可以当导游了",
+        "onboard_time": 1771653378,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79728,
+        "num": 79728,
+        "word": "中韩体坛最唯美的爱情",
+        "onboard_time": 1771642281,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 72296,
+        "num": 72296,
+        "word": "林孝埈采访",
+        "onboard_time": 1771647679,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71065,
+        "num": 71065,
+        "word": "正月初五接财神",
+        "onboard_time": 1771605441,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69086,
+        "num": 69086,
+        "word": "鹿晗四巡纪录片",
+        "onboard_time": 1771653800,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 67600,
+        "num": 67600,
+        "word": "建议纳入北影教材",
+        "onboard_time": 1771650320,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 67496,
+        "num": 67496,
+        "word": "王者终于又出新打野了",
+        "onboard_time": 1771651521,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 64972,
+        "num": 64972,
+        "word": "现在的碰碰车都发展成这样了",
+        "onboard_time": 1771650559,
+        "rank": 48,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 64295,
+        "num": 64295,
+        "word": "致7人溺亡的贝加尔湖旅游16888元起",
+        "onboard_time": 1771653800,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#老胡同里的新生活#"
+    }
+  }
+}
