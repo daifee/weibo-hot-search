@@ -1,6 +1,6 @@
 {
   "startTime": 1771603272383,
-  "endTime": 1771667691079,
+  "endTime": 1771670137052,
   "band_list": [
     {
       "raw_hot": 1928940,
@@ -163,6 +163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 567846,
+      "num": 1090855,
+      "word": "徐梦桃王心迪李天马出战混团",
+      "onboard_time": 1771666760,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 552660,
       "num": 799345,
       "word": "镖人阿育娅 换人",
@@ -195,6 +203,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 499265,
+      "num": 128989,
+      "word": "六金郑元松分手",
+      "onboard_time": 1771668799,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 489495,
       "num": 493387,
       "word": "将门独后 天崩开局",
@@ -225,6 +241,14 @@
       "onboard_time": 1771650441,
       "rank": 12,
       "category": "数码"
+    },
+    {
+      "raw_hot": 445918,
+      "num": 128598,
+      "word": "宋雨琦中韩人脉这一块",
+      "onboard_time": 1771668440,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 438339,
@@ -435,19 +459,27 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 285838,
-      "num": 285838,
-      "word": "徐梦桃王心迪李天马出战混团",
-      "onboard_time": 1771666760,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
       "raw_hot": 284148,
       "num": 284148,
       "word": "初一到初五我的精神状态",
       "onboard_time": 1771659440,
       "rank": 31,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 282670,
+      "num": 419918,
+      "word": "徐梦桃第一跳81.99分",
+      "onboard_time": 1771668619,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 280085,
+      "num": 223801,
+      "word": "精装朋友圈的苦",
+      "onboard_time": 1771663820,
+      "rank": 41,
       "category": "幽默"
     },
     {
@@ -473,14 +505,6 @@
       "onboard_time": 1771659440,
       "rank": 33,
       "category": "电影"
-    },
-    {
-      "raw_hot": 271812,
-      "num": 223801,
-      "word": "精装朋友圈的苦",
-      "onboard_time": 1771663820,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 267537,
@@ -659,6 +683,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 190676,
+      "num": 126023,
+      "word": "偶遇李昀锐合照",
+      "onboard_time": 1771666700,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186748,
       "num": 156981,
       "word": "方家翊整容后小区门禁人脸识别失败",
@@ -771,12 +803,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 148387,
+      "num": 131047,
+      "word": "idle演唱会",
+      "onboard_time": 1771668739,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 147091,
       "num": 147091,
       "word": "飞驰人生3五天破20亿",
       "onboard_time": 1771641200,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 145190,
+      "num": 128062,
+      "word": "在胖东来排队超4小时顾客发声",
+      "onboard_time": 1771667299,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 144670,
@@ -883,6 +931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 130461,
+      "num": 130461,
+      "word": "陈丽君拍摄镖人时向梁家辉提了个请求",
+      "onboard_time": 1771668199,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 127582,
       "num": 127582,
       "word": "杭州天下第一财神庙幽默劝返",
@@ -931,12 +987,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 120555,
-      "num": 120555,
-      "word": "在胖东来排队超4小时顾客发声",
-      "onboard_time": 1771667299,
-      "rank": 27,
-      "category": "民生新闻"
+      "raw_hot": 119522,
+      "num": 119522,
+      "word": "你淡淡的人生顺顺的",
+      "onboard_time": 1771667422,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 119007,
@@ -976,14 +1032,6 @@
       "word": "要被张凌赫的早期回复笑鼠",
       "onboard_time": 1771651701,
       "rank": 32,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 113411,
-      "num": 113411,
-      "word": "偶遇李昀锐合照",
-      "onboard_time": 1771666700,
-      "rank": 48,
       "category": "艺人"
     },
     {
@@ -1171,14 +1219,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 92259,
-      "num": 92259,
-      "word": "你淡淡的人生顺顺的",
-      "onboard_time": 1771667422,
-      "rank": 36,
-      "category": "情感"
-    },
-    {
       "raw_hot": 90908,
       "num": 90908,
       "word": "中国队男子5000米接力B组第一",
@@ -1209,6 +1249,14 @@
       "onboard_time": 1771640300,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 88971,
+      "num": 88971,
+      "word": "张集骏进组将门毒后",
+      "onboard_time": 1771668139,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 88942,
@@ -1329,6 +1377,14 @@
       "onboard_time": 1771652599,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 84318,
+      "num": 219512,
+      "word": "大年初五民众打卡财政部",
+      "onboard_time": 1771667422,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 84158,
@@ -1459,6 +1515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 75818,
+      "num": 74451,
+      "word": "周也将去新西兰录制综艺",
+      "onboard_time": 1771667901,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 75660,
       "num": 75660,
       "word": "儿子离家1年母亲在短视频发现踪迹",
@@ -1515,6 +1579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 73668,
+      "num": 73668,
+      "word": "米兰冬奥短道5000接力棒次失误",
+      "onboard_time": 1771669880,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 73308,
       "num": 73308,
       "word": "白宫确认终止部分关税措施",
@@ -1529,6 +1601,14 @@
       "onboard_time": 1771569500,
       "rank": 37,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 72770,
+      "num": 72770,
+      "word": "易烊千玺无实物表演被撞",
+      "onboard_time": 1771669519,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 72698,
@@ -1827,6 +1907,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 64698,
+      "num": 64698,
+      "word": "林孝埈想边旅行边学中文",
+      "onboard_time": 1771666642,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 64579,
       "num": 64579,
       "word": "中国短道新世纪冬奥会最差战绩",
@@ -1848,14 +1936,6 @@
       "word": "李天马铜牌",
       "onboard_time": 1771595665,
       "rank": 47,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 63258,
-      "num": 63258,
-      "word": "林孝埈想边旅行边学中文",
-      "onboard_time": 1771666642,
-      "rank": 49,
       "category": "体育"
     },
     {
@@ -2163,14 +2243,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 41750,
-      "num": 219512,
-      "word": "大年初五民众打卡财政部",
-      "onboard_time": 1771667422,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 41700,
       "num": 79591,
       "word": "男童在上海外滩走失后淡定求助警察",
@@ -2209,6 +2281,14 @@
       "onboard_time": 1771598182,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 39923,
+      "num": 64414,
+      "word": "千问又上新了",
+      "onboard_time": 1771668619,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 39642,
@@ -2379,6 +2459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 24360,
+      "num": 75215,
+      "word": "高速堵车乘客劝司机原地卖甘蔗",
+      "onboard_time": 1771669760,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22719,
       "num": 95822,
       "word": "这届年轻人为了发财什么都能干出来",
@@ -2459,6 +2547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 14225,
+      "num": 74925,
+      "word": "济南鳌鱼飞走了",
+      "onboard_time": 1771669880,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 13353,
       "num": 19498,
       "word": "齐广璞说可以放心的离开了",
@@ -2481,6 +2577,22 @@
       "onboard_time": 1771644680,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 9231,
+      "num": 130382,
+      "word": "外地游客凌晨3点到胖东来排队",
+      "onboard_time": 1771669880,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 8667,
+      "num": 75380,
+      "word": "小孩哥祭祖求打游戏没作业被当场驳回",
+      "onboard_time": 1771669880,
+      "rank": 37,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
