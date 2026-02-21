@@ -1,6 +1,6 @@
 {
   "startTime": 1771087248939,
-  "endTime": 1771684487896,
+  "endTime": 1771685614286,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -604,7 +604,7 @@
     },
     {
       "raw_hot": 1537268,
-      "num": 551845,
+      "num": 582696,
       "word": "白鹿 我家923",
       "onboard_time": 1771680082,
       "rank": 3,
@@ -1139,6 +1139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 921121,
+      "num": 168912,
+      "word": "贝加尔湖遇难中国游客身份全部确认",
+      "onboard_time": 1771683502,
+      "rank": 10,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 918562,
       "num": 918562,
       "word": "张杰魏晨相视一笑",
@@ -1409,14 +1417,6 @@
       "onboard_time": 1771247324,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 786945,
-      "num": 168912,
-      "word": "贝加尔湖遇难中国游客身份全部确认",
-      "onboard_time": 1771683502,
-      "rank": 10,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 775689,
@@ -2876,7 +2876,7 @@
     },
     {
       "raw_hot": 445190,
-      "num": 803711,
+      "num": 824622,
       "word": "镖人",
       "onboard_time": 1771122378,
       "rank": 11,
@@ -3057,6 +3057,14 @@
       "onboard_time": 1771652000,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 421963,
+      "num": 139294,
+      "word": "王传君录综艺崩溃爆哭",
+      "onboard_time": 1771684041,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 421002,
@@ -5355,14 +5363,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 264310,
-      "num": 135492,
-      "word": "王传君录综艺崩溃爆哭",
-      "onboard_time": 1771684041,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 262938,
       "num": 262938,
       "word": "谷爱凌说我快累死了",
@@ -6217,6 +6217,14 @@
       "onboard_time": 1771168462,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 228157,
+      "num": 139102,
+      "word": "结婚五金起步价迈入10万元大关",
+      "onboard_time": 1771682061,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 227611,
@@ -7499,14 +7507,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 180360,
-      "num": 134293,
-      "word": "结婚五金起步价迈入10万元大关",
-      "onboard_time": 1771682061,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 179991,
       "num": 179991,
       "word": "拾石村暗箱操作到妈祖头上了",
@@ -7761,6 +7761,14 @@
       "onboard_time": 1771135399,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 170654,
+      "num": 152907,
+      "word": "九尾 不打老乡杯",
+      "onboard_time": 1771683142,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 170577,
@@ -8147,6 +8155,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 159763,
+      "num": 138543,
+      "word": "刘宇宁直播回应包宿",
+      "onboard_time": 1771684345,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 159733,
       "num": 159733,
       "word": "王心迪曾两次资格赛被挡在门外",
@@ -8169,6 +8185,14 @@
       "onboard_time": 1771256612,
       "rank": 14,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 159490,
+      "num": 159490,
+      "word": "中国足协主席最新表态",
+      "onboard_time": 1771682721,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 159438,
@@ -8545,6 +8569,14 @@
       "onboard_time": 1771163363,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 149601,
+      "num": 149601,
+      "word": "北京沙尘暴致大兴机场多趟航班备降",
+      "onboard_time": 1771679963,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 149554,
@@ -9035,6 +9067,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 138491,
+      "num": 138491,
+      "word": "初六送穷怎么送",
+      "onboard_time": 1771684522,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 138468,
       "num": 138468,
       "word": "鹿晗最新素颜照",
@@ -9080,14 +9120,6 @@
       "word": "29岁男子日夜颠倒狂吃碳水ICU过年",
       "onboard_time": 1771512501,
       "rank": 27,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 137354,
-      "num": 137354,
-      "word": "北京沙尘暴致大兴机场多趟航班备降",
-      "onboard_time": 1771679963,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -9305,6 +9337,14 @@
       "onboard_time": 1771657819,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132666,
+      "num": 122029,
+      "word": "齐思钧刘梦章分手后还能友好同游",
+      "onboard_time": 1771685243,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 132629,
@@ -9539,14 +9579,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 128371,
-      "num": 128371,
-      "word": "中国足协主席最新表态",
-      "onboard_time": 1771682721,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 127813,
       "num": 127813,
       "word": "刘宇宁直播",
@@ -9609,14 +9641,6 @@
       "onboard_time": 1771230683,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 127375,
-      "num": 127375,
-      "word": "九尾 不打老乡杯",
-      "onboard_time": 1771683142,
-      "rank": 30,
-      "category": "电竞"
     },
     {
       "raw_hot": 126995,
@@ -9800,6 +9824,14 @@
       "word": "李现香港扫街一日游",
       "onboard_time": 1771656079,
       "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 124277,
+      "num": 114286,
+      "word": "陈丽君连续三年春节期间爆",
+      "onboard_time": 1771683142,
+      "rank": 34,
       "category": "艺人"
     },
     {
@@ -10315,14 +10347,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 115748,
-      "num": 108455,
-      "word": "陈丽君连续三年春节期间爆",
-      "onboard_time": 1771683142,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 115688,
       "num": 115688,
       "word": "害怕过年的原因",
@@ -10609,6 +10633,14 @@
       "onboard_time": 1771413021,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 111832,
+      "num": 111832,
+      "word": "临江仙剧组团建",
+      "onboard_time": 1771685003,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 111808,
@@ -11467,6 +11499,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 101239,
+      "num": 102593,
+      "word": "高敏感人一生的主线任务",
+      "onboard_time": 1771684222,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 101213,
       "num": 101213,
       "word": "陈梅婷第二跳100.29分",
@@ -11539,14 +11579,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 100434,
-      "num": 100434,
-      "word": "刘宇宁直播回应包宿",
-      "onboard_time": 1771684345,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 100427,
       "num": 131456,
       "word": "孙颖莎被球迷的新年祝福逗笑",
@@ -11577,14 +11609,6 @@
       "onboard_time": 1771583722,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 100320,
-      "num": 102593,
-      "word": "高敏感人一生的主线任务",
-      "onboard_time": 1771684222,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 100168,
@@ -11817,6 +11841,14 @@
       "onboard_time": 1771140140,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 97734,
+      "num": 97734,
+      "word": "平顶山被打女孩家属称未获道歉",
+      "onboard_time": 1771679542,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 97673,
@@ -12171,6 +12203,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 93263,
+      "num": 93263,
+      "word": "李书名 26岁女房客",
+      "onboard_time": 1771685302,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 93190,
       "num": 104142,
       "word": "29岁男子谈第一次在ICU过年",
@@ -12235,14 +12275,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 92784,
-      "num": 93011,
-      "word": "平顶山被打女孩家属称未获道歉",
-      "onboard_time": 1771679542,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 92736,
       "num": 92736,
       "word": "秦岚夸李沁像清水芙蓉般漂亮",
@@ -12297,6 +12329,14 @@
       "onboard_time": 1771563560,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 92398,
+      "num": 92398,
+      "word": "张彬彬剃了寸头",
+      "onboard_time": 1771685482,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 92328,
@@ -12377,6 +12417,14 @@
       "onboard_time": 1771112118,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 91245,
+      "num": 91245,
+      "word": "黄景瑜第一次演这么苦的角色",
+      "onboard_time": 1771682782,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 91099,
@@ -12873,14 +12921,6 @@
       "onboard_time": 1771151660,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 87305,
-      "num": 87305,
-      "word": "黄景瑜第一次演这么苦的角色",
-      "onboard_time": 1771682782,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 87290,
@@ -19427,6 +19467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25358,
+      "num": 680880,
+      "word": "热气腾腾的中国年",
+      "onboard_time": 1771681641,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25351,
       "num": 25351,
       "word": "宁忠岩获1金2铜",
@@ -19497,14 +19545,6 @@
       "onboard_time": 1771437555,
       "rank": 27,
       "category": "电影"
-    },
-    {
-      "raw_hot": 24164,
-      "num": 680880,
-      "word": "热气腾腾的中国年",
-      "onboard_time": 1771681641,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 24130,
