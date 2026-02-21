@@ -1,6 +1,6 @@
 {
   "startTime": 1771603272383,
-  "endTime": 1771659581626,
+  "endTime": 1771660348732,
   "band_list": [
     {
       "raw_hot": 1928940,
@@ -139,6 +139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 502923,
+      "num": 623611,
+      "word": "家属称平顶山被打女孩处半昏迷",
+      "onboard_time": 1771656079,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 499902,
       "num": 323534,
       "word": "泡泡玛特创始人送小酒窝盲盒",
@@ -163,14 +171,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 453394,
-      "num": 623611,
-      "word": "家属称平顶山被打女孩处半昏迷",
-      "onboard_time": 1771656079,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 449010,
       "num": 213128,
       "word": "苹果史上首款折叠屏手机",
@@ -180,7 +180,7 @@
     },
     {
       "raw_hot": 436063,
-      "num": 98249,
+      "num": 112765,
       "word": "致7人溺亡的贝加尔湖旅游16888元起",
       "onboard_time": 1771653800,
       "rank": 49,
@@ -201,6 +201,14 @@
       "onboard_time": 1771652000,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 410225,
+      "num": 112300,
+      "word": "王濛批评短道合理吗",
+      "onboard_time": 1771658781,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 403146,
@@ -451,20 +459,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 208614,
+      "num": 208614,
+      "word": "镖人 第二部",
+      "onboard_time": 1771659440,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 207520,
+      "num": 110571,
+      "word": "刘耀文自曝时代峰峻选助理内幕",
+      "onboard_time": 1771657943,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 202865,
       "num": 202865,
       "word": "姐姐回应22岁小伙烫大波浪被质疑",
       "onboard_time": 1771643480,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 202230,
-      "num": 95537,
-      "word": "刘耀文自曝时代峰峻选助理内幕",
-      "onboard_time": 1771657943,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 196293,
@@ -524,11 +540,19 @@
     },
     {
       "raw_hot": 180454,
-      "num": 96367,
+      "num": 109103,
       "word": "沈腾这下不怕票房被黄渤超过了",
       "onboard_time": 1771657640,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 175684,
+      "num": 102778,
+      "word": "三亚返程机票逼近万元",
+      "onboard_time": 1771658420,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 173887,
@@ -537,14 +561,6 @@
       "onboard_time": 1771597103,
       "rank": 15,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 171911,
-      "num": 93741,
-      "word": "王濛批评短道合理吗",
-      "onboard_time": 1771658781,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 169185,
@@ -579,7 +595,7 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 164464,
+      "raw_hot": 165012,
       "num": 494002,
       "word": "苏翊鸣下个周期最大目标法国冬奥",
       "onboard_time": 1771655960,
@@ -617,14 +633,6 @@
       "onboard_time": 1771601002,
       "rank": 16,
       "category": "美食"
-    },
-    {
-      "raw_hot": 150170,
-      "num": 93015,
-      "word": "三亚返程机票逼近万元",
-      "onboard_time": 1771658420,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 147091,
@@ -716,7 +724,7 @@
     },
     {
       "raw_hot": 132778,
-      "num": 92523,
+      "num": 106518,
       "word": "初中女生若未满16岁骑电动车属违规",
       "onboard_time": 1771657819,
       "rank": 28,
@@ -851,6 +859,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 107877,
+      "num": 107877,
+      "word": "肖战杀青回北京",
+      "onboard_time": 1771659501,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 107206,
       "num": 131627,
       "word": "女子陷美男计拉丈夫当间谍17年",
@@ -889,6 +905,14 @@
       "onboard_time": 1771651101,
       "rank": 29,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 104321,
+      "num": 104321,
+      "word": "初一到初五我的精神状态",
+      "onboard_time": 1771659440,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 102514,
@@ -1059,6 +1083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 86291,
+      "num": 86291,
+      "word": "大学生过年在家的多重身份",
+      "onboard_time": 1771659560,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 86243,
       "num": 84997,
       "word": "鹿晗四巡纪录片",
@@ -1139,28 +1171,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 81790,
-      "num": 81790,
-      "word": "初一到初五我的精神状态",
-      "onboard_time": 1771659440,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 80302,
       "num": 80302,
       "word": "王橹杰举个旗可以当导游了",
       "onboard_time": 1771653378,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 79790,
-      "num": 79790,
-      "word": "镖人 第二部",
-      "onboard_time": 1771659440,
-      "rank": 33,
-      "category": "电影"
     },
     {
       "raw_hot": 79130,
@@ -1355,6 +1371,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 68761,
+      "num": 68761,
+      "word": "侯明昊初五上早班困成啥了",
+      "onboard_time": 1771658360,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 68571,
       "num": 68571,
       "word": "王楚钦王曼昱领衔首日出战",
@@ -1369,14 +1393,6 @@
       "onboard_time": 1771596922,
       "rank": 42,
       "category": "电影"
-    },
-    {
-      "raw_hot": 68505,
-      "num": 68505,
-      "word": "大学生过年在家的多重身份",
-      "onboard_time": 1771659560,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 68354,
@@ -1403,14 +1419,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 67544,
-      "num": 67544,
-      "word": "侯明昊初五上早班困成啥了",
-      "onboard_time": 1771658360,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 67533,
       "num": 67533,
       "word": "男子称医院未采取急救措施致妻子死亡",
@@ -1433,14 +1441,6 @@
       "onboard_time": 1771599024,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 67079,
-      "num": 67079,
-      "word": "肖战杀青回北京",
-      "onboard_time": 1771659501,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 66990,
@@ -1603,6 +1603,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 60627,
+      "num": 60627,
+      "word": "掘金54分大胜开拓者",
+      "onboard_time": 1771660220,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 59881,
+      "num": 59881,
+      "word": "王心迪叫老婆桃桃姐",
+      "onboard_time": 1771658299,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 59692,
       "num": 59692,
       "word": "为什么美人计使用率如此之高",
@@ -1633,6 +1649,14 @@
       "onboard_time": 1771641078,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 58239,
+      "num": 58239,
+      "word": "三个黄景瑜都吻上来了",
+      "onboard_time": 1771659679,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 57564,
@@ -2065,6 +2089,14 @@
       "onboard_time": 1771642760,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 12260,
+      "num": 651765,
+      "word": "闪耀赛场的中国红是最深情的告白",
+      "onboard_time": 1771644680,
+      "rank": 2,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
