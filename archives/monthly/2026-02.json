@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1771649616834,
+  "endTime": 1771653004623,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -744,6 +744,14 @@
       "word": "春晚大赏",
       "onboard_time": 1771204220,
       "rank": 5,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1885435,
+      "num": 494521,
+      "word": "黄晓明回应在澳门输掉十几亿",
+      "onboard_time": 1771650199,
+      "rank": 3,
       "category": "综艺"
     },
     {
@@ -7763,6 +7771,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 428966,
+      "num": 164191,
+      "word": "韩维辰硬刚wk1",
+      "onboard_time": 1771648759,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 428937,
       "num": 1210443,
       "word": "大年初一不洗头不煮饭",
@@ -7961,6 +7977,14 @@
       "onboard_time": 1770622280,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 421612,
+      "num": 161177,
+      "word": "苹果史上首款折叠屏手机",
+      "onboard_time": 1771650441,
+      "rank": 12,
+      "category": "数码"
     },
     {
       "raw_hot": 421002,
@@ -14827,6 +14851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 258348,
+      "num": 188995,
+      "word": "终于有人懂牛奶包装设计师了",
+      "onboard_time": 1771649121,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 258116,
       "num": 258116,
       "word": "宁忠岩刘瀚彬出战1500米",
@@ -17283,6 +17315,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 223730,
+      "num": 785250,
+      "word": "谷爱凌出战冲金",
+      "onboard_time": 1771648039,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 223714,
       "num": 223714,
       "word": "王一博章昊自拍照",
@@ -17940,7 +17980,7 @@
     },
     {
       "raw_hot": 215404,
-      "num": 105237,
+      "num": 130227,
       "word": "这2种饮料混着喝或永久损伤大脑",
       "onboard_time": 1771648401,
       "rank": 30,
@@ -19267,14 +19307,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 197308,
-      "num": 154598,
-      "word": "韩维辰硬刚wk1",
-      "onboard_time": 1771648759,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 197160,
       "num": 501037,
       "word": "微博之夜 豪华阵容",
@@ -19409,6 +19441,14 @@
       "onboard_time": 1770493094,
       "rank": 20,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 196293,
+      "num": 141131,
+      "word": "金饰价涨到1598元",
+      "onboard_time": 1771648700,
+      "rank": 22,
+      "category": "财经"
     },
     {
       "raw_hot": 196288,
@@ -20313,14 +20353,6 @@
       "onboard_time": 1771154060,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 185106,
-      "num": 141131,
-      "word": "金饰价涨到1598元",
-      "onboard_time": 1771648700,
-      "rank": 22,
-      "category": "财经"
     },
     {
       "raw_hot": 185095,
@@ -21305,6 +21337,14 @@
       "onboard_time": 1770705801,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 174264,
+      "num": 174264,
+      "word": "警方通报平顶山打人事件",
+      "onboard_time": 1771652721,
+      "rank": 8,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 174179,
@@ -23641,6 +23681,14 @@
       "onboard_time": 1770267685,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 151626,
+      "num": 151626,
+      "word": "贝加尔湖事故有很多中国人参与救援",
+      "onboard_time": 1771648999,
+      "rank": 46,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 151466,
@@ -25985,14 +26033,6 @@
       "onboard_time": 1770721642,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 136193,
-      "num": 136193,
-      "word": "谷爱凌出战冲金",
-      "onboard_time": 1771648039,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 136149,
@@ -31483,6 +31523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110219,
+      "num": 110219,
+      "word": "王牌对王牌",
+      "onboard_time": 1770139457,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 110169,
       "num": 132700,
       "word": "地铁工地龙门吊坍塌砸中轿车",
@@ -31505,6 +31553,14 @@
       "onboard_time": 1770364581,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 110133,
+      "num": 103323,
+      "word": "弟弟没钱但有的是力气和手段",
+      "onboard_time": 1771652000,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 110117,
@@ -33163,6 +33219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 104750,
+      "num": 104750,
+      "word": "贝加尔湖事故车贴着冰裂缝驶过",
+      "onboard_time": 1771651101,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 104732,
       "num": 104732,
       "word": "大理一餐厅两只网红金毛犬身亡",
@@ -34307,6 +34371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 101351,
+      "num": 101351,
+      "word": "过年减肥规则怪谈",
+      "onboard_time": 1771649900,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 101298,
       "num": 98350,
       "word": "偶遇黄子韬徐艺洋回青岛过年",
@@ -34393,6 +34465,14 @@
       "onboard_time": 1770105622,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 101034,
+      "num": 101034,
+      "word": "要被张凌赫的早期回复笑鼠",
+      "onboard_time": 1771651701,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 100976,
@@ -34793,6 +34873,14 @@
       "onboard_time": 1771159761,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 99965,
+      "num": 99965,
+      "word": "沈腾有望成首位主演票房破400亿演员",
+      "onboard_time": 1771648820,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 99942,
@@ -35361,14 +35449,6 @@
       "onboard_time": 1770026121,
       "rank": 47,
       "category": "财经"
-    },
-    {
-      "raw_hot": 98166,
-      "num": 98166,
-      "word": "沈腾有望成首位主演票房破400亿演员",
-      "onboard_time": 1771648820,
-      "rank": 42,
-      "category": "电影"
     },
     {
       "raw_hot": 98133,
@@ -38019,6 +38099,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 90891,
+      "num": 90891,
+      "word": "打开朋友圈以为到了天庭",
+      "onboard_time": 1771650199,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 90872,
       "num": 90872,
       "word": "张柏芝情人节和大儿子约会",
@@ -40387,6 +40475,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 85065,
+      "num": 85065,
+      "word": "每个人都去学运动员的心态",
+      "onboard_time": 1771652599,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 85012,
       "num": 93731,
       "word": "内地男子港迪溺亡",
@@ -41203,6 +41299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 82802,
+      "num": 82802,
+      "word": "镖人里的帅哥是消耗品",
+      "onboard_time": 1771652841,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 82783,
       "num": 82783,
       "word": "千问称免单权益禁止倒卖",
@@ -41849,14 +41953,6 @@
       "onboard_time": 1770910400,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 81026,
-      "num": 81026,
-      "word": "贝加尔湖事故有很多中国人参与救援",
-      "onboard_time": 1771648999,
-      "rank": 46,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 81014,
@@ -42587,6 +42683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 79574,
+      "num": 79574,
+      "word": "不让江山",
+      "onboard_time": 1771641500,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 79547,
       "num": 79547,
       "word": "DYG这是什么阵容",
@@ -42657,14 +42761,6 @@
       "onboard_time": 1771125919,
       "rank": 41,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 79430,
-      "num": 79430,
-      "word": "终于有人懂牛奶包装设计师了",
-      "onboard_time": 1771649121,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 79405,
@@ -43819,6 +43915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 76479,
+      "num": 76479,
+      "word": "大年初五 朋友圈最活跃的一天",
+      "onboard_time": 1771652480,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 76478,
       "num": 79220,
       "word": "出去一个好留子回来一个好厨子",
@@ -44169,14 +44273,6 @@
       "onboard_time": 1771492821,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 75452,
-      "num": 75452,
-      "word": "不让江山",
-      "onboard_time": 1771641500,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 75431,
@@ -46019,6 +46115,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 69675,
+      "num": 69675,
+      "word": "攒了一年的脸面全丢光了",
+      "onboard_time": 1771652239,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 69662,
       "num": 69662,
       "word": "写在购物袋上的文字太有力量了",
@@ -46217,6 +46321,14 @@
       "onboard_time": 1771120279,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 68973,
+      "num": 68973,
+      "word": "迎财神图片",
+      "onboard_time": 1771650678,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 68959,
@@ -47977,14 +48089,6 @@
       "onboard_time": 1771139420,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 63166,
-      "num": 63166,
-      "word": "王牌对王牌",
-      "onboard_time": 1770139457,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 63152,
@@ -51577,6 +51681,14 @@
       "onboard_time": 1770205402,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 46649,
+      "num": 82916,
+      "word": "祝绪丹迟来一秒就被恶剪了",
+      "onboard_time": 1771652000,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 46605,
@@ -57929,6 +58041,14 @@
       "onboard_time": 1771125379,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 19816,
+      "num": 131627,
+      "word": "女子陷美男计拉丈夫当间谍17年",
+      "onboard_time": 1771652480,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19791,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1771653004623,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 493484,
+        "num": 1078957,
+        "word": "王濛说签生死状复出",
+        "onboard_time": 1771636940,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 223730,
+        "num": 785250,
+        "word": "谷爱凌出战冲金",
+        "onboard_time": 1771648039,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35373,
+        "num": 609774,
+        "word": "马年春节新三样",
+        "onboard_time": 1771645879,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1885435,
+        "num": 494521,
+        "word": "黄晓明回应在澳门输掉十几亿",
+        "onboard_time": 1771650199,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217517,
+        "num": 217517,
+        "word": "不让江山女主",
+        "onboard_time": 1771648100,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 298228,
+        "num": 200844,
+        "word": "慈母多败咪",
+        "onboard_time": 1771647019,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 686787,
+        "num": 198535,
+        "word": "刘涛演妈祖 三次圣杯",
+        "onboard_time": 1771644860,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 258348,
+        "num": 188995,
+        "word": "终于有人懂牛奶包装设计师了",
+        "onboard_time": 1771649121,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 174264,
+        "num": 174264,
+        "word": "警方通报平顶山打人事件",
+        "onboard_time": 1771652721,
+        "rank": 8,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 170672,
+        "num": 170672,
+        "word": "迎财神",
+        "onboard_time": 1771600401,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 555267,
+        "num": 170271,
+        "word": "那艺娜劣迹艺人",
+        "onboard_time": 1771631538,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 428966,
+        "num": 164191,
+        "word": "韩维辰硬刚wk1",
+        "onboard_time": 1771648759,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 421612,
+        "num": 161177,
+        "word": "苹果史上首款折叠屏手机",
+        "onboard_time": 1771650441,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 394312,
+        "num": 158278,
+        "word": "姚晨丢掉妈妈过期药品被骂了3天",
+        "onboard_time": 1771646839,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263436,
+        "num": 155432,
+        "word": "关晓彤我长大了不能被骗了",
+        "onboard_time": 1771647320,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151626,
+        "num": 151626,
+        "word": "贝加尔湖事故有很多中国人参与救援",
+        "onboard_time": 1771648999,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 148349,
+        "num": 148349,
+        "word": "曝那艺娜偷税漏税",
+        "onboard_time": 1771644680,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144401,
+        "num": 144401,
+        "word": "王濛别嗦了蜜了换衣服去比赛",
+        "onboard_time": 1771645999,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131783,
+        "num": 131783,
+        "word": "一觉醒来特朗普改新打法了",
+        "onboard_time": 1771637839,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 19816,
+        "num": 131627,
+        "word": "女子陷美男计拉丈夫当间谍17年",
+        "onboard_time": 1771652480,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217840,
+        "num": 131259,
+        "word": "阿勒泰 刘耀文宋亚轩",
+        "onboard_time": 1771642459,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196293,
+        "num": 130975,
+        "word": "金饰价涨到1598元",
+        "onboard_time": 1771648700,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 194285,
+        "num": 130227,
+        "word": "这2种饮料混着喝或永久损伤大脑",
+        "onboard_time": 1771648401,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 130179,
+        "num": 130179,
+        "word": "古言三巨头",
+        "onboard_time": 1771645939,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114272,
+        "num": 114272,
+        "word": "方大同才二十三MV",
+        "onboard_time": 1771637479,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 113691,
+        "num": 113691,
+        "word": "牢A解释中国人游泳夺冠美国人破防",
+        "onboard_time": 1771647019,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110219,
+        "num": 110219,
+        "word": "王牌对王牌",
+        "onboard_time": 1771649300,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107190,
+        "num": 107190,
+        "word": "医院回应女子死亡系自身过敏",
+        "onboard_time": 1771642700,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 105131,
+        "num": 105131,
+        "word": "泡泡玛特创始人送小酒窝盲盒",
+        "onboard_time": 1771640899,
+        "rank": 28,
+        "category": "休闲,艺人"
+      },
+      {
+        "raw_hot": 104750,
+        "num": 104750,
+        "word": "贝加尔湖事故车贴着冰裂缝驶过",
+        "onboard_time": 1771651101,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 110133,
+        "num": 103323,
+        "word": "弟弟没钱但有的是力气和手段",
+        "onboard_time": 1771652000,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 101351,
+        "num": 101351,
+        "word": "过年减肥规则怪谈",
+        "onboard_time": 1771649900,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 101034,
+        "num": 101034,
+        "word": "要被张凌赫的早期回复笑鼠",
+        "onboard_time": 1771651701,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99965,
+        "num": 99965,
+        "word": "沈腾有望成首位主演票房破400亿演员",
+        "onboard_time": 1771648820,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 90891,
+        "num": 90891,
+        "word": "打开朋友圈以为到了天庭",
+        "onboard_time": 1771650199,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 89351,
+        "num": 89351,
+        "word": "王濛现场观赛生气了",
+        "onboard_time": 1771636940,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87764,
+        "num": 87764,
+        "word": "林孝埈采访",
+        "onboard_time": 1771647679,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85065,
+        "num": 85065,
+        "word": "每个人都去学运动员的心态",
+        "onboard_time": 1771652599,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 84744,
+        "num": 84744,
+        "word": "中韩体坛最唯美的爱情",
+        "onboard_time": 1771642281,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 46649,
+        "num": 82916,
+        "word": "祝绪丹迟来一秒就被恶剪了",
+        "onboard_time": 1771652000,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82802,
+        "num": 82802,
+        "word": "镖人里的帅哥是消耗品",
+        "onboard_time": 1771652841,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 81547,
+        "num": 81547,
+        "word": "姐姐回应22岁小伙烫大波浪被质疑",
+        "onboard_time": 1771643480,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80840,
+        "num": 80840,
+        "word": "金价",
+        "onboard_time": 1771652960,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 79574,
+        "num": 79574,
+        "word": "不让江山",
+        "onboard_time": 1771641500,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72444,
+        "num": 76509,
+        "word": "徐梦桃爱拍照全米兰都知道了",
+        "onboard_time": 1771649480,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 76479,
+        "num": 76479,
+        "word": "大年初五 朋友圈最活跃的一天",
+        "onboard_time": 1771652480,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 74583,
+        "num": 74583,
+        "word": "正月初五接财神",
+        "onboard_time": 1771605441,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69675,
+        "num": 69675,
+        "word": "攒了一年的脸面全丢光了",
+        "onboard_time": 1771652239,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 77069,
+        "num": 69374,
+        "word": "不让江山官宣杨洋",
+        "onboard_time": 1771641680,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68973,
+        "num": 68973,
+        "word": "迎财神图片",
+        "onboard_time": 1771650678,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#千年文脉川流不息#"
+    }
+  }
+}
