@@ -1,0 +1,410 @@
+{
+  "runTime": 1771641178062,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 727916,
+        "num": 1116466,
+        "word": "迎财神",
+        "onboard_time": 1771600401,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 674103,
+        "num": 810126,
+        "word": "王濛现场观赛生气了",
+        "onboard_time": 1771636940,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26073,
+        "num": 648345,
+        "word": "中国非遗给你亿点点震撼",
+        "onboard_time": 1771595002,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1113130,
+        "num": 648143,
+        "word": "那艺娜劣迹艺人",
+        "onboard_time": 1771631538,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 639386,
+        "num": 639386,
+        "word": "王濛说签生死状复出",
+        "onboard_time": 1771636940,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 348793,
+        "num": 348793,
+        "word": "正月初五接财神",
+        "onboard_time": 1771605441,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 330433,
+        "num": 330433,
+        "word": "老一辈起情侣名没轻没重",
+        "onboard_time": 1771634600,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 300576,
+        "num": 300576,
+        "word": "霍启刚还是忍不住秀恩爱",
+        "onboard_time": 1771632499,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 289707,
+        "num": 289707,
+        "word": "沈娇娇是个眼圆脸圆的甜妹",
+        "onboard_time": 1771629917,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 229472,
+        "num": 229472,
+        "word": "方大同才二十三MV",
+        "onboard_time": 1771637479,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1834645,
+        "num": 218736,
+        "word": "妈祖被替小女孩回应",
+        "onboard_time": 1771637780,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 416633,
+        "num": 216401,
+        "word": "一觉醒来特朗普改新打法了",
+        "onboard_time": 1771637839,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 294953,
+        "num": 206218,
+        "word": "贝加尔湖事故",
+        "onboard_time": 1771639341,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 195143,
+        "num": 195143,
+        "word": "苏翊鸣回复徐梦桃小鸣酱随500",
+        "onboard_time": 1771638740,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167127,
+        "num": 167127,
+        "word": "当我问亲戚们存了多少钱",
+        "onboard_time": 1771634900,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 166319,
+        "num": 166319,
+        "word": "林孝埈接受韩媒采访回应无奖牌",
+        "onboard_time": 1771635080,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152048,
+        "num": 152048,
+        "word": "这种致癌物在春节很常见",
+        "onboard_time": 1771628895,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 138735,
+        "num": 138735,
+        "word": "财神壁纸",
+        "onboard_time": 1771630397,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134038,
+        "num": 134038,
+        "word": "金度勋疑似骚扰女艺人",
+        "onboard_time": 1771632078,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48851,
+        "num": 133360,
+        "word": "为什么各地初五迎的财神不一样",
+        "onboard_time": 1771640419,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195021,
+        "num": 133162,
+        "word": "郭富城透露方媛和岳父母香港过年",
+        "onboard_time": 1771637359,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139536,
+        "num": 133070,
+        "word": "22岁小伙长发大波浪被外甥叫阿姨",
+        "onboard_time": 1771637000,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132865,
+        "num": 132865,
+        "word": "将门毒后不是大ip是巨ip",
+        "onboard_time": 1771591041,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130895,
+        "num": 130895,
+        "word": "黄景瑜演技",
+        "onboard_time": 1771638560,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119007,
+        "num": 119007,
+        "word": "王濛不是说遗憾就是滑得太难看",
+        "onboard_time": 1771637181,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106643,
+        "num": 106643,
+        "word": "金吉莉1500米金牌",
+        "onboard_time": 1771623674,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106522,
+        "num": 106522,
+        "word": "巧克力生煎",
+        "onboard_time": 1771638021,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 98695,
+        "num": 98695,
+        "word": "谷爱凌李方慧等U型场地冲金",
+        "onboard_time": 1771637900,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93018,
+        "num": 93018,
+        "word": "王心迪是哈工大力学专业在读博士生",
+        "onboard_time": 1771637300,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92984,
+        "num": 92984,
+        "word": "中国代表重申日本没资格要求入常",
+        "onboard_time": 1771636940,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 171305,
+        "num": 92091,
+        "word": "泡泡玛特创始人送小酒窝盲盒",
+        "onboard_time": 1771640899,
+        "rank": 30,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 89168,
+        "num": 89168,
+        "word": "孙颖莎红温",
+        "onboard_time": 1771640300,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87185,
+        "num": 87185,
+        "word": "五路财神",
+        "onboard_time": 1771618635,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86776,
+        "num": 86776,
+        "word": "白鹿孟子义李昀锐拼好剧 又争又抢",
+        "onboard_time": 1771631421,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83166,
+        "num": 83166,
+        "word": "美最大航母进入地中海",
+        "onboard_time": 1771639219,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 82514,
+        "num": 82514,
+        "word": "曹颖回应卖房争议",
+        "onboard_time": 1771633821,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79130,
+        "num": 79130,
+        "word": "俄方公布贝加尔湖救援现场视频",
+        "onboard_time": 1771638679,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 75550,
+        "num": 75550,
+        "word": "中国队比冠军还快",
+        "onboard_time": 1771633338,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 74657,
+        "num": 74657,
+        "word": "王濛直播",
+        "onboard_time": 1771635859,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71107,
+        "num": 71107,
+        "word": "白宫确认终止部分关税措施",
+        "onboard_time": 1771638140,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 67533,
+        "num": 67533,
+        "word": "男子称医院未采取急救措施致妻子死亡",
+        "onboard_time": 1771633640,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64579,
+        "num": 64579,
+        "word": "中国短道新世纪冬奥会最差战绩",
+        "onboard_time": 1771635441,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 64455,
+        "num": 64455,
+        "word": "将门独后 天崩开局",
+        "onboard_time": 1771578140,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63074,
+        "num": 63074,
+        "word": "美最大核动力航母进入地中海",
+        "onboard_time": 1771638260,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 62298,
+        "num": 62298,
+        "word": "浙江人赚钱敏感度有多高",
+        "onboard_time": 1771635741,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61449,
+        "num": 61449,
+        "word": "黄金白银飙涨",
+        "onboard_time": 1771630578,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 59162,
+        "num": 59162,
+        "word": "一家人在武林大会认识的吧",
+        "onboard_time": 1771641140,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 58448,
+        "num": 58448,
+        "word": "前教练回应王心迪夺金",
+        "onboard_time": 1771641078,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 57564,
+        "num": 57564,
+        "word": "王濛说宁忠岩滑完自己特别激动",
+        "onboard_time": 1771635379,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 57473,
+        "num": 57473,
+        "word": "初五为啥又要吃饺子",
+        "onboard_time": 1771639519,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#千年文脉川流不息#"
+    }
+  }
+}
