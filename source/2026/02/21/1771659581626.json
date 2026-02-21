@@ -1,0 +1,410 @@
+{
+  "runTime": 1771659581626,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1066464,
+        "num": 1170634,
+        "word": "警方通报平顶山打人事件",
+        "onboard_time": 1771652721,
+        "rank": 0,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 240500,
+        "num": 837570,
+        "word": "王濛说签生死状复出",
+        "onboard_time": 1771636940,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31177,
+        "num": 667717,
+        "word": "马年春节新三样",
+        "onboard_time": 1771645879,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1127535,
+        "num": 588919,
+        "word": "黄晓明回应在澳门输掉十几亿",
+        "onboard_time": 1771650199,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164464,
+        "num": 494002,
+        "word": "苏翊鸣下个周期最大目标法国冬奥",
+        "onboard_time": 1771655960,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 467659,
+        "num": 467659,
+        "word": "刘涛演妈祖 三次圣杯",
+        "onboard_time": 1771644860,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 225889,
+        "num": 225889,
+        "word": "弟弟没钱但有的是力气和手段",
+        "onboard_time": 1771652000,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 156046,
+        "num": 156046,
+        "word": "终于有人懂牛奶包装设计师了",
+        "onboard_time": 1771649121,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 123362,
+        "num": 123362,
+        "word": "谷爱凌出战冲金",
+        "onboard_time": 1771648039,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99578,
+        "num": 99578,
+        "word": "不让江山女主",
+        "onboard_time": 1771648100,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1538187,
+        "num": 99508,
+        "word": "圣杯八次不中概率",
+        "onboard_time": 1771655898,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 480545,
+        "num": 98830,
+        "word": "金价",
+        "onboard_time": 1771652960,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 453394,
+        "num": 98523,
+        "word": "家属称平顶山被打女孩处半昏迷",
+        "onboard_time": 1771656079,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 436063,
+        "num": 98249,
+        "word": "致7人溺亡的贝加尔湖旅游16888元起",
+        "onboard_time": 1771653800,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 29127,
+        "num": 97754,
+        "word": "过年发大财",
+        "onboard_time": 1771657278,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 320764,
+        "num": 97323,
+        "word": "那艺娜劣迹艺人",
+        "onboard_time": 1771631538,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283904,
+        "num": 97139,
+        "word": "苹果史上首款折叠屏手机",
+        "onboard_time": 1771650441,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 234134,
+        "num": 96741,
+        "word": "孟子义沈妙",
+        "onboard_time": 1771654940,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202950,
+        "num": 96285,
+        "word": "韩维辰硬刚wk1",
+        "onboard_time": 1771648759,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22719,
+        "num": 95822,
+        "word": "这届年轻人为了发财什么都能干出来",
+        "onboard_time": 1771658540,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202230,
+        "num": 95537,
+        "word": "刘耀文自曝时代峰峻选助理内幕",
+        "onboard_time": 1771657943,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193396,
+        "num": 95178,
+        "word": "郭晶晶聊带娃读书叹气",
+        "onboard_time": 1771654700,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180998,
+        "num": 94669,
+        "word": "这2种饮料混着喝或永久损伤大脑",
+        "onboard_time": 1771648401,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 180454,
+        "num": 94332,
+        "word": "沈腾这下不怕票房被黄渤超过了",
+        "onboard_time": 1771657640,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 171911,
+        "num": 93741,
+        "word": "王濛批评短道合理吗",
+        "onboard_time": 1771658781,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170914,
+        "num": 93223,
+        "word": "姚晨丢掉妈妈过期药品被骂了3天",
+        "onboard_time": 1771646839,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93193,
+        "num": 93193,
+        "word": "迎财神",
+        "onboard_time": 1771600401,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150170,
+        "num": 93015,
+        "word": "三亚返程机票逼近万元",
+        "onboard_time": 1771658420,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132778,
+        "num": 92523,
+        "word": "初中女生若未满16岁骑电动车属违规",
+        "onboard_time": 1771657819,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113777,
+        "num": 91693,
+        "word": "阿勒泰 刘耀文宋亚轩",
+        "onboard_time": 1771642459,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86826,
+        "num": 86826,
+        "word": "上海财神庙一炉子被烧起火",
+        "onboard_time": 1771656139,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81790,
+        "num": 81790,
+        "word": "初一到初五我的精神状态",
+        "onboard_time": 1771659440,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 80141,
+        "num": 80141,
+        "word": "泡泡玛特创始人送小酒窝盲盒",
+        "onboard_time": 1771640899,
+        "rank": 32,
+        "category": "休闲,艺人"
+      },
+      {
+        "raw_hot": 79790,
+        "num": 79790,
+        "word": "镖人 第二部",
+        "onboard_time": 1771659440,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 77555,
+        "num": 77555,
+        "word": "赵美延全额现金购入龙山公寓",
+        "onboard_time": 1771655240,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71404,
+        "num": 75007,
+        "word": "花10块钱买的齐天大圣烟花",
+        "onboard_time": 1771658480,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 74868,
+        "num": 74868,
+        "word": "李现香港扫街一日游",
+        "onboard_time": 1771656079,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70624,
+        "num": 74574,
+        "word": "初五的财神有多忙",
+        "onboard_time": 1771658899,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 74375,
+        "num": 74375,
+        "word": "不让江山官宣杨洋",
+        "onboard_time": 1771641680,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17834,
+        "num": 74262,
+        "word": "台男子偷走警车逃逸30公里后撞车",
+        "onboard_time": 1771658959,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74152,
+        "num": 74152,
+        "word": "关晓彤我长大了不能被骗了",
+        "onboard_time": 1771647320,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 70588,
+        "num": 70588,
+        "word": "镖人4天破5亿",
+        "onboard_time": 1771655598,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 68505,
+        "num": 68505,
+        "word": "大学生过年在家的多重身份",
+        "onboard_time": 1771659560,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 64812,
+        "num": 67746,
+        "word": "男子勇跳粪坑为老婆打捞新年手机",
+        "onboard_time": 1771653081,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69588,
+        "num": 67695,
+        "word": "镖人里的帅哥是消耗品",
+        "onboard_time": 1771652841,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 67544,
+        "num": 67544,
+        "word": "侯明昊初五上早班困成啥了",
+        "onboard_time": 1771658360,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66139,
+        "num": 67132,
+        "word": "身体里的湿气到底是什么",
+        "onboard_time": 1771658299,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 67079,
+        "num": 67079,
+        "word": "肖战杀青回北京",
+        "onboard_time": 1771659501,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66296,
+        "num": 66296,
+        "word": "鹿晗四巡纪录片",
+        "onboard_time": 1771653800,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 61996,
+        "num": 61996,
+        "word": "打开朋友圈以为到了天庭",
+        "onboard_time": 1771650199,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#老胡同里的新生活#"
+    }
+  }
+}
