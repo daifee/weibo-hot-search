@@ -1,6 +1,6 @@
 {
   "startTime": 1771087248939,
-  "endTime": 1771664193347,
+  "endTime": 1771666753747,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -1900,7 +1900,7 @@
     },
     {
       "raw_hot": 607689,
-      "num": 234101,
+      "num": 245596,
       "word": "黄晓明曝艺人红毯上假摔",
       "onboard_time": 1771661240,
       "rank": 12,
@@ -2012,7 +2012,7 @@
     },
     {
       "raw_hot": 583972,
-      "num": 244111,
+      "num": 245484,
       "word": "王濛批评短道合理吗",
       "onboard_time": 1771658781,
       "rank": 24,
@@ -2339,6 +2339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 520501,
+      "num": 376556,
+      "word": "镖人 那尔那茜",
+      "onboard_time": 1771665259,
+      "rank": 5,
+      "category": "电影"
+    },
+    {
       "raw_hot": 520192,
       "num": 520192,
       "word": "男子用AI鉴定玉石8个月收入上百万",
@@ -2537,6 +2545,14 @@
       "onboard_time": 1771554859,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 479629,
+      "num": 479629,
+      "word": "北京沙尘暴",
+      "onboard_time": 1771662020,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 477019,
@@ -2828,7 +2844,7 @@
     },
     {
       "raw_hot": 436063,
-      "num": 220711,
+      "num": 239991,
       "word": "致7人溺亡的贝加尔湖旅游16888元起",
       "onboard_time": 1771653800,
       "rank": 49,
@@ -3851,6 +3867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 332958,
+      "num": 237653,
+      "word": "镖人票房还有救吗",
+      "onboard_time": 1771663399,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 331234,
       "num": 331234,
       "word": "谷爱凌 顶级狩猎者的眼神",
@@ -3976,6 +4000,14 @@
       "word": "王一博攀岩拜年",
       "onboard_time": 1771316358,
       "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 320242,
+      "num": 236590,
+      "word": "白鹿发了37张照片",
+      "onboard_time": 1771663699,
+      "rank": 24,
       "category": "艺人"
     },
     {
@@ -4555,6 +4587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 288909,
+      "num": 242653,
+      "word": "鹿晗编脏辫可以不洗",
+      "onboard_time": 1771663399,
+      "rank": 21,
+      "category": "演出"
+    },
+    {
       "raw_hot": 288434,
       "num": 786603,
       "word": "听说全国女婿到丈母娘家都这样",
@@ -4745,6 +4785,14 @@
       "onboard_time": 1771444693,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 279453,
+      "num": 241518,
+      "word": "00后月租200住养老院2年",
+      "onboard_time": 1771662621,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 278478,
@@ -4987,6 +5035,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 268166,
+      "num": 268166,
+      "word": "烤肠商战",
+      "onboard_time": 1771663519,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 267695,
       "num": 267695,
       "word": "一搭二搭全是青梅竹马",
@@ -5001,6 +5057,14 @@
       "onboard_time": 1771122440,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 267537,
+      "num": 276354,
+      "word": "回村后用的都是名牌货",
+      "onboard_time": 1771660820,
+      "rank": 8,
+      "category": "幽默"
     },
     {
       "raw_hot": 267078,
@@ -5451,14 +5515,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 245309,
-      "num": 276354,
-      "word": "回村后用的都是名牌货",
-      "onboard_time": 1771660820,
-      "rank": 8,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 245290,
       "num": 216805,
       "word": "宜城烟花爆燃事故应急处置情况通报",
@@ -5585,6 +5641,14 @@
       "onboard_time": 1771498400,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 239439,
+      "num": 239439,
+      "word": "我家那小子",
+      "onboard_time": 1771664240,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 238846,
@@ -6211,6 +6275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 214259,
+      "num": 214259,
+      "word": "精装朋友圈的苦",
+      "onboard_time": 1771663820,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 213715,
       "num": 543294,
       "word": "春晚AI率比我论文高",
@@ -6457,14 +6529,6 @@
       "onboard_time": 1771490479,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 203924,
-      "num": 198801,
-      "word": "00后月租200住养老院2年",
-      "onboard_time": 1771662621,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 203599,
@@ -7043,14 +7107,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 184958,
-      "num": 184958,
-      "word": "鹿晗编脏辫可以不洗",
-      "onboard_time": 1771663399,
-      "rank": 21,
-      "category": "演出"
-    },
-    {
       "raw_hot": 184652,
       "num": 175081,
       "word": "汪苏泷毛衣",
@@ -7353,14 +7409,6 @@
       "onboard_time": 1771419323,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 172570,
-      "num": 172570,
-      "word": "白鹿发了37张照片",
-      "onboard_time": 1771663699,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 172449,
@@ -10651,14 +10699,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 103798,
-      "num": 103798,
-      "word": "镖人票房还有救吗",
-      "onboard_time": 1771663399,
-      "rank": 34,
-      "category": "电影"
-    },
-    {
       "raw_hot": 103774,
       "num": 97745,
       "word": "镖人路演",
@@ -10681,6 +10721,14 @@
       "onboard_time": 1771344802,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 103599,
+      "num": 123531,
+      "word": "香港公布宏福苑长远居住安排方案",
+      "onboard_time": 1771666100,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 103546,
@@ -10899,6 +10947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 100865,
+      "num": 123020,
+      "word": "杭州天下第一财神庙幽默劝返",
+      "onboard_time": 1771665019,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100842,
       "num": 716026,
       "word": "春节档总票房已破22亿",
@@ -10977,14 +11033,6 @@
       "onboard_time": 1771114399,
       "rank": 30,
       "category": "国际时政,互联网"
-    },
-    {
-      "raw_hot": 100125,
-      "num": 100125,
-      "word": "烤肠商战",
-      "onboard_time": 1771663519,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 100076,
@@ -11339,6 +11387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 95674,
+      "num": 95674,
+      "word": "特朗普自嘲是历史上最傻的总统",
+      "onboard_time": 1771664541,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 95533,
       "num": 81845,
       "word": "春晚看迪丽热巴看入迷了",
@@ -11667,6 +11723,14 @@
       "category": "民生新闻,数码"
     },
     {
+      "raw_hot": 92004,
+      "num": 92004,
+      "word": "第一次见识人丁兴旺",
+      "onboard_time": 1771665320,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 91837,
       "num": 91837,
       "word": "樊振东迈斯纳vs邱党卡尔伯格",
@@ -11873,14 +11937,6 @@
       "onboard_time": 1771554258,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 89881,
-      "num": 181508,
-      "word": "北京沙尘暴",
-      "onboard_time": 1771662020,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 89771,
@@ -12747,6 +12803,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 81769,
+      "num": 81769,
+      "word": "阿育娅 大沙暴",
+      "onboard_time": 1771665141,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 81755,
       "num": 81755,
       "word": "王艺迪过大年去烫头了",
@@ -12971,12 +13035,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 79859,
-      "num": 79859,
-      "word": "精装朋友圈的苦",
-      "onboard_time": 1771663820,
-      "rank": 41,
-      "category": "幽默"
+      "raw_hot": 79876,
+      "num": 79876,
+      "word": "苏翊鸣回应最后等比分搞笑瞬间",
+      "onboard_time": 1771666100,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 79858,
@@ -15123,6 +15187,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 65641,
+      "num": 65641,
+      "word": "中国空中技巧米兰收官之战",
+      "onboard_time": 1771665019,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 65606,
       "num": 65606,
       "word": "专家回应惊蛰无声是否泄密",
@@ -15187,12 +15259,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 65185,
+      "num": 65185,
+      "word": "出门在外再也不敢以貌取人",
+      "onboard_time": 1771664781,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 65177,
       "num": 65177,
       "word": "在女娲那报兴趣班了",
       "onboard_time": 1771577120,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 65139,
+      "num": 65139,
+      "word": "徐梦桃说你这是卫冕冠军待遇",
+      "onboard_time": 1771666700,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 65134,
@@ -15403,6 +15491,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 63673,
+      "num": 63673,
+      "word": "偶遇李昀锐合照",
+      "onboard_time": 1771666700,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 63619,
       "num": 63619,
       "word": "感觉有1亿人在汕头看烟花",
@@ -15433,6 +15529,14 @@
       "onboard_time": 1771164022,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 63258,
+      "num": 63258,
+      "word": "林孝埈想边旅行边学中文",
+      "onboard_time": 1771666642,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 63236,
@@ -17683,6 +17787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 35482,
+      "num": 238602,
+      "word": "飞驰人生3路演现场乐事多",
+      "onboard_time": 1771662860,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 35432,
       "num": 30632,
       "word": "我发现大多数人都不会真正的休息",
@@ -18081,14 +18193,6 @@
       "onboard_time": 1771621093,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 29622,
-      "num": 199822,
-      "word": "飞驰人生3路演现场乐事多",
-      "onboard_time": 1771662860,
-      "rank": 18,
-      "category": "电影"
     },
     {
       "raw_hot": 29597,
@@ -19505,6 +19609,14 @@
       "onboard_time": 1771294282,
       "rank": 39,
       "category": "数码"
+    },
+    {
+      "raw_hot": 10998,
+      "num": 238232,
+      "word": "春运后半程天气大反转",
+      "onboard_time": 1771666221,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 10775,

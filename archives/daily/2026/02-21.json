@@ -1,6 +1,6 @@
 {
   "startTime": 1771603272383,
-  "endTime": 1771664193347,
+  "endTime": 1771666753747,
   "band_list": [
     {
       "raw_hot": 1928940,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 607689,
-      "num": 234101,
+      "num": 245596,
       "word": "黄晓明曝艺人红毯上假摔",
       "onboard_time": 1771661240,
       "rank": 12,
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 583972,
-      "num": 244111,
+      "num": 245484,
       "word": "王濛批评短道合理吗",
       "onboard_time": 1771658781,
       "rank": 24,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 582367,
-      "num": 225021,
+      "num": 235970,
       "word": "金价",
       "onboard_time": 1771652960,
       "rank": 42,
@@ -169,6 +169,14 @@
       "onboard_time": 1771595546,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 520501,
+      "num": 376556,
+      "word": "镖人 那尔那茜",
+      "onboard_time": 1771665259,
+      "rank": 5,
+      "category": "电影"
     },
     {
       "raw_hot": 502923,
@@ -203,6 +211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 479629,
+      "num": 479629,
+      "word": "北京沙尘暴",
+      "onboard_time": 1771662020,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 449010,
       "num": 213128,
       "word": "苹果史上首款折叠屏手机",
@@ -220,7 +236,7 @@
     },
     {
       "raw_hot": 436063,
-      "num": 220711,
+      "num": 239991,
       "word": "致7人溺亡的贝加尔湖旅游16888元起",
       "onboard_time": 1771653800,
       "rank": 49,
@@ -331,12 +347,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 332958,
+      "num": 237653,
+      "word": "镖人票房还有救吗",
+      "onboard_time": 1771663399,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 330433,
       "num": 330433,
       "word": "老一辈起情侣名没轻没重",
       "onboard_time": 1771634600,
       "rank": 6,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 320242,
+      "num": 236590,
+      "word": "白鹿发了37张照片",
+      "onboard_time": 1771663699,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 306860,
@@ -379,6 +411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 288909,
+      "num": 242653,
+      "word": "鹿晗编脏辫可以不洗",
+      "onboard_time": 1771663399,
+      "rank": 21,
+      "category": "演出"
+    },
+    {
       "raw_hot": 286940,
       "num": 229472,
       "word": "方大同才二十三MV",
@@ -395,6 +435,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 279453,
+      "num": 241518,
+      "word": "00后月租200住养老院2年",
+      "onboard_time": 1771662621,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 277883,
       "num": 290642,
       "word": "将门毒后不是大ip是巨ip",
@@ -409,6 +457,22 @@
       "onboard_time": 1771659440,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 268166,
+      "num": 268166,
+      "word": "烤肠商战",
+      "onboard_time": 1771663519,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 267537,
+      "num": 276354,
+      "word": "回村后用的都是名牌货",
+      "onboard_time": 1771660820,
+      "rank": 8,
+      "category": "幽默"
     },
     {
       "raw_hot": 256962,
@@ -435,20 +499,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 245309,
-      "num": 276354,
-      "word": "回村后用的都是名牌货",
-      "onboard_time": 1771660820,
-      "rank": 8,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 244039,
       "num": 244039,
       "word": "苏翊鸣回复徐梦桃小鸣酱随500",
       "onboard_time": 1771638740,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 239439,
+      "num": 239439,
+      "word": "我家那小子",
+      "onboard_time": 1771664240,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 238131,
@@ -507,6 +571,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 214259,
+      "num": 214259,
+      "word": "精装朋友圈的苦",
+      "onboard_time": 1771663820,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 211886,
       "num": 211886,
       "word": "沈腾这下不怕票房被黄渤超过了",
@@ -537,14 +609,6 @@
       "onboard_time": 1771657943,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 203924,
-      "num": 198801,
-      "word": "00后月租200住养老院2年",
-      "onboard_time": 1771662621,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 202865,
@@ -611,14 +675,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 184958,
-      "num": 184958,
-      "word": "鹿晗编脏辫可以不洗",
-      "onboard_time": 1771663399,
-      "rank": 21,
-      "category": "演出"
-    },
-    {
       "raw_hot": 180489,
       "num": 180489,
       "word": "古言三巨头",
@@ -633,14 +689,6 @@
       "onboard_time": 1771597103,
       "rank": 15,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 172570,
-      "num": 172570,
-      "word": "白鹿发了37张照片",
-      "onboard_time": 1771663699,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 169185,
@@ -987,12 +1035,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 103798,
-      "num": 103798,
-      "word": "镖人票房还有救吗",
-      "onboard_time": 1771663399,
-      "rank": 34,
-      "category": "电影"
+      "raw_hot": 103599,
+      "num": 123531,
+      "word": "香港公布宏福苑长远居住安排方案",
+      "onboard_time": 1771666100,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 102514,
@@ -1019,20 +1067,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 100865,
+      "num": 123020,
+      "word": "杭州天下第一财神庙幽默劝返",
+      "onboard_time": 1771665019,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100178,
       "num": 100178,
       "word": "成何体统",
       "onboard_time": 1771599562,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 100125,
-      "num": 100125,
-      "word": "烤肠商战",
-      "onboard_time": 1771663519,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 99965,
@@ -1059,6 +1107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 95674,
+      "num": 95674,
+      "word": "特朗普自嘲是历史上最傻的总统",
+      "onboard_time": 1771664541,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 94469,
       "num": 94469,
       "word": "王建华 大状师",
@@ -1083,6 +1139,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 92004,
+      "num": 92004,
+      "word": "第一次见识人丁兴旺",
+      "onboard_time": 1771665320,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 90908,
       "num": 90908,
       "word": "中国队男子5000米接力B组第一",
@@ -1105,14 +1169,6 @@
       "onboard_time": 1771661900,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 89881,
-      "num": 181508,
-      "word": "北京沙尘暴",
-      "onboard_time": 1771662020,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 89168,
@@ -1275,6 +1331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 81769,
+      "num": 81769,
+      "word": "阿育娅 大沙暴",
+      "onboard_time": 1771665141,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 80302,
       "num": 80302,
       "word": "王橹杰举个旗可以当导游了",
@@ -1283,12 +1347,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 79859,
-      "num": 79859,
-      "word": "精装朋友圈的苦",
-      "onboard_time": 1771663820,
-      "rank": 41,
-      "category": "幽默"
+      "raw_hot": 79876,
+      "num": 79876,
+      "word": "苏翊鸣回应最后等比分搞笑瞬间",
+      "onboard_time": 1771666100,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 79130,
@@ -1675,6 +1739,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 65641,
+      "num": 65641,
+      "word": "中国空中技巧米兰收官之战",
+      "onboard_time": 1771665019,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 65185,
+      "num": 65185,
+      "word": "出门在外再也不敢以貌取人",
+      "onboard_time": 1771664781,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 65139,
+      "num": 65139,
+      "word": "徐梦桃说你这是卫冕冠军待遇",
+      "onboard_time": 1771666700,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 65062,
       "num": 65062,
       "word": "无父母参与年轻人装修的家",
@@ -1720,6 +1808,22 @@
       "word": "李天马铜牌",
       "onboard_time": 1771595665,
       "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 63673,
+      "num": 63673,
+      "word": "偶遇李昀锐合照",
+      "onboard_time": 1771666700,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 63258,
+      "num": 63258,
+      "word": "林孝埈想边旅行边学中文",
+      "onboard_time": 1771666642,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -2139,6 +2243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 35482,
+      "num": 238602,
+      "word": "飞驰人生3路演现场乐事多",
+      "onboard_time": 1771662860,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 33424,
       "num": 33424,
       "word": "杨婧茹半决赛小组第一",
@@ -2177,14 +2289,6 @@
       "onboard_time": 1771621093,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 29622,
-      "num": 199822,
-      "word": "飞驰人生3路演现场乐事多",
-      "onboard_time": 1771662860,
-      "rank": 18,
-      "category": "电影"
     },
     {
       "raw_hot": 28794,
@@ -2321,6 +2425,14 @@
       "onboard_time": 1771644680,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 10998,
+      "num": 238232,
+      "word": "春运后半程天气大反转",
+      "onboard_time": 1771666221,
+      "rank": 19,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
