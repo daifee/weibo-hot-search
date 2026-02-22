@@ -1,6 +1,6 @@
 {
   "startTime": 1771691977529,
-  "endTime": 1771743600132,
+  "endTime": 1771744379800,
   "band_list": [
     {
       "raw_hot": 1358190,
@@ -9,6 +9,14 @@
       "onboard_time": 1771685843,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1074725,
+      "num": 585104,
+      "word": "淀粉肠进入瑜伽裤时代",
+      "onboard_time": 1771742360,
+      "rank": 3,
+      "category": "美食"
     },
     {
       "raw_hot": 871709,
@@ -44,19 +52,11 @@
     },
     {
       "raw_hot": 665729,
-      "num": 210846,
+      "num": 229851,
       "word": "美国11岁男孩被没收游戏机爆头养父",
       "onboard_time": 1771735700,
       "rank": 39,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 625132,
-      "num": 563241,
-      "word": "淀粉肠进入瑜伽裤时代",
-      "onboard_time": 1771742360,
-      "rank": 3,
-      "category": "美食"
     },
     {
       "raw_hot": 623586,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 544101,
-      "num": 215902,
+      "num": 240569,
       "word": "张凯毅生娃",
       "onboard_time": 1771739599,
       "rank": 26,
@@ -156,7 +156,7 @@
     },
     {
       "raw_hot": 415817,
-      "num": 213050,
+      "num": 235458,
       "word": "宋雨琦差点漏接韩国音著协电话",
       "onboard_time": 1771740259,
       "rank": 30,
@@ -203,6 +203,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 346605,
+      "num": 346605,
+      "word": "谷爱凌压轴之战延期又延期",
+      "onboard_time": 1771743500,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 340235,
       "num": 211187,
       "word": "伊朗",
@@ -243,14 +251,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 294752,
-      "num": 294752,
-      "word": "谷爱凌压轴之战延期又延期",
-      "onboard_time": 1771743500,
-      "rank": 6,
-      "category": "体育"
-    },
-    {
       "raw_hot": 294739,
       "num": 220320,
       "word": "王鹤棣宋茜恳求观众多给一些机会",
@@ -283,6 +283,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 273574,
+      "num": 273574,
+      "word": "虹猫蓝兔七侠传回来了",
+      "onboard_time": 1771743800,
+      "rank": 7,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 265356,
       "num": 265356,
       "word": "撒娇时没控制好力度的小狗",
@@ -292,7 +300,7 @@
     },
     {
       "raw_hot": 262745,
-      "num": 178920,
+      "num": 192766,
       "word": "特朗普开始报复了",
       "onboard_time": 1771732641,
       "rank": 20,
@@ -321,6 +329,14 @@
       "onboard_time": 1771734080,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 244522,
+      "num": 244522,
+      "word": "长大后全球物价下降100倍",
+      "onboard_time": 1771741341,
+      "rank": 14,
+      "category": "幽默"
     },
     {
       "raw_hot": 243755,
@@ -449,14 +465,6 @@
       "onboard_time": 1771688481,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 189587,
-      "num": 189587,
-      "word": "长大后全球物价下降100倍",
-      "onboard_time": 1771741341,
-      "rank": 14,
-      "category": "幽默"
     },
     {
       "raw_hot": 189015,
@@ -595,6 +603,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 142488,
+      "num": 142488,
+      "word": "钓帝黑大爷从生病到去世仅5天",
+      "onboard_time": 1771741999,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 141019,
       "num": 181222,
       "word": "东北夫妻节后返程一家人都哭了",
@@ -609,14 +625,6 @@
       "onboard_time": 1771734680,
       "rank": 46,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 138585,
-      "num": 138585,
-      "word": "钓帝黑大爷从生病到去世仅5天",
-      "onboard_time": 1771741999,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 134569,
@@ -657,6 +665,14 @@
       "onboard_time": 1771727540,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 130698,
+      "num": 130698,
+      "word": "徐梦桃父亲回应女儿女婿齐夺冠",
+      "onboard_time": 1771741341,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 130588,
@@ -795,6 +811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 107576,
+      "num": 107576,
+      "word": "北京奥运会的金镶玉奖牌有多权威",
+      "onboard_time": 1771742779,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106598,
       "num": 183913,
       "word": "王鹤棣自曝新疆拍戏胖到140斤",
@@ -811,14 +835,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 105805,
-      "num": 105805,
-      "word": "徐梦桃父亲回应女儿女婿齐夺冠",
-      "onboard_time": 1771741341,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 105103,
       "num": 105103,
       "word": "苏翊鸣闭幕式旗手",
@@ -827,12 +843,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104504,
+      "num": 104504,
+      "word": "鲍鱼价格被中国打下来了",
+      "onboard_time": 1771743079,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 102021,
       "num": 102021,
       "word": "谷爱凌称收到过死亡威胁",
       "onboard_time": 1771676481,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 102004,
+      "num": 100835,
+      "word": "星河入梦主创哽咽求排片",
+      "onboard_time": 1771742120,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 101514,
@@ -859,28 +891,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 97643,
-      "num": 97643,
-      "word": "星河入梦主创哽咽求排片",
-      "onboard_time": 1771742120,
-      "rank": 29,
-      "category": "电影"
-    },
-    {
       "raw_hot": 96857,
       "num": 96857,
       "word": "真正的城巴佬",
       "onboard_time": 1771735278,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 94117,
-      "num": 94117,
-      "word": "北京奥运会的金镶玉奖牌有多权威",
-      "onboard_time": 1771742779,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 92606,
@@ -929,14 +945,6 @@
       "onboard_time": 1771687999,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 87655,
-      "num": 87655,
-      "word": "鲍鱼价格被中国打下来了",
-      "onboard_time": 1771743079,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 87336,
@@ -1051,12 +1059,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 77139,
+      "num": 77139,
+      "word": "李柯以称不认为自己是短剧一姐",
+      "onboard_time": 1771743500,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 75971,
       "num": 103546,
       "word": "北京沙尘暴致大兴机场多趟航班备降",
       "onboard_time": 1771679963,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 75727,
+      "num": 75727,
+      "word": "萨摩耶从白面馒头逐渐化为狗形",
+      "onboard_time": 1771741341,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 74576,
@@ -1067,12 +1091,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 74360,
+      "num": 74360,
+      "word": "徐明浩韩语说出中国春节",
+      "onboard_time": 1771744279,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 73805,
       "num": 93537,
       "word": "女财神被游客追得满场跑",
       "onboard_time": 1771691181,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 73043,
+      "num": 73043,
+      "word": "空气炸锅烤奶茶",
+      "onboard_time": 1771743259,
+      "rank": 41,
+      "category": "美食"
     },
     {
       "raw_hot": 72316,
@@ -1115,20 +1155,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 70230,
-      "num": 70230,
-      "word": "空气炸锅烤奶茶",
-      "onboard_time": 1771743259,
-      "rank": 41,
-      "category": "美食"
-    },
-    {
       "raw_hot": 68729,
       "num": 103480,
       "word": "女子将900克黄金遗忘动车当场吓晕",
       "onboard_time": 1771678582,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 68174,
+      "num": 68174,
+      "word": "朴志训吃苹果减肥瘦了30斤",
+      "onboard_time": 1771744339,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 67868,
@@ -1153,14 +1193,6 @@
       "onboard_time": 1771739360,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 66911,
-      "num": 66911,
-      "word": "李柯以称不认为自己是短剧一姐",
-      "onboard_time": 1771743500,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 66784,
@@ -1193,14 +1225,6 @@
       "onboard_time": 1771739839,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 63742,
-      "num": 63742,
-      "word": "萨摩耶从白面馒头逐渐化为狗形",
-      "onboard_time": 1771741341,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 63698,
@@ -1553,6 +1577,14 @@
       "onboard_time": 1771707133,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 6969,
+      "num": 242527,
+      "word": "天公作美坐等青蛙公主起飞",
+      "onboard_time": 1771744220,
+      "rank": 9,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
