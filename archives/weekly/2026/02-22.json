@@ -1,10 +1,10 @@
 {
   "startTime": 1771691977529,
-  "endTime": 1771736212074,
+  "endTime": 1771736715416,
   "band_list": [
     {
       "raw_hot": 1358190,
-      "num": 198693,
+      "num": 211141,
       "word": "齐思钧回应分手",
       "onboard_time": 1771685843,
       "rank": 10,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 476193,
-      "num": 203692,
+      "num": 211515,
       "word": "杨洋手部骨折",
       "onboard_time": 1771729821,
       "rank": 16,
@@ -148,11 +148,19 @@
     },
     {
       "raw_hot": 340235,
-      "num": 200788,
+      "num": 211187,
       "word": "伊朗",
       "onboard_time": 1771732160,
       "rank": 11,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 311494,
+      "num": 311494,
+      "word": "高速堵车",
+      "onboard_time": 1771730901,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 303612,
@@ -212,7 +220,7 @@
     },
     {
       "raw_hot": 262745,
-      "num": 150545,
+      "num": 178920,
       "word": "特朗普开始报复了",
       "onboard_time": 1771732641,
       "rank": 20,
@@ -267,6 +275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 232437,
+      "num": 125224,
+      "word": "姥姥说上次吃还是在旧社会",
+      "onboard_time": 1771734859,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 232122,
       "num": 298643,
       "word": "镖人",
@@ -291,8 +307,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 220457,
-      "num": 220457,
+      "raw_hot": 226768,
+      "num": 226768,
       "word": "将门毒后用程少商的个人曲",
       "onboard_time": 1771728020,
       "rank": 31,
@@ -300,19 +316,27 @@
     },
     {
       "raw_hot": 219671,
-      "num": 148104,
+      "num": 171711,
       "word": "家里有三个女儿出门有多难",
       "onboard_time": 1771731259,
       "rank": 21,
       "category": "幽默"
     },
     {
-      "raw_hot": 212500,
-      "num": 212500,
-      "word": "高速堵车",
-      "onboard_time": 1771730901,
-      "rank": 7,
-      "category": "民生新闻"
+      "raw_hot": 214501,
+      "num": 214501,
+      "word": "用拼豆把流失文物拼回来了",
+      "onboard_time": 1771731502,
+      "rank": 8,
+      "category": "休闲"
+    },
+    {
+      "raw_hot": 212656,
+      "num": 212656,
+      "word": "镖人口碑升至第一",
+      "onboard_time": 1771726759,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 212446,
@@ -323,20 +347,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 209543,
-      "num": 209543,
-      "word": "用拼豆把流失文物拼回来了",
-      "onboard_time": 1771731502,
-      "rank": 8,
-      "category": "休闲"
+      "raw_hot": 208388,
+      "num": 208388,
+      "word": "厚本进组不让江山",
+      "onboard_time": 1771736000,
+      "rank": 25,
+      "category": "剧集"
     },
     {
-      "raw_hot": 209479,
-      "num": 209479,
-      "word": "镖人口碑升至第一",
-      "onboard_time": 1771726759,
-      "rank": 27,
-      "category": "电影"
+      "raw_hot": 194985,
+      "num": 194985,
+      "word": "香港宏福苑7座受灾楼宇将拆除",
+      "onboard_time": 1771734080,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 193153,
@@ -419,20 +443,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 156643,
-      "num": 156643,
-      "word": "香港宏福苑7座受灾楼宇将拆除",
-      "onboard_time": 1771734080,
-      "rank": 17,
+      "raw_hot": 149616,
+      "num": 149616,
+      "word": "带半瓶茅台乘火车被拦欲当场喝完",
+      "onboard_time": 1771735099,
+      "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 155795,
-      "num": 119760,
-      "word": "姥姥说上次吃还是在旧社会",
-      "onboard_time": 1771734859,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 149606,
@@ -467,14 +483,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 135068,
-      "num": 135068,
-      "word": "厚本进组不让江山",
-      "onboard_time": 1771736000,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 134569,
       "num": 117846,
       "word": "将门独后分销红果",
@@ -483,12 +491,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 134350,
-      "num": 134350,
-      "word": "带半瓶茅台乘火车被拦欲当场喝完",
-      "onboard_time": 1771735099,
-      "rank": 26,
-      "category": "民生新闻"
+      "raw_hot": 134360,
+      "num": 134360,
+      "word": "李昀锐被偶遇教路人拍照",
+      "onboard_time": 1771734319,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 133631,
@@ -513,6 +521,14 @@
       "onboard_time": 1771719439,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 129979,
+      "num": 129979,
+      "word": "哈尔滨冰雪大世界退票后下届免费看",
+      "onboard_time": 1771734680,
+      "rank": 46,
+      "category": "旅游"
     },
     {
       "raw_hot": 127573,
@@ -545,14 +561,6 @@
       "onboard_time": 1771730901,
       "rank": 28,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 120188,
-      "num": 120188,
-      "word": "李昀锐被偶遇教路人拍照",
-      "onboard_time": 1771734319,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 119337,
@@ -593,6 +601,14 @@
       "onboard_time": 1771730300,
       "rank": 27,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 110976,
+      "num": 110976,
+      "word": "光与夜之恋",
+      "onboard_time": 1771735640,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 110159,
@@ -683,12 +699,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 97152,
-      "num": 97152,
-      "word": "光与夜之恋",
-      "onboard_time": 1771735640,
-      "rank": 34,
-      "category": "游戏"
+      "raw_hot": 96857,
+      "num": 96857,
+      "word": "真正的城巴佬",
+      "onboard_time": 1771735278,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 92606,
@@ -707,14 +723,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 91856,
-      "num": 91856,
-      "word": "真正的城巴佬",
-      "onboard_time": 1771735278,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 91089,
       "num": 91089,
       "word": "孙龙再度自责泪崩",
@@ -723,8 +731,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 90717,
-      "num": 90717,
+      "raw_hot": 90776,
+      "num": 90776,
       "word": "此沙已争气争气再争气",
       "onboard_time": 1771733840,
       "rank": 37,
@@ -745,6 +753,14 @@
       "onboard_time": 1771687999,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 88374,
+      "num": 181222,
+      "word": "东北夫妻节后返程一家人都哭了",
+      "onboard_time": 1771735819,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87336,
@@ -793,14 +809,6 @@
       "onboard_time": 1771692918,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 83254,
-      "num": 83254,
-      "word": "哈尔滨冰雪大世界退票后下届免费看",
-      "onboard_time": 1771734680,
-      "rank": 46,
-      "category": "旅游"
     },
     {
       "raw_hot": 82622,
@@ -875,6 +883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 73115,
+      "num": 73115,
+      "word": "我家那小子开播",
+      "onboard_time": 1771736600,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 72316,
       "num": 103379,
       "word": "李天马回应失误",
@@ -889,6 +905,22 @@
       "onboard_time": 1771699695,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 71356,
+      "num": 71356,
+      "word": "家具吵架都听不懂对方说什么",
+      "onboard_time": 1771736659,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 68747,
+      "num": 183913,
+      "word": "王鹤棣自曝新疆拍戏胖到140斤",
+      "onboard_time": 1771736300,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 68729,
@@ -921,14 +953,6 @@
       "onboard_time": 1771728200,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 63918,
-      "num": 155196,
-      "word": "东北夫妻节后返程一家人都哭了",
-      "onboard_time": 1771735819,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 62989,
@@ -985,6 +1009,14 @@
       "onboard_time": 1771682003,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 58372,
+      "num": 92428,
+      "word": "美国11岁男孩被没收游戏机爆头养父",
+      "onboard_time": 1771735700,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 57659,
@@ -1164,7 +1196,7 @@
     },
     {
       "raw_hot": 31865,
-      "num": 648235,
+      "num": 660539,
       "word": "春运前20天预计流动量超50亿人次",
       "onboard_time": 1771731680,
       "rank": 2,
@@ -1179,19 +1211,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 26950,
-      "num": 153052,
+      "raw_hot": 29110,
+      "num": 179906,
       "word": "清迈72只老虎死因犬瘟热合并支原体",
       "onboard_time": 1771735881,
       "rank": 19,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 26760,
-      "num": 89343,
-      "word": "美国11岁男孩被没收游戏机爆头养父",
-      "onboard_time": 1771735700,
-      "rank": 39,
       "category": "海外新闻"
     },
     {

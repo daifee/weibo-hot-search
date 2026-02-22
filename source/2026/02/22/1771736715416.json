@@ -1,0 +1,410 @@
+{
+  "runTime": 1771736715416,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 828807,
+        "num": 1132609,
+        "word": "沈妙原型 王艳",
+        "onboard_time": 1771728979,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 761338,
+        "num": 817524,
+        "word": "若决赛取消谷爱凌将无缘奖牌",
+        "onboard_time": 1771729219,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31860,
+        "num": 660539,
+        "word": "春运前20天预计流动量超50亿人次",
+        "onboard_time": 1771731680,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 463150,
+        "num": 463150,
+        "word": "林孝埈再次道歉",
+        "onboard_time": 1771730960,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 388646,
+        "num": 388646,
+        "word": "泰国官方通报清迈72只老虎死亡",
+        "onboard_time": 1771729940,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 311494,
+        "num": 311494,
+        "word": "高速堵车",
+        "onboard_time": 1771730901,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 226768,
+        "num": 226768,
+        "word": "将门毒后用程少商的个人曲",
+        "onboard_time": 1771728020,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 216346,
+        "num": 216346,
+        "word": "福建一398元60米高悬崖咖啡店走红",
+        "onboard_time": 1771730240,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214501,
+        "num": 214501,
+        "word": "用拼豆把流失文物拼回来了",
+        "onboard_time": 1771731502,
+        "rank": 8,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 212656,
+        "num": 212656,
+        "word": "镖人口碑升至第一",
+        "onboard_time": 1771726759,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 451651,
+        "num": 211515,
+        "word": "杨洋手部骨折",
+        "onboard_time": 1771729821,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 333713,
+        "num": 211187,
+        "word": "伊朗",
+        "onboard_time": 1771732160,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 307125,
+        "num": 211141,
+        "word": "齐思钧回应分手",
+        "onboard_time": 1771685843,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208388,
+        "num": 208388,
+        "word": "厚本进组不让江山",
+        "onboard_time": 1771736000,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194985,
+        "num": 194985,
+        "word": "香港宏福苑7座受灾楼宇将拆除",
+        "onboard_time": 1771734080,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191859,
+        "num": 191859,
+        "word": "王鹤棣宋茜恳求观众多给一些机会",
+        "onboard_time": 1771727059,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 185111,
+        "num": 185111,
+        "word": "突然意识到经常习惯性霸凌自己",
+        "onboard_time": 1771724599,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 68747,
+        "num": 183913,
+        "word": "王鹤棣自曝新疆拍戏胖到140斤",
+        "onboard_time": 1771736300,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88374,
+        "num": 181222,
+        "word": "东北夫妻节后返程一家人都哭了",
+        "onboard_time": 1771735819,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29110,
+        "num": 179906,
+        "word": "清迈72只老虎死因犬瘟热合并支原体",
+        "onboard_time": 1771735881,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 224470,
+        "num": 178920,
+        "word": "特朗普开始报复了",
+        "onboard_time": 1771732641,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 177246,
+        "num": 177246,
+        "word": "小伙撞毁刚还清车贷的宝马微笑合影",
+        "onboard_time": 1771729040,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203665,
+        "num": 171711,
+        "word": "家里有三个女儿出门有多难",
+        "onboard_time": 1771731259,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 162519,
+        "num": 162519,
+        "word": "谷爱凌U型场地决赛或取消",
+        "onboard_time": 1771727481,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149616,
+        "num": 149616,
+        "word": "带半瓶茅台乘火车被拦欲当场喝完",
+        "onboard_time": 1771735099,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138415,
+        "num": 138415,
+        "word": "伊能静衣服吊牌没摘",
+        "onboard_time": 1771716256,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137403,
+        "num": 137403,
+        "word": "小伙刚还清车贷宝马几乎撞报废",
+        "onboard_time": 1771727240,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135667,
+        "num": 135667,
+        "word": "杨洋周洁琼不让江山开机同框",
+        "onboard_time": 1771726039,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134360,
+        "num": 134360,
+        "word": "李昀锐被偶遇教路人拍照",
+        "onboard_time": 1771734319,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129979,
+        "num": 129979,
+        "word": "哈尔滨冰雪大世界退票后下届免费看",
+        "onboard_time": 1771734680,
+        "rank": 29,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 232437,
+        "num": 125224,
+        "word": "姥姥说上次吃还是在旧社会",
+        "onboard_time": 1771734859,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119010,
+        "num": 119010,
+        "word": "躺太久身体会越躺越虚",
+        "onboard_time": 1771730901,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 117215,
+        "num": 117215,
+        "word": "徐梦桃的金牌有划痕了",
+        "onboard_time": 1771732701,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110976,
+        "num": 110976,
+        "word": "光与夜之恋",
+        "onboard_time": 1771735640,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 101663,
+        "num": 101663,
+        "word": "26岁女生摆摊拍新年照当场出片",
+        "onboard_time": 1771733060,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101221,
+        "num": 101221,
+        "word": "打麻将公式",
+        "onboard_time": 1771732160,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 96857,
+        "num": 96857,
+        "word": "真正的城巴佬",
+        "onboard_time": 1771735278,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 95305,
+        "num": 95305,
+        "word": "时代少年团演唱会",
+        "onboard_time": 1771727900,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 93229,
+        "num": 93229,
+        "word": "镖人",
+        "onboard_time": 1771683502,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 58372,
+        "num": 92428,
+        "word": "美国11岁男孩被没收游戏机爆头养父",
+        "onboard_time": 1771735700,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 91949,
+        "num": 91949,
+        "word": "白鹿晒跑男团gidle合照",
+        "onboard_time": 1771723219,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90776,
+        "num": 90776,
+        "word": "此沙已争气争气再争气",
+        "onboard_time": 1771733840,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88337,
+        "num": 88337,
+        "word": "75岁钓帝黑大爷去世",
+        "onboard_time": 1771723460,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90176,
+        "num": 85077,
+        "word": "李昀锐当上宋雨琦站哥了",
+        "onboard_time": 1771723578,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81780,
+        "num": 81780,
+        "word": "将门独后原著没有女主穿红衣骑马设定",
+        "onboard_time": 1771730540,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72076,
+        "num": 81351,
+        "word": "孙龙再度自责泪崩",
+        "onboard_time": 1771730421,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81151,
+        "num": 81151,
+        "word": "谢景行原型是胡歌",
+        "onboard_time": 1771723578,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73115,
+        "num": 73115,
+        "word": "我家那小子开播",
+        "onboard_time": 1771736600,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 71356,
+        "num": 71356,
+        "word": "家具吵架都听不懂对方说什么",
+        "onboard_time": 1771736659,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 70969,
+        "num": 70969,
+        "word": "逛博物馆也是有诀窍的",
+        "onboard_time": 1771735581,
+        "rank": 49,
+        "category": "休闲"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记走进朱茂锦家的故事#"
+    }
+  }
+}
