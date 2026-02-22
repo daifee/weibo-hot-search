@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1771766829571,
+  "endTime": 1771768845502,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -241,6 +241,14 @@
       "onboard_time": 1769659642,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 8286972,
+      "num": 8286972,
+      "word": "官方通报网传妈祖巡游换童事件",
+      "onboard_time": 1771766904,
+      "rank": 0,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 8120856,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1771235004,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1345767,
-      "num": 1616708,
-      "word": "邓超不当显眼包了我不习惯",
-      "onboard_time": 1771251578,
-      "rank": 21,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [
