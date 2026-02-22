@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1771759822666,
+  "endTime": 1771760733289,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -2315,6 +2315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1393519,
+      "num": 1393519,
+      "word": "中国队5金4银6铜收官",
+      "onboard_time": 1771759464,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1391996,
       "num": 1391996,
       "word": "王一博 大明星回内娱",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1771251578,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1344928,
-      "num": 557514,
-      "word": "西双版纳地震",
-      "onboard_time": 1771341381,
-      "rank": 4,
-      "category": "突发/灾害"
     }
   ],
   "hotgov_list": [

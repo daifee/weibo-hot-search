@@ -1,6 +1,6 @@
 {
   "startTime": 1771691977529,
-  "endTime": 1771759822666,
+  "endTime": 1771760733289,
   "band_list": [
     {
       "raw_hot": 12387662,
@@ -43,6 +43,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1393519,
+      "num": 1393519,
+      "word": "中国队5金4银6铜收官",
+      "onboard_time": 1771759464,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1358190,
       "num": 211141,
       "word": "齐思钧回应分手",
@@ -60,7 +68,7 @@
     },
     {
       "raw_hot": 1219883,
-      "num": 186557,
+      "num": 224286,
       "word": "孟子义李昀锐 四搭",
       "onboard_time": 1771752200,
       "rank": 20,
@@ -139,6 +147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 611149,
+      "num": 611149,
+      "word": "奖牌榜",
+      "onboard_time": 1771759225,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 546490,
       "num": 386178,
       "word": "杨洋周洁琼不让江山开机同框",
@@ -153,6 +169,14 @@
       "onboard_time": 1771739599,
       "rank": 26,
       "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 524508,
+      "num": 524508,
+      "word": "韩国队抗议米兰冬奥至少4次印错国旗",
+      "onboard_time": 1771754361,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 520771,
@@ -171,12 +195,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 499155,
-      "num": 499155,
-      "word": "韩国队抗议米兰冬奥至少4次印错国旗",
-      "onboard_time": 1771754361,
-      "rank": 12,
-      "category": "体育"
+      "raw_hot": 497422,
+      "num": 220492,
+      "word": "李峋的vlog全是公主",
+      "onboard_time": 1771757242,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 494530,
@@ -200,14 +224,6 @@
       "word": "杨洋手部骨折",
       "onboard_time": 1771729821,
       "rank": 16,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 471121,
-      "num": 186285,
-      "word": "李峋的vlog全是公主",
-      "onboard_time": 1771757242,
-      "rank": 23,
       "category": "艺人"
     },
     {
@@ -299,6 +315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 384016,
+      "num": 384016,
+      "word": "果然爱情公寓不是拍给当时的我们看的",
+      "onboard_time": 1771757482,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 380467,
       "num": 380467,
       "word": "突然意识到经常习惯性霸凌自己",
@@ -340,7 +364,7 @@
     },
     {
       "raw_hot": 352953,
-      "num": 186077,
+      "num": 213457,
       "word": "大年初五8岁男童虎跳峡坠崖遇难",
       "onboard_time": 1771750581,
       "rank": 48,
@@ -363,6 +387,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 345162,
+      "num": 345162,
+      "word": "谷爱凌追平王濛冬奥奖牌纪录",
+      "onboard_time": 1771760600,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 344993,
+      "num": 344993,
+      "word": "极客湾 下架",
+      "onboard_time": 1771758747,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 341100,
       "num": 226655,
       "word": "徐明浩韩语说出中国春节",
@@ -379,20 +419,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 323873,
-      "num": 323873,
-      "word": "果然爱情公寓不是拍给当时的我们看的",
-      "onboard_time": 1771757482,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 322862,
       "num": 322862,
       "word": "雷军假期滑了6天雪",
       "onboard_time": 1771741700,
       "rank": 5,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 321345,
+      "num": 321345,
+      "word": "谷爱凌 大心脏",
+      "onboard_time": 1771758143,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 319321,
@@ -409,14 +449,6 @@
       "onboard_time": 1771730901,
       "rank": 7,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 304929,
-      "num": 304929,
-      "word": "谷爱凌 大心脏",
-      "onboard_time": 1771758143,
-      "rank": 11,
-      "category": "体育"
     },
     {
       "raw_hot": 304334,
@@ -515,6 +547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 263650,
+      "num": 263650,
+      "word": "李方慧第三滑93.00分",
+      "onboard_time": 1771758628,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 263069,
       "num": 819321,
       "word": "谷爱凌决赛正常进行",
@@ -531,11 +571,11 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 258049,
-      "num": 258049,
-      "word": "奖牌榜",
-      "onboard_time": 1771759225,
-      "rank": 12,
+      "raw_hot": 261515,
+      "num": 261515,
+      "word": "谷爱凌李方慧 慧当凌绝顶",
+      "onboard_time": 1771759585,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -548,18 +588,10 @@
     },
     {
       "raw_hot": 251580,
-      "num": 107704,
+      "num": 122418,
       "word": "U池决赛 紧张",
       "onboard_time": 1771756521,
       "rank": 36,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 250159,
-      "num": 250159,
-      "word": "李方慧第三滑93.00分",
-      "onboard_time": 1771758628,
-      "rank": 13,
       "category": "体育"
     },
     {
@@ -619,14 +651,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 238146,
-      "num": 238146,
-      "word": "中国队5金4银6铜收官",
-      "onboard_time": 1771759464,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 237136,
       "num": 204803,
       "word": "朴志训吃苹果减肥瘦了30斤",
@@ -659,12 +683,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 233081,
+      "num": 233081,
+      "word": "谷爱凌空中姿态太美了",
+      "onboard_time": 1771758263,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 232122,
       "num": 298643,
       "word": "镖人",
       "onboard_time": 1771683502,
       "rank": 4,
       "category": "电影"
+    },
+    {
+      "raw_hot": 230479,
+      "num": 222383,
+      "word": "徐梦桃父亲在线催生",
+      "onboard_time": 1771758322,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 229468,
@@ -691,6 +731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 224758,
+      "num": 224758,
+      "word": "唐宫奇案大结局",
+      "onboard_time": 1771756822,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 221868,
       "num": 221868,
       "word": "水煮肉片吃出纸店家回怼你咋呼啥",
@@ -705,6 +753,14 @@
       "onboard_time": 1771731259,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 218725,
+      "num": 218725,
+      "word": "谷爱凌一战刷爆多项纪录",
+      "onboard_time": 1771760123,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 214501,
@@ -739,14 +795,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 198884,
-      "num": 198884,
-      "word": "唐宫奇案大结局",
-      "onboard_time": 1771756822,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 193219,
       "num": 193219,
       "word": "陈飞宇孙千新剧首播口碑",
@@ -779,6 +827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189125,
+      "num": 189125,
+      "word": "厚本 长剧",
+      "onboard_time": 1771759524,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 189015,
       "num": 133121,
       "word": "父亲屋外透气偶遇儿子坠楼接住",
@@ -795,14 +851,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 186749,
-      "num": 186749,
-      "word": "极客湾 下架",
-      "onboard_time": 1771758747,
-      "rank": 19,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 185276,
       "num": 164065,
       "word": "偶遇陆毅鲍蕾一家四口逛街",
@@ -811,20 +859,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 184374,
-      "num": 181291,
-      "word": "谷爱凌空中姿态太美了",
-      "onboard_time": 1771758263,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 184245,
       "num": 119602,
       "word": "怕朋友过得苦又怕朋友开路虎",
       "onboard_time": 1771729759,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 184040,
+      "num": 180365,
+      "word": "孙耀威当年真没骗人简直是仙女下凡",
+      "onboard_time": 1771760600,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 183526,
@@ -859,12 +907,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 179913,
-      "num": 179913,
-      "word": "徐梦桃父亲在线催生",
-      "onboard_time": 1771758322,
-      "rank": 27,
-      "category": "体育"
+      "raw_hot": 179084,
+      "num": 179084,
+      "word": "DK拒绝被T1零封",
+      "onboard_time": 1771759884,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 175816,
@@ -891,6 +939,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 174884,
+      "num": 174884,
+      "word": "原来谷爱凌在大跳台也会怕",
+      "onboard_time": 1771758806,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 174672,
       "num": 174672,
       "word": "五台山明火已被扑灭",
@@ -913,14 +969,6 @@
       "onboard_time": 1771752979,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 160401,
-      "num": 160401,
-      "word": "谷爱凌李方慧 慧当凌绝顶",
-      "onboard_time": 1771759585,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 153303,
@@ -977,14 +1025,6 @@
       "onboard_time": 1771677025,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 146476,
-      "num": 146476,
-      "word": "原来谷爱凌在大跳台也会怕",
-      "onboard_time": 1771758806,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 146195,
@@ -1059,6 +1099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 136004,
+      "num": 136004,
+      "word": "李方慧拿下个人首枚奥运奖牌",
+      "onboard_time": 1771760362,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134569,
       "num": 117846,
       "word": "将门独后分销红果",
@@ -1097,6 +1145,14 @@
       "onboard_time": 1771750281,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 132720,
+      "num": 132720,
+      "word": "小猫一头扎进大猫怀里",
+      "onboard_time": 1771760183,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 131934,
@@ -1235,12 +1291,12 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 116041,
-      "num": 116041,
-      "word": "厚本 长剧",
-      "onboard_time": 1771759524,
-      "rank": 40,
-      "category": "作品衍生"
+      "raw_hot": 115450,
+      "num": 115450,
+      "word": "杨幂说白帆插足别人婚姻是错误的",
+      "onboard_time": 1771758022,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 115348,
@@ -1249,14 +1305,6 @@
       "onboard_time": 1771756100,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 115179,
-      "num": 114048,
-      "word": "杨幂说白帆插足别人婚姻是错误的",
-      "onboard_time": 1771758022,
-      "rank": 42,
-      "category": "电影"
     },
     {
       "raw_hot": 114963,
@@ -1281,6 +1329,14 @@
       "onboard_time": 1771759105,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 111263,
+      "num": 111263,
+      "word": "谷爱凌米兰1金2银",
+      "onboard_time": 1771759943,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 110976,
@@ -1355,6 +1411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 106424,
+      "num": 106424,
+      "word": "30岁四件事决定70岁健康",
+      "onboard_time": 1771760664,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 106419,
       "num": 106419,
       "word": "刘耀文唱了鹿晗黄子韬的敏感",
@@ -1393,6 +1457,14 @@
       "onboard_time": 1771743079,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104089,
+      "num": 104089,
+      "word": "谷爱凌第六枚冬奥奖牌",
+      "onboard_time": 1771760242,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 103432,
@@ -2209,6 +2281,14 @@
       "onboard_time": 1771690459,
       "rank": 45,
       "category": "财经"
+    },
+    {
+      "raw_hot": 44635,
+      "num": 227871,
+      "word": "老外扎堆到上海买黄金",
+      "onboard_time": 1771760303,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 42519,
