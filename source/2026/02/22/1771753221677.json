@@ -1,0 +1,410 @@
+{
+  "runTime": 1771753221677,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 411213,
+        "num": 1065794,
+        "word": "曝票房15亿是镖人的回本线",
+        "onboard_time": 1771751000,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 352275,
+        "num": 791197,
+        "word": "大理初四订房订到医院",
+        "onboard_time": 1771744579,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 4163,
+        "num": 602416,
+        "word": "热气腾腾的中国年",
+        "onboard_time": 1771681641,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 369934,
+        "num": 369934,
+        "word": "杨幂演技",
+        "onboard_time": 1771748000,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 263069,
+        "num": 263069,
+        "word": "谷爱凌决赛正常进行",
+        "onboard_time": 1771745299,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 636621,
+        "num": 245355,
+        "word": "淀粉肠进入瑜伽裤时代",
+        "onboard_time": 1771742360,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 263526,
+        "num": 230468,
+        "word": "孟子义沈妙路透",
+        "onboard_time": 1771751360,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209893,
+        "num": 209893,
+        "word": "虹猫蓝兔七侠传回来了",
+        "onboard_time": 1771743800,
+        "rank": 7,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 155908,
+        "num": 155908,
+        "word": "初六把我回收了吧",
+        "onboard_time": 1771744520,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 128713,
+        "num": 155716,
+        "word": "不要在吃喝方面拿捏人",
+        "onboard_time": 1771750760,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 326835,
+        "num": 154171,
+        "word": "彩民随手扔掉千万彩票2天才发现",
+        "onboard_time": 1771748780,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 319321,
+        "num": 153685,
+        "word": "月薪多少才愿意过这样的人生",
+        "onboard_time": 1771747280,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 236192,
+        "num": 152699,
+        "word": "王婆说媒炫富男子实际年龄40岁",
+        "onboard_time": 1771750459,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188508,
+        "num": 150834,
+        "word": "输液过敏死亡独生女父母有残疾",
+        "onboard_time": 1771747221,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150563,
+        "num": 150563,
+        "word": "官方回应连云港一公职人员炫富",
+        "onboard_time": 1771745779,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109116,
+        "num": 150524,
+        "word": "飞驰人生3豆瓣评分降至7.4",
+        "onboard_time": 1771744759,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 104672,
+        "num": 148447,
+        "word": "熊孩子扔螺帽致大熊猫馆紧急收园",
+        "onboard_time": 1771748420,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91577,
+        "num": 148264,
+        "word": "湖南6名牺牲消防员名字公布",
+        "onboard_time": 1771749622,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104207,
+        "num": 146909,
+        "word": "厚本进组不让江山",
+        "onboard_time": 1771736000,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40010,
+        "num": 146120,
+        "word": "OpenAI预计2030年收入破2800亿美元",
+        "onboard_time": 1771752020,
+        "rank": 19,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 907767,
+        "num": 144460,
+        "word": "孟子义李昀锐 四搭",
+        "onboard_time": 1771752200,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 348259,
+        "num": 144048,
+        "word": "大年初五8岁男童虎跳峡坠崖遇难",
+        "onboard_time": 1771750581,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211830,
+        "num": 142462,
+        "word": "沈妙原型 王艳",
+        "onboard_time": 1771728979,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 200644,
+        "num": 141859,
+        "word": "张凯毅生娃",
+        "onboard_time": 1771739599,
+        "rank": 23,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 96316,
+        "num": 140414,
+        "word": "雷军假期滑了6天雪",
+        "onboard_time": 1771741700,
+        "rank": 24,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 139834,
+        "num": 139834,
+        "word": "U池决赛现场天公作美",
+        "onboard_time": 1771748540,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133201,
+        "num": 133201,
+        "word": "申有娜零食很忙采购中",
+        "onboard_time": 1771750281,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130808,
+        "num": 130808,
+        "word": "若决赛取消谷爱凌将无缘奖牌",
+        "onboard_time": 1771729219,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129713,
+        "num": 129713,
+        "word": "宋雨琦差点漏接韩国音著协电话",
+        "onboard_time": 1771740259,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86726,
+        "num": 129293,
+        "word": "高速堵车",
+        "onboard_time": 1771730901,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91633,
+        "num": 129208,
+        "word": "陆虎15分钟卖出一套房",
+        "onboard_time": 1771738999,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129181,
+        "num": 129181,
+        "word": "在家喝杯咖啡都被教育",
+        "onboard_time": 1771750158,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 122338,
+        "num": 122338,
+        "word": "邢菲录个节目看清人间冷暖",
+        "onboard_time": 1771750220,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114454,
+        "num": 114454,
+        "word": "徐明浩韩语说出中国春节",
+        "onboard_time": 1771744279,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93855,
+        "num": 113620,
+        "word": "伊朗",
+        "onboard_time": 1771732160,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 113340,
+        "num": 113340,
+        "word": "星河入梦上映6天票房仅破7000万",
+        "onboard_time": 1771747460,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 103106,
+        "num": 103106,
+        "word": "朴志训吃苹果减肥瘦了30斤",
+        "onboard_time": 1771744339,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92300,
+        "num": 92300,
+        "word": "徐梦桃说太嘚瑟了结果金牌被刮花",
+        "onboard_time": 1771752200,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91975,
+        "num": 91975,
+        "word": "刘耀文唱了鹿晗黄子韬的敏感",
+        "onboard_time": 1771749080,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82081,
+        "num": 82081,
+        "word": "舅舅兑1元零钱给每个外甥发500",
+        "onboard_time": 1771752860,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78264,
+        "num": 78264,
+        "word": "曝iPhoneFold与18Pro7月量产",
+        "onboard_time": 1771750400,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 75151,
+        "num": 75151,
+        "word": "运动一定要30分钟以上才能减肥吗",
+        "onboard_time": 1771749800,
+        "rank": 41,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 75064,
+        "num": 75064,
+        "word": "张凯毅生娃后发文",
+        "onboard_time": 1771751480,
+        "rank": 42,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 74631,
+        "num": 74631,
+        "word": "6名消防员坠崖牺牲起火住户发声",
+        "onboard_time": 1771748599,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73713,
+        "num": 73713,
+        "word": "鱼鳞冻",
+        "onboard_time": 1771749680,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 71837,
+        "num": 71837,
+        "word": "河南一企业开工客户挤爆大厅交钱",
+        "onboard_time": 1771751480,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69702,
+        "num": 69702,
+        "word": "齐思钧回应分手",
+        "onboard_time": 1771685843,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68918,
+        "num": 68918,
+        "word": "美国11岁男孩被没收游戏机爆头养父",
+        "onboard_time": 1771735700,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 68750,
+        "num": 68750,
+        "word": "吃饭是一件很私密的事情",
+        "onboard_time": 1771752979,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 68683,
+        "num": 68683,
+        "word": "徐梦桃回应团体丢金",
+        "onboard_time": 1771752080,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记这样寄语奥运健儿#"
+    }
+  }
+}

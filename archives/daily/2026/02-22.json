@@ -1,6 +1,6 @@
 {
   "startTime": 1771691977529,
-  "endTime": 1771750658064,
+  "endTime": 1771753221677,
   "band_list": [
     {
       "raw_hot": 1358190,
@@ -17,6 +17,14 @@
       "onboard_time": 1771742360,
       "rank": 3,
       "category": "美食"
+    },
+    {
+      "raw_hot": 907767,
+      "num": 144460,
+      "word": "孟子义李昀锐 四搭",
+      "onboard_time": 1771752200,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 871709,
@@ -179,6 +187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 411213,
+      "num": 1065794,
+      "word": "曝票房15亿是镖人的回本线",
+      "onboard_time": 1771751000,
+      "rank": 0,
+      "category": "电影"
+    },
+    {
       "raw_hot": 409153,
       "num": 86821,
       "word": "石家庄山火",
@@ -211,6 +227,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 369934,
+      "num": 369934,
+      "word": "杨幂演技",
+      "onboard_time": 1771748000,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 363348,
       "num": 759541,
       "word": "前方无厕所无烤肠无茶叶蛋",
@@ -232,6 +256,14 @@
       "word": "输液过敏死亡独生女父母有残疾",
       "onboard_time": 1771747221,
       "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 348259,
+      "num": 144048,
+      "word": "大年初五8岁男童虎跳峡坠崖遇难",
+      "onboard_time": 1771750581,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -259,14 +291,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 325289,
-      "num": 325289,
-      "word": "杨幂演技",
-      "onboard_time": 1771748000,
-      "rank": 8,
-      "category": "电影"
-    },
-    {
       "raw_hot": 322862,
       "num": 322862,
       "word": "雷军假期滑了6天雪",
@@ -275,20 +299,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 319321,
+      "num": 235373,
+      "word": "月薪多少才愿意过这样的人生",
+      "onboard_time": 1771747280,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 311494,
       "num": 311494,
       "word": "高速堵车",
       "onboard_time": 1771730901,
       "rank": 7,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 306820,
-      "num": 235373,
-      "word": "月薪多少才愿意过这样的人生",
-      "onboard_time": 1771747280,
-      "rank": 16,
-      "category": "电影"
     },
     {
       "raw_hot": 304334,
@@ -363,6 +387,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 263526,
+      "num": 230468,
+      "word": "孟子义沈妙路透",
+      "onboard_time": 1771751360,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 263069,
+      "num": 819321,
+      "word": "谷爱凌决赛正常进行",
+      "onboard_time": 1771745299,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 262745,
       "num": 205229,
       "word": "特朗普开始报复了",
@@ -403,14 +443,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 244085,
-      "num": 819321,
-      "word": "谷爱凌决赛正常进行",
-      "onboard_time": 1771745299,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 243755,
       "num": 553627,
       "word": "律师解读15岁女孩被当街暴打事件",
@@ -441,6 +473,14 @@
       "onboard_time": 1771715836,
       "rank": 12,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 236192,
+      "num": 152699,
+      "word": "王婆说媒炫富男子实际年龄40岁",
+      "onboard_time": 1771750459,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 233771,
@@ -739,6 +779,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 139834,
+      "num": 139834,
+      "word": "U池决赛现场天公作美",
+      "onboard_time": 1771748540,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134569,
       "num": 117846,
       "word": "将门独后分销红果",
@@ -771,6 +819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133201,
+      "num": 133201,
+      "word": "申有娜零食很忙采购中",
+      "onboard_time": 1771750281,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 131934,
       "num": 111523,
       "word": "刘梦章齐思钧交往约6年",
@@ -795,12 +851,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 130125,
-      "num": 130125,
-      "word": "U池决赛现场天公作美",
-      "onboard_time": 1771748540,
-      "rank": 30,
-      "category": "体育"
+      "raw_hot": 129181,
+      "num": 129181,
+      "word": "在家喝杯咖啡都被教育",
+      "onboard_time": 1771750158,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 128713,
+      "num": 155716,
+      "word": "不要在吃喝方面拿捏人",
+      "onboard_time": 1771750760,
+      "rank": 9,
+      "category": "幽默"
     },
     {
       "raw_hot": 127573,
@@ -820,7 +884,7 @@
     },
     {
       "raw_hot": 125555,
-      "num": 131311,
+      "num": 148447,
       "word": "熊孩子扔螺帽致大熊猫馆紧急收园",
       "onboard_time": 1771748420,
       "rank": 28,
@@ -841,6 +905,14 @@
       "onboard_time": 1771732701,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 122338,
+      "num": 122338,
+      "word": "邢菲录个节目看清人间冷暖",
+      "onboard_time": 1771750220,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 121403,
@@ -1059,6 +1131,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 92300,
+      "num": 92300,
+      "word": "徐梦桃说太嘚瑟了结果金牌被刮花",
+      "onboard_time": 1771752200,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 91577,
+      "num": 148264,
+      "word": "湖南6名牺牲消防员名字公布",
+      "onboard_time": 1771749622,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91089,
       "num": 91089,
       "word": "孙龙再度自责泪崩",
@@ -1072,14 +1160,6 @@
       "word": "此沙已争气争气再争气",
       "onboard_time": 1771733840,
       "rank": 37,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 89663,
-      "num": 89663,
-      "word": "申有娜零食很忙采购中",
-      "onboard_time": 1771750281,
-      "rank": 34,
       "category": "艺人"
     },
     {
@@ -1187,6 +1267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 82081,
+      "num": 82081,
+      "word": "舅舅兑1元零钱给每个外甥发500",
+      "onboard_time": 1771752860,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 81569,
       "num": 81569,
       "word": "十年后的恋爱关系",
@@ -1267,6 +1355,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 75151,
+      "num": 75151,
+      "word": "运动一定要30分钟以上才能减肥吗",
+      "onboard_time": 1771749800,
+      "rank": 41,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 75064,
+      "num": 75064,
+      "word": "张凯毅生娃后发文",
+      "onboard_time": 1771751480,
+      "rank": 42,
+      "category": "网红"
+    },
+    {
       "raw_hot": 74576,
       "num": 74576,
       "word": "夜王",
@@ -1291,12 +1395,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 73555,
-      "num": 73555,
-      "word": "在家喝杯咖啡都被教育",
-      "onboard_time": 1771750158,
-      "rank": 44,
-      "category": "情感"
+      "raw_hot": 73713,
+      "num": 73713,
+      "word": "鱼鳞冻",
+      "onboard_time": 1771749680,
+      "rank": 42,
+      "category": "美食"
     },
     {
       "raw_hot": 73043,
@@ -1331,18 +1435,10 @@
       "category": "体育"
     },
     {
-      "raw_hot": 72173,
-      "num": 72173,
-      "word": "鱼鳞冻",
-      "onboard_time": 1771749680,
-      "rank": 42,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 72068,
-      "num": 72068,
-      "word": "王婆说媒炫富男子实际年龄40岁",
-      "onboard_time": 1771750459,
+      "raw_hot": 71837,
+      "num": 71837,
+      "word": "河南一企业开工客户挤爆大厅交钱",
+      "onboard_time": 1771751480,
       "rank": 45,
       "category": "民生新闻"
     },
@@ -1379,12 +1475,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 68750,
+      "num": 68750,
+      "word": "吃饭是一件很私密的事情",
+      "onboard_time": 1771752979,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 68729,
       "num": 103480,
       "word": "女子将900克黄金遗忘动车当场吓晕",
       "onboard_time": 1771678582,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 68683,
+      "num": 68683,
+      "word": "徐梦桃回应团体丢金",
+      "onboard_time": 1771752080,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 68130,
@@ -1457,14 +1569,6 @@
       "onboard_time": 1771739300,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 63261,
-      "num": 63261,
-      "word": "大年初五8岁男童虎跳峡坠崖遇难",
-      "onboard_time": 1771750581,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 63221,
@@ -1569,14 +1673,6 @@
       "onboard_time": 1771688900,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 56620,
-      "num": 145712,
-      "word": "湖南6名牺牲消防员名字公布",
-      "onboard_time": 1771749622,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 55774,
@@ -1721,6 +1817,14 @@
       "onboard_time": 1771748239,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 40010,
+      "num": 146120,
+      "word": "OpenAI预计2030年收入破2800亿美元",
+      "onboard_time": 1771752020,
+      "rank": 19,
+      "category": "财经,互联网"
     },
     {
       "raw_hot": 38140,
