@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1771717640853,
+  "endTime": 1771728333264,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -404,7 +404,7 @@
     },
     {
       "raw_hot": 3175580,
-      "num": 110386,
+      "num": 130034,
       "word": "齐思钧回应分手",
       "onboard_time": 1771685843,
       "rank": 20,
@@ -4707,12 +4707,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 623586,
+      "num": 139719,
+      "word": "贝加尔湖事故8人身份全部确认",
+      "onboard_time": 1771724301,
+      "rank": 10,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 622914,
       "num": 135025,
       "word": "黄一鸣直播中途崩溃大哭",
       "onboard_time": 1770539480,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 622383,
+      "num": 563383,
+      "word": "谢景行原型是胡歌",
+      "onboard_time": 1771723578,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 621441,
@@ -5817,6 +5833,14 @@
       "onboard_time": 1771256672,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 546490,
+      "num": 386178,
+      "word": "杨洋周洁琼不让江山开机同框",
+      "onboard_time": 1771726039,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 546193,
@@ -7259,6 +7283,14 @@
       "category": "综艺,互联网"
     },
     {
+      "raw_hot": 462364,
+      "num": 1073978,
+      "word": "女生被催婚6岁侄子帮忙反击",
+      "onboard_time": 1771723460,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 462147,
       "num": 89887,
       "word": "孟子义对接把不去微博之夜内容删了",
@@ -7793,6 +7825,14 @@
       "onboard_time": 1770352161,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 438661,
+      "num": 131923,
+      "word": "伊能静衣服吊牌没摘",
+      "onboard_time": 1771716256,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 438339,
@@ -9203,6 +9243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 388588,
+      "num": 388588,
+      "word": "75岁钓帝黑大爷去世",
+      "onboard_time": 1771723460,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 388482,
       "num": 388482,
       "word": "青海一家35口人开大巴春节自驾游",
@@ -9393,6 +9441,14 @@
       "onboard_time": 1770208700,
       "rank": 6,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 380467,
+      "num": 380467,
+      "word": "突然意识到经常习惯性霸凌自己",
+      "onboard_time": 1771724599,
+      "rank": 6,
+      "category": "情感"
     },
     {
       "raw_hot": 380120,
@@ -13987,6 +14043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 282061,
+      "num": 282061,
+      "word": "谷爱凌U型场地决赛或取消",
+      "onboard_time": 1771727481,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 281841,
       "num": 116511,
       "word": "吃娃娃菜中毒夫妻被抓老家村干部发声",
@@ -14971,6 +15035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 265356,
+      "num": 265356,
+      "word": "撒娇时没控制好力度的小狗",
+      "onboard_time": 1771723460,
+      "rank": 8,
+      "category": "情感"
+    },
+    {
       "raw_hot": 265331,
       "num": 208971,
       "word": "韩国申诉未果",
@@ -15769,6 +15841,14 @@
       "onboard_time": 1770548721,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 251839,
+      "num": 121360,
+      "word": "李昀锐当上宋雨琦站哥了",
+      "onboard_time": 1771723578,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 251690,
@@ -19011,6 +19091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 208134,
+      "num": 772263,
+      "word": "这才是我想要的将门毒后",
+      "onboard_time": 1771716977,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 207981,
       "num": 1449637,
       "word": "90后的年龄跨度有多大",
@@ -20675,6 +20763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 189015,
+      "num": 112689,
+      "word": "父亲屋外透气偶遇儿子坠楼接住",
+      "onboard_time": 1771726759,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 188801,
       "num": 188801,
       "word": "爷错了 别哭了",
@@ -21179,6 +21275,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 182733,
+      "num": 112176,
+      "word": "娱乐圈恋爱就是一个巨大的县城文学",
+      "onboard_time": 1771716919,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 182588,
       "num": 159508,
       "word": "浙江卫视力挺白鹿",
@@ -21201,14 +21305,6 @@
       "onboard_time": 1771240106,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 182455,
-      "num": 59540,
-      "word": "伊能静衣服吊牌没摘",
-      "onboard_time": 1771716256,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 182410,
@@ -23067,6 +23163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 163225,
+      "num": 120303,
+      "word": "王鹤棣宋茜恳求观众多给一些机会",
+      "onboard_time": 1771727059,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 163086,
       "num": 102396,
       "word": "日本一小学生遭初中生勒脖又推入海",
@@ -24587,6 +24691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 150423,
+      "num": 111790,
+      "word": "小伙刚还清车贷宝马几乎撞报废",
+      "onboard_time": 1771727240,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 150391,
       "num": 150391,
       "word": "肖战拜年",
@@ -25449,6 +25561,14 @@
       "onboard_time": 1770821961,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 144229,
+      "num": 144229,
+      "word": "决赛推迟谷爱凌更新社媒",
+      "onboard_time": 1771720159,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 144221,
@@ -27155,6 +27275,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 134569,
+      "num": 117846,
+      "word": "将门独后分销红果",
+      "onboard_time": 1771717757,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 134558,
       "num": 134558,
       "word": "张凌赫宋祖儿 帝王和王后",
@@ -27491,6 +27619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131934,
+      "num": 111523,
+      "word": "刘梦章齐思钧交往约6年",
+      "onboard_time": 1771727540,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 131892,
       "num": 131892,
       "word": "周深不小心绊到倪妮一个劲儿道歉",
@@ -27769,6 +27905,14 @@
       "onboard_time": 1770736702,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 130588,
+      "num": 111279,
+      "word": "偶遇马嘉祺考驾照",
+      "onboard_time": 1771719439,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 130563,
@@ -28377,6 +28521,14 @@
       "onboard_time": 1771665019,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127573,
+      "num": 110922,
+      "word": "每天早睡1小时身体就不一样",
+      "onboard_time": 1771717037,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 127558,
@@ -30059,6 +30211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119337,
+      "num": 110554,
+      "word": "小城良方",
+      "onboard_time": 1771727059,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 119305,
       "num": 124784,
       "word": "辛芷蕾新剧豆瓣开分7.5",
@@ -30121,6 +30281,14 @@
       "onboard_time": 1770648742,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119052,
+      "num": 119052,
+      "word": "单届冬奥会6金",
+      "onboard_time": 1771726700,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 119042,
@@ -30539,6 +30707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 117621,
+      "num": 110338,
+      "word": "镖人口碑升至第一",
+      "onboard_time": 1771726759,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 117549,
       "num": 117549,
       "word": "裁员裁到大动脉有新说法了",
@@ -30817,6 +30993,14 @@
       "onboard_time": 1771678404,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 116362,
+      "num": 101369,
+      "word": "时代少年团演唱会",
+      "onboard_time": 1771727900,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 116318,
@@ -32475,6 +32659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 110159,
+      "num": 110159,
+      "word": "大年初六有啥习俗",
+      "onboard_time": 1771717037,
+      "rank": 28,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 110158,
       "num": 110158,
       "word": "王赫野这么会扭你早说啊",
@@ -32521,6 +32713,14 @@
       "onboard_time": 1770907281,
       "rank": 29,
       "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 110016,
+      "num": 101093,
+      "word": "将门毒后用程少商的个人曲",
+      "onboard_time": 1771728020,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 109995,
@@ -33777,6 +33977,14 @@
       "onboard_time": 1771161501,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 106055,
+      "num": 97628,
+      "word": "白鹿晒跑男团gidle合照",
+      "onboard_time": 1771723219,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 106052,
@@ -35219,6 +35427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 101742,
+      "num": 101742,
+      "word": "五台山明火已被扑灭",
+      "onboard_time": 1771727660,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101709,
       "num": 250997,
       "word": "原亚洲最大宜家门店闭店前一天现状",
@@ -35705,14 +35921,6 @@
       "onboard_time": 1770650002,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 100477,
-      "num": 58070,
-      "word": "每天早睡1小时身体就不一样",
-      "onboard_time": 1771717037,
-      "rank": 24,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 100466,
@@ -36689,6 +36897,14 @@
       "onboard_time": 1771571779,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 97653,
+      "num": 97653,
+      "word": "谷爱凌领衔中国四朵金花冲金",
+      "onboard_time": 1771724360,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 97651,
@@ -41435,6 +41651,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 85750,
+      "num": 85750,
+      "word": "山西文旅局回应出租打折却要司机贴钱",
+      "onboard_time": 1771727959,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85682,
       "num": 85682,
       "word": "GEN对战BFX",
@@ -43033,6 +43257,14 @@
       "onboard_time": 1770535579,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 81569,
+      "num": 81569,
+      "word": "十年后的恋爱关系",
+      "onboard_time": 1771723820,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 81562,
@@ -46235,14 +46467,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 74069,
-      "num": 57835,
-      "word": "娱乐圈恋爱就是一个巨大的县城文学",
-      "onboard_time": 1771716919,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 74056,
       "num": 74056,
       "word": "这种溜肩小猫最好摸了",
@@ -46569,6 +46793,14 @@
       "onboard_time": 1771571180,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 73021,
+      "num": 73021,
+      "word": "小兔洗脸小兔摔倒",
+      "onboard_time": 1771725738,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 73020,
@@ -48299,6 +48531,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 67636,
+      "num": 67636,
+      "word": "每天喝点这2种饮料身体会感谢你",
+      "onboard_time": 1771724360,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 67600,
       "num": 67600,
       "word": "建议纳入北影教材",
@@ -48617,6 +48857,14 @@
       "onboard_time": 1770486017,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 66784,
+      "num": 66784,
+      "word": "星河入梦导演回应排片低问题",
+      "onboard_time": 1771727359,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 66765,
@@ -49211,6 +49459,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 64723,
+      "num": 64723,
+      "word": "火箭vs尼克斯",
+      "onboard_time": 1771728200,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 64714,
       "num": 64714,
       "word": "孙龙进1000米半决赛",
@@ -49747,12 +50003,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 62989,
+      "num": 62989,
+      "word": "孙颖莎笑出音阶了",
+      "onboard_time": 1771728319,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 62976,
       "num": 72932,
       "word": "中国冰壶女队vs意大利",
       "onboard_time": 1771065679,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 62902,
+      "num": 62902,
+      "word": "当地回应石家庄突发山火",
+      "onboard_time": 1771725138,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 62896,
@@ -53017,6 +53289,14 @@
       "onboard_time": 1770294869,
       "rank": 17,
       "category": "数码,作品衍生"
+    },
+    {
+      "raw_hot": 48326,
+      "num": 112983,
+      "word": "家属回应钓帝黑大爷去世",
+      "onboard_time": 1771727839,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 48302,

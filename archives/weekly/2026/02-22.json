@@ -1,10 +1,10 @@
 {
   "startTime": 1771691977529,
-  "endTime": 1771717640853,
+  "endTime": 1771728333264,
   "band_list": [
     {
       "raw_hot": 1358190,
-      "num": 110386,
+      "num": 130034,
       "word": "齐思钧回应分手",
       "onboard_time": 1771685843,
       "rank": 10,
@@ -19,12 +19,68 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 623586,
+      "num": 139719,
+      "word": "贝加尔湖事故8人身份全部确认",
+      "onboard_time": 1771724301,
+      "rank": 10,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 622383,
+      "num": 563383,
+      "word": "谢景行原型是胡歌",
+      "onboard_time": 1771723578,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 546490,
+      "num": 386178,
+      "word": "杨洋周洁琼不让江山开机同框",
+      "onboard_time": 1771726039,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 462364,
+      "num": 1073978,
+      "word": "女生被催婚6岁侄子帮忙反击",
+      "onboard_time": 1771723460,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 438661,
+      "num": 131923,
+      "word": "伊能静衣服吊牌没摘",
+      "onboard_time": 1771716256,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 409153,
       "num": 86821,
       "word": "石家庄山火",
       "onboard_time": 1771715956,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 388588,
+      "num": 388588,
+      "word": "75岁钓帝黑大爷去世",
+      "onboard_time": 1771723460,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 380467,
+      "num": 380467,
+      "word": "突然意识到经常习惯性霸凌自己",
+      "onboard_time": 1771724599,
+      "rank": 6,
+      "category": "情感"
     },
     {
       "raw_hot": 363348,
@@ -75,12 +131,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 282061,
+      "num": 282061,
+      "word": "谷爱凌U型场地决赛或取消",
+      "onboard_time": 1771727481,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 278972,
       "num": 148554,
       "word": "李昀锐拍宋雨琦",
       "onboard_time": 1771687103,
       "rank": 6,
       "category": "演出"
+    },
+    {
+      "raw_hot": 265356,
+      "num": 265356,
+      "word": "撒娇时没控制好力度的小狗",
+      "onboard_time": 1771723460,
+      "rank": 8,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 251839,
+      "num": 121360,
+      "word": "李昀锐当上宋雨琦站哥了",
+      "onboard_time": 1771723578,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 243755,
@@ -123,6 +203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 208134,
+      "num": 772263,
+      "word": "这才是我想要的将门毒后",
+      "onboard_time": 1771716977,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193153,
       "num": 193153,
       "word": "美高官叫嚣27分钟接战台海",
@@ -139,6 +227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189015,
+      "num": 112689,
+      "word": "父亲屋外透气偶遇儿子坠楼接住",
+      "onboard_time": 1771726759,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 186850,
       "num": 106637,
       "word": "李书名 26岁女房客",
@@ -147,11 +243,11 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 182455,
-      "num": 59540,
-      "word": "伊能静衣服吊牌没摘",
-      "onboard_time": 1771716256,
-      "rank": 21,
+      "raw_hot": 182733,
+      "num": 112176,
+      "word": "娱乐圈恋爱就是一个巨大的县城文学",
+      "onboard_time": 1771716919,
+      "rank": 25,
       "category": "艺人"
     },
     {
@@ -171,6 +267,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 163225,
+      "num": 120303,
+      "word": "王鹤棣宋茜恳求观众多给一些机会",
+      "onboard_time": 1771727059,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 150423,
+      "num": 111790,
+      "word": "小伙刚还清车贷宝马几乎撞报废",
+      "onboard_time": 1771727240,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 149606,
       "num": 149606,
       "word": "游客挤到悔不当初不如在家刷手机",
@@ -187,12 +299,52 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 144229,
+      "num": 144229,
+      "word": "决赛推迟谷爱凌更新社媒",
+      "onboard_time": 1771720159,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 134569,
+      "num": 117846,
+      "word": "将门独后分销红果",
+      "onboard_time": 1771717757,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 133631,
       "num": 102886,
       "word": "初六送穷怎么送",
       "onboard_time": 1771684522,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 131934,
+      "num": 111523,
+      "word": "刘梦章齐思钧交往约6年",
+      "onboard_time": 1771727540,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 130588,
+      "num": 111279,
+      "word": "偶遇马嘉祺考驾照",
+      "onboard_time": 1771719439,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 127573,
+      "num": 110922,
+      "word": "每天早睡1小时身体就不一样",
+      "onboard_time": 1771717037,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 122622,
@@ -203,12 +355,60 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119337,
+      "num": 110554,
+      "word": "小城良方",
+      "onboard_time": 1771727059,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 119052,
+      "num": 119052,
+      "word": "单届冬奥会6金",
+      "onboard_time": 1771726700,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 117621,
+      "num": 110338,
+      "word": "镖人口碑升至第一",
+      "onboard_time": 1771726759,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 117405,
       "num": 103770,
       "word": "结婚五金起步价迈入10万元大关",
       "onboard_time": 1771682061,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116362,
+      "num": 101369,
+      "word": "时代少年团演唱会",
+      "onboard_time": 1771727900,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 110159,
+      "num": 110159,
+      "word": "大年初六有啥习俗",
+      "onboard_time": 1771717037,
+      "rank": 28,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 110016,
+      "num": 101093,
+      "word": "将门毒后用程少商的个人曲",
+      "onboard_time": 1771728020,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 109393,
@@ -235,6 +435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 106055,
+      "num": 97628,
+      "word": "白鹿晒跑男团gidle合照",
+      "onboard_time": 1771723219,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 105103,
       "num": 105103,
       "word": "苏翊鸣闭幕式旗手",
@@ -251,6 +459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 101742,
+      "num": 101742,
+      "word": "五台山明火已被扑灭",
+      "onboard_time": 1771727660,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101514,
       "num": 103685,
       "word": "林孝埈发博总结冬奥",
@@ -259,12 +475,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 100477,
-      "num": 58070,
-      "word": "每天早睡1小时身体就不一样",
-      "onboard_time": 1771717037,
-      "rank": 24,
-      "category": "健康医疗"
+      "raw_hot": 97653,
+      "num": 97653,
+      "word": "谷爱凌领衔中国四朵金花冲金",
+      "onboard_time": 1771724360,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 92464,
@@ -288,6 +504,14 @@
       "word": "五台山景区突发火情",
       "onboard_time": 1771716977,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 85750,
+      "num": 85750,
+      "word": "山西文旅局回应出租打折却要司机贴钱",
+      "onboard_time": 1771727959,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -323,6 +547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 81569,
+      "num": 81569,
+      "word": "十年后的恋爱关系",
+      "onboard_time": 1771723820,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 75971,
       "num": 103546,
       "word": "北京沙尘暴致大兴机场多趟航班备降",
@@ -331,20 +563,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 74069,
-      "num": 57835,
-      "word": "娱乐圈恋爱就是一个巨大的县城文学",
-      "onboard_time": 1771716919,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 73805,
       "num": 93537,
       "word": "女财神被游客追得满场跑",
       "onboard_time": 1771691181,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 73021,
+      "num": 73021,
+      "word": "小兔洗脸小兔摔倒",
+      "onboard_time": 1771725738,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 72316,
@@ -368,6 +600,46 @@
       "word": "女子将900克黄金遗忘动车当场吓晕",
       "onboard_time": 1771678582,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 67636,
+      "num": 67636,
+      "word": "每天喝点这2种饮料身体会感谢你",
+      "onboard_time": 1771724360,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 66784,
+      "num": 66784,
+      "word": "星河入梦导演回应排片低问题",
+      "onboard_time": 1771727359,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 64723,
+      "num": 64723,
+      "word": "火箭vs尼克斯",
+      "onboard_time": 1771728200,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 62989,
+      "num": 62989,
+      "word": "孙颖莎笑出音阶了",
+      "onboard_time": 1771728319,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 62902,
+      "num": 62902,
+      "word": "当地回应石家庄突发山火",
+      "onboard_time": 1771725138,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -499,6 +771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 48326,
+      "num": 112983,
+      "word": "家属回应钓帝黑大爷去世",
+      "onboard_time": 1771727839,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46912,
       "num": 46912,
       "word": "滑雪比赛为啥非得带手机",
@@ -612,7 +892,7 @@
     },
     {
       "raw_hot": 19046,
-      "num": 519068,
+      "num": 591615,
       "word": "热气腾腾的中国年",
       "onboard_time": 1771681641,
       "rank": 2,
