@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1771770933395,
+  "endTime": 1771772029429,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -489,6 +489,14 @@
       "onboard_time": 1771245576,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 4815268,
+      "num": 4815268,
+      "word": "谷爱凌奶奶去世",
+      "onboard_time": 1771770023,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 4770738,
@@ -1065,14 +1073,6 @@
       "onboard_time": 1770986539,
       "rank": 0,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 2235975,
-      "num": 2419694,
-      "word": "谷爱凌奶奶去世",
-      "onboard_time": 1771770023,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 2232636,

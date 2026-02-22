@@ -1,0 +1,410 @@
+{
+  "runTime": 1771772029429,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8814381,
+        "num": 8814381,
+        "word": "官方通报网传妈祖巡游换童事件",
+        "onboard_time": 1771766904,
+        "rank": 0,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 4815268,
+        "num": 4815268,
+        "word": "谷爱凌奶奶去世",
+        "onboard_time": 1771770023,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21922,
+        "num": 1731228,
+        "word": "2026新春走基层",
+        "onboard_time": 1771765761,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1087480,
+        "num": 1087480,
+        "word": "谷爱凌金牌",
+        "onboard_time": 1771758447,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 905251,
+        "num": 905251,
+        "word": "妈祖巡游事件当事2人均为女孩",
+        "onboard_time": 1771768584,
+        "rank": 4,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 616115,
+        "num": 616115,
+        "word": "谷爱凌泪洒发布会",
+        "onboard_time": 1771771163,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 509106,
+        "num": 509106,
+        "word": "谷爱凌第三滑94.75分",
+        "onboard_time": 1771757962,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 371414,
+        "num": 371414,
+        "word": "虞书欣何与 神仙肉",
+        "onboard_time": 1771763362,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 328954,
+        "num": 328954,
+        "word": "还原妈祖巡游换童争议全过程",
+        "onboard_time": 1771768162,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 303172,
+        "num": 303172,
+        "word": "女子U型场地决赛",
+        "onboard_time": 1771753340,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 583860,
+        "num": 300457,
+        "word": "周深 王一博老师什么不火呀",
+        "onboard_time": 1771768823,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 395865,
+        "num": 287340,
+        "word": "孟子义李昀锐 四搭",
+        "onboard_time": 1771752200,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 306318,
+        "num": 279619,
+        "word": "父亲遇3岁儿子坠楼下意识伸手接",
+        "onboard_time": 1771768106,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 372365,
+        "num": 265730,
+        "word": "贾玲剧组 女演员可以坐箱子",
+        "onboard_time": 1771768040,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258411,
+        "num": 258411,
+        "word": "镖人",
+        "onboard_time": 1771769724,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 191482,
+        "num": 191482,
+        "word": "王濛祝贺谷爱凌李方慧",
+        "onboard_time": 1771765523,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 240832,
+        "num": 191457,
+        "word": "白鹿这眼线是自己画的吧",
+        "onboard_time": 1771765403,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188717,
+        "num": 188717,
+        "word": "王楚钦鹰眼挑战成功",
+        "onboard_time": 1771770863,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184389,
+        "num": 184389,
+        "word": "中国队5金4银6铜收官",
+        "onboard_time": 1771759464,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23308,
+        "num": 183388,
+        "word": "4千元相机没舍得买5年后涨至9千",
+        "onboard_time": 1771771763,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182520,
+        "num": 182520,
+        "word": "任子威谈到李琰教练哭了",
+        "onboard_time": 1771767982,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163837,
+        "num": 163837,
+        "word": "大年初五8岁男童虎跳峡坠崖遇难",
+        "onboard_time": 1771750581,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160459,
+        "num": 160459,
+        "word": "谷爱凌唱国歌",
+        "onboard_time": 1771762282,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150498,
+        "num": 150498,
+        "word": "大学生唯一拒绝的红包",
+        "onboard_time": 1771768463,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144755,
+        "num": 144755,
+        "word": "白鹿曾舜晞梁永棋陈鹤一韩国逛街",
+        "onboard_time": 1771771284,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143812,
+        "num": 143812,
+        "word": "张凌赫 刺棠",
+        "onboard_time": 1771764383,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142084,
+        "num": 142084,
+        "word": "贝加尔湖溺亡中国游客遗体全部打捞上岸",
+        "onboard_time": 1771764982,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136922,
+        "num": 136922,
+        "word": "王鹤棣宋茜星河入梦票房逆跌",
+        "onboard_time": 1771770445,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 134716,
+        "num": 134716,
+        "word": "娜扎这才叫顶级美女",
+        "onboard_time": 1771769903,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128787,
+        "num": 128787,
+        "word": "日本一寺庙举行裸祭上万名男性参加",
+        "onboard_time": 1771762882,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 134648,
+        "num": 128782,
+        "word": "田曦薇看似甜妹实则拽妹",
+        "onboard_time": 1771769604,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128776,
+        "num": 128776,
+        "word": "谷爱凌从16分到94分绝地反击",
+        "onboard_time": 1771771163,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123676,
+        "num": 123676,
+        "word": "王楚钦比赛",
+        "onboard_time": 1771765701,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122488,
+        "num": 122488,
+        "word": "64岁演员江华暴瘦引网友担忧",
+        "onboard_time": 1771765281,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121053,
+        "num": 121053,
+        "word": "谷爱凌戴上3枚奖牌",
+        "onboard_time": 1771767081,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118717,
+        "num": 118717,
+        "word": "林心如舒淇林熙蕾三家过年聚会",
+        "onboard_time": 1771768704,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112145,
+        "num": 112145,
+        "word": "皇家马德里道歉",
+        "onboard_time": 1771766602,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108910,
+        "num": 108910,
+        "word": "林更新以后再也不乱看了",
+        "onboard_time": 1771770805,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 108843,
+        "num": 108843,
+        "word": "央视解说谷爱凌比赛爆金句",
+        "onboard_time": 1771766722,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13077,
+        "num": 108444,
+        "word": "春节买金热有金店排队8小时",
+        "onboard_time": 1771771224,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108100,
+        "num": 108100,
+        "word": "谷爱凌成中国冬奥个人项目奖牌王",
+        "onboard_time": 1771771763,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107768,
+        "num": 107768,
+        "word": "谷爱凌 九亿少女的梦",
+        "onboard_time": 1771760004,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106395,
+        "num": 106395,
+        "word": "骏良",
+        "onboard_time": 1771767203,
+        "rank": 42,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 103516,
+        "num": 103516,
+        "word": "北京市委市政府贺电",
+        "onboard_time": 1771765581,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97489,
+        "num": 97489,
+        "word": "DK战胜T1",
+        "onboard_time": 1771765823,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 50561,
+        "num": 92047,
+        "word": "90位外嫁女回村过年最大年龄86岁",
+        "onboard_time": 1771770563,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91593,
+        "num": 91593,
+        "word": "拾石村小妈祖巡游终于有翻译版本了",
+        "onboard_time": 1771762941,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88518,
+        "num": 88518,
+        "word": "李峋的vlog全是公主",
+        "onboard_time": 1771757242,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 82750,
+        "num": 82750,
+        "word": "老辈子种菜真是没轻没重",
+        "onboard_time": 1771770263,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 80679,
+        "num": 80679,
+        "word": "仙逆",
+        "onboard_time": 1771758866,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记这样寄语奥运健儿#"
+    }
+  }
+}
