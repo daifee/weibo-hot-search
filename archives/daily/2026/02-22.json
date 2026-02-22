@@ -1,6 +1,6 @@
 {
   "startTime": 1771691977529,
-  "endTime": 1771746202767,
+  "endTime": 1771746972190,
   "band_list": [
     {
       "raw_hot": 1358190,
@@ -49,6 +49,14 @@
       "onboard_time": 1771675342,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 712814,
+      "num": 1114050,
+      "word": "大理初四订房订到医院",
+      "onboard_time": 1771744579,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 665729,
@@ -107,16 +115,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 503683,
-      "num": 1080589,
-      "word": "大理初四订房订到医院",
-      "onboard_time": 1771744579,
-      "rank": 0,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 491632,
-      "num": 491632,
+      "raw_hot": 494530,
+      "num": 494530,
       "word": "虹猫蓝兔七侠传回来了",
       "onboard_time": 1771743800,
       "rank": 7,
@@ -220,11 +220,19 @@
     },
     {
       "raw_hot": 346605,
-      "num": 346605,
+      "num": 826011,
       "word": "谷爱凌压轴之战延期又延期",
       "onboard_time": 1771743500,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 341100,
+      "num": 173432,
+      "word": "徐明浩韩语说出中国春节",
+      "onboard_time": 1771744279,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 340235,
@@ -256,14 +264,6 @@
       "word": "刘涛回应妈祖照被设为屏保",
       "onboard_time": 1771673661,
       "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 296087,
-      "num": 173432,
-      "word": "徐明浩韩语说出中国春节",
-      "onboard_time": 1771744279,
-      "rank": 42,
       "category": "艺人"
     },
     {
@@ -316,7 +316,7 @@
     },
     {
       "raw_hot": 262745,
-      "num": 192766,
+      "num": 200539,
       "word": "特朗普开始报复了",
       "onboard_time": 1771732641,
       "rank": 20,
@@ -369,6 +369,14 @@
       "onboard_time": 1771727240,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 237136,
+      "num": 170476,
+      "word": "朴志训吃苹果减肥瘦了30斤",
+      "onboard_time": 1771744339,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 236506,
@@ -459,14 +467,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 199481,
-      "num": 170476,
-      "word": "朴志训吃苹果减肥瘦了30斤",
-      "onboard_time": 1771744339,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 193219,
       "num": 193219,
       "word": "陈飞宇孙千新剧首播口碑",
@@ -505,6 +505,14 @@
       "onboard_time": 1771685302,
       "rank": 12,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 185276,
+      "num": 146537,
+      "word": "偶遇陆毅鲍蕾一家四口逛街",
+      "onboard_time": 1771745179,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 184245,
@@ -593,14 +601,6 @@
       "onboard_time": 1771736600,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 146537,
-      "num": 146537,
-      "word": "偶遇陆毅鲍蕾一家四口逛街",
-      "onboard_time": 1771745179,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 146532,
@@ -731,6 +731,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 127132,
+      "num": 146609,
+      "word": "官方回应连云港一公职人员炫富",
+      "onboard_time": 1771745779,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122622,
       "num": 122622,
       "word": "谷爱凌第八位出场",
@@ -803,6 +811,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 113726,
+      "num": 113726,
+      "word": "飞驰人生3豆瓣评分降至7.4",
+      "onboard_time": 1771744759,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 110976,
       "num": 110976,
       "word": "光与夜之恋",
@@ -817,14 +833,6 @@
       "onboard_time": 1771717037,
       "rank": 28,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 109878,
-      "num": 109878,
-      "word": "飞驰人生3豆瓣评分降至7.4",
-      "onboard_time": 1771744759,
-      "rank": 25,
-      "category": "电影"
     },
     {
       "raw_hot": 109393,
@@ -988,7 +996,7 @@
     },
     {
       "raw_hot": 89205,
-      "num": 89205,
+      "num": 99694,
       "word": "葡萄和鸡肉一起炒是啥味道",
       "onboard_time": 1771744400,
       "rank": 34,
@@ -1059,14 +1067,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 82520,
-      "num": 146609,
-      "word": "官方回应连云港一公职人员炫富",
-      "onboard_time": 1771745779,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 81569,
       "num": 81569,
       "word": "十年后的恋爱关系",
@@ -1081,6 +1081,14 @@
       "onboard_time": 1771733960,
       "rank": 47,
       "category": "美食"
+    },
+    {
+      "raw_hot": 80940,
+      "num": 196159,
+      "word": "谷爱凌决赛正常进行",
+      "onboard_time": 1771745299,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 80746,
@@ -1169,6 +1177,14 @@
       "onboard_time": 1771743259,
       "rank": 41,
       "category": "美食"
+    },
+    {
+      "raw_hot": 72995,
+      "num": 72995,
+      "word": "覃予萱0比3桥本帆乃香",
+      "onboard_time": 1771746799,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 72316,
@@ -1419,14 +1435,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 54926,
-      "num": 196159,
-      "word": "谷爱凌决赛正常进行",
-      "onboard_time": 1771745299,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 54350,
       "num": 93478,
       "word": "欧阳震华暴瘦引热议",
@@ -1673,6 +1681,22 @@
       "onboard_time": 1771707133,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 13385,
+      "num": 183090,
+      "word": "大年初六迎来春节假期返程高峰",
+      "onboard_time": 1771746679,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10144,
+      "num": 95341,
+      "word": "致敬海拔4868米云端哨所的守护者",
+      "onboard_time": 1771746501,
+      "rank": 31,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
@@ -1684,6 +1708,9 @@
     },
     {
       "word": "#总书记走进朱茂锦家的故事#"
+    },
+    {
+      "word": "#总书记这样寄语奥运健儿#"
     }
   ]
 }

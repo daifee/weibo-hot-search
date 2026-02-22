@@ -1,0 +1,410 @@
+{
+  "runTime": 1771746972190,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 712814,
+        "num": 1114050,
+        "word": "大理初四订房订到医院",
+        "onboard_time": 1771744579,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 305978,
+        "num": 826011,
+        "word": "谷爱凌压轴之战延期又延期",
+        "onboard_time": 1771743500,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 6261,
+        "num": 659697,
+        "word": "热气腾腾的中国年",
+        "onboard_time": 1771681641,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1045391,
+        "num": 604958,
+        "word": "淀粉肠进入瑜伽裤时代",
+        "onboard_time": 1771742360,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 494530,
+        "num": 494530,
+        "word": "虹猫蓝兔七侠传回来了",
+        "onboard_time": 1771743800,
+        "rank": 4,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 227910,
+        "num": 227910,
+        "word": "陆虎15分钟卖出一套房",
+        "onboard_time": 1771738999,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 226378,
+        "num": 226378,
+        "word": "雷军假期滑了6天雪",
+        "onboard_time": 1771741700,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 200539,
+        "num": 200539,
+        "word": "特朗普开始报复了",
+        "onboard_time": 1771732641,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 13385,
+        "num": 183090,
+        "word": "大年初六迎来春节假期返程高峰",
+        "onboard_time": 1771746679,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178340,
+        "num": 178340,
+        "word": "长大后全球物价下降100倍",
+        "onboard_time": 1771741341,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 506668,
+        "num": 175982,
+        "word": "张凯毅生娃",
+        "onboard_time": 1771739599,
+        "rank": 10,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 341100,
+        "num": 172820,
+        "word": "徐明浩韩语说出中国春节",
+        "onboard_time": 1771744279,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184971,
+        "num": 171801,
+        "word": "美国11岁男孩被没收游戏机爆头养父",
+        "onboard_time": 1771735700,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 316698,
+        "num": 166499,
+        "word": "沈妙原型 王艳",
+        "onboard_time": 1771728979,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 286648,
+        "num": 165409,
+        "word": "宋雨琦差点漏接韩国音著协电话",
+        "onboard_time": 1771740259,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163083,
+        "num": 163083,
+        "word": "高速堵车",
+        "onboard_time": 1771730901,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 237136,
+        "num": 147502,
+        "word": "朴志训吃苹果减肥瘦了30斤",
+        "onboard_time": 1771744339,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185276,
+        "num": 141345,
+        "word": "偶遇陆毅鲍蕾一家四口逛街",
+        "onboard_time": 1771745179,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101522,
+        "num": 129046,
+        "word": "林孝埈再次道歉",
+        "onboard_time": 1771730960,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127132,
+        "num": 127132,
+        "word": "官方回应连云港一公职人员炫富",
+        "onboard_time": 1771745779,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 362445,
+        "num": 126282,
+        "word": "若决赛取消谷爱凌将无缘奖牌",
+        "onboard_time": 1771729219,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127941,
+        "num": 125408,
+        "word": "初六把我回收了吧",
+        "onboard_time": 1771744520,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 154325,
+        "num": 125249,
+        "word": "厚本进组不让江山",
+        "onboard_time": 1771736000,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123975,
+        "num": 123975,
+        "word": "姥姥说上次吃还是在旧社会",
+        "onboard_time": 1771734859,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 116928,
+        "num": 116928,
+        "word": "伊朗",
+        "onboard_time": 1771732160,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 113726,
+        "num": 113726,
+        "word": "飞驰人生3豆瓣评分降至7.4",
+        "onboard_time": 1771744759,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 111905,
+        "num": 111905,
+        "word": "齐思钧回应分手",
+        "onboard_time": 1771685843,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102184,
+        "num": 102184,
+        "word": "北京奥运会的金镶玉奖牌有多权威",
+        "onboard_time": 1771742779,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84620,
+        "num": 99985,
+        "word": "徐梦桃父亲回应女儿女婿齐夺冠",
+        "onboard_time": 1771741341,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81516,
+        "num": 99694,
+        "word": "葡萄和鸡肉一起炒是啥味道",
+        "onboard_time": 1771744400,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 99664,
+        "num": 99664,
+        "word": "星河入梦主创哽咽求排片",
+        "onboard_time": 1771742120,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 10144,
+        "num": 95341,
+        "word": "致敬海拔4868米云端哨所的守护者",
+        "onboard_time": 1771746501,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91533,
+        "num": 91533,
+        "word": "杨洋手部骨折",
+        "onboard_time": 1771729821,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87714,
+        "num": 87714,
+        "word": "王鹤棣宋茜恳求观众多给一些机会",
+        "onboard_time": 1771727059,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 80940,
+        "num": 80940,
+        "word": "谷爱凌决赛正常进行",
+        "onboard_time": 1771745299,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 79198,
+        "num": 79198,
+        "word": "钓帝黑大爷从生病到去世仅5天",
+        "onboard_time": 1771741999,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76899,
+        "num": 76899,
+        "word": "水煮肉片吃出纸店家回怼你咋呼啥",
+        "onboard_time": 1771738101,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72995,
+        "num": 72995,
+        "word": "覃予萱0比3桥本帆乃香",
+        "onboard_time": 1771746799,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71327,
+        "num": 71327,
+        "word": "镖人",
+        "onboard_time": 1771683502,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 70164,
+        "num": 70164,
+        "word": "鲍鱼价格被中国打下来了",
+        "onboard_time": 1771743079,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70080,
+        "num": 70080,
+        "word": "空气炸锅烤奶茶",
+        "onboard_time": 1771743259,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 69217,
+        "num": 69217,
+        "word": "将门毒后用程少商的个人曲",
+        "onboard_time": 1771728020,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68952,
+        "num": 68952,
+        "word": "唐宫奇案道歉名单",
+        "onboard_time": 1771740619,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63557,
+        "num": 63557,
+        "word": "带半瓶茅台乘火车被拦欲当场喝完",
+        "onboard_time": 1771735099,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65058,
+        "num": 62961,
+        "word": "镖人口碑升至第一",
+        "onboard_time": 1771726759,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 59668,
+        "num": 59668,
+        "word": "徐梦桃的金牌有划痕了",
+        "onboard_time": 1771732701,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22840,
+        "num": 59664,
+        "word": "春运前20天预计流动量超50亿人次",
+        "onboard_time": 1771731680,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59664,
+        "num": 59663,
+        "word": "萨摩耶从白面馒头逐渐化为狗形",
+        "onboard_time": 1771741341,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 56705,
+        "num": 56705,
+        "word": "和十年闺蜜断交后对友谊的思考",
+        "onboard_time": 1771743500,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 56571,
+        "num": 56571,
+        "word": "李柯以称不认为自己是短剧一姐",
+        "onboard_time": 1771743500,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记这样寄语奥运健儿#"
+    }
+  }
+}
