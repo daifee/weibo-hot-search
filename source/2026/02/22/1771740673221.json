@@ -1,0 +1,410 @@
+{
+  "runTime": 1771740673221,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 552363,
+        "num": 1088378,
+        "word": "沈妙原型 王艳",
+        "onboard_time": 1771728979,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 522196,
+        "num": 783097,
+        "word": "若决赛取消谷爱凌将无缘奖牌",
+        "onboard_time": 1771729219,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28843,
+        "num": 607000,
+        "word": "春运前20天预计流动量超50亿人次",
+        "onboard_time": 1771731680,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 462454,
+        "num": 462454,
+        "word": "陆虎15分钟卖出一套房",
+        "onboard_time": 1771738999,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235054,
+        "num": 235054,
+        "word": "林孝埈再次道歉",
+        "onboard_time": 1771730960,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 488077,
+        "num": 225907,
+        "word": "姥姥说上次吃还是在旧社会",
+        "onboard_time": 1771734859,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 413005,
+        "num": 222462,
+        "word": "厚本进组不让江山",
+        "onboard_time": 1771736000,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215009,
+        "num": 215009,
+        "word": "高速堵车",
+        "onboard_time": 1771730901,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211540,
+        "num": 211540,
+        "word": "香港宏福苑7座受灾楼宇将拆除",
+        "onboard_time": 1771734080,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37001,
+        "num": 210156,
+        "word": "谷爱凌U池决赛改至17点40",
+        "onboard_time": 1771733900,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 605443,
+        "num": 207123,
+        "word": "美国11岁男孩被没收游戏机爆头养父",
+        "onboard_time": 1771735700,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 440485,
+        "num": 201061,
+        "word": "张凯毅生娃",
+        "onboard_time": 1771739599,
+        "rank": 11,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 216117,
+        "num": 198496,
+        "word": "齐思钧回应分手",
+        "onboard_time": 1771685843,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182534,
+        "num": 196758,
+        "word": "美11岁男孩枪杀养父称没想过后果",
+        "onboard_time": 1771736781,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 193219,
+        "num": 193219,
+        "word": "陈飞宇孙千新剧首播口碑",
+        "onboard_time": 1771738821,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184001,
+        "num": 184001,
+        "word": "杨洋手部骨折",
+        "onboard_time": 1771729821,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178182,
+        "num": 178182,
+        "word": "伊朗",
+        "onboard_time": 1771732160,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 153109,
+        "num": 153109,
+        "word": "泰国官方通报清迈72只老虎死亡",
+        "onboard_time": 1771729940,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 150767,
+        "num": 150767,
+        "word": "水煮肉片吃出纸店家回怼你咋呼啥",
+        "onboard_time": 1771738101,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146195,
+        "num": 149332,
+        "word": "飞驰人生3票房20亿彩蛋",
+        "onboard_time": 1771739599,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 190338,
+        "num": 149326,
+        "word": "将门毒后用程少商的个人曲",
+        "onboard_time": 1771728020,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149008,
+        "num": 149008,
+        "word": "特朗普开始报复了",
+        "onboard_time": 1771732641,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 146859,
+        "num": 146859,
+        "word": "带半瓶茅台乘火车被拦欲当场喝完",
+        "onboard_time": 1771735099,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139006,
+        "num": 139006,
+        "word": "突然意识到经常习惯性霸凌自己",
+        "onboard_time": 1771724599,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138150,
+        "num": 138150,
+        "word": "镖人口碑升至第一",
+        "onboard_time": 1771726759,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131405,
+        "num": 131405,
+        "word": "杨洋回应骨折",
+        "onboard_time": 1771739240,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128078,
+        "num": 128078,
+        "word": "哈尔滨冰雪大世界退票后下届免费看",
+        "onboard_time": 1771734680,
+        "rank": 26,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 129839,
+        "num": 127595,
+        "word": "我家那小子开播",
+        "onboard_time": 1771736600,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128263,
+        "num": 120851,
+        "word": "王鹤棣宋茜恳求观众多给一些机会",
+        "onboard_time": 1771727059,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 103917,
+        "num": 103917,
+        "word": "东北夫妻节后返程一家人都哭了",
+        "onboard_time": 1771735819,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117737,
+        "num": 99384,
+        "word": "宋雨琦差点漏接韩国音著协电话",
+        "onboard_time": 1771740259,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92002,
+        "num": 92002,
+        "word": "家里有三个女儿出门有多难",
+        "onboard_time": 1771731259,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 91932,
+        "num": 91932,
+        "word": "谷爱凌U型场地决赛或取消",
+        "onboard_time": 1771727481,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84975,
+        "num": 84975,
+        "word": "真正的城巴佬",
+        "onboard_time": 1771735278,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 82627,
+        "num": 82627,
+        "word": "徐梦桃的金牌有划痕了",
+        "onboard_time": 1771732701,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82220,
+        "num": 82220,
+        "word": "王鹤棣自曝新疆拍戏胖到140斤",
+        "onboard_time": 1771736300,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 80746,
+        "num": 80746,
+        "word": "62岁老伯吃饭误吞枣核肚大如孕妇",
+        "onboard_time": 1771736900,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80143,
+        "num": 80143,
+        "word": "官方通报男孩景区游玩时突发坠崖",
+        "onboard_time": 1771739479,
+        "rank": 37,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 79476,
+        "num": 79476,
+        "word": "王楚钦吃面包",
+        "onboard_time": 1771740619,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75692,
+        "num": 75692,
+        "word": "小伙刚还清车贷宝马几乎撞报废",
+        "onboard_time": 1771727240,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74293,
+        "num": 74293,
+        "word": "躺太久身体会越躺越虚",
+        "onboard_time": 1771730901,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 72381,
+        "num": 72381,
+        "word": "镖人",
+        "onboard_time": 1771683502,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 71069,
+        "num": 71069,
+        "word": "命运托举你的方式有时很意外",
+        "onboard_time": 1771737919,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 70744,
+        "num": 70744,
+        "word": "75岁钓帝黑大爷去世",
+        "onboard_time": 1771723460,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69059,
+        "num": 69059,
+        "word": "乌噜噜 魔礼海",
+        "onboard_time": 1771738999,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 67868,
+        "num": 67868,
+        "word": "原来小狗也有门禁啊",
+        "onboard_time": 1771739960,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 67590,
+        "num": 67590,
+        "word": "一家人春节自驾11天游7城仅花8千",
+        "onboard_time": 1771739360,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67265,
+        "num": 67265,
+        "word": "唐宫奇案道歉名单",
+        "onboard_time": 1771740619,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 66690,
+        "num": 66690,
+        "word": "温瑞博0比3张禹珍",
+        "onboard_time": 1771740499,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66410,
+        "num": 66410,
+        "word": "时代少年团演唱会",
+        "onboard_time": 1771727900,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记走进朱茂锦家的故事#"
+    }
+  }
+}
