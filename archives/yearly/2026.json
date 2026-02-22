@@ -1,6 +1,6 @@
 {
   "startTime": 1767198936857,
-  "endTime": 1771768845502,
+  "endTime": 1771770933395,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -89,6 +89,14 @@
       "onboard_time": 1769598862,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 11308599,
+      "num": 11308599,
+      "word": "官方通报网传妈祖巡游换童事件",
+      "onboard_time": 1771766904,
+      "rank": 0,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 11188156,
@@ -241,14 +249,6 @@
       "onboard_time": 1769659642,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 8286972,
-      "num": 8286972,
-      "word": "官方通报网传妈祖巡游换童事件",
-      "onboard_time": 1771766904,
-      "rank": 0,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 8120856,
@@ -1065,6 +1065,14 @@
       "onboard_time": 1770986539,
       "rank": 0,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 2235975,
+      "num": 2419694,
+      "word": "谷爱凌奶奶去世",
+      "onboard_time": 1771770023,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 2232636,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1768292421,
       "rank": 20,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1346467,
-      "num": 1188514,
-      "word": "卢昱晓发红包时间",
-      "onboard_time": 1771235004,
-      "rank": 20,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [

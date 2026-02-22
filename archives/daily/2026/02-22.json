@@ -1,6 +1,6 @@
 {
   "startTime": 1771691977529,
-  "endTime": 1771768845502,
+  "endTime": 1771770933395,
   "band_list": [
     {
       "raw_hot": 12387662,
@@ -11,8 +11,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 8286972,
-      "num": 8286972,
+      "raw_hot": 11308599,
+      "num": 11308599,
       "word": "官方通报网传妈祖巡游换童事件",
       "onboard_time": 1771766904,
       "rank": 0,
@@ -40,6 +40,14 @@
       "word": "女子U型场地决赛",
       "onboard_time": 1771753340,
       "rank": 0,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2235975,
+      "num": 2419694,
+      "word": "谷爱凌奶奶去世",
+      "onboard_time": 1771770023,
+      "rank": 1,
       "category": "体育"
     },
     {
@@ -81,6 +89,14 @@
       "onboard_time": 1771752200,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 904837,
+      "num": 904837,
+      "word": "妈祖巡游事件当事2人均为女孩",
+      "onboard_time": 1771768584,
+      "rank": 17,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 871709,
@@ -227,6 +243,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 520017,
+      "num": 276459,
+      "word": "周深 王一博老师什么不火呀",
+      "onboard_time": 1771768823,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 510471,
       "num": 510471,
       "word": "林孝埈再次道歉",
@@ -257,6 +281,14 @@
       "onboard_time": 1771738999,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 477756,
+      "num": 265317,
+      "word": "贾玲剧组 女演员可以坐箱子",
+      "onboard_time": 1771768040,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 476193,
@@ -403,6 +435,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 375352,
+      "num": 260825,
+      "word": "父亲遇3岁儿子坠楼下意识伸手接",
+      "onboard_time": 1771768106,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 369934,
       "num": 369934,
       "word": "杨幂演技",
@@ -483,6 +523,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 325913,
+      "num": 325913,
+      "word": "还原妈祖巡游换童争议全过程",
+      "onboard_time": 1771768162,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 322862,
       "num": 322862,
       "word": "雷军假期滑了6天雪",
@@ -539,14 +587,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 301521,
-      "num": 256313,
-      "word": "贾玲剧组 女演员可以坐箱子",
-      "onboard_time": 1771768040,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 300934,
       "num": 300934,
       "word": "谷爱凌金色蝴蝶结",
@@ -568,6 +608,14 @@
       "word": "王鹤棣宋茜恳求观众多给一些机会",
       "onboard_time": 1771727059,
       "rank": 15,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 291797,
+      "num": 298643,
+      "word": "镖人",
+      "onboard_time": 1771683502,
+      "rank": 4,
       "category": "电影"
     },
     {
@@ -699,14 +747,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 247942,
-      "num": 247942,
-      "word": "还原妈祖巡游换童争议全过程",
-      "onboard_time": 1771768162,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 246571,
       "num": 246571,
       "word": "福建一398元60米高悬崖咖啡店走红",
@@ -739,14 +779,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 245208,
-      "num": 245208,
-      "word": "父亲遇3岁儿子坠楼下意识伸手接",
-      "onboard_time": 1771768106,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 245110,
       "num": 145963,
       "word": "谷爱凌U池夺金",
@@ -769,14 +801,6 @@
       "onboard_time": 1771685782,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 240334,
-      "num": 240334,
-      "word": "妈祖巡游事件当事2人均为女孩",
-      "onboard_time": 1771768584,
-      "rank": 17,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 239704,
@@ -825,14 +849,6 @@
       "onboard_time": 1771758263,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 232122,
-      "num": 298643,
-      "word": "镖人",
-      "onboard_time": 1771683502,
-      "rank": 4,
-      "category": "电影"
     },
     {
       "raw_hot": 230479,
@@ -923,14 +939,6 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 213369,
-      "num": 213369,
-      "word": "周深 王一博老师什么不火呀",
-      "onboard_time": 1771768823,
-      "rank": 21,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 212656,
       "num": 212656,
       "word": "镖人口碑升至第一",
@@ -953,6 +961,14 @@
       "onboard_time": 1771753221,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 197061,
+      "num": 197061,
+      "word": "任子威谈到李琰教练哭了",
+      "onboard_time": 1771767982,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 193219,
@@ -1067,6 +1083,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 179289,
+      "num": 257209,
+      "word": "贝加尔湖溺亡中国游客遗体全部打捞上岸",
+      "onboard_time": 1771764982,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 179084,
       "num": 179084,
       "word": "DK拒绝被T1零封",
@@ -1163,14 +1187,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 168420,
-      "num": 257209,
-      "word": "贝加尔湖溺亡中国游客遗体全部打捞上岸",
-      "onboard_time": 1771764982,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 167599,
       "num": 167599,
       "word": "皇家马德里道歉",
@@ -1187,12 +1203,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 154598,
+      "num": 154598,
+      "word": "王楚钦鹰眼挑战成功",
+      "onboard_time": 1771770863,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 154288,
       "num": 154288,
       "word": "刘少昂直播",
       "onboard_time": 1771764863,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 153745,
+      "num": 153745,
+      "word": "大学生唯一拒绝的红包",
+      "onboard_time": 1771768463,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 153303,
@@ -1313,6 +1345,14 @@
       "onboard_time": 1771741999,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 142055,
+      "num": 142055,
+      "word": "田曦薇看似甜妹实则拽妹",
+      "onboard_time": 1771769604,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 141366,
@@ -1443,6 +1483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 129756,
+      "num": 129756,
+      "word": "林心如舒淇林熙蕾三家过年聚会",
+      "onboard_time": 1771768704,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 129345,
       "num": 129345,
       "word": "王楚钦3比0卢伟",
@@ -1465,14 +1513,6 @@
       "onboard_time": 1771717037,
       "rank": 24,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 126175,
-      "num": 126175,
-      "word": "大学生唯一拒绝的红包",
-      "onboard_time": 1771768463,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 126036,
@@ -1539,20 +1579,28 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 122000,
-      "num": 122000,
-      "word": "任子威谈到李琰教练哭了",
-      "onboard_time": 1771767982,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 121403,
       "num": 121403,
       "word": "躺太久身体会越躺越虚",
       "onboard_time": 1771730901,
       "rank": 28,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 121010,
+      "num": 112627,
+      "word": "刘少昂祝贺谷爱凌",
+      "onboard_time": 1771769963,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 119736,
+      "num": 119736,
+      "word": "娜扎这才叫顶级美女",
+      "onboard_time": 1771769903,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 119337,
@@ -1643,11 +1691,27 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 113675,
+      "num": 113675,
+      "word": "妈祖巡游事件涉事女童为普通家庭",
+      "onboard_time": 1771769363,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 112217,
       "num": 112217,
       "word": "咱姨父喝的飞天茅台啊",
       "onboard_time": 1771759105,
       "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 111334,
+      "num": 111334,
+      "word": "老辈子种菜真是没轻没重",
+      "onboard_time": 1771770263,
+      "rank": 41,
       "category": "幽默"
     },
     {
@@ -1787,14 +1851,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 104690,
-      "num": 104690,
-      "word": "林心如舒淇林熙蕾三家过年聚会",
-      "onboard_time": 1771768704,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 104504,
       "num": 104504,
       "word": "鲍鱼价格被中国打下来了",
@@ -1833,6 +1889,14 @@
       "onboard_time": 1771765641,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102133,
+      "num": 99237,
+      "word": "王鹤棣宋茜星河入梦票房逆跌",
+      "onboard_time": 1771770445,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 102021,
@@ -1899,6 +1963,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 94531,
+      "num": 94531,
+      "word": "林更新以后再也不乱看了",
+      "onboard_time": 1771770805,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 93969,
       "num": 93969,
       "word": "王鹤棣问敏感有鹿晗纯享版吗",
@@ -1913,6 +1985,14 @@
       "onboard_time": 1771756880,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 93197,
+      "num": 93197,
+      "word": "湛江妈祖巡游小妈祖未被打",
+      "onboard_time": 1771769243,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 92606,
@@ -2748,10 +2828,18 @@
     },
     {
       "raw_hot": 33631,
-      "num": 1325276,
+      "num": 1914088,
       "word": "2026新春走基层",
       "onboard_time": 1771765761,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 32416,
+      "num": 196255,
+      "word": "90位外嫁女回村过年最大年龄86岁",
+      "onboard_time": 1771770563,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
