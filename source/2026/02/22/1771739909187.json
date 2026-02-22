@@ -1,0 +1,410 @@
+{
+  "runTime": 1771739909187,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 597300,
+        "num": 1095568,
+        "word": "沈妙原型 王艳",
+        "onboard_time": 1771728979,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 570084,
+        "num": 817681,
+        "word": "若决赛取消谷爱凌将无缘奖牌",
+        "onboard_time": 1771729219,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29357,
+        "num": 625297,
+        "word": "春运前20天预计流动量超50亿人次",
+        "onboard_time": 1771731680,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 454411,
+        "num": 454411,
+        "word": "厚本进组不让江山",
+        "onboard_time": 1771736000,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 245303,
+        "num": 245303,
+        "word": "香港宏福苑7座受灾楼宇将拆除",
+        "onboard_time": 1771734080,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 520771,
+        "num": 245264,
+        "word": "姥姥说上次吃还是在旧社会",
+        "onboard_time": 1771734859,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 242177,
+        "num": 242177,
+        "word": "林孝埈再次道歉",
+        "onboard_time": 1771730960,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 231616,
+        "num": 231616,
+        "word": "高速堵车",
+        "onboard_time": 1771730901,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194609,
+        "num": 194609,
+        "word": "泰国官方通报清迈72只老虎死亡",
+        "onboard_time": 1771729940,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 193308,
+        "num": 193308,
+        "word": "陆虎15分钟卖出一套房",
+        "onboard_time": 1771738999,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 665729,
+        "num": 192522,
+        "word": "美国11岁男孩被没收游戏机爆头养父",
+        "onboard_time": 1771735700,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 235871,
+        "num": 190743,
+        "word": "齐思钧回应分手",
+        "onboard_time": 1771685843,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209929,
+        "num": 188136,
+        "word": "杨洋手部骨折",
+        "onboard_time": 1771729821,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205397,
+        "num": 183655,
+        "word": "伊朗",
+        "onboard_time": 1771732160,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 183526,
+        "num": 183526,
+        "word": "美11岁男孩枪杀养父称没想过后果",
+        "onboard_time": 1771736781,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 162559,
+        "num": 162559,
+        "word": "水煮肉片吃出纸店家回怼你咋呼啥",
+        "onboard_time": 1771738101,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172369,
+        "num": 162499,
+        "word": "陈飞宇孙千新剧首播口碑",
+        "onboard_time": 1771738821,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158878,
+        "num": 158878,
+        "word": "镖人口碑升至第一",
+        "onboard_time": 1771726759,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 148326,
+        "num": 148326,
+        "word": "突然意识到经常习惯性霸凌自己",
+        "onboard_time": 1771724599,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141019,
+        "num": 141019,
+        "word": "东北夫妻节后返程一家人都哭了",
+        "onboard_time": 1771735819,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189909,
+        "num": 139879,
+        "word": "将门毒后用程少商的个人曲",
+        "onboard_time": 1771728020,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153303,
+        "num": 139416,
+        "word": "杨洋回应骨折",
+        "onboard_time": 1771739240,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137578,
+        "num": 137578,
+        "word": "家里有三个女儿出门有多难",
+        "onboard_time": 1771731259,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 150489,
+        "num": 137578,
+        "word": "王鹤棣宋茜恳求观众多给一些机会",
+        "onboard_time": 1771727059,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 148929,
+        "num": 137559,
+        "word": "我家那小子开播",
+        "onboard_time": 1771736600,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137499,
+        "num": 137499,
+        "word": "带半瓶茅台乘火车被拦欲当场喝完",
+        "onboard_time": 1771735099,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137573,
+        "num": 137320,
+        "word": "张凯毅生娃",
+        "onboard_time": 1771739599,
+        "rank": 26,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 136667,
+        "num": 136667,
+        "word": "特朗普开始报复了",
+        "onboard_time": 1771732641,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 106598,
+        "num": 106598,
+        "word": "王鹤棣自曝新疆拍戏胖到140斤",
+        "onboard_time": 1771736300,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98941,
+        "num": 98941,
+        "word": "哈尔滨冰雪大世界退票后下届免费看",
+        "onboard_time": 1771734680,
+        "rank": 29,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 96595,
+        "num": 96595,
+        "word": "谷爱凌U型场地决赛或取消",
+        "onboard_time": 1771727481,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95042,
+        "num": 95042,
+        "word": "徐梦桃的金牌有划痕了",
+        "onboard_time": 1771732701,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87008,
+        "num": 87008,
+        "word": "飞驰人生3票房20亿彩蛋",
+        "onboard_time": 1771739599,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 84695,
+        "num": 84695,
+        "word": "真正的城巴佬",
+        "onboard_time": 1771735278,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 76538,
+        "num": 76538,
+        "word": "62岁老伯吃饭误吞枣核肚大如孕妇",
+        "onboard_time": 1771736900,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75240,
+        "num": 75240,
+        "word": "打麻将公式",
+        "onboard_time": 1771732160,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 73057,
+        "num": 73057,
+        "word": "李昀锐被偶遇教路人拍照",
+        "onboard_time": 1771734319,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72306,
+        "num": 72306,
+        "word": "75岁钓帝黑大爷去世",
+        "onboard_time": 1771723460,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70415,
+        "num": 70415,
+        "word": "官方通报男孩景区游玩时突发坠崖",
+        "onboard_time": 1771739479,
+        "rank": 38,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 70402,
+        "num": 70402,
+        "word": "乌噜噜 魔礼海",
+        "onboard_time": 1771738999,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 69751,
+        "num": 69751,
+        "word": "小伙刚还清车贷宝马几乎撞报废",
+        "onboard_time": 1771727240,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69003,
+        "num": 69003,
+        "word": "伊能静衣服吊牌没摘",
+        "onboard_time": 1771716256,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68238,
+        "num": 68238,
+        "word": "时代少年团演唱会",
+        "onboard_time": 1771727900,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 67802,
+        "num": 67802,
+        "word": "躺太久身体会越躺越虚",
+        "onboard_time": 1771730901,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 67147,
+        "num": 67147,
+        "word": "镖人",
+        "onboard_time": 1771683502,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 64009,
+        "num": 64009,
+        "word": "李昀锐当上宋雨琦站哥了",
+        "onboard_time": 1771723578,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63939,
+        "num": 63939,
+        "word": "王楚钦好似被小小吓到",
+        "onboard_time": 1771739839,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 63769,
+        "num": 63769,
+        "word": "一家人春节自驾11天游7城仅花8千",
+        "onboard_time": 1771739360,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63698,
+        "num": 63698,
+        "word": "不要失去对微小幸福的感知力",
+        "onboard_time": 1771739300,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 63679,
+        "num": 63679,
+        "word": "命运托举你的方式有时很意外",
+        "onboard_time": 1771737919,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记走进朱茂锦家的故事#"
+    }
+  }
+}

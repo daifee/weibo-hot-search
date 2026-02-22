@@ -1,6 +1,6 @@
 {
   "startTime": 1771691977529,
-  "endTime": 1771736715416,
+  "endTime": 1771739909187,
   "band_list": [
     {
       "raw_hot": 1358190,
@@ -43,6 +43,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 665729,
+      "num": 192522,
+      "word": "美国11岁男孩被没收游戏机爆头养父",
+      "onboard_time": 1771735700,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 623586,
       "num": 174634,
       "word": "贝加尔湖事故8人身份全部确认",
@@ -67,6 +75,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 520771,
+      "num": 245264,
+      "word": "姥姥说上次吃还是在旧社会",
+      "onboard_time": 1771734859,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 510471,
       "num": 510471,
       "word": "林孝埈再次道歉",
@@ -89,6 +105,14 @@
       "onboard_time": 1771723460,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 454411,
+      "num": 454411,
+      "word": "厚本进组不让江山",
+      "onboard_time": 1771736000,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 438661,
@@ -243,6 +267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 245303,
+      "num": 245303,
+      "word": "香港宏福苑7座受灾楼宇将拆除",
+      "onboard_time": 1771734080,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 243755,
       "num": 553627,
       "word": "律师解读15岁女孩被当街暴打事件",
@@ -273,14 +305,6 @@
       "onboard_time": 1771729040,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 232437,
-      "num": 125224,
-      "word": "姥姥说上次吃还是在旧社会",
-      "onboard_time": 1771734859,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 232122,
@@ -347,20 +371,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 208388,
-      "num": 208388,
-      "word": "厚本进组不让江山",
-      "onboard_time": 1771736000,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 194985,
-      "num": 194985,
-      "word": "香港宏福苑7座受灾楼宇将拆除",
-      "onboard_time": 1771734080,
-      "rank": 17,
-      "category": "民生新闻"
+      "raw_hot": 193308,
+      "num": 193308,
+      "word": "陆虎15分钟卖出一套房",
+      "onboard_time": 1771738999,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 193153,
@@ -403,6 +419,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 183526,
+      "num": 183526,
+      "word": "美11岁男孩枪杀养父称没想过后果",
+      "onboard_time": 1771736781,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 182733,
       "num": 112176,
       "word": "娱乐圈恋爱就是一个巨大的县城文学",
@@ -443,6 +467,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 172369,
+      "num": 162499,
+      "word": "陈飞宇孙千新剧首播口碑",
+      "onboard_time": 1771738821,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 162559,
+      "num": 162559,
+      "word": "水煮肉片吃出纸店家回怼你咋呼啥",
+      "onboard_time": 1771738101,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 153303,
+      "num": 139416,
+      "word": "杨洋回应骨折",
+      "onboard_time": 1771739240,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 149616,
       "num": 149616,
       "word": "带半瓶茅台乘火车被拦欲当场喝完",
@@ -457,6 +505,14 @@
       "onboard_time": 1771678462,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 148929,
+      "num": 137559,
+      "word": "我家那小子开播",
+      "onboard_time": 1771736600,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 146532,
@@ -481,6 +537,22 @@
       "onboard_time": 1771727900,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 141019,
+      "num": 181222,
+      "word": "东北夫妻节后返程一家人都哭了",
+      "onboard_time": 1771735819,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 137573,
+      "num": 137320,
+      "word": "张凯毅生娃",
+      "onboard_time": 1771739599,
+      "rank": 26,
+      "category": "艺人,综艺"
     },
     {
       "raw_hot": 134569,
@@ -651,6 +723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 106598,
+      "num": 183913,
+      "word": "王鹤棣自曝新疆拍戏胖到140斤",
+      "onboard_time": 1771736300,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 106055,
       "num": 102483,
       "word": "白鹿晒跑男团gidle合照",
@@ -755,20 +835,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 88374,
-      "num": 181222,
-      "word": "东北夫妻节后返程一家人都哭了",
-      "onboard_time": 1771735819,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 87336,
       "num": 87336,
       "word": "五台山景区突发火情",
       "onboard_time": 1771716977,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 87008,
+      "num": 87008,
+      "word": "飞驰人生3票房20亿彩蛋",
+      "onboard_time": 1771739599,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 85561,
@@ -859,6 +939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 76538,
+      "num": 76538,
+      "word": "62岁老伯吃饭误吞枣核肚大如孕妇",
+      "onboard_time": 1771736900,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75971,
       "num": 103546,
       "word": "北京沙尘暴致大兴机场多趟航班备降",
@@ -881,14 +969,6 @@
       "onboard_time": 1771691181,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 73115,
-      "num": 73115,
-      "word": "我家那小子开播",
-      "onboard_time": 1771736600,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 72316,
@@ -915,12 +995,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 68747,
-      "num": 183913,
-      "word": "王鹤棣自曝新疆拍戏胖到140斤",
-      "onboard_time": 1771736300,
-      "rank": 17,
-      "category": "综艺"
+      "raw_hot": 70415,
+      "num": 70415,
+      "word": "官方通报男孩景区游玩时突发坠崖",
+      "onboard_time": 1771739479,
+      "rank": 38,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 70402,
+      "num": 70402,
+      "word": "乌噜噜 魔礼海",
+      "onboard_time": 1771738999,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 68729,
@@ -953,6 +1041,38 @@
       "onboard_time": 1771728200,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 63939,
+      "num": 63939,
+      "word": "王楚钦好似被小小吓到",
+      "onboard_time": 1771739839,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 63769,
+      "num": 63769,
+      "word": "一家人春节自驾11天游7城仅花8千",
+      "onboard_time": 1771739360,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 63698,
+      "num": 63698,
+      "word": "不要失去对微小幸福的感知力",
+      "onboard_time": 1771739300,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 63679,
+      "num": 63679,
+      "word": "命运托举你的方式有时很意外",
+      "onboard_time": 1771737919,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 62989,
@@ -1009,14 +1129,6 @@
       "onboard_time": 1771682003,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 58372,
-      "num": 92428,
-      "word": "美国11岁男孩被没收游戏机爆头养父",
-      "onboard_time": 1771735700,
-      "rank": 39,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 57659,
