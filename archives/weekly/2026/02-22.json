@@ -1,6 +1,6 @@
 {
   "startTime": 1771691977529,
-  "endTime": 1771775407973,
+  "endTime": 1771778477494,
   "band_list": [
     {
       "raw_hot": 12387662,
@@ -107,6 +107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 844606,
+      "num": 192268,
+      "word": "谷爱凌夺冠后得知奶奶去世",
+      "onboard_time": 1771773923,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 837519,
       "num": 1134003,
       "word": "谷爱凌U型场地决赛或取消",
@@ -120,6 +128,14 @@
       "word": "谷爱凌追平王濛冬奥奖牌纪录",
       "onboard_time": 1771760600,
       "rank": 10,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 808463,
+      "num": 175933,
+      "word": "奶奶已不记得谷爱凌参加过冬奥会",
+      "onboard_time": 1771774941,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -289,14 +305,6 @@
       "onboard_time": 1771738999,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 479718,
-      "num": 192268,
-      "word": "谷爱凌夺冠后得知奶奶去世",
-      "onboard_time": 1771773923,
-      "rank": 15,
-      "category": "体育"
     },
     {
       "raw_hot": 477756,
@@ -547,6 +555,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 329024,
+      "num": 552920,
+      "word": "镖人连续4天票房逆跌",
+      "onboard_time": 1771776801,
+      "rank": 1,
+      "category": "电影"
+    },
+    {
       "raw_hot": 328954,
       "num": 328954,
       "word": "还原妈祖巡游换童争议全过程",
@@ -616,14 +632,6 @@
       "word": "谷爱凌金色蝴蝶结",
       "onboard_time": 1771761742,
       "rank": 9,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 297898,
-      "num": 110262,
-      "word": "奶奶已不记得谷爱凌参加过冬奥会",
-      "onboard_time": 1771774941,
-      "rank": 30,
       "category": "体育"
     },
     {
@@ -835,6 +843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 240119,
+      "num": 172528,
+      "word": "林志颖客串韩剧上MBC打歌舞台",
+      "onboard_time": 1771774762,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 239704,
       "num": 143030,
       "word": "小伙刚还清车贷宝马几乎撞报废",
@@ -953,6 +969,14 @@
       "onboard_time": 1771761082,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 215730,
+      "num": 192441,
+      "word": "李昀锐将无缝进组剑阁闻铃",
+      "onboard_time": 1771775242,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 215656,
@@ -1267,14 +1291,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 162378,
-      "num": 192441,
-      "word": "李昀锐将无缝进组剑阁闻铃",
-      "onboard_time": 1771775242,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 156252,
       "num": 156252,
       "word": "穆祉丞滑雪服",
@@ -1449,6 +1465,14 @@
       "onboard_time": 1771735819,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 140463,
+      "num": 140463,
+      "word": "曝iPhone18Pro正测试深红色",
+      "onboard_time": 1771775602,
+      "rank": 18,
+      "category": "数码"
     },
     {
       "raw_hot": 139843,
@@ -1697,14 +1721,6 @@
       "onboard_time": 1771769963,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 120821,
-      "num": 120821,
-      "word": "林志颖客串韩剧上MBC打歌舞台",
-      "onboard_time": 1771774762,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 119337,
@@ -2019,6 +2035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 102485,
+      "num": 102485,
+      "word": "让郭晓婷王天辰二搭的人简直是天才",
+      "onboard_time": 1771775421,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 102021,
       "num": 102021,
       "word": "谷爱凌称收到过死亡威胁",
@@ -2243,6 +2267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 85707,
+      "num": 83022,
+      "word": "此时的观众还不知跑男将会有多爆火",
+      "onboard_time": 1771776740,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 85561,
       "num": 93522,
       "word": "现在就出发",
@@ -2297,6 +2329,14 @@
       "onboard_time": 1771692918,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 83082,
+      "num": 92438,
+      "word": "美特勤局击毙试图闯入海湖庄园男子",
+      "onboard_time": 1771775362,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 82622,
@@ -2571,6 +2611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 68597,
+      "num": 68597,
+      "word": "男子返程堵车12小时变24小时",
+      "onboard_time": 1771776022,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 68130,
       "num": 68130,
       "word": "6名消防员坠崖牺牲追思会新化举行",
@@ -2803,6 +2851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 55050,
+      "num": 55050,
+      "word": "米兰冬奥会收官金牌诞生",
+      "onboard_time": 1771778239,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 54350,
       "num": 93478,
       "word": "欧阳震华暴瘦引热议",
@@ -2833,14 +2889,6 @@
       "onboard_time": 1771692140,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 50963,
-      "num": 92438,
-      "word": "美特勤局击毙试图闯入海湖庄园男子",
-      "onboard_time": 1771775362,
-      "rank": 38,
-      "category": "国际时政"
     },
     {
       "raw_hot": 50561,
@@ -3075,6 +3123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 21751,
+      "num": 63539,
+      "word": "泰72只老虎死亡所涉疾病不传播至人类",
+      "onboard_time": 1771777879,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 21290,
       "num": 85092,
       "word": "高速堵车老板原地卖甘蔗10元1根",
@@ -3089,6 +3145,14 @@
       "onboard_time": 1771681641,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18117,
+      "num": 132593,
+      "word": "东京晴空塔电梯故障致十余人被困",
+      "onboard_time": 1771777759,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 17788,
