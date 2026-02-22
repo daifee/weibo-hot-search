@@ -1,6 +1,6 @@
 {
   "startTime": 1771691977529,
-  "endTime": 1771765534853,
+  "endTime": 1771766829571,
   "band_list": [
     {
       "raw_hot": 12387662,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1219883,
-      "num": 299549,
+      "num": 387239,
       "word": "孟子义李昀锐 四搭",
       "onboard_time": 1771752200,
       "rank": 20,
@@ -131,6 +131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 686266,
+      "num": 686266,
+      "word": "虞书欣何与 神仙肉",
+      "onboard_time": 1771763362,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 665729,
       "num": 229851,
       "word": "美国11岁男孩被没收游戏机爆头养父",
@@ -177,14 +185,6 @@
       "onboard_time": 1771760004,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 546629,
-      "num": 546629,
-      "word": "虞书欣何与 神仙肉",
-      "onboard_time": 1771763362,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 546490,
@@ -339,6 +339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 389496,
+      "num": 389496,
+      "word": "张凌赫 刺棠",
+      "onboard_time": 1771764383,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 388588,
       "num": 388588,
       "word": "75岁钓帝黑大爷去世",
@@ -353,6 +361,22 @@
       "onboard_time": 1771757482,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 383078,
+      "num": 383078,
+      "word": "王濛祝贺谷爱凌李方慧",
+      "onboard_time": 1771765523,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 381734,
+      "num": 381734,
+      "word": "DK战胜T1",
+      "onboard_time": 1771765823,
+      "rank": 12,
+      "category": "电竞"
     },
     {
       "raw_hot": 380467,
@@ -401,6 +425,14 @@
       "onboard_time": 1771750581,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 351927,
+      "num": 351927,
+      "word": "白鹿这眼线是自己画的吧",
+      "onboard_time": 1771765403,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 350355,
@@ -507,14 +539,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 295384,
-      "num": 295384,
-      "word": "张凌赫 刺棠",
-      "onboard_time": 1771764383,
-      "rank": 14,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 295206,
       "num": 103036,
       "word": "今年好几对情侣都分了",
@@ -561,6 +585,14 @@
       "onboard_time": 1771687103,
       "rank": 6,
       "category": "演出"
+    },
+    {
+      "raw_hot": 278421,
+      "num": 278421,
+      "word": "拾石村小妈祖巡游终于有翻译版本了",
+      "onboard_time": 1771762941,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 277942,
@@ -819,6 +851,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 218831,
+      "num": 218831,
+      "word": "短道速滑",
+      "onboard_time": 1771761082,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 214501,
       "num": 214501,
       "word": "用拼豆把流失文物拼回来了",
@@ -841,6 +881,14 @@
       "onboard_time": 1771716977,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 206596,
+      "num": 206596,
+      "word": "王楚钦比赛",
+      "onboard_time": 1771765701,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 203665,
@@ -907,6 +955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 187000,
+      "num": 187000,
+      "word": "64岁演员江华暴瘦引网友担忧",
+      "onboard_time": 1771765281,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186850,
       "num": 106637,
       "word": "李书名 26岁女房客",
@@ -921,14 +977,6 @@
       "onboard_time": 1771745179,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 185115,
-      "num": 185115,
-      "word": "拾石村小妈祖巡游终于有翻译版本了",
-      "onboard_time": 1771762941,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 184245,
@@ -971,20 +1019,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 179796,
-      "num": 179796,
-      "word": "短道速滑",
-      "onboard_time": 1771761082,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 179084,
       "num": 179084,
       "word": "DK拒绝被T1零封",
       "onboard_time": 1771759884,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 176752,
+      "num": 139024,
+      "word": "北京市委市政府贺电",
+      "onboard_time": 1771765581,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 175816,
@@ -1001,6 +1049,14 @@
       "onboard_time": 1771685243,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 175183,
+      "num": 175183,
+      "word": "李方慧回应银牌",
+      "onboard_time": 1771763422,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 174938,
@@ -1057,6 +1113,14 @@
       "onboard_time": 1771764863,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 153453,
+      "num": 257209,
+      "word": "贝加尔湖溺亡中国游客遗体全部打捞上岸",
+      "onboard_time": 1771764982,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 153303,
@@ -1155,6 +1219,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 143431,
+      "num": 143431,
+      "word": "DK让二追三T1",
+      "onboard_time": 1771765523,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 142488,
       "num": 142488,
       "word": "钓帝黑大爷从生病到去世仅5天",
@@ -1200,14 +1272,6 @@
       "word": "李方慧说今天表现并不是特别好",
       "onboard_time": 1771765041,
       "rank": 35,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 136574,
-      "num": 136574,
-      "word": "李方慧回应银牌",
-      "onboard_time": 1771763422,
-      "rank": 36,
       "category": "体育"
     },
     {
@@ -1267,6 +1331,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 131964,
+      "num": 131964,
+      "word": "央视女解说看谷爱凌夺冠哽咽了",
+      "onboard_time": 1771762582,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 131934,
       "num": 111523,
       "word": "刘梦章齐思钧交往约6年",
@@ -1323,11 +1395,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 123869,
-      "num": 123869,
-      "word": "央视女解说看谷爱凌夺冠哽咽了",
-      "onboard_time": 1771762582,
-      "rank": 39,
+      "raw_hot": 124442,
+      "num": 124442,
+      "word": "侯明昊直播",
+      "onboard_time": 1771764202,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 124324,
+      "num": 124324,
+      "word": "没有女孩做出来李方慧做到了",
+      "onboard_time": 1771764802,
+      "rank": 43,
       "category": "体育"
     },
     {
@@ -1344,6 +1424,14 @@
       "word": "徐梦桃的金牌有划痕了",
       "onboard_time": 1771732701,
       "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 122425,
+      "num": 122425,
+      "word": "皇家马德里道歉",
+      "onboard_time": 1771766602,
+      "rank": 37,
       "category": "体育"
     },
     {
@@ -1443,20 +1531,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 114658,
+      "num": 114658,
+      "word": "深圳北站凌晨打车排队人数超200人",
+      "onboard_time": 1771763782,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 114103,
       "num": 114103,
       "word": "美国电影协会致函字节跳动",
       "onboard_time": 1771730300,
       "rank": 27,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 112305,
-      "num": 112305,
-      "word": "侯明昊直播",
-      "onboard_time": 1771764202,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 112217,
@@ -1489,14 +1577,6 @@
       "onboard_time": 1771717037,
       "rank": 28,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 110025,
-      "num": 110025,
-      "word": "没有女孩做出来李方慧做到了",
-      "onboard_time": 1771764802,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 109393,
@@ -1537,14 +1617,6 @@
       "onboard_time": 1771679603,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 107827,
-      "num": 107827,
-      "word": "64岁演员江华暴瘦引网友担忧",
-      "onboard_time": 1771765281,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 107576,
@@ -1611,14 +1683,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 104104,
-      "num": 104104,
-      "word": "白鹿这眼线是自己画的吧",
-      "onboard_time": 1771765403,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 104089,
       "num": 104089,
       "word": "谷爱凌第六枚冬奥奖牌",
@@ -1643,11 +1707,11 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 103208,
-      "num": 103208,
-      "word": "深圳北站凌晨打车排队人数超200人",
-      "onboard_time": 1771763782,
-      "rank": 47,
+      "raw_hot": 102691,
+      "num": 102691,
+      "word": "第一批返深大军已堵哭",
+      "onboard_time": 1771765641,
+      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -1667,6 +1731,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 101547,
+      "num": 101547,
+      "word": "央视解说谷爱凌比赛爆金句",
+      "onboard_time": 1771766722,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 101514,
       "num": 103685,
       "word": "林孝埈发博总结冬奥",
@@ -1681,6 +1753,14 @@
       "onboard_time": 1771725979,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 99161,
+      "num": 99161,
+      "word": "时代少年团 一年一度的楼斯卡",
+      "onboard_time": 1771766362,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 97653,
@@ -2187,16 +2267,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 66656,
-      "num": 257209,
-      "word": "贝加尔湖溺亡中国游客遗体全部打捞上岸",
-      "onboard_time": 1771764982,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 66334,
-      "num": 272109,
+      "num": 275205,
       "word": "谷爱凌U池卫冕成功",
       "onboard_time": 1771764682,
       "rank": 16,
@@ -2545,6 +2617,14 @@
       "onboard_time": 1771694836,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 33631,
+      "num": 689387,
+      "word": "2026新春走基层",
+      "onboard_time": 1771765761,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 31865,
