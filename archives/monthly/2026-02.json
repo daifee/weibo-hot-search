@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1771728333264,
+  "endTime": 1771730599087,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -404,7 +404,7 @@
     },
     {
       "raw_hot": 3175580,
-      "num": 130034,
+      "num": 174654,
       "word": "齐思钧回应分手",
       "onboard_time": 1771685843,
       "rank": 20,
@@ -2891,6 +2891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 837519,
+      "num": 1134003,
+      "word": "谷爱凌U型场地决赛或取消",
+      "onboard_time": 1771727481,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 837082,
       "num": 138651,
       "word": "酷滕 双取",
@@ -3803,6 +3811,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 707079,
+      "num": 798000,
+      "word": "沈妙原型 王艳",
+      "onboard_time": 1771728979,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 706561,
       "num": 205122,
       "word": "黄子韬卫生巾卖1.5亿还没回本",
@@ -4708,7 +4724,7 @@
     },
     {
       "raw_hot": 623586,
-      "num": 139719,
+      "num": 174634,
       "word": "贝加尔湖事故8人身份全部确认",
       "onboard_time": 1771724301,
       "rank": 10,
@@ -7828,7 +7844,7 @@
     },
     {
       "raw_hot": 438661,
-      "num": 131923,
+      "num": 228519,
       "word": "伊能静衣服吊牌没摘",
       "onboard_time": 1771716256,
       "rank": 21,
@@ -13331,6 +13347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 294739,
+      "num": 220320,
+      "word": "王鹤棣宋茜恳求观众多给一些机会",
+      "onboard_time": 1771727059,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 294401,
       "num": 294401,
       "word": "镖人 排片",
@@ -14041,14 +14065,6 @@
       "onboard_time": 1771071501,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 282061,
-      "num": 282061,
-      "word": "谷爱凌U型场地决赛或取消",
-      "onboard_time": 1771727481,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 281841,
@@ -15611,6 +15627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 255973,
+      "num": 255973,
+      "word": "若决赛取消谷爱凌将无缘奖牌",
+      "onboard_time": 1771729219,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 255972,
       "num": 255972,
       "word": "脚底藏毒太味被闻出",
@@ -15844,7 +15868,7 @@
     },
     {
       "raw_hot": 251839,
-      "num": 121360,
+      "num": 125100,
       "word": "李昀锐当上宋雨琦站哥了",
       "onboard_time": 1771723578,
       "rank": 14,
@@ -16137,6 +16161,14 @@
       "onboard_time": 1770021440,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 247895,
+      "num": 174598,
+      "word": "杨洋手部骨折",
+      "onboard_time": 1771729821,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 247855,
@@ -16667,6 +16699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 239704,
+      "num": 143030,
+      "word": "小伙刚还清车贷宝马几乎撞报废",
+      "onboard_time": 1771727240,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 239679,
       "num": 239679,
       "word": "鞠婧祎指尖蝴蝶",
@@ -17193,6 +17233,14 @@
       "onboard_time": 1769922799,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 233771,
+      "num": 233771,
+      "word": "小伙撞毁刚还清车贷的宝马微笑合影",
+      "onboard_time": 1771729040,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 233732,
@@ -18795,6 +18843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 212446,
+      "num": 772263,
+      "word": "这才是我想要的将门毒后",
+      "onboard_time": 1771716977,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 212355,
       "num": 212355,
       "word": "张本智和vs户上隼辅",
@@ -19089,14 +19145,6 @@
       "onboard_time": 1771658420,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 208134,
-      "num": 772263,
-      "word": "这才是我想要的将门毒后",
-      "onboard_time": 1771716977,
-      "rank": 1,
-      "category": "剧集"
     },
     {
       "raw_hot": 207981,
@@ -20764,7 +20812,7 @@
     },
     {
       "raw_hot": 189015,
-      "num": 112689,
+      "num": 133121,
       "word": "父亲屋外透气偶遇儿子坠楼接住",
       "onboard_time": 1771726759,
       "rank": 20,
@@ -21179,6 +21227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 184245,
+      "num": 119602,
+      "word": "怕朋友过得苦又怕朋友开路虎",
+      "onboard_time": 1771729759,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 184094,
       "num": 159509,
       "word": "金饰克价一夜跌134元",
@@ -21257,6 +21313,14 @@
       "onboard_time": 1770337402,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 183334,
+      "num": 138699,
+      "word": "将门毒后用程少商的个人曲",
+      "onboard_time": 1771728020,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 183216,
@@ -21401,6 +21465,14 @@
       "onboard_time": 1770884781,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 181619,
+      "num": 134629,
+      "word": "镖人口碑升至第一",
+      "onboard_time": 1771726759,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 181355,
@@ -22027,6 +22099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 174672,
+      "num": 174672,
+      "word": "五台山明火已被扑灭",
+      "onboard_time": 1771727660,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 174644,
       "num": 116403,
       "word": "马嘉祺珠海",
@@ -22049,6 +22129,14 @@
       "onboard_time": 1770637521,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 174590,
+      "num": 174590,
+      "word": "山西文旅局回应出租打折却要司机贴钱",
+      "onboard_time": 1771727959,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 174544,
@@ -23161,14 +23249,6 @@
       "onboard_time": 1771078944,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 163225,
-      "num": 120303,
-      "word": "王鹤棣宋茜恳求观众多给一些机会",
-      "onboard_time": 1771727059,
-      "rank": 15,
-      "category": "电影"
     },
     {
       "raw_hot": 163086,
@@ -24691,14 +24771,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 150423,
-      "num": 111790,
-      "word": "小伙刚还清车贷宝马几乎撞报废",
-      "onboard_time": 1771727240,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 150391,
       "num": 150391,
       "word": "肖战拜年",
@@ -24793,6 +24865,14 @@
       "onboard_time": 1771403840,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 149808,
+      "num": 149808,
+      "word": "泰国官方通报清迈72只老虎死亡",
+      "onboard_time": 1771729940,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 149745,
@@ -25633,6 +25713,14 @@
       "onboard_time": 1771599623,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 143714,
+      "num": 113511,
+      "word": "时代少年团演唱会",
+      "onboard_time": 1771727900,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 143639,
@@ -30707,14 +30795,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 117621,
-      "num": 110338,
-      "word": "镖人口碑升至第一",
-      "onboard_time": 1771726759,
-      "rank": 27,
-      "category": "电影"
-    },
-    {
       "raw_hot": 117549,
       "num": 117549,
       "word": "裁员裁到大动脉有新说法了",
@@ -30993,14 +31073,6 @@
       "onboard_time": 1771678404,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 116362,
-      "num": 101369,
-      "word": "时代少年团演唱会",
-      "onboard_time": 1771727900,
-      "rank": 30,
-      "category": "演出"
     },
     {
       "raw_hot": 116318,
@@ -31537,6 +31609,14 @@
       "onboard_time": 1770186921,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 114103,
+      "num": 114103,
+      "word": "美国电影协会致函字节跳动",
+      "onboard_time": 1771730300,
+      "rank": 27,
+      "category": "互联网"
     },
     {
       "raw_hot": 114091,
@@ -32713,14 +32793,6 @@
       "onboard_time": 1770907281,
       "rank": 29,
       "category": "艺人,游戏"
-    },
-    {
-      "raw_hot": 110016,
-      "num": 101093,
-      "word": "将门毒后用程少商的个人曲",
-      "onboard_time": 1771728020,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 109995,
@@ -33980,7 +34052,7 @@
     },
     {
       "raw_hot": 106055,
-      "num": 97628,
+      "num": 102483,
       "word": "白鹿晒跑男团gidle合照",
       "onboard_time": 1771723219,
       "rank": 33,
@@ -35427,14 +35499,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 101742,
-      "num": 101742,
-      "word": "五台山明火已被扑灭",
-      "onboard_time": 1771727660,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 101709,
       "num": 250997,
       "word": "原亚洲最大宜家门店闭店前一天现状",
@@ -35921,6 +35985,14 @@
       "onboard_time": 1770650002,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 100475,
+      "num": 100475,
+      "word": "初六",
+      "onboard_time": 1771725979,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 100466,
@@ -38739,6 +38811,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 92606,
+      "num": 92606,
+      "word": "小兔洗脸小兔摔倒",
+      "onboard_time": 1771725738,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 92602,
       "num": 92602,
       "word": "中国队米兰第4金",
@@ -39321,6 +39401,14 @@
       "onboard_time": 1770647723,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 91089,
+      "num": 91089,
+      "word": "孙龙再度自责泪崩",
+      "onboard_time": 1771730421,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 91063,
@@ -41651,14 +41739,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 85750,
-      "num": 85750,
-      "word": "山西文旅局回应出租打折却要司机贴钱",
-      "onboard_time": 1771727959,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 85682,
       "num": 85682,
       "word": "GEN对战BFX",
@@ -41945,6 +42025,14 @@
       "onboard_time": 1771556959,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 85092,
+      "num": 85091,
+      "word": "肖战刘铮亮杀青特辑vlog",
+      "onboard_time": 1771729519,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 85079,
@@ -44651,6 +44739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 78528,
+      "num": 76438,
+      "word": "星河入梦票房低迷仅是排片问题吗",
+      "onboard_time": 1771729219,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 78499,
       "num": 78499,
       "word": "寿司in my胃",
@@ -45153,6 +45249,14 @@
       "onboard_time": 1770113180,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 77241,
+      "num": 77241,
+      "word": "皇马赫伊森",
+      "onboard_time": 1771730540,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 77222,
@@ -46793,14 +46897,6 @@
       "onboard_time": 1771571180,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 73021,
-      "num": 73021,
-      "word": "小兔洗脸小兔摔倒",
-      "onboard_time": 1771725738,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 73020,
@@ -50537,6 +50633,14 @@
       "onboard_time": 1770173361,
       "rank": 46,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 61247,
+      "num": 61247,
+      "word": "将门独后原著没有女主穿红衣骑马设定",
+      "onboard_time": 1771730540,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 61243,
@@ -59851,6 +59955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 21290,
+      "num": 85092,
+      "word": "高速堵车老板原地卖甘蔗10元1根",
+      "onboard_time": 1771730180,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21269,
       "num": 25683,
       "word": "刘宇宁湖南春晚扑通扑通",
@@ -60001,6 +60113,14 @@
       "onboard_time": 1770764896,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 20765,
+      "num": 146783,
+      "word": "福建一398元60米高悬崖咖啡店走红",
+      "onboard_time": 1771730240,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20749,
