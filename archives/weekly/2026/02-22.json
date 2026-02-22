@@ -1,6 +1,6 @@
 {
   "startTime": 1771691977529,
-  "endTime": 1771753221677,
+  "endTime": 1771754162542,
   "band_list": [
     {
       "raw_hot": 1358190,
@@ -19,7 +19,7 @@
       "category": "美食"
     },
     {
-      "raw_hot": 907767,
+      "raw_hot": 1219883,
       "num": 144460,
       "word": "孟子义李昀锐 四搭",
       "onboard_time": 1771752200,
@@ -107,6 +107,14 @@
       "category": "艺人,综艺"
     },
     {
+      "raw_hot": 521781,
+      "num": 1083485,
+      "word": "女子U型场地决赛",
+      "onboard_time": 1771753340,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 520771,
       "num": 245264,
       "word": "姥姥说上次吃还是在旧社会",
@@ -163,6 +171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 441000,
+      "num": 1065794,
+      "word": "曝票房15亿是镖人的回本线",
+      "onboard_time": 1771751000,
+      "rank": 0,
+      "category": "电影"
+    },
+    {
       "raw_hot": 438661,
       "num": 228519,
       "word": "伊能静衣服吊牌没摘",
@@ -185,14 +201,6 @@
       "onboard_time": 1771740259,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 411213,
-      "num": 1065794,
-      "word": "曝票房15亿是镖人的回本线",
-      "onboard_time": 1771751000,
-      "rank": 0,
-      "category": "电影"
     },
     {
       "raw_hot": 409153,
@@ -251,19 +259,19 @@
       "category": "演出"
     },
     {
+      "raw_hot": 352953,
+      "num": 144048,
+      "word": "大年初五8岁男童虎跳峡坠崖遇难",
+      "onboard_time": 1771750581,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 350355,
       "num": 236938,
       "word": "输液过敏死亡独生女父母有残疾",
       "onboard_time": 1771747221,
       "rank": 11,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 348259,
-      "num": 144048,
-      "word": "大年初五8岁男童虎跳峡坠崖遇难",
-      "onboard_time": 1771750581,
-      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -347,6 +355,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 294150,
+      "num": 237673,
+      "word": "不要在吃喝方面拿捏人",
+      "onboard_time": 1771750760,
+      "rank": 9,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 286333,
       "num": 286333,
       "word": "王传君录综艺崩溃爆哭",
@@ -361,6 +377,14 @@
       "onboard_time": 1771692618,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 283153,
+      "num": 231141,
+      "word": "孟子义沈妙路透",
+      "onboard_time": 1771751360,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 278972,
@@ -385,14 +409,6 @@
       "onboard_time": 1771723460,
       "rank": 8,
       "category": "情感"
-    },
-    {
-      "raw_hot": 263526,
-      "num": 230468,
-      "word": "孟子义沈妙路透",
-      "onboard_time": 1771751360,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 263069,
@@ -476,7 +492,7 @@
     },
     {
       "raw_hot": 236192,
-      "num": 152699,
+      "num": 157050,
       "word": "王婆说媒炫富男子实际年龄40岁",
       "onboard_time": 1771750459,
       "rank": 45,
@@ -787,6 +803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134893,
+      "num": 93546,
+      "word": "福州偶遇陈赫张子萱",
+      "onboard_time": 1771753639,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 134569,
       "num": 117846,
       "word": "将门独后分销红果",
@@ -857,14 +881,6 @@
       "onboard_time": 1771750158,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 128713,
-      "num": 155716,
-      "word": "不要在吃喝方面拿捏人",
-      "onboard_time": 1771750760,
-      "rank": 9,
-      "category": "幽默"
     },
     {
       "raw_hot": 127573,
@@ -977,6 +993,14 @@
       "onboard_time": 1771735640,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 110412,
+      "num": 93156,
+      "word": "舅舅兑1元零钱给每个外甥发500",
+      "onboard_time": 1771752860,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 110159,
@@ -1267,12 +1291,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 82081,
-      "num": 82081,
-      "word": "舅舅兑1元零钱给每个外甥发500",
-      "onboard_time": 1771752860,
+      "raw_hot": 82056,
+      "num": 82056,
+      "word": "刘宇宁出发录地球超新鲜",
+      "onboard_time": 1771754121,
       "rank": 39,
-      "category": "民生新闻"
+      "category": "综艺"
     },
     {
       "raw_hot": 81569,
@@ -1307,12 +1331,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 80221,
+      "num": 87084,
+      "word": "运动一定要30分钟以上才能减肥吗",
+      "onboard_time": 1771749800,
+      "rank": 41,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 79476,
       "num": 79476,
       "word": "王楚钦吃面包",
       "onboard_time": 1771740619,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 79048,
+      "num": 79048,
+      "word": "惊蛰无声",
+      "onboard_time": 1771752621,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 78528,
@@ -1355,20 +1395,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 75151,
-      "num": 75151,
-      "word": "运动一定要30分钟以上才能减肥吗",
-      "onboard_time": 1771749800,
-      "rank": 41,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 75064,
       "num": 75064,
       "word": "张凯毅生娃后发文",
       "onboard_time": 1771751480,
       "rank": 42,
       "category": "网红"
+    },
+    {
+      "raw_hot": 74699,
+      "num": 74699,
+      "word": "可恶的年兽竟敢冒充外孙女",
+      "onboard_time": 1771753760,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 74576,
@@ -1393,6 +1433,14 @@
       "onboard_time": 1771691181,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 73718,
+      "num": 73718,
+      "word": "飞驰人生",
+      "onboard_time": 1771753520,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 73713,
@@ -1545,6 +1593,14 @@
       "onboard_time": 1771740499,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 65870,
+      "num": 65870,
+      "word": "大冰教孩子应对老师针对和同学孤立",
+      "onboard_time": 1771754121,
+      "rank": 47,
+      "category": "网红"
     },
     {
       "raw_hot": 64723,
@@ -1793,6 +1849,14 @@
       "onboard_time": 1771690459,
       "rank": 45,
       "category": "财经"
+    },
+    {
+      "raw_hot": 43624,
+      "num": 95688,
+      "word": "台湾男子在缅甸妙瓦底被殴打拔指甲",
+      "onboard_time": 1771753221,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 42519,

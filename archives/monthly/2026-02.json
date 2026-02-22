@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1771753221677,
+  "endTime": 1771754162542,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -1507,6 +1507,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 1219883,
+      "num": 144460,
+      "word": "孟子义李昀锐 四搭",
+      "onboard_time": 1771752200,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1217897,
       "num": 408516,
       "word": "湖南新化6名消防员因公牺牲",
@@ -2513,14 +2521,6 @@
       "onboard_time": 1770343821,
       "rank": 20,
       "category": "财经"
-    },
-    {
-      "raw_hot": 907767,
-      "num": 144460,
-      "word": "孟子义李昀锐 四搭",
-      "onboard_time": 1771752200,
-      "rank": 20,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 906959,
@@ -6243,6 +6243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 521781,
+      "num": 1083485,
+      "word": "女子U型场地决赛",
+      "onboard_time": 1771753340,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 521423,
       "num": 216447,
       "word": "爱泼斯坦案视频中女孩光腿跳舞",
@@ -7883,6 +7891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 441000,
+      "num": 1065794,
+      "word": "曝票房15亿是镖人的回本线",
+      "onboard_time": 1771751000,
+      "rank": 0,
+      "category": "电影"
+    },
+    {
       "raw_hot": 440984,
       "num": 282587,
       "word": "过年剩下的红包不要扔",
@@ -8729,14 +8745,6 @@
       "onboard_time": 1770901641,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 411213,
-      "num": 1065794,
-      "word": "曝票房15亿是镖人的回本线",
-      "onboard_time": 1771751000,
-      "rank": 0,
-      "category": "电影"
     },
     {
       "raw_hot": 411010,
@@ -10731,6 +10739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 352953,
+      "num": 144048,
+      "word": "大年初五8岁男童虎跳峡坠崖遇难",
+      "onboard_time": 1771750581,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 352815,
       "num": 157583,
       "word": "权志龙Chanel",
@@ -10945,14 +10961,6 @@
       "onboard_time": 1770282028,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 348259,
-      "num": 144048,
-      "word": "大年初五8岁男童虎跳峡坠崖遇难",
-      "onboard_time": 1771750581,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 348019,
@@ -13579,6 +13587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 294150,
+      "num": 237673,
+      "word": "不要在吃喝方面拿捏人",
+      "onboard_time": 1771750760,
+      "rank": 9,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 294065,
       "num": 201427,
       "word": "海口致3死1伤男子畏罪自杀身亡",
@@ -14209,6 +14225,14 @@
       "onboard_time": 1770435739,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 283153,
+      "num": 231141,
+      "word": "孟子义沈妙路透",
+      "onboard_time": 1771751360,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 283000,
@@ -15329,14 +15353,6 @@
       "onboard_time": 1770351321,
       "rank": 36,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 263526,
-      "num": 230468,
-      "word": "孟子义沈妙路透",
-      "onboard_time": 1771751360,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 263220,
@@ -17252,7 +17268,7 @@
     },
     {
       "raw_hot": 236192,
-      "num": 152699,
+      "num": 157050,
       "word": "王婆说媒炫富男子实际年龄40岁",
       "onboard_time": 1771750459,
       "rank": 45,
@@ -27683,6 +27699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 134893,
+      "num": 93546,
+      "word": "福州偶遇陈赫张子萱",
+      "onboard_time": 1771753639,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 134880,
       "num": 114427,
       "word": "吴京争取拍镖人第二部",
@@ -28865,14 +28889,6 @@
       "onboard_time": 1770452841,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 128713,
-      "num": 155716,
-      "word": "不要在吃喝方面拿捏人",
-      "onboard_time": 1771750760,
-      "rank": 9,
-      "category": "幽默"
     },
     {
       "raw_hot": 128692,
@@ -33161,6 +33177,14 @@
       "onboard_time": 1770092960,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 110412,
+      "num": 93156,
+      "word": "舅舅兑1元零钱给每个外甥发500",
+      "onboard_time": 1771752860,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 110375,
@@ -43803,20 +43827,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 82081,
-      "num": 82081,
-      "word": "舅舅兑1元零钱给每个外甥发500",
-      "onboard_time": 1771752860,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 82056,
       "num": 141301,
       "word": "港股半导体板块爆发",
       "onboard_time": 1771223603,
       "rank": 35,
       "category": "财经"
+    },
+    {
+      "raw_hot": 82056,
+      "num": 82056,
+      "word": "刘宇宁出发录地球超新鲜",
+      "onboard_time": 1771754121,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 82046,
@@ -44625,6 +44649,14 @@
       "onboard_time": 1771214541,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 80221,
+      "num": 87084,
+      "word": "运动一定要30分钟以上才能减肥吗",
+      "onboard_time": 1771749800,
+      "rank": 41,
+      "category": "运动健身"
     },
     {
       "raw_hot": 80187,
@@ -46779,14 +46811,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 75151,
-      "num": 75151,
-      "word": "运动一定要30分钟以上才能减肥吗",
-      "onboard_time": 1771749800,
-      "rank": 41,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 75150,
       "num": 75150,
       "word": "超过三行我就烦了",
@@ -47001,6 +47025,14 @@
       "onboard_time": 1770239175,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 74699,
+      "num": 74699,
+      "word": "可恶的年兽竟敢冒充外孙女",
+      "onboard_time": 1771753760,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 74691,
@@ -50009,6 +50041,14 @@
       "onboard_time": 1771519759,
       "rank": 30,
       "category": "军事"
+    },
+    {
+      "raw_hot": 65870,
+      "num": 65870,
+      "word": "大冰教孩子应对老师针对和同学孤立",
+      "onboard_time": 1771754121,
+      "rank": 47,
+      "category": "网红"
     },
     {
       "raw_hot": 65838,
@@ -55393,6 +55433,14 @@
       "onboard_time": 1770868222,
       "rank": 41,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 43624,
+      "num": 95688,
+      "word": "台湾男子在缅甸妙瓦底被殴打拔指甲",
+      "onboard_time": 1771753221,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 43606,
