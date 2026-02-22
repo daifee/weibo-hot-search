@@ -1,6 +1,6 @@
 {
   "startTime": 1771691977529,
-  "endTime": 1771744379800,
+  "endTime": 1771746202767,
   "band_list": [
     {
       "raw_hot": 1358190,
@@ -11,8 +11,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1074725,
-      "num": 585104,
+      "raw_hot": 1223263,
+      "num": 613471,
       "word": "淀粉肠进入瑜伽裤时代",
       "onboard_time": 1771742360,
       "rank": 3,
@@ -105,6 +105,22 @@
       "onboard_time": 1771730960,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 503683,
+      "num": 1080589,
+      "word": "大理初四订房订到医院",
+      "onboard_time": 1771744579,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 491632,
+      "num": 491632,
+      "word": "虹猫蓝兔七侠传回来了",
+      "onboard_time": 1771743800,
+      "rank": 7,
+      "category": "动漫"
     },
     {
       "raw_hot": 481636,
@@ -243,6 +259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 296087,
+      "num": 173432,
+      "word": "徐明浩韩语说出中国春节",
+      "onboard_time": 1771744279,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 295206,
       "num": 103036,
       "word": "今年好几对情侣都分了",
@@ -281,14 +305,6 @@
       "onboard_time": 1771687103,
       "rank": 6,
       "category": "演出"
-    },
-    {
-      "raw_hot": 273574,
-      "num": 273574,
-      "word": "虹猫蓝兔七侠传回来了",
-      "onboard_time": 1771743800,
-      "rank": 7,
-      "category": "动漫"
     },
     {
       "raw_hot": 265356,
@@ -443,6 +459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199481,
+      "num": 170476,
+      "word": "朴志训吃苹果减肥瘦了30斤",
+      "onboard_time": 1771744339,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 193219,
       "num": 193219,
       "word": "陈飞宇孙千新剧首播口碑",
@@ -571,6 +595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 146537,
+      "num": 146537,
+      "word": "偶遇陆毅鲍蕾一家四口逛街",
+      "onboard_time": 1771745179,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 146532,
       "num": 146532,
       "word": "辽宁春晚最大黑马小品以貌取人",
@@ -625,6 +657,14 @@
       "onboard_time": 1771734680,
       "rank": 46,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 134789,
+      "num": 134789,
+      "word": "初六把我回收了吧",
+      "onboard_time": 1771744520,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 134569,
@@ -777,6 +817,14 @@
       "onboard_time": 1771717037,
       "rank": 28,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 109878,
+      "num": 109878,
+      "word": "飞驰人生3豆瓣评分降至7.4",
+      "onboard_time": 1771744759,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 109393,
@@ -939,6 +987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 89205,
+      "num": 89205,
+      "word": "葡萄和鸡肉一起炒是啥味道",
+      "onboard_time": 1771744400,
+      "rank": 34,
+      "category": "美食"
+    },
+    {
       "raw_hot": 88509,
       "num": 93539,
       "word": "张元英MiuMiu活动",
@@ -1001,6 +1057,14 @@
       "onboard_time": 1771683142,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 82520,
+      "num": 146609,
+      "word": "官方回应连云港一公职人员炫富",
+      "onboard_time": 1771745779,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 81569,
@@ -1091,14 +1155,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 74360,
-      "num": 74360,
-      "word": "徐明浩韩语说出中国春节",
-      "onboard_time": 1771744279,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 73805,
       "num": 93537,
       "word": "女财神被游客追得满场跑",
@@ -1139,6 +1195,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 71232,
+      "num": 73873,
+      "word": "回家过年不能呆久了",
+      "onboard_time": 1771742720,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 71069,
       "num": 71069,
       "word": "命运托举你的方式有时很意外",
@@ -1163,12 +1227,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 68174,
-      "num": 68174,
-      "word": "朴志训吃苹果减肥瘦了30斤",
-      "onboard_time": 1771744339,
-      "rank": 45,
-      "category": "艺人"
+      "raw_hot": 68130,
+      "num": 68130,
+      "word": "6名消防员坠崖牺牲追思会新化举行",
+      "onboard_time": 1771745660,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 67868,
@@ -1355,6 +1419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 54926,
+      "num": 196159,
+      "word": "谷爱凌决赛正常进行",
+      "onboard_time": 1771745299,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 54350,
       "num": 93478,
       "word": "欧阳震华暴瘦引热议",
@@ -1409,6 +1481,14 @@
       "onboard_time": 1771727839,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 47743,
+      "num": 242527,
+      "word": "天公作美坐等青蛙公主起飞",
+      "onboard_time": 1771744220,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 46912,
@@ -1515,6 +1595,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 28355,
+      "num": 76489,
+      "word": "男子相亲节目上炫富其单位回应",
+      "onboard_time": 1771745540,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26591,
       "num": 39917,
       "word": "王心迪要陪徐梦桃六战冬奥",
@@ -1555,6 +1643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 17788,
+      "num": 78134,
+      "word": "在东北早市甚至能看到烧烤摊",
+      "onboard_time": 1771745901,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 17619,
       "num": 31150,
       "word": "idle演唱会",
@@ -1577,14 +1673,6 @@
       "onboard_time": 1771707133,
       "rank": 44,
       "category": "演出"
-    },
-    {
-      "raw_hot": 6969,
-      "num": 242527,
-      "word": "天公作美坐等青蛙公主起飞",
-      "onboard_time": 1771744220,
-      "rank": 9,
-      "category": "体育"
     }
   ],
   "hotgov_list": [
