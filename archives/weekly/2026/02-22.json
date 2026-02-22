@@ -1,6 +1,6 @@
 {
   "startTime": 1771691977529,
-  "endTime": 1771792649941,
+  "endTime": 1771793506017,
   "band_list": [
     {
       "raw_hot": 12387662,
@@ -1299,8 +1299,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 157397,
-      "num": 157397,
+      "raw_hot": 162745,
+      "num": 162745,
       "word": "冬奥会闭幕式",
       "onboard_time": 1771787534,
       "rank": 1,
@@ -1947,19 +1947,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 107978,
+      "num": 107978,
+      "word": "苏翊鸣手持五星红旗入场",
+      "onboard_time": 1771790835,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107576,
       "num": 130188,
       "word": "北京奥运会的金镶玉奖牌有多权威",
       "onboard_time": 1771742779,
       "rank": 32,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 107078,
-      "num": 107078,
-      "word": "苏翊鸣手持五星红旗入场",
-      "onboard_time": 1771790835,
-      "rank": 1,
       "category": "体育"
     },
     {
@@ -3091,8 +3091,8 @@
       "category": "财经,互联网"
     },
     {
-      "raw_hot": 38334,
-      "num": 38334,
+      "raw_hot": 39518,
+      "num": 39518,
       "word": "意大利人是真懂艺术的",
       "onboard_time": 1771790354,
       "rank": 6,
@@ -3275,8 +3275,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 19899,
-      "num": 19899,
+      "raw_hot": 20025,
+      "num": 20025,
       "word": "返程",
       "onboard_time": 1771789933,
       "rank": 24,
@@ -3316,7 +3316,7 @@
     },
     {
       "raw_hot": 18091,
-      "num": 18779,
+      "num": 19457,
       "word": "谷爱凌说体育不会说谎",
       "onboard_time": 1771788555,
       "rank": 42,
@@ -3324,7 +3324,7 @@
     },
     {
       "raw_hot": 17873,
-      "num": 17873,
+      "num": 19510,
       "word": "冬奥会闭幕式歌剧元素拉满",
       "onboard_time": 1771790415,
       "rank": 30,
@@ -3353,6 +3353,14 @@
       "onboard_time": 1771765403,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16874,
+      "num": 19514,
+      "word": "宋亚轩阿勒泰明信片",
+      "onboard_time": 1771792873,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 13625,
