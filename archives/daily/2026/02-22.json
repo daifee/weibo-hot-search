@@ -1,6 +1,6 @@
 {
   "startTime": 1771691977529,
-  "endTime": 1771749750746,
+  "endTime": 1771750658064,
   "band_list": [
     {
       "raw_hot": 1358190,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 544101,
-      "num": 240569,
+      "num": 241525,
       "word": "张凯毅生娃",
       "onboard_time": 1771739599,
       "rank": 26,
@@ -187,6 +187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 395889,
+      "num": 243424,
+      "word": "彩民随手扔掉千万彩票2天才发现",
+      "onboard_time": 1771748780,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 388588,
       "num": 388588,
       "word": "75岁钓帝黑大爷去世",
@@ -219,8 +227,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 348895,
-      "num": 222689,
+      "raw_hot": 350355,
+      "num": 236938,
       "word": "输液过敏死亡独生女父母有残疾",
       "onboard_time": 1771747221,
       "rank": 11,
@@ -236,7 +244,7 @@
     },
     {
       "raw_hot": 341100,
-      "num": 220492,
+      "num": 226655,
       "word": "徐明浩韩语说出中国春节",
       "onboard_time": 1771744279,
       "rank": 42,
@@ -251,12 +259,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 333601,
-      "num": 218828,
-      "word": "彩民随手扔掉千万彩票2天才发现",
-      "onboard_time": 1771748780,
-      "rank": 13,
-      "category": "民生新闻"
+      "raw_hot": 325289,
+      "num": 325289,
+      "word": "杨幂演技",
+      "onboard_time": 1771748000,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 322862,
@@ -273,6 +281,22 @@
       "onboard_time": 1771730901,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 306820,
+      "num": 235373,
+      "word": "月薪多少才愿意过这样的人生",
+      "onboard_time": 1771747280,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 304334,
+      "num": 304334,
+      "word": "初六把我回收了吧",
+      "onboard_time": 1771744520,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 303612,
@@ -324,7 +348,7 @@
     },
     {
       "raw_hot": 270154,
-      "num": 210875,
+      "num": 231475,
       "word": "官方回应连云港一公职人员炫富",
       "onboard_time": 1771745779,
       "rank": 19,
@@ -339,28 +363,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 265317,
-      "num": 209463,
-      "word": "月薪多少才愿意过这样的人生",
-      "onboard_time": 1771747280,
-      "rank": 16,
-      "category": "电影"
-    },
-    {
       "raw_hot": 262745,
       "num": 205229,
       "word": "特朗普开始报复了",
       "onboard_time": 1771732641,
       "rank": 20,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 259391,
-      "num": 259391,
-      "word": "初六把我回收了吧",
-      "onboard_time": 1771744520,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 251839,
@@ -393,6 +401,14 @@
       "onboard_time": 1771741341,
       "rank": 14,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 244085,
+      "num": 819321,
+      "word": "谷爱凌决赛正常进行",
+      "onboard_time": 1771745299,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 243755,
@@ -440,14 +456,6 @@
       "word": "镖人",
       "onboard_time": 1771683502,
       "rank": 4,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 230202,
-      "num": 230202,
-      "word": "杨幂演技",
-      "onboard_time": 1771748000,
-      "rank": 8,
       "category": "电影"
     },
     {
@@ -513,14 +521,6 @@
       "onboard_time": 1771716977,
       "rank": 1,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 198736,
-      "num": 819321,
-      "word": "谷爱凌决赛正常进行",
-      "onboard_time": 1771745299,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 193219,
@@ -715,6 +715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 141366,
+      "num": 135446,
+      "word": "星河入梦上映6天票房仅破7000万",
+      "onboard_time": 1771747460,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 141019,
       "num": 181222,
       "word": "东北夫妻节后返程一家人都哭了",
@@ -729,14 +737,6 @@
       "onboard_time": 1771734680,
       "rank": 46,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 135446,
-      "num": 135446,
-      "word": "星河入梦上映6天票房仅破7000万",
-      "onboard_time": 1771747460,
-      "rank": 27,
-      "category": "电影"
     },
     {
       "raw_hot": 134569,
@@ -809,6 +809,22 @@
       "onboard_time": 1771717037,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 126036,
+      "num": 126036,
+      "word": "6名消防员坠崖牺牲起火住户发声",
+      "onboard_time": 1771748599,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125555,
+      "num": 131311,
+      "word": "熊孩子扔螺帽致大熊猫馆紧急收园",
+      "onboard_time": 1771748420,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 122622,
@@ -931,14 +947,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 108079,
-      "num": 108079,
-      "word": "6名消防员坠崖牺牲起火住户发声",
-      "onboard_time": 1771748599,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 107576,
       "num": 130188,
       "word": "北京奥运会的金镶玉奖牌有多权威",
@@ -952,6 +960,14 @@
       "word": "王鹤棣自曝新疆拍戏胖到140斤",
       "onboard_time": 1771736300,
       "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 106419,
+      "num": 106419,
+      "word": "刘耀文唱了鹿晗黄子韬的敏感",
+      "onboard_time": 1771749080,
+      "rank": 39,
       "category": "综艺"
     },
     {
@@ -1059,6 +1075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 89663,
+      "num": 89663,
+      "word": "申有娜零食很忙采购中",
+      "onboard_time": 1771750281,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 89241,
       "num": 89241,
       "word": "将门独后原著没有女主穿红衣骑马设定",
@@ -1083,19 +1107,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 88229,
-      "num": 131311,
-      "word": "熊孩子扔螺帽致大熊猫馆紧急收园",
-      "onboard_time": 1771748420,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 87336,
       "num": 87336,
       "word": "五台山景区突发火情",
       "onboard_time": 1771716977,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86131,
+      "num": 86131,
+      "word": "一批批返粤大军已被堵哭",
+      "onboard_time": 1771750099,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -1121,6 +1145,14 @@
       "onboard_time": 1771729519,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 85012,
+      "num": 85012,
+      "word": "曝iPhoneFold与18Pro7月量产",
+      "onboard_time": 1771750400,
+      "rank": 37,
+      "category": "数码"
     },
     {
       "raw_hot": 84745,
@@ -1243,12 +1275,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 74242,
+      "num": 74242,
+      "word": "惊蛰无声为什么用冷兵器",
+      "onboard_time": 1771748059,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 73805,
       "num": 93537,
       "word": "女财神被游客追得满场跑",
       "onboard_time": 1771691181,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 73555,
+      "num": 73555,
+      "word": "在家喝杯咖啡都被教育",
+      "onboard_time": 1771750158,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 73043,
@@ -1291,6 +1339,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 72068,
+      "num": 72068,
+      "word": "王婆说媒炫富男子实际年龄40岁",
+      "onboard_time": 1771750459,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 71356,
       "num": 71356,
       "word": "家具吵架都听不懂对方说什么",
@@ -1320,14 +1376,6 @@
       "word": "乌噜噜 魔礼海",
       "onboard_time": 1771738999,
       "rank": 39,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 69671,
-      "num": 69671,
-      "word": "惊蛰无声为什么用冷兵器",
-      "onboard_time": 1771748059,
-      "rank": 44,
       "category": "电影"
     },
     {
@@ -1409,6 +1457,14 @@
       "onboard_time": 1771739300,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 63261,
+      "num": 63261,
+      "word": "大年初五8岁男童虎跳峡坠崖遇难",
+      "onboard_time": 1771750581,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 63221,
@@ -1513,6 +1569,14 @@
       "onboard_time": 1771688900,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 56620,
+      "num": 145712,
+      "word": "湖南6名牺牲消防员名字公布",
+      "onboard_time": 1771749622,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 55774,
@@ -1635,14 +1699,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 42718,
-      "num": 77382,
-      "word": "刘耀文唱了鹿晗黄子韬的敏感",
-      "onboard_time": 1771749080,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 42519,
       "num": 68760,
       "word": "杨博文cha赛马娘手势舞",
@@ -1660,7 +1716,7 @@
     },
     {
       "raw_hot": 41338,
-      "num": 228046,
+      "num": 245533,
       "word": "中国队4人出战女子U池决赛",
       "onboard_time": 1771748239,
       "rank": 9,
@@ -1713,14 +1769,6 @@
       "onboard_time": 1771697476,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 29762,
-      "num": 116029,
-      "word": "湖南6名牺牲消防员名字公布",
-      "onboard_time": 1771749622,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 29110,
