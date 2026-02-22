@@ -1,6 +1,6 @@
 {
   "startTime": 1771691977529,
-  "endTime": 1771788800565,
+  "endTime": 1771789626899,
   "band_list": [
     {
       "raw_hot": 12387662,
@@ -1371,6 +1371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 147790,
+      "num": 147790,
+      "word": "冬奥会闭幕式",
+      "onboard_time": 1771787534,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 146744,
       "num": 146744,
       "word": "孙千拍一部虐的奖励自己一部甜的",
@@ -1624,14 +1632,6 @@
       "word": "王楚钦3比0卢伟",
       "onboard_time": 1771768463,
       "rank": 34,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 129261,
-      "num": 129261,
-      "word": "冬奥会闭幕式",
-      "onboard_time": 1771787534,
-      "rank": 1,
       "category": "体育"
     },
     {
@@ -3171,6 +3171,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 24249,
+      "num": 20972,
+      "word": "真的被谷爱凌这番话触动到",
+      "onboard_time": 1771787534,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 24187,
+      "num": 29302,
+      "word": "冬奥会 歌剧闭幕式",
+      "onboard_time": 1771789095,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 24053,
       "num": 43700,
       "word": "周深五天出了三首好运歌曲",
@@ -3193,14 +3209,6 @@
       "onboard_time": 1771773623,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 22588,
-      "num": 20972,
-      "word": "真的被谷爱凌这番话触动到",
-      "onboard_time": 1771787534,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 21290,
