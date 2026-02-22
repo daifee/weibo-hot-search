@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1771757593807,
+  "endTime": 1771759822666,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -33,6 +33,14 @@
       "onboard_time": 1771207399,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 12387662,
+      "num": 13637662,
+      "word": "谷爱凌金牌",
+      "onboard_time": 1771758447,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 12386962,
@@ -280,6 +288,14 @@
       "word": "苏翊鸣金牌",
       "onboard_time": 1771415905,
       "rank": 3,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 5065751,
+      "num": 5065751,
+      "word": "谷爱凌第三滑94.75分",
+      "onboard_time": 1771757962,
+      "rank": 1,
       "category": "体育"
     },
     {
@@ -595,6 +611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 2285042,
+      "num": 2285042,
+      "word": "女子U型场地决赛",
+      "onboard_time": 1771753340,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2280239,
       "num": 2280239,
       "word": "B站春晚 夯",
@@ -681,6 +705,14 @@
       "onboard_time": 1771235364,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2043291,
+      "num": 2043291,
+      "word": "李方慧银牌",
+      "onboard_time": 1771758447,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 2024649,
@@ -841,14 +873,6 @@
       "onboard_time": 1770818482,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1796207,
-      "num": 1796207,
-      "word": "女子U型场地决赛",
-      "onboard_time": 1771753340,
-      "rank": 0,
-      "category": "体育"
     },
     {
       "raw_hot": 1793500,
@@ -1524,7 +1548,7 @@
     },
     {
       "raw_hot": 1219883,
-      "num": 144460,
+      "num": 186557,
       "word": "孟子义李昀锐 四搭",
       "onboard_time": 1771752200,
       "rank": 20,
@@ -3625,6 +3649,14 @@
       "onboard_time": 1770992422,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 737853,
+      "num": 737853,
+      "word": "谷爱凌李方慧拥抱",
+      "onboard_time": 1771757663,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 737748,
@@ -6723,6 +6755,14 @@
       "category": "体育,时尚"
     },
     {
+      "raw_hot": 499155,
+      "num": 499155,
+      "word": "韩国队抗议米兰冬奥至少4次印错国旗",
+      "onboard_time": 1771754361,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 498635,
       "num": 227157,
       "word": "黄金白银又跌麻了",
@@ -7201,6 +7241,14 @@
       "onboard_time": 1771141580,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 471121,
+      "num": 186285,
+      "word": "李峋的vlog全是公主",
+      "onboard_time": 1771757242,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 470820,
@@ -8697,6 +8745,14 @@
       "onboard_time": 1771490059,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 413455,
+      "num": 413455,
+      "word": "李方慧第二滑91.50分",
+      "onboard_time": 1771757302,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 413031,
@@ -10764,7 +10820,7 @@
     },
     {
       "raw_hot": 352953,
-      "num": 144048,
+      "num": 186077,
       "word": "大年初五8岁男童虎跳峡坠崖遇难",
       "onboard_time": 1771750581,
       "rank": 48,
@@ -11955,6 +12011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 323873,
+      "num": 323873,
+      "word": "果然爱情公寓不是拍给当时的我们看的",
+      "onboard_time": 1771757482,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 323600,
       "num": 711143,
       "word": "樊振东2比3高茨",
@@ -13043,6 +13107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 304929,
+      "num": 304929,
+      "word": "谷爱凌 大心脏",
+      "onboard_time": 1771758143,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 304605,
       "num": 219096,
       "word": "女子临终将婆婆300万养老钱送姐姐",
@@ -13657,14 +13729,6 @@
       "onboard_time": 1771560441,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 293380,
-      "num": 293380,
-      "word": "韩国队抗议米兰冬奥至少4次印错国旗",
-      "onboard_time": 1771754361,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 293371,
@@ -15060,7 +15124,7 @@
     },
     {
       "raw_hot": 268741,
-      "num": 109489,
+      "num": 185635,
       "word": "福州偶遇陈赫张子萱",
       "onboard_time": 1771753639,
       "rank": 25,
@@ -16180,7 +16244,7 @@
     },
     {
       "raw_hot": 251580,
-      "num": 93394,
+      "num": 107704,
       "word": "U池决赛 紧张",
       "onboard_time": 1771756521,
       "rank": 36,
@@ -16281,6 +16345,14 @@
       "onboard_time": 1771324761,
       "rank": 32,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 250159,
+      "num": 250159,
+      "word": "李方慧第三滑93.00分",
+      "onboard_time": 1771758628,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 250116,
@@ -16587,6 +16659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 246295,
+      "num": 246295,
+      "word": "徐梦桃说太嘚瑟了结果金牌被刮花",
+      "onboard_time": 1771752200,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 246092,
       "num": 182748,
       "word": "龙麦这和官宣有什么区别",
@@ -16673,6 +16753,14 @@
       "onboard_time": 1771231343,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 245110,
+      "num": 145963,
+      "word": "谷爱凌U池夺金",
+      "onboard_time": 1771758508,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 245044,
@@ -17121,6 +17209,14 @@
       "onboard_time": 1771515200,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 238146,
+      "num": 238146,
+      "word": "中国队5金4银6铜收官",
+      "onboard_time": 1771759464,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 238131,
@@ -20267,6 +20363,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 198884,
+      "num": 198884,
+      "word": "唐宫奇案大结局",
+      "onboard_time": 1771756822,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 198790,
       "num": 198790,
       "word": "微博之夜 二刷",
@@ -20979,6 +21083,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 191459,
+      "num": 185729,
+      "word": "远嫁姐姐回家 47岁弟弟激动得像孩子",
+      "onboard_time": 1771758263,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 191441,
       "num": 113388,
       "word": "特朗普称将加征10%全球进口关税",
@@ -21379,6 +21491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186749,
+      "num": 186749,
+      "word": "极客湾 下架",
+      "onboard_time": 1771758747,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 186748,
       "num": 156981,
       "word": "方家翊整容后小区门禁人脸识别失败",
@@ -21592,6 +21712,14 @@
       "word": "谷爱凌第二滑86.50分",
       "onboard_time": 1771529834,
       "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 184374,
+      "num": 181291,
+      "word": "谷爱凌空中姿态太美了",
+      "onboard_time": 1771758263,
+      "rank": 26,
       "category": "体育"
     },
     {
@@ -21993,6 +22121,14 @@
       "onboard_time": 1770379041,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 179913,
+      "num": 179913,
+      "word": "徐梦桃父亲在线催生",
+      "onboard_time": 1771758322,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 179850,
@@ -22457,6 +22593,14 @@
       "onboard_time": 1770721280,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 174938,
+      "num": 174938,
+      "word": "仙逆",
+      "onboard_time": 1769943261,
+      "rank": 37,
+      "category": "动漫"
     },
     {
       "raw_hot": 174904,
@@ -23891,6 +24035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160401,
+      "num": 160401,
+      "word": "谷爱凌李方慧 慧当凌绝顶",
+      "onboard_time": 1771759585,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160302,
       "num": 160302,
       "word": "矿山员工10分钟数9.5万现金手抽筋",
@@ -24809,6 +24961,14 @@
       "onboard_time": 1771372396,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 152807,
+      "num": 152807,
+      "word": "国际奥委会因印错韩国国旗致歉",
+      "onboard_time": 1771756880,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 152794,
@@ -25747,6 +25907,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 146476,
+      "num": 146476,
+      "word": "原来谷爱凌在大跳台也会怕",
+      "onboard_time": 1771758806,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 146439,
       "num": 146439,
       "word": "娜扎说脚没事",
@@ -25985,6 +26153,14 @@
       "onboard_time": 1771628295,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144669,
+      "num": 144669,
+      "word": "谷爱凌会飞",
+      "onboard_time": 1771758806,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 144621,
@@ -28185,14 +28361,6 @@
       "onboard_time": 1770461481,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 132104,
-      "num": 107292,
-      "word": "李峋的vlog全是公主",
-      "onboard_time": 1771757242,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 132025,
@@ -31739,6 +31907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 116041,
+      "num": 116041,
+      "word": "厚本 长剧",
+      "onboard_time": 1771759524,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 116019,
       "num": 116019,
       "word": "米卡称爸爸想搬来中国",
@@ -31921,6 +32097,14 @@
       "onboard_time": 1770129083,
       "rank": 36,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 115179,
+      "num": 114048,
+      "word": "杨幂说白帆插足别人婚姻是错误的",
+      "onboard_time": 1771758022,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 115141,
@@ -32801,6 +32985,14 @@
       "onboard_time": 1770085999,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 112217,
+      "num": 112217,
+      "word": "咱姨父喝的飞天茅台啊",
+      "onboard_time": 1771759105,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 112193,
@@ -33905,6 +34097,14 @@
       "onboard_time": 1770447262,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 108346,
+      "num": 108346,
+      "word": "谷爱凌U型场地统治力",
+      "onboard_time": 1771759706,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 108321,
@@ -35291,14 +35491,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 104320,
-      "num": 104320,
-      "word": "唐宫奇案大结局",
-      "onboard_time": 1771756822,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 104301,
       "num": 104301,
       "word": "偶遇宋祖儿潜水",
@@ -35643,6 +35835,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 103432,
+      "num": 103432,
+      "word": "虞书欣粉毛cos妆造舞台",
+      "onboard_time": 1771755920,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 103392,
       "num": 116120,
       "word": "东部战区一线战斗场景公开",
@@ -35681,14 +35881,6 @@
       "onboard_time": 1771055060,
       "rank": 7,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 103183,
-      "num": 103183,
-      "word": "仙逆",
-      "onboard_time": 1769943261,
-      "rank": 37,
-      "category": "动漫"
     },
     {
       "raw_hot": 103179,
@@ -38507,14 +38699,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 95086,
-      "num": 95086,
-      "word": "李方慧第二滑91.50分",
-      "onboard_time": 1771757302,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 95061,
       "num": 95061,
       "word": "医生科普三级撕裂到底是什么概念",
@@ -39667,14 +39851,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 92300,
-      "num": 92300,
-      "word": "徐梦桃说太嘚瑟了结果金牌被刮花",
-      "onboard_time": 1771752200,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 92282,
       "num": 92282,
       "word": "Faker发博",
@@ -40289,14 +40465,6 @@
       "onboard_time": 1771733840,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 90775,
-      "num": 90775,
-      "word": "国际奥委会因印错韩国国旗致歉",
-      "onboard_time": 1771756880,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 90735,
@@ -44187,14 +44355,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 81463,
-      "num": 81463,
-      "word": "虞书欣粉毛cos妆造舞台",
-      "onboard_time": 1771755920,
-      "rank": 38,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 81462,
       "num": 81462,
       "word": "过年前的工作强度",
@@ -44713,14 +44873,6 @@
       "onboard_time": 1771733900,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 80353,
-      "num": 80353,
-      "word": "果然爱情公寓不是拍给当时的我们看的",
-      "onboard_time": 1771757482,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 80335,
@@ -59900,7 +60052,7 @@
     },
     {
       "raw_hot": 25358,
-      "num": 1097521,
+      "num": 3050764,
       "word": "热气腾腾的中国年",
       "onboard_time": 1771681641,
       "rank": 2,
