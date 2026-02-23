@@ -1,6 +1,6 @@
 {
   "startTime": 1771778477494,
-  "endTime": 1771834079901,
+  "endTime": 1771837207931,
   "band_list": [
     {
       "raw_hot": 1592010,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 718049,
-      "num": 191213,
+      "num": 225750,
       "word": "叶祖新合照 想过了官宣没想到是亲戚",
       "onboard_time": 1771828879,
       "rank": 47,
@@ -89,6 +89,14 @@
       "onboard_time": 1771805419,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 652483,
+      "num": 1104397,
+      "word": "男子花5600元套中汽车使用权商家反悔",
+      "onboard_time": 1771833740,
+      "rank": 34,
+      "category": "民生新闻,汽车"
     },
     {
       "raw_hot": 641249,
@@ -147,12 +155,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 465361,
+      "num": 223518,
+      "word": "易梦玲称将捐出全部直播收入",
+      "onboard_time": 1771832481,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 454905,
+      "num": 220682,
+      "word": "大冰 谢谢您替我和小姑娘背负厄运",
+      "onboard_time": 1771835001,
+      "rank": 14,
+      "category": "网红"
+    },
+    {
       "raw_hot": 427307,
       "num": 427307,
       "word": "徐梦桃夺冠当天收到1600多条信息",
       "onboard_time": 1771815141,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 416017,
+      "num": 222188,
+      "word": "打麻将微信步数一万多",
+      "onboard_time": 1771832300,
+      "rank": 15,
+      "category": "幽默"
     },
     {
       "raw_hot": 414032,
@@ -192,14 +224,6 @@
       "word": "周洁琼不参与I.O.I回归",
       "onboard_time": 1771824800,
       "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 386249,
-      "num": 190025,
-      "word": "易梦玲称将捐出全部直播收入",
-      "onboard_time": 1771832481,
-      "rank": 13,
       "category": "艺人"
     },
     {
@@ -259,20 +283,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 324763,
+      "num": 271521,
+      "word": "初八上班的我就这样",
+      "onboard_time": 1771830259,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 313234,
       "num": 313234,
       "word": "中国最大高速收费站迎返程高峰",
       "onboard_time": 1771808779,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 308712,
-      "num": 271521,
-      "word": "初八上班的我就这样",
-      "onboard_time": 1771830259,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 307743,
@@ -305,6 +329,14 @@
       "onboard_time": 1771752200,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 280894,
+      "num": 258451,
+      "word": "舅舅看到你剪成这样也会释怀",
+      "onboard_time": 1771832660,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 271465,
@@ -387,6 +419,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 234672,
+      "num": 217404,
+      "word": "夫妻争吵男子抛子入河妻子跳河施救",
+      "onboard_time": 1771831340,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 234563,
       "num": 326436,
       "word": "本届冬奥会最佳镜头",
@@ -395,20 +435,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 227673,
-      "num": 187970,
-      "word": "打麻将微信步数一万多",
-      "onboard_time": 1771832300,
-      "rank": 15,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 226879,
-      "num": 226879,
+      "raw_hot": 232565,
+      "num": 232565,
       "word": "星河入梦 春节档遗珠",
       "onboard_time": 1771829480,
       "rank": 9,
       "category": "电影"
+    },
+    {
+      "raw_hot": 232117,
+      "num": 232117,
+      "word": "贾乃亮看黄景瑜新剧看哭了",
+      "onboard_time": 1771835061,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 226065,
@@ -441,6 +481,14 @@
       "onboard_time": 1771775242,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 208383,
+      "num": 131890,
+      "word": "美29岁女教师与未成年发生关系被捕",
+      "onboard_time": 1771832599,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 202929,
@@ -539,20 +587,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 187160,
-      "num": 187160,
-      "word": "夫妻争吵男子抛子入河妻子跳河施救",
-      "onboard_time": 1771831340,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 186438,
       "num": 186438,
       "word": "谷爱凌第三滑94.75分",
       "onboard_time": 1771757962,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 185731,
+      "num": 131747,
+      "word": "易梦玲晒比基尼照",
+      "onboard_time": 1771833082,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 185064,
@@ -571,14 +619,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 179784,
-      "num": 117365,
-      "word": "美29岁女教师与未成年发生关系被捕",
-      "onboard_time": 1771832599,
-      "rank": 30,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 179327,
       "num": 179327,
       "word": "镖人",
@@ -593,6 +633,14 @@
       "onboard_time": 1771805179,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 175497,
+      "num": 130552,
+      "word": "墨西哥毒枭几乎没有近照流出",
+      "onboard_time": 1771834640,
+      "rank": 22,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 174497,
@@ -891,12 +939,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 115322,
-      "num": 115322,
-      "word": "舅舅看到你剪成这样也会释怀",
-      "onboard_time": 1771832660,
-      "rank": 32,
-      "category": "幽默"
+      "raw_hot": 113445,
+      "num": 113445,
+      "word": "马嘉祺高会更新",
+      "onboard_time": 1771836200,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 113372,
@@ -905,6 +953,14 @@
       "onboard_time": 1771765403,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 113254,
+      "num": 118218,
+      "word": "男子聚餐夜宵后体内滤出7斤油",
+      "onboard_time": 1771832541,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112238,
@@ -921,14 +977,6 @@
       "onboard_time": 1771818023,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 108892,
-      "num": 108892,
-      "word": "男子花5600元套中汽车使用权商家反悔",
-      "onboard_time": 1771833740,
-      "rank": 34,
-      "category": "民生新闻,汽车"
     },
     {
       "raw_hot": 108890,
@@ -968,14 +1016,6 @@
       "word": "中国最大高速收费站站长发声",
       "onboard_time": 1771826720,
       "rank": 35,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 103246,
-      "num": 118218,
-      "word": "男子聚餐夜宵后体内滤出7斤油",
-      "onboard_time": 1771832541,
-      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -1041,6 +1081,14 @@
       "onboard_time": 1771831460,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 94374,
+      "num": 94374,
+      "word": "猫11.8斤等于人200斤",
+      "onboard_time": 1771834761,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 94264,
@@ -1179,6 +1227,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 85041,
+      "num": 85041,
+      "word": "西安雪片大如硬币",
+      "onboard_time": 1771833921,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84646,
       "num": 84646,
       "word": "如果你发现跟一个人聊天很舒服",
@@ -1203,19 +1259,19 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 82820,
-      "num": 82820,
-      "word": "西安雪片大如硬币",
-      "onboard_time": 1771833921,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 82057,
       "num": 82057,
       "word": "一个人一旦学会了观察自己",
       "onboard_time": 1771810219,
       "rank": 32,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 81988,
+      "num": 81988,
+      "word": "第一批年轻人年后离家实录",
+      "onboard_time": 1771835300,
+      "rank": 38,
       "category": "情感"
     },
     {
@@ -1283,20 +1339,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 77914,
+      "num": 77914,
+      "word": "零负债人群的生活方式",
+      "onboard_time": 1771831703,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 77910,
       "num": 97668,
       "word": "男子返程堵车12小时变24小时",
       "onboard_time": 1771776022,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 77518,
-      "num": 77518,
-      "word": "零负债人群的生活方式",
-      "onboard_time": 1771831703,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 76301,
@@ -1337,6 +1393,14 @@
       "onboard_time": 1771750581,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 74005,
+      "num": 74005,
+      "word": "毒枭被击毙引发骚乱多航班停飞",
+      "onboard_time": 1771836140,
+      "rank": 41,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 71476,
@@ -1403,6 +1467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 68500,
+      "num": 68500,
+      "word": "相册怎么不叫恒册",
+      "onboard_time": 1771836860,
+      "rank": 44,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 68342,
       "num": 68342,
       "word": "还有4年30后就出生了",
@@ -1419,12 +1491,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 67721,
+      "num": 67721,
+      "word": "不要和同事聊假期",
+      "onboard_time": 1771835841,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 67421,
       "num": 67421,
       "word": "上海爸爸说现在不是拼命赚钱的时候",
       "onboard_time": 1771823180,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 67307,
+      "num": 67307,
+      "word": "留子不爱点外卖的原因",
+      "onboard_time": 1771837040,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 66986,
@@ -1489,6 +1577,14 @@
       "onboard_time": 1771830380,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 65016,
+      "num": 65016,
+      "word": "孙颖莎梦回23年",
+      "onboard_time": 1771837161,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 64233,
@@ -1729,6 +1825,14 @@
       "onboard_time": 1771758866,
       "rank": 39,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 41038,
+      "num": 654981,
+      "word": "你的返程藏着他们满眼的不舍",
+      "onboard_time": 1771834821,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 40210,
