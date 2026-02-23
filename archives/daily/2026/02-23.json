@@ -1,6 +1,6 @@
 {
   "startTime": 1771778477494,
-  "endTime": 1771858592879,
+  "endTime": 1771859692128,
   "band_list": [
     {
       "raw_hot": 1592010,
@@ -81,6 +81,14 @@
       "onboard_time": 1771833740,
       "rank": 34,
       "category": "民生新闻,汽车"
+    },
+    {
+      "raw_hot": 749334,
+      "num": 1119893,
+      "word": "夜王 尺度",
+      "onboard_time": 1771856782,
+      "rank": 3,
+      "category": "电影"
     },
     {
       "raw_hot": 730798,
@@ -252,7 +260,7 @@
     },
     {
       "raw_hot": 491665,
-      "num": 325828,
+      "num": 426777,
       "word": "原来全麻手术不是睡着了",
       "onboard_time": 1771844720,
       "rank": 31,
@@ -340,7 +348,7 @@
     },
     {
       "raw_hot": 413519,
-      "num": 272636,
+      "num": 284732,
       "word": "鸟中刘亦菲也扛不了后置镜头怼脸拍",
       "onboard_time": 1771852583,
       "rank": 30,
@@ -385,14 +393,6 @@
       "onboard_time": 1771824800,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 387565,
-      "num": 387565,
-      "word": "夜王 尺度",
-      "onboard_time": 1771856782,
-      "rank": 3,
-      "category": "电影"
     },
     {
       "raw_hot": 382018,
@@ -529,6 +529,14 @@
       "onboard_time": 1771846221,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 294476,
+      "num": 490447,
+      "word": "胡锡进锐评谷爱凌",
+      "onboard_time": 1771858402,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 292314,
@@ -979,6 +987,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 174523,
+      "num": 183123,
+      "word": "谷爱凌发博晒金牌",
+      "onboard_time": 1771857262,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 174497,
       "num": 174497,
       "word": "慕慕昭昭CP",
@@ -993,6 +1009,14 @@
       "onboard_time": 1771787534,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 172167,
+      "num": 181588,
+      "word": "台湾河道弃尸案",
+      "onboard_time": 1771854382,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 171723,
@@ -1011,11 +1035,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 169779,
-      "num": 181588,
-      "word": "台湾河道弃尸案",
-      "onboard_time": 1771854382,
-      "rank": 44,
+      "raw_hot": 167890,
+      "num": 167890,
+      "word": "高速堵车大聪明选择下国道绕行",
+      "onboard_time": 1771856362,
+      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -1057,6 +1081,14 @@
       "onboard_time": 1771855220,
       "rank": 24,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 162165,
+      "num": 129283,
+      "word": "孙颖莎7比11帕拉南",
+      "onboard_time": 1771859301,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 162015,
@@ -1155,14 +1187,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 144199,
-      "num": 125773,
-      "word": "胡锡进锐评谷爱凌",
-      "onboard_time": 1771858402,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 143688,
       "num": 125149,
       "word": "免费时段即将结束仍在高速怎么办",
@@ -1201,14 +1225,6 @@
       "onboard_time": 1771775602,
       "rank": 18,
       "category": "数码"
-    },
-    {
-      "raw_hot": 139492,
-      "num": 183123,
-      "word": "谷爱凌发博晒金牌",
-      "onboard_time": 1771857262,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 139428,
@@ -1283,20 +1299,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 131155,
-      "num": 131155,
-      "word": "高速堵车大聪明选择下国道绕行",
-      "onboard_time": 1771856362,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 130426,
       "num": 130426,
       "word": "韩国游客爱上中国超市",
       "onboard_time": 1771839442,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 128969,
+      "num": 128969,
+      "word": "夜王",
+      "onboard_time": 1771857202,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 128075,
+      "num": 128075,
+      "word": "成何体统",
+      "onboard_time": 1771855522,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 126448,
@@ -1347,6 +1371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 122450,
+      "num": 168421,
+      "word": "误转69万公款对方拒绝退款",
+      "onboard_time": 1771859001,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122226,
       "num": 122226,
       "word": "此时的观众还不知跑男将会有多爆火",
@@ -1393,14 +1425,6 @@
       "onboard_time": 1771821018,
       "rank": 28,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 118729,
-      "num": 118729,
-      "word": "成何体统",
-      "onboard_time": 1771855522,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 118704,
@@ -1467,12 +1491,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 113822,
-      "num": 113822,
-      "word": "夜王",
-      "onboard_time": 1771857202,
-      "rank": 35,
-      "category": "电影"
+      "raw_hot": 113829,
+      "num": 113829,
+      "word": "狗主人因值机柜台弃狗被捕",
+      "onboard_time": 1771858582,
+      "rank": 36,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 113372,
@@ -1587,6 +1611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 102845,
+      "num": 102845,
+      "word": "徐梦桃拆台说并不享受做家务",
+      "onboard_time": 1771858881,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 102485,
       "num": 102485,
       "word": "让郭晓婷王天辰二搭的人简直是天才",
@@ -1635,6 +1667,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 98046,
+      "num": 98046,
+      "word": "郭晓婷王天辰 高干文",
+      "onboard_time": 1771856601,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 97662,
       "num": 97662,
       "word": "安宥真solo曲Force",
@@ -1659,7 +1699,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 96899,
+      "raw_hot": 97020,
       "num": 96899,
       "word": "飞驰3换轮胎不扔的原因",
       "onboard_time": 1771854024,
@@ -1856,6 +1896,14 @@
       "word": "赶飞机为什么要提前那么久到机场",
       "onboard_time": 1771839921,
       "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 90061,
+      "num": 90061,
+      "word": "你的年货正在攻击你的年货",
+      "onboard_time": 1771858881,
+      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -2684,7 +2732,7 @@
     },
     {
       "raw_hot": 47072,
-      "num": 649231,
+      "num": 668855,
       "word": "致冬奥会中国体育代表团的贺电",
       "onboard_time": 1771855042,
       "rank": 2,
@@ -2760,6 +2808,14 @@
       "word": "返程前的告别看泪目了",
       "onboard_time": 1771765403,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41330,
+      "num": 164393,
+      "word": "大熊猫为什么是雪来疯",
+      "onboard_time": 1771859361,
+      "rank": 21,
       "category": "民生新闻"
     },
     {
