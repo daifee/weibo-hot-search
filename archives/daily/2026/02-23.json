@@ -1,6 +1,6 @@
 {
   "startTime": 1771778477494,
-  "endTime": 1771859692128,
+  "endTime": 1771862146149,
   "band_list": [
     {
       "raw_hot": 1592010,
@@ -43,6 +43,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 966593,
+      "num": 1154655,
+      "word": "夜王 尺度",
+      "onboard_time": 1771856782,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 922653,
       "num": 260102,
       "word": "单依纯 蔻驰",
@@ -81,14 +89,6 @@
       "onboard_time": 1771833740,
       "rank": 34,
       "category": "民生新闻,汽车"
-    },
-    {
-      "raw_hot": 749334,
-      "num": 1119893,
-      "word": "夜王 尺度",
-      "onboard_time": 1771856782,
-      "rank": 3,
-      "category": "电影"
     },
     {
       "raw_hot": 730798,
@@ -177,6 +177,14 @@
       "onboard_time": 1771848740,
       "rank": 11,
       "category": "网红"
+    },
+    {
+      "raw_hot": 581372,
+      "num": 813500,
+      "word": "误转69万公款对方拒绝退款",
+      "onboard_time": 1771859001,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 577832,
@@ -483,6 +491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 316626,
+      "num": 490447,
+      "word": "胡锡进锐评谷爱凌",
+      "onboard_time": 1771858402,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 313234,
       "num": 313234,
       "word": "中国最大高速收费站迎返程高峰",
@@ -529,14 +545,6 @@
       "onboard_time": 1771846221,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 294476,
-      "num": 490447,
-      "word": "胡锡进锐评谷爱凌",
-      "onboard_time": 1771858402,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 292314,
@@ -1084,7 +1092,7 @@
     },
     {
       "raw_hot": 162165,
-      "num": 129283,
+      "num": 133106,
       "word": "孙颖莎7比11帕拉南",
       "onboard_time": 1771859301,
       "rank": 30,
@@ -1308,7 +1316,7 @@
     },
     {
       "raw_hot": 128969,
-      "num": 128969,
+      "num": 137904,
       "word": "夜王",
       "onboard_time": 1771857202,
       "rank": 35,
@@ -1340,7 +1348,7 @@
     },
     {
       "raw_hot": 125324,
-      "num": 125324,
+      "num": 136768,
       "word": "上班",
       "onboard_time": 1771855400,
       "rank": 31,
@@ -1369,14 +1377,6 @@
       "onboard_time": 1771822460,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 122450,
-      "num": 168421,
-      "word": "误转69万公款对方拒绝退款",
-      "onboard_time": 1771859001,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 122226,
@@ -1492,7 +1492,7 @@
     },
     {
       "raw_hot": 113829,
-      "num": 113829,
+      "num": 138095,
       "word": "狗主人因值机柜台弃狗被捕",
       "onboard_time": 1771858582,
       "rank": 36,
@@ -1537,6 +1537,14 @@
       "onboard_time": 1771821800,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 111654,
+      "num": 137304,
+      "word": "徐梦桃拆台说并不享受做家务",
+      "onboard_time": 1771858881,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 108979,
@@ -1609,14 +1617,6 @@
       "onboard_time": 1771826720,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 102845,
-      "num": 102845,
-      "word": "徐梦桃拆台说并不享受做家务",
-      "onboard_time": 1771858881,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 102485,
@@ -1784,6 +1784,14 @@
       "word": "穆祉丞滑雪服",
       "onboard_time": 1771772123,
       "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 92922,
+      "num": 92922,
+      "word": "韩振直播",
+      "onboard_time": 1771859959,
+      "rank": 31,
       "category": "艺人"
     },
     {
@@ -2083,6 +2091,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 81446,
+      "num": 76486,
+      "word": "夜王排片",
+      "onboard_time": 1771861702,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 81419,
       "num": 81419,
       "word": "谷爱凌登顶冬奥收入榜",
@@ -2184,6 +2200,14 @@
       "word": "男子返程堵车12小时变24小时",
       "onboard_time": 1771776022,
       "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 77304,
+      "num": 93669,
+      "word": "外国游客出境时疯狂点赞中国",
+      "onboard_time": 1771860380,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -2331,6 +2355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 70484,
+      "num": 70484,
+      "word": "女子极限候补高铁避开12小时堵车路",
+      "onboard_time": 1771859959,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 70362,
       "num": 70362,
       "word": "港股黄金概念股走强",
@@ -2417,6 +2449,14 @@
       "onboard_time": 1771837040,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 67081,
+      "num": 67081,
+      "word": "广东一高速春运期间可逆行且合规",
+      "onboard_time": 1771859901,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 66986,
@@ -2539,6 +2579,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 63301,
+      "num": 63301,
+      "word": "惊蛰无声网络评价和现实评价",
+      "onboard_time": 1771861821,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 62314,
       "num": 62314,
       "word": "娜扎这才叫顶级美女",
@@ -2561,6 +2609,22 @@
       "onboard_time": 1771765523,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 60980,
+      "num": 60980,
+      "word": "纯真年代 先婚后爱",
+      "onboard_time": 1771862120,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 60691,
+      "num": 60691,
+      "word": "墨西哥毒枭身亡事件华人发声",
+      "onboard_time": 1771861999,
+      "rank": 46,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 60220,
@@ -2627,8 +2691,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 57106,
+      "num": 57106,
+      "word": "杨幂拍完惊蛰无声舍不得走",
+      "onboard_time": 1771858702,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 56912,
-      "num": 116028,
+      "num": 692127,
       "word": "在全党开展树立和践行正确政绩观学习教育",
       "onboard_time": 1771853601,
       "rank": 31,
