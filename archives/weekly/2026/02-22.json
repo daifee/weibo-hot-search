@@ -1,6 +1,6 @@
 {
   "startTime": 1771691977529,
-  "endTime": 1771848033975,
+  "endTime": 1771852923273,
   "band_list": [
     {
       "raw_hot": 12387662,
@@ -163,6 +163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 816321,
+      "num": 1130611,
+      "word": "不让江山剧组声明",
+      "onboard_time": 1771847661,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 814281,
       "num": 1233633,
       "word": "谷爱凌追平王濛冬奥奖牌纪录",
@@ -252,11 +260,19 @@
     },
     {
       "raw_hot": 688525,
-      "num": 131183,
+      "num": 150885,
       "word": "叶舒华瘦下来美成真人bjd了",
       "onboard_time": 1771841841,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 686772,
+      "num": 629862,
+      "word": "镖人票房",
+      "onboard_time": 1771847000,
+      "rank": 13,
+      "category": "电影"
     },
     {
       "raw_hot": 686266,
@@ -307,6 +323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 626217,
+      "num": 173540,
+      "word": "单依纯 蔻驰",
+      "onboard_time": 1771850242,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 623586,
       "num": 174634,
       "word": "贝加尔湖事故8人身份全部确认",
@@ -347,6 +371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 594510,
+      "num": 172877,
+      "word": "董宇辉自曝不整容的原因",
+      "onboard_time": 1771848740,
+      "rank": 11,
+      "category": "网红"
+    },
+    {
       "raw_hot": 583860,
       "num": 300457,
       "word": "周深 王一博老师什么不火呀",
@@ -372,7 +404,7 @@
     },
     {
       "raw_hot": 574259,
-      "num": 131559,
+      "num": 171840,
       "word": "王格格开了时代峰峻的高会",
       "onboard_time": 1771844361,
       "rank": 26,
@@ -507,6 +539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 479045,
+      "num": 325828,
+      "word": "原来全麻手术不是睡着了",
+      "onboard_time": 1771844720,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 477756,
       "num": 265730,
       "word": "贾玲剧组 女演员可以坐箱子",
@@ -588,7 +628,7 @@
     },
     {
       "raw_hot": 431324,
-      "num": 128274,
+      "num": 151687,
       "word": "尼格买提家宴8个菜没一个青菜",
       "onboard_time": 1771844841,
       "rank": 28,
@@ -835,20 +875,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 350388,
-      "num": 325828,
-      "word": "原来全麻手术不是睡着了",
-      "onboard_time": 1771844720,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 350355,
       "num": 236938,
       "word": "输液过敏死亡独生女父母有残疾",
       "onboard_time": 1771747221,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 347819,
+      "num": 170946,
+      "word": "三亚偶遇章子怡一家",
+      "onboard_time": 1771851861,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 346605,
@@ -929,6 +969,14 @@
       "onboard_time": 1771822160,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 329225,
+      "num": 170279,
+      "word": "孩子把摔炮当糖果入口后爆炸",
+      "onboard_time": 1771846102,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 328954,
@@ -1043,6 +1091,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 297440,
+      "num": 786951,
+      "word": "夫妻春节不回家送外卖1个月赚4万",
+      "onboard_time": 1771846221,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 295206,
       "num": 103036,
       "word": "今年好几对情侣都分了",
@@ -1073,6 +1129,14 @@
       "onboard_time": 1771683502,
       "rank": 4,
       "category": "电影"
+    },
+    {
+      "raw_hot": 287845,
+      "num": 170113,
+      "word": "白鹿曾舜晞梁永棋陈鹤一团建合照",
+      "onboard_time": 1771848801,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 286333,
@@ -1120,14 +1184,6 @@
       "word": "拾石村小妈祖巡游终于有翻译版本了",
       "onboard_time": 1771762941,
       "rank": 24,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 278051,
-      "num": 786951,
-      "word": "夫妻春节不回家送外卖1个月赚4万",
-      "onboard_time": 1771846221,
-      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -1475,14 +1531,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 226473,
-      "num": 158447,
-      "word": "镖人票房",
-      "onboard_time": 1771847000,
-      "rank": 13,
-      "category": "电影"
-    },
-    {
       "raw_hot": 226065,
       "num": 226065,
       "word": "徐梦桃王心迪回应被催生",
@@ -1553,6 +1601,14 @@
       "onboard_time": 1771775242,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 215665,
+      "num": 148040,
+      "word": "吴佳尼自曝订婚后才知马景涛年龄",
+      "onboard_time": 1771850901,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 215656,
@@ -1707,6 +1763,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 192520,
+      "num": 192520,
+      "word": "小狗坐十几个小时长途面相都变了",
+      "onboard_time": 1771845622,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 191931,
       "num": 125403,
       "word": "小猫吃虾被烫到当场暴打大虾",
@@ -1777,6 +1841,14 @@
       "onboard_time": 1771770863,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 188696,
+      "num": 149036,
+      "word": "能谈到结婚的伴侣是什么样的",
+      "onboard_time": 1771850422,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 186850,
@@ -1979,6 +2051,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 174191,
+      "num": 174191,
+      "word": "杨洋工作室回应不让江山相关争议",
+      "onboard_time": 1771851202,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 173032,
       "num": 173032,
       "word": "骏良",
@@ -2132,7 +2212,7 @@
     },
     {
       "raw_hot": 154147,
-      "num": 154147,
+      "num": 174167,
       "word": "LunarNewYear使用的源头",
       "onboard_time": 1771845742,
       "rank": 17,
@@ -2193,6 +2273,14 @@
       "onboard_time": 1771736600,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 147990,
+      "num": 147990,
+      "word": "丞磊王楚然共创回忆录",
+      "onboard_time": 1771848922,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 146744,
@@ -2289,14 +2377,6 @@
       "onboard_time": 1771765523,
       "rank": 27,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 142873,
-      "num": 142873,
-      "word": "小狗坐十几个小时长途面相都变了",
-      "onboard_time": 1771845622,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 142563,
@@ -2507,6 +2587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 132889,
+      "num": 107432,
+      "word": "鸟中刘亦菲也扛不了后置镜头怼脸拍",
+      "onboard_time": 1771852583,
+      "rank": 30,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 132720,
       "num": 132720,
       "word": "小猫一头扎进大猫怀里",
@@ -2515,12 +2603,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 132542,
-      "num": 132542,
-      "word": "孩子把摔炮当糖果入口后爆炸",
-      "onboard_time": 1771846102,
-      "rank": 37,
-      "category": "民生新闻"
+      "raw_hot": 132481,
+      "num": 132481,
+      "word": "代旭过年期间胖了1斤",
+      "onboard_time": 1771851621,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 131964,
@@ -2836,7 +2924,7 @@
     },
     {
       "raw_hot": 115787,
-      "num": 115787,
+      "num": 141634,
       "word": "多省官宣中小学春秋假",
       "onboard_time": 1771846762,
       "rank": 33,
@@ -2865,6 +2953,14 @@
       "onboard_time": 1771756100,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 115128,
+      "num": 152615,
+      "word": "西湖里捞起财物累计价值超600万",
+      "onboard_time": 1771851921,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 114963,
@@ -2908,19 +3004,11 @@
     },
     {
       "raw_hot": 113318,
-      "num": 90082,
+      "num": 102619,
       "word": "韩雨彤回应拍古装做了美甲",
       "onboard_time": 1771846702,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 113310,
-      "num": 132115,
-      "word": "不让江山剧组声明",
-      "onboard_time": 1771847661,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 113254,
@@ -3011,6 +3099,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 109267,
+      "num": 106643,
+      "word": "王鹤棣说祝大家永远不死",
+      "onboard_time": 1771851680,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 109164,
       "num": 102691,
       "word": "专家提醒过期药害猛如虎",
@@ -3075,6 +3171,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 108209,
+      "num": 108209,
+      "word": "孙颖莎vs帕拉南",
+      "onboard_time": 1771852821,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 108177,
       "num": 114466,
       "word": "将门毒后",
@@ -3137,6 +3241,14 @@
       "onboard_time": 1771723219,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 105542,
+      "num": 105542,
+      "word": "毁于一蛋",
+      "onboard_time": 1771849220,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 105103,
@@ -3323,6 +3435,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 96480,
+      "num": 96480,
+      "word": "运动员因庆祝动作不当被取消冠军",
+      "onboard_time": 1771850901,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 95720,
       "num": 89841,
       "word": "陈赫直播提及宋雨琦cut",
@@ -3417,6 +3537,14 @@
       "onboard_time": 1771845202,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 92756,
+      "num": 92756,
+      "word": "谷爱凌是米饭狂魔",
+      "onboard_time": 1771852282,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 92742,
@@ -3609,6 +3737,14 @@
       "onboard_time": 1771687999,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 88300,
+      "num": 88300,
+      "word": "孙颖莎赛前吃香蕉补充能量",
+      "onboard_time": 1771852881,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 88280,
@@ -4091,6 +4227,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 75592,
+      "num": 75592,
+      "word": "张艺兴我姓张你别嚣张",
+      "onboard_time": 1771850541,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 75064,
       "num": 75064,
       "word": "张凯毅生娃后发文",
@@ -4105,6 +4249,14 @@
       "onboard_time": 1771753760,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 74675,
+      "num": 74675,
+      "word": "千元酒店热水仅可连续用12分钟",
+      "onboard_time": 1771851202,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 74576,
@@ -4225,6 +4377,14 @@
       "onboard_time": 1771801635,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 71465,
+      "num": 71465,
+      "word": "王者新赛季农场玩法首曝",
+      "onboard_time": 1771851740,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 71375,
@@ -4688,6 +4848,14 @@
       "word": "小伙撕去年对联天塌了",
       "onboard_time": 1771673902,
       "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 57222,
+      "num": 107433,
+      "word": "这是现实版惊蛰无声",
+      "onboard_time": 1771851982,
+      "rank": 29,
       "category": "民生新闻"
     },
     {

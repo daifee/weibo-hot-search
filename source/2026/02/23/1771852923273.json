@@ -1,0 +1,410 @@
+{
+  "runTime": 1771852923273,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 816321,
+        "num": 1130611,
+        "word": "不让江山剧组声明",
+        "onboard_time": 1771847661,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 406624,
+        "num": 840523,
+        "word": "商家称36斤羊烤完剩6.9斤是正常",
+        "onboard_time": 1771839980,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40227,
+        "num": 645475,
+        "word": "你的返程藏着他们满眼的不舍",
+        "onboard_time": 1771834821,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 686772,
+        "num": 629862,
+        "word": "镖人票房",
+        "onboard_time": 1771847000,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 297440,
+        "num": 297440,
+        "word": "夫妻春节不回家送外卖1个月赚4万",
+        "onboard_time": 1771846221,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 479045,
+        "num": 257338,
+        "word": "原来全麻手术不是睡着了",
+        "onboard_time": 1771844720,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 444459,
+        "num": 237471,
+        "word": "瘦了后出片像呼吸一样简单",
+        "onboard_time": 1771844301,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 192520,
+        "num": 192520,
+        "word": "小狗坐十几个小时长途面相都变了",
+        "onboard_time": 1771845622,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174191,
+        "num": 174191,
+        "word": "杨洋工作室回应不让江山相关争议",
+        "onboard_time": 1771851202,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151078,
+        "num": 174167,
+        "word": "LunarNewYear使用的源头",
+        "onboard_time": 1771845742,
+        "rank": 9,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 626217,
+        "num": 173540,
+        "word": "单依纯 蔻驰",
+        "onboard_time": 1771850242,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 594510,
+        "num": 172877,
+        "word": "董宇辉自曝不整容的原因",
+        "onboard_time": 1771848740,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 419626,
+        "num": 172181,
+        "word": "史上最贵iPhone要来了",
+        "onboard_time": 1771824080,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 531045,
+        "num": 171840,
+        "word": "王格格开了时代峰峻的高会",
+        "onboard_time": 1771844361,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 347819,
+        "num": 170946,
+        "word": "三亚偶遇章子怡一家",
+        "onboard_time": 1771851861,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 329225,
+        "num": 170279,
+        "word": "孩子把摔炮当糖果入口后爆炸",
+        "onboard_time": 1771846102,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 287845,
+        "num": 170113,
+        "word": "白鹿曾舜晞梁永棋陈鹤一团建合照",
+        "onboard_time": 1771848801,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169713,
+        "num": 169713,
+        "word": "初八上班的我就这样",
+        "onboard_time": 1771830259,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 153182,
+        "num": 153182,
+        "word": "西安暴雪24小时内温差20度",
+        "onboard_time": 1771845021,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115128,
+        "num": 152615,
+        "word": "西湖里捞起财物累计价值超600万",
+        "onboard_time": 1771851921,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 268392,
+        "num": 151687,
+        "word": "尼格买提家宴8个菜没一个青菜",
+        "onboard_time": 1771844841,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230029,
+        "num": 150885,
+        "word": "叶舒华瘦下来美成真人bjd了",
+        "onboard_time": 1771841841,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188696,
+        "num": 149036,
+        "word": "能谈到结婚的伴侣是什么样的",
+        "onboard_time": 1771850422,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 215665,
+        "num": 148040,
+        "word": "吴佳尼自曝订婚后才知马景涛年龄",
+        "onboard_time": 1771850901,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147990,
+        "num": 147990,
+        "word": "丞磊王楚然共创回忆录",
+        "onboard_time": 1771848922,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114660,
+        "num": 141634,
+        "word": "多省官宣中小学春秋假",
+        "onboard_time": 1771846762,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139465,
+        "num": 139465,
+        "word": "柳智敏solo成绩",
+        "onboard_time": 1771843461,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 132481,
+        "num": 132481,
+        "word": "代旭过年期间胖了1斤",
+        "onboard_time": 1771851621,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108209,
+        "num": 108209,
+        "word": "孙颖莎vs帕拉南",
+        "onboard_time": 1771852821,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 57222,
+        "num": 107433,
+        "word": "这是现实版惊蛰无声",
+        "onboard_time": 1771851982,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132889,
+        "num": 107432,
+        "word": "鸟中刘亦菲也扛不了后置镜头怼脸拍",
+        "onboard_time": 1771852583,
+        "rank": 30,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 115845,
+        "num": 107400,
+        "word": "歌手徐浩宣布干团播",
+        "onboard_time": 1771844601,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107284,
+        "num": 107284,
+        "word": "免费时段即将结束仍在高速怎么办",
+        "onboard_time": 1771844301,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109267,
+        "num": 106643,
+        "word": "王鹤棣说祝大家永远不死",
+        "onboard_time": 1771851680,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 105542,
+        "num": 105542,
+        "word": "毁于一蛋",
+        "onboard_time": 1771849220,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 102619,
+        "num": 102619,
+        "word": "韩雨彤回应拍古装做了美甲",
+        "onboard_time": 1771846702,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102556,
+        "num": 102556,
+        "word": "妈妈给远嫁女儿寄了120个单间饺子",
+        "onboard_time": 1771842440,
+        "rank": 36,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 99582,
+        "num": 99582,
+        "word": "谢娜下一界冬奥会见",
+        "onboard_time": 1771844180,
+        "rank": 37,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 96480,
+        "num": 96480,
+        "word": "运动员因庆祝动作不当被取消冠军",
+        "onboard_time": 1771850901,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93740,
+        "num": 93740,
+        "word": "金秋天solo曲Odd",
+        "onboard_time": 1771840040,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 92756,
+        "num": 92756,
+        "word": "谷爱凌是米饭狂魔",
+        "onboard_time": 1771852282,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89171,
+        "num": 89171,
+        "word": "TF五代排名",
+        "onboard_time": 1771845562,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88300,
+        "num": 88300,
+        "word": "孙颖莎赛前吃香蕉补充能量",
+        "onboard_time": 1771852881,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82212,
+        "num": 82212,
+        "word": "男子花5600元套中汽车使用权商家反悔",
+        "onboard_time": 1771833740,
+        "rank": 43,
+        "category": "民生新闻,汽车"
+      },
+      {
+        "raw_hot": 81419,
+        "num": 81419,
+        "word": "孙颖莎光着一只脚",
+        "onboard_time": 1771841000,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 78484,
+        "num": 78484,
+        "word": "12306回应列车因超员滞留半小时",
+        "onboard_time": 1771846221,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75592,
+        "num": 75592,
+        "word": "张艺兴我姓张你别嚣张",
+        "onboard_time": 1771850541,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74675,
+        "num": 74675,
+        "word": "千元酒店热水仅可连续用12分钟",
+        "onboard_time": 1771851202,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71465,
+        "num": 71465,
+        "word": "王者新赛季农场玩法首曝",
+        "onboard_time": 1771851740,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 69081,
+        "num": 69081,
+        "word": "陈赫直播提及宋雨琦cut",
+        "onboard_time": 1771846401,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平致电祝贺金正恩#"
+    }
+  }
+}
