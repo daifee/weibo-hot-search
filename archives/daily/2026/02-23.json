@@ -1,6 +1,6 @@
 {
   "startTime": 1771778477494,
-  "endTime": 1771841874888,
+  "endTime": 1771845284550,
   "band_list": [
     {
       "raw_hot": 1592010,
@@ -67,6 +67,14 @@
       "category": "民生新闻,汽车"
     },
     {
+      "raw_hot": 730798,
+      "num": 1116927,
+      "word": "商家称36斤羊烤完剩6.9斤是正常",
+      "onboard_time": 1771839980,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 718049,
       "num": 225750,
       "word": "叶祖新合照 想过了官宣没想到是亲戚",
@@ -81,6 +89,14 @@
       "onboard_time": 1771827319,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 688525,
+      "num": 120435,
+      "word": "叶舒华瘦下来美成真人bjd了",
+      "onboard_time": 1771841841,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 677814,
@@ -131,12 +147,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 566827,
-      "num": 1090692,
-      "word": "商家称36斤羊烤完剩6.9斤是正常",
-      "onboard_time": 1771839980,
-      "rank": 1,
-      "category": "民生新闻"
+      "raw_hot": 543619,
+      "num": 184891,
+      "word": "大钱都是三五年挣的",
+      "onboard_time": 1771841240,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 535951,
@@ -156,7 +172,7 @@
     },
     {
       "raw_hot": 513880,
-      "num": 330441,
+      "num": 512822,
       "word": "王楚钦不好意思白纸我签不了",
       "onboard_time": 1771839201,
       "rank": 6,
@@ -203,12 +219,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 441515,
+      "num": 359222,
+      "word": "谷爱凌场外收入是奖金230倍",
+      "onboard_time": 1771839320,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 438638,
       "num": 438638,
       "word": "梅婷没想到有男演员拍戏会睡猪圈",
       "onboard_time": 1771838840,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 429789,
+      "num": 143408,
+      "word": "向太曝朱丽倩喜欢刘德华20年才见光",
+      "onboard_time": 1771839442,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 427307,
@@ -227,14 +259,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 415473,
-      "num": 143408,
-      "word": "向太曝朱丽倩喜欢刘德华20年才见光",
-      "onboard_time": 1771839442,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 410531,
       "num": 773845,
       "word": "谷爱凌炸完赛场炸秀场",
@@ -249,6 +273,14 @@
       "onboard_time": 1771829480,
       "rank": 15,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 401771,
+      "num": 401771,
+      "word": "柳智敏solo成绩",
+      "onboard_time": 1771843461,
+      "rank": 6,
+      "category": "音乐"
     },
     {
       "raw_hot": 395086,
@@ -283,12 +315,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 359222,
-      "num": 359222,
-      "word": "谷爱凌场外收入是奖金230倍",
-      "onboard_time": 1771839320,
-      "rank": 9,
-      "category": "体育"
+      "raw_hot": 372068,
+      "num": 199230,
+      "word": "黄景瑜回头喊关晓彤这一下",
+      "onboard_time": 1771842141,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 345583,
@@ -449,6 +481,14 @@
       "onboard_time": 1771831160,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 247622,
+      "num": 116214,
+      "word": "谢娜下一界冬奥会见",
+      "onboard_time": 1771844180,
+      "rank": 23,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 244299,
@@ -692,7 +732,7 @@
     },
     {
       "raw_hot": 180920,
-      "num": 98470,
+      "num": 178934,
       "word": "孙逊说守着王楚钦可不就胜率高么",
       "onboard_time": 1771841541,
       "rank": 30,
@@ -771,6 +811,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 164379,
+      "num": 117117,
+      "word": "妈妈给远嫁女儿寄了120个单间饺子",
+      "onboard_time": 1771842440,
+      "rank": 22,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 163537,
+      "num": 110552,
+      "word": "瘦了后出片像呼吸一样简单",
+      "onboard_time": 1771844301,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 162015,
       "num": 120138,
       "word": "马思唯终于舍得带小米去贵地方了",
@@ -827,6 +883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 152700,
+      "num": 113696,
+      "word": "王格格开了时代峰峻的高会",
+      "onboard_time": 1771844361,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 145947,
       "num": 145947,
       "word": "哈尔滨300多只东北虎将轻断食",
@@ -848,6 +912,14 @@
       "word": "女子动车厕所冲走50g金手链",
       "onboard_time": 1771801996,
       "rank": 6,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 143688,
+      "num": 112863,
+      "word": "免费时段即将结束仍在高速怎么办",
+      "onboard_time": 1771844301,
+      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -883,6 +955,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 137219,
+      "num": 112139,
+      "word": "尼格买提家宴8个菜没一个青菜",
+      "onboard_time": 1771844841,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 137009,
       "num": 156452,
       "word": "陈俊菘15比13张本智和",
@@ -907,12 +987,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 135149,
+      "num": 111667,
+      "word": "歌手徐浩宣布干团播",
+      "onboard_time": 1771844601,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 134692,
       "num": 134692,
       "word": "问界M9起火声明",
       "onboard_time": 1771832900,
       "rank": 25,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 133851,
+      "num": 109981,
+      "word": "原来全麻手术不是睡着了",
+      "onboard_time": 1771844720,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 131437,
+      "num": 131437,
+      "word": "周洁琼不让江山妆造",
+      "onboard_time": 1771842800,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 131205,
@@ -1041,6 +1145,14 @@
       "onboard_time": 1771827260,
       "rank": 25,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 114420,
+      "num": 114420,
+      "word": "孙颖莎光着一只脚",
+      "onboard_time": 1771841000,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 113911,
@@ -1219,11 +1331,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 93620,
+      "num": 101537,
+      "word": "李煜东是铁了心不写作业了吗",
+      "onboard_time": 1771844242,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 93465,
       "num": 92736,
       "word": "悉尼偶遇张柏芝",
       "onboard_time": 1771828760,
       "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 93269,
+      "num": 93269,
+      "word": "刘宇宁回老家过年",
+      "onboard_time": 1771844120,
+      "rank": 42,
       "category": "艺人"
     },
     {
@@ -1233,6 +1361,14 @@
       "onboard_time": 1771772123,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 92921,
+      "num": 92921,
+      "word": "元流之子刺客技能爆料",
+      "onboard_time": 1771845202,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 92808,
@@ -1281,6 +1417,14 @@
       "onboard_time": 1771771284,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 91452,
+      "num": 91452,
+      "word": "王楚钦头顶发芽了",
+      "onboard_time": 1771844841,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 91248,
@@ -1427,14 +1571,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 82121,
-      "num": 82121,
-      "word": "孙颖莎光着一只脚",
-      "onboard_time": 1771841000,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 82057,
       "num": 82057,
       "word": "一个人一旦学会了观察自己",
@@ -1531,14 +1667,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 76563,
-      "num": 75265,
-      "word": "叶舒华瘦下来美成真人bjd了",
-      "onboard_time": 1771841841,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 76301,
       "num": 76301,
       "word": "王楚钦跟德国主教练social",
@@ -1561,14 +1689,6 @@
       "onboard_time": 1771805898,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 75295,
-      "num": 75295,
-      "word": "大钱都是三五年挣的",
-      "onboard_time": 1771841240,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 74657,
@@ -2139,6 +2259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 37070,
+      "num": 217362,
+      "word": "高速返程车流如红色长龙看不到头",
+      "onboard_time": 1771844780,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36123,
       "num": 36123,
       "word": "冬奥会结束得好快",
@@ -2195,6 +2323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 25600,
+      "num": 123270,
+      "word": "西安暴雪24小时内温差20度",
+      "onboard_time": 1771845021,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25562,
       "num": 17500,
       "word": "阿尔卑斯冬奥会见",
@@ -2209,6 +2345,14 @@
       "onboard_time": 1771827500,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 24745,
+      "num": 98218,
+      "word": "女子申请五笔网贷400元要分36期",
+      "onboard_time": 1771844421,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24525,
@@ -2379,6 +2523,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 18103,
+      "num": 99338,
+      "word": "男生卧虎岭徒步时拍到阴阳坡",
+      "onboard_time": 1771844780,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18091,
       "num": 19457,
       "word": "谷爱凌说体育不会说谎",
@@ -2433,6 +2585,14 @@
       "onboard_time": 1771764682,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 9925,
+      "num": 98112,
+      "word": "AI重现春晚名场面",
+      "onboard_time": 1771844481,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 7538,
