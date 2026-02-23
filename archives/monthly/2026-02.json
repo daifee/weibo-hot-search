@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1771823163981,
+  "endTime": 1771823759430,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -4305,6 +4305,14 @@
       "onboard_time": 1770722299,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 677814,
+      "num": 493065,
+      "word": "杨幂 这么来历不明的二维码也要扫吗",
+      "onboard_time": 1771822460,
+      "rank": 3,
+      "category": "电影"
     },
     {
       "raw_hot": 677161,
@@ -9507,14 +9515,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 393545,
-      "num": 393545,
-      "word": "杨幂 这么来历不明的二维码也要扫吗",
-      "onboard_time": 1771822460,
-      "rank": 3,
-      "category": "电影"
-    },
-    {
       "raw_hot": 393473,
       "num": 802271,
       "word": "中戏表演系原主任陈刚主动投案",
@@ -13300,7 +13300,7 @@
     },
     {
       "raw_hot": 307743,
-      "num": 185523,
+      "num": 186928,
       "word": "陈丽君自曝把命都交代出去",
       "onboard_time": 1771818440,
       "rank": 11,
@@ -20539,6 +20539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 202929,
+      "num": 202929,
+      "word": "尼泊尔巴士坠河致18死20余伤",
+      "onboard_time": 1771821320,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 202881,
       "num": 210251,
       "word": "郑大一附院医生诈骗94名患者获刑",
@@ -21280,6 +21288,14 @@
       "word": "扶老人被交警定次责非法院终局依据",
       "onboard_time": 1771579460,
       "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 195042,
+      "num": 195042,
+      "word": "大理4公里拖车费1400元",
+      "onboard_time": 1771821800,
+      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -22113,14 +22129,6 @@
       "onboard_time": 1771227323,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 185985,
-      "num": 185985,
-      "word": "尼泊尔巴士坠河致18死20余伤",
-      "onboard_time": 1771821320,
-      "rank": 9,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 185825,
@@ -24275,6 +24283,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 164753,
+      "num": 131890,
+      "word": "刘品言抱女儿打牌",
+      "onboard_time": 1771822340,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 164677,
       "num": 164677,
       "word": "丈夫半年收集妻子掉发细心熨烫保存",
@@ -24777,6 +24793,14 @@
       "onboard_time": 1771217844,
       "rank": 15,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 159695,
+      "num": 134036,
+      "word": "金裕贞短发造型",
+      "onboard_time": 1771820720,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 159683,
@@ -25529,14 +25553,6 @@
       "onboard_time": 1771047858,
       "rank": 24,
       "category": "电影"
-    },
-    {
-      "raw_hot": 153597,
-      "num": 134036,
-      "word": "金裕贞短发造型",
-      "onboard_time": 1771820720,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 153559,
@@ -27843,14 +27859,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 139241,
-      "num": 131890,
-      "word": "刘品言抱女儿打牌",
-      "onboard_time": 1771822340,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 139235,
       "num": 221279,
       "word": "香港女记者转型警队重案组总督察",
@@ -28265,6 +28273,14 @@
       "onboard_time": 1771404080,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 137104,
+      "num": 137104,
+      "word": "谷爱凌商业价值排冬奥运动员第一",
+      "onboard_time": 1771822460,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 137069,
@@ -29153,14 +29169,6 @@
       "onboard_time": 1770352883,
       "rank": 45,
       "category": "数码"
-    },
-    {
-      "raw_hot": 132345,
-      "num": 132345,
-      "word": "大理4公里拖车费1400元",
-      "onboard_time": 1771821800,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 132340,
@@ -30777,6 +30785,14 @@
       "onboard_time": 1771764202,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 124370,
+      "num": 124370,
+      "word": "江湖夜雨十年灯",
+      "onboard_time": 1771820479,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 124324,
@@ -34347,14 +34363,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 110818,
-      "num": 110818,
-      "word": "江湖夜雨十年灯",
-      "onboard_time": 1771820479,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 110814,
       "num": 133478,
       "word": "孙龙林孝埈刘少昂出战1500米",
@@ -34649,6 +34657,14 @@
       "onboard_time": 1771770805,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 109810,
+      "num": 109810,
+      "word": "第一个吃甘蔗比吃螃蟹更厉害",
+      "onboard_time": 1771821740,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 109798,
@@ -40563,14 +40579,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 93343,
-      "num": 93343,
-      "word": "第一个吃甘蔗比吃螃蟹更厉害",
-      "onboard_time": 1771821740,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 93339,
       "num": 93339,
       "word": "房主任替闺女追星成功",
@@ -40601,14 +40609,6 @@
       "onboard_time": 1770610400,
       "rank": 45,
       "category": "财经"
-    },
-    {
-      "raw_hot": 93297,
-      "num": 93297,
-      "word": "谷爱凌商业价值排冬奥运动员第一",
-      "onboard_time": 1771822460,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 93252,
@@ -42963,6 +42963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 87753,
+      "num": 87753,
+      "word": "陈飞宇孙千新剧热度登顶TOP1",
+      "onboard_time": 1771821141,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 87740,
       "num": 87740,
       "word": "第一批返乡过年的人",
@@ -43945,6 +43953,14 @@
       "onboard_time": 1770536842,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 85482,
+      "num": 85482,
+      "word": "父母托关系找的工作应该去吗",
+      "onboard_time": 1771822160,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 85464,
@@ -45179,14 +45195,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 82494,
-      "num": 82494,
-      "word": "父母托关系找的工作应该去吗",
-      "onboard_time": 1771822160,
-      "rank": 40,
-      "category": "情感"
-    },
-    {
       "raw_hot": 82472,
       "num": 232960,
       "word": "1分钱居然可以点4杯奶茶",
@@ -45587,6 +45595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 81419,
+      "num": 81419,
+      "word": "谷爱凌登顶冬奥收入榜",
+      "onboard_time": 1771822640,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 81415,
       "num": 81415,
       "word": "咪的jio怎么可以顶这么多东西",
@@ -45753,14 +45769,6 @@
       "onboard_time": 1770104060,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 81086,
-      "num": 81086,
-      "word": "谷爱凌登顶冬奥收入榜",
-      "onboard_time": 1771822640,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 81081,
@@ -46153,14 +46161,6 @@
       "onboard_time": 1770523699,
       "rank": 46,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 80268,
-      "num": 80268,
-      "word": "陈飞宇孙千新剧热度登顶TOP1",
-      "onboard_time": 1771821141,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 80263,
@@ -47227,6 +47227,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 77941,
+      "num": 77941,
+      "word": "真正的亲密关系不是撒娇和宠溺",
+      "onboard_time": 1771823540,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 77931,
       "num": 77931,
       "word": "切除子宫的她们",
@@ -47977,6 +47985,14 @@
       "onboard_time": 1770651860,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 76301,
+      "num": 76301,
+      "word": "王楚钦跟德国主教练social",
+      "onboard_time": 1771823480,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 76287,
@@ -50203,6 +50219,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 70359,
+      "num": 70359,
+      "word": "T1让LCK黄牛破防",
+      "onboard_time": 1771823721,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 70342,
       "num": 70342,
       "word": "虾的身材很曼妙",
@@ -51211,6 +51235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 67421,
+      "num": 67421,
+      "word": "上海爸爸说现在不是拼命赚钱的时候",
+      "onboard_time": 1771823180,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 67387,
       "num": 67387,
       "word": "男朋友第一次去老丈人家",
@@ -51441,6 +51473,14 @@
       "onboard_time": 1771488020,
       "rank": 44,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 66838,
+      "num": 66838,
+      "word": "果然智商最高的都压轴出场",
+      "onboard_time": 1771823721,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 66816,

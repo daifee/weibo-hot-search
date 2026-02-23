@@ -1,0 +1,410 @@
+{
+  "runTime": 1771823759430,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1039726,
+        "num": 1166356,
+        "word": "西安大雪",
+        "onboard_time": 1771821381,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 626503,
+        "num": 867745,
+        "word": "谷爱凌晒金牌打脸外媒",
+        "onboard_time": 1771818199,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32831,
+        "num": 674347,
+        "word": "中国红闪耀米兰冬奥闭幕式",
+        "onboard_time": 1771802657,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 677814,
+        "num": 493065,
+        "word": "杨幂 这么来历不明的二维码也要扫吗",
+        "onboard_time": 1771822460,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 209982,
+        "num": 209982,
+        "word": "谷爱凌夺冠动作形成完美生物力学闭环",
+        "onboard_time": 1771821381,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 302429,
+        "num": 209907,
+        "word": "陈飞宇回应李峋你知道吗",
+        "onboard_time": 1771819220,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1006417,
+        "num": 206912,
+        "word": "神仙肉",
+        "onboard_time": 1771812139,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202929,
+        "num": 202929,
+        "word": "尼泊尔巴士坠河致18死20余伤",
+        "onboard_time": 1771821320,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 195042,
+        "num": 195042,
+        "word": "大理4公里拖车费1400元",
+        "onboard_time": 1771821800,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192016,
+        "num": 192016,
+        "word": "墨西哥毒枭身亡引发报复行动",
+        "onboard_time": 1771814242,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 286284,
+        "num": 186928,
+        "word": "陈丽君自曝把命都交代出去",
+        "onboard_time": 1771818440,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 346832,
+        "num": 185039,
+        "word": "四川女婿黄子韬在家也得穿省服",
+        "onboard_time": 1771812320,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256729,
+        "num": 182251,
+        "word": "离婚发现女儿非亲生判还抚养费",
+        "onboard_time": 1771819220,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177352,
+        "num": 177352,
+        "word": "徐梦桃夺冠当天收到1600多条信息",
+        "onboard_time": 1771815141,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172705,
+        "num": 172705,
+        "word": "新疆尉犁5.1级地震",
+        "onboard_time": 1771821980,
+        "rank": 14,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 167639,
+        "num": 167639,
+        "word": "XG制作人SIMON被捕",
+        "onboard_time": 1771818800,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166889,
+        "num": 166889,
+        "word": "女子深陷迷你贷400元分36期",
+        "onboard_time": 1771805898,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165133,
+        "num": 165133,
+        "word": "大侦探",
+        "onboard_time": 1771822398,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163101,
+        "num": 163101,
+        "word": "I.O.I将于5月回归",
+        "onboard_time": 1771815141,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137104,
+        "num": 137104,
+        "word": "谷爱凌商业价值排冬奥运动员第一",
+        "onboard_time": 1771822460,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 615494,
+        "num": 135601,
+        "word": "曝厚本被不让江山除名",
+        "onboard_time": 1771813520,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 430236,
+        "num": 134759,
+        "word": "陈妍希说林心如女儿长的太好看了",
+        "onboard_time": 1771805419,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130786,
+        "num": 130786,
+        "word": "韩媒称韩唯一领先技术被中国反超",
+        "onboard_time": 1771815141,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 164753,
+        "num": 129187,
+        "word": "刘品言抱女儿打牌",
+        "onboard_time": 1771822340,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162634,
+        "num": 127376,
+        "word": "吴京回应镖人票房逆袭",
+        "onboard_time": 1771813279,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 125379,
+        "num": 125379,
+        "word": "谷爱凌晒奶奶戴奖牌合照",
+        "onboard_time": 1771809980,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159695,
+        "num": 125213,
+        "word": "金裕贞短发造型",
+        "onboard_time": 1771820720,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124370,
+        "num": 124370,
+        "word": "江湖夜雨十年灯",
+        "onboard_time": 1771820479,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118028,
+        "num": 118028,
+        "word": "杨瀚森11分12篮板",
+        "onboard_time": 1771822460,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112095,
+        "num": 112095,
+        "word": "中方就美国关税动向正式表态",
+        "onboard_time": 1771818199,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 115699,
+        "num": 111010,
+        "word": "谷爱凌脑回路",
+        "onboard_time": 1771822999,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109810,
+        "num": 109810,
+        "word": "第一个吃甘蔗比吃螃蟹更厉害",
+        "onboard_time": 1771821740,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 105607,
+        "num": 105607,
+        "word": "女子在地铁让座获孕妇百元红包",
+        "onboard_time": 1771816819,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97802,
+        "num": 97802,
+        "word": "越来越高级的智能马桶让人不敢坐",
+        "onboard_time": 1771819279,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91590,
+        "num": 91590,
+        "word": "侣皓吉吉我跟随你11年了",
+        "onboard_time": 1771820660,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87753,
+        "num": 87753,
+        "word": "陈飞宇孙千新剧热度登顶TOP1",
+        "onboard_time": 1771821141,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86748,
+        "num": 86748,
+        "word": "女生把红包铺满桌子后全部拆开",
+        "onboard_time": 1771818023,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85482,
+        "num": 85482,
+        "word": "父母托关系找的工作应该去吗",
+        "onboard_time": 1771822160,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 81419,
+        "num": 81419,
+        "word": "谷爱凌登顶冬奥收入榜",
+        "onboard_time": 1771822640,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32479,
+        "num": 80715,
+        "word": "刘瀚彬期待下一个四年",
+        "onboard_time": 1771822999,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 80472,
+        "num": 80472,
+        "word": "江浙沪接财神接的是GDP吗",
+        "onboard_time": 1771821800,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 77941,
+        "num": 77941,
+        "word": "真正的亲密关系不是撒娇和宠溺",
+        "onboard_time": 1771823540,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 76773,
+        "num": 76773,
+        "word": "小猫吃虾被烫到当场暴打大虾",
+        "onboard_time": 1771813279,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 76301,
+        "num": 76301,
+        "word": "王楚钦跟德国主教练social",
+        "onboard_time": 1771823480,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 70359,
+        "num": 70359,
+        "word": "T1让LCK黄牛破防",
+        "onboard_time": 1771823721,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 70073,
+        "num": 70073,
+        "word": "镖人",
+        "onboard_time": 1771769724,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 67421,
+        "num": 67421,
+        "word": "上海爸爸说现在不是拼命赚钱的时候",
+        "onboard_time": 1771823180,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 67994,
+        "num": 67364,
+        "word": "还有4年30后就出生了",
+        "onboard_time": 1771823119,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 66838,
+        "num": 66838,
+        "word": "果然智商最高的都压轴出场",
+        "onboard_time": 1771823721,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 63713,
+        "num": 63713,
+        "word": "詹姆斯43000分",
+        "onboard_time": 1771820780,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记心系社区#"
+    }
+  }
+}
