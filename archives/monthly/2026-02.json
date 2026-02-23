@@ -1,6 +1,6 @@
 {
   "startTime": 1769877562156,
-  "endTime": 1771880114689,
+  "endTime": 1771881035766,
   "band_list": [
     {
       "raw_hot": 26112442,
@@ -67171,6 +67171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 13033,
+      "num": 13716,
+      "word": "小鬼直播逛米兰",
+      "onboard_time": 1771871175,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 12978,
       "num": 181215,
       "word": "看阅兵落泪的外国小伙上春晚了",
@@ -67185,14 +67193,6 @@
       "onboard_time": 1771642760,
       "rank": 19,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 12872,
-      "num": 13716,
-      "word": "小鬼直播逛米兰",
-      "onboard_time": 1771871175,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 12854,
