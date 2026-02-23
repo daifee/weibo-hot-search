@@ -1,6 +1,6 @@
 {
   "startTime": 1771863172983,
-  "endTime": 1771888158241,
+  "endTime": 1771890045572,
   "band_list": [
     {
       "raw_hot": 1182807,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 570589,
-      "num": 746556,
+      "num": 928800,
       "word": "误转69万公款对方拒绝退款",
       "onboard_time": 1771859001,
       "rank": 1,
@@ -51,12 +51,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 334496,
-      "num": 500327,
+      "raw_hot": 427286,
+      "num": 69523,
+      "word": "宋亚轩",
+      "onboard_time": 1771887676,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 396358,
+      "num": 684522,
       "word": "墨西哥毒枭身亡事件华人发声",
       "onboard_time": 1771861999,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 369937,
+      "num": 95595,
+      "word": "伊朗",
+      "onboard_time": 1771888577,
+      "rank": 10,
+      "category": "国际时政"
     },
     {
       "raw_hot": 317574,
@@ -81,6 +97,14 @@
       "onboard_time": 1771844361,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 235644,
+      "num": 235644,
+      "word": "上班",
+      "onboard_time": 1771855400,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 233205,
@@ -115,6 +139,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 174087,
+      "num": 99953,
+      "word": "高速堵车大聪明选择下国道绕行",
+      "onboard_time": 1771856362,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 170556,
       "num": 138049,
       "word": "史上最贵iPhone要来了",
@@ -147,20 +179,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 154841,
+      "num": 94303,
+      "word": "吴佳尼自曝订婚后才知马景涛年龄",
+      "onboard_time": 1771850901,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 153776,
       "num": 153776,
       "word": "江苏卫视春晚小品 大为震撼",
       "onboard_time": 1771862300,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 133284,
-      "num": 133284,
-      "word": "上班",
-      "onboard_time": 1771855400,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 130842,
@@ -211,20 +243,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 107397,
-      "num": 99953,
-      "word": "高速堵车大聪明选择下国道绕行",
-      "onboard_time": 1771856362,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 101145,
       "num": 101145,
       "word": "夜王",
       "onboard_time": 1771857202,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 100965,
+      "num": 67213,
+      "word": "鞠婧祎珍珠腰链",
+      "onboard_time": 1771867276,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 99714,
@@ -243,12 +275,36 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 95316,
-      "num": 51323,
-      "word": "宋亚轩",
-      "onboard_time": 1771887676,
-      "rank": 11,
-      "category": "艺人"
+      "raw_hot": 99034,
+      "num": 69988,
+      "word": "免费时段即将结束仍在高速怎么办",
+      "onboard_time": 1771844301,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 95774,
+      "num": 95774,
+      "word": "西湖里捞起财物累计价值超600万",
+      "onboard_time": 1771851921,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93148,
+      "num": 118420,
+      "word": "夫妻春节不回家送外卖1个月赚4万",
+      "onboard_time": 1771846221,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92794,
+      "num": 92794,
+      "word": "考研出分时间",
+      "onboard_time": 1771888937,
+      "rank": 16,
+      "category": "教育"
     },
     {
       "raw_hot": 90362,
@@ -257,14 +313,6 @@
       "onboard_time": 1771851202,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 85279,
-      "num": 118420,
-      "word": "夫妻春节不回家送外卖1个月赚4万",
-      "onboard_time": 1771846221,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 83990,
@@ -283,14 +331,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 77509,
-      "num": 42481,
-      "word": "吴佳尼自曝订婚后才知马景涛年龄",
-      "onboard_time": 1771850901,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 76217,
       "num": 76217,
       "word": "金秋天solo曲Odd",
@@ -307,6 +347,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 73712,
+      "num": 73712,
+      "word": "方家翊自曝和家人划清界限",
+      "onboard_time": 1771873515,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 72850,
       "num": 76542,
       "word": "王者血包可以共享了",
@@ -315,20 +363,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 71546,
-      "num": 49342,
-      "word": "鞠婧祎珍珠腰链",
-      "onboard_time": 1771867276,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 69988,
-      "num": 69988,
-      "word": "免费时段即将结束仍在高速怎么办",
-      "onboard_time": 1771844301,
-      "rank": 36,
-      "category": "民生新闻"
+      "raw_hot": 72614,
+      "num": 72614,
+      "word": "镖人票房",
+      "onboard_time": 1771847000,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 68646,
@@ -339,12 +379,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 65821,
-      "num": 65821,
-      "word": "西湖里捞起财物累计价值超600万",
-      "onboard_time": 1771851921,
-      "rank": 38,
-      "category": "民生新闻"
+      "raw_hot": 65141,
+      "num": 65141,
+      "word": "刘宇宁新剧教科书级暧昧避嫌",
+      "onboard_time": 1771864218,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 64288,
@@ -379,6 +419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 58887,
+      "num": 58887,
+      "word": "韩雨彤回应拍古装做了美甲",
+      "onboard_time": 1771846702,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 58745,
       "num": 58745,
       "word": "周也出发新西兰了",
@@ -403,12 +451,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 56729,
-      "num": 56729,
-      "word": "镖人票房",
-      "onboard_time": 1771847000,
-      "rank": 32,
-      "category": "电影"
+      "raw_hot": 56400,
+      "num": 56400,
+      "word": "高速",
+      "onboard_time": 1771889057,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 56373,
+      "num": 56373,
+      "word": "BLACKPINK新歌GOmv预告",
+      "onboard_time": 1771888937,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 54363,
@@ -427,14 +483,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 53636,
-      "num": 42465,
-      "word": "方家翊自曝和家人划清界限",
-      "onboard_time": 1771873515,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 53474,
       "num": 65805,
       "word": "尼格买提家宴8个菜没一个青菜",
@@ -449,6 +497,14 @@
       "onboard_time": 1771848922,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 52145,
+      "num": 52145,
+      "word": "歌手徐浩宣布干团播",
+      "onboard_time": 1771844601,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 51805,
@@ -475,6 +531,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 49219,
+      "num": 49219,
+      "word": "时代少年团",
+      "onboard_time": 1771888577,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 48250,
       "num": 65801,
       "word": "女子极限候补高铁避开12小时堵车路",
@@ -483,12 +547,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 40760,
-      "num": 51950,
-      "word": "刘宇宁新剧教科书级暧昧避嫌",
-      "onboard_time": 1771864218,
-      "rank": 40,
-      "category": "剧集"
+      "raw_hot": 45050,
+      "num": 45050,
+      "word": "黄景瑜回复贾乃亮",
+      "onboard_time": 1771889718,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 40162,
+      "num": 40162,
+      "word": "电视台通报游客采访口音质疑",
+      "onboard_time": 1771874115,
+      "rank": 45,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 35935,
@@ -499,28 +571,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 34231,
-      "num": 34231,
-      "word": "歌手徐浩宣布干团播",
-      "onboard_time": 1771844601,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 29710,
+      "raw_hot": 32195,
       "num": 600312,
       "word": "在全党开展树立和践行正确政绩观学习教育",
       "onboard_time": 1771853601,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 28040,
-      "num": 28040,
-      "word": "电视台通报游客采访口音质疑",
-      "onboard_time": 1771874115,
-      "rank": 45,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 24322,
@@ -532,7 +588,7 @@
     },
     {
       "raw_hot": 20971,
-      "num": 33332,
+      "num": 56376,
       "word": "人民日报专访教练李琰",
       "onboard_time": 1771869016,
       "rank": 28,

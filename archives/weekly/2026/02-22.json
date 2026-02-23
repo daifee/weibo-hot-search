@@ -1,6 +1,6 @@
 {
   "startTime": 1771691977529,
-  "endTime": 1771888158241,
+  "endTime": 1771890045572,
   "band_list": [
     {
       "raw_hot": 12387662,
@@ -412,7 +412,7 @@
     },
     {
       "raw_hot": 581372,
-      "num": 813500,
+      "num": 928800,
       "word": "误转69万公款对方拒绝退款",
       "onboard_time": 1771859001,
       "rank": 19,
@@ -707,6 +707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 427286,
+      "num": 69523,
+      "word": "宋亚轩",
+      "onboard_time": 1771887676,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 416017,
       "num": 222188,
       "word": "打麻将微信步数一万多",
@@ -777,6 +785,14 @@
       "onboard_time": 1771843461,
       "rank": 6,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 396358,
+      "num": 684522,
+      "word": "墨西哥毒枭身亡事件华人发声",
+      "onboard_time": 1771861999,
+      "rank": 46,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 395889,
@@ -891,6 +907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 369937,
+      "num": 211187,
+      "word": "伊朗",
+      "onboard_time": 1771732160,
+      "rank": 11,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 369934,
       "num": 369934,
       "word": "杨幂演技",
@@ -979,14 +1003,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 340235,
-      "num": 211187,
-      "word": "伊朗",
-      "onboard_time": 1771732160,
-      "rank": 11,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 336633,
       "num": 336633,
       "word": "谷爱凌回应100%拿牌率",
@@ -1001,14 +1017,6 @@
       "onboard_time": 1771830801,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 334496,
-      "num": 500327,
-      "word": "墨西哥毒枭身亡事件华人发声",
-      "onboard_time": 1771861999,
-      "rank": 46,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 334050,
@@ -1536,6 +1544,14 @@
       "word": "王婆说媒炫富男子实际年龄40岁",
       "onboard_time": 1771750459,
       "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 235644,
+      "num": 235644,
+      "word": "上班",
+      "onboard_time": 1771855400,
+      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -2179,6 +2195,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 174087,
+      "num": 167890,
+      "word": "高速堵车大聪明选择下国道绕行",
+      "onboard_time": 1771856362,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 173032,
       "num": 173032,
       "word": "骏良",
@@ -2233,14 +2257,6 @@
       "onboard_time": 1771771763,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 167890,
-      "num": 167890,
-      "word": "高速堵车大聪明选择下国道绕行",
-      "onboard_time": 1771856362,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 167599,
@@ -2752,14 +2768,6 @@
       "word": "初六送穷怎么送",
       "onboard_time": 1771684522,
       "rank": 22,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 133284,
-      "num": 136768,
-      "word": "上班",
-      "onboard_time": 1771855400,
-      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -3571,6 +3579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 100965,
+      "num": 67213,
+      "word": "鞠婧祎珍珠腰链",
+      "onboard_time": 1771867276,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 100639,
       "num": 100639,
       "word": "经常吃太饱身体会发生什么变化",
@@ -3691,14 +3707,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 95316,
-      "num": 51323,
-      "word": "宋亚轩",
-      "onboard_time": 1771887676,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 95277,
       "num": 95277,
       "word": "李克勤演唱会用捞网收红包",
@@ -3793,6 +3801,14 @@
       "onboard_time": 1771845202,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 92794,
+      "num": 92794,
+      "word": "考研出分时间",
+      "onboard_time": 1771888937,
+      "rank": 16,
+      "category": "教育"
     },
     {
       "raw_hot": 92742,
@@ -4587,6 +4603,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 73712,
+      "num": 73712,
+      "word": "方家翊自曝和家人划清界限",
+      "onboard_time": 1771873515,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 73338,
       "num": 104721,
       "word": "亲历墨西哥暴乱中国游客发声",
@@ -4633,14 +4657,6 @@
       "onboard_time": 1771751480,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 71546,
-      "num": 49342,
-      "word": "鞠婧祎珍珠腰链",
-      "onboard_time": 1771867276,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 71476,
@@ -4979,6 +4995,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 65141,
+      "num": 65141,
+      "word": "刘宇宁新剧教科书级暧昧避嫌",
+      "onboard_time": 1771864218,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 64723,
       "num": 64723,
       "word": "火箭vs尼克斯",
@@ -5243,6 +5267,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 56400,
+      "num": 56400,
+      "word": "高速",
+      "onboard_time": 1771889057,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 56373,
+      "num": 56373,
+      "word": "BLACKPINK新歌GOmv预告",
+      "onboard_time": 1771888937,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 55988,
       "num": 55988,
       "word": "徐梦桃换个身份亮相闭幕式",
@@ -5304,14 +5344,6 @@
       "word": "欧阳震华暴瘦引热议",
       "onboard_time": 1771678404,
       "rank": 44,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 53636,
-      "num": 42465,
-      "word": "方家翊自曝和家人划清界限",
-      "onboard_time": 1771873515,
-      "rank": 39,
       "category": "艺人"
     },
     {
@@ -5377,6 +5409,14 @@
       "onboard_time": 1771672941,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 49219,
+      "num": 49219,
+      "word": "时代少年团",
+      "onboard_time": 1771888577,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 48800,
@@ -5483,6 +5523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 45050,
+      "num": 45050,
+      "word": "黄景瑜回复贾乃亮",
+      "onboard_time": 1771889718,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 44635,
       "num": 227871,
       "word": "老外扎堆到上海买黄金",
@@ -5571,20 +5619,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 40760,
-      "num": 51950,
-      "word": "刘宇宁新剧教科书级暧昧避嫌",
-      "onboard_time": 1771864218,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 40210,
       "num": 63539,
       "word": "泰72只老虎死亡所涉疾病不传播至人类",
       "onboard_time": 1771777879,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 40162,
+      "num": 40162,
+      "word": "电视台通报游客采访口音质疑",
+      "onboard_time": 1771874115,
+      "rank": 45,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 40140,
@@ -5753,14 +5801,6 @@
       "onboard_time": 1771791615,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 28040,
-      "num": 28040,
-      "word": "电视台通报游客采访口音质疑",
-      "onboard_time": 1771874115,
-      "rank": 45,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 26945,
@@ -5948,7 +5988,7 @@
     },
     {
       "raw_hot": 20971,
-      "num": 33332,
+      "num": 56376,
       "word": "人民日报专访教练李琰",
       "onboard_time": 1771869016,
       "rank": 28,
